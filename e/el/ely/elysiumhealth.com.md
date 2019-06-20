@@ -1,87 +1,171 @@
-> *The following text is extracted and transformed from the elysiumhealth.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430062531id_/https%3A//www.elysiumhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elysiumhealth.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620051007id_/https%3A//www.elysiumhealth.com/en-us/privacy) for the most accurate reproduction.*
 
-# Elysium Health
+# Privacy Policy | Elysium Health
 
-**Last Updated: February  25, 2016**
+#### Last Updated: April 22, 2019
 
-Protecting your privacy is really important to us. With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Service. So, please make sure that you have read and understand our Terms of Service.
+This Privacy Policy applies to all who visit and use our website, www.elysiumhealth.com, and online services as well as the websites and online services offered by our affiliates (collectively the “Site”).
 
-**Revisions to this Privacy Policy**
+This Privacy Policy explains how Elysium Health, Inc. (“Elysium Health”, “we”, “our”, or “us”) collects, uses, processes, and discloses your information.    
 
-Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll update the “Last Updated Date” above to indicate when those changes will become effective.
+This Privacy Policy is incorporated into our Terms of Services, which also apply when you use our Site.  By visiting or using the Site, you agree to the terms in this Privacy Policy and consent to the collection, use, process, disclosure of your personal information and non-identifying information as described in this Privacy Policy. If you do not agree with the practices described in this Privacy Policy, please cease visiting the Site, do not provide us with your personal information, or otherwise interact with the Site. 
 
-**Collection and Use of Information**
+We reserve the right to modify this Privacy Policy at any time. If we make any material changes to our Privacy Policy, we will provide notice on this Site. We encourage you to periodically review the privacy policy for any modifications. Your use and continued use of any of our service after we post any amendments or modifications to this Privacy Policy will be deemed your acceptance of this Privacy Policy and its changes.  You can determine when this Privacy Policy was last revised by referring to the date it was “last updated” above.
 
-Information Collected or Received from You
+### Information Collection
 
-Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services. 
+#### What Information We Collect?
 
-If you place an order on the Site, or choose to participate in any other promotional, e-commerce, or interactive activities offered on the Site, you may be asked to provide us with certain information that can be used to identify you (“PII”). For example, when you set up an account on the Site or purchase products from the Site, we collect PII (which you provide) that may include your: name, age and gender; (ii) billing address; (iii) shipping address; (iv) email address; (vi) phone number; (vii) credit card.
+**General:** When you visit and interact with our Site (including when you make a purchase through our Site), we may collect and you consent our collection of some or all of the following information directly from you and automatically as you use our services:
 
-More specifically, we may collect information about you from the Site by methods such as the following:
+  * _Personal Information that you voluntarily provide to us_. “Personal Information” is information about you that specifically identifies you or, when combined with other information we have, can be used to identify you. It includes such things as name, address, company name, telephone number, email address, date of birth, and purchase and ordering history.
+  * _Non-identifying information we collect when you use the Site_. “Non-identifying Information” is information that alone cannot identify you and has not been associated with you.  It includes such things as data from cookies or pixel tags, or data about the device you use to access, use, or interact with our Site, such as your IP address or the type of browser you are using.
 
-_Transactions and Activity_ \- If you purchase products through the Site,  we’ll collect certain PII including your name, email address, billing and postal address and phone number and certain other information such as the nature, quantity and price of the products you purchase.
 
-_Registration Forms_ \- If you create an Account or if you are offered the opportunity to enter a promotion, you must fill out the registration form on the Site. This form requires certain PII that may include your name, email address, mailing address and phone number, and certain other information such as areas of interest, product usage, and a unique individual password. 
 
-_Email and Other Voluntary Communications_ \- You may also choose to communicate with Elysium Health through email, via our Site, by telephone, in writing, or through other means. We collect the information in these communications, and such information may be PII.
+Elysium Health does not collect sensitive Personal Information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) without your express consent or as required or permitted by law.
 
-Information Collected Using Cookies and other Web Technologies. Like many website owners and operators, we use automated data collection tools such as Cookies and Web Beacons to collect certain information.
+Elysium Health may ask you to provide certain Personal Information at various times and places on the Site. In some cases, if you choose not to provide us with the requested Personal Information, you may not be able to access all of the Site or participate in all of its features.
 
-“Cookies” are small text files that are placed on your hard drive by a Web server when you access our Services. We may use both session Cookies and persistent Cookies to identify that you’ve logged in to the Services and to tell us how and when you interact with our Services. We may also use Cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent Cookies, session Cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept Cookies, you can change your browser options to stop automatically accepting Cookies or to prompt you before accepting Cookies. Please note, however, that if you don’t accept Cookies, you may not be able to access all portions or features of the Services. Some third-party services providers that we engage may also place their own Cookies on your hard drive. Note that, except as aforesaid, this Privacy Policy covers only our use of Cookies and does not include use of Cookies by such third parties.  
+For example, we may collect Personal Information from you when you:
 
-“Web Beacons” (also known as Web bugs, pixel tags or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with Cookies, to track and measure the performance of our Services, to monitor how many visitors view our Services, and to monitor the effectiveness of our advertising. Unlike Cookies, which are stored on the user’s hard drive, Web Beacons are typically embedded invisibly on web pages (or in an e-mail).
+  * Register, subscribe, or create an account with Elysium Health; 
+  * Purchase products from Elysium Health through our Site;
+  * Open or respond to our email offers;
+  * Contact customer service, or otherwise make use of our customer support tools;
+  * Sign-up for our email updates and newsletters;
+  * Use our referral program;
+  * Use or access to the functions, services and pages of our Site;
+  * Connect, link or “share” our Site via social networking sites;
+  * Provide ratings or reviews of our products and services;
+  * Apply for a job at Elysium Health.
 
-_Information Related to Use of the Services._ Our servers automatically record certain information about how a person uses our Services (we refer to this information as “Log Data”), including both Account holders and non-Account holders (either, a “User”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize and enhance our Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s IP address to generate aggregate, non-identifying information about how our Services are used.
 
-_Information Sent by Your Mobile Device._ We collect certain information that your mobile device sends when you use our Services, like a device identifier, user settings and the operating system of your device, as well as information about your use of our Services.
 
-_Location Information._ We may collect and store information about your location by converting your IP address into a rough geo-location. We may use location information to improve and personalize our Services for you.
+**Non-Identifying Information:** We may use cookies, web beacons/pixel tags, and other technology (collectively “cookies”) to automatically collect anonymous, non-identifying information about you when you visit our Site or interact with our emails.
 
-**Information that We Share with Third Parties**
+A “cookie” is a small text file that a website’s server places on a computer’s web browser. These cookies may be delivered in a first party or third party context. For example, we may collect information about your browser type and version, operating system, user language, ISP, viewed web pages, links that are clicked, IP address, the presence or absence of “flash” plug-ins, screen resolution, connection type, sites visited before and after visiting our Site, details about items purchased, and emails we send that you open, forward, or click through to our Site.
 
-We will not share any PII that we have collected from or regarding you except as described below:
+It is possible that one or more of our Sites that link to the Privacy Policy utilize flash cookies, otherwise known as local shared objects, to store your preferences or display personalized content based upon what you view on our Site. “Flash cookies” use technology to remember settings, preferences, and usage similar to browser cookies but these are managed through a different interface than your browser and are not disabled from your normal browser settings. Cookie management tools provided by your browser will not remove Flash cookies. Please see the last section under Cookies and Tracking for information on how to disable Flash cookies.
 
-_Information Shared with Our Services Providers._ We may engage third-party services providers to work with us to administer and provide the Services and to fulfill your orders. These third-party services providers have access to your PII only for the purpose of performing services on our behalf.
+By collecting this Non-Identifying Information we can:
 
-_Information Shared with Third Parties._ We may share aggregated information and non-identifying information with third parties for industry research and analysis, demographic profiling and other similar purposes.
+  * Better understand how you interact with our Site;
+  * Give you a more personal and optimized online experience by tracking your preferences;
+  * Improve our Site and services;
+  * Fulfill contracts with our business partners;
+  * Help confirm receipt of and response to our emails;
+  * Provide more effective customer service.
 
-_Information Disclosed in Connection with Business Transactions._ Information that we collect from our users, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction. 
 
-_Information Disclosed for Our Protection and the Protection of Others._ We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; or (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.
 
-**Your Choices**
+We also use this Non-Identifying Information for the same purpose as your Personal Information set out below.
 
-We offer you choices regarding the collection, use and sharing of your PII and we’ll respect the choices you make. Please note that if you decide not to provide us with the PII that we request, you may not be able to access all of the features of the Services.
+We may tie your Non-Identifying Information to personal information that you provide to us. You can choose NOT to provide us with this Non-Identifying Information by disabling cookies according to the section under Cookies and Tracking, but please be aware that certain portions of the Site may not be available to you.
 
-_Opt-Out._ We may periodically send you free newsletters and e-mails that directly promote our Services. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (either through your Account or by following the unsubscribe instructions provided in the e-mail you receive). We do need to send you certain communications regarding the Services and you will not be able to opt out of those communications – e.g., communications regarding updates to our Terms of Service or this Privacy Policy or information about billing.
+### Information Use
 
-_Modifying Your Information._ You can access and modify the PII associated with your Account by visiting the My Account page of your Account. If you want us to delete your PII and your Account, please contact us at care@elysiumhealth.com with your request. Please note that this will not affect your current subscription as your subscriptions are pre-paid and so, unless you specifically request otherwise, we will retain your PII until we have delivered the products you have paid for. We’ll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.  
+#### How We Use Your Information?
 
-**Responding to Do Not Track Signals**
+**General Use:** We use the Personal Information and Non-Identifying Information we collect for various purposes, including to:
 
-Our Site does not have the capability to respond to “Do Not Track” signals received from various web browsers.  
+  * Operate, maintain and improve the Site, our services, and our products;
+  * Establish an online Elysium Health account for you;
+  * To process online purchase orders and keep you informed about the status of your order;
+  * Provide customer service (for example, answering your questions or responding to a request);
+  * Communicate and provide additional information that may be of interest to you about Elysium Health and our third party partners (including updates and reminders to new research, future products, and special opportunities), administrative messages, and requested information;
+  * Identify your preferences so we can notify you of new or additional products, services, and promotions that might be of interest to you;
+  * Validate your ability to access and/or use certain products or services that may only be intended for individuals meeting certain eligibility requirements or criteria, such as health care professionals;
+  * Establish your eligibility for special offers or discounts;
+  * Perform analytics and conduct customer research;
+  * Allow you to interact with certain third party content providers (for example, to enable you to link to, or view content from, third party sites within our Site, or view our content on a third party site);
+  * Administer online surveys or special offers from us or through our third party business partners;
+  * Enhance other information we have about you to help us better understand you and determine your interests;
+  * Ensure network and information security;
+  * Determine whether you are a suitable candidate for any open jobs at Elysium Health;
+  * Manage our everyday business needs, such as administration of the Site, fulfillment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and Terms of Services, or to comply with the law and regulation.
 
-**The Security of Your Information**
 
-We take reasonable administrative, physical and electronic measures designed to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. When you enter sensitive information on our forms, we encrypt this data using SSL or other technologies. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.  
 
-**Links to Other Sites**
+We also may use information collected as described in this Privacy Policy with your consent or as otherwise required or permitted by law.
 
-Our Services may contain links to websites and services that are owned or operated by third parties (each, a “Third-party Service”). Any information that you provide on or to a Third-party Service or that is collected by a Third-party Service is provided directly to the owner or operator of the Third-party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy or security practices and policies of any Third-party Service. To protect your information we recommend that you carefully review the privacy policies of all Third-party Services that you access.
+**Resume Submission:** Elysium Health may post available jobs on the Site and allows you to submit your resume to us. Elysium Health may ask for your name, street address, phone number, e-mail address, position applied for, education, work experience, skills, etc. (“Personal Recruitment Information”). The Personal Recruitment Information and the resume you submit will be used by Elysium Health to determine whether you would be a good candidate for the requested job. The Personal Recruitment Information may be saved in our files in case you would be a good candidate for a future job. The Personal Recruitment Information will be shared on a need-to-know basis, and will not be given to any third parties other than our service providers who process information on our behalf.
 
-**International Transfer**
+**Social Networking:** Certain social media features available on our Site may be hosted by third party sites. For example, some social networking services allow you to share products and services from our Site via your social networking profile. Our Site also allows you to apply for available jobs at Elysium Health through your LinkedIn account. If you choose to make use of third party social media services (such as Facebook, Twitter, or LinkedIn), we may receive Personal Information about you, such as your name and email address that you have made available through those services. We encourage you to visit those third party social networking services’ privacy policies and review your privacy settings directly on those services. Any information we receive through third party social media services may be used as described in this policy.
 
-Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there.
+### Disclosure of Information
 
-**Our Policy Toward Children**
+Under Which Circumstances Your Personal Information and the Non-Identifying Information May Be Shared?
 
-Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
+Elysium Health is committed to keeping your Personal Information confidential. We do not sell to third parties your Personal Information collected on the Site unless you elect us to do so.
 
-**Your California Privacy Rights**
+We may share your Personal Information as required by law or as follows:
 
-California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their PII for direct marketing purposes during the preceding calendar year and the categories of PII shared with those third parties. If you are a California resident and wish to obtain that information, please submit your request by sending us an email at care@elysiumhealth.com with “California Privacy Rights” in the subject line or by writing to us at 594 Broadway, Suite 707, New York, NY 10012, USA.
+  * With any Elysium Health affiliate, which may only use your Personal Information for the purposes described in this Privacy Policy;
+  * With our vendors who provide services for us on our behalf, including without limitation processing and fulfilling orders, data analytics and storage;
+  * Assistance with our and third party partners' direct marketing and advertising, distribution of emails and other communications, fraud prevention services, delivery and logistics, Site improvement and operation, and to accomplish the other purposes for collection and use described above.
+  * In the event we or any of our affiliates file for bankruptcy, or where there is a transfer of ownership (or assets) in connection with proposed or consummated corporate reorganizations of Elysium Health or any of our affiliates, such as mergers, acquisitions, or sales of business units;
+  * To comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions;
+  * To combat fraud or criminal activity, and to protect our rights or those of our affiliates, users, and business partners, or as part of legal proceedings affecting Elysium Health;
+  * In response to a subpoena, court order, or similar legal process, including to law enforcement agencies, regulators, and courts in the United States and other countries where we operate;
+  * With your consent.
 
-**Questions?**
 
-Please contact us at care@elysiumhealth.com if you have any questions about our Privacy Policy.
+
+We may also disclose Non-Identifying Information:
+
+  * For the same reasons we might share Personal Information;
+  * With third party partners for their own research, analysis and marketing purposes;
+  * With third-party advertisers or other vendors to place our advertisements on third-party sites, to facilitate targeted content, and to analyze the effectiveness of our advertisements.
+
+
+
+Access to your Personal Information is limited by need. Only a restricted number of Elysium Health employees, and individuals and entities with whom Elysium Health contracts to carry out business will have access to your Personal Information for the purposes described above.
+
+Our third party advertising, web analytics and other partners may use cookies to collect Non-Identifying Information about your visit to our Site and other sites. These advertisers and web analytics service providers collect Non-Identifying Information in order to, among other things, deliver ads that are targeted to your interests and to better understand the usage and visits to our Site and other websites tracked by these third parties.
+
+This Privacy Policy does not cover the collection methods or use of the information collected by any third party companies (including third party advertisers and web analytics service providers), and Elysium Health is not responsible for cookies in third party ads. We encourage you to review the privacy policies or statements of these third party companies to learn more about their use of cookies and other similar technologies.
+
+### Your California Policy Rights
+
+If you are a California resident, you are entitled under California Civil Code Section 1798.83 to request and obtain from us once a calendar year information regarding the disclosure of your Personal Information to third parties for their direct marketing purposes (e.g., requests made in 2019 will receive information regarding the disclosure in 2018). To make such a request, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with “Request for California Privacy Information” on the subject line.
+
+We are dedicated to treating your Personal Information with care and respect. We do not sell your Personal Information to third parties for their own direct marketing use unless you elect that we do so.
+
+### Choices
+
+Commercial Emails: You may choose to opt-out of receiving commercial emails from us by following the instructions contained in any of the commercial e-mails we send or by signing into your account and adjusting your email preferences. Please note that even if you unsubscribe from commercial email messages, we may still email you non-commercial emails related to your account and your transactions on the Site. Also, please allow us 10 business days from when the request was received to complete the removal. You may update your account preferences at any time. If you wish to opt-out of receiving offers directly from our third-party business partners, you can follow the instructions in the emails that they send you.
+
+Cookies and Tracking: You can disable cookies at any time by adjusting your browser settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available.
+
+To disable “flash cookies,” you can adjust the setting of your Flash player to block Flash cookies using the tools contained in your website storage settings panel. More information can be found on Adobe’s website.
+
+Please be aware, however, that if you turn off cookies, you will not be able to take full advantage of all of our Site features. For example, we will not be able to recognize you as a registered user to allow you access to your account information.
+
+### Accessing and Correcting Your Personal Information
+
+If you wish to access, correct, modify or update any personal information we have received, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4e3e3c27382f2d370e2b22373d273b23262b2f223a26602d2123). Also, if you are a registered user, you can access your account at any time to correct, modify or update your account information.
+
+### Other Sites
+
+This Privacy Policy only addresses the collection, use, and disclosure of information by Elysium Health through your visit, use and interaction with the Site. However, our Site may contain links to other sites that are not owned or controlled by us, such as social networking sites, and links to retailers’ sites and e-commerce sites that sell our products or services. The Privacy Policy does not address nor do we control or have responsibility for the policies or practices of any third parties or any third-party sites to which this Site links. If you provide any information to such third parties, different rules regarding the collection, use and disclosure of your personal information may apply. We strongly suggest you review such third party's privacy policies before providing any data to them. These other sites may send their own cookies or clear GIFs to users, collect data or solicit personal information. We cannot control this collection of information. You should contact these entities directly if you have any questions about their privacy practices.
+
+### Security
+
+Elysium Health takes appropriate steps to manage the privacy of your Personal Information and the security of the Site. We have implemented commercially reasonable administrative, technical, and physical security controls that are designed to safeguard Personal Information. Still, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, Elysium Health cannot guarantee that your Personal Information is under absolute security with the existing security technology. If you have any questions about the security of our Site, or wish to report a breach of your Personal Information, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#403032293621233900252c393329352d2825212c34286e232f2d).
+
+### Retention Policy
+
+Elysium Health retains your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required by law or to fulfill a legal obligation.
+
+### Children Privacy
+
+Our Site, services and products designed and intended for adults. By using our Site, you represent that you are at least 18 years old and understand that you must be at least 18 years old in order to create an account and purchase the products through our Site. If we obtain actual knowledge that an account is associated with a registered user who is not at least 18 years old, we will promptly delete information associated with that account. If you are a parent or guardian of a child under the age of 18 and believe he or she has disclosed personally identifiable information to us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7606041f0017150f36131a0f051f031b1e13171a021e5815191b). A parent or guardian of a child under the age of 18 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
+
+### International Users
+
+The Site (including the relevant services) is only intended for the residents in the United States. If you reside in a country outside the United States, please note that the data protection and privacy laws of the United States may not be as protective as the laws in your country. You are solely responsible for compliance with foreign laws, not Elysium Health, when you provide your Personal Information and use the Site from outside the United States. You agree that the laws of the United States will govern the processing of your personal information, including any obligations of security and third-party sharing.
+
+### Contact Us
+
+If you have any questions, comments or complaints about our privacy practices or this Privacy Policy, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6a1a18031c0b09132a0f061319031f07020f0b061e0244090507) or by direct mail at Elysium Health at 434 Broadway, 2nd Floor, New York, NY 10013.
