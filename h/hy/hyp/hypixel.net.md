@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hypixel.net privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213232403id_/https%3A//hypixel.net/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypixel.net privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620171941id_/https%3A//hypixel.net/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hypixel - Minecraft Server and Maps
 
 [ ](https://web.archive.org/)
 
-Join **10,998** other online Players! 
+Join **38,354** other online Players! 
 
-[ Play Now ](https://web.archive.org/web/20181213232403id_/https%3A//hypixel.net/help/play/)
+[ Play Now ](https://web.archive.org/web/20190620171941id_/https%3A//hypixel.net/help/play/)
 
 Server IP » mc.hypixel.net
 
@@ -99,9 +99,9 @@ Our Privacy Policy may change from time to time. We will post any Policy changes
 
 ## Questions?
 
-If you have questions or requests regarding your privacy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#65161015150a1711250d1c150c1d00094b0b0011).
+If you have questions or requests regarding your privacy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0c7f797c7c637e784c64757c6574696022626978).
 
-[__](https://web.archive.org/web/20181213232403id_/https%3A//hypixel.net/help/misc/quick-navigation-menu "Open quick navigation")
+[__](https://web.archive.org/web/20190620171941id_/https%3A//hypixel.net/help/misc/quick-navigation-menu "Open quick navigation")
 
 **Hypixel - Minecraft Server and Maps**
 
