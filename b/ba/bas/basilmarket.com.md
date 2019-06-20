@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basilmarket.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212222615id_/http%3A//www.basilmarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basilmarket.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620201916id_/http%3A//www.basilmarket.com/privacy) for the most accurate reproduction.*
 
 # BasilMarket Screens, Videos, Gameplay, Talk, Forum, Classes
 
