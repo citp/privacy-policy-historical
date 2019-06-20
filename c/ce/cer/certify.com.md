@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the certify.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117105357id_/https%3A//www.certify.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certify.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620211737id_/https%3A//www.certify.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Certify
 
