@@ -1,81 +1,120 @@
-> *The following text is extracted and transformed from the thebewitchinkitchen.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220001922id_/http%3A//www.thebewitchinkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebewitchinkitchen.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620184134id_/https%3A//www.thebewitchinkitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Bewitchin' Kitchen
 
-This Privacy Policy governs the manner in which The Bewitchin’ Kitchen collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://thebewitchinkitchen.com](http://thebewitchinkitchen.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Bewitchin’ Kitchen.
+THE BEWITCHIN’ KITCHEN™ (“Website”) is governed by the following Privacy Policy. 
 
-**Personal identification information**
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to this Website. 
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-**Non-personal identification information**
+  *  **Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, we may ask you to create a user profile, which would allow you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**Web browser cookies**
+  *  **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment. 
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**How we use collected information**
+  * **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked. 
 
-The Bewitchin’ Kitchen may collect and use Users personal information for the following purposes:
 
-  * _– To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _– To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _– To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _– To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _– To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * **Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
 
 
-**How we protect your information**
+ **HOW YOUR INFORMATION MAY BE USED**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We may use the information collected in the following ways: 
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+  * To operate and maintain the Website; 
+  * To create your account, identify you as a user of the Website, and customize the Website for your account; 
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings; 
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts; 
+  * To respond to your comments or inquiries; 
+  * To provide you with user support; 
+  * To track and measure advertising on the Website; 
+  * To process payment for purchases you make through the Website; or,
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-**Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-**Third party websites**
+ **THIRD-PARTY USE OF PERSONAL INFORMATION**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-**Advertising**
+Additionally, the Website may use third-party service providers service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. The Website currently uses the following third-party service providers: 
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+  * Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics. 
+  * Payment Processing – this service is used to serve our ecommerce platform. At no time is your banking information passed to the Website. We receive only information used for order fulfillment. 
+  * CONVERTKIT – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioural advertising practice or to opt-out of this type of advertising, you can visit* * http://www.networkadvertising.org/managing/opt_out.asp
 
-**Changes to this privacy policy**
 
-The Bewitchin’ Kitchen has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion. 
 
-**Notice Regarding Online Behavioral Advertising**  
-We allow third party companies to serve ads and/or collect certain anonymous information  
-when you visit our Web site.  These companies may use non-personally identifiable information  
-(e.g. click stream information, browser type, time and date, subject of advertisements clicked  
-or scrolled over) during your visits to this and other Web sites in order to provide  
-advertisements about goods and services likely to be of greater interest to you.  These  
-companies typically use a cookie or third party web beacon to collect this information.  To learn  
-more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To  
-opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-**Your acceptance of these terms**
+ **ANONYMOUS DATA**
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies. 
 
-**Contacting us**
+**PUBLICLY VISIBLE INFORMATION**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[The Bewitchin’ Kitchen](http://thebewitchinkitchen.com/)  
-[http://thebewitchinkitchen.com](http://thebewitchinkitchen.com/)  
-randa@thebewitchinkitchen.com
+ **  
+** If you create a user profile on the Website or leave a comment, certain information may be publicly visible. 
 
-This document was last updated on February 15, 2013
+**COOKIES**
+
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein. 
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+ **ADVERTISING**
+
+ **Display Ads  
+**We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
+
+ **Retargeting Ads  
+**From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website. 
+
+**Sponsored Content Tracking Pixels  
+**This Website may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
+
+ **Affiliate Program Participation  
+**The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions. 
+
+THE BEWITCHIN’ KITCHEN™ is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+ **Newsletters**  
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+ **RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
+
+ **Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to be removed from our mailing list. 
+
+**Access** – You may access the personal information we have about you by submitting a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection). 
+
+**Amend** – You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to amend or update your personal information. 
+
+**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection). 
+
+Please note that we may need to retain certain information for record keeping purposes or to complete transactions, or when required by law. 
+
+**SENSITIVE PERSONAL INFORMATION**
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy. 
+
+**CHILDREN’S INFORMATION**
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at randa[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will use our best efforts to promptly remove such information from our records.
+
+ **CONTACT INFORMATION**
+
+At any time, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for questions related to this Privacy Policy. 
+
+Last updated: May 16, 2018
+
+### FREE Recipe Binder
+
+**Are you constantly wondering what's for dinner?**
+
+When I don't meal plan I feel behind, and we usually end up ordering take out. This recipe binder will keep you organized and make life a little bit easier.
