@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pdfbooksfree.pk privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825091536id_/https%3A//pdfbooksfree.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfbooksfree.pk privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621003434id_/https%3A//pdfbooksfree.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://7495d01usiu9nwjta0geg8lfbw.hop.clickbank.net/)
 
 ## **Cookies and Privacy Policy of Pakistan Virtual Library**
 
@@ -92,7 +90,7 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 California Online Privacy Protection Act
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>  
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: [http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf](https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/#sthash.0FdRbT51.dpuf)  
 According to CalOPPA, we agree to the following:
 
 Users can visit our site anonymously.
@@ -174,22 +172,3 @@ If we decide to change our privacy policy, we will post those changes to this pr
 We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact via our **[Contact Form](https://pdfbooksfree.pk/contact-us/)**
 
 If site users have any questions or suggestions regarding our privacy policy, please contact us via our [_**Contact Form**_](https://pdfbooksfree.pk/contact-us/)
-
-OR Contacting Us
-
-If there are any questions regarding this privacy policy, you may contact us using the information below.
-
-Skype: pdfbooksfree
-
-Email: admin@pdfbooksfree.pk
-
-Mailing Address:
-
-11 Usmania Colony Rashidabad No.8
-
-Peshawar, KPK 25000
-
-Pakistan
-
-Cell# +923459404940  
-Last Edited on 2016-06-21
