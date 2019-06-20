@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastlemon.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215013506id_/http%3A//lastlemon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastlemon.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620151917id_/http%3A//lastlemon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Last Lemon
 
