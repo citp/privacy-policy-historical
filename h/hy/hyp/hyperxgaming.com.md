@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperxgaming.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216134810id_/https%3A//www.kingston.com/us/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperxgaming.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620032234id_/https%3A//www.kingston.com/us/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Kingston
 
