@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230122626id_/http%3A//www.hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620021924id_/https%3A//www.hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Honda Auto Leasing and Financing - Privacy Policy
 
@@ -30,7 +30,7 @@ You can visit our Sites without sharing personal information; however, certain f
 
 **Information Provided in Connection with Employment Applications**
 
-We receive and may store personal information provided to American Honda when you apply for employment with American Honda or any of its affiliated companies on [www.honda.com/careers](http://www.honda.com/careers) or other Sites. This information may include name, educational and employment background, contact information, job qualifications, and jobs for which you may wish to be considered. You may choose to provide additional information, such as your resume or CV, employment references, and salary requirements. You may also choose to provide this information by extracting it from another online location, such as Google, Yahoo, or Talent Exchange Universal Profile. Your provision of this information in connection with seeking employment at American Honda is voluntary and you determine the extent of the information you provide. Your decision not to provide such information may affect our ability to consider you for employment. This information is collected and maintained through Oracle’s Taleo service and is not shared except between the Taleo service and American Honda (and its affiliated companies), or between American Honda and its affiliated companies, as necessary for employment decisions. For more information about Oracle’s privacy policies, please consult Oracle’s disclosures on its website ([www.oracle.com](http://www.oracle.com/)).
+We receive and may store personal information provided to American Honda when you apply for employment with American Honda or any of its affiliated companies on [www.honda.com/careers](https://www.honda.com/careers) or other Sites. This information may include name, educational and employment background, contact information, job qualifications, and jobs for which you may wish to be considered. You may choose to provide additional information, such as your resume or CV, employment references, and salary requirements. You may also choose to provide this information by extracting it from another online location, such as Google, Yahoo, or Talent Exchange Universal Profile. Your provision of this information in connection with seeking employment at American Honda is voluntary and you determine the extent of the information you provide. Your decision not to provide such information may affect our ability to consider you for employment. This information is collected and maintained through Oracle’s Taleo service and is not shared except between the Taleo service and American Honda (and its affiliated companies), or between American Honda and its affiliated companies, as necessary for employment decisions. For more information about Oracle’s privacy policies, please consult Oracle’s disclosures on its website ([www.oracle.com](http://www.oracle.com/)).
 
 **Information We Collect Automatically**
 
@@ -150,7 +150,7 @@ BACK TO TOP
 
 **LINKS**
 
-The Sites may contain links to third party websites including social media platforms, [acura.merchandisecollection.com](http://acura.merchandisecollection.com/) (operated by Staples Promotional Products, Inc.) and websites related to American Honda credit cards (operated by third party financial institutions), among others. Please be aware that if you access these links, you will be leaving our site. We encourage users to read the privacy policies of those sites, as we are not responsible for their content, links, or privacy procedures.
+The Sites may contain links to third party websites including social media platforms, [acura.merchandisecollection.com](https://acura.merchandisecollection.com/) (operated by Staples Promotional Products, Inc.) and websites related to American Honda credit cards (operated by third party financial institutions), among others. Please be aware that if you access these links, you will be leaving our site. We encourage users to read the privacy policies of those sites, as we are not responsible for their content, links, or privacy procedures.
 
 BACK TO TOP
 
@@ -218,7 +218,7 @@ Honda Titling A-D LLCs
 
 Honda Titling A-D LPs
 
-AHFC websites include [www.hondafinancialservices.com](http://www.hondafinancialservices.com/) and [www.acurafinancialservices.com](http://www.acurafinancialservices.com/) among others.
+AHFC websites include [www.hondafinancialservices.com](https://www.hondafinancialservices.com/) and [www.acurafinancialservices.com](https://www.acurafinancialservices.com/) among others.
 
 **Privacy Policy Overview**
 
