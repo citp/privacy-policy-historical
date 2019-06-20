@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punditarena.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117063650id_/http%3A//www.punditarena.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punditarena.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620195505id_/https%3A//www.punditarena.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pundit Arena
 
@@ -12,7 +12,7 @@
 
 1.2       Pundit Arena knows that you care about how your personal information is used and shared, and we take your privacy seriously. We are committed to protecting the privacy of our End Users and we strive to provide a safe and secure End User experience. Please read below to learn more about our privacy policy.
 
-1.3       This Policy forms part of the Terms of Use Agreement which binds all users of this site and is available by [clicking here](http://www.punditarena.com/terms/ "Terms of Use"). We suggest that you review it before you begin to use Pundit Arena.
+1.3       This Policy forms part of the Terms of Use Agreement which binds all users of this site and is available by [clicking here](https://www.punditarena.com/terms/ "Terms of Use"). We suggest that you review it before you begin to use Pundit Arena.
 
 **2:          POLICY SCOPE:                        ****What does this Privacy Policy cover?**
 
