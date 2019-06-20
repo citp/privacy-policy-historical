@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifedaily.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227100857id_/http%3A//www.lifedaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifedaily.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620182959id_/http%3A//www.lifedaily.com/privacy-policy) for the most accurate reproduction.*
 
 # LifeDaily
 
