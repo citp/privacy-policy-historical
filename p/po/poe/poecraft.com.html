@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the poecraft.com privacy policy that was archived on 2018-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180613044833id_/http%3A//poecraft.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the poecraft.com privacy policy that was archived on 2019-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190620172015id_/https%3A//poecraft.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy Policy</title>
@@ -7,18 +7,18 @@
 <meta name="description" content="">
 <meta property="og:image" content="http://web.poecdn.com/image/Art/2DItems/Currency/CurrencyRerollRare.png?scale=1&amp;w=1&amp;h=1">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="/css/base.css?v=5dc7fdae" type="text/css">
-<link rel="stylesheet" href="/css/core.css?v=5dc7fdae" type="text/css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/base.css?v=5f7a9ec2" type="text/css">
+<link rel="stylesheet" href="/css/core.css?v=5f7a9ec2" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.11.2/lodash.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<!--<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
 <script src="/js/lib/util.js"></script>
 <script src="https://unpkg.com/core-js@2.4.1/client/shim.min.js"></script>
-<script src="https://unpkg.com/zone.js@0.8.11?main=browser"></script>
+<script src="https://unpkg.com/zone.js@0.8.26/dist/zone.min.js"></script>
 <script src="https://unpkg.com/reflect-metadata@0.1.10/Reflect.js"></script>
 <script src="https://unpkg.com/systemjs@0.19.39/dist/system.js"></script>
 <script src="https://unpkg.com/rxjs-system-bundle@5.1.1/Rx.system.min.js"></script>
@@ -43,7 +43,8 @@ enable_page_level_ads: true
 });
 </script>
 <script>
-var version = "5dc7fdae";
+var USER_INFO = undefined;
+var version = "5f7a9ec2";
 System.config({
 paths: {
 'npm:': 'https://unpkg.com/',
@@ -54,19 +55,22 @@ map: {
 'beta': '/js/app/beta',
 'util': '/js/lib',
 '@realm': window.beta ? '/js/app/beta' : '/js/app',
-'@angular/core': 'npm:@angular/core@4.2.4/bundles/core.umd.min.js',
-'@angular/common': 'npm:@angular/common@4.2.4/bundles/common.umd.min.js',
-'@angular/compiler': 'npm:@angular/compiler@4.2.4/bundles/compiler.umd.min.js',
-'@angular/platform-browser': 'npm:@angular/platform-browser@4.2.4/bundles/platform-browser.umd.min.js',
-'@angular/platform-browser-dynamic': 'npm:@angular/platform-browser-dynamic@4.2.4/bundles/platform-browser-dynamic.umd.min.js',
-'@angular/http': 'npm:@angular/http@4.2.4/bundles/http.umd.min.js',
-'@angular/router': 'npm:@angular/router@4.2.4/bundles/router.umd.min.js',
-'@angular/forms': 'npm:@angular/forms@4.2.4/bundles/forms.umd.min.js',
+'@angular/core': 'npm:@angular/core@5.2.11/bundles/core.umd.min.js',
+'@angular/common/http': 'npm:@angular/common@5.2.11/bundles/common-http.umd.min.js',
+'@angular/common': 'npm:@angular/common@5.2.11/bundles/common.umd.min.js',
+'@angular/compiler': 'npm:@angular/compiler@5.2.11/bundles/compiler.umd.min.js',
+'@angular/platform-browser': 'npm:@angular/platform-browser@5.2.11/bundles/platform-browser.umd.min.js',
+'@angular/platform-browser-dynamic': 'npm:@angular/platform-browser-dynamic@5.2.11/bundles/platform-browser-dynamic.umd.min.js',
+'@angular/http': 'npm:@angular/http@5.2.11/bundles/http.umd.min.js',
+'@angular/router': 'npm:@angular/router@5.2.11/bundles/router.umd.min.js',
+'@angular/forms': 'npm:@angular/forms@5.2.11/bundles/forms.umd.min.js',
 'ngx-bootstrap': 'npm:ngx-bootstrap@2.0.3/bundles/ngx-bootstrap.umd.min.js',
-'@angular/cli': 'npm:@angular/cli@4.2.4/bundles/core.umd.min.js',
-'@angular/upgrade': 'npm:@angular/upgrade@4.2.4/bundles/upgrade.umd.min.js',
+'ngx-smart-modal': 'npm:ngx-smart-modal@7.1.1/bundles/ngx-smart-modal.umd.js',
+'@angular/cli': 'npm:@angular/cli@5.2.11/bundles/core.umd.min.js',
+'@angular/upgrade': 'npm:@angular/upgrade@5.2.11/bundles/upgrade.umd.min.js',
 'angular-in-memory-web-api': 'npm:angular-in-memory-web-api',
 'ts': 'npm:plugin-typescript@4.0.10/lib/plugin.js',
+'tslib:': 'npm:tslib@1.9.3/tslib.js',
 'typescript': 'npm:typescript@2.3.4/lib/typescript.js',
 },
 packages: {
@@ -139,20 +143,19 @@ __themeController.applyTheme(localStorage.getItem('theme') || 'light');
 <li class="nav-item dropdown">
 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Data <span class="caret"></span></a>
 <div class="dropdown-menu">
-<a class="dropdown-item" href="/atlas">Atlas</a>
+<!--
 <a class="dropdown-item" href="/gemplanner">Gem Planner</a>
+-->
+<a class="dropdown-item" href="/atlas">Atlas</a>
 <a class="dropdown-item" href="/itemmods">Item Mod Tool</a>
-<a class="dropdown-item" href="/jewels">Jewel Mod Tool</a>
-<a class="dropdown-item" href="/basicmods">Item Mod Data</a>
-<a class="dropdown-item" href="/essence">Essences</a>
 </div>
 </li>
 <li class="nav-item dropdown">
 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">League Tools <span class="caret"></span></a>
 <div class="dropdown-menu">
-<a class="dropdown-item" href="/bestiary">Bestiary Recipes</a>
-<a class="dropdown-item" href="/bestiary/checklist">Bestiary Checklist</a>
-<a class="dropdown-item" href="/bestiary/chart">Rare Crafting Chart</a>
+<a class="dropdown-item" href="/race/zones">Flaskback Zone Tracker</a>
+<a class="dropdown-item" href="/synthesis/dump">Synthesis Mod Dump</a>
+<a class="dropdown-item" href="/synthesis/calculator">Synthesis Synthesizing Calculator</a>
 </div>
 </li>
 </ul>
@@ -181,6 +184,9 @@ __themeController.applyTheme(localStorage.getItem('theme') || 'light');
 <a class="dropdown-item" href="#" data-toggle="modal" data-target="#about-dialog">About</a>
 <a class="dropdown-item" href="/privacy">Privacy Policy</a>
 </div>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/login/pathofexile">Login</a>
 </li>
 </ul>
 </div>
@@ -220,8 +226,8 @@ If you would like to support this site, consider turning off your Adblocker. The
 <div class="form-group">
 <label for="league-selector">League</label>
 <select id="league-selector" class="form-control">
-<option value="season_sc">Bestiary</option>
-<option value="season_hc">Bestiary Hardcore</option>
+<option value="season_sc">Synthesis</option>
+<option value="season_hc">Synthesis Hardcore</option>
 <option value="standard">Standard</option>
 <option value="hardcore">Hardcore</option>
 </select>
