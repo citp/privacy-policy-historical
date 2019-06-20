@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questdiagnostics.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118085958id_/http%3A//www.questdiagnostics.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questdiagnostics.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620142403id_/http%3A//questdiagnostics.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy : Online Privacy Policy
 
@@ -8,8 +8,8 @@ Quest Diagnostics and its wholly-owned subsidiaries (collectively "Quest Diagnos
 
 Quest Diagnostics   
 Attention: Privacy Officer   
-1290 Wall Street West   
-Lyndhurst, NJ 07071
+500 Plaza Drive   
+Secaucus, NJ 07094
 
 You can also call us at 800-222-0446, ext. 8954.
 
@@ -47,7 +47,13 @@ We review our security arrangements from time to time as we deem appropriate.
 
 **How can you help protect your information?**
 
-If you are using a Quest Diagnostics website for which you registered and choose a password, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of the Quest Diagnostics website and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer.
+If you are using a Quest Diagnostics website for which you registered and choose a password, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of the Quest Diagnostics website and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer.  
+ 
+
+**E.U.-U.S. Privacy Shield Framework**
+
+As further described in our [Privacy Shield Notice](/home/privacy-policy/privacy-shield.html), Quest Diagnostics and some of our U.S.-based affiliated companies have certified to and comply with the E.U.-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. The Privacy Shield principles are: Notice; Choice (Consent); Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement and Liability. For more information on the E.U.-U.S. Privacy Shield or to view our certification, please visit <https://www.privacyshield.gov>.  
+ 
 
 **Links to Other Sites**
 
@@ -126,7 +132,7 @@ UWAGA: Jeżeli mówisz po Polsku(Polish), możesz skorzystać z bezpłatnej pomo
 
 注意事項：日本語(Japanese)を話される場合、無料の言語支援をご利用いただけます。1.844.698.1022 まで、お電話にてご連絡ください。
 
-Date: September 1, 2017    
+Date: December 5, 2018    
  
 
   
