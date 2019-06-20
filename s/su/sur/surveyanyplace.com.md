@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyanyplace.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921064445id_/https%3A//surveyanyplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyanyplace.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620081739id_/https%3A//surveyanyplace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Survey Anyplace
 
@@ -14,7 +14,7 @@ VAT-BE 0845.741.317
 
 E-mail us: [info@surveyanyplace.com ](mailto:info@surveyanyplace.com)
 
-Support Center : [surveyanyplace.com/docs](http://surveyanyplace.com/docs)
+Support Center : [http://help.surveyanyplace.com](http://help.surveyanyplace.com/support/home)
 
 Feel free to contact us should you have any privacy-related questions. We promise to reply soon!
 
