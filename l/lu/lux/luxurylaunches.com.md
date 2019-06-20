@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxurylaunches.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130172044id_/http%3A//luxurylaunches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurylaunches.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620091816id_/http%3A//luxurylaunches.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -16,7 +16,7 @@ Luxurylaunches uses third-party advertising companies to serve ads when you visi
 
 Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer Luxurylaunches, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/privacy_ads.html).
 
 Transfer of Information
 
@@ -41,7 +41,7 @@ Use of Cookies
 
 Like most websites, Luxurylaunches requires cookies to function properly. Cookies are small text files that reside on a user’s computer and identify you as a unique user. We use cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their email address and password every time. You should be aware that Luxurylaunches cannot control the use of cookies by advertisers or any information advertisers may gather from their use of cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the Luxurylaunches site.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/managing/opt_out.asp).
 
 Security
 
