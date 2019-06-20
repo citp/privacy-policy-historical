@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infrastructure-intelligence.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130132546id_/http%3A//www.infrastructure-intelligence.com/website-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infrastructure-intelligence.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620094608id_/http%3A//www.infrastructure-intelligence.com/website-privacy-notice) for the most accurate reproduction.*
 
 # Website privacy notice | Infrastructure Intelligence
 
