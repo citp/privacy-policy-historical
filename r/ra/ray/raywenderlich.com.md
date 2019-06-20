@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the raywenderlich.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623120315id_/https%3A//help.raywenderlich.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raywenderlich.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620115234id_/https%3A//help.raywenderlich.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | raywenderlich.com
 
-May 2018
+October 2018
 
   * Razeware collects personal information from you and places cookies on your browser.
   * We use Google Analytics, Facebook, and other tracking cookies, but only when you consent. You may withdraw your consent at any time.
-  * We use other cookies for payment processing, error monitoring, and site management without your consent.
+  * We use other cookies for payment processing, error monitoring, personalized avatars, and site management without your consent.
   * We host our videos on Vimeo, which also collects personal information from you.
   * We will not send you direct marketing e-mails without your consent.
   * You may download, correct, or erase the data we collect.
@@ -56,7 +56,7 @@ We share personal information with the following third parties only when you con
 
 Any information you choose to include in your Account profile will be available for other Users to view, except for your email address which will not be displayed. When choosing a username, we strongly suggest that you not use your email address as your username, because your username will be displayed on any posts you either create or respond to on the Website’s forums.
 
-_Google Analytics:_ When you consent, we install cookies related to Google Analytics which keep track of your browsing activity on the Website. We use this information to analyze traffic on our Website as well as to market our products to you on other websites. If you do not consent, Google Analytics will not track this usage and you will not see targeted ads for Razeware products. In addition to withdrawing consent for Razeware’s Website using the link above, you may disable Google Analytics generally by using the tool at <https://tools.google.com/dlpage/gaoptout/>.
+_Google Analytics and Google Optimize:_ When you consent, we install cookies related to Google Analytics and Google Optimize which keep track of your browsing activity on the Website. We use this information to analyze traffic on our Website and to run A/B tests, as well as to market our products to you on other websites. If you do not consent, Google Analytics and Google Optimize will not track this usage and you will not see targeted ads for Razeware products. In addition to withdrawing consent for Razeware’s Website using the link above, you may disable Google Analytics and Google Optimize generally by using the tool at <https://tools.google.com/dlpage/gaoptout/>.
 
 _Facebook:_ When you consent, we install a cookie that shares with Facebook that fact that you have visited our Website, the pages you visited, and other information about your visit. This will result in Facebook showing you ads for Razeware products or other products targeted to Razeware Website visitors when you are on Facebook.
 
@@ -64,7 +64,9 @@ _Drip:_ Drip is a third-party application that we sometimes use when you subscri
 
 In order to make the Website function efficiently, we share some of your personal information with other third party providers and without obtaining your explicit consent. We may install cookies or execute JavaScript libraries in your browser that convey this information to these third parties.
 
-Our primary payment processor is Paddle ([https://paddle.com](https://paddle.com/)). Older customers may have their payments processed through our previous payment processor, FastSpring (https://fastspring.com). We share your credit card, payment, and billing information with these parties when you make a purchase because it is necessary for us to do so to fulfill the purchase contact.
+Our primary payment processor is Paddle ([https://paddle.com](https://paddle.com/)). Older customers may have their payments processed through our previous payment processor, FastSpring ([fastspring.com](https://fastspring.com/)). We share your credit card, payment, and billing information with these parties when you make a purchase because it is necessary for us to do so to fulfill the purchase contact.
+
+We share non-personally identifiable information about your subscription purchase with ProfitWell ([profitwell.com](https://www.profitwell.com/)) so that we can better understand our customers’ buying preferences. The only information we share is the order number, and ProfitWell does not share any of your data with third-party providers.
 
 BugSnag (<https://www.bugsnag.com/>) is our error-detection software. When you are using our Website and have a malfunction or error, BugSnag will collect information about what you were doing when the error happened and relay it to us so we can fix it. This information may include information about your system and applications so we can track down the error.
 
@@ -77,6 +79,8 @@ In connection with BugSnag, Skylight, DataDog, and Auth0, Razeware has a legitim
 FreshDesk ([https://freshdesk.com](https://freshdesk.com/)) is our customer support system, used when you send us an e-mail requesting support for your account. We have a legitimate interest in sharing this data with FreshDesk in order to provide prompt and efficient customer service. You also have a reasonable expectation, when filling out the service request form, that your data will be shared as necessary to accommodate your service request.
 
 We share your personal information with Amazon Web Services, which is our cloud storage provider. Razeware has a legitimate interest in doing so to avail itself of the benefits of cloud storage (which includes security, convenience, cost, and multiple redundant backups) as opposed to maintaining its own servers. AWS does not access the data for its own purposes and all data at rest is encrypted.
+
+If you create an account on our web site, we share a hashed version of your email address with Gravatar ([https://gravatar.com](https://gravatar.com/)), a web site that allows you to create a globally recognized avatar image that can be used across multiple web sites. This allows us to automatically display the avatar image you have set up on Gravatar (if any) rather than requiring you to upload a separate profile image. We have a legitimate interest in sharing this data with Gravatar in order to provide users with a personalized and hassle-free experience. We do not use this data for advertising, marketing, or for any other commercial purpose than personalization of the web site.
 
 Finally, Vimeo collects certain personal information about you, and installs cookies, when you access a page of the Website that contains an embedded Vimeo video. For more information about this, see below.
 
