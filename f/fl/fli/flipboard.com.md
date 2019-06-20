@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipboard.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220140641id_/https%3A//about.flipboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipboard.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620065307id_/https%3A//about.flipboard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ We receive some other information automatically when you use Flipboard. This inc
 
 So that we can make your Flipboard experience better, we collect information about how you view, flip and interact with content and advertisements through Flipboard and on third-party sites with Flipboard widgets.
 
-You may link your Flipboard account to other services you use, such as social networking sites, photo-sharing services and media publishers such as the New York Times. If you connect your Flipboard account with a third-party service, we collect information through that service. This information varies depending on the service and your privacy settings there, but may include profile information (e.g., age, gender and location), your contacts on that service and content that you’ve made publicly available there. If you connect your YouTube account on Flipboard, you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms)and also the [Google Privacy Policy](http://www.google.com/policies/privacy).
+You may link your Flipboard account to other services you use, such as social networking sites, photo-sharing services and media publishers such as the New York Times. If you connect your Flipboard account with a third-party service, we collect information through that service. This information varies depending on the service and your privacy settings there, but may include profile information (e.g., age, gender and location), your contacts on that service and content that you’ve made publicly available there. If you connect your YouTube account on Flipboard, you agree to be bound by the [YouTube Terms of Service ](https://www.youtube.com/t/terms)and also the [Google Privacy Policy](http://www.google.com/policies/privacy).
 
 If you want to email something you see through Flipboard to a friend who isn’t already a Flipboard account holder, we may keep their email address for the purpose of sending such email and improving our services. Recipients may contact us at privacy@flipboard.com to request that we remove this information from our database.
 
@@ -70,7 +70,7 @@ Flipboard supports data privacy rights and is happy to provide our users with th
 
 
 
-You can learn more about these options, or submit a request, by contacting [Flipboard Support](https://flipboard.helpshift.com/a/flipboard/?f=connect-with-flipboard-support&s=connect-with-flipboard-support&p=web)through your Flipboard Settings. For security, privacy, or operational reasons, Flipboard may only respond to valid requests when required by law or regulation.
+You can learn more about these options, or submit a request, by contacting [Flipboard Support ](https://about.flipboard.com/help-center/)through the Help Center. For security, privacy, or operational reasons, Flipboard may only respond to valid requests when required by law or regulation.
 
 **Data Retention and Deletion**
 
