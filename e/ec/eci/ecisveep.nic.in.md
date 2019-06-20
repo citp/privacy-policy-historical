@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecisveep.nic.in privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207142336id_/http%3A//ecisveep.nic.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecisveep.nic.in privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620064002id_/http%3A//ecisveep.nic.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Systematic Voters’ Education and Electoral Participation
 
@@ -235,5 +235,3 @@ and we will promptly remove you from  **ALL**  correspondence.
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.  
  
-
-Systematic Voters’ Education and Electoral Participation, Election Commission of India Nirvachan Sadan Ashoka Road, New Delhi, Delhi, 110001
