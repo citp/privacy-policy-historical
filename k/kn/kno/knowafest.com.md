@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowafest.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911014043id_/http%3A//www.knowafest.com/college-fests/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowafest.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620161803id_/http%3A//www.knowafest.com/college-fests/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Knowafest in India, Knowafest.com
 
