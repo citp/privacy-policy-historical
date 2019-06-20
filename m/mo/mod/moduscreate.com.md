@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the moduscreate.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201215854id_/https%3A//moduscreate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moduscreate.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620102804id_/https%3A//moduscreate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Modus Create
 
 #### Introduction
 
-Modus Create, Inc. (referred to as “Modus” or “we”) respects individual’s rights surrounding the collection and usage of their personal identifiable information (“data”). This privacy policy serves as a declaration of how we collect data, why we collect, and your rights as a user (“you,” “user,” “visitor”) across the website [www.moduscreate.com](http://www.moduscreate.com/), advertising, and offline activities during the course of business. 
+Modus Create, Inc. (referred to as “Modus” or “we”) respects individual’s rights surrounding the collection and usage of their personal identifiable information (“data”). This privacy policy serves as a declaration of how we collect data, why we collect, and your rights as a user (“you,” “user,” “visitor”) across the website [www.moduscreate.com](https://www.moduscreate.com/), advertising, and offline activities during the course of business. 
 
 If you have any questions, cannot use the automated unsubscribe options, or receive communications from Modus after opting out, contact us immediately by emailing [contact@moduscreate.com](mailto:contact@moduscreate.com), by mail: 12100 Sunset Hills Rd, Suite 150 Reston, VA 20190, or by calling [(855) 663-8727.](tel:+18556638727)
 
