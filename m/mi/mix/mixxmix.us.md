@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixxmix.us privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216072858id_/http%3A//www.mixxmix.us/member/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixxmix.us privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620043658id_/http%3A//mixxmix.us/member/privacy.html) for the most accurate reproduction.*
 
 # mixxmix | OFFICIAL ENGLISH WEBSITE
 
