@@ -1,39 +1,60 @@
-> *The following text is extracted and transformed from the countrycurtains.com privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212203712id_/https%3A//www.countrycurtains.com/display.do%3FruleID%3D102764%26itemID%3D202%26itemType%3DCATEGORY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrycurtains.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620204731id_/https%3A//www.vermontcountrystore.com/privacy-security) for the most accurate reproduction.*
 
-# Country Curtains®: Curtains, Valances, Curtain Rods & Draperies
+# Privacy and Security - The Vermont Country Store
 
-Privacy&Security
+## Introduction
 
-Additionally, you should know that occasionally, we make our mailing list available to a few close friends in the mail order business whose products may be of interest to you. If you would prefer not to receive mailings from these companies, please contact us. Please also be aware that we never share our e-mail list with outside companies. If you have agreed to receive e-mail updates from us, we will offer you the opportunity to have your name removed from our e-mail list with every e-mail we send you.
+This website is owned and operated by The Vermont Country Store. This Privacy Policy pertains to information collected online via this website, and does not apply to information collected from other sources.
 
-When you place an order, you will be asked to provide your name, e-mail address, mailing address, telephone number, and credit card number with expiration date. This allows us to process and fulfill your order. We will not call you about anything other than your order, and then only if we need your help to clarify something about your order. Please see the Security information that follows regarding how we safeguarding of your credit card information.
+The Vermont Country Store may be contacted by email at [ customerservice@vermontcountrystore.com](mailto:customerservice@vermontcountrystore.com), by phone at [1-800-547-7849](tel:18005477849), or by mail at:
 
-To process your order on our site, we need to place a cookie, a small unique identifier file, on your computer. Our cookie does not contain any personally identifiable information (such as name or credit card information). Most browsers are preset to accept cookies. The use of cookies is standard on the Internet and is used to make on-line shopping easier and quicker. If you choose not to accept the cookie, purchasing is not possible at the countrycurtains.com site. However, you may still place your order by calling us Toll Free at 1-800-456-0321.
+The Vermont Country Store   
+5650 Main Street   
+Manchester Center, VT 05255 
 
-We contract with a third party to serve ads on our behalf across the Internet and sometimes on this site. They will collect anonymous information about your visits to our w ebsite, and your interaction with our products and services. They may also use information about your visits to this and other w ebsites to target advertisements for goods and services. These targeted advertisements may appear on our site or on other sites that you visit. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected in this process. If you do not want our third party to collect this information you may opt-out. Opting-out will not in any way affect your use of our site. In order to opt-out please click here.
+## Information Collected
 
-At the end of the checkout process, you will be given the option to save the information you have entered, including your name and billing address, any ship-to addresses and your credit card information. This feature is used only to help you retrieve this information and save time when you log back in.
+Certain anonymous information is collected automatically by our site. This information may include visitor domain name, IP address, and referring domain. This information is tracked in server logs, and may be used for troubleshooting purposes. Our website also collects aggregate information, such as page views and visits, in an effort to keep our content relevant to our customers. This information is not customer-specific.
 
-For practical reasons, we sometimes need to share your order information with trusted third-party companies (such as our credit card processor) that assist us in managing our operations and to fulfill your order. We require that third parties hold the information we provide in the strictest confidence.
+Personal information collected by our site is used for transactional and/or promotional and marketing purposes, and is encrypted using the Secure Socket Layer (SSL) protocol before transmission and storage. Personal information may include your name, address, and credit card number. We collect and use such information to better enhance your shopping experience, and for other transactional and promotional purposes, such as to:
 
-Our Web site contains a few links to other Web sites, which we have carefully selected as sites that we thought you might find interesting or helpful. Please be aware that Country Curtainsis not responsible for the privacy practices or information-gathering practices of such other sites.
+  * Process, track, and fulfill your orders
+  * Market our products and services
+  * Inform you of special offers and promotions
+  * Include you in surveys and contests
+  * Manage and develop The Vermont Country Store's business and operations
+  * Contact you for any other legitimate business purpose
 
-Please see our Customer Service section for a complete list of ways to reach us with your instructions or questions.
 
-P.S. Country Curtainsis proud to be a member of the Direct Marketing Association (DMA), the oldest association for consumers and companies concerned with direct marketing. We endorse and subscribe to the consumer privacy guidelines and practices of the DMA as defined by their Committee on Ethical Business Practices. For more information on how to protect your privacy please visit the DMA at www.dmachoice.org/ShoppingDirect
 
-**We Protect Your Security!**
+We may share your name and address information with certain trusted resources unless you choose to be put on our do-not-share list. To be put on our do-not-share list, please contact our Customer Service department.
 
-|  |   
----|---|---  
-  
-Our Web site is designed to be secure, so that when you submit sensitive information it is protected both on-line and off-line. Security on our site includes several precautions. 
+We exchange our customer lists with other reputable companies whose products we think may be of interest to you. If you do not wish to receive mailings from other companies or if you currently receive unwanted or duplicated catalogs, please send your name and address as it appears on your mailing label to: The Vermont Country Store, P.O. Box 6998, Rutland, VT 05702-6998; email us at [customerservice@vermontcountrystore.com](mailto:customerservice@vermontcountrystore.com); or call us at [1-800-211-4741](tel:18002114741). We will never share your email address. 
 
-Most of the activity on our site involves the viewing of product pages or content that is made accessible to everyone. However, the entire checkout process takes place in a secure environment using Secure Socket Layer (SSL) technology, which encrypts the data. SSL technology is an industry standard and among the best software available today for secure commerce transactions. Once you have clicked on the checkout button, your browser looks for a digital certificate. We use VeriSignas our SSL (Secure Socket Layer) digital certificate provider and to verify that countrycurtains.com is a VeriSignsecure site. Please click the VeriSignlogo to verify our certification as a secure site.
+## Cookies and Tracking Pixels
 
-All sensitive information you enter during the checkout process (including credit card number, name and address) is encrypted under this protocol while traveling the Internet. The second aspect of our security works behind the scenes. We protect all of your private information, including your order information and credit card number, behind a network security system called a "firewall." Only select Country Curtainsstaff has access to this information, and then only enough to service your order.
+A Cookie is a small data file stored by your Web browser on your computer's hard drive. Cookies allow The Vermont Country Store website to keep track of your order information, such as items placed in your Shopping Bag. Cookies also allow us to provide customers with a more personalized experience.
 
-As a final precaution, we authorize all credit card transactions through the same processes that we use for traditional phone, fax or mail orders. We process credit card transactions through an industry leading credit card service company.
+Tracking Pixels are small images that are used by the website to identify pages that are being viewed by customers. No personal data is collected when these images are viewed. Aggregate data from Tracking Pixels is used to improve the customer experience. Cookies and Tracking Pixels may be disabled in your browser. If disabled, however, certain portions of The Vermont Country Store website may not function.
 
-  
+The Vermont Country Store may contract with third parties who may also use Cookies and Tracking Pixels to collect data on our behalf, or to provide services such as credit card processing, shipping, promotional services or data management. These third parties are prohibited from sharing that information with anyone other than The Vermont Country Store or our partners.
 
+Our company and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click on one of these links: 
+
+<http://www.aboutads.info/choices>  or  <http://networkadvertising.org/choices>. 
+
+## Account Registration
+
+To make online shopping easier, you may register for an account on our website. Information provided by you, such as name and billing address, will be stored securely for future use. You may access and update this information at any time. By creating an account and sharing your billing or email address, you will be added to our customer mailing list, and may receive periodic mailings from us. You may opt out of these mailings at the time of account registration, or by contacting our Customer Service department.
+
+## Children's Privacy
+
+Our Web site is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
+
+## California Privacy Rights
+
+The Vermont Country Store may from time to time share your personal information with third parties for their direct marketing purposes. California residents who provide personal information when purchasing products may request information about the customer information shared with other businesses for their own direct marketing uses. Each consumer may request our direct marketing information once per year, and our response will cover the immediately preceding calendar year. This information would include the categories of shared customer information and the names and addresses of those businesses with which we shared customer information.
+
+## Policy Changes
+
+Changes to this policy may occur in the future. Changes to our Privacy Policy will be posted to The Vermont Country Store website. We encourage you to review this Privacy Policy periodically.
