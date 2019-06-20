@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successcreeations.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506100145id_/http%3A//successcreeations.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successcreeations.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620063803id_/https%3A//successcreeations.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SuccessCREEations, Inc.
 
@@ -17,21 +17,21 @@ Below is our privacy policy which incorporates these goals:
 
 If you have questions about accessing or correcting your personal data please [contact us](https://successcreeations.com/contact/).
 
-SuccessCREEations, Inc. (“ **SuccessCREEations** ”) operates several websites including [successcreeations.com](https://successcreeations.com/), [emmanuelpress.com](http://emmanuelpress.com/), [purposelydifferent.com](http://purposelydifferent.com/), [newmediaprofitpath.com](http://newmediaprofitpath.com/), and [chriscree.tv](http://chriscree.tv/). It is SuccessCREEations’ policy to respect your privacy regarding any information we may collect while operating our websites.
+SuccessCREEations, Inc. (“ **SuccessCREEations** ”) operates several websites including [successcreeations.com](https://successcreeations.com/), [rejectingmammon.com](https://rejectingmammon.com/), and [tame.domains](http://tame.domains/).  It is SuccessCREEations’ policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
 Like most website operators, SuccessCREEations collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. SuccessCREEations’s purpose in collecting non-personally identifying information is to better understand how SuccessCREEations’s visitors use its website. From time to time, SuccessCREEations may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-SuccessCREEations also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on EmmanuelPress.com websites. SuccessCREEations only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that website commenter IP addresses are visible and disclosed to the administrators of the website where the comment was left.
+SuccessCREEations also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our websites. SuccessCREEations only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that website commenter IP addresses are visible and disclosed to the administrators of the website where the comment was left.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to SuccessCREEations’s websites choose to interact with SuccessCREEations in ways that require SuccessCREEations to gather personally-identifying information. The amount and type of information that SuccessCREEations gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a website at [EmmanuelPress.com](http://emmanuelpress.com/) to provide a username and email address. Those who engage in transactions with SuccessCREEations – by purchasing access to the New Media Profit Path training material, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, SuccessCREEations collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with SuccessCREEations. SuccessCREEations does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to SuccessCREEations’s websites choose to interact with SuccessCREEations in ways that require SuccessCREEations to gather personally-identifying information. The amount and type of information that SuccessCREEations gathers depends on the nature of the interaction. For example, we ask visitors who sign up for our email newsletters to supply a name and email address. Those who engage in transactions with SuccessCREEations – by purchasing products, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, SuccessCREEations collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with SuccessCREEations. SuccessCREEations does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
-SuccessCREEations may collect statistics about the behavior of visitors to its websites. For instance, SuccessCREEations may monitor the most popular websites on the EmmanuelPress.com site. SuccessCREEations may display this information publicly or provide it to others. However, SuccessCREEations does not disclose personally-identifying information other than as described below.
+SuccessCREEations may collect statistics about the behavior of visitors to its websites. For instance, SuccessCREEations may monitor the most articles on the website(s). SuccessCREEations may display this information publicly or provide it to others. However, SuccessCREEations does not disclose personally-identifying information other than as described below.
 
 ### Protection of Certain Personally-Identifying Information
 
@@ -47,8 +47,9 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, SuccessCREEations may change its Privacy Policy from time to time, and in SuccessCREEations’ sole discretion. SuccessCREEations encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have an EmmanuelPress.com account, you should also check your website’s dashboard for alerts to these changes. Your continued use of this site our our above mentioned sites after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, SuccessCREEations may change its Privacy Policy from time to time, and in SuccessCREEations’ sole discretion. SuccessCREEations encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site our our above mentioned sites after any change in this Privacy Policy will constitute your acceptance of such change.
 
 **Change log:**
 
-None to date.
+01 January 2018 – Remove references to discontinued websites.  
+14 May 2019 – Add rejectingmammon.com website.
