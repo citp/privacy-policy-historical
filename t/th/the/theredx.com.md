@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108033204id_/http%3A//www.theredx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621010913id_/https%3A//www.theredx.com/privacy) for the most accurate reproduction.*
 
-# REDX Real Estate Privacy Policy
+# Privacy Policy - REDX
 
-Real Estate Data X-Change, Inc Privacy Policy
+REDX LLC Privacy Policy
 
 At REDX, we recognize that privacy is important.  
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:
 
 Privacy Matters  
-Real Estate Data X-Change, Inc.  
+REDX LLC  
 1411 W 1250 S ste 300  
 Orem, Utah 84058  
 USA
@@ -65,4 +65,4 @@ By using our site or subscribing to our service, you consent to our privacy poli
 
 If we decide to change our privacy policy, we will post those changes on this page, and update the Privacy Policy modification date below.
 
-This policy was last modified on 01/16/2015
+This policy was last modified on 11/26/2018
