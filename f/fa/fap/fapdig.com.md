@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fapdig.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701150754id_/https%3A//fapdig.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fapdig.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620224120id_/https%3A//fapdig.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,4 +48,4 @@ CONTACTING THE OPERATOR
 
 For any questions or concerns about this Policy or the use of personal information, please contact the Operator using the contact form.
 
-Mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Mail to LisaForsyth297@gmail.com
