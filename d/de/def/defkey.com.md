@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the defkey.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122080659id_/https%3A//defkey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defkey.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620204657id_/https%3A//defkey.com/privacy) for the most accurate reproduction.*
 
-# Gizlilik ilkeleri ‒ defkey
+# Privacy policy ‒ defkey
 
 Fair Information Practices 
 
@@ -77,6 +77,10 @@ We, along with third-party vendors such as Google use first-party cookies (such 
 
 **Opting out:**  
 Users can set preferences for how Google advertises to you using the [Google Ad Settings page](https://adssettings.google.com/authenticated). Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+**Ezoic**
+
+We use a third pardy technology called Ezoic to display personalized advertisements. You can review their privacy policy, data usage, cookie and opt-out information [here](https://g.ezoic.net/privacy/defkey.com)
 
 **Adversal**
 
