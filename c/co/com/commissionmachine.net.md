@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionmachine.net privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213190355id_/http%3A//michaelcheney.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionmachine.net privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620215611id_/http%3A//michaelcheney.com/go/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Michael Cheney
 
