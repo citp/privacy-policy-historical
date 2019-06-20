@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tboholidays.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117122614id_/https%3A//www.tboholidays.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tboholidays.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620161352id_/https%3A//www.tboholidays.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # TBO Holidays
 
 **Overview**
 
-This Privacy and Cookie Policy (the "Policy") becomes effective for all users from the date 15th May 2018. 
+This Privacy and Cookie Policy (the "Policy") becomes effective for all users from the date 26th May 2018. 
 
-We, Tek Travels DMCC. Operating through our flagship brand " **TBO Holidays** ", a corporation incorporated under the laws of the UAE as the data controller ( "TBO," "We," Or "us "),  explain in this Policy how we collect, process and/or use information that we receive via our websites, emails we send, and mobile applications (collectively, the "Platform") that link to this Policy, as amended from time to time. This Policy describes how TBO collects, processes, uses, shares and secures the personal information you provide. It also describes your choices regarding use, access, and correction of your personal information. For purposes of this Policy, personal information shall mean any information relating to an identified or identifiable natural person. 
+We, Tek Travels DMCC. Operating through our flagship brand " **TBO Holidays** ", a corporation incorporated under the laws of the UAE as the data processor ( "TBO," "We," Or "us "),  explain in this Policy how we collect, process and/or use information that we receive via our websites, emails we send, and mobile applications (collectively, the "Platform") that link to this Policy, as amended from time to time. This Policy describes how TBO collects, processes, uses, shares and secures the personal information you provide. It also describes your choices regarding use, access, and correction of your personal information. For purposes of this Policy, personal information shall mean any information relating to an identified or identifiable natural person. 
 
 This Policy applies only to information we collect, process and use through the Platform. This Policy does not apply to information that we collect through other channels, such as information that we collect offline, from other websites or from emails you send us.
 
@@ -146,7 +146,7 @@ The information about you that we collect, process and/or use through the Platfo
 
 **You may reach us here**
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact us at [legal@tboholidays.com](mailto:legal@tboholidays.com)
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact us at [dpo@tboholidays.com](mailto:dpo@tboholidays.com)
 
 **Updates to Our Privacy Policy**
 
@@ -158,4 +158,4 @@ We may revise this Policy from time to time by posting an updated version on the
 
 **Attn: Legal Department**
 
-**Email :[legal@tboholidays.com ](mailto:legal@tboholidays.com)**
+**Email :[dpo@tboholidays.com ](mailto:dpo@tboholidays.com)**
