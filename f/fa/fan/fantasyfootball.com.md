@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213030726id_/http%3A//www.fantasyfootball.com/digimedia_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620055156id_/http%3A//fantasyfootball.com/digimedia_privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
