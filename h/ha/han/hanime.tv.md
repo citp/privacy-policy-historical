@@ -1,17 +1,112 @@
-> *The following text is extracted and transformed from the hanime.tv privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hanime.tv privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620200826id_/https%3A//hanime.tv/privacy) for the most accurate reproduction.*
 
-# Legal
+# Privacy - hanime.tv
 
-* * *
+This Privacy Statement explains our practices, including your choices, regarding the collection, use, and disclosure of certain information, including your personal information, by the hanime.tv family of companies ("hanime.tv").
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+### Contacting Us
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+If you have general questions about your account or how to contact Customer Service for assistance, please visit our Twitter Online Help Center. Your hanime.tv service provider and data controller depends on your country of membership, and will be listed in your membership. For questions specifically about this Privacy Statement, or our use of your personal information, cookies or similar technologies, please contact us by email at [admin@hanime.tv](mailto:admin@hanime.tv).
+
+The data controller of your personal information is hanime.tv, HTV Network or its affiliated companies, which also provides the service to you. Please note that if you contact us to assist you, for your safety and ours we may need to authenticate your identity before fulfilling your request.
+
+### Collection of Information
+
+We receive and store information about you such as:
+
+  * **Information you provide to us:** We collect information you provide to us which includes: 
+    * your name, email address, address or postal code and telephone number. We collect this information in a number of ways, including when you enter it while using our service, interact with our Customer Service, or participate in surveys or marketing promotions;
+    * information when you choose to provide reviews or ratings, taste preferences, account settings, set preferences in Your Account, or otherwise provide information to us through our service or elsewhere.
+  * **Information we collect automatically:** We collect information about you and your use of our service, your interactions with us and our advertising, as well as information regarding your computer or other device used to access our service (such as gaming systems, smart TVs, mobile devices, and set top boxes). This information includes: 
+    * your activity on the hanime.tv service, such as title selections, watch history and search queries;
+    * details of your interactions with Customer Service, such as the date, time and reason for contacting us, transcripts of any chat conversations, and if you call us, your phone number and call recordings;
+    * device IDs or other unique identifiers, device and software characteristics (such as type and configuration), connection information, statistics on page views, referral URLs, IP address (which may tell us your general location), browser and standard web server log information;
+    * information collected via the use of cookies, web beacons and other technologies, including ad data (such as information on the availability and delivery of ads, the site URL, as well as the date and time). See our [Cookies and Internet Advertising](https://web.archive.org/cookies) section for more details.
+  * **Information from other sources:** We might supplement the information described above with information we obtain from other sources, including from both online and offline data providers. Such supplemental information could include demographic data, interest based data, and Internet browsing behavior.
 
 
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+### Use of Information
+
+We use information to provide, analyze, administer, enhance and personalize our services and marketing efforts, to process your registration, your orders and your payments, and to communicate with you on these and other topics. For example, we use information to:
+
+  * determine your general geographic location, provide localized content, provide you with customized and personalized viewing recommendations for movies and TV shows we think will be enjoyable, determine your Internet service provider, and help us quickly and efficiently respond to inquiries and requests;
+  * prevent, detect and investigate potentially prohibited or illegal activities, including fraud, and enforcing our terms (such as determining free trial eligibility);
+  * analyze and understand our audience, improve our service (including our user interface experiences) and optimize content selection, recommendation algorithms and delivery;
+  * communicate with you concerning our service (for example by email, push notifications text messaging, and online messaging channels), so that we can send you news about hanime.tv, details about new features and content available on hanime.tv, and special offers, promotional announcements and consumer surveys, and to assist you with operational requests such as password reset requests. Please see the "Your Choices" section of this Privacy Statement to learn how to set or change your communications preferences.
+
+
+
+### Disclosure of Information
+
+We disclose your information for certain purposes and to third parties, as described below:
+
+  * **The hanime.tv family of companies:** We share your information among the hanime.tv family of companies in the HTV Network as needed for: data processing and storage; providing you with access to our services; providing customer support; making decisions about service improvements, content development; and for other purposes described in the Use of Information section of this Privacy Statement.
+  * **Service Providers:** We use other companies, agents or contractors ("Service Providers") to perform services on our behalf or to assist us with the provision of services to you. For example, we engage Service Providers to provide marketing, advertising, communications, infrastructure and IT services, to personalize and optimize our service, to process credit card transactions or other payment methods, to provide customer service, to collect debts, to analyze and enhance data (including data about users' interactions with our service), and to process and administer consumer surveys. In the course of providing such services, these Service Providers may have access to your personal or other information. We do not authorize them to use or disclose your personal information except in connection with providing their services.
+  * **Promotional offers:** We may offer joint promotions or programs that, in order for your participation, will require us to share your information with third parties. In fulfilling these types of promotions, we may share your name and other information in connection with fulfilling the incentive. Please note that these third parties are responsible for their own privacy practices.
+  * **Protection of hanime.tv and others:** hanime.tv and its Service Providers may disclose and otherwise use your personal and other information where we or they reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities (including payment fraud), security or technical issues, or (d) protect against harm to the rights, property or safety of hanime.tv, its users or the public, as required or permitted by law.
+  * **Business transfers:** In connection with any reorganization, restructuring, merger or sale, or other transfer of assets, we will transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our Privacy Statement.
+
+
+
+Whenever in the course of sharing information we transfer personal information to countries outside of the European Economic Area and other regions with comprehensive data protection laws, we will ensure that the information is transferred in accordance with this Privacy Statement and as permitted by the applicable laws on data protection.
+
+You may also choose to disclose your information in the following ways:
+
+  * While using the hanime.tv service you will have opportunities to post reviews or other information publicly, and third parties could use the information you disclose;
+  * Certain portions of our service may contain a tool which gives you the option to share information by email, text message and social or other sharing applications, using the clients and applications on your smart device;
+  * Social plugins (including those offered by Facebook, Twitter, Pinterest, and Google) allow you to share information on those platforms.
+
+
+
+Social plugins and social applications are operated by the social network themselves, and are subject to their terms of use and privacy policies.
+
+### Access to Your Account and Profiles
+
+In order to provide you with ease of access to your account and to help administer the hanime.tv service, we use technology that enables us to recognize you as the account holder and provide you with direct access to your account without requiring you to retype any password or other user identification when you revisit the hanime.tv service. You can choose not to take advantage of this feature on your computer by unchecking the box "Remember me on this device" when you log in to the website.
+
+To remove access to your hanime.tv account from your devices: (a) visit "Your Account", choose "Sign out of all devices," and follow the instructions to deactivate your devices (note, deactivation may not occur immediately) or (b) delete your hanime.tv settings from your device (steps vary by device and the option is not available on all devices). Where possible, users of public or shared devices should log out at the completion of each visit. If you sell or return a computer or hanime.tv ready device, you should log out and deactivate the device before doing so. If you do not maintain the security of your password or device, or fail to log out or deactivate your device, subsequent users may be able to access your account, including your personal information.
+
+If you share or otherwise allow others to have access to your account, they will be able to see your information (including in some cases personal information) such as your watch history, ratings, reviews and account information (including your email address or other information in Your Account). This remains true even if you use our profiles feature.
+
+Profiles allow different members of your household to have a distinct, personalized hanime.tv experience, built around the movies and TV shows they enjoy, such as personalized recommendations and separate watch histories. Please note that profiles are available to everyone who uses your hanime.tv account, so that anyone with access to your hanime.tv account can navigate to and use, edit or delete any profile. You should explain this to others with access to your account, and if you do not wish them to use or update your profile, be sure to let them know.
+
+### Your Choices
+
+If you no longer want to receive certain communications from us via email or text message, simply access the email and text messages settings page in the "Your Account" section of our website and uncheck those items to unsubscribe. Alternatively, click the "unsubscribe" link in the email or reply STOP (or as otherwise instructed) to the text message. Please note that you cannot unsubscribe from certain email correspondence from us, such as messages relating to your account transactions.
+
+You can opt in to receive mobile push notifications from hanime.tv. If you subsequently decide you no longer wish to receive these notifications, you can use your mobile device’s settings functionality to turn them off.
+
+To exercise choices regarding cookies set through our website, as well as other types of online tracking and Internet advertising, see the [Cookies and Internet Advertising](https://web.archive.org/cookies) section.
+
+### Your Information and Rights
+
+You can request access to your personal information, or correct or update out-of-date or inaccurate personal information we hold about you.
+
+You can most easily do this by visiting the "Your Account" portion of our website, where you have the ability to access and update a broad range of information about your account, including your contact information, your hanime.tv payment information, and various related information about your account (such as the content you have viewed and rated, and your reviews). You must be signed in to access "Your Account." You may also request that we delete personal information that we hold about you.
+
+To make requests, or if you have any other question regarding our privacy practices, please contact us at privacy@hanime.tv. Please also see the Your Choices section of this Privacy Statement for additional choices regarding your information.
+
+We may reject requests that are unreasonable or not required by law, including those that would be extremely impractical, could require disproportionate technical effort, or could expose us to operational risks such as free trial fraud. We may retain information as required or permitted by applicable laws and regulations, including to honor your choices, for our billing or records purposes and to fulfill the purposes described in this Privacy Statement.
+
+### Security
+
+We use reasonable administrative, logical, physical and managerial measures to safeguard your personal information against loss, theft and unauthorized access, use and modification. Unfortunately, no measures can be guaranteed to provide 100% security. Accordingly, we cannot guarantee the security of your information.
+
+### Other Websites, Platforms and Applications
+
+The hanime.tv service may be provided through and/or utilize features (such as voice controls) operated by third party platforms, or contain links to sites operated by third parties whose policies regarding the handling of information may differ from ours. For example, you may be able to access the hanime.tv service through platforms such as gaming systems, smart TVs, mobile devices, set top boxes and a number of other Internet connected devices. These websites and platforms have separate and independent privacy or data policies, privacy statements, notices and terms of use, which we recommend you read carefully. In addition, you may encounter third party applications that interact with the hanime.tv service.
+
+### Children
+
+You must be 18 years of age or older to subscribe to the hanime.tv service. In certain jurisdictions, the age of majority may be older than 18, in which case, you must satisfy that age in order to become a member. While individuals under the age of 18 may utilize the service, they may do so only with the involvement, supervision, and approval of a parent or legal guardian.
+
+### Changes to This Privacy Statement
+
+We will update this Privacy Statement from time to time in response to changing legal, regulatory or operational requirements.
+
+Last updated: March 31, 2018 
+
+In hanime.tv you will find a hentai haven for the latest uncensored Hentai. We offer the best hentai collection in the highest possible quality at 1080p from Blu-Ray rips. Many videos are licensed direct downloads from the original animators, producers, or publishing source company in Japan. Our anime hentai website is built for mobile devices, and serves the best hentai available on the web. Connected to many leaks, hanime.tv is where you can watch hentai with just one click. Including hentai in 2019, where is the latest hentai are archived and curated here. Here is the place where you can find the best hentai online 24/7. Enjoy hentai movies, hentai clips, and also hentai pictures images for free! This site is the best place for ecchi since hentai haven, and includes many hentai categories like: Incest hentai, Milf hentai, Lolicon Hentai, Loli Hentai, Anal Hentai, Creampie Hentai, Futanari Hentai, Rape hentai, School Girls Hentai, Yuri Hentai, and much more!
+
+What is Hentai? Hentai (変態 or へんたい). Hentai or seijin-anime is a Japanese word that, in the West, is used when referring to sexually explicit or pornographic comics and animation, particularly those of Japanese origin such as anime and manga.
