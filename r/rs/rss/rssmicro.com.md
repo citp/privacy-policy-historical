@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rssmicro.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214091644id_/http%3A//rssmicro.com/privacy.web) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssmicro.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620065328id_/http%3A//www.rssmicro.com/privacy.web) for the most accurate reproduction.*
 
 # Privacy Policy - RSSMicro Search
 
