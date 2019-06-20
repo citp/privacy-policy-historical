@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625070343id_/https%3A//www.savethechildren.org.uk/misc/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620034342id_/https%3A//www.savethechildren.org.uk/misc/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Save the Children UK
 
-Save the Children is committed to protecting your personal data, whether you are a supporter, volunteer, or shopper.  Respect for your privacy is central to the commitments we have made as part of our [Supporter Promise](https://web.archive.org/about-us/accountability-and-transparency/supporter-promise). 
+Save the Children is committed to protecting your personal data, whether you are a supporter, volunteer, or shopper.  Respect for your privacy is central to the commitments we have made as part of our [Supporter Promise](https://www.savethechildren.org.uk/about-us/accountability-and-transparency/supporter-promise.html). 
 
 Please read this policy carefully to understand how we collect, use and store your personal data.
 
@@ -38,17 +38,15 @@ By using our website, our social media pages (such as Facebook, Twitter, YouTube
 
 In order to remember that you have accepted our use of cookies, we will place a temporary cookie to remember your consent for 3 months.  For more information about how we use cookies on this site, please review our Cookie Policy below.
 
-## Privacy Policy
-
 ### How do we collect your information?
 
 _We may collect information about you directly whenever you interact with us_. For example, when you contact Save the Children regarding our activities, register as a supporter, send or receive information, engage with our social media or make a donation to us, you may provide us with your personal information.
 
-_We may also receive information about you when you interact with third parties with whom we work._ For example, where you’ve made a donation to us through a third-party website (e.g., Just Giving or Virgin Money Giving) and given them permission to share your information with us. 
+_We may also receive information about you when you interact with third parties with whom we work._  For example, where you’ve made a donation to us through a third-party website (e.g., Just Giving or Virgin Money Giving) and given them permission to share your information with us. 
 
 _We may supplement what we know about you with information that is available to the public_. For example, in order to ensure that our communication with you is relevant and tailored to your background and interests, we may collect information about you from publicly-available sources either directly or through third-party subscription services or service providers. See 'How will we combine and analyse the information we collect about you?' for more detail. We may also carry out research using publicly available information to identify individuals who have an affinity to our cause but with whom we are not already in touch.
 
-_We may collect aggregated or anonymous information when you visit our website or interact with our content_.  For example, we may collect information about the services you use and how you use them, like when you watch a video on YouTube, visit our website or 
+_We may collect aggregated or anonymous information when you visit our website or interact with our content_.  For example, we may collect information about the services you use and how you use them, like when you watch a video on YouTube, visit our website or view and interact with our ads and content. Please see our Cookie Policy for more detail.
 
 ### What information do we collect?
 
@@ -76,11 +74,11 @@ In order to ensure that our communication with you is relevant and tailored to y
 
 Where we have identified that you may have the capacity or affinity to support Save the Children at a higher level, we may use the information we hold about you to identify connections between you and our existing circle of key supporters.  We may review other information about you that is available to the public through internet searches, social networks, such as LinkedIn, subscription services, news archives or public databases (e.g., Companies House, the electoral, political and property registers), such as information about corporate directorships, shareholdings, published biographic information, employment and earnings, philanthropic interests and networks, charitable giving history and motivations and relevant media coverage, so that we can engage with you in a more personalised way.  
 
-### Do we process ‘sensitive’ personal information?
+### ****Do we process ‘sensitive’ personal information?
 
 Under data protection law, certain categories of personal information are recognised as sensitive, including health information and information regarding race, religious beliefs, and political opinions (‘sensitive personal data’).  In limited cases, we may collect sensitive personal data about you. We would only collect sensitive personal data if there is a clear reason for doing so, such as where we need this information to ensure that we provide appropriate facilities or support to enable you to participate in an athletic event like a marathon. 
 
-### How do we use your information?
+### ****How do we use your information?
 
 We may use your information in a number of ways, including:
 
@@ -141,9 +139,9 @@ For financial and technical reasons, we may, on occasion, need to use the servic
 
 We will keep and delete your information according to our internal policies and will keep it no longer than reasonably necessary for the purposes for which we hold it, taking into account relevant legal and regulatory retention requirements (e.g. tax or health and safety requirements) and operational considerations.
 
-### How can you change your marketing preferences or update the information we hold about you?
+### ****How can you change your marketing preferences or update the information we hold about you?
 
-In our [Supporter Promise](https://web.archive.org/about-us/accountability-and-transparency/supporter-promise), we pledge to make it clear and easy for you to choose how you hear from us. If you do not wish us to use your personal data for marketing purposes as outlined above, you can use the relevant box on the print or online form on which we collect your data or you can follow instructions provided in a print or poster advertisement or in a TV advert to indicate your preference.
+In our [Supporter Promise](https://www.savethechildren.org.uk/about-us/accountability-and-transparency/supporter-promise.html), we pledge to make it clear and easy for you to choose how you hear from us. If you do not wish us to use your personal data for marketing purposes as outlined above, you can use the relevant box on the print or online form on which we collect your data or you can follow instructions provided in a print or poster advertisement or in a TV advert to indicate your preference.
 
 You can also change any of your marketing preferences at any time (including telling us that you don’t want us to contact you for marketing purposes) by:
 
@@ -160,7 +158,7 @@ London
 EC1M 4AR
 
   * Contacting your Save the Children contact person;
-  * Entering your details on the [Fundraising Preference Service (FPS) website](https://public.fundraisingpreference.org.uk/) and choosing ‘Save the Children’ (Charity Number 213890).  This service is run by the Fundraising Regulator and allows you to stop email, telephone, addressed post, and/or text messages from a selected charity or charities by using the online service at www.fundraisingpreference.org.uk or by calling the telephone helpline on 0300 303 3517.  Once you have made a request through through the FPS, we will ensure that your new preferences take effect within 28 days of your request.  More information [about the FPS can be found here](http://www.fundraisingpreference.org.uk/).
+  * Entering your details on the [Fundraising Preference Service (FPS) website](https://public.fundraisingpreference.org.uk/) and choosing ‘Save the Children’ (Charity Number 213890).  This service is run by the Fundraising Regulator and allows you to stop email, telephone, addressed post, and/or text messages from a selected charity or charities by using the online service at www.fundraisingpreference.org.uk or by calling the telephone helpline on 0300 303 3517.  Once you have made a request through through the FPS, we will ensure that your new preferences take effect within 28 days of your request.  More information [about the FPS can be found here](http://www.fundraisingpreference.org.uk/).
 
 
 
@@ -178,7 +176,7 @@ Similarly, if your contact details have changed or you think any information we 
 
 Under UK data protection law, you have certain rights over personal information that we hold about you. These rights are summarised below. Please note that exceptions apply to a number of these rights, and not all rights will be applicable in all circumstances.
 
-You can assert your rights, raise a concern, or make a complaint about how we process your personal data by contacting our [Data Protection Officer](mailto:dataprotection@savethechildren.org.uk) or our [Supporter Care team](mailto:supportercare@savethechildren.org.uk).  It will assist us, if you explain your request or concern and describe the personal information you are referencing as specifically as possible. In order to action your request, we may need to request further information or request that you provide proof of identity.
+You can assert your rights, raise a concern, or make a complaint about how we process your personal data by contacting our [Data Protection Officer](mailto:dataprotection@savethechildren.org.uk) or our [Supporter Care team](mailto:supportercare@savethechildren.org.uk).  It will assist us, if you explain your request or concern and describe the personal information you are referencing as specifically as possible. In order to action your request, we may need to request further information or request that you provide proof of identity.
 
 Your rights in relation to our processing of your personal information, include:
 
@@ -228,43 +226,41 @@ You will receive a separate Privacy Statement from us when providing information
 
 ### Your credit or debit card information
 
-If you use your credit or debit card to donate to us, buy something or make a booking online, we pass your card details securely to our payment processing partner as part of the payment process. We do this in accordance with the Payment Card Industry Security Standard [(PDF download)](https://web.archive.org/content/dam/global/reports/PCI_DSS_v3-2.pdf), and don’t store the details on our website or databases.
+If you use your credit or debit card to donate to us, buy something or make a booking online, we pass your card details securely to our payment processing partner as part of the payment process. We do this in accordance with the Payment Card Industry Security Standard [(PDF download)](https://web.archive.org/content/dam/global/reports/pci_dss_v3-2.pdf), and don’t store the details on our website or databases.
 
-### Children's data
+### ****Children's data
 
 When you register with us, you are stating that you are 18 years of age or over. You agree that any information you provide to us about yourself upon registration or at any time is true. See Terms and Conditions for more information.
 
-### Other websites
+### ****Other websites
 
 We cannot be held responsible for the privacy of data collected by websites not owned or managed by Save the Children, including those linked through our website.
 
-### Emails terms of use
+### ****Emails terms of use
 
 Emails aren’t always secure, and they may be intercepted or changed after they’ve been sent. Save the Children doesn’t accept liability if this happens. The contents of emails reflect their author's views and not necessarily those of Save the Children.
 
-Please 
+Please 
 
-_do not_
+ _do not_
 
-send Save the Children any financial data through email.
+ send Save the Children any financial data through email.
 
 The information in emails is confidential, so if you’ve received one by mistake, please delete it without copying, using, or telling anyone about its contents.
 
-## Cookie Policy
+### ****Cookies and how we use them
 
-### Cookies and how we use them
-
-#### _What are cookies?_
+### What are cookies?
 
 Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device and to target the content displayed to the user’s interests.
 
 You can find more information about cookies at: www.allaboutcookies.org and www.youronlinechoices.eu for a video about cookies visit www.google.co.uk/goodtoknow/data-on-the-web/cookies
 
-#### _Do we use cookies?_
+### Do we use cookies?
 
 Yes.
 
-#### _Types of cookies_
+### Types of cookies
 
 There are two broad types of cookies - 'first party cookies' and 'third party cookies':
 
@@ -274,17 +270,17 @@ Third party cookies are served by a service provider on behalf of the website op
 
 In addition, cookies may be either 'session cookies' or 'persistent cookies'. Your computer automatically removes session cookies once you close your browser. Persistent cookies will survive on your computer until an expiry date specified in the cookie itself, is reached. We use both session and persistent cookies.
 
-#### _Categories of cookies we use_
+### Categories of cookies we use
 
-_1\. Strictly necessary cookies:_ These cookies are essential for the user to move around the website and to use its features, e.g. shopping baskets and e-billing.
+_1\. Strictly necessary cookies:_  These cookies are essential for the user to move around the website and to use its features, e.g. shopping baskets and e-billing.
 
-_2\. Performance cookies:_ These cookies collect information about how the user makes use of the site, e.g. which pages the user visits most. These cookies do not collect information that identifies the user.
+_2\. Performance cookies:_  These cookies collect information about how the user makes use of the site, e.g. which pages the user visits most. These cookies do not collect information that identifies the user.
 
-_3\. Functionality cookies:_ These cookies remember choices made by or attributes of the user and enhance the features and content you experience during your visit to our website, e.g. language, appeals visited or user’s location. This cookie is also used to remember a user's preferences for a font size, or customisable parts of a web page.
+_3\. Functionality cookies:_  These cookies remember choices made by or attributes of the user and enhance the features and content you experience during your visit to our website, e.g. language, appeals visited or user’s location. This cookie is also used to remember a user's preferences for a font size, or customisable parts of a web page.
 
-_4\. Targeting or advertising cookies:_ These cookies collect information about the users' browsing habits. This may also include your use of social media sites, e.g. Facebook, etc. or how you interact with our website which then shows you relevant content elsewhere on the internet. NB. These may also be used to choose the advertisements that are displayed to you on our website and other websites.
+_4\. Targeting or advertising cookies:_  These cookies collect information about the users' browsing habits. This may also include your use of social media sites, e.g. Facebook, etc. or how you interact with our website which then shows you relevant content elsewhere on the internet. NB. These may also be used to choose the advertisements that are displayed to you on our website and other websites.
 
-We have assessed our cookies based on the [ICC Cookie Guide](https://www.cookielaw.org/media/1096/icc_uk_cookiesguide_revnov.pdf). The majority of our cookies fall into the first two categories. However, we also use cookies on our webpages which are in categories 3 and 4.
+We have assessed our cookies based on the [ICC Cookie Guide](https://www.cookielaw.org/media/1096/icc_uk_cookiesguide_revnov.pdf). The majority of our cookies fall into the first two categories. However, we also use cookies on our webpages which are in categories 3 and 4.
 
 ### What information do we collect using cookies?
 
@@ -309,31 +305,31 @@ We use cookies to track how visitors come to our site. For example, we use marke
 
 Although not through cookies, we do measure the success of the emails we send – so we know what subject lines and stories people liked the most. We receive this information anonymously; we don’t share this information.
 
-### _Website statistics analytics, testing and personalisation_
+### Website statistics analytics, testing and personalisation
 
 Because we are in a transition period, our website currently uses three types of web analytics services:
 
-1\. [Google Analytics](http://www.google.com/intl/en/analytics/privacyoverview.html), a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which (as discussed above) are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.
+1. [Google Analytics](http://www.google.com/intl/en/analytics/privacyoverview.html), a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which (as discussed above) are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.
 
-Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For more details, please read [Google’s Analytics overview](http://www.google.com/intl/en/analytics/privacyoverview.html).
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For more details, please read [Google’s Analytics overview](http://www.google.com/intl/en/analytics/privacyoverview.html).
 
-You can always opt-out of Google Analytics cookies by [Google’s opt-out tool](https://tools.google.com/dlpage/gaoptout/).
+You can always opt-out of Google Analytics cookies by [Google’s opt-out tool](https://tools.google.com/dlpage/gaoptout/).
 
 2\. Adobe Analytics, another web analytics service provided by Adobe Systems Inc. (“Adobe”). Adobe Analytics uses cookies to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Adobe on servers in the United States. Adobe will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.
 
 Another Adobe service that we use is Adobe Target which allows us to test and optimise the experience that you receive on the site. It uses cookies and data collected by Adobe Analytics to display to you new and existing features and content on the website that we think are relevant to you or would improve your experience on the website.
 
-Adobe may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Adobe’s behalf. Adobe will not associate your IP address with any other data held by Adobe. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Adobe in the manner and for the purposes set out above. For more details please read [Adobe’s Marketing Cloud Privacy Policy](https://www.adobe.com/uk/privacy/marketing-cloud.html).
+Adobe may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Adobe’s behalf. Adobe will not associate your IP address with any other data held by Adobe. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Adobe in the manner and for the purposes set out above. For more details please read [Adobe’s Marketing Cloud Privacy Policy](https://www.adobe.com/uk/privacy/marketing-cloud.html).
 
-You can always opt-out of Adobe Analytics cookies by [Adobe’s opt-out tool](http://http/www.adobe.com/uk/privacy/opt-out.html).
+You can always opt-out of Adobe Analytics cookies by Adobe’s opt-out tool.
 
 3\. Decibel Insight, another web analytics service we use on our website in order to provide better content and service. Decibel Insight uses cookies to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Decibel Insight in the UK. Decibel Insight may record mouse actions and scrolling movement, as well as basic interactions with website forms, but does not track your browsing habits across other third-party websites. This data will not be used for any reason other than to perform services for us.
 
-Decibel Insight may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Decibel Insight’s behalf. Decibel Insight will not associate your IP address with any other data held by Decibel Insight. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Decibel Insight in the manner and for the purposes set out above. For more information about the data practices of Decibel Insight, please visit their [privacy policy](https://www.decibelinsight.com/privacy-policy/).
+Decibel Insight may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Decibel Insight’s behalf. Decibel Insight will not associate your IP address with any other data held by Decibel Insight. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Decibel Insight in the manner and for the purposes set out above. For more information about the data practices of Decibel Insight, please visit their [privacy policy](https://www.decibelinsight.com/privacy-policy/).
 
-You can always opt out of Decibel Insight cookies by visiting [their website](https://www.decibelinsight.com/optout). 
+You can always opt out of Decibel Insight cookies by visiting [their website](https://www.decibelinsight.com/optout). 
 
-**OTHER THIRD-PARTY COOKIES**
+### OTHER THIRD-PARTY COOKIES
 
 You may notice some other cookies that are not related to the Save the Children’s website whilst visiting www.savethechildren.org.uk. Some of our pages contain embedded content such as YouTube video, Twitter feed, Facebook likes or Google plus share, and you may receive cookies delivered from these websites. Save the Children does not govern the publication of third-party cookies. To understand more about their cookies and privacy statements, please visit the relevant sites.
 
@@ -345,4 +341,4 @@ If you do not want cookies to be stored on your PC it is possible to disable thi
 
 The "Help" menu in the toolbar of most web browsers will tell you how to change your browser's cookie settings, including how to have the browser notify you when you receive a new cookie, and how to disable cookies altogether. Below is some helpful guidance about how to make these changes.
 
-#### _How to disable cookies_
+### How to disable cookies
