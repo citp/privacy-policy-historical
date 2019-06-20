@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singletrackworld.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215115043id_/https%3A//singletrackworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singletrackworld.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620164723id_/https%3A//singletrackworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Singletrack Magazine
 
@@ -162,6 +162,10 @@ Our legitimate reason for this code: To enable us to measure the performance of 
 
 Opt out link – Info here [https://developers.google.com/analytics/devguides/collection/analyticsjs/user-opt-out](https://developers.google.com/analytics/devguides/collection/analyticsjs/user-opt-out)
 
+**CleanTalk:**
+
+We use clean talk to protect the site from false / fake registrations in order to prevent spam on the forum and comments. 
+
 **Google Adsense:**
 
 Legitimate reason for this code: Google Adsense allows us to monetise our website and content by delivering advertisements from third party advertisers on our website.
@@ -186,12 +190,6 @@ Ad delivery network
 
 Millenium inserts ads into the content of the page automatically and also inserts ads in the empty spaces at the sides of our website on desktops. It uses cookies to monitor users behaviour in order to only insert ads appropriately that are not overly frequent. This is why you may see ads in one position on one page but not on subsequent pages you visit.
 
-**AOL One Advertising:**
-
-We use services from AOL One Advertising to deliver our advertisers ad campaigns on our website. Cookies are used in order to deliver advertisements in a trackable and controlled way. For example cookies are used in order to limit the display of ads to users. Typically, advertisers request their ad is only shown to a user a certain number of times per day. Cookies are necessary to ensure that campaigns are delivered to the advertisers specification. These cookies also allow us to create a user friendly advertising experience and are vital to helping us monetise our website to ensure we can continue to provide a free at point of use service for all our users.
-
-AOL One Advertising also delivers advertising campaigns from third party, carefully selected advertisers. This is known as the AOL Marketplace and we can vet the advertisers who can access this marketplace. This is a vital revenue stream that allows us to monetise our website and provide a free at point of delivery service to all our users.
-
 **Advanced Ads**
 
 WordPress Ad delivery software plugin
@@ -202,31 +200,11 @@ This is a software tool we use to provide further fine control of how our ads ar
 
 We use Facebook Pixel code in order to track website use by Facebook visitors. The primary use of this code is to provide us with performance information on content and better guide our content creation policies. We also use it to create anonymised audience segments of Facebook users that we can then use to create targeted ad campaigns highlighting our content, goods and services on the Facebook platform.
 
-**SOVRN** – Ad delivery network
+**GoCardless** – Direct Debit Provider
 
-SOVRN is a programmatic ad provider that can use personal information such as your IP address to serve you targeted advertising. We work closely with SOVRN to ensure that all data processing is compliant with the new GDPR standards.
+GoCardless are our provider when it comes to subscribers that have taken up a subscription using the payment method, direct debit. GoCardless’ privacy policy can be viewed here <https://gocardless.com/legal/privacy/>
 
-You can see SOVRN’s privacy policy here [www.aboutads.info/choices](http://www.aboutads.info/choices)
-
-**CRITEO**
-
-Criteo is a retargeting advertising delivery network. This means that it uses your previous browsing history to better serve you relevant advertising. It also serves non-tracking advertising based on the general audience demographic of our website. We have ensured that Criteo is fully compliant with the new GDPR standards. You can read more about how Criteo has prepared for GDPR compliance here.
-
-[https://www.criteo.com/insights/gdpr-criteo-ready-journey/](https://www.criteo.com/insights/gdpr-criteo-ready-journey/)
-
-**Carambola**
-
-Carambola deliver target advertising to our website via an interactive ad unit that displays on both desktop and mobile devices. IP address information and other browsing activity can be passed to this advertising vendor who is fully GDPR compliant.
-
-Carambola’s Privacy policy can be viewed here [http://www.carambola.com/privacyPolicy/index.html](http://www.carambola.com/privacyPolicy/index.html)
-
-**SORTABLE** – Ad delivery network via header bidding
-
-Sortable is currently our biggest ad delivery provider. They take up almost 100% of our inventory that is left over after our principal and high priority advertising campaigns have displayed. They carry a heavy burden in ensuring they deliver high quality advertising campaigns to our our users and they have put a lot of effort into ensuring they are fully GDPR compliant. They are a vital part of the monetisation streams that keep Singletrack running.
-
-Sortable’s Privacy Policy and statement of GDPR compliance is here 
-
-[https://docs.sortable.com/privacy-policy/](https://docs.sortable.com/privacy-policy/?utm_source=hs_email&utm_medium=email&utm_content=62731380&_hsenc=p2ANqtz-9aZb99ZHQAsT_lxp_po0rSO3am1dU4b4-ZF_8ckHRCvAPsaYqyE2XkBq5CwgHdbhgkThqqGfd21Y1GeLtYqrNxonHd1Lm1qmONqF-EFHLeJUPY-rw&_hsmi=62731380)
+* * *
 
 All of the above advertising providers and tools have been very carefully selected by us at Singletrack to ensure a high degree of quality and balance between vital revenue flow and user experience. We, hope that you will trust our selection of these third party advertising providers and delivery tools and agree to consent to their use within your browser. 
 
