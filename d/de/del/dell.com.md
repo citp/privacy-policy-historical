@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228143629id_/https%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620204436id_/https%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement Regarding Customer and Online User Information | Dell
 
@@ -67,14 +67,13 @@ Dell wants to help you keep your Personal Information accurate. To view or edit 
 You may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following: 
 
   * The My Account and Premier Account sections on Dell.com allow you to choose whether you wish to receive marketing communications from Dell, and to subscribe or unsubscribe to newsletters about our products and services; and 
-  * At any point you can also visit our [List Removal Page](https://www.dell.com/content/public/xdbredirect.aspx?link=global:external:pmc-list-removal) and submit a request to be removed from our advertising and marketing lists (catalogs, telephone, faxes and email); 
+  * At any point you can also visit our [List Removal Page](https://www.dell.com/preferences/listremoval/?c=us&l=en) and submit a request to be removed from our advertising and marketing lists (catalogs, telephone, faxes and email); 
   * When you save a cart while shopping online, you can choose to receive email reminders; 
   * Any marketing by Dell, or any third parties on behalf of Dell, will be conducted in accordance with applicable laws and include where applicable methods to allow you to express your preferences (including the possibility of being removed from our advertising and marketing lists as set forth above).
 
 
 
-Please allow up to 10 business days for your email preferences to take effect. Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request.  
-
+Please allow up to 10 business days for your email preferences to take effect. Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request.
 
 **
 
@@ -108,7 +107,7 @@ Cookies allow you to take advantage of some of Dell's essential features, includ
 
 Dell also works with advertising and personalization Business Partners to use cookies, Internet browsing, cross-mobile application browsing and online purchase data across multiple devices to help us display personalized content and appropriate advertising during your visits to mobile applications, Dell.com and other websites. Cookies placed by these Business Partners also assist us with measuring the performance of our advertising campaigns and with identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the site from which you came before arriving at a web page. These cookies can be effective whether you are on Dell.com or another website.
 
-[Learn more](https://www.dell.com/spredir.ashx/solutions/ads-and-emails) about targeted advertising and how to opt out.
+[Learn more](https://www.dell.com/learn/us/en/uscorp1/policies-ads-and-emails) about targeted advertising and how to opt out.
 
 #### “Do Not Track” Signals
 
