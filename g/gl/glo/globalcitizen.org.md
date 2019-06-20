@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcitizen.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626115933id_/https%3A//www.globalcitizen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcitizen.org privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620054041id_/https%3A//www.globalcitizen.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,9 +65,11 @@ In line with the European Union’s General Data Protection Regulation ("GDPR"),
 
 You are able to exercise your rights through your [account settings](https://web.archive.org/account/settings/) page when logged in to the site which gives you options to update your personal information, contact preferences, data processing preferences and to suspend your account. You can request a copy of your data by emailing us at [data@globalcitizen.org](mailto:data@globalcitizen.org).
 
+ **FOR ARGENTINE RESIDENTS ONLY:** THE AGENCY FOR ACCESS TO PUBLIC INFORMATION, in its capacity as Control Authority of Law No. 25,326, has the power to deal with complaints and claims filed by those affected in their rights for breach of the regulations in force regarding the protection of personal data.
+
  **Storage and processing of your personal data**
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (”EEA”).  We take reasonable steps to ensure that cross-border data transfers comply with existing data protection laws, such as working with third party processors certified in the EU-US Privacy Shield framework or with those that use standard contractual clauses that bind parties to protect the privacy and security of data.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (”EEA”), the country in which you reside, or the country from which you are accessing the Platform. We take reasonable steps to ensure that cross-border data transfers comply with existing data protection laws, such as working with third party processors certified in the EU-US Privacy Shield framework or with those that use standard contractual clauses that bind parties to protect the privacy and security of data.
 
  **Use and Disclosure of Personal Information**
 
@@ -85,6 +87,8 @@ In addition, with your explicit permission, we pass along certain of your inform
 Under circumstances where we determine that members may be misusing our systems for malicious purposes (for example, using the numbers we provide to make harassing phone calls), such activities may be reported to law enforcement agencies. In such cases, we may release personally identifiable information, including name and address, to those agencies.
 
 We may transfer your personal information to a third party if we or any of our company affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+
+For India Residents Only: We may share your personal information with our partners operating in India for purposes aligned with the purposes for which the information was originally collected by us and such partners may contact you from time to time in connection with said purposes.
 
  **Disclosure When Required by Law**
 
