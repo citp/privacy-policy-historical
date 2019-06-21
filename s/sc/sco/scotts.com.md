@@ -1,117 +1,207 @@
-> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108213555id_/https%3A//www.scotts.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621192545id_/https%3A//www.scotts.com/en-us/privacy) for the most accurate reproduction.*
 
 # Privacy - Help Center - Scotts
 
-## Need Help?
+This policy explains the types of personal information we collect from you through certain interactions with our Online Services, how that personal information is used and shared, and how you can manage certain preferences regarding the personal information we collect from you through our Online Services. Please read this policy carefully and contact us if you have any questions.
 
-### Contact us via chat, tweet or email.
+We offer certain Online Services, including:
 
-## Privacy Policy
-
-ScottsMiracle-Gro and its affiliated companies and subsidiaries gather certain types of information from visitors. We are providing this privacy policy to help you understand the types of information we gather, how it is used and shared, and how you can update or modify user profile or registration information you have provided to us online. This policy applies only to information collected online at scotts.com and other Scotts sites and mobile applications where this policy has been linked (collectively, the "Scotts Websites").
-
-### Information Collected
-
-  * _General Browsing Information:_  Any time you visit the Scotts Websites or use our downloadable apps, we may gather certain information by automated means, such as cookies and web beacons. This information includes browser characteristics, your service provider IP address, the search engine you may have used to locate the Scotts Websites, a unique device identifier, device characteristics, operating system, language preferences, referring URLs, information on actions taken on a Scotts Website, and dates and times of visits.
-  * _Personal Information Voluntarily Provided:_  We gather personal information you provide to us (such as your name, address, e-mail address, telephone number, demographic information, payment information) when you request information about a product or service, register on the Scotts Websites, request email reminders or email newsletters, sign up for a service, enter one of our sweepstakes or contests, take a survey or use any of the other interactive portions or features of the Scotts Websites. When personally identifiable information is requested on the Scotts Websites, some requests are marked as "Required"; this personally identifiable information is necessary to allow you to participate in the feature or service you've requested
-  * _Information Provided by You Relating to a Job Opportunity:_  If you elect to voluntarily create a job interest profile through the Scotts Websites to show interest in a job opportunity with Scotts Miracle-Gro, you will be providing your name, mailing address, telephone number, e-mail address and information with respect to work experience, educational background, position sought and at your option, the information contained in your resume.
+  * Certain products, including software embedded in such products, that are designed to connect to the Internet
+  * Websites
+  * Applications accessible through our websites, including certain applications accessible through a user account 
+  * Mobile application software that may be downloaded to your mobile phone, tablet, or other supported device 
+  * Cloud services accessible through all of the above
 
 
 
-### How Your Information Is Used
+By using, accessing, or interacting with our Online Services you consent to the collection, use, and sharing of personal information that we receive from you through such use, access, and interactions with us as described in this policy. We may change or add to this privacy policy, so we encourage you to review it periodically. 
 
-We use the information collected at the Scotts Websites for the following purposes:
+**Information Covered by this Policy**
 
-  * To understand your needs and preferences, to develop, market, sell or provide products and services, and possibly to conduct surveys, research and evaluations.
-  * To complete your request for services or respond to your use of features on the Scotts Websites.
-  * To tailor your experience on the Scotts Websites to your interests and geographic region.
-  * To respond to your inquires about our products and services.
-  * To inform you of special events and offers or programs offered with our selected companies.
-  * To operate, evaluate, manage, improve and develop ScottsMiracle-Gro's business and operations, administer accounts, collect and process payments.
-  * To perform data analytics.
-  * To detect and protect ScottsMiracle-Gro and other third parties against error, negligence, fraud, theft and other illegal activities and to audit compliance with policies.
-  * As permitted by, and to comply with, any legal or regulatory requirements.
-  * Any information you provide to us about your interest in a job opportunity at ScottsMiracle-Gro will be accessed by ScottsMiracle-Gro's personnel for the purpose of considering, and possibly responding to, your interest in ScottsMiracle-Gro and for planning and monitoring our recruitment campaigns.
+This policy applies only to personal information we collect from you through our Online Services that refer to or display a link to this policy. Our Online Services are defined above.
 
+**Information We Collect  **
 
+We collect information about you from a variety of sources, including personal information provided directly by you and information we collect by automated methods when you interact with our Online Services.
 
-In addition, we use information collected through cookies, web beacons and other automated means for purposes such as (i) customizing our users' visits to Scotts Websites and apps, (ii) delivering content (including advertising) tailored to our users’ interests and the manner in which our users browse the Scotts Websites, and (iii) managing our business. We may supplement data we collect on the Scotts Websites through automated means with information about your location (such as your zip code) to provide you with content that may be of interest to you. We also use this information to help diagnose technical and service problems, and administer the Scotts Websites, identify users of the Scotts Websites, and gather demographic information about our users. We use clickstream data to determine how much time users spend on the Scotts Websites, how users navigate through the Scotts Websites, and how we may tailor the Scotts Websites to better meet the needs of our visitors.
+_Information Provided Directly By You_
 
-We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
+We collect personal information that you provide to us through our Online Services; for example, when you request information about or purchase a product or service through one of our websites or mobile applications; create accounts on our websites or mobile applications; subscribe for email reminders and content; request text alerts and mobile phone notifications; activate or use an internet enabled product or service; submit an online entry in one of our sweepstakes or contests; submit rebates or coupons online; take an online survey; or submit information through any other interactive features of our websites, mobile applications, internet enabled products and services, or social media profiles. Such information can include, for example, your:
 
-### Disclosure of Personal Information
-
-We collect and maintain the personal information of our consumers for the use of ScottsMiracle-Gro and its affiliated companies, such as Scotts LawnService. We do not sell or rent your personally identifiable information to third parties, and do not share or trade your personally identifiable information with third parties other than as described below.
-
-  * _Selected Companies:_  ScottsMiracle-Gro may work with select retailers and other companies at various times to provide expanded services that relate to Scotts Websites or its visitors. As part of such a relationship, ScottsMiracle-Gro may share with these companies or these companies may interact with your browser, collect or have access to some or all of the information collected in connection with certain interactive functions offered on the Scotts Websites (such as, the E-Mail Reminder Service) or on other web sites where ScottsMiracle-Gro provides advertisements and interactive functions.
-  * _Service Providers:_  ScottsMiracle-Gro may use other companies and individuals to perform certain functions on our behalf. Examples include administering e-mail services, monitoring website activity and running special promotions, such as sweepstakes, contests or surveys. Such parties only have access to the personal information needed to perform these functions and may not use or store the information for any other purpose.
-  * _Business Transfers:_  In the event that ScottsMiracle-Gro sells or transfers a particular portion of its business assets, consumer information may be one of the business assets transferred as part of the transaction. If substantially all of the assets of ScottsMiracle-Gro or a ScottsMiracle-Gro affiliated company or brands are acquired, consumer information may be transferred as part of the acquisition.
-  * _Compliance with Law/Safety:_  ScottsMiracle-Gro may disclose specific personal information based on a good-faith belief that such disclosure is necessary to comply with or conform to the law or that such disclosure is necessary to protect the users of the Scotts Websites, the Website itself, or the public.
+  * Name
+  * E-mail address
+  * Postal address
+  * Telephone number
+  * Username and password
+  * Social media information (e.g., ID, profile picture, gender, age range, friends’ IDs)
+  * Payment account or card number
+  * Purchase, return, and exchange information
+  * Demographic information about you and your household, such as gender or product use preferences, and behaviors
+  * Future communication preferences
+  * Contact information for others that you may wish for us to share content and other information with (e.g., links to articles, videos, and other content)
+  * Job applicant information when applying for a job through one of our websites, including, but not limited to, work experience, educational background, position sought and the information contained in your resume 
 
 
 
-### Retention of Personal Information
+If you choose not to provide certain personal information, we may not be able to provide you with the products, services, or information requested.
 
-ScottsMiracle-Gro may retain the information it collects on the Scotts Websites as long as necessary to accomplish the purpose for which the information was collected. In some cases, Scotts is required by law to retain the information it collects for a specified period of time.
+_Information Automatically Collected_
 
-### Policies on Children
+Each time you access or use our Online Services, we generate and collect certain information by automated methods and technologies, see the section below entitled “Technologies Used”. Such information can include, for example:
 
-To ensure compliance with federal law, ScottsMiracle-Gro does not knowingly collect or maintain information provided by children under the age of 13.
-
-### Use of Cookies
-
-ScottsMiracle-Gro may collect certain information by automated means, such as cookies and web beacons. Cookies are small text files that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. Both we and others (such as our service providers and advertising networks) may collect personal information about our visitors' online activities over time and across third-party websites. Scotts Websites are not designed to respond to "do not track" signals received from browsers. We use cookies to offer you the convenience of not having to reenter information, and provide you with information targeted to your interests. A web beacon, also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a webserver. Through these automated collection methods, we obtain "clickstream data," which is a log of content on which a visitor clicks while browsing a website or using an app. As the visitor clicks through the website or uses an app, a record of the action may be collected and stored. We may link certain data elements we have collected through automated means, such as your browser information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you. You may modify your browser settings through the "help" section of the toolbar to disable the use of cookies. Please note, by doing this certain features on our website may not function correctly and you may be required to reenter your information more frequently. We may use third-party web analytics services on the Scotts Websites, such as those of Google Analytics and Site Survey. These service providers help us analyze how users use the Scotts Websites. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. To learn about opting out of Google Analytics, please [click here](https://tools.google.com/dlpage/gaoptout). The providers of third-party apps, tools, plug-ins and widgets on the Scotts Websites, such as Facebook "Like" buttons, also may use automated means to collect information regarding your use of the websites and apps and your interactions with these features. This information is subject to the privacy policies or notices of these providers.
-
-### Interest-Based Advertising
-
-On Scotts Websites, we may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests. This section of our Privacy Policy provides details and explains how to exercise your choices. You may see certain ads on other websites because we participate in advertising networks. Advertising networks allow us to target our messaging to users through demographic, interest-based and contextual means. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons. The networks use this information to show you advertisements that may be tailored to your individual interests. The information our ad networks may collect includes information about your visits to websites that participate in the relevant advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our websites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of this advertising networks interest-based advertising, please visit the consumer opt-out page at Digital Advertising Alliance [click here](http://www.aboutads.info/choices/) or NAI [click here](http://www.networkadvertising.org/).
-
-### Accessing Scotts Websites from Outside of the United States
-
-If you are visiting the Scotts Websites from a location outside of the United States, your connection will be through and to servers located in the United States. Any information you provide during your visit will be processed and maintained on our Web server and/or other internal systems located within the United States.
-
-### External Links
-
-The Scotts Websites contains links to other sites that are not a part of the ScottsMiracle-Gro family; ScottsMiracle-Gro is not responsible for the privacy practices or the content of such sites. To help ensure the protection of your privacy, ScottsMiracle-Gro recommends that you review the privacy policy of any site you visit via a link from the Scotts Websites.
-
-### Passwords
-
-To access registration information that you create on the Scotts Websites, you will need to use a password that you create. To protect the integrity of the information contained in this record, you should not disclose or otherwise reveal your password to third parties. If you forget your password, click on "forgot password" in the login screen and we'll send you an e-mail with a link to a unique URL, where you may change your password.
-
-### Public Forums
-
-ScottsMiracle-Gro may make blogs, chat rooms, forums, message boards, and/or news groups available to its users at various times on the Scotts Websites. Please remember that, unless otherwise stated, any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in these areas (including uploading photos into these areas). ScottsMiracle-Gro has specific terms of use for these features and you must agree to comply with these terms of use prior to your initial use of these public forums.
-
-### Correcting and Updating Information
-
-You can update or modify your registration information if you elect to register with a Scotts Websites by logging into your registration information and following the instructions provided to update or modify such information.
-
-### Updates to Privacy Policy
-
-This privacy policy may be revised over time as new features are added to the Scotts Websites. Should there be a material change to our information collection or use practices, the change will be applied only to information collected on a going forward basis and the "Effective Date" of the policy will be updated.
-
-### Security Statement
-
-Scotts takes your privacy seriously and values its relationship with you. Scotts will take reasonable physical, technical and organizational measures to safeguard and secure any personal data you provide to us.
-
-### Your Options
-
-You may always discontinue your receipt of future email newsletters and/or other email communications you previously requested from ScottsMiracle-Gro by logging on to your registered account and changing the preferences for the applicable newsletter and/or email communication.
-
-To change what email communications you receive from Scotts Miracle-Gro:
-
-  * Email a request to unsubscribe from all Scotts publications to [consumer.services@scotts.com](mailto:consumer.services@scotts.com)
+  * Browser characteristics
+  * Service provider IP address
+  * Search engine used to locate our website
+  * Search terms
+  * Unique device identifiers
+  * Device characteristics
+  * Location information based on GPS, Wi-Fi, or other means
+  * Operating system
+  * Language preferences
+  * Referring URLs
+  * Actions executed and visited content
+  * Error codes and product system logs
+  * Dates and times of use and access
+  * Application performance
 
 
 
-To learn more about how to opt out of advertising network interest-based advertising, please visit the consumer opt-out page at Digital Advertising Alliance [click here](http://www.aboutads.info/choices/) or NAI [click here](http://www.networkadvertising.org/)
+**Technologies Used**
 
-### Contacting Scotts
+We use certain methods and technologies to automatically collect and store certain types of information each time you interact with our Online Services, through your computer, mobile device, or other devices. Such automated methods and technologies can include, for example:
 
-If you have questions concerning this privacy policy, you may contact us at:
+_Cookies_
 
-The Scotts Miracle-Gro Company  
-14111 Scottslawn Road  
-Marysville, Ohio 43041
+Cookies are small text files that websites send to a visitor's computer or other internet connected device to uniquely identify the visitor's browser and store information or settings in the browser. Cookies can be used, for example, to provide you the convenience of not having to reenter information.
 
-Effective Date: 15 November 2013
+_Beacons_
+
+A web beacon, also known as an internet tag, pixel tag, or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a webserver. Web beacons can be used, for example, to provide you with content targeted to your interests.
+
+_Clickstream_
+
+Clickstream data is a log generated from content that you click while browsing our websites or using our mobile applications. As your click through our websites or use our mobile applications, a record of the action may be collected and stored.
+
+**How We Use Your Personal Information**
+
+We may use the personal information we collect from you as described in this policy for our business purposes, to manage our business and conduct operations, and take actions as permitted by, and to comply with, any legal or regulatory requirements. Such uses can include, for example:
+
+  * Understanding your preferences and enhancing your experience with our Online Services
+  * Developing, marketing, selling, and providing products and services including through electronic and direct mail
+  * Conducting surveys, research, and evaluations
+  * Providing features tailored to your interests, geographic region, and other customizations
+  * Completing your request for services, information and content, or support
+  * Responding to your use of features on our websites, mobile applications, and internet enabled products and services
+  * Responding to your inquiries about our products and services, or employment with us
+  * Informing you of special events, offers, or programs offered by us or with other selected companies
+  * Improving our communications to you 
+  * Performing data analytics and obtaining other demographic information
+  * Combining information collected from you with other information obtaineding or collected by us or a third party, including other personal and demographic information about you.
+  * Operating, evaluating, managing, improving, and developing our website, mobile applications, internet enabled products and services, business and operations, administer accounts
+  * Detecting and protecting us and other third parties against error, negligence, fraud, theft and other illegal activities and to audit compliance with policies
+
+
+
+We also may use the personal information we collect from you as described in this policy in other ways for which we provide specific notice at the time of collection.
+
+**How We Share Your Personal Information**
+
+We may share the personal information we collect from you as described in this policy for our business purposes, to manage our business and conduct operations, and take actions as permitted by, and to comply with, any legal or regulatory requirements. Such instances can include, for example:
+
+_Affiliates and Related Parties_
+
+We may share personal information collected from you through our Online Services with any member company in the Scotts Miracle-Gro family of companies and other parties for which we act as an agent or service provider for pursuant to a legal agreement.
+
+_Select Companies_
+
+We may work with select retailers, business partners, and other companies at various times to provide expanded content, offers, or customizations. As part of such a relationship, we may share your personal information we collect from you through our Online Services with these companies or these companies may interact with your browser, collect, or have access to some or all of the personal information collected in connection with certain interactive functions offered through our Online Services.
+
+_Service Providers_
+
+We may use third-party service providers to perform certain functions or operations on our behalf and may share the personal information collected from you through our Online Services to allow such parties to perform these functions or operations. These third-party service providers may interact with your browser, collect, or have access to some or all of the personal information collected in connection with certain interactive functions offered through our Online Services. Examples include administering e-mail services, monitoring website activity, and running special promotions, such as online sweepstakes, contests or surveys. 
+
+_Business Transfers_
+
+Personal information may be a business asset transferred as part of a business transaction. We may share or transfer personal information collected from you through our Online Services in connection with the sale or transfer of a particular portion of our business or the sale or transfer of substantially all of our assets. 
+
+_Compliance with Law or Protection_
+
+We may share personal information collected from you through our Online Services based on a good-faith belief that such disclosure is necessary to comply with the law or protect us or others from harm, including integrity of our Online Services, the users of our Online Services themselves, or the public.
+
+_Per Your Consent_
+
+We may share personal information collected from you through our Online Services in cases where you request us to do so. For example, if you ask us to provide your information to a third-party to facilitate the resolution of a dispute.
+
+**Third-Party Solutions**
+
+We may use third-party services and products in connection with the operation and management of our Online Services and content. These third-party providers help us with particular features, content, and analysis about how users access and use our Online Services. When you access or use our Online Services, certain information, such as your IP address, may be collected directly by these third-party providers. We or our third-party providers may also link your various devices so that content you see on one device may result in relevant advertising or content on another device, or the same device while visiting a third-party website. 
+
+For example, some of our Online Services participate in the Adobe Marketing Cloud Device Co-op to better understand how you use our websites across the various devices you use, and to deliver tailored promotions. We may also use other third-party web analytics services such as Google Analytics. To learn more about the privacy practices of Adobe, you may visit the [Adobe Privacy Policy website](https://www.adobe.com/privacy.html). To learn more about the privacy practices of Google, you may visit the [Google Privacy Policy website](https://www.google.com/policies/privacy/). To learn more about managing your preferences with respect to the Adobe Marketing Cloud Device Co-op or Google Analytics, see the section below entitled “Your Preferences and Access to Your Personal Information”.
+
+We may also from time to time contract with third party providers to send direct mail to customers whom we think may be interested in our products or services. Third-party providers may pool the information that they collect from our Online Services with other sources of information, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail.
+
+**Interest Based Advertising**
+
+We may participate in interest based and behavioral advertising. We allow third-party companies, such as ad networks, to collect certain information when you visit our Online Services. This information is used to serve ads for our products or services or for the products or services of other companies when you visit our websites or other third-party websites. These third-party companies use non-personally-identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID) and personally identifiable information (e.g., static IP address) when you access websites in order to provide advertisements about goods and services likely to be of greater interest to you or advertising-related services, such as ad delivery, reporting, attribution, analytics, and market research. These third-party companies typically use a cookie, web beacon, or other similar tracking technologies to collect this information. To learn more about managing your preferences, if available, with respect to interest based and behavioral advertising, see the section below entitled “Your Preferences and Access to Your Personal Information”.
+
+**External Links**
+
+Our Online Services contain links to other websites that are not affiliated with us. We are not responsible for the privacy practices or the content of such websites. To help ensure the protection of your privacy, we recommend that you review the privacy policy of any site you visit via a link from our websites and mobile applications.
+
+**Social Media**
+
+Our Online Services may include social media features. Social media features may be hosted by a third party. Your interactions with those features are governed by the privacy policies of the companies that provide them. We may display targeted ads to you through social media platforms. These ads are sent to groups of people who share traits such as likely commercial interests and demographics. See the policies of each social media platform for additional information about these types of ads.
+
+If you contact us on one of our social media platforms or otherwise direct us to communicate with you via social media, we may contact you via direct message or use other social media tools to interact with you. In these instances, your interactions with us are governed by this policy as well as the privacy policy of the social media platform you use.
+
+**User Generated Content**  
+
+We may make blogs, chat rooms, forums, message boards, and/or news groups available at various times on our Online Services. Any personal information that is disclosed in these features become publicly available and you should exercise caution when deciding to disclose your personal information in these features, including uploading photos.
+
+**Information Security and Transfer**
+
+We use reasonable security measures that are designed to help protect personal information that we collect from you through our Online Services from reasonably anticipated threats of unauthorized disclosure. While we use reasonable security measures that are designed to help protect your personal information from reasonably anticipated threats of unauthorized disclosure, the Internet is not 100% secure and we cannot and do not promise that your use of our Online Services or the personal information that we collect from you through our Online Services will be safe or secure. We encourage you to use caution when using the Internet.
+
+Your personal information may be transferred to, stored, and processed in the United States or a country other than the one in which it was collected. When we do so, we will transfer the information in compliance with applicable data protection laws. Such personal information may be subject to disclosure under the laws of the United States. If you have questions about this processing or storage please contact us.
+
+**Your Preferences and Access to Your Personal Information**
+
+_Advertising_
+
+Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. At this time, we do not respond to browser “do not track” signals. You do have the option, if available, to opt out of interest-based advertising. Not all ad networks or other third parties offer an opt out option for interest-based advertising.
+
+To learn more about interest based advertising or the available opt-out for this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices) and the [Digital Advertising Alliance website](http://www.aboutads.info/choices). Options you select are browser and device specific. To learn more about the Adobe Marketing Cloud Device Co-op, and to manage your choices relating to the linking of your devices, visit the [Adobe Marketing Cloud Co-op website](https://cross-device-privacy.adobe.com/). To learn about opting out of Google Analytics, visit the [Google Analytics website](https://tools.google.com/dlpage/gaoptout).
+
+_Cookies_
+
+You may modify your browser settings to disable the use of cookies. Please note, by doing this certain features on our website may not function correctly and you may be required to reenter your information more frequently.
+
+_Mobile_
+
+You can stop further collection of information by our mobile application by uninstalling the mobile application using the standard uninstall process available as part of your mobile device.
+
+_E-Mail_
+
+You may discontinue your receipt of future email communications by accessing the “manage your preferences or unsubscribe” link at the end of the email communication received and changing the preferences for the applicable content and/or email communication.
+
+_Account Information_
+
+You can update or modify the personal information you provided when registering your account on our website or mobile application by logging into your account and following the instructions provided to update or modify such information.
+
+_Direct Mail_
+
+To opt-out of receiving direct mail from us, you may send us an email at privacy@scotts.com indicating your desire to not receive direct mail from us.
+
+**Children’s Online Privacy**
+
+We do not knowingly collect or maintain information provided by children under the age of 13. 
+
+**Changes to This Policy and Notice**
+
+This policy may be revised by us from time to time, including when new features are added to our Online Services. We will notify you of changes to this policy by posting the new policy to our website. If we are required by law to provide you a notice, we may do so by email, telephone, mail, or any other means permitted by such law, at our option. If there is a material change to the personal information collected from you through our Online Services or our use of such information, the change will be applied only to information collected after the effective date of the change.
+
+**How to Contact Us**
+
+If you have questions concerning this policy, you may contact us by email at privacy@scotts.com, by phone at 888-270-3714, or mail in care of Scotts Miracle-Gro, Attn: Consumer Services, 14111 Scottslawn Road, Marysville, Ohio 43041.
+
+**Effective Date: 28 February 2019**
