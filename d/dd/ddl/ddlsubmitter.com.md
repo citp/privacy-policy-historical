@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddlsubmitter.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220205913id_/http%3A//www.ddlsubmitter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddlsubmitter.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621095759id_/http%3A//www.ddlsubmitter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « DDL Auto Submitter – Warez Auto Submitter – RSS Auto Submitter
 
