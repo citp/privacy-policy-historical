@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004115630id_/https%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621084704id_/https%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Gardening Know HowGardening Know How
 
