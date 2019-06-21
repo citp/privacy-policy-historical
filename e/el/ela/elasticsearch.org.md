@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elasticsearch.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230064707id_/https%3A//www.elastic.co/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elasticsearch.org privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621103317id_/https%3A//www.elastic.co/legal/privacy-statement) for the most accurate reproduction.*
 
 # Elastic Privacy Statement | Elastic
 
-Effective Date: May 18, 2018 
+Effective Date: March 31, 2019 
 
 Elastic welcomes your interest in our company, products, and services. This document is our "Privacy Statement." It applies to Elasticsearch, Inc., our subsidiaries and affiliated companies, as well as all Elastic-owned and operated websites, domains, services, applications, and products (collectively, "Site", "Elastic", "We", "Our", or "Us"). 
 
@@ -45,10 +45,10 @@ We collect information that is directly provided by you, collected automatically
 
 We use technology integrated into our websites, products, and services that you can choose to enable to provide us with automated data collection. Such information may include: 
 
-  * Product Usage Data - If you elect to send product usage information, also known as telemetry information, we collect details as described in our [Telemetry Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
-  * Elastic Cloud Usage Data - When you use an Elastic Cloud trial or subscription account, we collect information about your use of the Elastic Cloud service, as described in our [Telemetry Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
+  * Product Usage Data - We collect product usage information as described in our [Telemetry Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
+  * Elastic Cloud Elasticsearch Service Usage Data - When you use an Elasticsearch Service trial or subscription account, we collect information about your use of the Elasticsearch Service, as described in our [Telemetry Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
   * Demonstration Usage Data - If you interact with our demonstration systems at https://demo.elastic.co, we collect detailed information about your interaction with the demo system as described in our [Telemetry Privacy Statement Supplement](https://web.archive.org/legal/telemetry-privacy-statement)
-  * Device Data - Data collected from Google Analytics may provide us with information regarding your device type (mobile, tablet, desktop/laptop, etc.), operating system, and type of browser. This helps us prioritize support for popular configurations.
+  * Device Data - Data collected from Google Analytics and/or FullStory may provide us with information regarding your device type (mobile, tablet, desktop/laptop, etc.), operating system, and type of browser. This helps us prioritize support for popular configurations.
   * Application Data - We may collect data regarding key performance metrics of Elastic applications in order to understand if there are issues.
   * Website Browsing Data – We collect information about your visits and activity on our Elastic websites, including the content (and any ads) that you view and interact with, the address of the website from which you were referred and other clickstream behavior (such as the pages you view, the links you click or which items you've added to your shopping cart). Some of this information is collected using our Automatic Data Collection Tools which include cookies, web beacons and embedded web links. To learn more, please read the Cookies and Website Automatic Data Collection section in this Privacy Statement.
 
@@ -121,6 +121,7 @@ These service providers may be located in the US or in other global locations an
 Examples of our third party service providers and the use of your data: 
 
   * Google Analytics - We use Google Analytics to understand visitor trends, page popularity, geographic distribution of interest, time on pages, or issues with our site. We use this data to understand how to invest in regions based on demand. For more information about Google Analytics, see <https://policies.google.com/privacy?hl=en> and for more information about how Google uses data when you use a Google partner's sites or apps, see [www.google.com/policies/privacy/partners/](https://policies.google.com/technologies/partner-sites)
+  * FullStory - We use FullStory to help us understand how you use our Elastic Cloud Services and your interaction with demo.elastic.co. FullStory provides information and analytics related to page views and element clicks that we use to determine how users navigate and interact with our Elastic Cloud Services.
   * Clearbit - In an effort to reduce the amount of information we require users to enter when registering for content or trials on our Site, we use Clearbit to enrich information. For example, many forms only ask for an email address. We securely pass the email address to Clearbit to provide us additional information that may include social identification (like Twitter handle), first and last name as well as organizational affiliation.
   * Kickfire - Used to identify organizations (not individuals) visiting our site. We leverage this information to determine regional investments in our support, website, sales, and marketing investments.
   * Facebook - We service a growing community of over 75,000 global followers on Facebook and use the platform to inform this community of new content available. We use a Facebook cookie to match audiences and enable us to ensure we can deliver paid (and unpaid) advertising to our Facebook Elastic followers and additional audiences that we think would be interested in the content.
@@ -183,9 +184,9 @@ For information regarding advertising opt-out and cookie choices, please see Thi
 Cookies are text files containing small amounts of information which are stored on your device when you visit a site. The entity that places cookies on your browser can then read the information on that cookie that it set. We categorize cookies as follows: 
 
   * **Necessary cookies** \- These cookies are essential for our websites and their features to work properly, and for us to properly provide services that depend on our websites and these features. (e.g., to remember cookie permission settings, session logins, etc.)
-  * **Convenience cookies** \- These enable us to improve the usability and performance of our websites and services that depend on our websites. (e.g., to remember selection of region and country to redirect visitors to localized websites, or for altering or suggesting content that matches navigation patterns.)
-  * **Statistics cookies** \- Used to collect information about how you navigate to and from our websites and how you use our website. The collection of this information is carried out as anonymous access measurements. Statistics cookies may be classified as either session cookies or persistent cookies. Session cookies expire when you close your browser session. Persistent cookies may remain on your system for an extended period of time.
-  * **Targeting/Retargeting cookies** \- Used by our advertising services to provide you with Elastic-relevant advertising content.
+  *  **Convenience cookies** \- These enable us to improve the usability and performance of our websites and services that depend on our websites. (e.g., to remember selection of region and country to redirect visitors to localized websites, or for altering or suggesting content that matches navigation patterns.)
+  *  **Statistics cookies** \- Used to collect information about how you navigate to and from our websites and how you use our website. The collection of this information is carried out as anonymous access measurements. Statistics cookies may be classified as either session cookies or persistent cookies. Session cookies expire when you close your browser session. Persistent cookies may remain on your system for an extended period of time.
+  *  **Targeting/Retargeting cookies** \- Used by our advertising services to provide you with Elastic-relevant advertising content.
  
 
 ### Third Party Advertising Cookies and Social Media Cookies
@@ -212,30 +213,30 @@ In the US, the Network Advertising Initiative also offers a means to opt out of 
 
 ### Examples of Cookies in Use on Elastic Websites
 
-**Name:** Cookie Acceptance cookie-accepted  
-**Category:** Necessary  
-**Type:** Permanent. This cookie will be stored until you change your cookie settings.  
-**Purpose:** Allows you to continue using/navigating the website(s) by accepting our cookie policy. 
+ **Name:** Cookie Acceptance cookie-accepted  
+ **Category:** Necessary  
+ **Type:** Permanent. This cookie will be stored until you change your cookie settings.  
+ **Purpose:** Allows you to continue using/navigating the website(s) by accepting our cookie policy. 
 
 **Names:** Marketo (Form Consent and site activity tracking), Google Optimize (content testing and optimization)  
-**Category:** convenience  
-**Type:** Permanent. These cookies will be stored until you change your cookie settings.  
-**Purpose:** Remembers your consent to opt-in and/or the use of cookies for this website for features that do not require re-authentication or more additional information to view additional content. Provides site activity tracking used to infer interest and relevant content to share through our site and additional channels such as email and advertising. Enables us to test and optimize content that users will find more valuable and engage with. For more information about Marketo, see <https://www.marketo.com/company/trust/>. For more information about Google Optimize, see <https://policies.google.com/privacy?hl=en>. 
+ **Category:** convenience  
+ **Type:** Permanent. These cookies will be stored until you change your cookie settings.  
+ **Purpose:** Remembers your consent to opt-in and/or the use of cookies for this website for features that do not require re-authentication or more additional information to view additional content. Provides site activity tracking used to infer interest and relevant content to share through our site and additional channels such as email and advertising. Enables us to test and optimize content that users will find more valuable and engage with. For more information about Marketo, see <https://www.marketo.com/company/trust/>. For more information about Google Optimize, see <https://policies.google.com/privacy?hl=en>. 
 
 **Name:** AirPR  
-**Category:** Convenience  
-**Type:** Statistics (Social Media and News Activity Tracking)  
-**Purpose:** This enables Elastic to understand the origins of traffic that comes to our website. For example, if users follow a link from a Tweet or a news article about our company or products. 
+ **Category:** Convenience  
+ **Type:** Statistics (Social Media and News Activity Tracking)  
+ **Purpose:** This enables Elastic to understand the origins of traffic that comes to our website. For example, if users follow a link from a Tweet or a news article about our company or products. 
 
 **Names:** Google Analytics, Kickfire  
-**Category:** Statistics  
-**Type:** Permanent. These cookies will be stored for 3 years max. or until you change your cookie settings.  
-**Purpose:** Enables us to understand geographic demand, determine site effectiveness, and identify issues on our site. Helps us identify organizations engaging with our website(s) so that we can determine how and where we invest to support growing demand for our products and services. 
+ **Category:** Statistics  
+ **Type:** Permanent. These cookies will be stored for 3 years max. or until you change your cookie settings.  
+ **Purpose:** Enables us to understand geographic demand, determine site effectiveness, and identify issues on our site. Helps us identify organizations engaging with our website(s) so that we can determine how and where we invest to support growing demand for our products and services. 
 
 **Names:** Facebook, Google AdWords, LinkedIn, Stack Overflow, Outbrain  
-**Category:** Advertising retargeting  
-**Type:** Permanent. These cookies will be stored for 3 years max. or until you change your cookie settings.  
-**Purpose:** Enables us to provide Elastic-relevant content in advertising to you from third party sites and provides us with analytics on site visitors' organizations and trends. 
+ **Category:** Advertising retargeting  
+ **Type:** Permanent. These cookies will be stored for 3 years max. or until you change your cookie settings.  
+ **Purpose:** Enables us to provide Elastic-relevant content in advertising to you from third party sites and provides us with analytics on site visitors' organizations and trends. 
 
 ## Other Automatic Data Collection Tools
 
@@ -326,10 +327,7 @@ The Netherlands
 
 All communications will be treated confidentially and we will also take reasonable steps to verify your identity, such as requiring a password and user ID or confirming personal information, in order to validate any requests, questions or concerns. Upon receipt of your communication, our representative will respond to you within a reasonable time to address your requests, questions or concerns and ensure that they are resolved in a timely and appropriate manner. 
 
-You can also contact our Data Protection Officer (DPO): 
-
-Daniela Duda, DPO  
-[daniela.duda@elastic.co](mailto:daniela.duda@elastic.co)
+For German data subjects,you can also contact our Data Protection Officer (DPO) for Germany: [elastic@rehm-datenschutz.de](mailto:elastic@rehm-datenschutz.de). 
 
 If we are unable to resolve your concerns, you have the right to contact your local data privacy supervisory authority or seek a remedy through the courts if you believe your requests to exercise your rights have not been honored. 
 
