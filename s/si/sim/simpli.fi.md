@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpli.fi privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224144624id_/https%3A//www.simpli.fi/site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpli.fi privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621090348id_/https%3A//simpli.fi/site-privacy-policy) for the most accurate reproduction.*
 
 # Simpli.fi | Site Privacy Policy
 
