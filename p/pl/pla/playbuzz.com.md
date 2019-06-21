@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playbuzz.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231225045id_/https%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playbuzz.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621093623id_/https%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Playbuzz
 
