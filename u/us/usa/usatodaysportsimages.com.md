@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the usatodaysportsimages.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219081803id_/https%3A//www.usatsimg.com/pages/open/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatodaysportsimages.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621041453id_/https%3A//www.usatsimg.com/pages/open/Privacy%2520Policy) for the most accurate reproduction.*
 
-# USA TODAY Sports Images
+# Imagn
 
-The following Website Privacy Policy (the "Privacy Policy") governs your use of the website located at www.usatodaysportsimages.com (the "Website"), which is owned and operated by USA TODAY Sports Images ("USA TODAY Sports Images," "we," "our" or "us").
+The following Website Privacy Policy (the "Privacy Policy") governs your use of the website located at www.imagn.com (the "Website"), which is owned and operated by Imagn Content Services ("Imagn," "we," "our" or "us").
 
 The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. Please read the information below to learn more about our collection policies and practices.
 
 When this Privacy Policy uses the term "personally identifiable information" we mean information that identifies a particular individual, such as your name, street address or email address. When other information is associated with personally identifiable information, it also becomes personally identifiable information for the purposes of this Privacy Policy.
 
-####  1\. TYPES OF INFORMATION THAT MAY BE COLLECTED
+#### 1\. TYPES OF INFORMATION THAT MAY BE COLLECTED
 
 We may collect the following types of information:
 
@@ -18,7 +18,7 @@ Site Usage Information: We may receive and store certain types of internet usage
 
 Email Communications: When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you. Additionally, we keep a record of what communications you have opted to receive or not to receive.
 
-####  2\. HOW INFORMATION MAY BE COLLECTED
+#### 2\. HOW INFORMATION MAY BE COLLECTED
 
 We may collect information from you in several different areas on the Website, including but not limited to those described below:
 
@@ -34,7 +34,7 @@ Cookies: As with many Websites, the Website uses a technology called "cookies." 
 
 IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to collect aggregate information. We may combine this information with personally identifiable information. Click-stream data is information collected by our computers when you request Web pages from the Website. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personally identifiable information. When analyzed, this data helps us analyze how visitors arrive at the Website, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
 
-####  3\. HOW WE USE THE INFORMATION COLLECTED
+#### 3\. HOW WE USE THE INFORMATION COLLECTED
 
 As applicable, the information you provide to us may be used to:
 
@@ -46,7 +46,7 @@ As applicable, the information you provide to us may be used to:
 
 
 
-####  4\. WITH WHOM THE INFORMATION MAY BE SHARED
+#### 4\. WITH WHOM THE INFORMATION MAY BE SHARED
 
 At times, we may share your personally identifiable information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
 
@@ -60,27 +60,27 @@ Business Transfers: In the event that all or substantially all of our assets are
 
 Administrative or Legal Process: Your personally identifiable information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights or protect the rights of other users of the Website.
 
-####  5\. SECURITY
+#### 5\. SECURITY
 
 The Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personally identifiable information that we may collect, and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
 
-####  6\. LINKS TO OTHER WEBSITES
+#### 6\. LINKS TO OTHER WEBSITES
 
 You should be aware that when you are on the Website you could be directed to other Websites beyond our control. For example, if you "click" on a link on the Website, the "click" may take you off the Website onto a different website. These other websites may send their own cookies to you, independently collect data or solicit personally identifiable information and may or may not have their own published privacy policies. If you visit a website that is linked to the Website, you should consult that website's privacy policy before providing any personally identifiable information.
 
-####  7\. A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY
+#### 7\. A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY
 
 The Website is a general audience Website. Currently, we do not intentionally collect any personally identifiable information from children under the age of thirteen on the Website. If in the future we intend to collect personally identifiable information from children, we will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.).
 
-####  8\. YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE PRIVACY POLICY
+#### 8\. YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE PRIVACY POLICY
 
 By using the Website, you signify your agreement to the terms of this Privacy Policy. We may amend this Privacy Policy at any time. If we make a material change to the way in which we collect, use and/or share your personally identifiable information, we will post a notice on the Website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personally identifiable information to provide us with a current email address.
 
-####  9\. CORRECTING / UPDATING PERSONALLY IDENTIFIABLE INFORMATION
+#### 9\. CORRECTING / UPDATING PERSONALLY IDENTIFIABLE INFORMATION
 
-If your personally identifiable information changes or if you no longer desire to access the Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by sending an email to picturedesk@usatodaysportsimages.com or you may write us at USA TODAY Sports Images, 535 Madison Avenue, 20th Floor, New York, NY 10022, Attn: Internet Dept.
+If your personally identifiable information changes or if you no longer desire to access the Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by sending an email to picturedesk@usatodaysportsimages.com or you may write us at Imagn, 1633 Broadway, 25th Floor,New York, NY 10022, Attn: Internet Dept.
 
-####  10\. YOUR CALIFORNIA PRIVACY RIGHTS
+#### 10\. YOUR CALIFORNIA PRIVACY RIGHTS
 
 A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes.
 
@@ -88,10 +88,10 @@ As explained in this Privacy Policy, whenever you agree to let us collect person
 
 Because the Website has a comprehensive Privacy Policy and provides you with details on how you may opt-out of the use of your personally identifiable information by third parties for direct marketing purposes, we are not required to provide you with this information.
 
-If you are a California resident and have questions about our compliance with this law, please send an email to picturedesk@usatodaysportsimages.com or you may write us at USA TODAY Sports Images, 535 Madison Avenue, 20th Floor, New York, NY 10022, Attn.: Internet Dept. - California Privacy Rights.
+If you are a California resident and have questions about our compliance with this law, please send an email to picturedesk@usatodaysportsimages.com or you may write us at Imagn, 1633 Broadway, 25th Floor, New York, NY 10022, Attn.: Internet Dept. - California Privacy Rights.
 
-####  11\. QUESTIONS ABOUT THIS PRIVACY POLICY
+#### 11\. QUESTIONS ABOUT THIS PRIVACY POLICY
 
-If you have any questions about this Privacy Policy or the privacy practices of the Website, please send an email to picturedesk@usatodaysportsimages.com or you may write us at USA TODAY Sports Images, 535 Madison Avenue, 20th Floor, New York, NY 10022,  Attn: Internet Dept. - Privacy Policy.
+If you have any questions about this Privacy Policy or the privacy practices of the Website, please send an email to picturedesk@usatodaysportsimages.com or you may write us at Imagn, 1633 Broadway, 25th Floor, New York, NY 10022,  Attn: Internet Dept. - Privacy Policy.
 
-Last Modified: December, 2012. Copyright 2012 USA TODAY Sports Images
+Last Modified: January, 2019. Copyright 2012 Imagn
