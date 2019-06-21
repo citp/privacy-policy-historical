@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unp.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191335id_/https%3A//www.unp.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unp.me privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621025105id_/https%3A//www.unp.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@
   * All other information provided by you goes into a "public profile" and is entirely optional, all information held in that profile is held there at your own risk. This info is edited via your Control Panel in the forums.
   * You have a legal right for the personal information held at UNP to be updated if it is incorrect or deleted if you choose. Most of this can be done through your Control Panel in the forums. If you are having issues with this, please contact us if you need help.
   * UNP will take all reasonable effort to ensure that all personal information about you submitted is maintained secure on our server. However, we make no warranty to this.
-  * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to [COPPA](http://www.ftc.gov/coppa/index.html), our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on UNP
+  * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to [COPPA](https://www.ftc.gov/coppa/index.html), our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on UNP
   * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](https://www.unp.me/sendmessage.php)
   * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, contact us.
 
