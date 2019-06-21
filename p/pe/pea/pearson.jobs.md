@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearson.jobs privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003162413id_/https%3A//www.pearson.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearson.jobs privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621133922id_/https%3A//www.pearson.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Pearson’s Privacy Notice
 
