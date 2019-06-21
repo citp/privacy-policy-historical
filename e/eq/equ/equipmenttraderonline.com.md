@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equipmenttraderonline.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204073248id_/http%3A//www.traderinteractive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equipmenttraderonline.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621084702id_/https%3A//www.traderinteractive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Trader Interactive
 
