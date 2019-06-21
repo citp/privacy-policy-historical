@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysparks.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228165103id_/https%3A//parks.ny.gov/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysparks.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621041905id_/https%3A//parks.ny.gov/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - NYS Parks, Recreation & Historic Preservation
 
@@ -69,3 +69,6 @@ In order to provide visitors with certain information, this website provides lin
 
 Information Disclaimer  
 Information provided on this website is intended to allow the public immediate access to public information. While all attempts are made to provide accurate, current, and reliable information, OPRHP recognizes the possibility of human and/or mechanical error. Therefore, OPRHP, its employees, officers and agents make no representations as to the accuracy, completeness, currency, or suitability of the information provided by this website, and deny any expressed or implied warranty as to the same.
+
+Google Translate Disclaimer:  
+The New York State Parks website is providing the "Google Translate" option to assist you in reading the New York State Parks website in languages other than English. Google Translate cannot translate all types of documents, and may not provide an exact translation. Anyone relying on information obtained from Google Translate does so at his or her own risk. The State of New York does not make any promises, assurances, or guarantees as to the accuracy of the translations provided. The State of New York, its officers, employees, and/or agents shall not be liable for damages or losses of any kind arising out of, or in connection with, the use or performance of such information, including but not limited to, damages or losses caused by reliance upon the accuracy of any such information, or damages incurred from the viewing, distributing, or copying of such materials.
