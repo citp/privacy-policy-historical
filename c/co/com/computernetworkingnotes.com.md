@@ -1,75 +1,178 @@
-> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118115516id_/http%3A//www.computernetworkingnotes.com/computer-networking-notes/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621093727id_/https%3A//www.computernetworkingnotes.com/site/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We are committed to fair information practices and we respect the privacy and security of our users. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from each of our millions of other users, and we may also ask you for personal information that enables us to give you access to some parts of our web site. We will not disclose your information to any person outside our organisation except as described in this Privacy Policy.
+ComputerNetworkingNotes recognizes that your privacy is very important and we take it seriously. This privacy policy describes what information we collect from you or what information you share with us when you visit our website.
 
-To demonstrate our commitment to your privacy, we have prepared this statement disclosing our privacy practices. This statement describes what personal identifying information is collected, how and when we might use your information, how we protect your information, who has access to your information, and how you can correct any inaccuracies in the information.
+### Personal Information
 
-### Information Collected By Us
+Personal Information means any information that may be used to identify an individual, including but not limited to a first and last name, company name, e-mail address, telephone number, physical address, billing information, etc.
 
-We collect following information
+We do not collect any personal information from our users. Users are free to navigate through our website without registration and providing any personally identifiable information.
 
- **Personal identification information**
+### Aggregate or Non-Personal Information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Aggregate or non-personal information is the information which does not include any personal identifiable information. As users navigate through our website certain aggregate or non-personal information are collected anonymously using various technologies such as web server logs, beacons and cookies as described below.
 
-**Non-personal identification information**
+### Web server logs
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+When you visit our website, we may track information related to website usage to administer the website. Examples of information we may collect includes your internet protocol address, what type of browser or computer you use, the number of links you click within the website, the state or country from which you accessed the website, the date and time of your visit, the name of your internet services provider, the last page you viewed before visiting our website, and the pages you viewed on the website.
 
-**Web server logs**. When you visit our Web sites, we may track information to administer the site and analyze its usage. Examples of information we may track include your internet protocol address, what kind of browser or computer you use, the number of links you click within the site, the state or country from which you accessed the site, the date and time of your visit, the name of your internet services provider, the last page you viewed before visiting our site, and the pages you viewed on the site.
+### Beacons
 
-### How we use collected information
+A web beacon is a small and unnoticeable image served by the third party advertiser in order to collect information from your browser to compile aggregated statistics regarding our website. We use Google AdSense and several other third party advertisers to serve ads in our website. They may include a web beacon to confirm that their ads are being served correctly.
 
-ComputerNetworkingNotes.com may collect and use Users personal information for the following purposes:  
+### Cookies
+
+A cookie is a small piece of text that allows a website to recognize your device and maintain a consistent, cohesive experience throughout multiple sessions. We use cookies to customize the content of our services to your preferences and optimize the services.
+
+In particular, cookies enable to identify your device and display the service in the correct manner, e.g. its website, customized to your individual needs; create statistics that help us understand how you use the website, so that we can improve its structure and content; and offer personalized marketing communications once you have provided us with the relevant legal basis. Storage of cookies does not change configuration of your device or software installed on it.
+
+#### THE TYPES OF COOKIES WE USE
+
+The following types of cookies may be used when you visit our site:
+
+##### Advertising Cookies
+
+Advertising cookies are placed on your computer by advertisers and ad servers in order to display advertisements that are most likely to be of interest to you. These cookies allow advertisers and ad servers to gather information about your visits to our website and other websites, alternate the ads sent to a specific computer, and track how often an ad has been viewed and by whom. These cookies are linked to a computer and do not gather any personal information about you.
+
+##### Analytics Cookies
+
+Analytics cookies monitor how users reached to our website, and how they interact with and move around once arrived on our website. These cookies let us know what features on website are working the best and what features should be improved.
+
+##### First-Party Cookies
+
+First-party cookies are used by a website for its internal purpose. Certain feature and function of a website depend on first party cookies. Although you can, still you should not disable or block first party cookies. These are necessary cookies. Our website will not work without these cookies.
+
+##### Personalization Cookies
+
+Personalization cookies are used to recognize the repeat visitors We use these cookies to record your browsing history, the pages you have visited, and your settings and preferences each time you visit our website.
+
+##### Security Cookies
+
+Security cookies help identify and prevent security risks. We use these cookies to authenticate users and protect user data from unauthorized parties.
+
+##### Third-Party Cookies
+
+Third-party cookies may be placed on your computer when you visit our website by companies that run certain services we offer. These cookies allow the third parties to gather and track certain anonymous information about our users.
+
+ **We use cookies to:**
+
+  * Improve the speed of the site
+  * Continuously improve our website for you
+  * Allow you to share pages with social networks like Facebook, Twitter, etc.
+  * Offer you free services/content (by advertising)
+  * Make our marketing more efficient (helping us keep the site free to use)
 
 
-  *  _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  *  _\- To process payments_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  *  _\- To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
+
+ **We do not use cookies to:**
+
+  * Collect any personally identifiable information (without your express permission)
+  * Collect any sensitive information (without your express permission)
+  * Pay sales commissions
 
 
 
- **How we protect your information**
+#### Granting us permission to use cookies
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+If your browser is adjusted to accept cookies we take this, and your continued use of our website, to mean that you are fine with this. Should you wish to deactivate cookies, you can learn how to do it in your choices section, however doing so will likely mean that your browser will not work as you would expect on most web pages.
 
- **Sharing your personal information**
+### Advertisement
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+To help us maintain the resources needed to create the quality content you deserve, we show adverts as you browse our site. These adverts are usually managed by a partner specializing in providing adverts for multiple sites. Invariably these partners place advertising cookies to collect anonymous data about the websites you visits so they can personalize the adverts to you, ensure that you don't see the same adverts too frequently and ultimately report to advertisers on which adverts are working.
 
-We will share your personal data as required by law or by the order of any competent court or (semi-)governmental authority or in matters of public safety or policy. Under strict conditions of confidentiality we may share your personal data with agents and contractors who use it on our behalf or in connection with their relationship with us. We will also share your personal data as may be needed in connection with the enforcement of agreements.
+### Google AdSense
 
-### Web browser cookies & beacons
+We use Google AdSense to serve ads in our website. Google AdSense uses one or more advertising cookies to serve ads based on your visit to our website or other websites on the Internet. To learn more about how Google AdSense sets and uses advertising cookies, you can check this web page.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+<https://policies.google.com/technologies/ads>
 
-### Third party websites
+### Google Analytics
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+We use Google Analytics to compile visitor statistics such as how many people have visited our website, what type of technology they are using (e.g. Mac or Windows which helps to identify when our site isn't working as it should for particular technologies), how long they spend on the site, what page they look at etc. Google analytics uses analytic cookies.
 
-### Advertising
+How we use the non-personal information collected by us
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+We may use aggregate or non-personal information to administer, maintain and improve our website. This information can be used for internal/external marketing purposes to analyze trends and summarize statistics. It can also provide information about interests and preferences of our users which enables us to target the section or category that users may find helpful and informative.
 
- **Google Adsense**
+We may disclose aggregate information and other non-personally identifiable information for various purposes at our sole discretion in an effort to customize or enhance the content and advertising of our website.
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+## Your choices
 
-### Changes to this privacy policy
+Although we make every effort to collect as little information as necessary to ensure our site and services run smoothly, still you may opt out from providing this information by following methods.
 
-ComputerNetworkingNotes.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+### Deleting and blocking beacons
 
-### Your acceptance of these terms
+To block beacons from our site or from any other site, you can install and use any standard ad-blocker plugin or simply can disable JavaScript in your browser. To delete already severed beacons, you can clear your browser or device history.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+### Deleting and blocking cookies
 
-### Contacting us
+All most all modern web browsers have options to control the cookies. These options are usually found in the 'options' or 'preferences' menu of your browser. These options allow you to delete or block cookies from individual website or from all websites.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us .
+If cookies settings options are not available at this location, you can check help section of that particular browser or device, or can visit the one of the following links that corresponds to your device and browser:
+
+  * [Apple Safari](https://support.apple.com/kb/ph19214?locale=en_US)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
+  * [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
+  * [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Opera](http://www.opera.com/help/tutorials/security/cookies/)
+  * [Android (Chrome)](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en&oco=1)
+  * [Blackberry](https://help.blackberry.com/en/blackberry-classic/10.3.1/help/mwa1334238823957.html)
+  * [Iphone or Ipad (Chrome)](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DiOS&hl=en&oco=1)
+  * [Iphone or Ipad (Safari)](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en&oco=1)
+
+
+
+If your device or browser is not listed in above list or you want to learn what cookies have been set and how to manage and delete them, you can visit www.allaboutcookies.org
+
+### Opting out from Google Analytics
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. This add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. You can download this add-on from here
+
+<https://tools.google.com/dlpage/gaoptout>
+
+To learn how Google Analytics uses cookies, collects and uses user data and how can you decline Google Analytics from setting cookies and collecting data from your browser or device, see following web pages.
+
+<https://policies.google.com/privacy?hl=en>
+
+<https://support.google.com/analytics/answer/6004245?hl=en>
+
+### Opting out from Google AdSense interest-based advertising
+
+If you are not interested in personalized ads from Google AdSense, login in your Google account and opt out from personalized advertising by visiting following web page.
+
+<https://www.google.com/settings/ads>
+
+To learn more about how Google AdSense sets and uses advertising cookies, you can check this web page.
+
+<https://policies.google.com/technologies/ads>
+
+### Opting out from third party interest-based advertising
+
+To opt out from third party interest-based advertising, visit corresponding organization
+
+USA: - <http://aboutads.info/choices>
+
+Others: - <http://www.networkadvertising.org/choices.>
+
+Europe: - <http://www.youronlinechoices.eu/>
+
+Canada: - [http://www.youradchoices.ca](http://www.youradchoices.ca/)
+
+### Children's privacy
+
+We are committed to protecting children's privacy online. This website is intended for users above the age of 13. We do not knowingly collect information from children. Children under 13 should ask a parent, guardian or teacher for permission before sending us any information online.
+
+### Linking to other websites
+
+Our website may contain links to other third party sites and social sharing sites such Facebook, twitter, LinkedIn, etc. These sites are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. Once you have left our website you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.
+
+#### Changes to this Privacy Policy
+
+We may update our Privacy Policy from time to time. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+##### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us by using the email ComputerNetworkingNotes@gmail.com
