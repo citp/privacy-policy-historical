@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drummagazine.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212001638id_/http%3A//stringletter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drummagazine.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621163148id_/http%3A//stringletter.com/privacy-policy) for the most accurate reproduction.*
 
-# Stringletter » Privacy Policy
+# Privacy Policy – Stringletter Media
 
 String Letter Publishing recognizes the importance of protecting the privacy of information provided to us. Accordingly, we strive for compliance with all federal and state privacy laws as well as EU General Data Protection Regulation and follow industry best practices in order to best serve our community. The following guidelines have been created to demonstrate our commitment to privacy. It applies to all of our publications, books, events and properties.
 
