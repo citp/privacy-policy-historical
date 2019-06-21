@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the i2symbol.com privacy policy that was archived on 2018-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181217091501id_/http%3A//www.i2symbol.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the i2symbol.com privacy policy that was archived on 2019-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190621153033id_/http%3A//www.i2symbol.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -17,7 +17,7 @@
                    
   <link rel="shortcut icon" href="/css/i2symbol.ico" type="image/x-icon">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-          <link href="/mob/css/master.css?4" rel="stylesheet"><link rel="stylesheet" href="/mob/css/etc.css?1" type="text/css">            
+          <link href="/mob/css/master.css?26" rel="stylesheet"><link rel="stylesheet" href="/mob/css/etc.css?1" type="text/css">            
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="/mob/js/jquery.js"></script>
           <script src="/mob/js/master.js"></script>
   <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
@@ -36,7 +36,7 @@
   <!-- WARNING: Respond.js doesnt work if you view the page via file:// -->
   <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>      
   <![endif]-->
 
   <link rel="stylesheet" href="/mob/css/cookie.min.css?1" type="text/css">  
@@ -98,12 +98,108 @@ src="https://www.facebook.com/tr?id=1722106101443373&ev=PageView&noscript=1"
     enable_page_level_ads: true
   });
 </script>  
+   
+          <script type="text/javascript" src="/mob/js/jsCookie.js"></script>
+          <script>
+          var delay = 3000;
+          //var delay = 0;
+          var cookieName = "visitApp5";
+          var minExpireDays = 7;
+          var maxExpireDays = 365;
+          var timer = setTimeout(showModal, delay);
+          var close = 1;
+
+          // reset cookie
+          //Cookies.remove(cookieName);
+
+
+          function showModal() {
+            // kill timer
+            clearTimeout(timer);
+
+            var cookie =  Cookies.get(cookieName, true);
+            // if no cookie, show modal
+            if (typeof cookie === "undefined")
+            {
+              $("#myModal").modal();
+            }
+            else
+            {
+              // do nothing
+              //alert(cookie);
+            }
+          }          
+
+          function setMyCookie(expireDays)
+          {
+            Cookies.set(cookieName, "1", { expires: expireDays });
+          }
+
+          $(document).on("click", "#ios", function(e) {
+              
+              close = 0;
+              setMyCookie(maxExpireDays); // show modal after 1 year
+              stat("ios");              
+              $("#myModal").modal("hide");
+          });          
+
+          $(document).on("click", "#android", function(e) {
+              
+              close = 0;
+              setMyCookie(maxExpireDays); // show modal after 1 year
+              stat("droid");
+              $("#myModal").modal("hide");
+          });          
+
+          $(document).on("click", "#appImg", function(e) {
+              
+              close = 0;
+              setMyCookie(maxExpireDays); // show modal after 1 year
+              stat("img");
+              $("#myModal").modal("hide");
+          });          
+
+
+          // close modal by any means
+          $(document).on("hidden.bs.modal", "#myModal", function(e) {
+                            
+              setMyCookie(minExpireDays); // show modal after 1 day              
+              if(close)
+                stat("close");
+          })              
+
+
+          // close modal by any means
+          $(document).on("click", "#myPromo", function(e) {
+                            
+              stat("ad");
+          })              
+
+
+          function stat(app)
+          {
+            var url = "/mob/DevSDK/apptrack.php"; 
+              
+            var data = "app=" + app;
+            $.ajax({
+                url: url,  
+                type: "POST",        
+                data: data,     
+                cache: false,
+                success: function (res) {},
+                error: function (request, status, error) {}
+              });                   
+          }
+          </script>
+          
+  
+
 
   <script type="text/javascript">                 
     //<![CDATA[
     $(document).ready(function(){
 
-      
+            
         $("#cookieconsent:desc").html();
         $("a.translate").bind("click", function() {                        
             var lang = $(this).attr("data-lang"); 
@@ -112,13 +208,14 @@ src="https://www.facebook.com/tr?id=1722106101443373&ev=PageView&noscript=1"
     });
     //]]>
   </script>
+  
   <style></style></head>
   <body id="page-top"><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-floating cc-type-info cc-theme-block cc-bottom cc-right cc-color-override--831684192 " style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">This site uses cookies to deliver our services and to ensure you get the best experience. By continuing to use this site, you consent to our use of cookies and acknowledge that you have read and understand our  <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="/privacy" target="_blank">Privacy Policy, Cookie Policy, and Terms</a></span><div class="cc-compliance"><a aria-label="dismiss cookie message" role="button" tabindex="0" class="cc-btn cc-dismiss">Accept</a></div><!--googleon: all--></div><div id="navDesktop"></div>
   
-  
+    
     
     <!-- Navigation -->    
-    <nav class="navbar navbar-default" id="navMobile">
+    <nav class="navbar navbar-default" id="navMobile" style="margin:0;padding:10px 0 5px 0;">
         <div class="container">
             <div class="navbar-header page-scroll pull-right" style="margin-left:1px;">            
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#top_toolbar">
@@ -172,7 +269,7 @@ src="https://www.facebook.com/tr?id=1722106101443373&ev=PageView&noscript=1"
                 Photos
                 <span class="caret"></span>
               </a>
-              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu"><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/i2picture">Postcards</a></li><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/photo">Montage &amp; Effects</a></li><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/clipart">Clipart</a></li></ul>
+              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu"><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/i2picture">Add Text To Photo</a></li><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/photo">Montage Photo</a></li><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/photo/effects/cartoon">Photo To Cartoon</a></li><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/clipart">Clipart</a></li></ul>
                   </div></li><li style="float:left;"><div class="dropdown">
               <a class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="true" style="padding:13px; border:none;">
                 Stickers
@@ -190,7 +287,7 @@ src="https://www.facebook.com/tr?id=1722106101443373&ev=PageView&noscript=1"
                 Cool Text
                 <span class="caret"></span>
               </a>
-              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu"><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/style-text">Text Styler</a></li><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/name">Emoji Text</a></li></ul>
+              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu"><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/style-text">Text Styler</a></li><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/name">Emoji Text</a></li><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/3dtext">3D Text</a></li></ul>
                   </div></li><li style="float:left;"><div class="dropdown">
               <a class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="true" style="padding:13px; border:none;">
                 Tools
@@ -209,9 +306,26 @@ src="https://www.facebook.com/tr?id=1722106101443373&ev=PageView&noscript=1"
     <div class="clearfix"></div>
     
     
-               <div style="position:fixed; top:10px; right:20px;">
-                <a href="/i2symbol-app"><img width="300" height="300" src="/mob/css/images/emoji_ad/ad11.png?741" alt="facebook emojis"></a>
-               </div>
+    
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="z-index:10000;">
+  <div class="modal-dialog" role="document" style="width:512px;">
+    <div class="modal-content">
+      
+
+      <div class="modal-body">
+        <a target="_blank" href="/i2symbol-app"><img id="appImg" class="img-responsive" style="text-align:center;" src="/mob/css/images/promo_512_6.png?952" width="512" height="512"></a>
+      </div>
+
+      <div class="modal-footer" style="text-align:center;">
+        <a target="_blank" class="btn btn-info" id="ios" href="https://itunes.apple.com/us/app/i2symbol-emoji/id1419871072?mt=8">App Store</a>
+        <a target="_blank" class="btn btn-success" id="android" href="https://play.google.com/store/apps/details?id=com.i2sticker">Google Play</a>                
+      </div>
+
+    </div>
+  </div>
+</div>
     
     <section id="portfolio">        
         <div class="container">            
@@ -295,21 +409,21 @@ This Privacy Policy is effective as of 20 May 2018.
     </section>
         
     
-        <div class="section" style="background:#eee; color:#fff; padding:15px 0 15px 0; margin:0; direction:rtl;">
+        <div class="section" style="background:#eee; color:#fff; padding:15px 0 15px 0; margin:0; direction:ltr;">
           <div class="container">
               <div class="row">
+                  <section style="text-align:center; letter-spacing:1px;margin-top:-20px;"><a class="btn btn-lg btn-danger" style="text-transform: capitalize" href="/i2symbol-app">&nbsp;<span class="glyphicon glyphicon-download-alt"></span> Download I2Symbol App ♫ ★</a></section>
                   <div class="col-sm-12 col-md-12">                                                                              
                           
-                          <a class="btn btn-primary info_lbox" style="margin:2px;" target="_blank" href="http://www.i2arabic.com/newspapers">إقرأ كل صحف الدول العربية بطريقة جديدة</a>
-                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.i2arabic.com/tv">شاهد القنوات العربية المفتوحة</a>
-                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.i2arabic.com/arabic-keyboard">إكتب عربي بالحروف الإنجليزية</a>
-                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.i2ocr.com">استخرج الكلام من الصور</a>
-                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.sciweavers.org/i2img">محول الصور من نوع لآخر</a>
-                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.i2pdf.com/ar">مقسم و مجزئ ملفات PDF</a>                          
-                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.i2clipart.com">صور مجانية لكل المناسبات</a>
-                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.sciweavers.org/free-online-web-to-image">صفحة ويب إلى صورة</a>
-                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.sciweavers.org/free-online-html-to-pdf">صفحة ويب إلى ملف PDF</a>
-
+                          <a class="btn btn-primary info_lbox" style="margin:2px;" target="_blank" href="http://www.i2ocr.com">OCR - Extract Text From Image</a>
+                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.sciweavers.org/i2img">Image Converter</a>
+                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.i2pdf.com">Split Merge PDF</a>                          
+                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.i2clipart.com">Royalty Free Cliparts</a>
+                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.sciweavers.org/free-online-web-to-image">Web Page To Image</a>
+                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.sciweavers.org/free-online-html-to-pdf">Web Page To PDF</a>
+                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.i2arabic.com/newspapers">Read Arabic Newspapers</a>
+                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.i2arabic.com/tv">Watch Arabic Channels</a>
+                          <a class="btn btn-default info_lbox" style="margin:2px;" target="_blank" href="http://www.i2arabic.com/arabic-keyboard">Write Arabic Using English</a>                          
                   </div>
               </div>
           </div>
@@ -318,7 +432,7 @@ This Privacy Policy is effective as of 20 May 2018.
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright © i2Symbol 2008 - 2017 <span style="font:normal 11px tahoma; color:#ddd;">172</span></span>
+                    <span class="copyright">Copyright © i2Symbol 2008 - 2019 <span style="font:normal 11px tahoma; color:#ddd;">174</span></span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
