@@ -1,86 +1,245 @@
-> *The following text is extracted and transformed from the adventuresportsholidays.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712031536id_/http%3A//www.exploco.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuresportsholidays.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621192530id_/https%3A//awe365.com/privacy-policy) for the most accurate reproduction.*
 
-# Exploco - Your Adventure Sports Travel Guide
+# AWE365 LTD Privacy Policy
 
-  | 
+The www.AWE365.com website (the “ **Website** ”) is operated by AWE365 Ltd, company registration number 08449895 at the registered office of 173 Gibbon road, Newhaven, BN9 9ET, United Kingdom. (“ **We** ”, “ **Us** ” or “ **AWE365** ”).
 
-**Privacy Policy**
+We take your privacy very seriously and we ask that you read this privacy policy carefully as it contains important information on:
 
-Welcome to the exploco.com website (the “Website”). This Website is provided solely to assist customers in gathering travel information, posting opinions of travel related issues, engaging in interactive travel forums, reviews, questions, answers, connections and for no other purposes. The terms “we”, “us”, “our”, “Exploco” and “exploco” refer to Element Internet Pty Ltd, which is incorporated in Australia, our company ABN is 33 153 562 586. The term “you” refers to the customer visiting the Website and/or contributing content on this Website.
+  * the personal information we collect about you,
+  * what we do with your information, and
+  * who your information might be shared with.
 
-Exploco has provided this privacy policy because we value your right to privacy. This policy is effective from the effective date set out at the end of this Privacy Policy, and governs the collection and use of personal information through this Site on or after this date.
 
-This policy describes the types of information Exploco collects from its users and how that information is used. Please read this policy carefully before providing us with any personal information. By using this Site, you agree to Exploco's use of your personal information in accordance with this policy. If you do not agree with the terms of this policy, please do not use this Site. If you have questions about this Privacy Policy, please contact us.
 
-**UNREGISTERED USERS**
+## Who we are
 
-We encourage you to register with us in order to take advantage of Exploco's many personalization features. However, you may choose not to register and take advantage of any feature of our Site where registration is not required.
+For the purposes of the General Data Protection Regulation EU 2016/679 (the “GDPR”), **AWE365** are a “data controller” (i.e. we are responsible for, and control the processing of, your personal information).
 
-We log your IP address in order to help diagnose problems with our server, administer our Site and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on whether you access our Site through an always-on type of Internet connection (e.g., cable modem or DSL), or through a dial-up connection (e.g., AOL or Earthlink). Either way, it would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our Site by clicking on a link or advertisement on another site, then we also log that information. This helps us to maximize our Internet exposure, and to understand the interests of our users. All of this information is collected and used only in the aggregate; that is, it is entered into our database, where we can use it to generate overall reports on our visitors, but not reports about individual visitors.
+## What information we collect?
 
-We also place a small file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through our Site and to determine whether you have visited us before. However, unless you register with us, it contains no personally identifiable information that would allow us to identify you. Cookies cannot be used to read data off of your hard drive, and cannot retrieve information from any other cookies created by other Web sites. We use cookies in this manner to help us understand how visitors use our Site, and to help us to improve our Site. You may refuse to accept a cookie from us by following the procedures specific to your Web browser. Although you may do so, you may find that your browser doesn't properly react when visiting not only our Site, but other Web sites as well. Please note that since cookies don't provide us with any information from which we can identify you, we suggest you allow us to place one on your computer so you can fully enjoy the Site's features.
+#### _Personal information provided by you_
 
-If you visit our Site by "clicking-through" from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our Site in order to determine what information was collected and how you agreed that our partner could use that information. Regardless of what information was transmitted to us, however, we don't keep it unless you register with us.
+We may collect personal information about you (such as your name, address, telephone number, payment card details etc.) when you use our **Website** , register with us or purchase goods or services from us. We may also collect personal information when you contact us, send us feedback or post material to the **Website**.
 
-If you access third party services, such as social media services, through our Web site or before coming to our Web site, we may collect information such as your user name, password, and other information made available to us through those services in order to improve and personalize your use of our Web site.
+We may also collect information that your browser sends us whenever you visit our **Website**. This data may include information such as your computer’s IP address, browser type, browser version, the pages of our **Website** that you visit and other statistics relating to your use of the **Website**. This information may be collected in conjunction with third party services such as Google Analytics. However, this information is made anonymous at the point of collection meaning  **you  **cannot personally be identified from it.
 
-We have partnered with Facebook to provide Instant Personalization on Exploco for members of Facebook. If you have Instant Personalization set to "enabled" in your Facebook privacy settings and you are logged into Facebook, then Exploco will be personalized for you when you visit the Web site, even if you are a first-time user of Exploco’s Web site. For example, we will show you reviews that your Facebook friends have posted on Exploco and places they have visited. In order to provide you with this personalized experience, Facebook provides us with information that you have chosen to make available pursuant to your Facebook privacy settings. That information may include your name, profile picture, gender, friend lists and any other information you have chosen to make available.
+#### _Personal information provided by third parties_
 
-When you first visit Exploco, you will see an option to turn off Instant Personalization in just one click. If you decide to turn it off at a later date, you can do so by first logging into Facebook and clicking on the disable link, or by editing your personal settings in your ‘edit profile’ page. You can also turn off Instant Personalization by editing your privacy settings on Facebook. Please note that, if you have Facebook friends who are using Exploco, they may also have shared information about you with us through Facebook. If you wish to prevent that sharing, you can do so by editing your Facebook privacy settings.
+We may receive information about you from a third-party source. We will only accept that information if we have evidence that you have consented for the personal information to be passed to us or it is passed pursuant to another legal basis under the GDPR.
 
-When you use a Exploco application (the "Application") on a mobile phone or tablet device ("Device"), we will collect and use information about you in broadly the same way and for substantially similar purposes as when you use a Exploco website. In addition, we may collect information about your location, if you have instructed your Device to send such information to the Application, via the privacy settings on that Device, or if you have uploaded photos tagged with location information. We will use the location information collected from your Device or photos to enhance your use of the Application. For example, we may use your location to show you reviews of spots or adventures near you. You can change the privacy settings of your Device at any time, in order to turn off the functionality to share location information with the Application and/or the functionality to tag your photos with location information. If you have any queries about the privacy settings of your Device, we suggest you contact the manufacturer of your Device or your mobile service provider for help.
+#### _Personal information about other individuals_
 
-Please be aware that calls to and from Exploco may be recorded. We may use the call recordings to monitor our customer service for quality or compliance purposes, to check the accuracy of the information you provide us, for fraud prevention purposes, or to provide training to our staff. We will retain the call recordings for as long as reasonably necessary to perform such activities and then delete them. Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy.
+If you give us information on behalf of someone else, you confirm that the other person has appointed you to act on his/her behalf and has agreed that you can:
 
-**REGISTERED USERS**
+  * give consent on his/her behalf to the processing of his/her personal data;
+  * receive on his/her behalf any data protection notices; and
+  * give consent to the transfer of his/her personal data abroad.
 
-If you choose to register with us, you'll be able to add content to our Site. For example, you may post your own travel reviews and participate in our discussion forums. You will also be able to email Exploco content to yourself and others. In addition, you will benefit from the ability to personalize your Exploco Site experience. The benefits of registering will increase over time as we get to know you better and introduce new features. We encourage you to register so that you can experience everything that Exploco has to offer! If you register with us, we will collect personal information from you in addition to the non-personal information described above. That personal information may include the information you manually enter into our forms such as your name, email address, mailing address, telephone number, travel preferences, user name and password or contact information for other people. We may store all or some of that information in a cookie file on your hard drive, so that our system will recognize you each time you visit our site. In that way, we can save your preferences from visit to visit and present you with a customized Web site, without requiring you to log into our Site every time you visit. To improve services and enhance personalization, we may periodically obtain information about you from other independent third-party sources from whom we have lawfully obtained this data and add it to your registration information. Additionally, authorized Exploco personnel may update your registration information to accurately reflect any new information included in communications received from you.
 
-If you visit our Site by "clicking-through" from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our Site in order to determine what information was collected and how you agreed that our partner could use that information. We may or may not retain that information; if we do, then we will only use it in accordance with our privacy policy, regardless of the policy of the partner site from which you came to us. If you reach our Site through one of our partners (whether or not you have registered with our partner), and you choose to register with us, we may be required to give our partner some or all of your registration information. We will only do so in accordance with this policy, but we cannot control how our partner uses the information. If you have questions about our partner's privacy policy, you should review their policy before providing information to us. Of course, you can ensure that the personal information you provide to us is not shared with our partners (except in accordance with this policy), by visiting us directly instead of clicking-through from one of our partners.
 
-If you access third party services, such as social media services, through our Web site or before coming to our Web site, we may collect information such as your user name, password, and other information made available to us through those services in order to improve and personalize your use of our Web site. We have partnered with Facebook to provide Instant Personalization on Exploco for members of Facebook. See the section for ‘Unregistered users” above for further information.
+#### _Sensitive personal information_
 
-**HOW WE USE THE PERSONAL INFORMATION WE COLLECT**
+It is very unlikely that we will ask you to provide sensitive personal information. If we request such information, we will explain why we are requesting it and how we intend to use it.
 
-We use the personal information we collect to help both of us! As we mentioned above, registering with us allows you to personalize our Site so that it is most useful to you. It also allows you to log into our Site automatically each time you visit, rather than manually typing your user name and password every time. We may also use your personal information to periodically contact you with news or important information from Exploco, with communications from other Exploco members, and/or to request your feedback on our Site.
+Sensitive personal information includes information relating to your ethnic origin, your political opinions, your religious beliefs, whether you belong to a trade union, your physical or mental health or condition, your sexual life, and whether you have committed a criminal offence.
 
-In addition to these periodic updates, we may email you additional materials, but only if you specifically request them. These might include opt-in newsletters and other materials that you proactively request from Exploco. In addition to these communications, if you have provided an email address, we may use your personal information to send you notifications about special offers or to tell you about opportunities available from our partners, subject to your consent (which may be withdrawn at any time in the manner set forth herein).
+We will only collect your sensitive personal information with your explicit consent.
 
-You may opt-out of any or all marketing communications from Exploco in any commercial e-mail we send or at any time, as well as access and update your personal information, by visiting and editing your preferences in your member profile.
+#### _Monitoring and recording communications_
 
-We may also use certain information that you provide in order to present you with advertising that you may find interesting. This benefits both of us. It benefits us because advertising helps pay the bills, and we can charge our advertisers more if they know that their ads will be seen by somebody more likely to find it useful. It benefits you because you see advertising that may actually be interesting to you, rather than annoying.
+We may monitor and record communications with you (such as telephone conversations and emails) for the purpose of performing the Services we offer to our clients, quality assurance, training, fraud prevention and regulatory compliance.
 
-You can cancel your registration by contacting us at support(a)exploco(.)com We will remove your information from our active database, but some information may remain in our archives for an additional period of time before being deleted. We may not be able to remove your information from our partners' databases, if we have transmitted any information to them.
+#### _Use of cookies_
 
-**DISCLOSURE OF YOUR PERSONAL INFORMATION**
+We use cookies on our **Website**. A cookie is a small text file which is placed onto your computer (or other electronic device) when you use our **Website**.
 
-Exploco does not sell or rent any personal information to any third party, other than our partners, as discussed in this policy. We may aggregate personal information from all of our users and provide that information in the aggregate to other parties, including advertisers, for marketing and promotional purposes. However, if we do so, that information will not be in a form that will allow any third party to identify you personally.
+For example, we may monitor how many times you visit the Website, which pages you go to, traffic data, location data and the originating domain name of a user’s internet service provider. This information helps us to build a profile of our users. This data will be aggregated or statistical, which means that, in respect of that data, we will not be able to identify you individually.
 
-We may share some of your personally identifiable information with our parent company in the United States and our subsidiaries and sister companies around the world that are committed to providing you with a comprehensive array of travel packages and services to meet your travel needs. Sharing this information allows us to better understand the ways in which our various product and service offerings can assist travelers. It also enables us to provide you with information about travel opportunities in which you might be interested. We do not place restrictions on the use of personal information by our parent company, subsidiaries, or affiliates but they will treat it at least as protectively as they treat information they obtain from their other users. They also will comply with applicable laws governing the transmission of promotional communications, and give you an opportunity in any such email that they send to choose not to receive such promotional e-mail messages in the future.
+You can set your browser not to accept cookies and easily remove cookies from your browser. However, some of our **Website** features may not function as a result. For further information on cookies visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-Please be aware that the laws of australia and most countries outside the european economic area are generally not regarded as providing "adequate" data protection as contemplated under article 25 of the european union's data protection directive (95/46/ec). By agreeing to this privacy policy and using the site, you are consenting to (i) the transfer of such personal information to these countries (ii) use in that country in accordance with this policy. We also may share your personal information with third-parties specifically engaged by Exploco to provide services to Exploco (such as market research firms, marketing services providers and advertising agencies), in which case we will require those parties to agree to use any such personally-identifiable data solely for the purpose of providing the specified services to Exploco. As you might expect, Exploco must cooperate with legal authorities, and may in some circumstances be required to disclose personally identifiable information in response to requests from law enforcement authorities, or in response to legal proceedings. We don't expect this to happen, but if it does, we will provide only the information required. In other words, we will not simply turn over our database in response to a specific legal requirement. We can also turn over information about you if we believe we must in order to prevent a violation of the law, and by accepting this policy, you consent to our doing so, in our sole discretion. You also consent to our disclosing information about you in the course of legal proceedings if we are legally required to do so, if we reasonably believe that doing so may mitigate our liability, or if doing so will assist us in enforcing our legal rights.
+## How will we use the information about you?
 
-We also may share your information in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, and in the unlikely event of insolvency. Your profile and contributions on Exploco will be publicly viewable and identifiable via your screen name. Exploco encourages its members to create screen names that are not visibly connected to their first and last names. Exploco will share neither your email address nor first and last names with other members, nor will we display them in any public manner, unless you expressly choose to have us do so.
+We collect information about you so that we can:
 
-**MEMBER-TO-MEMBER COMMUNICATION FEATURES**
+  * identify you and manage any accounts you hold with us;
+  * process your order or carry out obligations arising from any contract(s) entered into between you and us;
+  * conduct research, statistical analysis and behavioural analysis;
+  * carry out customer profiling and analyse your purchasing preferences;
+  * if you agree, let you know about other products or services that may be of interest to you—see ‘Marketing’ section below;
+  * detect and prevent fraud;
+  * customise our **Website** and its content to your particular preferences;
+  * notify you of any changes to our **Website** or to our services that may affect you;
+  * carry out security vetting;
+  * improve our **Website**  and associated services; and
+  * notify you about changes to our services.
 
-When you sign up on Exploco, member-to-member communication features are automatically enabled. These features, such as traveller networks and private messaging, allow you and other Exploco members to communicate with each other as well as with non-members, via Exploco. Exploco members can turn off member-to-member features at any time via their member profile, should they wish to do so. If you do participate in these features you agree that: • you are willing to accept communication from other Exploco members • you have already obtained prior consent from contacts in your personal email address book for us to send them such communication on your behalf.Non-members always have the option to stop receiving further communication from Exploco members. We have designed these features to avoid any disclosure of your personal information to other users and to allow you to decline to participate, should you wish to do so. Your e-mail address is never disclosed to other Exploco members or vice versa.
 
-**HOW YOU CAN REVIEW AND UPDATE YOUR PERSONAL INFORMATION**
 
-You can review and update the personal information you have provided through the registration process by visiting your ‘edit profile’ page. You can access your personal information and, where shown to be incorrect, correct the information.
+#### _Marketing_
 
-**STEPS WE TAKE TO PROTECT YOUR PERSONAL INFORMATION**
+Only where you have provided us with specific, informed and unambiguous consent shall we provide you with marketing materials by the mechanism(s) you have consented to (e.g. email). We will only provide you with marketing materials relating to features that you have explicitly consented to.
 
-Exploco has implemented security procedures to help protect the personal information stored in our systems. For example, we limit access to personal information about you to employees who we believe reasonably need to come into contact with that information. We also employ processes (such as password hashing, login auditing, and idle session termination) to protect against unauthorized access to your personal information. While we implement appropriate technical and organisational measures to protect against unauthorised or unlawful processing of personal information and against accidental loss or destruction of, or damage to personal information there is no way for us to guarantee the absolute security of your personal information.
+If you have consented to such receive marketing from us, you can opt out at any time. See ‘What rights do you have?’ below for further information.
 
-**CHILDREN'S PRIVACY**
+#### _Who your information might be shared with_
 
-This Site is a general audience site, and we do not knowingly collect information about children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information.
+We may disclose your personal data to:
 
-**CHANGES TO THIS PRIVACY POLICY**
+  * our service providers pursuant to strict data processing agreements that protect your personal data to the same or higher standards than we treat it;
+  * law enforcement agencies in connection with any investigation to help prevent unlawful activity; and
+  * a court of law or regulator where we are under a duty to disclose or share your personal data in order to comply with a legal or regulatory obligation.
 
-We reserve the right to change this policy should we deem it advisable to do so. If we make material changes that will affect personal information we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to amend or cancel your registration.
 
-|    
----|---|---
+
+Rest assured that we will never pass your information to a third party outside of the categories above without your explicit consent.
+
+#### _Keeping your data secure_
+
+We will use technical and organisational measures to safeguard your personal data, for example:
+
+  * access to your account is controlled by a password and username that are unique to you;
+  * we store your personal data on secure servers; and
+  * payment details are encrypted using SSL technology (typically you will see a lock icon or green address bar [or both] in your browser when we use this technology).
+
+
+
+While we will use all reasonable efforts to safeguard your personal data, you acknowledge that the use of the internet is not entirely secure and for this reason we cannot guarantee the security or integrity of any personal data that are transferred from you or to you via the internet. If you have any particular concerns about your information, please contact us (see ‘How can you contact us?’ below).
+
+Our **Website** may contain links to other websites of our partners, suppliers, advertisers or other approved third parties. If you follow a link to any of these websites, please note that these websites have (or should have) their own privacy policies. We do not accept any responsibility or liability for these policies or the way in which your personal data may be treated by these third parties. We recommend you check the privacy policy of any third party before you submit any personal data to their website.
+
+#### _Transfers of your information out of the EEA_
+
+AWE365  LTD operates within the United Kingdom. We process and store all personal data of our customers on servers located within the European Economic Area (“EEA”).
+
+However, it is possible that we may need to transfer your personal data to countries which are located outside the EEA for the purpose of providing the services to you. Rest assured that any transfer of your personal data outside of the EEA will be subject to a GDPR-compliant guarantee (such as the EU-US Privacy Shield or a Model Contract Clause approved by the European Commission) that will safeguard your privacy rights and give you remedies in the unlikely event of a security breach.
+
+#### _How long do we hold your data for?_
+
+We only keep your personal data as long as necessary for the purpose for which it was obtained. After that period, we either: (1) anonymise the data if we still wish to use it for analytical purposes, or (2) pseudonymise the data if believe in good faith that we may need to process the data in the future for a legitimate purpose, or in all other cases (3) delete it completely from our servers.
+
+## What rights do you have?
+
+#### _Right to request a copy of your information_
+
+You can request a copy of your information which we hold (this is known as a subject access request). If you would like a copy of some or it, please:
+
+  * email or write to us (see ‘How can you contact us?’ below),
+  * let us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill will suffice), and
+  * let us know the information you want a copy of, including any account or reference numbers, if you have them.
+
+
+
+We will acknowledge receipt of your request and will respond within thirty (30) days. We will not charge you for providing the information.
+
+#### _Right to correct any mistakes in your information_
+
+You can require us to correct any mistakes in your information which we hold free of charge. If you would like to do this, please:
+
+  * email or write to us (see ‘How can you contact us?’ below),
+  * let us have enough information to identify you (e.g. account number, user name, registration details), and
+  * let us know the information that is incorrect and what it should be replaced with.
+
+
+
+We will acknowledge receipt of your request and will respond within thirty (30) days.
+
+#### _Right to ask us to stop contacting you with direct marketing_
+
+You can ask us to stop contacting you for direct marketing purposes. If you would like to do this, please:
+
+  * click on the ‘unsubscribe’ button at the bottom of marketing emails from us,
+  * email or write to us (see ‘How can you contact us?’ below)
+  * let us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill will suffice), and
+  * let us know what method of contact you are not happy with if you are unhappy with certain ways of contacting you only (for example, you may be happy for us to contact you by email but not by telephone).
+
+
+
+We will acknowledge receipt of your request and will respond within thirty (30) days.
+
+#### _Right to erasure_
+
+You can request that we delete all personal data relating to you free of charge. If you would like to do this, please:
+
+  * email or write to us (see ‘How can you contact us?’ below), and
+  * let us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill will suffice), and
+  * provide us with the justification for the erasure request (e.g. you are withdrawing your consent, you no longer believe that we should be processing the personal data for the original purpose for which it was obtained, the personal data is being unlawfully processed, there is a legal reason for erasure etc.).
+
+
+
+We will acknowledge receipt of your request and will respond within thirty (30) days.
+
+#### _Right to Restrict Processing_
+
+You can request that we restrict processing of some of your personal data. If you would like to do this, please:
+
+  * email or write to us (see ‘How can you contact us?’ below), and
+  * let us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill will suffice), and
+  * provide us with details of what personal data you would like us to restrict the processing of (e.g. where you contest the accuracy of some personal data, we shall restrict the processing of it whilst its accuracy is verified).
+
+
+
+We will acknowledge receipt of your request and will respond within thirty (30) days. If we agree to restrict the processing of the personal data before the thirty (30) day period, we will inform you as soon as we have put in place the restriction.
+
+#### _Right to Object_
+
+You can object to us processing any of your personal data. If you would like to do this, please:
+
+  * email or write to us (see ‘How can you contact us?’ below), and
+  * let us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill will suffice), and
+  * provide us with details of what personal data you object to us processing.
+
+
+
+We will acknowledge receipt of your request and will respond within thirty (30) days.
+
+#### _Right to Data Portability_
+
+You can request that be provide some or all of your personal data we hold to a third party free of charge. If you would like to do this, please:
+
+  * email, call or write to us (see ‘How can you contact us?’ below),
+  * let us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill will suffice), and
+  * provide us with sufficient details of the third-party entity to which you would like your data transferred.
+
+
+
+We will acknowledge receipt of your request and will provide your personal data to the third-party entity in a commonly used machine-readable format within thirty (30) days providing you have provided us with sufficient information to do so. We will not charge you for this service.
+
+#### _Rights relating to automated decision making and profiling_
+
+We use software that automatically processes personal data for us. We ensure that processing using this software is fair and we implement all appropriate technical and organisational measures to ensure inaccuracies are minimised. If you are concerned about the use of such software, you have the right to ask for more details about the processing and request that we stop using the software to process your data. If you would like to do this, please:
+
+  * email, call or write to us (see ‘How can you contact us?’ below),
+  * let us have enough information to identify you (e.g. account number, user name, registration details), and
+  * provide us with details of your concerns and the categories of personal data you believe are being processed by automated software.
+
+
+
+We will acknowledge receipt of your request and will respond within thirty (30) days. Please note that if the automated processing is necessary for the performance of a contract between you and us, if you request that the software is no longer used to process your data, we may not be able to provide you with services any more.
+
+#### _Right to complain to the supervisory authority_
+
+If you are unhappy with the way in which we have dealt with a request you have made or you feel that we are not complying with this Privacy Policy in any way, you have the right to complain to the supervisory authority in the country in which you live. The supervisory authority in England and Wales is the Information Commissioners Office and details of how to contact them are available on their website: [www.ico.org.uk](http://www.ico.org.uk/).
+
+#### _Time Extensions and Refusals_
+
+We reserve the right to extend the time period to respond to any of the requests listed above by up to sixty (60) days where a request is complex or a large number of requests are made. If we fail to respond to you by the deadline we set, you have a right to complain to the supervisory authority or seek a judicial remedy (see – ‘Right to complain to the supervisory authority’ above).
+
+We may also refuse a request where there are legitimate reasons to do so. These include, but are not limited to:
+
+  * where a request is manifestly unfounded, excessive or repetitive; or
+  * where personal data is being processed: 
+    * in order to comply with a legal obligation;
+    * in the public interest;
+    * in the exercise or defence of a legal claim;
+    * in the exercise of the right to freedom of expression and information.
+
+
+
+## How to contact us
+
+Please contact us via info@AWE365.com or write to AWE365 LTD, 173 Gibbon Road, Newhaven, BN9 9ET, UK. If you have any questions about this privacy policy or the information we hold about you, we will be delighted to assist.
+
+## Changes to the privacy policy
+
+This Privacy Policy was last updated in May 2018, however we may change this privacy policy from time to time. You should check this policy occasionally to ensure you are aware of the most recent version that will apply each time you access the **Website**.
