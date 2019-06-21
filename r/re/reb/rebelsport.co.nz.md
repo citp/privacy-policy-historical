@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebelsport.co.nz privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219161230id_/http%3A//www.rebelsport.co.nz/shopping-online/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelsport.co.nz privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621134023id_/http%3A//www.rebelsport.co.nz/shopping-online/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -69,4 +69,4 @@ To make full use of the online shopping features of the Briscoe Group websites, 
 
 **Contact Us**
 
-If you have any questions relating to Privacy, or to the Briscoe Group Privacy Policy, please [contact us](https://web.archive.org/default.aspx?action=forms&cf_name=CONTACT&catid=5024&linkid=8580).
+If you have any questions relating to Privacy, or to the Briscoe Group Privacy Policy, please [contact us](https://web.archive.org/contact-us-.htm).
