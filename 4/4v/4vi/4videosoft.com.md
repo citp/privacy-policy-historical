@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4videosoft.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214180830id_/http%3A//www.4videosoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4videosoft.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621165943id_/http%3A//www.4videosoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of 4Videosoft
 
