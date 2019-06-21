@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the tynker.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626130324id_/https%3A//www.tynker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tynker.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621112246id_/https%3A//www.tynker.com/privacy) for the most accurate reproduction.*
 
-# Tynker | Programming courses for kids | Coding for Kids | Tynker
+# Coding for Kids | Tynker
 
-NEURON FUEL, Inc.  Privacy Policy
+[
+
+###  Please see our latest privacy updates. 
+
+](https://web.archive.org/privacy/)
+
+## Privacy Policy
 
 We at Neuron Fuel, Inc. d/b/a Tynker (“Tynker,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our Privacy Policy.  By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the Tynker Terms of Use [[http://www.tynker.com/terms](https://www.google.com/url?q=http://www.tynker.com/terms&sa=D&usg=AFQjCNEKSBSLKSV4NjczRhPny5fftX47kg)].
 
-I. What Does This Privacy Policy Cover?
+### I. What Does This Privacy Policy Cover?
 
 This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Services.  This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
@@ -18,11 +24,11 @@ When we use the term “Personal Information” in this Privacy Policy, we are r
 
 We gather various types of Personal Information and Children’s Personal Information from our users, as explained more fully below.  We may use this Personal Information and Children’s Personal Information to personalize and improve our services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Services, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information and Children’s Personal Information with third parties, as described below. 
 
-II. What Information Does Tynker Collect?
+### II. What Information Does Tynker Collect?
 
 A. Information You Provide to Us:
 
-We receive and store any information you knowingly provide to us.  For example, we collect Personal Information and Children’s Personal Information, such as your name, email address, school affiliation and a picture (if provided). If you are a student registrant (i.e., you sign up as a student under the age of 13), the only Children’s Personal Information we require is your parent’s email address so we can initiate a parental consent process, as well as non-personal information such as your screen name and password.  Once you are signed up with parental activation, you may also be permitted to input a profile picture through the functionality of the Services.  If you provide your third-party account login credentials to us, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy.  You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features.  We may anonymize your Personal Information and Children’s Personal Information so that you cannot be individually identified, and provide that information to our partners.  The Children’s Personal Information you provide shall only be used for creating your individual account (which will identify you within the user group(s) for which you have been granted an access code (“Limited Access Group”)), and for sending you notifications. You may modify or remove your Personal Information or Children’s Personal Information identified below at any time by logging into your account and accessing features to edit your profile and/or account information. Please note that your school and/or district, can view all activity and content associated with your student account, including your Children’s Personal Information.
+We receive and store any information you knowingly provide to us.  For example, we collect Personal Information and Children’s Personal Information, such as your name, email address, school affiliation and a picture (if provided). If you are a student registrant (i.e., you sign up as a student under the age of 13), the only Children’s Personal Information we require is your parent’s email address so we can initiate a parental consent process, as well as non-personal information such as your screen name and password.  Once you are signed up with parental activation, you may also be permitted to create a profile avatar through the functionality of the Services.  If you provide your third-party account login credentials to us, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy.  You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features.  We may anonymize your Personal Information and Children’s Personal Information so that you cannot be individually identified, and provide that information to our partners.  The Children’s Personal Information you provide shall only be used for creating your individual account (which will identify you within the user group(s) for which you have been granted an access code (“Limited Access Group”)), and for sending you notifications. You may modify or remove your Personal Information or Children’s Personal Information identified below at any time by logging into your account and accessing features to edit your profile and/or account information. Please note that your school and/or district, can view all activity and content associated with your student account, including your Children’s Personal Information.
 
 If you have provided us with a means of contacting you, we may use such means to communicate with you. For example, we may send you promotional offers on behalf of Tynker or other businesses (without sharing your Personal Information or Children’s Personal Information), or communicate with you about your use of the Services.  Also, we may receive a confirmation when you open a message from us. This confirmation helps us make our communications with you more interesting and improve our services.  If you do not want to receive communications from us, please do not opt in to such communications or indicate your preference by sending us an email to this effect with your login information to [privacy@tynker.com](mailto:privacy@tynker.com)
 
@@ -32,7 +38,7 @@ B. Information Collected Automatically:
 
           When we collect usage information (such as the numbers and frequency of visitors to the Website), we only use this data in aggregate form, and not in a manner that would identify you personally.  For example, this aggregate data tells us how often users use parts of the Services, so that we can make the Services appealing to as many users as possible.  We may also provide this aggregate information to our partners; our partners may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal experience. We do not disclose aggregate information to a partner in a manner that would identify you personally.
 
-III. Will Tynker Share Any of the Personal Information OR CHILDREN’S PERSONAL INFORMATION it Receives?
+### III. Will Tynker Share Any of the Personal Information OR CHILDREN’S PERSONAL INFORMATION it Receives?
 
 We neither rent nor sell your Personal Information or Children’s Personal Information in personally identifiable form to anyone.  We share your Personal Information and Children’s Personal Information with third parties as described in Section II and in this Section:
 
@@ -48,7 +54,7 @@ E. Protection of Tynker and Others: We reserve the right to access, read, prese
 
 F. With Your Consent: Except as set forth above, you will be notified when your Personal Information or Children’s Personal Information may be shared with third parties in personally identifiable form, and will be able to prevent the sharing of this information.  In the case of Children’s Personal Information, we will first obtain the prior verifiable consent of a parent or legal guardian, or require that the teacher/school do so. 
 
-IV. Is Personal Information OR CHILDREN’S PERSONAL INFORMATION About me Secure?
+### IV. Is Personal Information About me OR CHILDREN’S PERSONAL INFORMATION Secure?
 
 Your account is protected by a password for your privacy and security. If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service.  You must prevent unauthorized access to your account and Personal Information and Children’s Personal Information by selecting and protecting your password and/or other sign-on mechanism appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
 
@@ -56,7 +62,7 @@ We use industry-standard security techniques to protect the privacy of your acco
 
 The Services may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
 
-V. What personal information and children’s personal information can I access?
+### V. What personal information and children’s personal information can I access?
 
 Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us:
 
@@ -76,17 +82,17 @@ To request removal of your Personal Information or Children’s Personal Informa
 
 Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information and Children’s Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties.  If you are a California resident and would like a copy of this notice, if applicable, please submit a written request to: [privacy@tynker.com](mailto:privacy@tynker.com).
 
-VI. What Choices Do I Have?
+### VI. What Choices Do I Have?
 
-          You can always opt not to disclose information to use, but keep in mind some information may be needed to register with us or to take advantage of some of our special features.
+          You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our special features.
 
           You may be able to add, update, or delete information as explained in Section V above.  When you update information, however, we may maintain a copy of the unrevised information in our records.  [You may request deletion of your account by sending an email with instructions.] Please note that some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information and Children’s Personal Information after you update or delete it, but not in a manner that would identify you personally.
 
-VII. Changes to this Privacy Policy
+### VII. Changes to this Privacy Policy
 
 We may amend this Privacy Policy from time to time.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.  If we make changes in the way we use Personal Information or Children’s Personal Information, we will notify you by posting an announcement on our Website or sending you a message, and if necessary, obtain the prior verifiable consent of a parent or legal guardian. You are bound by any changes to the Privacy Policy when you use the Services after such changes have been first posted.
 
-VIII. Questions or Concerns
+### VIII. Questions or Concerns
 
 If you have any questions or concerns regarding our privacy policies, please send us a detailed message to privacy@tynker.com, and we will try to resolve your concerns.
 
@@ -94,9 +100,9 @@ privacy@tynker.com
 
 Tynker
 
-4410 El Camino Real, Suite 104
+280 Hope St
 
-Los Altos, CA 94022
+Mountain View, CA 94041
 
 Phone: (six-five-zero) four-eight-eight one-four-one-one
 
