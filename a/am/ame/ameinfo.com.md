@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024000252id_/https%3A//ameinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621213721id_/https%3A//ameinfo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – AMEInfo – Online Business News Magazine
+# Privacy Policy
 
-This Privacy Policy sets out the policy of Mediaquest FZ LLC of PO Box 72184, Zee Tower, Office 206, Dubai Media City, United Arab Emirates (“AMEinfo.com”), who controls this website (www.orig.orig.ameinfo.com) (“the Website”). The terms of this Privacy Policy apply in addition to the Terms of Use for the Website and any other additional terms that may be provided in connection with any particular service offered on the Website.
+This Privacy Policy sets out the policy of Mediaquest FZ LLC of PO Box 72184, Zee Tower, Office 206, Dubai Media City, United Arab Emirates (“AMEinfo.com”), who controls this website (www.orig.orig.ameinfo.com) (“the Website”). The terms of this Privacy Policy apply in addition to the Terms of Use for the Website and any other additional terms that may be provided in connection with any particular service offered on the Website.
 
 AMEinfo.com keeps log files that include your IP address for statistic and logging of abuse purpose only. Log files are under no circumstances shared with any third party except if required by law or court order by a competent court.
 
@@ -40,60 +40,60 @@ a) Our cookies
 
 We have described the main cookies we use and what we use these for below:
 
-Cookie name | Purpose | More Information  
+Cookie name| Purpose| More Information  
 ---|---|---  
-ame_session | Login for orig.orig.ameinfo.com | http://www.orig.orig.ameinfo.com/privacy/  
-ame_username | To remember a username | http://www.orig.orig.ameinfo.com/privacy/  
-ameinfo_code | To track marketing campaigns, including competitions | http://www.orig.orig.ameinfo.com/privacy/  
-gpoll | To moderate poll activity | http://www.orig.orig.ameinfo.com/privacy/  
+ame_session| Login for orig.orig.ameinfo.com| http://www.orig.orig.ameinfo.com/privacy/  
+ame_username| To remember a username| http://www.orig.orig.ameinfo.com/privacy/  
+ameinfo_code| To track marketing campaigns, including competitions| http://www.orig.orig.ameinfo.com/privacy/  
+gpoll| To moderate poll activity| http://www.orig.orig.ameinfo.com/privacy/  
   
 Additionally on Jobs.orig.orig.ameinfo.com:
 
-Cookie name | Purpose | More Information  
+Cookie name| Purpose| More Information  
 ---|---|---  
-Session_Jobseeker | To remember preferences | http://www.orig.orig.ameinfo.com/privacy/  
-User_WebSite | To remember a username | http://www.orig.orig.ameinfo.com/privacy/  
-Logon_WebSite | Login for orig.orig.ameinfo.com | http://www.orig.orig.ameinfo.com/privacy/  
+Session_Jobseeker| To remember preferences| http://www.orig.orig.ameinfo.com/privacy/  
+User_WebSite| To remember a username| http://www.orig.orig.ameinfo.com/privacy/  
+Logon_WebSite| Login for orig.orig.ameinfo.com| http://www.orig.orig.ameinfo.com/privacy/  
   
 b) Third party cookies
 
-Cookie name | Purpose | More Information  
+Cookie name| Purpose| More Information  
 ---|---|---  
 Webtrends  
 WT.FPC  
-ACOOKIE | WebTrends uses a cookie to track the number of unique users of this website. It basically tells us whether the website has a small number of regular visitors or a large number of infrequent visitors. The cookie only relates to what goes on in this website | http://webtrends.com/privacy-policy/  
+ACOOKIE| WebTrends uses a cookie to track the number of unique users of this website. It basically tells us whether the website has a small number of regular visitors or a large number of infrequent visitors. The cookie only relates to what goes on in this website| http://webtrends.com/privacy-policy/  
 Google Analytics  
 _utma_utmb  
 _utmc  
-_utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | http://www.google.co.uk/intl/en/analytics/privacyoverview.html  
+_utmz| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.| http://www.google.co.uk/intl/en/analytics/privacyoverview.html  
 google.ae  
 NID  
-PREF | A unique identifier used by Google applications to store user preference information | https://www.google.ae/intl/en/policies/  
+PREF| A unique identifier used by Google applications to store user preference information| https://www.google.ae/intl/en/policies/  
 google.com  
 NID  
-PREF | A unique identifier used by Google applications to store user preference information | http://www.google.com/policies/privacy/  
+PREF| A unique identifier used by Google applications to store user preference information| http://www.google.com/policies/privacy/  
 Google  
-devtools | Used by the Google Chrome browser to store user preferences | http://www.google.com/chrome/intl/en/privacy.html  
+devtools| Used by the Google Chrome browser to store user preferences| http://www.google.com/chrome/intl/en/privacy.html  
 OAS 24 / 7 Real Media  
 OAX  
 RMFD  
 NSC_d16efm_qppm_iuuq  
 RMFM  
-OAS_SC1 | A unique identifier used by 24/7 Real Media to store anonymously daily a monthly frequency cap information and count visitors | http://www.247realmedia.com/EN-US/privacy-policy.html  
+OAS_SC1| A unique identifier used by 24/7 Real Media to store anonymously daily a monthly frequency cap information and count visitors| http://www.247realmedia.com/EN-US/privacy-policy.html  
 Effective Measure  
 _em_hl  
 _em_sv  
 _em_v  
-_em_vt | Effective measure is an audience management tool which uses a cookie to track the number of unique users of this website. It basically tells advertisers about the quantity of visitors to the website. The cookie only relates to what goes on in this website | http://www.effectivemeasure.com/privacy-policy/  
+_em_vt| Effective measure is an audience management tool which uses a cookie to track the number of unique users of this website. It basically tells advertisers about the quantity of visitors to the website. The cookie only relates to what goes on in this website| http://www.effectivemeasure.com/privacy-policy/  
 Linkedin  
 NSC_MC_WT_FU_IUUQ  
 X-LI-IDC  
-X-LI-IDC | A unique identifier used by Linkedin to count users who use the Linkedin social media buttons | http://www.linkedin.com/static?key=privacy_policy  
+X-LI-IDC| A unique identifier used by Linkedin to count users who use the Linkedin social media buttons| http://www.linkedin.com/static?key=privacy_policy  
 Twitter  
-pid | A unique identifier used by Twitter to count users who use the Twitter social media buttons | https://twitter.com/privacy  
+pid| A unique identifier used by Twitter to count users who use the Twitter social media buttons| https://twitter.com/privacy  
 doubleclick.net (Google Adwords)  
 id  
-PREF | Google uses the DoubleClick cookie on AdSense sites, partner sites and certain Google services to serve more relevant ads across the web and limit the number of times a given ad is shown to you | http://www.google.com/policies/privacy/ads/#toc-doubleclick  
+PREF| Google uses the DoubleClick cookie on AdSense sites, partner sites and certain Google services to serve more relevant ads across the web and limit the number of times a given ad is shown to you| http://www.google.com/policies/privacy/ads/#toc-doubleclick  
   
 In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether particular content is of interest.
 
@@ -173,27 +173,27 @@ We follow generally accepted industry standards to protect the personal informat
 
 #### Why is my personal information collected?
 
-This notice applies to all information, collected or submitted, on _AME Info_ and applications for iPhone, iPad, iPod, and other devices and platforms, hereafter referred to as simply _AME Info_.
+This notice applies to all information, collected or submitted, on  _AME Info_ and applications for iPhone, iPad, iPod, and other devices and platforms, hereafter referred to as simply  _AME Info_.
 
-_AME Info_ occasionally needs to collect information for convenience, practicality, or technical requirements. This includes:
+ _AME Info  _occasionally needs to collect information for convenience, practicality, or technical requirements. This includes:
 
-  * Your current subscription status and basic information, **not including** credit-card numbers or other payment details.
+  * Your current subscription status and basic information,  **not including** credit-card numbers or other payment details.
   * Anonymous usage statistics.
-  * Information supplied to _AME Info_ by Apple, which may include your name, email address, and ZIP code if you opted into the collection of this information upon subscribing.
+  * Information supplied to  _AME Info  _by Apple, which may include your name, email address, and ZIP code if you opted into the collection of this information upon subscribing.
 
 
 
-Like most websites, _AME Info_ also collects and stores information automatically and through the use of electronic tools that may be transparent to visitors. For example, we may log the name of your Internet Service Provider, your IP address, and information provided by and about your Internet browser. As we adopt additional technology, we may also gather similar information through other means. We may also use “cookie” technology for your convenience as we see fit, such as to keep you logged in between visits if we add a login feature.
+Like most websites,  _AME Info  _also collects and stores information automatically and through the use of electronic tools that may be transparent to visitors. For example, we may log the name of your Internet Service Provider, your IP address, and information provided by and about your Internet browser. As we adopt additional technology, we may also gather similar information through other means. We may also use “cookie” technology for your convenience as we see fit, such as to keep you logged in between visits if we add a login feature.
 
 We use Emarsys to manage our mailing list. Emarsys says this about its usage of information about our subscribers:
 
-_Your subscriber lists are stored on a secure_ Emarsys _server. We don’t, under any circumstances, sell your lists, contact people on your lists, market to people on your lists, steal your lists, or share your lists with any other party, unless it’s required by law. If someone on your list complains or contacts us, we may then contact that person. Only authorized employees have access to view Distribution Lists._
+ _Your subscriber lists are stored on a secure  _Emarsys _  server. We don’t, under any circumstances, sell your lists, contact people on your lists, market to people on your lists, steal your lists, or share your lists with any other party, unless it’s required by law. If someone on your list complains or contacts us, we may then contact that person. Only authorized employees have access to view Distribution Lists._
 
 #### How is my personal information used?
 
-We use the information you provide to operate _AME Info_ and its various features.
+We use the information you provide to operate  _AME Info_ and its various features.
 
-We use non-identifying and aggregate information to better design _AME Info_. For instance, we may make feature decisions based on the percentage of our readership using a certain device or operating system.
+We use non-identifying and aggregate information to better design  _AME Info_. For instance, we may make feature decisions based on the percentage of our readership using a certain device or operating system.
 
 We may also share non-identifying and aggregate statistics with potential future advertisers and partners. For instance, we may tell an advertiser or partner how many people visited a certain area on our website, used a certain feature of the application, or viewed a certain issue or article. When information is used in this or a similar manner, we do not disclose anything that could be used to identify the individuals on whom the information is based.
 
@@ -205,25 +205,25 @@ In the future, we may sell, buy, merge, or partner with other companies or busin
 
 #### External Services
 
-External services beyond _AME Info_ ‘s control are integrated with _AME Info_ where necessary, such as [Google Analytics](https://www.google.com/analytics/) for traffic measurement and tracking. _AME Info_ makes reasonable efforts to ensure that all integrated external services are trustworthy and reputable, but we cannot be held responsible for data collection and usage by such services.
+External services beyond  _AME Info_ ‘s control are integrated with  _AME Info_ where necessary, such as [Google Analytics](https://www.google.com/analytics/) for traffic measurement and tracking.  _AME Info_ makes reasonable efforts to ensure that all integrated external services are trustworthy and reputable, but we cannot be held responsible for data collection and usage by such services.
 
-**Will Mediaquest sell or give my personal information to third parties?**
+ **Will Mediaquest sell or give my personal information to third parties?**
 
-We do not share this information with outside parties except to the extent necessary to accomplish _AME Info_ ‘s functionality.
+We do not share this information with outside parties except to the extent necessary to accomplish  _AME Info_ ‘s functionality.
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-**How does Mediaquest protect my personal information?**
+ **How does Mediaquest protect my personal information?**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-**How do I unsubscribe from Mediaquest communications I no longer wish to receive?**
+ **How do I unsubscribe from Mediaquest communications I no longer wish to receive?**
 
-**Marketing provided by Mediaquest.** From time to time we may send you promotional materials on behalf of Mediaquest and/or third parties. You shall receive emails according the preference selected in your account. You can opt for daily, weekly or catagorised news at point of registration. __ If you want us to stop sending you promotional materials to your email, you may follow the unsubscribe instructions in the email or manage your preferences at [E](http://hearst.ed4.net/profile/login.cfm)marsys.
+ **Marketing provided by Mediaquest.** From time to time we may send you promotional materials on behalf of Mediaquest and/or third parties. You shall receive emails according the preference selected in your account. You can opt for daily, weekly or catagorised news at point of registration. _ _ If you want us to stop sending you promotional materials to your email, you may follow the unsubscribe instructions in the email or manage your preferences at [E](http://hearst.ed4.net/profile/login.cfm)marsys.
 
-**Exceptions.** If you have opted-out as described above, and thereafter you elect to use a service or promotion that requires us to contact you or share your information with a third party (e.g., you enter into a contest or sweepstakes or use an ecommerce service after opting-out), then your previous opt-out preferences will not apply to such service. Despite your indicated preferences, we may send you service-related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provider Exception, Legal Exceptions, and Acquisition Exception described above.
+ **Exceptions.** If you have opted-out as described above, and thereafter you elect to use a service or promotion that requires us to contact you or share your information with a third party (e.g., you enter into a contest or sweepstakes or use an ecommerce service after opting-out), then your previous opt-out preferences will not apply to such service. Despite your indicated preferences, we may send you service-related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provider Exception, Legal Exceptions, and Acquisition Exception described above.
 
-**Device Settings.** Our digital applications may provide you alerts and you can change your preferences regarding these alerts through your device settings.
+ **Device Settings.** Our digital applications may provide you alerts and you can change your preferences regarding these alerts through your device settings.
 
 #### How can I contact Mediaquest if I have a privacy question or complaint?
 
@@ -231,15 +231,15 @@ If you have any concerns or questions about any aspect of this policy, you may c
 
 Mediaquest Corp
 
-Address: ​P.O. BOX 72184 Dubai Media City, Zee Tower, Office 206 | United Arab Emirates
+Address: P.O. BOX 72184 Dubai Media City, Zee Tower, Office 206 | United Arab Emirates
 
 T: +971 4 446 53 01 | F: +971 4 390 87 37
 
-Email: [info@mediaquestcorp.com](mailto:info@mediaquestcorp.com)
+Email: [info@mediaquestcorp.com](mailto:info@mediaquestcorp.com)
 
-**How will I know if the Privacy Policy has been updated?**
+ **How will I know if the Privacy Policy has been updated?**
 
-_AME Info_ reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of _AME Info_ following the posting of changes to this policy will mean you accept those changes.
+ _AME Info_ reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of  _AME Info_ following the posting of changes to this policy will mean you accept those changes.
 
 #### Send content to a colleague
 
