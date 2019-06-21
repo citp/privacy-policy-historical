@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cityvisitor.co.uk privacy policy that was archived on 2018-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181126032818id_/http%3A//www.cityvisitor.co.uk/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cityvisitor.co.uk privacy policy that was archived on 2019-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190621232258id_/http%3A//www.cityvisitor.co.uk/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   <title>Privacy Policy | Cityvisitor</title>  <meta charset="utf-8">
@@ -243,13 +243,13 @@
          <li><a href="http://www.facebook.com/pages/Cityvisitor/136792073056466" target="_blank" class="facebook">Facebook</a></li>
          <li><a href="http://www.twitter.com/cityvisitoruk" target="_blank" class="twitter">Twitter</a></li>
          <!-- li><a href="http://www.youtube.com/cityvisitoruk" target="_blank" class="youtube">Youtube</a></li -->
-         <li><a href="https://plus.google.com/b/102530998139420512625/102530998139420512625/posts" target="_blank" class="googleplus">Google+</a></li>
+         <!-- li><a href="https://plus.google.com/b/102530998139420512625/102530998139420512625/posts" target="_blank" class="googleplus">Google+</a></li -->
        </ul>
      </div>
    </div>
    <div class="col-full">
     <p>Infoserve Limited.  Registered Office: South Side Aviation, Leeds Bradford International Airport, Leeds, West Yorkshire, LS19 7UG<br>Customer Services: +44 (0)845 36 77 400 &lt;<a href="mailto:customerservices@infoserve.com">customerservices@infoserve.com</a>&gt;.  Infoserve Limited. Registered in England and Wales, Number 3867903<br><br>
-     © 2000 - 2018 Infoserve Ltd. All Rights Reserved. cityvisitor.co.uk is an online trading name of Infoserve Limited.</p>
+     © 2000 - 2019 Infoserve Ltd. All Rights Reserved. cityvisitor.co.uk is an online trading name of Infoserve Limited.</p>
    </div>
  </div>
 </div>
@@ -316,10 +316,55 @@
         domain: 'www.cityvisitor.co.uk',
         referrer: 'www.cityvisitor.co.uk'
       });
+
+        $( "#business-select" ).submit(function( e ) {
+            var $captcha = $( '#recaptcha' ),
+                response = grecaptcha.getResponse();
+
+            if (response.length === 0) {
+                e.preventDefault();
+                $( '.msg-error').text( "reCAPTCHA is mandatory" );
+                //$( '.msg-error').show();
+                if( !$captcha.hasClass( "error" ) ){
+                  //$captcha.addClass( "error" );
+                }
+            } else {
+                $( '.msg-error' ).text('');
+                $captcha.removeClass( "error" );
+                //alert( 'reCAPTCHA marked' );
+            }
+        });
+
+
+        if ( $( "#search_postcode" ).length ) {
+
+            var searchpostcode =  $( "#search_postcode").val();
+
+            $( "#nonFormattedPostcode").val(searchpostcode);
+
+
+        };
+
     });
   </script>
 
+<!-- Google reCAPTCHA styling -->
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+<style>
+    .msg-error {
+        color: #c65848;
+    }
+    .g-recaptcha.error {
+        border: solid 2px #c64848;
+        padding: .2em;
+        clear: both;
+        margin-left: 66px;
+    }
+    #recaptcha div:first-child  {
+        margin-left: 66px;
 
+    }
+</style>
 
 
 </body></html>
