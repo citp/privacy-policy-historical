@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babeindex.dk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230085414id_/http%3A//pornmaki.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babeindex.dk privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621231428id_/http%3A//pornmaki.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
