@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpn.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231035811id_/http%3A//www.xpn.org/about-xpn/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpn.org privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621214443id_/http%3A//xpn.org/about-xpn/privacy) for the most accurate reproduction.*
 
 # Privacy
 
