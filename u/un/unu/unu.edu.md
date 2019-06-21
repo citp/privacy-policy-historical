@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unu.edu privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927082300id_/https%3A//unu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unu.edu privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621184828id_/https%3A//unu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - United Nations University
 
