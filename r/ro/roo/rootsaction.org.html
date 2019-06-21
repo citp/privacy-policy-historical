@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rootsaction.org privacy policy that was archived on 2018-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181119112630id_/https%3A//www.rootsaction.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rootsaction.org privacy policy that was archived on 2019-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190621034005id_/https%3A//rootsaction.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
   <base href="https://rootsaction.org/privacy-policy">
@@ -11,7 +11,7 @@
   <meta name="description" content="Updated 1/18/2011 Roots Action, the primary website operated by Action for a Progressive Future (APF), is committed to protecting the privacy and security">
   <title>Privacy Policy - RootsAction</title>
   <link href="/templates/rootsaction/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
   <script type="text/javascript">
 	JXLang={INVALID_NAME_TXT:"Comments_Comment_Name_Invalid",INVALID_EMAIL_TXT:"Comments_Comment_Email_Invalid",INVALID_BODY_TXT:"Comments_Comment_Body_Invalid",BOLD:"Comments_Bold",ITALIC:"Comments_Italic",UNDERLINE:"Comments_Underline",STRIKETHROUGH:"Comments_Strikethrough",QUOTE:"Comments_Quote",IMAGE:"Comments_Image",ENTER_IMAGE:"Comments_Enter_Image",ENTER_LINK:"Comments_Enter_Link",LINK:"Comments_Link",LINK_TEXT:"Comments_Link_Text",ENTER_LANG:"Comments_Enter_Lang",CODE:"Comments_Code"};
@@ -58,60 +58,22 @@ makeTransBg($$('img'));
 
 
 
+<!-- Google Analytics -->
 <script type="text/javascript">
-var _gaq = _gaq || [];
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-_gaq.push(
-	['_setAccount', 'UA-20056487-1'],
-	['_setSessionCookieTimeout', '3600000'],
-	['_setDomain', 'auto'],
-	['_setCustomVar', 1, 'User Type', 'Anonymous', 2],
-	['_setCustomVar', 2, 'Username', 'Anonymous', 2],
-	['_trackPageview']
-);
+ga('create', 'UA-20056487-1', 'auto', {'allowLinker': true});
+ga('require', 'ec');
 
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
 
-window.addEvent('domready', function() {
-	if (_gaq) {
-	$$('a').each(function(el) {
-		el.addEvent('click', function() {
-				var port = -1 == el.host.lastIndexOf(":") ? el.host.length : el.host.lastIndexOf(":");
-				var host = el.host.slice(0, port)
-				if (el.protocol == 'mailto:') {
-					var label = (el.title) ? el.title : el.href.replace(/mailto:/i, '');
-					_gaq.push(['_trackEvent', 'Email', 'Contact', label]);
-				} else if (host != document.location.host) {
-					var label = (el.title) ? el.title : el.href;
-					_gaq.push(['_trackEvent', 'External', 'Exit', label]);
-				}
 
-				var ext   = el.pathname.substr(el.pathname.lastIndexOf(".")+1, el.pathname.length);
-				var label = (el.title) ? el.title : el.pathname.replace(/^\//,'');
-				if (ext.match(/(bmp|csv|doc|epg|gif|ico|jpg|odg|odp|ods|odt|pdf|png|ppt|swf|txt|xcf|zip|gz|tar|exe)/i)) {
-					_gaq.push(['_trackEvent', 'Download', ext, label]);
-				}
-			}.bind(this));
-		});
-	}
-});
+ga('send', 'pageview');
 
-window.addEvent('domready', function() {
-	if(_gaq) {
-		$$('a.modal').each(function(el) {
-			el.addEvent('click', function() {
-				var label = (el.title) ? el.title : el.pathname;
-				_gaq.push(['_trackEvent', 'Pop-Up', 'View', label]);
-			}.bind(this));
-		});
-	}
-});
 </script>
-</head>
+<!-- End Google Analytics --></head>
 
 <body id="bd" class="ff-helvetica ">
 <a name="Top" id="Top"></a>
@@ -244,7 +206,7 @@ window.addEvent('domready', function() {
 			<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="field text" type="text" size="20" value="" onblur="if(this.value=='') this.value='';" onfocus="if(this.value=='') this.value='';"><button type="submit" class="button" onclick="this.form.searchword.focus();"><span>Search</span></button>		
 		<input type="hidden" name="task" value="search">
 		<input type="hidden" name="option" value="com_search">
-		<input type="hidden" name="Itemid" value="1">
+		<input type="hidden" name="Itemid" value="11">
 		
 	</form>
 
@@ -258,12 +220,11 @@ window.addEvent('domready', function() {
  
 <div class="mod mod-dn">
 <ul class="mod-list mod-dnList mod-listPlain mod-dnListPlain">
-	<li class="mod-item dn-item mod-itemPlain dn-itemPlain item-1"><div class="item-cntr"><a href="/news-a-views/1920-in-yemen-trumps-america-first-has-morphed-into-saudi-first" class="item-titleLink dn-titleLink">In Yemen, Trump's 'America First' Has Morphed Into 'Saudi First'</a><p>Human rights activists, aid workers, and members of Congress welcomed Friday’s news that the Trump Administration would finally end refueling of the Saudi coalition in Yemen.</p>
-<a href="/news-a-views/1920-in-yemen-trumps-america-first-has-morphed-into-saudi-first" class="item-readon dn-readon"><span>more</span></a><div class="clear"></div></div></li>
-	<li class="mod-item dn-item mod-itemPlain dn-itemPlain item-2"><div class="item-cntr"><a href="/news-a-views/1919-undocumented-black-migrants-build-an-informal-organizing-network" class="item-titleLink dn-titleLink">Undocumented Black Migrants Build an Informal Organizing Network</a><p>The truth became clear to Sadat Ibrahim early. At the age of 18, he knew his life would be difficult as a <a href="https://www.hrw.org/report/2018/01/08/no-choice-deny-who-i-am/violence-and-discrimination-against-lgbt-people-ghana"> queer person in Ghana</a>.</p>
-<a href="/news-a-views/1919-undocumented-black-migrants-build-an-informal-organizing-network" class="item-readon dn-readon"><span>more</span></a><div class="clear"></div></div></li>
-	<li class="mod-item dn-item mod-itemPlain dn-itemPlain item-3"><div class="item-cntr"><a href="/news-a-views/1918--how-yemeni-immigrant-activists-in-nyc-are-changing-a-whole-communitys-mindset" class="item-titleLink dn-titleLink"> How Yemeni Immigrant Activists in NYC Are Changing a Whole Community’s Mindset</a><p>Riyadh Alhirdi is trying not to cry. He’s sitting in the Yemeni American Merchants Association’s (YAMA) new offices in Bay Ridge, Brooklyn, explaining the convoluted process of procuring asylum for his wife and five children.</p>
-<a href="/news-a-views/1918--how-yemeni-immigrant-activists-in-nyc-are-changing-a-whole-communitys-mindset" class="item-readon dn-readon"><span>more</span></a><div class="clear"></div></div></li>
+	<li class="mod-item dn-item mod-itemPlain dn-itemPlain item-1"><div class="item-cntr"><a href="/news-a-views/2053-what-survives-genocide" class="item-titleLink dn-titleLink">What Survives Genocide?</a>Jeffrey Ostler’s <em>Surviving Genocide: Native Nations and the United States from the American Revolution to Bleeding Kansas</em>, tells a complex, honest, and nuanced story of what overall and in many particular parts fits the UN definition of and the popular conception of genocide.<br><a href="/news-a-views/2053-what-survives-genocide" class="item-readon dn-readon"><span>more</span></a><div class="clear"></div></div></li>
+	<li class="mod-item dn-item mod-itemPlain dn-itemPlain item-2"><div class="item-cntr"><a href="/news-a-views/2052-nyt-readers-call-out-the-newspaper-for-abetting-war-against-iraq-and-now-iran" class="item-titleLink dn-titleLink">‘NYT’ readers call out the newspaper for abetting war against Iraq and now Iran</a><p>The <em>New York Times</em> is out again this morning and the newspaper that so tarnished its reputation by drumming the march to war in Iraq 17 years ago hasn’t learned its lessons. The scorecard on the paper’s offerings on Iran today is miserable:</p>
+<a href="/news-a-views/2052-nyt-readers-call-out-the-newspaper-for-abetting-war-against-iraq-and-now-iran" class="item-readon dn-readon"><span>more</span></a><div class="clear"></div></div></li>
+	<li class="mod-item dn-item mod-itemPlain dn-itemPlain item-3"><div class="item-cntr"><a href="/news-a-views/2051-when-america-had-an-open-prison--the-story-of-kenyon-scudder-and-his-prison-without-walls" class="item-titleLink dn-titleLink">When America Had an Open Prison – the Story of Kenyon Scudder and His 'Prison Without Walls'</a><p class="following-header">The California Institution for Men is an important reminder that the U.S. practiced in the past what prison reformers admire as humanistic punishment elsewhere.</p>
+<a href="/news-a-views/2051-when-america-had-an-open-prison--the-story-of-kenyon-scudder-and-his-prison-without-walls" class="item-readon dn-readon"><span>more</span></a><div class="clear"></div></div></li>
 </ul>
 
 </div>
@@ -283,7 +244,7 @@ window.addEvent('domready', function() {
 		
 		
 		
-	<div class="item-text nf-text"><p>"If we do not organize the great grassroots, we are doomed to be under the total control of corporate America. We have regressed to the days of the robber barons in the early last century -- but this time, these corporate thieves own and control the mass media. We need to organize to prevent an invasion of Iran and to extract ourselves from Iraq and Afghanistan. And we must begin to take care of our citizens." <span class="by">- Former U.S. Senator Jim Abourezk, early endorser of RootsAction.org</span></p></div>
+	<div class="item-text nf-text">Millions of well-informed Americans are ready for RootsAction – thanks to the Internet-powered boom in independent U.S. media that expose a bipartisan foreign policy of endless war and corporate dominance over both parties. For those who get their news from <em>independent</em> media, RootsAction offers <em>independent</em> online activism.&nbsp; <span class="by">-- Jeff Cohen, Roots Action board member and founder of FAIR</span></div>
 	
 		
 	<div class="clear"></div>
@@ -324,14 +285,14 @@ window.addEvent('domready', function() {
 			<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="field text" type="text" size="20" value="" onblur="if(this.value=='') this.value='';" onfocus="if(this.value=='') this.value='';"><button type="submit" class="button" onclick="this.form.searchword.focus();"><span>Search</span></button>		
 		<input type="hidden" name="task" value="search">
 		<input type="hidden" name="option" value="com_search">
-		<input type="hidden" name="Itemid" value="1">
+		<input type="hidden" name="Itemid" value="11">
 		
 	</form>
 
 </div></div>
 	</div>
 	</div>
-			<a href="http://www.soapboxengage.com" target="_blank" style="display:block;clear:both;float:right;"><img src="https://rootsaction.org/templates/rootsaction/images/poweredbyNPSB.png"></a>
+			<a href="http://www.soapboxengage.com" target="_blank" style="display:block;clear:both;float:right;"><img src="https://rootsaction.org/templates/rootsaction/images/poweredbyNPSB.png" alt="Powered by Soapbox Engage"></a>
 		</div>
 	</div>
 	<!-- !END: FOOTER -->	
