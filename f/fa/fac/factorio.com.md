@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factorio.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229090439id_/https%3A//www.factorio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factorio.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622004135id_/https%3A//www.factorio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Factorio
 
@@ -168,7 +168,7 @@ Registered Seat: 3 Gower Street, London, WC1E 6HA
 
     * We will be sending our newsletter in reasonable intervals to make you curious rather than annoyed.
 
-  * Your demands and questions concerning our mailing activities are always welcomed at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#96e5e3e6e6f9e4e2d6f0f7f5e2f9e4fff9b8f5f9fb). Do not hesitate to contact us if you need anything. 
+  * Your demands and questions concerning our mailing activities are always welcomed at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5f2c2a2f2f302d2b1f393e3c2b302d3630713c3032). Do not hesitate to contact us if you need anything. 
 
 
 
