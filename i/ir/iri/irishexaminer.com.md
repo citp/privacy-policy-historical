@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the irishexaminer.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221055629id_/https%3A//www.irishexaminer.com/breakingnews/ireland/confidentiality-and-privacy-policy-830432.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishexaminer.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621234132id_/https%3A//www.irishexaminer.com/breakingnews/ireland/confidentiality-and-privacy-policy-830432.html) for the most accurate reproduction.*
 
-# Confidentiality and Privacy Policy | Irish Examiner
+# Confidentiality and Privacy Policy
 
-Your privacy is important to The Irish Examiner  and maintaining your trust is paramount to us. We are fully committed to keeping your personal information safe. This privacy policy is intended to provide you with information about the personal information we collect and how that information is used and shared.  We collect personal information about you when you access this website or other websites controlled by us or by a company within our group or when you use any of our products, applications or services (collectively our “Services”). This document also outlines our approach to compliance with the General Data Protection Regulation (GDPR) and all other relevant data-protection legislation.  It also sets forth your privacy rights. Please take a moment to familiarise yourself with our privacy practices.
+**Data Protection & Privacy Policy**
 
-Throughout this privacy policy, “we” “us” and “ours” refers to Landmark Media Investments Limited and its subsidiaries. Landmark Media Investments Ltd. is a registered company located at 2nd Floor, Linn Dubh, Assumption Road, Blackpool Cork.  Companies within our group include, but are not limited to, Landmark Media Limited, The Irish Examiner. [irishexaminer.com](http://irishexaminer.com/) the Evening Echo, [eveningecho.ie](http://eveningecho.ie/). [breakingnews.ie](http://breakingnews.ie/), recruitIreland.ie, [benchwarmers.ie](http://benchwarmers.ie/), the Laois Nationalist, Kildare Nationalist, Carlow Nationalist, Western People; Waterford News and Star, the Roscommon Herald, and radio stations Beat 102-103 and WLR FM.
+ **This privacy policy is effective as and from June 7, 2019**
+
+Your privacy is important to The Irish Examiner  and maintaining your trust is paramount to us. We are fully committed to keeping your personal information safe. This privacy policy is intended to provide you with information about the personal information we collect and how that information is used and shared.
+
+We collect personal information about you when you access this website or other websites controlled by us or by a company within our group or when you use any of our products, applications or services (collectively our “Services”). This document also outlines our approach to compliance with the General Data Protection Regulation (GDPR) and all other relevant data-protection legislation.  It also sets forth your privacy rights. Please take a moment to familiarise yourself with our privacy practices.
+
+Throughout this privacy policy, “we” “us” and “ours” refers to the Examiner Group and its subsidiaries. The Examiner Group is a registered company located at 2nd Floor, Linn Dubh, Assumption Road, Blackpool Cork.  Companies within our group include, but are not limited to The Irish Examiner, [ The Echo, ](http://irishexaminer.com/)[echolive.ie](http://echolive.ie/). [breakingnews.ie](http://breakingnews.ie/), [RecruitIreland.com](https://www.recruitireland.com/), [benchwarmers.ie](http://benchwarmers.ie/), the Laois Nationalist, Kildare Nationalist, Carlow Nationalist, Western People; Waterford News and Star, the Roscommon Herald, and radio stations Beat 102-103 and WLR FM.
 
 It is important that you read this privacy policy together with any other privacy policy we may provide on specific occasions so that you are fully aware of how and why we are using your data. This privacy policy supplements the other notices and is not intended to override them.
 
@@ -12,7 +18,15 @@ We value your opinions.  Should you have any questions or comments related to t
 
  **We may update this privacy policy from time to time. If we make changes, we will notify you prior to the changes taking effect by posting a notice on our websites and, where appropriate, sending you a notification.**
 
+ **Data protection  **
+
 We have appointed an internal data protection team for you to contact if you have any questions regarding this privacy policy, our privacy practices or if you wish to exercise your data rights.  The data protection team can be reached by email at [dataprotection@landmarkmedia.ie](mailto:dataprotection@landmarkmedia.ie).
+
+ **Information we collect and how we use it**
+
+We collect and use your personal information for a variety of reasons including:
+
+ **If you register, purchase or subscribe to one of our Services**
 
  **To create an account with us**
 
@@ -36,13 +50,33 @@ We may process your personal information if you opt to place an advertisement. W
 
  **To deliver marketing, promotions and to conduct research**
 
-**To receive marketing communications**
+ **To receive marketing communications**
 
 We may periodically send promotional emails about features, events, exclusive offers and competitions to the email address you have provided – **  we will only do so with your consent**. We have an interest in making sure our marketing is relevant for you, so we may process your information to send you marketing communications tailored to your interests. You may at any time choose not to receive marketing communications from us by following the unsubscribe instructions included at the end of each email communication.  
 
  **For competition and promotional purposes**
 
-We regularly run competitions or similar promotions. If you choose to enter a competition or promotion, we will use your personal information to administer these promotions and as per the terms and conditions you accept when you enter. In some cases, your competition entry may be shared with the promoter and this will be specified when you enter.  If you win a competition, your contact information will be used to notify you as the winner and to award the relevant prize. We will publish your name on our website and indicate the prize you have won.  
+We regularly run competitions or similar promotions. If you choose to enter a competition or promotion, we will use your personal information to administer these promotions and as per the terms and conditions you accept when you enter. In some cases, your competition entry may be shared with the promoter and this will be specified when you enter.  If you win a competition, your contact information will be used to notify you as the winner and to award the relevant prize. We will publish your name on our website and indicate the prize you have won. 
+
+**To deliver our content to you**
+
+ **To participate in a survey or poll**
+
+We conduct surveys and polls that we use to produce original research from our readers. Your participation is entirely voluntary. You may consent to the Examiner Group contacting you at the email address provided to participate in this research. We do not track individuals but look at the information in the aggregate.  Any opinion you express, therefore, is anonymous.
+
+From time to time, upon completing a survey or poll, we may ask for your email address for competition, promotional or gifting purposes. Participation is entirely voluntary and this information is processed and stored separately from the information you provide us for the survey or poll. Where you provide this information to us, it will be processed only to administer the competition or promotion.
+
+ **To provide you with an email newsletter**
+
+We offer all readers access to a number of email newsletters. We will only send you these newsletters with your explicit consent.  We collect and use your information to send you the newsletter(s) you have requested and in some cases to personalise the email we send. You can opt out at any time by unsubscribing at the bottom of each email newsletter communication.  
+
+ **To share our content**
+
+We provide tools that enable users of our services to share or forward our content to a nominated email address. If someone else shares our content with you, we may temporarily collect your email address for the purpose of sharing the requested content. We will only use this information to fulfil the sharing request and this contact information is not retained by us.
+
+ **To recommend content**
+
+We may use aggregate information we collect about you to suggest and recommend tailored content. This processing is necessary for the purpose of our legitimate interest in delivering relevant content to our readers.  You have the right to object to this processing, and if you wish to do so please contact us at [dataprotection@landmarkmedia.ie](mailto:dataprotection@landmarkmedia.ie)
 
  **To understand how you use our services**
 
@@ -52,7 +86,7 @@ We collect information relating to your use of our services to track how you gai
 
 When you sign up for or subscribe to one of our services, we will track and aggregate non-personal information previously collected about you through our services with the personal information provided when you register or subscribe. If we link other data with your personal information we will treat that linked data as personal information for as long as it remains combined. We use this information to evaluate your personal preferences and interests, which under the GDPR may constitute as customer profiling. We do so in pursuit of our legitimate interests which are:
 
-\- To research and improve Landmark Media’s products, services, and customer communications
+\- To research and improve the Examiner Group's products, services, and customer communications
 
 \- To understand which content you find useful or interesting
 
@@ -90,19 +124,17 @@ We may invite you to submit your personal information by applying for a job or b
 
  **To apply for a job with us**
 
-If you apply for a job within Landmark Media Group, you may provide us with certain personal information about yourself. We will use this information for the purpose of processing and responding to your application, to assess your suitability as a potential candidate and for current and future career opportunities.
+If you apply for a job within The Examiner Group, you may provide us with certain personal information about yourself. We will use this information for the purpose of processing and responding to your application, to assess your suitability as a potential candidate and for current and future career opportunities.
 
  **To attend one of our events**
 
 We host many events throughout the year. These include but are not limited to breakfast briefings, live content events, live lectures, podcast recordings, training, conferences and seminars. If you register for one of our events, we will collect personal information from you. We will use your information to register for the event, process your payment and provide you with information and services associated with the event. In some cases, we make audio or video recordings of these events and we may record information about you as a consequence. We will always inform you if the event is being recorded so that you can choose not to participate if wish. Registration for our events is voluntary. Once you register, however, we process your personal information as per the terms and conditions of that specific event and on the lawful processing ground of contract.
 
- **Other:**
-
- **To monitor our premises with CCTV camera surveillance**
+ **Other: To monitor our premises with CCTV camera surveillance**
 
 Our premises at Assumption Road, Blackpool, Cork are monitored by CCTV security cameras. CCTV notices are on display outside our building to inform you of our practices and to give you advance notice of any recording.  
 
-We are processing CCTV video surveillance data generally without your consent in pursuit of our legitimate interests to protect the rights, property and safety of Landmark Media DAC and the rights, property and safety of our employees or others.  The CCTV surveillance information we collect may be shared with An Garda Síochána or other third parties where we are required to do so by law.  
+We are processing CCTV video surveillance data generally without your consent in pursuit of our legitimate interests to protect the rights, property and safety of the Examiner Group and the rights, property and safety of our employees or others.  The CCTV surveillance information we collect may be shared with An Garda Síochána or other third parties where we are required to do so by law.  
 
  **To correspond with you**
 
@@ -184,7 +216,7 @@ We process personal information for the following legitimate business purposes:
 
 \- To determine the effectiveness of promotional campaigns, email campaigns and advertising
 
-\- To research and improve Landmark Media’s products, services, and customer communications
+\- To research and improve the Examiner Group's products, services, and customer communications
 
 \- To ensure content from our site and mobile applications is presented in the most effective manner for you and for your device
 
@@ -192,17 +224,17 @@ We process personal information for the following legitimate business purposes:
 
 \- To protect you against fraud and to detect, prevent, investigate security or technical issues to ensure our Services are secure
 
-\- To protect the rights, property and safety of Landmark Media or the rights, property or safety of our employees or others
+\- To protect the rights, property and safety of the Examiner Group or the rights, property or safety of our employees or others
 
 \- To understand the demographics of our customers and readers
 
-\- To send direct marketing to our subscribers or former subscribers.  
+\- To send direct marketing to our subscribers or former subscribers. 
 
- **When and how your information is shared:**
+**When and how your information is shared:**
 
  **Within our group**
 
-We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries and use it in a manner that is consistent with this privacy policy. 
+We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries and use it in a manner that is consistent with this privacy policy.
 
  **With third parties**
 
@@ -220,6 +252,10 @@ We provide certain services and run promotions in conjunction with third parties
 
 We disclose non-personally identifiable anonymous information to third-party advertisers to help them reach the kind of audience they want to target. We share summary aggregate reports for our advertisers to measure the effectiveness of the ads they have served. These advertising parties may combine the information we send with other information that you’ve provided to them or that they’ve collected from your use of their services.
 
+We use services offered by Inskin Media Ltd, 233 - High Holborn, London, WC1V 7DN, UK. Inskin works with limited third-party service providers for reach assessment and broad targeting. To Opt-Out of these services please see <http://www.inskinmedia.com/opt-out.html>.
+
+Inskin Media may collect information about the adverts that you view while browsing our partners’ websites. Inskin uses IP address for fraud detection and broad geographical targeting and, unique user ID to approximate the number of unique users in our network. For this purpose, most of our data processing takes place within the EU and limited data in the USA. For more information please see <http://www.inskinmedia.com/privacy-policy.html>.
+
  **Independent auditors**
 
 We may share your personal data with a third-party auditing organisation (ABC) in accordance with our legitimate interests to verify aggregated statistics about circulation and usage of our products or to review our policies, processes and procedures for compliance with relevant standards.
@@ -230,7 +266,7 @@ If you apply for a job posting on our “Recruit Ireland” website, or if you e
 
  **Social networking sites**
 
-Our website and mobile applications use interfaces with social media sites such as Facebook, LinkedIn, Twitter and others. If you choose to like or share information from our sites through these services, you should review the privacy policy of that service. If you are a member of a social media site and logged in, the interfaces configured on our Services allow the social media site to connect your site visit and browsing behaviour to the personal data held on your social media site. Landmark Media can use this information on an aggregate basis to place ads that are based on your interests on these social media sites. These practices are governed by the privacy statements of these social networking sites and you are advised to review these separately.
+Our website and mobile applications use interfaces with social media sites such as Facebook, LinkedIn, Twitter and others. If you choose to like or share information from our sites through these services, you should review the privacy policy of that service. If you are a member of a social media site and logged in, the interfaces configured on our Services allow the social media site to connect your site visit and browsing behaviour to the personal data held on your social media site. The Examiner Group can use this information on an aggregate basis to place ads that are based on your interests on these social media sites. These practices are governed by the privacy statements of these social networking sites and you are advised to review these separately.
 
  **Data storage and retention**
 
@@ -272,7 +308,7 @@ Where we need to collect personal data by law, or under the terms of a contract 
 
  **Processing for journalistic purposes**
 
-As a news publishing organisation, Landmark Media processes personal data for the purpose of exercising the right to freedom of expression and information and for journalistic purposes. This processing is exempt from compliance with certain obligations of the GDPR.
+As a news publishing organisation, the Examiner Group processes personal data for the purpose of exercising the right to freedom of expression and information and for journalistic purposes. This processing is exempt from compliance with certain obligations of the GDPR.
 
 \- We may process your personal information for journalistic purposes where you submit content to be published online and in our printed publications
 
