@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darden.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925025215id_/https%3A//darden.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darden.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621095631id_/https%3A//www.darden.com/privacy-notice) for the most accurate reproduction.*
 
 # Online Privacy Notice - Your Privacy Rights | Darden Restaurants
 
