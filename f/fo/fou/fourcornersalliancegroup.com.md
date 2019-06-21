@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourcornersalliancegroup.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221212726id_/https%3A//www.fourcornersalliancegroup.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourcornersalliancegroup.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621040422id_/http%3A//www.fourcornersalliancegroup.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Four Corners Alliance Group
 
@@ -24,7 +24,7 @@ When you place an order for products or services, we collect Personally Identifi
 
 ##### C. Credit Card Storage
 
-Credit card information collected at registration or for product orders is used only to process payment for the transaction and, generally, is not retained on our Site. However, you may voluntarily elect to securely store multiple credit cards to be used for product orders. 
+We do not collect order for information, or store credit card information at fourcornersalliancegroup.com as we use 3rd party payment processors. 
 
 ##### D. Surveys and Promotions
 
@@ -32,13 +32,13 @@ Occasionally, you may voluntarily provide Personally Identifiable Information to
 
 ##### 2\. Aggregate Information
 
-This refers to information that does not, by itself, identify you as a specific individual. Such information would include the Uniform Resource Locator (“URL”) of the website that referred you to our Site, your Internet Protocol (“IP”) address (a number automatically assigned to your computer whenever you surf the web), your operating system and browser type, and any search terms that you enter on our Site. Our web server aggregates this information in order to monitor the level of activity on our Site, evaluate its effectiveness, and improve the content or our Site in order to make your visit an easy and enjoyable experience. 
+This refers to information that does not, by itself, identify you as a specific individual. Such information would include the Uniform Resource Locator (“URL”) of the website that referred you to our Site, your Internet Protocol (“IP”) address (a number automatically assigned to your computer whenever you surf the web), your operating system and browser type, and any search terms that you enter on our Site. Our web server aggregates this information in order to monitor the level of activity on our Site, evaluate its effectiveness, and improve the content on our Site in order to make your visit an easy and enjoyable experience. 
 
 We may collect, compile, store, publish, promote, report, or otherwise disclose or use any Aggregate Information, provided that such information does not personally identify you. We do not correlate any Personally Identifiable Information with the Aggregate Information that we collect on our Site. If we do correlate any Aggregate Information to you, it will be protected like any other Personally Identifiable Information under this Privacy Statement. 
 
 ##### Active Information You Choose to Provide
 
-In order to gain use of the site (become a “user”), we require you to disclose the following information: Name, Address and Phone Number 
+In order to gain use of the site (become a “user”), we require you to disclose the following information: Name, Address and Cell Phone Number. 
 
 We use secure socket layer (SSL) encryption to protect the transmission of the information you submit to us when you use our secure online forms. The information you provide to us is stored securely. 
 
@@ -64,7 +64,7 @@ You might be able to access other websites through our site via hyperlinks. When
 
 ##### Sharing Information with Advertisers or Other Third Parties
 
-We may disclose anonymous information about user habits to advertisers on our site. The parties who perform services for us (credit card processors, merchant bank, Internet Service Provider) may also have access to your information in performing such services. Should we buy or sell assets of our company, another company may need to review our company’s assets, which might include your information, to make business decisions as to whether to acquire such assets. 
+The parties who perform services for us (credit card processors, merchant bank, Internet Service Provider) may also have access to your information in performing such services. Should we buy or sell assets of our company, another company may need to review our company’s assets, which might include your information, to make business decisions as to whether to acquire such assets. 
 
 ##### Sharing Information with the Government or As Otherwise Required by Law
 
@@ -91,6 +91,12 @@ Links to third-party websites may be provided solely for your information and co
 ##### Children’s Privacy Protection
 
 We take special care to protect the privacy needs of children and encourage parents to be an active participant in their child’s online activities. Our Site does not target and is not intended for children under the age of 18, and we will not knowingly collect Personally Identifiable Information from them. If we discover personal data from a child through our site, we will eliminate that data. You may learn more about protecting children’s privacy online by visiting: http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm. 
+
+##### GDPR Compliance
+
+This website complies with the European GDPR policies. 
+
+Removal of personally identifying information. You may contact our support team at support@fourcornersalliancegroup.com to have your personal information removed. Doing so will have you removed from any association with Four Corners Alliance Group.
 
 ##### Changes to This Statement
 
