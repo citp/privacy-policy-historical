@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkshub.me privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414001438id_/http%3A//www.linkshub.me/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkshub.me privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622012131id_/https%3A//linkshub.trade/page/privacy) for the most accurate reproduction.*
 
 # Privacy - Linkshub
 
