@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1clickwpseo.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209070255id_/http%3A//1clickwpseo.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1clickwpseo.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621165119id_/http%3A//1clickwpseo.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
