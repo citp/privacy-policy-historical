@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingheads.tv privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011192410id_/https%3A//bloggingheads.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingheads.tv privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621150818id_/https%3A//bloggingheads.tv/privacy-policy) for the most accurate reproduction.*
 
 # Bloggingheads.tv
 
@@ -10,11 +10,11 @@ We do not collect personal information about visitors to our website unless you 
 
 ### Contact form
 
-We provide a [contact form](https://web.archive.org/web/20181011192410id_/https%3A//bloggingheads.tv/contact) on Bloggingheads.tv so that site visitors can communicate with us. Users of this optional service provide a name as well as an email address where they can receive a response when one is needed. We do not use this information for any purpose other than responding to inquiries and we do not share this information with third parties.
+We provide a [contact form](https://web.archive.org/web/20190621150818id_/https%3A//bloggingheads.tv/contact) on Bloggingheads.tv so that site visitors can communicate with us. Users of this optional service provide a name as well as an email address where they can receive a response when one is needed. We do not use this information for any purpose other than responding to inquiries and we do not share this information with third parties.
 
 ### Email subscriptions
 
-We allow users to [subscribe to our content](https://web.archive.org/web/20181011192410id_/https%3A//bloggingheads.tv/subscribe) through the email delivery features of Google’s FeedBurner application. Users of this optional service provide an email address where they want to receive Bloggingheads.tv subscription emails. We do not use these email addresses for any purpose other than Bloggingheads.tv email subscriptions and we do not share them with third parties.
+We allow users to [subscribe to our content](https://web.archive.org/web/20190621150818id_/https%3A//bloggingheads.tv/subscribe) through the email delivery features of Google’s FeedBurner application. Users of this optional service provide an email address where they want to receive Bloggingheads.tv subscription emails. We do not use these email addresses for any purpose other than Bloggingheads.tv email subscriptions and we do not share them with third parties.
 
 ### Disqus commenting system
 
@@ -66,7 +66,17 @@ We may update this Privacy Policy at any time. When we do, we will revise the da
 
 ## Contact us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send us a message on our [contact form](https://web.archive.org/web/20181011192410id_/https%3A//bloggingheads.tv/contact).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send us a message on our [contact form](https://web.archive.org/web/20190621150818id_/https%3A//bloggingheads.tv/contact).
+
+[
+
+### The DMZ
+
+](https://web.archive.org/programs/dmz)
+
+[](https://web.archive.org/videos/56702?in=5:07&out=11:56)
+
+## Bill Scher and Matt Lewis discuss Joe Biden and the emerging political advantage in refusing to apologize after gaffes or personal misconduct.
 
 [
 
@@ -74,9 +84,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 ](https://web.archive.org/programs/glenn-show)
 
-[](https://web.archive.org/videos/53830?in=55:22&out=61:56)
+[](https://web.archive.org/videos/56683?in=1:17&out=)
 
-## Glenn Loury and climate scientist Patrick T. Brown discuss the difficulties in fighting climate change.
+## Michael Fortner describes his book _Black Silent Majority: The Rockefeller Drug Laws and the Politics of Punishment_ , about support for draconian drug laws in the black community in the 1970s.
 
 [
 
@@ -84,9 +94,19 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 ](https://web.archive.org/programs/wrightshow)
 
-[](https://web.archive.org/videos/53825?in=21:10&out=26:25)
+[](https://web.archive.org/videos/56662?in=51:02&out=58:32)
 
-## Robert Wright and Peter Beinart discuss the roles of Russia and the US in raising tensions between them.
+## Chris Preble, author of the new book  _Peace, War, and Liberty: Understanding U.S. Foreign Policy_ , explains why his libertarian skepticism about military intervention isn’t the same as isolationism.
+
+[
+
+### Drezburt
+
+](https://web.archive.org/programs/drezburt)
+
+[](https://web.archive.org/videos/56650?in=16:32&out=)
+
+## Heather Hurlburt and Dan Drezner discuss what the next Democratic president would do if Trump loses in 2020.
 
 [
 
@@ -94,20 +114,16 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 ](https://web.archive.org/programs/dmz)
 
-[](https://web.archive.org/videos/53797?in=23:14&out=26:23)
+[](https://web.archive.org/videos/56628?in=1:18&out=6:32)
 
-## Bill Scher and Matt Lewis debate whether the level of scrutiny faced by Brett Kavanaugh or Christine Blasey Ford is justified.
-
-[](https://web.archive.org/videos/53777?in=32:32&out=39:43)
-
-## Maha Rafi Atal and Samuel Hammond analyze the new proposal by Matt Bruenig of the People’s Policy Project.
+## Matt Lewis explains why he would readily vote for libertarian GOP congressman Justin Amash, who is weighing a presidential run.
 
 [
 
-### The DMZ
+### Culturally Determined
 
-](https://web.archive.org/programs/dmz)
+](https://web.archive.org/programs/culturally-determined)
 
-[](https://web.archive.org/videos/53747?in=22:06&out=26:59)
+[](https://web.archive.org/videos/56612?in=34:19&out=39:03)
 
-## Bill Scher and Matt Lewis analyze Brett Kavanaugh’s testimony.
+## Chris Arnade, author of the new book _Dignity: Seeking Respect in Back Row America_ , discusses why many Americans don’t move away from where they grew up to seek better opportunities. 
