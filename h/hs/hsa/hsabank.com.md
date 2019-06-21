@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the hsabank.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103183143id_/http%3A//www.hsabank.com/hsabank/company-information/privacy-and-opt-out-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsabank.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621140559id_/http%3A//www.hsabank.com/hsabank/about-us/privacy-and-opt-out-notice) for the most accurate reproduction.*
 
 # Privacy Policy and Opt-Out Notice - HSA Bank
 
-Dear HSA Bank Customer: 
+[Home](https://web.archive.org/hsabank/homepage/) / Privacy and Opt-Out Notice 
 
-HSA Bank is a division of Webster Bank, N.A., and part of a large and diversified financial organization. Webster Bank brings significant strengths and resources, which help HSA Bank to improve its services to you. 
-
-We have a strong commitment to safeguarding your information. As a part of Webster Bank, we follow the Webster Bank privacy policy. Under this privacy policy, you retain rights concerning the sharing of your nonpublic personal information with Webster Bank affiliates. 
-
-You have the right as an HSA Bank customer to prevent the sharing of your nonpublic personal information with affiliates of Webster Bank. To do so, you can call our Client Assistance Center at 1-800-357-6246. If you have opted out in the past, you do not need to opt-out each year. Your opt-out remains in effect unless you notify us you would like to change your preference. 
-
-Sincerely,   
-  
-Tim Patneaude  
-Senior Vice President, Chief Operating Officer
-
-Rev. 03/16
+Rev. 3/19
 
 FACTS | WHAT DOES WEBSTER BANK DO WITH YOUR PERSONAL INFORMATION?  
 ---|---  
@@ -29,8 +18,8 @@ What? | The types of personal information we collect and share depend on the pro
   
 How? | All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Webster Bank chooses to share; and whether you can limit this sharing.  
   
-Reasons we can share your personal information | Does Webster Bank share? | Can you limit this sharing?  
----|---|---  
+Reasons we can share your personal information | Can you limit this sharing?  
+---|---  
 **For our everyday business purposes -** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
 **For our marketing purposes -** to offer our products and services to you | Yes | No  
 **For joint marketing with other financial companies** | Yes | No  
@@ -39,13 +28,12 @@ Reasons we can share your personal information | Does Webster Bank share? | Can 
 **For our affiliates to market to you** | Yes | Yes  
 **For nonaffiliates to market to you** | No | We don’t share  
   
-To limit our sharing  | 
-
-  * Call toll free 1-800-357-6246
+To limit our sharing  |  Call toll free 1-800-357-6246
 
 **Please note:**  
 If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.   
 However, you can contact us at any time to limit our sharing.   
+  
 ---|---  
 Questions? | Call toll free 1-800-357-6246  
   
@@ -89,6 +77,7 @@ Definitions
 
   * _Our joint marketing partners include credit and debit card companies, broker-dealer companies, insurance companies and brokers, and financial services companies._
 
+  
   
 Other important information  
 ---  
