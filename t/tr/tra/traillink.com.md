@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traillink.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012163116id_/http%3A//www.railstotrails.org/whoweare/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traillink.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621162719id_/http%3A//www.railstotrails.org/whoweare/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Rails-to-Trails Conservancy
 
