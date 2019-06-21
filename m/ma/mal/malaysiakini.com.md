@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malaysiakini.com privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212095937id_/https%3A//about.malaysiakini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysiakini.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621184931id_/https%3A//about.malaysiakini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Malaysiakini
 
