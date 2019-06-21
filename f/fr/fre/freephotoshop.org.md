@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freephotoshop.org privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213002426id_/http%3A//www.freephotoshop.org/more/privacy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freephotoshop.org privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621133144id_/http%3A//freephotoshop.org/more/privacy-2) for the most accurate reproduction.*
 
 # Privacy - Free Photoshop
 
