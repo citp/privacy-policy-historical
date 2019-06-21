@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the screamingfrog.co.uk privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123152527id_/https%3A//www.screamingfrog.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screamingfrog.co.uk privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621084503id_/https%3A//www.screamingfrog.co.uk/privacy) for the most accurate reproduction.*
 
 # Disclaimer | Screaming Frog
 
 ## PRIVACY POLICY
-
-Last updated 22 May 2018
 
 This is the privacy policy for Screaming Frog Limited (“we” or “us” or “our”), please read it carefully because it explains how we collect and use information about you in the scenarios that are described in paragraph 3 below. By taking any of the actions referred to in paragraph 3 below, you agree that we may collect and use your information in the ways described in this privacy policy.
 
@@ -28,9 +26,8 @@ We will collect information from you if you:
 
 • register to buy a product; this will include your name, company name, address, email address and VAT number and payment details;  
 • complete online forms, take part in surveys, write posts or comments on any message boards, enter any competitions or prize draws, download or participate in any other interactive areas that appear on our website or which we offer to you from time to time  
-• provide your contact details to us when registering to use or accessing any product or service we provide  
-use our software or tools; We may check specific information directly relevant to your use of the software or product contained in your computer against our records to make sure the software or products are being used in accordance with our software licence agreements. This may include your username, licence key, IP address, anonymised machine id, timestamp. We may gather statistical information about the operating system and environment on which our software or products are installed  
-• report a bug or issue you have encountered using any of our tools or software and send software logs or debug reports; these may contain details of sites crawled, short extracts of log files analysed and other settings  
+• provide your contact details when you register to use or accessany product or service we provide  
+• use our software or tools; We may check specific information relevant to your use of the software or product contained in your computer against our records to make sure the software or products are being used in accordance with our software licence agreements. This may include your username, licence key, IP address, anonymised machine id, timestamp. We may gather statistical information about the operating system and environment on which our software or product are installed; When we automatically gather data relating to crashes, bugs or issues encountered when using any of our tools or software; When you send software logs or debug reports which may contain details of sites crawled, short extracts of log files analysed and other settings  
 • contact us offline for example by telephone, fax, email or post.
 
 We also collect information about your visit to our website or use of our products or services using cookies or similar technologies (as described below).
@@ -46,7 +43,7 @@ We use your information to provide any information and services that you have re
 • to allow us to verify legitimate use of our software and tools  
 • to notify you of product updates and fixes  
 • we may use your information for marketing purposes, although we will only do so if you have specifically consented for us to do so  
-• we may also use and analyse the information that we collect so that we can administer, support, improve and develop our website and the products and services we offer.
+• we may use and analyse the information that we collect so that we can administer, support, improve and develop our website and the products and services we offer.
 
 Personal information is processed only in accordance with our legitimate interest in providing products and services to you and monitoring and improving the use and satisfaction of our website and tools.
 
@@ -165,4 +162,6 @@ The Website contains links to other sites or addresses on the web. External site
 Descriptions of, or references to products, services or publications within the Website do not constitute or imply their endorsement or recommendation in any way by the Company, its employees or contractors. No reference in the Website to any specific product, process, or service by trade name, trademark, manufacturer, or otherwise, shall be used for advertising or product endorsement purposes.
 
 **EXCLUSION OF LIABILITY**  
-To the maximum extent permitted by law the Company excludes liability for any loss, claim, damages or any special, consequential, exemplary or punitive damages (whether directly or indirectly incurred) of any kind arising out of or in connection with any visitor’s or user’s access to, or use of the Website, or any material thereon, whether based in contract, tort or whether negligent or otherwise, even in the Company has been advised of the possibility of such damage.
+To the maximum extent permitted by law the Company excludes liability for any loss, claim, damages or any special, consequential, exemplary or punitive damages (whether directly or indirectly incurred) of any kind arising out of or in connection with any visitor’s or user’s access to, or use of the Website, or any material thereon, whether based in contract, tort or whether negligent or otherwise, even in the Company has been advised of the possibility of such damage..
+
+Last updated 25 April 2019
