@@ -1,51 +1,187 @@
-> *The following text is extracted and transformed from the ethiotube.net privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117145843id_/http%3A//www.ethiotube.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiotube.net privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621235932id_/https%3A//www.ethiotube.net/static/privacy) for the most accurate reproduction.*
 
-# EthioTube - Watch All Things Ethiopia.
+# Privacy Policy - EthioTube
 
-The use of this version of the "EthioTube - Broadcast Ethiopia" website and/or EthioTube - Broadcast Ethiopia software and any other related software, upgrades or updates and all related services and special offers provided by "EthioTube - Broadcast Ethiopia" are subject to the hereunder provisions of this Privacy Policy.:
+Fair Information Practices 
 
-**General**
+Fair information  
+Practices
 
-"EthioTube - Broadcast Ethiopia" takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information, which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
-BY USING OR ACCESSING ANY EthioTube - Broadcast Ethiopia WEBSITE OR DOWNLOADING AND USING THE SERVICE, YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. EthioTube - Broadcast Ethiopia MAY AMEND THIS POLICY FROM TIME TO TIME.
 
-If you are under the age of 13, you are not eligible to use the Service, and we ask you not to submit any personal information to us.
+ **What personal information do we collect from the people that visit our blog, website or app?**
 
-**Collection of Information**
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
 
-**Personal Information:** Use of certain features of the Service may require submission of certain personal information, including your first and last name, email address, a nick name (or other user ID) and a password.
+ **When do we collect information?**
 
-**Non personally identifiable Information:** EthioTube - Broadcast Ethiopia may also collect or receive additional non personally identifiable usage information specifically related to the use of a particular feature or offering on the EthioTube - Broadcast Ethiopia Service or website(s), and responses to the offerings and advertisements presented on EthioTube - Broadcast Ethiopia's Service and/or website(s).
+We collect information from you when you register on our site or enter information on our site.
 
-"EthioTube - Broadcast Ethiopia" may also collect or receive (in some cases as part of the internet communication protocol) certain non personally identifiable technical information, when the EthioTube - Broadcast Ethiopia website(s) and pages are visited or when the EthioTube - Broadcast Ethiopia Service is used.
+**How do we use your information?**
 
-**How is the information being used?** The information is used to operate and improve the features, offerings and content presented to you by EthioTube - Broadcast Ethiopia, to personalize the content and advertisements provided to you ; to fulfill your requests for Services, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Service and/or website(s), offerings and advertisements presented on EthioTube - Broadcast Ethiopia Service, email communication, website(s) and pages; and to help offer you other Services, programs, or services that may be of interest.
+  
 
-_Any personally identifiable information of yours_ will not be shared with third parties unless you have consented to the sharing of this information. EthioTube - Broadcast Ethiopia may use this information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about various groups of EthioTube - Broadcast Ethiopia users, but do not receive information that personally identifies you.
 
-_Notwithstanding the foregoing_ , your information may be accessed and disclosed if and as required by legal procedures.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-**Cookies:** "EthioTube - Broadcast Ethiopia" may use cookies or similar technologies to enhance and personalize your experience of the Service and/or of EthioTube - Broadcast Ethiopia's website, including to operate and improve offerings through the Service and/or website; to help authenticate your identity when you visit and transact with the Service, and/or website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you.
+ **•** To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-Additionally, "EthioTube - Broadcast Ethiopia" or its advertisers may use other companies, known as third party ad servers to help present advertisements online in connection with the Service, and/or web sites. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not EthioTube - Broadcast Ethiopia's.
+ **•** To ask for ratings and reviews of services or products
 
-"EthioTube - Broadcast Ethiopia" does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Services and/or web sites may be impaired if you decline to accept cookies.
+ **How do we protect your information?**
 
-**Special Note for Parents**
+We do not use vulnerability scanning and/or scanning to PCI standards.
 
-"EthioTube - Broadcast Ethiopia"'s Service and website are not intended for a general audience, and children under the age of thirteen (13) are not permitted to register with EthioTube - Broadcast Ethiopia's Service and websites.
+We only provide articles and information. We never ask for credit card numbers.
 
-**Modification and Deletion of Personally Identifiable Information (Opt-Out)**
+We use regular Malware Scanning.
 
-In order to delete the personally identifiable information you submitted, notify us, to the following email address: [info@ethiotube.net](mailto:info@ethiotube.net) that you wish to delete your personally identifiable information or any part thereof contained at our databases.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
 
-**Modification**
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
-If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: [info@ethiotube.net](mailto:info@ethiotube.net).
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-Please note that deletion of your personally identifiable information from EthioTube - Broadcast Ethiopia's database will not prevent EthioTube - Broadcast Ethiopia from using gathered anonymous information.
+ **Do we use 'cookies'?**
 
-**Third Parties' Practices**
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that EthioTube - Broadcast Ethiopia does not own or control, or does not employ or manage.
+ **•** Understand and save user's preferences for future visits.
+
+ **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.  
+
+
+If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.It won't affect the user's experience that make your site experience more efficient and may not function properly.
+
+ **Third-party disclosure**
+
+  
+
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **Google**
+
+  
+
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.  
+
+
+ **We have implemented the following:**
+
+ **•** Remarketing with Google AdSense
+
+ **•** Google Display Network Impression Reporting
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. 
+
+**Opting out:**  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+ **California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
+
+
+ **According to CalOPPA, we agree to the following:**  
+
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.  
+
+
+Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
+
+You will be notified of any Privacy Policy changes:
+
+ **•** On our Privacy Policy Page  
+
+
+Can change your personal information:
+
+ **•** By logging in to your account
+
+ **How does our site handle Do Not Track signals?**  
+
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+
+**Does our site allow third-party behavioral tracking?**  
+
+
+It's also important to note that we do not allow third-party behavioral tracking
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+  
+
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+Do we let third-parties, including ad networks or plug-ins collect PII from children under 13?
+
+ **Fair Information Practices**
+
+  
+
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+ **•** Within 7 business days
+
+We will notify the users via in-site notification
+
+ **•** Within 7 business days
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+ **CAN SPAM Act**
+
+  
+
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+ **•** Process orders and to send information and updates pertaining to orders.
+
+ **•** Send you additional information related to your product and/or service
+
+ **To be in accordance with CANSPAM, we agree to the following:**
+
+ **•** Not use false or misleading subjects or email addresses.
+
+ **•** Identify the message as an advertisement in some reasonable way.
+
+ **•** Include the physical address of our business or site headquarters.
+
+ **•** Monitor third-party email marketing services for compliance, if one is used.
+
+ **•** Honor opt-out/unsubscribe requests quickly.
+
+ **•** Allow users to unsubscribe by using the link at the bottom of each email.
+
+ **  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+info@ethiotube.net and we will promptly remove you from **ALL** correspondence.
