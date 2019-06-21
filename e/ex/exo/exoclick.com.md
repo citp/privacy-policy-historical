@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoclick.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128021759id_/https%3A//www.exoclick.com/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoclick.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621122902id_/https%3A//www.exoclick.com/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # ExoClick Privacy & Cookies Policy - ExoClick
 
