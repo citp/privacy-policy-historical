@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barnard.edu privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222143632id_/https%3A//barnard.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnard.edu privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621235553id_/https%3A//barnard.edu/privacy-policy) for the most accurate reproduction.*
 
 # Data Privacy Policy | Barnard College
 
