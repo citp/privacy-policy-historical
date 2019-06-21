@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthtrekkers.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211192601id_/https%3A//www.earthtrekkers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthtrekkers.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621231957id_/https%3A//www.earthtrekkers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Earth Trekkers
 
@@ -88,4 +88,4 @@ To read more about our terms and conditions, [click here.](https://www.earthtrek
 
 If you have any questions about this Privacy Policy, contact us at info@earthtrekkers.com.
 
-_Last Updated October 7, 2018_
+_Last Updated February 1, 2019_
