@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playfirst.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011043122id_/https%3A//www.glu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfirst.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621114227id_/https%3A//www.glu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Glu
 
@@ -106,7 +106,7 @@ You may opt out of receiving promotional messages from Glu by following the inst
 
 **Third Party Analytics and Advertising Services**
 
-We have identified the provider names of some of the third-party analytics and advertising services we use. Please see the links on [this page](https://www.glu.com/privacy/ads-and-analytics-providers/) to learn more about the data practices of our third-party service providers (including opt-out mechanisms they may offer).  You can also use your device settings to manage interest-based advertising that appears on mobile applications; to do so, select “limit ad tracking” on Apple iOS operating systems and “opt-out of interest based ads” on Android operating systems.
+We have identified the provider names of some of the third-party analytics and advertising services we use. Please see the links on [this page](https://glu-prod.kiosk-dev.com/privacy/ads-and-analytics-providers/) to learn more about the data practices of our third-party service providers (including opt-out mechanisms they may offer).  You can also use your device settings to manage interest-based advertising that appears on mobile applications; to do so, select “limit ad tracking” on Apple iOS operating systems and “opt-out of interest based ads” on Android operating systems.
 
 **Contact Us**
 
@@ -120,11 +120,13 @@ Glu Mobile Inc.
 
 San Francisco, CA 94103
 
-For EEA Residents:  please contact our EU Representative at [EURep@glu.com](mailto:EURep@glu.com).
+For EEA Residents: Please contact our EU Representative at [EURep@glu.com](mailto:EURep@glu.com). Alternatively they can be reached by post (DPO Centre, 50 Liverpool Street, London, EC2M 7PR) or +44 203 797 6340
 
-For an archive of past Glu Mobile privacy policies, [click here](https://www.glu.com/privacy/archive/).
+[www.dpocentre.com](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.dpocentre.com&data=01%7C01%7CAstrid.becker%40glu.com%7C6c7f4b6545f74ac4d55908d6505e3189%7Cd43417c643e340ca8b1d391492ed2048%7C1&sdata=ob25yhGGLoaaeEuseoMTp2NEQkCF%2Bq20Ok%2FDmzeOuUY%3D&reserved=0)
 
-For The Swift Life supplemental privacy policy,  _[click here](https://www.glu.com/privacy/theswiftlife)_.
+For an archive of past Glu Mobile privacy policies, [click here](https://glu-prod.kiosk-dev.com/privacy/archive/).
+
+For The Swift Life supplemental privacy policy,  _[click here](https://glu-prod.kiosk-dev.com/privacy/theswiftlife)_.
 
 **NOTE TO EEA RESIDENTS**
 
