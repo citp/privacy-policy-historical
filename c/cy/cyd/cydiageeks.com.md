@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cydiageeks.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005093618id_/https%3A//www.cydiageeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydiageeks.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621114818id_/https%3A//www.cydiageeks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cydia Geeks
 
@@ -41,11 +41,11 @@ We implement a variety of security measures when a user places an order enters, 
 
 All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-**Do we use ‘cookies’?**
+ **Do we use ‘cookies’?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**We use cookies to:**
+ **We use cookies to:**
 
   * Understand and save user’s preferences for future visits.
   * Keep track of advertisements.
@@ -61,19 +61,19 @@ If users disable cookies in their browser:
 
 
 
-**Third-party disclosure**
+ **Third-party disclosure**
 
 We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third-party links**
+ **Third-party links**
 
   * We do not include or offer third-party products or services on our website.
 
 
 
-**Google**
+ **Google**
 
 Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. http://support.google.com/adwordspolicy/answer/1316548?hl=en
 
@@ -90,17 +90,17 @@ We have implemented the following:
 
 We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-**Opting out:**
+ **Opting out:**
 
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
-**COPPA (Children Online Privacy Protection Act)**
+ **COPPA (Children Online Privacy Protection Act)**
 
 When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
 We do not specifically market to children under the age of 13 years old.
 
-**Fair Information Practices**
+ **Fair Information Practices**
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
@@ -119,7 +119,7 @@ We will notify the users via in-site notification
 
 We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
-**CAN SPAM Act**
+ **CAN SPAM Act**
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
@@ -146,13 +146,17 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 
 
-**Contacting Us**
+ **Amazon Affiliate Disclosures**
+
+Cydia Geeks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+ **Contacting Us**
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
 https://www.cydiageeks.com/  
 California  
 United States  
-heyimtyroneh@gmail.com
+admin@cydiageeks.com
 
-Last Edited on 2017-04-03
+Last Edited on 2018-12-18
