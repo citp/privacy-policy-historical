@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the sportnews.to privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610115501id_/http%3A//www.sportnews.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportnews.to privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621034945id_/http%3A//www.sportnews.to/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Sport News
 
-## Privacy Policy
-
-We collect information from you when you register on our site.
-
+We collect information from you when you register on our site.  
 When registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
