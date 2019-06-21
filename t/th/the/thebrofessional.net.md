@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebrofessional.net privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117234445id_/http%3A//www.thebrofessional.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrofessional.net privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621204830id_/http%3A//www.thebrofessional.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Brofessional
 
@@ -85,13 +85,3 @@ Except as otherwise discussed in this Privacy Policy, this document only address
 You must be at least 13 years old to have Our permission to use this Site. Our policy is that We do not knowingly collect, use or disclose Personally Identifiable Information about visitors that are under 13 years of age.
 
 You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. Your name, email address, etc.) in the discussion forums or other public areas on this Site, that information, along with any information disclosed in Your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond Our control and this Privacy Policy does not apply to such information. Any submissions to chat rooms or other public areas on this Site are accepted with the understanding that they are accessible to all third parties. If You do not want Your comments to be viewed by third parties, You are advised not to make any submissions. Please be careful and responsible whenever You’re online.
-
-If You have any questions about this Privacy Policy, the practices of this Site, or Your dealings with this Site, please contact Us by sending a letter to:
-
-TheBrofessional.net  
-c/o Socialholic Network Inc  
-Attn: Privacy Compliance  
-10815 Rancho Bernardo Rd., Suite 370  
-San Diego, CA 92127
-
-You may also contact Us by email at [info@socialholicnetwork.com](mailto:info@socialholicnetwork.com).
