@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainly.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217101828id_/https%3A//brainly.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainly.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621200503id_/https%3A//brainly.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Brainly.com - Together we go far
 
@@ -29,7 +29,7 @@ In the EU, the purposes for which we process your personal data are:
 
 
 
-We have set out in the table at **Annex 1** a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. Please [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#51323e3c3c243f38252811332330383f3d287f323e3c) if you need details about the specific legal basis we are relying on to process your personal data where more than one legal basis has been set out.
+We have set out in the table at **Annex 1** a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. Please [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5a393537372f34332e231a38283b3334362374393537) if you need details about the specific legal basis we are relying on to process your personal data where more than one legal basis has been set out.
 
 * ## 3\. HOW WE USE COOKIES AND OTHER TRACKING TECHNOLOGY TO COLLECT INFORMATION. 
 
@@ -107,7 +107,7 @@ You may also be able to limit certain interest-based mobile advertising through 
 
 Brainly has entered into EU standard contractual clauses for intra-group transfers of personal data. 
 
-If you wish to enquire further about the safeguards used or if you would like to request a copy of these Model Contracts please contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6d0e02000018030419142d0f1f0c04030114430e0200) .
+If you wish to enquire further about the safeguards used or if you would like to request a copy of these Model Contracts please contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#75161a1818001b1c010c351707141c1b190c5b161a18) .
 
 **Keeping your information safe** : We care about the security of your information and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through our Service. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
@@ -115,7 +115,7 @@ For individuals based in the EU or Switzerland, we store personal data for as lo
 
 * ## 9\. CHILDREN’S PRIVACY
 
-Brainly does not knowingly collect or solicit any information from anyone under the age of 13 on this Service. In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#79090b100f181a00391b0b1810171500571a1614).
+Brainly does not knowingly collect or solicit any information from anyone under the age of 13 on this Service. In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c2b2b0abb4a3a1bb82a0b0a3abacaebbeca1adaf).
 
 * ## 10\. LINKS TO OTHER WEB SITES AND SERVICES
 
@@ -123,7 +123,7 @@ The Service may contain links to and from third party websites of our business p
 
 * ## 11\. HOW TO CONTACT US
 
-If you have any questions about this Privacy Policy or the Service, please contact us by mail or email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8cfcfee5faedeff5cceefeede5e2e0f5a2efe3e1).
+If you have any questions about this Privacy Policy or the Service, please contact us by mail or email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a9d9dbc0dfc8cad0e9cbdbc8c0c7c5d087cac6c4).
 
 * ## 12\. CHANGES TO OUR PRIVACY POLICY
 
