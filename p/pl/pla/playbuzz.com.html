@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the playbuzz.com privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231225045id_/https%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playbuzz.com privacy policy that was archived on 2019-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190621093623id_/https%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en" class=" async-hide"><head>        
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en" class=" async-hide"><head>
 
 
 <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-CpsJA1RVGY0Bm" async="" type="text/javascript"></script><script async="" src="https://unarmedindustry.com/v2/0/trbQYZenCRjcMZJ6qle9KEc_hHvBPevsUl-PTiwLa2z0sCKluXzMuBVw6yUqDU4sDdQ"></script><script type="text/javascript">
@@ -124,6 +124,8 @@ var ezt = ezt ||[];
 <!-- End Quantcast Tag -->
 
     
+
+    
     <meta name="robots" content="noindex, nofollow"> 
 
     
@@ -137,15 +139,15 @@ var ezt = ezt ||[];
         <!--Favicon for apple touch device-->
         <link rel="apple-touch-icon-precomposed" href="//cdn.playbuzz.com/content/images/apple-touch-icon-new.png">
 
-<link href="//cdn.playbuzz.com/content/bundles/production/3d5907a/libs/css" rel="stylesheet">
-<link href="//cdn.playbuzz.com/content/bundles/production/3d5907a/pages/privacypolicy/css" rel="stylesheet">
+<link href="//cdn.playbuzz.com/content/bundles/production/15c8829/libs/css" rel="stylesheet">
+<link href="//cdn.playbuzz.com/content/bundles/production/15c8829/pages/privacypolicy/css" rel="stylesheet">
 
     
 
     
     
 
-<script src="//cdn.playbuzz.com/content/bundles/production/3d5907a/libs/infra/js"></script>
+<script src="//cdn.playbuzz.com/content/bundles/production/15c8829/libs/infra/js"></script>
     
 
     
@@ -155,17 +157,6 @@ var ezt = ezt ||[];
     
 
     <meta property="fb:app_id" content="527957123932456">
-    <meta property="fb:admins" content="709648557">
-    <meta property="fb:admins" content="100004994733705">
-    <meta property="fb:admins" content="506025859">
-    <meta property="fb:admins" content="1033186164">
-    <meta property="fb:admins" content="727908807">
-    <meta property="fb:admins" content="549695877">
-    <meta property="fb:admins" content="740606389">
-    <meta property="fb:admins" content="656403766">
-    <meta property="fb:admins" content="1074031497">
-    <meta property="fb:admins" content="586673781">
-    <meta property="fb:admins" content="1613670027">
 
     
 
@@ -190,9 +181,11 @@ var ezt = ezt ||[];
     </script>
     <![endif]-->
 
-    <style>
-        body { min-width: 720px; }
-    </style>
+        <style>
+            body {
+                min-width: 720px;
+            }
+        </style>
 
     <!-- Cooladata starts here -->
 
@@ -421,7 +414,7 @@ var ezt = ezt ||[];
 
 
 
-
+    
 
 
     <script>
@@ -436,13 +429,14 @@ var ezt = ezt ||[];
 <script>
     window.gapiLoaded = function () {
         var googleButton = document.getElementById("google-login-button");
+        var params = googlepluskBridge.params;
 
         if (googleButton) {
             var spinner = document.getElementById("google-login-button-spinner");
             var buttonText = document.getElementById("google-login-button-text");
 
-            gapi.load('auth', function () {
-                gapi.auth.init(function () {
+            gapi.load('auth2', function () {
+                gapi.auth2.init(params).then(function () {
                     googleButton.disabled = false;
                     googleButton.classList.add('enabled');
                 });
@@ -451,7 +445,7 @@ var ezt = ezt ||[];
     }
 </script>
 
-<script src="https://apis.google.com/js/client:platform.js?onload=gapiLoaded" async="" defer=""></script>
+<script src="https://apis.google.com/js/platform.js?onload=gapiLoaded" async="" defer=""></script>
     
 </head>
 
@@ -470,8 +464,7 @@ var ezt = ezt ||[];
             <header role="banner">
 <script>var PBS_Templates = JSON.parse("{\n\t\"flipCard\": \"3eb6e350-8ec6-4c48-9219-e1070fb726ad\",\n\t\"convo\": \"5be4f0ae-b5cf-4100-ad53-3c874a36dea5\",\n\t\"poll\": \"aa6cd7fd-831d-47a7-a44f-4c815bdc99d4\",\n\t\"list\": \"ca71e085-ed0f-4f3f-af5c-f0d1a2ea04e8\",\n\t\"rankedList\": \"ef5de415-c8c4-4fb5-b5ad-427aab447724\",\n        \"videoCreator\":\"5b2950a0-ff28-47bf-a106-c46a67af24f0\",\n        \"quiz\": \"10bd5a26-9cd9-420d-96c7-f964f9a9f03c\",\n        \"trivia\": \"4504dd97-318b-49ee-ba3e-1daf46853e9d\"\n}");</script>
 
-<div id="pb-page-container">
-
+<div id="pb-page-container" itemscope="" itemtype="https://schema.org/WebSite">
 
     <nav class="navbar pb-navbar navbar-fixed-top pb-navbar-black" role="navigation">
         <div class="container-fluid">
@@ -480,7 +473,7 @@ var ezt = ezt ||[];
                 <button type="button" id="toggle-menu" class="navbar-toggle collapsed pull-left pb-navbar-menu-btn">
                     <span></span>
                 </button>
-                <a class="navbar-brand" href="/" aria-lable="home page" tabindex="0">
+                <a itemprop="url" class="navbar-brand" href="/" aria-lable="home page" tabindex="0">
                     <svg class="pb-navbar-brand" role="img">
                         <title>playbuzz</title>
                         <use xlink:href="#pb-icon-playbuzz-logo"></use>
@@ -488,8 +481,9 @@ var ezt = ezt ||[];
                 </a>
                 <!-- Mobile version search -->
                 <div class="navbar-toggle pb-navbar-sidebar-search" id="pb-navbar-sidebar-search" role="search">
-                    <form data-toggle="collapse" name="form" method="get" action="/search">
-                        <input class="pb-navbar-sidebar-search-input" placeholder="Search..." type="search" name="query" value="" id="pb-navbar-search-input" aria-label="search input">
+                    <form data-toggle="collapse" name="form" method="get" action="/search" itemprop="potentialAction" itemscope="" itemtype="https://schema.org/SearchAction">
+                        <meta itemprop="target" content="/search/{query}">
+                        <input class="pb-navbar-sidebar-search-input" placeholder="Search..." type="search" name="query" itemprop="query-input" value="" id="pb-navbar-search-input" aria-label="search input">
                         <button class="btn pb-navbar-sidevar-close-btn" type="reset" aria-label="reset">
                             <svg class="pb-navbar-sidebar-icon-search-close">
                                 <use xlink:href="#pb-icon-x-circle"></use>
@@ -511,25 +505,13 @@ var ezt = ezt ||[];
     <h2>Latest Stories</h2>
     <ul>
         <li>
-            <a href="/Story">
-                Articles
-            </a>
-        </li>
-        <li>
-            <a href="/TestYourself">
+            <a href="/quizzes">
                 Quizzes
             </a>
         </li>
-
         <li>
-            <a href="http://video.playbuzz.com/">
-                Videos
-            </a>
-        </li>
-
-        <li>
-            <a href="/Latest/English">
-                All
+            <a href="/Story">
+                Articles
             </a>
         </li>
     </ul>
@@ -602,7 +584,7 @@ var ezt = ezt ||[];
 
                         <ul class="dropdown-menu pb-dropdown-menu" role="menu">
                             <li><a href="/Story" type="button" class="btn pb-navbar-sub-link">Articles</a></li>
-                            <li><a href="/TestYourself" type="button" class="btn pb-navbar-sub-link">Quizzes</a></li>
+                            <li><a href="/quizzes" type="button" class="btn pb-navbar-sub-link">Quizzes</a></li>
                             <li><a href="http://video.playbuzz.com/" type="button" class="btn pb-navbar-sub-link">Videos</a></li>
                             <li id="pb-navbar-languages-menu" class="pb-dropdown-nav-hide dropdown">
                                 
@@ -615,7 +597,7 @@ var ezt = ezt ||[];
 
                                 <ul class="dropdown-menu pb-dropdown-menu pb-navbar-discover-languages second-level">
                                     <li>
-                                        <a href="/Latest/English" type="button" class="btn pb-navbar-sub-link">
+                                        <a href="/quizzes" type="button" class="btn pb-navbar-sub-link">
                                             <svg class="pb-navbar-icon-flags">
                                                 <use xlink:href="#pb-icon-flag-usa-circle"></use>
                                             </svg>
@@ -624,7 +606,7 @@ var ezt = ezt ||[];
                                     </li>
 
                                     <li>
-                                        <a href="/Latest/German" type="button" class="btn pb-navbar-sub-link">
+                                        <a href="/quizzes/german" type="button" class="btn pb-navbar-sub-link">
                                             <svg class="pb-navbar-icon-flags">
                                                 <use xlink:href="#pb-icon-flag-germany-circle"></use>
                                             </svg>
@@ -633,7 +615,7 @@ var ezt = ezt ||[];
                                     </li>
 
                                     <li>
-                                        <a href="/Latest/French" type="button" class="btn pb-navbar-sub-link">
+                                        <a href="/quizzes/french" type="button" class="btn pb-navbar-sub-link">
                                             <svg class="pb-navbar-icon-flags">
                                                 <use xlink:href="#pb-icon-flag-france-circle"></use>
                                             </svg>
@@ -641,7 +623,7 @@ var ezt = ezt ||[];
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="/Latest/Hebrew" type="button" class="btn pb-navbar-sub-link">
+                                        <a href="/quizzes/hebrew" type="button" class="btn pb-navbar-sub-link">
                                             <svg class="pb-navbar-icon-flags">
                                                 <use xlink:href="#pb-icon-flag-israel-circle"></use>
                                             </svg>
@@ -649,7 +631,7 @@ var ezt = ezt ||[];
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="/Latest/Italian" type="button" class="btn pb-navbar-sub-link">
+                                        <a href="/quizzes/italian" type="button" class="btn pb-navbar-sub-link">
                                             <svg class="pb-navbar-icon-flags">
                                                 <use xlink:href="#pb-icon-flag-italy-circle"></use>
                                             </svg>
@@ -657,7 +639,7 @@ var ezt = ezt ||[];
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="/Latest/Portuguese" type="button" class="btn pb-navbar-sub-link">
+                                        <a href="/quizzes/portuguese" type="button" class="btn pb-navbar-sub-link">
                                             <svg class="pb-navbar-icon-flags">
                                                 <use xlink:href="#pb-icon-flag-brazil-circle"></use>
                                             </svg>
@@ -665,7 +647,7 @@ var ezt = ezt ||[];
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="/Latest/Spanish" type="button" class="btn pb-navbar-sub-link">
+                                        <a href="/quizzes/spanish" type="button" class="btn pb-navbar-sub-link">
                                             <svg class="pb-navbar-icon-flags">
                                                 <use xlink:href="#pb-icon-flag-spain-circle"></use>
                                             </svg>
@@ -673,7 +655,7 @@ var ezt = ezt ||[];
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="/Latest/Russian" type="button" class="btn pb-navbar-sub-link">
+                                        <a href="/quizzes/russian" type="button" class="btn pb-navbar-sub-link">
                                             <svg class="pb-navbar-icon-flags">
                                                 <use xlink:href="#pb-icon-flag-russia-circle"></use>
                                             </svg>
@@ -681,7 +663,7 @@ var ezt = ezt ||[];
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="/Latest/Japanese" type="button" class="btn pb-navbar-sub-link">
+                                        <a href="/quizzes/japanese" type="button" class="btn pb-navbar-sub-link">
                                             <svg class="pb-navbar-icon-flags">
                                                 <use xlink:href="#pb-icon-flag-japan-circle"></use>
                                             </svg>
@@ -689,7 +671,7 @@ var ezt = ezt ||[];
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="/Latest/Chinese (Traditional)" type="button" class="btn pb-navbar-sub-link">
+                                        <a href="/quizzes/chinese (Traditional)" type="button" class="btn pb-navbar-sub-link">
                                             <svg class="pb-navbar-icon-flags">
                                                 <use xlink:href="#pb-icon-flag-china-circle"></use>
                                             </svg>
@@ -712,12 +694,13 @@ var ezt = ezt ||[];
                     </li>
 
                     <li class="navbar-form pb-navbar-search-form">
-                        <form name="form" method="get" action="/search" autocomplete="off" class="form-group has-feedback">
+                        <form name="form" method="get" action="/search" autocomplete="off" class="form-group has-feedback" itemprop="potentialAction" itemscope="" itemtype="https://schema.org/SearchAction">
+                            <meta itemprop="target" content="/search/{query}">
                             <svg class="pb-navbar-icon-search" role="image">
                                 <title>magnifier</title>
                                 <use xlink:href="#pb-icon-search"></use>
                             </svg>
-                            <input type="text" name="query" class="pb-navbar-search-input pb-input-black" placeholder="Search" aria-label="search input">
+                            <input type="text" name="query" class="pb-navbar-search-input pb-input-black" placeholder="Search" aria-label="search input" itemprop="query-input">
                             <button class="pb-navbar-btn-search-close" type="reset" aria-label="reset search">
                                 <svg class="pb-navbar-icon-search-close">
                                     <use xlink:href="#pb-icon-x-circle"></use>
@@ -734,7 +717,7 @@ var ezt = ezt ||[];
                         <button type="submit" class="btn pb-navbar-btn-sign-in" aria-label="log in" tabindex="0">LOG IN</button>
                     </li>
                     <li id="pb-navbar-login-dropdown" class="pb-dropdown-nav-hide dropdown">
-                        <a class="pb-navbar-link pb-navbar-user-link" role="button" tabindex="0">
+                        <a class="pb-navbar-link pb-navbar-user-link" role="button" tabindex="0" href="#">
                             <span id="pb-navbar-login-dropdown-btn">
                                 <img class="pb-navbar-user-image">
                                 <span class="caret"></span>
@@ -788,7 +771,7 @@ var ezt = ezt ||[];
 </div>
             </header>
 
-    
+
     <section class="main_section playbuzz_main_section multiple_items_display" data-page-type="Pages:PrivacyPolicy">
         
  <h1>Playbuzz Privacy Policy</h1>
@@ -1109,12 +1092,12 @@ var ezt = ezt ||[];
 <!--googleon: index-->
 
 
-<script src="//cdn.playbuzz.com/content/bundles/production/3d5907a/libs/js"></script>
+<script src="//cdn.playbuzz.com/content/bundles/production/15c8829/libs/js"></script>
 <script src="/bundles/Pages/PrivacyPolicy/js"></script><iframe name="__cmpLocator" style="display: none;"></iframe>
 
 
 
-   
+
 
     
     
@@ -1229,11 +1212,11 @@ var ezt = ezt ||[];
 </script>
 
 
-    
 
-    <!-- Ads Scripts -->  
 
-    
+    <!-- Ads Scripts -->
+
+
 
 
 
@@ -1339,7 +1322,7 @@ var ezt = ezt ||[];
     
 
 </script>
-<script src="//cdn.playbuzz.com/content/bundles/production/3d5907a/pbads/dfp/js" async=""></script>
+<script src="//cdn.playbuzz.com/content/bundles/production/15c8829/pbads/dfp/js" async=""></script>
 
 
 
@@ -1353,6 +1336,11 @@ var ezt = ezt ||[];
     var InQuestionCampaignIdDisregardArray = [];
     var IsPBFeed = ("False" === "True");
     var dfpTargeting = {};
+    // add targeting to followup new site vs old site abTest
+    var siteIdentifier = window.pbItem && window.pbItem.formatId === 'story' ?
+    'old_site_story' :
+    'old_site_legacy';
+    dfpTargeting["utm_content"] = siteIdentifier;
     var brealtimeConfig = { "utm_medium": ["bidder-test"] };
 
     if (InQuestionCampaignIdDisregard !== "none" && InQuestionCampaignIdDisregard.length>0) {
@@ -1449,7 +1437,7 @@ var ezt = ezt ||[];
 
 <script>
 
-    var enableAds = true;    
+    var enableAds = true;
     var useSdkPercent = 0;
     var useSdk = false;
     if(useSdkPercent) {
@@ -1463,8 +1451,19 @@ var ezt = ezt ||[];
             var results = regex.exec(window.location.search);
             var url_medium = results !== null ? decodeURIComponent(results[1].replace(/\+/g, ' ')) : ' ';
             var cookie_medium = utmCookie.getMedium() ? utmCookie.getMedium() : ' ';
+            // add targeting to followup new site vs old site abTest
+            var siteIdentifier = window.pbItem && window.pbItem.formatId === 'story' ?
+            'old_site_story' :
+            'old_site_legacy';
 
-            ga('send', 'event', 'plbz - legacy', cookie_medium, location.protocol + '//' + location.host + location.pathname , {
+            var formatId = window.gameData && window.gameData.patternId ?
+                window.gameData.patternId :
+                'other';
+
+            ga('send', 'event', 'plbz - legacy', formatId, location.protocol + '//' + location.host + location.pathname , {
+                nonInteraction: true
+            });
+            ga('send', 'event', 'plbz - abTest', siteIdentifier, location.protocol + '//' + location.host + location.pathname , {
                 nonInteraction: true
             });
             ga('send', 'event', 'pbPageLoad_URL', url_medium, location.protocol + '//' + location.host + location.pathname, {
@@ -1482,15 +1481,13 @@ var ezt = ezt ||[];
 
         // initiating dfp
         try {
+            var legacyUnits = null;
             var dfpUnitsConfig= "{\"path\":\"pages_privacypolicy\",\"config\":{\"ad-bottom-1\":{\"adunit\":\"PlayBuzz_Quote_Default_BTF_W300X250\",\"dimensions\":\"300x250\"},\"ad-footer-1\":{\"adunit\":\"PlayBuzz_Quote_Default_W728x90\",\"dimensions\":\"728x90\"},\"ad-top-1\":{\"adunit\":\"PlayBuzz_Quote_Default_W300X250\",\"dimensions\":\"300x250\"}}}";
-            pbads.dfp.init('94166617', dfpTargeting, dfpUnitsConfig, useSdk);
+            pbads.dfp.init('94166617', dfpTargeting, dfpUnitsConfig, legacyUnits, useSdk);
 
         } catch (e) {
             // log to console --> we need alert if we get this error
             console.error("FATAL: failed to load dfp module", e);
-            if (window.Rollbar) {
-                window.Rollbar.error('_DFPBootstrap: failed to load dfp module', { error: e });
-            }
         }
 
         // fetch dfp ads
@@ -1499,19 +1496,19 @@ var ezt = ezt ||[];
             if (enableAds) {
 
                 // fetch units
-                pbads.dfp.fetch();   
+                pbads.dfp.fetch();
 
                 if (!IsPBFeed) {
                     pbads.dfp.brealtimeConfig = brealtimeConfig;
-                }           
-                
+                }
+
                 if(!useSdk) {
                     if(window.handleAdRefreshRate){
                         window.handleAdRefreshRate();
                     } else{
                         window.adRefreshRate = true;
                     }
-                }                   
+                }
             }
 
         } catch (e) {
@@ -1599,8 +1596,7 @@ el.parentNode.insertBefore(s, el);
                 <script type="text/javascript" src="//cdn.playbuzz.com/content/monetization/ads-module/production/17dd09f36ed6369d89a16ed0244b32f4b5e71ccf/ads-module.min.js" async=""></script>
 
 
-
-    <!-- /Ads Scripts -->   
+    <!-- /Ads Scripts -->
     <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 
 
