@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpfrompaper.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125062932id_/https%3A//www.jumpfrompaper.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpfrompaper.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621210441id_/https%3A//www.jumpfrompaper.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – JumpFromPaper
 
