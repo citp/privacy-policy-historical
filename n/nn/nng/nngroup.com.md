@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nngroup.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225160919id_/https%3A//www.nngroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nngroup.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622005040id_/https%3A//www.nngroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Nielsen Norman Group: UX Research, Training, and Consulting
 
