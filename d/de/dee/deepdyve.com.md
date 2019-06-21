@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122234404id_/https%3A//www.deepdyve.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621211409id_/https%3A//www.deepdyve.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # DeepDyve Privacy Policy | DeepDyve
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=a66bd6ff-2d5f-476d-a1fa-f0408dcc9aa9)
 
 Last Updated: August 6, 2018
 
 DeepDyve, Inc. (“DeepDyve”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting DeepDyve’s website at http://www.deepdyve.com (“deepdyve.com”), or using any of our services or products, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 ## What does this privacy policy cover?
 
