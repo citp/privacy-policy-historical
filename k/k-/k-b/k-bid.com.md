@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k-bid.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118145412id_/https%3A//www.k-bid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k-bid.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621223423id_/https%3A//www.k-bid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy | K-BID
 
