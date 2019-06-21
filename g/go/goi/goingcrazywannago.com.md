@@ -1,21 +1,69 @@
-> *The following text is extracted and transformed from the goingcrazywannago.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608032231id_/http%3A//goingcrazywannago.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingcrazywannago.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621053601id_/http%3A//goingcrazywannago.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy
 
-If you have questions about this Privacy Policy, please contact me [here](http://goingcrazywannago.com/privacy-policy/ "Email"). The privacy of my followers is very important to me. I want to tell you about how the types of personal information I receive and collect when you visit my site is protected and how I strive to safeguard your information. I would never sell your personal information to third parties.
+## Who we are
 
-I will not knowingly collect or maintain identifiable information (personal or non-personal) from anyone under 13 years of age, and my site is not directed to the young’ins. Children under 13 years of age are not eligible for contests or giveaways on my site. If I learn that identifiable information of anyone under 13 years of age has been collected on Going Crazy!! Wanna Go??!! without parental consent, I will take the appropriate steps to delete the information.
+Our website address is: http://goingcrazywannago.com.
 
-**A.   ****Information Submitted by a User** Going Crazy!! Wanna Go??!! does not require registration or membership to use the sites. However, I collect personal information when you post a comment or enter a giveaway or contest. That information may include: Name or alias, email address, IP address, and in the case of contest winners, mailing address. If you subscribe to Going Crazy!! Wanna Go??!! by email, your email address will also be recorded by the Feedburner service. I also offer an email newsletter through voluntary opt-in signup. I will not share my mailing list with anyone!!
+## What personal data we collect and why we collect it
 
-**B.   ****Non-submitted Information Collected** Going Crazy!! Wanna Go??!! may also collect non-personal information not associated with your identity to improve the site. This information includes your IP (internet protocol) address, your ISP (internet service provider), your country, city, or state, the browser you used to visit, the time you visited, and which pages you viewed.
+### Comments
 
-**C.   ** **Cookies and Web Beacons** We do not use cookies to store information about visitors to our sites. However, we may use third party advertisements to support the sites. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our sites, which will also send the advertisers your information including your IP address, your ISP, the browser you used to visit our site, or whether you have Flash installed. This is generally used for targeting purposes to help show appropriate ads to the visitor. For example, these companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Some advertisers might also use cookies to track purchases made in order to pay Going Crazy!! Wanna Go??!! a commission for sales made through affiliate links on our site. We may have access to the time and date of purchase, the merchant, the amount of sale, products purchased, and in some cases general location of the purchaser, but we do not have access to the name, mailing address, phone number, email address, or other personal identifying information of the user. We also may use Google Adsense, whose DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). You may also chose to disable or selectively turn off cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with websites. For example, entirely blocking cookies can cause the inability to login to services or programs, such as logging into forums or accounts.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-**How I Use Your Information** Going Crazy!! Wanna Go??!! uses your Internet Protocol (IP) address to help diagnose problems with the computer server, and to administer the web site. Your IP address is used to help identify you, and to gather broad demographic data. Your IP address contains no personal information about you. For example, it does not include your name, email, or mailing address. ** ** I will not disclose any personal information about you without your prior consent, unless I  have a belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of Going Crazy!! Wanna Go??!!; (iii) protect the interests of users of my services otherthan you or any other person; or (iv) operate or conduct maintenance and repair of my services or equipment as authorized by law. I do not sell or rent personal information about users to ANYONE!! If you voluntarily disclose personal information in comments, that information might be collected and disseminated by third parties, and result in, among other things, unsolicited inquiries, messages, and offers from third parties. Although our comment form may require an email address, that is not shown to the public. Email address shown in the body of the comment, however, will be displayed. Please understand that any information that is disclosed in comments becomes public information and this third-party conduct is out of the control of Pika Revolution. Please exercise caution when deciding to disclose your personal information. Going Crazy!! Wanna Go??!! may also contain links to other web sites. I am not responsible for the privacy practices or the content of such web sites.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-**Security** The identifiable information I collect is securely stored within my database, and I  use standard, industry-wide practices for protecting your information. However, as effective as encryption technology is, no security system is impenetrable. I cannot guarantee the security of my database, nor can I guarantee that information you supply won’t be intercepted while being transmitted to me over the Internet.
+### Media
 
-**Revisions and Amendment** If you have further privacy concerns please do not hesitate to contact me [here](http://goingcrazywannago.com/privacy-policy/ "Email"). This Privacy Policy is effective as of August 2, 2011. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. Going Crazy!! Wanna Go??!! reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on the site. Any such change, update or modification will be effective immediately upon posting.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
+### Contact forms
+
+### Cookies
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+## Who we share your data with
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+## Additional information
+
+### How we protect your data
+
+### What data breach procedures we have in place
+
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
