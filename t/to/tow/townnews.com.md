@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the townnews.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122182434id_/https%3A//www.townnews365.com/about/privacy-policy/article_56cce232-78ef-11e5-8383-2f2aa5d652b0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the townnews.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621175940id_/https%3A//townnews.com/about/privacy-policy-and-terms-of-use/article_56cce232-78ef-11e5-8383-2f2aa5d652b0.html) for the most accurate reproduction.*
 
-# Privacy policy | About TownNews.com | townnews365.com
+# Privacy Policy and Terms of Use | About TownNews | townnews.com
 
-This privacy policy discloses the privacy practices for [TownNews.com](http://townnews.com/). This privacy policy applies solely to information collected by this web site. It will notify you of the following:
+### Terms of Use
+
+ **Prohibited uses**
+
+This Site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this Site. If you have accessed this Site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at [webmaster@townnews.com](mailto:webmaster@townnews.com).
+
+### Privacy Policy
+
+This privacy policy discloses the privacy practices for TownNews. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
   * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   * What choices are available to you regarding the use of your data.
