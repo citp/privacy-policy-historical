@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinsup.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216113423id_/http%3A//coinsup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinsup.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621185546id_/http%3A//coinsup.com/privacy) for the most accurate reproduction.*
 
 # CoinsUp
 
@@ -185,7 +185,7 @@ When processing Your personal data, We rigorously comply with the regulations of
 
 **Registration number** : 1719057
 
-**Address** : Geneva Place, Waterfront Drive, PO Box 3469, Road Town, Tortola, British Virgin Islands
+**Address** : Vistra Corporate Services Centre, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands
 
 **Bank** : Rietumu Banka
 
