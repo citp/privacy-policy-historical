@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the empoweringparents.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121000905id_/https%3A//www.empoweringparents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empoweringparents.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621033915id_/https%3A//www.empoweringparents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Empowering Parents
 
-#### _Effective as of May 25, 2018_
+#### _Effective as of April 12, 2019_
 
 We want you to feel secure when visiting the EmpoweringParents.com web site (the “Web Site”) and are committed to maintaining your privacy when doing so. Please take a moment to read this Privacy Policy, which describes the online data collection and usage policies and practices that apply to the Web Site. By using the Web Site, you consent to the policies and practices described in this Privacy Policy. If you do not agree with these policies and practices, please discontinue your use of the Web Site.
-
-_EmpoweringParents.com currently does not market to or offer services to individuals in the European Union (EU)._
 
 This Web Site is made available by the Advantage Media Group (DBA “EmpoweringParents.com”), and all references herein to “we” or “us” refer to EmpoweringParents.com. All references herein to “you” or “user” refers to any person that accesses and/or uses the Web Site.
 
@@ -40,7 +38,7 @@ Empowering Parents
 325 Main Street  
 Suite 114  
 Waterville ME 04901  
-(207) 856-5600  
+(800) 460-2253  
 service@empoweringparents.com
 
 EmpoweringParents.com may make your personal information available to third parties for their marketing purposes as described in this Privacy Policy. If you do not wish to share your personal information in this way, send your request to:
@@ -49,12 +47,41 @@ Empowering Parents
 325 Main Street  
 Suite 114  
 Waterville ME 04901  
-(207) 856-5600  
+(800) 460-2253  
 service@empoweringparents.com
 
 #### European Union Privacy
 
-EmpoweringParents.com is a U.S.-based site and currently does not market to or offer services to individuals in the European Union (EU). If you are located or reside within the EU, please do not sign up for emails, create an account, or provide EmpoweringParents.com with any personal information.
+For citizens of the European Union, the law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+
+You can at any time change or withdraw your consent from the [Cookie Policy](https://www.empoweringparents.com/cookie-policy/) page on our website.
+
+Under the General Data Protection Regulation (GDPR), you have the following rights:
+
+The right to be informed – this means anyone processing your personal data must make clear what they are processing, why, and who else the data may be passed to.
+
+The right of access – this is your right to see what data is held about you by us.
+
+The right to rectification – the right to have your data corrected or amended if what is held is incorrect in some way.
+
+The right to erasure – under certain circumstances you can ask for your personal data to be deleted. This is also called ‘the Right to be Forgotten’. This would apply if the personal data is no longer required for the purposes it was collected for, or your consent for the processing of that data has been withdrawn, or the personal data has been unlawfully processed.
+
+The right to restrict processing – this gives you the right to ask for a temporary halt to processing of personal data, such as in the case where a dispute or legal case has to be concluded, or the data is being corrected.
+
+The right to data portability – you have the right to ask for any data supplied directly to us by you, to be provided in a structured, commonly used, and machine-readable format.
+
+The right to object – you have the right to object to further processing of your data which is inconsistent with the primary purpose for which it was collected, including profiling, automation, and direct marketing.
+
+Rights in relation to automated decision making and profiling – you have the right not to be subject to a decision based solely on automated processing.
+
+If you have any concerns or questions regarding how we process your data, or if you wish to exercise any rights you have under the GDPR, please contact us at:
+
+Empowering Parents  
+325 Main Street  
+Suite 114  
+Waterville ME 04901  
+(800) 460-2253  
+service@empoweringparents.com
 
 #### Children’s Privacy
 
@@ -76,6 +103,8 @@ Like many commercial websites, we analyze how readers use this site through what
 
 Similarly, we use what is known as “client-side page tagging” to write certain information about the page and the visitor to a log when a page is rendered by your web browser. This technique is also commonly used on commercial websites. “Tagging” does result in a small amount of JavaScript running on your computer, but it is limited to providing information about the page that you are requesting and the configuration of your browser. It will not read any of your data files, or execute any additional programs. It does not extract any personal information about you, such as your name or address. You can prevent tagging by disabling JavaScript in your browser, but that may prevent you from using all of our website’s functions.
 
+You can learn more about the cookies in use on our website on our [Cookie Policy](https://www.empoweringparents.com/cookie-policy/) page.
+
 ### DATA SECURITY
 
 We use tools from Google, Adobe and others to help collect aggregate data, such as browser type, connection speed, referring/exit pages, device type, date/time stamp, and the number of clicks to help us analyze trends, administer the site and make improvements. This information is not linked to any personally identifiable information you may share with us.
@@ -96,5 +125,5 @@ Empowering Parents
 325 Main Street  
 Suite 114  
 Waterville ME 04901  
-(207) 856-5600  
+(800) 460-2253  
 service@empoweringparents.com
