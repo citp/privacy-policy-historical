@@ -1,107 +1,317 @@
-> *The following text is extracted and transformed from the openstack.org privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831013506id_/https%3A//openstack.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openstack.org privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621101755id_/https%3A//openstack.org/privacy) for the most accurate reproduction.*
 
 # OpenStack Privacy Policy - OpenStack is open source software for creating private and public clouds.
 
-OpenStack Foundation (OpenStack) respects your privacy and is committed to protect the privacy and confidentiality of personal data we collect when you use the website located at http://www.openstack.org (the Website). This Privacy Policy describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us.
+The OpenStack Foundation is a Delaware non-stock, non-profit corporation under the jurisdiction of the FTC with its principal office in Austin, Texas. The goal of the OpenStack Foundation is to serve developers, users, and other participants in the OpenStack infrastructure ecosystem by providing a set of shared resources to build community, facilitate collaboration, and support integration of open source technologies.
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE SITE.
+This Privacy Policy describes how the OpenStack Foundation collects personal data from and about website visitors and individual community members, how and why we use that data, and the circumstances under which we share that data with others. The Privacy Policy covers the following OpenStack Foundation web properties: [openstack.org](https://www.openstack.org/), [airshipit.org](https://www.airshipit.org/), [starlingx.io](https://www.starlingx.io/), [zuulci.org](https://zuul-ci.org/), [katacontainers.io](https://katacontainers.io/), [opendev.org](https://opendev.org/), and [opendevconf.com](http://2018.opendevconf.com/).
 
-## 1\. SCOPE OF THIS PRIVACY POLICY
+The OpenStack Foundation is committed to the principles of the Privacy Shield through transparent disclosure of our activities related to privacy protection. We work at carefully balancing the Foundation’s interest in using your personal data to meet its goal against any potential impact to you arising from our use.
 
-This Privacy Policy applies to all information (including, personal information) collected through the Website. For purposes of this Privacy Policy, the term visitor includes visitors to the Website, whether you upload information to the Website, download it, or are merely visiting the Website; the term personal information means information that identifies you personally, either alone or in combination with other information available to us. Personal information does not include "aggregate" information, which is data we collect about the use of the Website, or about a group or category of products, services or users, from which individual identities or other personal information has been removed. This policy in no way restricts or limits our collection and use of aggregate information, and we may share aggregate data about our users with third parties for various purposes. You can choose not to provide certain information when using the Website but then you might not be able to take advantage of many of its features.
+If you have any questions or concerns about this Privacy Policy, or want further information on how we balance your right to personal data protection against our interest in serving our community, please contact us at [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#4c3c3e253a2d2f350c233c29223f382d2f2762233e2b), or PO Box 1903, Austin, Texas 78767.
 
-This Privacy Policy is part of and incorporated into OpenStacks Website Terms of Use, http://www.openstack.org/website-terms-of-use.
+## This Policy is divided into sections:
 
-## 2\. WHAT INFORMATION DO WE COLLECT?
+### I. [Personal data that we collect from and about you](https://www.openstack.org/privacy#PartI)
 
-### Active Collection of Information
+#### A. Personal data we collect
 
-Personal information may be collected in a number of ways when you visit the Website. We may collect certain information that you voluntarily provide to us which may contain personal information. For example, we may collect your name, email address, user name, and telephone number when you register, set up an account or contact us by e-mail.
+#### B. Personal data we receive from other organizations
 
-### Passive Collection of Information
+### II. [Third parties who collect data on our website](https://www.openstack.org/privacy#PartII)
 
-When you visit the Website, some information may be automatically collected. For example, it is standard for your Web browser to automatically send information to every Web site you visit including ours. Such information includes your computer's Internet Protocol (IP) address, access times, browser type and language, and referring Web site addresses. We may also collect information about your usage and activity on the Site.
+### III. [How we use your personal data and the legal basis for such use](https://www.openstack.org/privacy#PartIII)
 
-### Online Mediums Reminder
+### IV. [Circumstances under which we may disclose your personal data](https://www.openstack.org/privacy#PartIV)
 
-Chat rooms, forums, blogs and/or news groups (Online Mediums) may be available to the OpenStack community. Any information that you disclose in the Online Mediums becomes public information. Please exercise caution when deciding to disclose any personal identifiable information. We reserve the right to remove or edit any posting that we find is vulgar or inappropriate.
+### V. [Cookies and other online data collection technologies](https://www.openstack.org/privacy#PartV)
 
-### Web Visit
+### VI. [Email Policy](https://www.openstack.org/privacy#PartVI)
 
-You may visit our Websites in any of the following ways:
+### VII. [Children](https://www.openstack.org/privacy#PartVII)
 
-  * By using your browser to navigate to our Website www.openstack.org.
-  * By viewing an advertisement displayed on a third party website that is served content by our web server;
-  * By viewing an email that is served content by our or a third party web server.
+### VIII. [Security](https://www.openstack.org/privacy#PartVIII)
+
+### IX. [Data retention](https://www.openstack.org/privacy#PartIX)
+
+### X. [Requests to amend or erase your personal data, or restrict our use of your personal data](https://www.openstack.org/privacy#PartX)
+
+### XI. [De-identified data](https://www.openstack.org/privacy#PartXI)
+
+### XII. [EU-US and Swiss Privacy Shield](https://www.openstack.org/privacy#PartXII)
+
+### XIII. [Changes to Policy](https://www.openstack.org/privacy#PartXIII)
+
+Please note that this Privacy Policy does not cover the privacy practices of separate organizations that are authorized to use the OpenStack name or logo. For example, this Privacy Policy does not cover personal data collected by user groups and supporters. Those organizations are responsible for posting their own privacy policies.
+
+These words have specific meanings in this Privacy Policy:
+
+**goal** refers to the goal of the OpenStack Foundation stated above, and the Foundation’s purpose as stated in our Bylaws at <https://www.openstack.org/legal/bylaws-of-the-openstack-foundation/>.
+
+**site** means the website at <https://www.openstack.org/foundation/> and any other website on which this Privacy Policy is posted, including each of the following:
+
+**community member** means an individual who: (i) is a member of the OpenStack Foundation, (ii) contributes software, documentation, or other information to the OpenStack Project, (iii) attends an OpenStack event, (iv) takes a certification exam, such as the OpenStack Administrator exam, or (v) provides personal data to the Foundation in some other way as described below;
+
+**personal data** or **personal information** means any information about an individual that identifies the individual, or that can be used to identify the individual, directly or indirectly.
+
+**we** and **our** and **us** refers to the OpenStack Foundation; and
+
+ **you** and **your** refers to visitors and community members.
+
+##   
+Part I. Personal data that we collect from and about you
+
+### A. Personal Data We Collect. We collect different kinds of personal data from and about you as follows:
+
+  * when you visit openstack.org or any other website where this policy is posted as a guest 
+    * when you visit our sites our web server will capture your IP address, the time and duration of your visit, and the pages on the site that you visit. It may also collect information about your browser type and version (including any plug-ins), operating system and platform, device (including your mobile device), time zone setting and location and other information of the type collected by web servers generally. We use cookies, web beacons, pixel tags and other techniques to identify your browser and device to your guest activity on the site. Please see the section below captioned “Online Data Collection Technologies” for more information regarding our use of these techniques and your ability to restrict our collection of data in this manner.
+    * we may use third party web analytics tools such as Google Analytics or Google Website Optimizer, to capture information about the use of our site, such as mouse clicks and scrolling activity. The providers of these tools capture data about your activity on our site, via cookies and other techniques, and provide us with this information in aggregate, anonymous form. This information is not personally identifiable to any site user.
+  * when you submit other information on our site:
+
+if you want to join the OpenStack Foundation as an individual member, you will be asked to complete a web form with your name, contact information, employer name, physical location, field of activity, profession, and other information;
+
+if you sign up for a mailing list, we will ask for your name and contact information.
+
+  * when you publish content on the site:
+
+if you participate in a forum, chat room, blog, or news group, your user name and the information you publish will be available to the OpenStack Foundation (and the public);
+
+  * if you are a candidate for a seat on the OpenStack Foundation Board of Directors:
+
+we will ask you to submit biographical information and a photograph of yourself to post on our site.
+
+  * when you use our OpenStack Summit mobile app:
+
+if you use our mobile app to plan your activity at the summit (which sessions to attend, etc.), we will have access to those plans as a necessary part of providing this feature. We do not view or use that information except in emergency circumstances – see “How we use your personal data” below. We also have access to your unique device identifier and other information useful for monitoring the availability of the app. We currently use Crashlytics to monitor the availability of the app.
+
+  * when you send us an email (including email to community group lists), or via our site to submit a question to openstack.org:
+
+we will collect your name and email address.
+
+  * when you participate in a survey:
+
+we periodically ask Project users to complete a survey to provide feedback on our events. If you choose to participate in such a survey, you will be asked to submit personal data such as your name, email address, and location.
+
+  * when you register for an OpenStackID in order to contribute source code or documentation via Launchpad or other repository:
+
+we require you to provide your name and email address to issue you with the required OpenStackID.
 
 
 
-When you visit our Website, our server logs your IP address (unique network addresses), the time and duration of your visit, and the time and duration of the pages on our website you view. If you arrive at our website by clicking a paid advertisement (including a paid search engine result) or a link in an email, then we will capture information that tracks your visit from that link. If you arrive at our Website by clicking a non-paid source, such as link in a non-paid search engine result or an unsponsored link on another website, we may capture information that tracks your visit from that source, to the extent we are able to do so. We may also capture information about your computer system, such as your browser type and operating system.
 
-We will likely place a cookie on your hard drive during the web visit. A cookie is a unique alphanumeric identifier that we use to help us identify the number of unique visitors to our Website, whether or not those visitors are repeat visitors, and the source of the visits. Cookies cannot be executed as code or used to deliver a virus. Other servers cannot read them and personal information cannot be gathered from them. They are simply an identifier shared between you and us to allow us to improve the services we offer to you through our Website. If you do not wish cookies to be placed on your computer, then they can be disabled in your web browser. The option to do so is normally found in your browser's "security settings" section. However, please note, permanently disabling cookies in your browser may hinder your use of our Website as well as other websites and interactive services.
+### B. Personal Data We Receive from Other Organizations. We receive personal data from these organizations who collect personal data from and about you:
 
-A web beacon, also known as a web bug, is a small graphic (usually 1 pixel x 1 pixel), that is embedded in a web advertisement, email, or page on our web site, but is invisible to you. When you view a page on our web site, an email or an advertisement your web browser will request the web beacon from a web server, which in turn will set a cookie in your web browser containing a unique identifier. This unique identifier will be linked to log information that is used to track your movements on our web site in order to determine the effectiveness of content and advertising campaigns.
+  * event contractors we hire to provide event registration and management services, such as Eventbrite:
 
-We do not collect personal information about you as part of a web visit, but web visit information may be tied to other information (including personal information) we collect from you via chat, web forms, and the other means we describe in this Privacy Policy.
+if you register to attend on of our bi-annual summits, you will register and pay through Eventbrite and will be asked to submit name, email address, company, work phone, title, and geographic location of your workplace. Eventbrite shares that data with us.
 
-Our advertising agencies may also use web beacons and cookies to track your activity on our website originating from the advertisement. However, we will not provide your personal information to our advertising agencies. Our advertising agencies maintain their own privacy policies, and you should also review those.
+  * event technology providers such as vandePoel Productions and FNTECH:
 
-### Links to non-OpenStack Websites
+event sponsors who host a booth or other facility at an OpenStack event may use a device provided by vandePoel Productions that enables them to scan your event badge. You do not have to permit an event sponsor to scan your event badge, but if you do, the event sponsor will be able to collect the personal data you provided to Eventbrite when you registered for the Summit.
 
-We may provide links to third-party websites for your convenience and information. The privacy practices of those sites may differ from OpenStack practices and are not controlled by OpenStack and covered by this Privacy Policy. We do not make any representations about third-party websites. We encourage you to review their privacy policies before submitting your personal data.
+  * source repository managers, such as Canonical:
 
-### Sensitive Information
+Canonical manages our Launchpad instance. As the account owner and administrator, OpenStack has access to the information that you provide to Canonical, such as your Launchpad id.
 
-We will not intentionally collect or maintain, and do not want you to provide, any information regarding your medical or health condition, race or ethnic origin, political opinions, religious or philosophical beliefs or other sensitive information.
+  * social media:
 
-### Childrens Online Privacy Protection
+the OpenStack Foundation has a Facebook page, a Twitter account, LinkedIn Company Page, and YouTube Channel. Your user names on these platforms will be exposed to OpenStack if you follow our social media accounts. Any personal data you elect to share as part of a posting using those platforms is also available to us.
 
-Our services are not designed for or directed to children under the age of 13, and we will not intentionally collect or maintain information about anyone under the age of 13.
+  * exam administrators:
 
-## 3\. WHAT DO WE USE THIS INFORMATION FOR?
+if you register for and take an OpenStack certification exam, such as the Certified OpenStack Administrator exam, our exam administrator, which is currently the Linux Foundation, will collect your name and other personal data. The Linux Foundation provides us with exam results tied to the OpenStack ID you use to register for the exam.
 
-Contact and other Personal Information. We use visitor information to send information about the OpenStack project to visitors and to get in touch with them when necessary. We also use the information we collect to improve the content of the Website. We may use your information to communicate with you about the OpenStack project and the OpenStack technology, provide access to secure areas of the Website, recommend merchandise and services that might be of interest to you, to personalize your visit to our Website, and to enable us to review develop and continually improve the information we provide online. We also use this information to prevent or detect fraud or abuses of our Website and to enable third parties to carry out technical, logistical or other functions on our behalf.
+  * advertisers who link to our Sites:
 
-We use web visit information to measure interest in and develop our web pages and marketing plans, customize the content you view on your web visits based on your activity on past visits, and administer our Website.
+if you arrive at our site by clicking on an advertisement or content published by a third party, that third party may provide information to us about your activity on their website. we may use Google AdWords or other third party advertisers.
 
-  * We use the visitors IP address to help diagnose problems with our servers, and to administer our Websites.
-  * We use cookies to help us recognize visitors as unique visitors (just a number) when they return to our websites. For example, if there are 1,000 visits to our website on a certain day, we can use cookies to discover how many of those visits were made via the same browser (same visitor). We may also use the cookie to discover whether a certain visitor has visited our site more than once, and the source for each visit. We also use cookies to: allow us to tailor content or advertisements to match your preferred interest; avoid showing visitors the same advertisements repeatedly; compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our Website (we cannot identify visitors personally in this way); count the number of anonymous users of our sites.
-  * We use web beacons to count the number of times that our advertisements and web-based email content are viewed. We combine web beacon information with cookies to track activity on our website originating from advertisements and web-based email content.
+  * community partners:
+
+local user groups and other community partners also provide us information about your attendance at their events, including your name and email address.
+
+Generally we do not combine personal data we have about you from different sources for any purpose, with the exception that we will use information we collect about your interest in our events to send you email communications about those events.
 
 
 
-Information provided to us via telephone calls, chat, email, web forms and other communications. We use this information to correspond with you about the OpenStack project and the OpenStack community-oriented efforts.
 
-## 4\. DISCLOSURE OF PERSONAL INFORMATION
+## II. Third Parties Who Collect Data
 
-Personal information we gather is for internal use only and will not authorize the release of this information to anyone outside OpenStack (except to third party service providers to OpenStack who perform functions on our behalf but in such event personal information will only be shared to the extent reasonably necessary to perform their functions and they will not be authorized to use it for any other function), unless you have consented to such disclosure.
+### On Our Site
 
-Should you breach our Website Terms of Use, or if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, we may disclose your information to a relevant authority. This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. In particular, we may release the information we collect to third parties when we believe it is appropriate to comply with the law, to enforce our legal rights, to protect the rights and safety of others, or to assist with industry efforts to control fraud, spam or other undesirable conduct.
+Third parties who display content or provide services on our websites may also collect personal data about you using cookies, tracking pixels, and other methods. They share some of that data with us as described above, but they may collect other data that they use for things un-related to OpenStack. For example,
 
-## 5\. YOUR CHOICES ABOUT RECEIVING E-MAIL and OPTING OUT OF COMMUNICATIONS
+  * YouTube <https://policies.google.com/privacy?hl=en>
+  * Google AdSense <https://policies.google.com/privacy?hl=en>
+  * Shopify <https://www.shopify.com/legal/privacy#Main>
+  * Google reCAPTCHA <https://policies.google.com/privacy?hl=en>
+  * Akismet <https://automattic.com/privacy/>
+  * Google Tag Manager <https://policies.google.com/privacy?hl=en>
+  * CloudFlare <https://www.cloudflare.com/privacypolicy/>
 
-OpenStack gives you an opportunity to opt-in and opt-out of receiving communications from OpenStack or opting-out of personal data being disclosed to third parties for a purpose incompatible with the purpose for which it was originally collected (except for meeting applicable legal requirements or permitting third party service providers who perform functions on our behalf as described in Section 4 of this Privacy Policy), including your opting out of receiving future marketing mailings.
 
-We will not use your contact information to correspond with you about our services if you ask us not to. Please send your request to [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#f69f989099b699869398858297959dd8998491) or write us at Compliance Officer, OpenStack Foundation, P.O. Box 1903, Austin, TX 78767. Please note that it may take up to ten days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.
 
-## 6\. SECURITY OF YOUR INFORMATION
+You may block cookies using the [cookiebot](https://www.openstack.org/privacy#cookiebot) feature available on our site. If you elect to permit collection of data via cookies initially, but later change your mind, you can change your preferences.
 
-We use various security measures to protect your personal information (including, preventing the loss, misuse, unauthorized access, disclosure, alteration and destruction of your personal information). We store information you provide to us on a computer system located in a controlled facility with a limited access.
+### Mobile App Availability Monitoring
 
-If you use a password on the Website, you are responsible for keeping it confidential. Do not share it with any other person. If you believe your password has been misused, please notify us immediately.
+We use Crashlytics to monitor the availability of the OpenStack Summit mobile app. Crashlytics collects mobile device unique identifiers and other information. Their collection and user of personal data is described in their privacy policy, which can be found http://try.crashlytics.com/terms/privacy-policy.pdf. If you do not want your personal data shared with Crashlytics you should not use the mobile app.
 
-## 7\. RIGHT TO ACCESS YOUR PERSONAL INFORMATION
+## Part III – How we use personal data and the legal basis for such use
 
-If you believe that any personal information we have about you is incorrect, or is, has been, or might be used inappropriately, please contact us at[ [email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#e48d8a828ba48b94818a979085878fca8b9683) and we will take steps to correct or delete the information, or restrict its use, as appropriate.
+We will use your personal data to provide information and services to you as a participant in the OpenStack community and to manage the community consistent with the Foundation’s goals, at all times balancing the Foundation’s goal against your interest in protecting your personal data. We will strive to use your personal data only to the limited extent necessary to meet our legitimate interest as the manager of the OpenStack Project and community. Specific ways that we use your personal data in this way are as follows:
 
-## 8\. INQUIRIES OR COMPLAINTS
+  * to provide you with information that you have requested or that is relevant to the OpenStack community:
 
-If you have a question or complaint about this Privacy Policy or our information collection practices, please contact us at [i[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#264f4840496649564348555247454d08495441) or write us at Compliance Officer, OpenStack Foundation, P.O. Box 1903, Austin, TX 78767. We will investigate the matter and are committed to resolve any privacy concerns that you may have.
+if you elect to be included in our Individual Member Directory, we will publish your member profile on our site;
 
-## 9\. CHANGES
+we may use your email address to send you information about upcoming events, Foundation news, and governance matters;
 
-We may change this Privacy Policy from time to time. You should check our website frequently to see recent changes; however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent. This Privacy Policy was last updated on March 17, 2016.
+Please see the section below captioned Email Policy for information on how to stop receiving email communications from us.
 
-March 17, 2016
+  * to improve our website: 
+
+we use web visit information to measure interest in and develop our web pages and marketing plans, and administer our site.
+
+  * to administer our website:
+
+we use web visitor IP addresses to help diagnose problems with our servers, and to administer our site.
+
+  * to improve our events and our management of the OpenStack Foundation and the community in general:
+
+we use personal data you choose to provide in response to our survey, as well as your comments on our site content.
+
+  * to provide you with access to secure areas of our site or third party services, such as the code repository service or a certification exam; and
+  * to respond to complaints regarding a violation of our Code of Conduct.
+
+We will not use your personal data in any other way unless:  
+(i) you have given your express consent for that use, or (ii) to the limited extent necessary to comply with a legal obligation that we are subject to.
+
+
+
+
+## Part IV. Circumstances under which we may disclose your personal data
+
+### We will not disclose your personal data to third parties except as follows:
+
+  * to third parties that provide services to us:
+
+for example, we currently use the following third party services:
+
+Mailchimp, Emma, and Sendgrid for outgoing email;
+
+Salesforce for community relationship information management;
+
+Discus for the comments features on our blog and other Web publications;
+
+Zendesk to manage incoming email and other requests, such email to [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#4825293a232d3c21262f0827382d263b3c292b2366273a2f) and [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#97f5fefbfbfef9f0d7f8e7f2f9e4e3f6f4fcb9f8e5f0);
+
+Survey Monkey to administer surveys and analyze the results;
+
+Adobe Echosign e-signing service; and
+
+Formstack to administer webforms.
+
+  * we may use other service providers to provide similar services to those described above or to otherwise help us manage contact information and communications, analyze data, provide marketing services, or other services that help us manage the OpenStack Foundation. These providers are not authorized to further disclose your personal data or to use your personal data for any purpose other than providing services to us.
+  * our site is hosted and monitored by third parties and we use third party infrastructure monitoring services. These third parties may have inadvertent or incidental access to your personal data. These providers are not authorized to further disclose your personal data or to use your personal data for any purpose other than providing services to us.
+  * we may disclose your personal data when we believe release is appropriate to comply with the law, or to protect the rights and safety of others. This may include exchanging information with government regulatory or law enforcement agencies, or with other companies and organizations for fraud protection and legal compliance. We have, in the rare occasion of an emergency, used information that a mobile app user entered regarding their planned activities to find the user.
+  * in the event we merge the Foundation with another non-profit organization, we will disclose your personal information to the successor entity, and the successor entity will use and disclose your personal data in the same manner as set out in this Privacy Policy.
+
+
+
+
+### We do not directly disclose event registration data to event sponsors. However, event sponsors may receive your personal data under the following circumstances:
+
+  * event sponsors who host a booth or other facility at an OpenStack event may use a device provided by vandePoel Productions that enables them to scan your event badge. You do not have to permit an event sponsor to scan your event badge, but if you do, the event sponsor will be able to collect the personal data you provided to Eventbrite when you registered for the Summit.
+  * if you register for parties, visit a sponsored lounge, or participate in other sponsored events or facilities, you may be asked to provide personal data to the sponsor as part of the registration or when you sign in.
+  * personal data collected by event sponsors is subject to each sponsor’s Privacy Policy.
+
+
+
+**A note about Elections Administrators** : we currently use BigPulse to administer our annual election of individual members to the OpenStack Board of Directors. BigPulse enables the OpenStack Foundation to issue each eligible voter a unique link to the voting platform. To vote in this election you are required to use this unique link. BigPulse shares the aggregate election results with the OpenStack Foundation and the community, but does not share individual voting records.
+
+## Part V. Online Data Collection Technologies
+
+A cookie is a unique alphanumeric identifier that is used to identify unique visitors to a website, whether or not those visitors are repeat visitors, and the source of the visits. Cookies cannot be executed as code or used to deliver a virus. Cookies are used to help site administrators recognize visitors as unique visitors (just a number) when they return. For example, if there are 1,000 visits to a website on a certain day, the site operator can use cookies to discover how many of those visits were made via the same browser (same visitor) and to track whether a certain visitor has visited the site more than once, and the source for each visit.
+
+A tracking pixel, also known as a web bug or web beacon, is a small graphic (usually 1 pixel x 1 pixel) invisible to the eye, that is embedded in web content or email. When you view content that has an embedded web beacon, your web browser will request content from a web server, which in turn will set a cookie in your web browser containing a unique identifier. This unique identifier can be linked to log information that is used to track your movements on the operator’s website.
+
+[You may block cookies using the cookiebot feature available on our site](https://www.openstack.org/#cookiebot). Your current cookie status and the link to change it appears in Section II above captioned “Third Parties Who Collect Data On Our Site.”
+
+## Part VI. Communications Policy
+
+If you do not wish to receive our email or other communications, please send your request to [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#2555574c5344465c654a55404b565144464e0b4a5742) or write us at Compliance Officer, OpenStack Foundation, P.O. Box 1903, Austin, TX 78767. Please note that it may take up to ten days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.
+
+## Part VII. Children
+
+None of our websites, mobile applications or services are intended for children. Do not attempt to register as a services user unless you are at least 18 years old. Do not submit information about yourself using our websites or applications if you are under 13. If you are the parent or guardian of a child under 13 who may have submitted information to us please contact us at [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#d0a0a2b9a6b1b3a990bfa0b5bea3a4b1b3bbfebfa2b7).
+
+## Part VIII. Security
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost or accessed in an unauthorized manner, including being altered or disclosed.
+
+We have put in place procedures to handle security incidents, including a process for making notifications to you or a data breach as required by law.
+
+We require our service providers to comply with appropriate security measures and to give us notice of security events as necessary for us to meet our security obligations to you.
+
+## Part IX. Data Retention
+
+We will retain your personal data only for as long as reasonably necessary to fulfil the purpose for which it was collected, and to comply with our legal obligations. We may retain your personal data for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
+
+Please contact us at [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#ed9d9f849b8c8e94ad829d88839e998c8e86c3829f8a) if you would like more information about our data retention policies
+
+## Part X. Requests to amend or erase your personal data, or restrict our use of your personal data
+
+Our policies for complying with your requests to amend, erase, restrict or take other action with respect to your personal data are stated below. We will comply with the applicable legal requirements for these types of requests. You should communicate your request to [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#6313110a1502001a230c13060d10170200084d0c1104).
+
+  * **Request access**  to your personal data. This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+  * **Request correction**  of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+  * **Request erasure**  of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law.
+
+  * **Object to processing**  of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+  * **Request restriction** of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios:
+
+    * If you want us to establish the data's accuracy;
+    * Where our use of the data is unlawful but you do not want us to erase it;
+    * Where you need us to hold the data even if we no longer require it as you need it to establish, exercise, or defend legal claims; or
+    * You have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+  * **Request the transfer**  of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+  * **Withdraw consent** at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+If your request under this section is clearly unfounded, repetitive or excessive, we may charge you a fee to comply, or we may refuse to comply with your request, to the extent permitted by applicable law. We may need to request additional information from you to confirm your identity and help us comply with your request. We will try to respond to all legitimate requests within one month. If your request is particularly complex or you have made a number of requests, it may take us longer than a month. In this case, we will notify you and keep you updated. There may be circumstances in which we believe our interest as the community manager requires us to retain your personal data despite your request, but we will disclose this to you at the time of the request. Those circumstances include the following:
+
+    * If you ask to have your individual member data removed, we may retain your name, email and OpenStack ID in a separate “deleted members” database. We will use this record only to track our compliance with your deletion request and to respond to any subsequent communications you may have with us;
+    * If you contribute code or documentation to the OpenStack Project we believe our legitimate interest as the manager of the OpenStack Project requires us to retain and publish your name in connection with that contribution indefinitely, even if you ask to you have your name removed.
+
+
+
+## Part XI. De-identified data
+
+In some circumstances we may use or disclose de-identified data about our community members to third parties, including aggregate data, such as the size of our community, the demographic make-up of the community, the proportionate number of users vs. developers, and like information. Provided that we have de-identified this data in a way that it cannot be re-identified to any individual, we do not consider this type of information to be “personal data” subject to this policy.
+
+## Part XII. EU-US and Swiss Privacy Shield
+
+The OpenStack Foundation participates in the EU-US and Swiss Privacy Shield frameworks regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, [visit here](https://www.privacyshield.gov/servlet/servlet.FileDownload?file=015t00000004qAg). Our certification appears here.
+
+[ ](https://www.privacytrust.com/cert/125927.html)
+
+In compliance with the Privacy Shield Principles, The OpenStack Foundation commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact The OpenStack Foundation at [[email protected]](https://www.openstack.org/cdn-cgi/l/email-protection#1565677c6374766c557a65707b666174767e3b7a6772) and give us the opportunity to resolve your complaint. We will respond to your complaint promptly.
+
+The OpenStack Foundation has further committed to refer unresolved Privacy Shield complaints to Privacy Trust, an alternate dispute resolution provider located in the United States. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.privacytrust.com/drs/openstack> for more information or to [raise a privacy shield complaint with PrivacyTrust](https://www.privacytrust.com/drs/openstack). The services of Privacy Trust are provided at no cost to you.
+
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, OpenStack remains liable.
+
+Finally, as a last resort and in limited situations, EU individuals may seek redress from the [Privacy Shield Panel](https://www.privacyshield.gov/article?id=F-The-Arbitration-Panel), a binding arbitration mechanism.
+
+Please see the additional information provided by the U.S. Department of Commerce [here on resolving complaints](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint&__hstc=121262807.82af9c9a98fa600b1bb630f9cde2cb5f.1545955200044.1545955200045.1545955200046.1&__hssc=121262807.1.1545955200047&__hsfp=998628806).
+
+## Part XIII. Changes to Policy
+
+We may revise our Privacy Policy at any time by posting a revision on our website. However, the version of the Privacy Policy posted on our site at the time of the collection of your personal data will continue to apply to the personal data collected while that version was published.
 
 ## 10\. COOKIES
