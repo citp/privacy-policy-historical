@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freejobalert.in privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215053132id_/http%3A//freejobalert.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freejobalert.in privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621125447id_/http%3A//freejobalert.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
