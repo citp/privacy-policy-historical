@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zytrax.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222021734id_/http%3A//www.zytrax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zytrax.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621191836id_/http%3A//zytrax.com/privacy.html) for the most accurate reproduction.*
 
 # ZyTrax Privacy Policy
 
