@@ -1,200 +1,82 @@
-> *The following text is extracted and transformed from the ambitionbox.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701200813id_/https%3A//ambitionbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambitionbox.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621061236id_/https%3A//www.ambitionbox.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of Ambitionbox
+# Privacy Policy | AmbitionBox (Naukri.com)
 
-## Data Controller and Owner
+[AmbitionBox |](https://web.archive.org/)[Reviews](https://www.ambitionbox.com/reviews "Company reviews by employees")[Salaries](https://www.ambitionbox.com/salaries "Company Salaries")[Interviews](https://www.ambitionbox.com/interviews "Interview Questions")[Salary Calculator](https://www.ambitionbox.com/salaries/take-home-salary-calculator "Salary Calculator")[Practice Tests](https://www.ambitionbox.com/topics/aptitude/questions-and-answers "Aptitude questions & answers")
 
-AmbitionBox - Sai Ansh Society, Sanpada, Sector 11, Navi Mumbai - 400705,  
-[hi@ambitionbox.com](https://web.archive.org/cdn-cgi/l/email-protection)  
+This Privacy policy is subject to the Terms of Use of www.AmbitionBox.com (the “Website”). The Website is owned and operated by Info Edge (India) Limited.
 
+“Personal Information” means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit the Website without telling us who you are or revealing any Personal Information about yourself.
 
-## Types of Data collected
+We believe that protecting the confidentiality and privacy of our registered users is very important. For this reason, our basic features are designed to protect your privacy. Further we have settings that enable you to set your privacy and confidentiality levels to those that you are comfortable with.
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage data, Email address, First Name, Last Name, Phone number and Company name. 
+When you set up an individual user Account or an Employer Account on AmbitionBox, or request information by signing up for email alerts, complete a form on AmbitionBox, upload a whole resume or a part of it on AmbitionBox, contact us for any kind of service or technical support, using a third-party website or directly, we create a "Profile" for you that will include your information, which you may provide us directly or indirectly. Because we change our offerings and features from time to time, the options you have to provide us with personal information also may change. This information includes and is not limited to first and last name, email address, educational details, professional career information, job title, telephone number (including mobile phone number), location, address, gender, occupation, interests, messages you send to users, and any other data included in a submitted profile or resume and the like. In connection with the aforementioned fields, we also collect your submitted or saved company information, company ratings, company reviews, interview questions and answers, interview advice, interview tips, FAQs, other questions or answers, other details submitted or extracted from your resume on our or third-party websites, uploaded content or otherwise actively sent data on our Site, including but not limited to content submitted to us through AmbitionBox. In case of an Employer account, we store the password including but not limited to the aforementioned fields. We will update your Profile with information you permit us to extract, from time to time. This data is collected to improve user experience on AmbitionBox with relevant search and help people get the exact information that they want, pertaining to a company. You may permit us to share information in your Profile with other website visitors, prospective employers, recruiters and others, as relevant information when you connect to AmbitionBox through a third party or Social Networking Site and you allow us to also share your information as we deem fit. We may share certain information that does not identify you personally, but which is unique to your use of AmbitionBox, such as job titles and other fields. When we share such information, we may link job titles with your name when we provide this information to others, such as advertisers, recruiters or employers. Subject to visibility settings that you may control, subscribers to services we may introduce, will be able to view information in your Profile. Because your anonymity on AmbitionBox is important, your Profile may not include or link to information about company reviews, interview questions and answers, interview advice, interview tips, salary information and the like, which you submit to AmbitionBox, depending on visibility settings you may choose. For more information pertaining to the aforementioned, you may visit our [Terms of Use](https://www.ambitionbox.com/legal/terms-of-use) and [Community Guidelines](https://www.ambitionbox.com/legal/community-guidelines). 
 
-Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
-The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
-Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
-Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
+Types of information that we collect from user.
 
-Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
+We collect information from users with prior consent in order to provide services from the Website. The kind of information that we collect have been stated more specifically in the Terms of Use. Whereas some of the information requested may be required for provision of the services through the Website and are therefore mandatory, many of these are optional, so the user may opt to provide these to us completely at their discretion
 
-## Mode and place of processing the Data
+Purpose of collection and usage of information from you.
 
-### Methods of processing
+We collect information from users in order to provide services from the Website for a user to discover a company, prepare for interviews or know about how is it like to work at organizations, through AmbitionBox. We may use the information we collect:
 
-The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
-The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
+  * to provide you with personalized content and services as well as promotional content and services for a better user experience;
+  * to moderate and display the employer or company reviews, interview reviews, interview questions, interview tips and advice, any other interview related information, salary review, calculate take home salary and other content you have submitted for the benefit of our users;
+  * to customize and improve the features, performance, and support of the site;
+  * to show you relevant information, if you connect to AmbitionBox through a third party or a Social Networking Site, from your Social Networking Site friends and connections, and to allow you to share job and profile information with them;
+  * to provide relevant advertising, including interest-based advertising from us and third parties, which may mean that we share identifiable information, such as your job title, to third-party advertisers;
+  * to provide recruiting services to employers;
+  * for internal operations, including troubleshooting, data analysis, testing, research, and service improvement;
+  * to communicate with you regarding our services;
+  * to create aggregate and statistical data that does not identify you individually and that we can commercialize;
+  * for other purposes that you separately authorize as you interact with AmbitionBox.
 
-### Place
 
-The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
 
-### Retention time
+We do not collect financial information such as credit card/debit card numbers/bank accounts numbers etc.
 
-The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
+Information sharing and Disclosure.
 
-## The use of the collected Data
+Website does not rent, sell, or share personal information about you with other people (save with your consent) or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Contacting the User, Access to third party services' accounts and Interaction with external social networks and platforms. 
+  * We may provide the information to trusted partners who work on behalf of or with Website under confidentiality agreements. These companies may use your personal information to help Website communicate with you about offers from Website and our marketing partners. However, these companies do not have any independent right to share this information.
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Info Edge (India) Limited's terms of use, or as otherwise required by law.
+  * We transfer information about you if Website is acquired by or merged with another company. In this event, Website will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-The Personal Data used for each purpose is outlined in the specific sections of this document.
 
-## Facebook permissions asked by this Application
 
-This Application may ask for some Facebook permissions allowing it to perform actions with the User's Facebook account and to retrieve information, including Personal Data, from it.
+Website displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
 
-For more information about the following permissions, refer to the [Facebook permissions documentation](https://developers.facebook.com/docs/authentication/permissions/) and to the [Facebook privacy policy](https://www.facebook.com/about/privacy/).
+  * Website does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+  * Website advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
 
-The permissions asked are the following:
 
-### Basic information
 
-By default, this includes certain User’s Data such as id, name, picture, gender, and their locale. Certain connections of the User, such as the Friends, are also available. If the user has made more of their data public, more information will be available.
+Cookies and Other Tracking Technologies
 
-### Access Friend Lists
+Some of our web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about activity on the web site. Some cookies and other technologies may serve to recall Personal Information previously indicated by you. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
-Provides access to any friend lists the user created
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Website.
 
-### Contact email
+Tracking technologies may record information such as internet domain and host names; internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Website and your web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
 
-Access the user's contact email address.
+Security practices and procedures.
 
-### Email
+We fully comply with all Indian Laws applicable. We have always cooperated with all law enforcement inquires. We may disclose all or part of your personal details in response to a lawful request from the law enforcement authorities or in a case of bonafide requirement to prevent an imminent breach of the law. 
 
-Provides access to the User's primary email address
+Your Consent
 
-### Work History
+By using this Web site, you consent to the terms of our online Privacy Policy and to Info Edge (India) Limited's processing of Personal Information for the purposes given above as well as those explained where ‘Info Edge (India) Limited’ collects Personal Information on the Website.
 
-Provides access to work history.
+Contacting Us
 
-## Detailed information on the processing of Personal Data
+If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-Personal Data is collected for the following purposes and using the following services:
+  * Info Edge India Limited
+  * B-8, Sector 132
+  * Noida, Uttar Pradesh 201301
+  * India
+  * hi@ambitionbox.com
 
-  * ### Access to third party services' accounts
 
-These services allow this Application to access Data from your account on a third party service and perform actions with it.  
-These services are not activated automatically, but require explicit authorization by the User.
-
-#### Access to the Facebook account (This Application)
-
-This service allows this Application to connect with the User's account on the Facebook social network, provided by Facebook, Inc.
-
-Permissions asked: Access Friend Lists, Contact email, Email and Work History. 
-
-Place of processing : USA – [Privacy Policy](https://www.facebook.com/policy.php)
-
-  * ### Analytics
-
-The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
-
-#### Google Analytics (Google Inc.)
-
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
-Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
-
-Personal Data collected: Cookie and Usage data. 
-
-Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
-
-  * ### Contacting the User
-
-#### Contact form (This Application)
-
-By filling in the contact form with their Data, the User authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
-
-Personal Data collected: Company name, Email address, First Name, Last Name and Phone number. 
-
-  * ### Interaction with external social networks and platforms
-
-These services allow interaction with social networks or other external platforms directly from the pages of this Application.  
-The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network.  
-If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
-
-#### Twitter Tweet button and social widgets (Twitter, Inc.)
-
-The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
-
-Personal Data collected: Cookie and Usage data. 
-
-Place of processing : USA – [Privacy Policy](http://twitter.com/privacy)
-
-
-
-
-## Additional information about Data collection and processing
-
-### Legal action
-
-The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.  
-The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities. 
-
-### Additional information about User's Personal Data
-
-In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request. 
-
-### System Logs and Maintenance
-
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address). 
-
-### Information not contained in this policy
-
-More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time. Please see the contact information at the beginning of this document. 
-
-### The rights of Users
-
-Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above. 
-
-This Application does not support “Do Not Track” requests.  
-To determine whether any of the third party services it uses honor the “Do Not Track” requests, please read their privacy policies. 
-
-### Changes to this privacy policy
-
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller removes the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
-
-### Information about this privacy policy
-
-The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda's servers. 
-
-###  Definitions and legal references 
-
-#### Personal Data (or Data)
-
-Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
-
-#### Usage Data
-
-Information collected automatically from this Application (or third party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
-
-#### User
-
-The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.
-
-#### Data Subject
-
-The legal or natural person to whom the Personal Data refers.
-
-#### Data Processor (or Data Supervisor)
-
-The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
-
-#### Data Controller (or Owner)
-
-The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
-
-#### This Application
-
-The hardware or software tool by which the Personal Data of the User is collected.
-
-#### Cookie
-
-Small piece of data stored in the User's device.
-
-* * *
-
-#### Legal information
-
-Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
-
-This privacy policy relates solely to this Application.
