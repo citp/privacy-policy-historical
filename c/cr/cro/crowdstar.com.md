@@ -1,101 +1,166 @@
-> *The following text is extracted and transformed from the crowdstar.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006202513id_/http%3A//www.crowdstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdstar.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621114227id_/https%3A//www.glu.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — CrowdStar
+# Privacy Policy | Glu
 
-Last updated: December 21, 2014
+What’s Changed: We’ve added information about our Privacy Shield certification.
 
-CrowdStar, Inc. and its related entities (collectively "CrowdStar", "us", "our" or "we") is dedicated to protecting the privacy rights of our users ("users" or "you"). This Privacy Policy describes the ways we collect, store, use, and manage the information you provide in connection with our website at [www.crowdstar.com](http://www.crowdstar.com/) (the "Site") or any CrowdStar game or application provided on other websites or other third party sources (collectively, the "Service"). Please note that the scope of this Privacy Policy is limited to information collected by CrowdStar through your use of the Service.
+This Privacy Policy explains how information about you is collected, used and disclosed by Glu Mobile Inc. and its subsidiaries (“Glu,” “we” or “us”). This Privacy Policy applies to information we collect when you use our websites, mobile applications and other online products and services (collectively, the “Services”). This Privacy Policy does not apply to the information collected from: (1) web-based applications that are based on our mobile applications but are published by third parties, (2) mobile applications that we distribute on behalf of third parties and which are hosted and operated by such parties, or (3) the on-line submission of resumes and employment applications in connection with the Jobs section of our website.
 
-By using the Service, you are agreeing to the collection and use of your information as outlined in this Privacy Policy. We may update this Privacy Policy from time to time. You are responsible for periodically reading this Privacy Policy. If you use our Service after we have updated this Privacy Policy, you acknowledge that you have read the updated terms and consent to our revised privacy practices. Use of the Service after changes are made to the Privacy Policy will be considered your consent to the new terms.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as by adding a statement to our homepage or mobile applications or by sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
 
-## Information Collected and Used
+**Collection of Information**
 
-CrowdStar's primary objective in collecting user information is to provide and enhance the Service and to enable users to easily navigate and enjoy the Service. CrowdStar may use user information to analyze user behavior in CrowdStar’s games. For example, CrowdStar may analyze user information to determine how often a user plays a particular game, if a user purchases premium goods and other similar events.
+INFORMATION YOU PROVIDE TO US
 
-We may collect both Personal and Non-Personal Information. Personal Information is defined as information about you that can be used to contact or identify you such as your name, email address, home address, and phone number. Personal Information does not include aggregate information, which is data we collect about the characteristics and activities of users of the Service, from which any Personal Information has been removed. Non-Personal Information does not identify you personally and can include age, gender or interests. We may combine Personal Information with Non-Personal Information and use this combination to improve your experience or to aggregate it with information collected from other users to improve or analyze our Service. This privacy policy in no way limits or restricts our collection of aggregate information or of Non-Personal Information.
+We collect information you provide directly to us. For example, we collect information when you create an account, manage your user profile, participate in any interactive features of the Services, request our e-newsletter or other marketing communications, participate in a promotion or survey, request customer support or otherwise communicate with us. The types of information we collect include your name, email address, postal address, photograph, avatar, password, phone number, username, gender, birth day, forum posts and comments, messages between users and other contact or identifying information you choose to provide, but, as you’ll see when you interact with one or more of the Services, the exact types of information we collect will depend on the Service you choose to use. Prize winners of contests or sweepstakes may also have to provide their Social Security Numbers, which are used exclusively for prize fulfillment and related tax purposes.
 
-Mobile Games: If you launch any of our games or applications on a mobile device, we collect information regarding your device type, iOS advertising identifier (IDFA), Google Advertiser ID, HTML cookies, Open UDID, referral URL, operating system and version, and IP address. In some of our applications, we collect your specific geolocation with your permission. In addition, we create a unique user ID to track your use of our Service. We may associate an IDFA (iOS) or Advertiser ID (Android) with Personal Information or with other persistent device identifiers (for example, IDFA, Advertiser ID, SSAID, MAC address, or IMEI) at any time. If you sign into the Service on your mobile device with Facebook Connect we will collect information that is visible via your Facebook account such as: (1) your first and last name, (2) Facebook ID, (3) Profile Picture/URL, and (4) list of Facebook friends. This information will be primarily used for social features.
+INFORMATION WE COLLECT AUTOMATICALLY WHEN YOU USE THE SERVICES
 
-Social Networks: When you use any of the CrowdStar games or applications, we may collect and record information through the social networking website you use to access the Service or other third party source  (each a "SN Website") in accordance with the policies and terms of the SN Website. We may share such information with the SN Website for its use as permitted by the terms of your agreement and privacy settings with the SN Website.  SN Websites may include, for example, Facebook (such as Facebook Fanpages), Instagram, Twitter, Pinterest, YouTube and Polyvore.
+When you access or use our Services, we automatically collect information about you, including:
 
-The information we collect when you access the Service on an SN Website may include information that is visible on your social networking page such as: (1) your name, (2) SN Website user identification number and/or name, (3) locale, city, state and country, (4) sex, (5) birthdate, (6) time zone and (7) email address.
+**Device Information** :
 
-Website: When you visit our Site or use the Service on an SN Website, your computer’s operating system, Internet Protocol (IP) address, access times, browser type and language and referring Web site addresses are logged automatically. We also collect information about your usage and activity, such as number of clicks, pages viewed and the order of those pages, the amount of time spent on particular pages, and the date and time of this activity. We use this information to monitor and analyze use of the Services.
+We collect device-specific information when you access our Services from a mobile device, including your hardware model, operating system and version, unique device identifiers, mobile network information and country, language, screen size and resolution, and battery life remaining.
 
-Other Collection: We may also collect your email address directly from you when you access our Service. If you provide your email address in connection with a CrowdStar game, the email address will be retained by CrowdStar and we may use that email address to contact you about other CrowdStar games.
+**Use Information** :
 
-In addition, we may acquire information from you through (1) your access and participation in message boards and/or chat rooms on the Service, (2) your email of a question to our customer support, (3) your purchase of a virtual product of any type, (4) your participation in surveys regarding the Service, or (5) your participation in a sweepstakes or contest through the Service. Please note that because third parties manage the purchases of virtual goods offered by the Service, we do not have access to your credit card details and billing information.
+We collect information about your use of the Services, including the type of browser you use, access times, pages viewed, game play activity, interactions with other players, your IP address and, with respect to our website, the page you visited before navigating to our Services.
 
-## Cookies
+**Information Collected by Cookies and Other Tracking Technologies** :
 
-A cookie is a small data file that we transfer to your computer’s hard disk, generally to quickly identify a user's computer and to "remember" things about the user's visit, such as your preferences or a user name and password. The Service sends cookies to your computer when you access or view content of a CrowdStar game. Information contained in a cookie may be linked to your Personal Information for purposes such as improving the quality of our Service, tailoring recommendations to your interests, and making the Service easier to use. You can disable cookies at any time, although you may not be able to access or use features of the Service.
+We use various technologies to collect information, and this includes sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. For more information about cookies, and how to disable them, please see “Your Choices” below. We also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images that are used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.
 
-## Web Beacons
+**Other Information Collected with Permission** :
 
-We may collect information using Web beacons. Web beacons or "gifs", are electronic images that may be used on our Site or in our emails. We use Web beacons to deliver cookies, count visits and to tell if an email has been opened and acted upon.
+Our mobile applications that are distributed through various “app” stores also request permission to automatically collect other information from your mobile device, including your email address. We only collect this information with your authorization in accordance with your device operating system’s permission process.
 
-## Advertisements
+INFORMATION WE COLLECT FROM OTHER SOURCES
 
-We may feature advertisements on our Service served by third parties. These advertisers may collect and use information about your visits to our Service in order to provide advertisements about goods and services of interest to you.
+We also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information, profile picture, phone number, email address, gender, date of birth and friends lists, in accordance with the authorization procedures determined by such social media site.
 
-For example, we have contracted with certain companies to place tool bars and advertisements on our applications for cross-promotion purposes. These companies may monitor our Service for the purpose of reporting traffic, statistics, advertisement "click-thrus," and/or other activities on our Service. They use monitoring technologies to compile statistics about our Service visitors.
+**Use of Information**
 
-To learn more about interest-based advertising, and to access the opt-outs of online advertising companies, visit the Network Advertising Initiative at <http://www.networkadvertising.org/choices/#completed> or Digital Advertising Alliance (DAA) at <http://www.aboutads.info/choices/>.
+We use information about you for various purposes, including to:
 
-You may see our games advertised in other applications. After clicking on one of these advertisements and installing our game, you will become a user of the Service. In order to prevent fraud and verify the installs, a unique device identifier may be shared with the advertiser.
-
-## Third Party Tools
-
-The Service may contain third party tracking tools from service providers, examples of which include Appsalar, Flurry, Tune, Kochava, Nanigans, Tapjoy, MdotM, Chartboost, Facebook, Ad Parlor, Google, Lifestreet, Playhaven, Responsys, Clickmail, Wild Tangent, Supersonic, Appssavvy, TrialPay, Kiip, Jun Video, SGN, Fyber, Ad Colony, Opera Mediaworks, Live Rail, and Adelphic. CrowdStar may use these third parties’ APIs/SDKs in our Service, which may enable these third parties to analyze user information. Each of these providers may provide an opt-out from their collection of information about you. Please check the providers’ privacy policies for further information.
-
-## Links
-
-The Service may contain links to other websites or applications. The fact that the Service links to a website or application or presents a banner ad or other type of advertisement does not mean that CrowdStar endorses or authorizes that third party, nor is it a representation of our affiliation with that third party. CrowdStar is in no way responsible for the privacy policies of these other websites to which you chose to access from the Service. Please be sure to read the privacy policies of those websites when exiting the Service.
-
-## Disclosure of Your Personal Information
-
-CrowdStar does not share your Personal Information except as otherwise set forth in this Privacy Policy or as described below:
-
-  * \- With your consent.
-  * \- With other users.
-  * \- With analytics providers.
-  * \- With vendors, agents, consultants and other service providers who need such information to perform services on our behalf.
-  * \- When we believe that release is appropriate to comply with the law; enforce or apply our rights; or protect the rights, property, or safety of CrowdStar our users, or others. This includes exchanging information with other companies and organizations for fraud protection.
-  * \- In connection with any merger, sale of CrowdStar assets, or a financing or acquisition of all or a portion of our business to another company.
+  * Provide, maintain and improve our Services;
+  * Setup your gWallet account and manage the Glu credits that you earn and use across our Services;
+  * Provide and deliver the products and services you request and send you related information, including confirmations and invoices;
+  * Send you communications about products, services, offers, promotions, rewards, and events offered by Glu and other companies, and provide news and information we think will be of interest to you;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Personalize and improve the Services and provide advertisements, content, suggested connections or features that match user profiles or activities;
+  * Process and deliver contest entries and rewards; and
+  * Carry out any other purpose for which you consent at the time of collection.
 
 
 
-  
-Please note that CrowdStar may share aggregate or anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties.
+**Sharing of Information**
 
-## Changing, Managing, or Deleting Your Information
+We share information about you as follows or as otherwise described in this Privacy Policy:
 
-You may review, update, correct or delete any Personal Information by changing the applicable information through the SN Website. If you completely delete all this information, your account may become deactivated. If you would like to review, update, correct or delete your information in our system, please contact us at [support@crowdstar.com](mailto:support@crowdstar.com). Please note that we may not delete any information that we have to keep for legitimate business or legal reasons.
+  * With vendors, consultants and other service providers who need access to such information to provide services to us or to you;
+  * With other users of the social features of the Services. For example, your username, profile picture and the virtual content you have accumulated in a game may be visible to other users of that game. Additionally, information that you provide in your account registration for a forum and your forum comments may be available to other forum users.
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of Glu or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; or
+  * With your consent or at your direction.
 
-If you have previously allowed us to access your specific geolocation data, you can stop our use of your geolocation data by changing your mobile device's settings or your “Account Information” in the applicable application.
 
-When you install our applications on your mobile device you can choose to receive push notifications, which are messages an application sends you on your mobile device even when the application is not on. You can turn off notifications by changing your mobile device’s settings.
 
-You may opt out of receiving promotional emails from CrowdStar by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+We also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-Under California law, California Residents who have an established business relationship with us may choose to opt out of the disclosure of personal information about them to third parties for such third parties’ direct marketing purposes. Our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email [support@crowdstar.com](mailto:support@crowdstar.com).
+**Social Sharing Features**
 
-## Security
+The Services offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-We have put in place reasonable technical and organizational measures designed to secure your Personal Information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to overcome those measures or use your Personal Information for improper purposes. Also please note that email and messaging systems are not considered secure, so we discourage you from sending us Personal Information through these mediums.
+**Analytics, Advertising and Other Services Provided by Other Companies**
 
-## International Transfer
+We allow third parties to serve advertisements in connection with our Services, to provide analytics services and provide you with other services, such as rewards programs and tournaments. These third parties may use cookies, web beacons, your account information (that you set up with these third parties) and other technologies to collect information about you on our Services and other websites and online services, such as your IP addresses, identifiers associated with your mobile device or applications on the device, the browsers you use to visit our Services, pages viewed, time spent on pages, links clicked, and conversion information. These third parties may also share this information with their customers and clients. This information may be used by Glu, and these other companies and their customers and clients, to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests, and better understand your usage. Some of these third-party analytics and advertising services offer you a choice to opt out the collection of and/or sharing of this information; links to the opt-out mechanisms for the third parties that offer such a choice can be found in the “Your Choices” section below. This Privacy Policy does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies.
 
-We may transfer information that we collect about you, including Personal Information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information, including Personal Information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. and the use and disclosure of information about you, including Personal Information, as described in this Privacy Policy.
+**International**
 
-## Policy Regarding Children
+The information we collect about you may be transferred to, and accessed from within, the United States, which may not offer the same level of data protection as your home jurisdiction.  We will take steps to maintain an adequate level of protection for this information in the jurisdictions in which we process it.  Adequate safeguards that our service providers may use include standard contractual clauses approved by the EU Commission and the EU-U.S. and Swiss-U.S. Privacy Shield certifications in case of transfers to the United States.
 
-The Service is not for children under the age of 13 and we do not knowingly collect Personal Information from children under the age of 13.
+**Security**
 
-## Do Not Track
+Glu takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
-We currently do not participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your information. We may engage third parties, such as marketing or analytics partners, who may collect information about your online activities over time and across different websites when you use our website.
+YOUR CHOICES
 
-## Contacting Us
+**Website (Game Forums) Account Information**
 
-If you have any questions about this Privacy Policy, please contact us at [support@crowdstar.com](mailto:support@crowdstar.com).
+You may update, correct or delete your website (game forums) account information, which includes your username, password, email address and avatar, by logging into your website account and managing your profile. If you wish to delete or deactivate your website account, please email us at _[privacy@glu.com](mailto:privacy@glu.com)_ , but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your website account information for a certain period of time.
+
+**Cookies**
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+
+**Push Notifications**
+
+With your consent, we send push notifications (or “alerts”) to your mobile device to provide game activity information, service updates, promotional communications and other related messages. You can deactivate push notifications by changing your notification settings via your device.
+
+**Promotional Communications**
+
+You may opt out of receiving promotional messages from Glu by following the instructions in those messages or by contacting us at [privacy@glu.com](mailto:privacy@glu.com). If you opt out, we may still send you transactional or relationship messages, such as those about your account or our ongoing business relations.
+
+**Third Party Analytics and Advertising Services**
+
+We have identified the provider names of some of the third-party analytics and advertising services we use. Please see the links on [this page](https://glu-prod.kiosk-dev.com/privacy/ads-and-analytics-providers/) to learn more about the data practices of our third-party service providers (including opt-out mechanisms they may offer).  You can also use your device settings to manage interest-based advertising that appears on mobile applications; to do so, select “limit ad tracking” on Apple iOS operating systems and “opt-out of interest based ads” on Android operating systems.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us at: [Privacy Policy Administrator](mailto:privacy@glu.com). You may also contact our Privacy Policy Administrator by writing to:
+
+Privacy Policy Administrator
+
+Glu Mobile Inc.
+
+875 Howard Street, Suite 100
+
+San Francisco, CA 94103
+
+For EEA Residents: Please contact our EU Representative at [EURep@glu.com](mailto:EURep@glu.com). Alternatively they can be reached by post (DPO Centre, 50 Liverpool Street, London, EC2M 7PR) or +44 203 797 6340
+
+[www.dpocentre.com](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.dpocentre.com&data=01%7C01%7CAstrid.becker%40glu.com%7C6c7f4b6545f74ac4d55908d6505e3189%7Cd43417c643e340ca8b1d391492ed2048%7C1&sdata=ob25yhGGLoaaeEuseoMTp2NEQkCF%2Bq20Ok%2FDmzeOuUY%3D&reserved=0)
+
+For an archive of past Glu Mobile privacy policies, [click here](https://glu-prod.kiosk-dev.com/privacy/archive/).
+
+For The Swift Life supplemental privacy policy,  _[click here](https://glu-prod.kiosk-dev.com/privacy/theswiftlife)_.
+
+**NOTE TO EEA RESIDENTS**
+
+If you are a resident of the EEA, you have certain rights and protections under the law regarding our processing of your personal data.  Please see the sections below for more details.
+
+**Legal Basis for Processing   **
+
+We will only process personal data about you in accordance with the following legal bases:
+
+  * As necessary to perform our responsibilities under our contract with you. For example, to process your order and fulfill the products or services you purchase.
+  * When we have a legitimate interest in processing your personal data. For example, to communicate with you about changes to our Services or legal documents, to prevent fraud, to deliver advertising, provide, protect and improve our products and services.
+  * If we request your consent to a specific processing activity (such as to send you marketing emails), and you provide your consent in the manner indicated.
+  * In some cases, processing will be necessary for compliance with a legal obligation, such as response to legal process requests.
+
+
+
+**Data Subject Requests**
+
+You have the right to access personal data we hold about you and to ask that this data be corrected.  In certain cases, you may also have the right to request that we erase data we are processing or to restrict or object to certain of our processing activities.  You may also have the right to request that we provide you with the personal data you have provided us in a portable form for transmission to another controller’s service.  If you would like to exercise any of these rights, you may contact us as indicated above.
+
+**Data Retention**
+
+We store the information we collect about you for as long as is necessary for the purposes for which we originally collected it.  We may retain certain information for legitimate business purposes or as required by law.
+
+**Questions or Complaints**
+
+If you have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm.
+
+**EU-U.S. and Swiss-U.S. Privacy Shield Frameworks**
+
+We adhere to the EU-U.S. and Swiss-U.S. Privacy Shield Framework Principles issued by the U.S. Department of Commerce (the “Principles”) in connection with personal data received from the EEA and Switzerland in reliance on the Principles.   We also receive some data in reliance on other compliance mechanisms, including agreements based on the EU standard contractual clauses.  For more information about the Principles and to view our certifications, please visit the Department of Commerce’s [Privacy Shield website](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.privacyshield.gov%2Fwelcome&data=01%7C01%7CAstrid.becker%40glu.com%7C1ec9eecca5e74453a85f08d5bf5a056b%7Cd43417c643e340ca8b1d391492ed2048%7C1&sdata=Fh7QBJqT9vL5g4MFIyDIYQcyfL6XUD3sjNCPDe4NQmY%3D&reserved=0) at: [https://www.privacyshield.gov/welcome](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.privacyshield.gov%2Fwelcome&data=01%7C01%7CAstrid.becker%40glu.com%7C1ec9eecca5e74453a85f08d5bf5a056b%7Cd43417c643e340ca8b1d391492ed2048%7C1&sdata=Fh7QBJqT9vL5g4MFIyDIYQcyfL6XUD3sjNCPDe4NQmY%3D&reserved=0).
+
+Our accountability for personal data that we receive under the Principles and subsequently transfer to a third party is described in the Principles.  In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.  With respect to personal data received or transferred pursuant to the Principles, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+
+You may contact us about any question or complaint regarding adherence to the Principles as indicated in the “Contact Us” section above.  If we do not resolve your complaint, you may submit your complaint free of charge to our U.S.-based third party dispute resolution provider at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions specified by the Principles, you may also be able to invoke binding arbitration to resolve your complaint.
+
+END OF PRIVACY POLICY
