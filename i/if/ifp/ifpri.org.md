@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifpri.org privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129213317id_/http%3A//www.ifpri.org/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifpri.org privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621142741id_/https%3A//www.ifpri.org/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | IFPRI
 
