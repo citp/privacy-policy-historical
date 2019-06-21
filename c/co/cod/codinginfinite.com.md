@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codinginfinite.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216045856id_/https%3A//codinginfinite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codinginfinite.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621073340id_/https%3A//codinginfinite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Coding Infinite
 
@@ -22,6 +22,8 @@ While using our Service, we may ask you to provide us with certain personally id
 
 
 
+We will collect personal identification information from Users only if they voluntarily submit such information to us. You may visit the Site anonymously. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. Personal records such as Name, Email have been retrieved through affirmative consent. You can also request us to delete your personal data any time by emailing us or unsubscribing from the newsletter.
+
 #### Usage Data
 
 We may also collect information on how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
@@ -36,9 +38,9 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-  *  **Session Cookies.**  We use Session Cookies to operate our Service.
-  *  **Preference Cookies.**  We use Preference Cookies to remember your preferences and various settings.
-  *  **Security Cookies.**  We use Security Cookies for security purposes.
+  * **Session Cookies.**  We use Session Cookies to operate our Service.
+  * **Preference Cookies.**  We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.**  We use Security Cookies for security purposes.
 
 
 
@@ -94,7 +96,7 @@ These third parties have access to your Personal Data only to perform these task
 
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
-  *  **Google Analytics** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+  * **Google Analytics**  is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
 
 
 
@@ -116,7 +118,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: [contact@codinginfinite.com](mailto:contact@codinginfinite.com)
+  * By email: contact@codinginfinite.com
   * By visiting this page on our website: <https://codinginfinite.com/contact>
 
 
