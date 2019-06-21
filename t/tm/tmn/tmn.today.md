@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tmn.today privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000331id_/http%3A//www.tmn.today/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmn.today privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622011159id_/https%3A//www.tmn.today/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TellMeNow | News, Politics, Entertainment, Life, Inspire, Viral and Videos
+# Privacy Policy | TellMeNow
 
 Revised: June 14, 2016
 
@@ -10,9 +10,9 @@ Your privacy is important to us, and we are committed to protecting the personal
 
 By using the Site, you consent to this Privacy Policy. This Privacy Policy does not apply to the practices of third parties that Intermarkets does not own, control, manage, or employ.
 
-Intermarkets uses OpenX as its ad server. OpenX’s privacy policy can be found [here](http://openx.com/legal/privacypolicy/).
+Intermarkets uses OpenX as its ad server. OpenX’s privacy policy can be found [here](https://www.openx.com/legal/privacypolicy/).
 
-We are committed to following the National Advertising Initiative’s (NAI) [privacy principles](http://www.networkadvertising.org/managing/principles.asp).
+We are committed to following the National Advertising Initiative’s (NAI) [privacy principles](https://www.networkadvertising.org/managing/principles.asp).
 
 ### Information We Collect through the Site
 
@@ -28,13 +28,13 @@ We may augment our click stream data with non-personally-identifiable behavioral
 
 The use and collection of information by our third-party advertising Service Providers is governed by the individual privacy policies of those providers.
 
-The majority of our advertising Service Providers are members of the NAI. You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website at <http://www.networkadvertising.org/managing/opt_out.asp>
+The majority of our advertising Service Providers are members of the NAI. You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website at [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 ##### Cookies and Web Beacons:
 
 We may use cookies (a small text file placed on your computer to identify your computer and browser), Web beacons (an electronic file placed on a website that monitors usage), and other similar technologies to improve the quality of the Site and to better target and analyze consumer behavior with the goal of providing better and more relevant advertising. Our cookie does not include your name or anything personal to you. It simply tells us that we have encountered your computer at some prior point. Most Web browsers are initially set up to accept cookies. You can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Alternatively, you are always free to opt out of the cookies.
 
-Some of our Service Providers may use their own cookies and Web beacons in connection with the services they perform on our behalf. If you would like more information about these practices and to know your choices about not having this information used by these companies, please click [here.](http://www.networkadvertising.org/managing/index.asp)
+Some of our Service Providers may use their own cookies and Web beacons in connection with the services they perform on our behalf. If you would like more information about these practices and to know your choices about not having this information used by these companies, please click [here.](https://www.networkadvertising.org/managing/index.asp)
 
 ## How We Use and Share Information Collected through the Site
 
@@ -46,7 +46,7 @@ We use Personally Identifiable Information and Non-Personally Identifiable Infor
 
 Intermarkets may share Personally Identifiable Information with its service providers that help Intermarkets provide the services that you request (“Service Providers”). For example, we may contract with Service Providers to provide certain services, such as credit card processing, advertising, analytics tools, data management services, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services, however, each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification or disclosure.
 
- _A Note Concerning Analytics Service Providers:  _We participate in advertising services administered by third parties, such as Google. For example, we have implemented or are in the process of implementing the following features based on Google Analytics for Display Advertising: Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting.
+_A Note Concerning Analytics Service Providers:  _We participate in advertising services administered by third parties, such as Google. For example, we have implemented or are in the process of implementing the following features based on Google Analytics for Display Advertising: Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting.
 
 The ad services may track your online activities over time by collecting information through automated means, including through the use of the automated technologies described above, and they may use this information to show you advertisements that are tailored to your individual interests and/or based on prior visits to our Websites. We and third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together (i) to inform, optimize, and serve ads based on past visits to our website and (ii) to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site. For example, we use Remarketing with Google Analytics to allow Google to show our ads to our visitors across the Internet. We also may use data from Google’s Interest-based advertising or third-party audience data (such as age, gender, and interests) with Google Analytics to understand our audiences and to customize the delivery of our ads.
 
@@ -66,17 +66,17 @@ Intermarkets cooperates with government and law enforcement officials and privat
 
 ## Cookie Opt-Out Procedure
 
-IF YOU DO NOT WANT INTERMARKETS TO SERVE ADVERTISING TO YOU USING OUR COOKIE, [CLICK HERE](http://www.networkadvertising.org/choices/) TO REPLACE YOUR UNIQUE INTERMARKETS COOKIE WITH OPT-OUT COOKIES FROM AOL ADVERTISING AND LOTAME SOLUTIONS.
+IF YOU DO NOT WANT INTERMARKETS TO SERVE ADVERTISING TO YOU USING OUR COOKIE, [CLICK HERE](https://www.networkadvertising.org/choices/) TO REPLACE YOUR UNIQUE INTERMARKETS COOKIE WITH OPT-OUT COOKIES FROM AOL ADVERTISING AND LOTAME SOLUTIONS.
 
-YOU CAN ALSO OPT OUT OF RECEIVING COOKIES FROM OTHER MEMBERS OF THE NETWORK ADVERTISING INITIATIVE BY CLICKING [HERE](http://www.networkadvertising.org/choices/).
+YOU CAN ALSO OPT OUT OF RECEIVING COOKIES FROM OTHER MEMBERS OF THE NETWORK ADVERTISING INITIATIVE BY CLICKING [HERE](https://www.networkadvertising.org/choices/).
 
 This opt-out functionality is cookie-based. When you receive this cookie, Intermarkets’ systems will know that you have opted out and will not attempt to assign other Intermarkets cookies in the future. In order for the opt-out to work on your computer, your Web browser must be set to accept third-party cookies and the Intermarkets opt-out cookie must remain on your computer for us to recognize you as an opt-out user. If you buy a new computer, change Web browsers, or delete this cookie, you will need to perform the opt-out task again.
 
-In some cases, Intermarkets works with other third-party vendors to help deliver advertisements tailored to your interests. These vendors include ad networks and audience segment providers, and they place cookies on your browser to collect information about your online activity ( _e.g._ , the sites and pages you have visited) in order to help advertisers deliver particular ads that they believe you would find most relevant. You can opt out of those vendors’ use of cookies to tailor advertising to you by visiting <http://www.networkadvertising.org/managing/opt_out.asp>.
+In some cases, Intermarkets works with other third-party vendors to help deliver advertisements tailored to your interests. These vendors include ad networks and audience segment providers, and they place cookies on your browser to collect information about your online activity ( _e.g._ , the sites and pages you have visited) in order to help advertisers deliver particular ads that they believe you would find most relevant. You can opt out of those vendors’ use of cookies to tailor advertising to you by visiting [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
- _PLEASE NOTE that if you erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) you may need to opt out again._
+_PLEASE NOTE that if you erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) you may need to opt out again._
 
- _PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites. You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. Intermarkets has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers._
+_PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites. You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. Intermarkets has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers._
 
 ### Data Retention
 
@@ -84,7 +84,7 @@ Intermarkets does not keep data on its own servers; instead the data is kept on 
 
 ### Third Party Websites
 
-The Site may contain links to websites or content operated and maintained by third parties. Intermarkets does not control those sites or their privacy practices, which may differ from our practices. If you click on a link or an advertisement, the privacy policy of the website to which you link will govern the collection and use of your information by that website’s operator(s). You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before disclosing any information to the website. For more information, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+The Site may contain links to websites or content operated and maintained by third parties. Intermarkets does not control those sites or their privacy practices, which may differ from our practices. If you click on a link or an advertisement, the privacy policy of the website to which you link will govern the collection and use of your information by that website’s operator(s). You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before disclosing any information to the website. For more information, please click [here](https://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Spyware or Adware
 
