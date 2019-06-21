@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geeklog.net privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905223806id_/https%3A//www.geeklog.net/staticpages/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeklog.net privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621095708id_/https%3A//www.geeklog.net/staticpages/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Geeklog
 
-Welcome to Geeklog Wednesday, September 05 2018 @ 06:38 pm EDT
+Welcome to Geeklog Friday, June 21 2019 @ 05:57 am EDT
 
 This site has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -42,4 +42,4 @@ This site is not liable for any damages caused by any of the site content, wheth
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the [webmaster](https://web.archive.org/profiles.php?uid=2).
 
-Last Updated: Monday, July 09 2018 @ 12:01 pm EDT| [](https://www.geeklog.net/staticpages/index.php/privacy-policy/print)
+Last Updated: Monday, July 09 2018 @ 12:01 pm EDT| Hits: 1,995 [](https://www.geeklog.net/staticpages/index.php/privacy-policy/print)
