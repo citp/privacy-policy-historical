@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920051728id_/http%3A//www.record-eagle.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621032938id_/https%3A//www.record-eagle.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | record-eagle.com
 
@@ -78,10 +78,10 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
 
-  * [ Horn, Linda](http://obituaries.record-eagle.com/obituary/linda-horn-2018-1068233973)
-  * [ Achard, Marilyn](http://obituaries.record-eagle.com/obituary/marilyn-achard-2018-1068233971)
-  * [ ROHDY, Betty Feb 8, 1923 - Sep 13, 2018](http://obituaries.record-eagle.com/obituary/betty-rohdy-1923-2018-1068220879)
-  * [ BILLINGTON, Thomas Aug 14, 1947 - Aug 26, 2018](http://obituaries.record-eagle.com/obituary/thomas-billington-1947-2018-1068221119)
-  * [ CHANCE, Winifred Oct 11, 1924 - Sep 13, 2018](http://obituaries.record-eagle.com/obituary/winifred-chance-1924-2018-1068220889)
+of Blair Township, who passed away in February of this year, will be laid to rest on June 22 at 2 p.m. at Maple Grove Cemetery in Grawn. Covell Funeral Home is handling arrangements. 
 
+80, of Traverse City, died Monday, June 17, 2019. She was the wife of Michael and mother of Laura and Brandon Woods. Memorial services will be held at 11 a.m. Monday, June 24, 2019 at St. Michael's Lutheran Church on Garfield, Road. Please visit www.lifestorytc.com to sign the guestbook and …
 
+OCALA, Fla. [mdash] Willard George Hanmer, 87, of Ocala, Florida, formerly of Benzonia and Fort Wayne, Indiana, died Monday, June 17, 2019, in Ocala, Florida. He was born Jan. 27, 1932 in Flint the son of George and Ruth (Lentz) Hanmer. Willard is survived by his wife, Marilyn (Kennedy) Hanm…
+
+who died last November, will be remembered and celebrated by family and friends at Barnes Park, 12298 Barnes Park Road, Eastport, Pavilion 1, on Saturday, June 22, from 11 a.m. to 3 p.m. Please join us with your memories of her. 
