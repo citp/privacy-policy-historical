@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackicepass.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220111911id_/http%3A//www.blackicepass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackicepass.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622010722id_/http%3A//www.blackicepass.com/privacy) for the most accurate reproduction.*
 
 # Privacy Info
 
