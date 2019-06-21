@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the hamilton.edu privacy policy that was archived on 2018-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181206220146id_/https%3A//www.hamilton.edu/gdpr) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hamilton.edu privacy policy that was archived on 2019-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190621113424id_/https%3A//www.hamilton.edu/gdpr) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html itemscope="" itemtype="http://schema.org/WebPage" lang="en" class="js svg flexboxlegacy csspositionsticky csstransforms supports csstransforms3d csstransitions" style=""><head>
-<meta name="keywords" content="">	<meta charset="utf-8">
+<!DOCTYPE html><html itemscope="" itemtype="http://schema.org/WebPage" lang="en" class="js svg flexboxlegacy csspositionsticky csstransforms supports csstransforms3d csstransitions" style=""><head><meta name="keywords" content="">
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
@@ -67,8 +67,6 @@ src="https://www.facebook.com/tr?id=462165073937333&ev=PageView&noscript=1"
 <meta name="twitter:url" content="https://www.hamilton.edu//gdpr">
 <meta name="twitter:title" content="GDPR - Hamilton College">
 <meta name="twitter:description" content="">
-<!-- Modernizer -->
-<script src="/assets/js/modernizr.js"></script>
 <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6265694/7409152/css/fonts.css">
 <!-- Compiled CSS -->
 <!--[if gt IE 8]><!-->
@@ -87,9 +85,11 @@ src="https://www.facebook.com/tr?id=462165073937333&ev=PageView&noscript=1"
 <!--[if lte IE 9]>
 <link rel="stylesheet" href="/assets/css/site-ie.css">
 <![endif]-->
-<link type="text/css" href="/sitemanager/scripts/jquery/ui/themes/hamilton-dark/jquery-ui.min.css" rel="stylesheet" media="all">	<link type="text/css" href="/sitemanager/css/page.css" rel="stylesheet" media="screen">	<link type="text/css" href="/sitemanager/css/cookiedisclaimer.css" rel="stylesheet" media="all"></head>
-<body class="fs-grid fs-grid-sm-fluid">
-<div id="currentSite" class="ui-helper-hidden">1392ED3D-607C-4CD5-987EB960D869A4F6</div><div id="currentPage" class="ui-helper-hidden">9A24C189-BFAB-49FD-A9B68FF5F91A62B7</div>	<!-- Body Start Analytics -->
+<!-- Modernizer -->
+<script src="/assets/js/modernizr.js"></script>
+<link type="text/css" href="/sitemanager/scripts/jquery/ui/themes/hamilton-dark/jquery-ui.min.css" rel="stylesheet" media="all">	<link type="text/css" href="/sitemanager/css/page.css" rel="stylesheet" media="screen">	<link type="text/css" href="/sitemanager/css/cookiedisclaimer.css" rel="stylesheet" media="all"><script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script></head>
+<body class="fs-grid fs-grid-sm-fluid"><div id="currentSite" class="ui-helper-hidden">1392ED3D-607C-4CD5-987EB960D869A4F6</div><div id="currentPage" class="ui-helper-hidden">9A24C189-BFAB-49FD-A9B68FF5F91A62B7</div>
+<!-- Body Start Analytics -->
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TBM4KJ3"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
@@ -113,7 +113,7 @@ transform: translate(4px, 0);
 }
 </style>
 <!-- Skip-to-Content Link -->
-<a href="#page" id="skip_to_content" class="skip_link">Skip to Main Content</a>
+<a href="#page" id="skip_to_content" class="skip_link" tabindex="1">Skip to Main Content</a>
 <div class="page_wrapper js-navigation_push fs-navigation-overlay-content fs-navigation__1 main_nav_base">
 <!-- Header -->
 <header id="header" class="header js-toggle js-bound" itemscope="" itemtype="http://schema.org/WPHeader">
@@ -1050,12 +1050,14 @@ ui_use_css: false
 </script>
 <!-- Body End Analytics -->
 <script>
+// GOOGLE ANALYTICS
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 ga('create', 'UA-6233321-1', 'auto',{'legacyCookieDomain': 'hamilton.edu'});
 ga('send', 'pageview');
+ga('send', 'event', 'User Page View', '');
 </script>
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
@@ -1064,6 +1066,7 @@ a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0038/1984.
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 <script type="text/javascript">
+// SITEIMPROVE
 /*<![CDATA[*/
 (function() {
 var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
@@ -1071,6 +1074,27 @@ sz.src = '//siteimproveanalytics.com/js/siteanalyze_66357057.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
 })();
 /*]]>*/
+// MARKETO
+(function() {
+var didInit = false;
+function initMunchkin() {
+if(didInit === false) {
+didInit = true;
+Munchkin.init('533-KFT-589');
+}
+}
+var s = document.createElement('script');
+s.type = 'text/javascript';
+s.async = true;
+s.src = '//munchkin.marketo.net/munchkin.js';
+s.onreadystatechange = function() {
+if (this.readyState == 'complete' || this.readyState == 'loaded') {
+initMunchkin();
+}
+};
+s.onload = initMunchkin;
+document.getElementsByTagName('head')[0].appendChild(s);
+})();
 </script>
 <script>
 if (typeof jQuery == 'undefined') {
