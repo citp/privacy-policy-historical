@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psx-place.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227232321id_/http%3A//www.psx-place.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psx-place.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621165706id_/https%3A//www.psx-place.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PSX-Place
 
@@ -48,4 +48,4 @@ When it comes to the collection of personal information from children under the 
 
 We do not specifically market to children under the age of 13 years old.
 
-[ ](http://www.psx-place.com/)
+[ ](https://www.psx-place.com/)
