@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boomeranggmail.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209003240id_/http%3A//www.boomeranggmail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomeranggmail.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621172921id_/http%3A//www.boomeranggmail.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Boomerang for Gmail
 
 Baydin Privacy Policy
 
-Last modified: May 24, 2018
+Last modified: March 5, 2019
 
 ### 1\. Introduction
 
@@ -148,8 +148,7 @@ We use information that we collect about you or that you provide to us, includin
   * to fulfill any other purpose for which you provide it;
   * to provide you with notices about your subscription, including expiration and renewal notices;
   * to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
-  * to notify you about changes to our Websites or the Boomerang Services;
-  * in any other way we may describe when you provide the information; and
+  * to notify you about changes to our Websites or the Boomerang Services; and
   * for any other purpose with your consent.
 
 
@@ -162,7 +161,7 @@ With your consent, we may also use your information to contact you about our own
 
 > We do not share, sell, or otherwise disclose your Personal Data for purposes other than those outlined in this Privacy Policy. We may disclose your Personal Data to a few third parties, as described below. For example, we share data with your email and calendar provider, such as Google or Microsoft. Likewise, if you purchase a paid subscription, we will share information about you with a billing provider so that we can accept your payments.
 
-We do not share, sell, or otherwise disclose your Personal Data for purposes other than those outlined in this Privacy Policy. However, we may disclose aggregated information about our users, and information that does not identify any individual, without restriction. 
+We do not share, sell, or otherwise disclose your Personal Data for purposes other than those outlined in this Privacy Policy.
 
 We may disclose Personal Data that we collect or you provide as described in this privacy policy:
 
@@ -171,7 +170,7 @@ We may disclose Personal Data that we collect or you provide as described in thi
   * to your email and calendar service provider;
   * to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Baydin, Inc.'s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Baydin, Inc. about the Boomerang Services' users is among the assets transferred;
   * to fulfill the purpose for which you provide it. For example, if you give us an email address to use the "Send Later" feature of the Boomerang Services, we will store your Communications on our servers and transmit the contents of that email and your email address to the recipients after the time you specify;
-  * for any other purpose disclosed by us when you provide the information; 
+  * In public, user-facing educational and marketing content, provided that all such information is aggregated and does not identify any individual.
   * to the recipients of your Communications that you specify; and
   * with your consent.
 
@@ -271,8 +270,8 @@ If you have any questions, concerns, complaints or suggestions regarding our Pri
 
 **To Contact Baydin (Processor)**   
 Baydin, Inc.   
-100 View Street   
-Suite 112   
+147 Castro Street   
+Suite 3   
 Mountain View, CA 94041   
 USA   
 support@baydin.com 
