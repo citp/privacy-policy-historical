@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webuser.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230014857id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuser.co.uk privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621231759id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dennis Publishing
 
-Last updated October 2018.
+Last updated June 2019.
 
 Introduction & General Terms
 
@@ -230,19 +230,19 @@ Dennis Publishing has formed partnerships with a variety of carefully selected c
 
 **Fulfilment Partners:**
 
-Selligent, Salesforce, Convertr, Adestra, ABS, Paypal, Esco, ATL Fulfilment, IMS, Paragon-CC, First Mailing, GB Mailing, Abstrakt Mailing, PCP, Wyndeham Group, William Gibbons, WHSmith, Apple, Kindle, Pixelmags, Zinio, ZenDesk, OneTrust, Syrensis, Audit Bureau of Circulations, Gardners, Corney & Barrow, Swig, Liberty Wines, Lea & Sandeman, Private Cellar, Haynes Hanson & Clark, Tanners, Yapp, Handford, Encore Tickets 
+Selligent, Salesforce, Convertr, Adestra, ABS, Paypal, Esco, ATL Fulfilment, IMS, Paragon-CC, GB Mailing, Abstrakt Mailing, PCP, William Gibbons, WHSmith, Apple, Kindle, Pixelmags, Zinio, ZenDesk, OneTrust, Audit Bureau of Circulations, Gardners, Corney & Barrow, Swig, Liberty Wines, Lea & Sandeman, Private Cellar, Haynes Hanson & Clark, Tanners, Yapp, Handford, Encore Tickets, Walstead UK, Domaine Direct    
 
 **Marketing Partners:**
 
-Aditus, Marketing Town, Demographix, Kado, Shopify, The Education Company, Qubit, Facebook, Twitter, Deciphr, Jellyfish, iSubscribe, Groupon, Tesco, ADLP, Gardners Books, Leadire, Custom Intelligence, Internal Results, Martech, Overmatter, Technology Advice, Whinmoor, Cap Automotive, Jato Dynamics Limited, Focus Vision, HPI, Borderless Access, GMI/ Lightspeed, Research Now/ SSI, Popjam, Bolinda Digital Ltd, RSVP, Feefo, Google
+Aditus, Marketing Town, Demographix, Kado, Shopify, The Education Company, Qubit, Facebook, Twitter, Deciphr, Jellyfish, iSubscribe, Groupon, ADLP, Gardners Books, Custom Intelligence, Internal Results, Martech, Overmatter, Technology Advice, Whinmoor, Cap Automotive, Jato Dynamics Limited, Focus Vision, HPI, Borderless Access, GMI/ Lightspeed, Research Now/ SSI, Popjam, Bolinda Digital Ltd, RSVP, Feefo, Google, Merit, Blue Whale, Zoominfo, Cognism, Blaize.io, Tripsmiths
 
 **Advertising Technology Partners:**
 
-Permutive, Quantcast, Sourcepoint, Crazy Egg, Disqus, Feedbackify, Trustpilot, Skimlinks, Monetizer101, Google, MOAT, Lolagrove, Dealtrak, Taboola, Pubmatic, Amazon, OpenX, Pangea Alliance, AdYouLike Ltd, Pulsepoint, Freewheel SSP, Index Exchange Inc, InSkin, Teads, Xaxis, Digiteka
+Permutive, Quantcast, Sourcepoint, Disqus, Feedbackify, Trustpilot, Skimlinks, Monetizer101, Google, MOAT, Lolagrove, Dealtrak, Taboola, Pubmatic, Amazon, OpenX, Pangea Alliance, AdYouLike Ltd, Pulsepoint, Freewheel SSP, Index Exchange Inc, InSkin, Teads, Xaxis, Digiteka, Sublime, Rhythm one, Just premium, Sovrn, Nano interactive
 
 **Vehicle Purchase Partners:**
 
-Alphera, Barclays, Blue Motor Finance, Close, Mallard, Marsh, MoneyBarn, Motonovo, Moneyway, DealTrak, TrustPilot, TheCarBuyingGroup, Warranty Wise, Local Delivery Companies
+Alphera, Barclays, Blue Motor Finance, Close, Motonovo, Moneyway, DealTrak, TrustPilot, TheCarBuyingGroup, Warranty Wise, Startline, Product Partnerships Limited, Experian,  Local Delivery Companies
 
 **Audit and verification:**
 
