@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvue.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206173148id_/https%3A//www.myvue.com/legal/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvue.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621094920id_/https%3A//www.myvue.com/legal/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms & Conditions | Legal | Vue Cinemas
 
@@ -28,11 +28,11 @@ We also use your data to comply with laws and regulations and to help prevent an
 
 You have the right to object to some of the processing Vue Entertainment carries out. More information about your rights and how to exercise these is set out in the “Your rights” section of this notice. 
 
-When you give consent to us to use your personal data, you are able to withdraw that consent at any time by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  You can also email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to exercise any other data rights, such as obtaining a copy of your data, correcting, deleting or restricting how we use your data.  Please see “Your rights” for more information.
+When you give consent to us to use your personal data, you are able to withdraw that consent at any time by emailing dataprotection@vuemail.com.  You can also email dataprotection@vuemail.com to exercise any other data rights, such as obtaining a copy of your data, correcting, deleting or restricting how we use your data.  Please see “Your rights” for more information.
 
-You can unsubscribe from marketing communications at any time.  To opt out of marketing, including profiling for direct marketing purposes, you can either adjust the preference settings in your Vue account, or select “unsubscribe” in emails, or email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) 
+You can unsubscribe from marketing communications at any time.  To opt out of marketing, including profiling for direct marketing purposes, you can either adjust the preference settings in your Vue account, or select “unsubscribe” in emails, or email dataprotection@vuemail.com. 
 
-Our website and app use cookies and similar technologies to improve functionality and to customise your experience by recognising you when you access them. You can reject and block cookies in your browser settings.  Please see our [Cookie Policy](https://web.archive.org/web/20181206173148id_/https%3A//www.myvue.com/legal/~/link.aspx?_id=593AE8A42E5745259273D141B26B32C2&_z=z) for more information.
+Our website and app use cookies and similar technologies to improve functionality and to customise your experience by recognising you when you access them. You can reject and block cookies in your browser settings.  Please see our [Cookie Policy](https://web.archive.org/web/20190621094920id_/https%3A//www.myvue.com/legal/~/link.aspx?_id=593AE8A42E5745259273D141B26B32C2&_z=z) for more information.
 
 If you enable location services on the app, or you access the location finder on our website and your browser settings allow this, your device will identify and notify you of the nearest Vue Cinema to your location. 
 
@@ -67,7 +67,7 @@ We are allowed to use your data only if we have a proper reason to do so such as
 • when you consent to it; or  
 • to comply with the law.
 
-A legitimate interest is when we have a business or commercial reason to use your data. This involves us making an assessment of when we can rely on our legitimate interests. For more information on this assessment please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+A legitimate interest is when we have a business or commercial reason to use your data. This involves us making an assessment of when we can rely on our legitimate interests. For more information on this assessment please contact dataprotection@vuemail.com.
 
 We have set out below how and why we use your personal information and the legal basis we rely on. This is also where we tell you what our legitimate interests are.
 
@@ -104,14 +104,14 @@ To comply with law, assess and uphold legal or contractual rights and claims, an
 
 **We may, if you give us consent:**  
 • Send you electronic marketing, including promotions and offers, in relation to our products and services if you are a member. Vue members can subscribe or unsubscribe from our marketing communications at any time by adjusting their account settings online.  
-• Use cookies or similar technologies on the website, app and in marketing emails, including analytic cookies.  For more details on our use of such technologies, click here to see our [Cookie Policy](https://web.archive.org/web/20181206173148id_/https%3A//www.myvue.com/legal/~/link.aspx?_id=593AE8A42E5745259273D141B26B32C2&_z=z).  
+• Use cookies or similar technologies on the website, app and in marketing emails, including analytic cookies.  For more details on our use of such technologies, click here to see our [Cookie Policy](https://web.archive.org/web/20190621094920id_/https%3A//www.myvue.com/legal/~/link.aspx?_id=593AE8A42E5745259273D141B26B32C2&_z=z).  
 • Send you push notifications through the app.  
 • Notify you of the nearest Vue cinema (if you have enabled location services and use the cinema locator in the app or on the website).  
 • Use your personal data for other purposes where we explain that purpose when we ask for your consent.
 
-When you give consent, you are able to withdraw that consent at any time by contacting us, for instance by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  If you do so we can only continue to use your data if another legal basis applies, such as when we’re required to do that by law.
+When you give consent, you are able to withdraw that consent at any time by contacting us, for instance by emailing dataprotection@vuemail.com.  If you do so we can only continue to use your data if another legal basis applies, such as when we’re required to do that by law.
 
-Nevertheless, you have an absolute right to opt-out of direct marketing, including profiling for direct marketing purposes, at any time.  You can opt out of marketing by selecting “unsubscribe” in emails, by adjusting the preference settings on your Vue account or by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Nevertheless, you have an absolute right to opt-out of direct marketing, including profiling for direct marketing purposes, at any time.  You can opt out of marketing by selecting “unsubscribe” in emails, by adjusting the preference settings on your Vue account or by emailing dataprotection@vuemail.com.
 
 **When the law requires us to process your data we will do so.   This can include:**  
 • Legal, compliance, regulatory and investigative purposes, including for government agencies and law enforcement.  
@@ -149,11 +149,11 @@ If we do transfer information outside of the EEA, we will make sure that it is p
 • Transfer it to organisations that are part of Privacy Shield. This is a framework that sets privacy standards for data sent between the US and EU countries. It makes sure those standards are similar to what is used within the EEA.  
 • Binding corporate rules. These are internal rules adopted by group companies to allow international transfers of personal data to entities within the same corporate group located in countries which do not provide an adequate level of protection.
 
-For service providers in the US, we rely on Privacy Shield.  For our service providers in Asia and Oceania, we rely on contractual measures.  For further details on the mechanisms used please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+For service providers in the US, we rely on Privacy Shield.  For our service providers in Asia and Oceania, we rely on contractual measures.  For further details on the mechanisms used please contact dataprotection@vuemail.com
 
 **7\. Cookies and similar technologies**
 
-Our website, apps and marketing emails use cookies and similar technology. Full information is in our [Cookie Policy](https://web.archive.org/web/20181206173148id_/https%3A//www.myvue.com/legal/~/link.aspx?_id=593AE8A42E5745259273D141B26B32C2&_z=z). This includes information on how to adjust your browser settings to accept or reject cookies.
+Our website, apps and marketing emails use cookies and similar technology. Full information is in our [Cookie Policy](https://web.archive.org/web/20190621094920id_/https%3A//www.myvue.com/legal/~/link.aspx?_id=593AE8A42E5745259273D141B26B32C2&_z=z). This includes information on how to adjust your browser settings to accept or reject cookies.
 
 **8\. Data retention**
 
@@ -188,11 +188,11 @@ You have a right to complain to an EU data protection authority.  In the UK, th
 
 **10\. Contact details**
 
-To exercise any of your data protection rights or to withdraw consent you can email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+To exercise any of your data protection rights or to withdraw consent you can email: dataprotection@vuemail.com.
 
-To discuss or change your Vue account details, including preference settings, you can log into your account and go to ‘My account’ and Contact Preferences or contact customer services at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+To discuss or change your Vue account details, including preference settings, you can log into your account and go to ‘My account’ and Contact Preferences or contact customer services at dataprotection@vuemail.com.
 
-For any queries relating to data protection please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by writing to them at Customer Services, Vue Entertainment, 10 Chiswick Park, 566 Chiswick High Road, London W4 5XS.
+For any queries relating to data protection please contact dataprotection@vuemail.com or by writing to them at Customer Services, Vue Entertainment, 10 Chiswick Park, 566 Chiswick High Road, London W4 5XS.
 
 If we make any changes or updates to this notice we will post these here.
 
