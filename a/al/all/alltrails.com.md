@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alltrails.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231133053id_/https%3A//www.alltrails.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltrails.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621205113id_/https%3A//www.alltrails.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AllTrails
 
-**These Terms are effective and were last updated on June 15, 2017.**
+**These Terms are effective and were last updated on May 28, 2019.**
 
-**AllTrails, Inc.** ( _“AllTrails”_ , _“our”_ , _“us”_ or _“we”_ ) are committed to protecting and respecting your privacy in connection with your use of our website, [alltrails.com](http://alltrails.com/) (the _“Website(s)”_ ), applications _“Apps”_ ) and other products, services and features thereof (the Website, the Apps and such other products, services and features are collectively referred to herein as the “Product” or “Products”, which may be updated from time-to-time at the sole discretion of AllTrails). This privacy policy (“Privacy Policy”) and any other documents referred to herein set forth the basis on which any personal information we collect from you, or that you provide to us, in connection with the Products will be processed by us. Please read the following carefully to understand our practices regarding your personal information and how we will collect, use and disclose your personal information.
+**AllTrails, LLC** ( _“AllTrails”_ , _“our”_ , _“us”_ or _“we”_ ) are committed to protecting and respecting your privacy in connection with your use of our website, [alltrails.com](https://alltrails.com/) (the _“Website(s)”_ ), applications _“Apps”_ ) and other products, services and features thereof (the Website, the Apps and such other products, services and features are collectively referred to herein as the “Product” or “Products”, which may be updated from time-to-time at the sole discretion of AllTrails). This privacy policy (“Privacy Policy”) and any other documents referred to herein set forth the basis on which any personal information we collect from you, or that you provide to us, in connection with the Products will be processed by us. Please read the following carefully to understand our practices regarding your personal information and how we will collect, use and disclose your personal information.
 
 INFORMATION WE MAY COLLECT FROM YOU
     
@@ -36,7 +36,7 @@ TRACKING TECHNOLOGIES
 
 AllTrails and our analytics partners, use technologies such as cookies, beacons, tags, and scripts to enable a service to recognize your device so you don't have to provide the same information several times during one task, recognize that you may have already given a username and password so you don't need to do it for every web page requested, and measuring how many people are using services. 
 
-We use local storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on the Products also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
+We use local storage technologies, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on the Products also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
 
 We partner with third parties, such as Facebook and Google, to manage our advertising of the Products on other sites or platforms as well as across your other devices based on your past visits to our website. Our third party partners may use technologies such as cookies to gather information about your activities within the Products to deliver such advertising to you, such as retargeting ads. We currently do not respond to do-not-track signals. For more information about interest-based ads, including how to opt-out of having your web-browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). Please note that this does not opt you out of being served ads. You may continue to receive generic ads on these third party platforms. You may also opt out of receiving ads across devices by adjusting your ad preference in your Google account. 
 
@@ -53,14 +53,14 @@ The Products use Google Analytics code to gather statistical information. Google
 
 **LOG FILES**
 
-  * As true of most websites, we gather certain information and automatically and store it in log files. This information may include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. If you receive the HTML-formatted version of our email newsletter, your opening of the newsletter is notified to us and saved. Your clicks on links in the newsletter are also saved. These and the open statistics are used in aggregate form to give us an indication of the popularity of the content and to help us make decisions about future content and formatting.
+  * As true of most websites, we gather certain information and automatically store it in log files. This information may include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. If you receive the HTML-formatted version of our email newsletter, your opening of the newsletter is notified to us and saved. Your clicks on links in the newsletter are also saved. These and the open statistics are used in aggregate form to give us an indication of the popularity of the content and to help us make decisions about future content and formatting.
 
 
 
 WHERE WE STORE YOUR PERSONAL INFORMATION
     
 
-All information you provide to us through the Products is stored on our secure servers located in the US. Any payment transactions will be encrypted using SSL technology; all payment information is stored with our payment processor and is never stored on AllTrails’ servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Products, you are responsible for keeping this password confidential. We ask you not to share a password with anyone, and suggest that your change your password frequently. Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to the Products; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access. 
+All information you provide to us through the Products is stored on our secure servers located in the US. Any payment transactions will be encrypted using SSL technology; all payment information is stored with our payment processor and is never stored on AllTrails’ servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Products, you are responsible for keeping this password confidential. We ask you not to share a password with anyone, and suggest that you change your password frequently. Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to the Products; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access. 
 
 SINGLE SIGN-ON
     
@@ -91,7 +91,7 @@ USES MADE OF THE INFORMATION
 
   * To understand your broad, non-specific geographic location to help us identify groups of users by general geographic market (such as zip code, state or country).
 
-  * To inform your Community about your registration and use of the Products as described under Corporate and Other Community Sharing in section 6 above.
+  * To inform your Community about your registration and use of the Products.
 
   * To serve our advertisements to you through third party platforms, such as Facebook or Google, on other sites and apps or across your devices.
 
@@ -99,7 +99,7 @@ USES MADE OF THE INFORMATION
 
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-  * Details of transactions you carry out through the Products and of the fulfillment of your Product orders.
+  * Details of transactions you carry out through the Products are used for the fulfillment of your Product orders.
 
   * Details of your visits to and interactions with the Products including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
@@ -132,6 +132,17 @@ We may disclose your personal information to any member of our group, which mean
 
 
 
+APPLE HEALTH
+    
+
+Our Products may utilize connections to the Apple Health App (“HealthKit”). For more information on HealthKit, please [click here](https://developer.apple.com/documentation/healthkit). You can choose to connect and share information with HealthKit. If you grant access for us to write data to HealthKit, we can add information such as your activity recordings and related information like activity distance and calories burned, amongst other data, to HealthKit. 
+
+Your unique health data you choose to send to HealthKit is not accessible by AllTrails. Our Apps cannot write data to HealthKit unless you grant access. You can remove access at any time inside the Apple Health app. 
+
+Since we do not obtain or read any data from Apple HealthKit, such HealthKit data cannot be not used by us for marketing or advertising purposes, or shared with or sold to advertising platforms, data brokers, or information resellers. 
+
+AllTrails is in no way responsible for the protection of any of your information that you agree to store with HealthKit, which is governed by Apple’s privacy policy and other terms. You and Apple are solely responsible for the protection of such information. Please review Apple’s applicable policies and procedures before granting permission to sync your health data and/or other information with the HealthKit. 
+
 LINKS TO THIRD PARTY SITES
     
 
@@ -140,7 +151,7 @@ The Products may, from time to time, contain links to and from the Products of o
 SOCIAL MEDIA WIDGETS
     
 
-Our Products include social media features, such as the Facebook Like button, and widgets, such as the “Share This” button, or interactive mini-programs. These features may collect your Internet protocol address, which page you are visiting on or Products, and may set a cookie to enable the feature to function properly. Social media features and widgets are hosted by a third party or hosted directly on our Products. Your interactions with these features are governed by the privacy statement of the company providing it. 
+Our Products include social media features, such as the Facebook Like button, and widgets, such as the “Share This” button, or interactive mini-programs. These features may collect your Internet protocol address, which page you are visiting on our Products, and may set a cookie to enable the feature to function properly. Social media features and widgets are hosted by a third party or hosted directly on our Products. Your interactions with these features are governed by the privacy statement of the company providing it. 
 
 USE OF ALLTRAILS BY MINORS
     
@@ -157,4 +168,4 @@ CONTACT
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@alltrails.com](mailto:support@alltrails.com).
 
-AllTrails, Inc. 111 Pine Street, Suite 1605 San Francisco, CA 94111
+AllTrails, LLC 530 Bush St Suite 900 San Francisco, CA 94108
