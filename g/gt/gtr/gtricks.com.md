@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtricks.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116035359id_/http%3A//www.gtricks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtricks.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621221941id_/http%3A//www.gtricks.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
