@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tattoodo.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823213705id_/https%3A//www.tattoodo.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoodo.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621185938id_/https%3A//www.tattoodo.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tattoodo
-
-## Privacy Policy
 
 Effective date: May 21, 2018
 
@@ -273,3 +271,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
 By email: [hello@tattoodo.com](mailto:hello@tattoodo.com)
+
+✓You’re now online.
+
+CookiesThis site uses cookies to offer you a better browsing experience. [Learn more](https://web.archive.org/about/privacy-policy)
