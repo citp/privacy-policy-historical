@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the schlockmercenary.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525071307id_/https%3A//www.schlockmercenary.com/pages/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schlockmercenary.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622134242id_/https%3A//www.schlockmercenary.com/pages/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Schlock Mercenary - Privacy Policy and Terms of Use
 
-_This policy was last modified on May 23, 2018_
+_This policy was last modified on May 25, 2018_
 
-This policy covers both the comic site found at [schlockmercenary.com](https://www.schlockmercenary.com/) and the store found at [shop.schlockmercenary.com](https://shop.schlockmercenary.com/). We also partner with Patreon for our subscriptions, Kickstarter for projects, Backerkit for fulfilling projects, with Shopify for our store, and with Mailchimp for our mailing list. All of these partners have thorough privacy policies and do not resell the data you enter there. It is our intention to be fully GDPR compliant. Our servers and sites are primarily located outside the EU.
+This policy covers Schlock Mercenary content sites at  **[schlockmercenary.com](https://www.schlockmercenary.com/)**  and **[ovalkwiki.com](https://web.archive.org/web/20190622134242id_/https://www.schlockmercenary.com/pages/privacy-policy-and-terms-of-use/ovalkwiki.com)** , as well as the storefront  **[shop.schlockmercenary.com](https://shop.schlockmercenary.com/).** Our policy also covers the data we acquire via [Patreon](https://patreon.com/SchlockMercenary?ty=c), [Kickstarter](https://www.kickstarter.com/), [Backerkit](http://www.backerkit.com/), [Shopify](http://shop.schlockmercenary.com/) and [Mailchimp](https://mailchimp.com/), and they each have robust privacy policies which cover the your interactions with them. 
 
-If you wish to remove your data from our site or our partners, please refer to the paragraph on opting out below or contact [support@schlockmercenary.com](mailto:support@schlockmercenary.com) for individual assistance.
+We are fully GDPR ([General Data Protection Regulation](https://gdpr-info.eu/)) compliant, and have taken great care to only partner with sites that are also GDPR compliant.
+
+_**Note:** if you're here to request removal of your data, this link will scroll you down to the part with those instructions._
 
 ### What information do we collect?
 
@@ -47,7 +49,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (Chrome, Edge, IE, Opera, Firefox, etc) settings. Each browser is a little different, so look at the browser's Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly.
 
 ### Do we disclose the information we collect to outside parties?
 
@@ -57,13 +59,12 @@ Non-personally identifiable visitor information, like aggregated statistical dat
 
 ### How can you opt-out, remove or modify information you have provided to us?
 
-To modify your e-mail subscriptions, you can use the unsubscribe link at the bottom of any email we send. Please note that due to email production schedules you may receive any emails already in production.
+  * To modify your e-mail subscriptions, you can use the unsubscribe link at the bottom of any email we send. Please note that due to email production schedules you may receive any emails already in production.
+  * To opt out of Patreon, Kickstarter, Backerkit, or one of our other partners, go to that site and use their account cancellation procedures.
+  * To opt out of membership on Schlockmercenary.com please let us know by modifying your preferences in the "My Account" section.
+  * To delete all of your shopping account information from our store database, sign into the "My Account" section of shop.schlockmercenary.com and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
-To opt out of Patreon, Kickstarter, Backerkit, or one of our other partners, go to that site and use their account cancellation procedures.
 
-To opt out of membership on Schlockmercenary.com please let us know by modifying your preferences in the "My Account" section.
-
-To delete all of your shopping account information from our store database, sign into the "My Account" section of shop.schlockmercenary.com and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
 For assistance with any of these opt out choices, you may email [support@schlockmercenary.com](mailto:support@schlockmercenary.com) we will happily assist you in erasing any data you no longer wish us to have.
 
@@ -77,16 +78,16 @@ Orem UT 84059
 
 If you reside in certain territories, including the EU, you have a number of rights in relation to your personal information. While some of these rights apply generally, certain rights apply only in certain limited cases. I describe these rights below:
 
-  * Access. You may have the right to access and receive a copy of the personal information I hold about you by contacting us at [support@schlockmercenary.com](mailto:support@schlockmercenary.com).
-  * Change, restrict, delete. You may also have rights to change, restrict my use of, or delete your personal information. Absent exceptional circumstances (like where I am required to store data for legal reasons) We will generally delete your personal information upon request.
-  * Object. You can object to (i) my processing of some of your information based on my legitimate interests and (ii) receiving marketing messages from me after providing your express consent to receive them. In such cases, We will delete your personal information unless we have compelling and legitimate grounds to continue using that information or if it is needed for legal reasons.
-  * Complain. If you reside in the EU and wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local data protection authority.
+  * **Access:**  You may have the right to access and receive a copy of the personal information we hold about you by contacting us at [support@schlockmercenary.com](mailto:support@schlockmercenary.com).
+  * **Change, Restrict, & Delete:** You may also have rights to change, restrict my use of, or delete your personal information. Absent exceptional circumstances (like where I am required to store data for legal reasons) We will generally delete your personal information upon request.
+  * **Opt-Out:**  You can opt out of (i) our processing of some of your information based and (ii) receiving marketing messages from us (even after providing your express consent to receive them.) In such cases, We will delete your personal information, unless we have compelling and legitimate grounds to continue using that information or if it is needed for legal reasons.
+  * **Complain.** If you reside in the EU and wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local data protection authority.
 
 
 
 ### Third party links
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+Sometimes we post third party links on our site. The privacy policies for these sites are separate from our own, and we have no control over them. We welcome feedback on our third-party links, and seek to protect the integrity of our site and your privacy. 
 
 ### Changes to our policy
 
