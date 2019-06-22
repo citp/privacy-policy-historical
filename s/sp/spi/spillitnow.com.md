@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spillitnow.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219090533id_/http%3A//spillitnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spillitnow.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622031806id_/http%3A//spillitnow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Spill It Now
 
