@@ -1,32 +1,67 @@
-> *The following text is extracted and transformed from the storagenewsletter.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309233523id_/http%3A//www.itnewslettergroup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storagenewsletter.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622112424id_/https%3A//www.storagenewsletter.com/privacy-policy) for the most accurate reproduction.*
 
-# The IT Newsletter Group| Breaking News For The IT Industry
+# Privacy Policy - StorageNewsletter
 
-Our privacy policy is quite simple : we do not collect anymore data than what is necessary for our run off the mill statistics product (at this time [Google Analytics](http://www.google.com/analytics/)).
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-All we can know about you is unidentifiable data (your browser, your ISP, your operating system, and so on). This is information that any website on the internet have.
+**What personal information do we collect from visitors of storagenewsletter.com?  
+**We do not collect information from visitors of our site.
 
-Additionally, if you contact us by email, we do not keep, or otherwise use, your email for any other purpose than responding to your request.
+**When do we collect information?  
+**We collect information from you when you subscribe to our daily newsletter.
 
-## > Your email address
+**How do we use your information?  
+**We use information we collect from you to send our daily newsletter and a maximum of 3 paid email blasts related to data storage each week.
 
-If you choose to subscribe to one of our newsletters, we will then need to keep your email address. But we will never sell, share or otherwise communicate it with anybody else.
+**How do we protect your information?**
 
-There are, however, two understandable exceptions to that rule : 
+  * We do not use vulnerability scanning and/or scanning to PCI standards.
+  * We only provide articles and information. We never ask for credit card numbers.
+  * We do not use Malware Scanning.
+  * We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
 
-  * If forced by applicable law, we will have to disclose your email address, but to law enforcement only.
-  * If we do use a third-party service to send out our newsletters, this service will need to know which addresses to send the emails to. Those companies are professionals, and bound by contract to NOT use the emails they send newsletters to for their own benefit. And we are very careful selecting only reputable companies for that job.
+
+
+**Do we use ‘cookies’?  
+**We do not use cookies for tracking purposes
+
+  
+**Third-party disclosure  
+**We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+
+**Third-party links  
+**We do not include or offer third-party products or services on our website.
+
+**Opting out:  
+**Users can Opt Out by clicking at the bottom of each Newsletter or paid email blast
+
+**CAN SPAM Act  
+**The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to send our daily Newsletter and a maximum of 3 paid email blasts per week
+
+**To be in accordance with CANSPAM, we agree to the following:**
+
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests immediatly
+  * Allow users to unsubscribe by using the link at the bottom of each email.
 
 
 
-## > Our Opt-In program
+  
+If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
 
-If you decide to "opt-in" to receive additional emails from us on behalf or our partners, we will send you very few extra emails with what we believe are good deals for you. We do not share your email with those partners : we send the emails ourselves or through a professionnal emailing service. Our partners will never get your email address from us.
+**Contacting us:  
+**If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-Also, this "opt-in" program is purely on a voluntary basis. By default all our newsletter subscribers are NOT opted-in. You have to select it yourself AFTER your free newsletter subscription is done. And of course, you can opt-out at anytime.
+Micro Journal  
+11 rue de Provence  
+75009 Paris  
+France
 
-## > In short
+info@storagenewsletter.com
 
-What all of this means is that we are not spammers, not even in the marketing business, and we will not abuse the privilege of sending you emails.
-
-We are in the publishing business, and our readers loyalty is what really counts for us and what will keep us in business. So we will not engage in dodgy tactics with your personal information ! Promised.
+**Last Edited on 2017-06-30**
