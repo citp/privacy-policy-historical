@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creation.com privacy policy that was archived on 2018-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180716114557id_/https%3A//creation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creation.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622140653id_/https%3A//creation.com/privacy) for the most accurate reproduction.*
 
 # Privacy - creation.com
 
@@ -72,7 +72,7 @@ CMI is extremely careful with the personal information you provide. We will use 
 
 
 
-CMI never sells, rents or leases personal information. Nor do we exchange any personal information with other organizations with the exception of organizations which may require these details to provide accommodation or similar services at CMI conferences.
+CMI never sells, rents or leases personal information. Nor do we exchange any personal information with other organizations with the exception of organizations which may require these details to provide accommodation or similar services at CMI conferences. 
 
 CMI never exchanges the identity of its donors to others except as required by law.
 
