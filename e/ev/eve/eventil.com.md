@@ -1,105 +1,141 @@
-> *The following text is extracted and transformed from the eventil.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929023547id_/https%3A//eventil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventil.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622104120id_/https%3A//eventil.com/privacy) for the most accurate reproduction.*
 
-# Events for tech people · Eventil
+# Events for Tech People · Eventil
 
-This Privacy Policy covers the information practices of Te2 limited liability company (“Te2”) and is effective 01.02.2016.
+By using eventil.com (the “Website”) and/or a Eventil account (the “Service”), you agree to the terms of this Privacy Policy and the [Terms of Service](https://eventil.com/terms). Eventil is designed and operated by Te2 Sp. z o.o. (“Te2”). Please read the Terms of Service in their entirety, and refer to those for definitions and contacts.
 
 All personal data that we collect providing you with our services remain under our special care. Below you will find the explanation of issues related to ensuring security for your personal data in the form of answers to the following questions:
 
-  1. Who collects and processes data collected?
-  2. What kind of information is collected?
-  3. For what purpose do we collect your personal data?
-  4. How do we store and use the information collected?
-  5. For what purpose do we not use personal data?
-  6. Whom your personal data may be shared with?
-  7. How can you update your personal information?
-  8. How do we communicate with the user?
-  9. How the Privacy Policy is changed?
+### GDPR compliance
+
+For a detailed list of data sub-processors under the GDPR please see below under “Sharing of Data”.
+
+#### Your Data Protection Rights Under The General Data Protection Regulation (GDPR)
+
+If you are a resident of the EEA, you have the following data protection rights:
+
+  * You can object to the processing of your personal information, ask us to restrict the processing of your personal information, or request portability of your personal information. You can exercise these rights by emailing [hello@eventil.com](mailto:hello@eventil.com).
+  * You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing emails we send you. To opt-out of other forms of marketing, please contact us by emailing [hello@eventil.com](mailto:hello@eventil.com).
+  * Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
 
 
 
-## 1\. Who collects and processes data collected?
+#### Right to Access, Correct, Update, or Request Deletion of Data
 
-The Administrator of your personal data within the meaning of the Act of 29 August 1997 on the Protection of Personal Data (Dz.U. 2002 r. Nr 101, poz. 926) is Te2 limited liability company with the seat in Poznań (Poland). The collection of personal data has been declared to the General Inspector for the Protection of Personal Data (GIODO).
+If you want to request an export or deletion of your personal data, and have an account with us, please contact us at [hello@eventil.com](mailto:hello@eventil.com). Please note that we cannot delete personal data in open accounts when you’re not the account owner, as this would prevent us from providing the service the account owner is paying for (We suggest that you contact the account owner of the Eventil account in question to ask them to anonymize or remove your data).
 
-## 2\. What kind of information is collected?
+In order to accommodate customers who need older data restored, we keep backups indefinitely and cannot delete personal data form them as these are stored off-site, read-only and heavily encrypted and compressed. If we do have access or restore data to our production systems or for purposes of debugging, any deletions of personal data will be applied retroactively or the personal data will be anonymized.
 
-Information provided by you during registration:
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
-Contact information: your name, company name, address, phone number and e-mail address.
+#### International data transfers
 
-Financial information: credit card’s number and billing information (tax id, number of the payer VAT) – declaration of these data, we treat as a consent to issue an invoice and charge the credit card.
+GDPR includes provisions on international data transfer mechanisms. In order to comply with these provisions we have certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks (please see below for details).
 
-The information obtained by Te2 automatically in the course of the use by you of Te2's services: IP addresses of computer you use to access our services, browser’s type and browser’s language.
+#### Data Retention and Deletion Schedules
 
-Contact information, financial information and information obtained by Te2 automatically are referred to as personal data.
+##### Application Data and Backups
 
-Te2 has also access to other of the data stored and processed by users, such as: source code for the application, database that the applications use, files generated by applications, the history of operations performed by users. However, Te2 does not own, transfer, share, control or direct the use any of those information on any condition. Only the users are entitled to retrieve and direct the use of such information.
+Backups are securely encrypted and stored as defined in our Privacy Policy.
 
-## 3\. For what purpose do we collect your personal data?
+In order to accommodate customers who need older data restored, we keep backups indefinitely and cannot delete personal data form them as these are stored off-site, read-only and heavily encrypted and compressed. If we do have access or restore data to our production systems or for purposes of debugging, any deletions of personal data will be applied retroactively or the personal data will be anonymized.
 
-All of the collected personal data are processed solely to perform the services requested or marketing purposes of Te2. As for credit card’s information, they are used solely to check the financial qualifications of prospective users and to collect payment for the services.
+##### Purchase Records and Invoices for our Services and Products
 
-For the above mentioned purposes, the data may be used, in particular, to:
+We keep copies of all purchasing records for tax and auditing purposes.
 
-  * help diagnose problems with our servers and to administer the site;
-  * keep track of your activities on the site in order to determine your preferences, so that the service can be adapted to your requirements and needs;
-  * operate and improve the site;
-  * contact you about your interest in the Services;
-  * send you information regarding Te2 and its’ partners, such as information about promotions or events;
-  * protect our rights and property and the rights of users of the site;
-ensure efficient technical Service; 
-  * If you do not wish to receive marketing mailings, please send an e-mail to hello@eventil.com.
+##### Personal Metadata
+
+We keep personal metadata, given that the user allows us to process their data
+
+We will also respond to Data Subject Rights Requests within the appropriate amount of time
+
+##### Metadata collected by 3rd-party services
+
+Some 3rd party services collect data independently from us, and have incorporated it as part of their service.
+
+We do not store any copies of this data, and Data Subject Requests for this data must be submitted to the 3rd party service, since we do not control the data.
+
+##### Te2’s Internal Business Data
+
+We keep all internal business data as long as it’s relevant, and internal business data may include the data listed above.
+
+#### Data Processing Agreement
+
+We do have a Standard Data Processing Addendum ([DPA](https://eventil.com/gdpr-dpa)), which meets with GDPR requirements for agreements between Data Controllers (you) and Data Processors (us). We offer this DPA to our customers that operate in the EU. The DPA offers contractual terms that meet GDPR requirements and reflect our data privacy and security commitments to our clients. To ensure no inconsistent or additional terms are imposed on us beyond that reflected in our standard DPA and model clauses, we cannot agree to sign customers’ DPAs. We’re a small team so we can’t offer individual changes to the DPA since we do not have a legal team on staff. Any changes to the standard DPA would require legal counsel that would be cost prohibitive, increase our prices and would put an undue burden on our other customers. The DPA is a part of our Terms of Service. By agreeing to our terms of service, you are automatically accepting our DPA and do not need to sign a separate document.
+
+### Data Collected
+
+We collect anonymous data from every visitor of the Website to monitor traffic and fix bugs. For example, we collect information like web requests, the data sent in response to such requests, the Internet Protocol address, the browser type, the browser language, and a timestamp for the request.
+
+We use cookies to store session information for your convenience. Cookies must be enabled to use the Website and the Service.
+
+In order to take advantage of certain features of the Service, you may also choose to provide us with other personal information, such as your picture, but your decision to utilize these features and provide such data will always be voluntary.
+
+### Use of the Data
+
+We only use your personal information to provide you with the Service to communicate with you about the Service or the Website. This includes both automated and manual processing of data.
+
+With respect to any data you may choose to enter or upload to Eventil, we take the privacy and confidentiality of this data seriously. Your data (in the Service) is specifically not shared between accounts or with the public. We employ industry standard techniques to protect against unauthorized access of data that we store, including personal information. All off-site backups of your data are securely encrypted.
+
+Please note that if you choose to share data (like sharing invoices with your clients), we are not responsible for any violation of privacy law you may be liable for.
+
+We do not share personal information you have provided to us without your consent, unless:
+
+doing so is appropriate to carry out a user’s request;
+
+  * we believe it’s necessary in order to provide the highest quality of service;
+  * we believe it’s needed to enforce our Terms of Service, or that is legally required;
+  * we believe it’s needed to detect, prevent or address fraud, security or technical issues;
+  * otherwise protect our property, legal rights, or that of others.
 
 
 
-In case of control proceedings of the General Inspector for the Protection of Personal Data, data of users can be made available to employees of the Inspector, in accordance with the Act on the Protection of Personal Data. Any research on the service shall take place only with the consent of the Te2 and published research results will not contain the data allowing to identification of individual users.
+Eventil is operated from the Poland. If you are visiting the Website from Europe, you agree to any processing of any personal information you provide us according to this policy.
 
-## 4\. How do we store and use the information collected?
+Eventil may contact you by email. For example, Eventil may send you promotional emails relating to Eventil or communicate with you about your use of the Eventil Website and Service. If you do not want to receive email from Eventil, please opt out of receiving emails at the bottom of any Eventil email. Please note that for some emails (for example billing issues), there’s no option to opt-out.
 
-All your personal data, these contained in the registration form, as well as other obtained during the use of our services are stored and processed in a manner consistent with the requirements of the law, in particular the Act on Personal Data Protection of 29 August 1997.
+### Sharing of Data
 
-A collection of personal data is stored on the Server in the same matter as the rest of your data. However we do provide adequate protection for all data on the Server in following way:
+We don’t share your personal information with third parties except as listed below. Other then the information outlined below, only aggregated, statistical data is periodically transmitted to external services to help us improve the Eventil Website and Service.
 
-In order to protect your data from unauthorized access, unauthorized alteration, disclosure or destruction the appropriate security measures are used. They include: internal audit of the data collected, procedures of storing and processing and the safety measures in the form of physical security measures to protect against unauthorized access to systems that store your personal data.
+For client-side analytics and tracking beacons, you’re welcome to use content blocking software; just be aware that this may influence our ability to identify errors and performance problems in your account. We can’t guarantee that Eventil will work as intended when browser extensions alter the HTML, CSS or JavaScript code we transmit (however, we don’t take any active steps to prevent you from using extensions, including content blockers).
 
-The range of entities that have access to your personal data is limited. Those are only our subcontractors, technicians, service providers, persons cooperating and other agents for which it is necessary in order to support the development or improvement of the services and in connection with the provision of services to you. These individuals are bound by obligations of confidentiality and in the event of non-compliance with these obligations shall be subject to disciplinary measures, including termination of the agreement and criminal penalties.
+We currently use Stripe (billing service and credit card vault), Google Analytics, Mailgun (transactional emails), Sentry.io (error tracking);
 
-## 5\. For what purpose do we not use personal data?
+We listed below what data these third parties extract exactly. Feel free to check out their own Privacy Policies to find out more.
 
-Your personal data will not be sold by us or in any other commercial manner, be made available to third parties.
+**Tracking errors and measuring performance:**
 
-## 6\. Whom your personal data may be shared with?
-
-The collected personal data may be shared with other companies or individuals only in the circumstances permitted by law and only in the following circumstances:
-
-  * information transferred to subsidiaries, affiliated companies or other trusted businesses or persons to process personal data on behalf of Te2. From these entities we required processing information according to our instructions, in compliance with this Privacy Policy and using any other appropriate measures to protect the confidentiality and security of data.
-  * financial data shall be made available to a payment service solely in order to implement the Internet payment in connection with your use of the Services.
-  * the information shall be transmitted at the request of the Court, the public prosecutor's Office, police or other authority, in case of infringement of the legislation by the users.
-  * we use third party analytics services to help understand your use of our services.
+  * Google Analytics: no personally identifiable data is shared ([Privacy Policy](https://policies.google.com/privacy))
+  * Sentry.io: does not include passwords or credit card information ([Privacy Policy](https://sentry.io/privacy/))
 
 
 
-Te2 reserves the right to disclose the general censuses. Such statements relate mainly to general view of the Service and do not include data permitting the identification of the individual user.
+**Transactional emails (Billing-related emails, etc.):**
 
-## 7\. How can you update your personal information?
+  * Mailgun: your name and email and account data inside emails ([Privacy Policy](https://www.mailgun.com/privacy-policy))
 
-As a user of the site, you have the right to access your personal data and correct erroneous or outdated information. Users may update or change their registration information by logging in to their accounts at eventil.com. Requests to delete your information will be handled within 30 days.
 
-Data collected automatically, as well as the data obtained by the administrator of the site on the occasion of your payment transactions will not be able to change or remove. Billing data will be stored for as long as is necessary for the conduct of the Accounts. Other data will be deleted within 30 days.
 
-## 8\. How do we communicate with the user?
+**Service hosting and data backups**
 
-Users cannot opt out of receiving transactional e-mails related to their account with Te2. You may, however, send a request specifying your communications preferences to hello@eventil.com. Communication with you in other matters relating to your use of the service may be held by an e-mail, ordinary mail, by telephone or otherwise.
+  * Amazon AWS: storing encrypted archives of backup data, avatars and import files. This data is not readable by Amazon AWS. ([Privacy Policy](https://aws.amazon.com/privacy/))
+  * OVH: hosting of Eventil servers and databases including all customer data, but does not include credit card information. Some data, like passwords, is always encrypted by industry standard measures. ([Privacy Policy](https://www.ovh.co.uk/personal-data-protection/))
 
-## 9\. How is Privacy Policy changed?
 
-We reserve the right to change this Privacy Policy in order to reflect changes in our services and respond to feedback you and other customers may provide. However, we will never purposely change the policy in a way that will make it less protective for your data. Any changes to the Privacy Policy will be published on the page <%= link_to privacy_url %>.
 
-About important material changes you will be informed in a more visible manner (sending e-mail notification of changes to the Privacy Policy). Each version of this Privacy Policy will be indicated, at the top of the page, by the date of commencement of validity.
+Additionally, Te2 uses third party vendors that provide the necessary hardware, software, networking, storage and other technology required to run the Website and the Service. While Te2 owns the rights to the Eventil Website and Service, you retain all rights to the data you enter into Eventil.
 
-Te2 may provide bulletin boards, blogs or chat rooms on the Website. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Te2 is not responsible for the personal information you choose to submit in these forums.
+If Te2 is acquired or merged with an other company, or Te2 sells the Eventil Website and Service to an other company, or if Te2 goes out of business or enters bankruptcy, user information may be transferred to a third party. You acknowledge that such transfers may occur, and that any acquirer of Te2 or its assets may continue to use your personal information as set forth in this policy.
 
-If you have any questions regarding this Privacy Statement or how your data is handled you may contact us at hello@eventil.com.
+### Changes to the Privacy Policy
 
-This Privacy Statement was last updated on 01.02.2016.
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make any significant changes in the way we collect or use information, we will notify you by posting an announcement on the Website or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
+
+### Questions
+
+Should you have any question or concern, please write to [hello@eventil.com](mailto:hello@eventil.com)
+
+If you need to contact a data privacy officer, please use the contact information above.
