@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flegoo.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218130802id_/http%3A//flegoo.com/privacy-policy-p25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flegoo.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622040917id_/http%3A//flegoo.com/privacy-policy-p25) for the most accurate reproduction.*
 
 # Privacy Policy - Flegoo Classifieds
 
