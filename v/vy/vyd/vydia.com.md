@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vydia.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825182455id_/https%3A//vydia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vydia.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622142158id_/https%3A//vydia.com/privacy-policy) for the most accurate reproduction.*
 
-# We Take Your Privacy Seriously - View Our Privacy Policy | Vydia
+# We Take Your Privacy Seriously - View Our Privacy Policy Vydia
 
 VYDIA PRIVACY POLICY
 
@@ -825,7 +825,7 @@ The Data Controller is Vydia, Inc., a Delaware corporation.
 Vydia, Inc.  
 ---  
 Address | Re: Privacy Policy  
-| 31 East Main Street, Box 901  
+| 330 Mounts Corner Drive, P.O. Box 529  
 | Freehold, NJ 07728  
 Website | https://vydia.com/contact/  
 Email | support@vydia.com  
