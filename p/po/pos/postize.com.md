@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postize.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006122629id_/https%3A//www.postize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postize.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622071128id_/https%3A//www.postize.com/privacy) for the most accurate reproduction.*
 
 # Postize - Shareable stories galore.
 
@@ -181,8 +181,6 @@ Some cookies may last for a defined period of time, such as one day or until you
 Your web browser should allow you to delete any you choose. It also should allow you to prevent or limit their use.
 
 Our website uses cookies. They are placed by software that operates on our servers, and by software operated by third parties whose services we use.
-
-When you first visit our website, we ask you whether you wish us to use cookies. If you choose not to accept them, we shall not use them for your visit except to record that you have not consented to their use for any other purpose.
 
 We use cookies in the following ways:
 
