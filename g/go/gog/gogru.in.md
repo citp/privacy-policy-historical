@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the gogru.in privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogru.in privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Gogru.in App & Website
+# Privacy Policy - GogruMogru.in App & Website
 
-|  |  [](http://www.gogru.in/) |  |   
+|  |  [](http://www.gogrumogru.in/) |  |   
 ---|---|---|---  
-[Home](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/) | [News](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/news/) | [Dating](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/dating/) | [Ecards](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/ecards/) | [Games](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/games/) | [Send Free SMS](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/dating/sendfreesms.php)  
+[Home](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/) | [News](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/news/) | [Dating](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/dating/) | [Ecards](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/ecards/) | [Games](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/games/) | [Send Free SMS](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/dating/sendfreesms.php)  
 ---|---|---|---|---|---  
-[Videos](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/videos.php) | [Hollywood Celebs Pictures](http://www.hcelebs.net/ "Hollywood Celebs Pictures") | [SMS Collection](http://www.favoritesms.com/) | [Invite Friends](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/invite.php) | [Search Friends](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/dating/searchbyname.php) | [Online Profiles](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/dating/onlineprofiles.php)  
+[Videos](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/videos.php) | [Hollywood Celebs Pictures](http://www.hcelebs.net/ "Hollywood Celebs Pictures") | [SMS Collection](http://www.favoritesms.com/) | [Invite Friends](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/invite.php) | [Search Friends](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/dating/searchbyname.php) | [Online Profiles](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/dating/onlineprofiles.php)  
 ---|---|---|---|---|---  
 ****   
 
 
-|  **  Gogru.in App & Website - Privacy Policy** |  Dated: 4th March, 2007    
+|  **  GogruMogru.in App & Website - Privacy Policy** |  Dated: 4th March, 2007    
 ---|---|---  
 | 
 
-Gogru.in and its subsidiaries and affiliates ("Gogru.in") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Gogru.in. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Gogru.in you agree to the collection and use of your data by Gogru.in in the manner provided in this Privacy Policy. 
+GogruMogru.in and its subsidiaries and affiliates ("GogruMogru.in") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by GogruMogru.in. You are advised to please read the Privacy Policy carefully. By accessing the services provided by GogruMogru.in you agree to the collection and use of your data by GogruMogru.in in the manner provided in this Privacy Policy. 
 
 **We want you to**
 
@@ -96,7 +96,7 @@ We do not rent, sell or share your personal information and we will not disclose
 
   * we have your permission 
   * to provide products or services you've requested 
-  * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Gogru.in's terms of use or to defend against legal claims; 
+  * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of GogruMogru.in's terms of use or to defend against legal claims; 
   * special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure. 
 
 
@@ -107,7 +107,7 @@ We share your information with advertisers on an aggregate basis only.
 
 Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register. 
 
-You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. Gogru.in reserves the right to send you certain service related communication, considered to be a part of your GogruMogru account without offering you the facility to opt-out. You may update your information and change your account settings at any time. 
+You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. GogruMogru.in reserves the right to send you certain service related communication, considered to be a part of your GogruMogru account without offering you the facility to opt-out. You may update your information and change your account settings at any time. 
 
 Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. 
 
@@ -122,14 +122,14 @@ To protect against the loss, misuse and alteration of the information under our 
 Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties. 
 
 **LOG FILES**  
-Like many other Web sites, www.gogrumogru.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, www.gogrumogru.in makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **COOKIES and WEB BEACONS**   
-www.gogrumogru.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+www.gogrumogru.in does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
 **DOUBLECLICK DART COOKIE**   
-.:: Google, as a third party vendor, uses cookies to serve ads on www.gogrumogru.com.  
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.gogrumogru.com and other sites on the Internet.   
+.:: Google, as a third party vendor, uses cookies to serve ads on www.gogrumogru.in.  
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.gogrumogru.in and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
@@ -137,28 +137,28 @@ Google Adsense
 Adbrite  
 Chitika
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.gogrumogru.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.gogrumogru.in send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-www.gogrumogru.com has no access to or control over these cookies that are used by third-party advertisers. 
+www.gogrumogru.in has no access to or control over these cookies that are used by third-party advertisers. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.gogrumogru.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.gogrumogru.in's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 **HOW CAN YOU CORRECT INACCURACIES IN THE INFORMATION?**
 
-To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details, you can send us email at [info@gogru.in](mailto:info@gogru.in). 
+To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details, you can send us email at [info@gogrumogru.in](mailto:info@gogrumogru.in). 
 
 **POLICY UPDATES**
 
 We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site. 
 
-You are can offer your views, suggestions, if any, by submitting the filled in [feedback form](http://gogrumogru.com/home/contactus.php) online. 
+You are can offer your views, suggestions, if any, by submitting the filled in [feedback form](http://gogrumogru.in/home/contactus.php) online. 
 
-You can also send us email at: [info@gogru.in](mailto:info@gogru.in)  
+You can also send us email at: [info@gogrumogru.in](mailto:info@gogrumogru.in)  
   
 ---|---  
   
   
-[Cars Pictures](http://www.carphotos.in/ "Cars Pictures") | [Movies](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/movies) | [Quick Email](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/dating/quickemail.php) | [Love Cafe](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/dating/lovecafe.php) | [Wallpapers](https://web.archive.org/web/20181211084626id_/http%3A//www.gogru.in/home/wallpapers/) | [Lost Monuments](http://www.lostmonuments.com/ "Lost Monuments")  
+[Cars Pictures](http://www.carphotos.in/ "Cars Pictures") | [Movies](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/movies) | [Quick Email](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/dating/quickemail.php) | [Love Cafe](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/dating/lovecafe.php) | [Wallpapers](https://web.archive.org/web/20190622040407id_/http%3A//www.gogrumogru.in/home/wallpapers/) | [Lost Monuments](http://www.lostmonuments.com/ "Lost Monuments")  
 ---|---|---|---|---|---
