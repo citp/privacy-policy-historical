@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endcitizensunited.org privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202205038id_/http%3A//endcitizensunited.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endcitizensunited.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622183013id_/https%3A//endcitizensunited.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - End Citizens United
 
