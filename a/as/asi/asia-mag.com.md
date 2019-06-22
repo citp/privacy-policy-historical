@@ -1,31 +1,49 @@
-> *The following text is extracted and transformed from the asia-mag.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401210626id_/http%3A//about.netster.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asia-mag.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622132233id_/https%3A//asia-mag.com/privacy-policy) for the most accurate reproduction.*
 
-# Netster®
+# Privacy Policy - AsiaMag
 
-   |  **Netster® Privacy Policy and Terms of Use**
+Last updated: (05/28/2019)
 
-By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection Privacy Policy related to services offered directly by Netster.com. Please note that Netster.com contains links to other sites and may allow those sites to be co-branded with the Netster® name. Web sites that are linked to Netster.com may have privacy policies that differ from that of the Netster.com This privacy policy only covers services offered by Netster.com. 
+AsiaMag operates http://asia-mag.com. This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-This privacy statement does not cover the privacy policies of Third party advertisers and or affiliates that advertise or list their products and services on Netster.com. Netster.com allows other companies that are presenting advertisements on some of our web pages to transmit, set and access their cookies on your computer. **Therefore, the following policies are those of Netster.com only**. 
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-When you visit Netster® and/or use any of the Netster® offered search services, The Netster® (Netster.com) collects certain statistical data. At this point The Netster® cannot identify you personally, but rather only collect statistical information on the usage, and pattern of usage of its services. This information is automatically received by Netster.com from your browser and is kept on our server logs. This information includes your I.P. address, our cookies, time and date of your visit, web pages as well as search queries requested by you. The Netster® uses this information to improve its services to its users, which includes you. The Netster®, further uses this information to custom tailor its content and advertising and to analyze our traffic in aggregate. Recent browser releases allow you to reconfigure and set your browser in such a manner that will greatly limit the amount data Netster.com as well as other websites are able to collect. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be extremely limited and some features may not work properly. Please refer to the help section of your browser to learn how you can configure your browser so not to allow cookies to be placed on your computer. 
+**Information Collection And Use**
 
-**Cookies and single-pixel gifs**  
-Only the information that you provide, or the choices you make while visiting a Web site, can be stored in a cookie, (in addition to time, day of your visit and your I.P. address). Our site cannot determine your e-mail address unless you choose to type it in. The Netster® does not have access to the rest of your computer. The Netster®, its advertisers and or affiliates, may use single-pixel gif images, also called web beacons, to count Web page accesses and gather some general statistical information. Again, The Netster® does **not** gather personal information through the use of these images. The Netster® or our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer if the user has chosen to previously provide Netster® and/or its advertiser with such personal information. 
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name.
 
-In addition to collecting anonymous statistical data, Netster.com also collects Personally Identifiable Information if you have chosen to provide The Netster® with such information. This information data tells us specifically who you are, i.e.; Your Name, E-Mail Address, Postal Address, etc. This Personally Identifiable Information is only collected, if YOU have chosen to provide it to The Netster®. This information is collected at the time **you** have **chosen** to sign-up for certain Netster.com products or services, such as e-mail, weather and financial personalized settings, browser updates, participation in a sweepstake or special offer. Netster.com uses this information to better understand your personal needs and in addition may use this information to send you product and service offers in the future. We may also use this information to provide to companies who work for or on behalf of Netster.com to provide special offers on product and services. 
+**Log Data**
 
-The sites displayed as search results or linked to by Netster.com and/or its affiliates are developed by third parties over whom The Netster® has no control. Third party affiliates or service providers, whom in some instances use complete automation, index most of the search results that appear on The Netster® results pages. The Netster® does not screen or censor any of this information, nor does The Netster® screen or censor any of the listings. The Internet is a worldwide system of computer networks in which any person can post information on their individual computer, which if connected to the Internet can be accessed by others, or, if they have permission, on the computers or computer networks of others. Today, the most popular portion of the Internet is the World Wide Web. This portion of the Internet is readily accessed with the use of a web browser. It is the goal of Netster.com to return to you the most relevant information and links to the web sites your search query has called for. However, we cannot guarantee that your search will not locate unintended or objectionable content. Further, certain materials accessible on the Internet is **NOT** appropriate for minors. The Netster® is concerned about your child's safety and does not accept banner advertisements containing adult content, however, has no control over your children's search queries, and the subsequent results of those queries. To limit and / or prevent your children's access to such materials, The Netster® suggest that you install commercially available hardware and/or software that has the ability to filter out such content. Such hardware / software products may be set to filter out content on weapons, sexual adult content, hate and racist content as well as violent content. They may also be set to disable chat sites, e-mail and message board forums. Netster.com and / or its affiliated companies assume no responsibility for your decision to utilize any "hyperlinks" to sites found on Netster.com results pages, or for the accuracy or usefulness of any materials contained in such sites. 
+Like many site operators, we collect information that your browser sends whenever you visit our Site.
 
-**THE SERVICES ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. NETSTER.COM DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.**
+This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-Netster.com may amend this Agreement at any time, and at it sole discretion, by posting the amended terms on its Web site. All amended terms are automatically effective 7 days after they are initially posted. This Agreement may not be otherwise amended except in a written document signed by you and Netster.com 
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this …
 
-**CHILDREN'S PRIVACY**  
-Protecting the privacy of children is an extremely important issue. For that reason we do not structure any part of our subscriber or affiliate services to attract anyone under the age of 13. If parents believe their child (any age under 18) has accessed our system without their permission, they can contact our customer service department by e-mail at [emailsupport@netster.net](mailto:emailsupport@netster.net) **Visit** <http://www.ftc.gov/kidzprivacy> **for information from the Federal Trade Commission about protecting children's privacy online**. 
+**Cookies**
 
-* * *
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-  
-  
+Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
+**DoubleClick DART Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on asia-mag.com.  
+Google’s use of the DART cookie enables it to serve ads to users based on their visit to asia-mag.com and other sites on the Internet.   
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include : Google Adsense.
+
+**Security**
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+**Changes To This Privacy Policy**
+
+This Privacy Policy is effective as of (05/28/2019 ) and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at : contact@asia-mag.com. 
