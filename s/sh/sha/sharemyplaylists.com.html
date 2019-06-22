@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the sharemyplaylists.com privacy policy that was archived on 2018-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181225210709id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sharemyplaylists.com privacy policy that was archived on 2019-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190622170121id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="https://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Privacy</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,8 +17,8 @@
 	<script>
 		$(document).ready(function () {
 
-			var countryArray = ['US', 'UK', 'be', 'be', 'DE', 'br', 'ie', 'es', 'fr', 'mx', 'nl', 'dk', 'fi', 'no', 'se', 'it', 'au', 'pl', 'cz', 'ru'];
-			var title = ['UnitedStates', 'UnitedKingdom', 'Belguim-Flemish', 'Belguim-French', 'Deutschland', 'Brazil', 'Ireland', 'Spain', 'France', 'Mexico', 'Netherlands', 'Denmark', 'Finland', 'Norway', 'Sweden', 'Italy', 'Australia', 'Poland', 'Czech Republic', 'Russia'];
+			var countryArray = ['US', 'UK', 'be', 'be', 'my','my', 'de', 'br', 'ie', 'es', 'fr', 'mx', 'nl', 'dk', 'fi', 'no', 'se', 'it', 'au', 'pl', 'cz', 'ru'];
+			var title = ['UnitedStates', 'UnitedKingdom', 'Belguim-Flemish', 'Belguim-French','Malaysia-English','Malaysia-Malay', 'Deutschland', 'Brazil', 'Ireland', 'Spain', 'France', 'Mexico', 'Netherlands', 'Denmark', 'Finland', 'Norway', 'Sweden', 'Italy', 'Australia', 'Poland', 'Czech Republic', 'Russia'];
 			var privacyPathBeginner = '../privacy/';
 			var termsPathBeginner = '../transactionterms/';
 			var ttPathBeginner = '../terms-of-use/';
@@ -29,6 +29,8 @@
 			var privacyPathBeginnerca = 'http://www.warnermusic.ca/privacy-policy.html';
 			var privacyPathBeginnerfl = '../privacy/be-fl/';
 			var privacyPathBeginnerfr = '../privacy/be-fr/';
+			var privacyPathBeginneren = '../privacy/my-en/';
+			var privacyPathBeginnermay = '../privacy/my-may/';
 			
 
 			/* Replace it with your selector where you want to append*/
@@ -54,7 +56,16 @@
 				var countryBlockus = '<span class="' + countryArray[index] + ' flagSpan"><a data-toggle="tooltip" data-placement="bottom" data-original-title="Belguim-French" href="' + privacyPathBeginnerfr + '">' + '<img src="' + imageExt + countryArray[index].toLowerCase() + '.gif"/></a></span>';
 				$parent.append(countryBlockus);
 			}
-			for (var index = 4; index < countryArray.length; index++) {
+			if (countryArray[index] = 'my') {
+				var countryBlockus = '<span class="' + countryArray[index] + ' flagSpan"><a data-toggle="tooltip" data-placement="bottom" data-original-title="Malaysia-English" href="' + privacyPathBeginneren + '">' + '<img src="' + imageExt + countryArray[index].toLowerCase() + '.gif" /></a></span>';
+				$parent.append(countryBlockus);
+			}
+
+			if (countryArray[index] = 'my') {
+				var countryBlockus = '<span class="' + countryArray[index] + ' flagSpan"><a data-toggle="tooltip" data-placement="bottom" data-original-title="Malaysia-Malay" href="' + privacyPathBeginnermay + '">' + '<img src="' + imageExt + countryArray[index].toLowerCase() + '.gif"/></a></span>';
+				$parent.append(countryBlockus);
+			}
+			for (var index = 6; index < countryArray.length; index++) {
 				var countryBlock = '<span class="' + countryArray[index] + ' flagSpan"><a data-toggle="tooltip" data-placement="bottom"  style="text-decoration: none;" href="' + privacyPathBeginner + countryArray[index] + '" data-original-title="' + title[index] + '" >' + '<img src="' + imageExt + countryArray[index].toLowerCase() + '.gif"  /></a></span>';
 				$parent.append(countryBlock);
 			}
@@ -110,11 +121,11 @@
 	</style>
 </head>
 
-<body>
+<body cz-shortcut-listen="true">
 	<!-- <iframe src="//wminewmedia.com/privacy/flags/privacy.htm" width="100%" height="20" frameborder="0" ></iframe>  -->
 
 	<div id="wrapper">
-		<div class="header" style="text-align:center;display:list-item;list-style:none;"></div>
+		<div class="header" style="text-align:center;display:list-item;list-style:none;"><span class="US flagSpan"><a data-toggle="tooltip" data-placement="bottom" data-original-title="United States" href="http://www.wmg.com/privacy/wmg"><img src="./flags/us.gif"></a></span><span class="UK flagSpan"><a data-toggle="tooltip" data-placement="bottom" data-original-title="United Kingdom" href="../privacy/"><img src="./flags/uk.gif "></a></span><span class="ca flagSpan"><a data-toggle="tooltip" data-placement="bottom" data-original-title="Canada" href=" http://www.warnermusic.ca/privacy-policy.html"><img src="./flags/ca.gif"></a></span><span class="be flagSpan"><a data-toggle="tooltip" data-placement="bottom" data-original-title="Belguim-Flemish" href="../privacy/be-fl/"><img src="./flags/be.gif"></a></span><span class="be flagSpan"><a data-toggle="tooltip" data-placement="bottom" data-original-title="Belguim-French" href="../privacy/be-fr/"><img src="./flags/be.gif"></a></span><span class="DE flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/DE" data-original-title="Deutschland"><img src="./flags/de.gif"></a></span><span class="br flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/br" data-original-title="Brazil"><img src="./flags/br.gif"></a></span><span class="ie flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/ie" data-original-title="Ireland"><img src="./flags/ie.gif"></a></span><span class="es flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/es" data-original-title="Spain"><img src="./flags/es.gif"></a></span><span class="fr flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/fr" data-original-title="France"><img src="./flags/fr.gif"></a></span><span class="mx flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/mx" data-original-title="Mexico"><img src="./flags/mx.gif"></a></span><span class="nl flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/nl" data-original-title="Netherlands"><img src="./flags/nl.gif"></a></span><span class="dk flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/dk" data-original-title="Denmark"><img src="./flags/dk.gif"></a></span><span class="fi flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/fi" data-original-title="Finland"><img src="./flags/fi.gif"></a></span><span class="no flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/no" data-original-title="Norway"><img src="./flags/no.gif"></a></span><span class="se flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/se" data-original-title="Sweden"><img src="./flags/se.gif"></a></span><span class="it flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/it" data-original-title="Italy"><img src="./flags/it.gif"></a></span><span class="au flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/au" data-original-title="Australia"><img src="./flags/au.gif"></a></span><span class="pl flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/pl" data-original-title="Poland"><img src="./flags/pl.gif"></a></span><span class="cz flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/cz" data-original-title="Czech Republic"><img src="./flags/cz.gif"></a></span><span class="ru flagSpan"><a data-toggle="tooltip" data-placement="bottom" style="text-decoration: none;" href="../privacy/ru" data-original-title="Russia"><img src="./flags/ru.gif"></a></span></div>
 		<div align="right" class="divstlye">
 
 			<b>LAST UPDATED: 17/5/2018</b>
@@ -340,7 +351,7 @@
 					<b>To our affiliates for the purposes described in this Privacy Policy.</b>
 					<ul type="circle">
 						<li>You can consult the list and location of our affiliates here
-							<a href="https://wminewmedia.com/affiliates/">https://wminewmedia.com/affiliates/</a>. </li>
+							<a href="https://wminewmedia.com/affiliates/" data-original-title="" title="">https://wminewmedia.com/affiliates/</a>. </li>
 						<li>Warner Music Inc. is the party responsible for the management of jointly-used Personal Information.</li>
 					</ul>
 				</li>
@@ -380,7 +391,7 @@
 							and materials. Please note that any information and materials that you post or disclose on or through a Property will
 							become public information, and may be available to visitors to such Property and to the general public, and may be
 							redistributed through the Internet and other media channels where they will reach an even broader audience. Additionally,
-							please note that, per our Terms of Use located at <a href="https://wminewmedia.com/terms-of-use/"> https://wminewmedia.com/terms-of-use/</a>, we retain certain rights in the
+							please note that, per our Terms of Use located at <a href="https://wminewmedia.com/terms-of-use/" data-original-title="" title=""> https://wminewmedia.com/terms-of-use/</a>, we retain certain rights in the
 							information and materials that you post on or through the Properties, and we may use and disclose such information
 							and materials (including any Personal Information included therein) in accordance with our Terms of Use. We urge you
 							to be very careful when deciding to disclose your Personal Information, or any Other Information, on or through the
@@ -488,7 +499,7 @@
 				<li>
 					Information collected through cookies, pixel tags and other technologies. If you are located within the EEA please read our
 					cookie policy
-					<a href="https://www.wminewmedia.com/cookies/">https://www.wminewmedia.com/cookies/</a> for further details on our use of cookies.
+					<a href="https://www.wminewmedia.com/cookies/" data-original-title="" title="">https://www.wminewmedia.com/cookies/</a> for further details on our use of cookies.
 				</li>
 				<li>
 					Geographic location information
@@ -546,14 +557,14 @@
 					If you do not want information collected through the use of cookies, there is a simple procedure on most devices through
 					which the Properties are accessed that allows you to decline the use of cookies. To learn more about cookies, please
 					visit
-					<a href="http://www.allaboutcookies.org/">http://www.allaboutcookies.org/</a>. If you choose to decline cookies, then some or all of the features, functionality
+					<a href="http://www.allaboutcookies.org/" data-original-title="" title="">http://www.allaboutcookies.org/</a>. If you choose to decline cookies, then some or all of the features, functionality
 					and promotions available through the Properties that may not be available to you.
 				</li>
 				<li>
 					If your device stores Flash LSOs, and if you do not want Flash LSOs stored on your device through which you access the Properties,
 					you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained using the
-					<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" target="_blank">Website Storage Settings Panel</a>. You can also control Flash LSOs by going to the
-					<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html" target="_blank">Global Storage Settings Panel</a> and following the instructions (which may include instructions that explain, for example,
+					<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" target="_blank" data-original-title="" title="">Website Storage Settings Panel</a>. You can also control Flash LSOs by going to the
+					<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html" target="_blank" data-original-title="" title="">Global Storage Settings Panel</a> and following the instructions (which may include instructions that explain, for example,
 					how to delete existing Flash LSOs (referred to as “information” on the Macromedia site), how to prevent Flash LSOs
 					from being placed on your device without you being asked, and (for Flash Player 8 and later) how to block Flash LSOs
 					that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash
@@ -646,22 +657,22 @@
 					<b>Receiving marketing-related emails from us and our affiliates:</b> If you do not want to receive marketing-related emails
 					from us and our affiliates on a going-forward basis, you may opt-out from receiving such emails either by using the
 					unsubscribe mechanism provided in the email or by emailing us at
-					<a href="mailto:privacypolicy@wmg.com">privacypolicy@wmg.com</a>
-					<a name="_DV_M97"></a>.
+					<a href="mailto:privacypolicy@wmg.com" data-original-title="" title="">privacypolicy@wmg.com</a>
+					<a name="_DV_M97" data-original-title="" title=""></a>.
 				</li>
 				<li>
 					<b>Receiving marketing-related SMS text messages from us and our affiliates:</b> If you do not want to receive marketing-related
 					SMS text messages from us and our affiliates on a going-forward basis, you may opt-out from receiving such messages
 					by texting back “STOP” or by emailing us at
-					<a href="mailto:privacypolicy@wmg.com">privacypolicy@wmg.com</a>
-					<a name="_DV_M99"></a>.
+					<a href="mailto:privacypolicy@wmg.com" data-original-title="" title="">privacypolicy@wmg.com</a>
+					<a name="_DV_M99" data-original-title="" title=""></a>.
 				</li>
 				<li>
 					<b>Our sharing of your Personal Information with artists or unaffiliated third parties for their marketing purposes:</b>
 					If you prefer that we not share your Personal Information on a going-forward basis with artists or unaffiliated third parties
 					for their marketing purposes, you may opt-out from such sharing by emailing us at
-					<a href="mailto:privacypolicy@wmg.com">privacypolicy@wmg.com</a>
-					<a name="_DV_M101"></a>.
+					<a href="mailto:privacypolicy@wmg.com" data-original-title="" title="">privacypolicy@wmg.com</a>
+					<a name="_DV_M101" data-original-title="" title=""></a>.
 				</li>
 			</ul>
 		</div>
@@ -677,7 +688,7 @@
 			provided to us, if you would like to object to our use of your Personal Information, or if you would like to request to
 			receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent
 			this right to data portability is provided to you by applicable law), you may contact us at:
-			<a href="mailto:privacypolicy@wmg.com">privacypolicy@wmg.com</a>. We will respond to your request consistent with applicable law.
+			<a href="mailto:privacypolicy@wmg.com" data-original-title="" title="">privacypolicy@wmg.com</a>. We will respond to your request consistent with applicable law.
 		</div>
 		<div class="divstlye">
 			In your request, please make clear what Personal Information you would like to have changed, whether you would like to have
@@ -700,7 +711,7 @@
 			<b>Cross-Border Transfer</b>
 		</div>
 		<div class="divstlye">
-			The Properties are controlled and operated from the [United Kingdom; accordingly, this Privacy Policy, and our collection,
+			The Properties are controlled and operated from the United Kingdom; accordingly, this Privacy Policy, and our collection,
 			use and disclosure of your Personal Information, is governed by the laws of England and Wales, and the Properties are
 			not intended to subject WMUK or any of its affiliates to the laws or jurisdiction of any state, country or territory other
 			than that of England and Wales. Your Personal Information may be stored and processed in any country where we have facilities
@@ -711,10 +722,10 @@
 		<div class="divstlye">
 			<b>If you are located in the EEA: </b>Some of the non-EEA countries are recognized by the European Commission as providing
 			an adequate level of data protection according to EEA standards (the full list of these countries is available
-			<a href="https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en" target="_blank">here</a>. For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place
+			<a href="https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en" target="_blank" data-original-title="" title="">here</a>. For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place
 			adequate measures, such as standard contractual clauses adopted by the European Commission regarding Personal Information.
 			You may obtain a copy of these measures by contacting privacypolicy@wmg.com or consult standard terms by following this
-			<a href="https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en" target="_blank">link</a>.
+			<a href="https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en" target="_blank" data-original-title="" title="">link</a>.
 		</div>
 		<div class="divstlye">
 			The Properties are not directed to individuals under the age of sixteen (16), and we request that such individuals do not
@@ -739,7 +750,7 @@
 			at privacypolicy@wmg.com. Alternatively, if you are located within the EU/EEA, you may also lodge a complaint with a data
 			protection authority for your country or region, or where an alleged infringement of applicable data protection law occurs.
 			A list of data protection authorities is available
-			<a href="http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080" target="_blank">here</a>.
+			<a href="http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080" target="_blank" data-original-title="" title="">here</a>.
 		</div>
 		<div class="divstlye">
 			We are located at the following address:
@@ -758,10 +769,6 @@
 			information in your email messages to us.
 		</div>
 	</div>
-	
-	
-	
-	
 	
 	
 	<!-- SiteCatalyst code version: H.24.3.
@@ -813,7 +820,6 @@
 	</noscript>
 	<!--/DO NOT REMOVE/-->
 	<!-- End SiteCatalyst code version: H.24.4. -->
-
 
 
 </body></html>
