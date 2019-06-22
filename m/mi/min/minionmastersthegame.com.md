@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minionmastersthegame.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222160521id_/http%3A//www.minionmastersthegame.com/legal/PRIVACYPOLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minionmastersthegame.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622220917id_/http%3A//minionmastersthegame.com/legal/PRIVACYPOLICY) for the most accurate reproduction.*
 
 # Legal
 
@@ -162,7 +162,7 @@ Under California law, California residents who have an established business rela
 
 BetaDwarf ApS
 
-Rentemestervej 80
+Hejrevej 37
 
 2400, Copenhagen NW, Denmark
 
@@ -172,7 +172,7 @@ CHANGES TO THIS PRIVACY POLICY
 
 BetaDwarf Entertainment has the right to amend or change this policy from time to time by posting an updated version on our Website. It is your responsibility to check the policy to ensure you accept any new terms. Once we change the Privacy Policy, it will become legally binding 30 days after we post it online. Unfortunately, if you do not agree to those changes (regardless of whether you email us), we must then ask you to cease using our Software/Websites. 
 
-This policy was last updated on 2018-05-07.
+This policy was last updated on 2019 June 21.
 
 Notwithstanding the general terms of this policy, the collection, use, storage, disclosure, and deletion of personal data may be made outside of the terms herein to the extent provided for in any applicable privacy or other legislation in effect from time to time, or pursuant to court orders.
 
