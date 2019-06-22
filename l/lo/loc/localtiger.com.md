@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localtiger.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219150025id_/http%3A//www.localtiger.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localtiger.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622032018id_/http%3A//localtiger.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy: Local Information, Tourism & City Guides - localtiger.com
 
