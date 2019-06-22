@@ -1,18 +1,19 @@
-> *The following text is extracted and transformed from the citationsy.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217052258id_/https%3A//citationsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citationsy.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622073849id_/https%3A//citationsy.com/privacy) for the most accurate reproduction.*
 
 # Privacy · Citationsy
 
 ### Citationsy Privacy Policy
 
   
-_Last updated: May 25, 2018_
+_Last updated: April 3, 2019  
+_
 
 I take my users privacy very seriously.   
 Citationsy runs on dedicated servers only I have access to. 
 
 The entire site uses [SSL encryption](https://en.wikipedia.org/wiki/HTTPS), which means no-one can see the data being transfered from you to the site and vice-versa. 
 
-I don’t share any of your data with anyone, and I don’t show ads. 
+I don’t share any of your data with anyone. 
 
 Visitors and users are tracked with an internal installation of Matomo,   
 a libre / open source analytics solution.   
@@ -57,7 +58,7 @@ Server Logs: Citationsy‘s server backend keeps logs, as do most servers.
 For certain errors the IP address is still logged, for example when someone tries to break into our server or when certain things fail and we need to fix them.  
 
 
-Consent Withdrawl: To withdraw your consent on any of the date being collected by Citationsy on you, simply [click here](mailto:gdpr@citationsy.com?subject=Consent%20Withdrawl) to open an email to our GDPR inbox. Just click send, and we will get in touch with you. 
+Consent Withdrawl: To withdraw your consent on any of the data being collected by Citationsy on you, simply [click here](mailto:gdpr@citationsy.com?subject=Consent%20Withdrawl) to open an email to our GDPR inbox. Just click send, and we will get in touch with you. 
 
 Data Portability: You can always download all your projects right from inside Citationsy in various formats. If you need any help with this, or would like any other data, simply [click here](mailto:gdpr@citationsy.com?subject=Data%20Portability) to open an email to our GDPR inbox. Just click send, and we will get in touch with you. 
 
