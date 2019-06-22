@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americanmeetings.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008112024id_/http%3A//americanmeetings.com/american-meetings-inc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmeetings.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622025332id_/https%3A//americanmeetings.com/privacy-policy) for the most accurate reproduction.*
 
-# American Meetings, Inc. – Corporate Meetings, Conference Management & Meeting Planning Companies
+# American Meetings, Inc. – AMI – Corporate Meetings, Conference Management & Meeting Planning Companies
 
 This notice applies to all information collected or submitted on the American Meetings, Inc. website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
@@ -34,10 +34,10 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
 
-You can access all your personally identifiable information that we collect online and maintain by contacting us at [bd@americanmeetings.com](mailto:bd@americanmeetings.com). We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain by contacting us at [bd@americanmeetings.com](mailto:bd@americanmeetings.com "American Meetings, Inc. Email"). We use this procedure to better safeguard your information.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-Should you have other questions or concerns about these privacy policies, send us an email at [bd@americanmeetings.com](mailto:bd@americanmeetings.com) or Click here to join our mailing list.
+Should you have other questions or concerns about these privacy policies, send us an email at [bd@americanmeetings.com](mailto:bd@americanmeetings.com "American Meetings, Inc. Email") or Click here to join our mailing list.
