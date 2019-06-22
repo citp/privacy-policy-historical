@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everfest.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717145757id_/https%3A//www.everfest.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everfest.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622051628id_/https%3A//www.everfest.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Everfest
 
@@ -22,7 +22,7 @@ Everfest is the data controller for data collected on Everfest.com and stored in
 
 Information you give us
 
-For example, many of our services require you to sign up for a Everfest Account. When you do, we’ll ask for personal information, like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible Everfest Profile, which may include your name and photo.
+For example, many of our services require you to sign up for a Everfest Account. When you do, we’ll ask for personal information, like your name, email address, mailing address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible Everfest Profile, which may include your name and photo.
 
 Information we get from your use of our services
 
@@ -65,7 +65,7 @@ We use the information we collect from all of our services to provide, maintain,
 
 We may use the name you provide for your Everfest Profile across all of the services we offer that require a Everfest Account. In addition, we may replace past names associated with your Everfest Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Everfest Profile information, such as your name and photo.
 
-When you contact Everfest, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
+When you contact Everfest, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. When you purchase tickets or redeem rewards on Everfest, we may collect your phone number and/or mailing address so that we may properly fulfill and/or deliver your order.
 
 We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, sexual orientation or health.
 
@@ -155,6 +155,16 @@ Google Analytics - Internal analytics around site usage. [Privacy Policy](https:
 Amplitude - Internal analytics around site usage. [Privacy Policy](https://amplitude.com/privacy)
 
 Zendesk - For customer support resolution. [Privacy Policy](https://www.zendesk.com/company/customers-partners/privacy-policy/)
+
+Front Gate Tickets - For fulfillment and/or delivery of tickets. [Privacy Policy](https://www.frontgatetickets.com/privacy-policy/)
+
+Eventbrite - For fulfillment and/or delivery of tickets. [Privacy Policy](https://www.eventbrite.com/privacypolicy/)
+
+See Tickets - For fulfillment and/or delivery of tickets. [Privacy Policy](https://www.seetickets.com/content/privacy-policy-usa)
+
+Ticketmaster - For fulfillment and/or delivery of tickets. [Privacy Policy](https://www.ticketmaster.com/h/privacy.html)
+
+Elevate Tickets - For fulfillment and/or delivery of tickets. [Privacy Policy](http://www.elevatetickets.com/privacy.html)
 
 For legal reasons
 
