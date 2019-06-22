@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallascityhall.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214103404id_/http%3A//dallascityhall.com/departments/publicinformationoffice/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallascityhall.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622131033id_/https%3A//dallascityhall.com/departments/public-affairs-outreach/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # City Of Dallas Privacy Policy
 
@@ -7,9 +7,7 @@
 
 ## 
 
-## ​​​​City Of Dallas Privacy Policy
-
-This policy describes the DALLAScityhall.com privacy practices regarding information collected from visitors to the site. It contains information about what data is collected and how that information is used. The DALLAScityhall.com privacy policy applies only to this Web site. When you follow a link to another site, even the sites of state agencies and local governments, this policy will not apply. You should check the privacy policy of each of these sites if you have concerns about how they handle personally identifiable information. This policy may be updated periodically, so please check back from time to time.
+This policy describes the DALLAScityhall.com privacy practices regarding information collected from visitors to the site. It contains information about what data is collected and how that information is used. The DALLAScityhall.com privacy policy applies only to this Web site. When you follow a link to another site, even the sites of state agencies and local governments, this policy will not apply. You should check the privacy policy of each of these sites if you have concerns about how they handle personally ​identifiable information. This policy may be updated periodically, so please check back from time to time.
 
 ### Collection and Use of Information
 
@@ -19,13 +17,13 @@ The DALLAScityhall.com Web site utilizes server logs and log analysis tools to c
 
 For online government transactions conducted on the DALLAScityhall.com Web site, you will be asked to enter certain information about yourself and/or the organization with which you are affiliated. The specifics of this information will vary as required by the type of transaction and the governmental body involved. In each case, the information requested will include the same information that would be requested if you performed the identical transaction in person rather than online. Whenever personal information is requested from you on this site, there will be an indication of whether your disclosure of such information is mandatory or optional. Information collected in the course of the transaction is used for the following purposes:​
 
->   * To conduct online transactions with the appropriate government entities (e.g., the payment of sales tax or the renewal of a license or permit).  
-> 
->   * To send you an e-mail confirming your transaction.  
-> 
->   * To forward new product announcements or content features to you, only if you have chosen to request this service.​  
-> 
-> 
+  * To conduct online transactions with the appropriate government entities (e.g., the payment of sales tax or the renewal of a license or permit).  
+
+  * To send you an e-mail confirming your transaction.  
+
+  * To forward new product announcements or content features to you, only if you have chosen to request this service.​  
+
+
 
 
 DALLAScityhall.com may be required by law enforcement or judicial authorities to provide personally identifiable information to the appropriate governmental authorities. DALLAScityhall.com fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
@@ -36,8 +34,8 @@ This site uses a secure server for conducting online transactions. All credit ca
 
 ### Cookies
 
-Some of the online government transactions hosted by and linked from this site use cookies. A cookie is an extremely small text file that is stored on your computer and created to track specific information. The services hosted on this website (DALLAScityhall.com) use cookies to set a session ID - this can be thought of as a kind of name tag, so the service can keep track of your transaction. The cookie will be destroyed after a few minutes of inactivity, successfully completing a transaction or when the browser is closed. If your Web browser does not accept cookies, you will not be able to use the online transactions on this site. For more information on cookies, you may wish to review the U.S. Department of Energy's report on cookies located at the [Computer Incident Advisory Capability Information Bulletin](http://ciac.llnl.gov/ciac/bulletins/i-034.shtml) web site.
+Some of the online government transactions hosted by and linked from this site use cookies. A cookie is an extremely small text file that is stored on your computer and created to track specific information. The services hosted on this website (DALLAScityhall.com) use cookies to set a session ID - this can be thought of as a kind of name tag, so the service can keep track of your transaction. The cookie will be destroyed after a few minutes of inactivity, successfully completing a transaction or when the browser is closed. If your Web browser does not accept cookies, you will not be able to use the online transactions on this site. For more information on cookies, you may wish to review the U.S. Department of Energy's report on cookies located at the Computer Incident Advisory Capability Information Bulletin web site.
 
 ### Contact Information
 
-If at any time you are concerned that your information is incorrect and you are unsure how to correct or update it, please contact us at[webgroup@dallascityhall.com](mailto:webgroup@dallascityhall.com) or contact the appropriate government partner directly.​​
+If at any time you are concerned that your information is incorrect and you are unsure how to correct or update it, please contact us at [webgroup@dallascityhall.com](mailto:webgroup@dallascityhall.com) or contact the appropriate government partner directly.​​
