@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoppingwish.in privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911010906id_/http%3A//shoppingwish.in/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingwish.in privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622232354id_/http%3A//scandid.in/help/privacy) for the most accurate reproduction.*
 
-# Scandid - a fast and free barcode scanner based price comparison app for India
+# Scandid - Compare Prices, Discover Deals & Save Money Online
 
 ### Privacy Statement
 
@@ -14,17 +14,40 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of notice on our home page.
 
-### 2\. Types of Information Collected and Uses of Collected Information
+### 2\. Your Account and Registration:
+
+2.1 You will be required to register on the Application and create an account prior to the completion of any transaction on the Application.  
+2.2 To register onto the Application you will have to provide your Personal Information (being such information that identifies, relates to or describes you, or which is capable of being associated with you) including your mobile number and email address.   
+2.3 Registration is only a one time process and if you have previously registered, you shall login /sign in to your registered account using your phone number.  
+2.4 Registration on the Application is free for all users.
+
+### 3\. Device & account information
+
+We collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number and account information on phone). How we use this information: We primarily use this information to detect fraud & unauthorized usage of Scandid services. Your device level information is also used in tracking your activity within Scandid app.
+
+We primarily use this information to detect fraud & unauthorized usage of Scandid services. Your device level information is also used in tracking your activity within Scandid app.
+
+### 4\. Log information 
+
+When you use our services or view content provided by DataBack, we automatically collect and store certain information in server logs like:
+
+a. Details of how you used our service.  
+b. Reading SMS Messages for the purpose of OTP verification & to provide relevant offers based upon your interest.  
+c. Internet protocol address.  
+d. Device event information such as crashes, system activity, hardware settings, the date and time of your request and referral URL.  
+e. Cookies that may uniquely identify your browser or your Scandid Account. 
+
+### 5\. Types of Information Collected and Uses of Collected Information
 
 We collect two types of information about our Website Users: Personally Identifiable Information and Non-Personally Identifiable Information.
 
 **Personally Identifiable Information.** Personally Identifiable Information is information that identifies a specific End User. When you engage in certain activities on the Website, such as creating an account, ordering a product or service, submitting content and/or posting content in discussion forums, entering a contest or sweepstakes sponsored by us or our partners, filling out a survey, posting a review, sending us or our partners feedback, requesting information about our services, submitting an affiliate agreement, applying for a job, posting a video or signing up for special offers from third parties through the Website (collectively, "Identification Activities"), we may ask you to provide certain information about yourself. It is optional for you to engage in an Identification Activity. If you elect to engage in an Identification Activity, however, we may ask you to provide us with certain personal information about yourself, such as your first and last name, mailing address (including zip code), email address, telephone number and date of birth. When you order products or services, we may also ask you to provide us with your credit card number, expiration date and authentication codes or related information. Depending on the activity, some of the information we ask you to provide is identified as mandatory and some is identified as voluntary. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity.
 
-**Invite a Friend.** If you choose to use our referral service, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email with the gift you bought for them or inviting him or her to visit the site. scandin.in stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [info@shoppingwish.in](mailto:info@shoppingwish.in) to request that we remove this information from our database. We use Personally Identifiable Information to provide products and services to you, administer sweepstakes and contests, enhance the operation of the Website, improve our marketing and promotional efforts, analyze Website use, improve our product and service offerings, and to tailor your experience. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Website. Your comments may contain personal information such as your first name, we will obtain consent from you to post your name along with your comment prior to posting your comment for public view. We will never post your full name or email address without permission. In addition, if you use our Website to send information or a product to another person, we may store your personal information. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.
+**Invite a Friend.** If you choose to use our referral service, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email with the gift you bought for them or inviting him or her to visit the site. scandid.in stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [info@shoppingwish.in](mailto:info@shoppingwish.in) to request that we remove this information from our database. We use Personally Identifiable Information to provide products and services to you, administer sweepstakes and contests, enhance the operation of the Website, improve our marketing and promotional efforts, analyze Website use, improve our product and service offerings, and to tailor your experience. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Website. Your comments may contain personal information such as your first name, we will obtain consent from you to post your name along with your comment prior to posting your comment for public view. We will never post your full name or email address without permission. In addition, if you use our Website to send information or a product to another person, we may store your personal information. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.
 
 **Non-Personally Identifiable Information** Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator ("URL") of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol ("IP") address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy. We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming.
 
-### 3\. Release of Personally Identifiable Information
+### 6\. Release of Personally Identifiable Information
 
 When you register with us through the Site or Application to become a Member of Scandid, we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you ("Personal Information"). Personal Information includes, but is not limited to, your name, free-form biography, website and email address. You can register to join Scandid via the Site or Application or by logging into your account with certain third party social networking sites ("SNS") (including, but not limited to, Facebook and Twitter) via our Site. If you decide to create your Account by logging into a SNS via the Site, we will extract the Personal Information you have provided to the SNS (such as your "real" name, email address and other information you make publicly available via the SNS) from the account you have with such SNS and use that information to create your Account; the information we extract may depend on the privacy settings you have with the SNS. For example, our Service allows users to create an account and login to the Service using their Facebook account credentials through Facebook Connect. If you are not currently registered as a Member and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Scandid. By using Facebook Connect, you are allowing Scandid to access your Facebook account information and you are agreeing to the Facebook Terms of Use regarding your use of the Service via Facebook.
 
@@ -40,7 +63,7 @@ We may share your information in a Business Transfer. As with any other business
 
 We may share your information for our Protection and the Protection of Others. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or protect the rights, property or safety of the Website, its Users or others.
 
-### 4\. Release of Non-Personally Identifiable Information
+### 7\. Release of Non-Personally Identifiable Information
 
 We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with "Third Party Advertisers" or "Third Party Advertising Companies" and other parties as provided below:
 
@@ -48,7 +71,7 @@ We use Third Party Advertising Companies to serve ads when you visit our Website
 
 We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.
 
-### 5\. Updating and Correcting Information
+### 8\. Updating and Correcting Information
 
 We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the "my account" section of the site, sending us an email at [info@shoppingwish.in](mailto:info@shoppingwish.in) or writing to us at Wishpoint Tech Private Limited, 81, Shivaji HSG Society, Senapati Bapat Road, Shivaji Nagar, Pune, 411016. Please indicate your name, address and email address, and what information you would like to update when you contact us.
 
@@ -56,27 +79,27 @@ We encourage you to promptly update your Personally Identifiable Information if 
 
 If you choose to store credit card information on the site, this is stored on a secure page and you may delete your credit card information at any time by going to the "my account" section of your profile.
 
-### 6\. User Choices on Collection and Use of Information
+### 9\. User Choices on Collection and Use of Information
 
 As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website. As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Website, and include emails regarding a particular User's account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at [info@shoppingwish.in](mailto:info@shoppingwish.in), by writing to us at the address contained herein, or by hitting the "update preferences" button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
 
-### 7\. Security of Information
+### 9\. Security of Information
 
 We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Website through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information (such as credit card information) using Secure Socket Layer (SSL) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us.
 
 Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies which do the same, we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information.
 
-### 8\. Data Tracking
+### 10\. Data Tracking
 
 **Cookies** To facilitate and customize your experience with the Website, we store cookies on your computer. A cookie is a small text file that is stored on a User's computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Website only and does not cover the use of cookies by any Advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.
 
 **Other Tracking Devices** We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes.
 
-### 9\. Privacy Policies of Third Party Websites
+### 11\. Privacy Policies of Third Party Websites
 
 This Privacy Policy only addresses the use and disclosure of information we collect from you on [Scandid](). Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website's privacy policy. We are not responsible for the policies or practices of third parties.
 
-### 10\. Miscellaneous Privacy Issues
+### 12\. Miscellaneous Privacy Issues
 
 **Children** Minors under the age of 18 may not use the Website. We do not knowingly collect personal information from anyone under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. Scandid does not sell products for purchase by children. In certain instances, we sell children's products for purchase by adults.
 
@@ -86,13 +109,23 @@ This Privacy Policy only addresses the use and disclosure of information we coll
 
 Conversely, if you are not currently registered as a Scandid user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Scandid. Once you register on the Scandid site and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into "My Profile" and clicking on "My Facebook Profile." Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page.
 
-### 11\. Contacting Us
+### 13\. Information you provide
+
+In order to register as a user with Scandid, you will be asked to sign in using your Facebook login. If you do so, you authorize us to access certain Facebook account information, such as your public Facebook profile (consistent with your privacy settings in Facebook),your id, about, address, age_range, bio, birthday, currency, devices, education, email, favorite_athletes, favorite_teams, first_name, gender, hometown, inspirational_people, install_type, installed, interested_in, is_verified, languages, last_name, link, location, locale, meeting_for, middle_name, name, name_format, political, relationship_status, significant_other, sports, timezone, updated_time, verified, work.   
+You will also be asked to allow Scandid to collect your location information from your device when you download or use the Service. In addition, we may collect and store any personal information you provide while using our Service or in some other manner. This may include identifying information, such as your name, address, email address and telephone number, and, if you transact business with us, financial information. You may also provide us photos, a personal description and information about your gender and preferences for recommendations, such as search distance, age range and gender.
+
+### 14\. Information collected Automatically. 
+
+We automatically collect information from your browser or device when you visit our Service. This information could include your IP address, device ID and type, your browser type and language, the operating system used by your device, access times, your mobile device’s geographic location while our application is actively running, and the referring website address.
+
+### 15\. Contacting Us
 
 Whether you're a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we'd like to stay connected and want to hear from you!
 
 **Corporate Address**   
 Wishpoint Tech Private Limited,   
-81, Shivaji HSG Society,   
-Senapati Bapat Road, Shivaji Nagar,   
-Pune, 411016  **Customer Service Inquiries**   
-[customercare@shoppingwish.in](mailto:customercare@shoppingwish.in)
+407, 4th floor,Star Millennium,Dhole Patil Road,   
+Bund Garden Road, Pune,   
+Landmark: Besides Rubi Clinic Hospital   
+Maharashtra. Pin: 411001  **Customer Service Inquiries**   
+[customercare@scandid.in](mailto:customercare@scandid.in)
