@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627035139id_/https%3A//www.gcu.edu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622203159id_/https%3A//www.gcu.edu/privacy-policy.php) for the most accurate reproduction.*
 
 # Christian University | Privacy Policy | Grand Canyon University
 
-_Effective Date: June 19, 2008_
+_Effective Date: June 20, 2018_
 
-Grand Canyon University (GCU), a top online Christian university, is committed to protecting your privacy while you visit our websites. This policy is designed to explain why we collect information from our visitors and how that information is used and disclosed.
+Grand Canyon University (GCU) is a nonprofit university located in Phoenix, AZ. The university, a top Christian institution serving both traditional and online students, is committed to protecting our constituents' privacy. This statement is designed to expound upon the necessary collection of data/information that GCU acquires from site visitors and to define how that information is used.
 
-##  Changes in Privacy Policy 
+##  The Privacy Statement 
+
+This Privacy Statement only applies to information collected on the following sites: **gcu.edu** , **grand-canyon.edu** , **my.gcu.edu** and **gcu.edu** subdomains. GCU’s Privacy Statement is available on our website and can be found in our University Policy Handbook. A hard copy of this policy may be requested via telephone or mail.
+
+##  Changes in Privacy Statement 
 
 This privacy policy is current as of the effective date set forth above. GCU reserves the right to change this privacy policy from time to time, consistent with applicable privacy laws and principles.
 
@@ -14,66 +18,72 @@ This privacy policy is current as of the effective date set forth above. GCU res
 
 For additional information about this policy or GCU's privacy practices, contact us:
 
-**Grand Canyon University, Department M100**  
+**Grand Canyon University, Legal Department, MCAMP-26**  
 3300 W. Camelback Road  
-Phoenix, Arizona 85017  
+Phoenix, AZ 85017  
 Email: webmaster@gcu.edu
 
-##  Type of Information Collected and How it is Used 
+Grand Canyon University websites may collect personally identifiable information (PII) such as: your name, home address, telephone number(s) and other PII data. This information is collected via a “Request More Information” form.
 
-GCU collects both personally identifiable information (PII) and non-personally identifiable information (non-PII) from its visitors. The information collected is used to help us identify our target market and improve the educational services we offer. The collected information is primarily used for marketing purposes and visitors may expect to receive future communication from GCU.
+GCU may assign you a username and password to permit access to certain sites. PII data will be collected in order to create these unique identifiers. Additionally, credit card or other financial PII may be requested for activities such as: purchases, orders, donations and registrations.
 
-Non-PII is collected automatically through cookies and other web technology. We also collect certain non-PII when you visit our website, such as the browser you are using (e.g., Firefox, Chrome, Internet Explorer), your operating system (e.g., Windows XP, Mac OS), the domain name from which you receive Internet access, your IP address and aggregate information regarding GCU web pages you access or visit.
+PII data may also be collected for those filling out online applications relating to employment. Employment forms may request PII such as: your name, address, telephone number(s), email address, employment history, language fluency, educational history, work experience and other work/skill related PII data.
 
-PII is collected when a visitor fills out a Request More Information Form, application or otherwise provides information to our website. We provide examples of PII that may be collected below.
+### Alternative to Website Transaction
 
-To receive additional information about GCU, you can fill out our Request More Information Form by submitting PII, including name, address, phone number and email address. This information is collected so that a university representative can contact you. A phone number is also supplied for those who wish to contact GCU by phone.
-
-Our student and faculty sites may also require you to provide specific user identification information, such as username, address, email address and student ID number. This information is collected so our university staff can contact you if necessary. Specific user identification data is also necessary to verify your identity prior to allowing access to some of these sites.
-
-Our Office of Alumni Relations subdomain and other web pages allow visitors to order products or make donations. In these cases, we require contact information and credit card numbers. This information is used for the specific transaction, to purchase and send products ordered and any receipts. GCU also provides the option of ordering by phone.
-
-It is also possible to apply for employment opportunities through our website. Our online application requests standard employment information, such as an your name, address, phone number, email address, employment history, languages you may be fluent in, education, teaching experience, publications, honors or awards you may have received, work-related skills (e.g. technology experience), professionally related community activities and any licensures, certifications, professional memberships or endorsements you may have.
+GCU websites provide access to information and services for constituents that may not have a formal relationship with the university as a student or employee. If you are neither a student nor employee and prefer not to provide any information online, we invite you to cancel the transaction and contact the administrative unit responsible for the service to conduct the business in person, by mail or by telephone.
 
 ##  Security 
 
-Our websites have reasonable security measures in place designed to protect against the loss, misuse, unauthorized access, disclosure, alteration and destruction of information under our control.
+Grand Canyon University is committed to providing secure online environments for our constituents and online visitors. Our websites have standard and advanced security measures in place to protect against the loss of, misuse, unauthorized access, disclosure, alterations and destruction of information we process and control. To further protect your data we regularly educate our employees on standard data protection procedures and new Cyber Security Threats/Technologies.
 
-We take reasonable steps to ensure the data is reliable, accurate, complete and current for its intended use. Personal information collected from visitors is protected in transmission to our websites with Secure Sockets Layer (SSL) protocol encryption. GCU, a top online Christian school, abides by all laws concerning the release of personal information and does not sell or rent any personal information to third parties, except as described below.
+##  Data Access Request 
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that the PII we collect will never be disclosed in a manner that is inconsistent with this privacy policy.
+Per **GDPR regulations** , you have the right to ask us for access to, rectification or erasure of your information; to restrict processing (pending correction or deletion); to object to communications or direct marketing; and to ask for the transfer of your information electronically to a third party (data portability). Some of these rights are not automatic, and we reserve the right to discuss with you why we might not comply with a request from you to exercise them.
 
-##  Disclosure or Transfer of Personal Information 
+You retain the right at all times to lodge a complaint about our management of your personal information with the Information Commissioner’s Office at Wycliffe House, Water Lane, Wilmslow, SK9 5AF (https://ico.org.uk/)
 
-We may disclose personal information to third parties who perform tasks on GCU's behalf and to other third parties engaged by GCU in the ordinary course of business, provided that the third party agrees to provide adequate protections for your personal information that are no less protective than those set out in this privacy policy and to use the personal information only for the purposes for which the third party has been engaged by GCU.
+**If you are an EU citizen residing in an EU member state that is subject to GDPR regulation and you wish to request a copy of the data GCU has collected from you, please contact your assigned GCU university counselor via phone and/or email.**
 
-We may also disclose PII in response to valid legal processes, such as a court order or a subpoena, in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company, or if our assets are acquired by another entity.
+##  Disclosure and Portability of PII Data 
 
-We work with Google to display retargeted ads to our site prospects, on our behalf, across the Internet. They collect non-PII about your visits to our website and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No PII is collected during this process. If you do not want Google to collect this information, you may opt out of their service. Opting out will not affect your use of our site.
+Grand Canyon University may disclose PII data to third parties who are approved vendors dedicated to performing tasks on behalf of GCU. We may also disclose PII in response to legal processes, such as court order or a subpoena, in the response to a law enforcement agency’s request or where we believe it is necessary to investigate, prevent and/or take action regarding suspected illegal activities.
 
-To opt out of Google retargeting, visit:  
-google.com/settings/u/0/ads/authenticated?hl=en
+GCU uses Google Analytics to display retargeted ads to our site prospects, on GCU’s behalf, across the internet. Google may collect non-PII data about your visits to our sites and your interaction with our products or services. This anonymous information is collected through the use of a pixel tag. No PII is collected during this process. If you do not want Google to collect this information, you may opt out of their service by visiting: <https://tools.google.com/dlpage/gaoptout>
 
-Visit the following website to opt out of national campaigns:  
-networkadvertising.org/choices
+Grand Canyon University Online Advertising Features include: Acquia Lift, Salesforce Marketing Cloud, Hotjar, Snapchat, Quantcast, Quinnstreet, Bing and Yahoo. GCU also uses some or all of the following: Facebook and Twitter cookie tracking, web beacons and similar technologies. These features allow GCU to track impressions on our sites for marketing purposes. If you wish to opt out of these online advertising features please follow the instructions on the corresponding pages linked to below:
+
+[BING](https://about.ads.microsoft.com/en-us/resources/policies/opt-out-of-the-microsoft-advertising-optimization-program)
+
+[YAHOO ](https://aim.yahoo.com/aim/sg/en/optout/)
+
+[FACEBOOK ](https://www.facebook.com/help/568137493302217)
+
+[TWITTER ](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads)
+
+##  Third Party Links 
+
+While browsing Grand Canyon University sites you may encounter links to webpages not directly affiliated with GCU. External link content is under the control of the site that manages/owns/operates it. GCU recommends you review the privacy policy of those external organizations before proceeding with interacting with site content.
+
+_NOTE: We would like to remind you that the voluntary disclosure of PII data on social networks and other similar sites can be collected and used by others. When you leave a GCU controlled site we cannot guarantee the safety of the PII data you disclose to that entity._
 
 ##  Opt Out 
 
-You may make a request to be removed from our mailing lists by sending your name, address and email to:
+You may make a request to be removed from our mailing lists by sending your name, email address and home address to:
 
-**Grand Canyon University Opt-Out**  
+ **Grand Canyon University Opt-Out  
 3300 W. Camelback Road  
-Phoenix, AZ 85017
+Phoenix, AZ 85017 **
 
-If you do not wish to receive marketing emails from us, submit a request to [gcu.edu/unsub](http://pages.email.gcu.edu/Unsubscribe/ "Unsubscribe")
+If you do not wish to receive marketing emails from GCU, please submit a request at: [pages.email.gcu.edu/Unsubscribe/](https://pages.email.gcu.edu/Unsubscribe/)
 
-##  Limitations 
+##  Cookies 
 
-GCU, a top online Christian school, may provide links to other websites; and there are websites that may link directly to GCU. GCU does not endorse these third party websites or the content and has no control over their privacy practices.
+While browsing Grand Canyon University cookies may be collected. Cookies are small text files stored by your browser on your device(s) to save certain information or image files. You can change the preferences in your browser(s) and refuse to accept cookies, disable cookies or even remove stored cookies from your computer. Please note that by taking this action, you may affect your browsing experience on sites which rely on cookies to function.
 
-This privacy policy only applies to information collected on gcu.edu, grand-canyon.edu, my.gcu.edu and gcu.edu subdomains.
+##  Consent 
 
-We strongly encourage you to review the privacy policy of each website you visit.
+Voluntarily browsing a Grand Canyon University site indicates your acceptance of the terms and conditions in use. Additionally, you are agreeing to the terms of this Privacy Statement, all non- conflicting principles of the Student Handbook, Employee Handbook, Faculty Handbook, Computer Use Policies and the gcu.edu terms and conditions. If you are in disagreement with consenting, then please discontinue use of GCU sites.
 
 ##  Online Advertising 
 
@@ -91,19 +101,19 @@ GCU uses Online Advertising Features including Google, Bing, and Yahoo advertisi
 
 ##  Mobile Terms and Conditions 
 
-_Effective Date: July 31, 2017_
+_Effective Date: June 20,   2018_
 
-###### GCU Alerts
+### GCU Alerts
 
-Receive special text offers and event information from Grand Canyon University through your mobile device. Text  **JOIN**  to  **45598**  to receive up to 4 text messages per month with personalized offers and invites. T-Mobile is not liable for delayed or undelivered messages.  **Message and data rates may apply**.
+Receive special text offers and event information from Grand Canyon University through your mobile device. Text  **JOIN**  to  **45598**  to receive up to four text messages per month with personalized offers and invites. T-Mobile is not liable for delayed or undelivered messages.  **Message and data rates may apply**.
 
 By opting in to this service, you consent to receive mobile text alerts using an automatic telephone dialing system. Consent to receive marketing text messages is not required as a condition of purchasing any goods or services. By signing up, you are confirming you are over the age of 13.
 
-###### STOP Information
+#### STOP Information
 
 Text  **STOP**  to  **45598  **to stop receiving GCU Alert messages from Grand Canyon University (you will receive a confirmation text).
 
-###### HELP Information
+#### HELP Information
 
 For additional information, text  **HELP**  to  **45598  **or contact 855-GCU-LOPE.
 
@@ -111,10 +121,8 @@ AT&T, Sprint, T-Mobile®, Verizon Wireless, Boost, Cricket, MetroPCS, U.S. Cellu
 
 ##  Use of the GCU Wi-Fi Network for On-Campus Students 
 
-GCU's Internet network is guarded by a firewall that protects on-campus students from entering sites that may be unsafe or not in keeping with our Christian values. Sites are selected by category to filter usage. Seven categories are set to make the site unavailable, but pressing the "continue" button allows you through to the site. These site topics include, but are not limited to, drugs, illegal activities, gambling and other questionable sites.
+GCU's Internet network is guarded by a firewall that protects on-campus students from entering sites that may be unsafe or not in keeping with our Christian values. Sites are selected by category to filter usage. Seven categories are set to make the site unavailable, but pressing the "Continue" button allows you through to the site. These site topics include, but are not limited to, drugs, illegal activities, gambling and other questionable sites.
 
-There are eight categories that are identified to make sites wholly unavailable, including, but not limited to pornography, cheating websites, malware, key loggers and sites that promote terrorist activities. The Learning Management System and eBooks websites are specifically white-listed to ensure students are always able to access them.
+There are eight categories that are identified to make sites wholly unavailable, including, but not limited to pornography, cheating websites, malware, key loggers and sites that promote terrorist activities. The Learning Management System and eBooks websites are specifically white-listed to ensure students are always able to access them. If you feel a blocked website should be made available, contact the Office of Residence Life, and your request will be reviewed.
 
-If you feel a blocked website should be made available, contact the Office of Residence Life, and your request will be reviewed.
-
-The LOPES network, GCU's student intranet, does not authenticate students prior to allowing site access, and their web filter's reporting capabilities are limited to big-picture summaries that describe general usage. Reporting on individual students will not be possible. GCU does not proactively monitor usage or sites visited.
+_NOTE: The LOPES network, GCU's student intranet, does not authenticate students prior to allowing site access, and their web filter's reporting capabilities are limited to big-picture summaries that describe general usage. Reporting on individual students will not be possible. GCU does not proactively monitor usage or sites visited._
