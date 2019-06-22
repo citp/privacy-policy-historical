@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122093701id_/https%3A//www.consumerreports.org/cro/customerservice/privacy-policy/highlights/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622184751id_/https%3A//www.consumerreports.org/privacy-policy/highlights/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy Highlights
 
