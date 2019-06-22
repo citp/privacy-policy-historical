@@ -1,56 +1,64 @@
-> *The following text is extracted and transformed from the sguru.org privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414004520id_/http%3A//sguru.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sguru.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622154234id_/https%3A//sguru.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Supportive Guru
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us using or [contact form](https://web.archive.org/contact) or through [email](mailto:team@supportive.guru).
+At **[https://sguru.org](https://sguru.org/)** , one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by https://sguru.org and how we use it.
 
-At http://sguru.org we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://sguru.org and how we use it.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us using our [contact form](https://sguru.org/contact) or through email at [admin[at]sguru.org](mailto:admin@sguru.org).
 
-**Log Files**  
-Like many other Web sites, http://sguru.org makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+### **Log Files**
 
-**Cookies and Web Beacons**  
-http://sguru.org uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
+**https://sguru.org** follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.
 
-**DoubleClick DART Cookie**
+### Cookies and Web Beacons
 
-→ Google, as a third party vendor, uses cookies to serve ads on http://sguru.org.  
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://sguru.org and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+Like any other website, **https://sguru.org** uses ‘cookies’. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users’ experience by customizing our web page content based on visitors’ browser type and/or other information.
 
-**Our Advertising Partners**  
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
+### DoubleClick DART Cookie
+
+Google is one of the third-party vendors on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to **https://sguru.org**  and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html).
+
+### Our Advertising Partners
+
+Some of advertisers on our site may use cookies and web beacons. Our advertising partners include:
 
   * Google
-  * DoubleClick
-  * Other
+  * Amazon.com
+  * Yahoo!
+  * Adbrite
+  * Clickbank
+  * Share a Sale, etc.
 
 
 
-_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
-You may consult this listing to find the privacy policy for each of the advertising partners of http://sguru.org._
+Each of our advertising partners has their own Privacy Policy for their website. You may consult this list to find the Privacy Policy for each of the advertising partners of **https://sguru.org**.
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://sguru.org and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+### **Privacy Policies**
 
-http://sguru.org has no access to or control over these cookies that are used by third-party advertisers.
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on **https://sguru.org** , which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
-**Third Party Privacy Policies**  
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://sguru.org’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+Note that **https://sguru.org** has no access to or control over these cookies that are used by third-party advertisers.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+### **Third Party Privacy Policies**
 
-**Children’s Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
-http://sguru.org does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://sguru.org has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+https://sguru.org’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
 
-**Online Privacy Policy Only**  
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
-This policy does not apply to any information collected offline or via channels other than this website.
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites. What Are Cookies?
 
-**Consent**  
-By using our website, you hereby consent to our privacy policy and agree to its terms.
+### **Children’s Information**
 
-**Update**  
-This Privacy Policy was last updated on: Sunday, February 7th, 2016.  
-[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
-_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+**https://sguru.org** does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to [contact us](https://sguru.org/contact) immediately and we will do our best efforts to promptly remove such information from our records.
+
+### **Online Privacy Policy Only**
+
+This privacy policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in https://sguru.org. This policy is not applicable to any information collected offline or via channels other than this website.
+
+#### **Consent**
+
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+
+#### **Update**
+
+This Privacy Policy was last updated on: **Wednesday, May 24th, 2017**. Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
