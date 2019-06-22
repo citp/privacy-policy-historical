@@ -1,16 +1,32 @@
-> *The following text is extracted and transformed from the paperchase.co.uk privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512211605id_/https%3A//www.paperchase.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperchase.co.uk privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622155228id_/https%3A//www.paperchase.com/en_gb/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies at Paperchase
+# Privacy Policy
 
-At Paperchase we use cookies to look at how groups, rather than individuals, use our website. In our physical stores, we can observe which aisles and departments are most heavily trafficked and determine what displays or products are the most successful. We can then identify ways to improve the customer experience. On the web, cookies help us develop a similar understanding so that we can continue to improve the arrangement, product offerings, and merchandise placement you see at Paperchase.co.uk.
+## OUR PRIVACY PROMISE
 
-We also use cookies to keep track of products that you as an individual user have recently viewed and if you’ve arrived on our site from an affiliate website, which affiliate you arrived from.
+  * You choose - you decide how you want to hear from us and you can change your mind at any time
+  * We’ll protect – we’ll keep your data safe, won’t sell it to any third parties and won’t keep anything longer than necessary
 
-Please note that Paperchase are not responsible for the content of external websites.
 
-This privacy policy sets out how Paperchase uses and protects any information that you give Paperchase when you use this website. Paperchase is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Paperchase may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-* * *
+## OUR PRIVACY POLICY
+
+This privacy policy sets out how Paperchase uses and protects any information that you give Paperchase when you use this website, shop in our stores or are a member of the Treat Me loyalty scheme. 
+
+At Paperchase, we are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Paperchase may change this policy from time to time by updating this page. We’ll notify you of any significant changes but you should check this page from time to time to ensure that you are happy with any changes.
+
+When Paperchase collect and process your personal data we are doing so on our own behalf, and not on behalf of any third parties. This means that Paperchase Products Limited is termed a data controller under the terms of data protection legislation. 
+
+## THE LEGAL BASES
+
+The law on data protection sets out a number of reasons for which a company may collect and process your personal data including:
+
+  * Consent – for example, where you have ticked a box to receive emails
+  * Contractual obligations – for example, where we need your data to fulfil our contract with you
+  * Legal compliance – for example, where the law requires us to
+  * Legitimate interest – where we require your data to pursue our legitimate interests in a way which might reasonably be expected as part of running our business and which does not impact your rights, freedoms or interests – for example, the operation of the Treat Me loyalty scheme
+
+
 
 ## WHAT INFORMATION WE COLLECT
 
@@ -27,109 +43,183 @@ We may collect the following information:
 
 * * *
 
-## WHAT WE DO WITH THE INFORMATION
+## PURPOSE OF PERSONAL DATA PROCESSING 
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
-
-
-
-**Back to top**
-
-* * *
-
-## SECURITY
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
-
-**Back to top**
-
-* * *
-
-## HOW WE USE COOKIES
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
-
-**Back to top**
-
-* * *
-
-## LINKS TO OTHER WEBSITES
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
-
-**Back to top**
-
-* * *
-
-## CONTROLLING YOUR PERSONAL INFORMATION
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 12 Alfred Place London. 
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
-
-**Back to top**
-
-* * *
-
-## LIST OF COOKIES WE COLLECT
-
-The table below lists the cookies we collect and what information they store.
-
-COOKIE NAME | COOKIE DESCRIPTION  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.   
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.  
-_UTMA | Records the time of your first visit, previous visit, and current visit.   
-_UTMB & _UTMC | Indicates when your visit starts and approximately ends.  
-_UTMZ | Indicates how you entered the site.  
+**Activity** | **Purpose of processing** | **Lawful basis**  
+---|---|---  
+Signing up for a Treat Me card in-store | Setting up and dealing with your loyalty scheme account and sending you updates on your account, treats and promotions related to your Treat Me membership via email, SMS and postal direct mail. | Legitimate interest – contract  
+Creating an online account | Setting up your online account details and communication of any updates to your account. | Legitimate interest - contract  
+Signing up for marketing communications as part of online account creation | Communicating product updates, news, competitions and promotions by email, SMS and postal direct mail. | Legitimate interest - commercial  
+Signing up for email newsletters online not as part of account creation | Communicating product updates, news, competitions and promotions by email. | Consent – gained through opt-in at point of sign up  
+Completing an order form on the website | Dealing with an order and providing you with information about your products, delivery and service. | Legitimate interest - contract  
   
-As we continue to develop our website and take advantage of technologies to improve the services we offer, this privacy policy may change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.
+**Back to top**
 
-This website is operated by Paperchase Products Ltd, and this privacy policy applies to this website only.
+* * *
 
-If you have any questions or comments about our security or privacy policy, please [contact us](https://www.paperchase.co.uk/contact/).
+## INFORMATION WE COLLECT AND WHY 
 
-Read more about [security & your data](https://www.paperchase.co.uk/security/)
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+**How we use your name and contact details** | **Why?**  
+---|---  
+Deliver your purchase to you | To carry out our contract with you   
+Send you service messages - for example, order updates | To carry out our contract with you – so you know when your order will arrive  
+Send you information by email, SMS or direct mail about our promotions, products or services | To keep you up-to-date – you can opt out at any time  
+Fraud prevention | This is necessary and protects both of us  
+Understanding what our customers like | So we can give you what you want and improve our products and services  
+  
+**Back to top**
+
+* * *
+
+**How we use your date of birth** | **Why?**  
+---|---  
+To give you a birthday treat | To send you your birthday Treat. You don’t have to supply this but if you don’t then we can’t send your birthday treat  
+  
+**Back to top**
+
+* * *
+
+**Your payment information** | **Why?**  
+---|---  
+Take payment and give refunds | To carry out our contract with you. All information is anonymised and not kept – see our Security & Cookie Policy for any more details about this  
+Fraud prevention and detection | This is necessary and protects both of us  
+  
+**Back to top**
+
+* * *
+
+## Your contact history 
+
+Any contact we’ve had - either written, by email, over the phone, webchat or on social media
+
+**How we use this information** | **Why?**  
+---|---  
+Provide customer service support and train our staff | To carry out our contract with you and so we can give you the best service we can  
+  
+**Back to top**
+
+* * *
+
+## Purchase history, wishlist & saved items
+
+What you’ve bought, added to your wishlist and what you’ve stored in your basket for another time
+
+**How we use this information** | **Why?**  
+---|---  
+Sell you things | Legitimate commercial interest  
+Provide customer service support and process returns | To carry out our contract with you   
+Understanding what our customers like | So we can give you what you want and improve our products and services  
+For product or experience feedback or research | From time to time we may ask you to review your product or experience to help us improve  
+To operate the Treat Me loyalty scheme | So that we can issue Treats and personalised offers  
+  
+**Back to top**
+
+* * *
+
+## Information about your device and how you use our website 
+
+Information about how your browse our website and that you give us when you browse our site, including your IP address and device type. 
+
+**How we use this information** | **Why?**  
+---|---  
+Improve our website and set default options for you – for example country and currency | To improve your shopping experience  
+Protect our website | To prevent fraud which is necessary and protects both of us   
+  
+**Back to top**
+
+* * *
+
+## Information from accounts you link to us
+
+If you link your Facebook, Google+ or Twitter accounts
+
+**How we use this information** | **Why?**  
+---|---  
+So you can log in without creating an account | To improve your shopping experience   
+  
+**Back to top**
+
+* * *
+
+## Your responses to competitions, promotions, surveys and reminders
+
+**How we use this information** | **Why?**  
+---|---  
+Run the survey, competition or promotion | To carry out our contract with you – so we can enter you and pick a winner   
+Understanding what our customers like | If we’ve asked what you want to hear about we will use this to give you want you want  
+To remind you of an event in your calendar | If you’ve given us details of an event you want to be reminded about, we’ll do this until you tell us otherwise. You can switch off reminders at any time  
+  
+This information is anonymised and aggregated so we do not identify you but it’s used for improving our website, data analysis, research and improving our products and services. 
 
 **Back to top**
+
+* * *
+
+## SHARING PERSONAL DATA
+
+We do not sell any personal information to any third parties. However we do share your data with the following types of companies so that we can provide our services to you:
+
+  * Companies that help get your orders to you – for example, delivery companies, warehouses and payment service providers
+  * Professional service providers – for example, data agencies, website hosts and marketing agencies to help with things we are not able to do ourselves
+  * Fraud prevention agencies
+  * Companies approved by you – for example social media sites if you choose to link your account and marketplace sellers where you place an order
+
+
+
+## MARKETING 
+
+If you have said we can, we’ll send you marketing messages by email, SMS or direct mail. Sometimes, we may use purchase history, wishlist or saved items to increase our knowledge or what our customers like, so that we can make sure we’re talking to you about things you’re interested in. 
+
+You can stop receiving marketing messages by: 
+
+  * Updating your settings in My Preferences in your account online
+  * Contacting our Customer Service team on 0203 322 4788 or contacting them [online](https://www.paperchase.com/en_gb/contact/)
+  * Clicking unsubscribe link on any email or replying with the correct STOP message to any SMS
+
+
+
+We’ll update your information as soon as possible, but it may take a few days for all our systems to update. We will still continue to send service messages such as order or Treat Me treat updates. 
+
+## KEEPING YOUR INFORMATION
+
+We’ll hold on to your information for as long as is necessary for the purpose for which it was collected or as is required to meet legal or regulatory requirements, resolve disputes, prevent fraud and abuse, or enforce our terms and conditions. 
+
+At the end of that retention period your data will either be deleted completely or anonymised – for example by aggregation with other data so that it can be used in a non-identifiable way for statistical analysis and planning.
+
+Some examples of customer data retention periods:
+
+_Orders_  
+When you place an order, we’ll keep the personal data you give us for two years so we can comply with our legal, financial and contractual obligations. 
+
+_Inactive accounts_  
+If you’ve not used your account for more than two years, it will be flagged as inactive and we’ll contact you to ask whether you want to keep it open. Unless you reply to say ‘yes’, we’ll close the account and delete or anonymise the personal data associated with it. 
+
+See our Data Retention policy for more details. 
+
+## YOUR RIGHTS 
+
+Your rights relating to your personal information: 
+
+  * The right to know whether we are processing your personal data, and to access the personal information we hold about you, free of charge –[see here](https://www.paperchase.com/en_gb/SubjectAccessRequest/)
+  * The right to be informed – you have the right to be told about the collection and use of the personal data you provide. This privacy policy sets out the purpose for which we process your personal data and how long we will keep your data.
+  * The right to correct personal data when incorrect, out of date or incomplete. This can be done by contacting our Customer Service team on 0203 322 4788 or contacting them online 
+  * The right that we delete your data, stop collecting or processing it, in some circumstances. This can be done by contacting our Customer Service team on 0203 322 4788 or contacting them online and requesting for your data to be deleted. At this point, we will look at your request and inform you of our decision within 28 days. 
+  * The right to stop direct marketing messages (through specific or all channels). This can be done by logging into your online account and updating your marketing preferences, using the ‘unsubscribe’ link at the bottom of any promotional email sent from Paperchase (this option will only stop you from receiving promotional emails from Paperchase), or by contacting our Customer Service team on 0203 322 4788 or contacting them [online](https://www.paperchase.com/en_gb/contact/). We aim to stop sending you any marketing messages (through specific or all channels) within 28 days of your request.
+  * The right to withdraw consent for any consent-based processing. This can be done by contacting our Customer Service team on 0203 322 4788 or contacting them [online](https://www.paperchase.com/en_gb/contact/). 
+  * The right to complain to your data protection regulator – in the UK, the [Information Commissioner’s Office](https://ico.org.uk/)
+
+
+
+## COOKIES
+
+We use cookies on our website – for more information please see our [Security & Cookies Policy](https://www.paperchase.com/en_gb/security-and-cookies/)
+
+## HOW TO CONTACT US
+
+We hope this Privacy Policy has been helpful in explaining how we use your personal data and your rights. If you have any questions that haven’t been covered please contact our Customer Service team on 0203 322 4788 or email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+This policy is regularly reviewed and any major changes will be communicated directly to our customers.
+
+Last updated 18/05/2018 .
