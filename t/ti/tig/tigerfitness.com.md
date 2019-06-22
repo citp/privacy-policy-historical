@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the tigerfitness.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115214132id_/https%3A//www.tigerfitness.com/PrivacyPolicy-s/1690.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerfitness.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622060418id_/https%3A//www.tigerfitness.com/pages/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Tiger Fitness Privacy Policy
 
-### **TigerFitness.com Privacy Policy**
+### **
+
+TigerFitness.com Privacy Policy
+
+**
 
 **  
 Types of Data collected**  
@@ -15,12 +19,8 @@ Users are responsible for any Personal Data of third parties obtained, published
 
 * * *
 
-  
+### Mode and place of processing the Data
 
-
-### Mode and place of processing the Data 
-
-  
 **Methods of processing**  
 The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.   
 The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time. 
@@ -36,12 +36,11 @@ The Personal Data used for each purpose is outlined in the specific sections of 
 
 * * *
 
-  
-
-
 ### Applications
 
-  
+**Single Sign On Services (Google and Facebook)**  
+If you decide to register through or otherwise grant access to a third-party social networking or integrated service (what we call an “Integrated Service”), such as Facebook, Google, or similar single sign-on services, Tiger FItness may also collect Personal Information that is already associated with your Integrated Service account. You may also have the option of sharing additional information with Tiger Fitness through an Integrated Service, as controlled through your settings on that Integrated Service. If you choose to provide such information, during registration or otherwise, Tiger Fitness will treat the information as Personal Information and will use it in the ways described in this Privacy Policy.
+
 **Analytics**  
 The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.   
 Google Analytics (Google Inc.)   
@@ -50,7 +49,7 @@ Google may use the Data collected to contextualize and personalize the ads of it
 Personal Data collected: Cookie and Usage data.   
 Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
 
-**Contacting the User**   
+ **Contacting the User**   
 Contact form (This Application)   
 By filling in the contact form with their Data, the User authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.   
 Personal Data collected: Email address and First Name.   
@@ -65,7 +64,6 @@ Heat Mapping services are used to display the areas of a page where Users most f
 
 ### Additional Information About Data Collection And Processing
 
-  
 **Legal action**  
 The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.   
 The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities. 
@@ -124,4 +122,4 @@ UNDER NO CIRCUMSTANCES, INCLUDING NEGLIGENCE, SHALL WE, OUR LICENSORS OR LICENSE
 
 WE MAY TERMINATE YOUR FURTHER ACCESS TO SITES OR CHANGE THE SITES OR DELETE CONTENT OR FEATURES IN ANY WAY, AT ANY TIME AND FOR ANY REASON OR NO REASON. 
 
-THE LIMITATIONS, EXCLUSIONS AND DISCLAIMERS IN THIS SECTION AND ELSEWHERE IN THESE TERMS OF USE APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. 
+THE LIMITATIONS, EXCLUSIONS AND DISCLAIMERS IN THIS SECTION AND ELSEWHERE IN THESE TERMS OF USE APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
