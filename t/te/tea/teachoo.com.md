@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the teachoo.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217025332id_/https%3A//www.teachoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachoo.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622112026id_/https%3A//www.teachoo.com/privacy-policy) for the most accurate reproduction.*
 
 # teachoo: Privacy Policy
 
-Last Updated: 25-May-2018
+Last Updated: 6-April-2019
 
 * * *
 
-We recognize that your privacy is very important and take it seriously. This Privacy Policy describes teachoo’s policies and procedures on the collection, use, disclosure, and sharing of your information when you use the teachoo Service, via the teachoo website, your mobile phone, or through one of teachoo’s applications for mobile devices (e.g., the teachoo iPhone application and android application).This Privacy Policy applies to activities by Mishmash Education Services Private Limited and its affiliates and subsidiaries. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service.](https://web.archive.org/terms-service/)
+We recognize that your privacy is very important and take it seriously. This Privacy Policy describes teachoo’s policies and procedures on the collection, use, disclosure, and sharing of your information when you use the teachoo Service, via the teachoo website, your mobile phone, or through one of teachoo’s applications for mobile devices (e.g., the teachoo iPhone application and android application).This Privacy Policy applies to activities by **Mishmash Education Services Private Limited** and its affiliates and subsidiaries. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service.](https://web.archive.org/terms-service/)
 
 **Information we collect**
 
@@ -113,14 +113,6 @@ Third parties may comment on your postings within the Teachoo Platform. In your 
 **_Pixels._** This setting is tied to your cookies, and, unless you are logged in to the Teachoo Platform, will only be effective on the browser for which you have performed the opt-out.
 
 **_Third Party Ad Networks_**
-
-For information about and to opt out of interest-based ads from many ad networks, go to:
-
-  * U.S.: [www.aboutads.info](http://www.aboutads.info/) Internet Advertising Bureau
-  * Canada: [www.youradchoices.ca](https://www.youradchoices.ca/)
-  * European Union: [www.youronlinechoices.eu/](http://www.youronlinechoices.eu/)
-
-
 
 **_Linked Networks._** You may connect or disconnect your Linked Networks, such as Facebook, through the Account Settings tab in your profile settings, and you may access, amend and delete much of your profile information through your profile settings. Once you disconnect a Linked Network, we will not receive information from that Linked Network going forward; unless you choose to reconnect it. You may also control whether the Linked Networks is visible in your profile.
 
