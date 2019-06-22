@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dissue.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129042925id_/https%3A//www.3dissue.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dissue.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622111834id_/https%3A//www.3dissue.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 3D Issue Privacy Policy
 
@@ -6,7 +6,13 @@ This Privacy Policy governs the manner in which 3D Issue collects, uses, maintai
 
 Personal identification information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Site related activities.
+  * We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. 
+  * Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. 
+  * Users can always refuse to supply personal identification information, except that it may prevent them from using certain functions of the website or 3D Issue services.
+  * Users can request the deletion of their data at any time by sending an email to [support@3dissue.com](mailto:support@3dissue.com)
+  * 3D Issue will notify users as soon as practicable after it becomes aware of any Personal data breach exposing user information.
+
+
 
 Non-personal identification information
 
@@ -20,23 +26,42 @@ How we use collected information
 
 3D Issue may collect and use users personal information for the following purposes:
 
-– To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To personalize user experience. We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site. We may use feedback you provide to improve our products and services.
+  * To send periodic emails. We may use the email address to respond to inquiries, questions, and/or other requests. We may contact you to inform you of updates or service information.
 
-– To personalize user experience. We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-– To improve our Site. We may use feedback you provide to improve our products and services.
 
-– To send periodic emails. We may use the email address to respond to inquiries, questions, and/or other requests. We may contact you to inform you of company news, updates, related product or service information, etc. If at any time the user would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or user may contact us via our Site.
+We may also send information on related products, company news, etc with your explicit permission.  
+If at any time the user would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or user may contact us via our Site.
 
 How we protect your information
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+Our website and services implement encryption technologies such as Secure Socket Layer (SSL) or Transport Layer Security (TLS) when transmitting any data to ensure your security and privacy.
 
 Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+  * 3D Issue may employ other companies or services to provide services or functionality through the website or products or operate our business and may need to share your information with them in order to provide these services, provided that you have given us your permission.
+  * We explicitly require theses agents to acknowledge and adhere to our privacy policy.
+  * 3D Issue and its vendors will never sell, trade or rent your Personal Information to any third party.
+  * We may share generic aggregated non-identifying information regarding visitors or users with our business partners,  trusted affiliates and advertisers for the purposes outlined above
+
+
+
+Data processing
+
+  1. 3D Issue clients (The controller) may use 3D Issue services (The processor) to store their user information to give access to content or services managed by 3D Issue. 
+  2. The controller retains full control of this data, including creation, modification and deletion. 
+  3. The controller shall be solely responsible for complying with the statutory requirements relating to data protection and privacy, in particular regarding the disclosure and transfer of Personal Data to the Processor and the Processing of Personal Data.
+  4. Controller shall inform Processor without undue delay and comprehensively about any errors or irregularities related to statutory provisions on the Processing of Personal Data.
+  5. Controller shall be responsible for the security of all information stored outside 3D Issue services.  
+3D Issue will apply the same security technologies and techniques to Controller provided data as it would standard user data.
+  6. Processor will notify Controller as soon as practicable after it becomes aware of any Personal data breach.
+
+
 
 Third party websites
 
