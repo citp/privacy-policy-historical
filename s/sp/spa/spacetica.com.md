@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacetica.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228222621id_/http%3A//spacetica.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacetica.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622031714id_/https%3A//spacetica.com/page/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Spacetica - Everything of Space!
 
@@ -67,4 +67,4 @@ We may include or offer third-party products or services on our website.
    
 Last Edited on 2017-11-22
 
-2018 © Spacetica - Everything of Space!. 
+2019 © Spacetica - Everything of Space!. 
