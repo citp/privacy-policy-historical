@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astellas.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003033819id_/https%3A//www.astellas.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astellas.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622191342id_/https%3A//www.astellas.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Astellas Pharma Inc. GLOBAL WEBSITE
 
@@ -53,105 +53,134 @@ Astellas Pharma will appoint company-wide personal information managers. Moreove
 
 ##  Purpose of the Use of Personal Information
 
-Astellas Pharma will acquire personal information, with specifying its purpose of the use and will retain and use the personal information in an appropriate manner to the extent necessary to its businesses . Its purpose of the use of personal information is as follows:
+Astellas Pharma will acquire personal information, with specifying its purpose of the use and will retain and use the personal information in an appropriate manner to the extent necessary to its businesses. Its purpose of the use of personal information is as follows:
 
-#### 1.Personal Information on Healthcare Professionals
+### 1\. Personal Information on Healthcare Professionals
 
-To provide, collect, review and communicate information on the proper use of drugs, medical devices, drug samples, and other goods and products handled by Astellas Pharma(hereinafter referred to collectively as "Medical Products");  
-To provide, collect, review and communicate information on quality, safety or effectiveness of Medical Products;  
-To provide, collect, review and communicate healthcare-related information;  
-To report on the occurrence of adverse effect, accident, recall of Medical Products;  
-To check, review and take reasonable action to request for information and inquiry,  
-To take hold of delivery destinations and improve their network of specified biological products;  
-To conduct research of delivery destinations, actual use, and user's needs of Medical Products;  
-To request and implement clinical study, postmarketing surveillance study and other studies;  
-To conduct research studies in medical and pharmaceutical fields;  
-To conduct membership management and certification on websites for healthcare professionals;  
-To disclose information in accordance with "Transparency Guidelines for Collaborative Relationships between Astellas Pharma Inc. and Medical Institutions,"  
-To provide, collect, review and communicate information to support starting practice, hospital management, and medical cooperation;  
-To handle complaints about our products and services;  
-To cultivate better communication among Healthcare Professionals;  
-To make notifications and reports to government and other public offices and agencies;  
-To provide personal information to the third party in accordance with Section 3 (2) of "Personal Information Protection Policy" and  
-To contact healthcare professionals regarding the above tasks.
+  * To provide, collect, review and communicate information on the proper use of drugs, medical devices, drug samples, and other goods and products handled by Astellas Pharma(hereinafter referred to collectively as "Medical Products");
+  * To provide, collect, review and communicate information on quality, safety or effectiveness of Medical Products;
+  * To provide, collect, review and communicate healthcare-related information;
+  * To report on the occurrence of adverse effect, accident, recall of Medical Products;
+  * To check, review and take reasonable action to request for information and inquiry,
+  * To take hold of delivery destinations and improve their network of specified biological products;
+  * To conduct research of delivery destinations, actual use, and user's needs of Medical Products;
+  * To request and implement clinical study, postmarketing surveillance study and other studies;
+  * To conduct research studies in medical and pharmaceutical fields;
+  * To conduct membership management and certification on websites for healthcare professionals;
+  * To disclose information in accordance with "Transparency Guidelines for Collaborative Relationships between Astellas Pharma Inc. and Medical Institutions,"
+  * To provide, collect, review and communicate information to support starting practice, hospital management, and medical cooperation;
+  * To handle complaints about our products and services;
+  * To cultivate better communication among Healthcare Professionals;
+  * To make notifications and reports to government and other public offices and agencies;
+  * To contact healthcare professionals regarding the above tasks.
 
-#### 2.Personal Information on Those Who Belong to Wholesalers of Medical Products
 
-To cooperate to drive efficient promotion of Medical Products;  
-To provide, collect, review and communicate information on quality, safety and effectiveness of Medical Products;  
-To cooperate in the occurrence of adverse effect, accident, recall of Medical Products;  
-To conduct research of delivery destinations, actual use, and user's needs of Medical Products;  
-To cultivate better communication; and  
-To contact those who belong to wholesalers of medical product regarding the above tasks.
 
-#### 3.Personal Information on Scientists including Medical and Pharmaceutical Fields
+### 2\. Personal Information on Those Who Belong to Wholesalers of Medical Products
 
-To provide, collect, review and communicate academic information and information on the proper use of drug samples for study;  
-To conduct research of delivery destinations, actual use, and user's needs of drug samples for study;  
-To conduct research studies including medical and pharmaceutical fields;  
-To conduct membership management and certification on websites for scientists;  
-To respond to queries, and handle complaints, about products and services;  
-To cultivate better communication and  
-To contact biological scientists regarding the above tasks.
+  * To cooperate to drive efficient promotion of Medical Products;
+  * To provide, collect, review and communicate information on quality, safety and effectiveness of Medical Products;
+  * To cooperate in the occurrence of adverse effect, accident, recall of Medical Products;
+  * To conduct research of delivery destinations, actual use, and user's needs of Medical Products;
+  * To cultivate better communication; and
+  * To contact those who belong to wholesalers of medical product regarding the above tasks.
 
-#### 4.Personal Information on Patients and Participants in Clinical Studies (Subjects)
 
-To review, investigate and respond to details of consultations, queries and communications;
 
-Astellas Pharma usually acquires the information on health damage compensation and the information on patients and participants in clinical studies under the necessary measures that specific individuals could not be identified, but may exceptionally acquire identifiable personal information.
+### 3\. Personal Information on Scientists including Medical and Pharmaceutical Fields
 
-To install and maintain, respond queries and make explanation about, medical equipment and devices associated with home care business;  
-To support patients association; and  
-To provide information on forums and seminars on Medical Products and medical public seminar.
+  * To provide, collect, review and communicate academic information and information on the proper use of drug samples for study;
+  * To conduct research of delivery destinations, actual use, and user's needs of drug samples for study;
+  * To conduct research studies including medical and pharmaceutical fields;
+  * To conduct membership management and certification on websites for scientists;
+  * To respond to queries, and handle complaints, about products and services;
+  * To cultivate better communication and
+  * To contact biological scientists regarding the above tasks.
 
-#### 5.Personal Information on Those Who Made Use of Our Corporate Communications Department, Medical Information Center and Other Contacts
 
-To review, investigate and respond to details of consultations, queries and communications;  
-To make reports and contact to the manufacturer, distributor and other agents of our product;  
-To make notifications and reports to government and other public offices and agencies; and  
-To contact those who made use of our corporate communications department , medical information center and other contacts regarding the above tasks.
 
-#### 6.Personal Information on Those Who Belong to the Consignee, Consultant and Other Business Partners (including those who belong to their industry group and public agencies concerned)
+### 4\. Personal Information on Patients and General Public
 
-To communicate, consult, confirm, request and give instruction to concerning the consigned and/or sponsored services;  
-To implement efficiently consigned and/or sponsored services;  
-To grasp their qualifications, occupational abilities and job experiences;  
-To cultivate better communication;  
-To make notifications and reports to government and other public offices and agencies; and  
-To contact those who belong to the consignee, consultant and other business partners regarding the above tasks.
+  * To review, investigate and respond to details of consultations, queries and communications;  
+ 
+  * To support patients association;
+  * To install and maintain, respond queries and make explanation about, medical equipment and devices associated with home care business;
+  * To provide information on forums and seminars on Medical Products and medical public seminar.
+  * To plan and evaluate its disease state awareness activities; and
+  * To conduct research and survey of medical use and/or medical needs.
 
-#### 7\. Personal Information on Shareholders
 
-To send a notice of the shareholder meeting and a voting form of the shareholder meeting;  
-To pay dividends to shareholders;  
-To make a list of shareholders and give notice to a transfer agent; and Others:  
-\- To exercise its rights and perform its obligations under the law;  
-\- To give a wide variety of facilities to the position of its shareholder from Astellas Pharma;  
-\- To take measures of every kind in order to make our relationship with shareholders smooth; and  
-\- To manage shareholders, such as creating shareholder data according to the prescribed standards under a wide variety of laws and regulations.
 
-#### 8\. Personal Information on Media Representatives, Securities Analysts and Investors
+### 5\. Personal Information on Participants in Clinical Studies (Subjects)
 
-To distribute news and information on Astellas Pharma;  
-To provide information on events;  
-To grasp and analyze our stakeholders' needs and make plans based on such needs;  
-To cultivate better communication; and  
-To contact media representatives, securities analysts and investors regarding the above tasks.
+  * Astellas Pharma usually acquires the information on health damage compensation and the information on patients and participants in clinical studies under the necessary measures that specific individuals could not be identified, but may exceptionally acquire identifiable personal information. Astellas Pharma usually acquires the information on health damage compensation and the information on patients and participants in clinical studies under the necessary measures that specific individuals could not be identified, but may exceptionally acquire identifiable personal information; and
+  * Human genome/gene analysis research: *Astellas usually does not obtain information with which an individual can be immediately identified, such as name, etc.; however, Astellas may obtain genome data that corresponds to individual identification codes.
 
-#### 9\. Personal Information on Applicants for Employment
 
-To discuss and decide to adopt or reject applicants, and to respond to queries about the result of recruitment; and  
-To contact applicants for employment regarding the above tasks.
 
-#### 10\. Personal Information on Employees (both those who hold an office and who retired from an office)
+### 6\. Personal Information on Those Who Made Use of Our Corporate Communications Department, Medical Information Center and Other Contacts
 
-To plan and manage the personnel assignment, assessment, treatment, development, conditions of work, welfare program, safety and health;  
-To communicate with the labor union, benefit society, health insurance society, subsidiaries, affiliates and other organizations concerned.  
-To grasp the record of attending on-the-job training classes, the results of examinations within the company;  
-To provide the record of attending MR training courses to MR education center;  
-To communicate with the consignees, consulting companies, insurance companies and other companies concerned;  
-To present the brief personal history externally;  
-To post personal information on printed materials to be distributed or provided internally or externally;  
-To make notifications and reports to government and other public offices and agencies; and  
-To make, manage and maintain a member list of retired employees reunion; and  
-To make contact, consult with employees about, and make queries about, the operation of the retired employees reunion.
+  * To review, investigate and respond to details of consultations, queries and communications;
+  * To make reports and contact to the manufacturer, distributor and other agents of our product;
+  * To make notifications and reports to government and other public offices and agencies; and
+  * To contact those who made use of our corporate communications department , medical information center and other contacts regarding the above tasks.
+
+
+
+### 7\. Personal Information on Those Who Belong to the Consignee, Consultant and Other Business Partners (including those who belong to their industry group and public agencies concerned)
+
+  * To communicate, consult, confirm, request and give instruction to concerning the consigned and/or sponsored services;
+  * To implement efficiently consigned and/or sponsored services;
+  * To grasp their qualifications, occupational abilities and job experiences;
+  * To cultivate better communication;
+  * To make notifications and reports to government and other public offices and agencies; and
+  * To contact those who belong to the consignee, consultant and other business partners regarding the above tasks.
+
+
+
+### 8\. Personal Information on Shareholders
+
+  * To send a notice of the shareholder meeting and a voting form of the shareholder meeting;
+  * To pay dividends to shareholders;
+  * To make a list of shareholders and give notice to a transfer agent; and Others:
+  * To exercise its rights and perform its obligations under the law;
+  * To give a wide variety of facilities to the position of its shareholder from Astellas Pharma;
+  * To take measures of every kind in order to make our relationship with shareholders smooth; and
+  * To manage shareholders, such as creating shareholder data according to the prescribed standards under a wide variety of laws and regulations.
+
+
+
+### 9\. Personal Information on Media Representatives, Securities Analysts and Investors
+
+  * To distribute news and information on Astellas Pharma;
+  * To provide information on events;
+  * To grasp and analyze our stakeholders' needs and make plans based on such needs;
+  * To cultivate better communication; and
+  * To contact media representatives, securities analysts and investors regarding the above tasks.
+
+
+
+### 10\. Personal Information on Applicants for Employment and Applicants for Internship
+
+  * To discuss and decide to adopt or reject applicants, and to respond to queries about the result of recruitment;
+  * To contact applicants for employment regarding the above tasks;
+  * To implement internship; and to refer to future planning and operation; and
+  * To contact applicants for employment and applicants for internship regarding the above tasks.
+
+
+
+### 11\. Personal Information on Employees (both those who hold an office and who retired from an office)
+
+  * To plan and manage the personnel assignment, assessment, treatment, development, conditions of work, welfare program, safety and health;
+  * To communicate with the labor union, benefit society, health insurance society, subsidiaries, affiliates and other organizations concerned;
+  * To Communicate with the employee and his/her family members in case of emergency;
+  * To grasp the record of attending on-the-job training classes, the results of examinations within the company;
+  * To provide the record of attending MR training courses to MR education center;
+  * To communicate with the consignees, consulting companies, insurance companies and other companies concerned;
+  * To present the brief personal history externally;
+  * To post personal information on printed materials to be distributed or provided internally or externally;
+  * To make notifications and reports to government and other public offices and agencies; and
+  * To make, manage and maintain a member list of retired employees reunion; and
+  * To make contact, consult with employees about, and make queries about, the operation of the retired employees reunion.
+
+
