@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sejda.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228042120id_/https%3A//www.sejda.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sejda.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622121005id_/https%3A//www.sejda.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sejda
 
-Effective starting: May 16, 2018
+Effective starting: March 19, 2019
 
 ## Introduction
 
@@ -62,7 +62,7 @@ In some cases another user (such as a team lead or system administrator) may cre
 
 **Software Updates & License Information from Downloadable Products**: Our Downloadable Products also communicate with our servers for licensing purposes, as well as to check for updates. Information we collect for these purposes includes: the name and version of the Downloadable Product, details about your computer such as hostname and currently logged in username, your Internet Protocol address (IP).
 
-**Cookies and Tracking Technologies** : Sejda and our third party partners, such as our analytics partners, cloud storage providers such as Google Drive or Dropbox, use various technologies to collect information, such as cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices. For more information, please see our [Cookies and Tracking Notice](https://web.archive.org/cookies), which includes information on how to control or opt out of these cookies and tracking technologies.
+**Cookies and Tracking Technologies** : Sejda and our third party partners, such as our analytics partners, advertising partners, cloud storage providers such as Google Drive or Dropbox, use various technologies to collect information, such as cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices. For more information, please see our [Cookies and Tracking Notice](https://web.archive.org/cookies), which includes information on how to control or opt out of these cookies and tracking technologies.
 
 ### Information we collect from other sources
 
@@ -103,7 +103,7 @@ While we implement safeguards designed to protect your information, no security 
 
 **Account and Payment Information** : We retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Services. We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services.
 
-**User Files** : All user-uploaded files as well as the processed output files will be permanently deleted 5 hours after upload or processing respectively. We store the files for the sole purpose of giving you enough time to process and download them. No backups are made of these files. During these 5 hours, we don’t access your files without your explicit permission. You can choose to share processed output files with others, using our share features, such as sharing them by email or by generating a public link. In that case anyone who has the shared link can access your shared files. The access link and the shared files will be permanently deleted 7 days after being shared.
+**User Files** : All user-uploaded files as well as the processed output files will be permanently deleted after upload or processing respectively. We store the files for the sole purpose of giving you enough time to process and download them. No backups are made of these files. We don’t access your files without your explicit permission. You can choose to share processed output files with others, using our share features, such as sharing them by email or by generating a public link. In that case anyone who has the shared link can access your shared files. The access link and the shared files will be permanently deleted 30 days after being shared.
 
 ## How we transfer information we collect internationally
 
