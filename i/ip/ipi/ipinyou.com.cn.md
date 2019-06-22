@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipinyou.com.cn privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226121121id_/http%3A//ipinyou.com.cn/privacy%3FdefaultLocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipinyou.com.cn privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622105344id_/https%3A//www.ipinyou.com.cn/privacy%3FdefaultLocale%3Den) for the most accurate reproduction.*
 
 # iPinYou
 
