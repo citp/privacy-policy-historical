@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211175531id_/http%3A//zoom.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622182617id_/https%3A//zoom.us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Zoom
+# ZOOM PRIVACY POLICY - Zoom
 
-**Updated: November 12, 2018**
+**Updated: March 19th, 2019**
 
 Zoom Video Communications, Inc. (“Zoom”) is committed to protecting your privacy and ensuring you have a positive experience on our website and in using our products and services (collectively, "Products"). This policy covers the Zoom website zoom.us, mobile applications, and desktop clients and is applicable worldwide.
 
@@ -186,10 +186,11 @@ If you use a feature of the Products that allows for Recordings (defined below),
 
 Our Products are hosted and operated in the United States (“U.S.”) through Zoom and its service providers. We may transfer your Personal Data to the U.S., to any Zoom affiliate worldwide, or to third parties acting on our behalf for the purposes of processing or storage. By using any of our Products or providing any Personal Data for any of the purposes stated above, you consent to the transfer and storage of your Personal Data, whether provided by you or obtained through a third party, to the U.S. as set forth herein, including the hosting of such Personal Data on U.S. servers.
 
-_EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield_  
-Zoom participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield. Zoom is committed to subjecting all Personal Data received from EU member countries and Switzerland, in reliance on the Privacy Shield Frameworks, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce's Privacy Shield List, https://www.privacyshield.gov/list.
+_EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield_
 
-Zoom is responsible for the processing of Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Zoom complies with the Privacy Shield Principles for all onward transfers of Personal Data from the EU and Switzerland, including the onward transfer liability provisions.
+Zoom participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield. Zoom is committed to subjecting all Personal Data received from EU member countries, Switzerland, and the United Kingdom, in reliance on the Privacy Shield Frameworks, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce's Privacy Shield List, <https://www.privacyshield.gov/list>.
+
+Zoom is responsible for the processing of Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Zoom complies with the Privacy Shield Principles for all onward transfers of Personal Data from the EU, Switzerland, and the United Kingdom including the onward transfer liability provisions.
 
 With respect to Personal Data received or transferred pursuant to the Privacy Shield Frameworks, Zoom is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Zoom may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
