@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colgate.edu privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227062724id_/http%3A//www.colgate.edu/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colgate.edu privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622200930id_/http%3A//www.colgate.edu/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Colgate University
 
@@ -16,4 +16,4 @@ This information is not shared with anyone beyond the support staff to this home
 
 Only employees who need sensitive information to perform a specific job are granted access to a user's personal information. The servers that we store personal information on are kept in a secure environment that is locked when not being monitored. Colgate is not responsible for the privacy policies of other websites that we link to or how they treat their users' sensitive information.
 
-If we decide to change our privacy policy, we will notify you of any changes on our website so everyone may be aware of the change and how it will affect our users. If you have any questions or comments about this policy, you may e-mail us at: [its@colgate.edu](mailto:its@colgate.edu). 
+If we decide to change our privacy policy, we will notify you of any changes on our website so everyone may be aware of the change and how it will affect our users. If you have any questions or comments about this policy, you may e-mail us at [privacy@colgate.edu](mailto:privacy@colgate.edu). 
