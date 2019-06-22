@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230022827id_/https%3A//www.amnesty.org/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622164042id_/https%3A//www.amnesty.org/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amnesty International
 
@@ -64,7 +64,8 @@ We use your personal information collected via our websites for the following pu
 
 Data protection law requires us to have a legal justification to process your personal information. We use the following depending on the type of data and the type of processing:
 
-**Consent** We require your consent to send you our communications for example to send you emails to update you on our work and our campaigns and to request donations. We will only process your information in this way if you consent. If you apply for a job with us and provide us with sensitive personal information (including details of your race, ethnicity, gender) we will only process that information with your consent.
+**Consent**  
+We require your consent to send you our communications for example to send you emails to update you on our work and our campaigns and to request donations. We will only process your information in this way if you consent. If you apply for a job with us and provide us with sensitive personal information (including details of your race, ethnicity, gender) we will only process that information with your consent.
 
 **Legitimate interest**  
 We sometimes share your personal information with other parts of the Amnesty International global movement (see below). This is done to fulfil our legitimate interest in promoting our organisation as effectively as possible and enabling our message to reach people who may be interested in human rights.
@@ -123,7 +124,7 @@ Please click through to our [Use of Cookies](https://web.archive.org/en/about-us
 
 ### Under 18s
 
-If you are aged 18 or under and would like to get involved in Amnesty International’s work, please make sure that you have your parent/guardian’s permission before giving us personal information.
+If you are under 18 years of age and would like to get involved in Amnesty International’s work, please make sure that you have your parent/guardian’s permission before giving us personal information.
 
 ### Retention Period For Data
 
@@ -144,6 +145,17 @@ The personal data we hold about you is yours. You have the following rights over
   * To move your data
 
 
+
+#### Recruitment Privacy Statement
+
+Amnesty International Limited is committed to the responsible handling of personal information collected as part of the recruitment process.
+
+Information provided by you in connection with your application will only be used by Amnesty internally in relation to recruitment and selection processes and will not be disclosed to a third party without your consent, except as required by law and except to our service provider (see our general statement for more details).
+
+Sensitive personal information regarding gender, age, sexual orientation, religion and faith, caring responsibilities, disability, ethnic origin and region of origin will be anonymised and will be used for cultural diversity and equal opportunities monitoring purposes only. Unsuccessful applications will be retained for a period of three years after the conclusion of the selection process. We will also ask that you confirm that you are happy to process in the form of our declaration, printed below:
+
+**Declaration**  
+I confirm that the information provided in my application is true and complete. I agree that any deliberate omission, falsification or misrepresentation in the application form will be grounds for rejecting this application or subsequent dismissal if employed by the organisation. Where applicable, I consent that the organisation can seek clarification regarding professional registration details. I consent to Amnesty International processing my personal information on the privacy terms set out above.
 
 ### If you wish to exercise any of these rights or have any questions about this policy you may contact us in the following ways:
 
