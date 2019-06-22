@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onepeterfive.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626112218id_/https%3A//onepeterfive.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepeterfive.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622221157id_/https%3A//onepeterfive.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - OnePeterFive
 
