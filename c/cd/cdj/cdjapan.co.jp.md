@@ -1,86 +1,108 @@
-> *The following text is extracted and transformed from the cdjapan.co.jp privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223175033id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdjapan.co.jp privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622024654id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.*
 
-# CDJapan : Privacy Policy
+# CDJapan : Privacy Policy (Personal Information Protection Policy)
 
-Recognizing and understanding the importance of your privacy, CDJapan (Neo Wing Co.) commits itself to protecting the security of your personal information with utmost care as detailed in this Privacy Policy. By using our website, you are accepting the terms and conditions of this Privacy Policy.
+Privacy Policy (Personal Information Protection Policy) Neowing corporation (hereinafter referred to as "the Company"), hereby declares that, in order for customers to use the services of the Company, such as mail order sales and the provision of digital content via the internet, with peace of mind, the Company is aware of the importance of personal information, shall adhere to laws and regulations on the protection of personal information, has prescribed the policy set forth below, has established a personal information protection management system for the realization of this policy, and shall implement, maintain, and improve this.
 
-## Personal Information
+The Company shall clearly prescribe the purpose of use when acquiring personal information that will be used in its business, shall indicate this purpose, and shall only obtain that of content within the range required for the achievement of the purpose of use. In addition, after personal information has been obtained, it shall not be used for any purpose other than that presented at the time of acquisition. The Company shall conduct thorough education on its employees, etc. in order to ensure that personal information is not used outside of its purpose of use.
 
-Personal information is defined in this Privacy Policy as any information, or any combination of information that can be used to identify an individual.
+The Company, in regard to the personal information provided for use in the business of the Company, shall adhere to laws, regulations, governmental policies, and other rules on the handling of personal information. Furthermore, the Company has established a personal information management system that conforms with Japanese Industrial Standard "Personal information protection management systems - Requirements" (JIS Q15001), and protects personal information.
 
-## How We Collect Your Information
+The Company shall sufficiently analyze and maintain awareness of the risks relating to the personal information handled by the Company, and shall take measures to prevent and rectify the leakage, loss, or damage of personal information.
 
-We collect and store your personal information you enter on our website, including your name, gender (optional), date of birth (optional), shipping address, billing address, phone number, email address, and credit card details. Some other information may be collected and stored automatically, including records and details of your orders, IP (Internet protocol) address, and URL (Uniform Resource Locator) of the website from which our website is linked. We may be affiliated with third-party companies for jointly providing certain types of services, and such companies may provide us with personal information, but it will not be without your prior consent. As of April 1, 2005, we do not collect personal information from any third party for services we provide at cdjapan.co.jp.
+In the event of receiving a complaint or inquiry regarding the handling of personal information, the Company shall promptly investigate the relevant facts, etc. relating to this, and shall respond in good faith within a reasonable period.
 
-## How We Use Your Information
+The Company shall keep in mind trends in network technology, public opinion regarding the protection of personal information, as well as the content of opinions and complaints, etc. received from its customers, and shall continually improve the personal information protection management system.
 
-Information we collect is used only and strictly for the purposes of providing our services, processing orders, and for providing customer support whenever it is needed. We may also use the information we collect to perform statistical analysis and to monitor online activities in order to improve the quality of our website and services.
+Established March 23, 2006  
+Amended May 25, 2018  
+Neowing corporation  
+Representative Director Fumio Katagiri
 
-## Releasing Personal Information
-
-We may release personal information in circumstances in which we reasonably believe it is appropriate for complying with law, or for protecting the rights, safety, and property of CDJapan (Neo Wing Co.), our users, or others. Also, we may share personal information with third-party companies as detailed in Sharing Personal Information With Third Parties. Otherwise, we do not release any personal information to others for any purpose or reason.
-
-## Sharing Personal Information With Third Parties
-
-To make certain aspects of our services possible, third-party companies may work on our behalf to perform certain functions. Also, some companies may extend their own membership programs through us. We share personal information with such third parties only to an extent that allows them to perform their functions for us, or to extend their membership programs as detailed below. In each case, the third party involved is contractually obligated to protect the confidentiality and the security of the personal information we share, and they are also contractually prevented to use personal information we share for any other purpose.
-
-### Credit Card Companies
-
-Credit card companies and their vendors process credit card payments. We share credit card details, and other personal information necessary, in some cases, for processing credit card payments.
-
-### Delivery Companies
-
-Delivery companies deliver packages we ship. Also, delivery companies collect payments in case Cash on Delivery is selected as the payment method (available only for orders to be delivered within Japan). We only share personal information necessary for delivery and collection of payments.
-
-### Providers of Membership Programs
-
-In affiliation with cdjapan.co.jp, providers of membership programs may extend their own membership programs through our website. We share personal information with such providers only to an extent necessary for the administration of the membership programs.
-
-## Protecting Your Personal Information
-
-  * We implement a number of technological measures against unauthorized access and computer viruses to ensure loss, corruption, alteration, and theft of personal information are effectively prevented.
-  * Your personal information is protected by your password.
-  * We use a technology called SSL (Secure Socket Layer) to encrypt your personal information when you enter it on our website, and when you place your order. The technology effectively prevents theft and alteration of your personal information when it's transmitted over the Internet.
+  
 
 
+### Inquiries
 
-## Cookies
+Personal Information Complaint and Inquiry Help Desk, Neowing corporation  
+3F, JL Nihonbashi Building, 1-10-15, Nihonbashi Horidome-cho, Chuo-ku,  
+Tokyo 103-0012  
+e-mail: info-pro@neowing.co.jp  
+Telephone: 03-3665-4947 (Business hours: Weekdays 10:00–18:00)
 
-We store small pieces of information called Cookies on the hard drive of your computer. Cookies enable our system to recognize your browser each time you visit our website, and make it possible for items to be stored in your shopping cart. By changing the settings of your browser, you can choose to disable it from accepting Cookies. However, disabling Cookies makes certain features of our website, such as placing orders, unavailable.
-
-## Your Rights
-
-We acknowledge your rights to disclose, make changes to, discontinue the use of, and delete your own personal information we have collected, and when demanded or requested, we respond without objection, as soon as possible.
-
-Also, you can view and make changes to your information by signing into [Customer Account](https://www.cdjapan.co.jp/member/zolar/customer/acc_login?dest=menu).
-
-If you have any questions or suggestions, please contact us by [email](mailto:info@cdjapan.co.jp).
-
-## Frameworks for Enforcement
-
-  * We assign CPO(Chief Privacy Officer) to enforce effective protection of the security of personal information.
-  * Through training of the employees, as well as board members, we enforce strict handling and management of personal information in appropriate manners.
+  
 
 
+## Handling of Personal Information
 
-## Compliance Program
+  1. Business Operator Handling Personal Information  
+Neowing Corporation.
+  2. Personal Information Protection Manager  
+Group Leader, Business Supervisory Group
+  3. Purposes of Use of Personal Information  
 
-CDJapan (Neo Wing Co.) complies with all applicable laws and regulations of Japan pertaining to the protection of personal information and continues to review and make efforts to improve its compliance program, including this Privacy Policy.
+    1. Member management
+    2. Acceptance of orders
+    3. Packing and shipping of products, etc.
+    4. Collection of bill through credit card payments or cash on delivery, etc.
+    5. Transmission of email magazine
+    6. Transmission of notification emails concerning promotions and information on new products, etc.
+    7. Response to various inquiries and after sales service
+    8. Notifications on matters required for the operation of the website
+    9. Provision of a points service, etc.
+    10. Packing and shipping of products, etc. by gift delivery requests
+In addition, the Company, for the improvement of its services, may use personal information by collecting and referencing it as statistical information in a form by which an individual cannot be identified or specified.
+  4. Contracting of the Handling of Personal Information  
+The Company, when providing shipping and bill collection, etc. services, may entrust all or a part of the handling of the personal information provided by the customer to a credit card company, payment systems provider, or delivery company, etc. When entrusting the handling of personal information, the Company shall select companies that protect personal information to a sufficient standard, and shall take the appropriate measures, such as through the execution of a contract.
+  5. Handling of Credit Card Information  
+The Company shall handle the credit card information provided by the customer in accordance with the following.  
 
-## Privacy Protection for EEA Users (Updated: May 5, 2018 )
+    1. Purpose of use: Payment for purchased products
+    2. Name of party obtaining information: Neowing corporation
+    3. Recipients of information: Various payment providers and payment agents
+    4. Storage period: Payment agent GMO Payment Gateway, Inc.’s "PG Multipayment Service" is used for credit card payment and registration. None of the credit card information of customers is stored at the Company.
+  6. Personal Information Security  
+Registered information of the customer, for the protection of privacy and security, is password protected. In addition, this website uses software called SSL (Secure Socket Layer) for security when customer information is transmitted. The use of SSL allows transmission of the customer’s personal information and credit card details, etc. from the customer’s PC to the server in encrypted form, and prevents the theft or tampering, etc. of information, thereby allowing for personal information to be transmitted securely via the internet.
+  7. Cookies  
+The website uses a technology called cookies. Cookies are a mechanism for temporarily storing specific information required for communications on the personal computer used by the customer as data, and identifying the customer based on this data each time that the customer connects to the website. The Company uses cookies for shopping cart and login management. Therefore, if a customer does not permit the use of cookies, a part of the Company’s services may become unavailable. Whether or not to allow use of cookies can be set on the customer’s browser. We ask that customers check their settings as necessary.
+  8. Procedures for the Disclosure, etc. of Personal Information  
+The Company is aware that customers have the right to request the disclosure, notification on purpose of use, amendment, addition, deletion, suspension of use, and suspension of provision to third parties, etc. of personal information (hereinafter referred to as "Disclosure, etc."), and if it receives such a request from a customer, shall promptly respond to this without objection. Customers are asked to direct inquiries on the specific procedures for this to the help desk stated below. It should be noted that the fee specified by the Company may be charged for requests for the disclosure of personal information and notification of the purpose of use of personal information; the Company asks for the understanding of its customers.
+  9. Collection of Information from Minors  
+The Company shall not consciously collect personal information from minors under the age of thirteen. In the event of a minor under the age of thirteen providing personal information to the Company without the consent of their parent or guardian, the parent or guardian of the child may make a request to the Company by email for the deletion of information of said minor from the Company’s database, and for the stopping of the provision of information on services to the minor.  
+Please contact the help desk stated below for inquiries concerning this.
 
-For users receiving orders in the EEA (European Economic Area), that is, the EU (European Union) countries, Iceland, Liechtenstein and Norway, please be advised of the following additional terms.
+Personal Information Complaint and Inquiry Help Desk, Neowing corporation  
+3F, JL Nihonbashi Building, 1-10-15, Nihonbashi Horidome-cho, Chuo-ku, Tokyo 103-0012  
+e-mail: info-pro@neowing.co.jp  
+Telephone: 03-3665-4947 (Business hours: Weekdays 10:00–18:00)
 
-Your user data are being transferred and kept on a server located in JAPAN, managed and maintained by CDJapan (Neowing Corporation). Although the Council of Europe has not yet approved the Japanese data protection standard, CDJapan (Neowing Corporation) will manage and use these data appropriately and in a responsible way.
+  
+Member information can be checked and changed, etc. from the URL below instead of making a request as described above: 
 
-CDJapan does not intend to collect and or exchange personal information of underaged individuals. Any personal information regarding a person under the age of 13 received without the permission from a legal guardian is to be removed from our server immediately at the time of discovery.
+### [Click here to check or change, etc. member information (with link)](https://www.cdjapan.co.jp/z/my/)
 
-Upon request, the user may access, modify and delete the data submitted, please contact us at info@cdjapan.co.jp for further information. After agreeing to this policy, the user retains the right to terminate the agreement (see the ‘Termination’ section below) at will, and to report any mishandling of personal data by CDJapan (Neowing Corporation) to the relevant EEA authority.
+  10. Inquiries and complaints regarding the handling of personal information  
+Customers are asked to direct any opinions, complaints, questions, or inquiries regarding the handling of personal information by the Company to its Personal Information Complaint and Inquiry Help Desk stated above.
 
-## Termination
 
-Termination of this agreement implies the COMPLETE removal of its correlated user account and the information contained within. Similarly, the removal of a user account*, would also terminate the agreement between CDJapan (Neowing Corporation) and its respective user.
 
-*For security purposes, CDJapan reserves the right to remove malicious accounts at its own discretion.
+The Accredited Personal Information Protection Organization Joined by the Company
 
-Established: April 1, 2005 Last Updated: May 5, 2018 Fumio Katagiri President, Neo Wing Co.
+The Company is a member of the Japan Institute for Promotion of Digital Economy and Community, which has been certified as an accredited personal information protection organization based on Article 37 of the Act on the Protection of Personal Information. Customers are asked to address complaints regarding the handling of personal information by the Company to this institute.
+
+Japan Institute for Promotion of Digital Economy and Community  
+Personal Information Protection Complaint and Inquiry Office  
+Address: 12F, Roppongi First Building, 1-9-9, Roppongi, Minato-ku, Tokyo 106-0032  
+Telephone: 03-5860-7565  
+Toll-free telephone number: 0120-700-779
+
+  
+
+
+## Protection of Personal Information of Customers in an EEA Member Country
+
+Customers residing within an EEA member country, which comprises of European Union (EU) member countries, Iceland, Liechtenstein, and Norway, are asked to bear the following additional terms in mind:
+
+Customers' personal information is forwarded to a server in Japan, where it is stored. Japan conforms to the standards for data protection sent by the European Commission, and all personal data received by the Company is accordingly handled.
+
+The Customer may make a request to the Company to access their personal data, correct inaccurate personal data, and delete personal data. Contact info@cdjapan.co.jp for further information. Furthermore, in the event of being unsatisfied by the Company’s handling of personal information, a customer may file a complaint with a regulatory authority of an EEA member country. 
