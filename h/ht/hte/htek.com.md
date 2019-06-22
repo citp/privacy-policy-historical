@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htek.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221185720id_/http%3A//www.htek.com/about_site/2018/03/27183432713665.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htek.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622110949id_/http%3A//htek.com/about_site/2018/03/27183432713665.html) for the most accurate reproduction.*
 
 # Htek Enterprise SIP Phone
 
