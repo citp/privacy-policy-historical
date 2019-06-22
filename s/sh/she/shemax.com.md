@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemax.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221053830id_/http%3A//www.procustomersupport.com/privacy.php%3Fsite%3Dshemax.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemax.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622154955id_/http%3A//www.procustomersupport.com/privacy.php%3Fsite%3Dshemax.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
