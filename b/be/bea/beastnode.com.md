@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beastnode.com privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723220311id_/https%3A//www.beastnode.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beastnode.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622224530id_/https%3A//www.beastnode.com/privacypolicy) for the most accurate reproduction.*
 
 # Minecraft Server Hosting | BeastNode: Performance Server Hosting & VPS Hosting - Privacy Policy
 
