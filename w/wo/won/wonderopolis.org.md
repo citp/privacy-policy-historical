@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wonderopolis.org privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019214648id_/https%3A//wonderopolis.org/pages/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderopolis.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622234302id_/https%3A//wonderopolis.org/pages/legal-privacy) for the most accurate reproduction.*
 
-# Legal & Privacy Notices | Wonderopolis
+# Wonderopolis - Legal & Privacy Notices | Wonderopolis
 
 ## Copyright
 
