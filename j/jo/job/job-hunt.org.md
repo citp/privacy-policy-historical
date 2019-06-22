@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120002326id_/http%3A//job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622082326id_/https%3A//www.job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # The Privacy Policy for Job-Hunt.Org - Job-Hunt.org
 
@@ -50,13 +50,14 @@ We use IP addresses to analyze trends, administer the site, track user movements
 
 We practice transparency in revenue generation. Revenue-generating links are identified as "Advertisement" or "Sponsor" or are across the top of a page or in the column on the right side of Job-Hunt pages.
 
-Advertisers such as Google AdSense and Indeed.com can place ads on Job-Hunt's pages.
+Advertisers such as Google's AdSense can place ads on Job-Hunt's pages.
 
   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to Job-Hunt.  
 
   * Google's use of the DoubleClick cookie enables it and its partners to serve ads based on their visit to Job-Hunt and/or other sites on the Internet.  
 
   * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, opt out of a third-party vendor's use of cookies for interest based advertising by visiting aboutads.info.)
+  * [How Google uses cookies](https://policies.google.com/technologies/cookies "How Google uses cookies") (https://policies.google.com/technologies/cookies) explains Google's process -- the types of cookies used by Google, managing cookies in your browser, how Google retains collected data, and more.
 
 
 
@@ -70,9 +71,9 @@ Please be aware that if you use an external link from the Site to an advertiser�
 
 The Site contains links to other sites operated by third parties. Please be aware that we are not responsible for the privacy practices of such other sites.
 
-> _We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. Job-Hunt.Org is not responsible for the privacy practices or the content of such Web sites. Before adding those sites to Job-Hunt's categorized lists of links, each site is evaluated to see if they protect the privacy of their visitors and, particularly, their job applicants. We do not knowingly add sites that treat applicant information casually. However, a site _may change_ its policies and practices after being added to Job-Hunt._
+> _We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. Job-Hunt.Org is not responsible for the privacy practices or the content of such Web sites. Before adding those sites to Job-Hunt's categorized lists of links, each site is evaluated to see if they protect the privacy of their visitors and, particularly, their job applicants. We do not knowingly add sites that treat applicant information casually. However, a site may change its policies and practices after being added to Job-Hunt._
 
-Please read [Protecting Your Privacy](https://web.archive.org/web/20161120002326id_/http%3A//job-hunt.org/privacy.shtml), [ Choosing a Job Site](https://web.archive.org/web/20161120002326id_/http%3A//job-hunt.org/choosing.shtml), and our [Disclaimer](https://web.archive.org/web/20161120002326id_/http%3A//job-hunt.org/disclaimer.html) regarding these sites.
+Please read [Protecting Your Privacy](https://web.archive.org/privacy.shtml), [ Choosing a Job Site](https://web.archive.org/choosing.shtml), and our [Disclaimer](https://web.archive.org/disclaimer.html) regarding these sites.
 
 ### Shared Data:
 
@@ -116,12 +117,10 @@ If you have any concerns about your privacy at Job-Hunt or a complaint about ina
 >  P.O. Box 507  
 >  Marlborough, MA 01752-0507
 
-Updated: 3 June 2016
-
-**For more great information every week, sign up to receive[our newsletter](https://web.archive.org/subscribe-newsletter.shtml "Subscribe to our newsletter!")!**
+Updated: 10 June 2018
 
 * * *
 
 **About the author...**
 
-[Online job search expert Susan P. Joyce](https://web.archive.org/onlinejobsearchguide/online-job-search-expert-Susan-P-Joyce.shtml "Online Job Search Expert Susan P. Joyce") has been observing the online job search world and teaching online job search skills since 1995. A veteran of the United States Marine Corps and a recent Visiting Scholar at the MIT Sloan School of Management, Susan is a two-time layoff “graduate” who has worked in human resources at Harvard University and in a compensation consulting firm. Since 1998, Susan has been editor and publisher of Job-Hunt.org. Follow Susan on Twitter at [@jobhuntorg](http://twitter.com/jobhuntorg "@JobHuntOrg") and on [Facebook](https://www.facebook.com/JobHuntOrg "Job-Hunt.org on Facebook"), [LinkedIn](https://www.linkedin.com/today/author/780585 "LinkedIn Author Page"), and [Google+](https://plus.google.com/102470102360947259366/?rel=author "Susan P. Joyce is on Google+").
+[Online job search expert Susan P. Joyce](https://web.archive.org/onlinejobsearchguide/online-job-search-expert-Susan-P-Joyce.shtml "Online Job Search Expert Susan P. Joyce") has been observing the online job search world and teaching online job search skills since 1995. A veteran of the United States Marine Corps and a recent Visiting Scholar at the MIT Sloan School of Management, Susan is a two-time layoff “graduate” who has worked in human resources at Harvard University and in a compensation consulting firm. Since 1998, Susan has been editor and publisher of Job-Hunt.org. Follow Susan on Twitter at [@jobhuntorg](http://twitter.com/jobhuntorg "@JobHuntOrg") and on [Facebook](https://www.facebook.com/JobHuntOrg "Job-Hunt.org on Facebook"), [LinkedIn](https://www.linkedin.com/in/susanjoyce/ "Susan P. Joyce LinkedIn Profile").
