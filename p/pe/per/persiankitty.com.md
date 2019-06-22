@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the persiankitty.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216084826id_/http%3A//www.persiankitty.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the persiankitty.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622161455id_/http%3A//www.persiankitty.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Persian Kitty 's Adult Links ! Privacy Policy
 
