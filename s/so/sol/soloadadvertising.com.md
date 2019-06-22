@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the soloadadvertising.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219155013id_/https%3A//soloadadvertising.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soloadadvertising.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622034737id_/https%3A//soloadadvertising.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Solo Ad Advertising Solo Ads
 
-soloadadvertising.com Privacy Policy  
+soloadadvertising.com  
+Privacy Policy  
 
 
   
