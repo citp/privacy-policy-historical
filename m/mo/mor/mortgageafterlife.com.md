@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mortgageafterlife.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221034355id_/http%3A//mortgageafterlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgageafterlife.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622104214id_/http%3A//mortgageafterlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mortgage After Life
 
-Last updated: May,2018
+Last updated: March, 2019
 
-MortgageAfterLife LTD (“us”, “we”, or “our”) operates the [http://www.MortgageAfterLife.com](http://www.omgstudios.com/) website (the “Service”).  
+MortgageAfterLife LTD (“us”, “we”, or “our”) operates the http://www.MortgageAfterLife.com website (the “Service”).  
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
 We will not use or share your information with anyone except as described in this Privacy Policy.  
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://www](http://www/).MortgageAfterLife.com
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.MortgageAfterLife.com
 
 **Information Collection And Use**
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6a03040c052a05070d191e1f0e03051944090507)
+  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dcb5b2bab39cb3b1bbafa8a9b8b5b3aff2bfb3b1)
 
 
 
