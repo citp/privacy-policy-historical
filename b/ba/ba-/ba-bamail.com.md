@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ba-bamail.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229161218id_/http%3A//www.ba-bamail.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ba-bamail.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622140218id_/http%3A//www.ba-bamail.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - BabaMail
 
@@ -28,7 +28,7 @@ We collect information so that we can provide the best possible experience when 
 
 1) Create an account (Email address, name, age, gender and other technical information that is relevant)
 
-2) Request assistance from us via the [contact form](http://www.ba-bamail.com/contact.aspx). Or use email ([privacy@baba-mail.com](mailto:privacy@baba-mail.com)) to contact us.
+2) Request assistance from us via the [contact form](https://www.ba-bamail.com/contact.aspx). Or use email ([privacy@baba-mail.com](mailto:privacy@baba-mail.com)) to contact us.
 
 3) Click any of the links sent to you by email from us to either change preferences, edit your Baba-Mail profile and/or terminate your account.
 
@@ -91,9 +91,9 @@ To the extent we are legally permitted to do so, we will take reasonable steps t
 
 These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (ex: Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside.
 
-Though information collected does _not_ include personal data such as name, address, contact information, billing information, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies. You can control the technologies we use by managing your settings through our [Cookie Policy](http://www.ba-bamail.com/privacy.aspx) or the ‘cookie banners” that may be presented (depending on URL of website visited) when you first visit our webpages.
+Though information collected does _not_ include personal data such as name, address, contact information, billing information, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies. You can control the technologies we use by managing your settings through our [Cookie Policy](https://www.ba-bamail.com/privacy.aspx) or the ‘cookie banners” that may be presented (depending on URL of website visited) when you first visit our webpages.
 
-**Targeted advertisements:** Targeted ads or interest-based offers may be presented to you based on your activities on our webpages, and other websites, and based on the products you currently own. These offers will display as varying product banners presented to you while browsing. We also partner with third parties to manage our advertising on our webpages and other websites. Our third party partners may use technologies such as cookies to gather information about such activities in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) [or if located in the European Union click [here](http://www.youronlinechoices.eu/)]. Please note you will continue to receive generic ads.
+**Targeted advertisements:** Targeted ads or interest-based offers may be presented to you based on your activities on our webpages, and other websites, and based on the products you currently own. These offers will display as varying product banners presented to you while browsing. We also partner with third parties to manage our advertising on our webpages and other websites. Our third party partners may use technologies such as cookies to gather information about such activities in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness. If you wish to opt out of interest-based advertising click [here](https://preferences-mgr.truste.com/) [or if located in the European Union click [here](https://www.youronlinechoices.eu/)]. Please note you will continue to receive generic ads.
 
 **Third-party websites** : Our website and our mobile applications contain links to third-party websites. We are not responsible for the privacy practices or the content of third-party sites. Please read the privacy policy of any website you visit.
 
