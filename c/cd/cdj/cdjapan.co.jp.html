@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cdjapan.co.jp privacy policy that was archived on 2018-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223175033id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cdjapan.co.jp privacy policy that was archived on 2019-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190622024654id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns:og="http://ogp.me/ns#"><!--<![endif]--><head>
   <meta charset="UTF-8">
@@ -10,7 +10,7 @@
   <link rel="shortcut icon" href="http://st.cdjapan.co.jp/assets/img/cdj_favicon.ico" type="image/vnd.microsoft.icon">
   <link rel="apple-touch-icon-precomposed" href="http://st.cdjapan.co.jp/assets/img/webcrip_cdj.png">
 
-  <title>CDJapan : Privacy Policy</title>
+  <title>CDJapan : Privacy Policy (Personal Information Protection Policy)</title>
 
   <!--[if lt IE 9]>
       <script src="http://st.cdjapan.co.jp/assets/js/html5shiv.js"></script>
@@ -71,7 +71,7 @@
     <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/jquery.dotdotdot.min.js"></script>
     <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/jquery.scrolldepth.min.js"></script>
 
-    <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/main.20140319.js?v=18061201"></script>
+    <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/main.20140319.js?v=19011501"></script>
     <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/api.js?v=18072501"></script>
     <script type="text/javascript" src="//cdn.activity.bdash-cloud.com/tracking-script/bd-72ac9k/tracking.js?async=true" charset="UTF-8"></script>
 
@@ -88,7 +88,7 @@
     <meta property="og:description" content="">
 
     <meta name="description" content="">
-    <meta name="title" content="Privacy Policy">
+    <meta name="title" content="Privacy Policy (Personal Information Protection Policy)">
     <meta name="keywords" content="">
 
     <link title="Help" href="http://www.cdjapan.co.jp/guide/help/" rel="help">
@@ -103,6 +103,65 @@
       var nwapi = new neowing_api();
       var nwcar = new ProductCarousel();
       var nw_cust_info = undefined;
+    </script>
+
+    <script src="//media.richrelevance.com/rrserver/js/1.2/p13n.js"></script>
+    <script charset="utf-8" type="text/javascript">
+      var nwrr = new RichRelevance('cdj', 1);
+    </script>
+<script type="text/javascript">
+(function () {
+  var _cb = RR.jsonCallback;
+  RR.jsonCallback = function() {
+    _cb();
+    DisplayNewShoppers();
+  }
+}());
+
+  function DisplayNewShoppers() {
+    for (var key in RR.data.JSON.content) {
+      if ( RR.data.JSON.content[key]['placement_name'].match(/newshoppers/) ) {
+        var p = RR.data.JSON.content[key]['clickthrough_URL'].split("?", 2);
+        var p2 = p[1].split("&");
+        var newp = [];
+        for (var i in p2) {
+          if (!(p2[i].match(/^ct=/))) {
+            newp.push(p2[i]);
+          }
+        }
+        var linkElement = document.createElement("a");
+        linkElement.href = RR.data.JSON.content[key]['raw_url'];
+        linkElement.setAttribute('onclick',
+          "nwrr.log_click('" + p[0] + "?" + newp.join("&") +
+          "');ga('send', 'event', 'header-banner-eng-click', 'click', '" +
+          RR.data.JSON.content[key]['raw_url'].replace(/'/g,'%27') + "')");
+        linkElement.setAttribute('style',
+          'display:block;line-height:0;text-decoration:none;background-color:#'
+          + ( RR.data.JSON.content[key]['header_color'] || 'fff' ) );
+        var alt_txt = RR.data.JSON.content[key]['title'] || '';
+        var imgElement = document.createElement("img");
+          imgElement.src = RR.data.JSON.content[key]['asset_image_URL'] || '';
+          imgElement.title = alt_txt;
+          imgElement.alt = alt_txt;
+        linkElement.appendChild(imgElement);
+        var targetdiv = document.getElementById('newshoppers');
+        if ( targetdiv ) targetdiv.appendChild(linkElement);
+      }
+    }
+  }
+</script>
+
+    <script>
+      if (typeof set_newshoppers == "function") {
+        set_newshoppers();
+      } else {
+        nwrr.func.push(function(r3c){
+          r3c.addPlacementType('home_page.newshoppers');
+        });
+      }
+    </script>
+
+    <script type="text/javascript">
       $(function(){
         moment.lang('en');
         neowing_init();
@@ -126,14 +185,14 @@
                   modal.open();
                 }
               }
-              rich_req();
+              nwrr.rich_req(data);
            });
            $('.js-service-name').text('Account');
         } else {
           if ($.cookie('__stid')) {
             $.removeCookie('__stid');
           }
-          rich_req();
+          nwrr.rich_req();
         }
         $('.js-cart-count').text(nwapi.countCart());
          nwapi.transCurrency('.price-jp-yen', '.price-exchange');
@@ -151,93 +210,6 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-T78BL6X');</script>
-
-    <script src="//media.richrelevance.com/rrserver/js/1.2/p13n.js"></script>
-<script type="text/javascript">
-$(function() {
-  var _cb = RR.jsonCallback;
-  RR.jsonCallback = function() {
-    _cb();
-    DisplayNewShoppers();
-  }
-
-  function DisplayNewShoppers() {
-    for (var key in RR.data.JSON.content) {
-      if ( RR.data.JSON.content[key]['placement_name'].match(/newshoppers/) ) {
-        var p = RR.data.JSON.content[key]['clickthrough_URL'].split("?", 2);
-        var p2 = p[1].split("&");
-        var newp = [];
-        for (var i in p2) {
-          if (!(p2[i].match(/^ct=/))) {
-            newp.push(p2[i]);
-          }
-        }
-        var linkElement = document.createElement("a");
-        linkElement.href = RR.data.JSON.content[key]['raw_url'];
-        linkElement.setAttribute('onclick',
-          "rr.log_click('" + p[0] + "?" + newp.join("&") +
-          "');ga('send', 'event', 'header-banner-eng-click', 'click', '" +
-          RR.data.JSON.content[key]['raw_url'].replace(/'/g,'%27') + "')");
-        linkElement.setAttribute('style',
-          'display:block;line-height:0;text-decoration:none;background-color:#'
-          + ( RR.data.JSON.content[key]['header_color'] || 'fff' ) );
-        var alt_txt = RR.data.JSON.content[key]['title'] || '';
-        var imgElement = document.createElement("img");
-          imgElement.src = RR.data.JSON.content[key]['asset_image_URL'] || '';
-          imgElement.title = alt_txt;
-          imgElement.alt = alt_txt;
-        linkElement.appendChild(imgElement);
-        var targetdiv = document.getElementById('newshoppers');
-        if ( targetdiv ) targetdiv.appendChild(linkElement);
-      }
-    }
-  }
-});
-</script>
-    <script charset="utf-8" type="text/javascript">
-      var ck = GetCookies();
-      var R3_COMMON = new r3_common();
-      R3_COMMON.setApiKey('7acb638e84ceb389');
-      R3_COMMON.setBaseUrl(window.location.protocol+'//recs.richrelevance.com/rrserver/');
-      R3_COMMON.setClickthruServer(window.location.protocol+"//"+window.location.host);
-
-      function rich_req() {
-        r3_user(ck, nw_cust_info);
-        if ( typeof(nw_cust_info) != 'undefined' ) {
-          R3_COMMON.addSegment('LOGIN', 'Login');
-        }
-  if (typeof set_newshoppers == 'function') {
-    set_newshoppers(R3_COMMON);
-  } else {
-  R3_COMMON.addPlacementType('home_page.newshoppers');
-  }
-        rr_flush_onload();
-        r3();
-      }
-
-      function r3_user(ck, info) {
-        R3_COMMON.setSessionId(ck['cdj_spid'] || '1');
-        R3_COMMON.setUserId( (typeof(info) != 'undefined' && info.id) ? info.id : (ck['__stid'] || '') );
-      }
-
-      function GetCookies() {
-        var result = new Array();
-        var ck = document.cookie;
-        if ( ck != '' ) {
-          var cookies = ck.split( '; ' );
-          for ( var i = 0; i < cookies.length; i++ ) {
-            var cookie = cookies[ i ].split( '=' );
-            result[ cookie[ 0 ] ] = decodeURIComponent( cookie[ 1 ] );
-          }
-        }
-        return result;
-      }
-      var rr = rr || {};
-      rr.log_click = function (url) {
-        var img = new Image();
-        img.src = url;
-      };
-    </script>
 
     <script type="text/javascript">
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -507,8 +479,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="content_header" id="newshoppers"></div>
 <div class="row sdw">
   <ul class="small-breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
-  <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/" itemprop="item"><span itemprop="name">CDJapan</span></a></li>
-  <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="http://www.cdjapan.co.jp/guide/help/" itemprop="item"><span itemprop="name">Help Desk</span></a></li>
+  <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="http://www.cdjapan.co.jp/" itemprop="item"><span itemprop="name">CDJapan</span></a><meta itemprop="position" content="1"></li>
+  <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="http://www.cdjapan.co.jp/guide/help/" itemprop="item"><span itemprop="name">Help Desk</span></a><meta itemprop="position" content="2"></li>
   <li>Privacy Policy
 </li>
   </ul>
@@ -522,122 +494,114 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
   <article class="article">
     <header>
-      <h1 class="hl">Privacy Policy</h1>
+      <h1 class="hl">Privacy Policy (Personal Information Protection Policy)</h1>
     </header>
 
 
     <div class="article-body">
-      <p>Recognizing and understanding the importance of your privacy, CDJapan (Neo Wing Co.) commits itself to protecting the security of your personal information with utmost care as detailed in this Privacy Policy. By using our website, you are accepting the terms and conditions of this Privacy Policy.</p>
-
-<p><a name="1" id="1"></a></p>
-
-<h2>Personal Information</h2>
-
-<p>Personal information is defined in this Privacy Policy as any information, or any combination of information that can be used to identify an individual.</p>
-
-<p><a name="2" id="2"></a></p>
-
-<h2>How We Collect Your Information</h2>
-
-<p>We collect and store your personal information you enter on our website, including your name, gender (optional), date of birth (optional), shipping address, billing address, phone number, email address, and credit card details. Some other information may be collected and stored automatically, including records and details of your orders, IP (Internet protocol) address, and URL (Uniform Resource Locator) of the website from which our website is linked. We may be affiliated with third-party companies for jointly providing certain types of services, and such companies may provide us with personal information, but it will not be without your prior consent. As of April 1, 2005, we do not collect personal information from any third party for services we provide at cdjapan.co.jp.</p>
-
-<p><a name="3" id="3"></a></p>
-
-<h2>How We Use Your Information</h2>
-
-<p>Information we collect is used only and strictly for the purposes of providing our services, processing orders, and for providing customer support whenever it is needed. We may also use the information we collect to perform statistical analysis and to monitor online activities in order to improve the quality of our website and services.</p>
-
-<p><a name="4" id="4"></a></p>
-
-<h2>Releasing Personal Information</h2>
-
-<p>We may release personal information in circumstances in which we reasonably believe it is appropriate for complying with law, or for protecting the rights, safety, and property of CDJapan (Neo Wing Co.), our users, or others. Also, we may share personal information with third-party companies as detailed in Sharing Personal Information With Third Parties. Otherwise, we do not release any personal information to others for any purpose or reason.</p>
-
-<p><a name="5" id="5"></a></p>
-
-<h2>Sharing Personal Information With Third Parties</h2>
-
-<p>To make certain aspects of our services possible, third-party companies may work on our behalf to perform certain functions. Also, some companies may extend their own membership programs through us. We share personal information with such third parties only to an extent that allows them to perform their functions for us, or to extend their membership programs as detailed below. In each case, the third party involved is contractually obligated to protect the confidentiality and the security of the personal information we share, and they are also contractually prevented to use personal information we share for any other purpose.</p>
-
-<h3>Credit Card Companies</h3>
-
-<p>Credit card companies and their vendors process credit card payments. We share credit card details, and other personal information necessary, in some cases, for processing credit card payments.</p>
-
-<h3>Delivery Companies</h3>
-
-<p>Delivery companies deliver packages we ship. Also, delivery companies collect payments in case Cash on Delivery is selected as the payment method (available only for orders to be delivered within Japan). We only share personal information necessary for delivery and collection of payments.</p>
-
-<h3>Providers of Membership Programs</h3>
-
-<p>In affiliation with cdjapan.co.jp, providers of membership programs may extend their own membership programs through our website. We share personal information with such providers only to an extent necessary for the administration of the membership programs.</p>
-
-<p><a name="6" id="6"></a></p>
-
-<h2>Protecting Your Personal Information</h2>
-
-<ul>
-<li>We implement a number of technological measures against unauthorized access and computer viruses to ensure loss, corruption, alteration, and theft of personal information are effectively prevented.</li>
-<li>Your personal information is protected by your password.</li>
-<li>We use a technology called SSL (Secure Socket Layer) to encrypt your personal information when you enter it on our website, and when you place your order. The technology effectively prevents theft and alteration of your personal information when it's transmitted over the Internet.</li>
-</ul>
+      Privacy Policy (Personal Information Protection Policy)
 
 
-<p><a name="7" id="7"></a></p>
+Neowing corporation (hereinafter referred to as "the Company"), hereby declares that, in order for customers to use the services of the Company, such as mail order sales and the provision of digital content via the internet, with peace of mind, the Company is aware of the importance of personal information, shall adhere to laws and regulations on the protection of personal information, has prescribed the policy set forth below, has established a personal information protection management system for the realization of this policy, and shall implement, maintain, and improve this.<br>
+<br>
+The Company shall clearly prescribe the purpose of use when acquiring personal information that will be used in its business, shall indicate this purpose, and shall only obtain that of content within the range required for the achievement of the purpose of use. In addition, after personal information has been obtained, it shall not be used for any purpose other than that presented at the time of acquisition. The Company shall conduct thorough education on its employees, etc. in order to ensure that personal information is not used outside of its purpose of use.<br>
+<br>
+The Company, in regard to the personal information provided for use in the business of the Company, shall adhere to laws, regulations, governmental policies, and other rules on the handling of personal information. Furthermore, the Company has established a personal information management system that conforms with Japanese Industrial Standard "Personal information protection management systems - Requirements" (JIS Q15001), and protects personal information.<br>
+<br>
+The Company shall sufficiently analyze and maintain awareness of the risks relating to the personal information handled by the Company, and shall take measures to prevent and rectify the leakage, loss, or damage of personal information.<br>
+<br>
+In the event of receiving a complaint or inquiry regarding the handling of personal information, the Company shall promptly investigate the relevant facts, etc. relating to this, and shall respond in good faith within a reasonable period.<br>
+<br>
+The Company shall keep in mind trends in network technology, public opinion regarding the protection of personal information, as well as the content of opinions and complaints, etc. received from its customers, and shall continually improve the personal information protection management system.<br>
+<br>
+<div style="text-align:right">
+Established March 23, 2006<br>
+Amended May 25, 2018<br>
+Neowing corporation<br>
+Representative Director Fumio Katagiri</div>
+<br>
+<div style="margin-left:2em">
+<h3>Inquiries</h3>
+Personal Information Complaint and Inquiry Help Desk, Neowing corporation<br>
+3F, JL Nihonbashi Building, 1-10-15, Nihonbashi Horidome-cho, Chuo-ku,<br>
+Tokyo 103-0012<br>
+e-mail: info-pro@neowing.co.jp<br>
+Telephone: 03-3665-4947 (Business hours: Weekdays 10:00–18:00)</div>
+<br>
+<h2>Handling of Personal Information</h2>
+<ol>
+<li>Business Operator Handling Personal Information<br>
+Neowing Corporation.</li>
+<li>Personal Information Protection Manager<br>
+Group Leader, Business Supervisory Group</li>
 
-<h2>Cookies</h2>
+<li>Purposes of Use of Personal Information<br>
+ <ol style="list-style-type: lower-latin">
+  <li>Member management</li>
+  <li>Acceptance of orders</li>
+  <li>Packing and shipping of products, etc.</li>
+  <li>Collection of bill through credit card payments or cash on delivery, etc.</li>
+  <li>Transmission of email magazine</li>
+  <li>Transmission of notification emails concerning promotions and information on new products, etc.</li>
+  <li>Response to various inquiries and after sales service</li>
+  <li>Notifications on matters required for the operation of the website</li>
+  <li>Provision of a points service, etc.</li>
+  <li>Packing and shipping of products, etc. by gift delivery requests</li>
+</ol>
+In addition, the Company, for the improvement of its services, may use personal information by collecting and referencing it as statistical information in a form by which an individual cannot be identified or specified.</li>
 
-<p>We store small pieces of information called Cookies on the hard drive of your computer. Cookies enable our system to recognize your browser each time you visit our website, and make it possible for items to be stored in your shopping cart. By changing the settings of your browser, you can choose to disable it from accepting Cookies. However, disabling Cookies makes certain features of our website, such as placing orders, unavailable.</p>
+<li>Contracting of the Handling of Personal Information<br>
+The Company, when providing shipping and bill collection, etc. services, may entrust all or a part of the handling of the personal information provided by the customer to a credit card company, payment systems provider, or delivery company, etc. When entrusting the handling of personal information, the Company shall select companies that protect personal information to a sufficient standard, and shall take the appropriate measures, such as through the execution of a contract.</li>
 
-<p><a name="8" id="8"></a></p>
-
-<h2>Your Rights</h2>
-
-<p> We acknowledge your rights to disclose, make changes to, discontinue the use of, and delete your own personal information we have collected, and when demanded or requested, we respond without objection, as soon as possible.</p>
-
-<p>Also, you can view and make changes to your information by signing into <a href="https://www.cdjapan.co.jp/member/zolar/customer/acc_login?dest=menu">Customer Account</a>.</p>
-
-<p>If you have any questions or suggestions, please contact us by  <a href="mailto:info@cdjapan.co.jp">email</a>.</p>
-
-<p><a name="9" id="9"></a></p>
-
-<h2>Frameworks for Enforcement</h2>
-
-<ul>
-<li>We assign CPO(Chief Privacy Officer) to enforce effective protection of the security of personal information.</li>
-<li>Through training of the employees, as well as board members, we enforce strict handling and management of personal information in appropriate manners.</li>
-</ul>
-
-
-<p><a name="10" id="10"></a></p>
-
-<h2>Compliance Program</h2>
-
-<p>CDJapan (Neo Wing Co.) complies with all applicable laws and regulations of Japan pertaining to the protection of personal information and continues to review and make efforts to improve its compliance program, including this Privacy Policy.</p>
-
-<p><a name="10" id="11"></a></p>
-
-<h2>Privacy Protection for EEA Users (Updated: May 5, 2018 )</h2>
-
-<p>For users receiving orders in the EEA (European Economic Area), that is, the EU (European Union) countries, Iceland, Liechtenstein and Norway, please be advised of the following additional terms.</p>
-
-<p>Your user data are being transferred and kept on a server located in JAPAN, managed and maintained by CDJapan (Neowing Corporation). Although the Council of Europe has not yet approved the Japanese data protection standard, CDJapan (Neowing Corporation) will manage and use these data appropriately and in a responsible way.</p>
-
-<p>CDJapan does not intend to collect and or exchange personal information of underaged individuals. Any personal information regarding a person under the age of 13 received without the permission from a legal guardian is to be removed from our server immediately at the time of discovery.</p>
-
-<p>Upon request, the user may access, modify and delete the data submitted, please contact us at info@cdjapan.co.jp for further information. After agreeing to this policy, the user retains the right to terminate the agreement (see the ‘Termination’ section below) at will, and to report any mishandling of personal data by CDJapan (Neowing Corporation) to the relevant EEA authority.</p>
-
-<p><a name="10" id="12"></a></p>
-
-<h2>Termination</h2>
-
-<p>Termination of this agreement implies the COMPLETE removal of its correlated user account and the information contained within. Similarly, the removal of a user account*, would also terminate the agreement between CDJapan (Neowing Corporation) and its respective user.</p>
-
-<p>*For security purposes, CDJapan reserves the right to remove malicious accounts at its own discretion.</p>
-
-<p>Established: April 1, 2005
-Last Updated: May 5, 2018
-Fumio Katagiri
-President, Neo Wing Co.</p>
+<li>Handling of Credit Card Information<br>
+The Company shall handle the credit card information provided by the customer in accordance with the following.<br>
+  <ol style="list-style-type: lower-roman">
+   <li>Purpose of use: Payment for purchased products</li>
+   <li>Name of party obtaining information: Neowing corporation</li>
+   <li>Recipients of information: Various payment providers and payment agents</li>
+   <li>Storage period: Payment agent GMO Payment Gateway, Inc.’s "PG Multipayment Service" is used for credit card payment and registration. None of the credit card information of customers is stored at the Company.</li>
+  </ol>
+ </li>
+<li>Personal Information Security<br>
+Registered information of the customer, for the protection of privacy and security, is password protected. In addition, this website uses software called SSL (Secure Socket Layer) for security when customer information is transmitted. The use of SSL allows transmission of the customer’s personal information and credit card details, etc. from the customer’s PC to the server in encrypted form, and prevents the theft or tampering, etc. of information, thereby allowing for personal information to be transmitted securely via the internet.</li>
+<li>Cookies<br>
+The website uses a technology called cookies. Cookies are a mechanism for temporarily storing specific information required for communications on the personal computer used by the customer as data, and identifying the customer based on this data each time that the customer connects to the website. The Company uses cookies for shopping cart and login management. Therefore, if a customer does not permit the use of cookies, a part of the Company’s services may become unavailable. Whether or not to allow use of cookies can be set on the customer’s browser. We ask that customers check their settings as necessary.</li>
+<li>Procedures for the Disclosure, etc. of Personal Information<br>
+The Company is aware that customers have the right to request the disclosure, notification on purpose of use, amendment, addition, deletion, suspension of use, and suspension of provision to third parties, etc. of personal information (hereinafter referred to as "Disclosure, etc."), and if it receives such a request from a customer, shall promptly respond to this without objection. Customers are asked to direct inquiries on the specific procedures for this to the help desk stated below. It should be noted that the fee specified by the Company may be charged for requests for the disclosure of personal information and notification of the purpose of use of personal information; the Company asks for the understanding of its customers.</li>
+<li>Collection of Information from Minors<br>
+The Company shall not consciously collect personal information from minors under the age of thirteen. In the event of a minor under the age of thirteen providing personal information to the Company without the consent of their parent or guardian, the parent or guardian of the child may make a request to the Company by email for the deletion of information of said minor from the Company’s database, and for the stopping of the provision of information on services to the minor.<br>
+Please contact the help desk stated below for inquiries concerning this.<br>
+<br>
+<div style="margin-left:2em">
+Personal Information Complaint and Inquiry Help Desk, Neowing corporation<br>
+3F, JL Nihonbashi Building, 1-10-15, Nihonbashi Horidome-cho, Chuo-ku, Tokyo 103-0012<br>
+e-mail: info-pro@neowing.co.jp<br>
+Telephone: 03-3665-4947 (Business hours: Weekdays 10:00–18:00)</div>
+<br>
+Member information can be checked and changed, etc. from the URL below instead of making a request as described above:
+<h3 style="margin-left:1em"><a href="https://www.cdjapan.co.jp/z/my/">Click here to check or change, etc. member information (with link)</a></h3>
+</li>
+<li>Inquiries and complaints regarding the handling of personal information<br>
+Customers are asked to direct any opinions, complaints, questions, or inquiries regarding the handling of personal information by the Company to its Personal Information Complaint and Inquiry Help Desk stated above.</li>
+</ol>
+<br>
+The Accredited Personal Information Protection Organization Joined by the Company<br>
+<br>
+The Company is a member of the Japan Institute for Promotion of Digital Economy and Community, which has been certified as an accredited personal information protection organization based on Article 37 of the Act on the Protection of Personal Information. Customers are asked to address complaints regarding the handling of personal information by the Company to this institute.<br>
+<br>
+<div style="margin-left:2em">
+Japan Institute for Promotion of Digital Economy and Community<br>
+Personal Information Protection Complaint and Inquiry Office<br>
+Address: 12F, Roppongi First Building, 1-9-9, Roppongi, Minato-ku, Tokyo 106-0032<br>
+Telephone: 03-5860-7565<br>
+Toll-free telephone number: 0120-700-779</div>
+<br>
+<h2>Protection of Personal Information of Customers in an EEA Member Country</h2>
+Customers residing within an EEA member country, which comprises of European Union (EU) member countries, Iceland, Liechtenstein, and Norway, are asked to bear the following additional terms in mind:<br>
+<br>
+Customers' personal information is forwarded to a server in Japan, where it is stored. Japan conforms to the standards for data protection sent by the European Commission, and all personal data received by the Company is accordingly handled.<br>
+<br>
+The Customer may make a request to the Company to access their personal data, correct inaccurate personal data, and delete personal data. Contact info@cdjapan.co.jp for further information. Furthermore, in the event of being unsatisfied by the Company’s handling of personal information, a customer may file a complaint with a regulatory authority of an EEA member country.
 
     </div>
 
@@ -656,7 +620,7 @@ President, Neo Wing Co.</p>
 <h3>Privacy Policy</h3>
 
 <ul>
-     <li><a href="http://www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy">Privacy Policy</a></li>
+     <li><a href="http://www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy">Privacy Policy (Personal Information Protection Policy)</a></li>
 </ul>
 
 </div>
@@ -744,7 +708,7 @@ President, Neo Wing Co.</p>
           <li>
             <h3 class="shop-menu-title">
               <i class="icon-nw-wa"></i>
-              <a href="http://www.cdjapan.co.jp/wa/"><span>Japanese Craft</span></a>
+              <a href="http://www.cdjapan.co.jp/wa/"><span>Life Style</span></a>
             </h3>
           </li>
           <li>
@@ -852,7 +816,7 @@ President, Neo Wing Co.</p>
     </div>
 
   </div>
-  <div class="copyright">© 2003-2018 Neowing. All Rights Reserved.</div>
+  <div class="copyright">© 2003-2019 Neowing. All Rights Reserved.</div>
 </footer>
   
 
