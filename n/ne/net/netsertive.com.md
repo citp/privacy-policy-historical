@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netsertive.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229101415id_/https%3A//www.netsertive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsertive.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622052802id_/https%3A//www.netsertive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Netsertive
+# Privacy Policy | Netsertive
 
 ### Last Updated: 5.25.18
 
