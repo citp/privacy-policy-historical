@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancer.ph privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005150321id_/https%3A//www.freelancer.ph/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancer.ph privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622023428id_/https%3A//www.freelancer.ph/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Freelancer
 
