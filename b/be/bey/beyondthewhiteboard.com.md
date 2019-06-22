@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beyondthewhiteboard.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217114058id_/http%3A//beyondthewhiteboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondthewhiteboard.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622032456id_/https%3A//beyondthewhiteboard.com/privacy) for the most accurate reproduction.*
 
 # Beyond The Whiteboard - Privacy Policy - beyond the whiteboard
 
-### Last Updated: November 28, 2018
+### Last Updated: December 17, 2018
 
-This Privacy Policy (" **Policy** ") describes the policies and practices of BadPopcorn, Inc. d/b/a Beyond The Whiteboard, a California corporation (" **we** " or " **us** ") as to the collection, use and disclosure of information that we collect from you when you visit, access, use or download Company's website located at [https://beyondthewhiteboard.com](https://beyondthewhiteboard.com/) (the "Website") and/or Company's " **CrossFit btwb** " mobile software applications on the Android and iOS platforms (together, this policy refers to these mobile apps and our website as the " **Service** "). By visiting, accessing, using, downloading or creating an account with the Service, you agree to be bound by our [Mobile Application and Website User Agreement](https://beyondthewhiteboard.com/terms). We will not use or share your Collected Information (as defined below) with anyone except as described in this Policy. 
+This Privacy Policy (" **Policy** ") describes the policies and practices of BadPopcorn, Inc. d/b/a Beyond The Whiteboard, a California corporation (" **we** " or " **us** ") as to the collection, use and disclosure of information that we collect from you when you visit, access, use or download our (1) website(s) located at [https://beyondthewhiteboard.com](https://beyondthewhiteboard.com/), [https://btwb.com](https://btwb.com/) and [https://crossfitbtwb.com](https://crossfitbtwb.com/) (such websites collectively the " **Website** ") and/or (2) mobile software applications on the Android and iOS platforms, made available to the public under the names **_Beyond The Whiteboard_** and **_CrossFit btwb_**. Together, this Policy refers to these mobile apps and our Website as the " **Service** "). By visiting, accessing, using, downloading or creating an account with the Service, you agree to be bound by our [Mobile Application and Website User Agreement](https://beyondthewhiteboard.com/terms). We will not use or share your Collected Information (as defined below) with anyone except as described in this Policy. 
 
 ###  The Purpose of the Policy 
 
@@ -31,7 +31,7 @@ We use Collected Information to deliver services to you, and for communicating w
 
 We will not sell, rent, license or disclose Collected Information to anyone, except: 
 
-  1. to Partners (as defined in our Mobile Application and Website User Agreement); 
+  1. to Partners (as defined in our [Mobile Application and Website User Agreement](https://beyondthewhiteboard.com/terms)); 
   2. where necessary for us to work with other third-party companies that we use to provide the Service (" **Third-Party Services** ," detailed below); 
   3. in response to a court order or where required by law; 
   4. to investigate suspected fraud, harassment or illegal conduct, or suspected violations of our [Mobile Application and Website User Agreement](https://beyondthewhiteboard.com/terms); or 
@@ -39,7 +39,7 @@ We will not sell, rent, license or disclose Collected Information to anyone, exc
 
 
 
-Pursuant to our agreement with CrossFit, Inc., a Delaware corporation (" **CrossFit** "), we may share some of your Collected Information with CrossFit without separate prior notice to you. If we do so, we will only share your Collected Information in anonymized form (i.e. in a way that does not allow CrossFit or any other person or organization to determine your personal identity) and we will not share any of your financial payment information. CrossFit may (by itself or together with us) publish reports about the behavior of our users based on the information that we may share with CrossFit. Any such reports would not be able to identify any particular one of our members personally (by name or otherwise) because of our policy against sharing non-anonymized information with CrossFit or any other third party. 
+Pursuant to our agreement with CrossFit, Inc., a Delaware corporation (" **CrossFit** "), we may also share some of your Collected Information with CrossFit without separate prior notice to you. If we do so, we will only share your Collected Information in anonymized form (i.e. in a way that does not allow CrossFit or any other person or organization to determine your personal identity) and we will not share any of your financial payment information. CrossFit may (by itself or together with us) publish reports about the behavior of our users based on the information that we may share with CrossFit. Any such reports would not be able to identify any particular one of our members personally (by name or otherwise) because of our policy against sharing non-anonymized information with CrossFit or any other third party. 
 
 ###  Third-Party Services 
 
