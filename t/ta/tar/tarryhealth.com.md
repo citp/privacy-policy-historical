@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tarryhealth.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127145159id_/http%3A//www.tarryhealth.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tarryhealth.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622091518id_/http%3A//www.tarryhealth.com/policy) for the most accurate reproduction.*
 
 # policy | Tarry Health
 
