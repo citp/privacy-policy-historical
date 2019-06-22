@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techblaster.net privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109181158id_/http%3A//www.techblaster.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techblaster.net privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622164009id_/http%3A//www.techblaster.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Techblaster.NETTechblaster.NET
+# Privacy Policy | Make Money Online by Blogging
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at newgenerationtechniques@gmail.com.
 
