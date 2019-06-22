@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bouldercolorado.gov privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231185028id_/https%3A//bouldercolorado.gov/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bouldercolorado.gov privacy policy that was archived on 2019-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190622194445id_/https%3A//bouldercolorado.gov/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox canvas canvastext no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <meta charset="utf-8">
@@ -49,12 +49,14 @@
 <title>Privacy Policy</title>
 <meta name="keywords" content="city, policies, privacy policy, ">
 <meta name="description" content="Introduction Thank you for visiting the City of Boulder, Colorado website and reviewing the Privacy Policy. We are committed to the privacy">
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" href="/favicon.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/css/bootstrap.css" media="screen">
 <link rel="stylesheet" href="/css/jquery-ui/css/ui-lightness/jquery-ui-1.10.3.custom.css" media="screen">
 <link rel="stylesheet" href="/css/custom.css" media="screen">
 <link rel="stylesheet" href="/css/jquery.qtip.min.css" media="screen">
@@ -62,24 +64,28 @@
 <link rel="stylesheet" href="/css/print.css" media="print">
 <link rel="stylesheet" href="/css/font-awesome.css" media="screen">
 <link rel="stylesheet" href="/css/jquery-ui-timepicker-addon.css" media="screen">
+<link rel="stylesheet" href="/css/dataTables.bootstrap4.min.css" media="screen">
 <link rel="stylesheet" href="/photo-gallery/www/css/photos.css" media="screen">
 <script src="/js/libs/modernizr-2.8.3.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="/js/jquery-3.3.1.js"></script>
+<script src="/js/jquery-migrate-3.0.1.js"></script>
+<script src="/js/bootstrap.bundle.js"></script>
 <script src="/js/jquery.cookie.js"></script>
 <script src="/js/libs/jquery-ui-1.10.3.custom.min.js"></script>
-<script src="/js/jquery.jcarousel.min.js"></script>
 <script src="/js/jquery.flexslider.js"></script>
 <script src="/js/jquery.tablesorter.min.js"></script>
 <script src="/js/layout_scripts.js"></script>
 <script src="/js/jquery.validate.min.js"></script>
 <script src="/js/jquery-ui-timepicker-addon.js"></script>
 <script src="/js/jquery.qtip.min.js"></script>
+<script src="/js/jquery.dataTables.min.js"></script>
+<script src="/js/dataTables.bootstrap4.min.js"></script>
 
 
 <script type="text/javascript">
-    	        
+
         // Script for view full site button, placed here to keep firefox for mobile devices happy
-        $(function () {
+        /*$(function () {
             if (isResponsive == "yes") {
                 document.getElementById('view-full').className = 'mobile_only fullsite';
             }
@@ -87,7 +93,7 @@
                 document.getElementById('view-full').innerHTML = 'View Mobile Optimized';
                 document.getElementById('view-full').className = '';
             }
-        });
+        });*/
         // Call the leave notice function for outbound links
 		jQuery(function() {
             jQuery('#slide_buttons a').leaveNotice();
@@ -143,21 +149,24 @@
 			    return false;
 			});
         });
-        
-    
+
     $(document).ready(function() 
-    { 
-        // To prevent flash of unstyled minibanner
-        $('#jcarousel-loading').hide(); 
-        $('#slide_buttons').css('visibility', 'visible'); 
-        $('#slide_buttons').jcarousel({ 
-        });
-        
+    {
+        // Check for existence of minibanners
+        if($('#slide_buttons').length != 0) {
+            // To prevent flash of unstyled minibanner
+            $('#jcarousel-loading').hide();
+            $('#slide_buttons').css('visibility', 'visible');
+            //$('#slide_buttons').jcarousel({});
+        }
+
         // Calendar events loader
-        $('.int-calendar .cal td>a').click(function () {
-             //alert($(this).find('.day-events-table').html())
+        $('.int-calendar .cal td>a').on("click", function() {
+            //alert($(this).parent().find('.day-events-table').html());
             $('#dynamic-event-list').html($(this).parent().find('.day-events-table').html());
         });
+
+
 
     });    
                   
@@ -295,37 +304,32 @@
 </div>
 </div>
 
-<div id="sitewrapper">
-<div id="mainSpan">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-12" id="mainSpan">
 
-<nav id="skipnav">
-<a href="#pagebody"><img alt="Skip to page body" src="/img/spacer.gif"></a>
-<a title="Home" href="/"><img alt="Home" src="/img/spacer.gif"></a>
-<a title="I want to..." href="/i-want-to"><img alt="I want to..." src="/img/spacer.gif"></a>
-<a title="A to Z" href="/a-to-z"><img alt="A to Z" src="/img/spacer.gif"></a>
-<a title="Government" href="/government"><img alt="Government" src="/img/spacer.gif"></a>
-<a title="Environment" href="/environment"><img alt="Environment" src="/img/spacer.gif"></a>
-<a title="Trails and Recreation" href="/trails-and-recreation"><img alt="Trails and Recreation" src="/img/spacer.gif"></a>
-</nav>
-<header id="siteheader" class="clearfix">
+<div class="row">
+<div class="col-md-12 p-0 clearfix" id="siteheader">
 <a id="home_link" href="/">Home</a><a id="sitemap_link" href="/a-to-z" class="mobile_only">A to Z</a><a id="contact_link" href="/main-city-contact-numbers" class="mobile_only">Contact</a>
 <aside id="top_nav"><a href="/calendar">Calendar</a> | <a href="/human-resources/jobs">Jobs</a> | <a href="/maps">Maps</a> | <a href="/main-city-contact-numbers">Contact Us</a></aside>
 
 <aside id="weather">
-<img src="/img/weather_icons/snowy.png" alt="weather_icon">Dec 31 - Light Snow, <span>16º</span> </aside>
+<img src="/img/weather_icons/cloudy2.png" alt="weather_icon">Jun 22 - Overcast, <span>55º</span> </aside>
 <aside id="searchbox" class="clearfix">
 <form name="header-search" action="/search/" autocomplete="off">
 <label style="display: none;" for="q3">Search</label>
-
-<input type="text" title="Search" id="q3" name="q">
+<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" title="Search" id="q3" name="q" class="ui-autocomplete-input" autocomplete="off">
 <button title="Search" type="submit" id="search_text" class="search_button"><span class="hidden">Search</span></button>
 </form>
 </aside>
-</header>
-<div id="sitebody" class="standardpage  clearfix">
+</div>
+</div>
+<div id="sitebody" class="container-fluid ">
+<div class="row">
+<div class="col-md-12" id="mainnav-detailpage">
 <nav id="mainnav">
 <h2 class="mobile_header mobile_only closed">Main Menu</h2>
-<ul class="clearfix" id="dropdownmenu">
+<ul>
 <li class="first"><a href="/">Home</a></li>
 <li><a href="/i-want-to">I Want To...</a></li>
 <li><a href="/a-to-z">A to Z</a></li>
@@ -334,25 +338,28 @@
 <li class="last"><a href="/trails-and-recreation">Trails and Recreation</a></li>
 </ul>
 </nav>
+</div>
+</div>
 
+<div class="row">
 <a id="pagebody"></a>
 
-<div id="page_content" class="hasrightcol clearfix">
+<div id="page_content" class="col-md-9">
 
 
-<div id="slide_buttons">
-<ul class="slides clearfix">
-<li><a href="/engage"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/button3-201302131019.jpg" width="118" height="82" alt="Participate &amp; Engage"></a></li>
-<li><a href="/business"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/button1_over-201302131451.jpg" width="118" height="82" alt="Doing Business Over"></a></li>
-<li><a href="http://user.govoutreach.com/boulder/faq.php"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/inquire-boulder-201305170721.jpg" width="118" height="82" alt="Inquire Boulder"></a></li>
-<li><a href="/visitors"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/button1-201302130847.jpg" width="118" height="82" alt="Explore Boulder"></a></li>
-<li><a href="http://user.govoutreach.com/boulder/faq.php?cid=21446"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/contact-council-201307031308.jpg" width="118" height="82" alt="Contact City Council"></a></li>
-<li><a href="/open-data"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/open-data-buttons-201309031035.jpg" width="118" height="82" alt="Open Data Catalog"></a></li>
-<li><a href="/public-safety"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/public-safety-blue-201307031304.jpg" width="118" height="82" alt="Public Safety"></a></li>
-<li><a href="http://www.boco911alert.com/"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/emergency-alert-buttons-201403140819.jpg" width="118" height="82" alt="Emergency Alert Sign Up"></a></li>
-<li><a href="/central-records/document-archive"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/records-buttons-201307151125.jpg" width="118" height="82" alt="Online Records Access"></a></li>
-</ul>
-</div>
+<div id="slide_buttons" style="visibility: visible;">
+
+<div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 1800%; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);">
+<li style="width: 118px; float: left; display: block;"><a href="/engage"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/button3-201302131019.jpg" width="118" height="82" alt="Participate &amp; Engage"></a></li>
+<li style="width: 118px; float: left; display: block;"><a href="/business"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/button1_over-201302131451.jpg" width="118" height="82" alt="Doing Business Over"></a></li>
+<li style="width: 118px; float: left; display: block;"><a href="http://user.govoutreach.com/boulder/faq.php"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/inquire-boulder-201305170721.jpg" width="118" height="82" alt="Inquire Boulder"></a></li>
+<li style="width: 118px; float: left; display: block;"><a href="/visitors"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/button1-201302130847.jpg" width="118" height="82" alt="Explore Boulder"></a></li>
+<li style="width: 118px; float: left; display: block;"><a href="http://user.govoutreach.com/boulder/faq.php?cid=21446"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/contact-council-201307031308.jpg" width="118" height="82" alt="Contact City Council"></a></li>
+<li style="width: 118px; float: left; display: block;"><a href="/open-data"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/open-data-buttons-201309031035.jpg" width="118" height="82" alt="Open Data Catalog"></a></li>
+<li style="width: 118px; float: left; display: block;"><a href="/public-safety"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/public-safety-blue-201307031304.jpg" width="118" height="82" alt="Public Safety"></a></li>
+<li style="width: 118px; float: left; display: block;"><a href="http://www.boco911alert.com/"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/emergency-alert-buttons-201403140819.jpg" width="118" height="82" alt="Emergency Alert Sign Up"></a></li>
+<li style="width: 118px; float: left; display: block;"><a href="/central-records/document-archive"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/records-buttons-201307151125.jpg" width="118" height="82" alt="Online Records Access"></a></li>
+</ul></div><ul class="flex-direction-nav"><li><a title="Click to tab to the left" class="flex-prev" href="#">Previous</a></li><li><a title="Click to tab to the right" class="flex-next" href="#">Next</a></li></ul></div>
 
 <article class="page_article">
 <header class="page_header">
@@ -429,7 +436,7 @@ Feedback</h2>
 </div>
 </article>
 </div> 
-<aside id="right_col">
+<aside class="col-md-3" id="right_col">
 <article class="brown_box clearfix">
 <section class="column">
 <h2>Related Links</h2>
@@ -440,9 +447,10 @@ Feedback</h2>
 </ul>
 </section>
 </article>
-</aside></div>
+</aside> </div> 
 </div>
-<footer id="sitefooter" class="clearfix">
+</div>
+<footer id="sitefooter">
 <ul id="social_icons">
 <li><a href="https://www.facebook.com/bouldercolorado.gov" title="Facebook">Facebook</a></li>
 <li><a href="https://twitter.com/bouldercolorado" title="Twitter">Twitter</a></li>
@@ -455,7 +463,7 @@ Feedback</h2>
 <li><a href="/main-city-contact-numbers" title="Email">Email</a></li>
 </ul>
 <p class="footer_copyright">
-© 2018 City of Boulder | <a href="/privacy-policy">Privacy Policy</a> | <a href="/disclaimer">Disclaimer</a> | <a href="/information-technology/about-this-website">About</a> | <a href="/admin">Admin</a></p>
+© 2019 City of Boulder | <a href="/privacy-policy">Privacy Policy</a> | <a href="/disclaimer">Disclaimer</a> | <a href="/information-technology/about-this-website">About</a> | <a href="/admin">Admin</a></p>
 <div>1777 Broadway, Boulder CO 80302 | 303-441-3388</div>
 <div id="google_translate_element"></div>
 <script type="text/javascript">
@@ -474,11 +482,7 @@ function googleTranslateElementInit() {
 		}, 1000);
 
 		</script> 
-<!--[if lt IE 6 ]>
-			<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
-			<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
-		<![endif]-->
-<a id="view-full" class="mobile_only" onclick="viewfullsite()" href="javascript:void(0);">View Full Site</a>
+</div>
 </div>
 
-</body></html>
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul></body></html>
