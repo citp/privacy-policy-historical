@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the laravelinterviewquestions.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205093516id_/http%3A//www.laravelinterviewquestions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laravelinterviewquestions.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622121827id_/http%3A//www.laravelinterviewquestions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Laravel Interview Questions
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **sharadjaiswal1411@gmail.com**.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **sharadjaiswal1411@gmail.com**. 
 
 At www.laravelinterviewquestions.com, the privacy of our visitors is very important to us. This privacy policy document outlines the types of personal information is received and collected by www.laravelinterviewquestions.com and how it is used.
 
@@ -23,7 +23,7 @@ www.laravelinterviewquestions.com does use cookies to store information about vi
 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
-**Google Adsense**  
+ **Google Adsense**  
 and
 
 **InfoLinks**  
