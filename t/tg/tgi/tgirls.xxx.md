@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tgirls.xxx privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222082430id_/http%3A//www.tgirls.xxx/compliance/privacypolicy.php%3Fsite%3DTGirls.XXX) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgirls.xxx privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622231034id_/http%3A//www.tgirls.xxx/compliance/privacypolicy.php%3Fsite%3DTGirls.XXX) for the most accurate reproduction.*
 
-# TGirls.XXX - GDPR Policy
+# TGirls.XXX GDPR Policy
 
 GDPR PRIVACY POLICY
 
