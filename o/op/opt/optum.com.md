@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816221510id_/http%3A//www.optum.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622155125id_/https%3A//www.optum.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
