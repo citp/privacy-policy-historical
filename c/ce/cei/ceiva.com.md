@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceiva.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824225937id_/http%3A//www.ceiva.com/home/hp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceiva.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623005840id_/http%3A//www.ceiva.com/home/hp/privacy.jsp) for the most accurate reproduction.*
 
 # CEIVA Privacy Policy
 
