@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercheats.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229044430id_/https%3A//www.supercheats.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercheats.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622224101id_/https%3A//www.supercheats.com/privacy.htm) for the most accurate reproduction.*
 
 # Super Cheats - Privacy Policy
 
@@ -138,8 +138,8 @@ The personal information that we collect from you may be sent and stored outside
 
 **Access to your Information**
 
-You can access your information by logging into your account. It is possible to request to change the email address associated with your account in your account settings. If you would like to delete, your account or data in in, please get in touch with us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f08795929d9183849582b08385809582939895918483de939f9d).
+You can access your information by logging into your account. It is possible to request to change the email address associated with your account in your account settings. If you would like to delete, your account or data in in, please get in touch with us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b5c2d0d7d8d4c6c1d0c7f5c6c0c5d0c7d6ddd0d4c1c69bd6dad8).
 
 **Getting in Touch, and Privacy Concerns**
 
-If you have any concerns about the way we handle your personal data, would like to make changes to the data that we hold on you, delete your account and all of your data, please get in touch with us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#45322027282436312037053630352037262d202431366b262a28)
+If you have any concerns about the way we handle your personal data, would like to make changes to the data that we hold on you, delete your account and all of your data, please get in touch with us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#126577707f7361667760526167627760717a777366613c717d7f)
