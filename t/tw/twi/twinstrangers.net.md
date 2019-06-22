@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinstrangers.net privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218153159id_/https%3A//twinstrangers.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinstrangers.net privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622065808id_/https%3A//twinstrangers.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
