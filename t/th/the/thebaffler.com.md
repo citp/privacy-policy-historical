@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thebaffler.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110184054id_/https%3A//thebaffler.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebaffler.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622063404id_/https%3A//thebaffler.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy was last updated May 24, 2018. If you have any questions about how The Baffler Foundation stores, collects, or accesses personal information, please contact our data protection officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef9f9d86998e8c96af9b878a8d8e8989838a9dc18c8082).
+This privacy policy was last updated May 24, 2018. If you have any questions about how The Baffler Foundation stores, collects, or accesses personal information, please contact our data protection officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a8d8dac1dec9cbd1e8dcc0cdcac9cecec4cdda86cbc7c5).
 
 By visiting _The Baffler’_ s online magazine (thebaffler.com), store (shop.thebaffer.com), or online subscriber service portal (ezsubscription.com/bfl/mysubscription) you are accepting and agreeing to the practices described in this Privacy Policy. The following paragraphs describe the type of information _The Baffler_ collects, the reasons why such information is collected, how such information is used and who has access to it. There is no advertising contained within any website maintained by The Baffler Foundation other than the marketing of products and subscriptions sold directly by The Baffler Foundation.
 
 ### Collection of Information
 
-The Baffler Foundation, as well as third-party vendors used by The Baffler Foundation, collects personal information from users through voluntary submissions and browsing data storied within cookies. Additionally, The Baffler Foundation, as well as third-party vendors used by The Baffler Foundation, collect anonymous information through traffic data and cookie technology. The Baffler Foundation is not responsible for the information practices of third parties, although we take care to engage third-party fulfillment processors, CDNs, email providers, and other support services that respect your privacy, preferences and data security needs.
+The Baffler Foundation, as well as third-party vendors used by The Baffler Foundation, collects personal information from users through voluntary submissions and browsing data stored within cookies. Additionally, The Baffler Foundation, as well as third-party vendors used by The Baffler Foundation, collect anonymous information through traffic data and cookie technology. The Baffler Foundation is not responsible for the information practices of third parties, although we take care to engage third-party fulfillment processors, CDNs, email providers, and other support services that respect your privacy, preferences and data security needs.
 
 Wherever possible and practical, The Baffler Foundation gives users options about submitting information. In all cases, The Baffler Foundation strives to promptly export or delete personal data at the request of any user.
 
