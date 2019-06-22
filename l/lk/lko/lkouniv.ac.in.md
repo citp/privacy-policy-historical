@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lkouniv.ac.in privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216115635id_/http%3A//www.lkouniv.ac.in/en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkouniv.ac.in privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622184144id_/http%3A//www.lkouniv.ac.in/en/page/privacy-policy) for the most accurate reproduction.*
 
 # Lucknow University / Privacy Policy
 
