@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dobbersports.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121171824id_/https%3A//dobbersports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobbersports.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623010605id_/https%3A//dobbersports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dobber Sports
 
@@ -12,15 +12,15 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **What information does our web site collect from you?**
 
-Under some circumstances, DobberHockey requires that you submit your name, mailing address, and certain other personal information when filling out our registration form. However, any time that DobberHockey wishes to collect such information, you will be warned in advance. DobberHockey will always allow you to view the information that we have on file about you. You will also be able to make changes (eg. Address changes) to your profile whenever you like. Please e-mail admin@dobberhockey.com for any such requests.
+Under some circumstances, DobberHockey requires that you submit your name, mailing address, and certain other personal information when filling out our registration form. However, any time that DobberHockey wishes to collect such information, you will be warned in advance. DobberHockey will always allow you to view the information that we have on file about you. You will also be able to make changes (eg. Address changes) to your profile whenever you like. Please e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for any such requests.
 
 **Why does our site need this information?**
 
-Collecting this data allows us to quickly and easily contact you. For example, we may need to notify you of technical issues, or if you win a prize using one of our sites. If you like, we can also keep you informed of new products and services being offered by DobberHockey, but we will always give you the choice of whether you wish to receive this type of information or not via an ‘opt out’. You can opt out by removing your email address from “Your Details”, or by emailing admin@dobberhockey.com
+Collecting this data allows us to quickly and easily contact you. For example, we may need to notify you of technical issues, or if you win a prize using one of our sites. If you like, we can also keep you informed of new products and services being offered by DobberHockey, but we will always give you the choice of whether you wish to receive this type of information or not via an ‘opt out’. You can opt out by removing your email address from “Your Details”, or by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 DobberHockey would like to make it clear that none of our advertisers, clients, or partners have access to your personal data. In addition, DobberHockey will never disclose your personal data to any outside party without your knowledge and consent except under the most exceptional circumstances such as: police authorities force us to by law/warrant; it is required for DobberHockey to protect ourselves against actions taken against us which threaten our rights and/or property, or those of our visitors, clients, partners, advertisers, or retailers.
 
-Our sites provides users the opportunity to opt-out of receiving promotional/marketing information from us by sending email to [admin@dobberhockey.com](mailto:admin@dobberhockey.com) or by removing your email address from the “Your Details” section of the site.
+Our sites provides users the opportunity to opt-out of receiving promotional/marketing information from us by sending email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7b1a1f1612153b1f1419191e09131418101e0255181416) or by removing your email address from the “Your Details” section of the site.
 
 **External Links**
 
@@ -46,7 +46,7 @@ DobberHockey uses cookies to send information which might be useful to our marke
 
 DobberHockey reserves the right to modify our privacy policies. We suggest that you check this privacy statement from time to time to verify our position on privacy. That being said, the spirit of this statement will never change; we will always take the privacy issue seriously and will always do whatever is necessary to protect our visitors’, clients’, and affiliates’ privacy.
 
-If you have any questions about this privacy statement, the practices of Dobber web sites, or your dealings with those Web sites, you can contact us by email at: admin@dobberhockey.com.
+If you have any questions about this privacy statement, the practices of Dobber web sites, or your dealings with those Web sites, you can contact us by email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Ads**
 
