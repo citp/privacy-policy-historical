@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ps5playstation5.com privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110005946id_/https%3A//www.ps5playstation5.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps5playstation5.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622045504id_/https%3A//www.ps5playstation5.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Disclaimer
+# Privacy Policy and Disclaimer - PS5
 
 Thanks for visiting fellow PS5 fan! We owe everything to our fans, so thank you.
 
