@@ -1,129 +1,74 @@
-> *The following text is extracted and transformed from the pantaloons.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015082705id_/http%3A//pantaloons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantaloons.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622091643id_/https%3A//www.pantaloons.com/content/privacy-policy-13) for the most accurate reproduction.*
 
-# Pantaloons
+# Privacy Policy
 
-  * [home](http://pantaloons.com/)
-  * /
-  * Privacy Policy
+Pantaloons.com ("Site") is an online portal of ABFRL, Mumbai Maharashtra, India - 400059. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
 
+If you have any comments or suggestions for online purchases through www.pantaloons.com, we would be pleased to receive them at our Mumbai address or by emailing us at [customercare@abfrl.adityabirla.com](mailto:customercare@abfrl.adityabirla.com)
 
+Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.
 
-PRIVACY POLICY
+We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected.
 
-What information do we collect?
+You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
 
-We collect information from you when you register on our site or fill out a form. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+### Data that we collect
 
-What do we use your information for?
+We may collect various information if you seek to place an order on our site.
 
-  * Any of the information we collect from you may be used in one or more of the following ways:
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve our website  
-(We continually strive to improve our website offerings based on the information and feedback we receive from you). To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).
-  * To process contest's gratification  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other entity for any reason whatsoever, without your consent, other than for the express purpose of delivering the gift/prize or service requested (except as may be requisitioned by any statutory authority) 
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails   
-(The email address you provide to subscribe to our newsletter, will only be used to send you information and updates pertaining to our brand.) 
-  * If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.   
-(Note: If at any time you would like to unsubscribe from receiving future emails, please write to pantaloonsfashion@gmail.com)
+We collect, store and process your data for processing your purchase on the Site and any possible later claims, and to provide you with our services. We may collect your title, name, gender, email address, postal address, delivery address (if different), telephone number, mobile number, fax number, payment details, payment card details or bank account details.
 
+We need this information in order to allow you to place an order on the website. We may use that data to process payment for the product and deliver the product to you. We also use that data to inform you when the product is about to be delivered.
 
+We may pass your name, phone number, email id and address on to a third party in order to make delivery of the product to you (for example to our courier or supplier).
 
-How do we protect your information?
+We may also share your data with our franchisor, if any. You further authorize such franchisor to use this information to sell products to you, directly or indirectly.
 
-We implement a variety of security measures to maintain the safety of your personal information when we access it.
+We may also use your data in order to manage the Site, collect payment from you, enable you to subsequently use parts of the Site, detect any fraud or Site abuses, send you information relevant to the Site or our products, and in case we have any queries. Payments that you make through the Site will be processed by our company ABFRL, a company registered in India.
 
-Do we use cookies?
+You may receive phone calls from us, our franchisor or our third party associates in relation to providing services to you.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.) 
+You must only submit to us or to our agent or to the site information which is accurate and not misleading and you must keep it up to date and inform us of changes immediately.
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Your actual order details may be stored with us and you may access this information by logging into your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorized third parties. We cannot assume any liability for misuse of passwords unless such misuse is our fault.
 
-Do we disclose any information to outside parties?
+Subject to the terms of this Privacy Policy, we shall not share any of your personal information with third parties without your explicit consent. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and your information is one of our most important assets. We store and process your information on computers located in India that are protected by physical as well as technological security devices. We use independent agencies to verify and certify our privacy principles. If you object to your information being transferred or used in this way please do not use the Site.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure.
 
-Third party links
+### Credit Check and Fraud Prevention
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We use standard and authorized payment services of reputed companies and our Credit Check and Fraud Prevention policies are aligned to the policies of these companies. All disputes would be subject to the jurisdiction of courts at Mumbai.
 
-TERMS OF USE
+### Other uses of your personal information
 
-The content of the pages of this website is for your general information and use only. It is subject to change without notice. 
+We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, SMS updates, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the “unsubscribe” link in any email that we send to you or follow the unsubscription process as detailed in the SMS. Kindly note that unsubscribing from one medium does not automatically lead to unsubscription from the other. Within 7 working days (days which are neither (i) a Saturday or Sunday, nor (ii) a public holiday anywhere in India) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.
 
-Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
+### Competitions
 
-Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.
+For any competition we use the data to notify winners and advertise our offers. You can find more details where applicable in our participation terms for the respective competition.
 
-This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction of these material is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions. Any and all content, which includes Shutterstock images on the website, is not available for download for either personal or commercial use. The user shall not download any Shutterstock images and others as stand alone jpeg, mpeg or html files or in any other format for personal or commercial use or any other content that is available on the site. Any such download is illegal and the user will be exposed to a potential claim for damages from the owners / licensees and / or us of such Shutterstock images and others and Content. Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offence.
+### Third Parties and Links
 
-From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We accept no responsibility for the content of the linked website(s). You may not create a link to this website from another website or document without prior written consent.
+We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyze data and to provide us with marketing or customer service assistance. We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy.
 
-Do not (Comment) post anything that is false, misleading, obscene, defamatory, profane, discriminatory, libelous, threatening, harassing, abusive, hateful, or embarrassing to another person or entity. Make sure to respect others' privacy. Beware that false or defamatory statements or the publication of an individual's private details could result in legal liability for you.
+### Cookies
 
-Pantaloons has the exclusive right to delete or remove, without notice, any content that, in its sole judgment, is in violation of the Terms and Conditions mentioned herein, or is offensive, illegal or harmful to the sentiments of a visitor or any other person.
+The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the some functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to http://www.allaboutcookies.org or to find out about removing them from your browser, go to http://www.allaboutcookies.org/manage-cookies/index.html.
 
-Your use of this website and any dispute arising out of such use of the website is subject to the laws of India and subject to Mumbai jurisdiction.
+The Site uses technology from Google Analytics through which data is collected and stored for marketing and optimization purposes and data user profiles are prepared under a pseudonym. Cookies may be used for these purposes. The cookies enable recognition of the Internet browser. The data collected with these technologies is not used, without separate authorization by the person concerned, to personally identify the visitors to this Site and is not collated with personal data on the pseudonym holder. The permission for data recording and storage may at any time be cancelled with on-going effect.
 
-Online Privacy Policy Only
+### Security
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+We have in place appropriate technical and security measures to prevent unauthorised or unlawful access to or accidental loss or destruction of or damage to your information. When we collect data through the Site, we collect your personal details on a secure server. We use firewalls on our servers. When we collect payment card details electronically, we use encryption by using Secure Socket Layer (SSL) coding. Whilst we are unable to guarantee 100% security, this makes it hard for a hacker to decrypt your details. You are strongly recommended not to send full credit or debit card details in unencrypted electronic communications with us. We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. You are responsible for protecting against unauthorised access to your password and to your computer. We are not responsible and held liable for any issue arising including but not limited to services provided by payment gateway sites of these payment instruments, of whatsoever nature and you need to contact with these sites.
 
-Your Consent
+### Consent
 
-By using our site, you consent to our privacy policy
+By visiting this site, by submitting data to us or our agent or using the Site, you consent to our use of your data in the manner set out in this Privacy Policy.
 
-Changes to our Privacy Policy
+### Copyright
 
-We may change these terms under Privacy Policy without notice. Continued use of this website indicates an acceptance to these terms and conditions herein and any subsequent changes that may be made from time to time. We recommend that the user / visitor visits these terms and conditions from time to time to understand and be fully aware of the user policy of this Website.
+We have copyright over this Privacy Policy. Use by third parties, even by way of extract, for commercial purposes is not allowed. Infringements may be subject to legal action.
 
-Terms & Conditions
-
-Bajaj Finserv:
-
-  * Bajaj finserv EMI option can be availed on transaction worth Rs 5000/- or above.
-  * Transaction amount will be converted in to 3 equal EMIs.
-  * For any queries contact: Email - wecare@bajajfinserv.in :: Call- 020 - 3957 5152
-
-
-
-Mobikwik E wallet offer (1st Aug - 31st Oct, 2017):
-
-  * Get flat 300 SuperCash @ Pantaloons stores on MobiKwik payments
-  * Valid on a minimum transaction of Rs.2000 & above
-  * Offer valid from 1st August - 31st October, 2017
-  * This offer can be availed once in a month 
-  * SuperCash will be credited within 48 hours
-
-
-
-Bajaj Finance cashback offer (1st Sept - 22nd October, 2017):
-
-  * Get flat 10% Cashback @ Pantaloons stores on Bajaj Emi card payments
-  * Valid on a minimum transaction of Rs.5000 & above
-  * Maximum cashback is Rs 500
-  * Offer valid from 1st Sept to 22nd October, 2017
-  * This offer can be availed once during the offer period
-  * Cash-back amount will be credited post payment of the first EMI
-  * To avail the offer, give a missed call on +91 92892 22027
-
-
-
-Paytm E wallet offer (1st Sept - 30th Sept, 2017):
-
-  * Get Rs 200 Cashback @ Pantaloons on Paytm payments
-  * Valid on a minimum transaction of Rs.4000 & above
-  * Offer valid from 1st Sept - 30th Sept, 2017
-  * This offer can be availed once during the offer period
-  * Cashback will be credited within 48 hours
-
-
-
-SBI Cashback Offer (1st Sept - 15th Oct, 2017):
-
-  * Extra 5% cash back on SBI Debit & Credit Cards on purchase of Rs.3500/- & above. Maximum cashback of Rs.750/-.
-  * Valid in : Kolkata, Durgapur, Siliguri, Asansol, Haldia, Bhubaneshwar, Guwahati, Silchar, Shillong, Gangtok
-  * Cash back amount will be processed by SBI 45 days after completion of Cashback promo, or by 1st Dec '17
-
-
+We have copyright over this Privacy Policy. Use by third parties, even by way of extract, for commercial purposes is not allowed. Infringements may be subject to legal action.  
+This Privacy Policy can change at any time to include / exclude clauses and pantaloons.com does not bear responsibility for updating users on the same.
