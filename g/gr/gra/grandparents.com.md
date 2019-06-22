@@ -1,125 +1,213 @@
-> *The following text is extracted and transformed from the grandparents.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001203419id_/https%3A//www.grandparents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandparents.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622034119id_/https%3A//considerable.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Grandparents.com
+# Privacy Policy | Considerable
 
-**Updated July 10, 2014**
-
-At Grandparents.com (“ ** _Company_** ,” “ ** _we_** ” or “ ** _us_** ”), your privacy is very important to us.  This privacy policy (“ ** _Policy_** ”) provides you with a description of the types of information we collect about you when you visit grandparents.com (including any subdomains, the “ ** _Site_** ”), and how we use that information.  By visiting or using the Site and/or using our online resources, tools and applications, you agree to our [Terms of Service](http://www.grandparents.com/terms-of-service) and this Policy.  If you do not agree to this Policy, please do not use or access the Site.
-
-###  This Policy applies only to information we collect through the Site and not to information collected offline.  For more information on how the Site may redirect you to other web sites, please see the “Links and Redirection to Third Party Sites” section below.
-
-**Table of Contents** **:   **
-
-  * _**Information We Collect**_
-  * _**How We Use Information; Joining Our Community**_
-  * _**Who We Share Your Personal Information With**_
-  * _**Service Providers and Partners**_
-  * _**Credit Card Processor**_
-  * _**Legal Processes; Your Agent or Guardian**_
-  * _**A Company That Purchases or Merges with Us**_
-  * _**Use and Sharing of Aggregate Information**_
-  * _**Online Tracking; “Do Not Track” Signals**_
-  * _**Account Security**_
-  * _**Choice and Opt-Out**_
-  * _**Updating Information**_
-  * _**Links and Redirection to Third Party Sites**_
-  * _**Children’s Privacy**_
-  * _**Effective Date; Policy Changes**_
-  * _**Governing Law; Your California Privacy Rights**_
-  * _**Contact Us**_
+Thank you for choosing to be part of our community at Grandparent Partners, LLC, (“Considerable”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at help@considerable.com or through our [contact form](https://considerable.com/contact/).  
 
 
+When you visit our website <https://considerable.com/>, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites and our services.  
 
- 
 
-###  _**Information We Collect**_
+This privacy policy applies to all information collected through our website (such as <https://considerable.com/>), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the “Sites”).   
 
-We collect and store information that you choose to provide to us as well as data related to how you use and visit the Site.
 
-•  _Creating an Account_ \- Many features on the Site can be accessed without creating an account, but there are some activities (like participating in online chat rooms) that require you to register for a member account.  Creating a member account requires you to provide your name and email address, and to select a username and password.  We have two levels of membership, Basic (free) Membership and Premium Membership.  If you select Premium Membership, you will also need to provide a billing address, credit card information, gender and birth month and year.
+Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.    
 
-•  _Completing your Profile_ \- Once you have created an account, you can choose to provide additional personal information that can be seen by other members of the Site when they click on your profile, including your age, location, birthdate, gender, photograph and a short bio.  Members can also see information about your use of the Site, such as the date on which you became a member, your active posts count, your profile views count and your membership title (e.g. newbie, member, advanced member).  Your user name and comments you make on the Site will always be viewable to other Site users, including non-members.
 
-•  _Logging in Through Facebook_ \- If you have a Facebook account, you may log in using Facebook Connect, a Facebook, Inc., application that operates in connection with the Site.  We do not collect Facebook posts, photos or contacts or share Facebook log-in information with any third parties.  By electing to register and log in using your Facebook account, you permit the Site to access the email address and name associated with your Facebook account for purposes of verifying your identity.  This Privacy Policy applies to information collected by us through your Facebook Connect login; however, your activities on Facebook are covered by the Facebook privacy policy and other terms of use.
+ **TABLE OF CONTENTS**
 
-•  _Content You Upload to the Site_ \- Using your account, certain functions of the Site allow you to upload, submit, disclose and share information, data, text, software, music, sound, photographs, graphics, video, messages, products, services or other materials (“ ** _Content_** ”).  It is solely up to you whether you provide the information described above.  If you do provide such information, you are consenting to the use of that information in accordance with the policies and practices described in this Policy.
+  1. What information do we collect?
+  2. How do we use your information?
+  3. Will your information be shared with anyone?
+  4. Do we use cookies and other tracking technologies?
+  5. What is our stance on third-party websites?
+  6. How long do we keep your information?
+  7. How do we keep your information safe?
+  8. Do we collect information from minors?
+  9. What are your privacy rights?
+  10. Do california residents have specific privacy rights?
+  11. Do we make updates to this policy?
+  12. How can you contact us about this policy?
 
-•  _Data We Automatically Collect_ \- During your visit we automatically collect aggregate information and analytical data related to your Site visit.  Aggregate information is non-personally identifiable or anonymous information about you such as your IP address and your site visit history.  **Please see the section titled “ _Use and Sharing of Aggregate Information_ ” below for information regarding third parties that we share this type of information with and who are allowed to collect this type of information about you directly when you use the Site.**    
 
-###  **_How We Use Information; Joining Our Community_**
 
-We use the information we collect from you to manage the Site, resolve problems and respond to questions.  When you create an account, we _automatically_ enroll you in the American Grandparents Association (“ ** _AGA_** ”).  As a member of the AGA, you will receive email newsletters about products or services that we think will interest you, have access to coupons and deals, and are able to join online forums provided by the Site that allow you to connect with other grandparents.  For more information on the AGA, [click here](http://www.grandparents.com/american-grandparents-association).  Please see the section titled “Choice and Opt-Out” below for information on how to unsubscribe from our mailings or marketing materials.
+ **1\. WHAT INFORMATION DO WE COLLECT?**
 
-When you upload Content to the Site, we may choose to publish or display that Content (together with your username) on the Site and in materials related to the Site and our products and services (including our advertising and marketing materials).  Published Content can be viewed by other Site visitors.  Please review the section titled “User Submissions and Content” in our Terms of Service for additional information regarding your obligations and promises you make when you provide Content to the Site.
+ **Personal information you disclose to us**
 
-###  _**Who We Share Your Personal Information With**_
+ _In Short: We collect personal information that you provide to us such as name, address, contact information, passwords and security data, and payment information.  _  
 
-•  _Service Providers and Partners_ – Depending on the preferences you select when registering for an account, we may share your account and profile information with our service providers who help us manage the Site and market our products or services.  In addition, if you opt-in to receiving marketing emails, we share information such as your name, email address, location, age, birthday and gender with certain trusted third parties so that they can contact you directly to market or sell their products and services. 
 
-•  _Credit Card Processor_ \- We use a third-party credit card processor to process credit card payments for Premium Memberships.  Your name, billing address, and order total are securely shared with this payment processor so that they can complete your order.  Your credit card information (including your credit card number, the expiration date, and the security code on the back of your credit card) is securely transmitted to our credit card processor and stored by the credit card processor and not by us. 
+We collect personal information that you voluntarily provide to us when registering at the Sites expressing an interest in obtaining information about us or our products and services, when participating in activities on the Sites or otherwise contacting us.  
 
-•  _Legal Processes; Your Agent or Guardian_ \- We may disclose information to third parties in response to a subpoena, warrant, court order, or other similar legal process.  If a subpoena requests information about a user, we’ll make (if permitted) reasonable business efforts to contact that user before providing information to the party that requests it, but we cannot guarantee that we will be able to do so in all cases.  In addition, we disclose information that we believe is appropriate to cooperate in investigations of fraud or other illegal activity, or to investigate violations of our Terms of Service.  We may disclose information to your agent or legal representative (such as the holder of a power of attorney that you grant, or a guardian appointed for you).
 
-•  _A Company That Purchases or Merges with Us_ \- As with any other business, it is possible that in the future we could merge with or be acquired by another company.  If an acquisition occurs, the successor entity would have access to the information we have collected, including customer account information, but would continue to be bound by this Policy unless and until it is amended.
+The personal information that we collect depends on the context of your interactions with us and the Sites, the choices you make and the products and features you use. The personal information we collect can include the following:  
 
-###  _**Use and Sharing of Aggregate Information**_
 
-We use cookies and similar tracking technologies to collect data reflecting your use of the Site and may use such data for tracking, reporting and other activities in connection with our business.  “Cookies” are simple text files stored on your computer for use by a browser.  Certain Site features may only be available through the placement of cookies.  Cookies are a standard practice among Internet web sites, and most Internet browsers permit a user to accept, decline or delete cookies.  You will still be able to view the Site if you reject cookies, but your ability to use some Site features (such as automatically-generated recommendations) will be limited.  You will be unable to log into the Site if you reject cookies.  We are not limited in our use of your non-personal information that does not permit direct association with any specific individual, or non-identifiable aggregate information about our users (such as the number of users of the Site, where our users are located, or what features Site visitors use). 
+Name and Contact Data. We collect your first and last name, email address, postal address, phone number, and other similar contact data.  
 
-This Site works with a first party cookie that collects anonymous traffic data at the Site.  We use session cookies to make it easier for you to navigate the Site and track whether you are logged into the Site during a particular visit.  In addition, we use persistent cookies to store how you came to the Site, recognize Site materials and Content you view and identify you automatically when you re-visit the Site.  A persistent cookie remains on your hard drive for an extended period of time.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
-###  _**Online Tracking; “Do Not Track” Signals  **_
+Credentials. We collect passwords, password hints, and similar security information used for authentication and account access.  
 
-We contract with third-party service providers to assist us in better understanding our site visitors, help us improve our services, and show you relevant advertising both on and off the Site.  **_To accomplish this, we permit third parties to track our Site users over time and across web sites_**.  Our analytics partners, such as [QuantCast](https://www.quantcast.com/privacy), [Google Analytics](http://www.google.com/intl/en/policies/privacy/), [comScore](http://www.comscore.com/About-comScore/Privacy-Policy) and [Compete](https://www.compete.com/about-compete/privacy/) help us understand how you arrived at the Site and what features of the Site you use.  Our advertising partners, including [Xaxis](http://www.xaxis.com/static/view/privacy-policy), [Adprime Media](http://www.adprimemedia.com/privacy/), [Advertising.com](http://advertising.aol.com/privacy), [Datonics](http://datonics.com/consumer-privacy-center/technology-privacy-policy), [Lijit](http://www.lijit.com/company/privacy-policy), [MediaCrossing](http://www.mediacrossing.com/privacy-policy/), [Conversant](http://www.conversantmedia.com/legal/privacy), and [Google Adsense](http://www.google.com/adsense/start/), help determine what advertisements will be of greatest interest to you.  For example, we use cookies to learn whether Site members who saw an ad on the Site later visited the advertiser’s site and our partners use cookies to direct advertisements to you both on and off the Site.  In addition, we and our advertising partners use re-directing pixels to advertise products or services available on the Site that may interest you while you are visiting other web sites.  Cookies and ad technology such as web beacons, pixels, and anonymous ad network tags help us more effectively serve ads to you, as well as to collect aggregated data for our advertising partners. We have no access to or control over the cookies and tracking technologies used by our partners. 
 
-These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
+Payment Data. We collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number), and the security code associated with your payment instrument. All payment data is stored by our payment processor [Stripe](http://stripe.com/) and you should review its privacy policies and contact the payment processor directly to respond to your questions.    
 
-Some browsers have incorporated “Do Not Track” features.  Most of these features, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish to be tracked.  Because there is not yet a common understanding of how to interpret the Do Not Track signal, we do not currently respond to Do Not Track signals on the Site.
 
-###  _**Account Security**_
+All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.     
 
-The security of your account relies on your protection of your user name and password.  You are responsible for maintaining the security of your user name and password and are solely responsible for any and all activities that occur under your account.  You may not share your password or user name with anyone.  We will never ask you to send your password or other sensitive information to us in an email, though we may ask you to enter this type of information on the Site.  If you believe someone else has obtained access to your password, please change it immediately by logging in to your account on the Site and changing your Profile settings.  If you believe that an unauthorized access has already occurred please report it immediately at [help@grandparents.com](mailto:help@grandparents.com).
 
-###  _Choice and Opt-Out_
+ **Information automatically collected**
 
-You can choose to unsubscribe from marketing emails using the links contained in each marketing email you receive by following the instructions included in each email.  If you experience difficulty managing your notification settings or would like to opt-out of future mailings, you can contact us for help at [help@grandparents.com](mailto:help@grandparents.com).
+ _In Short: Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Sites._  
 
-###  _Updating Information_
 
-You can review, correct, update or change your personal information on your account profile at any time.  Simply log into your account, go to your Profile, review your information and, if you wish, edit it with the options provided.  If you are unable to edit your information by logging into your account please contact us for help.
+We automatically collect certain information when you visit, use or navigate the Sites. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Sites and other technical information. This information is primarily needed to maintain the security and operation of our Sites, and for our internal analytics and reporting purposes.   
 
-###  _**Links and Redirection to Third Party Sites**_
 
-The Site includes links to third party websites (“ ** _Third Party Sites_** ”) where information, products or services that may be of interest to you can be located.  Third Party Sites include, among others, service providers who have a relationship with the Company.
+Like many businesses, we also collect information through cookies and similar technologies.    
 
-Third Party Sites are not under our control, and we are not responsible for Third Party Sites or for their accuracy, sufficiency, correctness, reliability, veracity, completeness, or timeliness, any link contained therein, or any changes or updates to those sites.  The inclusion or access to Third Party Sites does not imply an endorsement by the Company, or of the provider’s content or services.  We reserve the right to terminate any link or linking program at any time.  Nonetheless, we try to protect the integrity of our Site and welcome any feedback about these Third Party Sites. 
 
-Please be aware that when you enter a Third Party Site, any information you provide is subject to the terms of use and privacy policy of that Third Party Site.
+ **Information collected from other sources**
 
-###  _**Children’s Privacy**_
+ _In Short: We may collect limited data from public databases, marketing partners, and other outside sources.﻿_
 
-This Site and our services are not directed to persons under the age of 13.  If you become aware that your child has provided us with personal information without your consent, please contact us at [help@grandparents.com](mailto:help@grandparents.com).  We do not knowingly collect or solicit information from, market to or accept services from children.  If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child’s account.   
+We may obtain information about you from other sources, such as public databases, joint marketing partners, as well as from other third parties. Examples of the information we receive from other sources include: social media profile information; marketing leads and search results and links, including paid listings (such as sponsored links).
 
-###  _**Effective Date; Policy Changes**_
+ **2\. HOW DO WE USE YOUR INFORMATION?**
 
-Each time you use the Site, the current version of the Policy will apply.  When you use the Site, you should check the date of this Policy (which appears at the top of the Policy) and review any changes since the last version.  Our business changes frequently and this Policy is subject to change from time to time.  Unless stated otherwise, our current Policy applies to all information that we have about you.  We will not materially change our policies and practices to make them less protective of customer information collected in the past or collect substantially more customer information than in the past without the consent of affected customers.
+ _In Short: We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.  _  
 
-###  _**Governing Law; Your California Privacy Rights**_
 
-This Policy is governed by the laws of the State of New York without giving effect to any principles of conflict of law.
+We use personal information collected via our Sites for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests (“Business Purposes”), in order to enter into or perform a contract with you (“Contractual”), with your consent (“Consent”), and/or for compliance with our legal obligations (“Legal Reasons”). We indicate the specific processing grounds we rely on next to each purpose listed below.    
 
-**California Civil Code Section 1798.83 permits customers who are California residents and who have provided the Company with “personal information” (as defined by Section 1798.83) to request certain information about the disclosure of that information to third parties for their direct marketing purposes.   If you are a California resident with questions regarding this, please contact us via email at **[help@grandparents.com](mailto:help@grandparents.com)  **or by mail at the address listed in the “Contact Us” section below.**
 
-###  _**Contact Us**_
+We use the information we collect or receive:  
 
-If you have questions regarding this Policy, you may contact us using the information below.
+  * To facilitate account creation and logon process with your Consent. If you choose to link your account with us to a third party account *(such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process.        
+  * To send you marketing and promotional communications for Business Purposes. We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see section “What are your privacy rights” below).
+  * To send administrative information to you for Business Purposes, Legal Reasons and/or possibly for Contractual. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.
+  * Deliver targeted advertising to you for our Business Purposes. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.
+  * To protect our Sites for Business Purposes and/or for Legal Reasons. We may use your information as part of our efforts to keep our Sites safe and secure (for example, for fraud monitoring and prevention).
+  * To enforce our terms, conditions and policies for Business Purposes, Legal Reasons and/or possibly Contractual.
+  * To respond to legal requests and prevent harm for Legal Reasons. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
+  * For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Sites, products, services, marketing and your experience.   
 
-Grandparents.com, Inc.
 
-190 Farmington Avenue, Farmington, CT 06032
 
-Phone: 646-839-8800
 
-Email: [help@grandparents.com](mailto:help@grandparents.com)
+ **3\. WILL YOUR INFORMATION BE SHARED WITH ANYONE?**
 
-_**Please also visit our[Terms of Service](http://www.grandparents.com/terms-of-service) establishing the use, disclaimers, and limitations of liability governing the use of our Site.**_
+ _In Short: We only share information with your consent, to comply with laws, to protect your rights, or to fulfill business obligations._   
+
+
+We only share and disclose your information in the following situations:   
+
+
+  * Compliance with Laws. We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
+  * Vital Interests and Legal Rights. We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.  
+  * Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Sites, which will enable them to collect data about how you interact with the Sites over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.
+  * Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+  * With your Consent. We may disclose your personal information for any other purpose with your consent.    
+
+
+
+ **4\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
+
+ _In Short:  We may use cookies and other tracking technologies to collect and store your information.  _  
+
+
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our [Cookie Policy](https://considerable.com/cookie-policy/).              
+
+
+ **5\. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?**
+
+ _In Short: We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our websites._  
+
+
+The Sites may contain advertisements from third parties that are not affiliated with us and which may link to other websites, online services or mobile applications. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy policy. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from the Sites. You should review the policies of such third parties and contact them directly to respond to your questions.          
+
+
+ **6\. HOW LONG DO WE KEEP YOUR INFORMATION?**
+
+ _In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law._  
+
+
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than 1 year past the termination of the user’s account.   
+
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.  
+
+
+ **7\. HOW DO WE KEEP YOUR INFORMATION SAFE?**
+
+ _In Short: We aim to protect your personal information through a system of organizational and technical security measures.  _  
+
+
+We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Although we will do our best to protect your personal information, transmission of personal information to and from our Sites is at your own risk. You should only access the services within a secure environment.   
+
+
+**8\. DO WE COLLECT INFORMATION FROM MINORS?**
+
+ _In Short: We do not knowingly collect data from or market to children under 18 years of age._  
+
+
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Sites, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Sites. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at help@considerable.com.    
+
+
+ **9\. WHAT ARE YOUR PRIVACY RIGHTS?**
+
+ _In Short: You may review, change, or terminate your account at any time._
+
+If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>
+
+ **Account Information**
+
+If you would at any time like to review or change the information in your account or terminate your account, you can:  
+
+  * Log into your account settings and update your user account.   
+  * Contact us using the form on this page: <https://considerable.com/contact/>
+  * Contact us using the contact information provided below.
+
+
+
+Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.  
+
+
+Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Sites. To opt-out of interest-based advertising by advertisers on our Sites visit <http://www.aboutads.info/choices/>.  
+
+
+Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may:  
+
+  * Access your account settings and update preferences.
+  * Contact us using the contact information provided.   
+
+
+
+ **10\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+
+ _In Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information._  
+
+
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.  
+
+
+If you are under 18 years of age, reside in California, and have a registered account with the Sites, you have the right to request removal of unwanted data that you publicly post on the Sites. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.  
+
+
+ **11\. DO WE MAKE UPDATES TO THIS POLICY?**
+
+ _In Short: Yes, we will update this policy as necessary to stay compliant with relevant laws._  
+
+
+We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.   
+
+
+ **12\. HOW CAN YOU CONTACT US ABOUT THIS POLICY?**
+
+If you have questions or comments about this policy, you may email us at help@considerable.com or by post to:
+
+Grandparent Partners, LLC  
+12 E 49th St.  
+8th Floor  
+New York, NY 10017  
+United States
