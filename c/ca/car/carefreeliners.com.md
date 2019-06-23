@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carefreeliners.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127025303id_/http%3A//www.edgewell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carefreeliners.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623164228id_/http%3A//www.edgewell.com/privacy-policy) for the most accurate reproduction.*
 
 # Edgewell Personal Care - Privacy Policy
 
