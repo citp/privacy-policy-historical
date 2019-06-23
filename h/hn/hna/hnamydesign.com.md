@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hnamydesign.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914124914id_/http%3A//hnamydesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hnamydesign.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623042649id_/https%3A//hnamydesign.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | H&A MY DESIGN
+# Privacy Policy - H&A MY DESIGN - Los Angeles General Contractor for Home, Bathroom & Kitchen Remodeling
 
 Privacy Notice  
 Effective Date: March 3 2016 (You may wish to keep copies of earlier privacy notices as well as the dates for which they were effective).  
-This privacy notice discloses the privacy practices for [www.hnamydesign.com](http://www.hnamydesign.com/). This privacy notice applies solely to information collected by this website, except where stated otherwise. It will notify you of the following:  
+This privacy notice discloses the privacy practices for [www.hnamydesign.com](https://www.hnamydesign.com/). This privacy notice applies solely to information collected by this website, except where stated otherwise. It will notify you of the following:  
 •       What information we collect;  
 •       With whom it is shared;  
 •       How it can be corrected;  
