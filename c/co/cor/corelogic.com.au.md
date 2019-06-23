@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corelogic.com.au privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corelogic.com.au privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/privacy-policy) for the most accurate reproduction.*
 
 # CoreLogic Privacy Policy | CoreLogic
 
@@ -6,8 +6,8 @@
 
 **This Privacy Policy applies to:**
 
-  * RP Data Pty Ltd trading as CoreLogic Asia Pacific (ABN 67 087 759 171) and its Australian subsidiaries and related bodies corporate, including RP Data Pty Ltd, Valuation Exchange Pty Ltd, Cordell Information Pty Ltd, OnTheHouse.com.au Pty Ltd, Residex Pty Ltd; and
-  * CoreLogic NZ Limited and its New Zealand subsidiaries and related bodies corporate,
+  * RP Data Pty Ltd trading as CoreLogic Asia Pacific (ABN 67 087 759 171) and its Australian subsidiaries and related bodies corporate, including RP Data Pty Ltd, Valuation Exchange Pty Ltd, Cordell Information Pty Ltd, OnTheHouse.com.au Pty Ltd , Residex Pty Ltd (CoreLogic Australia); and
+  * CoreLogic NZ Limited and its New Zealand subsidiaries and related bodies corporate (CoreLogic NZ),
 
 
 
@@ -15,8 +15,8 @@
 
 **This Privacy Policy has been developed in compliance with:**
 
-  * the Privacy Act 1988 (Cth) (AU Privacy Act) and the Australian Privacy Principals (APPs) made under that Act; and
-  * Privacy Act 1993 (NZ) and the Information Privacy Principles that are set out within that Act.
+  * the Privacy Act 1988 (Cth) (Australian Privacy Act) and the Australian Privacy Principals (APPs) made under that Act; and
+  * Privacy Act 1993 (NZ) (NZ Privacy Act) and the Information Privacy Principles (IPPs) that are set out within that Act.
 
 
 
@@ -26,32 +26,32 @@ CoreLogic maintains a policy of strict confidence concerning your (you, your) pe
 ### Australian Websites
 
   * [www.corelogic.com.au](http://www.corelogic.com.au/)
-  * [www.propertyvalue.com.au](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.propertyvalue.com.au)
-  * [www.cityscopeonline.com.au](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.cityscopeonline.com.au)
+  * [www.propertyvalue.com.au](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.propertyvalue.com.au)
+  * [www.cityscopeonline.com.au](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.cityscopeonline.com.au)
   * [vx.valex.com.au ](https://vx.valex.com.au/)
-  * [evrui.corelogic.com.au](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/evrui.corelogic.com.au)
-  * [vms.corelogic.com.au](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/vms.corelogic.com.au)
-  * [vis.corelogic.com.au](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/vis.corelogic.com.au)
-  * [www.residex.com.au](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.residex.com.au)
-  * [www.onthehouse.com.au](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.onthehouse.com.au)
-  * [www.cordellconnect.com.au](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.cordellconnect.com.au)
+  * [evrui.corelogic.com.au](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/evrui.corelogic.com.au)
+  * [vms.corelogic.com.au](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/vms.corelogic.com.au)
+  * [vis.corelogic.com.au](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/vis.corelogic.com.au)
+  * [www.residex.com.au](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.residex.com.au)
+  * [www.onthehouse.com.au](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.onthehouse.com.au)
+  * [www.cordellconnect.com.au](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.cordellconnect.com.au)
 
 
 
 ### NZ Websites
 
-  * [www.corelogic.co.nz](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.corelogic.co.nz)
-  * [www.e-valuate.co.nz](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.e-valuate.co.nz)
-  * [www.addressright.co.nz](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.addressright.co.nz)
-  * [www.property-guru.co.nz](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.property-guru.co.nz)
+  * [www.corelogic.co.nz](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.corelogic.co.nz)
+  * [www.e-valuate.co.nz](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.e-valuate.co.nz)
+  * [www.addressright.co.nz](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.addressright.co.nz)
+  * [www.property-guru.co.nz](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.property-guru.co.nz)
   * <https://access-api.corelogic.asia/access/loginPage.html>
   * <http://emap.co.nz/emap>
   * [https://propertyview.corelogic.co.nz](https://propertyview.corelogic.co.nz/)
   * [http://platinum.cordell.co.nz](http://platinum.cordell.co.nz/)
-  * [www.cityscopeonline.com.au](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.cityscopeonline.com.au)
-  * [www.e-valuate.co.nz](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.e-valuate.co.nz)
-  * [www.qv.co.nz](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.qv.co.nz)
-  * [www.terranet.co.nz/](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.terranet.co.nz/)  
+  * [www.cityscopeonline.com.au](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.cityscopeonline.com.au)
+  * [www.e-valuate.co.nz](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.e-valuate.co.nz)
+  * [www.qv.co.nz](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.qv.co.nz)
+  * [www.terranet.co.nz/](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.terranet.co.nz/)  
  
 
 
@@ -70,8 +70,8 @@ This Privacy Policy applies in respect of information provided to us by persons 
 
 If you have any further questions or if you wish to receive more information on our information practices and Privacy Policy, please contact our Privacy Officer by email:
 
-  * Australia:  [privacy@corelogic.com.au](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.com.au)
-  * New Zealand:  [privacy@corelogic.co.nz ](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.co.nz%C2%A0)
+  * Australia:  [privacy@corelogic.com.au](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.com.au)
+  * New Zealand:  [privacy@corelogic.co.nz ](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.co.nz%C2%A0)
 
 
 
@@ -187,7 +187,9 @@ We collect information on our own behalf and on behalf of others.  Where we col
 _**Unsolicited Information**_  
 If someone other than you provides us with personal information about you that we did not ask for and we determine that we could have collected this information from you had we asked for it, we will notify you as soon as practicable.  This notice will be given unless to do so would be in breach of an obligation of confidence.  If we could not have collected this personal information, we will lawfully de identify or destroy that personal information.
 
-**_Sensitive Information_** We will not collect any sensitive information from you, revealing your: race, ethnic origin, political opinions, religious or philosophical beliefs, trade union memberships or details of health or disability.
+**_Sensitive Information_**
+
+We will not collect any sensitive information from you, revealing your: race, ethnic origin, political opinions, religious or philosophical beliefs, trade union memberships or details of health or disability.
 
 3.     Use and disclosure of personal information
 
@@ -269,8 +271,8 @@ Where we have obtained your consent, we may also send marketing messages on beha
 **_Opt Out_**  
 You can opt out of receiving marketing material from us at any time by contacting us by email: 
 
-  * Australia:  [privacy@corelogic.com.au ](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.com.au%C2%A0)
-  * New Zealand:  [privacy@corelogic.co.nz ](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.co.nz%C2%A0)
+  * Australia:  [privacy@corelogic.com.au ](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.com.au%C2%A0)
+  * New Zealand:  [privacy@corelogic.co.nz ](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.co.nz%C2%A0)
 
 
 
@@ -281,20 +283,25 @@ We collect your personal information from third party marketing database provide
 
 We also collect publicly available non-personal information about properties, such as number of bathrooms, bed-rooms and listing information and other modelled inferences about properties.  This information may be supplied to third parties for their use in direct marketing campaigns, including through combining with contact details contained in Marketing Direct.
 
-We obtain contractual warranties from the database providers that the personal information they collect complies with the Privacy Act and the APPs.
+We obtain contractual warranties from the database providers that the personal information they collect complies with the Privacy Act.
 
-Your personal information may be disclosed to our subscribers for the purposes of direct marketing their products and services to you.  Our terms and conditions with our subscribers require that they comply with the Privacy Act and APPs in all direct marketing communications with you.
+Your personal information may be disclosed to our subscribers for the purposes of direct marketing their products and services to you.  Our terms and conditions with our subscribers require that they comply with the Privacy Act in all direct marketing communications with you.
 
-If you wish to be removed from our Marketing Direct database, please contact our Privacy Officer by email at: [privacy@corelogic.com.au](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.com.au).
+If you wish to be removed from our Marketing Direct database, please contact our Privacy Officer by email at:
+
+  * Australia:  [privacy@corelogic.com.au ](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.com.au%C2%A0)
+  * New Zealand:  [privacy@corelogic.co.nz ](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.co.nz%C2%A0)
+
+
 
 _**Information not used for Direct Marketing**_  
-Where we collect information from Government sources such as the Valuers General Office in each State and Territory, we do not use this information (or allow or customers and subscriber to use this information) for direct marketing purposes.
+Where we collect information from Government sources such as the Valuers General Office in each State and Territory in Australia; or LINZ, Southland DC or Christchurch Council in New Zealand (Government Data Sources), we do not use this information (or allow or customers and subscriber to use this information) for direct marketing purposes.
 
-When we licence personal information which has been sourced from the Valuers General to our customers and subscribers as part of a Property Data and Analytics Service offered by us, we require them:
+When we licence personal information which has been obtained from the Government Data Sources to our customers and subscribers as part of a Property Data and Analytics Service offered by us, we require them:
 
   * to not use personal information for direct marketing
   * to comply with all third party use restrictions (which are set out in the terms and conditions of your contract with us where the personal information is collected by a third party and provided to us)
-  * to comply with the Privacy Act and APPs.
+  * to comply with the Privacy Act.
 
 
 
@@ -306,21 +313,28 @@ Although the Site may link directly to Websites operated by third parties (Linke
 
 6.     Disclosure of Information Overseas
 
-We retain your personal information in Australia.  However, people located overseas may be able to access your personal information in order to provide data entry and development services to us in the provision of our Products and Services.  In the vast majority of these cases access is strictly limited, and under the supervision and control of our Australian based product team. Such access will only be under secure protocols (see below for further information on Storage and Security).  Our overseas services providers are located in:
+For CoreLogic’s Australian businesses, we store and retain your personal information in Australia.
+
+For CoreLogic’s New Zealand businesses, we store and retain your personal information in New Zealand and Australia.
+
+However, people located overseas may be able to access your personal information in order to provide data entry and development services to us in the provision of our Products and Services.  In the vast majority of these cases access is strictly limited, and under the supervision and control of our Australian based product team. Such access will only be under secure protocols (see below for further information on Storage and Security).
+
+ Our overseas services providers are located in:
 
   * India
   * Philippines
   * USA
-  * New Zealand
   * UK
+  * New Zealand (where CoreLogic Australia is the relevant business)
+  * Australia (where CoreLogic NZ is the relevant business)
 
 
 
 Some of our products and services accessible via our web services portals may be accessed by customers located overseas.
 
 Whenever your personal information is disclosed to, or accessed by, a person located overseas, this will only occur where:  
-(a)    we consider the recipient to be bound to legislation similar to the APPs and we have a contractual mechanism with them to enforce your rights; or      
-(b)    we have an enforceable contractual arrangement with the overseas recipient that requires the recipient to handle your personal information in accordance with the APPs.
+(a)    we consider the recipient to be bound to legislation similar to the Privacy Act and we have a contractual mechanism with them to enforce your rights; or      
+(b)    we have an enforceable contractual arrangement with the overseas recipient that requires the recipient to handle your personal information in accordance with the Privacy Act.
 
 By providing us with your personal information you consent to disclosure as set out in this Privacy Policy.
 
@@ -350,7 +364,7 @@ We may use third party analytics service providers, including but not limited to
 
 Your IP address and other information will be collected by automated means to report on your use of the services. These third-parties use cookies, web beacons, pixels, embedded scripts and other, similar technologies to automatically collect information about your Website use, report Website trends, and help us compile Website metrics.
 
-You can learn about Google’s specific practices by going to [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/www.google.com/policies/privacy/partners/). For more information about how Google Analytics uses your information please click here.
+You can learn about Google’s specific practices by going to [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/www.google.com/policies/privacy/partners/). For more information about how Google Analytics uses your information please click here.
 
 **_Opting out from Cookies and analytics_**  
 You may withdraw or change your cookies consent at any time by modifying your browser settings to accept or decline cookies. You may also go to www.allaboutcookies.org or www.youronlinechoices.eu if you are in Europe, or to www.aboutads.info/choices if you are anywhere else for instructions on how to disable cookies. 
@@ -393,7 +407,7 @@ If we do not adequately answer your concerns, you have the right to make a compl
 If you have any questions relating to this Privacy Policy or your personal information, please contact our Privacy Officer in your jurisdiction as follows:
 
 **Australia**  
- **email:**[privacy@corelogic.com.au](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.com.au)
+ **email:**[privacy@corelogic.com.au](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.com.au)
 
 **Mailing address:  **  
 CoreLogic  
@@ -404,7 +418,7 @@ Australia
 **Telephone:** 1300 734 318 
 
 **New Zealand**  
- **email:**[privacy@corelogic.co.nz](https://web.archive.org/web/20181229155439id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.co.nz)
+ **email:**[privacy@corelogic.co.nz](https://web.archive.org/web/20190623191203id_/https%3A//www.corelogic.com.au/about-us/privacy@corelogic.co.nz)
 
 Mailing address:   
 CoreLogic NZ Limited  
