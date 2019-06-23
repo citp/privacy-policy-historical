@@ -1,67 +1,61 @@
-> *The following text is extracted and transformed from the emailserving.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129190151id_/http%3A//www.emailserving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailserving.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623205516id_/http%3A//www.yesuphost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of Our Email Marketing Service | Emailserving.com Emailserving
+# Privacy Policy
 
-## Emailserving, Yesup Ecommerce Solutions Inc. Website and Products Terms and Conditions
+At Yesup, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor’s will. We do not and will not share any personal information with any third parties unless by governmental order. We have NO access to any information collected by our Payment Services Providers and you may direct further inquiries here:
 
-### Privacy Policy
+PayPal: http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside
 
-#### The Company has agreed to notify you of:
+**Cookies**
 
-  * What personally identifiable information of yours or third party personal identification is collected from you through the web site 
-  * The organization collecting the information 
-  * How the information is used 
-  * With whom the information may be shared 
-  * What choices are available to you regarding collection, use and distribution of the information 
-  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under The Company’s control 
-  * How you can correct any inaccuracies in the information 
+All browsers offer “cookies” and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information.
 
+At Yesup, we may use cookies to store your password so you don’t have to re-enter it each time you visit our sites.
 
+Yesup will NOT:
 
-### Information Collection and Use
+– Use cookies to identify, monitor or track any personally identifiable information.  
+– Have cookies that contain any personally identifiable information about you.  
+– Merge or associate our cookie information with any other visitor’s confidential and identifiable data obtained by us or from 3rd parties. You also have flexible choices in respect to cookies. By simply modifying your browser preferences, you have the right to choose whether to accept all cookies, to be notified when a cookie is set or to reject all cookies. For more information on how to modify your browser settings in order to block or filter cookies, please visit http://www.cookiecentral.com/faq/.
 
-The Company is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. The Company collects information from our users at several different points on our website. 
+However, please note that if you reject some or all cookies, your experience at our sites and on other sites throughout the web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you disable cookies, you will not be eligible to take advantage of personalized content delivery offered by us or other Internet sites.
 
-#### Information You Upload into Emailserving:
+**Third Party Cookies At Our Sites**
 
-The Company offers self-service direct marketing solutions for small and mid-size businesses. All client data uploaded into our system is stored in a personalized and secure location. The Company will not sell, disclose or rent any client data loaded into our system and only the registered account holder can gain access to the uploaded lists. 
+While we use cookies in other parts of our website, cookies received with the payment process are placed by our payment service provider. We do not have access to these cookies or any information that they may contain. Please contact the payment service provider for more information as noted above.
 
-### Cookies
+**Registration Forms**
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our general website. Once the user closes their browser, the cookie simply terminates. Session-based cookies are used by us to determine general effectiveness of marketing campaigns. In such cases, we collect an aggregate number indicating success for that marketing campaign, but do not associate it to any of your personally identifiable information. If a user rejects the cookie, they may still use our entire site. 
+Our site’s registration form requires users to provide contact information, such as their name, email, and postal address. This contact information is only used to get in touch with the customer when necessary and is never sold or shared.
 
-### Log Files
+**External Links**
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not associated to personally identifiable information. 
+This site contains links to other sites. Yesup is not responsible for the privacy practices or the content of the websites you visit once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links.
 
-### Sharing
+webmaster@Yesup.com
 
-We will share aggregated demographic information with 3rd parties in the case they would like to know aggregate demographics of our audience. This is not associated to any personal information that can identify any individual person. We do not share personally identifiable information with 3rd parties. 
+**Sending Emails to Our Clients**
 
-### Links
+Please note that we send all new members a verification email to verify password and username. By submitting your email to us when you create an account, your email will be added within our opt-in email contact list. Members will receive periodic emails with information such as newsletters, email promotions on products or services, or special deals, from Yesup, as well as any companies affiliated with Yesup as well. If you wish to stop receiving these emails, you can click on the unsubscribe link that’s included with every email or contact us directly.
 
-This web site contains links to other sites. Please be aware that we the Company are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by Emailserving.com. 
+**Your Rights & the EU General Data Protection Act**
 
-### Security
+We are committed to GDPR compliance when enforcement begins on May 25, 2018. If you are a resident of the European Economic Area, you have the following rights with respect to data for which Yesup is the Data Controller:
 
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. 
+1\. The right to request access to, or ask us to provide you with copies of, Personal Data that we hold about you at any time, which may be subject to a fee specified by law for processing your request (but not for making a request for access). If Yesup is the Data Controller with respect to your data, we will respond to your request within a reasonable period, and if Yesup is the Data Processor with respect to your data, we may redirect your request to Yesup’s customer acting as the Data Controller with respect to your data. We may decline a request for access to Personal Data in circumstances prescribed by relevant privacy laws. If we decline a request, we will provide you with a written notice that sets out the reasons for the refusal (unless it would be unreasonable to provide those reasons) and provide you with a statement regarding the mechanisms available to you to make a complaint;
 
-This security is reinforced by our use of firewalls protecting all of the Company servers. We also do everything in our power to protect user-information off-line. All of our users’ information is restricted in our offices. Only employees who need the information to perform a specific job (for example, our customer service representative) are able to access personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the physical servers that we store personally identifiable information on are kept in a secure collocation facility, within locked cages that only The Company network administrators have access to. This facility provides security 24 hours a day, 365 days a year and guaranties our servers against power outages by using automated backup power systems. 
+2\. The right to ask us to delete any Personal Data that we hold about you free of charge, unless we are required to maintain a copy of this data pursuant to applicable law;
 
-### Special Offers
+3\. The right to ask us to update and correct any out-of-date or incorrect or inaccurate Personal Data that we hold about you free of charge. We will take reasonable steps to correct the information so that it is accurate, complete and up to date. If we refuse to correct your Personal Data, we will provide you with a written notice that sets out the reasons for our refusal (unless it would be unreasonable to provide those reasons) and provide you with a statement regarding the mechanisms available to you to make a complaint;
 
-We send all new members a verification email to verify password and username. Established members who have chosen to receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
+4\. The right to opt out of any marketing communications that we (or any third-party to whom we have disclosed your Personal Data with your consent) may send you or to withdraw your prior consent or object to any further processing of your Personal Data;
 
-### Administrative Type Email Communications
+5\. The right to request information about any automated decisions made using your Personal Data that have legal consequences for you or which significantly affect you; and
 
-Please note that we send all new members a verification email to verify password and username. By submitting your email to us when you create an account, your email will be added within our opt-in email contact list. Members will receive periodic emails with information such as newsletters, email promotions on products or services, or special deals, from Emailserving, as well as any companies affiliated with Emailserving as well. If you wish to stop receiving these emails, you can click on the unsubscribe link that’s included with every email or contact us directly.
+6\. The right to lodge a complaint with your local Data Protection Authority concerning Yesup’s processing of your Personal Data.
 
-You will receive administrative emails that are related to the primary usage of our service. You may not opt-out of administrative emails. These administrative emails will not have any marketing, promotional or advertising material(s) in them. 
+If you wish to exercise any of the above rights, send us an email at privacy@Yesup.com headed “Data Subject Request.” Before we process any request, we may ask you for certain Personal Data to verify your identity, and in situations where Yesup is the Data Processor, consult with the Data Controller of your data. Where permitted by local law, we may reject requests that are unreasonable or impractical. Please allow us a reasonable time to respond to your inquiries and requests.
 
-### Correction/Updating Personal Information
+**Contacting the Website**
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will strive to provide a way to correct and update that user’s personal data provided to us. If you would like your account deactivated please state this in your communications and we will do this. 
-
-### Legal Disclaimer
-
-Though we make every effort to preserve your privacy we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site. 
+If you have any questions about this privacy statement, the practices of this site, or concerns about this website, please contact: webmaster@Yesup.com
