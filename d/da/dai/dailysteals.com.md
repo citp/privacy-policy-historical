@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailysteals.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201092408id_/https%3A//www.dailysteals.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysteals.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624000045id_/https%3A//www.dailysteals.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Daily Steals
 
@@ -93,9 +93,8 @@ We may update this privacy policy from time to time in order to reflect, for exa
 
 3.3 The terms of this Addendum shall be governed by and interpreted in accordance with the laws of the Province of Ontario and the laws of Canada applicable therein, without regard to principles of conflicts of laws. The parties irrevocably and unconditionally submit to the exclusive jurisdiction of the courts of the Province of Ontario with respect to any dispute or claim arising out of or in connection with this Addendum.
 
-The Site is not intended for individuals under the age of 16.
+We respect your privacy. We will only use information you provide through the Program to transmit your mobile messages and respond to you, if necessary. This includes, but is not limited to, sharing information with platform providers, phone companies, and other vendors who assist us in the delivery of mobile messages.  WE DO NOT SELL, RENT, LOAN, TRADE, LEASE, OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH THE PROGRAM TO ANY THIRD PARTY. Nonetheless, We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property. When you complete forms online or otherwise provide Us information in connection with the Program, you agree to provide accurate, complete, and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If, in Our sole discretion, We believe that any such information is untrue, inaccurate, or incomplete, or you have opted into the Program for an ulterior purpose, We may refuse you access to the Program and pursue any appropriate legal remedies.
 
-CONTACT US  
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e‑mail at support@dailysteals.com or by mail using the details provided below:
+California Civil Code Section 1798.83 permits Users of the Program that are California residents to request certain information regarding our disclosure of the information you provide through the Program to third parties for their direct marketing purposes.  To make such a request, please contact us at the following address: 
 
-Daily Steals
+This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
