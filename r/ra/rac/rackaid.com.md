@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rackaid.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606225325id_/https%3A//www.rackaid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackaid.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623163800id_/https%3A//www.rackaid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Server Support & Management by rackAID
 
