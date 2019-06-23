@@ -1,131 +1,137 @@
-> *The following text is extracted and transformed from the getdroidtips.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201223849id_/https%3A//www.getdroidtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdroidtips.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623195654id_/https%3A//www.getdroidtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+_Effective May 25, 2018_
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+We respect privacy and your rights to control your personal data. Our principle guidelines are simple. We will be clear about the data we collect and why. We may also change this Policy from time to time so please check this page occasionally to ensure that you’re happy with any changes. By using our website, you’re agreeing to be bound by this Policy and the [Terms of Use](https://www.getdroidtips.com/terms-of-use/).
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your or other details to help you with your experience.
+This Privacy Policy (“ **Privacy Policy** ”) relates to the website www.getdroidtips.com (hereinafter referred to as the “ **Site** ”), the owner of the Site, (“ **We** “, “ **Us** “, “ **Our** “, “ **Ourselves** ” and/or “ **GetDroidTips”** ) and any related software applications (‘Apps’), where Personal Data is processed by the same (via the Site, any of Our Apps or otherwise) relating to You. In this Privacy Policy, “ **You** ” and “ **Your** ” and “ **User** ” refer to an identified or identifiable natural person being the User of the Site and/or any of Our provided services. If you have any questions about our Privacy Policy, our collection practices the processing of user information, or if you would like to report a security violation to us directly, please contact us via our [Contact Us page](https://www.getdroidtips.com/contact-us/) or our postal address (Mentioned below).
 
-**When do we collect information?**
+## 1\. Who we are
 
-We collect information from you when you subscribe to a newsletter, fill out a form or enter information on our site.
+Our website address is https://www.getdroidtips.com, which is owned and managed by Mr. Abdul Razak.
 
-Provide us with feedback on our products or services 
+## 2\. How do we collect information from you?
 
-**How do we use your information?**
+We collect information about you when you use our website, post comments or if you register to receive one of our weekly newsletters.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+## 3\. What personal data we collect and why we collect it
 
-**•** To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+### General Data
 
-**•** To allow us to better service you in responding to your customer service requests.
+The use of our services will automatically create information that will be collected. For example, when you use our Services, how you use the Services, information about the type of device you use, your Open Device Identification Number, date/time stamps for your visit, your unique device identifier, your browser type, operating system, Internet Protocol (IP) address, and domain name are all collected. This information is used on our Site for the following purposes:
 
-**•** To ask for ratings and reviews of services or products
+  * Operate, maintain, and improve our site and services;
+  * Respond to comments and questions posted by you;
+  * Send information including confirmations, updates, security alerts, and support and administrative messages;
+  * Communicate about promotions, upcoming events, and other news about products and services offered by us and our selected partners;
+  * Develop, improve, and deliver marketing and advertising for the Services;
+  * Provide and deliver products and services you request;
+  * Identify you as a user in our system;
+  * Facilitate the creation of and secure your Account on our network.
 
-**How do we protect your information?**
 
-We do not use vulnerability scanning and/or scanning to PCI standards. We only provide articles and information. We never ask for credit card numbers. We use regular Malware Scanning.
 
-**Do we use 'cookies'?**
+### Log Files
 
-We do not use cookies for tracking purposes
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to maintain and improve the performance of the Services.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
+### Cookies
 
-If you turn cookies off, some features will be disabled. that make your site experience more efficient and may not function properly. However, you will still be able to place orders .
+“Cookies” are small pieces of information (text files) that a website sends to your computer’s hard drive while you are viewing the website. These text files that can be used by websites to make a user’s experience more efficient.
 
-  * **Click here to opt-out of Google Analytics**
+The law states that we can store these cookies on your device if they are strictly necessary for the operation of this site.
 
+If you leave a comment on our site you may opt-in to save your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year. We also use third-party advertising companies (Google Adsense) to serve ads when you visit our Site, and they may deploy cookies in order to provide advertisements about goods and services of interest to you.
 
+For more information on how to set your browser cookie restrictions, please refer to your browsers help function. Please be aware that restricting cookies could seriously restrict the functionality of our website.
 
-**Third-party disclosure**
+###  **Analytics**
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety.
+We use analytics services (Google Analytics) to help analyze how users use the Site. Google Analytics uses Cookies to collect information such as how often users visit the Site and we use the information to improve our Site and Services. The data we collect will be processed anonymously and “Data sharing” is disabled.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Google Analytics’ ability to use and share information collected by them is restricted by their terms of use and privacy policy, which you should refer to for more information about how these entities use this information. In order to be compliant with the new regulation, Google included a [data processing amendment](https://www.google.com/analytics/terms/dpa/dataprocessingamendment_20130906.html). You can also visit [Google Analytics’ Help Page](https://support.google.com/analytics/answer/6004245?hl=en) to learn how it uses your data and commits to protecting it.
 
-**Third-party links**
+### Comments
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+When visitors leave comments on the site we collect the data shown in the comments form (such as the user’s name and email address), and also the visitor’s IP address and browser user agent string to help spam detection (Using  _Akismet: Check Akismet[Privacy Policy](https://automattic.com/privacy/) here_)
 
-[Google](https://www.getdroidtips.com/tag/google/)'s advertising requirements can be summed up by [Google](https://www.getdroidtips.com/tag/google/)'s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. After approval of your comment, your profile picture is visible to the public in the context of your comment. The Gravatar service privacy policy is available [here](https://automattic.com/privacy/).
 
-We have not enabled Google AdSense on our site but we may do so in the future.
+### Media
 
-**California Online Privacy Protection Act**
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to this Site can download and extract any location data from images on the website.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+### Embedded content from other websites
 
-**According to CalOPPA, we agree to the following:**
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-Users can visit our site anonymously.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+Please visit their websites to learn more about how they collect your data.
 
-Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
+###  **Advertising**
 
-You will be notified of any Privacy Policy changes:
+Ads appearing on our site are delivered to the Users by our advertising partner –  _Google Adsense_ , who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**•** On our Privacy Policy Page
+Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website or other websites. Google’s use of advertising cookies enables it and its partners to serve ads to your users based on their visit to our site and/or other sites on the Internet.
 
-Can change your personal information:
+You may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can also opt out of a third-party vendor’s use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).) We are in compliant with GDPR Privacy Policy rules updated by Google and their products [here](https://policies.google.com/privacy).
 
-**•** By logging in to your account
+## 
 
-**How does our site handle Do Not Track signals?**
+4\. Who we share your data with
 
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+We do not sell, trade, or rent Users’ personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes such as personalized ads, comments, newsletters, and others are outlined above.
 
-**Does our site allow third-party behavioral tracking?**
+We may use third-party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-It's also important to note that we do not allow third-party behavioral tracking
+## 
 
-**COPPA (Children Online Privacy Protection Act)**
+5\. Where we send your data
 
-When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+As outlined above, GetDroidTips.com.com may share the collected data with the following third-party networks and services:
 
-We market to
+  *  **Google and their partners**  – Please refer to [Google’s privacy policy](https://www.google.com/policies/technologies/partner-sites/).
+  *  **Akismet Anti-Spam**  – If you leave a comment on the site, Akismet may collect the required information for automated spam detection. Please visit their [privacy policy](https://automattic.com/privacy/) to know more.
+  *  **Push Engage –** If you subscribe to our push notification service, this will only collect the geolocation that is country, state, and the city at the time of subscription. This service does not store any personal data that can identify a subscriber individually at the time of web push subscription. In case if you don’t want to share your location, then you can disable it by navigating to Settings > Privacy settings. From there you can enable or disable the geolocation. Visit their [Privacy Policy](https://www.pushengage.com/privacy).
+  *  **Cloudways**  – Cloudways is a cloud application deployment, management, and infrastructure management provider. Cloudways is providing us with managed Google Cloud Platform services. Please [Cloudways privacy policy](https://www.cloudways.com/en/terms.php#privacy) here.
+  *  **Google Cloud Platform** – We are using the Google cloud server to store our content and data. Visit their [Privacy Policy page](https://policies.google.com/privacy) to know how they protect our content and data stored on their servers.
 
-We do not collect information from children under 13
 
-children under 13.
 
-No
+## 
 
-**In order to remove your child's information please contact the following personnel:**
+6\. How long we retain your data
 
-**We adhere to the following COPPA tenants:**
+GetDroidTips.com strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-**•** Parents can review, delete, manage or refuse with whom their child's information is shared through contacting us directly.
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-or contacting us directly.
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. Information collected using Google Analytics is retained for a period of 14 months. After the end of the retention period, the data is deleted automatically.
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+## 
 
- **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+7\. How we protect your data
 
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+We strictly protect the security of your personal information and honor your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+  * We keep our software up to date and take a regular audit to improve security.
+  * We use 2048 bit SSL certificate with modern TLS for the encryption.
+  * We use the highly strong password and Two Factor Authentication everywhere.
+  * We are also using security measures provided by CloudFlare to protect the Site. [Check Cloudflare Privacy Policy [Here](https://www.cloudflare.com/privacypolicy/)]
 
- **•** Not use false or misleading subjects or email addresses.
 
- **•** Identify the message as an advertisement in some reasonable way.
 
- **•** Include the physical address of our business or site headquarters.
+## 
 
- **•** Monitor third-party email marketing services for compliance, if one is used.
+8. What data breach procedures we have in place?
 
- **•** Allow users to unsubscribe by using the link at the bottom of each email.
+  * We will notify you via email within 1 business day
+  * We will notify the users via in-site notification within 1 business day
+  * We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
- **  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
- **•** Follow the instructions at the bottom of each email.
 
-and we will promptly remove you from **ALL** correspondence.  
-
-
-If there are any questions regarding this privacy policy, you may contact us using the information below.
+We believe you should have choices about the collection, use, and sharing of your information. Although you cannot opt-out of all data collection when you visit our sites, you can limit the collection, use, and sharing of your personally identifiable information. For information regarding your choices related to interest-based advertising, please refer to “Advertising” subsection under  “What personal data we collect and why we collect it” section above.
