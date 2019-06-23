@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingthe.net privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221014947id_/http%3A//www.streamingthe.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingthe.net privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623122903id_/https%3A//www.streamingthe.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy StreamingThe.Net
 
