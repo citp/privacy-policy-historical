@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sandia.gov privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206172851id_/http%3A//www.sandia.gov/general/privacy-security/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandia.gov privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623145904id_/https%3A//www.sandia.gov/general/privacy-security/index.html) for the most accurate reproduction.*
 
 # Sandia National Laboratories: Privacy and Security
 
 ## Privacy Notice
 
-This notice applies to all visitors to websites under the control of National Technology and Engineering Solutions of Sandia, LLC.. Some Sandia websites may provide more detailed privacy, security or disclaimer notices, in which case those notices take precedence over this notice.
+This notice applies to all visitors to websites under the control of National Technology and Engineering Solutions of Sandia, LLC.. Some websites associated with Sandia National Laboratories may provide more detailed privacy, security or disclaimer notices, in which case those notices take precedence over this notice.
 
-We collect no personal information about you when you visit a Department of Energy website, unless otherwise stated or unless you choose to provide this information to us. However, we collect and store the following information automatically and through the use of:
+We collect no personal information about you when you visit a website associated with Sandia National Laboratories unless otherwise stated or unless you choose to provide this information to us. However, we collect and store the following information automatically and through the use of:
 
   * The Internet Protocol (IP) address of the domain from which you access the Internet (i.e., 123.456.789.012) whether yours individually or provided as a proxy by your Internet Service Provider (ISP)
   * The date and time you access our site
@@ -15,6 +15,10 @@ We collect no personal information about you when you visit a Department of Ener
   * The browser name and version you are using
 
 
+
+**If you prefer not to proceed knowing that information is collected and used as described herein, we recommend that you discontinue your use of this site.**
+
+In addition, we may use [Google Analytics](https://www.google.com/analytics/) to collect and analyze this information. Google Analytics uses a persistent cookie to track your usage of our site. Details about Google Analytics, including how to opt out of Google Analytics tracking, may be found at their website. If you choose to opt out of Google Analytics tracking, you will still have access to all of the information on this site.
 
 We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas. This information is NOT shared with anyone beyond the support staff to this home page, except when required by Law Enforcement investigation, and is used only as a source of anonymous statistical information.
 
@@ -50,4 +54,4 @@ This work of authorship was prepared as an account of work sponsored by an agenc
 
 ## Copyright 
 
-All Rights Reserved. 1997-2018 National Technology and Engineering Solutions of Sandia, LLC.. For copyright inquiries, contact [webmaster@sandia.gov](mailto:webmaster@sandia.gov).
+All Rights Reserved. 1997- 2019 National Technology and Engineering Solutions of Sandia, LLC.. For copyright inquiries, contact [webmaster@sandia.gov](mailto:webmaster@sandia.gov).
