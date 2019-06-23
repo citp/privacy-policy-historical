@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shockwave.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204063534id_/http%3A//www.shockwave.com/about/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shockwave.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623220610id_/http%3A//www.shockwave.com/about/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Shockwave - Privacy Policy
 
@@ -19,9 +19,9 @@ For your convenience, the following is a quick summary of our Privacy Policy.
 
 **COMPANY'S AD CHOICES DISCLOSURE**
 
-DEFY Media, LLC ("DEFY") is committed to providing you with the very best experience we can on our network of websites and applications (collectively, the "Site"). In order to do so, we may gather certain information about you. Please read the following policy ("policy") to understand how certain of your information collected on the Site will be collected, used, shared, and retained. 
+Addicting Games, Inc. ("AG") is committed to providing you with the very best experience we can on our network of websites and applications (collectively, the "Site"). In order to do so, we may gather certain information about you. Please read the following policy ("policy") to understand how certain of your information collected on the Site will be collected, used, shared, and retained. 
 
-WHAT INFORMATION DOES DEFY COLLECT? 
+WHAT INFORMATION DOES AG COLLECT? 
 
 | 
 
@@ -35,21 +35,21 @@ BEHAVIORAL ADVERTISING
 
 We analyze non-personal information that we collect on the Site, or obtain from third parties, and organize it into anonymous user profiles, groups, and audiences, based on factors such as age, gender, geography, interests, and online actions. We and our clients and partners then use these anonymous user profiles, groups, and audiences to design and deliver customized advertising campaigns or other relevant content. We and our clients also use this data for other related purposes (for example, to do research regarding the results of our online advertising campaigns or to better understand the interests or activities of our visitors.) The behavioral categories we use to customize the ads you may see or for related purposes do not use personal information such as your name, address, e-mail address, phone number, birth date or social security number. Our technology and services are designed to limit our use of data for purposes of behavioral advertising to anonymous, non-personal information. 
 
-When you visit any of the Site and view ads from DEFY's advertisers, DEFY automatically receives and stores certain types of non-personal information including IP address, web pages viewed, date and time, and responses to advertisements delivered. While each advertising technology uses different types of technology to collect this information, including log files, cookies, and pixels, none of the foregoing by itself or together can be tracked to a specific individual's personal information, and the non-personal information collected by DEFY will not be shared with third parties, except as expressly indicated in this policy. The non-personal information collected through your use of the Site is used to provide relevant, targeted advertising and improve DEFY's advertising technology; monitor website traffic; collect statistical data; determine the effectiveness of advertisements and content; and collect data across multiple websites to categorize likely consumer interest segments for use in online behavioral advertising. DEFY may track visits to the Site and this information may be used over time to help predict your consumer interest segments and select the ad content you see. DEFY may also use non-personally identifiable profile-based anonymous information with other non-personal information. 
+When you visit any of the Site and view ads from AG's advertisers, AG automatically receives and stores certain types of non-personal information including IP address, web pages viewed, date and time, and responses to advertisements delivered. While each advertising technology uses different types of technology to collect this information, including log files, cookies, and pixels, none of the foregoing by itself or together can be tracked to a specific individual's personal information, and the non-personal information collected by AG will not be shared with third parties, except as expressly indicated in this policy. The non-personal information collected through your use of the Site is used to provide relevant, targeted advertising and improve AG's advertising technology; monitor website traffic; collect statistical data; determine the effectiveness of advertisements and content; and collect data across multiple websites to categorize likely consumer interest segments for use in online behavioral advertising. AG may track visits to the Site and this information may be used over time to help predict your consumer interest segments and select the ad content you see. AG may also use non-personally identifiable profile-based anonymous information with other non-personal information. 
 
-DEFY does not create or use potentially sensitive data segments to provide its targeted online behavioral advertising for advertisers, including, but not limited to, health related audience segments.   
+AG does not create or use potentially sensitive data segments to provide its targeted online behavioral advertising for advertisers, including, but not limited to, health related audience segments.   
   
 TRANSPARENCY IN ONLINE BEHAVIORAL ADVERTISING 
 
 | 
 
-DEFY is a member of the NAI (Network Advertising Initiative) and adheres to the NAI Code of Conduct, which may be found [here](http://www.networkadvertising.org/code-enforcement/code), and the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, which may be found [here](http://www.aboutads.info/obaprinciples).   
+AG is a member of the NAI (Network Advertising Initiative) and adheres to the NAI Code of Conduct, which may be found [here](http://www.networkadvertising.org/code-enforcement/code), and the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, which may be found [here](http://www.aboutads.info/obaprinciples).   
   
 OPT-OUT 
 
 | 
 
-You may choose to not participate in our personalized advertising services by "opting out" of such personalized advertising services through the Network Advertising Initiative's Consumer Opt-out Program. Opting out will not remove advertisements. You will continue to see advertisements provided by DEFY, but the advertising will not be customized or targeted based on information collected by DEFY. Your will need to update your opt-out preferences if you change/update browsers or computers, or if you delete cookies. See the "Behavioral advertising" section above for more information on how to opt out of online behavioral advertising by certain third parties on the Site.   
+You may choose to not participate in our personalized advertising services by "opting out" of such personalized advertising services through the Network Advertising Initiative's Consumer Opt-out Program. Opting out will not remove advertisements. You will continue to see advertisements provided by AG, but the advertising will not be customized or targeted based on information collected by AG. Your will need to update your opt-out preferences if you change/update browsers or computers, or if you delete cookies. See the "Behavioral advertising" section above for more information on how to opt out of online behavioral advertising by certain third parties on the Site.   
   
 DATA RETENTION 
 
@@ -61,25 +61,25 @@ WITH WHOM DO WE SHARE YOUR INFORMATION AND FOR WHAT PURPOSE?
 
 | 
 
-Except as may otherwise be expressly set forth in this policy or in our privacy policy, DEFY does not sell, rent, or trade any personally identifying information with third parties unless users consent to such sharing practices. We may from time to time share user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products, and services.   
+Except as may otherwise be expressly set forth in this policy or in our privacy policy, AG does not sell, rent, or trade any personally identifying information with third parties unless users consent to such sharing practices. We may from time to time share user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products, and services.   
   
 WHAT ARE "COOKIES" AND "WEB BEACONS" AND HOW DO WE USE THEM? 
 
 | 
 
-The Site may use "cookies" and "web beacons" to speed navigation, keep track of items viewed, clicked on and/or shared, including links and advertisements, and provide you with custom-tailored services. A "web beacon" is an embedded GIF file that specifically helps us track whether you have viewed a specific piece of content. We also use "cookies" to remember information you gave us, so you don't have to re-enter it each time you visit the Site. By showing us how and when visitors use the Site, "cookies" and "web beacons" allow us to see which DEFY Site areas and content are popular, and help us target content and advertisements based on user behavior. In addition, "cookies" will allow us to display in your profile which DEFY and affiliated websites you have visited, unless you opt out of that feature in your account. We also collect IP addresses for system administration and to report aggregate information to any sponsors. Some advertisers or websites that have links on our site may also use their own "cookies." We do not control these "cookies." You should check the privacy policy of these advertisers or websites to see whether and how they use "cookies." 
+The Site may use "cookies" and "web beacons" to speed navigation, keep track of items viewed, clicked on and/or shared, including links and advertisements, and provide you with custom-tailored services. A "web beacon" is an embedded GIF file that specifically helps us track whether you have viewed a specific piece of content. We also use "cookies" to remember information you gave us, so you don't have to re-enter it each time you visit the Site. By showing us how and when visitors use the Site, "cookies" and "web beacons" allow us to see which AG Site areas and content are popular, and help us target content and advertisements based on user behavior. In addition, "cookies" will allow us to display in your profile which AG and affiliated websites you have visited, unless you opt out of that feature in your account. We also collect IP addresses for system administration and to report aggregate information to any sponsors. Some advertisers or websites that have links on our site may also use their own "cookies." We do not control these "cookies." You should check the privacy policy of these advertisers or websites to see whether and how they use "cookies." 
 
 Most browsers are initially set to accept "cookies." If you'd prefer, you can set yours to refuse "cookies." You will not be able to fully use the Site if you turn off the "cookies" option. 
 
 If you have any questions or concerns about this policy, you may contact us or write to the following address: 
 
-DEFY Media, LLC  
-366 5th Avenue, 4th Floor  
-New York, NY 10001  
+Addicting Games, Inc.  
+Suite 200, 15332 Antioch Street  
+Los Angeles, California 9027  
 Attn: California Privacy  
 Telephone: (212)244-4307  
 Facsimile: (212)244-4311  
-E-mail: privacy@defymedia.com   
+E-mail: privacy@addictinggames.com   
   
 Thank you for visiting the Site! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information. 
 
@@ -101,7 +101,7 @@ We may collect information about you through a variety of methods, such as your 
 
 
 
-You may view or change your information at any time; if you'd like to do so, please [CONTACT US](mailto:privacy@defymedia.com?subject=Site%20Personal%20Information%20Request). Please include documents that prove your identity and a clear and precise description of the information to which you request access. 
+You may view or change your information at any time; if you'd like to do so, please [CONTACT US](https://shockwavehelp.zendesk.com/hc/en-us/requests/new). Please include documents that prove your identity and a clear and precise description of the information to which you request access. 
 
 You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins, and applications, you may allow us to have access to certain information from your social media profile (e.g., your name, e-mail address, photo, gender, birthday, location, list of friends, people you follow and/or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, games played and performance, high scores, and information about advertisements within the content you have been shown or may have clicked on,) from your interaction with our content. 
 
@@ -126,19 +126,19 @@ We also may use third-party website analytics tools (such as Omniture or Google)
 
 **How We Use Your Personal Information.**
 
-We use your personal information to provide you with products or services that you have requested, to respond to questions or communications and to get in touch with you when necessary. For example, we may use your personal information to communicate with you or to send you information that you have requested. Except as otherwise set forth on the Site, in addition, we may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. We do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy. Thus, we may also share personal information provided online with DEFY Affiliates. Any of these companies may use and further share this information in the same ways we do. However, if we pass on personal information to a family company, we require that it protect such information in a manner that is consistent with this policy and your expressed preferences. For example, a family company may send to you an e-mail regarding special offers and announcements about products or services that it thinks might be of interest to you. A family company may also contact you offline. If you want to opt-out from our (or a family company) using the personal information you provided in these ways, please [CONTACT US](mailto:privacy@defymedia.com?subject=Site%20Personal%20Information%20Request). Please include documents that prove your identity and a clear and precise description of the manner in which you'd like to opt-out. 
+We use your personal information to provide you with products or services that you have requested, to respond to questions or communications and to get in touch with you when necessary. For example, we may use your personal information to communicate with you or to send you information that you have requested. Except as otherwise set forth on the Site, in addition, we may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. We do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy. Thus, we may also share personal information provided online with AG Affiliates. Any of these companies may use and further share this information in the same ways we do. However, if we pass on personal information to a family company, we require that it protect such information in a manner that is consistent with this policy and your expressed preferences. For example, a family company may send to you an e-mail regarding special offers and announcements about products or services that it thinks might be of interest to you. A family company may also contact you offline. If you want to opt-out from our (or a family company) using the personal information you provided in these ways, please [CONTACT US](https://shockwavehelp.zendesk.com/hc/en-us/requests/new). Please include documents that prove your identity and a clear and precise description of the manner in which you'd like to opt-out. 
 
 From time to time, we may present you with opportunities to participate in special, limited, or unique promotions, like sweepstakes, contests, giveaways, surveys, and other similar offers (each, a âSpecial Opportunityâ) through the Site. A Special Opportunity may be governed by a privacy policy and/or terms and conditions that are additional to and/or separate from this Privacy Policy and the Terms of Use. If the provisions of the Special Opportunity's privacy policy or terms and conditions conflict with this Privacy Policy or the Terms of Use, those additional or separate provisions will control and prevail. If you participate in a Special Opportunity, we may ask you for certain information in addition to what is stated in this Privacy Policy, including personal information. That additional information may be combined with other account information and may be used and shared as described in this Privacy Policy. 
 
 **Updating or Removing Your Personal Information.**
 
-Please [CONTACT US](mailto:privacy@defymedia.com?subject=Site%20Personal%20Information%20Request) at any time to update or change your personal information. Please include documents that prove your identity and a clear and precise description of the information to which you request access. 
+Please [CONTACT US](https://shockwavehelp.zendesk.com/hc/en-us/requests/new) at any time to update or change your personal information. Please include documents that prove your identity and a clear and precise description of the information to which you request access. 
 
 **How We Share Your Personal Information.**
 
-We will not share with third parties the personal information you provide except (a) if it is for the purpose(s) you provided it; (b) with your consent; (c) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); (d) with other persons, service providers or companies with whom we contract to carry out internal site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the Site); and/or (e) notifying you when we make material changes to one of our subscriber agreements or this policy. Examples of us sharing your personal information for the purposes submitted are if you participate in a third-party survey or request information from a third-party, we may provide the information provided to such third party so that they can send to you directly the information you requested. We will seek to obtain your consent at the place where the information is collected either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). As stated above, we do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy and may also share personal information provided online with DEFY Affiliates. Any of these companies may use and further share this information in the same ways we do. However, if we pass on personal information to an Affiliate, we require that it protect such information in a manner that is consistent with this policy. If you want us to stop sharing your personal information among DEFY Affiliates, please [CONTACT US](mailto:privacy@defymedia.com?subject=Site%20Personal%20Information%20Request). Please include documents that prove your identity and a clear and precise description of the manner in which you'd like to opt-out. 
+We will not share with third parties the personal information you provide except (a) if it is for the purpose(s) you provided it; (b) with your consent; (c) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); (d) with other persons, service providers or companies with whom we contract to carry out internal site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the Site); and/or (e) notifying you when we make material changes to one of our subscriber agreements or this policy. Examples of us sharing your personal information for the purposes submitted are if you participate in a third-party survey or request information from a third-party, we may provide the information provided to such third party so that they can send to you directly the information you requested. We will seek to obtain your consent at the place where the information is collected either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). As stated above, we do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy and may also share personal information provided online with AG Affiliates. Any of these companies may use and further share this information in the same ways we do. However, if we pass on personal information to an Affiliate, we require that it protect such information in a manner that is consistent with this policy. If you want us to stop sharing your personal information among AG Affiliates, please [CONTACT US](https://shockwavehelp.zendesk.com/hc/en-us/requests/new). Please include documents that prove your identity and a clear and precise description of the manner in which you'd like to opt-out. 
 
-Additionally, with your consent, we may share the personal information you provide online with companies not affiliated with us (i.e. third-party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. We will seek to obtain your consent either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third-party service providers. If you want us to stop sharing your personal information with these companies, please [CONTACT US](mailto:privacy@defymedia.com?subject=Site%20Personal%20Information%20Request). Please include documents that prove your identity and a clear and precise description of the manner in which you'd like to opt-out. If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies. 
+Additionally, with your consent, we may share the personal information you provide online with companies not affiliated with us (i.e. third-party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. We will seek to obtain your consent either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third-party service providers. If you want us to stop sharing your personal information with these companies, please [CONTACT US](https://shockwavehelp.zendesk.com/hc/en-us/requests/new). Please include documents that prove your identity and a clear and precise description of the manner in which you'd like to opt-out. If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies. 
 
 If we do share personal information with a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information. 
 
@@ -152,9 +152,9 @@ We sometimes use the non-personal information that we collect to improve the des
 
 **Receipt of Communications; Opt-Out.**
 
-If you would prefer not to receive marketing or promotional e-mails from us that may relate, for example, to new services or offerings, you may opt-out of receiving these communications - [CONTACT US](mailto:privacy@defymedia.com?subject=Site%20Personal%20Information%20Request) to (i) deregister your account; or (ii) change or edit your preferences. You may also use the opt-out mechanism that is contained in an email. 
+If you would prefer not to receive marketing or promotional e-mails from us that may relate, for example, to new services or offerings, you may opt-out of receiving these communications - [CONTACT US](https://shockwavehelp.zendesk.com/hc/en-us/requests/new) to (i) deregister your account; or (ii) change or edit your preferences. You may also use the opt-out mechanism that is contained in an email. 
 
-If you would like to opt-out of receiving marketing or promotional postal mail from us, please [CONTACT US](mailto:privacy@defymedia.com?subject=Site%20Personal%20Information%20Request) or let us know in writing via letter addressed to: Attn: Privacy, DEFY Media, LLC 366 5th Avenue, 4th Floor, New York, NY 10001. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept postal mail opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings. 
+If you would like to opt-out of receiving marketing or promotional postal mail from us, please [CONTACT US](https://shockwavehelp.zendesk.com/hc/en-us/requests/new) or let us know in writing via letter addressed to: Attn: Privacy, Addicting Games, Inc. 366 5th Avenue, 4th Floor, New York, NY 10001. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept postal mail opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings. 
 
 Following your opt-out, please be aware that we, or our Affiliates, may continue to contact you via email or postal mail for administrative or informational purposes, including, but not limited to, follow-up messages regarding the administration of your account, any services, features or functions you have affirmatively enrolled in or registered to use, any promotions or sweepstakes you have participated in or have entered, goods, services or products you have ordered or other transactions you have undertaken on the Site. 
 
@@ -164,7 +164,7 @@ The Site may contain links to other websites, including links that are placed th
 
 **Online Tracking and Advertising.**
 
-We collect information regarding the Site visitors through various technologies, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit [Online Tracking and Advertising](http://defymedia.com/online-tracking-and-advertising/) for further information regarding this collection and usage, including how to disable cookies. 
+We collect information regarding the Site visitors through various technologies, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit our [Privacy Policy](http://www.addictinggames.com/legal/privacy-policy.jsp) for further information regarding this collection and usage, including how to disable cookies. 
 
 **Clickstream Data.**
 
@@ -184,17 +184,15 @@ We believe we have in place the appropriate physical, electronic, and managerial
 
 **Notice to California-Based Users.**
 
-Under California Civil Code Section 1798.83, if you are a resident of California, you may make a written request to the Site about how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your written request, under California Civil Code Section 1793.83(c)(2), the Site is allowed to instead provide you with a cost-free means to opt-out of such sharing, or a "Customer Choice Notice". For purposes of this California Privacy notice, third parties include companies within our "family" of companies, such as DEFY Affiliates. 
+Under California Civil Code Section 1798.83, if you are a resident of California, you may make a written request to the Site about how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your written request, under California Civil Code Section 1793.83(c)(2), the Site is allowed to instead provide you with a cost-free means to opt-out of such sharing, or a "Customer Choice Notice". For purposes of this California Privacy notice, third parties include companies within our "family" of companies, such as AG Affiliates. 
 
 The Site has chosen to provide you with a cost-free means to opt-out of such sharing. If you would like to exercise your rights under California law, please send your written request to the email address or postal address below, or call us at telephone number below. Within 30 days of receiving your request, the Site will provide you with a Customer Choice Notice. 
 
-DEFY Media, LLC  
-366 5th Avenue, 4th Floor  
-New York, NY 10001  
+Addicting Games, Inc.  
+Suite 200, 15332 Antioch Street  
+Los Angeles, California 9027  
 Attn: California Privacy  
-Telephone: (212)244-4307  
-Facsimile: (212)244-4311  
-E-mail: privacy@defymedia.com 
+E-mail: privacy@addictinggames.com 
 
 The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Site responds to âDo Not Trackâ browser settings. The Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed and we do not respond to such signals. We continue to review new technologies and reserve the right to adopt a standard once one is created. 
 
@@ -204,17 +202,17 @@ If you are visiting the Site from a location outside of the United States, your 
 
 **The General Data Protection Regulation**
 
-A new European Union law, referred to as the General Data Protection Regulation or "GDPR", gives certain rights to individuals in relation to their personal data. Accordingly, and so as to ensure we are compliant with applicable law and regulation, we do not collect nor utilize personal data of our European Union users and have implemented certain steps to geoblock the Site and restrict access to such users; we invite those users to visit our various programming channels. If you have any questions about your privacy, your rights, or how to exercise them, please [CONTACT US](mailto:privacy@defymedia.com?subject=Site%20Personal%20Information%20Request). We will respond to your request within a reasonable period of time upon verification of your identity. 
+A new European Union law, referred to as the General Data Protection Regulation or "GDPR", gives certain rights to individuals in relation to their personal data. Accordingly, and so as to ensure we are compliant with applicable law and regulation, we do not collect nor utilize personal data of our European Union users and have implemented certain steps to geoblock the Site and restrict access to such users; we invite those users to visit our various programming channels. If you have any questions about your privacy, your rights, or how to exercise them, please [CONTACT US](https://shockwavehelp.zendesk.com/hc/en-us/requests/new). We will respond to your request within a reasonable period of time upon verification of your identity. 
 
 **How You Can Access or Correct Your Personal Information.**
 
-For instructions on how you can access the personal information that we have collected about you online, or how to correct any errors in such information, please [CONTACT US](mailto:privacy@defymedia.com?subject=Site%20Personal%20Information%20Request). 
+For instructions on how you can access the personal information that we have collected about you online, or how to correct any errors in such information, please [CONTACT US](https://shockwavehelp.zendesk.com/hc/en-us/requests/new). 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
 **Special Note for Parents.**
 
-We will not knowingly accept personal information from anyone under 13 years old in violation of applicable law. If you believe that your child under 13 has gained access to the Site without your permission, please [CONTACT US](mailto:privacy@defymedia.com?subject=Site%20Personal%20Information%20Request). We have taken commercially reasonable steps to restrict use of the Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission. If you are under the Age Limit, do not use the Service and do not provide any personal information to us. 
+We will not knowingly accept personal information from anyone under 13 years old in violation of applicable law. If you believe that your child under 13 has gained access to the Site without your permission, please [CONTACT US](https://shockwavehelp.zendesk.com/hc/en-us/requests/new). We have taken commercially reasonable steps to restrict use of the Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission. If you are under the Age Limit, do not use the Service and do not provide any personal information to us. 
 
 **Transfer of Business Assets.**
 
@@ -226,12 +224,10 @@ Because our business needs may change over time, we reserve the right, at our di
 
 **How to Contact Us.**
 
-If you have any questions or concerns about this privacy policy you may [CONTACT US](mailto:privacy@defymedia.com?subject=Site%20Personal%20Information%20Request) or write to the following address: 
+If you have any questions or concerns about this privacy policy you may [CONTACT US](https://shockwavehelp.zendesk.com/hc/en-us/requests/new) or write to the following address: 
 
-DEFY Media, LLC  
+Addicting Games, Inc.  
 366 5th Avenue, 4th Floor  
 New York, NY 10001  
 Attn: Privacy  
-Telephone: (212)244-4307  
-Facsimile: (212)244-4311  
-E-mail: privacy@defymedia.com 
+E-mail: privacy@addictinggames.com 
