@@ -1,216 +1,205 @@
-> *The following text is extracted and transformed from the stackoverflowbusiness.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521203306id_/http%3A//stackexchange.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackoverflowbusiness.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623141607id_/http%3A//stackexchange.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Stack Exchange
+# Privacy Policy - Stack Overflow
 
 ## Stack Exchange, Inc. Privacy Policy
 
-###  Legally Useless Summary for Short Attention Spans. (Yes, you still have to read the real one on the right. Sorry, but you do.)
+INTRODUCTION 
 
-**We really, truly care about your privacy. We may joke around, but we mean it.**
+The Stack Overflow Network (also referred to herein as “Stack Overflow” or “Network”) is a set of related Internet sites and other applications for questions and answers, owned and operated by Stack Exchange, Inc. (“Stack Overflow”, “we” or “us”), a Delaware corporation. Stack Overflow welcomes you to the Network, the largest community of developers in the world, and invites you to participate in the community by sharing knowledge with your peers and colleagues. We have the modest goal of making the internet a better place, and as such are committed to your privacy. This privacy policy describes what information we collect on our Network and in the use of our Products and Services, how we use that information, and what options we offer you to control your personal information. 
 
-**This will teach you what info we collect and how we use it. If you wanted to learn to play the keytar, you’re in the wrong place.**
+We will need to process your personal information in order to offer the Network, and to offer you our Products and Services. By using the Network or (whether via the public or private Network, collectively the “Terms of Service”), or purchasing our Products or Services, you confirm that you have read and understood the Terms of Service and this privacy policy (“Privacy Policy”) including how and why we use your information and that your use of the Network is subject to the applicable Terms of Service and this Privacy Policy. If you do not want us to collect or process your personal information as described herein, you have several choices including limiting the information we collect on you, or not using the Network, or our Products and Services. 
 
-#### Who We Are and What This Is
+By using the Network or purchasing our Products and Services, you acknowledge that Stack Overflow will use your information in the United States, the United Kingdom, and Germany as well as any other country where Stack Overflow operates. This privacy policy has been updated to comply with the EU’s General Data Protection Regulation (GDPR) and this policy describes how we protect personal information that is transferred outside of the EU. Please be aware that the privacy laws and standards in certain countries, including the rights of authorities to access your personal information, may differ from those that apply in the country in which you reside. We will transfer personal information only to countries to which we are permitted by law to transfer personal information and we will continue to ensure that your personal information is appropriately safeguarded. 
 
-[The Stack Exchange network](https://stackexchange.com/) is a set of Q&A sites dedicated to providing high-quality questions and answers, with the modest goal of making the Internet a better place. It is owned and operated by Stack Exchange Inc.
+HOW WE COLLECT INFORMATION ON YOU 
 
-We take the private nature of your personal information very seriously, and are committed to protecting it. To do that, we’ve set up procedures to ensure that your information is handled responsibly and in accordance with applicable data protection and privacy laws. We’re grateful for your trust, and we’ll act that way.
+In the course of providing you access to the Network, as well as Products and Services, Stack Overflow collects and receives personal information in a few ways. Often, you can choose what information to provide, but sometimes we require personal information from you to carry out certain activities such as account verification. This section details the ways in which we collect information from you and how that information is received. 
 
-This privacy policy describes what information we collect when you visit the network, how we use that information, and what choices we offer you to access, update, and control it. This version of the policy is effective as of March 8, 2017. This policy may be revised in order to establish compliance with the forthcoming [General Data Protection Regulation (GDPR)](https://www.privacytrust.com/gdpr).
+Account Registration 
 
-### Privacy Shield Overview
+Although the Network provides for anonymous and pseudonymous participation, in some instances in order to use certain Products or Services, we require account registration. This requires a name associated with your account, an email address at which we can contact you, and in some cases, additional information including, a contact address, a billing address, and a password to help secure your personal information. 
 
-**We follow the strict Privacy Shield Framework that complies with the EU and Swiss privacy requirements.**
+Profile Information 
 
-Stack Exchange complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Stack Exchange has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. Covered entities include Stack Exchange, Inc., and Stack Exchange, Ltd. Stack Exchange is subject to the investigatory and enforcement powers of the Federal Trade Commission / Department of Transportation.
+When completing a public “profile” be it for use of the Network or our Products and Services, we may require you to share certain personally identifying information or sensitive information in required and optional profile fields. The name associated with your account, which you may review and change in your account settings, as well as reputation points are publicly displayed and connected to your activity on the Stack Overflow Network and via certain Products and Services such as our Talent and Teams platforms. 
 
-### Types of Information
+Other profile information may also be publicly displayed if you choose to complete certain elective components of the Account Registration options including, e.g., your Developer Story, display picture, affiliated role and company, your location and your preferred technologies (javascript, swift, sql-server, etc.), and some information is publicly displayed and required, such as how long you have been a member. Similarly, you may share additional information that is not required but will be displayed publicly at your election. If you are using the private Network (e.g., Stack Overflow for Teams), your account settings including, name, affiliated role and company, and other information may be shared with your private Network Team members designated as authorized users of your private Network account. While some of the public and private Network profile information is required, much of it is within your control as we describe herein and can be modified, updated, and restricted by you in your [Email Settings](https://web.archive.org/users/email/settings/current). 
 
-**“Personal” information can potentially identify who you are.**
+Information Collected Automatically 
 
-**“Sensitive” information can identify specific private attributes, such as ethnicity, health info, criminal history, or trade affiliations.**
+Stack Overflow receives and records information from your browser or mobile device when you visit the Network or use the Apps, such as your Internet Protocol (IP) address or unique device identifier. Cookies and data about which pages you visit on our Network allow us to operate and optimize the Products and Services we provide to you. This information is stored in secure logs and is collected automatically. We may combine this browser information with other information we collect about you. This information is used to keep the Products and Services secure, analyze and understand how our Products and Services are used, optimize such usage, provide advertising across the Network as well as certain Products and Services to personalize your experience, and to help connect you with potential job opportunities in the case of our recruiting Products and Services. 
 
-**“Personal information”** is any information that we could use to identify an individual. It does not include personal information that is encoded or anonymized, or publicly available information that has not been combined with non-public information.
+Location Information 
 
-**“Sensitive personal information”** is information that meets the “personal information” criteria and also a) reveals race, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or b) concerns health or sex life, information about social security benefits, or information on criminal or administrative proceedings other than in the context of pending legal proceedings.
+When you use the Stack Overflow Network, and certain of our Products and Services, we collect location information about you including your IP address, your location, browser information, and how you came to the Stack Overflow Network. This is the case for individuals who have registered for an account, and non-members who engage with the Stack Overflow Network by visiting our website(s) but who have not completed an account registration. This information is collected for various purposes, including advertising, analytics and to serve content as it relates to certain Products or Services (e.g., Talent), as well as to provide you with localized content, recommendations, and marketing. You may revoke our permission to collect some of this data, including your location and browser information through your Account Settings, but this may limit functionality in some cases. Certain location information we collect is required for security and site functionality. We share this information with certain third-parties (e.g., talent recruiters, payment processors, and advertising providers) in order to provide you with our Products and Services. 
 
-### How We Collect Information
+Information Shared with Third Parties 
 
-**Your web browser tells us stuff like your approximate location and how you use the site. It also bakes us yummy cookies.**
+We may share personal information with third parties who provide services to Stack Overflow, such as payment processors, email delivery services, and advertising providers. Additionally, to improve user experience, we offer single sign-on solutions for account login and these third parties (including Facebook and Google) may receive information from these services when you elect to use them. When Stack Overflow shares your personal information and other collected information with third party service providers, we require that they use your information only for the purpose of providing services to us and that their terms are consistent with this privacy policy. 
 
-**We try to use this non-personal info to help make better Q &A sites, and to destroy spam. We eat the cookies.**
+Advertising and Marketing Partners 
 
-**Your browser also gives us your IP address, which could identify you, but we don’t use it to do that. For real.**
+When you register for an account, and when you interact with Stack Overflow, we and authorized third parties place cookies on you and your account activity as described in more detail within our [Cookies Policy](https://web.archive.org/legal/cookie-policy). We use this information to serve you certain advertising content. Similarly, we market our Products and Services to you and communicate important information and product opportunities to you. If you do not wish to receive direct marketing communications from us, you can tell us and remove yourself from our marketing communications via the unsubscribe and opt out options in our email communications and your Account Settings. If you do not wish to receive advertising promotions, you may restrict such activities in your Account Settings, but you should know that by doing so, you may reduce some functionality and you may not have access to certain features within our Products and Services (e.g., job recommendations on our Talent platform). For more information on how to control your account settings or to opt out of direct marketing campaigns, please visit your [Email Settings](https://web.archive.org/users/email/settings/current). 
 
-**If you register an account, you may need to give us your email and other personal info, but we’re not the boss of you and can’t make you.**
+Analytics Information 
 
-**The non-identifying content of a service request may be made public. You want to help, don’t you?**
+Stack Overflow uses data analytics to ensure site functionality and to optimize our Product and Service offerings to you. We use web browser and mobile analytics to allow us to understand Network and Apps functionality. In doing so, we record information including, for example how often you visit the Network, how often you contribute content, Network and Apps performance data, errors and debugging information, and the type of activity you engage in while on the Network or in your use of our Products and Services. We may on occasion share this information with third parties for research or product and services optimization. 
 
-**If you don’t like cookies or have other dietary restrictions, please tell your browser.**
+Billing Information 
 
-**Our servers live in the United States. So, if you send us your info, that’s where it’s going.**
+For Products and Services requiring payment, we collect a billing name, phone number, and email address. We also collect a billing and shipping address for invoicing purposes. If you elect to pay by credit card, Stack Overflow may engage a third party to securely process your payment. All payment processing is done through a PCI DSS compliant third party. If customers are paying by a credit card, their card details are vaulted through a third party payment gateway. Stack Overflow will store an encrypted token along with the last four digits of the credit card and the expiration month and year of the card and will not store or retain any other billing information about you. 
 
-**If you’re under 13, we want to mind our own business, not yours.**
+WHAT INFORMATION WE COLLECT ON YOU 
 
-We collect information two ways: Information we get from your use of the network, and information you provide to us directly.
+This section describes in further detail the information we collect on you and how we use that information broken down by our Products and Services offerings. 
 
-**Information we get from your use of the network** is primarily non-personally-identifying information of the sort that web browsers, servers, and services like Google Analytics* typically make available, such as the browser type, language preference, referring site, and the time of each visit. Other non-identifying information that we might have access to includes how you use the service (e.g., search queries), your approximate location, cookies, etc.
+Public Network (Questions and Answers Content) 
 
-We collect this non-personally identifying information in order to better understand how visitors use the service and where possible, to improve their experience. For instance, we may monitor the most common content on the network to help identify spam. In some cases, we may publicly display information that is not personally identifying in the aggregate, (e.g., by publishing a report on trends in the usage of the network,) or may provide it to third parties for educational or similar purposes other than for sale or profit.
+The Public Question and Answer Network (“public Network”) allows individual users to engage in a community to share their knowledge and expertise, and to acquire knowledge and expertise. It is community-moderated, and the content in the public Network is . . . public. To provide an optimal community experience, and to ensure Network security, we collect certain personal information. 
 
-When you use the network, we also collect potentially personally identifying information in the form of Internet Protocol (IP) addresses. But we don’t use that information to identify you, and we handle and disclose these addresses in the same way we handle other potentially personally identifying information as described below.
+We collect information such as your username, password, email address, IP address (collected at each site visit). This information is also used to identify individual users to the public Network and to award activities and attribute them to you. Your username and additional content you provide including your profile picture, question and answer content, and your reputation are visible publicly. Other limited information is visible to moderators, who have elevated access privileges, and may access content including your posts. For more information about moderators and their role in the Stack Overflow Network, please visit: [/help/site-moderators](https://web.archive.org/help/site-moderators). In addition, when you choose to use certain features such as our chat or support features, we collect a record of your communications with us and other third parties that are accessible to chat participants and certain authorized third parties. Other account information and usage information including your IP address and browser data may be used for diagnosis, security and Product and Service optimization. 
 
-**Information you provide to us directly**. Certain visitors to the network choose to interact with it in ways that may require them to provide us with personally identifying information. The amount and type of information that is provided depends on the nature of the interaction. For example, we ask visitors who sign up for stackoverflow.com to provide a username and email address. Employers who engage in financial transactions with talent.stackoverflow.com are asked to provide additional information, such as the personal and financial information required to process those transactions. We use a [payment gateway](https://en.wikipedia.org/wiki/Payment_gateway) to protect financial information we collect online and secure payment processors to carry out financial transactions. We only collect as much information as is necessary or appropriate given the type of interaction. We do not disclose personally identifying information other than as described below. And you can always refuse to supply personally identifying information, with the caveat that it may prevent you from engaging in certain activities.
+Please be aware that when using the Public Question and Answer Network, you cannot revoke permission for Stack Overflow to publish and to allow others to have derivative rights to such public content once it is made public. The content you contribute on the public network is public, in perpetuity, and Stack Overflow loses direct control over such content when it is published on the open internet. This also means that if you post personal information about yourself, you do so at your own risk, including the risk of abandoning any privacy rights you had in such information. 
 
-If you send us a request, such as emailing us for support, we reserve the right to publish it (absent any personally identifying information) in order to help us clarify or respond to your request or help other users.
+Additionally, from time to time, Stack Overflow makes such public content available via compilation via the Creative Commons Data Dump and by providing public content to the Stack Overflow Network, you should be aware that such content, once public, cannot often be removed from public view even if it is removed from the Stack Overflow network and our servers. 
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. We use cookies to help us track visitors’ use of the network and their preferences. If you do not wish to have cookies placed on your computer, you should set your browser to refuse cookies, but should be aware that certain features of the network may not function properly without them.
+Talent and Jobs 
 
-If you are outside the United States, you should know that any personally identifiable information you enter into the network will be transferred out of your country and into the United States, and possibly to other countries. By using the network, you consent to such transfer, and are representing that you have the right to transfer such information outside your country.
+The Stack Overflow Talent platform allows for companies looking to hire and those seeking job opportunities to connect with each other and to engage in new employment opportunities. To optimize the recruitment experience, and to connect job seekers with jobs, we collect certain personal information on you the account holder (or account unregistered job seeker), and on the company and its authorized recruiters. 
 
-We do not knowingly collect any personally identifiable information from children under the age of 13. If you believe that a child has provided us with personally identifiable information without the consent of his or her parent or guardian, please contact us at [team@stackexchange.com](mailto:team@stackexchange.com). If we become aware that a child under age 13 has provided us with personally identifiable information, we’ll delete it.
+Whether you are a recruiter seeking to hire on our Talent platform, or a registered account holder using our Jobs platform while seeking employment opportunities, we collect certain account registration information on you. For job seekers on the Jobs platform, we collect your name, location, email and resume (where applicable) along with certain optional information including your phone number and a cover letter (where applicable). For company authorized users using our Talent Platform to recruit developers, we collect certain account registration information on you including your name, email, and affiliated company. For job seekers who chose to participate in our Jobs platform your public profile can be observed and collected by those looking to hire you. For company authorized users your profiles are visible to authorized users of the company account and your contact details are visible to job seekers via direct messaging on the Talent platform. The information we collect on you as a job seeker is also used by Stack Overflow to customize job recommendations. You may additionally opt-in to specific features that rely on personal information. For example, you may elect to provide personal information in your Developer Story which collects certain CV-like information and achievements including employment history which may be used for recruiting purposes. 
 
-### Information You Choose to Display Publicly on the Network
+Advertising Products 
 
-**If you decide to post personal information in the public parts of our sites, it’s… um, public.**
+Stack Overflow partners with third parties to display advertisements on our public Network and within our Talent Platform. These partnerships provide third parties access to the developer community to promote themselves or services and to provide you with visibility into companies and third parties seeking to recruit you for employment opportunities, and for other purposes. In providing this opportunity, Stack Overflow and its third party partners may collect and use your personal information to tailor your advertising experience to suit your interests, skills, as well as to monitor your account activity in order to optimize our Products and Services. 
 
-Some users may elect to publicly post personally identifying or sensitive information about themselves in their normal use of the network. This could occur through use of the optional profile fields, in question or answer posts, or when an individual posts a job history on the Jobs site. Information like that, which is voluntarily posted in publicly visible parts of the network, is considered to be public, even if it would otherwise be considered to be personally identifying or sensitive. As such, it is not subject to the protocols listed below, because we don’t control it; you do. Additionally, voluntarily publicizing such information means that you lose any privacy rights you might normally have with regards to that information. It also increases your chances of receiving unwanted communications, like spam.
+We seek to limit what information advertisers and similar third parties have access to, as well as to ensure that your user experience on the public and private Stack Overflow network is not overwhelmed by advertising initiatives. However, our advertising products and services require us to collect certain personal and non-personal information on you, which includes: 
 
-### Information You Give to Other People
+  * Data from advertising technologies like cookies, web beacons, pixels, ad tags, and browser/device identifiers 
+  * Information you have provided to us directly including profile information, your Developer Story, and in limited instances your job history 
+  * Usage analytics including your visits to the Network, browsing and search history 
+  * Information from our advertising partners (e.g., device type and location) 
 
-**We’re not responsible for any information you give other websites we link to. Sort of like how your TV maker isn’t responsible if you buy a lousy product, even if you saw it in an awesome commercial.**
 
-This Policy only applies to information collected by Stack Exchange. It does not apply to the practices of companies that we don’t own or control, or employees that we don’t manage. The network contains links to third party websites, and any information you provide to those sites will be covered by any privacy policies they may have. Please be sure to read the privacy policies of any third-party sites you visit. It is those sites’ responsibility to protect any information you give them, so we can’t be held liable for their wrongful use of your personally identifying information.
 
-### How We Use Information We Collect
+Stack Overflow for Teams 
 
-**We will tell you what we’re collecting, what we’re doing with it, and when we might share it with others. (Almost never, unless you ask us to.)**
+Stack Overflow for Teams allows you to share private content via authorized closed communities. When creating or joining a Team, we collect account registration information on you the Entity and you the individual. On behalf of the Entity, we collect Company or Entity name, Team Representative name, the names of authorized users, and you may elect to provide a Company or Team logo, trademark, or photo for account association purposes. As a participant in Stack Overflow for Teams, we require you to create an individual account on our public Network and we associate this account registration with your Team for account security purposes and to verify your identity. Account registration information as well as company or team affiliation information is displayed to authorized users of your Team. 
 
-**We’ll tell you all this stuff as soon as you register.**
+In addition to account registration and company or team affiliation information, Stack Overflow collects certain application metadata for the purposes of maintaining and enhancing the Stack Overflow for Team product and related services we provide. This metadata is only made available to Stack Overflow authorized personnel and in some cases authorized third parties under a duty of confidentiality. 
 
-**If we change this policy, we’ll update this document to keep you in the loop.**
+Any content you provide in the course of your use of the Stack Overflow for Teams product is shared privately with authorized users of your Team, and may include private questions and answers, votes, source code, and other sensitive data. Our collection of such content is solely to provide the Products and Services, and is provided pursuant to our [private Network Terms](https://web.archive.org/legal/terms-of-service/private). Stack Overflow personnel may not access such content except to the extent as may be required in response to a support request with your explicit permission, or when required for security or maintenance of the product or services. In such cases, Stack Overflow personnel will only access the minimum content necessary to resolve the issue and in accordance with the [private Network Terms](https://web.archive.org/legal/terms-of-service/private). 
 
-**We mostly use your information to customize and improve your (and others’) experience.**
+Enterprise 
 
-**If you post a profile on Jobs, employers can see your name, and if you apply for a job, we give them your contact info. (Because they can’t hire you if they can’t contact you.)**
+Our Enterprise level platform is a privately hosted Question and Answer forum for large corporate clientele. The collection of personal data is limited to account registration information and usage analytics for product optimization. For additional information regarding the collection and processing of your Enterprise offering, please contact your account representative. 
 
-**Outside of when you apply for job listings, we don’t share your personal info with anyone. That could theoretically change in a merger, etc. but the buyer would still be bound by these rules.**
+Developer Survey 
 
-**In the unlikely event that we should need to collect and transfer your sensitive information, we’ll ask first.**
+As the world’s largest developer community, Stack Overflow annually publishes a Developer Survey to provide key insights into the developer community, including demographic and certain personal information. Your participation in the Developer Survey as well as any other Stack Overflow survey is entirely voluntary. In order to provide meaningful insights into the developer community, Stack Overflow may collect sensitive data about you, including, but not limited to your gender, race, sexual orientation, immigration status, and your location. We consider this data to be among our most sensitive, and have taken elevated measures to protect such data as well as to de-identify your name and other personal information from such data. We restrict such data within Stack Overflow on a privileged basis to only those that need to see it and while we may share your personal information with certain third parties such as researchers, we do so only after imposing contractual obligations of confidentiality on such third parties and only where absolutely necessary for limited research purposes. 
 
-**If you give us your email, we may email you. But probably not very often. We’re busy, too.**
+When we publish the Developer Survey, it is published as a compilation of anonymized data, which means that we take every effort to ensure that your information is understood in a statistical narrative decoupled from your personal identity. 
 
-**Anyone that has access to your info will be required to treat it like we do.**
+If you have any questions concerning the Developer Survey and our security measures to protect your sensitive personal data, please contact us at: privacy (at) stackoverflow (dot) com. 
 
-**We promise to work hard to keep your info safe, and to restrict who can access it.**
+YOUR CHOICE AND CONTROL OF THE INFORMATION WE COLLECT ON YOU 
 
-**We want to keep your data accurate and up to date, so we’ll provide it to you to review. Within reason.**
+Privacy is a guiding principle of all Stack Overflow Products and Services and we value your privacy. To this end, we provide you with the ability to control how your information is stored, and what information is collected. You may change or correct your account settings, and choose not to share certain information by creating a pseudonymous account. Additionally, much of the data we collect is voluntary and your choice entirely to provide us or not. You may also remove certain optional information that you no longer wish to be publicly displayed, such as your photo, or job history. In the event Stack Overflow decides to provide additional opt-out or opt-in mechanisms under the Privacy Shield Framework, the mechanisms will be clear, conspicuous, and readily available for you to exercise your choice. And of course, should you wish, you may also request the permanent deletion of your account, in which case all personal information collected on you will be removed from our servers and encrypted (except, in some cases your IP address required for security purposes, site maintenance, and spam protection). 
 
-**If you have any concerns about your privacy, we genuinely want to know about it.**
+We also provide you additional data control options, created by the GDPR, but provided to the Stack Overflow community regardless of geographic location with respect to your information, including data access and portability (including the right to obtain and download a copy of the personal data you provided to Stack Overflow), data correction (the ability to update the personal data we collect and display on you, in many cases via your account settings), data deletion (where Stack Overflow will delete personal information stored on you, which we are not required by necessity to maintain), and the ability to have us stop processing your personal data (with certain exceptions as may be necessary). For more information on these choices you have over how we collect and store your personal data please visit our [GDPR page](https://web.archive.org/legal/gdpr). Please also be aware that in order to provide some of these data choices to you, we may need to first verify your identity. We will make reasonable efforts to verify your identity, however if we are unable to do so, we reserve the right to refuse such a request in keeping with data privacy and information security principles. 
 
-**In the really, really, super-unlikely event that we can’t help, you can contact PrivacyTrust.**
+You may additionally control the receipt of certain marketing and advertising communications from Stack Overflow. Some messages that we send are required, and related to our legal obligations, or service related and mandatory. Other messages, like marketing and advertising communications are provided by us to let you know how you can continue to share, learn, and build your knowledge within the Stack Overflow community, and are voluntary. We provide you with the opportunity to control which voluntary messages you would like to receive in your [Email Settings](https://web.archive.org/users/email/settings/current). 
 
-**Alternatively, if you are unhappy with how we deal with your complaint, or the outcome of our resolution, you may by right invoke binding arbitration or refer your complaint to a data panel.**
+COOKIES 
 
-**Notice** – Notice is what this Policy that you’re reading is all about. You are reading it, right? It’s important! When we collect your personal information, we’ll tell you how we’re using it, any types of third parties to which we might disclose it, (other than moderators or **“agents,”** such as vendors or contractors, who are only processing such information for us or at our direction), and the choices we offer you to limit the use of your information.
+In order to provide the Stack Overflow Network along with the Products and Services described in this policy, we may place cookies on you as well as partner with third parties including advertising partners, who may use cookies or other similar technologies to provide you with advertising based on your browsing activities and interests. Please see our [Cookies Policy](https://web.archive.org/legal/cookie-policy) for additional information on how we use cookies and what third party cookies we permit. 
 
-Notice will be provided in clear and conspicuous language when you are first asked to provide us with personal information, or as soon as practicable thereafter, and we’ll notify you before we use the information for something other than the purpose for which it was originally collected. If anything in this Policy seems unclear, please don’t hesitate to contact us at [team@stackexchange.com](mailto:team@stackexchange.com), so we can address your question and possibly clarify this document.
+DATA PROCESSING DISCLOSURES 
 
-Although most changes are likely to be minor, we may occasionally need to change this Policy. If we do update it, we’ll notify you either by posting the new policy on the network or by emailing you the changes or a link to the modified document. (See the “Choice” section below for information about how we’ll notify you if we change our policy regarding sensitive information.) In any case, the way we use information you provide will be covered by the privacy policy that was in effect at the time it was collected.
+When you access the Stack Overflow Network and use the Products and Services we offer, we collect, display, store, share, transmit, and process your information in the manner described in this policy. In order to carry out these activities, Stack Overflow may rely on a number of legal bases in order to process your personal data, including where: 
 
-**Here are some of the ways we may use personal information you provide us:**
+  * necessary to perform the contractual obligations in our Terms of Service and in order to provide the Products and Services to you 
+  * necessary for a third party’s, or our, legitimate interests 
+  * necessary to comply with a legal obligation or to defend legal claims 
+  * necessary to protect the public interest or vital interest of others 
+  * you have expressly made information public 
+  * you have consented to the processing, which may be revoked at any time 
 
-  * To allow you to register for our web sites, online communities and other services, and to administer and process those registrations
-  * To communicate with you about our products, services and related issues
-  * To evaluate the quality of our products and services, and to enhance your experience on our web sites
-  * To help employers find or contact users who post profiles on the Jobs site
-  * To maintain and administer our web sites and comply with our legal or internal obligations and policies
-  * To transfer information to others as described in this policy or to satisfy our legal, regulatory, compliance, or auditing requirements
 
 
+Where we process your information on the basis of legitimate interests, we do so in order to: 
 
-**Choice** – Choice is all about making sure you have the ability to control how we share your personal information with others. We want you to be in control of your own data disclosure. To that end, we allow anonymous and pseudonymous participation, allow you to disable several features from public share settings, and to personalize your data features and share settings at: <https://stackoverflow.com/users/prediction-data>. We almost never share any of your personal information with non-agent third parties, with one exception, where you basically are asking us to do so:
+Secure your Personal Data and Information 
 
-Users who post profiles on our Jobs site are generally doing so for the express purpose of getting connected with potential employers. So, if you post a profile on our Jobs site, and choose to make your profile visible to employers, your name (which is required) and most of the other (optional) information in your profile will be visible to employers searching for candidates. That said, your contact information (email, phone, and address) will not be provided to employers in their candidate searches. We will only allow employers to have access to your contact information in two cases, both of which are under your control:
+All records containing personal or financial information are considered to be proprietary and are afforded confidential treatment at all times. Stack Overflow is committed to the safety and security of your personal data and the information that you share with us and with the public. We treat your personal safety and safety from harassment as top organizational priorities. At Stack Overflow we consider it necessary to pursue these legitimate interests in order to keep our community, you and your information safe from spam, harassment, intellectual property infringement, identity theft, and the scraping and unlawful collection of your information. 
 
-  * If you apply directly for a specific job, you will be asked to provide your name and email address (and other optional information) to the employer
-  * If an employer finds you through a search and wants to contact you, we will ask if you are interested in hearing from them, and if you are, we will then provide them with your contact information.
+Provide and Optimize Products and Services 
 
+We use your information to provide and improve our Products and Services, for identification verification, to provide support, for online and offline marketing including through third party tools such as Google Analytics, and for general research and analytics reporting. In doing so, we may learn which of our Products and Services you are using most, what you’re interested in, and to better enable you to use and access our Products and Services. As a core part of our business, Stack Overflow has a legitimate interest in enabling and customizing your experience of our Product and Services offerings. 
 
+Engage in Commercial Transactions 
 
-Other than on Jobs, we won’t share your personal information with non-agent third parties unless we are required to do so by law, or if we believe in good faith that disclosure is reasonably necessary to protect our property, rights or those of third parties or the public at large. It is possible that we may, on occasion, buy or sell assets from or to other companies. If that should occur, user information is typically one of the assets that get transferred. Similarly, if Stack Exchange or most of its assets were acquired, or in the unlikely event that we go out of business or enter bankruptcy, user information could be transferred or acquired. You should be aware that such events can occur, and that if it does, the buyer may continue to use your personal and non-personal information, but only as set forth in this policy. Other than in these rare circumstances, Stack Exchange will not rent or sell potentially personally identifying information to anyone.
+As part of providing our core Products and Services, Stack Overflow may charge you for the use of some Products and Services, or certain features within these Products and Services. In order to process your payment, and to secure your financial information, we may facilitate the sharing of your information with third parties. We share your information only with third parties who have met strict security standards and consider the secure processing of your financial information to be a strict and legitimate business necessity. 
 
-It’s hard to imagine that we would ever consider collecting, let alone sharing, sensitive information with a non-agent third party, but if such a day should come, we will first give you the opportunity to explicitly consent (opt-in) to such disclosure or to any use of the information for a purpose other than the one for which it was originally collected or previously authorized.
+Comply with Regulatory and Legal Obligations 
 
-If you are a registered user of the network and have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with the network. We generally use the network to communicate this type of information, so we expect to keep this type of communication to a minimum. If we do send you information that you did not expressly request, we will provide you with a way to request that you don’t get any similar notices (opt-out).
+Stack Overflow has a legitimate interest in complying with certain legal obligations and interests which, from time to time, may require the disclosure of your personal information. Stack Overflow will not disclose your personal information to legal authorities except where such disclosure is by lawful request, including to meet legitimate national security or law enforcement demands (including a subpoena, court order, or other lawful legal demand by a legal authority with lawful jurisdiction). In some cases, we may also release your personal information to defend our legitimate legal interests. We consider our obligation to protect the Stack Overflow community from imminent physical harm to be both a legitimate business interest as well as to be within the public interest and may disclose your personal information if we believe you or another individual may be in imminent danger of harm to yourself or to another. 
 
-**Onward Transfer** – Prior to providing agents with any personal information, we will obtain assurances that they will safeguard it in accordance with this policy. Examples of assurances that may be provided include:>
+Marketing and Product Communications 
 
-  * A commitment that they will handle in the information in accordance with this policy, or will provide the same level of protection, as required by the Privacy Shield IP/16/216; 
-  * Privacy Shield certification by the agent, or being subject to another European Commission adequacy finding.
+From time to time, Stack Overflow may communicate with you about commercial and other Product and Services offerings. In doing so, we provide you with an opportunity to opt-out of such messages at any time you choose via your account settings. Stack Overflow will not sell your personal information to enhance our marketing opportunities or profitability (except as may relate to a corporate event such as a sale or merger), and as we are committed to preventing spam, our direct marketing efforts are limited in scope and frequency. We engage in such activities as a legitimate business interest in order to promote key Products and Service offerings and provide you with every opportunity to unsubscribe from such communications or to further limit their scope and frequency. In short, while we want to communicate some key commercial communications with you and have determined it to be a legitimate interest for us to be able to do so, you have the final say in whether or not you would like to receive such commercial communications from us. You can review or change your permissions in your [Email Settings](https://web.archive.org/users/email/settings/current). 
 
+Core Business Operations 
 
+Stack Overflow may engage with third parties in business transactions including the buying and selling of assets, the auditing of our business practices and financials, and to engage in business development opportunities. These core activities may involve the processing and/or disclosure of some limited personal information which may be necessary and within our legitimate interests to develop the Stack Overflow brand and business. If we transfer any personal information in pursuing such a business transaction, we will always ensure that strict confidentiality measures are in place to protect your privacy interests. 
 
-In the unlikely event that we should discover that an agent is using personal information in way that conflicts with this policy, we will take all reasonable steps to stop them immediately.
+DATA TRANSFERS 
 
-In cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US Privacy Shield, Stack Exchange remains liable.
+Stack Overflow is a global community and as such, you may access the Stack Overflow Network from most anywhere in the world, and are subject to the local laws of your jurisdiction. By accessing the Stack Overflow Network and engaging with our Products and Services, you acknowledge that your personal data may be collected and transferred from your local jurisdiction (including member states to the European Union) to the United States. 
 
-**Security** – All records containing personal or financial information are considered to be our property and are afforded confidential treatment at all times. We work hard to protect against the unauthorized access, use, alteration or destruction of personal or financial information. All such electronic information is stored on restricted database servers, and is generally kept until such time as you may ask us to edit or delete it, as described below. We only disclose such information to our employees, agents or affiliates that a) need to know that information in order to process it for us or to provide other services, b) have agreed not to disclose it to others, and c) in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+Where Stack Overflow transfers your personal data from your local jurisdiction (including member states to the European Union) we rely on certain lawful transfer mechanisms to do so, including the following lawful bases for such transfers: 
 
-**Data Integrity** – In addition to assuring you that we will protect your personal information, we also want to make sure that it is reliable, accurate, and up-to-date. In order to do that, we provide:
+Privacy Shield 
 
-**Access** – Upon request, we will provide you with reasonable access to the personal information we collect about you. You will have the opportunity to correct, update, modify or delete this information by sending an e-mail to [team@stackexchange.com](mailto:team@stackexchange.com). Please note that some information may remain in our records even after you request deletion of your information as permitted by the Privacy Shield Principles. Additionally, there may be limits to the amount of information we can practically provide. For example, we may limit an individual’s access to personal information where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy or where doing so would violate others’ rights.
+Stack Overflow complies with the EU - US Privacy Shield Framework and Swiss - US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union and Switzerland to the United States. Stack Overflow has certified (note: certification under legal name Stack Exchange, Inc.) to the Department of Commerce that it adheres to the Privacy Shield Principles including onward transfer principles as amended by the GDPR where applicable. Stack Overflow acknowledges accountability under the onward transfer principles of the Privacy Shield Framework when transferring data to to third parties. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. Stack Exchange, Inc. is subject to the investigative and enforcement powers of the Federal Trade Commission. Under certain circumstances, you may invoke binding arbitration to determine, for residual claims, whether Stack Overflow has violated its Privacy Shield obligations, and whether any such violation remains fully or partially unremedied. Stack Overflow has further committed to refer unresolved Privacy Shield complaints to the PrivacyTrust Shield Program, an alternative dispute resolution provider located in the United Kingdom. If you do not receive timely acknowledgement of your complaint from Stack Overflow, or if we have not addressed your concern to your satisfaction, please contact us: privacy (at) stackoverflow (dot) com or visit <https://www.privacytrust.com/drs/stackexchange> or at the contact information provided below. 
 
-**Enforcement** – We will conduct internal audits of our compliance with this privacy policy, including an annual self-assessment. Our employees take your privacy as seriously as we do, and we will take all reasonable measures against any employee found to be in violation of this policy.
+Standard Contractual Clauses 
 
-In compliance with the Privacy Shield Principles, Stack Exchange, Inc. and covered affiliates and subsidiaries commit to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us (Stack Exchange, Inc.) at: [team@stackexchange.com](mailto:team@stackexchange.com).
+The European Commission has adopted standard contractual clauses (also referred to as model clauses), which provide safeguards to protect the transfer of personal information outside of the European Union. We may use these standard contractual clauses when transferring personal information outside of the European Union. You may review and request a copy of such standard contractual clauses as used by Stack Overflow by contacting us at legal (at) stackoverflow (dot) com. 
 
-Stack Exchange, Inc. has further committed to refer unresolved Privacy Shield complaints to the PrivacyTrust Shield Program, an alternative dispute resolution provider located in the United Kingdom. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.privacytrust.com/drs/stackexchange> OR PrivacyTrust, Communications House, 26 York Street, London, W1U 6PZ, for more information or to file a complaint. The services of PrivacyTrust Privacy Shield Program are provided at no cost to you.
+OUR ONGOING COMMITMENT TO DATA SECURITY 
 
-### How to Contact Us
+Security is important to us and we know it is important to you. Stack Overflow follows generally accepted standards to protect your personal information when processing, transferring, and storing your personal information including Transport Layer Security (“TLS”), by restricting your personal data when we do not need to access it and by keeping your personal data only as necessary to perform our legitimate business interests. 
 
-**We’re here if you need us.**
+As the data subject, you too have an important role to play in helping us protect your personal information. We encourage you to protect yourself against unauthorized access to your personal information by choosing a password carefully and in accordance with industry best standards. Do not share your password with anyone you do not trust, and make sure your computer accesses Stack Overflow via a secure network and that you do not leave your personal information vulnerable to hackers and other bad actors by leaving your computer unattended or by failing to logout of your account when you have ended your session activity. 
 
-**Who writes letters? Like with stamps and stuff? Ugh.**
+DIRECT MARKETING OPT-OUT 
 
-If you have any questions about this policy or our site in general, please contact us at [team@stackexchange.com](mailto:team@stackexchange.com).
+You may opt-out of receiving Stack Overflow email marketing materials by using the unsubscribe link in these communications or by changing your [Email Settings](https://web.archive.org/users/email/settings/current). 
 
-Our Data Protection Officer is Adam Francoeur.
+PRIVACY POLICY AMENDMENTS 
 
-Written Inquiries can be sent to: 
+We may amend or update this policy from time to time, and will notify you of any material changes to this policy. Previous versions of this privacy policy are available upon request. 
 
-Stack Exchange, Inc.  
-Attn: Adam Francoeur  
-110 William St, 28th Floor  
-New York, NY 10038  
-USA 
+CONTACT US 
 
-### Employees’ & Prospective Employees’ Information
+General Contact Information 
 
-**Working here rocks. We have insanely great health insurance, reimburse employees’ gym membership, and give employees free ~~transportation by unicorn~~ transit cards.**
+Privacy Officer 
 
-**Who writes letters? Like with stamps and stuff? Ugh.**
+  * Adam Francoeur, Corporate Counsel, 110 William Street, Floor 28, New York, NY 10038, privacy (at) stackoverflow (dot) com, phone: 212-232-8280 
 
-In accordance with the Privacy Shield principles, Stack Exchange, Inc., commits to cooperate with EU Data Protection Authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU in the context of the employment relationship.
 
-This section covers any ways in which personal information we collect from employees or applicants might be treated differently than user information. You can probably stop here if you not an employee or interested in applying for a job with Stack Exchange. But maybe you should be interested: Who wouldn’t want to work with an amazingly talented team dedicated to making the Internet a better place to get expert answers to questions, especially at a company with free lunches, top-notch benefits, and a CEO who has literally written [ the book ](https://www.amazon.com/dp/1590598385/?tag=stackoverflow17-20) on how to make great workplaces for building amazing software. The more I think about it, the more I think maybe you should click here after all: <https://stackexchange.com/about/hiring>. And if you do, be sure to review the following non-comprehensive list of ways that we may use information provided to us by employees or applicants:
 
-If you do work or apply to work here, here’s how we handle your personal information.
+Privacy Shield 
 
-The lawyers say I have to remind you again that you really need to read the long version on the right. Which hurts my feelings a little, but is still probably good advice.
+  * Privacy Trust, Communications House, 26 York Street, London, W1U 6PZ 
 
-  * Responding to inquiries in connection with prospective employment at Stack Exchange, and processing employment applications 
-  * Carrying out human resources functions like training, career / succession planning, administering contracts, evaluating employees, and providing benefits 
-  * Enabling Stack Exchange and its employees to contact each other by telephone fax, e-mail or “snail mail” 
-  * Administering compensation, bonus and other employment needs
-  * Arranging employees’ travel plans
-  * Maintaining building security and employee health and safety
-  * Running internal administrative analytics, such as staffing, headcount and statistics initiatives 
-  * Complying with our legal obligations, policies and procedures
-  * Transferring personal information to others as required by our legal, regulatory, compliance and auditing needs
 
 
+EU Representative 
 
-* Google Analytics is a registered trademark of Google, Inc.
+  * Mary Croskery, People Operations Partner, 2nd Floor, Bentima House, 168-172 Old Street, London EC1V 9BP, privacy (at) stackoverflow (dot) com +44 (0) 20 3349 0864 
 
-[](https://www.privacytrust.com/cert/878767.html)
+
