@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atoot.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525110622id_/http%3A//www.atoot.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atoot.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623112105id_/http%3A//www.atoot.com/policy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy : Marriage Compatibility : Palm Reading : Love Compatibility : Atoot.com
 
