@@ -1,87 +1,66 @@
-> *The following text is extracted and transformed from the thrivecausemetics.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715010025id_/https%3A//thrivecausemetics.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivecausemetics.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623163820id_/https%3A//thrivecausemetics.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Thrive Causemetics
 
-PRIVACY STATEMENT
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.thrivecausemetics.com (the “Site”). 
 
-\----
+Device Information:
 
-SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.” 
 
-When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.   
-When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.  
-Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates. 
+We collect Device Information using the following technologies: 
 
-SECTION 2 - CONSENT
+“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
-How do you get my consent?  
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.  
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
+“Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at help@thrivecausemetics.com or mailing us at:  
-Thrive Causemetics  
-423 3rd Avenue West  
-Seattle Washington US 98119
+“Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-SECTION 3 - DISCLOSURE
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns). We also may use Device Information we collect in order to provide customers with relevant future advertising.
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. 
+Order Information:
 
-SECTION 4 - SHOPIFY
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information that you provide to us at your discretion, including your name, email, phone number, shipping address, billing address, credit card number, and other information you input in a survey or on the Site. We refer to this information as “Order Information.”
 
-Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.   
-Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with order confirmations). Additionally, we use this Order Information to: 
 
-Payment:  
-If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.  
-All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.   
-PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.  
-For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
+Communicate with you; 
 
-SECTION 5 - THIRD-PARTY SERVICES
+Screen our orders for potential risk or fraud; and
 
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.   
-However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.  
-For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.   
-In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.  
-As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.  
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-Links  
-When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.  
-Google analytics:   
-Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at
+We share your Device and Order Information with certain third parties to help us use the data in the manner described above. For example, we use Shopify to power our online store. You can read about specifically how Shopify uses your Device Information and Order Information here: https://www.shopify.com/legal/privacy. We also use Google Analytics to help us understand how our customers use the Site, about which you can read more here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-SECTION 6 - SECURITY
+Finally, we may also share your Device and Order Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.  
-If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+Advertising:
 
-SECTION 7 - COOKIES
+As described above, we use your Device Information and Order Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at: http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work
 
-Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.  
-_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).  
-_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits  
-_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.  
-cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.  
-_secure_session_id, unique token, sessional  
-storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.  
-PREF, persistent for a very short period, Set by Google and tracks who visits the store and from wheren
+You can opt out of targeted advertising by sending a request via to email to help@thrivecausemetics.com with the subject line “ [Your Last Name] Opt Out Request”
 
-SECTION 8 - AGE OF CONSENT
+DO NOT TRACK: Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+Data Retention:
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+Age of Consent:
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-SECTION 9 - CHANGES TO THIS PRIVACY POLICY
+Changes to This Privacy Policy:
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.  
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
 If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-QUESTIONS AND CONTACT INFORMATION
+Questions & Contact Information:
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at help@thrivecausemetics.com or by mail at   
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at help@thrivecausemetics.com or by mail at 
+
 Thrive Causemetics  
 [Re: Privacy Compliance Officer]   
-423 3rd Avenue West  
-Seattle Washington US 98119 
+6060 Center Drive  
+Los Angeles, CA 90045 
