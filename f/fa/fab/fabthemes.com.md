@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabthemes.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226091838id_/https%3A//www.fabthemes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabthemes.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624003503id_/https%3A//www.fabthemes.com/privacy) for the most accurate reproduction.*
 
 # Privacy | FabThemes.com
 
@@ -59,4 +59,4 @@ The following disclosures of information shall not be subject to the provisions 
 
 If you are still unsure about any of the provisions contained herein, we are happy to clarify your doubts. Please feel free to contact us at privacy@fabthemes.com.
 
-**3.03** avg. rating ( **60** % score) - **32** votes 
+**3.06** avg. rating ( **61** % score) - **33** votes 
