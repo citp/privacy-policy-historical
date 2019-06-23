@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qubo.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201021431id_/https%3A//qubo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qubo.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623115037id_/https%3A//qubo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,12 +40,4 @@ Visitors will find links from Qubo.com to independently owned, controlled and/or
 
 Please note that we may revise our above policy from time to time as the content on our sites continues to change. We will post all such changes to this Privacy Policy through the link on our website. Your use of our Web site following any such changes constitutes your agreement to follow and be bound by this privacy policy, as changed. We hope that you enjoy exploring our site.
 
-For additional questions or comments about the website, please contact:
-
-Cary Alves  
-Director, Distribution Marketing  
-ION Media Networks, Inc.  
-810 Seventh Avenue, 31st Floor  
-New York, New York 10019  
-212-603-8445  
-[caryalves@ionmedia.com](mailto:caryalves@ionmedia.com)
+For additional questions or comments about the website, please use our [contact form](https://qubo.com/contact).
