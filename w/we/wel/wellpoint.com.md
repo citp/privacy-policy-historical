@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellpoint.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722065023id_/https%3A//antheminc.com/Privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellpoint.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623215934id_/https%3A//www.antheminc.com/Privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy
 
