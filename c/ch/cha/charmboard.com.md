@@ -1,55 +1,117 @@
-> *The following text is extracted and transformed from the charmboard.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015025456id_/http%3A//www.charmboard.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmboard.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623202044id_/https%3A//www.charmboard.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy - Discover and save what you love in movies, TV and video.
+# Privacy - Charmboard
 
-Privacy
+**Privacy Policy**
 
-We value the trust you place in us.
+Charmboard recognizes the importance of maintaining your privacy. We value your privacy and appreciate your trust in us. This Policy describes about information we collect from you, why we collect it, what we do with it and what choices do you have. We have tried to keep this policy simple and meaning full. In case you need any help or clarification please write to us at **feedback@charmboard.com**.
 
-Please read the following statement to learn about our information gathering and dissemination practices. Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
+##### Information we collect
 
-Collection of Personally Identifiable Information
+ **A.Information you allow us to collect**
 
-We collect personally identifiable information (email address, name) from you when you set up an account with us. While you can browse some sections of our website without being a registered member, certain activities do require registration. We do use your contact information to show you content and ads based on your interests.
+When you use our services, you give us certain information voluntarily. Such information may include your name, profile photo, likes, charm, comments, address, phone number, posts, language you speak etc. If you use our services on a mobile device, you also provide us location data.
 
-Use of Demographic and Profile Data
+You may allow us to collect information from other services such as Facebook, Twitter or Google or from any other source. In such cases, you allow us to collect information from those accounts, which may include your contracts, friends, photos etc.
 
-We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection. In our efforts to continually improve our product and service offerings, we collect and analyse demographic and profile data about our users' activity on our site. We identify and use your IP address to help diagnose problems with our server, and to administer our site. Your IP address is also used to help identify you and to gather broad demographic information. We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like pin code, age, or income level). We use this data to tailor your experience at our website, providing you with content that we think you might be interested in--and to display content according to your preferences.
+ **B.Technical information collected by us**
 
-Use of Cookies
+Whenever you use a website, mobile application or other Internet service, certain information is created and stored automatically. Below are some types of technical information which we collect.
 
-A “cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. Charmboard.com places both permanent and temporary cookies in your computer's hard drive. Our cookies do not contain any of your personally identifiable information.​
+ **I.Cookie data**
 
-Whether you want your web browser to accept cookies or not is up to you. If you haven't changed your computer's settings, most likely your browser already accepts cookies. If you choose to decline cookies, you may not be able to fully experience all features of the site. You can also delete your browser cookies or disable them entirely. But this may significantly impact your experience with our site and may make parts of our site non functional or inaccessible. We recommend that you leave them turned on.
+Cookies are small text file stored by the browser (For example, Internet Explorer, Chrome etc). They allow websites to store things like user preferences. A cookie file is stored in your web browser and allows the Service or a third-party to recognize you and make your next visit easier and the service more useful to you. Cookies are useful for enabling the browser to remember information specific to a given user. We place both permanent and temporary cookies in your computer.
 
-Sharing of personal information
+You can decide whether you want your web browser to accept cookies or not. If you haven't changed your computer's settings, most likely your browser already accepts cookies. Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly. We recommend that you leave them turned on.
 
-We may share personal information with other corporate entities and affiliates to: help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.​
+ **II.Log Data**
 
-We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.​​
+Whenever you use our services, our servers record certain information automatically (“log data”). These are the information that your browser sends whenever you visit a website or that your mobile app sends when you’re using it. These data may include your Internet Protocol address, the address of the web pages you visited that had Charmboard features, browser type and settings, the date and time of your request, the time spent on those pages, how you used Charmboard, cookie data and other statistics.
 
-We will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
+ **III.Device information**
 
-Other use of Information
+In addition to log data, we may also collect information such as type of device you are using, what operating system you are using, device settings, unique device identifiers and crash data. Collection of such data often depends on what type of device you’re using and its settings. For example, different types of information are available depending on whether you’re using a Mac or a PC, or an iPhone or Android phone. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.
 
-You give us permission to use your name, profile picture, User content, information or any Charms created in connection with commercial, sponsored, or related content ,served or enhanced by us. This means, for example, that you permit a business or other entity to pay us to display your name and/or profile picture with your content or information, or serve you communication in connection with the charms that you have created without any compensation to you.
+ **C.Information shared by our third party**
 
-You understand that we may not always identify paid services and communications as such.
+We may get information about you including your activity from our partners, affiliates, agencies or any third party.
 
-Links to Other Websites
+##### Use of Information we collect
 
-Our website links to other sites that may collect personally identifiable information about you. We are not responsible for the privacy practices or the content of those linked sites.
+ **A.Improved User satisfaction**
 
-Choice/Opt-Out
+We use personal data to provide the services you request or otherwise described to you at the time of collection. We also use your data to;
 
-We provide all users with the opportunity to opt-out of receiving non-essential (promotional) communications from us on behalf of our partners, and from us in general, after setting up an account. If you are no longer interested in receiving e-mail notifications and other marketing information from us, or you want us to remove any personal identity information that we have collected about you, please e-mail your request to contact@charmboard.com
+  * troubleshoot problems
+  * help promote a safe service
+  * measure consumer interest in our products and services
+  * inform you about online and offline offers, product, services and updates
+  * customize your experience
+  * detect and protect us against error, fraud and other criminal activity
+  * enforce our terms and conditions
+  * improve our product and service offerings
 
-Advertising
 
-We may use third-party service providers to serve ads on our behalf across the Internet and on this website. They may collect anonymous information about your visits to our site, and your interaction with our products and services. They may also use information about your visits to this and other sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.​
 
-If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please write to us at feedback@charmboard.com
+We identify and use your IP address to help diagnose problems with our server and to administer our website, to help identify you and to gather broad demographic information.
 
-Security Precautions
+We may ask you to participate in optional surveys. Our objective is collect certain information such as contact information and demographic information, which helps us in improving your experience at our website and providing you with the content that which we think might be useful or interesting for you.
 
-Our website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
+ **B.Sharing of personal information**
+
+We may share your personal information to;
+
+  * advertisers to collect information on Charmboard to audit the delivery and performance of their ads. Advisors may appoint a third party to collect such information.
+  * corporate entities and affiliates to;
+
+a.help detect and prevent identity theft, fraud and other potentially illegal acts
+
+b.correlate related or multiple accounts to prevent abuse of our services
+
+c.facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity.
+
+Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.​
+
+  * officials or third party if it is required by law or in good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
+  * law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to:
+
+a.enforce our Terms or Privacy Policy
+
+b.respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property
+
+c.personal safety of our users or the general public.​​
+
+  * a business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information?
+  * other services such as Facebook, Twitter etc as per your request to do so.
+
+
+
+ **C.Other use of personal information**
+
+We use your name, profile picture, User content, information or any Charms created in connection with commercial, sponsored, or related content, served or enhanced by us. This means, for example, that you permit a business or other entity to pay us to display your name and/or profile picture with your content or information, or serve you communication in connection with the charms that you have created without any compensation to you.
+
+You understand that we may not always identify paid services and communications as such
+
+ **D.Collection of personal information by third party linked websites**
+
+Our website may provide links to other third party websites. Such third party websites may collect personally identifiable information about you. We are not responsible for the privacy practices or the content of those linked sites.
+
+ **E.Collection of personal information by Advertisers**
+
+We may use third-party to serve ads or other features across the Internet and on our website. Generally such third party collects anonymous information such as your visit to our site, time spend, your view, likes, comments, interactions etc. They may also use information about your visits to this and other sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.​
+
+You can write to us at **feedback@charmboard.com** to know more about this information and the options you have.
+
+##### Choices/Opt-Out
+
+You can check your account sttings to know what choices you have about your information. You may set your browser to block all cookies. For example;
+
+You can opt-out of receiving non-essential (promotional) communications from us on behalf of our partners, and from us in general, after setting up an account. You can make your personal information private. For any clarification please e-mail your request to **feedback@charmboard.com**.
+
+##### Information shared by Minor
+
+As per terms of usage, we don’t allow minor to use our services without parental guidance. Please contact us at **feedback@charmboard.com** , if you feel that minor has provided any personal information without parental guidance.
+
+##### Changes to the policy
+
+We may change this policy from time to time and if we do we’ll post any changes on this page. If you continue to use Charmboard after those changes are in effect, you agree to the revised policy. If the changes are significant, we may provide a more prominent notice or get your consent, as required by law.
