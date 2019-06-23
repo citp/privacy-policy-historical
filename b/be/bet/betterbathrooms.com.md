@@ -1,334 +1,140 @@
-> *The following text is extracted and transformed from the betterbathrooms.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230200317id_/https%3A//www.betterbathrooms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterbathrooms.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623135456id_/https%3A//www.betterbathrooms.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Better Bathrooms
 
-As BetterBathrooms we are committed to protecting the privacy and security of our customers and site visitors. The team here at BetterBathrooms are customers ourselves so we fully understand the importance of keeping your data secure and private. 
+#### 1\. GENERAL
 
-This privacy notice therefore aims to be completely transparent about how we handle and use your personal information. We’ve tried to keep this policy as jargon free as possible, but if you are unsure of any terminology or have any questions or suggestions, please contact our Data Protection Officer using the contact details below.
+Buy It Direct Ltd, trading as Buy it Direct, Better Bathrooms, Laptops Direct, Aircon Direct, Servers Direct, Appliances Direct, Drones Direct and Furniture123 whose registered office is Trident Business Park, Leeds Road, Huddersfield, HD2 1UA together with any group companies or other trading name (“ **we** ” “ **us** ” “ **our** ”) are committed to protecting and respecting your privacy. For the purposes of data protection legislation, we are the data controller and we will process your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 and national laws which relate to the processing of personal data. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-### Who we are:
+#### 2\. VISITORS TO OUR WEBSITE
 
-BetterBathrooms (referred to in this policy as “we”, “us” or “our") is a trading name of:
+2.1 We may collect and process personal data about you in the following circumstances:   
+2.1.1 when you complete forms on our website ( **“Site”** ). This includes your name contact details, credit/debit card details, which is provided at the time of registering to use our Site, where you ask us to contact you about our goods or services, subscribe to our mailing list, or subscribe/request or goods or services;   
+2.1.2 whenever you provide information to us when reporting a problem with our Site, making a complaint, making an enquiry or contacting us for any other reason. If you contact us, we may keep a record of that correspondence;   
+2.1.3 details of your visits to our Site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access (see section 2.2.2 on Cookies below); and   
+2.1.4 whenever you disclose your information to us, or we collect information from you in any other way, through our Site.
 
-Better Bathrooms (UK) Limited  
-Horizon Park  
-Greenfold Way  
-Leigh  
-WN7 3XJ
+2.2 We may also collect data in the following ways:   
+_IP Address_   
+2.2.1 We may collect information about your device, including where available your Internet Protocol address, for reasons of fraud protection. We may also collect information about your device’s operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.   
+_Cookies_   
+2.2.2 Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://web.archive.org/content/cookie-policy).
 
-### Our Data Protection Officer
+2.3 We may use your personal data for our legitimate interests in order to:   
+2.3.1 provide you with information, or services that you requested from us;   
+2.3.2 allow you to participate in interactive features of our Site, when you choose to do so;   
+2.3.3 ensure that content from our Site is presented in the most effective manner for you and for your device;   
+2.3.4 improve our Site and services;   
+2.3.5 process and deal with any complaints or enquiries made by you; and   
+2.3.6 contact you for marketing purposes where you have signed up for these (see section 6 for further details).
 
-We have appointed a Data Protection Officer (DPO), who can be contacted in the following ways should you have any questions, complaints or feedback about your privacy:
+_Website Links_
 
-**Mail:**
+Our Site may, from time to time, contain links to and from the websites of third parties. Please note that if you follow a link to any of these websites, such websites will apply different terms to the collection and privacy of your personal data and we do not accept any responsibility or liability for these policies. When you leave our Site, we encourage you to read the privacy notice/policy of every website you visit.
 
-Data Protection Officer  
-Better Bathrooms (UK) Limited  
-Horizon Park  
-Greenfold Way  
-Leigh  
-WN7 3XJ
+#### 3\. CUSTOMERS
 
-**Email:**
+3.1 We will collect details such as name, address, contact details, delivery address, bank/credit/debit card details when you order goods or services from us either via our Site, over the telephone or in store. We will use this information to process your order and comply with our contractual obligations.   
+3.2 In order to perform our contract with you, we may also need to share personal data with third parties such as, credit reference agencies, payment providers and postal service/logistics organisations to assist in the delivery of goods or services you have ordered.   
+3.3 We may also advertise your feedback on our website and marketing materials (subject to obtaining your prior consent where necessary);   
+3.4 We will retain your information as long as we require this to provide you with the goods or services ordered from us and for a period of 15 years afterwards. Where you have subscribed to receive marketing correspondence from us we will keep your personal data for the period of time described in section 6 below.
 
-dpo@betterbathrooms.com
+#### 4\. SUPPLIERS
 
-### The personal data we collect:
+We will collect details such as your name, contact details and bank details in order to contact you about goods or services ordered with you, to place further orders, and to pay you for the goods and/or services supplied. We will keep the personal data for 7 years further to being provided with the goods/services.
 
-This section tells you what personal data we may collect from you:
+#### 5\. IF YOU FAIL TO PROVIDE PERSONAL DATA
 
-  * When you register or place orders through our website we collect:
-    * Your personal details. This can include your title, name, billing and delivery address, email address, phone number, date of birth and any payment information;
-    * Your payment details;
-    * Your IP address;
-    * Your marketing preferences
-  * When you enter a competition or promotion sponsored by us, we may collect limited personal details in order to process your entry.
-  * Personal data you provide about yourself anytime you contact us about our services (for example, your name, username and contact details), including by phone, email or post or when you speak with us via social media.
-  * When you visit our site, we may collect data including, but not limited to, traffic data, location data, weblogs, page functionality tracking and other communication data.
-  * Details of the emails and other digital communications we send to you that you open, including any links in them that you click on.
-  * Information collected using cookies stored on your device(s) about the use of our online services.
-  * Your feedback and contributions to customer surveys and questionnaires.
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide the data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example to provide you with our goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
 
+#### 6\. MARKETING
 
+6.1 In addition to the uses described in sections 2-4 above, where you indicate you would like to receive marketing correspondence from us, subscribe to our mailing lists or newsletters, enter into any of our competitions or provide us with your details at networking events we may use your personal data for our legitimate interests in order to provide you with details about our goods, services, business updates and events which we think may be of interest.
 
-### How we use your personal data
+6.2 You have the right to opt-out of receiving the information detailed in section 6.1 at any time. To opt-out of receiving such information you can:   
+6.2.1 tick the relevant box situated in the form on which we collect your information;   
+6.2.2 click the unsubscribe button contained in any such communication received; or   
+6.2.3 email us at privacy@buyitdirect.co.uk or call 0871 971 0779 providing us with your name and contact details.
 
-  * **Providing our products and services to you.**  
-To carry out our obligations arising from any contracts entered into between you and us, such as the sale of our products and services to you.
-  * **Website functionality**  
-To ensure that content from our site is presented in the most effective manner for you and for your computer and to allow you to participate in interactive features of our service when you choose to do so.
-  * **Sharing your data**  
-We may disclose your personal data to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985 and which are not treated by us as third parties.
+6.3 Where you have subscribed to receive marketing correspondence from us we will keep personal data 5 years from when you are provided with the opportunity to opt-out of receiving marketing correspondence from us or you last placed an order, whichever is later.
 
-In order to provide you with our services and meet our legal obligations, we only share your data with 3rd parties, in the following circumstances:
+#### 7\. MONITORING AND RECORDING
 
-    * To fulfil your order;
-    * To verify your identity;
-    * To authorise debit/credit card payments and any other transactions authorised by the customer;
-    * To manage and maintain the accuracy of your records;
-    * To handle complaints and improve customer service;
-    * To administer marketing on behalf of BetterBathrooms;
-    * To meet legal obligations, for example, for the purposes of national security, taxation and criminal investigations; and
-    * If BetterBathrooms is acquired by a third party, in which case personal data held by it, about its customers, will be one of the transferred assets.
-    * To fulfil your order;
+We may monitor and record communications with you (such as telephone communications and emails) for the purpose of quality assurance, training, fraud prevention and compliance. We also have CCTV cameras installed in our premises for the purpose of crime prevention and for health and safety reasons. We retain CCTV images for up to 60 days and telephone recordings for up to 7 years.
 
+#### 8\. AUTOMATED PROCESSING
 
+8.1 Some of our decisions are made automatically by inputting your personal information into a system or computer and the decision is calculated using certain automatic processes rather than our employees making those decisions. We make automated decisions to check for orders which may be fraudulent.
 
-We’ll never make your personal data available to anyone outside BetterBathrooms for them to use for their own marketing purposes without your prior consent.
+8.2 We may carry out a credit check on our customers:   
+8.2.1 so that we can make credit decisions about you; and   
+8.2.2 to prevent fraud and money laundering.
 
-  * **Marketing & Market Research**
+8.3 Our search may be recorded on the files of the credit reference agency.
 
+If further to undertaking a credit check you receive a low credit score, we reserve the right not to supply you with goods or services on credit and/or require upfront payment for the goods or services you wish to purchase.
 
+If you provide false or inaccurate information and we suspect fraud, we will record this.
 
-At BetterBathrooms, we collect data to give you a better experience, improve our products and services, and bring you the very best offers and competitions that we think you’ll be interested in. Put simply, we can give you more of what you love, when we understand you better. Here we explain the choices you have when it comes to receiving marketing communications and being invited to take part in market research.
+#### 9\. LEGAL BASIS FOR PROCESSING YOUR PERSONAL DATA
 
-    * We use your data to improve your experience. We will send you relevant offers, competitions, and news about our products and services in a number of ways including by email, but only if you have previously agreed to receive these marketing communications.
-    * When you register with us we will ask if you would like to receive marketing communications; you can change your marketing choices online via our Preference Centre. You can also unsubscribe at any time by clicking the unsubscribe link at the bottom of our emails.
-    * We also like to hear your views to help us to improve our services, so we may contact you to invite you to take part in market research via a questionnaire. You always have the choice about whether to take part in this or not.
+9.1 We will only use your personal data where the law allows us to. Most commonly, we will use your personal data in the following circumstances:   
+9.1.1 for performance of a contract we enter into with you;   
+9.1.2 where necessary for compliance with a legal or regulatory obligation we are subject to; and   
+9.1.3 for our legitimate interests (as described within this policy) where your interests and fundamental rights do not override these interests.
 
+#### 10\. DISCLOSURE OF PERSONAL DATA to third parties
 
-  * **Understanding our customers better**
+10.1 In addition to the third parties mentioned above, we may disclose your information to third parties for our legitimate interests as follows:   
+10.1.1 to staff members in order to facilitate the provision of goods or services to you;   
+10.1.2 to our affiliated entities to support internal administration;   
+10.1.3 IT software providers that host our website and store data on our behalf;   
+10.1.4 professional advisers including consultants, lawyers, bankers and insurers who provide us with consultancy, banking, legal, insurance and accounting services;   
+10.1.5 HM Revenue and Customs, regulators and other authorities who require reporting of processing activities in certain circumstances; and   
+10.1.6 third parties who we may choose to sell, transfer or merge parts of our business or assets. Alternatively, we may seek to acquire other business or merge with them. If a change happens to our business then the new owners may use your personal data in the same way as set out in this privacy policy.
 
+10.2 We may disclose personal data to the police, regulatory bodies, legal advisors or similar third parties where we are under a legal duty to disclose or share personal data in order to comply with any legal obligation, or in order to enforce or apply our website terms and conditions and other agreements; or to protect our rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
+10.3 We will not sell or distribute personal data to other organisations without your approval.
 
-We may make use of profiling your personal data to produce more relevant and tailored communications by having a deeper understanding of your interests, behaviours and personal preferences. This information helps us provide a better experience for our customers. 
+#### 11\. CROSS-BORDER DATA TRANSFERS
 
-Profiling can help us target our resources more effectively through gaining an insight into the background of our customers and helping us to build relationships that are appropriate to their interests.
+11.1 Where permitted by applicable law, we may transfer your personal data to the United States and other jurisdictions outside the European Economic Area (‘EEA’) for the purposes set out in this privacy policy. We have implemented binding corporate rules/standard contractual clauses approved by the European Commission/the EU-US Privacy Shield/Swiss-US Privacy Shield/consent to secure the transfer of your personal data to jurisdictions outside the EEA.
 
-If you have any specific questions in relation to how your information is processed, then please contact us
+#### 12\. DATA SECURITY
 
-### Processing your data using our Legitimate Interests
+12.1 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-We have a number of lawful reasons that we can use (or 'process') your personal data. One of these lawful reasons is called 'legitimate interests'.
+12.2 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your information transmitted to our Site; any transmission is at your own risk.
 
-Broadly speaking legitimate interests means that we can process your personal information if:
+12.3 Information you provide to us is shared on our secure servers. We have implemented appropriate physical, technical and organisational measures designed to secure your information against accidental loss and unauthorised access, use, alteration or disclosure. In addition, we limit access to personal data to those employees, agents, contractors and other third parties that have a legitimate business need for such access.
 
-  * We have a genuine and legitimate reason to and we are not harming any of your rights and interests.
+#### 13\. ACCESS TO, UPDATING, DELETING AND RESTRICTING USE OF PERSONAL DATA
 
+13.1 It is important that the personal data we hold about you is accurate and current. Please keep us informed if the personal data we hold about you changes.
 
+13.2 Data protection legislation gives you the right to object to the processing of your personal data in certain circumstances or withdraw your consent to the processing of your personal data where this has been provided. You also have the right to access information held about you and for this to be provided in an intelligible form. If you would like a copy of some or all of your personal information, please send an email to privacy@buyitdirect.co.uk. In certain circumstances we reserve the right to charge a reasonable fee to comply with your request.
 
-The following are some examples of when and why we would use this approach during our normal course of business:
+13.3 You can also ask us to undertake the following:   
+13.3.1 update or amend your personal data if you feel this is inaccurate;   
+13.3.2 remove your personal data from our database entirely;   
+13.3.3 send you copies of your personal data in a commonly used format and transfer your information to another entity; or   
+13.3.4 restrict the use of your personal data.
 
-  * **To improve and enhance our services:** When we do process your data, we will use it to benefit you and to make your experience better and to improve our products and services.
-  * **Your best interest:** Processing your information to protect you against fraud when transacting on our website, and to ensure our websites and systems are secure.
-  * **Personalisation:** Where the processing enables us to enhance, modify, personalise or otherwise improve our services/communications for the benefit of our customers.
-  * **Analytics:** To process your personal data for the purposes of customer analysis, assessment, profiling and direct marketing, on a personalised or aggregated basis, to help us with our services and to provide you with the most relevant information as long as this does not harm any of your rights and interests.
-  * **Research:** To determine the effectiveness of promotional campaigns and advertising and to develop our products, services, systems and relationships with you.
-  * **Due Diligence:** We may need to conduct investigations on existing customers, potential customers and business partners to determine if those companies and individuals have been involved or convicted of offences such as fraud, bribery and corruption.
-  * **Direct Marketing:** We may send postal marketing. We will also make sure our postal marketing is relevant for you and tailored to your interests. You also have the right to opt-out of receiving this information at any time.
+13.4 We may request specific information from you to help us confirm your identity and your right to access, and to provide you with the personal data that we hold about you or make your requested changes. Data protection legislation may allow or require us to refuse to provide you with access to some or all the personal data that we hold about you or to comply with any requests made in accordance with your rights referred to above. If we cannot provide you with access to your personal data, or process any other request we receive, we will inform you of the reasons why, subject to any legal or regulatory restrictions.
 
+13.5 Please send any requests relating to the above to our Data Lead at privacy@buyitdirect.co.uk specifying your name and the action you would like us to undertake.
 
+#### 14\. RIGHT TO WITHDRAW CONSENT
 
-When we process your personal information for our legitimate interests, we will consider and balance any potential impact on you and your rights under data protection and any other relevant law. Our legitimate business interests do not automatically override your interests – we will not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
+Where you have provided your consent to the collection, processing and transfer of your personal data, you have the legal right to withdraw your consent under certain circumstances. To withdraw your consent, please contact us at privacy@buyitdirect.co.uk .
 
-### How we look after your data:
+#### 15\. CHANGES TO OUR PRIVACY POLICY
 
-We will protect the data that you entrust to us via appropriate security measures and controls. We’ll also ensure that other businesses we work with are just as careful with your data.
+We reserve the right to update this privacy policy at any time, and any changes we make to our privacy policy will be posted on this page. Please check periodically for any updates. If we would like to use your previously collected personal data for different purposes than those we notified you about at the time of collection, we will provide you with notice and, where required by law, seek your consent, before using your personal data for a new or unrelated purpose. We may process your personal data without your knowledge or consent where required by applicable law or regulation.
 
-  * We will always take appropriate technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
-  * We ensure your data is encrypted and secure.
-  * We will continually test, audit and monitor our compliance with Information Security standards and relevant Data Protection regulations.
-  * We ensure those 3rd parties who process your data operate under a Data Sharing Agreement.
+#### 16\. CONTACT US
 
+We have appointed a Data Lead to oversee compliance with this privacy policy. If you have any questions, comments or requests regarding this policy or how we use your personal data please contact our Data Lead at privacy@buyitdirect.co.uk . This is in addition to your right to contact the Information Commissioners Office if you are unsatisfied with our response to any issues you raise at <https://ico.org.uk/global/contact-us/>
 
-
-_Your data outside Europe_
-
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers.
-
-Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. 
-
-We have ensured that appropriate protections are in place to make sure your personal data remains adequately protected and is treated in line with relevant Data Protection laws. Details of who we share data with outside the EEA will be published in this section before 25th May 2018.
-
-### How long we hold your data:
-
-We hold your information only as long as necessary for each purpose we use it, we will provide detailed information about our retention in this section before 25th May 2018 to give you an understanding of how long we hold your information for.
-
-### What can I do?
-
-  * **Right to be informed**  
-We will always be transparent in the way we use your personal data. You will be fully informed about the processing through relevant privacy notices.
-  * **Right to access**  
-You have a right to request access to the personal data that we hold about you and this should be provided to you, under the Data Protection Act 1998, within 40 days. We are able to charge a small fee of £10. If you would like to request a copy of your personal data, please contact us via the Contact us section.
-  * **Right to rectification**  
-We want to make sure that the personal data we hold about you is accurate and up to date. If any of your details are incorrect, please let us know and we will amend them.
-  * **Right to erasure**  
-You have the right to have your data ‘erased’ in the following situations: 
-    * Where your personal data is no longer necessary in relation to the purpose for which it was originally collected or processed.
-    * When you withdraw consent.
-    * When you object to the processing and there is no overriding legitimate interest for continuing the processing.
-    * When your personal data was unlawfully processed.
-    * When your personal data has to be erased in order to comply with a legal obligation.
-
-
-
-If you would like to request erasure of your personal data, please contact us via the contact us section. Please note that each request will be reviewed on a case by case basis and where we have a lawful reason to retain the data, it may not be erased.
-
-  * **Right to restrict processing**
-
-
-
-You have the right to restrict processing in certain situations such as:
-
-    * Where you contest the accuracy of your personal data, we will restrict the processing until you have verified the accuracy of your personal data.
-    * Where you have objected to processing and we are considering whether BetterBathrooms legitimate grounds override your legitimate grounds.
-    * When processing is unlawful and you oppose erasure and request restriction instead.
-    * Where we no longer need the personal data but you require the data to establish, exercise or defend a legal claim.
-
-
-  * **Right to data portability**
-
-
-
-You have the right to data portability in certain situations. You have the right to obtain and reuse your personal data for your own purposes via a machine-readable format, such as a .CSV file. This only applies:
-
-    * To personal data that you have provided to us;
-    * Where the processing is based on your consent or for the performance of a contract; and
-    * When processing is carried out by automated means.
-
-
-  * **Right to object**
-
-
-
-You have the right to object to the processing of your data in the following circumstances:
-
-    * Direct marketing (including profiling). Remember you can opt out at any time from marketing communications;
-    * Where the processing is based on legitimate interests; and
-    * Processing for purposes of scientific/historical research and statistics.
-
-
-
-### Not happy or concerned?
-
-If you feel that BetterBathrooms has not upheld your rights, we ask that you contact our Data Protection Officer so that we can try and help – their details can be found in the “Our Data Protection Officer” section.
-
-If you are not satisfied with our response, or believe we are not processing your data in accordance with the law you have the right to lodge a complaint with the Information Commissioner’s Office (ICO). Their details are supplied below:
-
-**Address:**
-
-Information Commissioner's Office  
-Wycliffe House  
-Water Lane  
-Wilmslow  
-Cheshire  
-SK9 5A
-
-### How to contact us:
-
-**Address:**
-
-BetterBathrooms (UK) Limited  
-Horizon Park  
-Greenfold Way  
-Leigh  
-WN7 3XJ
-
-**Email:**
-
-dpo@betterbathrooms.com
-
-Better Bathrooms cookies, like all cookies, are small files that websites put on your computer to help make your visits relevant, easier and faster. Most cookies are essential for websites to work and others remember details about you to give you a better and more enjoyable online experience. For example, a cookie will remember products that you put in your shopping basket, without this cookie, you will have to add those items to your basket every time you visit a different page on that website. So as you can see, cookies are very important in the function of any website. Below we will be talking about the different types of cookies that we use and what they are used for, please read through this information to ensure an understanding of cookies and how they are used.
-
-  * __Essential Cookies
-  * __Information Cookies
-  * __Cookies That Help
-  * __3rd Party Cookies
-  * __Managing Your Cookies
-
-
-
-## What Are Essential Cookies?
-
-## How Do Cookies Provide Information
-
-## How Can Cookies Help Your Online Experience?
-
-## What Are Third Party Cookies?
-
-## How to Manage Your Cookies
-
-If you do not have cookies turned on in your browser, this will prevent you from purchasing products from our website. If this is the case, you will need to turn your browser cookies on. This is done differently for different web browsers. If you are unsure of what web browser you are using, you can find out by doing the following:
-
-**For Windows:** Click the "help" button at the top of your browser window, then click the "about" button. If you can not see a "help" button at the top of your browser - press "alt" on your keyboard, this will make the browser menu appear.
-
-**For Mac:** With the browser window open, click the Apple icon and press the "about" button.
-
-You should now be able to see what web browser you are using to surf the web.
-
-* * *
-
-## How to Check Cookies Are Enabled For PC
-
-#### Internet Explorer
-
-  1. Click on "tools" in the browser menu at the top of your borswer window (if you can't see a browser menu - press "alt" on your keyboard)
-  2. Click on "internet options"
-  3. click the "privacy" tab and make sure that your security setting is set to medium or below. Anything above medium will disable cookies.
-  4. Click "okay" and you're' done
-
-
-
-#### Google Chrome
-
-  1. Click the spanner icon in the top right hand corner of your browser window
-  2. Click "settings"
-  3. Click on the "show advanced settings" link at the bottom of the page
-  4. Under the "privacy" heading, click "content settings"
-  5. You will see a box appear over your browser window, under the cookies heading - make sure that "allow local data to be set" is selected
-  6. Close the box that appeared, and you're done
-
-
-
-#### Mozilla Firefox
-
-  1. Click on "tools" in the browser menu at the top of your borswer window (if you can't see a browser menu - press "alt" on your keyboard)
-  2. Click "options"
-  3. In the box that appears, go the "privacy tab"
-  4. Under the history heading, make sure that Firefox will "remember history"
-  5. Click "okay" and you're' done
-
-
-
-#### Safari
-
-  1. Click on the cog icon in the top right hand corner of your browser window
-  2. Click the "privacy" tab
-  3. Under the "block cookies" heading - makde sure that either "from third parties or advertisers" or "never" is selected
-  4. Close the box that appeared and you're' done
-
-
-
-## How to Check Cookies Are Enabled For Mac
-
-#### Safari
-
-  1. With your browser window open, click "Safari" in the top left hand corner of your screen
-  2. This will open a dialog box, now click the "privacy" tab
-  3. Under the "block cookies" heading, select either "from third parties and advertisers" or "never"
-  4. Click save and close the dialog box and you're' done
-
-
-
-#### Google Chrome
-
-  1. Click the spanner icon in the top right hand corner of your browser window
-  2. Click "settings"
-  3. Click on the "show advanced settings" link at the bottom of the page
-  4. Under the "privacy" heading, click "content settings"
-  5. You will see a box appear over your browser window, under the cookies heading - make sure that "allow local data to be set" is selected
-  6. Close the box that appeared, and you're done
-
-
-
-#### Mozilla Firefox
-
-  1. With your browser window open, click "Firefox" in the top left hand corner of your screen
-  2. Click "preferances"
-  3. In the box that appears, go the "privacy tab"
-  4. Under the history heading, make sure that Firefox will "remember history"
-  5. Click "okay" and you're done
-
-
-
-We have provided this information to you as part of our initiative to comply with the recent laws and legislation. We want to be clear and honest when it comes to your privacy when shopping with Better Bathrooms as we know that you expect nothing less than our best.
+Last updated: May 2018.
