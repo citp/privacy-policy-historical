@@ -1,174 +1,154 @@
-> *The following text is extracted and transformed from the keeps.com privacy policy that was archived on 2012-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120128023424id_/http%3A//keeps.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keeps.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623193510id_/https%3A//www.keeps.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Keeps
 
-### DARK BLUE SEA - PRIVACY POLICY
+### Keeps ONLINE PRIVACY POLICY
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+Last revised: May 4, 2018
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+  1. ****INTRODUCTION****
 
-The Dark Blue Sea group comprises a number of companies that includes:
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
 
+The purpose of this Privacy Policy is to describe how Thirty Madison, Inc., d/b/a Keeps (“Keeps”) collects, uses and shares information about you through our website located at [www.keeps.com](https://web.archive.org/) (the “Site”). Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to [Contact Us](https://web.archive.org/contact) or as described at the end of this Policy.
 
+Our Privacy Policy explains:
 
-#### ABOUT THIS PRIVACY POLICY
+  * Information That We Collect
+  * How We Use and Share Your Information
+  * Access to Your Information and Choices
+  * Security of Your Information
+  * California Privacy Rights
+  * Consent to Processing of Personal Data in United States
+  * Changes to Our Privacy Policy
+  * Questions and How Contact Us
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
+**Scope; Third Party Sites.** This Privacy Policy applies only to information we collect at and through the Site. Our Site also contains links to third party sites that are not owned or controlled by Keeps. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personal information.
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+**Terms of Use.** Please note that your use of our Site is also subject to our [Terms of Use](https://web.archive.org/legal/terms). 
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+  2. ****INFORMATION THAT WE COLLECT****
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+**Information You Provide to Us**
 
-In order to do this, we share your personal information with our related companies.
+We collect information you provide to us, for example when you create or modify your account, register to use our Site, purchase products or services from us, request information from us, contact customer support, or otherwise communicate with us. This information may include:
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+  * Name
+  * Address
+  * Email address
+  * Telephone number
+  * Payment information (credit card or debit card number, expiration date and credit card security code – solely for payment purposes)
+  * Date of birth
+  * User name and password
 
-#### HOW WE COLLECT INFORMATION
 
-**Personal Information provided to us**
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+Please note if you sign up to use our service you will also be asked to submit photographs of your head and hair during the sign-up process, as well as demographic and other information relevant to diagnosis and treatment, such as hair loss, lifestyle and general medical history (e.g. conditions, allergies etc.). You will be able to send confidential messages and communicate with a doctor regarding your diagnosis and treatment. Keeps will keep these messages private and confidential.
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+**Information We Collect Automatically Through Your Use of our Site**
 
-**Website activity, cookies and related technology**
+**Google Analytics**
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+We use Google Analytics, a web analytics service provided by Google, Inc. (“Google”) to collect certain information relating to your use of the Site. Google Analytics uses “cookies”, which are text files placed on your computer, to help the Site analyze how users use the site. You can find out more about how Google uses data when you visit our Site by visiting “How Google uses data when you use our partners' sites or apps”, (located at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/privacy.html.erb)). We may also use Google Analytics Advertising Features or other advertising networks to provide you with interest-based advertising based on your online activity. For more information regarding Google Analytics please visit Google's website, and pages that describe Google Analytics, such as [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). To learn more about interest-based advertisements and your opt-out rights and options, visit the [Digital Advertising Alliance](http://www.aboutads.info/) and the [Network Advertising Initiative](http://www.networkadvertising.org/) websites ([www.aboutads.info](http://www.aboutads.info/) and [www.networkadvertising.org](http://www.networkadvertising.org/)). Please note that if you choose to opt out, you will continue to see ads, but they will not be based on how your online activity.
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+**Information Collected Through Cookies and Similar Technologies**
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+We and our service providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with our Site through your computer or mobile device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the Site again, the cookie allows the Site to recognize your browser. Cookies may store unique identifiers, user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Site features or services may not function properly without cookies. ** ****** We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends and providing relevant advertising to you. (See, “Advertising” below.)
 
-**IP Addresses**
+****No Information from Individuals Under the Age of 18****
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+If you are under the age of 18, please do not attempt to register with us at this Site or provide any personal information about yourself to us. If we learn that we have collected personal information from someone under 18, we will promptly delete that information. If you believe we have collected personal information from someone under the age of 18, please [Contact Us](https://web.archive.org/contact) or call us at (833) 745-3377. 
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+**To Provide Products, Services, and Information.** We collect information from you and use the information to:
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+  * provide products and services that you order using the Site;
+  * register and service your online account;
+  * provide information that you request from us;
+  * contact you about your orders;
+  * process credit card and debit card transactions;
+  * ship products to you;
+  * send you promotional materials or advertisements about our products and services, as well as new features and offerings;
+  * enforce our Terms of Use or other legal rights and remedies;
+  * administer surveys, sweepstakes, promotions and contests;
+  * provide interest-based targeted advertising to you; and,
+  * any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+**Sharing with Third Parties.**
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+**Healthcare Providers.** We share your personal information with KMG Medical Group TX PA, doctors and relevant medical staff in connection with your diagnosis and treatment.
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+**Vendors and Services Providers.** We may provide information to third party vendors and service providers that help us operate and manage our Site, process orders, and fulfill and deliver products and services that you purchase from us. These vendors and service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service.
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
+**Corporate Affiliates.** We may share your personal information with our corporate affiliates which are subject to this policy and applicable law.
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+**Advertising.** We may use how you browse and shop in order to show you ads for Keeps or our advertising partners that are more relevant to your interests. We may use cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by Keeps.
 
-#### EPP SHARING ARRANGEMENTS
+We belong to ad networks that may use your browsing activity across participating websites to show you interest-based advertisements on those websites. Currently, our Site does not recognize if your browser sends a “do not track” signal or similar mechanism to indicate you do not wish to be tracked or receive interest-based ads. To learn more about interest-based advertisements and your opt-out rights and options, visit the [Digital Advertising Alliance](http://www.aboutads.info/) and the [Network Advertising Initiative](http://www.networkadvertising.org/) websites ([www.aboutads.info](http://www.aboutads.info/) and [www.networkadvertising.org](http://www.networkadvertising.org/)). Please note that if you choose to opt out, you will continue to see ads, but they will not be based on your online activity.
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+**Social Media.** If you use third-party services, such as Facebook, Google, or Twitter, through the Site, to login to the Site, or to share information about your experience on the Site with others, these third-party services may be able to collect information about you, including information about your activity on the Site, and they may notify your connections on the third-party services about your use of the Site, in accordance with their own privacy policies.
 
-#### PROTECTING KIDS PRIVACY
+**Public Posts and Activities.** If you choose to engage in public activities on the Site, you should be aware that any information you share there can be read, collected, or used by other users of these areas. You should use caution in disclosing personal information while participating in these areas. We are not responsible for the information you choose to submit in these public areas
 
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
+**Your Consent.** In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, organizations or individuals outside of Keeps when we have your consent to do so.
 
-**Notice to Kids**
+**Legal Proceedings.** We will share personal information with third party companies, organizations or individuals outside of Keeps if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
 
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+  * Meet any applicable law, regulation, subpoena, legal process or enforceable governmental request.
+  * Enforce applicable Terms of Use, including investigation of potential violations.
+  * Detect, prevent, or otherwise address fraud, security or technical issues.
+  * Protect against harm to the rights, property or safety of Keeps, our users, customers or the public as required or permitted by law.
 
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
 
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
 
-**Notice to Parents**
+**Transfer in the Event of Sale or Change of Control.** If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Site to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may transfer or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in the applicable privacy policy unless you agree differently.
 
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
+  4. **ACCESS TO YOUR INFORMATION AND CHOICES**
 
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
 
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
 
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
+You can access and update certain information we have relating to your online account by signing into your account and going to the Account section of our Site. If you have questions about personal information we have about you or need to update your information, you can [Contact Us](https://web.archive.org/contact) or call us at (833) 745-3377. 
 
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
+  5. **SECURITY OF YOUR INFORMATION**
 
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
 
-#### LINKS TO OTHER WEBSITES
 
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
+We use industry standard physical, technical and administrative security measures and safeguards to protect the confidentiality and security of your personal information. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that emails and other communications you send to us through our Site are not encrypted, and we strongly advise you not to communicate any confidential information through these means.
 
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
+  6. **CALIFORNIA PRIVACY RIGHTS**
 
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
 
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
 
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
+Under California’s "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2017 will receive information regarding 2016 sharing activities).
 
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
+To obtain this information, please send an email message to [help@keeps.com](mailto:help@keeps.com) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
 
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
+  7. **CONSENT TO PROCESSING OF PERSONAL DATA IN UNITED STATES**
 
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
 
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
 
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
+This Site is intended for use only by residents of the U.S. If you are a citizen of the European Economic Area (EEA) or other jurisdiction outside of the U.S., please note that in order to provide our Site, products and services to you, we may send and store your personal information (also commonly referred to as personal data) outside of the EEA, including to the United States. Accordingly, your personal information may be transferred outside of the country where you reside or are located, including to countries that may not or do not provide the same level of protection for your personal information. We are committed to protecting the privacy and confidentiality of personal information when it is transferred. Where such transfers occur, we take appropriate steps to provide the same level of protection for the processing carried out in any such countries as within the EEA to the extent feasible under applicable law. By using and accessing our Site, users who reside or are located in countries outside of the United States agree and consent to the transfer to and processing of personal information on servers located outside of the country where they reside, and that the protection of such information may be different than required under the laws of their residence or location.
 
-#### PRIVACY COMPLAINTS
+  8. **CHANGES TO OUR PRIVACY POLICY**
 
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
 
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
 
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent in accordance with applicable law. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
 
+  9. ****QUESTIONS AND HOW TO CONTACT US****
 
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
 
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
 
+If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please [Contact Us](https://web.archive.org/contact), email us at [help@keeps.com](mailto:help@keeps.com), call us at (833) 745-3377, or contact us by US postal mail at the following address:
 
-
-#### YOUR ACCEPTANCE OF THESE TERMS
-
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+Thirty Madison   
+130 Madison Ave, 6th Fl   
+New York, NY 10016 
