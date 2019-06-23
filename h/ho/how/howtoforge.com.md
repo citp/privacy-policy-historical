@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the howtoforge.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917030440id_/https%3A//www.howtoforge.com/community/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtoforge.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623163834id_/https%3A//www.howtoforge.com/community/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Howtoforge - Linux Howtos and Tutorials
 
-[](https://web.archive.org/web/20180917030440id_/https%3A//www.howtoforge.com/community/help/misc/quick-navigation-menu "Open quick navigation")
+[](https://web.archive.org/web/20190623163834id_/https%3A//www.howtoforge.com/community/help/misc/quick-navigation-menu "Open quick navigation")
 
 **Howtoforge - Linux Howtos and Tutorials**
 
@@ -359,7 +359,7 @@ Our website accepts payments via credit card. The provider of this service is Wo
 
 If you select payment via credit card, the payment data you provide will be supplied to Worldpay based on Art. 6 (1) (a) (Consent) and Art. 6 (1) (b) DSGVO (Processing for contract purposes). You have the option to revoke your consent at any time with future effect. It does not affect the processing of data previously collected. [Worldpay Privacy Policy](https://www.worldpay.com/uk/privacy-policy)
 
-[](https://web.archive.org/web/20180917030440id_/https%3A//www.howtoforge.com/community/help/misc/quick-navigation-menu "Open quick navigation")
+[](https://web.archive.org/web/20190623163834id_/https%3A//www.howtoforge.com/community/help/misc/quick-navigation-menu "Open quick navigation")
 
 **Howtoforge - Linux Howtos and Tutorials**
 
