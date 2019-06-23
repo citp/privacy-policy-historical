@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unity3d.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220013416id_/https%3A//unity3d.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unity3d.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623160352id_/https%3A//unity3d.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unity
 
@@ -634,14 +634,12 @@ Please note that the Developer of the app showing Unity Ads may have limited pro
 
 The following partners may receive an ad request from Unity containing your advertising ID, IP address, and the name of the app/game in which you will see the ad.  These partners use this information to serve future ads you may see on the internet as well as inside the Unity ad network.  The privacy policies linked below provide you information around the data that they have from all sources, including Unity, and your rights to delete or remove data. 
 
-Google’s AdMob  <https://policies.google.com/technologies/partner-sites>  (Review the link to AdSettings)
-
-MediaMath-- <http://www.mediamath.com/privacy-policy/>
+[Google](http://policies.google.com/technologies/partner-sites) (Review the link to AdSettings), [Chartboost](https://answers.chartboost.com/en-us/articles/200780269), [Kayzen (AppLift)](https://www.applift.com/privacy-policy), [Liftoff](https://liftoff.io/privacy-policy/), [LoopMe](https://loopme.com/privacy-policy/), [MediaMath](http://www.mediamath.com/privacy-policy/), and [Tapjoy](https://www.tapjoy.com/legal/#privacy-policy).
 
 ### Processor Partners
 
 The following partners may receive an ad request containing your advertising ID, IP Address, and the name of the game in which you will see the ad.  These partners act as processors to Unity and **are not permitted** to use this information for any further purpose, including serving you future ads.  The privacy policies linked below provide you information around the data that they have from sources other than Unity:
 
-[Aarki](http://corp.aarki.com/privacy), [AdColony](https://www.adcolony.com/gdpr/), [Ad.Net](http://www.ad.net/privacy-policy), [AdMaxim](http://www.admaxim.com/admaxim-privacy-policy/), [Appreciate](https://appreciate.mobi/page.html#/end-user-privacy-policy),  [Beeswax](http://beeswax.com/privacy.html), [CrossInstall](http://www.crossinstall.com/privacy/), [GothamAds](https://gothamads.com/privacy-policy), [Lifestreet](http://lifestreet.com/privacy/), [Manage.com](https://www.manage.com/privacy-policy/), [Moloco](http://www.molocoads.com/private-policy.html), [Persona.ly](http://persona.ly/privacy_dsp), [Receptiv](https://www.receptiv.com/ad-services-privacy-policy), and [Remerge](https://remerge.io/privacy-policy.html).
+[Aarki](http://corp.aarki.com/privacy), [AdColony](https://www.adcolony.com/gdpr/), [Ad.Net](http://www.ad.net/privacy-policy), [AdMaxim](http://www.admaxim.com/admaxim-privacy-policy/), [Appreciate](https://appreciate.mobi/page.html#/end-user-privacy-policy), [Beeswax](http://beeswax.com/privacy.html), [Bidmotion](http://www.bidmotion.com/privacy-policy), [CrossInstall](http://www.crossinstall.com/privacy/), [EngageBDR](http://engagebdr.com/privacy-policy/), [GothamAds](https://gothamads.com/privacy-policy), [Jampp](https://jampp.com/privacy-policy/), [Lifestreet](http://lifestreet.com/privacy/), [Manage.com](https://www.manage.com/privacy-policy/), [Mobvista](https://www.mintegral.com/en/privacy/), [Moloco](http://www.molocoads.com/private-policy.html), [Persona.ly](http://persona.ly/privacy_dsp), [Phunware](https://www.phunware.com/privacy/), [Pubnative](https://pubnative.net/privacy-policy/), [Receptiv](https://www.receptiv.com/ad-services-privacy-policy), [Remerge](https://remerge.io/privacy-policy.html), [Sabio](http://www.sabiomobile.com/privacy.php), [Smaato](https://www.smaato.com/privacy/), [SuperAwesome](https://www.superawesome.tv/privacy-policy), [ThirdPresence](https://learn.thirdpresence.com/gdpr/), and [TreSensa](https://tresensa.com/privacy/index.html).
 
 Back to Top
