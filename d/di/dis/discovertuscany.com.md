@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovertuscany.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217142125id_/http%3A//www.discovertuscany.com/legal-notes.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovertuscany.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623114932id_/http%3A//www.discovertuscany.com/legal-notes.html) for the most accurate reproduction.*
 
 # Discover Tuscany - Legal Notes about Copyright, Privacy and Cookie Policy and Disclaimers
 
