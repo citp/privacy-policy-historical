@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220012428id_/https%3A//www.dol.gov/general/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623142220id_/https%3A//www.dol.gov/general/privacynotice) for the most accurate reproduction.*
 
 # Privacy and Security Statement | U.S. Department of Labor
 
