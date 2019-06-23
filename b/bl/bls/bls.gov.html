@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the bls.gov privacy policy that was archived on 2018-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227152838id_/https%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bls.gov privacy policy that was archived on 2019-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190623205811id_/https%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head>
-<!-- P4 -->
+<!-- P1 -->
 
 	                                <title>Protecting Online Privacy :  U.S. Bureau of Labor Statistics</title>
 							<meta charset="UTF-8">
@@ -30,7 +30,7 @@
 				
 		
 						  		  		  				<!-- START include/global/head.stm -->
-	<script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOL&amp;subagency=BLS&amp;yt=true"></script>
+	<script type="text/javascript" async="" src="//siteimproveanalytics.com/js/siteanalyze_6032860.js"></script><script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOL&amp;subagency=BLS&amp;yt=true"></script>
 	<script type="text/javascript" src="/javascripts/jquery-min.js"></script>
 	<script type="text/javascript" src="/javascripts/bls.js"></script>
 	<script>
@@ -45,6 +45,12 @@ aex = {
 };
 for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am);g[fsr] = function () {var aT = '__' + fsr + '_stk__';g[aT] = g[aT] || [];g[aT].push(arguments);};
 })(window);
+fsReady(function() {
+	FSR.CPPS.get('visitedSubSites', function(val) {
+		var cpp = {};if(val){var arr = val.split(/,/gi);if(!arr.length){arr.push(val)}for(key in arr){if(typeof arr[key] == "string"){cpp[arr[key]] = true;}}}var rp = window.location.pathname.replace(/\/(opub\/(.*?)\/.*$|(.*?)\/.*$)/gi,"$2$3");if(rp.match(/(blog|btn|ces|cew|cex|charts|cpi|cps|ebs|ect|emp|fls|iif|jlt|lau|lpc|mfp|mlr|mxp|ncs|nls|oes|ooh|ors|ppi|regions|sae|ted|tus|video)/gi)){cpp[rp] = true;var out = "";for(key in cpp){out+= key + ",";}out=out.replace(/,$/,"");FSR.CPPS.set('visitedSubSites',out);
+	}
+    });
+});
 </script><script src="//gateway.foresee.com/sites/bls.gov/production/gateway.min.js" type="text/javascript" async="true" data-vendor="fs" data-role="gateway"></script>
 
 	<link rel="stylesheet" type="text/css" href="/stylesheets/bls_combined.css">
@@ -271,6 +277,7 @@ for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am);g[fsr]
 		<li><a href="/oes/" aria-label="Occupational Employment Statistics">Employment by Occupation </a></li>
 		<li><a href="/nls/" aria-label="National Longitudinal Surveys">Work Experience Over Time </a></li>
 		<li><a href="/bdm/" aria-label="Business Employment Dynamics">Business Employment Dynamics </a></li>
+		<li><a href="/fdi/" aria-label="Foreign Direct Investment">Foreign Direct Investment </a></li>
 		<li><a href="/ers/" aria-label="Employment Research and Program Development">Employment Research</a></li>
 		<li><a href="/bls/employment.htm" aria-label="Statistics on Employment">Employment Overview</a></li>
 		<li>&nbsp;</li>
@@ -363,8 +370,8 @@ for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am);g[fsr]
 		<li><a href="/opub/#magazines">Magazines &amp; Journals </a></li>
 		<li><a href="/opub/#chartbooks">Chartbooks</a></li>
 		<li><a href="/opub/#catalog">Catalog of Publications </a></li> -->
-		<li><a href="/osmr/osmr.htm" aria-label="Office of Survey Methods Research">Research Papers </a></li>
-		<li><a href="/opub/#copyright" aria-label="Copyright Information">Copyright Information </a></li>
+		<li><a href="/osmr/" aria-label="Office of Survey Methods Research">Research Papers</a></li>
+		<li><a href="/opub/#copyright" aria-label="Copyright Information">Copyright Information</a></li>
 		<li><a href="/opub/#contact" aria-label="Contact and Help">Contact &amp; Help </a></li>
     </ul>
 </div>
@@ -428,6 +435,7 @@ for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am);g[fsr]
 
 <div class="sub" id="submenu-beta">
     <ul>
+        <li class="heading"><a href="https://beta.bls.gov/api-charts/home.htm" aria-label="Industry Productivity Viewer">Industry Productivity Viewer »</a></li>
         <li class="heading"><a href="http://beta.bls.gov/dataQuery/" aria-label="Data Finder 1.0">Data Finder »</a></li>
 		<li class="heading"><a href="http://beta.bls.gov/maps/cew/us" aria-label="Quarterly Census of Employment and Wages State and Country Map">State and County Map »</a></li>
 		<li class="heading"><a href="http://beta.bls.gov/comparison-matrix/home.htm" aria-label="Comparison Matrix of BLS compensation data sources">Comparing Pay Measures »</a></li>
@@ -872,47 +880,54 @@ BLS Information
 
 <!-- QUICK LINKS BEGIN -->
 
-			<div class="clearfloat"></div>
+
 			<div id="quicklinks-wrapper">
 				<div id="quicklinks">
-					<h3 class="invisible">Quicklinks Footer</h3>
-						<ul><li class="header">tools</li>
-							<li><a href="/eag/" aria-label="Economy at a Glance">Areas at a Glance </a></li>
-							<li><a href="/iag/" aria-label="Industries at a Glance">Industries at a Glance </a></li>
-							<li><a href="/bls/newsrels.htm" aria-label="Economic News Releases">Economic Releases</a></li>
-							<li><a href="/data/" aria-label="Databases, Tables and Calculators by Subject">Databases &amp; Tables</a></li>
-							<li><a href="/map/MapToolServlet?survey=la" aria-label="Local Area Unemployment Statistics Map">Maps</a></li>
-						</ul>
-						<ul><li class="header">calculators</li>
-							<li><a href="/data/inflation_calculator.htm" aria-label="Consumer Price Index Inflation Calculator">Inflation</a></li>
-							<!--<li><a href="/location_quotient/" aria-label="">Location Quotient</a> </li> -->
-							<li><a href="/iirc/" aria-label="Incidence Rate Calculator and Comparison Tool
+					<p class="invisible">Quick Links</p>
+					<ul><li class="header">tools</li>
+						<li><a href="/eag/" aria-label="Economy at a Glance">Areas at a Glance </a></li>
+						<li><a href="/iag/" aria-label="Industries at a Glance">Industries at a Glance </a></li>
+						<li><a href="/bls/newsrels.htm" aria-label="Economic News Releases">Economic Releases</a></li>
+						<li><a href="/data/" aria-label="Databases, Tables and Calculators by Subject">Databases &amp; Tables</a></li>
+						<li><a href="/data/#maps" aria-label="Create Customized Maps">Maps</a></li>
+					</ul>
+					<ul><li class="header">calculators</li>
+						<li><a href="/data/inflation_calculator.htm" aria-label="Consumer Price Index Inflation Calculator">Inflation</a></li>
+						<!--<li><a href="/location_quotient/" aria-label="">Location Quotient</a> </li> -->
+						<li><a href="/iirc/" aria-label="Incidence Rate Calculator and Comparison Tool
 ">Injury And Illness</a></li>
-						</ul>
-						<ul><li class="header">help</li>
-							<li><a href="/help/" aria-label="Help and Tutorials">Help &amp; Tutorials</a></li>
-							<li><a href="/bls/faqs.htm" aria-label="Frequently Asked Questions">FAQs</a></li>
-							<li><a href="/bls/glossary.htm" aria-label="Glossary">Glossary</a></li>
-							<li><a href="/bls/infohome.htm" aria-label="About Bureau of Labor Statistics">About BLS</a></li>
-							<li><a href="/bls/contact.htm" aria-label="Contact Bureau of Labor Statistics">Contact Us</a></li>
-						</ul>
-						<ul><li class="header">info</li>
-							<li><a href="/newsroom/" aria-label="Newsroom">What's New</a></li>
-							<li><a href="/jobs/" aria-label="Careers at Bureau of Labor Statistics">Careers @ BLS</a></li>
-							<li><a href="https://www.dol.gov/dol/findit.htm" aria-label="Department of Labor Find It! webpage">Find It! DOL</a></li>
-							<li><a href="https://subscriptions.bls.gov/accounts/USDOLBLS/subscriber/new" aria-label="Join our Mailing Lists">Join our Mailing Lists</a></li>
-							<li><a href="/bls/linksite.htm" aria-label="Linking and Copyright Information">Linking &amp; Copyright Info</a></li>
-						</ul>
-                       				<ul style="border-right: none;"><li class="header">resources</li>
-                   				   	<li><a href="https://www.oig.dol.gov/" aria-label="Office of Inspector General website">Inspector General (OIG)</a></li>
-							<li><a href="/bls/bls_budget_and_performance.htm" aria-label="Budget and Performance">Budget and Performance</a></li>
-                      					<li><a href="/bls/no_fear_act.htm" aria-label="No Fear Act">No Fear Act</a></li>
-                      					<li><a href="https://www.usa.gov/" aria-label="USA.gov website">USA.gov</a></li>
-                    				        <li><a href="https://www.benefits.gov/" aria-label="Benefits.gov website">Benefits.gov </a></li>
+					</ul>
+					<ul><li class="header">help</li>
+						<li><a href="/help/" aria-label="Help and Tutorials">Help &amp; Tutorials</a></li>
+						<li><a href="/bls/faqs.htm" aria-label="Frequently Asked Questions">FAQs</a></li>
+						<li><a href="/bls/glossary.htm" aria-label="Glossary">Glossary</a></li>
+						<li><a href="/bls/infohome.htm" aria-label="About Bureau of Labor Statistics">About BLS</a></li>
+						<li><a href="/bls/contact.htm" aria-label="Contact Bureau of Labor Statistics">Contact Us</a></li>
+					</ul>
+					<ul><li class="header">info</li>
+						<li><a href="/newsroom/" aria-label="Newsroom">What's New</a></li>
+						<li><a href="/jobs/" aria-label="Careers at Bureau of Labor Statistics">Careers @ BLS</a></li>
+						<li><a href="https://www.dol.gov/dol/findit.htm" aria-label="Department of Labor Find It! webpage">Find It! DOL</a></li>
+						<li><a href="https://subscriptions.bls.gov/accounts/USDOLBLS/subscriber/new" aria-label="Join our Mailing Lists">Join our Mailing Lists</a></li>
+						<li><a href="/bls/linksite.htm" aria-label="Linking and Copyright Information">Linking &amp; Copyright Info</a></li>
+					</ul>
+								<ul style="border-right: none;"><li class="header">resources</li>
+								<li><a href="https://www.oig.dol.gov/" aria-label="Office of Inspector General website">Inspector General (OIG)</a></li>
+						<li><a href="/bls/bls_budget_and_performance.htm" aria-label="Budget and Performance">Budget and Performance</a></li>
+									<li><a href="/bls/no_fear_act.htm" aria-label="No Fear Act">No Fear Act</a></li>
+									<li><a href="https://www.usa.gov/" aria-label="USA.gov website">USA.gov</a></li>
+										<li><a href="https://www.benefits.gov/" aria-label="Benefits.gov website">Benefits.gov </a></li>
 
-						</ul>
-				</div>
-				<div class="clearfloat"></div>
+					</ul>
+					<div class="clearfloat"></div>
+  <!-- Start VETS HIRE -->
+					<div style="text-align:center; position:relative; top:20px;">
+						<a href="https://www.hirevets.gov/" aria-label="HIRE Vets Medallion Program">
+							<img alt="HIREVets.gov HIRE Vets Medallion Program - Recognizing employers who HIRE veterans" style="height: 60px; width: auto;" src="/images/dol/HireVETS-Recognizing-employers-v1.png">
+						</a>
+					</div>
+  <!-- End VETS HIRE -->
+                </div>
 			</div>
 
 
@@ -935,6 +950,7 @@ BLS Information
 
 <!-- FOOTER LEFT BEGIN -->
 
+<script type="text/javascript">/*<![CDATA[*/(function(){var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;sz.src = '//siteimproveanalytics.com/js/siteanalyze_6032860.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);})();/*]]>*/</script> 
 <div id="footer-wrapper">
 	<div id="footer-links-wrapper">
 		<div id="footer-links">
@@ -964,7 +980,7 @@ BLS Information
 
 
 
-<span id="footer-contact"><a href="/home.htm" aria-label="Bureau of Labor Statistics homepage">www.bls.gov</a> | Telephone: 1-202-691-5200 | TDD: 1-800-877-8339 | <a href="https://data.bls.gov/cgi-bin/forms/lab?/bls/pss.htm" aria-label="Request for Technical Information about the Bureau of Labor Statistics Web Site">Contact Us</a></span>
+<span id="footer-contact"><a href="/home.htm" aria-label="Bureau of Labor Statistics homepage">www.bls.gov</a> | Telephone: 1-202-691-5200 | Federal Relay Service: 1-800-877-8339 | <a href="https://data.bls.gov/cgi-bin/forms/lab?/bls/pss.htm" aria-label="Request for Technical Information about the Bureau of Labor Statistics Web Site">Contact Us</a></span>
 		
 
 
