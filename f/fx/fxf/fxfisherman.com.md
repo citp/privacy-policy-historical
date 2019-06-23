@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxfisherman.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811182218id_/https%3A//www.mql5.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxfisherman.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623214046id_/https%3A//www.mql5.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Data Protection Policy
 
