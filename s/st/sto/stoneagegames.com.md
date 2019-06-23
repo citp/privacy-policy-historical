@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stoneagegames.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202054638id_/http%3A//www.stoneagegames.com/html/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stoneagegames.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623194127id_/http%3A//www.stoneagegames.com/html/5) for the most accurate reproduction.*
 
 # Hidden Object Games - Point and Click Games - Escape Games
 
