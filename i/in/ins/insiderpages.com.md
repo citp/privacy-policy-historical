@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228044516id_/http%3A//www.insiderpages.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623052648id_/http%3A//www.insiderpages.com/legal/privacy) for the most accurate reproduction.*
 
 # Insider Pages Privacy Policy
 
