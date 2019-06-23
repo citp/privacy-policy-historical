@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitemedia.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220232640id_/http%3A//invitemedia.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitemedia.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623232830id_/http%3A//www.invitemedia.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Invite Media - Next generation platform for display media trading
 
