@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frys.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613023700id_/https%3A//frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frys.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624011757id_/https%3A//www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.*
 
 # Frys.com|Customer Service
 
@@ -10,11 +10,11 @@ Please be aware that this site may contain links to other sites that are owned a
 
 This Privacy Policy strives to encourage and maintain trust between you and Fry's. As part of that trust, this Privacy Policy will tell you about: 
 
-  * [What information we collect.](https://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#1)
-  * [How information is used and protected.](https://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#2)
-  * [How we may share information.](https://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#3)
-  * [Choices you can make about how we collect, use, and share your information.](https://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#4)
-  * [Future changes to the Privacy Policy.](https://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#5)
+  * [What information we collect.](https://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#1)
+  * [How information is used and protected.](https://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#2)
+  * [How we may share information.](https://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#3)
+  * [Choices you can make about how we collect, use, and share your information.](https://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#4)
+  * [Future changes to the Privacy Policy.](https://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#5)
 
 
 
