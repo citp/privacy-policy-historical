@@ -1,60 +1,138 @@
-> *The following text is extracted and transformed from the pimcore.org privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904020853id_/http%3A//www.pimcore.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimcore.org privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623211030id_/https%3A//pimcore.com/en/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : pimcore - Enterprise Content Management Framework
+# Privacy Policy
 
-At pimcore we are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us. This Privacy Policy contains an explanation of what happens to personal data that you choose to provide to us, or that we collect from you whilst you visit this site. Our Privacy Policy should be read in conjunction with our terms of website use. We do occasionally update this Policy so please do return and review this Policy from time to time.
+### What Information We Collect
 
-Information We Collect  
-In running and operating this website we may collect and process certain data and information relating to you and your use of this site. This data and information is detailed below:
+We collect non-personally identifiable information ("Non-PII") from and about you:
 
-  * Details of visits to our website and the pages and resources that are accessed, including, but not limited to, traffic data, location data and other communication data that may assist us in understanding how visitors use this website.
-  * Information that visitors provide to us as a result of filling in forms on our website, such as when a visitor registers for information or makes a purchase.
-  * Information provided to us when our visitors communicate with us electronically for any reason.
+  * Demographic information about you
+  * Information about your computer system or device, your preferences, your online activity, and your location information
 
 
 
-  
-Use of Cookies  
-Cookies are sometimes used to improve the website experience of a visitor to a website. We may sometimes use cookies on this website to record aggregate statistical information about the visitors to our site and the use that our visitors make of the website. When collected this information is used by us to improve our website and further enhance the visitor experience and, may be shared with advertisers. Pease note that no personally identifiable information is recorded.
+Non-PII, by itself, does not identify you, but it can be combined with other information in way that allows you to be identified. If this happens, we will treat the combined information as PII.
 
-We may also use the cookies to gather information about your general internet use to further assist us in developing or website.  Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive and then stored there and transferred to us where appropriate to help us to improve our website and the service that we provide to you.
+### How We Collect Information
 
-All computers have the ability to decline cookies.  You can easily decline or remove cookies from your computer using the settings within the Internet Options section in your computer control panel.  
-Our advertisers may also use cookies on their website. We have no control over this and you should review the privacy policy of any advertiser that you visit as a result of an advert or link on this website.
+We collect information from or about you in the following ways:
 
-Use of Your Information  
-The information we collect is used for our own use in developing our website and also occasionally by advertisers on this site. In addition, we may use the information for the following purposes:
-
-  * To provide you with information relating to our website, products or our services that you request from us.
-  * To provide you with information on other products that we feel may be of interest to you.
-  * To meet our contractual obligations to you.
-  * To notify you about any changes to our website, including improvements, and service or product changes that may affect our website.  
- 
+  * **Information Provided by You**. We collect information provided by you when you (1) communicate with us or request information about or from us by e-mail or other means; (2) participate in our online forums, (3) fill out forms or fields on this Website; (4) sign-up for any of our newsletters, materials or our services on this Website or other sites; or (5) participate in our online surveys or questionnaires.
+  * **Automatic Information Collection**. We also use automatic data collection technologies to collect and store certain information about your equipment, browsing actions and patterns when you interact with this Website through your computer or mobile device. In addition, we may allow third party ad networks to use automatic data collection technologies to collect similar information about you for purposes of providing interest-based ads.
 
 
 
-If you are an existing customer, we may contact you with information about goods and services similar to those that you have expressed an interest in previously via our website. Finally, we may use your data, or allow carefully selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider are likely to be of interest to you.  We or they may contact you about these goods and services by any of the methods that you consented to at the time your information was collected.
+### Our Subsites
 
-If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and, only by those means you provided consent for. If you do not want us to use your data for our or third parties use then you wil always have the option to object to such use.
+We may collect additional information from and about you when you visit certain *.pimcore.com/org sites and perform certain activities. Detailed information per site below.
 
-Storing Your Personal Data  
-Information that we collect may on occasion be transferred and stored outside of the European Union for the purpose of supplying our goods or services to you. By submitting your personal data, you agree to this transfer, storing or processing. We will always take all reasonable precautions to make sure that your data remains secure and is handled in accordance with this Privacy Policy.
+#### Talk.pimcore.org
 
-Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety. The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
+  * We collect information from you when you register on our site and gather data when you participate in the forum by reading, writing, and evaluating the content shared here.
 
-Disclosing Your Information  
-Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).  
-We may also disclose your personal information to third parties:
+  * When registering on our site, you may be asked to sign in using your GitHub account. You may, however, visit our site without registering. Your e-mail address will be verified by the login via GitHub. We will retrieve and store your GitHub profile picture, user name, first name, last name and e-mail adress.
 
-  * Where we sell any or all of our business and/or our assets to a third party.
-  * Where we are legally required to disclose your information.
-  * To assist fraud reduction and minimise credit risks.  
- 
+  * When registered and posting, we record the IP address that the post originated from. We also may retain server logs which include the IP address of every request to our server.
+
+  * You can find out more about the privacy policy in our community forums at <https://talk.pimcore.org/privacy>.
 
 
 
-Third Party Links  
-You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.  
 
-Contacting Us  
-If you have any questions or queries relating to this Privacy Policy then please contact us at privacy@pimcore.org.
+### Service providers and partners
+
+We use a number of service providers to help us operate the site and provide high quality user experience to our visitors. Some of those providers can access Non-PII about you via automatic data collection technologies.
+
+  * We use [Google Analytics](https://analytics.google.com/) to track your behavior on our website. Google Analytics uses "cookies", which are text files placed on your computer to help the website analyse how visitors use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. Find out more about the [Google privacy policy](https://policies.google.com/privacy).
+  * We use [Hotjar](https://www.hotjar.com/) to track your behavior on our website. You can review [Hotjar's privacy policy](https://www.hotjar.com/privacy) for information on how they manage the collected data.
+
+
+
+### Automatic Information Collection Technologies
+
+The information that we collect about your equipment, browsing actions and patterns includes, but is not limited to, traffic data, location data, logs, the resources that you access, search queries, as well as information about the computer or device you are using and the Internet connection, including your IP address, operating system and browser type.
+
+This automatically collected information typically does not include PII, but we may maintain it or associate it with your personal information collected in other ways. Collection of this type of information helps us to improve this Website and to deliver a better and more personalized service by enabling us to, among other things: (1) estimate our audience size and usage patterns; (2) store information about your preferences, allowing us to customize this Website according to your individual interests; (3) speed up your searches; and (4) recognize you when you return to this Website.
+
+The automatic collection technologies we or our service providers use for this automatic information collection may include:
+
+  * **Cookies (or browser cookies)**. This Website may use two types of cookies (small data files placed on the hard drive of your computer when you visit a website): a "session cookie," which expires immediately when you end your browsing session and a "persistent cookie," which stores information on your hard drive so when you end your browsing session and return to this website later, the cookie information is still available.
+  * **Web Beacons**. Pages of this Website and any e-mails sent to you may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened our e-mails.
+
+
+
+### Third Party Advertising Partners
+
+We use third party ad networks to advertise to certain pimcore.com visitors while they are on other websites. These third parties also may use cookies, web beacons and other automatic collection technologies to collect information about you when you visit this Websites for purposes of determining your preferences in order to deliver interest-based advertising and other targeted content to you.
+
+We do not provide any PII to these third party advertising partners, but they may combine the non-PII collected on the Website with PII they collect directly from you or receive from other sources. We do not have access to or control over the automatic collection technologies that these third party advertisers or any third party websites may use, and the information practices of these third party advertisers and third party websites are subject to these parties' respective privacy policies, not this Privacy Policy.
+
+### Links to Third Party Websites
+
+This Website and some of our electronic communications to you, may contain links to other websites that are owned and operated by third parties. Links to third parties from this Website are not an endorsement by us. We do not control, and are not responsible for, the privacy and security practices of these third parties. We recommend that you review the privacy and security policies of these third parties to determine how they handle information they may collect from or about you.
+
+This Website may also include social media features, such as the Facebook Like button, Google Plus, and Twitter widgets. These features may collect information about your IP address and the page you are visiting on this Website, and they may set a cookie to make sure the feature functions properly. Your interactions with these features and the information from or about you collected by them are governed by the privacy policies of the companies that provide them.
+
+### How We Use Your Information
+
+We use your information, including any PII, to:
+
+  * Provide information and services requested by you
+  * Provide customer support, including responding to your requests and questions and troubleshooting and resolving problems or complaints
+  * Verify the information you provide to us
+  * Communicate with you
+  * Understand and anticipate your use of or interest in, our services, and content, and the products, services, and content offered by others
+  * Develop and display products, services, and content tailored to your interests on our websites and other websites
+  * Provide you with promotional materials and Newsletters in case you opt-in to receive those
+  * Measure the overall effectiveness of our online, content, and programming, and other activities
+  * Manage our business and operations
+  * Protect the security and integrity of this Website
+  * Carry out our obligations and enforce our rights arising from any contracts entered into between you and us
+  * Use or post user contributions as permitted in our Terms of Service
+  * Fulfill any other purposes for which you provide your information and for any other purpose as described to you at the time your information is collected or for which your consent is given
+
+
+
+### Disclosure of Your Information
+
+We may disclose and share aggregated non-PII about you at our discretion. We may disclose or share your PII only in limited circumstances:
+
+  * With any Pimcore employee or agent for support of our internal and business operations or to respond to a request made by you.
+  * We may disclose information we collect from or about you when we believe disclosure is appropriate to comply with the law, to enforce agreements, or to protect the rights, property, or safety of users of this Website, the Association, or other persons or organizations.
+  * If some or all of our business assets are sold or transferred as a result of any corporate change (merger, consolidation, reorganization, bankruptcy, etc.), we may transfer the corresponding information regarding our customers and users of pimcore.com and its subsites, including PII. We also may retain a copy of such information. Nothing in this Privacy Policy is intended to interfere with our ability to transfer all or part of our business, equity interests, or assets (including this Website) to an affiliate or unaffiliated third party at any time, for any purpose, without any limitation, and without notice or any compensation to you.
+
+
+
+### Your Choices About Use and Disclosure of Your Information
+
+We strive to provide you with choices regarding our use of your personal information. Below are some mechanisms that provide you with control over your information:
+
+  * **Promotional and Informational e-mails**. We do not send any promotional or informational emails without your opt-in first. If you do not wish to receive promotional e-mails from us, follow the unsubscribe process at the bottom of the promotional e-mail. Note that even if you opt-out, you may still receive transactional e-mails from us (e.g., e-mails related to the completion of your registration, correction of user data, password reset requests, reminder e-mails that you have requested, and any other similar communications essential to your transactions on this Website).
+  * **Automatic Information Collection Technologies and Advertising**. The "help" function of your browser should contain instructions on how to set your browser to not accept new cookies, to notify you when a cookie is issued, or how to disable cookies altogether. If you disable or refuse cookies, please note that some parts of this Website may be inaccessible or not function properly.
+  * **Google Analytics**. You can opt out from Google Analytics tracking via your browser privacy settings or by using [browser addons](https://support.google.com/analytics/answer/181881).
+
+
+
+### Accessing and Correcting Your Information
+
+The appropriate method(s) for accessing your information, if any, will depend on which of our websites and services you have visited or used. Depending on the website and service, you may have the ability to view or edit some of your information online, by logging into the website and visiting your account profile page. If you remove information from your user profile, it will stay in backups on our servers for 2 weeks, after which it will be completely removed.
+
+To request access to, correct, or delete any personal information that you have provided to us you may contact us at [i](mailto:help@drupal.org)nfo@pimcore.com. You may also request a notice disclosing the categories of personal information we have shared with third parties for their direct marketing purposes during the preceding calendar year by contacting [support@pimcore.org](mailto:support@pimcore.org) or in writing to: Pimcore GmbH, Attn: Customer Support - Privacy Inquiry, Gußwerk Halle 6, Söllheimer Straße 16, 5020 Salzburg, Austria. Please allow 30 days for a response.
+
+We may not accommodate a request to change or delete information if we believe the change would violate any law or legal requirements, be contrary to our Terms of Service or any other applicable agreement between you and us, or cause the information to be incorrect.
+
+Upon deletion all private and personally identifying information from your profile will be deleted. The data will stay in backups on our servers for 2 weeks, after which it will be completely removed. Public content you created, such as issues, forum posts, projects, documentation page revisions, etc. won’t be deleted. All this content will be attributed to ‘Anonymous’ user.
+
+### Protection of Your Information
+
+We use reasonable security measures to protect your information collected through this Website. We do not store passwords in plain text format, only secure password hashes. However, no method of transmission or electronic storage is 100% safe, and we cannot guarantee absolute security. Therefore, your use of this Website is at your own risk and we do not promise or guarantee, and you should not expect, that your information will always and absolutely remain private and secure. We are not responsible for the circumvention of any privacy settings or security measures contained on or concerning this Website. You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
+
+### Changes to this Privacy Policy
+
+We may update or amend this Privacy Policy at any time. This Privacy Policy will reflect the date it was last updated or amended. All amendments will take effect immediately upon our posting of the updated Privacy Policy on this Website.
+
+#### Contacting Us
+
+[ ](https://web.archive.org/en/about/awards/gartner-cool-vendor-2018)
+
+If you have questions or concerns about this Privacy Policy, our information practices, or wish to make a request regarding your information, please contact us. 
