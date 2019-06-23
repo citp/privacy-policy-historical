@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsdirect.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226030510id_/https%3A//www.sportsdirect.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsdirect.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623232108id_/https%3A//www.sportsdirect.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
 # Security and Privacy | SportsDirect.com
 
@@ -122,7 +122,9 @@ You also have the right, with some exceptions, to ask us to provide a copy of an
 
 From 25 May 2018, if you have a complaint about how we have handled your personal data, you may be able to ask us to restrict how we use your personal data while your complaint is resolved. In some circumstances you can ask us to erase your personal data if you withdraw your consent, it is no longer necessary for us to use your personal data, you object to the use of your personal data and we don't have a good reason to continue to use it, or we haven't handled your personal data in accordance with our obligations. 
 
-To exercise these rights or if you have any queries or concerns regarding how we use your personal data, please write to Data Protection, Unit A, Brook Park East, Meadow Lane, Shirebrook, NG20 8RY. If you are not happy with our response, you can contact the Information Commissioner's Office: [https://ico.org.uk](https://ico.org.uk/)
+To exercise these rights, we need to be suitably satisfied of your identity and so may request you provide identification documents or confirm other details we may hold about your (such as a recent delivery reference or address).
+
+If you have any queries or concerns regarding how we use your personal data, please write to Data Protection, Unit A, Brook Park East, Meadow Lane, Shirebrook, NG20 8RY. If you are not happy with our response, you can contact the Information Commissioner's Office: [https://ico.org.uk](https://ico.org.uk/)
 
 ### SportsDirect.com - COOKIE POLICY
 
