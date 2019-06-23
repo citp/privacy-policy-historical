@@ -1,75 +1,52 @@
-> *The following text is extracted and transformed from the linkstreet.in privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106030913id_/http%3A//linkstreet.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkstreet.in privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623025744id_/https%3A//getrapl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Linkstreet - Collaborate and Learn
+# Privacy Policy - RapL
 
-We collect your personal information through our forms. Data requested but not required would be specified as optional.
+Linkstreet is committed to protecting its visitors’ and Users’ privacy. The following Privacy and Cookie Policy outlines the information Linkstreet (hereafter “Linkstreet”, “we”, or “us”) may process and how we may use that information to better serve visitors and Users while using our website www.linkstreet.in (the ‘Website’) our mobile customer application (the ‘App’) and our on-demand services (collectively the “Service”). Please review the following carefully so that you understand our privacy practices. This Privacy and Cookie Policy was last changed on 5th June,2017.
 
-### **What do we use your information for?**
+###### DEFINITIONS
 
-  * To personalize your experience. Your information helps us to better our response to match your requirements.
-  * To improve our website. We improve our website based on the information on who visits our website and what they are looking for.
-  * To improve customer service. Your feedback helps us improve our services.
-  * To send periodic emails. The email address you provide while filling out a form, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news / updates / promotions / related product or service information, etc.
+“User” means a person who has signed up and is registered with Linkstreet for the use or potential use of the Service. “Partner” means Stores, businesses or establishments using Linkstreet services to interact with customers or employees.
+
+###### GENERAL
+
+“Linkstreet” is a mobile application that connects businesses with their employees and customers. Linkstreet is only a service tool (not a service provider) and is designed, developed & conceptualized by Linkstreet. All Linkstreet services are rendered by Linkstreet under the name ‘Linkstreet’. Linkstreet is product development company, located at 2338, BDA Main Road, Jeevanbhimanagar, HAL Post, Bangalore 560017. All the rights, benefits, liabilities & obligations under the following terms & conditions shall accrue to the benefit of Linkstreet. (together with its subsidiaries and other affiliates hereinafter referred to as “us”, “We” or “Linkstreet” ).
+
+###### FOR WHAT PURPOSES DO WE PROCESS YOUR PERSONAL DATA
+
+  *  **Customer Service :**  When you register as a User, we will collect your name, email address and mobile phone number. We will use your contact details to send you a welcoming notification to verify your username and password, to communicate with you in response to your inquiries, and to send you service related announcements, for instance, if our Service is temporarily suspended for maintenance. We will use your registration information to create and manage your Linkstreet account.
+  *  **Enhancing your Linkstreet Experience Geo Location Information :  **When you use the Linkstreet service, and only if you have consented thereto, we may utilize your geo location information, on a real time basis. We use this information to allow you to view offers around you. We may also use this real time geo location information to address user support, technical, or business issues that may arise in the course of your use of the service. Your mobile device informs you when network based geo location is utilized under the device location settings and by displaying the GPS arrow icon for GPS based locations.
 
 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+###### PUSH NOTIFICATIONS
 
-### **How we protect your information?**
+Linkstreet and its Partners will have the ability to contact you via push notifications on the RapL.
 
-Our directories and database are password protected to safeguard your personal information.
+###### Linkstreet PROMOTIONS
 
-### **Do we use cookies?**
+Linkstreet may use your contact details to send you general updates regarding Linkstreet news, special offers and promotions.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer hard drive through your Web browser (if you allow), that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+###### GENERATING MANAGEMENT INFORMATION AND STATISTICAL DATA
 
-We use cookies to understand your preferences and save it to enhance your future visits. We also use them to compile data on site traffic and site interaction to enable us to offer better site experiences and tools in the future.
+Linkstreet uses your personal data in an anonymized and aggregated form to closely monitor which features of the Service are used most, to analyze usage patterns and to determine where we should offer or focus our Service. Linkstreet does not share any personal data with third parties other than analytics info with the respective partner.
 
-We may also contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+###### OUR DISCLOSURE OF YOUR INFORMATION
 
-### **Do we disclose any information to outside parties?**
+We may employ third party companies and individuals to facilitate or provide the Service on our behalf, to process payment if any, provide customer support, to perform Website related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Website’s features) or to assist us in analyzing how our Service is used. These third parties have limited access to your personal information only to perform these tasks on our behalf and are contractually bound not to disclose or use it for any other purpose. Linkstreet will disclose your personal data to the extent that this is legally required, or necessary for the establishment, exercise or defense of legal claims and legal process or in the event of an emergency pertaining to your health and/or safety.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
+###### YOUR RIGHTS
 
-We may also release your information when we believe the release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+As a user, you have the right to information regarding your personal account, including information that you’ve provided to us and information regarding services availed on RapL. You may at any time request correction or erasure of your personal data, and object to any processing of your personal data by emailing us at support@getrapl.com. We will respond to your access and/or correction request within 48 business hours. You may also amend your personal details using your Linkstreet account.
 
-### **Third party Links**
+###### RETENTION
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Unless specified otherwise in this Privacy and Cookie Policy, we will retain your information until you cancel your Linkstreet account, or until your Linkstreet account has been inactive for a year. If you wish to cancel your Linkstreet account or request that we no longer use your information to provide you services, please contact us at support@getrapl.com. After deletion of your account we will anonymize your data, unless these data are necessary to comply with a legal obligation or resolve disputes.
 
-### **Children’s Online Privacy Protection Act Compliance**
+###### SECURITY
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Linkstreet has taken appropriate technical and organizational security measures against loss or unlawful processing of your personal data. To this purpose, your personal data are securely stored within our database, and we use standard, industry wide, commercially reasonable security practices such as encryption, firewalls and SSL (Secure Socket Layers) as well as physical safeguards of the locations where data are stored. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won’t be intercepted while being transmitted to us over the Internet. Any transmission of information by you to Linkstreet is at your own risk. We recommend that you do not disclose your password to anyone.
 
-### **CAN-SPAM Compliance**
+###### CHANGES IN THIS PRIVACY POLICY
 
-We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
-
-### **Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-### **Terms of Service**
-
-Please also visit our Terms of Service section, establishing the use, disclaimers, and limitations of liability governing the use of our website, by clicking here.
-
-### **Your Consent**
-
-By using our site, you consent to our Privacy Policy.
-
-### **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date above. Policy changes will apply only to information collected after the date of the change.
-
-### **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below:
-
-**ADDRESS**
-
-### **Linkstreet Learning Pvt. Ltd.**
-
-#2338, BDA Main Road,  
-Jeevanbhima Nagar,  
-Bangalore 560 017  
-India.
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email and by means of a notice on the Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you have questions about this Privacy and Cookie Policy, please contact us at support@getrapl.com.
