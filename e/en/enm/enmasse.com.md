@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enmasse.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217101428id_/http%3A//www.enmasse.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enmasse.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623150334id_/http%3A//www.enmasse.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - En Masse Entertainment
 
@@ -219,18 +219,20 @@ VeraSafe has been appointed as En Masse Entertainments's representative in the E
 
 Alternatively, VeraSafe can be contacted at:
 
-**Matthew Joseph**  
+**Matthew Joseph**   
 Zahradníčkova 1220/20A  
 Prague 15000  
 Czech Republic
 
-**VeraSafe Ireland Ltd**  
+**VeraSafe Ireland Ltd**   
 Unit 3D North Point House  
 North Point Business Park  
 New Mallow Road  
 Cork T23AT2P  
 Ireland
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+En Masse has further committed to refer unresolved Privacy Shield complaints to TRUSTe, an alternative dispute resolution provider located in the United States and the EU. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit [TRUSTe (https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request)). for more information or to file a complaint. The services of TRUSTe are provided at no cost to you.
+
+For residual complaints not fully or partially resolved by other means, you may be able to invoke binding arbitration before the Privacy Shield Panel as detailed in the Principles.
 
 For more information and updates to this policy, visit <http://www.enmasse.com/legal/privacy-policy>
