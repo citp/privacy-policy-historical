@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the swattraffic.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218100224id_/http%3A//swattraffic.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swattraffic.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624011850id_/http%3A//swattraffic.com/terms.php) for the most accurate reproduction.*
 
 # Swat Traffic
 
 |   | 
 
-  * [Home](https://web.archive.org/web/20181218100224id_/http%3A//swattraffic.com/index.php)
-  * [Login](https://web.archive.org/web/20181218100224id_/http%3A//swattraffic.com/login.php)
-  * [Signup](https://web.archive.org/web/20181218100224id_/http%3A//swattraffic.com/signup.php)
-  * [Terms Of Service](https://web.archive.org/web/20181218100224id_/http%3A//swattraffic.com/terms.php)
-  * [Contact Support](https://web.archive.org/web/20181218100224id_/http%3A//swattraffic.com/faqs.php)
+  * [Home](https://web.archive.org/web/20190624011850id_/http%3A//swattraffic.com/index.php)
+  * [Login](https://web.archive.org/web/20190624011850id_/http%3A//swattraffic.com/login.php)
+  * [Signup](https://web.archive.org/web/20190624011850id_/http%3A//swattraffic.com/signup.php)
+  * [Terms Of Service](https://web.archive.org/web/20190624011850id_/http%3A//swattraffic.com/terms.php)
+  * [Contact Support](https://web.archive.org/web/20190624011850id_/http%3A//swattraffic.com/faqs.php)
 
 
 
 [](http://surfingguard.com/)
 
-[](http://www.trafficexchangelist.com/exchanges/swattraffic.html "SWAT Traffic Ranking")  
+[](http://www.tecommandpost.com/?referer=saskbirdgp&t=21)
 
-
-[](http://www.hitexchangenews.com/hitnewsaward.php)  
-[](http://www.affiliatefunnel.com/teranking.new.php?progid=25&rid=4)   
+[](http://www.affiliatefunnel.com/teranking.new.php?progid=25&rid=12871)   
 
 
 |   | 
