@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the exxon.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021024435id_/http%3A//corporate.exxonmobil.com/en/global-legal-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exxon.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624010821id_/http%3A//corporate.exxonmobil.com/en/global-legal-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and statement | ExxonMobil
 
-**Effective Date of Privacy Statement: December 21, 2001**
+#### Effective Date of Privacy Statement: December 21, 2001
 
-****Most recent update: **May 21, 2018**.
+Most recent update:  **May 21, 2018.**
 
 Exxon Mobil Corporation and its affiliated companies, ("ExxonMobil") appreciate your interest in this Web site and other related or linked ExxonMobil sites (Site). Your privacy is important and we want you to understand our practices with respect to gathering information from visitors to the Site and with respect to the uses we make of that information. Please check each portion or page of the Site that you visit. Certain portions or pages of the Site may contain changes to the Privacy Statement applicable to your use of that portion or page, for example, certain applications may request additional information from you.  
 
-**Information and Uses**
+### Information and Uses
 
 When someone visits the Site, our web servers automatically gather information that allows the site to communicate with the visitor's computer during the visit. We also track such information as the number of visits to the site, which parts of the site visitors select, analytics to measure and observe user behavior, IP address (the Internet address assigned to your device from your Internet Service Provider), device type, domain type, browser type (e.g., Firefox, Chrome or Internet Explorer), date and time of day, device screen size. We use such information for purposes including helping us design and administer the Site.
 
@@ -18,23 +18,23 @@ As a visitor to our Site, you may be asked to allow us to access geolocation inf
 
 As explained below in the section on Dissemination of Information to Third Parties, we do not distribute or sell Personal Information to third parties for the purpose of allowing them to market their products and services to you; moreover, as explained in the Opt Out/Modify Information section, we will make a reasonable effort to remove your Personal Information from our database in such a way that you will not receive future communications from us, if that is your wish. If you notify us that Personal Information previously submitted to our site is no longer accurate, we will make a reasonable effort to make appropriate corrections. To facilitate our efforts to meet your request, it would be helpful if you could let us know the context in which you provided Personal Information, e.g. in connection with promotion of a specific product or service.
 
-**Information Placed on Your Computer**
+### Information Placed on Your Computer
 
 We may store some information (commonly known as a "cookie") on your computer when you look at or use the Site. This information facilitates customizing your use of the Site and helps to avoid the need for you to re-enter your details every time you visit it. You can erase or block this information from your computer if you want to. (The ‘help’ screen in your browser or computer user manual should tell you how to do this.)
 
-**Targeted Advertising**
+### Targeted Advertising
 
-We also use the information we collect and receive to provide ads for our Services and to send you promotional communications.  For example, we and our third-party partners may use your information to show you ads on and off our Site, including on third-party social media services.  In doing so, we and our partners may use cookies and other technologies including web beacons and pixels.  For example, when you access an ad, a "cookie" file will be stored on your computer. This information is used to help manage our on-line advertising. To learn more about the third-party ad-serving technology, cookies, and how to "opt-out" please [click here](http://www.allaboutcookies.org/ "this link opens a new browser window") (note: you will be taken to a third-party website).  For additional information on cookies and related technologies, please click here. 
+We also use the information we collect and receive to provide ads for our Services and to send you promotional communications.  For example, we and our third-party partners may use your information to show you ads on and off our Site, including on third-party social media services.  In doing so, we and our partners may use cookies and other technologies including web beacons and pixels.  For example, when you access an ad, a "cookie" file will be stored on your computer. This information is used to help manage our on-line advertising. To learn more about the third-party ad-serving technology, cookies, and how to "opt-out" please [click here](http://www.allaboutcookies.org/) (note: you will be taken to a third-party website).  For additional information on cookies and related technologies, please click here. 
 
-**Information From Children**
+### Information From Children
 
 This is a general audience web site that is not directed to children younger than 13.  We do not knowingly collect, use or disseminate any personal information from children under the age of 13, unless permitted by law.
 
-**Hyperlinks**
+### Hyperlinks
 
 This site has links to sites that ExxonMobil does not own, control or maintain. We cannot be responsible for their privacy policies and practices and we make no representations or warranties about the privacy practices of those sites. Similarly, we cannot be responsible for the policies and practices of any site from which you linked to our Web site. We recommend that you check the privacy policy of other sites and contact the operator if you have concerns or questions.
 
-**Sharing Information with Third Parties**
+### Sharing Information with Third Parties
 
 Communicating via the Internet and sending information, products, and services to you by other means necessarily involves your Personal Information passing through or being handled by third-parties, but ExxonMobil does not sell or distribute your Personal Information to third parties for purposes of allowing them to market their products and services to you.
 
@@ -48,33 +48,33 @@ We may also share information with third parties in aggregated or non-personally
 
 In addition to the sharing described in this Privacy Statement, we may also share information about you with other third parties when you consent to such sharing.
 
-**Your Choices**
+### Your Choices
 
 You have a number of choices about how we handle information we collect or receive about you.
 
-_Email_.  You may opt out of receiving future promotional email communications from us by clicking the “Unsubscribe” link in the footer of promotional email communications and updating your preferences.  Please note that we may continue to send you transactional or service-related emails regarding your account.
+_Email._   You may opt out of receiving future promotional email communications from us by clicking the “Unsubscribe” link in the footer of promotional email communications and updating your preferences.  Please note that we may continue to send you transactional or service-related emails regarding your account.
 
-_SMS and MMS_.  You may opt out of receiving promotional SMS and MMS messages ( i.e., text messages) from us by replying “STOP” to any message, which is free of charge.  Please note that we may respond to your opt-out request with a message confirming that you have successfully opted out.
+_SMS and MMS._  You may opt out of receiving promotional SMS and MMS messages ( i.e., text messages) from us by replying “STOP” to any message, which is free of charge. Please note that we may respond to your opt-out request with a message confirming that you have successfully opted out.
 
-**Data Transfers**
+### Data Transfers
 
 We may transfer the Personal Information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Statement.
 
 Such transfers may involve the transfer of Personal Information from countries within the European Economic Area to countries outside the E.E.A. By submitting data on the Site, the visitor provides explicit consent to these transfers, including transborder transmission of data covered by this Privacy Statement.
 
-**Sensitive Information**
+### Sensitive Information
 
 ExxonMobil does not seek any sensitive information from visitors to our Site, unless legally required to do so, for example, in connection with recruiting or hiring. Sensitive information includes a number of types of data relating to: race or ethnic origin, political opinions, religious or other similar beliefs, trade union membership, physical or mental health, sexual life or criminal record, or genetic or biometric data. We suggest that you do not provide sensitive information of this nature. However, if you do provide such information, ExxonMobil accepts your explicit consent to use that data in the ways described in this Privacy Statement or in the ways described at the point where such information is disclosed.
 
-**Opt Out/Modify Information**
+### Opt Out/Modify Information
 
-You can request the removal or modification of your Personal Information by sending an e-mail to the [Data Privacy Office](mailto:data.privacy.office@exxonmobil.com?subject=Opt-out).  We will then make a reasonable effort to accommodate your request. As previously noted, it would be helpful to let us know the context in which you provided Personal Information.
+You can request the removal or modification of your Personal Information by sending an e-mail to the [Data Privacy Office](mailto:data.privacy.office@exxonmobil.com).  We will then make a reasonable effort to accommodate your request. As previously noted, it would be helpful to let us know the context in which you provided Personal Information.
 
-**Conditions of Use, Notices and Revisions**
+### Conditions of Use, Notices and Revisions
 
 If you choose to visit our Site, your visit and any dispute over privacy is subject to this Privacy Statement and our General Terms of Use of our Site, including any limitations on damages, arbitration of disputes and application of law provisions. We reserve the right to change this statement at any time without notice.
 
-**Contacting ExxonMobil about the content of this Privacy Statement**
+### Contacting ExxonMobil about the content of this Privacy Statement
 
 If you have any questions about the content of this Privacy Statement, please contact ExxonMobil's Data Privacy Office at the following address: 
 
@@ -84,11 +84,11 @@ Váci út 81-85
 Budapest  
 H-1139  
 Hungary  
-[Data.privacy.office@exxonmobil.com](mailto:Data.privacy.office@exxonmobil.com?subject=website%20privacy%20statement)
+[Data.privacy.office@exxonmobil.com](mailto:Data.privacy.office@exxonmobil.com)
 
 When we make material changes to this Privacy Statement, we will post the changes on this page and update the revision date at the top of the Privacy Statement. We encourage you to view our Privacy Statement regularly for updates.
 
-**Cookies, Web Beacons, and Other Technologies**
+### Cookies, Web Beacons, and Other Technologies
 
 Our Services may use online technologies called “cookies” and “web beacons,” as well as other local storage technologies.  This section explains what these technologies are and how they may be used.
 
