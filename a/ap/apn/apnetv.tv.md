@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnetv.tv privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012090559id_/http%3A//apnetv.tv/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnetv.tv privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623205454id_/https%3A//apnetv.co/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Apne TV
 
