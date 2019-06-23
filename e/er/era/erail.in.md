@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the erail.in privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003232556id_/https%3A//erail.in/info/%3FID%3D2404) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erail.in privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623220255id_/https%3A//erail.in/info/erail-in-privacy/2404) for the most accurate reproduction.*
 
-# Privacy - eRail.in
+# Privacy
+
+[Privacy](https://web.archive.org/erail-in-privacy)
+
+2018-04-12 12:312018-04-12 12:31Privacy
+
+Privacy
 
 This Privacy Policy governs the manner in which eRail.in collects, uses, maintains and discloses information collected from users (each, a "User") of the http://erail.in website ("Site").
 
@@ -60,16 +66,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 This document was last updated on August 06, 2016
 
 IMPORTANT INFORMATION 
-
-## eRail.in Releated Topics
-
-  * [How to use eRail](https://web.archive.org/web/20171003232556id_/https%3A//erail.in/info/%3FID%3D2404?ID=2401)
-  * [About](https://web.archive.org/web/20171003232556id_/https%3A//erail.in/info/%3FID%3D2404?ID=2402)
-  * [Blog](https://web.archive.org/web/20171003232556id_/https%3A//erail.in/info/%3FID%3D2404?ID=2403)
-  * [Android App](https://web.archive.org/web/20171003232556id_/https%3A//erail.in/info/%3FID%3D2404?ID=2405)
-  * [Windows App](https://web.archive.org/web/20171003232556id_/https%3A//erail.in/info/%3FID%3D2404?ID=2406)
-  * [Facebook](https://web.archive.org/web/20171003232556id_/https%3A//erail.in/info/%3FID%3D2404?ID=2408)
-  * [Twitter](https://web.archive.org/web/20171003232556id_/https%3A//erail.in/info/%3FID%3D2404?ID=2409)
-  * [Feedback](https://web.archive.org/web/20171003232556id_/https%3A//erail.in/info/%3FID%3D2404?ID=2410)
-
-
