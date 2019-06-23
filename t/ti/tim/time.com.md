@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630112640id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/time%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623121032id_/http%3A//time.com/privacy/generic_privacy_new.html) for the most accurate reproduction.*
 
 # TIME Privacy Policy for the US
 
@@ -6,28 +6,28 @@
 
 ### Table of Contents
 
-  * Information We Collect
-  * How We Use the Information 
-  * Privacy Options
-  * Your California Privacy Rights: Notice to California Customers
-  * Collection of Information by Third-Parties
-  * Cookies and other Tracking Technologies
-  * Our Commitment to Security
-  * Accessing, Correcting, and Deleting Your Personal Information
-  * Retention of Personal Information
-  * Special Note for Parents
-  * Changes to this Privacy Policy
-  * How to Contact Us
+  * [Information We Collect](https://web.archive.org/privacy/generic_privacy_new.html#collect)
+  * [How We Use the Information ](https://web.archive.org/privacy/generic_privacy_new.html#use)
+  * [Privacy Options](https://web.archive.org/privacy/generic_privacy_new.html#options)
+  * [Your California Privacy Rights: Notice to California Customers](https://web.archive.org/privacy/generic_privacy_new.html#california)
+  * [Collection of Information by Third-Parties](https://web.archive.org/privacy/generic_privacy_new.html#3party)
+  * [Cookies and other Tracking Technologies](https://web.archive.org/privacy/generic_privacy_new.html#cookies)
+  * [Our Commitment to Security](https://web.archive.org/privacy/generic_privacy_new.html#security)
+  * [Accessing, Correcting, and Deleting Your Personal Information](https://web.archive.org/privacy/generic_privacy_new.html#access)
+  * [Retention of Personal Information](https://web.archive.org/privacy/generic_privacy_new.html#retention)
+  * [Special Note for Parents](https://web.archive.org/privacy/generic_privacy_new.html#parents)
+  * [Changes to this Privacy Policy](https://web.archive.org/privacy/generic_privacy_new.html#changes)
+  * [How to Contact Us](https://web.archive.org/privacy/generic_privacy_new.html#contact)
 
 
 
-(NEW)[European Union Privacy Information](https://web.archive.org/web/20180630112623id_/https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new_eu.html?dnp-source=E)  
+(NEW)[European Union Privacy Information](https://web.archive.org/privacy/generic_privacy_new_eu.html)  
 For citizens of member countries of the European Union, and Switzerland, Norway, Lichtenstein, Iceland, Australia, and New Zealand
 
-[Canada Privacy Information](https://web.archive.org/web/20180630112623id_/https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new_caneu.html?dnp-source=E)  
-This is the Privacy Policy which applies to you if you live outside the [European Union](https://web.archive.org/web/20180630112623id_/https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new_eu.html?dnp-source=E), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://web.archive.org/web/20180630112623id_/https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new_caneu.html?dnp-source=E).
+[Canada Privacy Information](https://web.archive.org/privacy/generic_privacy_new_caneu.html)  
+This is the Privacy Policy which applies to you if you live outside the [European Union](https://web.archive.org/privacy/generic_privacy_new_eu.html), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://web.archive.org/privacy/generic_privacy_new_caneu.html).
 
-This Privacy Policy discloses the privacy practices for TIME, the Time Inc . owned and operated websites and mobile apps on which it appears, including those websites listed [here](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html), our email newsletters and other applications owned and operated by Time Inc ., including offline and online subscriptions and other product offerings (collectively referred to as the "Services"), and to any other services that display this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc . and its subsidiaries. 
+This Privacy Policy discloses the privacy practices for TIME, the TIME USA LLC . owned and operated websites and mobile apps on which it appears, including those websites listed [here](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html), our email newsletters and other applications owned and operated by TIME USA LLC , including offline and online subscriptions and other product offerings (collectively referred to as the "Services"), and to any other services that display this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our information practices and the choices you can make about the way your information is collected and used by TIME USA LLC and its subsidiaries. 
 
 #### The Information We Collect
 
@@ -39,7 +39,7 @@ Through some features of the Services and through certain promotions, you can su
 
 We , our partners, advertisers, advertising networks or other third party service providers, as explained further in the **"Collection of Information by Third-Parties"** section below, may also collect certain non-personally identifiable information when you visit our web pages, open our emails, use our applications, or otherwise use the Services, including such information as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, location-based information , and the content and advertisements you have interacted with, viewed, or accessed. This data may be combined and linked with data from other sources.
 
-back to top
+[back to top](https://web.archive.org/privacy/generic_privacy_new.html#top)
 
 #### How We Use the Information
 
@@ -54,35 +54,35 @@ We may use the information collected under this Privacy Policy in the following 
   * The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
   * We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites, and to enable us to customize your Internet experience. We also may use this information to analyze site usage, as well as to offer you products, programs, or services.
   * We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
-  * Agents and contractors of Time Inc . that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Inc .
-  * We may transfer your personally identifiable information to other Time Inc . offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other Time Inc . offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. To the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of Time Inc ., our agents, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
-  * Please note that if Time Inc . or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
+  * Agents and contractors of TIME USA LLC that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for TIME USA LLC.
+  * We may transfer your personally identifiable information to other TIME USA LLC offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other TIME USA LLC . offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. To the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of TIME USA LLC ., our agents, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
+  * Please note that if TIME USA LLC . or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
 
 
 
 #### Privacy Options
 
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc . property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Time Inc ., please [click here](https://web.archive.org/web/20180630112623id_/https://subscription.timeinc.com/storefront/privacy/time/new_generic_privacy_form_offline.html?dnp-source=E).
+If you prefer not to receive traditional mail or other off-line promotions from this or any other TIME USA LLC . property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by TIME USA LLC , please [click here](https://www.meredith.com/offlinePrivacy.html).
 
-If you prefer not to receive e-mail marketing from this or any other Time Inc . property, or if you want to opt-out of any sharing of your email address with third parties not owned by Time Inc ., please [click here](https://web.archive.org/web/20180630112623id_/https://subscription.timeinc.com/storefront/privacy/time/new_generic_privacy_form_online.html?dnp-source=E).
+If you prefer not to receive e-mail marketing from this or any other TIME USA LLC . property, or if you want to opt-out of any sharing of your email address with third parties not owned by TIME USA LLC ., please [click here](mailto:privacy@meredith.com).
 
 We will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-back to top
+[back to top](https://web.archive.org/privacy/generic_privacy_new.html#top)
 
 #### Your California Privacy Rights: Notice to California Customers
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Time Inc . sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/web/20180630112623id_/https://subscription.timeinc.com/storefront/privacy/time/new_generic_privacy_form_offline.html?dnp-source=E), or for email please [click here](https://web.archive.org/web/20180630112623id_/https://subscription.timeinc.com/storefront/privacy/time/new_generic_privacy_form_online.html?dnp-source=E). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: TIME USA LLC . sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://www.meredith.com/offlinePrivacy.html), or for email please [click here](mailto:privacy@meredith.com). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
 
 #### Collection of Information by Third Parties
 
 Some of our Services contain links to third party sites and services whose privacy practices may be different than ours. We also allow you to connect with other third party sites and services. You should consult the other third party sites' and services' privacy notices in order to better understand their privacy practices.
 
-We sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the Time Inc . site and the third parties. Time Inc . has no control over the third parties' use of this information.
+We sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the TIME USA LLC . site and the third parties. TIME USA LLC . has no control over the third parties' use of this information.
 
 We may use third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the Services and to conduct research about the advertisements-or the Services themselves. Additionally, third parties may place and use tracking mechanisms, e.g., tracking pixels, in the emails we may send to you. This Privacy Policy does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
 
-For more information on advertisements and your behavioral advertising options, visit our [About Ads page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html) and our [Network Advertising Initiatives page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html).
+For more information on advertisements and your behavioral advertising options, visit our [About Ads page](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html) and our [Network Advertising Initiatives page](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html).
 
 Note regarding Market Research/Ratings: Our Services may also feature Nielsen's proprietary measurement software which may contribute to market research, like Nielsen's TV Ratings. To learn more about this information, please click [here](http://www.nielsen.com/digitalprivacy). Nielsen's software may collect your choices with regards to it.
 
@@ -107,7 +107,7 @@ Some of the tracking technologies we use include:
 
 These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Service usage information to other information about you, including your personal information. We may match information collected from you through different means or at different times, including both personal information and Service usage information, and use such information along with offline and online information obtained from other sources (including third parties) such as demographic information and updated contact information (where that information has been lawfully disclosed to us) for the purposes of learning more about you so we can provide you with relevant content.
 
-back to top
+[back to top](https://web.archive.org/privacy/generic_privacy_new.html#top)
 
 #### Our Commitment to Security
 
@@ -125,21 +125,22 @@ We will retain your personal information while you have an account with us and t
 
 #### Special Note for Parents
 
-The site you are visiting is one of the Time Inc . general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
+The site you are visiting is one of the TIME USA LLC . general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
 
 #### Changes to this Privacy Policy
 
-This Privacy Policy may be changed by Time Inc . The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
+This Privacy Policy may be changed by TIME USA LLC . The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
 
 #### How to Contact Us
 
-If you have any questions or concerns about the Time Inc . Privacy Policy or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=TD) or by writing to:
+If you have any questions or concerns about the TIME USA LLC Privacy Policy or its implementation please contact us via email by [clicking here](mailto:privacy@meredith.com) or by writing to:
 
-Time Customer Service  
-Attention: Consumer Affairs  
-3000 University Center Drive  
-Tampa, Florida 33612-6408
+Meredith Corporation  
+225 Liberty Street  
+New York, NY 10080  
+Email: [privacy@meredith.com](mailto:privacy@meredith.com)  
+1-515-284-3000
 
-back to top
+[back to top](https://www.time.com/privacy/generic_privacy_new.html#top)
 
 This Privacy Policy was revised September 29, 2017.
