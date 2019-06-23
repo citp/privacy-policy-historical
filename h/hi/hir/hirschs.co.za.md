@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hirschs.co.za privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164959id_/https%3A//www.hirschs.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirschs.co.za privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623134656id_/https%3A//www.hirschs.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Hirsch's Privacy Policy | Your number one appliance store
+# Hirsch's Privacy Policy | Hirsch's
 
 This privacy policy sets out how Hirsch's uses and protects any information that you give Hirsch's when you use this website. Hirsch's is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Hirsch's may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
