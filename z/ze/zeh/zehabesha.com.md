@@ -1,135 +1,53 @@
-> *The following text is extracted and transformed from the zehabesha.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126155128id_/http%3A//www.zehabesha.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zehabesha.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623155737id_/https%3A//www.zehabesha.com/terms-a-nd-conditions) for the most accurate reproduction.*
 
-# zehabesha.com | Privacy Policy
+# Zehabesha – Latest Ethiopian News Provider | Privacy Policy
 
-**What information do we collect?**
+### **Legal Disclaimer**
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+This website is owned and operated by the Zehabesha.com for public online news consumption, Health Education. Accessing to any portion of this website or by using any portion of this website, you agree to be bound by terms and conditions. Please review our other policies, such as our privacy policy and our data gathering policy,  type of information that ZeHabesha gathers depends on the nature of the interaction. For example, we ask visitors who comment on our blog to provide a username and email address. Those who wish to receive our News updates via email, we collect their emails. For example, when you to sign up for an account, we ask for personal information, like your name, email address. When visitors comment on our blog, we ask them to provide a username and email address. These policies also govern your use of this website. If you do not agree to be bound by these terms and conditions, do not proceed any further and do not use this website. We recommend printing a copy of this page for your reference. We also recommend referring back to this document regularly, as we may make changes and post them to this website.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+### **Privacy Policy**
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Your privacy is very important to us, at ZeHabesha we have a few fundamental principles that we follow:
 
- **DoubleClick DART Cookie**
-
-.:: Google, as a third party vendor, uses cookies to serve ads on zehabesha.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to zehabesha.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction   
-Widget Bucks   
-Adbrite   
-Clickbank   
-Epic / Azoogle   
-Chitika   
-Linkshare   
-Amazon   
-Kontera   
-Advertising.com   
-CPAStorm   
-Burst   
-Valueclick   
-InfoLinks   
-Vibrant Media   
-24/7 Real Media   
-Tribal Fusion   
-Casale   
-Tremor Media   
-Adify   
+  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of our site. It is Zehabesha’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on zehabesha.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+### **Visitors   Policy**
 
-zehabesha.com has no access to or control over these cookies that are used by third-party advertisers. 
+Like most website operators, ZeHabesha collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. ZeHabesha’s purpose in collecting non-personally identifying information is to better understand how ZeHabesha’s visitors use its website. From time to time, ZeHabesha may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. ZeHabesha also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our blogs. ZeHabesha only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left. Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. zehabesha.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+### **Cookies  Policy**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+This Privacy Policy covers the use of cookies by ZeHabesha, cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. Our policy does not cover the use of cookies by any advertisers. Comments and other content submitted to Disqus anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+### **Comments   Policy**
 
-**What do we use your information for?**
+We love comments and appreciate the time that our readers spend to share ideas and give feedback. Comments and other content submitted to Disqus anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
-Any of the information we collect from you may be used in one of the following ways: 
+### **Terms & conditions**
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+ZeHabesha has the right at any time to change or discontinue any aspect or feature of the website, including, without limitation, the content, hours of availability, and equipment needed for access or use of the website. Use of this Website is solely at ZeHabesha.com’s discretion, and ZeHabesha.com reserves the right to prohibit anyone from accessing, browsing, supplying information to, downloading information from, or conducting business on this website.
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+The website contains copyrighted material, trademarks and other proprietary information, including, without limitation, text, software, photos, video, graphics, music and sound. The contents of the website are copyrighted under the United States copyright laws and international treaties (“Information”). You are not granted any rights in  or to this website or any Information, other than the limited right described in these terms and conditions and any policies and procedures that Zehabesha.com may adopt and make available on this website from time to time, including the Privacy Policy below.
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+The Information may be supplied by Zehabesha.com or third parties and users of the website. Any opinions, advice, statements, or other information or content expressed or made available by third parties are those of the respective author(s) or distributor(s) and not of Zehabesha.com. In many instances, the content available through the website represents the opinions and judgments of the respective information provider or user. Zehabesha.com neither endorses nor is responsible for the accuracy or reliability of any opinion, advice or statement made on the website by anyone other than authorized Zehabesha.com spokespersons acting in their official capacities.
 
-\- To process transactions
+If you provide Information to Zehabesha.com for posting on the website, you grant to Zehabesha.com and its successors and assigns a non-exclusive, worldwide, royalty-free, perpetual, irrevocable license to use, reproduce, distribute, create derivative works of, display, and broadcast that Information; and authorize specified third parties to use, reproduce, distribute, download, create derivative works of and print such Information for their own internal business purposes. You agree that Zehabesha.com shall be free to use any ideas, concepts or techniques contained in your Information for any and all proper purposes.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+While it may monitor, remove or delete transmissions to this website, Zehbesha.com is under no obligation to monitor, remove or delete any transmissions. Zehabesha.com exercises no editorial review and assumes no responsibility for misleading, fraudulent, defamatory, libelous, threatening, harassing, pornographic, obscene or illegal Information supplied to this website; provided, however, that Zehabesha.com may take any action with respect to any Information that Zehabesha.com deems in its sole discretion is necessary or appropriate, including the deletion of any such Information.
 
-\- To administer a contest, promotion, survey or other site feature
+This website may provide links to other Internet sites. Such links are provided as a service to users and are not sponsored by, endorsed or otherwise affiliated with this website or with the products and services of Zehabesha.com. Zehabesh.com is not responsible for the availability of such other sites and is not responsible or liable for any content, products or other materials available on such other sites. Further, Zehabesha.com reserves the right to terminate any link at any time. Zehabesha.com does not author, edit, or monitor these unofficial pages or links. You acknowledge and agree that Zehabesha.com shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any information, goods or services available on or through any such website. If you decide to access any of the third party sites linked to this website, you do this entirely at your own risk.
 
-\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+You agree to defend, indemnify and hold Zehabesha.com harmless from and against any damage, loss, liability or expense (including reasonable attorney’s fee) that Zehabesha.com may suffer or incur as a result of any claim attributable to or based upon your use of this website or any of the Information. If for any reason you are not satisfied with this website or the Information, your sole remedy is to cease using this website or the Information.
 
-\- To send periodic emails
+If any provision of these terms and conditions is held to be unenforceable, this holding will not affect the validity of the other provisions. Zehabesha.com controls and operates this website from our home in Minnesota. These terms and conditions, and your use of the website, will be governed by and interpreted in accordance with the laws of Minnesota, U.S.A.
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+Zehabesha.com may change these terms and conditions from time to time and at any time, without actual notice to you. In the event of a change, Zehabesha.com will post the revised version to our web website, any access to or use of the website after such an update will be deemed consent to such update.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+ZeHabesha Website is not responsible for accuracy of information or endorses the contents provided by external sources. All blog posts and comments are the opinion of the authors.
 
- **How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
-
- **Do we disclose any information to outside parties?**
-
-Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
-
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
-
-zehabesha.com 
-
-Email:  
-contact@zehabesha.com  
-
+Copyright © 2013 [Zehabesha – Latest Ethiopian News Provider](http://www.zehabesha.com/ "Latest Ethiopian News Provider"). All Rights Reserved.
