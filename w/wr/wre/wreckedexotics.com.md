@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wreckedexotics.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213062722id_/http%3A//www.wreckedexotics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wreckedexotics.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623133505id_/http%3A//www.wreckedexotics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,4 @@ We collect email addresses through our newsletter alert form for the sole purpos
 
 
 
-Questions regarding this policy should be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aad9dfdadac5d8deeaddd8cfc9c1cfcecfd2c5dec3c9d984c9c5c7)
+Questions regarding this policy should be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d6a5a3a6a6b9a4a296a1a4b3b5bdb3b2b3aeb9a2bfb5a5f8b5b9bb)
