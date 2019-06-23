@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverytheword.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209155548id_/http%3A//discoverytheword.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverytheword.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623201231id_/http%3A//discoverytheword.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DiscoveryTheWord
 
@@ -32,3 +32,5 @@ You may opt out of Google’s use of cookies by visiting Google’s [Ads Settin
 Our site uses third-party advertising companies to serve ads on its Properties, which may, directly or indirectly, collect or use information about user visits to websites to display advertisements more tailored to users’ interests, and (b) includes language to the following effect: “If a user wishes to know more about this practice or would like to know more about his/her options, the user can visit the Network Advertising Initiative (“NAI”) web-site: [http://www.networkadvertising.org](http://www.networkadvertising.org/). The NAI is a cooperative of online advertising companies who are committed to responsible practices and consumer protection.
 
 **Links to other websites**  Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**[ultimate_gdpr_policy_accept]**
