@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dmvnv.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229201638id_/http%3A//nv.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmvnv.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623061352id_/http%3A//nv.gov/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# State of Nevada
 
 State of Nevada Online Privacy Policy - Effective Date 11/25/02 | 3.03 B.
 
@@ -85,21 +85,21 @@ Any exception to this policy must be approved by organization management, the e-
 
 ## 8\. DEFINITIONS/BACKGROUND
 
-**Base URL String** \- Also known as the root URL or Domain Name. The nomenclature, which identifies the address of a web site. The base string means the root URL. Example: www.microsoft.com is a root or base URL that takes a user to the first page of Microsoft’s web site.
+Base URL String \- Also known as the root URL or Domain Name. The nomenclature, which identifies the address of a web site. The base string means the root URL. Example: www.microsoft.com is a root or base URL that takes a user to the first page of Microsoft’s web site.
 
-**Cookies** \- A "cookie" is a small text file that a website can place on your computer's hard drive in order, for example, to collect information about your activities on the site or to make it possible for you to use an online "shopping cart" to keep track of items you wish to purchase. The cookie transmits this information back to the Web site's computer which, generally speaking, is the only computer that can read it. Most consumers do not know that "cookies" are being placed on their computers when they visit websites. If you want to know when this happens, or to prevent it from happening, you can set your browser to warn you when a website attempts to place a "cookie" on your computer.
+Cookies \- A "cookie" is a small text file that a website can place on your computer's hard drive in order, for example, to collect information about your activities on the site or to make it possible for you to use an online "shopping cart" to keep track of items you wish to purchase. The cookie transmits this information back to the Web site's computer which, generally speaking, is the only computer that can read it. Most consumers do not know that "cookies" are being placed on their computers when they visit websites. If you want to know when this happens, or to prevent it from happening, you can set your browser to warn you when a website attempts to place a "cookie" on your computer.
 
-**Executive Branch Organizations** – Includes departments, divisions, agencies, units, commissions, boards or institutions.
+Executive Branch Organizations – Includes departments, divisions, agencies, units, commissions, boards or institutions.
 
-**Home Page** \- The first page a user will encounter when visiting a web site for the first time through the base URL string.
+Home Page \- The first page a user will encounter when visiting a web site for the first time through the base URL string.
 
-**Internet** – Worldwide network of networks and computers that are interconnected to communicate with each other through web pages, e-mail and many other services.
+Internet – Worldwide network of networks and computers that are interconnected to communicate with each other through web pages, e-mail and many other services.
 
-**Intranet** – An internal, restricted private network in which access is restricted to those within a company or organization. Intranets provide many of the same services as the Internet including websites and e-mail, but access is allowed only to approve individuals within an organization.
+Intranet – An internal, restricted private network in which access is restricted to those within a company or organization. Intranets provide many of the same services as the Internet including websites and e-mail, but access is allowed only to approve individuals within an organization.
 
-**Links** \- Also known as hyper-links. Used to connect one web page to another web page via some form of Hyper-Text Markup Language, whether graphical or text in nature.
+Links \- Also known as hyper-links. Used to connect one web page to another web page via some form of Hyper-Text Markup Language, whether graphical or text in nature.
 
-**Personal Information** – Examples of personally identifiable information include:
+Personal Information – Examples of personally identifiable information include:
 
   * Name
   * Address
@@ -112,10 +112,10 @@ Any exception to this policy must be approved by organization management, the e-
 
 
 
-**Portal** \- A website serving as a common entry point and frequent gateway to information and services.
+Portal \- A website serving as a common entry point and frequent gateway to information and services.
 
-**Web Page** – Any page located on a web site
+Web Page – Any page located on a web site
 
-**Web Site** \- Public set of documents, called pages, developed using some form of Hyper-Text Markup Language (HTML).
+Web Site \- Public set of documents, called pages, developed using some form of Hyper-Text Markup Language (HTML).
 
-**URL** – Universal Resource Locator
+URL – Universal Resource Locator
