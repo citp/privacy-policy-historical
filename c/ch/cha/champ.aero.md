@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the champ.aero privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219213152id_/http%3A//www.champ.aero/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champ.aero privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623092537id_/http%3A//www.champ.aero/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -153,7 +153,7 @@ Zone d'Activites "Weiergewan"
 L-5326 Contern  
 Luxembourg  
 Phone: +352 2681 6205  
-Email: [dpo@champ.aero](mailto:dpo@champ.aero)
+Email: [dpo[at]champ[dot]aero](mailto:dpo@champ.aero)
 
 [Download a PDF version of our Privacy Policy](https://web.archive.org/media/7991/champ_privacy_policy_17may18_web.pdf "CHAMP_Privacy_Policy_17MAY18_Web.pdf").
 
