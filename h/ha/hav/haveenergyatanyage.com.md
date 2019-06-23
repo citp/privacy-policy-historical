@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haveenergyatanyage.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612085608id_/http%3A//haveenergyatanyage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haveenergyatanyage.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623050248id_/http%3A//haveenergyatanyage.com/privacy) for the most accurate reproduction.*
 
 # Gundry MD
 
@@ -22,7 +22,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [support@gundrymd.com](mailto:support@gundrymd.com) or mailing us at: Gundry MD 9465 Wilshire Boulevard, Suite 300, Beverly Hills, CA, 90212, United States  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c9babcb9b9a6bbbd89aebca7adbbb0a4ade7aaa6a4) or mailing us at: Gundry MD 9465 Wilshire Boulevard, Suite 300, Beverly Hills, CA, 90212, United States  
 
 
 ### SECTION 3 - DISCLOSURE
@@ -88,7 +88,7 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@gundrymd.com](mailto:support@gundrymd.com) or by mail at Gundry MD
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#493a3c3939263b3d092e3c272d3b30242d672a2624) or by mail at Gundry MD
 
 [Re: Privacy Compliance Officer]
 
