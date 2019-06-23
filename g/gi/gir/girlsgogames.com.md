@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsgogames.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025454id_/http%3A//www.girlsgogames.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgogames.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623225744id_/http%3A//www.girlsgogames.com/privacy_policy) for the most accurate reproduction.*
 
 # privacy policy | Games for Girls, Girl Games, Play Girls Games Online!
 
