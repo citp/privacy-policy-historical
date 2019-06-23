@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtra.ca privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231121505id_/https%3A//www.dailyxtra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtra.ca privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623183757id_/https%3A//www.dailyxtra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Xtra
 
