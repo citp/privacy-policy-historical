@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205094257id_/http%3A//gayot.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623083834id_/https%3A//gayot.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,10 +8,6 @@ Maintaining your privacy—online and off—is of utmost importance to GAYOT. Th
 • GAYOT does not collect billing nor credit card information online. All online transactions are processed by third party companies.
 
 If you ever have any questions about your privacy, please email us immediately at: privacy [AT] gayot [DOT] com.
-
-### **Who We Are**
-
-André Gayot—who with his friends, Henri Gault and Christian Millau, invented the term “ _Nouvelle Cuisine_ ” in the early ’70s—has been directing sophisticated travelers to the best restaurants, hotels, shops, sightseeing, and cultural attractions throughout the world for over 40 years. Written by a team of savvy restaurant critics and food-and-travel experts, Gayot guidebooks are informative, honest and witty. Above all, they tell it like it is! Since 1981, “ **The Best Of** ” guides in English have become the travel bible of an international readership in quest of the best. And since 1995, “Restaurants” guides cover everything there is to know about the food and restaurant scenes of major American cities. Gayot guidebooks have now been succeeded by a comprehensive website for up-to-date travel and restaurant information, GAYOT.com. For more information about GAYOT Publications, please visit the About Us area on GAYOT.com.
 
 ### **Personal Information Collection**
 
@@ -72,7 +68,9 @@ Questions regarding this statement should be directed to the GAYOT site coordina
 • Electronic Privacy Information Center – focuses attention on emerging civil liberties issues.  
 • Federal Trade Commission – website on privacy protection.
 
-The GAYOT.com website is owned and operated by:  
+The **GAYOT.com** website is owned and operated by:  
 GaultMillau, Inc.  
 California, USA  
 Tel.: 323.965.3529
+
+* * *
