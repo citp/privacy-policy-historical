@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inverse.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230041543id_/https%3A//www.inverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inverse.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623212510id_/https%3A//www.inverse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inverse
 
@@ -110,9 +110,9 @@ We otherwise store all of our information, including your IP address information
 
 If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
 
-California Privacy Rights: Under California Civil Code sections 1798.83­1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 155 Wooster St, Floor 2, New York, NY 10012
+California Privacy Rights: Under California Civil Code sections 1798.83­1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 632 Broadway Suite 301, New York, NY 10012
 
-#How Can I Delete My Account?
+## How Can I Delete My Account?
 
 Should you ever decide to delete your Account, you may do so by emailing [admin@inverse.com](mailto:admin@inverse.com). If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
 
