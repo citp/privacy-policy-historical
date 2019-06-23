@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scoutmob.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223237id_/http%3A//scoutmob.com/privacy%3Fref%3Dftr_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutmob.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623162559id_/http%3A//local.scoutmob.com/policies%3Fref%3Dftr_policy) for the most accurate reproduction.*
 
-# Unique Gifts I Unique Gift Ideas I Scoutmob
+# Scoutmob Atlanta - mobile deals for the local curious
 
 By downloading and using the Scoutmob mobile application or visiting or using the www.scoutmob.com website and domain name, any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing (collectively, the "Website"), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy. 
 
@@ -28,4 +28,4 @@ Scoutmob offers Facebook users the opportunity to interact with friends and to s
 
 Public Content: Your reviews, ratings, and associated email address or social network profile (including your first and last name, screen name, profile picture, general location, and profile link) for social networks that you have authorized the Site or App to access, along with other content you post to the Site are meant for public consumption. We may display this content on the Site, and further distribute it to a wider audience through third party sites and services.
 
-If you have any questions or concerns regarding privacy, please contact us at [fannypack@scoutmob.com](mailto:fannypack@scoutmob.com). Your privacy is important to us and we will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy, please contact us at [Help@handpickedatlanta.com](mailto:Help@handpickedatlanta.com). Your privacy is important to us and we will make every effort to resolve your concerns.
