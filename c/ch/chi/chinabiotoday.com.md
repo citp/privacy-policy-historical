@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinabiotoday.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619212854id_/http%3A//www.chinabiotoday.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinabiotoday.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623172026id_/http%3A//www.chinabiotoday.com/static/privacypolicy) for the most accurate reproduction.*
 
 # ChinaBio® Today
 
@@ -14,7 +14,7 @@ Have the latest stories on China's life science industry delivered to your inbox
 
 [**See preview >>**](http://www.feedblitz.com/f?previewfeed=232256 "Preview Email Newsletter")
 
-This document explains what we do with the personal information that you give us. If you have not already done so, please read our [User Agreement](https://web.archive.org/web/20180619212854id_/http%3A//www.chinabiotoday.com/static/termsandconditions) before reading this Privacy Policy. Defined terms in the User Agreement shall have the same meaning in this Privacy Policy as in the User Agreement. In general, we use the personal information that we collect from you to allow you to use the services offered by our website including Free Content and Paid-For Content (the Service). This Privacy Policy applies only to our Service and not to any other company, individual, organization or website that you may reach via a link from our website, except for those companies we mention below. If at any time you have a question about anything contained in this Privacy Policy or a general query on privacy, please [contact us](https://web.archive.org/web/20180619212854id_/http%3A//www.chinabiotoday.com/static/contact).   
+This document explains what we do with the personal information that you give us. If you have not already done so, please read our [User Agreement](https://web.archive.org/web/20190623172026id_/http%3A//www.chinabiotoday.com/static/termsandconditions) before reading this Privacy Policy. Defined terms in the User Agreement shall have the same meaning in this Privacy Policy as in the User Agreement. In general, we use the personal information that we collect from you to allow you to use the services offered by our website including Free Content and Paid-For Content (the Service). This Privacy Policy applies only to our Service and not to any other company, individual, organization or website that you may reach via a link from our website, except for those companies we mention below. If at any time you have a question about anything contained in this Privacy Policy or a general query on privacy, please [contact us](https://web.archive.org/web/20190623172026id_/http%3A//www.chinabiotoday.com/static/contact).   
 ****
 
 **Consent.** Your use of our Service signifies your consent to us collecting and using personal information about you in accordance with this Privacy Policy. Should we choose to change our Privacy Policy for any reason, the changes will be posted here, so that you are always kept informed of how we collect and use your personal information, and when we may disclose it.  
@@ -37,13 +37,11 @@ On revisiting our website or in using the files, our computer server will recogn
 
 **When do we give information that you provide us with to other people?** Apart from entities that are involved in helping us to run our Site or our events, we never give your information to any third parties. The entities that help us run our site are SubHub Limited, which provides hosting and design services to us, PayPal or other payment provider we may choose to use, which provides credit card payment processing services to us, and the Siteowner, ChinaBioLLC. In order to purchase subscriptions from our Site you will have to comply with the terms of our payment partner, and will need to review and agree to their Privacy Policy when you do so (see PayPal's or other payment processor's terms and conditions for further information). We and our payment processor will share information with each other only to the extent necessary for the purposes of processing payments you make for materials from our Site and to enable us to retrieve payments from said payment processors. SubHub provides the technology on which our Site runs and holds and maintains the databases in which data about our users is contained. SubHub will only use data you provide to the extent necessary to enable us to operate the Site. We reserve the right to access and disclose individually identifiable information (i) to comply with applicable laws and government requests, (ii) to be able to operate our systems properly or (iii) to protect ourselves or our users.
 
-**How to contact us.** If you wish to change any information you have provided to us, please do so on the Site or contact us at [info@chinabiotoday.com](mailto:info@chinabiotoday.com) or [contact us](https://web.archive.org/web/20180619212854id_/http%3A//www.chinabiotoday.com/static/contact).
+**How to contact us.** If you wish to change any information you have provided to us, please do so on the Site or contact us at [info@chinabiotoday.com](mailto:info@chinabiotoday.com) or [contact us](https://web.archive.org/web/20190623172026id_/http%3A//www.chinabiotoday.com/static/contact).
 
   
 
 
-#####  Partner Events 
+#####  ChinaBio® Events 
 
-[](http://www.chinahic.com/)
-
-The 9th China Healthcare Investment Conference
+ 
