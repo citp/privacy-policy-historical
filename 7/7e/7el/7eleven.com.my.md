@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7eleven.com.my privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613160935id_/http%3A//www.7eleven.com.my/privacy-policy%3Fpage%3Denglish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7eleven.com.my privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623033104id_/http%3A//www.7eleven.com.my/privacy-policy%3Fpage%3Denglish) for the most accurate reproduction.*
 
 # 7-Eleven Malaysia | Always There For You
 
