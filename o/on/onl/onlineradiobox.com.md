@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineradiobox.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830230959id_/http%3A//onlineradiobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineradiobox.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623142206id_/https%3A//onlineradiobox.com/privacy) for the most accurate reproduction.*
 
 # Online Radio Box - listen to the radio online for free
 
@@ -24,10 +24,9 @@ We will continue to evaluate this Privacy Policy and update it accordingly when 
 
 If there are any questions regarding this Privacy Policy You may contact us using the information below:
 
-Final Level, Estonia 10111 Tallinn Kai tn.1   
+FinalLevel OU, Pärnu mnt 158, 11317 Tallinn, the Republic of Estonia   
 Phone: +3726850075   
-E-mail: [info@final-level.com](mailto:info@final-level.com)   
-Company registration number 14081574 
+E-mail: [info@final-level.com](mailto:info@final-level.com)
 
 You also may submit inquiries regarding personal data protection, privacy and security matters to [support@onlineradiobox.com](mailto:support@onlineradiobox.com). 
 
