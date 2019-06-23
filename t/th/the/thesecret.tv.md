@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesecret.tv privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021925id_/http%3A//www.thesecret.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecret.tv privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623163328id_/http%3A//www.thesecret.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Secret - Official Website
 
@@ -68,6 +68,12 @@ We reserve the right to change this Privacy Policy at any time. In the event we 
 
 Under certain circumstances, California Civil Code Section 1798.83 states that, upon receipt of a request by a California customer, a business may be required to provide detailed information regarding how that business has shared that customer’s personal information with third parties for direct marking purposes. However, the foregoing does not apply to businesses like ours that do not disclose personal information to third parties for direct marketing purposes without prior approval. California users may request further information about their rights under this law and our policy by writing to us at privacy@thesecret.tv, using the subject line “CA Request for Information,” and requesting further information.
 
+**_Special Notice to Residents of the European Economic Area_**
+
+Residents of the European Economic Area (“EEA”), including the European Union (“EU”) who have consented to provide personal data to subscribe to The Secret Scrolls Email List are subject to the General Data Protection Regulation (“GDPR”) effective May 25, 2018.   Your use of and subscription to The Secret Scrolls Email List is entirely optional and you may always unsubscribe by following the link included on every e-mail communication.   By subscribing to the list, you consent to having your personal data, including your e-mail address, stored and processed in the United States, which has different privacy laws than the EU.
+
+If you have any questions regarding the personal data that we collect or retain, including requests that we change or update your personal data, requests for copies of your personal data, or requests that we delete your personal data or if you wish to unsubscribe from The Secret Scrolls Email List, please contact us at [privacy@thesecret.tv](mailto:privacy@thesecret.tv).  We use AWeber to process the personal data of EU residents for the Secret Scrolls Email List and AWeber acts as the processor for such information.  We also abide by AWeber’s Privacy Policy and Customer Terms of Service which may be accessed at <https://www.aweber.com/privacy.htm> and <https://www.aweber.com/service-agreement.htm>.
+
 **Legal Disclaimer**
 
 Our website and app operate AS-IS, and we do not represent or warrant that they will be available at all times, or that your use of the website and/or app will be uninterrupted or error-free. We are not responsible for your ability to access the website or app, or for matters beyond our control. This Privacy Policy is governed by California law, excluding its provisions on choice of law.
@@ -76,4 +82,4 @@ Our website and app operate AS-IS, and we do not represent or warrant that they 
 
 If you have questions or concerns about The Secret’s Website Privacy Policy or data processing, please contact us at privacy@thesecret.tv. The Secret Data Controller in your region will respond to your inquiry within 30 days.
 
-Last revised October 27, 2015
+Last revised May 25th, 2018
