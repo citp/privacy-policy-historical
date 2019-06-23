@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the backblaze.com privacy policy that was archived on 2018-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181224033705id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the backblaze.com privacy policy that was archived on 2019-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190623050352id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy | Backblaze Online Backup</title>
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N9N283"></script><script language="JavaScript" src="../scripts/jquery-1.11.3.min.js" type="text/javascript"></script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NL4J38"></script><script language="JavaScript" src="../scripts/jquery-1.11.3.min.js" type="text/javascript"></script>
 <script language="JavaScript" src="../scripts/main.js"></script>
 <script language="JavaScript" src="/scripts/nav.js"></script>
 <script language="JavaScript" src="../scripts/jquery.cookie.js" type="text/javascript"></script>
@@ -44,25 +44,28 @@
 <script src="/scripts/cookie-consent.js"></script>
 
 <script>
-    var ID = "GTM-N9N283"; // for Prod (.com)
+    function loadGoogleTagManager(global, ID) {
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(global,document,'script','dataLayer',ID);
+    }
 
-    $(function() {
-        var ext = window.location.host.split('.').pop();
-        if (ext != "com") {
-            ID = "GTM-NL4J38"; // for Staging (.net);
+    (function(global) {
+        var ID = "GTM-N9N283";
+
+        if (global.location.host.split('.').pop() !== "com") {
+            ID = "GTM-NL4J38";
         }
 
-    });
+        var gtmLoaded = $('script[src="https://www.googletagmanager.com/gtm.js?id=' + ID + '"]').length > 0;
 
-
+        if (!gtmLoaded) {
+            loadGoogleTagManager(global, ID);
+        }
+    })(window);
 </script>
-
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer',ID);</script>
-
 </head>
 <body bgcolor="#FFFFFF">
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N9N283"
@@ -229,7 +232,7 @@ and provide you with information and access to resources or services that you ha
 carry out other legitimate business purposes, such as to improve our products and services, as well as other
 lawful purposes about which we will notify our users and clients.
 </li>
- </ul>
+</ul>
 <div class="section-sub-header">Email Communications</div>
 From time to time, Backblaze will communicate with you via email. There are two types of email you may receive:
 <ol>
@@ -273,8 +276,8 @@ support and online Chat service.
 <li class="list-item">
 We may also disclose your information to third parties: (a) where required by law or regulatory requirement,
 court order or other judicial authorization, (b) in response to lawful requests by public authorities, including
-for the purposes of meeting national security and law enforcement requirements; (c) in connection with the sale,
- transfer, merger, bankruptcy, restructuring or other reorganization of a business; (d) to protect or defend our
+ for the purposes of meeting national security and law enforcement requirements; (c) in connection with the sale,
+transfer, merger, bankruptcy, restructuring or other reorganization of a business; (d) to protect or defend our
 rights, interests or property, or that of third parties; (e) to investigate any wrongdoing in connection with our
 products and services; and (f) to protect the vital interests of an individual.
 </li>
@@ -322,7 +325,7 @@ information, please contact us using the contact details provided under the <a h
 <br>
 <br>
 <a name="section-7"></a>
-<h1 class="section-header">Cookies and similar tracking technology</h1>
+ <h1 class="section-header">Cookies and similar tracking technology</h1>
 Like all e-commerce websites we use cookies and similar tracking technology (collectively "Cookies") to collect and use personal
 information about you. For further information about the types of Cookies we and our partners' use, why and how you can control
 Cookies, please see our <a href="https://www.backblaze.com/company/cookies.html">Cookie Statement</a>.
@@ -361,7 +364,7 @@ For information on how to request access, rectification or deletion of your pers
 <br>
 <br>
 <a name="section-9"></a>
-<h1 class="section-header">How we protect your information</h1>
+ <h1 class="section-header">How we protect your information</h1>
 The security of your personal information is very important to us.
 <br>
 <br>
@@ -472,9 +475,10 @@ Please note that for the purposes of EU data protection legislation, Backblaze i
 <div class="row footer-row">
 <div class="col-sm-10">
 <a href="/company/about.html">About Us</a> |
+<a href="/company/jobs.html">Careers</a> |
 <a href="/company/partners.html">Partners</a> |
 <a href="/security.html">Security</a><br>
-Backblaze © 2018.
+Backblaze © 2019.
 <a href="/company/privacy.html" style="color:#999999; text-decoration:underline;">Terms &amp; Privacy </a>
 </div>
 <div class="col-sm-2">
@@ -515,4 +519,4 @@ Backblaze © 2018.
 </noscript>
 
 
-<div id="cookie-consent-banner"><div style="width:100%;text-align:center;position: fixed; bottom: 0; left: 0; z-index: 9999; background-color: #333333;  color: #e5e5e5; font-size: 12px;overflow: hidden; line-height: 16px; margin: 0px; padding-top: 6px; padding-bottom: 5px;"><div style="width: 100%; margin-left: auto; margin-right: auto; max-width: 1440px;">This website uses cookies for analytics, personalization and to improve the user experience.  Click <a style="color: #c2d8f2; text-decoration: none;" href="https://web.archive.org/web/20190407121838/https://www.backblaze.com/company/cookies.html">here</a> to learn more or change your cookie settings. By continuing to browse you agree to our use of cookies.<a id="give-consent" href="#" style="background-color:#3d87d2; border-radius: 3px; padding-left: 12px; padding-right: 12px;  display: inline; color: #c2d8f2; text-decoration: none; margin-left: 40px;">OK</a></div></div></div></body></html>
+<div id="cookie-consent-banner"><div style="width:100%;text-align:center;position: fixed; bottom: 0; left: 0; z-index: 9999; background-color: #333333;  color: #e5e5e5; font-size: 12px;overflow: hidden; line-height: 16px; margin: 0px; padding-top: 6px; padding-bottom: 5px;"><div style="width: 100%; margin-left: auto; margin-right: auto; max-width: 1440px;">This website uses cookies for analytics, personalization and to improve the user experience.  Click <a style="color: #c2d8f2; text-decoration: none;" href="https://web.archive.org/web/20190330000104/https://www.backblaze.com/company/cookies.html">here</a> to learn more or change your cookie settings. By continuing to browse you agree to our use of cookies.<a id="give-consent" href="#" style="background-color:#3d87d2; border-radius: 3px; padding-left: 12px; padding-right: 12px;  display: inline; color: #c2d8f2; text-decoration: none; margin-left: 40px;">OK</a></div></div></div></body></html>
