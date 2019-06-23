@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220153106id_/https%3A//www.vodafone.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624001115id_/https%3A//www.vodafone.co.uk/privacy) for the most accurate reproduction.*
 
 # Read the Vodafone privacy and cookies policies
 
@@ -262,11 +262,13 @@ Social plug-ins and social applications are operated by the social network thems
 
 Below we set out details on how you can exercise your rights. If you have a question or cannot find the answer, please contact our [Customer Services](https://www.vodafone.co.uk/contact-us/) team or use our [privacy query form](https://www.vodafone.co.uk/gdpr-privacy-query-form/index.htm) and a member of our dedicated team will respond to you.
 
-**Right to correct personal data**  
-You have the right to have information held about you corrected if it is not accurate. If the information we hold about you needs updating, or you think it may be inaccurate, you can log in to [My Vodafone](https://www.vodafone.co.uk/myvodafone/faces/home) to update it or contact our [Customer Services](https://www.vodafone.co.uk/contact-us/) team.
+**Please note:** the privacy query form is not for Subject Access Requests (SARs). To raise a Subject Access Request, please fill in the [Subject Access Request form](https://www.vodafone.co.uk/gdpr-sars-form/)
 
 **Right to access personal data**  
 You have the right to make a request for a copy of the personal data that Vodafone holds about you. To make this request as an individual or an authorised third party, visit our [Subject Access Request page](https://www.vodafone.co.uk/gdpr-sars-form/index.htm) which gives details on how to do this. Alternatively, you can contact our [Customer Services](https://www.vodafone.co.uk/contact-us/) team.
+
+**Right to correct personal data**  
+You have the right to correct information held about you if it’s not accurate. If the information we hold about you is inaccurate or needs to be updated, you can log in to [My Vodafone](https://www.vodafone.co.uk/myvodafone/faces/home) to update it or you can contact our [Customer Service team](https://www.vodafone.co.uk/contact-us/)
 
 **Right to data portability**  
 You have the right to be able to take with you the personal data you provided to us in certain circumstances. Vodafone ensures that you can take your data with you by allowing you to download your monthly bills, at the click of a button. In order to do this, log in to [My Vodafone](https://www.vodafone.co.uk/myvodafone/faces/oracle/webcenter/portalapp/pagehierarchy/Page1.jspx#%40%3F_adf.ctrl-state%3D6r3p4hssa_30) and go to your billing area.
@@ -351,7 +353,7 @@ To make a purchase online or sign up to services like My Vodafone or Vodafone Re
 
   * [Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
   * [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
-  * [Safari](https://support.apple.com/kb/PH21411?locale=en_US)
+  * [Safari](https://support.apple.com/en-gb/HT201265)
   * [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
 
 
@@ -599,7 +601,7 @@ AMCV_
 
 Adobe Marketing Cloud provides the Visitor ID service, using JavaScript to store a unique visitor ID in an AMCV_###@AdobeOrg cookie on the domain of the current website, where ### represents a random string of characters. It is this ID that allows us to serve you more relevant content and experiences.
 
-For more information please see <http://www.adobe.com/privacy/marketing-cloud.html>
+For more information please see <https://www.adobe.com/uk/privacy/marketing-cloud.html>
 
 | 
 
@@ -1345,6 +1347,8 @@ JSESSIONID
 
 For more information please see <https://www.indeed.com/legal#cookies>  
   
+[](https://www.vodafone.co.uk/privacysettings)
+
 * * *
 
 You can ask us about how we use your details for fraud prevention when you take out your Vodafone agreement.
