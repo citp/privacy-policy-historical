@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the xaxis.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226083219id_/https%3A//www.xaxis.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaxis.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624005430id_/https%3A//www.xaxis.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Xaxis
 
 The following chart provides information about the Mookie cookies, all of which are “persistent” cookies (meaning they are stored until they expire or are deleted/removed by a user) mapped to the mookie1.com domain:
 
-**Cookie Name** | **Cookie Behavior Capability** | **Information held in Cookie** | **Expiry (days)**  
+**Cookie Name** | **Cookie Behavior Capability** | **Information held in Cookie** | **Expiry from last refresh (days)**  
 ---|---|---|---  
 **Targeting (client data)** | **Targeting and Optimization (user data)** | **Reporting and Attribution**  
 id | Y | Y | Y | Unique serial number | 395 days  
 mdata | Y | N | N | Unique serial number, Creation timestamp, cookie version | 395 days  
-syncdata_<PARTNER> | Y | N | N | Unique serial number, Creation timestamp, data partner’s visitor id | 10 days  
+syncdata_<PARTNER> | Y | N | N | Unique serial number, Creation timestamp | 10 days  
   
 **How** **We Use This Information**
 
-Xaxis processes the information it collects and receives for the purposes of providing the Services to clients which we have explained above, as well as for administrative, security and compliance purposes. Specifically, we carry out the following activities:
+Xaxis processes the information it collects and receives for the purposes of providing the Services to clients as explained above, as well as for administrative, security and compliance purposes. Specifically, we carry out the following activities:
 
 **_Ad Selection, Delivery, Reporting_**
 
@@ -21,7 +21,9 @@ We analyze the information collected when client advertising is delivered using 
 
 We may also integrate (and use for the same purposes) User Information obtained from other carefully selected companies (including Site owners, data providers and data aggregators).
 
-We also make use of the internal identifier of our affiliate [m]PLATFORM, called “[mP]ID”. We use the [mP]ID to associate information relating to browsers, environments and/or devices that we, or [m]PLATFORM, reasonably believe belong to the same user. This helps us to provide more useful and relevant advertising to a specific user, regardless of the browser, environment or device.
+We also make use of the internal identifier of our affiliate [m]PLATFORM, called “[mP]ID”. We use the [mP]ID to associate information relating to browsers, environments and/or devices that we, or [m]PLATFORM, reasonably believe belong to the same user. This helps us to provide more useful and relevant advertising to a specific user, regardless of the browser, environment or device they are using.
+
+While Xaxis does not knowingly create segments that are based upon what we consider to be sensitive information (e.g. we do not create segments based on sensitive health categories under the NAI Code or segments of EEA users based on personal data considered to be sensitive in the EEA, such as personal data revealing your racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, personal data concerning your health, sex life or sexual orientation, or genetic or biometric data), our clients may use our Services to process some sensitive data, which may come from our clients’ Sites or our partners. We take steps designed to ensure that this is done in compliance with applicable laws and self-regulatory guidelines, including through our contracts and policies with our clients and partners.
 
 **_Personalization_**
 
@@ -52,7 +54,7 @@ We use the information collected and received for Interest-Based Advertising, su
     * When we receive offline User Information, this information is provided to us via a service provider in conjunction with a cookie ID, advertising ID, or similar user ID that identifies a customer or consumer to the client or service provider.
     * We do not receive any names, mailing addresses, phone numbers, email addresses or similar data that would enable identification of a particular individual connected with the IDs we receive.
   * **Linking Devices** – we make use of the internal [mP]ID identifier of our affiliate [m]PLATFORM to associate information relating to browsers, environments, and/or devices that [m]PLATFORM or we reasonably believe belong to the same user, in order to help provide more useful and relevant advertising regardless of browser, environment, or device.
-  * **Precise Geographic Location Data** – when we have the necessary rights to do so, we may receive and/or use a user’s precise geographic location data in connection with our Services. Where we collect this type of data it is provided in the data feed we receive from our partners in connection with the delivery of digital advertising.
+  * **Precise Geographic Location Data** – when we have the necessary rights to do so, we may receive and/or use a user’s precise geographic location data for the purpose of delivering “moment in time” advertising. Xaxis does not store or otherwise save the precise geographic location data after serving or delivering an advertisement in real-time.
 
 
 
@@ -62,7 +64,7 @@ Xaxis shares information we collect about you (see “Types of Information We Co
 
 If we reasonably believe we are obliged by law or legal process to disclose information to a third party (including law enforcement), then we will do so. In addition, we may disclose information to a third party (including an auditor or other service provider).
 
-Our affiliate [m]PLATFORM operates and maintains a proprietary data management platform that we and other affiliates may use in order to provide services. The information we disclose to [m]PLATFORM may be used by mPlatform and such other affiliates not only to provide services to us and our clients, but also to provide services to those affiliates and their respective clients.
+Our affiliate [m]PLATFORM operates and maintains a proprietary data management platform that we and other affiliates may use in order to provide services. The information we disclose to [m]PLATFORM may be used by mPlatform and such other affiliates not only to provide our services to us and our clients, but also to provide services to those affiliates and their respective clients.
 
 **Opt-** **Out** **/Right to** **Withdraw Consent**
 
@@ -87,9 +89,12 @@ In browser environments, you may also refuse or remove cookies from both Xaxis a
 
 
 
-In mobile app environments, you may opt out of Interest-Based Advertising from just Xaxis or from both Xaxis and other service providers via the following methods:
+You may also limit ad tracking in mobile and OTT TV Device app environments. For the most effective and up-to-date methods for doing so, you should consult instructions provided by those device manufacturers. The following information is solely for informational purposes, and we cannot guarantee that the methods below are the most current:
 
-  * Going to the privacy setting on your device and selecting “Limit Ad Tracking” via your device settings, which will result in the elimination of Interest-Based Advertising via the applicable advertising ID from Xaxis and from other providers in addition to Xaxis.
+  * Going to the privacy setting on your mobile device as well as on your OTT TV Device and selecting “Limit Ad Tracking” via your device settings, which will result in the elimination of Interest-Based Advertising via the applicable advertising ID from Xaxis and from other providers in addition to Xaxis: 
+    *       * [Apple instructions for how to Limit Ad Tracking on devices such as iPhones, iPads and Apple TV](https://support.apple.com/en-us/HT202074)
+      * [Google instructions for how to express choice on Android devices](https://support.google.com/ads/answer/2662922?hl=en)
+      * [Roku’s instructions for how to express choice on Roku devices](https://docs.roku.com/doc/userprivacypolicy/en-us)
   * Opting out of Interest-Based Advertising via the applicable advertising ID from Xaxis and/or other providers via the AppChoices app. Please note that, in order for the AppChoices app to function properly, your “Limit Ad Tracking” device setting must not be selected. Interest-Based Advertising data previously collected or received in association with the replaced advertising ID will not be used via Xaxis for Interest-Based Advertising on any other device or browser that we have reasonably linked to the mobile app environment where the information was collected. In addition, if we have actual knowledge that another device or browser is linked to the opted-out mobile app environment, that other device or browser will also be opted out from receiving Interest-Based Advertising via Xaxis. Additional information regarding the AppChoices app is available at <http://youradchoices.com/appchoices>.
 
 
@@ -100,11 +105,11 @@ Additional information regarding user choice in application environments is avai
 
 **Network Advertising Initiative**
 
-We are a member of the Network Advertising Initiative (NAI) and adhere to the NAI’s Codes of Conduct in those markets where these self-regulatory frameworks apply and are in effect. In accordance with the Codes of Conduct, we require our Xaxis Marketplace (formerly Xaxis Publisher Network and 24/7 Access) clients to inform users about their privacy and information collection practices via their privacy policies and to include in their privacy policies information regarding the use of third-party advertising technology and services on their Sites, the types of data collected through these services, the use and distribution of that data, and a link to an industry standard opt-out from Interest-Based Advertising. We periodically monitor the Sites of our clients to determine whether they are adequately disclosing and updating their privacy statements.
+We are a member of the Network Advertising Initiative (NAI) and adhere to the NAI Code of Conduct in those markets where these self-regulatory frameworks apply and are in effect. In accordance with the Code of Conduct, we require our Xaxis Marketplace (formerly Xaxis Publisher Network and 24/7 Access) clients to inform users about their privacy and information collection practices via their privacy policies and to include in their privacy policies information regarding the use of third-party advertising technology and services on their Sites, the types of data collected through these services, the use and distribution of that data, and a link to an industry standard opt-out from Interest-Based Advertising. We periodically monitor the Sites of our clients to determine whether they are adequately disclosing and updating their privacy statements.
 
 We fully support the digital advertising industry’s efforts to increase transparency in the area of Interest-Based Advertising and health segments. For more information on standard interest segments based on health-related information or interests that we may use for Interest-Based Advertising purposes, please [click here](https://www.xaxis.com/consumer-interest-segments/).
 
-You can also [click here](https://www.networkadvertising.org/) to reach the Network Advertising Initiative site, a central location for information about Interest-Based Advertising and the choices available to you, and to opt out of receiving third-party Interest-Based Advertising via cookies from us and NAI member companies.
+You can also [click here](https://www.networkadvertising.org/) to reach the Network Advertising Initiative site, a central location for information about Interest-Based Advertising and the choices available to you, and to opt out of receiving third-party Interest-Based Advertising via cookies from us and other NAI member companies.
 
 **Digital Advertising Alliance, European Interactive Digital Advertising Alliance, and Digital Advertising Alliance of Canada**
 
@@ -128,11 +133,11 @@ In the event that another company acquires all or substantially all of the asset
 
 We follow generally accepted online advertising industry standards to protect against unauthorized access to, unlawful processing of, unauthorized retention of, and unauthorized disclosure of data. These standards include undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use. Please keep in mind, however, that despite these efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure.
 
-Xaxis Services are used globally, and therefore we may transfer data to countries around the world, including countries outside your country. We will, where necessary, put in place appropriate safeguards to ensure this data is protected. When we transfer personal data from the EEA or Switzerland to an affiliate outside the EEA or Switzerland, we enter into standard (“model”) contractual clauses, with the recipient in order to ensure an appropriate level of data protection.  When we transfer personal data from the EEA or Switzerland to an unaffiliated entity (such as a service provider performing services on our behalf) outside the EEA or Switzerland, we either enter into standard (“model”) contractual clauses, and conditions, or ensure that the transfer is pursuant to another valid mechanism, such as the service provider being certified under the EU-U.S. Privacy Shield Framework.
+Xaxis Services are used globally, and therefore we may transfer data to countries around the world, including countries outside of your country. We will, where necessary, put in place appropriate safeguards to ensure this data is protected. When we transfer personal data from the EEA or Switzerland to an affiliate outside the EEA or Switzerland, we enter into standard (“model”) contractual clauses, with the recipient in order to ensure an appropriate level of data protection.  When we transfer personal data from the EEA or Switzerland to an unaffiliated entity (such as a service provider performing services on our behalf) outside the EEA or Switzerland, we either enter into standard (“model”) contractual clauses, or ensure that the transfer is pursuant to another valid mechanism, such as the service provider being certified under the EU-U.S. Privacy Shield Framework.
 
 **Data** **Retention**
 
-We maintain the information we collect through our Services in non-aggregated form for a period of not more than 13 months. This data includes Sites visited, content viewed, ad interactions, IP addresses, browser type and language settings. We maintain this information for the 13-month period to enable our clients to perform year-over-year analyses. For example, a retailer may wish to compare the effectiveness of its online advertising activities at Christmas for the current year vs. the effectiveness in the prior year. A 13-month retention period enables that client to perform such comparison.
+We maintain the information we collect through our Services in non-aggregated form for a period of not more than 13 months, and we retain much of this data for shorter periods of time. This data includes domain level information, content topics, ad interactions, IP addresses, browser type and language settings. We maintain this information for the 13-month period to enable our clients to perform year-over-year analyses. For example, a retailer may wish to compare the effectiveness of its online advertising activities at Christmas for the current year vs. the effectiveness in the prior year. A 13-month retention period enables that client to perform such comparison.
 
 We maintain information we collect through our Services in an aggregated form for a period longer than 13 months.
 
@@ -160,7 +165,7 @@ Xaxis uses this information in the following ways:
   * To provide you with information that you have requested;
   * To respond to specific queries you may raise regarding Xaxis, its business, the services it provides to clients, including its group companies;
   * To improve the content, speed, and security of the Xaxis Web Site; and/or
-  * To process and consider your CV and/or job application.
+  * To process and consider your CV and/or job application
 
 
 
@@ -184,7 +189,7 @@ We will keep your information that we collect on the Xaxis Web Site for a reason
 
 **Linking to Other Sites**
 
-The Xaxis Web Site links to third-party Sites. A link from any of our own Sites to another Site does not imply our endorsement of that Site. We do not control the Sites to which we link and are not responsible for their content or their privacy policies or practices. These Sites may use cookies, pixels, and other technology, and collect your information in accordance with their own privacy policies. Therefore, you should carefully review the privacy policies that apply to any Sites you access from our Site.
+The Xaxis Web Site links to third-party Sites. A link from any of our own Sites to another Site does not imply our endorsement of that Site. We do not control the Sites to which we link and are not responsible for their content or their privacy policies or practices. These Sites may use cookies, pixels, and other technology, and collect your information in accordance with their own privacy policies. Therefore, you should carefully review the privacy policies that apply to any Sites you access from the Xaxis Web Site.
 
 **Use of Cookies on the  ** **Xaxis  Web Site**
 
@@ -230,7 +235,7 @@ If you have provided consent to market research companies in the Netherlands to 
 
 **California**
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of “personal information” that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. To request a list of companies, if any, to which Xaxis has provided personal information for its own marketing purposes, please contact us through email at [privacy@xaxis.com](mailto:privacy@xaxis.com) or by mail at Xaxis, 140 East 45th Street, 12th Floor, New York, NY 10017, USA, Attn: Legal Department. Please allow 30 days for a response.
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of “personal information” that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. To request a list of companies, if any, to which Xaxis has provided personal information for its own marketing purposes, please contact us through email at [privacy@xaxis.com](mailto:privacy@xaxis.com) or by mail at Xaxis, 175 Greenwich Street, 3 WTC, 30th Floor, New York, NY 10007, USA, Attn: Legal Department. Please allow 30 days for a response.
 
 California law requires us to disclose how we respond to browser “Do Not Track” signals or other choice mechanisms relating to Interest-Based Advertising. We have not yet developed a response to browser “Do Not Track” signals, and do not change any of our data collection practices when we receive such signals. We will continue to evaluate potential responses to “Do Not Track” signals in light of industry developments or legal changes.
 
@@ -250,10 +255,10 @@ Other than when acting at the direction of a client or other third party, Xaxis 
 
 [DPO@GroupM.com](mailto:DPO@GroupM.com)
 
-LEGAL – Xaxis, 26 Red Lion Square, London, WC1R 4HQ, UK
+LEGAL – Xaxis, 4th Floor Hogarth House, 136 High Holborn, London, WC1V 6PX, UK
 
 **Worldwide (** **Xaxis** **, LLC)**
 
 [privacy@xaxis.com](mailto:privacy@xaxis.com)
 
-LEGAL – Xaxis, 140 East 45th Street, 12th Floor, New York, NY 10017, USA
+LEGAL – Xaxis, 175 Greenwich Street, 3 WTC, 30th Floor, New York, NY 10007, USA
