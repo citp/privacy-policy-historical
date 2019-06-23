@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevictoriaadvocate.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614062417id_/https%3A//www.victoriaadvocate.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevictoriaadvocate.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623064823id_/https%3A//www.victoriaadvocate.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | victoriaadvocate.com
 
@@ -28,7 +28,7 @@ The Victoria Advocate site contains links to other sites. The Victoria Advocate 
 
  **OPT OUT PROCEDURES**
 
-You always may opt out of receiving future mailings or other information from the Victoria Advocate. If the mailing does not have an e-mail cancellation form, send e-mail to jrubio@vicad.com detailing the type of information that you no longer desire to receive.
+You always may opt out of receiving future mailings or other information from the Victoria Advocate. If the mailing does not have an e-mail cancellation form, send e-mail to feedback@vicad.com detailing the type of information that you no longer desire to receive.
 
  **CHILDREN'S PRIVACY**
 
@@ -52,6 +52,10 @@ These terms and conditions constitute the entire agreement and understanding bet
 
 The Web site is controlled and operated by the Victoria Advocate from its principal office in Victoria, Texas, USA. The Victoria Advocate makes no representation that materials on the Web site are appropriate or available for use in other locations. Those who choose to access the Web site from other locations do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. The Web site is not intended to subject the Victoria Advocate to the laws or jurisdiction of any state, country or territory other than the State of Texas and the United States of America.
 
+ **COMMENTS ON ARTICLES**
+
+We reserve the right to use your comments and name within editorial purposes for the Victoria Advocate. We will not share your personal information related to your user accounts in any way other than previously stated.
+
  **CONTACTING US**
 
 If you have any questions about this privacy policy, the practices of the Victoria Advocate, or your dealings with the Victoria Advocate, you may contact us at:
@@ -62,13 +66,21 @@ Victoria Advocate
 
 311 E. Constitution St.
 
-Victoria, Texas 77902
+Victoria, Texas 77901
 
- **Phone:** 361-580-6571
+ **Phone:** 361-580-6519
 
  **Fax:** 361-574-1225
 
  **e-mail:** [feedback@vicad.com](mailto:feedback@vicad.com)
+
+#### E-Edition Notification
+
+Do you subscribe to our digital edition? If you do, be sure to subscribe to this mailing list and you'll be able to read the digital edition of our paper as early as 5am! Click [**HERE**](https://www.victoriaadvocate.com/users/admin/mailinglist/ "CLICK HERE") to sign up today!
+
+#### News Updates
+
+Would you like to receive our daily newsletter? Click [**HERE**](https://www.victoriaadvocate.com/users/admin/mailinglist/ "CLICK HERE") to signup today!
 
 #### E-Edition Notification
 
