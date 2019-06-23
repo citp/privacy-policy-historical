@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the datadoghq.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228085428id_/https%3A//www.datadoghq.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datadoghq.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623162538id_/https%3A//www.datadoghq.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Datadog
 
 Current as of
 
 ## Privacy Policy
+
+ **Privacy Policy**
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Datadog, Inc. (collectively, “Datadog,” “we” or “us”) when you use our website [<https://www.datadoghq.com/>] (“Website”), online products and monitoring services (“Platform”) (collectively, “Services”), or when you otherwise interact with us. This Privacy Policy also describes your choices regarding use, access and correction of personal information collected about you through our Services. Please read this Privacy Policy carefully and ensure that you understand it before you start to use our Services.
 
@@ -14,13 +16,12 @@ By accessing and using the Services, you acknowledge that you have read and unde
 
 Please use the links below to access the specific sections of this Privacy Policy:
 
-  * Information You Provide to Us On through the Services Website
+  * Information You Provide to Us On through the ServicesWebsite
   * Information We Collect Automatically When You Use the Services
   * Information We Collect from Other Sources
   * Use of Information
   * Sharing of Information
   * Lawful Basis For Processing Your Information
-  * External Links
   * Social Sharing Features
   * Log-in Features
   * Advertising and Analytics Services Provided by Others
@@ -34,11 +35,11 @@ Please use the links below to access the specific sections of this Privacy Polic
 
 
 
-###  Information You Provide to Us through the Services
+#####  **Information You Provide to Us through the Services**
 
-We collect and process information you provide directly to us via the Services. Personal data submitted through the Services include the details you submit when you create an account, participate in any interactive features of the Services, fill out a form, pay for subscriptions, apply for a job, communicate with us via third party social media sites, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, company name, postal address, phone number and any other information you choose to provide. To the extent you provide credit card information through the Services, that information is collected and processed by our third-party payment processor pursuant to their Privacy Policy and practices. Our payment processor is Stripe, Inc. and their privacy policy can be found here <https://stripe.com/us/privacy>.
+We collect and process information you provide directly to us via the Services. Personal data submitted through the Services include the details you submit when you create an account, participate in any interactive features of the Services, fill out a form, pay for subscriptions, apply for a job, communicate with us via third party social media sites, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, company name, postal address, phone number and any other information you choose to provide. To the extent you provide credit card information through the Services, that information is collected and processed by our third-party payment processor pursuant to their Privacy Policy and practices. Our payment processor is PayPal, Inc. (“Braintree”) and their privacy policy can be found here <https://www.braintreepayments.com/legal/braintree-privacy-policy>.
 
-###  Information We Collect Automatically When You Use the Services
+#####  **Information We Collect Automatically When You Use the Services**
 
 When you access or use the Services we automatically collect information about you, including:
 
@@ -49,11 +50,11 @@ When you access or use the Services we automatically collect information about y
 
 
 
-###  Information We Collect from Other Sources
+#####  **Information We Collect from Other Sources**
 
 We may also obtain information from other sources and combine that with information we collect through our Services for purposes of advertising and user authentication. For example, if you create or log into your Datadog account using your Google Apps credentials via single sign-on, we will have access to certain information such as your name and email address as authorized in your Google Apps profile settings.
 
-###  Use of Information
+#####  **Use of Information**
 
 We may use information about you to:
 
@@ -90,7 +91,7 @@ We may use information about you to:
 
 
 
-###  Sharing of Information
+#####  **Sharing of Information**
 
 We may share your personal information as follows or as otherwise described in this Privacy Policy:
 
@@ -113,7 +114,7 @@ We may share your personal information as follows or as otherwise described in t
 
 We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-###  Lawful Basis For Processing Your Information
+#####  **Lawful Basis For Processing Your Information**
 
 We are required to state the lawful basis under which we process the personal data of our users from the European Union. Accordingly, the lawful bases upon which we process your personal information are as follows:
 
@@ -126,33 +127,33 @@ We are required to state the lawful basis under which we process the personal da
 
 
 
-###  External Links
+#####  **External Links**
 
 The Website may, from time to time, contain links to external sites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. We are not responsible for the privacy policies or the content of such sites.
 
 The Website may offer social sharing features and other integrated tools (such as the Twitter logo (Larry the Bird)), which lets you share information you find on our website with other media, and vice versa. The Twitter plugin is identifiable by the Twitter (Larry the Bird) logo on our Website. When you visit one of our pages the plugin establishes a direct connection between your browser and the Twitter server. Thus, Twitter receives information from your browser as set out in Twitter’s privacy policy (see below). Please note that we, as provider of the pages, have no knowledge as to the contents of the submitted data or its use by Twitter. For further information please see Twitter’s privacy policy at <https://twitter.com/en/privacy#update>. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-###  Log-in Features
+#####  **Log-in Features**
 
-We may allow you to sign up and log in using your Google account. If you sign up using your Google email account, Google will ask your permission to share certain information from your Google account with us. This may include your first name, last name, gender, general location, your timezone and birthday. This information is collected by Google and is provided to us under the terms of Google’s privacy policy which you can find here: <https://policies.google.com/privacy>. You can control the information that we receive from Google using the privacy settings in your Google account.
+We may allow you to sign up and log in using your Google account. If you sign up using your Google email account, Google will ask your permission to share certain information from your Google account with us. This may include your first name, last name, gender, general location, your timezone and birthday. This information is collected by Google and is provided to us under the terms of Google’s privacy policy which you can find here: <https://www.google.co.uk/intl/en/policies/privacy/>. You can control the information that we receive from Google using the privacy settings in your Google account.
 
-###  Advertising and Analytics Services Provided by Others
+#####  **Advertising and Analytics Services Provided by Others**
 
 We allow the following companies to serve advertisements on our behalf across the Internet and in applications: Google AdWords, Google analytics, Marketo, Twitter, Facebook, Adroll, Quora, Bing ads, Linkedin, Terminus, Demand base, Instagram, and Reddit using email address and cookies that are collected. These entities use technologies including cookies, web beacons, device identifiers and other tools to collect information about your use of the Services and other websites and applications, including your IP address, web browser, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Datadog and Datadog service providers to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about cookies, please see below and for further information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please see Datadog’s Cookie Policy at <https://www.datadoghq.com/legal/cookies/>.
 
-###  Information Collected on Behalf of Customers in providing our Platform
+#####  **Information Collected on Behalf of Customers in providing our Platform**
 
 In the case of personal information we handle or receive on behalf of a customer in connection with their access to, and use of, our Platform (“Customer PI”), we have no direct relationship with the customer’s employees or other individuals with whom that customer may interact with respect to the Platform. If you are such an employee or individual and are seeking access to, or would like to correct, amend or delete, Customer PI, you should direct your query to the applicable customer. We will respond within a reasonable timeframe to a customer’s request to remove Customer PI. Please note that the foregoing will not limit EU individuals from making certain requests relating to their personal data as provided in Your Rights below.
 
 We will not use Customer PI except for the purpose of providing and supporting the Services for the applicable customer. Customer PI will be retained for as long as needed for that purpose and as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-###  Marketing
+#####  **Marketing**
 
-Where permitted in our legitimate interest or with your prior consent where required by law, we will use your personal information for marketing and to provide you with promotional update communications by email about our products/services.
+Where permitted in our legitimate interest or with your prior consent where required by law, we will use your personal information for marketing and to provide you with promotional update communications by email about our products/services. You can object to further marketing at any time by selecting the “unsubscribe” link at the end of all our marketing and promotional electronic communications to you, or by contacting us using the contact details set out at in the Your Choices and Your Rights sections of this Privacy Policy.
 
-You can object to further marketing at any time by selecting the “unsubscribe” link at the end of all our marketing and promotional electronic communications to you, or by contacting us using the contact details set out at in the Your Choices and Your Rights sections of this Privacy Policy.
+As part of the registration process for events hosted by Datadog which you register to attend, we may request personal data such as: your name, address, email address and telephone number, and details relevant to your occupation or employer. This information is required to process your registration for the event and to provide you with relevant event materials. This data may be shared with third party service providers engaged by us as more fully explained in the Sharing of Information section of this Privacy Policy. If you show an interest in an exhibitor at an event hosted by Datadog, such as by consenting to have your attendee badge scanned, we will provide your data to such exhibitors who may contact you for their own direct advertising and marketing purposes. In that case, the exhibitors’ use of your information would be subject the exhibitors’ privacy policies. For events sponsored by Datadog, the event host may provide your personal data to Datadog, subject to your consent. Datadog will use the data as set forth in the Use of Information section of this Privacy Policy.
 
-###  Security
+#####  **Security**
 
 We take reasonable steps, including physical, technical and organisational measures, to protect your personal information from unauthorised access and against unlawful processing, accidental loss, destruction and damage. Unfortunately, transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information submitted to us.
 
@@ -160,19 +161,19 @@ Your personal information will be retained by Datadog for the duration of your a
 
 We may retain a record of your stated objection to the processing of your data, including in respect of an objection to receiving marketing communications, for the sole legitimate purpose of ensuring that we can continue to respect your wishes and not contact you further, during the term of your objection.
 
-###  Transfer of Information to the U.S. and Other Countries
+#####  **Transfer of Information to the U.S. and Other Countries**
 
 Datadog is based in the United States. By accessing or using the Services or otherwise providing information to us, you understand that your information will be subject to processing, transfer and storage in and to the U.S. where you may not have the same rights and protections as you do under local law.
 
-In connection with Datadog’s processing of personal data it receives in the U.S. from the European Union (“EU Data”), Datadog participates in, and has certified its compliance with, the EU-U.S. Privacy Shield Framework (“Framework”) – see our listing here: [https://www.privacyshield.gov](https://www.privacyshield.gov/participant?id=a2zt0000000GnxPAAS&status=Active) . Datadog is committed to subjecting all EU Data, in reliance on the Framework, to the Framework’s applicable Principles. For purposes of enforcing compliance with the Framework, Datadog is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. For more information about the Principles, please visit the U.S. Department of Commerce’s Privacy Shield website.
+In connection with Datadog’s processing of personal data it receives in the U.S. from the European Union (“EU Data”), Datadog participates in, and complies with, the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework (collectively, the “Frameworks”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Datadog has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. Datadog is committed to subjecting all EU Data, in reliance on the Frameworks, to the Frameworks’ applicable Principles. For purposes of enforcing compliance with the Frameworks, Datadog is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 Without limiting the above, Datadog adheres to the Principle of Accountability for Onward Transfer. As noted in Sharing of Information above, we may transfer personal information (including EU Data) to our vendors, consultants and other service providers who need access to such EU Data to carry out work on our behalf. This personal data may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”) that may not be subject to equivalent data protection law.
 
 Please direct any inquiries or complaints regarding our compliance with the Principles to the point of contact listed in the Contact Us section below. If Datadog does not resolve your complaint, you may submit your complaint free of charge to Datadog’s U.S.-based third party dispute resolution provider and designated Privacy Shield dispute resolution provider here: <https://feedback-form.truste.com/watchdog/request>. Under certain conditions specified by the Principles and more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may also be able to invoke binding arbitration to resolve your complaint.
 
-###  Your Rights
+#####  **Your Rights**
 
-EU individuals have rights in relation to their personal data which is processed by Datadog. If you are an EU data subject, you may, by emailing us at [gdpr@datadoghq.com](mailto:gdpr@datadoghq.com):
+EU individuals have rights in relation to their personal data which is processed by Datadog. If you are an EU data subject, you may, by emailing us at gdpr@datadoghq.com :
 
   * Request access to the personal data concerned.
 
@@ -182,31 +183,31 @@ EU individuals have rights in relation to their personal data which is processed
 
   * Withdraw your consent at any time where we are processing personal data relating to you on the basis of your prior consent to that processing, after which we shall stop the processing concerned.
 
-  * Lodge a formal compliant with the Information Commissioner in Ireland (or your local EU supervisory authority if you live outside Ireland) if you have a complaint about any processing of your personal data being conducted by us.
+  * Lodge a formal compliant with the Information Commissioner in Ireland (or your local EU supervisory authority if you live outside the UK) if you have a complaint about any processing of your personal data being conducted by us.
 
 
 
 
 If the requested EU Data is Customer PI, please include the name of the applicable customer in your request; we will refer the request to that customer to respond directly to you and will support them as needed to respond to your request.
 
-###  Your Choices
+#####  **Your Choices**
 
-#### Account Information
+Account Information
 
-Our customers may access, update or change personal information they have provided by logging into the Services or emailing us at [help@datadoghq.com](mailto:help@datadoghq.com).
+Our customers may access, update or change personal information they have provided by logging into the Services or emailing us at help@datadoghq.com.
 
-Subject to the terms of their agreements with us, Customers may deactivate their accounts by emailing us at [help@datadoghq.com](mailto:help@datadoghq.com), but note that we may retain certain personal information as necessary to comply with our legal obligations or for legitimate business purposes, such as to resolve disputes or enforce our agreements. We may also retain cached or archived copies of personal information for a certain period of time.
+Subject to the terms of their agreements with us, Customers may deactivate their accounts by emailing us at help@datadoghq.com, but note that we may retain certain personal information as necessary to comply with our legal obligations or for legitimate business purposes, such as to resolve disputes or enforce our agreements. We may also retain cached or archived copies of personal information for a certain period of time.
 
 If you are an individual with whom one of our customers interacts with respect to the Services (e.g., an employee of a customer), as noted above, you should direct any requests regarding access, modification or deletion of personal information to the applicable customer.
 
-#### Cookies
+ _Cookies_
 
 Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. For more information, please see Datadog’s Cookie Policy at <https://www.datadoghq.com/legal/cookies/>.
 
-#### Promotional Communications
+ _Promotional Communications_
 
-You may opt out of receiving promotional emails from Datadog by following the instructions in those emails or by emailing [help@datadoghq.com](mailto:help@datadoghq.com)m. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
+You may opt out of receiving promotional emails from Datadog by following the instructions in those emails or by emailing help@datadoghq.com. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
 
-###  Contact Us
+#####  **Contact Us**
 
-If you have questions or concerns about this Privacy Policy, please contact us at: Datadog, Inc., 620 8th Avenue, Floor 45, New York, NY 10018; Email: [gdpr@datadoghq.com](mailto:gdpr@datadoghq.com).
+If you have questions or concerns about this Privacy Policy, please contact us at: Datadog, Inc., 620 8th Avenue, Floor 45, New York, NY 10018; Email: gdpr@datadoghq.com.
