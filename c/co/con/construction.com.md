@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028173523id_/https%3A//www.construction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623122055id_/https%3A//www.construction.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | Dodge Data and Analytics
 
@@ -40,7 +40,7 @@ In connection with these legitimate business purposes, your PII may potentially 
 
  **If you want to limit use or sharing of your PII for marketing purposes:**
 
-[Click here](http://www.construction.com/Privacy_opt-out/) or send an email to [Construction.Privacy.Policy@construction.com](mailto:Construction.Privacy.Policy@construction.com) or write Privacy Officer, Dodge Data & Analytics, 300 American Metro Blvd, Suite 185, Hamilton, NJ 08619-2371 with the following instructions:
+[Click here](https://www.construction.com/Privacy_opt-out/) or send an email to [Construction.Privacy.Policy@construction.com](mailto:Construction.Privacy.Policy@construction.com) or write Privacy Officer, Dodge Data & Analytics, 300 American Metro Blvd, Suite 185, Hamilton, NJ 08619-2371 with the following instructions:
 
 ______I do not want to be contacted by Dodge Data & Analytics through any method for marketing purposes.
 
@@ -77,15 +77,15 @@ In addition, we and some of our advertisers use remarketing cookies, which allow
 
 You can change your Web browser’s Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below:
 
-[Internet Explorer](http://support.microsoft.com/kb/196955)
+[Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
 
-[Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
+[Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
 
-[Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+[Chrome](https://support.google.com/chrome/answer/95647?hl=en)
 
-[Safari](http://support.apple.com/kb/PH5042)
+[Safari](https://support.apple.com/kb/PH5042)
 
-[Opera](http://www.opera.com/browser/tutorials/security/privacy/)
+[Opera](https://www.opera.com/help)
 
 Until “Do Not Track” protocol has been finalized, this site’s information collection and disclosure practices, and the choices it provides to consumers, will continue to operate as described in this Privacy and Cookie Notice, whether or not a Do Not Track signal is received.
 
