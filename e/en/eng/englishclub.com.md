@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the englishclub.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108093413id_/https%3A//www.englishclub.com/efl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishclub.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623212658id_/https%3A//www.englishclub.com/efl/ec/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | EnglishClub
 
-EnglishClub.com (EnglishClub/we) is based in Cambridge, England and may be [contacted here](https://www.englishclub.com/efl/contact-form/). Like most websites, EnglishClub receives or actively collects personal data that may identify an individual visitor (you/your). This notice outlines the personal data we collect, how we use it and your rights concerning that data.
+EnglishClub.com (EnglishClub/we) is based in Cambridge, England and may be [contacted here](https://www.englishclub.com/efl/ec/contact-form/). Like most websites, EnglishClub receives or actively collects personal data that may identify an individual visitor (you/your). This notice outlines the personal data we collect, how we use it and your rights concerning that data.
 
 ## What personal data we collect
 
@@ -51,12 +51,9 @@ These cookies are used to ensure you can correctly navigate EnglishClub, play vi
 **Performance**  
 These cookies are used to analyse trends, administer the website, track visitor movements and gather demographic information for aggregate use and to help us improve EnglishClub. These cookies are not personally identifiable.
 
-**Sharing**  
-Social media sharing buttons on EnglishClub are managed by the third party AddThis using cookies. EnglishClub has no control over AddThis cookies but [you can opt out of them here](http://www.addthis.com/privacy/opt-out).
-
 ### How to manage cookies
 
-You can set your browser to accept or reject some or all cookies. For instructions on managing cookies, please see your browser’s Help section or visit [AboutCookies.org](https://www.aboutcookies.org/). Be aware that some parts of EnglishClub may not function after you change your cookie settings.
+You can set your browser to accept or reject some or all cookies. For instructions on managing cookies, please see your browser’s Help section or visit AboutCookies.org. Be aware that some parts of EnglishClub may not function after you change your cookie settings.
 
 ## **Advertising**
 
@@ -93,7 +90,7 @@ We may change this Privacy Notice. In that case, any changes will apply to you a
 
 ## Your rights
 
-You have the right [to request](https://www.englishclub.com/efl/contact-form/):  
+You have the right [to request](https://www.englishclub.com/efl/ec/contact-form/):  
 • a copy of your personal data  
 • information on how we use your personal data  
 • the correction of any inaccuracies in your personal data  
