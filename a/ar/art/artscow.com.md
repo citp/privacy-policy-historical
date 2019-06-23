@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artscow.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106140743id_/https%3A//www.artscow.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artscow.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623085021id_/https%3A//www.artscow.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Custom Apparel, Personalized Gifts, DIY Decor | ArtsCow
 
