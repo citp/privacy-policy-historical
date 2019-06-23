@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cricketzine.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123165805id_/http%3A//www.cricketzine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketzine.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623175453id_/http%3A//www.cricketzine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy-CricketZine
 
 #### Privacy Policy for CricketZine
 
-(Updated on May 29, 2018)
+(Updated on June 10, 2019)
 
  **CricketZine** (“us”, “we”, or “our”) operates www.cricketzine.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
