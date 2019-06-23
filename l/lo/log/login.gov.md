@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the login.gov privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009195757id_/https%3A//login.gov/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the login.gov privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623164712id_/https%3A//login.gov/policy) for the most accurate reproduction.*
 
 # login.gov | Privacy & security
-
-Your privacy is very important to us. We’re providing you with our privacy policy so you are aware of what information we collect, why we collect it, and what we do with it. login.gov does not collect your email address or phone number unless you choose to provide it. We do collect other limited information automatically from visitors who read or browse information from our site. We do this to better understand how the site is being used and how we can make it more helpful. 
-
-If you create an account, login.gov collects personally identifiable information (PII) from you, including your email address and phone number. We collect your email address and with your consent share it with each federal agency (“partner agency”) at which you are seeking to access information and services. We collect your phone number in order to enable two-factor authentication as a security measure for your login.gov account. Your phone number is only sent to a one-time password service provider, not any of the partner agencies. 
-
-##  Our privacy practices 
 
 This privacy notice describes how we ask for, use, retain, and protect your personal information, as well as your obligation to disclose it.
 
@@ -34,20 +28,4 @@ Your email address and phone number will be maintained for at least six years in
 
 ### Privacy Impact Assessment
 
-View our [Privacy Impact Assessment](https://web.archive.org/docs/privacy-impact-assessment.pdf).
-
-##  Our security practices 
-
-login.gov uses a variety of security methods to protect this U.S. government service and your data, and to ensure the service remains available to all users. These methods include monitoring and recording network traffic (any data going in and out of login.gov) to identify unauthorized attempts to change information, or otherwise cause damage.
-
-Unauthorized access or use of login.gov (e.g. use for criminal purposes, or to cause damage, etc) is against the law, and may subject you to criminal prosecution and penalties.
-
-### Vulnerability Disclosure Policy
-
-login.gov authorizes the outside security community to perform security research for the intent of reporting discovered security vulnerabilities in the login.gov platform.
-
-View our [Vulnerability Disclosure Policy](https://18f.gsa.gov/vulnerability-disclosure-policy/) for details on this policy and how to report discovered vulnerabilities.
-
-### For more information
-
-We are happy to answer questions about our security and privacy practices. For more information, please visit [Help](https://web.archive.org/help) or [contact us](https://web.archive.org/contact).
+View our [Privacy Impact Assessment](https://web.archive.org/docs/Privacy-Impact-Assessment%209-18.pdf).
