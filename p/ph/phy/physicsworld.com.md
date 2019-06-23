@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the physicsworld.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030193204id_/http%3A//ioppublishing.org/legal-statements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicsworld.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623192042id_/http%3A//ioppublishing.org/legal-statements/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and cookies - iopppublishing
+# Privacy and cookies - IOP Publishing
 
 ## Who we are
 
@@ -101,7 +101,7 @@ Our use of your personal information for marketing activities
 If you would like to stop receiving marketing emails from us, you can let us know by:
 
   * clicking the “unsubscribe” link in any promotional e-mails you receive from us;
-  * e-mailing us at [data.protection@iop.org](mailto:data.protection@iop.org) (please ensure you tell us if you would like to opt out from all e-mail marketing communications or just a particular update; and/or
+  * e-mailing us at [customerservices@iop.org](mailto:customerservices@iop.org) (please ensure you tell us if you would like to opt out from all e-mail marketing communications or just a particular update; and/or
   * phoning us on 0117 929 7481 (Mon–Fri 9am–5pm BST/GMT).
 
 
