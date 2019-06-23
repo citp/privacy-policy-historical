@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsdaily.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227113745id_/https%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsdaily.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623123645id_/https%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy -- ScienceDaily
 
