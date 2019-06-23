@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthfinder.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017160315id_/https%3A//www.truthfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthfinder.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623045118id_/https%3A//www.truthfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy (Updated 2017-2018)
 
@@ -14,7 +14,7 @@ This Privacy Policy describes the information practices of TruthFinder, LLC. ("T
 
 Personal Information Collected. In order for you to access and purchase products offered via the Site, we may require you to provide information that personally identifies you ("Personal Information"). Personal Information may include the following categories of information: (1) Contact Data (such as your name, mailing address, and e-mail address); (2) Financial Data (such as your account or credit card number); and (3) Demographic Data (such as your zip code and age). If you communicate with us by email, post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or contest entries, any information provided may be collected as Personal Information.
 
-Traffic Data Collected. We may automatically track and collect the following categories of information when you visit our Site including: (1) events data including: (i) Internet Protocol ("IP") address, (ii) access times, (iii) browser type and language, (iv) Internet Service Provider ("ISP"), (v) the pages you visit on our Site, (vi) the Content you view on our Site and (vi) the URL of the page that you referred you to our website; (2) domain servers; and (3) types of devices accessing the Site; and (4) (collectively "Traffic Data").
+Traffic Data Collected. We may automatically track and collect the following categories of information when you visit our Site including: (1) events data including: (i) Internet Protocol ("IP") address, (ii) access times, (iii) browser type and language, (iv) Internet Service Provider ("ISP"), (v) the pages you visit on our Site, (vi) the Content you view on our Site and (vi) the URL of the page that you referred you to our website; (2) domain servers; and (3) types of devices accessing the Site; and (4) (collectively "Traffic Data"). If you are a law enforcement officer seeking information from TruthFinder about one of our users, please reference our [Law Enforcement Guidelines](https://web.archive.org/law-enforcement/) for further information.
 
 #### ii. Uses of Information Collected
 
@@ -80,7 +80,7 @@ By submitting your email address via the Site, you are expressly consenting to r
 
 TruthFinder may conduct or co-sponsor contests, sweepstakes, or other offerings. In such circumstances, the information we obtain from you may be shared with our co-sponsor. Our co-sponsors will have the right to use your information for their own purposes, in accordance with their own privacy policies. If you do not wish for the information we obtain from you to be shared with our co-sponsor, please do not participate in these offerings.
 
-viii. Testimonials
+#### viii. Testimonials
 
 We publish testimonials provided by our satisfied customers on our Site in addition to other endorsements. If you provide a testimonial, we may publish it on our Site using your first name and last initial.
 
@@ -99,10 +99,6 @@ TruthFinder may make your Personal Information available to third parties for th
 #### iii. Security
 
 TruthFinder uses reasonable security measures to protect against the loss, misuse, and alteration of the information under TruthFinder's control. 
-
-### 4\. Public Information
-
-The Site contains links to websites not operated by TruthFinder. We are not responsible for the privacy practices or the content of such websites. Please review the privacy policies of each site you visit. We may also make chat rooms, forums, message boards, and news groups available to you. Please understand that any information that is disclosed in these areas becomes accessible to the public. You should exercise caution when deciding to disclose your Personal Information in a public forum.
 
 ### 4\. Public Information
 
