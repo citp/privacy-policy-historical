@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartertravel.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226191015id_/https%3A//www.smartertravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertravel.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624004839id_/https%3A//www.smartertravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SmarterTravel
 
@@ -14,7 +14,7 @@ _SmarterTravel is committed to safeguarding your privacy. We do not rent or sell
 
 If you have any questions or concerns over SmarterTravel’s Privacy Policy, please feel free to contact [privacy@SmarterTravel.com](mailto:privacy@SmarterTravel.com).
 
-By accessing a SmarterTravel publication and by subscribing to a SmarterTravel newsletter, you agree to our current [Terms of Use](http://www.smartertravel.com/us/terms.html).
+By accessing a SmarterTravel publication and by subscribing to a SmarterTravel newsletter, you agree to our current [Terms of Use](https://www.smartertravel.com/terms-of-use/).
 
 **Site Registration**
 
