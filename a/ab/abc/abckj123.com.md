@@ -1,50 +1,61 @@
-> *The following text is extracted and transformed from the abckj123.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210014643id_/http%3A//paypopup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abckj123.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623205516id_/http%3A//www.yesuphost.com/privacy-policy) for the most accurate reproduction.*
 
-# Targeted Internet Advertising
+# Privacy Policy
 
-  |  |   
----  
-| [Home](https://web.archive.org/web/20181210014643id_/http%3A//paypopup.com/index.php) | [Advertisers](https://web.archive.org/web/20181210014643id_/http%3A//paypopup.com/advertisers.php) | [Publishers](https://web.archive.org/web/20181210014643id_/http%3A//paypopup.com/webmasters_affiliate_program.php) | [Resellers](https://web.archive.org/web/20181210014643id_/http%3A//paypopup.com/traffic_resellers.php) | [Technology](https://web.archive.org/web/20181210014643id_/http%3A//paypopup.com/advertising_technology.php) | [Company](https://web.archive.org/web/20181210014643id_/http%3A//paypopup.com/company.php)  
----|---|---|---|---|---  
-|  | 
+At Yesup, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor’s will. We do not and will not share any personal information with any third parties unless by governmental order. We have NO access to any information collected by our Payment Services Providers and you may direct further inquiries here:
 
-|  | Privacy  
----|---  
-  
-|   
-Your **Personal Information** |    
----|---  
-At paypopup.com (PayPopUp) we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. 
+PayPal: http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside
 
-We have NO access to any information collected by our Payment Services providers and you may direct further inquiries here:   
-PAYPAL [ http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside)  
-2CHECKOUT <http://www.2checkout.com/faqs.htm>
+**Cookies**
 
-|    
-  |    
-Cookies |    
-All browsers offer "cookies" and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a simple piece of text. It is not a program, or a plug-in. It cannot be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like best and allow content to be customized upon your return, according to prior preferences at that site. They gather and hold NO personal information. **  
-At PayPopUp We may use cookies to:**   
-::Save your password so you don't have to re-enter it each time you visit our sites.  
-We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. For more information on how to modify your browser settings to block or filter cookies, see [ http://www.cookiecentral.com/faq/](http://www.cookiecentral.com/faq/). 
+All browsers offer “cookies” and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information.
 
-However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
+At Yesup, we may use cookies to store your password so you don’t have to re-enter it each time you visit our sites.
 
-|    
-  |    
-Third Party Cookies At Our Sites  |    
-While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain. Please contact the Payment Services provider for more information:  
-PAYPAL [ http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside)  
-2CHECKOUT <http://www.2checkout.com/faqs.htm> |    
-  |    
-Registration Forms  |    
-Our site's registration form requires users to supply contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary. It is never sold or shared.  |    
-  |   
-**External Links** |   
-This site contains links to other sites. PayPopUp is not responsible for the privacy practices or the content of such Web sites once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links. [ webmaster@paypopup.com](mailto:webmaster@paypopup.com)   
-  |   
-  |    
-Contacting the Web Site  |    
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ webmaster@paypopup.com](mailto:webmaster@paypopup.com)  
-  
- 
+Yesup will NOT:
+
+– Use cookies to identify, monitor or track any personally identifiable information.  
+– Have cookies that contain any personally identifiable information about you.  
+– Merge or associate our cookie information with any other visitor’s confidential and identifiable data obtained by us or from 3rd parties. You also have flexible choices in respect to cookies. By simply modifying your browser preferences, you have the right to choose whether to accept all cookies, to be notified when a cookie is set or to reject all cookies. For more information on how to modify your browser settings in order to block or filter cookies, please visit http://www.cookiecentral.com/faq/.
+
+However, please note that if you reject some or all cookies, your experience at our sites and on other sites throughout the web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you disable cookies, you will not be eligible to take advantage of personalized content delivery offered by us or other Internet sites.
+
+**Third Party Cookies At Our Sites**
+
+While we use cookies in other parts of our website, cookies received with the payment process are placed by our payment service provider. We do not have access to these cookies or any information that they may contain. Please contact the payment service provider for more information as noted above.
+
+**Registration Forms**
+
+Our site’s registration form requires users to provide contact information, such as their name, email, and postal address. This contact information is only used to get in touch with the customer when necessary and is never sold or shared.
+
+**External Links**
+
+This site contains links to other sites. Yesup is not responsible for the privacy practices or the content of the websites you visit once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links.
+
+webmaster@Yesup.com
+
+**Sending Emails to Our Clients**
+
+Please note that we send all new members a verification email to verify password and username. By submitting your email to us when you create an account, your email will be added within our opt-in email contact list. Members will receive periodic emails with information such as newsletters, email promotions on products or services, or special deals, from Yesup, as well as any companies affiliated with Yesup as well. If you wish to stop receiving these emails, you can click on the unsubscribe link that’s included with every email or contact us directly.
+
+**Your Rights & the EU General Data Protection Act**
+
+We are committed to GDPR compliance when enforcement begins on May 25, 2018. If you are a resident of the European Economic Area, you have the following rights with respect to data for which Yesup is the Data Controller:
+
+1\. The right to request access to, or ask us to provide you with copies of, Personal Data that we hold about you at any time, which may be subject to a fee specified by law for processing your request (but not for making a request for access). If Yesup is the Data Controller with respect to your data, we will respond to your request within a reasonable period, and if Yesup is the Data Processor with respect to your data, we may redirect your request to Yesup’s customer acting as the Data Controller with respect to your data. We may decline a request for access to Personal Data in circumstances prescribed by relevant privacy laws. If we decline a request, we will provide you with a written notice that sets out the reasons for the refusal (unless it would be unreasonable to provide those reasons) and provide you with a statement regarding the mechanisms available to you to make a complaint;
+
+2\. The right to ask us to delete any Personal Data that we hold about you free of charge, unless we are required to maintain a copy of this data pursuant to applicable law;
+
+3\. The right to ask us to update and correct any out-of-date or incorrect or inaccurate Personal Data that we hold about you free of charge. We will take reasonable steps to correct the information so that it is accurate, complete and up to date. If we refuse to correct your Personal Data, we will provide you with a written notice that sets out the reasons for our refusal (unless it would be unreasonable to provide those reasons) and provide you with a statement regarding the mechanisms available to you to make a complaint;
+
+4\. The right to opt out of any marketing communications that we (or any third-party to whom we have disclosed your Personal Data with your consent) may send you or to withdraw your prior consent or object to any further processing of your Personal Data;
+
+5\. The right to request information about any automated decisions made using your Personal Data that have legal consequences for you or which significantly affect you; and
+
+6\. The right to lodge a complaint with your local Data Protection Authority concerning Yesup’s processing of your Personal Data.
+
+If you wish to exercise any of the above rights, send us an email at privacy@Yesup.com headed “Data Subject Request.” Before we process any request, we may ask you for certain Personal Data to verify your identity, and in situations where Yesup is the Data Processor, consult with the Data Controller of your data. Where permitted by local law, we may reject requests that are unreasonable or impractical. Please allow us a reasonable time to respond to your inquiries and requests.
+
+**Contacting the Website**
+
+If you have any questions about this privacy statement, the practices of this site, or concerns about this website, please contact: webmaster@Yesup.com
