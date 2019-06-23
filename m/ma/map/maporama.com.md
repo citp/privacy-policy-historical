@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maporama.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223122932id_/https%3A//www.tibco.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maporama.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623234733id_/https%3A//www.tibco.com/company/privacy) for the most accurate reproduction.*
 
 # TIBCO Privacy Policy | TIBCO Software
 
@@ -6,17 +6,17 @@ TIBCO Software Inc. ("TIBCO" "we" or "us") is committed to protecting our users'
 
 ### EU-U.S. Privacy Shield
 
-TIBCO participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce's Privacy Shield List](https://www.privacyshield.gov/list).
+TIBCO participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and the United Kingdom, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce's Privacy Shield List](https://www.privacyshield.gov/list).
 
-TIBCO is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf in certain circumstances.  We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+TIBCO is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf in certain circumstances. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and the United Kingdom, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, TIBCO is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, TIBCO is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 TIBCO acknowledges that under Privacy Shield there exists a right to access your personal information. Please see our "Services" section below for further detail regarding access.
 
-Pursuant to Article 37 of the European Union’s General Data Protection Regulation, TIBCO has appointed a Data Protection Officer, Christoph M. Alberts. Mr. Alberts may be reached by email at [privacy@tibco.com](mailto:privacy@tibco.com).
+Pursuant to Article 37 of the European Union’s General Data Protection Regulation, TIBCO has appointed a Data Protection Officer, Nicole Janson-Ebeling. Ms. Janson-Ebeling may be reached by email at [privacy@tibco.com](mailto:privacy@tibco.com).
 
 This Policy will explain the following regarding use of our Site:
 
@@ -40,7 +40,7 @@ In order to better provide you with services, we collect two types of informatio
 
 Personal Information refers to the specifics of who you are, such as your name, address, telephone number, email address and any other information needed to provide a service to you while using our Offerings. We gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected information with other information we collect about you to improve services, marketing, analytics, or site functionality.
 
-When you download and use our Mobile Apps, we automatically collect information regarding your device system and performance information, such as operating system version, operation system type, hardware usage statistics, and app version. We may also access the device file storage for photos, microphone, camera, and contacts. You can opt out of this at the device level.
+When you download and use our Mobile Apps, we automatically collect information regarding your device system and performance information, such as operating system version, operation system type, hardware usage statistics, and app version. This information is collected to assist us in providing, maintaining and optimizing the services that we are providing to you. We may also access the device file storage for photos, microphone, camera, and contacts. This allows us to customize our services for you, including providing recommendations, personalized content, and customized search results. You can opt out of this at the device level.
 
 TIBCO collects Personal Information when you register with TIBCO for a TIBCO account as a customer, potential customer, or guest user, when you use certain TIBCO products or services, when you register to attend a seminar or participate in an online forum, blog, or a voluntary survey, when you ask to be included in an email or other mailing list (see "Choice/Opt-Out" below), when you submit an entry for promotions, or when you submit your Personal Information to TIBCO for any other reason. We use the Personal Information that we collect to send you information that you have requested, respond to an inquiry, or to facilitate the features in our Offerings as described in this Policy. From time to time, TIBCO receives Personal Information from business partners and vendors. TIBCO only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Policy.
 
@@ -82,7 +82,7 @@ We will occasionally send you information on products, services, special deals, 
 
 #### Newsletters
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, visiting the TIBCO Subscription Management Center at <http://marketo.tibco.com/subscription-management-center.html>, or by or by emailing us at [privacy@tibco.com](mailto:privacy@tibco.com). If you contact us by e-mail, we will respond to your request within 30 days.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, visiting the TIBCO Subscription Management Center at <http://marketo.tibco.com/subscription-management-center.html>, or by or by emailing us at [privacy@tibco.com](mailto:privacy@tibco.com). If you contact us by e-mail, we will respond to your request within 30 days.
 
 #### Push Notifications
 
@@ -100,7 +100,7 @@ Based upon the Personal Information you provide us, we will send you a welcoming
 
 ## 2\. With whom do we share your information?
 
-Because TIBCO is a global company, your Personal Information may be shared with other TIBCO offices or subsidiaries around the world to provide the services that you have requested. All such entities are governed by this Privacy Policy or are bound by the appropriate confidentiality and data transfer agreements.
+Because TIBCO is a global company, your Personal Information may be shared with other TIBCO offices or subsidiaries around the world to provide the services that you have requested. All such entities are governed by this Privacy Policy or are bound by the appropriate confidentiality and data transfer agreements
 
 TIBCO will share your personal information with third parties only in ways that are described in this privacy policy. We do not sell your Personal Information to third parties. Your personal information is never shared outside TIBCO without your permission, except under conditions explained below. Inside TIBCO, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States or any other country where TIBCO, its subsidiaries, affiliates, or agents are located.
 
@@ -124,11 +124,11 @@ We partner with third parties to either display advertising on our Sites or to m
 
 ## 3\. How may you update, correct, or delete your Personal Information?
 
-Upon request we will provide you with information about whether we hold any of your personal information. If your Personal Information changes, or if you no longer desire our service, you may correct, update, amend, or delete/remove it by emailing us at [privacy@tibco.com](mailto:privacy@tibco.com). We will respond to your request within 30 days.
+You have the right to amend or update inaccurate or incomplete personal information, request deletion of your personal information, or request that we no longer use it. Upon request we will provide you with information about whether we hold any of your personal information. If your Personal Information changes, or if you no longer desire our service, you may correct, update, amend, or delete/remove it by emailing us at [privacy@tibco.com](mailto:privacy@tibco.com). We will respond to your request within 30 days.
 
 ## 4\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
 
-We employ industry-recognized information technology to protect the security of the information you submit to us, both during transmission and once we receive it. The importance of security for all Personal Information associated with our users is of utmost concern to us. Our secure servers protect this information using password protection and advanced encryption, and we may use firewall technology for additional protection. When you enter sensitive information (such as a credit card number, login information for our Services, or Geo-Location information) on our Offerings, we encrypt the transmission of that information using secure socket layer technology (SSL).
+We employ industry-recognized information technology to protect the security of the information you submit to us, both during transmission and once we receive it. The importance of security for all Personal Information associated with our users is of utmost concern to us. Our secure servers protect this information using password protection and advanced encryption, and we may use firewall technology for additional protection. When you enter sensitive information (such as a credit card number, login information for our Services, or Geo-Location information) on our Offerings, we encrypt the transmission of that information using transport layer security (TLS).
 
 Furthermore, all of the user data we collect is protected against unauthorized access by physical security means.
 
@@ -142,7 +142,7 @@ Most browsers and devices are initially set up to accept cookies. If you prefer,
 
 TIBCO and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, ascertain your interest in our communications, and to gather demographic information about our user base as a whole.
 
-### Mobile Analytics
+**Mobile Analytics**
 
 We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personal information you submit within the mobile application.
 
@@ -156,7 +156,7 @@ Other sites accessible through our Sites have their own privacy policies and dat
 
 ## 8\. Contacting us about privacy questions or concerns
 
-If you have any questions about this Privacy Policy, the practices of our offerings, or your dealings with our offerings, please contact us by sending an email to [privacy@tibco.com](mailto:privacy@tibco.com) or you can write to us at:
+If you have any questions about this Privacy Policy, the practices of our offerings, or your dealings with our offerings, please contact us by sending an email to [privacy@tibco.com](mailto:privacy@tibco.com) or you can write to us at:
 
 TIBCO Software Inc.  
 Attention: Legal Department/Privacy Committee  
@@ -165,4 +165,6 @@ Palo Alto, CA 94304
 
 ## 9\. Privacy Policy changes
 
-This Privacy Policy was last changed on June 22, 2018. If we make changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. Any change, modification, addition, or removal of portions of this Policy that are changes in a material way will be announced on the homepage(s) of our Offerings prior to the change becoming effective. Please be sure to check this page before proceeding to use our Offerings.
+This Privacy Policy was last changed on March 8, 2019. If we make changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. Any change, modification, addition, or removal of portions of this Policy that are changes in a material way will be announced on the homepage(s) of our Offerings prior to the change becoming effective. Please be sure to check this page before proceeding to use our Offerings.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=3cdb2292-5964-431a-9cfd-42a49ba8d124)
