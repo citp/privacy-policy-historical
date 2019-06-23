@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ox.ac.uk privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223224844id_/https%3A//www.ox.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ox.ac.uk privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623233303id_/https%3A//www.ox.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Website | University of Oxford
 
