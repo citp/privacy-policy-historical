@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the printful.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223023106id_/https%3A//www.printful.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printful.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623063611id_/https%3A//www.printful.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Printful
 
 Welcome to Printful’s Privacy Policy!
 
 Printful respects the privacy of its users and is fully committed to protect their personal data and use it in accordance with legal obligations. This Privacy Policy describes how we may collect and use personal data and the rights granted to our visitors, customers, and merchants regarding their respective data.
 
-By accessing or using this website or any of our Services, you signify your approval of the terms set out in this Privacy Policy, Cookie Policy, Terms of Service, and other terms and policies posted on our website. If you do not agree to this Privacy Policy, you must leave this website and discontinue all use of any of our Services.
+By accessing or using this website, mobile app or any of our Services, you signify your approval of the terms set out in this Privacy Policy, Cookie Policy, Terms of Service, and other terms and policies posted on our website. If you do not agree to this Privacy Policy, you must leave this website and discontinue all use of any of our Services.
 
 ### 1\. Information we collect
 
@@ -67,7 +67,7 @@ We collect the following data to confirm your identity, contact you, invoice you
 
 
 
-We collect the above-mentioned personal data when the User uses or accesses our Services, places an order, or signs up for an account on our website.
+We collect the above-mentioned personal data when the User uses or accesses our Services, places an order, or signs up for an account on our website or mobile app.
 
 Upon starting to use our Services or when you subscribe to our blog or newsletters, we may process your email address to send you informative materials. At any point in time you can unsubscribe from receiving the above-mentioned information in our email footers and through your notification settings on Printful.
 
@@ -135,6 +135,8 @@ All the information you provide may be transferred or accessed by Printful, its 
 
 ### 7\. Privacy Policy changes
 
+This Policy shall be governed and interpreted in accordance with the English language, regardless of any translations made for any purpose whatsoever.
+
 We may occasionally amend this Privacy Policy, for example in cases when we introduce new services or new features. The amendments to this Privacy Policy enter into force and are applied from the moment they have been uploaded to this page.
 
 Therefore, we encourage you to check this page from time to time. By continuing to use our Services or otherwise providing personal data to us, after the amendments to this policy have been implemented, you agree to the updated terms of Privacy Policy.
@@ -142,5 +144,3 @@ Therefore, we encourage you to check this page from time to time. By continuing 
 ### 8\. Contact information
 
 If you have any questions about your personal data or this Privacy Policy, or if you would like to file a complaint about how we process your personal data, please contact us by email at privacy@printful.com, or by using the contact details below:
-
-This Privacy Policy is effective from 18th April 2018.
