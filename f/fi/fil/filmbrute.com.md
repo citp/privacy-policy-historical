@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmbrute.com privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729130053id_/http%3A//www.filmbrute.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmbrute.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623172221id_/http%3A//www.filmbrute.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Film Brute
 
