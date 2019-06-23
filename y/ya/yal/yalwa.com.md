@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yalwa.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626073213id_/http%3A//www.yalwa.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yalwa.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623110256id_/https%3A//www.yalwa.com/info/privacy) for the most accurate reproduction.*
 
 # Yalwa Info pages
 
@@ -32,7 +32,7 @@ Yalwa uses cookies to remember the last activity of the user on the website, for
 
 Our website uses plugins provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Avenue, Palo Alto, CA 94304, USA (“Facebook”). The plugins are identifiable by a Facebook logo or the “Lik button. For a full list of Facebook plugins please see: <http://developers.facebook.com/docs/plugins/>
 
-When you visit a page of our website that contains a social plugin, your browser establishes a direct connection to Facebook servers, enabling Facebook to receive information about you having accessed the respective page of our website with your IP address. If you click the FB “Like” button while you are logged in on Facebook, the content of our page can be linked on your Facebook profile. Therefore if you are logged into Facebook, your visit can be assigned to your Facebook account. We point out that we do not have knowledge about the data gathered and its use by Facebook. For more information, please visit Facebook’s privacy policy: [http://de-de.facebook.com/policy.php](http://facebook.com/policy.php)
+When you visit a page of our website that contains a social plugin, your browser establishes a direct connection to Facebook servers, enabling Facebook to receive information about you having accessed the respective page of our website with your IP address. If you click the FB “Like” button while you are logged in on Facebook, the content of our page can be linked on your Facebook profile. Therefore if you are logged into Facebook, your visit can be assigned to your Facebook account. We point out that we do not have knowledge about the data gathered and its use by Facebook. For more information, please visit Facebook’s privacy policy: <http://facebook.com/policy.php>
 
 If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your Facebook member data, please log off Facebook before entering our website.
 
@@ -68,7 +68,7 @@ Besides the above-mentioned uses, the information you provide will be used in ac
 
 * ### Twitter
 
-Our website contains plugins from Twitter. These plugins are solely provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. Through the use of Twitter and the "Re-tweet" function, the web pages you visit will be linked to your Twitter account and be visible to other users. Data will also be transferred to Twitter. We point out that we as providers of the site have no knowledge of the content of the transmitted data and its use by Twitter. For more information, please see the privacy policy of Twitter at http://twitter.com/privacy. You can change your privacy preferences at Twitter in the account settings under: <http://twitter.com/account/settings>.
+Our website contains plugins from Twitter. These plugins are solely provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. Through the use of Twitter and the "Re-tweet" function, the web pages you visit will be linked to your Twitter account and be visible to other users. Data will also be transferred to Twitter. We point out that we as providers of the site have no knowledge of the content of the transmitted data and its use by Twitter. For more information, please see the privacy policy of Twitter at [twitter.com/privacy](https://twitter.com/en/privacy). You can change your privacy preferences at [Twitter in the account settings](https://twitter.com/account/settings/).
 
 * ### Third party/External websites
 
