@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesuphost.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231200450id_/http%3A//www.yesuphost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesuphost.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623205516id_/http%3A//www.yesuphost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
