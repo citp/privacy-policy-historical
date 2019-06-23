@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeeshopr.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230185555id_/http%3A//coffeeshopr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeeshopr.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623022307id_/http%3A//coffeeshopr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
