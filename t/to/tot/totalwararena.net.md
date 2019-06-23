@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalwararena.net privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218175230id_/http%3A//legal.eu.wargaming.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalwararena.net privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623160504id_/http%3A//legal.eu.wargaming.net/privacy-policy) for the most accurate reproduction.*
 
 # Legal Documentation | Wargaming.net
 
@@ -24,7 +24,7 @@ Cyprus
 
 Email: [privacy@wargaming.net](mailto:privacy@wargaming.net)
 
-Controller in the sense of the GDPR and other data protection or data privacy laws in the Member States of the European Union and other guidelines with a data protection nature regarding “World of Tanks” on Xbox 360 and Xbox One, “World of Tanks” on PlayStation®4 (“Console Games”), for example, in relation to the <https://console.worldoftanks.com/> website, is:
+Controller in the sense of the GDPR and other data protection or data privacy laws in the Member States of the European Union and other guidelines with a data protection nature regarding “World of Tanks” on Xbox 360 and Xbox One, “World of Tanks” on PlayStation®4 computer entertainment system (“Console Games”), for example, in relation to the <https://console.worldoftanks.com/> website, is:
 
 **Wargaming World Limited**
 
@@ -179,7 +179,7 @@ In some cases, Wargaming receives your personal data as a data processor, which 
 
 **Co-Promotion Partners. In order to provide you with in-game items and/or in-game currency for participation in various loyalty programs, we may also receive information from our partners, such as telecommunication companies (e.g., Rostelecom), banks (e.g., Alfa-Bank), cashback partners (e.g., Kopikot), travel agencies (e.g. Biletix), and others;**
 
-**Platforms.** We also receive and use your identifiers on other platforms like PlayStation®4, Xbox 360 and Xbox One, App Store, Google Play Store, so that you can play our gGames through these platforms;
+**Platforms.** We also receive and use your identifiers on other platforms like PlayStation®4 computer entertainment system, Xbox 360 and Xbox One, App Store, Google Play Store, so that you can play our gGames through these platforms;
 
 **Social networks.** We have registered certain Games-related group accounts and pages at vk.com, Facebook, Twitter, Reddit, and other social networks to better communicate with our players in case they have questions about the Services, as well as prefer to learn about news about the Services through the social networks. Also, we get information relating to your profiles on social networking sites in order to allow integration with such social networking sites, e.g., your name, avatar, and date of birth, if you link a third party tool with our Services.
 
