@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loader.io privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226070832id_/https%3A//sendgrid.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loader.io privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624014023id_/https%3A//sendgrid.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy | SendGrid
 
@@ -12,10 +12,12 @@ SendGrid respects Your preferences concerning the collection and use of Your Per
 
 
 
+Interested in how your data is processed when you use Twilio products and services? See the [Twilio Privacy Policy](https://www.twilio.com/legal/privacy).
+
 SendGrid uses cookies to enhance your experience. We use these for advertising and analytics purposes. By continuing to use our site, you agree to our [use of cookies](https://sendgrid.com/policies/privacy/website-navigational-information/). 
 
 ### Sign up for our newsletter to get The Scoop on product and email news.
 
 Almost there! We just sent you an email to confirm your subscription.
 
-We respect your privacy. Learn more [ here.](https://web.archive.org/policies/privacy/)
+We respect your privacy. Learn more about SendGrid's Privacy Policy [ here](https://web.archive.org/policies/privacy/) and Twilio's Privacy Policy [here](https://www.twilio.com/legal/privacy)
