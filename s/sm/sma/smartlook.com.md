@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the smartlook.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129051046id_/https%3A//www.smartlook.com/help/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlook.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623192453id_/https%3A//www.smartlook.com/help/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement - Smartlook
 
-Smartlook is developed and operated by Smartsupp.com, s.r.o., VAT ID : CZ03668681. All user personal information is considered private. Smartlook does not share any personal information of its users with 3rd parties.
+Smartlook is developed and operated by Smartsupp.com, s.r.o., VAT ID : CZ03668681.
+
+Started in 2016, [Smartlook provides qualitative website](https://www.smartlook.com/) and [mobile app analytics](https://www.smartlook.com/features/mobile) with [always-on visitor recordings](https://www.smartlook.com/features/recordings), [automatic event tracking](https://www.smartlook.com/features/events), [conversion funnels](https://www.smartlook.com/features/funnels), and [heatmaps for websites](https://www.smartlook.com/features/heatmaps). Not just numbers and graphs, Smartlook helps websites & apps owners to truly understand their users’ actions.
+
+With Smartlook all user personal information is considered private. Smartlook does not share any personal information of its users with 3rd parties.
 
 ## Where is personal information stored?
 
