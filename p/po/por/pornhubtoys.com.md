@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornhubtoys.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902150617id_/https%3A//www.pornhubtoys.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornhubtoys.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623223120id_/https%3A//www.pornhubtoys.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Pornhub Toys
+# Privacy Policy - Pornhub Toys®
 
 If you have questions about this privacy policy you may contact support@pornhubtoys.com. This privacy policy explains how we collect, protect, use and share information gathered from and about you. We hope this disclosure will help increase your confidence in pornhubtoys.com. This privacy policy does not apply to information that you may submit to us offline, or to websites maintained by other companies or organizations to which we may link.
 
