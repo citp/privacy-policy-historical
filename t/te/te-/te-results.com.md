@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the te-results.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220004708id_/https%3A//te-results.com/te-results_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the te-results.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623145648id_/https%3A//te-results.com/te-results_privacy_policy.php) for the most accurate reproduction.*
 
-# Traffic Exchange Results (TE-Results.com) - Privacy Policy
+# Welcome to Traffic Exchange Results
 
 PC Support Services Ltd (Pete Tyson) operates the http://te-results.com website, which provides the SERVICE.
 
