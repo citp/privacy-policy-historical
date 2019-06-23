@@ -1,117 +1,253 @@
-> *The following text is extracted and transformed from the netapp.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509110628id_/http%3A//www.netapp.com/us/legal/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netapp.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623110618id_/https%3A//www.netapp.com/us/legal/privacypolicy/index.aspx) for the most accurate reproduction.*
 
-# NetApp Privacy Policy
+# NetApp Privacy Policy - Data Management and Privacy Policy | NetApp
 
-[ ](https://privacy.truste.com/privacy-seal/NetApp/validation?rid=0b0bf955-888f-44df-a51a-34f153a641dc "TRUSTe European Safe Harbor certification")
-
-## Last Updated January 1, 2014
-
-**NetApp Commitment to Data Privacy Protection**   
-NetApp is committed to compliance with all applicable country-specific data privacy laws. Protecting the privacy and security of your Personal Data is of the highest importance to NetApp; therefore, we conduct our business by abiding by applicable laws on data privacy and data security.
-
-This Privacy Policy tells you about NetApp’s policies and practices for the collection, use, processing, storage, transfer, and disclosure of information that we may collect about you through our sites and services, including, but not limited to the Web site or subdomains of [www.netapp.com](http://www.netapp.com/), (e.g. our Communities site, Training site, and Support site). Before using our sites and services, you will be asked to provide your authorization and consent, agreeing to the terms of this Privacy Policy and consenting to the processing of information about you as described here and in compliance with relevant data protection laws. The collection, use, storage, transfer and disclosure of your Personal Data will be strictly limited to the terms for which you provide your authorization. For the purpose of this policy, the reference to Personal Data includes the term “personally identifiable information.”
-
-NetApp complies with the EU-US Safe Harbor framework as set forth by the Department of Commerce and is a licensee of the TRUSTe Privacy Program. The TRUSTe program covers only information that is collected through the NetApp Web site, and does not cover information that may be collected through any software downloaded from this Web site. NetApp reaffirms our commitment to Safe Harbor on an annual basis.
-
-Additionally, NetApp does not rely strictly on the EU-US Safe Harbor certification. We are committed to compliance with all relevant country-specific data privacy laws, which includes the implementation of unambiguous authorizations and consents, EU Standard Contractual Clauses, model contracts/transfer agreements, privacy principles, privacy statements, privacy policies, country-specific registrations and filings, and Binding Corporate Rules (BCRs). This privacy policy covers the Web site [www.netapp.com](http://www.netapp.com/), and all other applicable NetApp Sites
-
-**Personal data**   
-Through our Web sites, NetApp will not collect any Personal Data about you (e.g. your name, address, telephone number or e-mail address), unless you voluntarily choose to provide us with it (e.g. by registration, survey, contest participation), provide your explicit consent, or unless otherwise permitted by applicable laws and regulations for the protection of your Personal Data.
-
-**Purpose of Use**   
-When you do voluntarily provide us with Personal Data, we will use it to respond to your inquiry, process your orders, register you for an event, provide information related to NetApp products, services and events, management of your Community, Support and/or NOW accounts, offer you the opportunity to participate in surveys and contests, register for NetApp training courses, or provide you access to additional information or offers. Also, to support our customer relationship with you:
-
-  * we may store and process Personal Data and share it with our worldwide affiliates to better understand your business needs and how we can improve our products and services; or
-  * we (or a third party on our behalf) may use Personal Data to contact you about a NetApp offer in support of your business needs or to conduct online surveys to understand better our customers' needs.
+  * [Privacy Policy](https://web.archive.org/us/legal/privacypolicy/index.aspx)
+  * [Cookie Policy](https://web.archive.org/us/legal/privacypolicy/cookie-policy.aspx)
 
 
 
-If you choose not to have your Personal Data used to support our customer relationship (especially direct marketing or market research), we will respect your choice. We do not sell or otherwise market your Personal Data to third parties, except to NetApp affiliates.
+[](https://privacy.truste.com/privacy-seal/NetApp/validation?rid=0b0bf955-888f-44df-a51a-34f153a641dc "TRUSTe European Safe Harbor certification")
 
-**Information That We Collect and Use**   
-We collect personal information from you when you register with NetApp. Examples of personal information are name, address, telephone number, e-mail address, company name, position and any other contact details you willingly provide to us. For a complete list of all data elements that we collect and the use of those data elements, contact us at [privacy@netapp.com](mailto:privacy@netapp.com).
+## Last Updated May 14, 2018
 
-We collect Personal Data about those who communicate with us such as e-mail address, user-specific information on what pages visitors access or visit, and information volunteered by the visitor, such as survey information and site registrations. This information is used to personalize our communications with you about products that are specific to your needs and interests. Rather than burden you with information that is not relevant or of interest to you, we try to target information that is specifically important to you. No Personal Data is collected, used, accessed, stored, transferred or distributed without your explicit authorization. At any time, even after you have given authorization, you can opt out of receiving these communications by contacting us at [privacy@netapp.com](mailto:privacy@netapp.com) or by clicking on our “Unsubscribe” link.
+###  **NetApp Privacy Policy**
 
-We use the information that we collect to improve the content of our Web pages by incorporating information that is relevant to our clients, to notify customers about updates to our Web site, to contact customers for marketing and sales purposes (including notifications related to product enhancements, warranties, and renewals) that are related specifically to their needs and interests, to track applicants for career opportunities, and to communicate with our partners. This information is not shared with other organizations for any reason, commercial or business, without your prior explicit consent.
+This Privacy Policy tells you about NetApp, Inc.’s policies and practices for the collection, use, processing, storage, transfer, and disclosure of information that we may collect through our websites, including, but not limited to, the website or subdomains of [www.netapp.com](http://www.netapp.com/), (e.g., our Communities site, Training site, and Support site) (collectively, the **“Sites”** ), through the software applications made available for us by use on or through computers and mobile devices (the **“Apps”** ), through our social media pages and apps (our **“Social Media Pages”** ), through HTML-formatted email messages that link to this Privacy Policy (collectively, with the Sites, Apps, and Social Media Pages, the **“Services”** ), and offline.
 
-If you browse and/or apply for jobs in the Careers portion of our Web site, your application and any additional information that you provide may be used to assess your skills and interests against career opportunities at NetApp, and for reporting purposes as may be required by U.S. law or country-specific laws. This usage is covered in the initial authorization that you provide to NetApp. When you access our Applicant Tracking System, you are asked to provide your authorization for us to collect, use, process, store, transfer and distribute your Personal Data before you enter any Personal Data. We use your information to communicate with you and to inform you of career opportunities.   
-NetApp does use third-party entities to provide valuable services on our behalf. To provide these services to you, we need your explicit consent to share your Personal Data with them. Third parties with which we share your information are bound by all relevant data privacy laws, terms of confidentiality, and this Privacy Policy. All of our approved third party providers go through an extensive data protection compliance vetting process before being selected as a third party provider. For a complete list of these third parties and the services they provide, contact us at [privacy@netapp.com](mailto:privacy@netapp.com).
+###  **Collection of Personal Information** 
 
-NetApp supplements the data it collects with additional data received from third-party sources, by using data append services or data brokers. The additional supplemental data consists of contact, company, and industry data, as well as title, department, address, phone number, and updated e-mail addresses. When using the information provider through these services, we will contact you via email to obtain either your explicit opt-in to continue marketing to you, or your explicit opt-out to remove you from our contact database, depending on the applicable data privacy regulation. For additional information about supplemental data and the third-party sources, contact us at [privacy@netapp.com](mailto:privacy@netapp.com).
+ **“Personal Information”** is information that identifies you as an individual or relates to an identifiable individual, including:
 
-The company does not share, sell, rent, or trade Personal Data with third parties for their promotional purposes or for any purposes without your explicit consent.   
-If you do not want to receive e-mails from us in the future, go to the NetApp subscription center to unsubscribe or to update your subscription preferences: [www.netapp.com/us/forms/sp-update.html](http://www.netapp.com/us/forms/sp-update.aspx), or you may contact privacy@netapp.com. NetApp follows the country-specific requirements to implement the opt-out within the legally allowed time period.
-
-NetApp also offers a partial opt-out option. This option allows you to choose the data elements you want to provide and those you do not. For more information about opting out of providing certain data elements, contact us at [privacy@netapp.com](mailto:privacy@netapp.com).
-
-If you supply us with your postal address online, as well as your consent, you may receive periodic mailings from us with information about new products and services or upcoming events. If you do not want to receive such mailings at any point after your consent has been given, contact us at [privacy@netapp.com](mailto:privacy@netapp.com), write to us at the postal address at the end of this document, or go to [www.netapp.com/us/forms/sp-update.html](http://www.netapp.com/us/forms/sp-update.aspx). Send us your name and address and we will remove your name from all lists that we use internally and/or share with other noncommercial organizations. NetApp follows the country-specific requirements to implement the opt-out within the legally allowed time periods.   
-If you give us your telephone number online, and provide consent, you may receive telephone calls from us with information about new products and services or upcoming events. If you do not want to receive such telephone calls at any point after giving your consent, contact us at [privacy@netapp.com](mailto:privacy@netapp.com), write to us at the postal address at the end of this document, or go to [www.netapp.com/us/forms/sp-update.html](http://www.netapp.com/us/forms/sp-update.aspx). Send us your name and phone number and we will remove your name from all lists that we use internally and/or share with other noncommercial organizations. NetApp follows the country-specific requirements to implement the opt-out within the legally allowed time periods.   
-We do not partner with or have special relationships with any ad server companies.
-
-Customers and applicants can prevent their information from being used for purposes other than those for which it was originally collected and for which consent was given by contacting us at [privacy@netapp.com](mailto:privacy@netapp.com) or by going to [www.netapp.com/us/forms/site-feedback.html](http://www.netapp.com/us/forms/site-feedback.html).
-
-Upon request, NetApp offers visitors the ability to have their information deleted or corrected for inaccuracies. To have your information corrected, contact us at [privacy@netapp.com](mailto:privacy@netapp.com), write to us at the address at the end of this document, or go to [www.netapp.com/us/forms/site-feedback.html](http://www.netapp.com/us/forms/site-feedback.html). We will respond to your request within the country-specific time frames, which can range from 5 to 30 business days.
-
-If you use communities, blogs, or chat rooms on NetApp Web sites, you should be aware that any Personal Data you submit there can be read, collected, and used by other users of these forums, and could be used to send you unsolicited messages. NetApp is not responsible for the Personal Data that you choose to submit in these forums, unless it was released by NetApp without your consent.
-
-For each visitor to our Web page, our Web server automatically recognizes only the visitor's domain name, but not the e-mail address.
-
-**Purpose Limitation**   
-NetApp will collect, use or disclose Personal Data supplied by you online only for the purposes disclosed to you, unless the disclosure:
-
-  * is a use of the Personal Data for any additional purpose that is directly related to the original purpose for which the Personal Data was collected
-  * is necessary to prepare, negotiate and perform a contract with you
-  * is required by law or the competent governmental or judicial authorities
-  * is necessary to establish or preserve a legal claim or defense
-  * is necessary to prevent fraud or other illegal activities, such as willful attacks on NetApp information technology systems.
+  * Name
+  * Postal address (including billing and shipping addresses)
+  * Telephone number
+  * Email address
+  * Company and job title
 
 
 
-**Communications or Utilization Data**   
-Through your use of telecommunications services to access our Web site, your communications data (e.g. Internet protocol address) or utilization data (e.g. information on the beginning, end and extent of each access, and information on the telecommunications services you accessed) are technically generated and could conceivably relate to Personal Data. To the extent that there is a compelling necessity, the collection, processing and use of your communications or utilization data will occur and will be performed in accordance with the applicable data privacy protection legal framework.
+We and our service providers collect Personal Information in a variety of ways, including:
 
-**Non-Personal Data Collected Automatically**   
-When you access our Web sites, we may automatically (i.e., not by registration) collect non-Personal Data (e.g. type of Internet browser and operating system used, domain name of the Web site from which you came, number of visits, average time spent on the site, pages viewed). We may use this data and share it with our worldwide affiliates to monitor the relevancy of our Web sites and improve their performance or content.
-
-**"Cookies" - Information Stored Automatically on Your Computer**   
-Propensity management is the management of an individual’s inclination or natural tendency toward certain interests, products, needs, and so on. In order to tailor our communications with you to make sure that we are addressing your specific needs and not overwhelming you with unwanted information, we use cookies to handle propensity management. A cookie is a piece of information that is stored on your computer's hard drive by your Web browser. When you revisit [www.netapp.com](http://www.netapp.com/), our server recognizes the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you can still use most of the features of our Web site, including ordering items.
-
-This privacy statement covers the use of propensity management by this site only and does not cover the use of propensity management by any advertisers. We work with companies, such as Adobe, that use third-party cookies and Web beacons to collect anonymous information that helps us measure and improve our content and advertising effectiveness. Adobe collects and analyzes anonymous usage and volume statistical information from our users. This data is collected only in aggregate form.
-
-NetApp complies with all global regulations regarding the use of cookies, including the EU Cookie Directive. Visitors to our site are asked to provide their consent before we place any cookies on your device. For detailed information regarding NetApp’s use of cookies, please refer to the NetApp Cookie Policy {insert a link to the policy}
-
-**Clear Gifs (Web Beacons, Web Bugs)**   
-We employ a software technology called _clear gifs_ (also known as Web beacons or Web bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies that are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs, which are about the size of a period, are embedded invisibly on Web pages. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. For detailed information regarding NetApp’s use of Clear Gifs, please refer to the NetApp Cookie Policy {insert a link to the policy}
-
-**Children**   
-NetApp will not knowingly collect Personal Data from children without insisting that they seek prior parental consent if required by applicable law. We will only use or disclose Personal Data about a child to the extent permitted by law, to seek parental consent pursuant to local law and regulations or to protect a child. The definition of "child" or "children" should take into account applicable laws as well as national and regional cultural customs.
-
-**Security**   
-To protect your Personal Data against accidental or unlawful destruction, loss or alteration and against unauthorized disclosure or access, NetApp uses technical and organizational security measures.
-
-**Links to Other Web Sites**   
-NetApp Web sites contain links to other Web sites. NetApp is not responsible for the privacy practices or the content of other Web sites.
-
-**Data Security Breaches**   
-To protect your Personal Data from unauthorized access and use, or accidental loss and destruction, NetApp has implemented strict security controls and intrusion detection software to notify us in the case of any potential or actual invasion of our systems. We have implemented a Data Breach Notification Policy and Remediation Plan and have established an Incident Response Team that has been trained to react immediately to any unauthorized access of our databases and systems. Should any data security breach occur that negatively impacts your Personal Data, you will be notified as soon as possible once the breach has been determined.
-
-**Right to Be Forgotten**   
-NetApp is committed to taking all reasonable steps necessary to ensure that any data you request to be forgotten and can be erased with existing technology will be done so. However, any data you post to our sites that you agree to make available to third parties or for which you make public, is outside the boundaries of which NetApp can erase. NetApp will do everything technically possible to erase your data if you feel it is being held for longer than needed or if you withdraw your consent to receive information from us and request the right to be forgotten. However, NetApp will not be able to erase your data if:
-
-  * it is technically impossible;
-  * for legal reasons (if mandated by local law);
+  *  **Through the Services:** We collect Personal Information through the Services, for example, when you communicate with us via email, fill out online forms or surveys, or register for an event, course, or free product trial.
+  *  **Offline:** We collect Personal Information from you offline, e.g., when you attend one of our events, place an order over the phone, or contact customer service.
+  *  **From Other Sources:** We receive your Personal Information from other sources, for example, publicly available databases, data append services, data brokers, and joint marketing partners, when they share the information with us. The information may include, for example, contact, company, and industry data, as well as title, department, address, phone number, and updated e-mail addresses.
 
 
 
-**Do Not Track**   
-NetApp may receive data lists containing your contact details from third parties. In countries, states or regions where Do Not Track laws are in place, NetApp will take every reasonable action to validate the lists we have received with the Do Not Track lists available through government agencies before communicating with you. NetApp abides by all Do Not Track regulations.
+We need to collect Personal Information in order to provide the requested Services to you. If you do not provide the information requested, we may not be able to provide the Services.
 
-**Questions and Comments**   
-NetApp will respond to reasonable requests to review your Personal Data and to correct, amend or delete any inaccuracies. If you have any questions or comments about the NetApp Global Data Privacy Policy (e.g. to review and update your Personal Data), please send us your questions and feedback. You can contact us at the following address or phone number.
+###  **Use of Personal Information** 
 
-**NetApp, Inc.  
-495 East Java Drive   
-Sunnyvale, CA 94089**
+We and, in some instances, our service providers use the Personal Information that we collect for legitimate business purposes, including:
 
-We can be reached [via the Web](https://web.archive.org/web/20140509110628id_/http%3A//www.netapp.com/us/legal/www.netapp.com/us/forms/site-feedback.html), by telephone at +1 877 263 8277, or at [staffingsupport@netapp.com](mailto:staffingsupport@netapp.com) for job inquiry-related issues.
+ **Accomplishing our business purposes**
+
+  * For improving the content of our Services, for example, by incorporating information that is relevant to our clients;
+  * For preventing fraud or other illegal activities, such as willful attacks on NetApp information technology systems;
+  * For data analysis, for example, to improve the efficiency of our Services;
+  * For audits, to verify that our internal processes function as intended and address compliance with legal, regulatory or contractual requirements;
+  * For developing new products and services;
+  * For enhancing, improving, or modifying our current products and services;
+  * For identifying usage trends, for example, understanding which parts of our Services are of most interest to users;
+  * For determining the effectiveness of our promotional campaigns, so that we can adapt our campaigns to the needs and interests of our users;
+  * For operating and expanding our business activities, for example, understanding which parts of our Services are of most interest to our users so we can focus our energies on meeting our users’ interests.
+
+
+
+We engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, and/or because we have a legitimate interest.
+
+ **Providing the functionality of the Services and fulfilling your requests**
+
+  * To send administrative information to you, such as changes to our terms, conditions and policies and to notify customers about updates to our Services;
+  * To respond to your inquiries and fulfill your requests, when you contact us via one of our online contact forms or otherwise, for example, when you request to be registered for an event or a NetApp training course;
+  * To process your orders, and provide you with related customer service;
+  * To help you manage your Community, Support and/or NOW accounts, at your request;
+  * To allow you to send messages to another person through the Services if you choose to do so.
+
+
+
+ **Providing you with our newsletter and/or other marketing materials and facilitating social sharing**
+
+  * To contact you for marketing and sales purposes, including notifications related to product enhancements, warranties, and renewals, that are related specifically to customer needs and interests;
+  * To contact you about a NetApp offer in support of your business needs or to conduct online surveys to better understand our customers’ needs;
+  * To facilitate social sharing functionality that you choose to use.
+
+
+
+We will engage in these activities to manage our contractual relationship with you and/or to comply with a legal obligation.
+
+ **Analysis of Personal Information for business reporting and providing personalized services**
+
+  * To analyze or predict our users’ preferences in order to prepare aggregated trend reports on how our digital content is used, so we can improve our Services;
+  * To better understand you, so that we can personalize our interactions with you and provide you with information and/or offers tailored to your interests;
+  * To better understand your preferences so that we can deliver content via our Services that we believe will be relevant and interesting to you.
+
+
+
+We will provide personalized services either with your consent or because we have a legitimate interest.
+
+ **Allowing you to participate in surveys, contests, or other promotions**
+
+  * To offer you the opportunity to participate in surveys, contests or other promotions. Some of these promotions have additional rules containing information about how we will use and disclose your Personal Information.
+
+
+
+We use this information to manage our contractual relationship with you.
+
+ **Aggregating and/or anonymizing Personal Information**
+
+  * We may aggregate and/or anonymize Personal Information so that it will no longer be considered Personal Information. We do so to generate other data for our use, which we may use and disclose for any purpose.
+
+
+
+###  **Disclosure of Personal Information** 
+
+We disclose Personal Information to our [subsidiaries](https://web.archive.org/us/media/entity-list.pdf "entity-list.pdf") for the purposes described in this Privacy Policy. NetApp, Inc. is the party responsible for the management of the jointly-used Personal Information.
+
+NetApp uses third-party entities to provide services on our behalf and may share Personal Information with them to assist them in providing these services. These can include providers of services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services. We also may share Personal Information with channel partners or resellers if you inquire about our products or services typically fulfilled through channel partners or resellers. These channel partners or resellers may also use this information to inform you about third-party products or services that may be of interest.
+
+If you use communities, blogs, or chat rooms on NetApp Services, you should be aware that any Personal Information you submit there can be read, collected, and used by other users of these forums, and could be used to send you unsolicited messages. You may also elect to disclose Personal Information through your social sharing activity.
+
+###  **Other Uses and Disclosures** 
+
+We also use and disclose your Personal Information as necessary or appropriate, especially when we have a legal obligation or legitimate interest to do so:
+
+  * To comply with applicable law. 
+    * This can include laws outside your country of residence.
+  * To respond to requests from public and government authorities. 
+    * These can include authorities outside your country of residence.
+  * To cooperate with law enforcement. 
+    * For example, when we respond to law enforcement requests and orders.
+  * For other legal reasons. 
+    * To enforce our terms and conditions; and
+    * To protect our rights, privacy, safety or property, and/or that of our subsidiaries, you or others.
+  * In connection with a sale or business transaction. 
+    * We have a legitimate interest in disclosing or transferring your Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings) Such third parties may include, for example, an acquiring entity and its advisors.
+
+
+
+###  **Choices and Access** 
+
+ **Your choices regarding our use of your Personal Information**
+
+ **E-mails:** If you no longer want to receive marketing-related e-mails from us, you may opt out by:
+
+  * going to the [NetApp subscription center](https://web.archive.org/us/forms/subscriptions/sp-update.aspx) to unsubscribe or update your subscription preferences; or
+  * clicking on our “Unsubscribe” link contained in each of our marketing-related emails.
+
+
+
+ **Postal mail or telephone:** If you no longer wish to receive information about new products and services or upcoming events from us by postal mail or telephone, contact us at [ng-privacy@netapp.com](mailto:ng-privacy@netapp.com), write to us at the postal address at the end of this document, or visit the [NetApp Subscription Center](https://web.archive.org/us/forms/subscriptions/sp-update.aspx).
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
+
+ **How you can access, change or delete your Personal Information**
+
+If you would like to request to review, correct, update, suppress, restrict or delete Personal Information that you have previously provided to us, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us at [ng-privacy@netapp.com](mailto:ng-privacy@netapp.com), write to us at the address at the end of this document, or via our [Site Feedback form](https://web.archive.org/us/forms/site-feedback.aspx). We will respond to your request consistent with applicable law.
+
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to respond to your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase, you may not be able to change or delete the Personal Information provided until after the completion of such purchase).
+
+###  **Collection of Other Information** 
+
+ **“Other Information”** is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as:
+
+  * Browser and device data
+  * App usage data
+  * Data collected through cookies, pixel tags and other technologies
+  * Demographic information and other data provided by you that does not reveal your specific identity
+  * Information that has been aggregated in a manner such that it no longer reveals your specific identity
+
+
+
+If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information as detailed in this Policy.
+
+ **Communications or Utilization Information**
+
+Through your use of telecommunications services to access our Services, your communications data (e.g. Internet protocol (“IP”) address) or utilization data (e.g. information on the beginning, end and extent of each access, and information on the telecommunications services you accessed) are technically generated. Your IP address is automatically assigned to your computer by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location and your company from your IP address.
+
+ **Information Collected Automatically Through Your Browser or Device**
+
+When you access our Services, we may automatically collect information such as: type of Internet browser and operating system used, domain name of the Web site from which you came, number of visits, average time spent on the site, pages viewed. We use this information to ensure the Services function properly, monitor the relevancy of our Services and improve their performance or content.
+
+ **“Cookies” - Information Stored Automatically on Your Computer**
+
+A cookie is a piece of information that is stored on your computer’s hard drive by your Web browser. When you revisit [www.netapp.com](http://www.netapp.com/), our server recognizes the cookie, giving us information about your prior visits. Most browsers accept cookies automatically, but you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you can still use most of the features of our Services, including ordering items. We do not currently respond to browser do-not-track signals.
+
+We work with companies, such as Adobe, that use third-party cookies and Web beacons to collect anonymous information that helps us measure and improve our content and advertising effectiveness. Adobe collects and analyzes anonymous usage and volume statistical information from our users. We also use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by viewing their [Privacy & Terms](https://policies.google.com/privacy/partners), and exercise the opt out offered by Google by downloading the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
+
+For detailed information regarding NetApp’s use of cookies, please refer to the [NetApp Cookie Policy](https://web.archive.org/us/legal/privacypolicy/cookie-policy.aspx).
+
+ **Clear Gifs (Web Beacons, Web Bugs)**
+
+We employ a software technology called clear gifs (also known as Web beacons or Web bugs) along with other technologies such as e-tags, and JavaScript that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies that are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs, which are about the size of a period, are embedded invisibly on Web pages. For detailed information regarding NetApp’s use of Clear Gifs and other technologies, please refer to the [NetApp Cookie Policy](https://web.archive.org/us/legal/privacypolicy/cookie-policy.aspx).
+
+ **Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies**
+
+We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also go to the Global Storage Settings Panel and follow the instructions (which may explain, for example, how to delete existing Flash LSOs (referred to as “information”), how to prevent Flash LSOs from being placed on your computer without your being asked, and how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications.
+
+###  **Uses and Disclosures of Other Information** 
+
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
+
+###  **Retention Period** 
+
+We will retain your Personal Information for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law.
+
+The criteria used to determine our retention periods include:
+
+  * The length of time we have an ongoing relationship with you and provide the Services to you (for example, for as long as you have an account with us or keep using the Services);
+  * Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or
+  * Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).
+
+
+
+###  **Minors** 
+
+The Services are not directed to individuals under the age of sixteen (16), and we do not knowingly collect Personal Information from individuals under sixteen (16).
+
+###  **Security** 
+
+NetApp seeks to use reasonable technical and organizational security measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Questions and Comments” section below.
+
+###  **Third Party Web Sites and Services** 
+
+NetApp Services may contain links to other Web sites or services. NetApp is not responsible for the privacy, information or other practices of third parties, including any third party operating any website or service to which the Services link, or for the content of other Web sites. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our subsidiaries.
+
+###  **Third Party Advertising** 
+
+We use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services.
+
+You may receive advertisements based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as on information received from third parties. These companies place or recognize a unique cookie on your browser (including through the use of pixel tags). They also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop.
+
+If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://optout.aboutads.info/#/> and <http://optout.networkadvertising.org/#/>.
+
+###  **Cross-Border Transfers** 
+
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information.
+
+ **If you are located in the EEA** : Some of the [non-EEA countries](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) are recognized by the European Commission as providing an adequate level of data protection according to EEA. For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place measures such as Binding Corporate Rules to protect your Personal Information. You may obtain a copy of these Binding Corporate Rules by viewing them [online](https://web.archive.org/us/legal/index.aspx) or by contacting [ng-privacy@netapp.com](mailto:privacy@netapp.com).
+
+###  **Sensitive Information** 
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
+
+###  **Updates to this Privacy Policy** 
+
+As the Internet, technology and our systems mature, so will our Privacy Policy. We will post changes to our Privacy Policy on this page. Your use of the Services following these changes means that you accept the revised Privacy Policy. Please check this page regularly to keep up-to-date.
+
+###  **Questions and Comments** 
+
+NetApp, Inc., located at 1395 Crossman Ave., Sunnyvale, CA 94089, is the company responsible for collection, use and disclosure of your Personal Information under this Privacy Policy.
+
+If you have any questions or comments about this Privacy Policy, please send us your questions and feedback. You can contact us at [ng-privacy@netapp.com](mailto:ng-privacy@netapp.com) or at the following address:
+
+NetApp, Inc.   
+1395 Crossman Ave   
+Sunnyvale, CA 94089
+
+We can be reached [via the Web](https://web.archive.org/us/forms/site-feedback.aspx), by telephone at +1 877 263 8277
+
+If you are located in the EEA, you also may lodge a complaint with a data protection authority for your country or region, or where an alleged infringement of applicable data protection law occurs.
