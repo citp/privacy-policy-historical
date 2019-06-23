@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the arena.net privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929194525id_/https%3A//www.guildwars2.com/legal/arenanet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arena.net privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623203216id_/https%3A//www.guildwars2.com/en/legal/arenanet-privacy-policy) for the most accurate reproduction.*
 
 # ArenaNet Privacy Policy | GuildWars2.com
 
 **I.**        **What does this Privacy Policy contain?**  
 **II.**        **What types of information does ArenaNet collect?**
 
-  1. **Personal and Non-Personal Information**
+  1. **Personal and Account Information**
 
 
 
@@ -92,13 +92,13 @@ By using or accessing our Services, you are consenting to this Privacy Policy. Y
 
 ####  **II. What types of information does ArenaNet collect?**
 
-  1. **Personal and Non-Personal Information**
+  1. **Personal and Account**
 
 
 
-We may collect two types of information from you. “Personal information” is information that would allow someone to identify or contact an individual. “Non-Personal Information” is all other information and may include combined information that does not identify an individual. We use this information for internal purposes like improving the site or customizing content.
+We may collect two types of information from you. “Personal information” is information that would allow someone to identify or contact an individual. “Account Information” is all other information and may include combined information that does not identify an individual, but may be associated with an individual’s user account. We use this information for internal purposes like improving the site or customizing content.
 
-**Examples of Personal Information** | **Examples of Non-Personal Information**  
+**Examples of Personal Information** | **Examples of Account Information**  
 ---|---  
 •    Full name 
 
@@ -139,9 +139,10 @@ We may collect two types of information from you. “Personal information” is 
 You provide Personal Information directly to us through the Services, for example when you:
 
   1. Register for an account, or a contest or giveaway
-  2. Complete questionnaires
-  3. Order products
-  4. Send email messages, submit forms, or contact us
+  2. Submit additional information on the account page
+  3. Complete questionnaires
+  4. Order products
+  5. Send email messages, submit forms, or contact us
 
 
   1. **Third Parties**
@@ -182,9 +183,9 @@ We only collect, use, or store your Personal Information if:
 
 
 
-We may need, and may require from you, certain Personal Information to provide our Services to you or to complete a transaction. You understand and accept that we will collect, use, and store your Personal Information based on the business purpose of fulfilling your requests and maintaining records of our Services to you. If you do not provide the Personal Information we need, we will not be able to process the transaction or provide the requested Service.
+We may need, and may require from you, certain Personal Information to provide our Services to you or to complete a transaction. You understand and accept that we will collect, use, and store your Personal Information based on the business purpose of fulfilling your requests and maintaining records of our Services to you. If you do not provide the Personal Information we need, we will not be able to process the transaction or provide the requested Service. We may also use Account Information related to your profile to detect cheating, fraud, illegal activity, or other activities that may violate our User Agreement. 
 
-With your consent, we also may use your Personal Information to create a profile for marketing campaigns, including on social media or through email. We use the information we collect to learn what you like, tailor your experience accordingly, and to improve our websites and our other products.
+With your consent, we also may use your Personal Information to create a profile for marketing campaigns, including on social media or through email. We use the information we collect to learn what you like, tailor your experience accordingly, and to improve our websites and our other products. We may also use your Personal Information in an aggregate, anonymized way to help us target advertising on social media. 
 
 ####  **VI. With whom does ArenaNet share Personal Information?**
 
@@ -205,7 +206,7 @@ To provide you with access to our Services, we may share your Personal Informati
   1. We do not sell or share Personal Information with third parties for those third parties’ direct marketing purposes.
   2. We may work with third parties to provide you some contests, sweepstakes, promotions, or surveys, and when accessing, purchasing, or subscribing to one of the Services. During the registration process, we or a third party may ask you for certain Personal Information, such as your mailing address. If you do not provide this Personal Information, we may not be able to provide the Service you have requested.
   3. We may disclose your Personal Information to law enforcement or other appropriate third parties in connection with criminal, fraud, infringement, other investigations related to suspected illegal activities, as may be required by applicable law, or to protect the legitimate legal and business interests of ArenaNet.
-  4. We sometimes share Non-Personal Information with third parties about our user base. Except as described in this Privacy Policy, we will not give any of your Personal Information to any third party without your express approval.
+  4. We sometimes share information about our user base with third parties about our user base. Except as described in this Privacy Policy, we will not give any of your Personal Information to any third party without your express approval.
 
 
   1. **Third Party Precautions**
@@ -231,7 +232,7 @@ We may store or process your Personal Information outside of the country where w
 
 
 
-When transferring Personal Information out of the EU, we implement safeguards to protect your Personal Information. We use European Commission approved standard contractual clauses, Privacy Shield certification, Binding Corporate Rules, or implement other similar measures required by applicable law. We will provide you with a copy of the relevant mechanism for your review on request.
+When transferring Personal Information out of the EU, we implement technical, legal, and physical safeguards to protect your Personal Information. We use European Commission approved standard contractual clauses, Privacy Shield certification, Binding Corporate Rules, or implement other similar measures required by applicable law. We will provide you with reasonable information regarding the relevant mechanism for your review on request.
 
   1. **Privacy Shield**
 
@@ -276,7 +277,7 @@ You can take certain steps to help protect your Personal Information, such as be
 
 
 
-You have the right to request access to and correct or erase Personal Information, the right to restrict processing of your Personal Information, and the right to object to processing of your Personal Information. You also have the right to object to your Personal Information being processed based on our legitimate business interests and the right to object to us sending you direct marketing and profiling you for the purposes of direct marketing, so long as such contact does not include critical information regarding your active game accounts. You can contact us about any of the rights described in this paragraph, or if you have any questions regarding this Privacy Policy. In some cases, you can review or update your Personal Information stored with ArenaNet by accessing your account online. You may also request that we delete or anonymize your Personal Information. If you choose to have your Personal Information removed from our active databases, we will do so within a reasonable time after your request and we will take reasonable steps to ensure that your Personal Information is not used (except as may be required by law) by ArenaNet after you request such removal or deletion. You have the right to withdraw your consent regarding our use or storage of certain Personal Information, for example, if you do not want to receive email from us, you can “opt out” of receiving it by following the steps described in each such email or by accessing your response.
+You have the right to request access to and correct or erase Personal Information, the right to restrict processing of your Personal Information, and the right to object to processing of your Personal Information. We may be unable to comply with requests under certain limited exceptions, including (1) when we are unable to confirm your identity, (2) where we are unable to verify the data you’ve provided, (3) where the request is considered excessive, and (4) where doing so would adversely affect the rights and freedoms of others. You also have the right to object to your Personal Information being processed based on our legitimate business interests and the right to object to us sending you direct marketing and profiling you for the purposes of direct marketing, so long as such contact does not include critical information regarding your active game accounts. You can contact us about any of the rights described in this paragraph, or if you have any questions regarding this Privacy Policy. In some cases, you can review or update your Personal Information stored with ArenaNet by accessing your account online. You may also request that we delete or anonymize your Personal Information. If you choose to have your Personal Information removed from our active databases, we will do so within a reasonable time after your request and we will take reasonable steps to ensure that your Personal Information is not used (except as may be required by law) by ArenaNet after you request such removal or deletion. You have the right to withdraw your consent regarding our use or storage of certain Personal Information, for example, if you do not want to receive email from us, you can “opt out” of receiving it by following the steps described in each such email or by accessing your response.
 
   1. **Right to Lodge a Complaint**
 
@@ -355,4 +356,4 @@ Our customer service email address is [support@arena.net](mailto:support@arena.n
 
 Our privacy email is [privacy@arena.net](mailto:privacy@arena.net).
 
-Last updated May 2018
+Last updated October 2018
