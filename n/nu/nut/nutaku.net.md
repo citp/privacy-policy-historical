@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutaku.net privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819201143id_/https%3A//www.nutaku.net/age/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutaku.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624002821id_/https%3A//www.nutaku.net/age/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nutaku.net
 
