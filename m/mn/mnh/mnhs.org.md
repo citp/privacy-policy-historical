@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnhs.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228153239id_/http%3A//www.mnhs.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnhs.org privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623053316id_/http%3A//www.mnhs.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Minnesota Historical Society
 
@@ -36,4 +36,4 @@ MNHS collects limited information about children for demographic purposes.
 
 ## Changes to the Privacy Policy
 
-MNHS reserves the right to change the policy on use of information collected. Any changes in policy will be noted in a revised privacy policy statement and will be posted at least 30 days prior to implementation. You may direct any privacy policy questions to [webmaster@mnhs.org](mailto:webmaster@mnhs.org).
+MNHS reserves the right to change the policy on use of information collected. Any changes in policy will be noted in a revised privacy policy statement and will be posted at least 30 days prior to implementation. You may direct any privacy policy questions to [contact@mnhs.org](mailto:contact@mnhs.org).
