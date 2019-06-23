@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebestads.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021222358id_/http%3A//freebestads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebestads.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623181137id_/http%3A//freebestads.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
