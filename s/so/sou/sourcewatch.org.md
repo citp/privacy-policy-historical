@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcewatch.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226162440id_/https%3A//www.sourcewatch.org/index.php/SourceWatch%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcewatch.org privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623151828id_/https%3A//www.sourcewatch.org/index.php%3Ftitle%3DSourceWatch%3APrivacy_policy) for the most accurate reproduction.*
 
 # SourceWatch:Privacy policy - SourceWatch
 
