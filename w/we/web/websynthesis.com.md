@@ -1,65 +1,48 @@
-> *The following text is extracted and transformed from the websynthesis.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424074412id_/http%3A//websynthesis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websynthesis.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623225407id_/https%3A//wpengine.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | WordPress Hosting by @WPEngine
 
-The Synthesis WordPress Hosting Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and services. Synthesis is a service offering of Copyblogger Media LLC (“Copyblogger Media”), and references in this document to “us,” “our,” and “we” refer to Copyblogger Media.
+(Updated: September 27, 2018.)
 
-### What Information Do We Collect?
+[](https://privacy.truste.com/privacy-seal/validation?rid=adea0a9b-3ecd-4256-b923-4907cbf8d0a6)
 
-When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the site.
+WPEngine, Inc. (“WP Engine,” “we,” “us,” “our”) maintains this Privacy Policy to inform you of our practices with regard to personal data we collect from or about you in connection with our web site (the “Site”) or through the provision of our services (the “Services”). We may update this Privacy Policy from time to time. We will notify you of any material change by providing a notice on our web site or, if you are a customer, by whatever other means upon which we have mutually agreed. The current version of this Privacy Policy may be found at <https://wpengine.com/legal/privacy/>. By using the Site or the Services you acknowledge your consent to the practices described herein.
 
-#### 1\. Personal Information You Choose to Provide
+If you are a customer who is subject to EU privacy laws, the Data Privacy Addendum located at <https://wpengine.com/legal/dpa/> as it may be updated from time to time governs the obligations between us with regard to personal data as defined by such laws.
 
-**Registration Information:** You will provide us information about yourself, your firm or company, and your practices when you purchase Synthesis hosting services, request support, or register for email newsletters and alerts.
+  1. **Personal data we collect.**
+    1. **Information you give us.** In order for you to use our Services and other features of our Site, we will ask you for some of your personal data (e.g. contact information, name, etc.). The amount and type of information that we gather depends on the nature of the interaction. For example, we ask visitors who would like to comment on our blog to provide a username. Those who purchase Services from us are asked to provide additional information including, as necessary, the personal and financial information required to process transactions. In each case, we collect such information only insofar as is necessary or appropriate to fulfill the purpose of your interaction with us. You can always refuse to supply personal data; however, doing so may prevent you from receiving our Services or engaging in other activities on the Site. In no event will we ever request sensitive personal data (e.g. health information, religious preferences, etc.) from you, and we expressly request that you not provide any such sensitive personal data to us.
+    2. **Web server logs.** As is true of most websites, we gather certain information automatically through your use of the Site. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring or exit pages, the files viewed on the Site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and clickstream data to analyze trends in the aggregate and administer the site. We use analytical software to help us understand this information. This software sends information to its licensor. Other sites and companies may also use this software. As a result, the licensor may collect information that, when aggregated by them, allows them to identify you individually. We have no responsibility for this collection and use.
+    3. **Cookies.** We and our partners use cookies and similar technologies to analyze trends, administer the Site, track users’ movements around the Site, and gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level. Ads appearing on our Site may be delivered to you by advertising partners who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers our use of cookies and does not cover the use of cookies by any advertisers. However, data tracking files used by us may also be used by these advertisers and, when combined with other information held by them, be used to identify you personally. For more information on third party cookies and instructions on how to opt-out of those cookies set by members of the National Advertising Initiative, please [click here](http://www.networkadvertising.org/choices/). Or, if you are located in the European Union, please visit the European Interactive Digital Advertising Alliance [here](http://www.youronlinechoices.eu/).
+    4. **Information collected by our customers.** Our customers may collect personal data in connection with the Services we provide to them. WP Engine’s customers control the personal data they collect, and WP Engine will not use or disclose that personal data except as authorized or directed by the customer in the course of our provision of the Services and as governed by our agreement with that customer. If your personal data is controlled by one of our customers, and you have concerns about the way that data is managed or wish to exercise your rights with respect to such data (including your rights of access, amendment, or deletion), please contact that customer directly.
+  2. **How we use personal data.** WP Engine will only use the personal data we collect as reasonably necessary for the following purposes: 
+    1. to allow you to use and interact with the Site;
+    2. to provide the Services to you as our customer;
+    3. to inform our continued development of the Site and the Services;
+    4. to communicate with you from time to time in response to your requests for information or as may be relevant to your account with us;
+    5. to send marketing communications related to the services we provide;
+    6. as required by applicable law or legal requirements pertaining to records retention or for internal administrative purposes; or
+    7. as specifically authorized by you in writing.
+  3. **Disclosure to third parties.** We will not disclose your personal data to third parties except as follows: 
+    1. when we believe disclosure is reasonably required to comply with any law or legal request;
+    2. to enforce our legal and contractual rights, or to protect the rights and safety of others;
+    3. to third parties who help us provide any part of the Site or the Services, to the limited extent required for such help, and on condition that they may not further disclose your data or use it for any other purpose; or
+    4. as part of a sale of our assets or a merger of our company.
 
-**Email Information:** If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
+We remain responsible for compliance with this Privacy Policy by third parties to whom we disclose your personal data.
 
-#### 2\. Website Use Information
+  4. **Procedures to protect personal data.** We have put in place reasonable measures and appropriate procedures for implementing these policies and for safeguarding the personal data we collect. However, we cannot guarantee that personal data we collect will never be disclosed in a manner inconsistent with this Privacy Policy.We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once it is received.
+  5. **Your rights over personal data that we control.** Upon request, we will provide you with details regarding your personal data that has been collected by us or which is under our control. If you would like to change information that we maintain about you, you may log into your account and change it or submit a support request for any information to which you don’t have access or the ability to change yourself. Information covered by this Privacy Policy may be deleted upon your request, provided that such deletion may impact our ability to provide you with the Services. You may also request that we update or correct your personal data by writing us at: WPEngine, Inc. Attn: Legal Department, 504 Lavaca St., Ste. 1000, Austin, Texas 78701, or by sending an email to legal@wpengine.com. We will respond to your request within a reasonable timeframe.You may opt-out of receiving most e-mails from us by following the “unsubscribe” instructions provided in the e-mails. Alternatively, you may contact us as described herein. If you are our customer, you may not be able to opt out of all emails, including certain administrative or billing communications which are important to the ongoing maintenance of your account. 
 
-Similar to other commercial websites, this site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this site, and the websites visited just before and just after our site. We, our advertisers and ad serving companies (as applicable) may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
+We may keep your personal data for as long as reasonably required to meet the purposes described herein. Additionally, we will retain this information as required by law, as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### How Do We Use the Information That You Provide to Us?
+  6. **EU-US and Swiss-US Privacy Shield.** We participate in and have certified our compliance with the EU – U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.Under the Privacy Shield Frameworks, we are responsible for the processing of personal data that we collect from you and subsequently transfer to a third party acting as an agent on our behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland including the onward transfer liability provisions. 
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to this website, new services and special offers we think you will find valuable. You may notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including requests made to meet national security or law enforcement requirements.
 
-### What Are Cookies?
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies. 
-
-### How Do We Use Information We Collect from Cookies?
-
-As you use this website, the site uses its cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our web server’s log files, allow us to calculate the aggregate number of people visiting this site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve this site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
-
-### We Do Not Share Information with Third Parties   
-(With Four Limited Exceptions)
-
-The information we collect is used to improve the content of this site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes. That being said, your information could be shared under the following four limited circumstances:
-
-  1. We use third parties to facilitate our business, including, but not limited to, sending email and processing payments (PayPal and merchant accounts). In connection with these offerings and business operations, these third parties may have access to your personal information for use in connection with those business activities.
-  2. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.
-  3. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
-  4. If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
+Under certain conditions more fully described on the Privacy Shield website located at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 
 
-### Notice of New Services and Changes
-
-Occasionally, we may also use the information we collect to notify you about important changes to this website, new services, and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
-
-### How Do We Protect Your Information?
-
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on this site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. 
-
-### Certain Disclosures
-
-We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties.
-
-### What About Other Websites Linked to This Site?
-
-We are not responsible for the practices employed by websites linked to or from our site nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our site. 
-
-Please remember that when you use a link to go from our site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including sites which have a link on our site, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
-
-### Your Consent
-
-By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on this site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
