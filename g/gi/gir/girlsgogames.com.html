@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the girlsgogames.com privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226025454id_/http%3A//www.girlsgogames.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the girlsgogames.com privacy policy that was archived on 2019-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190623225744id_/http%3A//www.girlsgogames.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -36,8 +36,8 @@
         
 
         
-<link rel="preload" type="text/css" href="/wdg/css_aggregator-12.30.14/css/girls/themes/girls.css" as="style">
-<link rel="stylesheet" type="text/css" href="/wdg/css_aggregator-12.30.14/css/girls/themes/girls.css">
+<link rel="preload" type="text/css" href="/wdg/css_aggregator-12.43.1/css/girls/themes/girls.css" as="style">
+<link rel="stylesheet" type="text/css" href="/wdg/css_aggregator-12.43.1/css/girls/themes/girls.css">
 
 
 
@@ -59,27 +59,26 @@
         <link rel="dns-prefetch" href="//www8.agame.com">
         
 
-        <script id="wdg_vda" data-props="{&quot;country_code&quot;:&quot;US&quot;,&quot;netspeed&quot;:&quot;unknown&quot;,&quot;pool&quot;:&quot;localmarkets_main&quot;,&quot;client_device_type&quot;:&quot;desktop&quot;,&quot;page_type&quot;:&quot;category&quot;,&quot;wdg_version&quot;:&quot;5.1.13&quot;,&quot;gdpr_allowed&quot;:false,&quot;dfp_consent_given&quot;:false,&quot;exclude_bidders&quot;:[]}">
+        <script id="wdg_vda" data-props="{&quot;enable_consent_management&quot;:true,&quot;country_code&quot;:&quot;US&quot;,&quot;netspeed&quot;:&quot;unknown&quot;,&quot;pool&quot;:&quot;localmarkets_main&quot;,&quot;client_device_type&quot;:&quot;desktop&quot;,&quot;page_type&quot;:&quot;category&quot;,&quot;wdg_version&quot;:&quot;5.6.50&quot;,&quot;gdpr_allowed&quot;:false,&quot;dfp_consent_given&quot;:false,&quot;exclude_bidders&quot;:[&quot;brealtime&quot;]}">
 // <![CDATA[
-(function(){function f(k,e,c){function a(b,g){if(!e[b]){if(!k[b]){var d="function"==typeof require&&require;if(!g&&d)return d(b,!0);if(l)return l(b,!0);d=Error("Cannot find module '"+b+"'");throw d.code="MODULE_NOT_FOUND",d;}d=e[b]={exports:{}};k[b][0].call(d.exports,function(d){return a(k[b][1][d]||d)},d,d.exports,f,k,e,c)}return e[b].exports}for(var l="function"==typeof require&&require,b=0;b<c.length;b++)a(c[b]);return a}return f})()({1:[function(f,k,e){e.__esModule=!0;f=function(){function c(a,
-l){this.largeScreen=!0;this.activeTags=null;this.configObservers=[];this.items={};this.tags={};this.pushTags=function(a){var b=this;this.tags=a;this.configObservers.forEach(function(a){a(b.getTags())})};this.getVersion=function(){return this.wdg_version};this._checkTag=function(a){return c.checkTag(a,this.expCookie,this.pool,new Date(Date.now()))};this.chooseTag=function(a){for(var b=[],g=[],d=0,c=a.length;d<c;d++)switch(this._checkTag(a[d])){case "default":g.push(a[d]);break;case "experiment":b.push(a[d])}if(b.length)1<
-b.length&&console.info("More than one ad exp configurations, using first available");else{if(g.length)return g[0];console.info("No ad default configurations");return{}}return b[0]};this.filterBidders=function(a,c){var b=a.adConfig,d;for(d in b){var h=b[d].viewConfig.bids;"undefined"!==typeof h&&(h=h.filter(function(a){return-1==c.indexOf(a.bidder)}),a.adConfig[d].viewConfig.bids=h)}return a};this.getTags=function(){null===this.activeTags&&(Array.isArray(this.tags)?this.activeTags=this.chooseTag(this.tags):
-this.activeTags=this.tags);this.excludeBidders.length&&(this.activeTags=this.filterBidders(this.activeTags,this.excludeBidders));return this.activeTags};this.countryCode=a.country_code;this.netspeed=a.netspeed;this.deviceType=a.client_device_type;this.pageType=a.page_type;this.pool=a.pool;this.wdg_version=a.wdg_version;this.expCookie=c.getExpCookie();this.items=l;this.excludeBidders=a.exclude_bidders;this.setScreenSize()}c.prototype.setScreenSize=function(){"function"===typeof window.matchMedia&&
-(this.largeScreen=window.matchMedia("(min-width: 768px)").matches)};c.getCookie=function(a){return a?decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(a).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null:null};c.prototype.addConfigObserver=function(a){this.configObservers.push(a)};c.setCookie=function(a,c,b,e,g,d){if(!a||/^(?:expires|max\-age|path|domain|secure)$/i.test(a))return!1;var h="";if(b)switch(b.constructor){case Number:h=
-Infinity===b?"; expires=Fri, 31 Dec 9999 23:59:59 GMT":"; max-age="+b;break;case String:h="; expires="+b;break;case Date:h="; expires="+b.toUTCString()}document.cookie=encodeURIComponent(a)+"="+encodeURIComponent(c)+h+(g?"; domain="+g:"")+(e?"; path="+e:"")+(d?"; secure":"");return!0};c.getExpCookie=function(){var a=c.getCookie("exp_ad");if(null===a||isNaN(parseInt(a,10)))a=(1E3*Math.random()).toFixed(),c.setCookie("exp_ad",a,"Sun, 5 jan 3017 23:59:59 GMT","/",null,null);return a};c.prototype.get=
-function(a){return this.items[a]};c.checkTag=function(a,c,b,e){if(!a.expConfig)return"default";a=a.expConfig;var g=new Date(a.from),d=new Date(a.to);return a.pool==b&&c>=a.traffic[0]&&c<=a.traffic[1]&&e>=g&&e<d?"experiment":null};return c}();e["default"]=f},{}],2:[function(f,k,e){e.__esModule=!0;var c=f("./controllers/adportal_controller");(function(a){var e=a.document,b=function(){var b=e.currentScript||e.getElementById("wdg_vda");return b?a.JSON.parse(b.getAttribute("data-props")):{}}(),f=function(){for(var a=
-{},b=document.getElementsByTagName("meta")||[],c=0,e=b.length;c<e;c++)if(b[c].getAttribute){var f=b[c].getAttribute("property")||b[c].getAttribute("name")||null,k=b[c].getAttribute("content")||null;f&&(a[f]=k)}return a}(),b=new c["default"](b,f);a.AdPortal=b})(window)},{"./controllers/adportal_controller":1}]},{},[2]);
-//# sourceMappingURL=wdg_vda-MINIFIED-397f1bbc008fa139b5b241b463765001.js.map
+(function(){function f(g,d,c){function a(b,e){if(!d[b]){if(!g[b]){var k="function"==typeof require&&require;if(!e&&k)return k(b,!0);if(l)return l(b,!0);e=Error("Cannot find module '"+b+"'");throw e.code="MODULE_NOT_FOUND",e;}e=d[b]={exports:{}};g[b][0].call(e.exports,function(e){return a(g[b][1][e]||e)},e,e.exports,f,g,d,c)}return d[b].exports}for(var l="function"==typeof require&&require,b=0;b<c.length;b++)a(c[b]);return a}return f})()({1:[function(f,g,d){d.__esModule=!0;f=function(){function c(a,
+l){this.largeScreen=!0;this.activeTags=null;this.configObservers=[];this.items={};this.tags={};this.pushTags=function(a){var b=this;this.tags=a;this.configObservers.forEach(function(a){a(b.getTags())})};this.getVersion=function(){return this.wdg_version};this._checkTag=function(a){return c.checkTag(a,this.expCookie,this.pool,new Date(Date.now()))};this.chooseTag=function(a){for(var b=[],e=[],c=0,h=a.length;c<h;c++)switch(this._checkTag(a[c])){case "default":e.push(a[c]);break;case "experiment":b.push(a[c])}if(b.length)1<
+b.length&&console.info("More than one ad exp configurations, using first available");else{if(e.length)return e[0];console.info("No ad default configurations");return{}}return b[0]};this.getTags=function(){null===this.activeTags&&(Array.isArray(this.tags)?this.activeTags=this.chooseTag(this.tags):this.activeTags=this.tags);return this.activeTags};this.countryCode=a.country_code;this.netspeed=a.netspeed;this.deviceType=a.client_device_type;this.pageType=a.page_type;this.pool=a.pool;this.wdg_version=
+a.wdg_version;this.expCookie=c.getExpCookie();this.items=l;this.excludeBidders=a.exclude_bidders;this.setScreenSize()}c.prototype.setScreenSize=function(){"function"===typeof window.matchMedia&&(this.largeScreen=window.matchMedia("(min-width: 768px)").matches)};c.getCookie=function(a){return a?decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(a).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null:null};c.prototype.addConfigObserver=function(a){this.configObservers.push(a)};
+c.setCookie=function(a,c,b,d,e,k){if(!a||/^(?:expires|max\-age|path|domain|secure)$/i.test(a))return!1;var h="";if(b)switch(b.constructor){case Number:h=Infinity===b?"; expires=Fri, 31 Dec 9999 23:59:59 GMT":"; max-age="+b;break;case String:h="; expires="+b;break;case Date:h="; expires="+b.toUTCString()}document.cookie=encodeURIComponent(a)+"="+encodeURIComponent(c)+h+(e?"; domain="+e:"")+(d?"; path="+d:"")+(k?"; secure":"");return!0};c.getExpCookie=function(){var a=c.getCookie("exp_ad");if(null===
+a||isNaN(parseInt(a,10)))a=(1E3*Math.random()).toFixed(),c.setCookie("exp_ad",a,"Sun, 5 jan 3017 23:59:59 GMT","/",null,null);return a};c.prototype.get=function(a){return this.items[a]};c.checkTag=function(a,c,b,d){if(!a.expConfig)return"default";a=a.expConfig;b=new Date(a.from);var e=new Date(a.to);return c>=a.traffic[0]&&c<=a.traffic[1]&&d>=b&&d<e?"experiment":null};return c}();d["default"]=f},{}],2:[function(f,g,d){d.__esModule=!0;var c=f("./controllers/adportal_controller");(function(a){var d=
+a.document,b=function(){var b=d.currentScript||d.getElementById("wdg_vda");return b?a.JSON.parse(b.getAttribute("data-props")):{}}(),f=function(){for(var a={},b=document.getElementsByTagName("meta")||[],c=0,d=b.length;c<d;c++)if(b[c].getAttribute){var f=b[c].getAttribute("property")||b[c].getAttribute("name")||null,g=b[c].getAttribute("content")||null;f&&(a[f]=g)}return a}();b=new c["default"](b,f);a.AdPortal=b})(window)},{"./controllers/adportal_controller":1}]},{},[2]);
+//# sourceMappingURL=wdg_vda-MINIFIED-d44beae7fbb527e1e594f08e56e64a45.js.map
 
 // Package: main_desktop_girlsgogames_com_default_category, CountryCode: US
-AdPortal.pushTags({"adConfig":{"sgAdLbCp728x90":{"viewConfig":{"path":"/59392726/Original/__SITENAME__/labelpage/0_CP_728x90_F005_ATF_R0_T000_D000_P000_B000","targeting":{"pos":["middle"]},"bids":[{"bidder":"openx","params":{"unit":"539324928","delDomain":"spilgames-d.openx.net"}},{"bidder":"ix","params":{"siteId":"215087","size":[728,90]}},{"bidder":"ix","params":{"siteId":"215085","size":[970,250]}},{"bidder":"ix","params":{"siteId":"215086","size":[970,90]}},{"bidder":"districtm","params":{"placementId":"11905019"}},{"bidder":"pulsepoint","params":{"cf":"728X90","cp":"561048","ct":"605934"}},{"bidder":"pulsepoint","params":{"cf":"970X90","cp":"561048","ct":"605937"}},{"bidder":"pulsepoint","params":{"cf":"970X250","cp":"561048","ct":"605936"}},{"bidder":"appnexus","params":{"placementId":"11322013"}},{"bidder":"appnexus","params":{"placementId":"11322015"}},{"bidder":"appnexus","params":{"placementId":"11322014"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_728x90_F005_ATF_R0_T000_D000_P000_B000@728x90"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_728x90_F005_ATF_R0_T000_D000_P000_B000@970x250"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_728x90_F005_ATF_R0_T000_D000_P000_B000@970x90"}}]},"view":"spil_prebid","id":"div-gpt-ad-565557098666126302-1","tag":"sgAdLbCp728x90","sizes":[[728,90],[970,90],[970,250]],"adSourceName":"SPIL_PREBID"},"sgAdLbCp728x90small":{"viewConfig":{"path":"/59392726/Original/__SITENAME__/labelpage/0_CP_728x90_F005_ATF_R0_T000_D000_P000_B000","targeting":{"pos":["middle"]},"bids":[{"bidder":"openx","params":{"unit":"539324928","delDomain":"spilgames-d.openx.net"}},{"bidder":"ix","params":{"siteId":"215084","size":[728,90]}},{"bidder":"districtm","params":{"placementId":"11905019"}},{"bidder":"appnexus","params":{"placementId":"11322013"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_728x90_F005_ATF_R0_T000_D000_P000_B000@728x90"}}]},"view":"spil_prebid","id":"div-gpt-ad-565557098666126302-1","tag":"sgAdLbCp728x90","sizes":[[728,90]],"adSourceName":"SPIL_PREBID"},"sgAdStCp":{"viewConfig":{"path":"/59392726/Original/__SITENAME__/labelpage/0_CP_1x1_F009_ATF_R0_T000_D000_P000_B000","targeting":{}},"view":"dfp","tag":"sgAdStCp","id":"div-gpt-ad-383888936370337066-oop","adSourceName":"DFP"},"sgAdLb2Cp728x90":{"viewConfig":{"path":"/59392726/Original/__SITENAME__/labelpage/0_CP_728x90_F005_BTF_R0_T000_D000_P000_B000","targeting":{"pos":["middle_top"]},"bids":[{"bidder":"openx","params":{"unit":"539324929","delDomain":"spilgames-d.openx.net"}},{"bidder":"ix","params":{"siteId":"215087","size":[728,90]}},{"bidder":"districtm","params":{"placementId":"11905021"}},{"bidder":"pulsepoint","params":{"cf":"728X90","cp":"561048","ct":"605941"}},{"bidder":"appnexus","params":{"placementId":"11322016"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_728x90_F005_BTF_R0_T000_D000_P000_B000@728x90"}}]},"view":"spil_prebid","id":"div-gpt-ad-565557098666126302-4","tag":"sgAdLb2Cp728x90","sizes":[[728,90]],"adSourceName":"SPIL_PREBID"},"sgAdLb3Cp728x90":{"viewConfig":{"path":"/59392726/Original/__SITENAME__/labelpage/0_CP_728x90_F005_BTF2_R0_T000_D000_P000_B000","targeting":{"pos":["middle_bottom"]},"bids":[{"bidder":"openx","params":{"unit":"539324930","delDomain":"spilgames-d.openx.net"}},{"bidder":"ix","params":{"siteId":"215083","size":[728,90]}},{"bidder":"pulsepoint","params":{"cf":"728X90","cp":"561048","ct":"605939"}},{"bidder":"districtm","params":{"placementId":"11905016"}},{"bidder":"appnexus","params":{"placementId":"11992707"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_728x90_F005_BTF2_R0_T000_D000_P000_B000@728x90"}}]},"view":"spil_prebid","id":"div-gpt-ad-1497424515894-0","tag":"sgAdLb3Cp728x90","sizes":[[728,90]],"adSourceName":"SPIL_PREBID"},"sgAdScCp160x600":{"viewConfig":{"path":"/59392726/Original/__SITENAME__/labelpage/0_CP_300x600_F011_ATF_R0_T000_D000_P000_B000","targeting":{"pos":["top_right"]},"bids":[{"bidder":"openx","params":{"unit":"539324927","delDomain":"spilgames-d.openx.net"}},{"bidder":"ix","params":{"siteId":"215081","size":[120,600]}},{"bidder":"ix","params":{"siteId":"215082","size":[160,600]}},{"bidder":"ix","params":{"siteId":"215079","size":[300,250]}},{"bidder":"ix","params":{"siteId":"215080","size":[300,600]}},{"bidder":"pulsepoint","params":{"cf":"120X600","cp":"561048","ct":"605930"}},{"bidder":"pulsepoint","params":{"cf":"160X600","cp":"561048","ct":"605931"}},{"bidder":"pulsepoint","params":{"cf":"300X250","cp":"561048","ct":"605932"}},{"bidder":"pulsepoint","params":{"cf":"300X600","cp":"561048","ct":"605933"}},{"bidder":"districtm","params":{"placementId":"11905015"}},{"bidder":"appnexus","params":{"placementId":"11322009"}},{"bidder":"appnexus","params":{"placementId":"11322010"}},{"bidder":"appnexus","params":{"placementId":"11322011"}},{"bidder":"appnexus","params":{"placementId":"11322012"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_300x600_F011_ATF_R0_T000_D000_P000_B000@120x600"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_300x600_F011_ATF_R0_T000_D000_P000_B000@160x600"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_300x600_F011_ATF_R0_T000_D000_P000_B000@300x250"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_300x600_F011_ATF_R0_T000_D000_P000_B000@300x600"}}]},"view":"spil_prebid","id":"div-gpt-ad-565557098666126302-3","tag":"sgAdScCp160x600","sizes":[[300,250],[300,600],[120,600],[160,600]],"adSourceName":"SPIL_PREBID"}},"pageConfig":{"adomik":true,"type":"category","prebid":{"bidderSettings":{"districtm":{"bidAdjustment":0.9},"brealtime":{"bidAdjustment":0.85}}}}});
+AdPortal.pushTags({"adConfig":{"sgAdLbCp728x90":{"viewConfig":{"path":"/59392726/Original/__SITENAME__/labelpage/0_CP_728x90_F005_ATF_R0_T000_D000_P000_B000","targeting":{"pos":["middle"]},"bids":[{"bidder":"openx","params":{"unit":"539324928","delDomain":"spilgames-d.openx.net"}},{"bidder":"ix","params":{"siteId":"215087","size":[728,90]}},{"bidder":"ix","params":{"siteId":"215085","size":[970,250]}},{"bidder":"ix","params":{"siteId":"215086","size":[970,90]}},{"bidder":"districtmDMX","params":{"dmxid":169930,"memberid":100434}},{"bidder":"pulsepoint","params":{"cf":"728X90","cp":"561048","ct":"605934"}},{"bidder":"pulsepoint","params":{"cf":"970X90","cp":"561048","ct":"605937"}},{"bidder":"pulsepoint","params":{"cf":"970X250","cp":"561048","ct":"605936"}},{"bidder":"appnexus","params":{"placementId":"11322013"}},{"bidder":"appnexus","params":{"placementId":"11322015"}},{"bidder":"appnexus","params":{"placementId":"11322014"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_728x90_F005_ATF_R0_T000_D000_P000_B000@728x90"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_728x90_F005_ATF_R0_T000_D000_P000_B000@970x250"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_728x90_F005_ATF_R0_T000_D000_P000_B000@970x90"}}]},"view":"spil_prebid","id":"div-gpt-ad-565557098666126302-1","tag":"sgAdLbCp728x90","sizes":[[728,90],[970,90],[970,250]],"adSourceName":"SPIL_PREBID"},"sgAdLbCp728x90small":{"viewConfig":{"path":"/59392726/Original/__SITENAME__/labelpage/0_CP_728x90_F005_ATF_R0_T000_D000_P000_B000","targeting":{"pos":["middle"]},"bids":[{"bidder":"openx","params":{"unit":"539324928","delDomain":"spilgames-d.openx.net"}},{"bidder":"ix","params":{"siteId":"215084","size":[728,90]}},{"bidder":"districtmDMX","params":{"dmxid":169930,"memberid":100434}},{"bidder":"appnexus","params":{"placementId":"11322013"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_728x90_F005_ATF_R0_T000_D000_P000_B000@728x90"}}]},"view":"spil_prebid","id":"div-gpt-ad-565557098666126302-1","tag":"sgAdLbCp728x90","sizes":[[728,90]],"adSourceName":"SPIL_PREBID"},"sgAdStCp":{"viewConfig":{"path":"/59392726/Original/__SITENAME__/labelpage/0_CP_1x1_F009_ATF_R0_T000_D000_P000_B000","targeting":{}},"view":"dfp","tag":"sgAdStCp","id":"div-gpt-ad-383888936370337066-oop","adSourceName":"DFP"},"sgAdLb2Cp728x90":{"viewConfig":{"path":"/59392726/Original/__SITENAME__/labelpage/0_CP_728x90_F005_BTF_R0_T000_D000_P000_B000","targeting":{"pos":["middle_top"]},"bids":[{"bidder":"openx","params":{"unit":"539324929","delDomain":"spilgames-d.openx.net"}},{"bidder":"ix","params":{"siteId":"215087","size":[728,90]}},{"bidder":"districtmDMX","params":{"dmxid":169932,"memberid":100434}},{"bidder":"pulsepoint","params":{"cf":"728X90","cp":"561048","ct":"605941"}},{"bidder":"appnexus","params":{"placementId":"11322016"}}]},"view":"spil_prebid","id":"div-gpt-ad-565557098666126302-4","tag":"sgAdLb2Cp728x90","sizes":[[728,90]],"adSourceName":"SPIL_PREBID"},"sgAdLb3Cp728x90":{"viewConfig":{"path":"/59392726/Original/__SITENAME__/labelpage/0_CP_728x90_F005_BTF2_R0_T000_D000_P000_B000","targeting":{"pos":["middle_bottom"]},"bids":[{"bidder":"openx","params":{"unit":"539324930","delDomain":"spilgames-d.openx.net"}},{"bidder":"ix","params":{"siteId":"215083","size":[728,90]}},{"bidder":"pulsepoint","params":{"cf":"728X90","cp":"561048","ct":"605939"}},{"bidder":"districtmDMX","params":{"dmxid":169927,"memberid":100434}},{"bidder":"appnexus","params":{"placementId":"11992707"}}]},"view":"spil_prebid","id":"div-gpt-ad-1497424515894-0","tag":"sgAdLb3Cp728x90","sizes":[[728,90]],"adSourceName":"SPIL_PREBID"},"sgAdScCp160x600":{"viewConfig":{"path":"/59392726/Original/__SITENAME__/labelpage/0_CP_300x600_F011_ATF_R0_T000_D000_P000_B000","targeting":{"pos":["top_right"]},"bids":[{"bidder":"openx","params":{"unit":"539324927","delDomain":"spilgames-d.openx.net"}},{"bidder":"ix","params":{"siteId":"215081","size":[120,600]}},{"bidder":"ix","params":{"siteId":"215082","size":[160,600]}},{"bidder":"ix","params":{"siteId":"215079","size":[300,250]}},{"bidder":"ix","params":{"siteId":"215080","size":[300,600]}},{"bidder":"pulsepoint","params":{"cf":"120X600","cp":"561048","ct":"605930"}},{"bidder":"pulsepoint","params":{"cf":"160X600","cp":"561048","ct":"605931"}},{"bidder":"pulsepoint","params":{"cf":"300X250","cp":"561048","ct":"605932"}},{"bidder":"pulsepoint","params":{"cf":"300X600","cp":"561048","ct":"605933"}},{"bidder":"districtmDMX","params":{"dmxid":169926,"memberid":100434}},{"bidder":"appnexus","params":{"placementId":"11322009"}},{"bidder":"appnexus","params":{"placementId":"11322010"}},{"bidder":"appnexus","params":{"placementId":"11322011"}},{"bidder":"appnexus","params":{"placementId":"11322012"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_300x600_F011_ATF_R0_T000_D000_P000_B000@120x600"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_300x600_F011_ATF_R0_T000_D000_P000_B000@160x600"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_300x600_F011_ATF_R0_T000_D000_P000_B000@300x250"}},{"bidder":"pubmatic","params":{"publisherId":"150561","adSlot":"/59392726/Original/Girlsgogames.com/labelpage/0_CP_300x600_F011_ATF_R0_T000_D000_P000_B000@300x600"}}]},"view":"spil_prebid","id":"div-gpt-ad-565557098666126302-3","tag":"sgAdScCp160x600","sizes":[[300,250],[300,600],[120,600],[160,600]],"adSourceName":"SPIL_PREBID"}},"pageConfig":{"adomik":false,"roxot":true,"type":"category","prebid":{"bidderSettings":{"districtmDMX":{"bidAdjustment":0.9},"brealtime":{"bidAdjustment":0.85}}}}});
 // ]]>
 </script>
 <script>
     AdPortal.label = 'Advertisement'
 </script>
-<link rel="preload" href="/wdg/vda-active/js/minified/wdg_vda-MINIFIED-904f0907e67e223316817c23c5c5b211.js" as="script">
-<script src="/wdg/vda-active/js/minified/wdg_vda-MINIFIED-904f0907e67e223316817c23c5c5b211.js" async="" defer=""></script>
+<link rel="preload" href="/wdg/vda-active/js/minified/wdg_vda-MINIFIED-edfa6ecbc7853f747596b9e3cbbe82ff.js" as="script">
+<script src="/wdg/vda-active/js/minified/wdg_vda-MINIFIED-edfa6ecbc7853f747596b9e3cbbe82ff.js" async="" defer=""></script>
 
 
         
@@ -96,12 +95,6 @@ AdPortal.pushTags({"adConfig":{"sgAdLbCp728x90":{"viewConfig":{"path":"/59392726
 
 
 
-
-
-        
-        <script>
-SpilGames(['Portal'],function(P){P.set('theme','girls')});
-</script>
 
         
         <script id="fontloader" data-font="27b639edfa1b1916a6d793cb2b618193">(function(b,d){var f=d.createElement("style"),h=d.getElementById("fontloader").getAttribute("data-font"),c;d.head.appendChild(f);try{if(c=b.localStorage.getItem("spilgames.fonts"))c=JSON.parse(c),c.value&&c.value.md5===h?f.innerHTML=c.value.value:(b.localStorage.removeItem("spilgames.fonts"),c=null)}catch(e){}SpilGames(["SWP","SWPEvent","DOMSelect","Net","LocalStorage"],function(e,r,t,k,u){function l(a){v&&a&&(a=[a,m,"json"].join("."),k.get("/wdg/css_aggregator-active/fonts/"+a,function(a){a.error||
@@ -139,11 +132,8 @@ document);
             </script>
         <!-- End Google Tag Manager -->
         
-    </head>
+    <script async="" src="/wdg/js_aggregator-active/js/module/monetisation/advertisement.js"></script><script async="" src="https://www.google.com/recaptcha/api.js?render=6Ldq3JAUAAAAAGuIP9h_H27psubmK_OOOJJxEpXH"></script></head>
     <body itemscope="itemscope" itemtype="http://schema.org/WebPage" class="takeover-wrapper desktop" data-page="wdg_static_pages">
-        
-
-        
 
         
 
@@ -165,38 +155,15 @@ document);
         <a id="wdg_header_logo" class="wdg_header_logo wdg_header_logo--90" href="/">
     
         
-            <img src="/wdg/header_logo-3.1.5/images/girls/christmas/girlsgogames.com.png" class="logo" alt="Your zone to play free online games">
+            <img src="/wdg/header_logo-3.1.13/images/girls/girlsgogames.com.png" class="logo" alt="Your zone to play free online games">
             
-                <img src="/wdg/header_logo-3.1.5/images/girls/girlsgogames.com-small.png" class="logo small" alt="Your zone to play free online games">
+                <img src="/wdg/header_logo-3.1.13/images/girls/girlsgogames.com-small.png" class="logo small" alt="Your zone to play free online games">
             
         
     
 </a>
 
-        <div id="wdg_user_status" class="wdg_user_status dropdown-container">
-    
-    <a id="login-button-nav" class="sign-in button small green">
-        <span class="icon--profile"></span>
-    </a>
-    
-</div>
-
-        <div id="wdg_theme_settings" class="wdg_theme_settings dropdown-container" data-props="{&quot;user_logged_in&quot;:false,&quot;guid&quot;:&quot;288513728835720116&quot;,&quot;siteid&quot;:90}">
-    <button type="button" class="toggle button">
-        <span class="icon--color-palette"></span>
-    </button>
-    <div class="dropdown-box">
-        <p class="title">Pick a theme</p>
-        <ul>
-            <li class="ellipsis" data-theme="family"><span class="theme theme-family"></span>Red</li>
-            <li class="ellipsis" data-theme="teens"><span class="theme theme-teens"></span>Blue</li>
-            <li class="ellipsis" data-theme="girls"><span class="theme theme-girls"></span>Pink</li>
-            
-            
-        </ul>
-    </div>
-</div>
-
+        
         <form id="wdg_search_bar" class="wdg_search_bar dropdown-container" method="get" action="/search/" data-props="{&quot;microservice_url&quot;:&quot;/wdg/suggester/&quot;,&quot;url_prefix&quot;:&quot;/__game/&quot;}">
     <input type="hidden" name="from" value="wdg_static_pages">
     <div class="search-open">
@@ -253,88 +220,77 @@ document);
 </form>
 
         <nav id="wdg_menu" class="wdg_menu mega-dropdown nav" data-props="{&quot;extension_id&quot;:&quot;&quot;,&quot;extension_link&quot;:&quot;&quot;,&quot;view&quot;:&quot;desktop&quot;}">
-    <div class="horizontale-menu horizontale-menu_not-inited">
+    <div class="horizontale-menu">
         <ul class="promotions clearfix">
             
-            <li class="horizontale-item" data-menu-id="advent-calendar">
-                <a href="/advent-calendar" target="_top" class="icon-wrapper" data-widget="menu" data-label="parent" data-path="advent-calendar">
-                    <p class="menu-title">Advent Calendar</p>
-                </a>
-            </li>
-            <li class="horizontale-item" data-menu-id="apps">
-                <a href="/games/apps" target="_top" class="icon-wrapper" data-widget="menu" data-label="parent" data-path="apps">
-                    <p class="menu-title">Apps</p>
-                </a>
-            </li>
             
-            
-            <li class="horizontale-item can-be-hidden " data-menu-id="dress-up">
+            <li class="horizontale-item can-be-hidden" data-menu-id="dress-up">
                 
-                <a href="/games/dress_up" class="icon-wrapper" data-index="1" data-widget="menu" data-label="parent" data-path="label-Dress Up" target="_top">
+                    <a href="/games/dress_up" class="icon-wrapper" data-index="1" data-widget="menu" data-label="parent" data-path="label-Dress Up" target="_top">
                 
                     <p class="menu-title">Dress Up</p>
                 
-                </a>
+                    </a>
                 
             </li>
             
             <li class="horizontale-item can-be-hidden hide-item" data-menu-id="beauty">
                 
-                <a href="/games/beauty-games" class="icon-wrapper" data-index="2" data-widget="menu" data-label="parent" data-path="label-Beauty" target="_top">
+                    <a href="/games/beauty-games" class="icon-wrapper" data-index="2" data-widget="menu" data-label="parent" data-path="label-Beauty" target="_top">
                 
                     <p class="menu-title">Beauty</p>
                 
-                </a>
+                    </a>
                 
             </li>
             
             <li class="horizontale-item can-be-hidden hide-item" data-menu-id="cooking">
                 
-                <a href="/games/cooking" class="icon-wrapper" data-index="3" data-widget="menu" data-label="parent" data-path="label-Cooking" target="_top">
+                    <a href="/games/cooking" class="icon-wrapper" data-index="3" data-widget="menu" data-label="parent" data-path="label-Cooking" target="_top">
                 
                     <p class="menu-title">Cooking</p>
                 
-                </a>
+                    </a>
                 
             </li>
             
             <li class="horizontale-item can-be-hidden hide-item" data-menu-id="animals">
                 
-                <a href="/games/animals" class="icon-wrapper" data-index="4" data-widget="menu" data-label="parent" data-path="label-Animals" target="_top">
+                    <a href="/games/animals" class="icon-wrapper" data-index="4" data-widget="menu" data-label="parent" data-path="label-Animals" target="_top">
                 
                     <p class="menu-title">Animal Games</p>
                 
-                </a>
+                    </a>
                 
             </li>
             
-            <li class="horizontale-item can-be-hidden hide-item" data-menu-id="decoration">
+            <li class="horizontale-item can-be-hidden hide-item hidden" data-menu-id="decoration">
                 
-                <a href="/games/decoration-games" class="icon-wrapper" data-index="5" data-widget="menu" data-label="parent" data-path="label-Decoration" target="_top">
+                    <a href="/games/decoration-games" class="icon-wrapper" data-index="5" data-widget="menu" data-label="parent" data-path="label-Decoration" target="_top">
                 
                     <p class="menu-title">Decoration</p>
                 
-                </a>
+                    </a>
                 
             </li>
             
-            <li class="horizontale-item can-be-hidden hide-item" data-menu-id="skill">
+            <li class="horizontale-item can-be-hidden hide-item hidden" data-menu-id="skill">
                 
-                <a href="/games/skill" class="icon-wrapper" data-index="6" data-widget="menu" data-label="parent" data-path="label-Skill" target="_top">
+                    <a href="/games/skill" class="icon-wrapper" data-index="6" data-widget="menu" data-label="parent" data-path="label-Skill" target="_top">
                 
                     <p class="menu-title">Skill</p>
                 
-                </a>
+                    </a>
                 
             </li>
             
-            <li class="horizontale-item can-be-hidden hide-item" data-menu-id="simulation">
+            <li class="horizontale-item can-be-hidden hide-item hidden" data-menu-id="simulation">
                 
-                <a href="/games/simulation" class="icon-wrapper" data-index="7" data-widget="menu" data-label="parent" data-path="label-Simulation" target="_top">
+                    <a href="/games/simulation" class="icon-wrapper" data-index="7" data-widget="menu" data-label="parent" data-path="label-Simulation" target="_top">
                 
                     <p class="menu-title">Simulation</p>
                 
-                </a>
+                    </a>
                 
             </li>
             
@@ -343,11 +299,13 @@ document);
                     <p class="menu-title">More</p>
                 </button>
             </li>
+            
             <li class="horizontale-item" data-menu-id="for-you">
                 <button type="button" class="icon-wrapper ellipsis" data-widget="menu" data-label="parent" data-path="for-you">
                     <p class="menu-title">For you</p>
                 </button>
             </li>
+            
             
         </ul>
 
@@ -487,52 +445,43 @@ document);
                             </div>
                         </div>
                     </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 best-games">
+                    <div class="grid-col col-l-2-3 best-games">
                         <header class="box-header">
                             <h3 class="box-title ellipsis">Best Games</h3>
                         </header>
-                        <ul class="grid-row col-l-3">
+                        <ul class="grid-row col-3 col-m-6">
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/ellie-get-ready-with-me" title="Ellie: Get Ready With Me">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-5/200X120_169165_1489060390.png" alt="Ellie: Get Ready With Me" data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280303309">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-5/200X120_169165_1489060390.png" alt="Ellie: Get Ready With Me" data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280303309" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Ellie: Get Ready With Me</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/back-to-school-princesses-rush" title="Back To School: Princesses Rush">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-1/200X120_167561.jpg" alt="Back To School: Princesses Rush" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280301705" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Back To School: Princesses Rush</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/princess-rivalry" title="Princess Rivalry">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-1-7/200X120_171817_1518778191.png" alt="Princess Rivalry" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280305961">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-1-7/200X120_171817_1518778191.png" alt="Princess Rivalry" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280305961" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Princess Rivalry</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/a-new-beginning-from-sad-to-fab" title="A New Beginning: From Sad To Fab">
-                                    <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-3/200X120_171243_1510668899.png" alt="A New Beginning: From Sad To Fab" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280305387">
-                                    </div>
-                                    <div class="tile-title ellipsis">A New Beginning: From Sad To Fab</div>
-                                </a>
-                            </li>
-                            
-                            <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/dress-up-to-the-top" title="Dress Up to the Top">
-                                    <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-7-6/200X120_172376_1528385523.png" alt="Dress Up to the Top" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280306520">
-                                    </div>
-                                    <div class="tile-title ellipsis">Dress Up to the Top</div>
-                                </a>
-                            </li>
-                            
-                            <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/the-princess-sent-to-the-future" title="The Princess: Sent to the Future ">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-1/200X120_169641_1493805052.png" alt="The Princess: Sent to the Future " data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280303785">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-1/200X120_169641_1493805052.png" alt="The Princess: Sent to the Future " data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280303785" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">The Princess: Sent to the Future </div>
                                 </a>
@@ -541,31 +490,76 @@ document);
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/princess-hard-times" title="Princess Hard Times">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-7-5/200X120_169975_1497947748.png" alt="Princess Hard Times" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280304119">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-7-5/200X120_169975_1497947748.png" alt="Princess Hard Times" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280304119" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Princess Hard Times</div>
                                 </a>
                             </li>
                             
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/dress-up-to-the-top" title="Dress Up to the Top">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1550131949_Dress-Up-to-the-Top-200x120.png" alt="Dress Up to the Top" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280306520" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Dress Up to the Top</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/princess-maker" title="Princess Maker">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1440065352_L.gif" alt="Princess Maker" data-index="7" data-widget="menu" data-label="best-games" data-appid="576742227280296029" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Princess Maker</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/how-to-become-popular-at-school-with-princess" title="How To Become Popular at School with Princess">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-2/200X120_168742_1484819395.png" alt="How To Become Popular at School with Princess" data-index="8" data-widget="menu" data-label="best-games" data-appid="576742227280302886" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">How To Become Popular at School with Princess</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/mermaid-sauna-flirting" title="Mermaid Sauna Flirting">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-1-3/200X120_175113_1554460286.png" alt="Mermaid Sauna Flirting" data-index="9" data-widget="menu" data-label="best-games" data-appid="576742227280309257" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Mermaid Sauna Flirting</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/my-fresh-start-makeover" title="My Fresh Start Makeover">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-8-2/200X120_166782.jpg" alt="My Fresh Start Makeover" data-index="10" data-widget="menu" data-label="best-games" data-appid="576742227280300926" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">My Fresh Start Makeover</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/bad-teeth-makeover" title="Bad Teeth Makeover">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1440155959_L.gif" alt="Bad Teeth Makeover" data-index="11" data-widget="menu" data-label="best-games" data-appid="576742227280296139" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Bad Teeth Makeover</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/princesses-breakup-drama" title="Princesses: Breakup Drama">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-8-2/200X120_174182_1545224625.png" alt="Princesses: Breakup Drama" data-index="12" data-widget="menu" data-label="best-games" data-appid="576742227280308326" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Princesses: Breakup Drama</div>
+                                </a>
+                            </li>
+                            
                         </ul>
-                    </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 promotion">
-                        <header class="box-header">
-                            <h3 class="box-title ellipsis ellipsis">Spotlight</h3>
-                        </header>
-                        
-                        <div class="box-content">
-                            <div class="tile-wrapper span-3-2">
-                                <div class="tile clearfix">
-                                    <a class="link" href="/game/princess-maker" title="Princess Maker">
-                                        <img class="displayer-image lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1490695877_1478781056_princess-maker.jpg" alt="Princess Maker" data-index="1" data-widget="menu" data-label="promotion-game" data-appid="576742227280296029">
-                                        <div class="tile-title ellipsis">Princess Maker</div>
-                                    </a>
-                                </div>
-                                <div class="tile-placeholder"></div>
-                            </div>
-                        </div>
-                        
                     </div>
                 </div>
             </li>
@@ -701,85 +695,121 @@ document);
                             </div>
                         </div>
                     </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 best-games">
+                    <div class="grid-col col-l-2-3 best-games">
                         <header class="box-header">
                             <h3 class="box-title ellipsis">Best Games</h3>
                         </header>
-                        <ul class="grid-row col-l-3">
+                        <ul class="grid-row col-3 col-m-6">
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/ellie-get-ready-with-me" title="Ellie: Get Ready With Me">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-5/200X120_169165_1489060390.png" alt="Ellie: Get Ready With Me" data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280303309">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-5/200X120_169165_1489060390.png" alt="Ellie: Get Ready With Me" data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280303309" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Ellie: Get Ready With Me</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/a-new-beginning-from-sad-to-fab" title="A New Beginning: From Sad To Fab">
-                                    <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-3/200X120_171243_1510668899.png" alt="A New Beginning: From Sad To Fab" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280305387">
-                                    </div>
-                                    <div class="tile-title ellipsis">A New Beginning: From Sad To Fab</div>
-                                </a>
-                            </li>
-                            
-                            <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/the-princess-sent-to-the-future" title="The Princess: Sent to the Future ">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-1/200X120_169641_1493805052.png" alt="The Princess: Sent to the Future " data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280303785">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-1/200X120_169641_1493805052.png" alt="The Princess: Sent to the Future " data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280303785" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">The Princess: Sent to the Future </div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/mermaid-sauna-flirting" title="Mermaid Sauna Flirting">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-1-3/200X120_175113_1554460286.png" alt="Mermaid Sauna Flirting" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280309257" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Mermaid Sauna Flirting</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/my-fresh-start-makeover" title="My Fresh Start Makeover">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-8-2/200X120_166782.jpg" alt="My Fresh Start Makeover" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280300926">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-8-2/200X120_166782.jpg" alt="My Fresh Start Makeover" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280300926" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">My Fresh Start Makeover</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/ellie-artist-makeover" title="Ellie: Artist Makeover">
+                                <a class="tile" href="/game/ellie-tongue-doctor" title="Ellie: Tongue Doctor">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-5-6/200X120_172756_1533044192.png" alt="Ellie: Artist Makeover" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280306900">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-5-5/200X120_175155_1553767192.png" alt="Ellie: Tongue Doctor" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280309299" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Ellie: Artist Makeover</div>
+                                    <div class="tile-title ellipsis">Ellie: Tongue Doctor</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/cute-unicorn-care" title="Cute Unicorn Care">
+                                <a class="tile" href="/game/a-new-beginning-from-sad-to-fab" title="A New Beginning: From Sad To Fab">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-8-4/200X120_172484_1530256950.png" alt="Cute Unicorn Care" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280306628">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-3/200X120_171243_1510668899.png" alt="A New Beginning: From Sad To Fab" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280305387" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Cute Unicorn Care</div>
+                                    <div class="tile-title ellipsis">A New Beginning: From Sad To Fab</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/princess-angel-costumes" title="Princess Angel Costumes">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-3-4/200X120_174834_1551345746.png" alt="Princess Angel Costumes" data-index="7" data-widget="menu" data-label="best-games" data-appid="576742227280308978" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Princess Angel Costumes</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/sisters-high-school-prom" title="Sisters High School Prom">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-7-4/200X120_175174_1553767026.png" alt="Sisters High School Prom" data-index="8" data-widget="menu" data-label="best-games" data-appid="576742227280309318" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Sisters High School Prom</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/ellie-ruined-wedding" title="Ellie: Ruined Wedding">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-2-0/200X120_174920_1552031599.png" alt="Ellie: Ruined Wedding" data-index="9" data-widget="menu" data-label="best-games" data-appid="576742227280309064" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Ellie: Ruined Wedding</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/astrology-fashion-wheel" title="Astrology Fashion Wheel">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-9-9/200X120_175299_1555318873.png" alt="Astrology Fashion Wheel" data-index="10" data-widget="menu" data-label="best-games" data-appid="576742227280309443" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Astrology Fashion Wheel</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/bffs-breakup-guide" title="BFF's Breakup Guide">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-3-0/200X120_174730_1550479980.png" alt="BFF's Breakup Guide" data-index="11" data-widget="menu" data-label="best-games" data-appid="576742227280308874" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">BFF's Breakup Guide</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/celebrities-sisters-breakup" title="Celebrities: Sisters Breakup">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-0/200X120_174840_1551343678.png" alt="Celebrities: Sisters Breakup" data-index="12" data-widget="menu" data-label="best-games" data-appid="576742227280308984" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Celebrities: Sisters Breakup</div>
                                 </a>
                             </li>
                             
                         </ul>
-                    </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 promotion">
-                        <header class="box-header">
-                            <h3 class="box-title ellipsis ellipsis">Spotlight</h3>
-                        </header>
-                        
-                        <div class="box-content">
-                            <div class="tile-wrapper span-3-2">
-                                <div class="tile clearfix">
-                                    <a class="link" href="/game/pure-princess-real-haircuts" title="Pure Princess Real Haircuts">
-                                        <img class="displayer-image lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1490695646_1478781166_Pure-princess-real-haircuts.jpg" alt="Pure Princess Real Haircuts" data-index="1" data-widget="menu" data-label="promotion-game" data-appid="576742227280298649">
-                                        <div class="tile-title ellipsis">Pure Princess Real Haircuts</div>
-                                    </a>
-                                </div>
-                                <div class="tile-placeholder"></div>
-                            </div>
-                        </div>
-                        
                     </div>
                 </div>
             </li>
@@ -919,85 +949,121 @@ document);
                             </div>
                         </div>
                     </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 best-games">
+                    <div class="grid-col col-l-2-3 best-games">
                         <header class="box-header">
                             <h3 class="box-title ellipsis">Best Games</h3>
                         </header>
-                        <ul class="grid-row col-l-3">
+                        <ul class="grid-row col-3 col-m-6">
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/papas-scooperia" title="Papa's Scooperia">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-2/200X120_172802_1533644823.png" alt="Papa's Scooperia" data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280306946">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-2/200X120_172802_1533644823.png" alt="Papa's Scooperia" data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280306946" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Papa's Scooperia</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/ice-cream-donut" title="Ice Cream Donut">
+                                <a class="tile" href="/game/chocolate-cupcakes-saras-cooking-class" title="Chocolate Cupcakes: Sara's Cooking Class">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-5-8/200X120_172758_1532598737.png" alt="Ice Cream Donut" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280306902">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1431084535_raspberry.png" alt="Chocolate Cupcakes: Sara's Cooking Class" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280293589" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Ice Cream Donut</div>
+                                    <div class="tile-title ellipsis">Chocolate Cupcakes: Sara's Cooking Class</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/pizza-real-life-cooking" title="Pizza Real Life Cooking">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-4/200X120_171804_1518616302.png" alt="Pizza Real Life Cooking" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280305948">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-4/200X120_171804_1518616302.png" alt="Pizza Real Life Cooking" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280305948" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Pizza Real Life Cooking</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/cake-design" title="Cake Design">
+                                <a class="tile" href="/game/papas-sushiria" title="Papa's Sushiria">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-9-0/200X120_171190_1509541008.png" alt="Cake Design" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280305334">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1481810662_l.png" alt="Papa's Sushiria" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280302570" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Cake Design</div>
+                                    <div class="tile-title ellipsis">Papa's Sushiria</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/saras_cooking_class_california_rolls" title="Sara's Cooking Class: California Rolls">
+                                <a class="tile" href="/game/papas-bakeria" title="Papa's Bakeria">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1441882560_576742227280285298_large.jpg" alt="Sara's Cooking Class: California Rolls" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280285298">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1459382269_l.PNG" alt="Papa's Bakeria" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280299581" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Sara's Cooking Class: California Rolls</div>
+                                    <div class="tile-title ellipsis">Papa's Bakeria</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/burger_restaurant_express" title="Burger Restaurant Express">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1441883211_576742227280292174_large.jpg" alt="Burger Restaurant Express" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280292174">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1441883211_576742227280292174_large.jpg" alt="Burger Restaurant Express" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280292174" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Burger Restaurant Express</div>
                                 </a>
                             </li>
                             
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/saras_cooking_class_california_rolls" title="Sara's Cooking Class: California Rolls">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1441882560_576742227280285298_large.jpg" alt="Sara's Cooking Class: California Rolls" data-index="7" data-widget="menu" data-label="best-games" data-appid="576742227280285298" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Sara's Cooking Class: California Rolls</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/papas_freezeria" title="Papa's Freezeria">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1441883004_576742227280287182_large.jpg" alt="Papa's Freezeria" data-index="8" data-widget="menu" data-label="best-games" data-appid="576742227280287182" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Papa's Freezeria</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/papas_donuteria" title="Papa’s Donuteria">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1420195430_papas_donuteria_200x120_20140624101156_Papas-donutaria.jpg" alt="Papa’s Donuteria" data-index="9" data-widget="menu" data-label="best-games" data-appid="576742227280292172" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Papa’s Donuteria</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/papas_pastaria" title="Papa's Pastaria">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1539605316_Papas-Pastaria-200x120.png" alt="Papa's Pastaria" data-index="10" data-widget="menu" data-label="best-games" data-appid="576742227280291978" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Papa's Pastaria</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/chicken-fettuccine-saras-cooking-class" title="Chicken Fettuccine: Sara's Cooking Class">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1429188626_200x120_SCC_ChickenFettucine.png" alt="Chicken Fettuccine: Sara's Cooking Class" data-index="11" data-widget="menu" data-label="best-games" data-appid="576742227280293350" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Chicken Fettuccine: Sara's Cooking Class</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/papas-cheeseria" title="Papa’s Cheeseria">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1434375688_papa-scheeseria-1.jpg" alt="Papa’s Cheeseria" data-index="12" data-widget="menu" data-label="best-games" data-appid="576742227280295299" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Papa’s Cheeseria</div>
+                                </a>
+                            </li>
+                            
                         </ul>
-                    </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 promotion">
-                        <header class="box-header">
-                            <h3 class="box-title ellipsis ellipsis">Spotlight</h3>
-                        </header>
-                        
-                        <div class="box-content">
-                            <div class="tile-wrapper span-3-2">
-                                <div class="tile clearfix">
-                                    <a class="link" href="/game/Saras_Cooking_Class_Trifle" title="Sara's Cooking Class: Trifle">
-                                        <img class="displayer-image lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1490695694_1478784321_trifleEP.jpg" alt="Sara's Cooking Class: Trifle" data-index="1" data-widget="menu" data-label="promotion-game" data-appid="576742227280287210">
-                                        <div class="tile-title ellipsis">Sara's Cooking Class: Trifle</div>
-                                    </a>
-                                </div>
-                                <div class="tile-placeholder"></div>
-                            </div>
-                        </div>
-                        
                     </div>
                 </div>
             </li>
@@ -1133,85 +1199,121 @@ document);
                             </div>
                         </div>
                     </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 best-games">
+                    <div class="grid-col col-l-2-3 best-games">
                         <header class="box-header">
                             <h3 class="box-title ellipsis">Best Games</h3>
                         </header>
-                        <ul class="grid-row col-l-3">
+                        <ul class="grid-row col-3 col-m-6">
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/fox-simulator" title="Fox Simulator">
+                                <a class="tile" href="/game/happy-snakes" title="Happy Snakes">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-4/200X120_172304_1527688473.png" alt="Fox Simulator" data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280306448">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1550133031_Happy-Snakes-200x120.png" alt="Happy Snakes" data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280307991" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Fox Simulator</div>
+                                    <div class="tile-title ellipsis">Happy Snakes</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/cat-3d-simulator" title="Cat 3D Simulator">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1518532818_kitty-craft-200x120.png" alt="Cat 3D Simulator" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280305368">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1518532818_kitty-craft-200x120.png" alt="Cat 3D Simulator" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280305368" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Cat 3D Simulator</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/cute-unicorn-care" title="Cute Unicorn Care">
+                                <a class="tile" href="/game/charger-escape" title="Charger Escape">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-8-4/200X120_172484_1530256950.png" alt="Cute Unicorn Care" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280306628">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1441876690_576742227280279358_large.gif" alt="Charger Escape" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280279358" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Cute Unicorn Care</div>
+                                    <div class="tile-title ellipsis">Charger Escape</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/dog-simulator-puppy-craft" title="Dog Simulator: Puppy Craft">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-9-3/200X120_171493_1513851531.png" alt="Dog Simulator: Puppy Craft" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280305637" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Dog Simulator: Puppy Craft</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/animal_shelter" title="Animal Shelter">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1441877834_576742227280280603_large.gif" alt="Animal Shelter" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280280603" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Animal Shelter</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/horse-care-and-riding" title="Horse Care and Riding">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-1-3/200X120_171813_1518615928.png" alt="Horse Care and Riding" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280305957">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-1-3/200X120_171813_1518615928.png" alt="Horse Care and Riding" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280305957" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Horse Care and Riding</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/snail_bob_7_fantasy_story" title="Snail Bob 7: Fantasy Story">
+                                <a class="tile" href="/game/unicorn-beauty-salon" title="Unicorn Beauty Salon">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-3-7/200X120_173037_1535449192.jpg" alt="Snail Bob 7: Fantasy Story" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280307181">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-1-1/200X120_170211_1499697916.png" alt="Unicorn Beauty Salon" data-index="7" data-widget="menu" data-label="best-games" data-appid="576742227280304355" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Snail Bob 7: Fantasy Story</div>
+                                    <div class="tile-title ellipsis">Unicorn Beauty Salon</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/horse-simulator-3d" title="Horse Simulator 3D">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-5-3/200X120_173353_1539341327.png" alt="Horse Simulator 3D" data-index="8" data-widget="menu" data-label="best-games" data-appid="576742227280307497" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Horse Simulator 3D</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/fox-simulator" title="Fox Simulator">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-4/200X120_172304_1527688473.png" alt="Fox Simulator" data-index="9" data-widget="menu" data-label="best-games" data-appid="576742227280306448" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Fox Simulator</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/run-free-wolf-simulator-3d" title="Run Free Wolf: Simulator 3D">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-3-6/200X120_172636_1532512960.png" alt="Run Free Wolf: Simulator 3D" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280306780">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-3-6/200X120_172636_1532512960.png" alt="Run Free Wolf: Simulator 3D" data-index="10" data-widget="menu" data-label="best-games" data-appid="576742227280306780" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Run Free Wolf: Simulator 3D</div>
                                 </a>
                             </li>
                             
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/tom-and-jerry-mouse-maze" title="Tom and Jerry: Mouse Maze">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-7-0/200X120_171270_1511428853.png" alt="Tom and Jerry: Mouse Maze" data-index="11" data-widget="menu" data-label="best-games" data-appid="576742227280305414" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Tom and Jerry: Mouse Maze</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/princesses-puppy-care" title="Princesses: Puppy Care">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-6/200X120_174646_1549887308.png" alt="Princesses: Puppy Care" data-index="12" data-widget="menu" data-label="best-games" data-appid="576742227280308790" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Princesses: Puppy Care</div>
+                                </a>
+                            </li>
+                            
                         </ul>
-                    </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 promotion">
-                        <header class="box-header">
-                            <h3 class="box-title ellipsis ellipsis">Spotlight</h3>
-                        </header>
-                        
-                        <div class="box-content">
-                            <div class="tile-wrapper span-3-2">
-                                <div class="tile clearfix">
-                                    <a class="link" href="/game/my-dolphin-show-8" title="My Dolphin Show 8">
-                                        <img class="displayer-image lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1490695731_1478781200_my-dolphin-show-8.jpg" alt="My Dolphin Show 8" data-index="1" data-widget="menu" data-label="promotion-game" data-appid="576742227280297726">
-                                        <div class="tile-title ellipsis">My Dolphin Show 8</div>
-                                    </a>
-                                </div>
-                                <div class="tile-placeholder"></div>
-                            </div>
-                        </div>
-                        
                     </div>
                 </div>
             </li>
@@ -1351,85 +1453,121 @@ document);
                             </div>
                         </div>
                     </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 best-games">
+                    <div class="grid-col col-l-2-3 best-games">
                         <header class="box-header">
                             <h3 class="box-title ellipsis">Best Games</h3>
                         </header>
-                        <ul class="grid-row col-l-3">
+                        <ul class="grid-row col-3 col-m-6">
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/ice-cream-donut" title="Ice Cream Donut">
+                                <a class="tile" href="/game/ellie-lifestyle-photographer" title="Ellie: Lifestyle Photographer">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-5-8/200X120_172758_1532598737.png" alt="Ice Cream Donut" data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280306902">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-6/200X120_172346_1528096973.png" alt="Ellie: Lifestyle Photographer" data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280306490" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Ice Cream Donut</div>
+                                    <div class="tile-title ellipsis">Ellie: Lifestyle Photographer</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/princesses-online-stories-rivals" title="Princesses: Online Stories Rivals">
+                                <a class="tile" href="/game/sorority-girls-party-fun" title="Sorority Girls: Party Fun">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-8/200X120_172608_1531315526.png" alt="Princesses: Online Stories Rivals" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280306752">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-9-1/200X120_174091_1544608847.png" alt="Sorority Girls: Party Fun" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280308235" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Princesses: Online Stories Rivals</div>
+                                    <div class="tile-title ellipsis">Sorority Girls: Party Fun</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/pizza-challenge" title="Pizza Challenge">
+                                <a class="tile" href="/game/princesses-beauty-pageant" title="Princesses: Beauty Pageant">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-7-1/200X120_172771_1533644739.png" alt="Pizza Challenge" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280306915">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-7-0/200X120_175070_1552906090.png" alt="Princesses: Beauty Pageant" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280309214" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Pizza Challenge</div>
+                                    <div class="tile-title ellipsis">Princesses: Beauty Pageant</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/mermaid-princess-and-eliza-online-stories-stars" title="Mermaid Princess and Eliza: Online Stories Stars">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-0/200X120_175260_1555312635.png" alt="Mermaid Princess and Eliza: Online Stories Stars" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280309404" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Mermaid Princess and Eliza: Online Stories Stars</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/princesses-wedding-planners" title="Princesses: Wedding Planners">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-3-5/200X120_173835_1543243646.png" alt="Princesses: Wedding Planners" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280307979" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Princesses: Wedding Planners</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/princess-24-hours-fashion-diva" title="Princess: 24 Hours Fashion Diva">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-5/200X120_175365_1556009109.png" alt="Princess: 24 Hours Fashion Diva" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280309509" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Princess: 24 Hours Fashion Diva</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/dotted-girl-ruined-wedding" title="Dotted Girl: Ruined Wedding">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-7-9/200X120_175279_1555314778.png" alt="Dotted Girl: Ruined Wedding" data-index="7" data-widget="menu" data-label="best-games" data-appid="576742227280309423" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Dotted Girl: Ruined Wedding</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/princesses-cooking-challenge-cake" title="Princesses Cooking: Challenge Cake">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-8/200X120_172868_1533824445.png" alt="Princesses Cooking: Challenge Cake" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280307012">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-8/200X120_172868_1533824445.png" alt="Princesses Cooking: Challenge Cake" data-index="8" data-widget="menu" data-label="best-games" data-appid="576742227280307012" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Princesses Cooking: Challenge Cake</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/princess-birthday-ball" title="Princess: Birthday Ball">
+                                <a class="tile" href="/game/magazine-diva-goldie-princess" title="Magazine Diva: Goldie Princess">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-8-4/200X120_172784_1533644763.png" alt="Princess: Birthday Ball" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280306928">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-0/200X120_175340_1556014275.png" alt="Magazine Diva: Goldie Princess" data-index="9" data-widget="menu" data-label="best-games" data-appid="576742227280309484" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Princess: Birthday Ball</div>
+                                    <div class="tile-title ellipsis">Magazine Diva: Goldie Princess</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/my-bold-street-style-outfit" title="My Bold Street Style Outfit">
+                                <a class="tile" href="/game/baby-hazel-flower-girl" title="Baby Hazel: Flower Girl ">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-5/200X120_172865_1533911746.png" alt="My Bold Street Style Outfit" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280307009">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-7/200X120_157667_1555072980.png" alt="Baby Hazel: Flower Girl " data-index="10" data-widget="menu" data-label="best-games" data-appid="576742227280291811" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">My Bold Street Style Outfit</div>
+                                    <div class="tile-title ellipsis">Baby Hazel: Flower Girl </div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/blondie-fashion-magazine-cover-model" title="Blondie Fashion Magazine: Cover Model">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-5-1/200X120_175251_1554905105.png" alt="Blondie Fashion Magazine: Cover Model" data-index="11" data-widget="menu" data-label="best-games" data-appid="576742227280309395" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Blondie Fashion Magazine: Cover Model</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/rapunzels-spring-vlog" title="Rapunzel's Spring Vlog">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-3/200X120_175163_1553765189.png" alt="Rapunzel's Spring Vlog" data-index="12" data-widget="menu" data-label="best-games" data-appid="576742227280309307" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Rapunzel's Spring Vlog</div>
                                 </a>
                             </li>
                             
                         </ul>
-                    </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 promotion">
-                        <header class="box-header">
-                            <h3 class="box-title ellipsis ellipsis">Spotlight</h3>
-                        </header>
-                        
-                        <div class="box-content">
-                            <div class="tile-wrapper span-3-2">
-                                <div class="tile clearfix">
-                                    <a class="link" href="/game/fab-tattoo-artist-2" title="Fab Tattoo Artist 2">
-                                        <img class="displayer-image lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1490695834_1478781378_fab-tattoo-artist-2.jpg" alt="Fab Tattoo Artist 2" data-index="1" data-widget="menu" data-label="promotion-game" data-appid="576742227280297485">
-                                        <div class="tile-title ellipsis">Fab Tattoo Artist 2</div>
-                                    </a>
-                                </div>
-                                <div class="tile-placeholder"></div>
-                            </div>
-                        </div>
-                        
                     </div>
                 </div>
             </li>
@@ -1569,85 +1707,121 @@ document);
                             </div>
                         </div>
                     </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 best-games">
+                    <div class="grid-col col-l-2-3 best-games">
                         <header class="box-header">
                             <h3 class="box-title ellipsis">Best Games</h3>
                         </header>
-                        <ul class="grid-row col-l-3">
+                        <ul class="grid-row col-3 col-m-6">
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/papas-scooperia" title="Papa's Scooperia">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-2/200X120_172802_1533644823.png" alt="Papa's Scooperia" data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280306946">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-2/200X120_172802_1533644823.png" alt="Papa's Scooperia" data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280306946" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Papa's Scooperia</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/skribbl-io" title="Skribbl.Io">
-                                    <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-7-1/200X120_169171_1489060589.png" alt="Skribbl.Io" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280303315">
-                                    </div>
-                                    <div class="tile-title ellipsis">Skribbl.Io</div>
-                                </a>
-                            </li>
-                            
-                            <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/magic-piano-tiles" title="Magic Piano Tiles">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-2-7/200X120_172327_1528274776.png" alt="Magic Piano Tiles" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280306471">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-2-7/200X120_172327_1528274776.png" alt="Magic Piano Tiles" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280306471" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Magic Piano Tiles</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/ellie-artist-makeover" title="Ellie: Artist Makeover">
+                                <a class="tile" href="/game/love-tester-3" title="Love Tester 3">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-5-6/200X120_172756_1533044192.png" alt="Ellie: Artist Makeover" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280306900">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-9-2/200X120_168992_1487606903.png" alt="Love Tester 3" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280303136" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Ellie: Artist Makeover</div>
+                                    <div class="tile-title ellipsis">Love Tester 3</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/gartic-io" title="Gartic.io">
+                                <a class="tile" href="/game/love-tester" title="Love Tester">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-2-5/200X120_170225_1499758632.png" alt="Gartic.io" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280304369">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1441872338_576742227280202887_large.gif" alt="Love Tester" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280202887" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Gartic.io</div>
+                                    <div class="tile-title ellipsis">Love Tester</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/happy-snakes" title="Happy Snakes">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1550133031_Happy-Snakes-200x120.png" alt="Happy Snakes" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280307991" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Happy Snakes</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/saras_cooking_class_california_rolls" title="Sara's Cooking Class: California Rolls">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1441882560_576742227280285298_large.jpg" alt="Sara's Cooking Class: California Rolls" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280285298">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1441882560_576742227280285298_large.jpg" alt="Sara's Cooking Class: California Rolls" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280285298" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Sara's Cooking Class: California Rolls</div>
                                 </a>
                             </li>
                             
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/my-dolphin-show-8" title="My Dolphin Show 8">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://images.cdn.spilcloud.com/thumbs-8-2/200X120_163582.jpg" alt="My Dolphin Show 8" data-index="7" data-widget="menu" data-label="best-games" data-appid="576742227280297726" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">My Dolphin Show 8</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/papas_freezeria" title="Papa's Freezeria">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1441883004_576742227280287182_large.jpg" alt="Papa's Freezeria" data-index="8" data-widget="menu" data-label="best-games" data-appid="576742227280287182" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Papa's Freezeria</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/papas_donuteria" title="Papa’s Donuteria">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1420195430_papas_donuteria_200x120_20140624101156_Papas-donutaria.jpg" alt="Papa’s Donuteria" data-index="9" data-widget="menu" data-label="best-games" data-appid="576742227280292172" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Papa’s Donuteria</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/my-dolphin-show-7" title="My Dolphin Show 7">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1438334046_200.jpg" alt="My Dolphin Show 7" data-index="10" data-widget="menu" data-label="best-games" data-appid="576742227280295216" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">My Dolphin Show 7</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/happy-glass" title="Happy Glass">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-8-4/200X120_174484_1548670781.png" alt="Happy Glass" data-index="11" data-widget="menu" data-label="best-games" data-appid="576742227280308628" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Happy Glass</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/geometry-neon-dash" title="Geometry Neon Dash">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-8-0/200X120_169280_1490021749.png" alt="Geometry Neon Dash" data-index="12" data-widget="menu" data-label="best-games" data-appid="576742227280303424" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Geometry Neon Dash</div>
+                                </a>
+                            </li>
+                            
                         </ul>
-                    </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 promotion">
-                        <header class="box-header">
-                            <h3 class="box-title ellipsis ellipsis">Spotlight</h3>
-                        </header>
-                        
-                        <div class="box-content">
-                            <div class="tile-wrapper span-3-2">
-                                <div class="tile clearfix">
-                                    <a class="link" href="/game/supersnakeio" title="SuperSnake.io">
-                                        <img class="displayer-image lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1471272198_Supersnake-EP.jpg" alt="SuperSnake.io" data-index="1" data-widget="menu" data-label="promotion-game" data-appid="576742227280298306">
-                                        <div class="tile-title ellipsis">SuperSnake.io</div>
-                                    </a>
-                                </div>
-                                <div class="tile-placeholder"></div>
-                            </div>
-                        </div>
-                        
                     </div>
                 </div>
             </li>
@@ -1787,16 +1961,16 @@ document);
                             </div>
                         </div>
                     </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 best-games">
+                    <div class="grid-col col-l-2-3 best-games">
                         <header class="box-header">
                             <h3 class="box-title ellipsis">Best Games</h3>
                         </header>
-                        <ul class="grid-row col-l-3">
+                        <ul class="grid-row col-3 col-m-6">
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/the-princess-sent-to-the-future" title="The Princess: Sent to the Future ">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-1/200X120_169641_1493805052.png" alt="The Princess: Sent to the Future " data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280303785">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-1/200X120_169641_1493805052.png" alt="The Princess: Sent to the Future " data-index="1" data-widget="menu" data-label="best-games" data-appid="576742227280303785" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">The Princess: Sent to the Future </div>
                                 </a>
@@ -1805,67 +1979,103 @@ document);
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/princess-hard-times" title="Princess Hard Times">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-7-5/200X120_169975_1497947748.png" alt="Princess Hard Times" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280304119">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-7-5/200X120_169975_1497947748.png" alt="Princess Hard Times" data-index="2" data-widget="menu" data-label="best-games" data-appid="576742227280304119" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Princess Hard Times</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/love-tester-20" title="Love Tester 2.0">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1423816365_lovetester_200x120.jpg" alt="Love Tester 2.0" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280293662" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Love Tester 2.0</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/papas-scooperia" title="Papa's Scooperia">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-2/200X120_172802_1533644823.png" alt="Papa's Scooperia" data-index="3" data-widget="menu" data-label="best-games" data-appid="576742227280306946">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-2/200X120_172802_1533644823.png" alt="Papa's Scooperia" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280306946" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Papa's Scooperia</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/ice-cream-donut" title="Ice Cream Donut">
+                                <a class="tile" href="/game/mermaid-sauna-flirting" title="Mermaid Sauna Flirting">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-5-8/200X120_172758_1532598737.png" alt="Ice Cream Donut" data-index="4" data-widget="menu" data-label="best-games" data-appid="576742227280306902">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-1-3/200X120_175113_1554460286.png" alt="Mermaid Sauna Flirting" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280309257" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Ice Cream Donut</div>
+                                    <div class="tile-title ellipsis">Mermaid Sauna Flirting</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/extreme-dental-emergency" title="Extreme Dental Emergency">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-4-9/200X120_174649_1549886874.png" alt="Extreme Dental Emergency" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280308793" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Extreme Dental Emergency</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/chocolate-cupcakes-saras-cooking-class" title="Chocolate Cupcakes: Sara's Cooking Class">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1431084535_raspberry.png" alt="Chocolate Cupcakes: Sara's Cooking Class" data-index="7" data-widget="menu" data-label="best-games" data-appid="576742227280293589" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Chocolate Cupcakes: Sara's Cooking Class</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
                                 <a class="tile" href="/game/pizza-real-life-cooking" title="Pizza Real Life Cooking">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-4/200X120_171804_1518616302.png" alt="Pizza Real Life Cooking" data-index="5" data-widget="menu" data-label="best-games" data-appid="576742227280305948">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-4/200X120_171804_1518616302.png" alt="Pizza Real Life Cooking" data-index="8" data-widget="menu" data-label="best-games" data-appid="576742227280305948" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
                                     <div class="tile-title ellipsis">Pizza Real Life Cooking</div>
                                 </a>
                             </li>
                             
                             <li class="grid-col col-1-3 col-l-1">
-                                <a class="tile" href="/game/life-the-game" title="Life: The Game">
+                                <a class="tile" href="/game/papas-sushiria" title="Papa's Sushiria">
                                     <div class="tile-thumbnail">
-                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1545313746_Life-the-game-200x120.png" alt="Life: The Game" data-index="6" data-widget="menu" data-label="best-games" data-appid="576742227280306480">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1481810662_l.png" alt="Papa's Sushiria" data-index="9" data-widget="menu" data-label="best-games" data-appid="576742227280302570" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
                                     </div>
-                                    <div class="tile-title ellipsis">Life: The Game</div>
+                                    <div class="tile-title ellipsis">Papa's Sushiria</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/ellie-tongue-doctor" title="Ellie: Tongue Doctor">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-5-5/200X120_175155_1553767192.png" alt="Ellie: Tongue Doctor" data-index="10" data-widget="menu" data-label="best-games" data-appid="576742227280309299" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Ellie: Tongue Doctor</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/princess-angel-costumes" title="Princess Angel Costumes">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-3-4/200X120_174834_1551345746.png" alt="Princess Angel Costumes" data-index="11" data-widget="menu" data-label="best-games" data-appid="576742227280308978" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Princess Angel Costumes</div>
+                                </a>
+                            </li>
+                            
+                            <li class="grid-col col-1-3 col-l-1">
+                                <a class="tile" href="/game/cat-3d-simulator" title="Cat 3D Simulator">
+                                    <div class="tile-thumbnail">
+                                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1518532818_kitty-craft-200x120.png" alt="Cat 3D Simulator" data-index="12" data-widget="menu" data-label="best-games" data-appid="576742227280305368" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                    </div>
+                                    <div class="tile-title ellipsis">Cat 3D Simulator</div>
                                 </a>
                             </li>
                             
                         </ul>
-                    </div>
-                    <div class="grid-col col-m-1-2 col-l-1-3 promotion">
-                        <header class="box-header">
-                            <h3 class="box-title ellipsis ellipsis">Spotlight</h3>
-                        </header>
-                        
-                        <div class="box-content">
-                            <div class="tile-wrapper span-3-2">
-                                <div class="tile clearfix">
-                                    <a class="link" href="/game/papas-bakeria" title="Papa's Bakeria">
-                                        <img class="displayer-image lazyload" data-src="https://files.cdn.spilcloud.com/gms_s/1459382269_l.PNG" alt="Papa's Bakeria" data-index="1" data-widget="menu" data-label="promotion-game" data-appid="576742227280299581">
-                                        <div class="tile-title ellipsis">Papa's Bakeria</div>
-                                    </a>
-                                </div>
-                                <div class="tile-placeholder"></div>
-                            </div>
-                        </div>
-                        
                     </div>
                 </div>
             </li>
@@ -1875,37 +2085,52 @@ document);
                 <div class="categories dropdown">
                     <ul>
                         
-                            <li class="more-menu-item">
+                            
+                            <li class="more-menu-item hidden">
                                 <a href="/games/dress_up">Dress Up</a>
                             </li>
+                            
                         
-                            <li class="more-menu-item">
+                            
+                            <li class="more-menu-item hidden">
                                 <a href="/games/beauty-games">Beauty</a>
                             </li>
+                            
                         
-                            <li class="more-menu-item">
+                            
+                            <li class="more-menu-item hidden">
                                 <a href="/games/cooking">Cooking</a>
                             </li>
+                            
                         
-                            <li class="more-menu-item">
+                            
+                            <li class="more-menu-item hidden">
                                 <a href="/games/animals">Animal Games</a>
                             </li>
+                            
                         
+                            
                             <li class="more-menu-item">
                                 <a href="/games/decoration-games">Decoration</a>
                             </li>
+                            
                         
+                            
                             <li class="more-menu-item">
                                 <a href="/games/skill">Skill</a>
                             </li>
+                            
                         
+                            
                             <li class="more-menu-item">
                                 <a href="/games/simulation">Simulation</a>
                             </li>
+                            
                         
                     </ul>
                 </div>
             </li>
+            
             <li class="menu-dropdown-item" data-menu-id="for-you">
                 <div class="categories dropdown">
                     <div class="grid-col col-m-1-2 col-l-1-3 for-you">
@@ -1920,135 +2145,109 @@ document);
 
                     </div>
                     <div class="grid-col col-m-1-2 col-l-1-3 for-you">
-                        <section id="wdg_recent_played_games_menu" class="wdg_recent_played_games_menu is-empty" data-props="{&quot;games_limit_client_storage&quot;:20,&quot;games_limit_authenticated&quot;:9,&quot;app_id&quot;:[],&quot;ui_format&quot;:&quot;grid&quot;,&quot;storage_endpoint&quot;:&quot;client&quot;,&quot;wait_on_js_event&quot;:[],&quot;no_recent_games&quot;:true,&quot;hide_when_empty&quot;:&quot;&quot;,&quot;global_user_id&quot;:&quot;288513728835720116&quot;,&quot;lazyload_images&quot;:false,&quot;lazyload_from_item&quot;:0,&quot;track_only&quot;:false,&quot;siteid&quot;:90,&quot;tracking_postfix&quot;:[],&quot;wdg_id&quot;:&quot;wdg_recent_played_games_menu&quot;}">
+                        <section id="wdg_recent_played_games_menu" class="wdg_recent_played_games_menu is-empty" data-props="{&quot;games_limit_client_storage&quot;:20,&quot;games_limit_authenticated&quot;:9,&quot;app_id&quot;:[],&quot;ui_format&quot;:&quot;grid&quot;,&quot;storage_endpoint&quot;:&quot;client&quot;,&quot;wait_on_js_event&quot;:[],&quot;no_recent_games&quot;:true,&quot;hide_when_empty&quot;:&quot;&quot;,&quot;global_user_id&quot;:&quot;288512746020353918&quot;,&quot;lazyload_images&quot;:false,&quot;lazyload_from_item&quot;:0,&quot;track_only&quot;:false,&quot;siteid&quot;:90}">
     
     <header class="box-header">
         
-        <h3 class="box-title">My last played games</h3>
+        <h3 class="box-title">Recommended Games</h3>
         
     </header>
     <div class="box-content">
         <ul class="grid-row col-3">
             
             
-                
-                <li class="grid-col">
-                    
-                        <div class="tile">
-                            <div class="tile-thumbnail">
-                                
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload">
-                                
-                            </div>
-                            <div class="tile-title"></div>
-                        </div>
-                    
-                </li>
-                
-                <li class="grid-col">
-                    
-                        <div class="tile">
-                            <div class="tile-thumbnail">
-                                
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload">
-                                
-                            </div>
-                            <div class="tile-title"></div>
-                        </div>
-                    
-                </li>
-                
-                <li class="grid-col">
-                    
-                        <div class="tile">
-                            <div class="tile-thumbnail">
-                                
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload">
-                                
-                            </div>
-                            <div class="tile-title"></div>
-                        </div>
-                    
-                </li>
-                
-                <li class="grid-col">
-                    
-                        <div class="tile">
-                            <div class="tile-thumbnail">
-                                
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload">
-                                
-                            </div>
-                            <div class="tile-title"></div>
-                        </div>
-                    
-                </li>
-                
-                <li class="grid-col">
-                    
-                        <div class="tile">
-                            <div class="tile-thumbnail">
-                                
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload">
-                                
-                            </div>
-                            <div class="tile-title"></div>
-                        </div>
-                    
-                </li>
-                
-                <li class="grid-col">
-                    
-                        <div class="tile">
-                            <div class="tile-thumbnail">
-                                
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload">
-                                
-                            </div>
-                            <div class="tile-title"></div>
-                        </div>
-                    
-                </li>
-                
-                <li class="grid-col">
-                    
-                        <div class="tile">
-                            <div class="tile-thumbnail">
-                                
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload">
-                                
-                            </div>
-                            <div class="tile-title"></div>
-                        </div>
-                    
-                </li>
-                
-                <li class="grid-col">
-                    
-                        <div class="tile">
-                            <div class="tile-thumbnail">
-                                
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload">
-                                
-                            </div>
-                            <div class="tile-title"></div>
-                        </div>
-                    
-                </li>
-                
-                <li class="grid-col">
-                    
-                        <div class="tile">
-                            <div class="tile-thumbnail">
-                                
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload">
-                                
-                            </div>
-                            <div class="tile-title"></div>
-                        </div>
-                    
-                </li>
-                
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="https://a2g-secure.com/?E=KinI70s6fsr9gLCH9ccccA2%2fmAc7YHJa&amp;s1=" target="_blank" title="Star Stable">
+                    <div class="tile-thumbnail">
+                        <img src="http://files.cdn.spilcloud.com/thumbs-7-8/200X120_168878_1486048687.png" data-widget="recent_played_games_menu_first_time" data-index="1" alt="Star Stable" data-path="external-https://a2g-secure.com/?E=KinI70s6fsr9gLCH9ccccA2%2fmAc7YHJa&amp;s1=">
+                        
+                    </div>
+                    <div class="tile-title">Star Stable</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/farmerama" target="_blank" title="Farmerama">
+                    <div class="tile-thumbnail">
+                        <img src="http://files.cdn.spilcloud.com/gms_s/1492084555_1453196903_farmerama_teaser_200x120.jpg" data-widget="recent_played_games_menu_first_time" data-index="2" alt="Farmerama" data-path="static-farmerama">
+                        
+                    </div>
+                    <div class="tile-title">Farmerama</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/lady-popular" target="_self" title="Lady Popular">
+                    <div class="tile-thumbnail">
+                        <img src="http://files.cdn.spilcloud.com/gms_s/1483951078_LP_Spring_minicollectio_200x120_EN2.jpg" data-widget="recent_played_games_menu_first_time" data-index="3" alt="Lady Popular" data-appid="576742227280301448">
+                        
+                    </div>
+                    <div class="tile-title">Lady Popular</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/geometry-neon-dash" target="_self" title="Geometry Neon Dash">
+                    <div class="tile-thumbnail">
+                        <img src="http://files.cdn.spilcloud.com/thumbs-8-0/200X120_169280_1490021749.png" data-widget="recent_played_games_menu_first_time" data-index="4" alt="Geometry Neon Dash" data-appid="576742227280303424">
+                        
+                    </div>
+                    <div class="tile-title">Geometry Neon Dash</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/Papas_Cupcakeria" target="_self" title="Papa's Cupcakeria">
+                    <div class="tile-thumbnail">
+                        <img src="http://files.cdn.spilcloud.com/gms_s/1441881130_576742227280289321_large.jpg" data-widget="recent_played_games_menu_first_time" data-index="5" alt="Papa's Cupcakeria" data-appid="576742227280289321">
+                        
+                    </div>
+                    <div class="tile-title">Papa's Cupcakeria</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/bubble-shooter-hd-" target="_self" title="Bubble Shooter HD">
+                    <div class="tile-thumbnail">
+                        <img src="http://files.cdn.spilcloud.com/thumbs-9-5/200X120_169995_1497957774.png" data-widget="recent_played_games_menu_first_time" data-index="6" alt="Bubble Shooter HD" data-appid="576742227280304139">
+                        
+                    </div>
+                    <div class="tile-title">Bubble Shooter HD</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/extreme-makeover" target="_self" title="Extreme Makeover">
+                    <div class="tile-thumbnail">
+                        <img src="http://files.cdn.spilcloud.com/gms_s/1452617466_extreme_makeover_L.jpg" data-widget="recent_played_games_menu_first_time" data-index="7" alt="Extreme Makeover" data-appid="576742227280298483">
+                        
+                    </div>
+                    <div class="tile-title">Extreme Makeover</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/uphill-rush-7-waterpark" target="_self" title="Uphill Rush 7: Waterpark">
+                    <div class="tile-thumbnail">
+                        <img src="http://files.cdn.spilcloud.com/gms_s/1437652922_uphillrish-1.jpg" data-widget="recent_played_games_menu_first_time" data-index="8" alt="Uphill Rush 7: Waterpark" data-appid="576742227280291434">
+                        
+                    </div>
+                    <div class="tile-title">Uphill Rush 7: Waterpark</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/Fireboy__Watergirl_2_The_Light_Temple" target="_self" title="Fireboy &amp; Watergirl 2: The Light Temple">
+                    <div class="tile-thumbnail">
+                        <img src="http://files.cdn.spilcloud.com/gms_s/1441882867_576742227280286835_large.jpg" data-widget="recent_played_games_menu_first_time" data-index="9" alt="Fireboy &amp; Watergirl 2: The Light Temple" data-appid="576742227280286835">
+                        
+                    </div>
+                    <div class="tile-title">Fireboy &amp; Watergirl 2: The Light Temple</div>
+                </a>
+            </li>
+            
+            
             
             
 
@@ -2060,61 +2259,123 @@ document);
 
                     </div>
                     <div class="grid-col col-l-1-3 for-you">
-                        <section id="wdg_favourite_menu" class="wdg_favourite_menu" data-props="{&quot;guid&quot;:&quot;288513728835720116&quot;,&quot;siteid&quot;:90}">
+                        
+                        <section id="wdg_trending_games_menu" class="wdg_trending_games_menu">
     <header class="box-header">
-        <h3 class="box-title ellipsis">FAVORITE GAMES</h3>
-        
+        <h3 class="box-title ellipsis">Top games <small>of the week</small></h3>
     </header>
-
-    
-
-    
-        <div class="register-text">
-            <p>Are you an existing user? Then log in to see your favorited games here! Don't have an account yet? Be sure to sign up to use this feature.</p>
+    <div class="box-content">
+        <ul class="grid-row col-3">
             
-            <a class="pw-register-trigger button">Join for free</a>
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/bffs-wacky-fashion-festival" title="BFFs: Wacky Fashion Festival">
+                    <div class="tile-thumbnail">
+                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-5-5/200X120_175455_1558603316.png" data-widget="trending_games_menu" data-appid="576742227280309599" data-index="1" alt="BFFs: Wacky Fashion Festival" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                        
+                    </div>
+                    <div class="tile-title">BFFs: Wacky Fashion Festival</div>
+                </a>
+            </li>
             
-        </div>
-    
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/jessie-and-noelles-bff-real-makeover" title="Jessie and Noelle's BFF Real Makeover">
+                    <div class="tile-thumbnail">
+                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-1/200X120_175461_1558604372.png" data-widget="trending_games_menu" data-appid="576742227280309605" data-index="2" alt="Jessie and Noelle's BFF Real Makeover" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                        
+                    </div>
+                    <div class="tile-title">Jessie and Noelle's BFF Real Makeover</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/crystals-perfume-shop" title="Crystals' Perfume Shop">
+                    <div class="tile-thumbnail">
+                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-5/200X120_175605_1558689507.png" data-widget="trending_games_menu" data-appid="576742227280309749" data-index="3" alt="Crystals' Perfume Shop" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                        
+                    </div>
+                    <div class="tile-title">Crystals' Perfume Shop</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/princesses-incurable-romantics" title="Princesses: Incurable Romantics">
+                    <div class="tile-thumbnail">
+                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-8/200X120_175568_1557732946.png" data-widget="trending_games_menu" data-appid="576742227280309712" data-index="4" alt="Princesses: Incurable Romantics" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                        
+                    </div>
+                    <div class="tile-title">Princesses: Incurable Romantics</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/all-seasons-diva" title="All Seasons Diva">
+                    <div class="tile-thumbnail">
+                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-4/200X120_175504_1557134689.png" data-widget="trending_games_menu" data-appid="576742227280309648" data-index="5" alt="All Seasons Diva" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                        
+                    </div>
+                    <div class="tile-title">All Seasons Diva</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/my-sisters-wedding-day" title="My Sister's Wedding Day">
+                    <div class="tile-thumbnail">
+                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-0-9/200X120_175509_1557134007.png" data-widget="trending_games_menu" data-appid="576742227280309653" data-index="6" alt="My Sister's Wedding Day" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                        
+                    </div>
+                    <div class="tile-title">My Sister's Wedding Day</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/happy-sushi-roll" title="Happy Sushi Roll">
+                    <div class="tile-thumbnail">
+                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-4/200X120_175464_1558605679.png" data-widget="trending_games_menu" data-appid="576742227280309608" data-index="7" alt="Happy Sushi Roll" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                        
+                    </div>
+                    <div class="tile-title">Happy Sushi Roll</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/dazzling-festival-braids" title="Dazzling Festival Braids">
+                    <div class="tile-thumbnail">
+                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-6-6/200X120_175566_1557733448.png" data-widget="trending_games_menu" data-appid="576742227280309710" data-index="8" alt="Dazzling Festival Braids" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                        
+                    </div>
+                    <div class="tile-title">Dazzling Festival Braids</div>
+                </a>
+            </li>
+            
+            <li class="grid-col is-mobile">
+                <a class="tile" href="/game/winter-shopping-with-ellie" title="Winter Shopping with Ellie">
+                    <div class="tile-thumbnail">
+                        <img class="lazyload" data-src="https://files.cdn.spilcloud.com/thumbs-9-6/200X120_175596_1557319545.png" data-widget="trending_games_menu" data-appid="576742227280309740" data-index="9" alt="Winter Shopping with Ellie" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                        
+                    </div>
+                    <div class="tile-title">Winter Shopping with Ellie</div>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
 </section>
 
-                        
                     </div>
                 </div>
             </li>
+            
         </ul>
     </div>
 </nav>
 
     </div>
     
-    <div class="authentication-container">
-        <div class="authentication">
-            <div id="wdg_popup_login" class="wdg_popup_login hidden" data-props="{&quot;requires_auth&quot;:[],&quot;ms_url&quot;:&quot;http://api.spilgames.com&quot;}">
-    
-</div>
-
-            <div id="wdg_popup_register" class="wdg_popup_register hidden" data-coppa-enabled="true" data-coppa-minage="16">
-    
-
-    
-</div>
-
-            <div id="wdg_popup_register_feedback" class="wdg_popup_register_feedback hidden" data-on-social-game-page="false" data-props="{&quot;show_popup_contents&quot;:false}">
-    
-</div>
-
-            <div id="wdg_popup_oauth" class="wdg_popup_oauth" data-props="{&quot;show_popup_contents&quot;:false,&quot;use_avatar_picker&quot;:true}">
-    
-</div>
-
-        </div>
-    </div>
-    
 </header>
 
 <script>
-SpilGames(["SWP"],function(d){d.init("static_pages");var e=d.getProperty("allowed_origins");window.addEventListener("message",function(a){var b=a.origin||a.originalEvent.origin;try{var c=JSON.parse(a.data)}catch(f){return!1}a=c.message||"";if(0<=e.indexOf(b))switch(a){case "portal.adjustheight":b=parseInt(c.height),(a=document.getElementById("static_page_integration"))&&!isNaN(b)&&(a.style.height=c.height+"px")}},!1)});
+SpilGames(["SWP"],function(d){d.init("static_pages");var e=d.getProperty("allowed_origins");window.addEventListener("message",function(a){var c=a.origin||a.originalEvent.origin,b;try{b=JSON.parse(a.data)}catch(f){return!1}a=b.message||"";if(0<=e.indexOf(c))switch(a){case "portal.adjustheight":c=parseInt(b.height),(a=document.getElementById("static_page_integration"))&&!isNaN(c)&&(a.style.height=b.height+"px")}},!1)});
+//# sourceMappingURL=wdg_static_pages-MINIFIED-4e64b9a021746a1b338f0555fd3c60f8.js.map
 
 </script>
 <section class="wdg_page page-legal-text grid">
@@ -2206,7 +2467,7 @@ SpilGames(["SWP"],function(d){d.init("static_pages");var e=d.getProperty("allowe
         <section class="content-section">
             <p>2.6 SPIL uses Facebook technology to provide certain services on the Websites. The Websites may include the “Facebook Like Button” which is controlled by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304 USA (Facebook). In the event you click on the Facebook Like Button, Facebook will ask you whether you want to log in to Facebook if you are not logged in at that moment, or register with Facebook. If you decide to do so, your personal data will be transferred to Facebook. In the event you are already logged into your Facebook account and you have given SPIL your explicit consent to the sharing of your information with Facebook, your information is shared with Facebook when visiting the Websites or playing games including the “Facebook Like Button”.<br>
             The Websites also use the “Facebook Pixel” controlled by Facebook in order to show conversions, create “lookalike audiences” and provide SPIL with relevant statistics about our Websites in order to improve them. When you use our websites and you have given SPIL your explicit consent to the sharing of your information with Facebook, your information is automatically shared with Facebook.<br>
-            For more information on the “Facebook Like Button” and “Facebook Pixel” and sharing and use of your personal data please consult Facebook’s Data Policy at: <a href="https://www.facebook.com/policy.php" target="_blank">https://www.facebook.com/policy.php</a>.</p>
+            For more information on the “Facebook Like Button” and “Facebook Pixel” and sharing and use of your personal data please consult Facebook’s Data Policy at: <a href="https://www.facebook.com/policy.php" target="_blank" data-rel="external">https://www.facebook.com/policy.php</a>.</p>
         </section>
         <section class="content-section">
             <p>2.7 SPIL may also use third-party payment service providers ("PSP"), offering payment transaction services to SPIL in order to sell a product or service through the Websites. The PSP acts a data controller with regards to the personal data related to the transactions (“transaction data”) processed for the purpose of purchasing the product or service. The transaction data may include your personal details, your payment card details, and the transaction details. Whenever you buy something from the Websites (e.g., a virtual game item), the information that you provide to the PSP is subject to their privacy policies, not ours. The legal basis for this processing is the performance of a contract. You explicitly consent that SPIL may provide personal information collected from you to a PSP for the purpose of the offering of the payment-transaction service whenever you buy something from the Website(s) and that such PSP may use such data for (statistical) analysis of payment transactions. After you have purchased a product or service, SPIL and the PSP have a legal requirement to retain your information for a legally determined period of at least 7 years. SPIL shall be allowed to notify a PSP regarding a user that engages in (or who a party believes has engaged in) any activity that is illegal, that violates any person's rights, or that led to such a user's suspension or termination of use of the Websites.</p>
@@ -2215,7 +2476,7 @@ SpilGames(["SWP"],function(d){d.init("static_pages");var e=d.getProperty("allowe
             <p>2.8 SPIL uses third party service providers in order to offer our users customer support services. We may share personal data such as the communication content, IP address, e-mail address, and username (“Correspondence Data”) with these partners. The Correspondence Data may be processed by SPIL and business partners for the purpose of communication with you, blocking users, changing email addresses, reactivating or blocking accounts, adding or removing in-game items and other customer support services. The legal basis for the processing of the Correspondence Data is legitimate interest or consent depending on the service provided.</p>
         </section>
         <section class="content-section">
-            <p>2.9 Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookies&nbsp;<a href="//www.networkadvertising.org/choices" target="_blank">opt-out pag</a>&nbsp;or the link to the European Interactive Digital Advertising Alliance (EDAA)&nbsp;<a href="//www.youronlinechoices.com/" target="_blank">opt-out page</a>. However, some features and services may not function properly if cookies are disabled.</p>
+            <p>2.9 Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookies&nbsp;<a href="//www.networkadvertising.org/choices" target="_blank" data-rel="external">opt-out pag</a>&nbsp;or the link to the European Interactive Digital Advertising Alliance (EDAA)&nbsp;<a href="//www.youronlinechoices.com/" target="_blank" data-rel="external">opt-out page</a>. However, some features and services may not function properly if cookies are disabled.</p>
         </section>
         <section class="content-section">
             <p>2.10 You may choose to register with us for a better game experience and/or to create a public or private profile for participating in our social gaming network. This includes, for example: overviews of high scores, achievements listings and individual game recommendations on the Websites. When you register with us, you may provide us with certain personal data such as a username, gender, date of birth and your email address (“Account Data”). The Account Data you provide us will be used for the purposes of providing our services, improving our Websites, maintaining back-ups and communicating with you. The legal basis for this processing is consent.</p>
@@ -2334,31 +2595,33 @@ SpilGames(["SWP"],function(d){d.init("static_pages");var e=d.getProperty("allowe
             <h6>Languages</h6>
             <ul>
                 
-                <li><a href="http://www.girlsgogames.co.uk" title="" hreflang="en-gb" data-widget="interlanguage_links" rel="external">British English</a></li>
+                <li><a href="http://www.girlsgogames.co.uk" title="" hreflang="en-gb" data-widget="interlanguage_links" rel="external" data-rel="external">British English</a></li>
                 
-                <li><a href="http://www.girlsgogames.de" title="" hreflang="de-de" data-widget="interlanguage_links" rel="external">Deutsch</a></li>
+                <li><a href="http://www.girlsgogames.de" title="" hreflang="de" data-widget="interlanguage_links" rel="external" data-rel="external">Deutsch</a></li>
                 
-                <li><a href="http://www.girlsgogames.ru" title="" hreflang="ru-ru" data-widget="interlanguage_links" rel="external">Русский</a></li>
+                <li><a href="http://www.girlsgogames.ru" title="" hreflang="ru" data-widget="interlanguage_links" rel="external" data-rel="external">Русский</a></li>
                 
-                <li><a href="http://www.girlsgogames.co.id" title="" hreflang="id-id" data-widget="interlanguage_links" rel="external">Bahasa Indonesia</a></li>
+                <li><a href="http://www.girlsgogames.co.id" title="" hreflang="id" data-widget="interlanguage_links" rel="external" data-rel="external">Bahasa Indonesia</a></li>
                 
-                <li><a href="http://www.girlsgogames.it" title="" hreflang="it-it" data-widget="interlanguage_links" rel="external">Italiano</a></li>
+                <li><a href="http://www.girlsgogames.it" title="" hreflang="it" data-widget="interlanguage_links" rel="external" data-rel="external">Italiano</a></li>
                 
-                <li><a href="http://www.girlsgogames.fr" title="" hreflang="fr-fr" data-widget="interlanguage_links" rel="external">Français</a></li>
+                <li><a href="http://www.girlsgogames.fr" title="" hreflang="fr" data-widget="interlanguage_links" rel="external" data-rel="external">Français</a></li>
                 
-                <li><a href="http://www.juegosdechicas.com" title="" hreflang="es-es" data-widget="interlanguage_links" rel="external">Español</a></li>
+                <li><a href="http://www.juegosdechicas.com" title="" hreflang="es" data-widget="interlanguage_links" rel="external" data-rel="external">Español</a></li>
                 
             </ul>
         </div>
         
+        
         <div class="wdg_footer--mascot"></div>
+        
     </div>
     <aside class="wdg_footer--misc">
         <div class="wdg_footer--misc--logo">
-            <img src="/wdg/footer-3.2.2/img/spilgames-logo.png" alt="Spilgames">
+            <img src="/wdg/footer-3.3.1/img/spilgames-logo.png" alt="Spilgames">
         </div>
         <div class="wdg_footer--misc--content">
-            <p>Copyright © 2018 SPIL GAMES All rights reserved.</p>
+            <p>Copyright © 2019 SPIL GAMES All rights reserved.</p>
             <ul class="wdg_footer--links">
                 
                 
@@ -2392,41 +2655,35 @@ SpilGames(["SWP"],function(d){d.init("static_pages");var e=d.getProperty("allowe
                         
                     </li>
                 
-                    <li>
-                        
-                        <a href="#" id="consent-link">Cookie Consent</a>
-                        
-                    </li>
-                
                 
                 
                     <li>
                         
-                        <a href="http://www.spilgames.com/">About Us</a>
+                        <a href="http://www.spilgames.com/" data-rel="external">About Us</a>
                         
                     </li>
                 
                     <li>
                         
-                        <a href="http://www.spilgames.com/advertisers">Advertise with Us</a>
+                        <a href="http://www.spilgames.com/advertisers" data-rel="external">Advertise with Us</a>
                         
                     </li>
                 
                     <li>
                         
-                        <a href="http://www.spilgames.com/developers">Submit a Game</a>
+                        <a href="http://www.spilgames.com/developers" data-rel="external">Submit a Game</a>
                         
                     </li>
                 
                     <li>
                         
-                        <a href="http://publishers.spilgames.com/">Get Free Games</a>
+                        <a href="http://publishers.spilgames.com/" data-rel="external">Get Free Games</a>
                         
                     </li>
                 
                     <li>
                         
-                        <a href="" id="zendesk" target="_blank">Help &amp; Contact</a>
+                        <a href="https://web.archive.org/web/20181004022549/http://support.spilgames.com/hc/en?site_id=90&amp;ChannelID=3&amp;username=guest&amp;gameid=&amp;gametitle=&amp;total=0&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190623225744id_%2Fhttp%253A%2F%2Fwww.girlsgogames.com%2Fprivacy_policy" id="zendesk" target="_blank">Help &amp; Contact</a>
                         
                     </li>
                 
@@ -2442,10 +2699,11 @@ SpilGames(["SWP"],function(d){d.init("static_pages");var e=d.getProperty("allowe
     </aside>
     <input type="hidden" id="wdg_footer_zendesk_application_id" name="wdg_footer_zendesk_application_id" value="">
     <input type="hidden" id="wdg_footer_zendesk_application_title" name="wdg_footer_zendesk_application_title" value="">
-    <input type="hidden" id="wdg_footer_zendesk_user_id" name="wdg_footer_zendesk_user_id" value="288513728835720116">
+    <input type="hidden" id="wdg_footer_zendesk_user_id" name="wdg_footer_zendesk_user_id" value="288513934087159024">
     <input type="hidden" id="wdg_footer_zendesk_username" name="wdg_footer_zendesk_username" value="guest">
     <input type="hidden" id="wdg_footer_zendesk_locale" name="wdg_footer_zendesk_locale" value="en-US">
 </footer>
+
 </div>
 
 
@@ -2459,7 +2717,7 @@ SpilGames(['Portal', 'PageTracker', 'EventTracker', 'ThumbnailTracker'], functio
         .set('pagetype',        'legal\u002Dtext')
         .set('pagetypedetail',  'privacy policy')
         .set('pageid',          '' || null)
-        .set('requestid',       '0_044D013B')
+        .set('requestid',       '0_0651BDBC')
         .set('hasgdprconsent',  'false')
 
         
@@ -2490,9 +2748,7 @@ SpilGames(['Portal', 'PageTracker', 'EventTracker', 'ThumbnailTracker'], functio
         </div>
         
 
-        
-
-        <script id="wdg_js_aggregator" data-props="{&quot;extension_id&quot;:&quot;&quot;}" "=""></script>
+        <script id="wdg_js_aggregator" data-props="{&quot;extension_id&quot;:&quot;&quot;}"></script>
 <div id="spilAdvert" class="advertisement ad advert ad-leaderboard ad-skyscraper ad-mpu" style="width:1px;height:1px;position:absolute;left:-10px;"></div>
 <script>
     (function () {
@@ -2512,22 +2768,15 @@ SpilGames(['Portal', 'PageTracker', 'EventTracker', 'ThumbnailTracker'], functio
             this.set('spilgames.module.tracker.environment', 'live');
             this.set('spilgames.user.deviceType', 'desktop');
             this.set('spilgames.SWP.systemEvents', ['system.account.register.request','system.ad.midroll.abort','system.ad.midroll.request','system.ad.midroll.start','system.ad.midroll.heartbeat','system.ad.midroll.finish','system.ad.preroll.abort','system.ad.preroll.request','system.ad.preroll.heartbeat','system.ad.preroll.finish','system.ad.preroll.start','system.ad.preroll.showPlayBtn','system.ad.module.ready','system.ad.request','system.ad.abort','system.ad.finish','system.ad.start','system.ad.heartbeat','system.auth.login.remember','system.auth.login.request','system.auth.logout.request','system.avatar.update.current','system.css.breakpoint.match','system.popup.register.open','system.popup.header.close','system.popup.header.open','system.popup.register.feedback','system.popup.login.open','system.popup.oauth.open','system.popup.oauth.close','system.popup.closed','system.login.finished','system.rate.application.update','system.rate.creation.update','system.registration.finished','system.game.area.increase','system.game.area.decrease','system.game.sidepanel.show','system.game.update.highscore','system.game.update.achievement','system.game.update.gallery','system.game.update.highscore.failed','system.game.update.achievement.failed','system.game.update.gallery.failed','system.game.zoom.show','system.game.zoom.in','system.game.zoom.out','system.notification.update.amount','system.user.search.request','system.user.search.header','system.user.search.gopage','system.popup.friend_invite.open','system.popup.social_invite.open','system.popup.profile_creations.open','system.gi.portal.feedback','system.gi.error','system.gi.update','system.gi.warning','system.gi.userdata.failure','system.gi.userdata.ready','system.gi.game.show','system.gi.game.hide','system.gi.consentgiven','system.features.detect','system.menu.toggle','system.sound.level','system.game.break.opportunity','system.game.pause','system.game.resume','system.game.pause.request','system.game.resume.request','system.game.validated','system.game.resume.request','system.game.loaded','system.game.missingFeature','system.game.missingPlugin','system.gpwidget.blur','system.gpwidget.enable','system.gpwidget.disable','system.game.authentication.changed','system.game.orientation.changed','system.recent.played.games.update','system.game.display','system.game.break.requested','system.game.break.start','system.game.break.end','system.inlinegame.open','system.inlinegame.close','system.walkthrough.available','system.game.sidepanel.open','system.recent.played.empty','system.recent.played.filled','system.recent.played.visible','system.theme.changed','system.tile.delete','system.game.comments.visible','system.game.secondscreen','system.content.blocker.detected','system.walkthrough.request.play','system.walkthrough.request.pause']);
-            this.set('spilgames.SWP.eventConfig', {"widget.js_aggregator":{"listen":["system.auth.login.remember","system.auth.login.request","system.auth.logout.request","system.login.finished","system.registration.finished","system.game.display"],"emit":["system.login.finished","system.content.blocker.detected"]},"widget.user_status":{"listen":["system.avatar.update.current","system.notification.update.amount"],"emit":["system.auth.login.request","system.auth.logout.request","system.popup.register.open","system.popup.login.open"]},"widget.theme_settings":{"listen":[],"emit":["system.theme.changed"]},"widget.search_bar":{"emit":["system.user.search.request"]},"widget.popup_register_feedback":{"listen":["system.popup.register.feedback"],"emit":["system.popup.header.close","system.popup.header.open","system.registration.finished"]},"widget.popup_register":{"listen":["system.account.register.request","system.popup.login.open","system.popup.register.open"],"emit":["system.popup.header.close","system.popup.header.open","system.popup.oauth.open","system.account.register.request","system.popup.login.open","system.popup.register.feedback","system.gi.game.show","system.gi.game.hide","system.popup.closed"]},"widget.popup_oauth":{"listen":["system.popup.header.open","system.popup.oauth.open","system.popup.oauth.close"],"emit":["system.popup.header.close","system.popup.header.open","system.popup.oauth.open","system.popup.oauth.close","system.login.finished","system.register.open","system.popup.register.feedback","system.registration.finished","system.popup.header.open"]},"widget.popup_login":{"listen":["system.popup.login.open","system.popup.register.open"],"emit":["system.popup.header.close","system.popup.header.open","system.popup.login.open","system.popup.oauth.open","system.auth.login.remember","system.auth.login.request","system.popup.register.open","system.popup.closed","system.gi.game.show","system.gi.game.hide"]},"widget.recent_played_games_menu":{"listen":["system.recent.played.games.update","system.inlinegame.open","system.game.sidepanel.open","system.recent.played.visible"],"emit":["system.popup.register.open","system.recent.played.empty","system.recent.played.filled","system.recent.played.visible"]},"widget.favourite_menu":{"listen":[],"emit":["system.popup.register.open"]},"widget.header":{"listen":["system.menu.toggle","system.popup.header.close","system.popup.header.open"],"emit":["system.menu.toggle"]},"widget.footer":{"listen":[],"emit":[]},"widget.vda":{"listen":["system.gi.update"],"emit":["system.ad.preroll.heartbeat","system.ad.preroll.finish","system.ad.preroll.start","system.ad.midroll.start","system.ad.midroll.heartbeat","system.ad.midroll.finish"]}});
+            this.set('spilgames.SWP.eventConfig', {"widget.js_aggregator":{"listen":["system.auth.login.remember","system.auth.login.request","system.auth.logout.request","system.login.finished","system.registration.finished","system.game.display"],"emit":["system.login.finished","system.content.blocker.detected"]},"widget.search_bar":{"emit":["system.user.search.request"]},"widget.recent_played_games_menu":{"listen":["system.recent.played.games.update","system.inlinegame.open","system.game.sidepanel.open","system.recent.played.visible"],"emit":["system.popup.register.open","system.recent.played.empty","system.recent.played.filled","system.recent.played.visible"]},"widget.header":{"listen":["system.menu.toggle","system.popup.header.close","system.popup.header.open"],"emit":["system.menu.toggle"]},"widget.footer":{"listen":[],"emit":[]},"widget.vda":{"listen":["system.gi.update"],"emit":["system.ad.preroll.heartbeat","system.ad.preroll.finish","system.ad.preroll.start","system.ad.midroll.start","system.ad.midroll.heartbeat","system.ad.midroll.finish"]}});
             this('spilgames.loaded'); 
         }]];
     }());
 </script>
-<script src="/wdg/js_aggregator-active/js/minified/wdg_js_aggregator-MINIFIED-06221cb35a17cc33cddde2982e5d41f0.js" async="" defer=""></script>
+<script src="/wdg/js_aggregator-active/js/minified/wdg_js_aggregator-MINIFIED-588e76beded15b59ca2986aca443be6f.js" async="" defer=""></script>
 <script src="/wdg/footer-active/js/minified/wdg_footer-MINIFIED-b04182b21e0f9ad848eb64076f51e54c.js" async="" defer=""></script>
-<script src="/wdg/favourite_menu-active/js/minified/wdg_favourite_menu-MINIFIED-61c7ba2a941e79de706c0a0e08ad40b8.js" async="" defer=""></script>
 <script src="/wdg/recent_played_games_menu-active/js/minified/wdg_recent_played_games_menu-MINIFIED-79353a4dfc9ad919a648144918776fdd.js" async="" defer=""></script>
-<script src="/wdg/popup_login-active/js/minified/wdg_popup_login-MINIFIED-ac496a79112908517dea05d38e172a7f.js" async="" defer=""></script>
-<script src="/wdg/popup_oauth-active/js/minified/wdg_popup_oauth-MINIFIED-397313851c3a58c0aecab87108b2d597.js" async="" defer=""></script>
-<script src="/wdg/popup_register-active/js/minified/wdg_popup_register-MINIFIED-49aab2f696640f99af34fdd67b77fd54.js" async="" defer=""></script>
-<script src="/wdg/popup_register_feedback-active/js/minified/wdg_popup_register_feedback-MINIFIED-b10bbef4c3d34ca78376c068804b10a1.js" async="" defer=""></script>
 <script src="/wdg/search_bar-active/js/minified/wdg_search_bar-MINIFIED-6098cbb664a4459aa5e93dc702a1d1f8.js" async="" defer=""></script>
-<script src="/wdg/theme_settings-active/js/minified/wdg_theme_settings-MINIFIED-c38e907047f49e15075986beef502f65.js" async="" defer=""></script>
-<script src="/wdg/user_status-active/js/minified/wdg_user_status-MINIFIED-b01143986aeea577bc90a6242238ce52.js" async="" defer=""></script>
 <script src="/wdg/set-active/js/minified/wdg_set-MINIFIED-5f994a4e530237e6e7304d65bf797cc7.js" async="" defer=""></script>
 <script src="/wdg/tracking_footer-active/js/minified/wdg_tracking_footer-MINIFIED-57a0c1ec05bb3a0811baa77b0f2a9b4a.js" async="" defer=""></script>
 <script src="/wdg/recaptcha-active/js/minified/wdg_recaptcha-MINIFIED-4d750cbc1902d4c7008fff7eb97c201f.js" async="" defer=""></script>
@@ -2535,9 +2784,9 @@ SpilGames(['Portal', 'PageTracker', 'EventTracker', 'ThumbnailTracker'], functio
 
 
         
-        <script>SpilGames(["SWP","SWPUtils"],function(d,b){d.init("header");var a=document.querySelector(".wdg_header .authentication");d.System.init(function(e){switch(e.name){case "popup.header.open":window.setTimeout(function(){b.addClass(a,"is-open")},0);break;case "popup.header.close":b.removeClass(a,"is-open")}},!0)});SpilGames(["SWPUtils","DOMEvent","FeatureDetector"],function(d,b,a){if(a.transitions()){var e=window;a=e.document;var f=a.querySelector(".inner.container"),c=a.querySelector("#wdg_header > .inner"),g=!0,h;f&&c&&b.add(e,"scroll",function(a,d){function b(){c=!1;a()}var c;return function(){c||(c=!0,e.setTimeout(b,d))}}(function(){var a=e.pageYOffset,b=a-h||0;g&&0<b&&100<a?"left"!==f.getAttribute("data-offcanvas")&&(d.addClass(c,"sticky-hidden"),g=!1):!g&&0>b&&(d.removeClass(c,"sticky-hidden"),g=!0);
-h=a},200))}});SpilGames(["SWP","BeLazy"],function(d,b){var a=document.getElementById("wdg_header");if(a&&"MutationObserver"in window&&"matchMedia"in window){var e=function(b){b.matches&&(c(),(new MutationObserver(c)).observe(a,{attributes:!1,childList:!0,characterData:!0,characterDataOldValue:!1,subtree:!0}))},f=window.matchMedia("(max-width: 768px)"),c=d.Utils.debounce(function(){b.handleImagesIn(a,!0)},500);e(f);f.addListener(e)}});
-//# sourceMappingURL=wdg_header-MINIFIED-0e2c02b9853d39e743f3903aaf875da0.js.map
+        <script>SpilGames(["SWPUtils","DOMEvent","FeatureDetector"],function(g,e,a){if(a.transitions()){var d=window;a=d.document;var b=a.querySelector(".inner.container"),c=a.querySelector("#wdg_header > .inner"),f=!0,h;b&&c&&e.add(d,"scroll",function(a,c){function f(){b=!1;a()}var b;return function(){b||(b=!0,d.setTimeout(f,c))}}(function(){var a=d.pageYOffset,e=a-h||0;f&&0<e&&100<a?"left"!==b.getAttribute("data-offcanvas")&&(g.addClass(c,"sticky-hidden"),f=!1):!f&&0>e&&(g.removeClass(c,"sticky-hidden"),f=!0);
+h=a},200))}});SpilGames(["SWP","BeLazy"],function(g,e){var a=document.getElementById("wdg_header");if(a&&"MutationObserver"in window&&"matchMedia"in window){var d=function(b){b.matches&&(c(),(new MutationObserver(c)).observe(a,{attributes:!1,childList:!0,characterData:!0,characterDataOldValue:!1,subtree:!0}))},b=window.matchMedia("(max-width: 768px)"),c=g.Utils.debounce(function(){e.handleImagesIn(a,!0)},500);d(b);b.addListener(d)}});
+//# sourceMappingURL=wdg_header-MINIFIED-062bc0a80eb6d7f414797468bab72c92.js.map
 </script>
         
         <script>SpilGames(["SWP","DOMSelect","Utils","BeLazy"],function(a,b,f,c){a.init("segmentation_recommendations_menu");var d=window.document.getElementById("wdg_segmentation_recommendations_menu");b=a.getProperty("async")||!1;var g=a.getProperty("pagesize")||4,e=function(){};b&&(e=f.once(function(){a.Widget.refresh({async:!1,pagesize:g,lazyload_images:!0},{callback:function(){c.handleImagesIn(d)}})}),c.until("visible",d,e))});
@@ -2556,6 +2805,7 @@ a+"]");b.Utils.each(w.getAll("a[data-path]",a),q.trackElement);window.setTimeout
         
         <script>SpilGames(["SWP","Net","JSLib"],function(b,d,e){e.subscribe("sms.send",function(a){a&&a.phone&&a.appId||b.Utils.warn("Missing message input. Both phone number and app ID are required.");var c=a.callback||function(){};d.send({url:"/wdg/send_link/?number="+a.phone+"&app_id="+a.appId+"&output_format=snippet",type:"GET",dataType:"json"},function(a){a&&2===b.Utils.size(a)?c(a):c({sent:!1,feedback:"Server error. Please try again later."})})})});SpilGames(["SWP","Net","JSLib"],function(b,d,e){e.subscribe("email.send_app_link",function(a){if(!a||!a.email)return b.Utils.warn("Missing email input. Email is required."),!1;var c=a.callback||function(){};a="/wdg/send_link/?guid="+encodeURIComponent(a.guid)+"&app_title="+encodeURIComponent(a.app_title)+"&app_id="+encodeURIComponent(a.app_id)+"&email="+encodeURIComponent(a.email)+"&site="+parseInt(a.site,10)+"&base_template="+encodeURIComponent(a.base_template)+"&name="+encodeURIComponent(a.name)+
 "&metadata="+encodeURIComponent(JSON.stringify(a.metadata))+"&output_format=snippet";d.send({url:a,type:"GET"},function(a){c(JSON.parse(a))})})});
+//# sourceMappingURL=wdg_send_link-MINIFIED-999211dff1fbd459d44aeec999c2ecd7.js.map
 </script>
         
 
@@ -2563,20 +2813,6 @@ a+"]");b.Utils.each(w.getAll("a[data-path]",a),q.trackElement);window.setTimeout
     var wdgTrackingFooterUnits = {};
 </script>
 
-
-<script>
-wdgTrackingFooterUnits['2002'] = function() {
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '1744499319131225');
-    fbq('track', 'PageView');
-    
-    
-    var fbTrackingDiv = document.createElement('div');
-    fbTrackingDiv.innerHTML = "<img src='https://www.facebook.com/tr?id=2060634337492109&ev=Mahjongcrimes-Portal-GamesPages&noscript=1' alt=''> <img src='https://www.facebook.com/tr?id=2060634337492109&ev=Mahjongcrimes-Portal-Hompepage&noscript=1' alt=''> <img src='https://www.facebook.com/tr?id=2060634337492109&ev=Mahjongcrimes-Portal-Allpages&noscript=1' alt=''> <img src='https://www.facebook.com/tr?id=665039917037235&ev=TFQ_HomePage&noscript=1' alt=''> <img src='https://www.facebook.com/tr?id=2060634337492109&ev=Mahjongcrimes-Portal-GamesPages&noscript=1' alt=''>";
-    document.body.appendChild(fbTrackingDiv);
-    
-};
-</script>
 
 
 
@@ -2605,9 +2841,10 @@ wdgTrackingFooterUnits['2003'] = function() {
 
 
         
-        
+        <div id="wdg_recaptcha_invisible" class="wdg_recaptcha_invisible" data-props="{&quot;recaptcha_script&quot;:&quot;https://www.google.com/recaptcha/api.js?render=&quot;,&quot;verified&quot;:false,&quot;score&quot;:0,&quot;sitekey&quot;:&quot;6Ldq3JAUAAAAAGuIP9h_H27psubmK_OOOJJxEpXH&quot;,&quot;top_level_widget&quot;:&quot;wdg_static_pages&quot;}"></div>
 
-        <!-- 0_044D013B -->
+
+        <!-- 0_0651BDBC -->
     
 
-</body></html>
+<script type="text/javascript" src="//static1.spilcdn.com/sa/3.14.01/3/90/js/spilgames.api.js" async=""></script><script src="https://cdn.digitru.st/prod/1/digitrust.min.js"></script></body></html>
