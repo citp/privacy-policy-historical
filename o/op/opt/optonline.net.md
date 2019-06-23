@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106234922id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623225442id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.*
 
 # 
 
@@ -803,13 +803,11 @@ Effective October 15, 2018
 
   * © {{CommonFooterCtrl.fullYear}} CSC Holdings, LLC.
   * [](http://www.news12.com/)
-  * [](http://www.newsday.com/)
-  * [](http://www.msgvarsity.com/)
-  * [](http://long-island.newsday.com/)
-  * [](http://www.amny.com/)
-  * [](http://cars.newsday.com/index.php)
-  * [](http://homes.newsday.com/)
-  * [](http://www.optimum.net/community?tid=opt)
+  * [](http://www.news12varsity.com/)
+  * [](https://i24news.tv/)
+  * [](http://alticeusa.com/we-are-altice-business)
+  * [](http://www.alticeconnects.com/)
+  * [](http://a4media.com/)
 
 
 
