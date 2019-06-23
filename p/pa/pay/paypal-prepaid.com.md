@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypal-prepaid.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129131315id_/https%3A//www.paypal-prepaid.com/account/terms/Bancorp_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal-prepaid.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623214136id_/https%3A//www.paypal-prepaid.com/account/terms/Bancorp_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
