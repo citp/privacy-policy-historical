@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the someecards.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231105103id_/https%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the someecards.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623234125id_/https%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | someecards.com
 
