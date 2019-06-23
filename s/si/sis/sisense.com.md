@@ -1,154 +1,67 @@
-> *The following text is extracted and transformed from the sisense.com privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315015216id_/http%3A//pages.sisense.com/rs/sisense/images/sisense-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sisense.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623105646id_/https%3A//www.sisense.com/privacy-policy) for the most accurate reproduction.*
 
-# SiSense Privacy Policy
+# Privacy Policy | Sisense
 
-                                  SiSense Privacy Policy
-Last updated: March 27, 2013
-SiSense Ltd. ("SiSense" "we", "our" or "us") respects the privacy of the users of its
-website at http://www.sisense.com (the “Site”) and is committed to protect the
-information it collects and/or is disclosed to it by the users of this Site and of services
-that we provide ("users" or "you").
-INFORMATION WE COLLECT
-SiSense collects information from our users at several different points on our Site. This
-may include traffic data including a user's IP address, domain server, type of computer,
-and type of web browser. This is anonymous information that does not personally
-identify a user but is helpful for marketing purposes or for improving a user's
-experience on the Site.
-In general, when you visit our Site you remain anonymous. Some areas of our Site may
-however require registration. Also, upon downloading or using our software products
-may require registration as well. Personal information, such as a user's name, address,
-contact information and other personally-identifiable information ("Personal
-Information") may be collected from you and stored in our databases, typically when
-you register to the Site, request support enter into a sales promotion or otherwise
-interact with us (for example through the "contact us" option). It should be made clear
-that you have no legal obligation to provide us with any Personal Information and the
-submission of such information is entirely subject to your sole discretion and consent.
-However if you will not provide us with the required information we may not be able to
-provide you with the information/services requested by you. Registered users may have
-a user name and password to access their information.
-We may also collect statistical and other data related to your use of the Site, our
-software products or services as well as information on Site usage patterns. This
-information is collected and used as non-individually identifiable information.
-Our customers which have been granted a license to SiSense’s proprietary software
-products (the "Software") install our Software on their systems which may enable
-SiSense to process, store, retrieve and monitor data within any computer network on
-which the Software has been installed, including personal data of our customers and
-those users of the customer which are authorized to use the Software, and transmit
-such data internally within SiSense as necessary to ensure data protection, provide
-services to SiSense' customers and/or to verify compliance with the terms of the license
-agreement.
-29541 - 1252464/6
+##### Last updated: February 26, 2019
+
+##### [Download as PDF](https://pages.sisense.com/rs/sisense/images/sisense-privacy-policy.pdf)
+
+  
+This Privacy Policy notice describes how Sisense Ltd. (collectively with its affiliates, “ **Sisense** ” “ **we** “, “ **our** ” or “ **us** “) handles and protects the information it collects or receives from the users (“ **users** ” or “ **you** “) of its website at [https://www.sisense.com ](https://www.sisense.com/)(the “ **Site** ”). 
+
+**For information about your privacy relating to the Sisense Services and Sisense Cloud see:  <https://www.sisense.com/services-and-cloud-privacy-notice/>**
+
+## INFORMATION WE COLLECT
+
+Sisense collects information from users visiting the Site. This information includes traffic data including a user’s IP address, domain server, type of computer, and type of web browser. We track users’ movements around the Site. Some areas of our Site require you to register and provide your name and contact information. Downloading our software products requires you to register and provide your name, contact information, and intended use case. We collect personal information, such as a user’s name, address, contact information and other personally-identifiable information (“ **Personal Information** ” or “ **PII** ”) when you register on the Site, request a demo, request a download, subscribe to our blog, enter into a sales promotion or otherwise interact with us (for example through the “contact us” option). Users who register for a free trial account on the Site are prompted to create a user name and password to access their account information. We collect statistical data related to our users’ use of the Site (including Site usage patterns), our software products and our services. You have no obligation to provide us with any PII and the submission of such information is at your sole discretion and consent. However, if you will not provide us with the required information we are unable to provide you with the information, downloads, or services you requested. 
+
+## HOW WE USE INFORMATION
+
+We use the information we collect to analyze trends, to administer the Site, and improve our products and services, for marketing purposes, for improving users’ experience on the Site, and to gather demographic information about our user base as a whole. We may use the information that you provided us or that we collected from your activity on the Site in combination with PII from other sources and use third-party services to infer your region and the organization you are associated with to tailor the content you see, interact with you, and market directly to you. We compile and store data and information and generate reports related to our users’ access to and use of our Site and products and services. We may share aggregated statistical information with third parties. We do not disclose, sell, or provide your PII to third parties, except in the following circumstances: 
+
+  * If the information is required by law in order to prevent, investigate, or take action regarding illegal activities. In addition, we will share information in response to legal process, court orders, subpoenas, or to establish or exercise our legal rights or defend against legal claims;
+  * For the purpose of providing you with products and/or services you request and operating the Site we may share PII with trusted third-party partners who need to have access to the information for the purpose of providing Site-related services to us only (and not for such third parties’ commercial use in any way).
 
 
-When you use our Software products we may access, collect and use non-personally
-identifiable information (“PII”), and metadata such as how many requests were issued,
-commonly used data sources, size of your database, used modules, etc. Such foregoing
-usage shall be done solely to the extent necessary for SiSense in performing its
-obligations under the applicable license agreement.
-HOW WE USE INFORMATION
-We use information which does not identify individual users, to analyze trends, to
-administer the Site and improve our services, to track users’ movements around the
-Site and to gather demographic information about our user base as a whole. We may
-use such information collected in combination with Personal Information to market
-directly to a certain person subject to requirements of applicable law. This non personal
-information may be shared with third parties.
-We compile and store data and information and generate reports related to our users'
-access to and use of our Site and services.
-To the extent required under applicable data processing laws and regulations, any
-personal information that we collect will be stored in our database and will be used in
-accordance with such applicable laws and regulations.
-We do not share, distribute, sell or rent any of your Personal Information with/to third
-parties, except in the following circumstances:
-•            If the information is required by law in order to prevent, investigate, or take
-action regarding illegal activities. In addition, we will share information in response to
-legal process, court orders, subpoenas, or to establish or exercise our legal rights or
-defend against legal claims;
-•            For the purpose of providing and operating the Site we may share non-PII
-information with trusted third-party partners who need to know for purpose of
-providing Site-related services to us only (and not for such third parties' commercial use
-in any way). We will require that these third parties comply with this Privacy Policy or
-with privacy policies at least as protective as this Privacy Policy.
-•            If we have your permission to do so.
-Any data processing performed by these third parties will, if and when required by law,
-be governed by a data processing agreement in the form required by law, preserving
-your statutory data protection rights.
-29541 - 1252464/6
+  * If we have your permission to do
 
 
-BUSINESS TRANSFERS
-In the conduct of our business, we may sell certain of our assets. Information collected
-from users of the Site, including personal information, could be transferred as part of
-such transaction. By submitting your Personal Information through the Site, you agree
-that your information may be transferred to third parties under such or similar
-circumstances.
-COOKIES
-A cookie is a piece of data stored on a user's hard drive containing information about
-the user. Usage of a cookie is in no way linked to any personally identifiable information
-while on our Site. We use cookies to enhance the user experience of our Site by means
-such as storing password or user preference information. If a user rejects the cookie,
-they may still use our Site with the only drawback being the disablement of some of the
-usability features of our Site. We may also use cookies to track and monitor usage of
-the Site by users for the purposes of marketing and Site improvement. The data
-collected from these cookies will never be shared with an external source and will be
-used for internal purposes only. Most browsers will allow you to erase cookies from
-your computer hard drive, block acceptance of cookies, or receive a warning before a
-cookie is stored.
-E-MAIL COMMUNICATIONS
-At any time, you have the ability to opt out of receiving marketing communications from
-SiSense, but you may not opt out of administrative emails (for example, emails about
-your transactions or policy changes) while you are a registered user. You can opt out by
-either changing your e-mail preferences or using the link provided at the bottom of
-each email message.
-We do not send emails to anyone without permission, and we do not sell or rent email
-addresses to any unauthorized third party. This does not mean that we can prevent
-spam from happening on the Internet. If you believe that you have received an
-unsolicited email from us, please contact us at the e-mail below and we will investigate.
-POLICY TOWARDS CHILDREN
-We do not knowingly collect personally identifiable information from children under the
-age of 13. If a parent or guardian becomes aware that his or her child has provided us
-with Personal Information without their consent, he or she should contact us at
-Support@sisense.com. If we become aware that a child under the age of 13 has
-provided us with Personal Information, we will delete such information from our files.
-SECURITY
-29541 - 1252464/6
+  * Information collected from users of the Site, including PII, could be transferred as part of or in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of our stock and/or assets relating to the business conducted through the Site or other corporate change, including, during the course of any due diligence process.
 
+By submitting your PII through the Site or otherwise providing it to us, you agree that your information may be transferred to third parties under the circumstances described above or similar circumstances. Sisense Boto™ is governed by additional Terms of Use and Privacy Policy. 
 
-We follow generally accepted industry standards to protect the Personal Information
-submitted to us, both during transmission and once we receive it. However, due to the
-nature of Internet communications and evolving technologies, unauthorized entry or
-use, hardware or software failure, and other factors, the security of user information
-may be compromised at any time. No method of transmission over the Internet, or
-method of electronic storage, is 100% secure.
-Therefore, we cannot guarantee the absolute security of Personal Information and
-disclaim any assurance that such information will remain free from loss, misuse, or
-alteration by third parties who, despite our efforts, obtain unauthorized access.
-CHANGES AND CONSENT TO PRIVACY POLICY
-By registering with SiSense or by using the Site without prior registration, you agree to
-the terms of this Privacy Policy. We reserve the right to change the provisions of the
-Privacy Policy from time to time and you are therefore advised to check it regularly.
-Your continued use of the Site after any change to the policy constitutes your
-acceptance of this Privacy Policy.
-LINKS
-Our Site may have links to the sites of other companies. We are not responsible for
-their privacy practices. We encourage you to learn about the privacy policies of those
-companies.
-UPDATE/DELETE USER INFORMATION
-You can write to us at any time to obtain a copy of your information and to have any
-inaccuracies corrected or if you no longer desire our service (in which case we will
-endeavour to remove your personal data provided to us). Where appropriate, you may
-have your Personal Information erased, rectified, amended or completed. In order to
-contact us regarding your information please e-mail Support@sisense.com.
-To protect your privacy and security, we may take reasonable steps to verify your
-identity before granting access or making corrections, however, you should protect your
-password from disclosure because anyone who gains access to your password may
-have access to, and may edit, your profile.
-GOVERNING LAW
-This Privacy Policy shall be exclusively governed by and construed in all respects under
-the laws of the State of New York, without giving effect to any choice-of-law or conflict-
-of-law provisions. Any and all legal claims, suits or actions that arise in connection with
-29541 - 1252464/6
+## COOKIES
 
+A cookie is a piece of data stored on a user’s hard drive containing information about the user. We use cookies to enhance the user experience of our Site (such as storing password or user preference information). If a user rejects the cookie, they may still use our Site with the only drawback being the disablement of some of the usability features of our Site. We also use cookies (including allowing third-party cookies) to track and monitor usage of the Site by users for the purposes of marketing, Site improvement, and retargeting ads to you when you visit other sites. Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. Many ad networks have joined the Digital Advertising Alliance’s self-regulatory program to provide a single opt-out tool at: [http://www.aboutads.info](https://www.aboutads.info/) and at the European Interactive Digital Advertising Alliance (EDAA) website: [http://youronlinechoices.eu](https://www.youronlinechoices.com/). However, Sisense does not guarantee that using these tools will prevent online behavioral tracking using cookies through the Site. At present, Sisense does not honor Do Not Track signals set by some browsers. If you wish to avoid behavioral tracking by ad networks, please choose from the available methods for doing so. 
 
-this Privacy Policy or with breach of this Privacy Policy shall be submitted to the
-personal jurisdiction of the courts located in the courts of New York County.
-29541 - 1252464/6
+## E-MAIL COMMUNICATIONS
+
+At any time, you have the ability to opt out of receiving marketing communications from Sisense, but you may not opt out of administrative emails (for example, emails about your transactions or policy changes) while you are a registered user. You can opt out by either changing your e-mail preferences or using the link provided at the bottom of each email message. We do not send marketing emails to you if you decide to opt out, and we do not sell or provide email addresses to any third party, except in the situations stated above. 
+
+## POLICY TOWARDS CHILDREN
+
+We do not knowingly collect PII from children under the age of 16. If a parent or guardian becomes aware that his or her child has provided us with PII without his or her consent, he or she should contact us at [info@sisense.com](mailto:info@sisense.com). If we become aware that a child under the age of 16 has provided us with PII, we will delete such information from our files. 
+
+## SECURITY
+
+We employ commercially reasonable security measures to protect the PII submitted to us, both during transmission and once we receive it. However, due to the nature of Internet communications and evolving technologies, the security of user information may be compromised at any time through unauthorized entry or use, hardware or software failure, and other causes. No method of transmission over the Internet or method of electronic storage is 100% secure. Therefore, we cannot guarantee the absolute security of PII and disclaim any assurance that such information will remain free from loss, misuse, or alteration by third parties who, despite our efforts, obtain unauthorized access. 
+
+## Sisense blogs and discussion forums
+
+If you participate in a Sisense blog, discussion forums, or other parts of our Websites that allow you to post your comments, the information you provide there is open to others who have access to that blog or discussion forum. Blogs and discussion forums are monitored by Sisense, and we reserve the right to remove your content at our discretion. Each participant’s opinion on a blog or forum is his or her own. 
+
+## CHANGES AND CONSENT TO PRIVACY POLICY
+
+By registering with Sisense or by using the Site without prior registration, you agree to the terms of this Privacy Policy. We reserve the right to change the provisions of the Privacy Policy from time to time without prior notice and you are therefore advised to check it regularly. Your continued use of the Site after any change to the Privacy Policy constitutes your acceptance of this Privacy Policy as revised. **LINKS** Our Site may have links to the sites of other companies. We are not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. 
+
+## UPDATE/DELETE USER INFORMATION
+
+To request access to or deletion of your information, it is best to follow the unsubscribe link at the bottom of the emails you receive from Sisense. You can also write to us at any time to obtain a copy of your information and to have any inaccuracies corrected or if you no longer desire our service (in which case we will endeavor to remove your PII provided to us). Where appropriate, you may have your PII erased, rectified, amended or completed. In order to contact us regarding your information please e-mail [info@sisense.com](mailto:info@sisense.com). To protect your privacy and security, we may take reasonable steps to verify your identity before granting access or making corrections, however, you should protect your password from disclosure because anyone who gains access to your password may have access to, and may edit, your profile. While we try to comply with any request pertaining to your PII, in accordance with applicable law, we may not be able to fulfill requests pertaining to information already shared with third parties. Some information may be retained on our systems in accordance with our recordkeeping policies, and some residual digital information cannot be removed or changed. 
+
+## CROSS-BORDER PERSONAL INFORMATION TRANSFERS AND THE EU-U.S. PRIVACY SHIELD AND SWISS – U.S. PRIVACY SHIELD
+
+Sisense complies with the EU –- U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, EEA, the United Kingdom, and Switzerland to the United States, in reliance on the Privacy Shield . Sisense has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/. If you are in the European Union, EEA, the United Kingdom, or Switzerland, you have a right to access your Personal Information that we hold about you, and can correct, amend, or delete that information where it is inaccurate, or has been processed in violation of the Privacy Shield Principles, except where the burden or expense of providing you access would be disproportionate to the risks to your privacy in the case in question, or where the rights of other persons would be violated. You have a right to choose (opt-out) whether your Personal Information is (i) to be disclosed to a third party or (ii) to be used for a purpose that is materially different from the purpose(s) for which it was originally collected or subsequently authorized by you. You may exercise your choice to opt-out of the permission you gave us by contacting us at the contact information below (the services you requested from us may be affected by your choice). In the context of an onward transfer of Personal Information to a third party (including our service providers), we have a responsibility for the processing of personal information we receive under the Privacy Shield and subsequently transfer to a third party acting as an agent on our behalf. We shall remain liable under the Privacy Shield Principles if our agent processes such personal information in a manner inconsistent with the Privacy Shield Principles, unless we can prove that we are not responsible for the event giving rise to the damage. We will investigate and attempt to resolve requests, complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Notice. We may require further information from you to identify you and address the matter at issue. Individuals in the European Union, EEA, the United Kingdom, and Switzerland may submit unresolved complaints to binding arbitration before the American Arbitration Association (“AAA”) under certain conditions. Information about AAA services can be found at its website: http://go.adr.org/privacyshield.html. The exclusive location for such arbitration shall be New York, NY, United States. Sisense is subject to the regulatory authority of the U.S. Federal Trade Commission. The Federal Trade Commission may be contacted at the following address: Federal Trade Commission Attn: Consumer Response Center 600 Pennsylvania Avenue NW Washington, DC 20580 Email: consumerline@ftc.gov www.ftc.gov People in the European Union and EEA, (EU Data Subjects), the United Kingdom, and Switzerland can invoke binding arbitration as stipulated in the EU –- U.S. Privacy Shield Agreement, Annex I, for some residual claims not resolved by other redress mechanisms. 
+
+## GOVERNING LAW
+
+This Privacy Policy shall be exclusively governed by and construed in all respects under the laws of the State of Israel, without giving effect to any choice-of-law or conflict-of-law provisions. Any and all legal claims, suits or actions that arise in connection with this Privacy Policy or with breach of this Privacy Policy shall be submitted to the personal jurisdiction of the courts located in the courts of New York County. 
