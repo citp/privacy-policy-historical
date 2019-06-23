@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the celebmafia.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629183853id_/http%3A//celebmafia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebmafia.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623210232id_/https%3A//celebmafia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - CelebMafia
 
-CelebMafia, Inc. has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: “celebmafia.com” at [http://celebmafia.com](http://celebmafia.com/).  We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at celebmafia08[at]gmail.com with any questions.
+CelebMafia, Inc. has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: “celebmafia.com” at [https://celebmafia.com](https://celebmafia.com/). We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at celebmafia[at]yandex.com with any questions.
 
 ## Comments
 
@@ -44,7 +44,7 @@ Companies that place ads on the celebmafia.com Web site — including, but not l
 
 ## Cookie Notification and Disabling
 
-You can control and/or delete cookies as you wish – for details, see [aboutcookies.org](http://aboutcookies.org/). You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+You can control and/or delete cookies as you wish – for details, see [aboutcookies.org](https://www.aboutcookies.org/). You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
 ## Personally Identifiable Information
 
@@ -65,7 +65,7 @@ celebmafia.com will not sell, rent, trade, or disclose your personally identifia
 
 ## Communication
 
-We collect personally identifiable information such as first and last name and email address when you sign up for our email list(s). These email services provide celebmafia.com users free opt-in updates about the celebmafia.com site and movie information and/or content. We may also request secondary information, such as your movie preferences, which we will use to help personalize the site for you in the future. We may also on occasion send promotional and informational mail to you from celebmafia.com. You may opt-out of receiving these secondary communications by sending an email with “remove” in the subject line to celebmafia08[at]gmail.com .
+We collect personally identifiable information such as first and last name and email address when you sign up for our email list(s). These email services provide celebmafia.com users free opt-in updates about the celebmafia.com site and movie information and/or content. We may also request secondary information, such as your movie preferences, which we will use to help personalize the site for you in the future. We may also on occasion send promotional and informational mail to you from celebmafia.com. You may opt-out of receiving these secondary communications by sending an email with “remove” in the subject line to celebmafia[at]yandex.com .
 
 ## Embedded content from other websites
 
@@ -105,15 +105,15 @@ celebmafia.com is engaged in “powered by” relationships as more fully descri
 
 ## Cookies & 3rd Party Advertisements
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 Subject to your consent, Exponential Interactive, Inc collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. You may change your consent decision at any time via . For more details including access requests and complaints, review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com).
 
 Exponential Cookie Details:
 
-[](http://celebmafia.com/wp-content/uploads/2018/05/exponential-cookie-data.png)
+[](https://celebmafia.com/wp-content/uploads/2018/05/exponential-cookie-data.png)
 
 ## Disclosure Regarding Google Display Advertising
 
@@ -121,7 +121,7 @@ We implement Google Analytics features that use Display Advertising information 
 
 You can opt-out of Google Analytics for Display Advertising, to prevent your data from being used by Google Analytics, by going to the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout/).
 
-We, along with third-party vendors (including Google), use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookies) to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website. You can read more about the cookies  used by Google Analytics advertising features, by going to the [Google Analytics Privacy Policy page](http://www.google.com/policies/technologies/ads/).
+We, along with third-party vendors (including Google), use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookies) to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website. You can read more about the cookies used by Google Analytics advertising features, by going to the [Google Analytics Privacy Policy page](https://www.google.com/policies/technologies/ads/).
 
 ## Security
 
@@ -137,7 +137,7 @@ celebmafia.com site contains links to other web sites. Please note that when you
 
 ## Correct/Update or Cancel Subscription
 
-Users can change their information with celebmafia.com by emailing a request to celebmafia08[at]gmail.com . If you wish to unsubscribe from any celebmafia mailing list, please email celebmafia08[at]gmail.com using the e-mail address you would like removed and type “UNSUBSCRIBE” as the subject of the message.
+Users can change their information with celebmafia.com by emailing a request to celebmafia[at]yandex.com . If you wish to unsubscribe from any celebmafia mailing list, please email celebmafia[at]yandex.com using the e-mail address you would like removed and type “UNSUBSCRIBE” as the subject of the message.
 
 ## Notification of Changes
 
@@ -145,4 +145,4 @@ celebmafia.com privacy practices may change periodically. celebmafia.com will no
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact celebmafia:  Email: celebmafia08[at]gmail.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact celebmafia: Email: celebmafia[at]yandex.com
