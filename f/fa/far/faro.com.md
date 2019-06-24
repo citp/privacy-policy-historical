@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222030652id_/https%3A//www.faro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624194331id_/https%3A//www.faro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FARO Technologies
 
 **FARO Privacy Notice**
 
-This website is owned and operated by FARO Technologies, Inc. (“FARO”, “we”, “our”, or “us”). FARO respects the privacy of visitors to our website. This Notice describes the types of information we, as data controller, collect about visitors to the FARO website, how we may use the information, and with whom we may share it. This Notice also describes (1) the measures we take to safeguard the information we collect and (2) your rights and privileges concerning our collection, use and disclosure of information about you. This Notice is consistent with [FARO’s Notice of Privacy Shield Compliance](http://www.faro.com/legal-notices/) regarding transfers of personal data from the European Economic Area to the United States.
+This website is owned and operated by FARO Technologies, Inc. (“FARO”, “we”, “our”, or “us”). FARO respects the privacy of visitors to our website. This Notice describes the types of information we, as data controller, collect about visitors to the FARO website, how we may use the information, and with whom we may share it. This Notice also describes (1) the measures we take to safeguard the information we collect and (2) your rights and privileges concerning our collection, use and disclosure of information about you. This Notice is consistent with [FARO’s Notice of Privacy Shield Compliance](http://www.faro.com/legal-notices/) regarding transfers of personal data from the European Economic Area to the United States.
 
-This Notice applies to the FARO website, located at [www.faro.com](http://www.faro.com/), as well as to any versions of the FARO website that FARO operates. Please note that our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.
+This Notice applies to the FARO website, located at [www.faro.com](http://www.faro.com/), as well as to any versions of the FARO website that FARO operates. Please note that our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.
 
 For clarification, this Notice applies only to information collected through the FARO website and does not describe the ways in which we may collect or use information obtained offline or the collection, use and disclosure practices of any of FARO’s corporate affiliates or business partners who make our services available on their websites (collectively, “Affiliates”) or other third parties. For information on the collection, use and disclosure practices of an Affiliate or other third party, please review the privacy policy on the applicable party’s website.
 
@@ -22,7 +22,7 @@ The information we may collect falls into two categories: Personal data and Site
 
 Site-Level Data is anonymous information regarding use of our website or services that is collected and/or aggregated by or on behalf of FARO through the use of automated means, which include cookies and web beacons. “Cookies” are small identifiers sent from a web server that are stored on your computer’s hard drive for the purpose of identifying your browser during interaction on websites or storing information or settings in your browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Site-Level Data collected through these automated means may include information that we may gather and store about your visit to, and use of, the FARO website, such as your IP address, screen resolution, type of browser and operating system used, date and time you access the websites, pages you visit, and if you linked to this website from another website or search engine, the identity of that website or search engine.
 
-In addition to the cookies and web beacons we set, we may also allow certain third-party analytics service providers to include cookies and web beacons within the pages of the FARO website on our behalf and to retain and use Site-Level Data received from such cookies and web beacons themselves. Third party service providers that collect Site-Level Data on our behalf may offer information about their data collection practices, and in some cases, an opt-out on their respective websites, which you can access here: [Hosting](http://www.hosting.com/terms-conditions/privacy-policy); [Eloqua](https://www.oracle.com/marketingcloud/about/index.html); [Google](http://www.google.com/intl/en/policies/); [Adobe](http://www.adobe.com/privacy/advertising-services.html).
+In addition to the cookies and web beacons we set, we may also allow certain third-party analytics service providers to include cookies and web beacons within the pages of the FARO website on our behalf and to retain and use Site-Level Data received from such cookies and web beacons themselves. Third party service providers that collect Site-Level Data on our behalf may offer information about their data collection practices, and in some cases, an opt-out on their respective websites, which you can access here: [Hosting](http://www.hosting.com/terms-conditions/privacy-policy); [Eloqua](https://www.oracle.com/marketingcloud/about/index.html); [Google](http://www.google.com/intl/en/policies/); [Adobe](http://www.adobe.com/privacy/advertising-services.html).
 
 Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies. If you choose to decline cookies, certain features of the FARO website may not function properly or at all as a result.
 
@@ -57,7 +57,7 @@ We may include applications or widgets from third parties on some pages of this 
 
 We may partner with advertising networks, which are companies that deliver targeted advertisements to consumers and generate statistics and metrics related to the delivery of such advertisements. Typically, these companies are third-party advertising servers, advertising agencies, technology vendors, providers of sponsored content and research firms, and they may utilize information collected through cookies, web server logs and web beacons to provide customization, auditing, research and reporting for us, our Affiliates and other advertisers. This data collection takes place both on this website and on third-party websites that participate in the advertising networks. This process enhances the deployment of our marketing programs and helps us to track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences, for measuring the effectiveness of their advertising, and for other purposes.
 
-We do not provide any personal data to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the possibility exists that the advertiser will make the assumption that you are interested in the subject matter of the advertisements. Click the following hyperlink to visit the Network Advertising Initiative website to learn more about ad serving companies and opt-out from each of those listed: <http://optout.networkadvertising.org/?c=1#!/>.
+We do not provide any personal data to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the possibility exists that the advertiser will make the assumption that you are interested in the subject matter of the advertisements. Click the following hyperlink to visit the Network Advertising Initiative website to learn more about ad serving companies and opt-out from each of those listed: <http://optout.networkadvertising.org/?c=1#!/>.
 
 Please note that this does not opt you out of being served advertising but only excludes you from interest-based advertising. If you use the FARO website or Affiliate websites, you will continue to receive generic advertisements.
 
@@ -90,7 +90,7 @@ You are entitled to make certain choices about how we communicate with you and t
 
 Individuals in the EU are afforded certain rights which may be subject to limitations and/or restrictions. These rights include the right to: (i) request access to and rectification or removal of their personal data; (ii) obtain restriction of processing or to object to processing of their personal data; and (iii) the right to data portability.
 
-Individuals in the EU also have the right to lodge a complaint about the processing of their personal data with their local data protection authority. 
+Individuals in the EU also have the right to lodge a complaint about the processing of their personal data with their local data protection authority.
 
 You have the right to ask FARO not to process your personal data for marketing purposes.  You can exercise your right to prevent such processing by informing FARO at any time that you do not wish to receive such marketing. This right may be exercised by using the “unsubscribe” functionality embedded in email.
 
@@ -102,7 +102,7 @@ California Civil Code Section 1798.83 entitles California customers to request i
 
 **Access and Correction**
 
-Subject to applicable law, (i) you may obtain a copy of certain personal  data we maintain about you or update or correct inaccuracies in that information through your account on [www.faro.com](http://www.faro.com/) or (ii) you may have the right to obtain access to personal  data we maintain about you by contacting us as indicated in the “How To Contact Us” section below. To protect your privacy, we will take steps to verify your identity before granting you access to the information. If you believe that personal data we maintain about you is inaccurate, subject to applicable law, you may request that we correct or amend the information by contacting us as indicated below.
+Subject to applicable law, (i) you may obtain a copy of certain personal  data we maintain about you or update or correct inaccuracies in that information through your account on [www.faro.com](http://www.faro.com/) or (ii) you may have the right to obtain access to personal  data we maintain about you by contacting us as indicated in the “How To Contact Us” section below. To protect your privacy, we will take steps to verify your identity before granting you access to the information. If you believe that personal data we maintain about you is inaccurate, subject to applicable law, you may request that we correct or amend the information by contacting us as indicated below.
 
 **Links**
 
@@ -118,7 +118,7 @@ FARO uses commercially reasonable administrative, technical, personnel, and phys
 
 **Identity of the Privacy Officer**
 
-FARO’s data privacy officer can be contacted at: [DPO@faro.com](mailto:DPO@faro.com)
+FARO’s data privacy officer can be contacted at: [DPO@faro.com](mailto:DPO@faro.com)
 
 **Updates to this Notice**
 
@@ -126,7 +126,7 @@ We may update this Notice to provide clarification or notice of changes to our p
 
 **How to Contact Us**
 
-If you have any questions or comments about this Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [DSAR@faro.com](mailto:DSAR@faro.com) or call us at +1 (407) 333-9911.
+If you have any questions or comments about this Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [DSAR@faro.com](mailto:DSAR@faro.com) or call us at +1 (407) 333-9911.
 
 You may also write to us at:
 
@@ -135,4 +135,4 @@ FARO Technologies, Inc.
 Lake Mary, FL 32746  
 +1 (800) 736-0234 – +1 (407) 333-9911
 
-**Effective Date** – This policy was last updated on June 14, 2018.
+**Effective Date**  – This policy was last updated on June 14, 2018.
