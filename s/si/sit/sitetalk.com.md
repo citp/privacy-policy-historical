@@ -1,53 +1,53 @@
-> *The following text is extracted and transformed from the sitetalk.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106224914id_/https%3A//sitetalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitetalk.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624050329id_/https%3A//cryptocommunityworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SiteTalk
+# Privacy Policy - Crypto Community World
 
 _In the event of any conflict between the English and other language versions, the English version shall prevail._
 
 These websites are hosted from SiteTalk Community Inc. Floor 4, Willow House, Cricket Square, PO Box 2804, Grand Cayman KY1-1112, Cayman Islands
 
-SiteTalk undertakes everything possible to maintain that the information is protected on the highest level.
+Crypto Community World undertakes everything possible to maintain that the information is protected on the highest level.
 
 Collection of Your Personal Information
 
-In order to register as a participant of our community, you will be required at all times to sign in with user name and password. You will be able to access the different SiteTalk sites using the same username and password. By signing in through one SiteTalk website, you may be automatically signed into other SiteTalk sites. As part of this registration process, you may also be requested to provide questions and secret answers, which we use to help verify your identity and assist in resetting your password etc.
+In order to register as a participant of our community, you will be required at all times to sign in with user name and password. You will be able to access the different Crypto Community World sites using the same username and password. By signing in through one Crypto Community World website, you may be automatically signed into other Crypto Community World sites. As part of this registration process, you may also be requested to provide questions and secret answers, which we use to help verify your identity and assist in resetting your password etc.
 
-We ask you when registering to provide personal information, such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your postcode, age, gender etc. If you choose to make a purchase over the SiteTalk Webshop, we may ask for additional information, such as your credit card number and billing address, which is used to create a SiteTalk billing account.
+We ask you when registering to provide personal information, such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your postcode, age, gender etc. If you choose to make a purchase over the Crypto Community World Webshop, we may ask for additional information, such as your credit card number and billing address, which is used to create a Crypto Community World billing account.
 
-We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with SiteTalk. We also collect certain standard information that your browser sends to every Website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
+We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with Crypto Community World. We also collect certain standard information that your browser sends to every Website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
 
-When you receive newsletters or promotional e-mails from SiteTalk, customised links or similar technologies to determine whether the e-mail has been opened and which links you click, in order to provide you with more focused e-mail communications or other information in the future.
+When you receive newsletters or promotional e-mails from Crypto Community World, customised links or similar technologies to determine whether the e-mail has been opened and which links you click, in order to provide you with more focused e-mail communications or other information in the future.
 
-In order to offer you a more consistent and personalised experience in your interactions with SiteTalk, information collected through one SiteTalk Website may be combined with information obtained through other SiteTalk -participants-Websites.
+In order to offer you a more consistent and personalised experience in your interactions with Crypto Community World, information collected through one Crypto Community World Website may be combined with information obtained through other Crypto Community World -participants-Websites.
 
 **The participant consent explicitly with the collection and use of personal information.** The participant is entitled to withdraw this consent at any time for the future.
 
 **Sharing of Your Personal Information**
 
-Except as described in this statement, we will not disclose your personal information outside SiteTalk and its controlled subsidiaries and affiliates without your consent.
+Except as described in this statement, we will not disclose your personal information outside Crypto Community World and its controlled subsidiaries and affiliates without your consent.
 
-We may access and/or disclose your personal information if we believe such action is necessary to: (a) comply with the law or legal process served on SiteTalk; (b) protect and defend the rights or property of SiteTalk (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of SiteTalk websites or participants of the public.(d) the completion of all necessities concerning your contractual relationship with us.
+We may access and/or disclose your personal information if we believe such action is necessary to: (a) comply with the law or legal process served on Crypto Community World; (b) protect and defend the rights or property of Crypto Community World (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of Crypto Community World websites or participants of the public.(d) the completion of all necessities concerning your contractual relationship with us.
 
 **Use and transfer of Your Personal Information**
 
-SiteTalk collects and uses your personal information to operate and improve its sites and carry out the transactions you have requested. This with regard to the information you have send to us i.e. for the purchase of products in the SiteTalk MALL-shop or concerning those information you have send to other participants and therefore legible by everybody.
+Crypto Community World collects and uses your personal information to operate and improve its sites and carry out the transactions you have requested. This with regard to the information you have send to us i.e. for the purchase of products in the Crypto Community World MALL-shop or concerning those information you have send to other participants and therefore legible by everybody.
 
 We also use your personal information to communicate with you. We may send certain mandatory communications such as welcome letters, billing reminders and information on technical issues.
 
-Personal information collected on the SiteTalk sites may be stored, processed and transferred in the UK or any other countries inside or outside the European Community in which SiteTalk or its affiliates, subsidiaries or agents maintain facilities. SiteTalk guarantees that the transfer of private information to other affiliates will comply with this Privacy Policy and SiteTalk guarantees the highest level of data protection.
+Personal information collected on the Crypto Community World sites may be stored, processed and transferred in the UK or any other countries inside or outside the European Community in which Crypto Community World or its affiliates, subsidiaries or agents maintain facilities. Crypto Community World guarantees that the transfer of private information to other affiliates will comply with this Privacy Policy and Crypto Community World guarantees the highest level of data protection.
 
 **The participant consents explicitly to any such transfer of information outside the country of domicile.** The participant is entitled to withdraw this consent at any time for the future.
 
 **Cookies**
 
-SiteTalk websites use "cookies" to enable you to register as a participant of our SNP Website and to help personalise your participant ship online experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a Web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer.
+Crypto Community World websites use "cookies" to enable you to register as a participant of our SNP Website and to help personalise your participant ship online experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a Web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer.
 
-SiteTalk Websites use cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to enter the same information repeatedly and to display your personalised content and appropriate advertising on your later visits to these sites.
+Crypto Community World Websites use cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to enter the same information repeatedly and to display your personalised content and appropriate advertising on your later visits to these sites.
 
-When you sign in to a site using your username and password, the SiteTalk system stores your unique username, and the time you signed in at, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page on the site without having to sign in again on each page. When you sign out, these cookies are deleted from your computer. The system also uses cookies to improve the sign in experience. For example, your e-mail address may be stored in a cookie that will remain on your computer after you sign out. This cookie allows your e-mail address to be pre-populated, so that you will only need to type your password the next time you sign in. If you are using a public computer or do not otherwise want this information to be stored, you can select the appropriate radio button on the sign-in page, and this cookie will not be used.
+When you sign in to a site using your username and password, the Crypto Community World system stores your unique username, and the time you signed in at, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page on the site without having to sign in again on each page. When you sign out, these cookies are deleted from your computer. The system also uses cookies to improve the sign in experience. For example, your e-mail address may be stored in a cookie that will remain on your computer after you sign out. This cookie allows your e-mail address to be pre-populated, so that you will only need to type your password the next time you sign in. If you are using a public computer or do not otherwise want this information to be stored, you can select the appropriate radio button on the sign-in page, and this cookie will not be used.
 
-You can choose to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of the SiteTalk websites.
+You can choose to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of the Crypto Community World websites.
 
 **Changes to This Privacy Statement**
 
-We will occasionally update this privacy statement to reflect changes in our websites and participant feedback. When we post changes to this Statement, we will email all participants. If there are material changes to this statement or in how SiteTalk will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to review this statement periodically to be informed of how SiteTalk is protecting your information.
+We will occasionally update this privacy statement to reflect changes in our websites and participant feedback. When we post changes to this Statement, we will email all participants. If there are material changes to this statement or in how Crypto Community World will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to review this statement periodically to be informed of how Crypto Community World is protecting your information.
