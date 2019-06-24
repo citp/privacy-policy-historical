@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaltele.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105020554id_/http%3A//www.terrapinn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltele.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624223449id_/http%3A//www.terrapinn.com/privacy) for the most accurate reproduction.*
 
 # Terrapinn privacy
 
