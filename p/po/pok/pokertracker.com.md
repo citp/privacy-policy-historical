@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokertracker.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812160504id_/https%3A//www.pokertracker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokertracker.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624041401id_/https%3A//www.pokertracker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PokerTracker
 
