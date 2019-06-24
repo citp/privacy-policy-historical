@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackdaniels.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224011114id_/https%3A//legal.brown-forman.com/privacy-policy/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackdaniels.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625012722id_/https%3A//legal.brown-forman.com/privacy-policy/english) for the most accurate reproduction.*
 
 # Brown-Forman's Global Privacy Notice
 
@@ -7,7 +7,7 @@ LAST UPDATED:  16 March 2018
 
 Whenever you access our products or services or interact with us in other ways, Brown-Forman Corporation and its affiliated companies (“Brown-Forman”) collect and use (process) information about you (referred to as your “personal information”).  This notice describes how we collect personal information and how we use, share and protect it. It also explains your rights regarding your personal information and how you can contact us. 
 
-Since this notice contains important information, we encourage you to read it. Please use the links to access detailed information. If anything is not clear, please contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) 
+Since this notice contains important information, we encourage you to read it. Please use the links to access detailed information. If anything is not clear, please contact us via email at Privacy@b-f.com. 
 
 In this privacy notice we describe: 
 
@@ -256,16 +256,16 @@ You may ask to see what information we hold about you and to receive an explanat
 
 **Correcting your personal information**
 
-If we hold personal information about you that is incorrect, you have the right to tell us that it is incorrect and ask us to amend it. We will do this consistent with applicable law. If you would like to correct your personal information, please send an email to [[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2b7b59425d4a48526b49064d05484446)]. 
+If we hold personal information about you that is incorrect, you have the right to tell us that it is incorrect and ask us to amend it. We will do this consistent with applicable law. If you would like to correct your personal information, please send an email to [[Privacy@b-f.com](mailto:Privacy@b-f.com)]. 
 
 **Removing your personal information**  
 
 
-You may ask us to remove or delete your personal information from our database. If you do not want to receive promotional emails, please [click here](https://legal.brown-forman.com/opt_out). If you wish to have your personal information removed from our database, please send an email to [[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4212302b3423213b02206f246c212d2f)]. 
+You may ask us to remove or delete your personal information from our database. If you do not want to receive promotional emails, please [click here](https://legal.brown-forman.com/opt_out). If you wish to have your personal information removed from our database, please send an email to [[Privacy@b-f.com](mailto:Privacy@b-f.com)]. 
 
 Portability Requests
 
-You may ask us to port your personal information from our database, please send an email to [[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6b3b19021d0a08122b09460d45080406)]. 
+You may ask us to port your personal information from our database, please send an email to [[Privacy@b-f.com](mailto:Privacy@b-f.com)]. 
 
 **OTHER IMPORTANT INFORMATION**  
 
@@ -296,7 +296,7 @@ We retain personal information for as long as needed or permitted in light of th
 
 **International transfers of your personal information**
 
-We may transfer your information to Brown-Forman Corporation in the United States and to other service providers who may be located outside of the European Economic Area (EEA).  In these circumstances we take measures to ensure that your information is protected, this includes putting in place contracts with the recipients of your information to ensure that they provide adequate protection for your information. You may obtain a copy of these measures by contacting [[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1545677c6374766c557738733b767a78)].  
+We may transfer your information to Brown-Forman Corporation in the United States and to other service providers who may be located outside of the European Economic Area (EEA).  In these circumstances we take measures to ensure that your information is protected, this includes putting in place contracts with the recipients of your information to ensure that they provide adequate protection for your information. You may obtain a copy of these measures by contacting [[Privacy@b-f.com](mailto:Privacy@b-f.com)].  
 
 In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal information. 
 
@@ -326,7 +326,7 @@ We may change this Privacy Policy. The “LAST UPDATED” legend at the top of t
 
 Brown-Forman Corporation, located at 850 Dixie Highway, Louisville, KY 40210, USA, is the company responsible for collection, use and disclosure of your personal information under this Privacy Policy. 
 
-If you have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aefedcc7d8cfcdd7eecc83c880cdc1c3), or: 
+If you have any questions about this Privacy Policy, please contact us at [Privacy@b-f.com](mailto:Privacy@b-f.com), or: 
 
 Brown-Forman Corporation 
 
@@ -549,7 +549,7 @@ Registered Office: Part Fourth Floor (west)
 
 The information included in this section is specific to our products and services in the United States.
 
-There are several ways you can communicate with us.  Our email address is [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you prefer to contact us in writing, please use the mailing address below:  
+There are several ways you can communicate with us.  Our email address is Privacy@b-f.com. If you prefer to contact us in writing, please use the mailing address below:  
 
 
 Privacy Officer, c/o Brown-Forman Corporation, 850 Dixie Highway, Louisville, KY 40210 USA
