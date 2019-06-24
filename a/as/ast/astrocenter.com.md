@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227170520id_/https%3A//www.ingenio.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625014107id_/https%3A//www.ingenio.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy — Ingenio, LLC - Guiding Your Happiest Life
 
