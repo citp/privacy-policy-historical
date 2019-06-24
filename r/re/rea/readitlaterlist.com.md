@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the readitlaterlist.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226235503id_/https%3A//getpocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readitlaterlist.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624220056id_/https%3A//getpocket.com/privacy) for the most accurate reproduction.*
 
 # Pocket: Privacy Policy
 
-#### _Posted May 23, 2018_
+#### _Posted March 18, 2019_
 
 This notice describes the Privacy Policy that applies to all information collected or submitted when you install or use the Pocket™ application or any of the other proprietary software applications or services we provide, and when you visit our website (all of which are referred to collectively herein as the "Pocket Technologies"). The Pocket Technologies are owned and operated by Read It Later, Inc. (referred to herein as "we," "us," "our," "Read It Later" or "Pocket"), which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers. 
 
@@ -52,7 +52,7 @@ If you choose to, you may connect your Pocket account to third-party application
 
 Working with third parties
 
-We may work with trusted third parties, including internal service providers and the Mozilla Corporation, Read It Later's parent company, to facilitate one or more aspects of the products and services that we provide to you and to conduct research related to Internet usage, and we may provide some of your personal information directly to these third parties. For example, as discussed above, we may use a third party payment processor to process payments for our paid subscription service. We may also share your device ID in working with third parties who assist us in delivering advertisements to you. These parties are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide to them for any other purpose other than those discussed above, unless you have explicitly agreed or given your prior permission to them for additional uses. 
+We may work with trusted third parties, including internal service providers and the Mozilla Corporation, Read It Later's parent company, to facilitate one or more aspects of the products and services that we provide to you and to conduct research related to Internet usage, and we may provide some of your personal information directly to these third parties. For example, as discussed above, we may use a third party payment processor to process payments for our paid subscription service. We may also share your device ID in working with third parties who assist us in delivering advertisements to you. These parties are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide to them for any other purpose other than those discussed above, unless you have explicitly agreed or given your prior permission to them for additional uses. If you use the "Listen" feature, we may share the content of the article with a third party service in order to read the article aloud. 
 
 Sharing as required by law or asset sale
 
