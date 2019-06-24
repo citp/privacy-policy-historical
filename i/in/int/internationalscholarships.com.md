@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalscholarships.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101143637id_/https%3A//www.internationalscholarships.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalscholarships.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624102723id_/https%3A//www.internationalscholarships.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -93,7 +93,7 @@ Envisage International Corporation
 Neptune Beach, FL. 32265 USA   
 Phone: [904-247-1387](tel:19042471387)   
 Email: [privacy@envisageinternational.com](mailto:privacy@envisageinternational.com)   
-Website: [www.envisageinternational.com __](https://web.archive.org/web/20181101143637id_/https%3A//www.internationalscholarships.com/www.envisageinternational.com)
+Website: [www.envisageinternational.com __](https://www.envisageinternational.com/)
 
 ## 5\. Cookies
 
@@ -261,21 +261,13 @@ Where the processing of personal data is based on Article 6(1) lit. f GDPR our l
 
 The criteria used to determine the period of storage of personal data is the respective statutory retention period. After expiration of that period, the corresponding data is routinely deleted, as long as it is no longer necessary for the fulfillment of the contract or the initiation of a contract. 
 
-##  18\. Provision of personal data as statutory or contractual requirement; Requirement necessary to enter into a contract; Obligation of the data subject to provide the personal data; possible consequences of failure to provide such data 
-
-We clarify that the provision of personal data is partly required by law (e.g. tax regulations) or can also result from contractual provisions (e.g. information on the contractual partner).
-
-Sometimes it may be necessary to conclude a contract that the data subject provides us with personal data, which must subsequently be processed by us. The data subject is, for example, obliged to provide us with personal data when our company signs a contract with him or her. 
-
-The non-provision of the personal data would have the consequence that the contract with the data subject could not be concluded. Before personal data is provided by the data subject, the data subject must contact any employee. The employee clarifies to the data subject whether the provision of the personal data is required by law or contract or is necessary for the conclusion of the contract, whether there is an obligation to provide the personal data and the consequences of non-provision of the personal data. 
-
-## 19\. Changes to this Policy
+## 18\. Changes to this Policy
 
 We may need to modify this privacy policy from time to time to reflect our current privacy practices, so please check back to view any changes. When you register or submit your email address on any EIC site, you acknowledge receipt of this privacy policy and agree to receive future notices about it online. We make this policy continuously available online. We will inform you of material modifications to this policy in the future by posting changes on the EIC sites and/or sending you email where appropriate. 
 
-## 20\. Data Privacy and Protection Provisions From Web Service Companies Like Google and Facebook
+## 19\. Data Privacy and Protection Provisions From Web Service Companies Like Google and Facebook
 
-EIC uses generally-available third party services on its websites, like Google Analytics, AdSense, AdWords, Google+ and Google Remarketing. EIC also includes links or integrates with Facebook, Instagram, LinkedIn and other social media platforms, as well as other web services companies like SalesForce, YesMail and others. Each of these third parties has its own data protection and privacy provisions, and detailed descriptions of each third-party, the service they provide and links to their data privacy and protection provisions are available on [this page](https://web.archive.org/web/20181101143637id_/https%3A//www.internationalscholarships.com/privacy-policy?tab=third-party-data). 
+EIC uses generally-available third party services on its websites, like Google Analytics, AdSense, AdWords, and Google Remarketing. EIC also includes links or integrates with Facebook, Instagram, LinkedIn and other social media platforms, as well as other web services companies like SalesForce, YesMail and others. Each of these third parties has its own data protection and privacy provisions, and detailed descriptions of each third-party, the service they provide and links to their data privacy and protection provisions are available on [this page](https://web.archive.org/web/20190624102723id_/https%3A//www.internationalscholarships.com/privacy-policy?tab=third-party-data). 
 
 ## 1\. Data protection provisions about the application and use of Facebook
 
@@ -347,27 +339,7 @@ In addition, the data subject has the possibility of objecting to the interest-b
 
 Further information and the actual data protection provisions of Google may be retrieved under [https://www.google.com/intl/en/policies/privacy/ __](https://www.google.com/intl/en/policies/privacy/).
 
-## 5\. Data protection provisions about the application and use of Google+
-
-On this website, the controller has integrated the Google+ button as a component. Google+ is a so-called social network. A social network is a social meeting place on the Internet, an online community, which usually allows users to communicate with each other and interact in a virtual space. A social network may serve as a platform for the exchange of opinions and experiences, or enable the Internet community to provide personal or business-related information. Google+ allows users of the social network to include the creation of private profiles, upload photos and network through friend requests. 
-
-The operating company of Google+ is Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, UNITED STATES.
-
-With each call-up to one of the individual pages of this website, which is operated by the controller and on which a Google+ button has been integrated, the Internet browser on the information technology system of the data subject automatically downloads a display of the corresponding Google+ button of Google through the respective Google+ button component. 
-
-During the course of this technical procedure, Google is made aware of what specific sub-page of our website was visited by the data subject. More detailed information about Google+ is available under [https://developers.google.com/+/ __](https://developers.google.com/+/).
-
-If the data subject is logged in at the same time to Google+, Google recognizes with each call-up to our website by the data subject and for the entire duration of his or her stay on our Internet site, which specific sub-pages of our Internet page were visited by the data subject. This information is collected through the Google+ button and Google matches this with the respective Google+ account associated with the data subject. 
-
-If the data subject clicks on the Google+ button integrated on our website and thus gives a Google+ 1 recommendation, then Google assigns this information to the personal Google+ user account of the data subject and stores the personal data. Google stores the Google+ 1 recommendation of the data subject, making it publicly available in accordance with the terms and conditions accepted by the data subject in this regard. Subsequently, a Google+ 1 recommendation given by the data subject on this website together with other personal data, such as the Google+ account name used by the data subject and the stored photo, is stored and processed on other Google services, such as search-engine results of the Google search engine, the Google account of the data subject or in other places, e.g. on Internet pages, or in relation to advertisements. Google is also able to link the visit to this website with other personal data stored on Google. Google further records this personal information with the purpose of improving or optimizing the various Google services. 
-
-Through the Google+ button, Google receives information that the data subject visited our website, if the data subject at the time of the call-up to our website is logged in to Google+. This occurs regardless of whether the data subject clicks or doesnâ€™t click on the Google+ button. 
-
-If the data subject does not wish to transmit personal data to Google, he or she may prevent such transmission by logging out of his Google+ account before calling up our website.
-
-Further information and the data protection provisions of Google may be retrieved under [https://www.google.com/intl/en/policies/privacy/ __](https://www.google.com/intl/en/policies/privacy/). More references from Google about the Google+ 1 button may be obtained under[https://developers.google.com/+/web/buttons-policy __](https://developers.google.com/+/web/buttons-policy).
-
-## 6\. Data protection provisions about the application and use of Google-AdWords
+## 5\. Data protection provisions about the application and use of Google-AdWords
 
 On this website, the controller has integrated Google AdWords. Google AdWords is a service for Internet advertising that allows the advertiser to place ads in Google search engine results and the Google advertising network. Google AdWords allows an advertiser to pre-define specific keywords with the help of which an ad on Google's search results only then displayed, when the user utilizes the search engine to retrieve a keyword-relevant search result. In the Google Advertising Network, the ads are distributed on relevant web pages using an automatic algorithm, taking into account the previously defined keywords. 
 
@@ -387,7 +359,7 @@ The data subject has a possibility of objecting to the interest based advertisem
 
 Further information and the applicable data protection provisions of Google may be retrieved under [https://www.google.com/intl/en/policies/privacy/ __](https://www.google.com/intl/en/policies/privacy/).
 
-## 7\. Data protection provisions about the application and use of LinkedIn
+## 6\. Data protection provisions about the application and use of LinkedIn
 
 The controller has integrated components of the LinkedIn Corporation on this website. LinkedIn is a web-based social network that enables users with existing business contacts to connect and to make new business contacts. Over 400 million registered people in more than 200 countries use LinkedIn. Thus, LinkedIn is currently the largest platform for business contacts and one of the most visited websites in the world. 
 
@@ -401,7 +373,7 @@ LinkedIn receives information via the LinkedIn component that the data subject h
 
 LinkedIn provides under [https://www.linkedin.com/psettings/guest-controls __](https://www.linkedin.com/psettings/guest-controls)the possibility to unsubscribe from email messages, SMS messages and targeted ads, as well as the ability to manage ad settings. LinkedIn also uses affiliates such as Eire, Google Analytics, BlueKai, DoubleClick, Nielsen, Comscore, Eloqua, and Lotame. The setting of such cookies may be denied under[https://www.linkedin.com/legal/cookie-policy __](https://www.linkedin.com/legal/cookie-policy). The applicable privacy policy for LinkedIn is available under[https://www.linkedin.com/legal/privacy-policy __](https://www.linkedin.com/legal/privacy-policy). The LinkedIn Cookie Policy is available under[https://www.linkedin.com/legal/cookie-policy __](https://www.linkedin.com/legal/cookie-policy).
 
-## 8\. Data protection provisions about the application and use of Twitter
+## 7\. Data protection provisions about the application and use of Twitter
 
 On this website, the controller has integrated components of Twitter. Twitter is a multilingual, publicly-accessible microblogging service on which users may publish and spread so-called “tweets”, e.g. short messages, which are limited to 280 characters. These short messages are available for everyone, including those who are not logged on to Twitter. The tweets are also displayed to so-called followers of the respective user. Followers are other Twitter users who follow a user's tweets. Furthermore, Twitter allows you to address a wide audience via hashtags, links or retweets. 
 
@@ -415,7 +387,7 @@ Twitter receives information via the Twitter component that the data subject has
 
 The applicable data protection provisions of Twitter may be accessed under [https://twitter.com/privacy?lang=en __](https://twitter.com/privacy?lang=en).
 
-## 9\. Data protection provisions about the application and use of YouTube
+## 8\. Data protection provisions about the application and use of YouTube
 
 On this website, the controller has integrated components of YouTube. YouTube is an Internet video portal that enables video publishers to set video clips and other users free of charge, which also provides free viewing, review and commenting on them. YouTube allows you to publish all kinds of videos, so you can access both full movies and TV broadcasts, as well as music videos, trailers, and videos made by users via the Internet portal. 
 
@@ -429,7 +401,7 @@ YouTube and Google will receive information through the YouTube component that t
 
 YouTube's data protection provisions, available at [https://www.google.com/intl/en/policies/privacy/ __](https://www.google.com/intl/en/policies/privacy/), provides information about the collection, processing and use of personal data by YouTube and Google.
 
-## 10\. Data protection provisions about the application and use of AddThis
+## 9\. Data protection provisions about the application and use of AddThis
 
 On this website, the controller has integrated components of AddThis, a utility to add share and follow buttons to website pages.
 
@@ -439,31 +411,31 @@ AddThis receives anonymous data related to the devices of the visitors but visit
 
 AddThis’ data protection and privacy policy available at [http://www.addthis.com/privacy __](http://www.addthis.com/privacy)
 
-## 11\. Data protection provisions about the application and use of Instagram
+## 10\. Data protection provisions about the application and use of Instagram
 
 On this website the controller has implemented code to retrieve photos from the social media site, Instagram. They will receive information about the photos you’ve viewed, plus data for their analytics and log files. 
 
 Details about the data they collect and the Instagram data protection and privacy policy information can be found at [https://help.instagram.com/155833707900388 __](https://help.instagram.com/155833707900388)
 
-## 12\. Data protection provisions about the application and use of Flickr
+## 11\. Data protection provisions about the application and use of Flickr
 
 On this website the controller has implemented code to retrieve photos from the social media site, Instagram. They will receive information about the photos you’ve viewed, plus data for their analytics and log files. 
 
 Details about the data they collect and the Flickr data protection and privacy policy information can be found at: [https://policies.oath.com/us/en/oath/privacy/products/flickr/index.html __](https://policies.oath.com/us/en/oath/privacy/products/flickr/index.html)
 
-## 13\. Data protection provisions about the application and use of PayEezy
+## 12\. Data protection provisions about the application and use of PayEezy
 
 On this website the controller has implemented code to code to process credit card transactions and collects information required to process and complete those transactions. 
 
 Details about the data they collect and the PayEezy data protection and privacy policy information can be found at: [https://developer.payeezy.com/privacy-policy __](https://developer.payeezy.com/privacy-policy)
 
-## 14\. Data protection provisions about the application and use of Desk.com
+## 13\. Data protection provisions about the application and use of Desk.com
 
 On this website the controller has implemented code to implement Desk.com as the Customer Relationship Management software. They will receive and store emails that you send to our customer service department for the purpose of answering inquiries and delivering comprehensive customer support. 
 
 Details about the data they collect and the Desk.com data protection and privacy policy information can be found at: [https://www.salesforce.com/company/privacy/ __](https://www.salesforce.com/company/privacy/)
 
-## 15\. Data protection provisions about the application and use of SendGrid
+## 14\. Data protection provisions about the application and use of SendGrid
 
 On this website the controller has implemented code to send emails via the SendGrid mail service. They will receive information about the emails you’ve received, opened, and clicked, plus data for their analytics and log files. 
 
