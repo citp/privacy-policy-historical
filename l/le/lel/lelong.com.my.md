@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lelong.com.my privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217133753id_/https%3A//www.lelong.com.my/content/help/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lelong.com.my privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624061851id_/https%3A//www.lelong.com.my/content/help/PrivacyPolicy) for the most accurate reproduction.*
 
 # Lelong.my Malaysia | Privacy Policy
 
