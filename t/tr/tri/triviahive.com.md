@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the triviahive.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508025221id_/http%3A//triviahive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triviahive.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624224208id_/https%3A//triviahive.com/privacy) for the most accurate reproduction.*
 
 # TriviaHive | Privacy Policy
 
-#### Updated December 27, 2016
+#### Updated April 25, 2019
 
 TriviaHive.com ("TriviaHive") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact TriviaHive at 14252 Culver Drive, Suite A197, Irvine, CA 92604 or via our [contact form](https://web.archive.org/contact).
 
@@ -18,21 +18,21 @@ TriviaHive may collect or receive information about you when you register or sub
 
 #### Use of Information
 
-TriviaHive, or companies we partner with, may contact you based on your interests such as job postings and career development opportunities. TriviaHive's site may require you to provide TriviaHive with contact information (such as your name and email address) and demographic information. TriviaHive may use your contact information to (a) send you job alerts;(b) create an account;or (c) send you information about TriviaHive and promotional material from some of TriviaHive's partners. Your contact information is also used to contact you when necessary. TriviaHive may use demographic and/or profile data, including but not limited to search history, to tailor your experience on TriviaHive's site, show you content that TriviaHive thinks you may be interested in, and display content according to your preferences.
+TriviaHive, or companies we partner with, may contact you based on your interests such as job postings and career development opportunities. TriviaHive's site may require you to provide TriviaHive with contact information (such as your name and email address) and demographic information. TriviaHive may use your contact information to (a) send you job alerts;(b) create an account;or (c) send you information about TriviaHive and promotional material from some of TriviaHive's partners. Your email will only be shared with our preferred mailing partner for the purpose of sending third-party promotional email campaigns. Your contact information is also used to contact you when necessary. TriviaHive may use demographic and/or profile data, including but not limited to search history, to tailor your experience on TriviaHive's site, show you content that TriviaHive thinks you may be interested in, and display content according to your preferences.
 
 To the extent you upload a resume, TriviaHive may make the resume and other personal information contained therein available to third parties, including but not limited to employers and search engines. This means that the personal information contained in your resume can be viewed by third parties and you may receive unsolicited contact from third parties unaffiliated with TriviaHive. TriviaHive will make reasonable effort to safeguard the use of your personal information by third parties in accordance with this Privacy Policy. TriviaHive reserves the right to disclose any information as required by law.
 
-We may use other companies as necessary to perform services necessary to our operations. In the course of providing these services, those companies may have access to your personal information in accordance with this Privacy Policy. Every effort will be made to safeguard your privacy when it may be accessed by other companies, including but not limited to technology providers;however, TriviaHive will not be liable for any damages that may result from the misuse of your personal information by these companies.
+We may use other companies as necessary to perform services necessary to our operations. In the course of providing these services, those companies may have access to your personal information in accordance with this Privacy Policy. Every effort will be made to safeguard your privacy when it may be accessed by other companies, including but not limited to technology providers; however, TriviaHive will not be liable for any damages that may result from the misuse of your personal information by these companies.
 
 TriviaHive may use your IP address to administer our site. Your IP address may also be used to help identify you, your location, and to gather broad demographic information. Nothing shall restrict TriviaHive from maintaining your data following your termination of your use of TriviaHive's site. TriviaHive may delete your user data at TriviaHive's sole discretion.
 
 #### Facebook Information Collection and Use
 
-Through our use of Facebook products and services, including but not limited to Facebook Connect and Facebook Platform, we may receive personally identifiable information about you and your friends who are registered on Facebook ("Friend"). We may use this information to customize and improve the services that we provide to you. By visiting TriviaHive, information that we receive from Facebook about you and your Friends may appear on our site. In addition, if a user visits our site and you are listed as a Friend of that user on Facebook, your information may also appear on our site. You can learn more here.
+Through our use of Facebook products and services, including but not limited to Facebook Connect and Facebook Platform, we may receive personally identifiable information about you and your friends who are registered on Facebook ("Friend"). We may use this information to customize and improve the services that we provide to you. By visiting TriviaHive, information that we receive from Facebook about you and your Friends may appear on our site. In addition, if a user visits our site and you are listed as a Friend of that user on Facebook, your information may also appear on our site.
 
 #### Email Communications
 
-TriviaHive respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, TriviaHive may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. If you do not want to receive particular types of email messages from TriviaHive, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or [click here](https://web.archive.org/unsubscribe).
+TriviaHive respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, TriviaHive may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. If you do not want to receive particular types of email messages from TriviaHive, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or [click here](https://web.archive.org/contact).
 
 #### Children's Privacy
 
@@ -46,7 +46,7 @@ Never provide your social security number, credit card information, bank account
 
 #### Cookies
 
-Cookies are small pieces of information that are stored by your browser on your computers hard drive. TriviaHive may use cookies to keep track of your session and advertising delivery. TriviaHive or our partners may also use cookies to deliver content specific to your interests and to save a password associated with a user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you on others websites. You can learn more [here](http://www.google.com/privacy/ads/). You can opt-out of this type of advertising [here](http://www.aboutads.info/).
+Cookies are small pieces of information that are stored by your browser on your computer's hard drive. TriviaHive may use cookies to keep track of your session and advertising delivery. TriviaHive or our partners may also use cookies to deliver content specific to your interests and to save a password associated with a user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites and directly in emails/communications in order to provide advertisements about goods and services of interest to you on others websites. Our partners may also link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, hashed version of your email address, browser or operating system type and version, and demographic or inferred-interest information. You can learn more [here](http://www.google.com/privacy/ads/). You can opt-out of this type of advertising [here](http://www.aboutads.info/).
 
 #### Links to Third Party Sites
 
@@ -64,10 +64,9 @@ If you have questions about this Privacy Policy, you can [contact us.](https://w
 
 #### Ad Preferences
 
-If you would like to read more about your ad preferences, please [click here](http://dyn.adki.com/preferences.php?p=5060&e=&r=0).
+If you would like to read more about your ad preferences, please [click here](https://youradchoices.com/).
 
 #### Contact Information
 
-14252 Culver Drive, Suite   
-A197   
+14252 Culver Drive, Suite A197   
 Irvine, CA 92604 
