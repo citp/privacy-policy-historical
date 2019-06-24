@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplusmath.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231203705id_/https%3A//www.varsitytutors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplusmath.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624121344id_/https%3A//www.varsitytutors.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
