@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the projectswole.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604133620id_/http%3A//www.projectswole.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectswole.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624232152id_/https%3A//www.projectswole.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Project Swole
+# Privacy Policy Project Swole
 
 ProjectSwole.com (“Project Swole”) recognizes that its visitors, members, users, and others who use the website at www.ProjectSwole.com (the “Project Swole website”), (collectively or individually you, your, “Users”) value their privacy. This Privacy Notice provides important information about the use and disclosure of User information collected on the Project Swole website. Project Swole provides this Privacy Notice to help you understand what information Project Swole collects and how that information will be used.
 
@@ -68,4 +68,4 @@ The Project Swole website is hosted in the United States and is intended for and
 
 This Privacy Notice may be revised from time to time and this will be reflected by the “effective date” below. Please revisit this page to stay aware of any changes. In general, we use your personal information only in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Project Swole website constitutes your agreement to this Privacy Notice and any future revisions.
 
-Date Last Modified: November 12, 2008. 
+Date Last Modified: November 12, 2008.
