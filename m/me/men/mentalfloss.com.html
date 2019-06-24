@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mentalfloss.com privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226153920id_/http%3A//mentalfloss.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mentalfloss.com privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624201723id_/http%3A//mentalfloss.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en" dir="ltr" class=" js "><head>
 	<title> Privacy Policy | Mental Floss</title>
@@ -7,14 +7,14 @@
 	<link href="http://mentalfloss.com/rss.xml" type="application/rss+xml" rel="alternate" title="mentalfloss.com">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-	<meta name="description" content="Test your knowledge with amazing and interesting facts, trivia, quizzes, and brain teaser games on MentalFloss.com.">
-	<meta name="copyright" content="Dennis Publishing Limited, licensed by Felden">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 			 
 
 
     <link rel="canonical" href="http://mentalfloss.com/privacy-policy">
     <meta name="keywords" content="mental_floss magazine, mental floss, fun, trivia, quizzes">
+    <meta name="description" content="Test your knowledge with amazing and interesting facts, trivia, quizzes, and brain teaser games on MentalFloss.com.">
+    <meta name="ir-site-verification-token" value="-2106322133">
     <meta property="og:url" content="http://mentalfloss.com/privacy-policy">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Mental Floss">
@@ -42,16 +42,17 @@
 			<script async="" type="text/javascript" src="https://web.archive.org/web/20170401035331/http://www.googletagservices.com/tag/js/gpt.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.7"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MKC6P8R"></script><script async="" src="https://a.quora.com/qevents.js"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20171002075437/http://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
 		<script src="//code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 		<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-		<script async="" src="//js-sec.indexww.com/ht/p/184533-5935574030171.js"></script>
-        		
+		
+		
 
 
 		<script type="text/javascript" src="//www.zergnet.com/zerg-inf-multi.js"></script>
 		<script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
 		<script>
+			var disableAds = false;
 			!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function()
 			{q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore( A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
-			apstag.init({ pubID: '3566',
+			apstag.init({ pubID: '3777',
 				adServer: 'googletag' });
 		</script>
 		<script>
@@ -98,6 +99,8 @@
 
   
 <script>
+    var uid = jQuery.cookie('mmUid') || Math.floor(Math.random() * 100);
+    jQuery.cookie('mmUid', uid, { 'expires': 365 });
     var dataLayer = dataLayer || [];
     var sponsored = "";
     dataLayer.push({
@@ -109,7 +112,8 @@
         'newCookieConsent':"0",
         'anonimized': "0",
         'cookieConsentStatus': "0",
-        'behaviorLabels': ""
+        'behaviorLabels': "",
+        'mmUserIdentifier': uid
     });
 </script>
 
@@ -160,39 +164,60 @@
 
 
 
-	<!-- begin consent tag -->
-	<!--
-    your client engineer will help you construct this config file
-    Conversant will host it for you
-    -->
-	<script src="https://cdn.conversant.mgr.consensu.org/gdpr/cmp/config/m/e/mentalfloss.com/config.js"></script>
 	<script>
-		// optional language override
-		//window.gdprConsentManager.lang = window.navigator.userLanguage || window.navigator.language;
-		//use callback functions to create TMS trigger
-		jQuery(function() {
-			window.cmpConfig.callbacks.onGDPRComplete = function () {
-				MentalFloss.pushUAEvent('GDPR events', 'onGDPRComplete', 'The GDPR consent capture is complete');
-			}
-			window.cmpConfig.callbacks.onConsentAll = function(){
-				MentalFloss.pushUAEvent('GDPR events', 'onGDPRConsentAll', 'A user has consented to all vendors');
-			}
-			window.cmpConfig.callbacks.onNoConsentAll  = function(){
-				MentalFloss.pushUAEvent('GDPR events', 'onGDPRNoConsentAll', 'A user does not consent to any vendors');
-			}
-			window.cmpConfig.callbacks.onConsentSome   = function(){
-				MentalFloss.pushUAEvent('GDPR events', 'onGDPRConsentSome', 'A user consents to some, but not all vendors');
-			}
-			window.cmpConfig.callbacks.onCMPDismiss = function () {
-				MentalFloss.pushUAEvent('GDPR events', 'onGDPRDismiss', 'The Consent Tool is closed');
-			}
-			//jQuery( window ).focusout();
-		});
+function getConsent() {
+    let consent = localStorage.getItem('consentData');
+    let isGdpr = localStorage.getItem('gdprApplies');
+    return { 'gdpr': isGdpr, 'gdpr_consent': consent };
+}
 
-	</script>
-	<!-- begin consent code, hosted on Conversant's CDN -->
-	<script src="https://secure-cdn.mplxtms.com/gdpr/cmp/gdpr-cmp-bootstrap.js"></script>
-	<!-- end consent tag -->
+function getConsentEncoded() {
+    let consent = getConsent();
+    let str = '';
+    for(name in consent) { str += `&${name}=${consent[name]}` }
+    return encodeURIComponent(str);
+}
+
+</script>
+
+<!-- begin consent tag -->
+<!--
+your client engineer will help you construct this config file
+Conversant will host it for you
+-->
+<script src="https://cdn.conversant.mgr.consensu.org/gdpr/cmp/config/m/e/mentalfloss.com/config.js"></script>
+<script>
+    // optional language override
+    //window.gdprConsentManager.lang = window.navigator.userLanguage || window.navigator.language;
+    //use callback functions to create TMS trigger
+    jQuery(function() {
+        window.cmpConfig.callbacks.onGDPRComplete = function () {
+            MentalFloss.pushUAEvent('GDPR events', 'onGDPRComplete', 'The GDPR consent capture is complete');
+        }
+        window.cmpConfig.callbacks.onConsentAll = function(){
+            MentalFloss.pushUAEvent('GDPR events', 'onGDPRConsentAll', 'A user has consented to all vendors');
+        }
+        window.cmpConfig.callbacks.onNoConsentAll  = function(){
+            MentalFloss.pushUAEvent('GDPR events', 'onGDPRNoConsentAll', 'A user does not consent to any vendors');
+        }
+        window.cmpConfig.callbacks.onConsentSome   = function(){
+            MentalFloss.pushUAEvent('GDPR events', 'onGDPRConsentSome', 'A user consents to some, but not all vendors');
+        }
+        window.cmpConfig.callbacks.onCMPDismiss = function () {
+            MentalFloss.pushUAEvent('GDPR events', 'onGDPRDismiss', 'The Consent Tool is closed');
+        }
+        //jQuery( window ).focusout();
+
+        window.__cmp('getConsentData', null, function(result) {
+            localStorage.setItem('gdprApplies', result.gdprApplies ? '1' : '0')
+            localStorage.setItem('consentData', result.consentData)
+        });
+    });
+
+</script>
+<!-- begin consent code, hosted on Conversant's CDN -->
+<script src="https://secure-cdn.mplxtms.com/gdpr/cmp/gdpr-cmp-bootstrap.js"></script>
+<!-- end consent tag -->
 
 
 <script>
@@ -234,7 +259,10 @@
         <h2 class="menu-list-title">COLLECTIONS</h2>
         <div class="menu-list-toggle show-for-small-only"></div>
         <ul class="menu-list menu-list-collections">
+                            <li class="menu-list-item "><a href="/section/paperpower">Paper Power</a></li>
                             <li class="menu-list-item "><a href="/section/discoverds">Dollars &amp; Sense</a></li>
+                            <li class="menu-list-item "><a href="/section/bookcorner">Book Corner</a></li>
+                            <li class="menu-list-item "><a href="/section/from-our-special-issue">From the Magazine</a></li>
                     </ul>
     </div>
 </div>
@@ -316,7 +344,10 @@
         <h2 class="menu-list-title">COLLECTIONS</h2>
         <div class="menu-list-toggle show-for-small-only"></div>
         <ul class="menu-list menu-list-collections">
+                            <li class="menu-list-item "><a href="/section/paperpower">Paper Power</a></li>
                             <li class="menu-list-item "><a href="/section/discoverds">Dollars &amp; Sense</a></li>
+                            <li class="menu-list-item "><a href="/section/bookcorner">Book Corner</a></li>
+                            <li class="menu-list-item "><a href="/section/from-our-special-issue">From the Magazine</a></li>
                     </ul>
     </div>
 </div>
@@ -671,23 +702,17 @@
 	// AdManager allows for global targeting parameters
 	// that will be applied to all Ads written
 
-
-	jQuery(function(){
+		jQuery(function(){
+		let consent = getConsent();
 		AdManager
 			.setGlobalTarget('dev', '0')
-            .setGlobalTarget('breakpoint', MentalFloss.getCurrentDevice())
-            .setGlobalTarget('roxot-group-id', getRoxotGroupId())
-            .setGlobalTarget('roxot-sector-id', getRoxotSectorId())
-            .setGlobalTarget('roxot-deep', getRoxotDeep())
-            .setGlobalTarget('roxot-event-group-id', getRoxotEvent())
-            .setGlobalTarget('roxot-event', getRoxotEvent())
-            .setGlobalTarget('roxot-event-deep', getRoxotEvent())
-            .setGlobalTarget('roxot-minutes', (new Date).getUTCMinutes().toString())
-            .setGlobalTarget('roxot-hours', (new Date).getUTCHours().toString())
-            .setGlobalTarget('roxot-day', (new Date).getUTCDay().toString())
-			.writeAllAds();
+            .setGlobalTarget('breakpoint', MentalFloss.getCurrentDevice());
+		for(key in consent) {
+			AdManager.setGlobalTarget(key, consent[key]);
+		}
+		AdManager.writeAllAds();
 	});
-</script>
+	</script>
 
 	
 <!--NEW FAB Adblock Check-->
@@ -716,7 +741,9 @@
 <!--End NEW FAB Adblock Check-->
 <script type="text/javascript" src="https://s.skimresources.com/js/124578X1585498.skimlinks.js"></script>
 <script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+
 <script src="https://middycdn-a.akamaihd.net/bootstrap/bootstrap.js" id="browsi-tag" data-pubkey="minutemedia" data-sitekey="mentalfloss" async=""></script>
+<div id="amzn-assoc-ad-0c5dbb37-d5c2-4a45-ad79-249ab42b3334"></div><script async="" src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=0c5dbb37-d5c2-4a45-ad79-249ab42b3334"></script>
 
 
 </body></html>
