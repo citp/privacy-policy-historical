@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 888games.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115102507id_/https%3A//www.888casino.com/security-and-privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 888games.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624050503id_/https%3A//www.888casino.com/security-and-privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Security and Privacy | 888casino™
 
 ## INTRODUCTION
 
-The Company (as defined in the [User Agreement](https://web.archive.org/security-and-privacy/user-agreement/) applicable to you), offers online gambling services (collectively, the “ **Services** ”). The Company forms part of the 888 group of companies (the " **Group** ", " **we** ", " **our** " or " **us** "), which includes the entities specified below under "The Group" Section.
+The Company (as defined in the [User Agreement](https://web.archive.org/security-and-privacy/user-agreement/) applicable to you), offers online gambling services (collectively, the “ **Services** ”). The Company forms part of the 888 group of companies (the " **Group** ", " **we** ", " **our** " or " **us** "), which includes the entities specified below under "THE GROUP" Section.
 
 The Group is deeply committed to safeguard the privacy expectations of its users (“ **User(s)** ”, “ **you** ” or “ **your** ”). Accordingly, we have put in place this Privacy Policy, which outlines our data protection practices, including how we collect, use, disclose and protect your Personal Information, as well as your rights with respect to your Personal Information.
 
@@ -34,20 +34,29 @@ If you are using the sports betting services, your personal information use will
 
 ### THE GROUP
 
-The Group includes the following companies all of which have an address at 601-701 Europort, Gibraltar:
+The Group includes the following companies all of which are registered at Level G (Office 1/4241), Quantum House, 75, Abate Rigord Street, Ta' Xbiex XBX 1120, Malta:
 
-  * Cassava Enterprises (Gibraltar) Limited;
-  * 888 UK Limited;
   * Virtual Digital Services Limited;
   * 888 Ireland Limited;
   * 888 Spain PLC;
   * 888 Denmark Limited;
   * 888 Virtual Marketing Services Italia Limited; and
   * 888 Romania Limited.
+  * 888 Sweden Limited;
+  * 888 Portugal Limited;
 
 
 
-The Group is headquartered in Gibraltar and provides the Services through the following applications and platforms (collectively the “ **Platforms** ”):
+The Group also includes the following companies all of which are registered at 601-701 Europort, Gibraltar:
+
+  * Cassava Enterprises (Gibraltar) Limited; and
+  * 888 UK Limited.;
+
+
+
+The contact details of the different entities are available under the “HOW TO CONTACT US” Section.
+
+The Group provides the Services through the following applications and platforms (collectively the “ **Platforms** ”):
 
   * Internet websites, including this website;
   * Downloadable applications and software ("Software"), such as native applications which are distributed through mobile application stores and PC and Mac desktop software which can be downloaded to your computer;
@@ -147,7 +156,7 @@ We may also share and disclose Personal Information with our Marketing Affiliate
 
 We will use your Personal Information for the purpose of providing you with promotional materials solely where we have a legitimate interest in doing do, or where we have obtained your affirmative consent.
 
-You may at any time decline receiving further marketing offers from us or from Marketing Affiliates by either: following the guidelines available on the marketing communications, (such as selecting the opt-out link inserted in the promotional emails) via “My Account” page on the site or by contacting support (our contact details are available under the "HOW TO CONTACT US?" section). Please note that even if you unsubscribe from our marketing mailing list, we may continue to send you service-related updates and notifications.
+You may at any time decline receiving further marketing offers from us or from Marketing Affiliates by either: following the guidelines available on the marketing communications, (such as selecting the opt-out link inserted in the promotional emails) via “My Account” page on the site or by contacting support (our contact details are available under the "HOW TO CONTACT US?" Section). Please note that even if you unsubscribe from our marketing mailing list, we may continue to send you service-related updates and notifications.
 
 **Please note** : you can control the delivery of certain advertising or social campaigns through the settings offered by the respective third party platforms (e.g. Facebook).
 
@@ -199,7 +208,7 @@ Since we operate globally, it may be necessary for the provision of Services and
 
 We use best efforts to ensure that your Personal Information is protected in accordance with our Privacy Policy, through contractual means (such as by using the standard contractual clauses approved by the European Commission for data transfer, as available [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)) or other means (such as ensuring that the European Commission decisions determined that such jurisdictions offer adequate level of protection, as available [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)).
 
-For more information about the transfer of your personal data outside of the EEA, please contact us (our contact details are available under the "HOW TO CONTACT US?" section).
+For more information about the transfer of your personal data outside of the EEA, please contact us (our contact details are available under the "HOW TO CONTACT US?" Section).
 
 ### THIRD PARTY TRACKING TECHNOLOGIES
 
@@ -272,6 +281,12 @@ Suite 601-701 Europort Avenue, Gibraltar
 If you use one of our betting products while located in Ireland | 888 Ireland Limited | Attn: Data Protection Officer   
 Suite 601-701 Europort Avenue, Gibraltar   
 [support@888.com](mailto:support@888.com)  
+Sweden | 888 Sweden Limited | Attn: Data Protection Officer   
+Suite 601-701 Europort Avenue, Gibraltar   
+[kontakt@888.se](mailto:kontakt@888.se)  
+Portugal | 888 Portugal Limited | Attn: Data Protection Officer   
+Suite 601-701 Europort Avenue, Gibraltar   
+[suporte@888.pt](mailto:suporte@888.pt)  
 Spain | 888 Spain PLC | Attn: Data Protection Officer   
 Suite 601-701 Europort Avenue, Gibraltar   
 [Soporte@888.es](mailto:Soporte@888.es)  
@@ -290,7 +305,7 @@ Suite 601-701 Europort Avenue, Gibraltar
 Romania | 888 Romania Limited | Attn: Data Protection Officer   
 Suite 601-701 Europort Avenue, Gibraltar   
 [Suport@888.ro](mailto:Suport@888.ro)  
-If you play in any European Single Market member states (except where a local license applies, such as in the United Kingdom, or if indicated otherwise in this Section) | Virtual Digital Services Limited | Attn: Data Protection Officer   
+If you play in any European Single Market member states (except where a local license applies, such as Spain, or if indicated otherwise in this Section) or in New Zealand. | Virtual Digital Services Limited | Attn: Data Protection Officer   
 Suite 601-701 Europort Avenue, Gibraltar   
 [support@888.com](mailto:support@888.com)  
 All other jurisdictions | Cassava Enterprises (Gibraltar) Limited | Attn: Data Protection Officer   
@@ -301,4 +316,4 @@ We will make an effort to reply within a reasonable timeframe. Please feel free 
 
 The Privacy Policy has been drafted in the English language. In the event of any discrepancy between the meanings of any translated versions of the Privacy Policy and the English language version, the meaning of the English language version shall prevail, to the extent permissible by domestic law in the jurisdiction you reside in.
 
-Last updated on 2018-10-07 08:45:14 (GMT)
+Last updated on April, 2019
