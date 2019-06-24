@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the ah-me.com privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226033207id_/https%3A//www.ah-me.com/pages/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ah-me.com privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624060526id_/https%3A//www.ah-me.com/pages/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>Ah-me Videos, policy</title><link href="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/style.v1.1.64.min.css" rel="stylesheet" type="text/css">
+		<title>Ah-me Videos, policy</title><link href="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/style.v1.1.81.min.css" rel="stylesheet" type="text/css">
 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.google.com/recaptcha/api.js"></script>
 <script type="text/javascript" src="https://ahmestatic3.fuckandcdn.com/ah-me/ahmestatic/v30/common/js/jquery.1.7.1.min.js"></script>
@@ -49,16 +49,9 @@
     var COOKIE_HISTORY_NAME = 'hst';
     var THUMB_PREVIEW_CDN_URL = 'https://ahmestatic.fuckandcdn.com/ah-me/thumbs/previews/';
 
-    var contentObjectLiker = {
-        VOTE_EXISTS_ERROR: {
-            id: 1,
-            content: 'You already voted'
-        },
-        DATABASE_ERROR: {
-            id: 2,
-            content: 'Sorry, the action couldn\'t be completed'
-        }
-    };
+    var MOVIE_VIEWS_LOG_COOKIE = 'ml';
+    var uid = '';
+    var moviesData = {};
     
     var orientationType = {
         id: 1,
@@ -122,8 +115,23 @@
 </script>
 
 
-<script src="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/js/dictionary.eng.js"></script>
-		<script type="text/javascript" src="https://ahmestatic1.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/guest.v1.1.64.min.js"></script>
+<script>
+    if (typeof DICTIONARY == 'undefined')
+        DICTIONARY = {
+            defaultError: 'Unknown error. Please try again later'
+        };
+
+    var contentObjectLiker = {
+        VOTE_EXISTS_ERROR: {
+            id: 1,
+            content: _('You already voted')
+        },
+        DATABASE_ERROR: {
+            id: 2,
+            content: _("Sorry, the action couldn't be completed")
+        }
+    };
+</script>		<script type="text/javascript" src="https://ahmestatic1.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/guest.v1.1.81.min.js"></script>
 
 <script>
 var ppath       = [];
@@ -163,14 +171,6 @@ var mp          = [];
 
 <script type="text/javascript" src="https://www.ah-me.com/js/fl.js"></script>
 
-<script>
-    window.asgpjscnf = {
-        chrome: {
-            bindTo: [ '.moviec a', '.th2 a', '.piciec a', '.album-content > a' ]
-        }
-    }
-</script>
-<script type="text/javascript" src="//cdn.mn1nm.com/e.js#spot=4172" data-tag="na" data-aab="cool.ah-me.com"></script>
 
 
 
@@ -421,11 +421,11 @@ request us to do so by contacting us at privacy@ah-me.com.<br><br>
 <!-- FOOTER 1ST LINE ENDS -->
 
 
-<script src="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/jcore.v1.1.64.min.js"></script>
+<script src="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/jcore.v1.1.81.min.js"></script>
 <script>
     $.fn.ajaxCallback
-    || document.write('<script src="https://www.ah-me.com/common/ah-me/compiled/jcore.v1.1.64.min.js"><\/script>')
-        && document.write('<link rel="stylesheet" href="https://www.ah-me.com/common/ah-me/compiled/style.v1.1.64.min.css" \/>')
+    || document.write('<script src="https://www.ah-me.com/common/ah-me/compiled/jcore.v1.1.81.min.js"><\/script>')
+        && document.write('<link rel="stylesheet" href="https://www.ah-me.com/common/ah-me/compiled/style.v1.1.81.min.css" \/>')
 </script>
 
 <!-- custom script -->
@@ -442,20 +442,16 @@ request us to do so by contacting us at privacy@ah-me.com.<br><br>
     });
 </script>
 
-<script type="text/javascript">
-var spot = {
-    id: 4172,
-    api_host: 'cool.ah-me.com',
-    shows_limit: 1,
-    refresh_rate: 21600,
-    version: 1,
-    sabel: true
-};
-
-!function(e,t){if(!e.__NA||e.__NA.has_ab){var n=!1,o="asg_mixed_tabs",r=e.self;if(e.top!=e.self)try{e.top.document.location.toString()&&(r=e.top)}catch(e){}var a=function(e){for(var t=document.cookie.split(";"),n=0;n<t.length;n++){for(var o=t[n];" "==o.charAt(0);)o=o.substring(1,o.length);if(0==o.indexOf(e+"="))return o.substring((e+"=").length,o.length)}return null},i=a(o);if(i&&(n=!0),setTimeout(function(){document.cookie=o+"=; expires=-1; path=/"},5e3),!i){var s=function(){for(var e={},t=(a("nasl")||"").split(","),n=0;n<t.length;n++)if(""!=t[n]){var o=t[n].split(":");e[parseInt(o[0])]={before:parseInt(o[1]),shows:parseInt(o[2])}}return e}(),f=Math.floor(Date.now()/1e3);for(var c in s)s.hasOwnProperty(c)&&s[c].before<f&&delete s[c];if(!(s[t.id]&&s[t.id].shows<=0)){var l,h,u,d,p=function(t,n){var r,a;r={data:{mixedTab:!0},title:document.title,url:e.location.href},(a=new Date).setTime(a.getTime()+6e4),document.cookie=o+"=true; expires="+a.toGMTString()+"; path=/",document.cookie=o+"_state="+JSON.stringify(r)+"; expires="+a.toGMTString()+"; path=/",e.open(t),e.location.assign(n)},g=function(e){e.preventDefault(),e.stopPropagation()};l=r.document,h=function(o){if(null==e.__NA&&!n){n=!0,t.refresh_rate>0&&(s[t.id]?s[t.id].shows=s[t.id].shows-1:s[t.id]={before:Math.floor(Date.now()/1e3)+t.refresh_rate,shows:t.shows_limit-1});var r=[];for(var a in s)s.hasOwnProperty(a)&&r.push(a+":"+s[a].before+":"+s[a].shows);var i=r.join(",");document.cookie="nasl="+i+"; path=/";var f="host="+e.location.hostname+"&ev="+t.version;0==navigator.cookieEnabled&&(f+="&c=0");var c="//"+t.api_host+"/api/direct/"+t.id+"?"+f;if(link=function(t){var n,o;if((n=function(e,t){if(t=t.toLowerCase(),!e)return null;if(e.tagName&&e.tagName.toLowerCase()==t)return e;for(;e&&e.parentNode;)if((e=e.parentNode).tagName&&e.tagName.toLowerCase()==t)return e;return null}((t=t||e.event).target||t.srcElement,"a"))&&(n.href?"about:blank"==n.href&&(o=!0):o=!0,~n.href.indexOf("javascript:void(0)")?o=!0:~n.href.indexOf([e.location.origin,e.location.pathname,"#"].join(""))&&(o=!0),o&&(n={href:e.location.href}),!n.target))try{n.target=document.head.getElementsByTagName("base")[0].target}catch(t){}return n}(o)){var l=navigator.userAgent.toLowerCase(),h=/chrome/.test(l)||/opr/.test(l);return h||"_blank"!=link.target?h&&t.sabel&&"_blank"==link.target?(g(o),p(document.URL,c)):(g(o),p(link.href,c)):e.open(c),!1}p(document.URL,c)}},u="click",d="onclick",l.addEventListener?l.addEventListener(u,h,!1):l.attachEvent(d||u,h)}}}}(window,spot);
+<script src="/js/script.js"></script>
+<script src="/js/license.14.js"></script>
+<script>
+BetterJsPop
+.add('//cool.ah-me.com/api/direct/4172', {
+cookieExpires: 21600})
+.bindTo(['.moviec a', '.th2 a', '.piciec a', '.album-content > a', 'a.close-invid']);
 </script>
 
-<!--388700-->
+<!--493386-->
 
 
 
