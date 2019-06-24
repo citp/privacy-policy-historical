@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the showmelocal.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227143508id_/http%3A//www.showmelocal.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmelocal.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625003005id_/https%3A//www.showmelocal.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # ShowMeLocal.com - Privacy Policy
 
-##  Collection and Use of Personal Information 
+#### Collection and Use of Personal Information 
 
 We collect the following personal information from you: 
 
@@ -49,7 +49,7 @@ We enable you to create a profile, and share information such as messages, photo
 
 If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. 
 
-##  Disclosure to Third Parties 
+#### Disclosure to Third Parties 
 
 We will share your information with third parties only in the ways that are described in this privacy statement.   
 We may disclose your personal information 
@@ -60,12 +60,12 @@ We may disclose your personal information
 
 We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at support@showmelocal.com. 
 
-## Tracking Technologies 
+#### Tracking Technologies 
 
 We or a third party contracted by us may use technologies such as cookies, Web beacons, or scripts to gather information about how you and others interact with our Web site. For example, we will know how many users access a specific areas or features within our site and which links or ads they clicked on. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.   
 We use Google AdSense to serve ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google's Advertising and Privacy page: http://www.google.com/privacy_ads.html 
 
-## Security
+#### Security
 
 The security of your personal information is important to us. When you provide sensitive information (such as a credit card number) to us, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
@@ -75,7 +75,7 @@ If you have any questions about security on our Web site, you can contact us at 
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@showmelocal.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-## Other Information
+#### Other Information
 
 Our Web site includes third party hosted widgets, which are interactive mini-programs that run on our site to provide single-purpose services (e.g. sharing of articles, videos, etc.). Personal information, like your email address, may be collected and cookies may be set so the widget can work properly. The information through the widget is subject to the widget provider’s privacy policy. 
 
@@ -89,11 +89,11 @@ To review and update your personal information to ensure it is accurate, contact
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-## Cookie Poilicy
+#### Cookie Poilicy
 
-Please review our cooking policy [here](https://web.archive.org/web/20181227143508id_/http%3A//www.showmelocal.com/cookie-policy.aspx). 
+Please review our cooking policy [here](https://web.archive.org/web/20190625003005id_/https%3A//www.showmelocal.com/cookie-policy.aspx). 
 
-## Feedback
+#### Feedback
 
 You can contact us about this privacy statement by writing or email us at the address below:   
 ShowMeLocal Inc.  
@@ -102,4 +102,8 @@ Brooklyn, NY 11235
 United States  
 Email: support@showmelocal.com 
 
-[](http://privacy.truste.com/certified-privacy/ShowMeLocal-Inc./validation?validationId=e840bd46-77d3-4643-ba3e-535aadcb6e47 "ShowMeLocal Inc. Privacy Seal Certification")
+Copyright © 2006-2019 **SHOWMELOCAL Inc.** \- All Rights Reserved. | [Made in NYC](https://nytech.org/made)
+
+SHOWMELOCAL®.com is Your Yellow Pages and Local Business Directory Network
+
+SHOWMELOCAL® is a registered trademark of ShowMeLocal Inc.
