@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the batangamedia.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206162238id_/https%3A//www.vix.com/en/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batangamedia.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624203449id_/https%3A//www.vix.com/en/corp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VIX
 
 VIX is deeply committed to earning your trust and protecting the privacy of Internet users. To better understand VIX’s privacy protocol, VIX provides this notice explaining its online technology and information collection practices when it serves advertisements on its network of web sites.
 
-### **Consumer Information**
+###  **Consumer Information**
 
 VIX uses one or more third party ad serving providers to serve ads at this and at our clients’ sites. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information -not including your name, address, email address or telephone number- about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you.
 
@@ -12,15 +12,15 @@ Advertisers using the VIX may collect personally identifiable information explic
 
 Our properties may feature Nielsen’s proprietary measurement software which will allow to contribute to market research, like Nielsen’s TV Ratings. To learn more about this information, please [click here](http://www.nielsen.com/digitalprivacy). Nielsen’s software may collect your choices with regards to it.
 
-### **Third Party Advertising**
+###  **Third Party Advertising**
 
 We may use other third-party advertising companies to serve ads when you visit our network of web sites. VIX and these companies may use non-personal information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. In addition to using the non-personal information we collect, VIX may use other non-personal information obtained from third-party sources to determine the ad that may be of interest to you.
 
-### **Cookies and Pixel Tags**
+###  **Cookies and Pixel Tags**
 
 Like most Internet sites, VIX and its third party ad serving party uses “cookies” to enhance the Internet user’s experience on the Web. Neither VIX nor such third party ad serving party uses these cookies to personally identify you in any way and these cookies in no way damage your system or files.
 
-### **What are cookies and how do they enhance your Web experience?**
+###  **What are cookies and how do they enhance your Web experience?**
 
 A cookie is a unique number that is assigned to you the first time you are served an ad. This number is stored in a file on your computer. For instance, cookies help ensure that you don’t repeatedly see the same ad. Cookies can also help advertisers measure how you utilize an advertiser’s site and the effectiveness of an ad. This information can then be used by advertisers to better cater to your needs. In other words, cookies help us deliver to you the types of ads in which you are most interested.
 
@@ -28,39 +28,36 @@ In the course of providing online advertising services to websites and advertise
 
 Businesses often use a pixel tag to better understand the traffic patterns of visitors to a website or enable us to target ads to those visitors on other websites. VIX provides services to websites and advertisers and, accordingly, may use pixel tag information for reporting about website traffic or to deliver targeted advertising to your browser. In this case, it will be VIX’s policy to require those websites which use VIX cookies or pixel tags to provide an appropriate notice in their privacy policies explaining our relationship. Although we believe that cookies help enhance your experience on the Web (by not repeatedly serving the same ads to you and delivering more relevant messages to you), neither VIX nor its third party ad serving party needs cookies to deliver ads to you. Web Users have the option of blocking the use of cookies by changing a setting in their browser. Please see your browser supplier’s website for details on how to do this.
 
-### **Information Sharing**
+###  **Information Sharing**
 
 VIX may share only aggregate, non-personal information, such as number of users that clicked on an advertisement, number of times an advertisement was served, and other information that does not identify you individually, with web sites of its network or Advertisers for reporting, statistical and accounting purposes.
 
-### **Sensitive Information**
+###  **Sensitive Information**
 
 VIX does not collect or use sensitive information for purposes of online behavioral advertising – OBA unless we have obtained your prior consent, also known as opt-in. Sensitive Information refers to data related to confidential medical information, health or medical conditions or treatment, financial or insurance account numbers, social security or other Government-issued identifiers. We may enable advertisers to create custom audiences relating to general health topics such as “diet and fitness” or “allergies” using our technologies, but we will not permit advertisers to target users on the basis of precise health conditions or treatments.
 
-### **Data Collection for Online Behavioral Advertising**
+###  **Data Collection for Online Behavioral Advertising**
 
 VIX retains non-personally-identifiable information for online advertising for up to 30 days. After 30 days this data is deleted. Other aggregated data is retained for up to two years for statistical and reporting purposes.
 
-### **Opting out**
+###  **Opting out**
 
 Some of the advertisements and other services that appear on our web site(s) are delivered to you by Internet advertising and data collection companies. These companies utilize certain technologies including cookies to collect anonymous information like page viewed, number of visits, etc. about your visit to our sites and other web sites, in order to deliver advertisements that may be of interest to you. These advertisements are called Interest-Based Advertising (IBA). If you would like to opt out of having this information used by companies that are part of the Network Advertising Initiative, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). If you need more information about Interest-Based Advertising please visit Network Advertising Initiative [http://www.networkadvertising.org](http://www.networkadvertising.org/) or Aboutads [http://www.aboutads.info](http://www.aboutads.info/).
 
-### **Security**
+###  **Security**
 
 VIX is committed to keeping data secure and will take all reasonable physical, electronic and procedural precautions to protect data in our control from unauthorized access, loss, misuse or alteration.
 
-### **Children**
+###  **Children**
 
 VIX does not knowingly collect any Personal Data from children under thirteen years of age. If you are under 13, please do not provide or send any personal information about yourself to us, including your name, address, telephone number, or email address. If you believe that a minor has provided VIX with Personal Data, please contact us. We recommend that minors always ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-### **Effective Date and Changes in Policy**
+###  **Effective Date and Changes in Policy**
 
 This Privacy Policy is effective as of August 1st, 2017. In the event that Vix decides to update this Privacy Policy, it will post the changes at the Web site and at other places it deems appropriate so that you are aware of what information was changed.
 
-### **Contact VIX**
+###  **Contact VIX**
 
 If you should have any questions or concerns regarding this Privacy Policy, please contact us.
 
-**VIX**  
-2121 Ponce de Leon Blvd, Suite 800  
-Coral Gables, FL, 33134  
-[privacy@vix.com](mailto:privacy@vix.com)
+ **VIX** 2121 Ponce de Leon Blvd, Suite 800 Coral Gables, FL, 33134privacy@vix.com
