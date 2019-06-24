@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the golfian.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223064551id_/http%3A//www.golfian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfian.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624172222id_/http%3A//www.golfian.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Golfian.com
-
-## Privacy Policy
+# Privacy Policy | Golfian.com
 
 The following Privacy Statement discloses the information gathering and dissemination practices for Golfian.com.com
 
