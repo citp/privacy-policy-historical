@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adfonic.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306061744id_/http%3A//adfonic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfonic.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624170415id_/http%3A//adfonic.com/privacy-policy) for the most accurate reproduction.*
 
-# | Adfonic
+# Adfonic
 
 This Privacy Policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by Adfonic Limited. If you have any requests concerning your personal information or any queries with regard to these practices please contact us at  **privacy[at]adfonic[dot]com**.
 
@@ -56,7 +56,7 @@ Most browsers allow you to turn off cookies. If you want to know how to do this 
 
 We will only disclose personal information to other companies within our group of companies, business partners, government bodies and law enforcement agencies successors in title to our business and suppliers we engage to process data on our behalf.
 
-If you are a Publisher, we may include your business’ name in our marketing materials, unless you request otherwise in writing.
+If you are a Publisher, we may include your business' name in our marketing materials, unless you request otherwise in writing.
 
 ## Other web sites
 
