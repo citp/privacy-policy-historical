@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wallstcheatsheet.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122194225id_/https%3A//www.cheatsheet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstcheatsheet.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624045843id_/https%3A//www.cheatsheet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Cheat Sheet respects the privacy of our Readers. Ensuring that you understand what personal information is gathered and how it is used is of paramount importance to us.
+Showbiz Cheat Sheet respects the privacy of our Readers. Ensuring that you understand what personal information is gathered and how it is used is of paramount importance to us.
 
-This Privacy Policy outlines what personal information The Cheat Sheet (“TCS”) gathers, who within the company has access to that information, how we store it, and also explains the handling of any personal information shared with third parties who process your data on our behalf while serving ads to you, or as we gather site analytics to improve your experience with us.
+This Privacy Policy outlines what personal information Showbiz Cheat Sheet (“SCS”) gathers, who within the company has access to that information, how we store it, and also explains the handling of any personal information shared with third parties who process your data on our behalf while serving ads to you, or as we gather site analytics to improve your experience with us.
 
 **What information do we collect?**
 
@@ -14,7 +14,7 @@ When registering for our newsletters you will be asked to enter your name and em
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include clear unsubscribe instructions at the bottom of each email.
 
-In order to customize your experience on The Cheat Sheet and tailor the advertisements to your personal interests, we automatically receive data from your browser when you visit our site. This information indirectly identifies you and is not associated with your personal identity as it relates to data storage. The data automatically received through our ad serving system is as follows: your device, web browser, IP address, operating system, and potentially also your geolocation and time zone.
+In order to customize your experience on Showbiz Cheat Sheet and tailor the advertisements to your personal interests, we automatically receive data from your browser when you visit our site. This information indirectly identifies you and is not associated with your personal identity as it relates to data storage. The data automatically received through our ad serving system is as follows: your device, web browser, IP address, operating system, and potentially also your geolocation and time zone.
 
 **What do we use your information for?**
 
@@ -31,7 +31,7 @@ Any of the information we collect from you may be used in one of the following w
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive information is stored in a database, only to be accessible by those TCS employees and third party services authorized with special access rights to such systems, and are required to keep the information secure and confidential.
+We offer the use of a secure server. All supplied sensitive information is stored in a database, only to be accessible by those SCS employees and third party services authorized with special access rights to such systems, and are required to keep the information secure and confidential.
 
 **Do we share your data?**
 
@@ -62,8 +62,8 @@ Third parties may use cookies, web beacons, and similar technologies to collect 
 Please visit the following links for more information and to opt-out:
 
   * [www.aboutads.info/choices](http://www.aboutads.info/choices)
-  * [http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
-  * EAA opt-out: [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+  * <http://www.networkadvertising.org/managing/opt_out.asp>
+  * EAA opt-out: [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
 
 
@@ -79,13 +79,11 @@ By using our site, you consent to our Terms of Service.
 
 If we decide to change our Privacy Policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This Privacy Policy was last modified on 7/17/2018.
+This Privacy Policy was last modified on 5/28/2019.
 
 **Contacting Us**
 
 If there are any questions or concerns regarding this Privacy Policy or our privacy practices you may contact us using the following information:
-
-> [Contact Us](https://www.cheatsheet.com/contact/)
 
 PO Box 8912  
 Asheville, NC 28814  
