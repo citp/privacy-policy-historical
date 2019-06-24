@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendhunter.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106223743id_/https%3A//www.trendhunter.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendhunter.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184748id_/https%3A//www.trendhunter.com/terms) for the most accurate reproduction.*
 
 # Terms of Use - TREND HUNTER Inc.
 
@@ -445,7 +445,7 @@ By continuing to browse the Site, you are agreeing to our use of cookies.
 
 If you don't want us to use cookies when you use the Site, you can set your internet browser not to accept cookies. However, if you block cookies some of the features on the Site may not function as a result. 
 
-You can find more information about how to do manage cookies for all the commonly used internet browsers by visiting [www.allaboutcookies.org](https://web.archive.org/web/20181106223743id_/https%3A//www.trendhunter.com/www.allaboutcookies.org). This website will also explain how you can delete cookies which are already stored on your device.
+You can find more information about how to do manage cookies for all the commonly used internet browsers by visiting [www.allaboutcookies.org](https://web.archive.org/web/20190624184748id_/https%3A//www.trendhunter.com/www.allaboutcookies.org). This website will also explain how you can delete cookies which are already stored on your device.
 
 We currently use the following third party cookies: 
 
