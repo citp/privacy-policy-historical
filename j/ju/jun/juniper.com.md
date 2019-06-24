@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juniper.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214072628id_/https%3A//cards.barclaycardus.com/banking/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juniper.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190505id_/https%3A//cards.barclaycardus.com/banking/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Barclays US
 
@@ -148,4 +148,4 @@ We may change this Online Privacy Policy.  Please take a look at the “ _Last 
 
 If you have any questions about this Online Privacy Policy, please contact us by using the “Contact Us” link below.
 
-[Contact Us](https://cards.barclaycardus.com/contact-branded.html)
+[Contact Us](https://web.archive.org/banking/contact-us/)
