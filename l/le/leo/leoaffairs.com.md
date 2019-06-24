@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the leoaffairs.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213070831id_/https%3A//www.leoaffairs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leoaffairs.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624234950id_/https%3A//www.leoaffairs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **_Introduction_**
 
-This Privacy Policy is located at: [www.LEOAffairs.com](http://www.leoaffairs.com/) (this site), a site brought to you by Bright Mountain®, LLC.
+This Privacy Policy is located at: [www.LEOAffairs.com](https://www.leoaffairs.com/) (this site), a site brought to you by Bright Mountain®, LLC.
 
 Your privacy is very important to this site and Bright Mountain Media, Inc. (Bright Mountain®, us, we, or our as appropriate). Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. Please carefully read this Privacy Policy to gain an understanding of the treatment of your personal information as you make full use of all of the areas at this site.
 
@@ -70,9 +70,9 @@ If we are acquired by or merged with another company, we may transfer informatio
 
 You may edit, change, or correct your information to assure the accuracy of your personal information provided to us by logging into this site using your current user name and password to access your _My Profile_ area. You also can change and/or update your settings by logging into this site using your current user name and password to access your _Settings_ area.
 
-Questions regarding our Privacy Policy, the accuracy of your personal information, or how the collected information is used can be submitted by [**_CLICKING HERE_**](http://www.leoaffairs.com/contact-us/).
+Questions regarding our Privacy Policy, the accuracy of your personal information, or how the collected information is used can be submitted by [**_CLICKING HERE_**](https://www.leoaffairs.com/contact-us/).
 
-This Privacy Policy is effective as of the date of posting to this Website. This Privacy Policy is subject to change at any time; please revisit this page periodically to read the latest Privacy Policy. A link to this Privacy Policy is maintained on _this site_. If you decide to preclude your information from any new and/or different use as disclosed in a revised Privacy Policy, please contact us by [**_CLICKING HERE_**](http://www.leoaffairs.com/contact-us/), or visit the following website to submit an unsubscribe request:[ www.LEOAffairs.com](http://www.leoaffairs.com/contact-us/).
+This Privacy Policy is effective as of the date of posting to this Website. This Privacy Policy is subject to change at any time; please revisit this page periodically to read the latest Privacy Policy. A link to this Privacy Policy is maintained on _this site_. If you decide to preclude your information from any new and/or different use as disclosed in a revised Privacy Policy, please contact us by [**_CLICKING HERE_**](https://www.leoaffairs.com/contact-us/), or visit the following website to submit an unsubscribe request:[ www.LEOAffairs.com](https://www.leoaffairs.com/contact-us/).
 
 We use a secure server to house any user information that we maintain, and employ reasonable security procedures in the protection of the security and integrity of the information. However, due to the nature and the environment of electronic communication and the Internet we cannot make assurances to you regarding the safeguards that we have put into place preventing unauthorized access to, maintain security of, or correct use the data or the information collected. Bear in mind that no data transmitted over the Internet can be guaranteed to be 100% secure. Therefore, while our intention is to protect your personal information, this site cannot and does not guarantee, warrant, or ensure the security of any information that you transmit to or from us online, post on this or any related sites, or provide in registering or making purchases at this site. You transmit any information or data at your own risk.
 
@@ -91,7 +91,7 @@ When we process personal information to pursue these legitimate interests, we do
 
 
 
-To stop receiving e-mail from us: follow the instructions supplied at the bottom of each e-mail, or at the website: [www.LEOAffairs.com](http://www.leoaffairs.com/contact-us/).
+To stop receiving e-mail from us: follow the instructions supplied at the bottom of each e-mail, or at the website: [www.LEOAffairs.com](https://www.leoaffairs.com/contact-us/).
 
 To stop receiving e-mail from any partner, affiliate, or Third Party please contact that partner, affiliate, or Third Party as instructed in their Privacy Policy.
 
@@ -105,7 +105,7 @@ This site is intended to be a general audience website and is not intended for u
 
 
 
-The Terms of Use Agreement of this site governs your use of this website. To see the full Terms of Use Agreement please go to [www.LEOAffairs.com](http://www.leoaffairs.com/message-boards/terms-of-use/).
+The Terms of Use Agreement of this site governs your use of this website. To see the full Terms of Use Agreement please go to [www.LEOAffairs.com](https://www.leoaffairs.com/message-boards/terms-of-use/).
 
   9. **_Advertising:_**
 
