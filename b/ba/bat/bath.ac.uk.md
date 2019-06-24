@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229003603id_/http%3A//www.bath.ac.uk/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624094528id_/http%3A//www.bath.ac.uk/web/privacy) for the most accurate reproduction.*
 
 # Privacy and cookie policy
 
@@ -7,6 +7,7 @@ This policy applies to the following domains:
   * www.bath.ac.uk
   * blogs.bath.ac.uk
   * go.bath.ac.uk
+  * status.bath.ac.uk
 
 
 
