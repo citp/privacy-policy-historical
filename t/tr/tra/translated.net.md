@@ -1,91 +1,162 @@
-> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128213040id_/https%3A//www.translated.net/en/confidentiality) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625014530id_/https%3A//translated.com/confidentiality) for the most accurate reproduction.*
 
 # Translation Service - Confidentiality - Translated
 
-  * Privacy Statement
-  * Automatically Collected Information
-  * Newsletters & emails
-  * Supplier and Collaborator Privacy
-  * Right to Change or Delete Information
-  * Navigation data and cookies
+#### I. Privacy Policy
+
+Translated S.r.l., a company incorporated under Italian law with registered offices on Via Indonesia, No. 23, 00144, Rome, Italy (hereinafter, Translated) — in compliance with the requirements in Regulation (EU) 2016/679 of the European Parliament and Council of April 27, 2016 (General Data Protection Regulation, hereinafter GDPR) and Italian data protection law — respects and protects the privacy of users of the site referred to as the translated.com domain, putting in place every possible and proportionate effort not to harm the rights of its users.
+
+The purpose of this privacy policy is to help users understand the procedures that Translated uses in the area of privacy, including what personal data is collected, why it is collected, how it is used, how it is protected, and which individual rights users possess.
+
+This privacy policy does not apply to, and excludes our responsibility, in terms of privacy, information, or other practices of third parties, including third parties who manage websites or services to which the translated.com site refers.
+
+This privacy policy applies to all personal data that Translated acquires or processes when users interact with the translated.com website. Examples include: purchasing and using our services, responding to marketing communications, and contacting Translated customer service. These interactions may involve visitors, clients, suppliers, and/or partners.
+
+Furthermore, Translated processes personal data in areas other than the translated.com site, which require other privacy policies.
+
+#### II. General Information on Data Processing
+
+In this privacy policy, the term “personal data” signifies information that refers to users. It allows us to identify users, directly or in combination with other information in our possession.
+
+##### Users of the Site in General
+
+Translated processes user data based on consent. By using or consulting Translated's site, users explicitly agree to this privacy policy and consent to the processing of their personal data in relation to the purposes and methods described below, including any disclosure to third parties, if necessary, for the provision of service. The provision of data and, consequently, the consent to the gathering and processing of data is optional. The user can deny consent, and may revoke consent at any time. However, denying consent may make it impossible to provide certain services and the browsing experience on the site may be compromised.
+
+##### Clients
+
+Translated shall do everything possible, consistent with the electronic form of service, to maintain the utmost confidentiality in its performance of services. All texts, the nature of the work performed, the personal data of the client communicated for translation purposes, and any information transmitted by the client to Translated are subject to the strictest confidentiality and the personal data collected shall be processed in accordance with Article 6 of the GDPR.
+
+In particular, Translated shall use the information provided for the execution of the contract (and for the eventual implementation of pre-contractual measures) and such information can not — without the prior written consent of the client — be disclosed publicly or to third parties, except to its authorized employees or their authorized subcontractors, should their operational or advisory intervention require knowledge of such information. The above guarantees do not apply if Translated is obliged by law to disclose such information, or in the event that such information is, or enters, in the public domain regardless of the disclosure of the same by Translated. This similarly applies to cases in which the vital interests of the data subject or of another natural person require the processing of personal data, or where the processing is necessary for the protection of a legitimate interest of Translated or third parties, which is of a higher nature than the rights of the data subject.
+
+##### Suppliers and Collaborators
+
+The personal data of our freelance suppliers and collaborators (suppliers, translators, interpreters, graphic designers, affiliates, consultants, etc.) shall be treated in strict confidence. The only information that shall be communicated to third parties is the information published on our site, such as username, mother tongue, work experience, and studies. Other information such as first name, last name, date of birth, addresses, and telephone numbers shall be processed only by Translated and its authorized suppliers (i.e., accountants, banks, etc.), exclusively for the purpose of the correct execution of the employment relationship with the same and fulfillment of any legal obligations.
+
+#### III. Automatically Collected Information. Web Browsing Data
+
+As with all websites, this site also makes use of log files in which information from user visits is automatically collected and stored. The information collected could include the following:
+
+  * Internet Protocol (IP) Address
+  * Type of browser and device parameters used to connect to the site
+  * Name of the Internet Service Provider (ISP)
+  * Date and time of visit/request
+  * Number of clicks, where applicable
+  * Method used to submit the request to the server
+  * Size of the file obtained in response
+  * Digital code indicating the status of the response given by the server
+  * Other parameters related to the operating system and the user's IT environment
 
 
 
-## Confidentiality of Your Documents
+The information listed above is handled automatically and collected in an exclusively aggregated form in order to verify the correct functioning of the site, and for security reasons. For the purposes of security (spam filters, firewalls, virus detection), automatically registered data may also include personal data such as IP address (the one that uniquely identifies, at least at that time, the host of origin), which could be used — in compliance with the laws in force on the subject — to block attempts to damage the site, harm other users, the carrying out of malicious activities, and activities that constitute a crime. This type of data is used to protect the site and its users.
 
-Translated shall make every effort, in regard to the electronic form of the service, to keep all documents and personal customer information absolutely confidential. 
+The listed data is used for the sole purpose of obtaining anonymous statistical information on the use of the website and to check its correct functioning. Consequently, data is deleted immediately after processing. The data used for security purposes (the blocking of attempts to damage the site) is kept for seven days.
 
-Information relating to the translation, the nature of the translation and any information the Customer transmits to Translated shall be treated with complete confidentiality. Translated shall not publicly divulge in any way this information without previous written authorization from the customer, with the exception of collaborators or subcontractors previously authorized by Translated and the Customer who require such information to perform their jobs. 
+#### IV. Use of Cookies
 
-These guarantees shall not be applicable in the event that Translated is required by law to communicate such information, or in the event that such information becomes public domain, independently of divulgement of such information by Translated. 
+##### Definition of Cookies
 
-## Privacy Statement
+A cookie is a small text file sent to the browser by the visited website and then stored on the hard disk of the user's computer. When you connect to the website again, cookies are read back and recognized by the website that sent them. While visiting a website, you may receive cookies from a third-party website (so-called “third-party cookies”), for example, links to web pages of other domains.
 
-Translated has written this privacy statement to demonstrate its complete respect of your privacy. The text below describes the practices for collecting and distributing information in Translated's possession. This document refers to the following domains: 
+Cookies can be used for different purposes, such as allowing a website to recognize a user's device, or monitoring sessions and storing specific information about users accessing the server.
 
-  * [Translated.net](https://www.translated.net/)
+##### Types of Cookies
 
+Technical Cookies are necessary for a website to function properly and to allow a user to make use of a service.
 
+Functional Cookies are used to facilitate website navigation, to store selected settings, and to provide customized features.
 
-## Automatically Collected Information
+Analytical Cookies are used by websites to collect information on usage habits, visited pages, and any errors that may occur during browsing. These cookies do not collect information that could identify the user's computer. All information collected by these cookies is aggregated and therefore anonymous.
 
-We use your IP address (the one that unequivocally identifies the host at that particular time) and cookies to identify you while you make purchases on our site.  
-Translated uses a form to acquire information related to an order. In addition to the full name of the person placing the order, information for billing and future contacts is also registered. Translated is not given information related to credit cards - they are instead directly managed on Banca Sella's secure credit card processing server. 
+By using the site, the visitor expressly consents to the use of cookies.
 
-## Newsletter & emails
+##### Disabling Cookies
 
-We send you emails for a variety of reasons. These may include confirmations of orders or registrations. Our communication may also include information about our services, provided you have not revoked your consent for such usage, which you can of course do at any time at [www.translated.net](https://www.translated.net/) or by writing to [info@translated.net](mailto:info@translated.net). 
+Cookies are associated with the browser and can be disabled at any time directly from the browser, thereby refusing/withdrawing consent for the use of cookies. It should be noted that disabling cookies may prevent the proper use of some features on the site.
 
-Any emails we send are saved by us and any emails that may be regarded as business letters will not be deleted during the statutory retention period. Furthermore, in the case of our newsletter emails, we record (e.g. by means of a so-called “tracking pixel”) whether an email is opened and which links in the email are clicked on; we do so to optimize our offers and tailor their design to meet your needs. We use this data to enable us to send newsletter contents that matches your profile. 
+Each browser has a different procedure for managing settings. Below are specific instructions for each browser:
 
-If you wish to object to this use of your data, you can do so by unsubscribing to our newsletters. We also use service providers from the USA to send our emails. We make sure that the statutory conditions for the cross-border use of personal details are fulfilled. 
-
-## Supplier and Collaborator Privacy
-
-The personal information of our suppliers and freelance collaborators (suppliers, translators, interpreters, graphic designers, affiliates, consultants etc.) are processed with utmost confidentiality. The only information which is provided to third parties is the information published on our site: your username, your native language, experience and educational background. Other information including full name, date of birth, addresses and telephone numbers are only used by Translated and its authorized suppliers (e.g. accounting firms, banks, etc.) for purposes related to current jobs. 
-
-## Right to Change or Delete Information
-
-Users may change their information or ask for their information to be deleted at any time, as stipulated by Italian law regarding Privacy - no. 675/96 dated 31.12.1996. 
-
-  * Send an e-mail to [info@translated.net](mailto:info@translated.net)
-  * Change your on-line profile at [www.translated.net](http://www.translated.net/)
+  * [How to manage cookies in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11)
+  * [How to delete cookies in Internet Explorer](https://support.microsoft.com/it-it/help/4027947/windows-delete-cookies)
+  * [How to manage cookies in Firefox](https://support.mozilla.org/it/kb/Attivare%20e%20disattivare%20i%20cookie)
+  * [How to delete cookies in Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
+  * [How to manage cookies in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+  * [How to manage cookies in Safari and iOS](https://support.apple.com/kb/PH17191?locale=en_US)
 
 
 
-## Navigation data and cookies
+##### Third-Party Cookies
 
-### Navigation data
+This site also acts as an intermediary for third-party cookies, which are used to provide additional services and features to users. These also improve user experience of the site via such things as buttons for social media, or videos. This site has no control over the cookies of third parties—they are entirely managed by third parties. As a consequence, information on the use of these cookies and their purpose, as well as how to disable them, are provided directly by the third parties on the pages indicated below.
 
-The computer systems and programs used for the website's operation collect some personal data whose transmission is implicit in the use of Internet communication protocols (e.g. IP addresses or domain names of computers used by users who connect to the site, URI [Uniform Resource Identifiers] of resources requested, the time of request, method used to submit the request to the server, file size obtained in response, numerical code for the status of the response submitted by the server - successful, error, etc., and other parameters relating to the user's operating system and computer environment). Although this sort of information is not collected to be associated with identified users, through processing and in association with data held by third parties, it could by its very nature allow for users to be identified.
+#### V. Social Networks
 
-These data types are used solely to obtain statistical information pertaining to the website's usage and serve to check the site's correct operation; they are thus not associated with any given user ID and are deleted immediately after processing. The data could be used to ascertain responsibility in the case of computer crimes against the site: with the exception of this eventuality, data on web contacts are currently not held for more than seven days.
+This website also incorporates plugins and/or buttons for social networks, in order to allow easy sharing of content on your favorite social networks. These plugins are programmed so as not to set any cookies when users access the page in order to safeguard the privacy of users. Cookies may be set, if so provided by the social networks, only when the user makes effective and voluntary use of the plugin. Please note that if the user browses the website while logged in to the social network, then he/she has already given consent to the use of cookies conveyed through this site at the time of registration to the social network.
 
-### Cookies
+The collection and use of the data obtained by means of the plugins are regulated by the respective privacy policies of the social networks, to which reference should be made.
 
-What are cookies? Cookies are small text files sent by websites visited by users to their computers, storing information that will be retrieved on the next visit to the site. While surfing a given website, users may receive on their computers cookies transmitted from different sites (so-called ‘third-party' cookies), as specific links to the web pages of other domains.
-
-Cookies can be used for a variety of purposes, depending on the sites on which they are installed; they can be used as a method of information authentication, to monitor sessions, or store specific data on users accessing the server.
-
-#### Types of cookies
-
-**Technical** cookies: these are "strictly necessary" to ensure the website's operability or to provide services explicitly requested by the user (e.g. preserving selected travel solutions, memorizing the browser navigation language setting, etc.).
-
-**Functionality** cookies: the website uses these cookies to facilitate its fruition (e.g. to store information gathered within a single web browser session and entered by users in forms while surfing through the different pages, or the use of the password memorization function), as well as cookies for collecting information with the aim of directing targeted promotional messages based on user preferences and profiles, even in real time, and developed on the basis of statistics and each user's browsing experience. The installation of such cookies requires the user's prior consent.
-
-**Analytics** cookies: the website makes use of this type of cookies to analyse accesses and visits to the site, solely for statistical purposes, by collecting information in an aggregated form. The use of such cookies does not require consent. However, users can request at any time that analytics cookies be deactivated by following the instructions outlined below. For further information, please refer to the privacy policy of Google Analytics, Google Adwords and Twitter.
-
-Users have the right to accept or refuse the use of cookies at any time, or to remove any cookies previously accepted by changing their browser settings. The following links provide an overview of how to disable cookies on your browser:
-
-  * [Cookie settings in Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11)
-  * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
-  * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
-  * [Cookie settings in Safari web and iOS](http://support.apple.com/kb/PH17191)
+  * [Facebook](https://www.facebook.com/policies/cookies/)
+  * [Twitter](https://help.twitter.com/en/rules-and-policies/twitter-cookies)
+  * [Linkedin](https://www.linkedin.com/legal/cookie-policy)
+  * [Google+](https://policies.google.com/technologies/cookies?hl=it)
 
 
 
-However, with cookies disabled on your browser, you will no longer be able to make use of all of the website's services and features.
+#### VI. Newsletter and email
 
-### Social features
+Users may receive emails from Translated for various reasons, such as for the confirmation of an order or the confirmation of the Newsletter subscription, or to receive information on Translated services. Furthermore, for the purpose of optimizing and adapting our offerings, we track (for example with the so-called “Tracking-Pixel”) whether an email has been opened and which links within the email have been clicked. We use this data to be able to send Newsletter content that is tailored to the Customer.
 
-If users log in using the access credentials of a social networking site (e.g. Facebook or Google+, hereinafter generically referred to as **"Social Channels"** ) i.e. associating their account to a User account on a _Social Channel_ , including Twitter, the company may receive data relating to the User from the _Social Channel_ , in accordance with the conditions of use and the _Social Channel's_ privacy policy provisions. The company can add this information to the user data already collected through its services. If the User opts to share this information with _Social Channels_ , Translated will share the data with them in accordance with the options expressed by the User. Any data reported to a _Social Channel_ will be subject to the _Social Channel's_ general user terms.
+Users may reject these types of processing by accessing www.translated.com, where, for example, they may change their online profile, or cancel the subscription to our Newsletter, or contact the Data Controller at the address below.
+
+#### VII. Data Processing Location
+
+The data collected by this site is processed at the headquarters of the Data Controller and at the web hosting data center. The web hosting, Hitachi CBT, which is responsible for the processing of data, and handles data on behalf of the Data Controller, is located in the European Economic Area and acts in accordance with European standards.
+
+#### VIII. Transfer of Data in Non-EU Countries
+
+This site may share some of the collected data with services located outside the European Union area. In particular with Google, Facebook, and Microsoft (LinkedIn) through social plugins and Google Analytics. The transfer is authorized on the basis of specific rulings of the European Union and the Guarantor for the protection of personal data, in particular, ruling 1250/2016 (Privacy Shield), for which no further consent is required. The companies mentioned above guarantee their adherence to the Privacy Shield.
+
+#### IX. Safety Measures
+
+This site processes the data of users in a lawful and proper manner, adopting appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of data. Processing is carried out by using computer and/or electronic tools, using appropriate measures at the organizational, technical, and administrative level in order to protect personal data within our company, using criteria strictly related to the purposes stated. However, no data transmission and no storage system can be guaranteed as 100% secure. Users who have reason to believe that their interactions with us are no longer secure are asked to kindly report the issue immediately.
+
+In addition to the Data Controller, in certain cases other parties involved in the running of the website may have access to stored personal data (administrative, sales, legal department, and system administrator personnel) or external individuals (such as third-party technical service providers, mail couriers, hosting providers, IT companies, and communication agencies) which may, if necessary, be appointed by the Data Controller to handle personal data.
+
+The personal data of users shall be kept for as long as necessary, or permitted, in light of the purposes for which it is collected. The criteria adopted for determining storage times are as follows: (i) the period of time in which users regularly use the translated.com site; (ii) the need to fulfill a contract or a legal obligation to which we are subject; (iii) the opportunity to retain data in light of our legal position (for example, with regard to time limits, disputes, or regulatory compliance checks).
+
+#### X. Rights of the User
+
+Pursuant to the GDPR and Italian regulations, the user can, in the manner and within the limits established by current legislation, exercise the following rights in relation to his or her personal data:
+
+  * Request confirmation of the existence of personal data concerning him/her (right of access)
+  * To learn its origin
+  * Receive intelligible communications
+  * To have information about the criteria, the methods, and the purposes of the processing
+  * Request the updating, rectification, integration, cancellation, transformation into anonymous form, blocking of data processed in violation of the law, including that no longer necessary for the pursuit of the purposes for which it was collected
+  * In cases of consent-based processing, receive any support at-cost for data on yourself that has been provided to the Data Controller, in a structured and readable form, complied by a data processor, and in a format commonly available on electronic devices
+  * Right to file a complaint with the Supervisory Authority
+  * As well as, more generally, exercise all the rights that are recognized by the current provisions of law
+
+
+
+Requests should be addressed to the Data Controller. In particular, the user can exercise his or her rights in regard to the processing of personal data by accessing the www.translated.com site, for example, by changing your online profile, or by canceling your subscription to our Newsletter, or by contacting the Data Controller at the address provided above. We will respond to the request in accordance with the applicable laws. Users are invited to indicate in their request which personal data they wish to have modified, to inform us if they prefer that such data be deleted from our database, or to specify what limitations they wish to put on our use of their personal data. It is important to note that we may need to retain certain information for registration purposes and/or to complete the transactions initiated by users prior to requesting a change or cancellation.
+
+#### XI. Special Information for Parents
+
+The translated.com site is not intended for children, as required by applicable laws, and we do not knowingly collect personal information from minors. However, Translated undertakes to comply with the provisions of the law where these require the authorization of a parent or guardian to collect, use, or disclose the personal data of minors. We are committed to protecting the privacy of minors and we encourage parents and guardians to play an active role in their children's activities and interests on the net.
+
+If a parent or guardian becomes aware that a minor child has provided us with their personal data without your consent, we invite you to contact the Data Controller at the address provided below. If we learn that a minor has provided us with their personal data, we shall remove it from our files.
+
+#### XII. Data Controller
+
+The Data Controller — in accordance with the GDPR and other Italian data protection laws, as well as other provisions on data protection — is Translated S.r.l, Via Indonesia, No. 23, 00144, Rome, Italy, which can be contacted at the following email address: [info@translated.com](mailto:info@translated.com).
+
+Data Processor for processing is Hitachi CBT web hosting.
+
+#### XIII. Data Protection Officer
+
+Translated appointed Mr. Simone Giovanni Perone as its Data Protection Officer (DPO). The DPO can be reached at the following address: [dpo@translated.com](mailto:dpo@translated.com).
+
+#### XIV. Updates
+
+This privacy policy was updated on May 25, 2018.
