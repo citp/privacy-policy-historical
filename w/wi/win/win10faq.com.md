@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the win10faq.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024350id_/https%3A//win10faq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the win10faq.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624095038id_/https%3A//win10faq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Win10 FAQ
 
@@ -39,3 +39,10 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Win 10 FAQ may change its Privacy Policy from time to time, and in Win10FAQ's sole discretion. Win 10 FAQ encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a win10faq.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+Privacy Policy
+
+2 (40%) 3 vote[s]
+
+  
+
