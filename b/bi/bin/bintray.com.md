@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bintray.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231155301id_/https%3A//www.jfrog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bintray.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625004107id_/https%3A//www.jfrog.com/privacy-policy) for the most accurate reproduction.*
 
 # JFrog’s Privacy Policy | JFrog
 
-Last updated June 24, 2018
+Last updated January 28, 2019
 
   1. **What information do we collect? **
   2. **How your information is collected – and the lawful basis for that collection**
@@ -45,6 +45,7 @@ We also collect information that you provide us voluntarily, for example, we col
   * Register for our services and making payments
   * Post materials, participating in online forums or providing comments and feedback to online discussions on our Websites
   * Contacting us by email
+  * Register (directly or indirectly) to any of our events
   * In addition, we may receive your PII from your employer
 
 
@@ -90,6 +91,7 @@ JFrog uses third-party service providers to enable us to provide the Services. T
   * Google Cloud Platform and Google Analytics privacy policy is available [here](https://www.google.com/policies/privacy/);
   * Amazon Web Services, Inc. privacy policy is available [here](https://aws.amazon.com/privacy/); and
   * Orbitera Inc., privacy policy is available [here](https://www.orbitera.com/privacy/).
+  * Bing Ads, privacy policy is available [here](https://privacy.microsoft.com/en-GB/privacystatement).
 
 
 
