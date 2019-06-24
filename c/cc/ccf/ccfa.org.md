@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231072940id_/http%3A//www.crohnscolitisfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624071956id_/http%3A//www.crohnscolitisfoundation.org/privacy-policy) for the most accurate reproduction.*
 
-# Crohn's & Colitis Foundation's Privacy Policy | Crohn’s & Colitis Foundation
+# Crohn's & Colitis Foundation's Privacy Policy | Crohn's & Colitis Foundation
 
-The purpose of the [Crohn's & Colitis Foundation](http://www.crohnscolitisfoundation.org/about/) website is to provide information about the Foundation and Inflammatory Bowel Disease (IBD) to people living with [Crohn's disease](http://www.crohnscolitisfoundation.org/what-are-crohns-and-colitis/what-is-crohns-disease/) and [ulcerative colitis](http://www.crohnscolitisfoundation.org/what-are-crohns-and-colitis/what-is-ulcerative-colitis/), as well as to their families and friends; healthcare professionals; and the general public.
+The purpose of the [Crohn's & Colitis Foundation](https://web.archive.org/about/) website is to provide information about the Foundation and Inflammatory Bowel Disease (IBD) to people living with [Crohn's disease](https://web.archive.org/what-are-crohns-and-colitis/what-is-crohns-disease/) and [ulcerative colitis](https://web.archive.org/what-are-crohns-and-colitis/what-is-ulcerative-colitis/), as well as to their families and friends; healthcare professionals; and the general public.
 
 ### What information do we collect and how do we use it?
 
@@ -52,7 +52,7 @@ To exercise any of these rights please contact us. Please note that if you are n
 
 ### How can you contact us to review or correct your personal information?
 
-You may view or edit your personal profile by logging in to our website at [www.crohnscolitisfoundation.org,](http://www.crohnscolitisfoundation.org/) where you can also view a history of your online transactions or subscribe to our e-newsletter. In addition, you may also email us at [info@crohnscolitisfoundation.org](mailto:info@crohnscolitisfoundation.org) or call us at 1-800-932-2423 to review your personal information.
+You may view or edit your personal profile by logging in to our website at [www.crohnscolitisfoundation.org,](https://web.archive.org/) where you can also view a history of your online transactions or subscribe to our e-newsletter. In addition, you may also email us at [info@crohnscolitisfoundation.org](mailto:info@crohnscolitisfoundation.org) or call us at 1-800-932-2423 to review your personal information.
 
 ### Disclaimer on information provided on the Crohn's & Colitis Foundation website
 
