@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowstartup.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231105452id_/http%3A//knowstartup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowstartup.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624072108id_/http%3A//knowstartup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KnowStartup
 
@@ -115,7 +115,7 @@ We have implemented reasonable security measures and practices in an effort to p
 
 **Email or Text Message Communications**
 
-We may contact you by e-mail, text message or other equivalent electronic communications if you access knowstartup products or services or register for events, or other content or services provided by knowstartup. By visiting or using knowstartup content, products or services, or registering for or attending knowstartup events, you specifically consent to the receipt of these e-mail or text message communications. If you do not want to receive emails, text messages or other communications from us, please notify us by email at  _[[email  protected] ](https://web.archive.org/cdn-cgi/l/email-protection#086d6c617c677a486366677f7b7c697a7c7d78266b6765)_and include sufficient information for us to identify your account, including your Name, Email Address (or Cellphone Number) and the specifics of your request. If you unsubscribe, knowstartup may still contact you via email or text message for administrative purposes or concerning any products, services or events for which you have registered or are using.
+We may contact you by e-mail, text message or other equivalent electronic communications if you access knowstartup products or services or register for events, or other content or services provided by knowstartup. By visiting or using knowstartup content, products or services, or registering for or attending knowstartup events, you specifically consent to the receipt of these e-mail or text message communications. If you do not want to receive emails, text messages or other communications from us, please notify us by email at  _[[email  protected] ](https://web.archive.org/cdn-cgi/l/email-protection#6401000d100b16240f0a0b13171005161011144a070b09)_and include sufficient information for us to identify your account, including your Name, Email Address (or Cellphone Number) and the specifics of your request. If you unsubscribe, knowstartup may still contact you via email or text message for administrative purposes or concerning any products, services or events for which you have registered or are using.
 
 **Changes to the Privacy Policy**
 
@@ -123,4 +123,4 @@ knowstartup retains the discretion to amend or modify this Privacy Policy from t
 
 **How to Contact Us**
 
-knowstartup welcomes any questions or comments you may have regarding this Privacy Policy or its implementation. Any such questions or comments should be submitted via email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7411101d001b06341f1a1b03070015060001045a171b19). We will undertake reasonable efforts to resolve or address your concern.
+knowstartup welcomes any questions or comments you may have regarding this Privacy Policy or its implementation. Any such questions or comments should be submitted via email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1772737e637865577c797860646376656362673974787a). We will undertake reasonable efforts to resolve or address your concern.
