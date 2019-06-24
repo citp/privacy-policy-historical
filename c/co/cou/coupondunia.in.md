@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupondunia.in privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531185336id_/https%3A//www.coupondunia.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondunia.in privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624200418id_/https%3A//www.coupondunia.in/privacy-policy) for the most accurate reproduction.*
 
 # CouponDunia: Coupons, Cashback, Offers and Promo Code
 
@@ -66,7 +66,7 @@ All information gathered on COUPONDUNIA is securely stored within the COUPONDUNI
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to support@coupondunia.in to Grievance Officer(Ms. Shireen Godhaa).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to support@coupondunia.in to Grievance Officer(Ms. Monaliza Palai).
 
 Communication with Users
 
@@ -78,14 +78,14 @@ Grievance Redressal
 
 Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to . 
 
-Ms. Shireen Godhaa **(Grievance Officer)**
+Ms. Monaliza Palai **(Grievance Officer)**
 
  **CouponDunia Media Private Limited.**
 
 www.coupondunia.in
 
 Address: CouponDunia Media Private Limited   
-429 Laxmi Mall,   
+401 Laxmi Mall,   
 Laxmi Industrial Estate,   
 New Link Road,   
 Andheri W, Mumbai - 400053   
@@ -101,3 +101,5 @@ We request you to please provide the following information in your complaint:-
   6. A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
 
 
+
+ **Last Updated on : 1st April, 2019**
