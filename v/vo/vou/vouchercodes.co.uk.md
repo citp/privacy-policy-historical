@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227174215id_/https%3A//www.vouchercodes.co.uk/legal/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624054910id_/https%3A//www.vouchercodes.co.uk/legal/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
-
-  * [ About us ](https://web.archive.org/about-us.html)
-  * [ Partner with us ](https://web.archive.org/partner-with-us.html)
-  * [ Press resources ](https://web.archive.org/press/)
-  * [ Careers ](https://web.archive.org/careers/)
-  * [ Legal ](https://web.archive.org/terms-and-conditions.html)
-  * [ Contact us ](https://web.archive.org/contact-us.html)
-
-
 
 RetailMeNot UK Ltd, trading as VoucherCodes ("we", "our", "us") is committed to protecting and respecting your privacy. We are the data controller for the purposes of the General Data Protection Regulation ("GDPR") and can be contacted [here](https://web.archive.org/contact-us.html) with the words "FAO: the Legal Department" at the start of the message or via the contact details at the end of this notice. In addition, our data protection officer ("DPO") is Alex Firth, who can be contacted at [privacy@vouchercodes.co.uk](mailto:privacy@vouchercodes.co.uk).
 
@@ -21,7 +12,7 @@ We may collect and process the following types and categories of personal data a
 
   * **Contact information:** name, postal address, email address, telephone numbers, username and associated correspondence between us.
 
-  * **Demographic information:** birth date, age, gender, postal code.
+  * **Demographic information:** birth date, age, student status and associated information (such as your university), gender, postal code.
 
   * **Other identification information:** information about your computer or mobile device, including your device identifier or other unique identifier (e.g. Android advertising ID or Apple IDFA), IP address, operating system and browser type.
 
@@ -76,7 +67,7 @@ We will only use your personal data when the law allows us to. Most commonly, we
 
 
 
-Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you via email or push notification, the use of cookies and similar technologies and access to your device's location details. You have the right to withdraw consent to marketing email at any time as set out in the _"Direct mailings and unsubscribing"_ section below and for the withdrawal of other consent please see the _"Your rights and choices"_ section below. 
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you via email or push notification, the use of cookies and similar technologies and access to your device's location details. You have the right to withdraw consent to marketing email at any time as set out in the _"Direct mailings, push notifications and unsubscribing"_ section below and for the withdrawal of other consent please see the _"Your rights and choices"_ section below. 
 
 We use information held about you in the following ways:
 
@@ -105,6 +96,8 @@ We use information held about you in the following ways:
   * to log when you have arrived at and / or leave a location (for example, a shopping centre, a high street or an airport).
 
   * to provide location based services to you (for example, providing offers for retailers/brands nearby or other promotions relevant to your location).
+
+  * to verify whether you are a student and, if so, provide you with access to exclusive student content.
 
 
 
@@ -165,20 +158,29 @@ The following data will be kept for the following purposes:
 
 
 
-## Direct mailings and unsubscribing
+We will keep under review the continued appropriateness of the retention of these records.
 
-Where you have consented to receive marketing communications from us, we will send you emails containing our latest codes, deals and promotions that we feel may interest you.
+## Direct mailings, push notifications and unsubscribing
 
-You may withdraw your consent for marketing communications (i.e. unsubscribe) at any time using one of the following methods:
+Where you have consented to receive marketing communications from us, we will send you emails and/or push notifications (depending on what you have consented to) containing our latest codes, deals and promotions that we feel may interest you.
+
+You may withdraw your consent for email marketing communications (i.e. unsubscribe) at any time using one of the following methods:
 
   * Click the "Unsubscribe" link in a marketing communication email we send you.
 
   * Use the "Email Settings" page in the VoucherCodes account area
 
-  * Email our support team at [support@vouchercodes.co.uk](mailto:support@vouchercodes.co.uk)
 
 
 
+You may withdraw your consent for push notification marketing communications (i.e. unsubscribe) at any time using the following method:
+
+  * By switching off the Offer Alerts and Find Offers Near Me functions in the "Notifications" section of the "Settings" area in the App.
+
+
+
+
+In either case, you may also withdraw your consent by emailing our support team at [support@vouchercodes.co.uk](mailto:support@vouchercodes.co.uk)
 
 Please allow two working days for this instruction to take effect in all of our systems.
 
@@ -235,4 +237,4 @@ WC1X 8XZ
 
 Any changes we may make to our privacy notice in the future will be posted on this page. You can obtain a historic version of this privacy notice by contacting us using the details above.
 
-**This privacy notice is version "2018-4" and was last updated on 2nd October 2018.**
+**This privacy notice is version "2019-1" and was last updated on 11th January 2019.**
