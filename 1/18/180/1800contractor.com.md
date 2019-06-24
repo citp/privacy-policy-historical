@@ -1,134 +1,178 @@
-> *The following text is extracted and transformed from the 1800contractor.com privacy policy that was archived on 2008-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080708143148id_/http%3A//www.1800contractor.com/rfs/servicerequest/exactmatch/oehPrivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800contractor.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624032059id_/https%3A//www.homeadvisor.com/mobile/legal/consumerMobilePrivacyPolicy.jsp) for the most accurate reproduction.*
 
-# 1800Contractor.com - Privacy Policy
+# HomeAdvisor Privacy Policy
 
-**1800Contractor PRIVACY POLICY effective August 26, 2005**
+**Privacy Policy**
 
-This privacy policy applies to [**http://www.1800Contractor.com**](http://www.1800contractor.com/) and all websites and URL's and phone numbers controlled or operated by 1800Contractor (a service of ImproveNet, Inc.), which link to this policy, unless otherwise specified. Where applicable, references in this Privacy Policy to the services on the 1800Contractor Web site also include the phone-based services of 1800Contractor.
+  
+  
+HomeAdvisor respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of [www.homeadvisor.com](http://www.homeadvisor.com/) (and all websites and URL's controlled or operated by HomeAdvisor, Inc. which link to this policy, unless otherwise specified) or our services, or otherwise provide us with information through various means the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
-This is a new privacy policy effective as of the date set forth above. Even if you read and approved a prior policy, you need to review this new version as it has been updated and revised.
+We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. HomeAdvisor is a part of the IAC/InterActiveCorp family of businesses ([www.iac.com](http://iac.com/)), which includes Ask.com, Match.com, UrbanSpoon, and many others.
 
-Titles and headings are provided for general reference and ease of use only, as information may be covered in more than one heading or under other headings.
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-If users have questions or concerns regarding this statement, they should first contact 1800Contractor's privacy department at [**privacy@1800Contractor.com**](mailto:privacy@1800Contractor.com).
+**_Information we collect about you_**
 
-**Information Collection**
+ _In General_
 
-**Registration and Service Professional Enrollment**  
-In order to enroll as a prospective Service Professional, a user must first complete a registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact Service Professionals about services on our site for which they have expressed interest, and to inform Service Professionals of leads. By providing this information to us, or by submitting a service request, you expressly consent to being contacted by us and by our Service Professionals and providers via phone, fax, email, mail or other reasonable means, at any of your contact numbers or addresses, in order that we may provide the services set forth on our Web site, service your account, reasonably address matters pertaining to your account or for other reasonable purposes related to our business. Unique identifiers (such as username and password) are required. It is optional for the user to provide demographic information (such as income level and gender) but encouraged so we can provide a more personalized experience on our Web site. We also require a US Service Professional's social security number or federal tax id number to complete a background check (credit is not checked), prior to a US Service Professional being approved to join our network.
+. We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world. 
 
-We collect personally identifiable data from consumers only when they knowingly provide us with such information, such as when the consumer completes an online survey, or participates in a contest or sweepstakes.
+  * **Information you provide.** We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, e-mail address, telephone number, credit card information, and other personally identifiable information.
+  * **Information from other sources.** We may also periodically obtain both personal and non-personal information about you from other IAC businesses, business partners, contractors and other third parties. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
 
-**Feedback, Ratings and Reviews and Testimonials**  
-Additionally, we collect feedback from users (called ratings and reviews) about the performance of Service Professionals who work for them. We may collect general feedback and testimonials from users of our service and system. By providing such feedback to us, you consent to our use, publication and/or distribution of such feedback at no compensation to you, and you acknowledge that all such ratings and reviews are solely owned by 1800Contractor.
+  
+_Use of cookies and other technologies to collect information._
 
-**Information Use**
+We use various technologies to collect information from your computer and about your activities on our site. 
 
-**Profile**  
-We store information that we collect through the Web site experience and activities, cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences, activities and interactions with 1800Contractor. Consequently, collected information is tied to the user's personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site and to direct pertinent marketing promotions and communications to them.
+  * **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
+  * **Cookies.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
+  * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
+  * **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies or web beacons, to collect information about users who view or interact with their advertisements. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+  * This site is being monitored by one or more third-party monitoring software(s), and may capture information about your visit that will help us improve the quality of our service. You may opt-out from the data that SmartPiXL is collecting on your visit through a universal consumer options page located at <https://smart-pixl.com/Unsub/Unsub.html>
 
-**Cookies**  
-A cookie is a piece of data tied to information about the user and stored on the user's computer. We use both session cookies, which terminate when a user closes his browser, and persistent cookies, which remain on the user's computer until manually deleted.
 
-By setting a persistent cookie, we enable our users to not have to log in with a password more than once, thereby saving time while on our Web site. If users reject these cookies, they may still use our Web site. The only drawback to this is that the experience and/or access of a user may be limited in some areas of our Web site. For example, the user may not be able to participate in any of our sweepstakes, contests or monthly drawings that may take place. See the "Profile" section.
 
-We may use third-party advertising companies to serve ads on our behalf and to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. These companies, which may include OPM Performance Marketing ("OPM"), a division of Overture Services, Inc. ("Overture") and Microsoft, Inc., may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [**click here**](http://www.networkadvertising.org/optout_nonppii.asp).
+**_How we use the information we collect_**
 
-**Third Party Advertising**  
-Some of our business partners may use cookies on our Web site (for example, advertisers). We have no access to or control over these cookies once our business partners have been given permission to set cookies. This privacy statement covers the use of cookies by 1800Contractor only and does not cover the use of cookies by any advertisers.
+ _In general._
 
-**Log Files**  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the Web site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.
+We may use information that we collect about you to: 
 
-**Clear Gifs** (Web Beacons/Web Bugs)  
-We employ and/or our third party advertisers employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site and marketing campaigns by informing us what content and which campaigns are effective. Clear gifs are tiny graphics, about the size of a period at the end of a sentence, with a unique identifier. Clear gifs are similar in function to cookies and are used to track the online movements of Web users.
+  * deliver the products and services that you have requested;
+  * manage your account and provide you with customer support;
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+  * communicate with you by e-mail, postal mail, telephone and/or mobile devices or send newsletters about products or services that may be of interest to you either from us, our sister IAC companies or other third parties;
+  * communicate with you with regard to partially completed service requests;
+  * develop and display content and advertising tailored to your interests on our site and other sites;
+  * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
+  * perform background screening, which may include the use of third parties, on Service Professionals;
+  * enforce our terms and conditions;
+  * publicly-display comments, ratings and reviews and other content provided by you;
+  * manage our business; and 
+  * perform functions as otherwise described to you at the time of collection.
 
-Clear Gifs can "work with" existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear gif, the Web site or advertising company would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company or Web site. To learn more about our advertising partners' use of clear gifs, please contact us at [**privacy@1800Contractor.com**](mailto:privacy@1800Contractor.com).
+  
+_Payment and Financial information._
 
-In addition, 1800Contractor and its advertisers use clear gifs in HTML-based emails. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns by showing how may emails have been opened by the recipients. If users would like to opt-out of these emails, please see the Opt-out section.
+For Service Professionals, we may use financial information or payment method to process payment for any purchases made on our website, enroll you in the discount, rebate, and other programs in which you elect to participate, to pre-qualify you for credit card and other offers that you might find of interest, to pre-qualify Service Professionals to participate in our contractor network, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business. For consumers, we may use credit card information to process payment for any payments made on our website.
 
-**Communications from 1800Contractor and its Service Professionals**
+**_Mobile Apps_**
 
-**Special Offers and Updates**  
-Service Professionals will occasionally receive information on products, services, and special deals. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+If you install one of our apps on your mobile device, your use of the app is subject to the applicable app license agreement.
 
-**Service Announcements**  
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
+**_With whom we share your information_**
 
-**Customer Service**  
-We communicate with Service Professional users to provide requested services and in regards to issues relating to their account via email, fax, phone or mail, and we reply to user inquiries via email or phone, or other reasonable means, in accordance with the user's wishes where applicable.
+We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services.
 
-**Sharing Information to Provide Services and to Conduct Our Business**
+ _Personal information._
 
-When a Service Professional user submits information to 1800Contractor, they authorize us to share this information with our parent companies, subsidiaries and affiliates, which may be used to provide the Service Professional user with information regarding similar or complementary product and service offerings. For Service Professionals using our services pursuant to a membership with one of our partners, 1800Contractor may share your service request activity information with such partner in certain circumstances. We may also release information to collection and/or credit agencies for past due Service Professional accounts.
+We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
 
-When a consumer user submits information to 1800Contractor, they authorize us to share this information with our parent companies, subsidiaries and affiliates. We collect personally identifiable data from consumers only when they knowingly provide us with such information, such as when the consumer completes an online survey, or participates in a contest or sweepstakes.
+  * **Authorized service providers:** We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website or performing background checks of Service Professionals. We may also release information to collection and/or credit agencies for past due Service Professional accounts. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+  * **Marketing Affiliates:** When you are referred to us via a third party marketing affiliate, we may share your email address, and other information that you provide, to such marketing affiliate.
+  * **Business partners:** When you make purchases, reservations or engage in promotions offered through our website or our services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.
+  * **Service Professionals.** We match your information and service request against our list of Service Professionals. When you submit a service request through our website, you consent to our providing your personal information and request to the Service Professionals we match with your request. Sharing this information with Service Professionals allows them to contact you using the e-mail address or other contact information you provided. In addition, we have other approved contractual partners that fulfill service requests, or that utilize their own Service Professionals to supplement our network, and we share your information with them in order to attempt to provide the services requested. If using our services pursuant to a membership with one of our partners, HomeAdvisor may share your service request activity information with such partner.
+  * **Direct mail partners.** From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you.
+  * **Other IAC businesses.** We are part of the IAC family of businesses (go to [www.iac.com](http://www.iac.com/) for a listing of these businesses). We may share information we collect, including personal information, with the IAC companies. Sharing information with our IAC companies enables us to provide you with information about a variety of products and services that might interest you.
+  * **Other Situations.** We also may disclose your information: 
+    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
+    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
-We may also post and publish users' ratings and reviews of Service Professionals' performance, as well as feedback and testimonials at our sole discretion.
 
-Though we strive to preserve user privacy, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will always remain confidential. By way of example, we may disclose personal information when required by law wherein we have a belief that such action is necessary or advisable to comply with a judicial proceeding, court order, legal proceeding, process or investigation served on our business or Web site(s), or when we believe parties are misusing or attempting to misuse our Web sites or services, including but not limited to violating the law, committing fraud, deception, theft, attempting to harm or divert our business, engaging in threatening or inappropriate behavior or threatening to place, or placing themselves or others in danger. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to require us to share or transfer your information to third parties. Finally, although we strive to protect your privacy, third parties beyond our control may unlawfully intercept or access transmissions or private communications. Therefore, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-1800Contractor will not be responsible or otherwise liable for any use or disclosure of your personal information by a third party to whom 1800Contractor is allowed to disclose you personal information under this privacy policy.
+For Service Professionals, we may share your business contact information with third parties, including but not limited to, business name, address, telephone number, email address and name of owner or proprietor of the business.
 
-**Aggregate Information** (non-personally identifiable)  
-1800Contractor may share aggregated activity or statistical information with partners, advertisers or others, but such information shall not contain personally identifiable information.
+Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
 
-**Business Transitions**  
-In the event 1800Contractor goes through a business transition such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. See also, section entitled "Changes and updates to this policyï¿½" set forth below.
+ _Aggregated and non-personal information._
 
-**Choice/Opt-out**  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our Web site at the point where we ask for information.
+We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties and our IAC sister companies to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the email or email us at [**customerservice@1800Contractor.com**](mailto:customerservice@1800Contractor.com).
+**_How you can access your information_**
 
-Users of our Web site are always notified when their information is being collected by any outside parties (excluding our affiliates, Service Professionals, or agents) for marketing purposes. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
+If you have an online consumer account with us, you have the ability to review and update your personal information online by logging into [your account](https://web.archive.org/servlet/LoginServlet). You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
 
-**Links to Third Party Sites**  
-This Web site contains links from and to other Web sites. Please be aware that 1800Contractor is not responsible for the privacy practices of such other Web sites. We encourage our users to be aware of this when they leave our Web site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by 1800Contractor's Web site.
+You can also choose to have your account disabled by contacting [conscustomerservice@homeadvisor.com](mailto:conscustomerservice@homeadvisor.com). After you deactivate your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new account at any time. If you deactivate your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
 
-**Surveys & Contests**  
-From time-to-time, 1800Contractor may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and mailing address), and demographic information (such as zip code). Contact information will be shared with the contest or survey sponsors (if 1800Contractor elects to utilize an outside promotions or survey company) to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our services and this Web site, and will be used only in accordance with this Privacy Policy.
+**_Your choices about collection and use of your information_**
 
-**Security**  
-"Perfect security" does not exist on the Internet and we do not guarantee security of information or that unauthorized access will not occur. However, we take all reasonable precautions when protecting your personal information. Servers that store personally identifiable information are located in a supervised and/or locked facility. Users' personal information off line is restricted by our internal security procedures, and authorized access to such information is only provided to our employees and contractors who reasonably need the information for their areas of responsibility (for example, a billing clerk, a sales rep, a customer service representative or management).
+  * At any time a consumer user can choose to no longer receive commercial or promotional emails or newsletters from us by accessing your user account and opting out. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them.
+  * If you prefer not to have us share your postal mailing information with these selected providers of goods and services that may be of interest to you, you can notify us at any time by emailing us at [optoutdirectmail@homeadvisor.com](mailto:optoutdirectmail@homeadvisor.com).
 
-Your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and may be stored on equipment or in facilities leased or licensed from third parties.
 
-If users have any questions about the security at our Web site, users can send an email to [**privacy@1800Contractor.com**](mailto:privacy@1800Contractor.com).
 
-**Verification and Supplementation of Information**  
-In order for us to better conduct our business it is sometimes advisable or necessary for us to verify and/or supplement the information we receive from Service Professionals and users of our Web site with information from 3rd party sources, provided that such sources confirm to us that they are permitted to share such information, such information is publicly available or the collection is required or authorized by law. Examples of collection from other sources include collections from:
+**_Blogs, bulletin boards, reviews and chat rooms_**
 
-  * insurance companies;
-  * government agencies or registries; and
-  * the Better Business Bureau;
+We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as post reviews of products, establishments, contractors, and the like, or upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our [Terms of Use](https://web.archive.org/servlet/TermsServlet). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.
 
-**Enhancement of Marketing Profile**  
-Occasionally, we purchase third party marketing data and add it to our existing user database to better target our advertising and provide pertinent offers we think our users would be interested in. We use this information to enhance or overlay the 'profile' of individual users. This aggregate marketing data is therefore tied to the users' personally identifiable information. See also the "Profile."
+**_Children's privacy_**
 
-**Correcting/Updating/Deleting/Deactivating Personal Information**  
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a means to access, correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support at [**customerservice@1800Contractor.com**](mailto:customerservice@1800Contractor.com). Or, contact us by telephone or postal mail at the contact information listed below. Please note that deleting your account information will not delete all of your contact information or other information contained on our systems, as much or all of this information will be retained to preserve records of our commercial relationship with you, or as required by law. Further, certain information may have already been provided to third parties as described herein.
+Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13.
 
-**Denial of Access to Personal Information**  
-Your rights to access your personal information are not absolute. We may deny access:
+**_Visiting our websites from outside the United States_**
 
-  * when denial of access is required or authorized by law;
-  * when granting you access would have an unreasonable impact on other people's privacy;
-  * to protect our Company's rights and property; or
-  * where the request is frivolous or vexatious.
+This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
 
-If we deny your request for access to, or refuse a request to correct Personal Information, we will explain why.
+**_No Rights of Third Parties_**
 
-**Changes and Updates to This Policy and to 1800Contractor Services, Products and Functionality of Web Site(s)**  
-We reserve the right to change our information, features, services, products, policies, promotions, disclosures and disclaimers at any time. Changes to this Policy will be in writing and be posted on our Web site as applicable. Please check these terms periodically for changes. At the top of the policy we indicate the date of an update. The continued use of any 1800Contractor services or of the applicable 1800Contractor affiliated web sites following the posting of changes to these terms will mean you accept those changes.
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
 
-Contact Information  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: 
+**_Changes to this Privacy Policy_**
 
-**1800Contractor**  
-Privacy Department  
-14023 Denver West Parkway  
-Bldg. 64, Suite 200  
-Golden, CO 80401  
-[**customerservice@1800Contractor.com**](mailto:customerservice@1800Contractor.com) or  
-[**privacy@1800Contractor.com**](mailto:privacy@1800Contractor.com)
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by posting the updated policy on our website, with a link denoting that the policy has been updated. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. To see the prior version of the HomeAdvisor Privacy Policy you may send a written request to Legal Department, HomeAdvisor, Inc., 14023 Denver West Parkway, Suite 100, Golden, CO 80401.
+
+**_How to contact us_**
+
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows:
+
+Privacy Policy Inquiry HomeAdvisor 14023 Denver West Parkway, Suite 200 Golden, Colorado 80401
+
+[customerservice@homeadvisor.com](mailto:customerservice@homeadvisor.com) or [privacyofficer@homeadvisor.com](mailto:privacyofficer@homeadvisor.com)
+
+For our Canadian users:
+
+Your rights to access your personal information are not absolute. We may deny access: 
+
+  * When denial of access is required by law
+  * When granting you access would have an unreasonable impact on other people's privacy;
+  * To protect our Company's rights and property; or
+  * Where the request if frivolous or vexatious.
+
+
+
+If we deny your request for access to, or refuse a request to correct personal information, we will explain why.
+
+Your California Privacy Rights
+
+If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the IAC companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information: 
+
+  1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year
+  2. the names and addresses of the third parties that received that information; and
+  3. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.
+
+
+
+We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [SB27Request@homeadvisor.com](mailto:SB27Request@homeadvisor.com).
+
+**_Linked information:_**
+
+Cookies:
+
+A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.
+
+For example, when you sign in to our website, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
+
+You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
+
+Web Beacons:
+
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
+
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
+
+Mobile Device IDs: If you're using an app, we use mobile device IDs (the unique identifier assigned to a device by the manufacturer), instead of cookies, to recognize you. We do this to store your preferences and track your use of our apps. Unlike cookies, device IDs cannot be deleted. Ad companies use device IDs to track your use of the app, track the number of ads displayed, measure ad performance and display ads that are more relevant to you. Analytics companies use device IDs to track information about app usage. We share device IDs with service providers who power certain features, such as voice recognition.
+
+[Back to Top]
