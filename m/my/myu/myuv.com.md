@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myuv.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001142334id_/https%3A//www.myuv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myuv.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624050319id_/https%3A//www.myuv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | UltraViolet
 
