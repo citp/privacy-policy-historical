@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ph privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231184806id_/https%3A//pages.ebay.ph/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ph privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624042828id_/https%3A//pages.ebay.ph/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice
 
@@ -418,7 +418,7 @@ If you reside outside of the United States, you are contracting with one of our 
 
   * If you reside in a country within the European Union (except the United Kingdom) you are contracting with eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany;
 
-  * If you reside in the United Kingdom you are contracting with eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom;
+  * If you reside in the United Kingdom you are contracting with eBay (UK) Limited, 1 More London Place, London, SE1 2AF, United Kingdom;
 
   * If you reside in India you are contracting with eBay Singapore Services Pte Ltd, 10 Collyer Quay, #10-01 Ocean Financial Centre, Singapore 049315;
 
