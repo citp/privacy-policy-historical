@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inma.org privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911180938id_/https%3A//www.inma.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inma.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624110314id_/https%3A//www.inma.org/privacy.cfm) for the most accurate reproduction.*
 
 # None
 
@@ -12,7 +12,12 @@ INMA may collect and use the following kinds of personal information:
   * Information that you provide using for the purpose of registering with the Web site.
   * Information about transactions carried out over this Web site.
   * Information that you provide for the purpose of subscribing to the Web site services.
-  * Any other information that you send to INMA.
+  * Any other information that you send to INMA, including:
+    * Name
+    * Job title
+    * Company
+    * Email
+    * Telephone number
 
 
 
@@ -38,25 +43,36 @@ In addition to the disclosures reasonably necessary for the purposes identified 
 
 ## Cookies
 
-We use cookies (information stored by your browser) to track information on the pages read by visitors to the Web site to improve the content and offerings on the Web site. Although we cannot identify individuals from this information, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. Cookies can be disabled on your computer, but this may limit the experience that our Web site is able to offer.
+We use cookies (information stored by your browser) to track information on the pages read by visitors to the Web site to improve the content and offerings on the Web site. INMA.org uses cookies to identify members when they sign-in to the site.
+
+Although we cannot identify individuals from this information, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. Cookies can be disabled on your computer, but this may limit the experience that our Web site is able to offer.
+
+Third Party cookies may include:
+
+  * Anonymous tracking for analytic purposes via Google
+  * YouTube (embedded content)
+  * Facebook (embedded content)
+  * Twitter (embedded content)
+
+
 
 ## Securing of your data
 
 INMA will take reasonable technical and organisational precautions to prevent the loss, misuse, or alteration of your personal information. INMA will store all the personal information you provide on its secure servers. Information relating to electronic transactions entered into via this Web site will be protected by encryption technology.
 
-## Cross-border data transfers
-
-Information that INMA collects may be stored and processed in and transferred between any of the countries in which INMA operates to enable the use of the information in accordance with this privacy policy.
-
-In addition, personal information that you submit for publication on the Web site will be published on the internet and may be available around the world. You agree to such cross-border transfers of personal information.
-
 ## Updating this statement
 
 INMA may update this privacy policy by posting a new version on this Web site. You should check this page occasionally to ensure you are familiar with any changes.
 
-## Other Web sites
+## Inapplicability of Privacy Policies of Any Linked Websites or Other Third Parties
 
-This Web site contains links to many other sites. However, INMA is not responsible f or the content or the privacy practices employed by other sites.
+This Web site contains links to many other sites. However, INMA is not responsible for the content or the privacy practices employed by other sites.
+
+This Privacy Policy only addresses INMAâ€™s use and disclosure of your Personal Data. The Web site may contain links to other Web sites, be aware that we are not responsible for the privacy practices of other websites, and we are not liable for their misuse of Personal Data. When you visit another Web site you should carefully read that siteâ€™s privacy policy.
+
+## Children
+
+This Web site is not intended for use by or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13.
 
 ## Contact INMA
 
