@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdictionary.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109010113id_/http%3A//www.yourdictionary.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdictionary.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624221150id_/https%3A//www.yourdictionary.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,7 +70,7 @@ We do not otherwise share or supply personal information to third parties. We do
 
 ###  Children's Privacy 
 
-This website does not knowingly target users under the age of 18, or collect personal information from children. As a parent/guardian, if you believe your child is participating in an activity involving personal information on our website, and you have not received a notification or request for consent, please contact us at admin@yourdictionary.com. We do not use your supplied contact details for marketing or promotional purposes. 
+This website does not knowingly target users under the age of 18, or collect personal information from children. As a parent/guardian, if you believe your child is participating in an activity involving personal information on our website, and you have not received a notification or request for consent, please contact us at admin (at) yourdictionary.com. We do not use your supplied contact details for marketing or promotional purposes. 
 
 ###  Limits of our policy 
 
@@ -87,27 +87,3 @@ At our discretion, we may change our privacy policy to reflect current acceptabl
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 As our user, you have the right to be informed about how your data is collected and used. You are entitled to know what data we collect about you, and how it is processed. You are entitled to correct and update any personal information about you, and to request this information be deleted. You may amend or remove your account information at any time, using the tools provided in your account control panel. 
-
-You are entitled to restrict or object to our use of your data, while retaining the right to use your personal information for your own purposes. You have the right to opt out of data about you being used in decisions based solely on automated processing. 
-
-If you have any concerns or questions about how we handle your data and personal information, feel free to contact us at admin@yourdictionary.com . 
-
-**This policy is effective as of 05/01/2018**
-
-YourDictionary definition and usage example. Copyright © 2018 by LoveToKnow Corp
-
-  * Link/Cite 
-
-
-
-Link to this page
-
-Cite this page
-
-**MLA Style**
-
-"Privacy Policy." YourDictionary, n.d. Web. 08 November 2018. <https://www.yourdictionary.com/about/privacy.html>.
-
-**APA Style**
-
-Privacy Policy. (n.d.). Retrieved November 08th, 2018, from https://www.yourdictionary.com/about/privacy.html
