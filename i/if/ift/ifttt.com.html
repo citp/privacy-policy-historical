@@ -1,16 +1,33 @@
-<!--The following is the downloaded HTML source of the ifttt.com privacy policy that was archived on 2018-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227165221id_/https%3A//ifttt.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ifttt.com privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624045347id_/https%3A//ifttt.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/KaPEYqTYjK583sOVUhPNjJ60tYZSrsu6/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"673a997f39","applicationID":"35473956","transactionName":"egxdTUcJWwgBShgUR1AVUlpMSUQMC08=","queueTime":2,"applicationTime":70,"agent":""}</script>
-<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
-  <title>Privacy policy for our Site and Service - IFTTT</title>
+<script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/KaPEYqTYjK583sOVUhPNjJ60tYZSrsu6/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"673a997f39","applicationID":"35473956","transactionName":"egxdTUcJWwgBShgUR1AVUlpMSUQMC08=","queueTime":2,"applicationTime":18,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+  <script type="text/javascript">
+  try {
+    // https://developers.google.com/web/updates/2018/05/first-input-delay
+    !function(n,e){var t,o,i,c=[],f={passive:!0,capture:!0},r=new Date,a="pointerup",u="pointercancel";function p(n,c){t||(t=c,o=n,i=new Date,w(e),s())}function s(){o>=0&&o<i-r&&(c.forEach(function(n){n(o,t)}),c=[])}function l(t){if(t.cancelable){var o=(t.timeStamp>1e12?new Date:performance.now())-t.timeStamp;"pointerdown"==t.type?function(t,o){function i(){p(t,o),r()}function c(){r()}function r(){e(a,i,f),e(u,c,f)}n(a,i,f),n(u,c,f)}(o,t):p(o,t)}}function w(n){["click","mousedown","keydown","touchstart","pointerdown"].forEach(function(e){n(e,l,f)})}w(n),self.perfMetrics=self.perfMetrics||{},self.perfMetrics.onFirstInputDelay=function(n){c.push(n),s()}}(addEventListener,removeEventListener);
+    perfMetrics.onFirstInputDelay(function(delay, event) {
+      window.App = window.App || {}
+      window.App.firstInputDelay = {
+        type: event.type,
+        delay: delay,
+        timeStamp: window.performance ? performance.now() : new Date().getTime()
+      }
+    })
+  } catch (e) {}
+</script>
+
+  <title>
+  Privacy policy for our Site and Service - IFTTT
+</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta name="apple-mobile-web-app-capable" content="yes">
 
 <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="0N9Aby9fAuM008MAaRY9W4luD1Zb8pb5TihXQIZDg0cMImA0F/YS718r0ogEcyYjR2oF4NNsxOIKxnSMqJgNsA==">
-<link rel="stylesheet" media="all" href="//web-assets.ifttt.com/assets/application-00127a0a3983691bb705ead184eee6eb25e9276b99b135f5c18874fee0132d2b.css" data-turbolinks-track="true">
+<meta name="csrf-token" content="tpBn/EZUnV1jR1gjl5J/mwcmMKc6Sq0aG7Bgi+ZBZ5rc/d6xEf/WdLfLKse9wubf5+byjnDctCFynCwlr7YaTA==">
+<link rel="stylesheet" media="all" href="//web-assets.ifttt.com/assets/application-af563a7887df0b31180a67c0a97086493066befab5e8f5bbba2abdb286c3c3c3.css" data-turbolinks-track="true">
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.3.15/slick.css">
   <link rel="canonical" href="https://ifttt.com/privacy">
 
@@ -44,7 +61,7 @@
 <meta name="twitter:app:url:googleplay" content="ifttt://">
 <meta name="twitter:app:name:googleplay" content="IFTTT">
 <meta name="author" content="IFTTT">
-<meta name="copyright" content="Copyright 2018 IFTTT Inc.">
+<meta name="copyright" content="Copyright 2019 IFTTT Inc.">
 <meta name="theme-color" content="">
 <meta name="apple-itunes-app" content="app-id=660944635, affiliate-data=ct=website_banner&amp;pt=1752682, app-argument=ifttt://">
 
@@ -70,11 +87,13 @@
 <script type="text/javascript">
   (function() {
     var extra = {
-      authenticityToken: 'Mt5COrIHH82FcSe2gOYk1yX4kBmJQNQ43aegWkKQMzLuI2Jhiq4Pwe6JNj7tgz+v6/yarwHehiOZSYOWbEu9xQ==',
+      authenticityToken: 'iFecFDFUvy1ikThxdvExLZ46AW4nzhdm+GXhwi92aLziOiVZZv/0BLYdSpVcoahpfvrDR21YDl2RSa1sZoEVag==',
       env: 'production',
-      browserSessionId: 'FySkck22-S4XRg9X5TnCxA',
+      browserSessionId: 'xtKUTmeS15wDE18K2uJADg',
       userId: '',
-      userTimezoneOffset: 0
+      userTimezoneOffset: 0,
+      sentryDSNGrizzlyClient: 'https://c1fbe90be1dc431db7eb3c588070120d@sentry.io/1378269',
+      gMapsKey: 'AIzaSyDKZzIblOyHuDj6vK1m0Jan7PEi5tOIWfk'
     }
 
     if (!window.App) {
@@ -94,8 +113,6 @@
 
     analytics.ready(function() {
       analytics.user().traits({});
-        analytics.identify('', {anonymousId: '320fba04ccdd66ccf3448446083ba041'});
-        analytics.setAnonymousId('320fba04ccdd66ccf3448446083ba041')
     });
 
   </script>
@@ -140,16 +157,16 @@
 </header>
 
 
-  <div id="flash-messages">
-    
-  </div>
+    <div id="flash-messages">
+      
+    </div>
 
   
 
   <main class="container web">
       
 
-<div class="privacy-policy">
+<div class="terms-merged-page privacy-policy">
   <h1>Privacy Policy</h1>
 
   <p class="as-of-date">As of July 20th, 2018</p>
@@ -439,41 +456,43 @@
 
   
 
-    <footer class="site-footer">
-  <div class="container web">
-    <ul>
-      <li><a href="/about">About</a></li>
-      <li><a href="https://ifttt.com/blog">Blog</a></li>
-      <li><a href="https://help.ifttt.com">Help</a></li>
-      <li><a href="/jobs">Jobs</a></li>
-      <li><a href="/terms">Terms</a></li>
-      <li><a href="/privacy">Privacy</a></li>
-      <li><a href="/trust">Trust</a></li>
-    </ul>
+      <footer class="site-footer">
+    <div class="container web">
+      <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="https://help.ifttt.com">Help</a></li>
+        <li><a href="/jobs">Jobs</a></li>
+        <li><a href="/terms">Terms</a></li>
+        <li><a href="/privacy">Privacy</a></li>
+        <li><a href="/trust">Trust</a></li>
+      </ul>
 
 
-    <span class="partner-text">
-      <a data-track-event="web.footer.platform_link.clicked" href="https://platform.ifttt.com/">Build your own service and Applets</a>
-    </span>
-    <div class="partner-button btn btn-outlined btn-sm">
-      <a class="logo" href="https://platform.ifttt.com/">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 267.52 43.64" role="img" aria-labelledby="title_platform_button desc_platform_button" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style>.cls-1{fill:none;}.cls-2{fill:#333;}.cls-3{clip-path:url(#clip-path);}.cls-4{fill:#09f;}.cls-5{clip-path:url(#clip-path-2);}.cls-6{fill:#e43;}.cls-7{clip-path:url(#clip-path-3);}</style>
+      <span class="partner-text">
+        <a data-track-event="web.footer.platform_link.clicked" href="https://platform.ifttt.com/">Build your own service and Applets</a>
+      </span>
+      <div class="partner-button btn btn-outlined btn-sm">
+        <a class="logo" href="https://platform.ifttt.com/">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 267.52 43.64" role="img" aria-labelledby="title_platform_button desc_platform_button" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style>.cls-1{fill:none;}.cls-2{fill:#333;}.cls-3{clip-path:url(#clip-path);}.cls-4{fill:#09f;}.cls-5{clip-path:url(#clip-path-2);}.cls-6{fill:#e43;}.cls-7{clip-path:url(#clip-path-3);}</style>
 <clipPath id="clip-path"><rect id="SVGID" class="cls-1" x="6.82" y="6.82" width="30" height="30"></rect></clipPath><clipPath id="clip-path-2"><rect id="SVGID-2" data-name="SVGID" class="cls-1" x="6.82" y="25.91" width="30" height="10.91"></rect></clipPath><clipPath id="clip-path-3"><rect id="SVGID-3" data-name="SVGID" class="cls-1" x="25.91" y="25.91" width="10.91" height="10.91"></rect></clipPath></defs><title id="title_platform_button">Visit the IFTTT Platform</title>
 <desc id="desc_platform_button">Button for visiting the IFTTT platform page</desc><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-2" d="M190.57,26.11a4.76,4.76,0,0,1-.5,2.28,4.13,4.13,0,0,1-1.35,1.5,6,6,0,0,1-2,.83,10.08,10.08,0,0,1-2.32.26h-1.86v5.83h-3.74V21.35h5.68a10.71,10.71,0,0,1,2.37.25,5.6,5.6,0,0,1,1.92.81,3.91,3.91,0,0,1,1.29,1.46A4.83,4.83,0,0,1,190.57,26.11Zm-3.74,0a1.66,1.66,0,0,0-.22-.9,1.53,1.53,0,0,0-.59-.55,2.56,2.56,0,0,0-.84-.26,7.08,7.08,0,0,0-1-.07h-1.64V28h1.57a5.59,5.59,0,0,0,1-.09,2.69,2.69,0,0,0,.86-.31,1.64,1.64,0,0,0,.6-.58A1.72,1.72,0,0,0,186.83,26.14Z"></path><path class="cls-2" d="M192.24,36.82V20.3h3.65V36.82Z"></path><path class="cls-2" d="M198.39,27.43A6.28,6.28,0,0,1,200.62,26a7.68,7.68,0,0,1,2.61-.46,7,7,0,0,1,2.33.34,3.47,3.47,0,0,1,1.54,1,4.48,4.48,0,0,1,.86,1.79,10.62,10.62,0,0,1,.27,2.57v5.48H205V35.66h-.07a2.7,2.7,0,0,1-1.26,1,4.48,4.48,0,0,1-1.82.37,5.58,5.58,0,0,1-1.35-.17,4,4,0,0,1-1.28-.57,3.08,3.08,0,0,1-.95-1,3.22,3.22,0,0,1-.37-1.62,2.74,2.74,0,0,1,.64-1.9,4.23,4.23,0,0,1,1.66-1.11,8.79,8.79,0,0,1,2.26-.52,23.15,23.15,0,0,1,2.43-.13v-.17a1.33,1.33,0,0,0-.57-1.19,2.45,2.45,0,0,0-1.4-.38,3.49,3.49,0,0,0-1.48.33,4.7,4.7,0,0,0-1.21.79ZM205,32.08h-.46q-.59,0-1.19.05a4.92,4.92,0,0,0-1.07.21,2,2,0,0,0-.78.45,1,1,0,0,0-.31.78.94.94,0,0,0,.14.52,1.11,1.11,0,0,0,.36.35,1.52,1.52,0,0,0,.5.19,2.87,2.87,0,0,0,.55.05,2.21,2.21,0,0,0,1.67-.6,2.24,2.24,0,0,0,.58-1.63Z"></path><path class="cls-2" d="M214.79,28.61v4.17a1.88,1.88,0,0,0,.29,1.15,1.27,1.27,0,0,0,1.06.38,3.73,3.73,0,0,0,.56,0,1.89,1.89,0,0,0,.49-.13l0,2.62a5.91,5.91,0,0,1-.94.23,6.63,6.63,0,0,1-1.14.1,5.33,5.33,0,0,1-1.84-.27,2.83,2.83,0,0,1-1.19-.79,3.06,3.06,0,0,1-.64-1.23,5.94,5.94,0,0,1-.2-1.59v-4.6h-1.75V25.94h1.73V23.08h3.52v2.86h2.56v2.67Z"></path><path class="cls-2" d="M227.13,22.95a3.15,3.15,0,0,0-.46-.11,3.21,3.21,0,0,0-.52,0,1.62,1.62,0,0,0-.81.17,1.3,1.3,0,0,0-.48.47,2,2,0,0,0-.24.67,4.17,4.17,0,0,0-.07.74v1.09H227v2.67h-2.43v8.22H221V28.61h-2V25.94h2v-1a8.12,8.12,0,0,1,.22-1.91,4.12,4.12,0,0,1,.75-1.6,3.67,3.67,0,0,1,1.44-1.09,5.56,5.56,0,0,1,2.26-.4,7.54,7.54,0,0,1,.91.05,5.17,5.17,0,0,1,.82.16Z"></path><path class="cls-2" d="M239.87,31.34a5.87,5.87,0,0,1-.48,2.41,5.41,5.41,0,0,1-1.31,1.84,6,6,0,0,1-1.92,1.17,6.75,6.75,0,0,1-4.67,0,5.83,5.83,0,0,1-1.92-1.17,5.48,5.48,0,0,1-1.3-1.84,5.89,5.89,0,0,1-.48-2.41,5.82,5.82,0,0,1,.48-2.4,5.39,5.39,0,0,1,1.3-1.81A5.65,5.65,0,0,1,231.49,26a7.12,7.12,0,0,1,4.67,0,5.79,5.79,0,0,1,1.92,1.14,5.33,5.33,0,0,1,1.31,1.81A5.8,5.8,0,0,1,239.87,31.34Zm-3.45,0a3.09,3.09,0,0,0-.17-1,2.73,2.73,0,0,0-.5-.88,2.56,2.56,0,0,0-.81-.62,2.7,2.7,0,0,0-2.23,0,2.43,2.43,0,0,0-.8.62,2.65,2.65,0,0,0-.48.88,3.29,3.29,0,0,0,0,2.05,2.81,2.81,0,0,0,.49.91,2.42,2.42,0,0,0,.81.64,2.71,2.71,0,0,0,2.23,0,2.42,2.42,0,0,0,.81-.64,2.81,2.81,0,0,0,.49-.91A3.26,3.26,0,0,0,236.42,31.34Z"></path><path class="cls-2" d="M248.44,28.89a2.73,2.73,0,0,0-.47-.09l-.45,0a2.56,2.56,0,0,0-1.21.26,2.47,2.47,0,0,0-.79.63,2.37,2.37,0,0,0-.43.81,2.67,2.67,0,0,0-.13.76v5.58h-3.58V26h3.45v1.57h0a3.54,3.54,0,0,1,1.18-1.36,3,3,0,0,1,1.77-.53l.43,0a1.67,1.67,0,0,1,.34.07Z"></path><path class="cls-2" d="M263.94,36.82V30.88a5.86,5.86,0,0,0-.07-.89,2.16,2.16,0,0,0-.24-.73,1.39,1.39,0,0,0-.47-.49,1.44,1.44,0,0,0-.78-.19,1.56,1.56,0,0,0-.8.2,1.77,1.77,0,0,0-.57.52,2.29,2.29,0,0,0-.34.75,3.51,3.51,0,0,0-.11.88v5.88H257V30.62a2.61,2.61,0,0,0-.37-1.49,1.33,1.33,0,0,0-1.18-.55,1.52,1.52,0,0,0-1.32.68,2.85,2.85,0,0,0-.47,1.66v5.9H250V25.94h3.47v1.51h0a3.86,3.86,0,0,1,.49-.68,3.16,3.16,0,0,1,.71-.58,4,4,0,0,1,.93-.4,4.34,4.34,0,0,1,3.12.33,3.3,3.3,0,0,1,1.28,1.38,4.14,4.14,0,0,1,1.4-1.35,4,4,0,0,1,2.08-.5,3.92,3.92,0,0,1,1.87.4,3.47,3.47,0,0,1,1.21,1,4.34,4.34,0,0,1,.67,1.44,6.21,6.21,0,0,1,.21,1.56v6.73Z"></path><g class="cls-3"><rect class="cls-4" width="43.64" height="43.64"></rect></g><g class="cls-5"><rect class="cls-6" y="19.09" width="43.64" height="24.55"></rect></g><g class="cls-7"><rect class="cls-2" x="19.09" y="19.09" width="24.55" height="24.55"></rect></g><path class="cls-2" d="M57.27,6.82h9.55v30H57.27Zm38.18,0v9.55h6.82V36.82h9.55V16.36h6.82V6.82Zm25.91,0v9.55h6.82V36.82h9.55V16.36h6.82V6.82Zm25.91,0v9.55h6.82V36.82h9.55V16.36h6.82V6.82ZM92.73,16.36V6.82H70.91v30h9.55V28.64h8.18V19.09H80.45V16.36Z"></path></g></g></svg>
-</a>    </div>
-  </div>
-</footer>
+</a>      </div>
+    </div>
+  </footer>
 
 
   <script type="text/javascript" data-turbolinks-eval="true">
     (function() {
       window.App = window.App || {}
       window.App.user = null;
+
+      // TO DO: Remove this flag once the new site is launched
+      window.App.showIFTTTNext = false
     })();
   </script>
 
-  <script src="//web-assets.ifttt.com/assets/vendor-0ec0e05bb0de04f2bfb5a33fb35a769e3fe6d71a947c59b465412707388f8849.js" data-turbolinks-track="true" data-turbolinks-eval="false"></script>
-  <script src="//web-assets.ifttt.com/assets/application-334a3a60256e2852c84be28fc74e5f00ee4931c28c25dba857b1a9d78dc83b79.js" data-turbolinks-track="true" data-turbolinks-eval="false"></script>
+  <script src="//web-assets.ifttt.com/assets/vendor-9d649ae1ae0d5f1af7ff4b60fef46edaf2a96259b33a73bb8765bb4ee8e45511.js" data-turbolinks-track="true" data-turbolinks-eval="false"></script>
+  <script src="//web-assets.ifttt.com/assets/application-76b1b81940433cadd6a59e6ffbfbd96350720dd2ea07a0aff64e39645350400e.js" data-turbolinks-track="true" data-turbolinks-eval="false"></script>
 
   <script type="text/javascript" data-turbolinks-eval="false">
     $(document).on('turbolinks:load', function() {
@@ -486,7 +505,10 @@
         window.resizer("." + classes)
       })
 
-        window.App.Scripts.RubberBandPinchColor({checkPath: true})
+        window.App.Scripts.RubberBandPinchColor({
+          checkPath: !!!window.App.showIFTTTNext,
+          updateBottomBg: !!window.App.showIFTTTNext
+        })
     })
   </script>
 
