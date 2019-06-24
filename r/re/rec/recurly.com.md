@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recurly.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006152638id_/https%3A//recurly.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recurly.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624111243id_/https%3A//recurly.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | Recurly
 
@@ -100,9 +100,11 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 * * *
 
-## 8\. EU-U.S. Privacy Shield Framework
+## 8\. EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework
 
-Company complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union to the United States. Company has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. Company is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). As explained above, we sometimes provide Personal Information to third parties to perform services on our behalf. If we transfer Personal Information received under the Privacy Shield to a third party, the third party's access, use, and disclosure of the Personal Information must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
+Company complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Economic Area and Switzerland to the United States. Company has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
+
+Company is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). As explained above, we sometimes provide Personal Information to third parties to perform services on our behalf. If we transfer Personal Information received under the Privacy Shield to a third party, the third party's access, use, and disclosure of the Personal Information must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 * * *
 
@@ -254,11 +256,11 @@ Furthermore, if we choose to buy or sell assets, user information is typically o
 
 
 
-**Transfers of Personal Data:** The Services are hosted and operated in the United States (“U.S.”) through Company and its service providers, and laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Company in the U.S. and will be hosted on U.S. servers, and you authorize Company to transfer, store and process your information to and in the U.S., and possibly other countries. You hereby consent to the transfer of your data to the U.S. pursuant to _EU-US Privacy Shield Framework, the details of which are further set forth below_.
+**Transfers of Personal Data:** The Services are hosted and operated in the United States (“U.S.”) through Company and its service providers, and laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Company in the U.S. and will be hosted on U.S. servers, and you authorize Company to transfer, store and process your information to and in the U.S., and possibly other countries. You hereby consent to the transfer of your data to the U.S. pursuant to EU-US Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework, the details of which are further set forth below.
 
-Company has certified to the EU.-U.S. Privacy Shield Framework set forth by the U.S. Department of Commerce regarding the collection and use of Personal Data transferred from the EU. For more information about the Privacy Shield Program, and to view Company's certification, please visit www.privacyshield.gov. Company is committed to the Privacy Shield Principles of (1) notice, (2) consent, (3) accountability for onward transfer, (4) security, (5) data integrity and purpose limitation, (6) access and (7) recourse, enforcement and liability with respect to all Personal Data received from within the EU in reliance on the Privacy Shield. The Privacy Shield Principles require that we remain potentially liable if any third party processing Personal Data on our behalf fails to comply with these Privacy Shield Principles (except to the extent we are not responsible for the event giving rise to any alleged damage). Company's compliance with the Privacy Shield is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+Company has certified to the EU.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework set forth by the U.S. Department of Commerce regarding the collection and use of Personal Data transferred from the European Economic Area and Switzerland. For more information about the Privacy Shield Program, and to view Company's certification, please visit www.privacyshield.gov. Company is committed to the Privacy Shield Principles of (1) notice, (2) consent, (3) accountability for onward transfer, (4) security, (5) data integrity and purpose limitation, (6) access and (7) recourse, enforcement and liability with respect to all Personal Data received from within the European Economic Area and Switzerland in reliance on the Privacy Shield. The Privacy Shield Principles require that we remain potentially liable if any third party processing Personal Data on our behalf fails to comply with these Privacy Shield Principles (except to the extent we are not responsible for the event giving rise to any alleged damage). Company's compliance with the Privacy Shield is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
 
-Please contact us at compliance@recurly.com with any questions or concerns relating to our Privacy Shield Certification. [If you do not receive timely acknowledgment of your Privacy Shield-related complaint from us, or if we have not resolved your complaint, you may also resolve a Privacy Shield-related complaint through JAMS, an alternative dispute resolution provider located in the United States. You can visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information or to file a complaint, at no cost to you. Under certain conditions, you may also be entitled to invoke binding arbitration for complaints not resolved by other means.
+Please contact us at compliance@recurly.com with any questions or concerns relating to our Privacy Shield Certification. If you do not receive timely acknowledgment of your Privacy Shield-related complaint from us, or if we have not resolved your complaint, you may also resolve a Privacy Shield-related complaint through JAMS, an alternative dispute resolution provider located in the United States. You can visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint, at no cost to you. Under certain conditions, you may also be entitled to invoke binding arbitration for complaints not resolved by other means.
 
 **What If You Have Questions Regarding Your Personal Data?** If you have any questions about this section or our data practices generally, please contact us using the following information:
 
@@ -285,7 +287,7 @@ Am Sandtorkai 41
 20457 Hamburg  
 Tel +49 40 36803-0  
 Fax +49 40 36803-280  
-[www.taylorwessing.com](https://web.archive.org/web/20181006152638id_/https%3A//recurly.com/legal/www.taylorwessing.com)
+[www.taylorwessing.com](https://www.taylorwessing.com/)
 
 1 If applicable, indicate whether it came from publicly accessible sources. Art. 14(2)(f); where the personal data are not collected from the data subject, any available information as to their source.
 
@@ -295,8 +297,10 @@ Fax +49 40 36803-280
 
 4 The GDPR requires a company to retain a DPO only when its “core activities” involve “large-scale,” “regular and systematic monitoring” of EU subjects (Art. 37). Although this definition is unclear, it has been interpreted to apply to companies with “loyalty” and similar programs. In any case, because Member States may independently require a DPO for other circumstances (Art. 37(4)), companies with a broad EU presence may want to retain a DPO to ensure compliance across the board. If a DPO is required, its contact information should be disclosed here. (Art. 13(1)(b)).
 
+[Recurly Data Processing Agreement](https://info.recurly.com/hubfs/legal/Recurly-EU-Personal-Data-Processing-Agreement.pdf)
+
 [List of Sub-Processors](https://web.archive.org/legal/privacy/subprocessors)
 
 * * *
 
-Last Updated: May 2018
+Last Updated: December 2018
