@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindbodygreen.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231121605id_/https%3A//www.mindbodygreen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindbodygreen.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624220735id_/https%3A//www.mindbodygreen.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - mindbodygreen - mindbodygreen
+# Privacy Policy - mindbodygreen
 
 The following Privacy Policy summarizes the various ways that mindbodygreen, LLC ("Service Provider", "we" or "our") treats the information you provide while using www.mindbodygreen.com (Website). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
