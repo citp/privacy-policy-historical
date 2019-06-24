@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the servicemagic.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815112027id_/https%3A//www.homeadvisor.com/rfs/aboutus/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicemagic.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624032101id_/https%3A//www.homeadvisor.com/rfs/aboutus/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # HomeAdvisor - Privacy Policy
 
 |  HomeAdvisor Privacy Policy  
   
-Your Privacy Rights - Last Updated: February 20, 2015  
+Your Privacy Rights - Last Updated: June 21, 2019  
   
 HomeAdvisor respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of [www.homeadvisor.com](http://www.homeadvisor.com/) (and all websites and URL's controlled or operated by HomeAdvisor, Inc. which link to this policy, unless otherwise specified) or our services, or otherwise provide us with information through various means the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
@@ -26,6 +26,7 @@ _Use of cookies and other technologies to collect information._ We use various t
   * **Cookies.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
   * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
   * **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies or web beacons, to collect information about users who view or interact with their advertisements. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+  * This site is being monitored by one or more third-party monitoring software(s), and may capture information about your visit that will help us improve the quality of our service. You may opt-out from the data that SmartPiXL is collecting on your visit through a universal consumer options page located at <https://smart-pixl.com/Unsub/Unsub.html>
 
   
 **_How we use the information we collect_** _In general._ We may use information that we collect about you to: 
