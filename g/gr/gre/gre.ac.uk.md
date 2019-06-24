@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429143735id_/https%3A//www.gre.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624225209id_/https%3A//www.gre.ac.uk/privacy) for the most accurate reproduction.*
 
-# Privacy and cookies | University of Greenwich
+# Privacy | About the university | University of Greenwich
+
+## Cookies
 
 Cookies are temporary files websites use to help them improve your browsing experience. 
 
@@ -39,7 +41,7 @@ You can find out more about cookies and Google Analytics, on the  [Google websi
 
 ### Targeted advertising
 
-We pay for adverts to increase awareness of our services. Some of these are 'targeted' at people who have been on our site before, or have viewed other relevant sites. To do this we provide information to the advertising company by placing a small pixel on certain pages. This information can't be used to identify you. You can find out more about our targeted advertising, and switch it off in your browser, at the [Specific Media website](http://specificmedia.com/privacy).
+We pay for adverts to increase awareness of our services. Some of these are 'targeted' at people who have been on our site before, or have viewed other relevant sites. To do this we provide information to the advertising company by placing a small pixel on certain pages. This information can't be used to identify you.
 
 ## Personal data
 
@@ -51,6 +53,6 @@ To monitor our website use, our web servers collect anonymous information such a
 
 By using any page on our website, or our services, you are agreeing to us collecting your personal information.
 
-We always process personal data in accordance with the Data Protection Act 1998. To find out more, visit our [information compliance](https://www.gre.ac.uk/about-us/governance/information-compliance) pages. To find out how you can amend any errors in the personal information held about you, please e-mail [compliance@gre.ac.uk](mailto:compliance@gre.ac.uk).
+We always process personal data in accordance with Data Protection legislation. To find out more, visit our [information compliance](https://www.gre.ac.uk/about-us/governance/information-compliance) pages. To find out how you can amend any errors in the personal information held about you, please e-mail [compliance@gre.ac.uk](mailto:compliance@gre.ac.uk).
 
 This privacy statement only applies to this website – not to websites we provide links to.
