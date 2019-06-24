@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the projectbubble.com privacy policy that was archived on 2018-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181219025616id_/https%3A//www.proprofs.com/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the projectbubble.com privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624184733id_/https%3A//www.proprofs.com/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -16,6 +16,7 @@
 <link rel="stylesheet" type="text/css" href="css/gdpr.css?v=5">
 <link rel="stylesheet" type="text/css" href="/products/header-footer.css?v=8">
 <link rel="stylesheet" type="text/css" href="/api/includes/global/css/bootstrap-responsive.min.css?v=27" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/api/includes/global/css/product-popup.css?v=17">
 
 <script type="text/javascript" async="" src="https://s01.live2support.com/js/lsjs1.php?stid=1&amp;jqry=Y&amp;l2stxt="></script><script src="/api/includes/global/js/jquery.magnific-popup.min.js?v=2"></script><script src="/api/includes/global/js/bootstrap.js?v=4"></script><script src="/api/includes/global/js/jquery.bxslider.min.js?v=3"></script><script src="/api/includes/global/js/header.js?v=75"></script><script src="/api/fancybox2/jquery.fancybox.pack.js?v=2.0.4"></script><script src="/api/fancybox2/jquery.mousewheel-3.0.6.pack.js"></script></head><body><a rel="author" href="https://plus.google.com/115671742810361589850/?rel=author"></a>
 <noscript>
@@ -27,7 +28,7 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Roboto:300,400,500,700" media="all"><link rel="stylesheet" href="/api/fancybox2/jquery.fancybox.min.css?v=4" media="all"><link rel="stylesheet" href="/pp_responsive_home/login_popup.css?v=46" media="all"><link rel="stylesheet" href="/pp_responsive_home/css/magnific-popup.css?v=1" media="all"><link rel="stylesheet" href="/api/includes/global/css/product-popup.css?v=2" media="all"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-D2VF"></script><script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Roboto:300,400,500,700" media="all"><link rel="stylesheet" href="/api/fancybox2/jquery.fancybox.min.css?v=4" media="all"><link rel="stylesheet" href="/pp_responsive_home/login_popup.css?v=46" media="all"><link rel="stylesheet" href="/pp_responsive_home/css/magnific-popup.css?v=1" media="all"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-D2VF"></script><script>
     (function (b, m, h, a, g) {
         b[a] = b[a] || [];
         b[a].push({
@@ -59,9 +60,6 @@ loadCSS("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Robot
 loadCSS("/api/fancybox2/jquery.fancybox.min.css?v=4");
 loadCSS("/pp_responsive_home/login_popup.css?v=46");
 loadCSS("/pp_responsive_home/css/magnific-popup.css?v=1");  
-loadCSS("/api/includes/global/css/product-popup.css?v=2");  
-
-
 </script>
 <style type="text/css">
     
@@ -92,7 +90,92 @@ loadCSS("/api/includes/global/css/product-popup.css?v=2");
 </style>
 
 
-<header class="header">
+<style>
+    .wrapper-cookie {
+        height: auto;
+        position: fixed;
+        padding: 2px 0;
+        width: 100%;
+        z-index: 120;
+        text-align: center;
+        font-size: 10px;
+        line-height: 16px;
+        display: none;
+        background-color: #f9f9f9;
+        top: 0;
+    }
+
+
+    .wrapper-cookie p,
+    .wrapper-cookie a {
+        margin: 0;
+        font-weight: 400;
+        display: inline-block;
+        font-size: 10px;
+        line-height: 14px;
+    }
+
+    .wrapper-cookie p {
+        color: #262627;
+    }
+
+    .wrapper-cookie button {
+        background:url("data:image/svg+xml;charset=UTF-8, %3csvg width='10' height='10' xmlns='http://www.w3.org/2000/svg'%3e%3cg stroke='%23262627' stroke-width='1' fill='none' fill-rule='evenodd'%3e%3cpath d='M1 1l8 8M9 1L1 9'/%3e%3c/g%3e%3c/svg%3e") no-repeat 50%;
+        position: absolute;
+        top: 0;
+        right: 16px;
+        width: 24px;
+        height: 14px;
+        margin: auto;
+        border: 0;
+        -webkit-appearance: none;
+        background-size: 12px;
+        bottom: 0;
+    }
+    .wrapper-cookie .row{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .cookiePolicyClass {
+        margin-top: 36px;
+    }
+    
+   .wrapper-cookie .container{position: static;}
+.cookiePolicyClass .navbar-inner.header-fixed {
+    margin-top: 36px;
+}
+    @media screen and (min-width:768px) {
+        .wrapper-cookie p {
+            font-size: 11px;
+            line-height: 32px;
+        }
+    }
+      @media screen and (max-width:767px) {
+        .wrapper-cookie p {
+            width:80%
+        }
+        .cookiePolicyClass .navbar-inner.header-fixed,.cookiePolicyClass {
+            margin-top: 33px;
+        }
+    }  
+       @media screen and (max-width:439px) {
+        .cookiePolicyClass .navbar-inner.header-fixed,.cookiePolicyClass {
+            margin-top:47px !important;
+        }
+    }     
+
+</style>
+<div class="wrapper-cookie wrapperGray" id="cookie-message" style="display: block;">
+<div class="row">
+<div class="container">
+<div class="center no-padd">
+<p>This website uses cookies to ensure you get the best experience. By continuing to browse the site you consent to the use of cookies. <a href="/policies/privacy/" target="_blank">Learn more</a></p>
+<button id="consent-ok"></button>
+</div>
+</div>
+</div>
+</div>
+<header class="header cookiePolicyClass">
 <div class="navbar-inner">
 <div class="container">
 <div class="logo" itemscope="" itemprop="organization" itemtype="https://schema.org/Organization">
@@ -130,7 +213,7 @@ loadCSS("/api/includes/global/css/product-popup.css?v=2");
 <li id="cards"><a title="ProProfs Flashcards" href="/flashcards/">Flashcards</a></li>
 <li id="discuss"><a href="/discuss/" title="ProProfs Discuss">Discuss</a></li>
 <li id="games"><a title="ProProfs Brain Games" href="/games/">Brain Games</a></li>
-<li id="showcase"><a title="See All" href="/products.shtml">See All</a></li>
+<li id="showcase"><a title="See All" href="/products/">See All</a></li>
 <li class="divider"></li>
 <li><a href="https://www.proprofs.com">ProProfs.com</a></li>
 </ul>
@@ -142,7 +225,7 @@ loadCSS("/api/includes/global/css/product-popup.css?v=2");
 <ul>
 <li><a title="Quiz" href="/quiz-school/signup/business/">Quiz</a></li>
 <li><a title="Quiz + Training" href="/training/signup/business/">Quiz + Training</a></li>
-<li><a title="Survey" href="/survey/signup/business/">Survey</a></li>
+<li><a title="Survey Maker" href="/survey/signup/business/">Survey Maker</a></li>
 <li><a title="Knowledge Base" href="/knowledgebase/signup/business/">Knowledge Base</a></li>
 <li><a href="/chat/pricing/" title="Live Chat ">Live Chat</a></li>
 <li><a href="/project/pricing/" title=" ProProfs Project">Project</a></li>
@@ -158,23 +241,23 @@ loadCSS("/api/includes/global/css/product-popup.css?v=2");
 <ul>
 <li class="soln-actv"><a href="/training/solutions/" title="Training"> Training</a></li>
 <li><a href="/training/lms-software/" title="Learning Management">Learning Management</a></li>
-<li><a href="/training/e-learning-authoring/" title="eLearning">eLearning</a></li>
-<li><a href="/training/employee-training/" title="Employee">Employee</a></li>
-<li><a href="/training/employee-training/online-compliance-training-software/" title="Compliance">Compliance</a></li>
-<li><a href="/training/employee-training/osha-safety-compliance-training/" title="OSHA"> OSHA</a></li>
-<li><a href="/training/employee-training/online-HR-training-course-software/" title="HR">HR</a></li>
-<li><a href="/training/employee-training/online-sexual-harassment-training/" title="Sexual Harassment">Sexual Harassment</a></li>
-<li><a href="/training/employee-training/online-customer-service-training/" title="Customer Service"> Customer Service</a></li>
+<li><a href="/training/solutions/e-learning-authoring-software/" title="eLearning">eLearning</a></li>
+<li><a href="/training/solutions/employee-training-software/" title="Employee">Employee</a></li>
+<li><a href="/training/solutions/compliance-training-software/" title="Compliance">Compliance</a></li>
+<li><a href="/training/solutions/osha-safety-compliance-training-software/" title="OSHA"> OSHA</a></li>
+<li><a href="/training/solutions/hr-training-software/" title="HR">HR</a></li>
+<li><a href="/training/solutions/sexual-harassment-training-software/" title="Sexual Harassment">Sexual Harassment</a></li>
+<li><a href="/training/solutions/customer-service-training-software/" title="Customer Service"> Customer Service</a></li>
 </ul>
 </div>
 <div class="dropdwn-row soln-drp sln-rt">
 <ul>
 <li class="soln-actv"><a href="/quiz-school/markets/" title="Quiz"> Quiz</a></li>
-<li><a href="/quiz-school/testing/online-test-maker/" title="Online Test"> Online Test</a></li>
-<li><a href="/quiz-school/exam/online-exam-software/" title="Exam Software">Exam Software</a></li>
-<li><a href="/quiz-school/assessment/online-assessment-software/" title="Online Assessment"> Online Assessment</a></li>
+<li><a href="/quiz-school/online-test-maker/" title="Online Test"> Online Test</a></li>
+<li><a href="/quiz-school/online-exam-software/" title="Exam Software">Exam Software</a></li>
+<li><a href="/quiz-school/online-assessment-software/" title="Online Assessment"> Online Assessment</a></li>
 <li><a href="/quiz-school/markets/education/" title="Teaching">Teaching</a></li>
-<li><a href="/quiz-school/support/how-to/how-to-create-a-personality-quiz/" title="Personality">Personality</a></li>
+<li><a href="/quiz-school/create-personality-quiz/" title="Personality">Personality</a></li>
 </ul>
 </div>
 <div class="dropdwn-row soln-drp sln-last">
@@ -183,7 +266,7 @@ loadCSS("/api/includes/global/css/product-popup.css?v=2");
 <li><a href="/knowledgebase/integrations/" title="Easily Integrate ProProfs With Other Tools">Integrations</a></li>
 <li><a href="/knowledgebase/online-help-authoring-software/" title="Help Authoring Tools">Help Authoring Tools</a></li>
 <li><a href="/knowledgebase/context-sensitive-help-software/" title="Context Sensitive Help">Context Sensitive Help</a></li>
-<li><a href="/knowledgebase/online-software-documentation/" title="Online Documentation">Online Documentation</a></li>
+<li><a href="/knowledgebase/online-documentation/" title="Online Documentation">Online Documentation</a></li>
 <li><a href="/knowledgebase/knowledge-management-software/" title="Knowledge Management">Knowledge Management</a></li>
 <li><a href="/knowledgebase/wiki-software/" title="Wiki Software">Wiki Software</a></li>
 <li><a href="/knowledgebase/self-service-help-center/" title="Self Service Help Center">Self Service Help Center</a></li>
@@ -191,10 +274,12 @@ loadCSS("/api/includes/global/css/product-popup.css?v=2");
 </div>
 <div class="dropdwn-row soln-drp sln-last">
 <ul>
-<li class="soln-actv"><a href="/chat/" title="Live Chat"> Live Chat</a></li>
+<li class="soln-actv"><a href="/chat/solutions/" title="Live Chat"> Live Chat</a></li>
+<li><a href="/chat/automotive/" title="Automotive">Automotive</a></li>
 <li><a href="/chat/customer-service/" title="Customer Service">Customer Service</a></li>
 <li><a href="/chat/ecommerce/" title="Ecommerce">Ecommerce</a></li>
 <li><a href="/chat/education/" title="Education">Education</a></li>
+<li><a href="/chat/enterprise/" title="Enterprise">Enterprise</a></li>
 <li><a href="/chat/live-chat-sales/" title="Sales">Sales</a></li>
 <li><a href="/chat/travel/" title="Tour &amp; Travel">Tour &amp; Travel</a></li>
 </ul>
@@ -205,11 +290,11 @@ loadCSS("/api/includes/global/css/product-popup.css?v=2");
 <a data-hover="dropdown" data-toggle="dropdown" class="dropdown-toggle disabled" href="/c/" title="Blogs">Blogs <b class="caret mr-lt10"></b></a>
 <div class="dropdown-menu ">
 <ul>
-<li><a title="Customer Support" href="/c/category/live-chat/">Customer Support</a></li>
-<li><a title="Knowledge Management" href="/c/category/knowledge-base/">Knowledge Management</a></li>
+<li><a title="Customer Support" href="/c/category/customer-support/">Customer Support</a></li>
+<li><a title="Knowledge Management" href="/c/category/knowledge-management/">Knowledge Management</a></li>
 <li><a title="Learning &amp; Training" href="/c/category/lms/">Learning &amp; Training</a></li>
 <li><a title="Project Management" href="/c/category/project/">Project Management</a></li>
-<li><a title="News and Updates" href="/blog/">News and Updates</a></li>
+<li><a title="News and Updates" href="/c/category/news-and-updates/">News and Updates</a></li>
 </ul>
 </div>
 </li>
@@ -222,15 +307,14 @@ loadCSS("/api/includes/global/css/product-popup.css?v=2");
 <li><a title="Trust" href="/trust/">Trust</a></li>
 <li><a title="Awards" href="/awards/">Awards</a></li>
 <li><a title="Advertise" href="/advertise/">Advertise</a></li>
-<li><a title="Why ProProfs" href="/whyproprofs/">Why ProProfs</a></li>
 </ul>
 </div>
 </li>
 <li class="dropdown">
-<a data-hover="dropdown" data-toggle="dropdown" class="dropdown-toggle disabled" title="Contact Us" href="/contact.shtml">Contact Us <b class="caret mr-lt10"></b> </a>
+<a data-hover="dropdown" data-toggle="dropdown" class="dropdown-toggle disabled" title="Contact Us" href="/contact/">Contact Us <b class="caret mr-lt10"></b> </a>
 <div class="dropdown-menu ">
 <ul>
-<li><a title="Contact Us" href="/contact.shtml">Contact Us</a></li>
+<li><a title="Contact Us" href="/contact/">Contact Us</a></li>
 <li><a title="Help" href="/help/">Help</a></li>
 <li><a title="Suggestions" href="/suggestions/">Suggestions</a></li>
 </ul>
@@ -245,7 +329,7 @@ loadCSS("/api/includes/global/css/product-popup.css?v=2");
 </ul>
 </div>
 <a href="javascript:void(0);" class="login-sign-btn btn-orange loginsignup login_required" id="login" title="Login">Login</a>
- <span id="close">
+<span id="close">
 <img src="/api/includes/global/images/close-btn.png" alt="">
 </span>
 </div>
@@ -281,7 +365,7 @@ Batia Infotech
 <br>929 Colorado Ave
 <br>Santa Monica, CA 90401
 <br>
-<a href="mailto:privacy@proprofs.com">privacy@proprofs.com</a>
+<a href="/cdn-cgi/l/email-protection#dcacaeb5aabdbfa59cacaeb3acaeb3baaff2bfb3b1"><span class="__cf_email__" data-cfemail="afdfddc6d9ceccd6efdfddc0dfddc0c9dc81ccc0c2">[email&nbsp;protected]</span></a>
 <p></p>
 </div>
 <p>This privacy notice states our policies with respect to our website at the URL: <a href="https://www.proprofs.com/">www.ProProfs.com</a>, and any of its associated websites, including but not limited to live2support.com, helpdocsonline.com, and projectbubble.com, which Batia Infotech may change from time to time at its discretion, (collectively, the “Website”), the services offered thereby, and your personal data. It states what personal data (PD) and non-personal data (NPD) we may collect from you, how we collect it, how we protect it, how we may share it, how you can access and change it, and how you can limit our sharing of it. Our privacy notice also explains certain legal rights that you have with respect to your personal data. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website.
@@ -365,7 +449,7 @@ Batia Infotech
 <h6>Customer Support - Phone, Chat &amp; Email</h6>
 <p>Our website contains chat software that enable visitors to communicate with us live online or offline by email. In some cases, visitors can communicate with us without becoming a member or buying our products and services. When you use this chat software, we may collect some or all the following information: your email address, first name, last name, location, and any other information you willingly choose to provide to us. We also collect this type of information when you use our phone or email support. You should limit the information you provide to us that is only necessary to answer your questions.</p>
 <h6>Your California Privacy Rights</h6>
-<p>Under California Civil Code Section 1798.83 our customers and users who are California residents are permitted to request certain information about the types of information shared by Batia Infotech with third parties for their direct marketing purposes and the identities of those third parties. To make such a request, please send an email to: <a href="mailto:privacy@proprofs.com">privacy@proprofs.com</a></p>
+<p>Under California Civil Code Section 1798.83 our customers and users who are California residents are permitted to request certain information about the types of information shared by Batia Infotech with third parties for their direct marketing purposes and the identities of those third parties. To make such a request, please send an email to: <a href="/cdn-cgi/l/email-protection#b4c4c6ddc2d5d7cdf4c4c6dbc4c6dbd2c79ad7dbd9"><span class="__cf_email__" data-cfemail="85f5f7ecf3e4e6fcc5f5f7eaf5f7eae3f6abe6eae8">[email&nbsp;protected]</span></a></p>
 </div>
 <h2>Our Use of Cookies</h2>
 <p>Our website uses cookies. A cookie is a small piece of data or a text file that is downloaded to your computer or mobile device when you access certain websites. Cookies may contain text that can be read by the web server that delivered the cookie to you. The text contained in the cookie generally consists of a sequence of letters and numbers that uniquely identifies your computer or mobile device; it may contain other information as well. </p>
@@ -423,7 +507,7 @@ that we believe may be of interest to you</li>
 </ul>
 <div class="subheading">
 <h3>Communications and Emails</h3>
-<p>When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: <a href="mailto:privacy@proprofs.com">privacy@proprofs.com</a>
+<p>When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: <a href="/cdn-cgi/l/email-protection#0373716a7562607a4373716c73716c65702d606c6e"><span class="__cf_email__" data-cfemail="3a4a48534c5b59437a4a48554a48555c4914595557">[email&nbsp;protected]</span></a>
 </p>
 <h3>Sharing Information With Affiliates and Other Third Parties</h3>
 <p>We do not sell or rent your PD to third parties for marketing purposes. However, for data aggregation purposes we may use your NPD, which might be sold to other parties at our discretion. Any such data aggregation would not contain any of your PD. We may provide your PD to third-party service providers we hire to provide services to us. These third-party service providers may include but are not limited to: payment processors, web analytics companies, advertising networks, call centers, data management services, help desk providers, accountants, law firms, auditors, shopping cart and email service providers, and shipping companies.
@@ -442,7 +526,7 @@ We also retain the right to transfer your PD if our company files for bankruptcy
 <p>You can update your PD using services found on our website. If no such services exist, you can contact us using the contact information found at the top of this notice and we will help you. However, we may keep your PD as needed to enforce our agreements and to comply with any legal obligations.</p>
 <h2>Revoking Your Consent for Using Your PD </h2>
 <p>You have the right to revoke your consent for us to use your PD at any time. Such an opt out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates and business partners, (ii) disclosures to third-party service providers that provide certain services for our business, such as credit card processing, computer system services, shipping, data management services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept. If you want to revoke your consent for us to use your PD, send us an email with your request to:
-<a href="mailto:privacy@proprofs.com">privacy@proprofs.com</a></p>
+<a href="/cdn-cgi/l/email-protection#5323213a2532302a1323213c23213c35207d303c3e"><span class="__cf_email__" data-cfemail="80f0f2e9f6e1e3f9c0f0f2eff0f2efe6f3aee3efed">[email&nbsp;protected]</span></a></p>
 <h2>Protecting the Privacy Rights of Third Parties</h2>
 <p>If any postings you make on our website contain information about third parties, you must make sure you have permission to include that information in your posting. While we are not legally liable for the actions of our users, we will remove any postings about which we are notified, if such postings violate the privacy rights of others.</p>
 <h2>Do Not Track Settings</h2>
@@ -464,7 +548,7 @@ We also retain the right to transfer your PD if our company files for bankruptcy
 <h2>Changes to Our Privacy Notice</h2>
 <p>We reserve the right to change this privacy notice at any time. If our company decides to change this privacy notice, we will post those changes on our website so that our users and customers are always aware of what information we collect, use, and disclose. If at any time we decide to disclose or use your PD in a method different from that specified at the time it was collected, we will provide advance notice by email (sent to the email address on file in your account). Otherwise we will use and disclose our users’ and customers’ PD in agreement with the privacy notice in effect when the information was collected. In all cases, your continued use of our website, services, and products after any change to this privacy notice will constitute your acceptance of such change.</p>
 <h2>Questions About Our Privacy Notice</h2>
-<p>If you have any questions about our privacy notice, please contact us using the information at the top of this privacy notice or email us at <a href="mailto:privacy@proprofs.com">privacy@proprofs.com</a>.</p>
+<p>If you have any questions about our privacy notice, please contact us using the information at the top of this privacy notice or email us at <a href="/cdn-cgi/l/email-protection#b6c6c4dfc0d7d5cff6c6c4d9c6c4d9d0c598d5d9db"><span class="__cf_email__" data-cfemail="ddadafb4abbcbea49dadafb2adafb2bbaef3beb2b0">[email&nbsp;protected]</span></a>.</p>
 </section>
 </div>
 </div>
@@ -589,7 +673,7 @@ We also retain the right to transfer your PD if our company files for bankruptcy
 </div>
 </div>
 
-<script language="javascript" type="text/javascript">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script language="javascript" type="text/javascript">
  $(document).ready(function() {
 	$("#show_forget_password_instructions").live("click", function(e){
 	$.fancybox({
@@ -752,10 +836,10 @@ We also retain the right to transfer your PD if our company files for bankruptcy
 <div class="container">
 <div class="cpyright-con">
 <p>Copyright © 2005 -
-2018 ProProfs.com</p>
+2019 ProProfs.com</p>
 <ul class="social-links">
 <li><a href="https://www.facebook.com/proprofs" target="_blank" title="Follow us on facebook" class="fb-bg"><i class="icon-social-facebook"></i></a></li>
- <li><a href="https://www.linkedin.com/company/proprofs" target="_blank" title="Follow us on linkedIn" class="fa"><i class="icon-social-linkedin"></i></a></li>
+<li><a href="https://www.linkedin.com/company/proprofs" target="_blank" title="Follow us on linkedIn" class="fa"><i class="icon-social-linkedin"></i></a></li>
 <li><a href="https://twitter.com/proprofs" target="_blank" title="Follow us on twitter" class="tweet-bg"><i class="icon-social-twitter"></i></a></li>
 <li><a href="https://www.youtube.com/user/proprofs1" target="_blank" title="Follow us on Youtube" class="youtube-bg"><i class="icon-play3"></i></a></li>
 <li><a href="https://www.instagram.com/proprofsworld/?hl=en" target="_blank" title="Follow us on instagram" class="redit-bg"><i class="icon-instagram"></i></a></li>
@@ -768,6 +852,7 @@ We also retain the right to transfer your PD if our company files for bankruptcy
 </div>
 <script src="/api/includes/global/js/jquery.js"></script>
 <script type="text/javascript" src="/pp_responsive_home/login_main2.js?v=55"></script>
+<script src="/api/includes/global/popup/banner-cookie-policy/cookie-consent.js?v=6"></script>
 <script type="text/javascript">
     [
         '/api/includes/global/js/jquery.magnific-popup.min.js?v=2',
