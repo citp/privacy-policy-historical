@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibtimes.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231104240id_/https%3A//www.ibtimes.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibtimes.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624094136id_/https%3A//www.ibtimes.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@ This policy was last updated on June 30, 2015
 
 ##### Introduction
 
-IBT Media Inc. and its wholly owned subsidiaries (collectively, "Company," "us" or "we") respect your privacy and are committed to protecting it through our compliance with this policy.
+IBTimes LLC. and its wholly owned subsidiaries (collectively, "Company," "us" or "we") respect your privacy and are committed to protecting it through our compliance with this policy.
 
-This Privacy Policy describes how we may collect and use your personally identifiable information ("PII") (e.g., your full name, email address, mailing address, telephone number, or credit card number), as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data") on our Web sites and other applications. Our Websites include but are not limited to, IBTimes.com, Newsweek.com, MedicalDaily.com, iDigitalTimes.com, LatinTimes.com, FashionTimes.com, Fashionnstyle.com, BeautyWorldnews.com, Designntrend.com and DesignTimes.com.
+This Privacy Policy describes how we may collect and use your personally identifiable information ("PII") (e.g., your full name, email address, mailing address, telephone number, or credit card number), as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data") on our Web sites and other applications.
 
 This Policy applies to PII and Related Data (collectively, your "information") received by us from consumers when you visit, register or subscribe to this Website and related services or sites that link to this Privacy Policy. It also applies to information we collect:
 
@@ -141,11 +141,8 @@ You can set your browser to refuse all or some browser cookies, or to alert you 
 
 To opt out of receiving marketing from the Company or its Third Party Promotional partners, or to otherwise update your preferences, you must do so for each of our publications separately, as indicated below:
 
-### International Business Times Online and any other IBT Media properties (including Medical Daily Inc, Newsweek LLC, Fashion Times LLC)
+To opt out of receiving marketing from International Business Times Online notify us by contacting Customer Service at privacypolicy[at]ibtimes.com. Please include the phrase “Opt-Out” in the subject line of your communication to receive quicker service.
 
-To opt out of receiving marketing from International Business Times Online or other Company publications, except Newsweek, notify us by contacting Customer Service at privacypolicy[at]ibtimes.com. Please include the phrase “Opt-Out” in the subject line of your communication to receive quicker service.
-
-  * Newsweek: Subscribers to Newsweek may contact Customer Service at support[at]newsweek.com.
   * If you are a current subscriber of any of our publications, please remember to include your account number and phone number in the body of your e-mail or letter, and if you choose to opt-out via e-mail, please include "Opt-out" in the subject line
   * We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws.
   * We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
@@ -156,13 +153,9 @@ To opt out of receiving marketing from International Business Times Online or ot
 
 You may review and update the PII that you have provided to us by contacting Customer Service for each of our publications, as indicated below. Most subscribers also can update their information online by signing on to their accounts and visiting the appropriate account management sections. Please note that if you have subscribed or registered for our print and online editions, or for more than one of our publications or services, you must update your information for each separately.
 
-##### International Business Times Online and any other IBT Media properties:
+##### International Business Times Online and any other IBTimes LLC properties:
 
 Registered or non-registered users may contact Customer Service at info[at]ibtimes.com. Most users to International Business Times Online may also update their information by going to Member Center.
-
-##### Newsweek
-
-Subscribers to Newsweek may contact Customer Service at support[at]newsweek.com.
 
 ### SECURITY: WE PROTECT THE SECURITY OF PII
 
@@ -180,11 +173,11 @@ Your information may be stored and processed in the United States, in Slovakia o
 
 ### REMEDIES AND COMPLIANCE: HOW TO CONTACT US ABOUT PRIVACY CONCERNS
 
-If you have any questions, comments or concerns about our Privacy Policy or the Principles, please visit our CONTACT US page for IBT Media at [http://www.ibtimes.com/corporate/contact.](https://web.archive.org/corporate/contact)
+If you have any questions, comments or concerns about our Privacy Policy or the Principles, please visit our CONTACT US page for IBTimes at [https://www.ibtimes.com/corporate/contact.](https://web.archive.org/corporate/contact)
 
 ### Your California Privacy Rights
 
-Under the California "Shine The Light" law, California Civil Code Section § 1798.83 , California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at info[at]ibtimes.com for IBT Media properties or support[at]newsweek.com for Newsweek. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
+Under the California "Shine The Light" law, California Civil Code Section § 1798.83 , California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at info[at]ibtimes.com. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
 
 ### SAFE HARBOR PRIVACY PRINCIPLES
 
