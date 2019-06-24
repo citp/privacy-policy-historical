@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailystrength.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229174355id_/https%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystrength.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624191132id_/https%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sharecare
 
@@ -25,7 +25,7 @@ We collect information in the following ways:
   * **Information Provided to Us by Your Healthcare Provider or Third Party Lab.** When you participate in an Enterprise Program and are asked to obtain your health screening, we may receive information such as your biometric data and blood test data and results.
   * **Information from Other Sources.** We may obtain information about you from affiliates, partners, and other third parties. This information may be used to provide services to you and to provide analysis about you in comparison to people who are demographically similar to you. We may combine the information we obtain from third parties with information that we have collected about you.
   * **Information We Get from Your Use of Services.** We may collect information about the Services that you use and how you use them. This information includes:
-    * **Computer, Tablet, or Mobile Telephone information.** We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, device sensors and mobile network information including phone number) and device sensors and related .Sharecare may associate your device identifiers or phone number with your Sharecare Account. We will comply with the usage/license restrictions and requirements applicable to the device from which the information comes.
+    * **Computer, Tablet, or Mobile Telephone information.** We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, device sensors and mobile network information including phone number) and device sensors and related device hardware .Sharecare may associate your device identifiers or phone number with your Sharecare Account. We will comply with the usage/license restrictions and requirements applicable to the device from which the information comes.
     * **Information From Wearables** : When you connect your wearable fitness tracker, heart rate monitor, pedometer or other wearable technology (“Wearable”) with the Services, we collect information about your steps, fitness activities, exercise frequency, sleep, and information about nutrition, such as calorie intake, nutritional statistics, blood pressure, and other biometric data.
     * **Log information**. When you use our Services or view content provided by Sharecare, we may automatically collect and store certain information in server logs. This may include:
       * details of how you used our service.
@@ -103,7 +103,7 @@ People have different privacy concerns. Our goal is to be clear about what infor
 
 **Cookies**. You may also set your browser to block all cookies, including cookies associated with our Services, or to indicate when a cookie is being set by us. However, it's important to remember that many of our Services may not function properly if your cookies are disabled. For example, we may not remember your location preferences.
 
-**Advertising**. Unless you are receiving Services as part of an Enterprise Program, we also personalize your experience on our sites and mobile Services by showing you advertisements from Sharecare or our advertising partners that are tailored to your interests. [Learn more about interest-based advertising, including how to opt out](https://www.sharecare.com/static/ad-policy).
+**Advertising**. Unless you are receiving Services as part of an Enterprise Program, we also personalize your experience on our sites and mobile Services by showing you advertisements from Sharecare or our advertising partners that are tailored to your interests. [Learn more about interest-based advertising, including how to opt out](https://www.sharecare.com/static/ad-policy). Sharecare does not advertise, market, or promote products or services to patients, participants, or practitioners who receive Services as part of an Enterprise Program. In the event your health plan sponsor, employer, or health plan, through which you receive services, instructs us provide advertising content on this site, Sharecare would first obtain your valid authorization in compliance with applicable data privacy laws.
 
 **Information Shared By You**. Many of our Services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines. Our Services provide you with different options on sharing and removing your content.
 
@@ -115,7 +115,7 @@ People have different privacy concerns. Our goal is to be clear about what infor
 
 **When This Privacy Policy Applies**
 
-Our Privacy Policy applies to all of the Services offered by Sharecare Inc. and its affiliates, including Services offered on other sites, but excludes Services that have separate privacy policies that do not incorporate this Privacy Policy.
+Our Privacy Policy applies to all of the Services offered by Sharecare Inc. and its affiliates, including Services offered on other sites, but excludes Services that have separate privacy policies that do not incorporate this Privacy Policy and Services that you may receive as a result of your participation in an Enterprise Program that has a separate privacy policy.
 
 Our Privacy Policy does not apply to Services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Sharecare Services, or other sites linked from our Services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our Services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
 
@@ -135,4 +135,4 @@ California Do Not Track Notice. Some browsers have a "Do Not Track" feature that
 
 Our Privacy Policy may change from time to time. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. If we change this Privacy Policy, we will post any privacy policy changes on this page and, if the changes are material, we will provide a more prominent notice by sending you an email and/or posting a notice in the Services.Sharecare reserves the right to modify this Privacy Policy at any time, so please review it frequently.
 
-Last modified: February 13, 2018
+Last modified: December 31, 2018
