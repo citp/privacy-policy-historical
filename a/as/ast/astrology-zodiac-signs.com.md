@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrology-zodiac-signs.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924030528id_/https%3A//www.astrology-zodiac-signs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrology-zodiac-signs.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624060351id_/https%3A//www.astrology-zodiac-signs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Astrology-zodiac-signs.com
 
@@ -24,7 +24,7 @@ We may use the information we collect from you when you register, make a purchas
 
 ### DigiTrust
 
-We work with DigiTrust to set a first-party cookie in your browser to enable us and [DigiTrust Partners](http://www.digitru.st/participating-companies/) to collect web viewing data that includes visits to this website and non-affiliated websites over time. This data may be used to infer whether you share interests with other users, and deliver advertising relevant to those inferences. This type of advertising is called interest-based advertising. You can exercise choice about the collection of data in this way for interest-based advertising by visiting the Digital Advertising Alliance’s choice [page](http://www.aboutads.info/choices) and opting out from DigiTrust. Opting out from DigiTrust will stop DigiTrust Partners from using the DigiTrust identifier. Through the DAA choice [page](http://www.aboutads.info/choices), you may make other choices for companies that participate in the DAA, some of which are DigiTrust Partners. Please note that limiting third-party cookies via your browser controls does not prevent a first-party cookie from being set in this way.
+We work with DigiTrust to set a first-party cookie in your browser to enable us and [DigiTrust Partners](https://www.digitru.st/participating-companies/) to collect web viewing data that includes visits to this website and non-affiliated websites over time. This data may be used to infer whether you share interests with other users, and deliver advertising relevant to those inferences. This type of advertising is called interest-based advertising. You can exercise choice about the collection of data in this way for interest-based advertising by visiting the Digital Advertising Alliance’s choice [page](https://www.aboutads.info/choices) and opting out from DigiTrust. Opting out from DigiTrust will stop DigiTrust Partners from using the DigiTrust identifier. Through the DAA choice [page](https://www.aboutads.info/choices), you may make other choices for companies that participate in the DAA, some of which are DigiTrust Partners. Please note that limiting third-party cookies via your browser controls does not prevent a first-party cookie from being set in this way.
 
 ### How do we protect your information?
 
@@ -83,7 +83,7 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 ### California Online Privacy Protection Act
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
 According to CalOPPA, we agree to the following:  
 Users can visit our site anonymously.  
