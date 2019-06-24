@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the webceo.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134206id_/https%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webceo.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624232324id_/https%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
 
 # Web CEO Privacy Policy
 
-Web CEO LLC (hereinafter "Web CEO") is firmly committed to the privacy of its customers. Web CEO shall take all reasonable measures to have your personal information protected to ensure you feel safe and secure.
+Software Web CEO LLC (hereinafter "Web CEO") is firmly committed to the privacy of its customers. Web CEO shall take all reasonable measures to have your personal information protected to ensure you feel safe and secure.
 
 This Privacy Policy covers how Web CEO uses personal information that users provide to Web CEO when they use the WebCEO software service (hereinafter "WebCEO") through our software (cloud-based SEO platform) and our website located at https://www.webceo.com (the “Website”). Such service, the software and the Website are collectively referred to in this Privacy Policy as the “Service”. This Privacy Policy applies only to information that you provide to us through the Service. By using any of the services you accept the terms of our Privacy Policy.
 
 ### How We Collect and Use Your Information
 
-You can browse the Web CEO website, located at [//www.webceo.com](https://www.webceo.com/), without providing any personally identifying information.
+You can browse the Web CEO website, located at [https://www.webceo.com](https://www.webceo.com/), without providing any personally identifying information.
 
 To start using WebCEO, you will need to register at [https://online.webceo.com](https://online.webceo.com/) and provide some personal information such as a unique email address and password, or get authorized with your Facebook, Google, LinkedIn or Yahoo account. We may use your Personal Information to respond to an email or other inquiry or request, to help improve the Service, to customize your experience or to send updates or notices about the Service.
 
@@ -149,7 +149,7 @@ If you have any questions or comments about our Privacy Policy please contact us
 
 ### GDPR Compliance Statement
 
-On 25 May 2018, the EU General Data Protection Regulation (GDPR) replaces the existing 1995 EU Data Protection Directive (European Directive 95/46/EC). Web CEO LLC is committed to GDPR compliance. We have evaluated the new requirements and restrictions imposed by the GDPR and reviewed where and how we collect, use, store and dispose of personal data.
+On 25 May 2018, the EU General Data Protection Regulation (GDPR) replaces the existing 1995 EU Data Protection Directive (European Directive 95/46/EC). Software Web CEO LLC is committed to GDPR compliance. We have evaluated the new requirements and restrictions imposed by the GDPR and reviewed where and how we collect, use, store and dispose of personal data.
 
 When processing data, we aim to ensure the following:
 
@@ -181,4 +181,4 @@ We do care about the security of your data. Web CEO allows you to correct, amend
 
 
 
-You can call us at +0-800-404-8180 (UK toll-free). Our company’s registration address is Avtomshenebeli str., N 88, Kutaisi, 4545, Imereti, Georgia. Or email us with any questions to [support@webceo.com](mailto:support@webceo.com).
+You can call us at +995 599037304. Our company’s registration address is G.Chubinashvili 68 / 26, 0102, Tbilisi, Georgia. Or email us with any questions to [support@webceo.com](mailto:support@webceo.com).
