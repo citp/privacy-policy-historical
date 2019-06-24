@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architonic.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231172809id_/https%3A//www.architonic.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architonic.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625000428id_/https%3A//www.architonic.com/en/privacy) for the most accurate reproduction.*
 
 # Architonic | Privacy
 
@@ -114,6 +114,14 @@ Data Protection Officer
 Müllerstr. 71  
 8004 Zürich  
 Email: legal@architonic.com
+
+The Data Protection representative in the EU of Architonic AG is:  
+VGS Datenschutzpartner UG  
+Am Kaiserkai 69  
+20457 Hamburg  
+Germany  
+E-Mail: info@datenschutzpartner.eu  
+In order to answer your enquiry as quickly as possible, we recommend to send it by e-mail to: legal@architonic.com
 
  **11\. Changes to this Privacy Policy**  
 We expressly reserve the right to change this Privacy Policy declaration at any time. If adjustments are made, we will publish them immediately on our website. It is your responsibility to check the current version of the Privacy Policy on our website, therefore we recommend that you consult this declaration regularly.
