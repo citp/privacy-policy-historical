@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companycheck.co.uk privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113231916id_/https%3A//companycheck.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companycheck.co.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624045738id_/https%3A//companycheck.co.uk/privacy) for the most accurate reproduction.*
 
 # Company Check - Online Privacy Statement
 
