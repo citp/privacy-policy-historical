@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the airpush.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223210521id_/https%3A//airpush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airpush.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625015356id_/https%3A//airpush.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Airpush
 
-**Last Updated:  April 23, 2018**
+**Last Updated:  January 10th, 2019**
 
 [How We Collect Your Data](http://www.airpush.com/privacy-policy/#collection)  
 [Analytics Services Provided by Others](http://www.airpush.com/privacy-policy/#analytics)  
@@ -10,8 +10,7 @@
 [How We Share Your Data](http://www.airpush.com/privacy-policy/#sharing)  
 [Security and Integrity of Your Data](http://www.airpush.com/privacy-policy/#security)  
 [Access to Your Information and Your Choices Regarding Our Site](http://www.airpush.com/privacy-policy/#choices)  
-[Enforcement](http://www.airpush.com/privacy-policy/#enforcement)  
-[Privacy Complaints by European Economic Area Member Country Users](http://www.airpush.com/privacy-policy/#privacy)
+[Enforcement](http://www.airpush.com/privacy-policy/#enforcement)
 
 This Site Privacy Policy (“Policy”) explains how your information is collected, used and shared by Airpush, Inc. and its subsidiaries and affiliates (“Airpush”) when you visit our website at [www.airpush.com](http://www.airpush.com/) (“Site”). This Policy refers only to information we collect from advertisers, developers, and other parties that visit our Site. For information about how we collect, use and share information about consumers who have installed a mobile application that utilizes our mobile advertising services, please see our [Technology Privacy Statement](https://web.archive.org/technology-privacy).
 
@@ -109,13 +108,3 @@ Airpush, Inc.
 ATTN: Privacy  
 7900 E. Union Avenue, Suite 1100  
 Denver, CO 80237
-
-### **Privacy Complaints by European Union and Swiss Citizens**
-
-Airpush, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Airpush, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>. For further information on our certification under privacy shield, visit our [Privacy Shield Notice](http://www.airpush.com/privacy-shield).
-
-In compliance with the EU-US Privacy Shield Principles, Airpush, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this Statement should first contact Airpush at [privacy@airpush.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=privacy@airpush.com).
-
-Airpush, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint.
-
-Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
