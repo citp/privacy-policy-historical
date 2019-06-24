@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetreview.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208015445id_/http%3A//www.gadgetreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetreview.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624154905id_/http%3A//www.gadgetreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
