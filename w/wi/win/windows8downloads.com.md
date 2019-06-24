@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows8downloads.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113230402id_/https%3A//www.windows8downloads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows8downloads.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624185134id_/https%3A//www.windows8downloads.com/privacy.html) for the most accurate reproduction.*
 
 # Windows 8 Downloads - free Windows 8 software downloads
 
@@ -18,7 +18,7 @@ We may use third parties’ technology to operate and manage the download and in
 From time to time, Windows 8 Downloads or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use cookies to identify which areas of Windows 8 Downloads's Network of Web sites you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Sites. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/web/20181113230402id_/https%3A//www.windows8downloads.com/contact.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/web/20190624185134id_/https%3A//www.windows8downloads.com/contact.html).
 
 ## Saved Downloads
 
