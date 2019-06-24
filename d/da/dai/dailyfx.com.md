@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228154155id_/https%3A//www.dailyfx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624221856id_/https%3A//www.dailyfx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DailyFX
 
