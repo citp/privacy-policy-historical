@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106224205id_/http%3A//www.netzero.net/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624185202id_/https%3A//www.netzero.net/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
 
 # NetZero - Value-priced Internet Service Provider - ISP - Free, low-cost and HiSpeed Internet Access. - Privacy and Security
 
-Last Updated: November 12, 2014 
+Last Updated: January 3, 2018 
 
 Introduction: What This Privacy Policy Covers
 
@@ -18,7 +18,7 @@ NetZero, Inc. and NetZero Wireless, Inc. (" **NetZero** ", " **we** " or " **our
 
 
 
-This Policy applies to the Sites and Services only. When you visit websites to which we link, or if you click on third party advertisements that appear on our Sites, you will be interacting with a third party that operates under its own privacy and security policies. For example, a third party website will have its own policy regarding the use of cookies and web beacons or collection of your information. In addition, you may choose to use services and products offered by third parties through our Services or devices such as third party applications. Your use of such services and applications may result in these third parties collecting your personal information and obtaining information from NetZero, including location information (when applicable). You may also choose to give personal information directly to third parties when using such services. In each case, personal information you give a third party will be subject to its terms, conditions, and policies-not this policy. You should review a third party's privacy policy and terms of service before providing your information or using the service. We encourage you to review the privacy policies of any other website or application from which you request products or services. 
+This Policy applies to the Sites and Services only. When you visit websites to which we link, or if you click on third party advertisements that appear on our Sites, you will be interacting with a third party that operates under its own privacy and security policies. For example, a third party website will have its own policy regarding the use of cookies and web beacons or collection of your information. In addition, you may choose to use services and products offered by third parties through our Services or devices such as third party applications. Your use of such services and applications may result in these third parties collecting your personal information and obtaining information from NetZero, including location information (when applicable). You may also choose to give personal information directly to third parties when using such services. In each case, personal information you give a third party will be subject to its terms, conditions, and policies-not this policy. You should review a third party's privacy policy and terms of service before providing your information or using the service. We encourage you to review the privacy policies of any other website or application from which you request products or services. You can access and update most of your basic account information by visiting your account page. Because your privacy is important to us, we may ask you to verify your identity or provide additional information before we let you access or update your personal information. 
 
 I. Collection of Your Information
 
@@ -35,7 +35,7 @@ We collect information about you when you register for the Services, such as:
   * your occupation; and 
   * other household and demographic information.
 
-If you join one of our paid Services, we may also collect: 
+If you join one of our paid Services, we may also collect the following information which is necessary for the performance of the contract between you and NetZero: 
   * billing and payment information, such as your credit card number and billing address; and
   * your social security number or other government identification number.
 
@@ -58,18 +58,14 @@ We collect information from your access device and browser, including:
   * what type of browser you use;
   * software on your computer, mobile device or other similar device;
   * processor type;
-  * operating system;
-  * IP address;
-  * navigational data such as the URLs you visit and any searches you may perform; and
-  * mobile device location information.
+  * operating system; and
+  * IP address.
 
 As you browse and interact with our Sites or use our Services, we collect information related to your use of the Sites and Services, including: 
   * how often you visit the Sites;
   * how often you use the Services;
-  * how you navigate and conduct searches on our Sites;
-  * your interaction with advertisements and other links that are contained within our Sites;
-  * call and data usage and history, including information such as the numbers you call and when you call them, as well as the particular services you use, and other information found on your bill (" **Customer Proprietary Network Information** " or " **CPNI** "); and
-  * applications purchased, downloaded or used. 
+  * navigational data such the URLs you visit and searches you may perform; and
+  * your interaction with advertisements and other links that are contained within our Sites.
 
 Although we reserve the right to monitor Site or Service activity, we will not intentionally disclose any private email messages or online communication between you and a third party, except in the following circumstances: 
   * when we believe, in our sole discretion, you are acting in violation of our Terms of Service, our Acceptable Use Guidelines or any applicable law, rule or regulation; or
@@ -89,13 +85,19 @@ Cookies are small pieces of data that may be stored on your computer, mobile dev
 
 Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movement of users. Web beacons help us and our third party partners better manage content delivery by informing us when you are on our Sites and what content is effective. We also use web beacons in our emails to let us know which emails you have opened. 
 
+NetZero does not currently take action as to Do Not Track signals because a uniform technological standard has not been developed. 
+
 Please see Sections II and III of this Policy to see how we use, share and disclose information collected through technological methods. 
+
+**E. Retention of Information:**
+
+NetZero retains the information we collect for as long as necessary to (i) provide our services to you, (ii) comply with legal obligations, (iii) resolve disputes, and (iv) enforce our agreements. 
 
 II. Use, Sharing & Disclosure of Your Information
 
 **A. How we use your information:**
 
-We use the information we collect in a variety of ways, including: 
+We use the information we collect to achieve our legitimate interests, including: 
 
   * to operate and improve the Sites and Services;
   * to fulfill a transaction or request; 
@@ -105,9 +107,8 @@ We use the information we collect in a variety of ways, including:
   * to communicate with you; 
   * to offer you products and services including offers from our Affiliates or Advertisers;
   * to conduct research;
-  * to develop research reporting for us, our Affiliates and third party market research partners;
-  * to verify your identity, and help prevent fraud and identity theft; and
-  * in the case of mobile device location data, to provide our mobile voice and data services, emergency services, and our and third-party location-based applications and services such as navigation, weather, mapping and other applications or tools. 
+  * to develop research reporting for us, our Affiliates and third party market research partners; and
+  * to verify your identity, and help prevent fraud and identity theft.
 
 **B. How we share your information:**
 
@@ -123,7 +124,7 @@ Examples of third party partners include vendors who process credit cards paymen
 
 In addition, we may share information in the following circumstances: 
 
-  * without notice, to law enforcement or government agencies in response to subpoenas, court orders, or other legal process (including civil and criminal) or otherwise as required by law;
+  * without notice, to law enforcement or government agencies in response to subpoenas, court orders, or other legal process (including civil and criminal) or otherwise as necessary for compliance with a legal obligation to which we are subject;
   * in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person, or in cases where we believe the Terms of Service or Acceptable Use Guidelines are being violated; or
   * in connection with the actual or potential sale of our business. 
 
@@ -135,7 +136,7 @@ III. Targeted Advertising, Email & Opt-Outs
 
 We may display targeted advertisements to you while you are on and off our Sites based on information we obtain from you, about you, and/or from third parties. 
 
-We work with advertisers, agencies, and other companies that connect advertisers to the Internet (collectively, " **Advertisers** ") in order to display targeted advertisements to you while you are on and off our Sites. These advertisements are targeted based on information that we or third parties may have collected about you such as demographic information (gender, age, general geographic location, etc.) as well as behavioral information. Behavioral information is information about your preferences that is collected or inferred based on, among other things, online data such as the URLs or websites you visit and searches you perform, and offline data such as your purchases and subscriptions. 
+We work with advertisers, agencies, and other companies that connect advertisers to the Internet (collectively, " **Advertisers** ") in order to display targeted advertisements to you while you are on and off our Sites. These advertisements are targeted based on information that we or third parties may have collected about you such as demographic information (gender, age, general geographic location, etc.) as well as behavioral information. Behavioral information is information about your preferences that is collected or inferred based on, among other things, online data such as the URLs or websites you visit and searches you perform, and offline data such as your purchases and subscriptions. Information shared with Advertisers is pseudonymized prior to transfer. 
 
 We and our Advertisers may use technological methods to measure the effectiveness of advertisements and to personalize advertising content; for example, web beacons may enable us or our Advertisers to recognize your browser when you visit our Sites or when you open an email. In addition, a unique third party cookie may be placed or recognized on your browser when you visit our Sites or when you open an email. 
 
@@ -153,7 +154,7 @@ You may receive email advertisements and promotions from us, our Affiliates and 
 
 Since it is necessary for us to contact you regarding certain matters, you may not opt out of receiving messages related to material company announcements or policy changes, or administrative matters relating to your account, like billing, collections, customer service or similar matters. 
 
-If you subscribe to a free or discounted version of a Service, you acknowledge that as a condition of receiving such free or discounted Service, you are required to receive information and advertising solicitations from third party Advertisers. You may opt out of receiving such communications from the Advertiser by following the instructions provided by the Advertiser. These solicitations are a condition of receiving the free or discounted Service and you agree that if you opt out of receiving these solicitations you are required to terminate the relevant Service. 
+If you subscribe to a free or discounted version of a Service, you acknowledge that as a condition of receiving such free or discounted Service, you are required to receive information and advertising solicitations from third party Advertisers. You may opt out of receiving individual communications from each Advertiser by following the instructions provided by the Advertiser. These solicitations are a condition of receiving the free or discounted Service and you agree that if you opt out of receiving these solicitations you are required to terminate the relevant Service. 
 
 IV. How We Keep Your Information Secure
 
@@ -178,4 +179,4 @@ or
 
 VII. International Users
 
-The information we collect from users is processed and maintained in the United States, where privacy laws may not be as protective as in your home country. If you are using our Sites or Services from outside of the United States, by providing information to us you are consenting to the transfer of the information to the United States for processing in a manner consistent with this Policy. 
+The information we collect from users is processed and maintained in the United States, where privacy laws may not be as protective as in your home country. If you are using our Sites or Services from outside of the United States, by providing information to us you are consenting to the transfer of the information to the United States for processing in a manner consistent with this Policy. If you are accessing this website from a European Union member state, you have the right to object to the collection and processing of your personal data as set forth in this Privacy Policy, and if you wish to do so please notify us at [privacy@support.netzero.com](mailto:privacy@support.netzero.com). Please bear in mind that if you object this may affect our ability to provide you with the Services. 
