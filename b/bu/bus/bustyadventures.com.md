@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustyadventures.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191230id_/https%3A//bangbros.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustyadventures.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624221654id_/https%3A//bangbros.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
