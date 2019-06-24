@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the fullstory.com privacy policy that was archived on 2018-09-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180925080649id_/https%3A//www.fullstory.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fullstory.com privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624203442id_/https%3A//www.fullstory.com/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><head>
+<!DOCTYPE html><html class="no-js" lang="en"><head>
     <title>Privacy | Legal | FullStory</title>
     <meta content="#f8598b" name="theme-color">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -34,7 +34,7 @@
     <meta content="FullStory" name="application-name">
     <meta content="#FFFFFF" name="msapplication-TileColor">
     <meta content="https://www.fullstory.com/mstile-144x144.png" name="msapplication-TileImage">
-    <script type="text/javascript" async="" src="https://web.archive.org/web/20180413174219/https://sjs.bizographics.com/insight.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://web.archive.org/web/20180401060859/https://www.googletagmanager.com/gtm.js?id=GTM-TTK8T5R"></script><script src="/javascripts/gtm_header.js"></script><link href="/stylesheets/case-study.css" rel="stylesheet"><script>
+    <script src="https://d33wubrfki0l68.cloudfront.net/js/12cd805d267cc9075fb5c57133d253a691a7479e/javascripts/gtm_header.js"></script><link rel="stylesheet" href="https://d33wubrfki0l68.cloudfront.net/css/e5f17fe0677da2f3fa6f08e33ca4a25899ad0d33/stylesheets/case-study.css"><script>
       if ((location.host == 'fullstory.com') || (location.host == 'www.fullstory.com')) {
     
       window['_fs_debug'] = false;
@@ -54,41 +54,101 @@
       })(window,document,window['_fs_namespace'],'script','user');
     }
     
+    window['_fs_clearbit'] = function(a) {
+      function isArray(a) {
+        return Object.prototype.toString.call(a) === '[object Array]'
+      }
+      if (window.dataLayer && isArray(window.DataLayer) && window.dataLayer.length) {
+        for (var i = 0; i < window.dataLayer.length; i++) {
+          var d = window.dataLayer[i];
+          if (d.Type && d.Type === 'Clearbit' && d.reveal) {
+            try {
+              if (!d.reveal.company) return;
+              FS.setUserVars({
+                'alexaGlobalRank_int': d.reveal.company.metrics.alexaGlobalRank,
+                'alexaUsRank_int': d.reveal.company.metrics.alexaUsRank,
+                'coCountry_str': d.reveal.company.geo.country,
+                'coDomain_str': d.reveal.domain,
+                'employeeRange_str': d.reveal.company.metrics.employeesRange,
+                'employees_int': d.reveal.company.metrics.employees,
+                'coEstArr_str': d.reveal.company.metrics.estimatedAnnualRevenue,
+                'coFunding_int': d.reveal.company.metrics.raised,
+                'coIndustry_str': d.reveal.company.category.industry, 
+                'coIndustryGrp_str': d.reveal.company.category.industryGroup,
+                'coName_str': d.reveal.company.name,
+                'coSector_str': d.reveal.company.category.sector,
+                'coSicCode_str': d.reveal.company.category.sicCode,
+                'coState_str': d.reveal.company.geo.stateCode,
+                'coSubindustry_str': d.reveal.company.category.subIndustry, 
+                'coType_str': d.reveal.company.type,
+                'coTags_str': isArray(d.reveal.company.tags) ? d.reveal.company.tags.join(',') : ''
+              });
+            } catch (e) {
+              return;
+            }
+          }
+        }
+      }
+      if (a < 5) setTimeout(window['_fs_clearbit'].bind(window, a+1), 2000);
+    };
+    
     window['_fs_ready'] = function() {
       if (FS['thumbfeedback']) {
         FS['thumbfeedback'].hide(); // we don't want to show Thumb Feedback on marketing pages.
       }
+      window['_fs_clearbit'](0);
     }
     
     </script>
     
     <!-- Optimizely -->
     <script src="https://cdn.optimizely.com/js/8511425191.js"></script>
-    
-  <meta class="foundation-mq"></head>
+  </head>
   <body class="green-theme case-study legal legal_privacy legal_privacy_index" ontouchstart="">
     <!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTK8T5R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><div id="main-menu">
       <div class="row">
         <div class="small-12 columns">
           <nav>
             <div class="left">
-              <a href="/"><svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 135.24 39" class="svg logo replaced-svg"><title>fullstory_logo</title><rect x="45" width="4" height="31" fill="#fff"></rect><path d="M10.39,3.91A5.73,5.73,0,0,1,13.78,5V1A7.19,7.19,0,0,0,9.9,0C5.75,0,3.08,2.4,3.08,7.28V11H0v3.66H3.08V31H7.45V14.66H14V11H7.45V7.24C7.45,4.84,8.52,3.91,10.39,3.91Z" fill="#fff"></path><path d="M59.77,14.08a9.17,9.17,0,0,1,5.53,2V12a10.28,10.28,0,0,0-5.66-1.51c-4,0-7,2-7,6,0,3.42,1.74,5.06,5.84,6,2.54.67,3.7,1.24,3.7,2.84s-1.29,2.22-3.26,2.22a10.38,10.38,0,0,1-6-2.22v4.18A11.63,11.63,0,0,0,59,31.09c4.28,0,7.45-1.87,7.45-6,0-3.55-2-5.24-6.47-6.22-2.27-.62-3.12-1.29-3.12-2.58S57.85,14.08,59.77,14.08Z" fill="#fff"></path><rect x="37" width="4" height="31" fill="#fff"></rect><path d="M16,11V23.79c0,5.51,3.48,7.33,9.14,7.33a34.76,34.76,0,0,0,7.67-.89V11H28.44V27.21a23.61,23.61,0,0,1-3.39.27c-2.9,0-4.68-1.07-4.68-4V11Z" fill="#fff"></path><path d="M69.66,6l0,5H67v3.66h2.67V25c0,4.49,2.72,6.09,5.93,6.09A10.37,10.37,0,0,0,80.34,30v-4a6.88,6.88,0,0,1-3.61,1.11C75,27.18,74,26.38,74,24V14.66h5.62V11H74l0-5Z" fill="#fff"></path><polygon points="124.54 39 135.24 11 130.69 11 125.16 26.47 119.54 11 114.82 11 122.98 31.54 120.21 39 124.54 39" fill="#fff"></polygon><path d="M111.9,14.79a20.14,20.14,0,0,1,2.1.2l-1.6-4.32h-.49a16.15,16.15,0,0,0-7.72,2V31h4.42V15.41A8.73,8.73,0,0,1,111.9,14.79Z" fill="#fff"></path><path d="M101.45,20.83c0-6.13-4.28-10.3-10.21-10.3S81.07,14.7,81.07,20.83a10.19,10.19,0,1,0,20.38,0Zm-15.92,0c0-4,2.41-6.53,5.71-6.53S97,16.83,97,20.83s-2.36,6.48-5.75,6.48S85.53,24.79,85.53,20.83Z" fill="#fff"></path></svg></a>
+              <a href="/"><img class="svg logo" src="https://d33wubrfki0l68.cloudfront.net/0a54dc14a7bcd475c720f7a2564a914bb052d2a6/0bd9c/images/fullstory_logo.svg" alt="Fullstory logo"></a>
               <div class="menu-toggle desktop-hide">
                 <div class="bar"></div>
               </div>
             </div>
             <div class="center">
               <ul class="menu">
-                <li class=""><a class="menu_link" href="/features/">Features</a></li><li class=""><a class="menu_link" href="/pricing/">Pricing</a></li><li class=""><a class="menu_link" href="/customers/">Customers</a></li><li class=""><a class="menu_link" href="/resources/">Resources</a></li><li class=""><a class="menu_link" href="https://blog.fullstory.com/">Blog</a></li><li class=""><a class="menu_link" href="http://help.fullstory.com/">Support</a></li><li class="desktop-hide"><a class="menu_link" href="/ui/">Log in</a></li>
+                <li class=""><a class="menu_link" href="/features/">Features</a></li><li class=""><a class="menu_link" href="/pricing/">Pricing</a></li><li class=""><a class="menu_link" href="/customers/">Customers</a></li><li class=""><a class="menu_link" href="/resources/">Resources</a></li>
+                <li class="sub_menu_parent">
+                  <div class="sub_menu_title">
+                    Blog
+                  </div>
+                  <ul class="sub_menu">
+                    <li>
+                      <a href="https://blog.fullstory.com/">Foreward<span class="snoop_bloggy_blog">&nbsp;Blog</span>
+                        <div class="blog_desc">
+                          All things FullStory
+                        </div>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://bionic.fullstory.com/">Bionic<span class="snoop_bloggy_blog">&nbsp;Blog</span>
+                        <div class="blog_desc">
+                          Notes from FullStory’s engineering team.
+                        </div>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class=""><a class="menu_link" href="http://help.fullstory.com/">Support</a></li><li class="desktop-hide"><a class="menu_link" href="/ui/">Log in</a></li>
                 <li>
-                  <a class="fs-button pill black desktop-hide" href="/simple-signup">Sign Up Free</a>
+                  <a class="fs-button pill black desktop-hide" href="/simple-signup">Start a Trial</a>
                 </li>
               </ul>
             </div>
             <div class="right mobile-hide">
               <ul class="menu">
                 <li class=""><a class="menu_link" href="/ui/">Log in</a></li>
-                <li><a class="fs-button pill white" href="/simple-signup">Sign Up Free</a>
+                <li><a class="fs-button pill white" href="/signup">Start a Trial</a>
                 </li>
               </ul>
             </div>
@@ -97,7 +157,7 @@
       </div>
     </div>
     <div class="pent-wrapper">
-      <img class="pent pent1" src="/images/pent3.svg" alt="Pent3">
+      <img class="pent pent1" src="https://d33wubrfki0l68.cloudfront.net/2e7593886801ffe4e784f2211f1d3cb35a81d672/a8643/images/pent3.svg" alt="Pent3">
     </div>
     <div class="container">
       <div class="row align-center">
@@ -125,186 +185,231 @@
               <div class="container">
                 <div class="row align-center">
                   <div class="small-11 large-10 columns">
-                    <p>Thanks for visiting FullStory. This privacy policy explains the what, how, and why of the personally identifying Information we collect when you visit the website located at www.fullstory.com (the “Site”) and when you use the FullStory SaaS analytics software and services (“Services”) and includes Personal Information collected via email, SMS, telephone, WAP or other means. It also explains the specific ways we use and disclose that information. By using or accessing the Site or Services, you are accepting the practices described in this Privacy Policy, and you are consenting to our processing of your information as described below.</p>
+                    <p>Thanks for visiting FullStory. This privacy policy explains the what, how, and why of the Personal Information we collect when you visit the website located at www.fullstory.com (the “Site”) and when you use the FullStory SaaS analytics software and services (“Services”) and includes Personal Information collected via email, SMS, telephone, or other means. It also explains the specific ways we use and disclose that information and how you can exercise your privacy rights. By using or accessing the Site or Services, you are accepting the practices described in this Privacy Policy and our processing of your information as described below.</p>
+                    
+                    <p>FullStory is subject to the regulatory and enforcement authority of the United States Federal Trade Commission.</p>
                     
                     <h4 id="the-full-story-on-fullstory">The Full Story on FullStory</h4>
+                    
+                    <p>FullStory is based in Atlanta, GA, USA.</p>
                     
                     <p>The FullStory Services utilize a powerful script that creates a new level of ease for website owners to understand the usability of their websites. Website owners who use FullStory Services can watch a DVR-like video playback of user sessions on their website, enabling meaningful insight into their users' experience, as an effective way to identify usability problems and other areas for improvement. FullStory exists to make the web better for end-users, and it is only available to websites that share that goal.</p>
                     
                     <h4 id="definitions">Definitions</h4>
                     
-                    <p>Getting a few definitions out of the way should help you better understand this policy.</p>
+                    <p>Getting a few <strong>definitions</strong> out of the way should help you better understand this policy.</p>
                     
                     <blockquote>
-                      <p>When we say we, us, our or FullStory, we're referring to FullStory, Inc., a Delaware corporation.</p>
+                      <p><strong>“FullStory”</strong> means FullStory, Inc., a Delaware corporation. We may also refer to FullStory as “we”, “us”, or “our”.</p>
                     </blockquote>
                     
                     <blockquote>
-                      <p>FullStory Customer refers to any customer that has entered into an agreement with FullStory to use the FullStory Services on its Site.</p>
+                      <p><strong>“FullStory Customer”</strong> means any customer that has entered into an agreement with FullStory to use the FullStory Services on its site, including those in a trial environment.</p>
                     </blockquote>
                     
                     <blockquote>
-                      <p>Personal Information refers to any information which may identify an individual personally, such as first and last name, home address, billing address, or other physical address, email address, telephone number, etc.</p>
+                      <p><strong>“Personal Information”</strong> means any information which may identify an individual, directly or indirectly. Examples of Personal Information include, but are not limited to, first and last name, home address, billing address or other physical address, email address, telephone number, etc.</p>
                     </blockquote>
                     
                     <blockquote>
-                      <p>User refers to a visitor to a website that uses the FullStory Services or a client of a FullStory Customer.</p>
+                      <p><strong>“User”</strong> refers to a visitor to a website that uses the FullStory Services or a client of a FullStory Customer.</p>
                     </blockquote>
                     
                     <blockquote>
-                      <p>Visitor refers to anyone accessing the FullStory Site.</p>
+                      <p><strong>“Visitor”</strong> refers to anyone accessing the FullStory website, www.fullstory.com.</p>
                     </blockquote>
                     
-                    <h4 id="information-collected">Information Collected</h4>
+                    <h4 id="information-we-collect">Information we collect</h4>
                     
-                    <h5 id="information-collected-from-fullstory-visitors">Information Collected from FullStory Visitors</h5>
+                    <p>The types of information we collect varies depending on whether you are:</p>
                     
-                    <p>If you are a Visitor, FullStory collects information on your use of our Site, such as pages visited, links clicked, non-sensitive text entered, and mouse movements, as well as information more commonly collected such as the referring URL, browser, operating system, marketing, cookie information, and Internet Service Provider (“Usage Data”). FullStory’s purpose in collecting Usage Data is to better understand how FullStory’s Visitors use the Site. As a Visitor, FullStory collects potentially personally identifying information like Internet Protocol (or “IP”) addresses (“Potential PII”). Also, you may choose to interact with the Site that results in your providing Personal Information to FullStory, such as giving us your name, email address, user name and password when signing up for a free trial of the Services or creating an account to license the Services or to post comments to the FullStory blog or social media sites, etc. You should be aware that any information you provide in the FullStory blog or social media areas may be read, collected, and used by others who access them.</p>
+                    <ol>
+                      <li>A FullStory Visitor,</li>
+                      <li>A FullStory Customer, or</li>
+                      <li>A User, i.e., someone visiting a website that uses FullStory Services</li>
+                    </ol>
                     
-                    <p>You may choose not to provide this information but you need to understand that as a result, you may not be able to engage in certain activities on the Site. Any Personal Information provided by you as a Visitor to the Site will be used only as described below in this Privacy Policy and FullStory’s Acceptable Use Policy located at&nbsp;<a href="https://www.fullstory.com/legal/acceptable-use/">https://www.fullstory.com/legal/acceptable-use/</a>.</p>
+                    <h5 id="a-information-collected-from-fullstory-visitors">A. Information Collected from FullStory Visitors</h5>
                     
-                    <h5 id="information-collected-from-fullstory-customers">Information Collected from FullStory Customers</h5>
+                    <p>This section applies to Personal Information we may process in the usual course of business via the Site.</p>
                     
-                    <p>If you are a Customer of FullStory, when you signed up for the Services, you entered into an agreement with FullStory to accept FullStory’s terms of use of the Services, which includes the obligations in this Privacy Policy and our Acceptable Use Policy (“Agreement”). As part of your use of the Services, we collect the same information as that of a Visitor above and may ask you for additional information such as payment information, Usage Data in relation to the Services and other information we deem relevant for the purpose of providing the Services.</p>
+                    <p>If you are a Visitor, FullStory collects information on your use of the Site, such as pages visited, links clicked, non-sensitive text entered, and mouse movements, as well as information more commonly collected such as the referring URL, browser, operating system, and Internet Protocol (“IP”) address. We use publicly available sources to approximate your geographic region and Internet Service Provider based on your IP address. We use the term “Usage Data” to refer to this information about your use of the Site that we collect. FullStory’s purpose in collecting Usage Data is to better understand how FullStory’s Visitors use the Site.</p>
                     
-                    <p>FullStory may use your information and data as agreed to in the Agreement and to:</p>
+                    <p>FullStory collects information that may be personally identifiable, such as IP addresses. Also, you may choose to interact with the Site in a way that results in your providing Personal Information to FullStory, such as giving us your name, email address, and user name when signing up for a free trial of the Services or creating an account to license the Services or to post comments to the FullStory blog or social media sites, etc. Any information you provide in the FullStory blog or social media areas may be read, collected, and used by others who access them.</p>
+                    
+                    <p>Any Personal Information provided by you as a Visitor to the Site will be used only as described in this Privacy Policy and in FullStory’s Acceptable Use Policy located at <a href="https://www.fullstory.com/legal/acceptable-use/">https://www.fullstory.com/legal/acceptable-use/</a>.</p>
+                    
+                    <p>Cookies on the Site:</p>
+                    
+                    <p>For Visitors to the Site, FullStory uses first party cookies, third party cookies, and other tracking technologies in order to:</p>
                     
                     <ul>
-                      <li>
-                        <p>Process transactions between you and FullStory.</p>
-                      </li>
-                      <li>Send e-mails about our Site or respond to inquiries.</li>
-                      <li>Provide support for the FullStory Services</li>
-                      <li>Enhance or improve user experience, our Site, or FullStory Services.</li>
-                      <li>Monitor data to ensure that it complies with your contractual obligations to us.</li>
-                      <li>Perform any other function that we believe in good faith is necessary to protect the security or proper functioning of our Site or the FullStory Services.</li>
-                      <li>With your prior consent, we may post your personal testimonials along with those of other satisfied customers on our Site in addition to other endorsements.</li>
+                      <li>Provide personalized pages for visitors,</li>
+                      <li>Help us track email response rates, measure the success of our marketing campaigns, identify when our emails are viewed and track whether our emails are forwarded,</li>
+                      <li>Provide assistance in navigation,</li>
+                      <li>Provide assistance during the visit,</li>
+                      <li>Analyze your use of our products, services, or applications,</li>
+                      <li>Assist us with our promotional or marketing efforts.</li>
                     </ul>
                     
-                    <p>The information we collect from a Customer is disclosed only in accordance with the Agreement, this Privacy Policy and the Acceptable Use Policy.</p>
+                    <p>When you visit any website, it may store or retrieve information on your browser  in the form of cookies. This information might be about you, your preferences, or your device. It is used to make the Site work as you expect it to, and is designed to give you a more personalized web experience.</p>
                     
-                    <h5 id="information-collected-from-visits-to-websites-that-use-fullstory-services">Information Collected from Visits to Websites that use FullStory Services</h5>
+                    <p>Because we respect your right to privacy, we provide you with a nice user interface you can use to opt out of our use of some types of cookies. In our Privacy Preference Centre, you can click on the different category headings to find out more and change our default cookie settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.</p>
                     
-                    <p>For Users of a FullStory Customer, FullStory is acting as a service provider to the Customer for the FullStory Services. FullStory collects information on a User under the direction of its Customer, and has no direct relationship with the User whose information it processes. It is important to understand that when a User visits other websites that use the FullStory Services, the FullStory Customer’s privacy policy apply to that information collected instead of this Privacy Policy. FullStory may only use your information as permitted by the FullStory Customer in accordance with its privacy policies.</p>
+                    <p>Here are the types of cookies we use:</p>
                     
-                    <h4 id="use-of-your-personal-information">Use of Your Personal Information</h4>
+                    <p>Strictly Necessary Cookies: These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in, or filling in forms.</p>
                     
-                    <p>We will never sell your data to third parties. However, in the course of business, we may hire third party individuals and organizations to help us make the FullStory Services better. These third parties include our web host provider, other SaaS providers, such as an email hosting service, payment processors or outside contractors we hire to perform marketing, maintenance or assist us in securing our website. We may also hire third parties to operate, maintain, repair, or otherwise improve or preserve our website or its underlying files or systems.</p>
+                    <p>You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.</p>
                     
-                    <p>FullStory may disclose Personal Information and Potential PII only to those of its employees and third party organizations that (1) need to know such information in order to process it on FullStory’s behalf or to provide services as described above and (2) have agreed not to disclose it to any other parties without FullStory’s consent. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Site and/or the Service, you consent to the transfer of information to such individuals and organizations in order to accomplish these purposes.</p>
+                    <p>Performance &amp; Functionality Cookies: These cookies are used to enhance the performance and functionality of our website but are non-essential to their use. However, without these cookies, certain functionality may become unavailable.</p>
                     
-                    <p>Before using or sharing your information with non-agent third parties in ways not discussed here or previously authorized by you, we will provide you Notice and an opportunity to control the further use or disclosure of your personal information.</p>
+                    <p>Analytics &amp; Customization Cookies: These cookies collect information that is used either in aggregate form to help us understand how our websites are being used or how effective our marketing campaigns are, or to help us customize our websites and applications for you in order to enhance your experience.</p>
                     
-                    <p>FullStory has potential liability in cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the Privacy Shield Principles. (<a href="#privacy-shield">See below</a>).</p>
+                    <p><a class="optanon-show-settings">More information about the cookies we use on the Site is available here</a>
+                    <br></p>
                     
-                    <p>If you are a registered user of the Service and have supplied your email address, FullStory may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with FullStory and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. FullStory takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of Personal Information and Potential PII.</p>
+                    <h5 id="b-information-collected-for-fullstory-customers">B. Information collected for FullStory Customers</h5>
                     
-                    <p>In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. If we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, User and Visitor information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information and Potential PII as set forth in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your Personal Information and Potential IP, as well as any choices you may have regarding your Personal Information and Potential IP.</p>
+                    <p>This section applies to Personal Information of FullStory Customers that we may process via provision of the FullStory Services. If you are not a Customer, please refer to either the FullStory Visitors or the FullStory Users section of this policy.</p>
                     
-                    <h4 id="release-of-your-information-for-legal-purposes">Release of Your Information for Legal Purposes</h4>
+                    <p>We use FullStory on FullStory. In this regard, we use a separate instance of the FullStory Services to monitor the instance of FullStory Services that our customers use. This includes using first-party cookies to maintain a coherent scope for a customer user session across the customer-facing FullStory Services. In addition, the customer-facing FullStory Services may use third-party cookies to aid in payment processing.</p>
                     
-                    <p>We may access or release Personal Information about you when required to do so in order to comply with any applicable, laws, regulations, subpoena or enforceable governmental or public authority request, including, to meet national security or law enforcement requirements. We may also access or release Personal Information when we have a good faith believe that such access or release is reasonably necessary to (i) enforce applicable terms of service, including investigation of potential violations, (ii) detect, prevent, or otherwise address fraud, security or technical issues, (iii) respond to user support requests, or (iv) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.</p>
+                    <p>If you are a Customer of FullStory, when you signed up for the Services, you entered into an agreement with FullStory to accept FullStory’s terms of use for the Services, which includes the obligations in this Privacy Policy and our Acceptable Use Policy (the “Agreement”). As part of your use of the Services, we collect the same information as that of a Visitor (see above) through your interaction with the Site, and we may ask you for additional information, such as payment information, Usage Data in relation to the Services, and other information we deem relevant for the purpose of providing the Services.</p>
                     
-                    <h4 id="right-to-access-edit-and-remove-your-information">Right to Access, Edit, and Remove Your Information</h4>
-                    
-                    <p>You have a right to access personal information we hold about you. Whenever you use our Site or FullStory Services, we strive to make sure that the Personal Information is correct. If that information is wrong, we give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your Personal Information, we may ask you to verify your identity before making any changes. We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. Because we protect information from accidental or malicious destruction, even after information is deleted from the FullStory Services, it may not be immediately deleted from FullStory’s servers.</p>
-                    
-                    <p>To request removal of your Personal Information from our Site, Services, blog or social media, contact us at privacy@fullstory.com. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.</p>
-                    
-                    <p>If a User interacts with one of our Customers and the User seeks to access, or correct, amend, or delete inaccurate data or no longer wants to be contacted by one of our Customers, the User should direct its inquiry to the Customer because the Customer is the data controller. If the Customer requests FullStory to remove the Personal Information, we will promptly respond to their request.</p>
-                    
-                    <h4 id="security-measures">Security Measures</h4>
-                    
-                    <p>We take measures to enhance the security of our Site and the FullStory Service. These measures include using SSL Certificates and two-factor authentication. It is important for you to protect against unauthorized access to your password and to your computer. No security measures are perfect and we cannot promise that the information about you will remain secure in all circumstances.</p>
-                    
-                    <h4 id="international-transfer">International Transfer</h4>
-                    
-                    <p>FullStory stores and processes data on Google Cloud Platform servers located on the United States.</p>
-                    
-                    <h4 id="do-not-track-signal">Do Not Track Signal</h4>
-                    
-                    <p>We treat the data of everyone who comes to our site in accordance with this Privacy Policy, whatever their - Do Not Track setting.</p>
-                    
-                    <h4 id="children">Children</h4>
-                    
-                    <p>Our site is intended for a general audience and we do not knowingly collect personal information from anyone under the age of 13.</p>
-                    
-                    <h4 id="how-fullstory-collects-information">How FullStory Collects Information</h4>
-                    
-                    <p>Cookies&nbsp;are small data files placed on your computer by the websites you visit and the emails you read and can be used to help recognize you when you return to a website, or when you visit other sites. We, or third party service providers, may use cookies to, among other things, measure activity, personalize your experience, remember your viewing preferences, or track your status or progress when accessing our Site. For some of these purposes, our cookies may be tied to Personal Information and/or Potential PII.</p>
-                    
-                    <h5 id="for-visitors-to-our-site">For Visitors to our Site</h5>
-                    
-                    <p>For Visitors to the FullStory site, FullStory uses first party and third party cookies and other tracking technologies in order to:</p>
+                    <p>FullStory may use Customers’ Personal Information as agreed to in the Agreement and:</p>
                     
                     <ul>
-                      <li>Provide personalized pages for visitors.</li>
-                      <li>Help us track email response rates, measure the success of our marketing campaigns, identify when our emails are viewed and track whether our emails are forwarded</li>
-                      <li>Provide assistance in navigation;</li>
-                      <li>Provide assistance during the visit;</li>
-                      <li>Analyze your use of our products, services or applications;</li>
-                      <li>Assist us with our promotional and marketing efforts.</li>
+                      <li>To complete transactions between you and FullStory,</li>
+                      <li>To send e-mail, chat, or in-app messaging about the Site or respond to inquiries,</li>
+                      <li>To provide support for the FullStory Services,</li>
+                      <li>To enhance or improve user experience, the Site, or FullStory Services,</li>
+                      <li>In a support context, to view details of your account and ensure that it complies with your contractual obligations to us,</li>
+                      <li>To perform any other function that we believe in good faith is necessary to protect the security or proper functioning of the FullStory website or the FullStory Services,</li>
+                      <li>We may post your testimonials along with those of other satisfied customers on our Site, in addition to other endorsements.</li>
                     </ul>
                     
-                    <h5 id="for-customers-of-fullstory-services">For Customers of FullStory Services</h5>
+                    <p>The information we collect from Customers is disclosed only in accordance with the Agreement, this Privacy Policy, and the Acceptable Use Policy. FullStory’s <a href="https://www.fullstory.com/legal/terms-and-conditions/">terms and conditions</a> prohibit Customers from providing FullStory with sensitive personal data through the Services.</p>
                     
-                    <p>We use FullStory on FullStory. In this regard, we use a separate instance of the FullStory Services to monitor the instance of FullStory Services that our customers use. This includes using first-party cookies to maintain a coherent scope for a customer user session across the customer-facing FullStory Services. In addition, the customer-facing FullStory Services may use third-party cookies to aid in implementing security controls and payment processing.</p>
+                    <h5 id="c--information-collected-when-visiting-websites-that-use-fullstory-services">C.  Information collected when visiting websites that use FullStory Services</h5>
                     
-                    <h5 id="for-visitors-to-websites-that-use-fullstory-services">For Visitors to Websites that use FullStory Services</h5>
+                    <p>This section applies to Personal Information FullStory may process relating to Users of a FullStory Customer’s website.</p>
                     
-                    <p>FullStory Services use first-party cookies to maintain a coherent scope for a user session across multiple pages on a single website. In addition, FullStory Services may use third-party cookies to aid in implementing security controls and payment processing. These cookies do not track the same user across unrelated domains and, as described above, attempts to infer identity across domains is strictly prohibited.</p>
+                    <p>For Users of a FullStory Customer, FullStory is acting as a service provider to the Customer for the FullStory Services. FullStory collects information on a User under the direction of its Customer, and has no direct relationship with the User whose information it processes. It is important to understand that when a User visits other websites that use the FullStory Services, the FullStory Customer’s privacy policy applies to that information collected instead of this Privacy Policy.</p>
                     
-                    <p>Local Storage&nbsp;is a standard facility provided by HTML5-compliant browsers used to retain data on your computer across visits to the same website. We use local storage as a temporary holding area for user events that were observed locally but, due to the timing of a page unload, were unable to be transmitted as part of the user session. Return visits to the same website read and transmit events previously stored in local storage to complete previously recorded sessions.</p>
+                    <p>FullStory Services use first-party cookies and local storage to maintain a coherent scope for a user session across multiple pages on a single website.</p>
                     
-                    <p>This information may in the aggregate identify a User, however we will not identify a User as they browse the web if the User turns off cookies, as explained below.</p>
+                    <p>FullStory Services do not and will not ever attempt to identify the same person across disparate, unrelated domains. FullStory takes pains in its engineering choices to differentiate itself from ad-tracking software. It is a violation of our Acceptable Use Policy for our customers to attempt to build multi-site user profiles for the intent of selling or exchanging lists of users or demographic information.</p>
                     
-                    <p>FullStory Services do not and will not ever attempt to identify the same person across disparate, unrelated domains. It is a violation of our Acceptable Use Policy for our customers to attempt to build multi-site user profiles for the intent of selling or exchanging lists of users or demographic information.</p>
+                    <h4 id="general-information-on-our-use-of-personal-information">General Information on our use of Personal Information</h4>
                     
-                    <h4 id="opting-out-of-fullstory-services">Opting Out of FullStory Services</h4>
+                    <p>We will never sell your data to third parties or otherwise share it with non-agent third parties. If this practice should change in the future we will update this policy to identify those parties and illustrate how individuals can exercise their right to opt out of such usage. However, in the course of business, we may hire third party individuals and organizations to help us make the FullStory Services better. These third parties include our web host provider, SaaS providers such as email hosting services, payment processors, or outside contractors we hire to perform marketing, maintenance, or assist us in securing our website. We may also hire third parties to operate, maintain, repair, or otherwise improve or preserve our website or its underlying files or systems.</p>
                     
-                    <p>If you wish to prevent all websites using the FullStory Services to be able to record an its activity, you can&nbsp;<a href="https://www.fullstory.com/optout">opt-out</a>&nbsp;of the FullStory Services. Opting out will create a cookie that tells FullStory to turn off recording on any site which uses the FullStory Services. The presence of this cookie is required to continue opting out, so if you clear your browser cookies, you will have to opt-out again. (We regret that there isn't a better way to make your opt-out more permanent, but due to technical reasons, this really is the best we can do at present.)</p>
+                    <p>FullStory may disclose Personal Information only to those of its employees and third-party organizations that (1) need to know such information in order to process it on FullStory’s behalf or to provide services as described above, and (2) have agreed not to disclose it to any other parties without FullStory’s consent. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Site and/or the Service, you consent to the transfer of information to such individuals and organizations in order to accomplish these purposes.</p>
                     
-                    <h4 id="one-more-thing-about-fullstory-services">One more thing about FullStory Services.</h4>
+                    <p>If you are a registered user of the Service and have supplied your email address, FullStory may  occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with FullStory and our products. FullStory will only send you marketing communications, including via email, in compliance with applicable laws and in accordance with your preferences, that we believe may be of interest to you. FullStory takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of Personal Information. To the extent we send you this type of email in compliance with applicable laws and in accordance with your preferences, you can opt-out at any time by either following the opt-out instructions in the email or just replying to tell us you don’t want to receive any additional emails.</p>
                     
-                    <p>If you are considering opting-out, it's probably a good time to make sure you really understand that the purpose of the FullStory Services is to help well-intentioned companies make their website better for&nbsp;you. It is emphatically not one of those&nbsp;we-track-you-around-the-web&nbsp;kind of deals. We think that's creepy, too.</p>
+                    <p>In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. If we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, User and Visitor information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.</p>
                     
-                    <p>Most people who make websites are just like you: nice people who want to do a good job and make something awesome. And you wouldn't believe how much time and energy product teams spend trying to make their websites great for you. Without the FullStory Services, though, they simply do not have enough information to understand when they get it wrong. If they can see how you actually experience their website, like an ongoing usability study, they'll actually know what to improve! They don't need to record anything sensitive in order to do that, and we have a strict&nbsp;<a href="https://www.fullstory.com/legal/acceptable-use">Acceptable Use Policy</a>&nbsp;where you can see for yourself the high standards we expect of FullStory customers with respect to your privacy.</p>
+                    <h4 id="opting-out-of-fullstory-services">Opting out of FullStory Services</h4>
+                    
+                    <p>If you wish to prevent all websites using the FullStory Services to be able to record activity, you can <a href="https://www.fullstory.com/optout">opt-out</a> of the FullStory Services. Opting out will create a cookie that tells FullStory to turn off recording on any site which uses the FullStory Services. The presence of this cookie is required to continue opting out. That means if you clear your browser cookies, you will have to opt-out again. Unfortunately, this is the most permanent and least intrusive solution FullStory can offer because of how browser technology works. You may wish to employ a third party browser extension to block scripts like FullStory instead of using our Opt Out cookie, but know that using any third party extension may pose additional risk.</p>
+                    
+                    <h4 id="one-more-thing-about-fullstory-services">One More thing about FullStory Services</h4>
+                    
+                    <p>If you are considering opting-out, it's probably a good time to make sure you really understand that the purpose of the FullStory Services is to help well-intentioned companies make their website better for you. It is emphatically not one of those we-track-you-around-the-web kind of deals. We think that's creepy, too.</p>
+                    
+                    <p>Most people who make websites are just like you: nice people who want to do a good job and make something awesome. And you wouldn't believe how much time and energy product teams spend trying to make their websites great for you. Without the FullStory Services, though, they simply do not have enough information to understand when they get it wrong. If they can see how you actually experience their website, like an ongoing usability study, they'll actually know what to improve! They don't need to record anything sensitive in order to do that, and we have a strict <a href="https://www.fullstory.com/legal/acceptable-use">Acceptable Use Policy</a> where you can see for yourself the high standards we expect of FullStory customers with respect to your privacy.</p>
                     
                     <h4 id="blocking-cookies-on-the-fullstory-services">Blocking Cookies on the FullStory Services</h4>
                     
-                    <p>If you choose, you can set your browser to reject cookies or you can manually delete individual or all of the cookies on your computer by following your browser’s help file directions. Note that turning off cookies may also disable functions of many websites you visit. If your browser is set to reject cookies or you manually delete cookies, FullStory will not be able to coalesce your anonymous user identity automatically into sessions across pages on the same website.</p>
+                    <p>If you choose, you can set your browser to reject cookies or you can manually delete individual cookies or all of the cookies on your computer by following your browser’s help file directions. Note that turning off cookies may also disable functions of many websites you visit. If your browser is set to reject cookies or you manually delete cookies, FullStory will not be able to coalesce your anonymous user identity automatically into sessions across pages on the same website.</p>
                     
-                    <p>FullStory could in principle coalesce your user identity across pages of a single website even if you are blocking cookies if (1) you are logged into the website of a FullStory customer and (2) that customer uses&nbsp;<a href="https://www.fullstory.com/docs/developer#customdata">the JavaScript API</a>&nbsp;to identify you using an application-unique identifier.</p>
+                    <h4 id="release-of-your-information-for-legal-purposes">Release of Your Information for Legal Purposes</h4>
                     
-                    <h4 id="privacy-shield">
-                      EU-US Privacy Shield Framework.
-                    </h4>
-                    <p>FullStory complies with both the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework, as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland to the United States.&nbsp; FullStory&nbsp;has certified that it adheres to the Privacy Shield Principles.&nbsp; If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. &nbsp;To learn more about the Privacy Shield program, and to view our certification page, please visit&nbsp;<strong><a href="http://www.privacyshield.gov">www.privacyshield.gov</a></strong>.</p>
+                    <p>We may access or release Personal Information about you when required to do so in order to comply with any applicable, laws, regulations, subpoenas, or enforceable governmental or public authority requests, including, to meet national security or law enforcement requirements. We may also access or release Personal Information when we have a good faith belief that such access or release is reasonably necessary to (i) enforce applicable terms of service, including investigation of potential violations, (ii) detect, prevent, or otherwise address fraud, security, or technical issues, (iii) respond to user support requests, or (iv) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection, spam/malware prevention, and security forensics.</p>
                     
-                    <p>FullStory&nbsp;has further committed to refer unresolved privacy complaints under the Privacy Shield Principles, to the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <a href="https://www.bbb.org/EU-privacy-shield/file-a-complaint">https://www.bbb.org/EU-privacy-shield/file-a-complaint</a> for more information and to file a complaint.</p>
+                    <h4 id="your-rights">Your Rights</h4>
                     
-                    <p>Under certain limited conditions, if your complaint is not resolved through these channels, it may be possible for individuals to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission.</p>
+                    <p>You have the following rights with respect to data protection:</p>
                     
-                    <p>FullStory is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).</p>
+                    <p>The right to access, update, edit, correct, or request deletion of your Personal Information:</p>
+                    
+                    <ul>
+                      <li>
+                        <p>For FullStory Customers, you have the right to access Personal Information we hold about you. Whenever you use our site or the FullStory Services, we strive to make sure the Personal Information we hold is accurate. If that information is wrong, we give you ways to update it quickly or to delete it (unless we have to keep that information for legitimate business or legal purposes) .</p>
+                      </li>
+                      <li>
+                        <p>You can contact us at any time regarding your right to access, update, edit, correct, request deletion of your Personal Information, as well as making changes to your marketing preferences us by emailing us at privacy@fullstory.com. We will consider any requests in accordance with applicable laws and our potential legitimate interests. If we are unable to accommodate your request, we will let you know why we are unable to do so.</p>
+                      </li>
+                      <li>
+                        <p>If you have consented to our processing of Personal Information, you can always withdraw your consent to such processing. A request to withdraw consent will not affect processing of your Personal Information if such processing is conducted in reliance on a lawful processing ground other than consent.</p>
+                      </li>
+                      <li>
+                        <p>To the extent you believe processing of your Personal Information infringes on applicable regulations, you have the right to lodge a complaint with a supervisory authority</p>
+                      </li>
+                      <li>
+                        <p>If you are a User of a Fullstory Customer’s website and you would like to access, updated, edit, correct, or request deletion of your Personal Information, you should direct your inquiry to the FullStory Customer. If you direct your inquiry to us when it should be directed to a FullStory Customer, we will redirect your inquiry to the FullStory Customer.</p>
+                      </li>
+                    </ul>
+                    
+                    <h4 id="security-measures">Security Measures</h4>
+                    
+                    <p>We take measures to enhance the security of our site and the FullStory service. These measures include maintaining a robust information security program, instituting security controls within the FullStory Services such as TLS certificates and strong authentication options, and giving our Customers facilities to exercise good security practices. As a FullStory Customer, it is important for you to protect against unauthorized access to your password and to your computer. No security measures are perfect and we cannot promise to be able to withstand security threats in all circumstances.</p>
+                    
+                    <h4 id="international-transfers">International Transfers</h4>
+                    
+                    <p>FullStory operates in the United States and we store and process data on Google Cloud Platform servers located in the United States. Regardless of your locations, your information will be stored, processed in, or transferred to the United States.</p>
+                    
+                    <p>For transfers from the EU or Switzerland to the United States, the following applies:</p>
+                    
+                    <ul>
+                      <li>
+                        <p>FullStory complies with both the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework, as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland to the United States. FullStory has certified that it adheres to the Privacy Shield Principles. If there is any conflict between this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program and to view our certification page, please visit www.privacyshield.gov.</p>
+                      </li>
+                      <li>
+                        <p>Pursuant to the Privacy Shield we are obliged to state that we remain liable for the onward transfer of EU and Swiss personal data to agent third parties unless we can prove we were not a party to the actions giving rise to the damages.</p>
+                      </li>
+                      <li>
+                        <p>The Privacy Shield Frameworks require us to inform EU and Swiss individuals that we may be required to release their data in response to lawful requests by public authorities including to meet national security or law enforcement requirements.</p>
+                      </li>
+                      <li>
+                        <p>In compliance with the Privacy Shield Principles, FullStory commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact FullStory at privacy@fullstory.com.</p>
+                      </li>
+                      <li>
+                        <p>FullStory has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit <a href="https://www.bbb.org/EU-privacy-shield/file-a-complaint">https://www.bbb.org/EU-privacy-shield/file-a-complaint</a> for more information and to file a complaint. Under certain limited conditions, if your complaint is not resolved through these channels, it may be possible for individuals to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission. These options of redress are in no way designed to replace or take precedence over any right you may have to file a complaint with an applicable supervisory authority.</p>
+                      </li>
+                    </ul>
+                    
+                    <p>Australia:</p>
+                    
+                    <p>FullStory adheres to the Australian Privacy Act 1988, as applicable.</p>
+                    
+                    <h4 id="do-not-track-signal">Do Not Track Signal</h4>
+                    
+                    <p>We treat the data of everyone who comes to our site in accordance with this Privacy Policy, regardless of their Do Not Track setting.</p>
+                    
+                    <h4 id="children">Children</h4>
+                    
+                    <p>Our site is intended for a general audience and we do not knowingly collect personal information from anyone under the age of 13. If you become aware that a child has provided us with personal information, please contact us at <a href="mailto:privacy@fullstory.com">privacy@fullstory.com</a> and we will take steps to delete such information.</p>
                     
                     <h4 id="changes">Changes</h4>
                     
-                    <p>We may amend this Privacy Policy from time to time. When there are changes to this Privacy Policy, we will update this page. The date on the bottom will always indicate when we last made changes. If you are a Visitor to this Site and disagree with the Privacy Policy, you should leave the Site and/or cancel your agreement with FullStory.</p>
+                    <p>We may amend this Privacy Policy from time to time. When there are changes to this Privacy Policy, we will update this page. When there are significant changes to this Privacy Policy, we will also endeavor to notify FullStory Customers via email. The date on the bottom will always indicate when we last made changes. If you are a Visitor to this site and disagree with this Privacy Policy, you should leave the site and/or cancel your agreement with FullStory.</p>
                     
-                    <h4 id="what-if-i-have-questions-or-concerns">What If I Have Questions or Concerns?</h4>
+                    <h4 id="what-if-i-have-questions-or-concerns">What if I Have Questions or Concerns</h4>
                     
-                    <p>If you have any questions or concerns regarding privacy when using FullStory, please send us a detailed message to privacy@fullstory.com or via postal mail at:</p>
+                    <p>If you have any questions or concerns regarding privacy when using FullStory, please send a detailed message to <a href="mailto:privacy@fullstory.com">privacy@fullstory.com</a> or via postal mail at:</p>
                     
                     <div class="address">
                       <p>
-                        FullStory<br>Attn: Privacy<br>120 Ottley Drive NE<br>Suite 100<br>Atlanta, GA 30324
+                        FullStory<br>Attn: Privacy<br>1745 Peachtree St NE<br>Suite G<br>Atlanta, GA 30309
                       </p>
                     </div>
                     <p>We will make every effort to address your concerns.</p>
                     
                     <h4 id="effective-date">Effective Date</h4>
-                    
-                    <p>This Privacy Policy became effective on: May 24, 2018.</p>
+                    <p>This Privacy Policy became effective on: September 28, 2018.</p>
                     <br><br>
                   </div>
                 </div>
@@ -314,12 +419,12 @@
         </div>
       </div>
     </div>
-    <section class="cta-banner">
+    <section class="cta-banner show-for-large">
       <h3 class="tiempos-headline">
         Understand your users like never before—get started with FullStory!
       </h3>
       <div class="cta-bank">
-        <a class="fs-button pill medium outline" href="/pricing/demo/">Request a Demo</a><a class="fs-button pill medium pink-purple primary-cta" href="/simple-signup/">Sign Up Free</a>
+        <a class="fs-button pill medium outline" href="/pricing/demo/">Request a Demo</a><a class="fs-button pill medium pink-purple primary-cta" href="/signup/">Sign Up Free</a>
       </div>
     </section><footer class="footer"><div id="logos">
         <div class="container">
@@ -327,33 +432,33 @@
             <div class="small-11 medium-12 columns">
               <div class="row">
                 <div class="small-6 medium-2 columns">
-                  <div class="logo-wrapper active" id="logo-position-1">
-                    <img class="client-logo" src="/images/client-logos/careerbuilder.png" alt="Careerbuilder"><img class="client-logo active" src="/images/client-logos/digital-ocean.png" alt="Digital ocean"><img class="client-logo" src="/images/client-logos/betabrand.png" alt="Betabrand">
+                  <div class="logo-wrapper" id="logo-position-1">
+                    <img class="client-logo active" src="https://d33wubrfki0l68.cloudfront.net/5eae34e0830ca377e00de0b5170f9cc7f23ec0c8/a08e0/images/client-logos/ticketmaster.png" alt="Ticketmaster"><img class="client-logo" src="https://d33wubrfki0l68.cloudfront.net/c1a016afa5a1dd1700f269b08a45fb5df8b37905/ea8b0/images/client-logos/digital-ocean.png" alt="Digital ocean">
                   </div>
                 </div>
                 <div class="small-6 medium-2 columns">
                   <div class="logo-wrapper" id="logo-position-3">
-                    <img class="client-logo active" src="/images/client-logos/indeed.png" alt="Indeed"><img class="client-logo" src="/images/client-logos/segment.png" alt="Segment"><img class="client-logo" src="/images/client-logos/whitepages.png" alt="Whitepages">
+                    <img class="client-logo active" src="https://d33wubrfki0l68.cloudfront.net/f648878e4193bcb2bb010d6a8e745ad34721c0b7/73daf/images/client-logos/segment.png" alt="Segment"><img class="client-logo" src="https://d33wubrfki0l68.cloudfront.net/f80384f83a342aab0f0ca9d9454eac1e4aa92752/bac56/images/client-logos/freshly.png" alt="Freshly">
                   </div>
                 </div>
                 <div class="small-6 medium-2 columns">
                   <div class="logo-wrapper" id="logo-position-6">
-                    <img class="client-logo active" src="/images/client-logos/jane.png" alt="Jane"><img class="client-logo" src="/images/client-logos/donors-choose.png" alt="Donors choose"><img class="client-logo" src="/images/client-logos/eat-street.png" alt="Eat street">
+                    <img class="client-logo active" src="https://d33wubrfki0l68.cloudfront.net/d70f1c3a1847b8e6de38284c2f4ca43f9027e831/999ab/images/client-logos/jane.png" alt="Jane"><img class="client-logo" src="https://d33wubrfki0l68.cloudfront.net/f2ca9044db7befd5c06feeb2c485d458426830f2/b4d61/images/client-logos/eat-street.png" alt="Eat street">
                   </div>
                 </div>
                 <div class="small-6 medium-2 columns">
-                  <div class="logo-wrapper" id="logo-position-4">
-                    <img class="client-logo active" src="/images/client-logos/maritzcx.png" alt="Maritzcx"><img class="client-logo" src="/images/client-logos/wistia.png" alt="Wistia"><img class="client-logo" src="/images/client-logos/teespring.png" alt="Teespring">
+                  <div class="logo-wrapper active" id="logo-position-4">
+                    <img class="client-logo active" src="https://d33wubrfki0l68.cloudfront.net/ca84737b618474108bcaffe5f689ebd5fd5f38d2/aa93f/images/client-logos/maritzcx.png" alt="Maritzcx"><img class="client-logo" src="https://d33wubrfki0l68.cloudfront.net/65720a4a3a956dd56a05fb198b7d5bd704a74ea8/3a31c/images/client-logos/moneylion.png" alt="Moneylion">
                   </div>
                 </div>
                 <div class="small-6 medium-2 columns">
                   <div class="logo-wrapper" id="logo-position-2">
-                    <img class="client-logo active" src="/images/client-logos/lenovo.png" alt="Lenovo"><img class="client-logo" src="/images/client-logos/hubspot.png" alt="Hubspot">
+                    <img class="client-logo" src="https://d33wubrfki0l68.cloudfront.net/f0d32cbb78b873b57b83c25f33a965130f23c557/b7db1/images/client-logos/bluenile.png" alt="Bluenile"><img class="client-logo active" src="https://d33wubrfki0l68.cloudfront.net/baa7938dd1179da6ed3fab9126b1a0d3df8c8ff5/ee226/images/client-logos/donors-choose.png" alt="Donors choose">
                   </div>
                 </div>
                 <div class="small-6 medium-2 columns">
                   <div class="logo-wrapper" id="logo-position-5">
-                    <img class="client-logo active" src="/images/client-logos/kayak.png" alt="Kayak"><img class="client-logo" src="/images/client-logos/shopify.png" alt="Shopify"><img class="client-logo" src="/images/client-logos/zapier.png" alt="Zapier">
+                    <img class="client-logo active" src="https://d33wubrfki0l68.cloudfront.net/b495dc16e5a2147669d480176eaf22c0e08c7116/7aaa8/images/client-logos/zillow.png" alt="Zillow"><img class="client-logo" src="https://d33wubrfki0l68.cloudfront.net/0127bb59e5bdaacf2487186e81cd1527e189e0b1/d01b7/images/client-logos/teespring.png" alt="Teespring">
                   </div>
                 </div>
               </div>
@@ -371,58 +476,22 @@
                     Follow Along
                   </dt>
                   <dd>
-                    <a href="https://www.facebook.com/getfullstory/"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve" class="svg replaced-svg">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
-<title id="simpleicons-facebook-icon">Facebook icon</title>
-<path class="st0" d="M22.7,0H1.3C0.6,0,0,0.6,0,1.3v21.4C0,23.4,0.6,24,1.3,24h11.5v-9.3H9.7v-3.6h3.1V8.4c0-3.1,1.9-4.8,4.7-4.8  c1.3,0,2.5,0.1,2.8,0.1V7h-1.9c-1.5,0-1.8,0.7-1.8,1.8v2.3h3.6l-0.5,3.6h-3.1V24h6.1c0.7,0,1.3-0.6,1.3-1.3V1.3  C24,0.6,23.4,0,22.7,0"></path>
-</svg></a>
+                    <a href="https://www.facebook.com/getfullstory/"><img alt="Follow FullStory on Facebook" class="svg" src="https://d33wubrfki0l68.cloudfront.net/26f7c797e43a0fa40198691ff99f2bd46501428b/6a990/images/social/facebook.svg"></a>
                   </dd>
                   <dd>
-                    <a href="https://twitter.com/fullstory"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve" class="svg replaced-svg">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
-<title id="simpleicons-twitter-icon">Twitter icon</title>
-<path class="st0" d="M24,4.6c-0.9,0.4-1.8,0.7-2.8,0.8c1-0.6,1.8-1.6,2.2-2.7c-1,0.6-2,1-3.1,1.2c-0.9-1-2.2-1.6-3.6-1.6  c-2.7,0-4.9,2.2-4.9,4.9c0,0.4,0,0.8,0.1,1.1C7.7,8.1,4.1,6.1,1.6,3.2C1.2,3.9,1,4.7,1,5.6c0,1.7,0.9,3.2,2.2,4.1  c-0.8,0-1.6-0.2-2.2-0.6v0.1c0,2.4,1.7,4.4,3.9,4.8c-0.4,0.1-0.8,0.2-1.3,0.2c-0.3,0-0.6,0-0.9-0.1c0.6,2,2.4,3.4,4.6,3.4  c-1.7,1.3-3.8,2.1-6.1,2.1c-0.4,0-0.8,0-1.2-0.1c2.2,1.4,4.8,2.2,7.6,2.2c9.1,0,14-7.5,14-14c0-0.2,0-0.4,0-0.6  C22.5,6.4,23.3,5.6,24,4.6C24,4.6,24,4.6,24,4.6z"></path>
-</svg></a>
+                    <a href="https://twitter.com/fullstory"><img alt="Follow FullStory on Twitter" class="svg" src="https://d33wubrfki0l68.cloudfront.net/d3ae0c04faf65fcd8f24432e35aa77bcc9b55b43/e0543/images/social/twitter.svg"></a>
                   </dd>
                   <dd>
-                    <a href="https://www.instagram.com/fullstoryhq/"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve" class="svg replaced-svg">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
-<title id="simpleicons-instagram-icon">Instagram icon</title>
-<path class="st0" d="M12,0C8.7,0,8.3,0,7.1,0.1C5.8,0.1,4.9,0.3,4.1,0.6C3.4,0.9,2.7,1.3,2,2S0.9,3.3,0.6,4.1  C0.3,4.9,0.1,5.8,0.1,7.1C0,8.3,0,8.7,0,12s0,3.7,0.1,4.9c0.1,1.3,0.3,2.1,0.6,2.9C0.9,20.6,1.3,21.3,2,22c0.7,0.7,1.3,1.1,2.1,1.4  c0.8,0.3,1.6,0.5,2.9,0.6C8.3,24,8.7,24,12,24s3.7,0,4.9-0.1c1.3-0.1,2.1-0.3,2.9-0.6c0.8-0.3,1.5-0.7,2.1-1.4  c0.7-0.7,1.1-1.3,1.4-2.1c0.3-0.8,0.5-1.6,0.6-2.9C24,15.7,24,15.3,24,12s0-3.7-0.1-4.9c-0.1-1.3-0.3-2.1-0.6-2.9  C23.1,3.4,22.7,2.7,22,2c-0.7-0.7-1.3-1.1-2.1-1.4c-0.8-0.3-1.6-0.5-2.9-0.6C15.7,0,15.3,0,12,0z M12,2.2c3.2,0,3.6,0,4.9,0.1  c1.2,0.1,1.8,0.2,2.2,0.4c0.6,0.2,1,0.5,1.4,0.9c0.4,0.4,0.7,0.8,0.9,1.4c0.2,0.4,0.4,1.1,0.4,2.2c0.1,1.3,0.1,1.6,0.1,4.8  s0,3.6-0.1,4.9c-0.1,1.2-0.3,1.8-0.4,2.2c-0.2,0.6-0.5,1-0.9,1.4c-0.4,0.4-0.8,0.7-1.4,0.9c-0.4,0.2-1.1,0.4-2.2,0.4  c-1.3,0.1-1.6,0.1-4.9,0.1c-3.2,0-3.6,0-4.9-0.1c-1.2-0.1-1.8-0.3-2.2-0.4c-0.6-0.2-1-0.5-1.4-0.9c-0.4-0.4-0.7-0.8-0.9-1.4  c-0.2-0.4-0.4-1.1-0.4-2.2c0-1.3-0.1-1.6-0.1-4.8c0-3.2,0-3.6,0.1-4.9C2.2,6,2.4,5.3,2.6,4.9c0.2-0.6,0.5-1,0.9-1.4  c0.4-0.4,0.8-0.7,1.4-0.9c0.4-0.2,1.1-0.4,2.2-0.4C8.4,2.1,8.7,2.1,12,2.2C12,2.1,12,2.2,12,2.2z M12,5.8c-3.4,0-6.2,2.8-6.2,6.2  c0,3.4,2.8,6.2,6.2,6.2c3.4,0,6.2-2.8,6.2-6.2C18.2,8.6,15.4,5.8,12,5.8z M12,16c-2.2,0-4-1.8-4-4s1.8-4,4-4s4,1.8,4,4  S14.2,16,12,16z M19.8,5.6c0,0.8-0.6,1.4-1.4,1.4C17.6,7,17,6.4,17,5.6s0.6-1.4,1.4-1.4C19.2,4.2,19.8,4.8,19.8,5.6z"></path>
-</svg></a>
+                    <a href="https://www.instagram.com/fullstoryhq/"><img alt="Follow FullStory on Instagram" class="svg" src="https://d33wubrfki0l68.cloudfront.net/6f6a3daedd9c16b86958e65b0b4018e6f6663728/d91bc/images/social/instagram.svg"></a>
                   </dd>
                   <dd>
-                    <a href="https://www.linkedin.com/company/fullstory"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve" class="svg replaced-svg">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
-<title id="simpleicons-linkedin-icon">LinkedIn icon</title>
-<path class="st0" d="M20.4,20.5h-3.6v-5.6c0-1.3,0-3-1.9-3c-1.9,0-2.1,1.4-2.1,2.9v5.7H9.4V9h3.4v1.6h0c0.5-0.9,1.6-1.9,3.4-1.9  c3.6,0,4.3,2.4,4.3,5.5L20.4,20.5L20.4,20.5z M5.3,7.4c-1.1,0-2.1-0.9-2.1-2.1c0-1.1,0.9-2.1,2.1-2.1c1.1,0,2.1,0.9,2.1,2.1  C7.4,6.5,6.5,7.4,5.3,7.4z M7.1,20.5H3.6V9h3.6V20.5z M22.2,0H1.8C0.8,0,0,0.8,0,1.7v20.5c0,1,0.8,1.7,1.8,1.7h20.5  c1,0,1.8-0.8,1.8-1.7V1.7C24,0.8,23.2,0,22.2,0L22.2,0z"></path>
-</svg></a>
+                    <a href="https://www.linkedin.com/company/fullstory"><img alt="Follow FullStory on LinkedIn" class="svg" src="https://d33wubrfki0l68.cloudfront.net/0e7bb7f7e9aa7d569bfea02f0aa680b17bb5ae34/b8c65/images/social/linkedin.svg"></a>
                   </dd>
                   <dd>
-                    <a href="https://plus.google.com/+FullStoryInc/"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve" class="svg replaced-svg">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
-<title id="simpleicons-googleplus-icon">Google+ icon</title>
-<path class="st0" d="M7.6,10.9v2.6H12c-0.2,1.1-1.3,3.3-4.3,3.3c-2.6,0-4.7-2.2-4.7-4.8c0-2.7,2.1-4.8,4.7-4.8c1.5,0,2.5,0.6,3,1.2  l2.1-2c-1.3-1.2-3.1-2-5.1-2C3.4,4.4,0,7.8,0,12s3.4,7.6,7.6,7.6c4.4,0,7.3-3.1,7.3-7.5c0-0.5-0.1-0.9-0.1-1.3  C14.8,10.9,7.6,10.9,7.6,10.9z M24,10.9h-2.2V8.7h-2.2v2.2h-2.2v2.2h2.2v2.2h2.2v-2.2H24"></path>
-</svg></a>
+                    <a href="https://plus.google.com/+FullStoryInc/"><img alt="Follow FullStory on Google +" class="svg" src="https://d33wubrfki0l68.cloudfront.net/01eee9af2c03c19e4bd19662aa5e3145adf4e7c3/a5c7b/images/social/googleplus.svg"></a>
                   </dd>
                   <dd>
-                    <a href="https://dribbble.com/fullstory"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve" class="svg replaced-svg">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
-<title id="simpleicons-dribbble-icon">Dribbble icon</title>
-<path class="st0" d="M12,24C5.4,24,0,18.6,0,12S5.4,0,12,0s12,5.4,12,12S18.6,24,12,24z M22.1,13.6c-0.4-0.1-3.2-1-6.4-0.4  c1.3,3.7,1.9,6.7,2,7.3C20,19,21.7,16.5,22.1,13.6L22.1,13.6z M16,21.5c-0.2-0.9-0.8-4-2.2-7.8l-0.1,0c-5.8,2-7.9,6-8,6.4  c1.7,1.4,3.9,2.2,6.3,2.2C13.4,22.3,14.8,22,16,21.5L16,21.5z M4.4,18.9c0.2-0.4,3-5.1,8.3-6.8c0.1,0,0.3-0.1,0.4-0.1  c-0.3-0.6-0.5-1.2-0.8-1.7c-5.1,1.5-10.1,1.5-10.5,1.5l0,0.3C1.8,14.6,2.8,17,4.4,18.9L4.4,18.9z M2,9.9c0.5,0,4.7,0,9.5-1.2  c-1.7-3-3.5-5.6-3.8-5.9C4.8,4.1,2.6,6.7,2,9.9L2,9.9z M9.6,2.1c0.3,0.4,2.1,2.9,3.8,6c3.6-1.4,5.2-3.4,5.4-3.7  C17,2.7,14.6,1.8,12,1.8C11.2,1.8,10.4,1.9,9.6,2.1L9.6,2.1z M19.9,5.5c-0.2,0.3-1.9,2.5-5.7,4c0.2,0.5,0.5,1,0.7,1.5  c0.1,0.2,0.1,0.4,0.2,0.5c3.4-0.4,6.8,0.3,7.1,0.3C22.2,9.5,21.4,7.3,19.9,5.5L19.9,5.5z"></path>
-</svg></a>
+                    <a href="https://dribbble.com/fullstory"><img alt="Follow FullStory on Dribbble" class="svg" src="https://d33wubrfki0l68.cloudfront.net/ddb4adb1922a721b90c3d2f7485878e2fa44b346/48a6d/images/social/dribbble.svg"></a>
                   </dd>
                 </dl>
               </div>
@@ -442,6 +511,12 @@
                   </dd>
                   <dd>
                     <a href="/pricing/demo/"> Request a Demo</a>
+                  </dd>
+                  <dd>
+                    <a href="https://blog.fullstory.com"> Foreward</a>
+                  </dd>
+                  <dd>
+                    <a href="https://bionic.fullstory.com"> Bionic</a>
                   </dd>
                   <dd>
                     <a href="/ui/"> Log In</a>
@@ -498,6 +573,9 @@
                     <a href="/investors/"> Investors</a>
                   </dd>
                   <dd>
+                    <a href="/partners/solutions/"> Partners</a>
+                  </dd>
+                  <dd>
                     <a href="/contact/"> Contact Us</a>
                   </dd>
                   <dd>
@@ -530,17 +608,7 @@
           </div>
         </div>
       </div>
-    </footer>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-52104533-1', 'fullstory.com');
-      ga('require', 'linkid', 'linkid.js');
-      ga('send', 'pageview');
-    </script>
-    <script src="/javascripts/main.js"></script><!--OneTrust Cookies Consent Notice start  -->
+    </footer><script src="https://d33wubrfki0l68.cloudfront.net/js/54ce66e8cd99977e46bc2aeef72903ed842cff66/javascripts/main.js"></script><!--OneTrust Cookies Consent Notice start-->
     <script>
       document.cookie = 'OptanonConsent=;domain=www.fullstory.com;expires=Thu, 01 Jan 1970 00:00:01 GMT';
       document.cookie = 'OptanonAlertBoxClosed=;domain=www.fullstory.com;expires=Thu, 01 Jan 1970 00:00:01 GMT';
@@ -549,6 +617,5 @@
     <script>
       function OptanonWrapper() { window.dataLayer.push( { event: 'OneTrustGroupsUpdated' } ); }
     </script>
-    <!--OneTrust Cookies Consent Notice end-->
   
-<script src="https://px.ads.linkedin.com/collect/?time=1580466859984&amp;pid=209369&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180925080649id_%2Fhttps%3A%2F%2Fwww.fullstory.com%2Flegal%2Fprivacy%2F&amp;pageUrl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180925080649id_%2Fhttps%3A%2F%2Fwww.fullstory.com%2Flegal%2Fprivacy%2F&amp;ref=&amp;fmt=js&amp;s=1" type="text/javascript"></script></body></html>
+</body></html>
