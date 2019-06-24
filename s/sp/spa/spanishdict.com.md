@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231110534id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624203443id_/https%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
 
-# SpanishDict | Privacy
+# SpanishDict | Privacidad
 
-  * [Home](http://www.spanishdict.com/) >
-  * [Company](http://www.spanishdict.com/company) >
-  * Privacy Policy
+  * [Inicio](https://www.spanishdict.com/) >
+  * [Companía](https://www.spanishdict.com/company) >
+  * Política de privacidad
 
 
 
-Last Updated 5/25/2018
+Last Updated 4/5/2019
 
-Thank you for using SpanishDict! Our mission is to bring free, high quality reference and education products to every Spanish-English learner in the world. To do that, we show you personalized services and ads that we think will be relevant based on the information we collect from you and third parties.
+Thank you for using SpanishDict! Our mission is to bring high quality reference and education products to every Spanish-English learner in the world. To do that, we show you personalized services and ads that we think will be relevant based on the information we collect from you and third parties.
 
-We recognize the importance of protecting your personal information. We wrote this Privacy Policy to describe how we collect, use, and share your information in connection with your use of the SpanishDict services, including the SpanishDict websites, emails, mobile applications, or other online services provided under the SpanishDict name (collectively, "SpanishDict Services").
+We recognize the importance of protecting your personal information. We wrote this Privacy Policy to describe how we collect, use, and share your information in connection with your use of the SpanishDict services, including the SpanishDict website, located at spanishdict.com (the "Website"), mobile applications (the "Application"), or other online services provided under the SpanishDict name (collectively, the "SpanishDict Services").
 
 When we mention "SpanishDict", "we", "us", "our", or "Curiosity Media", we are referring to the company that owns and operates SpanishDict, Curiosity Media, Inc.
 
@@ -50,12 +50,19 @@ In order to offer the SpanishDict Services, we rely on the ability to collect, s
 
 When you use the SpanishDict Services, you may provide information to us voluntarily. This information includes:
 
-  1. **Account Information:** If you create an account, we may store and use your name, username, email address, birthday, gender, and other information you may provide with your account. You can modify some of the information associated with your account [here](https://web.archive.org/users/edit). If you link your Facebook or Google account to the SpanishDict Services, we also may get information from those accounts, such as your email and contacts. The information we get depends on your settings and their privacy policies. 
+  1. **Account Information:** If you create an account, we may store and use your name, username, email address, birthday, gender, and other information you may provide with your account. You can modify some of the information associated with your account [here](https://web.archive.org/users/edit). If you link your Facebook or Google account to the SpanishDict Services, we also may get information from those accounts, such as your email and contacts. The information we get depends on your settings and their privacy policies. If you use the SpanishDict Services on your mobile device, including through our Application, we may collect your phone number and the unique device id number. If you tell us where you are (e.g., by allowing your mobile device to send us your location), we may store and use that information to provide you with location-based advertising. If you want to deactivate this feature, you can either reinstall the Application or deactivate GPS on your mobile device.
   2. **Content:** The content that you contribute to SpanishDict Services is intended for public consumption, including your vocabulary lists, forum posts, comments, and other content contributions. 
-  3. **Communications:** When you sign up for an account or use certain features, you are opting to receive messages from us and other users. You can manage some of your messaging preferences [here](https://web.archive.org/users/edit), but note that you cannot opt out of receiving certain administrative, transactional, or legal messages from us. We may also track your actions in response to the messages you receive from the SpanishDict Services, such as whether you deleted, opened, or forwarded such messages. If you exchange messages with others through SpanishDict Services, we may store them in order to process and deliver them, allow you to manage them, and we may review and disclose them in connection with investigations related to the operation and use of SpanishDict Services. We may also store information that you provide through communications to us, including from phone calls, letters, emails, and other electronic messages.
-  4. **Surveys:** We may collect and store personal information if you choose to participate in voluntary internet or telephone based surveys that help us learn more about our users. These survey results are generally not shared externally, but if they are, the results must be in an aggregate or anonymized form.
+  3. **Preferences:** Our Website lets you store preferences like how your content is displayed, your location, safe search settings, etc. We may associate these choices with your ID, browser or mobile device, and you can edit these preferences at any time.
+  4. **Billing:** When you order a subscription on our Application, we will collect all information necessary to complete the transaction, including your name, credit card information, and billing information.
+  5. **Communications:** When you sign up for an account or use certain features, you are opting to receive messages from us and other users. You can manage some of your messaging preferences [here](https://web.archive.org/users/edit), but note that you cannot opt out of receiving certain administrative, transactional, or legal messages from us. We may also track your actions in response to the messages you receive from the SpanishDict Services, such as whether you deleted, opened, or forwarded such messages. If you exchange messages with others through SpanishDict Services, we may store them in order to process and deliver them, allow you to manage them, and we may review and disclose them in connection with investigations related to the operation and use of SpanishDict Services. We may also store information that you provide through communications to us, including from phone calls, letters, emails, and other electronic messages.
+  6. **Surveys:** We may collect and store personal information if you choose to participate in voluntary internet or telephone based surveys that help us learn more about our users. These survey results are generally not shared externally, but if they are, the results must be in an aggregate or anonymized form.
+  7. **Other:** We may also collect other forms of personally identifiable information, such as at other points on our Website or Application that state personally identifiable information is being collected.
 
 
+
+### Information You Provide to Social Networking Sites
+
+The SpanishDict Services include interfaces that allow you to connect with social networking sites (each, a “SNS”). If you connect to a SNS through the SpanishDict Services, you authorize us to access, use and store the information that you agreed the SNS could provide to us based on your settings on that SNS. We will access, use and store that information in accordance with this Privacy Policy. You can revoke our access to the information you provide in this way at any time by amending the appropriate settings from within your account settings on the applicable SNS.
 
 ### Technical Information that we Collect
 
@@ -106,7 +113,8 @@ As part of providing SpanishDict Services to you, we may share information with 
   3. **Service Providers:** We may rely on third party providers to support or provide some of the services that are available through the SpanishDict Services, such as translations. We may also rely on third party providers to perform certain services for us in connection with your use of the SpanishDict Services, such as communications and hosting services, network security, technical and customer support, tracking and reporting functions, quality assurance testing, payment processing, our own marketing of the SpanishDict Services, and other functions. We may share information from or about you with these third party providers so that they can perform their services or complete your requests. These third party providers may share information with us that they obtain from or about you in connection with providing their services or completing your requests. Third party providers may also share this information with their subsidiaries, joint ventures, or other companies under common control. Some of our web pages utilize framing techniques to serve content to you from our third party providers, while preserving the look and feel of SpanishDict Services. In such cases, please note that the information you provide is being provided to the third party.
   4. **Business Partners:** We may share information with other third party companies and individuals that we work with to process information on our behalf. For example, we may share data with security consultants to help us better identify spam. Some information we acquire may be collected by third parties on our behalf.
   5. **Affiliates:** We may share information from or about you with our parent companies, subsidiaries, joint ventures, or other companies under common control, in which case we will require them to honor this Privacy Policy. If another company acquires Curiosity Media or all or substantially all of our assets, that company will possess the same information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
-  6. **Governments:** We may investigate and disclose information from or about you if we have a good faith belief that such investigation or disclosure (a) is reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) is helpful to prevent, investigate, or identify possible wrongdoing in connection with SpanishDict Services; or (c) protects our rights, reputation, property, or that of our users, affiliates, or the public, such as disclosures in connection with our Consumer Alerts program. 
+  6. **Social Networking Sites:** The SpanishDict Services may enable you to post content to SNSs (e.g., Facebook or Twitter). If you choose to do this, we will provide information to such SNSs in accordance with your elections. You acknowledge and agree that you are solely responsible for your use of those websites and that it is your responsibility to review the terms of use and privacy policy of the third party provider of such SNSs. We are not responsible or liable for: (i) the availability or accuracy of such SNSs; (ii) the content, products or services made available through such SNSs; or (iii) your use of any such SNSs.
+  7. **Other Disclosures:** We may investigate and disclose information from or about you if we have a good faith belief that such investigation or disclosure (a) is reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) is helpful to prevent, investigate, or identify possible wrongdoing in connection with SpanishDict Services; or (c) protects our rights, reputation, property, or that of our users, affiliates, or the public, such as disclosures in connection with our Consumer Alerts program. 
 
 
 
@@ -114,7 +122,11 @@ As part of providing SpanishDict Services to you, we may share information with 
 
 You may access and update your profile information for your SpanishDict account [here](https://web.archive.org/users/edit). If you would like to update, correct, modify or delete other personal information you have provided to us, please let us know by contacting us using the information provided in the Contact Us section below. We will comply with your request as soon as reasonably practicable.
 
+If you decide at any time that you no longer wish to have your SNS account linked to your SpanishDict account, you may de-link the SNS account in your SpanishDict account settings. You may also manage the sharing of certain personal information with us when you connect with us through an SNS. Please refer to the privacy settings of the SNS to determine how you may adjust our permissions and manage the interactivity between the Services and your SNS account or mobile device.
+
 Please note that we may need to retain certain information for record keeping purposes or to complete any transactions that you began prior to requesting such a change or deletion. We will retain your Personal Data for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by law.
+
+You can stop all collection of information by our Application by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 You also have choices available to you through the device or software you use to access the SpanishDict Services. For example:
 
@@ -127,7 +139,7 @@ To learn more about these choices, please see the information provided by your d
 
 ## Links to Third Party Sites
 
-SpanishDict may contain links to unaffiliated third party services. Except as described in this Privacy Policy, we do not share your personal information with them, and are not responsible for their privacy practices. We suggest you read the privacy policies on or applicable to all such third party services.
+SpanishDict may contain links to unaffiliated third party services. When you click on a link to any other website, you will leave the SpanishDict Services and go to another site and another entity may collect personal information from you. Except as described in this Privacy Policy, we do not share your personal information with them, and have no control over, do not review, and cannot be responsible for their privacy practices. We suggest you read the privacy policies on or applicable to all such third party services.
 
 ## Public Information
 
@@ -147,9 +159,11 @@ Third parties may be able to associate the information they collect with other i
 
 Please note that opting out does not prevent the display of all advertisements to you. Additionally, we may share non-personally identifiable information from or about you with third parties, such as demographic data, advertising identifiers, or a cryptographic hash of a common account identifier (such as an email address), to facilitate the display of targeted advertising. You may be able to limit our sharing of some of this information through your mobile device settings, as described in the section on managing Cookies 🍪 above.
 
+We utilize a first-party cookie that facilitates the use of targeted advertising by our third-party advertising partners. To opt yourself out of this cookie, please click here.
+
 ## Children
 
-Children under 13 are not allowed to use SpanishDict Services. SpanishDict is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us [here](https://web.archive.org/feedback). If you are based in the European Economic Area you may only use SpanishDict Services if you are over the age at which you can provide consent to data processing under the laws of your country.
+Children under 13 are not allowed to use SpanishDict Services. SpanishDict is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us [here](https://web.archive.org/feedback). If you are based in the European Economic Area, you may only use SpanishDict Services if you are over the age at which you can provide consent to data processing under the laws of your country.
 
 ## Communications
 
