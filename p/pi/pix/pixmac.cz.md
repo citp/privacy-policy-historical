@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pixmac.cz privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614195332id_/https%3A//www.pond5.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixmac.cz privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624192956id_/https%3A//www.pond5.com/legal/privacy) for the most accurate reproduction.*
 
-# Pond5 ~ World's Largest Stock Video Library, Audio Clips & More
+# Royalty-Free Stock Video Footage and Music Library | Pond5
 
 #### Pond5 Privacy and Cookie Policy
 
