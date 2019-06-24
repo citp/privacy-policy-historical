@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipmunk.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227160433id_/https%3A//www.hipmunk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipmunk.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625014854id_/https%3A//www.hipmunk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hipmunk
 
@@ -99,7 +99,7 @@ Hipmunk adheres to applicable data protection laws in the European Economic Area
 
 
 
-Hipmunk, Inc. is the controller of your Personal Data for the Services, and Concur (Netherlands) B.V., an affiliate of Hipmunk, Inc., located at Barbara Strozzilaan, 101 1083 HN, Amsterdam, The Netherlands, is our data protection representative for the EEA and Switzerland, which you may contact at [privacy-request@concur.com](mailto:privacy-request@concur.com). The data protection officer for SAP group companies is Mathias Cellarius ([privacy@sap.com](https://web.archive.org/web/20181227160433id_/https%3A//www.hipmunk.com/privacy@sap.com)).
+Hipmunk, Inc. is the controller of your Personal Data for the Services, and Concur (Netherlands) B.V., an affiliate of Hipmunk, Inc., located at Barbara Strozzilaan, 101 1083 HN, Amsterdam, The Netherlands, is our data protection representative for the EEA and Switzerland, which you may contact at [privacy-request@concur.com](mailto:privacy-request@concur.com). The data protection officer for SAP group companies is Mathias Cellarius ([privacy@sap.com](https://web.archive.org/web/20190625014854id_/https%3A//www.hipmunk.com/privacy@sap.com)).
 
 If applicable under French law, you can also send us specific instructions regarding the use of your personal information after your death by contacting us at [privacy@hipmunk.com](mailto:privacy@hipmunk.com).
 
