@@ -1,28 +1,63 @@
-<!--The following is the downloaded HTML source of the nerdapproved.com privacy policy that was archived on 2018-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223001633id_/https%3A//comicbook.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nerdapproved.com privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624190448id_/https%3A//comicbook.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
-		<script id="evidon-settings" src="//c.evidon.com/sitenotice/425/archive/settings.js"></script><script id="evidon-themes" src="//c.evidon.com/sitenotice/425/snthemes.js"></script><script id="evidon-location" src="//c.evidon.com/geo/country.js"></script><script id="evidon-notice" src="//c.evidon.com/sitenotice/evidon-sitenotice-tag.js"></script><script type="text/javascript">
-			window.consentGiven = false;
-			(function(id){function append(scriptid,url,async){var d=document,sn='script',f=d.getElementsByTagName(sn)[0];if(!f)f=d.head;var s=d.createElement(sn);s.async=typeof async!="undefined"?async:!0;s.id=scriptid;s.src=url;f.parentNode.insertBefore(s,f)}
-			function getRootDomain(){var parts=window.location.hostname.split('.');if(parts.length===2)rootDomain=parts[0];else if(parts.length>2){var part=parts[parts.length-2];if(part==='com'||part==='co'){rootDomain=parts[parts.length-3]}
-			else{rootDomain=part}}
-			return rootDomain}
-			window.evidon = {};
-			window.evidon.id=id;var cdn='//c.evidon.com/',rootDomain=getRootDomain(),noticecdn=cdn+'sitenotice/';append('evidon-notice',noticecdn+'evidon-sitenotice-tag.js',!1);append('evidon-location',cdn+'geo/country.js',!1);append('evidon-themes',noticecdn+id+'/snthemes.js',!1);if(rootDomain)append('evidon-settings',noticecdn+id+'/'+rootDomain+'/settings.js',!1);
-				window.evidon.priorConsentCallback=function(){
-					window.consentGiven = true;
-					document.dispatchEvent(new Event("pcm.consent.given"));
-				}
-				window.evidon.closeCallback=function(){
-				}
-				window.evidon.consentWithdrawnCallback=function(){
-					window.consentGiven = false;
-					document.dispatchEvent(new Event("pcm.consent.revoked"));
-				}})(425)
-		</script>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <script async="" id="evidon-settings" src="https://asset.comicbook.com/src/vendor/crownpeak/sitenotice/425/archive/settings.js"></script><script async="" id="evidon-themes" src="https://asset.comicbook.com/src/vendor/crownpeak/sitenotice/425/snthemes.js"></script><script id="evidon-location" src="//c.evidon.com/geo/country.js"></script><script async="" id="evidon-notice" src="https://asset.comicbook.com/src/vendor/crownpeak/sitenotice/evidon-sitenotice-tag.js"></script><script>
+    window.gdprConsent = false;
+(function(id) {
+    function append(scriptid, url, async) {
+        var d = document,
+            sn = 'script',
+            f = d.getElementsByTagName(sn)[0];
+        if (!f) f = d.head;
+        var s = d.createElement(sn);
+        s.async = typeof async != "undefined" ? async : !0;
+        s.id = scriptid;
+        s.src = url;
+        f.parentNode.insertBefore(s, f)
+    }
+
+    function getRootDomain() {
+        var parts = window.location.hostname.split('.');
+        if (parts.length === 2) rootDomain = parts[0];
+        else if (parts.length > 2) {
+            var part = parts[parts.length - 2];
+            if (part === 'com' || part === 'co') {
+                rootDomain = parts[parts.length - 3]
+            } else {
+                rootDomain = part
+            }
+        }
+        return rootDomain
+    }
+    window.evidon = {};
+	window.evidon.id = id;
+	window.crownpeak = {
+		localcdn:  "https://asset.comicbook.com/src/vendor/crownpeak"
+	}
+	window.Utility = window.Utility || {consent:{callbacks:[]},onCanTrack:function(callback){window.Utility.consent.callbacks.push(callback)}};
+	var evidoncdn='//c.evidon.com/', 
+		cdn = window.crownpeak.localcdn,
+        rootDomain = getRootDomain(),
+		noticecdn = cdn + '/sitenotice/';
+    append('evidon-notice', noticecdn + 'evidon-sitenotice-tag.js');
+    append('evidon-location', evidoncdn + 'geo/country.js', !1);
+    append('evidon-themes', noticecdn + id + '/snthemes.js');
+    if (rootDomain) append('evidon-settings', noticecdn + id + '/' + rootDomain + '/settings.js');
+    window.evidon.priorConsentCallback = function() {
+        window.gdprConsent = true;
+        document.dispatchEvent(new Event("pcm.consent.given"));
+    }
+    window.evidon.closeCallback = function() {}
+    window.evidon.consentWithdrawnCallback = function() {
+        window.gdprConsent = false;
+        document.dispatchEvent(new Event("pcm.consent.revoked"));
+
+    }
+})(425)
+    </script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Privacy</title>
         <meta name="description" content="Privacy">
         <meta name="keywords" content="">
@@ -36,7 +71,7 @@
         <meta property="fb:pages" content="1270246982997461"> <!-- PopCultureWWE -->
         <meta property="fb:pages" content="349297838806820">  <!-- popculturecountrymusic -->
         <meta property="fb:pages" content="1852744561604682">  <!-- PopCultureHorror -->
-        <meta property="fb:pages" content="39795225543"> <!-- COmicBook -->
+        <meta property="fb:pages" content="39795225543"> <!-- ComicBook -->
         <meta property="fb:pages" content="177641815726000"> <!-- DC/Marvel -->
         <meta property="fb:pages" content="1491451041161527"> <!-- TWD -->
         <meta property="fb:pages" content="1853563724911883"> <!-- ANIME -->
@@ -47,17 +82,18 @@
         <meta property="fb:pages" content="766536783448699"> <!-- WWG YELLOW -->
         <meta property="fb:pages" content="1808136129509732"> <!-- TOYS  -->
         <meta property="fb:pages" content="1075190092524035"> <!-- STAR WARS -->
+        <meta name="p:domain_verify" content="5ad45d41467dc74340d8100ffa0f2a73">  <!-- Pinterest -->
         <meta name="google-site-verification" content="x7hVrjifSfYWJfj0-FWACv2DSoXFbHhXgJ62RjFIkgs">
-        <meta name="uc" content="e80cd55c2d6defa6b3a45a7628d45404">
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,user-scalable=0">
-	
+        <meta name="uc" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5,user-scalable=0">
+    
         
-                <link rel="apple-touch-icon" href="//media.comicbook.com/img/comicbook/cbtouch.png?v=306">
-		<link rel="shortcut icon" href="https://asset.comicbook.com/img/comicbook/favicon.ico?v=1" type="image/x-icon">
-		<link rel="icon" href="https://asset.comicbook.com/img/comicbook/favicon.ico?v=1" type="image/x-icon">
-		<link href="//fonts.googleapis.com/css?family=Oswald:300,400" rel="stylesheet" type="text/css">
+                <link rel="apple-touch-icon" href="//media.comicbook.com/img/comicbook/cbtouch.png?v=520">
+    <link rel="shortcut icon" href="https://asset.comicbook.com/img/comicbook/favicon.ico?v=1" type="image/x-icon">
+    <link rel="icon" href="https://asset.comicbook.com/img/comicbook/favicon.ico?v=1" type="image/x-icon">
+    <link href="//fonts.googleapis.com/css?family=Oswald:300,400" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="https://use.typekit.net/gra1kun.css">
-        <link href="https://asset.comicbook.com/dist/comicbook/article.min.css?v=306" rel="stylesheet" type="text/css">
+        <link href="https://asset.comicbook.com/dist/comicbook/article.min.css?v=520" rel="stylesheet" type="text/css">
         
 
         <script>
@@ -65,14 +101,17 @@
             var comscoreID = '14409343';
             var competeID = 'a694309fba9b3e994014838bb3ff347f';
             var competeScript = '//c.compete.com/bootstrap/s/a694309fba9b3e994014838bb3ff347f/comicbook-com/bootstrap.js';
-		</script>
+    </script>
 
-		<script>
-			var cbc_page_stamp = "none";
+    <script>
+      var cbc_page_stamp = "none";
             // var keywords = [];
             // if (document.querySelectorAll('[data-tags]').length) {
             //     keywords = document.querySelectorAll('[data-tags]')[0].attributes['data-tags'].value.split("+");
             // }
+
+            var BidBarrel = BidBarrel || {};
+            BidBarrel.queue = BidBarrel.queue || [];
             var pageType = cbc_page_stamp;
             var referralDomain = "";
             if (typeof document.referrer !== 'undefined' && document.referrer != '') {
@@ -88,7 +127,7 @@
                 }
             }
             var updateNewsletter = function () {
-            	var preUpdateStatus = $cbc.Guest.Newsletter;
+              var preUpdateStatus = $cbc.Guest.Newsletter;
                 if ($cbc.Guest.EmailSubscriptions === null) {
                     $cbc.Guest.EmailSubscriptions = [];
                 }
@@ -119,417 +158,270 @@
             pbjs.que = pbjs.que || [];
             var googletag = googletag || {};
             googletag.cmd = googletag.cmd || [];
-			pbjs.que.push(updateNewsletter);
+              pbjs.que.push(updateNewsletter);
             var cbc_screen_size = "large";
-			window.width =  Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+      window.width =  Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
             if (window.width < 768) {
                 cbc_screen_size = "small";
             };
         </script>
-		<script>
-		var $cbc = {"CurrentSite":{"Key":"1","Name":"Comicbook.com","DomainExtension":"","Property":"comicbook.com","Site":"comicbook.com","PageType":"unknown","PageSubType":"unknown","AdPageType":"unknown","Topic":"comicbook.com","HasTakeover":"0","AdSiteName":"Comicbook.com","MediaVersion":"306","Keywords":[],"EmailSubscriptions":[1],"PaidContent":"false","AssetServer":"https:\/\/asset.comicbook.com\/","AssetConfigType":3,"RelativeSVGs":true,"Env":"3","Twitter":"ComicBook","PremiumAds":[["OOP1","MOOP1"]],"DynamicPlacements":{"FC1":1,"MC1":1,"MC2":5,"MC3":8}},"User":{"Key":null,"Alias":null,"Avatar":"https:\/\/media.comicbook.com\/files\/avatars\/default-200x200.jpg","Name":"","Status":"Guest","Activated":"False","PremiumLevel":0,"AgeRange":"0-13","Email":null,"FirstName":null,"LastName":null,"Points":null},"Guest":{"Email":"","EmailSubscriptions":[],"Newsletter":"Unsubscribed","IsEnrolled":false},"Model":{"IsHotTopic":false}};
+    <script>
+		var $cbc = {"CurrentSite":{"Key":"1","Name":"Comicbook.com","DomainExtension":"","Property":"comicbook.com","Site":"comicbook.com","PageType":"unknown","PageSubType":"unknown","AdPageType":"unknown","Topic":"comicbook.com","HasTakeover":"0","AdSiteName":"Comicbook.com","MediaVersion":"520","Keywords":[],"EmailSubscriptions":[1],"AssetServer":"https:\/\/asset.comicbook.com\/","AssetConfigType":3,"RelativeSVGs":true,"Env":"3","Twitter":"ComicBook","PremiumAds":[["OOP1","MOOP1"]],"DynamicPlacements":{"FC1":1,"MC1":1,"MC2":5,"MC3":8}},"User":{"Key":null,"Alias":null,"Avatar":"https:\/\/media.comicbook.com\/files\/avatars\/default-200x200.jpg","Name":"","Status":"Guest","Activated":"False","PremiumLevel":0,"AgeRange":"18-24","Email":null,"FirstName":null,"LastName":null,"Points":null},"Guest":{"Email":"","EmailSubscriptions":[],"Newsletter":"Unsubscribed","IsEnrolled":false},"Model":{"IsHotTopic":false}};
 		$cbc.CurrentSite.AdConfig = {
 prefix: 'aw-comicbook',
-cacheThreshold: 0.1,
 googleTagID: 8264,
-dfpVideoUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/1203931/ROS_Video_2&ciu_szs=300x250,300x600,728x90,970x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=comicbook.com&cust_params=height%3Dheightvalue%2Cwidth%3Dwidthvalue&correlator=',
-sharethrough: {
-	wrapper: '//native.sharethrough.com/assets/sfp.js',
-	keys: {
-		small: 'd8fZbTxDtCHdmXhtTVcWrmQ5',
-		large: 'z5n6gMvEjw3xtd3QEg9QN8yL'
-	}
-},
-yieldbot: {
-small: '41fe',
-large: 'b6af'
-},
-ix: '183728-254416506391397',
-aol: '9928.1',
-conversant: 64024,
-pulsepoint: 560430,
-amazon: 3037,
-rhythmone: 61910,
-wideorbit: 609,
-rubicon: {
-accountId: 14838,
-siteId: 84248,
-},
-bidders:{"x96":[{"bidder":"aol","params":{"placement":4880513}},{"bidder":"appnexusAst","params":{"placementId":13717692}},{"bidder":"ix","params":{"siteId":"303064","size":[320,50]}},{"bidder":"sonobi"}],"x94":[{"bidder":"amazon","params":{"width":300,"height":250,"size":"3x2"}},{"bidder":"aol","params":{"placement":4880511}},{"bidder":"appnexusAst","params":{"placementId":13717690}},{"bidder":"audienceNetwork","params":{"placementId":"229836851182290_229851954514113"}},{"bidder":"criteo","params":{"zoneId":1283327}},{"bidder":"ix","params":{"siteId":"303063","size":[300,250]}},{"bidder":"sonobi"}],"x93":[{"bidder":"amazon","params":{"width":320,"height":50,"size":"3x5"}},{"bidder":"aol","params":{"placement":4880513}},{"bidder":"aol","params":{"placement":4880511}},{"bidder":"appnexusAst","params":{"placementId":13717692}},{"bidder":"appnexusAst","params":{"placementId":13717690}},{"bidder":"audienceNetwork","params":{"placementId":"229836851182290_229851954514113"}},{"bidder":"criteo","params":{"zoneId":1283327}},{"bidder":"ix","params":{"siteId":"303066","size":[320,50]}},{"bidder":"ix","params":{"siteId":"303063","size":[300,250]}},{"bidder":"sonobi"}],"x92":[{"bidder":"amazon","params":{"width":320,"height":50,"size":"3x5"}},{"bidder":"aol","params":{"placement":4880513}},{"bidder":"aol","params":{"placement":4880511}},{"bidder":"appnexusAst","params":{"placementId":13717692}},{"bidder":"appnexusAst","params":{"placementId":13717690}},{"bidder":"audienceNetwork","params":{"placementId":"229836851182290_229851954514113"}},{"bidder":"criteo","params":{"zoneId":1283327}},{"bidder":"ix","params":{"siteId":"303065","size":[320,50]}},{"bidder":"ix","params":{"siteId":"303062","size":[300,250]}},{"bidder":"sonobi"}],"x91":[{"bidder":"amazon","params":{"width":300,"height":250,"size":"3x2"}},{"bidder":"aol","params":{"placement":4880511}},{"bidder":"appnexusAst","params":{"placementId":13717690}},{"bidder":"audienceNetwork","params":{"placementId":"229836851182290_229851954514113"}},{"bidder":"criteo","params":{"zoneId":1283327}},{"bidder":"ix","params":{"siteId":"303061","size":[300,250]}},{"bidder":"sonobi"}],"Top":[{"bidder":"amazon","params":{"width":728,"height":90,"size":"7x9"}},{"bidder":"aol","params":{"placement":4880510}},{"bidder":"appnexusAst","params":{"placementId":13717688}},{"bidder":"criteo","params":{"zoneId":1283328}},{"bidder":"ix","params":{"siteId":"303056","size":[728,90]}},{"bidder":"sonobi"}],"Middle3":[{"bidder":"amazon","params":{"width":300,"height":250,"size":"3x2"}},{"bidder":"aol","params":{"placement":4880509}},{"bidder":"appnexusAst","params":{"placementId":13717687}},{"bidder":"criteo","params":{"zoneId":1283326}},{"bidder":"ix","params":{"siteId":"303055","size":[300,250]}},{"bidder":"sonobi"}],"Middle2":[{"bidder":"amazon","params":{"width":300,"height":250,"size":"3x2"}},{"bidder":"aol","params":{"placement":4880509}},{"bidder":"appnexusAst","params":{"placementId":13717687}},{"bidder":"criteo","params":{"zoneId":1283326}},{"bidder":"ix","params":{"siteId":"303054","size":[300,250]}},{"bidder":"sonobi"}],"Middle1":[{"bidder":"aol","params":{"placement":4880509}},{"bidder":"appnexusAst","params":{"placementId":13717687}},{"bidder":"criteo","params":{"zoneId":1283326}},{"bidder":"ix","params":{"siteId":"303053","size":[300,250]}},{"bidder":"sonobi"}],"MCINC":[{"bidder":"amazon","params":{"width":300,"height":250,"size":"3x2"}},{"bidder":"aol","params":{"placement":4880511}},{"bidder":"aol","params":{"placement":4880513}},{"bidder":"appnexusAst","params":{"placementId":13717690}},{"bidder":"appnexusAst","params":{"placementId":13717692}},{"bidder":"audienceNetwork","params":{"placementId":"229836851182290_229851954514113"}},{"bidder":"criteo","params":{"zoneId":1283327}},{"bidder":"criteo","params":{"zoneId":1283331}},{"bidder":"ix","params":{"siteId":"303067","size":[300,250]}},{"bidder":"ix","params":{"siteId":"303068","size":[320,50]}},{"bidder":"sonobi"}],"MC1":[{"bidder":"aol","params":{"placement":4880511}},{"bidder":"appnexusAst","params":{"placementId":13717690}},{"bidder":"criteo","params":{"zoneId":1283327}},{"bidder":"ix","params":{"siteId":"303061","size":[300,250]}},{"bidder":"ix","params":{"siteId":"303064","size":[320,50]}}],"FCINC":[{"bidder":"amazon","params":{"width":300,"height":250,"size":"3x2"}},{"bidder":"aol","params":{"placement":4880509}},{"bidder":"appnexusAst","params":{"placementId":13717687}},{"bidder":"criteo","params":{"zoneId":1283326}},{"bidder":"ix","params":{"siteId":"303060","size":[300,250]}},{"bidder":"sonobi"}],"DesktopCommentsINC":[{"bidder":"aol","params":{"placement":4880509}},{"bidder":"appnexusAst","params":{"placementId":13717687}},{"bidder":"criteo","params":{"zoneId":1283326}},{"bidder":"ix","params":{"siteId":"303060","size":[300,250]}}],"CommentsINC":[{"bidder":"aol","params":{"placement":4880511}},{"bidder":"appnexusAst","params":{"placementId":13717690}},{"bidder":"audienceNetwork","params":{"placementId":"229836851182290_229851954514113"}},{"bidder":"criteo","params":{"zoneId":1283327}},{"bidder":"ix","params":{"siteId":"303067","size":[300,250]}}],"Bottom":[{"bidder":"amazon","params":{"width":728,"height":90,"size":"7x9"}},{"bidder":"aol","params":{"placement":4880510}},{"bidder":"appnexusAst","params":{"placementId":13717688}},{"bidder":"criteo","params":{"zoneId":1283328}},{"bidder":"ix","params":{"siteId":"303058","size":[728,90]}},{"bidder":"ix","params":{"siteId":"303059","size":[970,250]}},{"bidder":"sonobi"}],"BCINC":[{"bidder":"amazon","params":{"width":320,"height":50,"size":"3x5"}},{"bidder":"aol","params":{"placement":4880513}},{"bidder":"appnexusAst","params":{"placementId":13717692}},{"bidder":"criteo","params":{"zoneId":1283331}},{"bidder":"ix","params":{"siteId":"303066","size":[320,50]}},{"bidder":"sonobi"}]}
-};
-
-$cbc.CurrentSite.AdConfig.AuctionEvents = {
-"article.slider-reloadads": {
-units: ["external", "fixed", "FC1", "MC1"],
-when: "$cbc.CurrentSite.PageSubType != 'slideshow' && args.currentSlide != 0"
-},
-"article.slider-reloadads-0": {
-units: ["external", "fixed","dynamic"],
-when: "$cbc.CurrentSite.PageSubType != 'slideshow' && args.currentSlide == 0"
-},
-"article.incontentads": {
-when: "$cbc.CurrentSite.PageSubType != 'slideshow'"
-},
-"headline.infinite-scroll": {},
-"content.comments-loaded": {},
-"article.advance-page" : {
-when: "adFlow.currentScreen() == 'small' && [1,3,4,6,7,9,10,12,13,15,16,18,19,20].indexOf(parseInt(args.pageNum)) >= 0",
-units: ["x96"]
-},
-"article.advance-page-2": {
-once: true,
-when: "args.pageNum == 2",
-units: ["external", "x96","FC4","FC5","FC6","MC4","MC5","MC6","Middle1","Middle2","Middle3"]
-},
-"article.advance-page-5": {
-once: true,
-when: "args.pageNum == 5",
-units: ["external", "x96","FC7","FC8","FC9","MC7","MC8","MC9","Middle1","Middle2","Middle3"]
-},
-"article.advance-page-8": {
-once: true,
-when: "args.pageNum == 8",
-units: ["external", "x96","FC10","FC11","FC12","MC10","MC11","MC12","Middle1","Middle2","Middle3"]
-},
-"article.advance-page-11": {
-once: true,
-when: "args.pageNum == 11",
-units: ["external", "x96","FC13","FC14","FC15","MC13","MC14","MC15","Middle1","Middle2","Middle3"]
-},
-"article.advance-page-14": {
-once: true,
-when: "args.pageNum == 14",
-units: ["external", "x96","FC16","FC17","FC18","MC16","MC17","MC18","Middle1","Middle2","Middle3"]
-},
-"article.advance-page-17": {
-once: true,
-when: "args.pageNum == 17",
-units: ["external", "x96","FC19","FC20","MC19","MC20","Middle1","Middle2","Middle3"]
+gumgumId: 'db99b661',
+playbuzz: {
+	siteId: 'mcd-sdk-jssdk_CBS_comicbook.com',
+	embedId: '807c90d7-0c00-4f14-abef-27d6609a233c'
 }
-};        var lazyLoadAds = true;
-		var cbcAdUnits=[
-			{
-				pos: "top",
-                tag: "x96",
-				domId: "mobile_skybox_plus_top",
-				screen: "small",
-				lazy: lazyLoadAds,
-				sizes: [
-					[320,50],
-					[5,5]
-				],
-				dfpSlugs: {
-                    home: "home",
-                    news_article: "news_article",
-					article: "article",
-                    slideshow: "slideshow",
-                    image_gallery: "image_gallery",
-                    news_door: "news_door",
-                    category_news: "category_news",
-                    platform_door: "platform_door",
-                    topic_main: "topic_main",
-                    category_door: "category_door",
-                    listing: "listing",
-                    ranking: "ranking",
-                    schedule: "schedule",
-                    topic_door: "topic_door"
-				},
-                refresh: {
-                    takeover: true,
-                    normal: true
-                }
-			},
-            {
-                tag: "x94",
-				pos: "bottom",
-				domId: "mobile_flex_bottom",
-                screen: "small",
-                lazy: lazyLoadAds,
-                sizes: [
-                    [300,250]
-                ],
-                dfpSlugs: {
-                    news_door: "news_door",
-                    category_news: "category_news",
-                    platform_door: "platform_door",
-					listing: "listing",
-					ranking: "ranking",
-					schedule: "schedule"
-                }
-            },
-			{
-                pos: "bottom",
-				tag: "x93",
-				domId: "mobile_flex_bottom",
-				screen: "small",
-				lazy: lazyLoadAds,
-				sizes: [
-					[300,250],
-					[320,50]
-				],
-				dfpSlugs: {
-                    news_door: "news_door",
-                    category_news: "category_news",
-                    platform_door: "platform_door",
-					listing: "listing"
-				}
-
-			},
-			{
-                pos: "middle",
-				tag: "x92",
-				domId: "mobile_flex_middle",
-				screen: "small",
-				lazy: lazyLoadAds,
-				sizes: [
-					[320,50],
-					[300,250]
-				],
-				dfpSlugs: {
-                    news_door: "news_door",
-                    category_news: "category_news",
-                    platform_door: "platform_door"
-				}
-			},
-			{
-                pos: "top",
-				tag: "x91",
-				domId: "mobile_mpu_top",
-				screen: "small",
-				lazy: lazyLoadAds,
-				dynamic: true,
-				scroll: ["home"],
-				sizes: [
-					[300,250]
-				],
-				dfpSlugs: {
-                    news_door: "news_door",
-                    category_news: "category_news",
-                    platform_door: "platform_door",
-                    listing: "listing",
-                    ranking: "ranking",
-                    schedule: "schedule"
-				}
-			},
-            {
-                tag: "BC0",
-				pos: "bottom",
-                screen: "small",
-				lazy: lazyLoadAds,
-                incrementing: true,
-                dynamic: true,
-                scroll: ["home"],
-                sizes: [
-                    [320,50]
-                ],
-                dfpSlugs: {
-					news_article: "news_article",
-					article: "article",
-					slideshow: "slideshow",
-					image_gallery: "image_gallery"
-                },
-                refresh: {
-                    takeover: false,
-                    normal: true
-                }
-            },
-			{
-				pos: "top",
-                tag: "Top",
-				screen: "large",
-				domId: "skybox_plus_top",
-				lazy: lazyLoadAds,
-				sizes: [
-					[728,90],
-                    [970,90],
-                    [970,66],
-                    [5,5]
-				],
-				dfpSlugs: {
-					home: "home",
-                    news_article: "news_article",
-					article: "article",
-                    slideshow: "slideshow",
-                    image_gallery: "image_gallery",
-                    news_door: "news_door",
-                    category_news: "category_news",
-                    platform_door: "platform_door",
-                    topic_main: "topic_main",
-                    category_door: "category_door",
-                    listing: "listing",
-                    ranking: "ranking",
-                    schedule: "schedule",
-                    topic_door: "topic_door"
-				},
-                refresh: {
-                    takeover: true,
-                    normal: true
-                }
-			},
-			{
-				pos: "top",
-                tag: "Middle1",
-				domId: "mpu_top",
-				screen: "large",
-				lazy: lazyLoadAds,
-				sizes: [
-                    [300,250]
-				],
-				dfpSlugs: {
-                    home: "home",
-                    news_article: "news_article",
-					article: "article",
-                    slideshow: "slideshow",
-                    image_gallery: "image_gallery",
-                    news_door: "news_door",
-                    category_news: "category_news",
-                    platform_door: "platform_door",
-                    topic_main: "topic_main",
-                    category_door: "category_door",
-                    listing: "listing",
-                    ranking: "ranking",
-                    schedule: "schedule",
-                    topic_door: "topic_door"
-				},
-                refresh: {
-                    takeover: true,
-                    normal: true
-                }
-			},
-			{
-                pos: "middle",
-				tag: "Middle2",
-				domId:"mpu_middle",
-				screen: "large",
-				lazy: lazyLoadAds,
-				sizes: [
-					[300,250]
-				],
-				dfpSlugs: {
-                    home: "home",
-                    news_door: "news_door",
-                    news_article: "news_article",
-					article: "article",
-					slideshow: "slideshow",
-					image_gallery: "image_gallery",
-                    category_news: "category_news",
-                    platform_door: "platform_door",
-                    topic_main: "topic_main",
-                    category_door: "category_door",
-                    listing: "listing",
-                    ranking: "ranking",
-                    schedule: "schedule",
-                    topic_door: "topic_door"
-				},
-                refresh: {
-                    takeover: true,
-                    normal: true
-                }
-			},
-			{
-                pos: "bottom",
-				tag: "Middle3",
-				domId: "mpu_bottom",
-				screen: "large",
-				lazy: lazyLoadAds,
-				sizes: [
-					[300,250]
-				],
-				dfpSlugs: {
-                    home: "home",
-                    news_door: "news_door",
-                    category_news: "category_news",
-                    platform_door: "platform_door",
-                    topic_main: "topic_main",
-                    category_door: "category_door",
-                    listing: "listing",
-                    ranking: "ranking",
-                    schedule: "schedule"
-				},
-                refresh: {
-                    takeover: true,
-                    normal: true
-                }
-			},
-			{
-                pos: "bottom",
-				tag: "Bottom",
-				domId: "flex_bottom",
-				screen: "large",
-				lazy: lazyLoadAds,
-				sizes: [
-					[728,90],
-					[970,250]
-				],
-				dfpSlugs: {
-                    listing: "listing",
-                    ranking: "ranking",
-                    schedule: "schedule"
-				},
-                refresh: {
-                    takeover: true,
-                    normal: false
-                }
-			},
-			{
-				pos: "",
-				tag: "OOP1",
-				external: true,
-				domId: "outofpage",
-				sizes: [[1,1]],
-				screen: "large",
-				lazy: false,
-				dfpSlugs: {
-                    home: "home",
-                    news_article: "news_article",
-					article: "article",
-                    slideshow: "slideshow",
-                    image_gallery: "image_gallery",
-                    news_door: "news_door",
-                    category_news: "category_news",
-                    platform_door: "platform_door",
-                    topic_main: "topic_main",
-                    category_door: "category_door",
-                    listing: "listing",
-                    ranking: "ranking",
-                    schedule: "schedule",
-                    topic_door: "topic_door"
-				},
-                refresh: {
-                    takeover: true,
-                    normal: false                }
-			},
-			{
-				pos: "",
-				tag: "MOOP1",
-				external: true,
-				domId: "outofpage",
-				sizes: [[1,1]],
-				screen: "small",
-				lazy: false,
-				dfpSlugs: {
-                    home: "home",
-                    news_article: "news_article",
-					article: "article",
-                    slideshow: "slideshow",
-                    image_gallery: "image_gallery",
-                    news_door: "news_door",
-                    category_news: "category_news",
-                    platform_door: "platform_door",
-                    topic_main: "topic_main",
-                    category_door: "category_door",
-                    listing: "listing",
-                    ranking: "ranking",
-                    schedule: "schedule",
-                    topic_door: "topic_door"
-				},
-                refresh: {
-                    takeover: true,
-                    normal: false                }
-			}
- ]</script>
+};        
+var cbcAdUnits = {
+    "oas_x96": {
+        "code": "oas_x96",
+        "screen": "small",
+        "pageTypes": [
+            "home",
+            "news_article",
+            "article",
+            "slideshow",
+            "image_gallery",
+            "news_door",
+            "category_news",
+            "platform_door",
+            "topic_main",
+            "category_door",
+            "listing",
+            "ranking",
+            "schedule",
+            "topic_door",
+			"unknown"
+        ]
+    },
+    "oas_BC0": {
+        "code": "oas_BC0",
+        "screen": "small",
+        "pageTypes": ["news_article", "article", "slideshow", "image_gallery"]
+    },
+    "oas_Top": {
+        "code": "oas_Top",
+        "screen": "large",
+        "pageTypes": [
+            "home",
+            "news_article",
+            "article",
+            "slideshow",
+            "image_gallery",
+            "news_door",
+            "category_news",
+            "platform_door",
+            "topic_main",
+            "category_door",
+            "listing",
+            "ranking",
+            "schedule",
+            "topic_door",
+			"unknown"
+        ]
+    },
+    "oas_Middle1": {
+        "code": "oas_Middle1",
+        "screen": "large",
+        "pageTypes": [
+            "home",
+            "news_article",
+            "article",
+            "slideshow",
+            "image_gallery",
+            "news_door",
+            "category_news",
+            "platform_door",
+            "topic_main",
+            "category_door",
+            "listing",
+            "ranking",
+            "schedule",
+            "topic_door",
+			"unknown"
+        ]
+    },
+    "oas_Middle2": {
+        "code": "oas_Middle2",
+        "screen": "large",
+        "pageTypes": [
+            "home",
+            "news_door",
+            "news_article",
+            "article",
+            "slideshow",
+            "image_gallery",
+            "category_news",
+            "platform_door",
+            "topic_main",
+            "category_door",
+            "listing",
+            "ranking",
+            "schedule",
+            "topic_door",
+			"unknown"
+        ]
+    },
+    "oas_Middle3": {
+        "code": "oas_Middle3",
+        "screen": "large",
+        "pageTypes": [
+            "home",
+            "news_door",
+            "category_news",
+            "platform_door",
+            "topic_main",
+            "category_door",
+            "listing",
+            "ranking",
+            "schedule",
+			"unknown"
+        ]
+    },
+    "oas_Bottom": {
+        "code": "oas_Bottom",
+        "screen": "large",
+        "pageTypes": ["listing", "ranking", "schedule"]
+    },
+    "oas_OOP1": {
+        "code": "oas_OOP1",
+        "screen": "large",
+        "pageTypes": [
+            "home",
+            "news_article",
+            "article",
+            "slideshow",
+            "image_gallery",
+            "news_door",
+            "category_news",
+            "platform_door",
+            "topic_main",
+            "category_door",
+            "listing",
+            "ranking",
+            "schedule",
+            "topic_door",
+			"unknown"
+        ]
+    },
+    "oas_MOOP1": {
+        "code": "oas_MOOP1",
+        "screen": "small",
+        "pageTypes": [
+            "home",
+            "news_article",
+            "article",
+            "slideshow",
+            "image_gallery",
+            "news_door",
+            "category_news",
+            "platform_door",
+            "topic_main",
+            "category_door",
+            "listing",
+            "ranking",
+            "schedule",
+            "topic_door",
+			"unknown"
+        ]
+    },
+	"oas_MC": {
+		"code": "oas_MC",
+		"screen": "small",
+		"pageTypes": [
+            "home",
+            "news_article",
+            "article",
+            "slideshow",
+            "image_gallery",
+            "news_door",
+            "category_news",
+            "platform_door",
+            "topic_main",
+            "category_door",
+            "listing",
+            "ranking",
+            "schedule",
+            "topic_door"
+		]
+	},
+	"oas_FC": {
+		"code": "oas_FC",
+		"screen": "large",
+		"pageTypes": [
+            "home",
+            "news_article",
+            "article",
+            "slideshow",
+            "image_gallery",
+            "news_door",
+            "category_news",
+            "platform_door",
+            "topic_main",
+            "category_door",
+            "listing",
+            "ranking",
+            "schedule",
+            "topic_door"
+		]
+	},
+	"oas_DesktopComments": {
+		"code": "oas_DesktopComments",
+		"screen": "large",
+		"pageTypes": [
+            "home",
+            "news_article",
+            "article",
+            "slideshow",
+            "image_gallery",
+            "news_door",
+            "category_news",
+            "platform_door",
+            "topic_main",
+            "category_door",
+            "listing",
+            "ranking",
+            "schedule",
+            "topic_door"
+		]
+	},
+	"oas_Comments": {
+		"code": "oas_Comments",
+		"screen": "small",
+		"pageTypes": [
+            "home",
+            "news_article",
+            "article",
+            "slideshow",
+            "image_gallery",
+            "news_door",
+            "category_news",
+            "platform_door",
+            "topic_main",
+            "category_door",
+            "listing",
+            "ranking",
+            "schedule",
+            "topic_door"
+		]
+	},
+	"oas_BC": {
+		"code": "oas_BC",
+		"screen": "small",
+		"pageTypes": [
+			"news_article",
+			"article",
+			"slideshow",
+			"image_gallery"
+		]
+	}
+}</script>
 <script>
-	
+
 	var pageCount = 1;
 	var pageCurrent = 1;
 				popCultureAnalyticsConfig = {
@@ -539,72 +431,10 @@ units: ["external", "x96","FC19","FC20","MC19","MC20","Middle1","Middle2","Middl
 		eventsToTrack: [
 		], // inside declare the element selector (i.e. window) with an object of event names and their object values
 		observables: [
-			// {
-			// 	variable: "document.querySelector('interaction[data-token]').innerHTML",
-			// 	when: "document.querySelector('interaction[data-token]').innerHTML != ''",
-			// 	once: true,
-			// 	report: {
-			// 		metric: "nondfpadimpression",
-			// 		value: 1,
-			// 		dimensions: {
-			// 			"advertisername": "Apester",
-			// 			"adtype": "Interactive"
-			// 		}
-			// 	}
-			// // },
-			{
-				variable: "document.querySelector('.contentset.footer-set > main [plid]').innerHTML",
-				once: true,
-				report: {
-					metric: "nondfpadimpression",
-					value: 1,
-					dimensions: {
-						"advertisername": "TripleLift",
-						"adtype": "Native"
-					}
-				}
-			},
-			// {
-			// 	variable: "document.querySelector('#content-footer-extra').innerHTML",
-			// 	when: "document.querySelector('#content-footer-extra').innerHTML != ''",
-			// 	once: true,
-			// 	report: {
-			// 		metric: "nondfpadimpression",
-			// 		value: 1,
-			// 		dimensions: {
-			// 			"advertisername": "Connatix",
-			// 			"adtype": "Interactive"
-			// 		}
-			// 	}
-			// },
-			{
-				variable: "Object.keys(Utility.objects.keysLike(GUMGUM,/ad_is_/i)).length",
-				report: {
-					metric: "nondfpadimpression",
-					dimensions: {
-						"advertisername": "GumGum",
-						"adtype": "Display"
-					},
-					eval: {
-						value: "parent.diff"
-					}
-				}
-			}//,
-			// {
-			// 	variable: "Nativo.ads.length",
-			// 	value: 1,
-			// 	report: {
-			// 		metric: "nondfpadimpression",
-			// 		dimensions: {
-			// 			"advertisername": "Nativo",
-			// 			"adtype": "Native"
-			// 		}
-			// 	}
-			// }
 		],
 		ga: {
-			identifier: 'UA-2754597-1'
-		},
+			identifier: 'UA-2754597-1',
+					},
 		fbPixel: {
 			identifier: "342239506206499"
 		},
@@ -614,62 +444,9 @@ units: ["external", "x96","FC19","FC20","MC19","MC20","Middle1","Middle2","Middl
 		comscore: {
 			identifier: "14409343"
 		},
-		compete: {
-			identifier: "a694309fba9b3e994014838bb3ff347f"
-		},
-		alexa: {
-			identifier: "PluEo1IWx810em",
-			domain: "comicbook.com",
-			dynamic: true
-		},
-		oneByAOL: {
-			events: [
-				{
-					interface: "AD_START",
-					report: { 
-						metric: 'nondfpadimpression',
-						value: 1,
-						// when: "!PopColtureAnalytics.handlers.oneByAOL.registeredEvents.iterable.AD_END[args.currentIndex].reported",
-						dimensions: {
-							"advertisername": "ONE By AOL",
-							"adtype": "Video"
-						} 
-					}
-				}//,
-				// {
-				// 	interface: "AD_END",
-				// 	iterable: true,
-				// 	report: {
-				// 		metric: 'nondfpadimpression',
-				// 		value: 1,
-				// 		when: "!PopColtureAnalytics.handlers.oneByAOL.registeredEvents.iterable.AD_START[args.currentIndex].reported",
-				// 		dimensions: {
-				// 			"advertisername": "ONE By AOL",
-				// 			"adtype": "Video"
-				// 		}
-				// 	}
-				// }
-			]
-		},
-		surge: {
-			params: {
-                "siteId" : 642392372,
-                "categories": [
-                    {
-                        "id": "CB-Comicbook.com",
-                        "name": "CB-Comicbook.com"
-                    }
-                ],
-                "pluginVersion" : "1.2.25",
-                                "postType" : "unknown",
-                                                /* keep this the same every time */
-			}
-		}
 	}
 </script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=342239506206499&ev=PageView&noscript=1"
-/></noscript>		<script>
+    <script>
 
             if (pageType == 'article') {
                 if ($cbc.CurrentSite.PageSubType == "photogallery") {
@@ -678,274 +455,285 @@ src="https://www.facebook.com/tr?id=342239506206499&ev=PageView&noscript=1"
                     pageType = 'slideshow';
                 }
             }
-		</script>
-                <script src="https://asset.comicbook.com/dist/comicbook/public-head.min.js?v=306" type="text/javascript"></script>
-					<script>
-				function loadTakeOver(data) {
-					adFlow.applyTakeover(data);
-				}
-				function changeAdhesionSize(size, margin) {
-					$( ".adhesion-block").height(size);
-					$(".body").css("margin-top", margin + 'px' );
-				}
-			</script>
-		    </head>
-	<body class="gdpr-no-consent gdpr-in-eu body static_pg ">
-		<!-- <div class="adhesion-block">
+    </script>
+                          <script>
+        function loadTakeOver(data) {
+          adFlow.applyTakeover(data);
+        }
+        function changeAdhesionSize(size, margin) {
+          $( ".adhesion-block").height(size);
+          $(".body").css("margin-top", margin + 'px' );
+        }
+      </script>
+        
+    </head>
+  <body class="gdpr-no-consent gdpr-in-eu pcm-public body static_pg ">
+    <!-- <div class="adhesion-block">
 	<div id="oas_x96" class="oas ad_blk small" data-width="320" data-height="50" data-js="adhesion"></div>
-			<div id="oas_Top" class="oas_desktop_banner" data-width="728" data-height="90" data-js="adhesion"></div>
+			                                        <div id="oas_Top" class="oas_desktop_banner" data-width="728" data-height="90" data-js="adhesion"></div>
 	</div> -->
-<div class="pcm-site-header">
-	<div class="adhesion-block">
-		<div id="oas_x96" class="oas small" data-width="320" data-height="50" data-js="adhesion"></div>
-					<div id="oas_Top" class="oas_desktop_banner" data-width="728" data-height="90" data-js="adhesion"></div>
-			</div>
-	<header id="header" class="topnav">
-		<nav class="channel-nav clearfix">
-			<ul class="channels">
-				<li>
-					<a href="http://popculture.com/page/about">
-						PopCulture Media
-					</a>
-					<a href="http://comicbook.com">
-						ComicBook.com
-					</a>
-					<a href="http://popculture.com">
-						PopCulture.com
-					</a>
-				</li>
+<div id="oas_x96" class="oas small" data-width="320" data-height="50" data-js="adhesion"></div>
+<div id="oas_Top" class="oas_desktop_banner" data-width="728" data-height="90" data-js="adhesion"></div>
+<header id="header" class="topnav">
+	<nav class="channel-nav clearfix">
+    <ul class="channels">
+			<li>
+				<a href="http://comicbook.com">
+					ComicBook.com
+				</a>
+				<a href="http://popculture.com">
+					PopCulture.com
+				</a>
+				<a href="https://gamespot.com/">
+					Gamespot.com
+				</a>
+            </li>
+            <li class="skip"><a href="#main-content"> <strong>Skip To Main Content</strong></a></li>
+		</ul>
+					<ul class="social">
+				<li class="social"><a href="https://facebook.com/comicbookdotcom" target="_blank" title="Join Us on Facebook" rel="noopener"><svg role="presentation" title="facebook" aria-hidden="true"><use xlink:href="/img/svg-defs.svg?v=520#facebook"></use></svg></a></li>
+				<li class="social"><a href="https://twitter.com/ComicBook" target="_blank" title="Follow Us on Twitter"><svg role="presentation" title="twitter" rel="noopener"><use xlink:href="/img/svg-defs.svg?v=520#twitter"></use></svg></a></li>
+				<li class="social youtube"><a href="https://www.youtube.com/user/ComicBookCom/playlists" target="_blank" title="Follow Us on Youtube" rel="noopener"><svg role="presentation" title="YouTube" aria-hidden="true"><use xlink:href="/img/svg-defs.svg?v=520#youtube"></use></svg></a></li>
+				<li class="social"><a href="https://www.instagram.com/comicbook/" target="_blank" title="Follow Us on Instagram" rel="noopener"><svg role="presentation" title="Instagram" aria-hidden="true"><use xlink:href="/img/svg-defs.svg?v=520#instagram"></use></svg></a></li>
 			</ul>
-							<ul class="social">
-					<li class="social"><a href="https://facebook.com/comicbookdotcom" target="_blank" title="Join Us on Facebook" rel="noopener"><svg role="presentation" title="facebook" aria-hidden="true"><use xlink:href="/img/svg-defs.svg?v=306#facebook"></use></svg></a></li>
-					<li class="social"><a href="https://twitter.com/ComicBook" target="_blank" title="Follow Us on Twitter"><svg role="presentation" title="twitter" rel="noopener"><use xlink:href="/img/svg-defs.svg?v=306#twitter"></use></svg></a></li>
-					<li class="social"><a href="https://plus.google.com/+Comicbook/" target="_blank" title="Follow Us on Google+" rel="noopener"><svg role="presentation" title="googleplus" aria-hidden="true"><use xlink:href="/img/svg-defs.svg?v=306#googleplus"></use></svg></a></li>
-					<li class="social youtube"><a href="https://www.youtube.com/user/ComicBookCom/playlists" target="_blank" title="Follow Us on Youtube" rel="noopener"><svg role="presentation" title="YouTube" aria-hidden="true"><use xlink:href="/img/svg-defs.svg?v=306#youtube"></use></svg></a></li>
-					<li class="social"><a href="https://www.instagram.com/comicbook/" target="_blank" title="Follow Us on Instagram" rel="noopener"><svg role="presentation" title="Instagram" aria-hidden="true"><use xlink:href="/img/svg-defs.svg?v=306#instagram"></use></svg></a></li>
-				</ul>
-					</nav>
-		<nav class="full-nav">
-			<a href="/" class=""><svg role="presentation" title="Comicbook.com logo"><use xlink:href="/img/svg-defs.svg?v=306#comicbook-logo-1"></use></svg></a>
-			<a href="https://comicbook.com" class="channel-link ">
-							</a>
-			<div class="site-nav">
-				<ul>
-										<li>
-						<div id="Search">
-							<div class="search">
-								<form id="SearchForm" action="/site/search" method="get">
-									<fieldset class="googlesearch_fds">
-										<input type="hidden" name="View" value="Search">
-										<label class="hidden">Search</label>
-										<input name="q" type="search" placeholder="Search Comicbook.com">
-										<button>
-											<svg role="presentation" title="Search Icon"><use xlink:href="/img/svg-defs.svg?v=306#search"></use></svg>
-											<span class="visuallyhidden">Search</span>
-										</button>
-									</fieldset>
-								</form>
-							</div>
+			</nav>
+	<nav class="full-nav">
+		<a href="/" class=""><svg role="presentation" title="Comicbook.com logo"><use xlink:href="/img/svg-defs.svg?v=520#comicbook-logo-1"></use></svg></a>
+		<a href="https://comicbook.com" class="channel-link ">
+					</a>
+		<div class="site-nav">
+			<ul>
+								<li>
+					<!-- Mobile Search -->
+					<div id="SearchMobile">
+						<div class="search">
+							<form id="SearchFormMobile" action="/site/search" method="get">
+								<fieldset class="googlesearch_fds">
+									<input type="hidden" name="View" value="Search">
+									<label class="hidden">Search</label>
+									<input name="q" type="search" placeholder="Search Comicbook.com">
+									<button>
+										<svg role="presentation" title="Search Icon"><use xlink:href="/img/svg-defs.svg?v=520#search"></use></svg>
+										<span class="visuallyhidden">Search</span>
+									</button>
+								</fieldset>
+							</form>
 						</div>
+					</div>
+				</li>
+													<li class="pc-media-link">
+						<a href="http://www.popculture.com">Pop Culture Media <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=520#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=520#arrow-down-solid"></use></svg></a>
+						<section id="AllFranchises" class="dropdown">
+							<ul>
+								<li><a href="http://comicbook.com">ComicBook.com</a></li>
+								<li><a href="http://popculture.com">PopCulture.com</a></li>
+								<li><a href="http://popculture.com/page/about">About</a></li>
+								<li><a href="http://popculture.com/page/advertising">Advertise</a></li>
+								<li><a href="http://popculture.com/page/contact">Contact</a></li>
+							</ul>
+						</section>
 					</li>
-																<li class="pc-media-link">
-							<a href="http://www.popculture.com">Pop Culture Media <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=306#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=306#arrow-down-solid"></use></svg></a>
-							<section id="Franchises" class="dropdown">
-								<ul>
-									<li><a href="http://comicbook.com">ComicBook.com</a></li>
-									<li><a href="http://popculture.com">PopCulture.com</a></li>
-									<li><a href="http://popculture.com/page/about">About</a></li>
-									<li><a href="http://popculture.com/page/advertising">Advertise</a></li>
-									<li><a href="http://popculture.com/page/contact">Contact</a></li>
-								</ul>
-							</section>
-						</li>
-						<li>
-							<a>Franchises <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=306#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=306#arrow-down-solid"></use></svg></a>
-							<section id="Franchises" class="dropdown">
-								<ul>
-																		<li><a href="/dc/">DC</a></li>
-									<li><a href="/marvel/">Marvel</a></li>
-									<li><a href="/thewalkingdead/">The Walking Dead</a></li>
-									<li><a href="/starwars/">Star Wars</a></li>
-									<li><a href="/startrek/">Star Trek</a></li>
-									<li><a href="/anime/">Anime</a></li>
-									<li><a href="/horror/">Horror</a></li>
-									<li><a href="/powerrangers/">Power Rangers</a></li>
-									<li><a href="/wwe">WWE</a></li>
-									<li><a href="http://popculture.com/streaming">Streaming</a></li>
-								</ul>
-							</section>
-						</li>
-																																									<li>
-								<a href="/movies">Movies <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=306#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=306#arrow-down-solid"></use></svg></a>
+					<li>
+						<a tabindex="0">Franchises <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=520#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=520#arrow-down-solid"></use></svg></a>
+						<section id="Franchises" class="dropdown">
+							<ul>
+																<li><a href="/dc/">DC</a></li>
+								<li><a href="/marvel/">Marvel</a></li>
+								<li><a href="/thewalkingdead/">The Walking Dead</a></li>
+								<li><a href="/starwars/">Star Wars</a></li>
+								<li><a href="/startrek/">Star Trek</a></li>
+								<li><a href="/anime/">Anime</a></li>
+								<li><a href="/horror/">Horror</a></li>
+								<li><a href="/powerrangers/">Power Rangers</a></li>
+								<li><a href="/wwe">WWE</a></li>
+								<li><a href="http://popculture.com/streaming">Streaming</a></li>
+							</ul>
+						</section>
+					</li>
+																									<li>
+								<a href="/movies">Movies <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=520#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=520#arrow-down-solid"></use></svg></a>
 								<section class="dropdown">
 									<ul>
 																			<li><a href="/movies/news">Movie News</a></li>
 										<li><a href="/movie/database">Database</a></li>
-										<li><a href="/list/comicbook-com-composite-rankings-comic-book-movies-">Composite Rankings</a></li>
+										<li><a href="/list/comicbook-com-top-metacritic-comic-movies-">Metacritic Rankings</a></li>
 										<li><a href="/list/franchise-movies-release-schedule">Release Schedule</a></li>
 										<li><a href="/list/comicbook-com-anticipated-rankings-comic-book-movies">Anticipation Rankings</a></li>
 										<li><a href="/list/top-grossing-comic-book-movies-worldwide-">Top Grossing Comic Movies</a></li>
-																		<li><a href="/category/avengers-infinity-war-part-ii">Avengers 4</a></li><li><a href="/category/star-wars-episode-ix">Star Wars Episode IX</a></li><li><a href="/category/aquaman">Aquaman</a></li><li><a href="/category/captain-marvel">Captain Marvel</a></li><li><a href="/category/-venom-2018-">Venom</a></li><li><a href="/category/wonder-woman-2">Wonder Woman 1984</a></li>																		</ul>
+																		<li><a href="/category/avengers-endgame">Avengers: Endgame</a></li><li><a href="/category/star-wars-episode-ix">Star Wars Episode IX</a></li><li><a href="/category/wonder-woman-2">Wonder Woman 1984</a></li><li><a href="/category/captain-marvel">Captain Marvel</a></li><li><a href="/category/spider-man-2-2019-">Spider-Man: Far From Home</a></li><li><a href="/category/x-men-dark-phoenix">X-Men: Dark Phoenix</a></li>																		</ul>
 								</section>
 							</li>
-																																			<li>
-								<a href="/tv-shows">TV <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=306#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=306#arrow-down-solid"></use></svg></a>
+																																	<li>
+								<a href="/tv-shows">TV <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=520#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=520#arrow-down-solid"></use></svg></a>
 								<section class="dropdown">
 									<ul>
 																			<li><a href="/tv-shows/news">TV News</a></li>
 										<li><a href="/tv/database">Database</a></li>
-										<li><a href="/list/comicbook-tvshow-composite">Composite Rankings</a></li>
+										<li><a href="/list/comicbook-com-top-metacritic-tvshows-">Metacritic Rankings</a></li>
 										<li><a href="/list/upcoming-tv-episodes">Upcoming Episodes</a></li>
-																		<li><a href="/category/the-walking-dead">The Walking Dead</a></li><li><a href="/category/cws-the-flash">The Flash</a></li><li><a href="/category/marvels-agents-of-s-h-i-e-l-d-">Agents of S.H.I.E.L.D.</a></li><li><a href="/category/gotham">Gotham</a></li><li><a href="/category/arrow">Arrow</a></li><li><a href="/category/iron-fist-tvshow">Iron Fist</a></li>																			<li><a href="http://popculture.com/category/game-of-thrones">Game of Thrones</a></li>
+																		<li><a href="/category/the-walking-dead">The Walking Dead</a></li><li><a href="/category/game-of-thrones">Game Of Thrones</a></li><li><a href="/category/marvels-agents-of-s-h-i-e-l-d-">Agents of S.H.I.E.L.D.</a></li><li><a href="/category/arrow">Arrow</a></li><li><a href="/category/cws-the-flash">The Flash</a></li>																			<li><a href="http://popculture.com/category/game-of-thrones">Game of Thrones</a></li>
 																		</ul>
 								</section>
 							</li>
-																																			<li>
-								<a href="/comics">Comics <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=306#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=306#arrow-down-solid"></use></svg></a>
+																																	<li>
+								<a href="/comics">Comics <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=520#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=520#arrow-down-solid"></use></svg></a>
 								<section class="dropdown">
 									<ul>
 																			<li><a href="/comics/news">Comic News</a></li>
 										<li><a href="/comic/database">Database</a></li>
-																		<li><a href="/category/-marvel-comics">Marvel</a></li><li><a href="/category/dc-comics">DC</a></li><li><a href="/category/image-comics">Image</a></li><li><a href="/category/valiant">Valiant</a></li>																		</ul>
+																		<li><a href="/category/-marvel-comics">Marvel</a></li><li><a href="/category/dc-comics">DC</a></li><li><a href="/category/image-comics">Image</a></li><li><a href="/category/-boom-studios">BOOM! Studios</a></li>																		</ul>
 								</section>
 							</li>
-																																			<li>
-								<a href="/gaming">Gaming <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=306#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=306#arrow-down-solid"></use></svg></a>
+																																	<li>
+								<a href="/gaming">Gaming <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=520#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=520#arrow-down-solid"></use></svg></a>
 								<section class="dropdown">
 									<ul>
 																			<li><a href="http://comicbook.com/gaming">Gaming News</a></li>
 																		<li><a href="/category/nintendo">Nintendo</a></li><li><a href="/category/xbox">Xbox</a></li><li><a href="/category/playstation">Playstation</a></li><li><a href="/category/mobile-games">Mobile</a></li><li><a href="/category/pc">PC</a></li>																		</ul>
 								</section>
 							</li>
-																																			<li>
-								<a href="/anime">Anime <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=306#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=306#arrow-down-solid"></use></svg></a>
+																																	<li>
+								<a href="/anime">Anime <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=520#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=520#arrow-down-solid"></use></svg></a>
 								<section class="dropdown">
 									<ul>
 																			<li><a href="/anime/news">Anime News</a></li>
 																		<li><a href="/category/dragon-ball-super">Dragon Ball Super</a></li><li><a href="/category/pokemon-tvshow">Pokemon</a></li><li><a href="/category/attack-on-titan">Attack on Titan</a></li><li><a href="/category/boruto">Boruto</a></li><li><a href="/category/my-hero-academia">My Hero Academia</a></li><li><a href="/category/one-piece">One Piece</a></li>																		</ul>
 								</section>
 							</li>
-													 
-						<li><a href="/list/top-100-ultimate-users">Community <svg role="presentation" title="Arrow Down" class="mobile"><use xlink:href="/img/svg-defs.svg?v=306#arrow-right"></use></svg><svg role="presentation" title="Down Arrow Solid" class="desktop"><use xlink:href="/img/svg-defs.svg?v=306#arrow-down-solid"></use></svg></a>
-							<section id="Community" class="dropdown">
-								<ul>
-									<li><a href="/list/top-100-ultimate-users">Comicbook Top 100 Ultimate Users</a></li>
-									<li><a href="/list/ultimate-staff">Comicbook Ultimate Staff</a></li>
-									<li><a href="/hottopics">Top 10 Hot Topics</a></li>
-								</ul>
-							</section>
-						</li>
-													<!-- CB playlists page -->
-							<li><a href="https://www.youtube.com/user/ComicBookCom/playlists?sort=lad&amp;view=1&amp;flow=grid">Video</a></li>
-												
-										<li>
-						<div class="navsocial_blk"><!--
-							<div class="newsletter">
-								<a href="/newsletter/landing">Sign Up For Free Newsletter</a>
-							</div>-->
-																					<div>
-								<div class="socialnav_blk">
-									<svg role="presentation" title="Twitter Icon"><use xlink:href="/img/svg-defs.svg?v=306#twitter"></use></svg>
-								</div>
-								<a class="twitter-follow-button" href="https://twitter.com/ComicBook" data-size="medium">
-									Follow @ComicBook								</a>
-							</div>
-																					<div>
-								<div class="socialnav_blk">
-									<svg role="presentation" title="Facebook Icon"><use xlink:href="/img/svg-defs.svg?v=306#facebook"></use></svg>
-								</div>
-								<iframe data-consent-src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F%2F&amp;width=95&amp;layout=button_count&amp;action=like&amp;size=large&amp;show_faces=true&amp;share=false&amp;height=21&amp;appId" width="99" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-							</div>
-																					<div>
-								<div class="socialnav_blk">
-									<svg role="presentation" title="Google+ Icon"><use xlink:href="/img/svg-defs.svg?v=306#googleplus"></use></svg>
-								</div>
-								<div class="googleplus_blk">
-									<div class="g-follow" data-count="true" data-height="24" data-width="200" data-href="https://plus.google.com/107643867754355018896" data-rel="publisher"></div>
-								</div>
-							</div>
-																						<div>
-									<div class="socialnav_blk">
-										<svg role="presentation" title="Video Icon"><use xlink:href="/img/svg-defs.svg?v=306#video"></use></svg>
-									</div>
-									<div class="g-ytsubscribe" data-channel="ComicBookCom" data-layout="default" data-count="default"></div>
-								</div>
-													</div>
-					</li>
-				</ul>
-			</div>
-			<ul class="user-nav">
-									<li class="log-in">
-						<a class="user_nav">
-							<svg role="presentation" title="User Icon"><use xlink:href="/img/svg-defs.svg?v=306#user3"></use></svg><svg role="presentation" title="Arrow Down"><use xlink:href="/img/svg-defs.svg?v=306#arrow-down"></use></svg>
-						</a>
-						<section class="dropdown">
-							<header>
-								<h2>Sign in using your account with:</h2>
-								<ul class="soclogin_lst">
-									<li>
-										<a href="https://www.facebook.com/v2.0/dialog/oauth?client_id=231517050198188&amp;redirect_uri=https%3A%2F%2Fcomicbook.com%2Fsinglesignon%3Ftype%3DFB&amp;state=a2c0fed9d56ef92471a8b04849bc29c6&amp;sdk=php-sdk-4.0.8&amp;scope=email"><svg role="presentation" title="Facebook Icon"><use xlink:href="/img/svg-defs.svg?v=306#facebook"></use></svg></a>
-									</li>
-									<li class="hidden">
-										<a href="/twitterconnect"><svg role="presentation" title="Twitter Icon"><use xlink:href="/img/svg-defs.svg?v=306#twitter"></use></svg></a>
-									</li>
-									<li class="hidden">
-										<a href="https://accounts.google.com/o/oauth2/auth?client_id=299744271806-i8rbmg53568vvh8eetqov42541r7au5j.apps.googleusercontent.com&amp;redirect_uri=https%3A%2F%2Fcomicbook.com%2Fsinglesignon%3Ftype%3DGO&amp;state=a2c0fed9d56ef92471a8b04849bc29c6&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login+profile+email&amp;response_type=code&amp;access_type=offline"><svg role="presentation" title="Google+ Icon"><use xlink:href="/img/svg-defs.svg?v=306#googleplus"></use></svg></a>
-									</li>
-								</ul>
-								<h2>or sign in with your Comicbook.com ID:</h2>
-							</header>
-
-							<form method="Post" action="/login" class="login_frm">
-								<fieldset>
-									<label class="visuallyhidden">Email</label>
-									<input id="Email" name="Email" type="text" placeholder="Email">
-									<label class="visuallyhidden">Password</label>
-									<input id="Password" name="Password" type="password" placeholder="Password">
-								</fieldset>
-								<button type="submit" class="btn">Login</button>
-								<fieldset class="remember_fds">
-									<input checked="checked" id="RememberMe" name="RememberMe" type="checkbox" value="true">
-									<label>Remember me on this computer</label>
-								</fieldset>
-							</form>
-							<div class="login_blk">
-								<p><a href="/user/new">Register</a> - <a href="/forgot-password">Forgot Password</a></p>
-							</div>
-							<div class="login_blk skn2">
-								<p>By creating an account, you verify that you are at least 13 years of age, and have read and agree to the Comicbook.com <a href="/page/termsofservice">Terms of Service</a> and <a href="/page/privacy">Privacy Policy</a></p>
-							</div>
+																		<li><a href="/list/top-100-ultimate-users">Community <svg role="presentation" class="mobile"><title>Arrow Down</title><use xlink:href="/img/svg-defs.svg?v=520#arrow-right"></use></svg><svg role="presentation" class="desktop"><title>Down Arrow Solid</title><use xlink:href="/img/svg-defs.svg?v=520#arrow-down-solid"></use></svg></a>
+						<section id="Community" class="dropdown">
+							<ul>
+								<li><a href="/list/top-100-ultimate-users">Comicbook Top 100 Ultimate Users</a></li>
+								<li><a href="/list/ultimate-staff">Comicbook Ultimate Staff</a></li>
+								<li><a href="/hottopics">Top 10 Hot Topics</a></li>
+							</ul>
 						</section>
 					</li>
-				
-				<li class="menu">
-					<a class="menu-icon"><span></span></a>
-				</li>
-				<li class="search">
-					<a><svg role="presentation" title="Search Icon"><use xlink:href="/img/svg-defs.svg?v=306#search"></use></svg></a>
-					<section id="Search" class="dropdown">
-						<form id="SearchForm" action="/site/search" method="get">
-							<fieldset class="googlesearch_fds">
-								<input type="hidden" name="View" value="Search">
-								<label class="hidden">Search</label>
-								<input name="q" type="search" placeholder="Search Comicbook.com">
-								<button>
-									<svg role="presentation" title="Search Icon"><use xlink:href="/img/svg-defs.svg?v=306#search"></use></svg>
-									<span class="visuallyhidden">Search</span>
-								</button>
+											<!-- CB playlists page -->
+						<li><a href="https://www.youtube.com/user/ComicBookCom/playlists?sort=lad&amp;view=1&amp;flow=grid">Video</a></li>
+					
+								<li>
+					<div class="navsocial_blk"><!--
+						<div class="newsletter">
+							<a href="/newsletter/landing">Sign Up For Free Newsletter</a>
+						</div>-->
+                                                                            <div>
+                                <div class="socialnav_blk">
+                                    <a class="social-link" href="https://twitter.com/ComicBook" data-size="medium">
+                                        <svg role="presentation">
+                                            <title>Twitter Icon</title>
+                                            <use xlink:href="/img/svg-defs.svg?v=520#twitter"></use>
+                                        </svg>
+                                    </a>
+                                </div>
+
+                            </div>
+                                                                            <div>
+                                <div class="socialnav_blk">
+                                    <a class="social-link" href="https://facebook.com/comicbookdotcom" target="_blank" title="Join Us on Facebook" rel="noopener">
+                                        <svg role="presentation">
+                                            <title>Facebook Icon</title>
+                                            <use xlink:href="/img/svg-defs.svg?v=520#facebook"></use>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                                                                            <div>
+                                <div class="socialnav_blk">
+                                    <a class="social-link" href="https://www.youtube.com/user/ComicBookCom/playlists target=" _blank"="" title="Join Us on YouTube" rel="noopener">
+                                        <svg role="presentation">
+                                            <title>Video Icon</title>
+                                            <use xlink:href="/img/svg-defs.svg?v=520#video"></use>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                                            </div>
+                </li>
+            </ul>
+        </div>
+        <ul class="user-nav">
+                            <li class="log-in" tabindex="0">
+                    <a class="user_nav">
+                        <svg role="presentation">
+                            <title>User Icon</title>
+                            <use xlink:href="/img/svg-defs.svg?v=520#user3"></use>
+                        </svg><svg class="login-menu-caret" role="presentation">
+                            <title>Arrow Down</title>
+                            <use xlink:href="/img/svg-defs.svg?v=520#arrow-down">
+                        </use></svg>
+                    </a>
+                    <section class="dropdown">
+                        <header>
+                            <h2>Sign in using your account with:</h2>
+                            <ul class="soclogin_lst">
+                                <li>
+                                    <a href="https://www.facebook.com/v2.0/dialog/oauth?client_id=231517050198188&amp;redirect_uri=https%3A%2F%2Fcomicbook.com%2Fsinglesignon%3Ftype%3DFB&amp;state=&amp;sdk=php-sdk-4.0.8&amp;scope=email"><svg role="presentation">
+                                            <title>Facebook Icon</title>
+                                            <use xlink:href="/img/svg-defs.svg?v=520#facebook"></use>
+                                        </svg></a>
+                                </li>
+                            </ul>
+                            <h2>or sign in with your Comicbook.com ID:</h2>
+                        </header>
+
+						<form method="Post" action="/login" class="login_frm">
+							<fieldset>
+								<label class="visuallyhidden">Email</label>
+								<input id="Email" name="Email" type="text" placeholder="Email">
+								<label class="visuallyhidden">Password</label>
+								<input id="Password" name="Password" type="password" placeholder="Password">
+							</fieldset>
+							<button type="submit" class="btn">Login</button>
+							<fieldset class="remember_fds">
+								<input checked="checked" id="RememberMe" name="RememberMe" type="checkbox" value="true">
+								<label>Remember me on this computer</label>
 							</fieldset>
 						</form>
-						<a class="close">
-							<svg role="presentation" title="Close"><use xlink:href="/img/svg-defs.svg?v=306#close"></use></svg>
-						</a>
+						<div class="login_blk">
+							<p><a href="/user/new"><b>Register</b></a> - <a href="/forgot-password"><b>Forgot Password</b></a></p>
+						</div>
+						<div class="login_blk skn2">
+							<p>By creating an account, you verify that you are at least 13 years of age, and have read and agree to the Comicbook.com <a href="/page/termsofservice"><b>Terms of Service</b></a> and <a href="/page/privacy"><b>Privacy Policy</b></a></p>
+						</div>
 					</section>
 				</li>
-			</ul>
-		</nav>
-	</header>
-</div>		                    <!-- <div id="oas_Top" class="oas_desktop_banner" data-width="728" data-height="90"><script>performance.mark("top_loaded");</script></div> -->
-        		<section class="main clearfix" data-exp="">
-			<section class="main_content full">
+			
+            <li class="menu">
+                <a class="menu-icon" tabindex="0"><span></span></a>
+            </li>
+            <li class="search">
+                <a href="#Search"><svg role="presentation">
+                        <title>Search Icon</title>
+                        <use xlink:href="/img/svg-defs.svg?v=520#search">
+                    </use></svg></a>
+                <section id="Search" class="dropdown">
+                    <form id="SearchForm" action="/site/search" method="get">
+                        <fieldset class="googlesearch_fds">
+                            <input type="hidden" name="View" value="Search">
+                            <label class="hidden">Search</label>
+                            <input name="q" type="search" placeholder="Search Comicbook.com">
+                            <button>
+                                <svg role="presentation">
+                                    <title>Search Icon</title>
+                                    <use xlink:href="/img/svg-defs.svg?v=520#search">
+                                </use></svg>
+                                <span class="visuallyhidden">Search</span>
+                            </button>
+                        </fieldset>
+                    </form>
+                    <a class="close">
+                        <svg role="presentation">
+                            <title>Close</title>
+                            <use xlink:href="/img/svg-defs.svg?v=520#close">
+                        </use></svg>
+                    </a>
+                </section>
+            </li>
+        </ul>
+    </nav>
+</header>        <section class="main clearfix" id="main-content" role="main" data-exp="">
+      <section class="main_content full">
     <article class="page-article">
         <section class="article-content static-page">
 			<h1>Privacy Policy</h1>
@@ -1068,110 +856,83 @@ src="https://www.facebook.com/tr?id=342239506206499&ev=PageView&noscript=1"
 <p>Contact Information</p>
 <p>To ask questions or comment about this privacy policy and our privacy practices, contact us at <a href="mailto:support@comicbook.com">support@comicbook.com</a> .</p>        </section>
     </article>
-</section>		</section>
+</section>    </section>
 
                     <section class="bottomads">
                 <div id="oas_x94" class="oas ad_blk hero-ad small" data-width="300" data-height="250"></div>
                 <div id="oas_Bottom" class="oas ad_blk hero-ad large" data-width="728" data-height="90"></div>
             </section>
-                		<footer class="pc-site-footer">
-			<small>
-				PLEASE NOTE:  Effective as of November 22, 2018 your use and our operation of this website will no longer be subject to the Privacy Policy and Terms of Service posted in the footer below, and will instead be subject to the standard <a href="https://legalterms.cbsinteractive.com/privacy">CBS Interactive Privacy Policy</a> and <a href="https://legalterms.cbsinteractive.com/terms-of-use">Terms of Use</a>.
-			</small>
-            <!-- <div class="social">
-                <h3>Follow Us On</h3>
-                <ul>
-                    <li>
-                        <a href="https://www.facebook.com/popculturedotcom/" target="_blank" rel="noopener" title="Join Us on Facebook"><svg><use xlink:href="https://asset.comicbook.com/img/svg-defs.svg?v=306#facebook" /></svg></a>
-                    </li>
-                    <li>
-                        <a href="https://twitter.com/popculturenow" target="_blank" rel="noopener" title="Follow Us on Twitter"><svg><use xlink:href="https://asset.comicbook.com/img/svg-defs.svg?v=306#twitter" /></svg></a>
-                    </li>
-                    <li>
-                        <a href="https://instagram.com/popculture" target="_blank" rel="noopener" title="Follow Us on Instagram"><svg><use xlink:href="https://asset.comicbook.com/img/svg-defs.svg?v=306#instagram" /></svg></a>
-                    </li>
-                </ul>
-            </div> -->
-            <div class="site-links">
-                <ul>
-                    <li><a href="https://popculture.com/entertainment">Entertainment</a></li>
-                    <li><a href="https://popculture.com/celebrity">Celebrity</a></li>
-                    <li><a href="https://comicbook.com">Comicbook</a></li>
-                    <li><a href="https://comicbook.com/gaming">Gaming</a></li>
-                    <li><a href="https://popculture.com/lifestyle">Lifestyle</a></li>
-                </ul>
-                <ul>
-                    <li>
-                        <a href="https://popculture.com/page/about">About</a>
-                    </li>
-                    <li>
-                        <a href="https://popculture.com/page/contact">Contact</a>
-                    </li>
-                    <li>
-                        <a href="https://popculture.com/page/advertising">Advertising</a>
-                    </li>
-                    <li>
-                        <a href="https://popculture.com/page/jobs">Careers</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li>
-                        <a href="https://popculture.com/page/privacy">Privacy</a>
-                    </li>
-                    <li>
-                        <a href="https://popculture.com/page/dmca">DMCA</a>
-                    </li>
-                    <li>
-                        <a href="https://popculture.com/page/termsofservice">Terms of Service</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li>
-                        <a href="https://popculture.com/user/new">Register</a>
-                    </li>
-                    <li>
-                        <a href="https://popculture.com/login">Login</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="about">
-                <div>
-                    <a href="/">
-                        <svg role="presentation" title="Comicbook.com logo"><use xlink:href="/img/svg-defs.svg?v=306#comicbook-logo-1"></use></svg>                    </a>
-                    <a href="https://popculture.com/">
-                        <svg role="presentation" title="PopCulture.com logo"><use xlink:href="/img/svg-defs.svg?v=306#popculture-logo-1"></use></svg>                    </a>
-                </div>
-                <p><img src="https://www.gamespot.com/bundles/phoenixsite/images/core/loose/logo-gamespot-clear.png"> Copyright 2018 ComicBook.com. All rights reserved.</p>
-            </div>
-            <div class="server_blk">
-                                    <!-- 10.10.3.45-->                            </div>
+                    <footer class="pc-site-footer">
+
+
+      <small>
+        PLEASE NOTE:  Effective as of November 22, 2018 your use and our operation of this website will no longer be subject to the Privacy Policy and Terms of Service posted in the footer below, and will instead be subject to the standard <a href="https://legalterms.cbsinteractive.com/privacy">CBS Interactive Privacy Policy</a> and <a href="https://legalterms.cbsinteractive.com/terms-of-use">Terms of Use</a>.
+      </small>
+
+      <div class="site-links">
+          <ul>
+              <li><a href="https://popculture.com/entertainment">Entertainment</a></li>
+              <li><a href="https://popculture.com/celebrity">Celebrity</a></li>
+              <li><a href="https://comicbook.com">Comicbook</a></li>
+              <li><a href="https://comicbook.com/gaming">Gaming</a></li>
+              <li><a href="https://popculture.com/lifestyle">Lifestyle</a></li>
+          </ul>
+          <ul>
+              <li>
+                  <a href="https://comicbook.com/page/about">About</a>
+              </li>
+              <li>
+                  <a href="https://comicbook.com/page/contact">Contact</a>
+              </li>
+              <li>
+                  <a href="https://popculture.com/page/advertising">Advertising</a>
+              </li>
+              <li>
+                  <a href="https://popculture.com/page/jobs">Careers</a>
+              </li>
+          </ul>
+          <ul>
+              <li>
+                  <a href="https://popculture.com/page/privacy">Privacy</a>
+              </li>
+              <li>
+                  <a href="https://popculture.com/page/dmca">DMCA</a>
+              </li>
+              <li>
+                  <a href="https://popculture.com/page/termsofservice">Terms of Service</a>
+              </li>
+          </ul>
+          <ul>
+              <li>
+                  <a href="https://popculture.com/user/new">Register</a>
+              </li>
+              <li>
+                  <a href="https://popculture.com/login">Login</a>
+              </li>
+          </ul>
+      </div>
+      <div class="about">
+          <div>
+              <a href="/">
+                  <svg role="image"><title>Comicbook.com Home</title><use xlink:href="/img/svg-defs.svg?v=520#comicbook-logo-1"></use></svg>              </a>
+              <a href="https://popculture.com/">
+                  <svg role="image"><title>PopCulture.com Home</title><use xlink:href="/img/svg-defs.svg?v=520#popculture-logo-1"></use></svg>              </a>
+          </div>
+          <p><img alt="Gamespot Logo" src="https://www.gamespot.com/bundles/phoenixsite/images/core/loose/logo-gamespot-clear.png"> Copyright 2018 ComicBook.com. All rights reserved.</p>
+      </div>
+      <div class="server_blk">
+                        <!-- 10.10.9.172-->                </div>
         </footer>
         <div id="oas_OOP1"></div>
         <div id="oas_OOP2"></div>
         <div id="oas_MOOP1"></div>
         <div id="oas_MOOP2"></div>
 
-		<script src="https://asset.comicbook.com/dist/comicbook/public.min.js?v=306" type="text/javascript"></script>
-		<script type="text/javascript">
-			document.dispatchEvent(new Event("pcm.content.loaded"))
-		</script>
-        <script>
-            document.addEventListener('adFlow-end', function(e) {
-                                utils.renderScript([
-                    {
-                        content: "ggv2id='db99b661';",
-						id: "gumgum-id",
-						notInEU: true,
-                    },
-                    {
-                        url: "https://g2.gumgum.com/javascripts/ggv2.js",
-						id: "gumgum",
-						notInEU: true,
-                        attributes: { "async" : true}
-                    }
-                ]);
-                							});
-        </script>
-	
+    <script src="https://asset.comicbook.com/dist/comicbook/public.min.js?v=520"></script>
+    <script>
+	  document.dispatchEvent(new Event("pcm.content.loaded"));
+    </script>
+  
+
 
 </body></html>
