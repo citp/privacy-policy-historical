@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifixit.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231121845id_/https%3A//www.ifixit.com/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifixit.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624181113id_/https%3A//www.ifixit.com/Info/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iFixit
 
@@ -193,9 +193,11 @@ This website uses Google AdSense to display advertisements on our website. Googl
 
 This website uses external fonts from Google, web fonts, to display fonts. In order to do this, your browser loads the required web font into the browser cache when you access the web page. If your browser does not support this function, your computer will use a standard font to display the website. This service collects your IP address, which of our web pages you have visited and, if applicable, other data Google needs for the provision of the web fonts. The information collected about your use of this website is stored on a server in the USA. This information may also be transferred to third parties if this is required by law or if third parties process this data on our behalf or on the behalf of Google.
 
+This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
+
 We use Shipstation to ship products you order from us. In order to facilitate delivery of your order, we provide to Shipstation data including but not limited to name, address, email address, mobile telephone number, and contents of package. Shipstation may use this date to enhance the delivery process for our customers and it may use notifications and geodata for that purpose, which may involve Shipstation sharing such details with limited third parties’ data processors, for the purpose of completing the requested services. You can read Shipstation’s Privacy Policy [here](https://www.shipstation.com/privacy-policy).
 
-iFixit, including our subsidiary Dozuki, participates in and has certified compliance with the EU-U.S. Privacy Shield Framework. iFixit has thereby pledged to conform to European data protection standards and fulfilled the EU requirements for legitimizing the transfer of personal data to the USA. Information on iFixit's commitment can be found [here](https://www.privacyshield.gov/participant?id=a2zt00000008VUDAA2).
+iFixit, including our subsidiary Dozuki, complies with the EU-U.S. Privacy Shield Framework (“Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom to the United States in reliance on Privacy Shield. iFixit has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [here](https://www.privacyshield.gov/participant?id=a2zt00000008VUDAA2).
 
 The data processed, the purposes of data processing, third parties with whom we may share customer data, and your rights are all discussed above. Please scroll up to read again.
 
