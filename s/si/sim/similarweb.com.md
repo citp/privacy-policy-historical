@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the similarweb.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106225017id_/https%3A//www.similarweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the similarweb.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624050901id_/https%3A//www.similarweb.com/privacy-policy) for the most accurate reproduction.*
 
 # SimilarWeb Competitive Analysis – Privacy Policy
 
