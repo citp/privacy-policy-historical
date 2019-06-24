@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsgrid.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228131005id_/http%3A//www.sportsgrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsgrid.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624104930id_/https%3A//www.sportsgrid.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | SportsGrid
+# Privacy Policy
 
 This privacy policy covers all of the SportsGrid sites (“SportsGrid”). Please read this statement carefully before using or proceeding to access SportsGrid. Your use of SportsGrid indicates you have read and understood this Privacy Policy and indicates your agreement to abide by the [Terms of Service](http://legal.kinja.com/kinja-terms-of-use-90161644) in effect.
 
@@ -45,7 +45,7 @@ Whenever SportsGrid changes its privacy policy, we will post those changes to th
 
 **7\. Contact Information**
 
-If you have any questions or suggestions regarding our privacy policy, please contact the editor of the GM site in question, or send an email to help AT sportsgrid.com, or by mail to SportsGrid, 27 West 20th Street Suite 900 New York, NY 10011
+If you have any questions or suggestions regarding our privacy policy, please contact the editor of the GM site in question, or send an email to help AT sportsgrid.com, or by mail to SportsGrid INC., 220 Water Street #205 Brooklyn, NY 11201
 
 **8\. Effective Date**
 
