@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techgeek365.com privacy policy that was archived on 2015-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150226175730id_/https%3A//techgeek365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgeek365.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624021218id_/https%3A//techgeek365.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechGeek365
 
@@ -40,7 +40,7 @@ TechGeek365 will not otherwise use or disclose your personal information withou
 
 ##### **Data Removal Policies:**
 
-If you would like to remove your name and e-mail address from our registration database, you can send an e-mail requesting removal to:  **[contact@techgeek365.com](mailto:contact@techgeek365.com "Contact Us")**
+If you would like to remove your name and e-mail address from our registration database, you can send an e-mail requesting removal to:  **contact[at]techgeek365[dot]com**
 
 ##### **Other Websites:**
 
@@ -48,4 +48,4 @@ TechGeek365 contains many links to other sites on the web. We cannot control an
 
 ##### **Who Can I Ask Questions To?**
 
-If you have any further questions or concerns about our privacy policies and use of personal information, please send an to: [ **contact@techgeek365.com**](mailto:contact@techgeek365.com "Contact Us")
+If you have any further questions or concerns about our privacy policies and use of personal information, please send an to:  **contact[at]techgeek365[dot]com**
