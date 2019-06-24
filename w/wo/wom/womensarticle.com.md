@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womensarticle.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826104605id_/http%3A//www.womensarticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womensarticle.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624205702id_/https%3A//www.womensarticle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – WomensArticle.com
 
