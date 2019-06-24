@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homeadvisor.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815112027id_/https%3A//www.homeadvisor.com/rfs/aboutus/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeadvisor.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624032059id_/https%3A//www.homeadvisor.com/mobile/legal/consumerMobilePrivacyPolicy.jsp) for the most accurate reproduction.*
 
-# HomeAdvisor - Privacy Policy
+# HomeAdvisor Privacy Policy
 
-|  HomeAdvisor Privacy Policy  
+**Privacy Policy**
+
   
-Your Privacy Rights - Last Updated: February 20, 2015  
   
 HomeAdvisor respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of [www.homeadvisor.com](http://www.homeadvisor.com/) (and all websites and URL's controlled or operated by HomeAdvisor, Inc. which link to this policy, unless otherwise specified) or our services, or otherwise provide us with information through various means the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
@@ -14,21 +14,31 @@ If you have any questions about our privacy practices, please refer to the end o
 
 **_Information we collect about you_**
 
- _In General_. We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world. 
+ _In General_
+
+. We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world. 
 
   * **Information you provide.** We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, e-mail address, telephone number, credit card information, and other personally identifiable information.
   * **Information from other sources.** We may also periodically obtain both personal and non-personal information about you from other IAC businesses, business partners, contractors and other third parties. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
 
   
-_Use of cookies and other technologies to collect information._ We use various technologies to collect information from your computer and about your activities on our site. 
+_Use of cookies and other technologies to collect information._
+
+We use various technologies to collect information from your computer and about your activities on our site. 
 
   * **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
   * **Cookies.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
   * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
   * **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies or web beacons, to collect information about users who view or interact with their advertisements. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+  * This site is being monitored by one or more third-party monitoring software(s), and may capture information about your visit that will help us improve the quality of our service. You may opt-out from the data that SmartPiXL is collecting on your visit through a universal consumer options page located at <https://smart-pixl.com/Unsub/Unsub.html>
 
-  
-**_How we use the information we collect_** _In general._ We may use information that we collect about you to: 
+
+
+**_How we use the information we collect_**
+
+ _In general._
+
+We may use information that we collect about you to: 
 
   * deliver the products and services that you have requested;
   * manage your account and provide you with customer support;
@@ -44,7 +54,9 @@ _Use of cookies and other technologies to collect information._ We use various t
   * perform functions as otherwise described to you at the time of collection.
 
   
-_Payment and Financial information._ For Service Professionals, we may use financial information or payment method to process payment for any purchases made on our website, enroll you in the discount, rebate, and other programs in which you elect to participate, to pre-qualify you for credit card and other offers that you might find of interest, to pre-qualify Service Professionals to participate in our contractor network, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business. For consumers, we may use credit card information to process payment for any payments made on our website.
+_Payment and Financial information._
+
+For Service Professionals, we may use financial information or payment method to process payment for any purchases made on our website, enroll you in the discount, rebate, and other programs in which you elect to participate, to pre-qualify you for credit card and other offers that you might find of interest, to pre-qualify Service Professionals to participate in our contractor network, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business. For consumers, we may use credit card information to process payment for any payments made on our website.
 
 **_Mobile Apps_**
 
@@ -54,7 +66,9 @@ If you install one of our apps on your mobile device, your use of the app is sub
 
 We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services.
 
- _Personal information._ We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
+ _Personal information._
+
+We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
 
   * **Authorized service providers:** We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website or performing background checks of Service Professionals. We may also release information to collection and/or credit agencies for past due Service Professional accounts. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
   * **Marketing Affiliates:** When you are referred to us via a third party marketing affiliate, we may share your email address, and other information that you provide, to such marketing affiliate.
@@ -67,12 +81,15 @@ We want you to understand when and with whom we may share personal or other info
     * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
     * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
-  
+
+
 For Service Professionals, we may share your business contact information with third parties, including but not limited to, business name, address, telephone number, email address and name of owner or proprietor of the business.
 
 Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
 
- _Aggregated and non-personal information._ We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties and our IAC sister companies to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
+ _Aggregated and non-personal information._
+
+We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties and our IAC sister companies to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
 
 **_How you can access your information_**
 
@@ -85,7 +102,8 @@ You can also choose to have your account disabled by contacting [conscustomerser
   * At any time a consumer user can choose to no longer receive commercial or promotional emails or newsletters from us by accessing your user account and opting out. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them.
   * If you prefer not to have us share your postal mailing information with these selected providers of goods and services that may be of interest to you, you can notify us at any time by emailing us at [optoutdirectmail@homeadvisor.com](mailto:optoutdirectmail@homeadvisor.com).
 
-  
+
+
 **_Blogs, bulletin boards, reviews and chat rooms_**
 
 We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as post reviews of products, establishments, contractors, and the like, or upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our [Terms of Use](https://web.archive.org/servlet/TermsServlet). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.
@@ -123,7 +141,8 @@ Your rights to access your personal information are not absolute. We may deny ac
   * To protect our Company's rights and property; or
   * Where the request if frivolous or vexatious.
 
-  
+
+
 If we deny your request for access to, or refuse a request to correct personal information, we will explain why.
 
 Your California Privacy Rights
@@ -133,6 +152,8 @@ If you are a resident of California, in addition to the rights set forth above, 
   1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year
   2. the names and addresses of the third parties that received that information; and
   3. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.
+
+
 
 We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [SB27Request@homeadvisor.com](mailto:SB27Request@homeadvisor.com).
 
