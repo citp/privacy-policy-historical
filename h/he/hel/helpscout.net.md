@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822151417id_/https%3A//www.helpscout.net/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624212234id_/https%3A//www.helpscout.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Help Scout
 
@@ -31,7 +31,7 @@ Our Data Processing Amendment governs our processing of any information obtained
 
 ### Some definitions
 
-This Privacy Policy relates to information collected by Help Scout Inc. (referred to in this Privacy Policy as "Help Scout" "we" or "us" or "our") through your use of the Help Scout website, its features, the services we provide (outside of our paid-for services), and information available through the Help Scout website.
+This Privacy Policy relates to information collected by Help Scout PBC (referred to in this Privacy Policy as "Help Scout" "we" or "us" or "our") through your use of the Help Scout website, its features, the services we provide (outside of our paid-for services), and information available through the Help Scout website.
 
 “You” or “your” refers to the individual who uses this website, features, and services, or accesses available information, or engages with us directly by email or telephone.
 
@@ -63,13 +63,29 @@ Non-personal information is information that cannot be used or combined with oth
 
 Back to top
 
+### What data does Help Scout collect from customers using Google integrations?
+
+Help Scout administrators or users can optionally use Google integration features that require Help Scout to access limited information from the Google account they provide. When these features are accessed by users and administrators, Help Scout displays a message allowing the user to review the information that will be collected, including a link to this privacy policy, so they can choose to allow that access or cancel. The following table lists each Help Scout Google integration feature, and if that feature is used, the corresponding data collected and its purpose.
+
+Feature | Google Data Collected | Purpose | Where used  
+---|---|---|---  
+[Google SSO](https://docs.helpscout.com/article/866-log-in-to-help-scout) | User email address | Google SSO, or Single-Sign On using your Google credentials is optional and configurable. Help Scout administrators can choose to force Google SSO or provide it as an option. | Help Scout Web app, Android app, iOS app.  
+[Import G Suite Domain users](https://docs.helpscout.com/article/365-google-apps-sso) | User email address  
+User name  
+List of users in the G Suite Domain | Allows Google G Suite Domain administrators to set up their Help Scout account and import G Suite Domain users. If used, the user names, and emails from your G Suite Domain are displayed to Help Scout administrators so they can create corresponding Help Scout users. | Help Scout Web app  
+[Send email using Google oAuth](https://docs.helpscout.com/article/726-send-messages-using-google-oauth) | The right to read, send or delete email using the Google email account provided. We only use this authorization to send email. | Used by Help Scout administrators to grant a Help Scout mailbox the right to send emails using SMTP via the provided Google account. When configured in a Help Scout mailbox, any associated outbound email will be delivered via the Google account provided instead of via Help Scout’s own email servers. The right to read or delete email using Google oAuth is not used by Help Scout. | Help Scout Web app  
+  
+Back to top
+
 ### When does Help Scout use end user information from third parties?
 
-Help Scout will collect End User Data necessary to provide the Help Scout services to our customers. 
+Help Scout will collect End User Data necessary to provide the Help Scout services to our customers.
+
+In our Android application, we use Google [Firebase](https://firebase.google.com/) to collect in-app crash reports and analytics to help us better support that application including user name and email. You can opt out of sending this data by turning off Crash Reporting and Analytics in our Android application’s Settings. Firebase is [GDPR](https://firebase.google.com/support/privacy/) compliant.
 
 We may use End User Data to look up and store additional Public Data in order to create a more complete customer profile. "Public Data" is defined as information received from a third party partner named [FullContact](https://www.fullcontact.com/), a GDPR and Privacy Shield Certified company. Public Data may be claimed, edited or discarded from their systems by [following this link](https://www.fullcontact.com/privacy/claim/) and is subject to their [Privacy Policy](https://www.fullcontact.com/privacy/).
 
-If you would like to opt-out of our collection of End User Data, you can disable the option to [Enrich Customer Data](https://docs.helpscout.net/article/73-customer-profiles) in your Help Scout account options. To disable this feature, you must be an Account Owner. If you are an end user, you may decline to provide End User Data to us when we ask for it, though doing so may prevent us from being able to help you.
+If you would like to opt-out of our collection of End User Data, you can disable the option to [Enrich Customer Data](https://docs.helpscout.com/article/73-customer-profiles) in your Help Scout account options. To disable this feature, you must be an Account Owner. If you are an end user, you may decline to provide End User Data to us when we ask for it, though doing so may prevent us from being able to help you.
 
 End users may voluntarily provide us with information they have made available on social media websites. If you provide us with any such information, we may collect publicly available information from the social media websites you have indicated. You can control how much of your information social media websites make public by visiting these websites and changing your privacy settings. 
 
@@ -161,6 +177,12 @@ Except as set forth in this Privacy Policy, the [Cookie Policy](https://web.arch
 
 Back to top
 
+### Could my information be transferred to other countries?
+
+Help Scout is incorporated in the U.S. Information collected via our website, through direct interactions with you, or from use of our help desk services may be transferred from time to time to our offices or personnel, or to third parties, located throughout the world, and may be viewed and hosted anywhere in the world, including countries that may not have laws of general applicability regulating the use and transfer of such data. To the fullest extent allowed by applicable law, by using any of the above, you voluntarily consent to the trans-border transfer and hosting of such information.
+
+Back to top
+
 ### Is the information collected through the Help Scout Service secure?
 
 We take precautions to protect the security of your information. We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information. However, neither people nor security systems are foolproof, including encryption systems. In addition, people can commit intentional crimes, make mistakes or fail to follow policies. Therefore, while we use reasonable efforts to protect your personal information, we cannot guarantee its absolute security. If applicable law imposes any non-disclaimable duty to protect your personal information, you agree that intentional misconduct will be the standards used to measure our compliance with that duty.
@@ -170,12 +192,6 @@ Help Scout maintains ongoing Level 1 PCI compliance, adhering to stringent indus
 Help Scout also maintains ongoing compliance with the U.S. Health Insurance Portability and Accountability Act (HIPAA) and is able to process, maintain and store protected health information for any entities restricted by these regulations. [On request](https://web.archive.org/contact/), Help Scout will sign a business associate agreement (BAA) with your organization.
 
 For more information about how Help Scout stores and secures customer and company data, please see our [Security Policy](https://web.archive.org/company/legal/security/).
-
-Back to top
-
-### Could my information be transferred to other countries?
-
-Help Scout is incorporated in the U.S. Information collected via our website, through direct interactions with you, or from use of our help desk services may be transferred from time to time to our offices or personnel, or to third parties, located throughout the world, and may be viewed and hosted anywhere in the world, including countries that may not have laws of general applicability regulating the use and transfer of such data. To the fullest extent allowed by applicable law, by using any of the above, you voluntarily consent to the trans-border transfer and hosting of such information.
 
 Back to top
 
@@ -190,6 +206,8 @@ Help Scout complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S.
 In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Principles, Help Scout commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first [contact Help Scout](https://web.archive.org/contact/).
 
 Help Scout has further committed to refer unresolved privacy complaints under the EU-U.S. and Swiss-U.S. Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+
+Help Scout also commits to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
@@ -207,7 +225,7 @@ The term "Do Not Track" refers to a HTTP header offered by certain web browsers 
 
 The rights you have to request updates or corrections to the information Help Scout collects depend on your relationship with Help Scout. Personnel may update or correct their information as detailed in our internal company employment policies.
 
-Customers have the right to request the restriction of certain uses and disclosures of personally identifiable information as follows. You can [contact us](https://web.archive.org/contact/) in order to (1) update or correct your personally identifiable information, (2) change your preferences with respect to communications and other information you receive from us, or (3) delete the personally identifiable information maintained about you on our systems (subject to the following paragraph), by [cancelling your account](https://docs.helpscout.net/article/473-cancel-your-help-scout-account). Such updates, corrections, changes and deletions will have no effect on other information that we maintain, or information that we have provided to third parties in accordance with this Privacy Policy prior to such update, correction, change or deletion. To protect your privacy and security, we may take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+Customers have the right to request the restriction of certain uses and disclosures of personally identifiable information as follows. You can [contact us](https://web.archive.org/contact/) in order to (1) update or correct your personally identifiable information, (2) change your preferences with respect to communications and other information you receive from us, or (3) delete the personally identifiable information maintained about you on our systems (subject to the following paragraph), by [cancelling your account](https://docs.helpscout.com/article/473-cancel-your-help-scout-account). Such updates, corrections, changes and deletions will have no effect on other information that we maintain, or information that we have provided to third parties in accordance with this Privacy Policy prior to such update, correction, change or deletion. To protect your privacy and security, we may take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
 You should be aware that it is not technologically possible to remove each and every record of the information you have provided to us from our system. The need to back up our systems to protect information from inadvertent loss means that a copy of your information may exist in a non-erasable form that will be difficult or impossible for us to locate. Promptly after receiving your request, all personal information stored in databases we actively use, and other readily searchable media will be updated, corrected, changed or deleted, as appropriate, as soon as and to the extent reasonably and technically practicable.
 
@@ -228,10 +246,10 @@ If you have any questions or comments about this Privacy Policy or feel that we 
   * [By email.](https://web.archive.org/contact/)
   * By postal mail or courier:  
 Attn: Privacy Agent  
-Help Scout Inc.  
-131 Tremont Street  
-3rd Floor  
-Boston, MA 02111-1338 
+Help Scout PBC  
+100 City Hall Plaza  
+5th Floor  
+Boston, MA 02108 
 
 
 
