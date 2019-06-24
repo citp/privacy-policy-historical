@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230112627id_/https%3A//www.bridalguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624232501id_/https%3A//www.bridalguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy BridalGuide
 
 BridalGuide.com is committed to safeguarding your privacy while you are on our site. The following privacy policy describes what personal information we collect from you and exactly how we use it.
 
-BridalGuide.com is owned and operated by RFP Corp. If you have any questions or concerns about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#791a0c0a0d16141c0b0a1c0b0f101a1c391b0b101d18151e0c101d1c571a1614).
+BridalGuide.com is owned and operated by RFP Corp. If you have any questions or concerns about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#87e4f2f4f3e8eae2f5f4e2f5f1eee4e2c7e5f5eee3e6ebe0f2eee3e2a9e4e8ea).
 
  **What information will you be asked to provide?**  
 There are four different types of content on BridalGuide.com, and each has a different level of information requested. All are completely free to users.
