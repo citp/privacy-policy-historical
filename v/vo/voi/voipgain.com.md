@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the voipgain.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221113550id_/https%3A//www.voipgain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipgain.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624230641id_/https%3A//www.voipgain.com/privacy) for the most accurate reproduction.*
 
 # VoipGain | For the cheapest international calls
 
-DELLMONT S. à.r.l (hereinafter referred to as "DELLMONT")   is dedicated to protecting your privacy. This Privacy Policy explains how DELLMONT collects and uses your personal data. It also describes your rights towards us and how to exercise them.
+Dellmont B.V. (hereinafter referred to as "DELLMONT")   is dedicated to protecting your privacy. This Privacy Policy explains how DELLMONT collects and uses your personal data. It also describes your rights towards us and how to exercise them.
 
 By using DELLMONYS’s Services, you accept our Privacy Policy and our processing of your personal data. You also agree to DELLMONT’s use of electronic communication channels to send you information. It is important that you read and understand our Privacy Policy before using our Services.
 
@@ -24,7 +24,7 @@ When you use our Services, we may collect the following information, including 
 
 **Why we collect and use personal information.**
 
-DELLMONT collects, uses and stores your Personal Data in accordance with applicable Luxembourg Law and EU directives regarding the Protection of Persons and Personal Data, as modified.
+DELLMONT collects, uses and stores your Personal Data in accordance with applicable law and EU directives regarding the Protection of Persons and Personal Data, as modified.
 
 DELLMONT uses your Personal Data for the provision of Services and billing purposes.
 
