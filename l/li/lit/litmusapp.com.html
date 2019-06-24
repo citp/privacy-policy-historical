@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the litmusapp.com privacy policy that was archived on 2018-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227142125id_/https%3A//litmus.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the litmusapp.com privacy policy that was archived on 2019-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190625000450id_/https%3A//litmus.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
@@ -13,23 +13,33 @@
   <title>Privacy Policy</title>
 
   <link rel="canonical" href="https://litmus.com/privacy">
-  <link href="https://img.litmuscdn.com/favicon.png?1545482097" rel="icon" type="image/png">
-  <link href="https://styles.litmuscdn.com/stylesheets/next.css?1545482097" rel="stylesheet">
+  <link href="https://img.litmuscdn.com/favicon.png?1561411071" rel="icon" type="image/png">
+  <link href="https://styles.litmuscdn.com/stylesheets/next.css?1561411071" rel="stylesheet">
 
   <script type="text/javascript" src="//use.typekit.net/zqt8qdp.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-  <!--[if lt IE 9]><script src="https://js.litmuscdn.com/javascripts/html5shiv.js?1545482097"></script><![endif]-->
+  <!--[if lt IE 9]><script src="https://js.litmuscdn.com/javascripts/html5shiv.js?1561411071"></script><![endif]-->
 
   
 
   
-<script src="https://js.litmuscdn.com/javascripts/litmus/segmentio_loader.js?1545482097"></script>
+<script src="https://js.litmuscdn.com/javascripts/external_integrations.js?1561411071"></script>
 
 <script type="text/javascript">
   function OptanonWrapper() {
-    window.segmentioLoader.load();
+    if (Litmus.SegmentioLoader) {
+      Litmus.SegmentioLoader.load();
+    }
+    if (window.dataLayer) {
+      window.dataLayer.push( { event: 'OneTrustGroupsUpdated' } );
+    }
   }
+
+  new Litmus.OneTrustHandler({
+    groupIds: ["1","2","3","4"],
+    debug: false
+  }).start();
 </script>
 <style>.optanon-alert-box-wrapper { left:0; }</style>
 
@@ -42,10 +52,15 @@
 !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src="https://cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
   }}();
 
+Litmus.SegmentioLoader.configure({
+  data: {"groups":{"1":{"name":"necessary","load":true,"integrations":["Google Tag Manager","Redshift","Castle","Segment.io"]},"2":{"name":"performance","integrations":["Google Analytics","Heap","KISSmetrics","Visual Website Optimizer","Clearbit Enrichment","Clearbit Reveal","Crazy Egg","FullStory","Mixpanel","Optimizely","Drift","FunnelEnvy"]},"3":{"name":"functional","integrations":["Olark","Help Scout"]},"4":{"name":"targeting","integrations":["Pardot","AdRoll"]}}},
+  code: "e3b1q380gi",
+  debug: false
+});
 
 
 
-window.segmentioLoader = new Litmus.SegmentioLoader(function() {
+Litmus.SegmentioLoader.onReady(function() {
   window.dataLayer.push( { event: 'OneTrustGroupsUpdated' } );
 
   var context = {};
@@ -56,20 +71,20 @@ window.segmentioLoader = new Litmus.SegmentioLoader(function() {
   analytics.page(null, {}, { context: context });
 
   window.Appcues && window.Appcues.anonymous();
-});
+})
 </script>
 
   <script type="text/plain" class="optanon-category-1">
-    window.segmentioLoader.groupAuthHandler(1)();
+    Litmus.SegmentioLoader.groupAuthHandler(1);
   </script>
   <script type="text/plain" class="optanon-category-2">
-    window.segmentioLoader.groupAuthHandler(2)();
+    Litmus.SegmentioLoader.groupAuthHandler(2);
   </script>
   <script type="text/plain" class="optanon-category-3">
-    window.segmentioLoader.groupAuthHandler(3)();
+    Litmus.SegmentioLoader.groupAuthHandler(3);
   </script>
   <script type="text/plain" class="optanon-category-4">
-    window.segmentioLoader.groupAuthHandler(4)();
+    Litmus.SegmentioLoader.groupAuthHandler(4);
   </script>
 
 <script>
@@ -99,8 +114,18 @@ library_tolerance=2500,
 use_existing_jquery=false,
 /* DO NOT EDIT BELOW THIS LINE */
 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=348067&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181227142125id_%2Fhttps%253A%2F%2Flitmus.com%2Fprivacy&amp;r=0.8611800973067549" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=348067&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190625000450id_%2Fhttps%253A%2F%2Flitmus.com%2Fprivacy&amp;r=0.5773970175345491" type="text/javascript"></script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
+
+    <script src="//cdn2.funnelenvy.com/organization/5bfeaa31f4c71ff1339f9476/backstage-client.js"></script>
+  <script type="text/javascript">
+    Litmus.SegmentioLoader.onAuth(function() {
+      if (Litmus.SegmentioLoader.isActive("FunnelEnvy")) {
+        window.funnelEnvy = new FunnelEnvy({customerId: "5bfeaa31f4c71ff1339f9476", apiUrl: "//backstage.funnelenvy.com"});
+        document.dispatchEvent(new Event('funnelEnvyLoaded'));
+      }
+    })
+  </script>
 
 </head>
 <body class="legal">
@@ -115,7 +140,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
   <header class="cd-header index-fixed has-panel">
   <div class="container">
     <a class="navbar-brand" href="/">
-      <img src="https://assets.litmuscdn.com/images/next/logos/litmus-logo.svg?1545482097" alt="Litmus logo" data-no-retina="true">
+      <img src="https://assets.litmuscdn.com/images/next/logos/litmus-logo.svg?1561411071" alt="Litmus logo" data-no-retina="true">
     </a>
     <nav>
       <ul class="nav navbar-nav">
@@ -129,7 +154,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 <div class="col-lg-6">
                   <a href="/email-testing">
                   <figure>
-                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-previews.svg?1545482097" data-no-retina="true" alt="Icon previews">
+                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-previews.svg?1561411071" data-no-retina="true" alt="Icon previews">
                   </figure>
                   <h4>Email Previews</h4>
                   <p>Get screenshots in popular email clients to ensure your email looks great everywhere.</p>
@@ -138,7 +163,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 <div class="col-lg-6">
                   <a href="/email-builder">
                   <figure>
-                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-builder.svg?1545482097" data-no-retina="true" alt="Icon builder">
+                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-builder.svg?1561411071" data-no-retina="true" alt="Icon builder">
                   </figure>
                   <h4>Litmus Builder</h4>
                   <p>Build and preview your email in real-time, plus utilize reusable code snippets and templates to save time and reduce errors.</p>
@@ -149,7 +174,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 <div class="col-lg-6">
                   <a href="/email-checklist">
                   <figure>
-                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-checklist.svg?1545482097" data-no-retina="true" alt="Icon checklist">
+                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-checklist.svg?1561411071" data-no-retina="true" alt="Icon checklist">
                   </figure>
                   <h4>Checklist</h4>
                   <p>Get a guided check of the most critical elements that affect email performance, like campaign load time and broken links.</p>
@@ -158,7 +183,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 <div class="col-lg-6">
                   <a href="/spam-filter-tests">
                   <figure>
-                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-spam-testing.svg?1545482097" data-no-retina="true" alt="Icon spam testing">
+                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-spam-testing.svg?1561411071" data-no-retina="true" alt="Icon spam testing">
                   </figure>
                   <h4>Spam Testing</h4>
                   <p>Quickly identify issues pre-send that could impact your deliverability—and get actionable advice for how to fix them.</p>
@@ -170,7 +195,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 <div class="col-lg-6">
                   <a href="/email-analytics">
                   <figure>
-                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-analytics.svg?1545482097" data-no-retina="true" alt="Icon analytics">
+                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-analytics.svg?1561411071" data-no-retina="true" alt="Icon analytics">
                   </figure>
                   <h4>Email Analytics</h4>
                   <p>Optimize your campaigns with subscriber-level insights to improve segmentation and targeting strategies.</p>
@@ -179,7 +204,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 <div class="col-lg-6">
                   <a href="/email-proof">
                   <figure>
-                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-proof.svg?1545482097" data-no-retina="true" alt="Icon proof">
+                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-proof.svg?1561411071" data-no-retina="true" alt="Icon proof">
                   </figure>
                   <h4>Litmus Proof</h4>
                   <p>Simplify your email review and approval process, and get your campaigns out the door faster.</p>
@@ -192,7 +217,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 <div class="col-lg-6">
                   <a href="/integrations">
                   <figure>
-                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-integrations.svg?1545482097" data-no-retina="true" alt="Icon integrations">
+                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-integrations.svg?1561411071" data-no-retina="true" alt="Icon integrations">
                   </figure>
                   <h4>Integrations</h4>
                   <p>Litmus works seamlessly with your favorite email tools so you can get more email campaigns out the door, faster.</p>
@@ -202,7 +227,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 <div class="col-lg-6">
                   <a href="/email-advanced-security">
                   <figure>
-                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-security.svg?1545482097" data-no-retina="true" alt="Icon security">
+                  <img src="https://assets.litmuscdn.com/images/next/icons/home-2018/icon-security.svg?1561411071" data-no-retina="true" alt="Icon security">
                   </figure>
                   <h4>Advanced Security</h4>
                   <p>Control user access to Litmus and protect sensitive data, so your teams can focus on creating email experiences without risk.</p>
@@ -629,7 +654,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
     <div class="row">
       <div class="logo col-lg-2">
         <a href="/">
-          <img src="https://assets.litmuscdn.com/images/next/shared/footer-logo.svg?1545482097" alt="Litmus logo" data-no-retina="true">
+          <img src="https://assets.litmuscdn.com/images/next/shared/footer-logo.svg?1561411071" alt="Litmus logo" data-no-retina="true">
         </a>
       </div>
 
@@ -639,7 +664,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
           <ul class="footer-links  col-xs-6 col-md-6">
             <h5>Company</h5>
             <li><a href="/press">Press</a></li>
-            <li><a href="/meet-the-team">Meet the Team</a></li>
+            <li><a href="/life-at-litmus">Life at Litmus</a></li>
             <li><a href="/careers">Careers</a></li>
             <li><a href="/privacy">Privacy Policy</a></li>
             <li><a href="/terms">Terms of Service</a></li>
@@ -698,7 +723,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
     <div class="row">
       <div class="copyright col-xs-12 col-md-9">
-        Copyright © Litmus Software, Inc. 2005-2018. 675 Massachusetts Ave., 10th Floor, Cambridge, MA 02139. <a href="/terms">View our Terms of Service</a> or <a href="/privacy">Privacy Policy</a>. Send us a note to <a href="mailto:hello@litmus.com">hello@litmus.com</a> or give us a call at +1 (866) 787-7030
+        Copyright © Litmus Software, Inc. 2005-2019. 675 Massachusetts Ave., 10th Floor, Cambridge, MA 02139. <a href="/terms">View our Terms of Service</a> or <a href="/privacy">Privacy Policy</a>. Send us a note to <a href="mailto:hello@litmus.com">hello@litmus.com</a> or give us a call at +1 (866) 787-7030
       </div>
       <ul class="social col-xs-12 col-md-3">
         <li><a class="litmuswww-facebook-with-circle" href="https://www.facebook.com/litmusapp" target="_blank"></a></li>
@@ -714,7 +739,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 
   
-        <script type="text/plain" class="lit-cookies-1">
+        <script type="text/plain" data-segment-integration="Google Tag Manager">
           
   <!-- Google Tag Manager -->
   <noscript>
@@ -732,7 +757,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         
 
 
-  <script src="https://js.litmuscdn.com/javascripts/next.js?1545482097"></script>
+  <script src="https://js.litmuscdn.com/javascripts/next.js?1561411071"></script>
   
 
 
