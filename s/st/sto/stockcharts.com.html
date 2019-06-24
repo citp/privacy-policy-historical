@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stockcharts.com privacy policy that was archived on 2018-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181203212138id_/http%3A//stockcharts.com/docs/doku.php%3Fid%3Dpolicies%3Aprivacy_statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockcharts.com privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624045650id_/http%3A//stockcharts.com/docs/doku.php%3Fid%3Dpolicies%3Aprivacy_statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" class="js"><head>
     <meta charset="utf-8">
@@ -11,7 +11,7 @@
     <script src="//d.stockcharts.com/js/lib/jquery/jquery-1.11.2.min.js"></script>
     <meta name="generator" content="DokuWiki">
 <meta name="robots" content="index,follow">
-<meta name="date" content="2018-08-31T11:38:11-0700">
+<meta name="date" content="2019-01-22T15:59:29-0800">
 <meta name="keywords" content="policies,privacy_statement">
 <link rel="search" type="application/opensearchdescription+xml" href="/docs/lib/exe/opensearch.php" title="Documentation">
 <link rel="start" href="/docs/">
@@ -44,17 +44,18 @@
     </script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="//d.stockcharts.com/js/scc-bootstrapui-utils.js?v=20180727" type="text/javascript"></script>
+    <script src="//d.stockcharts.com/js/scc-universal.js" type="text/javascript"></script>
     <script>
         ensureMemberProtocol(); // redirect free users to HTTP if using HTTPS
     </script>
     <script src="//d.stockcharts.com/js/lib/jqueryplugins/ap-scroll-top/ap-scroll-top.min.js" type="text/javascript"></script>
     <link href="//d.stockcharts.com/js/lib/jqueryplugins/ap-scroll-top/ap-scroll-top.min.css" rel="stylesheet">
 
-    <link href="//fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet">
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Lato:300,400,400i,700,900|Roboto+Condensed:400,400i,700" rel="stylesheet">
+    <link href="//pro.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-Bx4pytHkyTDy3aJKjGkGoHPt3tvv6zlwwjc3iqN7ktaiEMLDPqLSZYts2OjKcBx1" crossorigin="anonymous" rel="stylesheet">
+    <link href="//d.stockcharts.com/css/lib/scc-icons-square.css" rel="stylesheet" type="text/css">
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-    <link href="//d.stockcharts.com/css/scc2.css?v=20180329" rel="stylesheet">
+    <link href="//d.stockcharts.com/css/scc-universal.css" rel="stylesheet" type="text/css" media="all">
     <link href="//d.stockcharts.com/css/sccwiki.css?v=20171024" rel="stylesheet">
     <style type="text/css">
         /* fix for IE browser, double scrollbar */
@@ -64,81 +65,95 @@
 
 <body>
 
-        <!-- ########## -->
-    <!-- NAVIGATION -->
-    <!-- ########## -->
-    <nav class="navbar navbar-default navbar-static-top scc-nav-outer">
-        <a name="top"></a>
-        <div class="container-fluid scc-nav-container">
-            <div class="row utility-nav-row">
-                <ul class="utility-links-ul">
-                    <li id="navbar-login"><a href="/login"><i class="fa fa-user"></i> Log In</a></li>
-                    <li id="navbar-signup"><a href="/checkout/freetrial/">Sign Up</a></li>
-                    <li id="navbar-support"><a href="/docs/doku.php">Help</a></li>
-                </ul>
-            </div>
-            <div class="row nav-tabs-row">
-                <a href="/" class="primary-nav-brand"><img alt="StockCharts.com" src="//d.stockcharts.com/images/sc-corner-logo.png" class="navbar-corner-logo"></a>
-                <ul class="primary-nav-ul">
-                    <li><a href="/freecharts/">Free Tools</a></li>
-                    <li><a href="/articles/">Blog Articles</a></li>
-                    <li><a href="/tv/">StockCharts TV <span class="label label-default label-tv-live">LIVE</span></a></li>
-                    <li><a href="/school/doku.php?id=chart_school">ChartSchool</a></li>
-                    <li class="primary-nav-members-tab"><a href="/def/servlet/Favorites.CServlet">Members Dashboard</a></li>
-                </ul>
-                <div class="container-for-searchbox">
-                    <form id="nav-searchbox" role="search" action="/search/">
-                        <input type="search" id="nav-searchbox-input" placeholder="Search StockCharts" name="q" required="">
-                        <input type="submit" id="nav-searchbox-submit" value="search">
-                        <span id="nav-searchbox-icon"><i class="fa fa-search"></i></span>
-                    </form>
+        <!-- SCC NAVBAR -->
+    <nav id="scc-navbar" class="navbar navbar-inverse navbar-blue navbar-static-top">
+        <div class="container-fluid">
+            <!-- NAV UPPER -->
+            <div id="nav-upper" class="row">
+                <!-- NAVBAR BRAND -->
+                <a href="/" class="navbar-brand">
+                    <img src="//d.stockcharts.com/img/scc-logo-light.png" alt="StockCharts Logo" class="navbar-logo">
+                    <img src="//d.stockcharts.com/img/scc-logo-icon.png" alt="StockCharts Icon" class="navbar-logo logo-icon">
+                </a>
+                <!-- MENU TOGGLE -->
+                <div id="nav-menuToggle" class="nav navbar-nav">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menuCollapse" aria-expanded="false" aria-controls="navbar-menuCollapse"><i class="fas fa-bars"></i></button>
                 </div>
-                <a href="#" id="navbar-sidebar-menu-toggle-btn" class="sidebar-toggle"><i class="fa fa-bars"></i></a>
-            </div>
-            <div class="row charting-nav-row">
-                <form id="nav-search-symbol" class="input-group" role="search" onsubmit="return chartSearch('navsearch');">
+                <!-- ACCOUNT LINKS -->
+                <ul id="nav-accountLinks" class="nav navbar-nav">
+                    <li id="nav-loginBtn">
+                        <a href="/login" class="btn navbar-btn btn-transparent">Log In</a>
+                    </li>
+                    <li id="nav-signUpBtn">
+                        <a href="/checkout/freetrial/" class="btn navbar-btn btn-green">Sign Up</a>
+                    </li>
+                    <li id="nav-userProfile" class="dropdown">
+                        <a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            <i class="fas fa-fw fa-user-circle"></i><span id="nav-userID">Welcome</span><i class="far fa-fw fa-angle-down"></i>
+                        </a>
+                        <ul id="nav-userMenu" class="dropdown-menu">
+                            <li><a href="/def/servlet/Favorites.CServlet#chartlists"><i class="fas fa-fw fa-list-ul"></i>&nbsp;&nbsp;Your ChartLists</a></li>
+                            <li><a href="/def/servlet/ScanUI"><i class="fal fa-fw fa-sliders-h"></i>&nbsp;&nbsp;Your Scans</a></li>
+                            <li><a href="/h-mem/useralertsummary.html"><i class="far fa-fw fa-bell"></i>&nbsp;&nbsp;Your Alerts</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="/youracct"><i class="fas fa-fw fa-cogs"></i>&nbsp;&nbsp;Your Account</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="/help"><i class="fas fa-fw fa-question-circle"></i>&nbsp;&nbsp;Support Center</a></li>
+                            <li><a href="/support/techsupport.html"><i class="far fa-fw fa-envelope"></i>&nbsp;&nbsp;Contact Us</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="/logout"><i class="fas fa-fw fa-sign-out-alt"></i>&nbsp;&nbsp;Log Out</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <!-- CHART SEARCH -->
+                <form id="nav-chartSearch" class="input-group" role="search" onsubmit="return chartSearch('nav-chartSearch');">
                     <div class="input-group-btn dropdown">
-                        <button type="button" id="nav-search-symbol-type-btn" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SharpChart <i class="fa fa-angle-down"></i></button>
-                        <input type="hidden" id="navsearchoption" name="searchoptions" value="sharpChart">
-                        <ul class="dropdown-menu" id="nav-search-symbol-type-dropdown">
-                            <li><a href="#" data-val="sharpChart">SharpChart</a></li>
-                            <li><a href="#" data-val="pnf">P&amp;F Chart</a></li>
-                            <li><a href="#" data-val="perf">PerfChart</a></li>
-                            <li><a href="#" data-val="candleGlance">CandleGlance</a></li>
-                            <li><a href="#" data-val="seasonality">Seasonality</a></li>
-                            <li><a href="#" data-val="gallery">GalleryView</a></li>
-                            <li><a href="#" data-val="rrg">RRG</a></li>
-                            <li><a href="#" data-val="symSearch">Symbol Lookup</a></li>
+                        <button type="button" id="nav-chartSearch-btn" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            SharpChart <i class="far fa-angle-down"></i>
+                        </button>
+                        <input type="hidden" id="nav-chartSearch-type" name="searchoptions" value="sharpChart">
+                        <ul class="dropdown-menu" id="nav-chartSearch-menu">
+                            <li><a href="#" data-val="sharpChart"><i class="icon icon-scc-pos-sq-sharp"></i>SharpChart</a></li>
+                            <li><a href="#" data-val="pnf"><i class="icon icon-scc-pos-sq-pnf"></i>P&amp;F Chart</a></li>
+                            <li><a href="#" data-val="perf"><i class="icon icon-scc-pos-sq-perfchart"></i>PerfChart</a></li>
+                            <li><a href="#" data-val="candleGlance"><i class="icon icon-scc-pos-sq-candle"></i>CandleGlance</a></li>
+                            <li><a href="#" data-val="seasonality"><i class="icon icon-scc-pos-sq-season"></i>Seasonality</a></li>
+                            <li><a href="#" data-val="gallery"><i class="icon icon-scc-pos-sq-gallery"></i>GalleryView</a></li>
+                            <li><a href="#" data-val="rrg"><i class="icon icon-scc-pos-sq-rrg"></i>RRG</a></li>
+                            <li><a href="#" data-val="symSearch"><i class="fas fa-search-plus"></i>Symbol Lookup</a></li>
                         </ul>
                     </div>
-                    <input type="text" id="navsearchtext" class="form-control" placeholder="Enter Symbol or Company Name" aria-label="...">
-                    <span class="input-group-btn"><button id="nav-search-symbol-go-btn" class="btn btn-default" type="submit">Go</button></span>
+                    <input type="text" id="nav-chartSearch-input" class="form-control" placeholder="Enter Symbol or Name" aria-label="...">
+                    <span class="input-group-btn">
+                        <button id="nav-chartSearch-submit" class="btn btn-default btn-submit" type="submit">Go</button>
+                    </span>
                 </form>
-            </div>
+            </div><!-- end of NAV UPPER -->
+            <!-- NAV LOWER -->
+            <div id="nav-lower">
+                <!-- MENU COLLAPSE -->
+                <div id="navbar-menuCollapse" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav sitelinks">
+                        <li><a href="/freecharts/">Charts &amp; Tools</a></li>
+                        <li><a href="/articles/">Articles</a></li>
+                        <li><a href="/tv/">StockCharts TV <span class="label label-tv-live">LIVE</span></a></li>
+                        <li><a href="/school">ChartSchool</a></li>
+                        <li class="dashboard"><a href="/def/servlet/Favorites.CServlet">Your Dashboard</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav sitelinks pull-right">
+                        <li><a href="/help">Help</a></li>
+                    </ul>
+                    <div id="nav-siteSearch-wrap">
+                        <form id="nav-siteSearch" role="search" action="/search/">
+                            <input type="search" id="nav-siteSearch-input" placeholder="Search StockCharts" name="q" required="">
+                            <input type="submit" id="nav-siteSearch-submit" value="Go">
+                            <span id="nav-siteSearch-icon"></span>
+                        </form>
+                    </div>
+                </div><!-- end of MENU COLLAPSE -->
+            </div><!-- end of NAV LOWER -->
         </div>
-    </nav>
-    <!-- ########### -->
-    <!-- NAV SIDEBAR -->
-    <!-- ########### -->
-    <nav id="sidebar-pullright-menu-wrapper">
-        <a href="#" id="sidebar-pullright-menu-close-btn" class="pull-right sidebar-close-toggle"><i class="fa fa-times"></i></a>
-        <ul id="sidebar-pullright-menu-ul">
-            <li><a href="/freecharts/">Free Tools</a></li>
-            <li><a href="/articles/">Blog Articles</a></li>
-            <li><a href="/tv/">StockCharts TV <span class="label label-default label-tv-live">LIVE</span></a></li>
-            <li><a href="/school/doku.php?id=chart_school">ChartSchool</a></li>
-            <li><a href="/def/servlet/Favorites.CServlet">Members Dashboard</a></li>
-            <li role="separator" class="divider"></li>
-            <li id="sidebar-pullright-menu-li-support" class="sidebar-pullright-menu-li-utility"><a href="/docs/doku.php">Help</a></li>
-            <li role="separator" class="divider"></li>
-            <li class="sidebar-pullright-menu-loginsales-links sidebar-pullright-menu-li-utility">
-                <a href="/login">Log In</a>
-            </li>
-            <li class="sidebar-pullright-menu-loginsales-links sidebar-pullright-menu-li-utility">
-                <a href="/sales">Sign Up</a>
-            </li>
-        </ul>
-    </nav>
+    </nav><!-- end of SCC NAVBAR -->
 
 
  
@@ -153,6 +168,7 @@
             <div class="col-lg-5 col-sm-6 col-xs-12 search-col">
                 <div class="search-col-inner">
                     <form id="sccwiki-search-bar" class="input-group" action="/search/" method="get">
+                        <input type="hidden" name="section" value="support">
                         <input type="search" name="q" class="form-control" placeholder="Search StockCharts" aria-describedby="basic-addon2">
                         <span class="input-group-btn">
                             <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
@@ -487,7 +503,7 @@ StockCharts.com reserves the right to sell or transfer information (including yo
 <div class="level2">
 
 <p>
-When you use our Site, we make a good faith effort to provide you with access to your Personal Information and to either correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We provide a way for Users to update their Personal Information on our Site. Paying members can update their information using the ”<a href="https://stockcharts.com/youraccount" class="urlextern" title="https://stockcharts.com/youraccount" rel="nofollow">Your Account</a>” link in the upper right corner of any page. For newsletter subscriptions and other types of Site notifications, Users can change their email address simply by unsubscribing the old email address and re-subscribing using the new email address. Users can change their mobile phone number by editing an alert that uses SMS notification on the <a href="http://stockcharts.com/h-al/al" class="urlextern" title="http://stockcharts.com/h-al/al" rel="nofollow">Technical Alert Workbench</a>.
+When you use our Site, we make a good faith effort to provide you with access to your Personal Information and to either correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We provide a way for Users to update their Personal Information on our Site. Paying members can update their information on the ”<a href="https://stockcharts.com/youraccount" class="urlextern" title="https://stockcharts.com/youraccount" rel="nofollow">Your Account</a>” page. For newsletter subscriptions and other types of Site notifications, Users can change their email address simply by unsubscribing the old email address and re-subscribing using the new email address. Users can change their mobile phone number by editing an alert that uses SMS notification on the <a href="http://stockcharts.com/h-al/al" class="urlextern" title="http://stockcharts.com/h-al/al" rel="nofollow">Technical Alert Workbench</a>.
 </p>
 
 <p>
@@ -701,109 +717,113 @@ Redmond, WA 98052 <br>
         </div><!-- #dokuwiki__top -->
     </div><!-- #dokuwiki__site -->
 
-    <div class="no"><img src="/docs/lib/exe/indexer.php?id=policies%3Aprivacy_statement&amp;1543872097" width="2" height="1" alt=""></div>
+    <div class="no"><img src="/docs/lib/exe/indexer.php?id=policies%3Aprivacy_statement&amp;1561352209" width="2" height="1" alt=""></div>
     <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
 
-        <!-- ########## -->
-    <!-- SCC FOOTER -->
-    <!-- ########## -->
-    <footer id="scc-footer-outer">
-        <!-- FOOTER TOP -->
-        <section class="scc-footer-top">
+        <!-- SCC FOOTER -->
+    <footer id="scc-footer" class="footer-blue">
+        <!-- UPPER -->
+        <div id="footer-upper">
             <div class="container">
-                <div class="col-md-7 col-sm-6 col-xs-12 scc-footer-cw-text-col">
-                    <h4>Sign up for our <span>FREE</span> twice-monthly ChartWatchers Newsletter!</h4>
-                </div>
-                <div class="col-md-5 col-sm-6 col-xs-12 scc-footer-cw-input-col">
-                    <form class="input-group" action="//stockcharts.createsend.com/t/r/s/xiuily/">
-                        <input type="text" name="cm-xiuily-xiuily" class="form-control" placeholder="Your Email Address" aria-describedby="chartwatchers-email">
-                        <span class="input-group-btn"><button class="btn btn-default" type="submit">Sign Me Up!</button></span>
-                    </form>
-                </div>    
-            </div>
-        </section>
-        <!-- FOOTER BOTTOM -->
-        <section class="scc-footer-bottom">
-            <div class="container">
-                <div class="col-md-3 col-sm-6 col-xs-12 scc-footer-links-col">
-                    <h4><a href="/freecharts/">Charting Tools</a></h4>
-                    <ul class="list-unstyled">
-                        <li><a href="/h-sc/ui">SharpCharts</a></li>
-                        <li><a href="/freecharts/pnf.php?c=$INDU,P">Point &amp; Figure</a></li>
-                        <li><a href="/freecharts/perf.php?[MARK]">PerfCharts</a></li>
-                        <li><a href="/freecharts/candleglance.html?[marko]">CandleGlance Groups</a></li>
-                        <li><a href="/freecharts/seasonality.php">Seasonality</a></li>
-                        <li><a href="/freecharts/gallery.html">GalleryView</a></li>
-                        <li><a href="/freecharts/rrg/">RRG Charts</a></li>
-                        <li><a href="/freecharts/yieldcurve.php">Dynamic Yield Curve</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 scc-footer-links-col">
-                    <h4><a href="/school/doku.php?id=chart_school">ChartSchool</a></h4>
-                    <ul class="list-unstyled">
-                        <li><a href="/school/doku.php?id=chart_school:overview">Overview</a></li>
-                        <li><a href="/school/doku.php?id=chart_school:glossary_a">Glossary</a></li>
-                        <li><a href="/school/doku.php?id=chart_school:chart_analysis">Chart Analysis</a></li>
-                        <li><a href="/school/doku.php?id=chart_school:technical_indicators">Indicators &amp; Overlays</a></li>
-                        <li><a href="/school/doku.php?id=chart_school:market_analysis">Market Analysis</a></li>
-                        <li><a href="/school/doku.php?id=chart_school#charting_resources">Charting Resources</a></li>
-                        <li><a href="/school/doku.php?id=chart_school#scanning_resources">Scanning Resources</a></li>
-                        <li><a href="/school/doku.php?id=chart_school:trading_strategies">Trading Strategies &amp; Models</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 scc-footer-links-col">
-                    <h4><a href="/articles/">Blogs</a></h4>
-                    <ul class="list-unstyled">
-                        <li><a href="/members/">John Murphy</a></li>
-                        <li><a href="/members/articles/arthurhill/">Art's Charts</a></li>
-                        <li><a href="/articles/chartwatchers/">ChartWatchers</a></li>
-                        <li><a href="/articles/decisionpoint/">DecisionPoint</a></li>
-                        <li><a href="/articles/dont_ignore_this_chart/">Don't Ignore This Chart</a></li>
-                        <li><a href="/articles/canada/">The Canadian Technician</a></li>
-                        <li><a href="/articles/journal/">The Traders Journal</a></li>
-                        <li><a href="/articles/tradingplaces/">Trading Places</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 scc-footer-links-col">
-                    <h4>More Resources</h4>
-                    <ul class="list-unstyled">
-                        <li><a href="/about/">About Us</a></li>
-                        <li><a href="/docs/doku.php?id=faqs">FAQs</a></li>
-                        <li><a href="/sitemap.html">Site Map</a></li>
-                        <li><a href="/freecharts/catalog/Aa.html">Symbol Catalog</a></li>
-                        <li><a href="/docs/doku.php">Support Center</a></li>
-                        <li><a href="/videos/">Instructional Videos</a></li>
-                        <li><a href="/sales/pricing.html">Pricing &amp; Features</a></li>
-                        <li><a href="https://store.stockcharts.com/">The StockCharts Store</a></li>                        
-                    </ul>
-                </div>
-                <div class="col-xs-12 scc-footer-logo-col">
-                    <a href="/"><img src="//d.stockcharts.com/images/sc-corner-logo.png" class="scc-footer-logo"></a>
-                    <ul class="list-inline list-unstyled scc-footer-social-ul">
-                        <li><a href="https://www.facebook.com/stockchartsdotcom" target="_blank"><i class="fa fa-facebook scc-footer-social-icon"></i></a></li>
-                        <li><a href="https://twitter.com/stockcharts" target="_blank"><i class="fa fa-twitter scc-footer-social-icon"></i></a></li>
-                        <li><a href="https://www.linkedin.com/company/stockcharts.com-inc." target="_blank"><i class="fa fa-linkedin scc-footer-social-icon"></i></a></li>
-                        <li><a href="https://www.youtube.com/user/stockchartscom" target="_blank"><i class="fa fa-youtube scc-footer-social-icon"></i></a></li>
-                    </ul>
-                </div>
-                <div class="col-xs-12 scc-footer-copright-col">
-                    <p>© StockCharts.com, Inc. All Rights Reserved.</p>
-                    <div class="copyright-links-outer">
-                        <a href="/docs/doku.php?id=policies:terms_of_service">Terms of Service</a>
-                        <a href="/docs/doku.php?id=policies:privacy_statement" class="right-item">Privacy Statement</a>
+                <!-- NEWSLETTER -->
+                <div id="newsletter">
+                    <div class="bg-cw"></div>
+                    <div class="col-lg-6 col-md-7 col-xs-12">
+                        <h4>Expert market commentary delivered right to your inbox, <span>for free.</span></h4>
+                        <p>Sign up for our weekly ChartWatchers Newsletter</p>
+                    </div>
+                    <div class="input-col col-lg-6 col-md-5 col-xs-12">
+                        <form class="input-group input-group-xl" action="//stockcharts.createsend.com/t/r/s/xiuily/">
+                            <input type="text" name="cm-xiuily-xiuily" class="form-control" placeholder="Enter Your Email" aria-describedby="chartwatchers-email">
+                            <span class="input-group-btn"><button class="btn btn-default btn-green" type="submit">Sign Up</button></span>
+                        </form>
+                        <div class="more-link">
+                            <a href="/newsletter/">Learn&nbsp;More&nbsp;&nbsp;<i class="fas fa-arrow-circle-right"></i></a>
+                        </div>
                     </div>
                 </div>
-                <div class="col-xs-12 text-center">
-                    <p class="footnote-text">Market data provided by: <em>Interactive Data Corporation</em>. Commodity and historical index data provided by: <em>Pinnacle Data Corporation</em>. Unless otherwise indicated, all data is delayed by 15 minutes. The information provided by StockCharts.com, Inc. is not investment advice. Trading and investing in financial markets involves risk. You are responsible for your own investment decisions.</p>
+            </div>
+        </div><!-- end of UPPER -->
+        <!-- LOWER -->
+        <div id="footer-lower">
+            <div class="container">
+                <!-- SITELINKS -->
+                <div id="sitelinks" class="clearfix">
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <h4>On&nbsp;StockCharts</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="/freecharts/">Charts &amp; Tools</a></li>
+                            <li><a href="/articles/">Articles</a></li>
+                            <li><a href="/tv/">StockCharts TV</a></li>
+                            <li><a href="/school">ChartSchool</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <h4>Members</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="/def/servlet/Favorites.CServlet">Your Dashboard</a></li>
+                            <li><a href="/def/servlet/Favorites.CServlet#chartlists">Your ChartLists</a></li>
+                            <li><a href="/def/servlet/ScanUI">Advanced Scans</a></li>
+                            <li><a href="/h-mem/useralertsummary.html">Technical Alerts</a></li>
+                        </ul>
+                    </div>
+                    <div class="clearfix visible-sm-block"></div>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <h4>Help</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="/help">Support Center</a></li>
+                            <li><a href="/docs/doku.php?id=faqs">FAQs</a></li>
+                            <li><a href="/support/techsupport.html">Contact Us</a></li>
+                            <li><a href="/freecharts/catalog/Aa.html">Symbol Catalog</a></li>
+                            <li><a href="/pricing/">Pricing</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <h4>Company</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="/about/">About Us</a></li>
+                            <li><a href="/press/">Press</a></li>
+                            <li><a href="/careers/">Careers</a></li>
+                            <li><a href="https://store.stockcharts.com/">StockCharts Store</a></li>                        
+                        </ul>
+                    </div>
+                    <div class="clearfix visible-sm-block"></div>
+                </div>
+                <!-- LOGO -->
+                <div id="logo-col" class="col-xs-12">
+                    <a href="/">
+                        <img src="//d.stockcharts.com/img/scc-logo-light.png" alt="StockCharts.com Logo" class="footer-logo">
+                    </a>
+                    <!-- SOCIAL LINKS -->
+                    <ul id="social-links" class="list-inline list-unstyled">
+                        <li><a href="https://www.facebook.com/stockchartsdotcom" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="https://twitter.com/stockcharts" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="https://www.youtube.com/user/stockchartscom" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/stockcharts.com-inc." target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                    </ul>
+                </div>
+                <!-- COPYRIGHT -->
+                <div id="copyright-col" class="col-xs-12">
+                    <p class="copyright">©&nbsp;StockCharts.com,&nbsp;Inc. All&nbsp;Rights&nbsp;Reserved.</p>
+                    <ul class="list-inline list-unstyled">
+                        <li><a href="/docs/doku.php?id=policies:terms_of_service" target="_blank">Terms&nbsp;of&nbsp;Service</a></li>
+                        <li><a href="/docs/doku.php?id=policies:privacy_statement" target="_blank">Privacy&nbsp;Statement</a></li>
+                        <li><a href="/sitemap.html" target="_blank">Site&nbsp;Map</a></li>
+                    </ul>
+                </div>
+                <!-- LEGAL -->
+                <div id="legal-col" class="col-xs-12">
+                    <p class="legal">Market data provided by <b>Xignite, Inc.</b> and <b>ICE Data Services</b>. Commodity and historical index data provided by <b>Pinnacle Data Corporation</b>. Unless otherwise indicated, all data is delayed by 15 minutes. The information provided by StockCharts.com, Inc. is not investment advice. Trading and investing in financial markets involves risk. You are responsible for your own investment&nbsp;decisions.</p>
                 </div>
             </div>
-        </section>
-    </footer>
+        </div><!-- end of LOWER -->
+    </footer><!-- end of SCC FOOTER -->
+    
     <!-- JAVASCIPT WARNING -->
     <noscript>
-        <div class="alert alert-warning" role="alert">
-            <h2>Attention: Your Browser does not have JavaScript enabled!</h2>
-            <p><strong>In order to use StockCharts.com successfully you must enable JavaScript in your browser.</strong><br /><a href="http://www.enable-javascript.com/">Click here</a> to learn how to enable JavaScript.</p>
+        <div class="alert alert-danger" role="alert">
+            <h2>Attention: your browser does not have JavaScript enabled!</h2>
+            <p><b>In order to use StockCharts.com successfully, you must enable JavaScript in your browser.</b><br /><a href="https://www.enable-javascript.com" target="_blank">Click Here</a> to learn how to enable JavaScript.</p>
         </div>
     </noscript>
 
