@@ -1,40 +1,39 @@
-> *The following text is extracted and transformed from the myfab.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616180657id_/https%3A//fab.com/privacy/%3Fref%3Dtopfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfab.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624045809id_/https%3A//fab.com/pages/privacy) for the most accurate reproduction.*
 
-# Fab.com | daily design for everyone
+# Privacy - Fab
 
-## Fab Commerce & Design, Inc.
+PRIVACY
+
+## Fab.com
 
 ## Privacy Policy
 
-##### Effective date: March 21, 2016.
+##### Effective date: September 15, 2018.
 
-We at Fab know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. _By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways._
+We at Fab know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
-Remember that your use of Fab’s Services is at all times subject to the [Terms of Use](http://fab.com/terms/ "Terms of Use"), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use](http://fab.com/terms/ "Terms of Use").
+Remember that your use of Fab’s Services is at all times subject to the [Terms of Use](https://fab.com/pages/terms), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use.](https://fab.com/pages/terms)
 
   
 
 
 ### I. WHAT DOES THIS PRIVACY POLICY COVER?
 
-This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below. 
+This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
-As noted in the [Terms of Use](http://fab.com/terms/ "Terms of Use"), we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at [info@fab.com](mailto:info@fab.com).
-
-  
-
+As noted in the [Terms of Use](https://fab.com/pages/terms), we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at support@fab.com.
 
 ### II. WILL FAB EVER CHANGE THIS PRIVACY POLICY?
 
-We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on Fab.com, by sending you an email, and/or by some other means. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. 
+We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on Fab.com, by sending you an email, and/or by some other means. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
 
 ### III. WHAT INFORMATION DOES FAB COLLECT?
 
 ##### A. Information You Provide to Us:
 
-We receive and store any information you knowingly provide to us. For example, through the registration process and/or through your account settings, we may collect Personal Information such as your name, email address, phone number, and third-party account credentials (for example, your log-in credentials for Facebook or other third party sites). If you provide your third-party account credentials to us or otherwise sign in to the Services through a third party site or service such as Facebook, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy; for example, your Facebook profile picture. Certain information may be required to register with us or to take advantage of some of our features.
+We receive and store any information you knowingly provide to us. For example, through the registration process and/or through your account settings, we may collect Personal Information such as your name, email address, phone number.
 
-We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send you promotional email offers on behalf of other businesses, or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by changing your preferences at http://fab.com/email-preferences.
+We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send you promotional email offers on behalf of other businesses, or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by unsubscribing or by letting us know at support@fab.com.
 
 ##### B. Information Collected Automatically:
 
@@ -59,25 +58,25 @@ We may anonymize your Personal Information so that you are not individually iden
 
 We may deliver a file to you through the Services (known as a “web beacon”) from an ad network. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site. You may be able to opt-out of web beacon tracking conducted by third parties through our Services by adjusting the Do Not Track settings on your browser; please note that we don’t control whether or how these third parties comply with Do Not Track requests.
 
-##### B. Affiliated Businesses: 
+##### B. Affiliated Businesses:
 
 In certain situations, businesses or third party websites we’re affiliated with may sell or provide products or services to you through or in connection with the Services (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies.
 
-##### C. Agents: 
+##### C. Agents:
 
 We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, we may use a payment processing company to receive and process your credit card transactions for us. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.
 
-##### D. User Profiles and Submissions: 
+##### D. User Profiles and Submissions:
 
 Certain user profile information, including your name, location, and any video or image content that such user has uploaded to the Services, may be displayed to other users to facilitate user interaction within the Services or address your request for our services. Please remember that any content you upload to your public user profile, along with any Personal Information or content that you voluntarily disclose online in a manner other users can view (on discussion boards, in messages and chat areas, etc.) becomes publicly available, and can be collected and used by anyone. Your user name may also be displayed to other users if and when you send messages or comments or upload images or videos through the Services and other users can contact you through messages and comments.
 
-##### E. Business Transfers: 
+##### E. Business Transfers:
 
-We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party. 
+We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
 
-##### F. Protection of Fab and Others: 
+##### F. Protection of Fab and Others:
 
-e reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our Terms of Use[insert link] and other agreements; or protect the rights, property, or safety of Fab, our employees, our users, or others.
+We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our [Terms of Use](https://fab.com/pages/terms) and other agreements; or protect the rights, property, or safety of Fab, our employees, our users, or others.
 
   
 
@@ -98,14 +97,11 @@ Through your account settings, you may access, and, in some cases, edit or delet
   * Username
   * Password
   * Email address
-  * Facebook preferences
-  * Social preferences
   * Shipping addresses
-  * Payment methods
 
 
 
-The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at [support@fab.com](mailto:support@fab.com). 
+The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at support@fab.com.
 
   
 
@@ -121,14 +117,18 @@ You may be able to add, update, or delete information as explained above. When y
 
 ### VII. WHAT IF I HAVE QUESTIONS ABOUT THIS POLICY?
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [support@fab.com](mailto:support@fab.com), and we will try to resolve your concerns.
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to support@fab.com, and we will try to resolve your concerns.
 
   
 
 
+## Copyright Dispute Policy
+
+##### Effective date: September 15, 2018.
+
 In accordance with the DMCA, we’ve adopted the policy below toward copyright infringement. We reserve the right to (1) block access to or remove material that we believe in good faith to be copyrighted material that has been illegally copied and distributed by any of our advertisers, affiliates, content providers, members or users and (2) remove and discontinue service to repeat offenders.
 
-Remember that your use of Fab’s Services is at all times subject to the [Terms of Use](http://fab.com/terms/ "Terms of Use"), which incorporates this Copyright Dispute Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use](http://fab.com/terms/ "Terms of Use").
+Remember that your use of Fab’s Services is at all times subject to the [Terms of Use](https://fab.com/pages/terms), which incorporates this Copyright Dispute Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use.](https://fab.com/pages/terms)
 
 ### Procedure for Reporting Copyright Infringements:
 
@@ -166,6 +166,6 @@ If the content provider believes that the material that was removed (or to which
 
 If a counter-notice is received by the Designated Agent, Fab may, in its discretion, send a copy of the counter-notice to the original complaining party informing that person that Fab may replace the removed material or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the content provider accused of committing infringement, the removed material may be replaced or access to it restored in 10 to 14 business days or more after receipt of the counter-notice, at Fab's discretion.
 
-##### Please contact Fab's Designated Agent at the following address:
+##### Please contact Fab's Designated Agent by emailing the following address:
 
-Copyright Agent Fab Legal Department c/o PCH International USA Inc. 135 Mississippi Street San Francisco, CA 94107
+support@fab.com
