@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earth2tech.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228033841id_/https%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earth2tech.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624080215id_/https%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
 
-# Gigaom | Privacy Policy
+# Privacy Policy – Gigaom
 
 As used in this Privacy Policy, “Gigaom” refers to all websites, mobile sites, applications, and other properties or services owned or operated by Knowingly Corporation.
 
