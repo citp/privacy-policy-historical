@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mci-group.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823111536id_/https%3A//www.mci-group.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mci-group.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624100109id_/https%3A//www.mci-group.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Home
+# annual report UK | MCI Group | EN
 
 MCI Group Holding SA, 9, Rue du Pré-Bouvier, 1242 Satigny, Geneva, Switzerland or relevant MCI entity (“MCI”) is an event and association management company with operations and subsidiaries in many countries around the world which provides association, congress management, meetings and event services to its corporate or association clients (the “Client”).
 
@@ -38,7 +38,16 @@ The Contact Profile may contain but is not limited to:
   * date of birth; 
   * address; 
   * phone numbers; 
-  * email addresses; 
+  * email addresses;
+  * nationality
+  * physical location data during an event
+
+  * ADA (American Disability Act) information
+
+  * food or allergies preferences
+
+  * emergency contact information
+
   * organization or company of employment and/or job title;
   * field of activity and/or interest;
   * credit card references/numbers; 
@@ -95,11 +104,11 @@ In addition to our own cookies, we may also use various third­parties cookies t
 
 If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser:
 
-  * For Internet Explorer™ : https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
-  * For Safari™ : https://support.apple.com/en-us/HT201265
-  * For Chrome™ : https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en
-  * For Firefox™ : https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored
-  * For Opera™ : http://help.opera.com/Windows/10.20/en/cookies.html
+  * For Internet Explorer™ : <https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies>
+  * For Safari™ : <https://support.apple.com/en-us/HT201265> 
+  * For Chrome™ : [https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en) 
+  * For Firefox™ : <https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored> 
+  * For Opera™ : <https://help.opera.com/en/latest/web-preferences/>
   * etc...
 
 
@@ -122,7 +131,7 @@ Our website uses video cookies to display videos on our site. This service place
 
 You can also click on the following links to learn more about their practices and make your choice:
 
-For Youtube: [www.google.fr/intl/fr/policies/privacy/](https://web.archive.org/web/20180823111536id_/https%3A//www.mci-group.com/www.google.fr/intl/fr/policies/privacy/)[](https://web.archive.org/web/20180823111536id_/https%3A//www.mci-group.com/www.google.fr/intl/fr/policies/privacy/)
+For Youtube: [www.google.fr/intl/fr/policies/privacy/](https://policies.google.com/privacy?hl=fr&gl=fr)[](https://web.archive.org/web/20190624100109id_/https%3A//www.mci-group.com/www.google.fr/intl/fr/policies/privacy/)
 
   * Reject a Cookie of targeting
 
@@ -132,7 +141,7 @@ Audience measurement and segmentation cookies are registered by Google.
 
 For audience measurement cookies, you can click on the following deactivation link which will save in your browser a cookie whose sole purpose is to deactivate them:
 
-For the Google Analytics cookie: [www.google.com/analytics/learn/privacy.html](https://web.archive.org/web/20180823111536id_/https%3A//www.mci-group.com/www.google.com/analytics/learn/privacy.html)
+For the Google Analytics cookie: [www.google.com/analytics/learn/privacy.html](https://marketingplatform.google.com/about/)
 
   * Reject an Ad Cookie
 
@@ -144,16 +153,16 @@ You will thus be able to know the companies registered with this platform, which
 
 Some Cookies for behavioral advertising purposes are deposited by third-party partner providers. You can also click on the following links to learn more about their practices and make your choice:
 
-For DoubleClick for Publishers Cookies [[https://adssettings.google.com/u/0/authenticated](http://https//adssettings.google.com/u/0/authenticated)]
+For DoubleClick for Publishers Cookies [[https://adssettings.google.com/u/0/authenticated](https://myaccount.google.com/not-supported)]
 
 Attention, to proceed to this deactivation will prevent the display of all targeted advertisements with regard to your centers of interest nevertheless you will continue to receive the other advertisements. Disabling these cookies prevents the collection of information allowing better advertising targeting during your visits.
 
 **Where can you find more information about cookies?**
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. You can learn more about cookies and the following third­-party websites:
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. You can learn more about cookies and the following third­-party websites: 
 
-  * AllAboutCookies: http://www.allaboutcookies.org/
-  * Network Advertising Initiative: http://www.networkadvertising.org/
+  * AllAboutCookies: <http://www.allaboutcookies.org/> 
+  * Network Advertising Initiative: <http://www.networkadvertising.org/>
 
 
 
@@ -215,7 +224,7 @@ MCI is a worldwide company with offices in over 31 countries across Europe, the 
 
 a) Transfers within the MCI group: Transfers are made throughout MCI and its subsidiaries to support its activities and/or services.
 
-b) Transfer to third-parties: MCI works with certain third parties to obtain support services in connection with travels, meetings and events services and/or other MCI services to its Clients, such as emergency online booking services, hotel booking services, ground transportation requirements or airline ticket issuance, badge provider and, in some cases, personal data will be shared with these third parties in order to pursue MCI’s mission and goals. MCI may also transfer personal data to third parties at the request of its Clients. For example, to sponsors and exhibitors or to other third parties for data consolidation or emergency tracking services. MCI may transfer your data to third parties for promotion and marketing purposes as outlined under 3e) above. MCI may also transfer your data to a third-party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of MCI business, assets or stock (including in connection with any bankruptcy or similar proceedings). Prior to a transfer, third-parties (except for travel suppliers and authorized transfers such as within the EU) are required to sign a [data transfer agreement](https://web.archive.org/-/media/files/media-centre/privacy-statement/hotel-clause-data-transfer-agreement.ashx?la=en&hash=ABB66BF52C076D1C977D4C3884E96412D8F54402) with MCI that requires them to follow the applicable data protection laws.
+b) Transfer to third-parties: MCI works with certain third parties to obtain support services in connection with travels, meetings and events services and/or other MCI services to its Clients, such as emergency online booking services, hotel booking services, ground transportation requirements or airline ticket issuance, badge provider and, in some cases, personal data will be shared with these third parties in order to pursue MCI’s mission and goals. MCI may also transfer personal data to third parties at the request of its Clients. For example, to sponsors and exhibitors or to other third parties for data consolidation or tracking services to generate statistics. MCI may transfer your data to third parties for promotion and marketing purposes as outlined under 3e) above. MCI may also transfer your data to a third-party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of MCI business, assets or stock (including in connection with any bankruptcy or similar proceedings). Prior to a transfer, third-parties (except for travel suppliers and authorized transfers such as within the EU) are required to sign a [data transfer agreement](https://web.archive.org/-/media/files/media-centre/privacy-statement/hotel-clause-data-transfer-agreement.ashx?la=en&hash=ABB66BF52C076D1C977D4C3884E96412D8F54402) with MCI that requires them to follow the applicable data protection laws.
 
 c) Regulatory transfers: MCI may be required by law to transfer data to governments and regulatory and/or supervisory authorities.
 
@@ -249,4 +258,4 @@ This Statement may be revised and updated by MCI from time to time to comply wit
 
 11\. Contact
 
-If you need further assistance, please contact our Data Protection Officer, Anne Lesca, [privacy@mci-group.com](mailto:privacy@mci-group.com).
+If you need further assistance, please contact: [privacy@mci-group.com](mailto:privacy@mci-group.com).
