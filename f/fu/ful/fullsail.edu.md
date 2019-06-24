@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fullsail.edu privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908191355id_/http%3A//www.fullsail.edu/policies-and-guidelines/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullsail.edu privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624192433id_/https%3A//www.fullsail.edu/policies-and-guidelines/your-privacy-rights) for the most accurate reproduction.*
 
-# Full Sail University
+# Your Privacy Rights
 
 Below, you’ll find information about our accreditation, gainful employment, privacy rights, campus safety statistics, and more. Looking for more information? Call us at **800.226.7625**. 
 
 Full Sail Privacy Policy
 
-Effective Date of Current Policy: May 25, 2018
+Effective Date of Current Policy: January 2, 2019
 
 1\. PURPOSE 
 
@@ -34,7 +34,7 @@ We endeavor to collect only that information which is relevant for the purposes 
 
 Full Sail collects Personal Information regarding its current, prospective, and former customers, users, visitors, guests, and employees (collectively “Individuals”).
 
-  * **Information You Provide Directly to Us.** When you use the Sites and Mobile Apps, we may ask you to provide us with Personal Information. These voluntary submissions include making an online request that Full Sail send you additional information about its programs, via email or regular mail, and submitting an application to Full Sail degree programs online.
+  * **Information You Provide Directly to Us.** When you use the Sites and Mobile Apps, we may ask you to provide us with Personal Information. These voluntary submissions include making an online request that Full Sail send you additional information about its programs, via email, regular mail, telephone, SMS, and other messaging apps, and submitting an application to Full Sail degree programs online.
     * **Communications With Us.** We may collect Personal Information from you such as email address, phone number or mailing address when you choose to request information about us and our programs, register for Full Sail’s newsletter, request to receive customer or technical support, or otherwise communicate with us, including the on-line chat live function on our Sites. We also collect the other information that you provide as part of use of the Sites and Mobile Apps (e.g., without limitation, zip code (on its own), city and state, age and individual preferences).
     * **Surveys.** From time to time, we may contact you to participate in online surveys. If you do decide to participate, you may be asked to provide certain information which may include Personal Information. All information collected from your participation in our surveys is provided by you voluntarily. We may use such information to improve our products, Sites and/or services and in any manner consistent with the policies provided herein.
     * **Automatic Data Collection.** We may collect certain information automatically through our Services or other methods of web analysis, such as your Internet protocol (IP) address, cookie identifiers, mobile carrier, mobile advertising identifiers, MAC address, IMEI, Advertiser ID, and other device identifiers that are automatically assigned to your computer or device when you access the Internet, browser type and language, geo-location information, hardware type, operating system, Internet service provider, pages that you visit before and after using the Services, the date and time of your visit, the amount of time you spend on each page, information about the links you click and pages you view within the Services, and other actions taken through use of the Services such as preferences.
@@ -69,7 +69,7 @@ Process payment for products or services purchased;
 Process applications and transactions;  
 Prevent potentially prohibited or illegal activities.
 
-  * **Marketing Full Sail Products and Services.** Full Sail may use Personal Information to provide you with materials about offers, products, and Services that may be of interest, including new content or Services. Full Sail may provide you with these materials by phone, postal mail, facsimile, or email, as permitted by applicable law. Such uses include:
+  * **Marketing Full Sail Products and Services.** Full Sail may use Personal Information to provide you with materials about offers, products, and Services that may be of interest, including new content or Services. Full Sail may provide you with these materials by phone, SMS, messaging apps, postal mail, facsimile, and email, as permitted by applicable law. Such uses include:
 
 To tailor content, advertisements, and offers;  
 To notify you about offers, products, and services that may be of interest to you;  
@@ -83,7 +83,7 @@ Otherwise with your consent.
 You may contact us at any time to opt out of the use of your Personal Information for marketing purposes, as further described below.
 
   * **Research and Development.** Full Sail may use Personal Information to create non-identifiable information that we may use alone or in the aggregate with information obtained from other sources, in order to help us to optimally deliver our existing products and Services or develop new products and Services. From time to time, Full Sail may perform research (online and offline) via surveys. We may engage Third-Party service providers to conduct such surveys on our behalf. All survey responses are voluntary, and the information collected will be used for research and reporting purposes to help us better serve Individuals by learning more about their needs and the quality of the products and services we provide. The survey responses may be utilized to determine the effectiveness of our Services, various types of communications, advertising campaigns, and/or promotional activities. If an Individual participates in a survey, the information given will be used along with that of other study participants. We may share anonymous Individual and aggregate data for research and analysis purposes.
-  * **Direct Mail, Email and Outbound Telemarketing.** Individuals who provide us with Personal Information, or whose Personal Information we obtain from Third Parties, may receive periodic emails, newsletters, mailings, or phone calls from us with information on Full Sail’s or our business partners’ products and services or upcoming special offers/events we believe may be of interest. We offer the option to decline these communications at no cost to the Individual by following the instructions below.
+  * **Direct Mail, Email and Outbound Telemarketing.** Individuals who provide us with Personal Information, or whose Personal Information we obtain from Third Parties, may receive periodic emails, SMS text messages, messages via messaging apps, newsletters, mailings, or phone calls from us with information on Full Sail’s or our business partners’ products and services or upcoming special offers/events we believe may be of interest. We offer the option to decline these communications at no cost to the Individual by following the instructions below.
   * **Services via Mobile Devices.** From time to time, Full Sail may provide Services that are specifically designed to be compatible and used on mobile devices. Full Sail will collect certain information that your mobile device sends when you use such Services, like a device identifier, user settings, location information, mobile carrier, and the operating system of your device. Mobile versions of Full Sail’s Services may require that users log in with an Account. In such cases, information about use of mobile versions of the Services may be associated with Accounts. In addition, Full Sail may enable Individuals to download an application, widget, or other tool that can be used on mobile or other computing devices. Some of these tools may store information on mobile or other devices. These tools may transmit Personal Information to Full Sail to enable Individuals to access Accounts and to enable Full Sail to track use of these tools. Some of these tools may enable users to email reports and other information from the tool. Full Sail may use personal or non-identifiable information transmitted to Full Sail to enhance these tools, to develop new tools, for quality improvement and as otherwise described in this Privacy Policy or in other notices Full Sail provides.
   * **Anonymous and Aggregated Information Use.** Full Sail may use Personal Information and other information about you to create anonymized and aggregated information, such as de-identified demographic information, de-identified location information, information about the computer or device from which you access Full Sail’s Services, or other analyses we create. Anonymized and aggregated information is used for a variety of functions, including the measurement of visitors’ interest in and use of various portions or features of the Services. Anonymized or aggregated information is not Personal Information, and Full Sail may use such information in a number of ways, including research, internal analysis, analytics, and any other legally permissible purposes. We may share this information within Full Sail and with Third Parties for our or their purposes in an anonymized or aggregated form that is designed to prevent anyone from identifying you.
   * **Sharing Content with Friends or Colleagues.** Full Sail’s Services may offer various tools and functionalities. For example, Full Sail allows you to provide information about your friends through our referral services, such as “Tell a Friend.” Our referral services may allow you to forward or share certain content with a friend or colleague, such as an email inviting your friend to use our Services. Email addresses that you may provide for a friend or colleague will be used to send your friend or colleague the content or link you request, but will not be collected or otherwise used by Full Sail or any other Third Parties for any other purpose.
@@ -91,7 +91,7 @@ You may contact us at any time to opt out of the use of your Personal Informatio
 
 
 
-3.3 COOKIES, PIXEL TAGS/WEB BEACONS ANALYTICS INFROMATION, AND INTERNET-BASED ADVERTISING 
+3.3 COOKIES, PIXEL TAGS/WEB BEACONS ANALYTICS INFORMATION, AND INTERNET-BASED ADVERTISING 
 
 We, as well as Third Parties that provide content, advertising, or other functionality on our Services, may use cookies, pixel tags, local storage, and other technologies (“Technologies”) to automatically collect information through the Services. We use Technologies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a "device") that allow us to record certain pieces of information whenever you visit or interact with our sites, services, applications, messaging, and tools, and to recognize you across devices.
 
@@ -159,9 +159,13 @@ You can use the same contact information above to request information under Cali
 
 Even if you opt out, we may still collect and use non-Personal Information regarding your activities on our Sites and/or information from the advertisements on Third-Party websites for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements. 
 
-5.1 EMAIL AND TELEPHONE COMMUNICATIONS
+5.1 EMAIL, SMS, AND MESSAGING APP COMMUNICATIONS
 
 You may opt out of email communications from Full Sail University at any time by clicking on the “unsubscribe” link found at the bottom of every email. Requests are processed as they are received; however, some email communications are planned in advance and may continue to be sent for a few days following your unsubscribe request. Note that you will continue to receive transaction-related emails regarding products or Services you have requested. We may also send you certain non-promotional communications regarding Full Sail and our Services and you will not be able to opt out of those communications (e.g., communications regarding updates to this Privacy Policy). 
+
+For details on how to opt-out from SMS text messages, [click here](https://web.archive.org/policies-and-guidelines/sms-terms-conditions).
+
+To opt-out of receiving messages from Full Sail via messaging apps (e.g., WhatsApp, Skype, and WeChat), please send the word “opt-out” to the Full Sail representative communicating with you. If you have any issues or questions, please contact us at [website@fullsail.com](mailto:website@fullsail.com).
 
 5.2 MOBILE DEVICES
 
@@ -171,7 +175,7 @@ Full Sail may occasionally send you push notifications through our mobile applic
 
 As noted above, you may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. Please note that cookie-based opt outs are not effective on mobile applications. However, on many mobile devices, application users may opt out of certain mobile ads via their device settings.
 
-The online advertising industry also provides websites from which you may opt out of receiving targeted ads from our data partners and our other advertising partners that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at www.networkadvertising.org/managing/opt_out.asp, or hwww.youronlinechoices.eu and www.aboutads.info/choices. You can also choose not to be included in Google Analytics here.
+The online advertising industry also provides websites from which you may opt out of receiving targeted ads from our data partners and our other advertising partners that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at www.networkadvertising.org/managing/opt_out.asp, or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) and www.aboutads.info/choices. You can also choose not to be included in Google Analytics here.
 
 Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.
 
