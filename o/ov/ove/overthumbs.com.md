@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overthumbs.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123130352id_/http%3A//www.overthumbs.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overthumbs.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624043556id_/http%3A//overthumbs.com/legal/privacy) for the most accurate reproduction.*
 
 # 
 
