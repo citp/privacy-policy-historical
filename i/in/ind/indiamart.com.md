@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the indiamart.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231103340id_/https%3A//www.indiamart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamart.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624092555id_/https%3A//www.indiamart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IndiaMART Privacy Policy
+
+Last Updated On: 19 June 2018
 
 The Privacy Policy of [www.indiamart.com](https://www.indiamart.com/) (hereinafter referred to as “site ") detailed herein below governs the collection, possession, storage, handling and dealing of personal identifiable information/data and sensitive personal data (hereinafter collectively referred to as “information”) of the users of the site.
 
