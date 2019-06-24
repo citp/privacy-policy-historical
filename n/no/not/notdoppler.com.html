@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the notdoppler.com privacy policy that was archived on 2018-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221125219id_/http%3A//notdoppler.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the notdoppler.com privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624045310id_/http%3A//www.notdoppler.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy</title>
@@ -84,7 +84,87 @@ margin: 0 0 0 0;
 
 <center>
 <table width="100%" height="120" background="http://i.notdoppler.com/img/header_bg.gif" cellspacing="0" cellpadding="0" border="0" valign="top">
-<tbody><tr><td align="center">
+<tbody><tr><td align="center"><script src="https://cc.cdn.civiccomputing.com/8/cookieControl-8.x.min.js"></script>
+<script>
+(function($){
+    var logcc = false; // log CookieControl messages
+    function onPreloadCB() {
+        $( window ).trigger( 'gdprconsent:preload' );
+    }
+    function onLoadCB() {
+        if (logcc) console.log('CookieControl loaded.');
+        $( window ).trigger( 'gdprconsent:load' );
+    }
+    function consentCB( consent, cb ) {
+        return function() {
+            consent = !!consent;
+            var event = consent ? 'accept' : 'revoke';
+            var name = this.name;
+            if (logcc) console.log( name + ' - ' + event + ' cookies' );
+
+            window['gdprconsent:' + name] = consent;
+            $( window ).trigger( 'gdprconsent:' + name + ':' + event );
+
+            if ( typeof cb != 'undefined' ) {
+                cb.call( this );
+            }
+        }
+    }
+
+    var config = {
+        apiKey: '6f959f2a869aa68778e4c346bc697b747f258ed7',
+        product: 'PRO',
+        initialState: 'notify',
+        position: 'right',
+        theme: 'light',
+        consentCookieExpiry: 365,
+        excludedCountries: 'all',
+        logConsent: true,
+        onLoad: onLoadCB,
+        necessaryCookies: ['_ga', '_gid', '_gat', '__utma', '__utmt', '__utmb', '__utmc', '__utmz', '__utmv'], // Protect GA tracking
+        optionalCookies: [
+            {
+                name: 'personalised_ads',
+                label: 'Personalised Advertising',
+                description: 'Personalised Advertising will show ads that are more relevant to you based on your interests. Advertising helps keep Not Doppler free to play. By turning off personalised advertising you will still be shown non-personalised advertising.',
+                recommendedState: true,
+                cookies: [
+                    // GA
+                    'GED_PLAYLIST_ACTIVITY',
+                    'GoogleAdServingTest',
+                    // FS
+                    '_fsloc',
+                    '_fssid',
+                    '_fsuid',
+                    '_pubcid',
+                    'fsbotchecked',
+                    'fssts',
+                ],
+                thirdPartyCookies: [
+                    { name: 'Google Ads', optOutLink: 'https://www.google.com/ads/preferences/' }, // https://policies.google.com/technologies/ads
+                    { name: 'Freestar Platform', optOutLink: 'https://freestar.io/data-policy/' }
+                ],
+                onAccept: consentCB( true ),
+                onRevoke: consentCB( false ),
+            },
+        ],
+        statement : {
+            description: 'For more information vist our',
+            name : 'Privacy Policy',
+            url: 'http://www.notdoppler.com/privacypolicy.php',
+            updated : '01/03/2019',
+        },
+        branding: {
+            removeAbout: true,
+        },
+    };
+    $( document ).ready( function() {
+        onPreloadCB();
+        CookieControl.load( config );
+    } );
+})(jQuery);
+</script>
+
 <!-- Start Facebook Like Widget -->
 
 <div id="fb-root"></div>
@@ -288,14 +368,14 @@ margin: 0 0 0 0;
 
 <a href="/bonkio.php" target="_top">Bonk.io</a><br>
 <a href="/strikeforceheroes2.php" target="_top">Strike Force Heroes 2</a><br>
-<a href="/strikeforceheroes.php" target="_top">Strike Force Heroes</a><br>
 <a href="/strikeforceheroes3.php" target="_top">Strike Force Heroes 3</a><br>
+<a href="/supersquad.php" target="_top">Super Squad</a><br>
+<a href="/supersplashescape.php" target="_top">Super Splash Escape</a><br>
+<a href="/strikeforceheroes.php" target="_top">Strike Force Heroes</a><br>
+<a href="/hardtruck.php" target="_top">Hard Truck</a><br>
+<a href="/zombidle.php" target="_top">Zombidle</a><br>
+<a href="/matcharena.php" target="_top">Match Arena</a><br>
 <a href="/earntodie.php" target="_top">Earn to Die</a><br>
-<a href="/theimpossiblequiz.php" taget="_top">The Impossible Quiz</a><br>
-<a href="/earntodie2012.php" target="_top">Earn to Die 2012</a><br>
-<a href="/earntodie2012-part2.php" target="_top">Earn to Die 2012: Part 2</a><br>
-<a href="/trapthetiger.php" taget="_top">Trap the Tiger</a><br>
-<a href="/atvdestroyer.php" taget="_top">ATV Destroyer</a><br>
 
 
 
@@ -433,13 +513,11 @@ margin: 0 0 0 0;
 <font style="font-size: 13px; font-weight: bold; font-family: arial, helvetica; color: #003467"><span class="top10">
 
 
+<a href="/slingjumper2.php" target="_top">Sling Jumper 2</a><br>
 <a href="/earntodie2-exodus.php" target="_top">Earn to Die 2: Exodus</a><br>
-<a href="/snowynightescape.php" target="_top">Snowy Night Escape</a><br>
-<a href="/matcharena.php" target="_top">Match Arena</a><br>
-<a href="/tacticalweaponpack.php" target="_top">Tactical Weapon Pack</a><br>
-<a href="/astrollinspace.php" taget="_top">A Stroll in Space</a><br>
-
-
+<a href="/runawaytrainescape.php" target="_top">Runaway Train Escape</a><br>
+<a href="/earntodie2012-part2.php" target="_top">Earn to Die 2012: Part 2</a><br>
+<a href="/earntodie2012.php" target="_top">Earn to Die 2012</a><br>
 
 
 
@@ -602,10 +680,8 @@ SEARCH</font></td></tr>
 LATEST GAMES</font><br>
 
 <font style="font-size: 12px; font-family: arial, helvetica; color: #003467"><span class="top10">
-- <a href="/circloo2.php" target="_top">CircloO 2</a><br>
-- <a href="/thegreenmissioninsideacave.php" target="_top">The Green Mission Inside a Cave</a><br>
-- <a href="/thumbfighter-christmasedition.php" target="_top">Crime Solvers: Missing Puppy</a><br>
-- <a href="/escapechristmascabin.php" target="_top">Escape Christmas Cabin</a><br>
+- <a href="/bowroyaleio.php" target="_top">Bowroyale.io</a><br>
+- <a href="/creepiesthouseescape.php" target="_top">Creepiest House Escape</a><br>
 <a href="/" target="_top"><b>More Latest Games</b></a><br>
 
 
@@ -923,7 +999,7 @@ Copyright:<br>
 
 
 <font style="font-size: 10px; font-family: arial, helvetica; color: #333333">
-Copyright 2005-2018 Not Doppler unless stated otherwise. All external pages linked to by Not Doppler are Copyright their respective owners. 
+Copyright 2005-2019 Not Doppler unless stated otherwise. All external pages linked to by Not Doppler are Copyright their respective owners. 
 </font>
 
 
