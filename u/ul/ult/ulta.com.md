@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ulta.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110082641id_/https%3A//www.ulta.com/ulta/common/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulta.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624141452id_/https%3A//www.ulta.com/ulta/common/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Ulta Beauty
 
 ## ULTA.com® Privacy Policy
 
-Last Updated: 2/22/2018  
+Last Updated: 04/09/2019  
 This website, Wi-Fi service, internet service, or mobile application ("Site") is owned and operated by Ulta Salon, Cosmetics & Fragrance, Inc. ("Ulta Beauty"). Ulta Beauty takes your privacy seriously. This Privacy Policy describes what information this Site gathers about you, how we use that information, and what steps we take to protect that information.
 
 By using this Site, you consent to the terms of this Privacy Policy as well as the Site [Terms & Conditions.](https://web.archive.org/ulta/common/user_agreement.jsp "Terms & Conditions") Ulta Beauty may change this Privacy Policy from time to time. Please check back periodically for up-to-date information about our privacy practices.
@@ -77,6 +77,10 @@ We may use the personal information you provide to allow you to send message to 
 
     This Site is directed to adults, and does not knowingly collect personal information online from children under the age of 13 without prior parental consent. If you are the parent or guardian of a child under the age of 13, and you believe your child has provided personal information to our Site that you would like us to delete, please [Contact Us](https://web.archive.org/ulta/guestservices/contactUs.jsp)
 
+     _Virtual Beauty Information_
+
+    The collection of "Virtual Beauty Information" is governed by the Virtual Beauty Try-On Additional Terms and Conditions in the Site [Terms & Conditions](https://www.ulta.com/ulta/common/user_agreement.jsp).
+
 ### 2\. INFORMATION USE, DISCLOSURE, AND SHARING
 
 The information we collect on this Site may be used to fulfill your requests (such as product orders and responses to email questions), to support our core business functions (such as order fulfillment, internal business process management, authentication, loss and fraud prevention, and public safety functions), and to communicate with you about our product offers and promotions. When you create an account with us, we offer the opportunity to become a member of Ulta Beauty's Loyalty Program, so you may receive future discounts, gifts and Ulta Beauty e-mail. You can also sign up for our e-mail list by providing your e-mail address through our Site services or our affiliated retail stores.
@@ -90,6 +94,8 @@ We may disclose your personal information to identify you to anyone to whom you 
 We may disclose the information we collect about you (including personally identifiable information) to third parties to comply with applicable laws, regulations, and/or governmental requests. We may also disclose such information to verify or enforce compliance with our [Terms & Conditions](https://web.archive.org/ulta/common/user_agreement.jsp "Terms & Conditions") and this Privacy Policy, to process and fill your order, reduce credit risk, protect against fraud, protect against misuse or unauthorized use of our Site, or when we believe in good faith that the law requires such disclosure. We may also disclose such information to a successor entity in connection with a merger, consolidation, sale of assets or other corporate change affecting the Site.  
 We may share personal information in connection with financial products or services related to our business such as private label credit cards. We may also share personal information in connection with co-branded product or service offerings. For example, when you apply for an Ulta Beauty credit card (co-branded or private label), we may share your personal information with our banking partners that issue the card.  
 We may share the information collected on our Site with agents or contractors who provide support for our internal operations. Such entities may receive personally identifiable information to allow them to perform their duties, but they may not use that information for any other purpose. In some instances, we may share non-identifying and aggregate information collected on our Site with third parties, such as our merchandise vendors and service providers. 
+
+The use, disclosure, and sharing of "Virtual Beauty Information" is governed by the Virtual Beauty Try-On Additional Terms and Conditions in the Site [Terms & Conditions](https://www.ulta.com/ulta/common/user_agreement.jsp).
 
 ### 3\. SECURING YOUR INFORMATION
 
