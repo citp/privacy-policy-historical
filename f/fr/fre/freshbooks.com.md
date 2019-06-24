@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106223918id_/https%3A//www.freshbooks.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624050458id_/https%3A//www.freshbooks.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FreshBooks
 
 Privacy and Security:
 
-#### Last Updated: May 18th, 2018
+#### Last Updated: June 10, 2019
 
-This is the Privacy Policy of the FreshBooks website: [https://www.freshbooks.com](https://www.freshbooks.com/) (the “Site”), operated by 2NDSITE Inc. (together with our affiliates and subsidiaries, including FreshBooks USA Inc. and any future affiliates or subsidiaries, “FreshBooks”, “we”, “us”, “our” and terms of similar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we disclose and secure this information. It also describes your choices regarding use, access and correction of your personal information.
+This is the Privacy Policy of the FreshBooks website: [https://www.freshbooks.com](https://www.freshbooks.com/) (the “Site”), operated by 2NDSITE Inc. (together with our affiliates and subsidiaries, including FreshBooks USA Inc. and any future affiliates or subsidiaries, “FreshBooks”, “we”, “us”, “our” and terms of similar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we disclose and secure this information. It also describes your choices regarding use, access and correction of your personal information.
 
-By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use](https://web.archive.org/policies/terms-of-service).
+FreshBooks may also provide other web sites, including without limitation freeinvoicecreator.com.  This Privacy Policy also applies to such web sites which, for purposes of this Privacy Policy are included in the definitions of “Site”.
+
+By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use](https://www.freshbooks.com/policies/terms-of-service).
 
 In this Privacy Policy, we use the following terms to describe different types of visitors to our Site. Our customers are called “Subscribers” and our Subscribers’ customers are called “Customers”. We use the word “staff” to describe persons to whom Subscribers give “staff” access on the Site. Together with registered users of our forum or other interactive areas of the Site, these people are collectively described in this Privacy Policy as “Users” of our Site.
 
-### What Information Do We Collect?
+**What Information Do We Collect?**
 
 Our primary purpose in collecting personal information from you is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
 
 In general, you can browse the Site without telling us who you are or revealing personal information about yourself. Once you become a User, we require you to provide various contact and identity information, billing information, and other personal information as indicated on the relevant forms on the Site (which vary, depending on what kind of User you are). Where possible, on these forms we indicate which fields are required and which fields are optional.
 
-In addition, as you use the Site, you can from time to time enter or send to us personal information. For example, if you are a Subscriber, you can enter your own timesheet and other billing information, and if you are a Customer you can enter information about payment of any invoice submitted by a Subscriber. As you use the Site you can also from time to time enter personal information about third parties. For example, if you are a Subscriber, you can enter personal information about your Customers or your staff. 
+In addition, as you use the Site, you can from time to time enter or send to us personal information. For example, if you are a Subscriber, you can enter your own timesheet and other billing information, and if you are a Customer you can enter information about payment of any invoice submitted by a Subscriber. As you use the Site you can also from time to time enter personal information about third parties. For example, if you are a Subscriber, you can enter personal information about your Customers or your staff.
 
 You always have the option to not provide information by choosing not to become a User or by not using the particular feature of the Site for which the information is being collected.
 
@@ -34,13 +36,15 @@ We use cookies to remember users’ settings, store login addresses, authenticat
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/).Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-### How We Use Your Information
+We, or our designated third party service provider, may from time to time contact you by telephone. Such calls may as indicated by us, and with your consent, be monitored, recorded, stored and used for the purposes specified in such calls.
 
-We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to provide to you the services offered by the Site; resolve service and billing disputes; troubleshoot problems; bill any amounts due from you; measure consumer interest in our products and services, inform you about online and offline offers, products, services, events and updates; deliver information to you that, in some cases, is relevant to your interests, such as product news; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our [Terms of Use](https://web.archive.org/policies/terms-of-service); provide you with system or administrative messages, and as otherwise described to you at the time of collection. On occasion we use email address or other contact information to contact our Users to ask them for their input on our services, to forward to them media opportunities, and even to invite them to dinner.
+**How We Use Your Information**
+
+We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to provide to you the services offered by the Site; resolve service and billing disputes; troubleshoot problems; bill any amounts due from you; measure consumer interest in our products and services, inform you about online and offline offers, products, services, events and updates; deliver information to you that, in some cases, is relevant to your interests, such as product news; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our [Terms of Use](https://www.freshbooks.com/policies/terms-of-service); provide you with system or administrative messages, and as otherwise described to you at the time of collection. On occasion we use email address or other contact information to contact our Users to ask them for their input on our services, to forward to them media opportunities, and even to invite them to dinner.
 
 We may also use personal information about you to improve our marketing and promotional efforts, to analyze Site usage, to improve our content and product offerings, and to customize the Site’s content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site. If you wish to subscribe to our newsletters, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe in the email. If you wish to no longer receive our newsletters you may update the settings in your account, follow the instructions located in the email, or you may contact us at [privacy@freshbooks.com](mailto:privacy@freshbooks.com).
 
-### Our Disclosure of Your Information
+**Our Disclosure of Your Information**
 
 We will share or disclose your personal information with third parties only in the ways that are described in this privacy policy, including as follows:
 
@@ -60,39 +64,39 @@ Subsidiaries and Affiliates; Service Providers. We may from time to time use the
 
 Legal Requests and Business Transitions; Emergencies. In certain situations, FreshBooks may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. FreshBooks may disclose your personal information (a) to any governmental authority as part of an investigation to determine our compliance with any applicable law, rule, or regulation (including privacy laws, rules, and regulations), (b) in response to a court order, subpoena, discovery request, or other lawful judicial or administrative proceeding, (c) as otherwise required or permitted under any applicable law, rule, or regulation, and (d) in good faith, to protect or defend the rights or property of FreshBooks and other users and (e) if FreshBooks is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-### Your Use of Other Persons’ Information
+**Your Use of Other Persons’ Information**
 
-In order to facilitate the services provided by the Site, the Site allows you in certain circumstances to give other Users limited access to the personal information of other persons. For example, if you are a Subscriber, you may use the Site to give access to a staff member to the personal information of your Customers. By entering into our [Terms of Use](https://web.archive.org/policies/terms-of-service), you agree that, with respect to the personal information of other persons that you collect, use and disclose on the Site, you have all necessary consents and rights to collect, use and disclose that information as described in this Privacy Policy from time to time, and you agree that the indemnity you give to us in the [Terms of Use](https://web.archive.org/policies/terms-of-service) applies to any non-compliance by you with the foregoing.
+In order to facilitate the services provided by the Site, the Site allows you in certain circumstances to give other Users limited access to the personal information of other persons. For example, if you are a Subscriber, you may use the Site to give access to a staff member to the personal information of your Customers. By entering into our [Terms of Use](https://www.freshbooks.com/policies/terms-of-service), you agree that, with respect to the personal information of other persons that you collect, use and disclose on the Site, you have all necessary consents and rights to collect, use and disclose that information as described in this Privacy Policy from time to time, and you agree that the indemnity you give to us in the [Terms of Use](https://www.freshbooks.com/policies/terms-of-service) applies to any non-compliance by you with the foregoing.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. FreshBooks stores this information for the sole purpose of sending this one-time email, tracking the success of our referral program, and compliance with laws. Your friend may contact us at [privacy@freshbooks.com](mailto:privacy@freshbooks.com) to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. FreshBooks stores this information for the sole purpose of sending this one-time email, tracking the success of our referral program, and compliance with laws. Your friend may contact us at [privacy@freshbooks.com](mailto:privacy@freshbooks.com) to request that we remove this information from our database.
 
-### Security
+**Security**
 
-FreshBooks strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any information, such as credit card number and billing information, you send to us electronically. The encryption process protects your information, by scrambling it before it is sent to us from your computer. Once FreshBooks receives your transmission, we make commercially reasonable efforts to ensure its security on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. More information about security is available on the Site and in our [Terms of Use](https://web.archive.org/policies/terms-of-service). If you have any questions about the security of your personal information, you can contact us at [privacy@freshbooks.com](mailto:privacy@freshbooks.com).
+FreshBooks strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any information, such as credit card number and billing information, you send to us electronically. The encryption process protects your information, by scrambling it before it is sent to us from your computer. Once FreshBooks receives your transmission, we make commercially reasonable efforts to ensure its security on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. More information about security is available on the Site and in our [Terms of Use](https://www.freshbooks.com/policies/terms-of-service). If you have any questions about the security of your personal information, you can contact us at [privacy@freshbooks.com](mailto:privacy@freshbooks.com).
 
-### Other Information Collectors
+**Other Information Collectors**
 
 Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties through the Site, whether they are Subscribers or Customers or otherwise, different rules may apply to their use, collection and disclosure of the personal information you disclose to them. Since we do not control the information use, collection or disclosure policies of third parties, you are subject to their privacy policies. We encourage you to ask questions before you disclose your personal information to others.
 
-Your use of automated bank account feeds enabled by the Yodlee, Inc. (“Yodlee”) data gathering service (the “Yodlee Service”) from within FreshBooks is subject to the Yodlee terms, which are available [here](https://web.archive.org/policies/yodlee-terms-of-service), and by using the Yodlee Service from within FreshBooks you consent to our and Yodlee’s use, collection and disclosure of your information as described in those Yodlee terms.
+Your use of automated bank account feeds enabled by the Yodlee, Inc. (“Yodlee”) data gathering service (the “Yodlee Service”) from within FreshBooks is subject to the Yodlee terms, which are available [here](https://www.freshbooks.com/policies/yodlee-terms-of-service), and by using the Yodlee Service from within FreshBooks you consent to our and Yodlee’s use, collection and disclosure of your information as described in those Yodlee terms.
 
-### Correcting and Updating Your Personal Information
+**Correcting and Updating Your Personal Information**
 
-Upon written request FreshBooks will provide you with information about what personal information we have about you. To review, delete and update your personal information to ensure it is accurate, you may login into your account to make the changes, or you may contact us at [privacy@freshbooks.com](mailto:privacy@freshbooks.com). We will respond to your request within a reasonable timeframe. _We may ask you for further information from you to help us respond to your request, including asking for government-issued identification._
+Upon written request FreshBooks will provide you with information about what personal information we have about you. To review, delete and update your personal information to ensure it is accurate, you may login into your account to make the changes, or you may contact us at [privacy@freshbooks.com](mailto:privacy@freshbooks.com). We will respond to your request within a reasonable timeframe.  _We may ask you for further information from you to help us respond to your request, including asking for government-issued identification._
 
-### Account Deletion
+**Account Deletion**
 
 FreshBooks is a complex business network that connects millions of users. FreshBooks manages a business eco system that brings together contractors, companies and customers. This network relies on the exchange and sharing of information that is important to others in your network. Tracked hours, sent invoices, paid invoices, contractor invoices are all vital to other people that work with you. These are the official history of work done and moneys paid. The complexity and connected nature of the system requires that this history exists in perpetuity to accommodate proper function and accounting for the other systems that you have connected to via contracting hours, invoices, estimates. FreshBooks cannot guarantee the deletion of all your information.
 
 When a customer chooses to close an account we will remove your information from our marketing and billing systems. This will ensure that there are not further mailings or billings directed towards the canceled user.
 
-As we continue to refine FreshBooks we will establish a method for the complete removal of all user information from the system without breaking accepted accounting principles for other connected FreshBooks accounts. This document will evolve as these new methods are defined and tested for permanent account deletion. Users wishing to be notified when this development is complete can indicate their wishes via [help@freshbooks.com](mailto:help@freshbooks.com) or [1.866.303.6061](https://web.archive.org/web/20181106223918id_/https%3A//www.freshbooks.com/policies/18663036061).
+As we continue to refine FreshBooks we will establish a method for the complete removal of all user information from the system without breaking accepted accounting principles for other connected FreshBooks accounts. This document will evolve as these new methods are defined and tested for permanent account deletion. Users wishing to be notified when this development is complete can indicate their wishes via [help@freshbooks.com](mailto:help@freshbooks.com) or [1.866.303.6061](https://www.freshbooks.com/policies/18663036061).
 
-### Data Retention
+**Data Retention**
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements; this retention period may extend past the point at which you close your account.
 
-### Additional Policy Information
+**Additional Policy Information**
 
 Invitations: You have the opportunity to invite others to work with you through your FreshBooks account. To do that, FreshBooks asks you to import or to manually enter your contacts’ email addresses. As you direct, we then send them an invitation on your behalf or other notices reflecting changes you make to their status in your account.
 
@@ -102,13 +106,13 @@ With your consent we may post your testimonial along with your name. If you want
 
 Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@freshbooks.com](mailto:privacy@freshbooks.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [](https://feedback-form.truste.com/watchdog/request)<https://feedback-form.truste.com/watchdog/request>.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@freshbooks.com](mailto:privacy@freshbooks.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-### Notification of Privacy Statement Changes
+**Notification of Privacy Statement Changes**
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-### Questions?
+**Questions?**
 
 It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at:
 
