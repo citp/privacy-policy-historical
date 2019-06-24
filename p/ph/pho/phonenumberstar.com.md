@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonenumberstar.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209094411id_/http%3A//www.phonenumberstar.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonenumberstar.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190213id_/http%3A//www.phonenumberstar.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Phone Directory
 
@@ -71,4 +71,4 @@ You may remove your information from the Phonenumberstar phone directory, please
 
 For any suggestions and comments regarding Phonenumberstar.com or our Privacy Policy, please contact us via [contact page](http://www.phonenumberstar.com/contact.html)
 
-If you feel this website does not comply with ths above policy or if you have any questions you can [contact us](https://web.archive.org/web/20181209094411id_/http%3A//www.phonenumberstar.com/contact.html).
+If you feel this website does not comply with ths above policy or if you have any questions you can [contact us](https://web.archive.org/web/20190624190213id_/http%3A//www.phonenumberstar.com/contact.html).
