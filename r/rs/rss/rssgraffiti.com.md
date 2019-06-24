@@ -1,101 +1,118 @@
-> *The following text is extracted and transformed from the rssgraffiti.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408080452id_/http%3A//www.rssgraffiti.com/%3Fpage_id%3D2081364812) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssgraffiti.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624115329id_/https%3A//www.scribblelive.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RSS Graffiti | Easy Facebook Automation
+# Privacy Policy - ScribbleLive
 
-## [Privacy Policy](http://www.rssgraffiti.com/?page_id=2081364812)
+**Revised December 5, 2018**
 
-THIS PRIVACY POLICY, AS AMENDED FROM TIME TO TIME (“Policy”), GOVERNS THE INFORMATION WE COLLECT ABOUT YOU WHEN YOU ACCESS THE SCRIBBLELIVE.COM WEBSITE (the “SITE”). IF YOU DO NOT AGREE TO THIS POLICY, DO NOT USE THE SITE.
+This Privacy Policy (the “Policy”) becomes effective on May 18, 2018 for all users, provided that enhanced data protection rights in this Policy required by the EU General Data Protection Regulation (including, without limitation, the “EEA Resident Rights” described herein) become effective on May 25, 2018 for all EU-resident users who are natural persons.
 
-THIS POLICY IS PART OF AND INCORPORATED INTO THE SITE [TERMS OF USE](http://www.scribblelive.com/legal/) (collectively, the “Terms”).
+**Privacy Information**  
+This online privacy policy (the “Policy”) applies to all information gathered by Scribble Technologies Inc. and its affiliates and subsidiaries, including i-on interactive Inc., Visually Inc., and Engage ( collectively “ScribbleLive”). The purpose of this Policy is to provide you with information about ScribbleLive’s collection, use, maintenance and disclosure of your information gathered by ScribbleLive.
 
-BY PROVIDING PERSONAL INFORMATION OR OTHER INFORMATION TO US OR BY USING OUR SITE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY. ****
+**EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks**  
+Scribble Technologies, Inc. and its affiliates, i-on interactive, Inc. and Visually, Inc. comply with the U.S.-EU Privacy Shield and Swiss-U.S. Privacy Shield Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Scribble has certified that they adhere to both Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield program, and to view the certification, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/) . Personal data received or transferred pursuant to the Privacy Shield are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission (FTC).
 
-**1.** **INFORMATION YOU GIVE US**. We collect any information you enter on the Site or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Site.
+**Privacy Principles  **  
+**Notice**
 
-**2.** **AUTOMATIC INFORMATION COLLECTION**.
+**Types of Information we Collect  **  
+ScribbleLive collects data directly from you to help provide you with the best experiences with our services and products. ScribbleLive may collect information from you in three ways; 1) through websites operated by ScribbleLive, 2) your use of our services, and 3) information you provide.
 
-**A.** Cookies.  Like many websites, we use “cookies.”  Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser.  We use persistent, identifying cookies to remember your information and to link your activities to you.  While you can take steps to warn off, block or disable cookies, if you do, the Site may not function and appear as we have designed it.  Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser.  Our cookies collection information such as:
+**Websites operated by ScribbleLive**  
+In connection with visiting any ScribbleLive owned website, ScribbleLive may use third party services to collect and store information.
 
-**i.** the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+**Your use of our Services**  
+When using or interacting with a ScribbleLive product or service, ScribbleLive may collect information about your interactions, the services you use and how you use them. Information collected may include; device information, location information, unique application ID’s, cookies and similar technologies.
 
-**ii.** the date and time you access the Site and pages you visit;
+**Information you provide**
 
-**iii.** your computer’s IP address and information about its operating system, platform and the Web browser type and version you use;
+  * ScribbleLive Customers: Some ScribbleLive services may require you to sign up for an account. When you sign up for the account, we may ask you for some personal information such as your name, email address, company name and company information.
 
-**iv.** demographic and other non-personally identifiable profile information about you; and
 
-**v.** information to combat fraud or misuse.
+  * ScribbleLive Customer Clients: Some data requested by our Customers, through the use of our services (i.e forms), is personally identifiable information, which may include, but not limited to, your name, address, telephone numbers, e-mail address, company name, and company information. This information will be input by you in response to prompts when using our Customer’s websites.
 
-**B.** Pixel Tags.  If we email you, our emails may use “pixel tags” to determine if your email software or site can display html-formatted email (this helps us optimize the size of our email messages and conserve bandwith).
 
-**C.** Collection of Information by Third Parties.  Some of the advertisers and other businesses that advertise or place other content our Site use cookies on our Site and may place a cookie on your computer.  The content posted by these businesses will be reasonably identifiable as coming from a third party.  In addition, we may use third party advertising companies to serve ads.  These companies (1) use information obtained from your visits to this Site and other sites to serve ads to you and (2) place unique third party cookies on your browser.  Also, we use web beacons provided by third party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer.  Some but not all third party advertising companies provide a mechanism to opt-out of their technology.  For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-The information collected by third party cookies is subject to the privacy policy of the third party, not this Policy.
+**Types of Information NOT Collected  **  
+The following personal information is restricted from being collected through the use of our services and you should refrain from providing any information related to financial information such as, but not limited to credit card and account numbers, Social Security number, driver’s license number, passport number, information protected by Family Educational Rights and Privacy Act (“FERPA”), the Gramm Leach Bliley Act (“GLBA”), Health Insurance Portability and Accountability Act (“HIPPA”) and/or Social Security Number Protection Act.
 
-**D.** Promotions, Sweepstakes, and Contests.  From time to time, we may host a promotion, sweepstake, or contest on the Site.  You may be asked to provide personal information or permit the transfer to a third party of your personal information in connection with such promotion, sweepstake or contest.  It will be disclosed at the point of collection or transfer who is collection or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer to our collection of personal information by a third party.
+**Information We May Place on Your Computer  **  
+ScribbleLive software may store some information on your computer. This information will be in the form of a “Cookie” or similar file and will help us and our customer in many ways. A Cookie is an element of data that a web site can send to your browser, which may then store the Cookie on your hard drive. If a Cookie is stored on your computers hard drive, the next time you visit the same website, we can recognize you. For example, Cookies are used to better match your interests and preferences. With most Internet browsers, you can erase Cookies from your computer hard drives, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. Note that certain web site functionality may not work if Cookies are blocked. For more information on Cookies please read our  _[Cookies Policy](https://www.scribblelive.com/legal/cookie-policy)_.
 
-**3.** **OUR USE AND RETENTION OF YOUR INFORMATION** **.**
+**Web Beacons  **  
+We use web beacons alone or in conjunction with Cookies to help collect information that enables us to track the existence and/or nature of web-based interactions that take place via our customer’s websites. Web beacons help us to analyze where users go and what they do while visiting our customer’s websites. A web beacon is a clear electronic image. A web beacon will recognize certain types of information on your computer, such as cookies, when you view a website that is connected to that web beacon. We may also use anonymous information about your visits to our customer’s websites in order to improve our customer’s products and services and help them provide relevant and useful information about goods and services of interest to you.
 
-**A.** Use of Personal Information.  We use personal information that you submit to us for such purposes as responding to your requests; monitoring and providing the Site; enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the[Terms](http://www.scribblelive.com/legal/).
+**IP Addresses**  
+ScribbleLive automatically records certain information, which may include your web request, your interaction with a service, the Internet Protocol address of the computer from which you are accessing the website, your browser type, browser language, and the date and time of your request.
 
-**B.** Use of Other Information. We use other information about our users for purposes such as measuring the number of visitors to sections of our Site, making the Site more useful to visitors and delivering targeted advertising and non-advertising content.  We use IP addresses to analyze trends, administer the Site, track a user’s movement, and gather broad demographic information for aggregate, non-personally identifiable use.
+**EEA Resident Rights**  
+If you are a resident of the European Economic Area, you have the following data protection rights:
 
-**C.** Retention of Information.  We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information.
+  * If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us .
+  * In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.
+  * You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing emails we send you.
+  * Similarly, if we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
 
-**4.** **OUR SHARING OF INFORMATION**. Scribble Technologies shares information with third parties, but only as described in this Section 4.
 
-**A.** Advertisers and Others.  We share non-personally identifiable information with advertisers, site providers, and other persons with whom we conduct business.  Conversely, these advertisers, site providers, and other persons may share with us information about you that they have independently developed or acquired.
 
-**B.** Site Third Parties **.** We contract with affiliated and non-affiliated third parties to provide sites to us or to you on our behalf. Examples include providing marketing assistance and analyzing data. These third parties have access to personal information needed to perform their functions.
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. Notwithstanding the foregoing, we reserve the right to keep any information in our archives that we deem necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-**C.** Business Transfer **.** As we develop our business, we might sell or buy businesses or their assets, or engage in acquisitions, mergers, restructurings, changes of control, or similar transactions. In such transactions, customer information generally is one of the transferred business assets.   Also, in the unlikely event of a bankruptcy, customer information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
+**Opt-Out**  
+If you do not wish to have your personally identifiable information collected, then you should not use the customer website or you should make use of any tools the customer provides, if any, for opting out of the collection of your personally identifiable information. You may contact customers directly, outside of the website, to make alternate arrangements to provide them with applicable information.
 
-**D.** Affiliates **.** We may share user information with our corporate affiliates. Corporate affiliates are those entities that we control, are controlled by us, or are under common control with us and any joint venture in which any of the controlled entities may participate from time to time. Conversely, we may obtain information about you from our corporate affiliates or from your visits to other web sites that we or our corporate affiliates control.
+**Accountability For Onward Transfer**  
+**Third Party**  
+ScribbleLive may use agents to perform services on our behalf. We may share with these agents information input by you solely for the purpose of those agents performing services for ScribbleLive. These parties are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-**E.** Compliance and Safety **.** We may release user information when we believe release is appropriate to:
+i-on interactive, Inc. and Visually, Inc. comply with the Privacy Shield for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-**i.** comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement;
+**Security**  
+ScribbleLive takes appropriate steps to ensure data privacy and security including through various hardware and software methodologies. These include internal reviews of our data collection, transmission, storage, and processing practices, as well as encryption and physical security measures to guard against unauthorized access to systems where we store the information we collect.
 
-**ii.** make disclosures under programs intended to prevent potential crimes or investigate persons;
+**Data Integrity and Purpose**  
+Except as otherwise stated below, we do not sell, trade or rent your personally identifiable information collected on the site to others. When you do provide us with personally identifiable information, we may use it as follows:
 
-**iii.** enforce or apply agreements, including the Terms; or
+  * Our customers have access to all personally identifiable information collected through their websites and they may use and disclose such personally identifiable information in accordance with their privacy policies.
+  * Our service providers, if any, have access to the information we collect in order to help us deliver our service to our customers.
+  * We may disclose the information to third parties when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with the rights or property (either intentionally or unintentionally) of ScribbleLive, our customers or any other user of our customer’s websites.
+  * We may disclose the information in response to the request of a law enforcement agency.
+  * We may disclose the information to third parties when we believe in good faith that the law requires it (such as responding to a subpoena or court order).
+  * We may disclose the information to third parties when we believe in good faith that such action is necessary to enforce any legal terms or conditions that may apply to usage of this website or our customer’s websites.
 
-**iv.** protect the rights, property, or safety of the Site, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction.
 
-**5.** **INFORMATION SECURITY**
 
-**A.** Your Obligations.  You must protect against unauthorized access to your personal information and to your computer.  **YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION.**
+ScribbleLive and our customers may use non-personal “aggregated data” to enhance the operation of our software, our customer’s websites, or analyze interest in the areas, or the efficacy of those websites. ScribbleLive provides its customers with reasonable mechanisms to ensure that personal identifiable information is relevant to its intended use, accurate and complete.
 
-**B.** Our Security Measures.  We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information.  **HOWEVER, WE DO NOT GUARANTEE SECURITY.** Neither people nor security systems are foolproof, including encryption systems.
+Please note, ScribbleLive may disclose personal information in response to lawful requests by public authorities in order to meet any national security or law enforcement requirements.
 
-**6.** **LINKS** **.** The Site may contain links to other sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every web site that collects your personally identifiable information. This Policy applies only to information collected by the Site.
+**Access  **  
+Upon written request to security@ioninteractive.com and with consent from our customer, ScribbleLive will take reasonable steps to permit you to correct, amend, or delete your personal information that is demonstrated to be inaccurate or incomplete. Please note, permission must be obtained by our customer before any changes may be made.
 
-**7.** **CHOICE** **.** If you have sent us your email or other contact information, we reserve the right to send you customary business communications.
+**Enforcement and Liability  **  
+ScribbleLive shall conduct periodic audits as it relates to its obligations and compliance under this Policy. Any isolation of this Policy will be subject to disciplinary action up to and including termination of employment.
 
-**8.** **CONDITIONS OF USE, NOTICES, AND REVISIONS** **.**
+**Dispute Resolution  **  
+Any inquiries and/or complaints relating to your information should be directed to the website owner. In the event your inquire or complaint is related to ScribbleLive’s use of your personal information, you may contact us at :
 
-**A.** Privacy Concerns.  Your use of the Site and any dispute over privacy is subject to the[Terms](http://www.scribblelive.com/legal/). If you have any concern about privacy at Scribble Technologies, please send us a thorough description to [support@scribblelive.com](mailto:support@scribblelive.com), and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 9 below.
+security@ioninteractive.com
 
-**B.** Notice Required by Law.   In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us.
+or
 
-**C.** Identity Theft. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address (see Section 9) and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.
+ScribbleLive Technologies  
+Attention: General Counsel  
+#201- 662 King Street West
 
-**9.** **CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY.** For customer site matters (including questions relating to this Policy), you may email us at[support@scribblelive.com](mailto:support@scribblelive.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 5808 Lake Washington Blvd., Suite 300, Kirkland, WA 98033.
+Toronto, ON  
+M5V 1M7
 
-**10.** **FOR EUROPEAN UNION CITIZENS** **.**
+ScribbleLive will respond accordingly within forty-five (45) days from the date on which notice was received. ScribbleLive shall cooperate with applicable data protection authorities in the event complaints cannot be resolved.
 
-In compliance with the Safe Harbor Principles, Scribble Technoloiges, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens with inquiries or complaints regarding this privacy policy should contact: [support@scribblelive.com](mailto:support@scribblelive.com)
+If you have any unresolved privacy or data use concerns that i-on interactive, Inc. or Visually, Inc. has not addressed satisfactorily, please contact our third party dispute resolution provider at _[ ](https://www.jamsadr.com/about/submit-a-case)[ https://www.jamsadr.com/about/submit-a-case](https://www.jamsadr.com/about/submit-a-case)_  
+Under certain conditions, an individual may seek to invoke binding arbitration from the Privacy Shield Panel.
 
-The company complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>.
+**Disclaimer  **  
+ScribbleLive is a SaaS provider and does not control nor is liable, in any way, for the uses to which our customers may make of personal information you have provided to them.
 
-Scribble Technologies, Inc. has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Scribble Technoloiges, Inc., you may contact:
-
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
-
-Copyright © 2014. Scribble Technologies, Inc.
+**Modifications for the Privacy Policy  **  
+ScribbleLive reserves the rights to modify its privacy policy at any time and will notify you by posting an amendment to the privacy policy on our website. Such modifications will become effective on the day they are posted. ScribbleLive encourages you to frequently review the privacy policy for any modifications.
