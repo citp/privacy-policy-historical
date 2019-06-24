@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washington.edu privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231005318id_/http%3A//www.washington.edu/online/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washington.edu privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184955id_/http%3A//www.washington.edu/online/privacy) for the most accurate reproduction.*
 
 # University of Washington Online Privacy Statement | Website Information
 
@@ -34,7 +34,7 @@ The UW will only use your personal data on a lawful basis to fulfill a legitimat
 
 
 
-The collection and use of personal information for any other purpose than described herein requires supplemental and more specific notification or consent. Please see [Provide Privacy Notice](https://privacy.uw.edu/design/provide-privacy-notice/)  and [Obtain Consent](https://privacy.uw.edu/design/obtain-consent/) webpages for specific examples.
+The collection and use of personal information for any other purpose than described herein requires supplemental and more specific notification or consent. Please see [University Privacy Notices and Consent Forms](https://www.washington.edu/privacy/) website for specific examples.
 
 ### **Disclosure or Sharing of Information**
 
@@ -54,7 +54,7 @@ The UW strives to protect information through measures described in the UW Admin
 
 ### **Children or Minors**
 
-The UW does not knowingly collect personal information from children or minors as defined by the Children’s Online Privacy Protection Act (COPPA) on its general websites. The collection and use of personal information from children or minors for other purposes is subject to supplemental and more specific notification or consent terms. Please see [Provide Privacy Notice](https://privacy.uw.edu/design/provide-privacy-notice/)  and [Obtain Consent](https://privacy.uw.edu/design/obtain-consent/) webpages for specific examples.
+The UW does not knowingly collect personal information from children or minors as defined by the Children’s Online Privacy Protection Act (COPPA) on its general websites. The collection and use of personal information from children or minors for other purposes is subject to supplemental and more specific notification or consent terms. Please see [University Privacy Notices and Consent Forms](https://www.washington.edu/privacy/) website for specific examples.
 
 ### **Retention**
 
@@ -80,5 +80,7 @@ UW Privacy Office
 ### **Changes to this Online Privacy Statement**
 
 The UW may periodically update this Online Privacy Statement. The revised statement will be posted at uw.edu/online/privacy.
+
+Updated March 25, 2019 to include links to [University Privacy Notices and Consent Forms](https://www.washington.edu/privacy/)
 
 Updated May 24, 2018
