@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcita.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142700id_/https%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcita.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624185548id_/https%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | vCita
 
@@ -148,6 +148,8 @@ If you wish to exercise your rights under the GDPR or have any questions in this
 
 To the extent required and upon a written request from vCita’s data controller, vCita will assist the vCita’s data controller to fulfill your rights under the GDPR.
 
+You are welcome to contact our representative in the European Union at: [datenschutz@rickert.net](mailto:datenschutz@rickert.net).
+
 ### How does vCita use Cookies?
 
 vCita uses cookies when operating the Services or the Web-App. Cookies are packets of information sent by vCita’s servers to your web browser and then sent back by the browser.
@@ -174,4 +176,4 @@ After receiving your complaint, vCita can contact you to better understand your 
 
 vCita can change and update the terms of this privacy policy from time to time. Changes will take effect seven (7) days after their initial posting on the Website or the Web-App, unless vCita amends this privacy policy to comply with legal requirements. In the latter cases the amendments will become effective as required or ordered.
 
-Last Updated: October 18, 2018
+Last Updated: March 3, 2019
