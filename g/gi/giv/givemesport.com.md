@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givemesport.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226030551id_/https%3A//www.givemesport.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemesport.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624053747id_/https%3A//www.givemesport.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | GiveMeSport
 
