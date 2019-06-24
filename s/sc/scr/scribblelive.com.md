@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribblelive.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220172502id_/https%3A//www.scribblelive.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribblelive.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624115329id_/https%3A//www.scribblelive.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ScribbleLive
 
@@ -10,8 +10,7 @@ This Privacy Policy (the “Policy”) becomes effective on May 18, 2018 for a
 This online privacy policy (the “Policy”) applies to all information gathered by Scribble Technologies Inc. and its affiliates and subsidiaries, including i-on interactive Inc., Visually Inc., and Engage ( collectively “ScribbleLive”). The purpose of this Policy is to provide you with information about ScribbleLive’s collection, use, maintenance and disclosure of your information gathered by ScribbleLive.
 
 **EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks**  
-ScribbleLive affiliates, i-on interactive, Inc. and Visually, Inc. comply with the U.S.-EU Privacy Shield and Swiss-U.S. Privacy Shield Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. i-on interactive, Inc and Visually, Inc. have certified that they adhere to both Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield program, and to view i-on interactive, Inc and Visually, Inc. certification, please visit  
-_[http://www.privacyshield.gov](http://www.privacyshield.gov/)_  . With respect to personal data received or transferred pursuant to the Privacy Shield, i-on interactive, Inc. and Visually, Inc. are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission (FTC).
+Scribble Technologies, Inc. and its affiliates, i-on interactive, Inc. and Visually, Inc. comply with the U.S.-EU Privacy Shield and Swiss-U.S. Privacy Shield Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Scribble has certified that they adhere to both Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield program, and to view the certification, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/) . Personal data received or transferred pursuant to the Privacy Shield are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 **Privacy Principles  **  
 **Notice**
