@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the phonearena.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231113126id_/https%3A//www.phonearena.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonearena.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624094847id_/https%3A//www.phonearena.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy (Phone Arena)
+# Privacy Policy - PhoneArena
 
 PhoneArena's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using PhoneArena.
 
 By using or accessing PhoneArena, you agree to be bound by the terms of this Privacy Policy.If you do not agree to these terms, please do not use PhoneArena.
 
-  
-
-
-### Information We Collect and How We Use It
+## Information We Collect and How We Use It
 
 We use commercially reasonable efforts to ensure that the collection of personal information is limited to that which is necessary to fulfill the purposes identified below. If we use your information in a manner different than the purpose for which it is collected, then we will ask you for your consent prior to such use.
 
@@ -27,19 +24,13 @@ We use commercially reasonable efforts to ensure that the collection of personal
 
 **_Enforcement_** \- We may use the information we collect in connection with your use of PhoneArena (including your personal information) in order to investigate, enforce, and apply our Terms of Service and Privacy Policy.
 
-  
-
-
-### Information Made Available to the Public
+## Information Made Available to the Public
 
 When you create a User account, some information about your User account and your account activity will be visible to other PhoneArena Users. This may include your User profile information, as well as your name, email and photo, and other personal information you voluntarily choose to disclose. You may limit the extent to which this information is accessed by adjusting your privacy settings.
 
 Your name and profile picture thumbnail will be available in search results on the Website and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless you have allowed such access based on your privacy settings.
 
-  
-
-
-### Transfer of Information
+## Transfer of Information
 
 We may distribute your User-Generated Content to third parties, as permitted pursuant to our Terms of Service. The third parties may in turn publicly display or publish your submissions in connection with their own websites and media platforms. When we distribute your submissions to third parties, we typically include your account name (but not your personal information unless you include your personal information in your submissions).
 
@@ -53,26 +44,17 @@ We may disclose information in the aggregate to third parties relating to User b
 
 We use third party advertising companies to serve ads when you visit PhoneArena. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-  
-
-
-### Links
+## Links
 
 We are a participant in the Amazon Services LLC Associate Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to the Amazon.com and affiliated sites. PhoneArena may include links to other websites as part of content created by PhoneArena (“PhoneArena Content”) or User-Generated Content. PhoneArena does not control or endorse any content of these third party websites, and, by using PhoneArena you agree that PhoneArena is not responsible for the availability or content of such third party websites.
 
-  
-
-
-### Third Party Advertising
+## Third Party Advertising
 
 Advertisements that appear on PhoneArena are sometimes delivered (or "served") directly to Users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" or other cross-device tracking technologies, to collect information about you when you use the website on different devices and platforms and to measure the effectiveness of their ads and to personalize advertising content. They may collect information about your online activities over time and across different websites and other online services. Doing this allows the advertising network to recognize your computer or other devices each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. PhoneArena does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on PhoneArena unless you choose to share it with them.
 
 **_This Privacy Policy covers the use of cookies by PhoneArena and does not cover the use of cookies or other tracking technologies by any of its advertisers._**
 
-  
-
-
-### Controlling Your Personal Data
+## Controlling Your Personal Data
 
 Although we allow you to set privacy options that limit access to the information on your User profile, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your User profile and information. Therefore, we cannot and do not guarantee that the User-Generated content you post on the Website will not be viewed by unauthorized persons. We are not responsible for the circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User-Generated Content may remain viewable in cached and archived pages or if other Users have copied or stored your User-Generated Content.
 
@@ -80,38 +62,26 @@ Please also note that the personal messages you send or receive using PhoneArena
 
 As a registered PhoneArena User, you can edit your personal information and your privacy preferences at any time by accessing the "Profile" section of this Website. You can also terminate your User account at any time. Upon request for termination of your account, PhoneArena will use commercially reasonable efforts to close your account, and cease displaying your User-Generated Content on the Website, except for postings that have been shared with others on the Website such as but not limited to discussion comments or products that have become part PhoneArena’s database; nevertheless, we may still retain your personal information in our systems.
 
-  
-
-
-### Security
+## Security
 
 Your account is password protected. We use industry standard measures to protect the personal information that is stored in our database. We limit the access to your personal information to those employees and contractors who need access to perform their job function, such as our customer service personnel. If you have any questions about the security on PhoneArena, please contact us at **[phonearena@phonearena.com](mailto:phonearena@phonearena.com)**.Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
 **_You hereby acknowledge that PhoneArena is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner._**
 
-  
-
-
-### E-mails and Opt-out
+## E-mails and Opt-out
 
 You may opt-out of receiving personal messages from specific Users by changing the notification settings under the “Account” tab after you log on to PhoneArena Unregistered Users who receive e-mails from us may also opt-out of receiving further e-mails by following the instructions contained in our e-mails.
 
 If you do not want to receive advertisements based on usage data collected by PhoneArena, you can opt out of data collection by managing many companies' online advertising cookies. To do that, you can use consumer choices created in some countries' self-regulatory programs, such as the EU Online Choices program (<http://www.youronlinechoices.eu/>) or the US-based DAA and NAI opt-out programs (<http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>).
 
-Managing the cookies is also possible in your web browser. You can either delete cookies from your cookie folder once you have finished your visit at our website or you can set your preferences with regard to the use of cookies before you begin browsing our website. Further information can be found at: [Google](https://www.google.com/intl/en/chrome/browser/privacy/) / Firefox / [Windows](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies) / Safari.
+Managing the cookies is also possible in your web browser. You can either delete cookies from your cookie folder once you have finished your visit at our website or you can set your preferences with regard to the use of cookies before you begin browsing our website. Further information can be found at: [Google](https://www.google.com/intl/en/chrome/browser/privacy/) / [Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox) / [Windows](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies) / [Safari](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471).
 
 Please note, that deleting or rejecting cookies may adversely affect your user experience of our website. Also note that opting out does not mean you will stop seeing advertisements, but that the advertisements you do see will not be influenced by the usage data collected by PhoneArena. You may still see ads based on factors such as your overall location, your IP address, your browser type, and your search terms.
 
-  
-
-
-### Terms of Service, Notices and Revisions
+## Terms of Service, Notices and Revisions
 
 Your use of PhoneArena, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Service and all of its dispute resolution provisions including limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Service at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. Your continued use of PhoneArena indicates your agreement to these changes. It is solely your responsible to check for updates of this policy. We encourage you to refer to this policy on an ongoing basis so that you understand our current Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
-  
-
-
-### Contacting the Website
+## Contacting the Website
 
 If you have any questions about this Privacy Policy, the privacy practices of this Website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact us at **[phonearena@phonearena.com](mailto:phonearena@phonearena.com)**
