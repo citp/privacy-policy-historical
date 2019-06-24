@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeindia.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226041420id_/https%3A//www.tradeindia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeindia.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624180831id_/https%3A//www.tradeindia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Infocom Network Limited Privacy Policy
 
