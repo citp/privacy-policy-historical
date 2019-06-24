@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildlifeinsider.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114074312id_/http%3A//wildlifeinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildlifeinsider.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624060738id_/http%3A//wildlifeinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wildlife Insider
 
