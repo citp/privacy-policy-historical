@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freepik.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231105256id_/https%3A//www.freepik.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepik.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624151636id_/https%3A//www.freepik.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Free Vectors, Photos and PSD Downloads | Freepik
 
-### July 2018
+###### July 2018
 
 FREEPIK COMPANY, S. L. is the owner and, therefore, responsible for the projects indicated below, including any of their subdomains or sections (hereinafter, “Website” as corresponds):
 
@@ -21,7 +21,7 @@ By using and accessing our Website, the User acknowledges that they have read th
 
 Some of the Services offered on the Website may be subject to specific privacy policies that will supplement this general Privacy Policy or, in case they differ from the terms of this Privacy Policy, they will substitute the present Privacy Policy. These additional privacy policies must be accepted by the User before initiating the corresponding Service. Additionally, the access and use of the Website and the accompanying Services are governed by the [Terms of Use](https://web.archive.org/terms_of_use "Terms of Use") of the Website.
 
-## PERSONAL DATA PROCESSING
+###### PERSONAL DATA PROCESSING
 
 The following sections address the collection and processing of Users’ personal information through any of the projects run by Freepik Company, including any of their subdomains and sections.
 
@@ -29,7 +29,7 @@ The following sections address the collection and processing of Users’ persona
 
 FREEPIK COMPANY, S.L, as data controller, is responsible for the processing of Users’ personal information on the Website: FREEPIK COMPANY, S.L.
 
-C/ Molina Lario, 13, 5º,  
+C/ Molina Larios, 13, 5º,  
 29015, Málaga (Spain)  
 Tax ID No. B93183366  
 Email: [info@freepik.com](mailto:info@freepik.com) or [support@freepik.com](mailto:support@freepik.com).
@@ -67,7 +67,7 @@ Freepik Company does not collect the age nor the date of birth of their Users. C
 
 Freepik Company collects data through different interactions, which include:
 
-## 1\. Browsing and using the Website:
+###### 1\. Browsing and using the Website:
 
 Generally, Users navigate our Website anonymously without revealing any personal data to Freepik Company.
 
@@ -75,7 +75,7 @@ When a User visits and uses our Website, it stores and collects information auto
 
 Moreover, we also store information about the number of downloads and searches run by the User. This information is collected in order to control the number of downloads by the User in compliance with the [Terms of Use](https://web.archive.org/terms_of_use "Terms of Use") of this Website and to detect fraudulent and illegitimate usages of the Website, if any. In addition, we use personal information to perform analyses that help us to improve the quality of our Website, offer new products and ensure our Users’ satisfaction.
 
-## 2\. User registration, subscription to Premium services or subscription to newsletters:
+###### 2\. User registration, subscription to Premium services or subscription to newsletters:
 
 **User Registration:**
 
@@ -85,13 +85,13 @@ When a User purchases any of the Premium services, they will be asked to provide
 
 Payment and billing data, which depend on the payment method selected by the User, will be sent directly to the corresponding external payment service provider which is in charge of processing the payment.
 
-## 3\. Requests for information about products, services or publications, and requests for Website’s support services:
+###### 3\. Requests for information about products, services or publications, and requests for Website’s support services:
 
 **“Contact” and “Support” Forms:**
 
 Any information received by Freepik Company will be stored in a file of Freepik Company and will be used merely to respond to inquiries, suggestions or complaints sent by the Website’s Users. This information include data collected from Contact forms, from the section ‘Can we help you?’, from satisfaction surveys as well as other information received via these two email addresses: [info@freepik.com](mailto:info@freepik.com) or [support@freepik.com](mailto:support@freepik.com).
 
-## 4.Information provided through job and collaboration offers:
+###### 4.Information provided through job and collaboration offers:
 
 **“Jobs” and “Join Us” Forms:**
 
@@ -105,7 +105,7 @@ Any information provided to Freepik Company requesting for collaboration with an
 
 Furthermore, if the individual enters our internal recruitment process further to their application being accepted, we will request and collect all the necessary information as it is established by the Spanish labor and tax legislation.
 
-## 5.Information provided when using Google Extensions – Google Docs
+###### 5.Information provided when using Google Extensions – Google Docs
 
 The User can navigate and access to some Google apps through our Website anonymously, as it is the case of Google Docs. In this case, The User will only need to sign in with their Google account and accept Google privacy policy, that you can find [here](https://policies.google.com/privacy).
 
@@ -231,7 +231,7 @@ Freepik Company, in compliance with User privacy and data protection of Users, w
 
 Freepik guarantees the exercise of rights established in the General Data Protection Regulation 2016/679 (hereinafter, GDPR), that will start to be applicable on 25th of May, 2018.
 
-The User can exercise the rights described below in the following ways: logging in the User account by clicking on this [link](https://profile.freepik.com/login), through the [support form](https://profile.freepik.com/support) available on the Website or by emailing us at [rpd@freepik.com](mailto:rpd@freepik.com).
+The User can exercise the rights described below in the following ways: logging in the User account by clicking on this [link](https://www.freepik.com/profile/login), through the [support form](https://support.freepik.com/hc/en-us) available on the Website or by emailing us at [rpd@freepik.com](mailto:rpd@freepik.com).
 
 Please note that Freepik Company may require the User to verify their identity before taking action on the request for the exercise of rights.
 
@@ -239,14 +239,14 @@ The User has the following rights:
 
   1. **Right to Access:** The User has the right to obtain from Freepik Company confirmation about whether or not personal data concerning them are being processed and, if that is the case, receive information about it.
   2. **Right to Rectification:** The User has the right to request us to correct personal data where it is inaccurate or incorrect. When requesting for rectification, the User must indicate the data to be rectified and provide the correct information. In addition, where necessary, the request must be sent together with supplementary documentation that accounts for the incomplete or inaccurate data.
-  3. **Right to Erasure:** The User has the right to request the erasure of personal data concerning their personal account. Therefore, individuals can close their User Account at any moment in an easy and straightforward way by clicking on the following [link](https://profile.freepik.com/me) (Edit Profile -> Close Account).  
+  3. **Right to Erasure:** The User has the right to request the erasure of personal data concerning their personal account. Therefore, individuals can close their User Account at any moment in an easy and straightforward way by clicking on the following [link](https://www.freepik.com/profile/me) (Edit Profile -> Close Account).  
 When requesting for terminating the account and, therefore, erasing all personal information, the User must note the following: 
     * Freepik Company may keep and use personal information where it is necessary in compliance with the legal obligations enforced by fiscal obligations and connected to judicial information and auditing.
     * If the User sends an erasure request, the personal data will be erased from the safety back-up systems at Freepik when the next back-up is done.
   4. **Right to Object:** The User has the right to object to the processing of their personal data by Freepik Company at any time. In some cases, we may continue processing personal information because of legitimate grounds or for the exercise or defense of possible legal claims.  
 Please note that when the User requests for terminating with data processing for marketing purposes, the request can be submitted in the following ways: 
     * By clicking on the “unsubscribe” link that the User can find in our emails.
-    * By accessing the User Account, clicking on this [link](https://profile.freepik.com/me). (Go to Edit Profile, and deactivate “Notifications”, then click on “Save changes”).
+    * By accessing the User Account, clicking on this [link](https://www.freepik.com/profile/me). (Go to Edit Profile, and deactivate “Notifications”, then click on “Save changes”).
   5. **Right to Restrict Processing:** The User has the right to request the restriction of personal data where they have particular reason for wanting the restrictions.  
 This right entitles the User to request the restriction of personal data in the following circumstances: 
     * The accuracy of the personal data is contested by the User, while Freepik Company verifies the accuracy of the personal data.
@@ -257,7 +257,7 @@ Furthermore, the User has the right to request us to retain their personal data 
     * The processing is unlawful and the User opposes the erasure of the personal data and requests the restriction of their use instead
     * Freepik Company no longer needs the personal data for the purposes of the processing, but they are required by the User for the establishment, exercise or defense of legal claims.
   6. **Right to Data Portability:** The User has the right to request us a copy of the personal information provided to Freepik Company in a structured form and of common and legible use. The user is also entitled to request that this information be sent to another service provider (where technically possible).
-  7. **Right to Withdraw Consent:** In the cases in which the User has authorized their data processing, the User has the right to withdraw their consent at any time. The withdrawal of consent can be made effective by changing the settings in their [User Account](https://profile.freepik.com/profile/me), through the [support form](https://support.freepik.com/hc/en-us/categories/200466151-General-questions) available on the Website or by emailing us to [rpd@freepik.com](mailto:rpd@freepik.com), indicating specifically the consent they wish to revoke. Please note that revocation of consent does not affect the lawfulness of processing based on consent before its withdrawal. 
+  7. **Right to Withdraw Consent:** In the cases in which the User has authorized their data processing, the User has the right to withdraw their consent at any time. The withdrawal of consent can be made effective by changing the settings in their [User Account](https://www.freepik.com/profile/me), through the [support form](https://support.freepik.com/hc/en-us) available on the Website or by emailing us to [rpd@freepik.com](mailto:rpd@freepik.com), indicating specifically the consent they wish to revoke. Please note that revocation of consent does not affect the lawfulness of processing based on consent before its withdrawal. 
 
 
 
