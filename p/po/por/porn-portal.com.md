@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porn-portal.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227154421id_/https%3A//www.porn-portal.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn-portal.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624200724id_/https%3A//www.porn-portal.com/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Porn Portal
 
@@ -116,7 +116,7 @@ Note that all data is kept in a secure environment. We protect personal data by 
 
 
 
-If you know or have reason to believe that your account credentials have been lost, stolen, misappropriated, or otherwise compromised or in case of any actual or suspected unauthorized use of your account, [please contact us following the instructions in the Contact Us section below](http://info.xvideos.com/contact/).
+If you know or have reason to believe that your account credentials have been lost, stolen, misappropriated, or otherwise compromised or in case of any actual or suspected unauthorized use of your account, please contact us following the instructions in the Contact Us section below.
 
  **V. YOUR RIGHTS**
 
@@ -184,3 +184,5 @@ We reserve the right to modify this Privacy Policy at any time in accordance wit
  **VIII. CONTACT US**
 
 You may contact us at: <http://www.porn-portal.com/contact>
+
+Our support will be provided in English language only. We will not be able to reply to any contact emails in any other language.
