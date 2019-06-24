@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitstrips.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229224539id_/https%3A//www.snap.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitstrips.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624084114id_/https%3A//www.snap.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Center – Snap Inc.
 
