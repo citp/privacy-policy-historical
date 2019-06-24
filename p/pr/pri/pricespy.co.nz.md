@@ -1,38 +1,14 @@
-> *The following text is extracted and transformed from the pricespy.co.nz privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023434id_/https%3A//pricespy.co.nz/info/privacy-policy--i6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricespy.co.nz privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624194824id_/https%3A//pricespy.co.nz/info/privacy-policy--i6) for the most accurate reproduction.*
 
 # Privacy policy - PriceSpy NZ
 
 In order to give you the world’s best price and product comparison site we need to handle personal data. In our privacy policy we explain what information we collect from our users, how we handle it, and what we do to protect the integrity of our users.
 
-> ## Our privacy policy in brief
-> 
-> We handle the following personal data:
-> 
->   * Information that you provide us with via, for example, forms
->   * Technical information about your device
->   * How you navigate
->   * Your position (based on either an IP address or a GPS signal)
->   * Relevant cookies
->   * Information from our partners, customers, advertisers and suppliers
-> 
-
-> 
-> We need personal data to:
-> 
->   * Run our services
->   * Manage support issues and fix errors
->   * Provide personalised ads, offers, and recommendations
->   * Send information to you
->   * Further develop our, and other, Schibsted services
->   * Prevent, limit, and investigate abuse
-> 
-
-> 
-> We never sell your personal data. We share them with other Schibsted companies, and sometimes with other partners. We always sign agreements to ensure that your personal data stays safe.
-
 ## Introduction
 
-This privacy policy applies to the handling of personal data that takes place within the framework of PriceSpy, that is, when you use the service PriceSpy at pricespy.co.nz and in related digital applications ( **"the Services"** ). The service is provided by PriceSpy Media Ltd, with organisation number 2194580 ( **"PriceSpy"** , **"we"** or **"us"** ).
+This privacy policy applies to the handling of personal data that takes place within the framework of PriceSpy, that is, when you use the service PriceSpy at pricespy.co.nz and in related digital applications ( **"the Services"** ). The service is provided by PriceSpy Media Ltd, with organisation number 2194580 ( **"PriceSpy"** , **"we"** or **"us"** ). PriceSpy is part of the Schibsted Media Group.
+
+PriceSpy is the controller of personal data as described in this policy, unless otherwise stated.
 
 ## Key concepts
 
@@ -42,81 +18,130 @@ This privacy policy applies to the handling of personal data that takes place wi
 
 **Controller of personal data** means the party which, alone or together with another party, decides on the purposes and means for the processing of the personal data and who is ultimately responsible for ensuring that the processing takes place in accordance with applicable personal data legislation.
 
-## What information we collect
+## Legal grounds for our processing of personal data
 
-To give you an overview of how the processing of data is carried out, we have divided the personal data into two categories based on how it is collected.
+In order for our processing of personal data to be legal, we must have a legal ground. A legal ground in this case means that we must be able to present a justification prescribed by law to why we process personal data for a particular purpose. Examples of legal grounds used by us are consent, legitimate interest, agreement, and legal obligation. 
 
-### a) Data that you give us yourself
+## Personal data that we collect
 
-When you use and carry out activities within the framework of the Services, you actively provide information about yourself. This information includes for example name, address, phone number, and email address. Personal data in this category are such that you give to us by completing a web form, sending notices to support, or providing us with feedback through functions created for such purpose.
+To give you an overview of how the processing of data is carried out, we have divided the personal data into three categories based on how it is collected.
 
-### b) Data collected when you use the Services
+### a) Personal data that you yourself give us
 
-When you use the Services, we collect information about your use. This information includes which Services you use, the websites you visit, and how you behave on websites related to the Services. The information can be divided into the following categories:
+When you use the Services you might provide us with personal information, for example by filling out web forms, creating a user account, sending messages to our support, or by giving us feedback via our contact forms. Personal data in this category could be name, address, phone number, email address, and other information depending on what you choose to submit to us.
+
+### b) Personal data that we collect when you use the Services
+
+When you use the Services, we collect information about your usage, such as which parts of the Services you use, which products you are looking at, and how you interact with the websites that provide the Services. This information can be divided into the following categories:
 
 #### i. Technical information about your device and internet connection
 
-We use server logs and other tools to register information about your device, connection to our services, and cross-device usage. This information may include operating system, web browser version, IP addresses, cookies, and various unique identifiers.
+Through server logs and other tools, we record information about your device, your connection to the Services, and your use of the Services on different devices. This information may include operating system, web browser version, IP addresses, cookies, and various unique identifiers. We use this information in order to, among other things, provide the Services by remembering your settings, and to troubleshoot our systems.
 
-#### ii. Information about the use of the Services; user behaviour
+#### ii. Information about the use of the Services
 
-We register purchases of goods and services within the framework of the Services. We store information about your visits to websites where the Services are provided, and your behaviour when you use the Services. This behaviour may include how you scroll and navigate a website.
+We collect information about how you interact with the Services, including what you show interest in, what your visit to the Services looks like, and which ads you click on. We also collect information about your visits to the websites where the Services are provided, and how you interact when using these websites.
 
 #### iii. Location information
 
-When you use the Services, we calculate an approximate geographic location based on the IP address you use. If you have accepted location services on your device, we will regularly collect more detailed information about your geographic location. Location information is used to enable us to provide you with content and advertisements that is relevant to you based on your geographic location. The information may also be used to develop new products and services to provide you with customised content, such as articles and advertising relevant to you. If you no longer want us to be able to collect detailed information about your geographic location, you can at any time disable location services on your phone or device. In such cases, we will only calculate an approximate geographic location based on your IP address.
+When you use the Services, we calculate an approximate geographical location based on the IP address you use. If you have accepted location services on your device, we will regularly collect more detailed information about your geographical location. If you don't want us to collect detailed information about your geographical location, you can turn off location services in your device. We will then only collect information about your approximate geographical location based on your IP address.
 
 #### iv. Cookies and other technologies that store data locally on your device
 
 When you visit websites where the Services are provided, we – either directly or through third parties – use various technologies to recognise and learn about you as a user. For more information about this type of technology, see below under "Use of cookies and other technology".
 
-### c) Data from other sources
+### c) Personal data from other sources
 
-PriceSpy may also receive information from other sources, most typically from our partners, customers, advertisers and suppliers. For example, an advertiser can provide us with information about what happened after you clicked on a product displayed on our websites, while suppliers of profiling information can provide us with probability-based information about your demographic profile (such as your level of education or the size of your household). This information enables us to provide your with more relevant advertisements and content in the future.
+We may from time to time receive personal data from other sources, that is, personal data that is not collected directly by us from you as a user. Such sources may be other companies within the Schibsted Media Group, advertisers, advertising networks, authorities, or our partners. For example, one of our partners could provide us with information on how you acted after you clicked on a product in the Services. Another example is when our partners provide profiling information consisting of probability-based information about your interests, which helps us optimise our and Schibsted's marketing and campaigns.
 
-We process and share your personal data with other companies, primarily companies within the Schibsted Media Group, for the purposes of (i) performing our contractual obligations and the obligations set forth by applicable law and regulatory authorities; (ii) providing the Services to you and improving your user experience; (iii) answering customer service matters and correcting mistakes; (iv) providing you with advertisements, offers, and recommendations that are personalised and adapted based on data we have about you; (v) sending you information and direct marketing messages via email or by other means; (vi) analysing market trends and future demands; (vii) further developing the Services and other services provided by companies belonging to Schibsted Media Group (among other things, by adapting such services to what we believe to be the users’ wishes); and (viii) preventing, limiting, and investigating abuse of the Services.
+## Why we process personal data
 
-More detailed information about purposes (ii) to (viii) follow.
+In order for you as a user to understand why we process personal data, we have chosen to categorise our processing based on its purpose. We process personal data for a number of reasons, namely:
 
-### (ii) To provide the Services to you and improve your user experience
+i) to fulfill our contractual obligations,  
+ii) to comply with legal requirements,  
+iii) to provide the Services, including customer support,  
+iv) to analyse the traffic on and to the Services,  
+v) to be able to offer relevant ads outside the Services,  
+vi) to send newsletters and similar communications to our users,  
+vii) to be able to personalise our Services, including our and Schibsted's advertising, and  
+viii) to be able to troubleshoot the Services and investigate misuse.
 
-We use personal data to provide you with more user-friendly services. This relates primarily to your experience with movement and usage of functions within the Services. Personal data is also processed with the aim of being able to adapt the viewing of the Services to the device you use, and hence provide you with an enhanced user experience.
+More detailed information about purposes (iii) to (viii) follow.
 
-### (iv) To personalise advertisements, offers, and recommendations
+### iii) To provide the Services, including customer support
 
-We want to provide you with recommendations, customised services, and relevant advertising based on your interests and use of the Services. This may include recommendations regarding other products and services based on what you have read or bought, and based on the interests of other users with similar behaviour patterns. This information also enables us to provide digital advertising campaigns customised to each individual user so that you can receive relevant advertising based on your behaviour pattern, age, and other data we have about you.
+We process personal data in order to be able to deliver a functional and user-friendly service, among other things by adapting the Services to your technical user situation and the choices you make on the Services. Processing of personal data for this purpose also include the processing we do in order for us to handle support issues and to respond to the feedback from our users.
 
-### (v) Send you information and direct marketing messages
+The processing of personal data for this purpose is based on our legitimate interest in providing basic functionality and service related to the Services.
 
-If you have an active user relation with us, we may send you information and promotion via email, phone or other digital contact ways (such as social media), unless you have instructed us not to do so. You can unsubscribe from direct marketing by contacting us.
+### iv) To analyse the traffic on and to the Services
 
-### (vi)-(vii) To analyse market trends and further develop the Services
+We want to be able to create the best possible conditions for improving the Services. Therefore, we collect information about the traffic on the Services and on the websites and apps that provide the Services. Such information helps us understand our users, understand market trends, identify improvement potential in the Services, and much more. Ultimately, this leads to a better PriceSpy experience.
 
-We use personal data to do user modeling, analysis and understand market trends, and thereby improve and develop our websites, product offerings, and services.
+The processing of personal data for this purpose is based on our legitimate interest in analysing and improving the Services. You can nevertheless choose to turn off the analysis function and our processing of personal data for this purpose in our [privacy settings](https://pricespy.co.nz/privacy-settings).
 
-### (viii) To prevent, limit, and investigate abuse
+### v) To be able to offer relevant ads outside the Services,
 
-We need personal data about user activities and technical data to prevent, limit, and investigate various types of abuse of the Services. By ‘abuse’ we mean, among other things, the presentation of false profiles, spamming, harassment, behaviour that violates our "Rules and guidelines for users" or other terms and policies for the Services, as well as other behaviour which is prohibited by law. If we detect abuse of the Services, and to prevent further abuse, we may provide information about your device or IP address using an identification service to prevent further abuse from that device.
+We want to reach our users with relevant ads and other types of marketing even when you are on other websites and in other apps. In order to know what's relevant to you, we need to process personal data. This includes information about what you have shown interest in when you have used the Services, your geographical location, and your demographic profile. By sharing such information with marketing networks and marketing platforms such as Facebook, Google, and Appnexus, we can create a probability-based customisation of our ads and measure their impact by marketing analysis.
+
+Facebook and Google are personal data controllers for their respective processings for this purpose. Regarding Appnexus, their personal data liability varies depending on how and by whom the personal data is collected. Contact us if you want to know more about their respective responsibilities and how you as a user can control their processing of personal data.
+
+The processing of personal data to offer relevant advertisements outside the Service is based on our legitimate interest. We share personal data with Facebook and Google for this purpose. Please contact us to learn more about how we share personal data with Facebook and Google. You can at any time disable sharing of personal data with Facebook and Google in our [privacy settings](https://pricespy.co.nz/privacy-settings).
+
+### vi) To send newsletters, price alerts, and similar communications to our users
+
+If you have an active user account with us, or if you subscribe to our digital mailings, we may send you emails with offers and marketing. These types of offers or marketing can also be sent via other digital contact paths, such as social media. You can choose to be exempt from these mailings at any time by contacting us.
+
+The processing of personal data for this purpose is based on our legitimate interest if you have an active user account with us, or it is based on consent if you have actively chosen to subscribe to our newsletters and offers. You can withdraw your consent at any time by contacting us.
+
+### vii) To personalise our Services, including our and Schibsted's advertising
+
+We want to create a personalised user experience of the Services, by amongst other things adapting the content of the Services according to the user's individual preferences. This also includes customising ads and marketing on the Services and other websites or apps run by companies within the Schibsted Media Group.
+
+The personal data processed for this purpose are user behaviours, IP addresses, purchase history, and approximate geographical position. With that information, the likelihood that you get relevant advertising increases when you are using the Services or other websites and apps provided by companies within the Schibsted Media Group.
+
+Schibsted is the personal data controller for the processing of personal data in order to create relevant advertising on the websites provided by companies within Schibsted Media Group. You can read more about Schibsted's processing of personal data in their [privacy policy](https://info.privacy.schibsted.com/).
+
+The legal grounds for processing personal data for this purpose consists of our legitimate interest in improving the experience of our services and Schibsted's advertising. You have the option to turn off this function in our [privacy settings](https://pricespy.co.nz/privacy-settings).
+
+### viii) To be able to troubleshoot the Services and investigate misuse
+
+We process personal data relating to our users' activity on the Services in order to be able to troubleshoot our systems, which is a fundamental part of our security work on the Services. We also process personal data in order to investigate misuse of the Services and the websites and apps where the Services are provided. Abuse refers to, among other things, creating fake profiles, harassment, acting in violation to our terms, or acting in violation of applicable law.
+
+If we discover or suspect misuse of the Services, we may share personal data with others in order to investigate and combat such misuse.
+
+Processing of personal data for this purpose is based on our legitimate interest in offering a secure service.
 
 ## Exchange of data
 
 Your personal data will be disclosed to other companies within the Schibsted Media Group, companies wholly or partly owned, directly or indirectly, by Schibsted ASA insofar as it is relevant to achieving the purposes stated in this privacy policy. Such companies may also independently process your personal information in order to personalise and enhance your user experience and improve their products and services.
 
-In some cases we share data with our partners in order to let them personalise offerings and advertisements. We enter into agreements to ensure that our partners process data in accordance with applicable privacy and data protection legislation.
+In some cases we share personal data with our partners in order to let them personalise offerings and advertisements. We enter into agreements to ensure that our partners process personal data in accordance with applicable privacy and data protection legislation.
 
 Personal data may be transferred to third parties in case the business or part of the business and personal data processed in connection with such portion are sold, moved or transferred. We may also disclose your information if we are required to do so as a result of legal obligation, court order, government regulation or if such disclosure is necessary to assist a criminal investigation or other legal investigation here or abroad. If there is any suspicion that you have committed a crime in connection with the use of the Services, information may, upon request, be disclosed to the authorities.
 
 We will not share, sell, transfer or otherwise disclose personal data other than as set out in this privacy policy.
 
-## Retention and deletion of information
+## Storage time for personal data
 
-We keep your personal data for as long as needed to fulfill the processing purposes described in this privacy policy. When your personal data is no longer relevant for the purposes for which it has been collected, we will delete or anonymise it. We delete member accounts that have been inactive for 18 months.
+We only process personal data for a period of time necessary to fulfill the purposes set forth in this privacy policy. This means that our processing of personal data is limited to what is necessary to fulfill the purpose for which the personal data was collected. For example, we delete user accounts that have been inactive for 18 months.
 
-## Rectify, block, or delete your information
+When the personal data is no longer necessary for the purpose for which they were originally collected, we anonymise or delete them.
 
-You may request a register extract containing information regarding the personal data we are processing about you. You are entitled also to receive this information free of charge in accordance with applicable law requirements.
+## Your rights
 
-You may further, at any time, request that we rectify, block, or delete personal data in accordance with applicable law requirements.
+As a user, you have a number of rights regarding our processing of your personal data. All rights are not absolute, but some of them may be limited. The rights you have regarding our processing of your personal data are the following:
+
+i) Right to information  
+ii) Right to register extracts  
+iii) Right to correction  
+iv) Right to deletion of you personal data ("the right to be forgotten")  
+v) Right to limitation of processing  
+vi) Right to data portability  
+vii) Right of objection to processing 
+
+Upon a request to have your personal data deleted from us, we will anonymise your posts, reviews, and your user account. This means that your reviews or posts published on the Services will remain if they don't contain personal data, though with an anonymous user ID as the sender. The main reason why we don't delete reviews or posts is that these are an important part of PriceSpy. Without them, PriceSpy would lose an important part of its purpose. If you want to delete your reviews or posts in the Services, you have to do this before requesting a deletion of you personal data from us.
 
 ## Security
 
@@ -135,12 +160,6 @@ e) the operating system you are using;
 f) your username and password and, where applicable, whether you are a registered user of the social medium, your first name and surname; and  
 g) the information for which you have used this specific plug-in.
 
-With respect to such information, we refer to the terms and conditions for the relevant social medium. We encourage you to keep yourself informed about the purpose and scope of the collection of information which takes place through social plug-ins. You can block social plug-ins in your browser settings. Note that we do not have influence over the information that the social medium collects through the use of plug-ins.
-
-## Personal data controller
-
-The Services are provided by PriceSpy Media Ltd and PriceSpy Media Ltd is also responsible for personal data.
-
-All companies within the Schibsted Media Group that process data in connection with your use of the Services are controllers for their own processing of your personal data and are obliged to ensure that the processing is accordance with this privacy policy and applicable law requirements.
+PriceSpy is not the personal data controller for the processing of personal data that happens after you share information via social plug-ins on the Services. The personal data responsibility lies with the social media that provide these plug-ins. For this reason, we refer to the respective social medium if you want to read more about the processing of personal data within the framework of the social plug-ins that we use. Please note that you can block social plug-ins in your browser settings.
 
 To exercise the rights above or if you have questions about this privacy policy, please contact us via the contact information on our contact page. You can also get in contact with our data protection officer, who is responsible for PriceSpy and Schibsted handling your personal data correctly, via [Schibsted’s data protection form](https://goo.gl/forms/qFmmYFy6rzVAcVAv1).
