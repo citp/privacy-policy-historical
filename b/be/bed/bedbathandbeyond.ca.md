@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bedbathandbeyond.ca privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226050833id_/https%3A//www.bedbathandbeyond.ca/store/static/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedbathandbeyond.ca privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624083411id_/https%3A//www.bedbathandbeyond.ca/store/static/PrivacyPolicy) for the most accurate reproduction.*
 
-# Bed Bath and Beyond Canada
+# Privacy Policy | Bed Bath and Beyond Canada
 
 At Bed Bath & Beyond and Buy Buy Baby, we are committed to protecting the privacy of our customers and therefore do not sell or rent our customers' Personal Information to any third party. For the purposes of this Privacy Policy, we do not share your Personal Information with any third parties for their direct marketing purposes without first providing you the opportunity to opt-in or opt-out of such sharing. You may request information about how we manage your Personal Information consistent with this Privacy Policy by contacting us at [privacy.information@bedbath.ca](mailto:privacy.information@bedbath.ca) Attn: Privacy Officer.
 
