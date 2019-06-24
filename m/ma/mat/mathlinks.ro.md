@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mathlinks.ro privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904061050id_/https%3A//artofproblemsolving.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathlinks.ro privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624180912id_/https%3A//artofproblemsolving.com/company/privacy) for the most accurate reproduction.*
 
 # Art of Problem Solving
 
-AOPS INCORPORATED PRIVACY POLICY - EFFECTIVE September 5, 2017 
+AOPS INCORPORATED PRIVACY POLICY - EFFECTIVE May 23, 2019 
 
 This Privacy Policy applies to all users. Please click here for our specific information practices with regards to children under 13 (also provided at the end of this policy). 
 
@@ -12,7 +12,7 @@ We take the privacy of our participants very seriously; therefore, we only colle
 
 To post information in a forum, to use some of our online educational tools, or to attend online classes, you must become a member of the Art of Problem Solving Community. To become a member, the only personal information we require is your email address and a username that you select. The username that you select is used as an onscreen name to identify you; it is strongly recommended that it not be your real name, but a pseudonym. You will also select a password, which is needed to log on. We do ask about your general geographic location, your occupation, and interests, but none of this information is required for membership in the Community. 
 
-Your email address is used by us to send messages to you. We do so to confirm your username and password if you should forget your username or password. We also use your email address to assist in administering our web site and to help enforce our conduct rules (for example, people who post offensive messages in the forum can be banned). Should you enroll in an Art of Problem Solving online class, your email address will be used for communication purposes for that class. We will not send solicitation emails collected as part of the Art of Problem Solving Community unless the user elects to join our mailing lists. We will not share your email address with third parties except when needed for the operation of our mailing list or when required by law. 
+Your email address is used by us to send messages to you. We do so to confirm your username and password if you should forget your username or password. We also use your email address to assist in administering our web site and to help enforce our conduct rules (for example, people who post offensive messages in the forum can be banned). Should you enroll in an Art of Problem Solving online class, your email address will be used for communication purposes for that class. We will not send solicitation emails collected as part of the Art of Problem Solving Community unless the user elects to join our mailing lists. We will not share your email address with third parties except when needed for the operation of our mailing list (for which the third party is ActiveCampaign, LLC) or when required by law. 
 
 Our site has forums (message boards), private messaging, and real-time discussion available to its members. Please remember that any information that is disclosed in these areas is potentially available to other members and in some cases to the general public. You should not disclose any personal information, such as your real name, address, telephone number, email address, etc. Your username is the only identity that you need to have, and that is how people should know you on our site. 
 
@@ -71,7 +71,7 @@ The federal Children's Online Privacy Protection Act (COPPA) requires that we in
 
 When we use the term "children" or "child", it refers to individuals under the age of 13. We may collect and share the following personal information with verifiable parental consent (where necessary under COPPA) from children: 
 
-(a) Children may provide us their email address during registration or as part of receiving our services. We may use this email address to communicate directly with the child. This email address is never made available to any other user of the site, nor to any third party. 
+(a) Children may provide us their email address during registration or as part of receiving our services. We may use this email address to communicate directly with the child. If the child joins one of our email lists, their email address will be shared with the third party (ActiveCampaign, LLC) we use to manage our email lists. We will not otherwise share an email address with a third party except when required by law. 
 
 (b) A username used to uniquely identify each child is created during registration. This username may be disclosed on our website, for example in our message boards, online classroom, or any other part of the site on which the child may participate. Other members of the website may use the child's username to directly contact the child (for example, by private message or in online classroom discussions). 
 
