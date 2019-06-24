@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtaforums.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231044234id_/https%3A//gtaforums.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtaforums.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625000634id_/https%3A//gtaforums.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GTAForums
 
@@ -55,7 +55,7 @@ GTANet may use third-parties for advertising and analytics for Networks that we 
 
 <http://www.youronlinechoices.com/uk/your-ad-choices>
 
-<http://www.networkadvertising.org/choices/>
+[http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/)
 
 <http://www.aboutads.info/choices/>
 
@@ -193,13 +193,3 @@ Each time you use the Network, the then-current version of this Privacy Policy w
 **12\. How can you contact us?**
 
 With this privacy policy we want to give you clarity about the way we handle your data. If you have questions about this document or the processing of data by Grand Theft Auto Network, you can get in contact with us via our support email [support@gtaforums.com](mailto:support@gtaforums.com)
-
-### Third Parties
-
-**Spam Defense**
-
-The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source.
-
-**reCAPTCHA V2**
-
-This site uses a CAPTCHA to ensure humans are performing certain actions. The CAPTCHA provider may set a session cookie and get information about your internet browser and device accessing this website.
