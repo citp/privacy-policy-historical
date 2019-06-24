@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the lifeascending.info privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223061038id_/http%3A//www.lifeascending.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeascending.info privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624223947id_/http%3A//www.lifeascending.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Life Ascending
+# Privacy Policy
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://[www.lifeascending.info](http://www.lifeascending.info/)/ (the “Site”). We can be reached anytime at marianne@lifeascending.info
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://[www.lifeascending.info](http://lifeascending.info/)/ (the “Site”). We can be reached anytime at marianne@lifeascending.info
 
 ## Who we are
 
-Ey to Zee is a blog about arts and crafts. Our website address is: [https://www.lifeascending.info](https://www.lifeascending.info/)
+Ey to Zee is a blog about arts and crafts. Our website address is: [https://lifeascending.info](https://lifeascending.info/)
 
-##  **Your Access to and Control Over Information**
+## **Your Access to and Control Over Information**
 
 You may opt out of any future contacts from us at any time.  **You can do the following at any time by contacting us via marianne@lifeascending.info:**
 
@@ -57,9 +57,9 @@ We use Google Analytics to analyze the use of our website. Google Analytics gath
 
 ## Who we share your data with
 
-  *  **PayPal:**  We accept payments through PayPal. When processing payments, some user data will be passed to PayPal, including information required to process or support the payment, such as the purchase total and billing information. Please see the PayPal Privacy Policy for more details.
-  *  **WooCommerce:  **WooCommerce is the eCommerce platform that we use to process orders. When you are purchasing a product, some data will be passed to WooCommerce, including information required to fulfill your order, such as your name, billing address, shipping address, product(s) purchased, the status of your transaction, your receipt, your username on our site, your email address, your IP address and the PayPal transaction associated with the purchase. Please see the WooCommerce Privacy Policy for more details.
-  *  **Mailchimp** : We email customers using Mailchimp. When you opt-in to our email list, your name and email address will be added to Mailchimp to be used when we send emails regarding your course and future mailing list emails. You also may also be added to our email list if you explicitly give consent while filling out a contact form, or when entering an email address in exchange for free content. Mailchimp saves information such as your email address, name, IP address, timezone, user behaviour (such as page visits and purchase activity) and certain identifying tags (such as “Blog Freebie Opt-In”) that help best tailor the appropriate emails that should or should not be sent to you, a list of which emails were sent and the actions that you took on those emails (for example, opened, clicked on a link, etc.). You can unsubscribe to these emails at any time by clicking the “unsubscribe” link found in these emails or by emailing your request to marianne@lifeascending.info. Please see the Mailchimp Privacy Policy for more details.
+  * **PayPal:**  We accept payments through PayPal. When processing payments, some user data will be passed to PayPal, including information required to process or support the payment, such as the purchase total and billing information. Please see the PayPal Privacy Policy for more details.
+  * **WooCommerce:  **WooCommerce is the eCommerce platform that we use to process orders. When you are purchasing a product, some data will be passed to WooCommerce, including information required to fulfill your order, such as your name, billing address, shipping address, product(s) purchased, the status of your transaction, your receipt, your username on our site, your email address, your IP address and the PayPal transaction associated with the purchase. Please see the WooCommerce Privacy Policy for more details.
+  * **Mailchimp** : We email customers using Mailchimp. When you opt-in to our email list, your name and email address will be added to Mailchimp to be used when we send emails regarding your course and future mailing list emails. You also may also be added to our email list if you explicitly give consent while filling out a contact form, or when entering an email address in exchange for free content. Mailchimp saves information such as your email address, name, IP address, timezone, user behaviour (such as page visits and purchase activity) and certain identifying tags (such as “Blog Freebie Opt-In”) that help best tailor the appropriate emails that should or should not be sent to you, a list of which emails were sent and the actions that you took on those emails (for example, opened, clicked on a link, etc.). You can unsubscribe to these emails at any time by clicking the “unsubscribe” link found in these emails or by emailing your request to marianne@lifeascending.info. Please see the Mailchimp Privacy Policy for more details.
 
 
 
@@ -99,4 +99,4 @@ The opinions expressed here are not necessarily the opinions of nor reflect the 
 
 By using this website, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our website.
 
-###  **YOUR PRIVACY IS IMPORTANT TO US AND WE CAN BE CONTACTED ANYTIME AT MARIANNE@LIFEASCENDING.INFO WITH ANY CONCERNS YOU MAY HAVE.**
+### **YOUR PRIVACY IS IMPORTANT TO US AND WE CAN BE CONTACTED ANYTIME AT MARIANNE@LIFEASCENDING.INFO WITH ANY CONCERNS YOU MAY HAVE.**
