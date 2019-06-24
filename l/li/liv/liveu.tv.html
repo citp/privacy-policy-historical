@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the liveu.tv privacy policy that was archived on 2018-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181027154644id_/https%3A//www.liveu.tv/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liveu.tv privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624151201id_/https%3A//www.liveu.tv/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
 		<!-- BEGIN: Custom advanced (www.pluginaria.com) -->
@@ -23,7 +23,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta name="title" content="Privacy Policy">
 	<meta name="author" content="Super User">
-	<meta property="og:url" content="https://www.liveu.tv/privacy-policy">
+	<meta property="og:url" content="https://www.liveu.tv/privacy-policy?__hstc=147041512.ad68f92d1cdabc36370d9b4981152cc3.1556092241118.1556092241118.1556092241118.1&amp;__hssc=147041512.1.1556092241118&amp;__hsfp=3762690721">
 	<meta property="og:title" content="Privacy Policy">
 	<meta property="og:type" content="article">
 	<meta property="og:description" content="Thank you for visiting www. LiveU.tv (together with all content on the site including subdomains and other websites operated by LiveU or its affiliate...">
@@ -45,56 +45,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<script src="/media/jui/js/chosen.jquery.min.js" type="text/javascript"></script>
 	<script type="text/javascript">
 
-function ctSetCookie(c_name, value, def_value) {
-	document.cookie = c_name + "=" + escape(value) + "; path=/";
-}
-
-setTimeout(function(){
-	ctSetCookie("ct_checkjs", "3fa0d9bf7798dcf70537f83bec103073");
-	ctSetCookie("ct_timezone", d.getTimezoneOffset()/60);
-},1000);
-
-//Stop observing function
-function ctMouseStopData(){
-	window.removeEventListener("mousemove", func);
-	clearInterval(ctMouseReadInterval);
-	clearInterval(ctMouseWriteDataInterval);				
-}
-
-var d = new Date(), 
-	ctTimeMs = new Date().getTime(),
-	ctMouseEventTimerFlag = true, //Reading interval flag
-	ctMouseData = "[",
-	ctMouseDataCounter = 0;
-	
-//Reading interval
-var ctMouseReadInterval = setInterval(function(){
-		ctMouseEventTimerFlag = true;
-	}, 300);
-	
-//Writting interval
-var ctMouseWriteDataInterval = setInterval(function(){ 
-		var ctMouseDataToSend = ctMouseData.slice(0,-1).concat("]");
-		ctSetCookie("ct_pointer_data", ctMouseDataToSend);
-	}, 3000);
-
-//Logging mouse position each 300 ms
-var func = function output(event){
-	if(ctMouseEventTimerFlag == true){
-		var mouseDate = new Date();
-		ctMouseData += "[" + event.pageY + "," + event.pageX + "," + (mouseDate.getTime() - ctTimeMs) + "],";
-		ctMouseDataCounter++;
-		ctMouseEventTimerFlag = false;
-		if(ctMouseDataCounter >= 100)
-			ctMouseStopData();
-	}
-}
-
-if(typeof window.addEventListener == "function")
-	window.addEventListener("mousemove", func);
-else
-	window.attachEvent("onmousemove", func);
-    
 		jQuery(document).ready(function (){
 			jQuery('.advancedSelect').chosen({"disable_search_threshold":10,"search_contains":true,"allow_single_deselect":true,"placeholder_text_multiple":"Type or select some options","placeholder_text_single":"Select an option","no_results_text":"No results match"});
 		});
@@ -106,8 +56,7 @@ else
                 <script type="text/javascript" src="https://www.liveu.tv/templates/joomi/js/template.js?v=2"></script>
         
         <link rel="alternate" hreflang="en-gb" href="/index.php/">
-        
-    
+            
 
 
 
@@ -125,6 +74,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!-- End Google Tag Manager (noscript) --><!-- END: Custom advanced (www.pluginaria.com) -->
 
+    
         <div class="header wrapper">
             <div class="container first_menu">
                 <div class="container regular">
@@ -169,6 +119,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	
 	<!--</select>-->
 
+
 </div>
 
                             
@@ -197,9 +148,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <!-- BEGIN: Custom advanced (www.pluginaria.com) -->
 <ul>
 <li><a class="fa fa-twitter" target="_blank" href="https://twitter.com/LiveU"></a></li>
-<li><a target="_blank" class="fa fa-instagram" href="https://www.instagram.com/liveutv/"></a></li>
-<li><a target="_blank" class="fa fa-youtube" href="https://www.youtube.com/user/liveUtv"></a></li>
-<li><a target="_blank" class="fa fa-facebook" href="https://www.facebook.com/LiveU.Fans"></a></li>
+<li><a class="share-icon share-instagram" target="_blank" href="https://www.instagram.com/liveutv/"></a></li>
+<li><a class="share-icon share-youtube" target="_blank" href="https://www.youtube.com/user/liveUtv"></a></li>
+<li><a class="share-icon share-facebook" target="_blank" href="https://www.facebook.com/LiveU.Fans"></a></li>
 </ul><!-- END: Custom advanced (www.pluginaria.com) -->
 
                         </div>
@@ -244,6 +195,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	
 	<!--</select>-->
 
+
 </div>
 
                     <div class="search">
@@ -266,9 +218,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- BEGIN: Custom advanced (www.pluginaria.com) -->
 <ul>
 <li><a class="fa fa-twitter" target="_blank" href="https://twitter.com/LiveU"></a></li>
-<li><a target="_blank" class="fa fa-instagram" href="https://www.instagram.com/liveutv/"></a></li>
-<li><a target="_blank" class="fa fa-youtube" href="https://www.youtube.com/user/liveUtv"></a></li>
-<li><a target="_blank" class="fa fa-facebook" href="https://www.facebook.com/LiveU.Fans"></a></li>
+<li><a class="share-icon share-instagram" target="_blank" href="https://www.instagram.com/liveutv/"></a></li>
+<li><a class="share-icon share-youtube" target="_blank" href="https://www.youtube.com/user/liveUtv"></a></li>
+<li><a class="share-icon share-facebook" target="_blank" href="https://www.facebook.com/LiveU.Fans"></a></li>
 </ul><!-- END: Custom advanced (www.pluginaria.com) -->
 
                     </div>
@@ -283,19 +235,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	Field units</span>
 <ul class="nav-child unstyled small"><li class="item-845"><a href="/products/technology/lu600">LU600 HEVC</a></li><li class="item-1139"><a href="/products/technology/lu300-hevc">LU300 HEVC</a></li><li class="item-346"><a href="/products/technology/lu200">LU200</a></li><li class="item-695"><a href="/products/technology/lu500-series">LU500</a></li><li class="item-176"><a href="/products/technology/liveu-xtender">LiveU Xtender</a></li></ul></li><li class="item-685 divider deeper parent"><span class="separator">
 	Encoders</span>
-<ul class="nav-child unstyled small"><li class="item-1161"><a href="/products/encoders/lu610-hevc">LU610 HEVC</a></li><li class="item-901"><a href="/products/encoders/lu210-lu220">LU210/LU220</a></li><li class="item-347"><a href="/products/encoders/lu200e">LU200e</a></li></ul></li><li class="item-141 divider deeper parent"><span class="separator">
+<ul class="nav-child unstyled small"><li class="item-1161"><a href="/products/encoders/lu610-hevc">LU610 HEVC</a></li><li class="item-901"><a href="/products/encoders/lu210-lu220">LU210/LU220</a></li><li class="item-1203"><a href="/products/encoders/lu300e">LU300e HEVC</a></li><li class="item-347"><a href="/products/encoders/lu200e">LU200e</a></li></ul></li><li class="item-141 divider deeper parent"><span class="separator">
 	Software</span>
 <ul class="nav-child unstyled small"><li class="item-143"><a href="/products/software/lu-smart">LU-Smart</a></li><li class="item-178"><a href="/products/software/lu-lite-series">LU-Lite</a></li></ul></li><li class="item-681 divider deeper parent"><span class="separator">
-	Servers</span>
-<ul class="nav-child unstyled small"><li class="item-682"><a href="/products/servers/lu2000">LU2000</a></li><li class="item-844"><a href="/products/servers/lu4000">LU4000</a></li></ul></li><li class="item-980 deeper parent"><a class="text_left" href="http://gosolo.tv" target="_blank">Digital</a><ul class="nav-child unstyled small"><li class="item-992"><a href="http://gosolo.tv/?__hstc=194154162.906c8824fe72e3128764827122210769.1513686581298.1532872420459.1532937980495.63&amp;__hssc=194154162.15.1532937980495&amp;__hsfp=2429104912">LiveU Solo</a></li></ul></li></ul></li><li class="item-135 deeper parent"><a href="/ip-services">IP Services</a><ul class="nav-child unstyled small"><li class="item-968"><a href="/ip-services/liveu-matrix"><img src="/images/New_Mega_Menu/ip_service1.png" alt="LiveU Matrix"><span class="image-title">LiveU Matrix</span> </a></li><li class="item-180"><a href="/ip-services/liveu-multipoint"><img src="/images/New_Mega_Menu/ip_service7.png" alt="LiveU MultiPoint"><span class="image-title">LiveU MultiPoint</span> </a></li><li class="item-905"><a href="/ip-services/databridge"><img src="/images/New_Mega_Menu/ip_service6.png" alt="DataBridge"><span class="image-title">DataBridge</span> </a></li><li class="item-976"><a href="/ip-services/video-return"><img src="/images/New_Mega_Menu/ip_service5.png" alt="Video Return"><span class="image-title">Video Return</span> </a></li><li class="item-978"><a href="/go"><img src="/images/New_Mega_Menu/ip_service4.png" alt="Go Plan"><span class="image-title">Go Plan</span> </a></li><li class="item-171"><a href="/ip-services/be-first"><img src="/images/New_Mega_Menu/ip_service2.png" alt="BeFirst"><span class="image-title">BeFirst</span> </a></li><li class="item-179"><a href="/ip-services/liveu-central"><img src="/images/New_Mega_Menu/ip_service8.png" alt="LiveU Central"><span class="image-title">LiveU Central</span> </a></li><li class="item-1164"><a href="/ip-services/newtek-ndi"><img src="/images/New_Mega_Menu/NDI-org_MM.png" alt="Newtek NDI Integration"><span class="image-title">Newtek NDI Integration</span> </a></li></ul></li><li class="item-183 deeper parent"><a href="/solutions">Solutions</a><ul class="nav-child unstyled small"><li class="item-188"><a href="/solutions/online-media"><img src="/images/New_Mega_Menu/solutions1.png" alt="Online Streaming"><span class="image-title">Online Streaming</span> </a></li><li class="item-919"><a href="/solutions/at-home-production"><img src="/images/New_Mega_Menu/at_Home_productin.png" alt="At-Home Production"><span class="image-title">At-Home Production</span> </a></li><li class="item-189"><a href="/solutions/sports"><img src="/images/New_Mega_Menu/sport_production.png" alt="Sports Production"><span class="image-title">Sports Production</span> </a></li><li class="item-184"><a href="/solutions/broadcast"><img src="/images/New_Mega_Menu/broadcast.png" alt="Broadcast Television"><span class="image-title">Broadcast Television</span> </a></li><li class="item-694"><a href="/solutions/roaming-solutions"><img src="/images/New_Mega_Menu/somming.png" alt="Roaming"><span class="image-title">Roaming</span> </a></li><li class="item-199"><a href="/solutions/vehicle-solutions"><img src="/images/New_Mega_Menu/Vehicle.png" alt="Vehicle"><span class="image-title">Vehicle</span> </a></li><li class="item-191"><a href="/solutions/satellite-solutions"><img src="/images/New_Mega_Menu/Setelilte.png" alt="Satellite"><span class="image-title">Satellite</span> </a></li><li class="item-190"><a href="/solutions/public-safety"><img src="/images/New_Mega_Menu/public_safaty.png" alt="Public Safety"><span class="image-title">Public Safety</span> </a></li></ul></li><li class="item-139"><a href="/events">Event Rentals</a></li><li class="item-145 divider deeper parent"><span class="separator">
+	Decoders</span>
+<ul class="nav-child unstyled small"><li class="item-682"><a href="/products/decoders/lu2000">LU2000</a></li><li class="item-844"><a href="/products/decoders/lu4000">LU4000</a></li></ul></li><li class="item-980 deeper parent"><a class="text_left" href="http://gosolo.tv" target="_blank">Digital</a><ul class="nav-child unstyled small"><li class="item-992"><a href="http://gosolo.tv/?__hstc=194154162.906c8824fe72e3128764827122210769.1513686581298.1532872420459.1532937980495.63&amp;__hssc=194154162.15.1532937980495&amp;__hsfp=2429104912">LiveU Solo</a></li></ul></li></ul></li><li class="item-135 deeper parent"><a href="/ip-services">Services</a><ul class="nav-child unstyled small"><li class="item-968"><a href="/ip-services/liveu-matrix"><img src="/images/New_Mega_Menu/ip_service1.png" alt="LiveU Matrix"><span class="image-title">LiveU Matrix</span> </a></li><li class="item-180"><a href="/ip-services/liveu-multipoint"><img src="/images/New_Mega_Menu/ip_service7.png" alt="LiveU MultiPoint"><span class="image-title">LiveU MultiPoint</span> </a></li><li class="item-905"><a href="/ip-services/databridge"><img src="/images/New_Mega_Menu/ip_service6.png" alt="DataBridge"><span class="image-title">DataBridge</span> </a></li><li class="item-976"><a href="/ip-services/video-return"><img src="/images/New_Mega_Menu/ip_service5.png" alt="Video Return"><span class="image-title">Video Return</span> </a></li><li class="item-1201"><a href="/ip-services/liveu-control"><img src="/images/New_Mega_Menu/control-2.png" alt="LiveU Control"><span class="image-title">LiveU Control</span> </a></li><li class="item-978"><a href="/go"><img src="/images/New_Mega_Menu/ip_service4.png" alt="Go Plan"><span class="image-title">Go Plan</span> </a></li><li class="item-979"><a class="new_tab" href="/ip-services/cloud-graphics"><img src="/images/New_Mega_Menu/ip_service3.png" alt="Cloud Graphics"><span class="image-title">Cloud Graphics</span> </a></li><li class="item-171"><a href="/ip-services/be-first"><img src="/images/New_Mega_Menu/ip_service2.png" alt="BeFirst"><span class="image-title">BeFirst</span> </a></li><li class="item-179"><a href="/ip-services/liveu-central"><img src="/images/New_Mega_Menu/ip_service8.png" alt="LiveU Central"><span class="image-title">LiveU Central</span> </a></li><li class="item-1164"><a href="/ip-services/newtek-ndi"><img src="/images/New_Mega_Menu/NDI-org_MM.png" alt="Newtek NDI Integration"><span class="image-title">Newtek NDI Integration</span> </a></li></ul></li><li class="item-183 deeper parent"><a href="/solutions">Solutions</a><ul class="nav-child unstyled small"><li class="item-188"><a href="/solutions/online-media"><img src="/images/New_Mega_Menu/solutions1.png" alt="Online Streaming"><span class="image-title">Online Streaming</span> </a></li><li class="item-919"><a href="/solutions/at-home-production"><img src="/images/New_Mega_Menu/at_Home_productin.png" alt="At-Home Production"><span class="image-title">At-Home Production</span> </a></li><li class="item-189"><a href="/solutions/sports"><img src="/images/New_Mega_Menu/sport_production.png" alt="Sports Production"><span class="image-title">Sports Production</span> </a></li><li class="item-184"><a href="/solutions/broadcast"><img src="/images/New_Mega_Menu/broadcast.png" alt="Broadcast Television"><span class="image-title">Broadcast Television</span> </a></li><li class="item-694"><a href="/solutions/roaming-solutions"><img src="/images/New_Mega_Menu/somming.png" alt="Roaming"><span class="image-title">Roaming</span> </a></li><li class="item-199"><a href="/solutions/vehicle-solutions"><img src="/images/New_Mega_Menu/Vehicle.png" alt="Vehicle"><span class="image-title">Vehicle</span> </a></li><li class="item-191"><a href="/solutions/satellite-solutions"><img src="/images/New_Mega_Menu/Setelilte.png" alt="Satellite"><span class="image-title">Satellite</span> </a></li><li class="item-190"><a href="/solutions/public-safety"><img src="/images/New_Mega_Menu/public_safaty.png" alt="Public Safety"><span class="image-title">Public Safety</span> </a></li><li class="item-1177"><a href="/solutions/5g"><img src="/images/New_Mega_Menu/5g.png" alt="5G"><span class="image-title">5G</span> </a></li></ul></li><li class="item-139"><a href="/events">Event Rentals</a></li><li class="item-145 divider deeper parent"><span class="separator">
 	News</span>
 <ul class="nav-child unstyled small"><li class="item-146"><a href="/liveu-news/press-releases"><img src="/images/New_Mega_Menu/Vector_Smart_Object_4.png" alt="Press Releases"><span class="image-title">Press Releases</span> </a></li><li class="item-192"><a href="/liveu-news/press-clippings"><img src="/images/New_Mega_Menu/Vector_Smart_Object_3.png" alt="Press Clippings"><span class="image-title">Press Clippings</span> </a></li><li class="item-193"><a href="/liveu-news/media-kit"><img src="/images/New_Mega_Menu/Vector_Smart_Object_2.png" alt="Media Kit"><span class="image-title">Media Kit</span> </a></li><li class="item-195"><a href="/liveu-news/trade-shows"><img src="/images/New_Mega_Menu/Vector_Smart_Object_1.png" alt="Trade Shows"><span class="image-title">Trade Shows</span> </a></li></ul></li><li class="item-690 divider deeper parent"><span class="separator">
 	Support</span>
 <ul class="nav-child unstyled small"><li class="item-981 divider deeper parent"><span class="separator">
 	<img src="/images/New_Mega_Menu/Vector_Smart_Object1.png" alt="LiveU Customers"><span class="image-title">LiveU Customers</span> </span>
-<ul class="nav-child unstyled small"><li class="item-985"><a href="/company/distributor">Contact Us</a></li><li class="item-986"><a class="new_tab" href="http://know.liveu.tv/help">Knowledge Base</a></li><li class="item-987"><a class="new_tab" href="http://know.liveu.tv/help/faqs">FAQ</a></li><li class="item-988"><a class="new_tab" href="http://know.liveu.tv/help/troubleshooting">Troubleshooting</a></li></ul></li><li class="item-983 divider deeper parent"><span class="separator">
-	<img src="/images/Layer_133.png" alt="LiveU College"><span class="image-title">LiveU College</span> </span>
-<ul class="nav-child unstyled small"><li class="item-989"><a class="new_tab" href="http://know.liveu.tv/help">Articles &amp; Downloads</a></li><li class="item-990"><a class="new_tab" href="http://learn.liveu.tv/account/login/">Video Courses</a></li></ul></li><li class="item-982"><a class="new_tab" href="http://partners.liveu.tv/"><img src="/images/New_Mega_Menu/Shape_7_copy_1.png" alt="Partners Portal"><span class="image-title">Partners Portal</span> </a></li><li class="item-984"><a href="/support/about-liveu-support"><img src="/images/New_Mega_Menu/Vector_Smart_Object_5.png" alt="About LiveU Support"><span class="image-title">About LiveU Support</span> </a></li></ul></li></ul>
+<ul class="nav-child unstyled small"><li class="item-985"><a href="/company/distributor">Contact Us</a></li><li class="item-987"><a class="new_tab" href="http://know.liveu.tv/help/faqs">FAQ</a></li></ul></li><li class="item-983 divider deeper parent"><span class="separator">
+	<img src="/images/Layer_133.png" alt="Learning Platforms"><span class="image-title">Learning Platforms</span> </span>
+<ul class="nav-child unstyled small"><li class="item-990"><a class="new_tab" href="http://learn.liveu.tv/account/login/">LiveUniversity</a></li><li class="item-986"><a class="new_tab" href="http://know.liveu.tv/help">Knowledge Base</a></li></ul></li><li class="item-982"><a class="new_tab" href="https://liveu.force.com/Partner/s/login/"><img src="/images/New_Mega_Menu/Shape_7_copy_1.png" alt="Partners Portal"><span class="image-title">Partners Portal</span> </a></li><li class="item-984"><a href="/support/about-liveu-support"><img src="/images/New_Mega_Menu/Vector_Smart_Object_5.png" alt="About LiveU Support"><span class="image-title">About LiveU Support</span> </a></li></ul></li></ul>
  
                                 <ul class="nav menu">
 <li class="item-136"><a href="/blog">Blog</a></li><li class="item-137"><a href="https://community.liveu.tv/" target="_blank">Community</a></li><li class="item-138"><a class="us" href="https://shop.liveu.tv/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;">Store</a></li><li class="item-175"><a href="/contact-us">CONTACT US</a></li></ul>
@@ -315,19 +267,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	Field units</span>
 <ul class="wrap_mega nav-child small clearfix "><li class="item-845 level-3"><a href="/products/technology/lu600">LU600 HEVC</a></li><li class="item-1139 level-3"><a href="/products/technology/lu300-hevc">LU300 HEVC</a></li><li class="item-346 level-3"><a href="/products/technology/lu200">LU200</a></li><li class="item-695 level-3"><a href="/products/technology/lu500-series">LU500</a></li><li class="item-176 level-3"><a href="/products/technology/liveu-xtender">LiveU Xtender</a></li></ul></li><li class="item-685 level-2 text_left divider deeper parent"><span class="separator">
 	Encoders</span>
-<ul class="wrap_mega nav-child small clearfix childs_3"><li class="item-1161 level-3"><a href="/products/encoders/lu610-hevc">LU610 HEVC</a></li><li class="item-901 level-3"><a href="/products/encoders/lu210-lu220">LU210/LU220</a></li><li class="item-347 level-3"><a href="/products/encoders/lu200e">LU200e</a></li></ul></li><li class="item-141 level-2 text_left divider deeper parent"><span class="separator">
+<ul class="wrap_mega nav-child small clearfix childs_4"><li class="item-1161 level-3"><a href="/products/encoders/lu610-hevc">LU610 HEVC</a></li><li class="item-901 level-3"><a href="/products/encoders/lu210-lu220">LU210/LU220</a></li><li class="item-1203 level-3"><a href="/products/encoders/lu300e">LU300e HEVC</a></li><li class="item-347 level-3"><a href="/products/encoders/lu200e">LU200e</a></li></ul></li><li class="item-141 level-2 text_left divider deeper parent"><span class="separator">
 	Software</span>
 <ul class="wrap_mega nav-child small clearfix childs_2"><li class="item-143 level-3"><a href="/products/software/lu-smart">LU-Smart</a></li><li class="item-178 level-3"><a href="/products/software/lu-lite-series">LU-Lite</a></li></ul></li><li class="item-681 level-2 text_left divider deeper parent"><span class="separator">
-	Servers</span>
-<ul class="wrap_mega nav-child small clearfix childs_2"><li class="item-682 level-3"><a href="/products/servers/lu2000">LU2000</a></li><li class="item-844 level-3"><a href="/products/servers/lu4000">LU4000</a></li></ul></li><li class="item-980 level-2 text_left deeper parent"><a class="text_left" href="http://gosolo.tv" target="_blank">Digital</a><ul class="wrap_mega nav-child small clearfix childs_1"><li class="item-992 level-3"><a href="http://gosolo.tv/?__hstc=194154162.906c8824fe72e3128764827122210769.1513686581298.1532872420459.1532937980495.63&amp;__hssc=194154162.15.1532937980495&amp;__hsfp=2429104912">LiveU Solo</a></li></ul></li></ul></li><li class="item-135 level-1  deeper parent"><a href="/ip-services">IP Services</a><ul class="wrap_mega nav-child small clearfix "><li class="item-968 level-2"><a href="/ip-services/liveu-matrix"><img src="/images/New_Mega_Menu/ip_service1.png" alt="LiveU Matrix"><span class="image-title">LiveU Matrix</span> </a></li><li class="item-180 level-2"><a href="/ip-services/liveu-multipoint"><img src="/images/New_Mega_Menu/ip_service7.png" alt="LiveU MultiPoint"><span class="image-title">LiveU MultiPoint</span> </a></li><li class="item-905 level-2"><a href="/ip-services/databridge"><img src="/images/New_Mega_Menu/ip_service6.png" alt="DataBridge"><span class="image-title">DataBridge</span> </a></li><li class="item-976 level-2"><a href="/ip-services/video-return"><img src="/images/New_Mega_Menu/ip_service5.png" alt="Video Return"><span class="image-title">Video Return</span> </a></li><li class="item-978 level-2"><a href="/go"><img src="/images/New_Mega_Menu/ip_service4.png" alt="Go Plan"><span class="image-title">Go Plan</span> </a></li><li class="item-171 level-2"><a href="/ip-services/be-first"><img src="/images/New_Mega_Menu/ip_service2.png" alt="BeFirst"><span class="image-title">BeFirst</span> </a></li><li class="item-179 level-2"><a href="/ip-services/liveu-central"><img src="/images/New_Mega_Menu/ip_service8.png" alt="LiveU Central"><span class="image-title">LiveU Central</span> </a></li><li class="item-1164 level-2"><a href="/ip-services/newtek-ndi"><img src="/images/New_Mega_Menu/NDI-org_MM.png" alt="Newtek NDI Integration"><span class="image-title">Newtek NDI Integration</span> </a></li></ul></li><li class="item-183 level-1  deeper parent"><a href="/solutions">Solutions</a><ul class="wrap_mega nav-child small clearfix "><li class="item-188 level-2"><a href="/solutions/online-media"><img src="/images/New_Mega_Menu/solutions1.png" alt="Online Streaming"><span class="image-title">Online Streaming</span> </a></li><li class="item-919 level-2"><a href="/solutions/at-home-production"><img src="/images/New_Mega_Menu/at_Home_productin.png" alt="At-Home Production"><span class="image-title">At-Home Production</span> </a></li><li class="item-189 level-2"><a href="/solutions/sports"><img src="/images/New_Mega_Menu/sport_production.png" alt="Sports Production"><span class="image-title">Sports Production</span> </a></li><li class="item-184 level-2"><a href="/solutions/broadcast"><img src="/images/New_Mega_Menu/broadcast.png" alt="Broadcast Television"><span class="image-title">Broadcast Television</span> </a></li><li class="item-694 level-2"><a href="/solutions/roaming-solutions"><img src="/images/New_Mega_Menu/somming.png" alt="Roaming"><span class="image-title">Roaming</span> </a></li><li class="item-199 level-2"><a href="/solutions/vehicle-solutions"><img src="/images/New_Mega_Menu/Vehicle.png" alt="Vehicle"><span class="image-title">Vehicle</span> </a></li><li class="item-191 level-2"><a href="/solutions/satellite-solutions"><img src="/images/New_Mega_Menu/Setelilte.png" alt="Satellite"><span class="image-title">Satellite</span> </a></li><li class="item-190 level-2"><a href="/solutions/public-safety"><img src="/images/New_Mega_Menu/public_safaty.png" alt="Public Safety"><span class="image-title">Public Safety</span> </a></li></ul></li><li class="item-139 level-1"><a href="/events">Event Rentals</a></li><li class="item-145 level-1  divider deeper parent"><span class="separator">
+	Decoders</span>
+<ul class="wrap_mega nav-child small clearfix childs_2"><li class="item-682 level-3"><a href="/products/decoders/lu2000">LU2000</a></li><li class="item-844 level-3"><a href="/products/decoders/lu4000">LU4000</a></li></ul></li><li class="item-980 level-2 text_left deeper parent"><a class="text_left" href="http://gosolo.tv" target="_blank">Digital</a><ul class="wrap_mega nav-child small clearfix childs_1"><li class="item-992 level-3"><a href="http://gosolo.tv/?__hstc=194154162.906c8824fe72e3128764827122210769.1513686581298.1532872420459.1532937980495.63&amp;__hssc=194154162.15.1532937980495&amp;__hsfp=2429104912">LiveU Solo</a></li></ul></li></ul></li><li class="item-135 level-1  deeper parent"><a href="/ip-services">Services</a><ul class="wrap_mega nav-child small clearfix "><li class="item-968 level-2"><a href="/ip-services/liveu-matrix"><img src="/images/New_Mega_Menu/ip_service1.png" alt="LiveU Matrix"><span class="image-title">LiveU Matrix</span> </a></li><li class="item-180 level-2"><a href="/ip-services/liveu-multipoint"><img src="/images/New_Mega_Menu/ip_service7.png" alt="LiveU MultiPoint"><span class="image-title">LiveU MultiPoint</span> </a></li><li class="item-905 level-2"><a href="/ip-services/databridge"><img src="/images/New_Mega_Menu/ip_service6.png" alt="DataBridge"><span class="image-title">DataBridge</span> </a></li><li class="item-976 level-2"><a href="/ip-services/video-return"><img src="/images/New_Mega_Menu/ip_service5.png" alt="Video Return"><span class="image-title">Video Return</span> </a></li><li class="item-1201 level-2"><a href="/ip-services/liveu-control"><img src="/images/New_Mega_Menu/control-2.png" alt="LiveU Control"><span class="image-title">LiveU Control</span> </a></li><li class="item-978 level-2"><a href="/go"><img src="/images/New_Mega_Menu/ip_service4.png" alt="Go Plan"><span class="image-title">Go Plan</span> </a></li><li class="item-979 level-2 new_tab"><a class="new_tab" href="/ip-services/cloud-graphics"><img src="/images/New_Mega_Menu/ip_service3.png" alt="Cloud Graphics"><span class="image-title">Cloud Graphics</span> </a></li><li class="item-171 level-2"><a href="/ip-services/be-first"><img src="/images/New_Mega_Menu/ip_service2.png" alt="BeFirst"><span class="image-title">BeFirst</span> </a></li><li class="item-179 level-2"><a href="/ip-services/liveu-central"><img src="/images/New_Mega_Menu/ip_service8.png" alt="LiveU Central"><span class="image-title">LiveU Central</span> </a></li><li class="item-1164 level-2"><a href="/ip-services/newtek-ndi"><img src="/images/New_Mega_Menu/NDI-org_MM.png" alt="Newtek NDI Integration"><span class="image-title">Newtek NDI Integration</span> </a></li></ul></li><li class="item-183 level-1  deeper parent"><a href="/solutions">Solutions</a><ul class="wrap_mega nav-child small clearfix "><li class="item-188 level-2"><a href="/solutions/online-media"><img src="/images/New_Mega_Menu/solutions1.png" alt="Online Streaming"><span class="image-title">Online Streaming</span> </a></li><li class="item-919 level-2"><a href="/solutions/at-home-production"><img src="/images/New_Mega_Menu/at_Home_productin.png" alt="At-Home Production"><span class="image-title">At-Home Production</span> </a></li><li class="item-189 level-2"><a href="/solutions/sports"><img src="/images/New_Mega_Menu/sport_production.png" alt="Sports Production"><span class="image-title">Sports Production</span> </a></li><li class="item-184 level-2"><a href="/solutions/broadcast"><img src="/images/New_Mega_Menu/broadcast.png" alt="Broadcast Television"><span class="image-title">Broadcast Television</span> </a></li><li class="item-694 level-2"><a href="/solutions/roaming-solutions"><img src="/images/New_Mega_Menu/somming.png" alt="Roaming"><span class="image-title">Roaming</span> </a></li><li class="item-199 level-2"><a href="/solutions/vehicle-solutions"><img src="/images/New_Mega_Menu/Vehicle.png" alt="Vehicle"><span class="image-title">Vehicle</span> </a></li><li class="item-191 level-2"><a href="/solutions/satellite-solutions"><img src="/images/New_Mega_Menu/Setelilte.png" alt="Satellite"><span class="image-title">Satellite</span> </a></li><li class="item-190 level-2"><a href="/solutions/public-safety"><img src="/images/New_Mega_Menu/public_safaty.png" alt="Public Safety"><span class="image-title">Public Safety</span> </a></li><li class="item-1177 level-2"><a href="/solutions/5g"><img src="/images/New_Mega_Menu/5g.png" alt="5G"><span class="image-title">5G</span> </a></li></ul></li><li class="item-139 level-1"><a href="/events">Event Rentals</a></li><li class="item-145 level-1  divider deeper parent"><span class="separator">
 	News</span>
 <ul class="wrap_mega nav-child small clearfix childs_4"><li class="item-146 level-2"><a href="/liveu-news/press-releases"><img src="/images/New_Mega_Menu/Vector_Smart_Object_4.png" alt="Press Releases"><span class="image-title">Press Releases</span> </a></li><li class="item-192 level-2"><a href="/liveu-news/press-clippings"><img src="/images/New_Mega_Menu/Vector_Smart_Object_3.png" alt="Press Clippings"><span class="image-title">Press Clippings</span> </a></li><li class="item-193 level-2"><a href="/liveu-news/media-kit"><img src="/images/New_Mega_Menu/Vector_Smart_Object_2.png" alt="Media Kit"><span class="image-title">Media Kit</span> </a></li><li class="item-195 level-2"><a href="/liveu-news/trade-shows"><img src="/images/New_Mega_Menu/Vector_Smart_Object_1.png" alt="Trade Shows"><span class="image-title">Trade Shows</span> </a></li></ul></li><li class="item-690 level-1  divider deeper parent"><span class="separator">
 	Support</span>
 <ul class="wrap_mega nav-child small clearfix childs_4"><li class="item-981 level-2  divider deeper parent"><span class="separator">
 	<img src="/images/New_Mega_Menu/Vector_Smart_Object1.png" alt="LiveU Customers"><span class="image-title">LiveU Customers</span> </span>
-<ul class="wrap_mega nav-child small clearfix childs_4"><li class="item-985 level-3"><a href="/company/distributor">Contact Us</a></li><li class="item-986 level-3 new_tab"><a class="new_tab" href="http://know.liveu.tv/help">Knowledge Base</a></li><li class="item-987 level-3 new_tab"><a class="new_tab" href="http://know.liveu.tv/help/faqs">FAQ</a></li><li class="item-988 level-3 new_tab"><a class="new_tab" href="http://know.liveu.tv/help/troubleshooting">Troubleshooting</a></li></ul></li><li class="item-983 level-2  divider deeper parent"><span class="separator">
-	<img src="/images/Layer_133.png" alt="LiveU College"><span class="image-title">LiveU College</span> </span>
-<ul class="wrap_mega nav-child small clearfix childs_2"><li class="item-989 level-3 new_tab"><a class="new_tab" href="http://know.liveu.tv/help">Articles &amp; Downloads</a></li><li class="item-990 level-3 new_tab"><a class="new_tab" href="http://learn.liveu.tv/account/login/">Video Courses</a></li></ul></li><li class="item-982 level-2 new_tab"><a class="new_tab" href="http://partners.liveu.tv/"><img src="/images/New_Mega_Menu/Shape_7_copy_1.png" alt="Partners Portal"><span class="image-title">Partners Portal</span> </a></li><li class="item-984 level-2"><a href="/support/about-liveu-support"><img src="/images/New_Mega_Menu/Vector_Smart_Object_5.png" alt="About LiveU Support"><span class="image-title">About LiveU Support</span> </a></li></ul></li></ul>
+<ul class="wrap_mega nav-child small clearfix childs_2"><li class="item-985 level-3"><a href="/company/distributor">Contact Us</a></li><li class="item-987 level-3 new_tab"><a class="new_tab" href="http://know.liveu.tv/help/faqs">FAQ</a></li></ul></li><li class="item-983 level-2  divider deeper parent"><span class="separator">
+	<img src="/images/Layer_133.png" alt="Learning Platforms"><span class="image-title">Learning Platforms</span> </span>
+<ul class="wrap_mega nav-child small clearfix childs_2"><li class="item-990 level-3 new_tab"><a class="new_tab" href="http://learn.liveu.tv/account/login/">LiveUniversity</a></li><li class="item-986 level-3 new_tab"><a class="new_tab" href="http://know.liveu.tv/help">Knowledge Base</a></li></ul></li><li class="item-982 level-2 new_tab"><a class="new_tab" href="https://liveu.force.com/Partner/s/login/"><img src="/images/New_Mega_Menu/Shape_7_copy_1.png" alt="Partners Portal"><span class="image-title">Partners Portal</span> </a></li><li class="item-984 level-2"><a href="/support/about-liveu-support"><img src="/images/New_Mega_Menu/Vector_Smart_Object_5.png" alt="About LiveU Support"><span class="image-title">About LiveU Support</span> </a></li></ul></li></ul>
 
                     </div>    
                     <div class="logo ">					
@@ -435,11 +387,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="footer_link">
                         <!-- BEGIN: Custom advanced (www.pluginaria.com) -->
 <ul>
-<li><a target="_blank" class="fa fa-facebook" href="https://www.facebook.com/LiveU.Fans"></a></li>
+<li><a class="share-facebook" target="_blank" href="https://www.facebook.com/LiveU.Fans"></a></li>
 <li><a class="fa fa-twitter" target="_blank" href="https://twitter.com/LiveU"></a></li>
-<li><a target="_blank" class="fa fa-youtube" href="https://www.youtube.com/user/liveUtv"></a></li>
-<li><a target="_blank" class="fa fa-google-plus" href="https://plus.google.com/+LiveuTv/posts"></a></li>
-<li><a target="_blank" class="fa fa-instagram" href="https://www.instagram.com/liveutv/"></a></li>
+<li><a target="_blank" class="share-youtube" href="https://www.youtube.com/user/liveUtv"></a></li>
+<li><a target="_blank" class="share-instagram" href="https://www.instagram.com/liveutv/"></a></li>
 <li><a target="_blank" class="fa fa-linkedin" href="https://www.linkedin.com/company/liveu"></a></li>
 </ul><!-- END: Custom advanced (www.pluginaria.com) -->
 
