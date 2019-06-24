@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the projectbubble.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219025616id_/https%3A//www.proprofs.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectbubble.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184733id_/https%3A//www.proprofs.com/policies/privacy) for the most accurate reproduction.*
 
 # ProProfs - Knowledge Management Software
+
+Effective Date: May 21, 2018 
+
+## Data Controller Contact Information
+
+Batia Infotech   
+[ProProfs.com](https://www.proprofs.com/)   
+929 Colorado Ave   
+Santa Monica, CA 90401   
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dcacaeb5aabdbfa59cacaeb3acaeb3baaff2bfb3b1)
 
 This privacy notice states our policies with respect to our website at the URL: [www.ProProfs.com](https://www.proprofs.com/), and any of its associated websites, including but not limited to live2support.com, helpdocsonline.com, and projectbubble.com, which Batia Infotech may change from time to time at its discretion, (collectively, the “Website”), the services offered thereby, and your personal data. It states what personal data (PD) and non-personal data (NPD) we may collect from you, how we collect it, how we protect it, how we may share it, how you can access and change it, and how you can limit our sharing of it. Our privacy notice also explains certain legal rights that you have with respect to your personal data. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website. 
 
@@ -111,7 +121,7 @@ Our website contains chat software that enable visitors to communicate with us l
 
 ###### Your California Privacy Rights
 
-Under California Civil Code Section 1798.83 our customers and users who are California residents are permitted to request certain information about the types of information shared by Batia Infotech with third parties for their direct marketing purposes and the identities of those third parties. To make such a request, please send an email to: [privacy@proprofs.com](mailto:privacy@proprofs.com)
+Under California Civil Code Section 1798.83 our customers and users who are California residents are permitted to request certain information about the types of information shared by Batia Infotech with third parties for their direct marketing purposes and the identities of those third parties. To make such a request, please send an email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4c4c6ddc2d5d7cdf4c4c6dbc4c6dbd2c79ad7dbd9)
 
 ## Our Use of Cookies
 
@@ -194,7 +204,7 @@ We use the information we receive from you to:
 
 ### Communications and Emails
 
-When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: [privacy@proprofs.com](mailto:privacy@proprofs.com)
+When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0373716a7562607a4373716c73716c65702d606c6e)
 
 ### Sharing Information With Affiliates and Other Third Parties
 
@@ -222,7 +232,7 @@ You can update your PD using services found on our website. If no such services 
 
 ## Revoking Your Consent for Using Your PD 
 
-You have the right to revoke your consent for us to use your PD at any time. Such an opt out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates and business partners, (ii) disclosures to third-party service providers that provide certain services for our business, such as credit card processing, computer system services, shipping, data management services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept. If you want to revoke your consent for us to use your PD, send us an email with your request to: [privacy@proprofs.com](mailto:privacy@proprofs.com)
+You have the right to revoke your consent for us to use your PD at any time. Such an opt out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates and business partners, (ii) disclosures to third-party service providers that provide certain services for our business, such as credit card processing, computer system services, shipping, data management services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept. If you want to revoke your consent for us to use your PD, send us an email with your request to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5323213a2532302a1323213c23213c35207d303c3e)
 
 ## Protecting the Privacy Rights of Third Parties
 
@@ -264,4 +274,4 @@ We reserve the right to change this privacy notice at any time. If our company d
 
 ## Questions About Our Privacy Notice
 
-If you have any questions about our privacy notice, please contact us using the information at the top of this privacy notice or email us at [privacy@proprofs.com](mailto:privacy@proprofs.com).
+If you have any questions about our privacy notice, please contact us using the information at the top of this privacy notice or email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b6c6c4dfc0d7d5cff6c6c4d9c6c4d9d0c598d5d9db).
