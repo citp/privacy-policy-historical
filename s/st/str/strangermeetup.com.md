@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the strangermeetup.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315112826id_/https%3A//strangermeetup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strangermeetup.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624024553id_/https%3A//strangermeetup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for StrangerMeetup
 
-Last updated: February 25, 2015
+Last updated: May 21, 2018
 
 Stranger ("us", "we", or "our") operates the [StrangerMeetup.com](https://strangermeetup.com/) website (the "Service").
 
