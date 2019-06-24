@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativemarket.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227140340id_/https%3A//creativemarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativemarket.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624130701id_/https%3A//creativemarket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Creative Market
 
@@ -8,7 +8,7 @@ This Privacy Policy was last modified and published on May 22, 2018 and will tak
 
 The previous version of this policy can be viewed [here](https://web.archive.org/privacy/v1).
 
-Creative Market Labs, Inc. ("Creative Market," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Creative Market when you use the Creative Market Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. This Privacy Policy applies to our Service, which includes [www.creativemarket.com](https://web.archive.org/web/20181227140340id_/https%3A//creativemarket.com/www.creativemarket.com), and its sub-domains such as [pro.creativemarket.com](https://web.archive.org/web/20181227140340id_/https%3A//creativemarket.com/pro.creativemarket.com), also referred to as " **Site** ". We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms).
+Creative Market Labs, Inc. ("Creative Market," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Creative Market when you use the Creative Market Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. This Privacy Policy applies to our Service, which includes [www.creativemarket.com](https://web.archive.org/web/20190624130701id_/https%3A//creativemarket.com/www.creativemarket.com), and its sub-domains such as [pro.creativemarket.com](https://web.archive.org/web/20190624130701id_/https%3A//creativemarket.com/pro.creativemarket.com), also referred to as " **Site** ". We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms).
 
   
 
@@ -21,7 +21,7 @@ Creative Market Labs, Inc. ("Creative Market," "we," or "us") knows that you car
 
 **Log File Information:** Log file information is automatically reported by your browser each time you access a web page. Please see here for [Information About Our Use of Cookies And Similar Technologies](https://web.archive.org/cookiepolicy).
 
-**Third Party Analytics Services:** Creative Market uses third party analytics services. See here for how Google uses data when you use our Service and how you may opt out ([www.google.com/policies/privacy/partners/](https://web.archive.org/web/20181227140340id_/https%3A//creativemarket.com/www.google.com/policies/privacy/partners/)). We also use [LinkedIn Analytics](https://www.linkedin.com/legal/privacy-policy), [Sift Science](https://siftscience.com/service-privacy), [Segment](https://segment.com/docs/legal/privacy/), and [New Relic](https://newrelic.com/privacy). Please see here for [Information About Our Use of Cookies And Similar Technologies](https://web.archive.org/cookiepolicy).
+**Third Party Analytics Services:** Creative Market uses third party analytics services. See here for how Google uses data when you use our Service and how you may opt out ([www.google.com/policies/privacy/partners/](https://web.archive.org/web/20190624130701id_/https%3A//creativemarket.com/www.google.com/policies/privacy/partners/)). We also use [LinkedIn Analytics](https://www.linkedin.com/legal/privacy-policy), [Sift](https://sift.com/service-privacy), [Segment](https://segment.com/docs/legal/privacy/), and [New Relic](https://newrelic.com/privacy). Please see here for [Information About Our Use of Cookies And Similar Technologies](https://web.archive.org/cookiepolicy).
 
 **Social Network and Platform Integration.** The Service may be integrated with social media networks and other platforms (e.g., Facebook, Pinterest, and LinkedIn) whereby information may be shared between us and those platforms. For instance, if you interact with our Service through a social media feature such as a plug-in, then you may be granting us on-going access to certain information from that social media account. If you do not want a social media platform to collect or share information about you, please review the privacy policy and privacy settings of the applicable social media property before using such features on our Service. Please see here for [Information About Our Use of Cookies And Similar Technologies](https://web.archive.org/cookiepolicy).
 
@@ -166,16 +166,16 @@ We may update its Privacy Policy from time to time, and so you should review thi
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this website, please contact us at [privacy@creativemarket.com](mailto:privacy@creativemarket.com), or send mail to:
 
 Creative Market Labs, Inc.  
-50 Pacific Ave  
-San Francisco, CA 94111
+600 Congress Ave, 14th Floor  
+Austin, TX 78701
 
 VeraSafe has been appointed as Creative Market's representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. VeraSafe can be contacted, in addition to Creative Market's contact information above, **only** on matters related to the processing of personal data. To make such an inquiry, please contact VeraSafe using this contact form: <https://www.verasafe.com/privacy-services/contact-article-27-representative>
 
 Alternatively, VeraSafe can be contacted at:
 
-Matthew Joseph  
-Zahradníčkova 1220/20A  
-Prague 15000  
+VeraSafe Czech Republic s.r.o  
+Klimentská 46  
+Prague 1, 11002  
 Czech Republic
 
 VeraSafe Ireland Ltd  
