@@ -1,119 +1,112 @@
-> *The following text is extracted and transformed from the dailyhoroscope.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515193622id_/http%3A//dailyinsightgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyhoroscope.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624224535id_/https%3A//www.tarot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Daily Insight Group
+# Tarot.com's Privacy Policy
+
+Jan 2, 2019 [ ](https://web.archive.org/bios/tarot.com-staff "Tarot.com Staff")
+
+Effective January 17, 2017; Last Updated: July 17, 2018
 
 Tarot.com may gather information for the following reasons:
 
-## Account Creation
+### Introduction
 
-When creating an account while using this website, we request certain Personally Identifiable Information (PII) from you on the registration form. During registration you [are required to] give contact information such as your first name, email address, and password in order to customize and protect what are essentially private experiences. We use this information to contact you about the services on our site in which you have expressed interest.
+This Privacy Statement applies to the websites owned and operated by Zappallas, Inc., ("Zappallas", "we", "our", or "us"), including [Tarot.com](https://web.archive.org/), [Numerology.com](https://www.numerology.com/), [Dailyhoroscope.com](https://www.dailyhoroscope.com/), [Twittascope.com](https://www.twittascope.com/) and [Zappallas](https://www.zappallas-usa.com/). This Privacy Statement not only applies to our websites but also Zappallas' applications and services that collect personal data and display these terms (collectively the "Platforms"). This Privacy Statement does not apply to any Zappallas Platforms that do not display or link to this statement or that contains its own privacy statement.
 
-You have the option to provide demographic information (such as gender and birth date) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site. We collect personal information to allow us to personalize Horoscopes, [ **Astrology and Numerology reports, Tarot and I Ching readings**](http://www.tarot.com/readings-reports) — while also providing ways for you to customize your experience on our website. We take extraordinary precautions to keep all customer information, including email addresses, secure. We want you to be able to use our site as a personal resource for as long as you want, with complete confidence. Your unique user login and password protect your stored readings and reports, so that you — and only you — can access them any time.
+Zappallas is committed to protecting your privacy in a number of ways including using industry accepted security measures to protect against loss, misuse and alteration of data in our systems. This statement is designed to describe how we secure and maintain your personal data when you visit our Platforms or when your personal data is collected during your use of the Platforms. Rest assured, your personal data will never be sold, rented, traded, shared or leased other than as outlined in this Privacy Statement. 
 
-If you provide us with personal information about others, or if others give us your information, (for example a name and birth date to complete a reading) we will only use that information for the specific reason for which it was provided to us.
+Zappallas does not publish text, images, or multimedia content that portray nudity, foul language, violence or other data not suitable for children. Our Platforms are not directed to children under the age of 13. Where we discover that personal information of an individual under 13 has been provided to us, we will use reasonable efforts to remove such information from our systems. 13. We are committed to complying with applicable privacy laws and adhering to appropriate measures to ensure security of personal data. 
 
-## Customization/Preference Settings
+### Collection And Use Of Data
 
-Based on your chosen settings, you may access custom readings and other special features of the site without having to log in each time. Registrants will enjoy the benefits of customization, based on preferences they have specified to the website (for saved readings, a favorite Tarot deck, etc.).
+**_Data Collection From You_**
 
-Subscribe to our Emails and Newsletters: We Adhere to a Strict Anti-Spam Policy
+**Data You Provide Us.** We collect data directly from you when you register for our Platforms, personalize your account or pay for services or products through our Platforms. For instance, when you create an account with us you may be required to provide a name, email address and birthdate in order for us to provide you with products and services through our Platforms. In addition, to provide you with a more individualized experience, like a personalized horoscope, astrology, tarot or numerology report, you may wish to provide your birth location, zip code, astrological sign, gender, and other related data. Where you choose to purchase products or services, including Karma Coins® tokens, gift certificates and expert readings, we will collect credit card (and PayPal) data such as credit card numbers, expiration date and billing address, but this data is sent directly to our payment processors and is never stored or otherwise retained by Zappallas.
 
-At Tarot.com we are 100 percent committed to protecting your privacy. We won’t send you emails if you don’t want to receive them, either.
+**Data We Automatically Collect.** When you interact with our Platforms we may collect data about you through automated means such as your mobile phone number, unique device ID, device type, machine ID, geolocation data, computer and connection data, browser type, IP address, domain name, and date and time stamps for your visits. We may also collect data associated with your use of our Platforms, including data about the way you interact with our Platforms or any content or advertising included on our Platforms, your page views and traffic to and from our Platforms, hyperlinks clicked, and the URL you visited before and after you use the Platforms. As is the case with most websites, we also employ cookies, pixel tags, web beacons, and similar technologies within our Platforms to collect and store certain data about users, to improve our Platforms and advertising, and to help us remember you and your preferences when you revisit our Platforms. Please see our [Cookie Policy](https://web.archive.org/cookie-policy) for more information about what we automatically collect from you.
 
-When you first [ **sign up on our sites**](http://www.tarot.com/signup), we send out an email welcoming you and confirming your login name and password. Unless you choose to unsubscribe — which you can do from within that email — you will also receive an occasional Special News email from Tarot.com. This is our way of notifying you about free readings, special gift offers, new reports or feature updates. You can easily unsubscribe from these at any time and still be able to receive horoscopes by email if you like.
+**Data Collected by Third Parties.** We may incorporate third party ads, offerings, and other technologies (such as plugins, pixels, and cookies) into our Platforms, enabling third parties to collect usage, demographic, and other data (including personal data) about you and your online activities through your use of our Platforms and across other websites and applications. Any data collected through such integrated ads or technologies is collected directly by those third parties for use and disclosure and is subject to the third party's privacy policies. Please see our [ Cookie Policy](https://web.archive.org/cookie-policy) for more information about third party cookies. 
 
-If you decide at any time that you want to stop receiving our member-benefits emails, you can opt-out by clicking on the Unsubscribe link at the end of every email or by visiting the “About You” area of the website.
+**Data Provided to Social Networking Sites.** Some of our Platforms may offer you the ability to connect to your social networking accounts (“SNS”) such as Twitter or other social networking sites directly from our Platforms to the SNS or from the SNS to our Platforms. Where you choose to connect your account with a SNS we may receive or access data about you from the SNS if you post or otherwise share data on the SNS connected to your account. Please remember that any data you post to an SNS will be accessible by any users of the SNS and subject to the SNS's terms of service and privacy policy. 
 
-You may also control whether or not you subscribe to our [ **Daily Horoscope newsletter, Weekly Love Horoscope newsletter and any other content newsletters**](http://product.tarot.com/about-you/emails/) that may be offered in the future. This same privacy policy applies to those newsletters — in essence, we do not want to send you emails that you do not want — you are in control!
+**_How We Use Your Data_**
 
-If you are subscribed to our Special News list, we may also send out special offer emails on behalf of select partners and advertisers that we feel are of interest to our members. Each of these mailings will provide you with an easy way to unsubscribe. They will come from Tarot.com on behalf of these select third parties. You can opt-out of partner mailings while still continuing to receive Tarot.com special offers, horoscopes, newsletters, etc. If you choose to unsubscribe to any of our email lists, but in the future decide you would like to start receiving them again, you can easily re-subscribe under “About You” at any time. But until then, you can rest assured that we will honor your preference by removing your name from the internal lists that you specify.
+We use your data to provide you with products and services including fulfilling orders (including process payment), responding to inquiries or customer service requests, administering your account, and displaying content based upon your interests. In addition, we may use your data to market our products, Platforms, promotions, and offers which we feel you may find interesting, provided you have not opted out of receiving such data or, where required by law, we have your express consent. We may also use your data to understand general customer trends and patterns and improve our Platforms.
 
-## Legal Process
+**_How We Share Your Data_**
 
-Except as described in this policy, Tarot.com will not share the personal information you provide to us with non-third parties without your permission, unless to: 1) respond to duly authorized information requests of police and governmental authorities; 2) comply with any law, regulation, subpoena, or court order; 3) investigate and help prevent security threats, fraud or other malicious activity; or 4) enforce and or protect the rights and properties of Tarot.com and its partners.
+**Third Party Service Providers.** We may disclose your personal data to third-party service providers who perform services on our behalf including third parties that process payments; send marketing communications on our behalf; help us create or maintain our databases or help us research or analyze use of our Platforms. We require our service providers get your prior consent to use your data to market their own products or services to you directly. When we transfer any of your personal data to a service provider, the provider will be contractually required to use your data only to carry out the services we have requested, to provide appropriate protection of your data and to comply with applicable laws and regulations.
 
-## Information Gathered for Customization, Purchasing & Ad Serving  
-Product Purchases / Ecommerce
+**Third Party Partners.** We may share data with our third party partners including advertising partners. When we do, we will either aggregate (combine the data of numerous people together so that the data does not identify you) or de-identify (remove or change data to prevent association with you) your personal data so that the third party will not be able to associate that data to you, your computer, or your device. 
 
-Purchasing online at Tarot.com is secure. The purchase of  **[Karma Coins® tokens, gift certificates and expert readings](https://product.tarot.com/secure/karma/) **requires no personal information other than name and credit card number, expiration date, etc. You can update your credit card information during the purchase process. To update or edit your profile information immediately, login to the [site](http://www.tarot.com/member/profile).
+**SNSs and Third Parties Using Integrated Technology.** As discussed above, data collected about you via third party ads, SNSs connected to your account, and other third party integrated technologies (such as plugins, pixels, and cookies) is collected directly by, and therefore disclosed to, the third party or SNS. Any such data is subject to the third party or SNSs privacy policy. Please see our [Cookie Policy](https://web.archive.org/cookie-policy) for more data about what we automatically collect from you.
 
-You can also email  **[support@tarot.com ](mailto:support@tarot.com)**and your request will be handled within 30 days. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+**To Comply with Legal Process.** In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We reserve the right to disclose your personal data as required by law and when we believe that disclosure is necessary to protect our rights or comply with a judicial proceeding, court order, or legal process served on us.
 
-If you have any questions about security on our website, you can email us at **[support@tarot.com](mailto:support@tarot.com)**. We make our best effort to ensure that your data is safe. All of our databases are housed in a secure datacenter with restricted access. Our servers are housed behind industry standard firewalls using the latest encryption technology. Our secure system stores some of this information for your convenience in the future. If you need to update this information, please see the ‘Updating/Accessing/Amending/Correcting Personally Identifiable Information’ below.
+**Third Parties to a Business Transaction.** In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal data will likely be among the assets transferred. You will be notified via prominent notice on our Platforms for 30 days of any such change in ownership or control of your personal data.
 
-The large majority of the information we collect is anonymous, but allows us to zoom in on characteristics relevant to advertisers. Examples of these characteristics include demographic information or online behavior information. We may collect anonymized information about you in several ways. One way is by your interaction with us. For example, when you click on an advertisement we display on a website or in an email we send to you, we may record the IP address of the device you use. We may also purchase anonymized information from other companies so that we can try to provide consumers with more relevant advertisements. This anonymized information might include the kinds of products consumers, including you, have purchased in the past, or purchased after clicking on one of our advertisements.
+Where we want to share data with third parties not described above, we will obtain your consent to do so.
 
-We partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. These companies are authorized to use your personal information  _only as necessary to provide these services to us._
+### Storing And Accessing Your Data
 
-## Log Files
+**_How We Store And Secure Your Data_**
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+Zappallas will take appropriate precautions to protect personal data in our possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. We are committed to complying with applicable privacy laws and adhering to appropriate measures to ensure security of personal data. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+**_Updating Or Making Choices About Your Data_**
 
-We do not link this automatically-collected data to personally identifiable information.
+If your personal data changes or if you no longer desire to use our Platforms, you may correct, update, or delete data about you by logging into your account profile on the applicable Service and making changes within your account settings. You may also email us or contact us by postal mail at the contact information listed below. We will respond to your request to access within 30 days of receiving the request.
 
-## Cookies and Beacons
+If you decide at any time that you no longer wish to have your Twitter® or other SNS account linked to your Platforms account, you must de-link the SNS by logging into your profile for such SNS and changing your preferences. Please refer to the privacy settings of the SNS to determine how to adjust our permissions and manage the interactivity between our Platforms and your social media account.
 
-Cookies and web beacons are small text files that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+You can choose to stop receiving personalized emails, promotional emails and newsletters from us at any time simply by following the email preference link at the bottom of any email or newsletter, or by logging into your profile on the applicable Platform and changing your account preferences. Please note that in order to continue servicing your account, you may not opt out of receiving non-promotional emails regarding your account or your transactions with us.
 
-We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+We will retain your data for as long as your account is active or as needed to provide the Platforms. We will retain and use your data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+### Do Not Track Signals
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+At this time, our Platforms do not support "Do Not Track" preferences that may be available in your browser. For more information about Do Not Track, visit [donottrack.us](https://www.eff.org/issues/do-not-track).
 
-## Third-Party Cookies
+### Linked Websites
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. We do not have access or control over these cookies.
+Our Platforms may contain links to other websites that are not covered by this statement and where data practices may be different from ours. If you submit personal data to any of those sites, your data is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
 
-Some of our partners may use cookies to track views of advertisements viewed on our websites or within their online services. You can learn more about opting-out of cookies at www.aboutads.info/choices. Additionally, we may use other new and evolving sources of information and information gathering in the future to assist our business partners in delivering relevant advertisements.
+### Additional Disclosures For Users Based in the European Union
 
-As a company that uses data to deliver value to business partners, such as advertisers and publishers, we may sell or share data we collect. We will only sell or share information with a third party, if that third party agrees to use the information according to applicable law, or if we are required to share such information by law, terms of service, or other requirements.
+The European Union’s General Data Protection Regulation and other data protection laws grant you certain rights in relation to your personal data. Where applicable to you, you can:
 
-Third-Party Advertising
+• request access to your personal data and how we process it   
 
-The ads appearing on this website are delivered to you by DFP, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad, is used to serve ads to you. For more information about DFP, cookies, and how to “opt-out”, visit  **[Digital Advertising Alliance’s (DAA) Consumer Choice](http://www.aboutads.info/choices)**. _ _
 
-## Surveys
+• request correction of the personal data that we hold about you  
 
-Demographic information that is accepted on a voluntary basis via surveys is stored anonymously.
 
-## Blogs
+• ask us to delete your personal data   
 
-If you use our blog on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forms.
 
-## Personal Online Journals
+• object to us processing your personal data   
 
-All full-sized readings and reports are saved for users in “[ **Your Readings and Reports Journal**](http://product.tarot.com/about-you/journal/),” which you can find under the “About You” menu on every regular page of the website. This information — which consists of Tarot readings, I Ching readings and Astrology and Numerology reports — is saved for your convenience or analysis only, and any items in your Journal can be easily modified by you anytime you want. These items are completely protected by your password and are not used by anyone else for any purpose.
 
-## Links to Other Sites
+• request the restriction of processing of your personal data   
 
-If you click on a link to a third-party site, (including on an advertisement), you will leave one of our DIG sites you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as DIG. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third-party website that is linked to a DIG property, you should read that site’s privacy statement before providing any personally identifiable information.
 
-In order to provide you with a seamless experience, we may utilize a framing technique to make it appear that you are on our site; however, you may actually be on a third-party website. Again, if you visit a third-party website that is linked to a DIG property, you should read that site’s privacy statement before providing any personally identifiable information.
+• request the transfer of your personal data to you or to a third party   
 
-## Updating/Accessing/Amending/Correcting Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update or edit your profile information immediately, login to the site and  **[use this link](http://www.tarot.com/member/profile)**. You can also email  **[support@tarot.com](mailto:support@tarot.com) **or contact us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+• withdraw consent at any time where we are relying on consent to process your personal data.
 
+Note that withdrawing your consent to our processing of your data will not affect the lawfulness of any processing carried out before you withdraw your consent. You should also be aware that if you do withdraw your consent, we may not be able to provide certain Platforms to you. Where this is the case, we will let you know at the time you withdraw your consent. Please note that even after you have withdrawn your consent we may be able to continue to process your personal data to the extent required or otherwise permitted by law, in particular in connection with exercising and defending our legal rights or meeting our legal and regulatory obligations. 
+
+Please also note that in some cases, as we have previously noted within this Privacy Statement, you are able to access, correct and update your personal data directly by logging into your account. Should you need additional assistance, please contact us by [email](mailto:support@tarot.com).
+
+### Changes To This Privacy Statement
+
+Any updates or changes to this Privacy Statement will be posted to this Privacy Statement, and across our Platforms including out websites' home pages, on our app, and other places we deem appropriate so that you are aware of what data we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this Privacy Statement, we will notify you here, by e-mail, or by means of a notice as described in this paragraph, prior to the change becoming effective.
+
+### Where To Contact Us
+
+If you have any questions or concerns regarding this Privacy Statement, please contact us at: 
+
+Zappallas, Inc.  
 7412 SW Beaverton Hillsdale Hwy, Suite 102  
 Portland, Oregon 97225  
-503-802-7935
-
-## Changes in This Privacy Statement
-
-We may amend this privacy policy from time to time. Changes to the policy will be posted on our website. We encourage you to review our privacy policy periodically, because by visiting our website you agree to accept any such changes. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, on the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-## Contact Us
-
-If you have any questions or suggestions regarding our privacy policy, please contact us at our corporate offices.
-
-Daily Insight Group  
-7412 SW Beaverton Hillsdale Hwy, Suite 102  
-Portland, Oregon 97225  
-Phone: 503-802-7935  
-Fax: 503-244-7749  
-Email:  **[support@tarot.com](mailto:support@tarot.com)**
+[Email Us](mailto:support@tarot.com)
