@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getfeedback.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722112555id_/https%3A//www.getfeedback.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfeedback.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624203438id_/https%3A//www.getfeedback.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - GetFeedback
 
-_Last Updated April 25, 2018_
+_Last Updated February 19, 2019_
 
 ### OVERVIEW
 
@@ -49,7 +49,7 @@ We participate in and comply with the EU-US Privacy Shield and Swiss-US Privacy 
 
 #### 1.1 About Us
 
-GetFeedback, Inc. is a company headquartered in San Francisco in the United States. We provide survey and customer experience software products and services that allow our Customers and their Users (the creators of the surveys) to build and send out surveys to Respondents and collect their Response Data. Through our platform, our Customers can also collect and manage the Response Data in real time and create intelligent alerts to help our Customers get better feedback from their Respondents. You can find out more about us and our products [here](https://www.getfeedback.com/about-us). 
+GetFeedback, Inc. is a company headquartered in San Francisco in the United States. We provide survey and customer experience software products and services that allow our Customers and their Users (the creators of the surveys) to build and send out surveys to Respondents and collect their Response Data. Through our platform, our Customers can also collect and manage the Response Data in real time and create intelligent alerts to help our Customers get better feedback from their Respondents. You can find out more about us and our products [here](https://www.getfeedback.com/about-us).
 
 #### 1.2 Key Terms
 
@@ -57,7 +57,7 @@ In this Notice, these expressions have the following means:
 
 " **Customer** " means the entity to whom we have contracted to provide the Services, which if you are a User, generally refers to the entity of which you are an employee, contractor, member or other participant.
 
-" **Respondent** " means any survey taker. 
+" **Respondent** " means any survey taker.
 
 " **Respondent Data** " means any information or other content provided, submitted or otherwise made accessible by a Respondent through the Services.
 
@@ -83,7 +83,7 @@ The personal information we collect about you broadly falls into the following c
 
 The information you provide to us, includes:
 
-  * **Registration Information:** You need a GetFeedback account to use the Services as a User. When you register for an account, we ask you to provide contact information such your name, telephone number, job title, and organization name. 
+  * **Registration Information:** You need a GetFeedback account to use the Services as a User. When you register for an account, we ask you to provide contact information such your name, telephone number, job title, and organization name.
 
   * **Billing Information:** If you purchase our Services, you may also need to provide us with payment and billing information such as your credit card details and billing address. We will also maintain a record of your purchases, transactional information, your Services history and usage, and any communications and responses.
 
@@ -108,7 +108,7 @@ The information you provide to us, includes:
 
   * To screen for and prevent undesirable or abusive activity. For example, we have automated systems that screen content for phishing activities, spam, and fraud.
 
-  * To respond to legal requests or prevent fraud, we may need to disclose any information or data we hold about you. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond. 
+  * To respond to legal requests or prevent fraud, we may need to disclose any information or data we hold about you. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
 
 
 
@@ -117,7 +117,7 @@ The information you provide to us, includes:
 
 The information we automatically collect through the Services includes:
 
-  * **Device Information:** We collect information from your device and applications you use to access our Services, such as your IP address, device attributes (for example: hardware model, operating system, web browser version, as well as unique device identifiers and characteristics), connection information (for example, name of your mobile operator or Internet Service Provider, browser type, language and time zone, and mobile phone number); and device locations (for example, internet protocol (IP) addresses and Wi-Fi information). 
+  * **Device Information:** We collect information from your device and applications you use to access our Services, such as your IP address, device attributes (for example: hardware model, operating system, web browser version, as well as unique device identifiers and characteristics), connection information (for example, name of your mobile operator or Internet Service Provider, browser type, language and time zone, and mobile phone number); and device locations (for example, internet protocol (IP) addresses and Wi-Fi information).
 
   * **Log data:** Our web servers keep log files that record data each time a device accesses those servers and those log files contain data about the nature of each access, including originating IP addresses. We may also access metadata and other information associated with files that you upload into our Services, such as images.
 
@@ -181,7 +181,7 @@ The information we automatically collect through the Services includes:
 
 
 
-We only use and process this information to provide the Services in accordance with our Customer's instructions. 
+We only use and process this information to provide the Services in accordance with our Customer's instructions.
 
 **RESPONDENTS**
 
@@ -204,7 +204,7 @@ The information we automatically collect through the Services may include:
 
   * **Device Information:** We collect information from your device and applications you use to access our Services, such as your IP address, device attributes (for example: hardware model, operating system, web browser version, as well as unique device identifiers and characteristics), connection information (for example, name of your mobile operator or Internet Service Provider, browser type, language and time zone, and mobile phone number); and device locations (for example, internet protocol (IP) addresses and Wi-Fi information).
 
-  * **Information relating to your use of the Services:** We collect usage data about you whenever you interact with our Services, which may include the dates and times you access the Services, page views, which activities and features are used of our Services (including which GetFeedback surveys you complete), and technical data relating to devices accessing and using the Services and the performance of the Services in doing so. 
+  * **Information relating to your use of the Services:** We collect usage data about you whenever you interact with our Services, which may include the dates and times you access the Services, page views, which activities and features are used of our Services (including which GetFeedback surveys you complete), and technical data relating to devices accessing and using the Services and the performance of the Services in doing so.
 
   * **Information from page tags:** Emails sent by or behalf of our Users through the Services include page tags (also known as web beacons) that allow the sender to collect information about who opened those emails and clicked on links in them. We provide more information on cookies below.
 
@@ -236,7 +236,7 @@ _**Examples of how we use this information:**_
 
   * **To screen for and prevent undesirable or abusive activity. For example, we have automated systems that screen content for phishing activities, spam, and fraud.**
 
-  * **Legal uses.** To respond to legal requests or prevent fraud, we may need to disclose any information or data we hold about you. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond. 
+  * **Legal uses.** To respond to legal requests or prevent fraud, we may need to disclose any information or data we hold about you. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
 
 
 
@@ -289,7 +289,7 @@ If you have questions about or need further information concerning the legal bas
 
 #### 2.5 Data Retention
 
-We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements). 
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
@@ -352,7 +352,7 @@ In the following limited situations, we may disclose information that we collect
 
 #### 3.4 Data Retention
 
-We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements). 
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
@@ -419,7 +419,7 @@ Under certain conditions, more fully described on the [Privacy Shield website](h
 
 #### 4.6 Changes to this Privacy Notice
 
-We may revise this Notice from time to time in response to changing legal, technical or business developments. The most current version of this Notice will govern your use of your personal information. If we make any material changes to this Notice, we will post the updated version here and notify applicable Users by email or by means of a prominent notice on our Website. You can see when this Notice was last updated by checking the “last updated” date displayed at the top of this Notice. We will seek your consent to any material changes to this Notice if and where required by applicable law. 
+We may revise this Notice from time to time in response to changing legal, technical or business developments. The most current version of this Notice will govern your use of your personal information. If we make any material changes to this Notice, we will post the updated version here and notify applicable Users by email or by means of a prominent notice on our Website. You can see when this Notice was last updated by checking the “last updated” date displayed at the top of this Notice. We will seek your consent to any material changes to this Notice if and where required by applicable law.
 
 #### 4.7 Contact Us
 
@@ -427,12 +427,9 @@ Thanks for taking the time to learn about our privacy policy. We hope it was cle
 
 GetFeedback, Inc.
 
-Address:  
-631 Howard Street Suite 500  
-San Francisco, CA 94105 
+Address: 123 Mission St, Floor 26 San Francisco, CA 94105
 
-Email:  
-[privacy@getfeedback.com](mailto:privacy@getfeedback.com)
+Email: [privacy@getfeedback.com](mailto:privacy@getfeedback.com)
 
 **Important note:** If you are resident in the EEA, the "data controller" of your personal information is GetFeedback, Inc.
 
@@ -442,6 +439,7 @@ Email:
 
 ### Archived Versions of Privacy Notice
 
+  * [April 25, 2018 - February 19, 2019](https://web.archive.org/privacy?v=20180425)
   * [December 6, 2017 - April 25, 2018](https://web.archive.org/privacy?v=20171206)
   * [November 21, 2017 - December 6, 2017](https://web.archive.org/privacy?v=20171121)
   * [April 19, 2017 - November 21, 2017](https://web.archive.org/privacy?v=20170419)
