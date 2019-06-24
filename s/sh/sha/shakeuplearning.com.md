@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shakeuplearning.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216182207id_/https%3A//shakeuplearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shakeuplearning.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624191112id_/https%3A//shakeuplearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shake Up Learning
 
@@ -14,15 +14,15 @@ So, my commitment to you is simple… I will not send you irrelevant emails.
 
 All of the blog posts from Shake Up Learning in an email newsletter that will land in your inbox 1-2 time/week. This email will keep you up-to-date with all things Shake Up Learning, including free resources, tips, podcasts, online courses, and more!
 
-**Special offers from my sponsors**
+ **Special offers from my sponsors**
 
 You might also receive special offers that I have hand-picked from companies I trust. These are paid placements to help me pay the bills but I keep tight control on what passes through to my email subscribers because you are valuable to me.
 
-**Goodies for subscribers**
+ **Goodies for subscribers**
 
 As a reward to the faithful followers of Shake Up Learning, I offer subscriber-only free printables and ebooks. These offers are subject to change at any time with a new freebie available every 1 to 3 months.
 
-**What I will NEVER do**
+ **What I will NEVER do**
 
 You have my promise that I will NEVER…
 
@@ -50,8 +50,6 @@ Accordingly, we have developed this Policy in order for you to understand how we
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-**Contacting Us**
-
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.shakeuplearning.com  
@@ -61,7 +59,3 @@ United States
 Texas  
 75071  
 kasey@shakeuplearning.com
-
-### 18 Challenges for Teachers in 2018 FREE eBook!
-
-Get the FREE eBook: 18 Challenges for Teachers in 2018! Simply fill out this form and we will send you the 83-page PDF ebook.
