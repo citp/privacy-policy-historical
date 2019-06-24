@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huntington.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227143857id_/https%3A//www.huntington.com/Privacy-Security/privacy-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntington.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625001317id_/https%3A//www.huntington.com/Privacy-Security/privacy-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Huntington
 
