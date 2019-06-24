@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226072412id_/https%3A//www.theclymb.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624044356id_/https%3A//www.theclymb.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | The Clymb
 
@@ -8,7 +8,7 @@
 
 ## Secure Ordering:
 
-Protecting your online order information on the Site is very important to us. In our shopping checkout process, we use Transport Layer Security (TLS), the industry-standard encryption technology that ensures the safety and security of your online order. When the letters "http" in the URL address change to "https," the "s" indicates you are in a secure area employing TLS. Making a credit card purchase is just as safe on our Site as it is by telephone. If you prefer to order merchandise from the website by phone, please call us toll-free [1 (877) 464-6936](tel:1-877-464-6936). For our customer service hours of operation visit [Customer Care](https://web.archive.org/web/20181226072412id_/https%3A//www.theclymb.com/ccare_main.aspx).
+Protecting your online order information on the Site is very important to us. In our shopping checkout process, we use Transport Layer Security (TLS), the industry-standard encryption technology that ensures the safety and security of your online order. When the letters "http" in the URL address change to "https," the "s" indicates you are in a secure area employing TLS. Making a credit card purchase is just as safe on our Site as it is by telephone. If you prefer to order merchandise from the website by phone, please call us toll-free [1 (877) 464-6936](tel:1-877-464-6936). For our customer service hours of operation visit [Customer Care](https://web.archive.org/web/20190624044356id_/https%3A//www.theclymb.com/ccare_main.aspx).
 
 ## Information We Collect:
 
