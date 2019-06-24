@@ -1,33 +1,33 @@
-> *The following text is extracted and transformed from the virginia.edu privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108111550id_/http%3A//www.virginia.edu/siteinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.edu privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624192856id_/http%3A//www.virginia.edu/siteinfo/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The University of Virginia
 
-## Our Commitment to Privacy
+### Our Commitment to Privacy
 
 The University of Virginia is strongly committed to maintaining the privacy and security of confidential personal information and other highly sensitive data that it collects. Our privacy and public records obligations are governed by applicable Virginia statutes, including, but not limited to, the Virginia Privacy Protection Act of 1976, the Virginia Freedom of Information Act and by any applicable U.S. federal laws.
 
-## Notice about the Information We Collect
+### Notice about the Information We Collect
 
 This notice applies to all information collected by or submitted to official University of Virginia websites. The following information explains the Internet privacy policy and practices that the University has adopted for its official websites. This notice should not be construed as a contractual promise, and the University reserves the right to amend it at any time without notice.
 
 When you access our Web pages, the client information and the essential and nonessential technical information listed below is automatically collected—we refer to those categories collectively as "access information.” No other information is collected through our official website except “optional information” sent to us by email or online forms.
 
-## Automatically Collected Access Information
+### Automatically Collected Access Information
 
-  *  **Client information:** the Internet domain and Internet address of the computer you are using.
+  * **Client information:** the Internet domain and Internet address of the computer you are using.
   *  **Essential technical information:** identification of the page or service you are requesting, type of browser and operating system you are using and the date and time of access.
   *  **Nonessential technical information:** the Internet address of the website from which you linked directly to our website and the "cookie information" described below.
 
 
 
-## Optional information
+### Optional information
 
-  *  **Personal Data:** when you send us an email we may collect your email address, your name and the content of your email.
+  * **Personal Data:** when you send us an email we may collect your email address, your name and the content of your email.
   *  **Form Data:** when you complete online forms, all the data you choose to fill in or confirm, including credit or debit card information if you are ordering a product or making a payment, as well as information about other people if you are ordering a gift and want it sent directly to the recipient's address.
 
 
 
-## The Way We Use Information
+### The Way We Use Information
 
 Client information is used to route the requested Web page to your computer for viewing. In theory, the requested Web page and the routing information could be discerned by other entities involved in transmitting the requested page to you. We do not control the privacy practices of those entities. Essential and nonessential technical information helps us respond to your request in an appropriate format (or in a personalized manner) and helps us plan website improvements. Optional information enables us to provide services or information tailored more specifically to your needs or to forward your message or inquiry to another entity that is better able to do so and also allows us to plan website improvements.
 
@@ -43,7 +43,7 @@ We generally use return email addresses only to answer the email we receive. Suc
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without clear notice and the opportunity to opt-out or otherwise prohibit such uses.
 
-## Use of Cookies
+### Use of Cookies
 
 Some official University of Virginia websites use "cookies." Often a cookie enables the University website to tailor what you see according to the way you entered the site (i.e., if you entered by pushing a button identifying yourself as a student, your subsequent views of information might be tailored for student audiences). For this kind of cookie, the information stored in that cookie might include the following (formatted for legibility):
 
@@ -54,18 +54,20 @@ Some official University of Virginia websites use "cookies." Often a cookie enab
 > Domain: virginia.edu  
 > Path: /
 
-## promoted posts and advancement usage
+### Promoted Posts and Advancement Usage
 
-The University may provide email addresses and/or phone numbers collected by the University to digital services, including social media platforms and search engines, for the purpose of reaching audiences via those services to promote the University and its services. If you do not want such information provided to the University to be used for this purpose, please email socialmedia@virginia.edu with that instruction and include your name and the relevant email address.  
+The University may provide email addresses and/or phone numbers collected by the University to digital services, including social media platforms and search engines, for the purpose of reaching audiences via those services to promote the University and its services. If you do not want such information provided to the University to be used for this purpose, please email socialmedia@virginia.edu with that instruction and include your name and the relevant email address.
 
 In addition, third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads. Facebook users can opt-out of the collection and use of information for ad targeting using the following links: <http://www.aboutads.info/choices> and <http://www.youronlinechoices.eu/>.
 
-Finally, we may receive and store information about you from other sources and add it to our institutional advancement database. For further information, please consult the University of Virginia Advancement Privacy Statement at <https://6edco1cycml359w3f3vy757e-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/UVA-Advancement-Privacy-Statement.pdf.>
+Finally, we may receive and store information about you from other sources and add it to our institutional advancement database. For further information, please consult the University of Virginia Advancement Privacy Statement at <https://6edco1cycml359w3f3vy757e-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/UVA-Advancement-Privacy-Statement.pdf>.
 
-## Providing Information Is Your Choice
+### Providing Information Is Your Choice
 
 There is no legal requirement for you to provide any information at our website. However, our website will not work without routing information and the essential technical information. Failure of your browser to provide nonessential technical information will not prevent your use of our website but may prevent certain features from working. For any optional information that is requested at the website, failure to provide the requested information will mean that the particular feature or service associated with that part of the Web page may not be available to you.
 
-## Our Commitment to Data Security
+### Our Commitment to Data Security
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online, consistent with the policies of the University and with the laws and regulations of the Commonwealth of Virginia.
+
+A central repository for all UVA information technology (IT) resource policies, standards, and procedures.
