@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baidata.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907195250id_/https%3A//www.bareinternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baidata.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624225208id_/https%3A//www.bareinternational.com/privacy) for the most accurate reproduction.*
 
 # Privacy - BARE International
 
