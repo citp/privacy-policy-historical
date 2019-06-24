@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamcoco.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227152044id_/http%3A//teamcoco.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamcoco.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624191228id_/https%3A//teamcoco.com/privacy-statement) for the most accurate reproduction.*
 
-# Conan O'Brien Presents: Team Coco
+# Team Coco
 
 **What's New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Team Coco Digital, LLC, itsaffiliates and unaffiliated third parties, including Turner and the Turner Affiliates (as defined below). Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
 
