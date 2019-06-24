@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidetrade.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823084555id_/https%3A//insidetrade.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidetrade.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624084643id_/https%3A//insidetrade.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InsideTrade.com
 
@@ -8,7 +8,7 @@ _Inside Washington Publishers_ provides you with exclusive, top-quality news on 
 
 When you browse _Inside Washington Publishers_ web sites, the web servers automatically collect some information about your visit, including your IP address, type of browser software and operating system, the date and time of your visit, the pages visited and the Internet domain from which you accessed _Inside Washington Publishers’_ web site. This information may be used to verify that only authorized users are accessing our sites, and that this access conforms to underlying subscriber agreements; this information will not be sold or rented to outside parties, unless required by law. Except for the site-monitoring information described above, _Inside Washington Publishers_ does not collect any personal information unless it is voluntarily provided by you after you complete a request for a subscription or service or send an e-mail to _Inside Washington Publishers._ You will know when you are providing this information because you will be required to complete and submit a form. This form will include information like your name, address, phone number and e-mail address. Some subscriptions or services may involve payment by credit card, and any credit card information provided to _Inside Washington Publishers_ is used only to bill for the requested subscription or service, and is not stored or used by _Inside Washington Publishers_ for any other purpose.
 
-If you would like to see data collected about you, or request that your data be erased, please contact us at [privacy@iwpnews.com](mailto:privacy@iwpnews.com) \-- we will respond within 30 days.
+If you would like to see data collected about you, or request that your data be erased, please contact us at [privacy@iwpnews.com](mailto:privacy@iwpnews.com) \-- we will respond within 30 days. 
 
 ## Use of Information Collected by _Inside Washington Publishers_
 
