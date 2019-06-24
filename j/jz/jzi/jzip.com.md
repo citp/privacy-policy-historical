@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jzip.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226170957id_/http%3A//www.jzip.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jzip.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624220042id_/https%3A//www.jzip.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | jZip
 
@@ -40,4 +40,4 @@ In the event that jZip goes through a business transition, such as a merger, acq
 
 ## Contact Information
 
-If you have any questions or comments, please contact us via our support site [here](http://jzip.kayako.com/Knowledgebase/Article/View/1/). You can also send us postal mail to Bandoo Media Inc., Attention: Privacy Policy Administrator, 40 Kimonos St.3095 Limassol, Cyprus.
+If you have any questions or comments, please contact us via our email [here](mailto:notice@jzip.com). You can also send us postal mail to Bandoo Media Inc., Attention: Privacy Policy Administrator, 40 Kimonos St.3095 Limassol, Cyprus.
