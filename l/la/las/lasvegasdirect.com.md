@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasvegasdirect.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809083358id_/http%3A//www.lasvegasdirect.com/las-vegas-direct-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasvegasdirect.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624171414id_/http%3A//www.lasvegasdirect.com/las-vegas-direct-privacy-policy) for the most accurate reproduction.*
 
 # Las Vegas Direct Privacy Policy | Las Vegas Direct
 
