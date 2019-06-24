@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tampabay.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227153500id_/http%3A//www.tampabay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampabay.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625013849id_/http%3A//www.tampabay.com/privacy) for the most accurate reproduction.*
 
 # Tampa Bay, Florida news | Tampa Bay Times/St. Pete Times | Privacy Policy
 
