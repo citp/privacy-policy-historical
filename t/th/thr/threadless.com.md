@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106224647id_/https%3A//www.threadless.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624191837id_/https%3A//www.threadless.com/info/privacy) for the most accurate reproduction.*
 
 # Shop Threadless tees and other products
 
@@ -127,6 +127,6 @@ If you have any questions or comments about this Privacy Policy, you can contact
 Privacy Policy
 
 Threadless.com  
-955 W. Fulton Market, Unit 3  
-Chicago, IL 60607  
+400 N Morgan St.  
+Chicago, IL 60642  
 privacypolicy@threadless.com
