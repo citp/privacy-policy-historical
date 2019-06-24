@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydramalist.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226201112id_/https%3A//mydramalist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydramalist.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190523id_/https%3A//mydramalist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MyDramaList
 
@@ -67,6 +67,7 @@ We use information about you as mentioned above and for the purposes listed belo
   * To monitor and prevent any problems with our Services, protect the security of our Services, fight spam, and protect the rights and property of MyDramaList and others, which may result in us declining a transaction or the use of our Services;
   * To communicate with you, for example through an email, about offers and promotions offered by MyDramaList and others we think will be of interest to you, solicit your feedback, or keep you up to date on MyDramaList and our products.
   * To personalize your experience using our Services, provide content recommendations (for example, target our marketing messages to groups of our users (for example, those who like a certain tv show or film), and serve relevant advertisements.
+  * We use a third-party provider, Venatus, to deliver targeted advertising and marketing to you. For information on how Venatus uses your data, please see Venatus’ privacy policy [here.](https://www.venatusmedia.com/privacy/)
 
 
 
@@ -156,7 +157,7 @@ Ads appearing on any of our Services may be delivered by advertising networks. O
 
 Although most changes are likely to be minor, MyDramaList may change its Privacy Policy from time to time. MyDramaList encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by updating the date, and, in some cases, we may provide additional notice (such as adding a statement to our homepage [MyDramaList.com](http://mydramalist.com/)), or sending you a notification through email). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy. That’s it! Thanks for reading.
 
-  * Last modified: May 23, 2018
-  * Effective: May 25, 2018
+  * Last modified: May 14, 2019
+  * Effective: May 14, 2019
 
 
