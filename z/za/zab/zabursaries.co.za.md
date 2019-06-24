@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zabursaries.co.za privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223194218id_/http%3A//www.zabursaries.co.za/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zabursaries.co.za privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624111901id_/http%3A//www.zabursaries.co.za/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy of bursaries2017
 
