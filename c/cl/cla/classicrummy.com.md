@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the classicrummy.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704210224id_/https%3A//www.classicrummy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicrummy.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624191430id_/https%3A//www.classicrummy.com/privacy-policy) for the most accurate reproduction.*
 
 # Classic Rummy Privacy Policy
+
+Please enable your location. If already enabled then please wait till we fetch your location.
 
   1. This privacy policy ("Privacy Policy") forms a part of the Terms.
   2. If You use the Website, You are deemed to have accepted this Privacy Policy, and We will have the right to use Your information as described and in terms of this Privacy Policy. If You do not agree to have Your information used in any of the ways described in this Privacy Policy, You must discontinue the use of the Website. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Website, after We either personally notify You or generally after changes on the Website, will constitute Your acceptance of those changes. It is hereby clarified that by accessing or otherwise using the Website, You agree to the Privacy Policy and You expressly consent to the processing of Your Personal Information (as defined hereinbelow) according to this Privacy Policy.
