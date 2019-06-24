@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmin.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624231507id_/http%3A//www.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmin.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624082722id_/http%3A//www.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
 
 # P&G Global Consumer Privacy Policy
 
@@ -180,15 +180,11 @@ France
 [ Click here ](mailto:fluocarilprofessional@pg.com)  
   
   
-Belgium 
+Belgium
 
 | 
 
-N/A 
-
-| 
-
-[ Click here ](mailto:oralbprofessionalBNL@pg.com)  
+For P&G Healthcare:  P&G Health Belgium BVBA, Temselaan 100,  1853 Strombeek-Bever  
   
 Netherlands 
 
@@ -209,6 +205,16 @@ Poland
 | 
 
 N/A   
+  
+Sweden, Norway, Denmark, Finland 
+
+| 
+
+N/A 
+
+| 
+
+[ Click here ](mailto:oralbnordicsup.im@pg.com)  
   
 Cookies are small files sent to your computer as you surf the web.  They store useful information about how you interact with the websites you visit.  Cookies do not collect any information stored on your computer or device or in your files.  Cookies do not contain any information that would directly identify you as a person.  Cookies show your computer and device only as randomly assigned numbers and letters (e.g., cookie ID ABC12345) and never as, for example, John E. Smith.     
 
@@ -257,7 +263,7 @@ When you visit our partner sites, we can show you ads or other content we believ
 
 **we may know you across all of your computers, tablets, phones, and devices.** We may know that cookie ID ABC12345 is from a computer that that may be connected to the same person or household owning the mobile phone with device ID EFG15647. This means that you may search for diapers on your laptop, click on a Google search result link which we have sponsored, and then later see an ad for our Pampers® brand diapers on your mobile phone. We might assume or deduce that the same person owns the computer and phone because, for example, they sign on to the same WiFi network every day at the same time. Understanding what devices seem to be used by a person or household helps us limit the number of times you see the same ad across all of your devices. And this is important because that way you don’t get annoyed at us for spamming you with the same ad and we don’t pay for such repetitive ads that we don’t want you to receive. 
 
-**how you can stop receiving interest-based ads.** **** To stop receiving P&G interest-based advertising, you can [ click here ](https://info.evidon.com/pub_info/9044?v=1&nt=0&nw=true) or click on the WebChoices or AppChoices icons on one of our sites or in one of our mobile applications. **** You can also prevent getting interest-based ads on websites by declining cookies in your browser(s), declining the “access to data” requests that apps usually present when you install them, or by adjusting the ad tracking settings on your device. 
+**how you can stop receiving interest-based ads.** **** To stop receiving P&G interest-based advertising, you can [ click here ](http://optout.networkadvertising.org/) or click on the WebChoices or AppChoices icons on one of our sites or in one of our mobile applications. **** You can also prevent getting interest-based ads on websites by declining cookies in your browser(s), declining the “access to data” requests that apps usually present when you install them, or by adjusting the ad tracking settings on your device. 
 
 **you will still see “contextual” ads even if you opt out of interest-based ads.** Even if we stop sending you interest-based ads, you will still get ads from our brands on your computer or mobile devices. These ads, however, are based on the context of the sites you visit and are called contextual ads. Unlike interest-based ads which are based on pages you visit on your mobile phone or computer viewing activities, contextual ads are ads shown to you based on the context of the specific site you are visiting. For example, you still may see an ad for one of our baby care brands while looking at nursery products online because these sites traditionally have had mostly new or expecting parents as visitors. You should also know that we may still collect information from your computer or devices and use it for other purposes like evaluating how our websites work, for consumer research, or detecting fraud. 
 
@@ -301,11 +307,11 @@ Poland
 
 Procter and Gamble DS Polska sp z o.o.   
   
-Belgium 
+Belgium
 
 | 
 
-Procter & Gamble Distribution Company (Europe) BVBA   
+For P&G Healthcare:  P&G Health Belgium BVBA, Temselaan 100,  1853 Strombeek-Bever  
   
 Czech Republic 
 
@@ -335,13 +341,13 @@ France
 
 | 
 
-Procter & Gamble France SAS/Procter & Gamble Pharmaceuticals France SAS”   
+For P&G HealthCare as of 1 July ‘19 : P&G Health France S.A.S.,   163 Quai Aulagnier, 92600 Asnières-sur-Seine   
   
-Germany ****
+Germany
 
 | 
 
-Procter & Gamble Service GmbH   
+For P&G HealthCare: P&G Consumer Health Germany GmbH,  Sulzbacher Strasse 40, 65824 Schwalbach am Taunus  
   
 Greece 
 
@@ -379,17 +385,17 @@ Spain
 
 Procter & Gamble España, S.A.   
   
-United Kingdom 
-
-| 
-
-Procter & Gamble UK   
-  
 EU Countries Not Listed 
 
 | 
 
 Procter & Gamble International Operations SA   
+  
+United Kingdom
+
+| 
+
+Seven Seas Limited, The Heights, Brooklands, Weybridge, Surrey KT13 0XP  
   
 **processing and retention.** As a general rule, we keep your data for only as long as it is needed to complete the purpose for which it was collected or as required by law. We may need to keep your data for longer than our specified retention periods to honor your requests, including to continue keeping you opted out of marketing emails, or to comply with legal or other obligations. This chart tells you the type of data we collect, the purposes for which we use it, why such uses comply with the law (legal basis), and how long we usually keep it (retention period). 
 
