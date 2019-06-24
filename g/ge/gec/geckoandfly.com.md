@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geckoandfly.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218003818id_/https%3A//www.geckoandfly.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geckoandfly.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624211952id_/https%3A//www.geckoandfly.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,25 +8,25 @@ Our website address is: https://www.geckoandfly.com.
 
 ## What personal data we collect and why we collect it
 
-### Comments
+## Comments
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-### Media
+## Media
 
 If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-### Log Files
+## Log Files
 
 Like many other Web sites, www.geckoandfly.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-### Cookies and Web Beacons
+## Cookies and Web Beacons
 
 www.geckoandfly.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-### Cookies
+## Cookies
 
 If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
@@ -36,17 +36,17 @@ When you log in, we will also set up several cookies to save your login informat
 
 If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-### Embedded content from other websites
+## Embedded content from other websites
 
 Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
 These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-### Ads
+## Ads
 
 Ads appearing on any of our websites may be delivered to users by advertising partners (Google Adsense), who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Awesome Motive and does not cover the use of cookies by any advertisers.
 
-### Analytics
+## Analytics
 
 We use Google Analytics, and data are collected anonymously.
 
