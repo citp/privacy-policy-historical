@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vecteezy.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230181329id_/https%3A//www.vecteezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vecteezy.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184855id_/https%3A//www.vecteezy.com/privacy) for the most accurate reproduction.*
 
 # Download Free Vector Art, Stock Graphics & Images
 
@@ -16,7 +16,7 @@ This Privacy Policy was last changed on the date set forth at the top of the pol
 
 ## COLLECTION OF PERSONAL INFORMATION
 
-Personal Information on this Site is collected by the Eezy, Inc., 2413 Nashville Road Bowling Green, KY 42101, USA and its telephone number is (888) 847-3805.
+Personal Information on this Site is collected by the Eezy, Inc., 2413 Nashville Road B13, Bowling Green, KY 42101, USA and its telephone number is (888) 473-8050.
 
 As a visitor to the Site, you can engage in many activities without providing any Personal Information.
 
@@ -184,7 +184,7 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
 ### Request a copy of your data
 
-You can request a copy of your information which we hold (in Europe this is known as a subject access request). If you would like a copy of some or all of it, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#60131510100f12142005051a194e030f0d) and let us know the information you want a copy of, including any account or reference numbers, if you have them. Any subject access request may be subject to a reasonable fee to cover the cost of providing you with details of the information we hold about you.
+You can request a copy of your information which we hold (in Europe this is known as a subject access request). If you would like a copy of some or all of it, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2b585e5b5b44595f6b4e4e515205484446) and let us know the information you want a copy of, including any account or reference numbers, if you have them. Any subject access request may be subject to a reasonable fee to cover the cost of providing you with details of the information we hold about you.
 
 ### Data portability request
 
@@ -231,7 +231,7 @@ While your Personal Information is in our possession, it will be primarily store
 If you have questions or comments about this Privacy Policy, please contact us at:
 
 Eezy  
-2413 Nashville Road  
+2413 Nashville Road B13  
 Bowling Green, KY 42101  
-(888) 847-3805  
+(888) 473-8050  
 [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
