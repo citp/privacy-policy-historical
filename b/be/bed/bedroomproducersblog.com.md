@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedroomproducersblog.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231926id_/http%3A//bedroomproducersblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedroomproducersblog.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624202101id_/https%3A//bedroomproducersblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bedroom Producers Blog
 
@@ -14,7 +14,7 @@ We collect information from you when you subscribe to a newsletter or enter a gi
 
 **How do we use your information?**
 
-We may use the information we collect from you when you sign up for our newsletter or enter a giveaway on our website in the following ways:
+We may use the information we collect from you when you sign up for our newsletter or enter a giveaway on our website in the following ways: 
 
   * To administer a contest, promotion or other site feature.
   * To send periodic emails as part of our weekly newsletter.
@@ -51,7 +51,7 @@ We honor do not track signals and do not track, plant cookies, or use advertisin
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us through our [contact form](http://bedroomproducersblog.com/contact).
+If there are any questions regarding this privacy policy you may contact us through our [contact form](https://bedroomproducersblog.com/contact).
 
 Users will be notified of any privacy policy changes on this page.
 
