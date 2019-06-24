@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geo.tv privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226031327id_/https%3A//www.geo.tv/privacy-policy-and-tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geo.tv privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184519id_/https%3A//www.geo.tv/privacy-policy-and-tos) for the most accurate reproduction.*
 
 # Privacy-policy-and-tos - Geo.tv: Latest News Breaking Pakistan, World, Live Videos
 
