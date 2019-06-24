@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the legalzoom.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107014836id_/https%3A//www.legalzoom.com/legal/general-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalzoom.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624225434id_/https%3A//www.legalzoom.com/legal/general-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | legalzoom.com
 
 LegalZoom.com, Inc.   (“LegalZoom” “We”, “Us”) is sensitive to your concerns about how we use the personal information we collect from you and about you. LegalZoom takes your privacy seriously, and has implemented this privacy policy (the "Privacy Policy") and internal policies and practices to keep your personal and financial information secure. The Privacy Policy covers LegalZoom's treatment of the Personally Identifiable Information we collect about you.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Privacy Policy is incorporated into our [Terms of Use](http://www.legalzoom.com/legal/general-terms/terms-of-use) and [Terms of Service](http://www.legalzoom.com/legal/general-terms/terms-of-service), and therefore governs your use of the Online Services. By using LegalZoom Online Services, you accept the terms of this Privacy Policy. If you have questions or concerns about the Privacy Policy, please contact Customer Care at [customercare@legalzoom.com](mailto:customercare@legalzoom.com).
+
+This Privacy Policy does not cover information that you may provide in connection with your use of LegalZoom’s Identity Protection or Business Data Protection services.  Instead, the information that you provide in connection with those services are governed by the [Experian Privacy Policy](https://www.csid.com/privacy-policy/), as described at time of activation. 
 
 ## What Information Do We Collect About Our Customers?
 
@@ -22,11 +24,11 @@ To manage Flash cookies, please click here: [www.macromedia.com/support/document
 
 Personally Identifiable Information includes but is not limited to: (i) "Contact Data" (such as your name, address, city, state, zip code, phone number, and email address); (ii) "Financial Data" (such as your credit card number, expiration date, and verification code or bank account information); (iii) "Demographic Data" (such as your zip code and sex); and (iv) other "Legal Data" (such as your social security number, EIN number, mortgage information, automobile information, marital information, trade secrets, inventions, and idea submissions and other sensitive information necessary to generate legal documents).
 
-We may also receive information about our customers or potential customers from other sources, including employers who have purchased our products on behalf of their employees.  In some instances we may combine this data with information we already have or that we later receive from our customers.  This helps us to update, expand and analyze our records and to provide better service to customers.  We will only use this information for the specific reasons that it was provided to us, which may include marketing related uses.  Examples of the types of Personally Identifiable Information that we may receive from third parties include Contact Data and Legal Data.
+We may also receive information about our customers or potential customers from other sources, including from employers who have purchased our products on behalf of their employees, from publicly available sources, and through other commercially available sources of information.  In some instances we may combine this data with information we already have or that we later receive from our customers.  This helps us to update, expand, and analyze our records, and to provide better service to our customers and potential customers.  Other than information obtained from publicly available sources, we will only use this information for the specific reasons that it was provided to us, which may include marketing related uses.  Examples of the types of Personally Identifiable Information that we may receive from third parties include Contact Data and Legal Data.
 
-We may collect the information of 3rd party individuals as necessary, such as to ask our customers to indicate beneficiaries of a will, record shareholders of a company, or register authorized contacts to access their LegalZoom account.  **LegalZoom uses this information for the sole purpose of administering its services for our customers, and does not use such information for any other reason.**
+We may collect information from you about third party individuals in order to provide you service.  For example, we may ask you for information about the beneficiaries in your will, shareholders of a company, or authorized contacts to access your LegalZoom account.  **LegalZoom uses this information for the sole purpose of administering services to you, and does not use such information for any other reason.**
 
-If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [customercare@legalzoom.com](mailto:customercare@legalzoom.com).
+If you are not a LegalZoom customer but believe that LegalZoom has your personal information that you would like to be deleted, please contact us at [customercare@legalzoom.com](mailto:customercare@legalzoom.com).  If you are a LegalZoom customer, please refer to the section “Accessing and Changing Your Account” for information about accessing and deleting your account.
 
 Certain personal information becomes public record when documents are filed with the federal or state government, or with a court. For example, a corporation's name, business address, and registered agent name become public information when its articles of incorporation are filed. A Secretary of State may publish this information to its website or provide this information to third parties for a fee. The U.S. Patent and Trademark Office publishes the names and addresses of trademark registrants. In some states, fictitious business names, including the name and address of the business owner, must be published in a newspaper. The LegalZoom Privacy Policy does not cover these or similar third-party actions.
 
@@ -78,7 +80,7 @@ If you would like to learn more or opt out of receiving online display advertisi
 
 ## Links
 
-**Third-Party Websites.**  LegalZoom may maintain links to other websites and other websites may maintain links to the Online Services. This Privacy Policy applies only to LegalZoom.com and not to other websites accessible from LegalZoom or that you use to access LegalZoom, each of which may have privacy policies materially different from this Privacy Policy. If you visit other websites, LegalZoom is not responsible for the privacy practices or content of those sites. It is your responsibility to review the privacy policies of non-LegalZoom websites to confirm that you understand and agree with them.
+**Third-Party Websites.**  LegalZoom may maintain links to other websites and other websites may maintain links to the Online Services. This Privacy Policy applies only to LegalZoom.com and not to other websites accessible from LegalZoom or that you use to access LegalZoom, each of which may have privacy policies materially different from this Privacy Policy.  For instance, when using Identity Protection products (including Business Data Protection and LegalZoom Identity Protection), you will visit websites maintained by LegalZoom’s partner Experian , and the Experian privacy policy will govern the information you provide on that website. If you visit other websites, LegalZoom is not responsible for the privacy practices or content of those sites. It is your responsibility to review the privacy policies of non-LegalZoom websites to confirm that you understand and agree with them.
 
 **Social Media Widgets.**  Our website includes social media features, such as the Facebook “like” button and widgets, such as the “Share this” button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
@@ -128,7 +130,7 @@ If you are located in the EU, this section provides information regarding your r
 
 To exercise any of these rights, please contact Customer Care at [customercare@legalzoom.com](mailto:customercare@legalzoom.com) or (800) 773-0888.
 
-If you are located in the EU, you also have the right to raise any objections regarding the processing of your personal data and to raise any concerns you may have about LegalZoom’s processing of your personal data. You may make an objection or raise any other concerns by contacting contacting Customer Care at [customercare@legalzoom.com](mailto:customercare@legalzoom.com) or (800) 773-0888.
+If you are located in the EU, you also have the right to raise any objections regarding the processing of your personal data and to raise any concerns you may have about LegalZoom’s processing of your personal data. You may make an objection or raise any other concerns by contacting Customer Care at [customercare@legalzoom.com](mailto:customercare@legalzoom.com) or (800) 773-0888.
 
 You may also choose to contact LegalZoom about with any objections or other concerns through our EU Representative, who can be reached at:
 
@@ -165,7 +167,7 @@ Under certain conditions, more fully described on the [Privacy Shield website](h
 
 ## Privacy Policy Revision History
 
-**Last updated on  August 30, 2018**
+**Last updated on June 3, 2019**
 
 December 2013          Added TRUSTe information, including opt-out option under Partner and Affiliate Tracking section.  In the User and Authorized Contact Access to Account section, added notice that authorized contacts may be emailed. Added Revision History section.
 
@@ -180,3 +182,5 @@ February 2018          Added Information Processed On Behalf of Third P
 July 2018                 Added Information for EU Customers and Visitors.  Updated the introduction, Cookies and Similar Technology, and How We Use the Information We Collect sections.
 
 August 2018                  Added Business Partners as a class of third parties we share information with.  Updated information shared as part of Third Party Marketing.
+
+June 2019                     Updated information about data received from and about third parties.  Updated information about third party websites not covered by this Policy.
