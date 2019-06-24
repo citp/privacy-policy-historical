@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fab.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106230014id_/https%3A//fab.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fab.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624045809id_/https%3A//fab.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy – Fab
+# Privacy - Fab
 
 PRIVACY
 
