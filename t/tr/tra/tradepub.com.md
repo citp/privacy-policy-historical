@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229033203id_/https%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625013014id_/https%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
 
 # Free Professional and Technical Research Library of White Papers, Magazines, Reports, and eBooks
 
@@ -31,6 +31,8 @@ As a registered TradePub.com member, you will be able to modify your choices at 
 If you do not wish to have your email address or other contact information used by us to promote our own or third parties' products or services, you can opt-out as described in any such email we send and or request to be placed on our "Do Not Call" list. 
 
 Because we derive revenue mainly from advertising, collecting information is vital to keep our services affordable to users. Your Profile Information is shared with the Third-Party Content Creator when you register to access their content, the use of that information is governed by their privacy policy and may be used by the Content Provider for follow up by telephone, email, direct mail or other common methods. You should contact these Content Providers directly if you have any questions about their use of this information. If you do not want this information disclosed to a Content Provider, do not request Third Party Content. 
+
+By sharing your information with us, you agree that NetLine and its Sponsor/Partners can contact you by way of email, telephone, mail or other means of communication to provide you with access to Content, surveys, direct marketing, and promotional materials in connection with your activity while on TradePub.com and our branded websites. 
 
 Where personal data is collected on our sites, NetLine attempts to provide a link to this policy. 
 
@@ -86,6 +88,8 @@ IP addresses are used to analyze trends, administer the website, track user move
 As covered above, NetLine collects Profile Information on TradePub.com and its branded websites when you register to request certain content from our Content Providers. The request process prompts you to complete your account Profile Information. 
 
 When you register to access a Content Provider's said content, the use of that information is governed by their privacy policy and may be used by the Content Provider for follow up by telephone, email, direct mail or other common methods. You should contact these Content Providers directly if you have any questions about their use of this information. If you do not want this information disclosed to a Content Provider, do not request Third Party Content. 
+
+Furthermore, by sharing your information with us, you agree that NetLine and its sponsors, partners, and/or customers can contact you by way of email, telephone, mail or other means of communication to provide you with access to Content, surveys, direct marketing, and promotional materials in connection with your activity while on TradePub.com and our branded websites. 
 
 By virtue of our relationship, TradePub branded website partners may obtain profile information that visitors voluntarily submit at time of 3rd Party Content request. NetLine has no control over the third-party sponsors' use of this information. 
 
