@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prezi.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231103709id_/https%3A//prezi.com/privacy-policy/%3Fclick_source%3Dlogged_element%26page_location%3Dfooter%26element_type%3Dlink%26element_text%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prezi.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624092927id_/https%3A//prezi.com/privacy-policy/%3Fclick_source%3Dlogged_element%26page_location%3Dfooter%26element_type%3Dlink%26element_text%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Política de privacidad | Prezi
 
@@ -6,7 +6,7 @@
 
  **Effective as of: Oct 31, 2018**
 
-Previous version: [Version Published on May 28, 2018](https://web.archive.org/web/20181231103711id_/https://prezi.com/privacy-policy/%E2%80%9Dhttps://prezi.com/privacy-policy/2018-05-25/%E2%80%9D)
+Previous version: [Version Published on May 28, 2018](https://web.archive.org/web/20190624092929id_/https://prezi.com/privacy-policy/%E2%80%9Dhttps://prezi.com/privacy-policy/2018-05-25/%E2%80%9D)
 
 ### Introduction
 
