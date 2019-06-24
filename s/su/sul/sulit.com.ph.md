@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109130552id_/https%3A//olxph.zendesk.com/hc/en-us/articles/213529587) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624083101id_/https%3A//olxph.zendesk.com/hc/en-us/articles/213529587) for the most accurate reproduction.*
 
 # How do I protect my privacy? – Help Center OLX
 
