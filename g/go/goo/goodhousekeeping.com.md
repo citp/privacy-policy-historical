@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the goodhousekeeping.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227082850id_/http%3A//www.hearst.com/newsroom/us-magazines-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodhousekeeping.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624045143id_/http%3A//www.hearst.com/newsroom/us-magazines-privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Hearst
 
 Privacy Notice – Highlights 
 
-Last Updated: December 13, 2018 
+Last Updated: March 25, 2019 
 
 When you use or interact with a U.S. website, mobile app or other digital service (each a “Digital Service”) operated or owned by Hearst Magazine Media, Inc., we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full Privacy Notice below for a detailed explanation of our practices. 
 
@@ -34,7 +34,7 @@ Read more here.
 
   * To communicate with you, including to send you marketing and promotional communications.   
 
-  * For advertising and marketing purposes, including to deliver [interest-based ads](https://web.archive.org/web/20181227082850id_/http%3A//www.hearst.com/newsroom/_INTEREST_BASED), for cross-device linking and to analyze the performance of advertising and marketing activities.   
+  * For advertising and marketing purposes, including to deliver [interest-based ads](https://web.archive.org/web/20190624045143id_/http%3A//www.hearst.com/newsroom/_INTEREST_BASED), for cross-device linking and to analyze the performance of advertising and marketing activities.   
 
   * To protect our rights and the rights of others.   
 
@@ -85,7 +85,7 @@ Read more here. 
 
   * This Privacy Notice is part of the [Terms of Use](http://www.hearst.com/newsroom/us-magazines-terms-of-use), which govern your use of the Digital Services and any disputes related to your use of the Digital Services (including our use of your information) will be resolved per the dispute resolution provision in the Terms of Use.   
 
-  * If you are accessing the Digital Services from the European Economic Area, additional provisions may be relevant for you. These are included at the end of this Privacy Notice.   
+  * If you are accessing the Digital Services from the European Economic Area or the United Kingdom, additional provisions may be relevant for you. These are included at the end of this Privacy Notice.   
 
 
 
@@ -98,7 +98,7 @@ If you have questions about our Privacy Notice you can contact us by email at [
 
  ** _PRIVACY NOTICE_**
 
- **Last Updated:**  December 13, 2018 
+ **Last Updated:**  March 25, 2019
 
 A. Introduction
 
@@ -400,7 +400,7 @@ We process personal information for different purposes (as described in the “H
 
 **To perform our** **contractual** **obligations to you.** We and our service providers process your information to perform our contractual obligations to you when we use your information to provide you with the Digital Services and related content, products or services and to communicate with you. For example, when you purchase a subscription from us, we process your payment and contact information as necessary to confirm the subscription and we process your contact information and other details to provide you with support services you request. We also send you informational communications on this basis, including to confirm a subscription or to notify you of a change to a Digital Service. Failure to provide requested information could prevent or delay the fulfilment of our contractual obligations.
 
-  * **To pursue our legitimate interests.** We process your information to meet our legitimate interests when we use your information to provide you with the Digital Services and related content, products or services, to communicate with you and for our advertising and marketing purposes. For example, our legitimate interests include making improvements to, customizing and understanding how you interact with the Digital Services and related content, products or services, and sending you communications about products and services we think may be of interest to you. To accomplish our legitimate interests, we may share your information with our affiliates and subsidiaries, service providers and business partners (including for our advertising and marketing purposes) and in the context of a corporate transaction. We maintain safeguards to protect the information we process to pursue our legitimate interests.
+  *  **To pursue our legitimate interests.** We process your information to meet our legitimate interests when we use your information to provide you with the Digital Services and related content, products or services, to communicate with you and for our advertising and marketing purposes. For example, our legitimate interests include making improvements to, customizing and understanding how you interact with the Digital Services and related content, products or services, and sending you communications about products and services we think may be of interest to you. To accomplish our legitimate interests, we may share your information with our affiliates and subsidiaries, service providers and business partners (including for our advertising and marketing purposes) and in the context of a corporate transaction. We maintain safeguards to protect the information we process to pursue our legitimate interests.
 
 
 
@@ -434,7 +434,7 @@ We will delete your personal information when it is no longer required for these
 
  **International Data Transfers**
 
-Information collected through the Digital Services will be processed in and subject to the laws of the United States, which may not provide the same level of protection for your personal information as your home country. If we transfer personal data from the European Economic Area and Switzerland we put in place safeguards. In particular, such safeguards include [Privacy Shield Principles](http://www.hearst.com/newsroom/privacy-shield-statement) or European Commission-approved standard contractual clauses. For more information on these safeguards, please read our [Privacy Shield Statement](http://www.hearst.com/newsroom/privacy-shield-statement) or contact us at the details provided in the “Contact Us” section above. 
+Information collected through the Digital Services will be processed in and subject to the laws of the United States, which may not provide the same level of protection for your personal information as your home country. If we transfer personal data from the European Economic Area, United Kingdom and Switzerland we put in place safeguards. In particular, such safeguards include [Privacy Shield Principles](http://www.hearst.com/newsroom/privacy-shield-statement) or European Commission-approved standard contractual clauses. For more information on these safeguards, please read our [Privacy Shield Statement](http://www.hearst.com/newsroom/privacy-shield-statement) or contact us at the details provided in the “Contact Us” section above. 
 
 **Changes to the Privacy Notice**
 
