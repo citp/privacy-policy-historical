@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905235823id_/https%3A//www.mercycorps.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624055816id_/https%3A//www.mercycorps.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercy Corps
 
@@ -32,7 +32,7 @@ We also use third-party services to better understand the needs of people who vi
 
 We do not receive or request any personally identifiable information from you unless you provide it. 
 
-We use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, **[click here.](http://www.networkadvertising.org/managing/opt_out.asp)**
+We use third-party advertising companies to serve ads. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, **[click here.](http://www.networkadvertising.org/managing/opt_out.asp)**
 
 ### Spam filter
 
@@ -41,5 +41,9 @@ To help us filter out spam we use a service called **[Honeypot](http://drupal.or
 ### Donations by Mail
 
 In order to increase our base of support and keep our costs low, Mercy Corps sometimes exchanges a segment of our mailing list with other carefully selected organizations. Donors who make their first gift to Mercy Corps in response to an appeal letter may be included on this exchange list; all other donors are automatically excluded from the exchange. All donors who made their first gift to Mercy Corps before January 31, 2004 are also excluded from the exchange. At least once a year, we will inform all donors who are eligible to be included on the exchange list, and give them an opportunity to opt out of future exchanges. Donors who wish to have their names removed from the exchange list can call 1-888-842-0842 or email donorservices@mercycorps.org. 
+
+### State Registrations
+
+**[Click here](https://web.archive.org/about-us/privacy-policy/state-nonprofit-disclosures)** to see our state registrations. 
 
 If you would have additional questions about our privacy policy, please feel free to contact us via email at donorservices@mercycorps.org or 1-888-842-0842. 
