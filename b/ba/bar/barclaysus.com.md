@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the barclaysus.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825014218id_/https%3A//cards.barclaycardus.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaysus.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190505id_/https%3A//cards.barclaycardus.com/banking/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Barclays US
 
 Skip to Content
 
-**Revised as of June 2017**  
+**Revised as of October 2018**  
 
 
-[Download our Privacy Policy (PDF)](https://web.archive.org/content/dam/bcuspublic/Articles/web_BCUS_Privacy_Policy_2017.pdf) to learn more about your Privacy and Security. __
+[Download our Privacy Policy (PDF)](https://web.archive.org/content/dam/bcuspublic/Articles/web_BCUS_Privacy_Policy_2018.pdf) to learn more about your Privacy and Security. __
 
 This Barclays Bank Delaware (“Barclays”) Online Privacy Policy describes our practices in connection with information that we collect through Barclaycardus.com and the other websites operated by us from which you are accessing this Privacy Policy (the “ **Websites** ”), through the software applications made available by us for use on or through computers and mobile devices (the “ **Apps** ”), through our social media pages and apps located at facebook.com/Barclaycard, twitter.com/Barclaycard, youtube.com/BarclaycardUS and plus.google.com/+BarclaycardUS collectively, (our “ **Social Media Pages** ”) as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Websites, the Apps and our Social Media Pages, the “ **Services** ”). As used in this Privacy Policy, The term “Barclays” or “we” or “us” or “our” refers to banking and non-banking U.S. affiliates or subsidiaries of Barclays Bank Delaware. __
 
@@ -108,7 +108,11 @@ In some instances, we may combine Other Information with Personal Information (s
 
 This Online Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link.  The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
 
-Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.  ****
+Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages. 
+
+Barclays Bank Delaware participates in the Adobe Experience Cloud Device Co-op to better understand how to use our website and apps across the various devices you use, and to deliver tailored promotions. Learn more [https://cross-device-privacy.adobe.com](https://cross-device-privacy.adobe.com/) about how Adobe does this.
+
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID. Our partners may link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. To learn more about interest-based advertising in general and to opt out, please visit <http://www.aboutads.info/choices>. To opt out of the use of your mobile device ID for targeted advertising, please see <http://www.aboutads.info/appchoices>.
 
 **Targeted Advertising**  
 Online Behavioral Advertising (OBA) helps us serve you marketing messages that are relevant to you, based on your behavior on the web. If you don’t want to receive targeted advertising, you can opt out of OBA. This would remove your information from collection across Barclays, our affiliates, service providers and other companies we work with. Please visit the Network Advertising Initiative (NAI) Opt Out Page below to opt out, and for additional information:
@@ -144,4 +148,4 @@ We may change this Online Privacy Policy.  Please take a look at the “ _Last 
 
 If you have any questions about this Online Privacy Policy, please contact us by using the “Contact Us” link below.
 
-[Contact Us](https://cards.barclaycardus.com/contact-branded.html)
+[Contact Us](https://web.archive.org/banking/contact-us/)
