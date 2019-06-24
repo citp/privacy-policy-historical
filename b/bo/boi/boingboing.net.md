@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125202843id_/https%3A//boingboing.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624220050id_/https%3A//boingboing.net/privacy) for the most accurate reproduction.*
 
-# Boing Boing Privacy Policy / Boing Boing
+# Boing Boing
 
 _
 
@@ -12,7 +12,7 @@ Welcome to Boing Boing, a Website created by Happy Mutants, LLC, (“Happy Mutan
 
 This Privacy Policy is part of [our Terms of Service](http://boingboing.net/tos), and by using the Site you agree to both. Terms with initial capital letters used in this Privacy Policy shall have the respective meanings assigned to them in the Terms of Service.
 
-**WHAT INFORMATION DO WE COLLECT?**
+## WHAT INFORMATION DO WE COLLECT?
 
 1\. We collect limited information when you browse the site
 
@@ -42,7 +42,7 @@ If you email us or send other communications to us directly, we will retain your
 
 [StackCommerce](https://www.stackcommerce.com/) is our partner for selling stuff via the Store (we know, we know, confusing vs the shop.) Here is StackCommerce's [privacy policy](https://www.stackcommerce.com/privacy/), they do collect information when you buy from the store. We do not have access to user account information or any data provided during the checkout process. We also lament the frequently cheesy copy in the advertisements.
 
-**WHO DO WE SHARE YOUR INFORMATION WITH?**
+## WHO DO WE SHARE YOUR INFORMATION WITH?
 
 It is generally our policy not to share or sell your personally identifiable information with any third party. We may, however, share information under the following circumstances:
 
@@ -54,31 +54,31 @@ It is generally our policy not to share or sell your personally identifiable inf
 
 4\. If we are acquired by or merged with another company. This Privacy Policy would continue to apply to any data collected while it was in place.
 
-**LINKS TO OTHER SITES**
+## LINKS TO OTHER SITES
 
 It should go without saying, but we'll say it anyway: this website contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of other sites, unless we have specified them in this document.
 
-**DATA SECURITY**
+## DATA SECURITY
 
 We have adopted commercially reasonable technical, physical and administrative procedures to protect the confidentiality of the information that we collect on our site. However, the Internet is not a vault and data can be lost.
 
-**INTERNATIONAL VISITORS**
+## INTERNATIONAL VISITORS
 
 Happy Mutants is a San Francisco, California-based company whose servers are housed in Canada. All personal information we collect from our international users is processed according to US law. We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit [Export.gov](http://www.export.gov/safeharbor/).
 
-**RATED PG-13**
+## RATED PG-13
 
-We have kids. We love kids.  Really we do. But the United States government has put limits on our ability to accept users under a certain age through the [Children's Online Privacy Protection Act of 1998](http://www.ftc.gov/ogc/coppa1.htm). So to be clear, Boing Boing is not intended for users under the age of 13. Nobody under 13 may create an account or use any part of the Site that requires the submission of personally identifiable information, like email or name. Any account that is created by a person under 13 will be terminated and any content created will be removed from the Site.
+We have kids. We love kids. Really we do. But the United States government has put limits on our ability to accept users under a certain age through the [Children's Online Privacy Protection Act of 1998](http://www.ftc.gov/ogc/coppa1.htm). So to be clear, Boing Boing is not intended for users under the age of 13. Nobody under 13 may create an account or use any part of the Site that requires the submission of personally identifiable information, like email or name. Any account that is created by a person under 13 will be terminated and any content created will be removed from the Site.
 
-**CHANGES TO THIS POLICY**
+## CHANGES TO THIS POLICY
 
 This Privacy Policy may be revised. If we make material changes to this policy, we will make them available, in advance, on the Boingboing.net home page.
 
-**CONTACT US**
+## CONTACT US
 
 If you have any questions or suggestions regarding our Privacy Policy or your information, please contact us at happymutants@boingboing.net
 
-**COOKIE POLICY**
+## COOKIE POLICY
 
 We use a lot of cookies on this site. Online publishing is primarily supported by advertising and so is Boing Boing. Until there’s a better way, we’re stuck with cookies, all of us. What we can do, however, is inform you about the cookies that we use and how you can opt-out from using them, if you choose. Just remember, cookies power the advertising and the advertising pays for the Site.
 
@@ -86,7 +86,7 @@ What is a cookie?
 
 Cookies are small data files that websites store in your hard drive. They create a unique id that is associated with your browser. We use first-party cookies for analytics, which tell us about user activity on our site. We use third-party cookies to collect information about your habits across multiple sites and to provide advertising that is targeted to your interests. Our third-party advertising partners also use third-party cookies. More information about each is provided below.
 
-**Analytics**
+## Analytics
 
 1\. Google Analytics
 
@@ -100,7 +100,7 @@ It also includes the Facebook recommend button and other interactive mini-progra
 
 3\. Google FeedBurner for RSS
 
-Our content is syndicated and distributed through Feedburner, owned by Google. When you subscribe to the RSS feed, your account is controlled by Google Accounts, and we have no access to the personal information you share with them.  Read the [Google Privacy Policy](http://www.google.com/policies/privacy/). 
+Our content is syndicated and distributed through Feedburner, owned by Google. When you subscribe to the RSS feed, your account is controlled by Google Accounts, and we have no access to the personal information you share with them. Read the [Google Privacy Policy](http://www.google.com/policies/privacy/). 
 
 4\. Affiliate Programs
 
@@ -109,7 +109,7 @@ but you should know that we present links in a format that
 enables us to track when links are followed. Specifically,  
 when you make a purchase on Amazon.com, Etsy.com ([privacy policy](https://www.etsy.com/legal/privacy/)) (Etsy uses Tiddly, a URL shortener) or Thinkgeek.com ([privacy policy](http://www.thinkgeek.com/help/privacy.shtml)) after clicking one of their links on our site, we collect a small portion of the sale from them as part of their affiliate programs. You are not identifiable to us personally and we only see aggregated, anonymized statistics on what was purchased. Boing Boing is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
-**Advertising**
+## Advertising
 
 1\. Digital Trends
 
@@ -117,9 +117,9 @@ We partner with [Digital Trends](http://www.digitaltrends.com/) to provide third
 
 2\. “Other”
 
-We have vendors who we partner with directly to provide advertisements on our Site.  You can opt out of many third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp) and/or <http://www.aboutads.info/choices/>.
+We have vendors who we partner with directly to provide advertisements on our Site. You can opt out of many third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp) and/or <http://www.aboutads.info/choices/>.
 
-**More Advertising Disclosures**
+## More Advertising Disclosures
 
 Just so we are clear about how we use advertising on the site, below are some of the most common kinds of sponsorships on Boing Boing:
 
@@ -139,4 +139,4 @@ Just so we are clear about how we use advertising on the site, below are some of
 
 8\. Sometimes, when videos match up via a script we swap out YouTube for a [player](https://rumble.com/s/privacy.html) who shares revenue with us.
 
-9\. Traditional banner ads: We have strict guidelines on the banner advertisements that we accept. Expanding banners are only delivered to each browser once daily. Animated ads can't be longer than 30 seconds. Audio must be user-initiated. And of course, no pop-ups or pop-unders. Unfortunately, ads that break those rules sometimes do slip through our automated system. So if you see a banner ad that violates this policy, please let us know by emailing  [ads@boingboing.net](mailto:ads@boingboing.net) and we'll investigate.
+9\. Traditional banner ads: We have strict guidelines on the banner advertisements that we accept. Expanding banners are only delivered to each browser once daily. Animated ads can't be longer than 30 seconds. Audio must be user-initiated. And of course, no pop-ups or pop-unders. Unfortunately, ads that break those rules sometimes do slip through our automated system. So if you see a banner ad that violates this policy, please let us know by emailing [ads@boingboing.net](mailto:ads@boingboing.net) and we'll investigate.
