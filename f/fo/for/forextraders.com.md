@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forextraders.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221194048id_/https%3A//www.forextraders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextraders.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624121343id_/https%3A//www.forextraders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Forextraders.com
 
