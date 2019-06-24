@@ -1,165 +1,383 @@
-> *The following text is extracted and transformed from the swiftly.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226050154id_/https%3A//99designs.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftly.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624071612id_/https%3A//99designs.com/legal/privacy) for the most accurate reproduction.*
 
 # 
 
-## In few words
+**This privacy policy was last updated on: May 23, 2019**
 
-At 99designs we respect your privacy rights. We consider the confidentiality and security of your information to be of the utmost importance. We take a variety of technical, administrative, and physical measures to protect your information from disclosure to or access by third parties.
+## Important information about 99designs
 
-Please note that we do not guarantee the security of information, as no method of internet transmission or storage is completely secure. Also note that we may retain and store your information in our databases and systems even after your 99designs account is deactivated as long as we have a legitimate purpose to do so and in accordance with applicable law.
+99designs is a group of companies, including 99designs, Inc, based at 2201 Broadway, Suite 815, Oakland, CA 94612, United States of America and 99designs Pty Ltd, ACN 121 195 248 based at 41-43 Stewart Street, Level 2, Richmond, VIC 3121, Australia and 99designs GmbH, HRB 124340 B based at Bergmannstraße 102/103, 10961 Berlin, Germany. The 99designs entity responsible for your personal information will be the member of 99designs that originally collects information from or about you. If you are an EU/UK individual, this entity will be the data controller. You can learn the identity and details of your data controller in a number of ways. For example, where you or the business you work for engages us to provide a service, we would provide you with our name, address and contact details at that time. 
 
-We only collect your information with your consent or with lawful reasons; we only collect the personal information that is necessary to fulfill the purpose of your interaction with us; we don't sell it to third parties; and we only use it as this Privacy policy describes below.
+You should be aware that although one 99designs company may be principally responsible for looking after your personal data, information may be held in databases which can be accessed by other 99designs companies worldwide. We provide more information on our worldwide service locations in this policy. When accessing your personal data, all 99designs companies will comply with the standards set out in this policy. You can find out more about our creative platform and how it works at <https://support.99designs.com/hc/en-us> or by contacting us using the information indicated on that page. 
 
-**Last revised on:** 25th of May 2018
+* * *
 
-99designs Pty Ltd, Australian Company Number 121 195 248 (“ **99designs** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our Site at www.99designs.com and Services (as defined in the Terms of Use). It also describes the choices available to you regarding the use of your Personal Information and how you can access and update this information. Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at <https://99designs.com/legal/terms-of-use>.
+This privacy policy explains how we collect, use and share personal information in the course of our business activities, including: 
 
-## International data transfers, EU-U.S. and Swiss-U.S. Privacy Shield
+  * What personal information we collect and when and why we use it
+  * How we share personal information within 99designs and with our service providers, regulators and other third parties
+  * Explaining more about Direct Marketing, Profiling, and Analytics
+  * Transferring personal information globally
+  * How we protect and store personal information
+  * Cookies
+  * Legal rights available to help manage your privacy
+  * How you can contact us for more support
 
-99designs is headquartered in the Australia with offices in the United States and has affiliates and service providers in other countries, and your personal information may be transferred to the United States or other locations outside of your state, province, country or other governmental jurisdiction where privacy laws may not be as protective as those in your jurisdiction.
 
-99designs, Inc. (our U.S Affiliate) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. 99designs, Inc. is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Frameworks, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
 
-99designs, Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  99designs, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+We want to make our policies on managing your data clear and understandable, so we've tried to write our privacy policy in plain English. We have designed this policy to be as user friendly as possible. Each section of this policy is labelled to make it easy for you to navigate - please click on a topic in the list above to find out more. 
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, 99designs, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, 99designs, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+## Updates
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://www.jamsadr.com/eu-us-privacy-shield>.
+We may review or update this privacy policy from time to time to keep it up to date with legal requirements and the way we operate our business. We will place any updates on this webpage, so please regularly check for updates. If we make fundamental changes to this privacy policy, we may take additional steps to notify you including by posting on our website, through pop-up notices or via email.
 
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+## Third Party Websites
 
-## 1\. User Consent.
+You might find links to external third party websites on our website. This privacy policy does not apply to your use of a third party site and we are not responsible for the privacy practices of any third party. You should check the privacy policies of any third party websites for information on how these third parties process your personal information. 
 
-By submitting Personal Information through our Site or Services, you expressly consent to the collection, use and disclosure of your Personal Information in accordance with this Privacy Policy.
+In this section you can find out more about: 
 
-## 2\. Visitors under the age of 16.
+  * The types of personal information we collect; 
+  * When we collect personal information; 
+  * The different kinds of personal information we collect for certain services we offer; 
+  * How we use personal information; and 
+  * The legal basis for using personal information. 
 
-Our Service is not offered to persons under the age of 16. Thus, we do not intentionally gather Personal Information from visitors who are under the age of 16.
 
-## 3\. Types of Data We Collect
 
-“ **Personal Information** ” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. We collect Personal Information, only as described below.
+## When we collect information
 
-### a. Information You Provide to Us.
+We collect information about you if you register with or use one of our websites or online services, purchase or use one of our services, contact us or work with us as a business partner. 
 
-  * We may collect Personal Information from you, such as your name, e-mail and mailing addresses, phone number, and password when you create an account with us (“ **Account** ”).
-  * If you are a Designer, we may require that you provide your tax information.
-  * When you make a purchase, we (or our third party service provider) will collect all information necessary to complete the transaction, including your name, credit card information, debit card information, billing information and/or PayPal information.
-  * We retain information on your behalf, such as Design Briefs, Design Contests, Design Concepts, Design Templates, Invoice Service invoices, transactional history, messages and any other information that you store using your Account.
-  * If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
-  * When you participate in one of our surveys, we may collect additional profile information.
-  * When you post messages on our Site, the information contained in your posting will be stored on our servers and other users will be able to see it.
-  * We may also collect Personal Information at other points in our Site that state that Personal Information is being collected.
+We may collect information about you indirectly from other sources and combine that with information we collect through our services where this is necessary to help manage our relationship with you. These other sources may include third party software applications and social media platforms such as Facebook, Google+ and Twitter.
 
+Our services are not offered to persons under the age of 16 years old and we will not knowingly collect any personal data about children under 16 years old.
 
+## Personal information we collect and use if you register to use or use one of our websites or services
 
-### b. Tracking Technologies / Cookies.
+Personal information that may be collected directly from you if you register to use or use one of our websites or services includes name, contact details, organization name and details, your own domain name, IP address, professional qualifications and billing details including credit card details.
 
-  * 99designs and our marketing partners, affiliates, or analytics or service providers use cookies or similar technologies in analyzing trends, administering the website, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-  * To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you automatically and store it in log files. The information may include your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, internet service provider (ISP), referring/exit pages, clickstream data and/or a date/time stamp for your visit. We may link this automatically-collected data to Personal Information for the purposes of security and to detect fraudulent activity.
-  * We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We may also collect personal information such as IP address, device information and log information by using cookies. Please see Cookies Policy for more information on this. 
 
+If you are a designer using our services, we will store the information on the profile you create and the content you choose to make available to other users, such as participation statistics, design concepts, design templates, service offerings, and messages and testimonials. We may also collect your tax information and information to verify your identity (passport, ID card or driver's licence information). 
 
+If you are a customer using our services, we will store the information on the profile you create and the content you choose to make available to other users, such as design briefs, design contests, design concepts, and messages and testimonials.
 
-### c. Google Analytics.
+We may process account behaviour for security purposes only to protect you from spam messages and to improve identification of spam and fraudulent activity. 
 
-We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://web.archive.org/web/20181226050154id_/https%3A//99designs.com/legal/www.google.com/ads/preferences/).
+We may also collect your personal information where you request information or materials from us, participate in surveys or polls, subscribe to our mailing list or join our social media pages. 
 
-## 4\. Use of Your Personal Information
+This will usually be your name and email address, together with other information needed to respond to the particular campaign or your enquiry.
 
-### a. General Use.
+We collect information about your marketing preferences including interests/marketing list assignments, record of permissions or marketing objections and website data.
 
-In general, Personal Information you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Information in the following ways: \- to facilitate the creation of and secure your Account; \- identify you as a user in our system; \- improve our Site and Services; \- for our internal research and development; \- customize content to match your preferences; \- prevent suspended users from re-registering; \- provide the Services you request; \- send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created; \- send you administrative e-mail notifications, such as security or support and maintenance advisories; \- respond to your inquiries and requests; \- to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback; and \- to send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of 99designs.
+When you choose to provide a testimonial, we may use your testimonial for marketing purposes. If we offer a referral service from time to time and one of our users utilises that referral service to tell a friend about our site, we will collect your name and email address from that user to send you a one-time email inviting you to visit our site. We store this information for the sole purpose of sending the one-time email and tracking the success of our referral program. You may contact us to remove this information from our database.
 
-## 5\. Disclosure of Your Personal Information.
+If you apply for a job with us, we collect information such as your contact details and the information you submit in your application and CV.
 
-We disclose your Personal Information as described below and as described elsewhere in this Privacy Policy.
+## How do we use the personal information we collect from you?
 
-### a. Profile Information.
+We use this information to: 
 
-The profile you create on our Site will be publically accessible unless otherwise indicated. You may delete your profile by requesting to delete your account by contacting us via phone or by email at privacy@99designs.com. The information collected during the registration process by 99designs may be used by 99designs to: contact members, customize content to match your preferences, display member status, and display the date of a member’s last visit. If you believe that an unauthorized profile has been created about you, please contact us privacy@99designs.com to request removal.
+  * Provide you with our services and to maintain, manage, promote and improve our services; 
+  * Verify the identity of our designers to provide a professional work environment;
+  * Enable you to access and use our services, including uploading, downloading, collaborating on and sharing content;
+  * Enable you to communicate, collaborate and share content with users you designate;
+  * Connect you with other third party service providers;
+  * Send you notifications when you receive new messages; 
+  * Provide you with information about services, features, surveys, newsletters, offers;
+  * Contact you to let you know about updates to our services or information we feel may be of interest to you (see more information at Direct Marketing); 
+  * Personalize our services, including by providing content, features, that match your interests and preferences;
+  * Provide you with support including technical support and troubleshooting for example, to reset your password; 
+  * Protect you and conduct security investigations and fraud analysis (including to help us flag spam messages and to prevent unauthorised access to our services); 
+  * Respond to you if you communicate with us;
+  * Comply with our legal obligations, for example when assisting governments and law enforcement agencies or regulators (as may be required by law). 
 
-### b. Public Member Directory
 
-We will list you in our publicly accessible member directory. If you wish to request removal of your information from our directory, you can contact us at privacy@99designs.com.
 
-### c. Third Party Service Providers.
+We also use your personal information for data analytics, particularly to understand how you use our services. We use aggregated information derived from the use of our services to provide 99designs with information on usage trends and product insight. This aggregated information is used to improve 99designs' services and products only.
 
-We may share your Personal Information with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to 99designs. These third party service providers are required not to use your Personal Information other than to provide the services requested by 99designs.
+## EU/UK individuals - Legal basis for using your personal information
 
-### d. Affiliates and Acquisitions.
+If you are an individual who is either based in or a resident of the European Union or the United Kingdom, we will only collect, use and share your personal information for the purposes set out above where we are satisfied that we have an appropriate legal basis to do this. This may be because: 
 
-We may share some or all of your Personal Information with our parent company, subsidiaries, joint ventures, or other companies under a common control (“ **Affiliates** ”), in which case we will require our Affiliates to honor this Privacy Policy. As described above, 99designs, Inc. (our U.S. Affiliate) complies with the E.U.-U.S. Privacy Shield and Swiss-U.S. Privacy Shield. If another company acquires our company, business, or our assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
+  * We need to use your personal information to perform a contract or take steps to enter into a contract with you. For example, to take payment for the services we provide to you; 
+  * We need to use your personal information to support the legitimate interests that we have as a business. Where we do so, we will look after your information at all times in a way that is proportionate and respects your privacy rights. You have a right to object to this processing as explained in Legal rights available to help manage your privacy; 
+  * We need to use your personal information to comply with a relevant legal or regulatory obligation that we have; or
+  * You have provided your consent to us using the personal information that way. 
 
-### e. Frames
 
-Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to 99designs.com.
 
-### f. Other Disclosures.
+If you would like to find out more about the legal basis for which we process personal information please contact us. 
 
-Regardless of any choices you make regarding your Personal Information (as described below), 99designs may disclose Personal Information if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on 99designs, bankruptcy proceedings, or similar legal process; (c) to protect or defend the rights or property of 99designs or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or the Terms of Use.
+In this section you can find out more about how we share personal information:
 
-## 6\. Third Party Websites.
+  * within 99designs; 
+  * With third parties that help us provide our products and services; and
+  * With government organisations and agencies, law enforcement and regulators. 
 
-### a. Third Party Sites Generally.
 
-When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect Personal Information. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
 
-### b. Other Social Media Features.
+We may share your personal information in the manner and for the purposes described below: 
 
-Our Site includes social media features (“ **Features** ”) such as the Facebook Like button, Tweet button and other widgets or interactive mini-programs that run on our Site. These Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Feature to function properly. These Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the terms of use and privacy policy of the company providing them (e.g., Facebook or Twitter).
+  * With other companies within the 99designs group where such disclosure is necessary to provide you with our products or and services, including technical support or to manage our business. You can get a list of our group entities by contacting us;
+  * With third parties who help manage our business and deliver services. Our contracts with third parties generally include an obligation for them to comply with this privacy policy and to use any personal information we share with them solely for the purpose of providing services to us. However, any personal information you agree to provide may be received by a third party and may be stored and used by them according to their privacy policy; 
+  * Where you direct us as part of the services we are providing to share your personal information with another user or to a third party service provider in order to integrate our services with a service that they may provide, for example with a third party printing partner, website builder or web development service provider so that they can provide you with a quote or service;
+  * With government organisations and agencies, law enforcement, regulators to comply with all applicable laws, regulations and rules, and requests of law enforcement, regulatory and other governmental agencies;
+  * With credit reference agencies and organisations working to prevent fraud in financial services and spam activities; 
+  * If, in the future, we sell or transfer some or all of our business or assets to a third party, we may disclose information to a potential or actual third party purchaser of our business or assets; and
+  * We may share in aggregate, statistical form, non-personal information regarding the visitors to our website, traffic patterns, and website usage with our partners, affiliates or advertisers. 
 
-## 7\. Your Rights and Choices Regarding Your Personal Information
 
-Please contact us using the information in the “Contact Information” section below, if you would like further information in relation to your legal rights under applicable law or would like to exercise any of them. We will consider all requests and provide our response within the time period stated by applicable law. Depending on the circumstances and the information you request, we may require additional methods of verification in our discretion. Please note that certain information may be exempt from your requests, if we need to keep processing your information for our legitimate interests or to comply with a legal obligation.
 
-### a. Choices.
+In this section you can find out more about: 
 
-We offer you choices regarding the collection, use, and sharing of your Personal Information.
+  * How we use personal information to keep you up to date with our products and services;
+  * How you can manage your marketing preferences;
+  * When and how we undertake profiling and analytics; and 
+  * When and how we carry out automated decision making. 
 
-  1. When you create an Account on 99designs.com, we may periodically send you free newsletters and e-mails that directly promote the use of our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive, by adjusting your email preferences from within your Account setting page or by contacting us directly (please see contact information below).
 
-  2. Despite your indicated e-mail preferences, we may send you service related communication (for instance, if our service is temporarily suspended for maintenance) or notices of any updates to our Terms of Use or Privacy Policy. You do not have an option to opt out of these emails, which are not promotional in nature.
 
+## How we use personal information to keep you up to date with our products and services
 
+We may use your personal information to let you know about our services or related services that we believe will be of interest to you. We may contact you by email or through other communication channels that we think you may find helpful. In most cases our processing of your personal information for marketing purposes is based on our legitimate interests, although in some cases (such as where required by law or where we use or process any of your Sensitive Personal Data) it may be based on your explicit consent. In all cases, we will respect your preferences for how you would like us to manage marketing activity with you. 
 
+## How you can manage your marketing preferences
 
-### b. Deletion or Changes to Personal Information.
+To protect your privacy rights and to ensure you have control over how we manage marketing with you: 
 
-Upon request 99designs will provide you with information about whether we hold any of your personal information. You may change any of your Personal Information in your Account by editing your profile within your Account or contacting us via the Site. You may request deletion of your Personal Information by contacting us via the site or at privacy@99designs.com, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We will respond to your request to access within 30 days.
+  * We will take steps to limit direct marketing to a reasonable and proportionate level and only send you communications which we believe may be of interest or relevance to you; 
+  * You can ask us to stop direct marketing at any time - you can ask us to stop sending email marketing, by following the "unsubscribe" or opt-out links in electronic communications or by adjusting your marketing preferences from within your online account. Alternatively you can contact us; and 
+  * You can change the way your browser manages cookies, which may be used to deliver online advertising, by following the settings on your browser as explained below. 
 
-We will retain your information for as long as your Account is active or as needed to provide you Services, for fraud prevention and similar purposes and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## 8\. Security of Your Personal Information.
 
-99designs is committed to protecting the security of your Personal Information. We (and our third party service providers) use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. When you enter sensitive information (such as a credit card number or SS#) on our order forms, we (or our third party service providers) encrypt transmission of that information using secure socket layer technology (SSL). We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while 99designs uses reasonable efforts to protect your Personal Information, 99designs cannot guarantee its absolute security. If you have any questions about security on our Site, you can contact us at privacy@99designs.com.
+We recommend you routinely review the privacy notices and preference settings that are available to you on any social media platforms as well as your preferences within your account with us.
 
-## 9\. Blogs.
+## When and how we undertake profiling and analytics
 
-Our Site offers publicly accessible blogs. Our blog is managed by a third party application (Wordpress). You can leave comments, which will be publically visible on our blog after we’ve approved them.
+We undertake profiling to lock stolen accounts or accounts that are used for spamming/fraud.
 
-## 10\. Testimonials.
+If you have signed up to receive marketing updates, we may use profiling to ensure that marketing materials are tailored to your preferences and to what we think you will be interested in. This does not have any significant effect or a legal effect on you. 
 
-We display personal testimonials of satisfied customers on our Site in addition to other endorsements. If you choose to provide a testimonial on the Site, we may post your testimonial for marketing purposes. If you wish to update or delete your testimonial, you can contact us at privacy@99designs.com.
+## Third party analytics
 
-## 11\. Referrals / Tell a Friend.
+We use Google Analytics, a web analysis service of Google Inc. ('Google'). Google Analytics uses cookies to monitor traffic to, and use of our website and services. Information about the use of our services generated by these cookies is generally transferred to a Google server in the USA and stored there. Google uses this information on our behalf to evaluate your usage of our website and services, to compile reports on activities, and to provide additional analytics services connected with our services. We will not identify you to Google, and will not merge personal and non-personal information collected through this service. You can prevent the use of Google Analytics cookies by adjusting the settings on your browser software as explained below, however, you may not be able to fully use all of the functions of our website and services if you do so. For more information about and to prevent Google’s collection of data generated by your use of our website and services (including your IP address) you can download and install a Browser Plugin available at <https://tools.google.com/dlpage/gaoptout?hl=en>.
 
-If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. 99designs stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us to request that we remove this information from our database.
+In this section you can find out more about:
 
-## 12\. Contact Information.
+  * How we operate as a global business and transfer data internationally; and
+  * The arrangements we have in place to protect your personal information if we transfer it overseas.
 
-99designs welcomes your comments or questions regarding this Privacy Policy. Please contact us at the following:
+
+
+Your personal information may be disclosed, transferred to or processed outside of your country of residence. If you are an individual in Australia this may include the United States of America, Germany, the Philippines and Brazil, where it will be subject to the laws of the country to which it is transferred. These jurisdictions may not have an equivalent level of data protection laws as those in your country.
+
+**EU/UK individuals** \- If you are an individual based in or a resident of the European Union or the United Kingdom, your personal information may be processed outside of the European Union, in countries such as the United States of America, Australia, Brazil and the Philippines that are subject to different standards of data protection. 
+
+We will take appropriate steps ensure that transfers of personal information are in accordance with applicable law and carefully managed to protect your privacy rights and interests and transfers are limited to countries which are recognized as providing an adequate level of legal protection or where we can be satisfied that alternative arrangement are in place to protect your privacy rights. To this end:
+
+  * We ensure transfers within 99designs' group of companies will be covered by an agreement entered into by members of 99designs' group of companies (an intra-group agreement) contractually obliges each member to ensure that personal information receives an adequate and consistent level of protection wherever it is transferred within 99designs' group of companies; 
+  * Where we transfer your personal information outside of our group of companies or to third parties who help provide our services, we obtain contractual commitments from them to protect your personal information. Some of these assurances are well recognized certification schemes like the EU - US Privacy Shield [for the protection of personal information transferred from within the EU to the United States and/or the use of EU approached Standard Contractual Clauses ( **'EU Model Clauses'** ) for controller to controller and /or controller to processor transfers from the EU /UK to jurisdictions, such as Australia, who do not have an adequacy finding from the EU Commission; or
+  * Where we receive requests for information from law enforcement or regulators, we carefully validate these requests before any personal information is disclosed.
+
+
+
+You have a right to contact us for more information about the safeguards we have put in place to ensure the adequate protection of your personal information when this is transferred as mentioned above. 
+
+**Privacy Shield** \- 99designs complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. 99designs has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
+
+If you have a question or complaint you believe to be within the scope of our Privacy Shield certification, please contact us first at privacy@99designs.com, or using the contact details in the “Contact us” section below. We'll respond within 30 days.
+
+For any complaints that we can’t resolve directly, JAMS is the independent organization responsible for reviewing and resolving complaints about our Privacy Shield compliance. You can contact JAMS free of charge at https://www.jamsadr.com/eu-us-privacy-shield. JAMS is an alternative dispute resolution provider based in the U.S..
+
+If your concern still isn't addressed by JAMS, you may be entitled to a binding arbitration under the Privacy Shield Principles. For purposes of enforcing compliance with the Privacy Shield, 99designs, Inc. is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission.
+
+## Security
+
+We store most of your personal information electronically. We implement and maintain appropriate technical and organisational security measures, policies and procedures designed to reduce the risk of accidental destruction or loss, misuse or interference or the unauthorised disclosure, access or modification to such information appropriate to the nature of the information concerned. 
+
+## For EU / UK individuals
+
+Measures we take include:
+
+  * Placing confidentiality requirements on our staff members and service providers who have access to your personal information;
+  * Destroying or permanently anonymising personal information if it is no longer needed for the purposes for which it was collected;
+  * Following strict security procedures in the access, storage and disclosure of your personal information to prevent unauthorised access to it;
+  * Using secure communication transmission software (known as "secure sockets layer" or "SSL") that encrypts all information you input on our website before it is sent to us. SSL is an industry standard encryption protocol and this ensures that the information is reasonably protected against unauthorized interception. 
+
+
+
+As the security of information depends in part on the security of the computer you use to communicate with us and the security you use to protect User IDs and passwords, please take appropriate measures to protect this information.
+
+## Storing your personal information
+
+We will store your personal information for as long as is reasonably necessary for the purposes for which it was collected, as explained in this privacy policy. Where your information is no longer needed, we will ensure that it is disposed of in a secure manner. 
+
+In some circumstances we may store your personal information for longer periods of time, for instance where we are required to do so in accordance with legal, regulatory, tax, accounting requirements. 
+
+Where you request that we delete your account from our system, we will lock the account and delete it from our servers within 30 days. However, in specific circumstances we may store your personal information for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your personal information or dealings. 
+
+A cookie is a small text file containing small amounts of information which is downloaded to / stored on your computer (or other internet enabled devices, such as a smartphone or tablet) when you visit a website. 
+
+Cookies may collect personal information about you. Cookies help us remember information about your visit to our website, like your country, language and other settings. Cookies allow us to understand who has seen which web pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website. They can also help us to operate our website more efficiently and make your next visit easier. Cookies can allow us to do various other things, as explained further in our Cookies Policy which you can access by clicking on the link below. 
+
+Read our [Cookies Policy](https://99designs.com/legal/cookie)
+
+You may access or request correction of the personal information that we hold about you by contacting us. There are some circumstances in which we are not required to give you access to your personal information.
+
+There is no charge for requesting access to your personal information but we may require you to meet our reasonable costs in providing you with access (such as photocopying costs or costs for time spent on collating large amounts of material).
+
+We will respond to your requests to access or correct personal information in a reasonable time and will take all reasonable steps to ensure that the personal information we hold about you remains accurate, up to date and complete.
+
+## For EU / UK individuals
+
+If you are an individual based in or a resident of the European Union or the United Kingdom, or a person to whom EU GDPR applies, there are additional rights available to you. Subject to certain exemptions, and in some cases dependent upon the processing activity we are undertaking, you have certain rights in relation to your personal information. Click on the links below to learn more about each right you may have:
+
+  * To access personal information;
+  * To rectify / erase personal information;
+  * To restrict the processing of your personal information;
+  * To transfer your personal information;
+  * To object to the processing of personal information;
+  * To object to how we use your personal information for direct marketing purposes;
+  * To obtain a copy of personal information safeguards used for transfers outside your jurisdiction; and
+  * To lodge a complaint with your local supervisory authority. 
+
+
+
+If you wish to access any of the above mentioned rights, we may ask you for additional information to confirm your identity and for security purposes, in particular before disclosing personal information to you. We reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive.
+
+You can exercise your rights by contacting us. Subject to legal and other permissible considerations, we will make every reasonable effort to honour your request promptly or inform you if we require further information in order to fulfil your request. 
+
+We may not always be able to fully address your request, for example if it would impact the duty of confidentiality we owe to others, or if we are legally entitled to deal with the request in a different way. 
+
+## Right to access personal information
+
+You have a right to request that we provide you with a copy of your personal information that we hold and you have the right to be informed of; (a) the source of your personal information; (b) the purposes, legal basis and methods of processing; (c) the data controller’s identity; and (d) the entities or categories of entities to whom your personal information may be transferred.
+
+## Right to rectify or erase personal information
+
+You have a right to request that we rectify inaccurate personal information. We may seek to verify the accuracy of the personal information before rectifying it. 
+
+You can also request that we erase your personal information in limited circumstances where:
+
+  * it is no longer needed for the purposes for which it was collected; or
+  * you have withdrawn your consent (where the data processing was based on consent); or
+  * following a successful right to object (see right to object); or
+  * it has been processed unlawfully; or
+  * to comply with a legal obligation to which 99designs is subject. 
+
+
+
+We are not required to comply with your request to erase personal information if the processing of your personal information is necessary: 
+
+  * for compliance with a legal obligation; or
+  * for the establishment, exercise or defence of legal claims.
+
+
+
+## Right to restrict the processing of your personal information
+
+You can ask us to restrict your personal information, but only where:
+
+  * its accuracy is contested, to allow us to verify its accuracy; or
+  * the processing is unlawful, but you do not want it erased; or
+  * it is no longer needed for the purposes for which it was collected, but we still need it to establish, exercise or defend legal claims; or
+  * you have exercised the right to object, and verification of overriding grounds is pending.
+
+
+
+We can continue to use your personal information following a request for restriction, where:
+
+  * we have your consent; or
+  * to establish, exercise or defend legal claims; or
+  * to protect the rights of another natural or legal person. 
+
+
+
+## Right to transfer your personal information
+
+You can ask us to provide your personal information to you in a structured, commonly used, machine-readable format, or you can ask to have it transferred directly to another data controller, but in each case only where:
+
+  * the processing is based on your consent or on the performance of a contract with you; and
+  * the processing is carried out by automated means. 
+
+
+
+## Right to object to the processing of your personal information
+
+You can object to any processing of your personal information which has our legitimate interests as its legal basis, if you believe your fundamental rights and freedoms outweigh our legitimate interests. 
+
+If you raise an objection, we have an opportunity to demonstrate that we have compelling legitimate interests which override your rights and freedoms. 
+
+## Right to object to how we use your personal information for direct marketing purposes
+
+You can request that we change the manner in which we contact you for marketing purposes.
+
+You can request that we not transfer your personal information to unaffiliated third parties for the purposes of direct marketing or any other purposes.
+
+## Right to obtain a copy of personal information safeguards used for transfers outside your jurisdiction
+
+You can ask to obtain a copy of, or reference to, the safeguards under which your personal information is transferred outside of the European Union. 
+
+We may redact data transfer agreements to protect commercial terms.
+
+## Right to lodge a complaint with your local supervisory authority
+
+You have a right to lodge a complaint with your [local supervisory authority](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080) if you have concerns about how we are processing your personal information. 
+
+We ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time. 
+
+The primary point of contact for all issues arising from this Policy is our Data Protection Officer. The Data Protection Officer can be contacted in the following ways:
 
 Via e-mail: privacy@99designs.com
 
-99designs PTY Ltd Level 2 41-43 Stewart Street Richmond, VIC 3121 Australia
+Via mail:
 
-99designs, Inc 2201 Broadway, Suite 815 Oakland, CA 94612 USA
+_If you are resident in Australia:_  
+99designs PTY Ltd  
+Level 2  
+41-43 Stewart Street  
+Richmond, VIC 3121  
+Australia 
 
-99designs GmbH Bergmannstr. 102-103 10961 Berlin Germany
+_If you are resident in the US:_  
+99designs, Inc  
+2201 Broadway, Suite 815  
+Oakland, CA 94612  
+USA
 
-**Data protection officer:** Luke Cawood ℅ 99designs PTY Ltd Level 2 41-43 Stewart Street Richmond, VIC 3121 Australia E-mail: privacy@99designs.com
+_If you are resident in the EU/UK/CH:_  
+99designs GmbH  
+Bergmannstr. 102-103  
+10961 Berlin  
+Germany
 
-## 13\. Changes to This Privacy Policy.
+_In all other cases:_  
+Data protection officer:  
+Luke Cawood  
+99designs PTY Ltd  
+Level 2  
+41-43 Stewart Street  
+Richmond, VIC 3121  
+Australia  
+E-mail: privacy@99designs.com
 
-This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Information, we will notify you by sending you an e-mail (if you are still a registered user of our services) to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. We will not reduce any of your rights under this Privacy Policy without your explicit consent. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Information to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Information, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+If you have any questions, concerns or complaints regarding our compliance with this privacy notice, the information we hold about you or if you wish to exercise your rights, we encourage you to first contact our Data Protection Officer or us. We will investigate and attempt to resolve complaints and disputes and make every reasonable effort to honour your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by data protection laws.
+
+In order to comply with the EU - US Privacy Shield, we have committed to resolve any complaints pursuant to the Privacy Shield Privacy Principles by European Union citizens, which cannot be resolved directly with us, through the JAMS EU-US Privacy Shield Dispute Resolution Framework as our Independent Recourse Mechanism (“IRM”). You may contact JAMS at <https://www.jamsadr.com/eu-us-privacy-shield>. 
+
+## To contact your data protection supervisory authority
+
+You have a right to lodge a complaint with your local regulator, which if you are located in the EU /EEA/ UK, will be your local data protection supervisory authority (ie your place of habitual residence, place of work or place of alleged infringement). 
+
+If you are located in:
+
+  * Australia, you can contact the Office of the Australian Information Commissioner at [www.oaic.gov.au](https://www.oaic.gov.au/).
+  * Germany, you can contact the Federal Commissioner for Data Protection and Freedom of Information at [www.bfdi.bund.de/](https://www.bfdi.bund.de/).
+  * US, you can contact the relevant information commissioner's office in your respective US State.
+
+
+
+We would ask that you please attempt to resolve any issues with us before your local supervisory authority.
