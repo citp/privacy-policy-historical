@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909224422id_/https%3A//azstateparks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624200400id_/https%3A//azstateparks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Arizona State Parks
 
 ### State of Arizona Arizona State Parks Privacy Policy Statement
 
-Thank you for visiting the Arizona State Parks and Trails website and reviewing our privacy policy statement. Arizona State Parks and Trails provides information and services specific to Arizona state parks and natural areas within Arizona as well as links to affiliates and organizations that partner with our agency. This statement is included to inform you solely about the information that could be collected online as a result of visiting Arizona State Parks and Trails itself and not as a result of following a link from Arizona State Parks adn Trails to reach a partnering entity’s website or online service. All individual agency websites of the State of Arizona are required to contain a privacy policy statement that describes what information is being obtained online, how that information will be used, and what steps are being taken to ensure the security of customer data. Your rights to privacy are of utmost importance to us at Arizona State Parks and Trails in building trust and confidence when conducting business through the internet.
+Thank you for visiting the Arizona State Parks and Trails website and reviewing our privacy policy statement. Arizona State Parks and Trails provides information and services specific to state parks and natural areas within Arizona as well as links to affiliates and organizations that partner with our agency. This statement is included to inform you solely about the information that could be collected online as a result of visiting Arizona State Parks and Trails itself and not as a result of following a link from Arizona State Parks and Trails to reach a partnering entity’s website or online service. All individual agency websites of the State of Arizona are required to contain a privacy policy statement that describes what information is being obtained online, how that information will be used, and what steps are being taken to ensure the security of customer data. Your rights to privacy are of utmost importance to us at Arizona State Parks and Trails in building trust and confidence when conducting business through the internet.
 
 ### Online Customer Service and Alternatives
 
@@ -18,11 +18,11 @@ Arizona State Parks and Trails offers many of the services online that you might
 
 **_Subscribing to the monthly Parks Newsletter  
  _**  
-Using a comment form, Arizona State Parks and Trails requires the name and email address of visitors who wish to receive by email our monthly parks newsletter and calendar of events. All other form fields are optional.
+Using a comment form, Arizona State Parks and Trails requires the name and email address of visitors who wish to receive by email our monthly parks newsletter. All other form fields are optional.
 
   **_Unsubscribing to the Parks Newsletter_**
 
-  You may opt out of the parks newsletter at any time by clicking on "unsubscribe," which is located at the bottom of every issue of the newsletter.
+  You may opt out of the parks newsletter at any time by clicking on "unsubscribe," which is located at the bottom of every issue.
 
 _**Subscribing to the Volunteer eNewsletter**_
 
@@ -31,14 +31,6 @@ _**Subscribing to the Volunteer eNewsletter**_
   _**Unsubscribing to the Volunteer eNewsletter**_
 
   You may opt out of the volunteer eNewsletter at any time by clicking on "unsubscribe," which is located at the bottom of every issue of the newsletter.
-
-_**Subscribing to the OHV Monthly Newsletter**_
-
-  Using a comment form, Arizona State Parks and Trails requires the name and email address of visitors who wish to receive by email our monthly OHV monthly newsletter. All other form fields are optional.
-
-  _**Unsubscribing to the OHV Monthly Newsletter**_
-
-  You may opt out of the OHV monthly newsletter at any time by clicking on "unsubscribe," which is located at the bottom of every issue of the newsletter.
 
 **Information Collected and Stored Automatically**
 
@@ -107,7 +99,7 @@ The State of Arizona retains all rights to the information provided by this webs
 
 ### Contact Information
 
-To offer comments about Arizona State Parks and Trails, or about the information presented in this Privacy Policy, contact Arizona State Parks and Trails Marketing Department:
+To offer comments about Arizona State Parks and Trails, or about the information presented in this Privacy Policy, contact the Arizona State Parks and Trails Marketing Communications Department:
 
 By Email: pio@azstateparks.gov
 
@@ -124,4 +116,4 @@ If you choose to provide us with personal information — by submitting an onlin
 
 ### Privacy Policy Statement Is Subject To Change
 
-This Privacy Policy Statement is subject to change _._  Last updated June 2016.
+This Privacy Policy Statement is subject to change _._  Last updated February 2019.
