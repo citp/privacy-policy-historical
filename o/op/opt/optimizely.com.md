@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228050515id_/https%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624202306id_/https%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policy
 
-_Effective May 25, 2018_
+_Effective June 05, 2019_
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=c986278b-552c-4ed2-aaa5-bff30ff73306)
 
@@ -24,7 +24,7 @@ This policy does not apply to the information Optimizely receives from the third
   
 ## 1\. Information We Collect
 
-We collect two basic types of information:  **personal information**  and  **non-personally identifiable information**. We may use personal and non-personally identifiable information to create **aggregate information**. We collect the following categories of information:
+We collect the following categories of information, which may be considered personal information when maintained in identifiable form:
 
   * **first name and surname, username and password, email address, contact information, country of residence, job title, and other information** you provide us when you create an account on the Sites or Optimizely Services, sign-up to receive communications or materials from us, or otherwise submit a form to us;
 
@@ -37,6 +37,8 @@ We collect two basic types of information:  **personal information**  and  **
   * **Information about you and your company collected from third party or public sources** or that we receive from companies that partner with us to provide products and services; this may include information about you and your company we receive from our advertising and market research partners, who may provide us with information about your interest in and engagement with our online advertisements; and
 
   * **Location information** when you visit our Sites or use our Optimizely Service, including location information either provided by a mobile device interacting with one of our sites or applications or associated with your IP address. 
+
+We may also collect non-personally identifiable information. We may use both personal information and non-personally identifiable information to create aggregate information. 
 
 
 
@@ -221,7 +223,7 @@ EEA and Swiss data subjects can contact Optimizely’s data protection officer b
 
 ## 12\. Do Not Track and Cross-Site Tracking
 
-Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. For information about Do Not Track, visit [www.allaboutdnt.org](https://web.archive.org/web/20181228050515id_/https://www.optimizely.com/privacy/www.allaboutdnt.org). At this time, we do not respond to Do Not Track browser settings or signals. In addition, some of our advertising partners, and other third-party services and tools on our Site and/or the Optimizely Service, may use standard technologies, such as cookies, pixel tags, and web beacons, to collect information about your internet activities across websites. You may be able to disable certain third-party cross-site tracking as described in the "Your Choices" section above. 
+Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. For information about Do Not Track, visit [www.allaboutdnt.org](https://web.archive.org/web/20190624202306id_/https://www.optimizely.com/privacy/www.allaboutdnt.org). At this time, we do not respond to Do Not Track browser settings or signals. In addition, some of our advertising partners, and other third-party services and tools on our Site and/or the Optimizely Service, may use standard technologies, such as cookies, pixel tags, and web beacons, to collect information about your internet activities across websites. You may be able to disable certain third-party cross-site tracking as described in the "Your Choices" section above. 
 
 ## 13\. Changes to Our Privacy Policy; Notices
 
@@ -229,6 +231,6 @@ From time-to-time, we may change this privacy policy to accommodate changes to o
 
 Notices may be by email to the last email address you provided us, by posting notice of such change on our Site or the Optimizely Service, or by other communication channels. You consent to receiving notices in these ways. We reserve the right to determine the form and means of providing notifications to you, consistent with applicable law. 
 
-If you have any questions about this Privacy Policy or our privacy practices, please contact us at [legal@optimizely.com](mailto:legal@optimizely.com), or send mail to:
+If you have any questions about this Privacy Policy or our privacy practices, please contact us at [privacy@optimizely.com](mailto:privacy@optimizely.com), or send mail to:
 
 Optimizely, Inc. 631 Howard Street, Suite 100 San Francisco, CA 94105
