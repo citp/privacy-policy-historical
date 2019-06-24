@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emblemhealth.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004080543id_/https%3A//www.emblemhealth.com/Legal-Information/Privacy-Security-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblemhealth.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190918id_/https%3A//www.emblemhealth.com/Legal-Information/Privacy-Security-Policies) for the most accurate reproduction.*
 
 # EmblemHealth Privacy & Security Policies
 
@@ -45,10 +45,6 @@ This notice describes how medical information about you may be used and disclose
 **EmblemHealth Web Site Privacy Policy**
 
 We maintain high standards for the protection of your privacy on our Web site. Please [click here](https://web.archive.org/Legal-Information/Privacy-Security-Policies/Website-Policy) for more information on how we do this. 
-
-**EmblemHealth SMS Text Messaging Help Page**
-
-EmblemHealth Notification Alerts is a service that allows plan members to receive information from EmblemHealth about their health coverage via text messages. For more information please visit our [help page](https://web.archive.org/Contact-Us/ItemNotFound?item=web%3a%7b33C612E6-DB7C-46A4-A78E-E1179101D4DE%7d%40en).
 
 **EmblemHealth Data Security Policy**
 
