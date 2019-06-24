@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827015225id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624162136id_/https%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
 
 # Rewarding Ways - Privacy
 
@@ -60,7 +60,9 @@ Details of referrals who have joined as a result of you sharing your personal re
 
 We store your personal data as securely as we can on secure servers. All reasonable steps necessary to ensure your data is adequately protected and processed in line with this privacy notice.
 
-We DO NOT pass your personal data to third parties, unless you specifically ask us to for a particular purpose (e.g. a competition), we have reason to do so as part of an investigation, or as required by law.
+We DO NOT pass your personal data to third parties, unless you specifically ask us to for a particular purpose (e.g. a competition), we have reason to do so as part of an investigation, as part of our site process in crediting your account or as required by law.
+
+We may be required to share some information from your account with our third party advertisers and survey providers in order to assist with certain aspects of the functionality of the site.  For example, we need to pass details of your username as part of the process for accessing surveys in order they are able to send a credit for succesfully completed surveys and offers to your account with us. There may also be an enquiry relating to non-crediting, or fraud where we need to able to confirm certain information in order to deal with that situation.  Any information shared is limited to what is required to ensure the smooth operating of the crediting process or to establish he facts relating to the issue being investigated.
 
 In instances where we suspect there may be a breach of rules, then as part of our investigation we may share the information we collect with regulatory authorities, relevant bodies, advertising networks and in exceptional circumstances, relevant 3rd parties, in order to protect the site and its members from potential fraudulent activity.
 
