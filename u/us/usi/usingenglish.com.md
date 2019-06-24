@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231123921id_/https%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184624id_/https%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - UsingEnglish.com
-
-  * [About Us ](https://web.archive.org/about/)
-  * [Advertising ](https://web.archive.org/about/advertising/)
-  * [Copyright ](https://web.archive.org/about/copyright/)
-  * [Terms & Conditions ](https://web.archive.org/about/terms/)
-  * [Privacy ](https://web.archive.org/about/privacy/)
-  * [Cookies ](https://web.archive.org/about/cookies/)
-  * [Disclaimer ](https://web.archive.org/about/disclaimer/)
-
-
 
 **Effective from: 19th May 2018**
 
@@ -22,8 +12,8 @@ We collect personal information for various business purposes when you interact 
 
 ## Your Choices
 
-  * You can stop receiving promotional emails from us by following the instructions in the email you receive.
-  * You may cancel your registration or deactivate your account, or update your preferences at any time.
+  * You can stop receiving promotional emails from us by following the instructions in the email you receive. 
+  * You may cancel your registration or deactivate your account, or update your preferences at any time. 
   * You can manage cookies using your browser controls.
   * You can opt out of the use of certain cookies.
   * Individual products or services may offer additional controls or preferences.
