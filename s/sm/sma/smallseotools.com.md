@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallseotools.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231105624id_/https%3A//smallseotools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallseotools.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624123942id_/https%3A//smallseotools.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -29,7 +29,7 @@ This Privacy Policy has been compiled to serve users who are concerned about how
   19. COPPA (Children Online Privacy Protection Act) 
   20. Does SmallSEOTools.com get information from children? 
   21. Data transfer, storage, retention, and deletion 
-  22. Where is my Information stored when shared with SmallSEOTools.com? 23.How safe is my Information? 
+  22. Where is my Information stored when shared with SmallSEOTools.com? 
   23. How safe is my Information? 
   24. How can I erase my Personal Data from SmallSEOTools.com? 
   25. How long is my Personal Data stored in the SmallSEOTools.com system? 
@@ -153,7 +153,7 @@ As a third-party vendor, Google makes use of cookies to serve ads on our Site, A
 
 ### Cookies that we use
 
-orgin | cookie | discription | Expiry | cetergory  
+Origin | cookie | Description | Expiry | Category  
 ---|---|---|---|---  
 CloudFlare | __cfduid | The '__cfduid' cookie is set by the CloudFlare service to identify trusted web traffic. It does not correspond to any user id in the web application, nor does the cookie store any personally identifiable information. https://support.cloudflare.com/hc/ en-us/articles/200170156-What-does -the-CloudFlare-cfduid-cookie-do-  | 2 Years | Analytics &Marketing  
 Google Analytics | _gid | Used to distinguish users. | 2 Years | Analytics &Marketing  
