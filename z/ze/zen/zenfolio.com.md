@@ -1,135 +1,69 @@
-> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163843id_/https%3A//en.zenfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624181030id_/https%3A//zenfolio.com/privacypolicy) for the most accurate reproduction.*
 
 # Zenfolio - Privacy Policy
 
-Please refer to the **Definitions** section set forth in the [Zenfolio Website Terms and Conditions of Use](https://web.archive.org/terms). 
+Welcome to the web site (the “Site”) of Zenfolio, Inc. (“Zenfolio,” “we”, “us” and/or “our”). This Site is operated by Zenfolio and has been created to provide information about our company and the services we offer, including our online platform that allows photographers to exhibit, organize, print, sell, exchange, and share digital images, videos and related products, and enables end users to search and purchase those products (together with the Site, the “Services”), to our Services customers and users (“you”, “your”). This Privacy Policy sets forth our policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from visitors to the Site and Services. 
 
-Your privacy is important to us so we will strive to keep Your information safe and secure. This privacy policy will explain the kind of information we collect about You and how we use it. By accessing and using the Website, you agree to our Privacy Policy as outlined below. 
+We abide by and have certified adherence to the principles of the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles.  If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Further, Zenfolio is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/. 
 
-## Information We Collect from You and How We Use It
+****_Information We Collect:_** **When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below: 
 
-The Website collects and stores the following information: Your name, email address, and display preferences. When subscribing for paid Services or placing e-commerce orders on our Website we may also collect Your name, billing address, telephone number, billing and credit card information, shipping addresses, and payment preferences. If you sign up to receive marketing emails, we may contact you about our Services and promotions. Users who request payments to be made to them from products sold on Zenfolio may also need to provide their tax ID information for tax reporting purposes. 
-
-We may also collect IP addresses for administration and demographic purposes and may use this information to help identify fraudulent transactions. We do not, however, link IP addresses to your computer's User ID. Additionally, we use third party analytic tools and reporting technologies to collect non-personal information such as operating system, browser software, Internet domain and host names, and activity on the Website. 
-
-Zenfolio uses the information submitted by or collected from You to optimize the Website or services to better suit You, to process e-commerce orders or enable Photographers to process orders, and to protect against potentially fraudulent transactions. 
-
-## We Use Cookies to Collect Information
-
-Like almost all e-commerce web sites, we use "cookies." Cookies are bits of information that are stored on your computer by your web browser. Although our cookies don't store any of your personal information, they do allow us to provide you with a more personalized user experience, to track your use of the Website, to analyze Website activity and to allow you to login and begin use of the Website automatically when you visit. 
-
-Whether you want your web browser to accept cookies or not is up to you. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to be notified when you receive a new cookie, or how to disable cookies altogether. If you haven't changed your computer's settings, most likely your browser already accepts cookies. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-ons settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of features and services, we recommend that you leave them turned on. For instance, if you block our cookies, you will not be able to add items to your Cart, proceed to checkout, or use any services that require you to sign in. 
-
-The list below details the cookies used on Zenfolio. We have outlined who sets these cookies and their purpose. 
-
-**Category**
-
-| 
-
-**Party**
-
-| 
-
-**Purpose**  
-  
----|---|---  
-  
-**Functionality**
-
-| 
-
-Zenfolio.com 
-
-| 
-
-Zenfolio.com uses these cookies to enable some basic functionalities to provide a basic personalized experience while browsing, making creations and shopping on our website. Examples include remembering your login details, which products you have added to your cart, your language preferences. The information collected through these cookies is only used for this purpose and is never shared or sold to third parties.   
-  
-**Strictly necessary**
-
-| 
-
-Zenfolio.com 
-
-| 
-
-These cookies are essential as they enable you to move around a website and use its features, such as accessing checkout. The information collected through these cookies is only used for this purpose and is never shared or sold to third parties.   
-  
-**Analytical/Performance**
-
-| 
-
-Google Analytics 
-
-| 
-
-Google Analytics uses cookies to collect data that helps us understand how people are using the site and monitor any errors that users may be experiencing. We use this information to identify how and where we can improve the user experience. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.   
-  
-**Analytical/Performance**
-
-| 
-
-Google Website Optimizer 
-
-| 
-
-Zenfolio.com works with 3rd party Google Website Optimizer to test and find the optimal content and experience for our users. The cookies used by Google Website Optimizer enable us to identify which experiences visitors to our site have seen and how the content has performed for the visitor, this will allow us to ensure that future experiences can be further improved. The data collected through these cookies is anonymous, Google Website Optimizer does not collect specific customer data and is never shared with other third parties.   
-  
-**Targeting**
-
-| 
-
-Various Third Party Service Providers 
-
-| 
-
-Zenfolio.com works with various 3rd party providers (such as Quantcast, Facebook, Google, Bing, etc.) to display banner advertising on other selected websites. These cookies also help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. Zenfolio.com works with 3rd party agency Quantcast to display banner advertising on other selected websites. These cookies also help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.   
-  
-**Targeting**
-
-| 
-
-Various Third Party Service Providers 
-
-| 
-
-Cookies are used by 3rd party affiliates enabling Zenfolio.com to meet contractual obligations to make payments to them when they introduce a new customer to Zenfolio.com. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.   
-  
-## How We Protect Your Information
-
-Zenfolio uses standard industry security practices to protect Your personal information including Secure Socket Layer (SSL) transmission technology for all sensitive information exchanges. This technology encrypts information You send us to avoid it being intercepted before reaching our secure HTTPS servers. 
-
-We follow generally accepted industry standards to protect the personal information submitted to us from unauthorized access or disclosure, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or other acts or omissions. 
-
-## When We Disclose Your Information to Third Parties
-
-Under no circumstances do we rent, trade or share your e-mail address with any other company for their marketing purposes without your consent. We may disclose the personal and non-personal information of our customers to any successor-in-interest of ours, such as a company that acquires our business. We may need to disclose your personal information when required by law or when we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order or legal process. We may share your mailing address with select third parties. Additionally, we contract with third party service providers who provide analytic tools and reporting technologies that may collect certain non-personal information via cookies, web beacons, or other types of tracking pixels. 
-
-## Information You Disclose to Third Parties
-
-Zenfolio assumes no responsibility for the disclosure of information of any subscriber or visitor to Photographers in the event an order is placed for fulfillment with Photographer. You specifically agree to hold Zenfolio harmless from any liability arising out of the use or misuse of any information submitted in the process of placing orders to be fulfilled by Photographers. 
-
-Zenfolio does not control the privacy policies of any third-party sites linked to our Website. Zenfolio assumes no responsibility or liability for the actions of such third parties. It is Your responsibility to be informed of and be comfortable with the privacy policy of any third-party Website that You access. Zenfolio assumes no responsibility or liability for information that You voluntarily disclose in a public area or forum. 
-
-In order to insure Your privacy, you must keep the secrecy of any password or personal information at all times. The ultimate responsibility for the protection of Your information rests with You. 
-
-## Information Collected from Children
-
-Zenfolio will not knowingly collect or use any personal information from children we know to be under the age of thirteen. In addition, once Zenfolio is notified that we are in possession of such information, we will delete any information in our databases that originates from a child under the age of thirteen. 
-
-## Data Transfer and Storage
-
-Zenfolio is a California corporation operated from within the United States. Accordingly, information collected by Zenfolio will be stored in the United States. If you are accessing the Website from outside of the United States, you acknowledge and agree that your information will be received by or transferred to servers located within the United States and processed by Zenfolio and its third party service providers. 
-
-## Opting Out of Certain Communications
-
-If you are no longer interested in receiving e-mail announcements and other marketing information from us, please e-mail your request to support@zenfolio.com. Please include your complete name, e-mail address and mailing address. Note that you may still receive transaction related communications from us. 
-
-## Changing Your Personal Information
+****Personal Data That You Provide Through the Services:** **We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, register for access to the Services, purchase products, or use certain Services where Personal Data is required.  Personal Data may include your name, address, email address, telephone number, and billing information, such as credit card numbers and billing address. We ask that in using our Services, you keep your information as up-to-date as possible, so please go to your Account to make any necessary changes. 
 
 You have a right to access the personal information held about you. You can obtain a copy of your personal information and request changes or deletion of your personal information and/or account by emailing us at support@zenfolio.com. For your protection, you may be required to provide proof of your identity before obtaining a copy of your personal information. 
 
-## Changes to our Privacy Policy
+**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to us through use of the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to our offices and servers, and those of authorized third parties referred to herein, located in the United States.** If we have received your Personal Data from you and subsequently transfer it to a third party service provider for processing, we will remain responsible if they process your Personal Data in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage. 
 
-If we change our Privacy Policy, we will post a new version on our Website, which will become effective when posted. The new policy will apply to all current and past users of the Website and will replace any prior policies that are inconsistent with it. 
+****Personal Data We Receive as a Processor:** **We may receive Personal Data about you from photographers who upload that data to our platform for use with certain features of our Services (“Processor Data”).  Management of Processor Data is solely in the control of the applicable photographer, and our only use of Processor Data is to store it and to make it available to the applicable photographers as part of the Services provided to them.  We require photographers to obtain your consent in order for us to use Processor Data as described above, and we comply with applicable laws as a processor in that regard. To exercise rights or choices with respect to Processor Data, please make your request directly to the applicable photographer for whom we process that data. 
 
-Updated January 14, 2016 
+**Other Information:**
+
+_**Non-Identifiable Data:** _When you interact with us through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. We may store such information itself or such information may be included in databases owned and maintained by our affiliates, agents or service providers, and is used as provided in our Terms of Service. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.  
+
+In operating the Services, we and our service providers may use a technology called " cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Cookies help provide additional functionality to the Services, help us analyze Services usage more accurately, and meet contractual obligations to make payments to third parties when they introduce a new customer to us. For instance, our Site may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features. 
+
+_**Aggregated and Anonymized Personal Data:**_ In an ongoing effort to better understand and serve the users of the Services, we often conduct research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and we may share this aggregate data with its affiliates, agents, business partners and customers. This aggregate information does not identify you personally. We may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes. 
+
+****_Analytics and Tracking Technologies_ : ** **We may, and we may allow third party service providers to, use cookies (as noted above) or other tracking technologies to collect information about your browsing activities over time and across different websites following your use of the Site.  For more information about the third party service providers we use and the data collected by them, see our [Third Party Providers page](https://zenfolio.com/third-party-providers) as updated by us from time to time, which is incorporated herein by reference. 
+
+Our Site currently does not respond to “Do Not Track” (DNT) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. If we do so in the future, we will describe how we do so in this Privacy Policy. 
+
+**_Our Use of Your Personal Data and Other Information:_ **We use the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data to us in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. For Processor Data, we use that data only for the provision of Services to the photographers who have uploaded that data.  We may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services, and to fulfill your orders. If you have accepted our Terms of Service and provided necessary consents for us to contact you, we may also contact you in the future to tell you about services we believe will be of interest to you. If you are no longer interested in receiving e-mail announcements and other marketing information from us, please e-mail your request to support@zenfolio.com. Please include your complete name, e-mail address and mailing address. Note that you may still receive transaction related communications from us, as provided in our Terms of Service. 
+
+****_Our Disclosure of Your Personal Data and Other Information:_** **We are not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: 
+
+**Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.  
+
+**Agents, Photographers, Consultants and Related Third Parties:** We, like many businesses, sometimes hire other companies to perform certain business-related functions. Examples of such functions include mailing information, order processing and fulfillment, maintaining databases and processing payments. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function. And when we fulfill orders, we may share that order information with the applicable photographer. 
+
+****Legal Requirements:** **We may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, including disclosure in response to lawful requests or for the purpose of meeting national security or law enforcement requirements, (ii) protect and defend our rights or property, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability. 
+
+**_Your Choices:_ **
+
+You can visit the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services. 
+
+****_Exclusions:_** **This Privacy Policy does not apply to any Personal Data collected by us other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to us through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and we shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.  Also, Zenfolio assumes no responsibility for the disclosure of information to any photographer who maintains a website hosted on the Zenfolio platform, including information you provide to the photographer for an order placed for fulfillment with the photographer. You specifically agree to hold Zenfolio harmless from any liability arising out of the use or misuse of any information submitted in the process of placing orders to be fulfilled directly by photographers. 
+
+**Children:** We do not knowingly collect Personal Data from children under the age of 16. If you are under the age of 16, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 16 has provided Personal Data to us through the Services, please contact us, and we will endeavor to delete that information from our databases. 
+
+**_Links to Other Web Sites:_  ** This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by us (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that we endorse or have reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
+
+****_Integrating Social Networking Services:_** **You may wish to share information and activities from the Services with social media platforms. To utilize social media sharing features, you will be prompted to grant permissions within those platforms, as you choose. For Facebook updates, you will need to allow account login and publishing permissions. This enables you to: post questions and content to a feed, upload photos/videos, add likes and comments, create notes and post to events and groups. However, please remember that the manner in which social networking services use, store and disclose your information is governed by the policies of such third parties, and we shall have no liability or responsibility for the privacy practices or other actions of any social networking services that may be enabled within the Services. 
+
+****_Security:_** **Zenfolio uses standard industry security practices to protect Your personal information including Secure Socket Layer (SSL) transmission technology for all sensitive information exchanges. This technology encrypts information You send us to avoid it being intercepted before reaching our secure HTTPS servers. We follow generally accepted industry standards, including physical, electronic and managerial safeguards to protect the Personal Data submitted to us from unauthorized access or disclosure. These safeguards are regularly reviewed to protect against unauthorized access, disclosure and improper use of your information, and to maintain the accuracy and integrity of that data. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We assume no liability for any disclosure of data due to errors in transmission, unauthorized third-party access, or other acts of third parties. 
+
+**_Changes to This Privacy Policy:_ **The Services and our business may change from time to time. As a result, at times it may be necessary for us to make changes to this Privacy Policy. We reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.   
+
+
+**_Contacting Zenfolio:_ **Please also feel free to contact us if you have any questions about this Privacy Policy or the information practices of the Services. You may contact us as follows: [privacy@zenfolio.com](mailto:privacy@zenfolio.com). 
+
+In compliance with the Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield.  European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact us at: [privacy@zenfolio.com](mailto:privacy@zenfolio.com).  As noted above, for issues regarding Processor Data, you should contact the applicable photographer.  However, if the photographer does not time address your concerns, please contact us at: [privacy@zenfolio.com](mailto:privacy@zenfolio.com) with details about your issue. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact JAMS, our U.S.-based third party dispute resolution provider (free of charge), at https://www.jamsadr.com/eu-us-privacy-shield. 
+
+If you have a Privacy Shield complaint that cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
+
+Last updated: March 11, 2019 
+
+  
+
