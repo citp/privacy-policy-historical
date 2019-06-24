@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nabp.net privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022024212id_/https%3A//nabp.pharmacy/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabp.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190338id_/https%3A//nabp.pharmacy/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Association of Boards of Pharmacy
 
 ## Privacy Policy
 
- _Last Updated: June 27, 2018_
+ _Last Updated: November 12, 2018_
 
 ##### Introduction
 
@@ -16,9 +16,9 @@ Please review the Policy and the [Terms of Use](https://nabp.pharmacy/policies/t
 
 ##### INFORMATION COLLECTED
 
-When you request services (Services) such as subscriptions, information, registrations, or applications, NABP may ask you to provide Personal Information to complete these transactions and deliver the Services. For example, if you request to register for an examination or meeting, or if you request a subscription to continuing pharmacy education monitoring, NABP may collect Personal Information such as your name or email address to complete the registration or subscription that you requested.
+NABP offers many services (Services), including educational, informational, examination, accreditation, licensure, registration, promotional, and subscription Services. NABP may ask you to provide Personal Information to complete a transaction or may use Personal Information to deliver Services. For example, if you request to register for an examination or meeting, or if you request a subscription related continuing pharmacy education, NABP may collect Personal Information such as your name, email address, or payment information to complete the registration or subscription that you requested.
 
-The types of Personal Information that NABP may collect include:
+The types of Personal Information that may be collected include:
 
   * First and last name;
   * Address;
@@ -43,7 +43,7 @@ The types of Personal Information that NABP may collect include:
 
 NABP may collect non-Personal Information during your visit to the Site. This information includes, but is not limited to, certain standard data that your browser sends to the Site such as your browser type and version, device type, language, access times, and the IP address of the website from which you arrived at the Site.
 
-NABP may engage third-party service providers to support or administer Services, including the Site. These service providers may collect Personal Information on behalf of NABP. For example, NABP engages a third-party service provider that collects email addresses from individuals who subscribe to _NABP e-News_.
+NABP may engage third-party service providers to support, provide, or administer Services, including the Site. These service providers may collect Personal Information on behalf of NABP or receive Personal Information from NABP. For example, NABP engages a third-party service provider that collects email addresses from individuals who subscribe to _NABP e-News_.
 
 NABP might store some information on your computer hard drive in the form of a “cookie” to assist you with purchasing Services from NABP, to speed the log-in process, or to store information, such as personal preferences. Additionally, NABP’s third-party service providers may use information obtained through “cookies” for the purpose of evaluating your use of the Site, compiling reports on Site activity and Internet usage. You may refuse the use of cookies by selecting the appropriate settings on your browser. Please note, that if you refuse the use of cookies you may not be able to use the full functionality or Services of the Site.
 
@@ -51,7 +51,7 @@ When you pay for Services, credit card information may be collected by NABP thro
 
 ##### USE OF PERSONAL INFORMATION
 
-NABP uses Personal Information to deliver the Services you have requested, as you may permit from time to time, to contact you on behalf of boards of pharmacy, to contact you about your e-Profile, NABP account, or use of the Site, or for Association operations, including quality assurance purposes, to deliver to you information about NABP, or promotional material.
+NABP uses Personal Information to deliver the Services you have requested, as you may permit from time to time, to contact you on behalf of boards of pharmacy, to contact you about your e-Profile, NABP account, or use of the Site, or for Association operations, including quality assurance purposes, to deliver to you information about NABP, or promotional activities.
 
 Personal demographic and profile data may be used to tailor your experience at the Site, for example, to show you content you might be interested in.
 
@@ -63,7 +63,7 @@ NABP may share your Personal Information with regulatory or law enforcement agen
 
 NABP may disclose your Personal Information if required under the law or to comply with legal process, to protect or defend NABP rights, property, staff, or members, or the rights, property, or safety of others.
 
-NABP may provide third-party service providers with your Personal Information for purposes of delivering the NABP Services you request or third-party services you may request. For example, NABP may provide your name, address, and phone number to our testing vendor if you request examination Services through the Site. Such third parties are required to protect your Personal Information in conformance with applicable state and federal laws. The privacy policy of such providers may apply to their use of your information. The provider’s policy may differ from this Policy, and you may wish to review the provider’s privacy policy or contact the provider directly for more information.
+NABP may provide third-party service providers with your Personal Information for purposes of delivering the NABP Services you request, for third-party services that you may request, or to support, provide, or administer Services, including the Site. For example, NABP may provide your name, address, and phone number to our testing vendor if you request examination Services through the Site. NABP may provide your name and email address to a marketing organization to provide you with information about NABP Services.  Such third parties are required to protect your Personal Information in conformance with applicable state and federal laws. The privacy policy of such providers may apply to their use of your information. The provider’s policy may differ from this Policy, and you may wish to review the provider’s privacy policy or contact the provider directly for more information.
 
 In the course of conducting Association business, NABP staff may access Personal Information for the purposes stated in this Policy. Staff are required to maintain the confidentiality of non-public Personal Information and are prohibited from unlawfully disclosing such information.
 
@@ -120,3 +120,12 @@ By using Services or logging onto or using the Site, you signify your agreement 
 Your use of the Site is governed by the Policy and the [Terms of Use](https://nabp.pharmacy/policies/terms-of-use/).
 
 If you have any questions about the Policy, the practices of the Site, NABP Services, or your interactions with the Site, you can contact NABP via email at [help@nabp.pharmacy](mailto:help@nabp.pharmacy) or via phone at 1-847/391-4406.
+
+  * Policies
+  * [Terms of Use](https://nabp.pharmacy/policies/terms-of-use/)
+  * [Privacy Policy](https://nabp.pharmacy/policies/privacy-policy/)
+  * [Linking Policy](https://nabp.pharmacy/policies/linking-policy/)
+  * [VPP Terms and Conditions](https://nabp.pharmacy/policies/vpp-terms-and-conditions/)
+  * [eProfile Terms](https://nabp.pharmacy/policies/eprofile-terms/)
+
+
