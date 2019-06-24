@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekbusiness.com.au privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916211128id_/https%3A//www.seekbusiness.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekbusiness.com.au privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624155157id_/https%3A//www.seekbusiness.com.au/privacy-policy) for the most accurate reproduction.*
 
 # SEEK Business - Privacy
 
@@ -113,7 +113,7 @@ If you are a SEEK Business Registered User, you can access your registered profi
 
 SEEK Business strives to ensure that the information we hold about you is accurate, complete and up-to-date at all times.
 
-If the personal information we hold about you is inaccurate, incomplete, or no longer up-to-date, or you wish for your details to be removed from the website, please contact us at [privacy@seekcommercial.com.au](mailto:%20privacy@seekcommercial.com.au) so that we may take reasonable steps to address this and/or discuss alternative options with you.
+If the personal information we hold about you is inaccurate, incomplete, or no longer up-to-date, or you wish for your details to be removed from the website, please contact us at [enquiries@seekbusiness.com.au](mailto:%20enquiries@seekbusiness.com.au) so that we may take reasonable steps to address this and/or discuss alternative options with you.
 
 **8\. Storage and Security of your personal information**
 
@@ -149,7 +149,7 @@ For further information about the protection of your privacy, please visit the [
 
 SEEK Business welcomes ideas and feedback about all aspects of the SEEK Business website. SEEK Business stores feedback that users send to us. This feedback may be used to administer and refine the services we provide and may be shared with SEEK Business partners either in aggregate form or with specific identifying characteristics removed.
 
-If you have any complaints about our dealings with your personal information including any breaches by us of any Australian Privacy Principles or any questions regarding this Privacy Statement you are able to submit that complaint or query by contacting us at [privacy@ seekcommercial.com.au](mailto:%20privacy@seekcommercial.com.au) or by telephone or post using the methods detailed in the “Contact Us” paragraph below.
+If you have any complaints about our dealings with your personal information including any breaches by us of any Australian Privacy Principles or any questions regarding this Privacy Statement you are able to submit that complaint or query by contacting us at [enquiries@seekbusiness.com.au](mailto:%20enquiries@seekbusiness.com.au) or by telephone or post using the methods detailed in the “Contact Us” paragraph below.
 
 Any complaints received by us will be referred for prompt investigation by our compliance team and a written response will be provided to you as soon as possible.
 
@@ -163,7 +163,7 @@ If you have any feedback or questions about this Statement, the practices of thi
 
 Email: | 
 
-privacy@seekcommercial.com.au  
+enquiries@seekbusiness.com.au  
   
 ---|---  
 Telephone: | +61 13 7335  
