@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellamccartney.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208233445id_/https%3A//www.stellamccartney.com/yTos/Plugins/AreaLocalizer/Redirectarea%3Farea%3DHelp%26controllerName%3DLegalArea%26actionName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellamccartney.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625011612id_/https%3A//www.stellamccartney.com/yTos/Plugins/AreaLocalizer/Redirectarea%3Farea%3DHelp%26controllerName%3DLegalArea%26actionName%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -10,9 +10,9 @@
 
 **PRIVACY POLICY**
 
-Stella McCartney Ltd (" **Stella McCartney** "),with registered office in 3 Olaf Street, London W11 4BE, UK - Company Number: 04169969 and Kering SA, a French corporation (“société anonyme”), company number 552 075 020 with registered office at 40 rue de Sèvres, 75007 Paris, France (together **"we"** , **"us"** , **"our"** ), take your data protection rights and our legal obligations seriously. This Privacy Policy ( **"Policy"** ) describes how we use your personal data collected via www.stellamccartney.com (" **Website** ") or transmitted to us by YOOX NET-A-PORTER GROUP S.p.A. company subject to the management and coordination of Compagnie Financière Richemont S.A., Tax and VAT number 02050461207, with registered office at via Morimondo, 17 – Milano 20143, Italy (" **YNAP** "), and by other means (e.g., via social media, cookies, etc.). YNAP operates and maintains the Website on our behalf, sells the Stella McCartney products and provides us with related services, such as technological, logistics and commercial services. Please read this Policy carefully.
+Stella McCartney Ltd (" **Stella McCartney** "), with registered office in 3 Olaf Street, London W11 4BE, UK - Company Number: 04169969, take your data protection rights and our legal obligations seriously. This Privacy Policy ( **"Policy"** ) describes how we use your personal data collected via www.stellamccartney.com (" **Website** ") or transmitted to us by YOOX NET-A-PORTER GROUP S.p.A. company with sole shareholder subject to direction and coordination of Compagnie Financière Richemont S.A., Tax and VAT number 02050461207, with registered office at via Morimondo, 17 – Milano 20143, Italy (" **YNAP** "), and by other means (e.g., via social media, cookies, etc.). YNAP operates and maintains the Website on our behalf, sells the Stella McCartney products and provides us with related services, such as technological, logistics and commercial services. Please read this Policy carefully.
 
-The personal data that you provide may be regarded as jointly controlled by Kering SA, by the Stella McCartney and by the local retail legal entities of our Stella McCartney “ **Store** ”. Where YNAP processes your personal data for e-commerce purposes, it acts as data processor, in accordance with its own privacy policy. 
+The personal data that you provide may be regarded as jointly controlled by the Stella McCartney and by the local retail legal entities of our Stella McCartney “ **Store** ”. Where YNAP processes your personal data for e-commerce purposes, it acts as data processor, in accordance with its own privacy policy. 
 
   
 **1\. Personal Data We May Collect About You**
@@ -64,9 +64,9 @@ We may disclose your personal data to any of our affiliate companies, or to our 
 
 In particular, we share your personal data with E_Lite S.p.A., an Italian joint stock company (società per azioni) with registered office at via E. Marelli 2, 20139 - Milan, Italy, and with ContactLab France, a French corporation (société à responsabilité limitée) with registered office at 5 rue du Helder, 75009 Paris, France, which provide us with marketing campaign management services as a data processor.
 
-For the avoidance of doubt, we will get your express opt-in consent before we share your personal data with any third party company other than Stella McCartney and Kering for marketing purposes.
+For the avoidance of doubt, we will get your express opt-in consent before we share your personal data with any third party company other than Stella McCartney for marketing purposes.
 
-Your personal data will be accessible by authorized personnel of Kering, Stella McCartney and affiliated companies, and service providers acting on our behalf on a need-to-know basis. Transfer of your personal data from your country of residence to third countries, where we operate, will be involved; some of these countries are subject to a data protection adequacy decision of the European Commission, whereas others are not. To ensure the protection of your personal data is consistent with applicable law, such transfers outside the EEA will be made pursuant to the EU Model Clauses, the EU-US Privacy Shield certification, Binding Corporate Rules or other acceptable legal mechanisms of which you can request a copy via clientcare@stellamccartney.com.
+Your personal data will be accessible by authorized personnel of Stella McCartney and affiliated companies, and service providers acting on our behalf on a need-to-know basis. Transfer of your personal data from your country of residence to third countries, where we operate, will be involved; some of these countries are subject to a data protection adequacy decision of the European Commission, whereas others are not. To ensure the protection of your personal data is consistent with applicable law, such transfers outside the EEA will be made pursuant to the EU Model Clauses, the EU-US Privacy Shield certification, Binding Corporate Rules or other acceptable legal mechanisms of which you can request a copy via clientcare@stellamccartney.com.
 
 We may also share your personal data with third parties in connection with potential or actual sale or restructuring of our company or any of our assets, or those of any associated company, in which case personal data held by us about our users may be one of the transferred assets.
 
@@ -79,7 +79,7 @@ We have adopted security measures to protect personal data against accidental or
 
 While we take reasonable steps to protect your personal data, we cannot guarantee that the personal data you disclose to us will be 100% secure.
 
-You accept the inherent security implications of dealing on-line over the Internet and will not hold Stella McCartney, Kering or their processors responsible for any data breach unless it is due to our negligence.
+You accept the inherent security implications of dealing on-line over the Internet and will not hold Stella McCartney or their processors responsible for any data breach unless it is due to our negligence.
 
   
 **6\. Retention of Your Personal Data**
