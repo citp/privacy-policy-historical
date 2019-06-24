@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108105442id_/https%3A//www.paychex.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625001733id_/https%3A//www.paychex.com/corporate/security/privacy) for the most accurate reproduction.*
 
 # Paychex Privacy Statement | Paychex
 
