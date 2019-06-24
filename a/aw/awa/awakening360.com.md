@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awakening360.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111040111id_/http%3A//www.awakening360.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awakening360.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624044328id_/http%3A//www.awakening360.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
