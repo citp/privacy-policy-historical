@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoneyconverter.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211052644id_/https%3A//themoneyconverter.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoneyconverter.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624143051id_/https%3A//themoneyconverter.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Usage
 
@@ -14,15 +14,8 @@ This website is funded by displaying advertisements and the details of our key a
 
 ## Use Of Cookies 
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used to make websites work, or work more efficiently, as well as to provide information to the owners of the site. The table below explains the cookies we use and why. 
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
 
-Cookie Name | Purpose  
----|---  
-_ga | Universal Analytics  
-_gali | Universal Analytics  
-_gid | Universal Analytics  
-_gat_UA-2494016-1 | Universal Analytics  
-  
 Your cookie choices can be changed at any time by clicking on the icon in the bottom left corner of the page. 
 
 ### Universal Analytics (Google Analytics)
@@ -46,32 +39,6 @@ Our advertising partners may collect and analyse data about you and your device 
 #### Non-Personalized Ads
 
 Non-personalized ads are ads that are not based on a user’s past behaviour. They are targeted using contextual information, including coarse (such as city-level) geo-targeting based on current location, and content on the current site or current query terms. Although these ads don’t use cookies for ad personalization, they do use cookies to allow for frequency capping, aggregated ad reporting, and to combat fraud and abuse. 
-
-#### Our Key Advertising Partners
-
-  * [Google](https://www.google.com/policies/technologies/partner-sites/)
-  * [Adform](https://site.adform.com/uncategorized/product-and-services-privacy-policy/)
-  * [Adloox](http://adloox.com/disclaimer)
-  * [Akamai](http://www.akamai.com/compliance/privacy)
-  * [Amazon](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010)
-  * [AppNexus](https://www.appnexus.com/en/company/platform-privacy-policy)
-  * [Aunica](https://www.aunica.com.br/privacy/privacy.html)
-  * [Criteo](https://www.criteo.com/privacy/)
-  * [Cloudflare](https://www.cloudflare.com/security-policy/)
-  * [Clinch](https://clinch.co/pages/privacy.html)
-  * [Commanders Act](https://www.commandersact.com/en/privacy/)
-  * [DoubleVerify](https://www.doubleverify.com/privacy/)
-  * [Evidon](https://www.evidon.com/resources/privacy-statement/)
-  * [Integral Ad Science](http://www.integralads.com/privacy-policy)
-  * [Nielsen](http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html)
-  * [Nordic Factory Solutions AB](https://www.bannerflow.com/privacy)
-  * [Oracle Data Cloud](https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html)
-  * [Oath](https://policies.oath.com/xw/en/oath/privacy/enterprise/b2bprivacypolicy/)
-  * [Sizmek](https://www.sizmek.com/privacy-policy/)
-  * [Sociomantic](https://www.sociomantic.com/privacy/en/)
-  * [Weborama](https://weborama.com/e-privacy/)
-
-
 
 ## User anonymity and personal information
 
