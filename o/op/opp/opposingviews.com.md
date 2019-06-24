@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opposingviews.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108213607id_/http%3A//www.opposingviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opposingviews.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624185435id_/https%3A//www.opposingviews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Opposing Views
 
 Opposing Views and its affiliates (the "Company") takes your privacy very seriously. This Privacy Policy is intended to inform you about the information that is collected from you when you visit [opposingviews.com](http://www.opposingviews.com/), the mobile application, and any other affiliated Opposing Views owned or operated web sites or applications (collectively, the "Sites"). This policy documents how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. Note that our Terms of Use, which are binding on all users of the Sites, also apply to anyone who uses the Sites.
 
@@ -44,7 +44,7 @@ We use the information we collect to:
 
 ### 5\. Information Sharing And Disclosure
 
-We are not in the business of renting or selling personal information you provide through the Sites with other people or nonaffiliated companies. Opposing Views does share your information to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+We are not in the business of renting or selling personal information you provide through the Sites with other people or nonaffiliated companies. Opposing Views does share your information to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
 We may share your information with service providers, and other companies and individuals we employ or retain under confidentiality agreements in order to help with our business operations. These companies may have access to your information as necessary to perform their functions, but do not have the independent right to share this information with any other third party.
 
