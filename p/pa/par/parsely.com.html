@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the parsely.com privacy policy that was archived on 2018-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228204840id_/https%3A//www.parse.ly/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parsely.com privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624181308id_/https%3A//www.parse.ly/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <!-- Sentry exception tracking -->
@@ -54,7 +54,7 @@
     <link rel="shortcut icon" href="/static/img/brand/favicon.ico">
 
     <!-- Built by webpack -->
-    <link href="/static/gen/base.8210dbc62d7dbf9d4480.css" rel="stylesheet" type="text/css">
+    <link href="/static/gen/base.52e80a0f9792d1d9c549.css" rel="stylesheet" type="text/css">
 
     
 
@@ -62,7 +62,7 @@
 
     <script type="text/javascript" src="/static/js/lib/jquery.min.js"></script>
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.7.1/less.min.js"></script>
-    <script type="text/javascript" src="/static/gen/main.668609be074e912c5597.js"></script>
+    <script type="text/javascript" src="/static/gen/main.dfd46d6a7972345a46d9.js"></script>
 
     
         <script type="text/javascript" src="/static/js/email_validation.js"></script>
@@ -127,26 +127,6 @@
                     <a href="/currents/">
                         <strong>Currents</strong> for internet-wide trends
                     </a>
-                    <div class="md-hide">
-                        <h6>
-                            Features
-                        </h6>
-                        <a href="/dashboard/">
-                            Content analytics
-                        </a>
-                        <a href="/campaign-tracking/">
-                            Campaign tracking
-                        </a>
-                        <a href="/video-analytics/">
-                            Video analytics
-                        </a>
-                        <a href="/api/">
-                            Content personalization
-                        </a>
-                        <a href="/data-pipeline/">
-                            Raw data access
-                        </a>
-                    </div>
                 </div>
             </div>
             <div class="nav-item lg-hide">
@@ -176,7 +156,7 @@
                 </div>
             </div>
             <div class="nav-item">
-                <a href="/how-pricing-works/">
+                <a href="/pricing/">
                     Pricing
                 </a>
             </div>
@@ -283,12 +263,12 @@
                 </div>
             </div>
             <div class="nav-item-right nav-item xs-hide">
-                <a href="/login/">
+                <a href="/login/" class="login">
                     Log In
                 </a>
             </div>
             <a href="/start/" class="get-started">
-                Get Started
+                Access a sample dashboard
             </a>
         </div>
     </nav>
@@ -976,7 +956,7 @@
                     </a>
                 </div>
                 <div class="col">
-                    <a href="/how-pricing-works/" class="footer-section section-space">
+                    <a href="/pricing/" class="footer-section section-space">
                         Pricing
                     </a>
                     <a href="/help/" class="footer-section">
@@ -1117,7 +1097,7 @@
             </a>
         </div>
         <div class="flex-grid-double">
-            <a href="/how-pricing-works/" class="col ">
+            <a href="/pricing/" class="col ">
                  <p>
                     Pricing
                 </p>
@@ -1345,50 +1325,31 @@
     <!-- /Mobile Fixed Bottom Nav for More section -->
 
 
-    <!-- START Parse.ly Include: Standard -->
-    <div id="parsely-root" style="display: none">
-      <span id="parsely-cfg" data-parsely-site="parsely.com"></span>
-      <script>
-      PARSELY = {
-    autotrack: false,
-    loaded: false,
-    eventQueue: [],
-    onload: function() {
-        PARSELY.loaded = true;
-        while (PARSELY.eventQueue.length > 0) {
-                var event = PARSELY.eventQueue.shift();
-                switch (event.event) {
-                    case "updateDefaults":
-                        PARSELY.updateDefaults(event.payload);
-                        break;
-                    case "trackPageView":
-                        PARSELY.beacon.trackPageView();
-                        break;
+    <script type="text/javascript">
+        PARSELY = {
+            autotrack: false,
+            loaded: false,
+            eventQueue: [],
+            onload: function() {
+                PARSELY.loaded = true;
+                while (PARSELY.eventQueue.length > 0) {
+                        var event = PARSELY.eventQueue.shift();
+                        switch (event.event) {
+                            case "updateDefaults":
+                                PARSELY.updateDefaults(event.payload);
+                                break;
+                            case "trackPageView":
+                                PARSELY.beacon.trackPageView();
+                                break;
+                        }
+                    }
                 }
-            }
-        }
-    };
-    // queue up a pageview event
-    PARSELY.eventQueue.push({event: 'trackPageView'});
-
-(function(s, p, d) {
-    var h = d.location.protocol,
-        i = p + "-" + s,
-        e = d.getElementById(i),
-        r = d.getElementById(p + "-root"),
-        u =
-            h === "https:"
-                ? "d1z2jf7jlzjs58.cloudfront.net"
-                : "static." + p + ".com";
-    if (e) return;
-    e = d.createElement(s);
-    e.id = i;
-    e.async = true;
-    e.src = h + "//" + u + "/p.js";
-    r.appendChild(e);
-})("script", "parsely", document);
-</script><script id="parsely-script" async="" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script>
-    </div>
+            };
+        // queue up a pageview event
+        PARSELY.eventQueue.push({event: 'trackPageView'});
+    </script>
+    <!-- START Parse.ly Include: Standard -->
+    <script id="parsely-cfg" src="//cdn.parsely.com/keys/parsely.com/p.js"></script>
     <!-- END Parse.ly Include: Standard -->
     <script>
         showGDPRConsent("true");
