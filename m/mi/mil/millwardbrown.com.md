@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millwardbrown.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212054802id_/http%3A//www.millwardbrown.com/footer/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millwardbrown.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624090521id_/http%3A//www.millwardbrown.com/footer/privacy-terms) for the most accurate reproduction.*
 
 # Privacy & Terms
 
@@ -176,12 +176,12 @@ You understand that our data is subject to lawful requests by the courts or law 
 
 ### Changes to our Privacy Policy
 
-This privacy policy was last updated on [insert date]. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+This privacy policy was last updated on 25 May 2018. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
 ### Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [webmaster@millwardbrown.com](mailto:webmaster@millwardbrown.com) .  
-You can also contact our data protection officer (DPO), Gillie Abbotts-Jones, at [webmaster@millwardbrown.com](mailto:webmaster@millwardbrown.com) .
+You can also contact our data protection officer (DPO), Gillie Abbotts-Jones, at [info@kantar.com](mailto:info@kantar.com) .
 
 ## **Terms**
 
