@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paper.li privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231103507id_/https%3A//paper.li/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paper.li privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624092735id_/https%3A//paper.li/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
