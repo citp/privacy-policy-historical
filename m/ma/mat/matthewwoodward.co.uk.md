@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matthewwoodward.co.uk privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222044506id_/https%3A//www.matthewwoodward.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matthewwoodward.co.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184937id_/https%3A//www.matthewwoodward.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,7 +63,5 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 Links:
 
 https://www.matthewwoodward.co.uk contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
-
-Matthewwoodward.co.uk is a trading name of IThinkItsMe LLP. Registered number OC392817 in England & Wales. Registered office address 44 The Pantiles, Tunbridge Wells Kent TN2 5TN, United Kingdom.
 
 Please contact me [here](https://www.matthewwoodward.co.uk/contact-me/), All Rights Reserved.
