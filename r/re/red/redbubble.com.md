@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbubble.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231195055id_/https%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbubble.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184923id_/https%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Redbubble
 
@@ -250,34 +250,6 @@ USA
 
 EU-US Privacy Shield certified ([https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active](https://www.google.com/url?q=https://www.privacyshield.gov/participant?id%3Da2zt000000001L5AAI%26status%3DActive&sa=D&ust=1527059895153000))  
   
-Branch Mobile Analytics
-
-| 
-
-Branch Metrics Inc., Branch HQ, 2443 Ash St., Palo Alto, CA 94306, USA, e-mail [mike@branch.io](mailto:mike@branch.io), phone +1.651.788.6176
-
-| 
-
-Branch Mobile Analytics provides analysis and retargeting on mobile devices
-
-| 
-
-[https://branch.io/policies/#privacy](https://www.google.com/url?q=https://branch.io/policies/%23privacy&sa=D&ust=1527059895155000)
-
-| 
-
-[https://branch.io/policies/#ad-choices](https://www.google.com/url?q=https://branch.io/policies/%23ad-choices&sa=D&ust=1527059895155000)
-
-Opt-out iOS: [https://support.apple.com/en-us/HT202074](https://www.google.com/url?q=https://support.apple.com/en-us/HT202074&sa=D&ust=1527059895156000)
-
-Opt-out Android: [https://support.google.com/googleplay/android-developer/answer/6048248?hl=en](https://www.google.com/url?q=https://support.google.com/googleplay/android-developer/answer/6048248?hl%3Den&sa=D&ust=1527059895156000)
-
-| 
-
-USA
-
-EU-US Privacy Shield certified ([https://www.privacyshield.gov/participant?id=a2zt0000000KzTJAA0&status=Active](https://www.google.com/url?q=https://www.privacyshield.gov/participant?id%3Da2zt0000000KzTJAA0%26status%3DActive&sa=D&ust=1527059895157000))  
-  
 New Relic
 
 | 
@@ -301,30 +273,6 @@ No opt-out possibility due to the nature of the provided service for basic funct
 USA
 
 EU-US Privacy Shield certified (https://www.privacyshield.gov/participant?id=a2zt0000000TNPiAAO&status=Active)  
-  
-Kenshoo
-
-| 
-
-Kenshoo Ltd., 6 Ha’barzel St., Tel-Aviv, Israel 6971010
-
-| 
-
-Kenshoo provides bid management, automation, reporting, and consolidation of performance optimization across Facebook and Pinterest marketing platforms
-
-| 
-
-[https://kenshoo.com/privacy-policy/](https://www.google.com/url?q=https://kenshoo.com/privacy-policy/&sa=D&ust=1527059895161000)
-
-| 
-
-A user may elect to opt-out of enabling cookies in the browser’s settings, usually by choosing between several options offered by the browser. Some browsers allow blocking cookies from a specific website. In such cases, a user may choose to specifically block our cookies by entering “.xg4ken.com” in the designated field.
-
-| 
-
-Israel
-
-Adequate data protection level by decision of the European Commission (Art. 45 GDPR)  
   
 Sift Science
 
@@ -375,56 +323,6 @@ USA
 Information on EU-US transfers can be accessed under [https://trackjs.com/privacy](https://www.google.com/url?q=https://trackjs.com/privacy&sa=D&ust=1527059895166000)
 
 The data processing agreement with TrackJS contains the EU Standard Contractual Clauses  
-  
-Visual IQ
-
-| 
-
-Visual IQ Inc., Suite 330, Needham, MA 02494, USA, e-mail [privacy@visualiq.com](mailto:privacy@visualiq.com)
-
-| 
-
-Visual IQ provides track broad performance metrics (cost, impressions, revenue) across given marketing channels, analyze performance, and generate recommendations for marketing channel investments
-
-| 
-
-[https://www.visualiq.com/privacy](https://www.google.com/url?q=https://www.visualiq.com/privacy&sa=D&ust=1527059895168000)
-
-| 
-
-[https://vt.myvisualiq.net/opt_out.html](https://www.google.com/url?q=https://vt.myvisualiq.net/opt_out.html&sa=D&ust=1527059895169000)
-
-| 
-
-USA
-
-EU-US Privacy Shield certified ([https://www.privacyshield.gov/participant?id=a2zt0000000PD5bAAG&status=Active](https://www.google.com/url?q=https://www.privacyshield.gov/participant?id%3Da2zt0000000PD5bAAG%26status%3DActive&sa=D&ust=1527059895170000))  
-  
-Crazy Egg
-
-| 
-
-Crazy Egg Inc.
-
-| 
-
-Crazy Egg provides marketplace maintenance service
-
-| 
-
-[https://www.crazyegg.com/privacy](https://www.google.com/url?q=https://www.crazyegg.com/privacy&sa=D&ust=1527059895171000)
-
-| 
-
-[https://www.crazyegg.com/opt-out](https://www.google.com/url?q=https://www.crazyegg.com/opt-out&sa=D&ust=1527059895172000)
-
-| 
-
-USA
-
-Privacy policy information at: [https://www.crazyegg.com/privacy](https://www.google.com/url?q=https://www.crazyegg.com/privacy&sa=D&ust=1527059895173000)
-
-The data processing agreement with Crazy Egg contains the EU Standard Contractual Clauses  
   
 Microsoft Bing Conversion
 
@@ -528,32 +426,6 @@ USA
 
 EU-US Privacy Shield certified ([https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active](https://www.google.com/url?q=https://www.privacyshield.gov/participant?id%3Da2zt0000000GnywAAC%26status%3DActive&sa=D&ust=1527059895187000))  
   
-Quantcast
-
-| 
-
-Quantcast Corp.
-
-| 
-
-Quantcase provides audience building and targeting across Google marketing networks
-
-| 
-
-[https://www.quantcast.com/privacy/](https://www.google.com/url?q=https://www.quantcast.com/privacy/&sa=D&ust=1527059895188000)
-
-| 
-
-[https://www.quantcast.com/opt-out/](https://www.google.com/url?q=https://www.quantcast.com/opt-out/&sa=D&ust=1527059895189000)
-
-| 
-
-USA
-
-EU-US privacy policy information at: [https://www.quantcast.com/privacy/](https://www.google.com/url?q=https://www.quantcast.com/privacy/&sa=D&ust=1527059895189000)
-
-The data processing agreement with Quantcast contains the EU Standard Contractual Clauses  
-  
 Criteo
 
 | 
@@ -626,6 +498,254 @@ USA
 
 EU-US Privacy Shield certified ([https://www.privacyshield.gov/participant?id=a2zt0000000TNcNAAW&status=Active](https://www.google.com/url?q=https://www.privacyshield.gov/participant?id%3Da2zt0000000TNcNAAW%26status%3DActive&sa=D&ust=1527059895200000))  
   
+Qualtrics
+
+| 
+
+Qualtrics, LLC 333 W River Park Dr Provo, Utah 84604 [markc@qualtrics.com](mailto:markc@qualtrics.com) Phone: (801) 374-6682
+
+| 
+
+Qualtrics provides audience building for the purpose of research intercepts and surveys
+
+| 
+
+Privacy policy: <https://www.qualtrics.com/privacy-statement/>
+
+Security statement: <https://www.qualtrics.com/security-statement/>
+
+| 
+
+A user may elect to opt-out of enabling cookies in the browser’s settings, usually by choosing between several options offered by the browser. Some browsers allow blocking cookies from a specific website.
+
+| 
+
+[USA EU-US Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000GnGIAA0&status=Active) certified, [ISO 27001 certification](https://cert.schellmanco.com/?certhash=f4EjsRoh8OCD)  
+  
+Fullstory
+
+| 
+
+FullStory, Inc., 120 Ottley Drive NE, Suite 100, Atlanta, GA30324, [geoff@fullstory.com](mailto:geoff@fullstory.com) Phone: (678) 337-1868
+
+| 
+
+FullStory provides visual playback of user sessions, for the purpose of identifying issues and improving experience
+
+| 
+
+Privacy Policy: <https://www.fullstory.com/legal/privacy/>, Terms & conditions: <https://www.fullstory.com/legal/terms-and-conditions/>
+
+| 
+
+<https://www.fullstory.com/optout/>
+
+| 
+
+[USA EU-US Privacy Shield certified](https://www.privacyshield.gov/participant?id=a2zt0000000TNHwAAO&status=Active)  
+  
+Namogoo
+
+| 
+
+Namogoo Technologies Ltd., 160 Federal St Boston, MA 02110, U.S.A., [info@namogoo.com](mailto:info@namogoo.com) , phone +1.857.284.8084
+
+| 
+
+Namogoo detects and blocks unauthorized product and promotional ads injected into visitor sessions
+
+| 
+
+Terms of use: <https://www.namogoo.com/terms-of-use/>, Privacy Policy: <https://www.namogoo.com/privacy-policy/>
+
+| 
+
+No opt-out due to the nature of the service provided for basic functioning of the Marketplace
+
+| 
+
+Israel – on the EU approved list of countries for data transfers   
+  
+Supermetrics
+
+| 
+
+Supermetrics Oy (Finland)
+
+| 
+
+Marketing / web analytics
+
+| 
+
+<https://supermetrics.com/privacy-policy-2018-5>
+
+| 
+
+<https://supermetrics.com/privacy-policy-2018-5>
+
+| 
+
+Finland – EU member state  
+  
+AppsFlyer
+
+| 
+
+AppsFlyer, Ltd. (Israel)
+
+| 
+
+A software development kit which allows the tracking of mobile application use, installations and downloads
+
+| 
+
+[https://www.appsflyer.com/product/gdpr??&utm_source=google&utm_medium=cpc&utm_term=appsflyer&utm_content=ad3&utm_campaign=brand_oceana](https://www.appsflyer.com/product/gdpr??&utm_source=google&utm_medium=cpc&utm_term=appsflyer&utm_content=ad3&utm_campaign=brand_oceana)
+
+| 
+
+<https://www.appsflyer.com/optout>
+
+| 
+
+Israel – on the EU approved list of countries for data transfers   
+  
+Pagely
+
+| 
+
+Pagely, Inc. (Wordpress hosting)
+
+| 
+
+May collect user data when visitors come to wordpress webpages that Pagely hosts for RB
+
+| 
+
+<https://pagely.com/legal/privacy-policy/>
+
+| 
+
+<https://pagely.com/legal/transparency-privacy-report/>
+
+| 
+
+[USA, EU-US Privacy Shield certified (https://www.privacyshield.gov/participant?id=a2zt00000008SR8AAM&status=Active)](https://www.privacyshield.gov/participant?id=a2zt00000008SR8AAM&status=Active)  
+  
+Talkable
+
+| 
+
+Curebit, Inc dba Talkable
+
+| 
+
+Quantifying and accelerating refer-a-friend programs
+
+| 
+
+<https://www.talkable.com/privacy>
+
+| 
+
+[https://www.talkable.com/privacy section 6.4](https://www.talkable.com/privacy)
+
+| 
+
+[USA, EU-US Privacy Shield certified (https://www.privacyshield.gov/participant?id=a2zt00000008Y32AAE&status=Active)](https://www.privacyshield.gov/participant?id=a2zt00000008Y32AAE&status=Active)  
+  
+Connexity
+
+| 
+
+Connexity, Inc.
+
+| 
+
+Ecommerce marketing automation platform
+
+| 
+
+<https://connexity.com/privacy-policy/>
+
+| 
+
+<https://connexity.com/opt-out/>
+
+| 
+
+[USA EU-US Privacy Shield certified  
+https://www.privacyshield.gov/participant?id=a2zt00000008TN3AAM&status=Active](https://www.privacyshield.gov/participant?id=a2zt00000008TN3AAM&status=Active)  
+  
+Affiliate Window
+
+| 
+
+Awin AG
+
+| 
+
+Affiliate partner tracking users that come from affiliate links to the site and makes a purchase. Mostly used to give correct commission to the correct affiliates.
+
+| 
+
+<https://www.awin.com/au/legal/privacy-policy>
+
+| 
+
+<https://www.awin.com/au/legal/privacy-policy>[  
+Section 2.3](https://www.awin.com/au/legal/privacy-policy)
+
+| 
+
+Germany – EU member state  
+  
+ShareASale,
+
+| 
+
+ShareASale,.com, Inc.
+
+| 
+
+Affiliate partner tracking users that come from affiliate links to the site and makes a purchase. Mostly used to give correct commission to the correct affiliates.
+
+| 
+
+[Part of Awin group  
+https://www.awin.com/au/legal/privacy-policy](https://www.awin.com/au/legal/privacy-policy)
+
+| 
+
+<https://www.awin.com/au/legal/privacy-policy>[  
+Section 2.3](https://www.awin.com/au/legal/privacy-policy)
+
+| 
+
+Germany – EU member state  
+  
+Crazy Egg
+
+| 
+
+Crazy Egg Inc.
+
+| 
+
+Website maintenance service
+
+| 
+
+<https://www.crazyegg.com/privacy>
+
+| 
+
+<https://www.crazyegg.com/opt-out>
+
+| 
+
+USA GDPR information at <https://help.crazyegg.com/article/165-crazy-eggs-gdpr-readiness>  
+  
 8.4. We use a number of social plug-ins on the Marketplace. Plug-ins are small extension modules used by different social networks that allow you to inform other users in the social network that you are on the Marketplace. Please note that we have only limited control over the data transmitted by these social plug-ins. Please read the following information to learn how the social plug-ins work:
 
 When you visit a site of our Marketplace that contains a social plug-in, your browser will establish a direct connection to the servers of the social network. The social network is informed about the site that you are currently visiting on the Marketplace and the social network stores this information in accordance with its privacy policy. The social network may also log your browser history or further information. If you interact with (click on) the social plug-in while you are logged onto the related social network, this information may be matched to your profile and shown on other sites of the internet. If you do not wish the social network to collect data on you through the Marketplace, it may be helpful to log off from the social network before you visit our Marketplace. For further information about the purpose and extent of the data collection and further use of your data by the social network, as well as your profile setting options to protect your privacy, please view the data privacy notices of the social networks:
@@ -674,20 +794,6 @@ Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA
 
 [https://support.twitter.com/articles/20170520-so-verwendet-twitter-cookies-und-ahnliche-technologien](https://www.google.com/url?q=https://support.twitter.com/articles/20170520-so-verwendet-twitter-cookies-und-ahnliche-technologien&sa=D&ust=1527059895206000)  
   
-Google+
-
-| 
-
-Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-
-| 
-
-[https://www.google.de/intl/de/policies/privacy/](https://www.google.com/url?q=https://www.google.de/intl/de/policies/privacy/&sa=D&ust=1527059895208000)
-
-| 
-
-[https://myaccount.google.com/privacycheckup](https://www.google.com/url?q=https://myaccount.google.com/privacycheckup&sa=D&ust=1527059895209000)  
-  
 Pinterest
 
 | 
@@ -715,6 +821,20 @@ Tumblr Inc., 35 E 21st St., 10th Floor, New York, NY 10010, USA
 | 
 
 [https://www.tumblr.com/settings/account](https://www.google.com/url?q=https://www.tumblr.com/settings/account&sa=D&ust=1527059895213000)  
+  
+SnapChat
+
+| 
+
+Snap, Inc.
+
+| 
+
+<https://www.snap.com/en-US/privacy/privacy-policy/>
+
+| 
+
+<https://www.snap.com/en-US/cookie-policy/>  
   
 ## 9\. YOUR RIGHTS UNDER DATA PROTECTION LEGISLATION
 
