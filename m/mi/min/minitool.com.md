@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minitool.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009164340id_/http%3A//www.minitool.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minitool.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624080334id_/https%3A//www.minitool.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy of MiniTool Software Ltd.
 
