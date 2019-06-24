@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221222015id_/https%3A//www.stltoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624183811id_/https%3A//www.stltoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy | stltoday.com
 
@@ -161,7 +161,7 @@ Email: [privacy@lee.net](https://www.stltoday.com/content/tncms/live/privacy@lee
 900 N. Tucker Blvd.  
 St. Louis, MO, 63101
 
-[314-340-8888](tel:+13143408888)
+[314-340-8000](tel:+13143408000)
 
 If you are not satisfied with our response, and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.
 
