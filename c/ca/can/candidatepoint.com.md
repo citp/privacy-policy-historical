@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the candidatepoint.com privacy policy that was archived on 2018-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180227094724id_/http%3A//www.candidatepoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidatepoint.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624192742id_/https%3A//candidatepoint.com/privacy) for the most accurate reproduction.*
 
 # CandidatePoint | Privacy
 
-Last modified: March 25, 2014
+Last modified: March 26, 2018
 
 CandidatePoint respects your privacy and is committed to protecting it through our compliance with this Policy. This policy describes the types of information we may collect from you or that you may provide when you visit our website located at www.CandidatePoint.com and our practices for collecting, using, maintaining, protecting and disclosing your information. 
 
@@ -10,7 +10,7 @@ This policy applies to information we collect on this Website. It does not apply
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using this Website, you agree to this Privacy Policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for any updates. 
 
-You may contact CandidatePoint at 2321 E. 4th Street, Suite C137, Santa Ana, CA 92705 or via our contact form located [here](https://web.archive.org/contact). 
+You may contact CandidatePoint at 427 East 17th Street, Suite F - #734, Costa Mesa, CA 92627 or via our contact form located [here](https://web.archive.org/contact). 
 
 ## Information We Collect
 
@@ -34,7 +34,7 @@ We may use other companies as necessary to perform services required for our ope
 
 You may receive email communication from CandidatePoint or our partners regarding job alerts, account notifications, promotions, and other communications by email. By registering on our Website and submitting your information, you are consenting to receiving email communications. 
 
-If you do not want to receive particular types of email messages from CandidatePoint, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or [click here](https://web.archive.org/unsubscribe). 
+If you do not want to receive particular types of email messages from CandidatePoint, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or click here. 
 
 ## Children's Privacy
 
@@ -48,9 +48,7 @@ We want to take the time to remind you to never provide your social security num
 
 ## Cookies
 
-Cookies are small data files that most websites store, access and maintain on the hard drive of users’ computers. Cookies generally contain a unique identification code for the computer or, if associated with a registration, a particular user, which is keyed to data stored on the site operator’s server about the user’s use of the website. This enables the website to recognize the computer or user each time he returns to the website. Most browsers now automatically accept cookies by default, by they can be set so that all or some cookies are rejected automatically, or are accepted or rejected on a case-by-case basis at the user’s option. 
-
-We may use cookies to keep track of your session and advertising delivery. We, or our partners, may also use these cookies to deliver content specific to your interests and to save a password associated with your user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you on others websites. 
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. CandidatePoint may use cookies to keep track of your session and advertising delivery. CandidatePoint or our partners may also use cookies to deliver content specific to your interests and to save a password associated with a user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites and directly in emails/communications in order to provide advertisements about goods and services of interest to you on others websites. Our partners may also link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, hashed version of your email address, browser or operating system type and version, and demographic or inferred-interest information. You can learn more [here](http://www.google.com/policies/technologies/ads/). You can opt-out of this type of advertising [here](http://optout.aboutads.info/). 
 
 ## Links to Third Party Sites
 
