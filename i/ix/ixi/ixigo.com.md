@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717200916id_/https%3A//www.ixigo.com/about/more-info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624225227id_/https%3A//www.ixigo.com/about/more-info/privacy) for the most accurate reproduction.*
 
 # Privacy – About ixigo
 
@@ -115,7 +115,7 @@ We are not responsible for the practices employed by websites linked to or from 
 
 If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-If you have any questions about our practices or this privacy policy, please contact us at info@ixigo.com, or send mail to:
+If you have any questions about our practices or this privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or send mail to:
 
 Le Travenues Technology Pvt. Ltd.
 
