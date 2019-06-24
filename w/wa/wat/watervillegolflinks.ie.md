@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watervillegolflinks.ie privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910081734id_/http%3A//www.watervillegolflinks.ie/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watervillegolflinks.ie privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625001554id_/http%3A//www.watervillegolflinks.ie/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement — Experience Waterville Links
 
