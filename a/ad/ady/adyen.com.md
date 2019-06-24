@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adyen.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231091420id_/https%3A//www.adyen.com/policies-and-disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adyen.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624054518id_/https%3A//www.adyen.com/policies-and-disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Adyen
 
@@ -59,7 +59,7 @@ We will always only keep your data for as long as we reasonably need it for the 
 
 For example, data about your use of this app or visits to our website will be retained until your use or browsing session ends, except where it concerns data collected for the analytical and marketing purposes specified above. In those cases, we will keep your information for 1 year after collection.
 
-If you become one of our merchants, we will keep all data relating to our business relationship until 7 years after the end of your contract with us or until our rejection your application. Data we have collected in relation to our legal obligation to verify our merchants will be kept by us for as long as we are legally obligated to, which is generally at least 7 years after end of relationship. 
+If you become one of our merchants, we will keep information relating to our business relationship until 7 years after the end of your contract with us or until our rejection of your application. Data we have collected in relation to our legal obligation to verify our merchants will be kept by us for as long as we are legally obligated to, which is generally 5 years after end of relationship. 
 
 We store the information that we process as a result of you describing to our newsletters or because you have consented to receive information about our products and services or about offers until you decide you would no longer like to receive these mailings.
 
