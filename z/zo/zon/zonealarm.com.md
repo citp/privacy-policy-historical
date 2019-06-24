@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the zonealarm.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531182850id_/https%3A//www.zonealarm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zonealarm.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184744id_/https%3A//www.zonealarm.com/privacy) for the most accurate reproduction.*
 
-# ZoneAlarm Privacy Policy - Firewall & Antivirus Software
+# ZoneAlarm Privacy Policy | ZoneAlarm
+
+Your Internet Explorer is out of date. For the best experience, please use an updated browser.
 
 This document was last updated May 2, 2018.
 
@@ -104,7 +106,7 @@ You may opt out of these communications with ZoneAlarm during the installation a
 Our Site includes links to other Web sites whose privacy practices may differ from those of ZoneAlarm. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
 **Social Media Widgets**  
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 **Public Forums**  
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us at [privacy_support@zonealarm.com](mailto:privacy_support@zonealarm.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
@@ -115,17 +117,17 @@ ZoneAlarm is a global business. Our customers and our operations are spread arou
 
 Where we transfer your Personal Data to another country outside the EEA, we will ensure that it is protected and transferred in a manner consistent with legal requirements. In relation to data being transferred outside of Europe, for example, this may be done in one of the following ways:
 
-  * The country that we send the data to might be approved by the European Commission as offering an adequate level of protection for Personal Data (Israel is an approved country);
-  * The recipient might have signed up to a contract based on “model contractual clauses” approved by the European Commission, obliging them to protect your Personal Data;
-  * Where the recipient is located in the US, it might be a certified member of the EU-US Privacy Shield scheme; or
-  * In other circumstances the law may permit us to otherwise transfer your Personal Data outside Europe.
+  * The country that we send the data to might be approved by the European Commission as offering an adequate level of protection for Personal Data (Israel is an approved country); 
+  * The recipient might have signed up to a contract based on “model contractual clauses” approved by the European Commission, obliging them to protect your Personal Data; 
+  * Where the recipient is located in the US, it might be a certified member of the EU-US Privacy Shield scheme; or 
+  * In other circumstances the law may permit us to otherwise transfer your Personal Data outside Europe. 
 
 
 
 You can obtain more details of the protection given to your Personal Data when it is transferred outside Europe (including a copy of the standard data protection clauses which we have entered into with recipients of your Personal Data) by contacting us as described in the section titled “Questions and Concerns” below.
 
 **How We Safeguard Your Information**  
-We have extensive controls in place to maintain the security of our information and information systems. Client files are protected with safeguards according to the sensitivity of the relevant information. Appropriate controls (such as restricted access) are placed on our computer systems. Physical access to areas where Personal Data is gathered, processed or stored is limited to authorised employees.
+We have extensive controls in place to maintain the security of our information and information systems. Client files are protected with safeguards according to the sensitivity of the relevant information. Appropriate controls (such as restricted access) are placed on our computer systems. Physical access to areas where Personal Data is gathered, processed or stored is limited to authorised employees. 
 
 As a condition of employment, ZoneAlarm employees are required to follow all applicable laws and regulations, including in relation to data protection law. Access to sensitive Personal Data is limited to those employees who need to it to perform their roles. Unauthorised use or disclosure of confidential client information by a ZoneAlarm employee is prohibited and may result in disciplinary measures.
 
@@ -134,21 +136,21 @@ When you contact a ZoneAlarm employee about your file, you may be asked for some
 **How Long We Keep Your Personal Data**  
 How long we will hold your Personal Data for will vary and will be determined by the following criteria:
 
-  * The purpose for which we are using it – ZoneAlarm will need to keep the data for as long as is necessary for that purpose; and
-  * Legal obligations – laws or regulation may set a minimum period for which we have to keep your Personal Data.
+  * The purpose for which we are using it – ZoneAlarm will need to keep the data for as long as is necessary for that purpose; and 
+  * Legal obligations – laws or regulation may set a minimum period for which we have to keep your Personal Data. 
 
 
 
 **Your Rights**  
 In all the above cases in which we collect, use or store your Personal Data, you may have the following rights and, in most cases, you can exercise them free of charge. These rights include:
 
-  * the right to obtain information regarding the processing of your Personal Data and access to the Personal Data which we hold about you;
-  * the right to withdraw your consent to the processing of your Personal Data at any time. Please note, however, that we may still be entitled to process your Personal Data if we have another legitimate reason for doing so. For example, we may need to retain Personal Data to comply with a legal obligation;
-  * in some circumstances, the right to receive some Personal Data in a structured, commonly used and machine-readable format and/or request that we transmit those data to a third party where this is technically feasible. Please note that this right only applies to Personal Data which you have provided directly to ZoneAlarm;
+  * the right to obtain information regarding the processing of your Personal Data and access to the Personal Data which we hold about you; 
+  * the right to withdraw your consent to the processing of your Personal Data at any time. Please note, however, that we may still be entitled to process your Personal Data if we have another legitimate reason for doing so. For example, we may need to retain Personal Data to comply with a legal obligation; 
+  * in some circumstances, the right to receive some Personal Data in a structured, commonly used and machine-readable format and/or request that we transmit those data to a third party where this is technically feasible. Please note that this right only applies to Personal Data which you have provided directly to ZoneAlarm; 
   * the right to request that we rectify your Personal Data if it is inaccurate or incomplete;
-  * the right to request that we erase your Personal Data in certain circumstances. Please note that there may be circumstances where you ask us to erase your Personal Data but we are legally entitled to retain it;
-  * the right to request that we restrict our processing of your Personal Data in certain circumstances. Again, there may be circumstances where you ask us to restrict our processing of your Personal Data but we are legally entitled to refuse that request; and
-  * the right to lodge a complaint with the relevant data protection regulator if you think that any of your rights have been infringed by us.
+  * the right to request that we erase your Personal Data in certain circumstances. Please note that there may be circumstances where you ask us to erase your Personal Data but we are legally entitled to retain it; 
+  * the right to request that we restrict our processing of your Personal Data in certain circumstances. Again, there may be circumstances where you ask us to restrict our processing of your Personal Data but we are legally entitled to refuse that request; and 
+  * the right to lodge a complaint with the relevant data protection regulator if you think that any of your rights have been infringed by us. 
 
 
 
@@ -168,9 +170,9 @@ You are free to update or delete inaccuracies within your information at any tim
 
 To change your information, or request that your information be changed, please use one of the following options:
 
-  * Log in ["My account"](https://web.archive.org/myaccount/) section.
+  * Log in ["My account"](https://store.zonealarm.com/security/myaccount) section.
   * Send email to us at [privacy_support@zonealarm.com](mailto:privacy_support@zonealarm.com)  
-Please note that this email address will reject messages with attachments of any kind.
+Please note that this email address will reject messages with attachments of any kind. 
   * By Postal Mail:  
 Attn: Privacy Contact  
 Zone Labs, L.L.C.  
@@ -179,7 +181,7 @@ San Carlos, CA 94070, USA
 
 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy_support@zonealarm.com](mailto:privacy_support@zonealarm.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy_support@zonealarm.com](mailto:privacy_support@zonealarm.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Updating/Unsubscribing Your Email Address
 
@@ -190,7 +192,7 @@ If you wish to update your email address in order to receive ZoneAlarm communica
 Users who no longer wish to continue receiving our communications may opt-out of receiving these communications in the following ways:
 
   * By clicking the unsubscribe link at the bottom of the email,
-  * By de-selecting the “Inform me about important updates and news” option in the “Change Registration” section located in the “Product Information” tab of the “Overview” pane in the ZoneAlarm product,
+  * By de-selecting the “Inform me about important updates and news” option in the “Change Registration” section located in the “Product Information” tab of the “Overview” pane in the ZoneAlarm product, 
   * By Postal Mail:  
 Attn: Unsubscribe  
 Zone Labs, L.L.C.  
