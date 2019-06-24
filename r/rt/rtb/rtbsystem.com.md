@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtbsystem.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207081759id_/http%3A//rtbsystem.com/en/site/page/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtbsystem.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624053525id_/https%3A//rtbsystem.com/en/site/page/view/privacy-policy) for the most accurate reproduction.*
 
 # RTB System - Политика конфиденциальности
 
