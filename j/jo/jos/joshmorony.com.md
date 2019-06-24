@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joshmorony.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229230806id_/https%3A//www.joshmorony.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshmorony.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625005140id_/https%3A//www.joshmorony.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | joshmorony - Learn Ionic & Build Mobile Apps with Web Tech
 
@@ -120,13 +120,16 @@ This policy was last modified on 25/05/2018
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-https://wwwjoshmorony.com  
-privacy@joshmorony.com  
-Mobirony  
-P.O. Box 221, Seacliff Park  
-Adelaide, South Australia 5049  
+[https://wwwjoshmorony.com](https://wwwjoshmorony.com/)
+
+privacy@joshmorony.com
+
+Mobirony
+
+P.O. Box 221, Seacliff Park
+
+Adelaide, South Australia 5049
+
 Australia
 
 Parts of this privacy policy were generated using Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
-
-### What to watch next...
