@@ -1,0 +1,385 @@
+<!--The following is the downloaded HTML source of the populareverything.com privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624140110id_/https%3A//populareverything.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head>
+	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="pingback" href="https://populareverything.com/xmlrpc.php">
+	<!--[if lt IE 9]><script src="https://s27748.pcdn.co/wp-content/themes/wpex-today/js/html5.js"></script><![endif]-->
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<title>Privacy Policy – Popular Everything</title>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Popular Everything » Feed" href="https://populareverything.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Popular Everything » Comments Feed" href="https://populareverything.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Popular Everything » Privacy Policy Comments Feed" href="https://populareverything.com/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s27748.pcdn.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://s27748.pcdn.co/wp-includes/js/wp-emoji-release.min.js?ver=5.1.1" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://s27748.pcdn.co/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="https://s27748.pcdn.co/wp-content/themes/wpex-today/style.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="populareverything-today-child-css" href="https://s27748.pcdn.co/wp-content/themes/populareverything-today-child/assets/css/style.css?ver=20190513-0000" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://s27748.pcdn.co/wp-content/themes/wpex-today/css/font-awesome.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="google-font-raleway-css" href="https://fonts.googleapis.com/css?family=Raleway%3A400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic&amp;subset=latin%2Clatin-ext&amp;ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://s27748.pcdn.co/wp-content/themes/populareverything-today-child/style.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-responsive-css" href="https://s27748.pcdn.co/wp-content/themes/wpex-today/css/responsive.css?ver=5.1.1" type="text/css" media="all">
+<script type="text/javascript" src="https://s27748.pcdn.co/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://s27748.pcdn.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+window.zipHead = window.zipHead || { demand: {} };window.zipHead.demand.widgetsOnload = "tb__ob";
+</script>
+<script type="text/javascript" src="https://s27748.pcdn.co/wp-content/plugins/dx-zippor-scripts/js/zippid-custom-v1.js?ver=2019-04-11-0000"></script>
+<link rel="https://api.w.org/" href="https://populareverything.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://populareverything.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s27748.pcdn.co/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.1.1">
+<link rel="canonical" href="https://populareverything.com/privacy-policy/">
+<link rel="shortlink" href="https://populareverything.com/?p=3">
+<link rel="alternate" type="application/json+oembed" href="https://populareverything.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpopulareverything.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://populareverything.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpopulareverything.com%2Fprivacy-policy%2F&amp;format=xml">
+<!-- Zippor Script -->
+<script>
+  if (typeof document.centsDict == 'undefined'){
+    document.centsDict = {};
+    var centsArray = [0.06,0.07,0.08,0.09,0.10,0.11,0.12,0.13,0.14,0.15];
+    
+    if(window.location.href.indexOf('utm_source=snapchat') != -1){
+      centsArray = [0.04,0.05,0.06,0.07,0.08,0.09,0.10,0.11,0.12,0.13,0.14,0.15];
+    }
+    
+    for(var key in centsArray){
+      document.centsDict[centsArray[key]] = false;    
+    }
+  }
+</script>
+<!-- End Zippor Script -->
+<meta name="google-site-verification" content="mJE-IEKERjqt9RQOVNvMrhfpnr-N7XC-AY-jscmdVEY">
+<!-- Facebook Pixel Code -->
+    <script>
+
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '223536285206364');
+        fbq('trackCustom', 'PageView');
+        window.addEventListener('jitaRendered', function (e) {
+           var rtkRevenue = jitaJS.rtk.getSessionRevenue();
+           var tmpPage = window.location.href.split("/")[4] || 0;
+           var roundedRevenue = Math.round(rtkRevenue * 100) / 100;
+           // fb
+           if(window.lastRoundedRtkRevenuePageValueProduced !== roundedRevenue){
+            window.lastRoundedRtkRevenuePageValueProduced = roundedRevenue;
+            fbq('trackCustom', 'PageValueRounded', {
+                currency: 'USD',
+                total_value: roundedRevenue,
+            rev: rtkRevenue,
+                page: tmpPage
+            }); 
+           }    
+           fbq('trackCustom', 'PageValue', {
+                currency: 'USD',
+                total_value: jitaJS.rtk.getSessionRevenue(),
+                page: tmpPage
+            });
+        }, false);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-104595666-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-104595666-2');
+</script>
+<link rel="icon" href="https://s27748.pcdn.co/wp-content/uploads/2019/04/favico.png" sizes="32x32">
+<link rel="icon" href="https://s27748.pcdn.co/wp-content/uploads/2019/04/favico.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://s27748.pcdn.co/wp-content/uploads/2019/04/favico.png">
+<meta name="msapplication-TileImage" content="https://s27748.pcdn.co/wp-content/uploads/2019/04/favico.png">
+<meta name="generator" content="Built With The Today WordPress Theme 1.1.1 by WPExplorer.com">
+	<!--[if IE 8]><link rel="stylesheet" type="text/css" href="https://s27748.pcdn.co/wp-content/themes/wpex-today/css/ie8.css" media="screen"><![endif]-->
+</head>
+
+<body class="page-template-default page page-id-3 right-sidebar">
+
+	<div class="wpex-site-wrap wpex-clr">
+
+		
+<div class="wpex-site-header-wrap wpex-clr">
+
+	<header class="wpex-site-header wpex-container wpex-clr">
+
+		<div class="wpex-site-branding wpex-clr">
+
+			
+<div class="wpex-site-logo wpex-clr">
+
+	
+		<a href="https://populareverything.com/" title="Popular Everything" rel="home">
+			<img src="https://s27748.pcdn.co/wp-content/uploads/2019/04/Logo.png" alt="Popular Everything">
+		</a>
+
+	
+</div><!-- .wpex-site-logo -->
+			
+		</div><!-- .wpex-site-branding -->
+
+		
+	</header><!-- .wpex-site-header -->
+
+</div><!-- .wpex-site-header-wrap -->
+
+
+	<nav class="wpex-site-nav-wrap wpex-clr">
+
+		<div class="wpex-site-nav wpex-container wpex-clr">
+
+			<div class="wpex-site-nav-inner wpex-clr">
+
+				<a href="#mobile-nav" class="wpex-mobile-nav-toggle wpex-off-canvas-menu-btn">
+					<span class="fa fa-bars wpex-mobile-nav-toggle-icon"></span>
+											<span class="wpex-mobile-nav-toggle-text">Menu</span>
+									</a><!-- .wpex-site-nav-toggle -->
+
+				<div class="menu-primary-container"><ul id="menu-primary" class="wpex-dropdown-menu wpex-clr"><li id="menu-item-12554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12554"><a href="https://populareverything.com/category/celebrities/">Celebrities</a></li>
+<li id="menu-item-12553" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12553"><a href="https://populareverything.com/category/around-the-world/">Around the World</a></li>
+<li id="menu-item-12738" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12738"><a href="https://populareverything.com/category/lol/">LOL</a></li>
+<li id="menu-item-12555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12555"><a href="https://populareverything.com/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-12556" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12556"><a href="https://populareverything.com/category/health-and-beauty/">Health &amp; Beauty</a></li>
+</ul></div>
+				
+	<div class="wpex-socialbar wpex-clr">
+								<a href="https://www.facebook.com/PopularEverything/" title="Facebook" target="_blank"><span class="fa fa-facebook"></span></a>
+																	<a href="https://www.instagram.com/popular_everything_usa/" title="Instagram" target="_blank"><span class="fa fa-instagram"></span></a>
+																														</div><!-- .wpex-socialbar -->
+	
+
+				</div><!-- .wpex-site-nav-inner -->
+
+		</div><!-- .wpex-site-nav -->
+
+	</nav><!-- .wpex-site-nav-wrap -->
+
+		
+		<div class="wpex-site-content wpex-container wpex-clr">
+	
+
+	<div class="wpex-content-area wpex-clr">
+
+		<main class="wpex-site-main wpex-clr">
+
+			
+				
+<article class="wpex-page-article wpex-clr">
+
+	
+	
+<div class="wpex-entry wpex-clr">
+    <p class="p1"><span class="s1">Zippor Ltd. (“Zippor”) com understands that protecting the privacy of those who visit its website, is of great importance. This is the reason why we are taking the necessary steps to ensure the privacy of those who visit our website (the “<b>Site</b>”). This Privacy Policy applies to the Site and supervises the way that information is gathered on the Site and the use that is made of such information. By using the Site, you are consenting to the conditions that appear in this policy.</span></p>
+<h4 class="p1"><span class="s1"><b>Collecting information</b></span></h4>
+<p class="p2"><span class="s2">Zippor might collect personal identification details such as your email address, your name, your residential/work address or your phone number. In addition, Zippor might collect anonymous demographical information which is not unique to you – such as your area code, age, gender, preferences, and areas of interest.</span></p>
+<p class="p2"><span class="s2">In addition, information regarding your computer hardware and software is gathered automatically. This information could contain your IP address, the type of browser, names of site/users, access times and references to other internet sites. This information will be used by Zippor to activate services, to carry out quality control of the services and to provide general statistics relating to the use of the Site.</span></p>
+<p class="p2"><span class="s2">Please bear in mind that to the extent that you provide personal identification information, or personally sensitive information of any kind through the public channels on the Site, this information could be collected and used by other people.</span></p>
+<p class="p2"><span class="s2"><b>Remark</b>&nbsp;–&nbsp;Zippor does not read private online communications.&nbsp;</span><span class="s2">Zippor strongly recommends that you review the privacy declarations of the sites to which connect from the Site, so that you will be able to see how these sites gather, use and involve other people, in your information.</span></p>
+<h4 class="p1"><span class="s1">Use of your personal data</span></h4>
+<p class="p1"><span class="s2">Zippor collects and uses your personal data for the purpose of running the Site and to provide services which you request. Zippor also makes use of your identification details to bring to your notice other products and services which are available to you on the Site and its add-ons. Zippor may also make contact with you through surveys in order to get your opinion about its existing services and about new or potential services which it may offer you in the future.&nbsp;</span></p>
+<p class="p1"><span class="s2">Zippor does not sell, hire or rent out its customer listings to any third parties. Zippor may, from time to time, contact you on behalf of its external business partners regarding special offers which could be of interest to you. In that circumstance, the personal identification details which are unique to you (such as your email address, name, address, phone number, etc.) are not given to any third parties. In addition, the Zippor Site may share information with reliable partners when obtaining their assistance with statistical analysis, contacting you by email or post, providing support to customers or arranging shipment. None of these third parties are allowed to use your personal identification details other than for the purpose of providing services for the Site and must respect the confidentiality of your details.</span></p>
+<p class="p1"><span class="s1">Zippor does not use or share sensitive identification information such as ethnicity, religion or political leanings without your specific consent.</span></p>
+<p class="p1"><span class="s1">Zippor protects information and carries out a follow-up of the sites and internet pages on the Site which our customers visit, in order to identify what services on the Site are the most popular. This information is used to send personalized content and advertising from the Site to customers whose activity suggests that they are interested in specific subjects.</span></p>
+<p class="p1"><span class="s1">The Site will hand over your personal details without giving you notification, only if it is required to do so by a legal authority or when it genuinely believes that doing is necessary in order to: (a) to comply with the demands of the law or to cooperate with legal proceedings being conducted on the Site; (b) to protect and defend the rights and property of the Site; (c) to operate under circumstances of extreme emergency to protect the integrity and security of the Site’s users or of the general public.</span></p>
+<h4 class="p1"><span class="s1"><b>Using cookies</b></span></h4>
+<p class="p1"><span class="s2">The Site uses “Cookies” to help you achieve a personally matched online experience. Cookies are text files located on your hard disc by the server. Cookies cannot be used to run software or to introduce viruses on to your computer. Cookies are adapted to you uniquely and can be activated only by the server that is operating the file on your computer.</span></p>
+<p class="p1"><span class="s2">One of the main purposes of Cookies is to facilitate time-saving. The objective of Cookies is to tell the site server that you have revisited a particular internet page. For example, if you have personally verified pages on the Site or registered for the Zippor Site or for its services, the Cookie helps the Site to retrieve personal data concerning other visits made there. This simplifies the process of documenting your personal data such as billing address and shipment address, etc. When you go back to that Site the information you provided previously can be collected and you will be able to make simple use of the features offered on the Site which you have personally authenticated.</span></p>
+<p class="p1"><span class="s2">You have the choice of whether to accept or reject Cookies. Most computer browsers are programmed by default to automatically allow Cookies, but in general, it is possible to change the browser option and refuse to accept cookies – if that is your preference. If you refuse to accept cookies, it is possible that you won’t be able to experience all the features and services offered you on the Site or on the other sites you visit.</span></p>
+<h4 class="p1"><span class="s1"><b>Targeting&nbsp;and advertising cookies</b>&nbsp;</span></h4>
+<p class="p1"><span class="s1">These Cookies collect information about your browsing habits in order to make as much as possible advertising relevant to you and your interests. This information is then used to deliver adverts more relevant to you and your interests as detailed below. These cookies can be placed by Zippor or third parties including advertising networks. These cookies remember which websites you have visited and this information can be shared with other organizations such as advertisers. These cookies and the relating data processing is subject to the privacy and cookie policies of those third parties.</span></p>
+<h4 class="p1"><span class="s1"><b>Interest-Based Advertising</b></span></h4>
+<p class="p3"><span class="s1">By using Targeting&nbsp;and advertising cookies,&nbsp;Zippor and/or any other third party on our behalf may provide advertisements to you based on your recent browsing behavior across different websites, browsers, or devices. For the purpose of targeting advertisements to you for services and/or products in which Zippor will determine, in Zippor’s sole discretion, you might be interested, we may use cookies, JavaScript, web beacons (including clear GIFs), HTML5 local storage and other technologies.</span></p>
+<p class="p1"><span class="s1">We may also use third parties such as network advertisers, which are third parties that display advertisements based on your visits to websites you have visited target advertisements to you for products and services in which you might be interested.</span></p>
+<p class="p1"><span class="s1">Third-party ad network providers, advertisers, sponsors and/or traffic measurement services may also use cookies and/or the mentioned technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party’s specific privacy policy, not this one.</span></p>
+<h4 class="p1"><span class="s1"><b>Your&nbsp;Choices and Opting Out</b></span></h4>
+<p class="p1"><span class="s1">Zippor supports initiatives of greater transparency and control for users and offers the following options for controlling the interest-based content and ads you might receive.&nbsp;</span><span class="s1">If you do not want to receive interest-based ads displayed by Zippor or by any other third party on its behalf, you can disable the display of such ads by clicking on the opt-out button below.</span></p>
+<p class="p1"><span class="s1">Once You will opt-out of tracking, your personalized content recommendations based on your Internet use history will be revoked.</span></p>
+<p class="p1"><span class="s1">Because our tracking mechanisms operate at the device and browser level, to fully opt-out across devices, you will need to do so on each device and browser individually.</span></p>
+<p class="p1"><span class="s1">One can also opt-out of receiving targeted ads served by Zippor or other advertising companies.</span></p>
+<p class="p1"><span class="s1">You may use the&nbsp;<a href="http://www.networkadvertising.org/choices">NAI opt-out tool</a>, which will allow you to opt out of seeing targeted ads from us and from other NAI-approved member companies, and&nbsp;for mobile opt-outs, the NAI provides&nbsp;instructions to engage system-level opt-outs in Android, iOS, and Windows Phone environments.&nbsp;</span></p>
+<p class="p1"><span class="s1">Users in the United States, Canada, and Europe may go to the DAA consumer choice page at&nbsp;<a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a>, or the DAAC consumer choice page at&nbsp;<a href="http://www.youradchoices.ca/choices">www.youradchoices.ca/choices</a>, or the EDAA consumer choice page at&nbsp;<a href="http://www.youronlinechoices.eu/">www.youronlinechoices.eu</a>, for information about opting out of interest-based advertising and their choices regarding having information used by companies listed on the DAA, DAAC, or EDAA, consumer choice pages.</span></p>
+<p class="p1"><span class="s1">Opting out from one or more companies listed on the DAA, DAAC, or EDAA consumer choice page will opt you out from those companies’ delivery of targeted content or ads to you, but it does not mean you will no longer receive any advertising through our Services or on other websites.</span></p>
+<p class="p1"><span class="s1">You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC or EDAA consumer choice pages, your opt-out may not be effective. Additional information is available on the DAA’s website at&nbsp;<a href="http://www.aboutads.info/">www.aboutads.info</a>, on the DAAC’s website at&nbsp;<a href="http://www.youradchoices.ca/">www.youradchoices.ca</a>, and on the EDAA’s website at&nbsp;<a href="http://www.youronlinechoices.eu/">www.youronlinechoices.eu</a>.</span></p>
+<p class="p1"><span class="s1">You may also opt out of receiving targeted ads from other third-party ad networks.&nbsp;You may use the&nbsp;<a href="http://optout.aboutads.info/#!/">DAA opt-out tool</a>, which will allow you to opt out of seeing targeted ads from us and from other companies that adhere to the DAA principles.</span></p>
+<p class="p1"><span class="s1">Please note that opting out will not prevent you from seeing our ads on other websites, but it will affect the types of ads that you will see. These ads will no longer be tailored to your interests and instead will be chosen based on the particular website that you are viewing (i.e. contextually based ads).</span></p>
+<p class="p1"><span class="s1">If your browsers are configured to reject cookies, your opt-out may not be effective, since we identify your choice to opt-out based on a cookie we deliver to you. In this case, you will need to confirm that your browser is configured properly in order for the opt-out to be effective. If you are using a Safari browser on iOS11 or macOS High Sierra, you must first adjust your Privacy and Security Settings to turn off both “Prevent Cross-Site Tracking” and “Block All Cookies”, and then return to this privacy policy or your preferred opt-out platform to reset your opt-out preferences.&nbsp;</span></p>
+<p class="p1"><span class="s1">Zippor may use non-cookie technologies in limited cases. Like cookies, these technologies allow Zippor to recommend ads that are tailored to your interests and to remember whether you have chosen to opt-out of our Services. Please note that some web browsers may not permit you to block the use of non-cookie technologies, but you can do so by simply clicking on the Opt Out feature available in the “User Choices” section on this page.</span></p>
+<h4 class="p1"><span class="s1">Your personal data protection</span></h4>
+<p class="p2"><span class="s2">We review this Privacy Policy regularly and reserve the right to make changes at any time to take account of changes in our business and legal requirements. We will place updates on our website.</span></p>
+<p class="p1"><span class="s2">Please take a look at the “<i>LAST UPDATED</i>” date at the bottom of this Privacy Policy to see when it was last revised.</span></p>
+<h4 class="p1"><span class="s1">Contact us</span></h4>
+<p class="p1"><span class="s2">The Site welcomes any comments you make about this Policy. If you believe that Zippor is deviating from its Policy, please contact us at info@zippormedia.com– we will do everything is in our reasonable power and commercial capacity to attend to the problem immediately.</span></p>
+<p class="p1"><strong><span class="s2">Last updated: 11/3/2018</span></strong></p>
+    </div><!-- .wpex-entry -->
+	
+	
+	
+</article><!-- .wpex-page-article -->
+			
+		</main><!-- .wpex-site-main -->
+
+	</div><!-- .wpex-content-area -->
+
+
+	<aside class="wpex-sidebar wpex-clr">
+		<div class="wpex-widget-area">
+			<div class="wpex-sidebar-widget widget_search wpex-clr">
+<form method="get" class="wpex-site-searchform" action="https://populareverything.com/">
+	<input type="search" class="field" name="s" value="Search…" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+	<button type="submit"><span class="fa fa-search"></span></button>
+</form></div>		<div class="wpex-sidebar-widget widget_recent_entries wpex-clr">		<h4 class="widget-title">Recent Posts</h4>		<ul>
+											<li>
+					<a href="https://populareverything.com/woman-creates-mobile-home-out-of-old-bus-and-it-looks-incredible/">Woman Creates Mobile Home Out of Old Bus and It Looks Better Than Most Apartments</a>
+									</li>
+											<li>
+					<a href="https://populareverything.com/the-most-hilariously-epic-photobombs-ever-achieved/">The Most Hilarious Photobombs Ever Achieved</a>
+									</li>
+											<li>
+					<a href="https://populareverything.com/queen-guitarist-brian-may-thinks-its-time-for-another-live-aid/">Queen Guitarist, Brian May Thinks It’s Time for Another Live Aid</a>
+									</li>
+											<li>
+					<a href="https://populareverything.com/people-who-take-their-fandom-and-obsessions-to-whole-new-levels/">People Who Take Their Fandom and Obsessions to the Next Level</a>
+									</li>
+											<li>
+					<a href="https://populareverything.com/a-look-at-the-best-girl-next-door-characters-in-tv-history/">A Look at the Best “Girl Next Door” Characters in TV History</a>
+									</li>
+					</ul>
+		</div><div class="wpex-sidebar-widget widget_categories wpex-clr"><h4 class="widget-title">Categories</h4>		<ul>
+				<li class="cat-item cat-item-41"><a href="https://populareverything.com/category/animals-and-nature/" title="&nbsp;
+Discover the beauty of our world as Popular Everything uncovers unbelievable wildlife and other natural wonders. Check out amazing animals, take in gorgeous sites and learn all about our fascinating planet.">Animals &amp; Nature</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://populareverything.com/category/around-the-world/" title="&nbsp;
+The world is an interesting and ever-changing place, stay updated from an international perspective. Popular Everything will keep you informed globally with some of the most fascinating world discoveries.
+ 
+">Around the World</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://populareverything.com/category/celebrities/" title="&nbsp;
+Find out who the world is talking about with Popular Everything. Get the latest scoop with exciting behind the scenes stories that will take you beyond the red carpet and into the lives of some of Hollywood's favorite faces. ">Celebrities</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://populareverything.com/category/entertainment/" title="&nbsp;
+Stay up to date on all the must-see movies, and binge-worthy shows. Popular Everything will give you the lowdown on what to see today and remind you of yesterday's timeless classics.">Entertainment</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://populareverything.com/category/food/" title="&nbsp;
+Mouthwatering trends and eye-opening stories all involving everyone's favorite topic...food! Popular Everything wants to satisfy your every craving whether it comes to juicy controversies in the industry or delicious new cuisines that you have to try.">Food</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://populareverything.com/category/health-and-beauty/" title="&nbsp;
+Beauty starts from the inside out. Popular Everything is here to keep you in tip-top shape so you can look and feel your very best, with current tips and trends in the health and beauty industries.">Health &amp; Beauty</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://populareverything.com/category/history/" title="&nbsp;
+History is what shapes our future and we must learn from our past. The past is filled with thought-provoking information and Popular Everything is here to keep you informed.">History</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://populareverything.com/category/lol/" title="&nbsp;
+Popular Everything will brighten your day with these awe-inspiring feel-good moments that are bound to make you laugh out loud. So take a step out of your stressful everyday life to read something cute, funny or just downright silly.">LOL</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="https://populareverything.com/category/music/" title="&nbsp;
+Tune in to Popular Everything and take a stroll down memory lane with some of your favorite songs and musicians throughout history. Find out the hottest songs and get a backstage pass to all the latest music news. ">Music</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://populareverything.com/category/science-and-technology/" title="&nbsp;
+With Popular Everything, learning about the latest scientific discoveries is cooler than ever before. So leave your boring textbooks at home and find out just how crazy our world really is. 
+
+">Science &amp; Technology</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://populareverything.com/category/sports/" title="&nbsp;
+Score up to date up info on everything sports. Popular Everything is always competitive in keeping you in the know regarding athletics on and off the playing field.">Sports</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://populareverything.com/category/stories/" title="&nbsp;
+What’s everyone talking about? Popular Everything is here to give you a sneak peek into the most fascinating narratives and latest viral topics on the web. You won’t miss a thing!">Stories</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://populareverything.com/category/style/" title="&nbsp;
+Fashion is ever evolving, and trends come and go. Popular Everything is your guide to always staying fashion relevant and looking your very best.">Style</a>
+</li>
+		</ul>
+			</div>		</div><!-- .wpex-widget-area -->
+	</aside><!-- .wpex-sidebar -->
+
+
+
+	</div><!-- .wpex-site-content -->
+
+	
+
+<footer class="wpex-site-footer-wrap wpex-clr">
+
+	<div class="wpex-site-footer wpex-container wpex-clr">
+
+		
+			
+<div class="wpex-footer-widgets wpex-row wpex-clr">
+
+	
+		<div class="wpex-footer-box wpex-col wpex-clr wpex-col-1">
+			<div class="widget_text footer-widget widget_custom_html wpex-clr"><div class="textwidget custom-html-widget"><div id="dx-footer-menu" style="text-alight: center; margin: 0 auto; max-width: 500px;"><a href="https://populareverything.com/about/">ABOUT</a> | <a href="https://populareverything.com/contact/">CONTACT</a> | <a href="https://populareverything.com/privacy-policy/">PRIVACY</a> | <a href="https://populareverything.com/dmca/">DMCA</a> | <a href="https://populareverything.com/terms-and-conditions/">TERMS</a> | <a href="https://www.facebook.com/Popular-Everything-1814207775556201/" target="_blank">FACEBOOK</a></div></div></div>		</div><!-- .footer-box -->
+
+	
+	
+	
+	
+</div><!-- .wpex-footer-widgets -->
+		
+					
+			<div class="wpex-footer-bottom wpex-has-footer-widgets">
+				
+	<div class="footer-copyright wpex-clr">
+		© 2019 Popular Everything.	</div><!-- .footer-copyright -->
+			</div><!-- .wpex-footer-bottom -->
+
+		
+	</div><!-- .wpex-site-footer -->
+
+</footer><!-- .wpex-site-footer-wrap -->
+</div><!-- .wpex-site-wrap -->
+
+
+<a href="#" title="Top" class="wpex-site-scroll-top"><span class="fa fa-angle-up"></span></a>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/populareverything.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s27748.pcdn.co/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s27748.pcdn.co/wp-content/themes/wpex-today/js/plugins/jquery.fitvids.js?ver=1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpexLocalize = {"isRTL":"","mobileMenuOpen":"Menu","mobileMenuClose":"Menu"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s27748.pcdn.co/wp-content/themes/wpex-today/js/functions.js?ver=1.1.1"></script>
+<script type="text/javascript" src="https://s27748.pcdn.co/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.eu01.nr-data.net","licenseKey":"99c87ea762","applicationID":"1726214","transactionName":"MhBSZQoZW0sCU0RYCwtacVIMEVpWTEBRVgE=","queueTime":0,"applicationTime":46,"atts":"HldRE0IDSEU=","errorBeacon":"bam.eu01.nr-data.net","agent":""}</script>
+</body></html>
