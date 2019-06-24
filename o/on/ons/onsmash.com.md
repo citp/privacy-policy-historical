@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onsmash.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231074557id_/http%3A//onsmash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsmash.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624160444id_/http%3A//onsmash.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OnSMASH
 
