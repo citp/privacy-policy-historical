@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accurint.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813005733id_/https%3A//risk.lexisnexis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accurint.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624143308id_/https%3A//risk.lexisnexis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LexisNexis Risk Solutions
 
