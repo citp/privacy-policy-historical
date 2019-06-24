@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the javalobby.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231003057id_/https%3A//dzone.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javalobby.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624122856id_/https%3A//dzone.com/pages/privacy) for the most accurate reproduction.*
 
 # DZone
 
 DZone is committed to protecting your privacy. This Privacy Policy applies to the web site at dzone.com and all other affiliated sites and services (collectively, the “Site”). We are providing this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of personal information that we collect and receive from you in connection with the Site.
 
-This Privacy Policy does not apply to: (1) activities that occur offline; or (2) to information we collect outside of the Sites, including through any AnswerHub-powered site or the www.dzonesoftware.com website provided by DZone.
+This Privacy Policy does not apply to: (1) activities that occur offline; or (2) to information we collect outside of the Sites, including through any AnswerHub-powered site or the www.devada.com website provided by DZone.
 
 The Site is made available free of charge only because advertisers and sponsors on the Site cover the costs associated with hosting and operating the Site. As further described below, by clicking on advertisements on the Site and taking advantage of sponsored content on the Site, you consent to the delivery of the personal information gathered by DZone to DZone’s advertisers and sponsors. 
 
@@ -110,9 +110,10 @@ In the event that all or part of DZone is acquired by or merged with a third par
 This policy may be revised by us from time to time. By using this Site you agree that we have a right to change our policy without prior notification. The revised policy will appear on our Site with the date of last revision. Your continued use of the Site following such revisions will be conclusively deemed acceptance of any changes to these Terms.
 
 If you have any questions or complaints regarding this Privacy Policy, please email us or write to:   
-DZone, Inc.  
-150 Preston Executive, Suite 201  
-Cary, NC 27513 USA  
+Devada  
+600 Park Offices Dr.  
+Suite 150   
+Research Triangle Park, NC 27709  
 [privacy@dzone.com](mailto:privacy@dzone.com)
 
 If you believe you have not received an appropriate response from us regarding your question or complaint, you may contact the applicable supervisory authority below based on your residence:
