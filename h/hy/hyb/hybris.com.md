@@ -1,286 +1,96 @@
-> *The following text is extracted and transformed from the hybris.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004084700id_/http%3A//www.hybris.com/en/disclaimer/hybris-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybris.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624185606id_/https%3A//www.sap.com/about/legal/privacy.html) for the most accurate reproduction.*
 
-# SAP Privacy Statement | SAP Hybris
+# Privacy
 
-SAP Privacy Statement
+**Skip to Content**
 
-* * *
+**When does this Privacy Statement apply?** This Privacy Statement applies to Personal Data that you provide to SAP or which is derived from the Personal Data as outlined below. The use of and any information that is gathered by cookies or other web tracking technologies is subject to the disclosures and options provided by the TrustArc Consent Manager which can be found on the relevant website.
 
-   
-Protecting the individual's privacy on the Internet is crucial to the future of Internet-based business and the move towards a true Internet economy. We have created this Privacy Statement to demonstrate our firm commitment to the individual's right to privacy. This Privacy Statement outlines our handling practices with regard to such information that can be used to directly or indirectly identify an individual ( **“Personal Data”** ).
+**Data Controller**. The data controller of www.sap.com is SAP America, Inc., 3999 West Chester Pike, Newtown Square, PA 19073, USA (“SAP”). Where a registration form is presented on this website, the data controller may vary depending on the actual offering or the purpose of the data collection but it is in any case displayed on the individual registration form’s privacy statement. The SAP Group’s data protection officer is Mathias Cellarius ([privacy@sap.com](mailto:privacy@sap.com)). 
 
-This Privacy Statement applies to www.sap.com and any other website which references this Privacy Statement. Data controller in case of www.sap.com is SAP America Inc., 3999 West Chester Pike, Newtown Square, PA 19073, USA. Data controller in case of other websites which reference or otherwise use this Privacy Statement is the SAP group entity set out in the relevant legal disclosure or, if a legal disclosure is not required in accordance with local laws, the copyright of such website. This will be in particular SAP SE, Dietmar-Hopp-Allee 16, 69190 Walldorf, Germany with a view to the corporate website of the SAP group ([www.sap.com/corporate-de/about.html](http://www.sap.com/corporate-de/about.html) and [www.sap.com/corporate-en/about.html](http://www.sap.com/corporate-en/about.html)), product-specific websites, SCN and the SAP Store. SAP America Inc., SAP SE and any relevant SAP group entity are hereafter individually referred to as “SAP”.
+**What does SAP do with my Personal Data?** SAP will process the Personal Data provided hereunder only as set out in this Privacy Statement. Further information can be found in Sections B. and C. below. Where the processing of your Personal Data is based on a statutory permission, you can find information on which Personal Data SAP is processing or using for which purposes in Section B below. Where consent for the processing of your Personal Data is required you can find further information in Section C. below. This information matches with the respective consent statements pertaining to individual processing operations in the [Consent Resource Center](https://www.sap.com/consent-resource-center).
 
-Some SAP group entities, offerings, programs and/or websites may have their own, possibly different, privacy statements. We therefore encourage you to read the privacy statements of each of the SAP websites, offerings or programs you visit or review.
+**Duration of processing of Personal Data**. Where SAP is processing and using your Personal Data as permitted by law (see B. below) or under your consent (see C. below), SAP will store your Personal Data (i) only for as long as is required to fulfil the purposes set out below or (ii) until you object to SAP’s use of your Personal Data (where SAP has a legitimate interest in using your Personal Data), or (iii) until you withdraw your consent (where you consented to SAP using your Personal Data). However, where SAP is required by mandatory law to retain your Personal Data longer or where your Personal Data is required for SAP to assert or defend against legal claims, SAP will retain your Personal Data until the end of the relevant retention period or until the claims in question have been settled.
 
-* * *
+**Why am I required to provide Personal Data?** As a general principle, your granting of any consent and your provision of any Personal Data hereunder is entirely voluntary; there are generally no detrimental effects on you if you choose not to consent or to provide Personal Data. However, there are circumstances in which SAP cannot take action without certain Personal Data, for example because this Personal Data is required to process your orders or provide you with access to a web offering or newsletter. In these cases, it will unfortunately not be possible for SAP to provide you with what you request without the relevant Personal Data.
 
-I. Global Privacy Fundamentals
+**Where will my Personal Data be processed?** As part of a global group of companies, SAP has affiliates and third-party service providers within as well as outside of the European Economic Area (the “EEA”). As a consequence, whenever SAP is using or otherwise processing your Personal Data for the purposes set out in this Privacy Statement, SAP may transfer your Personal Data to countries outside of the EEA including to such countries in which a statutory level of data protection applies that is not comparable to the level of data protection within the EEA. Whenever such transfer occurs, it is based on the Standard Contractual Clauses (according to EU Commission Decision 87/2010/EC or any future replacement) in order to contractually provide that your Personal Data is subject to a level of data protection that applies within the EEA. You may obtain a redacted copy (from which commercial information and information that is not relevant has been removed) of such Standard Contractual Clauses by sending a request to [privacy@sap.com](mailto:privacy@sap.com).
 
-Our privacy practices set out herein reflect current global principles and standards on handling Personal Data. These principles include notice of data use, choice of data use, data access, data integrity, security, onward transfer, and enforcement/oversight. We abide by the privacy laws in the countries where we do business.
+**Data subjects’ rights**. You can request from SAP at any time information about which Personal Data SAP processes about you and the correction or deletion of such Personal Data. Please note, however, that SAP can delete your Personal Data only if there is no statutory obligation or prevailing right of SAP to retain it. Kindly note that if you request that SAP delete your Personal Data, you will not be able to continue to use any SAP service that requires SAP’s use of your Personal Data.
 
-**_»  Back to Top_**
+If SAP uses your Personal Data based on your consent or to perform a contract with you, you may further request from SAP a copy of the Personal Data that you have provided to SAP. In this case, please contact the email address below and specify the information or processing activities to which your request relates, the format in which you would like this information, and whether the Personal Data is to be sent to you or another recipient. SAP will carefully consider your request and discuss with you how it can best fulfill it.
 
-* * *
+Furthermore, you can request from SAP that SAP restricts your Personal Data from any further processing in any of the following events: (i) you state that the Personal Data SAP has about you is incorrect, (but only for as long as SAP requires to check the accuracy of the relevant Personal Data), (ii) there is no legal basis for SAP processing your Personal Data and you demand that SAP restricts your Personal Data from further processing, (iii) SAP no longer requires your Personal Data but you claim that you require SAP to retain such data in order to claim or exercise legal rights or to defend against third party claims or (iv) in case you object to the processing of your Personal Data by SAP (based on SAP’s legitimate interest as further set out in B. below) for as long as it is required to review as to whether SAP has a prevailing interest or legal obligation in processing your Personal Data.
 
-II. Consent
+Please direct any such request to [webmaster@sap.com.](mailto:webmaster@sap.com?subject=\[PRIVACY\]%20Data%20Subject%20Right%20Request)
 
-By using this website, you consent to the collection and use of your Personal Data as described herein. If you do not agree with the terms set out herein, please do not use this website.
+**Right to lodge a complaint**. If you believe that SAP is not processing your Personal Data in accordance with the requirements set out herein or applicable EEA data protection laws, you can at any time lodge a complaint with the data protection authority of the EEA country in which you live or with the data protection authority of the country or state in which SAP has its registered seat.
 
-If we decide to make changes to this Privacy Statement, we will post the changes on this website so that you will always know what Personal Data we collect, and how we use it. We therefore encourage you to periodically look for updates to this Privacy Statement.
+**Use of this website by children**. This website is not intended for anyone under the age of 16 years. If you are younger than 16, you may not register with or use this website.
 
-As may be required by applicable law, we may also seek your explicit consent to process certain Personal Data collected on this website or volunteered by you. Kindly note that any consent will be entirely voluntarily. In case you do not grant a requested consent into the processing of your Personal Data or (in accordance with Subsection 10 (Data Retention) below) later inform SAP that you do not want SAP to further process your Personal Data, however the (further) use of certain offerings or services of SAP may be either not possible or limited in scope.
+**Links to other websites**. This website may contain links to foreign (meaning non-SAP Group companies) websites. SAP is not responsible for the privacy practices or the content of websites outside the SAP Group of companies. Therefore, we recommend that you carefully read the privacy statements of such foreign sites. ****
 
-**_»  Back to Top_**
+##  B.  Where SAP uses My Personal Data based on the Law
 
-* * *
+In the following cases, SAP is permitted to process your Personal Data under the applicable data protection law.
 
-III. Collection and Processing of Your Personal Data
+**Providing the requested goods or services.** If you order goods or services from SAP, SAP will use the Personal Data that you enter into the order or registration form (usually (a subset of) your name, (email) address, telephone number, company name and address, your job title and role and, if payment is to be made to SAP, credit card number or bank details) only to process your order or to provide the requested goods or service. This may include taking the necessary steps prior to entering into the contract, responding to your related inquiries, and providing you with shipping and billing information and to process or provide customer feedback and support. This may also include conversation data that you may trigger via the chat functionalities on SAP.com or other local SAP web presences, contact forms, emails, or telephone. In this Privacy Statement, “goods and services” includes (access to) SAP’s web services, offerings, contests, sweepstakes, other content, non-marketing related newsletters, whitepapers, tutorials, trainings and events.
 
-To serve you better and understand your needs and interests, SAP collects, exports, and uses Personal Data with adequate notice (as set out herein) and where legally required consent, along with required filings with data protection authorities, when applicable.
+If you participate in tutorials or trainings provided by SAP, SAP may also track your learning progress in order to make this information available to you. Furthermore, we communicate on a regular basis by email with users who subscribe to our services, and we may also communicate by phone to resolve customer complaints or investigate suspicious transactions. We may use your email address to confirm your opening of an account, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt out of these communications, which are not marketing-related but merely required for the relevant business relationship. With regard to marketing-related types of communication (i.e. emails and phone calls), SAP will (i) where legally required only provide you with such information after you have opted in and (ii) provide you the opportunity to opt out if you do not want to receive further marketing-related types of communication from us. You can opt out of these at any time at <https://www.sap.com/unsubscribe>.
 
-When you visit our website, we may record your IP address and use cookies and other Internet technologies (referred to below as “Automated Tools” and “Embedded Web Links”) to gather information about our visitors and their interests. Depending on the Automated Tools used, the gathered data comprise beyond your IP address, your cloud identity we assign to you when you register with SAP, the type of your browser, the SAP websites you have visited, the objects you have clicked on a certain SAP website, the time you have spent on a certain website, the foreign website from where you have accessed a SAP website and the foreign website to which you have left from an SAP website. The technologies used and the information collected are described in more detail in Subsection 5 (Automated Tools) below. SAP may add information collected by way of Automated Tools to user profiles SAP retains about you. Such additional information includes your user ID, website preferences and your interest in SAP’s products.
+**Ensuring compliance**. SAP and its products, technologies, and services are subject to the export laws of various countries including, without limitation, those of the European Union and its member states, and of the United States of America. You acknowledge that, pursuant to the applicable export laws, trade sanctions, and embargoes issued by these countries, SAP is required to take measures to prevent entities, organizations, and parties listed on government-issued sanctioned-party lists from accessing certain products, technologies, and services through SAP’s websites or other delivery channels controlled by SAP. This may include (i) automated checks of any user registration data as set out herein and other information a user provides about his or her identity against applicable sanctioned-party lists; (ii) regular repetition of such checks whenever a sanctioned-party list is updated or when a user updates his or her information; (iii) blocking of access to SAP’s services and systems in case of a potential match; and (iv) contacting a user to confirm his or her identity in case of a potential match.
 
-We may further collect and process any Personal Data that you volunteer to us, e.g. when you register for events or other offerings of SAP, subscribe to newsletters, participate in online surveys, discussion groups, forums or SAP’s chat service, or when you make purchases or otherwise submit your contact details to SAP. In case you provide SAP with your IDs of social media, SAP may retrieve publicly available information about you.
+Furthermore, you acknowledge that any information required to track your choices regarding the processing or use of your Personal Data or receipt of marketing materials (that is to say, depending on the country in which the relevant SAP Group company operates, whether you have expressly consented to or opted out of receiving marketing materials) may be stored and exchanged between members of the SAP Group as required to ensure compliance.
 
-Such Personal Data will comprise in the individual case (a subset of): your first and last name, your postal and email address (as further detailed in Subsection 2. (Email Addresses) below), your telephone number, log in data for social networks, financial and banking details relevant to process your order (as further detailed in Subsection 3. (Shopping or Event Registration) below), and certain information about the company you are working for (i.e. your company’s name and postal address, your job title and seniority level) as well as information as to which relationship (i.e. which version of SAP’s terms of use you have accepted or what our choice regarding receiving marketing materials from SAP is) between SAP and you exists.
+**SAP’s legitimate interest**. Each of the use cases below constitutes a legitimate interest of SAP to process or use your Personal Data. If you do not agree with this approach, you may object against SAP’s processing or use of your Personal Data as set out below.
 
-**_»  Back to Top_**
+Questionnaires and surveys. SAP may invite you to participate in questionnaires and surveys. These questionnaires and surveys will be generally designed in a way that they can be answered without any Personal Data. If you nonetheless enter Personal Data in a questionnaire or survey, SAP may use such Personal Data to improve its products and services.
 
-* * *
+Creation of anonymized data sets. SAP may anonymize Personal Data provided under this Privacy Statement to create anonymized data sets, which will then be used to improve its and its affiliates’ products and services.
 
-1\. Use and Purpose of Collected Personal Data
+Recording of calls and chats for quality improvement purposes. In case of telephone calls or chat sessions, SAP may record such calls (after informing you accordingly during that call and before the recording starts) or chat sessions in order to improve the quality of SAP’s services.
 
-The information SAP collects to understand your needs and interests helps SAP deliver a consistent and personalized experience. We will use such information only as described in this Privacy Statement and/or in the way we specify at the time of collection. We will not subsequently change the way your Personal Data is used without your consent, as required by applicable law. We will exclusively use your Personal Data for the following purposes: 
+In order to keep you up-to-date/request feedback. Within an existing business relationship between you and SAP, SAP may inform you, where permitted in accordance with local laws, about its products or services (including webinars, seminars or events) which are similar or relate to such products and services you have already purchased or used from SAP. Furthermore, where you have attended a webinar, seminar or event of SAP or purchased products or services from SAP, SAP may contact you for feedback regarding the improvement of the relevant webinar, seminar, event, product or service.
 
-  * To process your orders and deliver the products, services and information that you have ordered;
-  * To keep you up to date on the latest product announcements, software updates, software upgrades, security patches, system enhancements, special offers, and other information regarding SAP’s software and services. This may occasionally include information from other technology companies or business partners about products and services that can add value to your SAP products. Such communication may be provided not only by SAP, but by any other company of the SAP group of companies, including, for the avoidance of doubt all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy subgroup companies. In this regard, you expressly acknowledge that your contact details may be shared by SAP with such other companies of the SAP group. Furthermore, you acknowledge that any information required to track your choices regarding receiving marketing materials (i.e. depending on the country where the relevant SAP group company operates whether you have granted an explicit consent into receiving and/or opted-out of receiving marketing materials) may be stored and exchanged between any of the above mentioned companies;
-  * To tailor information about our products and services to your individual interests. For example, during a visit to our website, it allows us to provide you with specific information on products and services that may be of interest;
-  * To provide the ability to create by way of the SAP Cloud ID Service a single user profile which one individual can use within the whole SAP group of companies (including all SAP companies as well as all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy companies) to access web offerings and services. Therefore, you acknowledge that such Personal Data required for the creation of your user profile may be shared within and used by the whole SAP group of companies for this purpose. Such service may also allow you to share information about you (including Personal Data) with other registered users of the same service. You can use the functionality of the relevant service to determine which information you want to share;
-  * Beyond the SAP Cloud ID Service profile described in the bullet point above to provide the ability to create other user profiles and access to other service specific personal profile areas (e.g. in connection with SAP’s own partner programs, forums and communities). Since such profiles may allow you to access services of different members of the SAP group of companies (including all SAP companies as well as all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy companies) you acknowledge that such Personal Data required for the creation of your user profile may be shared within and used by the whole SAP group of companies for this purpose. Such service may also allow you to share information about you (including Personal Data) with other registered users of the same service. You can use the functionality of the relevant service to determine which information you want to share;
-  * To provide a personalized user experience and view protected content.
-  * To conduct online "Click to Chat" and "Click to Call" sessions;
-  * In order to ensure and control the quality of the information and experience you have during chat sessions with SAP by educating our personnel to effectively answer your questions;
-  * To provide the ability to contact you in order to respond to your inquiries, and provide you with shipping and billing information, and to provide customer feedback and support;
-  * To provide contests, sweepstakes or other marketing or promotional activities on the www.sap.com or other SAP websites. Personal Data may be collected to administer those programs;
-  * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary;
-  * To support recruitment inquiries;
-  * To prepare anonymized data regarding the use of SAP’s websites and offerings. SAP will use such anonymized data only for the improvement of such websites and offerings;
-  * To meet contractual obligations; and
-  * To comply with applicable regulatory requirements, in particular resulting from export laws. SAP and its products, technologies and services are subject to the export laws of various countries, including without limitation, to those of the European Union and its member states, and the United States of America. You acknowledge that, pursuant to the applicable export laws, trade sanctions and embargoes issued by these countries, SAP is required to take measures to prevent entities, organizations and parties listed in government issued sanctioned party lists from accessing certain products, technologies and services through SAP’s websites or other delivery channels controlled by SAP. You therefore acknowledge and agree that SAP may (i) automatically check any user registration data and other information you provide about your identity against applicable sanctioned party lists; (ii) regularly repeat such checks whenever a sanctioned party list is updated or when you update your information; (iii) block your access to SAP’s services and systems in case of a potential match; and (iv) in case of a potential match contact you in order to confirm your identity.
+**Right to object.** You may object to SAP using Personal Data for the above purposes at any time by unsubscribing at <https://www.sap.com/unsubscribe>. If you do so, SAP will cease using your Personal Data for the above purposes (that is to say, under a legitimate interest set out above) and remove it from its systems unless SAP is permitted to use such Personal Data for another purpose set out in this Privacy Statement or SAP determines and demonstrates a compelling legitimate interest to continue processing your Personal Data. 
 
+##  C. Where SAP uses My Personal Data based on My Consent
 
+In the following cases SAP will only use your Personal Data as further detailed below after you have granted your prior consent into the relevant processing operations. Therefore, each information about a processing operation with regard to Personal Data is linked to one consent statement in the [Consent Resource Center](https://www.sap.com/consent-resource-center). If you re-open this Privacy Statement after you have initially one or more consents granted you will not only see the information related to the consents you have granted but the full privacy statement.
 
-**_»  Back to Top_**
+**News about SAP’s Products and Services.** Subject to a respective provision and your consent, SAP may use your name, email and postal address, telephone number, job title and basic information about your employer (name, address, and industry) as well as an interaction profile based on prior interactions with SAP (prior purchases, participation in webinars, seminars, or events or the use of (web) services  \- further details on this topic can be found in the TrustArc Consent Manager displayed on the relevant SAP website) in order to keep you up to date on the latest product announcements, software updates, software upgrades, special offers, and other information about SAP’s software and services (including marketing-related newsletters) as well as events of SAP and in order to display relevant content on SAP’s websites. In connection with these marketing-related activities, SAP may provide a hashed user ID to third party operated social networks or other web offerings (such as Twitter, LinkedIn, Facebook, Instagram or Google) where this information is then matched against the social networks’ data or the web offerings’ own data bases in order to display to you more relevant information.
 
-* * *
+**Creating user profiles.** SAP offers you the option to use its web offerings including forums, blogs, and networks (such as the SAP Community) linked to this website that require you to register and create a user profile. User profiles provide the option to display personal information about you to other users, including but not limited to your name, photo, social media accounts, postal or email address, or both, telephone number, personal interests, skills, and basic information about your company.
 
-2\. E-mail Addresses
+These profiles may relate to a single web offering of SAP or, if created in the SAP Cloud Platform Identity Authentication Service, may also allow you to access other web offerings of SAP or of other entities of the SAP Group, or both (irrespective of any consent granted under the section “Forwarding your Personal Data to other SAP companies.” below). It is, however, always your choice which of these additional web offerings you use and your Personal Data is only forwarded to them once you initially access them. Kindly note that without your consent for SAP to create such user profiles SAP will not be in a position to offer such services to you where your consent is a statutory requirement that SAP can provide these services to you.
 
-If you choose to give us your e-mail address, we will communicate with you via e-mail. We do not share your e-mail address with others outside the SAP group of companies unless this is required for the business relationship between you and SAP or if you register for third party services. You can choose not to receive any more e-mails at any time (in accordance with Subsection 9. (Choice/Opt-Out) below). However, such choice will not affect the sending of emails that are strictly required to perform the business relationship between you and SAP.
+Within any web offering, beyond the mere provision of access your profile is used to personalize interaction with other users (for example, by way of messaging or follow functionality) and by SAP to foster the quality of communication and collaboration through such offerings and for SAP to provide gamification elements (gamification is the process of taking something that already exists, such as a website, an enterprise application, or an online community, and integrating game mechanics into it to motivate participation, engagement, and loyalty). To the greatest extent supported by the relevant web offering, you can use the functionality of the relevant web offering to determine which information you want to share.
 
-Depending on how your e-mail application is set up, information about you may be transmitted automatically when you send e-mail to SAP.
+**Special categories of Personal Data**. In connection with the registration for and provision of access to an event or seminar, SAP may ask for information about your health for the purpose of identifying and being considerate of individuals who have disabilities or special dietary requirements throughout the event. Any such use of information is based on the consent you grant hereunder.
 
-If you choose to register for third-party services, we may need to send some information from your registration with SAP to the service provider, possibly including your e-mail address.
+Kindly note that if you do not provide any such information about disabilities or special dietary requirements, SAP will not be able to take any respective precautions.
 
-**_»  Back to Top_**
+**Event profiling.** If you register for an event, seminar, or webinar of SAP, SAP may share basic participant information (your name, company, and email address) with other participants of the same event, seminar, or webinar for the purpose of communication and the exchange of ideas.
 
-* * *
+**Forwarding your Personal Data to other SAP companies.** SAP may transfer your Personal Data to other entities in the SAP Group. The current list of SAP Group entities can be found [here](https://www.sap.com/legal-entities). In such cases, these entities will then use the Personal Data for the same purposes and under the same conditions as outlined in this Section C. above.
 
-3\. Shopping or Event Registration
+**Revocation of a consent granted hereunder.** You may at any time withdraw a consent granted hereunder by unsubscribing at <https://www.sap.com/unsubscribe>. In case of withdrawal, SAP will not process Personal Data subject to this consent any longer unless legally required to do so. In case SAP is required to retain your Personal Data for legal reasons your Personal Data will be restricted from further processing and only retained for the term required by law. However, any withdrawal has no effect on past processing of personal data by SAP up to the point in time of your withdrawal. Furthermore, if your use of an SAP offering requires your prior consent, SAP will not be (any longer) able to provide the relevant service (or services, if you revoke the consent for SAP to use your profile under the SAP Cloud Platform Identity Authentication Service for multiple SAP offerings), offer or event to you after your revocation.
 
-Our site includes order forms that you fill out to request information, products, and services. These forms may in addition to the information described above collect your financial information, such as your banking details or credit card numbers. SAP promises to use any financial information that you submit solely for billing and payment purposes for that special transaction. This may include the transfer of your data to third parties involved in executing the transaction, such as banks, credit card companies and other financial and credit control institutions.
+##  D.  U.S.-Specific Provisions
 
-**_»  Back to Top_**
+Where SAP is subject to U.S. privacy requirements, the following also applies:
 
-* * *
+**Do Not Track.** Your browser may allow you to set a “Do not track” preference. Unless otherwise stated, our sites do not honor “Do not track” requests. However, you may elect not to accept cookies by changing the designated settings on your web browser or, where available, by way of the TrustArc Consent Manager if the relevant website contains a link to it. Cookies are small text files placed on your computer while visiting certain sites on the Internet used to identify your computer. Please note that if you do not accept cookies, you may not be able to use certain functions and features of our site. This site does not allow third parties to gather information about you over time and across sites. 
 
-4\. IP Addresses
+**Requirements to Protect Children's Privacy.** We do not intend for our websites or online services to be used by anyone under the age of 13. If you are a parent or guardian and believe we may have collected information about a child, please contact at [privacy@sap.com](mailto:privacy@sap.com).
 
-We use IP addresses to help diagnose problems, to establish the country from where a user is using our websites and services in order to provide appropriate legal statements, to administer our website, and to gather demographic information as further stated in the below Subsection 5 (Automated Tools).
+##  E. Russia-Specific Provisions
 
-We may also use IP addresses or other information, as further explained in Subsection 5 (Automated Tools) below you have shared on this website or at any earlier occasion or a campaign code, to determine which pages on our sites are being visited and topics that may be of interest so we can provide you with information about relevant products and services.
+The following applies to users who are resident in the Russian Federation:
 
-SAP may also collect IP addresses (and other technical information such as browser type) during a Click-to-Chat or Click-to-Call session that you initiate. This information is collected when you connect to SAP so that we may identify your session, deliver content based on the technical capabilities of your browser, and for quality control purposes. Your IP address will not be used to identify you unless you provide your prior consent.
+The services hereunder are not intended for use by citizens of the Russian Federation who are resident in Russia. If you are a Russian citizen residing in Russia, you are hereby notified that any Personal Data that you input into the services will be solely at your own risk and responsibility, that you expressly agree that SAP may gather your Personal Data and will process this data in the United States and in other countries, and that you will not hold SAP accountable for any potential non-observance of legislation of the Russian Federation.
 
-SAP will only gather information related to your visit to the SAP site. We do not track or collect Personal Data from your visits to companies or entities outside the SAP Group of companies beyond the information stated above in the Subsection III. (Collection and Processing of Your Personal Data).
+Revised and posted as of January 22, 2018  
 
-**_»  Back to Top_**
 
-* * *
-
-5\. Automated Tools
-
-In addition to the information you provide, SAP may also collect information during your visit to a SAP website through Automated Tools, which include Web beacons, cookies, embedded Web links, and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language, access times, and the address of the website from which you arrived at an SAP website. Using these tools, SAP is also able to confirm receipt of e-mails that the recipient consented to receive, and can track other information such as pages visited on the relevant SAP site and whether or not the recipient registers for an event offered by SAP and certain other aggregate data that is not related to a particular individual.
-
-Unless another mean to make your choice is listed below, you may refuse the use of Automated Tools like cookies (i) if the relevant website supports TrustArc Consent Manager by clicking on the respective link in the footer of the website or, (ii) if TrustArc Consent Manager is not available, by selecting the appropriate settings in your browser. Kindly note that in the latter case the settings in your browser regarding cookies are limited to the particular browser installed on a particular device and that, as a consequence, if you visit SAP’s websites with different browsers or different devices, you have to disable the tracking cookies in the browsers of all relevant devices. However kindly further note that if you do this you may not be able to use the full functionality of the relevant site.
-
-SAP is in particular currently using the following Automated Tools for the purposes set out below.
-
-   
-**a. Adobe Analytics**
-
-Some websites which refer to this Privacy Statement use Adobe Analytics. Adobe Analytics is using IP addresses to establish the approximate region where a user is coming from. Therefore, Adobe Analytics is collecting the full IP address of users in a first step and then anonymizes it in a second step. Only the anonymized IP address is used to determine the approximate location from where a user is accessing a certain website.
-
-Furthermore, if you are a registered user and logged on, SAP uses Adobe Analytics to track your user ID together with how you use the relevant website.
-
-In addition to an opt-out by way of the TrustArc Consent Manager (where available) you can opt-out of the use of Adobe Analytics by using this link: [http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1](http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1)
-
-   
-**b. Adobe Target**
-
-Some websites which refer to this Privacy Statement use Adobe Target. Adobe Target assigns a user ID to each user who does not opt-out of the tracking as described below and then creates a user profile based on this user ID by adding information about the user’s (i) browser and other device specific information, (ii) information about usage behavior and (iii) location data. Location data is collected by way of analyzing the user’s anonymized IP address: Adobe Target is collecting the full IP address of users in a first step and then anonymizes it in a second step. Only the anonymized IP address is used to determine the approximate location from where a user is accessing a certain website.
-
-This information is used to display targeted content on the SAP group websites using Adobe Target.
-
-In addition to an opt-out by way of the TrustArc Consent Manager (where available) you can opt-out of the use of Adobe Analytics by using this link: [http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1](http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1)
-
-   
-**c. Google Analytics**
-
-Some websites which refer to this Privacy Statement use Google Analytics. Google Analytics uses cookies, which are text files placed on your computer to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on site activity for site operators and providing other services relating to site activity and internet usage.
-
-Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
-
-In addition to an opt-out by way of TrustArc Consent Manager (where available), Google has developed the Google Analytics Opt-out Browser Add-on. It provides website visitors more choice on how their data is collected by Google Analytics. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about the website visit should not be sent to Google Analytics. It can be downloaded here: <http://tools.google.com/dlpage/gaoptout?hl=en>
-
-   
-**d. SAP Web Analytics**
-
-Some websites which refer to this Privacy Statement use SAP Web Analytics ( **“SWA”** ). SWA helps to analyze how users use the relevant site. The information generated (including a part of your IP address and a browser-ID) will be transmitted to and stored by SAP. SAP will use this information only for the purpose of evaluating your use of the website and compiling reports on website activity for website operators – and finally, to improve SAP’s websites.
-
-Each website which uses SWA contains a separate statement regarding such use and provides for an option of the user to opt-out of the tracking by SWA either directly in the relevant statement or by way of the TrustArc Consent Manager which can be reached over a link on the relevant page (where available).
-
-   
-**e. Usage tracking for marketing purposes**
-
-Certain SAP websites may collect the way you are accessing and using such websites by other means in order to prepare pseudonymous usage profiles that are used to determine which content is the most appropriate to be displayed while you visit a certain website.
-
-In this case, SAP is capturing your usage behavior together with a unique identifier (that allows SAP to establish that there is a certain person active on its websites) but no information like your name that can be used to directly identify you. SAP will use the collected information only in order to display appropriate and relevant content on its websites. Each SAP website making use of such tracking mechanism will contain further information about the collected information as well as an opt-out choice.
-
-   
-**f. Embedded Web Links**
-
-Emails from SAP often use links designed to lead you to a relevant area on the Web, after redirection through SAP's servers. The redirection system allows SAP to change the destination URL of these links, if necessary, and to determine the effectiveness of our marketing initiatives.
-
-In emails, such links may also allow SAP to determine if you have clicked on a link in the email, and the information about this interaction may be connected to your personal identity. If you do not want SAP to collect information about the links you clicked, you can simply choose not to click on the links in an e-mail that SAP sends you.
-
-   
-**g. Cookies**
-
-Cookies are identifiers that can be sent from a site via your browser to be placed on your computer's hard drive. SAP uses cookies to deliver personalized content, to save you having to re-enter your password or complete registration forms repeatedly, to keep track of your shopping cart, and to tailor our information offerings to how you and others use the site.
-
-We offer to you the following two ways to make your choice regarding SAP’s use of cookies:
-
-aa. Some websites of SAP use the TrustArc Consent Manager to enable users to make their choices regarding SAP’s use of cookies. Wherever the TrustArc Consent Manager is used, you will find in a footer a link to it. Please click on that link to access the TrustArc Consent Manager and to make your choice regarding SAP’s use of cookies.
-
-bb. In case a SAP website does not use the TrustArc Consent Manager, you may refuse the use of cookies by selecting the appropriate settings in your browser. Kindly note that the settings in your browser regarding cookies is limited to the particular browser installed on a particular device and that, as a consequence, if you visit SAP’s websites with different browsers or different devices, you have to disable the cookies in the browsers of all relevant devices. Furthermore, please note that if you disable cookies you may not be able to use the full functionality of a website.
-
-   
- **h. SAP Hybris Profile**
-
-Some websites which refer to this Privacy Statement use SAP Hybris Profile.
-
-SAP Hybris Profile helps to analyze how users use the relevant site. The information generated (such as your click behavior, details of the operating system and browser you use, your screen resolution, your IP address and an ID) will be transmitted to and stored by SAP. SAP will use this information only for the purpose of analyzing your use of the website and compiling reports on website activities - and, finally, to improve SAP’s websites and enable personalization of website content.
-
-SAP Hybris Profile uses IP addresses to identify the region from which a user accesses the website. Therefore, SAP Hybris Profile collects the full IP address of users in a first step and then anonymizes it.
-
-If you are a registered user and logged on, SAP Hybris Profile uses this information and your user ID to track how you use the relevant website. You can opt out of SAP Hybris Profile by way of the TrustArc Consent Manager (where available), or by using this link: [https://profile.yaas.io/#!/opt-out/thybriscomt/](https://profile.yaas.io/#!/opt-out/thybriscomt)
-
-**_»  Back to Top_**
-
-* * *
-
-6\. Sharing Your Personal Data
-
-As a member of a global group of companies, SAP operates a number of websites around the world. Any data and information that you volunteer or that is otherwise collected on one of our sites in any one country may be sent electronically to a server for one of these sites in another country. Such servers or other types of data processing facilities may be located within or outside the European Economic Area or third countries that are regarded by the EU Commission as featuring an adequate level of data protection. However, we safeguard your privacy interests around the world by ensuring that this SAP website adheres to our data protection principles described in this statement. All companies of the SAP group (including, for the avoidance of doubt, all SAP companies as well as all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy companies) may use the information internationally in connection with processing your inquiries and orders, in order to provide services to you, to help improve our products and services to keep you up to date about the latest IT product announcements, software updates, software upgrades, security patches, system enhancements, special offers, for processing and storage and for all other purposes set out in the section “Use and Purpose of Collected Personal Data” above. This includes that all companies of the SAP group may provide you with marketing materials if (depending on the country in which the relevant SAP group company operates) you have granted your prior consent and/or unless you have opted out of receiving marketing materials.
-
-We may also share such information with business partners, service vendors, authorized third-party agents or contractors (such as Google, Inc. or Adobe Systems Inc.) in order to provide a requested service or transaction, including processing orders, processing credit card transactions, hosting websites, hosting event and seminar registration and providing customer support, providing you with information on products and services that may be of interest to you or in order to analyze the user behavior on our webpages (e.g. in case of Adobe Analytics or Google Analytics).
-
-We only provide these third parties with the minimum amount of Personal Data necessary to provide the services on our behalf, and the third parties are (where legally required) bound by appropriate order data processing agreements and/or comprehensive confidentiality undertakings and therefore not permitted to use your Personal Data except for the limited purpose of completing the requested service or transaction.
-
-We do not sell or rent your Personal Data to third parties for marketing purposes unless you have granted us permission to do so.
-
-We may respond to subpoenas, court orders, or legal process by disclosing your Personal Data and other related information, if necessary. We also may choose to establish or exercise our legal rights or defend against legal claims.
-
-Circumstances may arise where, whether for strategic or other business reasons, SAP decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve, in accordance with applicable law, the disclosure of Personal Data to prospective or actual purchasers, or the receipt of it from sellers. It is SAP's practice to seek appropriate protection for information in these types of transactions.
-
-We may collect and share Personal Data and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of SAP's terms of use, or as otherwise required by law.
-
-While visiting SAP's website you may be directed to content or functionality that is hosted by a third-party supplier. Most often, this is done to host special events, such as contests or seminars. When information is collected on behalf of SAP exclusively, the appropriate SAP entity's privacy statement will be referenced on the website and will govern how information is used. For other, non-SAP sites, the site's owner's privacy policy will be referenced. It is SAP's practice to require such suppliers and business partners to handle information in a manner consistent with SAP's privacy statement.
-
-**_»  Back to Top_**
-
-* * *
-
-7\. Security of Your Personal Data
-
-SAP is committed to protecting the Personal Data you share with us. SAP uses a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Data from unauthorized access, use or disclosure. SAP supports online security using secure server technology because we want your data to be safe. There are state-of-the-art security arrangements and facilities on SAP sites to prevent abuse.
-
-We bind our employees and data processors to observe your privacy and confidentiality rights.
-
-**_»  Back to Top_**
-
-* * *
-
-8\. Links to Other Sites
-
-This website may contain links to foreign (i.e. non SAP group of companies) sites. SAP is not responsible for the privacy practices or the content of other websites outside the SAP Group of companies. Therefore, we recommend that you carefully read the privacy statements of such foreign sites.
-
-**_»  Back to Top_**
-
-* * *
-
-9\. Choice/Opt-Out
-
-We communicate with users who subscribe to our services on a regular basis via email, and we may also communicate by phone to resolve customer complaints or investigate suspicious transactions. We may use your email address to confirm your opening of an account, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt out of these communications which are not marketing related but merely required for the relevant business relationship. With regard to marketing related types of communication (i.e. emails and phone calls), SAP will (i) where legally required only provide you with such information after you have granted your opt-in and (ii) provide you the opportunity to exercise an opt-out choice if you do not want to receive further marketing related types of communication from us. The opt-out choice may be exercised, depending on the respective SAP group web offering: a. SAP SE, local SAP affiliates, Hybris and Ariba: <http://www.sap.com/profile/unsubscribe.epx> b. SuccessFactors: if you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, you may simply follow the opt-out procedure specified in such e-mail. In addition, if you have registered on our site, you may opt out of receiving any future marketing or similar messages by emailing your request to unsubscribe here: [webmaster@sap.com](mailto:webmaster@sap.com). Users of SuccessFactors Recruiting Marketing (RMK) may elect not to receive future communications. If you are a registered User, please open the email you received from RMK and click on the unsubscribe link. If you prefer to have your account removed permanently, please email your request to [webmaster@sap.com](mailto:webmaster@sap.com).
-
-**_»  Back to Top_**
-
-* * *
-
-10\. Data Retention
-
-SAP will not retain your Personal Data longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations. In particular and if no such contradicting statutory obligation exists, SAP will delete your Personal Data once you inform SAP that you do not want SAP to further process your Personal Data. Please direct any such request to [webmaster@sap.com](mailto:webmaster@sap.com). Kindly note that in this case the use of certain services or offerings may either be limited or not possible any longer. In case there is a contradicting statutory obligation for SAP to retain your Personal Data, SAP will block it against further processing and then delete the relevant Personal Data when the requirement to retain it has ceased.
-
-**_»  Back to Top_**
-
-* * *
-
-11\. Inquiries, Access and Updating Your Personal Data
-
-SAP needs your help in keeping the Personal Data you have shared with us accurate and up to date. If you are a registered user, you may make these updates yourself online via [www.sap.com/profile](http://www.sap.com/profile). You may also make these updates or other changes by sending an email to [webmaster@sap.com](mailto:webmaster@sap.com).
-
-If you have any other questions about this Privacy Statement or if you wish to inspect the Personal Data we hold about you, please contact: Webmaster: [webmaster@sap.com](mailto:webmaster@sap.com)
-
-**_»  Back to Top_**
-
-* * *
-
-12\. US-Specific Provisions
-
-To the extent that SAP is subject to US privacy requirements, the below applies in addition:
-
-   
-**a. Do Not Track**
-
-Cookies are identifiers that can be sent from a site via your browser to be placed on your computer's hard drive. Thereafter when you visit a site, a message is sent back to the web server by the browser accessing the site. Your browser may allow you to set a “Do not track” preference. Our site does not honor “Do not track” requests, but you may elect not to accept cookies by changing the designated settings on your web browser or, where available by way of the TrustArc Consent Manager if the relevant website contains a link to it. However, not utilizing cookies may prevent you from using certain functions and features of our site. This site does not allow third parties to gather information about you over time and across sites.
-
-   
-**b. Requirements to Protect Children's Privacy**
-
-We do not intend for our websites or online services to be used by anyone under the age of 13. If you are a parent or guardian and believe we may have collected information about a child, please contact us as described in this Privacy Statement.
-
-**_»  Back to Top_**
-
-* * *
-
-13\. Russia-Specific Provisions
-
-The below applies to users residing in the Russian Federation:
-
-The services hereunder are not intended for use by the citizens of the Russian Federation, who reside in Russia. If you are a Russian citizen residing in Russia, you are hereby notified, that any Personal Data that you input into the services will be solely at your own risk and responsibility, you explicitly agree that SAP may accumulate your Personal Data and will process this data in the US and in other countries and that you will not hold SAP accountable for any potential non-observance of the Russian Federation legislation.
-
-**_»  Back to Top_**
-
-_Revised and posted as of June 2016_
+**Back to top**
