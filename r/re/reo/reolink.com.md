@@ -1,40 +1,54 @@
-> *The following text is extracted and transformed from the reolink.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028035610id_/https%3A//reolink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reolink.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625011334id_/https%3A//reolink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Reolink
 
-Last updated on June 19, 2018.
+Last updated on June 6, 2019.
 
 Your privacy is important to Reolink. We've developed this Privacy Policy that covers what information we collect, how we collect it, how we use it and what choices you have about it.
 
 Some of the concepts might seem a little technical, and we've tried our best to explain them in a simple and clear way. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://web.archive.org/contact-us/) if you have any questions.
 
-This Privacy Policy governs your use of Reolink official website [https://reolink.com/](https://web.archive.org/), including Reolink subdomain sites around the world (collectively, "Site"), and it also applies to the security products we sell, the official software we offer (Reolink App and Client specifically), as well as all other services Reolink provides, including, but not limited to Reolink Cloud (collectively, "products and service").
+This Privacy Policy governs your use of Reolink official website [https://reolink.com/](https://web.archive.org/), including Reolink subdomain sites around the world (collectively, "Site"), and it also applies to the security products we sell, the official software we offer (Reolink App and Client specifically), as well as all other services Reolink provides, including, but not limited to Reolink Cloud and technical support (collectively, "Products and Services").
 
 BY USING REOLINK SECURITY PRODUCTS AND SERVICES, YOU CONSENT TO THE DATA PRACTICES PRESCRIBED IN THIS STATEMENT.
 
-* ## How We Collect and Use Your Personal Information
+* ## What Information We Collect
 
-### 1\. Your personal information includes:
+We collect the following information when you visit our Site or using our Products and Services:
 
-1). **Contact information.** When you register a Reolink account, Reolink Cloud account, log in the forum, contact us via email, register Reolink products you bought, download and use a software update, or leave your contact information to us, we might collect that information, including your name, email address, phone number, profile photo you upload, comments, and any other contact information you give us.
+### 1\. Personal Information
 
-2). **Payment information.** When you use the shopping cart or purchase a product from Reolink official website, we might collect your credit card number, your mailing address, or any other payment information you fill in.
+1). **Contact information.** When you register a Reolink account, contact us via email, or register Reolink products you bought, we might collect that information such as your name, email address and phone number.
+
+2). **Payment information.** We might collect information necessary to complete your purchase such as credit card number and mailing address, and any other information you choose to provide to us when making a purchase.
 
 3). **Information you share or post on our website.** We might collect information that you post in a public space on our website, such as the Community (we also call it Forum).
 
-4). **Device information.** When you activate Reolink Cloud account and add your device(s) to Cloud, we'll access your device information you need to offer when enabling Cloud storage. We've covered all the details in the Reolink Cloud part.
+4). **Social media information.** If you access our websites using your Facebook/Google account login, we may receive personal information about you such as your name, email address, and gender. Any personal information that we collect from your Facebook/Google account may depend on your Facebook/Google account's privacy settings.
 
-5). **Other information.** When you use Reolink mobile app or desktop client, we will get several permissions and collect personal information or non-personal information. We've covered all the details in the Reolink Mobile App part. When you ask for support help, you might need to offer information about the Reolink product you bought, how you use and your permission to allow our tech support team to gather your product usage information and statistics to analyze and troubleshoot the issues.
+5). **Third party personal information.** If you choose to provide us with a third party's personal information (such as name, email, and phone number), you must ensure that you have the third party's permission to do so. Examples include providing us with the names and images that you associate with account users or forwarding reference or marketing material to a friend.
 
-### 2\. We collect information in different ways:
+### 2\. Device Information
 
-1). We collect information directly from you. For example, when you sign up for Reolink, Reolink Cloud, email to us, share or post on our website, register a product, complete a survey, place an order, ask for support, or give us permission to access your product for troubleshooting, you give us certain information voluntarily, and we might collect that information.
+1). **Device setup information.** We collect information related to the setup and usage of Reolink products, such as device name, model, UID, and adjustments you make to the product setup.
 
-2). We collect information from your interactions with our products and services. We use automatic data collection tools like cookies, web beacons, and other tracking technologies to collect information about your browsing behavior when you visit our Site. Learn more about our cookie policy.
+2). **Technical information about the device** such as firmware and software version, WiFi signal strength and environmental data from Reolink’s sensors like ambient light in the room.
 
-3). We collect information from other sources: a. Facebook and Google. If you access our Services using your Facebook/Google account login, we may receive Personal Information about you such as your name, email address, and gender. Any Personal Information that we collect from your Facebook/Google account may depend on your Facebook/Google account's privacy settings; b. Third party Personal Information. If you choose to provide us with a third party's Personal Information (such as name, email, and phone number), you must ensure that you have the third party's permission to do so. Examples include providing us with the names and images that you associate with account users, or forwarding reference or marketing material to a friend. 
+3). **Video and audio.** Reolink Products enables you to determine the purpose and the means for which you collect video and audio signals data. When you enable the recording or streaming features of your camera, we may record and process video and/or audio recordings from the device, subject to your instruction, configuration and settings. This may include capturing and emailing to you portions of this data as part of a notification or analyzing the data to identify motion or other events. If you subscribe to Reolink Cloud, we will capture, process and retain video and audio data from your device for the duration of your recording subscription period (for example, 7, 30 or 60 days) and you will be able to access those recordings using the Services during that time.
 
-### 3\. How we use your personal information:
+4). **Information about your mobile device,** such as mobile device ID, device model and operating system, to enable Reolink App/Client to function properly.
+
+5). **Information from interaction with Third Parties.** If Reolink offers any product or account connections or integrations with third-party products, applications, functionality, or services (collectively, "Third-Party Products and Services"), and you choose to enable or connect to such Third-Party Products and Services through the means authorized and directed by Reolink and/or such third-party partners, you acknowledge and agree that we may share certain information about your Reolink Product with such third parties for account authentication and management, and to enable the activation, connection and integration with and to such Third-Party Products and Services on such third parties’ platforms. For example, some of our Products use third-party voice assistance services like Google Assistant, which collects information including your Product name to display it on Google-enabled devices.
+
+In some cases, Reolink or the Third-Party partner will instead (or also) ask for permission to control the Reolink products and services and/or third-party products and Services that you have activated and connected to. Your consent is required to allow any of these exchanges or requests for control and you will be able to revoke or disable it at any time.
+
+We may also receive information such as connected monitor model from Google and other third-party partners and combine that with the information in your Reolink account to determine eligibility and efficacy of our programs.
+
+Any Reolink data that you choose to share with a third party, either directly or by or on behalf of Reolink through the authorizations, integrations and connections, is governed by that third party’s privacy policy while in that party’s possession.
+
+Any data that Reolink receives from third parties will be processed and stored by Reolink and will be treated in accordance with this Privacy Policy. This information may be processed in the same ways as any other data.
+
+* ## How We Use Your Information
 
 We will not sell, share, or rent your personal information to any third party or use your e-mail address for unsolicited mail.
 
@@ -50,39 +64,9 @@ We will not sell, share, or rent your personal information to any third party or
 
 6). We use information to talk to parents or guardians to get permission. We may use contact information to get permission from parents for children who want to use our site.
 
-7). We use information as otherwise permitted by law.
+7). We use information to complete the delivery process. We render your name, address, phone number and other information necessary to the shipment companies that deliver products to you.
 
-### 4\. How Reolink Mobile App collects and uses personal information
-
-Reolink mobile app collects and stores personal information or non-personal information that users provided while using Reolink mobile application.
-
-To enable certain features, Reolink mobile app will get user's mobile devices' several permissions, including:
-
-• Access to camera
-
-• Access to microphone
-
-• Access to storage
-
-• Access to Google account information
-
-• Access to save and protect device login information
-
-• Access to email login information
-
-• Access to WiFi router or hotspot information
-
-• Access to network status
-
-The personal and non-personal information we collect will be used to allow users to access Reolink mobile app, verify the user, configure Reolink security cameras, get access to Reolink security cameras functions and features, and guarantee and secure user information while using Reolink mobile app. These are the same with Reolink Client.
-
-We will retain User Provided data for as long as you use the application. Please note that some or all of the User Provided Data may be required in order for the application to function properly. We will not sell, share, or rent the collected information to any third party or use it for any illegal activities.
-
-### 5\. How Reolink Cloud collects and uses information
-
-Reolink Cloud collects the information you provide, including your account information (your profile, email address, username, etc.), device information (device name, model, type, etc.) and information about video footage you uploaded to Reolink Cloud (video length, video title, and video format, etc.).
-
-Reolink Cloud will access these information when you agree to enable Cloud storage service, subscribe a plan, and bind your device . Videos are securely uploaded to Reolink Cloud, by using HTTPS Secure Transfer Protocol. We take your account security very seriously. We will not sell, share, or rent the collected information to any third party or use it for any illegal activities.
+8). We use information as otherwise permitted by law.
 
 * ## Your Choices and Rights About Your Information
 
@@ -112,7 +96,7 @@ You have options in relation to the information that we have about you described
 
 * ## How We Use Cookies and Other Technologies
 
-We analyze log file information and other data collected through cookies, web beacons, and other tracking technology, to collect information about your browsing behavior when you visit our Site, including for example, your IP address, time and date of access, language use, the type of browser used and the page(s) you request. These technologies help us better understand user behavior, tell us which parts of our service people have used, and facilitate and measure the effectiveness of advertisements.
+We analyze log file information and other data collected through cookies, web beacons, and other tracking technology, to collect related data when you visit our Site or use our Products and Services, including information about your browser and what sites you visit. We might also look at how and how often you use one of our applications and certain features. These technologies help us better understand user behavior, tell us which parts of our service people have used, and facilitate and measure the effectiveness of advertisements.
 
 In some of our email messages, we use a "click-through URL" linked to content on the Site. We track this click-through data to help us measure the effectiveness of our customer communications.
 
@@ -120,7 +104,7 @@ In some of our email messages, we use a "click-through URL" linked to content on
 
 We use third-party analytics tool -- Google Analytics to assist us with analyzing and improving our service. Google provides some additional privacy options to protect business's data. [Click here](https://privacy.google.com/businesses/) to learn more. We've read and accept updated terms and contractual protections Google made to analytics tool we've used.
 
-To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by [clicking here](http://tools.google.com/dlpage/gaoptout).
+To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by [clicking here](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=en).
 
 * ## Data Security
 
@@ -141,6 +125,22 @@ The privacy protections and the rights of authorities to access your information
 * ## Data Retention
 
 Reolink makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+* ## Reolink Cloud
+
+### 1\. Data collection and data access
+
+Reolink Cloud collects the information you provide, including your account information (your profile, email address, username, etc.), device information (device name, model, type, etc.) and information about video footage you uploaded to Reolink Cloud (video length, video title, and video format, etc.).
+
+Reolink Cloud will access this information when you agree to enable Cloud storage service, subscribe to a plan, and bind your device. We take your account security very seriously. We will not sell, share, or rent the collected information to any third party or use it for any illegal activities.
+
+### 2\. Data in transit
+
+To protect data in transit between Reolink Cloud on Reolink official website or Reolink Mobile App and our servers, Reolink uses HTTP/1.1 over TLSv1.2, the strongest data communication protocol by now, recommended by the Payment Card Industry Security Standards Council. For maximum data protection, your data are encrypted by 2048-bit RSA and 128-bit AES-GCM algorithms, ensuring the confidentiality, integrity and authenticity of your data during transmission.
+
+### 3\. Data storage
+
+Data storage is powered by Amazon Simple Storage Service (Amazon S3). Videos uploaded to Reolink Cloud are stored in highly secure AWS data centers with the disaster recovery backups. These videos are protected by our Access Key and cannot be accessed by anyone without your permission.
 
 * ## California Do Not Track Notice
 
