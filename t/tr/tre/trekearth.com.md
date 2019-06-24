@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trekearth.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225084524id_/https%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dtrekearth.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trekearth.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624114414id_/https%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dtrekearth.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policy Highlights
 
-MH Sub I, LLC dba Internet Brands and its affiliates operate websites, provide products and services through mobile and other applications, and develop software. We govern these with a single Privacy Policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20181225084526id_/https://www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names.
+MH Sub I, LLC dba Internet Brands and its affiliates operate websites, provide products and services through mobile and other applications, and develop software. We govern these with a single Privacy Policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20190627155245id_/https://www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names.
 
   * ### Personal Information
 
@@ -27,7 +27,7 @@ We do not sell, rent or provide your personal information to third parties that 
 
   * ### How to Contact Us
 
-    * Use our Privacy [Contact form](https://web.archive.org/web/20181225084526id_/https://www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
+    * Use our Privacy [Contact form](https://web.archive.org/web/20190627155245id_/https://www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
   
 
     * Privacy Office
