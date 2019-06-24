@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaljournal.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230124201id_/https%3A//www.nationaljournal.com/privacy-policy%3Fmref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaljournal.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624191305id_/http%3A//www.nationaljournal.com./privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
