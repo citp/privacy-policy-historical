@@ -1,38 +1,79 @@
-> *The following text is extracted and transformed from the vermontsystems.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006110141id_/http%3A//www.vermontsystems.com/web.wsc/index.htm%3Fsi%3D936e5445-3d03-45af-e511-846b1f3b362d%26id%3D65%26tv%3D47514%26param%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vermontsystems.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624195547id_/https%3A//www.vermontsystems.com/privacy%2520policy) for the most accurate reproduction.*
 
-# Vermont Systems Inc. - Privacy Policy
+# Privacy Policy - Vermont Systems
 
-### VERMONT SYSTEMS, INC. PRIVACY POLICY
+**PRIVACY POLICY**  
 
-VSI is committed to providing high-quality application software and responsive customer support for recreation and parks departments and districts. VSI Support has built an excellent reputation for taking a very personal interest in each of our customers. To ensure maintenance of strong relationships with each of our customers, VSI has taken steps to protect their privacy.  We ask that you please read our complete privacy policy in order to fully understand the measures we take to protect your interests and privacy.  If you have any questions or concerns about these policies, please feel free to contact us and one of our representatives will be more than happy to provide a more in-depth explanation to you.
+Vermont Systems, Inc. (“VSI”) takes your privacy seriously. This Privacy Policy is to inform you about the types of information we may collect about you when you visit our website and how we may use and disclose that information. If you have any questions or concerns, please contact us via our “Contact Us” page. 
 
-#### Collection of Confidential Information
+ **PERSONAL INFORMATION WE  ** **COLLECT :**  
 
-When registering for or purchasing any of our services or products, we require information that identifies you or the company/entity with whom you are affiliated.  Information of this nature includes, but is not limited to the following:
+Personal information may include your name and contact information, like your mailing address, phone number, email address, as well as information about where you work. Personal information also includes any written text or communications, notes, or inquiries that you provide either on or through our website or by e-mail communication directly or indirectly with VSI. In this regard, personal information may also include information you provide about yourself, including your resume that may include your background, your interests, and your work history. 
 
-  * The name of the customer purchasing the services or products
-  * The address, phone number, and e-mail address of said customer
-  * Credit card and/or billing information of said customer
+You are responsible to notify us of any changes to your personal information. You may do this via our “Contact Us” page or via email to [support@vermontsystems.com](mailto:support@vermontsystems.com). ** **  
 
+As a  _VSI customer_  utilizing our Hosted Services,  _you_  may choose to collect certain information that identifies an individual, family, company, or entity.  Information of this nature could include but is not limited to the following: 
 
-
-This information is used strictly for billing and customer service purposes.This information is maintained in a database that may only be accessed by VSI employees. VSI will also request that you register your products with us electronically so that we may better serve your needs should any issues arise with the products you have purchased.  Registration may include providing us with the following information:
-
-  * The IP address for the computers that will be utilizing our products
-  * The type of web browser that will be used to support our products
-  * The operating system utilized by the customer
-  * Any domain names and web site addresses that will be used with our product
+  * The name of the customer purchasing the services or products 
+  * The address, phone number, and e-mail address of said customer 
+  * The birthdate, gender, and individual needs of said customer 
 
 
 
-This information is used strictly for the purpose of providing customer service and product support relative to the products that have been purchased from us.  This information is also used by VSI to analyze the types of companies and individuals that are using our products.  The information we collect is maintained in a database that may only be accessed by VSI employees.
+The information collected is strictly for  _your_  use.  This information is maintained in a database that is only accessed by  _your_  staff and by VSI Hosted Services Technicians when necessary in support of the application. 
 
-#### Control and Sharing of Collected Information
+As a  _consumer_  of the services VSI provides to its customer,  _you  _may be required to supply certain information that identifies  _you_  as an individual, family, company, or entity.  Information of this nature could include but is not limited to the following: 
 
-VSI will not share any collected information with third parties without the express written consent of its customer, unless VSI is required by law to do so or in the event sharing of said information is reasonably believed to be necessary to protect the intellectual property interests of VSI relative to its products and/or the personal safety of its employees. 
+  * The name of the customer purchasing the services or products 
+  * The address, phone number, and e-mail address of said customer 
+  * The birthdate, gender, and individual needs of said customer 
 
-The information collected by VSI is stored and maintained in our database that may only be accessed by VSI employees. All sensitive information collected by VSI is protected through the use of encryption programs. By purchasing your products and registering them with us, you are consenting to the collection, use, and retention of that data by VSI. All information that is collected, used and retained by VSI is done in strict conformance with all applicable laws and regulations of the United States of America and/or any and all relevant international treaties and agreements governing the use of data collection.
 
-#### Changes to this Statement
 
-VSI reserves the right to update or amend this privacy statement without prior notice to or consent from our customers.   Notification of any changes or updates to this privacy policy shall be reflected by revising the “Last Updated” date at the top of this Privacy Policy.   Notifications of any changes that materially alter this Privacy Policy shall be conspicuously placed on our website and/or mailed to our customers.
+The information collected through these services, is done so at the behest of the  _VSI customer  _who has configured the services for their use.  Data collected by the  _VSI customer_  from the  _consumer  _using VSI Hosted Services will be subject to the privacy and data policies of the  _VSI customer._  
+
+ **HOW WE USE YOUR PERSONAL  ** **INFORMATION :**  
+
+VSI may use (or “process”) personal information to respond to inquiries about our products or company. For career opportunities, VSI will use the information to evaluate job candidates for placement and to respond to inquiries. You consent to these processes by providing your personal information, for example, in response to our career openings. You may “opt out” from the application processes or from receiving certain communications and correspondence from VSI at any time by contacting VSI at [support@vermontsystems.com](mailto:support@vermontsystems.com). 
+
+Data collected through VSI Hosted Services will not be incorporated by VSI into any third-party advertisements or marketing schemes. This data is stored in a database that may only be accessed by VSI customer staff and by VSI Hosted Services Technicians in support of the application.  
+
+By using the VSI hosted services option, you are consenting to the collection policies and retention of that data by VSI. All information that is collected and retained by VSI is done in strict conformance with all applicable laws and regulations of the United States of America and/or any and all relevant international treaties and agreements governing the use of data collection. 
+
+ **PERSONAL INFORMATION  ** **RETENTION :**  
+
+VSI may retain your personal information for as long as necessary to fulfill your request or inquiry, complete the career application process, or to fulfill any obligations under applicable laws. 
+
+ **RIGHTS OF DATA OWNERS:**  
+
+Where applicable law requires (and subject to any exceptions), you may have the right to request VSI to provide you with your personal information or to delete your personal information that is held by VSI. You may also have the right to restrict or object to use or processing of your personal information, as well. 
+
+ **NON-PERSONAL  ** **INFORMATION :**  
+
+VSI may obtain non-personal information from your use of our website. Non-personal information may include information about the browser that you use to access the site, the operating system that you are running, what items you clicked on the applicable web page, how long you viewed a certain page, and information about the website you accessed immediately before you accessed our website. VSI may aggregate your non-personal information with the non-personal information of other users of VSI’s website or of other non-personal information collected offline. VSI also may collect anonymous aggregated information, like general traffic patterns within our website, to help maintain the flow and content of the website. Any and all of this non-personal information may be used to support VSI’s commercial, marketing, and customer service activities, or for any other reason. 
+
+ **COOKIES :**  
+
+A “cookie” is a small file that is saved on your computer that facilitates the collection of information from the browser. 
+
+VSI may collect information from time to time through the use of “cookies” and other methods. As a result, VSI may be able to (a) recognize you when you access the website so that you do not have to re-enter your personal or other information each time you visit the website, (b) customize and personalize the content VSI makes available to you, (c) maintain the “state” of your current visit (e.g., to maintain a list of your most recent searches or the items in your “shopping basket”), and (d) alert you to new features. 
+
+ **LINKS TO OTHER  ** **WEBSITES :**  
+
+Our website may contain third-party links that provide access to other websites, not maintained by VSI or its affiliates. If you click on these third-party links, you will be directed from our website to another external website, which VSI has no control over and assumes no responsibility for the content, privacy policies, practices, or services. Your use of any external website is not governed by this privacy policy. 
+
+ **DISCLOSURE AND ACCESS TO PERSONAL  ** **INFORMATION :**  
+
+VSI considers your use of our website to be private. However, VSI may access or disclose information about you and/or the content of your communications, in order to: (1) comply with the law or legal process served on VSI; (2) enforce and investigate potential violations of our Terms of Use, including use of this site to participate in, or facilitate, activities that violate the law; or (3) protect the rights, property, or safety of VSI employees, customers, or the public. From time to time, VSI may also disclose information to selected business partners, or other third parties offering products or services in which you may be interested, provided that such third parties agree to comply with the provisions of this Privacy Policy with respect to the use of your personal information. You consent to the access and disclosures outlined in this section. 
+
+ **CHILDREN’S  ** **PRIVACY :**  
+
+VSI does not knowingly solicit, collect, or retain information from any individuals who are under fourteen (14) years of age. If we learn that we have obtained personal information of a child under 14, we will take steps to delete the information as soon as possible. 
+
+ **INFORMATION  ** **SECURITY :**  
+
+To prevent unauthorized access to your personal information, maintain data accuracy, and ensure the correct use of such information, VSI has put in place physical, electronic, and managerial procedures as well as encryption and transaction security software to attempt to safeguard and secure the information VSI obtains from this website. However, no safeguards or security procedures or software is completely effective, and we do not guarantee the absolute security of any information provided to VSI through use of our website. 
+
+ **POLICY  ** **REVISIONS :**  
+
+VSI reserves the right to revise this Privacy Policy from time to time in our discretion. If VSI makes modifications, VSI will post the revised Privacy Policy on the website, which will take effect immediately upon posting. It is your responsibility to periodically review this Privacy Policy.
