@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woopra.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627013855id_/https%3A//www.woopra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woopra.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184544id_/https%3A//www.woopra.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Woopra
 
@@ -147,6 +147,6 @@ San Francisco, CA 94104
 
 This Policy is current as of the last updated date set forth below. We will continue to evaluate this Policy as we update and expand the Services and our offerings, and we may make changes to the Policy accordingly. We encourage you to periodically review this page for the latest information on our privacy practices. If we make any material changes, we will notify you as required by law.
 
-Last updated on May 25rd, 2018.
+Last updated on May 25th, 2018.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=3096fb69-39a7-4dd3-921a-3e7b1767600c)
