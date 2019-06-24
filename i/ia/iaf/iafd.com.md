@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iafd.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218110658id_/http%3A//www.iafd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iafd.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624232631id_/http%3A//iafd.com/privacy.asp) for the most accurate reproduction.*
 
 # privacy info - iafd.com - internet adult film database
 
