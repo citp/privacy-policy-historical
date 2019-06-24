@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027125208id_/http%3A//dreammails.net/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624124826id_/http%3A//dreammails.net/pages/privacy.php) for the most accurate reproduction.*
 
 # DreamMails
 
   
-**::** [**HOME**](https://web.archive.org/pages/index.php) **::** [**JOIN US**](https://web.archive.org/pages/confirm.php) **::** [**MEMBERS **](https://web.archive.org/pages/enter.php) **::** [**TERMS**](https://web.archive.org/pages/terms.php) **::** [**HELP**](https://web.archive.org/pages/help.php) **::** [**PRIVACY**](https://web.archive.org/pages/privacy.php) **::** [**ADVERTISE**](https://web.archive.org/pages/advertise2.php) **::** [**UPGRADE**](https://web.archive.org/pages/gold.php) **::** [**BEEN PAID**](https://web.archive.org/pages/beenpaid.php) **::** [**FORUM**](http://my-ptr.info/mybb/forumdisplay.php?fid=4) **::** [**SUPPORT**](http://my-ptr.info/support/dreammails/)
+**::** [**HOME**](https://web.archive.org/pages/index.php) **::** [**ENROLL NOW**](https://web.archive.org/pages/confirm.php) **::** [**MEMBERS **](https://web.archive.org/pages/enter.php) **::** [**TERMS**](https://web.archive.org/pages/terms.php) **::** [**HELP**](https://web.archive.org/pages/help.php) **::** [**PRIVACY**](https://web.archive.org/pages/privacy.php) **::** [**ADVERTISE**](https://web.archive.org/pages/advertise2.php) **::** [**UPGRADE**](https://web.archive.org/pages/gold.php) **::** [**BEEN PAID**](https://web.archive.org/pages/beenpaid.php) **::** [**FORUM**](http://my-ptr.info/mybb/forumdisplay.php?fid=4) **::** [**SUPPORT**](http://my-ptr.info/support/dreammails/)
 
-[**Multi-Site Purchase/Redemption Contest - December 27, 2017 - March 31, 2018**](http://my-ptr.info/mybb/showthread.php?tid=16)
+[**Multi-Site Purchase/Redemption Contest - November 1, 2018 - January 31, 2019**](http://my-ptr.info/mybb/showthread.php?tid=50)
 
 | 
 
-[](http://dreammails.net/scripts/runner.php?BA=23218&hash=f275e6eaa84f005dd3fd0790e6592857&url=http%3A%2F%2Fscubacash.com%2Fpages%2Findex.php%3Frefid%3Datpromoter)  
+[](http://dreammails.net/scripts/runner.php?BA=8371&hash=9c7c6aa7883aaa46765e63659c109509&url=http%3A%2F%2Fwww.ptcbox.com%2F%3Fp%3Dsignup%26rid%3D3441)  
 
 
 |   
@@ -19,19 +19,19 @@
 ---  
   
   
- **::** **Total Members: 486**
+ **::** **Total Members: 353**
 
-**::** ** Active Members: 463 **
+**::** ** Active Members: 323 **
 
 **
 
-**::** Total Payout: 11,234.48 
+**::** Total Payout: 10,769.84 
 
 **::** Mails In Queue: 0 
 
-**::** Paid To Click Links: 327 
+**::** Paid To Click Links: 344 
 
-**::** Banners In Queue: 282 
+**::** Banners In Queue: 259 
 
 **
 
