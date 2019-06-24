@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216173952id_/https%3A//www.instantcheckmate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624045842id_/https%3A//www.instantcheckmate.com/privacy-policy) for the most accurate reproduction.*
 
 # Instant Checkmate Terms of Use - The internet's #1 source for Background Checks
 
@@ -16,7 +16,7 @@ This Privacy Policy describes the information practices of Instant Checkmate, LL
 
 Personal Information Collected. In order for you to access and purchase products offered via the Site, we may require you to provide information that personally identifies you ("Personal Information"). Personal Information may include the following categories of information: (1) Contact Data (such as your name, mailing address, and e-mail address); (2) Financial Data (such as your account or credit card number); and (3) Demographic Data (such as your zip code and age). If you communicate with us by email, post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or contest entries, any information provided may be collected as Personal Information.
 
-Traffic Data Collected. We may automatically track and collect the following categories of information when you visit our Site including: (1) events data including: (i) Internet Protocol ("IP") address, (ii) access times, (iii) browser type and language, (iv) Internet Service Provider ("ISP"), (v) the pages you visit on our Site, (vi) the Content you view on our Site and (vi) the URL of the page that you referred you to our website; (2) domain servers; and (3) types of devices accessing the Site; and (4) (collectively "Traffic Data").
+Traffic Data Collected. We may automatically track and collect the following categories of information when you visit our Site including: (1) events data including: (i) Internet Protocol ("IP") address, (ii) access times, (iii) browser type and language, (iv) Internet Service Provider ("ISP"), (v) the pages you visit on our Site, (vi) the Content you view on our Site and (vi) the URL of the page that you referred you to our website; (2) domain servers; and (3) types of devices accessing the Site; and (4) (collectively "Traffic Data"). If you are a law enforcement officer seeking information from Instant Checkmate about one of our users, please reference our [Law Enforcement Guidelines](https://web.archive.org/law-enforcement/) for further information.
 
 #### ii. Uses of Information Collected
 
@@ -118,4 +118,4 @@ San Diego, CA 92108
 
 DISCLAIMER: You may not use our service to make decisions about consumer credit, employment, insurance, tenant screening, or any other purpose that would require FCRA compliance. Instant Checkmate does not provide consumer reports and is not a consumer reporting agency. (These terms have special meanings under the Fair Credit Reporting Act, ("FCRA"), which we incorporate here.) The information available may not be 100% accurate, complete, or up to date, so do not use it as a substitute for your own due diligence, especially if you have concerns about a person's criminal history. Instant Checkmate does not make any representation or warranty about the accuracy of our website or about the character or integrity of the person about whom you inquire. Please review Instant Checkmate [Terms of Use](https://web.archive.org/terms-of-use/). 
 
-Copyright © 2018 INSTANT CHECKMATE LLC All Rights Reserved. 
+Copyright © 2019 INSTANT CHECKMATE LLC All Rights Reserved. 
