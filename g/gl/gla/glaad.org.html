@@ -1,57 +1,85 @@
-<!--The following is the downloaded HTML source of the glaad.org privacy policy that was archived on 2016-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121184021id_/http%3A//www.glaad.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the glaad.org privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624202803id_/https%3A//www.glaad.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" dir="ltr"><head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-<link rel="apple-touch-icon" href="http://www.glaad.org/apple-touch-icon.png" type="image/png">
-<link rel="shortcut icon" href="http://www.glaad.org/sites/default/files/glaad_blue_favicon.png" type="image/png">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" lang="en"><head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<link rel="apple-touch-icon" href="https://www.glaad.org/apple-touch-icon.png" type="image/png">
+<link rel="shortcut icon" href="https://www.glaad.org/sites/default/files/glaad_blue_favicon.png" type="image/png">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes">
 <meta name="description" content="Constituent Privacy StatementGLAAD is committed to protecting the privacy of our constituents. We have created this policy to outline our policy for the protection and use of personal information collected through our website, direct marketing, special events, or other interactions with GLAAD.We define personal information as information that can be linked to a specific individual (e.g. name, address, phone number, e-mail address or any other information provided to us by members or website users).">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
-<link rel="canonical" href="http://www.glaad.org/privacy-policy">
-<link rel="shortlink" href="http://www.glaad.org/node/15178">
+<link rel="canonical" href="https://www.glaad.org/privacy-policy">
+<link rel="shortlink" href="https://www.glaad.org/node/15178">
 <meta property="og:site_name" content="GLAAD">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://www.glaad.org/privacy-policy">
+<meta property="og:url" content="https://www.glaad.org/privacy-policy">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:description" content="Constituent Privacy StatementGLAAD is committed to protecting the privacy of our constituents. We have created this policy to outline our policy for the protection and use of personal information collected through our website, direct marketing, special events, or other interactions with GLAAD.We define personal information as information that can be linked to a specific individual (e.g. name, address, phone number, e-mail address or any other information provided to us by members or website users).">
-<meta property="og:updated_time" content="2013-09-19T18:35:36-04:00">
+<meta property="og:updated_time" content="2019-06-14T11:26:40-04:00">
+<meta property="og:image:url" content="https://www.glaad.org/sites/default/files/GLAAD-Social-Share.jpg">
+<meta property="og:image:secure_url" content="https://www.glaad.org/sites/default/files/GLAAD-Social-Share.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@glaad">
+<meta name="twitter:url" content="https://www.glaad.org/privacy-policy">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:description" content="Constituent Privacy StatementGLAAD is committed to protecting the privacy of our constituents. We have created this policy to outline our policy for the protection and use of personal information collected through our website, direct marketing, special events, or other interactions with GLAAD.We define personal information as information that can be linked to a specific individual (e.g. name, address, phone number, e-mail address or any other information provided to us by members or website users).">
+<meta name="twitter:image" content="https://www.glaad.org/sites/default/files/GLAAD-Social-Share.jpg">
+<meta name="twitter:image:width" content="1200">
+<meta name="twitter:image:alt" content="GLAAD">
+<meta name="twitter:image:height" content="630">
 <meta property="article:published_time" content="2011-09-02T10:01:17-04:00">
-<meta property="article:modified_time" content="2013-09-19T18:35:36-04:00">
-  <title>Privacy Policy | GLAAD</title>  
-  <link type="text/css" rel="stylesheet" href="http://www.glaad.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.glaad.org/sites/default/files/css/css_pPXyekCx3kurU-OS0IqU4CuioBBAmr30FFuROfmGIAk.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.glaad.org/sites/default/files/css/css_14JHQjp6sGFhyBFsm29IkbFhhW39CjxXRFf-HZudE7s.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.glaad.org/sites/default/files/css/css_GPMdi75dY3OhSSedsTsB6Jv8ZNU9P-Kh0__ggBdvVoc.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Josefin+Sans:100,100italic,300,300italic,700,700italic,regular|Open+Sans:600,700,regular|Roboto:100,300,500&amp;subset=latin-ext,latin" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.glaad.org/sites/default/files/css/css_uuPxtb2o3nr-yQKtCo7AN5FfgoaLYmQ00QxgXZ4Bcl8.css" media="all">
+<meta property="article:modified_time" content="2019-06-14T11:26:40-04:00">
+  <title>Privacy Policy | GLAAD</title>
+  <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1868283359864619'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" 
+src="https://www.facebook.com/tr?id=1868283359864619&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
 
-<!--[if (lt IE 9)&(!IEMobile)]>
-<link type="text/css" rel="stylesheet" href="http://www.glaad.org/sites/default/files/css/css_CsJ1iLDYLq10XOoXBvKAcBOpVhPui-EdVvhpTnSB5Co.css" media="all" />
-<![endif]-->
-
-<!--[if gte IE 9]><!-->
-<link type="text/css" rel="stylesheet" href="http://www.glaad.org/sites/default/files/css/css_kG0gXWWEJ8xzFiqlhQ05QmSZPGvD4ovCrVwuLPyyFds.css" media="all">
-<!--<![endif]-->
-  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <link type="text/css" rel="stylesheet" href="https://www.glaad.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.glaad.org/sites/default/files/css/css_jHd5mTBUvxqQ4zjQAFcVWOBy55uzByfthQUJXeLgwEE.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.glaad.org/sites/default/files/css/css_jTIHA5lkcvylW7WSdM7f7v0JNYwSRmCNq7EDcBU7zl8.css" media="all">
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.glaad.org/sites/default/files/css/css_JdK_HVXSNTFhr6UVHJVRzKLG9aIKyiPYypSyGOgsMgs.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin+Sans:100,100italic,300,300italic,700,700italic|Open+Sans:600,700,regular&amp;subset=latin-ext" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.glaad.org/sites/default/files/css/css_3QkYorurGvZnNuXnzpyzSWf9EOhr7rTLt1-NYz25YtE.css" media="all">
+  <script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_l7oggN_IVm3DSv6OzkSqmlYFCRbR1K38m-FaByQLzRg.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
 //--><!]]>
-</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.glaad.org/sites/default/files/js/js_iShcj22OEki4-8WkU6UtURLGwoX1xWUWONjVcmtytuo.js"></script>
-<script type="text/javascript" src="http://www.glaad.org/sites/default/files/js/js_UT-mRS4PkUqiFDmt2RTkVfEk9wkfw6n2QK0vQwT7xvE.js"></script>
-<script type="text/javascript" src="http://www.glaad.org/sites/default/files/js/js_ZTPDy9vnIvxAW9vGHzBaKrqjT1HC2pH8HNUzRrJPUF4.js"></script>
-<script type="text/javascript" src="http://www.glaad.org/sites/default/files/js/js_OoIifJQgRs-gaY9rOc2MmLUjzEZGJgm8gMLUcuKqJXQ.js"></script>
+</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_vSTPeI5n3qRsfyWQqdB0k_WGa29dNwY_qLduR_iiSi0.js"></script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_UJXhWuoXRCNTMwJM4N-tP1TXXrxsEebxLbbIQCtMv-s.js"></script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_ZTPDy9vnIvxAW9vGHzBaKrqjT1HC2pH8HNUzRrJPUF4.js"></script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_qz0BhvbLBLFoVH3qFMDqQGRd5FacEfX2DysQdgTLWfA.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.glaad.org/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_vxcwspKZjByg09TK0q91OGAzSinAs2UicvZICZVPq1s.js"></script>
+<script type="text/javascript" src="https://use.typekit.com/vhu5naf.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-3631717-6", {"cookieDomain":".glaad.org"});ga("send", "pageview");
+try{Typekit.load();}catch(e){}
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -59,21 +87,22 @@ window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
 jQuery(document).ready(function () { jQuery(".active").parents(".menuparent").children("a").addClass("active"); });
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.glaad.org/sites/default/files/js/js_2plip6p2GaJHbxtvbQ4TcohsA-TlFBqRQ-NAMsOJlGo.js"></script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js__dIwBcV-xTDvrYm5iYGkwVliNkzQgkEYQoRvPAaBpSA.js"></script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_2plip6p2GaJHbxtvbQ4TcohsA-TlFBqRQ-NAMsOJlGo.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"glaadredesign","theme_token":"CBIM8fw1u20y2T8-FLUgmUUlQzfDYwjiEY4-kRjkzjw","js":{"sites\/all\/libraries\/share42\/share42.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/custom\/advodelay\/advodelay.js":1,"sites\/all\/modules\/fitvids\/fitvids.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"3":1,"sites\/all\/themes\/custom\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/custom\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/fitvids\/fitvids.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus_default.css":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/all\/modules\/contrib\/share42\/css\/share42.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/custom\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/custom\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/custom\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/custom\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/custom\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/custom\/omega\/omega\/css\/omega-forms.css":1,"sites\/default\/files\/fontyourface\/wysiwyg.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"http:\/\/fonts.googleapis.com\/css?family=Josefin+Sans:100,100italic,300,300italic,700,700italic,regular|Open+Sans:600,700,regular|Roboto:100,300,500\u0026subset=latin-ext,latin":1,"sites\/all\/themes\/custom\/glaadredesign\/css\/global.css":1,"sites\/all\/themes\/custom\/glaadredesign\/css\/mainsite.css":1,"ie::normal::sites\/all\/themes\/custom\/glaadredesign\/css\/glaadredesign-alpha-default.css":1,"ie::normal::sites\/all\/themes\/custom\/glaadredesign\/css\/glaadredesign-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/custom\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/all\/themes\/custom\/glaadredesign\/css\/glaadredesign-alpha-default.css":1,"narrow::sites\/all\/themes\/custom\/glaadredesign\/css\/glaadredesign-alpha-default-narrow.css":1,"sites\/all\/themes\/custom\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/all\/themes\/custom\/glaadredesign\/css\/glaadredesign-alpha-default.css":1,"normal::sites\/all\/themes\/custom\/glaadredesign\/css\/glaadredesign-alpha-default-normal.css":1,"sites\/all\/themes\/custom\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"wide::sites\/all\/themes\/custom\/glaadredesign\/css\/glaadredesign-alpha-default.css":1,"wide::sites\/all\/themes\/custom\/glaadredesign\/css\/glaadredesign-alpha-default-wide.css":1,"sites\/all\/themes\/custom\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":0,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":300,"iframe_border":1,"enable_video":0,"useragent":"Mozilla\/5.0 (compatible; special_archiver; Archive-It; +http:\/\/archive-it.org\/files\/site-owners-special.html)"},"nice_menus_options":{"delay":"300","speed":"fast"},"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true},"responsive_menus":[{"toggler_text":" \u2630 ","selectors":["#block-menu-menu-main-menu-responsive .menu","#block-menu-menu-2014-spirit-day .menu","#block-menu-menu-interactive-map-1","#block-nice-menus-2","#block-nice-menus-3","#block-nice-menus-4","#block-nice-menus-5","#block-nice-menus-6","#block-nice-menus-8"],"media_size":"722","absolute":true,"remove_attributes":true,"responsive_menus_style":"responsive_menus_simple"}],"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"glaad\\.org","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1,"trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/privacy-policy":true},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 979px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1219px) and (min-width: 980px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}},"clientsideValidation":{"general":{"months":{"January":1,"Jan":1,"February":2,"Feb":2,"March":3,"Mar":3,"April":4,"Apr":4,"May":5,"June":6,"Jun":6,"July":7,"Jul":7,"August":8,"Aug":8,"September":9,"Sep":9,"October":10,"Oct":10,"November":11,"Nov":11,"December":12,"Dec":12}}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"glaad2017","theme_token":"fxVOjtSUKvETxCEAlCWba1DJ914M3nFhVSsvm-4-iaA","jquery_version":"1.8","js":{"sites\/all\/modules\/views_infinite_scroll\/views-infinite-scroll.js":1,"\/\/s7.addthis.com\/js\/300\/addthis_widget.js#pubid=ra-5a90895ba7233546":1,"public:\/\/google_tag\/google_tag.script.js":1,"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/advodelay\/advodelay.js":1,"sites\/all\/modules\/fitvids\/fitvids.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/libraries\/jstorage\/jstorage.min.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/meanMenu\/jquery.meanmenu.min.js":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/meanMenu\/responsive_menus_mean_menu.js":1,"1":1,"sites\/all\/themes\/glaad2017\/js\/slick.min.js":1,"sites\/all\/themes\/glaad2017\/js\/slick-sponsor.js":1,"sites\/all\/themes\/glaad2017\/js\/slick-twitter.js":1,"https:\/\/use.typekit.com\/vhu5naf.js":1,"2":1,"3":1,"sites\/all\/themes\/glaad2017\/js\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/glaad2017\/js\/tipr.min.js":1,"sites\/all\/themes\/glaad2017\/js\/common.js":1,"sites\/all\/themes\/glaad2017\/js\/jquery.nicescroll.min.js":1,"sites\/all\/themes\/custom\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/custom\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/fitvids\/fitvids.css":1,"sites\/all\/modules\/menu_attach_block\/menu_attach_block.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus_default.css":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/meanMenu\/meanmenu.min.css":1,"sites\/all\/themes\/glaad2017\/css\/grid12.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.6.3\/css\/font-awesome.min.css":1,"sites\/all\/themes\/custom\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/custom\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/custom\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/custom\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/custom\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/custom\/omega\/omega\/css\/omega-forms.css":1,"sites\/default\/files\/fontyourface\/wysiwyg.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"https:\/\/fonts.googleapis.com\/css?family=Josefin+Sans:100,100italic,300,300italic,700,700italic|Open+Sans:600,700,regular\u0026subset=latin-ext":1,"sites\/all\/themes\/glaad2017\/css\/global.css":1,"sites\/all\/themes\/glaad2017\/css\/mainsite.css":1,"sites\/all\/themes\/glaad2017\/css\/stylerevamp.css":1,"sites\/all\/themes\/glaad2017\/css\/slick.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":0,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":300,"iframe_border":1,"enable_video":0,"useragent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit\/601.3.9 (KHTML, like Gecko) Version\/9.0.2 Safari\/601.3.9"},"nice_menus_options":{"delay":"500","speed":"fast"},"urlIsAjaxTrusted":{"\/privacy-policy":true,"\/views\/ajax":true},"views_infinite_scroll":{"img_path":"\/sites\/all\/modules\/views_infinite_scroll\/images\/ajax-loader.gif"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:74195b325277207c91098cce46cd8c2a":{"view_name":"blog","view_display_id":"trending","view_args":"","view_path":"node\/15178","view_base_path":"blog\/rss.xml","view_dom_id":"74195b325277207c91098cce46cd8c2a","pager_element":0}}},"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true},"responsive_menus":[{"selectors":"#block-nice-menus-5, #block-nice-menus-8, #block-nice-menus-9, #block-nice-menus-10","container":"body","trigger_txt":"\u003Ci class=\u0022fa fa-bars\u0022\u003E\u003C\/i\u003E","close_txt":"\u003Ci class=\u0022fa fa-times\u0022\u003E\u003C\/i\u003E","close_size":"18px","position":"right","media_size":"768","show_children":"1","expand_children":"1","expand_txt":"+","contract_txt":"-","remove_attrs":"1","responsive_menus_style":"mean_menu"}],"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"glaad\\.org","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"omega":{"layouts":{"primary":"normal","order":[],"queries":[]}}});
 //--><!]]>
 </script>
-  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <meta name="google-site-verification" content="L741OXtQjDFysUojpweHw8Hp4GNiO9zeGMuIEtcoHF0">
 </head>
-<body class="html not-front not-logged-in page-node page-node- page-node-15178 node-type-page context-privacy-policy" style="">
+<body class="html not-front not-logged-in page-node page-node- page-node-15178 node-type-page context-privacy-policy">
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
   </div>
-    <div class="page clearfix" id="page">
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5VCWKWL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  <div class="page clearfix" id="page">
       <header id="section-header" class="section section-header">
-  <div id="zone-mobilelogo-wrapper" class="zone-wrapper zone-mobilelogo-wrapper clearfix">  
+    
   <div id="zone-mobilelogo" class="zone zone-mobilelogo clearfix container-12">
     <div class="grid-12 region region-mobilelogo-img" id="region-mobilelogo-img">
   <div class="region-inner region-mobilelogo-img-inner">
@@ -81,234 +110,304 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <p><a href="http://www.glaad.org"><img alt="" class="media-element file-media-original" data-file_info="%7B%22fid%22:%2276708%22,%22view_mode%22:%22media_original%22,%22fields%22:%7B%22format%22:%22media_original%22,%22field_file_image_alt_text%5Bund%5D%5B0%5D%5Bvalue%5D%22:%22%22,%22field_file_image_title_text%5Bund%5D%5B0%5D%5Bvalue%5D%22:%22%22%7D,%22type%22:%22media%22%7D" height="60" src="//www.glaad.org/sites/default/files/styles/1200px/public/images/2015-01/Glaad_White_email.png?itok=3IiH_AIo" style="width: 113px; height: 60px;" width="113"></a></p>
-    </div>
+      <p><a href="http://www.glaad.org"><img alt="" class="media-element file-media-original" data-file_info="%7B%22fid%22:%2276708%22,%22view_mode%22:%22media_original%22,%22fields%22:%7B%22format%22:%22media_original%22,%22field_file_image_alt_text%5Bund%5D%5B0%5D%5Bvalue%5D%22:%22%22,%22field_file_image_title_text%5Bund%5D%5B0%5D%5Bvalue%5D%22:%22%22%7D,%22type%22:%22media%22%7D" src="//www.glaad.org/sites/default/files/styles/1200px/public/images/2015-01/Glaad_White_email.png?itok=3IiH_AIo" style="width: 113px; height: 60px;"></a></p>    </div>
   </div>
 </div>  </div>
 </div>  </div>
-</div><div id="zone-navigation-wrapper" class="zone-wrapper zone-navigation-wrapper clearfix">  
+<div id="zone-navigation-wrapper" class="zone-wrapper zone-navigation-wrapper clearfix">  
   <div id="zone-navigation" class="zone zone-navigation clearfix container-12">
     <div class="grid-8 region region-navigation" id="region-navigation">
   <div class="region-inner region-navigation-inner">
-    <div class="block block-nice-menus block-5 block-nice-menus-5 odd block-without-title" id="block-nice-menus-5">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <ul class="nice-menu nice-menu-down nice-menu-menu-main-menu---responsive" id="nice-menu-5"><li class="menu-4414 menuparent  menu-path-node-34372 first odd "><a href="/about">about ▾</a><ul><li class="menu-86429 menuparent  menu-path-node-34372 first odd "><a href="/about">about glaad ▸</a><ul><li class="menu-86671 menu-path-node-34372 first odd "><a href="/about">our mission</a></li>
-<li class="menu-104808 menu-path-node-68351  even "><a href="/about/history">our history</a></li>
-<li class="menu-86432 menu-path-node-87105  odd "><a href="/connect">join us</a></li>
-<li class="menu-86431 menu-path-node-15641  even last"><a href="/form/contact-glaad">contact us</a></li>
-</ul></li>
-<li class="menu-86433 menuparent  menu-path-node-15171  even "><a href="/about/staff">our team ▸</a><ul><li class="menu-86434 menu-path-node-15171 first odd "><a href="/about/staff">staff</a></li>
-<li class="menu-86435 menu-path-node-15170  even "><a href="/about/board">board of directors</a></li>
-<li class="menu-86436 menu-path-about-opportunities  odd last"><a href="/about/opportunities">career opportunities</a></li>
-</ul></li>
-<li class="menu-4415 menuparent  menu-path-node-15685  odd "><a href="/press">for press ▸</a><ul><li class="menu-86442 menu-path-node-15685 first odd "><a href="/press">resources</a></li>
-<li class="menu-86443 menu-path-releases  even "><a href="/releases">press releases</a></li>
-<li class="menu-86444 menu-path-node-15648  odd "><a href="/press/contacts">our experts</a></li>
-<li class="menu-86445 menu-path-node-15045  even last"><a href="/reference">media reference guide</a></li>
-</ul></li>
-<li class="menu-86430 menu-path-node-15619  even last"><a href="/support">support</a></li>
-</ul></li>
-<li class="menu-86428 menuparent  menu-path-node-68685  even "><a href="/programs">our work ▾</a><ul><li class="menu-86437 menu-path-node-88138 first odd "><a href="/publications/accelerating-acceptance-2016">accelerating acceptance</a></li>
-<li class="menu-86438 menuparent  menu-path-entertainment  even "><a href="/entertainment">entertainment ▸</a><ul><li class="menu-86439 menu-path-node-87153 first odd "><a href="/nri2015">network responsibility index</a></li>
-<li class="menu-86440 menu-path-node-78808  even "><a href="/sri/2015">studio responsibility index</a></li>
-<li class="menu-86441 menu-path-node-87540  odd last"><a href="/whereweareontv15">where we are on tv</a></li>
-</ul></li>
-<li class="menu-104807 menu-path-node-87525  odd "><a href="/hiv">hiv &amp; aids</a></li>
-<li class="menu-86446 menu-path-node-15680  even "><a href="/transgender">transgender</a></li>
-<li class="menu-86447 menu-path-node-15255  odd "><a href="/programs/spanishlanguage">spanish / latino</a></li>
-<li class="menu-86448 menu-path-node-72720  even "><a href="/southernstories">southern stories</a></li>
-<li class="menu-105819 menu-path-node-87307  odd "><a href="/bisexual">bisexual</a></li>
-<li class="menu-86449 menu-path-glaadorg-biweek  even "><a href="http://www.glaad.org/biweek">#BiWeek</a></li>
-<li class="menu-86450 menu-path-node-88677  odd "><a href="/spiritday">#SpiritDay</a></li>
-<li class="menu-86639 menu-path-node-87124  even "><a href="/global">global</a></li>
-<li class="menu-86451 menu-path-videos  odd last"><a href="/videos">videos</a></li>
-</ul></li>
-<li class="menu-4413 menuparent  menu-path-publications  odd "><a href="/publications">resources ▾</a><ul><li class="menu-104802 menu-path-node-59551 first odd "><a href="/vote">2016 election</a></li>
-<li class="menu-86452 menu-path-publications  even "><a href="/publications">publications</a></li>
-<li class="menu-86453 menu-path-node-58240  odd "><a href="/form/share-your-story">share your story</a></li>
-<li class="menu-86454 menu-path-node-59109  even last"><a href="/resourcelist">lgbt resource list</a></li>
-</ul></li>
-<li class="menu-5110 menu-path-events  even "><a href="/events">events</a></li>
-<li class="menu-4715 menu-path-blog  odd last"><a href="/blog">blog</a></li>
-</ul>
-    </div>
-  </div>
-</div>  </div>
-</div><div class="grid-4 region region-support-navigation" id="region-support-navigation">
-  <div class="region-inner region-support-navigation-inner">
-    <div class="block block-menu block-menu-support-menu block-menu-menu-support-menu odd block-without-title" id="block-menu-menu-support-menu">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <ul class="menu"><li class="first leaf"><a href="/connect">join us</a></li>
-<li class="last leaf"><a href="https://glaad.nationbuilder.com/donate">donate</a></li>
-</ul>    </div>
-  </div>
-</div><div class="block block-search block-form block-search-form even block-without-title" id="block-search-form">
+    <div id="block-nice-menus-5" class="block block-nice-menus">
+
+    
+  <div class="content">
+
+
+	<ul class="nice-menu nice-menu-down nice-menu-menu-main-menu---responsive" id="nice-menu-5"><li class="menu-105921 menu-path-block first odd  mobileSearch" id="menusearch"><div class="menu-attach-block-wrapper">
+	<div class="block block-search block-form block-search-form odd block-without-title" id="block-search-form">
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
       <form action="/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
       <h2 class="element-invisible">Search form</h2>
     <div class="form-item form-type-textfield form-item-search-block-form">
- <input onblur="if (this.value == '') {this.value = 'search';}" onfocus="if (this.value == 'search') {this.value = '';}" type="text" id="edit-search-block-form--2" name="search_block_form" value="search" size="15" maxlength="128" class="form-text">
+ <input onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/sites/all/themes/custom/glaadredesign/images/search-icon.png" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-47MAxLXzptIi9SYz1oBzlaI-8ALHPZlZKFtthUK1aA0">
+<div class="form-actions form-wrapper" id="edit-actions"><input class="searchIco form-submit" type="submit" id="edit-submit" name="op" value=""></div><input type="hidden" name="form_build_id" value="form-3oWI5vM802NFbMrwBBg0M0GAfykJsYUGNRyabnCvdS8">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form>    </div>
   </div>
-</div>  </div>
-</div>  </div>
-</div><div id="zone-sub-navigation-wrapper" class="zone-wrapper zone-sub-navigation-wrapper clearfix">  
-  <div id="zone-sub-navigation" class="zone zone-sub-navigation clearfix container-12">
-    <div class="grid-4 region region-logo" id="region-logo">
-  <div class="region-inner region-logo-inner">
-    <div class="block block-block block-36 block-block-36 odd block-without-title" id="block-block-36">
+</div></div>
+</li>
+<li class="menu-106192 menu-path-block  even "><div class="menu-attach-block-wrapper">
+	<div class="block block-block block-108 block-block-108 even block-without-title" id="block-block-108">
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <style type="text/css">
-<!--/*--><![CDATA[/* ><!--*/
-body .flexslider {
-border: 4px solid #f3f3f3;
-}
-
-/*--><!]]>*/
-</style><div style="white-space: nowrap;"><a href="/"><img height="108" width="200" style="width: 200px; height: 108px;" class="media-element file-media-original" src="http://www.glaad.org/sites/default/files/styles/1200px/public/images/2016-07/glaad-blue-200_1.png?itok=uh4q04F-" alt=""></a></div>
-    </div>
+      <a class="mainlogo" href="../"><img height="60" width="112" class="media-element file-media-original" data-delta="1" src="https://www.glaad.org/sites/default/files/styles/1200px/public/images/2017-01/logo.png?itok=o7YBD22X" alt=""></a>    </div>
   </div>
-</div>  </div>
-</div><div class="grid-6 region region-sub-navigation" id="region-sub-navigation">
-  <div class="region-inner region-sub-navigation-inner">
-      </div>
-</div><div class="grid-2 region region-glaad-social-media" id="region-glaad-social-media">
-  <div class="region-inner region-glaad-social-media-inner">
-    <div class="block block-block block-38 block-block-38 odd block-without-title" id="block-block-38">
+</div></div>
+</li>
+<li class="menu-4414 menuparent  menu-path-node-34372  odd "><a href="/about">About</a><ul><li class="menu-86429 menuparent  menu-path-node-34372 first odd "><a href="/about">About GLAAD</a><ul><li class="menu-104808 menu-path-node-68351 first odd "><a href="/about/history">Our History</a></li>
+<li class="menu-86432 menu-path-node-87105  even "><a href="/signup">Join Us</a></li>
+<li class="menu-86431 menu-path-node-15641  odd last"><a href="/form/contact-glaad">Contact Us</a></li>
+</ul></li>
+<li class="menu-86433 menuparent  menu-path-node-15171  even "><a href="/about/staff">Our Team</a><ul><li class="menu-86434 menu-path-node-15171 first odd "><a href="/about/staff">Staff</a></li>
+<li class="menu-86435 menu-path-node-15170  even "><a href="/about/board">Board of Directors</a></li>
+<li class="menu-105891 menu-path-node-89171  odd last"><a href="/about/opportunities">Join our Team</a></li>
+</ul></li>
+<li class="menu-4415 menuparent  menu-path-node-15685  odd last"><a href="/press">For Press</a><ul><li class="menu-86443 menu-path-releases first odd "><a href="/releases">Press Releases</a></li>
+<li class="menu-86444 menu-path-node-69392  even "><a href="/about/staff/sarahkateellis">Meet Sarah Kate</a></li>
+<li class="menu-86445 menu-path-node-15045  odd last"><a href="/reference">Media Reference Guide</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-86428 menuparent  menu-path-node-68685  even "><a href="/programs">Our Work</a><ul><li class="menu-105918 menu-path-node-90397 first odd "><a href="/publications/accelerating-acceptance-2018">Accelerating Acceptance</a></li>
+<li class="menu-106381 menu-path-node-90544  even "><a href="/institute">GLAAD Media Institute</a></li>
+<li class="menu-106382 menu-path-node-89545  odd "><a href="/youth">Youth Engagement</a></li>
+<li class="menu-105925 menu-path-node-89174  even "><a href="/entertainment">Entertainment Media</a></li>
+<li class="menu-104807 menu-path-node-87525  odd "><a href="/hiv">HIV &amp; AIDS</a></li>
+<li class="menu-86446 menu-path-node-15680  even "><a href="/transgender">Transgender</a></li>
+<li class="menu-86447 menu-path-node-15255  odd "><a href="/programs/spanishlanguage">Spanish / Latinx</a></li>
+<li class="menu-86448 menu-path-node-72720  even "><a href="/southernstories">Southern Stories</a></li>
+<li class="menu-105819 menu-path-node-87307  odd "><a href="/bisexual">Bisexual</a></li>
+<li class="menu-86449 menu-path-glaadorg-biweek  even "><a href="http://www.glaad.org/biweek">#BiWeek</a></li>
+<li class="menu-86450 menu-path-node-89940  odd "><a href="/spiritday">#SpiritDay</a></li>
+<li class="menu-86639 menu-path-node-87124  even "><a href="/global">Global</a></li>
+<li class="menu-105929 menu-path-node-89175  odd "><a href="/videos">Videos</a></li>
+<li class="menu-106281 menu-path-node-89425  even last"><a href="/news-rapid-response">News &amp; Rapid Response</a></li>
+</ul></li>
+<li class="menu-4413 menuparent  menu-path-node-89170  odd "><a href="/resources">Resources</a><ul><li class="menu-105919 menu-path-node-15045 first odd "><a href="/reference">Media Reference Guide</a></li>
+<li class="menu-105930 menu-path-node-89173  even "><a href="/publications">Publications</a></li>
+<li class="menu-106251 menu-path-glaadorg-together  odd "><a href="http://www.glaad.org/together">Together Campaign</a></li>
+<li class="menu-104802 menu-path-node-89058  even "><a href="/trump" name="trump accountability project">Trump Accountability Project</a></li>
+<li class="menu-86453 menu-path-node-58240  odd last"><a href="/form/share-your-story">Share Your Story</a></li>
+</ul></li>
+<li class="menu-105889 menu-path-node-89168  even "><a href="/events">Events</a></li>
+<li class="menu-105890 menu-path-node-89169  odd last"><a href="/blog">Blog</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+</div><div class="grid-4 region region-support-navigation" id="region-support-navigation">
+  <div class="region-inner region-support-navigation-inner">
+    <div class="block block-menu block-menu-support-menu block-menu-menu-support-menu odd block-without-title" id="block-menu-menu-support-menu">
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <div id="fb-root"></div>
-<script>
-<!--//--><![CDATA[// ><!--
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-//--><!]]>
-</script><div class="fb-like" data-href="http://www.facebook.com/glaad" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
-<script>
-<!--//--><![CDATA[// ><!--
-window.twttr = (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0],
-    t = window.twttr || {};
-  if (d.getElementById(id)) return t;
-  js = d.createElement(s);
-  js.id = id;
-  js.src = "https://platform.twitter.com/widgets.js";
-  fjs.parentNode.insertBefore(js, fjs);
- 
-  t._e = [];
-  t.ready = function(f) {
-    t._e.push(f);
-  };
- 
-  return t;
-}(document, "script", "twitter-wjs"));
-//--><!]]>
-</script><div class="twitter-follow"><a class="twitter-follow-button" href="https://twitter.com/glaad" data-show-count="false">Follow @glaad</a></div>
-    </div>
+      <ul class="menu"><li class="first leaf"><a href="https://www.countable.us/profiles/glaad" target="_blank">take action</a></li>
+<li class="leaf donate-mobile last"><a href="https://glaad.nationbuilder.com/donate?cfa=FY18MEM|MEM_APP|17WebDonateButton2-M">donate</a></li>
+<li class="leaf donate-desktop last"><a href="https://glaad.nationbuilder.com/donate?cfa=FY18MEM|MEM_APP|17WebDonateButton2">donate</a></li>
+<li class="last leaf sLast"><a href="/" class="search-ico"> &nbsp;</a></li>
+</ul>    </div>
   </div>
 </div>  </div>
 </div>  </div>
 </div></header>  
       <section id="section-content" class="section section-content">
-  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
-  <div id="zone-content" class="zone zone-content clearfix container-12">    
-        
-        <aside class="grid-1 region region-sidebar-first" id="region-sidebar-first">
-  <div class="region-inner region-sidebar-first-inner">
-    <div class="block block-share42 block-share42 block-share42-share42 odd block-without-title" id="block-share42-share42">
+    
+  <div id="zone-beforecontent" class="zone zone-beforecontent clearfix container-12">
+    <div class="grid-12 region region-beforecontent" id="region-beforecontent">
+  <div class="region-inner region-beforecontent-inner">
+    
+<!--SEARCH BOX-->
+<div id="searchBox" class="searchBox" style="display:none;">
+<div class="container">
+    <div class="closeBtn">
+    	<a class="" href="javascript:;">X</a>
+    </div>
+    <div class="searchWrap">
+    	<form action="/privacy-policy" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" type="text" id="edit-search-block-form--4" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input class="searchIco form-submit" type="submit" id="edit-submit--2" name="op" value=""></div><input type="hidden" name="form_build_id" value="form-1doPxKvYl2cigh-raUnmPW7WZctlhe0_9ZUIKd_R3Y8">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form>
+        <div class="autoSuggest">
+        	<div class="autoSuggestInner">
+            	<h5>Recent search terms</h5>
+          <div class="searchsuggestion">
+                <ul>
+                    <li>
+                    	<a href="/search?search_api_views_fulltext=transgender">transgender</a>
+                    </li>
+                    <li>
+                    	<a href="/search?search_api_views_fulltext=zeke%20survivor">zeke survivor</a>
+                    </li>
+                    <li>
+                    	<a href="/search?search_api_views_fulltext=glaad%20awards">glaad awards</a>
+                    </li>
+                    <li>
+                    	<a href="/search?search_api_views_fulltext=trump%20accountability%20project">trump accountability project</a>
+                    </li>
+                    <li>
+                    	<a href="/search?search_api_views_fulltext=spiritday">spirit day</a>
+                    </li>
+                </ul>
+</div>            </div>
+        </div>
+    </div>
+  </div>
+</div><div class="block block-views block-basic-page-topbanner block-views-basic-page-topbanner even block-without-title" id="block-views-basic-page-topbanner">
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <div class="share42init" data-path="/sites/all/libraries/share42/" data-top1="330" data-top2="50" data-margin="-20"></div>
-    </div>
+      <div class="view view-basic-page view-id-basic_page view-display-id-topbanner view-dom-id-907687cea2ce088ba2462124c341af7a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+
+<section id="pageSlider" class="homeSlider" style="max-height:350px;background-color:#414270"> <div class="container"> <div class="sliderContent"> <div class="sliderWidth"> <h2 style="color:#FFFFFF">Privacy Policy</h2> <p style="color:#FFFFFF"></p> </div></div></div></section>
+</div></div></div></div></div></div></div></div></div></section>
+
   </div>
-</div>  </div>
-</aside><div class="grid-11 region region-content" id="region-content">
+    
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+        <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">      		<div id="zone-content" class="zone zone-content clearfix innerpagezone container-12">
+        		<div class="allContent minusMarTop">
+					<div class="container gradient-fix minustopwrap">
+        				<div class="grid-10 region region-content leftbar divwrap eqheight whitebg" id="region-content">
   <div class="region-inner region-content-inner">
     <a id="main-content"></a>
-                <h1 class="title" id="page-title">Privacy Policy</h1>
                         <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <article class="node node-page node-published node-not-promoted node-not-sticky author-allison odd clearfix" id="node-page-15178">
-            
-  
-  <div class="content clearfix">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Constituent Privacy Statement</h2>
-<p>GLAAD is committed to protecting the privacy of our constituents. We have created this policy to outline our policy for the protection and use of personal information collected through our website, direct marketing, special events, or other interactions with GLAAD.</p>
-<p>We define personal information as information that can be linked to a specific individual (e.g. name, address, phone number, e-mail address or any other information provided to us by members or website users).</p>
-<h2><br>How we use the information gathered when you sign up to become a member of GLAAD or use GLAAD's on-line services</h2>
-<p>GLAAD gathers contact information when you register on glaad.org; contribute to GLAAD on-line, by mail, or on the telephone; when you participate in an event; or contact GLAAD. We use this information to send GLAAD and LGBT-related action alerts, event invitations, updates, press releases as well as information about GLAAD's programmatic accomplishments and initiatives, volunteer opportunities, membership and renewal appeals.</p>
-<p>GLAAD complies fully with the Children's Online Privacy Protection Act of 1998 (COPPA). GLAAD does not knowingly collect identifiable personal information from children under age 13. If we discover that a person under the age of 13 has provided us with any personally identifiable information, we will delete that information from our systems. We are unable to reply to information requests from children under the age of 13, if so identified. A parent or guardian must initiate any requests for information from children under the age of 13 on their behalf. We encourage parents to supervise children when they browse the Internet.</p>
-<p>GLAAD does not specifically ask children under 18 for any information and we do not knowingly collect personally identifiable information about them.</p>
-<p>GLAAD also gathers aggregate information about website usage. Our web server automatically records the domain name and Internet Protocol (IP) address of each visitor to our site. We collect and analyze this information, which helps us determine which pages are most frequently visited, to improve the site and its resources for our visitors. GLAAD does not track individual usage of our website.</p>
-<p>GLAAD will occasionally exchange personal information with other organizations through promotions, partnerships or otherwise. You may choose to withhold your personal information from exchange by selecting that option in your account settings on <a href="http://www.glaad.org">www.glaad.org</a>, or by e-mailing <a href="mailto:membership@glaad.org">membership@glaad.org</a>.</p>
-<h2><br>How your information is protected</h2>
-<p>GLAAD holds your personal information to the highest level of confidence and security. Our website is securely protected against the loss, theft, misuse or misrepresentation of information under our control. Access to GLAAD's database information is limited only to specific qualified GLAAD employees. Additionally, when you make a contribution to GLAAD on-line, your financial information is transmitted using a Secure Socket Layer (SSL) encryption. SSL is a proven coding system that lets your browser encrypt, or scramble, data before being sent to our payment processor.</p>
-<p>Unfortunately, no data transmission over the Internet can ever be 100% secure. While we strive to protect your information to the fullest extent, we cannot ensure or completely guarantee the security of such information.</p>
-<p>We take the utmost precaution to keep your credit card information safe and secure. But if you are uncomfortable submitting your credit card information online, contact Membership Services at 323.933.2240.<br>&nbsp;</p>
-<h2>How to unsubscribe from mailing lists</h2>
-<p>To remove your name from our email or postal mailing list please call Membership Services at 323.933.2240 or email <a href="mailto:membership@glaad.org">membership@glaad.org</a> indicating what type of communication you received from us and at what address.</p>
-<h2><br>Acceptance of Constituent Privacy Policy</h2>
-<p>To further our mission and better serve our constituents, GLAAD is continually improving and adding new functionality and features to our Web site and improving and adding to its existing services and programs. Because of these ongoing changes and the changing nature of technology, GLAAD's information practices will change from time to time.</p>
-<p>If and when its information practices change, GLAAD will post the policy changes to its Web site to notify its constituents of the changes and, where appropriate and practical, give them the opportunity to "opt-out" of the new programs and practices. If you are concerned about how your personal information is used, please check back at the GLAAD site frequently or contact Membership Services at 323.933.2240.</p>
-<h2><br>How to contact GLAAD with questions, comments or concerns regarding privacy issues.</h2>
-<p>Questions, comments or concerns regarding GLAAD's privacy policy or information sent to you by GLAAD, please email <a href="mailto:membership@glaad.org">membership@glaad.org</a>.&nbsp; You can also reach us via US Mail by sending requests to:</p>
-<p>GLAAD Member Services<br> 5455 Wilshire Blvd., Suite 1500<br> Los Angeles, CA 90036-4204</p>
-<p>&nbsp;</p>
-<p><em>Last Updated April 17, 2009</em></p>
-</div></div></div>  </div>
-  
-  <div class="clearfix">
-          <nav class="links node-links clearfix"></nav>
-    
-      </div>
-</article>    </div>
+      
+
+<div id="node-15178" class="node node-page clearfix">
+
+		
+	
+	
+
+
+	<div class="content">
+
+					<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Constituent Privacy Statement</h2><p>GLAAD is committed to protecting the privacy of our constituents. We have created this policy to outline our policy for the protection and use of personal information collected through our website, direct marketing, special events, or other interactions with GLAAD.</p><p>We define personal information as information that can be linked to a specific individual (e.g. name, address, phone number, e-mail address or any other information provided to us by members or website users).</p><h2><br>How we use the information gathered when you sign up to become a member of GLAAD or use GLAAD's on-line services</h2><p>GLAAD gathers contact information when you register on glaad.org; contribute to GLAAD on-line, by mail, or on the telephone; when you participate in an event; or contact GLAAD. We use this information to send GLAAD and LGBTQ-related action alerts, event invitations, updates, press releases as well as information about GLAAD's programmatic accomplishments and initiatives, volunteer opportunities, membership and renewal appeals.</p><p>GLAAD complies fully with the Children's Online Privacy Protection Act of 1998 (COPPA). GLAAD does not knowingly collect identifiable personal information from children under age 13. If we discover that a person under the age of 13 has provided us with any personally identifiable information, we will delete that information from our systems. We are unable to reply to information requests from children under the age of 13, if so identified. A parent or guardian must initiate any requests for information from children under the age of 13 on their behalf. We encourage parents to supervise children when they browse the Internet.</p><p>GLAAD does not specifically ask children under 18 for any information and we do not knowingly collect personally identifiable information about them.</p><p>GLAAD also gathers aggregate information about website usage. Our web server automatically records the domain name and Internet Protocol (IP) address of each visitor to our site. We collect and analyze this information, which helps us determine which pages are most frequently visited, to improve the site and its resources for our visitors. GLAAD does not track individual usage of our website.</p><p>GLAAD does not share personal information with other organizations.</p><h2><br>How your information is protected</h2><p>GLAAD holds your personal information to the highest level of confidence and security. Our website is securely protected against the loss, theft, misuse or misrepresentation of information under our control. Access to GLAAD's database information is limited only to specific qualified GLAAD employees. Additionally, when you make a contribution to GLAAD on-line, your financial information is transmitted using a Secure Socket Layer (SSL) encryption. SSL is a proven coding system that lets your browser encrypt, or scramble, data before being sent to our payment processor.</p><p>Unfortunately, no data transmission over the Internet can ever be 100% secure. While we strive to protect your information to the fullest extent, we cannot ensure or completely guarantee the security of such information.</p><p>We take the utmost precaution to keep your credit card information safe and secure. But if you are uncomfortable submitting your credit card information online, contact Membership Services at 646-871-8022.<br>&nbsp;</p><h2>How to unsubscribe from mailing lists</h2><p>To remove your name from our email or postal mailing list please call Membership Services at 646-871-8022 or email <a href="mailto:donorservices@glaad.org">donorservices@glaad.org</a> indicating what type of communication you received from us and at what address.</p><h2><br>Acceptance of Constituent Privacy Policy</h2><p>To further our mission and better serve our constituents, GLAAD is continually improving and adding new functionality and features to our Web site and improving and adding to its existing services and programs. Because of these ongoing changes and the changing nature of technology, GLAAD's information practices will change from time to time.</p><p>If and when its information practices change, GLAAD will post the policy changes to its Web site to notify its constituents of the changes and, where appropriate and practical, give them the opportunity to "opt-out" of the new programs and practices. If you are concerned about how your personal information is used, please check back at the GLAAD site frequently or contact Membership Services at 646-871-8022.</p><h2><br>How to contact GLAAD with questions, comments or concerns regarding privacy issues.</h2><p>Questions, comments or concerns regarding GLAAD's privacy policy or information sent to you by GLAAD, please email <a href="mailto:donorservices@glaad.org">donorservices@glaad.org</a>.&nbsp; You can also reach us via US Mail by sending requests to:</p><p>GLAAD Member Services<br>104 W 29th St, 4th Floor<br>New York, NY 10001</p><p>&nbsp;</p><p><em>Last Updated June 5, 2019</em></p></div></div></div>
+	</div>
+
+		
+</div>
+    </div>
   </div>
 </div>      </div>
+</div><div class="grid-2 region region-content-sidebar rightbar divwrap eqheight" id="region-content-sidebar">
+  <div class="region-inner region-content-sidebar-inner">
+    <div class="block block-views block-blog-trending block-views-blog-trending odd block-without-title" id="block-views-blog-trending">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-blog view-id-blog view-display-id-trending view-dom-id-74195b325277207c91098cce46cd8c2a">
+            <div class="view-header">
+      <div class="shareSideBar">
+<h2>Share this Page</h2>
+<ul>
+<li>
+<a target="_blank" href="#" class="tip addthis_button_facebook" data-tip="Facebook">
+<span class="fa fa-facebook-f"></span>
+</a>
+</li>
+<li>
+<a target="_blank" href="#" class="tip addthis_button_twitter" data-tip="Twitter">
+<span class="fa fa-twitter"></span>
+</a>
+</li>
+<li>
+<a target="_blank" href="#" class="tip addthis_button_tumblr" data-tip="Tumblr">
+<span class="fa fa-tumblr"></span>
+</a>
+</li>
+<li>
+<a target="_blank" href="#" class="tip addthis_button_email" data-tip="Mail">
+<span class="fa fa-envelope"></span>
+</a>
+</li>
+</ul>
+</div>
+<h2>Trending</h2>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first relatedArticles artWrapper">
+      
+  <div class="views-field views-field-field-blog-thumbnail">        <div class="field-content"><a href="/blog/must-see-lgbtq-tv-killing-eve-season-finale-and-documentary-ask-dr-ruth"><span id="styles-0-0" class="styles file-styles 480x252">  <img width="480" height="252" src="https://www.glaad.org/sites/default/files/styles/480x252/public/images/2019-05/killing%20eve.PNG?itok=c5CEC4Wy&amp;c=fa98fd3cfd122085c93337f958dcbfe9" alt="" title=""></span></a><div class="img-attrib">Photo Credit: BBC America</div></div>  </div>  
+  <div>        <h2 class="h2Title"><a href="/blog/must-see-lgbtq-tv-killing-eve-season-finale-and-documentary-ask-dr-ruth">Must-See LGBTQ TV: 'Killing Eve' season finale and documentary 'Ask Dr. Ruth'</a></h2>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even relatedArticles artWrapper">
+      
+  <div class="views-field views-field-field-blog-thumbnail">        <div class="field-content"><a href="/blog/7th-annual-bisexual-book-awards-are-coming-june-1st-0"><span id="styles-1-0" class="styles file-styles 480x252">  <img width="480" height="252" id="1" src="https://www.glaad.org/sites/default/files/styles/480x252/public/images/2019-05/BWA4_1.jpg?itok=fE__3nmj&amp;c=550d9e669751a409a225a8349879e0b7" alt="" title=""></span></a><div class="img-attrib">Photo Credit: Bi Writers Association </div></div>  </div>  
+  <div>        <h2 class="h2Title"><a href="/blog/7th-annual-bisexual-book-awards-are-coming-june-1st-0">The 7th Annual Bisexual Book Awards are coming June 1st</a></h2>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last relatedArticles artWrapper">
+      
+  <div class="views-field views-field-field-blog-thumbnail">        <div class="field-content"><a href="/blog/catching-halston-director-frederic-tcheng"><span id="styles-2-0" class="styles file-styles 480x252">  <img width="480" height="252" id="2" src="https://www.glaad.org/sites/default/files/styles/480x252/public/images/2019-05/%C2%A9Berry%20Berenson%20Perkins_Halston%20and%20Liza%20Minnelli.jpg?itok=dftQkDKO&amp;c=b36357842af4a68bb728a4460be22ebb" alt="" title="Halston and Liza Minnelli"></span></a><div class="img-attrib">©Berry Berenson Perkins</div></div>  </div>  
+  <div>        <h2 class="h2Title"><a href="/blog/catching-halston-director-frederic-tcheng">Catching up with ‘Halston’ director Frédéric Tcheng</a></h2>  </div>  </div>
+    </div>
+  
+      <ul class="pager pager--infinite-scroll ">
+  <li class="pager__item">
+    <a href="/privacy-policy?page=1">Show Me More ▾</a>  </li>
+</ul>
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
 </div>  </div>
-</div></section>  
+</div>        			</div>
+  				</div>
+      		</div>
+    </div>  
       <footer id="section-footer" class="section section-footer">
-  <div id="zone-highlight-wrapper" class="zone-wrapper zone-highlight-wrapper clearfix">  
-  <div id="zone-highlight" class="zone zone-highlight clearfix container-12">
-    <div class="grid-6 region region-highlight-first" id="region-highlight-first">
-  <div class="region-inner region-highlight-first-inner">
-      </div>
-</div>  </div>
-</div><div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
   <div id="zone-footer" class="zone zone-footer clearfix container-12">
     <div class="grid-4 region region-footer-first" id="region-footer-first">
   <div class="region-inner region-footer-first-inner">
-    <section class="block block-block block-43 block-block-43 odd" id="block-block-43">
+    <div class="block block-block block-166 block-block-166 odd block-without-title" id="block-block-166">
   <div class="block-inner clearfix">
-              <h2 class="block-title">About GLAAD</h2>
-            
+                
     <div class="content clearfix">
-      <p>GLAAD rewrites the script for LGBTQ acceptance. As a dynamic media force, GLAAD tackles tough issues to shape the narrative and provoke dialogue that leads to cultural change. GLAAD protects all that has been accomplished and creates a world where everyone can live the life they love. <a href="/about">More about GLAAD &gt;&gt;</a></p>
-<p><a href="/contact">contact us &gt;&gt;</a></p>
-<p>© 2016 all rights reserved | <a href="/privacy-policy">privacy policy</a></p>
-    </div>
+      <section class="donate-bar">
+        <div class="donate-bar-container">
+        	<span class="close">Close ▼</span>
+            <span class="donate-bar-content">Take a stand against discrimination and hate and become a GLAAD sustaining member.</span>
+            <a class="donate-bar-button donate-desktop" href="https://glaad.nationbuilder.com/donate?cfa=FY19MEM|MEM_APP|19WEB-DONATEBAR">DONATE NOW</a>
+<a class="donate-bar-button donate-mobile" href="https://glaad.nationbuilder.com/donate?cfa=FY19MEM|MEM_APP|19WEB-DONATEBAR-M">DONATE NOW</a>
+        </div>
+    </section>    </div>
   </div>
-</section>  </div>
+</div><div class="block block-block block-43 block-block-43 even block-without-title" id="block-block-43">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p><a href=""><img alt="Glaad" class="footer-logo" src="//www.glaad.org/sites/default/files/logo.png"></a><br><strong>GLAAD rewrites the script for LGBTQ acceptance</strong>. As a dynamic media force, GLAAD tackles tough issues to shape the narrative and provoke dialogue that leads to cultural change.</p><p>&nbsp;</p><p><a class="scrollup" href="#" style="display: none;">&nbsp;</a></p>    </div>
+  </div>
+</div><div class="block block-block block-124 block-block-124 odd block-without-title" id="block-block-124">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <a href="https://shop.glaad.org" id="pop-out" class="donate-desktop">Shop</a>
+<a href="https://shop.glaad.org" id="pop-out" class="donate-mobile">Shop</a>    </div>
+  </div>
+</div>  </div>
 </div><div class="grid-4 region region-footer-second" id="region-footer-second">
   <div class="region-inner region-footer-second-inner">
     <section class="block block-block block-44 block-block-44 odd" id="block-block-44">
@@ -316,13 +415,22 @@ window.twttr = (function(d, s, id) {
               <h2 class="block-title">Connect with GLAAD</h2>
             
     <div class="content clearfix">
-      <div id="footer-social-media">
-<a href="http://www.facebook.com/glaad"><i class="fa fa-facebook"></i></a><a href="http://twitter.com/glaad"><i class="fa fa-twitter"></i></a><a href="http://instagram.com/glaad"><i class="fa fa-instagram"></i></a><a href="http://www.youtube.com/glaad"><i class="fa fa-youtube"></i></a><a href="http://glaad.tumblr.com"><i class="fa fa-tumblr"></i></a><a href="https://plus.google.com/+glaad"><i class="fa fa-google-plus"></i></a>
-</div>
-<p style="margin-top: 26px;"><a href="http://www.glaad.org/donate" class="donate-now-button">donate now</a></p>
-    </div>
+                      <div class="content clearfix">
+                  <div class="socialIco">
+                  	<ul>
+                    	<li class="col-md-6">
+                        	<a target="_blank" href="http://www.facebook.com/glaad" class="fb"><span class="fa fa-facebook-f"></span>Facebook</a></li>
+                         <li class="col-md-6">
+                        	<a target="_blank" href="http://glaad.tumblr.com" class="tumb"><span class="fa fa-tumblr"></span>Tumblr</a></li>
+                        <li class="col-md-6">
+                        	<a target="_blank" href="http://twitter.com/glaad" class="twit"><span class="fa fa-twitter"></span>Twitter</a>
+                        </li>
+                        <li class="col-md-6">
+                        	<a target="_blank" href="http://instagram.com/glaad" class="insta"><span class="fa fa-instagram"></span>Instagram</a></li>
+                    </ul>
+                  </div>    </div>
   </div>
-</section>  </div>
+</div></section>  </div>
 </div><div class="grid-4 region region-footer-third" id="region-footer-third">
   <div class="region-inner region-footer-third-inner">
     <section class="block block-menu block-menu-footer-quick-links block-menu-menu-footer-quick-links odd" id="block-menu-menu-footer-quick-links">
@@ -330,21 +438,154 @@ window.twttr = (function(d, s, id) {
               <h2 class="block-title">Quick Links</h2>
             
     <div class="content clearfix">
-      <ul class="menu"><li class="first leaf"><a href="/blog">blog</a></li>
-<li class="leaf"><a href="/publications" title="">resources</a></li>
-<li class="leaf"><a href="/press" title="">for press</a></li>
+      <ul class="menu"><li class="first leaf"><a href="/press" title="">for press</a></li>
 <li class="leaf"><a href="/about" title="">about</a></li>
-<li class="leaf"><a href="/events" title="">attend an event</a></li>
-<li class="leaf"><a href="/mediaawards/27">glaad media awards</a></li>
-<li class="last leaf"><a href="/form/report-media-defamation" title="">report an incident</a></li>
+<li class="leaf"><a href="/mediaawards/28/home">glaad media awards</a></li>
+<li class="leaf"><a href="/form/report-media-defamation" title="">report an incident</a></li>
+<li class="leaf donate-mobile"><a href="https://glaad.nationbuilder.com/donate?cfa=FY18MEM|MEM_APP|17WebDonateButton3-M" id="donate-footer">donate</a></li>
+<li class="leaf active-trail"><a href="/privacy-policy" class="active-trail active">privacy policy</a></li>
+<li class="last leaf donate-desktop"><a href="https://glaad.nationbuilder.com/donate?cfa=FY18MEM|MEM_APP|17WebDonateButton3" id="donate-footer" target="_blank">donate</a></li>
 </ul>    </div>
   </div>
 </section>  </div>
 </div>  </div>
-</div></footer>  </div>
-  <div class="region region-page-bottom" id="region-page-bottom">
-  <div class="region-inner region-page-bottom-inner">
-      </div>
-</div><script type="text/javascript" src="http://www.glaad.org/sites/default/files/js/js_tTLcyO7BcGobj5qAUNvQcsQiCO6itWJCgarJ1eFFfNM.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1c447f99bd","applicationID":"3301392","transactionName":"Ml1bZ0BQDBBVUkFRXQsXeFBGWA0NG19aXFc6SFhUV24UClFG","queueTime":0,"applicationTime":161,"atts":"HhpYEQhKHx4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</div></footer>  
+  <script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_kvEubRaSL6jIBLThHJ7vUxVQR1f1LU3vs9uHIaCRNDI.js"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a90895ba7233546"></script>
+  <!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nxchi');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1c447f99bd","applicationID":"3301392","transactionName":"Ml1bZ0BQDBBVUkFRXQsXeFBGWA0NG19aXFc6SFhUV24UClFG","queueTime":0,"applicationTime":670,"atts":"HhpYEQhKHx4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+
+
+  <title>Privacy Policy | GLAAD</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="apple-touch-icon" href="https://www.glaad.org/apple-touch-icon.png" type="image/png">
+<link rel="shortcut icon" href="https://www.glaad.org/sites/default/files/glaad_blue_favicon.png" type="image/png">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes">
+<meta name="description" content="Constituent Privacy StatementGLAAD is committed to protecting the privacy of our constituents. We have created this policy to outline our policy for the protection and use of personal information collected through our website, direct marketing, special events, or other interactions with GLAAD.We define personal information as information that can be linked to a specific individual (e.g. name, address, phone number, e-mail address or any other information provided to us by members or website users).">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="https://www.glaad.org/privacy-policy">
+<link rel="shortlink" href="https://www.glaad.org/node/15178">
+<meta property="og:site_name" content="GLAAD">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.glaad.org/privacy-policy">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Constituent Privacy StatementGLAAD is committed to protecting the privacy of our constituents. We have created this policy to outline our policy for the protection and use of personal information collected through our website, direct marketing, special events, or other interactions with GLAAD.We define personal information as information that can be linked to a specific individual (e.g. name, address, phone number, e-mail address or any other information provided to us by members or website users).">
+<meta property="og:updated_time" content="2019-06-14T11:26:40-04:00">
+<meta property="og:image:url" content="https://www.glaad.org/sites/default/files/GLAAD-Social-Share.jpg">
+<meta property="og:image:secure_url" content="https://www.glaad.org/sites/default/files/GLAAD-Social-Share.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@glaad">
+<meta name="twitter:url" content="https://www.glaad.org/privacy-policy">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:description" content="Constituent Privacy StatementGLAAD is committed to protecting the privacy of our constituents. We have created this policy to outline our policy for the protection and use of personal information collected through our website, direct marketing, special events, or other interactions with GLAAD.We define personal information as information that can be linked to a specific individual (e.g. name, address, phone number, e-mail address or any other information provided to us by members or website users).">
+<meta name="twitter:image" content="https://www.glaad.org/sites/default/files/GLAAD-Social-Share.jpg">
+<meta name="twitter:image:width" content="1200">
+<meta name="twitter:image:alt" content="GLAAD">
+<meta name="twitter:image:height" content="630">
+<meta property="article:published_time" content="2011-09-02T10:01:17-04:00">
+<meta property="article:modified_time" content="2019-06-14T11:26:40-04:00">
+  <link type="text/css" rel="stylesheet" href="https://www.glaad.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.glaad.org/sites/default/files/css/css_jHd5mTBUvxqQ4zjQAFcVWOBy55uzByfthQUJXeLgwEE.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.glaad.org/sites/default/files/css/css_jTIHA5lkcvylW7WSdM7f7v0JNYwSRmCNq7EDcBU7zl8.css" media="all">
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.glaad.org/sites/default/files/css/css_JdK_HVXSNTFhr6UVHJVRzKLG9aIKyiPYypSyGOgsMgs.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin+Sans:100,100italic,300,300italic,700,700italic|Open+Sans:600,700,regular&amp;subset=latin-ext" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.glaad.org/sites/default/files/css/css_3QkYorurGvZnNuXnzpyzSWf9EOhr7rTLt1-NYz25YtE.css" media="all">
+  <script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_l7oggN_IVm3DSv6OzkSqmlYFCRbR1K38m-FaByQLzRg.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_vSTPeI5n3qRsfyWQqdB0k_WGa29dNwY_qLduR_iiSi0.js"></script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_UJXhWuoXRCNTMwJM4N-tP1TXXrxsEebxLbbIQCtMv-s.js"></script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_ZTPDy9vnIvxAW9vGHzBaKrqjT1HC2pH8HNUzRrJPUF4.js"></script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_qz0BhvbLBLFoVH3qFMDqQGRd5FacEfX2DysQdgTLWfA.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_vxcwspKZjByg09TK0q91OGAzSinAs2UicvZICZVPq1s.js"></script>
+<script type="text/javascript" src="https://use.typekit.com/vhu5naf.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function () { jQuery(".active").parents(".menuparent").children("a").addClass("active"); });
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js__dIwBcV-xTDvrYm5iYGkwVliNkzQgkEYQoRvPAaBpSA.js"></script>
+<script type="text/javascript" src="https://www.glaad.org/sites/default/files/js/js_2plip6p2GaJHbxtvbQ4TcohsA-TlFBqRQ-NAMsOJlGo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"glaad2017","theme_token":"fxVOjtSUKvETxCEAlCWba1DJ914M3nFhVSsvm-4-iaA","jquery_version":"1.8","js":{"sites\/all\/modules\/views_infinite_scroll\/views-infinite-scroll.js":1,"\/\/s7.addthis.com\/js\/300\/addthis_widget.js#pubid=ra-5a90895ba7233546":1,"public:\/\/google_tag\/google_tag.script.js":1,"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/advodelay\/advodelay.js":1,"sites\/all\/modules\/fitvids\/fitvids.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/libraries\/jstorage\/jstorage.min.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/meanMenu\/jquery.meanmenu.min.js":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/meanMenu\/responsive_menus_mean_menu.js":1,"1":1,"sites\/all\/themes\/glaad2017\/js\/slick.min.js":1,"sites\/all\/themes\/glaad2017\/js\/slick-sponsor.js":1,"sites\/all\/themes\/glaad2017\/js\/slick-twitter.js":1,"https:\/\/use.typekit.com\/vhu5naf.js":1,"2":1,"3":1,"sites\/all\/themes\/glaad2017\/js\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/glaad2017\/js\/tipr.min.js":1,"sites\/all\/themes\/glaad2017\/js\/common.js":1,"sites\/all\/themes\/glaad2017\/js\/jquery.nicescroll.min.js":1,"sites\/all\/themes\/custom\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/custom\/omega\/omega\/js\/omega-mediaqueries.js":1,"4":1,"5":1,"6":1,"7":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/fitvids\/fitvids.css":1,"sites\/all\/modules\/menu_attach_block\/menu_attach_block.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus_default.css":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/meanMenu\/meanmenu.min.css":1,"sites\/all\/themes\/glaad2017\/css\/grid12.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.6.3\/css\/font-awesome.min.css":1,"sites\/all\/themes\/custom\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/custom\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/custom\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/custom\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/custom\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/custom\/omega\/omega\/css\/omega-forms.css":1,"sites\/default\/files\/fontyourface\/wysiwyg.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"https:\/\/fonts.googleapis.com\/css?family=Josefin+Sans:100,100italic,300,300italic,700,700italic|Open+Sans:600,700,regular\u0026subset=latin-ext":1,"sites\/all\/themes\/glaad2017\/css\/global.css":1,"sites\/all\/themes\/glaad2017\/css\/mainsite.css":1,"sites\/all\/themes\/glaad2017\/css\/stylerevamp.css":1,"sites\/all\/themes\/glaad2017\/css\/slick.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":0,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":300,"iframe_border":1,"enable_video":0,"useragent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit\/601.3.9 (KHTML, like Gecko) Version\/9.0.2 Safari\/601.3.9"},"nice_menus_options":{"delay":"500","speed":"fast"},"urlIsAjaxTrusted":{"\/privacy-policy":true,"\/views\/ajax":true},"views_infinite_scroll":{"img_path":"\/sites\/all\/modules\/views_infinite_scroll\/images\/ajax-loader.gif"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:74195b325277207c91098cce46cd8c2a":{"view_name":"blog","view_display_id":"trending","view_args":"","view_path":"node\/15178","view_base_path":"blog\/rss.xml","view_dom_id":"74195b325277207c91098cce46cd8c2a","pager_element":0}}},"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true},"responsive_menus":[{"selectors":"#block-nice-menus-5, #block-nice-menus-8, #block-nice-menus-9, #block-nice-menus-10","container":"body","trigger_txt":"\u003Ci class=\u0022fa fa-bars\u0022\u003E\u003C\/i\u003E","close_txt":"\u003Ci class=\u0022fa fa-times\u0022\u003E\u003C\/i\u003E","close_size":"18px","position":"right","media_size":"768","show_children":"1","expand_children":"1","expand_txt":"+","contract_txt":"-","remove_attrs":"1","responsive_menus_style":"mean_menu"}],"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"glaad\\.org","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"omega":{"layouts":{"primary":"normal","order":[],"queries":[]}}});
+//--><!]]>
+</script>
+
+
+  <div id="page">
+    <div id="header">
+      <div id="logo-title">
+
+                  <a href="/" title="Home" rel="home" id="logo">
+            <img src="https://www.glaad.org/sites/all/themes/glaad2017/logo.png" alt="Home">
+          </a>
+        
+        <div id="name-and-slogan">
+                      <h1 id="site-name">
+              <a href="/" title="Home" rel="home"><span>GLAAD</span></a>
+            </h1>
+          
+                      <div id="site-slogan">GLAAD rewrites the script for LGBTQ acceptance.</div>
+                  </div> <!-- /name-and-slogan -->
+      </div> <!-- /logo-title -->
+
+      
+    </div> <!-- /header -->
+
+    <div id="container" class="clearfix">
+
+      
+      <div id="main" class="column"><div id="main-squeeze">
+
+        <div id="content">
+          <h1 class="title" id="page-title">Error</h1>          <div class="messages status">
+<h2 class="element-invisible">Status message</h2>
+Created three snippet files based on configuration.</div>
+          <div id="content-content" class="clearfix">
+            The website encountered an unexpected error. Please try again later.          </div> <!-- /content-content -->
+        </div> <!-- /content -->
+
+      </div></div> <!-- /main-squeeze /main -->
+
+      
+    </div> <!-- /container -->
+
+    <div id="footer-wrapper">
+      <div id="footer">
+              </div> <!-- /footer -->
+    </div> <!-- /footer-wrapper -->
+
+  </div> <!-- /page -->
+
+
+
 </body></html>
