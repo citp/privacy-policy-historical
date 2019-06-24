@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billboard.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227225058id_/https%3A//www.billboard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billboard.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624063956id_/https%3A//www.billboard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Billboard
 
@@ -70,8 +70,8 @@ You may contact us at [privacy@prometheusgm.com](mailto:privacy@prometheusgm.co
 You may contact Prometheus Global Media regarding our privacy practices at the following address:
 
 Prometheus Global Media  
-340 Madison Avenue-6thFloor  
-New York, New York 10173  
+1540 Broadway  
+New York, New York 10036  
 1-212-493-4100  
 [privacy@prometheusgm.com](mailto:privacy@prometheusgm.com)
 
