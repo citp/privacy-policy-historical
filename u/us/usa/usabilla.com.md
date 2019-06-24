@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the usabilla.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220173609id_/https%3A//usabilla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usabilla.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624092200id_/https%3A//usabilla.com/privacy) for the most accurate reproduction.*
 
 # Usabilla Privacy Statement
+
+[ ](https://web.archive.org/) [ ](https://web.archive.org/)
 
 This privacy statement concerns the processing of personal data by usabilla.com, support.usabilla.com, blog.usabilla.com, jobs.usabilla.com, developers.usabilla.com, academy.usabilla.com, and go.usabilla.com (“Public Websites”). It does not address the processing of personal data by Usabilla's products (Usabilla for Websites, Usabilla for Apps, Usabilla for Email), which is addressed in our [Terms and Conditions](https://web.archive.org/terms/).
 
