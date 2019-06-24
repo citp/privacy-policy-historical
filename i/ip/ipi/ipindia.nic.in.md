@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipindia.nic.in privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218060728id_/http%3A//www.ipindia.nic.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipindia.nic.in privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624172348id_/http%3A//www.ipindia.nic.in/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Intellectual Property India
+# Privacy Policy | Intellectual Property India | Government of India
 
   * [Home](https://web.archive.org/index.htm "Home") Privacy Policy
 
@@ -26,6 +26,6 @@ Your email address will only be recorded if you choose to send a message. It wil
 
 ### Collection of Personal Information
 
-If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the [contact us](https://web.archive.org/web/20181218060728id_/http%3A//www.ipindia.nic.in/contact-us.htm) page.
+If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the [contact us](https://web.archive.org/web/20190624172348id_/http%3A//www.ipindia.nic.in/contact-us.htm) page.
 
 **Note:** The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.
