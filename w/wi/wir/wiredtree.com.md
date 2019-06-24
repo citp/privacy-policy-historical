@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiredtree.com privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720212509id_/https%3A//www.liquidweb.com/about-us/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiredtree.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624051655id_/https%3A//www.liquidweb.com/about-us/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Liquid Web
 
@@ -8,7 +8,7 @@
 
 Liquid Web is an information technology service provider. Headquartered in Lansing, Michigan, we provide web hosting solutions including dedicated servers and virtual private servers to our customers (“Services”). Liquid Web has data center locations in Lansing, MI, Phoenix, AZ, and Amsterdam, NL. 
 
-Liquid Web respects the privacy of every individual who visits [www.liquidweb.com](http://www.liquidweb.com/) (“Website”) and/or purchases its Services. This Privacy Policy is our commitment to transparency in communicating how Liquid Web collects, uses, and discloses the information that is collected from you, the visitor of its website and/or customer as well as the choices you have with respect to the information.
+Liquid Web respects the privacy of every individual who visits www.liquidweb.com (“Website”) and/or purchases its Services. This Privacy Policy is our commitment to transparency in communicating how Liquid Web collects, uses, and discloses the information that is collected from you, the visitor of its website and/or customer as well as the choices you have with respect to the information.
 
  **SCOPE OF POLICY**
 
