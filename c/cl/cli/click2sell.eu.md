@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click2sell.eu privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218010604id_/https%3A//www.click2sell.eu/en/terms-of-use/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2sell.eu privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624082907id_/https%3A//www.click2sell.eu/en/terms-of-use/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
