@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webworkup.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216195016id_/http%3A//www.webworkup.com/pages/privacy%2520policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webworkup.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624125305id_/http%3A//www.webworkup.com/pages/privacy%2520policy.php) for the most accurate reproduction.*
 
 # webworkup Internet Speed Test - Test your Speed of Internet to all Locations in the World
 
