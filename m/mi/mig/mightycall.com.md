@@ -1,86 +1,104 @@
-> *The following text is extracted and transformed from the mightycall.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507144738id_/http%3A//www.mightycall.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightycall.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624154420id_/https%3A//www.mightycall.com/privacy) for the most accurate reproduction.*
 
-# Handle Customer Phone Calls, Email Requests & Social Media Inquires with Zero Dedicated Agents Required
+# Privacy — MightyCall
 
-Welcome to the MightyCall.com Web site of Infratel US, Inc., a Washington corporation (together with its affiliates, “Infratel,” “we,” or “us”). This privacy policy covers the website and services made available from infratel.com, mightycall.com or otherwise by Infratel (referred to in this policy collectively as the “Service”).
+**Infratel US, Inc.**  
+**PRIVACY POLICY**  
+**Last updated September 15, 2016**
 
-**Our Commitment To Privacy**
+This Privacy Policy identifies and describes the way Infratel US, Inc., a Washington corporation (Trademark MightyCall) (together with its affiliates, : “Infratel”,” “we,”, or “us”) regarding your use of Infratel’s call management solutions and other services uses and protects the information we collect about Customers and Users.
 
-Your privacy is important to us. To better protect your privacy, we provide this notice describing our collection, use and disclosure of information, including personal information, that may be collected in connection with our Service. If you subscribe to our Service, this policy is incorporated and subject to our Terms of Service [http://www.mightycall.com/terms.html](https://www.mightycall.com/terms.html).
+All uses of Infratel’s services, as well as visits to our websites, are subject to this Privacy Policy. This Policy applies to all Customers and Users. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your personally identifiable information.
 
-**Personal Information**
+Information that you provide to non-Infratel companies is not covered by this Policy and Infratel shall have no responsibility for protecting any such information divulged by Customer/User to a non- Infratel company.
 
-When we discuss “personal information” in this policy, we are referring to information that may be used to identify an individual, such as a person’s name, address, email address, telephone number, or credit card. We collect personal information in the course of providing our Service to you and you may also make personal information available to others as you use our Service. Below are some examples of the types of personal information we collect through the Service and the ways in which we use it.
+## What We Collect
 
-**How We Collect Personal Information**
+We collect a variety of personally identifiable information (also referred to as “personal information”) about Customers and Users in order to ensure an enjoyable user experience and seamless communications.
 
-We collect personal information in the course of providing our Service to you, including through your voluntary, optional submissions, such as information that you provide to us at the time of registering for our Service, or through your use of our Service. When you register with us for an account, we may collect information such as your name, company name, business title, address, email address, and phone numbers. When you pay for certain features of the Service, we may collect information such as your credit or debit card number, expiration date, and CVV or security code number. You may also provide personal information to us in other ways, such as by requesting customer support or product information.
+As used in this Policy, the terms listed below have the following meanings:  
+**Customer**  — A “Customer” is anyone who uses Infratel services. When a Customer subscribing, purchasing services for use by others, those individuals also may be considered Customers for purposes of this Policy.
 
-We may also receive personal information from third parties about their users, and may combine this information with other personal information we maintain about you. If we do so, this policy also governs the combined information.
+**User** A “User” is anyone who visits our websites.
 
-**How We Use Personal Information**
+**Personal Information**  — “ “Personal Information” is information that directly identifies or reasonably can be used to identify an individual Customer or User. Examples include name, address, telephone number, e-mail address, ID, credit card number (Visa, MasterCard, or American Express) and/or PayPal account.
 
-We use personal information we collect to provide, improve, and develop our Service, to tailor your user experience, to respond to your inquiries or requests, to prevent or investigate fraudulent or inappropriate usage of our Service, for research and development, to analyze trends, and for the other purposes described in this policy.
+**Website**  — “Website” means any page or location on the Internet, no matter what device (cell phone, lap top, PC, etc.) or protocol (http, WAP, ftp or other) is used to access the page or location. In this Policy, we use the term website other similar terms such as “Internet site,” “site,” and “web page.”
 
-If you are a subscriber to a paid portion of the Service, you will receive occasional alerts and email messages to inform you of system status, billing issues, payment processing and other day to day activities necessary to keep you informed about your subscription. In addition, we may use your personal information to deliver targeted marketing messages. You may opt-out from receiving marketing messages by following the instructions provided in the messages or by emailing the address provided at the end of this policy, but you will continue to receive bills, customer service-related alerts and emails.
+To see how we use, disclose, and protect the personal information that we collect, please review the rest of this Policy.
 
-**How We Share Personal Information**
+## How We Use Personal Information
 
-In the course of providing the Service, we may share your personal information with third party service providers such as payment service providers and Service hosters. We may also provide personal information to our subsidiaries, affiliated companies, and other trusted businesses or persons for the purpose of providing our Service and for our other purposes described in this policy. We limit the personal information shared with these third parties to that which is necessary to carry out those functions.
+**Internal Use:** In general, we use personal information to serve our existing and prospective customers and to enhance and extend our customer relationships.
 
-We may also share personal information with third parties (including regulatory or law enforcement authorities) in order to carry out a user’s request or if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others.
-
-**Non-Personal Information We Collect, and How We Use I** t
-
-We may also collect information that is not personally identifiable, and may aggregate personal information or otherwise render it anonymous (that is, non-personally identifiable). We may use non-personally identifiable information we collect to provide, improve, and develop our Service and otherwise to tailor your user experience, to prevent or investigate fraudulent or inappropriate usage of our Service, for research and development, and for the other purposes described in this policy. We may use this anonymous information for various purposes and may share it with third parties. Below are some examples of the types of non-personal information we collect and some specific examples of how we use this information:
-
-Usage tracking. We may collect non-personal information from your use of our Service. For example, we may collect information about user traffic and usage patterns throughout our site, and similar information regarding the use of our Service, as well as review stored voicemails and recorded phone calls. We may also track click-through information, such as IP addresses, from the messages we send to our users. We use the information we collect in these manners to, for example, improve our Service, to develop new products and services, to discourage and address abusive and fraudulent use of our Service, and to help our users with troubleshooting issues.  
+  * We use personal information for billing purposes, to provide services or complete transactions you have requested, to anticipate and resolve problems with your services, to eliminate fraud and to create and inform you of products or services from Infratel.
+  * Subject to your agreement, Infratel uses e-mail, telemarketing and direct mail to inform you about Infratel services we think will interest you. If you do not wish to receive these types of communications you can choose at any time not to continue receiving them by contacting us [support@mightycall.com](mailto:support@mightycall.com).
 
 
-Methods of collection. We collect non-personal information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as “Web beacons”). When you visit our site or use our Service, we may send one or more cookies – a small file containing a string of characters – to your computer, mobile device, tablet, or similar device that uniquely identifies your browser or recognizes a cookie that is already on your device. We use cookies to improve the quality of our Service by storing user preferences and tracking user trends, and to customize your experience. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if your cookies are disabled. Also, please be aware that third parties may set cookies on your hard drive or use other means of passively collecting information about your use of their services or content. We do not have access to, or control over, these third-party means of passive data collection.  
-If we directly combine any non-personal information gathered through passive means with personal information, we treat the combined information as personal information under this policy. Otherwise, we use information collected by passive means in aggregated or other non-personally identifiable forms.
 
-**International Visitors**
+Despite you may choose not to receive marketing information from us, you will continue to receive invoices, customer service-related notifications and other information, related to each service you purchase or subscribe to, from us electronically or otherwise.
 
-Users from outside the United States should be aware that they are submitting their information to servers within the United States and that they may not be entitled to protections and remedies provided under laws of their places of residence. By providing personal information to us, you consent to the transfer of it to the United States and the use of it in accordance with this policy.
+**Customer Surveys** : Periodically, you may be able to participate in our surveys to help us improve our services. Any personal information collected from you in a survey will ONLY be used internally by Infratel and in accordance with this Policy.
 
-**Our Commitment to Data Security**
+## Disclosure of Personal Information
 
-In an effort to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we or our third party service providers have put in place physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Please be aware, however, that no data transmissions over the Internet or other networks can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security or integrity of any information you transmit to us. You transmit information to us at your own risk. Once we receive personal information, we make reasonable efforts to protect it from unauthorized access, disclosure, alteration, or destruction. But we cannot represent or guarantee that personal information will not be accessed, disclosed, altered, or destroyed. We do require that all subscribers to paid portions of our Service maintain a personal user id and password. At no time may user ids and passwords be shared among multiple people.
+We do not sell your personal information to anyone for any purpose, and we maintain information about you in our business records while you are a customer, or until it is no longer needed for business, tax, or legal purposes.
 
-If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice through the Service if a security breach occurs. If this happens, you will need a web browser enabling you to access the Service. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+Infratel may disclose your personal information if you consent to the disclosure in advance. Depending on the service, we may obtain your consent in writing or verbally.
 
-**Children’s Privacy**
+Infratel reserves the right to release personal information without your consent when we believe release is appropriate to do one of the following:
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13 years of age, and no part of our website is structured to attract anyone under 13. Children under 13 are not authorized to create accounts on Infratel.com or otherwise use the Service.
+  * Comply with the law (e.g., lawful subpoena or court order);
+  * Enforce or apply our agreements to sell or provide services to you;
+  * Bill and collect for services; or
+  * Protect out rights or property (e.g., to address allegations about fraudulent or unlawful activity on an Infratel account).
 
-**Third-Party Sites and Services**
 
-Our Service may contain links to and interoperate with third-party sites and services. Any links to or interoperability with third-party sites or services are provided for your convenience only, and we do not have control over the content or privacy and security practices and policies of such third parties. Any personal information that you provide to any other third party is subject to that third party’s privacy practices and policies, not this policy. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
 
-**Business transfers**
+We may share your personal data between our Infratel group companies and business affiliates where it is necessary to perform the services provided to you.
 
-Information about our users, including personal information, may be disclosed as part of any merger, acquisition, or sale of company assets, as well as in the unlikely event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of our business assets.
+In order to verify payment methods and prevent fraud, Infratel verifies personal information, including payment information, with payment providers and fraud prevention services. If at any time you apply for a credit with us, we may perform a credit inquiry with credit reporting agencies, and such inquiry may be noted on your credit record. We may use automated decision making systems to verify payment methods, assess creditworthiness, or prevent fraud, and we may contact you requesting additional information when needed.
 
-**Information Retention and Disposal**
+We may share your personal information with Third Parties only as necessary to complete a transaction or perform a service that you have requested, or to support the technical operation and maintenance of our services and of our website. We require those Third Parties to protect any personal information they may receive in a manner consistent with this Policy.
 
-We may retain personal information for as long as we have a business need for it or as applicable laws or regulations or government orders require us to retain it.
+We do not provide personal information to Third Parties for the marketing of their own products and services without your consent.
 
-**How You Can Access Or Correct Your Information**
+## Customer Proprietary Network Information (CPNI)
 
-If your personal information changes in any way, we invite you to correct or update your information as soon as possible. You can make updates to your profile information by logging into your account on infratel.com at any time. You can also request changes or access to your information by emailing cloudsupport@infratel.com. We will only discuss account specifics with the owner of the account.
+Infratel collects and maintains certain customer proprietary network information (“CPNI”) while providing telecommunications and interconnected voice-over- Internet-protocol (“interconnected VoIP”) services to its users and customers. Your CPNI includes the types of telecommunications and interconnected VoIP services you currently purchase or subscribe to, how you use those services (for example, your calling records), and billing information related to those services. Your Infratel telephone number, name and address do not constitute CPNI.
 
-**Changes to this Privacy Policy**
+Infratel does not sell, trade or otherwise share your CPNI with anyone outside of Infratel or with anyone who is not authorized to represent us to offer our services or to perform functions on our behalf, except as the law may require or you may authorize.
 
-We may change this policy from time to time. If we make any changes to this policy, we will change the “last updated” date above. If there are material changes to this policy, we will notify you more directly. We encourage you to check this policy whenever you use our Web sites and services to understand how your personal information is used.
+We may use or disclose your CPNI for legal or regulatory reasons such as to respond to a court order, to investigate fraud, to protect our rights or property, to protect against the unlawful use of our services, or to protect other users. You have a right and we have a duty under federal law to protect the confidentiality of your CPNI.
 
-**Contacting Us**
+## Use of Cookies
 
-If you have questions about this privacy policy, please send written correspondence to:
+Infratel uses “cookies” to enhance your use of our website. “Cookies” are small text files placed on your computer’s hard drive by a website when you visit that website. These files identify your computer and record your preferences and other data about your visit to a website so that when you return to that site, the site operator knows who you are and can personalize your visit. For example, cookies enable a website shopping cart to function so that you only have to check out once. Consequently, cookies are often tied to the use of personally identifiable information while using our website. If you choose not to accept the use of cookies, your use of our website may be impaired.
 
-C/O Privacy Concerns for MightyCall.com  
-Infratel Inc.  
-1424 4th Ave  
-Suite 900  
-Seattle, WA 98101  
-cloudsupport at infratel dot com
+Cookies allow us to do the following:
+
+  * Complete transactions you have requested;
+  * Collect information to determine which services and sections of our website are most and least popular;
+  * Personalize our website and make recommendations to you based on services you have used in the past; and
+  * Improve the ease of use of our website, sometimes in conjunction with web beacons.
+
+
+
+We do not use cookies to store credit card information. Infratel does, however, use cookies to store login information for customers who choose the option of storing such information on their computers.
+
+We also use a session-based cookie to maintain continuity of navigation for you when viewing our website during a particular on-line session. After closing the browser, the session cookie simply terminates; it is not stored on your computer’s hard drive thereafter.
+
+## Referral Programs
+
+If you choose to use our referral programs to refer someone to our site, we will ask you for the intended recipient’s name, email address, and phone number. Infratel will store and use this information to send emails inviting him or her to visit the site. Infratel stores this information for the sole purpose of sending the emails and tracking the success of our referral program. Your referral may contact us here to request that we remove this information from our database.
+
+Infratel reserves the right to revise or update this Policy if our practices change or as we change existing services, add new services or develop better ways to inform you of services we think will interest you, in our sole discretion. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our website.
+
+## Contacting Us
+
+If you have any questions, comments or concerns about this Policy, you may contact us at:
+
+Infratel US, Inc.  
+2105 5th Ave # 2009  
+Seattle, WA 98121  
+email: [support@mightycall.com](mailto:support@mightycall.com)
