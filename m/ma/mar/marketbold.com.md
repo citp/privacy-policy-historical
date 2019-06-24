@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketbold.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114164318id_/http%3A//marketbold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketbold.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190958id_/https%3A//marketbold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MarketBold.com™
 
@@ -73,7 +73,7 @@ Under California Law SB 27, California residents have the right to receive, once
 year, information about third parties with whom we have shared information about you  
 or your family for their marketing purposes during the previous calendar year, if any, and a  
 description of the categories of personal information shared. To make such a request,  
-please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and please include the phrase  
+please send an email to privacy@marketbold.com and please include the phrase  
 “California Privacy Request” in the subject line, the domain name of the Web site you are inquiring about, along with your name,  address and email address. We will respond to you within thirty days of receiving  such a request.
 
 “Cookies” and How Our Company Uses Them. A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
