@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the lyricsfreak.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109003737id_/https%3A//www.lyricsfreak.com/about/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsfreak.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624221306id_/https%3A//www.lyricsfreak.com/about/privacy_policy.htm) for the most accurate reproduction.*
 
-# LyricsFreak - (A-Z Song Lyrics)
-
-## Privacy Policy
-
-  
-
+# Privacy policy | LyricsFreak
 
 _**Effective as of July 20, 2018**_
 
@@ -16,9 +11,6 @@ We at LyricsFreak respect the privacy concerns of the users of this Service and 
 **Principles for Processing Personal Information**
 
 We respect your privacy and are committed to protecting your personal information in compliance with applicable legislation. This compliance is consistent with our desire to keep you informed and to recognize and respect your privacy rights. We agree to observe the following principles when processing personal information:
-
-  
-
 
   * Data will be processed fairly and in accordance with applicable law. 
   * Data will be collected for specified, legitimate purposes and not processed further in ways incompatible with those purposes. 
