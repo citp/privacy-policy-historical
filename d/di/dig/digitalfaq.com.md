@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalfaq.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703112201id_/http%3A//www.digitalfaq.com/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalfaq.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624031707id_/http%3A//www.digitalfaq.com/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy – The Digital FAQ
 
