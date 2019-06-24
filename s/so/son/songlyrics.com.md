@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songlyrics.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029014129id_/http%3A//www.songlyrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songlyrics.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190042id_/http%3A//www.songlyrics.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Collection of Song Lyrics at SongLyrics.com
 
