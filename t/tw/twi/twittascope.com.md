@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the twittascope.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822071535id_/https%3A//www.tarot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittascope.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624224535id_/https%3A//www.tarot.com/privacy-policy) for the most accurate reproduction.*
 
 # Tarot.com's Privacy Policy
+
+Jan 2, 2019 [ ](https://web.archive.org/bios/tarot.com-staff "Tarot.com Staff")
 
 Effective January 17, 2017; Last Updated: July 17, 2018
 
@@ -8,17 +10,17 @@ Tarot.com may gather information for the following reasons:
 
 ### Introduction
 
-This Privacy Statement applies to the websites owned and operated by Daily Insight Group, a subsidiary of Zappallas, Inc., ("Daily Insight", "we", "our", or "us"), including [Tarot.com](https://web.archive.org/), [Numerology.com](https://www.numerology.com/), [Dailyhoroscope.com](https://www.dailyhoroscope.com/), [Twittascope.com](https://www.twittascope.com/) and [Dailyinsightgroup.com](https://www.dailyinsightgroup.com/). This Privacy Statement not only applies to our websites but also Daily Insight’s applications and services that collect personal data and display these terms (collectively the "Platforms"). This Privacy Statement does not apply to any Daily Insight Platforms that do not display or link to this statement or that contains its own privacy statement.
+This Privacy Statement applies to the websites owned and operated by Zappallas, Inc., ("Zappallas", "we", "our", or "us"), including [Tarot.com](https://web.archive.org/), [Numerology.com](https://www.numerology.com/), [Dailyhoroscope.com](https://www.dailyhoroscope.com/), [Twittascope.com](https://www.twittascope.com/) and [Zappallas](https://www.zappallas-usa.com/). This Privacy Statement not only applies to our websites but also Zappallas' applications and services that collect personal data and display these terms (collectively the "Platforms"). This Privacy Statement does not apply to any Zappallas Platforms that do not display or link to this statement or that contains its own privacy statement.
 
-Daily Insight is committed to protecting your privacy in a number of ways including using industry accepted security measures to protect against loss, misuse and alteration of data in our systems. This statement is designed to describe how we secure and maintain your personal data when you visit our Platforms or when your personal data is collected during your use of the Platforms. Rest assured, your personal data will never be sold, rented, traded, shared or leased other than as outlined in this Privacy Statement. 
+Zappallas is committed to protecting your privacy in a number of ways including using industry accepted security measures to protect against loss, misuse and alteration of data in our systems. This statement is designed to describe how we secure and maintain your personal data when you visit our Platforms or when your personal data is collected during your use of the Platforms. Rest assured, your personal data will never be sold, rented, traded, shared or leased other than as outlined in this Privacy Statement. 
 
-Daily Insight does not publish text, images, or multimedia content that portray nudity, foul language, violence or other data not suitable for children. Our Platforms are not directed to children under the age of 13. Where we discover that personal information of an individual under 13 has been provided to us, we will use reasonable efforts to remove such information from our systems. 13. We are committed to complying with applicable privacy laws and adhering to appropriate measures to ensure security of personal data.
+Zappallas does not publish text, images, or multimedia content that portray nudity, foul language, violence or other data not suitable for children. Our Platforms are not directed to children under the age of 13. Where we discover that personal information of an individual under 13 has been provided to us, we will use reasonable efforts to remove such information from our systems. 13. We are committed to complying with applicable privacy laws and adhering to appropriate measures to ensure security of personal data. 
 
 ### Collection And Use Of Data
 
 **_Data Collection From You_**
 
-**Data You Provide Us.** We collect data directly from you when you register for our Platforms, personalize your account or pay for services or products through our Platforms. For instance, when you create an account with us you may be required to provide a name, email address and birthdate in order for us to provide you with products and services through our Platforms. In addition, to provide you with a more individualized experience, like a personalized horoscope, astrology, tarot or numerology report, you may wish to provide your birth location, zip code, astrological sign, gender, and other related data. Where you choose to purchase products or services, including Karma Coins® tokens, gift certificates and expert readings, we will collect credit card (and PayPal) data such as credit card numbers, expiration date and billing address, but this data is sent directly to our payment processors and is never stored or otherwise retained by Daily Insight.
+**Data You Provide Us.** We collect data directly from you when you register for our Platforms, personalize your account or pay for services or products through our Platforms. For instance, when you create an account with us you may be required to provide a name, email address and birthdate in order for us to provide you with products and services through our Platforms. In addition, to provide you with a more individualized experience, like a personalized horoscope, astrology, tarot or numerology report, you may wish to provide your birth location, zip code, astrological sign, gender, and other related data. Where you choose to purchase products or services, including Karma Coins® tokens, gift certificates and expert readings, we will collect credit card (and PayPal) data such as credit card numbers, expiration date and billing address, but this data is sent directly to our payment processors and is never stored or otherwise retained by Zappallas.
 
 **Data We Automatically Collect.** When you interact with our Platforms we may collect data about you through automated means such as your mobile phone number, unique device ID, device type, machine ID, geolocation data, computer and connection data, browser type, IP address, domain name, and date and time stamps for your visits. We may also collect data associated with your use of our Platforms, including data about the way you interact with our Platforms or any content or advertising included on our Platforms, your page views and traffic to and from our Platforms, hyperlinks clicked, and the URL you visited before and after you use the Platforms. As is the case with most websites, we also employ cookies, pixel tags, web beacons, and similar technologies within our Platforms to collect and store certain data about users, to improve our Platforms and advertising, and to help us remember you and your preferences when you revisit our Platforms. Please see our [Cookie Policy](https://web.archive.org/cookie-policy) for more information about what we automatically collect from you.
 
@@ -48,7 +50,7 @@ Where we want to share data with third parties not described above, we will obta
 
 **_How We Store And Secure Your Data_**
 
-Daily Insight will take appropriate precautions to protect personal data in our possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. We are committed to complying with applicable privacy laws and adhering to appropriate measures to ensure security of personal data. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security.
+Zappallas will take appropriate precautions to protect personal data in our possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. We are committed to complying with applicable privacy laws and adhering to appropriate measures to ensure security of personal data. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security.
 
 **_Updating Or Making Choices About Your Data_**
 
@@ -104,7 +106,7 @@ Any updates or changes to this Privacy Statement will be posted to this Privacy 
 
 If you have any questions or concerns regarding this Privacy Statement, please contact us at: 
 
-Daily Insight Group  
+Zappallas, Inc.  
 7412 SW Beaverton Hillsdale Hwy, Suite 102  
 Portland, Oregon 97225  
 [Email Us](mailto:support@tarot.com)
