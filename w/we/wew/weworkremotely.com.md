@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weworkremotely.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901050910id_/https%3A//weworkremotely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weworkremotely.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624195725id_/https%3A//weworkremotely.com/privacy) for the most accurate reproduction.*
 
 # We Work Remotely | Privacy
 
-#####  **Updated May 25, 2018**
+##### **Updated May 25, 2018**
 
 #####  **Overview**
 
@@ -40,7 +40,7 @@ We may also use your personal information to generate Aggregated Data for intern
 
 **Links**
 
-**Cookies and Log Files**
+ **Cookies and Log Files**
 
 We use cookies and log files to track user information. Cookies are small amounts of data that are transferred to your web browser by a web server and are stored on your computer’s hard drive. We use cookies to track which page variant a visitor has seen, to track if a visitor has clicked on a page variant, to monitor traffic patterns and to gauge popularity of service options. We will use this information to deliver relevant content and services to you. 
 
