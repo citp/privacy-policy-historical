@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mywebgrocer.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226032450id_/https%3A//mi9retail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywebgrocer.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624185725id_/https%3A//mi9retail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mi9 Retail
 
-**Last updated on December 4, 2018.**
+**Last updated on June 20, 2019.**
 
-Your privacy is important to Mi9 Retail, Inc. and our subsidiaries and affiliates (“Mi9 Retail,” “Publisher,” “us,” “our,” or “we”).  We respect your preferences concerning the treatment of any personal information that we may collect. This policy explains how we collect and use your Personal Information, how you can control its use, and it describes our practices regarding information collected from Mi9 Retail sites that link or refer to this policy (such as our websites, software applications, social media pages, and HTML-formatted e-mail messages), as well as through offline sales and marketing activities (collectively, the “Content”).
+Your privacy is important to Mi9 Retail, Inc. and our subsidiaries and affiliates (“Mi9 Retail,” “Publisher,” “us,” “our,” or “we”).  We respect your preferences concerning the treatment of any Personal Information that we may collect. This policy explains how we collect and use your Personal Information, how you can control its use, and it describes our practices regarding information collected from Mi9 Retail sites that link or refer to this policy (such as our websites, software applications, social media pages, and HTML-formatted e-mail messages), as well as through offline sales and marketing activities (collectively, the “Content”). We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
 Mi9 Retail respects the rights and data protection of personal Users (hereinafter, the “User,” “you,” or “your”) of this website, mi9retail.com (hereinafter, the “Site”), and associated software applications. This Privacy Policy (“Policy”) explains how:
 
@@ -51,11 +51,13 @@ Statistical or aggregated information does not directly identify a specific pers
 
 **EU-U.S. Privacy Shield**
 
-Mi9 Retail and its affiliated companies, Software Development, Inc. and JustEnough Software Corporation, Inc., comply with the EU-U.S. Privacy Shield Framework, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Mi9 Retail has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  The certification can be found at https://www.privacyshield.gov/list.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, please visit https://www.privacyshield.gov/.
+Mi9 Retail complies with the EU-U.S. Privacy Shield Framework, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Mi9 Retail has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  The certification can be found at https://www.privacyshield.gov/list.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, please visit https://www.privacyshield.gov/.
 
 Mi9 Retail sometimes provides personal information to third parties to perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party, the third party’s access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage.
 
 In compliance with the Privacy Shield Principles, Mi9 Retail commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should contact us at info@mi9retail.com. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means.
+
+Mi9 Retail has further committed to cooperating with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.  EU Persons may have the option to select binding arbitration under the Privacy Shield Panel for the resolution of your complaint under certain circumstances. For further information, please see the Privacy Shield website. To learn more about the Privacy Shield Framework at https://www.privacyshield.gov.
 
 Mi9 Retail is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -127,6 +129,14 @@ Nevertheless, the personal User data will be archived beyond the durations provi
 
 Information collected through cookies are preserved for a maximum of 13 months from the first deposit in the equipment of the User’s device, following the acceptance of the User.
 
+**Notice regarding children’s privacy (Users under the age of 13)**
+
+In response to concerns about protecting children’s privacy online, Congress enacted the Children’s Online Privacy Protection Act of 1998 (“COPPA”), which sets forth rules and procedures governing the ways in which websites may collect, use and disclose any personal information for children under the age of 13. In accordance with COPPA regulations, we do not (1) request or knowingly collect personally identifiable information or contact information, online or offline, from users under 13 years of age; or (2) knowingly use or share personal information from users under 13 years of age with third parties.
+
+It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers.
+
+Questions regarding children’s privacy should be directed to us at the contact information provided below.
+
 **Sensitive Information**
 
 We ask that you not send us, and that you do not share, any sensitive personal information, such as Social Security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership.
@@ -148,5 +158,3 @@ Any concern that cannot be resolved through our internal processes will be settl
 **Changes to this Statement**
 
 The Policy can be modified at any time by Mi9 Retail in order to comply with all developments – regulatory, jurisprudential, editorial, or country-specific requirements in which the Site is accessible. If we change this statement, we will post the revised statement here, along with the date of revision. If we make significant changes to the statement, we may also post a notice on our home page.  Any changes will apply only from date of the revision.  Amended dispute resolution provisions will not apply to any dispute of which the parties had actual notice as of the date of the amendment.
-
-[_MWG Privacy Policy_](https://mi9retail.com/mwg-privacy-policy/)          [_MWG Terms of Use_](https://mi9retail.com/mwg-terms-of-use/)
