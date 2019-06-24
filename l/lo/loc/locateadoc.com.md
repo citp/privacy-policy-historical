@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105192447id_/http%3A//www.locateadoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624234903id_/http%3A//www.locateadoc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – LocateADoc
 
