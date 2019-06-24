@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rchobbyexplosion.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904135052id_/http%3A//www.rchobbyexplosion.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rchobbyexplosion.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624230705id_/https%3A//www.rchobbyexplosion.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # These are the Terms of the RC Hobby Explosion Privacy Policy.
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20180904135052id_/http%3A//www.rchobbyexplosion.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20190624230705id_/https%3A//www.rchobbyexplosion.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
