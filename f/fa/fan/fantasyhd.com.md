@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fantasyhd.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221232800id_/http%3A//fantasyhd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyhd.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624222806id_/https%3A//fantasyhd.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-**This Privacy Policy (the “Policy”) applies to all of the Whale Member (“Service Provider”) family of websites (the “Sites”), including this site, as well as any other Sites at which this Policy appears and which are owned/controlled by the Service Provider. This Policy describes how Service Provider uses information it obtains about its users when they visit one of the Sites and is inapplicable to information obtained about you through other channels. Please review this Policy carefully. If you have any questions about this Policy, please email cvv@cvvhelp.net.**
+This Privacy Policy (the “Policy”) applies to all of the Whale Member (“Service Provider”) family of websites (the “Sites”), including this site, as well as any other Sites at which this Policy appears and which are owned/controlled by the Service Provider. This Policy describes how Service Provider uses information it obtains about its users when they visit one of the Sites and is inapplicable to information obtained about you through other channels. Please review this Policy carefully. If you have any questions about this Policy, please email cvv@cvvhelp.net.
 
 ### 1\. Revisions.
 
@@ -32,9 +32,9 @@ The primary use of information collected by Service Provider is to provide you a
  **b. Operation.** Service Provider may share your information if it becomes necessary to operate one or more of the Sites properly. This may include sharing information with a third-party vendor to collect fees or other monies owed by you. Service Provider may also share your information to prevent, detect, or resolve issue of fraud or security.  
  **c. Legal** Service Provider may use your information for legal purposes.  
 i. For example, your information may assist Service Provider in ensuring that you are in compliance with the Terms of Use, including our intellectual property policies and the requirement that you not share your password with third parties. It may also be used as necessary to bring legal action against you in the event that you materially breach Service Provider’s Terms of Use.  
-ii. Service Provider may also share your information with law enforcement to assist in any criminal investigations against you or to comply with any laws or regulations.   
+ii. Service Provider may also share your information with law enforcement to assist in any criminal investigations against you or to comply with any laws or regulations.  
 iii. Service Provider may share your information with a debt collector or legal counsel to collect any fees or other monies owed by you or to otherwise enforce the Terms of Use.  
-iv. In some cases, Service Provider may be subpoenaed to provide your information in a civil or criminal matter. Service provider reserves the right to respond to a subpoena without the necessity of informing you, but Service Provider may provide you with an opportunity to seek to quash the subpoena before responding, in service provider’s sole discretion. 
+iv. In some cases, Service Provider may be subpoenaed to provide your information in a civil or criminal matter. Service provider reserves the right to respond to a subpoena without the necessity of informing you, but Service Provider may provide you with an opportunity to seek to quash the subpoena before responding, in service provider’s sole discretion.
 
 ### 5\. Data Security
 
@@ -42,5 +42,9 @@ Service Provider takes reasonable efforts to ensure that sensitive or personally
 
 ### 6\. Emails
 
-a. Emails from Service Provider. When you sign up for one or more of the Sites, you provide Service Provider with an accurate email address. Service Provider maintains a member directory so that it may email you from time-to-time. These emails may concern matters Service Provider thinks you may find interesting, including but not limited to new Sites, programs, and services. Emails from Service Provider and its affiliates are not SPAM, as you have a business relationship with Service Provider as soon as you join one or   
+a. Emails from Service Provider. When you sign up for one or more of the Sites, you provide Service Provider with an accurate email address. Service Provider maintains a member directory so that it may email you from time-to-time. These emails may concern matters Service Provider thinks you may find interesting, including but not limited to new Sites, programs, and services. Emails from Service Provider and its affiliates are not SPAM, as you have a business relationship with Service Provider as soon as you join one or more of the Sites, and you agree they should not otherwise be deemed as unsolicited.  
 b. Emails to Service Provider. If you contact Service Provider via email or via any link on one of the Sites, you should be aware that the information you transmit should not be considered private or secure. Please do not transmit any information you would not want to become public.
+
+### 7\. CONTACT US, QUESTIONS, UPDATING YOUR INFO, OPTING OUT
+
+If you would like to update your information, please e-mail us. From time to time, we may email you with special offers with your consent; you may opt-out of those offers through the email or by contacting us as noted below. If you otherwise would like to contact us for a privacy-related matter, please use the following e-mail address: cvv@cvvhelp.net
