@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dribbble.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231110954id_/https%3A//dribbble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dribbble.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624110240id_/https%3A//dribbble.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dribbble
 
@@ -6,7 +6,7 @@
 
 ### Overview
 
-Dribbble Holdings Ltd. (“ **Dribbble** ”, “ **we** ”, “ **us** ” or “ **our** ”) is committed to protecting the privacy of personal information (i.e. any information relating to an identified or identifiable natural person) who visit the https://dribble.com website and Dribble mobile software application (collectively, the “ **Site** ”) and use the services available thereon (the “ **Services** ”). Amendments to this Privacy Policy will be posted to the Site and/or Services and will be effective when posted. Your continued use of the Site and/or Services following the posting of any amendment to this Privacy Policy shall constitute your acceptance of such amendment.
+Dribbble Holdings Ltd. (“ **Dribbble** ”, “ **we** ”, “ **us** ” or “ **our** ”) is committed to protecting the privacy of personal information (i.e. any information relating to an identified or identifiable natural person) who visit the https://dribbble.com website and Dribbble mobile software application (collectively, the “ **Site** ”) and use the services available thereon (the “ **Services** ”). Amendments to this Privacy Policy will be posted to the Site and/or Services and will be effective when posted. Your continued use of the Site and/or Services following the posting of any amendment to this Privacy Policy shall constitute your acceptance of such amendment.
 
 ### Consent and Information Collection and Use
 
