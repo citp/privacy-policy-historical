@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the bu.edu privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220194629id_/http%3A//www.bu.edu/policies/digital-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bu.edu privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624144810id_/http%3A//www.bu.edu/policies/digital-privacy-statement) for the most accurate reproduction.*
 
 # Digital Privacy Statement | Policies
 
-Responsible Office: [Information Services and Technology](http://www.bu.edu/tech/about/help-center/ "Contact IS&T Help Center")Effective Date: September 2017  
-
-
-Updated August 2018
+* * *
 
 This Digital Privacy Statement explains information gathering and use practices for websites on the domain,  _[www.bu.edu](http://www.bu.edu/),_ and Boston University’s other digital properties, such as BU mobile applications (each a “Site” and, collectively, the “Sites”).  The Sites are controlled by Trustees of Boston University (the “University”).  The University is committed to the online privacy of its visitors to and users of the Sites.
 
@@ -42,8 +39,6 @@ When a Visitor visits a Site or requests access to a protected portion of the Si
 
 In addition, the University uses cookies, which are text files placed on Visitor devices to evaluate usage patterns, so that the University can improve both content and distribution.  The information can also be used to establish continuity between requests, to personalize a site to a Visitor’s preferences, to authenticate a Visitor’s log-in, to analyze web traffic, to monitor and ensure the security of the network, and to help diagnose problems with the University’s servers.  Visitors may refuse the use of cookies by selecting the appropriate settings on their browsers; however if the settings are adjusted, a Visitor may not be able to use the full functionality of the Sites.
 
-###### **Back to top**
-
 #### **Functional cookies**
 
 Visitors are sometimes requested to sign-up or log-in in order to use some of our online services.
@@ -60,11 +55,9 @@ Google may also transfer this information to third parties where required to do 
 
 By using the Sites, each Visitor consents to Google processing of data about the Visitor in the manner and for the purposes set out above.  Please visit the following pages for more information about  _[Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html)_  and  _[Google’s Privacy Practices](https://www.google.com/policies/privacy/)_.
 
-###### **Back to top**
-
 ### **Information Security**
 
-The University has implemented reasonable physical, technical, and administrative procedures to safeguard and secure information it collects online against unauthorized disclosure, loss, or misuse, in accordance with the  _[Data Protection Standards Policy](http://www.bu.edu/policies/information-security-home/data-protection-standards/data-protection-requirements/)_.  Under that Policy, the University has classified data according to its sensitivity, and set requirements for protection accordingly.
+The University has implemented reasonable physical, technical, and administrative procedures to safeguard and secure information it collects online against unauthorized disclosure, loss, or misuse, in accordance with the  _[Data Protection Standards Policy](http://www.bu.edu/policies/data-protection-standards/)_.  Under that Policy, the University has classified data according to its sensitivity, and set requirements for protection accordingly.
 
 The University cannot provide an absolute guarantee as to the security of any information transmitted through its website or digital properties.
 
@@ -82,8 +75,6 @@ The information collected through the Sites is retained in accordance with the U
 
 The Sites may link to or embed content from websites that are not controlled by the University (“Third Party Sites”).  The University is not responsible for the privacy practices or content of Third Party Sites.
 
-###### **Back to top**
-
 ### **Children’s Privacy**
 
 The Sites’ content is not intended to attract children under 13 years of age and the University will not knowingly collect personal information from children under 13 years of age.  If a Visitor is under 13 years of age, the Visitor should not use the Sites.
@@ -94,11 +85,10 @@ The University assumes that all Visitors to the Sites have reviewed the Digital 
 
 ### **Changes to this Digital Privacy Statement**
 
-The University may modify this Digital Privacy Statement.  All changes will be made directly to this webpage and will be effective on the date posted.
+The University may modify this Digital Privacy Statement.  All changes will be made directly to this web page and will be effective on the date posted.
 
 ### **How to Contact Us**
 
 Questions about this Statement should be directed to Information Security, [buinfosec@bu.edu](mailto:buinfosec@bu.edu).
 
-###### **  
-Back to top**
+* * *
