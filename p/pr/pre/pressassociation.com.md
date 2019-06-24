@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pressassociation.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231221939id_/https%3A//www.pressassociation.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressassociation.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624082814id_/https%3A//www.pressassociation.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PA
+# Privacy Policy for PA and PA Group Websites - Data Protection
 
 **Introduction**
 
