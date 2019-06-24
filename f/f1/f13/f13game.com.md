@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f13game.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222071747id_/http%3A//www.f13game.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f13game.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624182406id_/http%3A//f13game.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Friday the 13th the Game
 
