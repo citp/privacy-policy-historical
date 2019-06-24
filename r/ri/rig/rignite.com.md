@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the rignite.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022850id_/http%3A//www.rignite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rignite.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624232818id_/http%3A//www.rignite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | @RigniteInc
 
-This Privacy Policy is incorporated by reference into the Rignite [Terms of Use](http://www.rignite.com/terms-of-use/ "Terms of Use"), available at http://www.rignite.com/terms. The term “ **Rignite** ,” “ **we** ,” and “ **us** ” includes Rignite Inc. and our affiliates and subsidiaries. The Privacy Policy explains how Rignite may:
+[HEADING heading=”h1″ highlight_words=”Policy” color=”orange”]Privacy Policy[/HEADING]
+
+This Privacy Policy is incorporated by reference into the Rignite [Terms of Use](http://www.rignite.com/terms-of-use/ "Terms of Use"), available at http://www.rignite.com/terms. The term “ **Rignite** ,” “ **we** ,” and “ **us** ” includes Rignite and our affiliates and subsidiaries. The Privacy Policy explains how Rignite may:
 
   * collect,
   * use, and
@@ -128,7 +130,7 @@ New Uses of Personal Information. From time to time, we may desire to use Person
 
 **Contact Information**
 
-Rignite Inc.  
+Rignite  
 444 Castro Street, Suite 710  
 Mountain View, CA 94041  
 Email: [support@rignite.com](mailto:support@rignite.com)
