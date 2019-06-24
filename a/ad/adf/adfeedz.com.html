@@ -1,0 +1,387 @@
+<!--The following is the downloaded HTML source of the adfeedz.com privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624124612id_/http%3A//www.adfeedz.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/Product"><head>
+
+<title>
+    AdFeedz-Earn Cash While You Get Website Traffic. | 
+  </title>
+
+
+
+<meta name="description" content="AdFeedz is a professional promotion system designed to increase your sales, get more leads and sign-ups, and provide you with additional income streams. Our compensation plan is a foolproof, unique, never seen before system paying out up to 90% commission!">
+<meta name="keywords" content="AdFeedz, addeedz">
+
+<meta itemprop="name" content="AdFeedz-Earn Cash While You Get Website Traffic. | Privacy Policy">
+<meta itemprop="description" content="AdFeedz is a professional promotion system designed to increase your sales, get more leads and sign-ups, and provide you with additional income streams. Our compensation plan is a foolproof, unique, never seen before system paying out up to 90% commission!">
+<meta itemprop="image" content="https://www.adfeedz.com/images/logo.png">
+
+<meta name="twitter:title" content="AdFeedz-Earn Cash While You Get Website Traffic. | Privacy Policy">
+<meta name="twitter:description" content="AdFeedz is a professional promotion system designed to increase your sales, get more leads and sign-ups, and provide you with additional income streams. Our compensation plan is a foolproof, unique, never seen before system paying out up to 90% commission!">
+<meta name="twitter:image" content="https://www.adfeedz.com/images/logo.png">
+
+<meta property="og:title" content="AdFeedz-Earn Cash While You Get Website Traffic. | Privacy Policy">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.adfeedz.com/privacy">
+<meta property="og:image" content="https://www.adfeedz.com/images/logo.png">
+<meta property="og:description" content="AdFeedz is a professional promotion system designed to increase your sales, get more leads and sign-ups, and provide you with additional income streams. Our compensation plan is a foolproof, unique, never seen before system paying out up to 90% commission!">
+<meta property="og:site_name" content="https://www.adfeedz.com">
+
+
+<link rel="stylesheet" href="/min/production.v1560941971382.min.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/0.10.0/lodash.min.js"></script>
+<script src="/dependencies/sails.io.js" autoconnect="false" environment="production" headers="{ &quot;x-csrf-token&quot;: &quot;mIqsfJW5-BvQhbqyyLnYagFvL_hrwP02JN_c&quot; }"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+<script>
+    var isAuthen = 'false'
+    var socket = io('https://sk.adfeedz.com');
+
+  </script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5c32184904c7730011f60513&amp;product=social-ab" async="async"></script>
+</head>
+<body>
+<div class="csrf" data-csrf-value="mIqsfJW5-BvQhbqyyLnYagFvL_hrwP02JN_c"></div>
+<div class="overlay"></div>
+<nav class="nav">
+<div class="container">
+<div class="leftMenu">
+<a href="/" class="brand">
+<img src="/images/logo.png">
+</a>
+</div>
+<div class="cvmenu">
+<ul class="ptopmenu" style="float:left;">
+<li><a href="/">Home</a></li>
+<li><a href="/feeds">Feeds</a></li>
+<li><a href="/advertise">Advertise</a></li>
+<li><a href="/earnmoney">Affiliate</a></li>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/forum">Forum</a></li>
+<li><a href="/faq">FAQs</a></li>
+<li><a href="/support">Contact</a></li>
+</ul>
+<div class="authbtn">
+<a href="/signin" class="abtn"><span>Sign In</span></a>
+<a href="/signup" class="abtn"><span>Sign Up</span></a>
+</div>
+</div>
+</div>
+</nav>
+<nav class="subnav">
+<div class="container">
+<div class="leftMenu">
+<div class="stime"></div>
+</div>
+<div class="cvmenu">
+<ul class="colist rendernewjoin">
+</ul>
+</div>
+</div>
+</nav>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.20/moment-timezone-with-data-2012-2022.min.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.marquee/1.3.1/jquery.marquee.min.js"></script>
+<script>
+  var closevalidemail = () => {
+    $('.checkOV').hide();
+  }
+
+  var sumbitvalidemail = () => {
+    $('.btnstep1').hide();
+    $('.loadstep1').show();
+
+    var data = {
+      _csrf: $('.csrf').attr('data-csrf-value')
+    }
+
+    $.post('/sumbitvalidemail', data, (res) => {
+      $('.step1').hide();
+
+      if (res.status) {
+        $('.step3').show();
+
+      } else {
+        $('.step2').show();
+      }
+    })
+  }
+
+  var updatenewemail = () => {
+    $('.btnstep2').hide();
+    $('.loadstep2').show();
+
+    var data = {
+      _csrf: $('.csrf').attr('data-csrf-value'),
+      email: $('[name=email]').val(),
+    }
+
+    $.post('/updatenewemail', data, (res) => {
+      if (res.status) {
+        $('.step2').hide();
+        $('.step3').show();
+
+      } else {
+        alertError(res.message);
+        $('.btnstep2').show();
+        $('.loadstep2').hide();
+      }
+    })
+  }
+
+</script>
+<script type="text/javascript">
+  setInterval(() => {
+    var timestamp = Date.now()
+    var c = moment.tz(timestamp, "Europe/London");
+    var stime = c.format('MMM Do YYYY, h:mm:ss a')
+    $('.stime').html(`<i class="fa fa-clock-o" aria-hidden="true"></i>` + stime)
+  }, 1000)
+
+</script>
+<script>
+  $.post('/rendernew', {
+    _csrf: $('.csrf').attr('data-csrf-value')
+  }, (result) => {
+    var arr = [];
+    if (result.length > 0) {
+      result.forEach(i => {
+
+        arr.push(`<li>
+          <div class="cobox">` + i.username + ` <span class="date">` + i.createdAt +
+          `</span></div>
+        </li>`)
+      });
+
+      $('.rendernewjoin').html(arr)
+      $('.rendernewjoin').marquee({
+        duration: 10000,
+        duplicated: true,
+        gap: 00,
+        direction: 'left',
+        pauseOnHover: true
+      });
+    } else {
+      $('.rendernewjoin').html('')
+    }
+  })
+
+</script>
+<div class="gloalcontainer">
+<div class="container">
+<div class="leftMenu">
+<div class="cvfixed">
+<ul class="lmenu">
+<li class="spcial">
+<a href="/">
+<div class="icon">
+<div class="iconbg"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></div>
+</div>
+<div class="fortext">Back To Home</div>
+</a>
+</li>
+</ul>
+<div class="joinnow">
+<a href="/signup"><img src="/images/joinbanner.png"></a>
+</div>
+<div class="myMenuleft" style="margin-top:12px;">
+<div class="menuHead mgt20"><i class="fa fa-info-circle" aria-hidden="true"></i>Site Information</div>
+<ul class="lmenu">
+<li>
+<a href="/faq">
+<div class="icon">
+<div class="iconbg"><i class="fa fa-question-circle-o" aria-hidden="true"></i></div>
+</div>
+<div class="fortext">FAQ</div>
+</a>
+</li>
+<li>
+<a href="/support">
+<div class="icon">
+<div class="iconbg"><i class="fa fa-life-ring" aria-hidden="true"></i></div>
+</div>
+<div class="fortext">Support Center</div>
+</a>
+</li>
+<li>
+<a href="/terms">
+<div class="icon">
+<div class="iconbg"><i class="fa fa-handshake-o" aria-hidden="true"></i></div>
+</div>
+<div class="fortext">Terms of Service</div>
+</a>
+</li>
+<li class="active">
+<a href="/privacy">
+<div class="icon">
+<div class="iconbg"><i class="fa fa-shield" aria-hidden="true"></i></div>
+</div>
+<div class="fortext">Privacy Policy</div>
+</a>
+</li>
+<li class="">
+<a href="/proof">
+<div class="icon">
+<div class="iconbg"><i class="fa fa-certificate" aria-hidden="true"></i></div>
+</div>
+<div class="fortext">Payment Proof</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="maincontent" style="min-height:780px;">
+<div class="contentcard">
+<div class="pagetitle">
+Privacy Policy
+</div>
+<article>
+<h2 class="thin">What information do we collect?</h2>
+<p>We collect information from you when you register on our site, place an order or
+subscribe to our newsletter. When ordering or registering on our site, as appropriate,
+you may be asked to enter your: name, e-mail address, or mailing address.
+</p>
+<h2 class="thin">What do we use your information for?</h2>
+<p>Any of the information we collect from you may be used in one of the following ways:</p>
+<p>To process transactions. Your information, whether public or private, will not be sold,
+exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than
+for the express purpose of delivering the purchased product or service requested.
+</p>
+<p>The email address you provide for order processing, may be used to send you information and updates pertaining
+to your order, in addition to receiving occasional company news, updates, related product or service information,
+etc.</p>
+<h2 class="thin">How do we protect your information?</h2>
+<p>We implement a variety of security measures to maintain the safety of your personal information when you place
+an order or enter, submit, or access your personal information. We save file at the secure place with prevention
+from person and bots.</p>
+<h2 class="thin">Do we disclose any information to outside parties?</h2>
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally
+identifiable information. We may release your information when we believe release
+is appropriate to comply with the law, enforce our site policies, or protect ours
+or others rights, property, or safety. However, non-personally identifiable visitor
+information maybe provided to other parties for marketing, advertising, or other uses.
+</p>
+<h2 class="thin">Do we use cookies?</h2>
+<p>Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through
+your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and
+capture and remember certain information.</p>
+<p>We use cookies to keep track of advertisements and Affiliates. If you have any additional questions or concerns
+about our privacy policy, please contact us via our Support page.</p>
+<h2 class="thin">Third party links</h2>
+<p>Occasionally, at our discretion, we may include or offer third party products or services on our website.
+Members and advertisers also display third party content and links as included with purchased services on our
+website.</p>
+<p>These third party sites have separate and independent privacy policies. We therefore
+have no responsibility or liability for the content and activities of these linked
+sites. Nonetheless, we seek to protect the integrity of our site and welcome any
+feedback about these sites.
+</p>
+</article>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="footer">
+<div class="inner">
+<ul class="footerLink">
+<li>
+<a href="/">Home</a>
+</li>
+<li>
+<a href="/feeds">Feeds</a>
+</li>
+<li>
+<a href="/advertise">Advertise</a>
+</li>
+<li>
+<a href="/earnmoney">Affiliate</a>
+</li>
+<li>
+<a href="/forum">Forum</a>
+</li>
+<li>
+<a href="/blog">Blog</a>
+</li>
+<li>
+<a href="/faq">FAQ</a>
+</li>
+<li>
+<a href="/terms">Terms</a>
+</li>
+<li>
+<a href="/privacy">Privacy</a>
+</li>
+<li>
+<a href="/proof">Proof</a>
+</li>
+<li>
+<a href="/support">Contact</a>
+</li>
+</ul>
+<div class="copyright">
+Copyright © 2018,
+<a href="/">AdFeedz</a> All Rights Reserved.
+</div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript" src="/jst.js"></script>
+
+<script src="https://res.cloudinary.com/dter8hoz6/raw/upload/v1520706696/cdn/pnotify.custom.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2"></script>
+
+<script src="/min/production.v1560941971382.min.js"></script>
+
+<div class="footpop" style="display:none;">
+<ul class="showclaimed">
+<li><b>Username</b> Win FlipChance <span>5 USD</span></li>
+<li><b>Username</b> Got Surprise <span>1 USD</span></li>
+</ul>
+</div>
+
+
+<script>
+  istotalview();
+
+  function istotalview() {
+    var data = {
+      _csrf: $('.csrf').attr('data-csrf-value'),
+    }
+
+    $.post('/istotalview', data, (res) => {})
+  }
+
+  socket.on('rt_showclaim', (obj) => {
+    $('.footpop').show();
+    if (obj.type == 'surprise') {
+      var txt = `Got Surprise`;
+    } else {
+      var txt = `Win FlipChance`;
+    }
+
+    $('.showclaimed').html(`<li><b>` + obj.username + `</b> ` + txt + ` <span>` + obj.usd + ` USD</span></li>`)
+
+    setTimeout(() => {
+      $('.footpop').hide();
+    }, 3000);
+  })
+
+</script>
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-129114871-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-129114871-1');
+
+</script>
+</body></html>
