@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the howlongtobeat.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223015106id_/https%3A//howlongtobeat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howlongtobeat.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624091158id_/https%3A//howlongtobeat.com/privacy.php) for the most accurate reproduction.*
 
 # How long does it take to beat your favorite games? - HowLongToBeat.com
 
-**TLDR/Creator Comment:** HLTB is developed and operated by a single person (with help from my beloved forum mod Pongsifu). I have no interest in abusing or selling your personal data. All information collected is willingly provided by you and used as minimally as possible for HowLongToBeat.com's functionality. I even encrypt your email address in case of a database breach. I respect your time and will always strive for transparency. I consider it an absolute privilege and pleasure to provide this service for you. HLTB is a passion project but websites do cost money to run and ads are used to keep the servers online and provide a small amount of compensation for my time. Thank you for visiting. \- [Everdred (Randy)](https://web.archive.org/web/20181223015106id_/https%3A//howlongtobeat.com/user.php?n=Everdred)
+**TLDR/Creator Comment:** HLTB is developed and operated by a single person (with help from my beloved forum mod Pongsifu). I have no interest in abusing or selling your personal data. All information collected is willingly provided by you and used as minimally as possible for HowLongToBeat.com's functionality. I even encrypt your email address in case of a database breach. I respect your time and will always strive for transparency. I consider it an absolute privilege and pleasure to provide this service for you. HLTB is a passion project but websites do cost money to run and ads are used to keep the servers online and provide a small amount of compensation for my time. Thank you for visiting. \- [Everdred (Randy)](https://web.archive.org/web/20190624091158id_/https%3A//howlongtobeat.com/user.php?n=Everdred)
 
 ## Privacy Policy
 
@@ -53,7 +53,6 @@ An HTTP cookie (also called web cookie, Internet cookie, browser cookie, or simp
 
 Only 3 potential cookies are saved by HowLongToBeat: 
   * Resuming your session with the site. (7 days)
-  * Review scale functionality. (1 viewing session)
   * User avatar/picture updating. (1 page load)
 
 
