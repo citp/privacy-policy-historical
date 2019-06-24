@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the westelm.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811185221id_/https%3A//www.westelm.com/about-us/privacy-policy.html%3Fcm_re%3DGlobalLinks-_-Footer-_-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westelm.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624072125id_/https%3A//www.westelm.com/about-us/privacy-policy.html%3Fcm_re%3DGlobalLinks-_-Footer-_-PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | west elm
 
-We are part of the Williams-Sonoma, Inc. Brands which includes Williams Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted or personally identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. This Privacy Policy applies to information we collect about you in our stores and through our websites and mobile applications. By using any of our web sites, mobile applications, or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
+We are part of the Williams-Sonoma, Inc. Brands which includes Williams Sonoma, Pottery Barn, pottery barn kids, Pottery Barn Teen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted or personally identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. This Privacy Policy applies to information we collect about you in our stores and through our websites and mobile applications. By using any of our web sites, mobile applications, or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
 
 As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise to American Consumers. We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their contact information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams-Sonoma, Inc. Brands.
 
@@ -20,11 +20,11 @@ If you access any of our websites or mobile applications with your log-in creden
 
 We use your contact information to provide you with the services you request as well as for analytical and marketing purposes, such as:
 
-  * confirming, sending, and tracking your order, subscription, or registration;
-  * communicating with you about your order, subscription, or registration;
-  * analyzing preferences, trends, and statistics;
-  * informing you of our new products, services, and offers; and
-  * providing you with other information from and about Williams-Sonoma, Inc. Brands, including personalized marketing communications.
+  * • confirming, sending, and tracking your order, subscription, or registration;
+  * • communicating with you about your order, subscription, or registration;
+  * • analyzing preferences, trends, and statistics;
+  * • informing you of our new products, services, and offers; and
+  * • providing you with other information from and about Williams-Sonoma, Inc. Brands, including personalized marketing communications.
 
 
 
@@ -42,11 +42,11 @@ We may contract with companies or persons to provide certain services including 
 
 ## Location Information
 
-We use the Google Maps service on our web sites. We may use the Google Maps service, and other services, to collect information about your physical location. We use this information to create greater ease of use in our checkout, including to suggest your shipping and billing address, or to help you find the closest store location. The Google Maps service is governed by Google's privacy policy located at [www.google.com/policies/privacy](http://www.google.com/policies/privacy "link opens a new window").
+We use the Google Maps service on our web sites. We may use the Google Maps service, and other services, to collect information about your physical location. We use this information to create greater ease of use in our checkout, including to suggest your shipping and billing address, or to help you find the closest store location. The Google Maps service is governed by Google's privacy policy located at [www.google.com/policies/privacy](http://www.google.com/policies/privacy/ "link opens a new window").
 
 ## Advertising and Online Tracking
 
-We allow third-party companies to serve ads and/or collect certain information when you visit our web sites. These companies may use information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) collected during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies may also tie identifiers associated with a particular browser or device to identifiers associated with other browsers or devices used by the same user or household (e.g., a device identifier associated with a user's computer may be tied to the device identifiers of that user's tablet and phone) in order to measure and target advertisements tailored to user interests across their devices and to send personalized marketing communications. These companies typically use a cookie or third party web beacon to collect this information. Our systems do not recognize "Do Not Track" signals, but several of these third party companies who utilize these cookies or beacons on our web sites enable you to opt out of this behavioral advertising. To learn more or opt out from these companies you can visit <http://www.networkadvertising.org/choices> and [www.aboutads.info/choices/](http://www.aboutads.info/choices "link opens a new window"). We also provide you with additional tools to opt out of marketing from us or certain transfers of your information. You can learn about this in the "Opting Out of Marketing and Transfers" section of this Privacy Policy.
+We allow third-party companies to serve ads and/or collect certain information when you visit our web sites. These companies may use information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) collected during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies may also tie identifiers associated with a particular browser or device to identifiers associated with other browsers or devices used by the same user or household (e.g., a device identifier associated with a user's computer may be tied to the device identifiers of that user's tablet and phone) in order to measure and target advertisements tailored to user interests across their devices and to send personalized marketing communications. These companies typically use a cookie or third party web beacon to collect this information. Our systems do not recognize "Do Not Track" signals, but several of these third party companies who utilize these cookies or beacons on our web sites enable you to opt out of this behavioral advertising. To learn more or opt out from these companies you can visit [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices "link opens a new window") and [http://www.aboutads.info/choices/](http://www.aboutads.info/choices "link opens a new window"). We also provide you with additional tools to opt out of marketing from us or certain transfers of your information. You can learn about this in the "Opting Out of Marketing and Transfers" section of this Privacy Policy.
 
 ## Other Transfers
 
@@ -56,11 +56,11 @@ In certain instances we may disclose your contact information when we have reaso
 
 ## Opting Out Of Marketing And Transfers; Updating and Deleting Information About You
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know. In the U.S., you can call us at 800.541.1262 or send us an email. Outside of the U.S., you can call us at 405.717.6139 or send us an [email](https://www.westelm.com/customer-service/email-us/). Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way. If you like, you may use one of the following statements in your message to us:
+We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know. In the U.S., you can call us at 800.541.1262 or send us an [email](https://www.westelm.com/customer-service/email-us/). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](https://www.westelm.com/customer-service/email-us/). Outside of the U.S., you can call us at 405.717.6139 or send us an email. Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way. If you like, you may use one of the following statements in your message to us:
 
-  * I prefer not to receive email advertisements, such as updates regarding products and services, special promotions or upcoming events.
-  * I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events.
-  * I prefer not to have my contact information provided to third parties for their marketing purposes.
+  * • I prefer not to receive email advertisements, such as updates regarding products and services, special promotions or upcoming events.
+  * • I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events.
+  * • I prefer not to have my contact information provided to third parties for their marketing purposes.
 
 
 
@@ -78,7 +78,7 @@ Once you place your order, you may see a pre-checked box indicating that you wou
 
 If you choose to provide Williams-Sonoma, Inc. Brands with your information, you consent to the transfer and storage of that information on our servers located in the United States.
 
-For international customers, any questions or concerns regarding the use or disclosure of your information should be directed to Williams-Sonoma, Inc. Brands by calling us at 405.717.6139 or sending us an email. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. 
+For international customers, any questions or concerns regarding the use or disclosure of your information should be directed to Williams-Sonoma, Inc. Brands by calling us at 405.717.6139 or sending us an [email](https://www.westelm.com/customer-service/email-us/). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy.
 
 ## Cookies
 
