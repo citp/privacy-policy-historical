@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contiki.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903185510id_/https%3A//book.contiki.com/NewBookingWizard/SupplementalPages/PrivacyPolicy/CHUSAS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contiki.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624134522id_/https%3A//book.contiki.com/NewBookingWizard/SupplementalPages/PrivacyPolicy/CHUSAS) for the most accurate reproduction.*
 
 # Privacy Policy
 
