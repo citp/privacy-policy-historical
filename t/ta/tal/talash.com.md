@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talash.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625014502id_/http%3A//www.talash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talash.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624233157id_/https%3A//www.talash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
