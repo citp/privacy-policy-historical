@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msu.edu privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228135430id_/https%3A//msu.edu/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msu.edu privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624213532id_/https%3A//msu.edu/privacy/index.php) for the most accurate reproduction.*
 
 # MSU Privacy Statement | Michigan State University
 
