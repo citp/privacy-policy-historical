@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journeyplanner.tfl.gov.uk privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106225148id_/https%3A//tfl.gov.uk/corporate/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyplanner.tfl.gov.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624051002id_/https%3A//tfl.gov.uk/corporate/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & cookies - Transport for London
 
@@ -16,21 +16,21 @@ Under data protection legislation, TfL is only allowed to use personal informati
 
 Depending on the TfL product or service you use or sign up for, there may be another legal basis that makes the handling of your personal information lawful. You should refer to the menu of privacy pages on this page for more information.
 
-## TfL website 
+## TfL website
 
-Our [website privacy statement](https://web.archive.org/corporate/privacy-and-cookies/website-privacy) and [Cookies page](https://web.archive.org/corporate/privacy-and-cookies/cookies) explain: 
+Our [website privacy statement](https://web.archive.org/corporate/privacy-and-cookies/website-privacy) and [Cookies page](https://web.archive.org/corporate/privacy-and-cookies/cookies) explain:
 
-  * What information we may collect about you online 
-  * How we will use the information collected 
-  * How we protect the information you give us 
+  * What information we may collect about you online
+  * How we will use the information collected
+  * How we protect the information you give us
+  * The use of web beacons
   * The use of cookies and how to manage them
-  * The use of web beacons 
 
 
 
-## TfL services 
+## TfL services
 
-If you are asked to provide information when applying for, or using, specific TfL services (eg the Zip Oyster photocard or Santander Cycles schemes) these pages outline how we use and protect this information. 
+If you are asked to provide information when applying for, or using, specific TfL services (eg the Zip Oyster photocard or Santander Cycles schemes) these pages outline how we use and protect this information.
 
 ## Service messages and marketing
 
@@ -40,7 +40,7 @@ If you are currently receiving service messages or marketing communications from
 
 We do not sell your personal information to anyone. We don't share your personal information with any third parties unless they are providing services to us under contract or disclosure is permitted by, or required by, law. Please refer to the menu of privacy pages on this page for more information.
 
-## Third-party sites 
+## Third-party sites
 
 Our website contains links to sites owned and operated by third parties. They have their own privacy policies, and we urge you to review them before browsing those sites. We do not accept any responsibility or liability for the privacy practices of such third-party websites and your use of such websites is at your own risk.
 
