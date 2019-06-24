@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodsearch.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023632id_/https%3A//www.goodshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodsearch.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624185616id_/https%3A//www.goodshop.com/privacy) for the most accurate reproduction.*
 
 # Goodshop - privacy policy
 
@@ -97,7 +97,7 @@ GoodSearch may update this policy. We will notify you about significant changes 
 
 ## CONTACT
 
-If you have any questions about this Privacy Policy, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or:
+If you have any questions about this Privacy Policy, please feel free to contact us at informati[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or:
 
 Privacy Matters  
 c/o GoodSearch, LLC  
