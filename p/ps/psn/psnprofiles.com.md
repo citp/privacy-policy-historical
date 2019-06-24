@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psnprofiles.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125071355id_/https%3A//psnprofiles.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psnprofiles.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624161651id_/https%3A//psnprofiles.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy • PSNProfiles.com
 
