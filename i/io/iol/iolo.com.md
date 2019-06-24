@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003160710id_/http%3A//www.iolo.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624215123id_/https%3A//www.iolo.com/company/legal/privacy) for the most accurate reproduction.*
 
-# IOLO TECHNOLOGIES, LLC PRIVACY POLICY – iolo technologies
+# IOLO TECHNOLOGIES, LLC PRIVACY POLICY - iolo technologies
 
 iolo technologies, LLC ( **“iolo,” “our,” “us” or “we”** ) is committed to protecting your privacy. This Privacy Policy applies to all websites owned or operated by iolo, including iolo.com. This Privacy Policy governs our data collection, processing and usage practices. It also describes your choices regarding use of, access to, erasure of and correction of your personal information. This Privacy Policy does not apply to the products or websites of our business partners, affiliates or to any other third parties, even if their products or websites are linked to or from our websites. You can find more information about how we work with our business partners and affiliates below.
 
