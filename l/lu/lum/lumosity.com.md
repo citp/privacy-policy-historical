@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lumosity.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217092052id_/http%3A//www.lumosity.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumosity.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624093907id_/https%3A//www.lumosity.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Lumosity - Privacy Policy - Lumosity
+# Lumosity - Privacy Policy
 
 Lumos Labs, Inc. ("Lumos Labs," "our," "us," or "we") knows your privacy is important to you, and we are committed to providing a safe and secure user experience. This Privacy Policy is incorporated into the Lumosity Terms of Service, and applies to the use of (1) Lumosity online at [Lumosity.com](https://www.lumosity.com/), (2) Lumosity online on mobile devices, and (3) any other services that include a link to and/or copy of this Privacy Policy on the home page of the applicable website or similar location (e.g., a settings page) for any applicable mobile applications (collectively, "Lumosity"), which are owned and operated Lumos Labs. It describes how we collect, use, secure, and share information of our users and individuals whose payment details are used to purchase Lumosity (collectively, "you" or "your"). It also describes how to access, update, and correct your personal data and the choices available to you regarding your personal data. Under applicable law, Lumos Labs is the data controller of your personal data. 
 
@@ -118,15 +118,37 @@ Also, third parties whose products or services are accessible or advertised via 
 
 To opt out of Google Analytics for display advertising or customize Google display network ads, you can visit the [Google Ads Settings page](https://www.google.com/settings/ads). Please note that to the extent advertising technology is integrated into Lumosity, you may still receive advertisements even if you opt-out of tailored advertising. In that case, the ads will just not be tailored. Also, we do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
 
-You may access, review, and correct certain of your personal data by logging into your Account. You also can exercise certain opt-out rights by following the instructions at the end of the "Online Analytics and Tailored Advertising" section above.
+**Account Review**
 
-In addition, individuals in the European Union and some other jurisdictions outside the United States have certain legal rights to obtain confirmation of whether we hold personal data about them, to access personal data we hold about them (including, in some cases, in portable form), and to obtain its correction, update, amendment or deletion in appropriate circumstances. They may also object to our uses or disclosures of personal data or exercise legal rights to withdraw consent, though such actions typically will not have retroactive effect. To exercise any of the above rights (or any other rights under applicable law), please contact us via our [help center](https://help.lumosity.com/anonymous_requests/new).
+You may access, review, correct, and delete certain of your personal data by logging into your Account.
+
+**Analytics and Advertising**
+
+You also can exercise certain opt-out rights by following the instructions at the end of the "Online Analytics and Tailored Advertising" section above.
+
+**Your Legal Rights**
+
+In addition, individuals in the European Union and some other jurisdictions outside the United States have certain legal rights to request that we: 
+
+  * confirm whether we hold personal data about them,
+  * provide access to personal data we hold about them (including, in some cases, in portable form),
+  * update, amend and/or correct personal data we hold;
+  * delete certain personal data in appropriate circumstances;
+  * transfer personal data to a third party provider of services;
+
+To exercise any of the above rights (or any other rights under applicable law), please contact us via our [help center](https://www.lumosity.com/zendesk/authentication?return_to=https%3A%2F%2Fhelp.lumosity.com%2Fhc%2Frequests%2Fnew). 
+
+In addition, individuals in the European Union and some other jurisdictions outside the United States have certain legal rights to obtain confirmation of whether we hold personal data about them, to access personal data we hold about them (including, in some cases, in portable form), and to obtain its correction, update, amendment or deletion in appropriate circumstances. They may also object to our uses or disclosures of personal data or exercise legal rights to withdraw consent, though such actions typically will not have retroactive effect. To exercise any of the above rights (or any other rights under applicable law), please contact us via our [help center](https://www.lumosity.com/zendesk/authentication?return_to=https%3A%2F%2Fhelp.lumosity.com%2Fhc%2Frequests%2Fnew).
 
 The rights described herein are subject to limitations and exceptions under applicable law. In situations in which we process personal data on behalf of our research partners, we may refer the request to the relevant research partner and cooperate with their handling of the request, subject to any special contractual arrangement with that research partner.
 
 In addition to the rights above, residents of the European Economic Area also have the right to lodge a complaint with your relevant supervisory authority. However, we encourage you to contact us first, and we will do our very best to resolve your concern.
 
+**Marketing**
+
 You can opt out of receiving marketing emails by navigating to your Email Notifications page or by following the unsubscribe instructions included in each email. Please note you may not opt out of certain transactional emails, such as when we email you to confirm transactions, address Account issues, or communicate about customer support.
+
+**Push Notifications**
 
 From time to time, we use push notifications in our mobile applications to send you messages about Lumosity or your Account. You may opt out from receiving push notifications through your device settings.
 
