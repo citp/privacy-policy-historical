@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangbros.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109004023id_/https%3A//bangbros.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangbros.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624221654id_/https%3A//bangbros.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
