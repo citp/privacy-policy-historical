@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyinhungary.hu privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228203420id_/http%3A//www.studyinhungary.hu/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyinhungary.hu privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624061541id_/http%3A//studyinhungary.hu/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Study in Hungary - Privacy Policy
 
@@ -12,5 +12,6 @@ These information will not be connected to other personal information, i.e. the 
 
 The Tempus Public Foundation is committed to the protection of their clients’ information. In order to avoid the unauthorized acces and the publication, to assure the accurate information and the most appropriate data management we take care with the appropriate physical, electronic and technical systems and we assure the information collected online.
 
-**In case of applicants of the Stipendium Hungaricum programme, the Privacy Policy of the programme also applies.  
-[Please click here to download it](http://studyinhungary.hu/static/upload/stipendium-hungaricum/privacy-statement-sh.pdf).**
+## Privacy Statement for Data Management
+
+[Privacy Statement – for data management in connection with the Stipendium Hungaricum Programme](https://web.archive.org/static/upload/stipendium-hungaricum/privacy-statement-sh.pdf)
