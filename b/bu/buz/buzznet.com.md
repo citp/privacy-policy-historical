@@ -1,127 +1,67 @@
-> *The following text is extracted and transformed from the buzznet.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218183219id_/http%3A//www.hivemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzznet.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624193410id_/http%3A//www.buzznet.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Hive Media Group
+# PRIVACY POLICY
 
-[](http://www.hivemedia.com/)
+This Privacy Policy (“ **Privacy Policy** ”) is designed to explain about the data collection practices used by Hooch, (“ **Company** ,” “ **us** ,” “ **our** ,” and/or “ **we** ”) when you are using the Internet site that you linked from or **buzznet.com** (collectively the “ **Website** ”). This Privacy Policy is part of our Terms of Service available at [Terms of Service](http://www.buzznet.com/terms/) , and it applies to end users who use or access the **Website**. If you are not the end user of the Website, you must reflect this Privacy Policy to your end users and ensure their consent.
 
-## PRIVACY POLICY
+**1\. YOUR CONSENT**
 
-Last modified: March 07, 2017
+BY ACCESSING THIS WEBSITE AND USING OUR  SERVICES, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY, PLEASE DO NOT USE THE WEBSITE OR SERVICES.
 
-#### Introduction
+**2\. MINORS**
 
-Hive Media Group LLC (“Company” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect information from children under 13.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website you linked from or hivemedia.com (collectively the “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+**3\. YOUR INFORMATION**
 
-This policy applies to information we collect:  
-• On this Website.  
-• In e­mail, text and other electronic messages between you and this Website.  
-• When you interact with our advertising and applications on third­party websites and services, if those applications or advertising include links to this policy.  
-• When you post comments on our Website through social websites, such as, but not limited to, Facebook.
+_TYPE OF INFORMATION, COLLECTION AND USES_.
 
-It does not apply to information collected by:  
-• Us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries); or  
-• Any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website
+In order to enable you to use various services on our Website and constantly improve and upgrade it, we may use certain end user’s  information (including cookies and local storage). The followings explain what is end user’s information, and what type of information we use in our Website.
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+_NON-PERSONAL INFORMATION:_
 
-#### Children Under the Age of 13
+means information that alone cannot identify you, including data we receive and/or extract from your device upon your using of the Website. At all time, we make sure to extract and store the data in an anonymous and aggregative manner.When using the Website, we collect non-personal information of end users that includes details of your visits to our Website, including operating system, browser type, traffic data, location data, logs and other communication data and the resources that you access and use on the Website.We also collect device IP address that is allocated by the Internet service provider to identify the country and language; In some jurisdictions and given specific circumstances, IP address may be considered to be personal information when used with other information in an attempt to individually identify users. However, we make no such use in the data we collect, and we make no attempt or effort to personally identify any user. We Encode the IP in a manner that can not be identified.
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at the email address in the last paragraph below.
+_PERSONAL INFORMATION:_
 
-#### Information We Collect About You and How We Collect It
+means information about you that specifically identifies you or, when combined with other information, can be used to identify you. We do not collect or store any personal information in a manner that can identify you.
 
-We collect several types of information from and about users of our Website, including information:  
-• by which you may be personally identified, such as your name and e­mail address, (“personal information”);  
-• that is about you but individually does not identify you; and/or  
-• about your internet connection, the equipment you use to access our Website and usage details.
+_STATISTICAL INFORMATION:_
 
-We collect this information:  
-• Directly from you when you provide it to us.  
-• Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.  
-• From third parties, for example, our business partners.
+The information we collect automatically is statistical data and does not include personal information.
 
-Information You Provide to Us
+_COOKIES AND LOCAL STORAGE_
 
-The information we collect on or through our Website may include:  
-• Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our email list, posting comments or content, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.  
-• Records and copies of your correspondence (including e­mail addresses), if you contact us.
+To enhance your user experience, we use “local storage” or place “cookies” on your hard drive for record-keeping purposes and sometimes to track information about you. You may choose to set Your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, note that some parts of the Website may not function properly.Local Storage and cookies are small text files that are stored on your browser storage. The Website may use cookies, however, the cookie is not used to identify you or to collect personally identifiable information about you.
 
-You also may provide information or comments to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk.
+_THIRD PARTY DATA COLLECTION AND USE OF COOKIES:_
 
-Information We Collect through Automatic Data Collection Technologies  
-As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:  
-• Details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website.  
-• Information about your computer and internet connection, including your IP address, operating system and browser type.
+Third Party collection of information:
 
-We also may use these technologies to collect information about your online activities over time and across third­party websites or other online services (behavioral tracking). We do not respond to “Do Not Track” signals or frameworks requesting an alteration to our online tracking of individual users who visit our Website.
+  * We do not control third parties’ collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the [NAI’s website](http://www.networkadvertising.org/choices/). You may go to the Digital [Advertising Alliance site](http://www.aboutads.info/choices/) to set advertising preferences for participating companies here. If you are outside of the United States, you may set advertising choices for participating companies [here](http://youronlinechoices.eu/).
 
-The information we collect automatically is statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:  
-• Estimate our audience size and usage patterns.  
-• Store information about your preferences, allowing us to customize our Website according to your individual interests.  
-• Speed up your searches.  
-• Recognize you when you return to our Website.
 
-#### The technologies we use for this automatic data collection may include:
 
-• _Cookies (or browser cookies)_. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.  
-• _Flash Cookies_. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.  
-• _Web Beacons_. Pages of our the Website and our e­mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single­pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e­mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+Third Party use of Cookies
 
-We do not collect personal Information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
+  * Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers, application providers and analytics service providers. These third parties may use cookies alone or in conjunction with other tracking technologies. We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
+  * We have contracted with Yahoo to monitor certain pages of our website for the purpose of reporting web traffic, statistics, advertisement ‘click-throughs,’ and/or other activities on our website. No personally identifiable data is transferred to Yahoo by us. Where authorized by us, Yahoo may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. However, if you choose, you may opt out from Yahoo’s collection of such information outside of the Yahoo distribution network, by clicking on the following link: [Opt-Out of interest-based advertising](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html)
+  * We use a service by Criteo to offer targeted advertising to you. You may deactivate the Criteo Service by following instructions in [Criteo’s privacy policy](http://www.criteo.com/privacy/).
 
-#### Third­party Use of Cookies and Other Tracking Technologies
 
-Some content or applications, including advertisements, on the Website are served by third­parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services . They may use this information to provide you with interest­based (behavioral) advertising or other targeted content.
 
-We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see How We Use and Disclose Your Information.
+_WHEN DO WE DISCLOSE YOUR INFORMATION?_
 
-We have contracted with Yahoo to monitor certain pages of our website for the purpose of reporting web traffic, statistics, advertisement ‘click-throughs,’ and/or other activities on our website. No personally identifiable data is transferred to Yahoo by us. Where authorized by us, Yahoo may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. However, if you choose, you may opt out from Yahoo’s collection of such information outside of the Yahoo distribution network, by clicking on the following link: http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html.
+We only disclose or share your non-public personal information with third parties when we believe doing so is permitted by you and/or authorized by this Privacy Policy, for example: we may share aggregated and session level information with some partners as part of troubleshooting investigations, such as in an attempt to track down malicious mobile redirect advertisements.
 
-We use a service by Criteo to offer targeted advertising to you. You may deactivate the Criteo Service by following following instructions in Criteo’s privacy policy (http://www.criteo.com/privacy/).
+_LOCATION OF COLLECTED DATA_
 
-#### How We Use And Disclose Your Information
+We store your information in protected servers in the United States and other countries and in AWS (amazon)secured servers.
 
-We only disclose or share your non-public personal information with third parties when we believe doing so is permitted by you and/or authorized by this Privacy Policy. In addition, we may share such information with our parent, subsidiary or affiliate companies without restriction. Any information that we collect or receive about you may be used, shared, or supplemented for the following purposes:
+**4\. CHANGES TO OUR PRIVACY POLICY**
 
-• To provide and monetize our Website. In order to provide and monetize our Website, we may use and share with third parties the information we collect from and receive about you in order to provide you with customer support and respond to inquiries; to deliver content or advertising; to perform market research or measure Website usage; and to analyze traffic counts, your interests and Website performance. We may also use and share aggregated, anonymous data about the use of our Website and related activity, and such data is not subject to this Privacy Policy.
+It is our policy to post any changes we make to our privacy policy on this page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up ­to ­date active and deliverable e­mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
-• To provide relevant content and advertising. We may use and share the information you provide to us, and information we collect about your use of our Website through tracking and other technologies, to deliver relevant advertisements, offers and content when using our Website. We may work with third party advertising networks and advertisers who help deliver these ads to you. As noted above, these third party advertising networks and advertisers may also use cookies and other technologies to collect and track user data such as demographic information, location, interests, affiliations, website usage, e-commerce, and other online activity to assist them in delivering advertising and content that is more relevant to your interests. They may also supplement data from other sources to help deliver more relevant ads.
+**5\. CONTACT INFORMATION.**
 
-• To allow third party service providers to assist us. We may share the information we collect from and receive about you with certain third party service providers, such as business partners, vendors, contractors, agents or sponsors, who help us manage the our Website, or provide Website content, advertisements and other services. These services may include advertising and marketing; developing or supporting products and features; processing data or statistics; and supplementing or organizing information or data. These outside service providers are required to protect non-public personal information and not use or disclose it for unauthorized purposes.
-
-• To contact you. We may periodically send promotional materials or notifications related to our Website to any email address you may have provided to us. If you want to stop receiving promotional materials, follow the unsubscribe instructions at the bottom of each promotional email or other method of notification.
-
-• To protect our rights and the rights of our users. We may disclose your information in order to: (i) protect or defend our legal rights or property or the legal rights or property of any of our vendors, partners or affiliates, or any of their employees, agents and contractors (including enforcement of agreements); (ii) protect the safety and security of individuals; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law, subpoena or other legal process or requirement.
-
-• To complete a merger or sale of assets. If we sell all or part of our business or make a sale or transfer of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your information to the party or parties involved in the transaction as part of that transaction.
-
-We do not control third parties’ collection or use of your information to serve interest based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website <http://www.networkadvertising.org/choices/>. You may go to the Digital Advertising Alliance site to set advertising preferences for participating companies here: <http://www.aboutads.info/choices/>. If you are outside of the United States, you may set advertising choices for participating companies here: <http://youronlinechoices.eu/>.
-
-#### Location of Collected Data
-
-Your information and data may be transferred to servers located in the United States and other countries around the world. If you are a user located outside of the United States, you understand and consent to having any personal information you provide transferred to, processed, and stored in the United States and other countries where data protection and other privacy laws may not offer the same level of protection as in your jurisdiction, such as the European Union. This includes the use of cookies and other tracking technologies as described above.
-
-#### Your California Privacy Rights
-
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write us at: contact@hivemedia.com
-
-#### Data Security
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
-
-#### Third Party Content and Data Collection
-
-We do not control any third party content that may be displayed to you when you use our Website. We are neither affiliated with nor responsible for the privacy practices of any partners or third parties who advertise or link to any websites, products, services or offers through the our Website, or who otherwise provide third party content. Once you view or click on anadvertisement or link, you should carefully review the applicable privacy policy of such third party service or site. Even if a third party is affiliated with us, we do not control its content or websites, each of which may have a separate privacy policy. We encourage you to read the privacy policies of each site you visit.
-
-#### Changes to Our Privacy Policy
-
-It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e­mail to the e­mail address you provided to us or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up ­to ­date active and deliverable e­mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
-
-#### Contact Information
-
-To ask questions or comment about this privacy policy and our privacy practices, contact us at:  
-contact@hivemedia.com
-
-Scroll to top
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: [contact@buzznet.com](mailto:contact@buzznet.com)
