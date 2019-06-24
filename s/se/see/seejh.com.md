@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seejh.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703035752id_/https%3A//www.seejh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seejh.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624190444id_/https%3A//www.seejh.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SeeJacksonHole
+# Privacy Policy - See Jackson Hole - SeeJH.com
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
