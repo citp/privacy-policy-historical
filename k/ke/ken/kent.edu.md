@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kent.edu privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928172004id_/https%3A//www.kent.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kent.edu privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624173801id_/https%3A//www.kent.edu/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | 1538098951 | Kent State University
+# Privacy Statement | 1561378534 | Kent State University
 
 ### Web Privacy Statement
 
