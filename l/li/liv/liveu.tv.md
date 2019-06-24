@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveu.tv privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027154644id_/https%3A//www.liveu.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveu.tv privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624151201id_/https%3A//www.liveu.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
