@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstescapegames.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217023729id_/http%3A//www.firstescapegames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstescapegames.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624164606id_/http%3A//www.firstescapegames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of firstescapegame.com
 
