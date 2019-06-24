@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adaware.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226045429id_/https%3A//www.adaware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaware.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624191414id_/https%3A//www.adaware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adaware: The best FREE Antivirus & ad block
 
