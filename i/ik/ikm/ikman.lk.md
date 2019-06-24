@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikman.lk privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531194002id_/https%3A//ikman.lk/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikman.lk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624185629id_/https%3A//ikman.lk/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ikman.lk
 
@@ -50,7 +50,7 @@ Customer Support e-mail: [support@ikman.lk](mailto:support@ikman.lk)
 
 ### Unsubscribe information
 
-If at any time you wish to have your information removed from our active databases, please contact us. Additionally, you will be able to unsubscribe anytime by clicking on the unsubscribe link at the bottom of all our email communications.
+If at any time you wish to have your information reviewed or removed from our active databases, please contact us at [support@ikman.lk](mailto:support@ikman.lk). Additionally, you will be able to unsubscribe anytime by clicking on the unsubscribe link at the bottom of all our email communications.
 
 This website makes use of Display Advertising, and uses Remarketing technology with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on various websites across the Internet, using first-party cookies and third-party cookies together to inform, optimize, and serve ads based on past visits to our website.
 
