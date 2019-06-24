@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the di.fm privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134544id_/https%3A//www.di.fm/member/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the di.fm privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624232709id_/https%3A//www.di.fm/member/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DI.FM
 
@@ -148,7 +148,7 @@ We are committed to maintaining its position as a leading digital services platf
 
 ### Withdrawing consent, Opting Out or Correcting Information
 
-You can withdraw your consent to the manner in which your data is used by the Company at any time. You may always opt out of receiving future e-mail messages and newsletters from Company.  Please visit the Settings tab found at your user account to withdraw consent or to update or correct your Personal Information. To request the deletion of your entire account, please send an email with the phrase “Please Delete Account in the subject line to privacy@di.fm. 
+You can withdraw your consent to the manner in which your data is used by the Company at any time. You may always opt out of receiving future e-mail messages and newsletters from Company.  Please visit the Settings tab found at your user account to withdraw consent or to update or correct your Personal Information. To request the deletion of your entire account, please send an email with the phrase “Please Delete Account" in the subject line to privacy@di.fm. 
 
 ### Your California Privacy Rights
 
