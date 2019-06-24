@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercheapdeals.net privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230113550id_/http%3A//www.supercheapdeals.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercheapdeals.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624093950id_/http%3A//www.supercheapdeals.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Supercheapdeals.net
 
@@ -6,7 +6,7 @@ This privacy policy sets out how Supercheapdeals.net uses and protects any infor
 
 Supercheapdeals.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Supercheapdeals.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Dec. 30, 2018.
+Supercheapdeals.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Jun. 24, 2019.
 
 ## What we collect
 
