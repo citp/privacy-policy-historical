@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rom.on.ca privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922202308id_/https%3A//www.rom.on.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rom.on.ca privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624025647id_/https%3A//www.rom.on.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Ontario Museum
 
@@ -49,13 +49,13 @@ The ROM may use third parties to collect conversion tracking data and/or data fo
 
 Questions or comments about the ROM’s privacy practices should be directed to:
 
-John-Michael Poon  
+Sascha Priewe  
 Freedom of Information & Protection of Privacy Coordinator  
 100 Queen’s Park  
 Toronto, ON  
 M5S 2C6
 
-Tel: 416.586.5868  
-E-mail:  **[jmpoon@rom.on.ca](mailto:dianes@rom.on.ca)**
+Tel: 416.586.5585  
+E-mail:  **[saschap@rom.on.ca](mailto:saschap@rom.on.ca)**
 
 The ROM is accountable for its privacy practices on this website. If you are not satisfied with our response to your privacy concerns, you may wish to contact the Information and Privacy Commissioner of Ontario (e-mail: [ **info@ipc.on.ca**](mailto:info@ipc.on.ca) and telephone: 1.800.387.0073).
