@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brusheezy.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134609id_/https%3A//www.brusheezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brusheezy.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624232800id_/https%3A//www.brusheezy.com/privacy) for the most accurate reproduction.*
 
 # Free Photoshop Brushes at Brusheezy!
 
@@ -16,7 +16,7 @@ This Privacy Policy was last changed on the date set forth at the top of the pol
 
 ## COLLECTION OF PERSONAL INFORMATION
 
-Personal Information on this Site is collected by the Eezy, Inc., 2413 Nashville Road Bowling Green, KY 42101, USA and its telephone number is (888) 847-3805.
+Personal Information on this Site is collected by the Eezy, Inc., 2413 Nashville Road B13, Bowling Green, KY 42101, USA and its telephone number is (888) 473-8050.
 
 As a visitor to the Site, you can engage in many activities without providing any Personal Information.
 
@@ -231,7 +231,7 @@ While your Personal Information is in our possession, it will be primarily store
 If you have questions or comments about this Privacy Policy, please contact us at:
 
 Eezy  
-2413 Nashville Road  
+2413 Nashville Road B13  
 Bowling Green, KY 42101  
-(888) 847-3805  
+(888) 473-8050  
 support@eezy.com 
