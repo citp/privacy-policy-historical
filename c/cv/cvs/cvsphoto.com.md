@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cvsphoto.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226030648id_/https%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvsphoto.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624142232id_/https%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CVS pharmacy
 
-Effective Date: September 10, 2018
+Effective Date: March 21, 2019
 
 This Privacy Policy describes how CVS Pharmacy, Inc. ("CVS," "we" or "us") may collect information about you through your interactions with us in our stores, or on our websites and mobile applications (collectively, the "Services"). By using the Services, you agree to the terms of this Privacy Policy. If you have any questions or concerns about this Privacy Policy, or about the way your information is collected and used, please call us toll-free at (888) 607-4287.
 
@@ -96,7 +96,7 @@ If you are a member of a prescription drug plan ("Plan") managed by CVS/caremark
 
 ## Links
 
-The Services may contain links to, or otherwise make available, third-party websites, services, or other resources not operated by us or on our behalf ("Third Party Services"). These links are provided as a convenience only and do not constitute an affiliation with, endorsement or sponsorship of the Third Party Services. In particular, you acknowledge that photo processing and order pick-up or delivery services provided in connection with the Services are provided by, respectively, Snapfish and Curbside, or other third parties, and not by CVS. Any information you provide to such third parties is not subject to the terms of this Privacy Policy, and we are not responsible for the privacy or security of the information you provide to them or their handling of your information. We recommend that you review the privacy policy of any third party to whom you provide personal information online.
+The Services may contain links to, or otherwise make available, third-party websites, services, or other resources not operated by us or on our behalf ("Third Party Services"). These links are provided as a convenience only and do not constitute an affiliation with, endorsement or sponsorship of the Third Party Services. In particular, you acknowledge that photo processing, contact lenses and glasses, and order pick-up or delivery services provided in connection with the Services are provided by, respectively, Snapfish, Premium Vision, and Curbside, or other third parties, and not by CVS. Any information you provide to such third parties is not subject to the terms of this Privacy Policy, and we are not responsible for the privacy or security of the information you provide to them or their handling of your information. We recommend that you review the privacy policy of any third party to whom you provide personal information online.
 
 In addition, we are not responsible for the information collection, use, disclosure, or security policies and practices of other organizations, such as Apple, Google, Microsoft, RIM, or any other app developer, app provider, operating system provider, wireless service provider, or device manufacturer.
 
@@ -211,7 +211,7 @@ If you are a minor, you may remove or request removal of any content or informat
 
 ## Your California Privacy Rights
 
-If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers' personal information for direct marketing purposes during the preceding calendar year. To do so, please write to us at privacy.officer@cvshealth.com.
+If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers' personal information for direct marketing purposes during the preceding calendar year. To do so, please write to us at retailprivacy@cvshealth.com.
 
   
 
