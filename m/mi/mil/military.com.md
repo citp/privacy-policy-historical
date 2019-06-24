@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113232442id_/https%3A//www.military.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624191236id_/https%3A//www.military.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Military.com
 
@@ -17,6 +17,8 @@ Personal Information is information that can be used to identify you, or any oth
 Demographic information is information that is not unique to you in the sense that it refers to selected population characteristics, such as your ZIP code or postal code, age, preferences, gender, race or ethnicity, occupation, career history, interests and favorites.
 
 Behavioral Information is information regarding how you use our site(s), the areas of our site that you visit, what services you access, and information about your computer hardware and software including your IP address, geolocation, browser and operating system type, domain names, access times and referring Web site addresses. This information is necessary for analyzing the use of resources, troubleshooting problems, preventing fraud, and improving our services.In addition, Military may collect indirect information about you when you use certain third party services on Military. For example if you provide a title of 'Mrs.' we will assume you are female.
+
+**Single Sign-on** : If you choose to sign in to Military with Facebook, Google or similar services, we import the requested information from your Facebook, Google, or other account. We save it and make it part of your profile.
 
 We may personalize the advertising that you are shown on our sites or other sites with which we have a business relationship. In order to provide this personalization, in addition to information we collect about you on our sites, we acquire information (including personal, demographic, behavioral and indirect information) about you from third parties who provide it to us.
 
