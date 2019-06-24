@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kansascity.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227145235id_/https%3A//www.kansascity.com/site-services/legal/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansascity.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624200850id_/https%3A//www.kansascity.com/site-services/legal/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | The Kansas City Star
 
@@ -252,7 +252,7 @@ We reserve the right to update this Privacy Policy from time to time by posting 
 
 If you have any questions or comments about our privacy practices, we may be reached at   
 KansasCity.com,   
-1729 Grand Blvd., Kansas City, MO 64108,   
+1601 McGee St., Kansas City, MO 64108,   
 816-234-4636   
 or at [customerservice@kcstar.com](mailto:customerservice@kcstar.com). 
 
