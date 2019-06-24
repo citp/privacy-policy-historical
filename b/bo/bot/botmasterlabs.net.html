@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the botmasterlabs.net privacy policy that was archived on 2018-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181216091554id_/http%3A//www.botmasterlabs.net/laws) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the botmasterlabs.net privacy policy that was archived on 2019-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624130323id_/http%3A//www.botmasterlabs.net/laws) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <title>BotmasterLabs.Net: Privacy Policy and "Cookies" Policy</title>
 <meta name="description" content="Privacy Policy and &quot;Cookies&quot; Policy"><meta name="keywords" content="Privacy Policy and &quot;Cookies&quot; Policy">
-<link rel="stylesheet" href="/lang/en/css/styles.css?v=36">
+<link rel="stylesheet" href="/lang/en/css/styles.v37.css">
 <script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script src="/js/jquery-1.7.2.min.js"></script>
 <script><!--
 var lang="en";var contestsActive=false;//--></script>
-<script src="/js/libs.js?v=6"></script>
+<script src="/js/libs.v8.js"></script>
 <!--[if lt IE 9]>
 <noscript><meta http-equiv="refresh" content="0; URL=/need-better-browser/"></noscript>
 <script src="/js/html5.js"></script>
@@ -26,41 +26,40 @@ var lang="en";var contestsActive=false;//--></script>
         
 		<!-- authorisation_block_start -->
         <div class="hauth">
-        	<b>Log in</b>
-			<form method="post" action="/signin.php?randm=21543">
-				<input type="hidden" name="lpass" id="ialpass" value="">
-				<span class="hauth1"><input type="text" name="login" id="ialogin" value="Username" onblur="if(this.value=='') this.value='Username';" onfocus="if(this.value=='Username') this.value='';"></span>
-				<span class="hauth2"><input type="password" name="pass" id="iapass" value="******" onblur="if(this.value=='') this.value='******';" onfocus="if(this.value=='******') this.value='';"></span>
-				<span class="hauth3"><input onclick="$('#ialpass').val(rsa.encrypt($('#ialogin').val()+'|'+$('#iapass').val()));$('#ialogin').val('');$('#iapass').val('');submit();" type="image" class="hauth4 fade" src="/lang/en/img/spacer.gif" alt="Log in"></span>
-			</form>
+        	<b>Log in:&nbsp; &nbsp; <div id="ialoading" style="display:none">.</div><div id="ialoadingerror" style="display:none"></div></b>
+			<noscript><div class="part2" style="margin:18px;">JavaScript&nbsp;required</div><div style="display:none;"></noscript>
+			<span class="hauth1"><input id="ial" type="text" placeholder="Login" onkeydown="if(13==event.keyCode)$('#iap').focus().select()"></span>
+			<span class="hauth2"><input id="iap" type="password" placeholder="••••••" onkeydown="if(13==event.keyCode)$('#iab').click()"></span>
+			<span class="hauth3"><input id="iab" onclick="au(&quot;a&quot;,&quot;/sign.php?randm=131&amp;sec=12296&quot;)" type="image" class="hauth4 fade" src="/lang/en/img/spacer.gif" alt="Log in" style="opacity: 1;"></span>
+			<noscript></div></noscript>
 		</div>
 		<!-- /authorisation_block_end -->
 	<div class="hbutns">
-        	<span class="hreg"><a href="/registration/" class="fade">Register new account</a></span>
+        	<span class="hreg"><a href="/registration/" class="fade" style="opacity: 1;">Register new account</a></span>
         </div>        <div class="hlang">
         	<b>Language:</b>
-            <a href="http://www.botmasterru.com/laws" class="flag-ru fade1">Russian</a>
-            <a href="#" class="flag-en fade1">English (USA)</a>
-            <a href="http://www.botmasterlabs.net/laws?xlang=cn" class="flag-cn fade1">Chinese</a>
-            <a href="http://translate.google.com/translate?hl=fr&amp;sl=auto&amp;tl=fr&amp;u=http%3A%2F%2Fwww.botmasterlabs.net%2Flaws" class="flag-fr fade1">French</a>
-            <a href="http://translate.google.com/translate?hl=de&amp;sl=auto&amp;tl=de&amp;u=http%3A%2F%2Fwww.botmasterlabs.net%2Flaws" class="flag-de fade1">German</a>
+            <a href="http://www.botmasterru.com/laws" class="flag-ru fade1" style="opacity: 1;">Russian</a>
+            <a href="#" class="flag-en fade1" style="opacity: 1;">English (USA)</a>
+            <a href="http://www.botmasterlabs.net/laws?xlang=cn" class="flag-cn fade1" style="opacity: 1;">Chinese</a>
+            <a href="http://translate.google.com/translate?hl=fr&amp;sl=auto&amp;tl=fr&amp;u=http%3A%2F%2Fwww.botmasterlabs.net%2Flaws" class="flag-fr fade1" style="opacity: 1;">French</a>
+            <a href="http://translate.google.com/translate?hl=de&amp;sl=auto&amp;tl=de&amp;u=http%3A%2F%2Fwww.botmasterlabs.net%2Flaws" class="flag-de fade1" style="opacity: 1;">German</a>
 		</div>
         <nav>
         	<ul class="hnav">
 				
-            	<li class="active"><em><a href="/"><span><b>Main page</b></span></a></em><i></i></li>
+            	<li class="active"><em style="background-position: 50% 34px;"><a href="/"><span><b>Main page</b></span></a></em><i></i></li>
 				
-            	<li><em><a href="/video/"><span><b>Video</b></span></a></em><i></i></li>
+            	<li><em style="background-position: 50% 34px;"><a href="/video/"><span><b>Video</b></span></a></em><i></i></li>
 				
-            	<li><em><a href="/press/"><span><b>Media about us</b></span></a></em><i></i></li>
+            	<li><em style="background-position: 50% 34px;"><a href="/press/"><span><b>Media about us</b></span></a></em><i></i></li>
 				
-            	<li><em><a href="/articles/"><span><b>Articles</b></span></a></em><i></i></li>
+            	<li><em style="background-position: 50% 34px;"><a href="/articles/"><span><b>Articles</b></span></a></em><i></i></li>
 				
-            	<li><em><a href="http://xrumerwiki.com/en:content" target="_blank"><span><b>Wiki</b></span></a></em><i></i></li>
+            	<li><em style="background-position: 50% 34px;"><a href="http://xrumerwiki.com/en:content" target="_blank"><span><b>Wiki</b></span></a></em><i></i></li>
 				
-            	<li><em><a href="/faq/"><span><b>F.A.Q.</b></span></a></em><i></i></li>
+            	<li><em style="background-position: 50% 34px;"><a href="/faq/"><span><b>F.A.Q.</b></span></a></em><i></i></li>
 				
-            	<li><em><a href="/contacts/"><span><b>Contact us</b></span></a></em><i></i></li>
+            	<li><em style="background-position: 50% 34px;"><a href="/contacts/"><span><b>Contact us</b></span></a></em><i></i></li>
 				
         	</ul>
         </nav>
@@ -69,27 +68,27 @@ var lang="en";var contestsActive=false;//--></script>
 	<div id="container">
 		<aside>
 		<!-- RIGHT -->
-			<div class="sideh">News<a href="/events/" class="rarch fade1">News archive</a></div>
+			<div class="sideh">News<a href="/events/" class="rarch fade1" style="opacity: 1;">News archive</a></div>
+			
+			<section class="rnew">
+					<h3><a href="/event/2019-01-26/1/">XRumer&nbsp;18.0&nbsp;—&nbsp;18.0.1</a></h3>
+					<p>Important update of XRumer, in which was significantly improved logic of profile registration on many engines. It was improved work with Bitrix, Joomla, WordPress Forum, MyBB, VBulletin, XenForo; It was added mechanism of text changing depending of recipient site topic (new macros #theme); were updated default databases and now they contain more that 8 million link, Improved work with HTTPS and Google ReCapctha-2 and many other important improvements...</p>
+					<span class="rnewbtn"><a href="/event/2019-01-26/1/" class="fade" style="opacity: 1;">More</a></span>
+                    <i>January&nbsp;26,&nbsp;2019</i>
+			</section>
 			
 			<section class="rnew">
 					<h3><a href="/event/2018-09-23/1/">XRumer&nbsp;16.0.18 + SocPlugin&nbsp;4.0.63</a></h3>
 					<p>Databases that comes with software were updated and checked. Total size was increased to 8 million links of supported recourses such as blogs, forums, guestbooks, boards, BBS, CMS and other platforms. Database of known textcaptcha was increased with more than 2000 new answers to antibot-questions and now are contains more than 324000 textual captcha. Significantly increased stability and speed of work. Same was optimized usage of PC recourses: maximal number of threads can be set up to 1000 and more (all depends of usage mode). It was improved work with HTTPS. Highly increased success rate and quality of sending PM (personal messages). Same as many other improvements and bug fixies.</p>
-					<span class="rnewbtn"><a href="/event/2018-09-23/1/" class="fade">More</a></span>
+					<span class="rnewbtn"><a href="/event/2018-09-23/1/" class="fade" style="opacity: 1;">More</a></span>
                     <i>September&nbsp;23,&nbsp;2018</i>
 			</section>
 			
 			<section class="rnew">
 					<h3><a href="/event/2018-05-21/1/">XRumer&nbsp;16.0.16 + SocPlugin&nbsp;4.0.61</a></h3>
 					<p>Important updated with significantly increase of success rate in decoding of Google ReCaptcha (taking in consideration that ReCaptcha v1 was closed on march 31). Increased efficiency of work with new version of XenForo, IPBoard, VBulletin, phpBB, added few new engines, improved work with Unicode (UTF-8) for multi language uses. Significantly improved logic of "Antisзam" feature. In SocPlugin was updated work with Facebook and VK. And 70+ other improvements and fixes...</p>
-					<span class="rnewbtn"><a href="/event/2018-05-21/1/" class="fade">More</a></span>
+					<span class="rnewbtn"><a href="/event/2018-05-21/1/" class="fade" style="opacity: 1;">More</a></span>
                     <i>May&nbsp;21,&nbsp;2018</i>
-			</section>
-			
-			<section class="rnew">
-					<h3><a href="/event/2018-01-26/1/">XRumer&nbsp;16.0.15 + SocPlugin&nbsp;4.0.56</a></h3>
-					<p>Latest update of XRumer significantly increase success rate on most popular and trusted resources due to improved detection and bypass of ReCaptcha 2 and CloudFlare protection. Also was greatly increased success rate on most popular forum, blogs (Worpdress, Joomla etc.) and other platforms. Was added support of IMAP protocol for email downloading, this have significantly increased downloading speed of confirmation emails (it’s really important on processing huge databases with millions of resources)...</p>
-					<span class="rnewbtn"><a href="/event/2018-01-26/1/" class="fade">More</a></span>
-                    <i>January&nbsp;26,&nbsp;2018</i>
 			</section>
 					<!-- /RIGHT -->
 		</aside>
@@ -248,16 +247,16 @@ sales@botmasterlabs.cz
     	
         <div class="pay">
         	<span>We accept |</span><i><a href="/buy1/#payment_methods">Payment methods we accept</a></i>
-            <div class="pay1"><a href="/buy1/#cards" class="bcrd1"><img src="/lang/en/img/spacer.gif" class="bcrd fade" alt=""></a></div>
-            <div class="pay1"><a href="/buy1/#webmoney" class="wm1"><img src="/lang/en/img/spacer.gif" class="wm fade" alt=""></a></div>
-            <div class="pay1"><a href="/buy1/#paypal" class="pal1"><img src="/lang/en/img/spacer.gif" class="pal fade" alt=""></a></div>
-            <div class="pay1"><a href="/buy1/#moneygraminternational" class="gram1"><img src="/lang/en/img/spacer.gif" class="gram fade" alt=""></a></div>
-            <div class="pay1"><a href="/buy1/#alipay" class="ali1"><img src="/lang/en/img/spacer.gif" class="ali fade" alt=""></a></div>
-            <div class="pay2"><a href="/buy1/#westernunion" class="wes1"><img src="/lang/en/img/spacer.gif" class="wes fade" alt=""></a></div>
+            <div class="pay1"><a href="/buy1/#cards" class="bcrd1"><img src="/lang/en/img/spacer.gif" class="bcrd fade" alt="" style="opacity: 1;"></a></div>
+            <div class="pay1"><a href="/buy1/#webmoney" class="wm1"><img src="/lang/en/img/spacer.gif" class="wm fade" alt="" style="opacity: 1;"></a></div>
+            <div class="pay1"><a href="/buy1/#paypal" class="pal1"><img src="/lang/en/img/spacer.gif" class="pal fade" alt="" style="opacity: 1;"></a></div>
+            <div class="pay1"><a href="/buy1/#moneygraminternational" class="gram1"><img src="/lang/en/img/spacer.gif" class="gram fade" alt="" style="opacity: 1;"></a></div>
+            <div class="pay1"><a href="/buy1/#alipay" class="ali1"><img src="/lang/en/img/spacer.gif" class="ali fade" alt="" style="opacity: 1;"></a></div>
+            <div class="pay2"><a href="/buy1/#westernunion" class="wes1"><img src="/lang/en/img/spacer.gif" class="wes fade" alt="" style="opacity: 1;"></a></div>
             <!--div class="pay2"><a href="/buy1/#wiretransfer" class="wire1"><img src="/lang/en/img/spacer.gif" class="wire fade" alt="" /></a></div-->
 		</div>
         
-		<div class="copy">© Botmaster Labs 2005-2018<br>Official web site<br>of XRumer + Hrefer developers<br>«<a href="http://botmasterlabs.net/">BotmasterLabs.Net</a>»</div>
+		<div class="copy">© Botmaster Labs 2005-2019<br>Official web site<br>of XRumer + Hrefer developers<br>«<a href="http://botmasterlabs.net/">BotmasterLabs.Net</a>»</div>
         <ul class="fnav">
 			<li><a href="/about-us/">About us</a></li>
 			<li><a href="/laws/">Privacy policy</a></li>
@@ -272,17 +271,17 @@ sales@botmasterlabs.cz
         </div>
         
 		<div class="fwrap">
-			<div class="fhead"><a href="#top" id="up" class="fade"><span>Top</span></a></div>
+			<div class="fhead"><a href="#top" id="up" class="fade" style="opacity: 1;"><span>Top</span></a></div>
 			<div class="fbody">
             	
                 <div class="spfeed">
                 <div class="spfeed1">Contact us</div>
                 
-                <form method="post" action="/ml.php?rnd=29914846" name="qform">
+                <form method="post" action="/ml.php?rnd=43276125" name="qform">
                 <div class="spfeed2"><input type="text" name="username" value="Name:" onblur="if(this.value=='') this.value='Name:';" onfocus="if(this.value=='Name:') this.value='';"></div>
                 <div class="spfeed2"><input type="text" name="contact" value="E-mail:" onblur="if(this.value=='') this.value='E-mail:';" onfocus="if(this.value=='E-mail:') this.value='';"></div>
                 <div class="spfeed3"><textarea placeholder="Message" name="message"></textarea></div>
-                <span class="spfeed4"><input onclick="return checkQForm('qform',['Name:','E-mail:'],'',null)" type="image" class="spfeed5 fade" src="/lang/en/img/spacer.gif" alt="Send"></span>
+                <span class="spfeed4"><input onclick="return checkQForm('qform',['Name:','E-mail:'],'',null)" type="image" class="spfeed5 fade" src="/lang/en/img/spacer.gif" alt="Send" style="opacity: 1;"></span>
                 </form>
                 
                 </div>
@@ -291,8 +290,8 @@ sales@botmasterlabs.cz
 				<div class="spcomm">
 					<div class="spcomm1">
 						<div class="spcomm2">
-							XRumer is a great tool to create masses of links in a short period of time
-                            <span><a target="_blank" href="http://www.warriorforum.com/adsense-ppc-seo-discussion-forum/352873-what-xrumer-service.html#post5886504">Fixers</a></span>
+							Xrumer 7 (the Chuck Norris of the backlink tools) is by far the most powerful tool on the market. Nothing can compare to it!!
+                            <span><a target="_blank" href="http://www.blackhatworld.com/blackhat-seo/black-hat-seo-tools/321759-xrumer-7-senuke-x-2.html#post3933450">maza_hunter</a></span>
 						</div>
 					</div>
 				</div>
@@ -302,8 +301,8 @@ sales@botmasterlabs.cz
         
 	</div>
 <!-- /FOOTER -->
-</footer><div id="px1"><!--LiveInternet counter--><script language="JavaScript">document.write('<img src="http://counter.yadro.ru/hit?r' + escape(document.referrer) + ((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ';u' + escape(document.URL) + ';' + Math.random() + '" width=1 height=1>')</script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20181216091554id_/http%253A//www.botmasterlabs.net/laws;0.9162498154351371" width="1" height="1"><!--/LiveInternet-->
+</footer><div id="px1"><!--LiveInternet counter--><script language="JavaScript">document.write('<img src="http://counter.yadro.ru/hit?r' + escape(document.referrer) + ((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ';u' + escape(document.URL) + ';' + Math.random() + '" width=1 height=1>')</script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20190624130323id_/http%253A//www.botmasterlabs.net/laws;0.9216272640491319" width="1" height="1"><!--/LiveInternet-->
 <script type="text/javascript">
 document.write(unescape("%3Cscript src='/ua.php?u=")+escape(navigator.userAgent)+unescape("&amp;"+Math.random()+"' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="/ua.php?u=Mozilla/5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;0.6107158445573284" type="text/javascript"></script></div><!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter38321975 = new Ya.Metrika({ id:38321975, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, ut:"noindex", ecommerce:"dataLayer" }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/38321975?ut=noindex" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+</script><script src="/ua.php?u=Mozilla/5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;0.12893967585187438" type="text/javascript"></script></div><!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter38321975 = new Ya.Metrika({ id:38321975, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, ut:"noindex", ecommerce:"dataLayer" }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/38321975?ut=noindex" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
 </body></html>
