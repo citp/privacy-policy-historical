@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldtravelist.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610052804id_/http%3A//www.travmonkey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelist.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624225643id_/https%3A//www.travmonkey.com/privacy) for the most accurate reproduction.*
 
-# Privacy - TravMonkey
+# Privacy
 
 This privacy policy sets out how TravMonkey.com uses and protects any information that you give TravMonkey.com when you use this website.
 
