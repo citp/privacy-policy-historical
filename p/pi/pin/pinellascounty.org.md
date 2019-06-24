@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the pinellascounty.org privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219145455id_/http%3A//www.pinellascounty.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinellascounty.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624135640id_/http%3A//www.pinellascounty.org/privacy.htm) for the most accurate reproduction.*
 
 # Pinellas County, Florida Privacy and Security Notice
 
-**[SB 80 (enacted 2006)](https://web.archive.org/web/20181219145455id_/http%3A//www.pinellascounty.org/PDF/sb-80.pdf)\- **  
-**E-mail addresses are public records under Florida law and are not exempt from public-records requirements.** If you do not want your e-mail address to be subject to being released pursuant to a public-records request, do not send electronic mail to this entity. Instead, contact this office by telephone or in writing, via the United States Postal Service. [view phone and address directory](https://web.archive.org/web/20181219145455id_/http%3A//www.pinellascounty.org/contactus_locate.htm)
+**[SB 80 (enacted 2006)](https://web.archive.org/web/20190624135640id_/http%3A//www.pinellascounty.org/PDF/sb-80.pdf)\- **  
+**E-mail addresses are public records under Florida law and are not exempt from public-records requirements.** If you do not want your e-mail address to be subject to being released pursuant to a public-records request, do not send electronic mail to this entity. Instead, contact this office by telephone or in writing, via the United States Postal Service. [view phone and address directory](https://web.archive.org/web/20190624135640id_/http%3A//www.pinellascounty.org/contactus_locate.htm)
 
 * * *
 
@@ -49,6 +49,6 @@ Unauthorized attempts to upload information or change information on this servic
 **Links to other web sites**  
 The website has links to many other governmental agencies. In some cases we link to private organizations. Once you link to another site, you are subject to the privacy policy of the new site.
 
-Also Reference [Liability Disclaimer and User Agreement](https://web.archive.org/web/20181219145455id_/http%3A//www.pinellascounty.org/disclaimer.htm)
+Also Reference [Liability Disclaimer and User Agreement](https://web.archive.org/web/20190624135640id_/http%3A//www.pinellascounty.org/disclaimer.htm)
 
 return to top
