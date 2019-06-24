@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213165352id_/https%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624142209id_/https%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teachers Pay Teachers
 
@@ -6,7 +6,7 @@ PRIVACY POLICY
 
  
 
-Effective Date: December 3, 2018 (See our previous version [here](https://ecdn.teacherspayteachers.com/static/privacypolicy_teacherspayteachers.pdf))
+Last Updated: February 20, 2019 (See our previous version [here](https://ecdn.teacherspayteachers.com/static/2019.pdf))
 
 Teacher Synergy LLC d/b/a Teachers Pay Teachers (referred to in this policy as “Teachers Pay Teachers”, “TpT”, “us”, “we”, or “our”) has adopted the following Privacy Policy to explain how we collect, use, and share information from and about you.
 
@@ -26,7 +26,7 @@ Visitors.  When you use our Services as a Visitor, we may ask for information a
 
 All Members.  To use many aspects of our Services, you’re required to create a TpT account and become a Member. To become a Member, we require that you pick a unique username, and provide us with your email address so we can contact you. We may also ask you to tell us your name so we know who you are. 
 
-Finally we’ll ask you to share some information about what kind of user you are (your role), your geographic location, what and where you teach, and information about your interests to help us personalize your experience using our Services. 
+Finally we may ask you to share some information about what kind of user you are (your role), your geographic location, what and where you teach, and information about your interests to help us personalize your experience using our Services. 
 
 Sellers.  Members who register for one of our Seller Memberships (“Sellers”), will be required to provide additional contact information and and payment information to receive Earnings. Sellers can choose to use a name other than their given name as a “Store Name.” A Seller’s Store Name, profile image or logo, and any additional information they choose to provide about themselves in their Store profile will be publicly viewable. 
 
@@ -58,6 +58,12 @@ D. OUR COMMITMENT TO CHILDREN’S PRIVACY
 At TpT, we take children’s privacy very seriously. TpT’s Services are directed at and intended for use by adults only. We do not knowingly collect Personal Information from children under the age of 13. If you are under 13, you should not use or attempt to use our Services or send any information about yourself to TpT. If we discover that we have collected information from a child under the age of 13, we will take the appropriate measures to promptly remove that information from our Services.
 
 If you are a parent or guardian and believe that TpT may have collected Personal Information about your child, please contact us at [support@teacherspayteachers.com](mailto:support@teacherspayteachers.com) to let us know. We’ll work with you to make sure that information is removed from our Site.
+
+E. INFORMATION COLLECTED FROM THIRD PARTIES   
+  
+We may collect information about you from third parties as permitted by law or through your interaction with third parties we may integrate with from time to time to offer new features and/or services to you ("Third Party Integrations").Integration with Google Drive. 
+
+Through an integration with Google Drive, you may have the option to list files directly from your Google Drive in your TpT store ("Resources for Google Apps"), or access Resources for Google Apps directly through your Google Drive account (e.g. resources that you have purchased or added to your TpT account for free). To enable your use of this integration, you'll need to give TpT permission to access your Google Drive for the purposes described in this section. If you're a Seller listing Resources from your Google Drive, we'll use this access to list in your TpT store files that you choose from your Google Drive account, set file permissions, make copies for each Member who purchases or accesses your Resources for Google Apps for free, and monitor listed files from your Google Drive for deletions, updates, or changes in permissions so we may be able to alert you or impacted Members. For Members who choose to purchase (or access for free) Resources for Google Apps, we'll use this access to deliver the Resource to your Google Drive. Use of the integration is subject to Google's privacy policies — you can find more information about how Google uses your information and what information Google shares with us [here](https://support.google.com/accounts/answer/3466521?p=oauth_consent&authuser=0&visit_id=636730629902716358-1645920089&rd=1).
 
 ## How We Use and Share the Data You Give Us
 
@@ -101,19 +107,13 @@ The following information is visible to others:
   * Your store name. This will be the first and last name you provided at registration unless you choose an alternative “Store Name.” You can enter or update your Store Name from the store profile section of your account details [here](https://www.teacherspayteachers.com/My-Account/Store_Profile#no-back). 
 
 
-  
-
 
   * Your location. Some location information may be optional to display and can be adjusted in your store profile. 
 
 
-  
-
 
   * Your Store Profile image. You have the option to upload a photograph, logo, or other image to your Store Profile.
 
-
-  
 
 
   * Personal Bio/Other Information. You can choose to provide additional information about yourself, your business, and your teaching experience. Any profile information you provide is visible to those who visit your store and can be edited, updated, or removed by you at any time.  
