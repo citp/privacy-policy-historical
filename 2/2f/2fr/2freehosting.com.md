@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2freehosting.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002172936id_/http%3A//www.2freehosting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2freehosting.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624215042id_/https%3A//www.2freehosting.com/privacy.html) for the most accurate reproduction.*
 
 # Free Web Hosting - Privacy Policy
 
