@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the radiotime.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231120124id_/https%3A//tunein.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiotime.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624105804id_/https%3A//tunein.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policies | TuneIn | Free Internet Radio
 
-### Last Updated Date: August 20, 2018
+### Last Updated Date: February 12, 2019
 
-This Privacy Policy is incorporated by reference into the TuneIn, Inc. End User License Agreement and Terms of Service located at <https://tunein.com/policies/> (“ **EULA** ”). The terms “ **TuneIn,** ” “ **we,** ” “ **us,** ” and “ **our** ” include TuneIn, Inc. and its affiliates and/or subsidiaries. All other terms not defined in this Privacy Policy will have the meanings set forth in the EULA. 
+The terms “ **TuneIn** ,” “ **we** ,” “ **us** ,” and “ **our** ” include TuneIn, Inc. and its affiliates and/or subsidiaries. All other terms not defined in this Privacy Policy will have the meanings set forth in the TuneIn, Inc. End User License Agreement and Terms of Service located at <https://tunein.com/policies/> (“EULA”). 
 
-This Privacy Policy explains how TuneIn may collect, use, process, disclose and safeguard information we obtain through the Service, including our website (currently at [www.tunein.com](https://tunein.com/)) and our mobile applications, and in connection with our partner and vendor relationships. It also tells you about your rights and choices with respect to your Personal Information, and how you can contact us if you have any questions or concerns. 
+This Privacy Policy explains how TuneIn may collect, use, process, disclose and safeguard information we obtain through the Service, including our Website (currently at [www.tunein.com](https://web.archive.org/web/20190624105804id_/https://tunein.com/policies/privacy/www.tunein.com)) and our mobile applications, and in connection with our partner and vendor relationships. It also tells you about your rights and choices with respect to your Personal Information, and how you can contact us if you have any questions or concerns. 
 
 For the purpose of this Privacy Policy, “ **Personal Information** ” means any information relating to an identified or identifiable individual. We obtain Personal Information relating to you from various sources as described below.
 
@@ -36,15 +36,11 @@ Where applicable, we indicate whether and why you must provide us with your Pers
 
 **Widget Information.** Other websites may integrate TuneIn widgets (such as the TuneIn Player or TuneIn Follow Button). When you visit a site with a TuneIn widget embedded, we may receive certain information, including information about the web page you visited, your IP address, and other information about your device. TuneIn and the widget can recognize you across websites containing TuneIn widgets, and the widget may be used to show personalized content or advertising. We know when you interact with a widget, and websites containing the widgets may receive this information.
 
-**Cookies and Related Technologies.**  When you visit the Service, we and our third party service providers receive and record information from your browser and from cookies and similar technologies. Cookies are small text files containing a string of alphanumeric characters. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Please review your web browser’s “Help” file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential.
-
-Third parties that advertise goods or services on the Service (collectively, “ **Advertisers** ”) may also use cookies or other technologies to track your use of the Service. Advertisers also may use cookies to track your online activities across websites over time to provide interest-based advertising. Some of our Advertisers are members of the [Network Advertising Initiative](https://www.networkadvertising.org/choices/) or the [Digital Advertising Alliance](https://www.aboutads.info/choices/). Please visit these organizations’ opt-out pages to learn about how you may opt out of receiving web-based personalized ads from member companies. Please visit your device’s settings or install the AppChoices app to learn more about how you may opt out of receiving personalized ads in mobile apps. 
-
-One of the third party services that we use to track your activity on the Service is Google Analytics. If you do not want Google Analytics to collect and use information about your use of the website, then you can install an opt-out in your web browser (<https://tools.google.com/dlpage/gaoptout/>). You also may opt-out from Google Analytics for Display Advertising or the Google Display Network by using Google’s Ads Settings located at [www.google.com/settings/ads](https://www.google.com/settings/ads).
+**Cookies and Related Technologies.**  When you visit the Service, we and our third party service providers receive and record information from your browser and from cookies and similar technologies. Learn more about how we use cookies and related technologies in our [Cookie Policy](https://tunein.com/policies/cookie/).
 
 **Internal and Service-Related Usage.**  We use Personal Information for internal and Service-related purposes, including to operate, provide, and maintain the Service.
 
-**Analytics and Improving the Service.**  We and our service providers use Personal information that we collect on the Service, such as your location and your activities on the Service, to monitor and analyze usage of the Service and to improve and enhance the Service.
+**Analytics and Improving the Service.** We and our service providers use Personal information that we collect on the Service, such as your location and your activities on the Service, to monitor and analyze usage of the Service and to improve and enhance the Service.
 
 **Communications.**  We may send emails to an email address you provide to us (i) for customer-service or technical-support purposes, or (ii) to send you (a) information about topics or content that we think may interest you, or (b) updates about the latest developments or features on the Service. We also may send push notifications to your device and a newsletter to the email address you provide to us in the event that you subscribe to receive the newsletter.
 
@@ -69,9 +65,9 @@ If you are located in the European Economic Area (“ **EEA** ”):
 
 
 
-**Vendors and Service Providers.**  We may share any Personal Information we receive with vendors and service providers retained in connection with the provision of the Service. For example, we may use service providers to measure app usage and user engagement, serve advertising on our Services or provide DDoS mitigation services.
+**Vendors and Service Providers.**  We may share any Personal Information we receive with vendors and service providers retained in connection with the provision of the Service. For example, we may use service providers to measure app usage and user engagement, serve advertising on our Services or provide DDoS mitigation services. 
 
-**Advertising Partners.** We may share your Personal Information with our third party advertising partners to provide ads that we think may interest you. For more information about our advertising and marketing practices and those of the third party advertising partners, please see the **Cookies and Related Technologies** section above.
+**Advertising Partners.** We may share your Personal Information with our third party advertising partners to provide ads that we think may interest you. For more information about our advertising and marketing practices and those of the third party advertising partners, please see our [Cookie Policy](https://tunein.com/policies/cookie/)
 
 **Nonaffiliated Companies.**  We do not rent, sell, or share Personal Information (as defined by California Civil Code §1798.83) about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. If we receive your permission, nonaffiliated companies may use your Personal Information to send you offers or other information that you may find of interest. Notwithstanding the foregoing, if you are located outside of the EEA we may share Personal Information (as defined by California Civil Code §1798.83) about you with the National Football League (“ **NFL** ”) for their direct marketing purposes. If you wish to opt out of such information sharing with the NFL, please contact us at [support@tunein.com](mailto:support@tunein.com).
 
@@ -118,7 +114,7 @@ If you are located in the EEA, we comply with EU data protection law when transf
 If you are located in the EEA or Switzerland, you may have the following additional rights to: 
 
   * Request access to and receive information about the Personal Information we maintain about you, to update and correct inaccuracies in your Personal Information, restrict or to object to the processing of your Personal Information, have the information anonymized or deleted, as appropriate, or exercise your right to data portability to easily transfer your Personal Information to another company. In addition, you may also have the right to lodge a complaint with a supervisory authority, including in your country of residence, place of work or where an incident took place.
-  * Withdraw any consent you previously provided to us regarding the processing of your Personal Information, at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of the processing before your consent withdrawal. 
+  * Withdraw any consent you previously provided to us regarding the processing of your Personal Information, at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of the processing before your consent withdrawal.
 
 
 
