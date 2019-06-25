@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225143937id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626014213id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
-
-Thank you for visiting Babies R Us. If you need assistance with shopping on our site, please call us at 888-222-9787 and a customer care representative will be happy to assist you. Please inform the Customer Service representative that you require assistance.
 
 **The "R" Us Family Privacy Policy**
 
@@ -38,8 +36,8 @@ If you provide us with personal information concerning another individual, you r
 
 Subject to legal and contractual requirements and reasonable notice, you may withdraw your consent at any time; however, without such consent, "R" Us Family members may limit the services or products they are able to provide to you. You may also withdraw your consent for:
 
-  * **_Mail marketing, Telephone marketing and Quality control communications._** You may decide that you prefer that "R" Us Family members not use your personal information to promote new and/or additional products and services which may be of interest to you and refuse that an "R" Us Family member contact you by mail or telephone for marketing purposes or by email or telephone for quality control purposes. If this is the case, you may advise us by calling 1-800-TOYSRUS (1-800-869-7787) and asking for assistance through a customer service representative. 
-  * **_Commercial Electronic Messages._** You can always limit commercial electronic messages that "R" Us Family members send to you. To opt-out of commercial electronic messages, simply click the link labeled "unsubscribe" at the bottom of any email that a "R" Us Family member sends to you, follow the other instructions provided or call 1-800-TOYSRUS (1-800-869-7787) and ask for assistance through a customer service representative. Please note that even if you opt-out of these promotional communications, the "R" Us Family may still need to contact you with important information about a purchase made from the "R" Us Family.
+  * **_Mail marketing, Telephone marketing and Quality control communications._** You may decide that you prefer that "R" Us Family members not use your personal information to promote new and/or additional products and services which may be of interest to you and refuse that an "R" Us Family member contact you by mail or telephone for marketing purposes or by email or telephone for quality control purposes. If this is the case, you may advise us by calling 1-866-345-5656 and asking for assistance through a customer service representative. 
+  * **_Commercial Electronic Messages._** You can always limit commercial electronic messages that "R" Us Family members send to you. To opt-out of commercial electronic messages, simply click the link labeled "unsubscribe" at the bottom of any email that a "R" Us Family member sends to you, follow the other instructions provided or call 1-866-345-5656 and ask for assistance through a customer service representative. Please note that even if you opt-out of these promotional communications, the "R" Us Family may still need to contact you with important information about a purchase made from the "R" Us Family.
 
 
 
@@ -113,7 +111,7 @@ Your personal information is processed and stored at Toys "R" Us (Canada) Ltd.'s
 
 Upon your written request to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, L4K 4M5, we will inform you of the existence, use and disclosure of your personal information by an "R" Us Family member, and subject to certain exceptions permitted by law, we will give you a reasonable opportunity to review your personal information collected by the applicable "R" Us Family member.
 
-If at any time you want to update, change or correct the personal information that you submitted at the "R" Us Site or Online Store, you can adjust your communications preferences in the "Your Account" section of the Online Store or call 1-800-TOYSRUS (1-800-869-7787) and ask for assistance on how you may update, change or correct your information. If at any time you want to update or change the information that you submitted in one of the Retail Stores, you can call 1-800-TOYSRUS (1-800-869-7787) and ask for assistance.
+If at any time you want to update, change or correct the personal information that you submitted at the "R" Us Site or Online Store, you can adjust your communications preferences in the "Your Account" section of the Online Store or call 1-866-345-5656 and ask for assistance on how you may update, change or correct your information. If at any time you want to update or change the information that you submitted in one of the Retail Stores, you can call 1-866-345-5656 and ask for assistance.
 
  BACK TO TOP
 
@@ -146,13 +144,13 @@ The "R" Us Site and Online Store may contain links to other websites, including 
 
 **11\. How to contact us**
 
-If you have questions or concerns regarding policies and practices of "R"Us Family members and/or their service providers in respect of the collection, storage, use and disclosure of personal information, please send an email to privacymanager_canada@toysrus.com, call 1-800-TOYSRUS (1-800-869-7787) or write to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, L4K 4M5.
+If you have questions or concerns regarding policies and practices of "R"Us Family members and/or their service providers in respect of the collection, storage, use and disclosure of personal information, please send an email to [privacymanager@toysrus.ca](mailto:privacymanager@toysrus.ca), call 1-866-345-5656 or write to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, L4K 4M5.
 
  BACK TO TOP
 
 **12\. Revisions to this Privacy Policy**
 
-This Privacy Policy may be updated and revised from time to time. If we make a change to this Privacy Policy, we will post an updated policy on our websites and in our Retail Stores, and the updated policy will be available on request by sending an email to privacymanager_canada@toysrus.com, by calling 1-800-TOYSRUS (1-800-869-7787) or by writing to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, L4K 4M5. This policy was last revised on October 12, 2017.
+This Privacy Policy may be updated and revised from time to time. If we make a change to this Privacy Policy, we will post an updated policy on our websites and in our Retail Stores, and the updated policy will be available on request by sending an email to [privacymanager@toysrus.ca](mailto:privacymanager@toysrus.ca), by calling 1-866-345-5656 or by writing to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, L4K 4M5. This policy was last revised on October 12, 2017.
 
  BACK TO TOP
 
@@ -167,6 +165,6 @@ _Effective Date of Privacy Policy: October 12, 2017_
   
 
 
-Toys"R"Us (Canada) Ltd. 2777 Langstaff Road, Concord ON L4K 4M5, Tel: 1 800 TOYSRUS, Email: [can_customerservice@toysrus.com](mailto:can_customerservice@toysrus.com)
+Toys"R"Us (Canada) Ltd. 2777 Langstaff Road, Concord ON L4K 4M5, Tel: 1-866-345-5656, Email: [customerservice@toysrus.ca](mailto:customerservice@toysrus.ca)
 
-© 2018 Toys"R"Us (Canada) Ltd. All Rights reserved. Toys”R”Us, Babies”R”Us are registered trademarks of Toys”R”Us (Canada) Ltd. Use of this site signifies your acceptance of Toys"R"Us Website [Terms and Conditions](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=terms) and [Privacy Policy](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=privacy).
+© 2019 Toys"R"Us (Canada) Ltd. All Rights reserved. Toys”R”Us, Babies”R”Us are registered trademarks of Toys”R”Us (Canada) Ltd. Use of this site signifies your acceptance of Toys"R"Us Website [Terms and Conditions](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=terms) and [Privacy Policy](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=privacy).
