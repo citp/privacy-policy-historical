@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cibmall.net privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216225956id_/http%3A//home.cibmall.net/policy/privacypolicy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cibmall.net privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625165703id_/http%3A//home.cibmall.net/policy/privacypolicy-en.html) for the most accurate reproduction.*
 
 # CIBMALL
 
