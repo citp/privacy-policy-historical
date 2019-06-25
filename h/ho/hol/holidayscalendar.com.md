@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayscalendar.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218000037id_/http%3A//www.holidayscalendar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayscalendar.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625102703id_/http%3A//www.holidayscalendar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -171,6 +171,7 @@ Holidays Calendar uses the following third-party advertising networks:
 
   * Google’s use of advertising cookies enables it and its partners to serve ads to you based on your visit to our sites and/or other sites on the Internet.
   * You may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads).
+  * You may also want to check how Google manages data in its ads products [here](https://policies.google.com/technologies/partner-sites).
 
 
 
