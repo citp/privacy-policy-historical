@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offer18.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218102304id_/http%3A//www.offer18.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offer18.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625224144id_/http%3A//www.offer18.com/privacy_policy) for the most accurate reproduction.*
 
 # Terms - Offer18
 
