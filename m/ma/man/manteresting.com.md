@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the manteresting.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224171557id_/http%3A//manteresting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manteresting.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625032200id_/https%3A//www.manteresting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MANteresting
 
 **Manteresting Privacy Policy**  
 Version  2018-12-19
 
- **1\. ACCEPTANCE OF THE PRIVACY POLICY**  
+**1\. ACCEPTANCE OF THE PRIVACY POLICY**  
 The Terms of Service found on the Manteresting Site are incorporated herein by reference. By using the Site you agree to be bound by the Terms of Service Manteresting Site, whether you are a User or an Organizer.  
 Capitalized terms hereunder shall be defined under the Terms of Service found on the Manteresting Site.  
-[](http://manteresting.com/terms-of-service/)  
+[](https://www.manteresting.com/terms-of-service/)  
 2\. COLLECTION OF INFORMATION AND USE BY MANTERESTING  
 2.1 Collection of information  
 You are free to browse the Site without revealing any personal information making it possible to identify you. However, once you have sent us your identifiable personal information, you are no longer anonymous to us.
@@ -70,7 +70,7 @@ Any dispute arising from, or in connection with, this Privacy Policy, shall be s
 9\. CONTACT  
 For any questions concerning this Privacy Policy, other policies for the Site or how to use the Site, please contact us.
 
-[](http://manteresting.com/contact/)
+[](https://www.manteresting.com/contact/)
 
   
 
