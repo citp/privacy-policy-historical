@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the faveanal.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224152825id_/http%3A//faveanal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faveanal.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625235404id_/http%3A//www.faveanal.com/privacy) for the most accurate reproduction.*
 
 # Your Favorite Anal Tube
 
-Effective Date: Monday 24th of December 2018 04:28:25 PM  
+Effective Date: Wednesday 26th of June 2019 01:54:04 AM  
 Sites Covered: www.faveanal.com 
 
 Pursuant to our [Terms of Use](http://www.faveanal.com/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
