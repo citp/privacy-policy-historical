@@ -1,251 +1,68 @@
-<!--The following is the downloaded HTML source of the dogsome.net privacy policy that was archived on 2018-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181218203820id_/http%3A//dogsome.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dogsome.net privacy policy that was archived on 2019-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190625071323id_/http%3A//dogsome.net/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=730842956996390"></script><script type="text/javascript" async="" src="//dogsome.net/prebid/prebid.js"></script>
+<!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<meta property="fb:pages" content="898338246850719">
+<meta property="fb:pages" content="899845113394167">
 
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=242751832589891&amp;version=v2.0"></script><script async="" src="http://cdn.taboola.com/libtrc/ifroppit-blitzlift/loader.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script src="/scripts/rgi.min.js"></script>
 <script>
-var utmHandler = {
-    createCookie: function(name,value,days) {
-      if (days) {
-        var date = new Date();
-        date.setTime(date.getTime()+(days*24*60*60*1000));
-        var expires = "; expires="+date.toGMTString();
-      }
-      else var expires = "";
-      document.cookie = name+"="+value+expires+"; path=/";
-    },
-    readCookie: function(name) {
-      var nameEQ = name + "=";
-      var ca = document.cookie.split(';');
-      for(var i=0;i < ca.length;i++) {
-          var c = ca[i];
-          while (c.charAt(0)==' ') c = c.substring(1,c.length);
-          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-      }
-      return null;
-    },
-    getSource: function() {
-          var src = this.readCookie('utmsrc');
-          return src;
-    },
-    isFacebook: function() {
-      if (this.getSource() == 'facebook' || this.getSource() == 'facebook.com'){
-        return true;
-      } else {
-        return false;
-      }
-    },
-    isYahoo: function() {
-      if (this.getSource() == 'yahoo' || this.getSource() == 'yahoo.com'){
-        return true;
-      } else {
-        return false;
-      }
-    },
-    isPaid: function() {
-      var src = this.readCookie('utmsrc');
-      if(!src){ return false; }
-      var utm = src.toLowerCase();
-      if (utm == "taboola" || utm == "outbrain" || utm == "yahoo" || utm == "yahoo.com" || utm == "facebook" || utm == "facebook.com"){
-        return true;
-      } else {
-        return false;
-      }
-    },
-    dump: function() {
-      console.log(
-        "cookie: " + this.readCookie('utmsrc') +
-        "\n source: " + this.getSource() + 
-        "\n isPaid: " + this.isPaid() + 
-        "\n isFacebook: " + this.isFacebook() + 
-    "\n isYahoo: " + this.isYahoo() + 
-    "\n enabled: " + JSON.stringify(this.enabled)
-        );
-    },
-    page: 0,
-    numpages: 1,
-    isLast: function() {
-        if(this.page === this.numpages){
-            return true;
-        } else {
-            return false;
-        }
-    },
-    isFirst: function() {
-        if(this.page < 2) {
-            return true;
-        } else {
-            return false;
-        }
-    },
-    enabled: { 
-    tynt: { infeed: false, sliderp1: false, sliderp2: false },
-    exit: false
-    }
-}
+    RGI.init({
+		page: 1,
+		numpages: 1,
+		bidders: {
+			desktop: ['aol', 'appnexusAst', 'districtmDMX', '33across', 'gumgum'],
+			mobile: ['aol', 'appnexusAst', 'districtmDMX', '33across', 'gumgum', 'onemobile']
+		}
+	})
+</script>
+<script>
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+apstag.init({
+     pubID: 'a893de97-3162-44be-a9d4-0cc3db688f38',
+     adServer: 'googletag'
+});
+apstag.fetchBids({
+     slots: RGI.A9Slots,
+     timeout: 2e3
+}, function(bids) {
+     googletag.cmd.push(function(){
+         apstag.setDisplayBids();
+		 // unit rendered by prebid, so removed from A9
+         //googletag.pubads().refresh();
+     });
+});
+
+</script>
+<!-- BEGIN PREBID -->
+<script> 
+	
+var PREBID_TIMEOUT = RGI.isMobile ? 3000 : 1500;
+	
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
 
 </script>
 
-<!-- BEGIN PREBID -->
-<script>
-    function getSize () {
-        return (document.documentElement["clientWidth"]);
-    };
-
-    var pageSize = getSize();
-
-    var PREBID_TIMEOUT = (pageSize >= 728) ? 900 : 900;
-
+  <script type="text/javascript" src="//dogsome.net/prebid/prebid.js" async=""></script>
+  <script>
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
-    
-    function initAdserver() {
-        if (pbjs.initAdserverSet) return;
-        (function() {
-            var gads = document.createElement('script');
-            gads.async = true;
-            gads.type = 'text/javascript';
-            var useSSL = 'https:' == document.location.protocol;
-            gads.src = (useSSL ? 'https:' : 'http:') +
-            '//www.googletagservices.com/tag/js/gpt.js';
-            var node = document.getElementsByTagName('script')[0];
-            node.parentNode.insertBefore(gads, node);
-        })();
-        pbjs.initAdserverSet = true;
-    };
-    setTimeout(initAdserver, PREBID_TIMEOUT);
-
-    var pbjs = pbjs || {};
-    pbjs.que = pbjs.que || [];
-    (function() {
-        var pbjsEl = document.createElement("script");
-        pbjsEl.type = "text/javascript";
-        pbjsEl.async = true;
-        pbjsEl.src = "//dogsome.net/prebid/prebid.js";
-        var pbjsTargetEl = document.getElementsByTagName("head")[0];
-        pbjsTargetEl.insertBefore(pbjsEl, pbjsTargetEl.firstChild);
-    })();
+    googletag.cmd.push(function() {
+        googletag.pubads().disableInitialLoad();
+    });
 
     pbjs.que.push(function() {
-        if (pageSize >= 728) {
-            var adUnits = [{ 
-                code: 'div-gpt-ad-1487192741196-5',  //ds_header
-                sizes: [[728, 90]],
-                bids: [
-                        //{ bidder: 'criteo', params: { zoneId: '733749' }},
-                        { bidder: 'appnexus', params: { placementId: '11051506' }},
-                        { bidder: 'pulsepoint', params: { cf: '160X600', cp: 560836, ct: 557951 }},
-                        //{ bidder: 'aol', params: { placement: '4526286', network: '10488.1', sizeId: '154', alias: '4526286' }},
-                        { bidder: 'districtmDMX', params: { id: '143439' }},
-                        { bidder: 'brealtime', params: { placementId: '10855783' }}
-                        //{ bidder: 'sekindoapn', params: { placementId: '10862595' }},
-                        //{ bidder: 'defymedia', params: { placementId: '10854599' }}
-                ]
-            },{
-                code: 'div-gpt-ad-1487192741196-7',  //ds_side
-                sizes: [[300, 600]],
-                bids: [
-                        //{ bidder: 'criteo', params: { zoneId: '733750' }},
-                        { bidder: 'aol', params: { placement: '4526281', network: '10488.1', sizeId: '529', alias: '4526281' }},
-                        { bidder: 'appnexus', params: { placementId: '11049904' }},
-                        { bidder: 'pulsepoint', params: { cf: '300X600', cp: 560836, ct: 557957 }},
-                        //{ bidder: 'sekindoapn', params: { placementId: '10862596' }},
-                        { bidder: 'brealtime', params: { placementId: '10855782' }},
-                        //{ bidder: 'defymedia', params: { placementId: '10854602' }},
-                        { bidder: 'districtmDMX', params: { id: '143440' }}
-                ]
-            },{ 
-                code: 'div-gpt-ad-1487192741196-4', //ds_article_btf
-                sizes: [[728, 90]],
-                bids: [
-                        //{ bidder: 'criteo', params: { zoneId: '733752' }},
-                        { bidder: 'aol', params: { placement: '4549288', network: '10488.1', sizeId: '225', alias: '4549288' }},
-                        { bidder: 'appnexus', params: { placementId: '11051510' }},
-                        { bidder: 'pulsepoint', params: { cf: '728X90', cp: 560836, ct: 557958 }},
-                        //{ bidder: 'sekindoapn', params: { placementId: '10862605' }},
-                        { bidder: 'brealtime', params: { placementId: '10860956' }},
-                        //{ bidder: 'defymedia', params: { placementId: '10860957' }},
-                        { bidder: 'districtmDMX', params: { id: '143560' }}
-                ]
-            }];
-        } else {
-            var adUnits = [{
-                code: 'div-gpt-ad-1487192741196-7',  //ds_side
-                sizes: [[300, 600]],
-                bids: [
-                        { bidder: 'aol', params: { placement: '4526284', network: '10488.1', sizeId: '529', alias: '4526284' }},
-                        { bidder: 'pulsepoint', params: { cf: '300X600', cp: 560836, ct: 557965 }},
-                        { bidder: 'appnexus', params: { placementId: '11051640' }},
-                        //{ bidder: 'sekindoapn', params: { placementId: '10712456' }},
-                        { bidder: 'brealtime', params: { placementId: '10855785' }},
-                        //{ bidder: 'defymedia', params: { placementId: '10854610' }},
-                        { bidder: 'districtmDMX', params: { id: '143442' }}
-                ]
-            },{ 
-                code: 'div-gpt-ad-1487192741196-4', //ds_article_btf
-                sizes: [[300, 250]],
-                bids: [
-                        { bidder: 'pulsepoint', params: { cf: '300X250', cp: 560836, ct: 557964 }},
-                        { bidder: 'appnexus', params: { placementId: '11051533' }},
-                        { bidder: 'aol', params: { placement: '4564590', network: '10488.1', sizeId: '170', alias: '4564590' }},
-                        //{ bidder: 'sekindoapn', params: { placementId: '10862607' }},
-                        { bidder: 'brealtime', params: { placementId: '10856161' }},
-                        //{ bidder: 'defymedia', params: { placementId: '10854606' }},
-                        { bidder: 'districtmDMX', params: { id: '143557' }}
-                ]
-            }];            
-        }
-    pbjs.addAdUnits(adUnits);
-
-    pbjs.addCallback('adUnitBidsBack', function(adUnitCode){
-        console.log('ad unit bids back for : ' + adUnitCode);
+        pbjs.addAdUnits(RGI.adUnits);
+        pbjs.requestBids({
+            bidsBackHandler: sendAdserverRequest
+        });
     });
-    pbjs.requestBids({
-        bidsBackHandler: function(bidResponses) {
-            initAdserver();
-        }
-    })
 
     pbjs.bidderSettings = {
-        districtmDMX: {
-            bidCpmAdjustment : function(bidCpm){
-                return (bidCpm * .85 * .78) * 1.14;
-            }
-        },
-        defymedia: {
-            bidCpmAdjustment : function(bidCpm){
-                return (bidCpm * .80 * .68) * 1.14;
-            }
-        },
-        brealtime: {
-            bidCpmAdjustment : function(bidCpm){
-                return (bidCpm * 1 * .78) * 1.14;
-            }
-        },
-        pulsepoint: {
-            bidCpmAdjustment : function(bidCpm){
-                return (bidCpm * 1 * .95) * 1.14;
-            }
-        },
-        sekindoapn: {
-            bidCpmAdjustment : function(bidCpm){
-                return (bidCpm * .80 * .75) * 1.14;
-            }
-        },
-        aol: {
-            bidCpmAdjustment : function(bidCpm){
-                return (bidCpm * 1 * 1.10) * 1.14;
-            }
-        },
-        criteo: {
-            bidCpmAdjustment : function(bidCpm){
-                return (bidCpm * 1 * 1.10) * 1.14;
-            }
-        },
         standard: {
             alwaysUseBid: false,
             adserverTargeting: [{
@@ -261,13 +78,11 @@ var utmHandler = {
             }, {
                 key: "hb_pb",
                 val: function(bidResponse) {
-                    // define your own function to assign price bucket
-                    if (bidResponse.cpm < 0.50)
+                    if (bidResponse.cpm <= 20.00){
                         return bidResponse.pbHg;
-                    if (bidResponse.cpm <= 10.00)
-                        return bidResponse.pbMg;
-                    if (bidResponse.cpm > 10.00)
-                        return "10.00";
+					} else if (bidResponse.cpm > 20.00){
+						return (Math.round(100*bidResponse.cpm)/100);
+					}
                 }
             }, {
                 key: "hb_size",
@@ -277,54 +92,76 @@ var utmHandler = {
             }]
         }
     }
-});
+
+    function sendAdserverRequest() {
+        if (pbjs.adserverRequestSent) return;
+        pbjs.adserverRequestSent = true;
+        googletag.cmd.push(function() {
+            pbjs.que.push(function() {
+				pbjs.setConfig({
+					enableSendAllBids: false
+				});
+                pbjs.setTargetingForGPTAsync();
+                googletag.pubads().refresh();
+            });
+        });
+    }
+    setTimeout(function() {
+        sendAdserverRequest();
+    }, PREBID_TIMEOUT);
+
+  </script>
+
+  <script>
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
 </script>
 
 <script>
 googletag.cmd.push(function() {
+	
+	RGI.defineGPTSlots(RGI.slots[0]);
 
-    var mapping1 = googletag.sizeMapping().
-        addSize([768,200],[[336,280],[300,250]]).
-        addSize([0,0],[320,50]).
-        build();
-
-    var mapping2 = googletag.sizeMapping().
-        addSize([768,200],[728,90]).
-        addSize([0,0],[[300,250],[320,100],[320,50]]).
-        build();
-
-    var mapping3 = googletag.sizeMapping().
-        addSize([768,200],[728,90]).
-        addSize([0,0],[]).
-        build();
-
-    googletag.defineSlot('/28931921/ds_article_btf', [[728, 90], [300,250], [320, 50], [320, 100]], 'div-gpt-ad-1487192741196-4').defineSizeMapping(mapping2).addService(googletag.pubads());
-    googletag.defineSlot('/28931921/ds_side', [300, 600], 'div-gpt-ad-1487192741196-7').addService(googletag.pubads());
-    googletag.defineSlot('/28931921/ds_header', [728, 90], 'div-gpt-ad-1487192741196-5').defineSizeMapping(mapping3).addService(googletag.pubads());
-
-    pbjs.que.push(function() {
-        pbjs.setTargetingForGPTAsync();
-    });
-
+	googletag.pubads().setTargeting('url', 'privacy-policy');
+	googletag.pubads().setTargeting('pnum', '0');
+    googletag.pubads().setTargeting('src', RGI.utm.source);
+	googletag.pubads().setTargeting('campaign', RGI.utm.campaign);
     googletag.pubads().enableSingleRequest();
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+// 		console.log('slot loading: ' + event.slot.getSlotElementId());
+// 		console.log('slot empty: ' + event.isEmpty);
+      	if(event.slot.getSlotElementId() === 'rgi-oop' && event.isEmpty === false && RGI.isMobile === true){
+		  console.log(event.lineItemId + ' || ' + event.sourceAgnosticLineItemId);
+		  var wrap = document.querySelector('#rgi-oop-wrap');
+		  var oop = document.querySelector('#rgi-oop');
+		  wrap.style.display = "";
+		  wrap.style.margin = "0 auto";
+		  oop.style.position = 'fixed';
+		  oop.style.zIndex = '2147483647';
+		  oop.style.bottom = '0';
+		  oop.style.left = '50%';
+		  oop.style.transform = "translateX(-50%)";
+		  oop.style.width = '320px';
+	  	}
+    });
     googletag.pubads().collapseEmptyDivs();
-    googletag.enableServices();       
+    googletag.enableServices();
 });
 </script>
-<!-- END PREBID -->
 
-</head><body class="page-template-default page page-id-89 group-blog wpb-js-composer js-comp-ver-5.6 vc_responsive"><div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=730842956996390";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+<!-- END PREBID -->
 
 <title>Privacy Policy</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v9.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v11.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://dogsome.net/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -332,6 +169,7 @@ googletag.cmd.push(function() {
 <meta property="og:description" content="This Privacy Policy discloses the privacy practices for the Dogsome.net Site and various related services (together referred to as the “Site”). Dogsome.net (“Dogsome.net,” “Us,” “Our” or “We”) is committed to protecting Your privacy online. All visitors to, or users of, Dogsome.net are referred to, individually, as “You” or “Your.” Please read the information below to…">
 <meta property="og:url" content="http://dogsome.net/privacy-policy/">
 <meta property="og:site_name" content="Dogsome.net">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://dogsome.net/#organization","name":"","url":"http://dogsome.net/","sameAs":[]},{"@type":"WebSite","@id":"http://dogsome.net/#website","url":"http://dogsome.net/","name":"Dogsome.net","publisher":{"@id":"http://dogsome.net/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://dogsome.net/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://dogsome.net/privacy-policy/#webpage","url":"http://dogsome.net/privacy-policy/","inLanguage":"en-US","name":"Privacy Policy","isPartOf":{"@id":"http://dogsome.net/#website"},"datePublished":"2014-09-17T02:30:09+00:00","dateModified":"2018-05-24T22:52:15+00:00"}]}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -347,21 +185,24 @@ googletag.cmd.push(function() {
 <link rel="stylesheet" id="beeteam_front_hover_css-css" href="http://dogsome.net/wp-content/plugins/ultimate-layouts-vc/assets/front-end/hover-css/hover.css?ver=2.2.0" type="text/css" media="all">
 <link rel="stylesheet" id="beeteam_front_pagination_css-css" href="http://dogsome.net/wp-content/plugins/ultimate-layouts-vc/assets/front-end/pagination/pagination.css?ver=2.2.0" type="text/css" media="all">
 <link rel="stylesheet" id="beeteam_front_malihu_css-css" href="http://dogsome.net/wp-content/plugins/ultimate-layouts-vc/assets/front-end/malihuscroll/jquery.mCustomScrollbar.min.css?ver=2.2.0" type="text/css" media="all">
-<link rel="stylesheet" id="parent-style-css" href="http://dogsome.net/wp-content/themes/dogsome17/style.css?ver=5.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="semplicemente-style-css" href="http://dogsome.net/wp-content/themes/dogsome17-child/style.css?ver=5.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="rgi-custom-style-css" href="http://dogsome.net/wp-content/themes/dogsome17-child/rgi-custom-style.css?ver=5.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="wp-block-library-css" href="http://dogsome.net/wp-includes/css/dist/block-library/style.min.css?ver=5.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://dogsome.net/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.6" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="http://dogsome.net/wp-content/themes/dogsome17/style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="semplicemente-style-css" href="http://dogsome.net/wp-content/themes/dogsome17-child/style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="rgi-custom-style-css" href="http://dogsome.net/wp-content/themes/dogsome17-child/rgi-custom-style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="http://dogsome.net/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://dogsome.net/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=6.0.3" type="text/css" media="all">
 <link rel="stylesheet" id="semplicemente-googlefonts-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700" type="text/css" media="all">
-<link rel="stylesheet" id="recent-posts-widget-with-thumbnails-public-style-css" href="http://dogsome.net/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=6.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="recent-posts-widget-with-thumbnails-public-style-css" href="http://dogsome.net/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=6.5.0" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='http://dogsome.net/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.3' type='text/css' media='screen' />
+<![endif]-->
 <link rel="stylesheet" id="ul_bete_front_css-css" href="http://dogsome.net/wp-content/plugins/ultimate-layouts-vc/assets/front-end/core.css?ver=2.2.0" type="text/css" media="all">
 <script type="text/javascript" src="http://dogsome.net/wp-content/plugins/ultimate-layouts-vc/assets/front-end/lazysizes.js?ver=2.2.0"></script>
-<script type="text/javascript" src="http://dogsome.net/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://dogsome.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
 <script type="text/javascript" src="http://dogsome.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="http://dogsome.net/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dogsome.net/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dogsome.net/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 5.0.1">
+<meta name="generator" content="WordPress 5.2.2">
 <link rel="shortlink" href="http://dogsome.net/?p=89">
 <link rel="alternate" type="application/json+oembed" href="http://dogsome.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdogsome.net%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://dogsome.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdogsome.net%2Fprivacy-policy%2F&amp;format=xml">
@@ -373,13 +214,57 @@ googletag.cmd.push(function() {
 		
 </style>
     <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://dogsome.net/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="http://dogsome.net/wp-content/uploads/dsico.png" sizes="32x32">
+<link rel="icon" href="http://dogsome.net/wp-content/uploads/dsico.png" sizes="32x32">
 <link rel="icon" href="http://dogsome.net/wp-content/uploads/dsico.png" sizes="192x192">
 <link rel="apple-touch-icon-precomposed" href="http://dogsome.net/wp-content/uploads/dsico.png">
 <meta name="msapplication-TileImage" content="http://dogsome.net/wp-content/uploads/dsico.png">
-<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<script>RGI.setTrackingPixels();</script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({photo:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  'http://cdn.taboola.com/libtrc/ifroppit-blitzlift/loader.js');
+</script> 
+	
+</head><body class="page-template-default page page-id-89 group-blog wpb-js-composer js-comp-ver-6.0.3 vc_responsive"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=242751832589891&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '113235152936549');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=113235152936549&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->	
 
 
+
+
+<div id="rgi-oop-wrap" style="display:none;"></div>
+<div id="rgi-outofpage"></div>
 
 <div id="page" class="hfeed site">
 
@@ -392,17 +277,16 @@ googletag.cmd.push(function() {
             </div>
 			<div class="rgi-header-nav-wrap">
 			<ul class="rgi-header-nav">
-	<li class="cat-item cat-item-2"><a href="http://dogsome.net/category/photos/">Photos</a>
+	<li class="cat-item cat-item-2"><a href="http://dogsome.net/photos/">Photos</a>
 </li>
-	<li class="cat-item cat-item-3"><a href="http://dogsome.net/category/stories/">Stories</a>
+	<li class="cat-item cat-item-3"><a href="http://dogsome.net/stories/">Stories</a>
 </li>
-	<li class="cat-item cat-item-4"><a href="http://dogsome.net/category/videos/">Videos</a>
+	<li class="cat-item cat-item-4"><a href="http://dogsome.net/videos/">Videos</a>
 </li>
 		</ul>
     	</div>
 		</div>
-    </header>
-	<!-- #masthead -->
+	</header><!-- #masthead -->
 
 	<div id="content" class="site-content">
 
@@ -483,21 +367,17 @@ http://optout.aboutads.info/#!/</p>
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script type="text/javascript" src="http://dogsome.net/wp-content/themes/dogsome17/js/jquery.semplicemente.js?ver=1.0"></script>
-<script type="text/javascript" src="http://dogsome.net/wp-content/themes/dogsome17/js/navigation.js?ver=20120206"></script>
-<script type="text/javascript" src="http://dogsome.net/wp-includes/js/comment-reply.min.js?ver=5.0.1"></script>
+<script type="text/javascript" src="http://dogsome.net/wp-content/themes/dogsome17/js/jquery.semplicemente.js?ver=5.2.2"></script>
+<script type="text/javascript" src="http://dogsome.net/wp-content/themes/dogsome17/js/navigation.js?ver=20151215"></script>
+<script type="text/javascript" src="http://dogsome.net/wp-includes/js/comment-reply.min.js?ver=5.2.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var q2w3_sidebar_options = [{"sidebar":"sidebar-3","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-7","custom_html-8"]}];
+var q2w3_sidebar_options = [{"sidebar":"sidebar-3","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-7","custom_html-8"]},{"sidebar":"sidebar-1","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-9","text-3"]}];
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://dogsome.net/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4"></script>
-<script type="text/javascript" src="http://dogsome.net/wp-includes/js/wp-embed.min.js?ver=5.0.1"></script>
+<script type="text/javascript" src="http://dogsome.net/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.9"></script>
+<script type="text/javascript" src="http://dogsome.net/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
 
 
 
-
-<!-- Dynamic page generated in 0.035 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2018-12-17 20:02:58 -->
-
-<!-- Compression = gzip --></body></html>
+</body></html>
