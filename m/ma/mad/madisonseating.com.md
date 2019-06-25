@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the madisonseating.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612073535id_/https%3A//www.madisonseating.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madisonseating.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625204629id_/https%3A//www.madisonseating.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy at MadisonSeating.com
 
-Thank you for visiting Madison Seating.com.  We value our customer's privacy and security of information.  We treat your information with the sensitivity and security you deserve and expect.  We know you have many choices in where to shop and thank you in advance for your patronage.
+Thank you for visiting Madison Seating.com. We value our customer's privacy and security of information. We treat your information with the sensitivity and security you deserve and expect. We know you have many choices in where to shop and thank you in advance for your patronage.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
