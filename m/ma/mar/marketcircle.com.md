@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketcircle.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928003231id_/https%3A//www.marketcircle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketcircle.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625210722id_/https%3A//www.marketcircle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Marketcircle
 
@@ -306,6 +306,7 @@ We may also use and disclose your personal data to service providers, data proce
 ### List of subprocessors:
 
   * Atlassian
+  * AWS
   * Bambora
   * ChartMogul
   * DigitalOcean
@@ -350,7 +351,7 @@ Marketcircle does not save your complete payment information as we use tokenizat
 
 Marketcircle and the Third Party Processors will send emails to you regarding the processing of your online payment. Your use of the Third Party Processors is governed by the agreement between you and those third party providers.
 
-If you have any questions or concerns about your payment information or your agreement with Recurly, please contact Recurly at 1-844-732-8759 or [www.recurly.com](https://web.archive.org/web/20180928003231id_/https%3A//www.marketcircle.com/www.recurly.com). If you have any questions or concerns about your payment information or your agreement with Fastspring, please contact Fastspring at 1-877-327-8914 or [www.fastspring.com](https://web.archive.org/web/20180928003231id_/https%3A//www.marketcircle.com/www.fastspring.com). If you have any questions or concerns about your payment information or your agreement with Bambora, please contact Bambora at 1-833-226-2672 or [www.bambora.com](https://web.archive.org/web/20180928003231id_/https%3A//www.marketcircle.com/www.bambora.com).
+If you have any questions or concerns about your payment information or your agreement with Recurly, please contact Recurly at 1-844-732-8759 or [www.recurly.com](https://web.archive.org/web/20190625210722id_/https%3A//www.marketcircle.com/www.recurly.com). If you have any questions or concerns about your payment information or your agreement with Fastspring, please contact Fastspring at 1-877-327-8914 or [www.fastspring.com](https://web.archive.org/web/20190625210722id_/https%3A//www.marketcircle.com/www.fastspring.com). If you have any questions or concerns about your payment information or your agreement with Bambora, please contact Bambora at 1-833-226-2672 or [www.bambora.com](https://web.archive.org/web/20190625210722id_/https%3A//www.marketcircle.com/www.bambora.com).
 
 ### 12\. Cookies, Web Beacons and Other Similar Technology
 
@@ -416,7 +417,7 @@ We comply with Canada’s anti-spam legislation (CASL) and we will not send you 
 
 If you decide to unsubscribe, we will only contact you (i) for the purposes allowed under applicable law; (ii) to send you notices of changes to our Privacy Policy; or (iii) to receive Service related messages.
 
-### 19\. How to Contact Us: Marketcircle Inc. [www.marketcircle.com](https://web.archive.org/web/20180928003231id_/https%3A//www.marketcircle.com/www.marketcircle.com) 30 Centurian Drive, Suite 201 in Markham ON, Canada, L3R8B8
+### 19\. How to Contact Us: Marketcircle Inc. [www.marketcircle.com](https://web.archive.org/web/20190625210722id_/https%3A//www.marketcircle.com/www.marketcircle.com) 30 Centurian Drive, Suite 201 in Markham ON, Canada, L3R8B8
 
 We welcome your feedback. If you have questions, comments or concerns about this Privacy Policy, or would like to do any of the following:
 
