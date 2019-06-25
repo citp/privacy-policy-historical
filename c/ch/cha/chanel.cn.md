@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chanel.cn privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024304id_/https%3A//services.chanel.com/en_WW/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chanel.cn privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625203937id_/https%3A//services.chanel.com/en_WW/policies/privacy) for the most accurate reproduction.*
 
 # CHANEL POLICIES
 
@@ -7,166 +7,271 @@
 
   * ## 
 
-The Chanel companies worldwide ("Chanel") recognize the importance of protecting the privacy of all consumers (“you” or “user”) who visit the CHANEL hosted or sponsored websites.
+CHANEL highly cares about your privacy and data protection. 
 
-We also believe it is important to inform you about how we will use your personal information, and to give you choices about how this data will be used. For these reasons, we encourage you to read this Privacy Policy carefully.
+We are committed to offering the highest standards of products and services. Thus, we value each of our existing or prospective client and aim at maintaining the best protection for your personal data 
 
-This Privacy Policy is directed and applicable to individuals who visit those portions of the Chanel websites accessible at [www.chanel.com](http://www.chanel.com/), as well as and including any other Chanel sites or web pages accessible through such sites or other promotional websites Chanel hosts or sponsors such as minisites or pages on third party social networking services, directed at English speaking consumers in countries where there is no localized version of the Chanel website accessible by going to the “Languages” page or link in the home page of [www.chanel.com](http://www.chanel.com/) (collectively the “Sites”).
+The CHANEL Online Privacy Policy explains how CHANEL collects, processes and protects your personal data when you use our website/app, when you purchase CHANEL products via our website/app, or when you apply for a job at CHANEL online as required by the data protection laws in the countries in which we do business and in particular with the EU General Data Protection Regulation (Regulation 2016/679 - “GDPR”). This Policy applies to those websites and apps which provide for a link to it. 
 
-This Privacy Policy applies only to information collected by us via the Sites. Different personal data policies may apply in other countries or world regions where a local version of the Site exists.
+We have implemented a robust data protection compliance program, which includes the adoption of the high-standard data protection principles of the GDPR at a global level and includes the: 
 
-You expressly acknowledge and agree that your personal data may be collected on the Sites.
-
-  * ## 
-
-This Privacy Policy sets forth how Chanel collects and uses your personal data and the measures taken to ensure the protection of your personal data while you use the Site, pursuant to French law n°78-17 of January 6, 1978 on Data processing, files and individual liberties as amended by French law n°2004-801 of August 6, 2004 relating to the Protection of individuals with regard to the processing of personal data.
-
-Chanel protects the privacy of the users of its Sites by complying with the applicable regulations in force. Accordingly, Chanel, as data controller, has notified the French data protection authority (Commission Nationale de l’Informatique et des Libertés) (hereinafter "CNIL") that it collects and processes your personal data.
+    1. adoption of Binding Corporate Rules (“BCRs”), which should ensure the same level of protection by all CHANEL entities, and to allow transfers of personal data within CHANEL’s organization globally. (For the moment, our BCRs are still under consideration for approval by the data protection authorities);
+    2. creation of a Data Protection Office and a network of local data protection contacts;
+    3. adoption of internal policies and procedures to ensure compliance with applicable data protection laws and regulations;
+    4. implementation of appropriate technical and organizational measures to implement the data protection principles.
 
   * ## 
 
- **2.1 Data Collection**
+The CHANEL websites are operated by CHANEL SAS in France ("CHANEL" or "we"). CHANEL may further share information with its affiliates in accordance with the safeguards foreseen in this policy.
 
-**Identifiable personal information**
+Any online sales on the e-commerce section of this website are made by CHANEL SAS. For the UK in particular, sales are made by CHANEL Limited, a UK company.
 
-Chanel is likely to collect directly your identifiable personal information,namely via, the data collection form, “contact” section or when you subscribe to Chanel News (RSS feed). 
+All marketing communications are sent to you by CHANEL SAS. For the UK in particular, all marketing communications are sent to you by CHANEL Limited.
 
-“Identifiable personal information” refers to information related to you as an individual, communicated by you by using the application form, or that Chanel collects within the framework of your use of the Sites and which, whatever their nature constitutes direct or indirect identifiable personal information. Identifiable personal information includes personal information (such as your first and last name, contact information such as email, and photographs, as provided by you) as well as electronic identification data available on or from your computer (such as cookies or IP addresses). Your electronic identification data makes it possible to identify and geolocalize your Internet connection terminal and the pages you visited while using the Sites. As such, electronic identification data generally cannot be used to identify you personally. 
+Information on a job applicant is directed to the local Human Resources team in charge of the open position.
 
-In order to fight against counterfeiting and infringement, Chanel has set up automated processes to collect information on companies or individuals who commit or are likely to commit acts that violate its rights. This information will be accessible to any company legally authorized to use the Chanel trademarks, in France or abroad, that has been a victim of such violations, for the purpose of taking action or any necessary measures to protect their rights. 
+If you want to contact CHANEL or its Data Protection Office, please see under “How to contact CHANEL for privacy queries” below.
 
-**Cookies**
+  * ## 
 
-Cookies cannot be used to identify you. However, they record information relating to your computer's use of the Sites (the pages you visit, the date and time of your visit, etc.), which Chanel may use during subsequent visits, or the number of times Chanel promotional content is displayed on third-party sites or applications. 
+ **Information provided directly by you.**
 
-Chanel may collect information by installing a cookie or web beacon on your computer via the Sites. Chanel may also memorize connection and login preferences and information relating to use of online services. Depending on the settings you choose for your terminal, which you can change at any time, the cookies that Chanel installs via the Sites do the following: 
-
-    * Determine statistics and volumes relating to traffic and use of the Sites' various components (sections and content visited, and paths used), which help improve the relevance and user-friendliness of the services offered to you; and
-    * Count clicks for components of online services.
-
+    * Information collected online on our website or other digital platforms and Apps, for example by filling in the “contact” section when you subscribe to the Newsletter proposed by CHANEL, or when you create your customer account in the CHANEL Online Boutique;
   
-Chanel may also purchase advertising space to promote its products using promotional content distributed via third-party sites or applications, which may contain cookies. Depending on the settings you choose for your terminal, which you can change at any time, such cookies may be installed on your terminal in order to:   
 
+    * Information collected through the "candidate space" available via CHANEL Careers.
 
-    * Count the number of displays and activations of our promotional content distributed via third-party sites or applications; identify such content and sites or applications; and determine the number of users that have clicked on each content display; and
-    * Establish statistics.
+_Important Notice: When submitting any personal data, including multimedia contents (photographs, videos …) please ensure it is accurate and do not transmit any content which is not expressly requested through a questionnaire or any other collection method (such as commercial information, advertising, personal creations, ideas, or concepts)._
 
-If you do not wish Chanel to use all or part of the above mentioned cookies please click here. Please be aware that restricting cookies may impact on your user experience and may prevent you from using part of our website.   
-Chanel hereby informs you that you can also disable the installation of cookies by configuring your browser as follows: 
+**Information we obtain indirectly about you.**
 
-For Mozilla Firefox: Select the "Tools" menu, then "Options". Click the "Privacy" icon, locate the "Cookies" menu and select your preferred options.   
-For Microsoft Internet Explorer 6.0 and later: Select the "Tools" menu, then "Internet Options". Click the "Confidentiality" tab and use the cursor to select the level desired.   
-For Opera 6.0 and later: From the "File" menu, select "Preferences", then click on "Privacy" and select your preferred options.   
-For Safari: From the Safari menu,select "Preferences", then click on "Security" and select your preferred options.   
-For Google Chrome : select the Chrome menu, then select “Settings” and click on “show advanced settings”. In the Privacy section chose “Content settings” ; then In the “Cookies” section you can select your options.   
-"Flash"© Cookies from "Adobe Flash Player"™   
-"Adobe Flash Player"™ is a computer application that can be used to quickly develop dynamic content using the "Flash" computer language. Flash (and similar applications) memorizes the settings, preferences, and use of such content by means of a technology similar to cookies. However, "Adobe Flash Player"™ manages relevant information and your preferences via a different interface than the one supplied by your browsing software.   
-Considering that your terminal may view content developed with Flash, we invite you to access your Flash cookie management resources directly from the website http://www.adobe.com/fr/. 
+Some additional information is collected indirectly about you while you are browsing the CHANEL website. This information is technically needed for the proper functioning of the CHANEL website, to improve your browsing experience or in order for CHANEL to perform analytics that will enable us to serve you better by personalizing our online services for you.
 
-**RSS Feed**
+    * Technical information, such as IP address and cookies, linked to your browsing on our websites, for logging purposes and identification of your country/city via geolocation; 
+    * Information relative to your online profile and website usage data (e.g. behavioral analysis via cookies and similar technologies, your navigation trail of the website, registration of products in the shopping basket );
+    * Personal data collected via media platforms and social networks (e.g. when you follow CHANEL's pages on those social networks, personal information that you have designated as public and that can be publicly viewed on your social network profile). 
 
-A RSS (Really Simple Syndication) feed is automatically generated as a particular website is updated. Chanel invites you to subscribe to RSS feeds that will enable you to be notified when articles are published, particularly on the “chanel-news.chanel.com” website. The feed will be updated automatically or manually when you refresh your Internet browser or email program, depending on the subscription options you have selected. 
+Our website does not specifically focus on minors. If we should nevertheless inadvertently collect such information, the minor's legal representative can exercise the minor’s rights on his/her behalf and on his/her name at any time (see below).
 
-You can unsubscribe from a RSS feed at any time by deleting it from your browser and/or your email program. RSS feeds do not enable Chanel to obtain any information concerning you. For technical reasons, Chanel is aware only of the number of subscribers to its RSS feeds. 
-
-Social networks 
-
-Chanel publishes pages on social networks such as Facebook™, Twitter™, Instagram™ that present and provides information on Chanel on such social networks. 
-
-You can follow Chanel's pages on those social networks. Personal information that you have designated as public and that is accessible from your profile can be accessed by Chanel. Chanel does not create or use any databases unaffiliated with those social networks that would be compiled from any personal information you publish there. 
-
-If you wish to block Chanel from accessing the personal information that you have published on your profile (and which is publicly visible), we remind you that social networks allow you to restrict access to your information. We recommend that you check their identifiable personal information policy on a regular basis. 
-
-**2.2 Data Use**
-
-The information you provide on the Sites enables Chanel to: 
-
-* Process your questions and requests for information;   
-* Assess the Sites' audience;   
-* Send you the News you have subscribed for;   
-* Provide information on Chanel products;   
-* Inform you of events organized by Chanel;   
-* Invite you to take part in surveys;   
-* Enable you to follow the Sites and its latest developments (in the Chanel News section). 
-
-Mandatory information required by Chanel to carry out the above tasks is marked with an asterisk on the different pages of the Sites. All other information is optional. It helps us to know you better and to improve our communication and the services we offer you. 
-
-**2.3 Data Storage**
-
-Your email collected during the campaign CHANEL’s GABRIELLE bag will not be kept by CHANEL. CHANEL will erase your email address collected on this basis at latest at the end of 2017. 
-
-Chanel may store your identifiable personal information for a period of up to ten years following the last date of contact. Cookies used to analyze traffic on the Sites are stored for six months.
+In order to fight against counterfeiting and infringement, CHANEL has set up automated processes to collect information on companies or individuals who commit or are likely to commit acts that violate its rights. This information will be accessible to any company legally authorized to use the CHANEL trademarks that has been a victim of such violations, for the purpose of taking action or any necessary measures to protect their rights.
 
   * ## 
 
-The data collected shall be provided only to Chanel and to companies authorized to use the CHANEL trademarks.
+If you are an existing or prospective client of CHANEL, we may use your personal data in order to:   
 
-Chanel will not transmit your identifiable personal information to third parties unless:
 
-    * Chanel is required to share such information with its distributors or service providers, in particular, its technical service providers, to supply a service that you have requested (for example, sending a Newsletter); or
-    * Chanel receives a request from a judicial authority or any other legally authorized administrative authority asking that such information be disclosed in compliance with the laws in force.
-  
-Chanel will use its best efforts to ensure the confidentiality and security of identifiable personal information that has been collected when transmitting it to the aforementioned entities.
-
-When you introduce a Chanel brand product to someone you know using the "Share" function provided on the Sites, the information you enter is used only to send your message. It is not stored by Chanel or used for any other purpose. You are solely responsible for any messages you send to people you know using the "Share" function.
-
-  * ## 
-
-Chanel requests that you refrain from transmitting any content including but not limited to business, advertising, creative, marketing or any other types of proposals, concepts, know-how, ideas and the like ("Unsolicited Materials") that is not requested via a questionnaire or any other collection form, such as commercial information, advertisements, personal creations, ideas, or concepts, etc.  
-All Unsolicited Materials, including any unsolicited Personal Information (for example, Personal Information provided not in response to a specific request for such information, but in a free form text box), that we receive will not be subject to this Privacy Policy. By submitting any Unsolicited Materials, you agree that we shall have the sole discretion as to how to utilize such Unsolicited Materials and you automatically provide to us a perpetual, royalty free license to such end. If any Unsolicited Materials that you provide to us are protected by third party copyright, trademark or other proprietary rights, you agree to indemnify, defend, and hold harmless Chanel against any claims or actions brought against Chanel arising out of or relating to our use or possession of the Unsolicited Materials.
-
-  * ## 
-
-Chanel will use its best efforts to protect your identifiable personal information against damage, loss, disclosure, misappropriation, intrusion, alteration, and destruction.
-
-Chanel's information systems are protected by state-of-the-art hardware and software security systems. Physical and electronic safeguard procedures are implemented in connection with data collected on the Sites, in accordance with the applicable French laws governing personal data protection.
-
-Any Chanel employees who, in the course of their work, might have access to your identifiable personal information agree to hold it in the strictest confidence.
-
-However, Chanel has no control over the risks in connection with the functioning of the Internet and draws your attention to the existence of potential risks in terms of confidentiality of the data transiting via this network. Access to information proposed on the Sites might be interrupted for high priority events or beyond Chanel's reasonable control, or reasons which do not fall under Chanel's scope of responsibility.
+    * enable you to browse through our website and other digital platforms and to use your personal online account;
+    * enable you to obtain information on our products and services from our Customer Care Center- in our “Contact us” section for instance;
+    * enable you to purchase CHANEL products in our CHANEL boutiques and other points of sale;
+    * enable you to access CHANEL services in our CHANEL boutiques and other points of sale, or on our website and other digital platforms – for instance, to book an appointment or to create a CHANEL product wish list;
+    * enable you to access our extensive after-sales care services;
+    * respect our legal obligations, including inter alia cosmetics regulations, the fight against money laundering, credit card fraud and the fight against counterfeit;
+    * collect your opinion on our CHANEL products and services, in particular via surveys and questionnaires;
+    * establish statistics, financial and commercial studies;
+    * keep you informed about our latest collections, products, campaigns, shows and other events by sending you CHANEL communications (by electronic mail, by post or via your phone: calls, chat, SMS and MMS and third-party media platforms);
+    * improve our understanding of your interests and preferences so that we can deliver personalized offers and other services that would correspond better to your needs and wishes; 
+    * evaluate your CV and other background appropriately for open positions via internal and external experts in the case of job applicants.
 
   * ## 
 
-6.1 Right to Access, Modify, Correct, and Delete Data
+Our processing of your personal data is based on our obligation to comply with all applicable laws and regulations.
 
-You have a general right to access, modify, correct, and delete data that concerns you.
+It is also based on the necessity to carry out the purchase contract with you, to provide you the website, app or other online services as requested by you or, if legally required, on your consent. 
 
-To exercise your right please send your request to our Customer Service Department by filling out the "Contact Us" form.
+We may also rely on our legitimate interest in the completion of sales and in our commitment to offer you seamless after sales services and a personalized and highly qualitative treatment in the long term. 
 
-To process your request, please send us the following information required for identification purposes: your first and last name, your email address, and possibly your mailing address.
-
-6.2 Unsubscribing
-
-CHANEL’s newsletters as well as the "[chanel-news.chanel.com](http://www.chanel-news.com/)" portion of the Site offers users a free Newsletter service, which you are free to subscribe to.
-
-Users of the Sites who no longer wish to receive it can unsubscribe as follows:
-
-* by simply clicking on the unsubscribe link located at the bottom of each Newsletter; or  
-* by filling out the "Contact Us" form and specifying your request and the email address to be unsubscribed in your message.
+If you are a job applicant, we process the personal data you provide us with in order to recruit for any vacancy (in the section “Careers”) and more particular in order to assess whether we shall enter into an employment contract with you based on our legitimate interest to hire the best-qualified human resources.
 
   * ## 
 
-Data collected by Chanel may be transferred to third parties within the framework of a change of corporate control, an acquisition, bankruptcy proceedings, or the sale of company assets.
+ **Within the CHANEL Organization.** Your personal data will only be accessible to a limited list of recipients on a “need to know” basis:
+
+    * If you are a current or potential client of CHANEL, only the CHANEL employees that are working within the teams that need to have your information (for example, Customer Relationship Management, Commercial Management, Legal, Compliance and IT) will access your personal data;
+    * If you are a candidate, only the Human Resources Department as well as the hiring managers will access your personal data.
+
+**Outside of the CHANEL Organization.** Your personal data will not be provided to a third party except to other CHANEL entities for the purposes explained above and to service providers acting on behalf of CHANEL on the basis of secure contractual arrangements which will include strict data protection obligations. We will in particular provide your personal data to service providers or suppliers who assist us in operating our websites, apps and other digital platforms, conducting our business, servicing you or protecting the security and integrity of our business (including IT maintenance, security and support service provider, hosting provider, payment provider, marketing and advertising partners, mailing or emailing services or customer care center,etc).
+
+For job applicants, please note that we also collaborate with external recruitment experts that we may share your CV with in the recruitment process in order to ensure proper evaluation of all applicants. 
+
+CHANEL may also have to transfer personal data to third parties when it receives a request by an authority empowered by law to do so, pursuant to applicable laws and regulations. We may also have to transfer personal data to another legal entity for the purposes of a collaboration, joint venture, corporate reorganization, change of legal form or other similar event. In case of a merger or sale, your personal data will be permanently transferred to the successor company. 
 
   * ## 
 
-The Sites are not targeted towards minors. However, access to the Sites is not reserved for adults, as it does not present any content prohibited for minors under the age of 18.
+Applicable legal and regulatory requirements are taken into consideration before any cross border transfer of your data. 
 
-The Sites forms and questionnaires are not aimed at collecting information on minors. If information on a minor has been collected by the Sites, the minor's legal representative can contact Chanel's Customer Service Department to correct, modify, or delete the information (see article 6.1.)
+    * Any data transfers outside your country will be secured through appropriate contractual guarantees which will also be in compliance with applicable laws and regulations. 
+    * Data transfers among CHANEL entities will ultimately be covered by the Binding Corporate Rules upon their approval by regulators. 
 
-  * ## 
-
-The identifiable personal information Policy may be modified by Chanel at any time. Should Chanel wish to use your personal data other than as stipulated in the identifiable personal information Policy in force at the time of data collection, notice of any such modifications will be posted on the Sites in a visible manner and you will also receive notice by email if you have subscribed to the Newsletter.
-
-With regard to any changes which may be made to the identifiable personal information Policy, we invite you to check the "identifiable personal information" section on a regular basis.
+You may receive copy of such documents upon request.
 
   * ## 
 
-For any questions or comments relating to the identifiable personal information Policy or the manner in which Chanel collects and uses your identifiable personal information, please contact our Customer Service Department by filling out the "Contact Us" form.
+Alongside the commitment to offering the highest standards of services and products, we consider that our products should entitle you to personalized client treatment and incomparable after-sales services that may last for a lifetime for some products. For this purpose, and to ensure such services, we may need to keep your personal data for as long as it is needed for the provision of such services.
 
-Last update: February 2017
+In particular your personal data will be retained until your last use or purchase of our services or goods and normally for a period of up to 10 years thereafter, unless shorter or longer retention is required by applicable local law or where we have a legitimate and lawful purpose to do so.
 
-Copyright © Chanel.
+For the Fragrance & Beauty products sold on our website, we keep your data for as long as it is necessary to comply with applicable legislation regarding product guarantee and safety and in order to follow up with you on the results of the product and offer you continuous advice. 
+
+We welcome and value applications from talented candidates. Even if your application on the “Careers” section of our website is not successful, we may keep your data on file for up to 2 years following your last visit to our candidate space and call you if another appropriate opportunity arises. In case you choose not to be contacted for future opportunities, your data will be kept for up to 6 months. Where necessary, we may keep your data longer in archives in order to align with the applicable statute of limitations for claims around the recruitment process.
+
+Cookies managed by CHANEL are stored for up to 13 months.
+
+CHANEL respects the retention periods imposed by applicable laws and regulations. To the extent your data is no longer necessary for the provision of a service (including the after sales service referred to above) or if you no longer wish to be part of our distribution list for newsletters, beauty tips and events, your data will be deleted or archived in an anonymized or de-identified format in order to comply with applicable regulation. 
+
+  * ## 
+
+    * **“A right of access and information:** you have the right to be informed in a concise, transparent, intelligible and easily accessible form of the way in which your personal data is processed. You also have the right to obtain (i) confirmation as to whether or not personal data concerning you are being processed, and, where that is the case (ii) to access such personal data and obtain a copy thereof. 
+    * **A right to rectification:** you have the right to obtain the rectification of your personal data. You also have the right to have incomplete personal data completed. 
+    * **A right to erasure:** in some cases, you have the right to obtain the erasure of your personal data. However, this is not an absolute right and CHANEL may have legal or legitimate grounds for keeping such personal data. 
+    * **A right to restriction of processing:** in some cases, you have the right to obtain restriction of the processing of your personal data. 
+    * **A right to data portability:** you have the right to receive your personal data which you have provided to CHANEL, in a structured, commonly used and machine-readable format, and you have the right to transmit those data to another controller without hindrance from CHANEL. This right only applies when the processing of your Personal Data is based on your consent or on a contract and such processing is carried out by automated means. 
+    * **A right to object to processing:** you have the right to object to processing of your personal data when such processing is based on the legitimate interest of CHANEL. CHANEL may, however, invoke compelling legitimate grounds for continued processing. You also have the right to object at any time to the processing of your personal data for marketing purposes.
+
+To exercise the above rights please contact us via the channels provided below and communicate the following information: name, surname, e-mail or any other information necessary to confirm your identity in order for us to process the request (such as your postal address).
+
+You also have the right to unsubscribe from our “Newsletter” at any time:
+
+    * by simply clicking on the “unsubscribe” link at the bottom of each Newsletter
+    * by filling out the “Contact Us” form and specifying your request, as well as the e-mail address to unsubscribe in your message
+    * by mentioning it to our CHANEL boutiques or other points of sale;
+    * through the online preferences center.
+
+Finally, you have the right to lodge a complaint with a competent supervisory authority in case of breach of the applicable privacy laws and regulations, in particular the GDPR but also any other national or regional privacy laws applicable to you.
+
+  * ## 
+
+Cookies are pieces of information that any website may transfer to your browser that are then stored in your computer system. For example, the deposit of cookies enhances your online experience by allowing us to save your preferences. 
+
+We use cookies to:
+
+    * Determine statistics and volumes relating to traffic in order to improve the relevance and user-friendliness of the services offered to you; 
+    * Provide you with services and navigation adapted by personalizing your user interface;
+    * Share information with other websites, media partners and social networks in order to offer you pertinent promotional and adverting communications that match your interests (third party cookies).
+
+We may also collect your shortened IP address on a non-readable basis, which does not allow us to identify you.
+
+If you do not wish CHANEL to use all or part of the above-mentioned third party cookies, please click here. 
+
+You may also disable the installation of “cookies” by configuring your browser appropriately. For more information, please . 
+
+Please be aware that restricting cookies may impact on your user experience and may prevent you from using part of our website. 
+
+If you wish to configure your browser in order to disable the installation of cookies, you can follow the below instructions:
+
+For Mozilla Firefox: Select the 'Tools' menu, then 'Options'. Click the 'Privacy' icon, locate the 'Cookies' menu and select your preferred options.
+
+For Microsoft Internet Explorer 6.0 and later: Select the 'Tools' menu, then 'Internet Options'. Click the 'Confidentiality' tab and use the cursor to select the level desired.
+
+For Opera 6.0 and later: From the 'File' menu, select 'Preferences', then click on 'Privacy' and select your preferred options. 
+
+For Safari: From the Safari menu, select 'Preferences', then click on 'Security' and select your preferred options.
+
+For Google Chrome: select the Chrome menu, then select 'Settings' and click on 'show advanced settings'. In the Privacy section chose 'Content settings'; then in the 'Cookies' section you can select your options.
+
+  * ## 
+
+To exercise your rights please send your request to our Customer Service Department:
+
+    * For CHANEL SAS:
+
+\- by mail : writing to La Ligne de CHANEL - 135, avenue Charles de Gaulle 92521 Neuilly-sur-Seine Cedex  
+\- by email : filing out the Contact us form  
+\- by phone: calling La Ligne de CHANEL at 0800 255 005, from Monday to Friday, from 10 a.m. to 7 p.m (CET). Please to access all local numbers
+
+    * For CHANEL Limited:
+
+\- by mail: CHANEL Ltd, Queenway, Croydon, CR9 4DL, Attn: Consumer Relations  
+\- by email: chaneluk@chanel.co.uk  
+\- by phone: 0800 028 5005 
+
+For any candidate data for your application to our “Careers” section, please contact:
+
+\- Service SIRH  
+135, avenue Charles de Gaulle  
+92521 Neuilly-sur-Seine Cedex  
+By email : [suppression@chanel-carrieres.fr](mailto:suppression@chanel-carrieres.fr)
+
+\- Or the local Human Resources team. For more details please see here.
+
+For any questions or comments relating to this Privacy Policy or the manner in which CHANEL collects and uses your personal data, you may also contact our Data Protection Office at the following address: 
+
+**_Data Protection Office  
+135, avenue Charles de Gaulle à Neuilly sur Seine  
+92200 Neuilly sur Seine  
+France  
+By email: [privacy@chanel-corp.com](mailto:privacy@chanel-corp.com)_**
+
+_________
+
+This Privacy Policy was last updated on 04 October 2018. With regard to any changes which may be made to this Privacy Policy, we invite you to check the "Personal Data" section of our website on a regular basis.
+
+## España
+
+    * La Linea de CHANEL - Servicio de atención al consumidor
+    * 901 51 95 19
+    * El Servicio de Atención al Cliente de la Boutique en línea CHANEL
+    * 900 10 23 92
+
+## France
+
+    * La Ligne de CHANEL - Service Relations Clientèle
+    * 0800 255 005
+    * Le Service Clients de La Boutique en ligne CHANEL
+    * 01 58 37 68 00
+
+## Deutschland
+
+    * CHANEL Kundenservice
+    * 01801-24 26 35
+    * Der Kundenservice der CHANEL Online-Boutique
+    * 0800 55 19 555
+
+## Österreich
+
+    * CHANEL Kundenservice
+    * 0810-50 00 10
+    * Der Kundenservice der CHANEL Online-Boutique
+    * 0800 29 8 444
+
+## Italia
+
+    * La Linea di CHANEL - Servizio Consumatori
+    * 840 000 210
+    * Il Servizio Clienti della Boutique online CHANEL
+    * 800 411 344
+
+## België-Belgique
+
+    * La Ligne de CHANEL - Service Relations Clientèle / Consumentenservice
+    * 070 66 55 55
+    * Le Service Clients de La Boutique en ligne CHANEL / De klantenservice van de webshop van CHANEL
+    * 0800 97 447
+
+## Luxembourg
+
+    * La Ligne de CHANEL - Service Relations Clientèle
+    * 026 37 57 31
+    * Le Service Clients de La Boutique en ligne CHANEL
+    * 80 025 250
+
+## Nederland
+
+    * La Ligne de CHANEL - Consumentenservice
+    * 0900 519 2005
+    * De klantenservice van de webshop van CHANEL
+    * 0800 333 23 33
+
+## Sverige
+
+    * CHANEL Client Care Center
+    * 020-755755
+    * CHANEL Online Boutique Client Care Center
+    * 020 – 53 00 00
+
+## Danmark
+
+    * CHANEL Client Care Center
+    * 02815 8000
 
 
 
