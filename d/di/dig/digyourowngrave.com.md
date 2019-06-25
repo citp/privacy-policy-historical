@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digyourowngrave.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624160914id_/http%3A//www.littlegrey.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digyourowngrave.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626011639id_/http%3A//www.littlegrey.net/privacy_policy) for the most accurate reproduction.*
 
 # The Littlegrey Network – Privacy Policy
 
