@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomshaper.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023707id_/https%3A//www.joomshaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomshaper.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625202732id_/https%3A//www.joomshaper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JoomShaper
 
@@ -66,7 +66,7 @@ If in any case a breach of data such as loss, alteration, unauthorised disclosur
 
 ### How you can review, update, get a copy or delete your data
 
-You are free to review and update your information at any time directly through our site. To change your information please login to our site and click "My Account" link. If you want to delete or get a copy of your data on our site, send a mail to [[email protected]](https://www.joomshaper.com/cdn-cgi/l/email-protection#90e3e5e0e0ffe2e4d0fafffffde3f8f1e0f5e2bef3fffd) . We will do that with immediate effect. 
+You are free to review and update your information at any time directly through our site. To change your information please login to our site and click "My Account" link. If you want to delete or get a copy of your data on our site, send a mail to [[email protected]](https://www.joomshaper.com/cdn-cgi/l/email-protection#12616762627d606652787d7d7f617a736277603c717d7f) . We will do that with immediate effect. 
 
 ### Newsletter
 
