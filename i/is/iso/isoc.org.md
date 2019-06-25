@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isoc.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230054424id_/https%3A//www.internetsociety.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isoc.org privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625231114id_/https%3A//www.internetsociety.org/privacy-policy) for the most accurate reproduction.*
 
 # Internet Society Statement of Privacy | Internet Society
 
@@ -16,9 +16,9 @@ Previous versions:
 
 ## The Internet Society’s Commitment to Responsible & Ethical Privacy Practices
 
-In keeping with [the goals and objectives](https://web.archive.org/mission/) of The Internet Society (“ISOC”), we are committed to the highest degree of respect for the privacy of our members, visitors to our websites and attendees of our events. In this Privacy Statement, we use “we,” “us” or “our” to refer to ISOC and “you” or “your” to refer to you, the user, member or visitor to our web sites.  For certain purposes of this Privacy Statement, we distinguish between individuals who choose to register and join ISOC as a member (“Members”) and users of our websites (the “Sites”, including otalliance.org) who simply visit the Sites (“Visitors”) and do not choose to register as Members.  Unless indicated otherwise, all provisions of this Privacy Statement apply to Visitors and Members. This Privacy Statement applies to all of our Sites.
+In keeping with [the goals and objectives](https://web.archive.org/mission/) of The Internet Society (“ISOC”), we are committed to the highest degree of respect for the privacy of our members, visitors to our websites and attendees of our events. In this Privacy Statement, we use “we,” “us” or “our” to refer to ISOC and “you” or “your” to refer to you, the user, member or visitor to our web sites. For certain purposes of this Privacy Statement, we distinguish between individuals who choose to register and join ISOC as a member (“Members”) and users of our websites (the “Sites”, including otalliance.org) who simply visit the Sites (“Visitors”) and do not choose to register as Members. Unless indicated otherwise, all provisions of this Privacy Statement apply to Visitors and Members. This Privacy Statement applies to all of our Sites.
 
-When we do not rely on your consent to this Privacy Statement for use of “Your Data” (as defined below), we will tell you so.  By accessing and using any of the Sites as a Visitor, you expressly and knowingly consent to the information collection and use practices as described in this Privacy Statement.
+When we do not rely on your consent to this Privacy Statement for use of “Your Data” (as defined below), we will tell you so. By accessing and using any of the Sites as a Visitor, you expressly and knowingly consent to the information collection and use practices as described in this Privacy Statement.
 
 Our commitment to your privacy, is based on the following principles which we apply to our use of both your personally identifiable data (“Personal Data”) and to certain anonymous information we collect when you visit our Sites (“Technical Information”, and together with Personal Data, “Your Data”):
 
@@ -110,9 +110,9 @@ In addition, we will use Your Data to:
 
 ### Can I Choose not to Receive Commercial Email Communications?
 
-We realize that unwanted and non-relevant email notices and communications can be unwelcome. Every promotional, event or related communication we send to you via email contains instructions and an easily discoverable link that will allow you to unsubscribe and stop all subsequent commercial or marketing messages and/or direct you to a preference center to select topics of interest to you.  Unless you consent (opt in) to the receipt of commercial or marketing emails, we will not use your email address for such purposes.  You can always change your email preferences by [visiting our membership portal](https://portal.isoc.org/membership/membership-management-centre) and clicking through to the preferences page.
+We realize that unwanted and non-relevant email notices and communications can be unwelcome. Every promotional, event or related communication we send to you via email contains instructions and an easily discoverable link that will allow you to unsubscribe and stop all subsequent commercial or marketing messages and/or direct you to a preference center to select topics of interest to you.  Unless you consent (opt in) to the receipt of commercial or marketing emails, we will not use your email address for such purposes.  You can always change your email preferences by [visiting our membership portal](https://admin.internetsociety.org/622619/User/Login) and clicking through to the preferences page.
 
-By joining ISOC, Members may opt-in to the inclusion of their email contact information in our Member email communication and Member newsletter lists. Members can manage their email preferences including opting in and out of working groups, committees and special interest group (SIG) communications through the ISOC membership portal at <https://portal.isoc.org/membership/membership-management-centre> and through the OTA member preference center at <https://otalliance.org/user/login>.
+By joining ISOC, Members may opt-in to the inclusion of their email contact information in our Member email communication and Member newsletter lists. Members can manage their email preferences including opting in and out of working groups, committees and special interest group (SIG) communications through [the ISOC membership portal](https://admin.internetsociety.org/622619/User/Login) and through [the OTA member preference center](https://otalliance.org/user/login).
 
 Members may receive periodic email or postal mailings from us with information about us, upcoming events, or issues related to the Internet including but not limited to news, public policy and emerging best practices and standards. We offer you the opportunity to select which, if any, of these communications you would like to receive.
 
@@ -120,7 +120,7 @@ All of our practices are designed and intended at a minimum to satisfy state, na
 
 ### Other Legal Bases for Using Your Data
 
-In the event we do not rely on your consent to this Privacy Statement as the basis for our permitted use of Your Data, we will tell you so.  For example, we may tell you that we are relying on our obligation to meet our contractual obligations to you.  We may also rely on a “legitimate interests assessment” to process Your Data.  Current circumstances where we use this approach are described in the FAQs.  We will separately notify or disclose to you when we rely on an alternative legal basis for the use or processing of Your Data.
+In the event we do not rely on your consent to this Privacy Statement as the basis for our permitted use of Your Data, we will tell you so. For example, we may tell you that we are relying on our obligation to meet our contractual obligations to you. We may also rely on a “legitimate interests assessment” to process Your Data. Current circumstances where we use this approach are described in the FAQs.  We will separately notify or disclose to you when we rely on an alternative legal basis for the use or processing of Your Data.
 
 ### Credit Card Information
 
@@ -128,7 +128,7 @@ Credit card information is not collected or stored on our servers. When you cond
 
 ### Use of Cookies; Technical Information Collection
 
-Our Sites use third parties for web analytics services, including Google Analytics, to collect Technical Information.  [See our FAQ](https://www.internetsociety.org/privacy-policy/privacy-faq/) for a current listing of such third parties.  These third parties do or may use “cookies” or similar technologies, which are text files placed on your computer, to help analyze how you use a Site. The information generated by the cookie about your use of a Site (including your IP address) will be transmitted to and stored by these service providers servers in the United States. They will use this information for the purpose of evaluating your use of a Site, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. They may also transfer this information to third parties where required to do so by law, or where such third parties process the information on their behalf.
+Our Sites use third parties for web analytics services, including Google Analytics, to collect Technical Information. [See our FAQ](https://www.internetsociety.org/privacy-policy/privacy-faq/) for a current listing of such third parties. These third parties do or may use “cookies” or similar technologies, which are text files placed on your computer, to help analyze how you use a Site. The information generated by the cookie about your use of a Site (including your IP address) will be transmitted to and stored by these service providers servers in the United States. They will use this information for the purpose of evaluating your use of a Site, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. They may also transfer this information to third parties where required to do so by law, or where such third parties process the information on their behalf.
 
 You may refuse and block the use of all of our (and third party) cookies by selecting the appropriate settings on your browser. However please note that if you do this you may not be able to use the full functionality of our Sites and it might impact your overall experience.
 
@@ -142,7 +142,7 @@ Our databases and system administration logs, are restricted to access by author
 
 If you visit our Sites from a country other than the United States, your communications will likely result in the transfer of Your Data across national borders. Our servers or offices may be located in countries other than the country from which you access our Sites, also resulting in the transfer of Your Data across international borders. If you provide Your Data when visiting one of our Sites from outside of the United States, you acknowledge and agree that this data may be transferred from your then current location to our offices and servers and to those of our affiliates, agents, and service providers located in the United States and in other countries. **The United States and such other countries may not have the same level of data protection as those that apply in the jurisdiction where you live.**
 
-For site visitors who reside in the European Economic Area, Switzerland or the United Kingdom, we will only transfer Your Data  (a) to jurisdictions with “adequate protection” as used in the General Data Protection Regulation governing transfer of personal data outside of the European Union (the “GDPR”), or (b) to recipients with appropriate safeguards in place, including where contractual arrangements exist which include Standard Contractual Clauses (as defined in the GDPR) without any additions, modifications, or omissions.
+For site visitors who reside in the European Economic Area, Switzerland or the United Kingdom, we will only transfer Your Data (a) to jurisdictions with “adequate protection” as used in the General Data Protection Regulation governing transfer of personal data outside of the European Union (the “GDPR”), or (b) to recipients with appropriate safeguards in place, including where contractual arrangements exist which include Standard Contractual Clauses (as defined in the GDPR) without any additions, modifications, or omissions.
 
 ### Links
 
@@ -150,11 +150,11 @@ The Sites contain links to other sites, organizations and resources. Please be a
 
 ### Accessing and Updating Personal Data
 
-Users may request access to their Personal Data collected and stored by us (if any) to verify if it is complete and accurate or to request that it be deleted. At a minimum, we will respond to your request within any applicable timeframe required by law and will otherwise take reasonable steps to respond to legitimate requests to access, correct, delete or update any such information retained by us. Requests may be sent by email to privacy at isoc.org.  It is important to understand that deletion of your Personal Data may adversely impact your ability to enjoy the full benefits of membership.
+Users may request access to their Personal Data collected and stored by us (if any) to verify if it is complete and accurate or to request that it be deleted. At a minimum, we will respond to your request within any applicable timeframe required by law and will otherwise take reasonable steps to respond to legitimate requests to access, correct, delete or update any such information retained by us. Requests may be sent by email to privacy at isoc.org. It is important to understand that deletion of your Personal Data may adversely impact your ability to enjoy the full benefits of membership.
 
 ### Data Retention
 
-We will only retain Your Data stored on our servers in accordance with the legitimate needs of our business and as required or permitted by applicable law.  We will not retain any unused Personal Data on our systems longer than necessary for legitimate business purposes.
+We will only retain Your Data stored on our servers in accordance with the legitimate needs of our business and as required or permitted by applicable law. We will not retain any unused Personal Data on our systems longer than necessary for legitimate business purposes.
 
 ### Social Media, Blogs & Discussion Groups
 
@@ -170,11 +170,11 @@ We respect enhanced user privacy control and support the development and impleme
 
 ### Children / Minors
 
-The Sites are not targeted at, directed to or intended for the use of children under the age of thirteen.  No person under the age of thirteen should use any Site or under any circumstances provide any Personal Data or other information at a Site.  If you become aware that any individual under the age of thirteen has used any Site, please contact us immediately at privacy at isoc.org.  By use of any Site you represent and warrant that you are over the age of thirteen.
+The Sites are not targeted at, directed to or intended for the use of children under the age of thirteen. No person under the age of thirteen should use any Site or under any circumstances provide any Personal Data or other information at a Site. If you become aware that any individual under the age of thirteen has used any Site, please contact us immediately at privacy at isoc.org. By use of any Site you represent and warrant that you are over the age of thirteen.
 
 ### Your California Privacy Rights
 
-California Civil Code Section 1798.83 entitles California residents to request information concerning whether a business has disclosed Personal Data to any third parties for their direct marketing purposes. As stated in this Privacy Statement, we will not sell your Personal Data to other companies and we will not share it with other companies for them to use for their own marketing purposes without your consent.  For further information concerning your California Privacy Rights including “Do Not Track,” visit <https://oag.ca.gov/sites/all/files/agweb/pdfs/cybersecurity/making_your_privacy_practices_public.pdf>
+California Civil Code Section 1798.83 entitles California residents to request information concerning whether a business has disclosed Personal Data to any third parties for their direct marketing purposes. As stated in this Privacy Statement, we will not sell your Personal Data to other companies and we will not share it with other companies for them to use for their own marketing purposes without your consent. For further information concerning your California Privacy Rights including “Do Not Track,” visit <https://oag.ca.gov/sites/all/files/agweb/pdfs/cybersecurity/making_your_privacy_practices_public.pdf>
 
 ### California Web Site Data Collection
 
@@ -196,15 +196,15 @@ Reston, VA 20190
 
 ### Member Personal Data, Communication & Database
 
-“Members” are defined as individuals, companies, organizations and/or institutions that choose to register with and have an agreed membership relationship with us.   All of Your Data as a Member is covered by this Privacy Statement.
+“Members” are defined as individuals, companies, organizations and/or institutions that choose to register with and have an agreed membership relationship with us. All of Your Data as a Member is covered by this Privacy Statement.
 
-Some Member types include voting rights.  In the case of online balloting for our elections, our voting Members are supplied with a unique identification that ensures only a single vote is registered per voting Member. The details of the actual votes are maintained only during the election process and solely to allow proper verification and audit of the election.
+Some Member types include voting rights. In the case of online balloting for our elections, our voting Members are supplied with a unique identification that ensures only a single vote is registered per voting Member. The details of the actual votes are maintained only during the election process and solely to allow proper verification and audit of the election.
 
 As a Member, you may review or update your Personal Data by logging into the membership portal(s) and reviewing or changing your Personal Data directly.
 
 You may also inform us by email, phone, or postal mail directed to the contact information provided on our Sites or, Members may also adjust these settings or change or correct their Personal Data by email to membership at isoc.org, or by contacting Us by phone using the Contact Us information available on our Sites.
 
-In order for you to fully enjoy the benefits of membership in ISOC, we need to be able to use Your Data for communication, record keeping and the other purposes described in this Privacy Statement.  If you choose not to permit us to use Your Data as described in this Privacy Statement, you will not be able to continue as a Member.  Of course, you will still be able to visit our Sites as a Visitor and to take advantage of all of the opportunities provided to Visitors to the Sites.
+In order for you to fully enjoy the benefits of membership in ISOC, we need to be able to use Your Data for communication, record keeping and the other purposes described in this Privacy Statement.  If you choose not to permit us to use Your Data as described in this Privacy Statement, you will not be able to continue as a Member. Of course, you will still be able to visit our Sites as a Visitor and to take advantage of all of the opportunities provided to Visitors to the Sites.
 
 ### Changes to this Privacy Statement
 
