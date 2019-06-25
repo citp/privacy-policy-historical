@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nait.ca privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219154855id_/http%3A//www.nait.ca/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nait.ca privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625151247id_/http%3A//www.nait.ca/privacypolicy.htm) for the most accurate reproduction.*
 
 # NAIT Privacy Policy
 
