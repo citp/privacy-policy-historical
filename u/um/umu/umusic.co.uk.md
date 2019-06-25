@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umusic.co.uk privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224192313id_/http%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umusic.co.uk privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625230036id_/http%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Universal Music UK - Privacy Policy
 
