@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relayforlife.org privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121001724id_/https%3A//www.cancer.org/about-us/policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relayforlife.org privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625205914id_/https%3A//www.cancer.org/about-us/policies/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -162,7 +162,7 @@ The Society retains Personal Information that we receive for as long as necessar
 
 ## Your privacy options and access
 
-**Contact Preferences and Restrictions.** We respect your privacy and recognize that you may wish to limit the ways in which we contact you and/or share your Personal Information, including for fundraising purposes. The Society offers the following options for restricting use and disclosure of your Personal Information:
+**Contact Preferences and Restrictions.** We respect your privacy and recognize that you may wish to limit the ways in which we contact you and/or share your Personal Information, including for fundraising purposes. An “Unsubscribe” button will be provided at the top or bottom of each email marketing communication sent by the Society, so that you may opt out of further email communications. However, we will continue to send transaction-related emails regarding our relationship and the services you have requested. In addition, the Society offers the following options for restricting use and disclosure of your Personal Information:
 
   1. Do not contact me by postal mail.
   2. Do not contact me by telephone.
@@ -226,6 +226,8 @@ Shared Services Business Center
 Oklahoma City, OK 73132
 
 **E-mail:** [privacyrequest@cancer.org](mailto:privacyrequest@cancer.org)
+
+If you reside in an EEA country and have questions regarding your privacy rights, you may reach the Data Protection Officer for the Society by sending an email to: [acs.dpo@cancer.org](https://web.archive.org/web/20190625205914id_/https%3A//www.cancer.org/about-us/policies/acs.dpo@cancer.org)
 
 **Security Breach or Fraud Notification.** If you witness or become aware of any suspected privacy or security breach of Society constituent data (i.e., mishandling, theft, loss, or improper disclosure of personal information) or potentially fraudulent activity, please call our toll-free hotline at 1-800-539-7202 or report online at <https://secure.ethicspoint.com/domain/media/en/gui/22719/index.html>. The hotline is available 24 hours a day and is managed by an independent organization.
 
