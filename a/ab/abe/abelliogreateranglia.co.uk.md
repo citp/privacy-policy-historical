@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abelliogreateranglia.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227040518id_/https%3A//www.greateranglia.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abelliogreateranglia.co.uk privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625215839id_/https%3A//www.greateranglia.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greater Anglia
 
@@ -288,7 +288,7 @@ In addition to cookies, AEA also uses Javascripts and web beacons. By using Java
 
 #### Cookies from external parties
 
-Some of the cookies are placed with the consent of AEA by third parties with the aim to bring certain products and services to your attention or to give you direct access to social media: [Google Analytics](https://www.google.com/analytics/ "Opens in a new window") , [Google Maps](https://www.google.co.uk/maps "Opens in a new window") , [Captify](http://www.captify.co.uk/ "Opens in a new window"), [Affectv](https://affectv.com/ "Opens in a new window"), [Iotec](https://web.archive.org/web/20181227040518id_/https%3A//www.greateranglia.co.uk/Iotec "Opens in a new window"), [Flashtalking](http://www.flashtalking.com/ "Opens in a new window"), [Adform](https://site.adform.com/ "Opens in a new window"), [Doubleclick](https://www.doubleclickbygoogle.com/ "Opens in a new window"), [Twitter](https://www.youtube.com/ "Opens in a new window"), [YouTube](https://www.youtube.com/ "Opens in a new window"), [LinkedIn](https://www.linkedin.com/ "Opens in a new window"), [GoogleAdwords](https://www.google.com/adwords/ "Opens in a new window"), [Instagram ](https://www.instagram.com/ "Opens in a new window")and [Facebook](https://www.facebook.com/ "Opens in a new window"). For the cookies that these external parties place, the information they collect with them and the purpose for which that information is used, we refer to the privacy statements of these parties on their own websites. These statements can change regularly and AEA has no control whatsoever.
+Some of the cookies are placed with the consent of AEA by third parties with the aim to bring certain products and services to your attention or to give you direct access to social media: [Google Analytics](https://www.google.com/analytics/ "Opens in a new window") , [Google Maps](https://www.google.co.uk/maps "Opens in a new window") , [Captify](http://www.captify.co.uk/ "Opens in a new window"), [Affectv](https://affectv.com/ "Opens in a new window"), [Iotec](https://web.archive.org/web/20190625215839id_/https%3A//www.greateranglia.co.uk/Iotec "Opens in a new window"), [Flashtalking](http://www.flashtalking.com/ "Opens in a new window"), [Adform](https://site.adform.com/ "Opens in a new window"), [Doubleclick](https://www.doubleclickbygoogle.com/ "Opens in a new window"), [Twitter](https://www.youtube.com/ "Opens in a new window"), [YouTube](https://www.youtube.com/ "Opens in a new window"), [LinkedIn](https://www.linkedin.com/ "Opens in a new window"), [GoogleAdwords](https://www.google.com/adwords/ "Opens in a new window"), [Instagram ](https://www.instagram.com/ "Opens in a new window")and [Facebook](https://www.facebook.com/ "Opens in a new window"). For the cookies that these external parties place, the information they collect with them and the purpose for which that information is used, we refer to the privacy statements of these parties on their own websites. These statements can change regularly and AEA has no control whatsoever.
 
 #### Advertising cookies
 
@@ -438,7 +438,7 @@ We use a range of appropriate technical and organisational measures to safeguard
 
 ## YOUR RIGHTS
 
-Unless stated otherwise wwe will aim to satisfy your instruction, or inform you as to why we are unable to, without undue delay and within 30 days. If we anticipate that we will not meet with this timeframe we will let you know within 30 days and explain what the problem is.
+Unless stated otherwise we will aim to satisfy your instruction, or inform you as to why we are unable to, without undue delay and within 30 days. If we anticipate that we will not meet with this timeframe we will let you know within 30 days and explain what the problem is.
 
 ## OBJECT TO DIRECT MARKETING
 
@@ -450,6 +450,8 @@ To prevent marketing to you, you have the right to ask us not to process your pe
   * contact us.
 
 
+
+Find out more about how to [unsubscribe from Greater Anglia.](https://web.archive.org/unsubscribe-greater-anglia)
 
 ## ASK FOR A COPY OF YOUR PERSONAL DATA
 
