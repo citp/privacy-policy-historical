@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-chan.blogspot.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224115832id_/http%3A//go-chan.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-chan.blogspot.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625134154id_/http%3A//go-chan.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Go-chan โกจัง: Privacy Policy
 
