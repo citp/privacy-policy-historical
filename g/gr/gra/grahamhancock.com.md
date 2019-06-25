@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grahamhancock.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227060211id_/http%3A//grahamhancock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahamhancock.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625130904id_/https%3A//grahamhancock.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Graham Hancock Official Website
 
