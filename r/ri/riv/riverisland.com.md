@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverisland.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227194700id_/https%3A//www.riverisland.com/useful-information/privacy-notice-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverisland.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625235723id_/https%3A//www.riverisland.com/useful-information/privacy-notice-cookies) for the most accurate reproduction.*
 
 # Privacy Notice & Cookies
 
@@ -42,11 +42,12 @@ We collect the following information about you:
   * Delivery address(s)
   * Billing address
   * Attendance at events (and travel preferences)
-  * Preferred store, categories and brands
+  * Preferred store, categories, brands and budget information
   * IP address
   * Information from cookies, including information on the devices you may use to make a purchase - please see our separate Cookies Policy
   * Images of you (including CCTV footage from our stores)
-  * Clothing size 
+  * Certain physical appearance data which you may disclose to us when booking an appointment with our Style Studio (such as your height and your eyes colour)
+  * Clothing and shoes size
 
 
 
@@ -71,7 +72,7 @@ We collect the information in the following circumstances:
 
 We use your personal data in the following ways: 
 
-  * To enable us to personalise your shopping experience on our sites.
+  * To enable us to personalise your shopping experience on our sites and in our stores..
   * To allow us to handle your orders, deliver products and process your payments and refunds (including to ensure secure payment and prevent fraud).
   * To respond to your queries, refund requests and complaints.
   * To keep a record of when and why you contact us and to keep your contact details up-to-date.
@@ -91,7 +92,7 @@ There are number of legal bases which allow us to use your personal data. The fo
 
   1. Consent
 
-If you visit our site and are not an existing customer, or if you fill in any in-store materials, such as prize-draw entries, we might ask for your consent to process your data, so that we can send you our special offers and news. 
+If you visit our site and are not an existing customer we might ask for your consent to process your data, so that we can send you our special offers and news. 
 
   2. Contractual obligations
 
