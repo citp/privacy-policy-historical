@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadshirt.co.uk privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528052620id_/https%3A//www.spreadshirt.co.uk/-C3928) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadshirt.co.uk privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625200100id_/https%3A//www.spreadshirt.co.uk/privacy-policy-C3928) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadshirt
 
@@ -12,7 +12,7 @@ Telephone: + 49 (0) 341 59 400 5900
 Fax: +49 (0) 341 59 400 5499  
 Email: [privacy@spreadshirt.net](mailto:privacy@spreadshirt.net)
 
-Our external data protection officer is Ms Naida Šehić, ISiCO Datenschutz GmbH, Am Hamburger Bahnhof 4, 10557 Berlin, Germany. She can be contacted on + 49 (0) 30 213 002 850 or by emailing [berlin@isico-datenschutz.de](mailto:berlin@isico-datenschutz.de).
+You can reach our external data protection officer at ISiCO Datenschutz GmbH, Am Hamburger Bahnhof 4, 10557 Berlin, Germany; telephone + 49 (0) 30 213 002 850 or e-mail: [berlin@isico-datenschutz.de](mailto:berlin@isico-datenschutz.de).
 
 ## 2\. To what extent is personal data processed?
 
@@ -161,7 +161,7 @@ If you register separately for our newsletter via our website and give us your c
 
 When you register for our newsletter, we use the so-called double opt-in procedure. This means that after you register we will send you an email to the email address you provided, in which we ask you to confirm that you would like to receive the newsletter. If you do not confirm your registration, your information will be automatically deleted after one month. On the other hand, if you confirm the newsletter subscription, we will save your email address for the purpose of sending you the newsletter until you unsubscribe from the newsletter.
 
-**You can revoke your consent to the sending of the newsletter at any time (without this affecting the lawfulness of the processing up to the point of revocation). You can declare your revocation by clicking on the link provided in every newsletter email, by emailing[privacy@spreadshirt.net](mailto:privacy@spreadshirt.net) or by sending a message to the contact details provided in Section 1.**
+ **You can revoke your consent to the sending of the newsletter at any time (without this affecting the lawfulness of the processing up to the point of revocation). You can declare your revocation by clicking on the link provided in every newsletter email, by emailing[privacy@spreadshirt.net](mailto:privacy@spreadshirt.net) or by sending a message to the contact details provided in Section 1.**
 
 When sending the newsletter, we use Emarsys to statistically evaluate your user behaviour in order to measure how successful the newsletter is and to optimise its design. To enable this evaluation, the emails contain what are called web beacons or tracking pixels. These are single-pixel image files that establish a connection to our website und thus permit a log file analysis. The web beacons are linked with the data mentioned in Section 2.1 a and an individual ID. The links contained in the newsletter also contain this ID. For example, we can see if and when an email has been opened and which links have been clicked on. The data is stored on the Emarsys servers for 13 months and collected pseudonymously, meaning the IDs are not linked to other personal data at this point, thus ruling out any possibility of direct personal reference. You can object to the recording of your usage behaviour at any time by clicking on the unsubscribe link provided in each email or by informing us using the contact details provided in Section 1. Recording is not possible if you have disabled the display of images in your email settings. In this case, the newsletter will not be displayed to you in full and you may not be able to use all functions. If you choose to display the images manually, recording will take place as described above.
 
@@ -179,7 +179,7 @@ When sending the product recommendations, we use Emarsys to statistically evalua
 
 In exceptional cases where you register separately in a Spreadshirt shop for a Shop Partner’s newsletter and thus give your consent, we transmit your email address to the Shop Partner so that it can send you emails on product offers, discounts and contests.
 
-**You can revoke your consent to the sending of the newsletter at any time (without this affecting the lawfulness of the processing up to the point of revocation). This revocation must be declared vis-à-vis the Shop Partner. The contact details of the respective Shop Partner can be found in the legal information section of their Spreadshirt shop.**
+ **You can revoke your consent to the sending of the newsletter at any time (without this affecting the lawfulness of the processing up to the point of revocation). This revocation must be declared vis-à-vis the Shop Partner. The contact details of the respective Shop Partner can be found in the legal information section of their Spreadshirt shop.**
 
 The legal basis for the processing is Art. 6(1) Sentence 1(a) GDPR.
 
@@ -330,15 +330,11 @@ You also have the right to lodge a complaint with a data protection supervisory 
 
 Saxon Data Protection Commissioner, Bernhard-von-Lindenau-Platz 1, 01067 Dresden.
 
-**If you have given your consent to the processing of your data (within the meaning of Art. 6(1) Sentence 1(a) or Art. 9(2)(a) GDPR), you can revoke this consent with future effect at any time. This does not affect the lawfulness of processing carried out on the basis of the consent before you revoke your consent.**
+ **If you have given your consent to the processing of your data (within the meaning of Art. 6(1) Sentence 1(a) or Art. 9(2)(a) GDPR), you can revoke this consent with future effect at any time. This does not affect the lawfulness of processing carried out on the basis of the consent before you revoke your consent.**
 
- **
+ **If we base the processing of your personal data on the balancing of interests (Art. 6(1) Sentence 1(f) GDPR), you are entitled to object to the processing. This is the case if the processing is not necessary in particular for the performance of a contract with you, which was described by us in each case with the description of the individual functions. When exercising such a right of objection, we ask that you explain the reasons why we should not process your personal data as carried out by us. In the event that your objection is justified, we will examine the situation and either stop or adjust the data processing or point out to you the compelling legitimate reasons on the basis of which we will continue processing.**
 
-If we base the processing of your personal data on the balancing of interests (Art. 6(1) Sentence 1(f) GDPR), you are entitled to object to the processing. This is the case if the processing is not necessary in particular for the performance of a contract with you, which was described by us in each case with the description of the individual functions. When exercising such a right of objection, we ask that you explain the reasons why we should not process your personal data as carried out by us. In the event that your objection is justified, we will examine the situation and either stop or adjust the data processing or point out to you the compelling legitimate reasons on the basis of which we will continue processing.
-
-**
-
-**However, you can of course object to the processing of your personal data for advertising or web analytics purposes at any time without giving reasons.**
+ **However, you can of course object to the processing of your personal data for advertising or web analytics purposes at any time without giving reasons.**
 
 As described in the relevant sections, we sometimes use external service providers to process your data. These have been carefully selected and commissioned by us, are bound by our instructions and are regularly checked.
 
