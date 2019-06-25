@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialnw.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217191808id_/http%3A//www.financialnw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialnw.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625134839id_/http%3A//www.financialnw.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Financial News,Stock Market Quotes, Business News
 
