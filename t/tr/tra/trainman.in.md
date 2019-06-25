@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainman.in privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607152644id_/http%3A//www.trainman.in/static/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainman.in privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626013426id_/https%3A//www.trainman.in/static/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
