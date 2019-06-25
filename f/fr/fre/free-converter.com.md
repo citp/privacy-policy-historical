@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-converter.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703032037id_/https%3A//free-converter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-converter.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625213027id_/https%3A//www.free-converter.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Converter | Online Converter - [ Official ]
 
