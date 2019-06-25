@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zennioptical.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126073342id_/https%3A//www.zennioptical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zennioptical.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626010143id_/https%3A//www.zennioptical.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zenni Optical
 
@@ -49,4 +49,4 @@ Zenni Optical, Inc. (“Company,” “us,” “we,” or “our”), is commit
 
 
 
-© 2018 Zenni Optical, Inc.
+© 2019 Zenni Optical, Inc.
