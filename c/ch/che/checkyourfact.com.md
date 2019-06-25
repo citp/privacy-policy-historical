@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the checkyourfact.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225234156id_/http%3A//checkyourfact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkyourfact.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625232925id_/https%3A//checkyourfact.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
 #### Effective Date: May 10, 2016.
 
-The Daily Caller (THE DC or we) is the owner and operator of checkyourfact.com (the Website), a comprehensive news website providing original reporting, updated links to the latest news, analysis of current events, satire, research on current policy issues, columns from thought leaders, and other content. We may also offer checkyourfact.com mobile applications Applications).
+  
+The Daily Caller (THE DC or we) is the owner and operator of [checkyourfact.com](http://checkyourfact.com/) (the Website), a fact-checking website that evaluates the claims of politicians, issue-based advocacy groups and prominent figures in the liberal and conservative media. We may also offer [checkyourfact.com](http://checkyourfact.com/) mobile applications (Applications).
 
 In this Privacy Policy (Policy), we describe the information that we collect about you as you use our Website, Application, and our products and services contained in our Website, Application, and offline (collectively, our Services). This Policy applies to information that we collect online and offline.
 
@@ -30,33 +31,32 @@ Information We Collect Directly From You:  THE DC may collect certain types of 
 
 We may collect some or all of this information if you:
 
-  * visit the Website or Application, make inquiries through the Website, Application, or offline;
-  
+    * visit the Website or Application, make inquiries through the Website, Application, or offline;
 
-  * purchase products or services on the Website or through the Application;
-  * use our Website, Application, and our Services;
-  
 
-  * share your e-mail address to subscribe to email newsletters;
-  
+    * purchase products or services on the Website or through the Application;
+    * use our Website, Application, and our Services;
 
-  * post comments, messages, letters and the like on the Website and Application;
-  
 
-  * participate in any surveys, contests, or sweepstakes sponsored by THE DC;
-  
+    * share your e-mail address to subscribe to email newsletters;
 
-  * register for our Services;
-  
 
-  * provide tips, comments or questions to our news department;
-  
+    * post comments, messages, letters and the like on the Website and Application;
 
-  * contact us for customer service or other purposes; or
-  
 
-  * provide it to us when contacting us about this Policy.
-  
+    * participate in any surveys, contests, or sweepstakes sponsored by THE DC;
+
+
+    * register for our Services;
+
+
+    * provide tips, comments or questions to our news department;
+
+
+    * contact us for customer service or other purposes; or
+
+
+    * provide it to us when contacting us about this Policy.
 
 
 
@@ -80,14 +80,13 @@ Web Beacons: A web beacon is a type of picture file used on the Internet. Web be
 
 Cookies:Cookies help provide a customized user experience. We and our third party service providers may use cookies to, among other things, better serve you with tailored information and facilitate your ongoing access to and use of our Services. There are two types of cookies: session-based and persistent cookies. We also allow third party vendors to use cookies on our Site and Application.
 
-  * Session Cookies. Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged into our Services.
-  
+    * Session Cookies. Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged into our Services.
 
-  * Persistent cookies. Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity, which may be combined with other user information.
-  
 
-  * Third Party Cookies. We also engage third parties to track and analyze non-personally and personally identifiable Website and Application data. To do so, we permit third parties to apply cookies to users of our Services, where permitted by law, and, subject to your right to opt-out through the Network Advertising Initiative (as discussed below). We use the data collected by such third parties to help us administer and improve the quality of our Services and to analyze use of our Services. We also use such third parties to assist us in serving advertisements. Such third parties may combine the information that we provide about you with other information that they have collected.
-  
+    * Persistent cookies. Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity, which may be combined with other user information.
+
+
+    * Third Party Cookies. We also engage third parties to track and analyze non-personally and personally identifiable Website and Application data. To do so, we permit third parties to apply cookies to users of our Services, where permitted by law, and, subject to your right to opt-out through the Network Advertising Initiative (as discussed below). We use the data collected by such third parties to help us administer and improve the quality of our Services and to analyze use of our Services. We also use such third parties to assist us in serving advertisements. Such third parties may combine the information that we provide about you with other information that they have collected.
 
 
 
@@ -205,7 +204,7 @@ California residents may request a list of all third parties to which The DC has
 
 * * *
 
-**XI. SPECIAL NOTICE TO EUROPEAN TERRITORY CITIZENS** In compliance with European privacy laws, in particular the European General Data Protection Regulation (GDPR), THE DC provides specific rights for citizens of the European Territories such as the right to access, rectification, right to object, to complaint, erasure and blockage. More specifically: 
+**XI. SPECIAL NOTICE TO EUROPEAN TERRITORY CITIZENS** In compliance with European privacy laws, in particular the European General Data Protection Regulation (GDPR), THE DC provides specific rights for citizens of the European Territories such as the right to access, rectification, right to object, to complaint, erasure and blockage. More specifically:
 
   * the right to request information about whether and which personal data is processed by us, and the right to demand that personal data is rectified or amended.
   * under certain circumstances, the right to request that personal data should be deleted.
@@ -215,7 +214,9 @@ California residents may request a list of all third parties to which The DC has
   * contact our data protection officer if there are any questions, comments, complaints or requests in connection with our statement on data protection and the processing of your personal data.
   * the right to complain to the responsible supervisory authority if believed that the processing of your personal data is in violation of the legislation.
 
-Pursuant to the GDPR, citizens from "European Territories" mean the European Economic Area (EEA) and Switzerland. Please email our Director of Advertising Operations and designated Data Protection Officer ("DPO") Chad Brady at [advertise@dailycaller.com](mailto:advertise@dailycaller.com) with any questions about exercising any of the above rights. 
+
+
+Pursuant to the GDPR, citizens from "European Territories" mean the European Economic Area (EEA) and Switzerland. Please email our Director of Advertising Operations and designated Data Protection Officer ("DPO") Chad Brady at [advertise@dailycaller.com](mailto:advertise@dailycaller.com) with any questions about exercising any of the above rights.
 
 * * *
 
