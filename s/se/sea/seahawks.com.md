@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seahawks.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124191149id_/https%3A//www.seahawks.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seahawks.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625205714id_/http%3A//www.seahawks.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Seattle Seahawks Privacy Policy | Seattle Seahawks – Seahawks.com
+# Privacy Policy
 
 Effective Date 9/3/2018
 
@@ -140,7 +140,7 @@ Renton, WA 98056
 
 Pursuant to Title 17, United States Code, § 512(c)(2), if you believe in good faith that your copyrighted work has been reproduced and is accessible on the Services in a way that constitutes copyright infringement, please provide our DMCA Agent with a written communication containing the following information.
 
-**IMPORTANT NOTE: ONLY DMCA NOTICES WILL RECEIVE A RESPONSE.**
+ **IMPORTANT NOTE: ONLY DMCA NOTICES WILL RECEIVE A RESPONSE.**
 
   * (a) identification of the copyrighted work claimed to have been infringed;
   * (b) identification of the allegedly infringing material on the Services that is requested to be removed;
@@ -165,6 +165,6 @@ P: (425) 203-8058
 
 E: DmcaAgent@Seahawks.com (Please include "DMCA Notice of Infringement" in the subject line)
 
-**IMPORTANT NOTE** : The foregoing information is provided exclusively for notifying us that your copyrighted material may have been infringed. All other inquires and requests will not receive a response through this process.
+ **IMPORTANT NOTE** : The foregoing information is provided exclusively for notifying us that your copyrighted material may have been infringed. All other inquires and requests will not receive a response through this process.
 
 We reserve the right to remove any posted submission that infringes the copyright of any person under the laws of the United States upon receipt of a notice that complies with the requirements of 17 U.S.C. § 512(c)(3). United States law provides significant penalties for submitting such a statement falsely.
