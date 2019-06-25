@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softsea.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104103131id_/http%3A//www.softsea.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsea.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626005830id_/http%3A//www.softsea.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for SoftSea.com
 
