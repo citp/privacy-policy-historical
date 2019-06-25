@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202547id_/https%3A//www.shoes.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625215953id_/https%3A//www.shoes.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Shoes.com - FREE Shipping & Exchanges
 
@@ -29,7 +29,7 @@ We automatically collect information from your browser when you visit our websit
 
   * Cookies.
 
-When you visit our website, we may assign your computer one or more [cookies](https://web.archive.org/web/20181227202547id_/https%3A//www.shoes.com/info/privacy-info#cookies), to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline [cookies](https://web.archive.org/info/privacy-info#cookies), please note that you may not be able to sign in or use some of the interactive features offered on our website.
+When you visit our website, we may assign your computer one or more [cookies](https://web.archive.org/web/20190625215953id_/https%3A//www.shoes.com/info/privacy-info#cookies), to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline [cookies](https://web.archive.org/info/privacy-info#cookies), please note that you may not be able to sign in or use some of the interactive features offered on our website.
 
   * Other Technologies.
 
