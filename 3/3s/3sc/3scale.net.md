@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3scale.net privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224193413id_/https%3A//www.redhat.com/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3scale.net privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626011832id_/https%3A//www.redhat.com/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -127,13 +127,13 @@ Where the EU General Data Protection Regulation 2016/679 (“GDPR”) applies to
 
 
 
-If you would like to exercise any of these rights, you may do so via our [ Personal Data Request Form. ](https://web.archive.org/web/20181224193413id_/https%3A//www.redhat.com/en/about/personal-data-request)
+If you would like to exercise any of these rights, you may do so via our [ Personal Data Request Form. ](https://web.archive.org/web/20190626011832id_/https%3A//www.redhat.com/en/about/personal-data-request)
 
-Where the GDPR applies, you also have the right to withdraw any consent you have given to uses of your personal data. If you wish to withdraw consent that you have previously provided to us, you may do so via our [Feedback Form.](https://web.archive.org/web/20181224193413id_/https%3A//www.redhat.com/en/about/feedback) However, the withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal.
+Where the GDPR applies, you also have the right to withdraw any consent you have given to uses of your personal data. If you wish to withdraw consent that you have previously provided to us, you may do so via our [Feedback Form.](https://web.archive.org/web/20190626011832id_/https%3A//www.redhat.com/en/about/feedback) However, the withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal.
 
-Where the GDPR does not apply, Red Hat grants you the ability to access, modify, or update some of your personal data online at any time. You may log in and make changes to your information, such as your password, your contact information, your general preferences, and your personalization settings. If necessary, you may also contact us via our [Feedback Form](https://web.archive.org/web/20181224193413id_/https%3A//www.redhat.com/en/about/feedback) and describe the changes you want made to the information you have previously provided. However, note that changing or deleting information necessary for Red Hat to assist with support, services, and purchases may result in a delay or interruption in processing your requests.
+Where the GDPR does not apply, Red Hat grants you the ability to access, modify, or update some of your personal data online at any time. You may log in and make changes to your information, such as your password, your contact information, your general preferences, and your personalization settings. If necessary, you may also contact us via our [Feedback Form](https://web.archive.org/web/20190626011832id_/https%3A//www.redhat.com/en/about/feedback) and describe the changes you want made to the information you have previously provided. However, note that changing or deleting information necessary for Red Hat to assist with support, services, and purchases may result in a delay or interruption in processing your requests.
 
-You will be given an opportunity to tell us whether you would like to receive information, special offers, and promotional materials by email from Red Hat or our business partners when you create a redhat.com account, when you register for a service, when you provide us with your personal data, or when we send you a marketing email. Where required by applicable law, we will obtain adequate consent to provide you with these marketing materials. You also have the ability to opt out of receiving marketing emails from Red Hat at any time without cost by clicking on the relevant link contained in our marketing emails or by contacting us via our [Feedback Form.](https://web.archive.org/web/20181224193413id_/https%3A//www.redhat.com/en/about/feedback) You can also exercise your rights and choices by contacting us as described below under “How to Contact Us.”
+You will be given an opportunity to tell us whether you would like to receive information, special offers, and promotional materials by email from Red Hat or our business partners when you create a redhat.com account, when you register for a service, when you provide us with your personal data, or when we send you a marketing email. Where required by applicable law, we will obtain adequate consent to provide you with these marketing materials. You also have the ability to opt out of receiving marketing emails from Red Hat at any time without cost by clicking on the relevant link contained in our marketing emails or by contacting us via our [Feedback Form.](https://web.archive.org/web/20190626011832id_/https%3A//www.redhat.com/en/about/feedback) You can also exercise your rights and choices by contacting us as described below under “How to Contact Us.”
 
 Back to top
 
@@ -153,7 +153,7 @@ Back to top
 
 ## Children’s Online Privacy
 
-Red Hat’s products and services are not directed to children and Red Hat does not knowingly collect online personal data from children under the age of 16. If you are a parent or guardian of a minor under the age of 16 and believe that he or she has disclosed personal data to us, please contact us via our [Feedback Form](https://web.archive.org/web/20181224193413id_/https%3A//www.redhat.com/en/about/feedback) or as described below under “How to Contact Us.”
+Red Hat’s products and services are not directed to children and Red Hat does not knowingly collect online personal data from children under the age of 16. If you are a parent or guardian of a minor under the age of 16 and believe that he or she has disclosed personal data to us, please contact us via our [Feedback Form](https://web.archive.org/web/20190626011832id_/https%3A//www.redhat.com/en/about/feedback) or as described below under “How to Contact Us.”
 
 Back to top
 
@@ -185,7 +185,7 @@ Canal House, Station Road, Portarlington, Co. Laois, R32 AP23, Ireland
 
 Alternatively, you may contact your local supervisory authority.
 
-If you have any questions about Red Hat’s privacy practices or use of your personal data, please feel free to contact us at [privacy@redhat.com,](mailto:privacy@redhat.com) via our [Feedback Form](https://web.archive.org/web/20181224193413id_/https%3A//www.redhat.com/en/about/feedback) or by mail at:
+If you have any questions about Red Hat’s privacy practices or use of your personal data, please feel free to contact us at [privacy@redhat.com,](mailto:privacy@redhat.com) via our [Feedback Form](https://web.archive.org/web/20190626011832id_/https%3A//www.redhat.com/en/about/feedback) or by mail at:
 
 Red Hat, Inc.  
 Corporate Legal Group  
