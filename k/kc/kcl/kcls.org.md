@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220205118id_/https%3A//kcls.bibliocommons.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625214312id_/https%3A//kcls.bibliocommons.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy | King County Library System | BiblioCommons
 
-Last updated: Jul 18, 2017
+Last updated: Apr 15, 2019
 
 King County Library System has entered into an agreement with BiblioCommons to provide an online service that will make it easier to track your holds and renewals and find the titles you are looking for. In addition, you may also choose to use this service to share ratings and commentary about the titles you find at King County Library System, and to connect with other library users. When you use the pages in King County Library System's catalog that say “Powered by BiblioCommons” in the lower left-hand corner of the screen, you are using what is referred to in this document as the “BiblioCommons Service,” and any information that is collected or shared here will be governed by this Privacy Statement.
 
@@ -48,7 +48,7 @@ BiblioCommons may disclose your personal information and any content associated 
 
 ### Is my personal information protected?
 
-Information in your BiblioCommons account that personally identifies you is encrypted and stored in a secured facility. This information will be used by BiblioCommons and King County Library System to deliver the services you request in accordance with this Privacy Statement. BiblioCommons will not share, gift, sell, rent or trade your personal information (e.g., your email address or month and year of birth). But we may display Shared Content (defined below) in the BiblioCommons Service, or make other commercial uses of Shared Content.
+Information in your BiblioCommons account that personally identifies you is encrypted and stored in a secured facility in Canada. This information will be used by BiblioCommons and King County Library System to deliver the services you request in accordance with this Privacy Statement. BiblioCommons will not share, gift, sell, rent or trade your personal information (e.g., your email address or month and year of birth). But we may display Shared Content (defined below) in the BiblioCommons Service, or make other commercial uses of Shared Content.
 
 #### Law Enforcement Requests
 
@@ -149,6 +149,7 @@ BiblioCommons also records anonymous information and activity in order to improv
   * Data from your account may also be aggregated in an anonymous way.
   * Anonymous search logs are analyzed to improve the search algorithms.
   * Activity such as borrowing and reading may be aggregated anonymously to guide the development of the library's collections or to allow publishers to understand how their titles are being used.
+  * Non-identifying information may be stored in a secure online service such as Google Analytics for use by BiblioCommons or your library. You can opt out of recording your non-identifying site-activity data on Google Analytics by installing the [Google Analytics opt-out browser add-on](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=en). The add-on prevents the Google Analytics JavaScript (gtag.js, ga.js, analytics.js, and dc.js) that is running on websites from sharing information with Google Analytics about visit activity.
 
 
 
