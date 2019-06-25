@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heebmagazine.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224114220id_/http%3A//heebmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heebmagazine.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625135916id_/http%3A//heebmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Heeb
 
@@ -38,7 +38,7 @@ By providing any personally identifiable information to the website, you fully u
 
 _http://www.heebmagazine.comSite Visitorship Data_
 
-Site Visitorship Data is information about the way a website is used that is not associated with an individual’s identity. We use aggregate anonymous data regarding online behavior to better understand how people use our website. To that end, we may use aggregated, anonymous online traffic behavior along with information from third parties to track usage trends and thereby improve our website. We may also use this aggregated, anonymous information to develop reports that we may share with third party marketing partners and customers. The kind of information we may collect includes:
+Site Visitorship Data is information about the way a website is used that is not associated with an individual’s identity. We use aggregate anonymous data regarding online behavior to better understand how people use our website. To that end, we may use aggregated, anonymous online traffic behavior along with information from third parties to track usage [legit canadian online casino](https://casinoluck.ca/) trends and thereby improve our website. We may also use this aggregated, anonymous information to develop reports that we may share with third party marketing partners and customers. The kind of information we may collect includes:
 
   * your Internet Protocol (IP) address;
   * the pages visited on our site;
@@ -63,7 +63,7 @@ Circumstances may arise where, whether for strategic or other business reasons, 
 
 **Information Security**
 
-We may recommend or require the use of encryption technologies for certain types of communications conducted through this website. While we may provide those technologies and use other reasonable precautions to protect confidential information and provide suitable security, we do not guarantee that information transmitted through the Internet is secure, or that such transmissions will be free from delay, interruption, interception or error.
+We may recommend or require the use of encryption technologies for certain types of communications conducted through this website. While we may provide  those technologies and use other reasonable precautions to protect confidential information and provide suitable security, we do not guarantee that information transmitted through the Internet is secure, or that such transmissions will be free from delay, interruption, interception or error.
 
 **Disclosure of Information**
 
