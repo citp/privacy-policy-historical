@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastmidlandstrains.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230151220id_/https%3A//www.eastmidlandstrains.co.uk/site-information/legal-privacy/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastmidlandstrains.co.uk privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625215820id_/https%3A//www.eastmidlandstrains.co.uk/site-information/legal-privacy/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | East Midlands Trains
 
@@ -58,6 +58,7 @@ We collect personal information about you in several ways:
   * When you get in touch using the Contact Us form on our website 
   * When you browse our website or use our on-train wi-fi 
   * When you open any marketing emails we send you
+  * Purchase a railcard via railcard.eastmidlandstrains.co.uk
 
 
 
@@ -74,7 +75,9 @@ When you fill in a form or purchase tickets we only require you to supply the in
 
 
 
-We don’t collect date of birth information but we recognise that young people use our services and are legally able to provide consent after the age of 13 years. If you are using our travel services and are aged between 13 and 16 years of age we recommend that you read our terms and conditions. We will let you know when you make a booking if there is any further information that we may need to be able to provide products or services you have asked for. We will also tell you which information is optional.
+We don’t collect date of birth information when buying a train ticket but we recognise that young people use our services and are legally able to provide consent after the age of 13 years. If you are using our travel services and are aged between 13 and 16 years of age we recommend that you read our terms and conditions. We will let you know when you make a booking if there is any further information that we may need to be able to provide products or services you have asked for. We will also tell you which information is optional.
+
+If you purchase a Railcard from Railcards.EastMidlandsTrains.co.uk, you will be asked for your date of birth, this is to validate your age for the Railcard you are selecting.  
 
 If you need help with things like getting on and off a train, you may choose to give us confidential information about your disability and the assistance you require. All UK train companies use a system called Passenger Assist to book help on stations and on trains for all services. This makes sure that if you book help in advance, our staff on stations and on the trains know that you are travelling, where you are seated on the train, any connections you have to make and the help you need.
 
@@ -175,6 +178,7 @@ We do not share or sell your personal information to any other company for marke
   * The organisation that runs our booking system
   * The agency that handles our customer service enquiries, complaints and refunds
   * Fraud checking and prevention organisation.
+  * Agencies that we use to provide our railcard shop Railcards.EastMidlandsTrains.co.uk
 
 
 
@@ -283,4 +287,4 @@ We link our website directly to other sites. This privacy notice does not cover 
 
 This privacy notice does not provide exhaustive detail of all aspects of our collection and use of personal information. However, we are happy to provide any additional information or explanation using the contact details at the beginning of this privacy policy.
 
-We keep our privacy notice under regular review. This privacy notice was last updated on May 23, 2018.
+We keep our privacy notice under regular review. This privacy notice was last updated on May 13, 2019.
