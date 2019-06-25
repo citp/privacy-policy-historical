@@ -1,101 +1,159 @@
-> *The following text is extracted and transformed from the cubebrush.co privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518215113id_/https%3A//cubebrush.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubebrush.co privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626001526id_/https%3A//cubebrush.co/privacy) for the most accurate reproduction.*
 
-# Cubebrush - Curated digital assets & resources
+# Privacy Policy – Help Center
 
-  * This Privacy Policy was last modified on May 1, 2015 and was first published and made effective on May 1, 2015. 
+This Privacy Policy was last modified on May 20, 2018 and was first published and made effective on May 1, 2015.
 
-Cubebrush, LLC ("Cubebrush," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Cubebrush Labs when you use the Cubebrush Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms of Use](https://web.archive.org/terms).
+Cubebrush, Inc ("Cubebrush," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Cubebrush when you use the Cubebrush Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. Cubebrush will **never** sell your personal information. Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms of Use](https://cubebrush.co/terms).
 
-  * Information We Collect
+## 1\. Personal Information We Collect
 
- **User-Provided Information:  ** You provide us information about yourself, such as your name, e-mail address, and other personal information if you register for a User account with the Service (including by "following," "liking," adding the Cubebrush application, linking your account to the Cubebrush service, etc., on a third party website or network). If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service. 
+We collect certain personal information about visitors and users of our Service.
 
-**Cookies Information:  ** When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Cubebrush help you log in faster and enhance your navigation through the site. A cookie may also convey information about how you browse the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. 
+**1.1.**   **Personal Information.** The most common types of information we collect include things like: user-names, member names, email addresses, IP addresses, other contact details, photos, payment information such as transactional details (we **do not** collect your credit card number or physical address), support queries, forum comments, content you direct us to make available on our Service (such as item descriptions) and web analytics data.
 
-**Log File Information:  ** Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain log file information. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. 
+**1.2. Sensitive  Personal Information.** We do not collect any sensitive personal information. 
 
-**Clear Gifs Information:  ** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Cubebrush better for our users. 
+**1.3. Cookies and web analytics.**  When you visit Cubebrush, there’s certain information that’s recorded which is generally anonymous information and does not reveal your identity. 
 
-**Third Party Services:  ** Cubebrush uses third party analytics services including Google Analytics to help understand use of the Service. These services collect the information sent by your browser as part of a web page request, including cookies and your IP address, and their use of this information is governed by their Privacy Policy. 
+When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Cubebrush help you log in faster and enhance your navigation through the site. A cookie may also convey information about how you browse the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can adjust your web browser settings to refuse all cookies. However, some features of the Service will not function properly if the ability to accept cookies is disabled.
 
-  * How We Use Your Information
+When visiting Cubebrush, in addition to cookies, the following kinds of details may also be captured:
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service. 
-
-By providing us with your email address (including by "following," "liking," adding the Cubebrush application, linking your account to the Cubebrush service, etc., on a third party website or network), you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings. We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out or change your preferences in your account settings page. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails. 
-
-Following termination or deactivation of your User account, we may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, we may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your User account. 
-
-If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. We store this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at [info@cubebrush.co](mailto:info@cubebrush.co).
-
-We may use certain information about you and/or your User Content internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content. 
-
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our Users or engineers that are associated with certain IP addresses; (f) help you efficiently access your information after you sign in; and (h) track User Content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act; and (i) automatically update the Cubebrush application on your system and related devices. 
-
-  * How We Share Your Information
-
-Personally Identifiable Information: We will not rent or sell your personally identifiable information to others under any circumstances. We may share your personally identifiable information with third parties (e.g. payment processors) for the purpose of providing the Service to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside of our direct control (for instance, on servers or databases co-located with hosting providers). 
-
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution. 
-
-Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. To change your privacy settings on the Service, visit your account settings page. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information. 
-
-From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events. 
-
-Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://web.archive.org/terms), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Cubebrush or Cubebrush Labs, our Users or others. 
-
-Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Cubebrush services. 
-
-We may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Cubebrush. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. Cubebrush does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Cubebrush to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The Cubebrush Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information. 
-
-  * How We Protect Your Information
-
-We care about the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Cubebrush or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Your privacy settings may also be affected by changes to the functionality of Cubebrush's distributors, such as social networks. We are not responsible for the functionality or security measures of any third party. 
-
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Cubebrush, at all times. 
-
-  * Your Choices About Your Information
-
-You may, of course, decline to submit personally identifiable information through the Service, in which case Cubebrush may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account settings page. You can review and correct the information about you that Cubebrush keeps on file by contacting us directly at [info@cubebrush.co](mailto:info@cubebrush.co).
-
-  * Children's Privacy
-
-Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Cubebrush. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [info@cubebrush.co](mailto:info@cubebrush.co).
-
-  * Links to Other Web Sites
-
-We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding. 
-
-  * Notification Procedures
-
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by us in our sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy. 
-
-  * California Online Privacy Protection Act Notice
-
-(1) Cubebrush does not track users, who interact with its website across the web, and therefore does not use “do not track” signals. 
-
-(2) Cubebrush does not authorize the collection of personally identifiable information from users on any Cubebrush website for third party use through advertising technologies. 
-
-  * Changes to Our Privacy Policy
-
-We may update its Privacy Policy from time to time, and so you should review this Policy periodically. When we change the policy in a material way, we will update the 'last modified' date at the top of this Privacy Policy. Changes to this Privacy Policy are effective when they are posted on this page. 
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [info@cubebrush.co](mailto:info@cubebrush.co), or send mail to: 
-
-Cubebrush, LLC   
-PO Box 426   
-Tustin, CA 92781 
+  * your IP address or proxy server IP address’;
+  * the domain name you requested;
+  * the name of your internet service provider is sometimes captured depending on the configuration of your ISP connection;
+  * the date and time of your visit to the website;
+  * the length of your session;
+  * the pages which you have accessed;
+  * the number of times you access our site within any month;
+  * the file URL you look at and information relating to it;
+  * the website which referred you to our Service; and
+  * the operating system which your computer uses.
 
 
 
+## 2\. How We Collect Personal Information
 
-* Information We Collect
-* How We Use Your Information
-* How We Share Your Information
-* How We Protect Your Information
-* Your Choices About Your Information
-* Children's Privacy
-* Links to Other Web Sites
-* Notification Procedures
-* California Online Privacy Protection Act Notice
-* Changes to Our Privacy Policy
+We collect personal information directly when you provide it to us, automatically as you use our Service, or through other people when you use services associated with Cubebrush.
+
+**2.1. User-submitted Information.** We collect your personal information when you provide it to us when you complete membership registration and buy or provide items or services on Cubebrush, subscribe to a newsletter, email list, submit feedback, enter a contest, fill out a survey, or send us a communication.
+
+**2.2. Personal information  we collect about you from others. **Although we generally collect personal information directly from you, on occasion, we also collect certain categories of personal information about you from other sources. In particular:
+
+**a.** Transaction details from our trusted payment providers in order to process a transaction;
+
+**b.** third party service providers (like Google, Facebook, Dropbox) which may provide information about you when you link, connect, or login to your account with the third party provider and they send us information usually limited to your name and email; and
+
+**c.** other third party sources/ and or partners whereby we receive additional information about you (to the extent permitted by applicable law), such as demographic data or fraud detection information, and combine it with information we have about you. For example, fraud warnings from service providers like identity verification service. We also receive information about you as a rights holder from our third party authors. For example, information in the form of a model release when your image is used in an item made available on Cubebrush.
+
+## 3\. How We Use Your Personal Information
+
+**3.1. To fulfil a contract, or take steps linked to a contract.** In particular, in facilitating and processing transactions that take place on Cubebrush, like when you purchase an item from our marketplace.
+
+**3.2. When necessary for purposes in our legitimate interest.** These interests include:
+
+**a.** operating the Service;
+
+**b.** providing you with services described on Cubebrush;
+
+**c.** verifying your identity when you sign in to Cubebrush;
+
+**d.** responding to support tickets, and helping facilitate the resolution of any disputes;
+
+**e.** updating you with operational news and information about our Service e.g. to notify you about changes to Service, website disruptions or security updates;
+
+**f.** carrying out technical analysis to determine how to improve the Service we provide;
+
+**g.** monitoring activity on Cubebrush, e.g. to identify potential fraudulent activity and to ensure compliance with the user terms that apply to the Service;
+
+**h.** managing our relationship with you, e.g. by responding to your comments or queries submitted to us on the Service or asking for your feedback or whether you want to participate in a survey;
+
+**i.** managing our legal and operational affairs (including, managing risks relating to content and fraud matters);
+
+**g.** training Cubebrush staff about how to best serve our user community;
+
+**k.** improving our products and services.
+
+**l.** providing general administrative and performance functions and activities; and
+
+**m.** processing your job application to Cubebrush.
+
+**3.3. When you give us consent.** To provide a better experience and bring you more value, we will use your personal information to:
+
+**a.** provide you with marketing information about products and services which we feel may interest you; and
+
+**b.** customize our services and websites, like advertising that appears on Cubebrush – where this involves the use of cookies or similar technologies – in order to provide a more personalised experience.
+
+## 4\. How We Share Your Information
+
+**4.1. Selling Personal Information.**  We will not rent or sell your personal information to others under any circumstances. 
+
+**4.2.  When absolutely necessary we may disclose personal information to the following recipients**:
+
+  * Authors of any items or services made available to you so they can facilitate support;
+  * subcontractors and service providers who assist us in connection with the ways we use personal information (as set out above), in particular: **website hosting providers** ; **technical and customer support services** ; **marketing and analytics services** ; **security and fraud prevention services** ; **  subscription management services**; **payment processing services** ; **identification verification services**  and **operational tooling services;**
+  * our professional advisers (lawyers, accountants, financial advisers etc.);
+  * regulators and government authorities in connection with our compliance procedures and obligations;
+  * purchaser or prospective purchaser of all or part of our assets or our business, and their professional advisers;
+  * in connection with the purchase; 
+    * third party to respond to requests relating to a criminal investigation or alleged or suspected illegal activity;
+    * third party, in order to enforce or defend our rights, or to address financial or reputational risks;
+    * rights holder in relation to an allegation of intellectual property infringement or any other infringement; and
+  * other recipients where we are authorised or required by law to do so.
+
+
+
+**4.3. Non-Personally Identifiable Information.**  We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Cubebrush services.
+
+## 5\. How We Protect Your Information
+
+We store personal information on secure servers that are managed by us and our service providers. Personal information that we store or transmit is protected by security and access controls, including username and password authentication, two-factor authentication, and data encryption where appropriate.
+
+## 6\. How you can access your personal information
+
+You can access some of the personal information that we collect about you by logging in to your account. You also have the right to make a request to access other personal information we hold about you and to request corrections of any errors in that data. You can also close the account you have with us at any time. To make an access or correction request, contact us directly at [legal@cubebrush.co](mailto:legal@cubebrush.co).
+
+## 7\. How long we keep your personal information
+
+We retain your personal information for as long as is necessary to provide the Service to you and others, and to comply with our legal obligations. If you no longer want us to use your personal information or to provide you with the Cubebrush services, you can request that we erase your personal information and close your Cubebrush account. Please note that if you request the erasure of your personal information we will retain information from deleted accounts as necessary for our legitimate business interests, to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the terms of service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.
+
+## 8\. Children's Privacy
+
+Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Cubebrush. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [legal@cubebrush.co](mailto:legal@cubebrush.co).
+
+## 9\. California Online Privacy Protection Act Notice
+
+**9.1. Do no track signals.** Cubebrush does not track users, who interact with its website across the web, and therefore does not use “do not track” signals.
+
+**9.2. Advertising.** Cubebrush does not authorize the collection of personally identifiable information from users on any Cubebrush website for third party use through advertising technologies.
+
+## 10\. EU-based Users And Visitors
+
+If you’re a user or visitor in the European Economic Area these rights also apply to you:
+
+**10.1. Data Controller.** For the purposes of applicable EU data protection law (including the General Data Protection Regulation 2016/679 (the “GDPR”), we are a ‘data controller’ of your personal information.
+
+**10.2. Data Portability.**  You are entitled to ask us to port your personal information (i.e. to transfer in a structured, commonly used and machine-readable format, to you), to erase it, or restrict its processing.
+
+**10.3. Right to Object.** You also have rights to object to some processing that is based on our legitimate interests, such as profiling that we perform for the purposes of direct marketing, and, where we have asked for your consent to process your data, to withdraw this consent.
+
+**10.4. Limitations.** These rights are limited in some situations – for example, we can demonstrate that we have a legal requirement to process your personal information. In some instances, this means that we may retain some data even if you withdraw your consent.
+
+Where we require your personal information to comply with legal or contractual obligations, then provision of such data is mandatory: if such data is not provided, then we will not be able to manage our contractual relationship with you, or to meet obligations placed on us. In all other cases, provision of requested personal information is optional.
+
+**10.5. Right To Complain.** If you have unresolved concerns you also have the right to complain to data protection authorities. The relevant data protection authority will be the data protection authority of the country: (i) of your habitual residence; (ii) of your place of work; or (iii) in which you consider the alleged infringement has occurred.
+
+**10.6. Our Responsibility.** Cubebrush has one calendar month to respond to any request made in the context of the General Data Protection Regulation (GDPR).
+
+## 11\. Changes to Our Privacy Policy
+
+We may update its Privacy Policy from time to time, and so you should review this Policy periodically. When we change the policy in a material way, we will update the 'last modified' date at the top of this Privacy Policy. Changes to this Privacy Policy are effective when they are posted on this page.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at legal@cubebrush.co, or send mail to:
+
+Cubebrush, LLC 
+
+PO Box 426 
+
+Tustin, CA 92781
