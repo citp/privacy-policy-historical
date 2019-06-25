@@ -1,414 +1,385 @@
-> *The following text is extracted and transformed from the currys.co.uk privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202063514id_/https%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currys.co.uk privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625194209id_/https%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | Currys
 
 ## Privacy & Cookies
 
-### What are Cookies
+**If you want to opt-out of marketing please submit your request[here](https://adobefrontend-http-01.live.retail.cpwplc.com/webApp/dixAPP274?product=DIX_0001&chain=DIX) .**
 
-When you are browsing websites on the internet, many of these websites store tiny text files called cookies on your computer, to help track your use of the site and to personalise your journey around the website. These cookies can be stored so that if you return to a website, that website server can call the information from the cookies stored on your computer to tailor your experience of the site.
+### Privacy
 
-Currys.co.uk is no different, we use cookies to help you shop our website more effectively and to place online orders - we do not store personally identifiable information in our cookie data. We also use some carefully selected 3rd party suppliers to enhance your online experience and they will place cookies on your computer for use on our website too.
+This Privacy Policy helps you understand what Personal data we collect, why we collect it, what we do with it and the choices you have, including how to access and update information.
 
-Cookies are perfectly safe to be stored on your computer and almost all web browsers have cookie storing enabled as default. However, all browsers have the option of disabling cookies being stored on your computer if you wish to do this.
+Our policy applies to you if you use our products or services in store, over the phone, online, through our mobile applications or if you use any of our websites or interact with us on social media (our “Services”).
 
-Please be aware that disabling cookies on your browser will reduce your ability to shop online with Currys.co.uk. We use cookies to process products in your basket and orders. Disabling your cookies will mean you cannot purchase through our website. This would also be a common experience of reduced functionality across many websites.
+Who we are
 
-Recent legislation from the European Union has meant that websites must provide clear information about their use of cookies to their customers, something we at Currys PC World fully support. We want to ensure that you, as our valued customer, are fully aware of the use of cookies on our website, and we are proud of our reputation as a transparent and honest retailer that you can trust.
+Currys PC World is a trading name of DSG Retail Limited (referred to using "We", "Us", "Our" or the “Company”) is a company registered in England and Wales (Company registration number: 504877) and is part of the Dixons Carphone group of companies. Dixons Carphone is Europe's leading specialist electrical and telecommunications retailer and services company, employing over 42,000 people in nine countries. We pride ourselves on giving our customers simple and independent advice on which electronic and technology products are right for them.
 
-Currys & Cookies
+Our primary brands are [Currys PC World, Dixons Travel and Team Knowhow]
 
-We want to make sure you are fully aware of the cookies we use and what they do when you are shopping on Currys.co.uk.
+Your security
 
-Here is a full guide to our cookies explaining the name of the cookie as it would appear on your computer, a description of what the cookie is used for and a rating from our technical teams on level of information held:
+When you shop with us or use our services, you trust us with your data. We're a company that puts you, our customer, first, respecting you as an individual but also as a member of our community. We listen to our customers to understand your expectations and make sure these are reflected in our business decisions. We’re committed to maintaining your trust and confidence. In this Privacy Policy, we’ve provided details on when and why we collect your personal information, how we use it, the very limited conditions under which we may disclose it to others (where direct marketing is concerned only with your explicit permission) and how we keep it secure.
 
-**Cookie Name** | **Description of Cookie usage**  
----|---  
-Rich Relevance | 
+Information we collect
 
-Rich Relevance is one of our approved suppliers that create recommendations on our website for our customers based on their journey through our site and the products they are interested in. They use cookies to display products of interest to you such as ‘Customers who viewed this also viewed’ or ‘Items commonly purchased with this product’.  
+We collect personal information about you when you visit one of our stores, use our Websites ("Websites"), or use our web or mobile device applications ("Mobile Apps") or if you communicate with us by phone, e-mail and social media. We refer to our Websites and Apps collectively as "Online Services".
+
+The types of personal information we collect includes:
+
+  * Personal details such as your name, address, date of birth, email address, phone number and other contact information Transaction information, such as the product you purchased, its price, your method of payment and your payment details.
+  * Information about you like your employment details, financial position and information taken from identification documents like your passport or driving licence when we review your application for insurance or loans offered by selected third parties partners
+  * Your account information – such as dates of payments owed and received, the subscription services you use or any other information related to your account
+  * The phone numbers that you call/send messages to or the phone numbers that you receive calls/messages from.
+  * The date and time of the calls and messages you send or receive through our network, and your location at the time these communications take place.
+
+
+
+When you're online the information we collect includes:
+
+  * Account information, like your username, password, and other identifiers or credentials you use to access our online services or to buy our products and services, details of your shopping preferences, such as your favourite brands and products, as well as which of our stores you prefer to shop in
+  * Details of your visits to the Website, in-store WIFI or App and the resources that you access. Examples include ads that you click, device information and your location
+  * IP address and cookie data
+  * Information that you provide in your dealings with us. This includes when you register to use our online services, or when you subscribe to our services or request further services and/or information from us.
+
+
+
+The situations when you provide personal information could include when you:
+
+  * Purchase products at our stores or through our contact centre
+  * Register or use our Online Services
+  * Request to receive marketing or other communications
+  * Use our Wi-Fi networks or other in-store tech
+  * Enter one of our competitions or when you complete one of our customer surveys
+  * Submit information when you’re providing feedback
+  * Use interactive features of our Online Services.
+
+
+
+How we use your information
+
+The law on data protection sets out a number of different reasons for which a company may collect and process your personal data. These are set out below.
+
+### When we're required to enter into a contract with you
+
+We use your personal information to process your orders and payments or to give you a refund.
+
+### Where you have provided consent
+
+We use email and text messages to communicate with you about our products and services, competitions, offers, promotions or special events where you tick a box.
+
+For example
+
+  * To provide a free mobile phone upgrade reminder service to inform you when a product is back in stock
+  * To send you a renewal notice
+  * If you give us permission, to communicate with you about our third party partners that we believe may interest you
+
+
+
+### Where there is a Legitimate Interest
+
+As a Company we are often required to process your personal data in order to carry out certain tasks relating to our business activities. In such cases, processing of personal data can be justified on grounds of legitimate interest.
+
+#### Communications
+
+  * To provide customer support and to respond to, and communicate with you about your requests
+  * To contact you if we need to obtain or provide additional information
+  * To check our records are right and to check every now and then that you’re happy and satisfied (e.g. customer surveys). 
+  * For marketing activities (other than where we rely on your consent) e.g. marketing permissions captured during the course of a sale, personalising marketing messages through social media and other third party platforms;
+  * To send promotional material (e.g. renewals) to you in the post or inform you of our offers by telephone
+  * To comply with a request from you in connection with the exercise of your rights (for example where you have asked us not to contact you for marketing purposes, we will keep a record of this on our suppression lists in order to be able to comply with your request)
+  * To send communications to you about your orders, purchases or accounts and bill you for using our products or services 
+  * To let you post on our blogs and interact with us through social media.
+
+
+
+#### Personalise & Improve our Service
+
+  * To personalise your experience on our online services. This could include providing you with interesting, relevant content, or making navigation to our Sites and Mobile Apps easier
+  * To help us understand more about you as a customer, the products and services you use, the way you use them and how you shop across the company, so we can serve you better 
+  * Improve the content and appearance of the Website(s) or App(s), and to make sure that content is presented in the most effective manner for you
+  * To operate, evaluate and improve our business, including the development of new products and services; to determine the effectiveness of our sales, marketing and advertising; and the analysis and improvement of our products, offers, promotions, and Online Services and other technologies
+  * To show you relevant ads by using data collected from your devices, including your searches, location, ads that you have seen and personal information that you have given us, such as your age range, gender and topics of interest. Dependant on your Ads Settings, this data informs the ads that you see across your devices. So if you visit our website on your computer at work, you might see ads about our products or services on your phone later that night.
+
+
+
+#### Company Interest
+
+  * Where you fail to repay what you owe Us or return our property, we may need to trace your whereabouts (sometimes using a tracing Agent) in order to recover payment or reclaim property. This might be carried out by a third Party debt recovery agent on our behalf
+  * To protect against, identify and prevent fraud and other criminal activity, claims and other liabilities
+  * For network and information security in order for us to take steps to protect your information against loss or damage, theft or unauthorised access.
+
+
+
+### When we're required to comply with our Legal Obligation
+
+We'll use your personal information to comply with our legal obligations including:
+
+  * To identify you when you contact us
+  * To verify the accuracy of data that we hold about you
+  * To assist HMRC and/or the Police and/or other regulatory bodies in relation to an investigation by a public authority. 
+
+
+
+### Where it is in your Vital Interest
+
+In certain circumstances it is in your vital interests for us to process your personal information. We may need to contact you if there are any urgent safety or product recall notices or where we otherwise reasonably believe that the processing of your personal information will prevent or reduce any potential harm to you.
+
+Who we share you personal information with
+
+We share personal information within the Dixons Carphone PLC Group. Members of the Dixons Carphone Group that receive this information are not authorised to use or disclose the information except as provided in this privacy policy.
+
+#### Our service providers
+
+We work with partners, suppliers, insurers and agencies so they can process your personal information on our behalf and only where they meet our standards on the processing of data and security. We only share information that helps them provide their services to us or to help them provide their services to you. For example, some of our service providers place advertising for us online, about our products and services and those of our retail partners, suppliers and third parties. As a result, where you have indicated you are happy to receive marketing from us, you might see online advertising that we have placed on the web sites you visit, or the interactive services you use.
+
+#### Other organisations and individuals
+
+We may transfer your personal information to other organisations in certain scenarios. For example:
+
+  * When you apply for credit or purchase an insurance product we'll pass on your information to trusted third party partners responsible for these products. Please note we act as a credit broker and not as a lender in respect of our insurance products credit facility within our UK and Republic of Ireland stores
+  * If required to by law, under any code of practice by which we are bound or we're asked to do so by a public or regulatory authority such as the Police or the Department for Work and Pensions
+  * Information may also be shared with fraud prevention agencies to prevent fraudulent claims 
+  * If we need to do so in order to exercise or protect our legal rights, users, systems and services
+  * In response to requests from individuals (or their representatives) seeking to protect their legal rights or the rights of others.
+  * With emergency services (if you make an emergency call), including your approximate location
+  * Companies that enable us to collect your reviews and comments, both online and offline.
+  * We may use trusted third parties to carry out certain activities on our behalf and may share your personal data with them for the purposes of: processing and sorting data, monitoring how customers use our site, issuing our emails for us and collecting product/customer feedback from you via surveys. The third parties include Reevo, Maru/EDR (previously eDigital), ABA Research, this is by no means an exhaustive list but it gives an indication of the many third parties we work with.
+  * Companies which run our contact centres because they need your personal information to identify and contact you.
+  * Third party vendors who help us to manage and maintain the Group IT infrastructure.
+  * Companies that provide insights and analytics services for us so we can stock the right products, send the right marketing campaigns and understand our business and customers better.
+
+
+
+#### Credit Reference Agencies
+
+In order to process your application we'll supply your personal information to credit reference agencies (CRAs) and they will give us information about you.
+
+This will include information from your credit application and about your financial situation and financial history. CRAs will supply to us both public (including the electoral register) and shared credit, financial situation and financial history information and fraud prevention information. We will use this information to:
+
+  * Assess your creditworthiness and whether you can afford to take the product
+  * Verify the accuracy of the data you have provided to us
+  * Prevent criminal activity, fraud and money laundering
+  * Trace and recover debts
+  * To make sure any offers provided to you are appropriate to your circumstances.
+
+
+
+We'll also continue to exchange information about you with CRAs on an on-going basis, including about your settled accounts and any debts not fully repaid on time. CRAs will share your information with other organisations. Your data will also be linked to the data of your spouse, any joint applicants or other financial associates.
+
+The identities of the CRAs, and the ways in which they use and share personal information, are explained in more detail at [www.equifax.co.uk/crain](https://www.equifax.co.uk/crain) __
+
+International transfers of your personal information
+
+From time to time we may transfer your personal information to our suppliers, service providers and other company offices based outside of the European Economic Area (EEA) for the purposes described in this privacy policy. If we do this your personal information will continue to be subject to one or more appropriate safeguards set out in the law.
+
+If we do transfer information to our agents or advisers outside of the EEA, we will make sure that it is protected in the same way as if it was being used in the EEA. We'll use one of these safeguards:
+
+  * We'll transfer it to a non-EEA country with privacy laws that give the same protection as the EEA. Learn more on the [European Commission Justice website](https://ec.europa.eu/info/law/law-topic/data-protection_en) __.
+  * We'll put in place a contract with the recipient that means they must protect it to the same standards as the EEA. Read more about this here on the [European Commission Justice website](https://ec.europa.eu/info/law/law-topic/data-protection_en) __
+
+
+
+How we use your information to make automated decisions
+
+We sometimes use systems to make automated decisions based on your personal information or the information we are allowed to collect from others about you or your business (for example where we perform credit checks). This helps us to make sure our decisions are quick, fair, efficient and correct, based on what we know. These automated decisions can affect the products, services or features we may offer you now or in the future, or the price that we charge you for them.
+
+#### Your rights
+
+You have rights over automated decisions.
+
+  * Under certain circumstances, you can ask that we do not make our decision based on the automated score alone
+  * You can object to an automated decision, and ask that a person reviews it.
+
+
+
+If you want to know more about these rights, please contact us .
+
+How long we keep your personal information
+
+We will keep your personal information for as long as you're a customer. If you haven't made a purchase or engaged with us for 3 years or more, then we'll remove you from our marketing mailing lists. After you stop being a customer, we may keep your data for up to 7 years after the last time you interacted with us. This could include one of the ways specified in 'How we use your personal information' and for one of these reasons:
+
+  * To respond to any questions or complaints
+  * To show that we treated you fairly
+  * To maintain records according to rules that applies to us
+  * To establish, bring or defend legal claims.
+
+
+
+We may keep your data for longer than 7 years if we cannot delete it for legal, regulatory or technical reasons. We may also keep it in order to help support product recalls or safety notices. If we do, we will make sure that your privacy is protected and only use it for those purposes.
+
+We do not retain personal information in an identifiable format for longer than is necessary.
+
+Your rights
+
+#### Access to Information held about you
+
+You have the right to request what personal information we hold about you. This is sometimes called a 'Data Subject Access Request'. If we agree that we are obliged to provide personal information to you (or someone else on your behalf), we'll provide it to you free of charge. Before providing personal information to you or another person on your behalf, we may ask for proof of identity and sufficient information about your interactions with us that we can locate your personal information. Except in rare cases, we’ll respond to you within 30 days after we've received this information or, where no such information is required, after we’ve received your request.
+
+If any of the personal information we hold about you is inaccurate or out of date, you may ask us to correct it.
+
+In certain circumstances you have the right to request a copy of your personal information from us or to have that information passed to an organisation of your choice in a format that can be easily re-used.
+
+### Right to stop or limit our processing of your data
+
+You have the right to object to us processing your personal information if we’re not entitled to use it any more, to have your information deleted if we are keeping it too long or have its processing restricted in certain circumstances.
+
+Where we rely on our legitimate interests, as set out under 'How we use your personal information', you may object to us using it for these purposes. If we agree that your objection is justified in accordance with your rights under data protection laws, we’ll permanently stop using your data for those purposes. Otherwise we’ll provide you with our justification as to why we need to continue using your data.
+
+You can ask us to restrict the use of your personal information if:
+
+  * It isn't accurate.
+  * It has been used unlawfully but you don't want us to delete it.
+  * It's not relevant any more, but you want us to keep it for use in legal claims.
+  * You’ve already asked us to stop using your data but you’re waiting for us to tell you if we’re allowed to keep on using it.
+
+
+
+Please note that we may be required by law to retain certain information. Before we are able to provide you with any information or correct any inaccuracies, we may ask you provide other details to help us respond to your request.
+
+If you would like to exercise these rights, please contact us .
+
+Please make sure you provide the following identification documents as part of your application:
+
+  * Please make sure you provide one proof of identity (we suggest either a utility bill in your name or your driver's licence, but other similar formal documents may be accepted, please note the documents cannot be older than 6 months) as part of your request.
+
+
+
+How can you stop the use of your personal data for direct marketing
+
+We won't send you marketing messages if you tell us not to.
+
+  * You can click onto the "unsubscribe" link in any communication that we send to you by email which will automatically unsubscribe you from that type of communication. Each "unsubscribe" link only relates to that specific type of communication. Please also note that you may continue to receive Service communications in relation to the product and services we have sold to you
+  * In relation to our App(s), you can manage your preferences in the App(s)
+  * Alternatively, you can unsubscribe by submitting your request [here](https://dixonsregistration.co.uk/permoptout/?referrer=4) __.
+
+
+
+Please note that it may take up to 28 days to process your request.
+
+You can also find further information within our [Direct Marketing Charter](https://currys-ssl.cdn.dixons.com/css/themes/pdf/currys-direct-marketing-charter.pdf) __.
+
+Security measures
+
+All companies within the Dixons Carphone Group use technical and organisational security measures to protect the personal information supplied by you against loss, destruction, and any unauthorised access by third parties.
+
+Links to other websites
+
+Our websites (which includes this Privacy Policy) contain links to other websites run by other organisations which we do not control. This policy does not apply to those other websites and Apps‚ so we encourage you to read their privacy statements.
+
+Social Plugins
+
+We use so-called social plugins (buttons) of social networks such as Facebook, Google+, You Tube, Instragram and Twitter.
+
+After activation of a button, the social network can retrieve data, independently of whether you interact with the button or not. If you are logged on to a social network, the network can assign your visit to the website to your user account. A social network cannot assign a visit to websites operated by our other group companies unless you activate the respective button there as well.
+
+If you're a member of a social network and don’t want that network to combine data retrieved from your visit to our websites with data they hold on you, you must log out from the social network concerned before activating the buttons.
+
+### Website cookies
+
+The purpose of our Cookies Policy is to help explain what they are, why you are collecting them, and what information cookies store.
+
+What are cookies?
+
+Like most websites, Dixons Carphone PLC websites use cookies to collect information. Cookies are small data files which are placed on your computer or other devices (such as smart 'phones or 'tablets') as you browse this website. They are used to ‘remember’ when your computer or device accesses our websites. Cookies are essential for the effective operation of our websites and to help you shop with us online. They are also used to tailor the products and services offered and advertised to you, both on our websites and elsewhere.
+
+Information collected
+
+Some cookies collect information about browsing and purchasing behaviour when you access this website with the same computer or device. This includes information about pages viewed, products purchased and your journey around a website. We don't use cookies to collect or record information on your name, address or other contact details. Dixons Carphone PLC can use cookies to monitor your browsing and purchasing behaviour.
+
+How are cookies managed?
+
+The cookies stored on your computer or other devices when you access our websites are designed by:
+
+  * Dixons Carphone PLC, or on behalf of and subsidiaries of Dixons Carphone PLC, and are necessary to let you make purchases on our website;
+  * third parties who participate with us in marketing programmes; and
+  * third parties who broadcast web banner advertisements on behalf of Dixons Carphone PLC.
+
+
+
+What are cookies used for?
+
+The main purposes for which cookies are used are: -
+
+  1. For technical purposes essential to effective operation of our websites, particularly in relation to on-line transactions and site navigation.
+  2. For Dixons Carphone PLC to market to you, particularly web banner advertisements and targeted updates.
+  3. To let Dixons Carphone PLC to collect information about your browsing and shopping patterns, including to monitor the success of campaigns, competitions etc. 
+  4. To let Dixons Carphone PLC meet its contractual obligations to make payments to third parties when you purchase a product visiting our website from a site operated by those parties.
+
+
+
+How do I disable cookies?
+
+If you want to disable cookies you need to change your website browser settings to reject cookies. How you can do this will depend on the browser you use. Further details on how to disable cookies for the most popular browsers are set out below:
+
+#### For Microsoft Internet Explorer:
+
+  1. Choose the menu "tools" then "Internet Options"
+  2. Click on the “privacy” tab
+  3. Select the setting the appropriate setting
+
+
+
+#### For Google Chrome:
+
+  1. Choose Settings > Advanced
+  2. Under "Privacy and security," click “Content settings”.
+  3. Click “Cookies”
+
+
+
+#### For Safari:
+
+  1. Choose Preferences > Privacy
+  2. Click on "Remove all Website Data"
+
+
+
+#### For Mozilla firefox:
+
+  1. Choose the menu "tools" then "Options"
+  2. Click on the icon "privacy"
+  3. Find the menu "cookie" and select the relevant options
+
+
+
+#### For Opera 6.0 and further:
+
+  1. Choose the menu "Files" > "Preferences"
+  2. Privacy
+
+
+
+What happens if I disable cookies?
+
+This depends on which cookies you disable, but in general the website may not operate properly if cookies are switched off. If you only disable third party cookies, you will not be prevented from making purchases on our sites. If you disable all cookies, you won’t be able to complete a purchase on our sites.
+
   
-sCountryCode | A cookie containing 2 characters that remains persistent for 1 month containing “GB” to ensure correct web pages are displayed to you based on the country you are browsing from.  
-sLanguageCode | A session ID cookie that expires after 20 minutes if your web browser is not closed. By storing your session, we can maintain your basket and its contents for longer during session.  
-cookieSource2 | A cookie containing 2 characters that remains persistent for 1 month containing “UK” to ensure correct translation module is displayed for appropriate content language.  
-Google Analytics (_utXX) | 
 
-We use Google Analytics to help provide us data about the way our customers use our websites to improve your experience. Google Analytics cookies record visitors, city locations, browser type and site journey. Google Analytics cookies do not record personal information. For a full description of Google’s use of cookies please visit: 
 
-<http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html>  
-  
-Google adwords conversion tracking | 
+### Contact Us
 
-Our source cookie contains PHP data containing the last 3 traffic sources (referring website) associated to the customer. This cookie helps us understand relevant related websites. This cookie contains no user-specific details or information. 
+**If you want to opt-out of marketing please submit your request[here](https://adobefrontend-http-01.live.retail.cpwplc.com/webApp/dixAPP274?product=DIX_0001&chain=DIX) .**
 
-This is a cookie from Google that helps us to understand how customers are purchasing from our website. This information helps us understand what is working more successfully for us in terms of sponsored advertising on search engines, website structures, promotions and other key identifiers. The cookie does not contain any personal information about our customers. 
+If you have a question or a complaint about this policy, the way your personal information is handled, please contact us by one of the following means:
 
-[https://support.google.com/adwords/bin/answer.py?hl=en&answer=93148](https://support.google.com/adwords/bin/answer.py?hl=en&answer=93148)  
-  
-Affiliate Window (awXXXX) | 
+**By web form:**  Complete this [web form](https://app-de.onetrust.com/app/#/webform/857a80ef-f496-40e2-adcb-91c40f492f50) (Please do not submit any opt-out request via this form, any opt-out request submitted via this form will not be actioned. Please submit your opt-out request through this [link](https://adobefrontend-http-01.live.retail.cpwplc.com/webApp/dixAPP274?product=DIX_0001&chain=DIX) )
 
-An Affiliate Window cookie is used to track websites that are sending customers to our website from theirs so that we can reward them for the referral. When a customer clicks through to our website from an affiliate site a cookie is dropped on that website’s server. When the customer actually arrives on our site, we drop a cookie onto your computer to track the source and the destination. There is only ever 1 Affiliate Window cookie on your PC per transaction. The cookie is retained for 30 days. 
+**By post:**   
+Dixons Carphone SAR  
+PO Box 689  
+SALFORD  
+M5 OPD
 
-Affiliate Window cookies are marked awXXXX where XXXX is the ID of the website referring the visitor to our website according to Affiliate Window. An Affiliate Window cookie captures click date/time, IP address, affiliate ID, click reference, product ID. 
+#### Complaining to the Data Protection Regulator
 
-Further information provided in terms of guidance from Affiliate Window in the document below.
+You have the right to complain to the Information Commissioners Office (ICO) if you are concerned about the way we have processed your personal information. Please visit the ICO's website for further details at: [https://ico.org.uk](https://ico.org.uk/) __
 
-[Download AWIN The ePrivacy Directive FAQs PDF](https://currys-ssl.cdn.dixons.com/grafx/gb/uk/promotions/pdf/AWIN_ePrivacy_Directive_FAQs.pdf)  
-Flixmedia | 
+#### Changes to this Policy
 
-Flixmedia is one of our approved suppliers that deliver enriched product content such as images and text to product pages on our website. They use cookies to ensure this content loads quickly on product pages and collect views and clicks from this content. Flixmedia does not collect any personally identifiable information. Flixmedia cookies are set to expire after a maximum of 12 months. Please refer to <http://flixmedia.eu/privacy-policy/> for full details.  
-  
-SaleCycle | 
-
-SaleCycle collect information to enable us to send bespoke service emails to customers that cannot complete their checkout journey. To opt out of SaleCycle tracking, please visit: 
-
-<http://www.salecycle.com/privacy-policy>
-
-This will drop a persistent cookie on your machine, blocking the use of SaleCycle tracking. If you delete this cookie, the tracking will resume.  
-  
-Walker Media | 
-
-We currently use 49 persistent cookies (70 planned) that are compiled from various approved suppliers used to collect data on sales and revenue based on advertising activity, retargeting of advertising and offers. All data collected is anonymous and with no intervention the tags will persist on your computer for 24 months. 
-
-The relevant privacy policies from the companies are below: 
-
-Mediaplex: <http://www.mediaplex.com/mojo-privacy-statement>
-
-AdGenie: <http://www.geniegroupltd.co.uk/Genie/364608/privacy_policy.html>
-
-Criteo: <http://www.criteo.com/us/privacy-policy>  
-  
-Site Tagger for Adobe Site Catalyst and Test and Target | 
-
-We use 5 session cookies through Site Tagger, an approved supplier, that relate to the use of Adobe Omniture Site Catalyst, another approved supplier. The details of the cookies are below:
-
-  * s_searchT – this cookie is used to store the search term that the customer has used on the website
-  * s_intcmp – this cookies stores the title of the internal campaign (promotion) the customer has used
-  * deliveryCost – this cookie stores the delivery cost of our item(s)
-  * stvisited – this cookie determines whether the customer has already added something to the basket
-  * promocode – this cookie stores the promotional code used (if any) by a customer
-
-
-
-Data is consumed and used by the Site Catalyst reporting suite therefore will need to refer to information from Adobe around data usage. 
-
-<http://www.adobe.com/uk/privacy/cookies.html>  
-  
-PriceRunner | 
-
-PriceRunner is an approved supplier of ours, and they use 2 cookies in conjunction with a tracking pixel on our order confirmation page that confirms you have placed an order. Both are persistent cookies and are set to expire after 5 years:
-
-  * s.apmebf.com/s.emjcd.com – this cookie stores the session ID along with confirmed sale details. This cookie tracks the link between an advertisement being clicked by a customer and resulting sales for the advertiser 
-  * lclk.apmebt.com/lclk.emjcd.com – this cookie stores customer clicks through to sale correlation and is used to track when an advertisement is clicked on that results in a sale for the advertiser 
-
-
-
-There is also a disclaimer of information regarding cookies from our supplier (ValueClick is the parent company for PriceRunner): 
-
-_The information provided by ValueClick, its use and the results of such use is provided on an as is, as available basis, without any representation or endorsement made and without warranty of any kind whether express or implied. To the fullest extent permissible pursuant to applicable law, ValueClick disclaims all warranties. ValueClick is not liable for any damages arising in contract, tort or otherwise from your use of or inability to use this information or from any action or decision taken as a result of using this information. Please note that, whilst every effort is made to ensure the accuracy of the information, it is made available for general information only and is specifically directed to the recipient._  
-  
-Foresee | 
-
-Foresee are an approved supplier of ours, used to gain better insight into our customer behaviours via optional surveys designed to improve our overall website experience for customers.
-
-  * Fsr.s – this is a session level cookie used to determine whether a survey will be presented to the customer and when, only a session ID stored.
-  * Fsr.r – this is a persistent cookie used to ensure customers are not invited to participate in a survey for a specific number of days, the default value is 90 days.
-  * Fsr.a – this is a session level cookie used to ensure the survey is presented at the conclusion of the site experience for a customer. 
-
-
-
-No personal information is held in any of these cookies.  
-  
-Reevoo | Info TBD  
-ISTTrack | This cookie is from one of our approved suppliers called IS Technology used to identify a particular user/browser. The cookie persists for 30 days and only contains a randomly generated GUID (Globally unique identifier). This cookie is dropped on a customer’s computer when they interact with certain product links.  
-session | A session ID cookie that expires after 20 minutes if your web browser is not closed. By storing your session, we can maintain your basket and its contents for longer during a session.  
-AD2ONE | We use DoubleClick (Google) for the use of the DART cookie which enables it to serve ads to our users based on their visit to the site and other sites on the Internet. DoubleClick Retargeting & Optimisation Cookies allows for retargeting and exclusion of ads, as well as allowing for optimisation of campaigns through tracking conversions and expires after 30 days. 
-
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
-
-Click [here](http://www.google.co.uk/intl/en/policies/privacy/) for the Google privacy policy.  
-  
-TouchCommerce Live Chat | TouchCommerce is our live chat supplier, which uses three cookies to ensure that the live chat is fully funcational and our chat invitations are offered to the right customers at the right time. It is important to note that these cookies do not collect any personal information about our customers.
-
-The inqState cookie is a persistent cookie used to track state-related customer information, such as whether the customer has visited the site before and how much time the customer has spent browsing our site. The inqSession cookie is a session cookie that tracks events, such as when customers navigate to other pages, when a customer interacts with one of our chat agents, and when an agent interacts with one of our customers. Lastly, the inqVital cookie is a persistent cookie which contains vital information associated with the chat itself, such as the customer ID and the status of the chat.  
-  
-Cookie control
-
-Cookies should be enabled by default on your browser, so if you have not changed your settings you should expect to be accepting cookies from websites.
-
-Cookies being disabled will limit your experience of Currys.co.uk and many other websites online. Remember, cookies are not harmful to your computer and our cookies on Currys.co.uk do not contain any personally identifiable information. If you wish to change your cookie settings we have provided a guide below for you. Please remember, if you do disable your cookies, you can allow cookies from certain approved websites, by adding the website homepage to your exceptions list.
-
-First, find out what your default web browser is on your machine, or the browser you use most often to access the internet. To work out what browser you are using, simply open the internet as usual, and then follow the steps below:
-
-#### PC Users
-
-On the tool bar at the top of your browser click 'Help' and choose the 'About' option from the drop down. This will tell you the browser type and version.
-
-#### Mac Users
-
-Open the internet as usual and once open, click on the Apple icon in the top left corner and choose the 'About' option. This will again tell you the browser type and version.
-
-Once you know the browser you are using you can find the cookie settings using the guide below relevant for your browser:
-
-| 
-
-Checking your settings in Internet Explorer 8 and earlier versions
-
-  1. Locate the 'Tools' tab on the menu areas of your browser. Click on this.  
-
-  2. There is an option called ‘Internet Options’ on the list, select this option.  
-
-  3. This should open a pop up box with lots of tabbed options. Select the ‘Privacy’ tab from the list.  
-
-  4. Internet Explorer has a high, medium, low auto-adjust system for internet content handling. You can configure your own settings by clicking the advanced tab and ticking the ‘Override automatic cookie handling’  
-
-  5. Settings above Medium will disable cookies, Medium or below will enable cookies.
-
-  
----|---  
-| 
-
-Checking your settings in Mozilla Firefox
-
-  1. Locate the 'Tools' tab on the menu areas of your browser. Click on this.   
-
-  2. From the list of options on the drop down menu, click on ‘Options’  
-
-  3. There should be a pop up window appear with tabs along the top. Find the ‘Privacy’ tab and select this.  
-
-  4. You should now have some options for ‘Tracking’ and ‘History’. Under the ‘History’ drop down menu, select ‘Use customer settings for history’ if you wish to adjust your cookie settings.
-
-  
-| 
-
-Checking your settings in Google Chrome
-
-  1. Look for the spanner icon in Chrome  and click on this  
-
-  2. From this menu, select settings...  
-
-  3. Within settings you will see tabs on the left hand side. Select the tab called ‘Under the Hood’  
-
-  4. When this page loads you will see a tab at the top called ‘Content Settings’ – select this  
-
-  5. This brings up your content controls including cookie permissions – select the option you feel most comfortable with
-
-  
-| 
-
-Checking your settings in Safari
-
-  1. Locate the Cog icon at the top of your browser  and click on this.  
-
-  2. From the list of options select ‘Preferences’  
-
-  3. This should open a pop up window with several tabs along the top. From this list select the ‘Privacy’ option.   
-
-  4. This will open the tab page that allows you to control the cookie settings on your browser.
-
-  
-| 
-
-Checking your settings in Opera
-
-  1. Click the Opera file icon in the top left hand corner of your browser.   
-
-  2. From the drop down list of options, highlight ‘Settings’ and then scroll across and select ‘Preferences’.  
-
-  3. This should open a pop up window with tabs along the top. Choose the ‘Advanced’ tab.   
-
-  4. This shows you the advanced options. On the left hand side there is an option called ‘Cookies’ – click on this option.   
-
-  5. This presents the cookie options for your use on this browser. 
-
-  
-| 
-
-**If you have another browser...  
-**
-
-Please check the help settings within your browser or use a search engine to find answers on the best way to enable or disable cookies in your chosen browser. Please remember we are not responsible for the content on external websites.
-
-**If you want more information...  
-**
-
-You can visit the following website for an in-depth guide to cookies and how to control, delete and understand them. They even have a great recipe on there for cookies of the edible variety – yum! 
-
-<http://www.aboutcookies.org/>  
-  
-Advertising
-
-In addition to the list of cookies that we use on Currys, we wanted to take you through our use of advertising tags. We use tags from 3rd party suppliers dedicated to helping us improve the relevance of our advertising banners, both on our website and across the web where we have advertisements on other websites. Our advertising policy is designed to give you the most relevant adverts possible, based on your previous visits to our website and the things you looked at and/or added to your basket, so we can build a profile of what we think you might like to see on our website next time you visit. A tag is simply a way for us to identify if a specific page was viewed by a customer and use that information to form a more accurate advertising strategy.
-
-Many online businesses work with such partners as ours below in order to improve and personalise the experience their customers have of their website and brand advertising online. All reputable companies, such as those we choose to work with, have very strict policies around your privacy and the information captured. They do not collect any information that can personally identify you in any way. Almost all of these tracking tags can be disabled or opted out of. A website dedicated to helping you understand what networks currently use tracking tags on your machine is:
-
-<http://www.youronlinechoices.com/uk/your-ad-choices>
-
-Here you can see the companies that gather information for advertising online and choose to turn off their tracking if you wish. Please not we are not responsible for the content or activity of this website.
-
-Below we have listed the 3rd Party companies that use tags on our website and across the web to serve our adverts to you, our customers, with steps to disable their tracking if you wish to opt-out of their service:
+We may review this policy from time to time and any changes will be notified to you by posting an updated version on our website and/or by contacting you by email.
 
 * * *
 
-### ADGENIE
-
-ADGENIE collect information to serve more targeted adverts to our customers around the web. They do not store any personally identifiable information. To opt out of ADGENIE tracking, visit
-
-<http://adverts.adgenie.co.uk/trackerOptOut.php>
-
-This will drop a persistent cookie on your machine, blocking the use of tracking. If you delete this cookie, the tracking will resume.
-
-* * *
-
-### Criteo
-
-Criteo use information gathered from our customer’s use of our site to show more relevant adverts to you on other websites where we advertise. They do not collect any personally identifiable information from customers. To opt out of Criteo ad tracking, visit
-
-<http://www.criteo.com/us/privacy-policy>
-
-Then click on the Opt-out switch and change it to ‘On’. This will drop a cookie on your machine to remove the use of their tracking. If you delete this cookie, the tracking will resume.
-
-* * *
-
-### MediaPlex
-
-MediaPlex gather information to serve targeted advertisements to our customers online, just as Criteo and ADGENIE do. Again, they do not gather any personally identifiable information. To opt out of MediaPlex tracking please visit:
-
-[http://www.mediaplex.com/opt-out](http://www.criteo.com/us/privacy-policy)
-
-lick on ‘Install the MediaPlex Opt-Out Cookie. This will install a cookie to disable tracking from MediaPlex. If you delete this cookie, the tracking will resume.
-
-* * *
-
-### MediaMind
-
-MediaMind install a cookie to enable advertisement personalisation online for our customers. To opt out of their advertisement tracking please visit:
-
-[http://www.mediamind.com/privacy-policy](http://www.criteo.com/us/privacy-policy)
-
-Scroll down to The Opt-Out Cookie & Your Choices section and click on the relevant link to opt out of their tracking. This will install a cookie to block the tracking of your activity online by MediaMind. If you delete this cookie, the tracking will resume.
-
-* * *
-
-### Quantcast
-
-Quantcast help to develop our audience for retargeting by tracking customer visits to our pages and compiling a list of our customers that can be retargeted with more personalised ads. No personally identifiable information is captured. If you would like to opt-out of Quantcast tracking, please visit:
-
-[http://www.quantcast.com/how-we-do-it/consumer-choice/opt-out/](http://www.criteo.com/us/privacy-policy)
-
-This will drop a cookie on your computer to stop the Quantcast tracking on your computer. If you delete this cookie, the tracking will resume.
-
-* * *
-
-### AudienceScience
-
-AudienceScience help us develop a better understanding for customer behaviour on our website and improve our overall experience for customers viewing our advertising banners online. They do not gather any personally identifiable information. If you wish to opt-out of AudienceScience tracking, please visit:
-
-[http://www.audiencescience.com/privacy](http://www.criteo.com/us/privacy-policy)
-
-Then click the link to opt-out. This will drop a cookie that will stop the tracking of your activity by AudienceScience. If you delete this cookie, the tracking will resume.
-
-Privacy on Currys PC World
-
-### Is shopping online with Currys PC World safe?
-
-At Currys PC World, we care about security and make every effort to ensure our transaction process is safe and that your personal information is secure.
-
-We can assure you that every order you make on our website is safe. We use strict security precautions to make our website safe, including the use of a Secure Socket Layer (SSL) server. Any information you enter while you're using the secure server is encrypted before being transmitted, so it is virtually impossible for an outside party to access or intercept your information.
-
-You can check that you are shopping in a secure environment by looking for either a locked padlock icon or an image of a key in the bar at the bottom of your screen. Additionally, your web address should start with https: - the ‘s’ indicating it is a secure page. This should appear on any page where you are entering personal information, such as your payment card details.
-
-The latest versions of the most popular browsers, Internet Explorer, Chrome, Safari and Firefox support this secure connection. If for any reason this option has been disabled on your browser, you will not be able to transact or login until you reset these options. Find this option in your browser settings under security.
-
-* * *
-
-### How do you protect my credit card details and personal information?
-
-Our website is verified by Norton Secure, powered by Verisign to protect your personal data. Your payment methods are also covered through MasterCard Secure Code or Verified by Visa.
-
-For your additional security and to protect your personal information we request that you enter your password each time you wish to view a page containing your personal details.
-
-You can enrol your card in MasterCard SecureCode or Verified by Visa scheme if you are not already a part of them. You will be able to set a private code for online transactions, giving you added protection against the unauthorised use of your credit or debit card online.
-
-The full details of our Privacy Policy are below in our official Privacy Policy. This policy will explain all about what information we collect from you, how we use that information and your rights around retrieving or removing any information we hold in relation to you, as well as our complete guide to the use of cookies on our website.
-
-* * *
-
-### Our Privacy Policy
-
-Last updated: 07.08.2012
-
-  * Who we are
-  * What information we collect and how
-  * What we do with your information
-  * Your rights
-  * Other websites
-
-
-
-* * *
-
-### Who we are
-
-In this Privacy Policy references to ‘we’ and ‘us’ are to DSG Retail Limited trading as Currys PC World and Team Knowhow, company number 504877, registered office 1 Portal Way, London, W3 6RS.
-
-* * *
-
-### What information we collect and how
-
-The information we collect via this website may include:
-
-(1) Any personal details you type in and submit, such as name, address, email address, etc. We only collect information that we require for completion of orders and account set up. We never store payment details on the websites.
-
-(2) Data which allows us to recognise you, your preferences (including items added to your basket) and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A complete guide to our cookies policy and how to control cookies on your computer can be found here .
-
-(3) Your IP address (this is your computer’s individual identification number) which is automatically logged by our web server. This is used to note your interest in our website and your location (e.g. county/city) for our site analytics.
-
-(4) Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
-
-* * *
-
-### What we do with your information
-
-Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:
-
-(1) to process your order, to process any application for finance or a mobile phone contract etc, to maintain
-
-guarantee records and to provide pre and after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide pre or after-sales service). We make use of the TouchCommerce system to provide our web chat functionality. Data provided via web chat may be stored on servers based in the United States under a "safe harbour agreement". This means that the data will be managed to similar standards to those required under UK Data Protection legislation; and
-
-(2) to carry out security checks (this may involve passing your details to our Identity Verification partner, currently 192.com, who will check details we give them against public and private databases - this helps to protect you and us from fraudulent transactions); and
-
-(3) to comply with legal requirements We are a subsidiary of Dixons Carphone plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use trusted third parties to carry out certain activities on our behalf and may share your personal data with them for the purposes of: processing and sorting data, monitoring how customers use our site, issuing our emails for us and collecting product/customer feedback from you via surveys.
-
-We would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including Currys PC World, Carphone Warehouse and Team Knowhow, from our affiliates, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the ‘Yes’ box when entering your personal details. You may unsubscribe at a later date, if you wish - ‘Your rights’ section below.
-
-* * *
-
-### How can I see a copy of the information you hold about me?
-
-#### The Data Protection Act (DPA) gives you the right to see personal information we hold about you. If you want copies of this information, please send us a written request with the following:
-
-  * Your full name and address
-  * Your account number
-  * A cheque for £10 (admin charge) made payable to Dixons Carphone 
-  * Details of any specific information you require 
-  * One proof of identity - we can accept a photocopy of either your passport or your driver's licence
-  * One proof of identity of address - we can accept a photocopy of a recent credit or debit card statement, a utility bill showing the same name and address as on your account.
-
-
-
-##### Do not send original documentation as we cannot guarantee the safe receipt or return of these.
-
-Please send your written request, cheque and proof of identity and address to:
-
-Dixons Carphone  
-Data Protection Officer  
-PO Box 375  
-Southampton  
-SO30 2PU
-
-We recommend you send your request by Recorded Delivery but this is not compulsory. Please note that we do not take online payments.
-
-##### What happens next?
-
-Once we receive your request, along with your cheque and proof of identity, we'll get back to you within 40 days.
+Effective date: 16.05.2018
