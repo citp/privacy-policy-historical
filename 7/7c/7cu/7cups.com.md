@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7cups.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824052326id_/https%3A//www.7cups.com/Documents/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7cups.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625033010id_/https%3A//www.7cups.com/Documents/PrivacyPolicy) for the most accurate reproduction.*
 
 # 7 Cups Privacy Policy
 
