@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ratemyprofessors.com privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226123647id_/http%3A//www.ratemyprofessors.com/TermsOfUse_us.jsp%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratemyprofessors.com privacy policy that was archived on 2019-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190625204913id_/http%3A//www.ratemyprofessors.com/TermsOfUse_us.jsp%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,8 +8,8 @@
     <meta name="google-site-verification" content="CKMC_IwvKoVbX1U8x1A9yzKABsSlop6qxfuDzwfV7Qs"> <!--  relaunch qa -->
     <meta name="google-site-verification" content="1D_3ZfAdMu4Tki8pFRj68YAqYot-paTOoDVzCTIJZZI"> <!--  relaunch rmp -->
     <meta name="google-signin-client_id" content="14147781149-i5ph5oqooelp3k0qfrb3jkk6vs4528ha.apps.googleusercontent.com">
-    <script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/jrEKpcIvzPMIdNNDcgJJGjNGECH03xuA/analytics.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="https://use.fontawesome.com/fbed9f71e3.js"></script>
-    <link rel="stylesheet" href="/assets/application-470f38e51423038a9b33284e74da0ff6.css">
+    <script type="text/javascript" async="" src="https://beacon-v2.helpscout.net"></script><script type="text/javascript" async="" src="/segment/cdn/HosHQVFNue2Gmbd8vliA0aG6NpKZ56K4/payload.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="https://use.fontawesome.com/fbed9f71e3.js"></script>
+    <link rel="stylesheet" href="/assets/application-ae48cc7162ec6d0cfbd2070067fa1060.css">
     <script src="/assets/libs/jquery-7f5fea5cae853e98f1d3f5d509216bd4.js" type="text/javascript"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
@@ -65,16 +65,33 @@
     
 
     
+
+    
     <script type="text/javascript">
       window.RMP = window.RMP || {};
 
       var protocol = window.location.protocol;
       // console.log('protocol is ',protocol);
-      typeaheadurl = "http://search-production.ratemyprofessors.com/solr/rmp/select/?solrformat=true&rows=20&wt=json&json.wrf=noCB";
+      typeaheadurl = "https://solr-aws-elb-production.ratemyprofessors.com//solr/rmp/select/?solrformat=true&rows=20&wt=json&json.wrf=noCB";
       if (protocol == 'https:') {
-        typeaheadurl = "https://search-production.ratemyprofessors.com/solr/rmp/select/?solrformat=true&rows=20&wt=json&json.wrf=noCB"
+        typeaheadurl = "https://solr-aws-elb-production.ratemyprofessors.com//solr/rmp/select/?solrformat=true&rows=20&wt=json&json.wrf=noCB"
       }
-      // console.log('typeaheadurl is ',typeaheadurl);
+
+      // Environment flag for DFP
+      var env = 'other';
+      if(window.location.host === 'www.ratemyprofessors.com') {
+        env = 'production';
+      } else if(window.location.host === 'staging.ratemyprofessors.com') {
+        env = 'staging';
+      } else if (window.location.host === 'dev.ratemyprofessors.com') {
+        env = 'dev';
+      }
+
+      // device flag for DFP
+      var deviceFlag = 'desktop';
+      if(window.matchMedia('(max-width: 767px)').matches) {
+        deviceFlag = 'mobile';
+      }
 
       window.RMP.Settings = {
         pathname : "",
@@ -91,7 +108,25 @@
         pageLevelData: {"pageName":"https://www.ratemyprofessors.com/TermsOfUse_us.jsp","channel":"interact","hier2":"interact/terms/terms of use","prop8":"visitor"},
         reloadInterval: 30000,
         adCampaignFlag: true,
-        adCampaignCountry: 0
+        adCampaignCountry: 0,
+        ads: {
+          useDemandManager: true,
+          unitPath: "/21667365449/RMP/rmp_web/utility",
+          adTemplate: {"google":5,"taboola":null},
+          refreshRate: 30000,
+          pageName: "utility_terms",
+          maxBidMultiplier: 1.05,
+          lazyLoadConfig: {
+            fetchMarginPercent: 0,  // Fetch slots within 0 viewports.
+            renderMarginPercent: 0,  // Render slots within 0 viewports.
+            mobileScaling: 2.0  // Double the above values on mobile.
+          },
+          universalTargeting: {
+            env: env,
+            device: deviceFlag,
+            publica: "1"
+          }
+        }
       }
 
       if (typeof MTVN == "undefined") MTVN = {};
@@ -130,356 +165,50 @@
       if (typeof mtvn == "undefined") mtvn = {};
       if (typeof mtvn.btg == "undefined") mtvn.btg = {};
       if (typeof mtvn.btg.Controller == "undefined") mtvn.btg.Controller = {};
-      if (typeof mtvn.btg.Controller.sendLinkEvent == "undefined") mtvn.btg.Controller.sendLinkEvent = (o) => {
+      if (typeof mtvn.btg.Controller.sendLinkEvent == "undefined") mtvn.btg.Controller.sendLinkEvent = function(o) {
         analytics.track('LinkEvent', o);
       };
     </script>
+    
+    
+    <script src="https://tagan.adlightning.com/cheddartv/op.js" type="text/javascript"> </script>
 
     
-    <link crossorigin="" rel="preload" href="/assets/leaguegothic-regular-webfont.woff" as="font" type="font/woff">
-    <link crossorigin="" rel="preload" href="/assets/subset-SourceSansPro-Light.woff2" as="font" type="font/woff2">
-
     
-    <script>
-      !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src="https://cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
-        analytics.load("jrEKpcIvzPMIdNNDcgJJGjNGECH03xuA");
-        analytics.page();
-      }}();
-    </script>
-
-    
-
-
-
 
 
 
 <script>
-  console.log("utility_terms\n\n{google=2, spoutable=2, taboola=null}")
+  
+  	var sourceID = "HosHQVFNue2Gmbd8vliA0aG6NpKZ56K4"
+  	var cdnURL = '/segment/cdn/' + sourceID + '/payload.js';
+  
+
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src=cdnURL;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
+  	analytics.load(sourceID);
+
+  	var options = {
+  		
+  	};
+
+  	analytics.page(options);
+  }}();
 </script>
 
 
+    
+    <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=default,es5,es6&amp;flags=gated"></script>
 
+    
+    <script src="/assets/adBundle-20c1b0ce60f714690b6cbadb026cd8aa.js" type="text/javascript"></script>
 
-	<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-	<script>
-		var googletag = googletag || {};
-		googletag.cmd = googletag.cmd || [];
-	</script>
-	
-	
-
-	<script>
-		window.RMPUnitPath = '/21667365449/RMP/rmp_web/utility';
-		window.RMPSlots = {}; // RMP Slots config.
-		window.RMPRegisterSlots = function(callback) {
-			googletag.cmd.push(function() {
-				var slotIDs = [];
-				var unitPaths = [];
-				for (var slotID in window.RMPSlots) {
-					var RMPSlot = window.RMPSlots[slotID];
-					if(RMPSlot.gSlot) {
-						// If the slot is already defined don't redefine it.
-						continue;
-					}
-
-					slotIDs.push(slotID);
-					if(unitPaths.indexOf(RMPSlot.unitPath) == -1) {
-						unitPaths.push(RMPSlot.unitPath);
-					}
-						
-					var slot = googletag.defineSlot(
-						RMPSlot.unitPath,
-						RMPSlot.sizes,
-						RMPSlot.id
-					);
-
-					for(var targetingKey in RMPSlot.targeting) {
-						slot.setTargeting(targetingKey, RMPSlot.targeting[targetingKey]);
-					}
-
-					if(RMPSlot.sizeMapping) {
-						slot.defineSizeMapping(RMPSlot.sizeMapping);
-					}
-
-					slot.addService(googletag.pubads());
-
-					window.RMPSlots[slotID].gSlot = slot;
-				}
-				
-				var requestsPending = 2;
-				var biddingCallback = () => {
-					if(--requestsPending <= 0) {
-						var googleSlots = Object.values(window.RMPSlots)
-							.filter(RMPSlot => slotIDs.indexOf(RMPSlot.id) > -1)
-							.map(RMPSlot => RMPSlot.gSlot);
-						
-						pbjs.initAdserverSet = true;
-						googletag.cmd.push(() => {
-							pbjs.que.push(function() {
-								pbjs.setTargetingForGPTAsync(unitPaths);
-								googletag.pubads().refresh(googleSlots);	
-							});
-						});
-					}
-				}
-				
-				window.RMPLoadTamSlots(slotIDs, biddingCallback);
-				window.RMPLoadPrebidSlots(slotIDs, biddingCallback);
-			});
-		};
-		window.RMPRefreshSlots = function(slotIDs, callback) {
-			googletag.cmd.push(function() {
-
-				var googSlots = []
-				var unitPaths = [];
-
-				slotIDs.forEach(id => {
-					googSlots.push(window.RMPSlots[id].gSlot);
-					if(unitPaths.indexOf(window.RMPSlots[id].unitPath) == -1) {
-						unitPaths.push(window.RMPSlots[id].unitPath);
-					}
-				});
-
-				var requestsPending = 2;
-				var biddingCallback = () => {
-					if(--requestsPending <= 0) {
-						googletag.cmd.push(() => {
-							pbjs.que.push(function() {
-								pbjs.setTargetingForGPTAsync(unitPaths);
-								googletag.pubads().refresh(googSlots);	
-								if(callback) {
-									callback();
-								}
-							});
-						});
-					}
-				}
-				
-				window.RMPLoadTamSlots(slotIDs, biddingCallback);
-				window.RMPRefreshPrebidSlots(slotIDs, biddingCallback);
-			});
-		}
-	</script>
-
-	
-	<script src="/assets/libs/prebid-72ce9dae3b6bf363e0212c24d94bfd6d.js" type="text/javascript"></script> 
-	<script>
-		var PREBID_TIMEOUT = 3000;
-		var APPNEXUS_CONFIG = {
-			bidder: 'appnexus',
-			params: {
-				placementId: 14502745
-			}
-		}
-		var RUBICON_CONFIG = {
-			bidder: 'rubicon',
-			params: {
-				accountId: 19904,
-				siteId: 232228,
-				zoneId: 1150074
-			}
-		}
-		
-		var pbjs = pbjs || {};
-		pbjs.que = pbjs.que || [];
-		
-		window.RMPRefreshPrebidSlots = (unitPaths, callback) => {
-			pbjs.que.push(function() {
-				pbjs.requestBids({
-					timeout: PREBID_TIMEOUT,
-					adUnitCodes: unitPaths,
-					bidsBackHandler: callback
-				});
-			});
-		}
-
-		window.RMPLoadPrebidSlots = (slotIDs, callback) => {
-			var prebidSlots = [];
-			slotIDs.forEach((id, i) => {
-				var RMPSlot = window.RMPSlots[id];
-				prebidSlots.push({
-					code: RMPSlot.unitPath,
-					mediaTypes: {
-						banner: {
-							sizes: RMPSlot.sizes,
-						}
-					},
-					bids: [
-						APPNEXUS_CONFIG, RUBICON_CONFIG
-					]
-				});
-			});
-
-			pbjs.que.push(() => {
-				pbjs.addAdUnits(prebidSlots);
-				pbjs.requestBids({
-					bidsBackHandler: callback,
-					timeout: PREBID_TIMEOUT
-				});
-			});
-		};
-	</script>
-	
-	<script>
-		/* ----- Begin Step 1 ----- */
-		//Load the APS JavaScript Library
-		!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
-		
-		//Initialize the Library
-		apstag.init({
-			pubID: '3800',
-			adServer: 'googletag',
-			simplerGPT: true
-		});
-		/* ----- End Step 1 ----- */
-
-		window.RMPLoadTamSlots = (slotIDs, callback) => {
-			var googSlots = slotIDs.map(id => {
-				return window.RMPSlots[id].gSlot;
-			});
-
-			/* ----- Begin Step 2 ----- */
-			apstag.fetchBids({
-				slots: googSlots,
-				timeout: 2e3
-			}, () => {
-				apstag.setDisplayBids();
-				callback();
-			});
-			/* ----- End Step 2 ----- */
-		}
-	</script>
-	
-
-	
-	
-
-	
-	
-		<script>
-			googletag.cmd.push(function() {
-
-				if (window.matchMedia("(min-width: 768px)").matches) {
-					window.RMPSlots['ad_lb_01'] = {
-						id: 'ad_lb_01',
-						unitPath: '/21667365449/RMP/rmp_web/utility',
-						sizes: [[728, 90]],
-						targeting: {
-							'pos': 'lb_1',
-							'refresh': 'true'
-						},
-						sizeMapping: googletag.sizeMapping()
-							.addSize([0, 0], [])
-							.addSize([768, 0], [728, 90])
-							.build()
-					};
-				} else {
-					window.RMPSlots['ad_lb_01_mob'] = {
-						id: 'ad_lb_01_mob',
-						unitPath: '/21667365449/RMP/rmp_web/utility',
-						sizes: [[320,50],[300,50]],
-						targeting: {
-							'pos': 'lb_1',
-							'refresh': 'true'
-						},
-						sizeMapping: googletag.sizeMapping()
-							.addSize([0, 0], [[300,50],[320, 50]])
-							.addSize([768, 0], [])
-							.build()
-					};
-				}
-			});
-		</script>
-	
-
-	<script>
-		//Do all the final set-up
-		googletag.cmd.push(function() {
-			// Set-up the slots
-			window.RMPRegisterSlots(() => {
-				// Add refresh listener
-				googletag.pubads().addEventListener('impressionViewable', function(element) {
-					var slot = element.slot;
-					if (slot.getTargeting('refresh').indexOf("true") > -1) {
-						setTimeout(function() {
-							window.RMPRefreshSlots([slot.getSlotElementId()]);
-						}, 30 * 1000);
-					}
-				});
-			});
-
-			// Set-up lazy loading
-			googletag.pubads().enableLazyLoad({
-				fetchMarginPercent: 0,  // Fetch slots within 2 viewports.
-				renderMarginPercent: 0,  // Render slots within 1 viewports.
-				mobileScaling: 2.0  // Double the above values on mobile.
-			});
-			
-			// SRA for speed/etc
-			googletag.pubads().enableSingleRequest();
-			googletag.pubads().disableInitialLoad(); // Must be the case for TAM
-			googletag.enableServices();
-	});
-
-
-	</script>
-
-
-
-
-
-	
-	<script id="spout-tag-4c7dd75a-be25-4eb1-83d3-712076b501e3">
-		(function() {
-			var r = encodeURIComponent(top.document.referrer.substring(0,250)),
-					p = encodeURIComponent(top.document.location.href.substring(0,250)),
-					t = Date.now(),
-					u = '4c7dd75a-be25-4eb1-83d3-712076b501e3',
-					e = document.createElement('script'),
-					s = sessionStorage.getItem('spoutable-' + u);
-			if (!s) {
-				var m = Math.random.bind(Math);
-				s = JSON.stringify({ sessionId: [ t, m(), m(), m(), m(), m(), m(), m(), m(), m(), m(), m(), m() ]});
-				sessionStorage.setItem('spoutable-' + u, s);
-			}
-			e.async = true;
-			e.src='//s.spoutable.com/s?u='+u+'&s='+encodeURIComponent(s)+'&t='+t+'&r='+r+'&p='+p;
-			document.head.appendChild(e);
-		})();
-	</script><script async="" src="//s.spoutable.com/s?u=4c7dd75a-be25-4eb1-83d3-712076b501e3&amp;s=%7B%22sessionId%22%3A%5B1582536563326%2C0.45398597028913%2C0.5590896833603498%2C0.8530184933192333%2C0.944838178541032%2C0.6877770547197555%2C0.5692847717337004%2C0.4440429892207207%2C0.8853676314386831%2C0.0585320737428654%2C0.9282508177697453%2C0.10581466581410592%2C0.9489901050957845%5D%7D&amp;t=1582536563326&amp;r=&amp;p=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181226123647id_%2Fhttp%253A%2F%2Fwww.ratemyprofessors.com%2FTermsOfUse_us.jsp%2523privacy"></script>
-
-	
-	<script id="spout-tag-e83b21a4-6570-4125-b32e-a56a9e534243">
-		(function() {
-			var r = encodeURIComponent(top.document.referrer.substring(0,250)),
-					p = encodeURIComponent(top.document.location.href.substring(0,250)),
-					t = Date.now(),
-					u = 'e83b21a4-6570-4125-b32e-a56a9e534243',
-					e = document.createElement('script'),
-					s = sessionStorage.getItem('spoutable-' + u);
-			if (!s) {
-				var m = Math.random.bind(Math);
-				s = JSON.stringify({ sessionId: [ t, m(), m(), m(), m(), m(), m(), m(), m(), m(), m(), m(), m() ]});
-				sessionStorage.setItem('spoutable-' + u, s);
-			}
-			e.async = true;
-			e.src='//s.spoutable.com/s?u='+u+'&s='+encodeURIComponent(s)+'&t='+t+'&r='+r+'&p='+p;
-			document.head.appendChild(e);
-		})();
-	</script><script async="" src="//s.spoutable.com/s?u=e83b21a4-6570-4125-b32e-a56a9e534243&amp;s=%7B%22sessionId%22%3A%5B1582536563327%2C0.7766876284115056%2C0.8327704666420095%2C0.43016175957517566%2C0.3193275583807529%2C0.013700946323389473%2C0.7690020870303422%2C0.5168631978244875%2C0.16230005740571185%2C0.302151683583715%2C0.5659909352186325%2C0.5688261767477703%2C0.36997063671805286%5D%7D&amp;t=1582536563327&amp;r=&amp;p=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181226123647id_%2Fhttp%253A%2F%2Fwww.ratemyprofessors.com%2FTermsOfUse_us.jsp%2523privacy"></script>
-
-
-
-
-
-
-  <script async="" src="//s.spoutable.com/s?u=39bcde45-b152-45c0-8704-6c5d3fd7d36a&amp;s=%7B%22sessionId%22%3A%5B1582536563338%2C0.9628187548187188%2C0.8094194790964142%2C0.27123170399243857%2C0.15287526754699843%2C0.012668713398922726%2C0.9377258914484055%2C0.871063701836172%2C0.43542856035341515%2C0.541126848202474%2C0.9284463890972734%2C0.4624072210022212%2C0.6173583229999242%5D%7D&amp;t=1582536563338&amp;r=&amp;p=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181226123647id_%2Fhttp%253A%2F%2Fwww.ratemyprofessors.com%2FTermsOfUse_us.jsp%2523privacy"></script></head>
+    
+    <link crossorigin="" rel="preload" href="/assets/leaguegothic-regular-webfont.woff" as="font" type="font/woff">
+    <link crossorigin="" rel="preload" href="/assets/subset-SourceSansPro-Light.woff2" as="font" type="font/woff2">
+  </head>
   <body class="utility_terms">
-    <script>
-    adBlocker = true;
-    </script>
-    <script src="/assets/libs/adFrame_ads-df1339641dbca6aa4a024d645b468169.js" type="text/javascript"></script><div id="sDdwUEDR4UX2Jy22" style="display: none;"></div>
+    
+    <script src="/assets/libs/oas.js"></script><div id="sDdwUEDR4UX2Jy22" style="display: none;"></div>
 
     <!-- <div class="overlay"></div> -->
     <!--do not modify this script -->
@@ -570,69 +299,38 @@
       <div class="overlay"></div>
       <!-- Begins Mobile Header -->
       <div id="mobileHeader" class="slide">
-        <a id="mobileHamburger" href="#"><span></span></a>
-        <a href="/" id="mLogo"></a>
-        <a href="#" class="icon-search"></a>
-        <div class="mobileSearch">
-          <div id="mSearchBox">
-            <form class="main-search-form"><input type="search" id="msearchr" name="query" placeholder="Search ..."></form>
-          </div>
-          <div id="headerAutocomplete">
-            <div class="results-container">
-              <div id="header-results">
-                <div class="professor-list">
-                  <div class="label">Professors</div>
-                  <ul></ul>
-                  <a href="/search.jsp?queryBy=teacherName&amp;query={{requestparam}}" class="view-all view-all-professors">View All Professors</a>
-                </div>
-                <div class="school-list">
-                  <div class="label">Schools</div>
-                  <ul></ul>
-                  <a href="/search.jsp?queryBy=schoolName&amp;query={{requestparam}}" class="view-all view-all-schools">View All Schools</a>
-                </div>
-              </div>
-              <div id="header-no-results">
-                Sorry No Results Found
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div id="mobileLeaderboardAd" class="top-header">
-        <div id="mobileLeaderboardAdWrap">
-          
-	<div id="ad320" class="ad GAM banner right-panelmatvnad">
-		<div id="ad_lb_01_mob">
-			<script>
-				googletag.cmd.push(function() {
-					if (window.matchMedia("(max-width: 767px)").matches) {
-						googletag.display('ad_lb_01_mob');
-					}
-				});
-			</script>
+	<a id="mobileHamburger" href="#"><span></span></a>
+	<a href="/" id="mLogo"></a>
+	<div class="promo-holder"></div>
+	<a href="#" class="icon-search"></a>
+	<div class="mobileSearch">
+		<div id="mSearchBox">
+			<form class="main-search-form"><input type="search" id="msearchr" name="query" placeholder="Search ..."></form>
+		</div>
+		<div id="headerAutocomplete">
+			<div class="results-container">
+				<div id="header-results">
+					<div class="professor-list">
+						<div class="label">Professors</div>
+						<ul></ul>
+						<a href="/search.jsp?queryBy=teacherName&amp;query={{requestparam}}" class="view-all view-all-professors">View All Professors</a>
+					</div>
+					<div class="school-list">
+						<div class="label">Schools</div>
+						<ul></ul>
+						<a href="/search.jsp?queryBy=schoolName&amp;query={{requestparam}}" class="view-all view-all-schools">View All Schools</a>
+					</div>
+				</div>
+				<div id="header-no-results">
+					Sorry No Results Found
+				</div>
+			</div>
 		</div>
 	</div>
-
-        </div>
-      </div>
+</div>
       <!-- Ends Mobile Header -->
 
       
-        <!--<section class="top-header">
-  <article id="mtv_lead_1" class="leaderboard_ad" style="text-align: center;">
-    
-	<div id="ad728" class="ad GAM banner right-panelmatvnad hidden-sm">
-		<div id='ad_lb_01'>
-			<script>
-				googletag.cmd.push(function() { googletag.display('ad_lb_01'); });
-			</script>
-		</div>
-	</div>
-
-  </article>
-</section>
--->
-
         <!-- Starts Header -->
         <header>
   <div class="overlay"></div>
@@ -1101,50 +799,45 @@
   </aside>
 
         <!-- Ends Left Nav -->
+
+        
+<div class="sticky-wrapper slide">
+	
+	<div class="ad GAM">
+		<div id="ad_lb_top"></div>
+	</div>
+</div>
       
 
       <!-- Starts Body Content -->
 
-      <div id="body" class="slide">
-        
-
-        
-        <div id="ad4x4" data-ad-sizes="4x4" data-ad-keyvalues="" data-ad-reload-interval="0" style="height: 0"></div>
-        <!-- Spoutable ads end -->
-        
+      <div id="body" class="slide sticky-shown">
         <div id="mainContent" class="height-col">
           
 		<div class="utility-wrap">
 			
 <div class="adRail ">
 
-  <script>
-    console.log("utility_terms\n{google=2, spoutable=2, taboola=null}")
-  </script>
+  
+  <div class="ad GAM">
+    <div id="ad_rec_01"></div>
+  </div>
 
   
+  <div class="ad GAM">
+    <div id="ad_rec_02"></div>
+  </div>
 
   
-    <div class="ad square" id="stickyPanel">
-      <script id="spout-tag-39bcde45-b152-45c0-8704-6c5d3fd7d36a">(function() {var r = encodeURIComponent(top.document.referrer.substring(0,250)),p = encodeURIComponent(top.document.location.href.substring(0,250)),t = Date.now(),u = '39bcde45-b152-45c0-8704-6c5d3fd7d36a',e = document.createElement('script'),s = sessionStorage.getItem('spoutable-' + u);if (!s) {var m = Math.random.bind(Math);s = JSON.stringify({ sessionId: [ t, m(), m(), m(), m(), m(), m(), m(), m(), m(), m(), m(), m() ]});sessionStorage.setItem('spoutable-' + u, s);}e.async = true;e.src='//s.spoutable.com/s?u='+u+'&s='+encodeURIComponent(s)+'&t='+t+'&r='+r+'&p='+p;document.head.appendChild(e);})();</script>
-    </div>
-  
+  <div id="taboola-right-rail-thumbnails" class="hidden-sm"></div>
 
-  
-
-  
 </div>
 
 			<div class="left-wrap">
 				<div class="page-title">Terms &amp; Conditions</div>
-				
-	<div id="ad728" class="ad GAM banner right-panelmatvnad hidden-sm">
-		<div id="ad_lb_01">
-			<script>
-				googletag.cmd.push(function() { googletag.display('ad_lb_01'); });
-			</script>
-		</div>
-	</div>
+				<div id="ad728" class="ad GAM banner right-panelmatvnad">
+	<div id="ad_lb_01"></div>
+</div>
 
 
 				<dl class="accordion">
@@ -1520,62 +1213,137 @@
 							GUIDELINES</a>
 					</dt>
 					<dd class="guide">
-						<p><span>These are the official posting guidelines ("Site Guidelines") for&nbsp;<a href="//www.ratemyprofessors.com/"><span>www.ratemyprofessors.com</span></a>&nbsp;website, application or other interactive service ("Site”).<span>&nbsp; </span>The Site is owned, operated and/or provided by Cheddar, Inc. (“Cheddar," "we," "us," or "our") and these Site Guidelines are a part of, and an Additional Terms under, our Terms of Use Agreement. The Site provides user generated feedback on professors' teaching methods and their respective courses as well as user generated feedback on the lifestyle and facilities of college and university campuses. Professor ratings should only be posted by users who have taken a class from the professor or who are currently taking a class with the professor. For each course a professor teaches, users are limited to posting one (1) comment. Campus ratings should only be posted by students who have attended or are currently attending the specific college or university being rated.</span></p>
-						<p><span>Please review the following guidelines before posting a rating and/or comment on the Site:</span></p>
-						<p><span>DO:</span></p>
-						<ul>
-						<li><span>Be honest and objective in your assessment of a professor, college, or university;</span></li>
-						<li><span>Limit your comments to a professor's professional abilities;</span></li>
-						<li><span>Proof your comments before submitting. Poor spelling will not cause your rating to be removed. However, poor spelling may result in your rating being discredited by those who read it;</span></li>
-						<li><span>Refer to the "rating categories" to help you better elaborate your comments;</span></li>
-						<li><span>Remember that negative comments that still offer constructive criticism are useful. Comments that bash a professor on a personal level are not; and</span></li>
-						<li><span>Submit helpful comments that mention a professor's ability to teach and/or communicate effectively, course load, type of course work and course topics.</span></li>
-						<li><span>Submit helpful comments that mention the college or university's campus facilities, grounds, classrooms, parking, etc.</span></li>
-						</ul>
-						<p><span><br> </span></p>
-						<p><span>DO NOT:</span></p>
-						<ul>
-						<li><span>Use "definitive" language, (e.g., "always","never","etc.");</span></li>
-						<li><span>Include any piece of information that may identify you or other students;</span></li>
-						<li><span>Include any piece of identifiable information for a professor that would allow someone to contact the professor outside of his/her school. This also includes remarks about the professor's family and/or personal life;</span></li>
-						<li><span>State your opinion as fact;</span></li>
-						<li><span>Post a rating if you have not taken a class with the professor;</span></li>
-						<li><span>Post a rating if you have not enrolled and attended a class at the specific college or university;</span></li>
-						<li><span>Input false course or section codes;</span></li>
-						<li><span>Rate a professor more than once for the same class;</span></li>
-						<li><span>Reference existing comments or comments that have been deleted by our moderators;</span></li>
-						<li><span>Rate yourself or other professors, if you are a professor;</span></li>
-						<li><span>Speak on behalf of other people; or</span></li>
-						<li><span>Post hyperlinks and/or URLs;</span></li>
-						<li><span>Leave your Name, Initials, Pseudo Name, or any sort of identifying mark when posting.</span></li>
-						</ul>
-						<p><span>The Site reserves the right to remove any comments deemed as inappropriate, libelous, defamatory, indecent, vulgar or obscene, pornographic, sexually explicit or sexually suggestive, racially, culturally, or ethnically offensive, harmful, harassing, intimidating, threatening, hateful, objectionable, discriminatory, or abusive, or which may or may not appear to impersonate anyone else or that otherwise violate the Terms of Use Agreement.</span></p>
-						<p><span><br> </span></p>
-						<p><span>COMMENTS THAT CONTAIN THE FOLLOWING WILL BE REMOVED :</span></p>
-						<ul>
-						<li><span>Profanity, name-calling, and/or vulgarity, derogatory remarks about religion, ethnicity or race, physical appearance, mental and/or physical disabilities;</span></li>
-						<li><span>References to a professor's sex life, including sexual innuendos;</span></li>
-						<li><span>Claims that a professor shows bias for or against a student or specific group of students;</span></li>
-						<li><span>Claims about a professor's employment status, including previous employment;</span></li>
-						<li><span>Claims that a professor engages or has engaged in illegal activities;</span></li>
-						<li><span>Accusations that the professor is rating him/herself or his/her colleagues; or</span></li>
-						<li><span>A language other than English. Comments must be written in English only. French is allowed if you attend a French-Canadian school.</span></li>
-						</ul>
-						<p><span>The "Do Not" section of these Site Guidelines will be strictly enforced and the Site reserves all rights to delete or otherwise take appropriate action regarding any violations. If you see a rating that you believe violates these Site Guidelines, please click the "report this rating" at the bottom of the comment and state the problem. Such comments will be evaluated by the Site's personnel.</span></p>
-						<p><span>Please note, all the reviews on this website are user submitted and should be treated only as opinions. They are not the opinions of Cheddar, Inc. or any of its affiliates.</span></p>
-						<p><span>Please do not flag a rating just because you disagree with it.</span></p>
-						<p><span>The Site reserves the right to delete, provide to authorities or otherwise take appropriate action regarding comments that threaten violence or bodily harm to another user or professor including, but not limited to, notifying the authorities of your IP address and the time you rated and taking any action as described in the&nbsp;<a href="#use"><span>Terms of Use Agreement</span></a>&nbsp;and&nbsp;<a href="#privacy"><span>Privacy Policy</span></a>.</span></p>
-						<p><span>Professor Feedback Guidelines</span></p>
-						<p><span>Additionally, please note that the above referenced guidelines are also applicable for feedbacks posted by professors. As a reminder, please do not include any identifiable information about a student that would allow someone to contact him/her outside of his/her school. This also includes remarks about a student's family and/or personal life.</span></p>
-						<p><span>Photo Uploading Guidelines</span></p>
-						<p><span>This is the official photo uploading guidelines ("Photo Uploading Guidelines") for the&nbsp;<a href="//www.ratemyprofessors.com/"><span>www.ratemyprofessors.com</span></a>&nbsp;website, application or other interactive service ("Site”).<span>&nbsp; </span>The Site is owned, operated and/or provided by Cheddar, Inc. (“Cheddar," "we," "us," or "our") and these Photo Uploading Guidelines are a part of, and are Additional Terms under, our&nbsp;<a href="#use"><span>Terms of Use Agreement</span></a>. Photos should only be posted by professors with a verified account and must be approved by the Site administrator in advance. All profile photos must comply with the following guidelines. Please review these guidelines before posting a profile photo on the Site:</span></p>
-						<ul>
-						<li><span>The professor/faculty member who has a verified account on the Site must be included in the photograph;</span></li>
-						<li><span>Profile photos that contain nudity, sexually explicit poses, objects and/or signs may be considered profane and will not be accepted;</span></li>
-						<li><span>All photos must be real photographs of the professor. Cartoons, caricatures, sketches, pictures of celebrities, animals, etc. will not be accepted; and</span></li>
-						<li><span>Copyrighted photographs will not be accepted.</span></li>
-						<li><span>The Site reserves the right to remove, provide to authorities or otherwise take appropriate action regarding any profile photos deemed inappropriate, indecent, vulgar or obscene, pornographic, sexually explicit or sexually suggestive, racially, culturally, or ethnically offensive, or that otherwise violate the&nbsp;<a href="#use"><span>Terms of Use Agreement</span></a>.</span></li>
-						</ul>
+						<p><span>
+These are the official posting guidelines ("Site Guidelines") for <a href="//www.ratemyprofessors.com/"><span>www.ratemyprofessors.com</span></a> website, application or other interactive service ("Site”).  The Site is owned, operated and/or provided by Cheddar, Inc. (“Cheddar," "we," "us," or "our") and these Site Guidelines are a part of, and an Additional Terms under, our <a href="//www.ratemyprofessors.com/TermsOfUse_us.jsp#use"><span>Terms of Use Agreement.</span></a>
+</span></p>
+<p><span>
+Rate My Professors is the largest online destination for students to research and rate professors, colleges, and universities across the United States. Our mission is to provide a safe forum to share classroom experiences to help fellow students make critical education choices.
+</span></p>
+						<p><span><strong>THE SITE/APP</strong><br>
+The Rate My Professors website (<a href="//www.ratemyprofessors.com/"><span>www.ratemyprofessors.com</span></a>) and mobile app provide user generated feedback on professors' teaching methods and their respective courses as well as user generated feedback on the lifestyle and facilities of college and university campuses. 
+</span></p>
+
+<p><span>
+Professor ratings should only be posted by users who have taken a class from the professor or who are currently taking a class with the professor. For each course a professor teaches, users are limited to posting one (1) comment. Campus ratings should only be posted by students who have attended or are currently attending the specific course, college or university being rated.
+</span></p>
+
+<p><span>
+Rate My Professors is NOT the place to report dangerous, illegal or illicit behaviors. If you believe that you, another professor, or a student is in danger, we strongly advise you to report such incidences directly to your campus authorities or local law enforcement.  
+</span></p>
+						<p><span><strong>HOW WE WORK</strong><br>
+Rate My Professors has a team of moderators who read every rating submitted. We have defined site guidelines to help reinforce our mission and most importantly to ensure our decisions around moderation are 100% consistent, regardless of student or professor. Our moderators are experts on our guidelines and will remove any comment that doesn’t comply. 
+</span></p>
+
+<p><span>
+Did we miss something? If you feel an inappropriate comment should be removed from the site, we want to know. You can flag a comment for re-review and it will immediately be escalated to our moderators. Moderators will determine whether to remove the rating permanently or restore it to the website. Our moderators will never edit a rating to make it comply or remove a rating simply because it is a low score or negative review.
+</span></p>
+
+<p><span><strong>GUIDELINES:<br>
+Student Guidelines:</strong></span></p>
+<ul>
+<li>Be honest in your reviews. You want to be able to trust these reviews when evaluating your course options so we ask that to contribute in the same spirit.</li>
+<li>When you are reviewing a class and/or professor, it’s often helpful to provide both pros and cons. This leads to much more credible and constructive feedback for your peers.</li>
+<li>Reviews should focus specifically on the course and your learning experience. Do not comment on a Professor’s appearance, dress, age, gender or race.</li>
+<li>Avoid hearsay. We want you to share your individual experience and what you took away from the course. Don’t speak on behalf of another, encourage others to submit their own reviews.</li>
+<li>This is not a forum for debate. Reviews that specifically reference another review will be removed. If you do not agree with someone’s individual experience, we encourage you to share your own.</li>
+<li>We understand that not all teachers are the perfect match for each individual learning style. Tell us how the course or professor wasn’t the best for you in a way that helps others make their own decision.</li>
+<li>Reviews fueled by anger do not reflect well on the author and can be removed for violations such as profanity. Take a minute to step back and make sure your review will genuinely help others understand your experience.</li>
+<li>Rate My Professors reserves the right to remove ratings that do not contain substantive comments.</li>
+<li>We only allow one student to review a professor one time per course. Spamming or dogpiling an account will lead to comment removal and the account being temporarily locked on the site.</li>
+<li>When reading your fellow students reviews, we encourage you to use your discretion and weigh every review amongst the others. Online reviews should be one of the many resources used when making a decision that affects your academic future.</li>
+</ul>
+<p>
+</p><p><span><strong>Prohibited Content:</strong><br>
+Comments that contain the following will be removed:</span></p>
+<ul>
+<li>Profanity, name-calling, and/or vulgarity, derogatory remarks about religion, ethnicity or race, gender, physical appearance, mental and/or physical disabilities;</li>
+<li>Identifiable information about a professor or student that would allow someone to contact the professor/student outside of their school;</li>
+<li>References to a professor's or student’s family, personal life and/or sex life, including sexual innuendos;</li>
+<li>Claims that a professor shows bias for or against a student or specific group of students;</li>
+<li>Claims about a professor's employment status, including previous employment;</li>
+<li>Claims that a professor engages or has engaged in illegal activities;</li>
+<li>Direct references to other existing comments or comments that have been deleted by our moderators;</li>
+<li>Accusations that the professor is rating him/herself or his/her colleagues;</li>
+<li>A language other than English. Comments must be written in English only. French is allowed if you attend a French-Canadian school;</li>
+<li>Hyperlinks and / or URLs.</li>
+</ul>
+<p>
+</p><p><span><strong>Professor Guidelines:</strong></span></p>
+<ul>
+	<li>This is an anonymous website where students can share their classroom experiences. We are unable to provide any data or personal information about the submitter of a review. </li>
+	<li>We do not proactively add any professor, course or campus to our website, every profile was submitted by our student community. </li>
+	<li>We are unable to remove a comment simply because it is negative. It will only be removed if it doesn’t comply with our site guidelines.</li>
+	<li>We encourage you to engage with students on the site by creating a Rate My Professors account. With a Professor account, you have the ability to post professor notes, add your photo, Twitter account, and get alerted when new ratings are posted on your account. Currently, we don’t have the ability for professors to respond to a specific comment, but this is functionality that is being worked on.  Get started <a href="//www.ratemyprofessors.com/joinprof.jsp"><span>here.</span></a></li>
+	<li>Rate My Professors' moderation team is unable to prove or disprove details mentioned in a review. We are not arbiters of facts. If you disagree with the details mentioned in a review, see paragraph above regarding managing your profile.  </li>
+	<li>If you believe that your profile is being spammed or dogpiled, please tell us. You can contact us <a href="//www.ratemyprofessors.com/utility/contact"><span>here</span></a> or at <a href="mailto:support@ratemyprofessors.com"><span>support@ratemyprofessors.com.</span></a> We’re here to help and will happily review the comments in question.</li>
+	<li>While it is against our guidelines for a professor to rate themselves, we recommend for professors to encourage their students to provide ratings each semester. The more reviews you have, the more representative they will be.</li>
+	<li>Professors are subject to the same limitations regarding Prohibited Content, as set forth above.</li>
+</ul>
+<p>
+</p><p><span><strong>FLAGGING A RATING</strong><br>
+If you see a rating that you believe violates these Site Guidelines, please click the "report this rating" at the bottom of the comment and state the problem. Such comments will be evaluated by the Site's personnel.  Please do not flag a rating just because you disagree with it.
+</span></p>
+
+<p><span>
+<strong>
+SOME LEGAL STUFF
+</strong><br>
+Rate My Professors occasionally receives removal demands that include threats to sue Rate My Professors.  To date, no one has followed through with a lawsuit against us for our reviews. 
+</span></p>
+ 
+<p><span>
+The law protects Rate My Professors from legal responsibility for the content submitted by our users, like the reviews that appear on our site.  Specifically, the Communications Decency Act of 1996 (47 U.S.C. Sec. 230) created a federal immunity to any cause of action that would make service providers, like Rate My Professors, liable for information originating with a third-party user of the service.
+</span></p>
+ 
+<p><span>
+The law is clear on this.  Anyone who wishes to sue Rate My Professors for the reviews posted by our members risks penalties imposed by the court. These may include financial sanctions and reimbursement of our attorney's fees for our having to defend against a lawsuit that ignores obvious legal protections for Rate My Professors.
+</span></p>
+ 
+<p><span>
+If, despite our caution, you feel that legal action is the only recourse for you, our address for service of legal process is:
+</span></p>
+ 
+<p><span>
+Cheddar, Inc.<br>
+1 State Street<br>
+New York, NY 10004<br>
+</span></p>
+ 
+<p><span>
+If you intend to serve documents on Cheddar, Inc., please make sure that service is properly effected in the US in accordance with all applicable law.  We are not obligated to respond if service is not valid.
+</span></p>
+ 
+<p><span>
+These guidelines are provided for informational purposes only and do not constitute legal advice. While we stand by our guidelines, you are encouraged to seek advice from an attorney who is competent in the relevant field of law.
+</span></p>
+
+<p><span>
+<strong>
+RESERVATION OF RIGHTS
+</strong><br>
+The Site reserves the right to remove any comments deemed as inappropriate, libelous, defamatory, indecent, vulgar or obscene, pornographic, sexually explicit or sexually suggestive, racially, culturally, or ethnically offensive, harmful, harassing, intimidating, threatening, hateful, objectionable, discriminatory, or abusive, or which may or may not appear to impersonate anyone else or that otherwise violate the <a href="//www.ratemyprofessors.com/TermsOfUse_us.jsp#use"><span>Terms of Use Agreement.</span></a>
+</span></p>
+
+<p><span>
+The Site reserves the right to remove, provide to authorities or otherwise take appropriate action regarding comments that threaten violence or bodily harm to another user or professor including, but not limited to, notifying the authorities of your IP address, where available, and the time you rated and taking any action as described in the <a href="//www.ratemyprofessors.com/TermsOfUse_us.jsp#use"><span>Terms of Use Agreement</span></a> and <a href="//www.ratemyprofessors.com/TermsOfUse_us.jsp#privacy"><span>Privacy Policy.</span></a>
+</span></p>
+
+
+<p><span>
+<strong>
+PHOTO UPLOADING GUIDELINES
+</strong><br>
+This is the official photo uploading guidelines ("Photo Uploading Guidelines") for the <a href="//www.ratemyprofessors.com/"><span>www.ratemyprofessors.com</span></a> website, application or other interactive service ("Site”).  The Site is owned, operated and/or provided by Cheddar, Inc. (“Cheddar," "we," "us," or "our") and these Photo Uploading Guidelines are a part of, and are Additional Terms under, our <a href="//www.ratemyprofessors.com/TermsOfUse_us.jsp#use"><span>Terms of Use Agreement.</span></a> Photos should only be posted by professors with a verified account and must be approved by the Site administrator in advance. All profile photos must comply with the following guidelines. Please review these guidelines before posting a profile photo on the Site:
+</span></p>
+<ul>
+	<li>The professor/faculty member who has a verified account on the Site must be included in the photograph;</li>
+	<li>Profile photos that contain nudity, sexually explicit poses, objects and/or signs may be considered profane and will not be accepted;</li>
+	<li>All photos must be real photographs of the professor. Cartoons, caricatures, sketches, pictures of celebrities, animals, etc. will not be accepted; and</li>
+	<li>Copyrighted photographs will not be accepted.</li>
+	<li>The Site reserves the right to remove, provide to authorities or otherwise take appropriate action regarding any profile photos deemed inappropriate, indecent, vulgar or obscene, pornographic, sexually explicit or sexually suggestive, racially, culturally, or ethnically offensive, or that otherwise violate the <a href="//www.ratemyprofessors.com/TermsOfUse_us.jsp#use"><span>Terms of Use Agreement.</span></a></li>
+</ul>
+
+
 					</dd>
 
 					<dt class="copy">
@@ -1619,7 +1387,7 @@
 						<p><span>This&nbsp;</span><span><strong>Copyright Compliance Policy</strong></span><span>&nbsp;was last updated on the date noted above and is effective immediately.</span></p>
 
 								
-						<p><span>Copyright © 2018 Cheddar, Inc. - All Rights Reserved.</span></p>
+						<p><span>Copyright © 2019 Cheddar, Inc. - All Rights Reserved.</span></p>
 					</dd>
 				</dl>
 			</div>
@@ -1644,10 +1412,7 @@
 			<a href="/%20utility/about">about</a>
 		</li>
 		<li>
-			<a href="/%20utility/help">Help</a>
-		</li>
-		<li>
-			<a href="/%20utility/contact">Contact Us</a>
+			<a href="https://help.ratemyprofessors.com">Help / Contact Us</a>
 		</li>
 		<li>
 			<a href="/%20utility/terms#guidelines" id="guidelinesPage">
@@ -1664,7 +1429,7 @@
 		</li>
 		<li>
 			<a href="/%20utility/terms#privacy" id="privacyPage">
-				Privacy Policy / Your ca privacy rights
+				Privacy Policy
 			</a>
 		</li>
 		<li>
@@ -1673,7 +1438,7 @@
 			</a>
 		</li>
 		<li class="terms-conditions">
-			© 2018 Cheddar, Inc. - All Rights Reserved.
+			© 2019 Cheddar, Inc. - All Rights Reserved.
 		</li>
 	</ul>
 </footer>
@@ -1747,11 +1512,7 @@
 			/
 		</li>
 		<li>
-			<a href="/help.jsp">Help</a>
-			/
-		</li>
-		<li>
-			<a href="/utility/contact">Contact Us</a>
+			<a href="https://help.ratemyprofessors.com">Help / Contact Us</a>
 			/
 		</li>
 		<li>
@@ -1772,7 +1533,7 @@
 		</li>
 		<li>
 			<a href="/TermsOfUse_us.jsp#privacy" id="privacyPage">
-				Privacy Policy / Your ca privacy rights
+				Privacy Policy
 			</a>
 			/
 		</li>
@@ -1784,7 +1545,7 @@
 
 	</ul>
 	<section class="copyright">
-		© 2018 Cheddar, Inc. - All Rights Reserved.
+		© 2019 Cheddar, Inc. - All Rights Reserved.
 	</section>
 
 	
@@ -1904,7 +1665,7 @@
     <script>
       
       
-      var mainJS = '/assets/application-7a60edbbcd055c5b2b16ebe1f83e5292.js';
+      var mainJS = '/assets/application-0e5f5788315bb2ab7adda27c926005e3.js';
 
       var resources = [
         mainJS,
@@ -1916,7 +1677,7 @@
         script.async = false;
         document.body.appendChild(script);
       });
-    </script><script src="/assets/application-7a60edbbcd055c5b2b16ebe1f83e5292.js"></script><script src="/assets/libs/utils-04ad04e99b80015037821c85d81f4433.js"></script>
+    </script><script src="/assets/application-0e5f5788315bb2ab7adda27c926005e3.js"></script><script src="/assets/libs/utils-04ad04e99b80015037821c85d81f4433.js"></script>
 
     <script>
       window.___gcfg = {
@@ -1929,8 +1690,18 @@
   <!-- PAGEOK -->
 
     
-    
-  
 
+
+<script type="text/javascript">
+	if(RMP.Settings.ads.adTemplate.taboola) {
+		window._taboola = window._taboola || [];
+		_taboola.push({flush: true});
+	}
+</script>
+
+    
+    <script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+    <script type="text/javascript">window.Beacon('init', 'cec9eec2-133a-4c8c-b3f7-99f7105c666f')</script>
+  
 
 </body></html>
