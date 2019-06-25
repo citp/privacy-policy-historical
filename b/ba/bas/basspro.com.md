@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226220556id_/http%3A//www.basspro.com/shop/en/privacy-policy-summary-bass-pro-shops) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625205935id_/https%3A//www.basspro.com/shop/en/privacy-policy-summary-bass-pro-shops) for the most accurate reproduction.*
 
 # Privacy Policy Summary from Bass Pro Shops
 
-This statement summarizes our privacy and security practices and applies to information collected by or through BPS Direct, L.L.C, BassPro.com, BassPro1Source.com, m.BassPro.com, blogs.basspro.com and OutdoorSite.com including through your use of these Sites and any interactive features, downloads or widgets made available through these Sites or that interact with these Sites and include a link to this statement, whether access via computer, mobile device or other technology. Please read the Privacy and Security Statement and [clicking here](https://web.archive.org/shop/en/privacy-policy-statement-bass-pro-shops).
+This statement summarizes our privacy and security practices and applies to information collected by or through BPS Direct, L.L.C, BassPro.com, BassPro1Source.com, m.BassPro.com, blogs.basspro.com and OutdoorSite.com including through your use of these Sites and any interactive features, downloads or widgets made available through these Sites or that interact with these Sites and include a link to this statement, whether access via computer, mobile device or other technology. Please read the Privacy and Security Statement by [clicking here](https://web.archive.org/shop/en/privacy-policy-statement-bass-pro-shops).
 
 If you have further questions regarding this Statement, please contact us:
 
@@ -26,7 +26,7 @@ We may collect Personal Information you voluntarily provide to us or that is giv
 
 
 
-We do not share email addresses you provide to us when you use the Wish List, eGift Card and Email-A-Friend features or when you contact us via email. The types of Personal Information collected about other people at pages like these may include the person's name and e-mail address which is used on a one-time basis to facilitate the communication on your behalf. We assume when you use the Wish List, eGift Card and Email-A-Friend features that you have the authority or have obtained the consent of the recipient of your message to provide us with his or her email address for the purpose of sending the message and any attached information. [Tell me more](https://web.archive.org/shop/en/privacy-policy-statement-bass-pro-shops#informationshared)
+We do not share email addresses you provide to us when you use the Wish List, eGift Card and Email-A-Friend featuress or when you contact us via email. The types of Personal Information collected about other people at pages like these may include the person's name and e-mail address which is used on a one-time basis to facilitate the communication on your behalf. We assume when you use the Wish List, eGift Card and Email-A-Friend features that you have the authority or have obtained the consent of the recipient of your message to provide us with his or her email address for the purpose of sending the message and any attached information. [Tell me more](https://web.archive.org/shop/en/privacy-policy-statement-bass-pro-shops#informationshared)
 
 ## How We May Use The Information You Provide Top
 
