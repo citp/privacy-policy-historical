@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the ubergizmo.com privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226023726id_/https%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ubergizmo.com privacy policy that was archived on 2019-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190625202338id_/https%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><title>Privacy Policy | Ubergizmo</title><link rel="image_src" href="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/medium_blank.jpg"><link rel="canonical" href="https://www.ubergizmo.com/privacy/"><meta name="robots" content="index, follow"><meta name="description" content="Ubergizmo.com Privacy Statement This statement covers the site located at http://www.ubergizmo.com (Ubergizmo). The Service is intended for visitors..."><meta property="og:site_name" content="Ubergizmo"><link rel="stylesheet" href="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/combined.min.css" type="text/css"><meta name="viewport" content="width=device-width, initial-scale=1"><meta property="fb:admins" content="hubert, eliane"><meta property="fb:app_id" content="139683546053659"><meta property="fb:pages" content="23025699896"><meta name="y_key" content="8efd6eb878b50274"><link rel="apple-touch-icon" href="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/UG_icon_114.png"><link rel="shortcut icon" href="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/favicon.ico"><link rel="publisher" href="https://plus.google.com/b/115760963148996403062"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var googletag = googletag || {};
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><title>Privacy Policy | Ubergizmo</title><link rel="image_src" href="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/medium_blank.jpg"><link rel="canonical" href="https://www.ubergizmo.com/privacy/"><meta name="robots" content="index, follow"><meta name="description" content="Ubergizmo.com Privacy StatementThis statement covers the site located at http://www.ubergizmo.com (Ubergizmo). The Service is intended for visitors..."><meta property="og:site_name" content="Ubergizmo"><link rel="stylesheet" href="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/combined.min.css" type="text/css"><meta name="viewport" content="width=device-width, initial-scale=1"><meta property="fb:admins" content="hubert, eliane"><meta property="fb:app_id" content="139683546053659"><meta property="fb:pages" content="23025699896"><meta name="y_key" content="8efd6eb878b50274"><link rel="apple-touch-icon" href="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/UG_icon_114.png"><link rel="shortcut icon" href="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/favicon.ico"><link rel="publisher" href="https://plus.google.com/b/115760963148996403062"><link rel="manifest" href="https://cdnssl.ubergizmo.com/manifest.json"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var googletag = googletag || {};
                   googletag.cmd = googletag.cmd || [];googletag.cmd.push(function()
         {// define leaderboard responsive sizes
             var leader_sizes = googletag.sizeMapping().
@@ -12,7 +12,7 @@
 		var medium_sizes = googletag.sizeMapping().
 		addSize([0, 0], [300, 250]).
 		addSize([400,200], [[300,250],[300,600]]).
-		addSize([990,200], [[300,250],[300,600],[300,1050]]).
+		addSize([990,200], [[300,250],[300,600]]).
 		build();// sizes for Medium Sidebar ATF+BTF
 		var medium_sizes_btf = googletag.sizeMapping().
 		addSize([0, 0], [300, 250]).
@@ -22,7 +22,104 @@
 		addSize([0, 0], [300, 250]).
 		addSize([400,200], [[300,250],[300,600]]).
 		build();googletag.enableServices();});</script> 
-<script>/*Critical JS Code*/
+<style></style><script>/*Critical JS Code*/
+/* OneSignal Start */
+var useragentid = null;
+var OneSignal = window.OneSignal || [];
+OneSignal.push(function() {
+    OneSignal.init({
+        appId: "b8130f23-1066-47e6-9bfa-6ac0b6656583",
+    });
+});
+//Firstly this will check user id
+OneSignal.push(function() {
+    OneSignal.getUserId().then(function(userId) {
+        if(userId == null){
+            document.getElementById('unsubscribe').style.display = 'none';
+            document.getElementById('unsubscribe_m').style.display = 'none';
+        }
+        else{
+            useragentid = userId;
+            document.getElementById('unsubscribe').style.display = '';
+            document.getElementById('unsubscribe_m').style.display = '';
+            OneSignal.push(["getNotificationPermission", function(permission){
+            }]);
+            OneSignal.isPushNotificationsEnabled(function(isEnabled) {
+                if (isEnabled){
+                    document.getElementById('unsubscribe').style.display = '';
+                    document.getElementById('unsubscribe_m').style.display = '';
+                    document.getElementById('subscribe').style.display = 'none';
+                    document.getElementById('subscribe_m').style.display = 'none';
+                }
+                else{
+                    document.getElementById('unsubscribe').style.display = 'none';
+                    document.getElementById('unsubscribe_m').style.display = 'none';
+                    document.getElementById('subscribe').style.display = '';
+                    document.getElementById('subscribe_m').style.display = '';
+                }
+            });
+        }
+    });
+});
+//Secondly this will check when subscription changed
+OneSignal.push(function() {
+    OneSignal.on('subscriptionChange', function (isSubscribed) {
+        if(isSubscribed==true){
+            OneSignal.getUserId().then(function(userId) {
+                useragentid = userId;
+            }).then(function(){
+                // this is custom function
+                // here you can send post request to php file as well.
+                //OneSignalUserSubscription(useragentid);
+                //OneSignal.sendTags({"sub_url":window.location.href});
+                var cats_temp = {};
+                cats_temp["sub_url"] = window.location.href;
+                // ZZZ
+                if (typeof Ubergizmo != "undefined" && typeof Ubergizmo.CurrentPage != "undefined" && typeof Ubergizmo.CurrentPage.CatsArray !== "undefined" ) {
+                    if (Ubergizmo.CurrentPage.CatsArray.length>0)
+                    {
+                        Ubergizmo.CurrentPage.CatsArray.forEach( function(element){
+                            cats_temp["cat"] = element;
+                        });
+                        OneSignal.sendTags(cats_temp);
+                    }
+                }
+            });
+            document.getElementById('unsubscribe').style.display = '';
+            document.getElementById('unsubscribe_m').style.display = '';
+            document.getElementById('subscribe').style.display = 'none';
+            document.getElementById('subscribe_m').style.display = 'none';
+        }
+        else if(isSubscribed==false){
+            OneSignal.getUserId().then(function(userId) {
+                useragentid = userId;
+            });
+            document.getElementById('unsubscribe').style.display = 'none';
+            document.getElementById('unsubscribe_m').style.display = 'none';
+            document.getElementById('subscribe').style.display = '';
+            document.getElementById('subscribe_m').style.display = '';
+        }
+        else{
+            console.log('Unable to process the request');
+        }
+    });
+});
+function subscribeOneSignal(){
+    if(useragentid !=null){
+        OneSignal.setSubscription(true);
+    }
+    else{
+        OneSignal.registerForPushNotifications({
+            modalPrompt: true
+        });
+    }
+    return false; // avoid href following through
+}
+function unSubscribeOneSignal(){
+    OneSignal.setSubscription(false);
+    return false; // avoid href following through
+}
+/* OneSignal End */
 if (typeof Ubergizmo === 'undefined') {
     var Ubergizmo = {}; // define *global* Ubergizmo JS Object, if it has not been defined yet
 }
@@ -57,8 +154,10 @@ document.addEventListener('readystatechange', event => {
         // Load essential Ubergizmo scripts BEFORE DFP because DFP can block stuff for a while!
         //
         console.log("Ubergizmo: DOM Interactive ("+dt+"ms), Ubergizmo | Ubergizmo JS");
-        Ubergizmo.loadScript("https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/uber_js/uber/combined.min.js",function(){Ubergizmo.DocumentReady();});
-    }
+        Ubergizmo.loadScript("https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/uber_js/uber/combined.min.js",function(){Ubergizmo.DocumentReady();});
+        console.log("Ubergizmo: DOM Interactive ("+dt+"ms), Loading OneSignal");
+        Ubergizmo.loadScript("https://cdn.onesignal.com/sdks/OneSignalSDK.js", null, null);  // OneSignal Push
+}
     else if (event.target.readyState === "complete") {
     var dt = Ubergizmo.GetDeltaTiming();
         console.log("Ubergizmo: DOM Complete ("+dt+"ms)");
@@ -128,7 +227,7 @@ Ubergizmo.HideComments = function() {
     if (typeof Ubergizmo.FB_OpenCommentsModal === "function") {
         document.getElementById('comments_modal_container').style.display = "none";
     }
-}</script><link rel="dns-prefetch" href="//s.w.org">  <script type="text/javascript" data-cfasync="false">var mi_version         = '7.3.0';
+}</script><link rel="dns-prefetch" href="//s.w.org">  <script type="text/javascript" data-cfasync="false">var mi_version         = '7.6.1';
 	var mi_track_user      = true;
 	var mi_no_track_reason = '';
 	var disableStr = 'ga-disable-UA-130705-1';
@@ -153,9 +252,8 @@ Ubergizmo.HideComments = function() {
 		__gaTracker('create', 'UA-130705-1', 'auto');
 		__gaTracker('set', 'forceSSL', true);
 		__gaTracker('set', 'anonymizeIp', true);
-		__gaTracker('require', 'linkid', 'linkid.js');
 		__gaTracker('set', 'dimension1', 'Ubergizmo Team');
-		__gaTracker('set', 'dimension4', '2010-12-20T10:20:42+00:00');
+		__gaTracker('set', 'dimension4', '2010-12-20T10:20:42-07:00');
 		__gaTracker('send','pageview');
 	} else {
 		console.log( "" );
@@ -199,11 +297,206 @@ Ubergizmo.HideComments = function() {
 			__gaTracker.remove = noopfn;
 			window['__gaTracker'] = __gaTracker;
 					})();
-		}</script>  <script type="text/javascript">/*  */
-var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/www.ubergizmo.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
-/*  */</script> <script type="text/javascript" src="https://cdnssl.ubergizmo.com/wp-content/plugins/google-analytics-premium/assets/js/frontend.min.js?ver=7.3.0"></script> <link rel="dns-prefetch" href="//v0.wordpress.com"><style type="text/css">img#wpstats{display:none}</style><script type="text/javascript" async="" src="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/uber_js/uber/combined.min.js"></script></head><body id="pagebody"> <nav id="mobile_navigation" class="pushmenu pushmenu-left"><div id="searchbox_mobile_menu"><form id="search_form_menu_left" name="qf" action="/search/" method="get" autocomplete="off"> <input id="search_box_left" type="text" name="q" onclick="this.value=''" value="Search this site"></form></div><ul><li><a href="https://www.ubergizmo.com">Home</a></li><li><a href="https://www.ubergizmo.com/how-to/">Tutorials</a></li><li><a href="https://www.ubergizmo.com/topic/reviews/">Reviews</a></li><li><a href="https://www.ubergizmo.com/topic/cellphones/">Phones</a></li><ul><li><a href="https://www.ubergizmo.com/tags/android/">Android</a></li><li><a href="https://www.ubergizmo.com/tags/iphone/">iPhone</a></li></ul><li><a href="https://www.ubergizmo.com/topic/computers/">Computers</a></li><ul><li><a href="https://www.ubergizmo.com/tags/lenovo/" style="color: #00b9eb;">Lenovo</a> <span style="color: #00b9eb;font-size: 9px;">(promoted)</span></li></ul><li><a href="https://www.ubergizmo.com/topic/events/">Events</a></li><li><a href="https://www.ubergizmo.com/topic/audio/">Audio</a></li><li><a href="https://www.ubergizmo.com/topic/gadgets/">Gadgets</a></li><li><a href="https://www.ubergizmo.com/topic/gaming/">Gaming</a></li><li><a href="https://www.ubergizmo.com/topic/general/">General</a></li><li><a href="https://www.ubergizmo.com/topic/photo-video/">Photo/Video</a></li><li><a href="https://www.ubergizmo.com/topic/web/">Web</a></li><li><a href="">Ubergizmo Worldwide</a></li><ul><li><a class="ug_click" id="topnav_ugjp" href="https://jp.ubergizmo.com">Ubergizmo in Japanese</a></li><li><a class="ug_click" id="topnav_ugfr" href="https://fr.ubergizmo.com">Ubergizmo in French</a></li><li><a class="ug_click" id="topnav_ugde" href="https://de.ubergizmo.com">Ubergizmo in German</a></li><li><a class="ug_click" id="topnav_ugit" href="http://it.ubergizmo.com">Ubergizmo in Italian</a></li><li><a class="ug_click" id="topnav_uges" href="https://es.ubergizmo.com">Ubergizmo in Spanish</a></li></ul><li><a href="https://www.ubergizmo.com/about/">About</a></li><li><a href="https://www.ubergizmo.com/contact/">Contact</a></li></ul> </nav> <span id="sticky-anchor-nav"></span><div id="top-navigation" class="text_ui"> <nav id="top-navigation-container"> <span id="nav_list"> <svg class="svg-icon-white ug_click" viewBox="0 0 20 20"> <path fill="none" d="M3.314,4.8h13.372c0.41,0,0.743-0.333,0.743-0.743c0-0.41-0.333-0.743-0.743-0.743H3.314
+		}</script> <link rel="stylesheet" id="wp-block-library-css" href="https://c0.wp.com/c/5.2.1/wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all"> <script type="text/javascript">/*  */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"https:\/\/www.ubergizmo.com","hash_tracking":"false"};
+/*  */</script> <script type="text/javascript" src="https://cdnssl.ubergizmo.com/wp-content/plugins/google-analytics-premium/assets/js/frontend.min.js?ver=7.6.1"></script> <link rel="dns-prefetch" href="//v0.wordpress.com"><link rel="dns-prefetch" href="//c0.wp.com"><link rel="dns-prefetch" href="//i0.wp.com"><link rel="dns-prefetch" href="//i1.wp.com"><link rel="dns-prefetch" href="//i2.wp.com"><style type="text/css">img#wpstats{display:none}</style><script type="text/javascript" async="" src="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/uber_js/uber/combined.min.js"></script><script type="text/javascript" async="" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script></head><body id="pagebody"> <nav id="mobile_navigation" class="pushmenu pushmenu-left"><div id="searchbox_mobile_menu"><form id="search_form_menu_left" name="qf" action="/search/" method="get" autocomplete="off"> <input id="search_box_left" type="text" name="q" onclick="this.value=''" value="Search this site"></form></div><ul><li><a class="ug_click" id="topnav_home" href="https://www.ubergizmo.com">Home</a></li><li><a class="ug_click" id="topnav_tutorials" href="https://www.ubergizmo.com/how-to/">Tutorials</a></li><li><a class="ug_click" id="topnav_reviews" href="https://www.ubergizmo.com/topic/reviews/">Reviews</a></li><li><a class="ug_click" id="topnav_feature_articles" href="https://www.ubergizmo.com/articles/">Feature Articles</a></li><li><a class="ug_click" id="topnav_cellphones" href="https://www.ubergizmo.com/topic/cellphones/">Phones</a></li><ul><li><a class="ug_click" id="topnav_bestcamera" href="https://www.ubergizmo.com/articles/best-phone-cameras/">Best Phones Cameras</a></li><li><a class="ug_click" id="topnav_android" href="https://www.ubergizmo.com/tags/android/">Android</a></li><li><a class="ug_click" id="topnav_iphone" href="https://www.ubergizmo.com/tags/iphone/">iPhone</a></li></ul><li><a class="ug_click" id="topnav_computers" href="https://www.ubergizmo.com/topic/computers/">Computers</a></li><ul><li><a class="ug_click" id="topnav_laptops" href="/tags/laptops/">Laptops</a></li></ul><li><a class="ug_click" id="topnav_events" href="https://www.ubergizmo.com/topic/events/">Events</a></li><li><a class="ug_click" id="topnav_audio" href="https://www.ubergizmo.com/topic/audio/">Audio</a></li><li><a class="ug_click" id="topnav_gadgets" href="https://www.ubergizmo.com/topic/gadgets/">Gadgets</a></li><li><a class="ug_click" id="topnav_gaming" href="https://www.ubergizmo.com/topic/gaming/">Gaming</a></li><li><a class="ug_click" id="topnav_general" href="https://www.ubergizmo.com/topic/general/">General</a></li><li><a class="ug_click" id="topnav_photovideo" href="https://www.ubergizmo.com/topic/photo-video/">Photo/Video</a></li><li><a class="ug_click" id="web" href="https://www.ubergizmo.com/topic/web/">Web</a></li><li><a href="">Ubergizmo Worldwide</a></li><ul><li><a class="ug_click" id="topnav_ugjp" href="https://jp.ubergizmo.com">Ubergizmo in Japanese</a></li><li><a class="ug_click" id="topnav_ugfr" href="https://fr.ubergizmo.com">Ubergizmo in French</a></li><li><a class="ug_click" id="topnav_ugde" href="https://de.ubergizmo.com">Ubergizmo in German</a></li><li><a class="ug_click" id="topnav_ugit" href="http://it.ubergizmo.com">Ubergizmo in Italian</a></li><li><a class="ug_click" id="topnav_uges" href="https://es.ubergizmo.com">Ubergizmo in Spanish</a></li></ul><li id="subscribe_m" style="display:none; cursor:pointer; color:#7fc31c" onclick="subscribeOneSignal();">Turn ON Notifications</li><li id="unsubscribe_m" style="display:none; cursor:pointer; color:#e54b4d;" onclick="unSubscribeOneSignal();">Turn OFF Notifications</li><li><a class="ug_click" id="topnav_about" href="https://www.ubergizmo.com/about/">About</a></li><li><a class="ug_click" id="topnav_contact" href="https://www.ubergizmo.com/contact/">Contact</a></li></ul> </nav> <span id="sticky-anchor-nav"></span><div id="top-navigation" class="text_ui"> <nav id="top-navigation-container"> <span id="nav_list"> <svg class="svg-icon-white ug_click" viewBox="0 0 20 20"> <path fill="none" d="M3.314,4.8h13.372c0.41,0,0.743-0.333,0.743-0.743c0-0.41-0.333-0.743-0.743-0.743H3.314
 c-0.41,0-0.743,0.333-0.743,0.743C2.571,4.467,2.904,4.8,3.314,4.8z M16.686,15.2H3.314c-0.41,0-0.743,0.333-0.743,0.743
 s0.333,0.743,0.743,0.743h13.372c0.41,0,0.743-0.333,0.743-0.743S17.096,15.2,16.686,15.2z M16.686,9.257H3.314
-c-0.41,0-0.743,0.333-0.743,0.743s0.333,0.743,0.743,0.743h13.372c0.41,0,0.743-0.333,0.743-0.743S17.096,9.257,16.686,9.257z"></path> </svg> </span> <span class="logo_container"> <a rel="home" href="https://www.ubergizmo.com"> <img id="logo_icon" src="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/ubergizmo_logo_icon_32.png" srcset="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/ubergizmo_logo_icon_32.png 32w,https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/ubergizmo_logo_icon_64.png 64w, https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/ubergizmo_logo_icon_32.png 151w" class="logoimage logoicon" alt="logo icon"><img id="logo_text" src="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/ubergizmo_logo_text_200.png" srcset="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/ubergizmo_logo_text_200.png 300w, https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0011/ubergizmo_logo_text_400.png 400w" class="logoimage" alt="logo texts"> </a> </span><div id="header_searchbox"><form id="search_form_menu" name="qf" action="/search/" method="get" autocomplete="off"> <input id="search_box" autocomplete="off" type="text" name="q" onclick="this.value=''" value="Search this site"> <button id="search_button" aria-hidden="true"> <svg class="svg-icon-white" viewBox="0 0 20 20"> <path d="M18.125,15.804l-4.038-4.037c0.675-1.079,1.012-2.308,1.01-3.534C15.089,4.62,12.199,1.75,8.584,1.75C4.815,1.75,1.982,4.726,2,8.286c0.021,3.577,2.908,6.549,6.578,6.549c1.241,0,2.417-0.347,3.44-0.985l4.032,4.026c0.167,0.166,0.43,0.166,0.596,0l1.479-1.478C18.292,16.234,18.292,15.968,18.125,15.804 M8.578,13.99c-3.198,0-5.716-2.593-5.733-5.71c-0.017-3.084,2.438-5.686,5.74-5.686c3.197,0,5.625,2.493,5.64,5.624C14.242,11.548,11.621,13.99,8.578,13.99 M16.349,16.981l-3.637-3.635c0.131-0.11,0.721-0.695,0.876-0.884l3.642,3.639L16.349,16.981z"></path> </svg> </button></form></div><ul class="social_buttons_top_nav"><li id="top_nav_fb_icon"> <a rel="nofollow" target="_blank" href="https://www.facebook.com/ubergizmo"> <svg id="ui_topnav_fb" class="svg-icon-white ug_click" viewBox="0 0 20 20"> <path fill="none" d="M11.344,5.71c0-0.73,0.074-1.122,1.199-1.122h1.502V1.871h-2.404c-2.886,0-3.903,1.36-3.903,3.646v1.765h-1.8V10h1.8v8.128h3.601V10h2.403l0.32-2.718h-2.724L11.344,5.71z"></path> </svg> </a></li><li id="top_nav_gplus_icon"> <a rel="nofollow" target="_blank" href="https://plus.google.com/115760963148996403062"> <svg id="ui_topnav_gplus" class="svg-icon-white ug_click" viewBox="0 0 20 20"> <path fill="none" d="M8.937,10.603c-0.383-0.284-0.741-0.706-0.754-0.837c0-0.223,0-0.326,0.526-0.758c0.684-0.56,1.062-1.297,1.062-2.076c0-0.672-0.188-1.273-0.512-1.71h0.286l1.58-1.196h-4.28c-1.717,0-3.222,1.348-3.222,2.885c0,1.587,1.162,2.794,2.726,2.858c-0.024,0.113-0.037,0.225-0.037,0.334c0,0.229,0.052,0.448,0.157,0.659c-1.938,0.013-3.569,1.309-3.569,2.84c0,1.375,1.571,2.373,3.735,2.373c2.338,0,3.599-1.463,3.599-2.84C10.233,11.99,9.882,11.303,8.937,10.603 M5.443,6.864C5.371,6.291,5.491,5.761,5.766,5.444c0.167-0.192,0.383-0.293,0.623-0.293l0,0h0.028c0.717,0.022,1.405,0.871,1.532,1.89c0.073,0.583-0.052,1.127-0.333,1.451c-0.167,0.192-0.378,0.293-0.64,0.292h0C6.273,8.765,5.571,7.883,5.443,6.864 M6.628,14.786c-1.066,0-1.902-0.687-1.902-1.562c0-0.803,0.978-1.508,2.093-1.508l0,0l0,0h0.029c0.241,0.003,0.474,0.04,0.695,0.109l0.221,0.158c0.567,0.405,0.866,0.634,0.956,1.003c0.022,0.097,0.033,0.194,0.033,0.291C8.752,14.278,8.038,14.786,6.628,14.786 M14.85,4.765h-1.493v2.242h-2.249v1.495h2.249v2.233h1.493V8.502h2.252V7.007H14.85V4.765z"></path> </svg> </a></li><li id="top_nav_twitter_icon"> <a rel="nofollow" target="_blank" href="https://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=ubergizmo"> <svg id="ui_topnav_twitter" class="svg-icon-white ug_click" viewBox="0 0 20 20"> <path fill="none" d="M18.258,3.266c-0.693,0.405-1.46,0.698-2.277,0.857c-0.653-0.686-1.586-1.115-2.618-1.115c-1.98,0-3.586,1.581-3.586,3.53c0,0.276,0.031,0.545,0.092,0.805C6.888,7.195,4.245,5.79,2.476,3.654C2.167,4.176,1.99,4.781,1.99,5.429c0,1.224,0.633,2.305,1.596,2.938C2.999,8.349,2.445,8.19,1.961,7.925C1.96,7.94,1.96,7.954,1.96,7.97c0,1.71,1.237,3.138,2.877,3.462c-0.301,0.08-0.617,0.123-0.945,0.123c-0.23,0-0.456-0.021-0.674-0.062c0.456,1.402,1.781,2.422,3.35,2.451c-1.228,0.947-2.773,1.512-4.454,1.512c-0.291,0-0.575-0.016-0.855-0.049c1.588,1,3.473,1.586,5.498,1.586c6.598,0,10.205-5.379,10.205-10.045c0-0.153-0.003-0.305-0.01-0.456c0.7-0.499,1.308-1.12,1.789-1.827c-0.644,0.28-1.334,0.469-2.06,0.555C17.422,4.782,17.99,4.091,18.258,3.266"></path> </svg> </a></li><li id="top_nav_pinterest_icon"> <a rel="nofollow" target="_blank" href="https://pinterest.com/ubergizmo/"> <svg id="ui_topnav_pinterest" class="svg-icon-white ug_click" viewBox="0 0 20 20"> <path fill="none" d="M9.797,2.214C9.466,2.256,9.134,2.297,8.802,2.338C8.178,2.493,7.498,2.64,6.993,2.935C5.646,3.723,4.712,4.643,4.087,6.139C3.985,6.381,3.982,6.615,3.909,6.884c-0.48,1.744,0.37,3.548,1.402,4.173c0.198,0.119,0.649,0.332,0.815,0.049c0.092-0.156,0.071-0.364,0.128-0.546c0.037-0.12,0.154-0.347,0.127-0.496c-0.046-0.255-0.319-0.416-0.434-0.62C5.715,9.027,5.703,8.658,5.59,8.101c0.009-0.075,0.017-0.149,0.026-0.224C5.65,7.254,5.755,6.805,5.948,6.362c0.564-1.301,1.47-2.025,2.931-2.458c0.327-0.097,1.25-0.252,1.734-0.149c0.289,0.05,0.577,0.099,0.866,0.149c1.048,0.33,1.811,0.938,2.218,1.888c0.256,0.591,0.33,1.725,0.154,2.483c-0.085,0.36-0.072,0.667-0.179,0.993c-0.397,1.206-0.979,2.323-2.295,2.633c-0.868,0.205-1.519-0.324-1.733-0.869c-0.06-0.151-0.161-0.418-0.101-0.671c0.229-0.978,0.56-1.854,0.815-2.831c0.243-0.931-0.218-1.665-0.943-1.837C8.513,5.478,7.816,6.312,7.579,6.858C7.39,7.292,7.276,8.093,7.426,8.672c0.047,0.183,0.269,0.674,0.23,0.844c-0.174,0.755-0.372,1.568-0.587,2.31c-0.223,0.771-0.344,1.562-0.56,2.311c-0.1,0.342-0.096,0.709-0.179,1.066v0.521c-0.075,0.33-0.019,0.916,0.051,1.242c0.045,0.209-0.027,0.467,0.076,0.621c0.002,0.111,0.017,0.135,0.052,0.199c0.319-0.01,0.758-0.848,0.917-1.094c0.304-0.467,0.584-0.967,0.816-1.514c0.208-0.494,0.241-1.039,0.408-1.566c0.12-0.379,0.292-0.824,0.331-1.24h0.025c0.066,0.229,0.306,0.395,0.485,0.52c0.56,0.4,1.525,0.77,2.573,0.523c1.188-0.281,2.133-0.838,2.755-1.664c0.457-0.609,0.804-1.313,1.07-2.112c0.131-0.392,0.158-0.826,0.256-1.241c0.241-1.043-0.082-2.298-0.384-2.981C14.847,3.35,12.902,2.17,9.797,2.214"></path> </svg> </a></li><li id="top_nav_youtube_icon"> <a rel="nofollow" target="_blank" href="https://www.youtube.com/ubergizmo"> <svg id="ui_topnav_youtube" class="svg-icon-white" viewBox="0 0 20 20"> <path fill="none" d="M9.426,7.625h0.271c0.596,0,1.079-0.48,1.079-1.073V4.808c0-0.593-0.483-1.073-1.079-1.073H9.426c-0.597,0-1.079,0.48-1.079,1.073v1.745C8.347,7.145,8.83,7.625,9.426,7.625 M9.156,4.741c0-0.222,0.182-0.402,0.404-0.402c0.225,0,0.405,0.18,0.405,0.402V6.62c0,0.222-0.181,0.402-0.405,0.402c-0.223,0-0.404-0.181-0.404-0.402V4.741z M12.126,7.625c0.539,0,1.013-0.47,1.013-0.47v0.403h0.81V3.735h-0.81v2.952c0,0-0.271,0.335-0.54,0.335c-0.271,0-0.271-0.202-0.271-0.202V3.735h-0.81v3.354C11.519,7.089,11.586,7.625,12.126,7.625 M6.254,7.559H7.2v-2.08l1.079-2.952H7.401L6.727,4.473L6.052,2.527H5.107l1.146,2.952V7.559z M11.586,12.003c-0.175,0-0.312,0.104-0.405,0.204v2.706c0.086,0.091,0.213,0.18,0.405,0.18c0.405,0,0.405-0.451,0.405-0.451v-2.188C11.991,12.453,11.924,12.003,11.586,12.003 M14.961,8.463c0,0-2.477-0.129-4.961-0.129c-2.475,0-4.96,0.129-4.96,0.129c-1.119,0-2.025,0.864-2.025,1.93c0,0-0.203,1.252-0.203,2.511c0,1.252,0.203,2.51,0.203,2.51c0,1.066,0.906,1.931,2.025,1.931c0,0,2.438,0.129,4.96,0.129c2.437,0,4.961-0.129,4.961-0.129c1.117,0,2.024-0.864,2.024-1.931c0,0,0.202-1.268,0.202-2.51c0-1.268-0.202-2.511-0.202-2.511C16.985,9.328,16.078,8.463,14.961,8.463 M7.065,10.651H6.052v5.085H5.107v-5.085H4.095V9.814h2.97V10.651z M9.628,15.736h-0.81v-0.386c0,0-0.472,0.45-1.012,0.45c-0.54,0-0.606-0.515-0.606-0.515v-3.991h0.809v3.733c0,0,0,0.193,0.271,0.193c0.27,0,0.54-0.322,0.54-0.322v-3.604h0.81V15.736z M12.801,14.771c0,0,0,1.03-0.742,1.03c-0.455,0-0.73-0.241-0.878-0.429v0.364h-0.876V9.814h0.876v1.92c0.135-0.142,0.464-0.439,0.878-0.439c0.54,0,0.742,0.45,0.742,1.03V14.771z M15.973,12.39v1.287h-1.688v0.965c0,0,0,0.451,0.405,0.451s0.405-0.451,0.405-0.451v-0.45h0.877v0.708c0,0-0.136,0.901-1.215,0.901c-1.08,0-1.282-0.901-1.282-0.901v-2.51c0,0,0-1.095,1.282-1.095S15.973,12.39,15.973,12.39 M14.69,12.003c-0.405,0-0.405,0.45-0.405,0.45v0.579h0.811v-0.579C15.096,12.453,15.096,12.003,14.69,12.003"></path> </svg> </a></li></ul><ul id="menunav"><li><a class="ug_click" id="topnav_reviews" href="/topic/reviews/">Reviews</a></li><li> <a href="/topic/cellphones/">Phones</a> <svg id="top_nav_extend_phones" class="svg-icon-white ug_click submenu_button" viewBox="0 0 20 20"> <path d="M13.962,8.885l-3.736,3.739c-0.086,0.086-0.201,0.13-0.314,0.13S9.686,12.71,9.6,12.624l-3.562-3.56C5.863,8.892,5.863,8.611,6.036,8.438c0.175-0.173,0.454-0.173,0.626,0l3.25,3.247l3.426-3.424c0.173-0.172,0.451-0.172,0.624,0C14.137,8.434,14.137,8.712,13.962,8.885 M18.406,10c0,4.644-3.763,8.406-8.406,8.406S1.594,14.644,1.594,10S5.356,1.594,10,1.594S18.406,5.356,18.406,10 M17.521,10c0-4.148-3.373-7.521-7.521-7.521c-4.148,0-7.521,3.374-7.521,7.521c0,4.147,3.374,7.521,7.521,7.521C14.148,17.521,17.521,14.147,17.521,10"></path> </svg><ul><li><a class="ug_click" id="topnav_android" href="/tags/android/">Android</a></li><li><a class="ug_click" id="topnav_iphone" href="/tags/iphone/">iPhone</a></li><li><a class="ug_click" id="topnav_apps" href="/tags/apps/">Apps</a></li></ul> </li><li><a class="ug_click" id="topnav_computers" href="/topic/computers/">Computers</a> <svg id="top_nav_extend_computers" class="svg-icon-white ug_click submenu_button" viewBox="0 0 20 20"> <path d="M13.962,8.885l-3.736,3.739c-0.086,0.086-0.201,0.13-0.314,0.13S9.686,12.71,9.6,12.624l-3.562-3.56C5.863,8.892,5.863,8.611,6.036,8.438c0.175-0.173,0.454-0.173,0.626,0l3.25,3.247l3.426-3.424c0.173-0.172,0.451-0.172,0.624,0C14.137,8.434,14.137,8.712,13.962,8.885 M18.406,10c0,4.644-3.763,8.406-8.406,8.406S1.594,14.644,1.594,10S5.356,1.594,10,1.594S18.406,5.356,18.406,10 M17.521,10c0-4.148-3.373-7.521-7.521-7.521c-4.148,0-7.521,3.374-7.521,7.521c0,4.147,3.374,7.521,7.521,7.521C14.148,17.521,17.521,14.147,17.521,10"></path> </svg><ul><li><a class="ug_click" id="topnav_laptops" href="/tags/laptops/">Laptops</a></li><li><a class="ug_click" id="topnav_tablets" href="/topic/tablets/">Tablets</a></li><li><a class="ug_click" id="topnav_windows" href="/tags/windows/">Windows</a></li></ul></li><li><a class="ug_click" id="topnav_tutorials" href="/how-to/">Tutorials</a></li><li><a class="ug_click" id="topnav_events" href="/topic/events/">Events</a></li><li><a class="ug_click" id="topnav_gadgets" href="/topic/gadgets/">Gadgets</a></li><li><a class="ug_click" id="topnav_gaming" href="/topic/gaming/">Gaming</a></li><li><a class="ug_click" id="topnav_general" href="/topic/general/">General</a></li><li><a class="ug_click" id="topnav_photovideo" href="/topic/photo-video/">Photo/Video</a></li><li>More <svg id="top_nav_extend_more" class="svg-icon-white ug_click submenu_button" viewBox="0 0 20 20"> <path d="M13.962,8.885l-3.736,3.739c-0.086,0.086-0.201,0.13-0.314,0.13S9.686,12.71,9.6,12.624l-3.562-3.56C5.863,8.892,5.863,8.611,6.036,8.438c0.175-0.173,0.454-0.173,0.626,0l3.25,3.247l3.426-3.424c0.173-0.172,0.451-0.172,0.624,0C14.137,8.434,14.137,8.712,13.962,8.885 M18.406,10c0,4.644-3.763,8.406-8.406,8.406S1.594,14.644,1.594,10S5.356,1.594,10,1.594S18.406,5.356,18.406,10 M17.521,10c0-4.148-3.373-7.521-7.521-7.521c-4.148,0-7.521,3.374-7.521,7.521c0,4.147,3.374,7.521,7.521,7.521C14.148,17.521,17.521,14.147,17.521,10"></path> </svg><ul><li><a class="ug_click" id="topnav_audio" href="/topic/audio/">Audio</a></li><li><a class="ug_click" id="topnav_concepts" href="/topic/concepts/">Design/Concepts</a></li><li><a class="ug_click" id="topnav_web" href="/topic/web/">Web</a></li><li><a class="ug_click" id="topnav_ugjp" href="https://jp.ubergizmo.com">Ubergizmo in Japanese</a></li><li><a class="ug_click" id="topnav_ugfr" href="https://fr.ubergizmo.com">Ubergizmo in French</a></li><li><a class="ug_click" id="topnav_ugde" href="https://de.ubergizmo.com">Ubergizmo in German</a></li><li><a class="ug_click" id="topnav_ugit" href="http://it.ubergizmo.com">Ubergizmo in Italian</a></li><li><a class="ug_click" id="topnav_uges" href="https://es.ubergizmo.com">Ubergizmo in Spanish</a></li></ul></li></ul> </nav></div><div id="meta_container"><div id="skincontainer_content"><div class="byline_container"><h1>Privacy Policy</h1> <span class="byline">By <span itemprop="author">Ubergizmo Team</span> on 12/20/2010 10:20 PST</span></div><div class="content"><div class="postcontainer"><div class="article"><p></p><h1>Ubergizmo.com Privacy Statement</h1><div class="ad_medium_incontent"></div><p>This statement covers the site located at <a href="http://www.ubergizmo.com">http://www.ubergizmo.com</a> (Ubergizmo). The Service is intended for visitors located within the United States.&nbsp; Sites located on sub-domains may be managed by 3rd-party franchisees established in different geographical areas.</p><p>Please read this statement carefully before using proceeding to access Ubergizmo. Your use of Ubergizmo indicates your agreement to abide by the Terms in effect.</p><h2>Information Collection</h2><p>Ubergizmo may collect information from our users at several different points on our Web site, including IP&nbsp;addresses&nbsp;present on our server log files (see below).&nbsp;If you do not provide Personal Information when requested by www.ubergizmo.com, you may not be able to utilize the Service if that information is necessary for us to to provide you with the service or if we are legally required to collect it.</p><p>We collect Personal Information from you when you register on our site, connect your social media accounts to www.ubergizmo.com, communicate with www.ubergizmo.com, subscribe to our newsletter, respond to a survey, fill out a form, or otherwise when you directly provide it to us. We also collect information automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies and other tracking technologies.</p><h3>Mailing List</h3><p>In order to sign up to receive regular emails from this mailing list, users must submit information including a valid email address. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization than the third party service that hosts the newsletter service.</p><h3>Cookies and Related Technologies</h3><p>Like many websites, we also use “cookie” technology to collect additional website usage data and to improve the Site and our Service. A cookie is a small data file that we transfer to your computer’s hard disk. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. We may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Service.</p><p>We may also automatically record certain information from your device by using various types of technology, including “clear gifs” or “web beacons.” This automatically collected information may include your IP address or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after you use the Service, the pages or other content you view or otherwise interact with on the Service, and the dates and times that you visit, access, or use the Service. We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message, to the extent permitted under applicable law.</p><p>You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential.</p><h3>Third Party Cookies</h3><p>Some of our business partners may use cookies on our site (for example, advertisers). However, Ubergizmo has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Ubergizmo only and does not cover the use of cookies by any advertisers.</p><h3>Third Party Advertising</h3><p>We use many third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.</p><h3>Log Files</h3><p>Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.</p><h3>Legal Disclaimer</h3><p>Though we make every effort to preserve user privacy, Ubergizmo may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.</p><h3>Business Transitions</h3><p>In the event Ubergizmo goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.</p><h3>Links</h3><p>The Ubergizmo web site contains links to other sites. Please be aware that we, Ubergizmo, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Ubergizmo.</p><h3>Notification of Changes</h3><p>Whenever Ubergizmo changes our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p><h3>Contact Information</h3><p>If you have any questions or suggestions regarding our privacy policy, please <a href="https://www.ubergizmo.com/contact/">contact us</a>.</p></div></div></div><div class="sidebar"> <aside id="sidebar_aside"><div id="sticky-anchor-medium-btf"></div><div id="sticky"></div> </aside></div><div id="fb-root"></div><div id="comments_modal_container" class="modal_comments_class"><div class="modal_comments_content"><div class="comments_modal_close_button_container"> <span class="modal_comments_close modal_comments_cursor" onclick="Ubergizmo.HideComments()">×</span> <span class="modal_comments_close_caption">Close</span></div><div id="comments_spinner_icon" class="spinner"></div><div class="fb-comments" data-href="https://www.ubergizmo.com/privacy/" data-numposts="5" data-colorscheme="light" data-width="100%"></div></div></div></div><div class="cleaner"></div>  <script type="text/javascript" src="https://stats.wp.com/e-201852.js" async="async" defer="defer"></script> <script type="text/javascript">_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:6.6.1',blog:'19105929',post:'56582',tz:'-8',srv:'www.ubergizmo.com'} ]);
-	_stq.push([ 'clickTrackerInit', '19105929', '56582' ]);</script>  <script text="javascript">var pagemetrics={"num_seconds_php":0.39121,"num_queries":4}</script></div></body></html>
+c-0.41,0-0.743,0.333-0.743,0.743s0.333,0.743,0.743,0.743h13.372c0.41,0,0.743-0.333,0.743-0.743S17.096,9.257,16.686,9.257z"></path> </svg> </span> <span class="logo_container"> <a rel="home" href="https://www.ubergizmo.com"> <img id="logo_icon" src="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/ubergizmo_logo_icon_32.png" srcset="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/ubergizmo_logo_icon_32.png 32w,https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/ubergizmo_logo_icon_64.png 64w, https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/ubergizmo_logo_icon_32.png 151w" class="logoimage logoicon" alt="logo icon"><img id="logo_text" src="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/ubergizmo_logo_text_200.png" srcset="https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/ubergizmo_logo_text_200.png 300w, https://cdnssl.ubergizmo.com/wp-content/themes/ug_5_0033b/ubergizmo_logo_text_400.png 400w" class="logoimage" alt="logo texts"> </a> </span><div id="header_searchbox"><form id="search_form_menu" name="qf" action="/search/" method="get" autocomplete="off"> <input id="search_box" autocomplete="off" type="text" name="q" onclick="this.value=''" value="Search this site"> <button id="search_button" aria-hidden="true"> <svg class="svg-icon-white" viewBox="0 0 20 20"> <path d="M18.125,15.804l-4.038-4.037c0.675-1.079,1.012-2.308,1.01-3.534C15.089,4.62,12.199,1.75,8.584,1.75C4.815,1.75,1.982,4.726,2,8.286c0.021,3.577,2.908,6.549,6.578,6.549c1.241,0,2.417-0.347,3.44-0.985l4.032,4.026c0.167,0.166,0.43,0.166,0.596,0l1.479-1.478C18.292,16.234,18.292,15.968,18.125,15.804 M8.578,13.99c-3.198,0-5.716-2.593-5.733-5.71c-0.017-3.084,2.438-5.686,5.74-5.686c3.197,0,5.625,2.493,5.64,5.624C14.242,11.548,11.621,13.99,8.578,13.99 M16.349,16.981l-3.637-3.635c0.131-0.11,0.721-0.695,0.876-0.884l3.642,3.639L16.349,16.981z"></path> </svg> </button></form></div><ul class="social_buttons_top_nav"><li id="top_nav_fb_icon"> <a rel="nofollow" target="_blank" href="https://www.facebook.com/ubergizmo"> <svg id="ui_topnav_fb" class="svg-icon-white ug_click" viewBox="0 0 20 20"> <path fill="none" d="M11.344,5.71c0-0.73,0.074-1.122,1.199-1.122h1.502V1.871h-2.404c-2.886,0-3.903,1.36-3.903,3.646v1.765h-1.8V10h1.8v8.128h3.601V10h2.403l0.32-2.718h-2.724L11.344,5.71z"></path> </svg> </a></li><li id="top_nav_gplus_icon"> <a rel="nofollow" target="_blank" href="https://plus.google.com/115760963148996403062"> <svg id="ui_topnav_gplus" class="svg-icon-white ug_click" viewBox="0 0 20 20"> <path fill="none" d="M8.937,10.603c-0.383-0.284-0.741-0.706-0.754-0.837c0-0.223,0-0.326,0.526-0.758c0.684-0.56,1.062-1.297,1.062-2.076c0-0.672-0.188-1.273-0.512-1.71h0.286l1.58-1.196h-4.28c-1.717,0-3.222,1.348-3.222,2.885c0,1.587,1.162,2.794,2.726,2.858c-0.024,0.113-0.037,0.225-0.037,0.334c0,0.229,0.052,0.448,0.157,0.659c-1.938,0.013-3.569,1.309-3.569,2.84c0,1.375,1.571,2.373,3.735,2.373c2.338,0,3.599-1.463,3.599-2.84C10.233,11.99,9.882,11.303,8.937,10.603 M5.443,6.864C5.371,6.291,5.491,5.761,5.766,5.444c0.167-0.192,0.383-0.293,0.623-0.293l0,0h0.028c0.717,0.022,1.405,0.871,1.532,1.89c0.073,0.583-0.052,1.127-0.333,1.451c-0.167,0.192-0.378,0.293-0.64,0.292h0C6.273,8.765,5.571,7.883,5.443,6.864 M6.628,14.786c-1.066,0-1.902-0.687-1.902-1.562c0-0.803,0.978-1.508,2.093-1.508l0,0l0,0h0.029c0.241,0.003,0.474,0.04,0.695,0.109l0.221,0.158c0.567,0.405,0.866,0.634,0.956,1.003c0.022,0.097,0.033,0.194,0.033,0.291C8.752,14.278,8.038,14.786,6.628,14.786 M14.85,4.765h-1.493v2.242h-2.249v1.495h2.249v2.233h1.493V8.502h2.252V7.007H14.85V4.765z"></path> </svg> </a></li><li id="top_nav_twitter_icon"> <a rel="nofollow" target="_blank" href="https://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=ubergizmo"> <svg id="ui_topnav_twitter" class="svg-icon-white ug_click" viewBox="0 0 20 20"> <path fill="none" d="M18.258,3.266c-0.693,0.405-1.46,0.698-2.277,0.857c-0.653-0.686-1.586-1.115-2.618-1.115c-1.98,0-3.586,1.581-3.586,3.53c0,0.276,0.031,0.545,0.092,0.805C6.888,7.195,4.245,5.79,2.476,3.654C2.167,4.176,1.99,4.781,1.99,5.429c0,1.224,0.633,2.305,1.596,2.938C2.999,8.349,2.445,8.19,1.961,7.925C1.96,7.94,1.96,7.954,1.96,7.97c0,1.71,1.237,3.138,2.877,3.462c-0.301,0.08-0.617,0.123-0.945,0.123c-0.23,0-0.456-0.021-0.674-0.062c0.456,1.402,1.781,2.422,3.35,2.451c-1.228,0.947-2.773,1.512-4.454,1.512c-0.291,0-0.575-0.016-0.855-0.049c1.588,1,3.473,1.586,5.498,1.586c6.598,0,10.205-5.379,10.205-10.045c0-0.153-0.003-0.305-0.01-0.456c0.7-0.499,1.308-1.12,1.789-1.827c-0.644,0.28-1.334,0.469-2.06,0.555C17.422,4.782,17.99,4.091,18.258,3.266"></path> </svg> </a></li><li id="top_nav_pinterest_icon"> <a rel="nofollow" target="_blank" href="https://pinterest.com/ubergizmo/"> <svg id="ui_topnav_pinterest" class="svg-icon-white ug_click" viewBox="0 0 20 20"> <path fill="none" d="M9.797,2.214C9.466,2.256,9.134,2.297,8.802,2.338C8.178,2.493,7.498,2.64,6.993,2.935C5.646,3.723,4.712,4.643,4.087,6.139C3.985,6.381,3.982,6.615,3.909,6.884c-0.48,1.744,0.37,3.548,1.402,4.173c0.198,0.119,0.649,0.332,0.815,0.049c0.092-0.156,0.071-0.364,0.128-0.546c0.037-0.12,0.154-0.347,0.127-0.496c-0.046-0.255-0.319-0.416-0.434-0.62C5.715,9.027,5.703,8.658,5.59,8.101c0.009-0.075,0.017-0.149,0.026-0.224C5.65,7.254,5.755,6.805,5.948,6.362c0.564-1.301,1.47-2.025,2.931-2.458c0.327-0.097,1.25-0.252,1.734-0.149c0.289,0.05,0.577,0.099,0.866,0.149c1.048,0.33,1.811,0.938,2.218,1.888c0.256,0.591,0.33,1.725,0.154,2.483c-0.085,0.36-0.072,0.667-0.179,0.993c-0.397,1.206-0.979,2.323-2.295,2.633c-0.868,0.205-1.519-0.324-1.733-0.869c-0.06-0.151-0.161-0.418-0.101-0.671c0.229-0.978,0.56-1.854,0.815-2.831c0.243-0.931-0.218-1.665-0.943-1.837C8.513,5.478,7.816,6.312,7.579,6.858C7.39,7.292,7.276,8.093,7.426,8.672c0.047,0.183,0.269,0.674,0.23,0.844c-0.174,0.755-0.372,1.568-0.587,2.31c-0.223,0.771-0.344,1.562-0.56,2.311c-0.1,0.342-0.096,0.709-0.179,1.066v0.521c-0.075,0.33-0.019,0.916,0.051,1.242c0.045,0.209-0.027,0.467,0.076,0.621c0.002,0.111,0.017,0.135,0.052,0.199c0.319-0.01,0.758-0.848,0.917-1.094c0.304-0.467,0.584-0.967,0.816-1.514c0.208-0.494,0.241-1.039,0.408-1.566c0.12-0.379,0.292-0.824,0.331-1.24h0.025c0.066,0.229,0.306,0.395,0.485,0.52c0.56,0.4,1.525,0.77,2.573,0.523c1.188-0.281,2.133-0.838,2.755-1.664c0.457-0.609,0.804-1.313,1.07-2.112c0.131-0.392,0.158-0.826,0.256-1.241c0.241-1.043-0.082-2.298-0.384-2.981C14.847,3.35,12.902,2.17,9.797,2.214"></path> </svg> </a></li><li id="top_nav_youtube_icon"> <a rel="nofollow" target="_blank" href="https://www.youtube.com/ubergizmo"> <svg id="ui_topnav_youtube" class="svg-icon-white" viewBox="0 0 20 20"> <path fill="none" d="M9.426,7.625h0.271c0.596,0,1.079-0.48,1.079-1.073V4.808c0-0.593-0.483-1.073-1.079-1.073H9.426c-0.597,0-1.079,0.48-1.079,1.073v1.745C8.347,7.145,8.83,7.625,9.426,7.625 M9.156,4.741c0-0.222,0.182-0.402,0.404-0.402c0.225,0,0.405,0.18,0.405,0.402V6.62c0,0.222-0.181,0.402-0.405,0.402c-0.223,0-0.404-0.181-0.404-0.402V4.741z M12.126,7.625c0.539,0,1.013-0.47,1.013-0.47v0.403h0.81V3.735h-0.81v2.952c0,0-0.271,0.335-0.54,0.335c-0.271,0-0.271-0.202-0.271-0.202V3.735h-0.81v3.354C11.519,7.089,11.586,7.625,12.126,7.625 M6.254,7.559H7.2v-2.08l1.079-2.952H7.401L6.727,4.473L6.052,2.527H5.107l1.146,2.952V7.559z M11.586,12.003c-0.175,0-0.312,0.104-0.405,0.204v2.706c0.086,0.091,0.213,0.18,0.405,0.18c0.405,0,0.405-0.451,0.405-0.451v-2.188C11.991,12.453,11.924,12.003,11.586,12.003 M14.961,8.463c0,0-2.477-0.129-4.961-0.129c-2.475,0-4.96,0.129-4.96,0.129c-1.119,0-2.025,0.864-2.025,1.93c0,0-0.203,1.252-0.203,2.511c0,1.252,0.203,2.51,0.203,2.51c0,1.066,0.906,1.931,2.025,1.931c0,0,2.438,0.129,4.96,0.129c2.437,0,4.961-0.129,4.961-0.129c1.117,0,2.024-0.864,2.024-1.931c0,0,0.202-1.268,0.202-2.51c0-1.268-0.202-2.511-0.202-2.511C16.985,9.328,16.078,8.463,14.961,8.463 M7.065,10.651H6.052v5.085H5.107v-5.085H4.095V9.814h2.97V10.651z M9.628,15.736h-0.81v-0.386c0,0-0.472,0.45-1.012,0.45c-0.54,0-0.606-0.515-0.606-0.515v-3.991h0.809v3.733c0,0,0,0.193,0.271,0.193c0.27,0,0.54-0.322,0.54-0.322v-3.604h0.81V15.736z M12.801,14.771c0,0,0,1.03-0.742,1.03c-0.455,0-0.73-0.241-0.878-0.429v0.364h-0.876V9.814h0.876v1.92c0.135-0.142,0.464-0.439,0.878-0.439c0.54,0,0.742,0.45,0.742,1.03V14.771z M15.973,12.39v1.287h-1.688v0.965c0,0,0,0.451,0.405,0.451s0.405-0.451,0.405-0.451v-0.45h0.877v0.708c0,0-0.136,0.901-1.215,0.901c-1.08,0-1.282-0.901-1.282-0.901v-2.51c0,0,0-1.095,1.282-1.095S15.973,12.39,15.973,12.39 M14.69,12.003c-0.405,0-0.405,0.45-0.405,0.45v0.579h0.811v-0.579C15.096,12.453,15.096,12.003,14.69,12.003"></path> </svg> </a></li></ul><ul id="menunav"><li><a class="ug_click" id="topnav_reviews" href="/topic/reviews/">Reviews</a></li><li> <a class="ug_click" id="topnav_cellphones" href="/topic/cellphones/">Phones</a> <svg id="top_nav_extend_phones" class="svg-icon-white ug_click submenu_button" viewBox="0 0 20 20"> <path d="M13.962,8.885l-3.736,3.739c-0.086,0.086-0.201,0.13-0.314,0.13S9.686,12.71,9.6,12.624l-3.562-3.56C5.863,8.892,5.863,8.611,6.036,8.438c0.175-0.173,0.454-0.173,0.626,0l3.25,3.247l3.426-3.424c0.173-0.172,0.451-0.172,0.624,0C14.137,8.434,14.137,8.712,13.962,8.885 M18.406,10c0,4.644-3.763,8.406-8.406,8.406S1.594,14.644,1.594,10S5.356,1.594,10,1.594S18.406,5.356,18.406,10 M17.521,10c0-4.148-3.373-7.521-7.521-7.521c-4.148,0-7.521,3.374-7.521,7.521c0,4.147,3.374,7.521,7.521,7.521C14.148,17.521,17.521,14.147,17.521,10"></path> </svg><ul><li><a class="ug_click" id="topnav_bestcamera" href="https://www.ubergizmo.com/articles/best-phone-cameras/">Best Phones Cameras</a></li><li><a class="ug_click" id="topnav_android" href="/tags/android/">Android</a></li><li><a class="ug_click" id="topnav_iphone" href="/tags/iphone/">iPhone</a></li><li><a class="ug_click" id="topnav_apps" href="/tags/apps/">Apps</a></li></ul> </li><li><a class="ug_click" id="topnav_computers" href="/topic/computers/">Computers</a> <svg id="top_nav_extend_computers" class="svg-icon-white ug_click submenu_button" viewBox="0 0 20 20"> <path d="M13.962,8.885l-3.736,3.739c-0.086,0.086-0.201,0.13-0.314,0.13S9.686,12.71,9.6,12.624l-3.562-3.56C5.863,8.892,5.863,8.611,6.036,8.438c0.175-0.173,0.454-0.173,0.626,0l3.25,3.247l3.426-3.424c0.173-0.172,0.451-0.172,0.624,0C14.137,8.434,14.137,8.712,13.962,8.885 M18.406,10c0,4.644-3.763,8.406-8.406,8.406S1.594,14.644,1.594,10S5.356,1.594,10,1.594S18.406,5.356,18.406,10 M17.521,10c0-4.148-3.373-7.521-7.521-7.521c-4.148,0-7.521,3.374-7.521,7.521c0,4.147,3.374,7.521,7.521,7.521C14.148,17.521,17.521,14.147,17.521,10"></path> </svg><ul><li><a class="ug_click" id="topnav_laptops" href="/tags/laptops/">Laptops</a></li><li><a class="ug_click" id="topnav_tablets" href="/topic/tablets/">Tablets</a></li><li><a class="ug_click" id="topnav_windows" href="/tags/windows/">Windows</a></li></ul></li><li><a class="ug_click" id="topnav_tutorials" href="/how-to/">Tutorials</a></li><li><a class="ug_click" id="topnav_events" href="/topic/events/">Events</a></li><li><a class="ug_click" id="topnav_gadgets" href="/topic/gadgets/">Gadgets</a></li><li><a class="ug_click" id="topnav_gaming" href="/topic/gaming/">Gaming</a></li><li><a class="ug_click" id="topnav_general" href="/topic/general/">General</a></li><li><a class="ug_click" id="topnav_photovideo" href="/topic/photo-video/">Photo/Video</a></li><li>More <svg id="top_nav_extend_more" class="svg-icon-white ug_click submenu_button" viewBox="0 0 20 20"> <path d="M13.962,8.885l-3.736,3.739c-0.086,0.086-0.201,0.13-0.314,0.13S9.686,12.71,9.6,12.624l-3.562-3.56C5.863,8.892,5.863,8.611,6.036,8.438c0.175-0.173,0.454-0.173,0.626,0l3.25,3.247l3.426-3.424c0.173-0.172,0.451-0.172,0.624,0C14.137,8.434,14.137,8.712,13.962,8.885 M18.406,10c0,4.644-3.763,8.406-8.406,8.406S1.594,14.644,1.594,10S5.356,1.594,10,1.594S18.406,5.356,18.406,10 M17.521,10c0-4.148-3.373-7.521-7.521-7.521c-4.148,0-7.521,3.374-7.521,7.521c0,4.147,3.374,7.521,7.521,7.521C14.148,17.521,17.521,14.147,17.521,10"></path> </svg><ul><li><a class="ug_click" id="topnav_feature_articles" href="https://www.ubergizmo.com/articles/">Feature Articles</a></li><li><a class="ug_click" id="topnav_audio" href="/topic/audio/">Audio</a></li><li><a class="ug_click" id="topnav_concepts" href="/topic/concepts/">Design/Concepts</a></li><li><a class="ug_click" id="topnav_web" href="/topic/web/">Web</a></li><li><a class="ug_click" id="topnav_ugjp" href="https://jp.ubergizmo.com">Ubergizmo in Japanese</a></li><li><a class="ug_click" id="topnav_ugfr" href="https://fr.ubergizmo.com">Ubergizmo in French</a></li><li><a class="ug_click" id="topnav_ugde" href="https://de.ubergizmo.com">Ubergizmo in German</a></li><li><a class="ug_click" id="topnav_ugit" href="http://it.ubergizmo.com">Ubergizmo in Italian</a></li><li><a class="ug_click" id="topnav_uges" href="https://es.ubergizmo.com">Ubergizmo in Spanish</a></li><li id="subscribe" style="display:none; cursor:pointer; color:#7fc31c" onclick="subscribeOneSignal();">Turn ON Notifications</li><li id="unsubscribe" style="display:none; cursor:pointer; color:#e54b4d;" onclick="unSubscribeOneSignal();">Turn OFF Notifications</li></ul></li></ul> </nav></div><div id="meta_container"><div id="skincontainer_content"><div class="byline_container"><h1>Privacy Policy</h1> <span class="byline">By <span itemprop="author">Ubergizmo Team</span> on 12/20/2010 10:20 PDT</span></div><div class="content"><div class="postcontainer"><div class="article"><p></p><h1>Ubergizmo.com Privacy Statement</h1><div class="ad_medium_incontent"></div><p>This statement covers the site located at <a href="http://www.ubergizmo.com">http://www.ubergizmo.com</a> (Ubergizmo). The Service is intended for visitors located within the United States.&nbsp; Sites located on sub-domains may be managed by 3rd-party franchisees established in different geographical areas.</p><p>Please read this statement carefully before using proceeding to access Ubergizmo. Your use of Ubergizmo indicates your agreement to abide by the Terms in effect.</p><h2>Information Collection</h2><p>Ubergizmo may collect information from our users at several different points on our Web site, including IP&nbsp;addresses&nbsp;present on our server log files (see below).&nbsp;If you do not provide Personal Information when requested by www.ubergizmo.com, you may not be able to utilize the Service if that information is necessary for us to to provide you with the service or if we are legally required to collect it.</p><p>We collect Personal Information from you when you register on our site, connect your social media accounts to www.ubergizmo.com, communicate with www.ubergizmo.com, subscribe to our newsletter, respond to a survey, fill out a form, or otherwise when you directly provide it to us. We also collect information automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies and other tracking technologies.</p><h3>Mailing List</h3><p>In order to sign up to receive regular emails from this mailing list, users must submit information including a valid email address. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization than the third-party service that hosts the newsletter service.</p><h3>Cookies and Related Technologies</h3><p>Like many websites, we also use “cookie” technology to collect additional website usage data and to improve the Site and our Service. A cookie is a small data file that we transfer to your computer’s hard disk. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. We may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Service.</p><p>We may also automatically record certain information from your device by using various types of technology, including “clear gifs” or “web beacons.” This automatically collected information may include your IP address or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after you use the Service, the pages or other content you view or otherwise interact with on the Service, and the dates and times that you visit, access, or use the Service. We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message, to the extent permitted under applicable law.</p><p>You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential.</p><h3 id="search">Search</h3><p><strong>Data Used:</strong>&nbsp;Any of the visitor-chosen search filters and query data in order to process a search request on the WordPress.com servers.</p><h3>Website Security</h3><h4>Jetpack Protect</h4><p><strong>Data Used</strong>: In order to check login activity and potentially block fraudulent attempts, the following information is used: attempting user’s IP address, attempting user’s email address/username (i.e. according to the value they were attempting to use during the login process), and all IP-related HTTP headers attached to the attempting user.</p><p><strong>Activity </strong>Tracked: Failed login attempts (these include IP address and user agent). We also set a cookie (jpp_math_pass) for 1 day to remember if/when a user has successfully completed a math captcha to prove that they’re a real human. Learn more about this cookie.</p><p>Data Synced (?): Failed login attempts, which contain the user’s IP address, attempted username or email address, and user agent information.</p><h3>Third Party Cookies</h3><p>Some of our business partners may use cookies on our site (for example, advertisers). However, Ubergizmo has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Ubergizmo only and does not cover the use of cookies by any advertisers.</p><h3>Web Traffic Analytics</h3><h4>WordPress.com Stats</h4><p><strong>Data Used</strong>: IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code. Important: The site owner does not have access to any of this information via this feature. For example, a site owner can see that a specific post has 285 views, but he/she cannot see which specific users/accounts viewed that post. Stats logs — containing visitor IP addresses and WordPress.com usernames (if available) — are retained by Automattic for 28 days and are used for the sole purpose of powering this feature.</p><p><strong>Activity </strong>Tracked: Post and page views, video plays (if videos are hosted by WordPress.com), outbound link clicks, referring URLs and search engine terms, and country. When this module is enabled, Jetpack also tracks performance on each page load that includes the Javascript file used for tracking stats. This is exclusively for aggregate performance tracking across Jetpack sites in order to make sure that our plugin and code is not causing performance issues. This includes the tracking of page load times and resource loading duration (image files, Javascript files, CSS files, etc.). The site owner has the ability to force this feature to honor DNT settings of visitors. By default, DNT is currently not honored.</p><h3>Third Party Advertising</h3><p>We use many third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.</p><h3>Log Files</h3><p>Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.</p><h3>Legal Disclaimer</h3><p>Though we make every effort to preserve user privacy, Ubergizmo may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.</p><h3>Business Transitions</h3><p>In the event Ubergizmo goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.</p><h3>Links</h3><p>The Ubergizmo web site contains links to other sites. Please be aware that we, Ubergizmo, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Ubergizmo.</p><h3>Notification of Changes</h3><p>Whenever Ubergizmo changes our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p><h3>Contact Information</h3><p>If you have any questions or suggestions regarding our privacy policy, please <a href="https://www.ubergizmo.com/contact/">contact us</a>.</p></div></div></div><div class="sidebar"> <aside id="sidebar_aside"><div id="sticky-anchor-medium-btf"></div><div id="sticky"></div> </aside></div><div id="fb-root"></div><div id="comments_modal_container" class="modal_comments_class"><div class="modal_comments_content"><div class="comments_modal_close_button_container"> <span class="modal_comments_close modal_comments_cursor" onclick="Ubergizmo.HideComments()">×</span> <span class="modal_comments_close_caption">Close</span></div><div id="comments_spinner_icon" class="spinner"></div><div class="fb-comments" data-href="https://www.ubergizmo.com/privacy/" data-numposts="5" data-colorscheme="light" data-width="100%"></div></div></div></div><div class="cleaner"></div>  <script type="text/javascript">if ( typeof(jQuery) !== 'undefined' ) {
+				jQuery( document ).ready(function(){
+					function monsterinsights_scroll_tracking_load() {
+						if ( typeof(__gaTracker) !== 'undefined' && __gaTracker && __gaTracker.hasOwnProperty( "loaded" ) && __gaTracker.loaded == true ) {
+							(function(factory) {
+								if (typeof define === 'function' && define.amd) {
+									// AMD
+									define(['jquery'], factory);
+								} else if (typeof module === 'object' && module.exports) {
+									// CommonJS
+									module.exports = factory(require('jquery'));
+								} else {
+									// Browser globals
+									factory(jQuery);
+								}
+							}(function($) {
+								/* Scroll Depth */
+								"use strict";
+								var defaults = {
+									percentage: true
+								};
+								var $window = $(window),
+									cache = [],
+									scrollEventBound = false,
+									lastPixelDepth = 0;
+								/*
+								 * Plugin
+								 */
+								$.scrollDepth = function(options) {
+									var startTime = +new Date();
+									options = $.extend({}, defaults, options);
+									/*
+									 * Functions
+									 */
+									function sendEvent(action, label, scrollDistance, timing) {
+										var fieldsArray = {
+											hitType       : 'event',
+											eventCategory : 'Scroll Depth',
+											eventAction   : action,
+											eventLabel    : label,
+											eventValue    : 1,
+											nonInteraction: 1
+										};
+										MonsterInsightsObject.sendEvent( fieldsArray );
+//										if (arguments.length > 2 && scrollDistance > lastPixelDepth) {
+//											lastPixelDepth = scrollDistance;
+//											fieldsArray = {
+//												hitType       : 'event',
+//												eventCategory : 'Scroll Depth',
+//												eventAction   : 'Pixel Depth',
+//												eventLabel    :  rounded(scrollDistance),
+//												eventValue    : 1,
+//												nonInteraction: 1
+//											};
+//											MonsterInsightsObject.sendEvent( fieldsArray );
+//										}
+										if (arguments.length > 3) {
+											fieldsArray = {
+												hitType        : 'timing',
+												timingCategory : 'Scroll Depth',
+												timingVar      : action,
+												timingValue    : timing,
+												timingLabel    : label,
+												nonInteraction: 1
+											};
+											MonsterInsightsObject.sendEvent( fieldsArray );
+										}
+									}
+									function calculateMarks(docHeight) {
+										return {
+											'25%' : parseInt(docHeight * 0.25, 10),
+											'50%' : parseInt(docHeight * 0.50, 10),
+											'75%' : parseInt(docHeight * 0.75, 10),
+											// Cushion to trigger 100% event in iOS
+											'100%': docHeight - 5
+										};
+									}
+									function checkMarks(marks, scrollDistance, timing) {
+										// Check each active mark
+										$.each(marks, function(key, val) {
+											if ( $.inArray(key, cache) === -1 && scrollDistance >= val ) {
+												sendEvent('Percentage', key, scrollDistance, timing);
+												cache.push(key);
+											}
+										});
+									}
+									function rounded(scrollDistance) {
+										// Returns String
+										return (Math.floor(scrollDistance/250) * 250).toString();
+									}
+									function init() {
+										bindScrollDepth();
+									}
+									/*
+									 * Public Methods
+									 */
+									// Reset Scroll Depth with the originally initialized options
+									$.scrollDepth.reset = function() {
+										cache = [];
+										lastPixelDepth = 0;
+										$window.off('scroll.scrollDepth');
+										bindScrollDepth();
+									};
+									// Add DOM elements to be tracked
+									$.scrollDepth.addElements = function(elems) {
+										if (typeof elems == "undefined" || !$.isArray(elems)) {
+											return;
+										}
+										$.merge(options.elements, elems);
+										// If scroll event has been unbound from window, rebind
+										if (!scrollEventBound) {
+											bindScrollDepth();
+										}
+									};
+									// Remove DOM elements currently tracked
+									$.scrollDepth.removeElements = function(elems) {
+										if (typeof elems == "undefined" || !$.isArray(elems)) {
+											return;
+										}
+										$.each(elems, function(index, elem) {
+											var inElementsArray = $.inArray(elem, options.elements);
+											var inCacheArray = $.inArray(elem, cache);
+											if (inElementsArray != -1) {
+												options.elements.splice(inElementsArray, 1);
+											}
+											if (inCacheArray != -1) {
+												cache.splice(inCacheArray, 1);
+											}
+										});
+									};
+									/*
+									 * Throttle function borrowed from:
+									 * Underscore.js 1.5.2
+									 * http://underscorejs.org
+									 * (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+									 * Underscore may be freely distributed under the MIT license.
+									 */
+									function throttle(func, wait) {
+										var context, args, result;
+										var timeout = null;
+										var previous = 0;
+										var later = function() {
+											previous = new Date;
+											timeout = null;
+											result = func.apply(context, args);
+										};
+										return function() {
+											var now = new Date;
+											if (!previous) previous = now;
+											var remaining = wait - (now - previous);
+											context = this;
+											args = arguments;
+											if (remaining <= 0) {
+												clearTimeout(timeout);
+												timeout = null;
+												previous = now;
+												result = func.apply(context, args);
+											} else if (!timeout) {
+												timeout = setTimeout(later, remaining);
+											}
+											return result;
+										};
+									}
+									/*
+									 * Scroll Event
+									 */
+									function bindScrollDepth() {
+										scrollEventBound = true;
+										$window.on('scroll.scrollDepth', throttle(function() {
+											/*
+											 * We calculate document and window height on each scroll event to
+											 * account for dynamic DOM changes.
+											 */
+											var docHeight = $(document).height(),
+												winHeight = window.innerHeight ? window.innerHeight : $window.height(),
+												scrollDistance = $window.scrollTop() + winHeight,
+												// Recalculate percentage marks
+												marks = calculateMarks(docHeight),
+												// Timing
+												timing = +new Date - startTime;
+											checkMarks(marks, scrollDistance, timing);
+										}, 500));
+									}
+									init();
+								};
+								// UMD export
+								return $.scrollDepth;
+							}));
+							jQuery.scrollDepth();
+						} else {
+							setTimeout(monsterinsights_scroll_tracking_load, 200);
+						}
+					}
+					monsterinsights_scroll_tracking_load();
+				});
+			}</script>  <script type="text/javascript" src="https://c0.wp.com/p/jetpack/7.4/_inc/build/photon/photon.min.js"></script> <script type="text/javascript" src="https://stats.wp.com/e-201926.js" async="async" defer="defer"></script> <script type="text/javascript">_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.4',blog:'19105929',post:'56582',tz:'-7',srv:'www.ubergizmo.com'} ]);
+	_stq.push([ 'clickTrackerInit', '19105929', '56582' ]);</script>  <script text="javascript">var pagemetrics={"num_seconds_php":0.561620000000000008100187187665142118930816650390625,"num_queries":4};console.log(pagemetrics);</script></div></body></html>
