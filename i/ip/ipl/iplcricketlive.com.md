@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iplcricketlive.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224162814id_/http%3A//www.iplcricketlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplcricketlive.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625065415id_/http%3A//www.iplcricketlive.com/privacy-policy) for the most accurate reproduction.*
 
-# IPL 2018, Indian Premier League 2018 - Privacy Policy
+# IPL 2019, Indian Premier League 2019 - Privacy Policy
 
 The following Privacy Statement discloses the information gathering and dissemination practices for iplcricketlive.com
 
