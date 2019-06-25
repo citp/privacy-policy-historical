@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121020616id_/https%3A//info.lululemon.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625225728id_/https%3A//info.lululemon.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | lululemon athletica
 
@@ -127,7 +127,7 @@ lululemon will take reasonable steps to ensure the personal information it holds
 
 ## OUR INTERNATIONAL OPERATIONS AND DATA TRANSFERS
 
-We operate internationally and may transfer information collected within the European Economic Area and Switzerland to the United States for the purposes described in this policy. lululemon complies with the EU-US and Swiss-US Privacy Shield principles regarding the collection, use, sharing, and retention of personal information from the EEA and Switzerland, as described in our EU-US Privacy Shield certification and Swiss-US Privacy Shield certification. Learn more about Privacy Shield  _[here](https://www.privacyshield.gov/)_.
+We operate internationally and may transfer information collected within the European Economic Area, United Kingdom, and Switzerland to the United States for the purposes described in this policy. lululemon complies with the EU-US and Swiss-US Privacy Shield principles regarding the collection, use, sharing, and retention of personal information from the EEA and Switzerland, as described in our EU-US Privacy Shield certification and Swiss-US Privacy Shield certification. Learn more about Privacy Shield  _[here](https://www.privacyshield.gov/)_.
 
 We are subject to the oversight of the US Federal Trade Commission and remain responsible for personal information that we transfer to others who process it on our behalf as described in the Disclosure of Your Information section. If you have a complaint about our Privacy Shield compliance, please email us at: [PRIVACYOFFICER@LULULEMON.COM](mailto:privacyofficer@lululemon.com). You can also refer a complaint to our chosen independent dispute resolution body [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), and in certain circumstances, invoke the Privacy Shield binding arbitration process.
 
