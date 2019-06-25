@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mass.gov privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023540id_/http%3A//www.mass.gov/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mass.gov privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625021014id_/http%3A//www.mass.gov/privacypolicy) for the most accurate reproduction.*
 
 # Mass.gov® Privacy Policy | Mass.gov
-
-## Mass.gov® Privacy Policy
 
 **_Effective_** : 10/31/2016
 
@@ -102,11 +100,13 @@ Mass.gov uses (or may use) the following tools (each a “Tool” and collective
 
 **Special notes:**   Department of Fish and Game is conducting a limited pilot of Facebook Pixel on a small number of Fish and Wildlife pages related to buying fishing licenses. The pilot project will use Facebook Pixel to track users who navigate to the Department of Fish and Game’s webpage to buy one or more fishing licenses. Users consent to this tracking by navigating to the Department of Fish and Game’s online portal for purchasing fishing licenses (See the privacy policy for [Aspira](https://aspiraconnect.com/privacy-policy)). The pilot project will begin on May 17, 2018, and tracking will occur only on or after this date.
 
-#### Tool name: ForeSee™ provided by ForeSee Results
+#### Tool name: ForeSee™ provided by Verint
 
 **Purpose:** ForeSee is a survey tool that collects voluntary information from you through surveys posted at Mass.gov.
 
 **Data collected:** Surveys may collect personally identifiable information you voluntarily submit, such as name, email address or phone number, so that we may contact you for follow up to your question, concern or recommendation.
+
+If you take the survey from a mobile device, you will be asked to provide your phone number or email address so that a link to the survey can be sent to you after your visit.  This contact information is discarded after 30 days and is not used in conjunction with your survey response.
 
 **Privacy policy:**[ **www.foreseeresults.com**](http://www.foreseeresults.com/)
 
