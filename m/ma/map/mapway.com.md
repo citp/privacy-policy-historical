@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapway.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221162651id_/https%3A//www.mapway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapway.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625030150id_/https%3A//www.mapway.com/privacy-policy) for the most accurate reproduction.*
 
 # Mapway Privacy Policy and Permissions - Mapway
 
@@ -133,5 +133,3 @@ We may revise this Privacy Policy from time to time. The most current version of
 Effective: 25th May 2018
 
 Previous versions of this Privacy Policy can be found [here](https://www.mapway.com/privacy-policy-permissions-may-2018/)
-
-If you’d like to get in touch regarding any of our apps, whether it’s feedback, a support query or just to say hello, we’d love to hear from you.
