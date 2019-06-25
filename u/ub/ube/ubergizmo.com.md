@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023726id_/https%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625202338id_/https%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ubergizmo
 
@@ -14,7 +14,7 @@ We collect Personal Information from you when you register on our site, connect 
 
 ### Mailing List
 
-In order to sign up to receive regular emails from this mailing list, users must submit information including a valid email address. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization than the third party service that hosts the newsletter service.
+In order to sign up to receive regular emails from this mailing list, users must submit information including a valid email address. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization than the third-party service that hosts the newsletter service.
 
 ### Cookies and Related Technologies
 
@@ -24,9 +24,31 @@ We may also automatically record certain information from your device by using v
 
 You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential.
 
+### Search
+
+ **Data Used:**  Any of the visitor-chosen search filters and query data in order to process a search request on the WordPress.com servers.
+
+### Website Security
+
+#### Jetpack Protect
+
+ **Data Used** : In order to check login activity and potentially block fraudulent attempts, the following information is used: attempting user’s IP address, attempting user’s email address/username (i.e. according to the value they were attempting to use during the login process), and all IP-related HTTP headers attached to the attempting user.
+
+ **Activity** Tracked: Failed login attempts (these include IP address and user agent). We also set a cookie (jpp_math_pass) for 1 day to remember if/when a user has successfully completed a math captcha to prove that they’re a real human. Learn more about this cookie.
+
+Data Synced (?): Failed login attempts, which contain the user’s IP address, attempted username or email address, and user agent information.
+
 ### Third Party Cookies
 
 Some of our business partners may use cookies on our site (for example, advertisers). However, Ubergizmo has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Ubergizmo only and does not cover the use of cookies by any advertisers.
+
+### Web Traffic Analytics
+
+#### WordPress.com Stats
+
+ **Data Used** : IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code. Important: The site owner does not have access to any of this information via this feature. For example, a site owner can see that a specific post has 285 views, but he/she cannot see which specific users/accounts viewed that post. Stats logs — containing visitor IP addresses and WordPress.com usernames (if available) — are retained by Automattic for 28 days and are used for the sole purpose of powering this feature.
+
+ **Activity** Tracked: Post and page views, video plays (if videos are hosted by WordPress.com), outbound link clicks, referring URLs and search engine terms, and country. When this module is enabled, Jetpack also tracks performance on each page load that includes the Javascript file used for tracking stats. This is exclusively for aggregate performance tracking across Jetpack sites in order to make sure that our plugin and code is not causing performance issues. This includes the tracking of page load times and resource loading duration (image files, Javascript files, CSS files, etc.). The site owner has the ability to force this feature to honor DNT settings of visitors. By default, DNT is currently not honored.
 
 ### Third Party Advertising
 
