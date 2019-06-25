@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokobungadibandung.xyz privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224122349id_/http%3A//tokobungadibandung.xyz/%3Fpage_id%3D858) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokobungadibandung.xyz privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625121625id_/http%3A//tokobungadibandung.xyz/%3Fpage_id%3D858) for the most accurate reproduction.*
 
 # Privacy Policy – Yehabesha
 
