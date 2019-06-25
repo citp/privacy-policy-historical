@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadshirt.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227201803id_/https%3A//www.spreadshirt.com/privacy-policy-C3259) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadshirt.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625195130id_/https%3A//www.spreadshirt.com/privacy-policy-C3259) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadshirt
 
@@ -6,7 +6,7 @@ Thank you for your interest in our website. In the following, we will inform you
 
 ## 1\. Who is responsible for data processing?
 
-The service provider and party responsible for processing personal data (“controller”) is Spreadshirt, Inc., 186 South St., 3rd Fl, Boston, MA 02111 (“Spreadshirt”).
+The service provider and party responsible for processing personal data (“controller”) is Spreadshirt, Inc., 1572 Roseytown Road, Greensburg, PA 15601 (“Spreadshirt”).
 
 If you have any questions about the collection, processing, or usage of data; if you have requests for information, correction, disabling or deletion of data; or if you want to revoke a previously given consent; or if you want to object to the usage of your information for advertising purposes, please use the settings provided in your account’s user area, or else contact us at one of the following addresses:
 
@@ -169,7 +169,7 @@ If you register separately for our newsletter via our website and give us your c
 
 When you register for our newsletter, we use the so-called double opt-in procedure. This means that after you register we will send you an email to the email address you provided, in which we ask you to confirm that you would like to receive the newsletter. If you do not confirm your registration, your information will be automatically deleted after one month. On the other hand, if you confirm the newsletter subscription, we will save your email address for the purpose of sending you the newsletter until you unsubscribe from the newsletter.
 
-**You can revoke your consent to the sending of the newsletter at any time (without this affecting the lawfulness of the processing up to the point of revocation). You can declare your revocation by clicking on the link provided in every newsletter email, by emailing[info@spreadshirt.com](mailto:info@spreadshirt.com) or by sending a message to the contact details provided in Section 1.**
+ **You can revoke your consent to the sending of the newsletter at any time (without this affecting the lawfulness of the processing up to the point of revocation). You can declare your revocation by clicking on the link provided in every newsletter email, by emailing[info@spreadshirt.com](mailto:info@spreadshirt.com) or by sending a message to the contact details provided in Section 1.**
 
 When sending the newsletter, we use Emarsys to statistically evaluate your user behavior in order to measure how successful the newsletter is and to optimize its design. To enable this evaluation, the emails contain what are called web beacons or tracking pixels. These are single-pixel image files that establish a connection to our website und thus permit a log file analysis. The web beacons are linked with the data mentioned in Section 2.1 a and an individual ID. The links contained in the newsletter also contain this ID. For example, we can see if and when an email has been opened and which links have been clicked on. The data is stored on the Emarsys servers for 13 months and collected pseudonymously, meaning the IDs are not linked to other personal data at this point, thus ruling out any possibility of direct personal reference. You can object to the recording of your usage behavior at any time by clicking on the unsubscribe link provided in each email or by informing us using the contact details provided in Section 1. Recording is not possible if you have disabled the display of images in your email settings. In this case, the newsletter will not be displayed to you in full and you may not be able to use all functions. If you choose to display the images manually, recording will take place as described above.
 
@@ -187,7 +187,7 @@ When sending the product recommendations, we use Emarsys to statistically evalua
 
 In exceptional cases where you register separately in a Spreadshirt shop for a Shop Partner’s newsletter and thus give your consent, we transmit your email address to the Shop Partner so that it can send you emails on product offers, discounts and contests.
 
-**You can revoke your consent to the sending of the newsletter at any time (without this affecting the lawfulness of the processing up to the point of revocation). This revocation must be declared vis-à-vis the Shop Partner. The contact details of the respective Shop Partner can be found in the legal information section of their Spreadshirt shop.**
+ **You can revoke your consent to the sending of the newsletter at any time (without this affecting the lawfulness of the processing up to the point of revocation). This revocation must be declared vis-à-vis the Shop Partner. The contact details of the respective Shop Partner can be found in the legal information section of their Spreadshirt shop.**
 
 The legal basis for the processing is your consent.
 
@@ -197,7 +197,7 @@ Our website uses Attentive Mobile, Inc.’s services in order to offer special p
 
 Your phone number and any other information you submit via text message through the Attentive text message promotional system will be shared with Attentive in order to enable Attentive to provide this service to us. Attentive may also receive standard technical information when you interact with the Attentive service, including browser and device information such as unique device identifiers, internet protocol (IP) addresses (which may identify your general geographic location), browser types, and the date and time. Attentive also receives information about your interactions with Attentive’s service and Spreadshirt’s websites that incorporate the Attentive service, such as which pages you visited and how much time was spent on the page. Some of this information is collected using cookies (see Section 2.1 b for more information about cookies). Attentive uses this information to provide the service to Spreadshirt and you and to monitor, evaluate, and improve its service. Spreadshirt may combine this information with other information it already collects about your use of Spreadshirt’s website in order to provide advertising that is more interesting to you.
 
-**You can revoke your consent to the sending of these text message promotions at any time (without this affecting the lawfulness of the processing and messaging up to the point of revocation). To revoke your consent and unsubscribe, send a message containing any one (but only one) of the following words to the same number that sends the promotional messages: STOP, END, CANCEL, UNSUBSCRIBE, or QUIT.** You may also send only the word “HELP” to the same number that sends the promotional messages for more instructions on how to interact with the promotional text messaging service. If you have any questions or problems (especially with unsubscribing from messages), you can contact us at [info@spreadshirt.com](mailto:info@spreadshirt.com).
+ **You can revoke your consent to the sending of these text message promotions at any time (without this affecting the lawfulness of the processing and messaging up to the point of revocation). To revoke your consent and unsubscribe, send a message containing any one (but only one) of the following words to the same number that sends the promotional messages: STOP, END, CANCEL, UNSUBSCRIBE, or QUIT.** You may also send only the word “HELP” to the same number that sends the promotional messages for more instructions on how to interact with the promotional text messaging service. If you have any questions or problems (especially with unsubscribing from messages), you can contact us at [info@spreadshirt.com](mailto:info@spreadshirt.com).
 
 The legal basis for the processing is your consent.
 
