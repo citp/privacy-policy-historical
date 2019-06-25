@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macsales.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223224353id_/https%3A//eshop.macsales.com/Service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macsales.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625225739id_/https%3A//eshop.macsales.com/Service/privacy) for the most accurate reproduction.*
 
 # OWC Terms & Policies - Data Privacy Policy Notice
 
@@ -142,6 +142,12 @@ _**Information You Provide to Us.**_ The information we collect may include:
   * Details of transactions you carry out through our Site and of the fulfillment of your orders.
   * Your search queries on the Site.
   * Information that you provide through phone, mail and fax interactions or paper registrations that you submit to OWC via the Site.
+
+
+
+_**Information We Collect from Other Sources**_
+
+  * We work closely with third parties (for example, business partners, advertising networks, analytics providers and search information providers) and may receive information, including Personal Data, about you from them. This could include socio-demographic information and information about your likely interests based on your previous web browsing and purchases. We may combine this information with other information you have provided to us or which we collected about you.
 
 
 
