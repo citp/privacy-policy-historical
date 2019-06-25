@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialzine.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228181508id_/https%3A//tutorialzine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialzine.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625194533id_/https%3A//tutorialzine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tutorialzine
 
@@ -13,9 +13,6 @@ Any information and data that you provide will only be used in accordance with t
 The following categories of data are collected and processed on our website (tutorialzine.com) in accordance with the policies and legal basis set forth by the GDPR: 
 
   * As a standard prerequisite for the functioning of our websites (tutorialzine.com), our servers collect and log visitors' **IP addresses**. This is in accordance with our _contractual obligation_ of providing you with access to our websites. This data is retained for a maximum of 2 months and is pruned automatically.
-  * Our forum system allows you to take part of any discussion on the website, create new discussions, and access member only content like our book. You register there by voluntarily connecting your Google Account ([their privacy and data policies](https://policies.google.com/privacy)), which is required for the _contractual obligation_ of providing you with the forum service. In relation to your account, we collect **email address** , **nick name** , and optionally description and links to websites/social profiles (if you choose to provide such information). You can control, edit and remove your information at any time. 
-  * Every few weeks, we may send a newsletter to the email address you've provided. This newsletter contains website updates and may occasionally contain marketing content that is of interest to our audience. We believe this to be in your _legitimate interest_. You can unsubscribe from these emails at any time.
-  * In addition, our forum system provides functionality for subscribing to topics. As a result of this voluntarily opt-in subscription, our system will send you daily emails to the email address you've provided with the newest posts and topics in order to meet our _contractual obligations_ to you. You can unsubscribe from receiving these messages at any time.
   * As part of our offering, we provide customer support for our products. This is conducted via email and through the contact form on our website, which requires an **email address** , necessary for us to contact you back. This data is processed for the _contractual obligation_ of assisting you with our products and is deleted when support tickets are closed.
   * For _statistical purposes_ , we employ the use of Google Analytics ([their privacy and data policies](https://support.google.com/analytics/answer/6004245?hl=en)). They collect anonymized and non-identifiable information that helps us improve our website.
 
@@ -39,4 +36,4 @@ We will not sell, distribute or lease your personal information to third parties
 
 If you believe that any information we are holding on you is incorrect or incomplete, or want it erased, please write to as soon as possible. 
 
-Revision 2 — May 2018 
+Revision 3 — November 2018 
