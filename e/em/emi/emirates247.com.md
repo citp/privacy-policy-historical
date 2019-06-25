@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emirates247.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118230133id_/https%3A//www.emirates247.com/privacy-policy-1.158) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emirates247.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625220521id_/https%3A//www.emirates247.com/privacy-policy-1.158) for the most accurate reproduction.*
 
 # Privacy Policy - Emirates24|7
 
