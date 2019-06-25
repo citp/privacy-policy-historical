@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmonymails.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223214400id_/http%3A//harmonymails.com/privacypolicy.HTML) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonymails.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625064423id_/http%3A//harmonymails.com/privacypolicy.HTML) for the most accurate reproduction.*
 
 # 
 
