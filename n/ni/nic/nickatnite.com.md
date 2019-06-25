@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227160835id_/http%3A//www.nick.com/legal/nickelodeon-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625020626id_/http%3A//www.nick.com/legal/nickelodeon-privacy-policy) for the most accurate reproduction.*
 
 # THE NICKELODEON GROUP PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS | Nick
 
@@ -101,7 +101,7 @@ We may use Tracking Technologies to help tailor our content, allow users to move
 
 By visiting a Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to set and access Cookies on your device and track your activities and your use of a Site through these Tracking Technologies and Identifiers and that we may use Tracking Technologies in the emails we send to you.
 
-The Nickelodeon Sites adhere to the Self-Regulatory Principles for Online Behavioral Advertising. Click [here](https://web.archive.org/web/20181227160837id_/https://www.nick.com/legal/wwd7m0/privacy-policy) for more information about the Nickelodeon Sites and online behavioral advertising. Nickelodeon does not behaviorally target advertising to children under 13 on sites that are directed to children or where Nickelodeon has actual knowledge that a user is under 13.
+The Nickelodeon Sites adhere to the Self-Regulatory Principles for Online Behavioral Advertising. Click [here](https://web.archive.org/web/20190625020628id_/https://www.nick.com/legal/wwd7m0/privacy-policy) for more information about the Nickelodeon Sites and online behavioral advertising. Nickelodeon does not behaviorally target advertising to children under 13 on sites that are directed to children or where Nickelodeon has actual knowledge that a user is under 13.
 
 Our Third Party Advertising Service Providers (as defined in Section D) do not have access to Tracking Technologies set by the Nickelodeon Sites except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to other information about you.
 
