@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224061524id_/https%3A//www.tesco.com/help/privacy-and-cookies/privacy-centre/privacy-policy-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625160816id_/https%3A//www.tesco.com/help/privacy-and-cookies/privacy-centre/privacy-policy-information/privacy-policy) for the most accurate reproduction.*
 
 # Tesco – Privacy Policy
 
@@ -399,6 +399,7 @@ To analyse how our services are used, including to test different content versio
   * [Optimizely](https://www.optimizely.com/legal/opt-out/)
   * [Google](https://policies.google.com/?hl=en&gl=uk)
   * [Integral Ad Science](https://integralads.com/uk/privacy-policy/)
+  * [Leanplum](https://www.leanplum.com/privacy/)
 
 
 
