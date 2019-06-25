@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wta.org privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112215010id_/https%3A//www.wta.org/our-work/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wta.org privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625220454id_/https%3A//www.wta.org/our-work/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Washington Trails Association
 
