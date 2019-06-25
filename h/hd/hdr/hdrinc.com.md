@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216030656id_/http%3A//www.hdrinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625035453id_/https%3A//www.hdrinc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HDR
 
@@ -90,7 +90,7 @@ You may make requests regarding the purposes for which your personal information
 
 ### Contact Us
 
-For questions regarding these Website privacy practices, and all other requests relating to how your personal information is processed by HDR, please contact our Data Protection Officer at [privacy [at] hdrinc.com ">privacy [at] hdrinc.com](mailto:%3Cspan%20class=) or by regular mail at HDR’s address for the United States:
+For questions regarding these Website privacy practices, and all other requests relating to how your personal information is processed by HDR, please contact our Data Protection Officer at privacy [at] hdrinc.com or by regular mail at HDR’s address for the United States:
 
 HDR  
 1917 S. 67th Street  
