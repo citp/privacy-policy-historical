@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111050306id_/http%3A//www.lse.co.uk/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626004706id_/http%3A//www.lse.co.uk/privacy-statement.asp) for the most accurate reproduction.*
 
 # London South East - Data Protection and Privacy Statement
 
