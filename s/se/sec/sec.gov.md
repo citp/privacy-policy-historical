@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the sec.gov privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224134609id_/https%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sec.gov privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626000847id_/https%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
 
 # SEC.gov | SEC Web Site Privacy and Security Policy
 
 ## Privacy Policy
 
-  * [Introduction](https://www.sec.gov/privacy.htm#intro)
-  * [Rights Under the Privacy Act of 1974](https://www.sec.gov/privacy.htm#rights)
-  * [Information Collected and Stored Automatically](https://www.sec.gov/privacy.htm#infocollected)
-  * [Information Collected for Website Improvement and Customization (Cookies)](https://www.sec.gov/privacy.htm#cookies)
-  * [Internet Security Policy](https://www.sec.gov/privacy.htm#security)
-  * [Personally Identifiable Information](https://www.sec.gov/privacy.htm#pii)
-  * [Sharing of Your Information](https://www.sec.gov/privacy.htm#sharing)
-  * [Use of Social Media](https://www.sec.gov/privacy.htm#social)
-  * [E-Mail Communications](https://www.sec.gov/privacy.htm#email)
-  * [Authority for Collecting Information](https://www.sec.gov/privacy.htm#authority)
-  * [Information from Children](https://www.sec.gov/privacy.htm#coppa)
-  * [False Statements and Documents](https://www.sec.gov/privacy.htm#false)
-  * [Website Dissemination](https://www.sec.gov/privacy.htm#dissemination)
-  * [Links to Other Web Sites](https://www.sec.gov/privacy.htm#links)
+  * Introduction
+  * Rights Under the Privacy Act of 1974
+  * Information Collected and Stored Automatically
+  * Information Collected for Website Improvement and Customization (Cookies)
+  * Internet Security Policy
+  * Personally Identifiable Information
+  * Sharing of Your Information
+  * Use of Social Media
+  * E-Mail Communications
+  * Authority for Collecting Information
+  * Information from Children
+  * False Statements and Documents
+  * Website Dissemination
+  * Links to Other Web Sites
 
 
 
@@ -34,6 +34,8 @@ The [Privacy Act of 1974, as amended](https://it.ojp.gov/PrivacyLiberty/authori
 If we store information about you in a system of records from which we retrieve that information by personal identifier (e.g., name, personal email address, home mailing address, personal or mobile phone number, etc.), we will safeguard your information in accordance with the Privacy Act. The SEC adheres to Privacy Act requirements with respect to all information about individuals that it collects, maintains, uses, or disseminates in a System of Records, regardless of whether the information pertains to a U.S. Citizen, lawful permanent resident, or a non-U.S. Citizen. However, the rights to seek access to and amendment of covered records, and to bring suit for alleged violations of the Privacy Act, only extend to U.S. citizens and legal permanent residents (as defined in 5 U.S.C. § 552a(a)(2)) and citizens of designated foreign countries or regional economic organizations (as defined under the [Judicial Redress Act of 2015, 5 U.S.C. § 552a note](https://www.congress.gov/114/plaws/publ126/PLAW-114publ126.pdf)). Nonetheless, because we have an interest in maintaining records that are accurate and complete, non-U.S. citizens may seek amendment of records under the procedures described in the SEC’s Privacy Act Regulation.
 
 The SEC’s Privacy Act Regulation can be found at: [17 C.F.R. Subpart H-Regulations Pertaining to the Privacy of Individuals and Systems of Records Maintained by the Commission.](http://www.ecfr.gov/cgi-bin/text-idx?SID=173f890bf4175e24986905fe0e9f8efc&node=sp17.3.200.h&rgn=div6)
+
+Additional information regarding privacy safeguards for non-U.S. citizens’ personal data is available [here](https://web.archive.org/about/offices/information-for-privacy-safeguards-for-non-us-citizens-personal-data).
 
 Personally identifiable information not contained in a system of records is protected under the Federal Information Security Modernization Act of 2014.  44 U.S.C. §§ [3554(a)(1)(A)(i)](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3554&num=0&edition=prelim), [3552(b)(3)(B)](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&num=0&edition=prelim).
 
@@ -75,8 +77,6 @@ Foresee gathers information through an optional survey on SEC.gov.  ForeSee uti
 ForeSee uses a persistent cookie to prevent multiple pop-up survey invitations.  If you decline the survey invitation, or if you complete the survey, this cookie will prevent additional pop-up invitations for 90 days.
 
 Akamai uses a Tier 2 persistent cookie, which ensures your subsequent request for information from our Web site will always return to the same origin datacenter as your original request. The persistent cookie will remain on your computer for one day or until you delete it. The cookie will not collect information from you as the cookie is set at the server level to determine from what datacenter your first request originated. 
-
-SEC uses GovDelivery to send e-newsletters, alerts and other messages to visitors who subscribe to them. To subscribe to an SEC product, you must provide an email address and indicate your subscription preferences, including the items you want to receive. The email subscriber lists are password-protected by GovDelivery. Only the SEC managers who send newsletters, alerts or memos via GovDelivery and staff members who monitor the results of GovDelivery email initiatives have access to the subscriber lists. GovDelivery never allows access to the subscriber lists to anyone outside of SEC for any purpose. GovDelivery collects and provides non-identifying information about the number of messages sent, clicks and open rates. This information is password-protected and only available to designated staff who require this information to perform their duties. The GovDelivery privacy policy is available at: http://www.govdelivery.com/legal-privacy.
 
 You may opt-out of having the ForeSee and Akamai cookies installed on your machine or device by changing the setting of your browser to block them. For instructions on how to block cookies from common browsers and additional information please visit: <http://www.usa.gov/optout_instructions.shtml>.
 
@@ -125,6 +125,8 @@ To view a listing of our Privacy Impact Assessments for our electronic systems a
 ## E-Mail Communications
 
 Our website and many of our programs allow you to send us email messages.  We will use the information you provide to respond to your inquiry. We will only send you general information via email.  You should be mindful that email is not necessarily secure against interception.  Therefore, we suggest that you do not send sensitive PII (such as your social security number) to us via email. With the exception of comments made specifically in response to a Request for Comments (see the [Current SEC Rulemaking](http://www.sec.gov/rules.shtml) page), we do not share your e-mail with any other outside organizations except for authorized law enforcement investigations or in assisting investors with complaints and inquiries. Comments made in response to a Request for Comments are public information and are posted on the site in the rulemaking section.
+
+SEC uses GovDelivery to send e-newsletters, alerts and other messages to visitors who subscribe to them. To subscribe to an SEC product, you must provide an email address and indicate your subscription preferences, including the items you want to receive. The email subscriber lists are password-protected by GovDelivery. Only the SEC managers who send newsletters, alerts or memos via GovDelivery and staff members who monitor the results of GovDelivery email initiatives have access to the subscriber lists. GovDelivery never allows access to the subscriber lists to anyone outside of SEC for any purpose. GovDelivery collects and provides non-identifying information about the number of messages sent, clicks and open rates. This information is password-protected and only available to designated staff who require this information to perform their duties. The GovDelivery privacy policy is available at: http://www.govdelivery.com/legal-privacy.
 
 Electronic mail messages that meet the definition of records in the Federal Records Act (44 U.S.C. § 3301) are covered under the same disposition schedules as other federal records. See 36 C.F.R. Part 1225.  This means that emails you send us will be preserved and maintained for varying periods of time if those emails meet the definition of federal records. Electronic messages that are not records are deleted when no longer needed. See SORN SEC-29, Agency Correspondence Tracking System (ACTS), at Federal Register, 63 Fed. Reg. 11938-11939 (1995), as amended.
 
