@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aenetworks.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228000029id_/https%3A//www.aenetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aenetworks.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626000324id_/https%3A//www.aenetworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | A+E Networks®
 
@@ -32,8 +32,7 @@ Please read this Notice carefully and contact us with any questions. Click on th
 
 
 
-**1\. SCOPE OF THIS NOTICE** ** _  
-_**
+**1\. SCOPE OF THIS NOTICE** ****
 
 Welcome to A+E Networks. The Notice below explains how A&E Television Networks, LLC and its affiliates(“ **[Controller List](http://www.aenetworks.com/controller-list)** “) collect, use and share information about you when you interact with one of our Sites. This Notice describes how we use personal information we collect from your use of our Sites, including tracking technologies, cookies and browsing data, the measures we take to protect your information, and how to contact us if you have any questions or concerns.
 
@@ -45,7 +44,7 @@ The relevant A+E Networks entity that is responsible for your personal informati
 
 The personal information that we collect about you broadly falls into the following categories:
 
-  * __Information that you provide voluntarily__
+  * _Information that you provide voluntarily_
 
 
 
@@ -65,7 +64,7 @@ The personal information that you are asked to provide, and the reasons why you 
 
 We use this information in order to provide our Sites to users in an individual and personalized way and to communicate with our users regarding content and services we believe may interest them, as well as for our other legitimate business purposes.
 
-  * __Information that we collect automatically__
+  * _Information that we collect automatically_
 
 
 
@@ -77,7 +76,7 @@ Collecting this information enables us to better understand the visitors who com
 
 Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading “Cookies and similar tracking technology” [link] below.
 
-  * __Information that we obtain from third-party sources__
+  * _Information that we obtain from third-party sources_
 
 
 
