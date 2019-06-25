@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitigee.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629233226id_/http%3A//adf.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitigee.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625110413id_/http%3A//adf.ly/privacy) for the most accurate reproduction.*
 
 # AdFly - Terms & Conditions
 
