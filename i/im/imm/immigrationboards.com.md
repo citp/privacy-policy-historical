@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigrationboards.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204234710id_/http%3A//workpermit.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigrationboards.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625233915id_/http%3A//workpermit.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Workpermit.com
 
