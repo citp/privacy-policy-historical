@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227224316id_/https%3A//flightaware.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625200827id_/https%3A//flightaware.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy ✈ FlightAware
 
@@ -115,7 +115,7 @@ Our products are not directed to individuals under 16. We do not knowingly colle
 
 ### What about the privacy issues with tracking private aircraft?
 
-Please see [the privacy section of our FAQ.](https://web.archive.org/web/20181227224316id_/https%3A//flightaware.com/about/faq.rvt#privacy)
+Please see [the privacy section of our FAQ.](https://web.archive.org/web/20190625200827id_/https%3A//flightaware.com/about/faq.rvt#privacy)
 
 ### Changes to our Privacy Policy
 
