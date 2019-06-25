@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228004541id_/https%3A//www.pier1.com/privacy_policy.html%3Ficid%3Dfooter-nav-privacy_policy%23nav%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626015231id_/https%3A//www.pier1.com/privacy_policy.html%3Ficid%3Dfooter-nav-privacy_policy%23nav%3Dfooter) for the most accurate reproduction.*
 
-# Privacy Policy | Pier 1 Imports
+# Privacy Policy | Pier 1
 
 Effective Date: This Privacy Policy was last revised on December 1, 2017
 
