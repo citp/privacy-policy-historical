@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecosia.org privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107005100id_/https%3A//info.ecosia.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecosia.org privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625021312id_/https%3A//info.ecosia.org/privacy) for the most accurate reproduction.*
 
 # Learn more about our privacy policy and the data that we do collect
 
@@ -75,7 +75,7 @@ We use a safe and fully encrypted analysis service, which we ourselves operate, 
 Additionally to the data described under 7.g. we collect the following data when you use our app:
 
   * Usage statistics of the app, e.g. which interface elements are interacted with
-  * Data relating to your app or your end device, e.g. the name of the device, its manufacturer, model, operating system number, app number or SDK version and the device number (IMEI)
+  * Data relating to your app or your end device, e.g. the name of the device, its manufacturer, model, operating system number and app number or SDK version
 
 
 
@@ -300,4 +300,4 @@ To assert a refusal or a withdrawal of consent, please contact our Data Protecti
 
 * * *
 
-_Data protection declaration version date: 02/08/2018
+_Data protection declaration version date: 01/02/2019_
