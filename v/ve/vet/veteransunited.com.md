@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223033038id_/https%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625212821id_/https%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Veterans United Home Loans
 
@@ -176,7 +176,7 @@ Columbia, MO 65203
 
 
 
-Call **1-800-884-5560** to speak with a Home Loan Specialist.
+Call **1-855-456-8845** to speak with a Home Loan Specialist.
 
   
 
