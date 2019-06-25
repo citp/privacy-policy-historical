@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whosampled.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025105858id_/https%3A//www.whosampled.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosampled.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625022135id_/https%3A//www.whosampled.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WhoSampled
 
@@ -29,7 +29,7 @@ A "cookie" is a small amount of data sent from the server and stored on your com
 
 Please note that we do not recommend turning cookies off when using the Service as this may prevent you from using certain aspects of the Service and/or the Site. For further information about cookies and how to control their use, please visit the following third party educational resources: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
-To learn how to manage privacy and storage settings for Flash cookies, see <https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)>.
+To learn how to manage privacy and storage settings for Flash cookies, see [Macromedia Support](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118\)).
 
 To change your previously selected cookie consent settings on our Service, click here.
 
