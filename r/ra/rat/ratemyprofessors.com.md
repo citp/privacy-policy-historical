@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyprofessors.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226123647id_/http%3A//www.ratemyprofessors.com/TermsOfUse_us.jsp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyprofessors.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625204913id_/http%3A//www.ratemyprofessors.com/TermsOfUse_us.jsp%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions, Privacy, Policies - Rate My Professors
 
