@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planning.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221162322id_/https%3A//planning.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planning.org privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625194625id_/https%3A//planning.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
