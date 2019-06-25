@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227224135id_/https%3A//www.juno.com/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625200433id_/https%3A//www.juno.com/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
 
 # Juno - Privacy and Security
 
-**Last Updated: March 20, 2013**
+**Last Updated: January 3, 2018**
 
 **Introduction: What This Privacy Policy Covers**
 
@@ -16,7 +16,7 @@
 >   6. Changes to the Privacy Policy
 >   7. International Users
 > 
-This Policy applies to the Sites and Services only. When you visit websites to which we link, or if you click on third party advertisements that appear on our Sites, you will be interacting with a third party that operates under its own privacy and security policies. For example, a third party website will have its own policy regarding the use of cookies and web beacons or collection of your information. If you choose to obtain products or services from such third parties, the data collected by the third party is governed by that third party's privacy policy. We encourage you to review the privacy policies of any other website from whom you request products or services.   
+This Policy applies to the Sites and Services only. When you visit websites to which we link, or if you click on third party advertisements that appear on our Sites, you will be interacting with a third party that operates under its own privacy and security policies. For example, a third party website will have its own policy regarding the use of cookies and web beacons or collection of your information. In addition, you may choose to use services and products offered by third parties through our Services or devices such as third party applications. Your use of such services and applications may result in these third parties collecting your personal information and obtaining information from Juno, including location information (when applicable). You may also choose to give personal information directly to third parties when using such services. In each case, personal information you give a third party will be subject to its terms, conditions, and policies-not this policy. You should review a third party's privacy policy and terms of service before providing your information or using the service. We encourage you to review the privacy policies of any other website or application from which you request products or services. You can access and update most of your basic account information by visiting your account page. Because your privacy is important to us, we may ask you to verify your identity or provide additional information before we let you access or update your personal information.   
 > 
 
 **I. Collection of Your Information  
@@ -34,15 +34,16 @@ This Policy applies to the Sites and Services only. When you visit websites to w
 >   * your occupation; and 
 >   * other household and demographic information. 
 > 
-If you join one of our paid Services, we will also collect: 
+If you join one of our paid Services, we may also collect the following information which is necessary for the performance of the contract between you and Juno: 
 >   * billing and payment information, such as your credit card number and billing address. 
 > 
 In addition to information collected from you during registration, we collect information you provide through: 
 >   * online surveys; 
 >   * contest and sweepstakes entries; 
 >   * technical and customer service calls; 
->   * your voluntary submission of information; and
->   * email correspondence with us. 
+>   * your voluntary submission of information;
+>   * email correspondence with us; and 
+>   * acceptance of our applications that interact with third party sites or services, such as Facebook or Twitter.
 > 
 Note that surveys may be conducted by an independent third party and completion of surveys is voluntary. If you do not wish to participate in a survey, simply decline to participate when asked, but we would like your feedback in order to improve our Sites and Services. 
 > 
@@ -54,14 +55,13 @@ Note that surveys may be conducted by an independent third party and completion 
 >   * what type of browser you use; 
 >   * software on your computer, mobile device or other similar device; 
 >   * processor type;
->   * operating system; 
->   * IP address; and 
->   * navigational data such as the URLs you visit and any searches you may perform.
+>   * operating system; and 
+>   * IP address.
 > 
 As you browse and interact with our Sites, we collect information related to your use of the Sites and Services, including: 
 >   * how often you visit the Sites; 
 >   * how often you use the Services; 
->   * how you navigate and conduct searches on our Sites; and
+>   * navigational data such the URLs you visit and searches you may perform; and
 >   * your interaction with advertisements and other links that are contained within our Sites. 
 > 
 Although we reserve the right to monitor Site activity, we will not intentionally disclose any private email messages or online communication between you and a third party, except in the following circumstances: 
@@ -80,13 +80,18 @@ Please see Section II of this Policy to see how we use, share and disclose infor
 > 
 > Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movement of users. Web beacons help us and our third party partners better manage content delivery by informing us when you are on our Sites and what content is effective. We also use web beacons in our emails to let us know which emails you have opened. 
 > 
+> Juno does not currently take action as to Do Not Track signals because a uniform technological standard has not been developed.
+> 
 > Please see Sections II and III of this Policy to see how we use, share and disclose information collected through technological methods. 
+> 
+> **E. Retention of Information:**   
+>  Juno retains the information we collect for as long as necessary to (i) provide our services to you, (ii) comply with legal obligations, (iii) resolve disputes, and (iv) enforce our agreements. 
 
 **II. Use, Sharing & Disclosure of Your Information   
 **
 
 > **A. How we use your information:**  
->  We use the information we collect in a variety of ways, including: 
+>  We use the information we collect to achieve our legitimate interests, including: 
 > 
 >   * to operate and improve the Sites and Services;
 >   * to fulfill a transaction or request; 
@@ -95,14 +100,16 @@ Please see Section II of this Policy to see how we use, share and disclose infor
 >   * to better tailor and target advertisements and content to you while you are on and off our Sites;
 >   * to communicate with you; 
 >   * to offer you products and services including offers from our Affiliates or Advertisers;
->   * to conduct research; and 
->   * to develop research reporting for us, our Affiliates and third party market research partners.
+>   * to conduct research; 
+>   * to develop research reporting for us, our Affiliates and third party market research partners; and
+>   * to verify your identity, and help prevent fraud and identity theft.
 > 
 **B. How we share your information:**  
->  We may share your information, including in some cases information that specifically identifies you such as your name, your email address, your physical address or telephone number (" **personally identifiable information** " or " **PII** "), with Affiliates and trusted third party partners in the following ways: 
+>  We may share your information, including in some cases information that specifically identifies you such as your name, your email address, your physical address or telephone number (" **personally identifiable information** " or " **PII** "), with Affiliates and trusted third party partners in ways including the following: 
 > 
 >   * to help operate the Sites and Services; 
 >   * to facilitate fulfillment of a transaction or request; 
+>   * to assist with identity verification, and prevention of fraud and identity theft;
 >   * to serve you advertisements and to improve the effectiveness of targeted advertising (see Section III of this Policy for more information); or
 >   * to provide research reporting for us, our Affiliates and third party partners.
 > 
@@ -110,7 +117,7 @@ Examples of third party partners include vendors who process credit cards paymen
 > 
 > In addition, we may share information in the following circumstances: 
 > 
->   * without notice, to law enforcement or government agencies in response to subpoenas, court orders, or other legal process (including civil and criminal) or otherwise as required by law; 
+>   * without notice, to law enforcement or government agencies in response to subpoenas, court orders, or other legal process (including civil and criminal) or otherwise as necessary for compliance with a legal obligation to which we are subject; 
 >   * in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person, or in cases where we believe the Terms of Service or Acceptable Use Guidelines are being violated; or 
 >   * in connection with the actual or potential sale of our business. 
 > 
@@ -122,7 +129,7 @@ Please see Section I of this Policy to see the types of information we collect.
 > **A. Targeted Advertising Opt-Outs:**  
 >  We may display targeted advertisements to you while you are on and off our Sites based on information we obtain from you, about you, and/or from third parties. 
 > 
-> We work with advertisers, agencies, and other companies that connect advertisers to the Internet (collectively, " **Advertisers** ") in order to display targeted advertisements to you while you are on and off our Sites. These advertisements are targeted based on information that we or third parties may have collected about you such as demographic information (gender, age, general geographic location, etc.) as well as behavioral information. Behavioral information is information about your preferences that is collected or inferred based on, among other things, online data such as the URLs or websites you visit and searches you perform, and offline data such as your purchases and subscriptions. 
+> We work with advertisers, agencies, and other companies that connect advertisers to the Internet (collectively, " **Advertisers** ") in order to display targeted advertisements to you while you are on and off our Sites. These advertisements are targeted based on information that we or third parties may have collected about you such as demographic information (gender, age, general geographic location, etc.) as well as behavioral information. Behavioral information is information about your preferences that is collected or inferred based on, among other things, online data such as the URLs or websites you visit and searches you perform, and offline data such as your purchases and subscriptions. Information shared with Advertisers is pseudonymized prior to transfer. 
 > 
 > We and our Advertisers may use technological methods to measure the effectiveness of advertisements and to personalize advertising content; for example, web beacons may enable us or our Advertisers to recognize your browser when you visit our Sites or when you open an email. In addition, a unique third party cookie may be placed or recognized on your browser when you visit our Sites or when you open an email. 
 > 
@@ -139,7 +146,7 @@ Please see Section I of this Policy to see the types of information we collect.
 > 
 > Since it is necessary for us to contact you regarding certain matters, you may not opt out of receiving messages related to material company announcements or policy changes, or administrative matters relating to your account, like billing, collections, customer service or similar matters. 
 > 
-> If you subscribe to a free or discounted version of a Service, you acknowledge that as a condition of receiving such free or discounted Service, you are required to receive information and advertising solicitations from third party Advertisers. You may opt out of receiving such communications from the Advertiser by following the instructions provided by the Advertiser. These solicitations are a condition of receiving the free or discounted Service and you agree that if you opt out of receiving these solicitations you are required to terminate the relevant Service. 
+> If you subscribe to a free or discounted version of a Service, you acknowledge that as a condition of receiving such free or discounted Service, you are required to receive information and advertising solicitations from third party Advertisers. You may opt out of receiving individual communications from each Advertiser by following the instructions provided by the Advertiser. These solicitations are a condition of receiving the free or discounted Service and you agree that if you opt out of receiving these solicitations you are required to terminate the relevant Service. 
 
 **IV. How We Keep Your Information Secure**
 
@@ -151,7 +158,7 @@ Juno believes it is important for parents and guardians to participate in and mo
 
 **VI. Changes to the Privacy Policy**
 
-By using the Sites or Services, you signify your acceptance to this Policy. If you do not agree to this Policy, please do not use any of the Sites or Services. We reserve the right to make changes in this Policy at any time. Please check the Policy each time you use our Sites or Services to ensure you are aware of any changes in our privacy practices. Your continued use of our Sites or Services will signify your acceptance of the changes to this Policy. Notification of any changes to this Policy will be posted on the Juno home page and/or member start page. 
+By using the Sites or Services, you signify your acceptance to this Policy. If you do not agree to this Policy, please do not use any of the Sites or Services. We reserve the right to make changes in this Policy at any time. Please check the Policy each time you use our Sites or Services to ensure you are aware of any changes in our privacy practices. Your continued use of our Sites or Services will signify your acceptance of the changes to this Policy. Notification of any material changes to this Policy will be posted on the Juno home page and/or member start page. 
 
 If you have any questions about this Policy please contact us at: 
 
@@ -163,7 +170,7 @@ privacy@support.juno.com.
 
 **VII. International Users**
 
-The information we collect from users is processed and maintained in the United States, where privacy laws may not be as protective as in your home country. If you are using our Sites or Services from outside of the United States, by providing information to us you are consenting to the transfer of the information to the United States for processing in a manner consistent with this Policy. 
+The information we collect from users is processed and maintained in the United States, where privacy laws may not be as protective as in your home country. If you are using our Sites or Services from outside of the United States, by providing information to us you are consenting to the transfer of the information to the United States for processing in a manner consistent with this Policy.If you are accessing this website from a European Union member state, you have the right to object to the collection and processing of your personal data as set forth in this Privacy Policy, and if you wish to do so please notify us at [privacy@support.juno.com](mailto:privacy@support.juno.com). Please bear in mind that if you object this may affect our ability to provide you with the Services. 
 
 * * *
 
