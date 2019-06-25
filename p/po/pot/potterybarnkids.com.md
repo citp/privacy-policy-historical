@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potterybarnkids.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123200110id_/https%3A//www.potterybarnkids.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potterybarnkids.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625200008id_/https%3A//www.potterybarnkids.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
 
 # Privacy Policy | Pottery Barn Kids
 
