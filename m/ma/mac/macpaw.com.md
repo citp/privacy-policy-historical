@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229142218id_/https%3A//macpaw.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625225142id_/https%3A//macpaw.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy for MacPaw Products: CleanMyMac 3, Hider 2, Gemini 2, and the rest
+# Privacy Policy - MacPaw
 
-**Updated May 20, 2018**
+At MacPaw, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information. We’ll also explain what choices you have with respect to the information.  
 
-At MacPaw, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information. We’ll also explain what choices you have with respect to the information. 
 
-## Applicability Of This Privacy Policy
-
-This Privacy Policy applies to MacPaw desktop and mobile applications (collectively, the “Products”), MacPaw.com and other MacPaw websites (collectively, the “Sites”) and other interactions (e.g., customer service inquiries, user conferences, etc.) you may have with MacPaw. If you do not agree with the terms, do not access or use the Products, Sites or any other aspect of MacPaw’s business. 
+This Privacy Policy applies to MacPaw desktop and mobile applications (collectively, the “Products”), MacPaw.com and other MacPaw websites (collectively, the “Sites”) and other interactions (e.g., customer service inquiries, user conferences, etc.) you may have with MacPaw. If you do not agree with the terms, do not access or use the Products, Sites or any other aspect of MacPaw’s business.
 
 This policy applies to the Company’s employees, contractors and officers.
 
@@ -16,65 +13,85 @@ The Company has a contract with all Data Processors that it uses in compliance w
 
 The policy does not apply to third party services. Where third party services are used, and the third party is not a Data Processor, no Relevant Data (as defined below) is shared with them, or the Relevant Data has been anonymised such that the GDPR does not apply. Information collected by third parties is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.
 
-In addition, a separate agreement governs delivery, access and use of the Products (the “User Agreement”).
+In addition, a separate agreement governs delivery, access and use of the Products (the “User Agreement”),
 
 This policy applies to Relevant Data received and processed only.
 
-## Definitions
-
 Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided below:
 
-_**Products:**_
+**_MacPaw Family of Companies_** \- the list of the MacPaw family of companies is as follows:
 
-  * CleanMyMac Classic,2,3
-  * Gemini 1, 2
-  * CleanMyDrive 2
-  * Gemini Photos
-  * CleanMyPC
-  * Hider 2
-  * Encrypto
-  * Encrypto for Windows
-  * The Unarchiver
-  * WallWiz
-  * Listen
-  * Support Tool
+**_MacPaw Inc._**
 
+5201 Great American Pkwy Ste 320
 
+Santa Clara, CA, 95054-1140 United States
 
-_**Relevant Data**_ \- Personal Data and Special Categories of Data are the Relevant Data covered by this policy and as defined in the Data Protection Legislation.
+**_Setapp Limited_**
 
-_**Personal Data**_ \- any information relating to an identified or identifiable natural person.
+9 Tallow Street, Youghal, Co. Cork, P36YE14
 
-_**Special Categories of Data**_ \- Personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, biometric data and data concerning health or a person’s sex life or sexual orientation.
+**_MacPaw Labs Ltd._**
+
+21 Davidson Road, Croydon, CR0 6DL
+
+**_Products_** : 
+
+\- CleanMyMac Classic,2,3
+
+\- CleanMyMac X
+
+\- Gemini 1, 2
+
+\- CleanMyDrive 2
+
+\- Gemini Photos
+
+\- CleanMyPC
+
+\- Hider 2
+
+\- Encrypto
+
+\- Encrypto for Windows
+
+\- The Unarchiver
+
+\- WallWiz
+
+\- Listen
+
+\- Support Tool
+
+**_Relevant Data_** \- Personal Data and Special Categories of Data are the Relevant Data covered by this policy and as defined in the Data Protection Legislation.
+
+**_Personal Data_** \- any information relating to an identified or identifiable natural person.
+
+**_Special Categories of Data_** \- Personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, biometric data and data concerning health or a person’s sex life or sexual orientation.
 
 **_Processing/Processed_** \- any operation on personal data, whether automated or not.
 
-## Information We Collect and Receive
-
 When you interact with our Sites and Products, we collect Information that, alone or in combination with other data, could be used to identify you (Personal Data). Some of the Information we collect is stored in a manner that cannot be linked back to you (Non-Personal Data).
 
-### Payments Information
-
-Payments information provided by you via the Sites will be stored and processed by Paddle.com Market Limited and any other third party service providers as designated by us from time to time. We will collect certain information on the Sites required for Paddle.com Market Limited and such third party services providers to process payments, including credit / debit card numbers, security numbers and other related payment information. All such information is subject to the privacy policy of Paddle.com Market Limited (available here <https://paddle.com/privacy> ) or any other third party service provider as applicable.
-
-### Other Information
-
-MacPaw also collects, generates and/or receives Other Information:
+MacPaw collects, generates and/or receives the following Information:
 
 ### Usage Information
 
-Certain data about the devices you use to connect with MacPaw and your use of the Sites and/or Products are automatically logged in our systems, including:
+Certain data about the devices you use to connect with MacPaw and your use of the Site and/or Product are automatically logged in our systems, including:
 
-  * Location information. This is the geographic area where you use your computer and mobile devices (as indicated by an Internet Protocol [IP] address or similar identifier) when interacting with our Sites and/or Products.
-  * Log data. As with most websites and technology services delivered over the internet, our servers automatically collect data when you access or use our Sites and/or Products and record it in log files. This log data may include the IP address, browser type and settings, the date and time of use, information about browser configuration, language preferences, and cookie data.
-  * Products and Sites Specific Data. This is information about the MacPaw Sites and/or Products you use and how you use them. We may also obtain data from our third-party partners and service providers to analyze how users use our Sites and/or Products. For example, we will know how many users access a specific page on the Site and which links they clicked on. We use this aggregated information to better understand and optimize the Site.
-  * Device information. These are data from your computer or mobile device, such as the type of hardware and software you are using (for example, your operating system and browser type), as well as unique device identifiers for devices that are using MacPaw Products.
+  * Сontact details, namely, email.
+  * Location information. This is the geographic area where you use your computer and mobile devices (as indicated by an Internet Protocol [IP] address or similar identifier) when interacting with our Site and/or Product.
+  * Log data. As with most websites and technology services delivered over the internet, our servers automatically collect data when you access or use our Site and/or Product and record it in log files. This log data may include the IP address, browser type and settings, the date and time of use, information about browser configuration, language preferences, and cookie data.
+  * Product and Site Specific Data. This is information about the Site and/or Product you use and how you use them. We may also obtain data from our third-party partners and service providers to analyze how users use our Site and/or Product. For example, we will know how many users access a specific page on the Site and which links they clicked on. We use this aggregated information to better understand and optimize the Site.
+  * Device information. These are data from your computer or mobile device, such as the type of hardware and software you are using (for example, your operating system and browser type), as well as unique device identifiers for devices that are using MacPaw Product.
 
 
+
+The detailed information on the basis for collection, storage and processing of each type of personal information is provided in Lawful Basis for Personal Data Processing section of Privacy Policy.
 
 ### Cookies
 
-MacPaw uses cookies and similar technologies in our Sites and Services that help us collect Other Information. The Sites and Services may also include cookies and similar tracking technologies of third parties, which may collect Other Information about you via the Sites and Services and across other websites and online services. For more details about how we use these technologies, please see our [Cookie Policy](https://web.archive.org/cookies).
+MacPaw uses cookies and similar technologies in our Site and Services that help us collect Other Information. The Site and Services may also include cookies and similar tracking technologies of third parties, which may collect Other Information about you via the Site and Services and across other websites and online services. For more details about how we use these technologies, please see our [Cookie Policy](https://docs.google.com/document/d/1-otwRNCOUK2bonVAdSlt3Ow3zmPAcPkgLjKXZ7bnGtw/edit).
 
 ### Third Party Data
 
@@ -82,28 +99,30 @@ Macpaw may receive data about Site visitors, marketing campaigns and other matte
 
 ### Additional Information Provided to MacPaw
 
-We receive Other Information when submitted to our Sites or if you participate in a focus group, contest, activity or event, apply for a job, request support, interact with our social media accounts or otherwise communicate with MacPaw.
+We receive Other Information when submitted to our Site or if you participate in a focus group, contest, activity or event, apply for a job, request support, interact with our social media accounts or otherwise communicate with MacPaw.
 
-## Collection Information from Children
+Payment Information
+
+Our order process is conducted by our online reseller Paddle.com. Paddle.com is the Merchant of Record for all our orders. Paddle provides all customer service inquiries and handles returns.
+
+Payments information (these include name, location, contact details, and billing information) provided by you will be stored and processed by Paddle.com. All such information is subject to the privacy policy of Paddle.com (available here <https://paddle.com/privacy> ).
+
+Paddle and us have a legitimate interest to use provided data for product fulfilment, order processing, fraud prevention, and product support.
 
 MacPaw does not knowingly collect personal information from children under the age of 13. If we determine we have collected personal information from a child younger than 13 years of age, we will take reasonable measures to remove that information from our systems. If you are under the age of 13, please do not submit any personal information through the Site and/or Products. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide personal information through the Sites and/or Products without their permission.
-
-## Using Your Information by MacPaw
 
 We use, process, and store your information as necessary to perform our contract with you and for our legitimate business interests, in operating our Sites, Products, Services, and business including:
 
   * to help us administer our Sites and/or Products, authenticate users for security purposes, provide personalized user features and access, process transactions, conduct research, develop new features, and improve the features, algorithms, and usability of our Sites and/or Products;
   * As required by applicable law, legal process or regulation.
   * to calculate aggregate statistics on the number of unique devices using our Sites and/or Products;
-  * to send emails and other communications. We may send you service, technical and other administrative emails, messages and other types of communications. We may also contact you to inform you about changes in our Products, our Products offerings, and important Products-related notices, such as security and fraud notices. These communications are considered part of the Products and you may not opt out of them. In addition, we sometimes send emails about new product features, promotional communications or other news about MacPaw. We will only send you marketing information if you consent to us;
-  * for billing, account management and other administrative matters. MacPaw may need to contact you for invoicing, account management and similar reasons and we use account data to administer accounts and keep track of billing and payments.
+  * to send emails and other communications. We may send you service, technical and other administrative emails, messages and other types of communications. We may also contact you to inform you about changes in our Products, our Products offerings, and important Products-related notices, such as security and fraud notices. These communications are considered part of the Products and you may not opt out of them. In addition, we sometimes send emails about new product features, promotional communications or other news about MacPaw. We will only send you marketing information if you consent to us;
+  * for billing, account management and other administrative matters. MacPaw may need to contact you for invoicing, account management and similar reasons and we use account data to administer accounts and keep track of billing and payments.
   * to investigate and help prevent security issues, fraud and abuse.
 
 
 
-If information is aggregated or de-identified so it is no longer reasonably associated with an identified or identifiable natural person, MacPaw may use it for any business purpose. 
-
-## How We Share And Disclose Information
+If information is aggregated or de-identified so it is no longer reasonably associated with an identified or identifiable natural person, MacPaw may use it for any business purpose.
 
 We only disclose Personal Data to third parties when:
 
@@ -120,7 +139,7 @@ MacPaw does not share your Personal Data with third parties for the purpose of e
 
 MacPaw does not sell or rent your Personal Data.
 
-**Third Parties’ Applications and Products**
+### Third Parties’ Applications and Products
 
 Some third-party applications and services that work with us may ask for permission to access your information. Those applications will provide you with notice and request your consent in order to obtain such access or information. Please consider your selection of such applications and services, and your permissions, carefully.
 
@@ -128,25 +147,23 @@ Some third parties’ embedded content or plugins on our Sites and/or Products, 
 
 Data collected by third parties through these apps and plugins is subject to each parties’ own policies. We encourage you to read those policies and understand how other companies use your data.
 
-**E-mailing by MacPaw**
+### E-mailing by MacPaw
 
-From time to time, we may want to contact you with information about product announcements, software updates, and special offers. We also may want to contact you with information about products and services from our business partners. 
+From time to time, we may want to contact you with information about product announcements, software updates, and special offers. We also may want to contact you with information about products and services from our business partners.
 
 We only send marketing communications to users with your prior consent.
 
 All MacPaw account holders will continue to receive transactional messages related to our Products, even if you unsubscribe from promotional emails.
 
-## Data storage, transfer, retention, and deletion
+## Data Storage and Transfers
 
-### Data Storage and Transfers
+Information submitted to MacPaw will be transferred to, processed, and stored in the United States. We also process your Personal Data in the UK, Republic of Ireland. Data stored and processed by MacPaw may sometimes be moved between these zones (in a secure manner). When you use the Product on your computing device, user content you save will be stored locally on that device and synced with our servers. If you post or transfer any information to or through our Site and/or Product, you are agreeing to such information, including Personal Data and user content, being hosted and accessed in the United States, UK and Republic of Ireland.
 
-Information submitted to MacPaw will be transferred to, processed, and stored in the United States. When you use the Products on your computing device, user content you save will be stored locally on that device and synced with our servers. If you post or transfer any Information to or through our Sites and/or Products, you are agreeing to such information, including Personal Data and user content, being hosted and accessed in the United States.
+## Duration of Information Storage
 
-### Duration of Information Storage
+As the general rule, we retain your data while you are a customer (some types of data are automatically deleted every 30 days) and will delete your information within 30 days of either party’s termination of the Terms of Use or upon written request. You can remove your Personal Data from MacPaw at any time by emailing us with the respective request: [support@macpaw.com](mailto:support@macpaw.com). However, we may keep some of your Personal Data for as long as reasonably necessary for our legitimate business interests, including fraud detection and prevention and to comply with our legal obligations including tax, legal reporting, and auditing obligations.
 
-You can remove your Personal Data from MacPaw at any time by emailing us with the respective request: [support@macpaw.com](mailto:support@macpaw.com). However, we may keep some of your Personal Data for as long as reasonably necessary for our legitimate business interests, including fraud detection and prevention and to comply with our legal obligations including tax, legal reporting, and auditing obligations.
-
-### Safeguards
+## Safeguards
 
 When you give us personal information, we take steps to make sure that it’s treated securely.
 
@@ -154,13 +171,13 @@ Non-sensitive details (your email address etc.) are sent normally over the Inter
 
 We use industry-standard encryption to protect your data in transit. This is commonly referred to as transport layer security (“TLS”) or secure socket layer (“SSL”) technology.
 
-Once we receive your data, we protect it on our servers using a combination of technical, physical, and logical security safeguards. The security of the data stored locally in any of our Products installed on your computing device requires that you make use of the security features of your device. We recommend that you take the appropriate steps to secure all computing devices that you use in connection with our Site and Products.
+Once we receive your data, we protect it on our servers using a combination of technical, physical, and logical security safeguards. The security of the data stored locally in any of our Product installed on your computing device requires that you make use of the security features of your device. We recommend that you take the appropriate steps to secure all computing devices that you use in connection with our Site and Product.
 
 The Company takes the security of your data very seriously and works to protect your data from loss, misuse and unauthorised access or disclosure.
 
 All staff and officers who handle Relevant Data are aware of this policy and have been given training in how to correctly collect, process, store and delete data. The Company holds a log of when staff training was undertaken and updates it on an annual basis.
 
-### Data Breaches
+## Data Breaches
 
 All breaches will be reported to the relevant supervisory authority within 72 hours, unless the data was anonymised or encrypted or if it has a particularly high risk.
 
@@ -168,25 +185,40 @@ Breaches of this policy by staff, contractors, officers of the Company will be d
 
 If MacPaw learns of a security system breach, we may attempt to notify you and provide information on protective steps, if available, through the email address that you have provided to us or by posting a notice on the Site. Depending on where you live, you may have a legal right to receive such notices in writing.
 
-## Your Rights
+MacPaw uses, processes, and stores Personal Data, as necessary to perform our contract with you, and based on our legitimate interests in order to provide the services in connection with the Product and maintaining Product’s functionality, namely:
 
-MacPaw uses, processes, and stores Personal Data, as necessary to perform our contract with you, and based on our legitimate interests in order to provide the Products and Services. We rely on your consent to process Personal Data to send promotional emails and to place cookies on your devices. In some cases, MacPaw may process Personal Data pursuant to legal obligation or to protect your vital interests or those of another person.
+  * Log data (crash data and other diagnostic reports; cleanup logs: files path and size, system libraries versions, scan/removal duration, device information) - for identifying and fixing defects in Product's functionality. Logs and entire reports are important to analyze user problems, application misfunctions and crashes. Data is mandatory and is frequently the main source, which helps to understand and resolve application issues.
+  * Device information: Operating System (OS) running on your device, Internet Protocol (IP) address, access times, browser type, and language, OS localization, CMM bundle IDs,  CMM version, screen resolution, cid, battery info, RAM usage info, drive info, processor info, GPU info, disk info (type, total, free, backups), files metadata, applications preferences data, installed applications, network names and preferences,  
+computer uptime in hours. - to identify and localize user issues (bugs) and to understand and localize user problems, for the Product correct scanning and cleaning logic, actually, Product functioning.
+  * We are collecting your data when you’re contacting our customer support team via call, email or another communication tool. The purpose of collecting is for helping you to solve any issue you have with our services. The legal basis of collecting is fulfillment of our contractual or pre-contractual obligations to you. Additionally, we may record the calls. The purpose of call recording is quality control of our customer support services and personnel training. The legal basis of call recording is our legitimate interests in retaining you as a customer and providing you with first-class customer support services.
 
-Individuals located in the European Economic Area (EEA) have certain rights in respect to their personal information, including the right to access, correct, or delete Personal Data we process through your use of the Sites, Software, and/or Products. If you’re a user based in the EEA, you can:
+
+
+We rely on your consent to process Personal Data:
+
+  * to send promotional emails,
+  * to place cookies on your devices and
+  * for in-app analytics events and actions, used by us to understand user behaviour, analyze and optimize it.
+
+
+
+In some cases, MacPaw may process Personal Data pursuant to legal obligation or to protect your vital interests or those of another person.
+
+Individuals located in the European Economic Area (EEA) have certain rights in respect to their personal information, including the right to access, correct, or delete Personal Data we process through your use of the Site and/or Product. If you’re a user based in the EEA, you can:
 
   * Have your Personal Data corrected or deleted. You may ask us to correct information you think is inaccurate or completely delete all information that we hold about you by emailing: [support@macpaw.com](mailto:support@macpaw.com).
-  * Access your Personal Data report by submitting a request at support@macpaw.com. This report will include the Personal Data we have about you, provided to you in a structured, commonly used, and portable format.
-  * Object to us processing your Personal Data. It is your right to lodge an objection to the processing of your personal data by emailing: [support@macpaw.com](mailto:support@macpaw.com) if you feel the “ground relating to your particular situation” apply. The only reasons we will be able to deny your request is if we can show compelling legitimate grounds for the processing, which override your interest, rights and freedoms, or the processing is for the establishment, exercise or defence of a legal claims.
-  * You can ask us to stop using your Personal Data, including when we use your Personal Data to send you marketing emails. We only send marketing communications to users located in the EEA with your prior consent, and you may withdraw your consent at any time by clicking the “unsubscribe” link found within MacPaw emails and changing your contact preferences. Please note you will continue to receive transactional messages related to our Products, even if you unsubscribe from marketing emails.
+  * Access your Personal Data report by submitting a request at [support@macpaw.com](mailto:support@macpaw.com). This report will include the Personal Data we have about you, provided to you in a structured, commonly used, and portable format.
+  * Object to us processing your Personal Data. It is your right to lodge an objection to the processing of your personal data by emailing: [support@macpaw.com](mailto:support@macpaw.com) if you feel the “ground relating to your particular situation” apply.  The only reasons we will be able to deny your request is if we can show compelling legitimate grounds for the processing, which override your interest, rights and freedoms, or the processing is for the establishment, exercise or defence of a legal claims.
+  * You can ask us to stop using your Personal Data, including when we use your Personal Data to send you marketing emails. We only send marketing communications to users located in the EEA with your prior consent, and you may withdraw your consent at any time by clicking the “unsubscribe” link found within MacPaw emails and changing your contact preferences. Please note you will continue to receive transactional messages related to our Product, even if you unsubscribe from marketing emails.
   * Complain to a regulator. If you’re based in the EEA and think that we haven’t complied with data protection laws, you have a right to lodge a complaint with your local supervisory authority.
 
 
 
-**Data Protection Officer**
+### Data Protection Officer
 
 To communicate with our Data Protection Officer, please email [dpo@macpaw.com](mailto:dpo@macpaw.com).
 
-**EEA Representative**
+### EEA Representative
 
 The Company is not established in the EU and therefore VeraSafe has been appointed as MacPaw’s representative in the EEA for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union.
 
@@ -194,23 +226,18 @@ To make such an inquiry, please contact VeraSafe using this contact form: <https
 
 Alternatively, VeraSafe can be contacted at:
 
-VeraSafe Ireland Ltd
+VeraSafe Czech Republic s.r.o
 
-Unit 3D North Point House  
-VeraSafe Ireland Ltd  
-North Point Business Park  
-New Mallow Road  
-Cork T23AT2P  
-Ireland 
+Klimentská 46
 
-Phone: [+1-617-398-7067](tel:+1-617-398-7067)
+Prague 1, 11002
 
-## Changes to our Privacy Policy
+Czech Republic
 
-This privacy policy was last updated on 20 May 2018 and this version is in line with the new GDPR guidelines.
+Contact form: [https://www.verasafe.com/privacy-services/contact-article-27-representative](http://a.insgly.net/api/trk?id=emailclick&i=785717&eid=105368002&url=https%3a%2f%2fwww.verasafe.com%2fprivacy-services%2fcontact-article-27-representative&env=https%3a%2f%2fgoogleapps.insight.ly)
+
+This privacy policy was last updated on 25 March 2019 and this version is in line with the new GDPR guidelines.
 
 We may need to update this Policy to keep pace with changes in our Sites, Products, and Services, our business, and laws applicable to us and you. We will, however, always maintain our commitment to respect your privacy. We will notify you of any material changes that impact your rights under this Policy by email (to your most recently provided email address) or post any other revisions to this Policy, along with their effective date, in an easy-to-find area of the Sites, so we recommend that you periodically check back here to stay informed of any changes. Please note that your continued use of MacPaw after any change means that you agree with, and consent to be bound by, the new Policy. If you disagree with any changes in this Policy and do not wish your information to be subject to it, you will need to stop using the Sites and/or Products.
 
-## Contact us
-
-You may contact us with any questions relating to this Privacy Policy by e-mailing: [support@macpaw.com](mailto:support@macpaw.com)
+You may contact us with any questions relating to this Privacy Policy by e-mailing: support@macpaw.com
