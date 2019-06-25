@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbackresearch.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025180659id_/http%3A//www.cashbackresearch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackresearch.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625064531id_/http%3A//www.cashbackresearch.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
