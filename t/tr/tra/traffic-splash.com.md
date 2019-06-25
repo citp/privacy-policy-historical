@@ -1,97 +1,78 @@
-> *The following text is extracted and transformed from the traffic-splash.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614155949id_/http%3A//www.traffic-splash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffic-splash.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625113529id_/http%3A//www.traffic-splash.com/privacy.php) for the most accurate reproduction.*
 
-# Traffic-Splash Manual Traffic Exchange | Internet Advertising | Web site Advertising
+# Traffic-Splash
 
-**Privacy Policy**
+This site is owned and operated by [Traffic-Splash.com](http://www.traffic-splash.com/). Your privacy on the Internet is of the utmost importance to us. At Traffic-Splash.com, we want to make your experience online satisfying and safe. 
 
-This privacy policy sets out how Traffic-Splash uses and protects any information that you give Traffic-Splash when you use this website. 
+Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
-Traffic-Splash is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+Definition of the Information Traffic-Splash.com gathers and keeps track of. 
 
-Traffic-Splash will never sell, rent, or lease any information contained in your membership profile. 
+Traffic-Splash.com gathers two types of information about users: 
 
-Information obtained about you for the purpose of creating your Traffic-Splash membership shall be used only for the purpose of maintaining and updating your membership, as well as direct email contact from Traffic-Splash and your Traffic-Splash upline/downline (if you allow this in your profile). 
+1\. Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive more information on our services, special promotions or to receive our newsletter. 
 
-Traffic-Splash reserves the right to investigate using any and all means necessary, should there be reason to believe unauthorized transactions are processed in your name. We will then take every precaution possible to protect our members from identify theft both here at Traffic-Splash and elsewhere. 
+2\. Information Traffic-Splash.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Traffic-Splash.com derives its revenue mainly from its services, providing such aggregated demographic data is essential to keeping our services tailored to our users. Under no circumstances does Traffic-Splash.com divulge any information about an individual user to a third party. 
 
-Traffic-Splash may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 11/03/16. 
+* * *
 
-**What we collect**
+### Traffic-Splash.com Gathers User Information In The Following Processes:
 
-We may collect the following information: 
+### OPTIONAL VOLUNTARY INFORMATION
 
-  * Name and other personal information you might provide in your profile 
-  * Contact information including email address 
-  * Information about your network/computer including IP address and browser type 
-  * Date and time of your visits and registration and where you came from 
-  * Information about your activity on the website 
-  * Demographic information such as postcode, preferences and interests 
-  * Other information relevant to customer surveys and/or offers 
+We offer the following free services, which require some type of voluntary submission of personal information by users: 
 
+1\. **Electronic newsletters (Dispatches)**
 
+We will offer a free electronic newsletter to users. Traffic-Splash.com gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration. 
 
-**What we do with the information we gather**
+2\. **"E-mail this to a friend" Service**
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose. 
 
-  * Internal record keeping. 
-  * We may use the information to improve our products and services. 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests. 
+3\. **Polling**
 
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Traffic-Splash.com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. 
 
+4\. **Surveys**
 
-**Security**
+Traffic-Splash.com may occasionally conduct user surveys to better target our content to our audience. We never share any of this information about specific individuals with any third party. 
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+### USAGE TRACKING
 
-**How we use cookies**
+Traffic-Splash.com tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Traffic-Splash.com does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). 
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+Traffic-Splash.com sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. 
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+### COOKIES
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Traffic-Splash.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. 
 
-Ads appearing on our or our members websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Traffic-Splash and does not cover the use of cookies by any advertisers. 
+You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys. 
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to [disable/decline cookies](http://www.wikihow.com/Disable-Cookies) if you prefer. This may prevent you from taking full advantage of the website. 
+### USE OF INFORMATION
 
-**Links to other websites**
+Traffic-Splash.com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls and surveys. We send out newsletters to subscribers on a regular schedule, and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Traffic-Splash.com never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners. 
 
-**Controlling your personal information**
+When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters. 
 
-You may choose to restrict the collection or use of your personal information in the following ways: 
+### SHARING OF THE INFORMATION
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by clicking the Unsubscribe link provided in each email, or emailing us at krmhelp@gmail.com or by contacting us at the [help desk](https://web.archive.org/web/20170614155949id_/http%3A//www.traffic-splash.com/tickets.php). 
+Traffic-Splash.com uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
 
+### SECURITY
 
+Traffic-Splash.com operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+### OPT-OUT POLICY
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at krmhelp@gmail.com or contact us at the [help desk](https://web.archive.org/web/20170614155949id_/http%3A//www.traffic-splash.com/tickets.php). 
+We give users options wherever necessary and practical. Such choices include: 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us as soon as possible. We will promptly correct any information found to be incorrect. 
+1\. Opting not to register to receive our electronic newsletters.  
+2\. Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users 
 
-**Kids Privacy Act**
+### YOUR CONSENT
 
-Traffic-Splash supports the U.S. federal regulations on children's privacy. This means that we will not keep your personal information on record. If you contact us in the future, we will not be able to refer back to this message. 
-
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO. 
-
-**Business Transfer**
-
-If Traffic-Splash, or substantially all of its assets, were acquired, or in the unlikely event that Traffic-Splash goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Traffic-Splash or any of its site or services may continue to use your personal information as set forth in this policy. 
-
-**Contact**
-
-Contact us here if you have any questions. 
-
-Help Desk: [Contact Us](https://web.archive.org/web/20170614155949id_/http%3A//www.traffic-splash.com/tickets.php)
-
-By Email: krmhelp@gmail.com 
-
-Please also refer to our [Terms of Service](https://web.archive.org/web/20170614155949id_/http%3A//www.traffic-splash.com/tos.html) again if needed.
+By using this site, you consent to the collection and use of this information by Traffic-Splash.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
