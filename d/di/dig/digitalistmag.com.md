@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalistmag.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230111138id_/http%3A//www.sap.com/corporate-en/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalistmag.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625092739id_/http%3A//www.sap.com/corporate-en/about/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | About SAP
 
