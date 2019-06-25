@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammarist.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002182030id_/http%3A//grammarist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarist.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626001809id_/https%3A//grammarist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Grammarist
 
@@ -10,7 +10,7 @@ _This Privacy Policy was last updated on 25th May 2018   _
 
 This website (the “Website”) is operated and owned by Hagshama Keebali Investments Two General Partnership (“HKITGP”, “we”, “us” or “our”).  HKITGP is committed to protecting and respecting your privacy.
 
-This Privacy Policy together with the Terms of Service apply to your use of this Website and any of the services accessible through this Website (the “Services”).  ** <http://grammarist.com/terms-of-service/>**
+This Privacy Policy together with the Terms of Service apply to your use of this Website and any of the services accessible through this Website (the “Services”).  ** <https://grammarist.com/terms-of-service/>**
 
 This Privacy Policy outlines the method and framework on which any personal data we collect from you, or that you provide to us, will be processed and used by us.
 
