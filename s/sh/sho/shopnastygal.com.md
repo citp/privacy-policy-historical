@@ -1,45 +1,269 @@
-> *The following text is extracted and transformed from the shopnastygal.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405072126id_/http%3A//www.nastygal.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopnastygal.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625202038id_/https%3A//www.nastygal.com/page/privacy-notice.html) for the most accurate reproduction.*
 
-# Privacy Policy | Nasty Gal
+# Privacy Notice | Nasty Gal
 
-### Privacy & Security
-
-### Privacy Policy Effective Date: Feb. 28, 2017
+### Privacy Notice
 
 **INTRODUCTION**
 
-NASTY GAL TAKES PRIVACY SERIOUSLY. Please read the following to learn more about our privacy policy (“Privacy Policy”). This Privacy Policy applies to the use of the Services (as defined below), including by customers and other persons. Except as otherwise indicated, customers and other persons using the Services are individually and collectively referred to as “you”, “your” or “Customer”, and Nasty Gal Limited and the companies within its group are referred to as, "Nasty Gal", "we", "us" and "our." The family of Web sites operated by or on behalf of Nasty Gal (the "Services"), including, but not limited to, Web sites located at www.nastygal.com, our mobile application(s), our blog(s), and any other Web site(s) owned and/or operated by Nasty Gal and any of their associated Web pages, are committed to implementing policies and procedures designed to protect your privacy and security, in addition to providing you with the best possible online experience. To achieve that goal, we want you to understand what kinds of information we gather from and about you, how this information is used, shared and safeguarded, and how you can control its use. In order to offer various products and services to our Customers, Nasty Gal collects certain information as described in this Privacy Policy. Nasty Gal Limited is subject to the UK Data Protection Act 1998 (the “Act”) and is a data controller for the purposes of the Act. If you have questions or concerns regarding this Privacy Policy, you should first contact us at customerservices@nastygal.com or at Nasty Gal Limited, Attn: Legal Department, 49-51 Dale Street, Manchester, England, M1 2HF. Nasty Gal is responsible for the processing of personal data it receives and subsequently transfers to a third party acting as a data processor on its behalf. Nasty Gal is subject to the regulatory enforcement powers of the UK Information Commissioner’s Office (the “ICO”). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please see https://ico.org.uk/concerns/ for how you may contact the ICO. In conjunction with this Privacy Policy, you should also review our Terms for a more complete understanding of the rules governing our Services. For more information on Internet safety and security, Click here for information from the ICO. 
+Here at Nasty Gal Ltd (‘Nasty Gal’) we are committed to protecting and respecting the privacy of your personal data. This privacy notice explains how your data is collected, used, transferred and disclosed by boohoo. It applies to data collected when you use our websites, iOS and android applications, when you interact with us through social media, email, or phone, or when you participate in our competitions or events. It covers:  
+• The personal data we collect  
+• How we collect your data  
+• How we use your data  
+• Marketing preferences, adverts and cookies  
+• Links to other websites and third parties  
+• How we share your data  
+• Your rights  
+• Changes to this privacy notice  
+• How to contact us
 
-**INFORMATION WE COLLECT FROM YOU**
+ **WHO IS NASTY GAL**
 
-Information we, our service providers and other third-parties, collect from you will vary, depending on how you use the Services and information you may choose to provide to us (whether through email, phone, internet or otherwise). Personal Information: We, our service providers and other third-parties, may require Customers who visit the Services and/or purchase products on the Services to give us personally identifiable information (“personal data”). Personal data is individually identifiable information about you, including, but not limited to, your full name, a user name and password, email address, phone number, physical address, financial information, and your credit card information and other billing information. Information in a form that is anonymized, or is otherwise not capable of being associated with you, will not be considered personal data, and will not be restricted by this Privacy Policy as to use, sharing or otherwise. You can choose not to provide us with personal data, but then you may not be able to fully take advantage of certain features of our Services and we may not be able to provide you with certain requested information, products and/or services. Tracking and cookies: Like many Web sites on the Internet, we may track certain information about you as you visit and use our Services to help us (i) better understand, improve and modify the Services, (ii) better understand how the Services are used and experienced, and (iii) better understand how we can enhance overall experience on one or more of the Services, including providing advertising and other information that is relevant to you. This tracked or automatically gathered information may include, among other things, your computer’s IP address (Internet Protocol address), browser type, the URLs and pages on the Services you’ve visited, sections of or content on pages on the Services on which you click or in which you are interested, the number of times you visit each page on the Services, what downloads and/or search queries you have made, and how long you spent on particular sections of the Services and on the Services generally. This automatically gathered data includes information provided through the use of "cookies", local storage, e-tags, log files and "clear GIFs" (described in more detail below). We do not link this automatically collected data to other information we collect about you. Information from Cookies: When you use our Services, we may send a small file to your computer or device (a “cookie”) which is stored there so that we can recognize your computer or device as a unique machine the next time you use the Services, and which also enables us to, among other things, tailor the Services to your needs. Further information about the cookies we use is set out in our [cookies policy ]. You can decline any cookies we use if your Internet browser permits. However, please note that by declining cookies, certain functionalities of the Services will not be available to you, including that if you block essential cookies (see our cookies policy for more details), you may not be able to establish a shopping cart session or make a purchase online through the Services. If you do not change your browser settings to decline cookies and continue to use our Services, we will assume you consent to us continuing to download cookies on your device. Additionally, some of our third-party service providers working on our behalf may also utilize their own cookies. Information from Clear GIFs: Also, we and our third-party service providers may use "clear GIFs" in connection with cookies and other website functions and emails. Clear GIFs perform administrative functions (but without detracting from your online experience), including being used to perform statistical and administrative tasks such as measuring traffic on the Services and its Web pages, verifying advertising avenues and positioning images on the web, and allowing us to gauge the effectiveness of certain communications and email marketing campaigns by letting us know which marketing emails have been opened by you or other recipients. However, please note that clear GIFs do not collect personal data. Information from e-tags and scripts: We and our third-party service providers use e-tags and scripts in analyzing trends, administering the Web site, tracking users’ movements around the site, and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. Also, our third party partner may use technologies such as tags and scripts to gather information about your activities on this Web site and other sites in order to provide you advertising based upon your browsing activities and interests. Use of local storage: We use local storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. Additionally, third-parties with whom we partner to provide certain features on our Web site or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here. Advertising: As mentioned above, we may partner with third party ad network(s) to either display advertising on our Services or to manage our advertising on other Web sites. Our ad network partner may use cookies and/or Web beacons to collect non-personally identifiable information about your activities on our Services and other Web sites to provide you targeted advertising based upon your interests. There are opt-out schemes which allow you to opt-out from receiving targeted advertising from third parties who are members of those schemes. Examples of these schemes are as follows: • TRUSTe – Please visit http://preferences-mgr.truste.com/ • Network Advertising Initiative – Please visit www.networkadvertising.org/choices • EDAA – Please visit www.youronlinechoices.eu Please note this does not opt you out of being served advertising, and you will continue to receive generic ads. 
+Nasty Gal was founded by Sophia Amoruso 10 years ago in a tiny San Francisco apartment stacked with killer vintage discoveries, a single laptop, and an eBay account. Today, Nasty Gal is a bold and distinctive brand for fashion-forward, free-thinking young women, and is recognized as a pioneer in both the curation and design of limited edition women's clothing, shoes, and accessories. The company has a global presence in 180 countries and a social media following of over 3.5 million. The boohoo group acquired Nasty Gal in February 2017, adding to their existing portfolio of fashion brands: boohoo, boohooMAN and PrettyLittleThing.
 
-**HOW YOUR INFORMATION IS USED AND SHARED**
+ **OUR COMMITMENT TO YOU**
 
-The use and sharing of information about you depends on the context in which it is collected. Please see the categories below that relate to the features and functionality of the Services that you wish to utilize. If you do not want us to share your personal information with these companies, you may contact us at: customerservices@nastygal.com Personal Information: We may share the personal data we collect from you only with your consent, or as otherwise outlined in this Privacy Policy, or under the following circumstances: User-Requested Services and Information: For information, features, products and services offered and/or provided by the Services, the information you submit is used by us to provide the information, feature, product or service you've requested, including being used for internal purposes such as tracking your order, analyzing your preferences, and noting trends and statistics. We may combine and supplement the information we collect about you, with information from third parties, and add it to your account information. We will use this information for the purposes disclosed in this Privacy Policy. We may also share this information with others, but personal data will be shared by us only to fulfill your request or to facilitate your use of the information, features, products or services, or as otherwise outlined in this Privacy Policy, or with your consent. When sharing personal data in such a manner, we may also share your Internet Protocol (IP) address. In addition, we may use and share any registration information that you submit as described in the “Registration Information” section below. We may use other companies and individuals (1) to perform supporting functions for the various tools, functionality, information, products and services offered on or through our Services on our behalf, (2) to perform or support various tasks or initiatives instrumental to the business of, or related to operating or improving, the Services or (3) to assist us in testing, maintaining or improving the features, content or effectiveness of the Services or in performing research or development. These service providers (for example, third party payment processing service providers in respect of payment for goods purchased on the Services, delivery partners, email service providers to send out emails on our behalf, etc.) may be permitted to receive and use information collected from you, or for internal purposes on an aggregated and/or anonymous basis (where you cannot be personally identified), but will not be authorized by us to use personal data for any other purpose other than in connection with performing the support functions for Nasty Gal or such other tasks, initiatives or assistance for Nasty Gal. Some pages may have the look and feel of being on www.nastygal.com, however the information collected on these pages may not be covered under our privacy statement. All information collected on www.nastygal.com is governed by this Nasty Gal privacy statement. User-Initiated Communication: From time to time, portions of the Service(s) may enable you to send email and other types of messages to us and to participate in blogs, product reviews, and other discussion groups. All such emails, reviews, comments and messages, and all such postings to blogs and/or discussion groups, become our property once you submit them (please see our Terms for more details on this). Your Internet Protocol (IP) address may be included in any email that you send, whether to us or to third parties. Whenever you choose to initiate these kinds of communication with us, or anyone else, you may be contacted in return. Also, remember that our Services and blogs are open to the public, and, therefore, your postings can be seen by anyone and are therefore not protected by us or any other entity. Please use your own discretion when deciding whether and what to post and whom to contact. We reserve the right, in our sole discretion, to edit or delete postings from our Services, blogs, and discussion groups. This reservation of rights shall not under any circumstances obligate us to conduct such edits or deletions, nor shall it cause us to be liable for any such edits or deletions. To request removal of your personal information from our blog or community forum, please contact us at customerservices@nastygal.com. Protection of rights: In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may release personal data or other information we collect from you if we believe that such action is appropriate to: (1) comply with legal requests and processes; (2) enforce the terms and conditions for the applicable Services; (3) identify, contact or bring legal action against persons or entities who are or we believe have caused or might cause injury to us or a third party; (4) defend or respond to claims brought or threatened against Nasty Gal, its employees, directors, suppliers or service providers, users of the Services or others; (5) to protect us and our customers from fraud and theft, including that we may pass on personal information that is required to make identity checks and personal information that we obtain from making identity checks to organisations including law enforcement agencies involved in fraud prevention and detection and credit risk reduction; or (6) otherwise protect or assert the rights, property, interests or personal safety of Nasty Gal, its employees, directors, suppliers or service providers, users of the Services or others. Record Keeping: It may be necessary for Nasty Gal to keep records of certain personal data you have provided to us or which we have obtained from you in accordance with this Privacy Policy for business purposes, including but not limited to for internal accounting and administration, to supply you with information about your account, to respond to inquiries, to enhance customer service and product options, to improve product performance, promotions, and special offers where you voluntarily supplied your personal details, to administer sales records, to provide information about us, our products, services and special offers, and to analyze usage on our Services. Business or Asset transfers: We continue to develop our business and in doing so may choose to buy or sell our business or related assets. Personal data and other information we collect from you is generally one of the assets acquired or transferred in such transactions. Registration Information: The personal data you provide when you become a registered user of and create an account on one of the Services is used primarily to provide the information, features, products and/or services you purchase or request, to help us customize or enhance your online experience, and to increase the convenience of accessing new or existing tools, products and services on the Services. If applicable, this personal data may also be shared among the Services to make use of the Services more convenient by, for example, limiting the number of times you have to register with us. Your email address serves as a unique identifier in our record system, and together with your password, is designed to help us prevent unauthorized access to information you choose to store on the Services. The data you give us about your personal preferences and demographics (e.g., your age, post code or ZIP code, or the like) may be used to help us offer tailored content, products, and services that we believe will be of interest to you. In addition, we may share this information, in aggregate or other protected forms (see the section entitled “Information We Collect From you: Personal Information,” above) or under confidentiality terms, with our current and/or future service providers so that either they or us can present and deliver products, functionality and services to you more effectively.   
-Promotions and Marketing: Unless you specify that you’d prefer not to hear from us, we may provide you with information about other similar products and services we offer. We may also provide you, or permit selected third parties to provide you, with information about other products or services (including products and services that are co-branded or that we are otherwise engaged with promoting) that we feel may interest you, where you have consented to be contacted for such purposes. You may have these communications terminated and opt out at any time by clicking on the “Unsubscribe” link contained in any promotional email or contacting us at customerservices@nastygal.com. If applicable, please be aware that opting out on one of our Services, does not opt you out from any of our other Services unless that option is specifically provided. Please note that despite unsubscribing from such communications, Nasty Gal may still contact you in relation to your order(s), purchase(s) or any issues relating any business you conduct with Nasty Gal. You may contact us at customerservices@nastygal.com to request that we remove your information from our database. Internet Protocol (IP) Address: When sharing personal data in accordance with this Privacy Policy, we may also share your Internet Protocol (IP) address. Automatically Gathered Information: Information that is automatically gathered, including through the use of cookies (as explained above), may be shared among the Services, if applicable. It may also be shared with other third parties, including service providers and others, so that we may better understand how the Services are used, to enhance the overall experience on the Services, and otherwise in connection with our operation of the Services and conducting related business. When such information is shared with third parties, any personal data will be included only if first put in aggregated form (from which individuals cannot be identified) or other protected form (see the section entitled “Information We Collect From You: Personal Information,” above) or the third party is contractually restricted from using such personal data for any purpose other than in connection with the purpose for which it was shared by Nasty Gal. Social Media Features: Our Services include social media features, such as the Facebook “Like” button. These features may collect your IP address, which page you are visiting on our Services, and may set a cookie to enable the feature to function properly. Social media features on our Services are either hosted by a third party or directly on our Services. Your interactions with these features are governed by the respective privacy policy of the company providing such feature(s). 
+We take the protection of your personal data seriously and will process your personal data fairly, lawfully and transparently. This privacy notice describes the personal data we are collecting about you and how it is used.   
+We will only collect and use your personal data for the following purposes, to:  
+• fulfil your order(s)  
+• keep you up to date with the latest offers and trends  
+• give you a better shopping experience  
+• help us to make our marketing more relevant to you and your interests  
+• improve our services  
+• meet our legal responsibilities
 
-**CHILDREN’S PRIVACY**
+ **HOW WE KEEP YOUR DATA SAFE AND SECURE**
 
-Our Services are general audience Web sites and are not directed at children under age 13. Nasty Gal and the Services do not knowingly collect any personal information from children under age 13, and if you are under the age of 13 you should not register or provide information on our Services or to Nasty Gal. If you have knowledge that a child under the age of 13 has submitted personal data to us, please email customerservices@nastygal.com 
+We have appropriate organisational safeguards and security measures in place to protect your data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed.   
+The communication between your browser and our website uses a secure encrypted connection wherever your personal data is involved.  
+We require any third party who is contracted to process your personal data on our behalf to have security measures in place to protect your data and to treat such data in accordance with the law.   
+In the unfortunate event of a personal data breach, we will notify you and any applicable regulator when we are legally required to do so. 
 
-**HOW CAN I ACCESS AND CHANGE MY PERSONAL INFORMATION?**
+**THE PERSONAL DATA WE COLLECT**
 
-You can edit or delete personal data that you submitted on the Services through your online account. Upon request Nasty Gal will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. Under the Act, we may charge an administrative fee of £10 to meet our costs in providing you with details of the information we hold about you. If you would like us to delete/remove your Account, or for us to no longer use or share personal data we may gather from you for any purpose, please send a request to customerservices@nastygal.com. We will respond to your request within a reasonable timeframe. However, please note that archival or backup copies of personal data may continue to exist. Please keep in mind that any change you request regarding personal data may adversely affect or otherwise change the availability, deliverability or quality for you of information, features, products or services in which you are interested or your experience on or relating to the Services. We will retain and use your information as may be necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+Personal data means any information about an individual from which that person can be identified. It does not include anonymised data, where the identity and identifying information has been removed.  
+While our website is designed for a general audience, we will not knowingly collect any data from children under the age of 13 or sell products to children. If you are under the age of 13, you are not permitted to use or submit your data to the website.  
+The following groups of personal data are collected:  
+**Identity Data** includes information such as: first name, last name, title, date of birth (optional), occupation, personal description, photo and gender.  
+**Contact Data** includes information such as: email address, billing address, delivery address, location, country, telephone number, loyalty programme membership number, and social media id (if you log in by social media).  
+**Financial Data** includes information such as: payment card details and bank account.  
+**Transaction Data** includes information such as: details of your purchases and the fulfilment of your orders (such as basket number, order number, subtotal, title, currency, discounts, shipping, number of items, product number, single item price, category, tax etc.); payments to and from you and details of other products and services you have obtained from us, correspondence or communications with you in respect of your orders, and details of any rewards and bonuses awarded.  
+**Technical Data** includes information such as: details of the device(s) you use to access our services, your internet protocol (IP) address, login data, your username and password, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform.  
+**Profile Data** includes information such as: purchases or orders made by you, product and style interests, preferences, feedback, and survey responses.
 
-**HOW IS PERSONAL INFORMATION PROTECTED?**
+We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice. 
 
-Whenever personal data is stored on our computers, that information is protected from unauthorized access or use by way of passwords or other industry-acknowledged means. In addition, servers of ours that store this information are located behind a firewall. Since certain personal data (such as credit card data) is especially sensitive, we take special care to keep it secure. We will only electronically transmit or ask for this information over secure Internet connections using generally accepted standards, and security keys. In addition, we require password authentication from any third parties you have authorized to receive this information. We use a trusted third party payment processing service to process your payment to us and we do not store your credit/debit card information. You can elect to save your credit or debit card details once your order on our Web site has been processed, to make any future orders easier. However, for your security you will need to enter your card’s 3-digit security code for every subsequent transaction where you elect to use the saved credit/debit card. If you elect to store your credit or debit card details after an order on the Web site, your credit/debit card details will be stored with our trusted third party payment processor. Of course, we appreciate your help in safeguarding the integrity of your own and others' privacy. We hope you'll use common sense whenever you disclose personal data over the Internet. Just as importantly, we encourage you to let us know immediately if you suspect that personal data you share with us is being used in any way contrary to this Privacy Policy. Finally, unfortunately no data transmission over the Internet nor any storage of information on servers or other media can be guaranteed or made to be 100% secure; and while we strive to protect personal data, as outlined in this Privacy Policy, we cannot promise, guarantee or warrant the complete security of information. To contact us, please send an email to customerservices@nastygal.com. The data we collect from you may be transferred to, and stored at, destinations outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing and processing, We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+**HOW WE COLLECT YOUR DATA**
 
- **SCOPE OF THIS PRIVACY POLICY: OUTSIDE LINKS**
+We may collect personal data about you in the following ways:
 
-Be aware that our Services link to other Web sites that may collect personally identifiable information about you. This Privacy Policy applies only to the Services, and we are not responsible for the privacy practices, nor the content, associated with any linked Web sites. You should refer to the privacy policies and statements of other Web sites or contact the respective Webmasters of those Web sites to obtain information regarding their information collection, security, use and disclosure policies. 
+**Direct interactions** – you may give us your Identity, Contact, Financial, Transaction, Profile, and Marketing and Communications data (as described above) by filling in forms, entering information online or by corresponding with us by post, phone, email, telephone or otherwise. This includes personal data you provide, for example, when you:  
+\- Create an account or purchase products on our website;  
+\- Subscribe to our newsletter, discussion boards, social media sites or create wish lists;  
+\- Enter a competition;  
+\- Join a Nasty Gal loyalty programme;  
+\- Complete a voluntary market research survey;  
+\- Contact us with an enquiry or to report a problem (by phone, email, social media, or messaging service);  
+\- Use a “refer a friend” function on our website; or  
+\- When you log in to our website via social media.
 
-**EFFECTIVE DATE AND MODIFICATIONS**
+**Automated technologies or interactions** – as you interact with our website, we may automatically collect the following types of data (all as described above): Technical Data about your equipment, Usage Data about your browsing actions and patterns, and Contact Data where tasks carried out via our website remain uncompleted, such as incomplete orders or abandoned baskets. We collect this data by using cookies, server logs and other similar technologies. Please see our Cookies Policy [here](https://www.nastygal.com/page/about-cookies.html "Cookies") for further details. 
 
-This Privacy Policy is effective as of the date first written above. We reserve the right to update, change, modify or otherwise alter this Privacy Policy at any time. If any material changes are made to this Privacy Policy, Nasty Gal will notify you by posting the revised Privacy Policy on the Services or notifying you through the Services prior to the change becoming effective. ANY ACCESS OR USE OF THE SERVICES BY YOU AFTER THE CHANGES GO INTO EFFECT SHALL CONSTITUTE AND BE DEEMED YOUR AGREEMENT TO THIS PRIVACY POLICY. Accordingly, we encourage you to periodically review this Privacy Policy and the Services in order to keep apprised of our current privacy practices. If you do not want to be bound by this Privacy Policy, do not use or access any part of the Services. 
+**Third parties** – we may receive personal data about you from various third parties, including:  
+\- Technical Data from third parties, including analytics providers such as Google. Please see further information in the section entitled ‘Marketing preferences, adverts and cookies’.  
+\- Technical Data from affiliate networks through whom you have accessed our website;  
+\- Identity and Contact Data from social media platforms when you log in to our website using such social media platforms;  
+\- Contact, Financial and Transaction Data from providers of technical, payment and delivery services.
 
-**CONTACTING US**
+ **HOW WE USE YOUR DATA**
 
-If you have concerns about this Privacy Policy or our privacy practices in general, contact us at: Legal Department Nasty Gal Limited 49-51 Dale Street Manchester, England, M1 2HF Email: customerservices@nastygal.com  
+**The legal basis for processing your personal data**  
+We will only collect and process your personal data where we have a legal basis to do so. As a data controller, the legal basis for our collection and use of your personal data varies depending on the manner and purpose for which we collected it.   
+We will only collect personal data from you when:  
+\- we have your consent to do so, or  
+\- we need your personal data to perform a contract with you. For example, to process a payment from you, fulfil your order or provide customer support connected with an order, or   
+\- the processing is in our legitimate interests and not overridden by your rights, or  
+\- we have a legal obligation to collect or disclose personal data from you.
 
+ **USES MADE OF YOUR PERSONAL DATA**
+
+Your personal data is used by Nasty Gal to support a range of different activities. These are listed in the table below together with the types of data used and the legal bases we rely on when processing them, including where appropriate, our legitimate interests. Please be aware that we may process your personal data using more than one lawful basis, depending on the specific activity involved. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+
+Purpose/Activity | Type of data | Lawful basis for processing including basis of legitimate interest  
+---|---|---  
+To create an account and register you as a new customer (either directly or via social media). | • Identity  
+• Contact  | • Performance of a contract with you   
+To process and deliver your order including: recording your order details; keeping you informed about the order status; process payments and refunds, collect money owed to us; and automated decision making to assist fraud prevention and detection. | • Identity  
+• Contact  
+• Financial  
+• Transaction | • Performance of a contract with you  
+• Necessary for our legitimate interests (e.g. to recover debts due to us) For automated decision making we consider that fraud detection and prevention is in our legitimate interests to ensure that fraudulent transactors are unable to benefit from our services and in the legitimate interest of the public as whole due to the impact of fraud on the consumer market; we also consider it a necessary element of entering into a contract with you that we are able to verify your identity and prevent fraud.   
+To manage our relationship with you, including: providing you with any information, products and services that you request from us; notifying you about changes to our services, terms and conditions or privacy notice; asking you to leave a review or take a survey. | • Identity  
+• Contact  
+• Profile  
+• Marketing and Communications  | • Performance of a contract with you   
+• Necessary for our legitimate interests (to keep our records updated and to study how customers use our products and services)   
+To enable you to take part in a competition, event, survey, or receive a reward for shopping with us. | • Identity  
+• Contact  
+• Profile  
+• Usage  
+• Marketing and Communications  
+| • Necessary for our legitimate interests (to study how customers use our products and services, to develop them and grow our business)  
+• Where you have decided to enter into a competition or event, for the performance of a contract with you   
+To administer, protect and improve our business and our website/app, including: troubleshooting, data analysis, testing, system maintenance, support, data analysis, reporting and hosting of data; setting default options for you, such as language and currency. | • Identity  
+• Contact  
+• Profile  
+• Technical  
+• Transaction  
+• Marketing and Communications  
+| • Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, and to detect and prevent fraud)  
+• Necessary to comply with a legal obligation   
+To deliver relevant website content, online advertisements and information for you; and measure the effectiveness of the advertising provided. | • Identity  
+• Contact  
+• Profile  
+• Usage  
+• Marketing and Communications  
+• Technical  
+| • Necessary for our legitimate interests (to study how customers use our products and services, to develop them, to grow our business and to inform our marketing strategy)  
+To use data analytics to: improve our website, products, services, marketing, customer relationships and experiences; and for market research, statistical and survey purposes.  | • Technical  
+• Usage  | • Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+To recommend products, services discounts and offers that may be of interest to you, including to send you such information by email, post or SMS. | • Identity  
+• Contact  
+• Technical  
+• Usage  
+• Profile  
+• Marketing and Communications  
+| • Necessary for our legitimate interests (to develop our products and services and grow our business) or   
+• Consent. See further details in the section ‘Marketing preferences, adverts and cookies’   
+To inform or remind you by email of any task carried out via our website which remains uncompleted, such as incomplete orders or abandoned baskets | • Identity  
+• Contact  
+• Usage  | • Necessary for our legitimate interests (to improve the shopping experience of our customers)  
+  
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we wish to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. We may process personal data without your consent, in compliance with the above rules, where this is required or permitted by law.  
+If you have any questions about how Nasty Gal use any of your personal data, please contact our Data Protection Officer, Keri Devine at DPO@nastygal.com.
+
+ **HOW LONG WE KEEP YOUR DATA FOR**
+
+We will keep your personal data for no longer than is necessary for the purpose(s) it was provided for and to meet our legal obligations. Further details of the periods for which we retain data are available on request. 
+
+**MARKETING PREFERENCE, ADVERTS & COOKIES**
+
+**Marketing - your preferences**  
+We may send you marketing communications and promotional offers:  
+• if you have opened an account with us or purchased goods from us, or registered for a promotion or event, and you have not opted out of receiving that marketing (in accordance with your preferences, as explained below);  
+• by email if you have signed up for email newsletters;  
+• if you have provided us with your details when you entered a competition and you have consented to receiving such marketing (in accordance with your preferences, as explained below).  
+We may use your Identity, Contact, Technical, Transactional, Usage, Profile Data and Marketing and Communications Data to form a view on what we think you may like, or what may be of interest to you, and to send you details of products and offers which may be relevant for you.   
+We will ask you for your preferences in relation to receiving marketing communications by email, post, SMS and other communication channels.   
+From time to time we may also include with your order, inserts advertising goods, services or offers from other third-party companies that you may be interested in.   
+In respect of third party marketing communications, we will obtain your express opt-in consent before we share your personal data with any third party for marketing purposes.  
+You will always have full control of your marketing preferences. If you do not wish to continue receiving marketing information from us (or any third party, if applicable) at any time:  
+• you can unsubscribe or ‘opt-out’ by using the unsubscribe button and following the link included in the footer of any marketing email; or   
+• account holders may withdraw their consent by simply logging in to ‘My Account’ [here](https://www.nastygal.com/myaccount "My Account") and editing your ‘Contact Preferences’.
+
+We will process all opt-out requests as soon as possible, but please note that due to the nature of our IT systems and servers it may take a few days for any opt-out request to be implemented. **Please be aware that opting out on one of our Services, does not opt you out from any of our other Services unless that option is specifically provided. Please note that despite unsubscribing from such communications, Nasty Gal may still contact you in relation to your order(s), purchase(s) or any issues relating any business you conduct with Nasty Gal.**
+
+ **COOKIES**
+
+Our website uses cookies to distinguish you from other users of our website and to keep track of your visits. They help us to provide you with the very best experience when you browse our website and to make improvements to our website. They also help us and our advertising networks to make advertising relevant to you and your interests.   
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of our website may become inaccessible or not function properly.   
+For detailed information on the cookies which we and our third-party providers use and the reasons why we use them, please refer to our ‘Cookie Policy’. 
+
+**ONLINE ADS**
+
+We use online advertising to keep you aware of what we’re up to and to help you find our products. Like many companies, we may target Nasty Gal banners and ads to you when you use other websites and apps, based on your Contact, Technical, Usage and Profile Data. We do this using a variety of digital marketing networks and ad exchanges, and a range of advertising technologies such as web beacons, pixels, ad tags, cookies, and mobile identifiers, as well as specific services offered by some sites and social networks, such as Facebook’s Custom Audience Service.
+
+ **OUR USE OF ANALYSIS & TARGETING TOOLS**
+
+We use a range of analytics and targeted advertising tools to display relevant website content on our website and online advertisements on other websites and apps (as described above) to you, deliver relevant content to you in marketing communications (where applicable), and to measure the effectiveness of the advertising provided. For example, we use tools such as Google Analytics to analyse Google's interest-based advertising data and/or third-party audience data (such as age, marital status, life event, gender and interests) to target and improve our marketing campaigns, marketing strategies and website content. We may also use tools provided by other third parties, such as Facebook, Adroll, Rakuten Marketing, Dash Hudson, Responsys, Criteo and Bing to perform similar tasks, using your Contact, Technical, Usage and Profile Data.  
+In order to opt out of targeted advertising you need to disable your ‘cookies’ in your browser settings (see Cookie Policy for details) or opt-out of the relevant third-party Ad Settings. For example, you can opt-out of the Google Display Advertising Features using their Ad Settings. As an added privacy measure, you can also use the Google Analytics opt-out browser add on.  
+The Digital Advertising Alliance (which includes companies such as Google, Responsys and Facebook) provides a tool called WebChoices that can perform a quick scan of your computer or mobile devices, find out which participating companies have enabled customised ads for your browser, and adjust your browser preferences accordingly.   
+If you would like any further information about the data collected by these third parties or the way in which the data is used, please contact us.
+
+ **LINKS TO OTHER WEBSITES & THIRD PARTIES**
+
+Our website may include links to and from the websites of our partner networks, advertisers and affiliates, or to social media platforms. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to their websites. 
+
+**HOW WE SHARE YOUR DATA**
+
+We may disclose and share your personal data with the parties set out below:  
+• where you have consented for us to do so. For example, if you have consented to receive marketing materials from third parties, or in respect of third parties’ (including co-branded or jointly promoted) products and services, we may pass your data on to the relevant third parties for the purpose of sending you such marketing communications;  
+• to other companies within the boohoo Group which carry out order fulfilment and provide HR, financial, IT, facilities, customer service, legal, travel and health and safety support functions.  
+• to business partners, suppliers, sub-contractors and other third parties that we use in connection with the running of our business for the purposes set out in the table above in the section ‘How we use your data’, such as:  
+\- third party service providers that we engage to provide IT systems and software, and to host our website;   
+\- third-party payment processing services (including Worldpay, Paypal, and in certain regions) to process your payment to us. Nasty Gal does not store your payment information, your payment details are provided to the payment provide you have selected, who are compliant with necessary regulations.   
+\- third party service providers that we engage to deliver goods you have ordered;  
+\- third party service providers that we engage to send emails and postal mail on our behalf including in relation to incomplete orders or abandoned baskets, or marketing communications, to provide data cleansing services and to provide marketing and advertising services;  
+\- analytics and search engine providers that assist us in the improvement and optimisation of our website;  
+\- affiliate networks through whom you have accessed our website;  
+• to any third party to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.  
+• to protect our customers and website from fraud and theft, we may share your personal data with Ravelin and/or Risk Guardian and/or other fraud prevention and analysis service providers, in order to carry out fraud prevention checks on our behalf. If personal data is provided to Ravelin, Ravelin will also use this personal data to improve its service and machine learning to improve its automated processing. A copy of Ravelin's privacy notice can be found[ at: https://www.ravelin.com/privacy-policy-new](https://www.ravelin.com/privacy-policy-new) which explains how Ravelin will use your personal data for these purposes; and • we may further share personal data that is required to make identity checks and personal data that we obtain from making identity checks (including data relating to your age, name and location), together with account information, with organisations (including law enforcement agencies), involved in fraud prevention and detection and credit risk reduction. Please note that these third parties may retain a record of the information that we provide to them for this purpose;   
+• if we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or  
+• to our professional advisers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services.
+
+ **YOUR DATA & COUNTRIES OUTSIDE OF EUROPE**
+
+The personal data we collect from you may be transferred to, and stored at, destinations outside the European Economic Area ("EEA") using legally-provided mechanisms to lawfully transfer data across borders. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. We will take all steps necessary to ensure that your data is treated securely and in accordance with this privacy notice.  
+Whenever we transfer personal data outside the EEA, we will ensure a similar degree of protection is afforded to it by ensuring appropriate safeguards, as required by law, are in place. This may include using specific contractual clauses approved by the European Commission which give personal data the same protection as it has in Europe. More information about these is available [here: http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087)  
+Please contact us if you want further information on the countries to which we may transfer personal data and the specific mechanism used by us when transferring your personal data outside the EEA.
+
+ **YOUR RIGHTS**
+
+You have several rights under the data privacy legislation. This includes, under certain circumstances, the right to:  
+• request access to your personal data  
+• request correction of your personal data  
+• request erasure of your personal data  
+• request restriction of processing of your personal data  
+• request the transfer of your personal data  
+• object to processing of your personal data  
+• request human intervention for automated decision making
+
+Brief details of each of these rights are set out below. If you wish to exercise any of these rights, please email us at DPO@nastygal.com.
+
+ **REQUEST ACCESS TO YOUR PERSONAL DATA**
+
+You have the right to obtain a copy of the personal data we hold about you and certain information relating to our processing of your personal data.
+
+ **REQUEST CORRECTION TO YOUR PERSONAL DATA**
+
+You are entitled to have your personal data corrected if it is inaccurate or incomplete. You can update your personal data at any time by logging into your account and updating your details directly, or by emailing us at DPO@nastygal.com.
+
+ **REQUEST ERASURE OF YOUR PERSONAL DATA**
+
+This enables you to request that Nasty Gal delete your personal data, where there is no good reason for us continuing to process it. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request. 
+
+**REQUEST RESTRICTION OF PROCESSING YOUR PERSONAL DATA**
+
+You have a right to ask Nasty Gal to suspend the processing of your personal data in certain scenarios, for example if you want us to establish the accuracy of the data, or you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. Where processing is restricted, we are allowed to retain sufficient information about you to ensure that the restriction is respected in future.
+
+ **REQUEST THE TRANSFER OF YOUR PERSONAL DATA**
+
+You have the right to obtain a digital copy of your personal data or request the transfer of your personal data to another company. Please note though that this right only applies to automated data which you initially provided consent for us to use or where we used the data to perform a contract with you.
+
+ **OBJECT TO PROCESSING OF YOUR PERSONAL DATA**
+
+You have the right to object to the processing of your personal data where we believe we have a legitimate interest in processing it (as explained above). You also have the right to object to our processing of your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your data which override your rights and freedoms.
+
+ **REQUEST HUMAN INTERVENTION FOR AUTOMATED DECISION MAKING & PROFILING**
+
+You have the right to request human intervention where we are carrying out automated decision making when processing your personal. This form of processing is permitted where it is necessary as part of our contract with you, providing that appropriate safeguards are in place or your explicit consent has been obtained.  
+We will try to respond to all legitimate requests within one month. Occasionally, it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. We may need to request specific information from you to help us confirm your identity and ensure your right to exercise any of the above rights. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it.
+
+ **RIGHT TO LODGE A COMPLAINT**
+
+If you have any concerns or complaints regarding the way in which we process your data, please email us directly at DPO@nastygal.com. You also have the right to make a complaint to the ICO (the data protection regulator in the UK). We would, however, appreciate the chance to deal with your concerns before you approach the ICO, so please do contact us in the first instance.
+
+ **CHANGES TO THE PRIVACY NOTICE**
+
+From time to time we may change this privacy notice. If there are any significant changes we will post updates on our website, applications or let you know by email.
+
+ **HOW TO CONTACT US**
+
+We welcome feedback and are happy to answer any questions you may have about your data.   
+Please send any questions, comments or requests for more information to our nominated representative and Data Protection Officer Keri Devine, who can be contacted at DPO@nastygal.com.
+
+This privacy notice was last updated on 2nd July 2018 (NG UK and Europe Version 1.4)
+
+Nasty Gal UK Limited,   
+Registered Company Number: 10487954,  
+UK VAT Number: 185 4874 61.
