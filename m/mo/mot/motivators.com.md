@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007162641id_/http%3A//www.motivators.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625021203id_/https%3A//www.motivators.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Motivators Privacy Policy, Commitment to Data Security, Motivators Information
 
 **Our Commitment To Privacy**
 
-This privacy policy applies to www.motivators.com, an operating division of Apparel Casuals & Promos, LLC., (collectively "We", "Us" or "Our") that is serviced by ePromos Promotional Products, Inc. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online and internal information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage ([www.Motivators.com](http://www.motivators.com/)) and at every point where personal information may be requested.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+This privacy policy applies to www.motivators.com, an operating division of Apparel Casuals & Promos, LLC., (collectively "We", "Us" or "Our") that is serviced by ePromos Promotional Products, Inc. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online and internal information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage ([www.Motivators.com](https://www.motivators.com/)) and at every point where personal information may be requested.
 
 **The Information We Collect**
 
@@ -55,7 +53,7 @@ To manage Flash LSOs please click [here](http://www.macromedia.com/support/docum
 
 **Behavioral Advertising**
 
-We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.
 
 **The Way We Use Information**
 
@@ -65,7 +63,7 @@ We use the information you provide about someone else when placing an order only
 
 When an order is placed, you will receive an email order acknowledgement. We reveal only the last 5 digits of the card when confirming the order. ** Please do not email us credit card number information, as email is not secure.** If you do not feel comfortable entering your credit card information over the internet, please call 1-800-525-9600 and one of our representatives will be happy to help you.
 
-When you register with our website you will receive updates on our new products and services. If you wish to be removed from this list, please send an email to [privacy@motivators.com](mailto:privacy@motivators.com).
+When you register with our website, place an order, request a sample, or generate a quote, you will receive updates on our new products and services via email. If you wish to be removed from this list, please send an email to [privacy@motivators.com](mailto:privacy@motivators.com).
 
 You may also receive periodic mailings (i.e. catalogs, flyers). If you wish to be removed from this mailing list, please send an email to [privacy@motivators.com](mailto:privacy@motivators.com)
 
@@ -94,7 +92,7 @@ The security of your personal information is important to us. We follow generall
 
 When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We are also protected by VeriSign, a service to assure that your information is kept secure. For information click here: [https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=secure.motivators.com&lang=en](https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=secure.motivators.com&lang=en)
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 **Our Commitment To Children's Privacy**
 
