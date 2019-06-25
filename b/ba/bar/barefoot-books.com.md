@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barefoot-books.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223055948id_/http%3A//www.barefootbooks.com/footer-menu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barefoot-books.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625052552id_/http%3A//www.barefootbooks.com/footer-menu/privacy-policy) for the most accurate reproduction.*
 
 # Barefoot Books :: Privacy Policy
 
