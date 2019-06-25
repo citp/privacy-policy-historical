@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footprintnetwork.org privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116024954id_/http%3A//www.footprintnetwork.org/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footprintnetwork.org privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625221609id_/https%3A//www.footprintnetwork.org/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Global Footprint Network
 
@@ -27,6 +27,7 @@ To process a charitable contribution, it is necessary for Global Footprint Netwo
  **Additional Websites Subject to the Privacy Policy**
 
 This Privacy Policy shall apply to the following websites and all associated subdomains:  
+• www.footprintcalculator.org  
 • www.overshootday.org  
 • data.footprintnetwork.org  
 • www.footprintfinance.org  
