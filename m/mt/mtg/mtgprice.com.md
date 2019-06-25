@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtgprice.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101102434id_/http%3A//www.mtgprice.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtgprice.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625214105id_/http%3A//www.mtgprice.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # MTGPrice.com Privacy Policy
 
@@ -104,7 +104,7 @@ You can access and amend some of the information we keep on you through your set
 
 ### 9\. Contact us
 
-If you have any questions or comments about this Privacy Policy, please contact us at webmaster@MTGprice.com.
+If you have any questions or comments about this Privacy Policy, please contact us at james@MTGprice.com.
 
 ### 10\. Changes to the Privacy Policy
 
