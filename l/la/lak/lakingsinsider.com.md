@@ -1,185 +1,343 @@
-> *The following text is extracted and transformed from the lakingsinsider.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220193133id_/http%3A//lakingsinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakingsinsider.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626040138id_/http%3A//lakingsinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LA Kings Insider
 
-PRIVACY POLICY
+**Privacy Policy**
 
-Effective 10/1/2016
+  Introduction
 
-Welcome! This website, mobile application, and related services are owned and operated by Los Angeles Kings Hockey Club L.P. ( **“The L.A. Kings,” “us,” “our,” or “we”** ), a subsidiary of Anschutz Entertainment Group. This privacy policy (the “ **Policy** ”) contains details regarding our practices and your choices relating to how we collect, use and disclose personal and other information about our guests, visitors and users.
+The Los Angeles Kings Hockey Club L.P. (the “L.A. Kings”) is committed to respecting your privacy. The purpose of this Privacy Policy (“Privacy Policy”) is to explain how we will use any personal data we collect about you, the rights you have in any personal data we hold about you, and to tell you about the policies and procedures that we have in place to respect your privacy and keep your personal data secure.  
+This Privacy Policy applies to you if you: 
 
-You may provide information to us when you visit our websites at nhl.com/kings or lakingsinsider.com, and any site where this policy is posted (including any subdirectories or mobile versions of each, the “ **Site** ”), use our mobile application (the “ **Mobile App** ”), and interact with certain web-enabled technologies, such as proximity/location beacons, that are provided at our games or other events. We may refer to the Mobile App, Site, and these related web-enabled technologies collectively as our “ **Digital Services**.”
+  * purchase a ticket for an event or service owned, operated, promoted, or serviced by the L.A. Kings, its affiliates, subsidiaries and parent company; 
+  * use or access our products, services, or technology in events we own or operate, including leagues, clinics, camps, events and other programs (“Kings Events”); and 
+  * interact with us online, use our mobile applications, visit our websites, participate in one of our contests or sweepstakes (online or otherwise), or interact with or reference our products/services online, including via social media (e.g. when we correspond with you via social media, when we access information provided by social media platforms in relation to our pages on those platforms, or if you reference or interact with the L.A. Kings at AEG’s Events and Venues (as defined below) on social media
 
-This policy is incorporated into the Terms of Use governing your use of any of our Digital Services. Any capitalized terms not defined in this Privacy Policy will have the definitions provided in our Terms of Use. **Through your use** **of any of our Digital Services, you consent to the practices described in this Policy.**
 
-Please note: This Policy does not apply to information collected by third parties, for example, when you purchase a ticket from a third party ticketing provider through links on our Digital Services, visit a third party website linked (either now or in the future) on our Digital Services, including letsgokings.com, baileys-pawn-shop.myshopify.com and other nhl.com subdomains, or when you interact with online advertisements. Please take a moment to review the privacy policies of third-party sites before you disclose information to them.
 
-#### What information do we collect and how do we use it?
+(collectively, our “Services”).
 
-#### Third party sites and services
+**Who are we?**
 
-#### With whom may we share your information?
+The L.A. Kings is a subsidiary of Anschutz Entertainment Group, Inc. (“AEG”), which along with its affiliates, subsidiaries, and parent company (collectively, “Our Group”) owns, operates, promotes or provides services for, various sports and live entertainment venues, events, properties and teams (collectively, “Events and Venues”). References to Our Group include (without limitation):  
+all AEG facilities, teams, venues, and service providers, such as STAPLES Center (Los Angeles, CA), Sprint Center (Kansas City, MO), KFC Yum! Center (Louisville, KY) Oakland Alameda Coliseum (Oakland, CA), Oracle Arena (Oakland, CA), PPG Paints Arena (Pittsburgh, PA), Valley View Casino Center (San Diego, CA), PlayStation Theater (Times Square, NY), Verizon Theatre (Grand Prairie, TX), Colosseum at Caesars Palace (Las Vegas, NV), Target Center (Minneapolis, MN), StubHub Center (Carson, CA), AEG Facilities, LLC; AEG Global Partnerships, LLC; the LA Galaxy (MLS); Ontario Reign (AHL); the Amgen Tour of California; AEG Presents, LLC; and others.
 
-#### What choices do I have about the collection, use, and disclosure of my personal or other information?
+The categories of personal data we process
 
-#### How can I access or update my Personal Information?
+The categories of personal data we collect and use include (examples may be subject to change):
 
-#### What security precautions do you take to protect my Personal Information?
+  * Identity Data – Information such as your name; address; email address; telephone number; gender; date of birth, age and/or age range; account login details, including your user name and password, avatar, or other account-related information; information you provide in connection with your application to be a vendor, volunteer, employee, or otherwise join or support our team or participate in Kings Events; your identity, public profile, and similar information from social networks such as Facebook (this may include your employment or education information if you include it in your public profile).
+  * Event Access Data – Information such as unique IDs and similar data collected or derived from the use of tickets or RFID enabled products such as wristbands, as well as location data, entrance location, entrance time, etc. relating to the use of a ticket at Kings Events; and potentially information about your vehicle at Kings Events (parking or access data).
+  * Location Data – Information about your location (for example, if you use WiFi at Kings Events, use GPS location in certain mobile applications, or when you provide your location in social media tags/posts we will record the dates and times of your visit and which locations you visited within Kings Events).
+  * Online Services Data – Information about how you use our internet-connected Services, including the pages or sections you have visited on the websites or mobile applications provided by us (including pages we control on third party platforms and social media sites), the other companies in Our Group or by our ticketing providers, the website or mobile application you were referred from, and when you visited or used them; information about electronic communications you receive from us, including whether that communication has been opened and if you have clicked on any links within that communication.
+  * Device Data – Information about electronic devices you use to access our Services (including our Services on third party social media sites, or technologies on the Services that are controlled by third party data controllers) such as make and model, device identifier, advertising identifier, operating system, browser, MAC address or IP address.
+  * Transaction Data – Information about the Services we or others provide to you (including for example, what Services you were provided, when and where, and, if applicable, how much you paid).
+  * Preferences Data – Information we receive or create about you, such as your demographics, product/service preferences, market segments, etc.; information derived from social media, e.g. likes and favorites, market segments, or opinions, and data or analytics provided about you or your account by social media companies; information from market research companies who provide us with additional personal data about you and your household such as income, number of children, occupation, social grade, home ownership status, the products and services you use or intend to use or purchase, and your interests.
+  * Financial Data – Information such as bank account details or payment card information.
+  * Contact Data – Information about how we can communicate with you, such as email and physical addresses, social media handles, and information you provide to us when you contact us by email or when you communicate with us via social media.
+  * Health Data – Information about your health (for example when you are buying tickets for wheelchair accessible spaces, when you request a sign language interpreter, or when we are investigating an accident which may have happened at a Kings Event).
+  * Biometric Data – Images from facial recognition systems operated at Kings Events or operated by the L.A. Kings at other Events and Venues (if any).
+  * CCTV – Recordings and images collected from surveillance cameras when you visit Kings Events and areas adjacent to them.
+  * User Content – Information you give us in free text fields such as comment boxes, answers you provide when you participate in sweepstakes, contests, votes and surveys, including any other personal data which you may provide through or in connection with our Services.
+  * Business Data – Information you submit when you apply for online donations through, or supported by, the L.A. Kings, including your name, email address, and phone number, although some special programs may require a physical address, business tax ID (as in the case of a non-profit organization’s donation request) or other additional information relevant to the program/event; information you provide when you request L.A. Kings staff, Bailey, or the Ice Crew to appear at an event, for example, information about you and any organization with which you are affiliated, including your name, email address, mailing address, employer, phone number, and information relating to the event.
+  * Children’s Data – Information parents provide when joining our Bailey’s Buddies programs, including personal data of their child(ren), such as the child’s name and email address, and if provided, mailing address, phone number, child’s birthdate, gender, age, school, and information about their sports-related extracurricular activities.
 
-#### Children’s Privacy
 
-#### Our Site is not directed at nor intended for use by minors, and in accordance with COPPA, we do not knowingly collect information from children under 13 without verifiable parental consent.  However, parents may provide their child’s Personal Information if the parent or guardian wishes for their child to participate in our Bailey’s Buddies program or other portions of our Digital Services which are “directed” at children. As part of the Bailey’s Buddies program, we may collect your child’s name and email address, and if you choose, their birthdate, gender, age, and other information we may request from you following signup. You may provide your consent via email, by using a credit card at check out, or other mechanism which may be allowed by COPPA. Where required, we may contact parents and guardians using the information provided in the applicable sign up form to obtain this consent. We will attempt to contact you twice, and if we have not received a response with your consent pursuant to COPPA, all information provided will be deleted.
 
-Unless we obtain parental consent, we do not share children’s Personal Information with third parties (other than those providing support services for the internal operations of our Digital Services) or use this information except to provide services directly related to the program for which a child’s information has been provided in connection with COPPA. We use that information only to provide services directly related to our Digital Services or the particular program, such as sending your child special offers, news, team updates or other appropriate information.
+**Sources of personal data**
 
-You may choose to review, delete or prohibit our further use of your child’s Personal Information at any time. Further, you may revoke any consent you have previously provided. To do so, simply submit a request to us using the contact information below.
+We will receive your personal data when you provide them to us, when you purchase products and services offered via our Services, or when you otherwise use our Services.
 
-Except when collection is expressly allowed under COPPA or if the information has been provided by a parent (e.g. a parent registering their child for one of our programs), we will promptly delete any Personal Information we possess about children under the age of 13. If you believe we have inadvertently collected information outside these contexts, please contact us at the address below.
+We may also collect information about any device you have used to access our Services, the websites or mobile applications of other companies in Our Group, the websites of any ticketing service provider used to purchase a ticket to a Kings Event, or when you use WiFi at a Kings Event.
 
-#### Limitation of liability
+We also receive personal data about you from third parties, including:
 
-#### Changes to our Privacy Policy
+  * ticket agents such as AXS, Ticketmaster, StubHub and others, who transfer personal data to us when you purchase a ticket from them for our Events and Venues;
+  * event promoters, producers, and other partners or similar parties that provide us information in connection with products and services you purchase from them, or when you express interests (e.g. team preference or mailing list sign up) that relate to Our Group;
+  * ad networks, behavioral advertising vendors, market research, and social media companies or similar companies who provide us with additional personal data about you and your household, demographics, preferences, etc.
+  * Facebook and other social media companies who may transfer personal data to us when you register for one of our Services, or interact with that social media company on or in connection with our Services, Kings Events, or other Events and Venues within Our Group;
+  * service providers, such as companies providing WiFi service at Kings Events, or other third parties that provide services on our behalf.
 
-#### International users
 
-#### Contact us
 
-#### What information do we collect and how do we use it?
+We will combine any personal data about you that we receive from you, from other companies in Our Group, and from third parties. Note that certain third parties may be able to identify you across sites and services using the information they process, however, any such processing not done at the direction of the L.A. Kings is outside the scope of this Privacy Policy.
 
-We may collect personal and other information about you when you use any of the Digital Services, as described below. “ **Personal Information** ” is information which can be used to distinguish or trace an individual’s identity, such as their name, social security number, email address, etc. whether used alone, or when combined with other personal or identifying information which is linked or linkable to a specific individual.
+**How we process your personal data**
 
-We typically collect Personal Information and other data from you, and use that information in the following ways and as otherwise set forth in this Policy or otherwise communicated to you from time to time:
+All personal data that we obtain about you will be used in accordance with current data protection law and this Privacy Policy. We, or third party data processors acting on our behalf, will process your personal data for the following purposes, subject to your rights and choices below:
 
-## **_When you register on the Site_**
+When you make a purchase or other transaction through our Service  
+We generally process Identity Data, Financial Data, Transaction Data and Contact Data as necessary to perform or initiate a contract with you, process your order and payment, and carry out relevant fulfillment and delivery operations. The L.A. Kings may use third party vendors to handle certain camp or clinic registrations, charity auctions or other purchase transactions. We may receive information from these vendors and will processes this information as we would other purchases or transactions.  
+In addition, we may also process this information along with Device Data, Online Services Data, and Preferences Data that we collect and/or create as necessary in connection with certain legitimate business interests, such as:
 
-Users may register on our Site to receive updates on the team, our games, and other features available to registered users. Please note, you may also register with nhl.com or other websites and services through links on our Site, and in such cases, these terms do not apply. If you register on our Site, we collect Personal Information such as your name, email, address and any other Personal Information required on the registration form. We use this information to manage and correspond with you about your account, send you information and newsletters related to the L.A. Kings, and for other related matters.
+  * ensuring the security of our Services and to prevent fraud; and
+  * providing you with information about our Services, contacting you about administrative matters, and managing and responding to any queries or complaints you make or any correspondence you send us.
 
-## **_When you sign up for our newsletters, emails and other offers_**.
 
-We may offer newsletters and other communications that provide information about the team, our games, our Digital Services, our partners and sponsors, or other information we think would be of interest to you. By providing your email address and any other Personal Information required by the online form, you consent to receive these communications from us. We use this information primarily to administer and manage our newsletter subscriptions and to provide you with additional communications, offers, or newsletters we believe will interest you, or that you have consented to receive.
 
-## When you use the ‘contact us’ form, program/event forms, or live chat
+NOTE: The L.A. Kings will accept online donation applications from non-profit organizations only-not from individuals. Individuals should not submit their social security number or other sensitive personal information using our Services.
 
-You may contact us and provide Personal Information using special forms available on our Digital Services. For some inquiries on our Digital Services, you may also be able to contact us via live chat. These features allow you to ask questions about our team, tickets and services, to sign up for special programs/events we may offer, or otherwise to provide your Personal Information for a specified purpose. If you contact us through these methods, we will collect the Personal Information you voluntarily provide on the applicable form, chat window, or otherwise. Typically, we will collect your name, email address, and phone number, although some special programs may require a physical address, business tax ID (as in the case of a non-profit organizations’ donation request,) or other additional information relevant to the program/event.
+When you attend Kings Events 
 
-_NOTE: The L.A. Kings accepts online donation applications from non-profit organizations only—not from individuals. Individuals should not submit their social security number or other sensitive Personal Information using our Site._
+We generally collect and process Identity Data and Event Access Data as necessary to grant you access to Kings Events and provide the services or products you have purchased. Note, as described below, our Kings Event partners, or third-party service providers may collect and process this information and may share it with us.  
+In addition, we may process this data in combination with Online Services Data, Preferences Data and Location Data that we collect and/or create as necessary in connection with certain legitimate business interests, such as:
 
-Any information you provide through these forms or chat will be used only in the context of our request, program or event, to answer your inquiry, or to provide additional information related to that inquiry. We may also place you on our marketing list for information related to your inquiry or which we otherwise believe would be of interest to you based on your inquiry. We may also use your information as described elsewhere in this Privacy Policy, subject to your consent, when required by applicable laws.
+  * verifying your identity for authentication and security purposes;
+  * helping us to ensure our customers are genuine and preventing fraud;
+  * helping us to return lost property to its rightful owner; and
+  * managing access to specific areas of Kings Events (for example, we will use lists of people and/or vehicles to allow us to manage access to VIP areas).
 
-## **_Automatic collection when you access our Digital Services._**
 
-Our Digital Services automatically collect certain information from you when you use them. For example, through our Digital Services, our servers or networks may collect your device’s IP address and other device or network information, such as your screen resolution, OS version, browser version, and certain identifiers. We use this information to help ensure that our content is displayed properly, so that we can understand how, where and which devices access our Digital Services, and to improve the quality and delivery of our Digital Services.
 
-We may log click-stream or similar data for purposes of system administration, to improve our Digital Services, to report aggregate information to our advertisers, and other internal uses related to the Digital Services. Click-stream data is information collected when you request pages from our Digital Services, and may include information such as the page served, the time, the source and type of browser making the request, the most recent page view, and other non-Personal Information. This data helps us analyze how visitors arrive at our Digital Services, what type of content is most popular, what type of visitors are interested in particular kinds of events, content, advertising, and the like. We may associate click-stream, shopping cart, ticket purchase (whether complete or incomplete) and other similar data with other information we hold about you so that we can personalize or improve the relevance and quality of the services we provide to you.
+NOTE: in certain cases, we may collect Health Data or Biometric Data. Health Data is generally used so that we can provide certain services to you such as to provide you with tailored services you request (for example, a wheelchair accessible space or a sign language interpreter) or to help us investigate an incident which may have taken place at a Kings Event. Biometric Data may be used for access control, creating aggregate data, personalization, or other commercial purposes. In each case, where consent is required by law, we will process this information only with appropriate consent.
 
-## When you make a purchase.
+When we collect children’s data
 
-Some purchases on our Digital Services or on our premises are handled directly by The L.A. Kings, and others are managed and processed by third party service providers (such as axs.com, auction.nhl.com, shop.nhl.com, or shopify.com). These third parties may or may not be affiliated to The L.A. Kings, but in either case, the terms, conditions, and privacy practices of the third party, not The L.A. Kings, will govern your transaction.
+We collect and use children’s data as necessary to complete registrations or other requests relating to children’s activities at Kings Events, or in connection with L.A. Kings’ Bailey’s Buddies, requesting the Kings Ice Crew or other programs such as leagues and clinics.   
+In addition, we may process this data as necessary in connection with certain legitimate business interests, such as:
 
-We or third party service providers may collect Personal Information when you purchase a ticket, ticket package (such as season tickets, group tickets, tickets to a private suite or seating area), sign up for the ticket waitlist, or make other purchases on our Digital Services, by telephone, or on premise. For example, we or our third party service providers may collect your name, email address, phone number, mailing address, payment account information, security codes, other Personal Information that may be required to process your transaction, and other information depending on the purpose for which the Personal Information was provided.  If you make any purchase through third parties on our Digital Services, some or all of your payment may be processed by a third party, and your tickets may also be issued and managed by that third party.
+  * verifying your identity for authentication and security purposes;
+  * helping us to return lost property to its rightful owner;
+  * managing access to children’s events.
 
-We or our third party service providers use purchase information in order to administer, manage and correspond with you about your purchase, and you agree that both parties may add your Personal Information to its databases in order to inform you of upcoming events, offers or other information that may be of interest to you. We or our third party service providers may also collect and store your purchase information and associate it with Personal Information held about you so that we or they can personalize services and offers for you.
 
-## **_When you use our Mobile App._**
 
-If you download and use our Mobile App, we or third party service providers may collect certain information through that Mobile App. Information collected may include: the Personal Information and other registration, login, or user information you choose to provide; information about your device, such as your IP address, OS, device model, your device’s proprietary advertising identifier; messages you send, including any Personal Information other information you provide through any messaging features; and information relating to how you use the Mobile App, such as the content you view, ads you click, and purchases you make. When you consent to the use of location services, or otherwise depending on the settings on your mobile device, we, our affiliates (such as the Staples Center) and third party service providers may collect the precise location information provided by your device, including data provided by your GPS, WiFi, or otherwise obtained when the Mobile App or your device interacts with a bluetooth or other proximity or location beacon at a venue.
+With parental consent we may also collect your mailing address and phone number, as well as your child’s birthdate, gender, age, school, and information about their sports-related extracurricular activities.
 
-We collect the information primarily to facilitate the functionality of our Mobile App and deliver valuable, entertaining content to you at or relating to our venue. For example, we collect your registration information so we can show you content that interests you. We may collect your device’s location in order to show you offers or features available near you at our venue, to deliver more relevant information and ads, and to understand how users interact with our venue. We may combine data we collect through our Mobile App with other information we hold about you so that we can personalize or improve the relevance and quality of the services we provide you.
+Children’s Data (such as data collected via Kings Events, our Bailey’s Buddies program, leagues, camps, or clinics) is not shared for marketing or commercial purposes except as allowed under applicable law, including the Children’s Online Privacy Protection Act (COPPA.)
 
-**Please note: our Mobile App is developed and operated by a third party. Please see the third party’s privacy policy for more information about how they process your Personal Information. This Mobile App may, however, frame portions of our Digital Services, and you may provide information directly to us through the Mobile App in those circumstances.**
+See the Minors section below for more details regarding the handling of Children’s Data.
 
-## **_When you enter a contest, sweepstakes or other promotion._**
+Closed Circuit Television (CCTV)
 
-We may operate contests, sweepstakes or other promotions (each, a “ **Promotion** ”) through our Digital Services, which may require registration on our Digital Services or through our social media channels in order to enter. Your Personal Information may be used by us to contact you for winner notification, prize delivery confirmation or other promotional purposes. Your entry may also result in your being added to our marketing lists as well as those of third parties (sponsors or otherwise) associated with the Promotion.
+  * We may collect and/or create CCTV data as necessary in connection with certain legitimate business interests, such as
+  * preventing and detecting crime and to keep people who visit and work at Kings Events safe and secure;
+  * recording and investigating health and safety and other incidents at Kings Events;
+  * counting the numbers of people who visit Kings Events and to analyze flows of people around Kings Events for safety and commercial purposes using software which analyzes CCTV camera images; and
+  * creating Aggregated Data (defined below).
 
-If you win a Promotion, your acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your Personal Information on our Digital Services or elsewhere, such as on a winner’s page. In some instances, a third-party advertiser or sponsor may operate or host a Promotion on the Digital Services together with The L.A. Kings, and collect your information. In cases where we are not the sponsor, operator or host of the Promotion, we may have no control over the information collected and accordingly encourage you to review the official rules of the Promotion as well as the advertiser’s or sponsor’s privacy policy applicable to the Promotion before participating.
 
-## When signing up for Bailey’s Buddies Program
 
-We allow children aged 14 and under to join our Bailey’s Buddies program. To join, parents or guardians may provide Personal Information of their child(ren). When a child or parent of a child under the age of 13 submits Personal Information, we will treat it in accordance with the Children’s Online Privacy Protection Act (“ **COPPA** ”).
+When you access or use our online Services
 
-As part of the Bailey’s Buddies registration, we may collect your and your child’s name and email address. With your consent we may also collect your mailing address and phone number, as well as your child’s birthdate, gender, age, school, and information about their sports-related extracurricular activities.  Please see our “Children’s Privacy” section below for more information about our use of your child’s Personal Information and the choices you have with regard to that information.
+We generally process Device Data as necessary to initiate or fulfill your requests for certain features or functions through our Services, such as keeping you logged in, delivering pages, etc. 
 
-## When you request L.A. Kings staff to appear at an event
+In addition to Device Data, we may also process Online Services Data, Contact Data, Identity Data, and Preferences Data that we collect, create, and/or receive (including through the use of cookies and similar technologies) as necessary in connection with certain legitimate business interests, such as
 
-We allow parents, teachers, and others in the community to request L.A. Kings staff and representatives, such as Bailey or our Ice Crew. When you request these services, we may collect information about you and any organization with which you are affiliated, including your name, email address, mailing address, employer, phone number, and information relating to the event. While these forms are directed at organizers, and we do not collect information relating to children, in the event we receive information from or about a child under the age of 13, we will treat that information in accordance with COPPA.
+  * ensuring the security of our websites, mobile applications and other technology systems; and
+  * analyzing the use of our Services, including navigation patterns, clicks, etc. to help understand and make improvements to the Services.
 
-## When you post comments or other content on our Digital Services.
 
-We typically collect your name, email address, and website when you leave a comment or post other content on our Digital Services. We may use this information in connection with your postings, or to contact you about a post you have made. Please be aware that your name, website and any other information you provide in a comment box or similar field on our Digital Services, including any additional Personal Information, may be made public as soon as you post it on our Digital Services. We do not screen comments or other postings for personal or inappropriate information.
 
-If you post a comment or content to social media that references our official accounts, your comment or content may appear on our Site. We may receive information, to the extent provided to us by the social media platform. See those those third party providers for more information.
+When you enter a contest or other promotion
 
-## When you complete a Survey.
+We process Identity Data, Contact Data, and User Content as necessary to process your request to enter the contest, or take part in a promotion, notify you if you have won or to process delivery of a prize or for other related purposes.   
+In addition, we may process this information in connection with our legitimate business interests, such as: 
 
-We may occasionally feature surveys on our Digital Services, which may collect certain Personal Information from you. For example, we may collect your name and email address, a unique customer ID number, as well as other information related to your experience at one of our events or venues. By completing the survey, you consent to our collection of any Personal Information you choose to provide. We use information collected in the surveys to administer, track, respond to, analyze or otherwise complete the survey process.
+  * verifying your identity for authentication and security purposes; and
+  * helping us to ensure our customers are genuine and to prevent fraud.
 
-## Cookies, tracking, and interest-based advertising.
 
-Our Digital Services may use cookies, web beacons, pixel tags, and similar digital tracking technologies. Cookies are small data files that are transferred to your hard drive when you visit a website if your browser settings permit the acceptance of cookies.  Cookies may enable us to recognize your computer, store your preferences and settings, enhance your user experience by delivering content specific to your interests, perform searches and analytics and assist with security administrative functions.. Similar technologies, such as web beacons or pixel tags function through the use of small files, such as a GIF or PNG, which are opened on a page, ad, or in an email. The request for these files from a server reveals certain information, such as your browser type, IP address, and other information.  Tracking pixels (sometimes referred to as web beacons or clear GIFs) are tiny electronic tags with a unique identifier embedded in websites, online ads and/or email, and that are designed to provide usage information such as ad impressions or clicks, measure popularity of the Digital Services and associated advertising, and to access user cookies. We may also use these automated technologies to collect and analyze other non-personal information related to the devices you use to access the Digital Services, such as IP addresses, browser types, browser language, unique device identifiers and other information about your computer(s) and/or mobile device(s).  Some tracking technologies on our Digital Services may be provided by a third party (which may be collecting information on its own behalf, or may be providing such information to us).  Please note: some cookies/other technologies may track your activities not only on our Digital Services, but on third party sites you visit after you leave our Digital Services, and some services may aggregate this information collected from many sites into a single profile. To learn more about cookies and similar tracking technologies, and how they can affect your privacy, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
 
-Our Digital Services may use cookies or other technologies provided by website analytics services such as Google Analytics to help us better understand how our Digital Services are used. By tracking how and when you use our Digital Services, these technologies help us determine which features and content on our Digital Services are most important to our visitors. If you do not want information collected through the use of cookies, you can turn off cookies using your browser’s settings menu; however, this may eliminate our ability to provide a personalized or user-friendly experience. To learn more about, or to opt-out of Google’s analytic and marketing services, visit [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html), the [Google Privacy Policy](http://www.google.com/privacypolicy.html), or [Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
+Note, if you win a contest/sweepstakes, we may publicly post some of your personal data on our website or mobile application (for example acceptance of a prize may also require you to allow us to post publicly some of your personal data such as on a winners’ page). Where required by law, your information will not be posted without your consent.
 
-Data about your activities online may be collected either by us, our affiliates, or third parties, for use in providing advertising tailored to your individual interests. We may use third parties such as network advertisers and ad exchanges to serve advertisements across the internet and may use third party analytics service providers to evaluate and provide us and/or third parties with information about the use of these ads on third party websites and viewing of ads and of our content. You may or may not be offered a choice as to whether or not to have your information collected for that purpose. The information collected may include information about your visits to our Digital Services, such as the pages you have viewed. These third-party tracking technologies may be set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the effectiveness of the advertisements that have been delivered to you. This collection and ad targeting takes place both on our Digital Services and on third-party websites or services that participate in the ad network, such as websites that feature advertisements delivered by the ad network. This process also helps us track the effectiveness of our marketing efforts. The use of cookies, web beacons or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and we disclaim all liability in connection therewith. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as a DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Digital Services. To learn more about how to opt out of Google’s use of cookies, visit Google’s Ads Settings, [here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCiMsTp6hu2gwIWAph1FkupERVvz6U76wP-bPuXf-PU7jkGobIl9xnvmhGPWftIUqRO5jfqD7HmRfYDu-YQNYDT-kpUlM-6waE6L-s0tr4sqZOIvCkHqRJCn0zn3pZ9U7hBlkI7Ue6nMD6EtyapCYzG4ZRIutukmhqmav5FuNJZ7pFD2C08). To learn more about how to opt out of DoubleClick’s use of cookies, visit the DoubleClick opt-out page, [here](https://www.google.com/settings/ads?hl=en&sig=ACi0TCi3R4mL7qb_WRaELD5Z_YPR5O5InCvFFgPTJ5jcWbHaE2tb_jOvoIkA5pP6F9oEvdNnVsMQuwj5HJV2Pg-6RADnzbP9mI_0dcxfwak_4v1_JeRylUrylqkCThZSDLaaI0iKKqsfaEE9pvltfXxOZH9ZarVDcsj6b7B5xIgS7XgzMgJjPq6m-L38v01JOJumwnkQh8Kt).  To opt out from Facebook Custom Audience Pixel visit their customer support page [here](https://www.facebook.com/help/247395082112892).  To learn more about how to opt out of Twitter’s use of audience pixels, visit the Twitter help page [here](https://support.twitter.com/articles/20170407).
+Other processing purposes
 
-If you wish to take steps to opt-out of tracking by certain online advertisers, you can visit the Digital Advertising Alliance’s opt-out page at <http://www.aboutads.info/choices> or the Network Advertising Initiative at [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp). Please note, most modern browsers include a “do not track” feature that may help protect your privacy. However, because there is not yet a defined response to do-not-track requests, our Site does not respond to your browser’s do-not-track request.
+We may process any personal data we control as necessary, for our legitimate interests in providing the Services and ensuring they operate safely, securely and in a commercially suitable way, and for the good governance of our business, such as keeping business records, and analyzing the performance and use of our Services. 
 
-_Proximity beacons._
+We may also process any personal data as necessary to comply with our legal obligations, such as where you exercise your rights under data protection law and make requests, or where we must comply with our legal obligations, lawful requests from government or law enforcement officials, and as may be required to meet national security or law enforcement requirements or prevent illegal activity. We may also process data to protect the vital interests of individuals, or on certain public interest grounds, each to the extent allowed under applicable law. 
 
-Our Mobile App may collect data from physical proximity beacons located in or near certain venues, at our games, and (through partnerships with local businesses or entities) in areas or places visited by guests whose devices interact with our beacons. Proximity beacons emit radio signals and detect when a device enters a specific area. As such, we may collect data about your location and other contextual data when you are near a beacon. If your device preferences allow us or our Mobile App access to location services, we may collect information about the location of your device in our venues or at our games, including data from each of our or our partners’ beacons with which you interact, and we may send you relevant, targeted offers based on this data (for example, a discount on food purchases near the game). We, our affiliates, and any third parties enabling these features may store this data and combine it with other information about you. You may disable the communication of these beacons with your mobile device by disabling Bluetooth (or other appropriate interface) or modifying your preferences for location services through your device/OS.
+**Personalization, Marketing and Advertising**
 
-_Other sources of Personal Information or data._
+Entertainment is personal, and we are always working to help you find the events for you to enjoy. In order to understand our customers’ preferences, and better recommend products and services that are personalized to our prior customers, we may link together personal data processed for the following purposes:
 
-If we receive Personal Information or data from you through our Digital Services other than as described in this Privacy Policy, it will still be used and managed in accordance with this Privacy Policy, unless otherwise stated at the time you provide the information.
+  * when you make a purchase or other transaction through our Service;
+  * when you attend Kings Events;
+  * when you access and use our online Services; and
+  * when you enter a contest or other promotion.
 
-As described above, our Digital Services include features, functionality, or offers (such as ticket purchases, promotions, surveys, forms etc.) provided by third parties, and may also contain links to third party advertisers and others. When you make purchases through third parties, we do not receive your payment account information, as the purchase and payment transaction is processed by the third party. However, we may sometimes receive your email or other information provided during a purchase from the company through which your transaction was processed.  We may also receive information from other third parties collecting information on our Digital Services, such as a third party promotion in which you choose to register.  Any third party websites or services to which our Digital Services link may use cookies, independently collect data or solicit Personal Information, and you should carefully review the privacy policies of these third parties before providing them any Personal Information. This Policy does not apply to any information you submit to third-party websites or services, including, without limitation, any sites to which our Digital Services may redirect you for purchasing tickets, or other sites that may be connected to our Digital Services by hypertext link or otherwise.
 
-Information we collect may be shared with a variety of parties, depending upon the purpose for and context in which that information was provided. We reserve the right to share your Personal Information with our current or future affiliated entities, subsidiaries, and parent companies. Except for information collected from children under the age of 13, we may also share your Personal Information and other information with trusted third parties for marketing purposes, and we may occasionally allow third parties to access certain Digital Services for marketing purposes. Information collected through our Bailey’s Buddies program is not shared, except as provided below or as expressly allowed by COPPA. In addition, if you purchase a ticket from another company and that company shares any of your Personal Information with us, we or that company may share it with event promoters or otherwise in accordance with this Policy.
 
-We may, without your consent, share Personal Information with service providers who provide certain services on our behalf, or in the other circumstances noted below. For example, we may share certain Personal Information we collect with third parties such as providers of data hosting or processing services, payment processors, or other service providers. We also reserve the right to share any information we possess or data derived from it with service providers or others if such information has been reasonably de-identified.
+We use this information for our legitimate interests in:
 
-In the event that we go through a business transition, such as a merger, acquisition, liquidation or sale of all or a portion of our assets, customer data, including Personal Information, will, in most instances, be part of the assets transferred, or may be disclosed (subject to confidentiality restrictions) during the due diligence process for a potential transaction.
+  * market research and statistical analysis in connection with the improvement of our Services; 
+  * personalizing the Services and future offers you see;
+  * creating aggregate data; and
+  * marketing communications.
 
-In limited circumstances, we may, without your consent, access and disclose your Personal Information, any communications sent or received by you, and any other information that we may have about you to the extent we believe such disclosure is required by law, regulation, rule or court order; pursuant to requests from governmental, regulatory or administrative agencies or law enforcement authorities; or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding suspected fraud, violations of our Terms of Use, or activity that appears to us to be illegal or we believe may expose us to legal liability. Additionally, we may disclose Personal Information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property if we believe that your information in any way relates to that threat.
 
-It is possible for you to use our Digital Services without providing any Personal Information, but you may not be able to access certain features or view certain content. You may, to the extent such information is shared, opt out of having your information provided to third parties for marketing or other commercial purposes, and opt out of additional communications from us.
 
-You can unsubscribe from all email newsletters or similar communications by clicking on the unsubscribe link in every email. You may opt out of all information sharing with third parties for marketing purposes by contacting us at the address or email below. You may control or limit information we collect using proximity beacons or other location services and networks by changing your preferences in your device’s location services preferences menu, or through your choices regarding Bluetooth, WiFi, and other network interfaces you may use to interact with our Digital Services.
+We may also process this personal data for targeted advertising. However, where consent to processing is required by law, we will link and process this information for targeted advertising only with appropriate consent.
 
-Please note, if you do not wish for us to provide certain information to one or more of our commercial service providers, we may be unable to complete a transaction you request. You can unsubscribe from all email newsletters or similar communications by clicking on the unsubscribe link in every email. You may opt out of all information sharing with third parties for marketing purposes (if any) by contacting us at the address or email below.
+Aggregated data
 
-You may access or update any Personal Information we hold about you by sending a letter or email using the contact information listed below. We will respond to reasonable requests for access or revision and will provide access to the extent required or allowed by law. However, we may decide not to grant access or make revisions where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in any given case, or when the rights of others would be violated by granting the access.
+We will collect and aggregate on an anonymous basis information about you, your spending and use of our Services with information about other users of the Services in order to identify trends (“Aggregated Data”). We may pass Aggregated Data to the third parties referred to in the section below, to give them a better understanding of our business and to bring you a better service. Aggregated Data will not contain information that personally identifies you.
 
-To obtain a list of the Personal Information that we hold about you, or for residents of California (as required by California law) any Personal Information we have disclosed about you to third parties for direct marketing purposes during the preceding calendar year, please send a written, signed request to: The L.A. Kings, Attn: Privacy Policy, 300 N. Continental Suite. 500 – El Segundo, CA 90245  
-**What security precautions do you take to protect my Personal Information?**
+Marketing communications
 
-We have implemented reasonable security measures to safeguard the Personal Information you provide us. However, please keep in mind that we cannot be liable for the actions of third parties to whom we may transfer your Personal Information in accordance with this Policy, or third parties to whom you directly provide your Personal Information (such as when you purchase a ticket from a third party through links on our Digital Services). Furthermore, please remember that “perfect security” does not exist on the Internet, and accordingly we cannot provide any guarantee that your Personal Information or any other information you provide us will remain secure.
+Consistent with our legitimate business interests, we (or if appropriate, our third party partners) may send you marketing and promotional communications if you sign up for such communications or purchase products or services from us, as permitted by applicable law. Where allowed, we may also send you these communications if you register for our Services or for a promotion, or in connection with your communications with, or submission of User Content to, us. These communications may be personalized or customized based on your user profile. Similarly, we may also collect device data and contact data so that we can determine whether you have opened an email or otherwise interacted with our communications, and we may generate preferences data based on these interactions.
 
-Our Site is not directed at nor intended for use by minors, and in accordance with COPPA, we do not knowingly collect information from children under 13 without verifiable parental consent.  However, parents may provide their child’s Personal Information if the parent or guardian wishes for their child to participate in our Bailey’s Buddies program or other portions of our Digital Services which are “directed” at children. As part of the Bailey’s Buddies program, we may collect your child’s name and email address, and if you choose, their birthdate, gender, age, and other information we may request from you following signup. You may provide your consent via email, by using a credit card at check out, or other mechanism which may be allowed by COPPA. Where required, we may contact parents and guardians using the information provided in the applicable sign up form to obtain this consent. We will attempt to contact you twice, and if we have not received a response with your consent pursuant to COPPA, all information provided will be deleted.
+Personalization and profiling
 
-Unless we obtain parental consent, we do not share children’s Personal Information with third parties (other than those providing support services for the internal operations of our Digital Services) or use this information except to provide services directly related to the program for which a child’s information has been provided in connection with COPPA. We use that information only to provide services directly related to our Digital Services or the particular program, such as sending your child special offers, news, team updates or other appropriate information.
+We or other companies in Our Group will combine any personal data about you that we receive from you, from other companies in Our Group, and from third-parties in order to create marketing profiles.
 
-You may choose to review, delete or prohibit our further use of your child’s Personal Information at any time. Further, you may revoke any consent you have previously provided. To do so, simply submit a request to us using the contact information below.
+Marketing profiles include personal data such as information about Services you have used or purchased previously, information about when you have visited Kings Events in the past and which parts of the building you visited or events you attended, demographic data and data from your social media profiles.
 
-Except when collection is expressly allowed under COPPA or if the information has been provided by a parent (e.g. a parent registering their child for one of our programs), we will promptly delete any Personal Information we possess about children under the age of 13. If you believe we have inadvertently collected information outside these contexts, please contact us at the address below.
+For example, we may analyze the personal data of people who have purchased tickets for a particular Kings Event, and then compare them with other people in our database. If we identify people in our database who have similar personal data to the original purchasers, we may then target marketing about that Kings Event to the new people we have identified in our database, for example by sending direct marketing emails. We may conduct the profiling and send the direct marketing emails automatically.
 
-By providing us with any Personal Information you expressly and unconditionally release and hold harmless The L.A. Kings, its parents, subsidiaries, affiliates, related companies and their respective shareholders, owners, members, directors, officers, employees and agents (collectively, the “ **Releasees** ”) from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected Personal Information. In addition, we cannot be held liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your Personal Information by any third parties who receive your Personal Information. We make no representations or warranty regarding any third-party’s use, collection or disclosure of your Personal Information.
+Targeted Advertising
 
-By using any of our Digital Services, you consent to the terms of this Policy. We may change this Policy from time to time. We will post the effective date for this and any revised policy. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest Policy. Your continued use of our Digital Services constitutes your acceptance of any revised Policy.
+Our Group, and certain third parties operating on or through our Services, may engage in targeted advertising. This form of advertising includes various parties and services providers, including third-party data controllers, engaged in the processing of personal data in connection with advertising. These parties may be able to identify you across sites, devices, and over time. 
 
-If you are accessing our Digital Services from outside of the United States, any information provided will be transferred to us or our service providers in the United States. Regardless of where your information is collected or transferred, the information will be treated in accordance with this Privacy Policy. You consent to such transfer through your continued use of our Digital Services.
+The parties that control the processing of personal data for targeted, behavioral advertising purposes may create or leverage information derived from personalization and profiling. In some cases, these parties may also develop and assess aspects of a profile about you to determine whether you are a type of person a company wants to advertise to, and determine whether and how ads you see are effective.
 
-If you have any questions about this Policy, our privacy practices, or your dealings with our Digital Services, please contact:
+These third parties may augment your profile with demographic and other preferences data derived from these observations, and may also track whether you view, interact with, or how often you have seen an ad, or whether you complete a purchase for a good or services you were shown in an advertisement. 
 
-[internetpolicy@aeg-la.com](mailto:internetpolicy@aeg-la.com)
+We generally use targeted advertising for the purpose of marketing our Services and third party goods and services, to send marketing communications, including by creating custom marketing audiences on third-party websites (such as Facebook).
 
-or
+Sharing your personal data
 
-The L.A. Kings  
-Attn: Privacy Policy
+In order to streamline certain business operations, improve Service personalization and behavioral marketing, develop products and services that better meet the interests and needs of our customers, and promote information we believe will be of interest to you, we will share your personal data with other companies in Our Group, as well as any other current or future affiliated entities, subsidiaries, and parent companies of the L.A. Kings.
 
-300 N. Continental Suite. 500
+In connection with our general business operations, product/service improvements, to enable certain features, and in connection with our other legitimate business interests, we may share your personal data with service providers who provide certain services or process data on our behalf. We may also share information with or receive it from third party operators of Kings Events.
 
+In order to improve personalization, deliver more relevant advertisements, and develop better products and services, we may share certain personal data with current or future affiliated entities and trusted third parties for marketing, advertising, or other commercial purposes, and we may allow third parties (such as Facebook and social media advertisers, ad exchanges, data management platforms, or ad servers) to operate on our Services and process data for behavioral advertising.
+
+Where allowed by law, or with your consent, we will share your personal data with other trusted third parties, for example the sponsors with which we work. In certain cases, these parties may use your personal data for marketing or promotional purposes by sending you information about related products or services that may be of interest to you.
+
+If you use any social media plugin, API, or other similar feature, use an event hashtag or similar link, or otherwise interact with us or our Services via social media, we may make your post available on our Services or to the general public. We may share, rebroadcast, or redisplay personal data or other information in the post to the extent permitted by the relevant social media service.
+
+We will also disclose your personal data to third parties in the following circumstances:
+
+  * if we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer of such business or assets;
+  * if we or substantially all of our assets are acquired by a third party, in which case personal data held by us will be one of the transferred assets;
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, any lawful request from government or law enforcement officials and as may be required to meet national security or law enforcement requirements or prevent illegal activity;
+  * in order to enforce or apply our Terms of Use or any other agreement or to respond to any claims, to protect our rights or the rights of a third party, to protect the safety of any person or to prevent any illegal activity; or
+  * to protect the rights, property, or safety of Our Group, our customers or other persons. This may include exchanging personal data with other organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+International transfers of your personal data
+
+If you are located outside the US, your personal data may be transferred to and/or processed in the United States.
+
+In particular, your personal data may also be processed by staff operating in the United States, other members of Our Group or third-party data processors. Such staff may be engaged in, among other things, the provision of our Services to you, the processing of transactions and/or the provision of support services.
+
+Some countries outside Europe do not have laws that protect your privacy rights as extensively as those in Europe. However, if we do transfer your personal data to other territories, we will put in place appropriate safeguards to ensure that your personal data are properly protected and processed only in accordance with this Privacy Policy. Those safeguards include imposing contractual obligations of adequacy or requiring the recipient to subscribe to or be certified with an ‘international framework’ of protection. You can obtain more information about the safeguards we put in place by contacting us using the information below.
+
+How long do we keep your personal data?
+
+We retain information for so long as it, in our discretion, remains relevant to its purpose, and in any event, for so long as is required by law. We will periodically review retention periods, and may sometimes pseudonymize or anonymize data held for longer periods, if appropriate.
+
+However, in some circumstances we will retain your personal data for a shorter period, such as CCTV footage, which will be retained as required by law. Similarly, we will retain your personal data for longer if we believe we may need them in order to respond to any claims, to protect our rights or the rights of a third party, and we will retain your personal data for longer if we are required to retain them in order to comply with applicable laws.
+
+We will retain your personal data in accordance with data protection law and for so long as it is necessary for the purposes for which it is processed.
+
+Your rights
+
+To the extent applicable law grants you the right to do so, you may contact our Data Privacy Team (using the information below) at any time, to:
+
+  * request that we provide you with a copy of the personal data which we hold about you;
+  * request that we update any of your personal data which is inaccurate or incomplete;
+  * request that we delete any of your personal data which we are holding;
+  * request that we restrict the way that we process your personal data;
+  * request that we provide your personal data to you or a third-party provider of services in a structured, commonly-used and machine-readable format;
+  * object to us processing personal data based on our legitimate interests, including profiling; or
+  * object to us processing your personal data for direct marketing purposes.
+
+
+
+Your request must include your name, email address and postal address and we may request proof of your identity. Please allow at least seven working days for us to process your request.
+
+Your California Privacy Rights
+
+Residents of California (and others as required by applicable law) may request a list of personal data we have disclosed about you to third parties for direct marketing purposes during the preceding calendar year. You may submit your request by contacting us regarding “data rights requests.” Please note, we may request any additional information from you which may be required by or appropriate under applicable law to fulfill your request.
+
+Individuals under the age of 18 in California can delete or remove posts using the same deletion or removal procedures described above, or otherwise made available through the Services. If you have questions about how to remove your posts or if you would like additional assistance with deletion you can contact us. We will work to delete your information, but we cannot guarantee comprehensive removal of that content or information posted through the Services.
+
+Your Choices
+
+You may control or limit location data that we collect through our Services by changing your preferences in your device’s location services preferences menu, or through your choices regarding the use of Bluetooth, WiFi, and other network interfaces you may use to interact with our Services. However, please note that use of RFID technologies may be necessary for the functioning of hardware required for certain processing of personal data.
+
+Our Services do not respond to your browser’s do-not-track request. If you do not want information collected through the use of cookies, you can manage/deny cookies (and certain technologies) using your browser’s settings menu. You must opt out of third-party services directly via the third party. For example, to opt-out of Google’s analytic and marketing services, visit Google Analytics Terms of Use, the Google Privacy Policy, or Google Analytics Opt-out.
+
+You may opt out or withdraw your consent to behavioral advertising. You must opt out of third-party services directly via the third party. For example, to opt out of Google’s use of cookies, visit Google’s Ads Settings, here. To opt out from Facebook Custom Audience Pixel, visit their customer support page here. To learn more about how to opt out of Twitter’s use of audience pixels, visit the Twitter help page here. If you wish to take steps to opt-out of tracking by certain online advertisers, you can visit the Digital Advertising Alliance’s opt-out page at http://www.aboutads.info/choices or the Network Advertising Initiative at www.networkadvertising.org/optout_nonppii.asp. You can limit or opt out of our processing for behavioral advertising by contacting us using the information below.
+
+Withdrawing your consent
+
+Where we are processing your personal data based on your consent, you may change your mind and withdraw your consent at any time.  
+You can withdraw your consent to receive marketing communications by clicking on the unsubscribe link in an email or by adjusting the push message settings for the mobile application.
+
+You can also withdraw your consent to receive marketing communications or any other consent you have previously provided to us by contacting us using the information below.
+
+The consequence of you withdrawing consent might be that we cannot perform certain services for you, such as location based services, the availability of personalized services or relevant advertising, or other services conditioned on your consent.
+
+Right to lodge a complaint with a supervisory authority
+
+You may also make a complaint to a supervisory authority for data protection matters. Complaints should be directed to the appropriate supervisory authority in your jurisdiction. Alternatively, you may seek a remedy through local courts if you believe your rights have been breached.
+
+How do we protect your personal data?
+
+We use industry standard technical and organizational security measures to protect your personal data. We keep your personal data secure by implementing policies, procedures and access controls so that only authorized members of our staff or authorized third parties can access your personal data, and we use encryption when appropriate. We protect our information technology systems with firewalls and anti-virus and anti-malware software and other information security technology solutions.
+
+We cannot guarantee the security of your personal data when you transmit it to us. For example, if you email us your personal data, you should be aware that email is not a secure transmission method. As such, you acknowledge and accept that we cannot guarantee the security of your personal data transmitted to us and that any such transmission is at your own risk. Once we have received your personal data, we will use strict procedures and security features to prevent unauthorized access.
+
+Where we have given you (or where you have chosen) a password which enables you to access one of our Services, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Links to other websites and mobile applications
+
+We sometimes provide you with links to other websites or mobile applications, but these websites and mobile applications are not under our control. We are only responsible for the privacy practices and security of our Services. We are not responsible for the privacy policies, content or security of any linked websites or mobile applications. We recommend that you check the privacy and security policies of each and every website and mobile application that you visit.
+
+For example, some purchases on our Services or on our premises are handled directly by the L.A. Kings, and others are managed and processed by third-party service providers (such as axs.com, auction.nhl.com, shop.nhl.com, or shopify.com). These third parties may or may not be affiliated to the L.A. Kings, but in either case, the terms, conditions, and privacy practices of the third party, not the L.A. Kings, will govern your transaction.
+
+Please note, the L.A. Kings mobile app is developed and operated by a third party. Please see the third party’s privacy policy for more information about how they process your personal data. This mobile application may, however, frame portions of our Services, and in these cases, you may provide information directly to us through the mobile application.
+
+In some instances, a third party may operate or host a contest/sweepstakes on our websites or mobile applications, and collect your personal data. In those cases, where we are not the operator or host of the contest/sweepstakes, we have no control over the personal data collected and accordingly urge you to review the third party’s privacy policy before participating.
+
+As described above, we and our third party service providers may add your personal data to our and their databases in order to inform you of upcoming events, offers or other information that may be of interest to you. We or our third-party service providers may also collect and store your purchase information and associate it with personal data held about you so that we or they can personalize services and offers for you.
+
+Cookies and other tracking technologies
+
+We use cookies and web beacons on our websites. Third parties also view, edit, or set their own cookies or place web beacons on our websites. Cookies and web beacons allow us and third parties to distinguish you from other users of our websites. Some of these technologies can be used by us and/or our third-party partners to identify you across platforms, devices, sites, and services. Third parties may engage in behavioral advertising using this data. 
+
+Cookies and web beacons are used by us and third parties for the following purposes:
+
+  * to enable certain features of our websites (for example, to allow a customer to maintain a basket when they are shopping at an online store);
+  * to analyze the traffic to and on our websites (for example, we can count how many people have looked at a specific page, or see how visitors move around the website when they use it, what website the visited prior to visiting our website, and use this information to understand user behaviors and improve the design and functionality of the website);
+  * for social media integration (e.g. via third-party social media cookies) or when you share information using a social media sharing button or “like” button on our Services or you link your account or engage with our content on or through a social networking website such as Facebook or Twitter; and
+  * to collect information about your preferences and demographics to help target advertisements which are more likely to be of interest to you using behavioral advertising;
+  * to allow us to carry out retargeting (this includes, for example, when advertisements are presented to you for products or services which you have previously looked at on a website, but have not purchased).
+
+
+
+The use of these technologies by such third parties is subject to their own privacy policies and is not covered by this Privacy Policy, except as required by law. 
+
+Minors 
+
+Our Services are generally not directed at nor intended for use by minors, and in accordance with COPPA, we do not knowingly collect information from children under 13 without verifiable parental consent. However, parents may provide their child’s personal data if the parent or guardian wishes for their child to participate in our Bailey’s Buddies program, our youth leagues, clinics, or in connection with other programs or portions of our Services which are “directed” at children. As part of these programs, we may collect your child’s name and email address, and if you choose, their birthdate, gender, age, and other information we may request from you following signup. You may provide your consent via email, by using a credit card at check out, or other mechanism which may be allowed by COPPA. Where required, we may contact parents and guardians using the information provided in the applicable sign up form to obtain this consent. We will attempt to contact you twice, and if we have not received a response with your consent pursuant to COPPA, all information provided will be deleted.
+
+Unless we obtain parental consent, we do not share children’s personal data with third parties (other than those providing support services for the internal operations of our Services) or use this information except to provide services directly related to the program for which a child’s information has been provided in connection with COPPA. We use that information only to provide services directly related to our Services or the particular program, such as sending your child special offers, news, team updates or other appropriate information.
+
+You may choose to review, delete or prohibit our further use of your child’s personal data at any time. Further, you may revoke any consent you have previously provided. To do so, simply submit a request to us using the contact information below.
+
+Except when collection is expressly allowed under COPPA or if the information has been provided by a parent (e.g. a parent registering their child for one of our programs), we will promptly delete any personal data we possess about children under the age of 13. If you believe we have inadvertently collected information outside these contexts, please contact us at the address below.
+
+Contact Us
+
+Feel free to contact us with questions or concerns   
+(including marketing choices, data rights requests, general inquiries, and all other privacy matters) at:
+
+General support:  
+privacy@lakings.com
+
+Physical address:  
+LA Kings  
+Attn: Privacy  
+555 N. Nash St.   
 El Segundo, CA 90245
 
-Under California Civil Code Section 1789.3, California the Site users are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
+Changes to our Privacy Policy
+
+We reserve the right to change our Privacy Policy from time to time. Any such changes will be posted on this page so that we can keep you informed about how we process your personal data. We recommend that you consult this page frequently so that you are aware of our latest Privacy Policy and can update your preferences if necessary. Your continued use of our Services shall constitute your acceptance of any revised Privacy Policy.
+
+This Privacy Policy was last updated on November 27, 2018.
