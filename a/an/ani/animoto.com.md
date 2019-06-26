@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230103124id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222233id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Animoto
 
@@ -12,7 +12,7 @@ The Site is not directed to children. For terms relating to areas of this Site t
 
 ## 2\. EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
-Animoto participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/).
+Animoto Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework(s) (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom and/or Switzerland, as applicable to the United States in reliance on Privacy Shield. Animoto has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 Animoto is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Animoto complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -167,6 +167,6 @@ Jack Baylor ([eu-privacy@animoto.com](mailto:eu-privacy@animoto.com))
 Gardiner’s Hill  
 Cork, Ireland
 
-**This document was last updated on November 30, 2018.**
+**This document was last updated on March 27, 2019.**
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=5861d98f-9f02-479c-bd0c-ca2e2074e3ce)
