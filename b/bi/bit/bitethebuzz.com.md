@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitethebuzz.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101093058id_/http%3A//www.bitethebuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitethebuzz.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626152419id_/http%3A//www.bitethebuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BiteTheBuzz
 
