@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnnsoftware.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209152320id_/https%3A//www.dnnsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnnsoftware.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626111546id_/https%3A//www.dnnsoftware.com/privacy) for the most accurate reproduction.*
 
 # Content Management System - .NET CMS Software from DNN
 
@@ -92,9 +92,9 @@ Because of the nature of our business, our services are not designed to appeal t
 
 Our Company does not currently respond to browser “Do Not Track” (DNT) signals or other mechanisms. Third parties may collect personal information about your online activities over time and across sites when you visit the Site or use the Service.
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request certain information regarding our disclosure of personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please contact us by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you are a California resident, California Civil Code Section 1798.83 permits you to request certain information regarding our disclosure of personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please contact us by sending an e-mail to privacy@dnnsoftware.com.
 
-Our site, products, and services are not intended to appeal to minors. However, if you are a California resident under the age of 18, and a registered user of our Site or Service, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please send an e-mail with a detailed description of the specific content or information to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Our site, products, and services are not intended to appeal to minors. However, if you are a California resident under the age of 18, and a registered user of our Site or Service, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please send an e-mail with a detailed description of the specific content or information to privacy@dnnsoftware.com.
 
  Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
 
@@ -106,7 +106,7 @@ Our Company may amend this Privacy Policy at any time by posting a new version. 
 
 12\.  Contacting Us
 
-If you have any questions about this Privacy Policy, the practices or concerns of this site, please contact our Privacy Officer at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy, the practices or concerns of this site, please contact our Privacy Officer at: privacy@dnnsoftware.com.
 
 Privacy Shield Statement
 
@@ -130,7 +130,7 @@ Whenever DNN processes Personal Data, DNN complies with the Principles (as each 
 
 1\. Notice. We shall inform an individual of the purpose for which we collect and use their Personal Data and the types of third parties to which DNN discloses or may disclose that Personal Data. DNN shall provide the individual with the choice and means for limiting the use and disclosure of their Personal Data.  Please refer to our main Privacy Policy Statement for more information regarding our data handling practices.  Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Data to DNN, or as soon as practicable thereafter, and in any event before DNN uses or discloses the Personal Data for a purpose other than for which it was originally collected. DNN may be required to disclose Personal Data in response to lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-2\. Choice. Individuals have the opportunity to choose (opt out) whether their Personal Data is (1) to be disclosed to a non-Agent third party or (2) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual by contacting our Data Protection Officer via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) For Sensitive Personal Information, DNN will give individuals the opportunity to affirmatively or explicitly (opt in) consent to the disclosure of the information to a non-Agent third party or for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. DNN shall treat Sensitive Personal Information received from an individual the same as the individual would treat and identify it as Sensitive Personal Information.  Agents, technology vendors and/or contractors of DNN or affiliated companies may have access to an individual’s Personal Data on a need to know basis for the purpose of performing services on behalf of DNN or providing or enabling elements of the services. All such agents, technology vendors and contractors who have access to such information are contractually required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for DNN or as otherwise required by law.
+2\. Choice. Individuals have the opportunity to choose (opt out) whether their Personal Data is (1) to be disclosed to a non-Agent third party or (2) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual by contacting our Data Protection Officer via email at privacy@dnnsoftware.com. For Sensitive Personal Information, DNN will give individuals the opportunity to affirmatively or explicitly (opt in) consent to the disclosure of the information to a non-Agent third party or for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. DNN shall treat Sensitive Personal Information received from an individual the same as the individual would treat and identify it as Sensitive Personal Information.  Agents, technology vendors and/or contractors of DNN or affiliated companies may have access to an individual’s Personal Data on a need to know basis for the purpose of performing services on behalf of DNN or providing or enabling elements of the services. All such agents, technology vendors and contractors who have access to such information are contractually required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for DNN or as otherwise required by law.
 
 3\. Accountability for Onward Transfer. Prior to disclosing Personal Data to a third party, we shall notify the individual of such disclosure and allow the individual the choice (opt out) of such disclosure. DNN shall ensure that any third party to which Personal Data may be disclosed agrees in writing to provide the same level of privacy protection as set forth in this policy. 
 
@@ -138,7 +138,7 @@ The DNN’s accountability for personal data that it receives in the United Stat
 
 5\. Data Integrity and Purpose Limitation. We shall only process Personal Data in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, DNN shall take reasonable steps to ensure that Personal Data is accurate, complete, current and reliable for its intended use.
 
-6\. Access. Pursuant to the Privacy Shield Frameworks, EU and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States.  Upon request, we will provide you with access to the personal information that we hold about you.  You may also may correct, amend, or delete the personal information we hold about you.  An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  If requested to remove data, we will respond within a reasonable timeframe.
+6\. Access. Pursuant to the Privacy Shield Frameworks, EU and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States.  Upon request, we will provide you with access to the personal information that we hold about you.  You may also may correct, amend, or delete the personal information we hold about you.  An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to privacy@dnnsoftware.com.  If requested to remove data, we will respond within a reasonable timeframe.
 
 7\. Enforcement and Dispute Resolution. With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, DNN is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
@@ -148,7 +148,7 @@ DNN Corp.
 Data Protection Officer  
 401 Congress Avenue, Suite 2650  
 Austin Texas 78701 USA  
-E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+E-mail: privacy@dnnsoftware.com 
 
 a. Human Resources Data. If your complaint involves human resources data transferred to the United States from the EU and/or Switzerland in the context of the employment relationship, and DNN does not address it satisfactorily, DNN commits to cooperate with the panel established by the EU data protection authorities (DPA Panel) and/or the Swiss Federal Data Protection and Information Commissioner, as applicable and to comply with the advice given by the DPA panel and/or Commissioner, as applicable with regard to such human resources data.  To pursue an unresolved human resources complaint, you should contact the state or national data protection or labor authority in the appropriate jurisdiction. 
 
