@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentreserve.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228075714id_/https%3A//company.cdn.overdrive.com/policies/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentreserve.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626100801id_/https%3A//company.cdn.overdrive.com/policies/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ OverDrive, Inc. and its affiliates ("OverDrive", "we", "us" or "our") provides d
 
 OverDrive respects your privacy. The purpose of this Privacy Policy is to make you aware of how OverDrive collects, manages, protects, uses, and/or shares information and what choices are available to you regarding the collection, use and distribution of your Personal Information and non-personally identifiable information ("non-PII").
 
-Many users under the age of 13 enjoy using the Services. To see OverDrive's policy regarding the collection of information from children who are under 13 years old, please [click here for OverDrive's Privacy Policy for Children.](https://web.archive.org/web/20181228075714id_/https%3A//company.cdn.overdrive.com/policies/privacy-policy-for-children.htm)
+Many users under the age of 13 enjoy using the Services. To see OverDrive's policy regarding the collection of information from children who are under 13 years old, please [click here for OverDrive's Privacy Policy for Children.](https://web.archive.org/web/20190626100801id_/https%3A//company.cdn.overdrive.com/policies/privacy-policy-for-children.htm)
 
 ## What is Personal Information and non-PII?
 
@@ -36,7 +36,7 @@ Some Services provide the ability for you to see your lending history. If you ar
 
 ## Does OverDrive use cookies and similar technologies?
 
-Yes, we use cookies and similar technologies to collect and store certain information when you use, access, or interact with the Services. Cookies are small data file identifiers that are transferred to your device or web browser that allow us to recognize your device or web browser when you visit or use the Service. We use cookies for many purposes, such as to support the internal operations of the Services and make improvements to the Services. To read more about cookies and similar technologies, please visit our [Cookie Policy](https://web.archive.org/web/20181228075714id_/https%3A//company.cdn.overdrive.com/policies/cookie-policy.htm). 
+Yes, we use cookies and similar technologies to collect and store certain information when you use, access, or interact with the Services. Cookies are small data file identifiers that are transferred to your device or web browser that allow us to recognize your device or web browser when you visit or use the Service. We use cookies for many purposes, such as to support the internal operations of the Services and make improvements to the Services. To read more about cookies and similar technologies, please visit our [Cookie Policy](https://web.archive.org/web/20190626100801id_/https%3A//company.cdn.overdrive.com/policies/cookie-policy.htm). 
 
 ## How does OverDrive use information? 
 
@@ -92,7 +92,11 @@ Your name, email address, and password are required to create an OverDrive accou
 
 OverDrive's Instant Digital Card online service ("IDC") helps users obtain access to the library's OverDrive digital collection. Only authorized patrons of the library are permitted to access and checkout digital content from the library's digital collection
 
-You must be at least 13 years old to use IDC. If you use IDC, you will be asked to submit your name, mobile phone number, and email address to OverDrive. Only U.S. mobile phone numbers are eligible for use with IDC. Your name and mobile phone number will be used to confirm your mobile phone number is associated with you and to verify that you have an address in your library's service area. Libraries that participate in IDC provide OverDrive with the zip codes that comprise their service area. Submitting your name, mobile phone number, and email address to IDC confirms your consent to this Privacy Policy and OverDrive's [Terms and Conditions.](https://web.archive.org/web/20181228075714id_/https%3A//company.cdn.overdrive.com/policies/terms-and-conditions.htm)
+You must be at least 13 years old to use IDC.
+
+For users of libraries located in the U.S.:
+
+If your library is located in the U.S. and you use IDC, you will be asked to submit your name, mobile phone number, and email address to OverDrive. Only U.S. mobile phone numbers are eligible for use with IDC. Your name and mobile phone number will be used to confirm your mobile phone number is associated with you and to verify that you have an address in your library's service area. U.S. libraries that participate in IDC provide OverDrive with the zip codes that comprise their service area. Submitting your name, mobile phone number, and email address to IDC confirms your consent to this Privacy Policy and OverDrive's [Terms and Conditions.](https://web.archive.org/web/20190626100801id_/https%3A//company.cdn.overdrive.com/policies/terms-and-conditions.htm)
 
 To verify that your address is in your library's service area, OverDrive will share your name and mobile phone number with a third-party verification service, [Cognito.](https://cognitohq.com/) Cognito will use your name and mobile phone number to return an address, if any, to OverDrive.
 
@@ -100,11 +104,21 @@ Cognito does not use your name or mobile phone number for marketing or sales pur
 
 OverDrive will send a text message to the mobile phone number you provide (standard text message rates apply) to verify the mobile phone number's association with you.
 
-If you are validated as having a residential address within your library’s service area, you will be able to access and checkout digital content from your library’s OverDrive digital collection for twelve (12) months from the date you are validated. Your name, mobile phone number, and address are stored by OverDrive for the purpose of authenticating your checkouts from the library’s OverDrive digital collection. Unless otherwise permitted through your opt-in consent to receive marketing communications, OverDrive does not use your name or mobile phone number for marketing or sales purposes, nor do we share your name or mobile phone number with third parties for marketing or sales purposes.
+If you are validated as having a residential address within your library’s service area, your mobile phone number will serve as your digital library card and you will be able to access and checkout digital content from your library’s OverDrive digital collection. Your name, mobile phone number, and address are stored by OverDrive for the purpose of authenticating your checkouts from the library’s OverDrive digital collection. Unless otherwise permitted through your opt-in consent to receive marketing communications, OverDrive does not use your name or mobile phone number for marketing or sales purposes, nor do we share your name or mobile phone number with third parties for marketing or sales purposes.
 
-In addition to obtaining checkout privileges to your library's digital collection, you may also be eligible for a library card for access to your library's additional resources (e.g. physical book and media borrowing). Through the validation process, OverDrive will store your address for the purpose of providing your name, address, email address, and mobile phone number to your library, where you may be eligible for a library card for access to additional library resources. Your use of IDC confirms your consent to OverDrive providing your name, address, email address, and mobile phone number with your library, and confirms your consent to be contacted by your library, if necessary.
+In addition to obtaining checkout privileges to your library's digital collection, you may also be eligible for a library card for access to your library's additional resources (e.g. physical book and media borrowing). Through the validation process, OverDrive will store your address for the purpose of providing your name, address, mobile phone number, and email address (if provided by you) to your library, where you may be eligible for a library card for access to additional library resources. Your use of IDC confirms your consent to OverDrive providing your name, address, mobile phone number, and email address (if provided by you) with your library, and confirms your consent to be contacted by your library, if necessary.
 
 If you have questions or concerns regarding IDC, please contact OverDrive via email at [privacy@overdrive.com](mailto:privacy@overdrive.com).
+
+For users of libraries located outside of the U.S.: 
+
+If your library is located outside of the U.S. and you use IDC, you will be asked to submit your name, mobile phone number, and a country code or campaign code (“Code”). The Code you submit will be used to verify that you have a valid Code to be granted access to your library’s OverDrive digital collection. Submitting a Code to IDC confirms your consent to this Privacy Policy and OverDrive’s [Terms and Conditions.](https://web.archive.org/web/20190626100801id_/https%3A//company.cdn.overdrive.com/policies/terms-and-conditions.htm)
+
+If your Code is validated by IDC, your mobile phone number will serve as your digital library card and you will be able to access and checkout digital content from your library’s OverDrive digital collection. Your name and mobile phone number are stored by OverDrive for the purpose of authenticating your checkouts from the library’s OverDrive digital collection. Unless otherwise permitted through your opt-in consent to receive marketing communications, OverDrive does not use your name or mobile phone number for marketing or sales purposes, nor do we share your name or mobile phone number with third parties for marketing or sales purposes.
+
+In addition to obtaining checkout privileges to your library’s digital collection, you may also be eligible for a library card for access to your library’s additional resources (e.g., physical book and media borrowing). OverDrive may provide your name, mobile phone number, and email address (if provided by you) to your library, where you may be eligible for a library card for access to additional library resources. Your use of IDC confirms your consent to OverDrive providing your name, mobile phone number, and email address (if provided by you) with your library, and confirms your consent to be contacted by your library, if necessary. 
+
+If you have questions or concerns regarding IDC, please contact OverDrive via email at [privacy@overdrive.com](mailto:privacy@overdrive.com). 
 
 ## Rights applicable to users located in the EU
 
@@ -133,7 +147,7 @@ If you are not subject to EU law, these rights do not apply to you.
 
 ## Changes to this Privacy Policy
 
-This Privacy Policy was last updated in **December 2018**. We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check the Privacy Policy periodically for updates. Your continued use of the Services after the posting of any changes to this Privacy Policy means that you agree to be bound by such changes.
+This Privacy Policy was last updated in **April 2019**. We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check the Privacy Policy periodically for updates. Your continued use of the Services after the posting of any changes to this Privacy Policy means that you agree to be bound by such changes.
 
 In the event of a change of control (i.e. sale of sale or merger of OverDrive, Inc.) the successor entity will be subject to these same privacy commitments.
 
