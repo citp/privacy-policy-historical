@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the exceedlms.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628002637id_/https%3A//www.intellum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceedlms.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626234047id_/https%3A//www.intellum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Update: May 7, 2018
+Last Update: Mar 15, 2019
 
-This Website Privacy Policy (“Privacy Policy”) covers the web sites (“Web Sites”) operated by Intellum, Inc. (“Intellum” or “we” or “us” or “our”), including but not limited to Intellum.com, Exceedlms.com, Facebookblueprint.com, Snacker.tv and Tribesocial.com. This Privacy Policy describes the types of information that we collect, what we do with it, how we protect it, and if and when we disclose it to third parties.
-
+This Website Privacy Policy (“Privacy Policy”) covers the web sites (“Web Sites”) operated by Intellum, Inc. (“Intellum” or “we” or “us” or “our”), including but not limited to Intellum.com, Exceedlms.com, Catcat.com, Facebookblueprint.com, Snacker.tv and Tribesocial.com. This Privacy Policy describes the types of information that we collect, what we do with it, how we protect it, and if and when we disclose it to third parties.  
 This Privacy Policy is a part of and subject to the Intellum Terms of Service (“TOS”). Accordingly, when you enter into the TOS, you agree that you have read, understand, and agree that we can collect, use, and disclose your information in accordance with this Privacy Policy. If you do not agree or are not comfortable with any part of this Privacy Policy, you should not agree to the TOS (including this Privacy Policy) and you may not use the Web Sites.
 
 Additional information about Intellum’s Data Privacy and Data Security practices, including Intellum’s commitments with regard to the General Data Protection Regulation (GDPR), can be found at the bottom of this page.
 
-Information Gathering and Usage  
+Information Gathering, Processing and Usage  
 In connection with operation of the Web Sites and providing our services to you, we may collect the following types of user information (“Information”):
 
   * Personal Information. We collect personal information (“Personal Information”) from you and those individuals to whom you have given Web Site access. This Personal Information is used for billing purposes, account management purposes and for you to utilize the features of the Web Sites to which you have purchased access. Examples of Personal Information we might collect include but are not limited to: first name, last name, email address, mailing address, etc. We also collect Personal Information provided to us via any emails you send to us and via any user information added by you to the Web Sites (including Personal Information for users other than yourself).
@@ -20,7 +19,7 @@ In connection with operation of the Web Sites and providing our services to you,
 
 
 
-We collect this Information for the following general purposes: products and services provisioning, billing, identification and authentication, Web Site improvement, contacts, and research.
+We collect and process this Information for the following general purposes: products and services provisioning, billing, identification and authentication, Web Site improvement, contacts, and research.
 
 Intellum may disclose your Information to third parties under the following circumstances:
 
@@ -31,7 +30,7 @@ Intellum may disclose your Information to third parties under the following circ
 
 
 Cookies  
-Cookies are bits of electronic information that a web site can transfer to a visitor’s hard drive to help tailor and keep records of his or her visit. Cookies are required to use most Intellum services.  You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access most of Intellum’s services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Web Sites.
+To enhance your experience on our Web Sites, many of our web pages use "cookies". Cookies are bits of electronic information that a web site can transfer to a visitor’s hard drive to help tailor and keep records of his or her visit.  Cookies are required to use most Intellum services.  You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access most of Intellum’s services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Web Sites.  If you proceed with using our Web Sites without deactivating cookies through your browser, you are deemed to have accepted our use of cookies.
 
 Web Beacons  
 Pages of our services or our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
@@ -43,7 +42,7 @@ Protecting Personal Information
 We understand the importance of safeguarding your Information.  We employ administrative, physical, and electronic measures designed to protect your Information from unauthorized access.  We implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk, taking into account technological reality, cost, the scope, context and purposes of processing weighted against the severity and likelihood that the processing could threaten individual rights and freedom.  Despite our efforts, we cannot guarantee the security of your Information. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorized third-party access or other acts of third parties, or acts or omissions beyond our reasonable control.
 
 Privacy Shield  
-Intellum complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union to the United States.  Intellum has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+Intellum complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union and the United Kingdom to the United States.  Intellum has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
 As such:
 
