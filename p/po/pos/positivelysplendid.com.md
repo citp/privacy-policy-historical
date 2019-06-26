@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the positivelysplendid.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727005036id_/https%3A//www.positivelysplendid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivelysplendid.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626113019id_/https%3A//www.positivelysplendid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Positively Splendid {Crafts, Sewing, Recipes and Home Decor}
 
@@ -22,7 +22,7 @@ By using this site or/and our services, you consent to the Processing of your Pe
 
 ### Definitions
 
-**Personal Data**  – any information relating to an identified or identifiable natural person.  
+ **Personal Data**  – any information relating to an identified or identifiable natural person.  
 **Processing**  – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.  
 **Data subject**  – a natural person whose Personal Data is being Processed.  
 **Child** – a natural person under 16 years of age.  
@@ -61,16 +61,16 @@ The Data Subject has the following rights:
 
 ### Data we gather
 
-**Information you have provided us with**  
+ **Information you have provided us with**  
 This might be your e-mail address, name, billing address, home address etc – mainly information that is necessary for delivering you a product/service or to enhance your customer experience with us. We save the information you provide us with in order for you to comment or perform other activities on the website. This information includes, for example, your name and e-mail address.
 
-**Information automatically collected about you**  
+ **Information automatically collected about you**  
 This includes information that is automatically stored by cookies and other session tools. For example, your shopping cart information, your IP address, your shopping history (if there is any) etc. This information is used to improve your customer experience. When you use our services or look at the contents of our website, your activities may be logged.
 
-**Information from our partners**  
+ **Information from our partners**  
 We gather information from our trusted partners with confirmation that they have legal grounds to share that information with us. This is either information you have provided them directly with or that they have gathered about you on other legal grounds. See the list of our partners here.
 
-**Publicly available information**  
+ **Publicly available information**  
 We might gather information about you that is publicly available.
 
 ### How we use your Personal Data
@@ -126,39 +126,39 @@ We will inform you of any further Processing and purposes.
 
 We do not share your Personal Data with strangers. Personal Data about you is in some cases provided to our trusted partners in order to either make providing the service to you possible or to enhance your customer experience. We share your data with:
 
-**Our processing partners:**
+ **Our processing partners:**
 
-  * **Google Analytics**
-  * **Adthrive**
-  * **MailChimp**
-
-
-
-**Our business partners:**
-
-  * **Adthrive.com**
-  * **Sovrn.com**
-  * **Amazon.com**
-  * **Advertising.com**
-  * **Yahoo.com**
-  * **Doubleclick.net**
-  * **Pubmatic.com**
-  * **Quantcast.com**
+  *  **Google Analytics**
+  *  **Adthrive**
+  *  **MailChimp**
 
 
 
-**Connected third parties:**
+ **Our business partners:**
 
-  * **Gstatic.com**
-  * **Googlesyndication.com**
-  * **Gwallet.com**
-  * **Scorecardresearch.com**
-  * **Facebook.com**
-  * **Pinterest.com**
-  * **Youtube.com**
-  * **Instagram.com**
-  * **Twitter.com**
-  * **Google.com**
+  *  **Adthrive.com**
+  *  **Sovrn.com**
+  *  **Amazon.com**
+  *  **Advertising.com**
+  *  **Yahoo.com**
+  *  **Doubleclick.net**
+  *  **Pubmatic.com**
+  *  **Quantcast.com**
+
+
+
+ **Connected third parties:**
+
+  *  **Gstatic.com**
+  *  **Googlesyndication.com**
+  *  **Gwallet.com**
+  *  **Scorecardresearch.com**
+  *  **Facebook.com**
+  *  **Pinterest.com**
+  *  **Youtube.com**
+  *  **Instagram.com**
+  *  **Twitter.com**
+  *  **Google.com**
 
 
 
@@ -182,7 +182,7 @@ We use cookies and/or similar technologies to analyse customer behaviour, admini
 
 A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions.
 
-**We use cookies for the following purposes:**
+ **We use cookies for the following purposes:**
 
   * Necessary cookies – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
   * Functionality cookies – these cookies provide functionality that makes using our service more convenient and makes providing more personalised features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
@@ -191,7 +191,7 @@ A cookie is a tiny text file stored on your computer. Cookies store information 
 
 
 
-You can remove cookies stored in your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](http://optout.aboutads.info/#!/) or [youronlinechoices.com](http://www.youronlinechoices.com/). For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+You can remove cookies stored in your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](https://optout.aboutads.info/#!/) or [youronlinechoices.com](https://www.youronlinechoices.com/). For more information about cookies, visit [allaboutcookies.org](https://www.allaboutcookies.org/).
 
 We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
 
@@ -199,7 +199,7 @@ For a detailed analysis of cookies used on this site, see our most recent scan [
 
 ### Contact Information
 
-**You are welcome to make inquiries about your personal Data on your Privacy Tools page here:  <https://www.positivelysplendid.com/privacy-tools>**
+ **You are welcome to make inquiries about your personal Data on your Privacy Tools page here:  <https://www.positivelysplendid.com/privacy-tools>**
 
 ### Changes to this Privacy Policy
 
