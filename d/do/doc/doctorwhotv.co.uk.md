@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doctorwhotv.co.uk privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119004425id_/http%3A//www.doctorwhotv.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorwhotv.co.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626063753id_/http%3A//www.doctorwhotv.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Doctor Who TV
+# Privacy Policy | Doctor Who TV
 
 At www.doctorwhotv.co.uk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.doctorwhotv.co.uk and how it is used.
 
