@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ny.gov privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103043711id_/http%3A//www.ny.gov/node/56891) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ny.gov privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626225738id_/http%3A//www.ny.gov/node/56891) for the most accurate reproduction.*
 
 # Privacy Policy | The State of New York
 
@@ -66,7 +66,7 @@ Retention of Information Collected Through this Website
 
 Retention of Information Collected Through this Website 
 
-The information collected through this website is retained by NYS in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at <http://www.archives.nysed.gov/records/mr_laws.shtml>. 
+The information collected through this website is retained by NYS in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at [http://www.archives.nysed.gov/records/mr_laws.shtml](http://www.archives.nysed.gov/records/mr_laws_state.shtml). 
 
 Information, including personal information, that you submit in an e-mail or when you initiate an online transaction such as a survey, registration form, or order form is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information. Information concerning these records retention and disposition schedules may be obtained through the Internet privacy policy contact listed in this policy. 
 
@@ -76,7 +76,7 @@ Confidentiality and Integrity of Personal Information Collected Through this Web
 
 NYS is strongly committed to protecting personal information collected through this website against unauthorized access, use, or disclosure. Consequently, NYS limits employee access to personal information collected through this website to only those employees who need access to the information in the performance of their official duties. Employees who have access to this information are required to follow appropriate procedures in connection with any disclosures of personal information.
 
-In addition, NYS has implemented procedures to safeguard the integrity of its information technology assets, including, but not limited to, [state actual practices or procedures such as authentication, monitoring, auditing, and encryption.] These security procedures have been integrated into the design, implementation, and day-to-day operations of this website as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information.
+In addition, NYS has implemented procedures to safeguard the integrity of its information technology assets, including, but not limited to, authentication, monitoring, auditing, and encryption. These security procedures have been integrated into the design, implementation, and day-to-day operations of this website as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information.
 
 For website security purposes and to maintain the availability of the website for all users, NYS employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage this website. 
 
