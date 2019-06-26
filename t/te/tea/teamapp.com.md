@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teamapp.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821143841id_/https%3A//www.teamapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamapp.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626113041id_/https%3A//www.teamapp.com/privacy) for the most accurate reproduction.*
 
 # Team App Privacy Policy
 
 This policy details the kind of personal information that we collect in our business, including through the Website and/or the App (and or Club Apps as defined below), and the ways in which we use it.
 
-In this privacy policy, the terms **“we”** , **“us”** and **“our”** refers to Team Mates Pty Ltd ACN 159 770 537. The term “Website” means the website located at www.teamapp.com and the term “App” means our application for Android, iOS and any other operating systems referred to on our Website.
+In this privacy policy, the terms “we”, “us” and “our” refers to Team Mates Pty Ltd ACN 159 770 537. The term “Website” means the website located at www.teamapp.com and the term “App” means our application for Android, iOS and any other operating systems referred to on our Website.
 
 ### Australian Privacy Principles
 
