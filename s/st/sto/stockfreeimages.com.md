@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockfreeimages.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121002603id_/https%3A//www.stockfreeimages.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockfreeimages.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626201131id_/https%3A//www.stockfreeimages.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | StockFreeImages.com
 
