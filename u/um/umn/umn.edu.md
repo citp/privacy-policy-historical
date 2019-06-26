@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the umn.edu privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231160311id_/https%3A//twin-cities.umn.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umn.edu privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626140008id_/https%3A//twin-cities.umn.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | University of Minnesota Twin Cities
 
 The University of Minnesota respects the privacy of web site visitors to the extent permitted by law. The online privacy statement is intended to inform you of what information is collected by this web site and how the information is used. This is the standard University of Minnesota Online Privacy Statement.
 
