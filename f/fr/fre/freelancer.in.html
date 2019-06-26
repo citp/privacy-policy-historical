@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freelancer.in privacy policy that was archived on 2018-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181225112932id_/https%3A//www.freelancer.in/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freelancer.in privacy policy that was archived on 2019-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190626070559id_/https%3A//www.freelancer.in/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="is-mobile-first" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -27,13 +27,10 @@
     <link rel="dns-prefetch" href="//cdn6.f-cdn.com">
 
 
-    <link rel="icon" href="https://www.freelancer.in/favicon.ico" type="image/ico">
+        <link rel="icon" href="https://www.freelancer.in/favicon.ico" type="image/ico">
     <link rel="shortcut icon" href="https://www.freelancer.in/favicon.ico">
-
-    <link rel="publisher" href="http://plus.google.com/+Freelancer">
     
 
-    
     
     
     
@@ -56,10 +53,11 @@
     
 
     
-
+    
     <meta name="robots" content="index, follow">
     
     
+    <meta name="robots" content="noodp">
     <meta name="verify-v1" content="TTmFSxUJxXuHsKl9kPGeYetHBfsjnO7s87WxaAha8NE=">
 
     <meta name="verify-v1" content="9ejzgFxg7wuxHdyyiqmdTe3JQgBUfIVvdJiXlVRHkEw=">
@@ -71,7 +69,6 @@
     <meta name="y_key" content="145378928393bc8d">
     <meta name="msvalidate.01" content="756854B52F963132E377E441F92F1136">
     <meta property="fb:admins" content="100000662403967">
-    <meta name="robots" content="noodp">
     
     <!-- rss section -->
     
@@ -86,12 +83,12 @@
     
         
           <link href="https://www.f-cdn.com/assets/css/bootstrap/bootstrap-legacy-5b6a3196.css" type="text/css" rel="stylesheet">
-            <link href="https://www.f-cdn.com/assets/css/skin/styles/global-80ce716a.css" type="text/css" rel="stylesheet">
+            <link href="https://www.f-cdn.com/assets/css/skin/styles/global-33f39422.css" type="text/css" rel="stylesheet">
         
     
 
     
-        <link href="https://www.f-cdn.com/assets/css/flux/base-38d4a7ce.css" type="text/css" rel="stylesheet">
+        <link href="https://www.f-cdn.com/assets/css/flux/base-b89321fe.css" type="text/css" rel="stylesheet">
     
 
     
@@ -104,7 +101,7 @@
     
     
 
-    <link rel="stylesheet" href="https://www.f-cdn.com/assets/webapp-compat/styles.eb486e99e6f442a0074a.css">
+    <link rel="stylesheet" href="https://www.f-cdn.com/assets/compat/en/styles.60549fa3736c722ec726.css">
 
     
 
@@ -282,7 +279,7 @@ w=q.a.offsetWidth;H();z(f,function(a){g=a;e()});x(f,J(c,'"'+c.family+'",sans-ser
     <script src="https://cdn2.f-cdn.com/js/lib/backbone/underscore-min.js?v=479cbbe3b04152bf4b6c7531f6bf200d&amp;m=6" type="text/javascript"></script>
     <script src="https://cdn5.f-cdn.com/js/lib/backbone/backbone_0_5_3.js?v=f26e061c598879ffbbf60199b390549f&amp;m=6" type="text/javascript"></script>
     <script src="https://cdn3.f-cdn.com/build/js/modernizr2.6.2.min.js?v=a305adee51a11fae6bddfe9b5c296734&amp;m=6" type="text/javascript"></script>
-    <script src="https://cdn5.f-cdn.com/build/js/global.js?v=b632efa4739ee01eba40c94dc907eb8e&amp;m=6" type="text/javascript"></script>
+    <script src="https://cdn2.f-cdn.com/build/js/global.js?v=fc58b49bc36bf98a994e761e6eef1a9d&amp;m=6" type="text/javascript"></script>
     <script src="https://cdn2.f-cdn.com/js/auto-increase-count.js?v=6fe941b9060d915a6211302a31df9d5d&amp;m=6" type="text/javascript"></script>
     <script src="https://cdn2.f-cdn.com/js/formTools/formTools.js?v=1e479643470201bf941da8648d5c1e46&amp;m=6" type="text/javascript"></script>
 
@@ -320,7 +317,7 @@ w=q.a.offsetWidth;H();z(f,function(a){g=a;e()});x(f,J(c,'"'+c.family+'",sans-ser
             }
         },
         baseUrl: "https://cdn5.f-cdn.com/build/js",
-        urlArgs: "m=6&v=bf25106acfee6cd8348cda4b4210acd2" +
+        urlArgs: "m=6&v=ed7d58032433cbe8658d2f9657826d3a" +
             "&lang=en"
     });
 </script>
@@ -356,18 +353,23 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     
 
     // Gets cookie for `event` and sends it if exist
-    const gaCookies = document.cookie.split(';');
-    for (let cookie of gaCookies) {
-        cookie = cookie.trim();
-        const [gaKey, gaRawData] = cookie.split('=');
-        if (gaKey === 'gaevent' && gaRawData) {
-            const gaData = decodeURIComponent(gaRawData);
-            const gaEventData = JSON.parse(gaData.replace(/\+/g, ' '));
-            gaEventData.forEach(event => {
+    var allCookies = document.cookie.split(';');
+    for (var i in allCookies) {
+        cookie = allCookies[i].trim();
+        var cookieArr = cookie.split('=');
+        // check if there's ga event cookie
+        var cookieKey = cookieArr[0];
+        var cookieValue = cookieArr[1];
+        if(cookieKey === 'gaevent' && cookieValue) {
+            var gaData = decodeURIComponent(cookieValue);
+            var gaEventData = JSON.parse(gaData.replace(/\+/g, ' '));
+            for (var j in gaEventData) {
+                var event = gaEventData[j];
                 event.hitType = 'event';
                 ga('send', event);
-            });
-            document.cookie = 'gaevent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;'
+            }
+            // clear `gaevent` cookie afterwards
+            document.cookie = 'gaevent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
             break;
         }
     };
@@ -391,7 +393,6 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         "https://twitter.com/freelancer",
         "https://www.facebook.com/fansoffreelancer",
         "https://www.linkedin.com/company/freelancer-com",
-        "https://plus.google.com/+Freelancer/posts",
         "https://instagram.com/freelancerofficial",
         "http://en.wikipedia.org/wiki/Freelancer.com"
         ]
@@ -548,14 +549,16 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
             window.webappCompat['tracking'] = {};
                     window.webappCompat['modals'] = {};
                     window.webappCompat['abtest'] = {};
+                    window.webappCompat['local-storage'] = {};
                     window.webappCompat['threatmetrix'] = {};
             </script>
 
 <style>
-                                                                                    </style>
+                                                                                                        </style>
             <webapp-compat-tracking class="WebappCompatPlaceholder"></webapp-compat-tracking>
                 <webapp-compat-modals class="WebappCompatPlaceholder"></webapp-compat-modals>
                 <webapp-compat-abtest class="WebappCompatPlaceholder"></webapp-compat-abtest>
+                <webapp-compat-local-storage class="WebappCompatPlaceholder"></webapp-compat-local-storage>
                 <webapp-compat-threatmetrix class="WebappCompatPlaceholder"></webapp-compat-threatmetrix>
     <webapp-compat></webapp-compat>
 
@@ -574,8 +577,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                 
 
 
-<header class="fl-header" data-target="primary-header-container">
-    <div class="primary-navigation-section" data-target="primary-header" fl-analytics-section="DaVinciNavigation">
+<header class="fl-header " data-target="primary-header-container">
+    <div class="primary-navigation-section " data-target="primary-header" fl-analytics-section="DaVinciNavigation">
         <div class="navigation-section-inner">
 
             <!-- Header left hand side container -->
@@ -594,15 +597,15 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
                 <nav class="primary-navigation">
                     <ul class="primary-navigation-list">
-                        <li>
-                            <a class="primary-navigation-link primary-navigation-link--noSubNav" href="/info/how-it-works">
+                                                <li>
+                            <a class="primary-navigation-link primary-navigation-link--noSubNav" href="/info/how-it-works" data-qtsb-section="NavBar" data-qtsb-label="HowItWorks" id="nav-how-it-works">
                                 How It Works                            </a>
                         </li>
-                        <li>
-                            <a class="primary-navigation-link primary-navigation-link--noSubNav" href="/jobs/">
+                                                                        <li>
+                            <a class="primary-navigation-link primary-navigation-link--noSubNav" href="/jobs/" data-qtsb-section="NavBar" data-qtsb-label="BrowseJobs" id="nav-browse-jobs">
                                 Browse Jobs                            </a>
                         </li>
-                    </ul>
+                                            </ul>
                 </nav>
 
                 
@@ -632,13 +635,13 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                         </a>
                     
                     
-                    <!-- ABTest: T58952 -->
-                    <div id="text-to-post" class="LoginSection-textToPost
-                        " data-uitest-target="text-to-post">
-                    </div>
-                    
-                    
-
+                                                                                            <!-- ABTest: T58952 -->
+                            <div id="text-to-post" class="LoginSection-textToPost
+                                " data-uitest-target="text-to-post">
+                            </div>
+                            
+                            
+                                            
                 
             </div>
 
@@ -668,7 +671,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         
         <div id="main" class="container" aria-label="Content">
         
-          <h1 class="margin-t20 margin-b20">FREELANCER.COM</h1>
+          
+<h1 class="margin-t20 margin-b20">FREELANCER.COM</h1>
 
 <h2>Privacy Policy</h2>
 
@@ -943,6 +947,7 @@ If we do not resolve your privacy complaint to your satisfaction, you may lodge 
 If you are in the European Union, you can choose to instead lodge a complaint with your local Data Protection Authority (DPA).  The list of DPAs is at <a href="http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm">http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm</a>.
 </p>
 
+
             <div class="clearfix"></div>
         </div>
     </div> <!-- end of gaf-container -->
@@ -951,8 +956,7 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
     
     
     <div class="pinky-template">
-      
-          
+                      
     <footer class="FooterNew">
         <div class="FooterNew-content">
             <div class="FooterNew-content-inner">
@@ -966,11 +970,15 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
                                                                             </a>
                                 </div>
                                 <div class="FooterNew-info-section">
-                                    <a id="locale-selector" class="FooterNew-subTitle" href="/choose-your-country/" data-robots="LocaleSelector" data-qtsb-section="footer" data-qtsb-subsection="LanguageSelector" data-qtsb-label="GoToLanguageSelector" role="button"><span class="Icon--light Icon FooterNew-subTitle-icon"><svg class="Icon-image" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                    <a id="locale-selector" class="FooterNew-subTitle" href="/choose-your-country/" data-robots="LocaleSelector" data-qtsb-section="footer" data-qtsb-subsection="LanguageSelector" data-qtsb-label="GoToLanguageSelector" role="button">
+  <span class="Icon--light Icon FooterNew-subTitle-icon"><svg class="Icon-image" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
     <path d="M0 0h24v24H0z" fill="none"></path>
     <path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95c-.32-1.25-.78-2.45-1.38-3.56 1.84.63 3.37 1.91 4.33 3.56zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2 0 .68.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56-1.84-.63-3.37-1.9-4.33-3.56zm2.95-8H5.08c.96-1.66 2.49-2.93 4.33-3.56C8.81 5.55 8.35 6.75 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2 0-.68.07-1.35.16-2h4.68c.09.65.16 1.32.16 2 0 .68-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95c-.96 1.65-2.49 2.93-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2 0-.68-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z"></path>
 </svg>
-</span>English - India</a>  
+</span>
+      English - India
+  </a>
+
 
 
 
@@ -1018,7 +1026,7 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="FooterNew-link" href="/enterprise" data-uitest-target="GoToEnterprise" data-qtsb-section="footer" data-qtsb-subsection="Enterprise" data-qtsb-label="GoToEnterprise">
+                                            <a class="FooterNew-link" href="/enterprise/" data-uitest-target="GoToEnterprise" data-qtsb-section="footer" data-qtsb-subsection="Enterprise" data-qtsb-label="GoToEnterprise">
                                                     Enterprise
                                             </a>
                                         </li>
@@ -1160,16 +1168,16 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
         <svg class="Icon-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.192 21c-2.28 0-4.404-.668-6.192-1.815 2.144.252 4.282-.342 5.98-1.672-1.768-.034-3.26-1.202-3.772-2.806.633.12 1.256.085 1.823-.07-1.942-.39-3.282-2.14-3.24-4.01.545.302 1.17.484 1.83.505C2.822 9.93 2.313 7.555 3.37 5.738c1.992 2.444 4.97 4.053 8.326 4.22C11.106 7.434 13.024 5 15.63 5c1.163 0 2.212.49 2.95 1.276.92-.18 1.785-.517 2.565-.98-.3.944-.942 1.736-1.775 2.235.817-.097 1.596-.314 2.32-.635-.542.807-1.228 1.52-2.016 2.088C19.93 14.665 15.694 21 8.192 21z"></path></svg>
 
     </a>
-    <a class="FooterNew-social-icon Icon Icon--light" rel="nofollow" href="https://plus.google.com/+Freelancer" target="_blank" title="Freelancer on Google Plus" data-qtsb-section="footer" data-qtsb-subsection="AppsAndSocial" data-qtsb-label="GoToGooglePlus">
-        <svg class="Icon-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M24 12.5h-3v3h-2v-3h-3v-2h3v-3h2v3h3M7 18.5c-3.87 0-7-3.13-7-7s3.13-7 7-7c1.89 0 3.47.69 4.69 1.83l-1.9 1.83C9.27 7.66 8.36 7.08 7 7.08c-2.39 0-4.34 1.98-4.34 4.42S4.61 15.92 7 15.92c2.77 0 3.81-1.99 3.97-3.02H7v-2.4h6.61c.06.35.11.702.11 1.16 0 4-2.68 6.84-6.72 6.84z"></path></svg>
-
-    </a>
     <a class="FooterNew-social-icon Icon Icon--light" rel="nofollow" href="https://www.youtube.com/freelancerchannel" target="_blank" title="Freelancer on Youtube" data-qtsb-section="footer" data-qtsb-subsection="AppsAndSocial" data-qtsb-label="GoToYoutube">
         <svg class="Icon-image" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M13.983 14.66c-.303 0-.562.194-.753.426v-1.988h-.855v6.173h.855v-.348c.236.294.494.407.804.407.564 0 .774-.44.774-1.002v-2.526c0-.618-.205-1.142-.825-1.142zm-.047 3.545c0 .145-.024.25-.073.314-.094.12-.295.115-.434.046l-.2-.16v-2.84l.174-.137c.148-.076.34-.062.442.073.06.08.09.197.09.35v2.352zM11.084 9.25V7.024c0-.263.12-.456.37-.456.274 0 .39.187.39.455V9.25c0 .26-.132.452-.37.452-.248 0-.39-.2-.39-.453zm-1.94 4.745h-.988v5.277h-.954v-5.277h-.987v-.897h2.928v.897zm1.557.722h.848v4.554H10.7v-.5c-.154.183-.317.325-.486.422-.457.26-1.083.256-1.083-.668v-3.807h.847v3.49c0 .185.045.307.226.307.165 0 .395-.212.498-.34v-3.457zM13.507 5.7h.89v3.666c0 .193.045.322.237.322.173 0 .414-.222.523-.358V5.7h.89v4.783h-.89v-.53c-.386.46-.76.598-1.028.598-.477 0-.62-.38-.62-.852V5.7h-.002zm-2.034-.04c.72 0 1.278.537 1.278 1.286V9.29c0 .803-.563 1.28-1.278 1.28-.862 0-1.303-.437-1.303-1.28V6.946c0-.768.518-1.285 1.302-1.285zM7.865 4l.69 2.59L9.198 4h1.018L9.05 7.853v2.63H8.046v-2.63L6.857 4h1.008zm8.918 16.706c-1.822.123-7.746.123-9.566 0C5.245 20.57 5.015 19.376 5 16.25c.015-3.133.247-4.322 2.217-4.458 1.82-.124 7.744-.124 9.566 0 1.972.135 2.202 1.33 2.217 4.457-.015 3.13-.247 4.32-2.217 4.456zm-.05-6.103c-.764 0-1.286.548-1.286 1.338v2.045c0 .82.414 1.41 1.223 1.41.892 0 1.268-.532 1.268-1.41v-.342h-.87v.316c0 .396-.022.636-.38.636-.34 0-.37-.296-.37-.637v-.86h1.62v-1.16c0-.82-.39-1.337-1.204-1.337zm.334 1.792h-.748v-.46c0-.314.064-.534.377-.534.305 0 .37.226.37.534v.46z" fill-rule="evenodd"></path></svg>
 
     </a>
     <a class="FooterNew-social-icon Icon Icon--light" rel="nofollow" href="https://instagram.com/freelancerofficial" target="_blank" title="Freelancer on Instagram" data-qtsb-section="footer" data-qtsb-subsection="AppsAndSocial" data-qtsb-label="GoToInstagram">
         <svg class="Icon-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M15 12c0 1.657-1.343 3-3 3s-3-1.342-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3zm4.327-3.636c.043.948.052 1.233.052 3.636s-.01 2.688-.053 3.637c-.112 2.42-1.248 3.58-3.69 3.69-.948.042-1.233.052-3.637.052-2.403 0-2.69-.01-3.636-.053-2.446-.11-3.58-1.273-3.69-3.69-.043-.95-.053-1.234-.053-3.637s.01-2.688.054-3.636c.11-2.42 1.248-3.58 3.69-3.69.948-.043 1.233-.052 3.636-.052s2.69.01 3.637.052c2.44.11 3.578 1.27 3.69 3.69zM16.62 12c.002-2.553-2.07-4.622-4.62-4.622-2.553 0-4.622 2.07-4.622 4.622 0 2.553 2.07 4.622 4.622 4.622 2.553 0 4.622-2.07 4.622-4.622zm1.264-4.804c0-.596-.484-1.08-1.08-1.08-.596 0-1.08.484-1.08 1.08 0 .597.483 1.08 1.08 1.08.597 0 1.08-.483 1.08-1.08zM21 12c0-2.444-.01-2.75-.054-3.71-.147-3.265-1.963-5.085-5.235-5.235C14.75 3.01 14.446 3 12 3c-2.445 0-2.75.01-3.71.054-3.27.15-5.085 1.963-5.236 5.235C3.01 9.25 3 9.556 3 12c0 2.445.01 2.75.054 3.71.15 3.27 1.964 5.086 5.236 5.236.96.044 1.265.054 3.71.054 2.445 0 2.75-.01 3.71-.054 3.266-.15 5.09-1.963 5.236-5.236.044-.96.054-1.265.054-3.71z"></path></svg>
+
+    </a>
+    <a class="FooterNew-social-icon Icon Icon--light" href="/rss.xml" target="_blank" title="Latest Projects" data-qtsb-section="footer" data-qtsb-subsection="AppsAndSocial" data-qtsb-label="GoToRSS">
+        <svg class="Icon-image" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M6.168 20C4.97 20 4 19.03 4 17.835c0-1.196.97-2.165 2.168-2.165 1.197 0 2.167.97 2.167 2.165 0 1.196-.97 2.165-2.167 2.165zm5.18 0c-.04-4.03-3.314-7.298-7.348-7.34V9.455c5.814.04 10.518 4.74 10.56 10.546h-3.212zm5.44 0C16.77 12.937 11.054 7.24 4 7.208V4c8.83.03 15.98 7.18 16 16h-3.21z" fill-rule="evenodd"></path></svg>
 
     </a>
 </div>
@@ -1197,15 +1205,21 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
                 <div id="footerTotalJobsPostedCount" class="SiteStat-value FooterNew-siteStat-value">---</div>
                 <div class="SiteStat-name FooterNew-siteStat-name">
                     <span class="SiteStat-name-text">Total Jobs Posted</span>
-                    <button id="posted-listings" class="SiteStat-name-icon" data-content="Jobs Posted (Filtered) is defined as the sum of Total Posted Projects and Total Posted Contests, filtered for spam, advertising, test projects, unawardable or otherwise projects that are deemed bad and unable to be fulfilled.">
-                    </button>
+                    <span class="SiteStat-name-icon Icon Icon--small Tooltip--light Tooltip--right Tooltip--large" data-tooltip="Jobs Posted (Filtered) is defined as the sum of Total Posted Projects and Total Posted Contests,
+                        filtered for spam, advertising, test projects, unawardable or otherwise projects that are deemed bad and unable to be
+                        fulfilled.">
+                        <span class="Icon Icon--small"><svg class="Icon-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path d="M12 2C6.486 2 2 6.487 2 12c0 5.515 4.486 10 10 10s10-4.485 10-10c0-5.513-4.486-10-10-10zm0 16.25c-.69 0-1.25-.56-1.25-1.25s.56-1.25 1.25-1.25 1.25.56 1.25 1.25-.56 1.25-1.25 1.25zm1-4.375V15h-2v-3h1c1.104 0 2-.897 2-2 0-1.104-.896-2-2-2s-2 .896-2 2H8c0-2.205 1.795-4 4-4s4 1.795 4 4c0 1.86-1.277 3.43-3 3.875z"></path>
+</svg>
+</span>
+                    </span>
                 </div>
             </div>
         </div>
         <div class="Grid-col Grid-col--desktopSmall-6">
             <p class="FooterNew-siteStat-term">Freelancer ® is a registered Trademark of Freelancer Technology Pty Limited (ACN 142 189 759)</p>
-            <p class="FooterNew-siteStat-term">Copyright © 2018 Freelancer Technology Pty Limited (ACN 142 189 759)</p>
-        </div>
+                            <p class="FooterNew-siteStat-term">Copyright © 2019 Freelancer Technology Pty Limited (ACN 142 189 759)</p>
+                    </div>
     </div>
 </div>
 
@@ -1217,8 +1231,6 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
         </div>
     </footer>
     
-
-
 
 
       
@@ -1273,11 +1285,6 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
                         <input id="fb_link_user" type="hidden">
                         <label for="fb_link_passwd">Password:</label>
                         <input type="password" class="fb_passwd inline-error FacebookSignUpModal-input default-input" id="fb_link_passwd" placeholder="">
-                        <p>
-                            <a href="#" id="fb_forgot_password_btn">
-                                <small>I forgot my password</small>
-                            </a>
-                        </p>
                     </div>
                     <div class="link-account-error alert alert-error" style="display:none"></div>
                     <div class="form-step">
@@ -1426,7 +1433,221 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <!-- misc stuffs ends -->
     <script src="https://cdn6.f-cdn.com/build/js/ttref.js?v=07499e56b07087851ca819aa62c9fffa&amp;m=6" type="text/javascript"></script>
-    <script src="//d2werhn82xczly.cloudfront.net/20170919/main.min.js" type="text/javascript"></script>
+    <script>
+// this was taken straight from the rQTSJS repo and merged into gaf,
+// instead of pulling the script from a cloudfront url that is shared with startcon/warrior/escrow
+(function() {
+  var Tracking, create_cookie, guid, read_cookie, s4, which_edge,
+    slice = [].slice,
+    hasProp = {}.hasOwnProperty;
+
+  s4 = function() {
+    return Math.floor((1 + Math.random()) * 0x10000).toString(16).substring(1);
+  };
+
+  guid = function() {
+    return s4() + s4() + '-' + s4() + '-' + s4() + '-' + s4() + '-' + s4() + s4() + s4();
+  };
+
+  create_cookie = function(name, value, days) {
+    var date, expires;
+    if (days == null) {
+      days = 1;
+    }
+    date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 3600 * 1000));
+    expires = "; expires=" + (date.toGMTString());
+    return document.cookie = name + "=" + value + expires + "; path=/";
+  };
+
+  read_cookie = function(name) {
+    var c, ca, i, len, nameEq, v;
+    nameEq = name + "=";
+    ca = document.cookie.split(";");
+    for (i = 0, len = ca.length; i < len; i++) {
+      c = ca[i];
+      v = c;
+      while (v.charAt(0) === ' ') {
+        v = v.substring(1, v.length);
+      }
+      if (v.indexOf(nameEq) === 0) {
+        return v.substring(nameEq.length, v.length);
+      }
+    }
+    return null;
+  };
+
+  which_edge = function() {
+    return read_cookie("lecdn");
+  };
+
+  Tracking = (function() {
+    function Tracking(image1, account_id, defaults) {
+      this.image = image1;
+      this.account_id = account_id;
+      this.defaults = defaults != null ? defaults : {};
+      this._tracking_images = [];
+      this._debug = false;
+      this.session_id = null;
+      this.init_session();
+    }
+
+    Tracking.prototype.replace_defaults = function(new_defaults) {
+      return this.defaults = new_defaults;
+    };
+
+    Tracking.prototype.init_session = function() {
+      if (!this.session_id) {
+        this.session_id = read_cookie('_tracking_session');
+      }
+      if (!this.session_id) {
+        this.session_id = guid();
+        create_cookie('_tracking_session', this.session_id, 365);
+      }
+      return this;
+    };
+
+    Tracking.prototype.log = function() {
+      var msg, ref;
+      msg = 1 <= arguments.length ? slice.call(arguments, 0) : [];
+      if (this._debug) {
+        alert.apply(null, msg);
+      }
+      if (window.console) {
+        (ref = window.console).log.apply(ref, msg);
+      }
+      return this;
+    };
+
+    Tracking.prototype._load_image = function(url) {
+      var image;
+      image = document.createElement('img');
+      image.style.display = "none";
+      image.src = url;
+      this._tracking_images.push(image);
+      return document.body.appendChild(image);
+    };
+
+    Tracking.prototype.last_image = function() {
+      if (this._tracking_images.length === 0) {
+        return null;
+      }
+      return this._tracking_images[this._tracking_images.length - 1].src;
+    };
+
+    Tracking.prototype.start_keepalive = function(page_id) {
+      var me, track_keepalive;
+      me = this;
+      track_keepalive = function() {
+        return me.push([
+          '_keepalive', {
+            'page_id': page_id
+          }
+        ]);
+      };
+      return window.setInterval(track_keepalive, 5000);
+    };
+
+    Tracking.prototype.push = function(event) {
+      var event_name, kvs, params;
+      event_name = event[0], params = 2 <= event.length ? slice.call(event, 1) : [];
+      if (!(typeof event_name === 'string' || event_name instanceof String)) {
+        this.log("Invalid event name pushed - " + event_name);
+        return this;
+      }
+      if (event_name === '') {
+        this.log("Event name is empty");
+        return this;
+      }
+      if (event_name === '_replace_defaults') {
+        this.replace_defaults(params[0]);
+        return this;
+      }
+      if (event_name === 'keepalive') {
+        this.start_keepalive(guid());
+        return this;
+      }
+      kvs = {};
+      if (params.length === 1) {
+        kvs = params[0];
+      }
+      kvs.page = window.location.pathname;
+      kvs.location = '' + window.location;
+      kvs.title = document.title;
+      kvs.edge = which_edge();
+      this.track(event_name, kvs);
+      return 1;
+    };
+
+    Tracking.prototype.init = function(_t) {
+      var event, i, len;
+      if (_t == null) {
+        _t = [];
+      }
+      for (i = 0, len = _t.length; i < len; i++) {
+        event = _t[i];
+        this.push(event);
+      }
+      return this;
+    };
+
+    Tracking.prototype.track = function(event_name, kvs) {
+      var category, fragments, k, label, ref, t, url, v;
+      t = "" + new Date().getTime() + Math.random();
+      fragments = [];
+      for (k in kvs) {
+        if (!hasProp.call(kvs, k)) continue;
+        v = kvs[k];
+        fragments.push((k + "=") + encodeURIComponent(v));
+      }
+      ref = this.defaults;
+      for (k in ref) {
+        if (!hasProp.call(ref, k)) continue;
+        v = ref[k];
+        fragments.push((k + "=") + encodeURIComponent(v));
+      }
+      fragments.push("session_id=" + this.session_id);
+      url = this.image + ("?acct=" + this.account_id + "&t=" + t + "&en=" + event_name + "&");
+      url = url + fragments.join("&");
+      this._load_image(url);
+      if (event_name === 'user_action') {
+        if (kvs.sub_section && !kvs.subsection) {
+          kvs.subsection = kvs.sub_section;
+        }
+        category = kvs.section;
+        if (kvs.subsection && kvs.label) {
+          category = kvs.section + " - " + kvs.subsection;
+          label = kvs.label;
+        } else if (kvs.subsection) {
+          label = kvs.subsection;
+        } else if (kvs.label) {
+          label = kvs.label;
+        }
+        if (window.ga) {
+          return window.ga('send', 'event', {
+            eventCategory: category,
+            eventAction: 'click',
+            eventLabel: label,
+            transport: 'beacon'
+          });
+        }
+      }
+    };
+
+    Tracking.prototype.tracked_count = function() {
+      return this._tracking_images.length;
+    };
+
+    Tracking._guid = guid;
+
+    return Tracking;
+
+  })();
+
+  window.Tracking = Tracking;
+
+}).call(this);
+</script>
 <script type="text/javascript">
         try {
             _t = new Tracking(
@@ -1531,6 +1752,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
     
     
+    
 
 
     <!-- The messaging data is needed on all logged in pages -->
@@ -1543,19 +1765,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
     
     
+    
 
     <!-- SystemJS  -->
-<script defer="" src="https://www.f-cdn.com/assets/polyfills-dd3bd39c.js"></script>
+<script defer="" src="https://www.f-cdn.com/assets/polyfills-3505efdb.js"></script>
 
-<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/freelancer-tracking-tracking-module-ngfactory.b44e26ef58e552de8a91.js" as="script">
-<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-modals-module-ngfactory.e538f62eab66f5942ad1.js" as="script">
-<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-abtest-module-ngfactory.fa2f7382ff300f41bf42.js" as="script">
-<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-threatmetrix-module-ngfactory.5aa75e6e758b40026867.js" as="script">
-<script defer="" src="https://www.f-cdn.com/assets/webapp-compat/runtime.8814d18c92e62345860b.js"></script>
-<script defer="" src="https://www.f-cdn.com/assets/webapp-compat/main.5f476b1d03ed671380cb.js"></script>
+<link rel="preload" href="https://www.f-cdn.com/assets/compat/en/freelancer-tracking-tracking-module-ngfactory.f9bac1ccdefab4312330.js" as="script">
+<link rel="preload" href="https://www.f-cdn.com/assets/compat/en/compat-compat-modals-module-ngfactory.ecc85bebf4e47a67d056.js" as="script">
+<link rel="preload" href="https://www.f-cdn.com/assets/compat/en/compat-compat-abtest-module-ngfactory.3c81490132b7d5cbd252.js" as="script">
+<link rel="preload" href="https://www.f-cdn.com/assets/compat/en/compat-compat-local-storage-module-ngfactory.7625ed4da29e54693b3c.js" as="script">
+<link rel="preload" href="https://www.f-cdn.com/assets/compat/en/compat-compat-threatmetrix-module-ngfactory.1b243fa8f9d52ba72b60.js" as="script">
+<script defer="" src="https://www.f-cdn.com/assets/compat/en/runtime.fe22b69ed876fef9d34c.js"></script>
+<script defer="" src="https://www.f-cdn.com/assets/compat/en/main.25b0c20a79812b12374e.js"></script>
 
 <script defer="" id="systemjs-loader" src="https://www.f-cdn.com/assets/systemjs-83712958.js"></script>
-<script defer="" id="systemjs-config" src="https://www.f-cdn.com/assets/systemjs-config-a88ed96a.js"></script>
+<script defer="" id="systemjs-config" src="https://www.f-cdn.com/assets/systemjs-config-c4ec36cd.js"></script>
 <script>
 document.getElementById('systemjs-loader').addEventListener('load', function() {
   System.config({
@@ -1625,6 +1849,7 @@ document.getElementById('systemjs-config').addEventListener('load', function() {
       var siteName;
       var cdnUrls;
       var facebookAppId;
+      var enterprise;
       var messagingABTests;
       var globalMatchmakingABTests;
       var recaptchaPublicKey;
@@ -1640,6 +1865,7 @@ document.getElementById('systemjs-config').addEventListener('load', function() {
           __export('siteName', "freelancer.in");
           __export('cdnUrls', ["cdn2.f-cdn.com","cdn3.f-cdn.com","cdn5.f-cdn.com","cdn6.f-cdn.com"]);
           __export('facebookAppId', "120131118061981");
+          __export('enterprise', null);
           __export('messagingABTests', []);
           __export('globalMatchmakingABTests', []);
           __export('recaptchaPublicKey', "6Lc1CCcTAAAAABxlulYmWJj_ZNAHHegrhLV3vS2Z");
