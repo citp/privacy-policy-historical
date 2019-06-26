@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfstream.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214170543id_/http%3A//www.gulfstream.com/legal/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfstream.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626053452id_/http%3A//www.gulfstream.com/legal/privacy-notice) for the most accurate reproduction.*
 
 # Gulfstream Aerospace - Legal - Privacy Policy
 
@@ -246,4 +246,4 @@ Legal Department
 Savannah, GA 31408  
 [data.privacy@gulfstream.com](mailto:data.privacy@gulfstream.com)
 
-If you are located in the European Union or European Economic Area, and you wish to raise a concern regarding our use of your personal data, you have the right to do so with our lead supervisory authority, the U.K. Information Commissioner’s Office (the " **ICO** ") at [www.ico.org.uk](https://web.archive.org/web/20181214170543id_/http%3A//www.gulfstream.com/legal/www.ico.org.uk), or your local supervisory authority. We would, however, appreciate the opportunity to deal with your concerns before you approach the ICO, so please contact us in the first instance.
+If you are located in the European Union or European Economic Area, and you wish to raise a concern regarding our use of your personal data, you have the right to do so with our lead supervisory authority, the U.K. Information Commissioner’s Office (the " **ICO** ") at [www.ico.org.uk](https://web.archive.org/web/20190626053452id_/http%3A//www.gulfstream.com/legal/www.ico.org.uk), or your local supervisory authority. We would, however, appreciate the opportunity to deal with your concerns before you approach the ICO, so please contact us in the first instance.
