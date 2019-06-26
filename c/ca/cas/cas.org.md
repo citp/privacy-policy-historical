@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cas.org privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219061318id_/https%3A//www.cas.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cas.org privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626180954id_/https%3A//www.cas.org/legal/privacy) for the most accurate reproduction.*
 
 # CAS Privacy Policy | CAS
 
@@ -6,7 +6,7 @@ This webpage sets out when and how we use your personal information that you or 
 
 ### WHO ARE WE ?
 
-We are Chemical Abstracts Service (CAS), a division of the American Chemical Society (ACS). ACS is an American federally chartered non-profit organization. Our website is www.cas.org. We are located at 2540 Olentangy River Road, Columbus, Ohio 43202-1505, U.S.A.
+We are CAS, a division of the American Chemical Society (ACS). ACS is an American federally chartered non-profit organization. Our website is www.cas.org. We are located at 2540 Olentangy River Road, Columbus, Ohio 43202-1505, U.S.A.
 
 ### HOW WE USE YOUR DATA?
 
@@ -208,4 +208,4 @@ Please check back frequently to see any updates or changes to our privacy policy
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@cas.org](mailto:privacy@cas.org).  
 
-This privacy policy was last updated on April 23, 2018.
+This privacy policy was last updated on March 15, 2019.
