@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquarist-classifieds.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902224557id_/http%3A//www.aquarist-classifieds.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquarist-classifieds.co.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626024313id_/http%3A//www.aquarist-classifieds.co.uk/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT Aquarist Classified Adverts
 
