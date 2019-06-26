@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lek.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004004301id_/https%3A//www.lek.com/lek-consulting-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lek.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626113528id_/https%3A//www.lek.com/lek-consulting-privacy-policy) for the most accurate reproduction.*
 
 # L.E.K. Consulting Privacy Notice | L.E.K. Consulting
 
@@ -6,7 +6,7 @@
 
 L.E.K. Consulting LLC (together with its global associated offices, “L.E.K. Consulting”, “we”, “us” or “our”) respects your privacy and is committed to protecting the personal data of yours that we may hold. This privacy notice applies to the [www.lek.com](http://www.lek.com/) website (the “Website”) and describes the types of personal identifying information we may collect from you when you visit this Website and our practices for collecting, using, maintaining, disclosing and transferring that information.  It also informs you of your privacy rights and how the law protects you in certain jurisdictions.
 
-This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Alternatively, you can download a pdf version of the notice [here](https://www.lek.com/sites/default/files/PDFs/LEK_Website_Privacy_Notice_September_2018.pdf).
+This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Alternatively, you can download a pdf version of the notice [here](https://www.lek.com/sites/default/files/PDFs/LEK_Website_Privacy_Notice_February_2019.pdf).
 
 1\. Important information and contact details
 
@@ -36,7 +36,7 @@ This privacy notice is provided in a layered format so you can click through to 
 
 ### 1\. Important Information and contact details
 
-This version of the Privacy Notice was last updated in September 2018. By accessing the Website, you agree to this Privacy Notice. L.E.K. Consulting reserves the right to modify this Privacy Notice at any time and to use user information for new, unanticipated uses not previously disclosed in this Privacy Notice. However, if our information practices change at some time in the future, we will post the policy changes to our Website to notify you of these changes and provide you with the ability to opt out of these new uses. Your continued use of the Website after such changes are made is considered to be your acceptance of those changes.  If you are concerned about how your information is used, you should check back at our Website periodically.
+This version of the Privacy Notice was last updated in February 2019. By accessing the Website, you agree to this Privacy Notice. L.E.K. Consulting reserves the right to modify this Privacy Notice at any time and to use user information for new, unanticipated uses not previously disclosed in this Privacy Notice. However, if our information practices change at some time in the future, we will post the policy changes to our Website to notify you of these changes and provide you with the ability to opt out of these new uses. Your continued use of the Website after such changes are made is considered to be your acceptance of those changes.  If you are concerned about how your information is used, you should check back at our Website periodically.
 
 This Website is not directed at children 16 years of age or younger. L.E.K. Consulting, therefore, will not intentionally collect information about any user under the age of 16 and our website or communications are not extended to such persons.
 
@@ -84,6 +84,8 @@ Our Website uses both session cookies and persistent cookies. The use of cookie
  
   * **E-mail Subscriptions Service** \- Session cookies are used in our e-mail subscriptions service to track recipients' interaction with our e-mail updates and to facilitate our online subscriptions manager website.  
  
+  * **LinkedIn** – session cookies are used to track basic demographic information of LinkedIn visitors to our website.  
+ 
   * **Online Application System**  \- We use session cookies on our online application system to assist in the navigation around the site.   
  
   * **Video Content** \- We use an online video software provider to host and play our video content. That provider uses session cookies to collect certain non-personally identifiable information about you when you view our videos, including your IP address, browser type, Internet Service Provider and operating system. They also collect information relating to how videos are played, including when and for long, and whether they are played in full screen mode. This information helps them to monitor how their software is being used and us to monitor how our videos are being viewed.  
@@ -106,7 +108,7 @@ You have the right to withdraw your consent where this has been provided, or to 
 
 ### 5\. Disclosures of your personal data and international transfers
 
-L.E.K. Consulting does not sell or license personal information to third parties. We may disclose the information collected with third-party marketing service companies which may process your data on our behalf and under our instruction. These third-party service providers include, dotMailer, HubSpot, Grove Marketing, Google Analytics, New Relic and AddThis who assist us in maintaining our Website, analyzing our Website traffic, and in providing services and information to users of our Website. We require all third parties to respect the security of your personal data and to treat it in accordance with applicable law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+L.E.K. Consulting does not sell or license personal information to third parties. We may disclose the information collected with third-party marketing service companies which may process your data on our behalf and under our instruction. These third-party service providers include, dotMailer, HubSpot, LinkedIn, Grove Marketing, Google Analytics, New Relic and AddThis who assist us in maintaining our Website, analyzing our Website traffic, and in providing services and information to users of our Website. We require all third parties to respect the security of your personal data and to treat it in accordance with applicable law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
 
 With respect to Ad Servers: we do not partner with or have special relationships with any ad server companies.
 
@@ -140,7 +142,7 @@ L.E.K. Consulting will only retain your personal data for as long as necessary t
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means and the applicable legal requirements.
 
-Details of retention periods applied to your personal data can be requested by [contacting us](mailto:dataprivacymanager@lek.com). For data subjects protected by GDPR we keep basic information about you for six years after you cease to use our services or hold other communication with us. Personal information collected in relation to money laudering requirements will be kept for up to 10 years. In some circumstances, you can ask us to delete your data: see request erasure below for further information.
+Details of retention periods applied to your personal data can be requested by [contacting us](mailto:dataprivacymanager@lek.com). For data subjects protected by GDPR we keep basic information about you for six years after you cease to use our services or hold other communication with us. This data retention schedule comes into effect January 2020, six years since the launch of our current contact database. Personal information collected in relation to money laundry requirements will be kept for up to 10 years. In some circumstances, you can ask us to delete your data: see request erasure below for further information.
 
 We may anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
