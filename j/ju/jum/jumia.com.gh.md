@@ -1,76 +1,69 @@
-> *The following text is extracted and transformed from the jumia.com.gh privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318111844id_/http%3A//www.jumia.com.gh/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumia.com.gh privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626032438id_/https%3A//www.jumia.com.gh/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Jumia
+# Privacy Statement | Jumia Ghana
+
+Your privacy is important to Jumia and always has been. So we've developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.  
+**By visiting Jumia, you are accepting the practices described in this Privacy Notice.**
+
+1\. How Personal Information about Customers is used?
+
+User data may be shared with Jumia providers to improve order processing and customer service. It may also be used both for marketing research purposes and customer relation management, it being specified that some of those providers are not located in the European Union.
+
+**What is done with your personal information?**  
+User data collected help us to personalize our website according to each user’s wishes and preferences. Offering you the most spontaneous and friendly surfing experience is our priority. Data collected are for statistical purposes only and help us to:
+
+  * Process orders
+  * Deliver products and services
+  * Process payments and communicate with you about your orders, products, services and promotional offers
+  * Keep and update our database and your accounts with us
+  * Propose a unique and targeted navigation experience
+  * Prevent and detect fraud and abuse on our website
+
+
+
+2\. What about Cookies?
+
+Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features to make your navigation experience unique and targeted. 
+
+The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the use of the 'basket' functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. 
+
+Jumia uses Google Analytics and Webtrekk GmbH (Click[ Here](https://www.webtrekk.com/en/home/)) for marketing and personal data optimization purposes. Jumia also uses Google Digital Marketing to propose targeted offers.  
+To find out more: 
+
+  * About Google Analytics: Click [Here](http://www.google.com/analytics/)
+  * About Webtrekk GmbH: Click [Here](https://www.webtrekk.com/en/home/)
+  * About Google Digital Marketing: Click [Here](https://www.thinkwithgoogle.com/products/doubleclick-digital-marketing-platform.html)
+
+
+
+3\. What is the accuracy of the Personal Data provided to Jumia?
+
+You declare and guarantee that You are the owner or have the necessary rights on the content that You transmit to Us; that at the date of its transmission (i) the content is exact and true, (ii) the use of the content does not contravene any of our policies and will not be damaging to any third party (i.e. that the content is not defamatory).
+
+4\. How Secure is Information about Me?
+
+It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.   
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.  
+We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+
+5\. Examples of Information Collected: 
+
+  * **Information you give us:** You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Jumia or one of our third-party sellers; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or Your Profile; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in Your Profile ; and financial information, including Social Security and driver's license numbers.
+  
+
+  * **Automatic information:** Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features like Top Sellers ; the full Uniform Resource Locator (URL) clickstream to, though, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
+  
+
+  * **Mobile:** Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu.  If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer.
+  
+
+  * **Information from other sources:** Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features.
+
+
+
+6\. What are your rights?
+
+If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes.
 
   
 
-
-* * *
-
-Welcome to the jumia.com.gh website (the "Site") operated by E-Cart Internet Services. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
-
-This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
-
-Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.
-
-We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected.
-
-You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
-
-## 1\. Data that we collect
-
-* * *
-
-We may collect various pieces of information if you seek to place an order for a product with us on the Site. 
-
-We collect, store and process your data for processing your purchase on the Site and any possible later claims, and to provide you with our services. We may collect personal information including, but not limited to, your title, name, gender, date of birth, email address, postal address, delivery address (if different), telephone number, mobile number, fax number, payment details, payment card details or bank account details. 
-
-We will use the information you provide to enable us to process your orders and to provide you with the services and information offered through our website and which you request. Further, we will use the information you provide to administer your account with us; verify and carry out financial transactions in relation to payments you make; audit the downloading of data from our website; improve the layout and/or content of the pages of our website and customize them for users; identify visitors on our website; carry out research on our users' demographics; send you information we think you may find useful or which you have requested from us, including information about our products and services, provided you have indicated that you have not objected to being contacted for these purposes. Subject to obtaining your consent we may contact you by email with details of other products and services. If you prefer not to receive any marketing communications from us, you can opt out at any time. 
-
-We may pass your name and address on to a third party in order to make delivery of the product to you (for example to our courier or supplier). You must only submit to us the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes. 
-
-Your actual order details may be stored with us but for security reasons cannot be retrieved directly by us. However, you may access this information by logging into your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details ( for refund purposes) and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorized third parties. We cannot assume any liability for misuse of passwords unless this misuse is our fault. 
-
-## Other uses of your Personal Information
-
-* * *
-
-We may use your personal information for opinion and market research. Your details are anonymous and will only be used for statistical purposes. You can choose to opt out of this at any time. Any answers to surveys or opinion polls we may ask you to complete will not be forwarded on to third parties. Disclosing your email address is only necessary if you would like to take part in competitions. We save the answers to our surveys separately from your email address.
-
-We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the 'unsubscribe' link in any email that we send to you. Within 7 working days (days which are neither (i) a Sunday, nor (ii) a public holiday anywhere in Ghana) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.
-
-We may further anonymize data about users of the Site generally and use it for various purposes, including ascertaining the general location of the users and usage of certain aspects of the Site or a link contained in an email to those registered to receive them, and supplying that anonymized data to third parties such as publishers. However, that anonymized data will not be capable of identifying you personally. 
-
-## Competitions
-
-* * *
-
-For any competition we use the data to notify winners and advertise our offers. You can find more details where applicable in our participation terms for the respective competition.
-
-## Third Parties and Links
-
-* * *
-
-We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyze data and to provide us with marketing or customer service assistance. 
-
-We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy.
-
-## 2\. Cookies
-
-* * *
-
-The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the use of the 'basket' functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to http://www.allaboutcookies.org or to find out about removing them from your browser, go to http://www.allaboutcookies.org/manage-cookies/index.html. 
-
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
-
-## 3\. Security
-
-* * *
-
-We have in place appropriate technical and security measures to prevent unauthorized or unlawful access to or accidental loss of or destruction or damage to your information. When we collect data through the Site, we collect your personal details on a secure server. We use firewalls on our servers. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. You are responsible for protecting against unauthorized access to your password and to your computer. 
-
-## 4\. Your rights
-
-* * *
-
-If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes.
