@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coinstar.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222091829id_/http%3A//www.coinstar.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinstar.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626234123id_/http%3A//www.coinstar.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Last Updated: April 10, 2018
+## Last Updated: June 14, 2019
 
-This Privacy Policy (or “Policy”) describes how Coinstar, LLC and our family of companies, including our subsidiaries (collectively, “Coinstar,” “we,” “us,” or “our”) collect, use and may disclose your personal information, as that term is defined below, in connection with COINSTAR kiosks, the Coinstar website, and other Coinstar products and services that link to this Policy (collectively, the “Services”). The Coinstar entity that owns and operates the Service that you are using will be the data controller responsible for the collection and use of your personal information. If a Coinstar product or service describes privacy practices applicable to specific types of information or in certain circumstances and those descriptions conflict with this Policy, those descriptions shall supersede this Policy. If you have questions or concerns about Coinstar’s privacy practices, please contact us at [legalaffairs@coinstar.com.](mailto:legalaffairs@coinstar.com)
+This Privacy Policy (or “Policy”) describes how Coinstar, LLC and our family of companies, including our subsidiaries (collectively, “Coinstar,” “we,” “us,” or “our”) collect, use and may disclose your personal information, as that term is defined below, in connection with COINSTAR kiosks, the Coinstar website, the Coinstar mobile application and other Coinstar products and services that link to this Policy (collectively, the “Services”). The Coinstar entity that owns and operates the Service that you are using will be the data controller responsible for the collection and use of your personal information. If a Coinstar product or service describes privacy practices applicable to specific types of information or in certain circumstances and those descriptions conflict with this Policy, those descriptions shall supersede this Policy. If you have questions or concerns about Coinstar’s privacy practices, please contact us at [legalaffairs@coinstar.com.](mailto:legalaffairs@coinstar.com)
 
 Please check back frequently as your use of the Services constitutes acceptance of this Policy, as it may be amended from time to time, and you agree to be legally bound by this Policy.
 
@@ -12,22 +12,23 @@ Please check back frequently as your use of the Services constitutes acceptance 
 
 We collect information about you in various ways.
 
-_Information You Provide to Us_. We collect information you provide directly through the use of the Services, such as your name, email address, birthday, postal address, zip code, phone number, information such as password and security questions necessary to create and maintain a Coinstar account, and any other information you choose to provide. Some of this information will be personal information (defined as information that identifies an individual on its own or in combination with other information Coinstar possesses).
+_Information You Provide to Us_. We collect information you provide directly through the use of the Services, such as your name, email address, birthday, postal address, zip code, phone number, information such as password and security questions necessary to create and maintain a Coinstar account, and any other information you choose to provide. In order to use our mobile application, you will need to provide us your mobile phone number so we can send you a verification code via text message to verify your identity. Some of this information will be personal information (defined as information that identifies an individual on its own or in combination with other information Coinstar possesses).
 
-_Information We Collect When You Use Our Services_. When you use or otherwise interact with the Services, we may collect information about you and we may combine this information with other information we believe to be about you. For example, we may collect:
+_Information We Collect When You Use Our Services_. When you use or otherwise interact with the Services, we may collect information about you and we may combine this information with other information we believe to be about you. For example, we may collect::
 
-  * Transaction Information:When you use our kiosks, we collect information about your transaction, including but not limited to the transaction amount, date, time, and location.
-  * Security Information: In some cases, security measures in place at our kiosks to protect both you and us may capture images and other information about you or those around you.
-  * Log Information:When you visit or use some of the Services, such as our websites, some information is automatically logged, such as your computer’s operating system, Internet Protocol (“IP”) address, access times, browser type and language and the sites you visited before navigating to our sites.
-  * Mobile Device Information:We may collect information about the mobile device you use to access our Services, including the hardware model, operating system and version, device identifiers, mobile network information and information about your use of our mobile applications. With your consent, we may also collect information about the location of your mobile device. For more details about the collection of location information and the choices you have, please see the “Information Choices” section below.
-  * Cookies and Similar Technologies. We use various technologies to passively collect information, and this may include placing cookies, flash cookies, web beacons, or other tracking technologies on your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory by a website. Web beacons (also referred to as “clear gifs”) are electronic images that may be used on our websites or in our communications. We use web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and understand how you interact with our services and communications. For more information about cookies and similar technologies, please see our [Cookies Policy](https://web.archive.org/cookies-policy).
+  * _Transaction Information_ : When you use our kiosks or mobile application, we collect information about your transaction, including but not limited to the transaction amount, date, time, and location, which eGift Cards you deposited cash to, the balance on that eGift Card and other relevant information.
+  * _Security Information_ : In some cases, security measures in place at our kiosks to protect both you and us may capture images and other information about you or those around you
+  * _Log Information_ : When you visit or use some of the Services, such as our websites, some information is automatically logged, such as your computer’s operating system, Internet Protocol (“IP”) address, access times, browser type and language and the sites you visited before navigating to our sites.
+  * _Mobile Device Information_ : We may collect information about the mobile device you use to access our Services, including the hardware model, operating system and version, device identifiers, mobile network information and information about your use of our mobile applications.
+  * _Location Information_ : We may collect information about the location of your device each time you access or use our mobile application or otherwise consent to the collection of this information. For example, we may collect information about the location of your device when you use our mobile application to search for the nearest Coinstar kiosk. For more details about the collection of location information and the choices you have, please see the “Information Choices” section below.
+  * _Cookies and Similar Technologies_. We use various technologies to passively collect information, and this may include placing cookies, flash cookies, web beacons, or other tracking technologies on your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory by a website. Web beacons (also referred to as “clear gifs”) are electronic images that may be used on our websites or in our communications. We use web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to understand how you interact with our services and communications. For more information about cookies and similar technologies, please see our [Cookies Policy](https://web.archive.org/cookies-policy).
 
 
 
 _Information We Obtain from Third Party Sources_. We may obtain certain personal information about you from third party sources, as follows:
 
-  * Business Partners and Service Providers.  We use business partners and service providers, such as payment processors and analytics providers, to perform services on our behalf. Some of these partners have access to personal information about you that we may not otherwise have (for example, where you sign up directly with that provider).
-  * Supplemental Information.  We may receive additional personal information from third-party sources, such as public databases, which we may append to existing consumer information.
+  * _Business Partners and Service Providers_.  We use business partners and service providers, such as payment processors and analytics providers, to perform services on our behalf. Some of these partners have access to personal information about you that we may not otherwise have (for example, where you sign up directly with that provider).
+  * _Supplemental Information_.  We may receive additional personal information from third-party sources, such as public databases, which we may append to existing consumer information.
 
 
 
@@ -41,7 +42,7 @@ We use the information we collect and obtain described above to provide and impr
   * facilitate contests, sweepstakes, and promotions and process and deliver entries, prizes and rewards;
   * monitor and analyze trends, usage and activities in connection with the Services;
   * personalize the Services and provide content and features we think will be of interest to you;
-  * facilitate your relationship with third parties who offer services we think may be of interest to you;
+  * facilitate your relationship with third parties who offer services we think may be of interest to you
   * respond to your comments and questions and provide customer service;
   * provide and deliver products and services and send you related information, including confirmations, notices, updates, alerts, surveys, and support and administrative messages;
   * communicate with you about contests, sweepstakes, promotions, rewards, upcoming events and other news and information about products and services offered by Coinstar and other companies;
@@ -70,7 +71,7 @@ We may share your information as follows:
 
   * with our subsidiaries and affiliated companies;
   * with third party vendors, consultants and other service providers who are working on our behalf to deliver you products and services and need access to such information to carry out their work for us – for example, we may partner with other companies to process secure payments, fulfill orders, optimize our services, send newsletters and marketing emails, support email and messaging services and analyze information;
-  * with third parties, including law enforcement, partners, and third-party loss prevention personnel, to detect, investigate or prevent fraudulent or suspicious transactions, support investigations into suspected theft, fraud or other wrongdoing, prevent any action that is illegal or otherwise inconsistent with our user agreements or policies and/or to protect the rights, property and safety of Coinstar or our partners (including retailers);
+  * with third parties, including law enforcement, partners, and third-party loss prevention personnel, to detect, investigate or prevent fraudulent or suspicious transactions, support investigations into suspected theft, fraud or other wrongdoing, prevent any action that is illegal or otherwise inconsistent with our user agreements or policies and/or to protect the rights, property and safety of Coinstar or our partners (including retailers or gift card issuers);
   * in response to a request for information if we believe disclosure is allowed or required by any applicable law, rule or regulation;
   * in connection with, or during negotiations of, any merger, sale of company assets, financing or transfer of all or a portion of our business to another company (Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this Privacy Policy); and
   * with your consent or at your reasonable direction.
@@ -88,7 +89,7 @@ We rely on separate and overlapping bases to process your personal information l
   * obtaining insights into usage patterns of the Services;
   * exploring ways to develop and grow our business;
   * ensuring the safety and security of the Services; and
-  * enhancing protection against fraud, spam, harassment, intellectual property infringement, crime and security risks.
+  * enhancing protection against fraud, spam, harassment, intellectual property infringement, crime and security risks
 
 
 
@@ -98,23 +99,23 @@ The Services may include links to websites, web applications, or connected resou
 
 ## THIRD-PARTY ADVERTISING AND ANALYTICS SERVICES
 
-We may allow others to serve interest-based advertisements across the internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites over time, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Coinstar and others to, among other things, analyze and track data, determine the popularity of certain content, deliver better advertising and content targeted to your interests both on our Services and across the web, and better understand your online and offline activities. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices).
+We may allow others to serve interest-based advertisements across the internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites over time, including your IP address, web browser, mobile network information, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Coinstar and others to, among other things, analyze and track data, determine the popularity of certain content, deliver better advertising and content targeted to your interests both on our Services and across the web, and better understand your online and offline activities. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
-We may also work with third parties to serve ads on other websites or platforms, and these ads may sometimes be customized based on information we have about you. To opt out of us using your information in this way, please email us at [info@coinstar.com.](mailto:info@coinstar.com)
+We may also work with third parties to serve ads on other websites or platforms, and these ads may sometimes be customized based on information we have about you. To opt out of us using your information in this way, please email us at [CoinstarSocial@coinstar.com](mailto:CoinstarSocial@coinstar.com) or click on the “Unsubscribe” link in the Coinstar communication email.
 
 ## INFORMATION CHOICES
 
-_Account Information_. If you have an online account with Coinstar, you may access, update and correct information about you by logging into your account and updating your profile information or by emailing [info@coinstar.com](mailto:info@coinstar.com). You may also email us at [info@coinstar.com](mailto:info@coinstar.com) if you wish to deactivate your account.
+_Account Information_. If you have an online account with Coinstar, you may access, update and correct information about you by contacting us at 1-800-928-2274 or by emailing [CoinstarSocial@coinstar.com](mailto:CoinstarSocial@coinstar.com). You may also contact us at 1-800-928-2274 if you wish to deactivate your account.
 
-_Promotional Communications_. You may opt out of receiving promotional emails and text messages from Coinstar by following the instructions in those communications. Please allow up to 10 days for these opt outs to take effect. If you opt out, we may still send you non-promotional messages, such as emails about your accounts or our ongoing business relations.
+_Promotional Communications_.You may opt out of receiving promotional emails and text messages from Coinstar by following the instructions in those communications. Please allow up to 10 days for these opt outs to take effect. If you opt out, we may still send you non-promotional messages, such as emails about your accounts or our ongoing business relations.
 
-_Cookies_. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and/or reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of the Services.
+_Mobile Push Notifications/Alerts_. With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device.  You can deactivate these messages at any time by changing the notification settings on your mobile device.
 
-_Location Information_. When you first visit one of the pages on our websites that collect location information, you will be asked to consent to the collection of location information. If you initially consent to our collection
+_Cookies_. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and/or reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of the Services.
 
-of location information, you can later stop this collection by changing the settings on your mobile device or web browser. If you do so, certain features of the Services will no longer function. You can also stop our collection of location information by our mobile applications by following the standard uninstall process and removing the relevant Coinstar application(s) from your mobile device.
+_Location Information_. When you first visit one of the pages on our websites that collect location information or first launch our mobile application, you will be asked to consent to the collection of location information. If you initially consent to our collection of location information, you can later stop this collection by changing the settings on your mobile device or web browser. If you do so, certain features of the Services will no longer function. You can also stop our collection of location information by our mobile applications by following the standard uninstall process and removing the relevant Coinstar application(s) from your mobile device.
 
-Your Personal Information Rights. In certain circumstances, you may have rights regarding your personal information, subject to local law. These may include rights to:
+_Your Personal Information Rights_. In certain circumstances, you may have rights regarding your personal information, subject to local law. These may include rights to:
 
   * access the personal information we hold about you;
   * rectify the personal information we hold about you;
@@ -132,17 +133,17 @@ Please note that we will likely require additional information from you in order
 
 If you would like to discuss or exercise such rights, please contact us at the details below.
 
-_Opt Out of Information Sharing_. To opt out of having Coinstar share information about you with third parties for their own business purposes, including to market products and services to you, please contact us at [info@coinstar.com](mailto:info@coinstar.com). Allow for up to 10 days for such opt outs to become effective.
+_Opt Out of Information Sharing_. To opt out of having Coinstar share information about you with third parties for their own business purposes, including to market products and services to you, please contact us at [CoinstarSocial@coinstar.com](mailto:CoinstarSocial@coinstar.com) or click on the “Unsubscribe” link in the Coinstar communication email. Allow for up to 10 days for such opt outs to become effective.
 
-_Your California Privacy Rights_. California law permits residents of California to request certain details about how their browsing information across the web and over time is shared with third parties for direct marketing purposes, and to provide options for participating in such sharing. To request information regarding the disclosure of your personal information or to opt out of having information about you shared with third parties for direct marketing purposes, please email [info@coinstar.com](mailto:info@coinstar.com) or write us at:
+_Your California Privacy Rights_. California law permits residents of California to request certain details about how their browsing information across the web and over time is shared with third parties for direct marketing purposes, and to provide options for participating in such sharing. To request information regarding the disclosure of your personal information or to opt out of having information about you shared with third parties for direct marketing purposes, please click the “Unsubscribe” link in the Coinstar communication email, email us at [CoinstarSocial@coinstar.com](mailto:CoinstarSocial@coinstar.com), or write us at:
 
 Coinstar  
 Attn. Legal Department, CA Privacy Rights  
 1800 114th Ave. SE, Bellevue, WA 98004
 
-If you are a California resident under the age of 18, and a registered user of any site where this policy is posted, you may also request and obtain removal of certain content or information you have publicly posted. To make such a request, please send an email with a detailed description of the specific content or information to [info@coinstar.com](mailto:info@coinstar.com).
+If you are a California resident under the age of 18, and a registered user of any site where this policy is posted, you may also request and obtain removal of certain content or information you have publicly posted. To make such a request, please send an email with a detailed description of the specific content or information to [CoinstarSocial@coinstar.com](mailto:CoinstarSocial@coinstar.com).
 
-Do Not Track. Some web browsers may be configured to send “Do Not Track” signals to the online services that you visit. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, the Services do not alter practices when a “Do Not Track” signal is received from a visitor’s browser. To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
+_Do Not Track_. Some web browsers may be configured to send “Do Not Track” signals to the online services that you visit. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, the Services do not alter practices when a “Do Not Track” signal is received from a visitor’s browser. To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
 ## SECURITY OF INFORMATION
 
