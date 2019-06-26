@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the sonoma.edu privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212011935id_/http%3A//www.sonoma.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonoma.edu privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626201028id_/http%3A//www.sonoma.edu/privacy) for the most accurate reproduction.*
 
 # Online Privacy Notice | Sonoma State University
 
 (Includes GDRP)
 
-Last Updated:  May 25, 2018
+Initially Implemented:  May 25, 2018
+
+Modified: June 12, 2019
 
 Sonoma State University (SSU) respects your privacy and is committed to protecting it to the extent possible, subject to applicable state and federal law, through our compliance with our privacy policies and this Privacy Notice.
 
@@ -82,6 +84,10 @@ When you visit the Sites, we may send one or more cookies – a small text file 
 ### Google Analytics 
 
 We use a tool called “Google Analytics,” a web analytics service provided by Google, Inc. to collect information about use of the Sites.  Google Analytics collects information such as how often users visit our Sites, what pages are visited, and what other sites were visited prior to coming to our Sites.  We use the information we get from Google Analytics only to improve the Sites.  Google Analytics collects only the IP address assigned to you on the date you visit the Sites, rather than your name or other identifying information.  Google Analytics will also collect contextual information, such as type of web browser, type of operating system, browser resolution, and network location, however we do not combine the information collected through the use of Google Analytics with personally identifiable information.  Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit the Sites, the cookie cannot be used by anyone but Google.  Google’ s ability to use and share information collected by Google Analytics about your visits to the Sites is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to the Sites by disabling cookies on your browser, however, please note that if you do this you may not be able to use the full functionality of the Sites.
+
+Sonoma State University uses cookies to make sure the website can function, to measure traffic, and to support the marketing of our services. By using the Sonoma State University website, you agree to our use of cookies. We will track all aspects of our marketing campaign in Google Analytics by utilizing Urchin Tracking Module (UTM) codes on all marketing strategies. Cookies are used for retargeting devices that visit specific pages on the SSU website and for tracking within Google Analytics.
+
+Google provides the ability to allow you to prevent your data from being used by Google Analytics, by offering the Google Analytics opt-out browser add-on for the Google Analytics. If you want to opt-out, download and install the add-on for your web browser. The Google Analytics opt-out add-on is designed to be compatible with Chrome, Internet Explorer 11, Safari, Firefox and Opera. In order to function, the opt-out add-on must be able to load and execute properly on your browser. For Internet Explorer, 3rd-party cookies must be enabled. [Learn more about the opt-out and how to properly install the browser add-on](https://support.google.com/analytics/answer/181881?hl=en).
 
 ### Log File Information
 
