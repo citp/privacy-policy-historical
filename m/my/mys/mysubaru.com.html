@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mysubaru.com privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231064514id_/http%3A//www.subaru.com/company/mysubaru-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysubaru.com privacy policy that was archived on 2019-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190626222258id_/http%3A//www.subaru.com/company/mysubaru-privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" en js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths webkit chrome linux js" lang="en" style=""><!--<![endif]--><head><script>
     var Subaru = Subaru || {};
@@ -177,7 +177,8 @@
         <script type="text/javascript" src="/etc/designs/subaru/js/bluebird.min.js"></script>
 <script type="text/javascript" src="/etc/designs/subaru/js/master-user-location.min.js"></script>
 
-        <script type="text/javascript" src="/etc/designs/subaru/common-components/js/geolocation.min.js"></script>
+        <script type="text/javascript" src="/etc/designs/subaru/js/soa-utils.min.js"></script>
+<script type="text/javascript" src="/etc/designs/subaru/common-components/js/geolocation.min.js"></script>
 
         <div class="view-port-screen">
         
@@ -187,6 +188,7 @@
 <div id="global_header" class="text-left foundation-5" data-swiftype-index="false">
     <div class="global_header-wrapper">
         <!-- Global Top Header Navigation -->
+        <a tabindex="1" href="#wrapper" class="offscreen">Skip to Content</a>
         <div id="top-nav-reveal" class="reveal-modal search" data-reveal="">
     <form action="/search.html" method="get" id="search_nav">
         <div class="row collapse">
@@ -194,7 +196,7 @@
                 <button class="search_button">&nbsp;</button>
             </div>
             <div class="columns small-10">
-                <input id="search_box" class="default-text arial search-box" name="searchQuery" type="text" size="15" value="" placeholder="Search">
+                <input id="search_box" class="default-text arial search-box" aria-label="Search will submit automatically with enter key press" title="Search" name="searchQuery" type="text" size="15" value="" placeholder="Search">
             </div>
             <div class="columns small-1">
                 <span id="close_button" class="reveal-trigger">&nbsp;</span>
@@ -246,7 +248,7 @@
             <div class="geo-zip-wrapper">
                 <label for="geo-zip" class="geo-label ">Your Zip Code</label>
                 <div class="geo-zip-container ">
-                    <input class="geo-zip" name="geo-zip" type="text" inputmode="numeric" placeholder="Enter ZIP" maxlength="5" pattern="\d{5}" autocomplete="off" data-enhance="false" data-ispristine="true" data-value="66952" data-validation-state="valid">
+                <input class="geo-zip" id="geo-zip" name="geo-zip" type="text" inputmode="numeric" title="Enter ZIP" aria-label="Enter ZIP will submit automatically on change" placeholder="Enter ZIP" maxlength="5" pattern="\d{5}" autocomplete="off" data-enhance="false" data-ispristine="true" data-value="66952" data-validation-state="valid">
                     <span class="geo-zipCodeArrow"></span>
                 </div>
                 <p class="error-message geo-zipError">
@@ -275,7 +277,7 @@
                         <div class="geo-selectedRetailer-wrapper geo-hideElement">
                             <div class="geo-selectedRetailer-info">
                                 <div class="geo-selectedRetailer-radio-wrapper">
-                                    <label data-value="" class="geo-selectedRetailer-radioLabel">
+                                <label class="geo-selectedRetailer-radioLabel" data-value="">
                                         <input type="radio" data-enhance="false" name="geo-retailer-radioName" class="geo-retailer-radio geo-selected" value="">
                                         <span class="checkmark">
                                             <i class="dot"></i>
@@ -434,7 +436,7 @@
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
-                                    <p>Up to</p>
+                                <p>Up to</p>
                                 <span class="mpg-msrp bold">
                                         38/<span class="mpg-city">28&nbsp;MPG</span>
                                     </span>
@@ -446,16 +448,16 @@
                         <div>
                             <ul class="links">
                                 <li>
-                                    <a class="overview button" href="/vehicles/impreza/index.html">Overview</a>
+                                    <a class="overview button" href="/vehicles/impreza/index.html" aria-label="Overview Impreza">Overview</a>
                                 </li>
                                 <li>
-                                        <a class="photos-videos button" href="/vehicles/impreza/gallery.html">Photos &amp; Videos</a>
+                                        <a class="photos-videos button" href="/vehicles/impreza/gallery.html" aria-label="Impreza Photos &amp; Videos">Photos &amp; Videos</a>
                                     </li>
                                     <li>
-                                        <a class="vme_cta_icon_competitive button" href="/vehicles/impreza/compare-vehicles.html" rel=" ">Compare</a>
+                                        <a class="vme_cta_icon_competitive button" href="/vehicles/impreza/compare-vehicles.html" rel=" " aria-label="Compare Impreza">Compare</a>
                                     </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/2019/IMP.html">Build &amp; Price</a>
+                                    <a class="build-your-own button" aria-label="Build and Price 2019 Impreza" href="/build-your-own/2019/IMP.html">Build &amp; Price</a>
                                 </li>
                             </ul>
                         </div>
@@ -503,7 +505,7 @@
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
-                                    <p>Up to</p>
+                                <p>Up to</p>
                                 <span class="mpg-msrp bold">
                                         34/<span class="mpg-city">25&nbsp;MPG</span>
                                     </span>
@@ -515,16 +517,16 @@
                         <div>
                             <ul class="links">
                                 <li>
-                                    <a class="overview button" href="/vehicles/legacy/index.html">Overview</a>
+                                    <a class="overview button" href="/vehicles/legacy/index.html" aria-label="Overview Legacy">Overview</a>
                                 </li>
                                 <li>
-                                        <a class="photos-videos button" href="/vehicles/legacy/gallery.html">Photos &amp; Videos</a>
+                                        <a class="photos-videos button" href="/vehicles/legacy/gallery.html" aria-label="Legacy Photos &amp; Videos">Photos &amp; Videos</a>
                                     </li>
                                     <li>
-                                        <a class="vme_cta_icon_competitive button" href="/vehicles/legacy/compare-vehicles.html" rel=" ">Compare</a>
+                                        <a class="vme_cta_icon_competitive button" href="/vehicles/legacy/compare-vehicles.html" rel=" " aria-label="Compare Legacy">Compare</a>
                                     </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/2019/LEG.html">Build &amp; Price</a>
+                                    <a class="build-your-own button" aria-label="Build and Price 2019 Legacy" href="/build-your-own/2019/LEG.html">Build &amp; Price</a>
                                 </li>
                             </ul>
                         </div>
@@ -572,7 +574,7 @@
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
-                                    <p>Up to</p>
+                                <p>Up to</p>
                                 <span class="mpg-msrp bold">
                                         33/<span class="mpg-city">27&nbsp;MPG</span>
                                     </span>
@@ -584,16 +586,16 @@
                         <div>
                             <ul class="links">
                                 <li>
-                                    <a class="overview button" href="/vehicles/crosstrek/index.html">Overview</a>
+                                    <a class="overview button" href="/vehicles/crosstrek/index.html" aria-label="Overview Crosstrek">Overview</a>
                                 </li>
                                 <li>
-                                        <a class="photos-videos button" href="/vehicles/crosstrek/gallery.html">Photos &amp; Videos</a>
+                                        <a class="photos-videos button" href="/vehicles/crosstrek/gallery.html" aria-label="Crosstrek Photos &amp; Videos">Photos &amp; Videos</a>
                                     </li>
                                     <li>
-                                        <a class="vme_cta_icon_competitive button" href="/vehicles/crosstrek/compare-vehicles.html" rel=" ">Compare</a>
+                                        <a class="vme_cta_icon_competitive button" href="/vehicles/crosstrek/compare-vehicles.html" rel=" " aria-label="Compare Crosstrek">Compare</a>
                                     </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/2019/CTK.html">Build &amp; Price</a>
+                                    <a class="build-your-own button" aria-label="Build and Price 2019 Crosstrek" href="/build-your-own/2019/CTK.html">Build &amp; Price</a>
                                 </li>
                             </ul>
                         </div>
@@ -641,7 +643,7 @@
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
-                                    <p>Up to</p>
+                                <p>Up to</p>
                                 <span class="mpg-msrp bold">
                                         33/<span class="mpg-city">26&nbsp;MPG</span>
                                     </span>
@@ -653,16 +655,16 @@
                         <div>
                             <ul class="links">
                                 <li>
-                                    <a class="overview button" href="/vehicles/forester/index.html">Overview</a>
+                                    <a class="overview button" href="/vehicles/forester/index.html" aria-label="Overview Forester">Overview</a>
                                 </li>
                                 <li>
-                                        <a class="photos-videos button" href="/vehicles/forester/gallery.html">Photos &amp; Videos</a>
+                                        <a class="photos-videos button" href="/vehicles/forester/gallery.html" aria-label="Forester Photos &amp; Videos">Photos &amp; Videos</a>
                                     </li>
                                     <li>
-                                        <a class="vme_cta_icon_competitive button" href="/vehicles/forester/compare-vehicles.html" rel=" ">Compare</a>
+                                        <a class="vme_cta_icon_competitive button" href="/vehicles/forester/compare-vehicles.html" rel=" " aria-label="Compare Forester">Compare</a>
                                     </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/2019/FOR.html">Build &amp; Price</a>
+                                    <a class="build-your-own button" aria-label="Build and Price 2019 Forester" href="/build-your-own/2019/FOR.html">Build &amp; Price</a>
                                 </li>
                             </ul>
                         </div>
@@ -710,7 +712,7 @@
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
-                                    <p>Up to</p>
+                                <p>Up to</p>
                                 <span class="mpg-msrp bold">
                                         32/<span class="mpg-city">25&nbsp;MPG</span>
                                     </span>
@@ -722,16 +724,16 @@
                         <div>
                             <ul class="links">
                                 <li>
-                                    <a class="overview button" href="/vehicles/outback/index.html">Overview</a>
+                                    <a class="overview button" href="/vehicles/outback/index.html" aria-label="Overview Outback">Overview</a>
                                 </li>
                                 <li>
-                                        <a class="photos-videos button" href="/vehicles/outback/gallery.html">Photos &amp; Videos</a>
+                                        <a class="photos-videos button" href="/vehicles/outback/gallery.html" aria-label="Outback Photos &amp; Videos">Photos &amp; Videos</a>
                                     </li>
                                     <li>
-                                        <a class="vme_cta_icon_competitive button" href="/vehicles/outback/compare-vehicles.html" rel=" ">Compare</a>
+                                        <a class="vme_cta_icon_competitive button" href="/vehicles/outback/compare-vehicles.html" rel=" " aria-label="Compare Outback">Compare</a>
                                     </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/2019/OBK.html">Build &amp; Price</a>
+                                    <a class="build-your-own button" aria-label="Build and Price 2019 Outback" href="/build-your-own/2019/OBK.html">Build &amp; Price</a>
                                 </li>
                             </ul>
                         </div>
@@ -751,7 +753,7 @@
 
     <div class="vehicle-item ASC">
             <div class="vehicle-link">
-                <a class="button asc" href="/vehicles/ascent/index.html" rel="asc~2019">
+                <a class="button asc" href="/vehicles/ascent/index.html" rel="asc~2020">
                     <span class="model-name-price">
                         <span class="left">
                             <span class="model-name bold">Ascent</span>
@@ -769,7 +771,7 @@
                     <div class="header">
                         <div class="row collapse">
                             <div class="small-6 columns">
-                                <h3>2019&nbsp;Ascent</h3>
+                                <h3>2020&nbsp;Ascent</h3>
                                  </div>
                             <div class="small-3 columns price vehicle-info">
                                 <div class="left">
@@ -779,7 +781,7 @@
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
-                                    <p>Up to</p>
+                                <p>Up to</p>
                                 <span class="mpg-msrp bold">
                                         27/<span class="mpg-city">21&nbsp;MPG</span>
                                     </span>
@@ -791,16 +793,16 @@
                         <div>
                             <ul class="links">
                                 <li>
-                                    <a class="overview button" href="/vehicles/ascent/index.html">Overview</a>
+                                    <a class="overview button" href="/vehicles/ascent/index.html" aria-label="Overview Ascent">Overview</a>
                                 </li>
                                 <li>
-                                        <a class="photos-videos button" href="/vehicles/ascent/gallery.html">Photos &amp; Videos</a>
+                                        <a class="photos-videos button" href="/vehicles/ascent/gallery.html" aria-label="Ascent Photos &amp; Videos">Photos &amp; Videos</a>
                                     </li>
                                     <li>
-                                        <a class="vme_cta_icon_competitive button" href="/vehicles/ascent/compare-vehicles.html" rel=" ">Compare</a>
+                                        <a class="vme_cta_icon_competitive button" href="/vehicles/ascent/compare-vehicles.html" rel=" " aria-label="Compare Ascent">Compare</a>
                                     </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/2019/ASC.html">Build &amp; Price</a>
+                                    <a class="build-your-own button" aria-label="Build and Price 2020 Ascent" href="/build-your-own/2020/ASC.html">Build &amp; Price</a>
                                 </li>
                             </ul>
                         </div>
@@ -848,7 +850,7 @@
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
-                                    <p>Up to</p>
+                                <p>Up to</p>
                                 <span class="mpg-msrp bold">
                                         90<sup class="global-disclaimer"></sup><span class="mpg-city"> MPGe</span>
                                     </span>
@@ -859,10 +861,10 @@
                         <div>
                             <ul class="links">
                                 <li>
-                                    <a class="overview button" href="/vehicles/crosstrek/hybrid.html">Overview</a>
+                                    <a class="overview button" href="/vehicles/crosstrek/hybrid.html" aria-label="Overview Crosstrek Hybrid">Overview</a>
                                 </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/2019/CTK.html">Build &amp; Price</a>
+                                    <a class="build-your-own button" aria-label="Build and Price 2019 Crosstrek Hybrid" href="/build-your-own/2019/CTK.html">Build &amp; Price</a>
                                 </li>
                             </ul>
                         </div>
@@ -910,7 +912,7 @@
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
-                                    <p>Up to</p>
+                                <p>Up to</p>
                                 <span class="mpg-msrp bold">
                                         33/<span class="mpg-city">24&nbsp;MPG</span>
                                     </span>
@@ -922,16 +924,16 @@
                         <div>
                             <ul class="links">
                                 <li>
-                                    <a class="overview button" href="/vehicles/brz/index.html">Overview</a>
+                                    <a class="overview button" href="/vehicles/brz/index.html" aria-label="Overview BRZ">Overview</a>
                                 </li>
                                 <li>
-                                        <a class="photos-videos button" href="/vehicles/brz/gallery.html">Photos &amp; Videos</a>
+                                        <a class="photos-videos button" href="/vehicles/brz/gallery.html" aria-label="BRZ Photos &amp; Videos">Photos &amp; Videos</a>
                                     </li>
                                     <li>
-                                        <a class="vme_cta_icon_competitive button" href="/vehicles/brz/compare-vehicles.html" rel=" ">Compare</a>
+                                        <a class="vme_cta_icon_competitive button" href="/vehicles/brz/compare-vehicles.html" rel=" " aria-label="Compare BRZ">Compare</a>
                                     </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/2019/BRZ.html">Build &amp; Price</a>
+                                    <a class="build-your-own button" aria-label="Build and Price 2019 BRZ" href="/build-your-own/2019/BRZ.html">Build &amp; Price</a>
                                 </li>
                             </ul>
                         </div>
@@ -979,7 +981,7 @@
                                 </div>
                             </div>
                             <div class="small-3 columns mpg vehicle-info">
-                                    <p>Up to</p>
+                                <p>Up to</p>
                                 <span class="mpg-msrp bold">
                                         27/<span class="mpg-city">21&nbsp;MPG</span>
                                     </span>
@@ -991,16 +993,16 @@
                         <div>
                             <ul class="links">
                                 <li>
-                                    <a class="overview button" href="/vehicles/wrx/index.html">Overview</a>
+                                    <a class="overview button" href="/vehicles/wrx/index.html" aria-label="Overview WRX">Overview</a>
                                 </li>
                                 <li>
-                                        <a class="photos-videos button" href="/vehicles/wrx/gallery.html">Photos &amp; Videos</a>
+                                        <a class="photos-videos button" href="/vehicles/wrx/gallery.html" aria-label="WRX Photos &amp; Videos">Photos &amp; Videos</a>
                                     </li>
                                     <li>
-                                        <a class="vme_cta_icon_competitive button" href="/vehicles/wrx/compare-vehicles.html" rel=" ">Compare</a>
+                                        <a class="vme_cta_icon_competitive button" href="/vehicles/wrx/compare-vehicles.html" rel=" " aria-label="Compare WRX">Compare</a>
                                     </li>
                                 <li>
-                                    <a class="build-your-own button" href="/build-your-own/2019/WRX.html">Build &amp; Price</a>
+                                    <a class="build-your-own button" aria-label="Build and Price 2019 WRX" href="/build-your-own/2019/WRX.html">Build &amp; Price</a>
                                 </li>
                             </ul>
                         </div>
@@ -1019,7 +1021,7 @@
         </div>
 
     </div><!--close flex container-->
-        <div class="bottom-items">
+    <div class="bottom-items">
         <div class="vehicle-item all-vehicles">
             <div class="vehicle-link">
                 <a href="/vehicles/index.html" rel="" class="button">
@@ -1080,7 +1082,7 @@
                 </a>
             </div>
         </div>
-        </div>
+    </div>
 </div>
     <div id="main-nav-reveal-tools" class="tools">
         <div class="row collapse">
@@ -1115,11 +1117,11 @@
       <h3>BUY</h3>
         <ul>
             <li class="calculator">
-                <a href="/shopping-tools/payment-calculator.html">
+                <a aria-label="Payment Calculator (desktop device)" href="/shopping-tools/payment-calculator.html">
                     Payment Calculator</a>
             </li>
             <li class="trade-in-appraisal">
-                <a href="/shopping-tools/payment-calculator.html?modal=intelliprice">
+                <a aria-label="Trade-In Appraisal (desktop device)" href="/shopping-tools/payment-calculator.html?modal=intelliprice">
                     Trade-In Appraisal</a>
             </li>
             <li class="financing-leasing">
@@ -1127,7 +1129,7 @@
                   Financing / Leasing</a>
             </li>
             <li class="free-equifax-credit-score">
-                <a href="/shopping-tools/payment-calculator.html?modal=estimate_credit_score">
+                <a aria-label="Free Equifax Credit Score (desktop device)" href="/shopping-tools/payment-calculator.html?modal=estimate_credit_score">
                     Free Equifax Credit Score</a>
             </li>
             <li class="extended-service-plans">
@@ -1143,7 +1145,7 @@
 
     <div class="column360 get-local-price">
         <h2 class="txt-bold raqtitle">Get the most precise number on the Subaru you want.</h2>
-        <a href="/shopping-tools/request-a-quote.html" class="raq-button find">Get a Local Price</a>  
+        <a href="/shopping-tools/request-a-quote.html" class="raq-button find">Get a Local Price</a>
     </div>
   </div>
 </div></div>
@@ -1155,7 +1157,7 @@
               <h2 class="title">What Makes a Subaru</h2>
                 <ul class="nav-list">
                     <li class="list-item">
-                        <a href="/why-subaru/reviews-awards/subaru.html">Reviews &amp; Awards</a>
+                        <a aria-label="Reviews &amp; Awards page" href="/why-subaru/reviews-awards/subaru.html">Reviews &amp; Awards</a>
                     </li>
                     <li class="list-item">
                         <a href="/safety">Commitment to Safety</a>
@@ -1164,7 +1166,7 @@
                         <a href="/engineering/design.html">Engineering &amp; Technology</a>
                     </li>
                     <li class="list-item">
-                        <a href="/engineering/starlink.html">SUBARU STARLINK™<br> In-Vehicle Technology</a>
+                        <a href="/engineering/starlink.html" aria-label="SUBARU STARLINK™ In-Vehicle Technology">SUBARU STARLINK™<br> In-Vehicle Technology</a>
                     </li>
                     <li class="list-item">
                         <a href="/engineering/eyesight.html">EyeSight<sup><sub>®</sub></sup> Driver Assist Technology</a>
@@ -1264,15 +1266,15 @@
     <nav>
         <ul>
             <li>
-                <a href="/content/subaru/en/company.html" class=""><span>Overview</span></a>
+                <a href="/content/subaru/en/about-subaru/our-company.html" class=""><span>Overview</span></a>
             </li>
             <li>
                 <a href="/why-subaru/partnerships.html" class=""><span>Partnerships</span></a>
             </li>
             <li>
-                <a href="/content/subaru/en/company/news/index.html" class=""><span>News</span></a>
+                <a href="/content/subaru/en/about-subaru/news.html" class=""><span>News</span></a>
             </li><li>
-                <a href="/content/subaru/en/company/careers.html" class=""><span>Careers</span></a>
+                <a href="/content/subaru/en/about-subaru/careers.html" class=""><span>Careers</span></a>
             </li>
         </ul>
     </nav>
@@ -1362,36 +1364,27 @@
     </div>
     <div class="column small-2">
         <div class="footer-subnav">
-            <div class="col3 footer-subnav parbase"><h3>Company</h3>
+            <div class="col3 footer-subnav parbase"><h3>About Subaru</h3>
 <ul>
-    <li><a href="/company/index.html" target="_parent">About Subaru</a></li><li><a href="/company/careers/index.html" target="_parent">Careers</a></li><li><a href="/why-subaru/partnerships.html" target="_parent">Partnerships</a></li><li><a href="/company/news/index.html" target="_parent">News</a></li><li><a href="/camden.html" target="_parent">New Camden Home</a></li><li><a href="/company/50years" target="_parent">50th Anniversary</a></li></ul>
+    <li><a href="/about-subaru/our-company" target="_parent">Our Company</a></li><li><a href="/love-promise" target="_parent">Love Promise</a></li><li><a href="/about-subaru/subaru-foundation" target="_parent">Subaru of America Foundation</a></li><li><a href="/why-subaru/partnerships.html" target="_parent">Partnerships</a></li><li><a href="/about-subaru/diversity-inclusion" target="_parent">Diversity, Equity, and Inclusion</a></li><li><a href="/about-subaru/news" target="_parent">News</a></li><li><a href="/about-subaru/careers" target="_parent">Join Our Team</a></li></ul>
 
 </div>
 </div>
     </div>
     <div class="column small-2">
         <div class="footer-subnav">
-            <div class="col4 footer-subnav parbase"><h3>Responsibility</h3>
-<ul>
-    <li><a href="/csr/corporate-social-responsibility.html" target="_parent">Corporate Responsibility</a></li><li><a href="/csr/our-subaru-family.html" target="_parent">Our Subaru Family</a></li><li><a href="/csr/community.html" target="_parent">Community</a></li><li><a href="/csr/diversity.html" target="_parent">Diversity</a></li><li><a href="/csr/soa-foundation.html" target="_parent">SOA Foundation</a></li><li><a href="/csr/environment-sustainability.html" target="_parent">Environment</a></li><li><a href="/love-promise.html" target="_parent">Love Promise</a></li></ul>
-
-</div>
-</div>
-    </div>
-    <div class="column small-2">
-        <div class="footer-subnav">
-            <div class="col5 footer-subnav parbase"><h3>Owners</h3>
+            <div class="col4 footer-subnav parbase"><h3>Owners</h3>
 <ul>
     <li><a href="http://www.mysubaru.com/" target="_blank">MySubaru</a></li><li><a href="/owners/index.html" target="_parent">Resource Center</a></li><li><a href="/owners/ownership-benefits.html" target="_parent">Benefits of Ownership</a></li><li><a href="/service-parts-accessories/index.html" target="_parent">Service, Parts &amp; Accessories</a></li><li><a href="/guaranteed-trade-in-program/index.html" target="_parent">Guaranteed Trade-In Program</a></li><li><a href="/vehicle-recalls.html" target="_parent">Vehicle Recalls</a></li><li><a href="/owners/certifiedcollision.html" target="_parent">Subaru Certified Collision</a></li></ul>
 
 </div>
 </div>
     </div>
-    <div class="column small-2 last-footer-sub-nav">
+    <div class="column small-2">
         <div class="footer-subnav">
-                <div class="col6 footer-subnav parbase"><h3>Other Sites</h3>
+            <div class="col5 footer-subnav parbase"><h3>Other Sites</h3>
 <ul>
-    <li><a href="https://www.chase.com/business-banking/dealer-services/subaru-motors-finance" target="_blank">Subaru Motors Finance</a></li><li><a href="http://www.subaru-global.com/home.html" target="_blank">Subaru Global</a></li><li><a href="http://subarupower.com/" target="_blank">Subaru Power Products</a></li><li><a href="http://techinfo.subaru.com/index.html" target="_blank">STIS</a></li><li><a href="/service-parts-accessories/auto/parts-accessories/index.html" target="_parent">Order Subaru Parts</a></li><li><a href="/fleet/index.html" target="_parent">Subaru Fleet</a></li></ul>
+    <li><a href="https://www.chase.com/business-banking/dealer-services/subaru-motors-finance" target="_blank">Subaru Motors Finance</a></li><li><a href="http://www.subaru-global.com/home.html" target="_blank">Subaru Global</a></li><li><a href="http://techinfo.subaru.com/index.html" target="_blank">STIS</a></li><li><a href="/service-parts-accessories/auto/parts-accessories/index.html" target="_parent">Order Subaru Parts</a></li><li><a href="/fleet/index.html" target="_parent">Subaru Fleet</a></li></ul>
 
 </div>
 </div>
@@ -1410,27 +1403,27 @@
                 <div class="footer-nav-social-links">
                     <div class="global_image global-image image parbase"><div class="" style="">
     <a target="_blank" href="https://www.facebook.com/subaruofamerica">
-        <img title="facebook" alt="Facebook icon" class="" src="/content/dam/subaru/global/body/author/fb.jpg">
+        <img title="facebook" alt="Follow Subaru of America on Facebook" class="" src="/content/dam/subaru/global/body/author/facebook-icon.png">
     </a>
     </div></div>
 <div class="global_image_0 global-image image parbase"><div class="" style="">
     <a target="_blank" href="https://twitter.com/subaru_usa">
-        <img title="Twitter" alt="" class="" src="/content/dam/subaru/global/body/author/twitter.jpg">
+        <img title="Twitter" alt="Follow Subaru of America on Twitter" class="" src="/content/dam/subaru/global/body/author/twitter-icon.png">
     </a>
     </div></div>
 <div class="global_image_1 global-image image parbase"><div class="" style="">
     <a target="_blank" href="http://www.youtube.com/user/Subaru">
-        <img title="YouTube" alt="" class="" src="/content/dam/subaru/global/body/author/youtube.jpg">
+        <img title="YouTube" alt="Subscribe to Subaru of America on YouTube" class="" src="/content/dam/subaru/global/body/author/youtube-icon.png">
     </a>
     </div></div>
 <div class="global_image_2 global-image image parbase"><div class="" style="">
     <a target="_blank" href="http://www.pinterest.com/subaru/">
-        <img title="Pinterest" alt="" class="" src="/content/dam/subaru/global/body/author/pinterest.jpg">
+        <img title="Pinterest" alt="Follow Subaru of America on Pinterest" class="" src="/content/dam/subaru/global/body/author/pinterest-icon.png">
     </a>
     </div></div>
 <div class="global_image_3 global-image image parbase"><div class="" style="">
     <a target="_blank" href="http://instagram.com/subaru_usa#">
-        <img title="Instagram" alt="" class="" src="/content/dam/subaru/global/body/author/instagram.jpg">
+        <img title="Instagram" alt="Follow Subaru of America on Instagram" class="" src="/content/dam/subaru/global/body/author/instagram-icon.png">
     </a>
     </div></div>
 </div>
@@ -1595,21 +1588,17 @@ Subaru of America, Inc. reserves the right to make changes at any time without n
 
 <div class="map_zip_search" data-role="none">
 	<div class="map_search_input">
-
 		<form id="map_zip_search_form">
-			<div class="search_switch">
+			<fieldset role="group" class="search_switch">
 				<label class="toggle-selected" for="search_type_toggle">Zip / City</label>
 				<div class="onoffswitch">
-					<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="search_type_toggle" disabled="disabled">
-					<label class="onoffswitch-label" for="search_type_toggle"></label>
+					<input aria-label="Retailer" type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="search_type_toggle" disabled="disabled">
+					<label class="onoffswitch-label" for="search_type_toggle"><span class="visually-hidden-label">Selector for Zip code search or Retailer Search</span></label>
 				</div>
 				<label for="search_type_toggle">Retailer</label>
-			</div>
-
+			</fieldset>
 			<button class="submit_map_zip" name="site" title="Go" type="submit" disabled="disabled"></button>
-			<input name="zipcode" id="map_search_zip" class="map_zip" type="text" maxlength="50" placeholder="Enter ZIP" autocomplete="off" disabled="disabled">
-
-
+			<input name="zipcode" id="map_search_zip" class="map_zip" aria-labelledby="map_zip_search_form" title="Will submit automatically with enter key press" type="text" maxlength="50" placeholder="Enter ZIP" autocomplete="off" disabled="disabled">
 			<div class="map_zip_errors">
 				<div class="map_retailer_error">
 					<p class="bold">Retailer not found.</p>
@@ -1783,8 +1772,7 @@ Subaru of America, Inc. reserves the right to make changes at any time without n
     </div>
 </div>
 
-	<script type="text/javascript" src="/etc/designs/subaru/js/soa-utils.min.js"></script>
-<script type="text/javascript" src="/etc/designs/subaru/emergency_alert/js/clientlib.min.js"></script>
+	<script type="text/javascript" src="/etc/designs/subaru/emergency_alert/js/clientlib.min.js"></script>
 
 
 </div>
@@ -1805,7 +1793,7 @@ Subaru of America, Inc. reserves the right to make changes at any time without n
 <div class="raq-quotey-content">
     <div class="raq-quotey-box">
         <span class="raq-quotey-close-icon"></span>
-        <h2 class="raq-quotey-title"></h2>
+        <h2 aria-hidden="true" class="raq-quotey-title"></h2>
         <div class="raq-quotey-options">
             <span class="raq-quotey-close"></span>
             <span class="raq-quotey-open"></span>
