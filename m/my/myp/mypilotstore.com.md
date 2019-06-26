@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypilotstore.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218223910id_/http%3A//www.mypilotstore.com/MyPilotStore/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypilotstore.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626041829id_/http%3A//www.mypilotstore.com/mypilotstore/Privacy) for the most accurate reproduction.*
 
 # Privacy and Security at MyPilotStore.com
 
@@ -24,7 +24,7 @@ The information we collect is used to improve the content of our Web page, used 
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address, or visiting [www.mypilotstore.com/remove](https://web.archive.org/web/20181218223910id_/http%3A//www.mypilotstore.com/remove).
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address, or visiting [www.mypilotstore.com/remove](https://web.archive.org/web/20190626041829id_/http%3A//www.mypilotstore.com/remove).
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above or writing to us at the above address. Please provide us with your exact name and address.
 
