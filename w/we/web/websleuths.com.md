@@ -1,31 +1,68 @@
-> *The following text is extracted and transformed from the websleuths.com privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118155001id_/https%3A//www.websleuths.com/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websleuths.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626175145id_/https%3A//www.websleuths.com/forums/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Websleuths
 
-**Websleuths Privacy Policy Statement**
+We are Websleuths ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20190626175145id_/https%3A//www.websleuths.com/forums/help/misc/contact).
 
-Our postal address is:   
-6300 North Sage Wood Drive Suite H 214 Park City, Utah 84098
+## What information we hold about you
 
-We can be reached via e-mail at websleuthscomments@gmail.com  
+The type of data that we collect and process includes:
+
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
 
 
-For each visitor to Websleuths, our web server automatically recognizes only the consumer's IP but not the e-mail address (where possible).
 
-We collect the e-mail addresses of those who post messages to our bulletin board, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of Websleuths, used to notify consumers about updates to Websleuths, not shared with other organizations for commercial purposes.
+We collect some or all of this information in the following cases:
 
-If served with a proper subpoena from a law enforcement agency Websleuths will cooperate and turn over any information named in the subpoena
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
-**Cookies:**   
-We use cookies to store visitors preferences, record past activity at a site in order to provide better service when visitors return to Websleuths.
 
-If you do not want to receive e-mail from us in the future, please let us know at the email address listed above.
+## How your personal information is used
 
-**Ad Servers:**   
-We use third party advertisements on Websleuths to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google, Amazon, Springserve or others) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We may use your personal information in the following ways:
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
+
+
+
+## Other ways we may use your personal information.
+
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
+
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
+
+## Keeping your data secure
+
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
+
+## Cookie policy
+
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
+
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20190626175145id_/https%3A//www.websleuths.com/forums/help/help/cookies).
+
+## Rights
+
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20190626175145id_/https%3A//www.websleuths.com/forums/help/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20190626175145id_/https%3A//www.websleuths.com/forums/help/misc/contact) to ask us to complete or correct that information.
+
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20190626175145id_/https%3A//www.websleuths.com/forums/help/misc/contact) if you would like us to remove your personal data.
+
+## Acceptance of this policy
+
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
+
+## Changes to this policy
+
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
+
+[ ](https://www.websleuths.com/forums)
