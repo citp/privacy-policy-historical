@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the wrex.com privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226182756id_/https%3A//wrex.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wrex.com privacy policy that was archived on 2019-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190626125527id_/https%3A//wrex.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-    <meta charset="utf-8">
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7J729R"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy - WREX</title>
     
 <!-- Google Tag Manager for WordPress by gtm4wp.com -->
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7J729R"></script><script data-cfasync="false" type="text/javascript">//<![CDATA[
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
 	var gtm4wp_datalayer_name = "dataLayer";
 	var dataLayer = dataLayer || [];
 //]]>
@@ -54,7 +54,8 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="cordillera-ads-styles-css" href="https://wrex.com/wp-content/plugins/cordillera-ads/assets/css/ads.css?ver=4.9.8" type="text/css" media="all">
 <link rel="stylesheet" id="cordillera-intra-articles-css" href="https://wrex.com/wp-content/plugins/cordillera-intra-article-nav/assets/css/intra-articles.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="wp-polls-css" href="https://wrex.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.8" type="text/css" media="all">
+<link rel="stylesheet" id="cordillera-video-embed-css" href="https://wrex.com/wp-content/plugins/cordillera-post-modification/assets/css/video-embed.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="wp-polls-css" href="https://wrex.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.2" type="text/css" media="all">
 <style id="wp-polls-inline-css" type="text/css">
 .wp-polls .pollbar {
 	margin: 1px;
@@ -98,7 +99,7 @@ img.emoji {
 <script type="text/javascript" src="https://wrex.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.9"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _EPYT_ = {"ajaxurl":"https:\/\/wrex.com\/wp-admin\/admin-ajax.php","security":"ea21a076dc","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/wrex.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"12.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+var _EPYT_ = {"ajaxurl":"https:\/\/wrex.com\/wp-admin\/admin-ajax.php","security":"f55c33c821","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/wrex.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"12.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://wrex.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=12.2"></script>
@@ -217,20 +218,6 @@ build();        googletag.cmd.push(function() {
         });
         
 
-        var mapping6 = googletag.sizeMapping().
-        addSize([1024,0],[]). //desktop 
-addSize([0,0],[1, 1]). //mobile 
-build();        googletag.cmd.push(function() {
-                    googletag.defineSlot('/21720672171/wrex/wrex.com/outofpage/interstitial', [1,1], 'div-gpt-ad-6')
-            .defineSizeMapping(mapping6)
-        .setTargeting("wp_unit", "Interstitial")
-        .setCollapseEmptyDiv(true)
-        .addService(googletag.pubads());
-        googletag.pubads().enableSingleRequest();
-        googletag.enableServices();
-        });
-        
-
 googletag.pubads().setTargeting("wp_category", ["news"]);
 
             googletag.pubads().enableSingleRequest();
@@ -281,7 +268,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#ffffff">
                     Rockford                </div>
                                     <div class="station-temperature" style="color:#ffffff">
-                        29°
+                        67°
                     </div>
                             </div>
                     <div class="station" data-slide-number="1" data-station-id="KFEP">
@@ -291,7 +278,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#ffffff">
                     Freeport                </div>
                                     <div class="station-temperature" style="color:#ffffff">
-                        28°
+                        66°
                     </div>
                             </div>
                     <div class="station" data-slide-number="2" data-station-id="KDKB">
@@ -301,7 +288,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#ffffff">
                     DeKalb                </div>
                                     <div class="station-temperature" style="color:#ffffff">
-                        30°
+                        67°
                     </div>
                             </div>
                     <div class="station" data-slide-number="3" data-station-id="KRPJ">
@@ -311,7 +298,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#ffffff">
                     Rochelle                </div>
                                     <div class="station-temperature" style="color:#ffffff">
-                        31°
+                        65°
                     </div>
                             </div>
                     <div class="station" data-slide-number="4" data-station-id="KSQI">
@@ -321,7 +308,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#ffffff">
                     Sterling                </div>
                                     <div class="station-temperature" style="color:#ffffff">
-                        32°
+                        67°
                     </div>
                             </div>
                     <div class="station" data-slide-number="5" data-station-id="KJVL">
@@ -331,17 +318,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#ffffff">
                     Janesville                </div>
                                     <div class="station-temperature" style="color:#ffffff">
-                        30°
+                        68°
                     </div>
                             </div>
                     <div class="station" data-slide-number="6" data-station-id="KEFT">
                 <div class="station-condition">
-                    <i class="wi wi-night-clear" data-condition="Clear" data-condition-abbrv="skc" style="color:#eeee22"></i>
+                    <i class="wi wi-rain" data-condition="Light Drizzle" data-condition-abbrv="rain" style="color:#eeee22"></i>
                 </div>
                 <div class="station-title" style="color:#ffffff">
                     Monroe                </div>
                                     <div class="station-temperature" style="color:#ffffff">
-                        30°
+                        68°
                     </div>
                             </div>
             </div>
@@ -356,19 +343,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-13-news-team menu-item-5916"><a href="https://wrex.com/meet-the-news-team/"><span>13 News Team</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-13-investigates menu-item-2197"><a href="https://wrex.com/news/13-investigates/"><span>13 Investigates</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-crime menu-item-3433"><a href="https://wrex.com/crime/"><span>Crime</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-out-of-the-darkness menu-item-37378"><a href="https://wrex.com/news/out-of-the-darkness/"><span>Out of the Darkness</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-inspiring-815 menu-item-2223"><a href="https://wrex.com/news/inspiring-815/"><span>Inspiring 815</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-teacher-of-the-week menu-item-27614"><a href="https://wrex.com/teacher-of-the-week-2/"><span>Teacher of the Week</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-positive-local-news menu-item-2224"><a href="https://wrex.com/news/positive-local-news/"><span>Positive Local News</span></a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-illinois-news menu-item-6948"><a href="https://wrex.com/category/category/news/illinois-news-from-the-associated-press/"><span>Illinois News</span></a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-wisconsin-news menu-item-6951"><a href="https://wrex.com/category/category/news/wisconsin-news-from-the-associated-press/"><span>Wisconsin News</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-teacher-of-the-week menu-item-27614"><a href="https://wrex.com/teacher-of-the-week-2/"><span>Teacher of the Week</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-illinois-news menu-item-76321"><a href="https://wrex.com/illinois-news/"><span>Illinois News</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-wisconsin-news menu-item-76320"><a href="https://wrex.com/wisconsin-news/"><span>Wisconsin News</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-weather menu-item-576"><a href="https://wrex.com/weather/"><span>Weather</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-13-weather-team menu-item-6106"><a href="https://wrex.com/13-weather-authority-team/"><span>13 Weather Team</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-interactive-radar menu-item-1384"><a href="https://wrex.com/weather/interactive-radar/"><span>Interactive Radar</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-closings-and-delays menu-item-1332"><a href="https://wrex.com/weather/closings-and-delays/"><span>Closings and Delays</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-closings-and-delays menu-item-1332"><a href="https://wrex.com/closings/"><span>Closings and Delays</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-closing-submissions menu-item-43337"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=wrex_,8,O9iuQ"><span>Closing Submissions</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-submit-non-school-closings menu-item-43376"><a href="https://wrex.com/submit-non-school-closings/"><span>Submit non-school closings</span></a></li>
 </ul>
@@ -377,8 +363,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-athlete-of-the-week menu-item-27651"><a href="https://wrex.com/sports/athlete-of-the-week/"><span>Athlete of the Week</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-13-sports-authority-team menu-item-6107"><a href="https://wrex.com/13-sports-authority-team/"><span>13 Sports Authority Team</span></a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-illinois-sports menu-item-6949"><a href="https://wrex.com/category/category/sport/illinois-sports-from-the-associated-press/"><span>Illinois Sports</span></a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-wisconsin-sports menu-item-6950"><a href="https://wrex.com/category/category/sport/wisconsin-sports-from-the-associated-press/"><span>Wisconsin Sports</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-illinois-sports menu-item-76319"><a href="https://wrex.com/illinois-sports/"><span>Illinois Sports</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-wisconsin-sports menu-item-76317"><a href="https://wrex.com/wisconsin-sports/"><span>Wisconsin Sports</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-things-to-do menu-item-575"><a href="https://wrex.com/things-to-do/"><span>Things to Do</span></a>
@@ -390,6 +376,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-watch menu-item-1181"><a href="https://wrex.com/watch/"><span>Watch</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-tv-listings menu-item-100009"><a href="https://wrex.com/watch/"><span>TV Listings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-wrex-live-stream menu-item-1767"><a href="https://wrex.com/news/wrex-live-stream/"><span>WREX Live Stream</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-mr-food-recipes menu-item-2987"><a href="https://mrfood.com"><span>Mr. Food Recipes</span></a></li>
 </ul>
@@ -399,7 +386,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-sign-up-for-email-alerts menu-item-45110"><a href="https://wrex.com/sign-up-for-wrex-news-and-weather-emails/"><span>Sign up for Email Alerts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-advertise-with-wrex menu-item-675"><a href="https://wrex.com/contact-us/advertise-with-wrex/"><span>Advertise with WREX</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-advertiser-services menu-item-676"><a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp"><span>Advertiser Services</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-quincify-digital-marketing menu-item-677"><a href="https://www.quincify.com"><span>Quincify Digital Marketing</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-careers-at-wrex menu-item-672"><a href="https://wrex.com/contact-us/wrex-careers/"><span>Careers at WREX</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-quincy-media-careers menu-item-678"><a href="https://www.quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
@@ -560,7 +546,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#212121">
                     Rockford                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        29°
+                        67°
                     </div>
                             </div>
                     <div class="station" data-slide-number="1" data-station-id="KFEP">
@@ -570,7 +556,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#212121">
                     Freeport                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        28°
+                        66°
                     </div>
                             </div>
                     <div class="station" data-slide-number="2" data-station-id="KDKB">
@@ -580,7 +566,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#212121">
                     DeKalb                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        30°
+                        67°
                     </div>
                             </div>
                     <div class="station" data-slide-number="3" data-station-id="KRPJ">
@@ -590,7 +576,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#212121">
                     Rochelle                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        31°
+                        65°
                     </div>
                             </div>
                     <div class="station" data-slide-number="4" data-station-id="KSQI">
@@ -600,7 +586,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#212121">
                     Sterling                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        32°
+                        67°
                     </div>
                             </div>
                     <div class="station" data-slide-number="5" data-station-id="KJVL">
@@ -610,17 +596,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#212121">
                     Janesville                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        30°
+                        68°
                     </div>
                             </div>
                     <div class="station" data-slide-number="6" data-station-id="KEFT">
                 <div class="station-condition">
-                    <i class="wi wi-night-clear" data-condition="Clear" data-condition-abbrv="skc" style="color:#0A246A"></i>
+                    <i class="wi wi-rain" data-condition="Light Drizzle" data-condition-abbrv="rain" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Monroe                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        30°
+                        68°
                     </div>
                             </div>
             </div>
@@ -665,7 +651,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             googletag.display('div-gpt-ad-1');
           });
         </script>
-        <section id="pojo_recent_posts-10" class="widget widget_pojo_recent_posts"><div class="widget-inner"><h5 class="widget-title"><span>Top Stories</span></h5><div class="list-items"><div class="recent-post media list-item post-3241 post type-post status-publish format-image has-post-thumbnail hentry category-top-stories post_format-post-format-image ">
+        <section id="pojo_recent_posts-10" class="widget widget_pojo_recent_posts"><div class="widget-inner"><h5 class="widget-title"><span>Top Stories</span></h5><div class="list-items"><div class="recent-post media list-item post-35163 post type-post status-publish format-image has-post-thumbnail hentry category-top-stories post_format-post-format-image ">
+		<div class="media-body">
+					<h3 class="media-heading entry-title"><a href="https://wrex.com/category/2018/09/14/fire-at/">Update: No injuries reported after fire at Crop Production Services near Dixon</a></h3>
+				<div class="entry-meta">
+														</div>
+					<div class="entry-excerpt">
+				<p>13 WREX has learned that there has been a fire at Crop Production Services (CPS) in Dixon early this morning.</p>
+			</div>
+					</div>
+</div><div class="recent-post media list-item post-40396 post type-post status-publish format-image has-post-thumbnail hentry category-top-stories post_format-post-format-image ">
+		<div class="media-body">
+					<h3 class="media-heading entry-title"><a href="https://wrex.com/category/2018/09/27/winnebago-county-board-approves-2019-budget/">Winnebago County board approves 2019 budget after weeks of debate about sheriff’s budget</a></h3>
+				<div class="entry-meta">
+														</div>
+					<div class="entry-excerpt">
+				<p>The Winnebago County Board approves a 2019 budget after weeks of debate on how to close a $4 million budget</p>
+			</div>
+					</div>
+</div><div class="recent-post media list-item post-40516 post type-post status-publish format-image has-post-thumbnail hentry category-news category-top-stories post_format-post-format-image ">
+		<div class="media-body">
+					<h3 class="media-heading entry-title"><a href="https://wrex.com/category/2018/09/28/officials-on-scene-of-a-serious-wreck-in-rockford/">Officials on scene of a serious wreck in Rockford</a></h3>
+				<div class="entry-meta">
+														</div>
+					<div class="entry-excerpt">
+				<p>Serious car crash in downtown Rockford.</p>
+			</div>
+					</div>
+</div><div class="recent-post media list-item post-3241 post type-post status-publish format-image has-post-thumbnail hentry category-top-stories post_format-post-format-image ">
 		<div class="media-body">
 					<h3 class="media-heading entry-title"><a href="https://wrex.com/category/2018/07/18/rain-returns-for-the-end-of-the-week/">Rain returns for the end of the week</a></h3>
 				<div class="entry-meta">
@@ -681,33 +694,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 														</div>
 					<div class="entry-excerpt">
 				<p></p><p>Not only is the 2019 budget in the red, but the county says it looks like 2018 will end with</p>
-			</div>
-					</div>
-</div><div class="recent-post media list-item post-8271 post type-post status-publish format-image has-post-thumbnail hentry category-top-stories post_format-post-format-image ">
-		<div class="media-body">
-					<h3 class="media-heading entry-title"><a href="https://wrex.com/category/2018/08/13/winnebago-school-district-negotiations-still-ongoing-strike-on-the-table-2/">Winnebago School District negotiations still ongoing, strike on the table</a></h3>
-				<div class="entry-meta">
-														</div>
-					<div class="entry-excerpt">
-				<p>Will they strike? That's the big question tonight about Winnebago teachers.&nbsp;</p>
-			</div>
-					</div>
-</div><div class="recent-post media list-item post-27721 post type-post status-publish format-image has-post-thumbnail hentry category-top-stories post_format-post-format-image ">
-		<div class="media-body">
-					<h3 class="media-heading entry-title"><a href="https://wrex.com/category/2018/08/30/jury-man-guilty-of-killing-machesney-park-teen/">Jury: Man guilty of killing Machesney Park teen</a></h3>
-				<div class="entry-meta">
-														</div>
-					<div class="entry-excerpt">
-				<p>Michael Mernack, 37, killed Rebecaa Finkenhofer, 16, at her Minns home on Dec. 28, 2016.</p>
-			</div>
-					</div>
-</div><div class="recent-post media list-item post-30408 post type-post status-publish format-image has-post-thumbnail hentry category-top-stories post_format-post-format-image ">
-		<div class="media-body">
-					<h3 class="media-heading entry-title"><a href="https://wrex.com/category/2018/09/05/rockford-police-respond-to-serious-crash-in-front-of-eisenhower-m-s/">1 person killed in serious crash in front of Eisenhower M.S.</a></h3>
-				<div class="entry-meta">
-														</div>
-					<div class="entry-excerpt">
-				<p>The Rockford Police Department is on the scene of a serious three car crash in front of Eisenhower Middle School.</p>
 			</div>
 					</div>
 </div></div></div></section>        <div id="div-gpt-ad-2" class="div-gpt-ad div-gpt-widget"></div>
@@ -729,7 +715,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 10322 Auburn Road, Rockford, IL 61103<br>
 Switchboard:<br> 815-335-2213<br>
 or <a href="mailto:news@wrex.com">news@wrex.com</a></p></div></div></div></section><section id="custom_html-3" class="widget_text widget widget_custom_html col-sm-4"><div class="widget_text widget-inner"><div class="textwidget custom-html-widget"><a href="/wrex-careers">Careers</a>&nbsp;&nbsp;<a href="/advertise-with-wrex">Advertise with us</a>&nbsp;&nbsp;<a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp">Advertiser Services</a><br>
-<a href="https://publicfiles.fcc.gov/tv-profile/wrex">FCC Public File</a> &nbsp;&nbsp;<a href="https://publicfiles.fcc.gov/api/manager/download/8a2e765c-2fa3-b844-22c3-3746acdd449c/b2f531f0-2d85-47bb-8cda-5320b5c47327.pdf">EEO Report</a><br> <a href="/closed-captioning">Closed Captioning Contact</a></div></div></section><section id="elementor-library-2" class="widget widget_elementor-library col-sm-4"><div class="widget-inner">		<div class="elementor elementor-1351">
+<a href="https://publicfiles.fcc.gov/tv-profile/wrex">FCC Public File</a> &nbsp;&nbsp;<a href="https://publicfiles.fcc.gov/api/manager/download/8a2e765c-2fa3-b844-22c3-3746acdd449c/b2f531f0-2d85-47bb-8cda-5320b5c47327.pdf">EEO Report</a> &nbsp;<a href="https://wrex.com/category/2019/05/24/public-file-help/">Public File Help</a> &nbsp;&nbsp; <br> <a href="/closed-captioning">Closed Captioning Contact</a></div></div></section><section id="elementor-library-2" class="widget widget_elementor-library col-sm-4"><div class="widget-inner">		<div class="elementor elementor-1351">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
 							<div data-id="1351" class="elementor-element elementor-element-1351 elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-element_type="social-icons.default">
@@ -770,7 +756,7 @@ or <a href="mailto:news@wrex.com">news@wrex.com</a></p></div></div></div></secti
 			<div class="container">
 				<div class="content-copyright">
 					<div class="pull-left-copyright">
-						All content © Copyright 2000 - 2018 WREX Television. All Rights Reserved. For more information on this site, please read our <a href="/privacy-policy">Privacy Policy</a>, <a href="/terms-of-service">Terms of Service</a>, and <a href="http://www.aboutads.info/choices">Ad Choices</a>.					</div>
+						All content © Copyright 2000 - 2019 WREX Television. All Rights Reserved. For more information on this site, please read our <a href="/privacy-policy">Privacy Policy</a>, <a href="/terms-of-service">Terms of Service</a>, and <a href="http://www.aboutads.info/choices">Ad Choices</a>.					</div>
 					<div class="pull-right-copyright">
 											</div>
 				</div>
@@ -842,10 +828,10 @@ or <a href="mailto:news@wrex.com">news@wrex.com</a></p></div></div></div></secti
 				</div>
 			</div>
 		</div>
-		<link rel="stylesheet" id="elementor-post-1351-css" href="https://wrex.com/wp-content/uploads/sites/12/elementor/css/post-1351.css?ver=1544558881" type="text/css" media="all">
+		<link rel="stylesheet" id="elementor-post-1351-css" href="https://wrex.com/wp-content/uploads/sites/12/elementor/css/post-1351.css?ver=1559327353" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
-var breakingNews = {"siteURL":"https:\/\/wrex.com","breakingNewsTitle":"BREAKING NEWS","breakingWeatherTitle":"Weather Alert","breakingNewsBg":"#b22929","breakingWeatherBg":"#f4cc00"};
+var breakingNews = {"siteURL":"https:\/\/wrex.com","breakingNewsTitle":"BREAKING NEWS","breakingWeatherTitle":"Weather Alert","breakingNewsBg":"#b22929","breakingWeatherBg":"#ffad01"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://wrex.com/wp-content/plugins/cordillera-breaking-news/dist/build.js?ver=1.1.1"></script>
@@ -860,13 +846,7 @@ var watchLive = {"url":"https:\/\/wrex.com\/wp-json\/watch-live\/v1\/get"};
 var pollsL10n = {"ajax_url":"https:\/\/wrex.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://wrex.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.8"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var distributorCustomizations = {"title_text":"Click to refresh page and enable Distributor."};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://wrex.com/wp-content/plugins/cordillera-distributor-customizations/assets/js/cordillera-distributor-customizations.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://wrex.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.2"></script>
 <script type="text/javascript" src="https://wrex.com/wp-content/plugins/pojo-forms/assets/js/app.min.js?ver=4.9.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -896,7 +876,7 @@ var PojoLightboxOptions = {"script_type":"photoswipe","smartphone":"","woocommer
 <script type="text/javascript" src="https://wrex.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.1.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/wrex.com\/wp-admin\/admin-ajax.php","nonce":"f3df1580d6","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/wrex.com\/wp-admin\/admin-ajax.php","nonce":"cf9a929da0","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://wrex.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.1.2"></script>
@@ -974,5 +954,5 @@ var elementorFrontendConfig = {"isEditMode":"","is_rtl":"","breakpoints":{"xs":0
 									</div>
 			</div>
 		</nav>
-		
+		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"277133278b","applicationID":"95576464","transactionName":"Yl0BZUMHVxYFAEcIV1sXIlJFD1YLSwpdBV1N","queueTime":0,"applicationTime":749,"atts":"ThoCEwsdRBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
