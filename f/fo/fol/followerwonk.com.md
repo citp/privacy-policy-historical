@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followerwonk.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121000727id_/https%3A//followerwonk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followerwonk.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626195214id_/https%3A//followerwonk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
