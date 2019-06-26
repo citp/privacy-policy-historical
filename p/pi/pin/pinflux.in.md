@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinflux.in privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226191701id_/http%3A//pinflux.in/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinflux.in privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626052519id_/https%3A//pinflux.in/home/privacy) for the most accurate reproduction.*
 
 # Privacy
 
