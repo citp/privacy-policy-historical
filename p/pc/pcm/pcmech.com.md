@@ -1,33 +1,75 @@
-> *The following text is extracted and transformed from the pcmech.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002234311id_/https%3A//www.pcmech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcmech.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626223510id_/https%3A//www.techjunkie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PCMech
+# Privacy Policy
 
-PCMech, a World Wide Web site owned and operated by Mechler Enterprises, LLC, recognizes its readers rights to privacy. To keep you informed of our privacy policies, we have provided this document disclosing Mechler Enterprises’ intent, purpose and use of possibly private information, and detailing the methods of gathering of such information.
+Last updated: September 10, 2018
 
-Visitors to PCMech are not subject to involuntary information disclosure of any kind, other than those intrinsic to the operation of the site and the World Wide Web in general. Certain operations and features on PCMech may require the use of cookies and/or the propagation of session information. These cookies and sessions facilitate the visitor’s experience at PCMech, but do not represent any other security or privacy concern outside of isolated, per visit session identification and/or recurring sessions for the purpose of storing and maintaining user submitted site preferences.
+Tech Junkie (“us”, “we”, or “our”) operates the Tech Junkie website (the “Service”).
 
-Mechler Enterprises, LLC does not collect private information from its users without their knowledge. Generally, users who come to PCMech are not required to disclose personal or private information. However, some special services such as forums and member content may require registration in order to allow full access to features. Further, PCMech encourages users to provide cursory private and/or personal information to build the community aspect of the site, and to obtain basic group demographics data for statistical analysis. Mechler Enterprises, LLC does NOT sell, lease or rent to third parties, any private information linkable to a particular user and gathered through the registration process, without express consent from its users as indicated through information forms that users voluntarily fill out.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-From time to time, Mechler Enterprises, LLC may offer incentives to users in the form of contests, prizes, and giveaways, and request that users fill out surveys or questionnaires to qualify for participation in these special promotions. Unless explicitly indicated, information from these surveys, and questionnaires are used in group demographics studies and for better audience targeting – surveys and questionnaires related to contests may be subject to third party marketing companies. If you do not want your information subject to third party companies, do not fill out the contest surveys.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Mechler Enterprises, LLC will take reasonable precautionary measures to protect and safeguard all information gathered from its users for membership purposes. Mechler Enterprises, LLC does not, however, take any responsibility for any breach of security, accidental disclosure, theft, or tampering of its users’ information.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://www.techjunkie.com
 
- **Third Party Cookies**
+## Information Collection And Use
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information (“Personal Information”) may include, but is not limited to:
 
- **Privacy for Children – As per COPA**
+  * Email address
 
-Although PCMech generally targets to an adult audience, we welcome the visitation and participation of young users, with their parents’ consent. It is strongly recommended that users under the age of 13 refrain from disclosing any personal and/or private information either through the user registration system, or through participation in questionnaires and surveys, and instead opt to remain anonymous in their participation of site activities.
 
-Please note that as of April 21st, 2000, the Child Online Protection Act of 1998 prohibits PCMech from the collection of private information from users under the age of 13 without parental consent. Users under the age of 13 must provide a signed letter from their parents to indicate that they are aware of their child’s activities on PCMech and consent to these activities. This letter must be mailed to Mechler Enterprises, LLC, using the contact information below, before they can participate in activities requesting the disclosure of private information.
 
-Parents of our younger users may at any time, revoke their consent, and may request to review and edit the private information disclosed by sending a written request to Mechler Enterprises, LLC, via mail.
+## Third party advertising
 
-Though PCMech will take reasonable measures to ensure that users under the age of 13 do not disclose their private information without first obtaining parental consent, the site cannot guarantee the protection of young users who choose not to disclose their age and who do not follow the requirements set forth by COPA.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
- **Privacy Contact Info:**
+## Log Data
 
-Mechler Enterprises, LLC  
-P.O. Box 49  
-Wynnewood, PA 19096
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+
+## Google AdSense & DoubleClick Cookie
+
+Google, as a third party vendor, uses cookies to serve ads on our Service.
+
+## Cookies
+
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
+
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+## Security
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Information, please contact us. If we discover that a child under 18 has provided us with Personal Information, we will delete such information from our servers immediately.
+
+## Compliance With Laws
+
+We will disclose your Personal Information where required to do so by law or subpoena.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us.
