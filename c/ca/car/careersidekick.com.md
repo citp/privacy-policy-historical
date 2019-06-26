@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersidekick.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214050628id_/https%3A//careersidekick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersidekick.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626124232id_/https%3A//careersidekick.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Career Sidekick
 
