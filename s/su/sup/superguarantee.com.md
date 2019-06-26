@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superguarantee.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226224713id_/https%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superguarantee.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222255id_/https%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
 
-# Superpages Online Yellow Pages, Local Business Directory
+# Superpages Privacy Policy
 
 Dex Media, Inc. and its affiliates (individually and collectively known as “DexYP”) respect your right to privacy, and we want you to be aware of how we collect and handle information on each website and mobile application covered by this policy.
 
@@ -70,7 +70,7 @@ When we use third party tracking services to help us analyze automatically colle
 
 Finally, we may also disclose information DexYP automatically collects to non-"DexYP Family" companies or entities if (a) it is required by law or we believe that such action is necessary in order to conform to the edicts of the law, (b) we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served, (c) we believe that disclosure is necessary to protect the safety of customers, employees or property, or (d) DexYP transfers all or substantially all of its assets to another entity (in which case DexYP may disclose, sell and/or otherwise provide information DexYP automatically collects to such entity)
 
-Please note that DexYP may support features and content appearing on other companies’ sites that you may visit. These companies may collect information about you, but DexYP does not have control over the privacy practices of these companies. If you are visiting a site that indicates that it is "powered by superpages.com" or "DexYP", or if you [link to another site](http://www.dexmedia.com/privacy/#doyouaccommodate) from This Website, you are advised to read the privacy policy of that site for its policies regarding information collection and usage.
+Please note that DexYP may support features and content appearing on other companies’ sites that you may visit. These companies may collect information about you, but DexYP does not have control over the privacy practices of these companies. If you are visiting a site that indicates that it is "powered by superpages.com" or "DexYP", or if you [link to another site](https://www.thryv.com/privacy/#doyouaccommodate) from This Website, you are advised to read the privacy policy of that site for its policies regarding information collection and usage.
 
 ### Do you sell my information collected through Mobile Products to companies outside of the "DexYP Family?"
 
@@ -182,7 +182,7 @@ Users who choose to continually delete cookies and not opt out can have their br
 ### How to Opt-out of Behavioral Tracking Cookies: 
 
 We contract with non-“DexYP Family” companies, with which we have agreements, which use cookies to collect information when you visit This Website. This personally and non-personally identifiable information, collected through cookies, is typically used by third party advertising networks to serve you with advertisements while on third party sites and other forms of media, and those advertisements are tailored to meet your preferences and likely interests.   
-If you do not wish to participate in this activity, please [click here](http://www.networkadvertising.org/choices/) and follow the simple opt-out process.
+If you do not wish to participate in this activity, please [click here](http://optout.networkadvertising.org/) and follow the simple opt-out process.
 
 ## Children's Privacy
 
@@ -196,6 +196,6 @@ We cannot always determine the age of persons who access and use This Website. I
 
 ### Who do I contact if I am concerned, or have questions, about my privacy related to This Website?
 
-  * Please visit [Contact Us](http://www.dexmedia.com/contact-us/)
+  * Please visit [Contact Us](https://www.thryv.com/contact-us/)
 
 
