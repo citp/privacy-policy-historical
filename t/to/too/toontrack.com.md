@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toontrack.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230081940id_/https%3A//www.toontrack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toontrack.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626081746id_/https%3A//www.toontrack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Toontrack
 
@@ -147,4 +147,4 @@ Our Website will continue to evolve to bring you new features and services and t
 
 This Privacy Policy is effective as of May 25, 2018.
 
-We use cookies to give you the best possible service. If you continue browsing, you agree to the use of cookies. [Read more](https://web.archive.org/privacy-policy/) I accept
+We use cookies to give you the best possible service. If you continue browsing, you agree to the use of cookies. [Read more](https://web.archive.org/privacy-policy/) I accept 
