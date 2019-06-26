@@ -1,57 +1,121 @@
-> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906061209id_/https%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626102557id_/https%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy – PSD2HTML®
 
-The following Privacy Policy Notice describes your privacy rights regarding our collection, use, storage, sharing, and protection of your personal information. It applies to the www.psd2html.com website (“site”) and all services offered by P2H Inc. (collectively “P2H” or “P2H™”). PSD2HTML® is owned and operated by P2H Inc. and is offered subject to your acceptance of this Privacy Policy Notice without modification. Please read this Privacy Policy Notice carefully and completely prior to engaging us for services.
+The following Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing, and protection of your information and personal data. It applies to the www.psd2html.com website (the “Site”) and all services offered by P2H Inc. (collectively “P2H” or “we”).
 
-## Nondisclosure agreement (NDA) for PSD2HTML® clients
+When you (“you” or the “Client”) use this Site and its services (the “Services”) and provide us with your information and personal data, you are agreeing to the rules and regulations under our Privacy Policy and are bound by it.
 
-P2H™ respects your professional artwork as well as other intellectual property shared with us and will only use it to assist you with your goals. Your copyrights will remain yours.
+_If you do not agree to our Privacy Policy please do not use the Site and its Services._
 
-P2H™ will not take your artwork and other intellectual property for use on any other site, resell it, or give it to anyone under any circumstance.
+This Privacy Policy may be updated from time to time and will be published on this Site.
 
-P2H™ guarantees that all information that you share with us, including artwork and other intellectual property, contact information, and client notes, will remain confidential.
+For the purpose of data protection legislation including General Data Protection Regulation 2016 (Regulation (EU) 2016/679) the data controller is:
 
-P2H™ will never contact your clients or the clients of your clients. We respect your business.
+P2H Inc., 7848 W Sahara Ave, Las Vegas, NV 89117
 
-Notwithstanding the foregoing, P2H may disclose any such information in response to a valid order of a court or other government body or as required by law, but only that portion of the Confidential Information which is legally required to be disclosed, or such information as may be required to resolve any dispute between you and P2H.
+P2H respects you, your information and personal data.  
+We make sure we collect and store your information and personal data securely.  
+You’re in control of your personal data and you can manage your preferences in [Client Area](https://web.archive.org/client-area.html) at any time. 
 
-## Our commitment to data security
+## Personal data we collect
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+When using the term “personal data” in our Privacy Policy, we mean information that relates to you and allows us to identify you, either directly or indirectly. We may collect, store and use any personal data you provide us directly by completing forms on the Site, making purchases through the Site, subscribing to the newsletter or by corresponding with us by email, phone or otherwise. This information may include your first and last name, postal address, profession/role, place of work, email address and phone number.
 
-## How secure is my information?
+We also collect, store and use information about your computer and about your visits to and use of this Site (including your IP address, browser type and version, operating system, referral source, length of visit, geographical location, page views and website navigation paths).
 
-This site uses state-of-the-art digital encryption and security technologies to protect the privacy and security of our members' information and has specific security measures in place to protect against the loss, misuse, and alteration of the information under our control. All data passing from your computer to this site via HTTPS is authenticated and encrypted using 256-bit Secure Socket Layer (SSL) encryption. This is the most advanced level of encryption available today, and it means that any information sent from your computer is scrambled in such a way that makes it completely unintelligible if intercepted. When you are on a secure section within this site, a padlock will appear at the bottom (or top) of your web browser's screen. This is your assurance that the encryption is in place and that you are communicating across a secure link.
+We do not collect and store any sensitive information about you. We knowingly do not collect any information from children under 16 years old.
 
-## Information we collect
+## Purposes of personal data use
 
-This notice applies to all the information that is collected or submitted on the PSD2HTML® site through the product order page, product request page, and other pages. The following types of personal information are collected:
+Personal data submitted to us through this Site and personal data we collected from you or third parties or from public sources will be used for the purposes specified in this Privacy Policy.
 
-  * E-mail address
-  * IP address for fraud detection purposes
-  * Client information requests
-  * Order-specific information, including source files and client notes
-  * Information on referring sites through the use of cookies
+Depending on the relationships we may use your personal data for the following purposes:
+
+Service provision | The personal data you provide when placing an order through [Order Now](https://web.archive.org/order-now.html) is used to complete your order.  
+---|---  
+Communications | We may need to contact you by email for operational reasons, for example in order to notify you about the status of your order.  
+Marketing | 
+
+We may inform you about news and offers that you may like, for example, by sending you occasional P2H newsletters.
+
+If you choose to receive email marketing from P2H, we can let you know when there are special offers, or to tell you about our news.
+
+You can stop receiving marketing information from us at any time by pushing “Unsubscribe” link in the email or by emailing us to [support@psd2html.com](mailto:support@psd2html.com).  
+  
+Finance and security | The purposes for which we will use your information include accounting, billing and audit, payment card verification, fraud screening, safety, security and legal purposes, statistical and marketing analysis.  
+  
+## Your rights
+
+In respect to your personal data you have the right to:
+
+  * request access to the personal data that we hold about you or a copy of it;
+  * correct (rectify) your personal data if it is inaccurate;
+  * erase your personal data or cease processing it, subject to certain exceptions;
+  * ask us to pass your information to other companies or organisations upon your written request (when technically feasible);
+  * withdraw your consent to your personal data processing at any time by pushing button in [Client Area](https://web.archive.org/client-area.html) or by email. Withdrawing your consent will not affect the lawfulness of any processing P2H conducted prior to your withdrawal.
 
 
 
-## How we use your information
+If you wish to execute any of these rights, please send us a request through [Client Area](https://web.archive.org/client-area.html) or to [data.protection@psd2html.com](mailto:data.protection@psd2html.com) from your email registered at [Client Area](https://web.archive.org/client-area.html).
 
-The personal information you provide when placing an order is used only to complete your order. We do not share this information with outside parties.
+## Retaining of your information and personal data
 
-The e-mail address that you provide in the contact/order form is used only to notify you about the status of your order and to send you occasional P2H™ newsletters. We do not use this e-mail address for any other purpose, and we do not share it with outside parties.
+We use data hosting providers in the United States and Germany to store your information and personal data.
 
-To improve the design of our site and to better share it with advertisers, we use only non-identifying, aggregate information. For example, we may tell an advertiser that a certain number of individuals visited some area of our site, but we do not disclose anything that could be used to identify those individuals.
+Your personal data will be retained for as long as needed for the purpose of use or until your consent is revoked.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to those described above without also providing you with an opportunity to opt out or otherwise prohibit such unrelated uses.
+Notwithstanding the provisions of this section, we will retain information and documents containing personal data to enforce our [Terms & Conditions](https://web.archive.org/terms-and-conditions.html), protect our legal rights (including fraud prevention), as required by law and for the statistic and reporting purposes.
 
-## How you can access or correct your information
+## Sharing and transfer of your information and personal data
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows an error.
+You agree that we have the right to share your information and personal data with:
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+  * our affiliates and subsidiaries; and
+  * carefully selected third parties including business partners, suppliers, exclusive contractors and sub-contractors who perform functions on our behalf, subject to non-disclosure obligations;
+  * our professional advisers (lawyers, accountants, financial advisers etc);
+  * a purchaser or prospective purchaser of all or part of our assets or our business, and their professional advisers, in connection with the purchase;
+  * court or other government body or as required by law, but only that portion of your information which is legally required to be disclosed.
 
-Should you have further questions or concerns about P2H™ services, please complete the [contact form](https://www.psd2html.com/contact-us.html).
 
-© 2011-2013 P2H Inc. P2H™ and PSD2HTML® are trademarks of P2H Inc.
+
+Your information and personal data may be transferred outside United States to European Union and Ukraine where it will be processed by our exclusive contractors and sub-contractors on “need to know” basis only. By submitting your information and personal data, you agree to this transfer, storing or processing.
+
+Whenever we transfer your information and personal data, we take steps to protect it in accordance with this Privacy Policy, including, utilizing the European Commission’s Standard Contractual Clauses for transfers of personal information.
+
+We do not sell or trade any of your information and personal data.
+
+Some aggregate and non-identifying information may be collected by advertisers, advertising networks, analytics and search engine providers. Their use of such information is not under our control.
+
+## Data security
+
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information.
+
+This Site uses state-of-the-art digital encryption and security technologies to protect the privacy and security of our members information and has specific security measures in place. All data passing from your computer to this Site via HTTPS is authenticated and encrypted using 256-bit Secure Socket Layer (SSL) encryption. This is the most advanced level of encryption available today, and it means that any information sent from your computer is scrambled in such a way that makes it completely unintelligible if intercepted. When you are on a secure section within this Site, a padlock will appear at the bottom (or top) of your web browser's screen. This is your assurance that the encryption is in place and that you are communicating across a secure link.
+
+## Cookies
+
+This Site uses cookies to distinguish you from other users of the Site. This helps us to provide you with a good experience when you browse the Site and also allows us to improve the Site. Please note that most browsers accept cookies by default.
+
+Cookies are small text files (typically made up of letters and numbers) placed in the memory of your browser or device when you visit a website or view a message.
+
+We use cookies for a few general purposes like:
+
+  * to allow this Site to function correctly.
+  * to understand how our Site is functioning and to inform any improvements in performance and our Services.
+  * to enhance your experience on our Site and provide extra functionality.
+
+For example you don’t need to enter your details each time you login into [Client Area](https://web.archive.org/client-area.html).
+
+
+
+
+If you do not want to receive cookies or store them on your computer any more please change your browsing settings and/or delete all received cookies before. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+
+## Links
+
+This Site may contain links to third-party sites, which are not owned and operated by P2H. Any information you provide to those sites will be governed by their own policies and principles. P2H assumes no responsibility or liability for information handling procedures and/or policies of such independent sites.
+
+Questions, comments and requests regarding this Privacy Policy should be addressed to [data.protection@psd2html.com](mailto:data.protection@psd2html.com).
+
+© 2005–2019 P2H Inc. P2H® and PSD2HTML® are trademarks of P2H Inc.
