@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illuminateed.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817161709id_/https%3A//www.illuminateed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illuminateed.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626132521id_/https%3A//www.illuminateed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Illuminate Education
 
@@ -26,6 +26,97 @@ Illuminate may, from time to time, use a third-party service, such as Google Ana
 
 We also use other automated collection tools, such as “cookies” and “web beacons”, to gather information from you and your computer while you are visiting our Website. A cookie is a small file stored on your computer that lets us know whether you’ve visited our Website or accessed our services before as well as your navigation experience during your visit. Our cookies do not contain or capture personal information. We use cookies to facilitate your access to our services, to enhance your experience, to increase security, and to recognize your computer or device. Cookies allow us to collect statistical information about the usage of our services and Website to improve functionality and design. Most browsers automatically accept cookies, but you can usually adjust your browser’s settings to decline cookies or otherwise modify your browser’s interactions with cookies. If you choose to disable cookies, it is possible that some of our services’ features may not function properly.
 
+On our public-facing webpages, including this one, we collect anonymous usage data to help us understand how visitors interact with our site.  If you contact us through a webform, we may link this information to you personally.
+
+cookie
+
+| 
+
+use
+
+| 
+
+type
+
+| 
+
+privacy information
+
+| 
+
+persistence  
+  
+---|---|---|---|---  
+_gat | Anonymous usage data for Google Analytics. Used to throttle request rate. | third-party | [Google Analytics Cookie Usage](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | 1 minute  
+_ga | Anonymous usage data for Google Analytics. Used to identify individual users anonymously. | third-party | [Google Analytics Cookie Usage](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | 2 years  
+_gid | Anonymous usage data for Google Analytics. Used to identify individual users anonymously. | third-party | [Google Analytics Cookie Usage](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | 24 hours  
+visitor_id* | Used to identify individual users and their site navigation anonymously, unless you personally use a form on our site to contact us. | third-party | [Pardot Privacy Policy](https://www.salesforce.com/company/privacy/) | 10 years  
+s-9da4 | Used to understand geolocation, from which we can better customize the public pages.  Anonymous unless you personally use a form on our site to contact us. | third-party | [Terminus Privacy Policy](https://terminus.com/privacy-policy/) | 1 month  
+d-a8e6 | Used to understand geolocation, from which we can better customize the public pages.  Anonymous unless you personally use a form on our site to contact us. | third-party | [Terminus Privacy Policy](https://terminus.com/privacy-policy/) | 1 month  
+Facebook web beacon (pixel) | This enables us to measure the effectiveness of Facebook ads for statistical and market research purposes. The data collected in this way is anonymous to us, i.e. we do not see the personal data of individual users. However, these data are stored and processed by Facebook and if you have a Facebook account, they may use it to understand your activity. | third-party | [Facebook Data Policy](https://www.facebook.com/policy.php) | One time  
+  
+#### **Credentialed Site**
+
+Districts who utilize our software will have a dedicated web domain.  We do not store or share any information outside the scope necessary for the function of the application.  Cookie and third-party data sharing information is listed below.
+
+#### **Cookies**
+
+Illuminate Education uses cookies to collect anonymous usage data to help improve our product, plus encrypted session data which allows allow our application to know who you are and respond appropriately.
+
+cookie
+
+| 
+
+use
+
+| 
+
+type
+
+| 
+
+privacy information
+
+| 
+
+persistence  
+  
+---|---|---|---|---  
+_gat | Anonymous usage data for Google Analytics. Used to throttle request rate. | third-party | [Google Analytics Cookie Usage](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | 1 minute  
+_ga | Anonymous usage data for Google Analytics. Used to identify individual users anonymously. | third-party | [Google Analytics Cookie Usage](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | 2 years  
+_gid | Anonymous usage data for Google Analytics. Used to identify individual users anonymously. | third-party | [Google Analytics Cookie Usage](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | 24 hours  
+_pendo_* | Anonymous usage data for Pendo Analytics. Helps us understand what features and pages are used most, including user workflows. | third-party | [Pendo Privacy & Trust](https://www.pendo.io/support/trust/) | 100 days  
+__cfduid | Set by the CloudFlare service to identify trusted web traffic and decrease load time. Does not correspond to any individual user. | third-party | [Illuminate Education's Privacy Policy](https://www.illuminateed.com/privacy-policy/) | 20 weeks  
+atd_rl | Used to throttle request rates. | internal | [Illuminate Education's Privacy Policy](https://www.illuminateed.com/privacy-policy/) | Current session  
+  
+live_*
+
+| Session cookie.  Keeps you logged in. | internal | [Illuminate Education's Privacy Policy](https://www.illuminateed.com/privacy-policy/) | Current session  
+ied_auth_token | Allows users to be authorized to different portions of our application after log in. | internal | [Illuminate Education's Privacy Policy](https://www.illuminateed.com/privacy-policy/) | Current session  
+* | Remaining cookies are utilized to assist with a delightful user experience.  For instance, these cookies may remember how you sort certain tables, the level of zoom you choose, or the current step you are on during the creation of an assessment. | internal | [Illuminate Education's Privacy Policy](https://www.illuminateed.com/privacy-policy/) | Current session  
+  
+#### **Third-Party Data Sharing**
+
+The following third-party software helps us collect anonymous usage data to help improve our product.  Additional third-party software, including other applications that interact with Illuminate Education, are utilized when there is direct request from the customer.
+
+third-party
+
+| 
+
+use
+
+| 
+
+privacy information  
+  
+---|---|---  
+Google Analytics | We send Google Analytics anonymized data to help us understand what features and pages are used most, including user workflows. | [Google Analytics Cookie Usage](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage)  
+Pendo | We send Pendo anonymized data to help us understand what features and pages are used most, including user workflows. | [Pendo Privacy & Trust](https://www.pendo.io/support/trust/)  
+NewRelic | We send NewRelic anonymized data to help monitor server health. | [New Relic Data Security](https://docs.newrelic.com/docs/using-new-relic/new-relic-security/security/data-security)  
+Pusher | We send anonymized event messages through Pusher for our Live Proctoring product. | [Pusher Data Protection](https://pusher.com/legal/data-protection)  
+SwiftReach | We send text messages, voice calls and emails initiated by teachers and administrators via the SwiftReach texting service. | [SwiftReach Privacy Policy](https://swiftreach.com/privacy-policy/)  
+_User-initiated_ | Additional third-party software, including other applications that interact with Illuminate Education, are utilized when there is direct request from the customer. |   
+  
 #### **Email Marketing**
 
 Email marketing sent by Illuminate may contain web beacons and other similar technologies to track the response rate to such communications. Web beacons (also known as pixel gifs, pixel tags, clear gifs, third-party pixels, or targeting pixels) are small graphics with a unique piece of identifying code, similar to a cookie, used to track the online movements of a web user or to access previously set cookies. These tools are used in email communications to determine whether messages have been opened or otherwise acted upon.
@@ -40,7 +131,7 @@ Individuals may correspond directly with Illuminate through our “Contact Us”
 
 #### **Children under the Age of Thirteen**
 
-Illuminate does not knowingly collect information about children under the age of thirteen through the Website.
+Illuminate does not knowingly collect information about children under the age of thirteen through this marketing website. Student information for our credentialed district applications store and collect data as noted in section III below.
 
 ### **III. Information We Store On Behalf Of Educational Organizations**
 
