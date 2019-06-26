@@ -1,53 +1,116 @@
-> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903131301id_/https%3A//www.diabetesdaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626203443id_/https%3A//www.diabetesdaily.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Diabetes Daily
 
-Diabetes Daily must collect some private information in order to provide you with services. We are committed to collecting this information transparently and protecting that private information.
+Last Updated: January 29, 2018
 
-Here are our policies in plain English.
+Diabetes Daily, LLC respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These privacy policies (the “Privacy Policy”) are intended to describe for you, as an individual who is a user of [www.diabetesdaily.com](http://www.diabetesdaily.com/) or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
- **Information we collect and how we use it**  
-We offer a number of services that do not require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information:
+We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
-  * Information you provide – When you sign up for a DiabetesDaily.com account or other DiabetesDaily.com service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other DiabetesDaily.com services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
-  * Cookies – When you visit DiabetesDaily.com, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. DiabetesDaily.com also uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web.
-  * Log information – When you access DiabetesDaily.com services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  * User communications – When you send email or other communications to DiabetesDaily.com, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-  * Affiliated sites – We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to DiabetesDaily.com in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
-  * Links – DiabetesDaily.com may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our technology, customized content and advertising.
-  * Other sites – This Privacy Policy applies to DiabetesDaily.com services only. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
-  * Public Profile Information – You may add information to your public profile including type of diabetes, age and gender. There are settings available to determine whether this information is public, private, or visible only to people that you select. This information is public by default.
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
+ **Information We Collect About You**
 
+ _In General_. We may collect personal information that can identify you, such as your name and email address, and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
 
- **Third Party Cookies and Services  
-**We use third-party advertising companies to serve ads when you visit our website. These companies may use information ( **not** including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
-
-  * Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the [DART cookie](https://www.doubleclickbygoogle.com/) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/).
+  *  **Information you provide.** We may collect and store any personal information you enter on our website or provide to us in some other manner, including personal information that may be contained in any video, comment or other submission you upload or post to the website. This includes identifying information, such as your name, address, e-mail address, and telephone number; and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender and age, and other demographic information.
+  *  **Information from other sources.** We may also periodically obtain both personal and non-personal information about you from our businesses, business partners, contractors and other third parties.
+  *  **Information about others.** We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) content or messages (such as invitations) through our system, we may store your personal information, and the personal information of each such recipient. Similarly, if you use our website to upload, share and/or distribute content (including photos, comments or other submissions), and such content contains personal information about others, such information may be stored in order to allow for such uploading, sharing and/or distribution.
 
 
 
-Finally, you can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
+ _Use of cookies and other technologies to collect information._ We may use various technologies to collect information from your computer and about your activities on our site.
 
- **DiabetesDaily.com Account**  
-You may access some of our services by signing up for an account and providing us with some personal information (typically your name, email address and a password). This account information will be used to authenticate you when you access DiabetesDaily.com services and protect your account from unauthorized access by others.
-
-  * We may use your personal information to customize content and enhance our services for you.
-  * We may share personal information among contracted parties in order to provide access to services that we provide on a licensed basis. These contracted parties may only use your personal data to provide the services we explicitly license. **They will never own your information or be given permission to share it with other parties.**
-  * No account information is shared with anyone other than DiabetesDaily.com except as specified in the Privacy Policy or with your consent.
+  *  **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us, and the referring website address.
+  *  **Cookies.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
+  *  **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
+  *  **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Unless expressly stated otherwise, our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([networkadvertising.org](http://www.networkadvertising.org/)).
 
 
 
- **Remove Your Account**  
-All information posted on this website is property of DiabetesDaily.com. Upon request, we can disable access to your account and remove all personal information associated with it. Please email team@diabetesdaily.com with any requests.
+ **How We Use the Information We Collect**
 
- **Unsubscribe**  
-We have a link to unsubscribe from our email lists at the end of every email we send. Alternately, you can unsubscribe using the contact link in the top right corner of the page or sending a letter to the following address:
+ _In General._ We may use information that we collect about you to:
 
-Diabetes Daily  
-26201 Richmond Road  
+  * deliver the products and services that you have requested;
+  * manage your account and provide you with customer support;
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties;
+  * develop and display content and advertising tailored to your interests on our site and other sites;
+  * enforce our terms and conditions;
+  * manage our business and
+  * perform functions as otherwise described to you at the time of collection.
+
+
+
+ _Financial information._ We may use financial information or payment method to process payment for any purchases, subscriptions or sales made on our website, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
+
+ **With Whom We Share Your Information**
+
+We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our website or while using our services.
+
+ _Personal information._ We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+
+  *  **Authorized service providers:** We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+  *  **Business partners:** To the extent any personal information is contained in any video, comment or other user submission, such information when you make purchases, reservations or engage in promotions offered through our website or our services, we may share personal information with the businesses with which we partner to offer you those products, services, and/or promotions. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your email address and other information to that merchant.
+  *  **Direct mail partners.** From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time.
+  *  **Other Situations.** We also may disclose your information:
+    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, report or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
+    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+
+
+
+Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+
+ _Aggregated and non-personal information._ We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
+
+ **Third-Party Websites**
+
+There may be a number of places on our website or through our services where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a search result on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the “privacy” link typically located at the bottom of the webpage you are visiting.
+
+ **How You Can Access Your Information**
+
+If you have an online account with us, you have the ability to review and update your personal information online by logging into your account. You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
+
+If you have an online account with us, you also may choose to close your account by contacting customer support at: team@diabetesdaily.com. After you close your account, you will not be able to sign in to our website or access any of your personal information.  However, you can open a new account at any time.  If you close your account, we may still retain certain information associated with your account for analytical purposes and record-keeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our website or our users, or take other actions otherwise permitted by law.  In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
+
+ **Your Choices About Collection and Use of Your Information**
+
+  * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; ask a question; or initiate other transactions on our website.
+  * When you register on our website you may be given a choice as to whether you want to receive email messages and/or newsletters about updates, improvements, special offers, or containing special distributions of content by us. At any time you can choose to no longer receive commercial or promotional emails or newsletters from us by emailing us at team@diabetesdaily.com. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that, changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a credit card processing partner or an event provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
+
+
+
+ **How We Protect Your Personal Information**
+
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
+
+We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission’s website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
+
+ **User Submissions**
+
+We may provide areas on our websites where you can post information about yourself and others and communicate with others; upload content (e.g. pictures, videos, audio files, etc.); and post comments or reviews of content found on the Website. Such postings are governed by our Terms and Conditions of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.
+
+ **Visiting Our Websites from Outside the United States**
+
+This Privacy Policy is intended to cover collection of information on or via our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country.  Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
+
+ **No Rights of Third Parties**
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
+
+ **Changes to This Privacy Policy**
+
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the “Last Updated” date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an email to the email address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by prominently posting notice of the changes on our website. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+
+ **How to Contact Us**
+
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by email or postal mail as follows:
+
+ **Diabetes Daily, LLC**
+
+26201 Richmond Road
+
 Bedford Heights, OH 44146
-
-If you have any questions or suggestions on how to improve, please contact us.
-
-Last Updated: March 18, 2017
