@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the statigr.am privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103035428id_/https%3A//pro.iconosquare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statigr.am privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626220006id_/https%3A//pro.iconosquare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Iconosquare
-
-[](https://web.archive.org/ "Iconosquare Pro")
 
 When browsing the ICONOSQUARE website accessible from the pro.iconosquare.com domain name (hereinafter referred to as the "Site"), users are required to communicate personal data.
 
