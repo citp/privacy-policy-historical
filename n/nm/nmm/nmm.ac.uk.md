@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220073627id_/https%3A//www.rmg.co.uk/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626183306id_/https%3A//www.rmg.co.uk/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Royal Museums Greenwich | UNESCO World Heritage Site In London
 
@@ -65,11 +65,29 @@ We use Google Analytics to monitor how people use our websites and aggregate gen
 
 ### Online donations
 
-We have enabled online donations to be made to the Museum through Justgiving. They operate a strict privacy policy and will never pass your personal details on to anyone, including the Museum, without your express consent. Find out more on the [Justgiving website](http://www.justgiving.com/).
+We have enabled online donations to be made to the Museum through a fundraising website provided by RaisingIT.
+
+Financial transactions relating to our fundraising website may be handled by our payment services providers, Stripe and GoCardless. Royal Museums Greenwich will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
+
+For more information on Stripe's privacy policies and practices, [visit their website](http://stripe.com/gb/privacy).
+
+For more information on GoCardless's privacy policies and practices, [visit their website](https://gocardless.com/legal/privacy/).
+
+Your data may also be available to our website provider RaisingIT to enable them to deliver their service to Royal Museums Greenwich, carry out analysis and research on demographics, interests and behaviour of our users and supporters to help Royal Museums Greenwich gain a better understanding of them to enable RaisingIT to improve their services. This may include connecting data RaisingIT receive from you on the website to data available from other sources. Your personally identifiable data will only be used where it is necessary for the analysis required, and where your interests for privacy are not deemed to outweigh RaisingIT’s legitimate interests in developing new services for Royal Museums Greenwich. In the case of this activity the following will apply:
+
+1\. Your data will be made available to our website provider RaisingIT
+
+2\. The data that may be available to them to include any of the data we collect as described in this policy.
+
+3\. Our website provider will not transfer your data to any other third party, or transfer your data outside of the EEA.
+
+4\. This processing does not affect your rights as detailed in this privacy policy.
+
+Your personal data will be stored and used by Royal Museums Greenwich in accordance with our privacy policy. We will only keep your personal information for as long as it is necessary for the purposes set out in our privacy policy and to fulfill the purposes for which the information was originally collected. 
 
 ### Booking tickets online
 
-Our ticket booking system is provided by Syx ReCreateX. The booking system collects personal information on behalf of the Museum and enables us to process your transaction. We only use personal data where it is necessary to fulfil your order, communicate key information, products and services related to your ticket or visit and deliver customer support services. We will not disclose personal data to other parties. 
+Our ticket booking system is provided by Gateway Galaxy. The booking system collects personal information on behalf of the Museum and enables us to process your transaction. We only use personal data where it is necessary to fulfil your order, communicate key information, products and services related to your ticket or visit and deliver customer support services. We will not disclose personal data to other parties. 
 
 We will keep your personal information regarding such transactions as ticket purchases for a maximum of three years to enable follow up if required. 
 
@@ -89,7 +107,7 @@ We will use your personal details to administer your Membership in accordance wi
 
 You will receive additional Membership information by email, such as e-newsletters, invitations to events, surveys and Members’ Appeal information if you have given your consent.
 
-We will never pass on your personal details to other organisations. Your personal details are stored in the Syx RecreateX database for the duration of your Membership and for 24 months after your Membership expires; after that we will dispose of your details securely
+We will never pass on your personal details to other organisations. Your personal details are stored in the Gateway Galaxy database for the duration of your Membership and for 24 months after your Membership expires; after that we will dispose of your details securely
 
 If you are a Member of the Flamsteed Astronomy Society, your email address will also be used by the Flamsteed Committee to communicate with you.
 
@@ -115,7 +133,7 @@ Our website contains links to other websites. This privacy policy only applies t
 
 ### Changes to our Privacy Notice
 
-We keep our Privacy Notice under regular review and we will place any updates on this web page. This Privacy Notice was last updated on 26 November 2018.
+We keep our Privacy Notice under regular review and we will place any updates on this web page. This Privacy Notice was last updated on 07 January 2019.
 
 **If you have any questions about this Privacy Notice please contact:**
 
