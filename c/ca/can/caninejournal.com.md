@@ -1,87 +1,192 @@
-> *The following text is extracted and transformed from the caninejournal.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126224456id_/https%3A//www.caninejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caninejournal.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626174702id_/https%3A//www.caninejournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CanineJournal.com
 
-_Last Updated: March 10, 2016_
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-Maintaining your privacy and trust is important to Cover Story Media®, Inc. On this Web site, Cover Story Media®, Inc. and its affiliates collect information from users in connection with certain features and services. This privacy policy is designed to tell you how personal information is collected and used on this Site so that you can make an informed decision about using our Site, or permitting your children to use our Site.
+ **What personal information do we collect from the people that visit CanineJournal.com?**
 
-Please read this policy before using our Site or submitting any personal information to us. By using our Site, you consent to the information collection and use practices described in this policy. Cover Story Media®, Inc. reserves the right to change this privacy policy at any time. If we decide to change our privacy policy, we will post those changes in an updated privacy policy so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. The date of the last revision is always posted at the top of the privacy policy. Your use of this Site following the posting of such changes or revised policy shall constitute acceptance of any such changes. We encourage you to review our privacy policy whenever you visit our site to make sure that you understand how any personal information you provide will be used.
+When ordering or registering on CanineJournal.com, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
-Cover Story Media®, Inc. is the sole owner of the information collected on this site. To contact Cover Story Media®, Inc., please visit the [Contact](https://www.caninejournal.com/contact/) page. **We value your privacy. We will not sell, share, or rent this information to others in ways other than as disclosed in this policy.**
+ **When do we collect information?**
 
-## What Information Is Collected On This Site?
+We collect information from you when you:
 
-In order to provide our users with certain products or services on our Site, Cover Story Media®, Inc. and its affiliates may collect different types of information. In particular, we occasionally may need to collect certain types of personal information in order to provide our users with particular features, services or offers. “Personal Information” as used herein means information that identifies a person or allows a person to be located. Examples of Personal Information include a first and last name, a home address, or an email address. The following is a summary of the kinds of information we collect at the Site from our users, and how we collect that information:
-
-### Passive Collection
-
-Our software automatically collects certain information from a user’s computer when that user logs on or moves about our Site. We do not link this information to any other Personal Information the user tells us; we only use it to get a broad picture of who is on our Site and which areas our users are visiting. This information tells us what’s important to our users and what isn’t, allows us to make our Site more interesting and useful, and enhances security and efficiency on our Site. The two main ways in which we collect this general information are through:
-
-  *  **Log Files** – log files are records of user activity collected to analyze trends, administer the Site, track users’ movements, and gather broad types of information for aggregate use. The kinds of general information we collect in the log files include:
-    * The IP address of the user’s computer.
-    * How many people visit our Site.
-    * Which pages of our Site are visited most often.
-    * Which ISPs our visitors come from (e.g. AOL, MSN, etc.).
-    * Which browsers users are used to visit our Site (Netscape, Internet Explorer, etc.).
-    * Time of day users visit our Site.
-  *  **Cookies** – Cover Story Media®, Inc. also uses “cookies” to gauge how users interact with our Site. A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies cannot execute code or deliver a virus to a computer. Usage of a cookie is not linked to any personal information, it merely helps the Site to be more efficient. Typically, a cookie enables a user’s computer to load Web site files faster on subsequent visits. We may also use cookies to track a user’s path for security purposes, as well as to target a user’s interests in an effort to enhance the user’s experience on our Site. If a user wishes to block, erase, or be warned of cookies, the user may refer to browser instructions to learn about these functions. If a user rejects a cookie, the user may still use our Site, however, the user may be limited in the use of certain areas.
+  * Subscribe to a newsletter, fill out a form or enter information on CanineJournal.com.
+  * Provide us with feedback on our products or services.
 
 
 
-### Active Collection
+ **How do we use your information?**
 
-At several places on our Site, we collect certain information that users voluntarily provide to us which may contain Personal Information. Here is a brief summary of some of the areas on our Site where users may be asked to provide Personal Information:
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-  *  **Registration** – one or more areas of our Site may require users to register for access. As part of the registration process we may ask users for a username, password, or other personal information in order to verify the user’s identity, establish the account, promote security, and enable access to various online features. We may also ask users to complete a survey as part of the registration process to find out more about who is using our Site (see more on surveys below).
-  *  **Product Updates and Other Communications** – we may collect information whenever a user communicates with us or asks to receive more information about Cover Story Media®, Inc. or Cover Story Media®, Inc. products, services and events (for example, if a user sends us email or signs up to receive notification of product updates or new product releases). This information may include the user’s name, e-mail address, or other contact information.
-
-
-
-### Captcha
-
-Forms on our Site, such as our contact form, use a captcha (word puzzle) to prevent spam submissions. The service we use to monitor spam submissions is called reCaptcha, a Google service. Because any data you provide in your comment is processed by Google’s servers, you should read their [privacy policy](http://www.google.com/intl/en/policies/privacy/ "reCaptcha Privacy Policy") and [terms](http://www.google.com/intl/en/policies/terms/ "reCaptcha Terms") to learn how your data is handled by them.
-
-### How Does Cover Story Media®, Inc. Use Information Collected On This Site?
-
-Cover Story Media®, Inc. is the sole owner of the information collected on this Site. Personal Information that is provided to Cover Story Media®, Inc. (such as a personal e-mail address) may be used by Cover Story Media®, Inc. in the following ways:
-
-  * to contact users or others about a user’s use of the Site or about our products and services or about special events or offers.
-  * to notify contest winners.
-  * to respond to comments or requests.
-  * to request feedback and enable us to develop and improve the Site and our products and services.
-  * for the specific purpose for which the information was provided.
+  * To send periodic emails regarding your order or other products and services.
+  * To follow up with them after correspondence (live chat, email or phone inquiries).
 
 
 
- **Cover Story Media ®, Inc. highly values your privacy. At no time will your email be sold or marketed to third parties**.
+ **How do we protect your information?**
 
-## Uploading Photos, Videos, Information Or Other Content
+  * We do not use vulnerability scanning and/or scanning to PCI standards.
+  * We only provide articles and information. We never ask for credit card numbers.
+  * We use regular Malware Scanning.
 
-You are solely responsible for the information and other content you post on or through our Site (for example, by using the comment form on our article pages). You understand that personal and other information (e.g., user name, e-mail address, phone number) that you post on or through public areas of our Site are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of our Site are encouraged to exercise caution when providing personal information about themselves. If you elect to use any of our referral services to inform a third party about our Site, or if you otherwise provide a third party’s personal information to us, you warrant that you have permission to do so and you agree to indemnify, defend and hold harmless Cover Story Media®, Inc. from and against any claim, liability, cost and expense arising in connection with your provision of that information.
 
-## Online Comment, Forum And Disclosure Policy
 
-Cover Story Media®, Inc. welcomes reader feedback to its online content, but it is not responsible for the information contained in reader comments. We reserve the right to reject, edit or delete comments in full or in part at any time.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+ **Do we use ‘cookies’?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+ **We use cookies to:**
+
+  * Understand and save user’s preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+
+If you turn cookies off, It won’t affect the user’s experience.
+
+ **Third-party disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce CanineJournal.com policies, or protect ours or others’ rights, property or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of CanineJournal.com and welcome any feedback about these sites.
+
+ **Google**
+
+Google’s advertising requirements can be summed up by [Google’s Advertising Principles](https://support.google.com/adwordspolicy/answer/1316548?hl=en). They are put in place to provide a positive experience for users.
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on CanineJournal.com. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to CanineJournal.com and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the [Google Ad and Content Network privacy policy](https://policies.google.com/technologies/ads).
+
+ **We have implemented the following:**
+
+  * Remarketing with Google AdSense
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
+  * DoubleClick Platform Integration
+
+
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+ **Opting out:**
+
+Users can set preferences for how Google advertises to you using the [Google Ad Settings page](https://adssettings.google.com/). Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the [Google Analytics Opt Out Browser add on](https://tools.google.com/dlpage/gaoptout).
+
+ **California Online Privacy Protection Act**
+
+[CalOPPA](http://consumercal.org/california-online-privacy-protection-act-caloppa/) is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared.
+
+ **According to CalOPPA, we agree to the following:**
+
+  * Users can visit CanineJournal.com anonymously.
+  * Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+  * Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+
+
+
+You will be notified of any Privacy Policy changes:
+
+  * On our Privacy Policy Page
+
+
+
+Can change your personal information:
+
+  * By [contacting us](https://www.caninejournal.com/contact/)
+
+
+
+ **How does CanineJournal.com handle Do Not Track signals?**
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+ **Does CanineJournal.com allow third-party behavioral tracking?**
+
+It’s also important to note that we allow third-party behavioral tracking.
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+ **Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify you via email
+
+  * Within 7 business days
+
+
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+ **CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+  * Send information, respond to inquiries, and/or other requests or questions.
+  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+
+
+ **To be in accordance with CANSPAM, we agree to the following:**
+
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
+
+ **If at any time you would like to unsubscribe from receiving future emails, you can[contact us](https://www.caninejournal.com/contact/)**.
+
+Follow the instructions at the bottom of each email and we will promptly remove you from
+
+  * ALL correspondence.
+
+
+
+ **Online Comment, Forum And Disclosure Policy**
+
+CanineJournal.com welcomes reader feedback to its online content, but it is not responsible for the information contained in reader comments. We reserve the right to reject, edit or delete comments in full or in part at any time.
 
 Comments should not be abusive, libelous or in bad taste. They should not contain vulgar language. We prefer comments that express an opinion rather than ones that deal in personalities.
 
-While we strive to keep our research as up to date and accurate as possible, due to the dynamic nature of the industry, we will occasionally make errors or fail to keep content current. If you find inaccuracies in our content, please [contact us](https://www.caninejournal.com/contact/) and we will do our best to resolve the errors as soon as possible. Corrections sent via the comment form may not been implemented in a timely fashion.
+While we strive to keep our research as up to date and accurate as possible, due to the dynamic nature of the industry, we will occasionally make errors or fail to keep content current. If you find inaccuracies in our content, please [contact us](https://www.caninejournal.com/contact/) and we will do our best to resolve the errors as soon as possible.
 
-We reserve the right to reproduce information sent to us via our [contact form](https://www.caninejournal.com/contact/), in full or in part, on our Site, regardless of the medium used.
+We reserve the right to reproduce information sent to us via our [contact form](https://www.caninejournal.com/contact/) and social media, in full or in part, on CanineJournal.com, regardless of the medium used.
 
 As a rule, we will not intentionally disclose any personal identification information about you as an individual user (such as, for example, your full name, street address, telephone number, or e-mail address) to any third party without having received your permission. Please note that if you give out personal information online “for example, through an article comment or forum topic ” that information can be collected and used by third parties. Although we strive to protect our users’ privacy, we cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
 
-We have the following exceptions to this disclosure policy: We will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of Cover Story Media®, Inc., or a physical threat to you or others.
+We have the following exceptions to this disclosure policy: We will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of CanineJournal.com, or a physical threat to you or others.
 
-## United States Only
+ **Contacting Us**
 
-This Site is intended for use by residents of the United States of America only. All matters relating to this Site are governed by the laws of the State of North Carolina in the United States of America. If you are located outside of the United States of America and you contact us, please be advised that any information you provide to us will be transferred to the United States of America and that by submitting information, you explicitly authorize such transfer.
+If there are any questions regarding this privacy policy, you may [contact us](https://www.caninejournal.com/contact/).
 
-## Links To Other Sites
-
-Our Site contains links to other sites. We are not endorsing any such linked websites and we are not responsible for the privacy practices or the content of such linked websites. We may present links to other websites in a format that enables us to track whether, and in what volume, these links have been followed by consumers. We use this information to improve our products and to direct our advertising.
-
-## Who Can We Contact If We Have Further Questions About This Privacy Policy?
-
-If you have any questions about this policy or about how Personal Information collected on our Web site is used, you can contact Cover Story Media®, Inc. via mail or feedback form, both of which can be found on the [Contact](https://www.caninejournal.com/contact/) page.
+ _Last Edited on 2018-05-24_
