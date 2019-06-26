@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the mirrorcreator.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102004511id_/https%3A//www.mirrored.to/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorcreator.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222232id_/https%3A//www.mirrored.to/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mirrored.to - Upload Your files to multiple hosts
 
-## Privacy Policy
-
 **What data does Mirrored.to store about the files I upload?**
 
-* IP address of the computer from which the upload is started.
-* Timestamp of the upload
-* MD5 checksum of the uploaded file
-* The file URL link entered by the uploader for remote uploads
-* The e-mail address entered by the uploader
+  * IP address of the computer from which the upload is started.
+  * Timestamp of the upload
+  * MD5 checksum of the uploaded file
+  * The file URL link entered by the uploader for remote uploads
+  * The e-mail address entered by the uploader
 
-Data listed above may be shared with third party hosting sites you are uploading to as well. This may be required as part of their terms of service.
 
-All files uploaded to our servers are stored temporarily for delivery and are deleted when they have been uploaded to third-party websites.
+
+Data listed above may be shared with third party hosting sites you are uploading to as well. This may be required as part of their terms of service. All files uploaded to our servers are stored temporarily for delivery and are deleted when they have been uploaded to third-party websites.
 
 **Logging IP Addresses**
 
@@ -46,6 +44,6 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Your consent**
 
-By using our Web site, you consent to the collection and use of these information by Mirrored.to. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you have any questions about this Privacy Policy, [contact us](https://web.archive.org/p/contact).
+By using our Web site, you consent to the collection and use of these information by Mirrored.to. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you have any questions about this Privacy Policy, contact us.
 
 Last update: July 23, 2017
