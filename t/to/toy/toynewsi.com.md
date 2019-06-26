@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toynewsi.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930021624id_/https%3A//enewsi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toynewsi.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626223242id_/https%3A//enewsi.com/privacy.php) for the most accurate reproduction.*
 
 # Pop Culture Entertainment Marvel, Star Wars, Transformers, Iron Man, Batman, Star Trek, Twilight, Harry Potter and more
 
