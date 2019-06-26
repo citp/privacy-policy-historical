@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegasinsider.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213202504id_/http%3A//www.vegasinsider.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasinsider.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626215722id_/http%3A//www.vegasinsider.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for VegasInsider.com.
 
