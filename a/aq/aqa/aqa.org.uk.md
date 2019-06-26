@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2018-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180715194550id_/https%3A//www.aqa.org.uk/about-us/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626124335id_/https%3A//www.aqa.org.uk/about-us/privacy-notice) for the most accurate reproduction.*
 
 # AQA | About us | Privacy notice
 
