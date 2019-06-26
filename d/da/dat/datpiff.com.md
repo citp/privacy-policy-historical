@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datpiff.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206170714id_/https%3A//www.datpiff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datpiff.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222937id_/https%3A//www.datpiff.com/privacy) for the most accurate reproduction.*
 
 # DatPiff :: Privacy Policy
 
@@ -45,6 +45,10 @@ Additionally, when interacting with our website, we may store information to ass
 
 Similar to other Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
 
+**3\. Location Data**
+
+When you access DatPiff through a mobile application, we may collect Geolocation information from you, including proximity to merchants.
+
 How Do We Use the Information That You Provide to Us?
 
 Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional standards designed to safeguard the security and privacy of our customers' personal information. As a customer, you will be given the opportunity, at least once annually, to notify us of your desire not to receive these offers.
@@ -65,7 +69,7 @@ Sharing Information with Affiliates
 
 From time to time you may notice offers from outside companies advertised on our Web site. We take measures to select product or service providers that are responsible and afford privacy protections to their customers. However, we cannot make any representations about the practices and policies of these companies.
 
-We do NOT provide your personal information to these affiliates.
+We may share your geolocation data with affiliates when using our mobile applications.
 
 Sharing Information with Strategic Partners
 
