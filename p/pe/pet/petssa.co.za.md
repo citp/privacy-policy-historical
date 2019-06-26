@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petssa.co.za privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225053022id_/http%3A//www.petssa.co.za/index.php/9-uncategorised/167-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petssa.co.za privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626104423id_/http%3A//www.petssa.co.za/index.php/9-uncategorised/167-privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
