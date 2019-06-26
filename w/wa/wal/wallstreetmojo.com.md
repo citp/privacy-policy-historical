@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wallstreetmojo.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225151915id_/https%3A//www.wallstreetmojo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetmojo.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626141757id_/https%3A//www.wallstreetmojo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wallstreetmojo.com
+
+[Home](https://www.wallstreetmojo.com/) » Privacy Policy
 
 Thank you for visiting Wallstreetmojo.com (hereby referred to “we” or “us”). Wallstreetmojo.com is a personal blog operated by Dheeraj Vaidya. This section details the privacy policy that governs the online information collection practice of wallstreetmojo.com. We believe that Privacy policy should be easily assesible to all and hence, we are making it available on our home page and all places where personal idenfiable information is collected.
 
