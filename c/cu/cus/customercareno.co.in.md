@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customercareno.co.in privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221230801id_/https%3A//www.customercareno.co.in/privacy-policy-p23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customercareno.co.in privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626221044id_/https%3A//www.customercareno.co.in/privacy-policy-p23) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Care Number
 
