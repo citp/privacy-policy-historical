@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530025623id_/https%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626042635id_/https%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for timeanddate.com
 
@@ -78,6 +78,8 @@ When creating an account, you agree to our [terms and conditions](https://web.ar
 
 Our servers are located in the USA, Germany, Singapore, Australia, and Norway. We also rely on third parties to host our services and our infrastructure, and to distribute our content, such as the newsletter.
 
+We take regular backups of our servers. Older backups are stored offline and are only used to recover data after a server crash or other incidents. 
+
 ## Sensitive Information
 
 We have security measures in place. We will never ask for sensitive information. In the GDPR, “sensitive information” is defined as: “personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation.” We recommend you do not add such information to our services, such as calendars, countdowns, or any other timeanddate.com application.
@@ -148,7 +150,7 @@ If you have sent us emails, and you want to delete them, please send an email to
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact:
 
 Time and Date AS  
-PO Box 27 Forus  
-NO-4064 Stavanger  
+Kanalsletta 4  
+NO-4033 Stavanger  
 Norway  
 [webmaster@timeanddate.com](mailto://webmaster@timeanddate.com)
