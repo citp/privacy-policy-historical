@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10web.io privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224210325id_/https%3A//10web.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10web.io privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626172403id_/https%3A//10web.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 10Web
 
@@ -39,7 +39,7 @@ Creating an account and buying a product |
   * Last Name
   * Email Address
   * Password
-  * Credit Card Info (Credit Card Number, Validity Date,CVC, ZIP code for USA Credit Cards)
+  * Credit Card info. Please note that while you are required to input your Credit Card information, your Credit Card data is not collected by Us and is directly sent to Stripe from your browser. Credit Card data required to input Credit Card Number, Validity Date,CVC, ZIP code for USA Credit Cards.
   * Purchase history
 
 | All data is stored in our Platform database, except Credit Card Information, which is directly sent to Stripe to process your payments (Please see details in “Third Party” section). | Personal data is retained until you request us to delete your personal data.  
@@ -62,7 +62,7 @@ Editing Account Information/User Profile | * Note: The additional (additional to
 In case of Avatar picture, an anonymized string created from your email address is provided to the Gravatar service to to get your Profile picture if available (Please see details in “Third Party” section).
 
 | You can delete this information anytime from your account.  
-Adding payment method | Credit Card Info (Credit Card Number, Expiry Date,CVC, ZIP code for USA Credit Cards) | No data is stored on our end. Data is sent directly to Stripe to process your payments (Please see details in “Third Party” section). | Please inform us when you need your payment data to be deleted from Stripe.  
+Adding payment method | Credit Card info. Please note that while you are required to input your Credit Card information, your Credit Card data is not collected by Us and is directly sent to Stripe from your browser. Credit Card data required to input Credit Card Number, Expiry Date,CVC, ZIP code for USA Credit Cards. | No data is stored on our end. Data is sent directly to Stripe to process your payments (Please see details in “Third Party” section). | Please inform us when you need your payment data to be deleted from Stripe.  
   
 #### Subscriptions and Memberships
 
