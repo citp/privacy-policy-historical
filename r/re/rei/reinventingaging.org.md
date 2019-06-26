@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reinventingaging.org privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223080201id_/http%3A//www.reinventingaging.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reinventingaging.org privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626153154id_/http%3A//www.reinventingaging.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Reinventing Aging
 
