@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the reading.ac.uk privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217213024id_/http%3A//www.reading.ac.uk/15/about/about-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reading.ac.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626063401id_/http%3A//www.reading.ac.uk/15/about/about-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy and cookies information – University of Reading
 
 ### about us
 
-This Privacy Notice explains the nature of the personal information that the University collects through our websites. It also explains how your data is used and informs you of your rights under data protection laws.
+This Privacy Notice explains the nature of the personal information that the University collects through our websites, when you provide your details to us at events or via online enquiry forms, from publically available sources, or via third parties that have passed us you contact details as you have expressed an interest in hearing from us. It also explains how your data is used and informs you of your rights under data protection laws.
 
-The University and the Henley Business School are Data Controller ( ** **We or Us**** ) in respect of the information that We process about you. Our contact details are The University of Reading University of Reading, Whiteknights, PO Box 217, Reading, Berkshire, RG6 6AH, United Kingdom. Tel: +44 (0) 118 987 5123.
+The University and the Henley Business School are Data Controller ( **We or Us** ) in respect of the information that We process about you.  Our contact details are The University of Reading University of Reading, Whiteknights, PO Box 217, Reading, Berkshire, RG6 6AH, United Kingdom. Tel: +44 (0) 118 987 5123.
 
-Your privacy is important to Us, so if there is anything in this privacy notice that is unclear or you do not understand, please contact Our Data Protection Officer at: [imps@reading.ac.uk](mailto:imps@reading.ac.uk).
+Your privacy is important to Us, so if there is anything in this privacy notice that is unclear or you do not understand, please contact Our Data Protection Officer at: [imps@reading.ac.uk](mailto:imps@reading.ac.uk)
 
 ### Data we collect about you
 
@@ -24,11 +24,17 @@ We ask you for a range of personal information when you complete our online form
 
 \- To provide you with services, to managing bookings, and administer event requirements 
 
+\- To tailor our communications to you 
+
 \- To manage our websites and troubleshoot any problems
 
 \- To track the effectiveness of our websites and monitor how users interact with them
 
-We will collect information about you if you place an order with Us for a product or service, such as a prospectus, booking a place at a conference or event or subscribing to a newsletter.
+We will collect information about you if you place an order with Us for a product or service, such as a prospectus, booking a place at a conference or event, subscribing to a newsletter or when you make an enquiry
+
+## Information that we collect from other sources
+
+We may receive contact details from third parties or agencies working for us where you have indicated that you would like to hear from Us. We may also collect personal data from publically available sources such as Companies House, LinkedIn or your Organisational websites. Where We do this We will notify you of the source of your personal data when We contact you wherever possible.
 
 ## Automatic Data Collection
 
@@ -42,372 +48,21 @@ The University also uses Google Analytics, a web analytics service provided by G
 
 Cookies are text files placed on your computer to help us analyse how users use our site. A cookie is a small data file able to track the online movements of an individual. This information could potentially be used to build an online profile of individuals and uniquely locate them in the world.
 
-For further information on cookies visit www.allaboutcookies.org or www.aboutcookies.org.
+We use different types of cookies. Some are essential or necessary for the functioning or security of our websites, some analytics cookies are used to help Us to measure the performance of our websites and some are used by Us and third parties to deliver targeted advertising and marketing across other sites that you visit or interact with.
 
-If you prefer not to receive cookies while browsing our website, you can set your browser to refuse cookies that are stored on your computer; the above websites tell you how to do this. You do not need to have cookies turned on to use or navigate through most parts of our website, although some functionality may be lost.
+## Essential/Necessary/Functional Cookies
 
-## Cookies
-
-Our website uses session cookies to ensure that you have a good experience. These cookies contain a unique number, your 'session ID', which allows our server to recognise your computer and 'remember' what you've done on the site. The benefits of this are:
+An example of these cookies are those that allocate your 'session ID'. This allows our server to recognise your computer and 'remember' what you've done on the site. The benefits of this are:
 
 You only need to log in once if you're navigating secure areas of the site 
 
 You are able to use interactive elements of the site, such as forms 
 
-Our server can distinguish between your computer and other users, so you can see the information that you have requested. 
+Our server can distinguish between your computer and other users, so you can see the information that you have requested.
 
-The following table gives details of the different types of cookies that might be used during a session.
+## Performance/Analytics Cookies
 
-#### Type of cookie 
-
-| 
-
-#### Cookie name
-
-| 
-
-#### How long does it stay on my computer? 
-
-| 
-
-#### What is it for?
-
-| 
-
-#### What information does it contain?  
-  
----|---|---|---|---  
-  
-**ASP cookies**
-
-| 
-
-Name begins with ASPSESSIONID
-
-| 
-
-Until you close your browser
-
-| 
-
-Automatically set when visiting any pages running on the ASP platform - essential for the running of web sites using ASP.
-
-| 
-
-This cookie contains a randomly generated number - your session ID  
-  
-**ASP.NET cookies**
-
-| 
-
-ASP.NET_SessionID
-
-| Until you close your browser | 
-
-Essential for some interactive features of the University website such as online forms. It is only put on your computer when you use one of these features. 
-
-Automatically set when visiting any pages running on the ASP platform - essential for the running of web sites using ASP.
-
-| 
-
-This cookie contains a randomly generated number - your session ID  
-  
-**ASP.NET cookie** |  AspNet.Cookies | Until you close your browser | Only used when logging in. Added to the website only after using login forms for My Prospectus, Applicant or Student. | This holds the single sign on token received from UoR through OpenID  
-**ASP.NET Cookie** | cookiebar  | 1 year since created | Automatically set after reading the Cookie Policy.  | Stores the data when it was created.  
-  
-**ASP.NET framework cookie**
-
-| 
-
-ASP.NET_SessionID
-
-| 
-
-Until you close your browser
-
-| 
-
-Automatically set when visiting any pages running on the ASP.NET platform - essential for the running of web sites using ASP.NET. 
-
-| 
-
-This cookie contains a randomly generated number - your session ID  
-  
-**Sitecore Cookie**   | SC_ANALYTICS_GLOBAL_COOKIE | 10 years after browser closes | Identifies repeated visits from a single user. | These cookies store anonymous data on your visit to the website.  
-**Sitecore Cookie**    | SC_ANALYTICS_GLOBAL_SESSION_COOKIE  | 
-
-Until you close your browser
-
-  | Identifies a sequence of requests from a single user. | These cookies store anonymous data on your visit to the website.  
-**Sitecore Cookie**    | mysite#lang  | 
-
-Until you close your browser
-
-| Stores the current site language. Used when switching the site content to a different language. | Current language code.  
-  
-**Java Server Pages (JSP)**
-
-| 
-
-JSESSIONID
-
-| 
-
-Until you close your browser
-
-| 
-
-Automatically set when visiting any pages running on the JSP platform - essential for the running of web sites using JSP.
-
-| 
-
-This cookie contains a randomly generated number - your session ID  
-  
-**PHP cookies**
-
-| 
-
-PHPSESSID
-
-| Until you close your browser | 
-
-Automatically set when visiting any pages running on the PHP platform -essential for the running of web sites using PHP such as our blogs at blogs.reading.ac.uk.
-
-| 
-
-This cookie contains a randomly generated number - your session ID  
-  
-**X-CMS-Server  cookie**
-
-| 
-
-ROUTEID
-
-| 
-
-Until you close your browser
-
-| 
-
-This is given to a user on the first request to a CMS server via the load balancer; it is required to ensure that subsequent request are always forwarded to the same frontend CMS server to maintain sessions.
-
-| 
-
-The cookie will have the value of either .cms1 or .cms2.  
-  
-We know that a lot of visitors to our website use social networking tools, so we have tried to make it easy for you to share our content using these services. We use a button provided by ShareThis to enable this functionality and this button places its own cookies on your machine. We also pull through content from social networks into our own pages, such as embedded Twitter feeds. The social networks, such as Facebook and Twitter, may themselves also put cookies on your machine. We have little control over these 'third party' cookies, so we suggest that you check the respective privacy policies for these external services to help you understand what data these organisations hold about you and what they do with it. For instance, the [Facebook Data Use Policy](http://www.facebook.com/about/privacy/) and the [Twitter privacy policy](https://twitter.com/privacy) give further information about those services.
-
-The following table gives details of some of the third party cookies that can be used and gives links to the appropriate privacy policies for them.
-
-#### Cookie type
-
-| 
-
-#### Cookie name 
-
-| 
-
-#### How long does it stay on my computer? 
-
-| 
-
-#### What is it for? 
-
-| 
-
-#### What information does it contain?  
-  
----|---|---|---|---  
-  
-**Add To Any**
-
-| 
-
-uvc
-
-| 
-
-One day
-
-| 
-
-What is it for: Automatically set when visiting webpage displaying a "add to any" link (social media share link). The cookie is set and used by [https://static.addtoany.com](https://static.addtoany.com/). 
-
-| 
-
-This cookie stores an integer.  
-  
-__utma to __utmz | From one day to indefinite time | 
-
-Automatically set when visiting webpage displaying a "add to any" link (social media share link). The cookie is set and used by [https://static.addtoany.com](https://static.addtoany.com/).
-
-| Internal parameters and URL of the page visited.  
-  
-**campus-directory**
-
-| 
-
-campus_directory_wp_session
-
-| 
-
-One day
-
-| 
-
-Automatically set when visiting webpage displaying a staff directory. The cookie is used to remember a session ID.
-
-| 
-
-This cookie stores the session ID  
-  
-**Facebook**
-
-| 
-
-datr, lu, s, locale, c_user, xs
-
-| 
-
-For two years from when it is set
-
-| 
-
-Allows our pages to be shared and liked on Facebook. Facebook may use these cookies to track how you use the internet across different websites. You can find out more about how Facebook uses your personal data on their [Facebook Data Use Policy](http://www.facebook.com/about/privacy/) pages
-
-| 
-
-Data on how you use the internet, which might be linked to your Facebook username  
-  
-**Google+**
-
-| 
-
-PREF
-
-| 
-
-For two years from when it is set
-
-| 
-
-Allows you to "+1" our content via the Google+ social network. Google may use this cookie to collect other data about your use of the web. You can find out more about how Google uses your personal data on the <http://www.google.com/intl/en/privacypolicy.html>
-
-| 
-
-Data on how you use the internet, which might be linked to your Google username  
-  
-**Hotjar cookie** | _hjClosedSurveyInvites | For one year | 
-
-This cookie is set once a visitor interacts with a Survey invitation modal popup. It is used to ensure that the same invite does not re-appear if it has already been shown
-
-|   
-**Hotjar cookie** | _hjDonePolls | For one year | 
-
-This cookie is set once a visitor completes a poll using the Feedback Poll widget. It is used to ensure that the same poll does not re-appear if it has already been filled in. 
-
-|   
-**Hotjar cookie** | _hjDoneTestersWidgets | For one year | 
-
-This cookie is set once a visitor submits their information in the Recruit User Testers widget. It is used to ensure that the same form does not re-appear if it has already been filled in. 
-
-|   
-**Hotjar cooke** | _hjIncludedInSample | For one year | This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.   
-|    
-**Hotjar cookie** | _hjMinimizedPolls | For one year | This cookie is set once a visitor minimizes a Feedback Poll widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.  |    
-**Hotjar cookie** | _hjMinimizedTestersWidgets | For one year | This cookie is set once a visitor minimizes a Recruit User Testers widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.  |    
-**Hotjar cookie** | _hjShownFeedbackMessage | For one year | This cookie is set when a visitor minimizes or completes Incoming Feedback. This is done so that the Incoming Feedback will load as minimized immediately if they navigate to another page where it is set to show.   
-|    
-  
-**Share This**
-
-| 
-
-_stid
-
-| 
-
-For one year from when it is set
-
-| 
-
-Enables of use of Share This toolbars for sharing web pages on various social networking services. 
-
-| 
-
-Data on how you use the internet, which may be linked to your Share This username  
-  
-_uset | For eight hours from when it is set | 
-
-For more information on how Share This uses your personal data, please see the [ShareThis Privacy Policy](http://sharethis.com/privacy).  
-  
-**Twitter**
-
-| 
-
-pid
-
-| 
-
-For two years from when it is set
-
-| 
-
-Enables use of "Tweet This" buttons allowing you to share a web page via Twitter. Twitter may use these cookies to collect other data about your use of the web. To find out more about how Twitter uses your personal data please see the [Twitter privacy policy](https://twitter.com/privacy) pages.
-
-| 
-
-Data on how you use the internet  
-  
-original_referer
-
-| 
-
-When you close your browser  
-  
-k
-
-| 
-
-For one week from when it is set  
-  
-js
-
-| 
-
-For 30 days from when it is set  
-  
-external_referer
-
-| 
-
-For one day from when it is set  
-  
-**WordPress**
-
-| 
-
-'comment' followed by one of the following suffixes
-
-_author 
-
-_author_email
-
-_author_url
-
-| 
-
-For one year from when they are set
-
-| 
-
-We use the WordPress platform for our blogs. When you comment on a blog post, WordPress will put some cookies on your machine that record the information you type in when you leave your comment. This means that you don't have to retype your details if you want to leave another comment.
-
-Remembers your details when you comment on blogs hosted at blogs.reading.ac.uk. For more information please see the [WordPress Cookies](http://codex.wordpress.org/WordPress_Cookies) page.
-
-|   
-  
-## Google Analytics 
+An example of these cookies is Google Analytics
 
 We use Google Analytics to help us to understand how you make use of our content and work out how we can make things better. These cookies follow your progress through our website, collecting data on where you have come from, which pages you visit, and how long you spend on the site. This data is then stored by Google in order to create reports. These cookies do not store your personal data.
 
@@ -417,11 +72,185 @@ The Google website contains further information about Analytics and a copy of Go
 
 Other parts of the University's website also store cookies on your computer to track user traffic patterns. We do this to see how the website is used, to determine page popularity, to help security and for general statistical purposes. Some of this information may be held on servers in locations outside the EEA. Where personally identifying information is involved, data will only be held in locations that are deemed to have adequate protections for personal data.
 
+## Marketing/Advertising/Third Party Cookies
+
+Some cookies are dropped by parties external to the University, such as social media platforms. These enable the sharing of content via these channels and can also be used to track your interactions with sites visited and use this information to display targeted advertising and marketing to you.
+
+For further information on cookies, including how you can see what cookies have been set and control cookies within your browser visit www.allaboutcookies.org or www.aboutcookies.org.
+
+If you prefer not to receive cookies while browsing our website, you can set your browser to refuse cookies that are stored on your computer; the above websites tell you how to do this. You do not need to have cookies turned on to use or navigate through most parts of our website, although some functionality may be lost.
+
+The following table gives details of the different types of cookies that might be used during a session.
+
+## Necessary/Essential/Functional Cookies
+
+ Cookie name |  Purpose  
+---|---  
+  
+ROUTEID
+
+.cms1
+
+.cms2 | This is given to a user on the first request to a CMS server via the load balancer; it is required to ensure that subsequent request are always forwarded to the same frontend CMS server to maintain sessions.  
+  
+Cookiebar
+
+CookieMessageShown
+
+Test_cookie
+
+| This cookie is used to determine if the user has accepted or declined cookies or whether your browser supports cookies  
+  
+ASPSESSIONID
+
+ASP.NET_SessionID
+
+ASP.NET cookie
+
+Session ID
+
+| 
+
+These cookies automatically set and help perform essential functions and some interactive features of the University website such as online forms or to remember your login. It is only put on your computer when you use one of these features.  
+  
+ mysite#lang |  Stores the current site language. Used when switching the site content to a different language.  
+  
+PHPSESSID
+
+| Used to generate session ID's and enable navigation of some sites, in particular our blog sites  
+HENLEY_CSRF_TOKEN  | This cookie protects against forgery of form on our website and is required for the functioning of form submissions  
+  
+_hjClosedSurveyInvites 
+
+_hjDonePolls
+
+_hjMinimizedPolls
+
+_hjDoneTestersWidgets
+
+_hjMinimizedTestersWidgets
+
+_hjIncludedInSample
+
+_hjShownFeedbackMessage | These cookies perform necessary functions that prevent duplication of survey invites, polls you have already completed and widget minimisation and ensure your feedback is loaded and minimised on subsequent pages  
+  
+SnapABugVisit
+
+SnapABugHistory
+
+SnapABugRef | These cookies are necessary for the functionality of some of our livechat software to identify new user sessions, remember your session history, and identify your landing page and where you have navigated from.  
+  
+## Performance/Analytics cookies
+
+Cookie Name | Purpose  
+---|---  
+  
+_ga
+
+_gid
+
+_dc_gtm_ (prefix)
+
+_gcl_au
+
+| We use Google Analytics to help us to understand how you make use of our content and work out how we can make things better. These cookies follow your progress through our website, collecting data on where you have come from, which pages you visit, and how long you spend on the site. This data is then stored by Google in order to create reports. These cookies do not store your personal data.  
+ nmstat |  This cookie is used to help record visitors' use of the website. This information is then used to improve the user experience on the website. The cookie contains no personal information and is used only for web analytics.  
+  
+SC_ANALYTICS_GLOBAL_COOKIE
+
+SC_ANALYTICS_GLOBAL_SESSION_COOKIE
+
+Siteimproveses (third party)
+
+_cfduid (third party)
+
+| These site improve cookies track repeated visits, sequencing of requests and pages viewed  
+  
+_Utma to _utmz
+
+uvc | These cookies are set when you visit pages that allow share via social media links  
+  
+Wordpress
+
+_author
+
+_author_email
+
+_author_url |  We use the WordPress platform for our blogs. When you comment on a blog post, WordPress will put some cookies on your machine that record the information you type in when you leave your comment. This means that you don't have to retype your details if you want to leave another comment.  
+  
+## Advertising/targeting/remarketing third party cookies
+
+ Cookie name |  Purpose  
+---|---  
+****Facebook****
+
+_fpb, datr, lu, s, locale, c_user, xs
+
+fr | Used to tailor Facebook advertising to you when you visit their site and for our Facebook advertising campaigns  
+**Doubleclick** \- IDE | Used for targeted adverting  
+  
+Anj
+
+Uuid2 | Used for targeted advertising and to measure the effectiveness of advertising campaigns   
+  
+****LinkedIn****
+
+UserMatchHistory
+
+Bcookie
+
+Lang
+
+Lidc
+
+Visit
+
+_chartbeat2
+
+JSESSIONID
+
+sl 
+
+li_at
+
+BizoID 
+
+| Used for targeted and optimised advertising to distinguish first time users.  
+  
+****Snapchat****
+
+sc_at | Used for targeted adverting   
+  ** **Twitter****
+
+Personalization_id
+
+K, js, external referrer
+
+| Allows you to share content via your twitter account and use 'tweet this' buttons  
+  
+****Youtube****
+
+GPS, YSC, PREF, VISITOR_INFO1_LIVE | Keeps track of your preferences, location, viewing history, when using imbedded Youtube videos  
+  
+We know that a lot of visitors to our website use social networking tools, so we have tried to make it easy for you to share our content using these services. We use a button provided by ShareThis to enable this functionality and this button places its own cookies on your machine. We also pull through content from social networks into our own pages, such as embedded Twitter feeds. The social networks, such as Facebook and Twitter, may themselves also put cookies on your machine. We have little control over these 'third party' cookies, so we suggest that you check the respective privacy policies for these external services to help you understand what data these organisations hold about you and what they do with it. For instance, the [Facebook Data Use Policy](http://www.facebook.com/about/privacy/) and the [Twitter privacy policy](https://twitter.com/privacy) give further information about those services.
+
+The following table gives details of some of the third party cookies that can be used and gives links to the appropriate privacy policies for them.
+
 ### Legal basis for processing your personal information
 
-Where you provide personal information in order for us to contact you or provide you with services, such as subscribing to a newsletter or joining a mailing list this will be with your consent.
+Where you provide personal information in order for us to contact you or provide you with optional information, such as subscribing to an electronic newsletter, joining an email mailing list, or subscribing to SMS updates we will be processing your personal data on the basis of your consent.
+
+Where you provide personal information for the purposes of booking or applying for a course, booking onto an event, or making a purchase We will be processing your data for the purposes of administering a contract with you and in order to deliver those services to you.
+
+Where We use your corporate or business contact details to contact you with information We think may be of interest to you We will be processing your data on the basis of legitimate interests, for the performance of our public tasks, or with your consent.
+
+When We use your personal postal mail address or contact telephone number (s) to contact you with information We will be processing your data on the basis of legitimate interests, for the performance of our public tasks, or with your consent.
+
+Where you provide Us with special category (sensitive data) including information on your ethnicity, disability or medical conditions, for example, for the purposes of arranging accessibility or dietary needs, We will be processing your data on the basis of your consent, or for the purposes of equal opportunities monitoring or the performance of statutory duties under the equality act.
 
 Where We use your information to manage our websites and troubleshoot any problems, or to track the effectiveness of our websites and monitor how users interact with them this will be on the basis of our legitimate interests.
+
+Where We are required by law We will process your data on the basis of a legal obligation.
 
 ### who we may share your data with
 
@@ -459,7 +288,7 @@ Under data protection law you have the right to:
 
 Please see the ICO website for further information on the above rights:
 
-[_https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/_](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/)
+_[_https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/_](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/)_
 
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, We may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, We may refuse to comply with your request in these circumstances.
 
@@ -477,17 +306,17 @@ If there is anything in this notice that you are unclear about, please contact o
 
 By mail: Information Management and Policy Services, The University of Reading, Whiteknights, PO Box 217, Reading RG6 6AH
 
-By email: [_imps@reading.ac.uk_](mailto:imps@reading.ac.uk)
+By email: _[_imps@reading.ac.uk_](mailto:imps@reading.ac.uk)_
 
 By phone: 0118 378 8981
 
 Complaints can be referred to the Information Commissioners Office, the independent body who oversee Data Protection compliance in the UK.
 
-Email: [_casework@ico.gsi.gov.uk_](mailto:casework@ico.gsi.gov.uk)
+Email: _[_casework@ico.gsi.gov.uk_](mailto:casework@ico.gsi.gov.uk)_
 
 ### changes to this notice
 
-We keep our privacy notice under regular review to ensure best practice and compliance with the law. This privacy notice was last updated on 21/05/2018 
+We keep our privacy notice under regular review to ensure best practice and compliance with the law. This privacy notice was last updated on 10/05/2019 
 
 We may change this privacy notice from time to time. If We make significant changes in the way we treat your personal information We will make this clear on [_https://www.reading.ac.uk/_](https://www.reading.ac.uk/) and may also inform you directly. 
 
