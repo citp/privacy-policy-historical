@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megabrands.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228014732id_/http%3A//corporate.mattel.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megabrands.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626045255id_/http%3A//corporate.mattel.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Mattel Online Privacy Statement
 
@@ -245,7 +245,7 @@ We collect [_information_](https://web.archive.org/privacy-statement#anchor-1):Â
 
 
 
-Please visit [ABOUT COOKIES AND TECHNOLOGIES](https://web.archive.org/privacy-statement#anchor-8) for more information on technologies used to collect your information automatically.
+Please visit [ABOUT COOKIES AND TECHNOLOGIES](https://www.mattel.com/en-us/about-cookies-and-technologies) for more information on technologies used to collect your information automatically.
 
 | 
 
@@ -480,7 +480,7 @@ When you place an order or register on a [_Mattel Service_](https://web.archive.
 
   * We work with [_third-party partners_](https://web.archive.org/privacy-statement#anchor-1) to offer [_Mattel Services_](https://web.archive.org/privacy-statement#anchor-1). We ask them to carefully handle [_information_](https://web.archive.org/privacy-statement#anchor-1) that is entrusted to them.
 
-  * We also work with [_third-party technology partners_](https://web.archive.org/privacy-statement#anchor-1) to provide content, understand our users, and deliver advertising on our [_Mattel Sites_](https://web.archive.org/privacy-statement#anchor-1) and on [_third-party_](https://web.archive.org/privacy-statement#anchor-1) sites. Read more at [About Cookies and Technologies](https://web.archive.org/privacy-statement#anchor-8), and find out about tools are available to help you control some of these technologies at the [Third-Party Technology List](https://www.mattel.com/sites/mattel_mattelcom/files/2018-07/2018-07-25%20Mattel%20CLEAN%20List%20of%20partners%20%20tools.pdf) and the Mobile Third-Party Technology List.
+  * We also work with [_third-party technology partners_](https://web.archive.org/privacy-statement#anchor-1) to provide content, understand our users, and deliver advertising on our [_Mattel Sites_](https://web.archive.org/privacy-statement#anchor-1) and on [_third-party_](https://web.archive.org/privacy-statement#anchor-1) sites. Read more at [About Cookies and Technologies](https://www.mattel.com/en-us/about-cookies-and-technologies), and find out about tools are available to help you control some of these technologies at the [Third-Party Technology List](https://www.mattel.com/sites/mattel_mattelcom/files/2018-07/2018-07-25%20Mattel%20CLEAN%20List%20of%20partners%20%20tools.pdf) and the [Mobile Third-Party Technology List.](https://www.mattel.com/sites/mattel_mattelcom/files/2019-01/Mobile%20Third%20Party%20cookies%20and%20other%20technologies%201-15-19.pdf)
 
 
 
