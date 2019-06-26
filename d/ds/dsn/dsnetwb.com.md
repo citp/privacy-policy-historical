@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsnetwb.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213111846id_/http%3A//www.atube.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsnetwb.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626131559id_/http%3A//www.atube.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – aTube Catcher Official Web Site
 
