@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justcause3mods.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222222001id_/https%3A//vgmods.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justcause3mods.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626211223id_/https%3A//vgmods.net/privacy-policy) for the most accurate reproduction.*
 
 # Video Game Mods
 
