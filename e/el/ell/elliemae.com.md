@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the elliemae.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218110240id_/https%3A//www.elliemae.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliemae.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626152539id_/https%3A//www.elliemae.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ellie Mae
-
-__ **Experience 19 is coming!** Join us in San Francisco to discover, think big and pave the road ahead...  **Experience 19 is coming!**   
-Join us in San Francisco  [ **Register Today** __](https://experience.elliemae.com/?utm_source=website&utm_content=exp19_general_reg)
 
 [ ](https://www.elliemae.com/privacy-policy "Privacy Policy")
 
