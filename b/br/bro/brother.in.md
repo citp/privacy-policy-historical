@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brother.in privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126034020id_/http%3A//www.brother.in/en/contents/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brother.in privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626135753id_/https%3A//www.brother.in/en/contents/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Brother India
 
