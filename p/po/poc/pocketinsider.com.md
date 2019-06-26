@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketinsider.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106202553id_/http%3A//www.pocketinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketinsider.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626213851id_/https%3A//pocketinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pocket Insider
 
@@ -32,4 +32,4 @@ Pocket Insider uses additional third-party advertising companies to serve ads wh
 
 The contents of this policy may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Pocket Insider, you may contact us [here](http://www.pocketinsider.com/contact-us/).
+If you have any questions regarding the privacy policy of Pocket Insider, you may contact us [here](http://pocketinsider.com/contact-us/).
