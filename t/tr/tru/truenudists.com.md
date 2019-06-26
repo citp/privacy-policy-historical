@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truenudists.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904220549id_/https%3A//www.truenudists.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truenudists.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626165240id_/https%3A//www.truenudists.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - True Nudists
 
