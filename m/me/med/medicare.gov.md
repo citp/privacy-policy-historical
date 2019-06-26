@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicare.gov privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203180651id_/https%3A//www.medicare.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicare.gov privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222603id_/https%3A//www.medicare.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Medicare
 
@@ -211,7 +211,7 @@ We use third-party tools to support our digital advertising outreach and educati
 
 Third-party vendors engaged by us may also target advertising based on information automatically collected (not information you provide) when you browse our websites or other websites on the internet. You can opt out of this type of data collection via our Privacy Manager, Ad Choices, and Do Not Track. For methods to opt out of this type of collection, see Your choices about tracking & data collection on Medicare.gov.
 
-We may consider new third-party tools or the use of new third-party websites, but we'll first assess the tool or website before it’s used in connection with Medicare.gov. We'll provide notice to the public before adding any new tool to Medicare.gov. These assessments include a description about how information will be collected, accessed, secured, and stored. [See a list of the third-party tools currently being used on Medicare.gov](https://web.archive.org/third-party-privacy-policies "Privacy information regarding third-party services:"). [See risk assessments for third-party websites and applications](https://www.hhs.gov/pia/index)[.](https://web.archive.org/third-party-privacy-policies "Privacy information regarding third-party services:")
+We may consider new third-party tools or the use of new third-party websites, but we'll first assess the tool or website before it’s used in connection with Medicare.gov. We'll provide notice to the public before adding any new tool to Medicare.gov. These assessments include a description about how information will be collected, accessed, secured, and stored. [See a list of the third-party tools currently being used on Medicare.gov](https://web.archive.org/third-party-privacy-policies "Privacy information regarding third-party services:"). [See risk assessments for third-party websites and applications](https://www.hhs.gov/pia/).
 
 ## How CMS protects your personal information
 
