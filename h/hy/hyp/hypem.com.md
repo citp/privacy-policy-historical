@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121001041id_/https%3A//hypem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626195412id_/https%3A//hypem.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Hype Machine
 
 The best place to find new music on the web. Every day, thousands of people around the world write about music they love — and it all ends up here. 
 
-The Hype Machine Inc. ("Hype Machine") knows that you care about how your personal information is used and shared, and we take this seriously. By visiting the Hype Machine website ([https://hypem.com](https://hypem.com/), the "Site"), or using our mobile apps ([iOS](https://web.archive.org/iphone), [Android](https://web.archive.org/android)), you are accepting the practices outlined in this Privacy Policy.
+By visiting The Hype Machine Inc. ("Hype Machine") website ([https://hypem.com](https://hypem.com/), the "Site"), or using our mobile apps ([iOS](https://web.archive.org/iphone), [Android](https://web.archive.org/android)), you are accepting the practices outlined in this Privacy Policy.
 
 ## Summary
 
