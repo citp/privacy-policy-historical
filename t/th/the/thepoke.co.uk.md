@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepoke.co.uk privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121000741id_/https%3A//www.thepoke.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepoke.co.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626195242id_/https%3A//www.thepoke.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy The Poke
 
