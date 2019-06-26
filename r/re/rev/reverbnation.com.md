@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121181031id_/https%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626221340id_/https%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
 
 # ReverbNation Privacy Policy
 
@@ -157,6 +157,15 @@ Morrisville, NC 27560
 
 
 For individuals who reside in the European Economic Area or Switzerland, if you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: privacy@reverbnation.com. Physical inquiries can be sent to the following address: 
+
+  * BM Data Services Ltd
+  * 40 Oxford Road
+  * High Wycombe
+  * HP11 2EE
+  *  
+  * Attn: James Simpson
+
+
 
 #### DISPUTES
 
