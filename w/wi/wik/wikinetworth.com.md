@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wikinetworth.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213213115id_/http%3A//wikinetworth.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikinetworth.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627003759id_/http%3A//wikinetworth.com/privacy-policy.html) for the most accurate reproduction.*
 
-# WikiNetworth | Celebrity Gossip, Entertainment, News and Net Worth Privacy Policy
+# WikiNetworth | Celebrity Gossip, Entertainment, News and Net Worth - Privacy Policy
 
 This Privacy Policy oversees and governs the way [wikinetworth.com](http://wikinetworth.com/) gathers, uses, keeps and unveils data gathered from its clients. The privacy policy applies to the Site, its items, and features offered by the website.
 
