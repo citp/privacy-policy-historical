@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinseks.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226155800id_/http%3A//tinseks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinseks.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626120757id_/http%3A//tinseks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy *** tinseks.com
 
@@ -30,4 +30,4 @@ You can access all your personally identifiable information that we collect onli
 granting access or making corrections.
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please send us an email at: [support@tinseks.com](https://web.archive.org/web/20181226155800id_/http%3A//tinseks.com/support.html).
+Should you have other questions or concerns about these privacy policies, please send us an email at: [support@tinseks.com](https://web.archive.org/web/20190626120757id_/http%3A//tinseks.com/support.html).
