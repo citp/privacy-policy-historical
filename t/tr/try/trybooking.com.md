@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trybooking.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126123959id_/https%3A//www.trybooking.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trybooking.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626082020id_/https%3A//www.trybooking.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TryBooking.com
+# Privacy Policy | TryBooking Australia
 
 Please read this privacy policy carefully before using the TryBooking website.
 
@@ -71,7 +71,7 @@ Our website also uses cookies to assist in providing our services to all Users o
 
 Cookies are small files that store information on your computer, TV, mobile phone or other device. They enable the entity that put the cookie on your device to recognise you across different websites, services, devices and/or browsing sessions. You can change your cookie settings via your browser settings.
 
-For more information on the cookies we collect, please see our [cookie policy](https://web.archive.org/web/20181126123959id_/https%3A//www.trybooking.com/info/cookie-policy).
+For more information on the cookies we collect, please see our [cookie policy](https://web.archive.org/web/20190626082020id_/https%3A//www.trybooking.com/info/cookie-policy).
 
 **Processing and disclosure of Personal Information**
 
@@ -101,7 +101,7 @@ By submitting your contact details through our website, you consent to us displa
 
 **Third parties and sub-processors**
 
-We may disclose Personal Information to third party service providers (including IT service providers, data storage and handling facilities, payment systems operators, mail houses and legal or financial advisers) to the extent necessary for them to assist us in providing services to you. We engage service providers who do not use or disclose your Personal Information for any purpose other than the services for which they are engaged to provide. Please see our list of [sub-processors](https://web.archive.org/web/20181126123959id_/https%3A//www.trybooking.com/info/subprocessor-list) for more information.
+We may disclose Personal Information to third party service providers (including IT service providers, data storage and handling facilities, payment systems operators, mail houses and legal or financial advisers) to the extent necessary for them to assist us in providing services to you. We engage service providers who do not use or disclose your Personal Information for any purpose other than the services for which they are engaged to provide. Please see our list of [sub-processors](https://web.archive.org/web/20190626082020id_/https%3A//www.trybooking.com/info/subprocessor-list) for more information.
 
 We may disclose Personal Information to other persons or organisations if required to do so by the order of a court or tribunal or if the disclosure is otherwise authorised or required by law. For example, Personal Information may be disclosed where it is necessary to eliminate or minimise a risk to public health or safety, investigate or deal with unlawful activity or serious misconduct or establish or defend a legal claim.
 
