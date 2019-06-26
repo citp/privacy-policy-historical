@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagold.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607062622id_/http%3A//www.usagold.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagold.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626171108id_/https%3A//www.usagold.com/legal/privacy.html) for the most accurate reproduction.*
 
 # USAGOLD Privacy Policy
 
