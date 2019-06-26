@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aei.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221110309id_/http%3A//www.aei.org/about/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aei.org privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626142652id_/https%3A//www.aei.org/about/terms-of-use) for the most accurate reproduction.*
 
 # Terms Of Use
 
@@ -26,7 +26,7 @@ We may share with third parties certain pieces of aggregated, non-personal infor
 
 Privacy Contact Information
 
-For any issues related to AEI’s Privacy Policy, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7b0c1e19161a080f1e093b1a1e125514091c) by e-mail or call 202-862-5800 and ask to speak to the webmaster.
+For any issues related to AEI’s Privacy Policy, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1b6c7e79767a686f7e695b7a7e723574697c) by e-mail or call 202-862-5800 and ask to speak to the webmaster.
 
 Commitment to Data Security
 
