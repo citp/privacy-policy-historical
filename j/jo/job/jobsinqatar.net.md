@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsinqatar.net privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225030553id_/http%3A//www.jobsinqatar.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinqatar.net privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626233701id_/http%3A//www.jobsinqatar.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Jobs in Qatar
+# Privacy Policy - Jobs in qatar | Jobs in Doha | Qatar jobs | jobs vacancies in qatar
 
 ## Who we are
 
