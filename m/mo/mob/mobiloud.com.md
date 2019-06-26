@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiloud.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202025603id_/http%3A//www.mobiloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiloud.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626140804id_/http%3A//www.mobiloud.com/privacy) for the most accurate reproduction.*
 
 # MobiLoud - Privacy Policy
 
@@ -42,7 +42,7 @@ Fifty Pixels Ltd, 209 High Road, N2 8AN London
 
 ## Types of Data collected
 
-Among the types of Personal Data that MobiLoud collects, by itself or through third parties, there are: first name, last name, phone number, email address, VAT Number, company name, address, country, state, province, ZIP/Postal code, various types of Data, city, User ID, website, Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and geographic position. 
+Among the types of Personal Data that MobiLoud collects, by itself or through third parties, there are: first name; last name; phone number; email address; VAT Number; company name; address; country; state; province; ZIP/Postal code; various types of Data; city; User ID; website; Cookies; Usage Data; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); geographic position. 
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using MobiLoud.  
@@ -117,7 +117,7 @@ The services contained in this section enable the Owner to monitor and analyze w
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of MobiLoud, to prepare reports on its activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en). 
 
@@ -125,7 +125,7 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 
 MixPanel is an analytics service provided by Mixpanel Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://mixpanel.com/privacy/) – [Opt Out](https://mixpanel.com/optout/). 
 
@@ -133,38 +133,39 @@ Place of processing: US – [Privacy Policy](https://mixpanel.com/privacy/) – 
 
 Wordpress Stats is an analytics service provided by Automattic Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://automattic.com/privacy/). 
 
-#### Facebook Ads conversion tracking (Facebook, Inc.)
+#### Facebook Ads conversion tracking (Facebook pixel) (Facebook, Inc.)
 
-Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. that connects data from the Facebook advertising network with actions performed on MobiLoud.
+Facebook Ads conversion tracking (Facebook pixel) is an analytics service provided by Facebook, Inc. that connects data from the Facebook advertising network with actions performed on MobiLoud. The Facebook pixel tracks conversions that can be attributed to ads on Facebook, Instagram and Audience Network.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
-Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/). 
+Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/). Privacy Shield participant. 
 
 #### Google Analytics for Firebase (Google Inc.)
 
-Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google Inc. **In order to understand Google's use of Data, consult[Google's partner policy](https://www.google.com/policies/privacy/partners/)**.
+Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google Inc.  
+**In order to understand Google's use of Data, consult[Google's partner policy](https://www.google.com/policies/privacy/partners/)**.
 
 Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the Owner.
 
-MobiLoud uses identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS, respectively) and technologies similar to cookies to run the Firebase Analytics service.
+MobiLoud uses identifiers for mobile devices and technologies similar to cookies to run the Firebase Analytics service.
 
 Users may opt-out of certain Firebase features through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other Firebase related sections of this privacy policy, if available.
 
-Personal Data collected: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data. 
+Personal Data collected: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data. 
 
-Place of processing: USA – [Privacy Policy](https://www.google.com/policies/privacy/). 
+Place of processing: USA – [Privacy Policy](https://www.google.com/policies/privacy/). Privacy Shield participant. 
 
 #### Hotjar Form Analysis & Conversion Funnels (Hotjar Ltd.)
 
 Hotjar is an analytics service provided by Hotjar Ltd.  
 Hotjar honors generic Do Not Track headers. This means your browser can tell its script not to collect any of your data. This is a setting that is available in all major browsers. Find Hotjar’s [opt-out information here](https://www.hotjar.com/opt-out).
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: Malta – [Privacy Policy](https://www.hotjar.com/privacy) – [Opt Out](https://www.hotjar.com/opt-out). 
 
@@ -172,7 +173,7 @@ Place of processing: Malta – [Privacy Policy](https://www.hotjar.com/privacy) 
 
 Google Ads conversion tracking is an analytics service provided by Google Inc. that connects data from the Google Ads advertising network with actions performed on MobiLoud.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). Privacy Shield participant. 
 
@@ -180,7 +181,7 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 
 Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.
 
-Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: Usage Data; various types of Data as specified in the privacy policy of the service. 
 
 Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/). 
 
@@ -188,7 +189,7 @@ Place of processing: US – [Privacy Policy](https://www.facebook.com/about/priv
 
 Woopra is an analytics service provided by Woopra Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.woopra.com/privacy/). 
 
@@ -202,7 +203,7 @@ For details of which data are collected, please refer to the privacy policy of e
 
 Lead Dyno is a commercial affiliation service provided by LeadDyno, LLC.
 
-Personal Data collected: Cookies, email address, first name, last name and Usage Data. 
+Personal Data collected: Cookies; email address; first name; last name; Usage Data. 
 
 Place of processing: USA – [Privacy Policy](http://www.leaddyno.com/terms-of-service/). 
 
@@ -212,13 +213,13 @@ Place of processing: USA – [Privacy Policy](http://www.leaddyno.com/terms-of-s
 
 By filling in the contact form with their Data, the User authorizes MobiLoud to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
 
-Personal Data collected: address, city, company name, country, email address, first name, last name, phone number, province, state, User ID, various types of Data, VAT Number, website and ZIP/Postal code. 
+Personal Data collected: address; city; company name; country; email address; first name; last name; phone number; province; state; User ID; various types of Data; VAT Number; website; ZIP/Postal code. 
 
 #### Mailing List or Newsletter (MobiLoud)
 
 By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning MobiLoud. Your email address might also be added to this list as a result of signing up to MobiLoud or after making a purchase.
 
-Personal Data collected: email address, first name, last name and phone number. 
+Personal Data collected: email address; first name; last name; phone number. 
 
 #### Phone contact (MobiLoud)
 
@@ -236,7 +237,7 @@ If a content commenting service provided by third parties is installed, it may s
 
 Disqus is a content commenting service provided by Big Heads Labs Inc.
 
-Personal Data collected: Cookies, Usage Data and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: Cookies; Usage Data; various types of Data as specified in the privacy policy of the service. 
 
 Place of processing: US – [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) – [Opt out](https://help.disqus.com/customer/portal/articles/1657951). 
 
@@ -244,7 +245,7 @@ Place of processing: US – [Privacy Policy](https://help.disqus.com/customer/po
 
 Facebook Comments is a content commenting service provided by Facebook, Inc. enabling the User to leave comments and share them on the Facebook platform.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation). 
 
@@ -252,7 +253,7 @@ Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/ex
 
 MobiLoud has its own internal content comment system.
 
-Personal Data collected: Cookies, email address, first name, last name and website. 
+Personal Data collected: Cookies; email address; first name; last name; website. 
 
 ### Displaying content from external platforms
 
@@ -263,7 +264,7 @@ This type of service might still collect web traffic data for the pages where th
 
 YouTube is a video content visualization service provided by Google Inc. that allows MobiLoud to incorporate content of this kind on its pages.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/). 
 
@@ -272,7 +273,7 @@ Place of processing: US – [Privacy Policy](http://www.google.it/intl/en/polici
 Gravatar is an image visualization service provided by Automattic Inc. that allows MobiLoud to incorporate content of this kind on its pages.  
 Please note that if Gravatar images are used for comment forms, the commenter's email address or parts of it may be sent to Gravatar - even if the commenter has not signed up for that service.
 
-Personal Data collected: email address and Usage Data. 
+Personal Data collected: email address; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://automattic.com/privacy/). 
 
@@ -280,7 +281,7 @@ Place of processing: US – [Privacy Policy](https://automattic.com/privacy/).
 
 Vimeo is a video content visualization service provided by Vimeo, LLC that allows MobiLoud to incorporate content of this kind on its pages.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://vimeo.com/privacy). 
 
@@ -309,11 +310,11 @@ This type of services has the purpose of hosting data and files that enable Mobi
 
 #### Amazon Web Services (AWS) (Amazon)
 
-Amazon Web Services is a hosting and backend service provided by Amazon.com Inc.
+Amazon Web Services (AWS) is a hosting and backend service provided by Amazon.
 
 Personal Data collected: various types of Data as specified in the privacy policy of the service. 
 
-Place of processing: See the Amazon privacy policy – [Privacy Policy](https://aws.amazon.com/privacy/). 
+Place of processing: See the Amazon privacy policy – [Privacy Policy](https://aws.amazon.com/privacy/). Privacy Shield participant. 
 
 #### Google Cloud Storage (Google Inc.)
 
@@ -330,17 +331,17 @@ Which Personal Data are processed depends on the characteristics and mode of imp
 
 #### Firebase Performance Monitoring (Google Inc.)
 
-Firebase Performance Monitoring is a monitoring service provided by Google, Inc.
+Firebase Performance Monitoring is a monitoring service provided by Google Inc.
 
 Personal Data collected: various types of Data as specified in the privacy policy of the service. 
 
-Place of processing: USA – [Privacy Policy](https://www.google.com/policies/privacy/). 
+Place of processing: USA – [Privacy Policy](https://www.google.com/policies/privacy/). Privacy Shield participant. 
 
 #### Crashlytics (Google Inc.)
 
 Crashlytics is a monitoring service provided by Google Inc.
 
-Personal Data collected: geographic position, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: geographic position; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); various types of Data as specified in the privacy policy of the service. 
 
 Place of processing: US – [Privacy Policy](https://try.crashlytics.com/terms/privacy-policy.pdf). 
 
@@ -348,13 +349,14 @@ Place of processing: US – [Privacy Policy](https://try.crashlytics.com/terms/p
 
 This type of service allows interaction with social networks or other external platforms directly from the pages of MobiLoud.  
 The interaction and information obtained through MobiLoud are always subject to the User’s privacy settings for each social network.  
-This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.
+This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.  
+It is recommended to log out from the respective services in order to make sure that the processed data on MobiLoud isn’t being connected back to the User’s profile.
 
 #### Facebook Like button and social widgets (Facebook, Inc.)
 
 The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation). 
 
@@ -368,23 +370,25 @@ In addition to any opt out offered by any of the services below, the User may op
 
 Perfect Audience is an advertising service provided by NowSpots, Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.perfectaudience.com/privacy) – [Opt Out](https://www.perfectaudience.com/privacy/index.html#opt-out). 
 
-#### AdWords Remarketing (Google Inc.)
+#### Google Ads Remarketing (Google Inc.)
 
-AdWords Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that connects the activity of MobiLoud with the Adwords advertising network and the Doubleclick Cookie.
+Google Ads Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that connects the activity of MobiLoud with the Google Ads advertising network and the DoubleClick Cookie.
 
-Personal Data collected: Cookies and Usage Data. 
+Users can opt out of Google's use of cookies for ads personalization by visiting Google's [Ads Settings](https://adssettings.google.com/authenticated).
 
-Place of processing: US – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). 
+Personal Data collected: Cookies; Usage Data. 
+
+Place of processing: US – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). Privacy Shield participant. 
 
 #### Facebook Remarketing (Facebook, Inc.)
 
 Facebook Remarketing is a remarketing and behavioral targeting service provided by Facebook, Inc. that connects the activity of MobiLoud with the Facebook advertising network.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/). 
 
@@ -392,17 +396,17 @@ Place of processing: US – [Privacy Policy](https://www.facebook.com/about/priv
 
 Facebook Custom Audience is a remarketing and behavioral targeting service provided by Facebook, Inc. that connects the activity of MobiLoud with the Facebook advertising network.
 
-Personal Data collected: Cookies and email address. 
+Personal Data collected: Cookies; email address. 
 
 Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/). 
 
-#### Remarketing through Google Analytics for Display Advertising (Google Inc.)
+#### Remarketing with Google Analytics (Google Inc.)
 
-Google Analytics for Display Advertising is a remarketing and behavioral targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Adwords advertising network and the Doubleclick Cookie.
+Remarketing with Google Analytics is a remarketing and behavioral targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Google Ads advertising network and the Doubleclick Cookie.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
-Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). 
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). Privacy Shield participant. 
 
 ### Tag Management
 
@@ -413,7 +417,7 @@ This results in the Users' Data flowing through these services, potentially resu
 
 Segment is a tag management service provided by Segment.io, Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://segment.com/docs/legal/privacy/). Privacy Shield participant. 
 
@@ -421,7 +425,7 @@ Place of processing: US – [Privacy Policy](https://segment.com/docs/legal/priv
 
 Google Tag Manager is a tag management service provided by Google LLC.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). 
 
@@ -436,7 +440,7 @@ Considering the widespread distribution of this system, it is difficult to deter
 Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.  
 The way Cloudflare is integrated means that it filters all the traffic through MobiLoud, i.e., communication between MobiLoud and the User's browser, while also allowing analytical data from MobiLoud to be collected.
 
-Personal Data collected: Cookies and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: Cookies; various types of Data as specified in the privacy policy of the service. 
 
 Place of processing: US – [Privacy Policy](https://www.cloudflare.com/security-policy/). 
 
@@ -449,7 +453,7 @@ Some of these services may also enable the sending of timed messages to the User
 
 Intercom is a User database management service provided by Intercom Inc. Intercom can also be used as a medium for communications, either through email, or through messages within our product(s).
 
-Personal Data collected: email address and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: email address; various types of Data as specified in the privacy policy of the service. 
 
 Place of processing: US – [Privacy Policy](https://docs.intercom.io/pricing-and-terms/privacy). 
 
@@ -457,7 +461,7 @@ Place of processing: US – [Privacy Policy](https://docs.intercom.io/pricing-an
 
 HubSpot CRM is a User database management service provided by HubSpot, Inc.
 
-Personal Data collected: email address, phone number and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: email address; phone number; various types of Data as specified in the privacy policy of the service. 
 
 Place of processing: US – [Privacy Policy](https://www.hubspot.com/legal/privacy-policy). 
 
