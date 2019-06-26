@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the submitbookmark.info privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227043859id_/http%3A//submitbookmark.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitbookmark.info privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626155638id_/http%3A//submitbookmark.info/privacy) for the most accurate reproduction.*
 
 # privacy – submitbookmark
 
 #### Effective May 26, 2018
 
-If you have any questions about our Privacy Policy, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and include ‘Privacy Policy’ in the subject line.
+If you have any questions about our Privacy Policy, you can contact us at privacy@ and include ‘Privacy Policy’ in the subject line.
 
   1. Privacy Policy Overview
   2. What Categories of Information We May Process
@@ -259,7 +259,7 @@ The Services contain links to other sites or partners whose information practice
 
 Because of the international nature of our business, we may need to transfer your User Information within the group of companies, and to third parties as noted in Section 9 above, in connection with the purposes set out in this Policy. For this reason, we may transfer your User Information to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located.
 
-participate in and have certified its compliance with the E.U.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. is committed to subjecting all Personal Information received from European Union (E.U.) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, please visit the U.S. Department of Commerce’s [Privacy Shield](https://www.privacyshield.gov/list) List. is responsible for the processing of Personal Information it receives under the Privacy Shield Framework and subsequent transfers to a third party acting as an agent on its behalf. complies with the Privacy Shield principles for all onward transfers of Personal Information from the E.U. and Switzerland, including the onward transfer liability provisions. With respect to Personal Information received or transferred pursuant to the Privacy Shield Framework, is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you are a European individual with a privacy related complaint, concern or question about ’ privacy practices, please contact us by writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) **(must include “Privacy Policy” in the subject line)** and we will respond within a reasonable time after receiving your request. Under certain conditions, more fully described on the Privacy Shield website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+participate in and have certified its compliance with the E.U.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. is committed to subjecting all Personal Information received from European Union (E.U.) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, please visit the U.S. Department of Commerce’s [Privacy Shield](https://www.privacyshield.gov/list) List. is responsible for the processing of Personal Information it receives under the Privacy Shield Framework and subsequent transfers to a third party acting as an agent on its behalf. complies with the Privacy Shield principles for all onward transfers of Personal Information from the E.U. and Switzerland, including the onward transfer liability provisions. With respect to Personal Information received or transferred pursuant to the Privacy Shield Framework, is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you are a European individual with a privacy related complaint, concern or question about ’ privacy practices, please contact us by writing to privacy@ **(must include “Privacy Policy” in the subject line)** and we will respond within a reasonable time after receiving your request. Under certain conditions, more fully described on the Privacy Shield website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 Where we transfer your Personal Information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using the contact details provided in Section 17 below.
 
@@ -351,22 +351,22 @@ We recommend that you review our Terms of Use regularly, in order to review any 
 
 > **Summary – Contact Details**
 > 
-> You may contact us at the addresses set out below or by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+> You may contact us at the addresses set out below or by emailing privacy@
 > 
 > Attention: Legal Department  
 > 114 Fifth Avenue, 15th Floor  
 > New York, NY 10011
 > 
-> If you are an EU resident, you may contact our Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+> If you are an EU resident, you may contact our Data Protection Officer at dpo@
 
 If you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of User Information carried out by us, or on our behalf, please contact:
 
 > Attention: Legal Department  
 > 114 Fifth Avenue, 15th Floor  
 > New York, NY 10011  
-> [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+> privacy@
 
-Our Data Protection Officer may be contacted at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Our Data Protection Officer may be contacted at dpo@.
 
 If you have an unresolved concern regarding your privacy or our use of data that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) by clicking [here](https://feedback-form.truste.com/watchdog/request).
 
