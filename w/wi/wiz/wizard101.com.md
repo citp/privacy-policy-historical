@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizard101.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121000833id_/https%3A//www.wizard101.com/game/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizard101.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626195322id_/https%3A//www.wizard101.com/game/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Wizard101 Wizard Online Game
 
