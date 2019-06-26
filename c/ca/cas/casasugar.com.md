@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the casasugar.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220630id_/https%3A//www.popsugar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casasugar.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626234702id_/https%3A//www.popsugar.com/privacy) for the most accurate reproduction.*
 
 # POPSUGAR Privacy Policy
 
-**Effective Date: November 26, 2018**
+**Effective Date: January 25, 2019**
 
 **UPDATED PRIVACY POLICY**
 
@@ -14,7 +14,7 @@ We may change this policy from time to time and will notify you by revising the 
 
 ### Personal Information
 
-We may collect "personally identifiable" information, which means information that might reasonably be used to specifically identify you and may include information such as the following (collectively, **"Personal Information"** ):
+We may collect or receive "personally identifiable" information, which means information that might reasonably be used to specifically identify you and may include information such as the following (collectively, **"Personal Information"** ):
 
 * Contact information such as your name, postal address, email address, phone number and/or mobile number;
 * Age and/or date of birth;
@@ -23,7 +23,7 @@ We may collect "personally identifiable" information, which means information th
 
 ### Other Information
 
-We also collect **"Other Information"** from you or other sources which is information not considered Personal Information. Other Information may include, but is not limited to, information such as:
+We also collect or receive **"Other Information"** from you or other sources which is information not considered Personal Information. Other Information may include, but is not limited to, information such as:
 
 * Article preferences, topics of interest or other content preferences by using "Like" or "Dislike" settings or creating lists;
 * Display name, which in some cases may be different from your user name; 
@@ -54,7 +54,8 @@ We collect User Information across our Services, including as follows:
 * For some of our Services, you may be asked to provide your mobile phone number in order to receive text messages containing information you have requested and other information that we think may be of interest to you;
 * When you view or interact with our Services, we may collect certain data, including IP Address, language setting, operating system type, page you requested, Advertising ID, user agent, and time stamp;
 * When you use the Services, we collect information about your search and click activity;
-* We may collect or receive information about you when you sign up for a sweepstakes, contest or other giveaway or promotion ( **"Promotions"** ) offered by us or our partners;
+* We may collect or receive information about you when you sign up for a sweepstakes, contest, other giveaway or promotion, or event ( **"Promotions"** ) offered by us and/or our partners;
+* We collect the information that you enter into a [Sparkle](http://sparkle.popsugar.com/) application, which may appear in a social media post (for example, an Instagram post) made by us and/or our advertising partners;
 * We may collect your user-generated content (for example, photos that you take or upload, comments that you provide or workout routines that you create, or URL links);
 * When you make a purchase through our Services, we or our vendors may also collect your information as set forth below under WHAT INFORMATION WE SHARE WITH THIRD PARTIES;
 * When you send an email to us, we will receive your email address and other information associated with your request;
@@ -73,6 +74,7 @@ User Information is used to provide Services to you by POPSUGAR and its partners
 * Allow you to set up an account and profile and log into your account on the Services and to access certain parts of the Services through such account;
 * Allow you to share certain information about yourself with other users through your account profile;
 * For our POPSUGAR [Voices](https://www.popsugar.com/voices) or Influencer platforms, to determine what assignments or projects are a good fit for your skills and interests and to process payments for your services if you are selected for a paid assignment;
+* Allow you to submit an application to become and create your account as a seller on our GLOW by POPSUGAR service ( **"GLOW"** );
 * Personalize and improve the Services;
 * Connect you across multiple devices or platforms where you are accessing our content;
 * Customize the Services to provide advertisements, content, features or recommendations on the Services or on other platforms (for example, social media platforms) that match your interests;
@@ -107,7 +109,7 @@ Certain third party vendors and partners authorized by POPSUGAR (including, but 
 
 To opt out of collection of your information by Nielsen, or to obtain information about the technologies they use or their own privacy policies, please visit the Nielsen consumer opt out page located [here](http://www.nielsen.com/digitalprivacy#choice).
 
-We may also sell or transfer Interaction Data to certain Advertisers who will use this data to serve ads that they believe are relevant to your interests. Some of these third parties may combine the Interaction Data with their own data about you to form a more detailed picture. We may also share your information with Advertisers for the purpose of allowing them or their clients to send you marketing communications related to your use of the Services, their services or programs featured and/or advertised on the Services (e.g., through ads or Promotions), or their products, services and/or programs generally.
+We may also sell or transfer Interaction Data to certain Advertisers who will use this data to serve ads that they believe are relevant to your interests. Some of these third parties may combine the Interaction Data with their own data about you to form a more detailed picture. We may also share your information with Advertisers for the purpose of allowing them or their clients to send you marketing communications related to your use of the Services, their services or programs featured and/or advertised on the Services (e.g., through ads, Promotions, or Sparkle application), or their products, services and/or programs generally. For example, if you request to receive more information from an Advertiser featured in a social media post by submitting your email through the Sparkle application, we will share your email with such Advertiser to allow the Advertiser to send you future marketing communications.
 
 Our third party vendors and partners use your User Information to display ads on both the Services and on third party websites, applications, platforms and other media channels (collectively, **"Channels"** ). For example, if you read content about a particular subject on the Services, we may use Cookies from a vendor to later serve you an advertisement for a particular product or service related to the viewed content. These third party vendors may connect information about pages you visit on the Services with information about pages you visit on other Channels and show you advertising based on this combined information. These advertisements may appear when you are visiting a different section of the Services or on another Channel. Likewise, third party vendors may serve you advertisements when you visit the Services based on your interaction with the Services and other Channels.
 
@@ -121,7 +123,7 @@ In order to help us sell advertising on the Services and otherwise publicize POP
 
 We employ or utilize the services of other third party vendors, consultants and service providers who need access to your User Information (such as your name, address, email, or other identifiers) in order to enable them to perform services on our behalf or to provide us with additional information necessary to provide you one of our Services to you. We use third party vendors for a variety of services across our Services, such as email message deployment, email address validation, subscription fulfillment, research, statistical analysis, cross-device user tracking, data and website hosting, marketing, advertising, and other data and transaction processing. 
 
-We also engage third party service providers for the purpose of processing payments for subscriptions, to fulfill your orders for product purchases, to honor your request to be removed from promotional mailings, and to monitor, analyze and prevent fraudulent traffic or other suspicious activities on our Services or on other services. For our [Voices](https://www.popsugar.com/voices) and Influencer platforms, we may also provide your User Information to third party processors in order to process payments for services if you are selected for a paid assignment under those platforms.
+We also engage third party service providers for the purpose of processing payments for purchases of content and subscriptions through our Services, to fulfill your orders for product purchases, to honor your request to be removed from promotional mailings, and to monitor, analyze and prevent fraudulent traffic or other suspicious activities on our Services or on other services. For our [Voices](https://www.popsugar.com/voices) and Influencer platforms, we may also provide your User Information to third party processors in order to process payments for services if you are selected for a paid assignment under those platforms.
 
 In addition to receiving your User Information from us, our service providers may also: 
 
@@ -143,7 +145,7 @@ Certain User Information from your profile such as a your user name, display nam
 
 ### Third party offers
 
-In connection with some advertising campaigns or otherwise in connection with the Services, We may create and/or distribute custom digital promotional cards that you can elect to save into your digital wallet on your mobile device (examples of such digital wallets include Apple Wallet and Android Pay), which may feature a coupon, rebate, promotional discount or other offer from an advertiser or sponsor and/or POPSUGAR (each an **"Offer"** ). When you engage with, download, share, or redeem an Offer, certain information about you may be collected by our third party advertising partners, including, but not limited to, data about your device such as user agent, operating system, advertising identifiers, Device IDs, Precise Location Data, and other data about your interaction with such Offer. Certain information may also be collected by or shared with third party providers who offer mobile wallet services on your device (for example, Apple for Apple Wallet or Google for Android Pay). The collection and use of such data by these third parties is subject to their respective terms and privacy policies. POPSUGAR is not responsible for any applicable third-party terms or policies and you should review them carefully. To opt out of such third party Offers, see the section below entitled HOW YOU CAN CHANGE OR CONTROL WHAT IS COLLECTED.
+In connection with some advertising campaigns or otherwise in connection with the Services, we may create and/or distribute custom digital promotional cards that you can elect to save into your digital wallet on your mobile device (examples of such digital wallets include Apple Wallet and Android Pay), which may feature a coupon, rebate, promotional discount or other offer from an advertiser or sponsor and/or POPSUGAR (each an **"Offer"** ). When you engage with, download, share, or redeem an Offer, certain information about you may be collected by our third party advertising partners, including, but not limited to, data about your device such as user agent, operating system, advertising identifiers, Device IDs, Precise Location Data, and other data about your interaction with such Offer. Certain information may also be collected by or shared with third party providers who offer mobile wallet services on your device (for example, Apple for Apple Wallet or Google for Android Pay). The collection and use of such data by these third parties is subject to their respective terms and privacy policies. POPSUGAR is not responsible for any applicable third-party terms or policies and you should review them carefully. To opt out of such third party Offers, see the section below entitled HOW YOU CAN CHANGE OR CONTROL WHAT IS COLLECTED.
 
 ### Promotions
 
@@ -155,11 +157,15 @@ By signing up for our text messages services such as POPSUGAR Must Have It or Ga
 
 ### Payment card information
 
-To use certain aspects of our Services, such as subscribing to our Must Have Box Service or participating in our Must Have It Service, we may require you to submit credit or debit card account information. By submitting your credit or debit card account information through the Services, you expressly consent to the sharing of this information with third party retailers, subscription and billing processors, and payment processors. 
+To use certain aspects of our Services, such as subscribing to our Must Have Box Service, or participating in our Must Have It Service, and selling or purchasing content products or subscriptions through our GLOW service, we may require you to submit credit or debit card account information. In order to participate as a seller on our GLOW service and receive payments from buyers in connection with the sale of content products, you will be required to connect your GLOW service account to a valid account with one of our designated third party payment processors. By submitting your credit or debit card account information or other financial information through the Services, you expressly consent to the sharing of this information with third party retailers, subscription and billing processors, and payment processors. 
 
-We may use Stripe to collect your credit or debit card account information and/or process such payments with our financial institutions. Stripe may store your credit or debit card account information so you can use our Services in the future. We do not have access to your complete credit or debit card account information, store your credit or debit card account information, or have direct control over or responsibility for your credit or debit card account information. We cannot guarantee that transmissions of your credit or debit card account information or personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by us or our third party service providers. Please see the [Stripe Terms and Conditions](https://stripe.com/us/legal) and the [Stripe Privacy Policy](https://stripe.com/privacy).
+We may use Stripe to collect your credit or debit card account information, to allow buyers to purchase content products directly from and pay sellers through the GLOW service, and/or to process transaction such payments with our financial institutions. Stripe may store your credit or debit card account information and other financial information so you can use our Services in the future. We do not have access to your complete credit or debit card account information, social security number, or other financial information. We do not store or have direct control over or responsibility for your credit or debit card account information, social security number, or other financial information as transmitted to Stripe. We cannot guarantee that transmissions of your credit or debit card account information, social security number, other financial information, or other personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by us or our third party service providers. Please see the [Stripe Terms and Conditions](https://stripe.com/us/legal), [Stripe Privacy Policy](https://stripe.com/privacy), and the [Stripe Connected Account Agreement](https://stripe.com/us/connect-account/legal).
 
 We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third party access, or other causes beyond our control.
+
+### GLOW by POPSUGAR
+
+As part of the buying and selling process through our GLOW service and by making a purchase on the GLOW service, you agree that we may share your buyer information, such as your email, with the seller as necessary to complete the transaction. As a seller under the GLOW services you may only use buyer user information for communications related to the GLOW service and transactions facilitated through the GLOW service. Seller may not use buyer user information for any other purpose, including without limitation, unauthorized transactions or sending unsolicited commercial messages in violation of any applicable laws.
 
 ### Twinning
 
