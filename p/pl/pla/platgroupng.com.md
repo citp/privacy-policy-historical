@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the platgroupng.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platgroupng.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626105001id_/https%3A//www.platgroupng.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Plat Technologies Limited
-
-| 
 
 ## Our Commitment to You
 
@@ -43,16 +41,27 @@ Personal information is processed and stored in our databases and we have taken 
 
 We reserve the right to change this privacy policy at any time without prior notice to you. Any changes will be posted on our website and become effective at the time of posting. In the event that material changes are made that affect the use or disclosure of your personal information, we will make reasonable efforts to notify you of these changes.
 
-If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/contact.php).
+If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/web/20190626105001id_/https%3A//www.platgroupng.com/contact.php).
 
-| 
+[Website Design](https://web.archive.org/web/20190626105001id_/https%3A//www.platgroupng.com/website_design.php) [Web Application Development](https://web.archive.org/web/20190626105001id_/https%3A//www.platgroupng.com/web_application_development.php)  
+[Website Maintenace Services](https://web.archive.org/web/20190626105001id_/https%3A//www.platgroupng.com/web_maintenance_services.php)  
+[Search Engine Optimisation](https://web.archive.org/web/20190626105001id_/https%3A//www.platgroupng.com/seo.php)  
+[ICT Consultancy](https://web.archive.org/web/20190626105001id_/https%3A//www.platgroupng.com/consultancy.php)  
+[ICT Outsourcing ](https://web.archive.org/web/20190626105001id_/https%3A//www.platgroupng.com/outsourcing.php)
 
-[Website Design](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/services/website_design.php)  
-[Web Application Development](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/services/web_application_development.php)  
-[Website Maintenace Services](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/services/web_maintenance_services.php)  
-[Search Engine Optimisation](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/services/seo.php)  
-[ICT Consultancy](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/services/consultancy.php)  
-[ICT Outsourcing ](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/services/outsourcing.php)
+**Head Office:** 12, Ilofa Road, GRA, Ilorin
+
+**Telephone:** 234-(0)8020889646
+
+**Email:**[info@platgroupng.com](mailto:info@platgroupng.com)
+
+## Quick Links
+
+[News and Events](https://web.archive.org/web/20190626105001id_/https%3A//news/index.php)  
+[Website Design Articles](https://web.archive.org/web/20190626105001id_/https%3A//website_articles/index.php)  
+[Website Design Resources](https://web.archive.org/web/20190626105001id_/https%3A//resources.php)   
+[Directory of Websites](https://web.archive.org/web/20190626105001id_/https%3A//nigeria_directory/index.php)  
+[Sitemap](https://web.archive.org/web/20190626105001id_/https%3A//sitemap.php)
 
 ~ Student Portal for Tertiary Institutions  
 ~ Computer Based Testing Software  
@@ -60,15 +69,3 @@ If you have any questions or comments about our privacy policy, please [Contact
 ~ Results Porcessing Software (Internet/Intranet Based)  
 ~ e-Library Resource Portal  
 ~ Student Portal for Primary/Secondary Schools 
-
-## Contact Us
-
-**Lagos Office:** Towry Towers, 3rd Floor, Plot 1 Towry Close, Off Idejo St., Victoria Island
-
-**Ilorin Office:** 12, Ilofa Road, GRA, Ilorin
-
-**Telephone:** 234-(0)8020889646
-
-**Email:**[info@platgroupng.com](mailto:info@platgroupng.com)  
-  
----|---
