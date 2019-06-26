@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digikey.ca privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107083825id_/https%3A//www.digikey.ca/en/help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.ca privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626023523id_/https%3A//www.digikey.ca/en/help/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement | DigiKey Electronics
 
@@ -189,7 +189,7 @@ You can make changes to or revoke your consent to the storage of your data for t
 
 ### 5\. Other Information Practices 
 
-**Security** – Digi-Key takes commercially reasonable steps to protect data, particularly financial information, transmitted through the Web Site. Digi-Key, however, cannot be responsible for and does not warrant the security of any information you transmit over the Internet, including using the Web Site. Digi-Key's site is equipped with Secure Sockets Layer (SSL) technology. Browsers that support the SSL encryption technology are called secure browsers. **Online orders to Digi-Key must be placed from a secure browser**. Your browser will automatically enter the secure mode when you make purchases. If you **do not** have a secure browser or would like to place orders using a method other than the Web Site, please review the [Ordering FAQs](https://web.archive.org/web/20181107083825id_/https%3A//www.digikey.ca/en/help/ordering-faqs) for alternative ordering methods.
+**Security** – Digi-Key takes commercially reasonable steps to protect data, particularly financial information, transmitted through the Web Site. Digi-Key, however, cannot be responsible for and does not warrant the security of any information you transmit over the Internet, including using the Web Site. Digi-Key's site is equipped with Secure Sockets Layer (SSL) technology. Browsers that support the SSL encryption technology are called secure browsers. **Online orders to Digi-Key must be placed from a secure browser**. Your browser will automatically enter the secure mode when you make purchases. If you **do not** have a secure browser or would like to place orders using a method other than the Web Site, please review the [Ordering FAQs](https://web.archive.org/web/20190626023523id_/https%3A//www.digikey.ca/en/help/ordering-faqs) for alternative ordering methods.
 
 **Access to Personal Information for Reviewing, Editing, and/or Removing** \- If you wish to discuss this Privacy Statement and the information we collect, you may contact us at the address provided in this Privacy Statement.
 
@@ -197,11 +197,11 @@ You can make changes to or revoke your consent to the storage of your data for t
 
 **Do Not Track** \- Presently the Web Site does not honor "do not track" settings on web browsers and does not offer you the opportunity to request that we not track your use of its services.
 
-**Changes to this Policy** \- We may revise this Privacy Statement from time to time. The most current version of the Privacy Statement will govern our use of your information and will always be available. Please check this [Privacy Statement](https://web.archive.org/web/20181107083825id_/https%3A//www.digikey.ca/en/help/Privacy) often for changes. By continuing to access or use the Web Site after those changes become effective, you agree to be bound by the revised Privacy Statement and acknowledge that the revised Policy Statement applies to all information held by Digi-Key.
+**Changes to this Policy** \- We may revise this Privacy Statement from time to time. The most current version of the Privacy Statement will govern our use of your information and will always be available. Please check this [Privacy Statement](https://web.archive.org/web/20190626023523id_/https%3A//www.digikey.ca/en/help/Privacy) often for changes. By continuing to access or use the Web Site after those changes become effective, you agree to be bound by the revised Privacy Statement and acknowledge that the revised Policy Statement applies to all information held by Digi-Key.
 
 **Contacting Us** – 
 
-**If you are outside of the E.U. and have questions about our use of information,** please contact us at [privacy@digikey.com](mailto:privacy@digikey.com). **For any other questions,** please contact us using the [Communications Center](https://web.archive.org/web/20181107083825id_/https%3A//www.digikey.ca/en/help/contact-us) (forms-based method of communicating with Digi-Key), or by contacting us at:
+**If you are outside of the E.U. and have questions about our use of information,** please contact us at [privacy@digikey.com](mailto:privacy@digikey.com). **For any other questions,** please contact us using the [Communications Center](https://web.archive.org/web/20190626023523id_/https%3A//www.digikey.ca/en/help/contact-us) (forms-based method of communicating with Digi-Key), or by contacting us at:
 
   * **_Outside the E.U._**
   * Digi-Key Electronics
@@ -216,7 +216,7 @@ You can make changes to or revoke your consent to the storage of your data for t
 
   * **_Inside the E.U._**
   * Digi-Key Electronics
-  * Phone: 011-31-53-484-9584
+  * Phone: +31 53 484 9584
   * Email: [eu.support@digikey.com](mailto:eu.support@digikey.com)
 
 
@@ -227,7 +227,7 @@ You can make changes to or revoke your consent to the storage of your data for t
 
 Calls to Digi-Key may be monitored and recorded for quality assurance purposes.
 
-© 2018 Digi-Key Electronics, All Rights Reserved
+© 2019 Digi-Key Electronics, All Rights Reserved
 
 ## DATE OF LAST MODIFICATION
 
