@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slatev.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223210923id_/http%3A//www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slatev.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626235330id_/https%3A//slate.com/privacy) for the most accurate reproduction.*
 
 # Slate’s privacy policy.
 
