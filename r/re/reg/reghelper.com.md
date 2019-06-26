@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reghelper.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121180334id_/http%3A//www.safeappsoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghelper.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626040037id_/http%3A//www.safeappsoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # SafeApp Software, LLC - Keep Your Computer Running FAST And Working RIGHT
 
