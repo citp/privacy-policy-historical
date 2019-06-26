@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mdbootstrap.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818170437id_/https%3A//mdbootstrap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdbootstrap.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626095745id_/https%3A//mdbootstrap.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Material Design for Bootstrap
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, credit card information or other details to help you with your experience.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, company name, email address, mailing address, credit card information, payment and billing information, country location etc. to enable us to offer and fulfill the services you request and help you with your experience.
 
 **When do we collect information?**
 
@@ -46,13 +46,13 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since each browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
+If you turn cookies off, Some of the features that make your site experience more efficient may not function properly. It won’t affect the user’s experience that makes your site experience more efficient and may not function properly.
 
 **Third-party disclosure**
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+We do not sell, or trade to outside parties your Personally Identifiable Information.
 
 **Third-party links**
 
@@ -83,7 +83,7 @@ CalOPPA is the first state law in the nation to require commercial websites and 
 
 Users can visit our site anonymously.
 
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+Once this privacy policy is created, we will add a link to it on our homepage or as a minimum, on the first significant page after entering our website.
 
 Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
 
@@ -105,7 +105,7 @@ It’s also important to note that we allow third-party (Facebook Pixel, Google 
 
 **COPPA (Children Online Privacy Protection Act)**
 
-When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
 We do not specifically market to children under the age of 13 years old.
 
@@ -125,12 +125,12 @@ We will notify the users via in-site notification
 
 We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
-**Other Data Protection Rights**
+**General Data Protection Regulation**  
+If you are an EU data subject, you may have the following data protection rights:
 
-You may have the following data protection rights:
-
-  * To  **access, correct, update or request deletion**  of your Personal Information. MailChimp takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You may contact us directly at any time about accessing, correcting, updating or deleting your Personal Information, or altering your data, by emailing us at [personaldatarequests@mdbootstrap.com](mailto:personaldatarequests@mailchimp.com). We will consider your request in accordance with applicable laws.
-  * In addition, if you are a resident of the EEA, you can  **object to processing**  of your Personal Information, ask us to  **restrict processing**  of your Personal Information or  **request portability**  of your Personal Information. Again, you can exercise these rights by emailing us at [personaldatarequests@mdbootstrap.com](mailto:personaldatarequests@mailchimp.com).
+  * To  **access, complete, correct, update, restrict or request deletion**  (we may not delete your data when other interests outweigh your right to deletion) of your Personal Information. StartupFlow takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You may contact us directly at any time about accessing, correcting, updating or deleting your Personal Information, or altering your data, by emailing us at [personaldatarequests@mdbootstrap.com](mailto:personaldatarequests@mailchimp.com). We will consider your request in accordance with applicable laws.
+  * In addition, if you are a resident of the EEA, you can  **object to the processing**  of your Personal Information, ask us to  **restrict processing**  of your Personal Information or  **request portability**  of your Personal Information. Again, you can exercise these rights by emailing us at [personaldatarequests@mdbootstrap.com](mailto:personaldatarequests@mailchimp.com).
+  * If we rely on your consent to process your Personal Data, you have the right to withdraw that consent at any time. This will not affect the lawfulness of processing based on your prior consent.
 
 
 
@@ -167,6 +167,6 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 and we will promptly remove you from **ALL** correspondence.
 
-We are using newsletter offered by MailChimp service from The Rocket Science Group, LLC which are processing data on our behalf. A user can at anytime unsubscribe from receiving further mails using link included in each message sent from us.
+We are using newsletter offered by MailChimp service from The Rocket Science Group, LLC which are processing data on our behalf. A user can at anytime unsubscribe from receiving further emails using link included in each message sent from us.
 
 StartupFlow S.C.
