@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headstart.in privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018191032id_/http%3A//headstart.in/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headstart.in privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626052817id_/https%3A//headstart.in/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Headstart Network
 
