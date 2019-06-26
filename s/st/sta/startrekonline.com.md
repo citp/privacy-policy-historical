@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the startrekonline.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106203848id_/https%3A//www.arcgames.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startrekonline.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627013459id_/https%3A//www.arcgames.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Arc Games
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=0cf009c3-1b3f-4032-8f7e-723783d146ab "TRUSTe Privacy Certification")
-
-Date of Last Revision: June 1, 2017
+Date of Last Revision: February 1, 2019
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY. IT DESCRIBES DETAILS ABOUT HOW WE COLLECT, USE AND DISCLOSE PERSONAL INFORMATION. IF YOU ARE UNDER 18, DO NOT PROVIDE ANY INFORMATION UNLESS YOU HAVE FIRST OBTAINED YOUR PARENT’S OR GUARDIAN’S PERMISSION.**
 
@@ -16,7 +14,7 @@ Perfect World is responsible for the processing of personal data it receives, un
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Perfect World is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Perfect World may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [ https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
+Any dispute, controversy or claim arising out of or relating to this contract, including the formation, interpretation, breach or termination thereof, including whether the claims asserted are arbitrable, will be referred to and finally determined by arbitration in accordance with the JAMS International Arbitration Rules. The Tribunal will consist of a sole arbitrator. The place of arbitration will be San Mateo County, California, United States. The language to be used in the arbitral proceedings will be English. Judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof. More information about JAMS and the applicable rules is available at <https://www.jamsadr.com/international-arbitration-rules>.
 
 Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
