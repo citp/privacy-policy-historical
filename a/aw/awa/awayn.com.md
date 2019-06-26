@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awayn.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821174422id_/https%3A//www.awayn.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awayn.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626103527id_/https%3A//awayn.com/privacypolicy) for the most accurate reproduction.*
 
-# Travel like a local- Awayn
+# AWAYN - An Insider's Guide to 100K+ Local Adventures
 
 #### **Last updated: MAY 22, 2018**
 
