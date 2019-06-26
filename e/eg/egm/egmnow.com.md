@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egmnow.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230101406id_/http%3A//www.egmnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egmnow.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626130134id_/http%3A//www.egmnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – EGMNOW
 
@@ -197,6 +197,8 @@ If you have any unresolved privacy concern that we have not addressed satisfacto
 We enable certain third party advertising exchanges to place advertisements on our sites. With your consent, those advertising exchanges collect your IP address and/or a unique advertising ID that is used by the advertising exchange to identify you across the internet. 
 
 The European Digital Advertising Alliance {“EDAA”} has developed a guide to online behavioural advertising and has developed an opt out page to manage online behavioural advertising preferences with EDAA member companies available at [www.YourOnlineChoices.com](http://www.youronlinechoices.com/). To find out more about how you can manage cookies and the other similar technologies, [click here for additional information](http://www.allaboutcookies.org/manage-cookies/). 
+
+To control Publisher Common ID settings click here. 
 
 **AUTOMATED DECISION MAKING**
 
