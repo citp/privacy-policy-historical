@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kimonolabs.com privacy policy that was archived on 2018-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180807040949id_/http%3A//www.kimonolabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimonolabs.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627003001id_/http%3A//www.kimonolabs.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
