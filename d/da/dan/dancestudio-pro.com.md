@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancestudio-pro.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221230832id_/https%3A//dancestudio-pro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancestudio-pro.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626231017id_/https%3A//dancestudio-pro.com/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -116,13 +116,13 @@ California’s “Shine the Light” law, Civil Code section 1798.83, requires c
 
 ## Your Choices
 
-If you would like to access, review, correct, update, suppress, or remove Personal Information that has been previously provided by you, you may contact us by logging into your account and making the appropriate changes or by emailing our customer support at support@mail.dancestudiopro.ladesk.com.
+If you would like to access, review, correct, update, suppress, or remove Personal Information that has been previously provided by you, you may contact us by logging into your account and making the appropriate changes or by emailing our customer support at support@dancestudio-pro.com.
 
 In your request, please make clear what Personal Information you would like to have changed or removed from our database. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request.
 
 Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion (e.g., when you make a purchase, you may not be able to change or delete the Personal Information provided until after the completion of such purchase).  There may also be residual information that will remain within our databases and other records, which will not be removed.
 
-If you are under 18 years of age and a user of the DanceStudio-Pro Services, you may ask us to remove content or information that you have posted to the Service by submitting a request to support@mail.dancestudiopro.ladesk.com. Please note that your request does not ensure complete or comprehensive removal of the content or information.
+If you are under 18 years of age and a user of the DanceStudio-Pro Services, you may ask us to remove content or information that you have posted to the Service by submitting a request to support@dancestudio-pro.com. Please note that your request does not ensure complete or comprehensive removal of the content or information.
 
 If you are a customer of one of our Subscribers and would no longer like to be contacted by one of our Subscribers, or would like to access, correct, amend, or delete inaccurate Personal Information held by a Subscriber, you must contact the Subscriber directly. 
 
@@ -160,7 +160,7 @@ We use this information to track and aggregate Other Information to analyze tren
 
 ## Reviews
 
-Our Website offers privately accessible reviews. Please keep in mind that if you directly disclose Personal Information through DanceStudio-Pro reviews, this information may be collected and used by others. To request removal of your Personal Information from a review, contact us at [support@mail.dancestudiopro.ladesk.com](mailto:support@mail.dancestudiopro.ladesk.com). If another user posts your review on a public forum such as FaceBook, we will not be able to remove that review from the external site.
+Our Website offers privately accessible reviews. Please keep in mind that if you directly disclose Personal Information through DanceStudio-Pro reviews, this information may be collected and used by others. To request removal of your Personal Information from a review, contact us at [support@dancestudio-pro.com](mailto:support@dancestudio-pro.com). If another user posts your review on a public forum such as FaceBook, we will not be able to remove that review from the external site.
 
 ## Legal Disclosure
 
@@ -194,7 +194,7 @@ We will retain your Personal Information for as long as needed to provide the ap
 
 ## Data Security
 
-The security of Personal Information is a high priority at DanceStudio-Pro. We maintain our DanceStudio-Pro Services and all associated data with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have any questions about the security of your interaction with us (if, for example, you feel that the security of any account you might have with us has been compromised), you can contact us at [support@mail.dancestudiopro.ladesk.com](mailto:support@mail.dancestudiopro.ladesk.com).
+The security of Personal Information is a high priority at DanceStudio-Pro. We maintain our DanceStudio-Pro Services and all associated data with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have any questions about the security of your interaction with us (if, for example, you feel that the security of any account you might have with us has been compromised), you can contact us at [support@dancestudio-pro.com](mailto:support@dancestudio-pro.com).
 
 ## Use of Service By Minors
 
@@ -214,4 +214,4 @@ DanceStudio-Pro may, in our sole discretion, make changes to this Privacy Policy
 
 ## Contact Us
 
-If you have any questions regarding this Privacy Policy you can contact us via email at support@mail.dancestudiopro.ladesk.com. 
+If you have any questions regarding this Privacy Policy you can contact us via email at support@dancestudio-pro.com. 
