@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancer.gov privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219180828id_/https%3A//www.cancer.gov/policies/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancer.gov privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626190728id_/https%3A//www.cancer.gov/policies/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security - National Cancer Institute
 
