@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231101312id_/https%3A//www.thinkgeek.com/help/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626200803id_/https%3A//www.thinkgeek.com/help/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy & Security | ThinkGeek
 
@@ -123,7 +123,7 @@ We provide many choices about the collection, use and sharing of your data, from
 
     * If you have registered for an account, you can access, review and manage many changes yourself via the customer Dashboard. Within the Dashboard, you can do things like update your profile information and change your communication preferences.
 
-    * If you have not registered for an account, or the information you are seeking is not available within the customer Dashboard, you can contact us at [custserv@thinkgeek.com](mailto:custserv@thinkgeek.com) or via mail at: 11216 Waples Mill Road, Suite 100, Fairfax, Virginia, 22030.
+    * If you have not registered for an account, or the information you are seeking is not available within the customer Dashboard, you can contact us at [custserv@thinkgeek.com](mailto:custserv@thinkgeek.com) or via mail at: 625 Westport Pkwy, Grapevine, Texas, 76051.
 
     * For further details, see section 3.2 below.
 
@@ -190,8 +190,8 @@ Phone: 1-888-433-5788
 
 Mail:   
 Geeknet, Inc.   
-11216 Waples Mill Rd., Suite 100   
-Fairfax, VA 22030   
+625 Westport Pkwy   
+Grapevine, TX 76051   
 
 
 EU Citizens - You can contact our Data Protection Officer at the following:
