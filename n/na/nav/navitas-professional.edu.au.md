@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navitas-professional.edu.au privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811183557id_/https%3A//www.navitas.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navitas-professional.edu.au privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626151124id_/https%3A//www.navitas.com/privacy_policy) for the most accurate reproduction.*
 
 # Navitas - Privacy Policy
 
@@ -342,7 +342,7 @@ Data Protection Manager Middle East | Jordan, Saudi Arabia and United Arab Emira
 
   1. The Company has nominated the **Information Commissioner’s Office** (ICO) as its Supervisory Authority for Europe.
   2. If you feel that we have not handled your data correctly, or you are unhappy with our response to any requests regarding the use of your personal data, you have the right to lodge a complaint with the **Information Commissioner’s Office** , (ICO), in the UK, or your National Supervisory Authority or data regulator.
-  3. You can contact the ICO by calling +44 303 123 1113 or go online to [www.ico.org.uk](https://web.archive.org/web/20180811183557id_/https%3A//www.navitas.com/www.ico.org.uk)
+  3. You can contact the ICO by calling +44 303 123 1113 or go online to [www.ico.org.uk](https://ico.org.uk/)
 
 
 
@@ -350,7 +350,7 @@ Data Protection Manager Middle East | Jordan, Saudi Arabia and United Arab Emira
 
   1. Australia has nominated the Office of the Australian Information Commissioner (OAIC) as the primary Supervisory Authority.
   2. You can contact the OAIC by calling +61 1300 363 992
-  3. Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au) or go online to [www.oaic.gov.au](https://web.archive.org/web/20180811183557id_/https%3A//www.navitas.com/www.oaic.gov.au)
+  3. Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au) or go online to [www.oaic.gov.au](https://www.oaic.gov.au/)
 
 
 
