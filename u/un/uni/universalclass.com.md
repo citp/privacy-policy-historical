@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818174745id_/https%3A//www.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626082947id_/https%3A//www.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,9 +62,9 @@ You may set your browser to disable cookies from a website. You will need to rev
 
 By using any of our services, you consent to the use of cookies, web beacons and any other data collection tools we may use as described in this Privacy Policy. 
 
-**Third Party Analytics and Advertising Tracking**
+**Third Party Analytics Tracking**
 
-UniversalClass may use third-party advertising and tracking services on our service, including but not limited to Google Analytics. These service providers may use data collection technologies such as cookies and web beacons. These analytics services help us determine how users interact and use our service and/or how users found our service (for example, by clicking on various ads or other website links that connect to our website). This information collected on our behalf by these third-party analytics services help us improve our services as well as to understand how people use our services. 
+UniversalClass uses the following third-party tracking services on our service: Google Analytics. This service may use data collection technologies such as cookies and web beacons. These analytics services help us determine how users interact and use our service and/or how users found our service (for example, by clicking on various ads or other website links that connect to our website). This information collected on our behalf by these third-party analytics services help us improve our services as well as to understand how people use our services. 
 
 UniversalClass uses Google to measure the performance of its advertising. To measure advertising performance, Google uses small strings of text (known as cookies) that are placed on your computer when you click on our ads. Cookies typically remain active on your computer for about 30 days. If you visit certain pages of the UniversalClass's website during that period, Google and UniversalClass will be able to tell that you saw the ad delivered by Google. If you'd like to know more about how Google handles information gathered from the use of cookies, please read their [privacy policy](https://www.google.com/intl/en/privacy.html). You may opt out of Google Analytics by downloading the Google Analytics Opt-out Browser Add-on.
 
@@ -78,6 +78,7 @@ We do not have access to nor does our Privacy Policy govern the use of cookies o
 
 UniversalClass may use information we collect for the following reasons:
 
+  * General statistics, traffic analysis, and site usage.
   * Order fulfillment. We require personal information such as full name, email, address and other details in order to verify online payments and fulfill orders and subscription purchases. Data collected from UniversalClass members (people who have filled out our registration form and logged in) is used to identify the member in order to allow that member to join and participate in our online classes.
   * Course progress and course completion. We use collected information in order to track your course progress, assessments, and course completions.
   *  Communications. We use collected information to facilitate communication between you and instructors, course facilitators, staff, and other students.
@@ -181,6 +182,7 @@ Why Does UniversalClass Use Cookies and Other Data Collection Technologies?
 
 We use cookies in order to allow you to login to our service, improve the functionality of our service, collect and analyze usage of our service so we can improve it, provide a personalized experience of our service, prevent fraud and abuse on our service, customize your experience of our service, and help provide a more efficient delivery of our service. For example, UniversalClass may use cookies for any of the following reasons: 
 
+  * General statistics, traffic analysis, and site usage.
   * Security. We use cookies to secure your credentials when you log in to our service. These cookies help protect your account against unauthorized access and helps to fight abuse and fraud or any activity that violates our terms and agreements.
   * Customization. We use cookies to customize your experience of our service by remembering your preferences on how our service looks and behaves to fit your individual preferences.
   * Maintain State. We use session cookies to maintain your current state (in order to determine if you are currently logged in) and be able to show you purchases made, courses you are currently taking or have completed, and provide account-specific information.
@@ -190,6 +192,10 @@ We use cookies in order to allow you to login to our service, improve the functi
 You may set your browser to disable cookies from a website. You will need to review your specific browser documentation regarding how to disable cookies. If you do disable cookies from our service, then our service will not work properly, and you will not be able to access member-specific services, such as taking courses. 
 
 By using any of our services, you consent to the use of cookies, web beacons and any other data collection tools we may use as described in our [Privacy Policy](https://www.universalclass.com/myinterests/privacypolicy.htm). 
+
+**Your Cookie Opt-Out Choices**
+
+If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help section of your web browser. Please note that disabling cookies will remove your ability to take any courses and will cause the website to not function correctly. 
 
 Additional Help 
 
