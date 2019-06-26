@@ -1,384 +1,1028 @@
-<!--The following is the downloaded HTML source of the viewpoints.com privacy policy that was archived on 2018-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181108042916id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viewpoints.com privacy policy that was archived on 2019-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190626020940id_/https%3A//www.powerreviews.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><!--
-  All HTML, JavaScript, other software code, and design elements are
-  exclusively owned by Viewpoints.
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 
-  &copy; 2006-2018 Viewpoints. All rights reserved.
---><head>
-<script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script type="text/javascript" async="" src="https://widget.uservoice.com/sRo9oQgrSisQZsXTvSnjjQ.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"ecce2036c4","applicationID":"1861065","transactionName":"dl5YFhFdWFhcRh4CWltFUwwXHRxbTVxUExw=","queueTime":0,"applicationTime":15,"ttGuid":"","agentToken":null,"agent":"","extra":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgAPWFRQGwIIUlBSAQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(13),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(14),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(16)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(13),c=t(14),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(o="Safari",i=s[1])}e.exports={agent:o,version:i,match:r}},{}],13:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],14:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],15:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],16:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(14),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[g[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){w[t]=m(t).concat(e)}function h(t,e){var n=w[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return w[t]||[]}function v(t){return d[t]=d[t]||o(n)}function y(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var w={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:y,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(13),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+b.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-b.offset}var c=(new Date).getTime(),s=t("handle"),f=t(13),u=t("ee"),d=t(12),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,y=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var w=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},x=v&&y&&y[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:x,userAgent:d};t(9),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),s("mark",["firstbyte",c],null,"api");var E=0,O=t(15)},{}]},{},["loader",2,7]);</script>
+  <!-- Google Tag Manager -->
+  <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.0"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WDJFGS3"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WDJFGS3');</script>
+  <!-- End Google Tag Manager -->
 
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<meta content="noindex,follow" name="robots">
+  <script src="https://boards.greenhouse.io/embed/job_board/js?for=powerreviews"></script>
 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="profile" href="https://gmpg.org/xfn/11">
 
-<meta content="9BC9670060" name="blogcatalog">
-<meta content="24DEBAE40E80CB921AF824D81BB8E867" name="msvalidate.01">
-<meta content="8xtNqFxFVaFhTRg8yCWXB0N6QoLleMhckClAyENzgq8=" name="verify-v1">
-<meta content="34141109243" property="fb:page_id">
-<meta content="986d89630d2dc9d0" name="y_key">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="apple-mobile-web-app-title" content="PowerReviews">
+  <meta name="application-name" content="PowerReviews">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
 
+  <title>Privacy Policy | PowerReviews</title>
+<meta name="specificfeeds-verification-code-YUNWTE9neVhsYVo3c0NDVUtPNGhUcWFmUFpTT0pMcHJhZ21XYlRuOC9KZlRLbTVYL3JqT2ZZWHRwTUVrSndtTzY1cU01dTJJcUhMZ0pWUjQrRkJ3M00zbjlBT1pHR1NjVG8zOFlHVUJZbkxJT1Z1aVlOZHZGdlJicWZIK1UzbCt8cTlnMnQrbWdGVG5EVmZPNENjaUMzdGlhd3FWcWdXaElYR1ZMVEdJakJyND0=" content="78rLkflmseXZSLgWMNJk">
+<!-- Start VWO Asynchronous Code -->
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=414826,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=414826&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190626020940id_%2Fhttps%3A%2F%2Fwww.powerreviews.com%2Fprivacy-policy%2F&amp;r=0.4441582693856705" type="text/javascript"></script>
+<!-- End VWO Asynchronous Code -->
 
+<!-- This site is optimized with the Yoast SEO Premium plugin v9.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Read the PowerReviews Privacy Policy to learn about the effort and care we put into protecting your information. See more here.">
+<link rel="canonical" href="https://www.powerreviews.com/privacy-policy/">
+<link rel="publisher" href="https://plus.google.com/102145218269850353783/about">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | PowerReviews">
+<meta property="og:description" content="Read the PowerReviews Privacy Policy to learn about the effort and care we put into protecting your information. See more here.">
+<meta property="og:url" content="https://www.powerreviews.com/privacy-policy/">
+<meta property="og:site_name" content="PowerReviews">
+<meta property="article:publisher" content="https://www.facebook.com/pages/PowerReviews/1514801688740277">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Read the PowerReviews Privacy Policy to learn about the effort and care we put into protecting your information. See more here.">
+<meta name="twitter:title" content="Privacy Policy | PowerReviews">
+<meta name="twitter:site" content="@powerofreviews">
+<meta name="twitter:image" content="https://www.powerreviews.com/wp-content/uploads/2015/04/power-reviews-logo-grey-text.png">
+<meta name="twitter:creator" content="@powerofreviews">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.powerreviews.com/","sameAs":["https://www.facebook.com/pages/PowerReviews/1514801688740277","https://www.linkedin.com/company/powerreviews","https://plus.google.com/102145218269850353783/about","https://twitter.com/powerofreviews"],"@id":"https://www.powerreviews.com/#organization","name":"PowerReviews","logo":"https://www.powerreviews.com/wp-content/uploads/2019/04/PowerReviews-Logo-Icon-RGB.png"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.powerreviews.com/privacy-policy/","name":"Privacy Policy"}}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
 
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="PowerReviews » Feed" href="https://www.powerreviews.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="PowerReviews » Comments Feed" href="https://www.powerreviews.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.powerreviews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.powerreviews.com/wp-includes/js/wp-emoji-release.min.js?ver=5.1.1" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://www.powerreviews.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="pw-example-block-style-css" href="https://www.powerreviews.com/wp-content/themes/powerreviews-corpsite/js/blocks/example-block/dist/example-block.style.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="SFSIPLUSmainCss-css" href="https://www.powerreviews.com/wp-content/plugins/Ultimate-Premium-Plugin/css/sfsi-style.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="bodhi-svgs-attachment-css" href="https://www.powerreviews.com/wp-content/plugins/svg-support/css/svgs-attachment.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-rest-filter-css" href="https://www.powerreviews.com/wp-content/plugins/wp-rest-filter/public/css/wp-rest-filter-public.css?ver=1.4.3" type="text/css" media="all">
+<link rel="stylesheet" id="powerreviews-corpsite-style-css" href="https://www.powerreviews.com/wp-content/themes/powerreviews-corpsite/style.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="https://www.powerreviews.com/wp-content/themes/powerreviews-corpsite/styles/fontawesome.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="fa-regular-css" href="https://www.powerreviews.com/wp-content/themes/powerreviews-corpsite/styles/fa-regular.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="fa-brands-css" href="https://www.powerreviews.com/wp-content/themes/powerreviews-corpsite/styles/fa-brands.min.css?ver=5.1.1" type="text/css" media="all">
+<script type="text/javascript" src="https://www.powerreviews.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.powerreviews.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.powerreviews.com/wp-content/plugins/wp-rest-filter/public/js/wp-rest-filter-public.js?ver=1.4.3"></script>
+<link rel="https://api.w.org/" href="https://www.powerreviews.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.powerreviews.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.powerreviews.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://www.powerreviews.com?p=104">
+<link rel="alternate" type="application/json+oembed" href="https://www.powerreviews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.powerreviews.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.powerreviews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.powerreviews.com%2Fprivacy-policy%2F&amp;format=xml">
+	    <style type="text/css"></style>   
+					<!-- Twitter Cards Meta by USM  STARTS-->
+				<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@powerofreviews">
+<meta name="twitter:creator" content="@powerofreviews">
+<meta name="twitter:url" content="https://www.powerreviews.com/privacy-policy/">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:description" content="Last Updated June 24, 2019 Thank you for visiting this website (the “Site”) presented to you by PowerReviews, Inc. (“PowerReviews,” “we,” or “us”). Your privacy is important to us. As such, we provide this privacy policy (this “Policy”) explaining our online information practices and the choices you can make about the way your information is collected, used and disclosed by this Site, our [...]">
+			<!-- Twitter Cards Meta by USM  CLOSES-->
+				
+		<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:171110,hjsv:5};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+		</script><script async="" src="//static.hotjar.com/c/hotjar-171110.js?sv=5"></script>
+				<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<script>
+  document.addEventListener("DOMContentLoaded", function() {
 
-  <title>Privacy Policy – Viewpoints.com</title>
+    // Toggle sub-menu visibility
+    var $submenuParents = [].slice.call(document.body.querySelectorAll(".menu-item-has-children"));
+    $submenuParents.forEach(function($parent) {
+      $parent.querySelector("a").onclick = function(e) {
+        e.preventDefault ? e.preventDefault() : (e.returnValue = false);
+        var subMenuOpen = $parent.classList.contains("sub-menu-open");
+        $submenuParents.forEach(function($otherParent) {
+          $otherParent.classList.remove("sub-menu-open")
+        });
+        $parent.classList.toggle("sub-menu-open", !subMenuOpen);
+        if(!subMenuOpen) {
+          hideOnClickOutside($parent, function() { $parent.classList.remove("sub-menu-open"); });
+        }
+      };
+    });
 
-  
-
-
-<link href="/favicon_viewpoints.ico" rel="shortcut icon" type="image/x-icon">
-<link href="/apple_touch_icon_viewpoints.png" rel="apple-touch-icon">
-<link href="/apple_touch_icon_ipad_viewpoints.png" rel="apple-touch-icon" sizes="72x72">
-<link href="/apple_touch_icon_iphone4_viewpoints.png" rel="apple-touch-icon" sizes="114x114">
-
-
-
-
-  <link href="http://cdn1.viewpoints.com/assets/vp3_desktop-e857a0486b40c881516a61c116e9b766.css" media="screen" rel="stylesheet" type="text/css">
-
-
-<script src="//use.typekit.com/ndg7jfi.js"></script>
-<script>try {
-  Typekit.load();
-} catch (e) {
-}</script>
-
-
-<!--[if lt IE 9]>
-<script src="http://cdn1.viewpoints.com/assets/lib/respond/respond-9184fc4290b2b5c08317176ac7c3311e.js"></script>
-<![endif]-->
-
-  
-<script src="http://cdn1.viewpoints.com/assets/jquery-d60b3033d3bda6fe351c462153b04063.js"></script>
-
-<script>
-  jQuery.noConflict();
-</script>
-
-<script src="http://cdn1.viewpoints.com/assets/early-af3072dc48f272a6d19eac3ce740d567.js"></script>
-
-  <script>
-  v_3_analytics.ga.config({
-    raw: 'UA-27718161-5',
-    custom: 'UA-27717761-3',
-    breakpoint_test: 'UA-46608603-1'
+    // Toggle menu expansion on mobile
+    var $menu = document.body.querySelector(".site-header");
+    var $menuButton = document.body.querySelector(".site-header .toggle-menu");
+    $menuButton.onclick = function(e) {
+      e.preventDefault ? e.preventDefault() : (e.returnValue = false);
+      var menuExpanded = $menu.classList.contains("expanded");
+      $menu.classList.toggle("expanded", !menuExpanded);
+      if(!menuExpanded) {
+        hideOnClickOutside($menu, function() { $menu.classList.remove("expanded"); });
+      }
+    };
   });
-</script>
+
+  function hideOnClickOutside(el, callback) {
+    var outsideClickListener = function(event) {
+      if (!el.contains(event.target)) {
+        callback();
+        removeClickListener();
+      }
+    }
+    var removeClickListener = function() {
+      document.removeEventListener('click', outsideClickListener)
+    }
+    document.addEventListener('click', outsideClickListener)
+  }
+
+</script><script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script></head>
+
+
+<body class="page-template-default page page-id-104 privacy-policy ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDJFGS3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="page" class="site">
+  <header id="masthead" class="site-header">
+    <nav id="site-navigation" class="main-navigation">
+      <div class="background"></div>
+      <a href="/"><img class="logo" src="https://www.powerreviews.com/wp-content/themes/powerreviews-corpsite/images/logo.png" alt="PowerReviews Logo"></a>
+      <div class="toggle-menu">
+        <i class="expand-menu far fa-bars"></i>
+        <i class="collapse-menu far fa-times"></i>
+      </div>
+      <div class="menus">
+        <div class="menu-primary-nav-container"><ul id="primary-menu" class="menu"><li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-56"><a href="https://www.powerreviews.com/solutions/">Solutions<i class="far fa-angle-down"></i><i class="far fa-angle-up"></i></a>
+      <div class="sub-menu">
+        <div class="overview-link">
+          <div>
+            <a href="https://www.powerreviews.com/solutions/">
+              Solutions Overview <i class="far fa-long-arrow-right" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div><ul>	<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="https://www.powerreviews.com/ratings-and-reviews/"><h1>Ratings &amp; Reviews</h1><p>Collect and display ratings and review content.</p></a></li>
+	<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="https://www.powerreviews.com/visual-and-social-suite/"><h1>Visual &amp; Social</h1><p>Curate authentic visual content across pages.</p></a></li>
+	<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="https://www.powerreviews.com/questions-and-answers/"><h1>Questions &amp; Answers</h1><p>Answer essential product questions.</p></a></li>
+	<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="https://www.powerreviews.com/influencer-and-sampling-suite/"><h1>Influencer &amp; Sampling</h1><p>Generate buzz with everyday influencers.</p></a></li>
+	<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://www.powerreviews.com/intelligence-suite/"><h1>Intelligence Suite</h1><p>Uncover game-changing product insights.</p></a></li>
+	<li id="menu-item-11592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11592"><a href="https://www.powerreviews.com/customer-experience/"><h1>Customer Experience</h1><p>Turn customers into mystery shoppers.</p></a></li>
+</ul>
+
+      <div class="featured-resource">
+        <a href="https://www.powerreviews.com/insights/ratings-and-reviews-partner/">
+          <h1>An Insider’s Guide to Choosing a Ratings &amp; Reviews Partner /</h1>
+          <span>Evaluate your best options in this all-inclusive guide.</span>
+          <button class="button arrow">Read More</button>
+        </a>
+      </div>
+    </div></li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-55"><a href="https://www.powerreviews.com/open-network/">Open Network<i class="far fa-angle-down"></i><i class="far fa-angle-up"></i></a>
+      <div class="sub-menu">
+        <div class="overview-link">
+          <div>
+            <a href="https://www.powerreviews.com/open-network/">
+              Open Network Overview <i class="far fa-long-arrow-right" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div><ul>	<li id="menu-item-11889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11889"><a href="https://www.powerreviews.com/open-network-for-brands/"><h1>Open Network for Brands</h1><p>Syndicate content and reach leading retailers.</p></a></li>
+	<li id="menu-item-11890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11890"><a href="https://www.powerreviews.com/open-network/"><h1>Open Network for Retailers</h1><p>Increase sales without fees.</p></a></li>
+	<li id="menu-item-11888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11888"><a href="https://www.powerreviews.com/brand-engage/"><h1>Brand Engage</h1><p>Answer brand questions on retailer sites.</p></a></li>
+</ul>
+
+      <div class="featured-resource">
+        <a href="https://www.powerreviews.com/insights/ratings-and-reviews-partner/">
+          <h1>An Insider’s Guide to Choosing a Ratings &amp; Reviews Partner /</h1>
+          <span>Evaluate your best options in this all-inclusive guide.</span>
+          <button class="button arrow">Read More</button>
+        </a>
+      </div>
+    </div></li>
+<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-54"><a href="https://www.powerreviews.com/success-stories/">Success Stories<i class="far fa-angle-down"></i><i class="far fa-angle-up"></i></a>
+      <div class="sub-menu">
+        <div class="overview-link">
+          <div>
+            <a href="https://www.powerreviews.com/success-stories/">
+              Success Stories Overview <i class="far fa-long-arrow-right" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div><ul>	<li id="menu-item-10702" class="menu-item menu-item-type-post_type menu-item-object-success-story menu-item-10702"><a href="https://www.powerreviews.com/success-stories/maesa/"><h1>Health &amp; Beauty</h1><p>Check out how Maesa uses sampling when launching new products.</p></a></li>
+	<li id="menu-item-10838" class="menu-item menu-item-type-post_type menu-item-object-success-story menu-item-10838"><a href="https://www.powerreviews.com/success-stories/skechers/"><h1>Apparel &amp; Footwear</h1><p>See how Skechers uses Q&amp;A to answer questions and drive more sales.</p></a></li>
+	<li id="menu-item-10839" class="menu-item menu-item-type-post_type menu-item-object-success-story menu-item-10839"><a href="https://www.powerreviews.com/success-stories/nutrisystem/"><h1>Food &amp; Beverage</h1><p>Learn how Nutrisystem increased conversion with ratings &amp; reviews.</p></a></li>
+	<li id="menu-item-10841" class="menu-item menu-item-type-post_type menu-item-object-success-story menu-item-10841"><a href="https://www.powerreviews.com/success-stories/room-and-board/"><h1>Home &amp; Garden</h1><p>Find out how Room &amp; Board influences sales with ratings, reviews and Q&amp;A.</p></a></li>
+</ul>
+
+      <div class="featured-resource">
+        <a href="https://www.powerreviews.com/insights/ratings-and-reviews-partner/">
+          <h1>An Insider’s Guide to Choosing a Ratings &amp; Reviews Partner /</h1>
+          <span>Evaluate your best options in this all-inclusive guide.</span>
+          <button class="button arrow">Read More</button>
+        </a>
+      </div>
+    </div></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51"><a href="https://www.powerreviews.com/resources/">Resources<i class="far fa-angle-down"></i><i class="far fa-angle-up"></i></a>
+      <div class="sub-menu">
+        <div class="overview-link">
+          <div>
+            <a href="https://www.powerreviews.com/resources/">
+              Resources Overview <i class="far fa-long-arrow-right" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div><ul>	<li id="menu-item-10842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10842"><a href="https://www.powerreviews.com/blog/"><h1>Blog</h1><p>Tips, trends and best practices.</p></a></li>
+	<li id="menu-item-10843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10843"><a href="https://www.powerreviews.com/insights/"><h1>Insights</h1><p>Guides, research and data reports.</p></a></li>
+	<li id="menu-item-10844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10844"><a href="https://www.powerreviews.com/events/"><h1>News and Events</h1><p>Upcoming events and news.</p></a></li>
+	<li id="menu-item-10845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10845"><a href="https://www.powerreviews.com/webinars/"><h1>Webinars</h1><p>On-demand and upcoming webinars.</p></a></li>
+</ul>
+
+      <div class="featured-resource">
+        <a href="https://www.powerreviews.com/insights/ratings-and-reviews-partner/">
+          <h1>An Insider’s Guide to Choosing a Ratings &amp; Reviews Partner /</h1>
+          <span>Evaluate your best options in this all-inclusive guide.</span>
+          <button class="button arrow">Read More</button>
+        </a>
+      </div>
+    </div></li>
+</ul></div>        <div class="menu-separator"></div>
+        <div class="menu-secondary-nav-container"><ul id="secondary-menu" class="menu"><li id="menu-item-10832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10832"><a href="https://www.powerreviews.com/about/">Company<i class="far fa-angle-down"></i><i class="far fa-angle-up"></i></a>
+      <div class="sub-menu">
+        <div class="overview-link">
+          <div>
+            <a href="https://www.powerreviews.com/about/">
+              Company Overview <i class="far fa-long-arrow-right" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div><ul>	<li id="menu-item-10837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10837"><a href="https://www.powerreviews.com/about/"><h1>About</h1><p>See who we are and what we do.</p></a></li>
+	<li id="menu-item-10833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10833"><a href="https://www.powerreviews.com/careers/"><h1>Careers</h1><p>Want to find a job you love?</p></a></li>
+	<li id="menu-item-12496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12496"><a href="https://www.powerreviews.com/partners/"><h1>Partners</h1><p>Team up with PowerReviews.</p></a></li>
+	<li id="menu-item-10835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10835"><a href="https://www.powerreviews.com/events/"><h1>News and Events</h1><p>Find out what our team is up to.</p></a></li>
+</ul>
+
+      <div class="featured-resource">
+        <a href="https://www.powerreviews.com/insights/ratings-and-reviews-partner/">
+          <h1>An Insider’s Guide to Choosing a Ratings &amp; Reviews Partner /</h1>
+          <span>Evaluate your best options in this all-inclusive guide.</span>
+          <button class="button arrow">Read More</button>
+        </a>
+      </div>
+    </div></li>
+<li id="menu-item-551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551"><a href="https://auth.powerreviews.com/login">Login</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="https://www.powerreviews.com/demo/">Request Demo</a></li>
+</ul></div>      </div>
+    </nav><!-- #site-navigation -->
+  </header><!-- #masthead -->
+
+  <div id="content" class="site-content">
+
+  <div id="primary" class="content-area">
+    <main id="main" class="site-main">
+    
+<section>
+  <figure class="hero no-skip-button no-image">
+    <div class="hero-content">
+      <div class="hero-text-area">
+        <div class="hero-subheading">
+                                  </div>
+        <h1 class="hero-heading">
+          Privacy Policy        </h1>
+        <div class="hero-description">
+                  </div>
+                      </div>
+      <div class="hero-image">
+        <img src="" alt="">
+      </div>
+    </div>
+  </figure>
+  </section>
+
+    <a id="content-start"></a>
+        <article class="page-content-wrap">
+      
+<article id="post-104" class="post-104 page type-page status-publish hentry">
+
+  <div class="entry-content" itemprop="articleBody">
+    <h5><strong>Last Updated June 24, 2019</strong></h5>
+<p>Thank you for visiting this website (the “Site”) presented to you by PowerReviews, Inc. (“PowerReviews,” “we,” or “us”). Your privacy is important to us. As such, we provide this privacy policy (this “Policy”) explaining our online information practices and the choices you can make about the way your information is collected, used and disclosed by this Site, our product reviews and ratings services (“Review Service”) and among our network of affiliated and operated review services, which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with PowerReviews or its affiliates through which this Privacy Policy appears (each a “Service,” collectively the “Services”).&nbsp; The Review Service is provided both through the Site and through third party sites via a connection to PowerReviews API or framing techniques as described below (“Third Party Sites”).</p>
+<p>PowerReviews affiliates and subsidiaries include Viewpoints, LLC and PowerReviews UK Ltd.</p>
+<p>We encourage you (“user” or “visitor”) to read this Policy carefully before providing any personal information on the Site or Review Service. <b>By visiting our Site and/or using the Review Service, you are accepting the practices described in this Policy:</b></p>
+<ul>
+<li><a href="#Privacy">EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield</a></li>
+<li><a href="#Collect">Information We Collect</a></li>
+<li><a href="#Thirdparty">Third Party Sites</a></li>
+<li><a href="#Cookies">Cookies, Web Beacons, and Similar Technologies</a></li>
+<li><a href="#Use">How Do We Use the Information We Collect</a></li>
+<li><a href="#Disclosure">Disclosure of Information</a></li>
+<li><a href="#Choices">Your Choices and Access</a></li>
+<li><a href="#Transfers">Cross-Border Transfers</a></li>
+<li><a href="#Minors">Use of Services By Minors</a></li>
+<li><a href="#Security">Security</a></li>
+<li><a href="#Changes">Changes to This Policy</a></li>
+<li><a href="#Dispute">Dispute Resolution</a></li>
+<li><a href="Questions">Questions and Contact Information</a></li>
+</ul>
+<hr>
+<h3 id="Privacy">EU-U.S. PRIVACY SHIELD AND SWISS-U.S. PRIVACY SHIELD</h3>
+<p>PowerReviews Inc. and Viewpoints, LLC (collectively, the “PowerReviews US entities”) comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively.&nbsp; PowerReviews&nbsp;US entities have certified to the Department of Commerce that they adhere to the Privacy Shield Principles.&nbsp; For purposes of the PowerReviews US entities, if there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. &nbsp;To learn more about the Privacy Shield program, and to view our certification page, please visit&nbsp;<a href="https://www.privacyshield.gov/welcome" target="_blank" rel="noopener noreferrer">https://www.privacyshield.gov/</a>.&nbsp; The Federal Trade Commission has jurisdiction over our compliance with the Privacy Shield.</p>
+<hr>
+<h3 id="Collect">INFORMATION WE COLLECT</h3>
+<p>We collect “personal information” about users of the Site and the Review Service in the normal course of our business. As used in this Policy, “personal information” is information that identifies or is capable of being associated with an identifiable person. Examples of personal information include, but are not limited to, a user’s name, email address, or phone number. Most of the personal information we receive comes directly from users who register on the Site, use the Review Service or who otherwise voluntarily provide information to PowerReviews in connection with various activities on the Site or Review Service. Personal information does not include aggregate, anonymized, or de-identified information (collectively, “Aggregate Information”). “Aggregate Information” is information gathered or generated directly by the use of the Site or Review Service, such as information collected about Site or Review Service users, or a category of services or users, from which any personal information has been removed. An example of Aggregate Information would be a report stating that forty-seven percent of the Site’s registered users have identified themselves as male.</p>
+<p><b>Site</b>:&nbsp;The information you submit at registration on the Site may include, without limitation, name phone number, and e-mail address. We may also collect other types of information during registration or in connection with your other activities on the Site, such as demographic information (including, without limitation, your age, sex and/or gender identity, occupation, interests, location, and income) and information about or contained in postings you make in forums or any other interactive areas of the Site, your answers to surveys, your participation in sweepstakes, contests, games and promotional offers; and in any email request you send us for any reason (such as to request customer service or provide us with comments or feedback).</p>
+<p><b>Review Service</b>:&nbsp;Through the Review Service, you may submit star ratings, reviews, comments, photos, videos, questions, and other user-generated content (collectively, “UGC”).&nbsp; Any UGC you submit may be used for advertising purposes and posted to publicly-facing websites, including other websites across the Internet and on the PowerReviews network, in addition to the website that you originally submitted the UGC. Accordingly, please do not post anything that you do not want to share with the general public (for example, financial information, social security number, etc.). In addition, the UGC that you submit may be used for other advertising, analytic and statistical purposes including, for example, product improvement, benchmarking (e.g. where various products/services or categories of products/services are compared against each other or against the market as a whole), sentiment analysis (e.g. using the data from multiple reviews it is possible to determine how consumers as a whole feel about a product/service), and online behavioral advertising.&nbsp; We may also collect other types of information in connection with your activities on the Review Service, such as demographic information (including, without limitation, your age, weight, size, hair color, sex, occupation, interests, location, and income) and information about or contained in postings you make in forums or any other interactive areas of the Review Service, your answers to surveys, your participation in sweepstakes, contests, games and promotional offers; and in any email request you send us for any reason (such as to provide us with comments or feedback). In order to submit UGC, you may have to create an account with the PowerReviews’ client whose products, services or goods you are reviewing or rating. During the course of creating an account, you may be asked to submit information, such as but not limited to, your name, email address, phone number, and other data (collectively, “Consumer Account Info”).&nbsp; The Consumer Account Info may be collected by both PowerReviews and the applicable PowerReviews’ client. To further understand how the PowerReviews’ client to whom you have submitted UGC and Consumer Account Info will use such data, please consult the terms and conditions of that client’s website (e.g. privacy policy).</p>
+<p>We automatically collect some information when you use the Site or Review Service. We log your IP address. If you reached the Site by clicking on a link or advertisement on another site, we also log that information. This helps us understand our users’ interests and maximize our online exposure. Please see Cookie, Web Beacons, and Similar Technologies below for additional information.</p>
+<hr>
+<h3 id="Thirdparty">THIRD PARTY SITES</h3>
+<p>The Review Service may be displayed on or through Third Party Sites through a connection to PowerReviews API or with the use of inline frame or other framing techniques. We may collect personal information in stand alone Write a Review pages, framed pages or content located on or provided by Third Party Sites. When you submit personal information to us in this manner, it is treated as personal information under this Policy. The collection and use of personal information by the Third Party Site directly (i.e., outside of the Review Service Write a Review pages or framed pages) is governed separately by the privacy policy of such site.</p>
+<hr>
+<h3 id="Cookies">COOKIES, WEB BEACONS, AND SIMILAR TECHNOLOGIES</h3>
+<p>We may use cookies to identify Site and Review Service users and to customize user experiences on the Site and Review Service. Unless you provide your email address to us, our cookies contain no personally identifiable information about you. If you have provided your email address to us, however, our cookies may be used to identify you. We use cookies to help us understand how visitors use (and to help us to improve) the Site and Review Service. You may refuse to accept cookies from us by following the procedures specific to your Web browser. If you do so, it may limit your use of some services on the Site or Review Service.<strong> To learn more about our cookie policy, <a href="https://www.powerreviews.com/ad-and-cookie-policy/" target="_blank" rel="noopener noreferrer">click here</a></strong>.</p>
+<p>Additionally, we may use, and may allow third parties to use, Web beacons on the Site and Review Service to monitor the effectiveness of advertising or for other legitimate purposes. Web beacons, also known as “Web bugs,” are small, graphic images on Web pages or Web-based documents or in email messages that allow us or third parties to monitor who is visiting the Site or Review Service. Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons may be linked to your personal information.</p>
+<hr>
+<h3 id="Collect">HOW DO WE USE THE INFORMATION WE COLLECT</h3>
+<p>We use the information we collect to:</p>
+<ul>
+<li>Contact you for administrative purposes or provide you with customer service from either PowerReviews or the PowerReviews’ client</li>
+<li>Provide services to our clients</li>
+<li>Complete transactions requested by you or to verify that you have submitted a review to our Review Service</li>
+<li>Respond to any questions, problems or complaints, or request feedback</li>
+<li>Send you marketing communications if you have submitted your email address through the Site, as permitted by applicable law</li>
+<li>Organize the Site and Review Service to better serve you, customize or develop our products and services, and market research</li>
+<li>Send you emails pertaining to our verification process, our policies, and content that you submit</li>
+<li>Investigate and help prevent potentially unlawful or fraudulent activity or activity that threatens the network or otherwise violates the Usage Agreement</li>
+</ul>
+<p>Personal information provided on our Site or through the Review Service may be linked together or merged with other personal information we obtain about you so that PowerReviews and our clients may better understand your needs and inform you about our products or services and those of our business partners. In addition, if we receive personal information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information.</p>
+<hr>
+<h3 id="Disclosure">DISCLOSURE OF INFORMATION</h3>
+<p>We do not rent, sell or disclose personal information to third parties without your prior consent, except as described in this privacy policy. We may share personal information when we have your consent to do so, when required by law, when required to protect our rights or property, as necessary to complete a transaction you have requested, or for marketing purposes. We may disclose personal information we collect from you to our affiliates or subsidiaries; however, if we do so, their use and disclosure of your personally identifiable information will be subject to this Policy. We reserve the right to use and disclose any non-personal information that we collect. We may use third party service providers to assist us with the administration of the Site or Review Service or to perform other services for us, including transaction processing and sending emails.</p>
+<p>If you provide us with personal information through a Third Party Site, we may share such information with such Third Party Site for their internal business purposes. In addition, we may also share personal information with third parties for such third parties’ (or other third parties’) marketing purposes; however, we provide you with the choice of opting-out of such disclosures (please see “Choice and Access” below).</p>
+<p>We may use third parties, called third-party ad servers or network advertisers, to deliver ads to you on our behalf. These third-party ad servers may use cookies, web beacons or other technology to collect non-personally identifiable information about your visits to our Site or the Review Service in order to use it to present advertisements that may be of interest to you. If you would like more information about this practice or whether you can opt out of having this information used by third-party ad servers to provide targeted ads, please <a href="http://optout.networkadvertising.org/?c=1" target="_blank" rel="noopener noreferrer">visit here</a>.</p>
+<p>Information about our users, the Site and the Review Service is a business asset of PowerReviews. Therefore, information about our users, including personal information, will be disclosed as part of any (a) merger or acquisition, (b) creation of a separate business to provide the Site or our Review Service, or to provide other services or fulfill products; (c) debt financing, sale or pledge of company assets, or (d) insolvency, bankruptcy or receivership in which personal information would be transferred as one of PowerReviews’ business assets.</p>
+<p>We may release personal information when we believe release is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to respond to lawful requests by public authorities, including to meet national security or law enforcement requirements; to enforce or apply our policies or any other agreement with a user; to initiate, render, bill, and collect for amounts owed to us; to protect our rights or property; to protect our users from fraudulent, abusive, or unlawful use of our Site or its services; to enforce contest, sweepstakes, promotions, or game rules; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.</p>
+<p>PowerReviews may be liable for appropriate onward transfers of personal data to third parties.</p>
+<h3 id="Choice">YOUR CHOICE AND ACCESS</h3>
+<p><b>Opting Out:</b></p>
+<p><strong>Cookies</strong>:&nbsp;To delete cookies, simply close your web browser or turn off the computer’s power and the session cookies will be deleted automatically. To delete persistent cookies, you will need to manually delete them through your browser’s setting options.&nbsp;You can disable both session and persistent cookies by adjusting the settings on your web browser. For instructions on disabling cookies,&nbsp;<a href="https://www.usa.gov/optout-instructions" target="_blank" rel="noopener noreferrer">click here</a>. To learn more about our cookie policy, <a href="https://www.powerreviews.com/ad-and-cookie-policy/" target="_blank" rel="noopener noreferrer">click here</a>.</p>
+<p><b>Marketing Communications</b>:&nbsp;If you receive marketing communications from a PowerReviews client and would no longer like to be contacted by them, please contact that client directly. If you receive marketing communications from PowerReviews and would no longer like to be contacted by us, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by sending us an email request to be opted out of marketing communications to <a href="mailto:privacy@powerreviews.com" target="_blank" rel="noopener noreferrer">privacy@powerreviews.com</a>.</p>
+<p><b>Do-Not-Track</b>: Currently, our systems do not recognize browser “do-not-track” requests.&nbsp; You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies).</p>
+<p><b>Access and Correction: </b>If you would like to access, correct, amend, or delete Consumer Account Info or UGC submitted through a PowerReviews client or the Review Service, please contact that client directly. If a PowerReviews client requests us to update or remove your information from our systems, we will respond to their request within thirty (30) days of receipt. PowerReviews recognizes the individual’s right to access their personal data.&nbsp; If you would like to access, correct, amend or delete any of your personally identifiable information collected or held by PowerReviews through the Site, you may do so through your account settings, if applicable, or by mailing or emailing your request to the below address. We will respond to such requests within thirty (30) days of receipt.</p>
+<p>Attn. Privacy<br>
+PowerReviews, Inc.<br>
+1 N. Dearborn, Suite 800<br>
+Chicago, IL 60602<br>
+privacy@powerreviews.com</p>
+<hr>
+<h3 id="Transfers">CROSS-BORDER TRANSFERS</h3>
+<p>PowerReviews may provide the Site and Review Services globally. As a result, we may, subject to law, transfer and store your personal information, in connection with the Site and Review Services, to countries where data protection standards may differ from those in the country where you reside, including to the United States of America. By using the Site and the Review Services, you understand that we may transfer your personal information globally. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries will be entitled to access your personal information. However, our transfer, storage, and processing of your personal data will at all times be in accordance with this Policy.</p>
+<hr>
+<h3 id="Minors">USE OF SERVICES BY MINORS</h3>
+<p>We do not intend, and the Site and the Review Service is not designed, to knowingly collect personal information from children. If you are under 13 years old, or if you are between 13 and 16 years old and you live in the European Union or the United Kingdom, you should not register with or otherwise provide personal information to our Site or the Review Service.</p>
+<hr>
+<h3 id="Security">SECURITY</h3>
+<p>We use reasonable security measures in an effort to prevent loss, misuse and alteration of information under our control. We cannot, however, guarantee protection of all information against interception, misappropriation, misuse, or alteration, or that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Furthermore, we have no control over the security of other sites you might visit, interact with or do business with.</p>
+<hr>
+<h3 id="Changes">CHANGES TO THIS POLICY</h3>
+<p>We will modify this Policy if our privacy practices materially change in the future. We will notify you of such changes only by posting the new policy on our Site or Review Service and indicating at the top of the Policy the date it was last updated. We encourage you to review the Policy each time you visit our Site or Review Service to see if it has been updated since your last visit to make sure you understand how personal information you provide will be used.</p>
+<hr>
+<h3 id="Dispute">DISPUTE RESOLUTION</h3>
+<p>In compliance with the EU-US and Swiss-US Privacy Shield Principles, PowerReviews commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact PowerReviews by mail or email as follows:</p>
+<p>Attn. Privacy<br>
+PowerReviews, Inc.<br>
+1 N. Dearborn, Suite 800<br>
+Chicago, IL 60602<br>
+privacy@powerreviews.com</p>
+<p>PowerReviews has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit <a href="http://www.bbb.org/EU-privacy-shield/for-eu-consumers/" target="_blank" rel="noopener noreferrer">www.bbb.org/EU-privacy-shield/for-eu-consumers/</a> for more information and to file a complaint.</p>
+<p>Under certain limited conditions and if your complaint is not resolved by PowerReviews or the BBB EU PRIVACY SHIELD, a binding arbitration option may be made available to you through the Privacy Shield Panel.</p>
+<hr>
+<h3 id="Questions">QUESTIONS AND CONTACT INFORMATION</h3>
+<p>If you have any questions, inquiries or complaints about this Policy, or the practices of or your dealings with the Site or Review Service, please contact us at the following address or email:</p>
+<p>PowerReviews, Inc.<br>
+1 N. Dearborn, Suite 800<br>
+Chicago IL 60602<br>
+privacy@powerreviews.com</p>
+  </div><!-- .entry-content -->
+
+  </article><!-- #post-104 -->
+    </article>
+    
+    </main><!-- #main -->
+  </div><!-- #primary -->
+
+
+  </div><!-- #content -->
 
   
-</head>
+  <footer id="colophon" class="site-footer">
+    <div class="pw-footer-columns">
+    <div class="pw-footer-column"><h2 class="pw-footer-category">Main</h2><div class="menu-main-container"><ul id="pw-footer-main" class="pw-footer-main-menu"><li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="https://www.powerreviews.com/solutions/">Solutions</a></li>
+<li id="menu-item-11223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11223"><a href="https://www.powerreviews.com/ratings-and-reviews/">Ratings &amp; Reviews</a></li>
+<li id="menu-item-11222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11222"><a href="https://www.powerreviews.com/questions-and-answers/">Questions &amp; Answers</a></li>
+<li id="menu-item-11224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11224"><a href="https://www.powerreviews.com/visual-and-social-suite/">Visual &amp; Social</a></li>
+<li id="menu-item-11220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11220"><a href="https://www.powerreviews.com/influencer-and-sampling-suite/">Influencer &amp; Sampling</a></li>
+<li id="menu-item-11221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11221"><a href="https://www.powerreviews.com/intelligence-suite/">Intelligence Suite</a></li>
+<li id="menu-item-11593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11593"><a href="https://www.powerreviews.com/customer-experience/">Customer Experience</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="https://www.powerreviews.com/open-network/">Open Network</a></li>
+<li id="menu-item-11247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11247"><a href="https://www.powerreviews.com/power-services/">Power Service</a></li>
+</ul></div></div><div class="pw-footer-column"><h2 class="pw-footer-category">Company</h2><div class="menu-company-container"><ul id="pw-footer-company" class="pw-footer-company-menu"><li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="https://www.powerreviews.com/about/">About</a></li>
+<li id="menu-item-11249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11249"><a href="https://www.powerreviews.com/success-stories/">Success Stories</a></li>
+<li id="menu-item-11245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11245"><a href="https://www.powerreviews.com/events/">News and Events</a></li>
+<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://www.powerreviews.com/careers/">Careers</a></li>
+<li id="menu-item-11229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11229"><a href="https://www.powerreviews.com/culture/">Culture</a></li>
+<li id="menu-item-11237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11237"><a href="https://www.powerreviews.com/blog/">Blog</a></li>
+<li id="menu-item-11239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11239"><a href="https://www.powerreviews.com/resources/">Resources</a></li>
+<li id="menu-item-11238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11238"><a href="https://www.powerreviews.com/insights/">Insights</a></li>
+</ul></div></div><div class="pw-footer-column"><h2 class="pw-footer-category">Support</h2><div class="menu-support-container"><ul id="pw-footer-support" class="pw-footer-support-menu"><li id="menu-item-644" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644"><a href="https://auth.powerreviews.com/login">Customer Login</a></li>
+<li id="menu-item-645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-645"><a href="https://www.bzzagent.com/">Become an Influencer</a></li>
+<li id="menu-item-11248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11248"><a href="https://www.powerreviews.com/webinars/">Webinars</a></li>
+<li id="menu-item-12497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12497"><a href="https://www.powerreviews.com/partners/">Partners</a></li>
+<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="https://www.powerreviews.com/demo/">Request a Demo</a></li>
+<li id="menu-item-11241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11241"><a href="https://www.powerreviews.com/contact/">Contact Us</a></li>
+</ul></div></div>    <div class="pw-footer-column">
+      <h2 class="pw-footer-category">Follow</h2>
+      <div class="menu-follow-container">
+                    <a target="_blank" href="https://twitter.com/PowerofReviews" title="PowerReviews Twitter">
+              <div class="pw-footer-social">
+                <i class="fab fa-twitter"></i>
+              </div>
+            </a>
+                    <a target="_blank" href="https://www.linkedin.com/company/powerreviews" title="PowerReviews LinkedIn">
+              <div class="pw-footer-social">
+                <i class="fab fa-linkedin-in"></i>
+              </div>
+            </a>
+                    <a target="_blank" href="https://www.facebook.com/pages/PowerReviews/1514801688740277" title="PowerReviews Facebook">
+              <div class="pw-footer-social">
+                <i class="fab fa-facebook-f"></i>
+              </div>
+            </a>
+                    <a target="_blank" href="https://vimeo.com/powerofreviews" title="PowerReviews Vimeo">
+              <div class="pw-footer-social">
+                <i class="fab fa-vimeo"></i>
+              </div>
+            </a>
+              </div>
+    </div> <!-- .pw-footer-column -->
+    </div> <!-- .pw-footer-columns -->
 
+    <div class="site-info">
+      <div>
+        <div class="pw-footer-copyright">
+          © Copyright 2019 PowerReviews. All rights reserved.        </div>
+        <div class="pw-footer-legal-container"><ul id="pw-footer-legal" class="pw-footer-legal-menu"><li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://www.powerreviews.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-104 current_page_item menu-item-124"><a href="https://www.powerreviews.com/privacy-policy/" aria-current="page">Privacy Policy</a></li>
+</ul></div>      </div>
 
-<body class="mystery-user minimal" data-agent="BreakpointGroupTracker,AuthStatus,trackable.Dom,trackable.Authentication" data-breakpoint-group-tracker-stylesheet="vp3_desktop">
+      <img class="footer-logo" src="https://www.powerreviews.com/wp-content/themes/powerreviews-corpsite/images/logo-grey.png" alt="PowerReviews Logo">
 
-  <a href="#contentBegins" class="visuallyHidden" rel="nofollow">Skip to content</a>
+  </div><!-- .site-info -->
 
-      <span class="js-hidden" data-agent="popup.CloseLink"></span>
+  </footer><!-- #colophon -->
+</div><!-- #page -->
 
-<header class="minimal">
-  <div class="grid-container">
-    <div class="grid-featured">
-      <div class="logo solo"><img alt="Viewpoints" src="http://cdn1.viewpoints.com/images/logo/viewpoints.png"></div>
-    </div>
-  </div>
-</header>
+    	<script>
+    		
+    		if(typeof jQuery != 'undefined'){
+ 
+			function sfsi_plus_align_icons_center_orientation(_centerPosition){
 
+			    function applyOrientation() {
+			        
+			        var elemF = jQuery('#sfsi_plus_floater');
 
+			        if(elemF.length>0){
 
-  <a name="contentBegins" id="contentBegins"></a>
+			            switch(_centerPosition){
+			                case 'center-right':case 'center-left':
+			                    var toptalign = ( jQuery(window).height() - elemF.height() ) / 2;
+			                    elemF.css('top',toptalign);                      
+			                break;
 
-    <div class="grid-container">
+			                case 'center-top':case 'center-bottom':
+			                    var leftalign = ( jQuery(window).width() - elemF.width() ) / 2;
+			                    elemF.css('left',leftalign);                      
+			                break;
+			            }
+			        }
+			    }
+			            
+			    var prev_onresize = window.onresize;
+			    window.onresize = function (event) {
 
-  <div class="main" role="main">
+			        if('function' === typeof prev_onload){
+			            prev_onresize(),applyOrientation();
+			        }
+			        else{
+			            applyOrientation();
+			        }
+			    }               
+			}
 
-    
+		    jQuery(document).ready(function(e) {
+	                jQuery("body").addClass("sfsi_plus_11.1")
+	         });
+		
+		   function sfsi_plus_processfurther(ref) {
+					var feed_id = 'YUNWTE9neVhsYVo3c0NDVUtPNGhUcWFmUFpTT0pMcHJhZ21XYlRuOC9KZlRLbTVYL3JqT2ZZWHRwTUVrSndtTzY1cU01dTJJcUhMZ0pWUjQrRkJ3M00zbjlBT1pHR1NjVG8zOFlHVUJZbkxJT1Z1aVlOZHZGdlJicWZIK1UzbCt8cTlnMnQrbWdGVG5EVmZPNENjaUMzdGlhd3FWcWdXaElYR1ZMVEdJakJyND0=';
+					var feedtype = 8;
+					var email = jQuery(ref).find('input[name="data[Widget][email]"]').val();
+					var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+					if ((email != "Enter your email") && (filter.test(email))) {
+						if (feedtype == "8") {
+							var url = "https://www.specificfeeds.com/widgets/subscribeWidget/"+feed_id+"/"+feedtype;
+							window.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");
+							return true;
+						}
+					} else {
+						alert("Please enter email address");
+						jQuery(ref).find('input[name="data[Widget][email]"]').focus();
+						return false;
+					}
+		  }
+    		}
+		</script>
+    	<style type="text/css">
 
+    	    
+							.sfsi_plus_shortcode_container .sfsiplus_norm_row.sfsi_plus_wDiv{
+								width:180px !important;
+							}	
+				
+					
+							#sfsi_plus_floater{
+								width:45px !important;
+							}	
+				
+														.sfsi_plus.sfsi_plus_widget_main_container
+						{
+							text-align: left;
+						}
+						.sfsi_plus.sfsi_plus_widget_main_container .sfsi_plus_widget_sub_container
+						{
+							float: left;
+						}
+						.sfsi_plus.sfsi_plus_widget_main_container .sfsiplus_norm_row.sfsi_plus_wDiv
+						{
+							position: relative !important;
+						}
+						.sfsi_plus.sfsi_plus_widget_main_container .sfsi_plus_holders
+						{
+							display: none;
+						}
+											.sfsi_plus_shortcode_container
+						{
+							float: left;
+						}
+						.sfsi_plus_shortcode_container .sfsiplus_norm_row.sfsi_plus_wDiv
+						{
+							position: relative !important;
+						}
+						.sfsi_plus_shortcode_container .sfsi_plus_holders
+						{
+							display: none;
+						}
+								.sfsiaftrpstwpr .sfsi_plus_Sicons div:first-child span, .sfsibeforpstwpr .sfsi_plus_Sicons div:first-child span
+			{
+				font-size: 20px;
+				font-style: normal;
+				font-family: inherit;
+				color: #000000;
+			}
+			
+			.sfsibeforpstwpr, .sfsiaftrpstwpr {
+				margin-top: 5px !important;
+				margin-bottom: 5px !important;
+			}
 
-    
-  <div class="grid-featured primary">
-    <header class="mainContentHeader"><h1 class="last-child">Privacy, Security &amp; Your Ad Choices</h1></header>
+			.sfsi_plus_rectangle_icons_shortcode_container {
+				margin-top: 5px !important;
+				margin-bottom: 5px !important;
+			}
 
-    
-<div>
-<p><i>Last updated: August 29, 2011</i></p>
+			.sfsi_plus_subscribe_Popinner
+			{
+								width: 100% !important;
+				height: auto !important;
+												border: 1px solid #b5b5b5 !important;
+								padding: 18px 0px !important;
+				background-color: #ffffff !important;
+			}
+			.sfsi_plus_subscribe_Popinner form
+			{
+				margin: 0 20px !important;
+			}
+			.sfsi_plus_subscribe_Popinner h5
+			{
+				font-family: Helvetica,Arial,sans-serif !important;
+								font-weight: bold !important;
+								color: #000000 !important;
+				font-size: 16px !important;
+				text-align: center !important;
+				margin: 0 0 10px !important;
+    			padding: 0 !important;
+			}
+			.sfsi_plus_subscription_form_field {
+				margin: 5px 0 !important;
+				width: 100% !important;
+				display: inline-flex;
+				display: -webkit-inline-flex;
+			}
+			.sfsi_plus_subscription_form_field input {
+				width: 100% !important;
+				padding: 10px 0px !important;
+			}
+			.sfsi_plus_subscribe_Popinner input[type=email]
+			{
+				font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_plus_subscribe_Popinner input[type=email]::-webkit-input-placeholder {
+			   font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			
+			.sfsi_plus_subscribe_Popinner input[type=email]:-moz-placeholder { /* Firefox 18- */
+			    font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			
+			.sfsi_plus_subscribe_Popinner input[type=email]::-moz-placeholder {  /* Firefox 19+ */
+			    font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			
+			.sfsi_plus_subscribe_Popinner input[type=email]:-ms-input-placeholder {  
+			  	font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_plus_subscribe_Popinner input[type=submit]
+			{
+				font-family: Helvetica,Arial,sans-serif !important;
+								font-weight: bold !important;
+								color: #000000 !important;
+				font-size: 16px !important;
+				text-align: center !important;
+				background-color: #dedede !important;
+			}
+		</style>
+				<!--facebook like and share js -->                   
+			<div id="fb-root"></div>
+			<script>(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+			
+	        <!-- linkedIn share and  follow js -->
+	        <script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
 
-<p>Viewpoints, LLC, ("Viewpoints", "us", "we" or "our") is committed
-  to protecting your privacy. This policy ("Privacy Policy") covers how
-  Viewpoints treats personal information that it collects and receives.
-  Personal information is information about you that is personally
-  identifiable like your name, address, email address, and phone number.</p>
+						
+			<!-- twitter JS End -->
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	
+		
+			<script type="text/javascript">
 
-<p>This Privacy Policy is considered to be a part of Viewpoints' Terms of
-  Service. By using and accessing the site owned and operated by Viewpoints
-  located at http://www.viewpoints.com, and any and all linked pages owned and
-  operated by Viewpoints, related on-line services provided by Viewpoints and
-  any content and materials provided by Viewpoints, its business partners or
-  Users (collectively, the "Viewpoints Site") you agree to the terms and
-  conditions of the Terms of Service, including this Privacy Policy. By using
-  the Viewpoints Site, you are also consenting to Viewpoints' privacy practices.
-  If you have additional questions, you may send an email to <a href="mailto:privacy@viewpoints.com?subject=Question about your privacy&#10;  policy">privacy@viewpoints.com</a>.</p>
+			// Code to show flip effect on mouseover of icon STARTS //
+			(function ($) {
 
-<a name="what_we_collect"></a>
+				$(document).ready(function(){
 
-<h3>What We Collect</h3>
+				    var allIcons = $(".sfsiplus_inerCnt");
 
-<p>Viewpoints collects personal information when you register with the
-  Viewpoints Site, when you use our products and/or services, when you visit
-  the Viewpoints Site pages or the pages of certain Viewpoints partners, when
-  you enter promotions and sweepstakes via the Viewpoints Site and when you
-  participate in market research studies sponsored by Viewpoints. Viewpoints
-  may combine information about you we have with information we obtain from
-  business partners or other companies.</p>
+				    $.each( allIcons, function( i, elem ) {
+				        
+				        var currElem = $(elem);
 
-<p>When you register with Viewpoints, we ask for information such as your
-  name, email address, birth date, gender, ZIP code and/or password among
-  other contact requirements. The registration form information requests may
-  change from time to time. When you register with Viewpoints and sign in to
-  our service, you are not anonymous to us.</p>
+				        var othericoneffect = currElem.attr("data-othericoneffect");
 
-<p>Any additional information, including personal information, you include
-  in a user profile or post to the Viewpoints Site will be publicly available
-  and may be accessed by visitors to the site. Any information you choose to
-  include in a user profile or post to the Viewpoints Site is provided at your
-  sole discretion.</p>
+				        if("string" === typeof othericoneffect && othericoneffect.length>0)
+				        {
 
-<p>Viewpoints automatically receives and records information on our server
-  logs from your browser, including your IP Address, Viewpoints cookie
-  information, and each page you request.</p>
+				            var backElem = currElem.find('.sciconback');
 
-<p>Viewpoints uses information for the following general purposes: to
-  customize the advertising and content you see, improve our services, contact
-  you, conduct research, and provide anonymous reporting for internal and
-  external clients.</p>
+				            if(backElem.length==1){
 
-<p>Children: Because the Viewpoints Site is not intended for use by anyone
-  under the age of 18, Viewpoints does not knowingly collect any personal
-  information from persons under the age of 18 and will automatically block
-  registration of any person if they indicate they are under the age of 18. If
-  we learn that any user is under the age of 18, we will terminate the account
-  and delete the user's information. Inherent in the Viewpoints service is the
-  responsibility of parents and/or guardians to ensure that their children's
-  privacy is protected.</p>
+				                switch(othericoneffect){
 
-<p>Viewpoints uses third-party advertising companies to serve ads when you
-  visit our Web site. These companies may use information (not including your
-  name, address, email address or telephone number) about your visits to this
-  and other Web sites in order to provide advertisements about goods and
-  services of interest to you.</p>
+				                    case "noeffect":
 
-<p>If you would like more information about this practice and to know your
-  choices about not having this information used by these companies, click
-  here: <a href="http://networkadvertising.org/consumer/opt_out.asp" target="_blank">http:// networkadvertising.org/consumer/opt_out.asp</a></p>
+				                        var frontElem = currElem.find('.sciconfront');
+				                        
+				                        currElem.hover(function(){
 
-<p>If you would like more information about interest-based information
-  tracking and opting out, click here: <a href="http://www.aboutads.info/choices/" target="_blank">http://www.aboutads.info/choices/</a></p>
+				                            if(frontElem.hasClass("sfsihide")){
+				                                frontElem.removeClass("sfsihide").addClass('sfsishow');
+				                                backElem.removeClass("sfsishow").addClass('sfsihide');
+				                            }
+				                           else if(frontElem.hasClass("sfsishow")){
+				                                frontElem.removeClass("sfsishow").addClass('sfsihide');
+				                                backElem.removeClass("sfsihide").addClass('sfsishow');
+				                            }                            
 
-<p>If you would like more information about disabling and controlling
-  third-party cookies in your browser, click here: <a href="http://www.aboutcookies.org/Default.aspx?page=1" target="_blank">http://www.aboutcookies.org/Default.aspx?page=1</a></p>
+				                        });
 
-<h3>What We Share</h3>
+				                    break;
 
-<p>Viewpoints does not rent, sell, or share personal information about you
-  with other people or nonaffiliated companies except to provide products or
-  services you've requested, when we have your permission, or under the
-  following circumstances:</p>
+				                    case "flip":
 
-<p>We may provide your personal information to our business partners, such
-  as service providers and third party processors who work with us to provide
-  elements of the Viewpoints service. These companies may use your personal
-  information to provide us with the services we have hired them to perform,
-  such as helping Viewpoints communicate with you about offers from Viewpoints
-  and/or our marketing partners or otherwise organizing, administering,
-  processing, appending and/or analyzing data on our behalf, sending email
-  correspondence on our behalf or delivering other necessary services. These
-  business partners are prohibited from using your personal information except
-  to provide these services on behalf of Viewpoints and they are required to
-  maintain the confidentiality of your personal information. </p>
+				                        currElem.hover(function(){
+				                            $(this).trigger("click");
+				                        });
 
-<p>We will release or disclose your personal information, including to
-  local, state, or federal law enforcement officials, when we believe in good
-  faith that the law requires such action, or when required to do so by order
-  of a court or authorized administrative or law enforcement agency or
-  personnel. We may also share information in order to investigate, prevent,
-  or take action regarding illegal activities, suspected fraud, situations
-  involving potential threats to the physical safety of any person, or to
-  prevent violations of Viewpoints' Terms of Service.</p>
+				                        var frontElem = currElem.find('.sciconfront');
 
-<p>We will transfer your personal information if we are acquired by or merge
-  with another company, or in the unlikely event of a bankruptcy. We will
-  notify you in accordance with the procedures contained in this Privacy
-  Policy if your information will become subject to a different privacy
-  policy. When you visit the Viewpoints Site, we may display advertisements
-  targeted toward people who share characteristics with you, based on personal
-  information we collect from you. When you interact with, view, or click
-  targeted advertisements, the advertiser (including the ad serving company)
-  may assume you meet the targeting criteria. Viewpoints does not provide any
-  personal information to the advertiser when you interact with or view a
-  targeted advertisement, however, you may be asked by the advertiser to
-  provide such information to the advertiser if you interact with, view or
-  click the advertisement. We may transmit your search queries, if any, to
-  business partners who use this information to provide us with search results
-  and other information, which we then display to you.</p>
+				                        currElem.flip({
 
-<p>We may also share certain data with our business partners or service
-  providers in aggregate form for audit, marketing and other purposes. Because
-  aggregated data is not associated with any particular person, the third
-  parties with whom we share this information will not have access to your
-  personally identifiable information.</p>
+				                          axis    : 'x',
+				                          trigger : 'click',
+				                          reverse : true,
+				                          front   : frontElem,
+				                          back    : backElem,
+				                          autoSize: true
+				                        },function(){
 
-<h3>Cookies</h3>
+				                            //alert("asd");
 
-<p>We use "cookies" to personalize your viewing of the Viewpoints website,
-  to enable you to access your account and to facilitate the automatic log-in
-  process. A cookie is a text file that is placed on your hard disk by a web
-  page server. Cookies cannot be used to run programs or deliver viruses to
-  your computer. Cookies are uniquely assigned to you, and can only be read by
-  a web server in the domain that issued the cookie to you. Viewpoints lets
-  other companies that show advertisements on some of our pages set and access
-  their cookies on your computer. Other companies' use of their cookies is
-  subject to their own privacy policies and not this one. Advertisers and
-  other companies do not have access to Viewpoints' cookies.</p>
+				                        });               
+				                    
+				                    break;
 
-<p>You have the ability to accept or decline cookies. Most web browsers
-  automatically accept cookies, but you can usually modify your browser
-  setting to decline cookies if you prefer. If you choose to decline cookies,
-  you may not be able to fully experience the interactive features of
-  www.viewpoints.com or the other websites you visit.</p>
+				                }
 
-<p>Viewpoints' pages and/or HTML emails may contain single-pixel gifs called
-  "web beacons" that allow us (i) to count users who have visited a certain
-  web page or opened an email, (ii) to conduct research on partner websites
-  for auditing purposes, or (iii) to access your www.viewpoints.com "cookie"
-  to identify you when on third party websites. These web beacons may be used
-  to report aggregate demographic or usage information to our partners.
-  Viewpoints' web pages may also contain web beacons placed there by third
-  parties to help determine the effectiveness of our joint promotional or
-  advertising campaigns. No personally identifiable information about you is
-  shared with partners except as otherwise set forth in this Privacy
-  Policy.</p>
+				            }
 
-<h3>Setting your Preferences</h3>
+				        }
 
-<p>You can edit your <b>Viewpoints Account Information</b>, including your
-  <b>email preferences</b>, at any time.</p>
+				    });
 
-<p>New types of marketing communications might be added to the Email
-  Preferences page from time to time. Users who visit this page can opt out of
-  receiving future marketing communications or they can unsubscribe by
-  following instructions contained in the messages they receive. We reserve
-  the right to send you certain communications relating to the Viewpoints
-  service, such as service announcements and administrative messages that are
-  considered part of your Viewpoints account, without offering you the
-  opportunity to opt out of receiving them.</p>
+				});
 
-<p>You can submit a request to delete your Viewpoints account by clicking on
-  the HELP link. There, simply click on CONTACT US. Provide your screen name
-  and email address you registered with and we will disable your account. Some
-  information may possibly remain in our archived records after your account
-  has been deleted.</p>
+			})(jQuery);
 
-<h3>Changes to this Privacy Policy</h3>
+			// Code to show flip effect on mouseover of icon STARTS //
+			</script>
 
-<p>We reserve the right, at any time and without notice, to add to, update,
-  change, modify or revise this Privacy Policy, the Viewpoints Site or our
-  services simply by posting such change, update or modification on the
-  Viewpoints Site. Any such addition, update, change, modification or revision
-  will be effective immediately upon posting. If we materially change how we
-  use your personal information, we will notify you via email and amend this
-  policy accordingly.</p>
+	    	
+		<script type="text/javascript">
 
-<h3>Questions and Suggestions</h3>
+			var __limit  =  'no';
 
-<p>If you have any questions about this Privacy Policy, our
-  information-handling practices, or other aspects of privacy, please contact
-  us by email or via postal mail at: </p>
+			function sfsi_plus_setCookie(name, value, time) {
+			    var date = new Date();
+			    date.setTime(date.getTime() + (time * 1000));
+			    document.cookie = name + "=" + value + "; expires=" + date.toGMTString() + "; path=/";
+			}
 
-<p>
-  Viewpoints Privacy<br>
-  Viewpoints, LLC.<br>
-  1 N Dearborn<br>
-  Suite 800<br>
-  Chicago, IL 60602<br>
-  <a href="mailto:privacy@viewpoints.com?subject=Question about your&#10;    privacy policy">privacy@viewpoints.com</a>
-</p>
+			function sfsi_plus_getCookie(name) {
+			    var nameEQ = name + "=";
+			    var ca = document.cookie.split(';');
+			    for (var i = 0; i < ca.length; i++) {
+			        var c = ca[i];
+			        while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+			        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length)
+			    }
+			    return null;
+			}
 
-</div>
+			function sfsi_plus_eraseCookie(name) {
+			    sfsi_plus_setCookie(name, null, -1)
+			}
 
-  </div>
+			// Returns timestamp in seconds
+			function sfsi_plusGetCurrentUTCTimestamp(){
+				var tmLoc = new Date();
+	    		//The offset is in minutes -- convert it to ms
+	    		var timeStamp = (tmLoc.getTime() + tmLoc.getTimezoneOffset() * 60000)/1000;
+	    		return Math.floor(timeStamp);
+			}
 
+			function sfsi_plusGetCurrentTimestamp(){
+				var tmLoc = new Date();
+	    		//The offset is in minutes -- convert it to ms
+	    		var timeStamp = (tmLoc.getTime())/1000;
+	    		return Math.floor(timeStamp);
+			}		
 
+			function sfsi_plus_is_null_or_undefined(value){
+			    
+			    var type = Object.prototype.toString.call(value);
 
-</div>
-    </div>
+			    if("[object Null]" == type || "[object Undefined]" == type){
+			        return true;
+			    }
 
-    <footer class="grid-container">
-      <div class="grid-featured">
-        <div>
-            <div class="copyrightNotice">
-  ©2006-2018 Viewpoints. All rights reserved.
-</div>
+			    return false;
+			}
 
+			var __popTime = 0;
 
+			function sfsi_plusShallShowPopup(_popUpTime){
 
+				var _popUpTime		  = parseInt(_popUpTime);
+				var _currTimestamp    = parseInt(sfsi_plusGetCurrentTimestamp());
+				var _sfsi_popupCookie = parseInt(sfsi_plus_getCookie('sfsi_popup'));
+
+				_shallShowPopup = true;
+
+				if(false != _popUpTime && typeof _sfsi_popupCookie != 'undefined' && _sfsi_popupCookie!=null){
+						
+					_diff = ( _sfsi_popupCookie - _currTimestamp ) < _popUpTime;
+					
+					if(_diff){
+						_shallShowPopup =  false;
+					}
+				}
+
+				return _shallShowPopup;
+
+			}
+			
+			function sfsi_plus_hidemypopup()
+			{
+				SFSI(".sfsi_plus_FrntInner").fadeOut("fast");
+
+				
+				 if(__limit == "yes") {				
+				 	sfsi_plus_setCookie("sfsi_popup","yes",__popTime);
+				}
+			}
+	    </script>
+   	 	
+ 	<script>
+
+ 	if(typeof jQuery !== 'undefined'){
+
+	    jQuery(document).ready(function($) {
+
+			if("yes" != __limit){
+				sfsi_plus_eraseCookie('sfsi_popup');		
+			}
+
+		    jQuery(document).scroll(function($)
+			{
+				var cookieVal = sfsi_plus_getCookie("sfsi_popup");
+				
+				if(sfsi_plus_is_null_or_undefined(cookieVal))
+				{
+					var y = jQuery(this).scrollTop();
+
+					var _Hide_popupOnScroll = 'yes';
+					_Hide_popupOnScroll     = 0 ==_Hide_popupOnScroll.length ? 'no' : _Hide_popupOnScroll;   
+
+					if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))
+					{	 
+						if(jQuery(window).scrollTop() + jQuery(window).height() >= jQuery(document).height()-100)
+						{
+						  jQuery('.sfsi_plus_outr_div').css({'z-index':'9996',opacity:1,top:jQuery(window).scrollTop()+"px",position:"absolute"});
+						  jQuery('.sfsi_plus_outr_div').fadeIn(200);
+						  jQuery('.sfsi_plus_FrntInner').fadeIn(200);
+
+							if("yes" == __limit){
+								sfsi_plus_setCookie("sfsi_popup","yes",__popTime);									
+							}
+
+						}
+						else
+						{
+							if("yes" == _Hide_popupOnScroll){
+								jQuery('.sfsi_plus_outr_div').fadeOut();
+								jQuery('.sfsi_plus_FrntInner').fadeOut();										
+							}
+						}
+					}
+					else
+					{
+						if(jQuery(window).scrollTop() + jQuery(window).height() == jQuery(document).height())
+						{
+							jQuery('.sfsi_plus_outr_div').css({'z-index':'9996',opacity:1,top:jQuery(window).scrollTop()+200+"px",position:"absolute"});
+							jQuery('.sfsi_plus_outr_div').fadeIn(200);
+							jQuery('.sfsi_plus_FrntInner').fadeIn(200);
+
+							if("yes" == __limit){
+								sfsi_plus_setCookie("sfsi_popup","yes",__popTime);									
+							}
+
+						}
+						else
+						{
+							if("yes" == _Hide_popupOnScroll){
+								jQuery('.sfsi_plus_outr_div').fadeOut();
+								jQuery('.sfsi_plus_FrntInner').fadeOut();										
+							}									
+						}
+					}					
+				}
+			});
+		});
+ 	}	
+	</script>
+	      <div class="fl-row-content-wrap prd-wrap fl-builder-content">
+        <div class="fl-row-content fl-row-full-width fl-node-content">
+          <div id="prdisclaimer" class="prd-wrapper clearfix widget-area">
+            <div class="col-md-8 col-sm-12 pull-left">
+              <p>This site and our services use cookies and other technologies to collect and/or store information on your computer. Some are essential to make
+                  our site work while others improve your experience. Read our <a href="/privacy-policy/">Privacy Policy</a> and <a href="/powerreviews-com-ad-and-cookie-policy/">Cookie Policy</a> to learn more.</p>
+            </div>
+            <div class="prdisclaimer-form col-md-4 col-sm-12 pull-right">
+              <form id="prd-form">
+                <span class="fl-button-wrap fl-button-width-auto">
+                  <a href="#" class="fl-button prd-accept" role="button">
+                    <span class="fl-button-text">Accept</span>
+                  </a>
+                </span>
+              </form>
+            </div>
+          </div>
         </div>
       </div>
-    </footer>
-
-  <script src="http://cdn1.viewpoints.com/assets/viewpoints_manifest-a62852b7ec61447937731a83d171acca.js" type="text/javascript"></script>
-
-<script src="http://cdn1.viewpoints.com/assets/vp3_all-53d1fc6bd208ead942864e16e7a21e39.js"></script>
-
-
-
-
-
-<script>
-  jQuery(document).ready(function () {
-    vp3.setup({
-      logNoisy: "false",
-      autoRecruit: "true"
-    });
-  });
-</script>
-
-
-
-
-
-
+    <link rel="stylesheet" id="prd-style-css" href="https://www.powerreviews.com/wp-content/plugins/prdisclaimer/css/prdisclaimer.css?ver=5.1.1" type="text/css" media="all">
+<script type="text/javascript" src="https://www.powerreviews.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.powerreviews.com/wp-content/plugins/Ultimate-Premium-Plugin/js/shuffle/modernizr.custom.min.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.powerreviews.com/wp-content/plugins/Ultimate-Premium-Plugin/js/shuffle/jquery.shuffle.min.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.powerreviews.com/wp-content/plugins/Ultimate-Premium-Plugin/js/shuffle/random-shuffle-min.js?ver=5.1.1"></script>
 <script type="text/javascript">
-  var uvOptions = {};
-  (function () {
-    var uv = document.createElement('script');
-    uv.type = 'text/javascript';
-    uv.async = true;
-    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/sRo9oQgrSisQZsXTvSnjjQ.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(uv, s);
-  })();
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/www.powerreviews.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.powerreviews.com\/wp-content\/plugins\/Ultimate-Premium-Plugin\/"};
+/* ]]> */
 </script>
-<script>
-  v_3_analytics.ga.pushQueue(['_setDomainName', 'www.viewpoints.com']);
-  v_3_analytics.ga.trackRaw();
-
-
-  
-
-  v_3_analytics.ga.trackCustom(
-      '/rollup/R_C/Null-No-Ads/Static-Content/Privacy-Policy/R_C_E/R_L/Null-No-Ads/Static-Content/Privacy-Policy/R_L_E/R_P/Static-Content/Privacy-Policy/R_P_E/'
-  );
-
-  v_3_analytics.ga.load();
+<script type="text/javascript" src="https://www.powerreviews.com/wp-content/plugins/Ultimate-Premium-Plugin/js/custom.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.powerreviews.com/wp-content/themes/powerreviews-corpsite/js/carousel.js?ver=1"></script>
+<script type="text/javascript" src="https://www.powerreviews.com/wp-content/themes/powerreviews-corpsite/js/skip-link-focus-fix.js?ver=20151215"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var modalStartDate = null;
+/* ]]> */
 </script>
+<script type="text/javascript" src="https://www.powerreviews.com/wp-content/themes/powerreviews-corpsite/js/modal-promotion.js?ver=1"></script>
+<script type="text/javascript" src="https://www.powerreviews.com/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.powerreviews.com/wp-content/plugins/prdisclaimer/js/prdisclaimer.js?ver=5.1.1"></script>
 
-
-
-
-
-
-
+  <script type="text/javascript">
+    (function() {
+      var didInit = false;
+      function initMunchkin() {
+        if(didInit === false) {
+          didInit = true;
+          Munchkin.init('653-DMZ-106');
+        }
+      }
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//munchkin.marketo.net/munchkin.js';
+      s.onreadystatechange = function() {
+        if (this.readyState == 'complete' || this.readyState == 'loaded') {
+          initMunchkin();
+        }
+      };
+      s.onload = initMunchkin;
+      document.getElementsByTagName('head')[0].appendChild(s);
+    })();
+  </script>
 
 
 
