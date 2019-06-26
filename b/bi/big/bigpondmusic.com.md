@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigpondmusic.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219054223id_/https%3A//www.telstra.com.au/privacy/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpondmusic.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626104040id_/https%3A//www.telstra.com.au/privacy/privacy-statement) for the most accurate reproduction.*
 
 # Telstra - Privacy statement (including Credit Reporting Policy)
 
