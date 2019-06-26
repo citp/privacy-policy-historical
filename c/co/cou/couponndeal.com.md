@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponndeal.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526135558id_/http%3A//www.couponndeal.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponndeal.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626135226id_/https%3A//www.couponndeal.com/privacy-policy) for the most accurate reproduction.*
 
 # Read Our Privacy Policy | Coupon N Deal
 
@@ -15,13 +15,13 @@ This website uses the Google AdWords remarketing/ Google Analytics service to ad
 **What do we use your information for?**  
 Any of the information we collect from you may be used in one of the following ways: 
 
-; To personalize your experience  
+To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-; To improve our website  
+To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To send periodic emails
+To send periodic emails
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
@@ -45,7 +45,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **Use of Site Browsing History**   
-By using website CouponNDeal.Com, you consent to collection, storage, and use of your browsing history on this website. We share this information with trusted 3rd parties that use it to show you marketing communications of interest only. While no Personally Identifiable Information is shared, we respect your right to privacy hence this transparent disclosure. In addition, we respect your right to opt out. If you want to opt out from this program, please click on the link below and select the appropriate option on the destination page – 
+By using website CouponNDeal.com, you consent to collection, storage, and use of your browsing history on this website. We share this information with trusted 3rd parties that use it to show you marketing communications of interest only. While no Personally Identifiable Information is shared, we respect your right to privacy hence this transparent disclosure. In addition, we respect your right to opt out. If you want to opt out from this program, please click on the link below and select the appropriate option on the destination page – 
 
 Opt Out Page   
 In addition, most setup your browser software to reject 3rd party cookies. In addition, you can opt out of several similar programs by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) gateway opt-out site.
@@ -53,6 +53,5 @@ In addition, most setup your browser software to reject 3rd party cookies. In ad
 **Your Consent**   
 By using our site, you consent to our websites privacy policy.
 
-Changes to our Privacy Policy   
-If we decide to change our privacy policy, we will post those changes on this page.  
-http://www.couponndeal.com 
+**Changes to our Privacy Policy**   
+If we decide to change our privacy policy, we will post those changes on this page.
