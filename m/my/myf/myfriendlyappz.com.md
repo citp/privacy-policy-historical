@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfriendlyappz.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213175048id_/http%3A//www.myfriendlyappz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfriendlyappz.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626045712id_/http%3A//www.myfriendlyappz.com/privacy.php) for the most accurate reproduction.*
 
 # FriendlyAppz
 
@@ -157,6 +157,16 @@ We may disclose Personal Information as follows:
 We may also disclose Personal Information when legally required to do so, to cooperate with law enforcement investigations or other legal proceedings, to protect against misuse or unauthorized use of the Website, to limit our legal liability and protect our rights or to protect the rights, property or safety of users of this Site, the Service or the public.
 
 In addition, we may share non-Personal Information, such as aggregate user statistics, demographic information and Usage Information with third parties.
+
+**3.1 Information we collect and share within the scope of our different services/products (apps, extensions and websites integrations)**
+
+When you choose to use one of our many services – such as installing one of the extensions we offer, we may collect and share your information with other integrated services we offer, in order to better your user experience and provide you with ability to enjoy the extension you installed to the fullest.
+
+For example, when you install our extension, one of our related websites which offers content and/or other services _in the same topic as did the extension_ (such as – security, music, movies, etc.), can receive information about your recent activity (i.e. – installation of the related extension), and upon visiting the website you may be presented with a dashboard which may include information related to your use of the extension and/or offer you new ways to enjoy the extension.
+
+The information collected by these integrated services/products is subject to similar terms and policies, but we strongly advise you to review them.
+
+
 
   4. **Online Behavioral Advertising**
 
