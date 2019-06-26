@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsmobile.in privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230122547id_/http%3A//newsmobile.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmobile.in privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626160304id_/http%3A//newsmobile.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Newsmobile
+# Privacy Policy | Newsmobile
 
 Thank you for visiting [www.newsmobile.in](http://www.newsmobile.in/) the website of World Mobile News Network Pvt Ltd. We respect your privacy and consider it an important element of our ethics and our commitment to provide you independent and quality journalism. Our privacy policy is transparent: We do not collect personal information about you when you visit our website(s) unless you volunteer to provide that information to us. This is broadly how we handle the information we gather.
 
