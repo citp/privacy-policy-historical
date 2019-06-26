@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbanglanewspaperlist24.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128033559id_/http%3A//www.allbanglanewspaperlist24.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbanglanewspaperlist24.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626064549id_/http%3A//www.allbanglanewspaperlist24.com/privacy.php) for the most accurate reproduction.*
 
 # List of All Bangladesh Newspapers 2018- বাংলাদেশের সংবাদপত্রসমূহ
 
@@ -54,7 +54,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. 
 
-[https://support.google.com/adwordspolicy/answer/1316548?hl=en](https://web.archive.org/web/20181128033559id_/http%3A//www.allbanglanewspaperlist24.com/Google's%20advertising%20requirements%20can%20be%20summed%20up%20by%20Google's%20Advertising%20Principles.%20They%20are%20put%20in%20place%20to%20provide%20a%20positive%20experience%20for%20users.%20https://support.google.com/adwordspolicy/answer/1316548?hl=en)
+[https://support.google.com/adwordspolicy/answer/1316548?hl=en](https://web.archive.org/web/20190626064549id_/http%3A//www.allbanglanewspaperlist24.com/Google's%20advertising%20requirements%20can%20be%20summed%20up%20by%20Google's%20Advertising%20Principles.%20They%20are%20put%20in%20place%20to%20provide%20a%20positive%20experience%20for%20users.%20https://support.google.com/adwordspolicy/answer/1316548?hl=en)
 
 We use Google AdSense Advertising on our website. 
 
