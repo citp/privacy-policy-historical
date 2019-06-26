@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kobo.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231052814id_/https%3A//authorize.kobo.com/terms/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobo.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626150949id_/https%3A//authorize.kobo.com/terms/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Rakuten Kobo
 
