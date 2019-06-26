@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pets4homes.co.uk privacy policy that was archived on 2018-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181005191753id_/https%3A//www.pets4homes.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pets4homes.co.uk privacy policy that was archived on 2019-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190626183451id_/https%3A//www.pets4homes.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -11,10 +11,24 @@
 <meta name="verify-v1" content="qeuXOawcpp8HLe0vcBIT1S7x7daaBO/uOij5iRBFxmQ=">
 <meta name="google-site-verification" content="2zEfNOQE1szc70VOq6D4Hkks39HGXQcxbh7gdBMILhs">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="//www.pets4homes.co.uk/js/jquery.cookie.js"></script>
+
+<script src="https://cookiepro.blob.core.windows.net/consent/309758e8-6245-43ec-bb1f-e9b2c51253d8.js?v=0.14" type="text/javascript" charset="UTF-8" async=""></script>
+
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-734977-1"></script>
+<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-734977-1', { 'anonymize_ip': true });
+    </script>
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
-<link href="//www.pets4homes.co.uk/styles/customstyles.css?v=8.995" rel="stylesheet">
+<link href="//www.pets4homes.co.uk/styles/customstyles.css?v=9.006" rel="stylesheet">
 
 <link href="//fonts.googleapis.com/css?family=Passion+One" rel="stylesheet" type="text/css">
 <meta property="fb:admins" content="653192511"><meta property="fb:app_id" content="1846297605586060"><meta property="og:site_name" content="Pets4Homes">
@@ -28,7 +42,7 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg">
 <meta name="theme-color" content="#ffffff">
 <meta name="apple-mobile-web-app-title" content="Pets4Homes">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script>
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
@@ -56,6 +70,17 @@
 
 
 
+   //  Displays Personalised or Non Personalised Ads by Checking values set in OptanonConsent Cookie 
+   if (!!$.cookie('OptanonConsent')) { 
+        urlParams = new URLSearchParams($.cookie('OptanonConsent'));
+        var cookieGroups = urlParams.get('groups');
+	    if (cookieGroups && cookieGroups.indexOf(',4:0,') > -1) {  // If Advertising Cookies Disabled 4:0
+	       googletag.pubads().setRequestNonPersonalizedAds(1);  // Set DFP to Display Non Personalised Ads Only
+	    } else {
+	       googletag.pubads().setRequestNonPersonalizedAds(0);	// Set DFP to Display Personalised Ads
+	    }
+    }
+    
     googletag.pubads().collapseEmptyDivs(); 
     googletag.enableServices();
 
@@ -74,7 +99,7 @@
 </div>
 <ul class="dropdown-menu pull-right col-xs-7 col-sm-4 col-md-3 col-lg-2" role="menu">
 <li><a href="https://www.pets4homes.co.uk/login/"><i class="fa fa-sign-in fa-lg"></i>&nbsp;&nbsp;Sign In</a></li> <li><a href="https://www.pets4homes.co.uk/register/"><i class="fa fa-user fa-lg"></i>&nbsp;&nbsp;Register</a></li> <li><a href="https://www.pets4homes.co.uk/account/pet-advert/"><i class="fa fa-plus fa-lg"></i>&nbsp;&nbsp;Post an Advert</a></li>
- </ul>
+</ul>
 </div>
 </div>
 <div class="navbar-header">
@@ -125,7 +150,8 @@ googletag.cmd.push(function() {
 <a href="#your-rights" rel="" class="anchorLink">Your Rights</a><br>
 <a href="#cookie-usage" rel="" class="anchorLink">Cookie Usage</a><br>
 <a href="#cookie-removal" rel="" class="anchorLink">Removing or Disabling Cookies</a><br>
-<a href="#ammendments" rel="" class="anchorLink">Ammendments</a><br>
+<a href="#amendments" rel="" class="anchorLink">Amendments</a><br>
+<a href="#adtechnologyproviders" rel="" class="anchorLink">Ad Technology Providers</a><br>
 <a href="#contacting-us" rel="" class="anchorLink">Contacting Us</a><br>
 </p>
 <div id="introduction"></div>
@@ -240,35 +266,108 @@ googletag.cmd.push(function() {
 <p>Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.</p>
 <p>The Pets4Homes website uses cookies to provide certain functionality as below. By using our website and apps, you agree that we can put these types of cookies on your computer or device. If you would like to disable any of these cookies, please see the section below titled 'Removing or Disabling Cookies' for more details :</p>
 <br><br>
+<h2>Strictly Necessary Cookies</h2>
+<p>These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p>
 <table class="table table-bordered">
 <thead>
 <tr>
-<th>Cookie Type</th>
+<th>Cookies</th>
 <th>Purpose</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Essential Operational</td>
-<td>These cookies are necessary to allow us to operate the Pets4Homes free classifieds service as you have requested. The Pets4Homes website stores cookies on your computer which are used during the registration process and to make sure you stay logged in to your account, along with storing preferences related to using our website.</td>
+<td>__cfduid</td>
+<td>Cookie assoiated with CloudFlare, which is used to speed up page load times. According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information. See the following link to CloudFlares privacy policy : <a hrefs="https://www.cloudflare.com/privacypolicy/" target="_new">https://www.cloudflare.com/privacypolicy/</a></td>
 </tr>
 <tr>
-<td>Performance / Analytics</td>
-<td>We use Google Analytics to track user interaction with our website. This allows us to determine how people are using the site, which pages they are visiting and where they are visiting from to help us to improve our service. <br><br> You are able to opt out of this tracking here <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a></td>
+<td>PHPSESSID</td>
+<td>Cookie generated by applications based on the PHP language. This is a general purpose identifier used to maintain user session variables. It is normally a random generated number, how it is used can be specific to the site, but a good example is maintaining a logged-in status for a user between pages.</td>
 </tr>
 <tr>
-<td>Functional</td>
-<td>These cookies let us operate certain functions of the Pets4Homes Service in line with the choices you make. These cookies mean that when you continue to use or login to our website or apps, we can provide you with our services as you have asked for them to be provided, such as knowing your preferences.</td>
+<td>
+logged<br>
+p4hpostingadvice<br>
+p4hlicense<br>
+p4huserprofile<br>
+</td>
+<td>Cookies generated when logging into Pets4Homes to remember settings and prevent caching. These cookies do not hold any personal information.</td>
 </tr>
 <tr>
-<td>Targeting / advertising</td>
-<td>We use third party display advertisements to support our site from Google Adsense and Doubleclick. Google uses cookies to serve you with advertisements that may be relevant to you and your interests.<br><br>You can read google’s privacy policy here <a href="https://policies.google.com/technologies/ads" target="_blank">https://policies.google.com/technologies/ads</a></td>
+<td>
+OptanonConsent<br>
+OptanonAlertBoxClosed<br>
+</td>
+<td>Cookies used for the cookie consent settings and preferences. These cookies do not hold any personal information.</td>
+</tr>
+</tbody>
+</table>
+<br><br>
+<h2>Analytics Cookies</h2>
+<p>These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p>
+<table class="table table-bordered">
+<thead>
+<tr>
+<th>Cookies</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="word-break:break-all;width:20%;">_gid<br>
+_ga<br>
+__gads<br>
+_gat_gtag_UA_734977_1
+</td>
+<td style="word-break:break-all;">These cookies are used by google analytics which allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. <br><br> You are able to opt out of this tracking here <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a> <br><br>View further information on Google analytics cookie usage here <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage</a></td>
+</tr>
+</tbody>
+</table>
+<br><br>
+<h2>Social Media Cookies</h2>
+<p>These cookies are used by social media services to enable you to share our content with your friends and networks. These cookies may track your browser across other sites and build a profile of your interests, which may impact the content and messages you see on other websites you visit.</p>
+<table class="table table-bordered">
+<thead>
+<tr>
+<th>Cookies</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>datr<br>fr</td>
+<td>This website uses Facebook plugins to allow you to 'like' certain articles and other website pages. These plugins store third party Facebook cookies on your device. For further information on Facebooks data privacy, please view : <a href="https://www.facebook.com/about/privacy/" target="_blank">https://www.facebook.com/about/privacy/</a><br><br>You can disable them in our <a href="#" class="optanon-toggle-display">privacy centre</a> by opting out of social media cookies.</td>
+</tr>
+</tbody>
+</table>
+<br><br>
+<h2>Advertising Cookies</h2>
+<p>These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p>
+<table class="table table-bordered">
+<thead>
+<tr>
+<th>Cookies</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+APISID<br>
+SSID<br>
+NID<br>
+PREF<br>
+SID<br>
+SAPISID<br>
+HSID<br>
+</td>
+<td>We work with advertising partners like google doubleclick and third parties to serve advertisements based on your interests. These Google DoubleClick cookies are generally set through the site by googles advertising partners, and used by them to build a profile of the website visitor's interests and show relevant ads on other sites. These cookies works by uniquely identifying your browser and device and used to display relevant ads. <br><br>You can disable them either in our <a href="#" class="optanon-toggle-display">privacy centre</a> by opting out of advertising cookies, or change your google settings at <a href="https://www.google.com/settings/ads" target="_blank">google.com/settings/ads</a> to opt out of ad personalisation.<br><br>For more information on third party advertising related cookies and how to opt out of them, please visit the youronlinechoices website at <a href="http://www.youronlinechoices.com/uk/your-ad-choices" target="_blank">http://www.youronlinechoices.eu</a><br><br>You can read google’s privacy policy here <a href="https://policies.google.com/technologies/ads" target="_blank">https://policies.google.com/technologies/ads</a><br><br>You can view a list of our <a href="#adtechnologyproviders">Ad Technology Providers here</a>.</td>
 </tr>
 </tbody>
 </table>
 <div id="cookie-removal"></div>
 <br><br><h2>Removing or Disabling Cookies</h2>
-<p>You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into your pets4homes account.</p>
+<p>You can manage your cookie preferences on Pets4Homes at any time using our <a href="#" class="optanon-toggle-display">privacy centre</a>.</p>
+<p>You can also choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into your pets4homes account.</p>
 <p>If you do wish to disable cookies in your internet browser, here is a link to instructions in some of the most popular browsers :</p>
 <ul>
 <li><a href="http://windows.microsoft.com/en-US/internet-explorer/delete-manage-cookies" target="_blank" rel="nofollow">Internet Explorer</a></li>
@@ -280,8 +379,164 @@ googletag.cmd.push(function() {
 <p>We work with advertising partners like google doubleclick and third parties to serve advertisements based on your interests. You can change Google’s Ad Settings at <a href="https://www.google.com/settings/ads" target="_blank">google.com/settings/ads</a>. For more information on third party advertising related cookies and how to opt out of them, please visit the youronlinechoices website at <a href="http://www.youronlinechoices.com/uk/your-ad-choices" target="_blank">http://www.youronlinechoices.eu</a></p>
 <p>We also use Google Analytics who use first-party cookies (such as the Google Analytics cookie) to track user interaction with our website. You are able to opt out of this tracking here <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a></p>
 <p>By using our service you consent to the use of the cookies and other technologies described above.</p>
-<div id="ammendments"></div>
-<br><br><h2>Ammendments</h2>
+<div id="adtechnologyproviders"></div>
+<br><br>
+<h2>Ad Technology Providers</h2>
+<p>We use Google Admanager to display personalised ads to visitors of our website. The following Ad technology providers (including Google and other ad networks, bidders and vendors) may use data about our users, for example to show them personalised ads or to report on conversions.</p>
+<p>You can disable them either in our <a href="#" class="optanon-toggle-display">privacy centre</a> by opting out of targeting/advertising cookies, or change your google settings <a href="https://www.google.com/settings/ads" target="_blank">here to opt out of ad personalisation</a>.</p>
+<table class="table table-bordered" style="word-break:break-all;">
+<thead>
+<tr>
+<th>Provider</th>
+<th>Purpose</th>
+<th>Privacy Policy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Google</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.google.com/policies/technologies/partner-sites/">https://www.google.com/policies/technologies/partner-sites/</a></td>
+</tr>
+<tr>
+<td>Adloox</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="http://adloox.com/disclaimer">http://adloox.com/disclaimer</a></td>
+</tr>
+<tr>
+<td>Adobe Advertising Cloud</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.adobe.com/privacy/general-data-protection-regulation.html">https://www.adobe.com/privacy/general-data-protection-regulation.html</a></td>
+</tr>
+<tr>
+<td>AdRoll, Inc.</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td style="word-break:break-all;"><a href="https://www.adroll.com/gdpr">https://www.adroll.com/gdpr</a></td>
+</tr>
+<tr>
+<td>Akamai</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="http://www.akamai.com/compliance/privacy">http://www.akamai.com/compliance/privacy</a></td>
+</tr>
+<tr>
+<td>Amazon</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010">https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010</a></td>
+</tr>
+<tr>
+<td>AppNexus</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.appnexus.com/en/company/platform-privacy-policy">https://www.appnexus.com/en/company/platform-privacy-policy</a></td>
+</tr>
+<tr>
+<td>Aunica</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.aunica.com.br/privacy/privacy.html">https://www.aunica.com.br/privacy/privacy.html</a></td>
+</tr>
+<tr>
+<td>Cloudflare</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.cloudflare.com/security-policy/">https://www.cloudflare.com/security-policy/</a></td>
+</tr>
+<tr>
+<td>Crimtan</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://crimtan.com/privacy-ctl/">https://crimtan.com/privacy-ctl/</a></td>
+</tr>
+<tr>
+<td>Criteo</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.criteo.com/privacy">https://www.criteo.com/privacy</a></td>
+</tr>
+<tr>
+<td>DoubleVerify</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.doubleverify.com/privacy/">https://www.doubleverify.com/privacy/</a></td>
+</tr>
+<tr>
+<td>Evidon</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.evidon.com/resources/privacy-statement/">https://www.evidon.com/resources/privacy-statement/</a></td>
+</tr>
+<tr>
+<td>Facebook</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.facebook.com/about/privacy/update">https://www.facebook.com/about/privacy/update</a></td>
+</tr>
+<tr>
+<td>Flashtalking</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="http://www.flashtalking.com/first-party-ad-serving/">http://www.flashtalking.com/first-party-ad-serving/</a></td>
+</tr>
+<tr>
+<td>gskinner</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://createjs.com/legal/privacy.html">https://createjs.com/legal/privacy.html</a></td>
+</tr>
+<tr>
+<td>Integral Ad Sciencer</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="http://www.integralads.com/privacy-policy">http://www.integralads.com/privacy-policy</a></td>
+</tr>
+<tr>
+<td>Kantar</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.kantarmedia.com/global/privacy-statement">https://www.kantarmedia.com/global/privacy-statement</a></td>
+</tr>
+<tr>
+<td>MediaMath</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="http://www.mediamath.com/privacy-policy/">http://www.mediamath.com/privacy-policy/</a></td>
+</tr>
+<tr>
+<td>Netflix</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="http://www.netflix.com/google-3PAS-info">http://www.netflix.com/google-3PAS-info</a></td>
+</tr>
+<tr>
+<td>Nielsen</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html">http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html</a></td>
+</tr>
+<tr>
+<td>Oath</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://policies.oath.com/xw/en/oath/privacy/enterprise/b2bprivacypolicy/">https://policies.oath.com/xw/en/oath/privacy/enterprise/b2bprivacypolicy/</a></td>
+</tr>
+<tr>
+<td>Oracle Data Cloud</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html">https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html</a></td>
+</tr>
+<tr>
+<td>Quantcast</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.quantcast.com/privacy/">https://www.quantcast.com/privacy/</a></td>
+</tr>
+<tr>
+<td>Rakuten Marketing</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://rakutenmarketing.com/legal-notices/services-privacy-policy">https://rakutenmarketing.com/legal-notices/services-privacy-policy</a></td>
+</tr>
+<tr>
+<td>RN SSI Group</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.valuedopinions.co.uk/privacy">https://www.valuedopinions.co.uk/privacy</a></td>
+</tr>
+<tr>
+<td>Sizmek</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.sizmek.com/privacy-policy/">https://www.sizmek.com/privacy-policy/</a></td>
+</tr>
+<tr>
+<td>Turbobytes</td>
+<td>To show users personalised ads or to report on conversions.</td>
+<td><a href="https://www.turbobytes.com/gdpr/">https://www.turbobytes.com/gdpr/</a></td>
+</tr>
+</tbody>
+</table>
+<div id="amendments"></div>
+<br><br><h2>Amendments</h2>
 <p>We may update this privacy policy from time to time by publishing a new version on our website. You should check this page occasionally to ensure you are happy with any changes to this policy.</p>
 <div id="contacting-us"></div>
 <br><br><h2>Contacting Us</h2>
@@ -345,15 +600,13 @@ googletag.cmd.push(function() {
 <div class="container">
 <div class="row" style="padding:15px 0px 15px 0px;">
 <div class="col-xs-12">
-© Copyright - Pets4Homes.co.uk (2005 - 2018) - Pet Media Ltd<br>
-Pets4Homes.co.uk use cookies on this site to enhance your user experience. Use of this website and other services constitutes acceptance of the Pets4Homes <a href="https://www.pets4homes.co.uk/terms/">Terms of Use</a> and <a href="https://www.pets4homes.co.uk/privacy-policy/">Privacy and Cookie Policy</a>.<br><br><br>
+© Copyright - Pets4Homes.co.uk (2005 - 2019) - Pet Media Ltd<br>
+Pets4Homes.co.uk use cookies on this site to enhance your user experience. Use of this website and other services constitutes acceptance of the Pets4Homes <a href="https://www.pets4homes.co.uk/terms/">Terms of Use</a> and <a href="https://www.pets4homes.co.uk/privacy-policy/">Privacy and Cookie Policy</a>. You can <a href="#" class="optanon-toggle-display">manage your cookies</a> at any time.<br><br><br>
 </div>
 </div>
 </div>
 </div>
 
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="//www.pets4homes.co.uk/js/typeahead.bundle.min.js"></script>
@@ -363,40 +616,6 @@ Pets4Homes.co.uk use cookies on this site to enhance your user experience. Use o
       <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js" async="" defer=""></script>
-<script>
-window.addEventListener("load", function(){
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#000"
-    },
-    "button": {
-      "background": "#fcb843"
-    }
-  },
-  "position": "bottom-right",
-  "content": {
-    "message": "We and our partners use cookies to show you relevant ads, to improve our website and for statistics.  By continuing to use the site, you agree to our use of cookies and privacy policy.",
-    "href": "https://www.pets4homes.co.uk/privacy-policy/"
-  }
-})});
-</script>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-734977-1']);
-  _gaq.push(['_setDomainName', 'none']); 
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 <script>
 
 $(document).ready(function(){
