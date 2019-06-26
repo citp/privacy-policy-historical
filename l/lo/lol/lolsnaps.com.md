@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lolsnaps.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231052704id_/https%3A//lolsnaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolsnaps.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626071842id_/https%3A//lolsnaps.com/privacy) for the most accurate reproduction.*
 
 # LolSnaps.com | Constant updates of the best funny pictures and memes on the internet.
 
-LolSnaps is a media company and the services that link to this Privacy Policy provide fun ways for you to create, share, and discover the best content from around the internet. When you use these services, you’ll share some information with us. We want to explain clearly what information we collect, why we collect it, how we use it, whom we share it with, and the controls we give you to access, update, and delete your information. That’s why we’ve written this Privacy Policy. We tried to write it in simple language with minimal legalese so it’s easy for you to understand. If you have any questions about anything in our Privacy Policy, please [contact us](https://lolsnaps.com/contact).
+LolSnaps is a entertainment company and the services that link to this Privacy Policy provide fun ways for you to create, share, and discover the best content from around the internet. When you use these services, you’ll share some information with us. We want to explain clearly what information we collect, why we collect it, how we use it, whom we share it with, and the controls we give you to access, update, and delete your information. That’s why we’ve written this Privacy Policy. We tried to write it in simple language with minimal legalese so it’s easy for you to understand. If you have any questions about anything in our Privacy Policy, please [contact us](https://lolsnaps.com/contact).
 
 ## Information We Collect
 
@@ -24,14 +24,14 @@ When you use and interact with our services, we collect the information you choo
 
 When you use our services, we collect information about which services you use and how you use them. For example, we may know what section or post you are reading, when you’re reading it, and how you’re reading it (desktop, mobile browser, or mobile app). Here’s a more detailed explanation of the information we collect when you use our services:
 
-  * **Usage Information.** We collect information about your activity through our services. For example: How you interact with our services, such as what sections you look at, what you search for, what posts and comments you upload, or what posts and comments you upvote or downvote.
-  * **Content Information.** We collect content you create on our services. For example: The images, videos, and text you upload.
-  * **Content Creation.** We also collect information about the content you create. For example: When you created the content, where you created the content, and how you created the content such as device information.
-  * **Content Interaction.** We also collect information about how other users interact with your content. For example: Post upvotes and downvotes and comments and comment upvotes and downvotes.
-  * **Device Information.** We collect information from and about the devices you use. For example: Information about your hardware and software, such as hardware model, operating system version, device memory, advertising identifiers, unique device identifiers, browser type, language, battery level, and time zone. We also collect information about your wireless and mobile network connections, such as service provider, and signal strength.
-  * **Location Information.** When you use our services, we may collect information about your location.
-  * **Information Collected by Cookies and Other Technologies.** We may use cookies and other technologies such as web beacons, web storage, and unique advertising identifiers to collect information about your activity, browser, and device. We may use these technologies to collect information when you interact with services we offer through one of our partners, such as advertising and commerce features. Most web browsers are set to accept cookies by default. It is up to you to move or reject browser cookies through the settings on your browser or device. Removing or rejecting cookies may affect our service function and availability.
-  * **Log Information.** We also collect log information when you use our services. For example: 
+  *  **Usage Information.** We collect information about your activity through our services. For example: How you interact with our services, such as what sections you look at, what you search for, what posts and comments you upload, or what posts and comments you upvote or downvote.
+  *  **Content Information.** We collect content you create on our services. For example: The images, videos, and text you upload.
+  *  **Content Creation.** We also collect information about the content you create. For example: When you created the content, where you created the content, and how you created the content such as device information.
+  *  **Content Interaction.** We also collect information about how other users interact with your content. For example: Post upvotes and downvotes and comments and comment upvotes and downvotes.
+  *  **Device Information.** We collect information from and about the devices you use. For example: Information about your hardware and software, such as hardware model, operating system version, device memory, advertising identifiers, unique device identifiers, browser type, language, battery level, and time zone. We also collect information about your wireless and mobile network connections, such as service provider, and signal strength.
+  *  **Location Information.** When you use our services, we may collect information about your location.
+  *  **Information Collected by Cookies and Other Technologies.** We may use cookies and other technologies such as web beacons, web storage, and unique advertising identifiers to collect information about your activity, browser, and device. We may use these technologies to collect information when you interact with services we offer through one of our partners, such as advertising and commerce features. Most web browsers are set to accept cookies by default. It is up to you to move or reject browser cookies through the settings on your browser or device. Removing or rejecting cookies may affect our service function and availability.
+  *  **Log Information.** We also collect log information when you use our services. For example:
     * Details about how you’ve used our services.
     * Device information, such as web browser type and language.
     * Access times.
@@ -71,7 +71,7 @@ We use your information to provide you with the best products and services we ca
 
 We may share information about you in the following ways:
 
-**With other LolSnaps Users.** We may share information with other LolSnaps users. Examples include:
+ **With other LolSnaps Users.** We may share information with other LolSnaps users. Examples include:
 
   * Information about you, such as your name, username, and profile pictures.
   * Information you upload, such as image or video posts.
@@ -79,7 +79,7 @@ We may share information about you in the following ways:
 
 
 
-**With all LolSnaps Users, our business partners, and the general public.  **We may share information with all LolSnaps users, our business partners, and the general public. Examples include:
+ **With all LolSnaps Users, our business partners, and the general public.  **We may share information with all LolSnaps users, our business partners, and the general public. Examples include:
 
   * Public information like your name, username, and profile pictures.
   * Content submissions and saved content set to be viewable by everyone.
@@ -87,10 +87,10 @@ We may share information about you in the following ways:
 
 
 
-**With our third parties, such as service providers, affiliates, and business and legal partners.  **We may share your information with third parties. Examples include:
+ **With our third parties, such as service providers, affiliates, and business and legal partners.  **We may share your information with third parties. Examples include:
 
   * Service providers who perform services on our behalf; business partners that provide functionality and other services; other third party entities within the our family of companies.
-  * With third parties for legal reasons. We may share information about you if we reasonably believe that disclosing the information is necessary. Examples include: 
+  * With third parties for legal reasons. We may share information about you if we reasonably believe that disclosing the information is necessary. Examples include:
     * To comply with any valid legal process, governmental request, or applicable law, rule or regulation.
     * To investigate, enforce, or remedy potential [Terms of Service](https://lolsnaps.com/terms) violations
     * To protect the safety, rights, and property of LolSnaps, our users, or others.
@@ -144,10 +144,10 @@ If you’re a user in the European Union, please note that LolSnaps.com is the d
 
 Your country only allows us to use your personal information when certain conditions apply or are met. These conditions are called legal basis. At LolSnaps, we rely on one of the following basis:
 
-  * **Contract.** We may use your information because you’ve entered into an agreement with us. For example, when you buy our merchandise and have accepted our [Terms](https://lolsnaps.com/terms), we may use some of your information to collect payment and to make sure you receive the right product, at the right time, to the right address.
-  * **Legitimate Interest.** We may use your information because we – or a third party – has a legitimate interest. For example, we need to use your information to provide, maintain and improve our services. This includes protecting your account, uploading your posts and comments, providing customer support, and showing the best content you’ll like. Most of these services are free. To keep the lights on at LolSnaps HQ, we may use this information to show you relevant ads. We believe legitimate interest does not outweigh your right to privacy, so we only rely on legitimate interest when we think the way we are using your data does not significantly impact your privacy.
-  * **Consent.** We may ask for your consent to use your information for specific purposes. If we do, we’ll make sure you can revoke your consent in our services or through your device permissions at any time. Even if we’re not relying on consent to use your information, we may ask you for permission to access data such as your location.
-  * **Legal obligation.** We may use your personal information when we are required to comply with the law, such as when we respond to valid legal process or need to take action to protect our users or employees.
+  *  **Contract.** We may use your information because you’ve entered into an agreement with us. For example, when you buy our merchandise and have accepted our [Terms](https://lolsnaps.com/terms), we may use some of your information to collect payment and to make sure you receive the right product, at the right time, to the right address.
+  *  **Legitimate Interest.** We may use your information because we – or a third party – has a legitimate interest. For example, we need to use your information to provide, maintain and improve our services. This includes protecting your account, uploading your posts and comments, providing customer support, and showing the best content you’ll like. Most of these services are free. To keep the lights on at LolSnaps HQ, we may use this information to show you relevant ads. We believe legitimate interest does not outweigh your right to privacy, so we only rely on legitimate interest when we think the way we are using your data does not significantly impact your privacy.
+  *  **Consent.** We may ask for your consent to use your information for specific purposes. If we do, we’ll make sure you can revoke your consent in our services or through your device permissions at any time. Even if we’re not relying on consent to use your information, we may ask you for permission to access data such as your location.
+  *  **Legal obligation.** We may use your personal information when we are required to comply with the law, such as when we respond to valid legal process or need to take action to protect our users or employees.
 
 
 
@@ -172,4 +172,4 @@ Our services are not intended for anyone under 13. We don’t direct our service
 We may change this Privacy Policy from time to time. When we do, we will let you know by notifying you one way or another. We may let you know by revising the date at the bottom of this privacy policy, which is available on our website and mobile applications. We may also provide additional notice, such as adding a statement to our homepage, or providing you with an in-app notification.
     
     
-    Last Modified on:  **May 25, 2018**
+    Updated on: **June** **1, 2019**
