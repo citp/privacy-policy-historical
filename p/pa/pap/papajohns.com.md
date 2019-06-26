@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papajohns.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219023550id_/https%3A//www.papajohns.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222920id_/https%3A//www.papajohns.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Papa John’s Pizza
 
@@ -6,7 +6,7 @@ Effective Date Jan. 1, 2012 (last updated March 1, 2016)
 
 ##### This Privacy Policy applies to the sites and apps where it appears.
 
-This Policy describes how we treat personal information on the websites where it is located. This includes [www.papajohns.com](http://www.papajohns.com/ "Papa John's Home Page"). It also applies to our mobile sites and apps. By interacting with us on our sites and platforms, you agree to the terms in this Policy.
+This Policy describes how we treat personal information on the websites where it is located. This includes [www.papajohns.com](https://www.papajohns.com/ "Papa John's Home Page"). It also applies to our mobile sites and apps. By interacting with us on our sites and platforms, you agree to the terms in this Policy.
 
 ##### We collect information from and about you.
 
@@ -31,7 +31,7 @@ If you use our website, we may collect information about your mobile device, ope
 For example, if you register with us, sign up for our emails or enter a promotion. We also collect information if you contact us. We collect information if you submit orders through our websites or mobile apps.
 
 **We collect information from you passively.**   
-We use tracking tools like browser cookies and web beacons. To learn more about these tools and how you can control them, [click here](http://www.google.com/policies/technologies/ads/ "Advertising – Privacy & Terms – Google"). We collect information about users over time when you use this website. We may have third parties collect personal information this way. We also collect information from our mobile apps.
+We use tracking tools like browser cookies and web beacons. To learn more about these tools and how you can control them, [click here](https://www.google.com/policies/technologies/ads/ "Advertising – Privacy & Terms – Google"). We collect information about users over time when you use this website. We may have third parties collect personal information this way. We also collect information from our mobile apps.
 
 **We get information about you from third parties.**   
 For example, our business partners may give us information about you. Social media platforms may also give us information about you.
