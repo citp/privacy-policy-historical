@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gstcouncil.gov.in privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217054954id_/http%3A//www.gstcouncil.gov.in/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gstcouncil.gov.in privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626021112id_/http%3A//gstcouncil.gov.in/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | Goods and Services Tax Council
 
