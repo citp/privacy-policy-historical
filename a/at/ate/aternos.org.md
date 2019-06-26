@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aternos.org privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114033147id_/https%3A//aternos.org/dataprotection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aternos.org privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222450id_/https%3A//aternos.org/dataprotection) for the most accurate reproduction.*
 
 # Privacy Policy | Aternos
 
@@ -30,6 +30,8 @@ We also save the **point in time** of your registration to create statistics. Be
 
 All **settings** of your Minecraft server and all **files** that are created by your Minecraft server are saved on our servers. Furthermore, we send this data as a backup to your Google Drive account if you want that and have it enabled. 
 
+Furthermore, we store how many and which **players** are currently on your Minecraft server to display them on the website in your account and to determine statistics on the total number of players. 
+
 We basically never save your **IP address** when you use our website. But it is possible, that your Minecraft server writes your IP address and the IP addresses of other players into a log file. This log file is overwritten on every start and can always be deleted by reinstalling the server. You can always see your log file at <https://aternos.org/log/>. 
 
 To be able to understand what happened when errors or problems occur we save **miscellaneous activities** on our website in a log file, e. g. when you start your server, who enters or leaves your server, when you up- or download a world or when you change your email address or password. This data will not be processed automatically, it will only be used manually to solve errors or to help you. 
@@ -46,7 +48,7 @@ To operate our website, we need the services of various third parties that may h
 
 **Snigel Web Services Ltd** : Snigel Web provides ads on our website. Consent to third-party data processing for advertising purposes is requested separately from this policy when you visit our website. 
 
-**oneCorp Systems, owned by Tristan Fischer** : oneCorp provides us with the necessary hardware to operate our website and may only in exceptional cases have access to the drives on which your data is stored. 
+**oneCorp Systems, owned by Tristan Fischer** : oneCorp provides us with the necessary hardware to operate our website and the game servers and may only in exceptional cases have access to the drives on which your data is stored. 
 
 ## Your rights
 
