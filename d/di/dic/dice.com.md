@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dice.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106233001id_/https%3A//www.dice.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dice.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626225617id_/https%3A//www.dice.com/about/privacy) for the most accurate reproduction.*
 
 # Dice -Privacy
 
@@ -10,7 +10,7 @@ We at Dice are committed to good privacy practices regarding your personally ide
 
 DHI and its subsidiaries(Dice, ClearanceJobs, eFinancialCareers, Rigzone, WorkDigital) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. DHI is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce's Privacy Shield List at <https://www.privacyshield.gov/list>.
 
-The data controller of DHI and its subsidiaries' websites is DHI located at 12150 Meredith Drive Urbandale, IA 50323. Mazars LLP is a data protection officer and can be contacted at [DPO@dice.com](mailto:DPO@dice.com) Mazars LLP Tower Bridge House St Katherine's Way London E1W 1DD
+The data controller of DHI and its subsidiaries' websites is DHI located at 12150 Meredith Drive Urbandale, IA 50323. Adam Stokes is a data protection officer and can be contacted at [DPO@dice.com](mailto:DPO@dice.com) Adam Stokes (DPO), DHI Group Inc, Telephone House, 69-77 Paul Street, Shoreditch, London, EC2A 4NQ.
 
 DHI is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. DHI complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
