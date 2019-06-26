@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iliketoquote.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225024015id_/http%3A//iliketoquote.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iliketoquote.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626133358id_/http%3A//iliketoquote.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,3 +27,19 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support @ iliketoquote.com. 
+
+Advertisements
+
+## Hope for love, pray for love, wish for love, dream for love. But don't put your life on hold waiting for love. - Mandy Hale
+
+[](http://www.iliketoquote.com/hope-for-love-pray-for-love-wish-for-love-dream-for-love-but-dont-put-your-life-on-hold-waiting-for-love/)
+
+## Never love a man more than he loves you. If you do, don't tell him. If he knows, let him feel it in waves, not oceans. - Hushed Words
+
+[](http://www.iliketoquote.com/never-love-a-man-more-than-he-loves-you-if-you-do-dont-tell-him-if-he-knows-let-him-feel-it-in-waves-not-oceans/)
+
+## Sometimes, we just have to let go of someone who matters to us not because we have to, but because it's the right thing to do.
+
+[](http://www.iliketoquote.com/sometimes-we-just-have-to-let-go-of-someone-who-matters-to-us-not-because-we-have-to-but-because-its-the-right-thing-to-do/)
+
+Advertisements
