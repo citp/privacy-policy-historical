@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the rewire.news privacy policy that was archived on 2018-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181007211820id_/https%3A//rewire.news/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rewire.news privacy policy that was archived on 2019-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190626203157id_/https%3A//rewire.news/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js"><head>
 <meta charset="utf-8">
 <title>Privacy Policy - Rewire.News</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">document.getElementsByTagName('html')[0].className += ' js';</script>
+<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">document.getElementsByTagName('html')[0].className += ' js';</script>
 <script src="https://use.typekit.net/bsv8ftn.js"></script><script>try{Typekit.load({async:false});}catch(e){}</script>
 <!--[if lte IE 8]><script type="text/javascript" src="https://rewire.news/wp-content/themes/rewire/javascript/respond.min.js"></script><![endif]-->
 <link rel="shortcut icon" href="https://rewire.news/wp-content/themes/rewire/images/favicon/favicon.ico">
@@ -68,13 +68,17 @@
 <meta name="twitter:creator" content="@bswen">
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/rewire.news\/","sameAs":["https:\/\/www.facebook.com\/rewire.news","https:\/\/twitter.com\/rewire_news"],"@id":"https:\/\/rewire.news\/#organization","name":"Rewire.News","logo":"https:\/\/rewire.news\/wp-content\/themes\/rewire\/images\/rewire-logo.svg"}</script>
 
-<link rel="dns-prefetch" href="//a.optmstr.com">
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//a.opmnstr.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Rewire.News » Feed" href="https://rewire.news/feed/">
-<link rel="alternate" type="application/rss+xml" title="Rewire.News » Comments Feed" href="https://rewire.news/comments/feed/">
 
 <script type="text/javascript" data-cfasync="false">
-		var disableStr = 'ga-disable-UA-41934100-1';
+	var mi_version         = '7.6.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-41934100-1';
 
 	/* Function to detect opted out users */
 	function __gaTrackerIsOptedOut() {
@@ -91,29 +95,83 @@
 	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
 	  window[disableStr] = true;
 	}
+	
+	if ( mi_track_user ) {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
-	__gaTracker('create', 'UA-41934100-1', 'auto');
-	__gaTracker('set', 'forceSSL', true);
-	__gaTracker('require', 'displayfeatures');
-	__gaTracker('send','pageview');
+		__gaTracker('create', 'UA-41934100-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
 </script>
 
-<link rel="stylesheet" id="contact-form-7-css" href="https://rewire.news/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0" type="text/css" media="all">
-<link rel="stylesheet" id="el-screen-css" href="https://rewire.news/wp-content/themes/rewire/styles/screen-new.css" type="text/css" media="screen">
+<link rel="stylesheet" id="contact-form-7-css" href="https://rewire.news/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://rewire.news/wp-includes/css/dist/block-library/style.min.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="el-screen-css" href="https://rewire.news/wp-content/themes/rewire/styles/screen-new.css?v3" type="text/css" media="screen">
 <link rel="stylesheet" id="el-print-css" href="https://rewire.news/wp-content/themes/rewire/styles/print.css" type="text/css" media="print">
+<link rel="stylesheet" id="elasticpress-facets-css" href="https://rewire.news/wp-content/plugins/elasticpress/features/facets/assets/css/facets.min.css?ver=2.8.2" type="text/css" media="all">
 <script type="text/javascript" src="https://rewire.news/wp-content/themes/rewire/javascript/jquery.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","ajax_url":"https:\/\/rewire.news\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","action":"update_views_ajax","ID":"17680","token":"958e3db09e","debug":""};
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"https:\/\/rewire.news","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://rewire.news/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.1.0.min.js?ver=4.1.1"></script>
+<script type="text/javascript" src="https://rewire.news/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.6.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"1","sampling_rate":"25","ajax_url":"https:\/\/rewire.news\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","ID":"17680","token":"e8a6436fa9","debug":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://rewire.news/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.2.0.min.js?ver=4.2.2"></script>
 <script type="text/javascript" src="https://rewire.news/wp-content/themes/rewire/javascript/modernizr.js"></script>
-<script type="text/javascript" data-cfasync="false" id="omapi-script" async="async" src="https://a.optmstr.com/app/js/api.min.js?ver=1.3.4"></script>
+<script type="text/javascript" data-cfasync="false" id="omapi-script" async="async" src="https://a.opmnstr.com/app/js/api.min.js"></script>
 <link rel="https://api.w.org/" href="https://rewire.news/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rewire.news/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://rewire.news/wp-includes/wlwmanifest.xml">
@@ -137,22 +195,23 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/05/inside-the-mass-movement-against-brett-kavanaugh/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/Image-from-iOS-530x350.png" alt=""><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/Image-from-iOS-530x350.png"  alt="" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/06/25/whats-next-in-the-continuing-mess-of-the-domestic-gag-rule-fight/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/PP_1-530x350.jpg" alt="[Photo: A close-up of a Planned Parenthood sign.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/PP_1-530x350.jpg"  alt="[Photo: A close-up of a Planned Parenthood sign.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/news/">News</a>
-<a class="" href="https://rewire.news/primary-topic/politics/">Politics</a>
+<a class="section" href="https://rewire.news/section/analysis/">Analysis</a>
+<a class="" href="https://rewire.news/primary-topic/law-and-policy/">Law and Policy</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/inside-the-mass-movement-against-brett-kavanaugh/">Inside the Mass Movement Against Brett Kavanaugh (Updated)</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time> <a href="https://rewire.news/author/katelyn-burns/">Katelyn Burns</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/25/whats-next-in-the-continuing-mess-of-the-domestic-gag-rule-fight/">What’s Next in the Continuing Mess of the Domestic ‘Gag Rule’ Fight</a></h2>
+<p class="meta-a"><time>Jun 25, 2019</time> <a href="https://rewire.news/author/jessica-mason-pieklo/">Jessica Mason Pieklo</a></p>
 </article>
+
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Abortion</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/01/house-republicans-jam-personhood-language-into-new-tax-bill/">House Republicans Jam ‘Personhood’ Language Into New Tax Bill</a></li>
-<li><a href="https://rewire.news/article/2018/10/05/inside-the-mass-movement-against-brett-kavanaugh/">Inside the Mass Movement Against Brett Kavanaugh (Updated)</a></li>
-<li><a href="https://rewire.news/article/2018/10/04/stop-saying-that-making-abortion-illegal-doesnt-stop-them/">Stop Saying That Making Abortion Illegal Won’t Stop People From Having Them</a></li>
+<li><a href="https://rewire.news/article/2019/06/14/these-corporations-and-public-charities-funded-the-state-abortion-bans/">These Corporations and Public Charities Funded the State Abortion Bans</a></li>
+<li><a href="https://rewire.news/article/2019/06/19/trump-official-grilled-over-gag-rule/">Trump Official Grilled Over Administration’s Family Planning ‘Gag Rule’</a></li>
+<li><a href="https://rewire.news/article/2019/06/20/massachusetts-governor-says-hes-pro-choice-but-he-might-not-sign-a-pro-choice-bill/">Massachusetts Governor Says He’s Pro-Choice. But He Might Not Sign a Pro-Choice Bill.</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/abortion/">More on Abortion</a></p>
 </div>
@@ -169,22 +228,21 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/05/this-week-in-sex-even-with-less-hormones-the-pill-still-lowers-ovarian-cancer-risk/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/shutterstock_660070831-530x350.jpg" alt=""><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/shutterstock_660070831-530x350.jpg"  alt="" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/06/21/for-women-of-color-on-medicaid-health-care-options-more-likely-to-include-catholic-hospitals/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/catholic-hospital_3-530x350.jpg" alt="[Photo: The outside of a Catholic hospital.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/catholic-hospital_3-530x350.jpg"  alt="[Photo: The outside of a Catholic hospital.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/roundups/">Roundups</a>
-<a class="" href="https://rewire.news/primary-topic/sexual-health/">Sexual Health</a>
+<a class="section" href="https://rewire.news/section/news/">News</a>
+<a class="" href="https://rewire.news/primary-topic/health-systems/">Health Systems</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/this-week-in-sex-even-with-less-hormones-the-pill-still-lowers-ovarian-cancer-risk/">This Week in Sex: Even With Less Hormones, the Pill Still Lowers Ovarian Cancer Risk</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time> <a href="https://rewire.news/author/martha-kempner/">Martha Kempner</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/21/for-women-of-color-on-medicaid-health-care-options-more-likely-to-include-catholic-hospitals/">For Women of Color on Medicaid, Health-Care Options More Likely to Include Catholic Hospitals</a></h2>
+<p class="meta-a"><time>Jun 21, 2019</time> <a href="https://rewire.news/author/amy-littlefield/">Amy Littlefield</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Contraception</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/01/house-republicans-jam-personhood-language-into-new-tax-bill/">House Republicans Jam ‘Personhood’ Language Into New Tax Bill</a></li>
-<li><a href="https://rewire.news/article/2018/10/01/trumps-hhs-turns-teen-pregnancy-grant-announcement-into-political-theater/">Trump’s HHS Turns Teen Pregnancy Grant Announcement Into ‘Political Theater’</a></li>
-<li><a href="https://rewire.news/article/2018/10/05/this-week-in-sex-even-with-less-hormones-the-pill-still-lowers-ovarian-cancer-risk/">This Week in Sex: Even With Less Hormones, the Pill Still Lowers Ovarian Cancer Risk</a></li>
+<li><a href="https://rewire.news/article/2019/06/21/for-women-of-color-on-medicaid-health-care-options-more-likely-to-include-catholic-hospitals/">For Women of Color on Medicaid, Health-Care Options More Likely to Include Catholic Hospitals</a></li>
+<li><a href="https://rewire.news/article/2019/06/12/the-nuns-are-back-before-the-supreme-court-and-theyre-trying-to-kill-the-birth-control-benefit-for-good/">The Nuns Are Back Before the Supreme Court, and They’re Trying to Kill the Birth Control Benefit for Good (Updated)</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/contraception/">More on Contraception</a></p>
 </div>
@@ -200,32 +258,24 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="grid-a">
 <div class="wrap">
 <div class="cell w50">
-<article class="teaser-c vB@large">
-<figure class="author ">
-<a href="https://rewire.news/author/dennis-carter/">
-<figcaption><span>Dennis Carter</span></figcaption>
-<span class="img-a square">
-<img data-src="https://rewire.news/wp-content/uploads/2016/03/Headshot-Dennis-Carter-200x200.jpg" alt="Dennis Carter">
-<noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2016/03/Headshot-Dennis-Carter-200x200.jpg"  alt="Dennis Carter" /></noscript>
-</span>
-</a>
-</figure>
+<article class="teaser-a vB@large">
+<figure class="image "><a href="https://rewire.news/article/2019/06/19/trump-official-grilled-over-gag-rule/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/foley-530x350.jpg" alt="[Photo: Diane Foley speaks during a committee hearing.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/foley-530x350.jpg"  alt="[Photo: Diane Foley speaks during a committee hearing.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/commentary/">Commentary</a>
-<a class="" href="https://rewire.news/primary-topic/politics/">Politics</a>
+<a class="section" href="https://rewire.news/section/news/">News</a>
+<a class="" href="https://rewire.news/primary-topic/law-and-policy/">Law and Policy</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/joe-manchin-cant-blame-his-kavanaugh-vote-on-electoral-politics/">Joe Manchin Can’t Blame His Kavanaugh Vote on Electoral Politics</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/19/trump-official-grilled-over-gag-rule/">Trump Official Grilled Over Administration’s Family Planning ‘Gag Rule’</a></h2>
+<p class="meta-a"><time>Jun 19, 2019</time> <a href="https://rewire.news/author/ally-boguhn/">Ally Boguhn</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Economic Justice</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/05/inside-the-mass-movement-against-brett-kavanaugh/">Inside the Mass Movement Against Brett Kavanaugh (Updated)</a></li>
-<li><a href="https://rewire.news/article/2018/10/01/abortion-rights-got-two-important-legal-wins-last-week/">Abortion Rights Got Two Important Legal Wins Last Week</a></li>
-<li><a href="https://rewire.news/article/2018/10/01/trumps-hhs-turns-teen-pregnancy-grant-announcement-into-political-theater/">Trump’s HHS Turns Teen Pregnancy Grant Announcement Into ‘Political Theater’</a></li>
- </ol>
+<li><a href="https://rewire.news/article/2019/06/19/trump-official-grilled-over-gag-rule/">Trump Official Grilled Over Administration’s Family Planning ‘Gag Rule’</a></li>
+<li><a href="https://rewire.news/article/2019/05/31/ethics-over-economics-building-a-better-adoption-system/">Ethics Over Economics: Building a Better Adoption System Amid Baby ‘Shortages’</a></li>
+<li><a href="https://rewire.news/article/2019/06/03/theyve-moved-the-goalpost-how-missouri-lawmakers-are-regulating-legal-abortion-out-of-existence/">‘They’ve Moved the Goalpost’: How Missouri Lawmakers Are Regulating Legal Abortion Out of Existence</a></li>
+</ol>
 <p class="more"><a href="https://rewire.news/primary-topic/economic-justice/">More on Economic Justice</a></p>
 </div>
 </div>
@@ -240,31 +290,23 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="grid-a">
 <div class="wrap">
 <div class="cell w50">
-<article class="teaser-c vB@large">
-<figure class="author ">
-<a href="https://rewire.news/author/dennis-carter/">
-<figcaption><span>Dennis Carter</span></figcaption>
-<span class="img-a square">
-<img data-src="https://rewire.news/wp-content/uploads/2016/03/Headshot-Dennis-Carter-200x200.jpg" alt="Dennis Carter">
-<noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2016/03/Headshot-Dennis-Carter-200x200.jpg"  alt="Dennis Carter" /></noscript>
-</span>
-</a>
-</figure>
+<article class="teaser-a vB@large">
+<figure class="image "><a href="https://rewire.news/article/2019/06/26/tiffany-caban-pulls-off-progressive-upset-in-queens-district-attorney-race/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/tiffany-caban-530x350.jpg" alt="[Photo: Public defender Tiffany Caban smiles as she declares victory in the Queens District Attorney Democratic Primary election.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/tiffany-caban-530x350.jpg"  alt="[Photo: Public defender Tiffany Caban smiles as she declares victory in the Queens District Attorney Democratic Primary election.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/commentary/">Commentary</a>
+<a class="section" href="https://rewire.news/section/news/">News</a>
 <a class="" href="https://rewire.news/primary-topic/politics/">Politics</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/joe-manchin-cant-blame-his-kavanaugh-vote-on-electoral-politics/">Joe Manchin Can’t Blame His Kavanaugh Vote on Electoral Politics</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/26/tiffany-caban-pulls-off-progressive-upset-in-queens-district-attorney-race/">‘Giants Fall’ as Tiffany Cabán Pulls Off Progressive Upset in Queens District Attorney Race</a></h2>
+<p class="meta-a"><time>Jun 26, 2019</time> <a href="https://rewire.news/author/ally-boguhn/">Ally Boguhn</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Politics</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/04/why-so-many-white-women-dont-believe-christine-blasey-ford/">Why So Many White Women Don’t Believe Christine Blasey Ford</a></li>
-<li><a href="https://rewire.news/article/2018/10/05/inside-the-mass-movement-against-brett-kavanaugh/">Inside the Mass Movement Against Brett Kavanaugh (Updated)</a></li>
-<li><a href="https://rewire.news/article/2018/10/03/trump-administrations-fetal-tissue-policy-review-the-latest-in-the-far-right-war-against-science/">Trump Administration’s Fetal Tissue Policy Review the Latest in the ‘Far-Right War Against Science’</a></li>
+<li><a href="https://rewire.news/article/2019/06/14/these-corporations-and-public-charities-funded-the-state-abortion-bans/">These Corporations and Public Charities Funded the State Abortion Bans</a></li>
+<li><a href="https://rewire.news/article/2019/06/18/transgender-rights-get-important-win-in-ninth-circuit/">Transgender Rights Get Important Win in Ninth Circuit</a></li>
+<li><a href="https://rewire.news/article/2019/06/18/five-ways-house-democrats-are-using-the-budget-to-fight-anti-choice-policy/">Five Ways House Democrats Are Using the Budget to Fight Anti-Choice Policy</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/politics/">More on Politics</a></p>
 </div>
@@ -281,22 +323,22 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/05/i-think-they-want-us-to-die-in-there-federal-inspectors-highlight-detention-centers-inhumane-conditions/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/GettyImages-450371331-530x350.jpg" alt="[Photo: An immigrant detainee looks from his 'segregation cell' at the Adelanto Detention Facility.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/GettyImages-450371331-530x350.jpg"  alt="[Photo: An immigrant detainee looks from his 'segregation cell' at the Adelanto Detention Facility.]" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/06/21/willful-recklessness-trump-pushes-for-indefinite-family-detention/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/dilley-530x350.jpg" alt="[Photo: Two young, migrant children look on as their mothers wait in a holding room with an officer.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/dilley-530x350.jpg"  alt="[Photo: Two young, migrant children look on as their mothers wait in a holding room with an officer.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/analysis/">Analysis</a>
+<a class="section" href="https://rewire.news/section/news/">News</a>
 <a class="" href="https://rewire.news/primary-topic/immigration/">Immigration</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/i-think-they-want-us-to-die-in-there-federal-inspectors-highlight-detention-centers-inhumane-conditions/">‘I Think They Want Us to Die in There’: Federal Inspectors Highlight Detention Center’s Inhumane Conditions</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time> <a href="https://rewire.news/author/tina-vasquez/">Tina Vasquez</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/21/willful-recklessness-trump-pushes-for-indefinite-family-detention/">‘Willful Recklessness’: Trump Pushes for Indefinite Family Detention</a></h2>
+<p class="meta-a"><time>Jun 21, 2019</time> <a href="https://rewire.news/author/renee-feltz/">Renée Feltz</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Race</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/04/why-so-many-white-women-dont-believe-christine-blasey-ford/">Why So Many White Women Don’t Believe Christine Blasey Ford</a></li>
-<li><a href="https://rewire.news/article/2018/09/28/brett-kavanaugh-and-the-primal-screams-of-whiteness-and-patriarchy/">Brett Kavanaugh and the Primal Screams of Whiteness and Patriarchy</a></li>
-<li><a href="https://rewire.news/article/2018/10/02/federal-policy-change-part-of-coordinated-effort-to-limit-immigration/">Federal Policy Change Part of Coordinated Effort to ‘Limit Immigration’</a></li>
+<li><a href="https://rewire.news/article/2019/05/28/trump-administration-separates-pregnant-migrants-newborns-before-returning-detention/">Trump Administration Separates Some Migrant Mothers From Their Newborns Before Returning Them to Detention</a></li>
+<li><a href="https://rewire.news/article/2019/06/21/willful-recklessness-trump-pushes-for-indefinite-family-detention/">‘Willful Recklessness’: Trump Pushes for Indefinite Family Detention</a></li>
+<li><a href="https://rewire.news/article/2019/06/12/immigration-officials-health-care-providers/">Immigration Officials Push Health-Care Providers to ‘Clear’ Pregnant Migrants for Detention</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/race-and-class/">More on Race</a></p>
 </div>
@@ -313,23 +355,23 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/06/kavanaugh-confirmation-push-senators-support-survivors/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/believesurivors-530x350.jpg" alt="[Photo: Protesters hold a sign saying " we="" believe="" all="" survivors"="" as="" viewed="" from="" above]"=""><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/believesurivors-530x350.jpg"  alt="[Photo: Protesters hold a sign saying "We believe all survivors" as viewed from above]" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/06/26/guttmacher-sued-after-firing-researcher-for-inappropriate-sexual-behavior/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/lawsuit-530x350.jpg" alt="[Photo: A fountain pen lies atop a subpoena and a stack of other legal documents.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/lawsuit-530x350.jpg"  alt="[Photo: A fountain pen lies atop a subpoena and a stack of other legal documents.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/analysis/">Analysis</a>
+<a class="section" href="https://rewire.news/section/news/">News</a>
 <a class="" href="https://rewire.news/primary-topic/law-and-policy/">Law and Policy</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/06/kavanaugh-confirmation-push-senators-support-survivors/">After Kavanaugh’s Confirmation, Here’s How to Push Senators to Support Survivors</a></h2>
-<p class="meta-a"><time>Oct 6, 2018</time> <a href="https://rewire.news/author/jessica-mason-pieklo/">Jessica Mason Pieklo</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/26/guttmacher-sued-after-firing-researcher-for-inappropriate-sexual-behavior/">Guttmacher Sued After Firing Researcher for ‘Inappropriate Sexual Behavior’</a></h2>
+<p class="meta-a"><time>Jun 26, 2019</time> <a href="https://rewire.news/author/dennis-carter/">Dennis Carter</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Law and Policy</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/04/why-so-many-white-women-dont-believe-christine-blasey-ford/">Why So Many White Women Don’t Believe Christine Blasey Ford</a></li>
-<li><a href="https://rewire.news/article/2018/10/01/house-republicans-jam-personhood-language-into-new-tax-bill/">House Republicans Jam ‘Personhood’ Language Into New Tax Bill</a></li>
-<li><a href="https://rewire.news/article/2018/10/03/experts-in-masculinity-explain-kavanaughs-anger/">Experts in Masculinity Explain Kavanaugh’s Anger</a></li>
- </ol>
+<li><a href="https://rewire.news/article/2019/06/19/disabled-people-have-had-the-legal-right-to-live-in-their-communities-for-20-years-but-thats-still-not-the-reality-for-many/">Disabled People Have Had the Legal Right to Live in Their Communities for 20 Years. But That’s Still Not the Reality for Many.</a></li>
+<li><a href="https://rewire.news/article/2019/06/21/willful-recklessness-trump-pushes-for-indefinite-family-detention/">‘Willful Recklessness’: Trump Pushes for Indefinite Family Detention</a></li>
+<li><a href="https://rewire.news/article/2019/06/19/trump-official-grilled-over-gag-rule/">Trump Official Grilled Over Administration’s Family Planning ‘Gag Rule’</a></li>
+</ol>
 <p class="more"><a href="https://rewire.news/primary-topic/law-and-policy/">More on Law and Policy</a></p>
 </div>
 </div>
@@ -345,22 +387,22 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/05/im-not-running-because-im-trans-meet-the-men-fighting-to-build-power-one-state-legislature-seat-at-a-time/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/EverettParade5-530x350.jpg" alt="[Photo: Two people hold a banner reading " maroon="" for="" state="" legislature"]"=""><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/EverettParade5-530x350.jpg"  alt="[Photo: Two people hold a banner reading "Maroon for State Legislature"]" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/06/18/transgender-rights-get-important-win-in-ninth-circuit/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/trans-military_darker-530x350.jpg" alt="[Photo: A trans military veteran holds a sign that says " fight="" the="" ban."]"=""><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/trans-military_darker-530x350.jpg"  alt="[Photo: A trans military veteran holds a sign that says "Fight the Ban."]" /></noscript></span></a></figure>
 <p class="label-a">
 <a class="section" href="https://rewire.news/section/analysis/">Analysis</a>
-<a class="" href="https://rewire.news/primary-topic/politics/">Politics</a>
+<a class="" href="https://rewire.news/primary-topic/law-and-policy/">Law and Policy</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/im-not-running-because-im-trans-meet-the-men-fighting-to-build-power-one-state-legislature-seat-at-a-time/">‘I’m Not Running Because I’m Trans’: Meet the Men Fighting to Build Power One State Legislature Seat at a Time</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time> <a href="https://rewire.news/author/sesmith/">s.e. smith</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/18/transgender-rights-get-important-win-in-ninth-circuit/">Transgender Rights Get Important Win in Ninth Circuit</a></h2>
+<p class="meta-a"><time>Jun 18, 2019</time> <a href="https://rewire.news/author/jessica-mason-pieklo/">Jessica Mason Pieklo</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on LGBTQ</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/01/circuit-court-gives-anti-lgbtq-street-preachers-free-rein-to-intimidate-pride-festival-attendees/">Circuit Court Gives Anti-LGBTQ Street Preachers Free Rein to Intimidate Pride Festival Attendees</a></li>
-<li><a href="https://rewire.news/article/2018/10/05/im-not-running-because-im-trans-meet-the-men-fighting-to-build-power-one-state-legislature-seat-at-a-time/">‘I’m Not Running Because I’m Trans’: Meet the Men Fighting to Build Power One State Legislature Seat at a Time</a></li>
-<li><a href="https://rewire.news/article/2018/09/18/leaked-title-ix-rule-would-allow-religious-schools-to-discriminate-without-saying-why/">Leaked Title IX Rule Would Allow Religious Schools to Discriminate—Without Saying Why</a></li>
+<li><a href="https://rewire.news/article/2019/06/18/transgender-rights-get-important-win-in-ninth-circuit/">Transgender Rights Get Important Win in Ninth Circuit</a></li>
+<li><a href="https://rewire.news/article/2019/06/17/new-prep-recommendation-likely-to-broaden-access-to-hiv-protection-drug/">New PrEP Recommendation Likely to Broaden Access to HIV-Protection Drug</a></li>
+<li><a href="https://rewire.news/article/2019/06/06/the-details-of-johana-medinas-detainment-and-death-matter/">The Details of Johana Medina Leon’s Detainment and Death Matter (Updated)</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/lgbtq/">More on LGBTQ</a></p>
 </div>
@@ -377,22 +419,20 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/09/21/at-values-voter-summit-religious-conservatives-stand-by-kavanaugh/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/09/GettyImages-1041854102-530x350.jpg" alt="[Photo: Mitch MCConnell waving in front of blue background.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/09/GettyImages-1041854102-530x350.jpg"  alt="[Photo: Mitch MCConnell waving in front of blue background.]" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/06/21/for-women-of-color-on-medicaid-health-care-options-more-likely-to-include-catholic-hospitals/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/catholic-hospital_3-530x350.jpg" alt="[Photo: The outside of a Catholic hospital.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/catholic-hospital_3-530x350.jpg"  alt="[Photo: The outside of a Catholic hospital.]" /></noscript></span></a></figure>
 <p class="label-a">
 <a class="section" href="https://rewire.news/section/news/">News</a>
-<a class="" href="https://rewire.news/primary-topic/politics/">Politics</a>
+<a class="" href="https://rewire.news/primary-topic/health-systems/">Health Systems</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/09/21/at-values-voter-summit-religious-conservatives-stand-by-kavanaugh/">At Values Voter Summit, Religious Conservatives Stand by Kavanaugh</a></h2>
-<p class="meta-a"><time>Sep 21, 2018</time> <a href="https://rewire.news/author/katelyn-burns/">Katelyn Burns</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/21/for-women-of-color-on-medicaid-health-care-options-more-likely-to-include-catholic-hospitals/">For Women of Color on Medicaid, Health-Care Options More Likely to Include Catholic Hospitals</a></h2>
+<p class="meta-a"><time>Jun 21, 2019</time> <a href="https://rewire.news/author/amy-littlefield/">Amy Littlefield</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Religion</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/09/18/leaked-title-ix-rule-would-allow-religious-schools-to-discriminate-without-saying-why/">Leaked Title IX Rule Would Allow Religious Schools to Discriminate—Without Saying Why</a></li>
-<li><a href="https://rewire.news/article/2018/09/21/at-values-voter-summit-religious-conservatives-stand-by-kavanaugh/">At Values Voter Summit, Religious Conservatives Stand by Kavanaugh</a></li>
-<li><a href="https://rewire.news/article/2018/09/07/arethas-funeral-and-the-white-supremacist-imagination/">Aretha’s Funeral and the White Supremacist Imagination</a></li>
+<li><a href="https://rewire.news/article/2019/06/21/for-women-of-color-on-medicaid-health-care-options-more-likely-to-include-catholic-hospitals/">For Women of Color on Medicaid, Health-Care Options More Likely to Include Catholic Hospitals</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/religion/">More on Religion</a></p>
 </div>
@@ -409,23 +449,23 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/05/the-power-of-womens-anger-a-conversation-with-soraya-chemaly/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/Chemaly-headshot-530x350.jpg" alt="[PHOTO: A dark-haired, black-clad woman poses with a close-mouthed smile in front of a gray background.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/Chemaly-headshot-530x350.jpg"  alt="[PHOTO: A dark-haired, black-clad woman poses with a close-mouthed smile in front of a gray background.]" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/06/11/a-black-midwesterners-perspective-on-abortion-access-regional-culture-and-why-people-should-care-about-the-midwest/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/midwest-530x350.jpg" alt="[Photo: A young, Black woman sits by the Navy Pier in Chicago.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/midwest-530x350.jpg"  alt="[Photo: A young, Black woman sits by the Navy Pier in Chicago.]" /></noscript></span></a></figure>
 <p class="label-a">
 <a class="section" href="https://rewire.news/section/culture-conversation/">Culture &amp; Conversation</a>
-<a class="" href="https://rewire.news/primary-topic/media/">Media</a>
+ <a class="" href="https://rewire.news/primary-topic/abortion/">Abortion</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/the-power-of-womens-anger-a-conversation-with-soraya-chemaly/">The Power of Women’s Anger: A Conversation With Soraya Chemaly</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time> <a href="https://rewire.news/author/jessica-mason-pieklo/">Jessica Mason Pieklo</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/11/a-black-midwesterners-perspective-on-abortion-access-regional-culture-and-why-people-should-care-about-the-midwest/">A Black Midwesterner’s Perspective on Abortion Access, Regional Culture, and Why People Should Care About the Midwest</a></h2>
+<p class="meta-a"><time>Jun 11, 2019</time> <a href="https://rewire.news/author/jasmine-burnett/">Jasmine Burnett</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Media</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/01/nicole-chung-captures-all-the-beautiful-messiness-of-adoption-in-new-memoir/">Nicole Chung Captures All the Beautiful Messiness of Adoption in New Memoir</a></li>
-<li><a href="https://rewire.news/article/2018/09/13/in-the-wake-of-frightening-new-std-stats-the-missing-condoms-on-insecure-are-even-more-striking/">In the Wake of Frightening New STD Stats, the Missing Condoms on ‘Insecure’ Are Even More Striking</a></li>
-<li><a href="https://rewire.news/article/2018/10/04/rethinking-the-retrospective/">Rethinking the Retrospective: AIDS Activism Isn’t Old History. It’s Not Even Past.</a></li>
- </ol>
+<li><a href="https://rewire.news/article/2019/06/06/the-details-of-johana-medinas-detainment-and-death-matter/">The Details of Johana Medina Leon’s Detainment and Death Matter (Updated)</a></li>
+<li><a href="https://rewire.news/article/2019/06/11/a-black-midwesterners-perspective-on-abortion-access-regional-culture-and-why-people-should-care-about-the-midwest/">A Black Midwesterner’s Perspective on Abortion Access, Regional Culture, and Why People Should Care About the Midwest</a></li>
+<li><a href="https://rewire.news/article/2019/06/05/protecting-and-expanding-social-security-doesnt-mean-policing-reproduction/">Protecting and Expanding Social Security Doesn’t Mean Policing Reproduction</a></li>
+</ol>
 <p class="more"><a href="https://rewire.news/primary-topic/media/">More on Media</a></p>
 </div>
 </div>
@@ -441,22 +481,22 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/05/i-think-they-want-us-to-die-in-there-federal-inspectors-highlight-detention-centers-inhumane-conditions/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/GettyImages-450371331-530x350.jpg" alt="[Photo: An immigrant detainee looks from his 'segregation cell' at the Adelanto Detention Facility.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/GettyImages-450371331-530x350.jpg"  alt="[Photo: An immigrant detainee looks from his 'segregation cell' at the Adelanto Detention Facility.]" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/06/21/willful-recklessness-trump-pushes-for-indefinite-family-detention/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/dilley-530x350.jpg" alt="[Photo: Two young, migrant children look on as their mothers wait in a holding room with an officer.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/dilley-530x350.jpg"  alt="[Photo: Two young, migrant children look on as their mothers wait in a holding room with an officer.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/analysis/">Analysis</a>
+<a class="section" href="https://rewire.news/section/news/">News</a>
 <a class="" href="https://rewire.news/primary-topic/immigration/">Immigration</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/i-think-they-want-us-to-die-in-there-federal-inspectors-highlight-detention-centers-inhumane-conditions/">‘I Think They Want Us to Die in There’: Federal Inspectors Highlight Detention Center’s Inhumane Conditions</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time> <a href="https://rewire.news/author/tina-vasquez/">Tina Vasquez</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/21/willful-recklessness-trump-pushes-for-indefinite-family-detention/">‘Willful Recklessness’: Trump Pushes for Indefinite Family Detention</a></h2>
+<p class="meta-a"><time>Jun 21, 2019</time> <a href="https://rewire.news/author/renee-feltz/">Renée Feltz</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Immigration</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/02/federal-policy-change-part-of-coordinated-effort-to-limit-immigration/">Federal Policy Change Part of Coordinated Effort to ‘Limit Immigration’</a></li>
-<li><a href="https://rewire.news/article/2018/10/03/trump-administrations-defense-of-new-public-charge-rule-ignores-racist-legacy/">Trump Administration’s Defense of New ‘Public Charge’ Rule Ignores Racist Legacy</a></li>
-<li><a href="https://rewire.news/article/2018/10/02/education-american-dream-my-nightmare/">Getting an Education: My American Dream Is Also My Immigration Policy Nightmare</a></li>
+<li><a href="https://rewire.news/article/2019/05/28/trump-administration-separates-pregnant-migrants-newborns-before-returning-detention/">Trump Administration Separates Some Migrant Mothers From Their Newborns Before Returning Them to Detention</a></li>
+<li><a href="https://rewire.news/article/2019/06/21/willful-recklessness-trump-pushes-for-indefinite-family-detention/">‘Willful Recklessness’: Trump Pushes for Indefinite Family Detention</a></li>
+<li><a href="https://rewire.news/article/2019/06/12/immigration-officials-health-care-providers/">Immigration Officials Push Health-Care Providers to ‘Clear’ Pregnant Migrants for Detention</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/immigration/">More on Immigration</a></p>
 </div>
@@ -474,23 +514,31 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="grid-a">
 <div class="wrap">
 <div class="cell w50">
-<article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/06/kavanaugh-confirmation-push-senators-support-survivors/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/believesurivors-530x350.jpg" alt="[Photo: Protesters hold a sign saying " we="" believe="" all="" survivors"="" as="" viewed="" from="" above]"=""><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/believesurivors-530x350.jpg"  alt="[Photo: Protesters hold a sign saying "We believe all survivors" as viewed from above]" /></noscript></span></a></figure>
+<article class="teaser-c vB@large">
+<figure class="author ">
+<a href="https://rewire.news/author/megan-ellyia-green/">
+<figcaption><span>Megan Ellyia Green</span></figcaption>
+<span class="img-a square">
+<img data-src="https://rewire.news/wp-content/uploads/2019/06/Megan_DW1A8602-200x200.jpg" alt="Megan Ellyia Green">
+<noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/Megan_DW1A8602-200x200.jpg"  alt="Megan Ellyia Green" /></noscript>
+</span>
+</a>
+</figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/analysis/">Analysis</a>
-<a class="" href="https://rewire.news/primary-topic/law-and-policy/">Law and Policy</a>
+<a class="section" href="https://rewire.news/section/commentary/">Commentary</a>
+<a class="" href="https://rewire.news/primary-topic/human-rights/">Human Rights</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/06/kavanaugh-confirmation-push-senators-support-survivors/">After Kavanaugh’s Confirmation, Here’s How to Push Senators to Support Survivors</a></h2>
-<p class="meta-a"><time>Oct 6, 2018</time> <a href="https://rewire.news/author/jessica-mason-pieklo/">Jessica Mason Pieklo</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/12/white-protesters-abortion-bans-black-lives-matter/">White Protesters Fighting Abortion Bans Must Show Up for Black Lives Matter Too</a></h2>
+<p class="meta-a"><time>Jun 12, 2019</time></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Violence</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/03/experts-in-masculinity-explain-kavanaughs-anger/">Experts in Masculinity Explain Kavanaugh’s Anger</a></li>
-<li><a href="https://rewire.news/article/2018/09/28/brett-kavanaugh-and-the-primal-screams-of-whiteness-and-patriarchy/">Brett Kavanaugh and the Primal Screams of Whiteness and Patriarchy</a></li>
-<li><a href="https://rewire.news/article/2018/10/06/kavanaugh-confirmation-push-senators-support-survivors/">After Kavanaugh’s Confirmation, Here’s How to Push Senators to Support Survivors</a></li>
+<li><a href="https://rewire.news/article/2019/06/12/white-protesters-abortion-bans-black-lives-matter/">White Protesters Fighting Abortion Bans Must Show Up for Black Lives Matter Too</a></li>
+<li><a href="https://rewire.news/article/2019/06/06/the-details-of-johana-medinas-detainment-and-death-matter/">The Details of Johana Medina Leon’s Detainment and Death Matter (Updated)</a></li>
+<li><a href="https://rewire.news/article/2019/05/31/the-escalation-of-anti-abortion-violence-ten-years-after-dr-george-tillers-murder/">The Escalation of Anti-Abortion Violence Ten Years After Dr. George Tiller’s Murder</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/violence/">More on Violence</a></p>
 </div>
@@ -507,22 +555,22 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/05/i-think-they-want-us-to-die-in-there-federal-inspectors-highlight-detention-centers-inhumane-conditions/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/GettyImages-450371331-530x350.jpg" alt="[Photo: An immigrant detainee looks from his 'segregation cell' at the Adelanto Detention Facility.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/GettyImages-450371331-530x350.jpg"  alt="[Photo: An immigrant detainee looks from his 'segregation cell' at the Adelanto Detention Facility.]" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/06/26/tiffany-caban-pulls-off-progressive-upset-in-queens-district-attorney-race/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/tiffany-caban-530x350.jpg" alt="[Photo: Public defender Tiffany Caban smiles as she declares victory in the Queens District Attorney Democratic Primary election.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/tiffany-caban-530x350.jpg"  alt="[Photo: Public defender Tiffany Caban smiles as she declares victory in the Queens District Attorney Democratic Primary election.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/analysis/">Analysis</a>
-<a class="" href="https://rewire.news/primary-topic/immigration/">Immigration</a>
+<a class="section" href="https://rewire.news/section/news/">News</a>
+<a class="" href="https://rewire.news/primary-topic/politics/">Politics</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/i-think-they-want-us-to-die-in-there-federal-inspectors-highlight-detention-centers-inhumane-conditions/">‘I Think They Want Us to Die in There’: Federal Inspectors Highlight Detention Center’s Inhumane Conditions</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time> <a href="https://rewire.news/author/tina-vasquez/">Tina Vasquez</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/26/tiffany-caban-pulls-off-progressive-upset-in-queens-district-attorney-race/">‘Giants Fall’ as Tiffany Cabán Pulls Off Progressive Upset in Queens District Attorney Race</a></h2>
+<p class="meta-a"><time>Jun 26, 2019</time> <a href="https://rewire.news/author/ally-boguhn/">Ally Boguhn</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Human Rights</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/01/house-republicans-jam-personhood-language-into-new-tax-bill/">House Republicans Jam ‘Personhood’ Language Into New Tax Bill</a></li>
-<li><a href="https://rewire.news/article/2018/10/05/inside-the-mass-movement-against-brett-kavanaugh/">Inside the Mass Movement Against Brett Kavanaugh (Updated)</a></li>
-<li><a href="https://rewire.news/article/2018/10/01/abortion-rights-got-two-important-legal-wins-last-week/">Abortion Rights Got Two Important Legal Wins Last Week</a></li>
+<li><a href="https://rewire.news/article/2019/06/19/disabled-people-have-had-the-legal-right-to-live-in-their-communities-for-20-years-but-thats-still-not-the-reality-for-many/">Disabled People Have Had the Legal Right to Live in Their Communities for 20 Years. But That’s Still Not the Reality for Many.</a></li>
+<li><a href="https://rewire.news/article/2019/05/28/trump-administration-separates-pregnant-migrants-newborns-before-returning-detention/">Trump Administration Separates Some Migrant Mothers From Their Newborns Before Returning Them to Detention</a></li>
+<li><a href="https://rewire.news/article/2019/06/21/willful-recklessness-trump-pushes-for-indefinite-family-detention/">‘Willful Recklessness’: Trump Pushes for Indefinite Family Detention</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/human-rights/">More on Human Rights</a></p>
 </div>
@@ -539,20 +587,20 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/03/trump-administrations-fetal-tissue-policy-review-the-latest-in-the-far-right-war-against-science/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/09/shutterstock_639884194-530x350.jpg" alt="[Photo: Two scientists doing research in a lab.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/09/shutterstock_639884194-530x350.jpg"  alt="[Photo: Two scientists doing research in a lab.]" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/06/06/trump-administration-bans-government-scientists-from-using-fetal-tissue/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/scientist_1-530x350.jpg" alt="[Photo: A scientists wearing scrubs looks at samples under a microscope.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/scientist_1-530x350.jpg"  alt="[Photo: A scientists wearing scrubs looks at samples under a microscope.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/analysis/">Analysis</a>
-<a class="" href="https://rewire.news/primary-topic/politics/">Politics</a>
+<a class="section" href="https://rewire.news/section/news/">News</a>
+<a class="" href="https://rewire.news/primary-topic/law-and-policy/">Law and Policy</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/03/trump-administrations-fetal-tissue-policy-review-the-latest-in-the-far-right-war-against-science/">Trump Administration’s Fetal Tissue Policy Review the Latest in the ‘Far-Right War Against Science’</a></h2>
-<p class="meta-a"><time>Oct 3, 2018</time> <a href="https://rewire.news/author/katelyn-burns/">Katelyn Burns</a> &amp; <a href="https://rewire.news/author/laura-huss/">Laura Huss</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/06/trump-administration-bans-government-scientists-from-using-fetal-tissue/">Trump Administration Bans Government Scientists From Using Fetal Tissue</a></h2>
+<p class="meta-a"><time>Jun 6, 2019</time> <a href="https://rewire.news/author/sony-salzman/">Sony Salzman</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Science</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/03/trump-administrations-fetal-tissue-policy-review-the-latest-in-the-far-right-war-against-science/">Trump Administration’s Fetal Tissue Policy Review the Latest in the ‘Far-Right War Against Science’</a></li>
+<li><a href="https://rewire.news/article/2019/06/06/trump-administration-bans-government-scientists-from-using-fetal-tissue/">Trump Administration Bans Government Scientists From Using Fetal Tissue</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/science/">More on Science</a></p>
 </div>
@@ -568,23 +616,23 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="grid-a">
 <div class="wrap">
 <div class="cell w50">
-<article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/05/this-week-in-sex-even-with-less-hormones-the-pill-still-lowers-ovarian-cancer-risk/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/shutterstock_660070831-530x350.jpg" alt=""><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/shutterstock_660070831-530x350.jpg"  alt="" /></noscript></span></a></figure>
+ <article class="teaser-a vB@large">
+<figure class="image "><a href="https://rewire.news/article/2019/06/26/medication-enthusiastic-consent-law/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/er-doctor_1-530x350.jpg" alt="[Photo: A woman of color doctor performs a surgery on a patient in the emergency room.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/er-doctor_1-530x350.jpg"  alt="[Photo: A woman of color doctor performs a surgery on a patient in the emergency room.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/roundups/">Roundups</a>
+<a class="section" href="https://rewire.news/section/culture-conversation/">Culture &amp; Conversation</a>
 <a class="" href="https://rewire.news/primary-topic/sexual-health/">Sexual Health</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/this-week-in-sex-even-with-less-hormones-the-pill-still-lowers-ovarian-cancer-risk/">This Week in Sex: Even With Less Hormones, the Pill Still Lowers Ovarian Cancer Risk</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time> <a href="https://rewire.news/author/martha-kempner/">Martha Kempner</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/26/medication-enthusiastic-consent-law/">I Was Given Medication Without My Enthusiastic and Informed Consent—And It Wasn’t Against the Law</a></h2>
+<p class="meta-a"><time>Jun 26, 2019</time> <a href="https://rewire.news/author/casey-obrien/">Casey O’Brien</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Sexual Health</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/04/new-paper-examines-how-gender-bias-in-health-care-can-be-deadly/">New Paper Examines How Gender Bias in Health Care Can Be Deadly</a></li>
-<li><a href="https://rewire.news/article/2018/10/05/this-week-in-sex-even-with-less-hormones-the-pill-still-lowers-ovarian-cancer-risk/">This Week in Sex: Even With Less Hormones, the Pill Still Lowers Ovarian Cancer Risk</a></li>
-<li><a href="https://rewire.news/article/2018/09/13/in-the-wake-of-frightening-new-std-stats-the-missing-condoms-on-insecure-are-even-more-striking/">In the Wake of Frightening New STD Stats, the Missing Condoms on ‘Insecure’ Are Even More Striking</a></li>
+<li><a href="https://rewire.news/article/2019/06/17/new-prep-recommendation-likely-to-broaden-access-to-hiv-protection-drug/">New PrEP Recommendation Likely to Broaden Access to HIV-Protection Drug</a></li>
+<li><a href="https://rewire.news/article/2019/05/29/my-first-pap-smear-as-an-openly-nonbinary-person-was-wildly-disorienting/">My First Pap Smear as an Openly Nonbinary Person Was Wildly Disorienting</a></li>
+<li><a href="https://rewire.news/article/2019/06/06/a-breakthrough-strategy-for-ending-the-hiv-epidemic/">A Breakthrough Strategy for Ending the HIV Epidemic</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/sexual-health/">More on Sexual Health</a></p>
 </div>
@@ -601,23 +649,16 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/05/this-week-in-sex-even-with-less-hormones-the-pill-still-lowers-ovarian-cancer-risk/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/shutterstock_660070831-530x350.jpg" alt=""><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/shutterstock_660070831-530x350.jpg"  alt="" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/04/19/ask-a-queer-chick-how-can-i-get-excited-about-my-sex-life-with-my-girlfriend/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/04/queers-bed_2-530x350.jpg" alt="[Photo: Two queer people of color tenderly caress each other in bed. One looks concerned, the other looks understanding.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/04/queers-bed_2-530x350.jpg"  alt="[Photo: Two queer people of color tenderly caress each other in bed. One looks concerned, the other looks understanding.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/roundups/">Roundups</a>
-<a class="" href="https://rewire.news/primary-topic/sexual-health/">Sexual Health</a>
+<a class="section" href="https://rewire.news/section/culture-conversation/">Culture &amp; Conversation</a>
+<a class="" href="https://rewire.news/primary-topic/lgbtq/">LGBTQ</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/this-week-in-sex-even-with-less-hormones-the-pill-still-lowers-ovarian-cancer-risk/">This Week in Sex: Even With Less Hormones, the Pill Still Lowers Ovarian Cancer Risk</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time> <a href="https://rewire.news/author/martha-kempner/">Martha Kempner</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/04/19/ask-a-queer-chick-how-can-i-get-excited-about-my-sex-life-with-my-girlfriend/">Ask a Queer Chick: How Can I Get Excited About My Sex Life With My Girlfriend?</a></h2>
+<p class="meta-a"><time>Apr 19, 2019</time> <a href="https://rewire.news/author/lindsay-king-miller/">Lindsay King-Miller</a></p>
 </article>
 </div>
 <div class="cell w50">
-<div class="list-a">
-<h3 class="hx-a">Trending on Sexuality</h3>
-<ol>
-<li><a href="https://rewire.news/article/2018/10/05/this-week-in-sex-even-with-less-hormones-the-pill-still-lowers-ovarian-cancer-risk/">This Week in Sex: Even With Less Hormones, the Pill Still Lowers Ovarian Cancer Risk</a></li>
-</ol>
-<p class="more"><a href="https://rewire.news/primary-topic/sexuality/">More on Sexuality</a></p>
-</div>
 </div>
 </div>
 </div>
@@ -631,22 +672,22 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/05/in-west-virginia-an-outbreak-and-few-answers/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/09/shutterstock_499462651-2-530x350.jpg" alt="[Photo: Person with a hoodie over their face and arms crossed sleeps across two chairs, using a jacket as a pillow.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/09/shutterstock_499462651-2-530x350.jpg"  alt="[Photo: Person with a hoodie over their face and arms crossed sleeps across two chairs, using a jacket as a pillow.]" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/06/26/medication-enthusiastic-consent-law/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/er-doctor_1-530x350.jpg" alt="[Photo: A woman of color doctor performs a surgery on a patient in the emergency room.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/er-doctor_1-530x350.jpg"  alt="[Photo: A woman of color doctor performs a surgery on a patient in the emergency room.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/analysis/">Analysis</a>
-<a class="" href="https://rewire.news/primary-topic/health-systems/">Health Systems</a>
+<a class="section" href="https://rewire.news/section/culture-conversation/">Culture &amp; Conversation</a>
+<a class="" href="https://rewire.news/primary-topic/sexual-health/">Sexual Health</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/in-west-virginia-an-outbreak-and-few-answers/">In West Virginia, an Outbreak and Few Answers</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time> <a href="https://rewire.news/author/ellee-achten/">Ellee Achten</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/26/medication-enthusiastic-consent-law/">I Was Given Medication Without My Enthusiastic and Informed Consent—And It Wasn’t Against the Law</a></h2>
+<p class="meta-a"><time>Jun 26, 2019</time> <a href="https://rewire.news/author/casey-obrien/">Casey O’Brien</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Health Systems</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/04/new-paper-examines-how-gender-bias-in-health-care-can-be-deadly/">New Paper Examines How Gender Bias in Health Care Can Be Deadly</a></li>
-<li><a href="https://rewire.news/article/2018/10/01/trumps-hhs-turns-teen-pregnancy-grant-announcement-into-political-theater/">Trump’s HHS Turns Teen Pregnancy Grant Announcement Into ‘Political Theater’</a></li>
-<li><a href="https://rewire.news/article/2018/10/05/in-west-virginia-an-outbreak-and-few-answers/">In West Virginia, an Outbreak and Few Answers</a></li>
+<li><a href="https://rewire.news/article/2019/06/25/i-had-postpartum-depression-but-because-i-was-breastfeeding-i-couldnt-access-the-care-i-needed/">I Had Postpartum Depression. But Because I Was Breastfeeding, I Couldn’t Access the Care I Needed.</a></li>
+<li><a href="https://rewire.news/article/2019/06/21/for-women-of-color-on-medicaid-health-care-options-more-likely-to-include-catholic-hospitals/">For Women of Color on Medicaid, Health-Care Options More Likely to Include Catholic Hospitals</a></li>
+<li><a href="https://rewire.news/article/2019/06/17/new-prep-recommendation-likely-to-broaden-access-to-hiv-protection-drug/">New PrEP Recommendation Likely to Broaden Access to HIV-Protection Drug</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/health-systems/">More on Health Systems</a></p>
 </div>
@@ -663,22 +704,22 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="wrap">
 <div class="cell w50">
 <article class="teaser-a vB@large">
-<figure class="image "><a href="https://rewire.news/article/2018/10/05/in-west-virginia-an-outbreak-and-few-answers/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/09/shutterstock_499462651-2-530x350.jpg" alt="[Photo: Person with a hoodie over their face and arms crossed sleeps across two chairs, using a jacket as a pillow.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/09/shutterstock_499462651-2-530x350.jpg"  alt="[Photo: Person with a hoodie over their face and arms crossed sleeps across two chairs, using a jacket as a pillow.]" /></noscript></span></a></figure>
+<figure class="image "><a href="https://rewire.news/article/2019/06/25/i-had-postpartum-depression-but-because-i-was-breastfeeding-i-couldnt-access-the-care-i-needed/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/breastfeeding_1-530x350.jpg" alt="[Photo: A sad mother of color breastfeeding her baby.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/breastfeeding_1-530x350.jpg"  alt="[Photo: A sad mother of color breastfeeding her baby.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/analysis/">Analysis</a>
-<a class="" href="https://rewire.news/primary-topic/health-systems/">Health Systems</a>
+<a class="section" href="https://rewire.news/section/culture-conversation/">Culture &amp; Conversation</a>
+<a class="" href="https://rewire.news/primary-topic/maternity-and-birthing/">Maternity and Birthing</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/05/in-west-virginia-an-outbreak-and-few-answers/">In West Virginia, an Outbreak and Few Answers</a></h2>
-<p class="meta-a"><time>Oct 5, 2018</time> <a href="https://rewire.news/author/ellee-achten/">Ellee Achten</a></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/25/i-had-postpartum-depression-but-because-i-was-breastfeeding-i-couldnt-access-the-care-i-needed/">I Had Postpartum Depression. But Because I Was Breastfeeding, I Couldn’t Access the Care I Needed.</a></h2>
+<p class="meta-a"><time>Jun 25, 2019</time> <a href="https://rewire.news/author/meredith-alston/">Meredith Alston</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Family</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/04/stop-saying-that-making-abortion-illegal-doesnt-stop-them/">Stop Saying That Making Abortion Illegal Won’t Stop People From Having Them</a></li>
-<li><a href="https://rewire.news/article/2018/10/01/nicole-chung-captures-all-the-beautiful-messiness-of-adoption-in-new-memoir/">Nicole Chung Captures All the Beautiful Messiness of Adoption in New Memoir</a></li>
-<li><a href="https://rewire.news/article/2018/09/25/larry-hogan-was-against-maryland-democrats-paid-family-leave-program-now-hes-for-it/">Larry Hogan Was Against Maryland Democrats’ Paid Family Leave Program. Now He’s For It.</a></li>
+<li><a href="https://rewire.news/article/2019/05/28/trump-administration-separates-pregnant-migrants-newborns-before-returning-detention/">Trump Administration Separates Some Migrant Mothers From Their Newborns Before Returning Them to Detention</a></li>
+<li><a href="https://rewire.news/article/2019/06/21/willful-recklessness-trump-pushes-for-indefinite-family-detention/">‘Willful Recklessness’: Trump Pushes for Indefinite Family Detention</a></li>
+<li><a href="https://rewire.news/article/2019/06/25/i-had-postpartum-depression-but-because-i-was-breastfeeding-i-couldnt-access-the-care-i-needed/">I Had Postpartum Depression. But Because I Was Breastfeeding, I Couldn’t Access the Care I Needed.</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/family/">More on Family</a></p>
 </div>
@@ -694,31 +735,23 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="grid-a">
 <div class="wrap">
 <div class="cell w50">
-<article class="teaser-c vB@large">
-<figure class="author ">
-<a href="https://rewire.news/author/diana-greene-foster/">
-<figcaption><span>Diana Greene Foster</span></figcaption>
-<span class="img-a square">
-<img data-src="https://rewire.news/wp-content/uploads/2018/10/1mar17-headshot-200x150.png" alt="Diana Greene Foster">
-<noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/1mar17-headshot-200x150.png"  alt="Diana Greene Foster" /></noscript>
-</span>
-</a>
-</figure>
+<article class="teaser-a vB@large">
+<figure class="image "><a href="https://rewire.news/article/2019/06/25/i-had-postpartum-depression-but-because-i-was-breastfeeding-i-couldnt-access-the-care-i-needed/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2019/06/breastfeeding_1-530x350.jpg" alt="[Photo: A sad mother of color breastfeeding her baby.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2019/06/breastfeeding_1-530x350.jpg"  alt="[Photo: A sad mother of color breastfeeding her baby.]" /></noscript></span></a></figure>
 <p class="label-a">
-<a class="section" href="https://rewire.news/section/commentary/">Commentary</a>
-<a class="" href="https://rewire.news/primary-topic/abortion/">Abortion</a>
+<a class="section" href="https://rewire.news/section/culture-conversation/">Culture &amp; Conversation</a>
+<a class="" href="https://rewire.news/primary-topic/maternity-and-birthing/">Maternity and Birthing</a>
 </p>
-<h2 class="hx "><a href="https://rewire.news/article/2018/10/04/stop-saying-that-making-abortion-illegal-doesnt-stop-them/">Stop Saying That Making Abortion Illegal Won’t Stop People From Having Them</a></h2>
-<p class="meta-a"><time>Oct 4, 2018</time></p>
+<h2 class="hx "><a href="https://rewire.news/article/2019/06/25/i-had-postpartum-depression-but-because-i-was-breastfeeding-i-couldnt-access-the-care-i-needed/">I Had Postpartum Depression. But Because I Was Breastfeeding, I Couldn’t Access the Care I Needed.</a></h2>
+<p class="meta-a"><time>Jun 25, 2019</time> <a href="https://rewire.news/author/meredith-alston/">Meredith Alston</a></p>
 </article>
 </div>
 <div class="cell w50">
 <div class="list-a">
 <h3 class="hx-a">Trending on Maternity and Birthing</h3>
 <ol>
-<li><a href="https://rewire.news/article/2018/10/04/stop-saying-that-making-abortion-illegal-doesnt-stop-them/">Stop Saying That Making Abortion Illegal Won’t Stop People From Having Them</a></li>
-<li><a href="https://rewire.news/article/2018/09/07/arethas-funeral-and-the-white-supremacist-imagination/">Aretha’s Funeral and the White Supremacist Imagination</a></li>
-<li><a href="https://rewire.news/article/2018/09/10/debacle-serenas-unrivaled-intensity/">In U.S. Open Debacle, Serena’s Unrivaled Intensity and the Universal Messiness of Life</a></li>
+<li><a href="https://rewire.news/article/2019/05/28/trump-administration-separates-pregnant-migrants-newborns-before-returning-detention/">Trump Administration Separates Some Migrant Mothers From Their Newborns Before Returning Them to Detention</a></li>
+<li><a href="https://rewire.news/article/2019/06/21/for-women-of-color-on-medicaid-health-care-options-more-likely-to-include-catholic-hospitals/">For Women of Color on Medicaid, Health-Care Options More Likely to Include Catholic Hospitals</a></li>
+<li><a href="https://rewire.news/article/2019/06/25/i-had-postpartum-depression-but-because-i-was-breastfeeding-i-couldnt-access-the-care-i-needed/">I Had Postpartum Depression. But Because I Was Breastfeeding, I Couldn’t Access the Care I Needed.</a></li>
 </ol>
 <p class="more"><a href="https://rewire.news/primary-topic/maternity-and-birthing/">More on Maternity and Birthing</a></p>
 </div>
@@ -745,14 +778,6 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 </article>
 </div>
 <div class="cell w50">
-<div class="list-a">
-<h3 class="hx-a">Trending on Environment</h3>
-<ol>
-<li><a href="https://rewire.news/article/2018/09/14/hurricane-florence-undocumented-north-carolina-immigration/">As Florence Hits Coastline, North Carolina Residents Fear Immigration Enforcement</a></li>
-<li><a href="https://rewire.news/article/2018/09/12/the-teens-who-testified-last-week-want-senators-to-see-the-human-cost-of-kavanaughs-confirmation/">The Teens Who Testified Last Week Want Senators to See the Human Cost of Kavanaugh’s Confirmation</a></li>
-</ol>
-<p class="more"><a href="https://rewire.news/primary-topic/environment/">More on Environment</a></p>
-</div>
 </div>
 </div>
 </div>
@@ -773,14 +798,14 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="main">
 <div class="logo"><a href="https://rewire.news"><span>Rewire.News</span></a></div>
 <h2 class="section">Privacy Policy</h2>
-<p><time>Oct 07, 2018</time>
-<a href="https://rewire.news/tag/brett-kavanaugh/">Brett Kavanaugh</a>
-<a href="https://rewire.news/wp-content/uploads/2018/09/Rewire.News-voluntary-recognition-statement.pdf">Rewire.News Union News</a>
+<p><time>Jun 26, 2019</time>
+<a href="https://rewire.news/tag/missouri/">Missouri</a>
+<a href="https://rewire.news/tag/title-x/">Title X</a>
 </p></div>
 <ul class="action">
-<li class="subscribe"><a target="_blank" href="https://go.pardot.com/l/554552/2018-07-05/99txjs" class="button-a small gray">Subscribe</a></li>
+<li class="subscribe"><a target="_blank" href="http://bit.ly/2ATufkC" class="button-a small gray">SUBSCRIBE</a></li>
 <li class="donate">
-<a target="_blank" href="https://rewire.news/donation/" class="button-a small">Donate</a>
+<a target="_blank" href="http://bit.ly/2PDWNc0" class="button-a small">Donate</a>
 </li>
 </ul>
 </div>
@@ -810,6 +835,7 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <ul>
 <li class="facebook"><a href="" class="addthis_button_facebook"><span>Facebook</span> <small></small></a></li>
 <li class="twitter"><a href="" class="addthis_button_twitter"><span>Twitter</span> <small></small></a></li>
+<li class="linkedin"><a href="" class="addthis_button_linkedin"><span>Linked In</span> <small></small></a></li>
 <li class="email"><a href="" class="addthis_button_email"><span>Email</span></a></li>
 <li class="permalink"><a class="clipboard" data-clipboard-text="http://bit.ly/1o0O3Kd"><span>Permalink</span> <small></small></a></li>
 <li class="instapaper"><a href="" class="addthis_button_instapaper"><span>Instapaper</span></a></li>
@@ -821,8 +847,9 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="promo-b vA@large " data-large="https://rewire.news/wp-content/uploads/2016/03/image-promo-subscribe-large-1150x190.jpg" data-small="https://rewire.news/wp-content/uploads/2016/03/image-promo-subscribe-small-270x380.jpg">
 <div class="wrap">
 <h3 class="hx"><i class="logo-rewire"></i> <span>Rewire.News</span></h3>
-<p><span>Get the facts, direct to your inbox, with our daily or weekly digest.</span></p>
-<p class="action"><a target="_blank" href="https://go.pardot.com/l/554552/2018-07-05/99txjs" class="button-a">SUBSCRIBE</a></p>
+<p><span>Fearless, independent journalism, direct to your inbox. <br>
+Sign up for our daily or weekly digest.</span></p>
+<p class="action"><a target="_blank" href="http://bit.ly/2APODmE" class="button-a">SIGN UP</a></p>
 </div>
 </div>
 </div>
@@ -900,50 +927,6 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <h3 class="hx-a">Related Articles</h3>
 <div class="grid-a">
 <div class="wrap">
-<div class="cell w33@medium ">
-<article class="teaser-a vA@large vA@medium">
-<figure class="image "><a href="https://rewire.news/article/2018/10/04/judge-temporarily-blocks-trump-administration-from-terminating-tps-for-four-countries/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/GettyImages-988311796-530x350.jpg" alt="[Photo: A demonstrator protesting against Immigration and Customs Enforcement and the Trump administration's immigration policies holds a sign that reads, " family,="" noun:="" nobody="" gets="" left="" behind="" or="" forgotten.""=""><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/GettyImages-988311796-530x350.jpg"  alt="[Photo: A demonstrator protesting against Immigration and Customs Enforcement and the Trump administration's immigration policies holds a sign that reads, "Family, noun: nobody gets left behind or forgotten."" /></noscript></span></a></figure>
-<p class="label-a">
-<a class="section" href="https://rewire.news/section/news/">News</a>
-<a class="" href="https://rewire.news/primary-topic/immigration/">Immigration</a>
-</p>
-<h3 class="hx "><a href="https://rewire.news/article/2018/10/04/judge-temporarily-blocks-trump-administration-from-terminating-tps-for-four-countries/">Judge Temporarily Blocks Trump Administration From Terminating TPS for Four Countries</a></h3>
-<p class="meta-a"><time>Oct 4, 12:04pm</time> <a href="https://rewire.news/author/tina-vasquez/">Tina Vasquez</a></p>
-</article>
-</div>
-<div class="cell w33@medium hide@small">
- <article class="teaser-a vA@large vA@medium">
-<figure class="image "><a href="https://rewire.news/article/2018/10/04/rethinking-the-retrospective/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/AU-Whitney-7-18-0043-530x350.jpg" alt="[PHOTO: A young person with neon green hair holds framed papers in an art gallery.]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/AU-Whitney-7-18-0043-530x350.jpg"  alt="[PHOTO: A young person with neon green hair holds framed papers in an art gallery.]" /></noscript></span></a></figure>
-<p class="label-a">
-<a class="section" href="https://rewire.news/section/culture-conversation/">Culture &amp; Conversation</a>
-<a class="" href="https://rewire.news/primary-topic/sexual-health/">Sexual Health</a>
-</p>
-<h3 class="hx "><a href="https://rewire.news/article/2018/10/04/rethinking-the-retrospective/">Rethinking the Retrospective: AIDS Activism Isn’t Old History. It’s Not Even Past.</a></h3>
-<p class="meta-a"><time>Oct 4, 7:16am</time> <a href="https://rewire.news/author/emily-pisacreta/">Emily Pisacreta</a></p>
-</article>
-</div>
-<div class="cell w33@medium hide@small">
-<article class="teaser-a vA@large vA@medium">
-<figure class="image "><a href="https://rewire.news/article/2018/10/03/these-groups-met-with-betsy-devos-on-changing-campus-rape-guidelines-now-theyre-backing-brett-kavanaugh/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/GettyImages-1044364138-530x350.jpg" alt=""><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/GettyImages-1044364138-530x350.jpg"  alt="" /></noscript></span></a></figure>
-<p class="label-a">
-<a class="section" href="https://rewire.news/section/news/">News</a>
-<a class="" href="https://rewire.news/primary-topic/politics/">Politics</a>
-</p>
-<h3 class="hx "><a href="https://rewire.news/article/2018/10/03/these-groups-met-with-betsy-devos-on-changing-campus-rape-guidelines-now-theyre-backing-brett-kavanaugh/">These Groups Met With Betsy DeVos on Changing Campus Rape Guidelines. Now They’re Backing Brett Kavanaugh.</a></h3>
-<p class="meta-a"><time>Oct 3, 5:32pm</time> <a href="https://rewire.news/author/katelyn-burns/">Katelyn Burns</a></p>
-</article>
-</div>
-<div class="cell w33@medium hide@small">
-<article class="teaser-a vA@large vA@medium">
-<figure class="image "><a href="https://rewire.news/article/2018/10/03/how-oklahomas-jail-policies-can-cause-years-of-snowballing-debt-for-mothers-behind-bars/"><span class="img-a"><img data-src="https://rewire.news/wp-content/uploads/2018/10/fallin-530x350.jpg" alt="[Photo: Gov. Mary Fallin at a White House Prison Reform Summit]"><noscript><img class="img-noscript" src="https://rewire.news/wp-content/uploads/2018/10/fallin-530x350.jpg"  alt="[Photo: Gov. Mary Fallin at a White House Prison Reform Summit]" /></noscript></span></a></figure>
-<p class="label-a">
-<a class="section" href="https://rewire.news/section/analysis/">Analysis</a>
-<a class="" href="https://rewire.news/primary-topic/human-rights/">Human Rights</a>
-</p>
-<h3 class="hx "><a href="https://rewire.news/article/2018/10/03/how-oklahomas-jail-policies-can-cause-years-of-snowballing-debt-for-mothers-behind-bars/">How Oklahoma’s Jail Policies Can Cause Years of Snowballing Debt for Mothers Behind Bars</a></h3>
-<p class="meta-a"><time>Oct 3, 4:11pm</time> <a href="https://rewire.news/author/victoria-law/">Victoria Law</a></p>
-</article>
-</div>
 </div>
 </div>
 </div>
@@ -1005,10 +988,10 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <li id="menu-item-93762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93762"><a href="https://rewire.news/pitching-guidelines/">Pitching Guidelines</a></li>
 <li id="menu-item-109755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109755"><a href="https://rewire.news/board-of-directors/">Board of Directors</a></li>
 <li id="menu-item-109756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109756"><a href="https://rewire.news/finances/">Finances</a></li>
-<li id="menu-item-109456" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17680 current_page_item menu-item-109456"><a href="https://rewire.news/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-109456" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17680 current_page_item menu-item-109456"><a href="https://rewire.news/privacy-policy/" aria-current="page">Privacy Policy</a></li>
 <li id="menu-item-109455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109455"><a href="https://rewire.news/about-us/terms-of-service/">Terms of Service</a></li>
 <li id="menu-item-89444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89444"><a href="https://rewire.news/rss-feed/">RSS</a></li>
-<li id="menu-item-93716" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93716"><a href="http://eepurl.com/bX1vuT">Subscribe</a></li>
+<li id="menu-item-93716" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93716"><a href="http://bit.ly/2QzEh4f">Subscribe</a></li>
 <li id="menu-item-87837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87837"><a href="https://rewire.news/contact-us/">Contact Us</a></li>
 </ul>
 </li>
@@ -1022,7 +1005,7 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <li class="instagram"><a href="https://www.instagram.com/rewire.news/"><span>Instagram</span></a></li>
 </ul>
 </div>
-<p class="copys">© 2018 Rewire.News. All rights reserved.</p>
+<p class="copys">© 2019 Rewire.News. All rights reserved.</p>
 </div>
 </div>
 </footer>
@@ -1030,9 +1013,9 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <div class="sidenav-a" id="nav">
 <div class="wrap">
 <ul class="actions hide@large">
-<li class="subscribe"><a target="_blank" href="https://go.pardot.com/l/554552/2018-07-05/99txjs" class="button-a small gray">Subscribe</a></li>
+<li class="subscribe"><a target="_blank" href="http://bit.ly/2ATufkC" class="button-a small gray">SUBSCRIBE</a></li>
 <li class="donate">
-<a target="_blank" href="https://rewire.news/donation/" class="button-a small">Donate</a>
+<a target="_blank" href="http://bit.ly/2PDWNc0" class="button-a small">Donate</a>
 </li>
 </ul>
 <div class="block links">
@@ -1077,11 +1060,11 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 <li id="menu-item-119314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119314"><a href="https://rewire.news/about-us/press-releases/">Press Releases</a></li>
 <li id="menu-item-108635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108635"><a href="https://rewire.news/board-of-directors/">Board of Directors</a></li>
 <li id="menu-item-108634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108634"><a href="https://rewire.news/finances/">Finances</a></li>
-<li id="menu-item-106756" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17680 current_page_item menu-item-106756"><a href="https://rewire.news/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-106756" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17680 current_page_item menu-item-106756"><a href="https://rewire.news/privacy-policy/" aria-current="page">Privacy Policy</a></li>
 <li id="menu-item-115664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115664"><a href="https://www.iubenda.com/privacy-policy/35574190/cookie-policy">Cookie Policy</a></li>
 <li id="menu-item-109454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109454"><a href="https://rewire.news/about-us/terms-of-service/">Terms of Service</a></li>
 <li id="menu-item-89443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89443"><a href="https://rewire.news/rss-feed/">RSS</a></li>
-<li id="menu-item-93717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93717"><a href="http://eepurl.com/bX1vuT">Subscribe</a></li>
+<li id="menu-item-93717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93717"><a href="http://bit.ly/2QbiGjj">Subscribe</a></li>
 <li id="menu-item-87836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87836"><a href="https://rewire.news/contact-us/">Contact Us</a></li>
 </ul>
 </li>
@@ -1127,16 +1110,75 @@ var wpp_params = {"rest_api":"1","sampling_active":"1","sampling_rate":"25","aja
 </div>
 </div>
 </div>
-<div id="om-xzfkps2ahbwrofvnvnrd-holder"></div><script>var xzfkps2ahbwrofvnvnrd,xzfkps2ahbwrofvnvnrd_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){xzfkps2ahbwrofvnvnrd_poll(function(){if(window['om_loaded']){if(!xzfkps2ahbwrofvnvnrd){xzfkps2ahbwrofvnvnrd=new OptinMonsterApp();return xzfkps2ahbwrofvnvnrd.init({"u":"38485.796074","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="https://a.optmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;xzfkps2ahbwrofvnvnrd=new OptinMonsterApp();xzfkps2ahbwrofvnvnrd.init({"u":"38485.796074","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script> <script type="text/javascript">var xzfkps2ahbwrofvnvnrd_shortcode = true;</script>
+<script type="text/javascript" src="https://a.optmnstr.com/app/js/api.min.js" data-campaign="tna4qhpowiwhla1ois51" data-user="38485" data-env="production"></script><script type="text/javascript" src="https://a.optmnstr.com/app/js/api.min.js" data-campaign="xmjcfvwf4vxulpq2vm5n" data-user="38485" data-env="production"></script><div id="om-xzfkps2ahbwrofvnvnrd-holder"></div><script>var xzfkps2ahbwrofvnvnrd,xzfkps2ahbwrofvnvnrd_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){xzfkps2ahbwrofvnvnrd_poll(function(){if(window['om_loaded']){if(!xzfkps2ahbwrofvnvnrd){xzfkps2ahbwrofvnvnrd=new OptinMonsterApp();return xzfkps2ahbwrofvnvnrd.init({"u":"38485.796074","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="https://a.optmnstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;xzfkps2ahbwrofvnvnrd=new OptinMonsterApp();xzfkps2ahbwrofvnvnrd.init({"u":"38485.796074","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script> <script type="text/javascript">var tna4qhpowiwhla1ois51_shortcode = true;var xmjcfvwf4vxulpq2vm5n_shortcode = true;var xzfkps2ahbwrofvnvnrd_shortcode = true;</script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/rewire.news\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/rewire.news\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://rewire.news/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0"></script>
+<script type="text/javascript" src="https://rewire.news/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6Ld0WJEUAAAAAGOO7dM5YKn-XIYU5cmlsps6pSdS&amp;ver=3.0"></script>
 <script type="text/javascript" src="https://rewire.news/wp-content/themes/rewire/javascript/extras.js"></script>
-<script type="text/javascript" src="https://rewire.news/wp-content/themes/rewire/javascript/scripts.js"></script>
-<script type="text/javascript">var omapi_localized = { ajax: 'https://rewire.news/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: 'af563b2c7d', slugs: {"xzfkps2ahbwrofvnvnrd":{"slug":"xzfkps2ahbwrofvnvnrd","mailpoet":false}} };</script>
+<script type="text/javascript" src="https://rewire.news/wp-content/themes/rewire/javascript/scripts.js?v3"></script>
+<script type="text/javascript" src="https://rewire.news/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript" src="https://rewire.news/wp-content/plugins/elasticpress/features/facets/assets/js/facets.min.js?ver=2.8.2"></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6Ld0WJEUAAAAAGOO7dM5YKn-XIYU5cmlsps6pSdS',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+<script type="text/javascript">var omapi_localized = { ajax: 'https://rewire.news/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '030e9a9756', slugs: {"tna4qhpowiwhla1ois51":{"slug":"tna4qhpowiwhla1ois51","mailpoet":false},"xmjcfvwf4vxulpq2vm5n":{"slug":"xmjcfvwf4vxulpq2vm5n","mailpoet":false},"xzfkps2ahbwrofvnvnrd":{"slug":"xzfkps2ahbwrofvnvnrd","mailpoet":false}} };</script>
+<script type="text/javascript">var omapi_data = {"object_id":17680,"object_type":"post","object_key":"page","term_ids":[]};</script>
 <script type="text/javascript">
 		var addthis_config = addthis_config||{}; 
 		addthis_config.pubid = 'ra-56e6129fd5fd204e';
@@ -1194,6 +1236,23 @@ var wpcf7 = {"apiSettings":{"root":"https:\/\/rewire.news\/wp-json\/contact-form
 				};
 		})();
 	</script>
+
+<script type="text/javascript">
+	piAId = '555552';
+	piCId = '46368';
+	piHostname = 'pi.pardot.com';
+
+	(function() {
+		function async_load(){
+			var s = document.createElement('script'); s.type = 'text/javascript';
+			s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+			var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+		}
+		if(window.attachEvent) { window.attachEvent('onload', async_load); }
+		else { window.addEventListener('load', async_load, false); }
+	})();
+	</script>
+
 
 <script type="text/javascript">
 	var _qevents = _qevents || [];
