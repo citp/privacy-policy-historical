@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellfy.com privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731151739id_/https%3A//sellfy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellfy.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626153335id_/https%3A//sellfy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Sellfy - Sellfy.com
 
@@ -9,7 +9,8 @@ UAB “Sellfy” (hereinafter referred to as “we“ or „data controller“) 
 UAB “Sellfy“  
 Legal entity code: 302673703  
 Registered office: Pramones g. 97, Vilnius, Lithuania, LT-11115  
-E-mail: contact@sellfy.com 
+E-mail: contact@sellfy.com  
+Phone: +37052141882 
 
 We hereby confirm that your personal data shall be collected in accordance with the requirements of the legal acts of the European Union, the Republic of Lithuania and the instructions of the controlling authorities. All reasonable technical and administrative measures shall be applied in order to protect your personal data from loss, unauthorized use and / or changes of data.
 
@@ -128,7 +129,7 @@ We may share information about you:
 
 The companies that provide services at our request currently are as follows: IT service providers (Amazon Web Services Inc., MongoDB Inc.), auditors, licensors. The ability of these companies to use your information is limited. They cannot use this information other than for the purposes of providing services for us.
 
-Carefully selected business partners are payment processors - PayPal, Braintree, Stripe, Recurly. Marketing service providers – Intercom, GrowSumo, Adroll, Google, Facebook. Customer service providers – HelpScout, Hotjar, Santry, Slack. The ability of these partners to use your information is limited. They cannot use this information other than for the purposes of providing services for us.
+Carefully selected business partners are payment processors - PayPal, Braintree, Stripe, Recurly. Marketing service providers – ActiveCampaign, GrowSumo, Adroll, Google, Facebook. Customer service providers – HelpScout, Hotjar, Sentry, Slack. The ability of these partners to use your information is limited. They cannot use this information other than for the purposes of providing services for us.
 
 Other third parties that may be provided with our available information about you when it is necessary to protect our legitimate interests are the governmental authorities, institutions that supervise e-commerce and payment activities, pre-trial investigation officers, courts, etc.
 
@@ -242,9 +243,6 @@ _ga | 2 Years | Used by Google analytics to distinguish users
 _gid | 24 Hours | Used by Google analytics to distinguish users  
 _gat | 1 Minute | Temporary cookie used by Google analytics  
 __stripe_* | 30 Minutes | Temporary cookies used by Stripe payment processor  
-intercom-id-hpkrerce | 1 Year | These cookies are used by our instance of Intercom, a tool we use to interact with users and to analyze user behavior  
-intercom-lou-hpkrerce | 1 Year | These cookies are used by our instance of Intercom, a tool we use to interact with users and to analyze user behavior  
-intercom-session-hpkrerce | 7 Days | These cookies are used by our instance of Intercom, a tool we use to interact with users and to analyze user behavior  
 remember_me | 1 Year | Used by Sellfy to store information about user authentication  
 session | 1 Month | Used by Sellfy to store information about current user session  
 resource | 1 Year | Used by Sellfy to store information about user referrer  
@@ -266,4 +264,4 @@ We have the discretion to update this Privacy Policy at any time. When we do, we
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: contact@sellfy.com This Privacy Policy is subject to the Law of the Republic of Lithuania. 
 
-This document was last updated on May 18, 2018.
+This document was last updated on June 03, 2019.
