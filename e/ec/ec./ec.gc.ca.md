@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ec.gc.ca privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230065928id_/https%3A//www.canada.ca/en/transparency/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ec.gc.ca privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626224838id_/https%3A//www.canada.ca/en/transparency/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Canada.ca
 
@@ -83,15 +83,6 @@ ESDC will not attempt to link these addresses with the identity of visitors to t
 ESDC engages in security monitoring and investigation of the Canada.ca website under the authority of section 161 of the [Financial Administration Act](http://laws.justice.gc.ca/eng/acts/F-11/index.html). Personal information may be shared with appropriate law enforcement authorities if suspected criminal activities are detected. It may also be used for network security-related statistical purposes, audit, evaluation, research, planning, and reporting.
 
 Personal information for this activity is collected and stored in the Personal Information Bank [Security Incidents and Privacy Breaches (PSU 939)](http://www.infosource.gc.ca/emp/emp03-eng.asp#psu939).
-
-Report a problem or mistake on this page
-
-### Thank you for your help!
-
-You will not receive a reply. For enquiries, [contact us](https://www.canada.ca/en/contact/index.html).
-
-Date modified:
-    2017-09-01
   *[ESDC]: Employment and Social Development Canada
   *[]: United States of America
   *[IP]: Internet Protocol
