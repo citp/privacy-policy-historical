@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messagetoeagle.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229165706id_/http%3A//www.messagetoeagle.com/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messagetoeagle.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626032552id_/http%3A//www.messagetoeagle.com/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy And Cookies Policy | MessageToEagle.com
 
