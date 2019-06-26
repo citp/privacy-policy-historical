@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216144407id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626161503id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
 
-# Department of Agriculture and Water Resources Privacy policy - Department of Agriculture and Water Resources
+# Department of Agriculture Privacy policy - Department of Agriculture and Water Resources
 
-​​​​​​​​​​​​​​​​​​The department provides the following Privacy Policy in accordance with the _Privacy Act 1988_.
+​​​​​​​​​​​​​​​​​​​​The department provides the following Privacy Policy in accordance with the _Privacy Act 1988_.
 
-## Co​mple​​te privacy policy
+## Co​mple​​te privacy policy  
+
 
 Department of Agriculture, March 2014
 
@@ -222,12 +223,17 @@ Date
 Title   
   
 ---|---  
-25 September 2018| Levy Payer Register  
+20 May 2019| Bulk mail and survey functions  
+6 May 2019|  NEXDOC/Enhanced Exports Traceability  
+1 Apr 2019| FMIS/Technology One  
+25 Sep 2018| Levy Payer Register  
   
-11 July 2018
+  
+11 Jul 2018
 
 | 
 
 Internal Staff Policy  
   
-​​​
+​​​​​  
+
