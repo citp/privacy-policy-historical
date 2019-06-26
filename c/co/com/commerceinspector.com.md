@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commerceinspector.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223055305id_/http%3A//www.commerceinspector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerceinspector.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626203144id_/http%3A//www.commerceinspector.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Commerce Inspector
 
