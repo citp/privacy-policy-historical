@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121001127id_/https%3A//www.publix.com/publix-website-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627011206id_/https%3A//www.publix.com/publix-website-policies) for the most accurate reproduction.*
 
 # Publix Website Policies
 
@@ -106,7 +106,7 @@ Publix's failure to exercise or enforce any right or provision of these Terms of
 
 ### Contact Us
 
-[Contact Us](https://corporate.publix.com/contact) if you have any questions about these Terms of Use or you would like to receive a copy free of charge. You may also download a copy of these [Publix Policies in PDF format](https://cutpcdnwimages.azureedge.net/-/media/documents/publix-terms-of-use_05312018.pdf?la=en).
+[Contact Us](https://corporate.publix.com/contact) if you have any questions about these Terms of Use or you would like to receive a copy free of charge. You may also download a copy of these [Publix Policies in PDF format](https://cutpcdnwimages.azureedge.net/-/media/documents/publix-terms-of-use_05312018.pdf?la=en&hash=CC4367B7AF293BFC6F0ADEE0B90D49F67C94CCF1&hash=CC4367B7AF293BFC6F0ADEE0B90D49F67C94CCF1).
 
 ## Privacy Policy
 
@@ -182,7 +182,7 @@ To exercise your choices, you may:
   * Log in to your Publix Account at [https://www.publix.com/myaccount/](https://web.archive.org/myaccount) to update your information or change your communications preferences;
   * Return to the area of our Services at which you signed up for a particular program and modify your information;
   * Call 800-242-1227 with your request and current contact information;
-  * [Contact us](http://corporate.publix.com/contact "Contact us") online with your request and current contact information;
+  * [Contact us](https://web.archive.org/corporate/contact "Contact us") online with your request and current contact information;
 
 
 
@@ -210,7 +210,7 @@ Publix uses administrative, technical, and physical safeguards designed to safeg
 
 ### Questions about Our Privacy Policy
 
-Please let us know if you have any questions about our Privacy Policy by [contacting us](http://corporate.publix.com/contact "contacting us") online.
+Please let us know if you have any questions about our Privacy Policy by [contacting us](https://web.archive.org/corporate/contact "contacting us") online.
 
 ## Child Privacy Notice
 
@@ -220,6 +220,6 @@ At Publix, we are committed to protecting your child(ren)'s privacy. We develope
   * Only parents may register their children on the Services; therefore, Publix does not knowingly collect personal information from children under the age of 13.
   * When you provide personal information about yourself and your child(ren) through certain portions of the Services, that information is collected and maintained by Publix and, depending on the functionality of the service or program, by third parties under contract with Publix. Those third parties are contractually obligated to keep such personal information confidential and secure.
   * Once registered, a parent is able to modify the information that was supplied through the Services by [contacting us](http://corporate.publix.com/contact).
-  * Please [contact us](http://corporate.publix.com/contact "contact us") if you have any questions about our Child Privacy Notice.
+  * Please [contact us](https://web.archive.org/corporate/contact "contact us") if you have any questions about our Child Privacy Notice.
 
 
