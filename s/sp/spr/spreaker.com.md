@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230193500id_/https%3A//www.spreaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626044759id_/https%3A//www.spreaker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -233,10 +233,6 @@ Place of processing: United States – [Privacy Policy](http://www.google.com/in
 ElasticMail is an email address management and message sending service provided by Elastic Mail, Inc.
 
 Place of processing: United States – [Privacy Policy](https://elasticemail.com/resources/usage-policies/privacy-policy).
-
-OpenX is an advertising service provided by OpenX Software Ltd. 
-
-Place of processing: Various location depending on the user's choice – [Privacy Policy](https://www.openx.com/legal/privacy-policy/).
 
 AdsWizz is a digital audio and video advertising service provided by AdsWizz, Inc.
 
