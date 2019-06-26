@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifehack.org privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222131653id_/https%3A//www.lifehack.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifehack.org privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222150id_/https%3A//www.lifehack.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy of Lifehack
 
@@ -10,7 +10,7 @@
 
 ## Types of Data collected
 
-Among the types of Personal Data that this Website collects, by itself or through third parties, there are: email address, Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), various types of Data, first name, last name, profession and picture. 
+Among the types of Personal Data that this Website collects, by itself or through third parties, there are: email address; Cookies; Usage Data; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); various types of Data; first name; last name; profession; picture. 
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Website.  
