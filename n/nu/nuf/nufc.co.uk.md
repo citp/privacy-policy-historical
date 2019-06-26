@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nufc.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229180752id_/https%3A//www.nufc.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nufc.co.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626124920id_/https%3A//www.nufc.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Newcastle United - Privacy Policy
+# Newcastle United - Official Club Website
 
 icon_corner icon_start_stop enlarge2 icon_start_stop icon_start_stop icon_post icon_miss icon_save icon_card_red enlarge2 icon_save icon_start_stop icon_card_yellow attack icon chevron-down icon chevron-left icon chevron-right icon chevron-up icon cross icon defence icon icon_disallowed_goal email icon facebook icon google icon instagram icon linkedin icon messenger icon pinterest icon play icon plus-thin icon plus icon search icon soundcloud icon sub-in icon sub-out icon icon_sub tweet icon twitter icon icon_user__out icon_user_out vimeo icon whatsapp icon icon_start_stop youtube icon
 
-High Contrast is on. [Turn off](https://web.archive.org/web/20181229180752id_/https%3A//www.nufc.co.uk/turnOffHighContrast) You can turn high contrast on again via the link in the footer to our [accessibilty page](https://web.archive.org/accessibility)
+High Contrast is on. [Turn off](https://web.archive.org/web/20190626124920id_/https://www.nufc.co.uk/privacy-policy/turnOffHighContrast) You can turn high contrast on again via the link in the footer to our [accessibilty page](https://web.archive.org/accessibility)
 
 **About us  
 ** Newcastle United is a group of companies which includes Newcastle United Football Company Limited (together "NUFC", "we" and "us"). For the purposes of the General Data Protection Legislation and any successor legislation, Newcastle United Football Company Limited is the data controller in respect of any personal data provided to or collected by us.
