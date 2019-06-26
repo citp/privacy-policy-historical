@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the saskpolytech.ca privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907050828id_/https%3A//saskpolytech.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskpolytech.ca privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626185219id_/https%3A//saskpolytech.ca/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
 Saskatchewan Polytechnic is committed to protecting the privacy and the personal information of applicants, current students, past students, and any members of the public who share information with Saskatchewan Polytechnic students or employees as part of the delivery of Saskatchewan Polytechnic programs or services.
 
 Saskatchewan Polytechnic is a "local authority" pursuant to [The Local Authority Freedom of Information and Protection of Privacy Act](http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/L27-1.pdf) (LAFOIP). Accordingly, Saskatchewan Polytechnic has a responsibility in many instances to provide access to records that are in its possession and control. Saskatchewan Polytechnic also has a duty to protect the personal information that it acquires in the course of delivering its programs and services. Saskatchewan Polytechnic strives to ensure that both Saskatchewan Polytechnic and any third parties working with Saskatchewan Polytechnic comply with not only LAFOIP, but also with any other legislation that may apply to the collection, use and disclosure of personal information of any kind.
+
+Saskatchewan Polytechnic complies with [Canada's Anti-Spam Legislation](https://crtc.gc.ca/eng/internet/anti.htm) (CASL). If you have questions about Saskatchewan Polytechnic’s compliance with CASL, please contact the Privacy Office at the information below.
 
 ## Access to Information
 
@@ -24,7 +26,8 @@ Saskatchewan Polytechnic collects personal information in a variety of circumsta
   * Completion of a student registration form following admission to a program or course;
   * Collection of academic information as a student progresses through a program or course;
   * Collection of financial information when a student pays fees and tuition;
-  * Collection of financial information and customer profile information when a student chooses to utilize Saskatchewan Polytechnic's website to make any purchase or to pay fees or tuition, or for a similar circumstance; and
+  * Collection of financial information and customer profile information when a student chooses to utilize Saskatchewan Polytechnic's website to make any purchase or to pay fees or tuition, or for a similar circumstance;
+  * For faculty and staff, through the application and hiring process, as well as through the course of employment; and
   * Provision of health services to any student or to any member of the public.
 
 
@@ -60,8 +63,10 @@ Saskatchewan Polytechnic uses the personal information for a variety of purposes
   * To administer development and alumni operations;
   * To determine eligibility for alumni benefits;
   * To facilitate on-line payment of tuition, fees and purchasing from campus bookstores;   
-  * To make computing resources, electronic communication services, computer network and other information technology infrastructure available to students, faculty and staff, and to ensure the performance, security, integrity and proper use of that technology.
-  * To comply with LAFOIP and all applicable laws.
+  * To make computing resources, electronic communication services, computer network and other information technology infrastructure available to students, faculty and staff, and to ensure the performance, security, integrity and proper use of that technology;
+  * To comply with LAFOIP and all applicable laws;
+  * To fulfill Saskatchewan Polytechnic’s reporting obligations to provincial and the federal government;
+  * To fulfill and administer the employment relationship.
 
 
 
@@ -73,7 +78,7 @@ Saskatchewan Polytechnic will collect your personal information with your consen
 
 Saskatchewan Polytechnic relies upon all applicable [policies](https://web.archive.org/about/about-us/policies-procedures.aspx), 
 
-  * Information Technology Security #806-G;
+  * Information Technology Security #806;
   * Electronic Communication Services Policy #804;
   * Appropriate Use of Information Technology Resources Policy #801; and
   * Data Management Policy #802.
@@ -89,11 +94,9 @@ E-mail addresses and communications initiated from or delivered to any Saskatche
 
 This website uses cookies. Cookies are pieces of data sent from the website and stored on your system. These cookies are used to provide tailored information and enhance your experience on the website. You are not required to accept cookies to use this site. Refer to the help menu in your browser for information on how to disable cookies.
 
-### Google Analytics
+### Analytics
 
-Saskatchewan Polytechnic uses a tool called "Google Analytics" to gather information about the use of this website. Google Analytics collections information provided by your web browser and system. This information includes what pages are visited, how often users visit and what actions they performed on the website.
-
-Google Analytics does not collect any personally identifiable information and we do not combine information collected by Google analytics with any personally identifiable information. You can prevent your system from sending information to Google Analytics by disabling cookies on your browser.
+Saskatchewan Polytechnic uses tools (e.g., Google Analytics, etc.) to gather information about the use of this website. Analytics tools collect information provided by your web browser and system. This information may include what pages are visited, how often users visit and what actions they perform on the website. Saskatchewan Polytechnic sets its analytics tools so that they do not collect any personally identifiable information and we do not combine information collected by analytics tools with any personally identifiable information. You can prevent your system from sending information to most analytics tools by disabling cookies on your browser.
 
 ### Disclosure
 
@@ -128,7 +131,7 @@ _ Additional Saskatchewan Polytechnic [policies and procedures](https://web.arch
 
   * Confidentiality of Personal Information and Records of Applicants and Students #1204
   * Record Retention and Disposal Policy #809
-  * Information Technology Security #806-G
+  * Information Technology Security #806
   * Video Surveillance Policy #603
   * External Application and Data Hosting Policy #805
   * Data Management Policy #802
@@ -139,9 +142,9 @@ _ Additional Saskatchewan Polytechnic [policies and procedures](https://web.arch
 
 Links to FAQ's relating to a number of the policies are provided in the electronic version of the relevant policy.
 
-## More Information about Access to Information and Privacy as Saskatchewan Polytechnic
+## More Information about Access to Information and Privacy at Saskatchewan Polytechnic
 
-Questions about this privacy statement, access to information, or concerns about your privacy may be directed to Dustin Resch, Governance and Privacy Specialist, at (306) 691-8559, or in writing, to the following address:
+Questions about this privacy statement, access to information, or concerns about your privacy may be directed to Dustin Resch, Manager, Governance and Privacy, at (306) 691-8559, or in writing, to the following address:
 
 Privacy Office  
 Saskatchewan Polytechnic Administrative Offices  
