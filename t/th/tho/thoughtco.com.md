@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thoughtco.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231191430id_/https%3A//www.thoughtco.com/legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtco.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626052855id_/https%3A//www.thoughtco.com/legal%23privacy) for the most accurate reproduction.*
 
 # Terms of Use and Policies
 
-Updated May 25, 2018 
+Updated June 18, 2019 
 
-At ThoughtCo, we take online privacy seriously and we respect the concerns of our community of users. In this policy (the “Privacy Policy”) we describe our privacy practices with regard to information we collect through ThoughtCo.com and its affiliated sites (collectively, the “Site”), to help you make informed decisions about how you share information when you visit or use the site. 
+At ThoughtCo, we take online privacy seriously and we respect the concerns of our community of users. In this policy (the “Privacy Policy”) we describe our privacy practices with regard to information we collect through ThoughtCo.com and its affiliated sites (collectively, the “Site”), to help you make informed decisions about how you share information when you visit or use the site, as well as your rights in determining what we do with the information that we collect or hold about you. 
 
 ### Understanding How Information Is Collected on ThoughtCo:
 
@@ -52,27 +52,33 @@ Our agents, vendors, consultants, and other service providers may have access to
 
   * With our affiliates for internal business purposes; 
   * If we are required to do so by law, regulation, or legal process (such as a court order or subpoena); 
-  * In response to requests from government agencies, such as law enforcement authorities; 
+  * In response to requests from government agencies, such as law enforcement authorities, including to meet national security requirements; 
   * If we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity; 
   * With respect to analytics and statistical information, to inform advertisers about the nature of our user base; 
-  * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation); and 
+  * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation). In such an event, we will seek to provide you with commercially reasonable notice, e.g., via email and/or notice on our website, of any change in ownership, incompatible new uses of your personal information, and choices you may have regarding your personal information; and 
   * With your consent or at your discretion. 
 
 
 
+#### Data Retention and Access
+
+We will retain your personal data only for as long as necessary for the purposes it was retained, such as to enable you to use the Website and your products or to provide services to you. In some instances, we may retain data for longer periods in order to comply with applicable laws (including those regarding document retention), resolve disputes with any parties, and otherwise as necessary to allow us to conduct our business. All personal data we retain will be subject to this Privacy Policy and our internal retention guidelines. 
+
+We respect your control over your information and, upon request, we will seek to confirm your identity and whether we hold or are processing information that we have collected from you. You also have the right to amend or update inaccurate or incomplete personal information, request deletion of your personal information, or request that we no longer use it. Under certain circumstances we will not be able to fulfill your request, such as if it interferes with our regulatory obligations, affects legal matters, we cannot verify your identity, or it involves disproportionate cost or effort, but in any event we will respond to your request within a reasonable timeframe and provide you an explanation. In order to make such a request of us, please email us at [privacy@thoughtco.com](mailto:privacy@thoughtco.com)
+
 #### Your Choices
 
-**Unsubscribe from emails.** To unsubscribe from a particular newsletter, click the "unsubscribe" link at the bottom of that email newsletter. If you would like to globally opt-out from all ThoughtCo email campaigns, please send an email to [optout@ThoughtCo.com](mailto:optout@ThoughtCo.com) with "Unsubscribe" in the subject line. When we send newsletters to subscribers we may allow advertisers or partners to include messages in those newsletters, or we may send dedicated newsletters on behalf of those advertisers or partners. We may disclose your opt-out choices to third parties so that they can honor your preferences in accordance with applicable laws. 
+**Unsubscribe from emails.** To unsubscribe from a particular newsletter, click the "unsubscribe" link at the bottom of that email newsletter. If you would like to globally opt-out from all ThoughtCo email campaigns, please send an email to [optout@thoughtco.com](mailto:optout@thoughtco.com) with "Unsubscribe" in the subject line. When we send newsletters to subscribers we may allow advertisers or partners to include messages in those newsletters, or we may send dedicated newsletters on behalf of those advertisers or partners. We may disclose your opt-out choices to third parties so that they can honor your preferences in accordance with applicable laws. 
 
 **Blocking cookies.** Certain browsers may be configured to notify you when you receive cookies, or allow you to restrict or disable certain cookies. If you choose to disable cookies, however, that could affect certain features of the Site that use cookies to enhance their functionality. 
 
 **Disabling local shared objects (“Flash cookies”).** We may use other kinds of local storage that function similarly, but are stored in different parts of your computer from ordinary browser cookies. Your browser may allow you to disable its HTML5 local storage or delete information contained in its HTML5 local storage. [Click here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) for details about deleting information contained in "local shared objects" or adjusting related preferences. 
 
-**Options concerning third-party ad networks.** For more information about third-party ad networks and services that use these technologies, you can visit [www.aboutads.info](http://www.aboutads.info/) and [click here](http://aboutads.info/choices) to opt out or to learn more about your options. You also may visit the [NAI's site for additional options](http://www.networkadvertising.org/choices) on how to opt out of interest-based advertising. 
+**Options concerning third-party ad networks.** As described in this Privacy Policy, we and third parties may use cookies and similar tracking technologies to collect information and infer your interests for interest-based advertising purposes. If you would prefer to not receive personalized ads based on your browser or device usage, you may generally opt out of interest-based advertising by clicking [here](http://preferences-mgr.truste.com/). Please note that you will continue to see advertisements, but such advertisements will no longer be tailored to your interests. For more information about third-party ad networks and services that use these technologies, you can visit [www.aboutads.info](http://www.aboutads.info/) and [click here](http://aboutads.info/choices) to opt out or to learn more about your options. You also may visit the [NAI's site for additional options](http://www.networkadvertising.org/choices) on how to opt out of interest-based advertising. 
 
 #### How We Protect Personal Data
 
-We maintain appropriate administrative, technical, and physical safeguards designed to protect the personal data you provide against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use. That said, it is not possible to guarantee the security of information transmitted online, and you assume some risk with regard to the security of information you provide through any website, including this Site. If you have a data security inquiry, you may contact us by emailing [security@ThoughtCo.com](mailto:security@ThoughtCo.com). To request an invite to our bug bounty program to submit reports on vulnerabilities found on ThoughtCo.com, you may contact us by emailing [bugbounty@ThoughtCo.com](mailto:bugbounty@ThoughtCo.com). 
+We maintain appropriate administrative, technical, and physical safeguards designed to protect the personal data you provide against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use. That said, it is not possible to guarantee the security of information transmitted online, and you assume some risk with regard to the security of information you provide through any website, including this Site. If you have a data security inquiry, you may contact us by emailing [security@thoughtco.com](mailto:security@thoughtco.com). To request an invite to our bug bounty program to submit reports on vulnerabilities found on ThoughtCo.com, you may contact us by emailing [bugbounty@thoughtco.com](mailto:bugbounty@thoughtco.com). 
 
 #### Links From ThoughtCo to Other Websites
 
@@ -92,15 +98,15 @@ Your personal data may be stored, transferred and processed in and to the United
 
 By using our Site and providing personal data to us, you consent to the terms of this Privacy Policy and the collection, use, maintenance, transfer to and processing of your personal data in the United States or other countries or territories, and, unless otherwise stated in this Privacy Policy, we use this consent as the legal basis for that data transfer. 
 
-If you have questions or wish to obtain more information about the international transfer of your personal data or the implemented safeguards, please send us an email to [privacy@ThoughtCo.com](mailto:privacy@ThoughtCo.com). 
+If you have questions or wish to obtain more information about the international transfer of your personal data or the implemented safeguards, please send us an email to [privacy@thoughtco.com](mailto:privacy@thoughtco.com). 
 
 #### How We’ll Inform You About Changes to This Privacy Policy
 
-We may update this online privacy policy periodically to reflect changes to our privacy practices, such as how we collect or use personal data. We will post a prominent notice on the ThoughtCo.com home page to notify you of significant changes to this policy, and we indicate at the top of the policy the date when it was most recently updated. 
+We may update this online privacy policy periodically to reflect changes to our privacy practices, such as how we collect or use personal data. If we propose to make any material changes, we will post a prominent notice on the [ThoughtCo.com](https://web.archive.org/) home page to notify you of significant changes to this policy, and we indicate at the top of the policy the date when it was most recently updated. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
 #### How to Contact Us
 
-If you have questions about this policy or about our privacy practices, you may contact us by emailing [privacy@ThoughtCo.com](mailto:privacy@ThoughtCo.com). 
+If you have questions about this policy or about our privacy practices, you may contact us by emailing [privacy@thoughtco.com](mailto:privacy@thoughtco.com). 
 
 If you are a California resident inquiring about your California privacy rights, please include “California privacy rights request” in the subject line of your email. 
 
@@ -111,6 +117,8 @@ You may also write to:
 1500 Broadway, 6th Floor   
 New York, NY 10036 
 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+
 ### Jurisdiction Specific Provisions
 
 #### Our Notice to California Residents
@@ -119,9 +127,9 @@ Subject to certain limits, under California law California residents may ask us 
 
 #### If you are located in the European Economic Area (EEA):
 
-  1. #### Controller of your Perosnal Data
+  1. #### Controller of your Personal Data
 
-The controller of your personal data under this Privacy Policy is About, Inc., with an address of 1500 Broadway, 6th Floor, New York, NY 10036. Our local representative with respect to the GDPR can be contacted at [Privacy@ask.co.uk](mailto://Privacy@ask.co.uk). 
+The controller of your personal data under this Privacy Policy is About, Inc., with an address of 1500 Broadway, 6th Floor, New York, NY 10036. Our local representative with respect to the GDPR can be contacted at [privacy@thoughtco.com](mailto:privacy@thoughtco.com). 
 
   2. #### Legal Bases for Using Personal Data
 
@@ -197,9 +205,9 @@ To notify you of any changes to the Site that may affect you.
 It is necessary for us to process your personal data in order to deliver the services and process transactions according to the applicable contract between us.  
   
     * If we are required to do so by law, regulation, or legal process (such as a court order or subpoena); 
-    * In response to requests from government agencies, such as law enforcement authorities; 
+    * In response to requests from government agencies, such as law enforcement authorities, including to meet national security requirements; 
     * If we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity; and 
-    * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation) 
+    * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation). In such an event, we will seek to provide you with commercially reasonable notice, e.g., via email and/or notice on our website, of any change in ownership, incompatible new uses of your personal information, and choices you may have regarding your personal information; and 
 | 
 
 We conduct this processing to comply with our legal obligations and to protect the public interest.  
