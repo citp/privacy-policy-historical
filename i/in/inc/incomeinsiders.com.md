@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incomeinsiders.com privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823020908id_/http%3A//www.incomeinsiders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomeinsiders.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626190816id_/http%3A//www.incomeinsiders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
