@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbdigital.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007024650id_/https%3A//dzsuudu3ba6ci.cloudfront.net/terms-privacy/rb_privacy_policy_v2.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbdigital.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626084141id_/https%3A//dzsuudu3ba6ci.cloudfront.net/terms-privacy/rb_privacy_policy_v2.pdf) for the most accurate reproduction.*
 
 # RECORDED BOOKS, RBDIGITAL PRIVACY POLICY
 
