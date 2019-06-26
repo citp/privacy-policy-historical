@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the especiallyyours.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318143627id_/https%3A//www.especiallyyours.com/category/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the especiallyyours.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626174952id_/https%3A//www.especiallyyours.com/category/privacy-policy.do) for the most accurate reproduction.*
 
-# Privacy Policy - Especially Yours
+# Privacy Policy | Especially Yours
 
 **ESPECIALLY YOURS PRIVACY POLICY**
 
-Last Updated May 2015
+_Last Updated May 2018_
 
 At Especially Yours your privacy is as important to us as it is to you. Our Privacy Policy defines how Especially Yours protects your privacy. This Privacy Policy describes:
 
@@ -86,7 +86,29 @@ At Especially Yours, we always want to provide you with the easiest and best pos
 
 
 
-Personal Information that you provide to third party websites may be sent to Especially Yours in order to deliver the services you have requested. You can be assured that we will process Personal Information that we receive from these websites in accordance with this Privacy Policy.
+**Information Sharing Practices**  
+We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services.  
+Personal information. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
+
+  * Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+  * Business partners: When you make purchases, reservations or engage in promotions offered through our websites, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular offer or program, you authorize us to provide your email address and other information to that business partner.
+  * Other affiliated businesses: We are part of a family of businesses for cooperative marketing purposes ("Affiliates"). We may share information we collect, including personal information, with the Affiliates. Sharing information with our Affiliates enables us to provide you with information about a variety of products and services that might interest you. Our Affiliates also will comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages in the future.
+
+  
+
+
+Personal Information that you provide to third party websites may be sent to Especially Yours in order to deliver the services you have requested. You can be assured that we will process Personal Information that we receive from these websites in accordance with this Privacy Policy. 
+
+We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services.
+
+**Personal information**  
+We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
+
+  * **Authorized service providers:** We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+  * **Business partners:** When you make purchases, reservations or engage in promotions offered through our websites, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular offer or program, you authorize us to provide your email address and other information to that business partner. 
+  * **Other affiliated businesses:** We are part of a family of businesses for cooperative marketing purposes ("Affiliates"). We may share information we collect, including personal information, with the Affiliates. Sharing information with our Affiliates enables us to provide you with information about a variety of products and services that might interest you. Our Affiliates also will comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages in the future.
+
+
 
 **ATTENTION CANADIAN CUSTOMERS**  
 Effective July 1, 2014, Canada’s new anti-spam legislation goes into effect. To abide by this law, we will only send emails to Canadian customers with whom we have a business relationship. When you subscribed to our email distribution list or purchased from us prior to 07/01/14, we assumed a business relationship with you.
@@ -101,6 +123,11 @@ Pursuant to California law, you have the right to obtain a list of organizations
 If you no longer wish to receive promotional emails from Especially Yours, please unsubscribe using the link we provide at the bottom of our messages. 
 
 If you have not consented to be on our email distribution list, but wish to do so now, please click [here](http://www.especiallyyours.com/ancillary/emailsignup.do).
+
+**ATTENTION EUROPEAN UNION (EU) CUSTOMERS**  
+Especially Yours complies with the EU's May 25, 2018, General Data Protection Regulation (GDPR) regarding the collection, use, retention, and transfer of personal Information from citizens of EU member countries.
+
+If you are an EU citizen and wish to review the personal information you have shared with Especially Yours, or wish for us to delete that information, please email us at [customerservice@especiallyyours.com](mailto:CustomerService@EspeciallyYours.com). As per GDPR guidelines, we will complete your request within 30 days of submission. 
 
 **Safe, Secure Ordering**    
 We respect your right to privacy, and ensure that your personal information is kept completely safe and secure at all times, whether ordering by phone or online. We occasionally share our customer list with reputable, carefully screened companies whose products we feel may be of interest to you. If you prefer that we do not share your name, please let us know at 1-800-748-6910 
