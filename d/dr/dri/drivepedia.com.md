@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivepedia.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206063710id_/http%3A//www.drivepedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivepedia.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626122216id_/http%3A//www.drivepedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Drivepedia
 
