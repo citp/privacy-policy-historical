@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azamaraclubcruises.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907200036id_/https%3A//www.azamaraclubcruises.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azamaraclubcruises.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626194708id_/https%3A//www.azamaraclubcruises.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Azamara Club Cruises
 
@@ -63,7 +63,7 @@
 
  **(c)** We need to use your personal data to give you the best possible onboard experience – When you book with Us, We need your personal data to deliver a great cruise vacation. We also process your personal data for customer service purposes and where required by law.
 
- **(d)** To provide Our services to you, We may need to share your personal data with:
+ **(d)** To provide Our services to you, We may need to share your personal data with and receive personal data about you from:
 
  **(i)** Our global brands (Royal Caribbean International, Celebrity Cruises, and Azamara Club Cruises) and Our affiliates and subsidiaries (hereinafter the “Royal Caribbean Group”); and (ii) Our Suppliers around the world.
 
@@ -115,6 +115,12 @@ We also may collect details of your meal preferences which may tell Us about all
 You provide some of these details to Us if you tell Us about medical conditions when you book with Us, check in for your cruise, request guest access or other accessibility services, visit one of Our medical facilities during a cruise and/or sign up to a shore excursion, tour or entertainment onboard a cruise
 
 You might also provide these details to Us if you contact one of Our call centers. Where you book with a travel partner, We may receive these details from the travel partner. If another person books a cruise or contacts Us on your behalf, We may receive these details from them.  
+  
+ **Your photograph and your image** \- We may collect a facial photograph of you before your cruise or during your cruise.
+
+| 
+
+We use your image for safety and security purposes, as described in 6(2)(c) below. If We have your consent to do so, We use the photo you provide to identify you during the embarkation process, to make boarding quicker, and We may allow Our Business Partners to access this data to verify your identify (e.g. where you request that Our onboard photographers prepare and send to you photos of you and those people you are travelling with).  
   
  **Loyalty account details** \- a unique ID for your loyalty account, points balance, account activity, life milestones (e.g., anniversary date), and loyalty tier.
 
@@ -182,7 +188,7 @@ If you choose to use casinos onboard during your cruise, We collect these detail
 
 We receive these details from Our Business Partners if you have opted to receive promotions from them.  
   
-### #6\. How We use your personal data and who we share it with
+### #6\. How We use your personal data and who we share it with
 
 6.1 This section explains how We use the personal data listed above and who We share it with.
 
@@ -198,7 +204,7 @@ When you get in touch with Our customer support services (whether through the Di
 
 (c) **For your safety**
 
-Your safety is important to Us, and We use your details to safeguard it. For example, We transfer a record of the personal data you provide during the booking process onto your cruise ship for use if you require medical assistance. Additionally, We check booking details against law enforcement registers and Our internal records for the safety of all customers. We also use closed-circuit television ("CCTV") cameras onboard Our ships and equip Our security staff with body cameras for your safety. If circumstances allow, We will notify you before We begin recording with a body camera.
+Your safety is important to Us, and We use your details to safeguard it. For example, We transfer a record of the personal data you provide during the booking process onto your cruise ship for use if you require medical assistance. Additionally, We check booking details against law enforcement registers and Our internal records for the safety of all customers. With your consent to do so, we compare any photo you provide before your cruise with images taken during embarkation to help identify you and to speed up the boarding process for you. We also use closed-circuit television ("CCTV") cameras onboard Our ships, and We may match images against the photograph We have of you if We need to identify you. We equip Our security staff with body cameras for your safety. If circumstances allow, We will notify you before We begin recording with a body camera.
 
 (d) **To make Our Digital Platforms easy to use and enhance your cruise-planning experience**
 
@@ -262,11 +268,11 @@ We may share your personal data with other third parties at your request. Our Di
 
 8.2 Marketing communications from other members of the Royal Caribbean Group– Some of the services and activities provided onboard Our ships are managed by other members of the Royal Caribbean Group. These members may contact you about those services and activities – including information and promotions relating to onboard casinos – if you have opted-in to receive marketing communications from the Royal Caribbean Group or where permitted by applicable law. You can opt out at any time using the same options above.
 
-### #9\. Profiling and personalised marketing
+### #9\. Profiling and personalized marketing
 
 9.1 Profiling overview: We think it is important for Us to understand the types of vacations that Our consumers are interested in so that We can make Our marketing relevant and targeted. To do this, We use your personal data to build a profile for you that lets Us work out which of Our marketing segments is the best fit for you.
 
-9.2 The personal data We use: From the personal data that We hold about you, Our model may consider your age, gender, household or travel composition, postcode, how you have interacted with Our websites and marketing emails and your booking history (including your destinations, the ships you have sailed on and your chosen accommodation). We do not always use all of these data categories if We do not have the information about you or it is not relevant for Our marketing activities.
+9.2 The personal data We use: From the personal data that We hold about you, which includes the personal data We receive from Our Suppliers and Our Business Partners, Our model may consider your age, gender, household or travel composition, postcode, how you have interacted with Our websites and marketing emails and your booking history (including your destinations, the ships you have sailed on and your chosen accommodation). We do not always use all of these data categories if We do not have the information about you or it is not relevant for Our marketing activities.
 
 9.3 How We build your profile and what We learn from it:
 
@@ -330,7 +336,7 @@ However, they will not be able to modify or cancel your reservation, view your f
 
 ### #14\. Children
 
-14.1 Our Digital Platforms seek to promote Our cruise vacations for sale to adults. We do not knowingly solicit personal data from children, unless permitted by applicable law. If a parent or guardian becomes aware that his or her child has provided Us with information without their consent, he or she should contact Us using the contact details below. We will delete such information from Our files.
+14.1 Our Digital Platforms seek to promote Our cruise vacations for sale to adults. We do not knowingly solicit personal data from children, unless permitted by applicable law. If a parent or guardian becomes aware that his or her child has provided Us with information without their consent, he or she should contact Us using the contact details below. We will delete such information from Our files.
 
 ### #15\. Your rights
 
@@ -344,7 +350,7 @@ However, they will not be able to modify or cancel your reservation, view your f
 
 ### #17\. Contact Us and complaints
 
-17.1 If you require any other information about any part of this notice, you can contact Our Data Protection Officer at Royal Caribbean Cruises Ltd. at the mailing addresses above or via email at [privacy@rccl.com](mailto:privacy@rccl.com).
+17.1 If you require any other information about any part of this notice, you can contact Our Data Protection Officer at RCL Cruises Limited at the mailing addresses above or by submitting a request via the respective links outlined in Section II.3.1 below.
 
 ### SECTION 2: Heightened European Union requirements/ compliance with the General Data Protection Regulation
 
@@ -392,16 +398,22 @@ This section applies to you if:
 
 3.1 You have the right to ask Us to:
 
-(a) restrict Our processing of your personal data;
+(a) provide you with access to the personal data that we hold about you;
 
-(b) object to Our processing of your personal data;
+(b) correct your personal data;
 
-(c) request that We move your personal data to another organization;
+(c) erase your personal data;
 
-(d) object specifically to Us using your personal data for profiling for direct marketing purposes; or
+(d) restrict our processing of your personal data;
 
-(e) provide a copy of your personal data in an easily accessible format.
+(e) object to our processing of your personal data;
+
+(f) request that we move your personal data to another organization; or
+
+(g) object specifically to us using your personal data for profiling for direct marketing purposes
+
+Click on the respective link to submit your request: [Guest Data Subject Request Form](https://privacyportal-cdn.onetrust.com/dsarwebform/d7a0f2dc-2d24-46bc-81f3-4ddf48f1cd61/ce6c53fc-983a-4457-a909-34f8632b4c4b.html) or [Marketing Subscriber Data Subject Request Form](https://privacyportal-cdn.onetrust.com/dsarwebform/d7a0f2dc-2d24-46bc-81f3-4ddf48f1cd61/fbe799ca-3dce-482b-ba32-bf6daa911262.html). Please use the ‘Submit an inquiry’ button in these forms to exercise your rights under 3.1(f) and (g) above.
 
 3.2 You also have the right to make a complaint about how We process your personal data to your data protection supervisory authority.
 
-3.3 Where you have specifically consented to Our use of your personal data, you have the right to withdraw that consent at any time. Please contact Us if you want to do this. See Our website for contact details.
+3.3 Where you have specifically consented to Our use of your personal data, you have the right to withdraw that consent at any time. Please contact Us if you want to do this. See Our website for contact details or refer to Section II.3.1 above for how to submit your request.
