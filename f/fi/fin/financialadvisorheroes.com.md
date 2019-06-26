@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the financialadvisorheroes.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215013247id_/http%3A//financialadvisorheroes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialadvisorheroes.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626021952id_/http%3A//financialadvisorheroes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Financial Advisor Heroes
 
-Last updated: May,2018
+Last updated: March, 2019
 
-FinancialAdvisorHeroes LTD (“us”, “we”, or “our”) operates the [http://www.FinancialAdvisorHeroes.com](http://www.omgstudios.com/) website (the “Service”).  
+FinancialAdvisorHeroes LTD (“us”, “we”, or “our”) operates the http://www.FinancialAdvisorHeroes.com website (the “Service”).  
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
 We will not use or share your information with anyone except as described in this Privacy Policy.  
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://www](http://www/).FinancialAdvisorHeroes.com
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.FinancialAdvisorHeroes.com
 
 **Information Collection And Use**
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afc6c1c9c0efc0c2c8dcdbdacbc6c0dc81ccc0c2)
+  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4821262e270827252f3b3c3d2c21273b662b2725)
 
 
 
