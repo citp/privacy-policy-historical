@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the senuke.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208034257id_/http%3A//www.senuke.com/pro/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senuke.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626074615id_/http%3A//www.senuke.com/pro/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — SEnuke TNG
 
-This Privacy Policy governs the manner in which SEnuke.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.senuke.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Zont SEO.
+This Privacy Policy governs the manner in which [SEnuke.com](http://www.senuke.com/) collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.senuke.com website (“Site”). This privacy policy applies to the Site and all products and services offered by IATC Enterprises.
 
 **Personal identification information**
 
@@ -24,7 +24,7 @@ SEnuke may collect and use Users personal information for the following purposes
   * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * _– To improve our Site_ We may use feedback you provide to improve our products and services.
   * _– To process payments_ We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _– To run a promotion, contest, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _– To run a promotion, contest, survey or other Site features  _To send Users information they agreed to receive about topics we think will be of interest to them.
   * _– To send periodic emails_ We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -47,7 +47,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Changes to this privacy policy**
 
-Zont SEO has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+IATC Enterprises has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
