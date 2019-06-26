@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchprivate.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221211716id_/http%3A//www.searchprivate.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchprivate.org privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626190924id_/http%3A//www.searchprivate.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - searchprivate.org
 
