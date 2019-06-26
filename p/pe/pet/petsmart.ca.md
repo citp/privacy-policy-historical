@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsmart.ca privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201038id_/http%3A//www.petsmart.ca/help/privacy-policy-H0011.html%23page_name%3Dglobal%26link_section%3Dfooter%26link_name%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsmart.ca privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626021033id_/https%3A//www.petsmart.ca/help/privacy-policy-H0011.html) for the most accurate reproduction.*
 
 # Privacy Policy | PetSmart
 
