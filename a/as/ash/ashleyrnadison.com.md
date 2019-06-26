@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103035318id_/https%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626215127id_/https%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D2) for the most accurate reproduction.*
 
 # Ashley Madison® | Privacy Policy
 
@@ -46,7 +46,7 @@ When you make a purchase off our Platform you will be asked for certain Personal
 
 With your permission, we will also collect your location information from your mobile device to help you identify other Platform members in your area. You may turn off this feature through the location settings on your mobile device. We also collect your general geographic location from your browser access to help you identify members in your area and to help us quickly and efficiently respond to inquiries and requests.
 
-If you choose to activate 2-factor authentication for your account, we will ask for your phone number. This phone number will be shared with a third party service provider Nexmo. Nexmo service is not part of the Service, and is subject to separate terms and conditions, including different policies with respect to the collection, use and disclosure of your personal information. We do not have control over Nexmo. You will need to make your own independent judgment regarding your interaction with them. Please note that if you decide to delete your Ashley Madison account, we will delete your phone number from our records but Nexmo will not.
+If you choose to activate 2-factor authentication for your account, we may ask for your phone number. This phone number will be shared with a third party service provider Nexmo. Nexmo service is not part of the Service, and is subject to separate terms and conditions, including different policies with respect to the collection, use and disclosure of your personal information. We do not have control over Nexmo. You will need to make your own independent judgment regarding your interaction with them. Please note that if you decide to delete your Ashley Madison account, we will delete your phone number from our records but Nexmo may not. If you decide to activate 2-factor authentication through an Authenticator App of your choice, please note that use of such app is subject to separate Terms and Conditions and Privacy Practices which we do not control. Please review them and make independent judgement if you want to proceed with such app.
 
 Back to the top of this Privacy Policy.
 
