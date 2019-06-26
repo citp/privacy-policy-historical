@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reuters.tv privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627174817id_/https%3A//www.reuters.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reuters.tv privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626032356id_/https%3A//www.reuters.tv/privacy) for the most accurate reproduction.*
 
 # Reuters TV - Privacy
 
