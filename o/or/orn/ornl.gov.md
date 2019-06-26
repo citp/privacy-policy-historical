@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the ornl.gov privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128085630id_/https%3A//www.ornl.gov/ornl/contact-us/Security--Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ornl.gov privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627003735id_/https%3A//www.ornl.gov/ornl/contact-us/Security--Privacy-Notice) for the most accurate reproduction.*
 
 # Security & Privacy Notice | ORNL
-
-  1. [Home](https://web.archive.org/)
-  2. [About ORNL](https://web.archive.org/content/solving-big-problems)
-  3. [Privacy](https://web.archive.org/ornl/contact-us/Security--Privacy-Notice "Privacy")
-
-
 
 This web site is part of a Federal computer system used to accomplish Federal functions. The Department of Energy monitors this web site for security purposes to ensure it remains available to all users and to protect information in the system. By accessing this web site, you are expressly consenting to these monitoring activities.
 
