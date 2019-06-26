@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downdetector.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119190932id_/https%3A//downdetector.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downdetector.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626023534id_/https%3A//downdetector.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy and cookie statement Downdetector
 
