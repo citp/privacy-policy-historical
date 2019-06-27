@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appbrain.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231203633id_/https%3A//www.appbrain.com/info/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appbrain.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627230638id_/https%3A//www.appbrain.com/info/help/privacy.html) for the most accurate reproduction.*
 
 # AppBrain privacy policy | AppBrain Documentation
 
@@ -51,9 +51,9 @@ When a user indicates that the list of apps is public, this data can be displaye
 
 AppBrain offers a service for developers to gain more insight into users of their apps. Protection of the privacy of users is of the utmost importance to us, and we have taken a number of precautions in presenting data to preserve the privacy of users. We only show data to about apps that have at least 20 active AppBrain users. Furthermore, we only show individual data entities (such as a country, age bucket or phone model), when it is present in at least 3 users for that app.
 
-## Active app tracking
+## APK data
 
-If active app tracking is enabled in the AppBrain Android app, we additionally collect the approximate usage times of the apps installed on the device. The collected data is used to improve our app recommendations. The (anonymized) data can be shared with research institutions for research purposes. The user can enable and disable active app tracking at any time in the app settings.
+AppBrain app discovery apps (AppBrain App Market, Hot Apps, Awesome Games, Ad Detector, Price Drops) share information about APK files installed on the users device with AppBrain. This includes information about file names, class names, manifest information from the installed APK file. No personally-identifying or private data is shared in this process.
 
 ## Privacy policy changes
 
@@ -61,10 +61,11 @@ Although most changes are likely to be minor, AppBrain may change its Privacy Po
 
 ## Further questions
 
-If you have questions about privacy or your personal data please contact our [_support team_](https://web.archive.org/web/20181231203655id_/https://www.appbrain.com/info/help/about.html).
+If you have questions about privacy or your personal data please contact our [_support team_](https://web.archive.org/web/20190627230639id_/https://www.appbrain.com/info/help/about.html).
 
 Change log:
 
+  * February 2019: Added APK data section
   * April 2018: Added information about GDPR compliance.
   * Aug 18, 2015: Removed section about Fast Web Installer.
   * Nov 11, 2014: Added section about Active App Tracking.
