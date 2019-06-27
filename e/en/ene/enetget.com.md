@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the enetget.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901225223id_/http%3A//enetget.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enetget.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627095730id_/https%3A//enetget.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # eNetGet Social Network | Privacy Policy
+
+###  Privacy Policy
 
 We (eNetGet) are committed to protecting users' (your) privacy and make your experience in eNetGet as enjoyable as possible. What is covered in this privacy notice is very similar to other similar websites but there might be minor differences.
 
