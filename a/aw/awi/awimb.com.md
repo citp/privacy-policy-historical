@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awimb.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006055650id_/http%3A//www.arsenal-world.co.uk/privacy_policy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awimb.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627024719id_/http%3A//www.arsenal-world.co.uk/privacy_policy/index.shtml) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Arsenal World
 
