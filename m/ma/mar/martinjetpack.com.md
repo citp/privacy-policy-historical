@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martinjetpack.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225220034id_/http%3A//www.martinjetpack.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinjetpack.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627124255id_/http%3A//martinjetpack.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
