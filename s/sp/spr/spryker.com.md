@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spryker.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919191702id_/https%3A//spryker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spryker.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627102931id_/https%3A//spryker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Spryker
 
@@ -72,7 +72,7 @@ When you access the website from our data protection regulations, cookies are al
 
 Ability to object: If the user does not want to use cookies or wishes to delete existing cookies, she can switch them off and remove them via her internet browser. More information on deleting or disabling cookies can be found in the help texts of the browsers used or on the Internet, for example, under the search words “Deactivate cookies” or “Delete cookies” (deletion instructions in [Microsoft Internet Explorer](https://support.microsoft.com/de-de/kb/278835). Deletion instructions in [Mozilla Firefox](https://support.mozilla.org/de/kb/cookies-loeschen-daten-von-websites-entfernen?redirectlocale=de&redirectslug=Cookies+l%C3%B6schen). Deletion instructions in [Safari](http://www.apple.com/support/?path=Safari/3.0/de/11471.html)). If the user decides to disable cookies, this can reduce the scope of the service and have a negative impact on the use of Spryker services.
 
-Find more information about cookies and third-party services in our [Cookie Policy](http://spryker.com/cookies).
+Find more information about cookies and third-party services in our [Cookie Policy](https://spryker.com/cookie-policy/).
 
 Cookies, which are necessary for the execution of the electronic communication process, are stored on the basis of Art. 6 para. 1 letter f GDPR. Spryker Systems GmbH has a legitimate interest in the storage of cookies for the technically error-free and optimized provision of its services. As far as other cookies (e.g., cookies for the analysis of your surfing behavior) are stored, these will be treated separately in this data protection policy.
 
