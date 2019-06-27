@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rupeepower.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224134736id_/http%3A//www.rupeepower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rupeepower.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627113144id_/http%3A//www.rupeepower.com/privacy-policy) for the most accurate reproduction.*
 
 # Rupee Power Privacy Policy
 
