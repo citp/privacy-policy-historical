@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the mixfriv.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106075803id_/http%3A//mixfriv.com/privacy-plicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixfriv.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628012402id_/http%3A//mixfriv.com/privacy-policy) for the most accurate reproduction.*
 
-# Mixfriv Privacy Policy
+# MixFriv.com - Privacy Policy
 
-### Privacy Policy
+INFO / DATA / COOKIES / SECURITY
 
-**Personal Information**
+Information Collection And Use
+  
+MixFriv does not collect, analyse, distribute any personal information. 
 
-Mixfriv is committed to protect his user privacy online. Mixfriv does not collect, analyse, distribute  any personal information.
+IP address and logging Your IP address is used only by google analytics to gather demographic information and to track your general visiting paterns (how many pages you view while at one website, statistics regarding most played games, etc). 
 
-**IP address and logging**
+Third Party Advertising We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. 
 
-Your IP address is used only by google analytics to gather demographic information and to track your general visiting paterns (how many pages you view while at one website, statistics regarding most played games, etc).
+These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.
 
-**Third Party Advertising**
+Log Data
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.
+Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-**Liability**
+Cookies
 
-It is Mixfriv policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, Mixfriv will immediately disable and remove games in question.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive. Like many sites, we use "cookies" to collect and store information - including data which is essential to the proper function of many games. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site / games. Ultimately it is your choice whether to access this Site, and whether you wish to allow cookies to be stored.
 
-**External Links**
+Security
 
-Mixfriv site contains links to other sites. Mixfriv is not responsible for the privacy practices or the content of such Web sites.
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
