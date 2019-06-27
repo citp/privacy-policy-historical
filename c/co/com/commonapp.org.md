@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonapp.org privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005162153id_/https%3A//www.commonapp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonapp.org privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627224217id_/https%3A//www.commonapp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Common Application
 
@@ -12,11 +12,9 @@ This privacy policy applies to the web site of The Common Application, Inc., whi
 
 Please note that Common Application is based in the USA and any personal information you provide or we collect is transmitted to, and stored in, the USA, and will also be shared with our member Colleges and Universities, at your direction, in countries where laws may be less protective of your personal information than in your home country.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our [U.S.-based third party dispute resolution provider](https://feedback-form.truste.com/watchdog/request) (free of charge).  
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact us directly.  
 
 _**Date of Last Update: July 31, 2018**_
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=901e8348-1fd6-46ef-855a-17aa00569ef3 "TRUSTe")
 
   
 **This policy will let you know about:**
