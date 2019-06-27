@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newmyroyals.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826074313id_/https%3A//www.newmyroyals.com/p/term-of-use.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newmyroyals.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627145131id_/https%3A//www.newmyroyals.com/p/term-of-use.html) for the most accurate reproduction.*
 
-# Term Of Use & Privacy Policy | Newmyroyals & Hollywood Fashion
+# Newmyroyals & Hollywood Fashion: Term Of Use & Privacy Policy
 
 **_Contact Information  _**  
 _Copyright or concerns or questions about this privacy policy and can be directed to **info@newmyroyals.com**  _  
