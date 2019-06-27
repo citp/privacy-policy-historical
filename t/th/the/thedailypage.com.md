@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailypage.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227183904id_/https%3A//isthmus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailypage.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627181703id_/https%3A//isthmus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Isthmus | Madison, Wisconsin
 
