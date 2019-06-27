@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the scorecardresearch.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220171005id_/https%3A//www.scorecardresearch.com/privacy.aspx%3Fnewlanguage%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorecardresearch.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627071427id_/https%3A//www.scorecardresearch.com/privacy.aspx%3Fnewlanguage%3D1) for the most accurate reproduction.*
 
 # Privacy Page - Scorecard Research
 
-| 
-
-|   
-  
 ---  
   
 Privacy Policy
 
-Effective Date: December 19, 2017
+Effective Date: June 26, 2019
 
-ScorecardResearch, a service of Full Circle Studies, Inc. and part of the comScore, Inc. market research group, (“ScorecardResearch”, “we”, “us”, or “our”) collects digital consumption behavior data, which may include information about your activities on your computer or device, your online activities, your video streaming activities, and other activities, as part of comScore’s broad market research efforts. We use this data to create reports on digital consumption behavior and trends, and to provide research and information products to our clients that inform our clients about consumers’ preferences and interests. comScore is a recognized authority on Internet trends, whose data are routinely cited by major media outlets such as The New York Times, The Wall Street Journal, and CNBC, and extensively used by the largest Internet services companies and scores of Fortune 500 companies. To learn more about comScore, please see [www.comscore.com](http://www.comscore.com/).
+ScorecardResearch, a service of Full Circle Studies, Inc. and part of the Comscore, Inc. market research group, (“ScorecardResearch”, “we”, “us”, or “our”) collects digital consumption behavior data, which may include information about your activities on your computer or device, your online activities, your video streaming activities, and other activities, as part of Comscore’s broad market research efforts. We use this data to create reports on digital consumption behavior and trends, and to provide research and information products to our clients that inform our clients about consumers’ preferences and interests. Comscore is a recognized authority on Internet trends, whose data are routinely cited by major media outlets such as The New York Times, The Wall Street Journal, and CNBC, and extensively used by the largest Internet services companies and scores of Fortune 500 companies. To learn more about Comscore, please see [www.Comscore.com](http://www.comscore.com/).
 
 This Privacy Policy describes our information practices with respect to the collection, use, and disclosure of information gathered from visitors to our website, [www.scorecardresearch.com](http://www.scorecardresearch.com/?newlanguage=1) (“Website”), and from visitors to the websites and users of the applications that have enrolled in our market research effort. We may also transfer Web browsing and application usage data to third parties for their use in interest-based advertising, as described further below.
 
@@ -84,6 +80,8 @@ _Interest-Based Advertising Opt-Out_
 
 Through the practices described above, we may collect data about your Web browsing and your usage of applications over time and across digital properties, including information about the possible relationships among different browsers and devices, and provide this data to third parties to improve their ad campaigns and to use for their own interest-based advertising purposes. We adhere to the Digital Advertising Alliance Self-Regulatory Principles in connection with this activity. You may visit [www.aboutads.info/choices](http://www.aboutads.info/choices) to learn more about interest-based advertising, to opt out of our collection and transfer of Web browsing data for interest-based advertising purposes, and to opt out of the collection and use of data for this purpose by other companies that participate in industry self-regulation. To opt out of our collection and transfer of application usage data for third parties to use for their own interest-based advertising purposes, you can use any controls that are provided for this purpose by the operating system on your mobile device. Please note that opting out will not stop advertising from appearing in your browser or in the applications you use. It may make the ads you see less relevant to your interests. You may also continue to receive interest-based advertising from other companies. Additionally, please note that if you use a different browser or device, erase cookies from your browser or reset your mobile device’s platform advertising ID, you may need to renew your opt-out choices. 
 
+Interest-based advertising services are not available in the European Union. 
+
 _Market Research Opt-Out_
 
 You may control your level of participation in our market research programs and opt-out of participating in such programs by visiting here: [http://www.scorecardresearch.com/preferences.aspx](http://www.scorecardresearch.com/preferences.aspx?newlanguage=1). We will continue to identify that a user visited a website, but we will not associate that event with your browser. Additionally, if your mobile device platform offers settings to limit data collection for interest-based advertising, you can use these settings to opt out of participating in our market research programs with respect to our data collection from applications on that mobile device. 
@@ -122,9 +120,9 @@ International Visitors and the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shi
 
 If you visit our Website or participate in our program from locations outside of the United States, please note that any information you provide to us through your use of our Website or your participation in the program may be transferred to and processed in countries other than the country from which you accessed our Website or participated in our program, including the United States where our central database is operated. Subject to the next paragraph below, please be aware that the United States, and other countries in which your data may be maintained, may not offer an equivalent level of protection as provided for in your country. 
 
-comScore, Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Economic Area and Switzerland to the United States. To learn more, please view our EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Statement <https://www.comscore.com/content/download/39199/2259669/file/Privacy-Shield-Statement-ENGUS.pdf>. 
+ScorecardResearch complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Economic Area, the United Kingdom, and Switzerland to the United States. To learn more, please view our EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Statement [https://www.Comscore.com/content/download/39199/2259669/file/Privacy-Shield-Statement-ENGUS.pdf](https://www.comscore.com/content/download/39199/2259669/file/Privacy-Shield-Statement-ENGUS.pdf). 
 
-**For individuals located within the European Economic Area (“EEA”):** If you visit our Website or participate in a Panel or a program from locations within the EEA, please review our GDPR Privacy Policy [here](https://www.comscore.com/About-comScore/General-Data-Protection-Regulation). Our GDPR Privacy Policy includes additional information relating to the processing of ‘personal data’ and the exercise of rights under the General Data Protection Regulation 2016/679. 
+**For individuals located within the European Economic Area (“EEA”):** If you visit our Website or participate in a Panel or a program from locations within the EEA, please review our GDPR Privacy Policy [here](https://www.comscore.com/About-Comscore/General-Data-Protection-Regulation). Our GDPR Privacy Policy includes additional information relating to the processing of ‘personal data’ and the exercise of rights under the General Data Protection Regulation 2016/679. 
 
   
 
