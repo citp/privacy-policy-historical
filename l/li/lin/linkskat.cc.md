@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkskat.cc privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226165018id_/http%3A//linkskat.cc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkskat.cc privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627181451id_/http%3A//linkskat.cc/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - LinksKat
 
@@ -62,5 +62,5 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 Contacting Us  
 If there are any questions regarding this privacy policy you may contact us using the information below.  
 LinksKat.com  
-linkskat6@gmail.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 Last Edited on 2018-04-3 
