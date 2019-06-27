@@ -1,112 +1,316 @@
-> *The following text is extracted and transformed from the deutz-fahr.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017044502id_/http%3A//www.deutz-fahr.com/en-US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deutz-fahr.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628013045id_/https%3A//www.deutz-fahr.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# Legal notes & privacy statement - DEUTZ-FAHR
+# Legal Information and Privacy Policy - DEUTZ-FAHR
 
-## LEGAL NOTES
+## LEGAL INFORMATION
 
-### Terms and conditions of use
+SDF S.p.A.  
+Sole shareholder company of SDF S.p.A.  
+Viale Francesco Cassani, 14 - 24047 Treviglio (BG) - Italy  
+Tel. +39 03634211 - Fax +39 0363421638  
+Share capital: EUR 32,000,000  
+Fiscal code, VATIN, Bergamo register of companies 00215890161 - REA 47462  
+www.sdfgroup.com
 
-This website is an on-line information service on the products, services, activities, etc. of the SAME DEUTZ-FAHR Group, as defined below, and its trademarks. Its use is subject to the terms and conditions set out below. If you do not agree with them do not use the website or download any materials from it.
+### TERMS AND CONDITIONS OF USE
 
-### Copyright & limits of use
+This website is a service designed to provide online information about the products, services, activities and other matters regarding SDF S.p.A., as defined below, and its proprietary brands. Its use is subject to the terms and conditions set out below. If you do not agree with them, please do not use the website or download any materials from it.
 
-The content of the pages of the website are the Copyright © of SAME DEUTZ-FAHR GROUP S.p.A. and, therefore, protected by copyright and industrial patent rights of which the latter is the exclusive legal owner. All rights reserved. The contents of this website may not, in whole or in part, be copied, reproduced, transferred, uploaded, stored, published or distributed in any form without the prior written consent of SAME DEUTZ-FAHR GROUP S.p.A., except for the possibility to store them on your computer or print extracts of pages from this website for personal use only.  
-The trademarks and logos which appear on this website are the property of SAME DEUTZ-FAHR GROUP S.p.A. They cannot be used on any website other than this one without the prior written consent of SAME DEUTZ-FAHR GROUP S.p.A. The name SAME DEUTZ-FAHR and any trademark including the trademarks SAME, DEUTZ FAHR, DEUTZ-FAHR, Hürlimann, Grégoire, Lamborghini Green Pro cannot be used as Internet addresses of other sites, or parts of such addresses, without the prior written consent of SAME DEUTZ-FAHR GROUP S.p.A.  
-Access to this website should not be construed, by implication, exception or otherwise, as concession of any license or right to use any trademarks appearing on the website without the prior consent of SAME DEUTZ-FAHR GROUP.
+### COPYRIGHT & LIMITS ON USE
 
-### Liability limits
+The contents of the website pages are copyright© SDF S.p.A. and are therefore protected by the copyright and industrial property rights of which SDF S.p.A. is the sole owner. All rights reserved. The contents of the pages in the website shall not be fully or partially copied, reproduced, transferred, uploaded, saved, published or distributed, in any form, without the prior consent of SDF S.p.A. Users may store the contents in their own computer and print extracts of the pages of this website for personal use only. The brands and logos that appear on this website are the property of SDF S.p.A. The content shall not be used on any website other than this one without the prior written consent of SDF S.p.A. The name SDF and any brands that include the SAME, DEUTZ FAHR, Lamborghini Trattori, Hürlimann, Grégoire or Lamborghini Green Pro brands cannot be used as the web addresses of other websites, or as part of such addresses, without the prior written consent of SDF S.p.A. Access to this website shall not be presumed as the concession of a licence or of any right to use the brands that appear on the website, either as an exception or otherwise, unless the prior consent of SDF S.p.A. has been obtained.
 
-The information contained in this website is provided in good faith and the SAME DEUTZ-FAHR Group considers it to be accurate. Under no circumstances shall SAME DEUTZ-FAHR GROUP S.p.A. and its affiliates (hereinafter “SAME DEUTZ-FAHR Group”) be liable for any direct, indirect or incidental damage resulting from the use of this website. The information contained in this website may contain technical inaccuracies or typographical errors. The information may be changed or updated without notice. The SAME DEUTZ-FAHR Group may also make improvements or changes in the sections of this website without notice.
+### LIMITS ON LIABILITY
 
-### Links
+The information contained in this website is provided in good faith and SDF S.p.A. believes it to be accurate. SDF S.p.A. and its subsidiaries (hereinafter "SDF S.p.A.") will under no circumstances be considered liable for any direct, indirect or accidental damages caused by the use of this website. The information contained in this website may contain technical inaccuracies or typographical errors. The information may be changed or updated without notice. SDF S.p.A. can also improve, change or delete sections of this website without prior warning.
 
-The SAME DEUTZ-FAHR Group may include links to websites belonging to or operated by third parties. It is agreed that SAME DEUTZ-FAHR Group has no control over the content of these websites and accepts no liability for material created or published by such sites nor for any direct, indirect or incidental damage resulting from the use from any linked websites. The link to other websites does not imply that the SAME DEUTZ-FAHR Group sponsors and/or approves that website or the products or services contained therein.
+### LINKS AND OTHER WEBSITES
 
-### Information received by SAME DEUTZ-FAHR
+This website may contain links or references to access other websites, such as social networks. By clicking on the links provided, it is possible to share our contents, for example. We hereby inform you that SDF S.p.A. has no control over the contents of these websites and assumes no liability for the material created or published by the same or for any direct, indirect or accidental damage caused by use of the linked websites. The fact that the website contains links to other websites does not imply that SDF S.p.A. sponsors and/or approves these websites or the products and/or services featured in the same.
 
-Any material sent to the SAME DEUTZ-FAHR Group, for example by e-mail or through World Wide Web pages, shall be deemed of a non-confidential nature. The SAME DEUTZ-FAHR Group shall have no obligation of any kind with respect to such material and shall be free to reproduce, use, disclose, display, transform, create derivative works and distribute the material to third parties without limitation. Moreover, the SAME DEUTZ-FAHR Group shall be free to use any ideas, concepts, know-how or technical knowledge contained in such material for any purpose whatsoever, including but not limited to, the development, manufacturing and marketing of products using such material. Anyone sending material guarantees that the same is freely disclosable and that it does not contain any data which is illegal or otherwise unfit for publication, thus accepting to indemnify the SAME DEUTZ-FAHR Group against all action by third parties in relation to such material.
+### INFORMATION RECEIVED BY SDF
 
-SAME DEUTZ-FAHR Group S.p.A.    
-Company with sole shareholder belonging to the SAME DEUTZ-FAHR Group  
-Viale Francesco Cassani, 14 - 24047 Treviglio (BG) - Italy.   
-Tel. +39 0363.4211 - Fax +39 0363.421638   
-Share Capital Euro 32,000,000   
-Tax Code, VAT No., Bergamo Register of Companies no. 00215890161 - REA no. 47462  
-[www.samedeutz-fahr.com](http://www.samedeutz-fahr.com/)
+Any material sent to SDF S.p.A., such as via e-mail or through the pages of the World Wide Web, will be considered non-confidential. SDF S.p.A. shall be under no obligation of any kind with respect to said material and shall be free to reproduce, use, reveal, show and transform the same, as well as use it to produce other works and distribute it to third parties, with no limits. Additionally, SDF S.p.A. will be free to use all the ideas, concepts, know-how or technical knowledge contained therein for any purpose, including but not limited to the development, production and sale of products which incorporate said material. Anyone sending material to SDF S.p.A. guarantees that said material can be freely disclosed and that it does not contain any illegal data or data unsuitable for publication, thus agreeing to indemnify SDF S.p.A. from any actions whatsoever on the part of third parties with regards to said material.
 
 ## PRIVACY POLICY
 
-### The "data controller"
+### THE DATA CONTROLLER
 
-The "Data Controller" is SAME DEUTZ-FAHR Italia S.p.A., with registered office in Treviglio (Italy), Viale Cassani 14-15.
+Once a user visits this website, the data relating to identified or identifiable persons may be processed. The “Data Controller”, pursuant to EU Regulation 2016/679 (General Data Protection Regulation, hereinafter "GDPR") is SAME DEUTZ-FAHR Italia S.p.A., with registered office in Viale Francesco Cassani, 14 - 24047 Treviglio (BG) - Italy.
 
-### Where data processing takes place
+### PLACE OF DATA PROCESSING AND RETENTION PERIODS
 
-Processing related to web services of this website takes place at the aforementioned registers office of SAME DEUTZ-FAHR Italia S.p.A. and is only carried out by technical staff of the Office in charge of processing, or any Persons in Charge of occasional maintenance operations.
+The processing operations related to the web services of this website are conducted in the above-mentioned registered office of the Data Controller and are only performed by staff expressly authorised to do so by the Data Controller, or by any third-party suppliers appointed to perform occasional maintenance operations, appointed as Data Processors pursuant to Article 28 of the GDPR. The data collected will only be stored – for each type of data processed – for the time needed to fulfil the specific purposes outlined in the specific summary information notices displayed on the pages of the website and provided for specific services.
 
 ### TYPES OF DATA PROCESSED
 
-**Navigation data**  
-The computer systems and software used to operate this website acquire, during their normal operation, certain personal data whose transmission is implicit in the use of Internet communication protocols. This information is not collected for association with identified interested parties, but by their very nature could, through processing and association with data held by third parties, permit user identification. This category of data includes IP addresses or domain names of computers used by users connecting to the site, URI (Uniform Resource Identifier) addresses of requested resources, the time of the request, the method used to submit the request to the server, the size of the file obtained in response, the numeric code indicating the status of the response from the server (successful, error, etc.) and other parameters regarding the user's operating system and computer environment.
+**Browsing data**
 
-This data is only used to obtain anonymous statistical information on the use of the website and to check its correct functioning and is deleted immediately after processing and in any case no later than seven days after collection. The data could be used to ascertain responsibility in case of computer crimes against the site.
+During normal operation, the computer systems and software procedures used to operate this website acquire certain personal data, the transmission of which is implicit in the use of Internet communication protocols.
 
-### Data provided voluntarily by the user
+This information is not collected for association with identified interested parties, but by their very nature could, through processing and association with data held by third parties, permit user identification.
 
-The optional, explicit and voluntary transmission of personal data by the user to e-mail addresses present on this website or in the registration form of the website itself involves the subsequent acquisition of the sender's address, required to respond to requests, as well as of any other personal data entered. Such data shall be processed by SAME DEUTZ-FAHR Italia S.p.A., mainly by computer, exclusively in order to comply with the request of the user (e.g. request for information and/or transmission of CV).
+This category of data includes IP addresses or domain names of computers used by users connecting to the site, URI (Uniform Resource Identifier) ​​addresses of requested resources, the time of the request, the method used to submit the request to the server, the size of the file obtained in response, the numeric code indicating the status of the response from the server (successful, error, etc.) and other parameters regarding the user's operating system and computer environment.
 
-### Cookies
+These data are only used to obtain anonymous statistical information about the use of the website and to check that it is working properly. The data are deleted immediately after the processing. The data might be used to establish liability in case computer crimes are committed against the website; except for this circumstance, any data on web contacts is currently retained for no longer than seven days.
 
-Cookies are small text files that are stored on the user's computer by websites visited. They are mainly used in order to make websites function and to make them operate more efficiently, as well as to provide information to the owners of the website itself.
+**Data provided voluntarily by the user**
 
-The following table illustrates the cookies we use.
+The user optionally, explicitly and voluntarily submitting their personal data in the registration forms on this website result in the subsequent acquisition of the data provided by the sender, which is required for the provision of the requested service. Specific summary information notices will be progressively shown or displayed on the pages of the website that are used for providing services on demand.
 
-**Cookie** | **Name** | **Purpose** | **Processing**  
----|---|---|---  
-  |   | This cookie is used to record if a user has accepted the use of cookies on this website | To withdraw your consent after having accepted this cookie, delete the cookie from your browser.  
-Google Analytics | _utma   
-_utmb   
-_utmc   
-_utmz _utmli | These cookies are used to collect information about how visitors use our website (for example, the time of the current visit, any previous visits to the website by the DEUTZ-FAHR visitor and the website that notified the web page to the visitor, etc.). This information is used by our company in order to improve the website. | For further information on Google privacy [click here](http://www.google.com/intl/it/analytics/privacyoverview.html)  
-  |   | This cookie is used to remember the user's password if the latter has given his consent by clicking “Remember”. | To withdraw your consent after having accepted this cookie, delete the cookie from your browser.  
-  | DEUTZ-FAHR Dealer Locator | mod_dealer_locator_XXXXX | Remembers the dealer predefined by the user during navigation and for subsequent visits  
-  | DEUTZ-FAHR HTML5   
-Geolocation cache | userGeolocation | Remembers the approximate geographic location of the user during navigation and for subsequent visits  
-  | DEUTZ-FAHR Country Selector | {locale} ad es. it-IT | Remembers the location of the user for subsequent visits  
+### COOKIES
+
+Cookies are small text files containing a certain amount of information which is exchanged between a website and the user's terminal (usually their browser). They are mainly used to make websites function and operate more efficiently, and to provide the owners of the website with information. There are two types: session cookies and persistent cookies. Session cookies remain memorised in the terminal for a short period of time and are deleted as soon as the user closes their browser. Their use is strictly limited to transmitting session identifiers (consisting of server-generated casual numbers) as necessary to allow secure, effective navigation of the website. Persistent cookies remain filed in the user's terminal until they expire, after a pre-established period of time. As these cookies are not deleted immediately when the browser is closed, they enable remembering choices made by the user on that website, information on the website pages that the user visited and the frequency of these visits. Persistent cookies also identify the browsing path of users to improve the browsing experience on this website. Finally, both session and persistent cookies can be either First Party or Third Party cookies, depending on whether the party that installs them on the user's terminal is the manager of the website that the user is visiting (First Party cookies) or a different party (Third Party cookies).
+
+**Cookies used on this website**  
+This website uses both First Party and Third Party cookies as it uses the functions of the Google Analytics services, offered by Google Inc.
+
+Google Analytics uses cookies to collect and analyse information on how the websites visited by the user are used. For more information on Google Analytics cookies and their use by Google Inc., please consult:
+
+the information on how Google uses cookies, available at:  
+<https://policies.google.com/technologies/cookies?hl=en>  
+and <https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage>  
+the Google Analytics privacy policy, available at:  
+<https://support.google.com/analytics/answer/6004245?hl=en>   
+**The table below contains a detailed list of the cookies used on the website.**
+
+**COOKIE NAME**
+
+| 
+
+**PRE-DEFINED EXPIRY**
+
+| 
+
+**TYPE**
+
+| 
+
+**COOKIE DESCRIPTION**  
   
-In addition to the cookies listed in the table above there are also so-called session cookies, i.e. cookies that are not stored permanently on the user's computer and disappear when the browser is closed. Their use is strictly limited to transmitting session identifiers (consisting of random numbers generated by the server) necessary to enable the use of a particular service and the secure and efficient exploration of the website. The so-called session cookies used in this website avoid the use of other computer technologies that could compromise the confidentiality of user navigation and do not allow acquisition of user personal identification data.  
-In any case, most browsers allow a certain amount of control over most cookies through the settings of the browser itself. If the user does not wish to receive any type of cookies on his computer or from the SAME DEUTZ-FAHR Italia S.p.A. website or from other websites, he can raise the level of privacy protection of his browser via the appropriate function. SAME DEUTZ-FAHR Italia S.p.A. reminds you that, pursuant to Article 7 of the Italian Legislative Decree no. 196 of 30 June 2003, you have the right at any time to request those who make use of such solutions to delete any information acquired via cookies.
+---|---|---|---  
+  
+__atuvc
 
-For information on how to manage and delete cookies, please consult the Microsoft Internet Explorer guide at [this link](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11).
+| 
 
-### Optional nature of provision of data
+This cookie expires by default after 1 year
 
-Apart from that specified for navigation data, the user is free to provide personal data. However, failure to provide such data may make it impossible to fulfil the request.
+| 
 
-### Processing procedures
+Third Party Analytical
 
-Personal data is processed by automated tools for the time necessary to achieve the purposes for which it was collected. Specific security measures are taken to prevent loss of data, its illegal or improper use and unauthorised access. SAME DEUTZ-FAHR Italia S.p.A. has taken all the minimum security measures provided for by law. SAME DEUTZ-FAHR Italia S.p.A., taking inspiration from the main international standards, has also adopted further safety measures to minimise risks concerning the confidentiality, availability and integrity of personal data acquired and processed.
+| 
 
-### Sharing, communication and dissemination of data
+This cookie is associated with the social sharing widget AddThis, and enables visitors to share the contents of the page. It enables the number of page shares to be kept updated and stored.  
+  
+__atuvs
 
-The data acquired may be transferred or communicated to other SAME DEUTZ-FAHR Italia S.p.A. subsidiaries or affiliates for activities strictly related and instrumental to the functioning of the service, such as management of the information system or for processing carried out by other group companies for the DEUTZ-FAHR purposes.   
-Personal data provided by users who request transmission of informative material (brochures, informative material, etc.) is used only to perform or provide the service requested and will be communicated to third parties only where this is necessary for that purpose (companies that provide enveloping, labelling, shipping services).
+| 
 
-Except for these cases, the data will not be disclosed or given to anyone, unless required by contract or authorised by data subjects. In this sense, personal data may be transmitted to third parties, but only and exclusively in the following cases:
+This cookie expires by default after 1 hour
 
-• there is explicit consent to share data with third parties;  
-• there is the need to share the information with third parties in order to provide the service required;  
-• it is necessary to comply with requests made by the judiciary or the police.  
+| 
+
+Third Party Analytical
+
+| 
+
+This cookie is associated with the social sharing widget AddThis, and enables visitors to share the contents of the page.  
+  
+_ga
+
+| 
+
+This cookie expires by default after 2 years
+
+| 
+
+Third Party Analytical
+
+| 
+
+This cookie is associated with Google Analytics and is used to distinguish unique users by assigning each one a randomly generated number as a client identifier. It is used to calculate visitor numbers and session and campaign data for the site's anonymous statistical analysis reports.
+
+Most Google users will have a preferences cookie called "NID" in their browsers. The browser sends this cookie with requests to Google's sites. The NID cookie contains a unique ID that Google uses to remember the user's preferences and other information, such as their preferred language (e.g. English), how many search results they wish to have shown per page (e.g. 10 or 20), and whether or not they wish to have Google's SafeSearch filter turned on.
+
+If the user visits our site after having accessed their Google account, Google is able to trace the use of certain websites (such as ours) that make use of Google plug-ins. The user will have accepted this solution when they registered for a Google account and Google will have already placed cookies on the user's device for this purpose.
+
+Google cookies are called: pref, nid, hsid, apisid, sid, ssid, sapisid, gaps, lsid, beat, uls, consent and dv. The terms of Google's Privacy Policy, which explain what information these cookies obtain, can be found at: <https://policies.google.com/privacy?hl=en>  
+  
+_gid
+
+| 
+
+This cookie expires by default after 24 hours
+
+| 
+
+Third Party Analytical  
+  
+pref, nid, hsid, apisid, sid, ssid, sapisid, gaps, lsid, beat, uls, consent, dv, dsid
+
+|  | 
+
+Third Party Analytical  
+  
+mod_dealer_locator_XXXXX
+
+|  | 
+
+DEUTZ FAHR
+
+Dealer locator
+
+| 
+
+Remembers the dealer predefined by the user during navigation and for subsequent visits  
+  
+userGeolocation
+
+|  | 
+
+DEUTZ FAHR
+
+HTML5
+
+Geolocation cache
+
+| 
+
+Remembers the approximate geographic location of the user during navigation and for subsequent visits  
+  
+{local} e.g. it-IT
+
+|  | 
+
+DEUTZ FAHR
+
+Country Selector
+
+| 
+
+Remembers the location of the user for subsequent visits  
+  
+_vwo_uuid_v2
+
+| 
+
+This cookie expires by default after 1 year
+
+| 
+
+Third Party Analytical
+
+| 
+
+VWO uses cookies to conduct tests and trace user information. The cookies record the variations that a user has seen and help to present the same variation to the user in a consistent way, monitoring the objectives achieved by a user and determining whether a user is participating in a test.  
+  
+_dc_gtm_UA-XXXXXXXX-X
+
+|  | 
+
+Third Party Analytical
+
+| 
+
+Is used to help identify visitors based on their age, their gender, or in the interests of DoubleClick - Google Tag Manager.  
+  
+IDE
+
+|  | 
+
+Third Party Analytical
+
+| 
+
+Cookies for online advertising purposes. Is saved in browsers with the domain doubleclick.net.   
+  
+test_cookie
+
+| 
+
+This cookie expires by default after 15 minutes
+
+| 
+
+Third Party Analytical
+
+| 
+
+Is used to check whether or not the user's browser supports cookies.  
+  
+JSESSIONID
+
+| 
+
+The session does not expire
+
+| 
+
+Third Party Analytical
+
+| 
+
+New Relic Browser provides information on how the user's application behaves or how the site behaves when it is loaded in an Internet browser. As explained in this document, New Relic Browser only collects performance data. It does not gather any other data used or stored in the application being monitored unless the user specifically configures it to do so.  
+  
+AWSELB
+
+| 
+
+This cookie expires by default after 10 minutes
+
+|  | 
+
+Elastic Load Balancing creates a cookie, named AWSELB, that is used to map the session to the instance.  
+  
+In addition to the analytics cookies contained in the table, the website also uses other technical cookies (e.g., cookie_alert used to register whether a user has accepted the use of cookies on this website) and other session cookies. The use of session cookies is strictly limited to transmitting session identifiers (consisting of server-generated casual numbers), which are necessary to enable the use of a specific service and to allow secure, effective navigation of the website. The so-called session cookies used in this website dispense with the need to use other computer technologies that could compromise the confidentiality of users' browsing habits and they do not allow personal data identifying the user to be acquired.
+
+**Managing cookies**
+
+Most browsers enable you to manage the majority of cookies by changing the security settings of your browser. However, we remind you that fully or partially disabling the so-called technical cookies may compromise the use of the functions on the website. In any case, should the user not wish to receive any type of cookies on their device, either from this website or others, they can raise the level of privacy protection by adjusting the security settings on their browser:
+
+Mozilla Firefox: [https://support.mozilla.org/en-USkb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+
+Google Chrome: <https://support.google.com/chrome/answer/95647?hl=en>
+
+Internet Explorer: <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies>
+
+Safari 6/7 Mavericks:<https://support.apple.com/kb/PH17191?viewlocale=en_US>
+
+Safari 8 Yosemite: <https://support.apple.com/kb/PH19214?viewlocale=en_US>
+
+Safari on iPhone, iPad, or iPod Touch: <https://support.apple.com/en-us/HT201265>
+
+OPTIONAL NATURE OF DATA PROVISION  
+Further to the above stipulations with regard to browsing data, the user is free to provide their personal data. However, failing to provide such data may lead to the requested service not being available for use.
+
+### PROCESSING METHODS
+
+The personal data are also processed with the aid of automated tools. Specific security measures are taken to prevent loss of data, illegal or improper use of data, and unauthorised access to the data. The Data Controller has implemented all the minimum security measures envisaged by the law and, with a view to the principle international standards, has implemented additional security measures to minimise risks to the confidentiality, availability and integrity of the personal data collected and processed.
+
+### SHARING, TRANSFER AND CIRCULATION OF DATA
+
+The data we collect may be transferred or communicated to other companies for activities closely connected and instrumental to the efficiency of the service, such as the management of the IT system. Personal data provided by users who request transmission of informative material (brochures, informative material, etc.) are only used for the purpose of performing or providing the services requested and will only be communicated to third parties where this is necessary for such purposes (companies that provide enveloping, labelling, shipping services). Beyond these circumstances, the personal data will not be disclosed unless provided for by contract or law or unless specific consent has been requested from and granted by the Data Subject.
+
+In this sense, personal data may be transmitted to third parties, but only and exclusively in the following cases:
+
+  1. there is explicit consent to share data with third parties;
+  2. there is the need to share the information with third parties in order to provide the service required;
+  3. it is necessary to comply with requests made by the judiciary or the police.
+
+
+
 No data deriving from the web service is disclosed.
 
-### Rights of interested parties
+### RIGHTS OF DATA SUBJECTS
 
-Subjects to whom the personal data refer have the right at any time to obtain confirmation regarding the existence or otherwise of such data and to know its content and origin, verify its accuracy or request its integration or updating or correction (art. 7 of the Italian Legislative Decree no. 196 of 30 June 2003).Pursuant to said article, subjects have the right to request cancellation, transformation into anonymous form or blockage of data in violation of the law and in any case to oppose, for legitimate reasons, processing of the DEUTZ-FAHR.
+The Personal Data Protection law expressly sets forth a number of rights for those to whom the personal data refer (known as "Data Subjects"). Specifically, pursuant to Articles 15 et seq. of EU Regulation 2016/679, Data Subjects are entitled at any time to obtain confirmation of the existence of personal data concerning them and be informed of their contents and origin, as well as the manner that they are processed, requesting that said data be updated, rectified or integrated should they be processed unlawfully or where one of the grounds specified in Article 17 of EU Regulation 2016/679 applies.
 
-### Changes to this Privacy Policy
+### CHANGES TO CURRENT PRIVACY POLICIES
 
-SAME DEUTZ-FAHR Italia S.p.A. periodically verifies the contents of this document in relation to regulatory or organisational changes or those dictated by technological development.
+The Data Controller regularly checks the privacy and security policy and, if deemed necessary, amends it in response to regulatory or organisational changes or as dictated by the evolution of technology. Should the policies be amended, the new version shall be published on this page of the website.
 
-### Questions, complaints and suggestions
+### QUESTIONS, COMPLAINTS, SUGGESTIONS, AND EXERCISING YOUR RIGHTS
 
-Anyone interested in further information, in contributing with their suggestions or in making complaints or disputes regarding the privacy policy of the company or the way in which SAME DEUTZ-FAHR Italia S.p.A. processes personal data may do so by writing to the following e-mail address:  [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy94839%20=%20'privacy'%20+%20'@';%20addy94839%20=%20addy94839%20+%20'sdfgroup'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy94839%20+%20'\\'%3E'\);%20document.write\(addy94839\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)[privacy@sdfgroup.com](mailto:privacy@sdfgroup.com).
+Anyone interested in obtaining further information, submitting suggestions, forwarding complaints or claims regarding the privacy policies and/or the way in which our Company processes personal data, or those wishing to exercise the rights assigned to them by the data protection law, can contact the Data Controller by writing to SAME DEUTZ-FAHR Italia S.p.A., with registered office in Viale Francesco Cassani, 14 - 24047 Treviglio (BG) - Italy or by sending an email to [privacy@sdfgroup.com](mailto:privacy@sdfgroup.com).
