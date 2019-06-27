@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphanation.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112164423id_/https%3A//alphanation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphanation.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627191009id_/https%3A//alphanation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Alpha Nation
 
@@ -34,7 +34,7 @@ You can do the following at any time by contacting us via [specforcealpha@gmail.
 
 ## Security
 
-We do not store financial information on our servers. All transactions are manged by Software Projects and Clickbank, our online product retailers. You can reach out to them at http://www.clickbank.com/ or https://www.softwareprojects.com/.
+We do not store financial information on our servers. All transactions are managed by BuyGoods and Clickbank, our online product retailers. You can reach out to them at http://www.clickbank.com/ or https://buygoodssupplements.com/orderlookup.
 
 Only employees who require the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers on which we store personally identifiable information are kept in a secure environment.
 
