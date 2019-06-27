@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highlightskids.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020155116id_/https%3A//www.highlights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlightskids.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627213003id_/https%3A//www.highlights.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Highlights for Children
 
@@ -8,11 +8,11 @@ Effective June 26th, 2018
 
 Thank you for your interest in our privacy policies. We value your privacy and your children's safety. At Highlights for Children, we care about:
 
-  *  **Protecting the privacy of children**  
+  * **Protecting the privacy of children**  
  
-  *  **Being open and honest with our customers, and**  
+  * **Being open and honest with our customers, and**  
  
-  *  **Treating personal information with care and respect**
+  * **Treating personal information with care and respect**
 
 
 
@@ -46,7 +46,7 @@ We welcome the chance to share Highlights' wholesome Fun with a Purpose™ conte
   * When you make a purchase or sign up for a newsletter, you provide us information that we use to deliver the services you request, to inform you of new products, services or offers, and to provide you with updates about Highlights for Children. We take our role in holding and using this information seriously. When we select credit card processors, fulfillment and delivery companies, web services and others to help us, we select those whom we believe take security seriously. We are committed to using this information within the bounds of the law and using our best judgment. Our Terms of Use policy is incorporated by reference.  
  
 
-  * We encourage you to make decisions about the offers you receive from us and the way your personal information is used. Manage your communication preferences [here.](https://www2.highlights.com/communication-preferences) If you give us your child's name in connection with an order you place on one of our websites, we keep it on file, but only for the purpose of addressing, never for marketing. We ask for your child's name because many people want their children to experience the thrill of receiving mail personally addressed to them.
+  * We encourage you to make decisions about the offers you receive from us and the way your personal information is used. Manage your communication preferences [here.](https://www.highlights.com/email) If you give us your child's name in connection with an order you place on one of our websites, we keep it on file, but only for the purpose of addressing, never for marketing. We ask for your child's name because many people want their children to experience the thrill of receiving mail personally addressed to them.
 
   * We sometimes make our list of customers' names and addresses available to other carefully selected companies whose products and services we believe might be of interest to you. Be assured this program does not involve children's names (please see the information above regarding children's privacy). If you do not want to receive offers from these other companies, you can opt out of these third party offers at any time.  
  
@@ -62,9 +62,9 @@ We welcome the chance to share Highlights' wholesome Fun with a Purpose™ conte
 
 
 
- **If you have additional questions about our approach to privacy, please feel free to contact:**
+**If you have additional questions about our approach to privacy, please feel free to contact:**
 
- **Garry Brown**
+**Garry Brown**
 
 VP, Information Security & Privacy
 
