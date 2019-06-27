@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the linkroll.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217034339id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkroll.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627073052id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # linkroll - collaborative web bookmarks and link blogs
 
 ADVERTISEMENT
 
-Willkommen bei Newchic.comDie Geschichte:2015 startete Newchic.com mit der Vision junge Mode bezahlbar zu machen. Inzwischen ist Newchic.com eine globale Marke, welche weltweit die neuesten Styles anbietet.Sortiment:NewChick bietet eine große Auswahl der neuesten Trends im Bereich Mode Accessoires s
+10% auf die Bestellung bei Newsletter-Anmeldung
 
-Code: SDKWANKO. $20-$3,$50-$7.5,$60-$9,$80-$12,$100-$15,$120-$18,$150-$22.5,$180-$27,$240-$36,$300-$45
+Code: BZCL6. 6$ Dto si pedidos encima de 50$
 
-Bei BH Cosmetics gibt es die Produktreihe Illuminate by Ashley Tisdale. Jetzt die stylishen Farben und Paletten entdecken!
+Code: ADMI6562. You need to use promocode. The discount is available only for certain category. There is no minimum order value. The promotion is available for all customers of the store.
 
 This is the web site of  **LinkRoll.com**.
 
 Our postal address is   
   
-We can be reached via e-mail [here](https://web.archive.org/web/20181217034339id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy?action=contact)  
+We can be reached via e-mail [here](https://web.archive.org/web/20190627073052id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy?action=contact)  
 
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
@@ -55,8 +55,8 @@ If you feel that this site is not following its stated information policy, you m
 
 ADVERTISEMENT
 
-Code: BEMINE214. Super Presente Para Dia dos Namorados Sobre a coleção de moda (Jóias, relogios, prata esterlina)
+Agoda es una de las principales plataformas de reservas hoteleras del mundo, que ofrece más de 500.000 establecimientos en todo el mundo a través de su web, disponible en 37 idiomas. Destaca su presencia en Asia en ciudades como en Singapur, Bangkok, Kuala Lumpur, Tokyo, Sydney, o Hong Kong, igual q
 
-Code: MAISONRG1. 2,55 € de réduction dès 17,02€; 3.4 € de réduction dès 25.54€; 6.81€ de réduction dès 51.07€ sur les articles maison et jardin.
+Unsere Bestellungen werden je nach Paketgröße mit der deutschen Post oder per DHL kostenlos innerhalb Deutschlands an Sie ausgeliefert. Als besonderen Service für unsere Kunden, können wir Ihr Paket auch gegen einen Versandkostenzuschlag per DHL Express ausliefern, direkt zu Ihnen oder an eine Packs
 
-Liquid Web, LLC. is a managed web hosting company providing the best hosting products and support. With over 15 years of experience, 24/7/365 on-site Heroic Support® and 3 wholly-owned data centers. We offer fast and reliable VPS, Storm Cloud, Dedicated Server, HIPAA Server and Word Press plans, wit
+Rentalcars.com connects you to the biggest brands in car hire.
