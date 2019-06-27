@@ -1,28 +1,18 @@
-<!--The following is the downloaded HTML source of the rehold.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606172459id_/https%3A//rehold.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rehold.com privacy policy that was archived on 2019-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190627045155id_/https%3A//rehold.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="fb: http://www.facebook.com/2008/fbml" lang="en"><head>
 
 <title>Rehold Privacy Policy</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="description" content="Rehold Privacy Policy">
-<meta name="viewport" content="width=device-width,initial-scale=1"><link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/rehold/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/img/favicons/rehold/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/img/favicons/rehold/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/img/favicons/rehold/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/rehold/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/img/favicons/rehold/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/rehold/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/rehold/apple-touch-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/rehold/apple-touch-icon-180x180.png">
-<link rel="icon" type="image/png" href="/img/favicons/rehold/android-chrome-192x192.png" sizes="192x192">
-<link rel="icon" type="image/png" href="/img/favicons/rehold/favicon-16x16.png" sizes="16x16">
-<link rel="shortcut icon" type="image/x-icon" href="/img/favicons/rehold/favicon.ico">
-<link rel="manifest" href="/img/favicons/rehold/manifest.json">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="msapplication-TileImage" content="/img/favicons/rehold/mstile-144x144.png">
-<meta name="theme-color" content="#ffffff">
-<link href="/css/main.css?6fff2e" rel="stylesheet">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="apple-touch-icon" href="/img/favicons/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico">
+<link rel="manifest" href="/img/favicons/manifest.json">
+
+<link href="/css/main.css?caa9a9" rel="stylesheet">
+<link href="/css/rehold.css?e1288c" rel="stylesheet">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -35,7 +25,9 @@ ga('send', 'pageview');
 
 </head>
 <body>
+    
 
+    
 <script>
     function jsLoad(name, onload){
         var s = document.createElement('script');
@@ -51,32 +43,25 @@ ga('send', 'pageview');
         l.href = name;
         document.getElementsByTagName('head')[0].appendChild(l);
     }
+    
+    function onLoad() {
+    }
 
-
-    function jqueryOnLoad() {
-        jsLoad("/js/rd.min.js?053c12", function(){
-            $(document).ready(function(){ rdfLoadEvents(); } );
-        });
-            }
-
-    var rdfLoadEvents = function(){
-        // jsLoad('/js/jquery.placeholder.min.js', function(){$(':input[placeholder]').placeholder()});
-        //jsLoad('/js/jquery.clearInput.js', function(){$("[data-clear]").clearInput()});
-        $("[rel='tooltip'],[data-toggle='tooltip']").tooltip({html: true});
-        $("[data-clear]").clearInput()
-
-                    };
+    
         function _$_(func) {
         if ("complete" == document.readyState && "function" == typeof(jQuery) && "function" == typeof(Rdf)) {
                         func();
         } else {
 
-            var oldonload = rdfLoadEvents;
-            rdfLoadEvents = function() {
+            var oldonload = onLoad;
+            onLoad = function() {
                 if (oldonload) {
                     oldonload();
                 }
-                                func();
+                                try {
+                    func();
+                } catch(err) {
+                                    }
             }
 
         }
@@ -84,94 +69,86 @@ ga('send', 'pageview');
 
 </script>
 
-<script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" onload="jqueryOnLoad()"></script>
-
-
+<script defer="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script defer="" src="/js/bundle.js?967fae" onload="onLoad()"></script>
 <script>
-    _$_(function () {
-        $('.navbar-btn').click(function() {
-            window.location.href = $(this).attr('href');
-        });
+    _$_(function(){
+        $("[rel='tooltip'],[data-toggle='tooltip']").tooltip({html: true});
+        $("[data-clear]").clearInput()
     });
 </script>
-<nav class="navbar navbar-default navbar-static-top mobile-navbar">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/">
-        <img alt="Rehold" src="/img/logo-rehold.png" class="navbar-logo">
-      </a>
-    </div>
 
 
 
-    <div id="navbar" class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <!-- menu links -->
-                <li><a href="https://rehold.com/page/about">About</a></li>
-        <li><a href="https://rehold.com/page/contact">Contact</a></li>
-        
-        <!-- login links -->
-                <li><a href="https://rehold.com/login">Login</a></li>
-            </ul>
-    </div><!--/.nav-collapse -->
-  </div>
-</nav>
-<!-- /Static navbar -->
+    <script>
+        _$_(function () {
+            $('.navbar-btn').click(function () {
+                window.location.href = $(this).attr('href');
+            });
+        });
+    </script>
+    <nav class="navbar navbar-default navbar-static-top mobile-navbar">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">
+                    <img alt="Rehold" src="/img/logo-rehold.png" class="navbar-logo">
+                </a>
+            </div>
+
+
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <!-- menu links -->
+                                            <li><a href="https://rehold.com/page/about">About</a></li>
+                        <li><a href="https://rehold.com/page/contact">Contact</a></li>
+                    
+                    <!-- login links -->
+                                            <li><a href="https://rehold.com/login">Login</a></li>
+                                    </ul>
+            </div><!--/.nav-collapse -->
+        </div>
+    </nav>
+    <!-- /Static navbar -->
 
 <div class="b-global-header no-logo ">
-    <div class="container">
-                        <nav>
+    <div class="container is_rhld">
+                                <nav>
             <ul class="b-global-header-nav">
                 
 
-               
+                    
+
                 
+                <li class="b-global-header-nav-link"><a href="/page/about">About</a></li>
 
-                                                 <li class="b-global-header-nav-multilink">
-                    <a href="/">
-                        <span class="b-icon-home"></span>
-                    </a>
-                </li>
-                    <li class="b-global-header-nav-link"><a href="/page/about">About</a></li>
+                <li class="b-global-header-nav-link"><a href="/page/contact">Contact</a></li>
 
+                                    <li class="b-global-header-nav-loginlink"><a href="https://rehold.com/login/login">Login</a>
+                    </li>
+                
+            </ul>
 
-
-
-
-            <li class="b-global-header-nav-link"><a href="/page/contact">Contact</a></li>
-    
-
-
-
-
-                                        <li class="b-global-header-nav-loginlink"><a href="https://rehold.com/login">Login</a></li>
-                                </ul>
-            
         </nav>
     </div>
 </div>
-<div class="container">
-    <a href="/" class="b-site_slogan"><p class="purple-text">Real Estate Navigator<span>Comprehensive information on homes, neighbors and communities</span></p></a>
-</div>
 <header class="b-search-form  purple b-search-form-empty">
     <div class="container">
-    <div class="row">
-    <div class="col-md-5">
-<div id="logo" class="logo addresses"><a href="/"></a></div></div>
-    <div class="col-md-19">
+        <div class="row">
+            <div class="col-md-5">
+                <div id="logo" class="logo addresses"><a href="/"></a></div>            </div>
+            <div class="col-md-19">
 
-        
+                            </div>
+
+            
+        </div>
     </div>
-
-    
-</div>
-</div>
 </header>
 
 <div class="main-wrapper container">
@@ -287,15 +264,17 @@ Except as otherwise described in this privacy statement, Rehold will NOT disclos
 
 
 
+
+
 <footer class="l-footer">
         <div class="container">
             <div class="row">
                 <div class="col-sm-18">
                     <ul class="b-footer-menu">
-                        <li><a href="https://rehold.com/page/about" title="About">About</a></li><li><a href="https://rehold.com/page/terms" title="Terms of Service">Terms of Service</a></li><li><a href="https://rehold.com/page/privacy" class="active" title="Privacy Policy">Privacy Policy</a></li><li><a href="https://rehold.com/page/contact" title="Contact">Contact</a></li>                    </ul>
+                        <li><a href="/page/about" title="About">About</a></li><li><a href="/page/terms" title="Terms of Service">Terms of Service</a></li><li><a href="/page/privacy" class="active" title="Privacy Policy">Privacy Policy</a></li><li><a href="/page/contact" title="Contact">Contact</a></li>                                            </ul>
                 </div>
                 <div class="col-sm-6">
-                    <p class="b-footer-copy">© 2017 Rehold.com</p>
+                    <p class="b-footer-copy">© 2019 Rehold.com</p>
                 </div>
             </div>
         </div>
