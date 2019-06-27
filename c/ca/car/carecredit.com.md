@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carecredit.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910105311id_/https%3A//www.carecredit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carecredit.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627212603id_/https%3A//www.carecredit.com/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy | CareCredit
 
