@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apunkagameslinks.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228084951id_/http%3A//www.apunkagameslinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apunkagameslinks.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627134035id_/http%3A//www.apunkagameslinks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Secure File upload and sharing – Dedicated Server!
+# Installation Guide and Faqs
 
 This Privacy Policy governs the manner in which cloudfiles3 collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.apunkagameslinks.com website (“Site”).
 
@@ -67,4 +67,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [**contact us**](http://apunkagameslinks.com/contact-us/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [**contact us**](https://apunkagameslinks.com/contact-us/).
