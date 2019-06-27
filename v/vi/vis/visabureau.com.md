@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visabureau.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222183541id_/http%3A//www.visabureau.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visabureau.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627073953id_/http%3A//www.visabureau.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice: Visa Bureau
 
@@ -29,14 +29,10 @@ It is very important that the information we hold about you is accurate and up t
 
 Data Protection Officer: 
 
-Name: **Corium Data Limited**  
-DPO number: **CSN5888760**  
-Email address: **[dpo@visabureau.com](mailto:dpo@visabureau.com)**
+Name: **G Bradley**  
+Email address: [**privacy@visabureau.com**](mailto:privacy@visabureau.com)
 
-  
-
-
-###### 2\. WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT
+2\. WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT 
 
 Personal data means any information capable of identifying an individual. It does not include anonymised data 
 
