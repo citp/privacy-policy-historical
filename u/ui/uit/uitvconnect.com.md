@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uitvconnect.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601185726id_/http%3A//www.uitvconnect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uitvconnect.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627202028id_/https%3A//www.uitvconnect.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | UiTV Connect
 
@@ -71,7 +71,7 @@ _**What is a Cookie**_ **?**
 Cookies are small text files containing small amounts of information which are sent to and stored on your computer, smartphone or other device when you access a website. Cookies are then sent back to the originating website on each subsequent visit or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.  
  
 
-You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/). A video about cookies can be found at [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies).  
+You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/).  
  
 
 Use of Cookies on the Website.
