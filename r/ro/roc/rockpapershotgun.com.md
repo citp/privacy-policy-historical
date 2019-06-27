@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockpapershotgun.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227170507id_/https%3A//www.rockpapershotgun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockpapershotgun.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627052815id_/http%3A//rockpapershotgun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rock Paper Shotgun
 
