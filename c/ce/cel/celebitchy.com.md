@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebitchy.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214143346id_/https%3A//www.celebitchy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebitchy.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627164133id_/https%3A//www.celebitchy.com/privacy_policy) for the most accurate reproduction.*
 
 # Cele|bitchy | Privacy, Data Protection and Cookie Policy
 
@@ -14,7 +14,7 @@ We also work with Google Analytics and Quantast to track user data on an aggrega
 **Obtaining and requesting deletion of your personal data**  
 You can request deletion of specific comments by using the “Report This Comment As Spam or Abuse” link located under the comment you wish to delete. First verify the image as requested on the form. In the commenting box include the email address you used to comment on the site and write something like “I used the email xxx to comment. This is my comment and I would like it deleted.” 
 
-If you would like a digital copy and/or deletion of some or all of the comments you have made on our site, please email us at: info@celebitchy.com or cbcomments@gmail.com
+If you are an EU citizen and would like a digital copy and/or deletion of some or all of the comments you have made on our site, please email us at: info@celebitchy.com or cbcomments@gmail.com
 
 In your e-mail to us, please use the subject line: GDPR data request. 
 
@@ -66,7 +66,7 @@ By using our site, you consent to our online privacy policy.
 
 **Changes to our Cookie and Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page.  
-This policy was last modified on October 13, 2018.
+This policy was last modified on April 26, 2019.
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.  
