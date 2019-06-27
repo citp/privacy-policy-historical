@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worthprotectionsecurity.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225065420id_/http%3A//www.worthprotectionsecurity.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthprotectionsecurity.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627050603id_/http%3A//www.worthprotectionsecurity.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - Prevent Burglary By Tightening Home Security
 
 **Privacy Policy for www.worthprotectionsecurity.com**
 
