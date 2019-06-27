@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adeptia.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017234648id_/https%3A//adeptia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adeptia.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627124110id_/https%3A//adeptia.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Adeptia
+# Learn About our Privacy Policy of Adeptia.com
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -65,7 +65,7 @@ We do not include or offer third party products or services on our website.
 
 ### Google
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. [https://support.google.com/adwordspolicy/answer/1316548?hl=en ](https://support.google.com/adwordspolicy/answer/1316548?hl=en%C2%A0)
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. [https://support.google.com/adwordspolicy/answer/6008942?hl=en%C3%82&rd=1](https://support.google.com/adwordspolicy/answer/6008942?hl=en%C3%82&rd=1) 
 
 We use Google AdSense Advertising on our website.
 
@@ -86,7 +86,7 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 ### California Online Privacy Protection Act
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: [http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf](https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/#sthash.0FdRbT51.dpuf)
 
 ### According to CalOPPA we agree to the following:
 
