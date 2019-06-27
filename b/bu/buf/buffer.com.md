@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the buffer.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130123908id_/https%3A//buffer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffer.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627043938id_/https%3A//buffer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Buffer
-
-_Last Updated: August 6, 2018_
 
 Buffer provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use, protection, and disclosure of Personal Information received from your use of this website, located at [https://buffer.com](https://buffer.com/) (“Site”), as well as all related websites including our subdomains at [https://reply.buffer.com](https://reply.buffer.com/) and [https://analyze.buffer.com](https://analyze.buffer.com/), applications, browser extensions, and other services provided by us (collectively, together with the Site, our “Service”), and in connection with our customer, vendor, and partner relationships. This Privacy Policy also tells you about your rights and choices with respect to your Personal Information, and how you can reach us to update your contact information or get answers to questions you may have about our privacy practices.
 
@@ -36,32 +34,43 @@ Where applicable, we indicate whether and why you must provide us with your Pers
 
 ## 2\. PERSONAL INFORMATION PROVIDED BY YOU
 
-**Registration**. If you desire to have access to certain restricted sections of the Site or request to receive marketing materials, you may be required to become a registered user, and to submit the following types of Personal Information to Buffer: your name, email address, phone number, full user name, password, city, and time zone.
+**Registration**  
+If you desire to have access to certain restricted sections of the Site or request to receive marketing materials, you may be required to become a registered user, and to submit the following types of Personal Information to Buffer: your name, email address, phone number, full user name, password, city, and time zone.
 
-**Customer Support**. We may collect information through your communications with our customer support team or other communications that you may send us and their contents.
+**Customer Support**  
+We may collect information through your communications with our customer support team or other communications that you may send us and their contents.
 
-**Making a Purchase**. When you make payments through the Service, you will need to provide Personal Information such as your credit card number and billing address.
+**Making a Purchase**  
+When you make payments through the Service, you will need to provide Personal Information such as your credit card number and billing address.
 
-**Social Media**. In order to allow you to post to your social media platforms, we may ask you to provide your username, account ids, social handle, timezones, and email address.
+**Social Media**  
+In order to allow you to post to your social media platforms, we may ask you to provide your username, account ids, social handle, timezones, and email address.
 
-**Other.** We may also collect your contact details when you provide them in the context of our customer, vendor, and partner relationships.
+**Other**  
+We may also collect your contact details when you provide them in the context of our customer, vendor, and partner relationships.
 
 ### 2a. Personal Information Collected from Connected Social Media Accounts
 
 If you connect your third party social media account to your Buffer account, we may collect certain information stored in your social media account such as:
 
-**Facebook** Buffer may allow you to connect a Facebook page or profile to your Buffer account, in which case we will access certain information from Facebook regarding your account. In particular, we may collect profile image, display name, username / page ID or profile ID, access tokens, sent posts. This includes the content of your post and engagement data (such as click rates, likes, re-shares, impressions, as well as general engagement counts), to the extent permitted by applicable law. This data will only be used by Buffer to provide you with the Service you expect and will not be shared with any third parties.
+**Facebook**  
+Buffer may allow you to connect a Facebook page or profile to your Buffer account, in which case we will access certain information from Facebook regarding your account. In particular, we may collect profile image, display name, username / page ID or profile ID, access tokens, sent posts. This includes the content of your post and engagement data (such as click rates, likes, re-shares, impressions, as well as general engagement counts), to the extent permitted by applicable law. This data will only be used by Buffer to provide you with the Service you expect and will not be shared with any third parties.
 
-**Twitter** Buffer may allow you to connect a Twitter profile to your Buffer account, in which case we will access certain information from Twitter regarding your account. In particular, we may collect profile image, display name, username / profile ID, access tokens, and sent posts. This includes the content of your post and engagement data (such as click rates, likes, retweets, re-shares, impressions, as well as general engagement counts), to the extent permitted by applicable law. This data will only be used by Buffer to provide you with the Service you expect and will not be shared with any third parties.
+**Twitter**  
+Buffer may allow you to connect a Twitter profile to your Buffer account, in which case we will access certain information from Twitter regarding your account. In particular, we may collect profile image, display name, username / profile ID, access tokens, and sent posts. This includes the content of your post and engagement data (such as click rates, likes, retweets, re-shares, impressions, as well as general engagement counts), to the extent permitted by applicable law. This data will only be used by Buffer to provide you with the Service you expect and will not be shared with any third parties.
 
-**Instagram** Buffer may allow you to connect an Instagram profile to your Buffer account, in which case we will access certain information from Instagram regarding your account. In particular, we may collect profile image, display name, username / profile ID, access tokens, and sent posts. This includes the content of your post and engagement data (such as click rates, likes, re-shares, impressions, as well as general engagement counts), to the extent permitted by applicable law. This data will only be used by Buffer to provide you with the Service you expect and will not be shared with any third parties.
+**Instagram**  
+Buffer may allow you to connect an Instagram profile to your Buffer account, in which case we will access certain information from Instagram regarding your account. In particular, we may collect profile image, display name, username / profile ID, access tokens, and sent posts. This includes the content of your post and engagement data (such as click rates, likes, re-shares, impressions, as well as general engagement counts), to the extent permitted by applicable law. This data will only be used by Buffer to provide you with the Service you expect and will not be shared with any third parties.
 
-**Pinterest** Buffer may allow you to connect a Pinterest page or profile to your Buffer account, in which case we will access certain information from Pinterest regarding your account. In particular, we may collect profile image, display name, username / profile ID, access tokens, sent posts, and profile boards. This includes the content of your post and engagement data (such as click rates, likes, re-shares, re-pins, impressions, as well as general engagement counts), to the extent permitted by applicable law. This data will only be used by Buffer to provide you with the Service you expect and will not be shared with any third parties.
+**Pinterest**  
+Buffer may allow you to connect a Pinterest page or profile to your Buffer account, in which case we will access certain information from Pinterest regarding your account. In particular, we may collect profile image, display name, username / profile ID, access tokens, sent posts, and profile boards. This includes the content of your post and engagement data (such as click rates, likes, re-shares, re-pins, impressions, as well as general engagement counts), to the extent permitted by applicable law. This data will only be used by Buffer to provide you with the Service you expect and will not be shared with any third parties.
 
-**LinkedIn** Buffer may allow you to connect a LinkedIn profile to your Buffer account, in which case we will access certain information from LinkedIn regarding your account. In particular,  
+**LinkedIn**  
+Buffer may allow you to connect a LinkedIn profile to your Buffer account, in which case we will access certain information from LinkedIn regarding your account. In particular,  
 we may collect profile image, display name, username / profile ID, access tokens, and sent posts. This includes the content of your post and engagement data (such as click rates, likes, re-shares, impressions, as well as general engagement counts), to the extent permitted by applicable law. This data will only be used by Buffer to provide you with the Service you expect and will not be shared with any third parties.
 
-**Google+**. Buffer may allow you to connect a Google+ page or profile to your Buffer account, in which case we will access certain information from Google regarding your account. In particular, we may collect profile image, display name, username / profile ID, access tokens, and sent posts. This includes the content of your post and engagement data (such as click rates, likes, re-shares, impressions, as well as general engagement counts), to the extent permitted by applicable law. This data will only be used by Buffer to provide you with the Service you expect and will not be shared with any third parties.
+**Google+**  
+Buffer may allow you to connect a Google+ page or profile to your Buffer account, in which case we will access certain information from Google regarding your account. In particular, we may collect profile image, display name, username / profile ID, access tokens, and sent posts. This includes the content of your post and engagement data (such as click rates, likes, re-shares, impressions, as well as general engagement counts), to the extent permitted by applicable law. This data will only be used by Buffer to provide you with the Service you expect and will not be shared with any third parties.
 
 Additionally, if you connect **Twitter** , **Facebook** , or **Instagram** when utilizing **Buffer Reply** we may collect: profile image, display name, username / page ID, access tokens, sent or received comment text and sent or received private message text.
 
@@ -69,9 +78,11 @@ Additionally, if you connect **Twitter** , **Facebook** , or **Instagram** when 
 
 ### 2b. Personal Information Automatically Obtained from Your Interactions with the Service
 
-**Log Data.** When you use our Service, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click.
+**Log Data**  
+When you use our Service, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click.
 
-**Cookies** **and Similar Technologies.** Like many websites, we also use “cookie” technology to collect additional website usage data and to improve the Site and our Service. A cookie is a small data file that we transfer to your computer’s hard disk. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. Buffer may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Service.
+**Cookies and Similar Technologies**  
+Like many websites, we also use “cookie” technology to collect additional website usage data and to improve the Site and our Service. A cookie is a small data file that we transfer to your computer’s hard disk. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. Buffer may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Service.
 
 We may also automatically record certain information from your device by using various types of technology, including “clear gifs” or “web beacons.” This automatically collected information may include your IP address or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after you use the Service, the pages or other content you view or otherwise interact with on the Service, and the dates and times that you visit, access, or use the Service. We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message, to the extent permitted under applicable law.
 
@@ -182,5 +193,6 @@ Buffer Inc
 2443 Fillmore St #380-7163  
 San Francisco, CA 94115
 
-This Privacy Policy is effective as of August 6, 2018.  
+This Privacy Policy is effective as of **August 6, 2018.**
+
 If you have any thoughts or questions about this Privacy Policy please [let us know](mailto:hello@buffer.com).
