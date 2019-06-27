@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftskins.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122012944id_/https%3A//www.minecraftskins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftskins.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627062929id_/https%3A//www.minecraftskins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
