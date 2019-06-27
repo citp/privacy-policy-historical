@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnelist.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113011140id_/http%3A//www.digitalriver.com/corporate-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnelist.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627232031id_/https%3A//www.digitalriver.com/corporate-policies) for the most accurate reproduction.*
 
 # Corporate Policies | Digital River Privacy Statement
 
