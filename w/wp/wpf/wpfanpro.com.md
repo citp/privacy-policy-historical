@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpfanpro.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223053822id_/http%3A//rapidcrush.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpfanpro.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627080913id_/http%3A//rapidcrush.com/privacy.php) for the most accurate reproduction.*
 
 # RapidCrush.com Privacy Policy
 
