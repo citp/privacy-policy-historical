@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110090929id_/http%3A//newscientist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627093411id_/https%3A//www.newscientist.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | New Scientist
 
@@ -10,7 +10,7 @@ This policy outlines how the ultimate parent company of New Scientist Limited an
 
 If you have any questions you will find our contact details at the end of this policy. Details on how to update or access your personal information, or how to make a complaint, are also included.
 
-This policy may be liable to change. Please check this page from time to time to ensure that you are informed of any changes. For information about when we might make changes to this policy and how we would tell you about them, please see Section 11 below.
+This policy may be liable to change. Please check this page from time to time to ensure that you are informed of any changes. For information about when we might make changes to this policy and how we would tell you about them, please see Section 11 below. 
 
 ##### Advertisement
 
