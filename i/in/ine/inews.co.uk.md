@@ -1,140 +1,110 @@
-> *The following text is extracted and transformed from the inews.co.uk privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117184431id_/http%3A//www.johnstonpress.co.uk/cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inews.co.uk privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627091728id_/https%3A//www.jpimedia.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy | Johnston Press plc
+# Privacy Policy – JPIMedia Ltd
 
-_Please note the policy was updated on 13 November 2018 to include new sub-paragraph 3g_.
+**ABOUT US**  
+JPIMedia Ltd (“ **we** ”, ” **our** ”, “ **us** ”) respect the privacy of our website users (“ **you** ”) and we recognise the need for appropriate protections and management of your personal information.  
+When we, and our service providers, collect and use your personal information and special category data, we are the data controller for the purposes of Data Protection Legislation (defined below).
 
-  1. **Introduction**
-    1. We are committed to safeguarding the privacy of our website visitors and service users.
-    2. This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.
-    3. We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website.
-    4. Our website incorporates privacy controls which affect how we will process your personal data. By using the privacy controls, you can specify whether you would like to receive direct marketing communications and limit the publication of your information. You can access the privacy controls via the cookie control tool on the website.
-    5. In this policy, "we", "us" and "our" refer to Johnston Press plc or, where relevant, its subsidiaries of any tier. For more information about us, see Section 19.
-  2. **How we use your** **Personal Data**
-    1. In this Section 2 we have set out: 
-      1. the general categories of personal data that we may process;
-      2. the purposes for which we may process personal data; and
-      3. the legal bases of the processing.
-    2. We may process data about your use of our website and services (" **usage data** "). The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The source of the usage data is our analytics tracking systems. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is our legitimate interests, namely monitoring and improving our website and services.
-    3. We may process your account data (" **account data** "). The account data may include your name and email address. The source of the account data is Johnston Press plc. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
-    4. We may process your information included in your personal profile on our website (" **profile data** "). The profile data may include your name, address, telephone number, email address, profile pictures, gender, date of birth, relationship status, interests and hobbies, educational details and employment details. The profile data may be processed for the purposes of enabling and monitoring your use of our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
-    5. We may process your personal data that are provided in the course of the use of our services (" **service data** "). The service data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
-    6. We may process information that you post for publication on our website or through our services (" **publication data** "). The publication data may be processed for the purposes of enabling such publication and administering our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
-    7. We may process information contained in any enquiry you submit to us regarding goods and/or services (" **enquiry data** "). The enquiry data may be processed for the purposes of offering, marketing and selling relevant goods and/or services to you. The legal basis for this processing is consent.
-    8. We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our websites (" **transaction data** "). The transaction data may include your contact details, your card details and the transaction details. The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions. The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract and our legitimate interests, namely our interest in the proper administration of our website and business.
-    9. We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (" **notification data** "). The notification data may be processed for the purposes of sending you the relevant notifications and/or newsletters. The legal basis for this processing is consent.
-    10. We may process information contained in or relating to any communication that you send to us (" **correspondence data** "). The correspondence data may include the communication content and metadata associated with the communication. Our websites will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business and communications with users.
-    11. We may process any of your personal data identified in this policy where necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights and the legal rights of others.
-    12. We may process any of your personal data identified in this policy where necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, or obtaining professional advice. The legal basis for this processing is our legitimate interests, namely the proper protection of our business against risks.
-    13. In addition to the specific purposes for which we may process your personal data set out in this Section 2, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
-    14. Please do not supply any other person's personal data to us, unless we prompt you to do so.
-  3. **Providing your personal data to others**
-    1. We may disclose your personal data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy.
-    2. We may disclose your personal data to our insurers and/or professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice, or the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
-    3. We may disclose your personal data to our suppliers or subcontractors for the provision of specific services e.g. competition prizes.
-    4. Financial transactions relating to our website and services are handled by our payment services providers, e.g. TNS INC. and STRIPE. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers' privacy policies and practices at their respective websites e.g [www.tnsi.com](http://www.tnsi.com/)
-    5. We may disclose your enquiry data to one or more of those selected third party suppliers of goods and services identified on our website for the purpose of enabling them to contact you so that they can offer, market and sell to you relevant goods and/or services. Each such third party will act as a data controller in relation to the enquiry data that we supply to it; and upon contacting you, each such third party will supply to you a copy of its own privacy policy, which will govern that third party's use of your personal data.
-    6. In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.  We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
-    7. We will disclose your personal data to third parties: 
-      1. In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets subject to the terms of this privacy policy; and
-      2. If Johnston Press plc., or its affiliates, or substantially all of their assets are acquired by a third party, in which case personal data held by it about its users and customers will be one of the transferred assets.
-  4. **International transfers of your personal data**
-    1. In this Section 4, we provide information about the circumstances in which your personal data may be transferred to countries outside the European Economic Area (EEA).
-    2. The hosting facilities for our website are situated in our UK data centres.
-    3. Disqus, Inc. is situated in the United States of America and manage our commenting facility. The European Commission has made an "adequacy decision" with respect to the data protection laws of each of these countries.  Transfers to this country will be protected by appropriate safeguards, namely the use of standard data protection clauses adopted or approved by the European Commission.
-    4. You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.
-  5. **Retaining and deleting personal data**
-    1. This Section 5 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.
-    2. Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
-    3. We will retain your personal data as follows: 
-      1. Advertiser and subscriber name and contact information will be retained for a minimum period of _18 months_ , and indefinitely for suppression list purpose.
-    4. In some cases it is not possible for us to specify in advance the periods for which your personal data will be retained. In such cases, we will determine the period of retention based on the following criteria: 
-      1. the period of retention of personal data will be determined based on legitimate business interests.
-    5. Notwithstanding the other provisions of this Section 5, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
-  6. **Security of personal data**
-    1. We will take appropriate technical and organisational precautions to secure your personal data and to prevent the loss, misuse or alteration of your personal data.
-    2. We will store all your personal data on secure servers, personal computers and mobile devices, and in secure manual record-keeping systems.
-    3. Data relating to your enquiries and financial transactions that is sent from your web browser to our web server, or from our web server to your web browser, will be protected using encryption technology.
-    4. You acknowledge that the transmission of unencrypted (or inadequately encrypted) data over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
-    5. You should ensure that your password is not susceptible to being guessed, whether by a person or a computer program. You are responsible for keeping the password you use for accessing our website confidential and we will not ask you for your password (except when you log in to our website).
-  7. **Amendments**
-    1. We may update this policy from time to time by publishing a new version on our website.
-    2. You should check this page occasionally to ensure you are happy with any changes to this policy.
-    3. We may notify you of changes to this policy by email.
-  8. **Your rights**
-    1. In this Section 8, we have summarised the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
-    2. Your principal rights under data protection law are: 
-      1. the right to access;
-      2. the right to rectification;
-      3. the right to erasure;
-      4. the right to restrict processing;
-      5. the right to object to processing;
-      6. the right to data portability;
-      7. the right to complain to a supervisory authority; and
-      8. the right to withdraw consent.
-    3. You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee.
-    4. You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.
-    5. In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defence of legal claims.
-    6. In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defence of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defence of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.
-    7. You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defence of legal claims.
-    8. You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.
-    9. You have the right to object to our processing of your personal data for scientific or historical research purposes or statistical purposes on grounds relating to your particular situation, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
-    10. To the extent that the legal basis for our processing of your personal data is: 
-      1. consent; or
-      2. that the processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract, and such processing is carried out by automated means, you have the right to receive your personal data from us in a structured, commonly used and machine-readable format. However, this right does not apply where it would adversely affect the rights and freedoms of others.
-    11. If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.
-    12. To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.
-    13. You may exercise any of your rights in relation to your personal data by written notice to us or email to [data.protection@jpress.co.uk](mailto:data.protection@jpress.co.uk)
-  9. **Third party websites**
-    1. Our website includes hyperlinks to, and details of, third party websites.
-    2. We have no control over, and are not responsible for, the privacy policies and practices of third parties.
-  10. **Personal data of children**
-    1. Our website and services are targeted at persons over the age of 16.
-    2. If we have reason to believe that we hold personal data of a person under that age in our databases, we will delete that personal data.
-  11. **Updating information**
-    1. Please let us know if the personal information that we hold about you needs to be corrected or updated.
-  12. **Acting as a data processor**
-    1. In respect of competition entry and reader offers data, we may not act as a data controller; instead, we may act as a data processor.
-    2. Insofar as we act as a data processor rather than a data controller, this policy shall not apply. Our legal obligations as a data processor are instead set out in the contract between us and the relevant data controller.
-  13. **About cookies**
-    1. A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
-    2. Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
-    3. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
-  14. **Cookies that we use**
-    1. We use cookies for the following purposes: 
-      1. authentication - we use cookies to identify you when you visit our website and as you navigate our website;
-      2. status - we use cookies to help us to determine if you are logged into our website;
-      3. personalisation - we use cookies to store information about your preferences and to personalise our website for you;
-      4. security - we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally;
-      5. advertising - we use cookies to help us to display advertisements that will be relevant to you;
-      6. analysis - we use cookies to help us to analyse the use and performance of our website and services; and
-      7. cookie consent - we use cookies to store your preferences in relation to the use of cookies more generally.
-  15. **Cookies used by our service providers**
-    1. Our service providers use cookies and those cookies may be stored on your computer when you visit our website.
-    2. We may use Google Analytics to analyse the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: <https://www.google.com/policies/privacy/>.
-    3. We may publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies.  You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the AdSense partner network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you may wish to consider using the Google browser plug-ins available at: <https://support.google.com/ads/answer/7395996>.
-  16. **Managing cookies**
-    1. Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links: 
-      1. <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
-      2. <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);
-      3. <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
-      4. <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
-      5. <https://support.apple.com/kb/PH21411> (Safari); and
-      6. <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
-    2. Blocking all cookies will have a negative impact upon the usability of many websites.
-    3. If you block cookies, you will not be able to use all the features on our websites.
-  17. **Cookie preferences**
-    1. You can manage your preferences relating to the use of cookies on our websites via the Cookie control tool on the website.
-  18. **Our details**
-    1. This website is owned and operated by Johnston Press Plc.
-    2. We are registered in Scotland under registration number SC015382, and our registered office is at Orchard Brae House, 30 Queensferry Road, Edinburgh, EH4 2HS.
-    3. You can contact us: 
-      1. by post, to the postal address given above;
-      2. using our website contact form;
-      3. by telephone, on the contact number published on our website from time to time; or
-      4. by email, using the email address published on our website from time to time.
-  19. **Data protection registration**
-    1. We are registered as a data controller with the UK Information Commissioner's Office.
-    2. Our data protection registration number is Z5300568.
+**PURPOSE**
+
+We have prepared this Privacy Notice to assist you in understanding what information we collect about you and how that information is used by us and by third parties.
+
+**KEY TERMS**
+
+When we refer to **Data Protection Legislation** we mean the General Data Protection Regulation (Regulation (EU) 2016/679) (“ **GDPR** ”); the Data Protection Act 2018 and any legislation implemented by the UK to give effect to the derogations permitted under the GDPR.
+
+**personal information** is information that can be used to identify or contact a specific individual, such as a name, address, telephone number, email address, etc., and also online identifiers and location data such as IP addresses and mobile device IDs.
+
+**special category data** means personal information revealing your racial or ethnic origin; political opinions; religious or philosophical beliefs; trade union membership; genetic data; biometric data; data related to your health or data concerning your sex life or sexual orientation; and criminal convictions or involvement in criminal proceedings.
+
+A **data controller** is someone who decides why personal data is to be collected and how it will be used and treated.
+
+**CONTACT US**
+
+If you have any questions regarding the Privacy Notice you can contact us at:
+
+Third Floor  
+1 King William Street  
+London  
+EC4N 7AF
+
+or by email to [head.office@jpimedia.co.uk](mailto:head.office@jpimedia.co.uk) or by telephone on 0131 311 7500.
+
+If you are unhappy with how we handle your personal information you can write to us using the contact details noted above; and / or notify the Information Commissioner’s Office (ICO) (please see: <https://ico.org.uk/concerns/> for more information).
+
+**HOW DO WE USE YOUR PERSONAL INFORMATION?**
+
+**INFORMATION** | **WHY WE COLLECT IT** | **LEGAL BASIS** | **RETENTION PERIOD**  
+---|---|---|---  
+**Information you provide to us when you contact us:** this may include your name, address, contact details and any other personal information which you choose to provide to us. | **Enquiries:** If you contact us to enquire about any aspect of our business, goods or services, we will collect your personal information in order to respond to your query. | On the basis of our and your legitimate interests. Our interests being that we would like to assist you with any queries you may have and inform you about our goods and services. | We will delete this information within 3 months of us considering that our correspondence with you is closed.If during our correspondence with you, you enter a contract with us or consent to direct marketing, please see the relevant section of this table for details as to how we will use your personal information.  
+| **Call recordings:** Where you contact us by phone, we may record the conversation in order to allow us to maintain a record of our conversation which we can return to if we need to check any of the queries which we are to respond to you on and for the purposes of training and improving our services. You will be notified at the beginning of the call if it is being recorded. | On the basis of our and your legitimate interests. Our interests being that we wish to improve our services and ensure we respond fully to your queries. | We will retain this information for 18 months following the call.  
+| **Recruitment:** If you contact us in relation to applying for a job with us, we will collect your personal information in order to assess whether you are suitable for the position you applied for. | On the basis of our and your legitimate interests. Our interests being that we would like to consider you for the position you applied for. | If your application is unsuccessful, we will delete this information within 12 months of receiving your application.If your application is successful, we will issue you with a further privacy notice in relation to the retention of your personal information.  
+**Information you provide to us when you enter a contract for our goods or services, for example, subscribing to one of our newspapers, signing up to one of our events:** this may include your name, address, contact details, payment information and where you sign up to an event, your dietary requirements. | **Entering a contract:** If you enter a contract with us to provide you with any of our goods or services, we will collect your personal information to enable us to provide those goods or services to you, for example to receive payment for the services or to contact you in relation to the event you are attending. | On the basis that this is necessary to fulfil our contractual obligations to you. | We will retain this information for the duration of our contract with you. Once our contract has ended we will retain your personal information for up to 6 years in accordance with legal and accounting requirements.Where you have signed up to one of our events, we will retain your contact details for a period of two years thereafter in order to inform you of further related events. We do this on the basis of that it is in our and your legitimate interests to notify you of events which you may wish to attend.  
+If we do not hear from you during this period, we will delete your personal information.  
+| **Dietary requirements:** If you are attending one of our events, we may ask you about your dietary requirements in order for us to provide you with suitable catering. This information could contain special category data, for example, it could relate to your religion. | We will only collect this information on the basis of your consent. | We will delete this information within 1 month of the event being held.  
+**Information provided to us for marketing purposes by third parties:** this may include your name and contact details. | **118 Data Resource Limited:** We have a contract with 118 Data Resource Limited under which it provides us with the contact details of individuals who have indicated that they consent to us contacting them. If we receive your personal information in this manner, we will contact you to ask you for consent to send you further marketing communications. | We collect this information on the basis that you have provided 118 Data Resource Limited with your consent for us to do so. | We will retain this information until we have contacted you to ask you for consent to send further marketing communications and up to a maximum of one month. If you do not provide your consent, we will delete your personal information. If you do provide us with consent, please see below in relation to our use of personal information for the purposes of direct marketing.  
+**Information you provide to us when you post information on our websites:** this may include your name, contact details and gender. | **Forums:** Where our websites allow you to post on the website, for example via comments sections, we will collect any personal information which you submit via this function. We offer these functions to allow you to engage with our websites and services. | On the basis of our and your legitimate interests. Our interests being that we wish to improve our services and allow you to interact and engage with our websites and services. | Where you post information or comments to a website, this information will be displayed until we remove the relevant article or webpage where you have posted the information or until you delete it or contact us to ask us to delete it.  
+**Information that we collect about you when you sign up to our newsletters or direct marketing services:** this may include your name and contact details. | **Newsletters / marketing communications:** Where you sign up to our newsletters or other direct marketing communications, we will collect your personal information in order to be able to send you these newsletters or communications. | We will only collect this information and contact you in this way when you have provided your consent for us to do so.You may withdraw your consent to this type of communication at any time by contacting us or clicking on the unsubscribe button where relevant. | We will check whether you wish to continue receiving communications of this nature at least every 12 months. If you respond to opt out, we will delete your information within 1 month of your response. If you do not respond, we will contact you again within 2 weeks after our first communication to check whether you wish to opt out. If we still do not receive a response, we will delete your personal information within one month of this second attempt to contact you.Where you no longer wish to hear from us, we will retain a minimal amount of your personal information on a “suppression list” to ensure we do not contact you again.  
+**Information that we collect about you by way of cookies.** This includes your IP address, browser type and operating system. | **Cookies:** We collect this information in order to improve your experience of using our website and to enable us to assess how our websites are used to ensure our services and advertisements are relevant.For further information in relation to cookies, please see the cookies information tool displayed in the footer of each of our websites which you visit. | Other than cookies which are strictly necessary for the functioning of our website, we will use cookies only on the basis of your prior consent.Please see our cookies information tool which is displayed in the footer of each of our websites to review the types of cookies which you have consented to. | Please see our cookies information tool for further information.  
+  
+**UPDATING YOUR PERSONAL INFORMATION**
+
+Please contact us at [data.protection@jpimedia.co.uk](mailto:data.protection@jpimedia.co.uk) as soon as possible after there is any change to your personal details, including your contact details. Where possible, we aim to contact you on a regular basis to ensure the personal details we hold about you are accurate.
+
+**SHARING YOUR PERSONAL INFORMATION**
+
+We contract with third party service providers and suppliers to deliver certain services. We have contractual arrangements in place with each of these providers so that they are obliged to protect your personal information.
+
+The following third parties may have access to your personal information for the purposes noted below:
+
+  * Software providers: we use a range of software providers in order to administer our business, these providers include the host of our website, the providers of our call recording system, email system, automated email marketing system and customer databases.
+  * Event organisers: where we hold events, we may share your personal information with third party organisers of the event including caterers and venues, for example, we may share your name with the venue for the purposes of administering a guest list.
+  * Competition prize providers: where you enter one of our competitions, we may share your information with the third party who is supplying the prize to ensure they are able to provide you with the prize.
+  * Cookies providers: for example, Google Analytics and 1PlusXAG, please see our cookies information tool for further information.
+  * JPIMedia Ltd  is part of a group structure, and your personal information may require to be transferred to one of our subsidiaries in order to ensure the proper functioning of our business;
+  * any other person who is authorised to act on your behalf;
+  * regulators, government departments, law enforcement authorities, tax authorities, accountants, insurance companies, lawyers and other professional advisers;
+  * any relevant dispute resolution body or the courts; and
+  * persons in connection with any sale, merger, acquisition, disposal, reorganisation or similar change in our business.
 
 
+
+Some of these entities may also be data controllers under the Data Protection Legislation. However in the first instance you should contact us using the contact details above if you have any queries.
+
+Except as provided above, we will not share personal information with any other third parties without informing you beforehand, unless required by, or in connection with, law and / or regulatory requirements.
+
+We will not sell, trade or lease your personal information to others.
+
+**EUROPEAN ECONOMIC AREA**
+
+The information we collect from you may be stored inside the UK, the European Economic Area (“EEA”) or outside the EEA.
+
+If you live or work outside of the UK or the EEA, we may need to transfer your personal information outside of the UK or the EEA to correspond with you.  Where this applies, we will take all steps reasonably necessary to ensure that your personal information is treated securely and in accordance with this privacy notice.
+
+We also transfer personal information outside the UK or the EEA where our service providers host, process, or store personal information outside the UK or the EEA.  Where this is the case we use contractual arrangements and safeguards to protect this personal information, these safeguards include:
+
+  * The country to which the personal information will be transferred has been deemed to provide an adequate level of protection for personal information by the European Commission. For further details, see [European Commission: Adequacy of the protection of personal data in non-EU countries.](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)
+  * Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal information the same protection it has in Europe. For further details, see [European Commission: Model contracts for the transfer of personal data to non-EU countries.](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)
+  * Where we use providers based in the US, we may transfer personal information to them if they are part of the Privacy Shield which requires them to provide similar protection to personal information shared between the Europe and the US. For further details, see [European Commission: EU-US Privacy Shield](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en)
+
+
+
+Please contact us if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
+
+**YOUR RIGHTS**
+
+You have certain rights under the Data Protection Legislation which can be exercised by contacting us at: [data.protection@jpimedia.co.uk](mailto:data.protection@jpimedia.co.uk), including:
+
+  * the right to access the personal information held about the you by making a subject access request in accordance with the Data Protection Legislation. We may charge a reasonable fee when a request is manifestly unfounded or excessive;
+  * the right to have your personal information rectified if it is inaccurate or incomplete;
+  * the right to request to have your personal information deleted in certain specific circumstances as set out in the Data Protection Legislation;
+  * the right to request to restrict the processing of your personal information in certain specific circumstances as set out in the Data Protection Legislation;
+  * the right to ask us not to process your personal information for marketing purposes or for purposes based on our legitimate interests;
+  * the right to ask us to not undergo automated decision making; and
+  * where you have provided consent, to request to withdraw such consent at any time.
+
+
+
+Please note that if you choose to exercise your rights to have personal information restricted or deleted, then we may not be able to provide you with our services.  
+Further details about your rights can be found on the ICO’s website at <https://ico.org.uk/>.
