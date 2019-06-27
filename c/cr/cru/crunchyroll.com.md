@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crunchyroll.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231202014id_/http%3A//www.crunchyroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunchyroll.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627235914id_/https%3A//www.crunchyroll.com/privacy) for the most accurate reproduction.*
 
 # Crunchyroll - Privacy Policy
 
@@ -49,10 +49,10 @@ Ellation, Inc.
 
 San Francisco, CA 94103
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef9f9d86998e8c96af8a83838e9b868081c18c8082)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ee9e9c87988f8d97ae8b82828f9a878180c08d8183)
 
   * California Residents. Under California Civil Code Section 1798.83, California residents who provide us with personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us one time per calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. Alternatively, the law provides that a company may comply, as we do, by disclosing in our privacy policy that it provides consumers choice (opt-out or opt-in) regarding sharing Personal Information with third parties for those third parties’ direct marketing purposes, and information on how to exercise that choice. As stated above in this Privacy Policy, we provide you choice prior to sharing your Personal Information with third parties for their direct marketing purposes. If you do not opt-in or if you choose to opt-out at the time we offer that choice, we do not share your information with that identified third party for its direct marketing purposes. 
-  * If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cebebca7b8afadb78eaba2a2afbaa7a1a0e0ada1a3) or to the following mailing address: Ellation, Inc., 835 Market St. 7th Floor, San Francisco, CA 94103. 
+  * If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6b1b19021d0a08122b0e07070a1f02040545080406) or to the following mailing address: Ellation, Inc., 835 Market St. 7th Floor, San Francisco, CA 94103. 
   * You must put the statement "Your California Privacy Rights" in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state, and zip code. We will respond to you at your mailing address or your e-mail address. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. 
 
 
@@ -62,7 +62,7 @@ San Francisco, CA 94103
   * We have put in place commercially reasonable physical, electronic, and managerial procedures in an effort to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. However, no data transmission over the Internet, wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information we collect. You use our Services and provide us with your information at your own risk. 
 
 
-  * We do not knowingly collect personal data from minors under 16 years of age. If you are a parent or legal guardian and become aware that your child has provided personal data to us, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#58282a312e393b21183d3434392c313736763b3735) and request to review and/or delete any unauthorized information provided by your child. THESE SERVICES ARE INTENDED FOR A MATURE AUDIENCE AND NOT DIRECTED TO CHILDREN UNDER THE AGE OF 16 YEARS OF AGE. 
+  * We do not knowingly collect personal data from minors under 16 years of age. If you are a parent or legal guardian and become aware that your child has provided personal data to us, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#601012091601031920050c0c0114090f0e4e030f0d) and request to review and/or delete any unauthorized information provided by your child. THESE SERVICES ARE INTENDED FOR A MATURE AUDIENCE AND NOT DIRECTED TO CHILDREN UNDER THE AGE OF 16 YEARS OF AGE. 
   * IF YOU ARE UNDER 16 YEARS OF AGE, THEN YOU ARE NOT PERMITTED TO USE OR ACCESS THE SERVICES AT ANY TIME OR IN ANY MANNER WITHOUT AN ADULT’S PERMISSION AND SUPERVISION. 
 
 
@@ -82,7 +82,7 @@ San Francisco, CA 94103
 
 Attention: Legal Department
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c9b9bba0bfa8aab089aca5a5a8bda0a6a7e7aaa6a4)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7e0e0c17081f1d073e1b12121f0a171110501d1113)
 
 
 
