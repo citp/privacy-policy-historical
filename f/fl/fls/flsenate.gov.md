@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flsenate.gov privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218215205id_/http%3A//www.flsenate.gov/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flsenate.gov privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627025743id_/http%3A//www.flsenate.gov/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement - The Florida Senate
 
@@ -115,7 +115,7 @@ Here is a list of the cookies that are used by *.flsenate.gov:
 
 This list will be updated frequently with other cookies used by *.flsenate.gov. This list does not include cookies associated with third-party content or functionality included on *.flsenate.gov.
 
-For more information about cookies, including how to delete them from your computer and configure your browser to refuse them from *.flsenate.gov or any other site, visit <http://www.usa.gov/optout-instructions.shtml>.
+For more information about cookies, including how to delete them from your computer and configure your browser to refuse them from *.flsenate.gov or any other site, visit <https://www.usa.gov/optout-instructions>.
 
 Top of Page
 
