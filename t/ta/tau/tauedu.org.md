@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tauedu.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226174002id_/http%3A//www.tauedu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tauedu.org privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627083841id_/http%3A//www.tauedu.org/privacy-policy) for the most accurate reproduction.*
 
-# Texila American University
+# Privacy Policy | Texila American Uiversity
 
 We respect your privacy and we are strongly committed to protecting your privacy. We value the trust that you place in us by providing to us your personal data and we are committed to taking all reasonable precautions to protect your personal data from misuse and keeping it secured by complying with all applicable data protection laws and regulations, as amended from time to time.
 
