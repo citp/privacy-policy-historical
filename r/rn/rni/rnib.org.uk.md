@@ -1,15 +1,19 @@
-> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902063033id_/https%3A//www.rnib.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627104027id_/https%3A//www.rnib.org.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - RNIB - Supporting people with sight loss
+# Privacy policy - RNIB - See differently
 
 ## At RNIB we are committed to protecting your privacy online. We protect any personal information you give us while you use our websites. 
 
-This policy is written in accordance with current data protection legislation and the Privacy and Electronic Communications Regulation (PECR). If you have any questions about it, please contact our Data Protection Compliance Officer using the following details: 
+This policy is written in accordance with current data protection legislation and the Privacy and Electronic Communications Regulation (PECR). If you have any questions about it, please contact our Data Protection Compliance Officer using the following details:
 
   *  **Email:**  [dataprotectionofficer@rnib.org.uk](mailto:dataprotectionofficer@rnib.org.uk)
+
   *  **Address:**  Data Protection Officer, Royal National Institute of Blind People, 105 Judd Street, London WC1H 9NE
+
   *  **Phone:**  020 7388 1266
+
   *  **Fax:**  020 7388 2034
+
 
 
 
@@ -19,11 +23,21 @@ By continuing to use this website you are signifying your agreement to the terms
 
 Personal information is information that can be used to identify you. It can include your name, date of birth, email address, postal address, telephone number, fax number and credit/debit card details. 
 
+  * [Read our Low Vision Privacy Policy](https://web.archive.org/privacy-policy/low-vision)
+
+  * [Read our ECLO Privacy Policy](https://web.archive.org/privacy-policy/eclo)
+
+
+
+
 #### Where we get it from
 
   *  **You, directly:** We collect personal information when you ask about our activities, register with us (for example registering with the online shop or to join the Connect Community), order products and services (such as publications and email newsletters), make a donation to us or otherwise give us personal information.
+
   *  **You, indirectly:** If you have given a third party such as a donation or campaigning platform permission to pass your information on to us
+
   *  **Others:** From time to time we may pay for the contact details of people who might be interested in hearing from us in future. These may come from retailers or from companies who conduct telephone surveys or social media engagement, to promote and gather support for organisations. Before we purchase contact information, we always check the wording used when your information was originally collected, to make sure that we only contact people who have actively expressed interest in receiving information from third parties.
+
 
 
 
@@ -56,8 +70,11 @@ Gift Aid is a UK Government scheme that allows charities to reclaim the basic ra
 We have a duty to make sure that we’re spending your donations wisely, and that means doing some research and analysis to inform our decisions. We want to send the most effective messages that we can in the most efficient way possible, so in order to work out who to contact, what to say and when to get in touch, we carry out the following activities:
 
   *  **Segmentation:**  This is where we analyse information such as postcodes of donors, age of supporters and whether donations have been given regularly. This helps us to provide people with the most relevant information in order to identify additional opportunities for them to get involved.
+
   *  **Prospect profiling:**  We occasionally engage agencies to help us identify people among our supporters who are able to support at a higher level, using publicly available records such as the electoral roll, land records, ‘rich lists’, Who’s Who publications and Companies House records. We use this information to invite potential supporters to events which may be of interest to them and recruit celebrity ambassadors.
+
   *  **Re-targeting:** When you agree to RNIB contacting you via email, phone or post, we may use this information to show you specific advertising on social media sites that you may visit. For example, if you receive any of our fundraising information by email, we may use information such as your email address to show you carefully selected adverts from RNIB on social media websites such as Facebook, that relate to our fundraising appeals.
+
 
 
 
@@ -68,9 +85,13 @@ The databases that we keep our supporter information on are held securely within
 You can ask us at any time to provide you with a copy of the information we hold about you, including where and how we obtained it, why we are keeping it and what we are using it for. This is called a “subject access request” and you can make one by contacting the Data Protection Officer using the following details:
 
   *  **Email:**  [dataprotectionofficer@rnib.org.uk](mailto:dataprotectionofficer@rnib.org.uk)
+
   *  **Address:**  Data Protection Officer, Royal National Institute of Blind People, 105 Judd Street, London WC1H 9NE
+
   *  **Phone:**  020 7388 1266
+
   *  **Fax:**  020 7388 2034
+
 
 
 
@@ -81,14 +102,17 @@ We may need to ask you to provide copies of identity documents to make sure that
 Please keep your information up to date by letting us know of any changes:
 
   *  **Email:**  [helpline@rnib.org.uk](mailto:helpline@rnib.org.uk)
+
   *  **Phone:**  0303 123 9999
+
   *  **Address:**  Royal National Institute of Blind People, 105 Judd Street, London WC1H 9NE
+
 
 
 
 ### If you no longer want to hear from us
 
-If you decide you no longer want to hear about our news, products, services, campaigning, volunteering, or fundraising activities, you can ask us to stop contacting you by emailing [helpline@rnib.org.uk](mailto:helpline@rnib.org.uk), calling 0303 123 9999 or writing to us at Royal National Institute of Blind People, 105 Judd Street, London WC1H 9NE. You can also unsubscribe from RNIB enewsletters at any time. Just click on the "Unsubscribe" link in any of the email newsletters your receive. It appears on every enewsletter we send out and is located right at the bottom. If you are receiving care or support services from us or you use our online shop, we may still need to get in touch for administrative reasons about the services or products we provide to you.
+If you decide you no longer want to hear about our news, products, services, campaigning, volunteering, or fundraising activities, you can ask us to stop contacting you by emailing [helpline@rnib.org.uk](mailto:helpline@rnib.org.uk), calling 0303 123 9999 or writing to us at Royal National Institute of Blind People, 105 Judd Street, London WC1H 9NE. You can also unsubscribe from RNIB enewsletters at any time. Just click on the "Unsubscribe" link in any of the email newsletters you receive. It appears on every enewsletter we send out and is located right at the bottom. If you are receiving care or support services from us or you use our online shop, we may still need to get in touch for administrative reasons about the services or products we provide to you.
 
 We may not be able to completely delete all of your information from our systems, as there are some records we must keep for legal and regulatory requirements. These include Gift Aid records, sales records, case files from our care and support services, “do not call” lists and complaint files. If you would like to know more about how and why we keep your information, you can ask us for more details by contacting the Data Protection Officer using the addresses provided above.
 
@@ -103,25 +127,44 @@ Cookies are small data files that are sent from a website to your computer or mo
   *  **How we use cookies:** We use cookies to make our website work better for you. No official RNIB website uses cookies that give us access to any personal information about you. RNIB also uses cookies to improve the personalised advertising which is shared with you on social media. This means that we are bringing you the content which matches your interests and helps us ensure we are using our charitable funds in the most cost-efficient way. For example, we may use data based on your past behavior, such as visits to specific web pages, to show you advertising about events and support that may relate to pages you have previously visited. These cookies cannot be used to identify individuals or their personal contact information.
 
 
+
   *  **Profile management:** Some RNIB websites allow you to login to an account. Some of these sites use a cookie in order to remember account information, like your password. This can be helpful, meaning you don't have to remember your password each time. These cookies don't give us access to your account or your personal details.
+
 
 
   *  **Usability and accessibility settings:** Some RNIB websites allow you to resize text. If you use the resizing options, these settings are stored in a cookie so that your chosen text size follows you around the website. These cookies don't give us access to your personal information.
 
 
+
   *  **Third-party cookies:** Third-party cookies are ones that are not set directly by RNIB, but they may be dropped onto your computer by a third party when you use one of our websites, or do certain things on one of our websites. For instance we use Google Analytics and E-tracker to help us improve the website. These analytics tools use cookies that are not controlled by RNIB but which are active when you use many of our websites. Also, some RNIB websites have "Share" buttons that let you share pages with your friends through websites like Twitter and Facebook. These sites may set a cookie when you login to share things. As third party cookies aren't set by us, we can't control how they work - but we can control which websites we choose to work with. We take your privacy seriously and we would never work with a website we don't trust.
 
 
+
   *  **Analytics:** We want our website to be as user friendly as possible. To help us understand how well the website is working (and how we can improve it!) we use third-party analytics tools such as Google Analytics and E-tracker. Analytics tools help us collect information about how people in general use our websites. For instance, it helps us monitor how many people visit each page, how long people stay on each page, which search engines people use to find our website and which links are clicked on. These cookies do not collect or store personal information about you. Analytics data cannot be used to identify you, or to tell us what you did on our website. It is completely anonymous.
+
 
 
   *  **Cookies -  your choice:** Our websites work better with cookies enabled. Our cookies don't give us or anyone else access to your personal data. We strongly advise you to keep cookies enabled when you use RNIB's websites. However, you can use your browser to delete and reject cookies. There are instructions on [how to delete cookie](http://www.aboutcookies.org/how-to-delete-cookies/)s and [how to control cookies](http://www.aboutcookies.org/how-to-control-cookies/) on the 'About Cookies' website.
 
 
 
+
 ### Privacy and comments on our blogs
 
 The posting of personal information in a blog comment means your information is publicly accessible. Such information can be viewed online and collected by third parties. We are not responsible for the use of information by such third parties. We strongly recommend you avoid sharing any personal information that can be used to identify you (such as your name, age, address, name of employer).
+
+### Privacy Policy and RNIB’s gaming subsidiaries
+
+Our subsidiary companies which raise funds from RNIB’s gaming activities will also process your information in accordance with this privacy policy. These subsidiaries are:
+
+  * RNIB Direct Services Lottery Limited
+
+  * RNIB Feel Good Friday Lottery Limited
+
+
+
+
+More information on the [RNIB Feel Good Friday Lottery](https://lottery.rnib.org.uk/).
 
 ### Changes to this policy
 
@@ -131,4 +174,4 @@ We may change our privacy policy from time to time, so please check back periodi
 
 Right now we can only reach one in three of the people who need our help most. Please make a donation and help us support more blind and partially sighted people.
 
-[Donate now](https://donate.rnib.org.uk/publicnew/doncc.aspx?rnib_source=website&rnib_medium=donate-promo)
+[Donate now ](https://donate.rnib.org.uk/publicnew/doncc.aspx?rnib_source=website&rnib_medium=donate-promo)
