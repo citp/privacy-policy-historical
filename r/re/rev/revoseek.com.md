@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revoseek.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111164637id_/http%3A//revoseek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revoseek.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627052222id_/http%3A//revoseek.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RevoSeek.com
+# RevoSeek.com | Privacy Policy - RevoSeek.com
 
 We appreciate you for visiting **Your Revoseek.com**. Your privacy is significant to us. To better guard your privacy, we would like to share our privacy policy with you and give details how it may affect your privacy.
 
