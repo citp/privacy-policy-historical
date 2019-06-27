@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223224524id_/https%3A//www.madisonlogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627233505id_/https%3A//www.madisonlogic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Account-Based Marketing from Madison Logic
 
