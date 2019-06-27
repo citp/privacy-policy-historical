@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oshopping.com.ph privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909112939id_/https%3A//oshopping.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oshopping.com.ph privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627223435id_/https%3A//oshopping.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
