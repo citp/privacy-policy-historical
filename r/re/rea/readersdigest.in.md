@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the readersdigest.in privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925021229id_/http%3A//readersdigest.co.in/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.in privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627122728id_/http%3A//specials.indiatoday.com/common/privacypolicy/privacy.phtml) for the most accurate reproduction.*
 
-# Privacy Policy | Reader's Digest
+# INDIA TODAY GROUP | India Today , Business Today, Aaj Tak, Care Today, Today, Cosmopolitan, Reader's Digest, India Today Conclave
 
 ### Privacy & Cookies Policy (the "Policy") 
 
-These privacy policies and Newsletter are subject to any amendment or change suggested by E&Y
+These privacy policies and Newsletters may be subject to change and amendment, user discretion is advised
 
 **What this Policy is for?**
 
