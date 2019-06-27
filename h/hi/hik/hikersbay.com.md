@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hikersbay.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202032425id_/http%3A//hikersbay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikersbay.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628011339id_/http%3A//hikersbay.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -69,6 +69,8 @@ hikersbay.com has no access to or control over these cookies that are used by th
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. hikersbay.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links")
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+
+We also offer personalized shopping experiences and advertising through Intent, which uses online identifiers to identify visitors. To view Intent’s privacy policy, click [here](https://intent.com/privacy/). To opt out, click [here](https://intent.com/opt-out/). 
 
 **Children's Information**  
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. hikersbay.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that hikersbay.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records. 
