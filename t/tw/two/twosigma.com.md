@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twosigma.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929173140id_/https%3A//www.twosigma.com/legal-disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twosigma.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627085840id_/https%3A//www.twosigma.com/legal-disclosure/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Two Sigma
 
-Updated and Effective Date:  September 5, 2018
+Updated and Effective Date:  February 7, 2019
 
  ** _THIS PRIVACY POLICY APPLIES TO OUR WEBSITES AND PLATFORMS._**
 
@@ -58,7 +58,7 @@ This Privacy Policy describes how Two Sigma Investments, LP and its affiliates (
 
  **We may share personal information for other reasons we may describe to you or as permitted by law.**
 
- ** _YOU HAVE CERTAIN CHOICES ABOUT OUR MARKETING TOOLS._**
+ ** _YOU HAVE CERTAIN CHOICES ABOUT OUR MARKETING TOOLS_**
 
  **You can opt out of receiving our marketing emails.**   To stop receiving our promotional emails, simply use the opt-out or unsubscribe method provided in emails you receive from us.
 
@@ -78,23 +78,31 @@ For the purposes of EU data protection laws, we are the data controller of your 
 
  **Our Do Not Track Policy.   Some websites have “do not track” features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals.  If you block cookies, certain features on our Sites may not work.  **If you block or reject cookies, not all of the tracking described here will stop.
 
- ** _TWO SIGMA SITES AND CHILDREN._**
+ ** _TWO SIGMA SITES AND CHILDREN_**
 
 Our Sites are meant for adults.  We do not knowingly collect personal information from children under 13 without permission from a parent or guardian.  If you are a parent or legal guardian and think your child under 13 has given us personal information, please contact us at the address below and mark your inquiries “Legal / COPPA Information Request.”  Parents and guardians may learn more about how to protect children’s privacy on-line [here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
 
- ** _WE USE STANDARD SECURITY MEASURES._**
+ ** _WE USE STANDARD SECURITY MEASURES_**
 
 The Internet is not 100% secure.  We cannot promise that your use of our Sites or software will be completely safe.  We encourage you to use caution when transmitting personal information over the Internet. We keep personal information for as long as it is necessary or relevant for the practices described in this Privacy Policy. We also keep personal information as otherwise required by law or for internal compliance or record-keeping purposes.
 
- ** _WE STORE PERSONAL INFORMATION IN THE UNITED STATES._**
+ ** _WE STORE PERSONAL INFORMATION IN THE UNITED STATES_**
 
 Personal information we collect may be transferred to and stored within the United States. Our Sites are subject to U.S. laws, which may not afford the same level of protection as those in your country. We will take all steps reasonably necessary to ensure that your personal information is treated securely and in accordance with this Privacy Policy. If you live outside of the United States, you understand and agree that we may transfer your personal information to the United States. You acknowledge that if you do not consent or would like to withdraw your consent to such transfer by contacting GDPR@twosigma.com, it will impact your ability to use our Sites.
 
- ** _WE MAY LINK TO OTHER WEBSITES OR HAVE THIRD PARTY SERVICES ON OUR SITES WE DON’T CONTROL._**
+ ** _WE MAY LINK TO OTHER WEBSITES OR HAVE THIRD PARTY SERVICES ON OUR SITES WE DON’T CONTROL_**
 
 If you click on a link to a third party website, you will be taken to website(s) that we do not control.  This Privacy Policy does not apply to the privacy practices of such third party website(s).  Read the privacy policy of other websites carefully before you submit any personal information to these third party website(s). We are not responsible for actions, omissions or practices of third party website(s).
 
- ** _FEEL FREE TO CONTACT US IF YOU HAVE MORE QUESTIONS._**
+ ** _reCAPTCHA_**
+
+We use the reCAPTCHA service provided by Google Inc. (Google) to protect your submissions via internet submission forms on this site. This plugin checks if you are a person in order to prevent certain website functions from being (ab)used by spam bots (particularly comments). This plugin query includes the sending of the IP address and possibly other data required by Google for the Google reCAPTCHA service. For this purpose your input will be communicated to and used by Google. However, your IP address is previously truncated by Google within member states of the European Union or in other states which are party to the agreement on the European Economic Area and is, as such, anonymized. Only in exceptional cases is a full IP address transmitted to a Google server in the United States and truncated there. On behalf of the operator of this website, Google will use this information to evaluate your use of this service. The IP address provided by reCaptcha from your browser shall not be merged with any other data from Google.
+
+This data collection is subject to the data protection regulations of Google (Google Inc.). For more information about Google’s privacy policy, please visit:[https://www.google.com/intl/en/policies/privacy/  
+​](https://www.google.com/intl/de/policies/privacy/)  
+By using the reCAPTCHA service, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+ ** _FEEL FREE TO CONTACT US IF YOU HAVE MORE QUESTIONS_**
 
 If you have any questions about this Privacy Policy or other privacy concerns, please contact us at:
 
@@ -108,8 +116,8 @@ New York, NY 10013
 
 Attn: Legal / Privacy Matters
 
- ** _We may update this Privacy Policy._**
+ ** _We may update this Privacy Policy_**
 
 From time to time we may change our privacy policies.  We will notify you of any material changes to our Privacy Policy as required by law by posting a notice on our Site prior to the change becoming effective. We will also post an updated copy on our Site.  Please check our Site periodically for updates.  You are bound by any changes to the Privacy Policy when you use the website after such changes have been first posted
 
-© 2018  Two Sigma Investments, LP. All rights reserved.
+© 2019 Two Sigma Investments, LP. All rights reserved.
