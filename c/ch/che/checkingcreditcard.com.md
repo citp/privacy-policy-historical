@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the checkingcreditcard.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206074953id_/http%3A//checkingcreditcard.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkingcreditcard.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627133406id_/https%3A//checkingcreditcard.com/private-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Checking Credit Card
+# Privacy Policy - Checking Credit Card
 
 CheckingCreditCard.com is fully committed to protecting our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy. Please contact us if you have any questions!
 
