@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the email-checker.net privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823114131id_/https%3A//email-checker.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the email-checker.net privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627151558id_/https%3A//email-checker.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
