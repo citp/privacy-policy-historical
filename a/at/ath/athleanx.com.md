@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the athleanx.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028014249id_/https%3A//athleanx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athleanx.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627212142id_/https%3A//athleanx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ATHLEAN-X
 
@@ -8,7 +8,7 @@ The following Privacy Policy governs the online information collection practices
 
 Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
- **How We Collect and Use Information**
+**How We Collect and Use Information**
 
 We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). The Site only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging, attended one of our events, or have purchased one of our products. The Site collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.
 
@@ -38,16 +38,16 @@ We will not store or collect your payment card details. That information is prov
 
 The payment processors we work with are:
 
-  *  **Authorize.net** Thier Privacy Policy can be viewed at [https://www.authorize.net/company/privacy ](https://www.authorize.net/company/privacy/)
+  * **Authorize.net** Thier Privacy Policy can be viewed at [https://www.authorize.net/company/privacy ](https://www.authorize.net/company/privacy/)
   * **PayPal** Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
 
 
 
- **Google AdWords** Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads ](http://www.google.com/settings/ads)Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+**Google AdWords** Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads ](http://www.google.com/settings/ads)Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
 
- **Twitter** Twitter remarketing service is provided by Twitter Inc.You can opt-out from Twitter’s interest-based ads by following their instructions: <https://support.twitter.com/articles/20170405>You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <https://twitter.com/privacy>
+**Twitter** Twitter remarketing service is provided by Twitter Inc.You can opt-out from Twitter’s interest-based ads by following their instructions: <https://support.twitter.com/articles/20170405>You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <https://twitter.com/privacy>
 
- **Facebook** Facebook remarketing service is provided by Facebook Inc.You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950> To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: [https://www.facebook.com/help/568137493302217 ](https://www.facebook.com/help/568137493302217)Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+**Facebook** Facebook remarketing service is provided by Facebook Inc.You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950> To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: [https://www.facebook.com/help/568137493302217 ](https://www.facebook.com/help/568137493302217)Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
 
 For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: <https://www.facebook.com/privacy/explanation>
 
@@ -60,7 +60,7 @@ We abide by Facebook’s Data Use Restrictions.
 
 
 
- **General Data Privacy Regulation (GDPR)**
+**General Data Privacy Regulation (GDPR)**
 
 The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union (EU) citizens.
 
@@ -70,11 +70,11 @@ If you are a resident of the European Economic Area (EEA), or are accessing this
 
 To make any of these requests, please contact our GDPR contact at [support@athleanx.com](mailto:support@athleanx.com)
 
- **User Names and Passwords**
+**User Names and Passwords**
 
 Your access to parts of our website or app/s may be protected by a user name and a password either now or in the future. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your app, web browser completely and re-open it before viewing other parts of the Internet.
 
- **Children’s Privacy Statement**
+**Children’s Privacy Statement**
 
 This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of eighteen, and provides important information regarding their rights under federal law with respect to such information.
 
@@ -85,7 +85,7 @@ This children’s privacy statement explains our practices with respect to the o
 
 
 
- **External Links Policy**
+**External Links Policy**
 
 Our website and app contains hypertext links to websites and other information created and maintained by other individuals and organizations. These links are only provided for your convenience. We do not control or guarantee the accuracy, completeness, relevance, or timeliness of any information or privacy policies posted on these linked websites. You should know that these websites may track visitor viewing habits.
 
@@ -95,14 +95,14 @@ We permit links to our website if they do not imply an endorsement by, or affili
 
 We review our website and apps periodically for broken or out-of-date links. Any and all links may be posted, altered, or removed at any time. To report problems with links on our website, or for more information about this policy, please send an e-mail at [admin@athleanx.com](mailto:admin@athleanx.com)
 
- **How do we store your information?**
+**How do we store your information?**
 
 Your information is stored at the list server that delivers the Site content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive the Site material.
 
 All of the messaging or emails that are sent to you by the Site include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you.
 
- **Disclaimer**
+**Disclaimer**
 
-The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please [contact us](https://web.archive.org/web/20181028014249id_/https%3A//athleanx.com/contact-us "contact us") (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please [contact us](https://web.archive.org/web/20190627212142id_/https%3A//athleanx.com/contact-us "contact us") (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
 If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail at [admin@athleanx.com](mailto:admin@athleanx.com) and providing us with information relating to your concern.
