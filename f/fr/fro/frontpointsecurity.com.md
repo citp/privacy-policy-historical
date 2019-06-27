@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the frontpointsecurity.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506120152id_/http%3A//frontpointsecurity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontpointsecurity.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627174830id_/https%3A//www.frontpointsecurity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Frontpoint Security
+# Privacy Policy
 
 ### Privacy Policy
 
-**Privacy Policy**
-
 Effective on September 7th, 2017
 
-This privacy policy describes how FrontPoint Security Solutions, LLC (“FrontPoint Security”) collects and uses the personal information you provide on our website: http://www.frontpointsecurity.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.p>
+This privacy policy describes how FrontPoint Security Solutions, LLC (“FrontPoint Security”) collects and uses the personal information you provide on our website: http://www.frontpointsecurity.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 This privacy policy addresses the following topics:
 
@@ -88,15 +86,15 @@ We FrontPoint Security and our marketing partners, affiliates, and analytics pro
 
 We also may use cookies to maintain user shopping carts between sessions, or otherwise to remember users’ settings or website movements. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
 
-This site may periodically use an analytics service such as ClickTale. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personal information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve the website experience. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
+This site may periodically use an analytics service such as ClickTale. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personal information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve the website experience. You can choose to rel="noopener noreferrer" disable the Service at <http://www.clicktale.net/disable.html>.
 
 **Behavioral Targeting / Re-Targeting**
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish not to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish not to have this information used for the purpose of serving rel="noopener noreferrer" you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **Links to Other Websites**
 
-Some website pages may have the look and feel of being on [http://www.frontpointsecurity.com](http://www.frontpointsecurity.com/), however the information collected on these pages may not be covered under our privacy policy. All information collected on [https://www.myfrontpoint.com](https://www.myfrontpoint.com/) are owned and controlled by Alarm.com’s privacy policy.
+Some rel="noopener noreferrer" website pages may have the look and feel of being on [https://www.frontpointsecurity.com](https://www.frontpointsecurity.com/), however the information rel="noopener noreferrer" collected on these pages may not be covered under our privacy policy. All information collected on [https://www.myfrontpoint.com](https://www.myfrontpoint.com/) are owned and controlled by Alarm.com’s privacy policy.
 
 Our Site also may include links to other websites whose privacy practices may differ from those of FrontPoint Security. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. If you use the email a friend feature, this collects additional information about 3rd parties such as name and email address. This information is used by AdThis to send emails and their privacy policy governs the collection and use of the information collected on their site.
 
