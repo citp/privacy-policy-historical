@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statsroyale.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229050842id_/https%3A//www.overwolf.com/legal/%23Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsroyale.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627203004id_/https%3A//www.overwolf.com/legal/%23Privacy-policy) for the most accurate reproduction.*
 
 # Overwolf Privacy policy | Overwolf
 
@@ -230,25 +230,25 @@ PubMatic  | Advertising / Demand Partner  | United States  | Yes
 Telaria  | Advertising / Demand Partner  | United States  | Yes   
 Openx  | Advertising / Demand Partner  | United States  | Yes   
 Twitch Interactive  | Advertising / Demand Partner  | United States  | Yes   
-Spotx  | Advertising / Demand Partner  | United States  | Yes   
+SpotX (RTL Group)  | Advertising / Demand Partner  | United States  | Yes   
 RhythmOne  | Advertising / Demand Partner  | United States  | Yes   
 Exponential Interactive  | Advertising / Demand Partner  | United States  | Yes   
 LKQD  | Advertising / Demand Partner  | United States  | Yes   
 Improve Digital  | Advertising / Demand Partner  | Netherlands  | Yes   
 PulsePoint  | Advertising / Demand Partner  | United States  | Yes   
 33Across  | Advertising / Demand Partner  | United States  | Yes   
+Smartclip (RTL Group)  | Advertising / Demand Partner  | Germany  | Yes   
+Smartclip Mexico (RTL Group)  | Advertising / Demand Partner  | Mexico  | Yes   
+IndexExchange  | Advertising / Demand Partner  | United States  | Yes   
+Unruly  | Advertising / Demand Partner  | United Kingdom  | Yes   
+PCGamesN  | Advertising / Demand Partner  | United Kingdom  | Yes   
+Video Now  | Advertising / Demand Partner  | Russia  | Yes   
+LoopMe  | Advertising / Demand Partner  | United Kingdom  | Yes   
 Playwire Media  | Advertising / Demand Partner  | United States  | Yes   
 Iron Source  | Advertising / Demand Partner  | Israel  | Yes   
 Aniview  | Advertising / Demand Partner  | United States  | Yes   
-Adtelligent  | Advertising / Demand Partner  | United States  | Yes   
-Anyclip  | Advertising / Demand Partner  | Israel  | Yes   
 Enthusiast Gaming  | Advertising / Demand Partner  | Canada  | Yes   
-Matomy  | Advertising / Demand Partner  | Israel  | Yes   
-Venatus Media  | Advertising / Demand Partner  | United Kingdom  | Yes   
 Whenever Media  | Advertising / Demand Partner  | United Kingdom  | Yes   
-Video Intelligence AG  | Advertising / Demand Partner  | Switzerland  | Yes   
-S&W Media Group  | Advertising / Demand Partner  | Israel  | Yes   
-495 Communications  | Advertising / Demand Partner  | United States  | Yes   
   
 Advertising related service providers
 
