@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twoclassychics.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202522id_/http%3A//twoclassychics.com/reviews-and-giveaways/privacy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twoclassychics.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627184737id_/http%3A//twoclassychics.com/reviews-and-giveaways/privacy-disclosure) for the most accurate reproduction.*
 
 # TwoClassyChics FTC Policy and Privacy Guidelines
 
