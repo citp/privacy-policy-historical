@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226123435id_/http%3A//famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627193834id_/http%3A//famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -35,7 +35,7 @@ If you have any comments or questions on the above privacy statement, please fee
 
 |  | Quote of the Day  
 ---  
-Politics is more dangerous than war, for in war you are only killed once.   
+Children are the world's most valuable resource and its best hope for the future.   
   
 Top 10 Authors  
 ---  
