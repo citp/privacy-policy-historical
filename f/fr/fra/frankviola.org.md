@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frankviola.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903014350id_/https%3A//frankviola.org/privatepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankviola.org privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627195312id_/https%3A//frankviola.org/privatepolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Beyond Evangelical | The Blog of Frank Viola
 
