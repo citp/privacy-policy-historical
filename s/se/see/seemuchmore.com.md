@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seemuchmore.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021110811id_/https%3A//www.vsp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seemuchmore.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627131710id_/https%3A//www.vsp.com/privacy.html) for the most accurate reproduction.*
 
 # VSP Privacy Policy
 
