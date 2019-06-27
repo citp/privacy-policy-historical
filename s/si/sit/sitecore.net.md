@@ -1,53 +1,18 @@
-> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814094921id_/https%3A//www.sitecore.com/trust/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628003225id_/https%3A//www.sitecore.com/trust/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sitecore
-
-## Summary Privacy Notice
+# Sitecore Privacy Policy | Sitecore
 
 At Sitecore, we understand the value of data and the importance of protecting it. We want to be transparent about the information we collect, and how we process, store and share it, both online and offline. 
 
-There have been some changes in data protection law, and we have updated our Privacy Policy here to address these changes. We want you to understand what these changes mean for you, so here’s a summary of what this Privacy Policy covers and the recent updates we have made. 
-
-**What the Privacy Policy Covers:**
-
-  * How your information is collected
-  * How we use that information and why
-  * Who we share your information with and why
-  * Your privacy rights
-  * How we keep your information secure
-  * How you can contact us with any questions
-
-
-
-**The changes we have made:**
-
-  * **Legal changes** – We have updated this version of the Privacy Policy to reflect changes in global data protection laws, including the EU’s General Data Protection Regulation (GDPR).
-  * **Your privacy rights** – We have included new privacy rights that may be applicable in your jurisdiction, but we have also included more detail on how you can make informed choices and disable features.
-  * **More detail on who we are** – So you can understand who you are sharing your information with and why, we explain who Sitecore is and what our company uses data for.
-  * **Easier to follow** – We have worked to make this Privacy Policy more clear and understandable by: 
-    * Organizing it into the sections listed in the WHAT THIS PRIVACY STATEMENT COVERS section, so you can easily find information; 
-    * Providing more examples to illustrate how we process data, based on our previous and current practices; 
-    * Providing more examples on when we will share your data, based on our previous and current practices; and
-    * Defining and capitalizing frequently used terms for simplicity and brevity.
-
-
-
-**What we have not changed:**
+There have been some changes in data protection law, and we have updated our Privacy Policy to address these changes. We want you to understand what these changes mean for you, so here’s a summary of what this Privacy Policy covers and the recent updates we have made. 
 
 While we have made a number of revisions and updates to the Privacy Policy, there are a few things we have not changed. 
 
-  * **We have not changed our commitment to your privacy** – Our Privacy Policy is lengthy and detailed because we want to make sure that we are transparent about what we do. We want you to be able to make informed choices that enable you to direct the use of your own information. 
-  * **We have not changed the way that we collect information about you** – But we have increased our transparency at each point of collection of personal information and provided more details in our Privacy Policy about our internal processes. 
-  * **We do not rent or sell your data** – We only share your data with third parties, such as vendors, service providers or partners, when we need to do so. These third parties will only have access to personal information if it is necessary for them to complete their service and will be contractually required to keep it secure.
-  * **Terms of Use and Cookie Policies still apply** – Other terms that we refer to in our Privacy Policy continue to apply.
-
-
-
 **Your trust is important to us so if you have any questions or comments, we’d like to hear from you. Please** reach out to us. 
 
-## SITECORE PRIVACY POLICY 
+## SITECORE PRIVACY POLICY
 
-**LAST UPDATED: May 22, 2018**
+**Last updated: October 19, 2018**
 
 **SITECORE AND YOU**
 
@@ -69,7 +34,7 @@ This Privacy Policy is separated into the following sections to help you easily 
   6. **Processing Your Personal Data**. This section details the lawful basis on which we process the information we collect.
   7. **How We Keep Your Information Secure**. This section details how Sitecore secures the data that it collects, processes and stores.
   8. **Storage and Retention of Your Information.** This section explains how Sitecore stores data and how long we will keep it.
-  9. **Cross-Border Transfers of Information**. Sitecore is a global company so this section explains how we transfer data that is shared internationally.
+  9. **Cross-Border Transfers of Information and the Privacy Shield**. Sitecore is a global company so this section explains how we transfer data that is shared internationally.
   10. **What is Not Covered in This Policy**. This section identifies the areas that are outside the scope of this Privacy Privacy and are addressed in other Sitecore policies. 
   11. **Your Privacy Rights**. This section outlines how you may exercise any rights you may have under the applicable law of your jurisdiction. 
   12. **Updates and How to Contact Us**. This section outlines how we communicate changes to this Privacy Policy, as well as how you may contact us regarding any questions or issues with respect to anything contained within this Privacy Policy, including how to initiate a complaint or dispute about how your information is being processed or handled by Sitecore.
@@ -272,11 +237,11 @@ Sitecore is a global company and your information is stored on regional servers 
 
 We will retain your Personal Data for the length of time needed to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law, or unless the information is deleted pursuant to the exercise of your rights. We may also retain cached or archived copies of information provided to us. The deletion of your Personal Data and other use of our Sites may result in the deletion and/or de-identification of Other Information that is retained by us. 
 
-**SECTION 9. CROSS BORDER TRANSFERS OF INFORMATION **
+**SECTION 9. CROSS BORDER TRANSFERS OF INFORMATION AND THE PRIVACY SHIELD **
 
 Sitecore has entered into and executed an agreement for the international transfer of personal information within the Sitecore group of companies (" **Intra-Company Agreement** ") which governs the processing of your Personal Information by Sitecore entities. The Intra-Company Agreement also incorporates the [European Union Model Clauses requirements](http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm) for transfers of your Personal Information. 
 
-Sitecore is a global company with business processes, management structures and technical systems that cross national borders. This means that your Personal Data may be transferred internally to Sitecore Affiliates and externally to third parties (including partners and service providers) across international borders for the purposes described in this Privacy Policy. Sitecore transfers data only in accordance with legally approved transfer mechanisms that are appropriate under applicable data protection laws, including the Standard Contractual Clauses. 
+Sitecore is a global company with business processes, management structures and technical systems that cross national borders. This means that your Personal Data may be transferred internally to Sitecore Affiliates and externally to third parties (including partners and service providers) across international borders for the purposes described in this Privacy Policy. Sitecore transfers data only in accordance with legally approved transfer mechanisms that are appropriate under applicable data protection laws, including the Standard Contractual Clauses and the Privacy Shield. For further information on the [Privacy Shield program](http://www.privacyshield.gov/) or our Privacy Shield certification, please see how we comply with the [Privacy Shield](https://www.sitecore.com/trust/faq#privacyshield). 
 
 **SECTION 10. WHAT IS NOT COVERED IN THIS POLICY**
 
@@ -339,11 +304,9 @@ UPDATES TO THIS PRIVACY STATEMENT
 
 From time to time, we may change this Privacy Policy to accommodate new technologies, industry practices, regulatory requirements or to reflect any changes in how we process information. Any changes to this Privacy Policy will be effective when we post the revised Privacy Policy on this website. The “Last Updated” section at the top of this Privacy Policy states when this Privacy Policy was last revised and serves as notice of the update. Your use of the Sitecore Site or Content provided following these changes means you accept the revised Privacy Policy. 
 
-To see prior versions of our privacy policy, click here
-
 **CONTACT US**
 
-If you believe your Personal Data has been used in a way that is not consistent with this Privacy Policy or your specified preferences, or if you have further questions related to this Privacy Policy, we encourage you to please contact our Privacy Team at the address below or by emailing: [privacy@sitecore.com](mailto:privacy@sitecore.com)
+If you believe your Personal Data has been used in a way that is not consistent with this Privacy Policy or your specified preferences, or if you have further questions related to this Privacy Policy or Sitecore’s Privacy Shield certification, we encourage you to please contact our Privacy Team at the address below or by emailing: [privacy@sitecore.com](mailto:privacy@sitecore.com)
 
 Written inquiries may be addressed to our Chief Legal Officer at: 
 
@@ -355,4 +318,4 @@ San Francisco, CA 94111
 Phone: +1 415 380 0600   
 Fax: +1 415 380 0730 **
 
-If you feel that you have not received a timely or satisfactory response from us to your question or complaint, please contact the applicable independent recourse below: [EU Data Protection Authorities (DPAs)](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080)
+For European residents, we have chosen the [EU Data Protection Authorities](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080) (EU DPAs) to serve as an independent recourse mechanism for dispute resolution arising from collection, use, and retention of Personal Data transferred from EU member countries to the United States. In compliance with the Privacy Shield Principles, Sitecore commits to resolve complaints about our collection or use of your Personal Data. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield certification or privacy practices should first contact us using the contact details above. Sitecore has further committed to cooperating and complying with relevant authorities with regard to the transfer of data from the EU and Switzerland. If you feel that you have not received a timely or satisfactory response from us to your question or complaint, you may contact your local EU DPA [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) or, for Swiss individuals, the [Swiss Federal Data Protection and Information Commissioner (FDPIC)](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection---switzerland.html) [here](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection---switzerland.html) (at no cost to you) for more information or to file a complaint. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles. 
