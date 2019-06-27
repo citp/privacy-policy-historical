@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makitatools.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020002809id_/https%3A//www.makitatools.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makitatools.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627194329id_/https%3A//www.makitatools.com/company/privacy-policy) for the most accurate reproduction.*
 
 # MAKITA - Cordless and Corded Power Tools, Power Equipment, Pneumatics, Accessories
 
