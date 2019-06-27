@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the onlycashsurveys.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112121654id_/http%3A//onlycashsurveys.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlycashsurveys.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627124235id_/http%3A//onlycashsurveys.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Only Cash Surveys Privacy Policy
 
 |  |   
 ---  
-| [](https://web.archive.org/web/20181112121654id_/http%3A//onlycashsurveys.com/index.php) | [](https://web.archive.org/web/20181112121654id_/http%3A//onlycashsurveys.com/registration.php) | [](https://web.archive.org/web/20181112121654id_/http%3A//onlycashsurveys.com/aboutus.php) | [](https://web.archive.org/web/20181112121654id_/http%3A//onlycashsurveys.com/privacy_policy.php) | [](https://web.archive.org/web/20181112121654id_/http%3A//onlycashsurveys.com/faq.php)  
+| [](https://web.archive.org/web/20190627124235id_/http%3A//onlycashsurveys.com/index.php) | [](https://web.archive.org/web/20190627124235id_/http%3A//onlycashsurveys.com/registration.php) | [](https://web.archive.org/web/20190627124235id_/http%3A//onlycashsurveys.com/aboutus.php) | [](https://web.archive.org/web/20190627124235id_/http%3A//onlycashsurveys.com/privacy_policy.php) | [](https://web.archive.org/web/20190627124235id_/http%3A//onlycashsurveys.com/faq.php)  
 ---|---|---|---|---  
   
-|  OnlyCashSurveys Privacy Policy - Updated 3/11/2010  
+|  OnlyCashSurveys Privacy Policy  
 ---  
   
 OnlyCashSurveys is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our website and services. 
@@ -56,7 +56,7 @@ You also have choices with respect to cookies. By modifying your browser prefere
 What is OnlyCashSurveys' policy on allowing me to update, correct, or delete my personally identifiable information? 
      You may edit your OnlyCashSurveys Account Information and your public OnlyCashSurveys Profile at any time by using your OnlyCashSurveys ID and password. If you have forgotten your password, please click here. 
 
-Your OnlyCashSurveys account can be deleted or deactivated. Please contact [support@surveyhelpcenter.com](mailto:support@surveyhelpcenter.com) for further instructions about deleting or deactivating your OnlyCashSurveys account. 
+Your OnlyCashSurveys account can be deleted or deactivated. Please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c6f696c6c736e685c737270657f7d6f746f696e6a79656f327f7371) for further instructions about deleting or deactivating your OnlyCashSurveys account. 
 
 What security precautions are in place to protect the loss, misuse, or alteration of my information? 
      Your OnlyCashSurveys Account Information and OnlyCashSurveys Profile are password-protected so that you and only you have access to this personal information. 
@@ -72,12 +72,12 @@ What else should I know about my privacy?
 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
 
-We can reach OCS Market Research LLC at 118-B South Main Street, Salisbury, NC 28144 p: 704.647.9524 
+You can reach New OCS LLC at 56 Upland Ct, Newark DE 19713 
 
 By signing up for our services, you agree to receive our newsletter and offers to take surveys and other money making opportunities. If you do not wish to receive these e-mails, you may opt-out at any time, by clicking on the opt-out link in the e-mail messages you receive. 
 
 Additional information 
-     Questions regarding this statement should be directed to [support@surveyhelpcenter.com](mailto:support@surveyhelpcenter.com). 
+     Questions regarding this statement should be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#88fbfdf8f8e7fafcc8e7e6e4f1ebe9fbe0fbfdfafeedf1fba6ebe7e5). 
 |   
 |  |   
   
