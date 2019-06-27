@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the timberlandonline.co.uk privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timberlandonline.co.uk privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627153906id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Highlights - Timberland
 
 This privacy policy applies to the collection and use of customers' and [www.timberland.co.uk](http://www.timberland.co.uk/) visitors' personal data by VF International Sagl (that operates this website and is responsible for VF marketing activities) and by VF local subsidiaries (that are responsible for the purchases you make with them online or in store).  
 
 
-_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#1)_  
+_[more info](https://web.archive.org/web/20190627153906id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#1)_  
 
 ## **WHAT INFORMATION WE COLLECT**
 
@@ -21,7 +21,7 @@ We collect your personal data that you provide to us when you:
 
 We also automatically collect certain information about your use of this website (e.g., IP address, number of visits, time spent, etc.) and aggregate them to measure and enhance the functioning of the website.
 
-_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#3)_
+_[more info](https://web.archive.org/web/20190627153906id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#3)_
 
 ## Why we use your information for
 
@@ -37,13 +37,13 @@ We collect and process your personal data in order to:
 
  We do not sell or share your personal data to marketers outside of the VF group.
 
-_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#4)_
+_[more info](https://web.archive.org/web/20190627153906id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#4)_
 
 ## **HOW LONG WE KEEP YOUR INFORMATION**
 
 We only keep your personal data for so long as necessary to achieve these purposes. This may be up to 10 years after the end of the contractual relationship with you (statute of limitation for legal claims in most EEA countries), unless a shorter or longer retention period applies under applicable data protection laws.
 
-_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#6)_
+_[more info](https://web.archive.org/web/20190627153906id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#6)_
 
 ## **PARTIES WITH WHICH WE SHARE YOUR INFORMATION**
 
@@ -57,7 +57,7 @@ We also share your personal data with:
 
 Some of these recipients are located outside the EEA, but we ensure that your personal data remain at all times adequately protected (if the country of destination is not one that the EU Commission considers offers an adequate level of protection, we cover the data transfer by appropriate safeguards).
 
-_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#8)_
+_[more info](https://web.archive.org/web/20190627153906id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#8)_
 
 ## **NECESSARY v. OPTIONAL INFORMATION**
 
@@ -65,25 +65,25 @@ Some of your personal data are necessary to complete your purchase or to provide
 
 Providing personal data for survey, marketing and other profiling purposes is however optional. If you refuse, this will not have any impact on the purchase or the provision of the service you requested.  __
 
-_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#9)_
+_[more info](https://web.archive.org/web/20190627153906id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#9)_
 
 ## **YOUR RIGHTS**
 
 You may, at any moment, exercise your rights under data protection law, including (when applicable) your right of access, rectification, restriction, erasure, opposition (including objecting, at any time and for free, to the processing of your personal data for direct marketing), right to portability and your right to withdraw consent.  You also have the right to lodge a complaint with the competent supervisory authority.
 
-_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#11)_
+_[more info](https://web.archive.org/web/20190627153906id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#11)_
 
 ## **WE USE COOKIES**
 
 Certain information is gathered on this website by cookies and other tracking technologies. You can manage your cookie preferences through our tool or through your browser.
 
-_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/cookie-policy.html)_
+_[more info](https://web.archive.org/web/20190627153906id_/https%3A//www.timberland.co.uk/customer-service/cookie-policy.html)_
 
 ## **THIRD PARTY LINKS**
 
 The website may contain links to other sites, as well as objects or elements controlled by third parties. We do not have access nor control these elements and disclaim any responsibility for such third party websites.
 
-_[more info](https://web.archive.org/web/20180717040204id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#10)_
+_[more info](https://web.archive.org/web/20190627153906id_/https%3A//www.timberland.co.uk/customer-service/privacy-policy-complete.html#10)_
 
 ## **HOW TO CONTACT US**
 
