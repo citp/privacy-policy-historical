@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawconnect.ca privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231210138id_/https%3A//www.shawmedia.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawconnect.ca privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627051425id_/https%3A//www.shawmedia.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Corus Entertainment
 
