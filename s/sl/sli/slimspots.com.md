@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slimspots.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102002202id_/http%3A//www.slimspots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimspots.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627204549id_/https%3A//slimspots.com/privacy) for the most accurate reproduction.*
 
 # slimspots – Mobile Ad Network – Remnant Traffic Monetization - Privacy Policy
 
