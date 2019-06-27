@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradett.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211090550id_/http%3A//www.tradett.com/service/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradett.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627122716id_/http%3A//www.tradett.com/service/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Help
 
