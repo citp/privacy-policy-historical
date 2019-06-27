@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkrun.com.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230013728id_/http%3A//www.parkrun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkrun.com.au privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627022727id_/http%3A//www.parkrun.com/privacy) for the most accurate reproduction.*
 
 # parkrun Privacy Policy
 
