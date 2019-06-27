@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the enterprisedb.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909032209id_/https%3A//www.enterprisedb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisedb.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627094126id_/https%3A//www.enterprisedb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EnterpriseDB
 
 ## **Welcome!**
 
-The Privacy Policy posted on this Site was updated on or about May 25, 2018.
+The Privacy Policy posted on this Site was updated on or about October 15, 2018.
 
 EnterpriseDB has created this privacy policy (the "Privacy Policy") to demonstrate our commitment to protecting an individual's right to protect his/her personal data. What do we mean by personal data?  
 
 ‘Personal data’ means any information relating to a person that can be used to identify such person, directly or indirectly.  For instance, using an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
-This Privacy Policy is effective as to all users of [www.enterprisedb.com](http://www.enterprisedb.com/) (the "Website"), and incorporates by reference our [Terms of Use](https://www.enterprisedb.com/terms-use). Terms with initial capital letters used in this Privacy Policy shall have the respective meanings assigned to them in the Terms of Use, unless specifically defined in this document. The terms "EnterpriseDB," "we," and "our" refer to EnterpriseDB Corporation. The terms "you" and "your" refer to the user or viewer of the Website.
+This Privacy Policy is effective as to websites, events, and other services operated by EnterpriseDB and incorporates by reference our [Terms of Use](https://www.enterprisedb.com/terms-use). Terms with initial capital letters used in this Privacy Policy shall have the respective meanings assigned to them in the Terms of Use, unless specifically defined in this document. The terms "EnterpriseDB," "we," and "our" refer to EnterpriseDB Corporation. The terms "you" and "your" refer to any individual who accesses and uses any of our services, including our websites and online services, including [www.enterprisedb.com](https://www.enterprisedb.com/) (the “Website”); and our live events and conferences (“Events”), and surveys, contests, and sweepstakes (together, the “Services”).
 
 By using this Website, you freely and knowingly consent to the collection and use of information as described herein. EnterpriseDB reserves the right to make changes periodically to this Privacy Policy in our sole discretion. Changes to the Privacy Policy will be posted on this page. Your continued use of this Website after any such changes constitutes your acceptance of the changes and of the revised Privacy Policy.
 
@@ -59,7 +59,7 @@ EnterpriseDB collects certain personal data when you:
 
   * Submit requests, suggestions, or other communications to us;
 
-  * Interact with the Website or EnterpriseDB in any way that submits, releases or displays your personal data to EnterpriseDB.
+  * Interact with the Website or EnterpriseDB in any way that submits, releases or displays your personal data to EnterpriseDB (e.g., attending events, entering contests, participating in trainings, etc.).
 
 
 
@@ -85,7 +85,7 @@ EnterpriseDB processes your personal data based on the following lawful grounds:
 
 EnterpriseDB may use your personal data to:
 
-  * Provide and deliver products or services you’ve requested, including software updates;
+  * Provide and deliver products, content, or services you’ve requested, including software updates. If you enter a sweepstake, contest, or similar EDB promotion, we may use your personal data to administer such promotion and/or market relevant products and services based on your demonstrated interest;
 
   * Operate and improve our internal operations, systems, products, and services;
 
@@ -122,6 +122,8 @@ EnterpriseDB does not rent, sell, or share personal data about you with other pe
 
   * We may provide your personal data to financial institutions, credit card companies, collection enterprises, and other enterprises that process payments or represent the buyer or seller to facilitate payment owed to us or to a seller when you submit such personal data for the purposes of effecting a purchase or other financial transaction;
 
+  * We may produce certain contests, sweepstakes, and special events with the support of affiliated or non-affiliated sponsors and/or promotional partners. The information collected in conjunction with events may also be used for the marketing of additional services and events by us and/or our promotional partners and sponsors beyond the contest, sweepstakes, and/or special event;
+
   * We may provide your personal data to persons who owe us a duty of confidentiality in connection with a legitimate business purpose of EnterpriseDB;
 
   * We may provide your personal data to third parties, including, but not limited to, law enforcement agencies, state, local or federal governments, private litigants, and other companies, as may be required to (1) comply with lawful requests such as subpoenas or court orders, (2) comply with applicable state, federal, or local law, (3) prevent fraud or other illegal activities from being perpetrated through the Website, or (4) protect the property, safety, or legal rights of EnterpriseDB and its users;
@@ -145,7 +147,7 @@ Our Site may use various software technologies including “cookies,” “web b
 
 We use cookies to deliver personalized content, to save you having to re-enter your password repeatedly, to keep track of your shopping cart, and to tailor our information offerings relating to how you and others use the Website. From time to time, we partner with third parties who may place cookies on your browser when you visit our Websites, may send their own cookies to your cookie file, and may use those cookies to track and collect information about you and your online activities over time and across different websites, devices, and applications and to provide targeted advertising based on your interests and previous browsing history. Some cookies remain on your mobile phone, computer or mobile device until they are deleted.
 
-Certain third party ad networks may automatically collect information about your visits to our Sites and other websites, such as your IP address, your Internet service provider, and the browser you use to visit our Sites. They do this using cookies, web beacons or other technologies. You can learn more about practices of many of these third parties by visiting the Digital Advertising Alliance (<http://www.aboutads.info/choices/>) in the USA, Digital Advertising Alliance of Canada (<http://youradchoices.ca/>) in Canada or the European Digital Advertising Alliance (<http://www.youronlinechoices.eu/>) in Europe. This Privacy Policy does not apply to, and we are not responsible for, cookies or web beacons and other technologies in third party advertising. We encourage you to check the privacy policies of third party advertisers and/or ad services to learn about their use of cookies, web beacons and other technology.
+Certain third party ad networks may automatically collect information about your visits to our Sites and other websites, such as your IP address, your Internet service provider, and the browser you use to visit our Sites. They do this using cookies, web beacons or other technologies. You can learn more about practices of many of these third parties by visiting the Digital Advertising Alliance (<https://www.aboutads.info/choices/>) in the USA, Digital Advertising Alliance of Canada (<https://youradchoices.ca/>) in Canada or the European Digital Advertising Alliance (<https://www.youronlinechoices.eu/>) in Europe. This Privacy Policy does not apply to, and we are not responsible for, cookies or web beacons and other technologies in third party advertising. We encourage you to check the privacy policies of third party advertisers and/or ad services to learn about their use of cookies, web beacons and other technology.
 
 Some web browsers (including some mobile web browsers) provide settings that allow you to control or reject cookies or to alert you when a cookie is placed on your computer, tablet or mobile device. Although you are not required to accept cookies, if you block or reject them, you may not have access to all features available through our services. For more information, visit the help page for your web browser.
 
@@ -196,7 +198,7 @@ We will retain your personal data for as long as your account is active, as need
 
 #### **Cookies**
 
-When you use our Websites, you can usually choose to set your browser to remove cookies and to reject cookies from our servers. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Website. You can also choose to opt-out of use of cookies by many of our third party advertising partners for delivery of personalized ads by visiting the Digital Advertising Alliance (<http://www.aboutads.info/choices/>) in the USA, Digital Advertising Alliance of Canada (<http://youradchoices.ca/>) in Canada or the European Digital Advertising Alliance (<http://www.youronlinechoices.eu/>) in Europe. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choices.
+When you use our Websites, you can usually choose to set your browser to remove cookies and to reject cookies from our servers. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Website. You can also choose to opt-out of use of cookies by many of our third party advertising partners for delivery of personalized ads by visiting the Digital Advertising Alliance (<https://www.aboutads.info/choices/>) in the USA, Digital Advertising Alliance of Canada (<https://youradchoices.ca/>) in Canada or the European Digital Advertising Alliance (<https://www.youronlinechoices.eu/>) in Europe. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choices.
 
 While we and others give you certain choices, as further outlined in this Policy, there are many ways that Web browser signals and similar mechanisms can indicate your choice to disable tracking, and we may not be aware of nor honor every mechanism.
 
