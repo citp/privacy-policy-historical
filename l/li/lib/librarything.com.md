@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the librarything.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230083146id_/https%3A//www.librarything.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the librarything.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627052446id_/https%3A//www.librarything.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LibraryThing
 
@@ -116,10 +116,11 @@ In event of dispute, account ownership is determined as follows: If a paid accou
   * Do not spam member comments or group invitations. Inviting people in your town to a new group is okay; inviting hundreds of members is not.
   * Do not repost flagged content in Talk. If you believed you were flagged unfairly, go ahead and discuss the issue (without getting personal). You can discuss it, with short selections. But you may NOT repost it. If people want to read it, they can; Talk allows you to click something to see the flagged content. 
   * Do not create "pointless," "meaningless" or "random" groups or topics. We give all groups the benefit of the doubt, but the creation of multiple, duplicative and contentless groups is against these terms.
+  * No personal groups (groups with fewer than two members). 
   * Do not intentionally disclose sensitive private information about another member.
   * You may not post any content that violates copyright or other intellectual property law.
   * LibraryThing may not be used for any illegal activity.
-  * LibraryThing may not be used to injure, threaten, stalk, impersonate, or harrass someone.
+  * LibraryThing may not be used to injure, threaten, stalk, impersonate, or harass someone.
   * Do not plagiarize another member's content.
   * Do not upload X-rated pictures.
   * Do not upload suggestive images of minors or seeming minors.
@@ -455,7 +456,7 @@ If you have any questions or suggestions about LibraryThing's App Privacy Policy
 
 LibraryThing allows members to connect to various apps, like Facebook and Twitter, that require application authorization. We will not use this for any purpose other than explicitly agreed to. The data we collect from these apps is used only for authentication purposes, and to post to the services as directed. It is not displayed, transferred, or shared in any way.
 
-LibraryThing does not store any information for Facebook and Twitter except the keys necessary to perform API requests. In other words, all that stuff that Facebook gave companies like Cambridge Analytics, and which they misused, we have never stored and don't store now.
+LibraryThing does not store any information for Facebook and Twitter except the keys necessary to perform API requests. In other words, all that stuff that Facebook gave companies like Cambridge Analytics, and which they misused, we have never stored and don't store now. We reserve the right to store your Facebook "name."
 
 ### We take it all back
 
@@ -488,6 +489,8 @@ Certain content that appears in on this site comes from Amazon Services, LLC. Th
 | 
 
 ### Changelog
+
+**5/29/19.** Added personal groups rule.
 
 **6/8/18.** Changes related to the Member Privacy Center going live.
 
@@ -556,6 +559,6 @@ Added rule about couples and other family groupings not being considered organiz
   
 ---|---|---  
   
-[About](https://web.archive.org/about) | [Contact](https://web.archive.org/contact) | [Privacy/Terms](https://web.archive.org/privacy) | [Help/FAQs](https://wiki.librarything.com/index.php/Help_and_FAQ) | [Blog](https://web.archive.org/blog) | [Store](https://web.archive.org/more/store) | [APIs](https://web.archive.org/services/) | [TinyCat](https://www.librarycat.org/) | [Legacy Libraries](https://web.archive.org/legacylibraries) | [Early Reviewers](https://web.archive.org/er/list) | [Common Knowledge](https://web.archive.org/commonknowledge/) | [131,122,588 books!](https://web.archive.org/zeitgeist) | [Top bar: Always visible](https://web.archive.org/togglescrolling.php)
+[About](https://web.archive.org/about) | [Contact](https://web.archive.org/contact) | [Privacy/Terms](https://web.archive.org/privacy) | [Help/FAQs](https://wiki.librarything.com/index.php/Help_and_FAQ) | [Blog](https://web.archive.org/blog) | [Store](https://web.archive.org/more/store) | [APIs](https://web.archive.org/services/) | [TinyCat](https://www.librarycat.org/) | [Legacy Libraries](https://web.archive.org/legacylibraries) | [Early Reviewers](https://web.archive.org/er/list) | [Common Knowledge](https://web.archive.org/commonknowledge/) | [135,760,930 books!](https://web.archive.org/zeitgeist) | [Top bar: Scrolls with page](https://web.archive.org/togglescrolling.php)
 
 Copyright LibraryThing and/or members of LibraryThing, authors, publishers, libraries, cover designers, Amazon, Bol, Bruna, etc. | static: /
