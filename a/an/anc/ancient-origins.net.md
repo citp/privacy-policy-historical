@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancient-origins.net privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221134524id_/https%3A//www.ancient-origins.net/privacy-policy-002939) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancient-origins.net privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627211534id_/https%3A//www.ancient-origins.net/privacy-policy-002939) for the most accurate reproduction.*
 
 # Privacy Policy | Ancient Origins
 
@@ -129,6 +129,6 @@ We reserve the right to change this Policy at any time to reflect changes in the
 
 If you have any questions or concerns regarding this Privacy Policy, please  [**contact us**](https://www.ancient-origins.net/contact-us-00173).
 
-  * [   ](https://web.archive.org/user/login?bookmark_login=1&destination=/?bookmark_login_nid=2939 "Add this post to your bookmarks") 
+  * [Read Later](https://web.archive.org/user/login?bookmark_login=1&destination=/?bookmark_login_nid=2939 "Add this post to your bookmarks") 
   * 
 
