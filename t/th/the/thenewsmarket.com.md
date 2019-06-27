@@ -1,70 +1,144 @@
-> *The following text is extracted and transformed from the thenewsmarket.com privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327105620id_/http%3A//www.thenewsmarket.com/global/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewsmarket.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627230313id_/http%3A//www.thenewsmarket.com/global/privacynotice) for the most accurate reproduction.*
 
-# thenewsmarket.com : Privacy Policy
+# thenewsmarket.com
 
-##### COOKIES ON
+**Contents**
 
-## THIS SITE
+  1. **Who we are?**
+  2. **What is the purpose of this policy?**
+  3. **How and when do we collect your data?**
+  4. **What data do we gather?**
+  5. **Why do we collect this data?**
+  6. **How long do we keep your data for?**
+  7. **Who do we share your data with?**
+  8. **What are cookies and why do we use them?**
+  9. **Where do you store my data and how do you keep it safe?**
+  10. **Changes to this policy**
+  11. **Contacting us**
+  12. **Quicklinks**
 
-We use cookies and the like for the purposes of statistical analysis, improving the friendliness and usability of our website, tailoring content to your interests and engaging with social media. By visiting our website, you consent to our and third party use of cookies as described in our privacy and cookie policy.
 
-[www.thenewsmarket.com](http://www.thenewsmarket.com/), a service brought to you by DMA Media Limited. ("TNM") values your privacy.This Privacy Policy gives you specific information on how TNM protects your privacy, how we treat information that identifies an individual (referred to as "Personal Information") as well as aggregate information, and the choices you have. This Privacy Policy applies to the Web Site(s) located at the URL www.thenewsmarket.com/ or any successor site (the "Site"), as well as certain other co-branded web sites provided to TNM customers, such as the Broadcast Room sites (the "Co-branded Sites"). Use of certain Co-branded Sites may also be subject to the privacy policy of the TNM partner for that Co-branded Site and you are responsible for reviewing and agreeing to any such additional privacy policy (the "Co-branded Terms").
-
-TNM reserves the right to change this Privacy Policy at any time by posting a modified Privacy Policy at this location. Therefore, you are responsible for periodically checking this Privacy Policy for changes. Your continued use of the Site following the posting of changes will signify your acceptance of those changes.
-
-BY USING THIS SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF TNM PROCESSING YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THIS SITE.
-
-##  Collection and Use of Information 
-
-TNM uses the Personal Information you provide to us:
-
-  * to fulfill your requests for products and services, such as the content available through the Site and electronic alerts;
-  * to send you information you agreed to receive about topics we think will be of interest to you;
-  * to communicate with you regarding transactions conducted through the Site, any Co-branded Site or for other internal purposes; and
-  * to analyze usage patterns of the Site in order to determine which areas our users find most valuable to and to evaluate ways to improve the Site.
+  1. **Who we are?**
 
 
 
- TNM does not rent, sell or share your Personal Information with third parties except to provide products or services that you have requested, with your permission, or under the following circumstances: 
+DMA Media Holdings Limited (“DMA”, “we”, “us”, or “our”) is comprised of DMA Media Limited, DMA Media Productions Limited, Unseen Archives Limited, Synaptic Digital Limited (TheNewsMarket), and each of their respective subsidiaries and services. You can find our contact information [here](http://www.dma-media.com/contact-us/) and more information about our brands and services [here](http://www.dma-media.com/). 
 
-  * When you use the Co-branded Sites, you grant TNM permission to provide your registration information to the partner for that Co-branded Site. Use of your Personal Information by the partner for the Co-branded Site may be subject to the terms of the partner's privacy policy, and you are responsible for checking that policy.
-  * To third party vendors we engage to provide services on our behalf, such as credit card processing and hosting
-  * If TNM is merged or if TNM is sold to a third party (including a sale of substantially all of TNM's assets or the Site), such third party will be entitled to use the Personal Information, but only in accordance with the terms of this Privacy Policy.
-  * When required by law, such as when TNM responds to subpoenas, court orders or legal process.
-  * When TNM believes it necessary in order to investigate, prevent, or take action regarding illegal or improper activities, suspected fraud, potential threats to the rights, property or safety of TNM, its users or others, or violations of TNM's terms of use or other policies.
+DMA Media Limited is strongly committed to your privacy. This privacy policy gives you specific information on how and why we collect and use personal data and how you can limit our use of it.
+
+  2. **What is the purpose of this policy?**
 
 
+  1. This privacy and cookie policy has been written to make it clear to you:
 
-TNM aggregates Personal Information and may disclose such aggregated information in a non-personally identifiable manner to content providers and other third parties for marketing, promotional and other purposes.
+    * \- What data we collect about you and why we collect it
+    * \- How we protect it and how we use it
+    * \- Who we share it with
+    * \- How you can limit what data we collect about you
+    * \- How you can contact us if you have any questions about our collection and use of your data
 
-## Use of Cookies
+By agreeing to this policy, you are consenting to our use collection and use of your data as it describes.
 
-A "cookie" is a piece of information (a file) that a web site transfers to a user's computer while browsing that web site and is used for record-keeping purposes. The use of cookies is common on the Internet. TNM uses cookies to recognize users who have already registered for the Site, allowing those users to speed up future activities on the Site. Cookies also enable us to measure aggregate usage and traffic to areas of the Site and specific offerings, which assists TNM in providing content that best meets our users' preferences. For those users who elect the "Remember Me" functionality on the Site, TNM stores encrypted passwords in the cookie. In addition, TNM uses cookies to keep track of items in your cart to improve usability of Site functions. Your browser is probably set to accept cookies, however, you can reconfigure your browser to refuse cookies. If you choose to refuse cookies, some areas of the Site may not function properly.
 
-## Security
 
-TNM has security measures in place to protect against loss, unauthorized access, misuse, alteration and improper disclosure of the Personal Information you provide to TNM, which include maintaining Personal Information on a secure server behind a firewall and encrypting Personal Information during transmission and storage. However, no computer system or information can ever be fully protected against every possible risk and it is not possible to guaranty the security or integrity of the Personal Information you disclose online. Notwithstanding TNM's security measures, you should be aware that when you submit Personal Information to the Site over the Internet, the information may travel over many systems that are not under TNM's control.
+  3. **How and when do we collect your data?**
 
-## Children
 
-The Site is not directed to children under the age of 13. The Site prohibits registration by, and TNM will not knowingly collect personally identifiable information from, anyone under 13.
 
-## Choice/Opt-Out
+We collect your personal data when you register on our sites and subscribe to email alerts, through the online forms you fill out to perform these tasks. In addition, each time you visit one of our sites or use one of our mobile or tv apps we collect data that identifies your device, your IP address and the activities on the site linked to that device and IP address, for example which pages are visited and for how long.
 
-TNM may send out general alerts regarding the Site or other services. If you do not wish to receive such communications, please opt-out by sending an email to [registrations@thenewsmarket.com](mailto:registrations@thenewsmarket.com) or by changing your Alerts preferences on the "My Account" page of the Site. In addition, you may unsubscribe to the alerts by following the instructions at the bottom of each alert.
+We only collect any of this data if you positively consent for us to do so. We get your consent by asking you to click a check-box when you register, subscribe, use one of our apps or visit one of our sites for the first time. If you do not click these check-boxes to say you positively consent for us to collect your data, we do not collect your data. At any time you can limit the data we collect or stop us collecting any data at all. You can do this via these links:
 
-## Correct/Update
+Cancel your registration, remove all personal data and stop further data collection: ****[**dataprotection@dma-media.com**](mailto:dataprotection@dma-media.com) **.**
 
-To access, correct or update your account or other Personal Information, you may use the "My Account" page of the Site and click on “View/Edit Details” in the User Profile, or you may email [registrations@thenewsmarket.com](mailto:registrations@thenewsmarket.com) with your new, correct information.
+Limit what data we collect about you when you use our sites or apps: [**click here**](http://www.thenewsmarket.com/global/cookiepolicy/). 
 
-## Contacting the Web Site
+Unsubscribe from email alerts: [**unsubscribe@dma-media.com**](mailto:unsubscribe@dma-media.com?subject=Unsubscribe) **.**
 
-If you have any questions about this Privacy Policy, the practices of the Site, or your dealings with the Site, you can contact the Web Site Administrator at [webmaster@thenewsmarket.com](mailto:webmaster@thenewsmarket.com).
+  4. **What data do we gather?**
+    1. Direct personal information – this is information you tell us, for example about who you are, what you do, where you work and what your preferences are for using our sites and apps.
+  
 
-## European Union Users
+    2. Indirect personal information – this is information about the way you use our sites and apps, for example, where you are accessing our sites or apps from, which pages you look at, how long you stay on them, what videos you watch.
+  
 
-Attention EU Users: Please note that your Personal Information is stored on TNM computer servers (or those of its service providers) located in the United States. This means that your Personal Information will be transferred outside of the European Union and by disclosing Personal Information on the Site, you consent to this transfer. Any transfer of Personal Information outside of the European Union is done only in accordance with this Privacy Policy and applicable law.
+    3. Technical information – this is information we collect from your computer or other device that you are using to access the site, telling us, for example, which IP address you are connecting from, what type of device you’re using and what browser.
 
-## Use of Web Beacons
+If you wish to limit or stop us collecting your data, the links under **section 3** above will help you do so. If you wish to find out what data we hold on you, please contact us at [**dataprotection@dma-media.com**](mailto:dataprotection@dma-media.com) **.**
 
-The Site may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that may be used to assist in delivering or accessing cookies on the Site and which allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages, newsletters and/or alerts in order to determine whether messages have been opened and acted upon. TNM may also use third party Web beacons to help us compile aggregated statistics and determine the effectiveness of our promotional campaigns. We prohibit Web beacons on our sites from being used by third parties to collect or access your personal information.
+
+
+  5. **Why do we collect this data?**
+
+
+  1. We rely on the data we collect about you for the following purposes:
+
+    * \- to fulfill your requests for products and services, such as the content available through our sites and apps
+    * \- to send you important news about the services you have signed-up to and any electronic alerts relevant to those services that you have consented to receive
+    * \- to communicate with you regarding transactions conducted through the site or app
+    * \- to analyze usage patterns of the site or app in order to determine which areas our users find most valuable to and to evaluate ways to improve the site
+    * \- to inform existing and potential business partners of the number of people using our sites and apps, the ways people use them and about the specific user experiences of those areas of our sites or apps that are dedicated to any specific business partner
+    * \- to inform you of relevant new features and events of interest
+    * \- to conduct research and surveys in order to improve our sites and services to you
+
+If you wish to limit or stop us collecting your data, the links under **section 3** above will help you do so. If you wish to find out what data we hold on you, please contact us at [**dataprotection@dma-media.com**](mailto:dataprotection@dma-media.com) **.**
+
+
+
+  6. **How long do we keep your data for?**
+
+
+
+For the duration of your consent to this policy, we keep your data for as long as is necessary to carry out our services effectively and for as long as we are legally obliged to do so. Following your request to remove your personal data from our system, we will do so within a month of your request being received.
+
+  7. **Who do we share your data with?**
+
+
+
+We utilise a number of third party services for the legitimate operation of our business and some of your data will be stored or shared with these services. They include services that help us deliver our website and applications platforms, marketing services that help us ensure we target our communications appropriately and analytic services that help us understand how our services are being used and can be improved.
+
+We provide business services to other businesses. In some cases, we provide their media centre or newsroom sites and functionality. When you use a newsroom site managed by us, you will be asked to consent to that site’s privacy and cookie policies. Any of the data we capture on these sites will be shared with the business we are providing our services.
+
+We only share personal data with others where we are legally permitted to do so. We are a global business and we use third parties located in other countries to help us deliver our services, including countries outside the European Union such as India and the USA. We have taken steps to ensure all personal data is provided with adequate protection and that all transfers of personal data to any location are done lawfully.
+
+We use third parties to support us in providing our services and managing our business. These include providers of information technology, cloud based software as a service, website hosting and management, data analysis, data backup, security and storage services. The technical infrastructure where your personal data is stored is located in secure data centres run by a third party service provider.
+
+  8. **What are cookies and why do we use them?**
+
+
+
+A "cookie" is a piece of information (a file) that a web site or app transfers to a user's computer or device, used for record-keeping purposes. We use cookies to recognize users who have already registered on one of our sites or apps which can enable a faster and more personalised experience of those sites or apps.
+
+We also use third party cookies. These are cookies that may be read by third parties (for example if you have used social sign-on and have the option to like or comment using your social media account).
+
+Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or otherwise affect the way in which it operates. If you wish to restrict only third party cookies (and keep ours), you can do so [**here**](http://www.thenewsmarket.com/global/cookiepolicy/). 
+
+  9. **Where do you store my data and how do you keep it safe?**
+
+
+
+We have security measures in place to protect against loss, unauthorized access, misuse, alteration and improper disclosure of the personal information you provide us. These measures include encryption of your personal data according to recommended data protection standards.
+
+Notwithstanding our security measures, you should be aware that when you submit personal information to one of our sites or apps, the information may travel over systems that are not under our control, such as your wi-fi hub and your internet provider’s infrastructure.
+
+  10. **Changes to this policy**
+
+
+
+We are committed to adhering to the fundamental principles of data protection and, in Europe, to full compliance with the General Data Protection Regulation. We therefore regularly review and update our online privacy policy in order to ensure that it is free of errors and clearly visible on websites, that it contains all the required information and that it is implemented in full.
+
+  11. **Contacting us**
+
+
+
+If you have any questions about this policy, the practices of our sites or apps, your experiences with us in any way, or you would like to request a copy of any personal information we hold about you, you can contact us at [**dataprotection@dma-media.com**](mailto:dataprotection@dma-media.com) **.**
+
+  12. **Quicklinks**
+
+
+
+Cancel my registration, remove all my personal data and stop further data collection, request a copy of the personal information we hold about you : [**dataprotection@dma-media.com**](mailto:dataprotection@dma-media.com) **.**
+
+Unsubscribe me from any and all email alerts: [**unsubscribe@dma-media.com**](mailto:unsubscribe@dma-media.com?subject=Unsubscribe) **.**
+
+Restrict third party cookies from being deployed when you use our sites or apps: [**click here**](http://www.thenewsmarket.com/global/cookiepolicy/). 
