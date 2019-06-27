@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamebanana.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228080326id_/https%3A//gamebanana.com/wikis/1873) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebanana.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627052610id_/https%3A//gamebanana.com/wikis/1873) for the most accurate reproduction.*
 
 # Privacy Policy | Wikis
 
-[] [ Signup ](https://web.archive.org/members/account/register) Already a member? [Login](https://web.archive.org/members/account/login)
+[] [ Signup ](https://web.archive.org/members/account/register) Already a member? [ Login ](https://web.archive.org/members/account/login)
 
 ##### Mods
 
@@ -36,42 +36,13 @@
 
 
 
-##### Languages
-
-  * [ عربى ](https://web.archive.org/wikis/1873?lang=ar)
-  * [ български ](https://web.archive.org/wikis/1873?lang=bg)
-  * [ brasileiro ](https://web.archive.org/wikis/1873?lang=br)
-  * [ Deutsche ](https://web.archive.org/wikis/1873?lang=de)
-  * [ dansk ](https://web.archive.org/wikis/1873?lang=dk)
-  * [ Español ](https://web.archive.org/wikis/1873?lang=es)
-  * [ français ](https://web.archive.org/wikis/1873?lang=fr)
-  * [ Ελληνικά ](https://web.archive.org/wikis/1873?lang=gr)
-  * [ Magyar ](https://web.archive.org/wikis/1873?lang=hu)
-  * [ bahasa Indonesia ](https://web.archive.org/wikis/1873?lang=id)
-  * [ Polskie ](https://web.archive.org/wikis/1873?lang=pl)
-  * [ Română ](https://web.archive.org/wikis/1873?lang=ro)
-  * [ русский ](https://web.archive.org/wikis/1873?lang=ru)
-  * [ Türkce ](https://web.archive.org/wikis/1873?lang=tr)
-  * [ український ](https://web.archive.org/wikis/1873?lang=ua)
-
-
-
-##### Resources
-
-  * [ Translation Template ](https://web.archive.org/scripts/10092)
-  * [ Translation Scripts ](https://web.archive.org/scripts/cats/2204)
-
-
-
 ##### Social
 
   * [ Discussions ](https://gamebanana.com/discussions)
-  * [ Chat ](https://gamebanana.com/modula)
   * [ Apps ](https://gamebanana.com/apps)
   * [ Articles ](https://gamebanana.com/articles)
   * [ Bugs ](https://gamebanana.com/bugs)
   * [ Blogs ](https://gamebanana.com/blogs)
-  * [ Chatrooms ](https://gamebanana.com/chatrooms)
   * [ Clubs ](https://gamebanana.com/clubs)
   * [ Events ](https://gamebanana.com/events)
   * [ Generators ](https://gamebanana.com/generators)
@@ -92,7 +63,7 @@
 
   * [ Online ](https://gamebanana.com/members/public/online)
   * [ Honorary ](https://gamebanana.com/members/public/honorary)
-  * [ Portfolios ](https://gamebanana.com/members/public/portfolios)
+  * [ Portfolio ](https://gamebanana.com/members/public/portfolio)
 
 
 
@@ -115,13 +86,39 @@
   * [ Points ](https://gamebanana.com/members/public/logs/points)
   * [ Awards ](https://gamebanana.com/members/public/logs/awards)
 
+
+
+##### Languages
+
+  * [ عربى ](https://web.archive.org/wikis/1873?lang=ar)
+  * [ български ](https://web.archive.org/wikis/1873?lang=bg)
+  * [ brasileiro ](https://web.archive.org/wikis/1873?lang=br)
+  * [ 简体中文 ](https://web.archive.org/wikis/1873?lang=cn)
+  * [ Deutsche ](https://web.archive.org/wikis/1873?lang=de)
+  * [ dansk ](https://web.archive.org/wikis/1873?lang=dk)
+  * [ Español ](https://web.archive.org/wikis/1873?lang=es)
+  * [ Esperanto ](https://web.archive.org/wikis/1873?lang=esp)
+  * [ français ](https://web.archive.org/wikis/1873?lang=fr)
+  * [ Ελληνικά ](https://web.archive.org/wikis/1873?lang=gr)
+  * [ Magyar ](https://web.archive.org/wikis/1873?lang=hu)
+  * [ bahasa Indonesia ](https://web.archive.org/wikis/1873?lang=id)
+  * [ Polskie ](https://web.archive.org/wikis/1873?lang=pl)
+  * [ Română ](https://web.archive.org/wikis/1873?lang=ro)
+  * [ русский ](https://web.archive.org/wikis/1873?lang=ru)
+  * [ Türkce ](https://web.archive.org/wikis/1873?lang=tr)
+  * [ український ](https://web.archive.org/wikis/1873?lang=ua)
+
+
+  * [ Translation Template ](https://web.archive.org/scripts/10092)
+  * [ Translation Scripts ](https://web.archive.org/scripts/cats/2204)
+
 {"_bIsDisabled":false}  [ ](https://web.archive.org/) [ ](https://web.archive.org/) We are a **gaming** community for **modders** and **creators** , since 2001. **[Join us!](https://web.archive.org/members/account/register)** Our away homes on the interwebs:
 
   * [ Discord ](https://discord.gg/h5xJv9M)
   * [ Twitter ](http://twitter.com/gamebanana)
   * [ STEAM ](http://steamcommunity.com/groups/gamebanana)
 
-{"_sRefreshTask":"\t\t\t\tvAreRequest('OW5lL2lVMXFuc2pzFR8je7vJz9a0knqO4OpcuJmVRXrFTa6n6Rp1tYGquwijBC7OpsoKFUWBTphDY49lw0xhz9VxziWDss3ZxsmUTnMEUDcqBbAc_jAMc7lKxyY2d_ngdK2Gt5QBY3G6-J2JgJ6bz4mOv9Cy5oWbBqUKFMBJUwRGflRRE8dr-SAzmmwLIRhnSiD8lJy2ULv9Fz_RVpT8lh77BCFyP0bNkOEd4LVQhoCbe6y6_0DzufnTFBvUYKogudTIksBssLHwZ-R-uQxwV5QlWlA9GC3u1Gonn3MbQ4WIWxenbbjw8g5s_3jmR8RnOk2L8K4dYBPn6QRn68RRQDvazTGnzhFaY9kYgKlEhq7DYq67waf9czqOAlrrljmCHE5CvDp1jRFgFiyw2uTLKIbybLc_dE5AkuYLjOuWF-6zvnR1E8_js5vjRyqNiFa071zXnKK-TIJbMjbB5C_mPrNjpDm98gRbGlb6Sh8P1YclrbVx_7NBR6-yNV_8DcsD49MbDA590EyzlDiY1GSeu-fodE74378h7GyM3g794wTzbmEEDpNflPrwphuDIMX3JOkYWBPhLoP9e3sZAA3FT3rEZF55vsTH3tqxQBs2M4Mm6VmfVoPb2P4JjVtSDWcT3JsGI2MRCQdpi4KGW0rdvIlDpbiA4PmGfmXMZODnss2OBfnCYiRjrAqtwFMPWe8sUegXytXvES4K476z5uQBsvce1cPxVtI0P3m0N4QfNcfMRC5W84ExY8Qg4mnllGr0oRFNkEcbmUCPOBjY67_tC1_C9pLFBKiK-boSGbPWggam_y2vV_zLPZGE3uTYpVZr4Xp0VSTRb7hkutydmWFCQbZhMFEAewwqgmMtYRj0TCNRSlY5eDc0Q2lRPT0','',{\r\n\t\t\t\t\t\t\tdata: {},\r\n\t\t\t\t\t\turl: 'https:\/\/gamebanana.com\/responders\/are'\r\n\t\t},false)\r\n\t\t\t","_nRefreshInterval":120000} 
+{"_sRefreshTask":"\t\t\t\tvAreRequest('bnhvU2Z1TzlVSkVjHC0xK50RWLIzorcGcBoBoyNKb8RQRkDOD_PZyUozrgK5NlP32C3LovSqrPtx99HmxTiA7oB0PppC8IaC97DN_48a6LY46yl9HTcTkfD8XzHoKk2-RnGUZ3AiLBK7j2NFbuvw_RKUPZS8mRhQOlgeTzpRxC5vVtEOaLTzTrzZU2NKxYiSJU4rS8NsxVKzXehvGLKP4BF3LkVEv6Il_HXsJFpcoU2D87FHHyjCOyshhkls_HojxGJ1Js9Jd8mx2vbfszqdzJkK9_faS0AxkXUh1t7zknr9dQZUx0456RJVI2kVrVFF0Q40oY0doYUt-mJ_L-KM0FMAlrvT0kH0iXGIxVEdAaSplFgzwLSpfdMKJLhEoaNNLNH8TeFViud04a4kpdz9o6wAEvW6_zAp-Ncum56Zk0SjCcEARE6jAvNwr9tk79H_igf41-Dg3MAr2NgIfmlvDuqrH3dWn4EXfG75bCGxhcJMs5b_21S0Wa92XQWGxpwPhPJCYfYRfmQqYT_WS3qk4o-z6VyzSb6OhvOBhrBs-sBdeMrBntt58yiqebcnGvddajVL6ThjJwgxMnCONhsyGU8u6qze9Jsgu2y4AVmgL1yNT7oOCBzkuBPvFHbp9NZ1xHx4anA4TvgHVmF2Mtaep0EwQXWnkwQCVd70XWekpJ-bjaBYTn8MY2HKT747JpKrQzcca8pB_sW0J4tObMulP7t1Sxe9wy7ABs13H1L6-Ros6expZgPntZSS5o27D49aglfFvmsXtQQwSxb1y8SqNxGGedwUn_WIOD_abS6ORpWM1-ZPvevSjWe54dhraGyxpAWyW2Ib7btY6dgl0jQRbQLfH09VQEw5FDjMToEfOwJkSEJTaEgrS0NRPT0','',{\r\n\t\t\t\t\t\t\tdata: {},\r\n\t\t\t\t\t\turl: 'https:\/\/gamebanana.com\/responders\/are'\r\n\t\t},false)\r\n\t\t\t","_nRefreshInterval":120000} 
 
 #### Games
 
@@ -144,7 +141,7 @@ Browsing history matches:
 
 Become a member today and start sharing your creations! 
 
-[Sign up](https://gamebanana.com/members/account/register) Receive our membership benefits:
+[Sign up](https://gamebanana.com/members/account/register) Receive these membership benefits:
 
   * No ads 
   * Join a Studio team 
@@ -165,7 +162,7 @@ Install and manage your mods easily with community-made 1-Click mod downloaders.
   * [ Modboy ](https://gamebanana.com/tools/6321)
   * [ Rivals Modding Tool ](https://gamebanana.com/tools/6322)
   * [ gvk's Mod Installer ](https://gamebanana.com/gamefiles/5193)
-  * [ Mania Mod Loader ](https://gamebanana.com/tools/6273)
+  * [ Sonic Mania Mod Manager ](https://gamebanana.com/tools/6273)
   * [ SA2 Mod Loader ](https://gamebanana.com/tools/6333)
   * [ SADX Mod Loader ](https://gamebanana.com/tools/6329)
   * [ S&KC Mod Loader ](https://gamebanana.com/tools/6375)
@@ -173,7 +170,8 @@ Install and manage your mods easily with community-made 1-Click mod downloaders.
   * [ Reloaded Mod Loader ](https://gamebanana.com/tools/6424)
   * [ Sonic R Mod Loader ](https://gamebanana.com/tools/6315)
   * [ Everest Installer ](https://gamebanana.com/tools/6449)
-  * [ Quasar Mod Manager ](https://gamebanana.com/tools/6073)
+  * [ EverInst ](https://gamebanana.com/tools/6630)
+  * [ Sonic 4 Mod Loader ](https://gamebanana.com/tools/6546)
 
 
 
@@ -187,34 +185,6 @@ Install and manage your mods easily with community-made 1-Click mod downloaders.
 #### NavOptions
 
 Customize the user interface. 
-
-[] 
-
-#### Xmas Giveaway!
-
-Submit a _mod or tutorial_ before Christmas Day for your chance to win a prize! 
-
-To enter, post in our [Giveaway Thread](https://web.archive.org/threads/214286) with a link to your submission. 
-
-##### Prize Pool
-
-  * 4x $25 Amazon Gift Cards
-  * 4x $25 STEAM Gift Cards
-  * 4x Lifetime Ripe Subscriptions
-  * 4x 25,000 GameBanana Points
-  * 4x copies of Stardew Valley
-  * 10x GameBanana Fridge Magnets
-
-  
-
-
-##### Rules
-
-  1. Submissions withheld/trashed at the time of drawing won't be eligible.
-  2. Submitting multiple mods won't increase your chances.
-  3. Winners will be randomly drawn on or between 12/26 and 12/30.
-  4. You must post a link to your submission in the [Giveaway Thread](https://web.archive.org/threads/214286) to qualify.
-  5. Submissions must be self-created or co-created (redistributions are not eligible).
 
 [Wikis](https://gamebanana.com/wikis) > [Rules](https://gamebanana.com/wikis/cats/2)
 
@@ -467,8 +437,6 @@ URL to post:
 
 ### Submitter
 
-[ ](https://gamebanana.com/members/1382)
-
 ### Category
 
 ### Share
@@ -485,17 +453,6 @@ Share on Twitter
 
 Share on Facebook 
 
-  * [ ](https://plus.google.com/share?url=https://gamebanana.com/wikis/1873)
-
-Share on Google+ 
-
-
-
-
-  * 246.4k Views
-  * 4 Posts
-  * 7ySubmitted
-  * 7moModified
 
 
 
