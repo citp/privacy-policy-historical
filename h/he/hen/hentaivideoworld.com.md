@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaivideoworld.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224021939id_/http%3A//serious-partners.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaivideoworld.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627195108id_/https%3A//serious-partners.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
