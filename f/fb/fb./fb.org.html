@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fb.org privacy policy that was archived on 2018-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221193414id_/https%3A//www.fb.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fb.org privacy policy that was archived on 2019-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190627152102id_/https%3A//www.fb.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" async-hide"><head>
     <meta charset="utf-8">
@@ -65,7 +65,7 @@
 
     <link href="/assets/css/bootstrap.css?v=180604" rel="stylesheet">
     <link href="/assets/css/ionicons.css" rel="stylesheet">
-    <link href="/assets/css/style.css?v=1531247051" rel="stylesheet">
+    <link href="/assets/css/style.css?v=1557510566" rel="stylesheet">
     <link href="/assets/css/print.css" rel="stylesheet" media="print">
 
 
@@ -113,6 +113,87 @@
   </head>
 <body>
 
+
+
+<script>
+$(document).ready(function(){
+
+	function createCookie(name,value,days) {
+	    if (days) {
+	        var date = new Date();
+	        date.setTime(date.getTime()+(days*24*60*60*1000));
+	        var expires = "; expires="+date.toGMTString();
+	    }
+	    else var expires = "";
+	    document.cookie = name+"="+value+expires+"; path=/";
+	}
+
+	function readCookie(name) {
+	    var nameEQ = name + "=";
+	    var ca = document.cookie.split(';');
+	    for(var i=0;i < ca.length;i++) {
+	        var c = ca[i];
+	        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	    }
+	    return null;
+	}
+
+	function eraseCookie(name) {
+	    createCookie(name,"",-1);
+	}
+	/////////////////////// end cookie functions
+
+	var myCookie = readCookie('WelcomeTopperCookie');
+	console.log(myCookie); // Outputs: "The value of my cookie..."
+
+  var status = '';
+	  if (document.cookie && document.cookie.indexOf('WelcomeTopperCookie') != -1) {
+	      console.log('Cookie is present');
+	  } else {
+	      console.log('Cookie is not present');
+
+				setTimeout(revealWelcome, 1000);
+					function revealWelcome() {
+						$("#welcome-topper").toggleClass("big");
+					}
+				setTimeout(revealClose, 4000);
+					function revealClose() {
+						$(".close-topper").toggleClass("show");
+					}
+				setTimeout(revealLogo, 2000);
+					function revealLogo() {
+						$(".welcome-cont").toggleClass("show");
+					}
+
+				createCookie('WelcomeTopperCookie', 'FGWelcomeTopper', 1)
+	  }
+
+	$(".close-topper").click(function() {
+	  $("#welcome-topper").toggleClass("big");
+		$(".close-topper").toggleClass("show");
+		$(".welcome-cont").toggleClass("show");
+	});
+
+// bypass the cookie
+//$("#welcome-topper").toggleClass("big");
+
+});
+
+</script>
+
+<div id="welcome-topper" class="big">
+	<div class="close-topper"><u>close [X]</u></div>
+	<a href="/about/overview"><div class="welcome-closed"></div></a>
+
+
+	<div class="welcome-cont">
+		<div id="raysHolder">
+			<a href="/about/overview" id="raysLogo">AFBF 100 Year Centennial</a>
+			<div id="rays"></div>
+		</div>
+	</div><!-- /welcome-ad-cont -->
+</div><!-- /welcome-topper -->
 
 
 
@@ -178,7 +259,7 @@
                       
                         <li><a href="https://www.fb.org/issues/trade/trans-pacific-partnership-tpp-agreement/">Trans-Pacific Partnership (TPP) Agreement</a></li>
                       
-                        <li><a href="https://www.fb.org/issues/trade/us-eu-transatlantic-trade-and-investment-partnership-agreement/">US - EU Transatlantic Trade and Investment Partnership Agreement</a></li>
+                        <li><a href="https://www.fb.org/issues/trade/us-eu-transatlantic-trade-and-investment-partnership-agreement/">US - EU Negotiations</a></li>
                       
                     </ul>
                   
@@ -204,6 +285,8 @@
                       
                         <li><a href="https://www.fb.org/issues/farm-policy/the-2018-farm-bill/">2018 Farm Bill</a></li>
                       
+                        <li><a href="https://www.fb.org/issues/farm-policy/federal-milk-marketing-order-reform/">Federal Milk Marketing Order Reform</a></li>
+                      
                     </ul>
                   
                 </li><li class="dropdown-submenu">
@@ -214,6 +297,17 @@
                         <li><a href="https://www.fb.org/issues/immigration-reform/agriculture-labor-reform/">Agriculture Labor Reform</a></li>
                       
                         <li><a href="https://www.fb.org/issues/immigration-reform/e-verify/">E-Verify</a></li>
+                      
+                    </ul>
+                  
+                </li><li class="dropdown-submenu">
+                  <a href="https://www.fb.org/issues/infrastructure/">Infrastructure</a>
+                  
+                    <ul class="dropdown-menu">
+                      
+                        <li><a href="https://www.fb.org/issues/infrastructure/rural-infrastructure/">Rural Infrastructure</a></li>
+                      
+                        <li><a href="https://www.fb.org/issues/infrastructure/rural-broadband-redirect/">Rural Broadband</a></li>
                       
                     </ul>
                   
@@ -254,8 +348,6 @@
                       
                         <li><a href="https://www.fb.org/issues/technology/biotechnology/">Biotechnology</a></li>
                       
-                        <li><a href="https://www.fb.org/issues/technology/data-privacy/">Data Privacy</a></li>
-                      
                         <li><a href="https://www.fb.org/issues/technology/broadband/">Rural Broadband</a></li>
                       
                     </ul>
@@ -292,24 +384,18 @@
                   <a href="https://www.fb.org/events/">Overview</a>
                   
                 </li><li class="dropdown-submenu">
-                  <a href="https://www.fb.org/events/afbf-annual-convention/">2019 AFBF Annual Convention &amp; IDEAg Trade Show</a>
+                  <a href="https://www.fb.org/events/afbf-annual-convention/">AFBF Annual Convention &amp; Trade Show</a>
                   
                     <ul class="dropdown-menu">
                       
-                        <li><a href="https://www.fb.org/events/afbf-annual-convention/events-experiences/">Events &amp; Experiences</a></li>
+                        <li><a href="https://www.fb.org/events/afbf-annual-convention/call-for-speakers/">Call for Speakers</a></li>
                       
-                        <li><a href="https://www.fb.org/events/afbf-annual-convention/workshops/">Educational Workshops</a></li>
-                      
-                        <li><a href="https://www.fb.org/events/afbf-annual-convention/ideag-trade-show/">IDEAg Trade Show</a></li>
-                      
-                        <li><a href="https://www.fb.org/events/afbf-annual-convention/travel-hotel/">Travel &amp; Hotel</a></li>
-                      
-                        <li><a href="https://www.fb.org/events/afbf-annual-convention/sponsor/">Sponsorship Opportunities</a></li>
+                        <li><a href="https://www.fb.org/events/afbf-annual-convention/trade-show/">Trade Show</a></li>
                       
                     </ul>
                   
                 </li><li>
-                  <a href="https://www.fb.org/events/2019-fusion-conference/">2019 FUSION Conference</a>
+                  <a href="https://www.fb.org/events/2019-farm-bureau-county-leader-week/">2019 Farm Bureau County Leader Week</a>
                   
                 </li>
             </ul>
@@ -320,6 +406,17 @@
             <ul class="dropdown-menu">
               <li>
                   <a href="https://www.fb.org/programs/">Overview</a>
+                  
+                </li><li class="dropdown-submenu">
+                  <a href="https://www.fb.org/programs/learning-for-farm-bureau/">Learning for Farm Bureau</a>
+                  
+                    <ul class="dropdown-menu">
+                      
+                        <li><a href="https://www.fb.org/programs/learning-for-farm-bureau/county-activities-of-excellence/">County Activities of Excellence</a></li>
+                      
+                        <li><a href="https://www.fb.org/programs/learning-for-farm-bureau/farm-bureau-university/">Farm Bureau University</a></li>
+                      
+                    </ul>
                   
                 </li><li class="dropdown-submenu">
                   <a href="https://www.fb.org/programs/young-farmers-and-ranchers/">Young Farmers &amp; Ranchers</a>
@@ -346,22 +443,14 @@
                 </li><li>
                   <a href="https://www.fb.org/programs/promotion-education/">Promotion &amp; Education</a>
                   
-                </li><li class="dropdown-submenu">
-                  <a href="https://www.fb.org/programs/learning-development/">Learning &amp; Development</a>
-                  
-                    <ul class="dropdown-menu">
-                      
-                        <li><a href="https://www.fb.org/programs/learning-development/county-activities-of-excellence/">County Activities of Excellence</a></li>
-                      
-                        <li><a href="https://www.fb.org/programs/learning-development/farm-bureau-university/">Farm Bureau University</a></li>
-                      
-                    </ul>
-                  
                 </li><li>
                   <a href="https://www.fb.org/programs/pal-partners-in-advocacy-leadership/">PAL - Partners in Advocacy Leadership</a>
                   
                 </li><li>
                   <a href="https://www.fb.org/programs/patriot-project/">Patriot Project</a>
+                  
+                </li><li>
+                  <a href="https://www.fb.org/programs/safety-health/">Safety &amp; Health</a>
                   
                 </li>
             </ul>
@@ -378,22 +467,13 @@
                   
                     <ul class="dropdown-menu">
                       
-                        <li><a href="https://www.fb.org/advocacy/action-alerts/clean-water-clear-rules/">CLEAN WATER, CLEAR RULES: Take a Stand for Clean Water and Clear Rules</a></li>
+                        <li><a href="https://www.fb.org/advocacy/action-alerts/delisting-gray-wolf/">DELISTING GRAY WOLF: Success! Support the Trump Administration and the US Fish &amp; Wildlife Service rule.</a></li>
+                      
+                        <li><a href="https://www.fb.org/advocacy/action-alerts/family-farmer-relief-act/">FAMILY FARMER RELIEF ACT: Ask Congress to support changes to Chapter 12 Bankruptcy.</a></li>
                       
                         <li><a href="https://www.fb.org/advocacy/action-alerts/share-your-story/">SHARE YOUR VIDEO STORY: Trade</a></li>
                       
-                        <li><a href="https://www.fb.org/advocacy/action-alerts/regulatory-reform-usda-wants-to-hear-from-you/">REGULATORY REFORM: USDA Wants to Hear from You!</a></li>
-                      
                     </ul>
-                  
-                </li><li>
-                  <a href="https://www.fb.org/advocacy/congressional-voting-record/">Congressional Voting Record</a>
-                  
-                </li><li>
-                  <a href="https://www.fb.org/advocacy/sys-wotus/">Share Your Story - WOTUS</a>
-                  
-                </li><li>
-                  <a href="https://www.fb.org/advocacy/golden-plow/">The Golden Plow Award</a>
                   
                 </li>
             </ul>
@@ -468,9 +548,9 @@
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="108">
 <input type="hidden" name="results_page" value="/search/results">
-<input type="hidden" name="honey" value="field_c52d5db6da54c4f03a0525c334fa146e9b820672">
+<input type="hidden" name="honey" value="field_70387d9e1b2bcf37102dab4584a55d839721d91f">
 <input type="hidden" name="site_id" value="1">
-<input type="hidden" name="csrf_token" value="4996c04d0ea49507af81366b6958f837468ec602">
+<input type="hidden" name="csrf_token" value="102e6169fde52390eb03dadbab970a5afd48e8e7">
 </div>
 
 
@@ -523,6 +603,10 @@
           
         </li><li>
             
+            <a href="https://www.fb.org/issues/infrastructure/">Infrastructure</a>
+          
+        </li><li>
+            
             <a href="https://www.fb.org/issues/tax-reform/">Tax Reform</a>
           
         </li><li>
@@ -549,11 +633,11 @@
           
         </li><li>
             
-            <a href="https://www.fb.org/events/afbf-annual-convention/">2019 AFBF Annual Convention &amp; IDEAg Trade Show</a>
+            <a href="https://www.fb.org/events/afbf-annual-convention/">AFBF Annual Convention &amp; Trade Show</a>
           
         </li><li>
             
-            <a href="https://www.fb.org/events/2019-fusion-conference/">2019 FUSION Conference</a>
+            <a href="https://www.fb.org/events/2019-farm-bureau-county-leader-week/">2019 Farm Bureau County Leader Week</a>
           
         </li>
       </ul>
@@ -564,6 +648,10 @@
         <li>
             
             <a href="https://www.fb.org/programs/">Section Home</a>
+          
+        </li><li>
+            
+            <a href="https://www.fb.org/programs/learning-for-farm-bureau/">Learning for Farm Bureau</a>
           
         </li><li>
             
@@ -579,15 +667,15 @@
           
         </li><li>
             
-            <a href="https://www.fb.org/programs/learning-development/">Learning &amp; Development</a>
-          
-        </li><li>
-            
             <a href="https://www.fb.org/programs/pal-partners-in-advocacy-leadership/">PAL - Partners in Advocacy Leadership</a>
           
         </li><li>
             
             <a href="https://www.fb.org/programs/patriot-project/">Patriot Project</a>
+          
+        </li><li>
+            
+            <a href="https://www.fb.org/programs/safety-health/">Safety &amp; Health</a>
           
         </li>
       </ul>
@@ -602,18 +690,6 @@
         </li><li>
             
             <a href="https://www.fb.org/advocacy/action-alerts/">Action Alerts</a>
-          
-        </li><li>
-            
-            <a href="https://www.fb.org/advocacy/congressional-voting-record/">Congressional Voting Record</a>
-          
-        </li><li>
-            
-            <a href="https://www.fb.org/advocacy/sys-wotus/">Share Your Story - WOTUS</a>
-          
-        </li><li>
-            
-            <a href="https://www.fb.org/advocacy/golden-plow/">The Golden Plow Award</a>
           
         </li>
       </ul>
@@ -762,16 +838,16 @@
 
           
           <div class="tweet">
-            <a href="https://twitter.com/FarmBureau/statuses/1076183817759739905">
+            <a href="https://twitter.com/nmpf/statuses/1143906533136359424">
               <i class="ion-social-twitter"></i>
-              </a><p><a href="https://twitter.com/FarmBureau/statuses/1076183817759739905">We’re feeling nostalgic as we gear up for </a><a title="Search for AFBF100" href="http://twitter.com/search?q=%23AFBF100">#AFBF100</a>… <a title="Search for FlashbackFriday" href="http://twitter.com/search?q=%23FlashbackFriday">#FlashbackFriday</a> to that time when AFBF President <a title="Zippy Duvall" href="http://twitter.com/ZippyDuvall">@ZippyDuvall</a>… <a title="https://twitter.com/i/web/status/1076183817759739905" href="https://t.co/xHOiYA6xQu">twitter.com/i/web/status/1…</a></p>
+              </a><p><a href="https://twitter.com/nmpf/statuses/1143906533136359424">The passage of </a><a title="Search for USMCA" href="http://twitter.com/search?q=%23USMCA">#USMCA</a> is critical to preserving and strengthening <a title="Search for dairy" href="http://twitter.com/search?q=%23dairy">#dairy</a> export markets. This agreement safeguards… <a title="https://twitter.com/i/web/status/1143906533136359424" href="https://t.co/G0WUW1HKOp">twitter.com/i/web/status/1…</a></p>
             
           </div>
           
           <div class="tweet">
-            <a href="https://twitter.com/FarmBureau/statuses/1076145268813451265">
+            <a href="https://twitter.com/usda_nass/statuses/1143924455749632001">
               <i class="ion-social-twitter"></i>
-              </a><p><a href="https://twitter.com/FarmBureau/statuses/1076145268813451265">The </a><a title="CS Monitor" href="http://twitter.com/csmonitor">@csmonitor</a> recently quoted Dale Moore, AFBF’s executive vice president, in an article about the <a title="Search for 2018FarmBill" href="http://twitter.com/search?q=%232018FarmBill">#2018FarmBill</a>.… <a title="https://twitter.com/i/web/status/1076145268813451265" href="https://t.co/tdoPaRvojV">twitter.com/i/web/status/1…</a></p>
+              </a><p><a href="https://twitter.com/usda_nass/statuses/1143924455749632001">JUST RELEASED: Census of </a><a title="Search for Agriculture" href="http://twitter.com/search?q=%23Agriculture">#Agriculture</a> Congressional District Profiles &amp; Rankings w/ interactive data visualization!… <a title="https://twitter.com/i/web/status/1143924455749632001" href="https://t.co/r2a3mewfuR">twitter.com/i/web/status/1…</a></p>
             
           </div>
           
@@ -781,7 +857,7 @@
 
     <div class="row copyright">
       <div class="col-md-12">
-        <p>© 2018 American Farm Bureau Federation <sup>®</sup> | <a href="/about/legal">legal</a> | <a href="/about/privacy">privacy</a></p>
+        <p>© 2019 American Farm Bureau Federation <sup>®</sup> | <a href="/about/legal">legal</a> | <a href="/about/privacy">privacy</a></p>
       </div>
     </div>
 
@@ -801,18 +877,35 @@
 
 
 
-  <!-- Facebook Pixel Code -->
-  <script>
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-    document,'script','https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '1449208705143329'); // Insert your pixel ID here.
-    fbq('track', 'PageView');
-  </script>
-  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1449208705143329&ev=PageView&noscript=1" /></noscript>
-  <!-- End Facebook Pixel Code -->
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '628935794205639');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=628935794205639&ev=PageView&noscript=1"
+/></noscript>
+
+<script>
+  fbq('track', 'ViewContent', {
+    value: 1,
+    currency: 'USD',
+  });
+</script>
+
+<!-- End Facebook Pixel Code -->
+
+
 
   <!-- Piwik -->
   <script type="text/javascript">
