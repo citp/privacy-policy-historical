@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lovoo.net privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901124001id_/https%3A//www.lovoo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovoo.net privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627213032id_/https%3A//www.lovoo.com/legal/privacy) for the most accurate reproduction.*
 
 # Legal Information LOVOO
 
-**Privacy Statement**
+**[Privacy Statement]**
 
 This privacy statement is valid for the mobile app LOVOO, the site [www.lovoo.com](https://www.lovoo.com/imprint), and additional services offered by LOVOO GmbH which refer to this privacy statement.
 
@@ -26,45 +26,50 @@ LOVOO GmbH does not insist on the use of real names. Users may specify a nicknam
 
 This privacy statement breaks down into the following sections:
 
-## Privacy Statement 
+##  Privacy Statement
+    
+    
+    1. How is my data collected, processed and used when I download the LOVOO app?
+        1.1. LOVOO app download
+        1.2. Installation and access rights
+    2. How does LOVOO collect, process and use my data if I just visit the LOVOO domain or the LOVOO app but do not create a user profile?
+    3. How does LOVOO collect, process and use my data when I use the functions of the LOVOO app or the LOVOO domain after creating a user profile?
+        3.1 Mandatory entries for creating a user profile
+        3.2 Optional details
+        3.3 Location data
+        3.4 IP addresses
+        3.5 Payment data
+    4. How does LOVOO use my  data for advertising?
+        4.1 How is my data used for LOVOO's  own advertising?
+            4.1.1 Audiences
+        4.2. How does LOVOO use my  data for personlized advertising?
+            4.2.1. Which data is used for advertising and who is it given to?
+            4.2.2. What is an advertiser ID and how is it used?
+            4.2.3. Using location data
+            4.2.4. legal basis for the use of personal data for advertising purposes
+    5. Which cookies, tracking and analysis services providers does LOVOO use? How are social media and Like buttons integrated?
+        5.1 Cookies and cookie policy
+        5.2 Tracking, analysis service and security providers
+        5.3 Social media links
+        5.4 Embedded Like/Share buttons and social plug-ins
+        5.5 Facebook-Connect
+    6. How is data disclosed or forwarded?
+        6.1 General notes on the forwarding of personal data
+        6.2 Categories of data recipients
+        6.3 Third countries
+    7. How is data processed and used to prevent and fight fake-profiles, illegal activity and spam and to secure the integrity and stability of the LOVOO platform?
+    8. How is data deleted and back-ups created?
+    9. How does LOVOO ensure data integrity?
+    10. User rights: consent and withdrawal of consent, information, correction, deletion, transfer
+        10.1 Consent and withdrawal of consent
+        10.2 Information, correction, deletion, transfer
+    11. Changes to this privacy statement
+    12. Privacy contact person and data protection officer
+    
 
-  1. How is my data collected, processed and used when I download the LOVOO app?  
-1.1. LOVOO app download  
-1.2. Installation and access rights 
-  2. How does LOVOO collect, process and use my data if I just visit the LOVOO domain or the LOVOO app but do not create a user profile? 
-  3. How does LOVOO collect, process and use my data when I use the functions of the LOVOO app or the LOVOO domain after creating a user profile?  
-3.1 Mandatory entries for creating a user profile  
-3.2 Optional details  
-3.3 Location data  
-3.4 IP addresses  
-3.5 Payment data 
-  4. How does LOVOO use my data for advertising?  
-4.1. Which data is used for advertising and who is it given to?  
-4.2. What is an advertiser ID and how is it used?  
-4.3. Using location data  
-4.4 legal basis for the use of personal data for advertising purposes 
-  5. Which cookies, tracking and analysis services providers does LOVOO use? How are social media and Like buttons integrated?  
-5.1 Cookies and cookie policy  
-5.2 Tracking, analysis service and security providers  
-5.3 Social media links  
-5.4 Embedded Like/Share buttons and social plug-ins  
-5.5 Facebook-Connect 
-  6. How is data disclosed or forwarded?  
-6.1 General notes on the forwarding of personal data  
-6.2 Categories of data recipients  
-6.3. Third countries 
-  7. How is data processed and used to prevent and fight fake-profiles, illegal activity and spam and to secure the integrity and stability of the LOVOO platform? 
-  8. How is data deleted and back-ups created? 
-  9. How does LOVOO ensure data integrity? 
-  10. User rights: consent and withdrawal of consent, information, correction, deletion, transfer  
-10.1 Consent and withdrawal of consent  
-10.2 Information, correction, deletion, transfer 
-  11. Changes to this privacy statement 
-  12. Privacy contact person and data protection officer
+  1. How is my data collected, processed and used when I download the LOVOO app?
 
 
-
-## 1\. How is my data collected, processed and used when I download the LOVOO app?
 
 * * *
 
@@ -100,15 +105,13 @@ The set of data contains:
 
   * push handle (for sending push messages)
 
-  * location data (GPS location)
+  * location data (GPS location), if the user has granted such a permission on the device.
 
   * country code
 
   * language
 
-  * device name
-
-  * name and version of operating system.
+  * device data, like manufacturer, device type, advertising-id, operating system and version of operating system.
 
 
 
@@ -123,7 +126,9 @@ LOVOO also uses cookies (see section 5.1), analysis services and tracking provid
 
 Unless the user explicitly consents, LOVOO GmbH uses the personal data disclosed by the user or generated when using LOVOO after creating a user profile solely for performance of the contractual relationship and as is necessary for the purposes of the legitimate interests pursued by LOVOO GmbH use as described in this privacy statement. Proper use of LOVOO to the full extent requires the user to create a user profile. This involves entering further personal data which LOVOO GmbH uses to provide the service agreed.
 
-### 3.1 Mandatory entries for creating a user profile
+### 3.1. Data that you have provided to us
+
+#### 3.1 Mandatory entries for creating a user profile
 
 You must enter the following details to register and create a user profile:
 
@@ -146,9 +151,9 @@ You must enter the following details to register and create a user profile:
 
 We collect, process and use the data you enter so that you can use LOVOO. Among other things it helps us address and authenticate you, verify your age, personalise your profile, display matching user profiles and (in pseudonymous form) to show you ads (see section 4).
 
-We delete this data when you delete your account. The legal basis for this processing of personal data is Article 6 (1) b) of the EU General Data Protection Regulation (GDPR).
+We delete this data when you delete your account. The legal basis for this processing of personal data is Article 6 (1) b) or Article 6 (1) f) of the EU General Data Protection Regulation (GDPR).
 
-### 3.2 Optional details
+#### 3.1.2 Optional details
 
 You may add many optional details to your user profile or enter search parameters. They particularly help LOVOO to select other user profiles by various criteria, suggest them to the user and display them in LOVOO. Additional details increase the probability of getting in touch with matching user profiles. However, these details are entirely optional, and the user can see, enter, modify or delete them in the Details section of the profile,
 
@@ -156,9 +161,9 @@ We collect, save and use the data you enter so that you can use LOVOO.
 
 Whereas these optional details are visible as "public" information to other logged-in LOVOO users, the user owning the affected user profile can modify or delete them at any time via the Preferences section of the profile. This data may also be used for ads (see section 4 for information about advertising).
 
-We delete this data when you delete your account. The legal basis for this processing of personal data is Article 6 (1) b) of the EU General Data Protection Regulation (GDPR).
+We delete this data when you delete your account. The legal basis for this processing of personal data is Article 6 (1) b) or Article 6 (1) f)of the EU General Data Protection Regulation (GDPR).
 
-### 3.3 Location data
+#### 3.1.3 Location data
 
 LOVOO's offering includes so-called location-based services which display specific choices tailored to the user's location. A user can therefore be shown other users in the vicinity. To be able to provide these functions within the LOVOO app, LOVOO collects location data by means of GPS of the terminal device concerned as well as location data of nearby radio access nodes. Provided that the site survey is enabled, and permission is granted, the location will be periodically transferred to LOVOO GmbH and will be respectively processed and used.
 
@@ -168,23 +173,83 @@ Users can change this functionality at any time by displaying the Preferences of
 
 Location data will also be used for advertising purposes, if the user has not objected to this in the app settings. (See section 4 for information about advertising).
 
-We store this data for up to 14 days. The legal basis for this processing of personal data is Article 6 (1) b) or f) of the EU General Data Protection Regulation (GDPR).
+We store location data unshortend for up to 14 days and shortened up to 90 days. The legal basis for this processing of personal data is Article 6 (1) b) or f) of the EU General Data Protection Regulation (GDPR).
 
-### 3.4 IP addresses
+### 3.2. Data that recieve by you usage of the LOVOO platform.
 
-We keep the users' IP addresses for safety and checking purposes. The aim is to prevent abuse of the service. This data is used to prevent and fight fake-profiles, illegal activity and spam and to secure the integrity and stability of the LOVOO platform. For this purpose, we store the full data up to 90 days. The legal basis for this processing of personal data is Article 6 (1) f) of the EU General Data Protection Regulation (GDPR).
+#### 3.2.1 IP addresses and network data
 
-For technical reasons the IP address will be transferred to advertising partner, see below. LOVOO GmbH has selected its advertising partners with due diligence to ensure that your privacy is protected by contractual restrictions and the law.
+We keep the users' IP addresses and the associated network data (e.g. the country in which the IP address is registered) for safety and checking purposes. The aim is to prevent abuse of the service.
 
-### 3.4 Payment data
+This data is used to prevent and fight fake-profiles, illegal activity and spam and to secure the integrity and stability of the LOVOO platform. For this purpose, we store the full data up to 90 days, after that until you delete your profile. The legal basis for this processing of personal data is Article 6 (1) f) of the EU General Data Protection Regulation (GDPR).
+
+For technical reasons the IP address will be transferred to advertising partner, see below at 4. LOVOO GmbH has selected its advertising partners with due diligence to ensure that your privacy is protected by contractual restrictions and the law.
+
+#### 3.2.2 Device Data
+
+When using the app or the website, we receive information about the devices used, such as the manufacturer, operating system, advertising ID.
+
+The data is used to prevent and combat fake profiles, illegal actions and spam as well as the safeguarding of the integrity and stability of the LOVOO platform.
+
+For this purpose, we store the collected data for up to 90 days in complete form and delete this data when you delete your user account. The legal basis for this processing of personal data is Art. 6 I f) EU-DSGVO.
+
+#### 3.2.3. Event data
+
+When using the app or the platform, we receive information about your actions (a so-called event) in the app or on the platform, for example when you search for users by clicking data, a match is created or you send messages.
+
+The data provided will be stored, processed and used by us for the purpose of using LOVOO. In particular, this serves LOVOO's function of selecting recommendations for other user profiles according to different criteria for the user and displaying them within LOVOO. This additional information increases the probability of coming into contact with suitable user profiles. This data is an important part of understanding which profiles are likely to be of interest to you and which profiles you would like us to display.
+
+This data is also stored, processed and used to prevent and combat fake profiles, illegal actions and spam as well as to ensure the integrity and stability of the LOVOO platform.
+
+We delete this data when you delete your user account.
+
+The legal basis for this processing of personal data is Art. 6. I lit. b) EU-DSGVO or Art. 6 I lit. f) EU-DSGVO.
+
+### 3.3 Payment data
 
 External payment service providers handle the transactions involved when a user does any In-App purchases via LOVOO, buys credits or subscribes to our chargeable premium service. LOVOO GmbH neither collects nor processes any payment data of shopping transactions. Instead, the payment service providers take care of entering and processing the payment data directly. All that LOVOO GmbH and the payment service providers do is to exchange technical data (e.g. the transaction ID) in order to validate the purchases. We save this data until your user account is deleted or beyond this point, until a time when the data is no longer subject to any tax-related, commercial or other statutory storage obligations. The legal basis for this processing of personal data is Article 6 (1) b) of the EU General Data Protection Regulation (GDPR).
 
 ## 4\. How does LOVOO use my data for advertising?
 
+We use data for adveristing in two regards:
+
+  1. For our own advertising
+  2. To display personalized advertising.
+
+
+
+### 4.1 How is my data used for LOVOO's own advertising?
+
+We display ads of our own to our users on our platform and also inform them by e-mail, e.g. about one-off campaigns, discounted package prices or similar offers. In order to be able to display suitable offers, we use information provided by the user (such as profile data) and information that we automatically receive through the use of our platform.
+
+The user can object to the use for advertising purposes at any time by deactivating personalised advertising in the app settings under Privacy and or in his device settings or in the settings on the website.
+
+The data transfer takes place exclusively as described under 6.
+
+The legal basis for this processing is the legitimate interest of LOVOO according to Art. 6 I lit. f DSGVO.
+
+#### 4.1.1. Audiences
+
+We also use Audience offers from the following providers for our own advertising:
+
+  * [Facebook Audiences](https://www.facebook.com/legal/terms/customaudience)
+  * Snapchat Audiences
+
+
+
+herinafter Audience Providers.
+
+For this purpose, we transfer the e-mail addresses of selected users to the AudienceAprovider in a hashed form. This means that the email address [max.mustermann@lovoo.com](mailto:max.mustermann@lovoo.com) will be transmitted as 73b6756115fdeba0f42b63649d986d5c8d60932e890c0355308967c10f72d058. The Audience Provider will never receive the email address in plain text. This hashed email address is used by the Audience Provider to dsiplay our advertisements to people who have a similar profile as the user.
+
+The user can object to this at any time by deactivating personalized advertising in the app settings under Privacy and or in his device settings or in the settings on the website.
+
+The legal basis for this processing is the legitimate interest of LOVOO according to Art. 6 I lit. f DSGVO.
+
+### 4.2. How does LOVOO use my data for personlized advertising?
+
 LOVOO GmbH decided to run LOVOO as a freemium service which lets every user obtain a basic LOVOO version free of charge. Users of the free version will be shown ads. The ads shown in LOVOO contain our own advertising matters (such as the premium products of LOVOO) or content ordered by an advertising firm in so-called campaigns. Campaigns may be personalised to tailor them to specific user groups (e.g., ads for cosmetic products just for female or male users; skateboard ads only for persons under 25, etc.). Some ads shown in LOVOO are mediated by external service providers.
 
-### 4.1. Which data is used for advertising and who is it given to?
+### 4.2.1. Which data is used for advertising and who is it given to?
 
 LOVOO GmbH can use LOVOO to show third-party ads which may be tailored to the users' assumed specific interests (personalised ads) or targeted to certain user groups grouped by age, location or gender. The users can object to the use of its data in the privacy settings of the app. We and our advertising partners will only use non-sensitive data, that the you have published on LOVOO and information about your device and your connection. Under no circumstances will we share your name, your e-mail address, your profile picture or your exact location or similar data that allows a direct inference of your real person with our advertising partners.
 
@@ -207,7 +272,7 @@ Whenever such personalised ads are shown, the third-party provider whose ad is s
 
 Forwarded data is disclosed to the following categories of recipients for the purposes explained:
 
-  * ad server services operators
+  * ad network operators, including [MoPub](https://www.mopub.com/legal/privacy/) and its [Partners](https://www.mopub.com/legal/partners) and [Teads](https://www.teads.tv/privacy-policy/) and [Smaato](https://www.smaato.com/privacy/)
 
   * tracking services operators
 
@@ -220,7 +285,7 @@ Forwarded data is disclosed to the following categories of recipients for the pu
 
 
 
-**You can object to this processing at any time by going to the privacysettings of the LOVOO app and. You can also reset your Advertising ID in your device settings. In that case a new Advertising ID is created which will not be joined with older data. With this you can ensure, that you will not see any ads based on the forwarded data before you have objected to the transfer.**
+**You can object to this processing for the future at any time by going to the privacy settings of the LOVOO app or the device settings. You can also reset your Advertising ID in your device settings. In that case a new Advertising ID is created which will not be joined with older data. With this you can ensure, that you will not see any ads based on the forwarded data before you have objected to the transfer.**
 
 All our partners are obligated to process forwarded data only on accordance with the high data protection principles of the European Union and only for advertising purposes. This means, that all partners are obligated no not identify the real user / or remove the Pseudonymity of the data.
 
@@ -237,7 +302,7 @@ Forwarded data is transferred to the following countries:
 
 The Privacy Shield treaty, the Adequacy decision and the EU Standard Contract Clause can be reviewed at the website of the EU commission (<https://ec.europa.eu/info/law/law-topic/data-protection_en>)
 
-### 4.2. What is an advertiser ID and how is it used?
+### 4.2.2. What is an advertiser ID and how is it used?
 
 For tracking and advertising, the LOVOO app uses the so-called advertiser ID, i.e. the "Advertiser Identifier" (IDFA) for offerings of Apple Inc. and the "Android Advertiser ID" (advertiser ID) for offerings of Google. Inc. (jointly the " **advertiser ID(s)** "). These advertiser IDs are unique non-permanent numbers identifying a specific terminal device. They are provided by iOS for offerings of Apple Inc. or by Android for offerings of Google Inc. As opposed to vendor advertiser IDs (generated by latest-generation operating systems and identical for the apps of just one provider), the advertiser ID is the same as the one transferred to other companies when running their apps. The user can deactivate the generation of the Advertiser-ID. On an apple device this can be done in the iOS preferences, under "Privacy" -- "Ads" by enabling the option "no ad tracking"; for a user owning an Android this can be achieved by opening the "Google Settings" (or first "Settings" and then "Google"), clicking on "Display" and ticking the option "Disable personalised ads. The Advertiser ID is pseudonymous and LOVOO GmbH will not be joined with other user data to identify him for advertising purposes.
 
@@ -247,21 +312,25 @@ For further details and Apple Inc.'s privacy policy visit: <https://www.apple.co
 
 For further details and Google Inc.'s privacy policy visit: <https://www.google.de/intl/de/policies/privacy/>
 
-### 4.3. Using location data
+### 4.2.3. Using location data
 
 Apart from collecting the location data by running GPS Location (see section 3.3) to enable the location-based services, LOVOO GmbH collects and uses other location data to show the user ads in LOVOO tailored to the user's location and profile. LOVOO GmbH will never forward the exact location to our advertising partners. To protect your privacy all provided location data is coarse by around 2 km. To our knowledge with this data the identification of an individual is not or only with an unreasonable and illegal measures possible.
 
 **For users that are sensitive to privacy question, we offer a separate option in the apps privacy settings to object of the use of location data for the future.**
 
-### 4.4 legal basis for the use of personal data for advertising purposes
+### 4.2.4. legal basis for the use of personal data for advertising purposes
 
-LOVOO GmbH bases the processing of sharing of the above data on the performance of the contract with you (Article 6 (1) b) GDPR in connection with Nr. 11.2. of our Terms of Service) and the legitimate interests pursued by us (Article 6 (1) f) GDPR).
+LOVOO GmbH bases the processing of sharing of the above data on the performance of the contract with you (Article 6 (1) b) GDPR in connection with Nr. 11.2. of our Terms of Service), your consent (Article 6 (1) a) GDPR) and the legitimate interests pursued by us (Article 6 (1) f) GDPR).
 
 We offer our users a service under the Freemium model, which means, that certain parts of LOVOO are free to use. In Exchange for using the LOVOO platform without charge, LOVOO GmbH displays personalized advertisings and process and shares pseudonymous data as specified above.
 
 Pre-requirement for all data transfer is that the recipient ensures by contractual, legal, technical and organizational measure that the data processing is always in compliance with privacy law.
 
+The users consents to the data use and transfer to the recpients above when using the free version of the app.
+
 We have decided to only share data, which -- even in the event of an unlawful disclosure or by hacking of our partners -- is not sensitive for individual users. We thus only share data in pseudonymous form and only data that the user has made public or is -- by its nature -- not sensitive like device and network data.
+
+LOVOO will only pass on data that has been voluntarily made public on the LOVOO platform by the user and therefore shows a low level of sensitivity to the user and device or connection data which, due to their very nature, have are not sensitive.
 
 ### 5.1 Cookies and cookie policy
 
