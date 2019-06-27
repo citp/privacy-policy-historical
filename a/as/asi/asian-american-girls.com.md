@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asian-american-girls.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225002206id_/http%3A//www.asian-american-girls.com/compliance/privacypolicy.php%3Fsite%3Dasian-american-girls.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asian-american-girls.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627042234id_/http%3A//www.asian-american-girls.com/compliance/privacypolicy.php%3Fsite%3Dasian-american-girls.com) for the most accurate reproduction.*
 
-# asian-american-girls.com - GDPR Policy
+# asian-american-girls.com GDPR Policy
 
 GDPR PRIVACY POLICY
 
