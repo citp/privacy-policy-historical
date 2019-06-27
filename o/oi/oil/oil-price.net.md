@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oil-price.net privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221184338id_/http%3A//www.oil-price.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oil-price.net privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627200520id_/http%3A//www.oil-price.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
