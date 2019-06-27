@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diffbot.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226124811id_/https%3A//www.diffbot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffbot.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627075148id_/https%3A//www.diffbot.com/privacy) for the most accurate reproduction.*
 
 # Diffbot | Privacy Policy
 
@@ -20,9 +20,9 @@ Our Contact information is:  
 
 Diffbot Technologies Corp.
 
-451 North Shoreline Blvd.
+333 Ravenswood Ave
 
-Mountain View, CA 94043
+Menlo Park, CA 94025
 
 PHONE: 1 (855) 885-4800
 
