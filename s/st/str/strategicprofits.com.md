@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strategicprofits.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031114746id_/https%3A//sites.agorafinancial.com/SHF/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategicprofits.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627183859id_/https%3A//sites.agorafinancial.com/SHF/privacy.html) for the most accurate reproduction.*
 
 # Strategic Profits - Privacy Policy
 
