@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebscohost.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212052236id_/https%3A//www.ebsco.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebscohost.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627152342id_/https%3A//www.ebsco.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy Policy | EBSCO
 
   * EIS PRODUCTS AND SERVICES PRIVACY POLICY
   * EIS WEBSITE PRIVACY POLICY
@@ -11,9 +11,9 @@
 
 **EIS PRODUCTS AND SERVICES PRIVACY POLICY**
 
-LAST UPDATED: September 19, 2018
+LAST UPDATED: May 8, 2019
 
-EBSCO Information Services Division of EBSCO Industries, Inc. and its applicable subsidiaries*, EBSCO Publishing, Inc. and its subsidiaries, DynaMed, LLC, and Yankee Book Peddler, Inc. dba GOBI Library Solutions from EBSCO (collectively, “EBSCO Information Services” or “we” or “us” or “our”) respect your privacy and are committed to protecting it through our compliance with this Privacy Policy.
+EBSCO Information Services Division of EBSCO Industries, Inc. and its applicable subsidiaries*, EBSCO Publishing, Inc. and its subsidiaries, EBSCO International, Inc. and its applicable subsidiaries, DynaMed, LLC, and Yankee Book Peddler, Inc. dba GOBI Library Solutions from EBSCO (collectively, “EBSCO Information Services” or “we” or “us” or “our”) respect your privacy and are committed to protecting it through our compliance with this Privacy Policy.
 
 EBSCO Information Services wants you to have a positive experience in connection with our products and services. We want you to know that we respect the privacy and security of our users. Our goal is to provide you with an experience that delivers the information, resources and services that are helpful to you. In order to achieve this goal, we may collect information from you. We discuss our information collection practices below. This Privacy Policy sets forth the privacy principles we follow, in accordance with our operations.
 
@@ -44,7 +44,7 @@ Attn: Data Privacy Officer, Legal Department
 
 **1\. Personal Information:** information that identifies you as an individual or relates to an identifiable individual, including: name, title, date of birth, unique identifier (e.g., account number), company name, job function, expertise, postal address, telephone number, email address, credit card information, geolocation, certain device information, and IP address. If you submit any Personal Information relating to other people to us or to our service providers in connection with our Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
-**2\. Non-Personal Information:   ** information that does not directly reveal your identity or does not directly relate to an identifiable individual. This might include a unique identifier (unconnected to your username or IP address) and related analytics and usage information that we use to track usage of our Services, track trends in our Services, administer the Services, and improve our users’ experience. 
+**2\. Non-Personal Information:  **information that does not directly reveal your identity or does not directly relate to an identifiable individual. This might include a unique identifier (unconnected to your username or IP address) and related analytics and usage information that we use to track usage of our Services, track trends in our Services, administer the Services, and improve our users’ experience. 
 
 **B.    How Do We Collect the Information?**
 
@@ -54,7 +54,7 @@ Under limited circumstances, we also collect limited business contact informatio
 
 In order to use some of the unique functions within our Services, a user must first complete a registration form or provide an email address that will require the user’s disclosure of limited Personal Information. Such disclosure is strictly voluntary. In addition, and in order to contact us by email, however, you must provide an email address.
 
-We automatically collect non-Personal Information  generated from your use of our Services. We use this non-Personal Information in the aggregate. We do not combine these types of non-Personal Information with Personal Information.
+We automatically collect non-Personal Information generated from your use of our Services. We use this non-Personal Information in the aggregate. We do not combine these types of non-Personal Information with Personal Information.
 
 **Cookies:**   EBSCO and our third-party partners may place a "cookie" or other tracking or information gathering device used in the industry in the browser files of a user's computer. A cookie is a piece of data stored on the user's hard drive containing information about the user.  We use cookies to collect information about your use of our Services, which enable us to track and target the interests of our users.  We then use that information to solely enhance the user’s experience within our Services.  We also use cookies from third-parties for analytics purposes.  Third-party cookies are covered by the third-party’s privacy policy.
 
@@ -108,7 +108,7 @@ In addition, some of our Services use cookies provided by third-parties in order
   
 ---|---|---  
   
-BizSum.com, Flipster App (Mobile), EBSCONET.com, DynaMed, DynaMed Plus
+Accel-5.com, Flipster App (Mobile), EBSCONET.com, DynaMed, DynaMed Plus
 
 | 
 
@@ -146,7 +146,7 @@ A third-party cookie provided by FullStory, Inc. that tracks your use of the Web
 
 The information collected is not accessed by Full Story and is subject to this Privacy Policy.  
   
-BizSum.com
+Accel-5.com
 
 | 
 
@@ -170,7 +170,7 @@ Analytics Cookies from Cxense
 
 A third-party cookie provided by Cxense, Inc. that collects data about your activities within the Services and on [www.cxense.com](http://www.cxense.com/) to provide you personalized content and services, but does not personally or directly identify you.  
 
-You can find out more about Cxense’s privacy policy concerning its personalization features at [Cxense privacy policy](https://www.cxense.com/about-us/privacy-policy).
+You can find out more about Cxense’s privacy policy concerning its personalization features at  _[Cxense privacy policy](https://www.cxense.com/about-us/privacy-policy)_.
 
 You can opt out of being tracked by Cxense across all websites [here](https://www.cxense.com/preferences?optOutStatus=false). You may also be able to opt out by setting your DNT header on your browser.  For more info on setting your DNT header, please visit [DNT header info](http://donottrack.us/).  
   
@@ -194,11 +194,9 @@ We also reserve the right to disclose your Personal Information if we are requir
 
 We will not use your Personal Information for automated-decision making.
 
-In the unlikely event that all or substantially all of the assets of EBSCO Publishing, Inc., DynaMed, LLC, EBSCO Industries, Inc. or Yankee Book Peddler, Inc. are acquired, customer information, which may include Personal Information, may be one of the transferred assets unless restricted by applicable local law.
+In the unlikely event that all or substantially all of the assets of EBSCO Information Services or any of its applicable subsidiaries are acquired, customer information, which may include Personal Information, may be one of the transferred assets unless restricted by applicable local law, in which case the acquiring entity will be subject to the same commitments for such customer information.
 
-In the unlikely event that all or substantially all of the assets of EBSCO Information Services are acquired, customer information, which may include Personal Information, may be one of the transferred assets unless restricted by applicable local law.
-
-**D.    What is our legal basis for collecting and using your Personal Information? (EEA Only)**
+**D.    What is our legal basis for collecting and using your Personal Information? (EU and EEA Only)**
 
 Our legal basis for collecting and using the Personal Information described above will depend on the Personal Information concerned and the specific context in which we collect it.
 
@@ -233,7 +231,7 @@ We will respond to your request within thirty (30) days of receipt.
 
 If you have granted consent, you can withdraw your consent at any time with future effect. Please address your withdrawal by contacting us in writing or by email at the contact information stated above.  
 
-If you are located in the EU, after May 25, 2018, you have the right to lodge a complaint with a supervisory authority in relation to the processing of your Personal Information.
+If you are located in the EU or EEA, after May 25, 2018, you have the right to lodge a complaint with a supervisory authority in relation to the processing of your Personal Information.
 
 **G.   What Choices Do I Have?**
 
@@ -263,17 +261,17 @@ If we process your Personal Information based on our legitimate interests, you c
 
 **EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
 
-EBSCO Information Services complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union, the European Economic Area (EEA) or Switzerland to the United States. EBSCO Information Services has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Frameworks and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List at [<https://www.privacyshield.gov/list>].
+EBSCO Industries, Inc. and its subsidiaries EBSCO International, Inc., EBSCO Publishing, Inc. dba EBSCO Information Services, DynaMed, LLC, Plastic Research and Development Corporation dba PRADCO Outdoor Brands, Summit Treestands, LLC, Luxor Workspaces, LLC, and Yankee Book Peddler, Inc. dba GOBI Library Solutions from EBSCO (collectively, the “EBSCO Covered Entities”) comply with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (collectively, “Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union, the European Economic Area (EEA), or Switzerland to the United States in reliance on Privacy Shield.  The EBSCO Covered Entities have certified to the Department of Commerce that they adhere to the Privacy Shield Principles with respect to such Personal Information.  If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Frameworks and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
-This Privacy Policy describes the types of Personal Information we collect, the types of third parties to which we disclose this information, and the purposes for which we do so. Residents of the EU and Switzerland have the right to access the Personal Information that EBSCO Information Services maintains, and in some cases, may have the right to correct or amend Personal Information that is inaccurate or has been processed in violation of the Privacy Shield Principles, to the extent allowed by law. To exercise this right, contact us at [privacy@ebsco.com](mailto:privacy@ebsco.com).
+This Privacy Policy describes the types of Personal Information we collect, the types of third parties to which we disclose this information, and the purposes for which we do so.  Residents of the EU, EEA, and Switzerland have the right to access the Personal Information that the EBSCO Covered Entities maintain, and in some cases, may have the right to correct or amend Personal Information that is inaccurate or has been processed in violation of the Privacy Shield Principles, to the extent allowed by law.  To exercise this right, contact us at [privacy@ebsco.com](mailto:privacy@ebsco.com).
 
-EBSCO Information Services remains liable if it transfers Personal Information to third parties who process this Personal Information in a manner inconsistent with the Privacy Shield Principles.
+The EBSCO Covered Entities remain liable if they transfer Personal Information to third parties who process this Personal Information in a manner inconsistent with the Privacy Shield Principles.
 
-With respect to Personal Information received or transferred pursuant to the Privacy Shield Frameworks, EBSCO Information Services is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, EBSCO Information Services may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to Personal Information received or transferred pursuant to the Privacy Shield Frameworks, the EBSCO Covered Entities are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, the EBSCO Covered Entities may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-In compliance with the Privacy Shield Principles, EBSCO Information Services commits to resolve complaints about our collection or use of your Personal Information.  EU and Swiss individuals with inquiries or complaints may contact EBSCO Information Services by mail at 5724 Highway 280 E, Birmingham, AL 35242 USA, Attn: Data Privacy Officer or by email at privacy@ebsco.com.  EBSCO Information Services has further committed to refer unresolved Privacy Shield complaints to an alternative dispute resolution provider located in the U.S.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+In compliance with the Privacy Shield Principles, the EBSCO Covered Entities commit to resolve complaints about their collection or use of your Personal Information.  EU, EEA, and Swiss individuals with inquiries or complaints may contact the EBSCO Covered Entities by mail at 5724 Highway 280 E, Birmingham, AL 35242 USA, Attn: Data Privacy Officer or by email at [privacy@ebsco.com](mailto:privacy@ebsco.com).  The EBSCO Covered Entities have further committed to refer unresolved Privacy Shield complaints to an alternative dispute resolution provider located in the U.S.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.  
+Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **Questions**
 
@@ -283,7 +281,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 **Changes to Privacy Policy**
 
-We will notify you of changes to this Privacy Policy by posting an updated policy on this page. You acknowledge that any use of our Services is based on this Privacy Policy, current at the time of use.  If we make any material changes, we will notify you by means of a notice via the Services prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We will notify you of changes to this Privacy Policy by posting an updated policy on this page. You acknowledge that any use of our Services is based on this Privacy Policy, current at the time of use.  If we make any material changes, we will notify you by email notification or a notice via the Services (such as a banner or pop-up) prior to the changes becoming effective and provide you with the ability to consent to these changes (such as an "I agree" or "OK" button, or a prominent statement indicating the changes are in effect and continued use of the Services signifies consent). We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **Miscellaneous**
 
@@ -355,9 +353,9 @@ Poland
   
 **EIS WEBSITE PRIVACY POLICY**
 
-LAST UPDATED: September 19, 2018
+LAST UPDATED: May 8, 2019
 
-EBSCO Information Services Division of EBSCO Industries, Inc. and its applicable subsidiaries*, EBSCO Publishing, Inc. and its subsidiaries, DynaMed, LLC and Yankee Book Peddler, Inc. dba GOBI Library Solutions from EBSCO(collectively “EBSCO” or “we”), respect your privacy and are committed to protecting it through our compliance with this Privacy Policy.
+EBSCO Information Services Division of EBSCO Industries, Inc. and its applicable subsidiaries*, EBSCO Publishing, Inc. and its subsidiaries, EBSCO International, Inc. and its applicable subsidiaries, DynaMed, LLC and Yankee Book Peddler, Inc. dba GOBI Library Solutions from EBSCO (collectively “EBSCO” or “we”), respect your privacy and are committed to protecting it through our compliance with this Privacy Policy.
 
 EBSCO Information Services wants you to have a positive experience at the websites we operate. We want you to know that we respect the privacy and security of our users. Our goal is to provide you with an experience that delivers the information, resources and services that are helpful to you. In order to achieve this goal, we may collect information from you. We discuss our information collection practices below. This Privacy Policy sets forth the privacy principles we follow, in accordance with our operations.
 
@@ -393,9 +391,7 @@ Attn: Data Privacy Officer, Legal Department
 
 We only collect and use Personal Information when you voluntarily provide it to us, with the exception of your geolocation and IP address which may be automatically captured when you access our Websites. In order to use some portions of our Websites, a user must first complete a registration form or provide an e-mail address that will require disclosure of Personal Information. In addition, in order to apply for employment with EBSCO Information Services, you will have to disclose Personal Information regarding your identity and employment history. Such disclosure is strictly voluntary. In order to contact us by e-mail, however, you must provide an e-mail address.
 
-Under limited circumstances, we also collect limited business contact information from legitimate third parties. This helps us to update or expand our records. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with 
-
-**** information we already have about you, may include name, email address, job title, and, company/institution affiliation **Cookies:**   We may place a "cookie" or other tracking or information gathering device used in the industry in the browser files of a user's computer. A cookie is a piece of data stored on the user's hard drive containing information about the user.  We use cookies to collect information about your use of our Websites, which enable us to track and target the interests of our users to enhance the experience on our Websites.  We also use cookies from third parties for marketing purposes (such as interest-based online advertising) that allow us to display EBSCO Information Services promotional material to you on other sites you visit across the internet partners based on your visit to our Websites (e.g. Remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics and Interest Reporting). Third-party cookies are covered by the third-party’s privacy policy.
+Under limited circumstances, we also collect limited business contact information from legitimate third parties. This helps us to update or expand our records. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include name, email address, job title, and, company/institution affiliation **Cookies:**   We may place a "cookie" or other tracking or information gathering device used in the industry in the browser files of a user's computer. A cookie is a piece of data stored on the user's hard drive containing information about the user.  We use cookies to collect information about your use of our Websites, which enable us to track and target the interests of our users to enhance the experience on our Websites.  We also use cookies from third parties for marketing purposes (such as interest-based online advertising) that allow us to display EBSCO Information Services promotional material to you on other sites you visit across the internet partners based on your visit to our Websites (e.g. Remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics and Interest Reporting). Third-party cookies are covered by the third-party’s privacy policy.
 
 Users can set their browsers or third party software to reject cookies. The means by which you can refuse cookies through your web browser controls vary from browser-to-browser, so we recommend you visit your browser's help menu for more information. Please note that if a user rejects or disables certain cookies, the user may be unable to use portions of our Website. Some of the third-party websites we provide links to also may use cookies. We have no control over these linked Websites or access to or control over cookies or other technology used by linked websites.
 
@@ -514,9 +510,9 @@ We also reserve the right to disclose your Personal Information if we are requir
 
 We will not use your Personal Information for automated-decision making.
 
-In the unlikely event that all or substantially all of the assets of EBSCO Information Services are acquired, customer information, which may include Personal Information, may be one of the transferred assets unless restricted by applicable local law.
+In the unlikely event that all or substantially all of the assets of EBSCO Information Services are acquired, customer information, which may include Personal Information, may be one of the transferred assets unless restricted by applicable local law, in which case the acquiring entity will be subject to the same commitments for such customer information.
 
-**D.    What is our legal basis for collecting and using your Personal Information? (EEA Only)**
+**D.    What is our legal basis for collecting and using your Personal Information? (EU and EEA Only)**
 
 Our legal basis for collecting and using the Personal Information described above will depend on the Personal Information concerned and the specific context in which we collect it.
 
@@ -551,7 +547,7 @@ We will respond to your request within thirty (30) days of receipt.
 
 If you have granted consent, you can withdraw your consent at any time with future effect. Please address your withdrawal by contacting us using the contact information stated above.
 
-If you are located in the EU, after May 25, 2018, you have the right to lodge a complaint with a supervisory authority in relation to the processing of your Personal Information.
+If you are located in the EU or EEA after May 25, 2018, you have the right to lodge a complaint with a supervisory authority in relation to the processing of your Personal Information.
 
 **G.   What Choices Do I Have?**
 
@@ -581,17 +577,17 @@ If we process your Personal Information based on our legitimate interests, you c
 
 **EU- U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
 
-EBSCO Information Services complies with the EU-U.S. Privacy Shield Framework  and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union, the European Economic Area (EEA) or Switzerland to the United States.  EBSCO Information Services has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Frameworks and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List at [<https://www.privacyshield.gov/list>].
+EBSCO Industries, Inc. and its subsidiaries EBSCO International, Inc., EBSCO Publishing, Inc. dba EBSCO Information Services, DynaMed, LLC, Plastic Research and Development Corporation dba PRADCO Outdoor Brands, Summit Treestands, LLC, Luxor Workspaces, LLC, and Yankee Book Peddler, Inc. dba GOBI Library Solutions from EBSCO (collectively, the “EBSCO Covered Entities”) comply with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (collectively, “Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union, the European Economic Area (EEA), or Switzerland to the United States in reliance on Privacy Shield.  The EBSCO Covered Entities have certified to the Department of Commerce that they adhere to the Privacy Shield Principles with respect to such Personal Information.  If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Frameworks and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
-This Privacy Policy describes the types of Personal Information we collect, the types of third parties to which we disclose this information, and the purposes for which we do so. Residents of the EU and Switzerland have the right to access the Personal Information that EBSCO Information Services maintains, and in some cases, may have the right to correct or amend Personal Information that is inaccurate or has been processed in violation of the Privacy Shield Principles, to the extent allowed by law. To exercise this right, contact us at [privacy@ebsco.com](mailto:privacy@ebsco.com).
+This Privacy Policy describes the types of Personal Information we collect, the types of third parties to which we disclose this information, and the purposes for which we do so.  Residents of the EU, EEA, and Switzerland have the right to access the Personal Information that the EBSCO Covered Entities maintain, and in some cases, may have the right to correct or amend Personal Information that is inaccurate or has been processed in violation of the Privacy Shield Principles, to the extent allowed by law.  To exercise this right, contact us at [privacy@ebsco.com](mailto:privacy@ebsco.com).
 
-EBSCO Information Services remains liable if it transfers Personal Information to third parties who process this Personal Information in a manner inconsistent with the Privacy Shield Principles.
+The EBSCO Covered Entities remain liable if they transfer Personal Information to third parties who process this Personal Information in a manner inconsistent with the Privacy Shield Principles.
 
-With respect to Personal Information received or transferred pursuant to the Privacy Shield Frameworks, EBSCO Information Services is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, EBSCO Information Services may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to Personal Information received or transferred pursuant to the Privacy Shield Frameworks, the EBSCO Covered Entities are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, the EBSCO Covered Entities may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-In compliance with the Privacy Shield Principles, EBSCO Information Services commits to resolve complaints about our collection or use of your personal information.  EU and Swiss individuals with inquiries or complaints may contact EBSCO Information Services by mail at 5724 Highway 280 E, Birmingham, AL 35242 USA, Attn: Data Privacy Officer or by email at [privacy@ebsco.com](mailto:privacy@ebsco.com).  EBSCO Information Services has further committed to refer unresolved Privacy Shield complaints to an alternative dispute resolution provider located in the U.S.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+In compliance with the Privacy Shield Principles, the EBSCO Covered Entities commit to resolve complaints about their collection or use of your Personal Information.  EU, EEA, and Swiss individuals with inquiries or complaints may contact the EBSCO Covered Entities by mail at 5724 Highway 280 E, Birmingham, AL 35242 USA, Attn: Data Privacy Officer or by email at [privacy@ebsco.com](mailto:privacy@ebsco.com).  The EBSCO Covered Entities have further committed to refer unresolved Privacy Shield complaints to an alternative dispute resolution provider located in the U.S.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.   
+Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **Questions**
 
@@ -601,7 +597,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 **Changes to Privacy Policy**
 
-We will notify you of changes to this Privacy Policy by posting an updated policy on this page. You agree that continued use of the Websites is an acknowledgment and consent to any terms contained in this Privacy Policy, current at the time of use. If we make any material changes we will notify you by means of a notice on this Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We will notify you of changes to this Privacy Policy by posting an updated policy on this page. You agree that continued use of the Websites is an acknowledgment and consent to any terms contained in this Privacy Policy, current at the time of use. If we make any material changes, we will notify you by means of a notice on this Website (such as a banner or pop-up) prior to the changes becoming effective and provide you with the ability to consent to these changes (such as an "I agree" or "OK" button, or a prominent statement indicating the changes are in effect and continued use of the Services signifies consent).  We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **Miscellaneous**
 
