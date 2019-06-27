@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the open.ac.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227075930id_/http%3A//www.open.ac.uk/about/main/strategy-and-policies/policies-and-statements/website-privacy-ou) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open.ac.uk privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627090356id_/http%3A//www.open.ac.uk/about/main/strategy-and-policies/policies-and-statements/website-privacy-ou) for the most accurate reproduction.*
 
 # Privacy at the OU | About The Open University
 
@@ -48,43 +48,53 @@ The Open University needs to collect and process personal data in order to carry
 
 For more information about how we use your information as an enquirer or as a registered website user, please see our 
 
-  * [Enquirer and website privacy notice summary](http://www.open.ac.uk/about/main/sites/www.open.ac.uk.about.main/files/files/ecms/web-content/Enquirer-Privacy-notice-summary.pdf) (.pdf)
-  * [Enquirer and website privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/ecms/web-content/Enquirer-Privacy-notice-summary.pdf) (.pdf)
-  * [Corporate Enquirers and website users](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/Enquirer-privacy-notice-sept-2018.pdf)(.pdf)
+  * [Enquirer and website privacy notice summary](http://www.open.ac.uk/about/main/sites/www.open.ac.uk.about.main/files/files/ecms/web-content/Enquirer-Privacy-notice-summary.pdf)
+  * [Enquirer and website privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/Enquirer-privacy-notice-sept-2018.pdf)
+  * [Corporate Enquirers and website users](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/Enquirer-privacy-notice-sept-2018.pdf)
 
 
 
 If you use OpenLearn or OpenLearn Create, please see their specific privacy notices:
 
   * [OpenLearn’s privacy statement](http://www.open.ac.uk/about/main/strategy-and-policies/policies-and-statements/website-privacy-openlearn)
-  * Openlearn Create (to follow)
+  * [OpenLearn Create](http://www.open.ac.uk/about/main/strategy-and-policies/policies-and-statements/website-privacy-openlearn-create)
 
 
 
 ## Students
 
-If you have registered as an OU student, we will collect and use more information about you in connection with your study, and we will keep long term academic transcript data. For more information, please see our 
+If you have registered as an OU student, we will collect and use more information about you in connection with your study, and we will keep long term academic transcript data.
 
   * [Student privacy notice](http://www.open.ac.uk/students/charter/essential-documents/student-privacy-notice)
-  * [Case study privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/case-study-privacy-notice.pdf) (.pdf)
-  * [Postgraduate Research Student Privacy Notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/pgr-student-privacy-notice.pdf) (.pdf)
+
+
+  * [Case study privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/case-study-privacy-notice.pdf)
+  * [Postgraduate Research Student Privacy Notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/pgr-student-privacy-notice.pdf)
 
 
 
 ### Supplementary student privacy notices
 
-  * [Apprenticeship privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/Apprenticeship-Privacy-Notice.pdf) (.pdf)
-  * [Nursing privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/Nursing-Privacy-Notice.pdf) (.pdf)
-  * [Social Work privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/Social-Work-Privacy-Notice.pdf) (.pdf)
-  * [YASS privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/YASS-privacy-notice.pdf) (.pdf)
+  * [Apprenticeship privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/Apprenticeship-Privacy-Notice.pdf)
+  * [Nursing privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/Nursing-Privacy-Notice.pdf)
+  * [Social Work privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/Social-Work-Privacy-Notice.pdf)
+  * [YASS privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/YASS-privacy-notice.pdf)
 
 
 
 ## Alumni
 
-Our Development Office maintains records on OU alumni (students who have completed an OU qualification), supporters of the University, and individuals who have been identified as a potential supporter of the Open University. For more information, please see the
+Our Development Office maintains records on OU alumni (students who have completed an OU qualification), supporters of the University, and individuals who have been identified as a potential supporter of the Open University.
 
-  * [Alumni and supporters privacy notice](http://giving.open.ac.uk/sites/default/files/2018-05/Privacy_policy_MAY18-TEMP_0.pdf) (.pdf)
+  * [Alumni and supporters privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/alumni-privacy-policy-May-2019.pdf)
+
+
+
+## External organisations
+
+To manage our relationships with external organisations we are required to maintain a variety of records.
+
+  * [Government and External Affairs privacy notice](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/government-and-external-affairs-privacy-notice.pdf)
 
 
 
@@ -92,7 +102,7 @@ Our Development Office maintains records on OU alumni (students who have complet
 
 Some of our apps utilise personal information for functionality purposes. Aas per the iOS and Android app publishing guidelines, each one has an individual privacy policy.
 
-  * [OU Anywhere - iOS and Android](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/ou-anywhere-app-privacy-policy.pdf) (.pdf)
+  * [OU Anywhere - iOS and Android](https://web.archive.org/about/main/sites/www.open.ac.uk.about.main/files/files/ou-anywhere-app-privacy-policy.pdf)
 
 
 
