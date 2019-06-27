@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybrary.it privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229213608id_/https%3A//www.cybrary.it/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybrary.it privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627034209id_/https%3A//www.cybrary.it/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cybrary
 
@@ -88,7 +88,7 @@ We may allow third-party companies to serve ads and collect certain anonymous in
   
 **NOTICE TO CALIFORNIA RESIDENTS/YOUR CALIFORNIA  PRIVACY RIGHTS**
 
-To opt out of sharing your personal information with third parties for their direct marketing purposes, please e-mail us at  _info@cybrary.it_  and clearly state your request, including your name, mailing address, e-mail address and phone number.  Please see “Unsubscribe from Cybrary updates” for additional information. 
+To opt out of sharing your personal information with third parties for their direct marketing purposes, please e-mail us at  _support@cybrary.it_  and clearly state your request, including your name, mailing address, e-mail address and phone number.  Please see “Unsubscribe from Cybrary updates” for additional information. 
 
 **_Cybrary Updates and Unsubscribing_**
 
@@ -130,7 +130,7 @@ Personal information stored in another jurisdiction may be subject to access req
 
 You may have the right under applicable laws to ask for details of the personal information we hold about you, to amend, limit or delete your personal information, or ask for a copy of the personal information you gave us. You can also withdraw any consent you give to us at any time and object to us using your personal information for Cybrary’s legitimate purposes.
 
-If you would like to exercise any of these rights in relation to the personal information we hold about you or wish to change your preferences at any time, please contact us at [info@cybrary.it](mailto:info@cybrary.it) . Please note that we may require you to verify your identity before allowing you to access your personal information.
+If you would like to exercise any of these rights in relation to the personal information we hold about you or wish to change your preferences at any time, please contact us at [support@cybrary.it](mailto:support@cybrary.it) . Please note that we may require you to verify your identity before allowing you to access your personal information.
 
 If you have an online customer account, you can also access, amend or update your information by logging into the Site or Application and amending your details as appropriate. 
 
@@ -139,7 +139,7 @@ If you have an online customer account, you can also access, amend or update you
   
 Cybrary, Inc. participates in the EU-US and Swiss-US Privacy Shield Framework regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, [visit here](https://www.privacyshield.gov/EU-US-Framework).
 
-If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: info@Cybrary.it We will respond to your inquiry promptly. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: support@cybrary.it We will respond to your inquiry promptly. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 We sometimes provide personal information to third parties to perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party, the third party’s access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage.  
 You can review our Privacy Shield registration [here](https://www.privacyshield.gov/list). Cybrary is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
