@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockstarenergy.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224175754id_/http%3A//rockstarenergy.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockstarenergy.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627154225id_/https%3A//rockstarenergy.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms & Conditions - Rockstar Energy Drink
 
