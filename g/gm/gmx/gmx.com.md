@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmx.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812205044id_/https%3A//www.gmx.com/company/privacypolicy/%23.1559516-footer-nav1-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmx.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628223002id_/https%3A//www.gmx.com/company/privacypolicy/%23.1559516-footer-nav1-2) for the most accurate reproduction.*
 
 # Free Webmail and Email by GMX | Sign Up Now!
 
@@ -20,7 +20,7 @@ Thomas Ludwig, Jan Oetjen, Sascha Vollmer
 Headquarters Montabaur
 
 You can also contact our customer service:  
-[Customer Service](https://service.gmx.com/shareFeedback.html)
+[Customer Service](https://support.gmx.com/index.html)
 
 ### 1.2 Data Protection Officer
 
@@ -63,8 +63,7 @@ You have the ability to check your data whenever you want. In the GMX My Account
 
 #### 1.3.3 Revocation of Your Consent
 
-You can revoke the granted consent at any time. This also applies to the revocation of declarations of consent that you provided to us before the entry into force of the EU General Data Protection Regulation, i.e. before May 25, 2018. Processing that took place before the revocation is not affected by this.  
-
+You can revoke the granted consent at any time. This also applies to the revocation of declarations of consent that you provided to us before the entry into force of the EU General Data Protection Regulation, i.e. before May 25, 2018. Processing that took place before the revocation is not affected by this.
 
 In “My Account” you will find an overview under the menu item “Communication Profile”, where you can see what data you consented to for processing and how you can revoke it. 
 
@@ -72,8 +71,7 @@ More details are provided below under the respective product category. 
 
 #### 1.3.4 Objection
 
-In addition, according to Art. 21 GDPR, you have the right to object to the processing of your personal data that is done on the basis of Art. 6 (1) (f) GDPR (data processing for the purposes of legitimate interests).  
-
+In addition, according to Art. 21 GDPR, you have the right to object to the processing of your personal data that is done on the basis of Art. 6 (1) (f) GDPR (data processing for the purposes of legitimate interests).
 
 You can easily object by going to the menu item “Communication Profile” in “My Account”. If you have any questions, please do not hesitate to contact our customer service. 
 
@@ -123,7 +121,7 @@ We store your personal data only for as long as necessary for the corresponding 
 GMX FreeMail comprises 3 products that we offer in this context:
 
   * GMX FreeMail e-mail box
-  * File Storage
+  * Cloud
   * flexible access to GMX FreeMail (GMX app)
 
 
@@ -143,7 +141,7 @@ You provided your “ **user data** ”, e.g. name and date of birth, to us on r
  **Furthermore, we process content data.** This is content that you actively create or use as a user. This includes, e.g.
 
   * your e-mails, address book contacts or
-  * files you store in File Storage
+  * files you store in the Cloud
   * data you upload, e.g. in the app.
 
 
@@ -221,14 +219,15 @@ We usually store the pseudonymized usage data in connection with the GMX search 
 
 #### 3.2.5 Transfer to Third Parties or Abroad
 
-GMX offers the Internet search in partnership with **Google** and **Oath (EMEA) / Yahoo Search**.  
+GMX offers the Internet search in partnership with **Google** , **Oath (EMEA) / Yahoo Search** and **Microsoft Bing**.  
 In the scope of this partnership, search queries, IP addresses and anonymous data from the user’s web browser are shared with the partner.  
-Google and Oath (EMEA) / Yahoo Search use these data and clicks on search results to improve search products, for research and analysis, to better tailor the search results and ads, and to identify and protect from fraudulent activity related to advertisement.  
-GMX Search formats the search results provided by Google and Oath (EMEA) / Yahoo Search in order to adapt the search to the user’s ideas and expectations and to optimize it accordingly.  
+Google, Oath (EMEA) / Yahoo Search and Microsoft Bing use these data and clicks on search results to improve search products, for research and analysis, to better tailor the search results and ads, and to identify and protect from fraudulent activity related to advertisement.  
+GMX Search formats the search results provided by Google, Oath (EMEA) / Yahoo Search and Microsoft Bing in order to adapt the search to the user’s ideas and expectations and to optimize it accordingly.  
 For more information about the collection and use of data by our partners, see the data privacy policies of our partners, linked below. Therefore, please bear in mind that depending on the partner company your IP address may be processed outside Europe.
 
   * [Google](https://privacy.google.com/)
   * [Oath (EMEA) / Yahoo Search](https://policies.oath.com/us/en/oath/privacy/products/searchservices/index.html)
+  * [Microsoft Bing](https://privacy.microsoft.com/)
 
 
 
@@ -257,15 +256,20 @@ Optimizely is a web analytics service provided by Optimizely, Inc., 631 Howard S
 
 We use Google Analytics on our website. A web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookie information, including your IP address to understand your use of the website and this will be transmitted to and stored by Google on servers in the United States. If you request IP anonymisation, Google Analytics will anonymise the last octet of the IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the United States. On behalf of the website provider Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage to the website provider.
 
+   
+This website uses Bing Ads, a program by Microsoft Corporation, Microsoft Way Redmond, WA 98052-7329, USA, which uses so-called universal event tracking (UET) for re-marketing and conversion tracking. This service saves a cookie in the website visitor’s computer if our website was found through the Bing or Yahoo search engines. Data is collected and saved in anonymous form. Based on the use of the re-marketing function, custom-tailored offers will be displayed to the user during subsequent searches in one of the above-listed search engines.
+
 #### 4.1.3 Configuration Options
 
 All data collected in the scope of analyses helps us design our products, apps and websites based on your needs and continually improve them for you. Nevertheless, you have the option to decide yourself.
 
 To stop data analysis in order to design products, apps and websites based on your needs, please use the opt-out linked to the account: You can find it after you log in in “My Account” under “Communication Profile”.
 
-TThe IP address sent by your browser in the context of Optimizely will not be pooled with other data from Optimizely. You can deactivate Optimizely tracking any time (and thus prevent the collection of data generated by the cookie and related to your use of the website, incl. your IP address, by Optimizely and the processing of these data by Optimizely) by following the instructions on <http://www.optimizely.com/opt_out>.
+The IP address sent by your browser in the context of Optimizely will not be pooled with other data from Optimizely. You can deactivate Optimizely tracking any time (and thus prevent the collection of data generated by the cookie and related to your use of the website, incl. your IP address, by Optimizely and the processing of these data by Optimizely) by following the instructions on <http://www.optimizely.com/opt_out>.
 
 Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under <https://tools.google.com/dlpage/gaoptout>.
+
+You can opt out of Bing Ads at any time. The corresponding instructions can be found here: <http://choice.microsoft.com/opt-out>.
 
 #### 4.1.4 Duration of Storage
 
@@ -343,11 +347,9 @@ In connection with **advertising on our GMX Internet portal** we process only pr
 
  **Use the revocation options according to our GMX Data Privacy Notice.**
 
-If you no longer want to receive **interest-based online advertising,** you can control this by managing cookies for each partner using the opt-out function. To do this, please visit <http://www.youronlinechoices.com/uk/your-ad-choices>.  
+If you no longer want to receive **interest-based online advertising,** you can control this by managing cookies for each partner using the opt-out function. To do this, please visit <http://www.youronlinechoices.com/uk/your-ad-choices>.
 
-
-To provide you with the advertising, based on your interest, we work with our partner Index Exchange. If you no longer want to receive interest-based advertising provided by them, please visit [Index Exchange Privacy Policy](http://www.indexexchange.com/privacy/) to opt-out.   
-
+To provide you with the advertising, based on your interest, we work with our partner Index Exchange. If you no longer want to receive interest-based advertising provided by them, please visit [Index Exchange Privacy Policy](http://www.indexexchange.com/privacy/) to opt-out. 
 
  **Deactivate Interest-based advertising and reset the advertising ID on Android devices.**
 
