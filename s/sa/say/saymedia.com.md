@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saymedia.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231235304id_/https%3A//www.saymedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saymedia.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628230439id_/http%3A//www.saymedia.com/privacy) for the most accurate reproduction.*
 
 # Say Media :: Privacy Policy
 
