@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228030032id_/https%3A//www.mlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628211603id_/https%3A//www.mlive.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# 
+
+## PRIVACY POLICY 
 
 Last Revised: May 25, 2018
 
