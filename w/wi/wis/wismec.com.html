@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wismec.com privacy policy that was archived on 2018-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181109135943id_/http%3A//www.wismec.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wismec.com privacy policy that was archived on 2019-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190628153446id_/http%3A//www.wismec.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -50,7 +50,7 @@ Privacy Policy - Wismec Electronics Co.,Ltd</title>
 <link rel="alternate" type="application/rss+xml" title="Wismec Electronics Co.,Ltd » Feed" href="http://www.wismec.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Wismec Electronics Co.,Ltd » Comments Feed" href="http://www.wismec.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Wismec Electronics Co.,Ltd » Privacy Policy Comments Feed" href="http://www.wismec.com/privacy-policy/feed/">
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+		<script type="text/javascript" async="" defer="" src="//ta.sbird.xyz/js/ta.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.wismec.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.7"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script><script src="http://www.wismec.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.7" type="text/javascript"></script>
@@ -107,7 +107,7 @@ img.emoji {
 	<link rel="stylesheet" href="/css/bootstrap.css?v=4">
 	<link rel="stylesheet" href="/css/idangerous.swiper.css">
 	<link rel="stylesheet" href="/css/swiper.min.css">
-	<link rel="stylesheet" href="/css/swiper-style.css">
+	<link rel="stylesheet" href="/css/swiper-style.css?v=1">
 	<link rel="stylesheet" href="/css/font-awesome.min.css">
 	<link href="/css/main.css?v=4.1" rel="stylesheet">
 
@@ -185,14 +185,98 @@ img.emoji {
 		border-color: rgb(255,0,0) transparent transparent;
 		border-image: initial;
 	}
+
+/*新官网弹窗css start*/
+#wismec-alert-gold-alert{
+    background: #292929;
+    z-index: 1000;
+    position: fixed;
+    display: none;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    color: #fff;
+    padding: 13px 18px;
+    border-radius: 18px;
+}
+#wismec-alert-gold-alert a{
+    text-decoration: none;
+    color:inherit;
+}
+#wismec-alert-gold-alert>div{
+    position: relative;
+    width: 485px;
+    border: solid 5px #fcdca8;
+}
+#wismec-alert-gold-alert #wismec-alert-gold-close img{
+    width: 47px;
+    max-width: 100% ;
+    float: right;
+    cursor: pointer;
+
+}
+#wismec-alert-gold-mask{
+    position:fixed; top:0; left:0; height:100%; width:100%; background:#000; opacity:0.3; display:none; z-index:999;
+}
+#wismec-alert-gold-alert .wismec-alert-gold-bespoke{
+    padding: 0px 50px 50px 50px;
+}
+#wismec-alert-gold-alert  .wismec-alert-gold-bespoke p{
+    font-size: 12px;
+    margin-top: 55px;
+}
+#wismec-alert-gold-alert  .wismec-alert-gold-bespoke>div:nth-of-type(2){
+    padding: 0 9px;
+    margin-top: 33px;
+    text-align: center;
+}
+#wismec-alert-gold-alert  .wismec-alert-gold-bespoke>div:nth-of-type(2)>a{
+    color: #000;
+    background-color: #edc98f;
+    height: 38px;
+    display: inline-block;
+    width: 155px;
+    line-height: 38px;
+    border-radius: 38px;
+    font-size: 18px;
+    float: left;
+
+}
+#wismec-alert-gold-alert  .wismec-alert-gold-bespoke>div:nth-of-type(2)>a:nth-of-type(2){
+    float: right;
+}
+/*新官网弹窗css end*/
+
+/*顶部文字提示*/
+.head-warn{
+		text-align: center;
+		font-size: 14px;
+		color: #fff;
+		font-family:'LucidaGrandeRegular',"GothamLight", "Myriad Pro", Arial;
+		line-height: 1.1;
+	}
+	@media (min-width: 768px) and (max-width: 1199px){
+		.head-warn{
+			font-size:12px;
+		}
+	}
+	@media only screen and (max-width: 767px){
+		.head-warn{
+			font-size:12px;
+		}
+	}
+.seetop{
+    position:relative;
+    background:#000;
+}
+
 </style>
 </head>
 
 <body class="page page-id-7737 page-template-default">
-
+		
 	<!---------------warning start------------------>
 	<div class="warn_box_01" style="display: block; z-index: 9998; position: fixed;"> </div>
-	<div class="warn_box_02" style="height: 350px; background-position: center center; background-color: rgb(0, 0, 0); display: block;"> <img src="/images/main/warn_logo.png?v=2"><br>
+	<div class="warn_box_02" style="height: 350px; background-position: center center; background-color: rgb(0, 0, 0); display: block;"> <img src="/images/wismec-logo.svg" style="width: 320px;"><br>
 		<br>
 		<br>
 
@@ -211,18 +295,35 @@ img.emoji {
 		<div class="warn_text_16">Age Certification</div>
 		<div class="warn_text_12">To use the WISMEC website you must be aged 21 years or over. Please verify your age before entering the site.</div>
 	</div>
-	<!---------------warning end------------------>
+	<!---------------warning end------------------>	
+
+<!--顶部文字提示-->
+<div class="warning-word" style="width: 100%; background-color: #21252d; padding: 1% 0; text-align: center;">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<span class="head-warn">WARNING: This product contains nicotine. Nicotine is an addictive chemical. 
+			<!--<br class="hidden-xs visible-sm visible-md visible-lg" >-->
+Our products are restricted to adults 21+ only.</span>
+			</div>
+		</div>
+	</div>
+</div>
+<!--结束-->
+
 	<header>
 		<div class="nav-head">
 			<nav class="navbar navbar-wismec navbar-static-top">
 				<div class="container">
 					<div class="navbar-header">
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-						<a class="navbar-brand" href="http://www.wismec.com/"><img src="/images/wismec-logo.png" class="img-responsive"></a> </div>
+						<a class="navbar-brand" href="http://www.wismec.com/"><img src="/images/wismec-logo.svg" class="img-responsive"></a> </div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
-							<li><a href="http://store.wismec.com"><span>STORE</span><div class="cat-label cat-label-label1">New</div></a>
-							</li>
+							<li>
+																	<!-- <a href="#" id="wismec-alert-gold-click"><span>STORE</span><div class="cat-label cat-label-label1">New</div></a> -->
+									<a href="http://store.wismec.com"><span>STORE</span><div class="cat-label cat-label-label1">New</div></a>
+															</li>
 							<li><a href="/product/"><span>CATEGORIES</span></a>
 							</li>
 							<li><a href="/news"><span>NEWS</span></a>
@@ -244,7 +345,59 @@ img.emoji {
 			</nav>
 		</div>
 
-	</header>	<div id="primary" class="content-area">
+	<!--新官网弹窗遮罩内容 start-->
+    <div id="wismec-alert-gold-alert" style="top: 384px;">
+        <div>
+            <div click="wismecalertgoldmClose()" id="wismec-alert-gold-close" class="clearfix">
+                <img src="/images/goldclert.png" alt="">
+            </div>
+            <div class="wismec-alert-gold-bespoke">
+                <div>
+                    <img src="/images/wismecgoldicon.png" alt="">
+                </div>
+                <div class="clearfix">
+                    <a href="http://store.wismec.com/us">US Store</a>
+                    <a href="http://store.wismec.com/">Global Store</a>
+                </div>
+                <p>
+                    Please choose the store above. During the Thanksgiving and Black Friday Sale, there will be different promotions on different stores. The coupons can only redeem on the store that you choose.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div id="wismec-alert-gold-mask"></div>
+    <!--新官网弹窗遮罩层 end-->
+
+	</header>
+
+	<!--新官网弹窗js start-->
+	<script type="text/javascript">
+    //新官网弹窗居中
+    $('#wismec-alert-gold-alert').css({top:$(document).scrollTop()+$(window).height()/2+'px'});
+    //新官网弹窗
+    $("#wismec-alert-gold-click").click(function () {
+        $('#wismec-alert-gold-mask').show();
+        $('#wismec-alert-gold-alert').show();
+    })
+
+    $('#wismec-alert-gold-close').on('click',function (e) {
+        $('#wismec-alert-gold-mask').hide();
+        $('#wismec-alert-gold-alert').hide();
+    });
+    if($(window).width()<=623){
+        $('#wismec-alert-gold-alert>div').width($(window).width()-20);
+        $('#wismec-alert-gold-alert .wismec-alert-gold-bespoke').css({padding:0});
+        $('#wismec-alert-gold-alert .wismec-alert-gold-bespoke p').css({padding:'0 10px 35px 10px',textAlign:'center'});
+    }
+    $(window).resize(function () {
+        if($(window).width()<=623){
+            $('#wismec-alert-gold-alert>div').width($(window).width());
+            $('#wismec-alert-gold-alert .wismec-alert-gold-bespoke').css({padding:0});
+            $('#wismec-alert-gold-alert .wismec-alert-gold-bespoke p').css({padding:'0 10px 35px 10px',textAlign:'center'});
+        }
+    });
+	</script>
+	<!--新官网弹窗js end-->	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
 			
@@ -462,17 +615,17 @@ img.emoji {
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 wismec-footer-01"><a href="https://www.facebook.com/wismec"><i class="fa fa-facebook"></i> facebook</a>
+			<div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 wismec-footer-01"><a href="https://www.facebook.com/wismec" rel="nofollow"><i class="fa fa-facebook"></i> facebook</a>
 			</div>
-			<div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 wismec-footer-01"><a href="https://twitter.com/WismecGlobal"><i class="fa fa-twitter"></i> twitter</a>
+			<div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 wismec-footer-01"><a href="https://twitter.com/WismecGlobal" rel="nofollow"><i class="fa fa-twitter"></i> twitter</a>
 			</div>
-			<div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 wismec-footer-01"><a href="https://www.instagram.com/wismec/"><i class="fa fa-instagram"></i>instagram</a>
+			<div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 wismec-footer-01"><a href="https://www.instagram.com/wismec/" rel="nofollow"><i class="fa fa-instagram"></i>instagram</a>
 			</div>
-			<div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 wismec-footer-01"><a href="https://www.youtube.com/c/wismecofficial"><i class="fa fa-youtube-play"></i> youtube</a>
+			<div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 wismec-footer-01"><a href="https://www.youtube.com/c/wismecofficial" rel="nofollow"><i class="fa fa-youtube-play"></i> youtube</a>
 			</div>
-			<div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 wismec-footer-01"><a href="https://vk.com/wismec_official"><i class="fa fa-vk"></i> VK</a>
+			<div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 wismec-footer-01"><a href="https://vk.com/wismec_official" rel="nofollow"><i class="fa fa-vk"></i> VK</a>
 			</div>
-			<div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 wismec-footer-01"><a href="https://plus.google.com/+WismecOfficial/posts"><i class="fa fa-google-plus"></i> google+</a>
+			<div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 wismec-footer-01"><a href="https://plus.google.com/+WismecOfficial/posts" rel="nofollow"><i class="fa fa-google-plus"></i> google+</a>
 			</div>
 		</div>
 	</div>
@@ -544,4 +697,5 @@ img.emoji {
 <script src="/js/idangerous.swiper.progress.min.js"></script>
 <script src="/js/wismec.swiper.head.js"></script>
 <script src="/js/wismec.swiper.home.js?v=3"></script> 
+<script type="text/javascript">var _paq = _paq || [];;_paq.push(["setDomains", ["*"]]);_paq.push(['trackPageView']);_paq.push(['enableFormTracking']);_paq.push(['enableLinkTracking']);_paq.push(['enableTPF']);(function() {var u="//ta.sbird.xyz/";_paq.push(['setTrackerUrl', u+'ta.gif']);_paq.push(['setSiteId', 'aad03a1805249b35178bf2d0a08c09d6']);var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'js/ta.js'; s.parentNode.insertBefore(g,s);})();</script>
 </body></html>
