@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221124902id_/https%3A//www.ansi.org/about_ansi/privacy_policy/privacy%3Fmenuid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628203800id_/https%3A//www.ansi.org/about_ansi/privacy_policy/privacy%3Fmenuid%3D1) for the most accurate reproduction.*
 
 # ANSI Privacy Policy
 
@@ -175,7 +175,9 @@ Our Websites are not intended for children under 13 years of age. No one under a
 
 ## Changes to Our Privacy Policy
 
-If we make material changes to our Privacy policy regarding how we treat our users’ personal information, we will notify you by email to the primary email address specified in your account and/or through a notice on the Website home page. The date the statement was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Websites and this privacy policy to check for any changes.
+If we make material changes to our Privacy policy regarding how we treat our users’ personal information, we will notify you by email to the primary email address specified in your account and/or through a notice on the Website home page. The date the statement was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Websites and this privacy policy to check for any changes.
+
+By registering under this site, you also agree that you can opt-in to the terms of the Privacy Policy that apply to this site and that you agree to those terms.
 
   
 
