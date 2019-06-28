@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanford.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228212923id_/https%3A//www.stanford.edu/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanford.org privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628212917id_/https%3A//www.stanford.edu/site/privacy) for the most accurate reproduction.*
 
 # Online Privacy Policy – Stanford University
 
@@ -6,7 +6,7 @@ Stanford University provides the following information relating to your privacy 
 
 ## Online Privacy Notice
 
-This Online Privacy Notice applies to the information that we collect when you visit Stanford University’s main website ([stanfordhs17.wpengine.com](http://stanfordhs17.wpengine.com/)) and other websites that we own or control and link or refer to this Privacy Notice (together, the “ **Sites** ”). This Notice describes how this information is processed, as well as the choices that are available to you regarding the use of the information you provide.
+This Online Privacy Notice applies to the information that we collect when you visit Stanford University’s main website ([www.stanford.edu](https://www.stanford.edu/)) and other websites that we own or control and link or refer to this Privacy Notice (together, the “ **Sites** ”). This Notice describes how this information is processed, as well as the choices that are available to you regarding the use of the information you provide.
 
 Unless otherwise indicated on a specific Site, Stanford University (“ **Stanford** ”) is the data controller for all information collected under this Notice. Contact information for Stanford is listed at the end of this Notice.
 
