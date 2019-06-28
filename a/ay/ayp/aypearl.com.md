@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aypearl.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825172235id_/http%3A//www.aypearl.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aypearl.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628134203id_/http%3A//www.aypearl.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Wholesale Jewelry center in China at AYpearl.com
 
