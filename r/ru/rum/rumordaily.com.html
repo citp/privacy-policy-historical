@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rumordaily.com privacy policy that was archived on 2018-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227223001id_/http%3A//rumordaily.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rumordaily.com privacy policy that was archived on 2019-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190628115207id_/http%3A//rumordaily.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="UTF-8">
@@ -7,6 +7,8 @@
     window._nawInternal = {
         registeredNextPageAJAXListeners: [],
         registeredAfterHeaderScriptListeners: [],
+        registeredAfterContainerListeners: [],
+        ranAfterContainer: false,
         overrideDistanceForAJAXLoad: null
     };
     function nawRegisterNextPageAJAXListener(cb) {
@@ -20,6 +22,9 @@
     }
     function nawOverrideAJAXInfiniteScrollDistance(distance) {
         window._nawInternal.overrideDistanceForAJAXLoad = distance;
+    }
+    function nawRegisterAfterContainerListener(cb) {
+        window._nawInternal.registeredAfterContainerListeners.push(cb);
     }
     (function (win) {
         win._nawInternal.cbolq = [];
@@ -74,7 +79,7 @@
         });
     })(window);
     </script>
-            <script>
+    <script>
     (function () {
     try {
         // add the tracking from server side data
@@ -168,6 +173,11 @@
 <!-- pinterest verify domain -->
 <meta name="p:domain_verify" content="38895bf102b3cd2fd913076c08dab712">
 <!-- end pinterest verify domain -->
+<!-- Begin RTK -->
+<script>
+!function(){try{window.rtknawlibv1={},window.rtknawlibv1.debug=window.location.href.indexOf("__rtknawlib__")>=0,window.window.rtknawlibv1._internal=window.window.rtknawlibv1._internal?window.window.rtknawlibv1._internal:{l:{},p:{},r:!1,br:!1,m:{},a:""},window.rtknawlibv1.debug&&(console.log("rtknawlibv1 marked as DEBUG URL"),console.log(window.window.rtknawlibv1._internal)),window.rtknawlibv1.rtkClientHelperRegisterBidCacheAfterRender=function(n){for(var i=[],e=0;e<n.length;e++)i.push("RTK_"+n[e]);1===nawGetCurrentAJAXPageDepth()?(window.rtknawlibv1.debug&&console.log("rtknawlibv1 adding listener for fetching new units into cache "+n),window.top.addEventListener("jitaRendered",function(){window.jitaJS.que.push(function(){window.rtknawlibv1.debug&&(console.log("rtknawlibv1 fetching new units into cache:"),console.log(i)),window.jitaJS.rtk.regenerateUPID(),window.jitaJS.rtk.refreshAdUnits(i,!0,{},!0)})},!1)):window.rtknawlibv1.debug&&console.log("rtknawlibv1 not registering bid cache, already registered")},window.rtknawlibv1.rtkClientHelperExecuteForInitialPageload=function(){window.rtknawlibv1.debug&&console.log("rtknawlibv1 rtkClientHelperExecuteForInitialPageload");var n=window.window.rtknawlibv1._internal,i=[];for(var e in n.p)i.push(e),n.l[e]=1;var o=i.join("_"),r=document.createElement("script");r.async=!0,r.defer=!0;var t="//srv.rumordaily.com/"+n.a+"/"+o+"/jita.js?dfp=1";r.src=t,window.rtknawlibv1.debug&&console.log("rtknawlibv1 header script creating jita header for: "+t),document.getElementsByTagName("head")[0].appendChild(r),window.rtknawlibv1.rtkClientHelperRegisterBidCacheAfterRender(i)},window.rtknawlibv1.rtkClientHelperExecuteForSecondAndOnPageload=function(){window.rtknawlibv1.debug&&(console.log("rtknawlibv1 rtkClientHelperExecuteForSecondAndOnPageload"),console.log("rtknawlibv1 currently not doing anything..."))},window.rtknawlibv1.initHeader=function(n,i,e){var o=window.jitaJS||{};o.que=o.que||[];var r=window.rtknawlibv1._internal;r.a=i,window.rtknawlibv1.debug&&(console.log("rtknawlibv1 initHeader for code, auction, cid: ",n,i,e),console.log("rtknawlibv1 .l for code: ",r.l[n])),r.r=!1,r.br=!1,r.l[n]?r.l[n]+=1:r.p[n]=!0,r.m[n]=e,nawRegisterAfterAdHeaderScriptsListener(function(){window.window.rtknawlibv1._internal&&!window.window.rtknawlibv1._internal.r&&(window.window.rtknawlibv1._internal.r=!0,r.l[n]?window.rtknawlibv1.rtkClientHelperExecuteForSecondAndOnPageload():window.rtknawlibv1.rtkClientHelperExecuteForInitialPageload())})},window.rtknawlibv1.initBody=function(n,i,e){window.rtknawlibv1.debug&&console.log("rtknawlibv1 initBody for code, auction, cid: ",n,i,e);var o=window.window.rtknawlibv1._internal;if(o.l[n]>1){if(!o.br){o.br=!0,window.rtknawlibv1.debug&&console.log("rtknawlibv1 running body script for render > 1 globally once");var r={},t=[];for(var l in o.m){var w="RTK_"+l;t.push(w),r[w]=o.m[l]}setTimeout(function(){var n,i;window.top.jitaJS.que.push((n=t,i=r,window.rtknawlibv1.debug&&(console.log("rtknawlibv1 rendering ads from bid cache in body"),console.log(n),console.log(i)),void window.top.jitaJS.rtk.refreshAdUnits(n,!1,i)))},20)}}else window.rtknawlibv1.debug&&console.log("rtknawlibv1 running body script for render = 1"),setTimeout(function(){var i=document.createElement("div");i.id="RTK_"+n,document.getElementById(e).appendChild(i),window.rtknawlibv1.debug&&console.log("rtknawlibv1 initial insertion on ad code: "+n)},0)}}catch(n){console.log("rtknawlibv1 error registering library code"),console.log(n)}}();
+</script>
+<!-- End RTK -->
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     
@@ -322,9 +332,9 @@
         } catch (e) {}
     </script>
 
-    <div class="outer_container" id="outer_container_5PGgZc" style="width:1200px;height:1000px;margin:auto;padding-top:5px;">
+    <div class="outer_container" id="outer_container_eLrJEW" style="width:1200px;height:1000px;margin:auto;padding-top:5px;">
          
-        <div class="inner_container_5PGgZc inner_container" style="width:1200px;height:2200px;">
+        <div class="inner_container_eLrJEW inner_container" style="width:1200px;height:2200px;">
             <div style="text-align: center; width: inherit;" class="item">
                 <div style="display: inline-block;" class="mobile-resize">
                     
@@ -577,10 +587,24 @@
                 
         </div>
     </div>
+    <script>
+    (function() {
+        if (!window._nawInternal.ranAfterContainer) {
+          for (var i = 0; i < window._nawInternal.registeredAfterContainerListeners.length; i++) {
+              try {
+                  window._nawInternal.registeredAfterContainerListeners[i](window._nawInternal.currentPageDepth);
+              } catch (e) {}
+          }
+          window._nawInternal.registeredAfterContainerListeners = [];
+          window._nawInternal.ranAfterContainer = true;
+        }
+    
+    })();
+    </script>
 
     <script src="/_static/js/packery.1.4.3.min.js"></script>
     <script>
-        nawInitializePackeryContainers('outer_container_5PGgZc', 'inner_container_5PGgZc');
+        nawInitializePackeryContainers('outer_container_eLrJEW', 'inner_container_eLrJEW');
     </script>
 
 
@@ -678,7 +702,7 @@ _qevents.push(
     </script>
     <script>
     setTimeout(function() {
-        nawTriggerTimedForceReloadOnContainers('outer_container_5PGgZc');
+        nawTriggerTimedForceReloadOnContainers('outer_container_eLrJEW');
         nawZeroOutAdContainerHeightsForResponsiveSupport();
     }, 500);
     </script>
