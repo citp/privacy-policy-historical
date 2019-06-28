@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idcaller.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821103443id_/http%3A//www.idcaller.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idcaller.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628050540id_/http%3A//www.idcaller.com/privacy.php) for the most accurate reproduction.*
 
 # IDCaller Privacy Policy
 
