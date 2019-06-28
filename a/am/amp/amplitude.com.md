@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amplitude.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230051528id_/https%3A//amplitude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplitude.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628115918id_/https%3A//amplitude.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Amplitude
 
 Amplitude, Inc. (“Amplitude,” “we,” or “us”) is a cloud-based product-analytics platform that helps customers build better products. Amplitude respects the privacy of individuals and is committed to protecting the information of visitors to the website (“Visitors”) and individuals or entities that register to use the Amplitude products and services through the Website (“Customers”). This privacy policy describes Amplitude’s practices for collecting, using, maintaining, protecting, and disclosing information in relation to Visitors of the website, amplitude.com (“Website”), Amplitude’s marketing activities, and Customers accessing and using the products and services available on the Website (collectively, “Product”).
 
- **This privacy policy _does not_ apply to the mobile applications, websites or services offered by our Customers. This privacy policy also does not apply to the personal data or information of the users of our Customers’ mobile applications, websites or services.**
+**This privacy policy _does not_ apply to the mobile applications, websites or services offered by our Customers. This privacy policy also does not apply to the personal data or information of the users of our Customers’ mobile applications, websites or services.**
 
 Please read the following carefully to understand our policies and practices regarding your information collected through the Website, through your use of the Product, through our marketing activities and how we will treat it. If you do not agree with the below policies and practices, your choice is not to use our Website or register to use the Product through our Website.
 
