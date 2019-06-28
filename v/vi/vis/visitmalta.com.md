@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitmalta.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929061845id_/http%3A//www.visitmalta.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmalta.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628061114id_/https%3A//www.visitmalta.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Visitmalta - The official tourism website for Malta, Gozo and Comino.
 
@@ -59,7 +59,7 @@ Although Our goal is to always be as clear and transparent as possible, We appre
 
 As a Government entity established in Malta, EU, the main privacy laws that are applicable to Us in so far as You are concerned, are as follows:
 
-  * The **Maltese Data Protection Act** (Chapter 440 of the Laws of Malta) as well as the various subsidiary legislation issued under the same - the ‘ **DPA** ';
+  * The **Data Protection Act** (Chapter 586 of the Laws of Malta) as well as the various subsidiary legislation issued under the same - the ‘ **DPA** ';
   * The **Regulation (EU) 2016/679** of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data, and repealing Directive 95/46/EC ( **General Data Protection Regulation** ) - the ‘ **GDPR** '.
 
 
