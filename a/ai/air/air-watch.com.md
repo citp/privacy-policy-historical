@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the air-watch.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231065528id_/http%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the air-watch.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628230049id_/http%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
 
 # VMware Privacy Policy - Personal Information Protection
 
