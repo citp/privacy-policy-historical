@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bellanaija.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228013343id_/https%3A//www.bellanaija.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellanaija.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628064947id_/https%3A//www.bellanaija.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Terms of Use - BellaNaija
+# Privacy Policy and Terms of Use | BellaNaija
 
-BellaNaija together with its affiliate entities ( BellaNaija Weddings and BellaNaija Style) takes your privacy seriously hence the updates we have made to our privacy policy to make it GDPR complaint and to serve you better. We may update our policy regularly, so we advise you to take out time to go through this policy and understand what your rights are.
+**BellaNaija** together with its affiliate entities ( **BellaNaija Weddings** and **BellaNaija Style** ) takes your privacy seriously hence the updates we have made to our privacy policy to make it GDPR complaint and to serve you better. We may update our policy regularly, so we advise you to take out time to go through this policy and understand what your rights are.
 
   1.  **What’s in this policy?**
 
@@ -112,7 +112,7 @@ We use your information for these types of things:
 **b. To deal with your requests, complaints and enquiries.**  
 **c. To personalise services and give you things more tailored to your tastes**  
 **e. To show you  ** **relevant advertising** **on another company’s site.**  
-**f. To help us understand what kind of services you might use**  
+**f. To help us understand what kind of services you might use**
 
 
 
@@ -403,6 +403,15 @@ Stopping all cookies might mean you can’t access some BellaNaija services, or 
 
 Another way to control some tracking is in the settings on your device.
 
+If you see a notification on your browser each time we publish a post, you have subscribed to Push Notifications, while most users enjoy the service, to STOP push notifications, follow the steps below;
+
+  * Open your Chrome browser
+  * Go to settings
+  * Click on site settings
+  * Click on Notifications, you will see a list of sites you have subscribed to.
+  * Click on *bellanaija.com and choose clear and reset
+
+
   14.  **How will I find out about changes to this policy?**
 
 
@@ -415,4 +424,4 @@ If you don’t agree to the changes, then you can always stop using our services
 
 
 
-Find out more and  **contact us about your rights**.
+bella (at)bellanaija.com – Find out more and  **contact us about your rights**.
