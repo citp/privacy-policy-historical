@@ -1,18 +1,11 @@
-> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324182606id_/http%3A//www.benefito.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628052326id_/http%3A//www.benefito.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-  
-Benefito.com knows that you care how information about you is used and shared, and we appreciate your trust. We do NOT sell or rent your personal information to third parties for their marketing purposes. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. This notice describes our privacy policy. By visiting Benefito.com, you are accepting the practices described in this Privacy Notice.
+Your Privacy is important and respected to us! This website might from time to time collect non-personal, specific information for the sole purposes of improving and maintaining the benefito.com website features and content. Non-personal information (including some forms of personal information) may be collected at times either voluntarily or involuntarily through the use of this website. Personal information (such as your email address) may be required for website notifications, registration and to help ensure a secure environment for all users of benefito.com through the use of such information. Your information will never be sold, distributed or shared with other companies, third-parties or individuals, excluding the rare event in which this website is transferred and/or sold to a new party. 
 
-Unauthorized Users
+We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
-It is possible that other Registered Users or users (including unauthorized users, or "hackers") may post or transmit offensive or obscene materials on the Service and that you may be involuntarily exposed to such offensive and obscene materials. It also is possible for others to obtain personal information about you due to your use of the Service, and that the recipient may use such information to harass or injure you. Benefito.com is not responsible for the use of any personal information that you disclose on the Service. Please carefully select the type of information that you post on the Service or release to others.
+By using this site, you signify your assent to the benefito.com privacy policy (specified on this page). If you do not agree to this privacy policy, please do not use this website and its contents/services. We reserve the right to make changes to this privacy policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes. 
 
-Conditions of Use, Notices, and Revisions
-
-If you choose to visit Benefito.com, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Pennsylvania. If you have any concern about privacy at Benefito.com, please send us a thorough description through feedback, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Terms of Use will change constantly also. You should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
-
-More Information
-
-If you have additional questions, please contact us at any time at support@benefito.com. 
+If there are any questions regarding our privacy policy you may contact us through the contact us page. 
