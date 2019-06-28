@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hide.me privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919005507id_/https%3A//hide.me/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hide.me privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628185642id_/https%3A//hide.me/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | hide.me
 
@@ -24,7 +24,7 @@ To maximize your privacy we collect the minimum information required, and that i
 
 Any personal data, including your email address, that gets sent from your web browser to our web server, or from our web server to your web browser, will be protected by using encryption technology.
 
-We do not request or store your name, IP address or physical addresses or any other personal information. We may use your Personal Data within your account, i.e. your email address, to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us. You consent to this processing by signing up for an hide.me account. 
+We do not request or store your name, IP address or physical addresses or any other personal information. We may use your Personal Data within your account, i.e. your email address, to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us. You consent to this processing by signing up for a hide.me account.
 
 ##### What information gets processed when our customers connect to our VPN service?
 
@@ -48,10 +48,9 @@ We may process information that you post for publication on our community forum 
 
 We may process information contained in or relating to any communication that you send to us ("correspondence data"). The correspondence data may include your email, the communication content and metadata associated with the communication. Our website or mail servers will generate the metadata associated with communications made using the website contact forms or SMTP protocol. The correspondence data may be processed for the purposes of communicating with you and record-keeping. Our legitimate interest is to provide the best possible customer support experience for you and to improve our services.
 
-We use two different third-party platforms for support correspondence: Zendesk for emails and support tickets, and LiveChatInc for live chat. When you correspond with us using these platforms, your correspondence records, including your name and email address, get stored in their systems. Please, refer to the respective privacy policies: 
+We use Zendesk platform for support tickets and live chat. When you correspond with us using the platform, your correspondence records, including your name and email address, get stored in their system. Please, refer to the respective privacy policy: 
 
   * Zendesk: https://www.zendesk.com/company/policies-procedures/
-  * LiveChatInc: https://www.livechatinc.com/privacy-policy/
 
 
 
@@ -164,7 +163,7 @@ Their Privacy Policy can be viewed at https://www.google.com/policies/privacy/
 
 ##### Emails
 
-Hide.me uses Mailgun Technologies, Inc. to send your transactional and promotional (if you opt-in) emails. Mailgun participates and has certified its compliance with the EU-U.S. Privacy Shield Framework. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at https://www.privacyshield.gov/Individuals-in-Europe.
+Hide.me uses Mailgun Technologies, Inc. to send your transactional and promotional emails. Mailgun participates and has certified its compliance with the EU-U.S. Privacy Shield Framework. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at https://www.privacyshield.gov/Individuals-in-Europe.
 
 Customers with a paid plan are able to remove their email from our system and continue to use our service.
 
