@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ueni.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219213101id_/https%3A//ueni.com/en-gb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ueni.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629005654id_/https%3A//ueni.com/en-gb/privacy) for the most accurate reproduction.*
 
 # UENI's Privacy Policy | UENI
 
@@ -13,9 +13,11 @@ We have appointed a Data Protection Officer (DPO) who is responsible for oversee
 Our postal contact details are: 
 
 UENI Limited   
-2-14 Shortlands   
-London   
-W6 8DJ 
+WeWork  
+2-118/ 2-119  
+184 Shepherds Bush Road  
+London  
+W6 7NL 
 
 You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
 
