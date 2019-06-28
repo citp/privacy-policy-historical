@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membean.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003065148id_/http%3A//membean.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membean.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628044139id_/http%3A//membean.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Membean
 
@@ -8,7 +8,7 @@ Membean, Inc., an Oregon corporation ("Membean"), respects your individual priva
 
 * ### Scope of the Privacy Policy
 
-This Policy covers Membean' treatment of personally identifiable information that may be collected while you are on the Membean websites, including [www.membean.com](https://web.archive.org/web/20181003065148id_/http%3A//membean.com/www.membean.com) as well as any other websites owned by Membean which link to this Policy ("Website(s)"). This Policy applies to the following category of individuals when using any products orservices (together "Services") offered by Membean: 
+This Policy covers Membean' treatment of personally identifiable information that may be collected while you are on the Membean websites, including [www.membean.com](https://web.archive.org/web/20190628044139id_/http%3A//membean.com/www.membean.com) as well as any other websites owned by Membean which link to this Policy ("Website(s)"). This Policy applies to the following category of individuals when using any products orservices (together "Services") offered by Membean: 
 
   * Website Visitors: Individual users who visit our Websites and who may opt to provide an email address to receive communications from Membean.
   * Event Attendees: Individuals who provide their information to Membean or its representatives when they attend or register to attend events hosted, sponsored or visited by Membean.
@@ -37,6 +37,7 @@ This Policy does not apply to the practices of companies not owned or controlled
 
   * **Cookies:** A cookie is a small text file stored on the user's hard drive for an extended period of time. You can control the use of cookies and their removal by configuring your Internet browser's privacy settings. Allowing a Membean cookie to remain on your computer makes it easier for you to log in to and use the Website. Note that if you disable cookies entirely, Membean Websites may not function properly. 
   * **Log Files:** We receive and log information when you interact with our Services, such as visiting the Websites, signing into your account or interacting with email notifications. Log data may include IP address, browser type, platform type, internet service provider (ISP), referring/exit pages, user identifiers, session identifiers, date/time stamp. We use this information for operating and improving our Services and to ensure secure, reliable and robust performance. For example, we use Log data to troubleshoot network issues, investigate application errors and ensure service integrity. 
+  * **Analytics:** In conjunction with cookies and in addition to log files, we collect and record usage data to perform web application analytics, including pages visited, links clicked, mouse movements and non-sensitive form text entries. We use this information to better understand site usage, enhance customer support and improve user productivity. 
   * **Profile:** In order to provide personalized learning and progress assessments, we create a profile detailing usage and interactions. This profile is used solely for internal purposes and to help us improve the Services. We do not share your profile with any third parties. 
   * **Affiliation:** We may receive information about you from our business partners, including your email address and organizational role. We follow all applicable use and consent guidelines regarding the use of this information. 
   * **Facilitation:** Your school, school district, parent or legal guardian (each, an "Account Creator") may provide information about you to facilitate evaluation and onboarding of the Service at your organization. This may include name, address, school or school district information, email address, student names and school identification numbers ("Student Information"). 
