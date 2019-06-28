@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the instacart.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229210101id_/https%3A//www.instacart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instacart.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628224753id_/https%3A//www.instacart.com/privacy) for the most accurate reproduction.*
 
 # Instacart Privacy
 
 ###  1\. _Information you provide to us or allow others to provide to us_
 
-At various points in the Instacart experience, you may provide us with information about yourself. For example, when you create an account through the Services, you provide us with personal information like your name, email address, and zip or postal code. And if you place an order through the Services, we collect information including your address, phone number, birth date (for alcohol orders, where available), credit card information, and the details of your order. Your account information may be updated or corrected by accessing your account settings. 
+At various points in the Instacart experience, you may provide us with information about yourself. For example, when you create an account through the Services, you provide us with personal information like your name, email address, and zip or postal code. And if you place an order through the Services, we collect information including your address, phone number, birth date (for alcohol orders or prescription delivery, where available), credit card information, vehicle license plate number(s) (for curbside pickup orders) and the details of your order. Your account information may be updated or corrected by accessing your account settings. 
 
 If you use the Services for prescription delivery (where available), the third- party pharmacy processing your prescription will provide to your name, address, email address, birth date, phone number, the total amount being charged to you for the prescription drug product(s), and sales tax information for the prescription drug product(s) (if applicable). The third-party pharmacy will also share whether or not the prescription drug product you have ordered requires temperature control. If a prescription drug product delivered to you through the Services has been recalled, the third-party pharmacy will share your name, email address, the date of the prescription drug product order, and the total amount to be refunded to you with Instacart. The pharmacy will not disclose to us the name, quantity, manufacturer or distributor of the prescription drug you have ordered or any other PHI about you other than your status as a patient of the pharmacy. 
 
@@ -15,6 +15,10 @@ If you wish to invite your friends and contacts to use the Services, we will giv
 Our partners may let us collect information about use of their sites/apps or share such information with us. For example, if you use an Instacart button or widget on another site or app, we may receive information about your use of that button or widget and the third-party site/app. 
 
 Our Services are not intended for children under 13 years of age, and we do not knowingly collect personal information from children under the age of 13. If we obtain actual knowledge that any information we collect has been provided by a child under the age of 13, we will delete that information. 
+
+####  Location Information: 
+
+When you use the Services, we may collect precise location data. For instance, if you allow the Services to access location services through the permission system used by your device's mobile operating system or browser, we may collect the precise location of your device. We use your location information to facilitate the prompt hand-off of pickup orders (where available), to assist you in finding nearby stores for which pickup or delivery are available, for other similar purposes and for analytics purposes. You can choose whether or not to enable the location tracking feature through the settings on your device or browser, or when prompted by the Instacart mobile app. We may also infer your general location information, for example by using your internet protocol (IP) address. 
 
 ###  2\. _Technical information about usage of the Services_
 
