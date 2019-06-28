@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 360totalsecurity.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224113543id_/http%3A//www.360totalsecurity.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 360totalsecurity.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628190236id_/http%3A//www.360totalsecurity.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 360 Total Security
-
-[Double-Gun Trojan which uses game plug-in to spread, is updated to V4.0 and looking for trouble! _Learn More_. ](https://blog.360totalsecurity.com/en/double-gun-trojan-which-uses-game-plug-in-to-spread-is-updated-to-v4-0-and-looking-for-trouble/?utm_medium=Banner&utm_source=Mainpage)
 
 **This Privacy Policy was last changed on 25 May 2018.**
 
