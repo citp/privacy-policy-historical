@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestudentroom.co.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228151721id_/https%3A//www.thestudentroom.co.uk/faq.php%3Ffaq%3Dtsr_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestudentroom.co.uk privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628064228id_/https%3A//www.thestudentroom.co.uk/faq.php%3Ffaq%3Dtsr_privacy_statement) for the most accurate reproduction.*
 
 # TSR privacy policy | The Student Room
 
@@ -270,3 +270,6 @@ You have the right to:
 
 
 * * *
+
+Article by TSR Community Team on Thursday 17 May 2018   
+Last edited by Hulda.F on Thursday 14 June 2018 
