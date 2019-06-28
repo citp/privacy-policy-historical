@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227030541id_/https%3A//drugabuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629013036id_/https%3A//drugabuse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DrugAbuse.com
+# Privacy Policy | DrugAbuse.com
 
 This is a web site of Recovery Brands LLC.
 
@@ -93,7 +93,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Recovery Brands  
-517 Fourth Avenue  
-Suite 401  
+1200 Fourth Avenue  
 San Diego, CA 92101  
 [contact@recoverybrands.com](mailto:contact@recoverybrands.com)
