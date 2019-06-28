@@ -1,200 +1,155 @@
-> *The following text is extracted and transformed from the fccincinnati.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113014633id_/https%3A//www.sportsengine.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fccincinnati.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628164614id_/http%3A//www.mlssoccer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | MLSsoccer.com
 
-This Privacy Policy explains how NBCUniversal and its affiliates collect, use, and share information from or about you when you use our websites, downloadable applications such as games, interactive TV mobile applications, and voice-activated assistants, and other services that link to this policy, as well as connected devices such as theme park devices (“NBCUniversal Services”).
+## MLSsoccer.com Privacy Statement
 
-As one of the world’s leading media and entertainment companies, we offer NBCUniversal Services through a wide range of businesses and under many different brands. You can find out more information about NBCUniversal, including a list of our affiliates (“NBCUniversal Affiliates”), [here](https://www.nbcuniversal.com/businesses).
+The MLS web site currently located at mlssoccer.com, and the subdomains thereof, as well as the individual Member Club sites, our official MLS digital application and any Member Club application on which this Privacy Policy is posted (collectively, the "Web Site") are made available by Major League Soccer, L.L.C. (the "League"), on behalf of itself and on behalf of the Member Clubs that are part of and licensed by the League (collectively, "MLS" or "we" or "us" or "our"). This Privacy Policy ("Privacy Policy") explains our privacy practices regarding the collection, use and disclosure of information collected through the use of the Web Site and through our various online services and applications provided by MLS through the Web Site (the "Services").
 
-When you use the NBCUniversal Services, you agree to the collection, use, and sharing of your information as described in this Privacy Policy.
+By visiting the Web Site or using any Services, you are consenting to the practices and procedures described in this Privacy Policy and in the [MLS Terms of Service](https://web.archive.org/terms-service).
 
-If you are using the NBCUniversal Services while in the European Economic Area, the United Kingdom or Switzerland, this policy does not apply. Please refer to the NBCUniversal [European Privacy Policy](https://www.nbcuniversal.com/privacy/european).
+### Information Collected
 
-  1. ###  [TYPES OF INFORMATION WE COLLECT](https://web.archive.org/solutions/#section_1)
+#### Personal Information
 
-  2. ###  [HOW WE USE YOUR INFORMATION](https://web.archive.org/solutions/#section_2)
+"Personal information" is information that allows us to identify you. The types of Personal Information that we may collect from you includes, your name, home address, e-mail address, phone number, date of birth, and account information, such as your username, password, credit card information and other payment information.
 
-  3. ###  [HOW WE SHARE YOUR INFORMATION](https://web.archive.org/solutions/#section_3)
+We may collect person information from you on or through the Web Site or Services in a variety of ways, including, when you register on the Web Site, purchase a Service, participate in online contests, surveys or games, sign-up for a newsletter or subscription or purchase merchandise.
 
-  4. ###  [CHILDREN](https://web.archive.org/solutions/#section_4)
+We also may, from time to time, receive Personal Information about you from third party sources to improve the Web Site and our Services, and for the various purposes outlined herein.
 
-  5. ###  [YOUR RIGHTS AND CHOICES](https://web.archive.org/solutions/#section_5)
+#### Device Identifiable Information
 
-  6. ###  [LOCATION OF YOUR INFORMATION](https://web.archive.org/solutions/#section_6)
+We may collect information that does not identify you personally, but is linked to your computer or device ("Device Identifiable Information”). We collect Device Identifiable Information from you in the normal course of operating our Website. When you visit our Website to browse, read or download information, we automatically collect information about your computer that your browser sends, such as your IP address, browser type and language, access times, pages visited, and referring website addresses. We may use Device Identifiable Information we collect to analyze trends, help administer the Web Site, track the movement of visitors, to learn about and determine how much time visitors spend on each page of the Web Site, how visitors navigate throughout the Web Site or the Service and to gather broad demographic information for aggregate use.
 
-  7. ###  [HOW WE PROTECT YOUR INFORMATION](https://web.archive.org/solutions/#section_7)
+We may also collect Device Identifiable Information through "cookies” or "web beacons” as explained below.
 
-  8. ###  [IMPORTANT INFORMATION FOR CALIFORNIAN RESIDENTS](https://web.archive.org/solutions/#section_8)
+We may also collect information about your mobile device such as the type and model, operating system (e.g. iOS or Android), carrier name, mobile browser (e.g. Chrome, Safari), applications using our Website, and identifiers assigned to your device, such as its iOS Identifier for Advertising (IDFA), Android Advertising ID (AAID), or unique device identifier (a number uniquely given to your device by your device manufacturer), sometimes referred to as a mobile carrier ID.
 
-  9. ###  [UPDATES TO OUR PRIVACY POLICY](https://web.archive.org/solutions/#section_9)
+We may also collect your location information, such as your zip code or the approximate geographic area provided by your Internet service provider (ISP) or location positioning information provided by the location services and GPS features of your mobile device when location services have been enabled.
 
-  10. ###  [CONTACT US](https://web.archive.org/solutions/#section_10)
+#### Cookies
 
+To help us serve you better, we may collect Device Identifiable Information from you through technologies such as "cookies" and "pixel tags” (which are also called clear GIFs, web beacons, or pixels) or by tracking internet protocol (IP) addresses. "Cookies” are small data files that are stored by your web browser when you interact with a website. When you visit a webpage, the cookie sends back Device Identifiable Information. "Pixel tags” are small graphic images (usually invisible) that can be embedded in content and ads on a webpage that track usage of our Website and effectiveness of communication. These pixel tags can then be used to recognize our cookies and to monitor certain user interactions with a website. Cookies operate in the background, and you can turn them off if you wish by adjusting your Web browser settings, but doing so may impair your ability to use some of the features on the Web Site. We may use cookies to make the Web Site work better by, for example, remembering your preferences, keeping track of your login name, password and, if you want to buy things while on the Web Site, your "shopping cart."
 
+For more information, you may [review the FTC’s guide to opting out](https://www.consumer.ftc.gov/articles/0042-online-tracking) of online tracking for computers and mobile devices. You can also see the "Choice” section below for ways to opt-out.
 
-  1. ###  TYPES OF INFORMATION WE COLLECT
+In some cases, we have arrangements with third-parties, such as authorized Service Providers, agents or representatives, to collect and store the foregoing information on our behalf, to provide services in connection with hosting or the operation of our Web Site, or to facilitate reporting of analytics (such as with Google Analytics).
 
-We, or our service providers on our behalf, may collect the following information about you or your use of the NBCUniversal Services:
+Although the Device Identifiable Information that we share, including the Device Identifiable Information that is not linked to your mobile device, does not identify you personally there is a risk that third parties who receive such information from us may be able to re-identify you through other information they gather.
 
-##### Information You Provide to Us
+Except for IP Addresses, we may match Device Identifiable Information with Personal Information that we may have from or about you, which would allow us to identify you, we may use this information to provide you with offers that are available where you physically are located.
 
-    * **Contact and registration information:** such as your name, address, telephone number, email address, username, and password.
-    * **Information about you or your friends and family:** such as demographic or biographical information, gender, interests, photos, videos, or any other information about you that you provide to us, including information about friends, contacts or referrals.
-    * **Transaction information:** payment information such as your credit/debit card details, purchase history, delivery address and other information related to your transaction.
-    * **Competition, sweepstakes and survey information:** any information provided when entering competitions, prize draws and sweepstakes we, or a third party on our behalf, may run. We may carry out surveys and panel discussions, which may request that you voluntarily provide additional information.
-    * **Customer care, technical support and other feedback:** questions and other messages you address to us directly through online forms and social media platforms. If you contact us by phone, we may record the conversation and/or keep a summary of the call.
-    * **Other information you provide:** any other information that you provide to us including, posts, date of birth, content, photos, booking times or biometric identifiers such as facial scans or fingerprints.
+#### Social Media
 
-##### Information We Collect Automatically
+When using the Services or when using certain third party social networking services (e.g., Facebook, Twitter, Google +) (each a "Social Network"), you may have the option to connect your Service information and activity with your Social Network information and activity. If you authorize such a connection, you permit us to share or publish information about your Service activity with that Social Network and its users, and to access certain of your Social Network information, as disclosed to you at the time you consent to the connection. Information we may share with a Social Network may include, but is not limited to: technical information about your Service activity, your Service comments or the videos you watch on Service. Information we may access about you, with your consent, from a Social Network may include, but is not limited to, your basic Social Network information, your location data, your list of contacts, friends or followers and certain information about your activities on the Social Network. If you permit a connection between a Social Network and a Service, we (and that Social Network) may be able to identify you and to associate information received pursuant to the connection with information we already have about you. For more information, please review the privacy disclosures and terms of your Social Network account, which govern how that account information is collected and shared with us.
 
-    * **Device Information:** including your IP address, browser types, browser language, operating system, platform type, gaming platform, device types, and device IDs such as unique identifiers, advertising identifiers, or gaming platform identifiers.
-    * **Usage Information:** including files you download, domain names, landing pages, your browsing activity, what you click, scrolling and keystroke activity, pages viewed, advertising viewed or visited, forms or fields you complete or partially complete, search terms, whether you open an email and your interaction with the content, access times, and error logs, and other similar information.
-    * **Game Information:** including the NBCUniversal games you own or play, play statistics, scores, replays, and achievements.
-    * **Location Information:** including the city, state and ZIP code associated with your IP address, information derived through WiFi triangulation, and precise location information from GPS-based functionality on your mobile devices or from your use of our Mobile Apps, and with your consent, your precise GPS information.
-    * **Viewing Behavior:** including the content you view, how long you watch each video, the quality of the service you receive (e.g. buffering, load times) as well as advertisements you have been shown or interacted with. 
-    * **Offline Information.** Certain information may also be stored while you are offline and transmitted to us when you next connect to the Internet, regardless of where you connect from or the device you use to connect. 
+### How we may disclose your information
 
-##### Information from Third Party Sources
+We will not use, disclose, or share your information except as described in this Privacy Policy.
 
-We may receive information about you from third parties, partners or our service providers such as:
+The Personal Information and Device Identifiable Information we collect from you may be used by us and by third-party service providers, such as hosting providers, data management companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies and payment processors (collectively, "Service Providers") for a variety of purposes, including to:
 
-    * **Public Information:** from publicly and commercially available online or offline sources, as permitted by law including demographic information, purchasing data, membership in loyalty programs or information about advertisements you have seen or acted upon, including your interaction with advertisers’ products and services.
-    * **Social Media Information:** if you visit the NBCUniversal Services on a device on which you also use social networks or if you interact with us through a social media service or other platform, we may have access to some information you provide to that social network or platform such as your name, email address, friend list, photo, age, gender, location, birthday, social networking ID, current city, and the people/sites you follow. 
-  2. ###  HOW WE USE YOUR INFORMATION
+(i) contact you about the Web Site and/or Services you have requested;
 
-Depending on the NBCUniversal Service you use, we, or our service providers, may use your information to:
+(ii) provide you with Services or information you have requested, or products or services you have ordered or signed up for, such as newsletters;
 
-##### Provide the NBCUniversal Service including
+(iii) confirm or fulfill an order you have made;
 
-    * responding to your requests or inquiries;
-    * providing technical support;
-    * sending you service-related communications, including announcements and administrative messages;
-    * displaying certain content, such as content you upload and make available, comments, and game statistics and rankings; 
-    * generating suggestions on the type of video you might enjoy;
-    * understanding how you use the NBCUniversal services so we can improve them;
-    * processing your entries into sweepstakes, contests or promotions.
+(iv) administer your participation in a contest, sweepstakes, promotion, survey or voting;
 
-##### Personalize your experience including
+(v) in order to facilitate the operation or maintenance of our Web Site, our Services, our operations and internal record keeping; and
 
-    * providing you with advertising based on your activities and interests;
-    * creating and updating audience segments that can be used for targeted advertising and marketing on the NBCUniversal services, television, third party services and platforms, mobile apps and/or websites, and offline;
-    * creating profiles about you, including adding information we obtain from third parties, which may be used for analytics, marketing and advertising;
-    * sending you newsletters, surveys and information about products, services and promotions offered by NBCUniversal, our partners, and other organizations with which we work.
+(vii) with your permission, send you promotional material or special offers from MLS, Member Clubs, our marketing partners or other third parties. If you no longer wish to receive promotional e-mails from us, or have your information shared with third parties as previously described, you may change your mind and/or your preferences by following the directions in the "Choices" section of the Privacy Policy below.
 
-##### Recognize your devices and associate the information with your profile including
+Our Service Providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose Personal Information for their own marketing or other purposes.
 
-    * using data collected or received from NBCUniversal Affiliates, service providers, advertisers, and other third parties, such as your device information, to match mobile advertising and cookie identifiers;
-    * matching your devices if you log into the same online service on multiple devices or web browsers or if your devices share similar attributes that support an inference that they are used by the same user or household;
-    * using this information to match your interests across devices, as well as for analytics, ad serving or reporting, or to improve the services;
-    * identifying you or your device or associated information with you, your device, or your profile whenever you visit the NBCUniversal Service, even if you do so when logged out or without intentionally identifying yourself.
+Users may send information about our Member Clubs, our products, our Services and/or our Web Site to their friends and family members by using an "E-mail to Friend" or similar feature on the Web Site or in an e-mail that we have sent them. We do not further contact those individuals without their consent to do so.
 
-##### Provide Services for our Parks & Resorts
+_Third-Party Marketers._ With your permission, we may share your information with our marketing partners and other third parties so that they may contact you directly regarding special promotions or offers (such as subscriptions to and promotions for goods and services, including, for example, through participation in a co-sponsored sweepstakes or contest). We are not responsible for how these third parties may use your information, and such uses are subject to their own policies. **If you have consented to share your Personal Information with third parties for such third parties’ marketing purposes, you can change your mind at any time and may let us know by following the instructions in the"Choices" section below.**
 
-    * such as ticketing and payment services, mapping guidance, offers, and ride and gaming features.
+_Aggregated Demographic Information._ We may use or share with third parties aggregated demographic information collected on or through the Web Site and Services for various purposes such as fan research and audience analysis. Aggregated demographic information does not include and is not linked to any Personal Information that can identify you or another individual person but we may use your to IP Addresses to verify users' locations for various purposes, including blackout restrictions.
 
-##### Prevent fraud and defend our legal rights
+_Other Disclosures:_ We may also share Personal Information and Device Identifiable Information under the following circumstances: (1) if required by law, such as by a court order, statute, regulation or rule, through legal process, or for law enforcement purposes; (2) in the event of a corporate transaction involving any of our businesses, such as the sale of that business or all or most of MLS’s or a Club’s assets or equity to another company; (3) in the event of a bankruptcy, insolvency, reorganization, receivership or assignment for the benefit of our creditors; (4) if we determine it necessary in connection with an investigation or in order to protect our legal rights; or (5) in response to requests from federal, state, local or foreign law and civil enforcement agencies, such as a search warrant, subpoena or court order.
 
-    * protecting the safety of our users and others;
-    * enforcing our terms of service;
-    * preventing fraud or any other potentially illegal activities.
+### California Privacy Rights
 
-We may combine all the information we collect from or receive about you for any of the foregoing purposes. Please see Your Rights and Choices section for further information.
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the Personal Information we disclosed to third parties for direct marketing purposes in the preceding calendar year. If you are a California resident and would like a copy of this notice, please contact us at [Major League Soccer Privacy Policy Request](https://forms.office.com/Pages/ResponsePage.aspx?id=hslDPaqBtU-nNMOAt8hHpZWgX73AZz1HidlattlTrqdUQ0c5NjlZVFA5Wjg3TExJOVJEMzZSR0FEVy4u) or write to us at 420 Fifth Avenue, New York, NY 10018. Attn: Relations. Not all information sharing is covered by the "Shine The Light" requirements and only information on covered sharing will be included in our response. Under California law, businesses are only required to respond to a request once during any calendar year.
 
-We may aggregate or de-identify your information and may use, share, rent or sell aggregated or de-identified information for any purpose and such information is not subject to this Privacy Policy.
+### Chat rooms, forums and message boards
 
-  3. ###  HOW WE SHARE YOUR INFORMATION
+The Web Site may make chat rooms, forums, blogs, message boards and other community features and activities available to you and other users. If you post Personal Information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose Personal Information in these areas. We reserve the right (but assume no obligation) to review and/or monitor any such community areas on the Web Site.
 
-We may share your information with:
+### Third party advertising
 
-    * **Related Companies:** NBCUniversal Affiliates, as well as our parent company Comcast Corporation and its affiliate, Comcast Cable, to help better tailor services, products, marketing, and advertising to you.
-    * **Service providers that perform certain business-related functions on our behalf:** including research and analytics, website hosting, transaction fulfillment, payment, processing database maintenance, contest, sweepstakes and promotion administration, fraud prevention, technology services and platforms, identity management and acquisition and conversion services.
-    * **Advertisers, Advertising Networks, and Other Third Parties:** information about how you use the NBCUniversal Services and interact with content or ads to better tailor services, products, marketing and advertising on our service or on third party platforms. These third parties may use their own tracking technologies/cookies to collect or request information about you including through surveys. See our [Cookies and Tracking Technologies Policy for information](https://www.nbcuniversal.com/privacy/cookies).
-    * **Hashed/Masked Information.** We may share information about you along with a hashed or masked identifier, with third parties so they may better personalize your experience with them and the offers they send you.
-    * **Social Networks:** certain features in our NBCUniversal Services may be published to your social networks. For example, if you click on a Facebook “like” button on an NBCUniversal Service, the “like” may appear on your Facebook account. To control this sharing of information, please review the relevant social network’s privacy policy.
-    * **Other Users and Search Engines:** depending on the NBCUniversal Service, you may provide certain information including your name, photo, and other information to create an account (“Account Profile”). Some information in your Account Profile may be available publicly to other members of that service, or the general public, and may be searchable by search engines. When we display your user submissions, they will be identified by information in your Account Profile. We may distribute user submissions to third parties, and if we do, we may include any information in your Account Profile or submissions.
-    * **Research and Measurement Companies:** we share information about content you view on the NBCUniversal Services with video measurement services such as Nielsen TV Ratings, as well as other analytics providers. See Your Rights and Choices section for more information.
-    * **Law Enforcement Agencies, Regulators, Content Protection Organizations, Anti-fraud Coalitions and other groups to:**
-      * protect our legal rights, privacy or safety, and that of NBCUniversal Affiliates, our employees, agents, contractors, or other individuals;
-      * protect the safety and security of visitors to the NBCUniversal Services or other properties;
-      * protect against fraud or other illegal activity or for risk management purposes;
-      * respond to inquiries or requests from government, regulatory, law enforcement, or public authorities;
-      * permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages that we may sustain;
-      * comply with the law including with subpoenas, search warrants, court orders, and other legal process; or
-      * enforce applicable terms of service.
+We may allow other companies (e.g., 24/7 Real Media) that are presenting advertisements content, social networking or providing services on our pages to set and access cookies and other tracking technologies on your computer. These companies may collect information about your visits to the Web Site in order to measure and assess the effectiveness of online advertising and to provide and better target advertisements about goods and services of interest to you. While the information collected by these third parties from you while you are visiting our Web Site is not personally identifiable, some of these third parties may also combine such non-personal information with other information they have collected from various other sources, such as their own past online and/or offline purchase information and Web usage from other sites. Such other information may include Personal Information, as well as demographic and behavioral information. Those companies’ use of cookies, and the information collected, are governed by those companies’ privacy policies, not ours.
 
-#####  Video Viewing Behavior 
+Examples of some of the third parties that collect information from users of this Web See the "Choices” section below for ways to opt-out.
 
-With your appropriate consent, and consistent with applicable law, we may share your video viewing behavior with third parties including advertising companies, analytic partners, and social media sites.
+### Short message service
 
-#####  Sale or Transfer of all or Part of our Business or Assets 
+We may make available a service through which you can receive messages on your wireless device via short message service ("SMS Service"). You understand that your wireless carrier’s standard rates apply to these messages.
 
-In the event that NBCUniversal or any NBCUniversal Affiliate is involved in a merger, acquisition, transfer of control, bankruptcy, reorganization or sale of assets, or diligence associated with such matters, we may sell or transfer the information described in this Privacy Policy as part of that transaction.
+If you subscribe to one of our SMS Services, you may be required to register and provide Personal Information. We may also collect the date, time and content of your messages in the course of your use of the SMS Service. We will use the information we obtain in connection with our SMS Service for the purpose of sending the SMS messages. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information to facilitate the transaction in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. We may also contact your carrier, which may access the content of your wireless account, for the purpose of identifying and resolving technical problems and/or service-related complaints. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. You may change your mind and unsubscribe to SMS Services at any time by following the instructions in the "Choice" section above.
 
-  4. ###  CHILDREN
+### Choices
 
-Most of the NBCUniversal Services are intended for users of all ages. Information about NBCUniversal Services directed to children under the age of 13 or where we have actual knowledge a child is under the age of 13 can be found in our [Children’s Privacy Policy](https://www.nbcuniversal.com/privacy/Children). If you are a parent or guardian and believe your child under 13 has provided us with personal information without consent, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4030322936212339002e2223352e296e232f2d6e).
+You have various choices with respect to certain of our uses of the Personal Information we collect from you on or through the Web Site or Services. If you have not consented to us using your Personal Information as described in this Privacy Policy, we will only use it to complete the transaction or provide the service or product you have requested.
 
-#####  Minors Under 18 
+**If you have agreed to receive communications or solicitations from us (and signed up for an account with us), and you later change your mind, you can revise your preferences on the "Account" section of the Web Site or contact us at[Major League Soccer Privacy Policy Request](https://forms.office.com/Pages/ResponsePage.aspx?id=hslDPaqBtU-nNMOAt8hHpZWgX73AZz1HidlattlTrqdUQ0c5NjlZVFA5Wjg3TExJOVJEMzZSR0FEVy4u). You also may opt out of receiving all future promotional e-mails from us by clicking on an opt-out or "unsubscribe" link within the promotional e-mail you receive.** Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your other relationship, activities, transactions and communications with us.
 
-Minors under 18 years old, or their parents, may request the removal of information that they posted to NBCUniversal sites by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#83f3f1eaf5e2e0fac3ede1e0f6edeaade0ecee). Upon such request, NBCUniversal will anonymize, or remove any content posted by a minor, unless required by law to retain such content or information.
+You may also opt out of our SMS messages by texting "STOP" or another applicable keyword to the short code applicable to the particular SMS Service (as further described below).
 
-#####  Schools 
+**If you have agreed to have us share your Personal Information with third parties so that they may contact you about promotions (and signed up for an account with us), offers and other information, you can revise your preferences on the "Account" section of the Web Site or contact us at[Major League Soccer Privacy Policy Request.](https://forms.office.com/Pages/ResponsePage.aspx?id=hslDPaqBtU-nNMOAt8hHpZWgX73AZz1HidlattlTrqdUQ0c5NjlZVFA5Wjg3TExJOVJEMzZSR0FEVy4u)** If you do request to have us stop sharing your Personal Information with other entities for their direct marketing purposes, such request will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request. In these cases, please contact that entity directly or click on the opt-out or "unsubscribe" link that should be included within the promotional e-mail you receive from such third party.
 
-Schools and other organizations that are covered by state student privacy laws will be able to control the collection and processing of student data when they create and utilize certain solutions we make available to them, such as sports team management solutions.
+You may opt-out of receiving ads from network advertisers by clicking the AdChoices icon on advertisements that are sent to you, visiting the opt-out pages on the NAI website ([access the NAI’s opt-out tool](http://optout.networkadvertising.org/)) and the DAA website ([access the DAA’s opt-out tool](http://optout.aboutads.info/)). Opting out does not prevent you from seeing ads; it simply means that network advertisers will no longer collect data for the purpose of providing you targeted ads. The DAA and NAI opt-out tools are cookie-based. They signal network advertisers so that they do not collect data online or deliver specific ads targeting you, and only affect the Internet/web browser on the computer where the cookies are installed. These opt-out tools will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie or all your cookies from a browser's cookie files, change web browsers or change computers, you will no longer be opted out of our data collection and ad targeting, and we may place a new cookie unless an opt-out cookie is again reset on that browser. Opting out using one browser on one computer will not opt you out using any other browser on the same or another computer.
 
-  5. ###  YOUR RIGHTS AND CHOICES
+### Security practices
 
-#####  Communication Preferences and Opt-outs 
+We use reasonable security efforts to protect the data in our possession. However, no method of transmission or storage of data is 100% secure and we will not be responsible for any damage that results from a security breach of data or the unauthorized access to or use of information, whether Personal Information or Device Identifiable Information. To the extent we provide your Personal Information to any third parties, we will request that they use reasonable security measures to protect your information.
 
-You may unsubscribe from our email newsletters or promotional emails by following the opt-out instructions contained in the email. You cannot unsubscribe from service-related, transactional, or emails related to your NBCUniversal Service. 
+### Accessing, reviewing, updating, correcting or deleting your personal information
 
-#####  Cookies and Similar Technologies 
+If you want to access, review, update or correct inaccuracies in your Personal Information, or delete your Personal Information, you can revise your preferences on the Web Site or contact us at [Major League Soccer Privacy Policy Request](https://forms.office.com/Pages/ResponsePage.aspx?id=hslDPaqBtU-nNMOAt8hHpZWgX73AZz1HidlattlTrqdUQ0c5NjlZVFA5Wjg3TExJOVJEMzZSR0FEVy4u) or write to us at 420 Fifth Avenue, New York, NY 10018, Attn: Legal. Upon receiving your communication, we will take appropriate steps to update or correct such information in our possession, or to remove you from our catalog and mailing list. Your preferences include, for example, your profile information, as well as any shipping, payment and account information (if applicable), as well as whether you want to receive communications from us. You can access your preferences by logging-in to your account. If you want to close your account with us and have us delete the Personal Information in it (except for information that we keep for record-keeping purposes), you should contact us at [Major League Soccer Privacy Policy Request](https://forms.office.com/Pages/ResponsePage.aspx?id=hslDPaqBtU-nNMOAt8hHpZWgX73AZz1HidlattlTrqdUQ0c5NjlZVFA5Wjg3TExJOVJEMzZSR0FEVy4u). We may request certain Personal Information for the purposes of verifying the identity of the individual seeking access to their personal information records. Please note that if you request deletion of your Personal Information by MLS, your information will be deleted from MLS as well as all MLS Club databases.
 
-We, and our service providers, advertisers, and other partners, use cookies and similar technologies (e.g., web beacons, pixels, ad tags and device identifiers) to recognize you and/or your device(s) on, off and across different NBCUniversal Services and devices. For more information about the use of cookies on the NBCUniversal Services (including your opt-out choices) please see the [Cookies and Tracking Technologies Policy](https://www.nbcuniversal.com/privacy/cookies).
+### Links to other websites and services
 
-Our Cookies and Tracking Technologies policy provides certain opt-out choices. However, we may still allow collect usage data for certain other purposes (e.g., contextual advertising, research, analytics, and internal operations).
+The Web Site may contain links to other websites and online services. When you link to such other sites and services (including by means of clicking on hyperlinks, logos, widgets, banners or advertisements), you become subject to their terms of use and privacy policies posted thereon and/or applicable thereto. Please note that we are not responsible for the privacy practices of third-party websites. We encourage you to be aware of this when you click on a link and leave the Web Site, and to read the privacy policies of every website that collects Personal Information from you.
 
-#####  Mobile Apps 
+### Additional information
 
-For information about Mobile Apps, including how to opt out of targeted advertising, video measurement and certain analytics, please visit [here](https://www.nbcuniversal.com/privacy/mobile-apps).
+Our Sites are operated and maintained within the U.S. We make no assurances or representations of any kind that the Sites are suitable for use outside the U.S. or in the country in which you reside. The information we collect is kept on servers in the U.S. and may be transferred to servers in other countries, subject to the terms of this Privacy Policy. We retain the Personal Information that we collect for so long as we continue to have a business purpose for it.
 
-#####  Access, Correction and Deletion 
+By accessing the Web Site, using a Service, establishing an account or making a purchase, you consent to the processing of your Personal Information as provided in this Privacy Policy. You may withdraw that consent by contacting us at [Major League Soccer Privacy Policy Request](https://forms.office.com/Pages/ResponsePage.aspx?id=hslDPaqBtU-nNMOAt8hHpZWgX73AZz1HidlattlTrqdUQ0c5NjlZVFA5Wjg3TExJOVJEMzZSR0FEVy4u). You are required to provide certain Personal Information in order to use a Service, to make a purchase or to take advantage of certain features available through the Web Site. Your failure to provide such information may preclude you from using the Services or Web Site or may subject your account to termination, prevent you from making a purchase or prohibit you from using certain features.
 
-Depending on the NBCUniversal Service you use you may be able to access and correct certain information through the features provided by the service. In addition, where legally required, we will provide users with access to their information and the ability to review, update, correct, and/or delete it. We will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your information. For more information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5c2c2e352a3d3f251c323e3f293235723f333172).
+If you wish to object to or raise a complaint on how we have handled your Personal Information, you may contact us at [Major League Soccer Privacy Policy Request](https://forms.office.com/Pages/ResponsePage.aspx?id=hslDPaqBtU-nNMOAt8hHpZWgX73AZz1HidlattlTrqdUQ0c5NjlZVFA5Wjg3TExJOVJEMzZSR0FEVy4u).
 
-#####  Opt-out of Measurement Research by Nielsen 
+If you are not satisfied with our response or believe our processing of your Personal Information is not in accordance with law, you may register a complaint with a governmental authority. Major League Soccer, L.L.C. controls the Personal Information collected via the Web Site and Services.
 
-NBCUniversal video services may feature Nielsen proprietary measurement software that will allow you to contribute to market research, like Nielsen’s TV Ratings.
+### Changes to this Privacy Policy
 
-To learn more about Nielsen digital measurement products and your choices in regard to them, please visit <http://www.nielsen.com/digitalprivacy> for more information.
+You should review this Privacy Policy periodically as we may modify it from time to time, and such changes will be effective upon our posting them to the Web Site. Where consistent with applicable law, your continued use of the Web Site and/or the Services after we have changed the Privacy Policy signifies your acceptance of the revised terms. Under certain circumstances (e.g., with respect to certain material changes to this Privacy Policy), we may also elect to notify you through additional means, such as posting a notice on the front page of the Web Site or by means of an e-mail that gives you the opportunity to indicate whether you consent to the proposed change.
 
-#####  Other Online Services 
+### Special rules for children
 
-NBCUniversal Services may contain links to third party websites and services. These other sites (even if branded as NBCUniversal) may collect information about you when you visit them and use this information in accordance with their own privacy policies and terms of use. We do not endorse or control those third parties’ policies or practices. In some circumstances, NBCUniversal may host some websites on behalf of others and those entities may place or permit the placement of cookies and other tracking technology. NBCUniversal is not responsible for these tracking practices.
+_General Rules._ Although most portions of the Web Site are directed to general audiences, we do not knowingly collect Personal Information from children under 18. If we learn we have collected or received Personal Information from a child under 18 without verification of parental consent, we will endeavor to delete that information.
 
-  6. ###  LOCATION OF YOUR INFORMATION
+_Information Collected and Parental Rights._ If your child wants to register on or participate in certain activities in the areas of the Web Site that are directed to children under 18, we will only do so if we have your consent. During the registration process, we may collect certain information from your child, including Personal Information such as their name or e-mail address, as well as a parent or guardian’s email address in order to obtain your consent. We will then send you an e-mail (which will include a link to this Privacy Policy), advising you about the portion of the Web Site in which your child has expressed interest, and request that you reply by e-mail if you consent to your child’s participation. In the reply e-mail, we may request further Personal Information from you (as defined in the main part of this Privacy Policy) about you and/or your child, but we will not request such information from your child. We will then send you a confirmatory e-mail of your child’s registration. Once your children are registered, we may request them to provide general information such as their favorite player. You have the right to review your child’s Personal Information, to have that information deleted, and/or to refuse to permit its further collection or use. Parents can contact the Privacy Administrator at the address or email asset forth at the end of this policy and we will respond to their requests.
 
-NBCUniversal is headquartered in the United States and may from time to time transfer your information to other countries and make it accessible to other NBCUniversal Affiliates and service providers and advertisers regardless of where they are located. We will take steps to ensure that your information receives an appropriate level of protection.
+_Information Use and Disclosure._ We – and any of our Member Club(s) the child indicates interest in – may use the Personal Information to provide the child with the special services for which he or she has registered, such as membership in a Kids Club, receipt of newsletters, or participation in contests. We do not condition a child's participation in any of our online activities on the disclosure of more information than is reasonably necessary to participate in the activity.
 
-  7. ###  HOW WE PROTECT YOUR INFORMATION
+Currently, the portions of our Web Site that are directed to children under 18 do not have unscreened chat rooms, blogs or other similar community functionality that would permit your child to disclose information to others or publicly. In addition, any "postcard" or "share with a friend" feature that may be available on these portions of our Web Site will collect the recipient’s e-mail address, but not the sender’s; permit the sender to type in a first name and last initial; supply the content or allow the sender to select a pre-determined message from a menu; and be sent immediately, at which time the recipient’s e-mail address as collected from the sender is deleted from our records.
 
-We maintain procedural, technical, and physical safeguards for the NBCUniversal Services to help protect against loss, misuse or unauthorized access, disclosure, alteration, or destruction of the information you provide via the NBCUniversal Services. These safeguards vary depending upon the sensitivity of the information we collect and store. Please be aware that no security solutions are infallible.
+Personally Identifiable Information collected on or through any portions of our Web Site that are directed to children under 18 may be shared with Service Providers (as defined above) with whom we contract to operate this Web Site and some of our Services. These Service Providers will use such Personal Information of Web Site visitors only for the purposes of carrying out these operations. To the extent required or permitted by law, we may also collect, use and disclose such Personal Identifiable Information in connection with security-related or law enforcement investigations or in the course of cooperating with authorities or complying with legal requirements. We may also use Web Site users’ information as permitted by law to protect our rights or property, our website, or its users and their safety. As set forth above, we endeavor to maintain the confidentiality, security, and integrity of the Personally Identifiable Information collected from your child. Other than our Service Providers and as described above, we will not share your child’s Personal Information with third parties.
 
-  8. ###  IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS
+### Contact Us
 
-If you are a resident of California, you can request a list of all the third parties to which we have disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes. California residents may contact us at Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US. Include the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide sufficient information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. We will not accept requests by telephone, email, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+If you have questions or concerns about this Privacy Policy, you can contact us at:  
+Major League Soccer  
+420 Fifth Avenue, 7th Floor  
+New York, NY 10018-0223  
+Attention: Privacy Administrator/Legal Department  
+Phone: 212-450-1200  
+[Major League Soccer Privacy Policy Request](https://forms.office.com/Pages/ResponsePage.aspx?id=hslDPaqBtU-nNMOAt8hHpZWgX73AZz1HidlattlTrqdUQ0c5NjlZVFA5Wjg3TExJOVJEMzZSR0FEVy4u)
 
-  9. ###  UPDATES TO OUR PRIVACY POLICY
-
-If we make material changes to the way we collect or use your information, we will notify you by posting a revised version of this Privacy Policy online, and we may also notify you by other means. You should check the NBCUniversal Services periodically for updates.
-
-The date at the top of the Privacy Policy tells you when it was last updated. Any changes to this Privacy Policy will become effective when the revised Privacy Policy is posted. If you use this online service after the changes are posted, you have agreed the changes. If you do not agree with this Privacy Policy or any changes we make, please do not continue to use the NBCUniversal Services.
-
-  10. ###  CONTACT US
-
-For any questions or complaints about this Privacy Policy or our privacy practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d4a4a6bda2b5b7ad94bab6b7a1babdfab7bbb9) or Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US.
-
-
-
-
-**This privacy policy was last modified on May 25, 2018.**
+_Last Updated: June 27, 2018_
