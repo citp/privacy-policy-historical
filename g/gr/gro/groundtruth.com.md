@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the groundtruth.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180238id_/https%3A//www.groundtruth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groundtruth.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628201626id_/https%3A//www.groundtruth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GroundTruth
 
 ## EU-U.S. Privacy Shield
 
-xAd, Inc. dba GroundTruth participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. GroundTruth is committed to subjecting all personal data received from the European Economic Area (EEA), in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List: <https://www.privacyshield.gov/list>.
+**[xAd](https://www.groundtruth.com/xad/)** , Inc. dba GroundTruth participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. GroundTruth is committed to subjecting all personal data received from the European Economic Area (EEA), in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List: <https://www.privacyshield.gov/list>.
 
 GroundTruth’s Website and Ad Platform Privacy Policies, below, describe the types of personal data GroundTruth collects, the types of third parties to which it discloses personal data, and the purposes for which it does so. Residents of the EEA have the right to access the personal information that GroundTruth maintains, and in some cases, may have the right to correct or amend information that is inaccurate or has been processed in violation of the Privacy Shield Principles, to the extent allowed by law. To exercise this right, contact us at [privacy@groundtruth.com](mailto:privacy@groundtruth.com). For information on opting out of interest-based advertising delivered by GroundTruth, please see the Choice section of this Policy below.
 
