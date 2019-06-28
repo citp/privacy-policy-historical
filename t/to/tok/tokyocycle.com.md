@@ -1,22 +1,66 @@
-> *The following text is extracted and transformed from the tokyocycle.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223040527id_/http%3A//www.tokyocycle.com/bbs/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyocycle.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628170937id_/https%3A//tokyocycle.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement | Tokyo Cycling Club
+# Privacy policy | Tokyo Cycling Club
 
-[ ](http://www.tokyocycle.com/bbs/portal/)
+We are Tokyo Cycling Club ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://tokyocycle.com/misc/contact/).
 
-The Tokyo Cycling Club (TCC) does not collect personally identifying information with the sole exception of your specific knowledge and consent thereof. We do not share such information with any third parties, and no third party has access to your stored information.
+## What information we hold about you
 
-TCC stores usernames, passwords and email addresses in password protected directories and publicly inaccessible databases. The main website runs on Xenforo which has thorough security protection built in, and is kept rigidly up to date by us. The server the site exists on also has full security built in. All third-party plugins are assured safe by us, and Xenforo themselves
+The type of data that we collect and process includes:
 
-**This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.**
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
 
-TCC will never sell or distribute email addresses and/or other personally identifying information to third parties without your explicit permission, nor use it for unapproved commercial purposes. Our policy is to protect the privacy and confidentiality of our visitors and users.
 
-Personal Messages (referred to as 'Conversations' on this site) are absolutely not visible to anybody unless they are explicitly included in the list of recipients, through invitation. There is no way for anybody, including all levels of administration to access the personal messages of another member, unless they are invited into the message specifically. The only time we will access any personal message information is if we are legally required to do so, which will require a direct database extraction.
 
-For your security, TCC only officially supports the latest version of all web browsers.
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
 
-Published:
-    Jun 14, 2013
-Page Views:
-    5,215
+We collect some or all of this information in the following cases:
+
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
+
+
+
+## How your personal information is used
+
+We may use your personal information in the following ways:
+
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
+
+
+
+## Other ways we may use your personal information.
+
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
+
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
+
+## Keeping your data secure
+
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
+
+## Cookie policy
+
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
+
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://tokyocycle.com/help/cookies).
+
+## Rights
+
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://tokyocycle.com/misc/contact/). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://tokyocycle.com/misc/contact/) to ask us to complete or correct that information.
+
+You also have the right to request the erasure of your personal data. Please [contact us](https://tokyocycle.com/misc/contact/) if you would like us to remove your personal data.
+
+## Acceptance of this policy
+
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
+
+## Changes to this policy
+
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
