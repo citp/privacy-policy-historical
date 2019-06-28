@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the krbfloodandfire.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202045410id_/http%3A//www.krbfloodandfire.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krbfloodandfire.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628045153id_/http%3A//www.krbfloodandfire.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy – KRB Flood and Fire
+# Privacy Policy - KRB Flood and Fire
 
 The following describes the Privacy Policy for KRB Flood and Fire website.
 
