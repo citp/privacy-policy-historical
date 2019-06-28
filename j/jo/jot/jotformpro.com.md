@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the jotformpro.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023401id_/https%3A//www.jotform.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jotformpro.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628225304id_/https%3A//www.jotform.com/privacy) for the most accurate reproduction.*
 
 # JotForm Privacy Policy
-
-Biggest Savings of 2018! Offer expires Dec 31 
-
-UPGRADE NOW
 
 [](https://web.archive.org/)
 
@@ -19,7 +15,7 @@ This privacy policy applies to all the products, services and websites offered b
   * **Your form data is owned by you.** Additionally, JotForm Inc. treats your forms as if they were private, unless you made your forms publicly available via a public link. JotForm Inc. does not sell or make available your forms to anyone and does not use the form responses you collect for purposes unrelated to you or our services, except in a limited set of circumstances (e.g. JotForm Inc. is compelled by a subpoena, or if you’ve given us permission to do so).
   * **JotForm Inc. safeguards respondents’ email addresses.** To make it easier for you to invite people to complete your forms via email, you may upload lists of email addresses, in which case JotForm Inc. acts as a mere custodian of that data. JotForm Inc. doesn’t sell or make available these email addresses and we use them only as directed by you and in accordance with this policy. The same is true for any email addresses collected through your forms.
   * **JotForm Inc. holds your data securely.** Read our [Security Statement](https://www.jotform.com/security/) for more information.
-  * **Form data is stored on servers located in the United States and Germany.**  More information is available if you are located in Europe. JotForm Inc. will process your form data on your behalf and under your instructions, including those agreed to in this privacy policy.
+  * **Form data is stored on servers located in the United States.** More information is available if you are located in Europe. JotForm Inc. will process your form data on your behalf and under your instructions, including those agreed to in this privacy policy.
 
 
 
@@ -64,7 +60,7 @@ When you use JotForm Inc., we collect information relating to you and your use o
   * **Usage data.** JotForm Inc. collects usage data about you whenever you interact with our services. This may include which web pages you visit, what you click on, when you performed those actions, and so on. Additionally, like most websites today, our web servers keep log files that record data each time a device accesses those servers. The log files contain data about the nature of each access, including originating IP addresses, internet service providers, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system versions, and timestamps.
   * **Device data.** JotForm Inc. collects data from the device and application you use to access our services, such as your IP address, operating system version, device type, system and performance information, and browser type. We may also infer your geographic location based on your IP address.
   * **Referral data.** If you arrive at a JotForm Inc. website from an external source (such as a link on another website or in an email), JotForm Inc. records information about the source that referred you to us.
-  * **Information from third parties.** JotForm Inc. may collect your personal information or data from third parties, if you have given permission to those third parties to share your information. 
+  * **Information from third parties.** JotForm Inc. may collect your personal information or data from third parties, if you have given permission to those third parties to share your information.
   * **Information from page tags.** JotForm Inc. uses third party tracking services that employ cookies and page tags (also known as [web beacons](https://en.wikipedia.org/wiki/Web_bug)) to collect aggregated and anonymized data about visitors to our websites. This data includes usage and user statistics. Emails sent by JotForm Inc. or by users through our services may include page tags that allow the sender to collect information about who opened those emails and clicked on links in them. We do this to allow the email sender to measure the performance of their email messaging and to learn how to improve email deliverability and open rates.
 
 
@@ -97,9 +93,9 @@ Generally, JotForm Inc. uses the information collected in connection with provid
 
 
 
-JotForm Inc. does not sell or make available your form data without your express permission, 
+JotForm Inc. does not sell or make available your form data without your express permission,
 
-When might JotForm Inc. disclose your form data to third parties? Only for a limited number of reasons. JotForm Inc. shares your information with our service providers who help us to provide our services to you. JotForm Inc. has contracts with these service providers to keep your information confidential and to use it only for the purpose of providing their services. For example, JotForm Inc. uses payment processors who help us to process credit card transactions. By using our services, you authorize JotForm Inc. to sub-contract in this manner on your behalf.In rare circumstances, we may share information if required by law, or in a corporate restructuring or acquisition context (see below for more details).
+When might JotForm Inc. disclose your form data to third parties? Only for a limited number of reasons. JotForm Inc. not holds your information with our service providers who help us to provide our services to you. JotForm Inc. has contracts with these service providers to keep your information confidential and to use it only for the purpose of providing their services. For example, JotForm Inc. uses payment processors who help us to process credit card transactions. By using our services, you authorize JotForm Inc. to sub-contract in this manner on your behalf.In rare circumstances, we may share information if required by law, or in a corporate restructuring or acquisition context (see below for more details).
 
 **Sharing your forms with the public.**
 
@@ -130,7 +126,7 @@ We may disclose:
 
 
 
-**For how long does JotForm Inc. retain your data?** We generally retain your data for as long as you have an account with JotForm Inc., or to comply with our legal obligations, resolve disputes, or enforce our agreements. Data that is deleted from our servers may remain as residual copies on offsite backup media for up to approximately one month afterward. 
+**For how long does JotForm Inc. retain your data?** We generally retain your data for as long as you have an account with JotForm Inc., or to comply with our legal obligations, resolve disputes, or enforce our agreements. Data that is deleted from our servers may remain as residual copies on offsite backup media for up to approximately one month afterward.
 
 **Form data deleted from within the account**
 
@@ -157,7 +153,7 @@ The Primary Admin or Admin of a team can delete a user account from a team at an
 JotForm Inc. may modify this privacy policy at any time. JotForm Inc. will notify you by publishing the changes on this website. If JotForm Inc. determines the changes are material, you will be provided with additional, prominent notice as is appropriate under the circumstances, such as via email or in another conspicuous manner reasonably designed to notify you. If, after being informed of these changes, you do not cancel your subscription and continue to use JotForm Inc. services beyond the advance-notice period, you will be considered as having expressly consented to the changes in the privacy policy. If you disagree with the terms of this privacy policy or any updated privacy policy, you may close your account at any time.
 
     * **Security.** Details about JotForm Inc.’s security practices are available through our [Security Statement](https://www.jotform.com/security/). JotForm Inc. is committed to handling your personal information and data with integrity and care. However, regardless of the security protections and precautions undertaken, there is always a risk that your personal data may be viewed and used by unauthorized third parties as a result of collecting and transmitting your data through the Internet. If you have any questions about the security of your personal information, contact [customer support](https://www.jotform.com/answers/).
-    * **Data locations.** JotForm Inc. servers are based in the United States and Germany, so your personal information will be hosted and processed by JotForm Inc. in the United States and Germany. Your personal information may also be processed in, or transferred or disclosed to, countries in which JotForm Inc. subsidiaries and offices are located and in which our service providers are located or have servers. 
+    * **Data locations.** JotForm Inc. servers are based in the United States, so your personal information will be hosted and processed by JotForm Inc. in the United States. Your personal information may also be processed in, or transferred or disclosed to, countries in which JotForm Inc. offices are located and in which our service providers are located or have servers.
     * **Cookie Notification.** JotForm Inc. and our partners use cookies and similar technologies on our websites. Cookies are small bits of data we store on the device you use to access our services so JotForm Inc. can recognize repeat users. Each cookie expires after a certain period of time, depending on what we use it for. JotForm Inc. uses cookies and similar technologies for several reasons:
       1. **To make the JotForm Inc. website easier to use.** If you use the “Remember me” feature when you sign into your account, JotForm Inc. may store your username in a cookie to make it quicker for you to sign in whenever you return to JotForm Inc.
       2. **For security reasons.** JotForm Inc. uses cookies to authenticate your identity, such as confirming whether you are currently logged into JotForm Inc..
@@ -185,15 +181,13 @@ For users located in the EU, references to “personal information” in this po
     * **Data controller.** JotForm Inc., whose contact information is listed above, is the data controller for registration, billing and other account information that we collect from users in the EU. However, the data controller for form data is the form creator. The form creator determines how their form questions and responses are used and disclosed. JotForm Inc. only processes such form data in accordance with the instructions and permissions (including those given under this privacy policy) selected by the form creator when they create and administer their form.
     * **Accessing and correcting your personal data.** You have the right to access and correct the personal information that JotForm Inc. holds about you. This right may be exercised by visiting your account’s [My Account](https://www.jotform.com/myaccount/) page or by contacting [Customer Support](https://www.jotform.com/answers/).
     * **Your responsibilities.** By using JotForm Inc. services, you agree to comply with adequate data protection requirements when collecting and using your form data, such as requirements to inform respondents about the specific uses and disclosures of their data.
-    * JotForm is in compliance with what was known as the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, which was set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Here's our [official certification notice](https://safeharbor.export.gov/companyinfo.aspx?id=27141).
-    * However, in early Oct 2015, the Safe Harbor framework was nullified by the highest court in Europe, which meant EU users no longer had a legal safeguard guiding how their data was handled by US companies. In response to this, JotForm offers its EU users the opportunity to store their data exclusively in Europe. This ensures EU users can retain their data in their own jurisdiction, which follows their specific data privacy requirements. More information can be found here. <https://www.jotform.com/eu-safe-forms/>
 
 
 
 **Consents. By clicking “I Agree” or any other button indicating your acceptance of this privacy policy, you expressly consent to the following:**
 
     * You consent to the collection, use, disclosure and processing of your personal data in the manner described in this privacy policy, including our procedures relating to cookies, IP addresses and log files.
-    * JotForm Inc. servers are based in the United States and Germany, so your personal data will be primarily processed by JotForm Inc. in the United States. You consent to the transfer and processing of your personal data in the United States by JotForm Inc. and in the data locations identified in Section 5 by our various affiliates and service providers.
+    * JotForm Inc. servers are based in the United States, so your personal data will be primarily processed by JotForm Inc. in the United States. You consent to the transfer and processing of your personal data in the United States by JotForm Inc. and in the data locations identified in Section 5 by our various affiliates and service providers.
     * You consent and agree that JotForm Inc. may transfer your data to data processors located in countries, including the United States, which do not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area. Your consent is voluntary, and you may revoke your consent by opting out at any time. Please note that if you opt-out, we may no longer be able to provide you our services.
     * You consent to JotForm Inc. sharing your personal data with relevant persons working for service providers who assist us to provide our services.
     * If you have enabled cookies on your web browser, you consent to our use of cookies as described in this privacy policy.
@@ -266,7 +260,7 @@ JotForm Inc hosts forms created by form creators. However, form creators are act
 Changes to this privacy policy. JotForm Inc. may modify this privacy policy at any time and you will be notified by publishing the changes on this website. If JotForm Inc. determines the changes are material, you will be provided with additional, prominent notice as is appropriate under the circumstances, such as via email or in another conspicuous manner reasonably designed to notify you.If, after being informed of the changes, you continue to use our services beyond the advance-notice period, you will be considered as having expressly consented to the changes in our privacy policy. If you disagree with the terms of this privacy policy or any updated privacy policy, you may close your account, if you have one, at any time or not respond to a form.
 
   * **Security.** Details about JotForm Inc ’s security practices are available through our [Security Statement](https://www.jotform.com/security/). JotForm Inc. is committed to handling your personal information and data with integrity and care. However, regardless of the security protections and precautions JotForm Inc. undertakes, there is always a risk that your personal data may be viewed and used by unauthorized third parties as a result of collecting and transmitting your data through the Internet. If you have any questions about the security of your personal information, contact [customer support.](https://www.jotform.com/answers/)
-  * **Data locations.** JotForm Inc. servers are based in the United States and Germany, so your personal information will be hosted and processed by us in the United States and Germany. Your personal information may also be processed in, or transferred or disclosed to, countries in which JotForm Inc. subsidiaries and offices are located and in which our service providers are located or have services.
+  * **Data locations.** JotForm Inc. servers are based in the United States, so your personal information will be hosted and processed by us in the United States. Your personal information may also be processed in, or transferred or disclosed to, countries in which JotForm Inc. offices are located and in which our service providers are located or have services.
   * **Cookie Notification.** JotForm Inc. and our partners use cookies and similar technologies on our websites. Cookies are small bits of data we store on the device you use to access our services so we can recognize repeat users. Each cookie expires after a certain period of time, depending on what we use it for. JotForm Inc. uses cookies and similar technologies for several reasons:
     * **To make our site easier to use.** If you use the “Remember me” feature when you sign into your account, JotForm Inc. may store your username in a cookie to make it quicker for you to sign in whenever you return to JotForm Inc..
     * **For security reasons.** JotForm Inc. uses cookies to authenticate your identity, such as confirming whether you are currently logged into JotForm Inc..
@@ -289,22 +283,6 @@ Changes to this privacy policy. JotForm Inc. may modify this privacy policy at a
   * **About IP addresses.** JotForm Inc. servers record the incoming IP addresses of visitors to JotForm Inc. websites, whether or not the visitor has a JotForm Inc. account, and store the IP addresses in log files. JotForm Inc. uses these log files for purposes such as system administration and maintenance, record keeping, tracking referring web sites, inferring your location, and security purposes (e.g. controlling abuse, spam and DDOS attacks). JotForm Inc. also stores IP addresses along with certain actions you take on our system. IP addresses are only linked to form responses if a form creator has configured a form to collect IP addresses. By agreeing to this privacy policy, you expressly consent to JotForm Inc. using your IP address for the foregoing purposes. If you wish to opt out from the foregoing consent to use your IP address, you must cancel your account (if you have one) or not respond to a form if requested to do so.
   * **Data controller.** JotForm Inc., whose contact information is listed above, is the data controller for registration, billing and other account information that we collect from users in the EU. However, the data controller for form data is the form creator. The form creator determines how their form questions and responses are used and disclosed. JotForm Inc. only processes such form data in accordance with the instructions and permissions (including those given under this privacy policy) selected by the form creator when they create and administer their form.
   * **Accessing and correcting your personal data.** You have the right to access and correct the personal information that JotForm Inc. holds about you. This right may be exercised by contacting [customer support](https://www.jotform.com/answers/).
-    * JotForm is in compliance with what was known as the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, which was set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Here's our [official certification notice](https://safeharbor.export.gov/companyinfo.aspx?id=27141).
-    * However, in early Oct 2015, the Safe Harbor framework was nullified by the highest court in Europe, which meant EU users no longer had a legal safeguard guiding how their data was handled by US companies. In response to this, JotForm offers its EU users the opportunity to store their data exclusively in Europe. This ensures EU users can retain their data in their own jurisdiction, which follows their specific data privacy requirements. More information can be found here. <https://www.jotform.com/eu-safe-forms/>
-
-
-  7. **Privacy Shield (relevant to our EU users)**
-
-
-
-**EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.**
-
-  * JotForm Inc. is located in the United States and accordingly, data (to include Respondent data) will be transferred to the United States.
-  * JotForm Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield. JotForm Inc. is committed to subjecting all personal information and data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. **https://www.privacyshield.gov/**.
-  * JotForm Inc. also complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
-  * When JotForm Inc. receives personal information under the Privacy Shield and then transfers it to a third-party service provider acting as agent on JotForm Inc.’s behalf, JotForm Inc. has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) JotForm Inc. is responsible for the event giving rise to the damage. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, JotForm Inc. is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain situations, JotForm Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-  * Please contact JotForm Inc. as described in Questions below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at https://www.jamsadr.com/eu-us-privacy-shield.
-  * Under certain conditions, more fully described on the Privacy Shield website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 
 
@@ -317,6 +295,20 @@ By clicking “I Agree” or any other button indicating your acceptance of this
   * You consent and agree that JotForm Inc. may transfer your data to data processors located in countries, including the United States, which do not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area. Your consent is voluntary, and you may revoke your consent by opting out at any time. Please note that if you opt-out, we may no longer be able to provide you our services.
   * You consent to JotForm Inc. sharing your personal data with relevant persons working for service providers who assist us to provide our services.
   * If you have enabled cookies on your web browser, you consent to JotForm Inc. use of cookies as described in this privacy policy.
+
+
+  7. **Privacy Shield (relevant to our EU users)**
+
+
+
+**EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.**
+
+  * JotForm Inc. is located in the United States and accordingly, data (to include Respondent data) will be transferred to the United States.
+  * JotForm Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield. JotForm Inc. is committed to subjecting all personal information and data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. **https://www.privacyshield.gov/**.
+  * JotForm Inc. also complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+  * When JotForm Inc. receives personal information under the Privacy Shield and then transfers it to a third-party service provider acting as agent on JotForm Inc.’s behalf, JotForm Inc. has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) JotForm Inc. is responsible for the event giving rise to the damage. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, JotForm Inc. is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain situations, JotForm Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+  * Please contact JotForm Inc. as described in Section 14 below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at https://www.jamsadr.com/eu-us-privacy-shield.
+  * Under certain conditions, more fully described on the Privacy Shield website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 
 
