@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isp.org.cn privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422060844id_/http%3A//www.isp.org.cn/static/privacy_policy-1926.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isp.org.cn privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628085743id_/http%3A//www.isp.org.cn/static/privacy_policy-1926.html) for the most accurate reproduction.*
 
 # Privacy Policy of Our Site - About Us
 
