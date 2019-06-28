@@ -1,31 +1,158 @@
-> *The following text is extracted and transformed from the plymouth.edu privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117065150id_/https%3A//plymouth.edu/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plymouth.edu privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628195955id_/https%3A//www.usnh.edu/about/privacy-policy) for the most accurate reproduction.*
 
-# policy - Plymouth State University
+# Privacy Policy | University System of New Hampshire
 
-### Privacy Policy
+**Our Commitment To Privacy 1**
 
-Plymouth State University (“PSU”) respects the preservation and protection of the privacy of visitors to its websites. It is possible to visit Plymouth State University’s websites without self-revealing any personal information. There are, however, certain features and advanced functions on PSU’s websites which require visitors to provide personal information. Should you decide to provide PSU with personal information through one of our websites, the university will limit the use of your personal information to university business and will not disclose it to persons or entities unaffiliated with the university unless (1) you have expressly or impliedly granted your permission to do so, or (2) disclosure is necessary to enforce university policy, or (3) the university is required to disclose in order to comply with State law, Federal law or other legal process.
+Your privacy is important to us. To better protect your privacy we provide this policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this policy easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This policy applies to all information collected or submitted on University System of New Hampshire (USNH) websites or mobile applications. By using USNH websites, you are consenting to our collection and use of information in accordance with this Privacy Policy.
 
-### Information Gathering
+**International Visitors**
 
-Plymouth State University may use or disclose your IP address, and data connection-specific information, to help us diagnose problems with our servers and network, and to administer our websites by identifying (1) which parts of our site are most heavily used, and (2) where our audience comes from, from both within and outside the PSU data network.
+USNH is located in the United States (State of New Hampshire). By providing information to USNH, you are transferring your personal data to the United States. If you are providing personal information and are not a resident of the United States, your country’s laws governing data collection and use may differ from those in the United States. 
 
-### Use of Cookies
+**The Information We Collect**
 
-Cookies are text files stored on computers to enhance the usability and regular operation of a website. Plymouth State University may use cookies to store information during and after an individual accesses PSU websites. The use of cookies enables PSU to tailor the use of our websites to individual visitors, and to tell if individuals have visited us before, so we can be aware of an individual’s choices and interests the next time they visit. Any information, including personal information, which you expressly choose to provide, may be stored in a cookie. Your web browser can be configured to refuse cookies or to notify you when a PSU website attempts to send you a cookie, however making this choice could detract from the usability of certain PSU websites.
+**Personal Information**
 
-### This website uses Google AdWords
+USNH collects personal information about you through our websites and mobile applications only when you voluntarily submit your information to us.
 
-This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Plymouth State University website. Any data collected will be used in accordance with this privacy policy and Google’s privacy policy.
+"Personal information" is any information that can be used to identify you or that may be linked to you. This information is commonly limited to the information found in a public directory, such as first name, last name, postal address, email address, and phone number. 
 
-### Individual Accounts
+Certain USNH websites allow individuals to create and maintain individualized accounts. Where these sites are concerned, users have the responsibility of maintaining the confidentiality of their accounts and passwords, and for restricting access to their computers. Users agree to accept responsibility and repercussions for all activities that originate from their accounts.
 
-Certain Plymouth State University websites allow individuals to create and maintain individualized accounts. Where these sites are concerned, individuals have the responsibility of maintaining the confidentiality of their accounts and passwords, and for restricting access to their computers.  Individuals agree to accept responsibility and repercussions for all activities that originate from their accounts.
+**Log Files**
 
-### Security Measures
+USNH and our third-party vendors may automatically collect certain information regarding your use of our websites and mobile applications, but you will remain anonymous. Information collected includes:
 
-Plymouth State University follows industry-standard security measures, to protect the loss, misuse and alteration of the information under our control.
+  * Your session and the pages you visit; 
+  * Date and time of access;
+  * Operating system of the device through which you access USNH websites;
+  * Browser type and version, the monitor screen size and color depth and other plugin and program information as sent by your browser; 
+  * Similar data and information that may be used in the event of attacks on our information technology (IT) systems.
 
-### Third-Party Linked Sites
 
-As a courtesy, Plymouth State University websites may include links to third-party websites. If you use these links, be aware that Plymouth State University’s Privacy Policy does not apply to such third party websites. You use these third-party websites at your own risk and you should review the applicable terms and policies, including privacy and data gathering practices, of any site to which you navigate from a third-party link on a Plymouth State University website.
+
+The generic information we collect is based on IP address, which is the location of a computer or network.  We may use or disclose your IP address, and data connection-specific information, to help us diagnose problems with our servers and network, and to administer our websites by identifying (1) which parts of our sites are most heavily used, and (2) where our audience comes from, from both within and outside the USNH data networks.  USNH will not associate your IP address and web usage data with your specific email address or any other personal information that can specifically identify you unless required to do so by law.
+
+**Mobile Applications**
+
+When you install mobile applications with the publisher name “University of New Hampshire,” “Keene State College,” “Plymouth State University” or “Granite State College” from the Google Play store or Apple’s App Store, the application may ask for permission to use or access:
+
+  * GPS services
+  * Push notifications 
+  * Camera
+
+
+
+The general information described above may be aggregated with the general information of all site visitors to identify and improve how our websites or applications are used. In turn, we may share this aggregate information about our site with partners or the general public. Aggregate data does not contain any information that could be used to contact or identify you.
+
+**Web Analytics**
+
+Some USNH websites and mobile applications (“apps”) use Google Analytics, a service provided by Google, Inc. Google Analytics places a cookie on your computer or a code embedded in the mobile application to analyze how you use the site or app. The information generated by the cookie is transmitted to and stored by Google on its servers. Google uses this information to compile reports on website and mobile activity, and then the university site and application owners use that information to improve their sites and apps. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google does not associate your IP address with any other data held by Google.
+
+**Cookies**
+
+Cookies are small files that are stored on your computer (unless you block them). We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. You may disable cookies by selecting the appropriate settings in your browser or you can opt out of the collection and use of this information; however this may prevent you from experiencing the full functionality of our websites.
+
+**How We Use Collected Information**
+
+USNH may use the information we collect:
+
+  * To respond to your inquiries;
+  * To provide services or materials you request;
+  * To operate and understand how services are utilized;
+  * To maintain our contact list(s);
+  * To provide business services for which the information is intended;
+  * To assess the effectiveness of our events, campaigns, and publications;
+  * For information processing that is reasonably appropriate or necessary within our legal obligations.
+
+
+
+On some pages, you can request information, make requests, and register to receive materials or make recommendations about other people. We use the personal information you provide when placing a request to complete that request to the best of our ability. We use return email addresses to answer the email we receive. Such addresses may be used to communicate further with you. You are always provided an opportunity to opt out or otherwise prohibit such uses.
+
+We process your Personal Information for the purposes described above to facilitate transactions requested by you and to meet our contractual obligations (for example, registering you for events); on the basis of our legitimate interests (for example, website analytics); or on the basis of your consent, where applicable.
+
+**How We Share Collected Information**
+
+We do not share this information with outside parties except for the following limited purposes:
+
+  * When we have your consent to share the information;
+  * To the extent necessary to complete your request;
+  * With USNH school officials and administration;
+  * In response to subpoenas, court orders, or legal processes;
+  * As we deem necessary to protect the rights, safety or property of the University System of New Hampshire and its component institutions.
+
+
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
+
+If we are required to disclose information by law or court order, we will make reasonable efforts to notify any affected parties in advance.
+
+**Internet-Based Advertisements**
+
+We use tools such as Google Adwords to remarket to individuals who visit our program and promotional pages. Third-party vendors, such as Google, show our ads on sites across the internet, and in some cases, use cookies to serve ads based on someone's past visits to our website. You can opt out of Google's use of cookies by visiting Google's [Ads Settings](https://adssettings.google.com/). You can also opt out of all third-party vendor use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+
+**Our Commitment To Data Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+**Our Commitment To Children's Privacy**
+
+We are committed to protecting the privacy of the very young. While our websites are generally not directed at or intended to attract visitors under age 13, our institutions do run certain programs for children for which online registration or participation is available. For those activities, the following additional Children's Privacy Policy supplements this USNH Privacy Policy.
+
+**Children's Privacy**
+
+We recognize the need to provide additional privacy protections when information is collected from or about children under the age of 13. The following guidelines apply to activities (including but not limited to on-campus camps or lessons for children and online activities designed for children), in addition to our general Privacy Policy. These rules follow the Children's Online Privacy Protection Act (COPPA).
+
+**Information We May Collect**
+
+We may collect the following information about a child who will participate in a USNH-administered youth activity:
+
+Name  
+E-mail address  
+Street address  
+Date of birth (to ensure enrollment in age-appropriate activities)
+
+Depending upon the activities in which your child chooses to participate, your child may be asked or choose to provide additional information. We do not require a person to disclose more information than is reasonably necessary to participate in an activity.
+
+**How We Use the Information**
+
+We use the information about your child to register your child for a USNH event and to insure appropriate content and safety for participants. USNH and its institutions will not disclose a child's information to any third party without parental authorization, except as may otherwise be required by law.
+
+**Parent/Guardian Consent**
+
+We will not collect or store online information from or about a child under age 13 until we have received a parent's or guardian's verified consent.
+
+Parents or Guardians may review their child's personal information in our online databases; correct factual inaccuracies in the information collected about their child; refuse to permit us to collect further personal information from their child; and ask that information be deleted from our online records. Appropriate contact information for parents will be provided on every webpage promoting or permitting activities by children under age 13.
+
+**COPPA Notice Template**
+
+A [Children's Online Privacy and Protection Act ("COPPA") notice template](https://www.unh.edu/it/kb/assets/usnhcoppanotice.pdf) is provided for use by the institutions of USNH.
+
+**How You Can Access Or Correct Your Information**
+
+You can access all your personally identifiable information that we collect online and maintain by contacting each school directly via phone or e-mail. We use this procedure to better safeguard your information.
+
+  * Granite State College: [gsc.help@granite.edu](mailto:gsc.help@granite.edu) or 1-888-372-4270
+  * Keene State College: [helpdesk@keene.edu](mailto:helpdesk@keene.edu) or 1-603-358-2532
+  * Plymouth State University:  [helpdesk@plymouth.edu](mailto:helpdesk@plymouth.edu) or 1-603-535-2929
+  * University of New Hampshire: [IT.Security@unh.edu](mailto:IT.Security@unh.edu) 
+  * University System of NH (USNH): [USNH.desktop.support@usnh.edu](mailto:USNH.desktop.support@usnh.edu)
+
+
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+**External Links**
+
+Some USNH websites may contain links to external websites not owned by, or officially affiliated with, USNH in any way. USNH is not responsible for the privacy practices or the content of such websites.
+
+**Changes to this Policy**
+
+We reserve the right to change, modify, add or remove portions of our privacy statements at any time. Any such amendments will be noted on this page, so please visit periodically to view current statements.
+
+* * *
+
+1[Online Policy Manual (OLPM) reference USY VI.F.7](https://www.usnh.edu/policy/usy/vi-property-policies/f-operation-and-maintenance-property#usyvif7)
