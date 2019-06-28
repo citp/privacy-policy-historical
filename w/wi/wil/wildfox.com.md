@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the wildfox.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829120608id_/https%3A//www.wildfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildfox.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628070251id_/https%3A//www.wildfox.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy – Wildfox Couture
 
 **PRIVACY POLICY**
 
-This statement summarizes Wildfox Couture’s policies regarding personal information that maybe collected or submitted to us through the Wildfox Couture website of [www.wildfox.com](http://www.wildfox.com/)("Website") or via any other means of collection. We may make changes to this policy from time to time. We will post updated versions of our policy on this page of our website.
+This statement summarizes Wildfox Couture’s policies regarding personal information that maybe collected or submitted to us through the Wildfox Couture website of [www.wildfox.com](https://www.wildfox.com/)("Website") or via any other means of collection. We may make changes to this policy from time to time. We will post updated versions of our policy on this page of our website.
 
-**Your Privacy is Important to Wildfox Couture**   
-Wildfox Couture LLC respects and upholds the confidentiality of information and the privacy of individuals and is committed to user, visitor and customer privacy to the Wildfox Couture web site at www.wildfox.com. Because we gather important information from our users, visitors and customers (collectively "Customers" or "you" or "your"), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices.  By accessing this Website, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website located at http://www.wildfoxcouture.com/termsofuse.aspx.  ("Terms of Use Agreement").
+**Your Privacy is Important to Wildfox Couture**    
+Wildfox Couture LLC respects and upholds the confidentiality of information and the privacy of individuals and is committed to user, visitor and customer privacy to the Wildfox Couture web site at www.wildfox.com. Because we gather important information from our users, visitors and customers (collectively "Customers" or "you" or "your"), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices.  By accessing this Website, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website located at https://www.wildfoxcouture.com/termsofuse.aspx.  ("Terms of Use Agreement").
 
 **Information We Collect**  
 We may require Customers who visit our Website and purchase products on our Website (collectively the "Service") to give us contact information, which may include but is not limited to the Customer's name, company name, address, phone number, email address, cookies, IP logs, billing information, billing name and address, credit card number, and other information as detailed below under "Personal Information" (collectively "Personal Information").  Besides the Personal Information, we may also collect other information regarding your use of the Website.  From time to time, we may also collect or ask for additional Personal Information, which will also be expressly included herein as Personal Information.  You can opt out of providing this additional information by not entering it when asked or not using the Website, although not providing it may hinder your ability to use the Website.
@@ -78,10 +78,18 @@ As far as permissible under law, Wildfox Couture accepts no responsibility for t
 The Children's Online Privacy Protection Act imposes certain requirements on web sites directed at children under 13 that collect information on those children, and on web sites that knowingly collect information on children under13. Wildfox.com is not directed at children under 13, and does not knowingly collect any personal information from children under 13.
 
 **Changes to Our Privacy Statement**  
-From time to time, it may be necessary for us to review and revise our privacy statement.  We reserve the right to change our privacy statement at anytime and to notify you by publishing an updated version of the policy on the Wildfox Couture website at www.wildfox.com
+From time to time, it may be necessary for us to review and revise our privacy statement.  We reserve the right to change our privacy statement at anytime and to notify you by publishing an updated version of the policy on the Wildfox Couture website at www.wildfox.com
 
 **How To Contact Us If You Have A Problem Or Complain  
-**If you have any queries in relation to this policy or its administration or if you would like more details of the type of personal information Wildfox Couture holds, for what purposes, and how we collect, hold, use and disclose that information, please contact Wildfox Couture at (213) 484-8650.
+** If you have any queries in relation to this policy or its administration or if you would like more details of the type of personal information Wildfox Couture holds, for what purposes, and how we collect, hold, use and disclose that information, please contact Wildfox Couture at (213) 484-8650.
 
 **Additional Information**  
 This Policy is part of the Terms of Use of the Website and any use of the Website is governed by those Terms of Use.
+
+  
+
+
+**ADA Compliance**  
+Wildfox strives to maintain an ADA compliant website and is committed to providing an online environment that is accessible to all visitors. We recognize that accessibility and usability are not always possible in every area of the website or for those using screen readers or other devices to assist viewing of the website. Wildfox, along with its third party partners, have conducted, and continue to conduct ongoing accessibility reviews and tests of this website. We have remediated and continue to remediate any issues identified during such reviews and tests. Please be aware that our efforts are ongoing as we incorporate any improvements we feel necessary to meet the changing laws, regulations and guidelines set forth by any regulating authorities. If you have specific questions or concerns about the accessibility of our website or need any assistance with this website please contact us. 
+
+If you have found an inaccessible area on our website, please be sure to specify the specific page and provide us with any other information you may think will help us locate the area. We will make all reasonable efforts to make that page accessible to you. if such page cannot be made accessible with any available tools we will work to make a text version available to you. If you have a need for a specific electronic format, please contact us. Please provide the format that you require the content to be in, the web page address of the material, and your contact information. We welcome your questions about this accessibility policy and your comments on how to improve this website's accessibility..
