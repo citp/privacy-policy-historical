@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mendix.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203115233id_/https%3A//www.mendix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendix.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628190623id_/https%3A//www.mendix.com/privacy-policy) for the most accurate reproduction.*
 
 # Mendix Privacy Policy
 
@@ -153,10 +153,10 @@ We will retain Personal Data for the period necessary to fulfill the purposes ou
 
 ## Transfer of Personal Data
 
-Personal Data may be stored on servers located within the European Union, but may also be processed in any country where we have facilities or in which we engage service providers. If we transfer Personal Data within the company or to business partners located in a country with no sufficient level of data protection, we will provide adequate safeguards, according to GDRP, are in place.
+Personal Data may be stored on servers located within the European Union, but may also be processed in any country where we have facilities or in which we engage service providers. If we transfer Personal Data within the company or to business partners located in a country with no sufficient level of data protection, we will provide adequate safeguards, according to GDPR, are in place.
 
 ## Changes to Our Policy
 
-We may change our business and the Mendix Sites from time to time. As a result, at times it may be necessary for us to make changes to this Privacy Policy. We reserve the right to update or modify this Privacy Policy at any time without prior notice. We recommend that you review this Privacy Policy regularly, so that you remain informed of any changes. Your continued use of the Mendix Sites after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of suh revised policy.
+We may change our business and the Mendix Sites from time to time. As a result, at times it may be necessary for us to make changes to this Privacy Policy. We reserve the right to update or modify this Privacy Policy at any time without prior notice. We recommend that you review this Privacy Policy regularly, so that you remain informed of any changes. Your continued use of the Mendix Sites after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised policy.
 
-This Privacy Policy was last updated on 30 November 2018.
+_This Privacy Policy was last updated on 30 November 2018._
