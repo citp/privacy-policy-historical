@@ -1,55 +1,290 @@
-> *The following text is extracted and transformed from the findsimilar.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323120226id_/http%3A//www.findsimilar.com/privacy%3Fcid%3D5177) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findsimilar.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628111442id_/https%3A//findsimilar.com/privacy%3Fcid%3D) for the most accurate reproduction.*
 
-# Privacy Policy - FindSimilar.com
+# Privacy Policy
 
-This agreement was last revised on June 22, 2014
+If you would like to go directly to “Your Privacy Rights, Choice and Access ”, please click here . If you would like to go directly to “Managing Cookies (“Opt-Out ”)”, please click here
 
-Generally FindSimilar.com("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to personally identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII") except in specific instances, for example, when you provide PII through registering on the Site or as set forth in this Privacy Policy. Whenever we collect such PII, it will be governed by this Privacy Policy.
+This privacy policy (“ Privacy Policy ”) applies to information collected through  FindSimilar.com (“ we ”, “ us ”or “ our ”), whether accessed via computer, mobile device or other technology (collectively, the “ Service ”). 
 
-FindSimilar.com provides a comparison shopping service that enables consumers to compare prices, products and stores when they shop online. This service is provided by FindSimilar.com which is owned by Web Monsters Ltd ("Web Monsters Ltd"). For FindSimilar.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
+Generally FindSimilar.com does not collect, store, use or disclose any data collected with an intention to personally identify and/or contact a person such as: name, address, telephone number or e-mail address except in specific instances, for example, when you actively provide us such information via registering to the Site, asking to receive further information regarding one of the products or other offers listed on the Site, or as set forth in this Privacy Policy. 
 
-## What does this Privacy Policy cover?
+This Privacy Policy explains what information we may collect through the Service, how such information may be used and/or shared with others, how we safeguard it and how you may access and control its use in connection with our marketing communications and activities.
 
-This Privacy Policy applies to collection, use, storage and disclosure of information by us.
+Please read this Privacy Policy carefully, prior  to using the Service, and/or accessing the Site.
 
-Please be aware that, as part of the service provided by this Site, we may provide links to websites operated by third parties. We are not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. You should check the applicable privacy policies of such third-party Web sites or applications to determine how they handle any information they collect from you.
+By using the Service, and/or accessing the Site, you are acknowledging that you understand and agree to the terms hereof as well as the Terms of Use set forth on the Site .
 
-## What information does FindSimilar.com collect and how is it used?
+QUICK GUIDE TO CONTENT
 
-We may collect any or all of the following three types of information: (i) traffic or clickstream data, (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) ("Non-PII"), and/or (iii) PII in the instances as set forth in this Privacy Policy. Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties or subsidiaries or affiliates of Web Monsters Ltd ("Web Monsters Ltd Entities") or with third parties.
+1.        Information we collect
 
-**_(a) Traffic or Clickstream Data ("Clickstream Data")_.** Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and Web Monsters Ltd Entities, but only in anonymous form. Notwithstanding the foregoing, such third parties and Web Monsters Ltd Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or Web Monsters Ltd Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services.
+        * Cookies
 
-**_(b) Non-Personally Identifiable Information_.** As part of our on-going efforts to ensure the best possible experience for all users of the Site, we may use log files, web beacons and cookies to collect Non-PII from the Site, browsers, advertisers and third-party sites. "Log files" track actions occurring on the Site and collect data including: your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed. "Web beacons" are electronic files used to track your navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior. "Cookies" are files (e.g. HTTP cookies) that are stored on your Internet enabled device (which includes your computer, device, handheld device or PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies for purposes which may include, without limitation, to estimate the total reach of any of our advertisers, how frequently you return to the Site, as well as to streamline experiences of users of our Site. Cookies are also an anonymous way to survey how we are doing and to look for ways to improve our services. All information collected by Cookies, Web beacons and Log files are Non-PII.
+2.        How we use the Information we collect
 
-There are two classes of Cookies based on how long they remain on your system: (i) "Session Cookies" may be used only during your visit to the Site and are erased once you close your browser, and (ii) "Persistent Cookies" (if applicable) remain on your browser for two (2) years from your last visit to the Site and enable us to remember you on subsequent visits to the Site and provide more relevant content to you on such Site.
+3.        Sharing of Information
 
-There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. We do not use Cookies or web beacons to retrieve PII from your computer.
+4.        Online Behavioral Advertising
 
-A useful resource on understanding Cookies may be found at [http://www.allaboutcookies.org.](http://www.allaboutcookies.org/)
+5.        Your Privacy Rights, Choice and Access
 
-**_(c) Advertising and Third Party Advertising_.** We have relationships with our affiliated companies and with third-party advertising companies to drive traffic to and to serve ads on our Site. We share Clickstream Data and Non-PII with such companies. Such companies may also collect non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with any website linked to such ads. The Non-PII collected by such parties on our Site and other websites may be used in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of these third-party advertisers to determine how they handle any information they collect from you.
+6.        Managing Cookies (“Opt-Out ”)
 
-**_(d) Contact Information or Personally Identifying Information_.** We have access to your PII, including but not limited to first and last name, home or other physical address, telephone number, or email address, after such PII has been submitted to us by: (i) becoming a registered user of our Site, (ii) subscribing to any of our newsletters, (iii) contacting us by submitting a comment, problem, or request for information, (iv) submitting PII in connection with special offers or contests, and/or by (v) signing up as one of our advertisers, merchants or business partners.
+7.        Data Retention and Deletion
 
-PII provided in connection with problems, comments or requests is used only to respond to those problems, comments or requests. This information is not stored or used in connection with Clickstream Data and is provided to a third party only as necessary to respond to the comment, problem or request of as required by law or court order.
+8.        Children
 
-Finally, from time to time, but only with your permission, we may provide your PII to selected third parties who wish to participate in special promotions offered in conjunction with us.
+9.        Security of your Information
 
-## Is data stored by FindSimilar.com secure?
+10.        Other Sites
 
-We employ reasonable measures to ensure the security of all information and we routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume this risk when communicating with us.
+11.        Consent to Processing and Transfer of Information
 
-We use reasonable efforts not to collect, use or disclose PII from children under the age of 13. The services are not targeted at children, and children age 13 and under may not register for any portions of the services that require registration. If you believe your child has provided us with any PII data by registering on our Site, please specify this issue and [contact us](http://www.findsimilar.com/contact).
+12.        Changes
 
-## How can I access or correct any personally identifying information about me?
+13.        Contact Us
 
-To request a copy of any PII you have sent to us, please send an email containing your request through this link [contact us](http://www.findsimilar.com/contact). You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with us. You may then correct or delete such information using the procedures specified in the e-mail.
+  1.  Information we collect 
 
-## How can I learn about changes to this privacy policy?
+Whenever you visit or interact with the Service or Site, we, as well as similar third-party vendors and/or service providers alike, we may use a variety of technologies that automatically or passively collect information about how the Service is accessed and used (“Usage Information ”). 
 
-We may update this Privacy Policy from time to time. When we do, we will post the revised Privacy Policy and the date the Privacy Policy was last updated on this page so that you are aware of the changes. It is the express will of the parties that this agreement and all related documents have been drawn up in English.
+Usage Information may include, in part, browser type, operating system, device type, an estimation of your geographic location associated with your IP address, the page served, the time, referring URLs and other information normally transmitted in HTTP requests. 
 
-## Contact Information
+This statistical data  provides us with information about the use of the Service, such as how many visitors visit a specific web-page on which the Service is used, how long they stay on that page, the type of content on that page. 
 
-If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us by visiting our [Contact Us](http://www.findsimilar.com/contact) page.
+Usage Information is generally non-identifying, but to the extent Usage Information may be associated with you as a specific and identifiable person (for example, because you have registered for the Service) and thereby provided us with personal information (such as name, e-mail address, telephone number or home address) we treat such information as “Personal Information ”  and will only use it for the purposes described in this Privacy Policy.
+
+We may also automatically collect the internet protocol (“IP “) address or other identifier (“ Device Identifier “) for each computer, mobile device, technology or other device (collectively, “ Device “) you use to access the Service.
+
+Our Service uses several different technologies to collect Usage Information, including Device Identifiers. These may include, without limitation:
+
+Cookies - 
+
+Cookies are small text files placed on a Device when the Device is used to visit the Service or the Site. We may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while using the Service, such as showing you specific offer(s) that we think will be of interest to you. 
+
+We also use cookies in order to keep you logged in to the Service if you register with us. Cookies allow us to collect technical and navigational information, such as browser type, time spent on the Service and pages visited. Cookies may include a Device Identifier along with information about the particular type of content in which you have shown interest. Cookies also allow us to select which content is most likely to appeal to you and display that content while you are using the Service.
+
+When interacting with the Service, if you click on a link to one of our promoted offer(s), the customer sponsoring the promoted link may place a cookie on your Device as well, in which case you will be subject to their privacy policy. 
+
+Please note that you are subject to the privacy policies of each site you visit, in addition to ours. If you click on a link to visit a site where the Service is not installed, you are subject only to that site ’s privacy policy while visiting that site, and not to this Privacy Policy.
+
+If you would prefer not to accept cookies, you can do this by activating the settings on your browser that allows you to refuse the setting of all or some cookies.
+
+However, if you use your browser settings to block all cookies, please be aware that some functions and features of the Service may not work properly because we may not be able to recognize and associate you with your account. 
+
+Log Files -
+
+As is true of most web sites, we may gather certain information automatically and store it in log files. 
+
+This information may include IP addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp and clickstream data.
+
+We use this information, which does not identify individual users, to detect fraud, administer the site, to track users ’actions around the Site and to gather demographic information about our user base as a whole. 
+
+Pixels -
+
+A pixel tag is a transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an e-mail, which indicates that a page or e-mail has been viewed. In addition, a pixel tag may tell your browser to get content from another server.
+
+Our third-party partners/service providers may also use cookies, scripts, web beacons or other technologies for the purpose of targeting; tracking and analyzing your use of the Site or Services; and/or providing you with content, as follows:
+
+Analytics
+
+We work with companies that provide services which help us analyze your use of our Site or Services, for internal purposes, and to (anonymously) collect information about your online usage activities across our Site or Services.
+
+Google Analytics
+
+You can learn more about how Google uses data it collects via our use of Google Analytics, by visiting Google's Privacy Policy at: [www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners)
+
+**Social Buttons, Widgets, Applications and other Content**
+
+We may implement a social button, “widget” or other content from a third party on our Site or Services which allow interaction or content sharing. Your interaction with such, typically allows the third party to collect some information about you. In some cases, the third party may
+
+We may allow social buttons, applications, and widgets from the partners listed below (for more information, please click on the selected partner’s name to review its privacy policy) – 
+
+    * Facebook
+    * Google+
+    * YouTube
+    * Twitter
+
+**Advertising and Targeting**
+
+We allow certain companies to serve advertisements and/or personalized content and collect information within our Site or Services. These companies include third party ad servers, ad agencies, technology vendors, providers of sponsored content, research firms, and other companies that help us provide more effective advertising.
+
+The providers with whom we work include, but are not limited to, the companies listed below (for more information, please click on the selected partner’s name to review its privacy policy) –
+
+    * OATH (Yahoo)
+    * Bing
+    * Criteo
+    * Kenshoo
+
+Information you provide to us -
+
+In addition to the information we collect automatically, we may ask you to provide Personal Information if you sign up for the Service or otherwise communicate or interact with us. 
+
+We may also ask you to provide other information about yourself, such as name, e-mail address and phone number. 
+
+If you do not want your Personal Information collected, please do not submit it . 
+
+
+
+  2. How we use the Information we collect
+
+We use the information we collect about and from you for a variety of business purposes, including for example: to respond to your questions and requests; to provide you with access to certain functions and features of the Service; to provide and maintain your platform account(s); to verify your identity; to communicate with you about your account and activities using the Service and, in our sole discretion for marketing or solicitation purposes, to communicate changes to one of our policies; to tailor content or offer(s) we serve you; to improve the Service for internal business purposes; to process applications and transactions; and for other lawful purposes we may disclose at the time you provide your Personal Information or to which you otherwise consent.
+
+
+
+  3.  Sharing of Information
+
+We may disclose Personal Information as follows:
+
+    * To any current or future  affiliates ,  parent companies , or  subsidiaries .
+    * To  vendors ,  service providers ,  agents ,  contractors , or others who perform functions (e.g., maintenance, data analysis, customer relationship management, email marketing, surveys, credit card processing, data hosting, or fraud detection) on our behalf.
+    * To  Customers . For example, we may provide advertisers with information to inform them about conversion rates for analytics purposes.
+
+We may also disclose Personal Information when legally required to do so, to cooperate with law enforcement investigations or other legal proceedings, to protect against misuse or unauthorized use of the Website, to limit our legal liability and protect our rights or to protect the rights, property or safety of users of this Site, the Service or the public. 
+
+In addition, we may share non-Personal Information, such as aggregate user statistics, demographic information and Usage Information with third parties.
+
+
+
+  4.  Online Behavioral Advertising
+
+Through our Services, we may provide advertisements to you based on your recent browsing behavior. In order to target advertisements to you for products and services in which you might be interested, we may use  cookies ,  JavaScript  and other technologies. 
+
+We may also use third parties such as network advertisers, which are third parties that display advertisements based on your visits to websites you have visited to target advertisements to you for products and services in which you might be interested. Third-party ad network providers, advertisers, sponsors and/or traffic measurement services may also use  cookies ,  JavaScript ,  web beacons  and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party ’s specific privacy policy, not this one.
+
+
+
+  5. Your Privacy Rights and Choices
+
+We will provide reasonable opportunity for  individuals  to access, update, or delete Personal Information about them that we have in our possession. We will not use Personal Information provided to us for purposes incompatible with the purpose for which it was provided without obtaining authorization from the subject of the information. 
+
+Individuals ’principal rights under data protection law are :
+
+(a)         the right to access;
+
+(b)         the right to rectification;
+
+(c)         the right to erasure;
+
+(d)         the right to restrict processing;
+
+(e)         the right to object to processing;
+
+(f)         the right to data portability;
+
+(g)         the right to complain to a supervisory authority; and
+
+(h)         the right to withdraw consent.
+
+You have the right to confirmation as to whether or not we process your Personal Information and, where we do, access to the Personal Information, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of Personal Information concerned and the recipients of the Personal Information. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your Personal Information. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee. 
+
+Right to Erasure  \- In some circumstances you have the right to the erasure of your Personal Information. Those circumstances include: The Personal Information is no longer necessary in relation to the purposes for which it was collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed.
+
+There are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defense of legal claims.
+
+In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defense of legal claims; and you have objected to processing, pending the verification of that objection. 
+
+Where processing has been restricted on this basis, we may continue to store your Personal Information. However, we will only otherwise process it: with your consent; for the establishment, exercise or defense of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.
+
+You have the right to object to our processing of your Personal Information for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.
+
+To the extent that the legal basis for our processing of your personal data is :
+
+(a)         consent ; or
+
+(b)         that the processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract,
+
+        and such processing is carried out by automated means, you have the right to receive your Personal Information from us in a structured, commonly used and machine-readable format. However, this right does not apply where it would adversely affect the rights and freedoms of others.
+
+If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. 
+
+To the extent that the legal basis for our processing of your Personal Information is consent,  you have the right to withdraw that consent at any time . Withdrawal will not affect the lawfulness of processing before the withdrawal.
+
+*** You may exercise any of your rights in relation to your Personal Information or send us an inquiry regarding your Privacy Rights and Choices by filling [the following form](https://forms.zohopublic.com/labsdev/form/ContactUs/formperma/pfc9f3B4zh6D_o1tgSrdyPRtFcbZqmw-Yldi5KF2IVo?d=findsimilar.com)
+
+    * Please note that  \- 
+    1. It may take time to process email requests consistent with applicable law (but no longer than 30 days after receipt of a request); and
+    2. You cannot “opt-out ”of transactional or relationship messages sent to registered users of the Service or those who have engaged in transactions with us (e.g., account notifications).
+
+In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Service. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. 
+
+In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
+
+
+
+  6. Managing Cookies (“Opt-Out ”) 
+
+If you do not want to receive interest-based ads displayed by us or otherwise object to collection of information based on our use of cookies,  you can disable or delete them .
+
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
+
+(a)         [https://support.google.com/chrome/answer/95647?hl=en](https://www.google.com/url?q=https://support.google.com/chrome/answer/95647?hl%3Den&sa=D&ust=1527095355881000)  (Chrome);
+
+(b)         [https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences](https://www.google.com/url?q=https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences&sa=D&ust=1527095355882000)  (Firefox);
+
+(c)         [http://www.opera.com/help/tutorials/security/cookies/](https://www.google.com/url?q=http://www.opera.com/help/tutorials/security/cookies/&sa=D&ust=1527095355882000)  (Opera);
+
+(d)         [https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies](https://www.google.com/url?q=https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies&sa=D&ust=1527095355883000)  (Internet Explorer);
+
+(e)         [https://support.apple.com/kb/PH21411](https://www.google.com/url?q=https://support.apple.com/kb/PH21411&sa=D&ust=1527095355883000)  (Safari); and
+
+(f)         [https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy](https://www.google.com/url?q=https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy&sa=D&ust=1527095355883000)  (Edge).
+
+Blocking all cookies will have a negative impact upon the usability of many websites.
+
+If you block cookies, you might not be able to use all the features on our websites. 
+
+
+
+  7. Data Retention and Deletion
+
+We will not retain data longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations. 
+
+We may retain aggregated data, which cannot identify an individual or device and is used for purposes of reporting and analysis, for as long as commercially necessary.
+
+We retain identifiable data, which is directly collected for purposes of providing our service to Customers or serving content to end-users, for no longer than twenty-four (24) months from the end-user ’s last interaction with our Service, after which time we will either de-identify the data by removing unique identifiers or aggregating the data, or simply delete it.
+
+
+
+  8.  Children
+
+The Service is not directed to children under 13 . We do not knowingly  collect Personal Information from anyone under 13 years of age. If we determine upon collection that a user is under 13, we will not use or maintain his/her Personal Information without the parent/guardian ’s consent. If we become aware that we have unknowingly collected Personal Information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. 
+
+If you ’re a kid, please don ’t register to any of our Services or Platform ’s.
+
+
+
+  9.  Security of Your Information
+
+We maintain tight controls over all the data we collect, retaining it in secured databases with limited and controlled access rights, to ensure it is secure. 
+
+Where we have given you (or where you have chosen) a password that enables you to access certain features of the Service, you are responsible for keeping this password confidential. 
+
+Please remember that unfortunately, the transmission of information via the internet is not completely secure, so although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted via the Service; any transmission is at your own risk. 
+
+Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+
+
+
+  10. Other Sites
+
+The Service may contain links to other sites that we do not own or operate. This includes links from customers, sponsors and partners We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other web sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site that appears or claims that it is a part of the Service.
+
+
+
+  11. Consent to Processing and Transfer of Information
+
+Given that we are an international business, our use of your information may involve the transmission of data on an international basis. If you are located in the European Union, please be aware that information we collect may be transferred to and processed outside the European Union. By using the Service, or providing us with any information, you consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen.
+
+    12. Changes
+
+Please note, we may modify information presented via the Service and/or this Privacy Policy from time to time. You should check back here periodically to see if the Privacy Policy has been updated. We will always show the date of the latest modification of the Privacy Policy at the bottom of the page so you can tell when it was last revised.
+
+
+
+  13. Contact Us
+
+We regularly review our compliance with this Privacy Policy. Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [Contact](https://www.findsimilar.com/contact?cid=5177) .
+
+
+
