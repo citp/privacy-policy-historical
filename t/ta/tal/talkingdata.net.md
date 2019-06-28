@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkingdata.net privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226173249id_/https%3A//www.talkingdata.com/privacy.jsp%3Flanguagetype%3Den_us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkingdata.net privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628023618id_/https%3A//www.talkingdata.com/privacy.jsp%3Flanguagetype%3Den_us) for the most accurate reproduction.*
 
 # TalkingData-移动.数据.价值
 
