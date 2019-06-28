@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cwmalls.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215111636id_/http%3A//www.cwmalls.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwmalls.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628064336id_/http%3A//www.cwmalls.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Cwmalls-Privacy Policy | www.cwmalls.com
 
-**Cwmalls.com Privacy Policy**
+**CWMALLS.COM Privacy Policy**
 
-Thank you for accessing the website of Cwmalls China Commodity Limited. (site address:http://www.cwmalls.com). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.
+Thank you for accessing the website of CWMALLS COMMODITY LIMITED. (site address:[https://www.cwmalls.com](https://www.cwmalls.com/)). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.
 
 This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.
 
@@ -16,9 +16,9 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 **  UPDATES TO THIS POLICY**
 
-If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us at (86)571 **89877099**.
+If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us at **1-626-620-6846, 0086-571** - **89877099**.
 
-www.cwmalls.com is aware that the security of your private information from the use of our website is an important concern. We take the protection of your personal data very seriously. Therefore we would like you to know what data we maintain and what data we discard. With this privacy notice, we would like to inform you about our security measures.  
+WWW.CWMALLS.COM is aware that the security of your private information from the use of our website is an important concern. We take the protection of your personal data very seriously. Therefore we would like you to know what data we maintain and what data we discard. With this privacy notice, we would like to inform you about our security measures.  
 Collection and processing of personal data  
 We collect personal data only when you provide it to us, through registration, completion of forms or e-mails, as part of an order for products or services, inquiries or requests about materials being ordered and similar situations in which you have chosen to provide the information to us. The database and its contents remain at our company and stay with data processors or servers acting on our behalf and responsible to us. Your personal data will not be passed on by us for use by third parties in any form whatsoever, unless we have obtained your consent or are legally required to do so. We will retain control of and responsibility for the use of any personal data you disclose to us. Some of this data may be stored or processed at computers located in other jurisdictions, such as the United States, whose data protection laws may differ from the jurisdiction in which you live. In such cases, we will ensure that appropriate protections are in place to require the data processor in that country to maintain protections on the data that are equivalent to those that apply in the country in which you live.
 
@@ -50,8 +50,8 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 Choice and Opt-Out   
 If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [cwmalls@cwmalls.com](mailto:cwmalls@yahoo.com)
 
-**Note: If you have any question, please contact us in time( **[service@cwmalls.com](mailto:service@cwmalls.com)** , +86 13957165063), we will solve all your issues the first time! Thanks for your trust and attention!**
+**Note: If you have any question, please contact us in time( **[service@cwmalls.com](mailto:service@cwmalls.com)** , **1-626-620-6846,  **+86 13957165063), we will solve all your issues the first time! Thanks for your trust and attention!**
 
-**Cwmalls will be more wonderful with you!**
+**CWMALLS will be more wonderful with you!**
 
 ****[WWW.CWMALLS.COM](http://www.cwmalls.com/ "Global online mall for leather jacket,fur coat,shoes,bag,etc.")****
