@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the procon.org privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121201420id_/http%3A//www.procon.org/view.background-resource.php%3FresourceID%3D6259%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procon.org privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628132947id_/https%3A//www.procon.org/view.background-resource.php%3FresourceID%3D6259%23privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer - ProCon.org
 
@@ -27,18 +27,21 @@ Privacy Policy and Disclaimer
 
   10. If we decide to change this privacy policy, those changes will be reflected in this Privacy Statement (last updated Nov. 12, 2013).
 
-  11. We welcome your suggestions or comments about our Privacy Policy. Please send your comments to our [Managing Editor](mailto:kamy@procon.org). 
+  11. We welcome your suggestions or comments about our Privacy Policy. Please send your comments to our [Managing Editor](https://web.archive.org/cdn-cgi/l/email-protection#7b101a16023b0b09141814155514091c). 
+
+  12. On May 25, 2018 the EU General Data Protection Regulation (GDPR) came into force in all European Union member states. Details about those regulations are here https://gdpr-info.eu/. EU residents who subscribe to the ProCon.org email newsletter have provided their email addresses which can be considered personally identifiable information. ProCon.org uses those email addresses to send opt-in subscribers research updates as they have requested. We do not make other use of the email data. ProCon.org respects user personal data and takes great care to maintain its confidentiality. Recipients can unsubscribe from email newsletters at any time. EU resident donor data are similarly protected with strict confidentiality protocols. 
 
 
 
 
 **Disclaimer**
 
-ProCon.org content is offered as a public benefit in accordance with our 501(c)(3) status. All the information on our sites can be viewed free of charge, and reprinting is allowed under the guidelines outlined in our [Terms of Use](http://www.procon.org/terms-of-use.php) policy. 
+ProCon.org content is offered as a public benefit in accordance with our 501(c)(3) status. All the information on our sites can be viewed free of charge, and reprinting is allowed under the guidelines outlined in our [Terms of Use](https://www.procon.org/terms-of-use.php) policy. 
 
-The information on the ProCon.org websites has been compiled using the data available to us. We strive for accuracy but cannot be held responsible for any factual errors or mistakenly attributed quotations. We are human and sometimes make mistakes. We make every effort to correct any such errors promptly when they are brought to our attention. Please [Contact Us](https://web.archive.org/web/20171017083406id_/https://www.procon.org/contact.asp) to report any errors on our sites. 
+The information on the ProCon.org websites has been compiled using the data available to us. We strive for accuracy but cannot be held responsible for any factual errors or mistakenly attributed quotations. We are human and sometimes make mistakes. We make every effort to correct any such errors promptly when they are brought to our attention. Please [Contact Us](https://web.archive.org/web/20190628133000id_/https://www.procon.org/contact.asp) to report any errors on our sites. 
 
 Just because we quote someone does not mean we in any way agree with them or support their perspective. ProCon.org's inclusion of links or references to outside sites or organizations is not intended to in any way endorse the views expressed or products/services offered by those third parties. Similarly, we bear no responsibility for the content or views expressed on sites that link to a ProCon.org website. 
 
+  
   
 
