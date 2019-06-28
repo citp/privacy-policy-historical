@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dexerto.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222223711id_/https%3A//www.dexerto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexerto.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629005823id_/https%3A//www.dexerto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dexerto.com – Esports & Gaming
+# Privacy Policy | Dexerto.com
 
 The following terms govern the use of Dexerto Limited websites and technologies, along with other online features and services, including but not limited to emails, forums, giveaways, newsletters (collectively, the “ **Platforms** ”) operated by Dexerto Limited and our subsidiaries (collectively “ **Dexerto** ” “ **we** ”  **us** ”  **or** “ **our** ”).
 
@@ -118,4 +118,4 @@ LS2 8AJ
 
 United Kingdom
 
-Alternatively, you can use this email address: [[email protected]](https://www.dexerto.com/cdn-cgi/l/email-protection#acfcdec5dacdcfd5ecc8c9d4c9ded8c382cfc3c1)
+Alternatively, you can use this email address: [[email protected]](https://www.dexerto.com/cdn-cgi/l/email-protection#68381a011e090b11280c0d100d1a1c07460b0705)
