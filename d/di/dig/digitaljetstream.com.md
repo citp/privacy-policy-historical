@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaljetstream.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226073017id_/http%3A//www.digitaljetstream.com/2.0/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljetstream.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628183052id_/http%3A//www.digitaljetstream.com/2.0/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,7 +86,7 @@ By default, customers will receive invoices, any system updates, DigitalJetstrea
 
 ## Public Forums
 
-Please remember that any information you may disclose or post on public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from our community forums or testimonials, contact us at [isupport@digitaljetstream.com](mailto:isupport@digitaljetstream.com "Email isupport@digitaljetstream.com"). In some cases, we may not be able to remove your personal information, in which case we will let you know why we are unable to do so.
+Please remember that any information you may disclose or post on public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from our community forums or testimonials, contact us at [support@digitaljetstream.com](mailto:support@digitaljetstream.com "Email isupport@digitaljetstream.com"). In some cases, we may not be able to remove your personal information, in which case we will let you know why we are unable to do so.
 
 ## Data Security
 
