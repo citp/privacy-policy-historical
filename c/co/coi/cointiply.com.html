@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cointiply.com privacy policy that was archived on 2018-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181112164747id_/http%3A//www.cointiply.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cointiply.com privacy policy that was archived on 2019-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190629014235id_/https%3A//cointiply.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -16,15 +16,15 @@
     <meta name="theme-color" content="#1e2132">
 
     <!-- CSRF Token -->
-    <meta name="csrf-token" content="WqdtB1IX4axsamLI3ZzE8LoQliRBWeppMxOGjihy">
+    <meta name="csrf-token" content="0q7bEU9A2mhlGRC18UFISfLL2EvX5W1LSN5Z5mw8">
 
     <title>Cointiply Bitcoin Faucet - Earn Free Bitcoin - Beta</title>
 
     <!-- Styles -->
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
     <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
-    <link href="/css/app.css?v=8720182" rel="stylesheet">
-    <link href="/css/vendor.css" rel="stylesheet">
+    <link href="/css/app.css?v=0307" rel="stylesheet">
+    <link href="/css/vendor.css?v=0307" rel="stylesheet">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-112733560-1"></script>
@@ -57,7 +57,18 @@
     <meta name="dailymotion-domain-verification" content="dmxi85p7tyh03o7t2">
     <meta name="aid" content="">
 
-        <script type="text/javascript">
+            <script type="text/javascript">
+        window.cointivity = {
+            user_social: {},
+            user: {},
+            tasks: {},
+            slots: {},
+            items: {},
+            collections: [],
+            user_collections: [],
+            friends: {},
+            leaders: {}
+        };
         window.shared = {
         	user: null,
             balance: {
@@ -83,7 +94,8 @@
                                 ${item.value} ${item.nice_asset}
                       </span>`;
                   }},
-                  {field: 'created_at', real_field: 'timestamp', name: 'Date', field_type: 'timeago'},
+                    {field: 'created_at', real_field: 'timestamp', name: 'Date', field_type: 'timeago'},
+                    {field: 'created_at', real_field: 'created_at', name: 'Full Date', field_type: 'standard'}
                 ],
                 filters: [
                   {id: 'all', name: 'All Activity'},
@@ -93,137 +105,14 @@
                   {id: 'offerwall', name: 'Offerwalls'},
                   {id: 'referral', name: 'Referrals'},
                   {id: 'bonus', name: 'Bonuses'},
-                  {id: 'reversal', name: 'Reversals'},
-                  {id: 'purchase', name: 'Purchases'}
+                  {id: 'purchase', name: 'Purchases'},
+                  {id: 'deposits', name: 'Deposits'},
+                  {id: 'interest', name: 'Interest'},
+                  {id: 'adjustments', name: 'Adjustments'},
                 ]
               },
-              referrals: {
-                columns: [
-                  {field: 'id', real_field: 'referral_id', name: 'Referral ID', field_type: 'standard'},
-                  {
-                    field: 'balance', real_field: 'balance', name: 'Referral Earnings', field_type: 'rendered', render: (item) => {
-
-                      let total = 0;
-                      if (!item.referral_claims) {
-                        return `
-                          <span class="label label-info padding-left-10 padding-right-10 padding-5 font-size-12">
-                                     ${total} ${window.shared.SETTINGS.COIN_NAME}
-                          </span>`;
-                      }
-                      for (let claim of item.referral_claims) {
-                        total += claim.value;
-                      }
-                    return `
-        	          <span class="label label-info padding-left-10 padding-right-10 padding-5 font-size-12">
-                                 ${total} ${window.shared.SETTINGS.COIN_NAME}
-                      </span>`;
-
-
-                  }
-                  },
-                  {
-                    field: 'claims', real_field: 'claims', name: '# of Claims', field_type: 'rendered', render: (item) => {
-
-                    return `
-        	          <span class="label label-info padding-left-10 padding-right-10 padding-5 font-size-12">
-                                ${item.referral_claims.length}
-                      </span>`;
-
-                  }
-                  },
-                  {field: 'created_at', real_field: 'timestamp', name: 'User Joined', field_type: 'timeago'},
-                ],
-                filters: [
-                  {id: 'all', name: 'All Referrals'},
-                ]
-              },
-              payments: {
-                columns: [
-                  {
-                    field: 'description', real_field: 'description', name: 'Description', field_type: 'rendered', render: (item) => {
-                        if (item.status == 'pending' || item.status == 'error' || item.status == 'review' || item.status != 'confirmed')  {
-                            return `
-                                  <span>
-                                            ${item.description} <br/>
-                                  </span>`;
-                        }
-
-                        if ((item.network == 'coinpayments' || item.network == 'blocktrail') && item.status == 'confirmed') {
-                            return `
-                                  <span>
-                                            ${item.description} <br/>
-                                            <a class="link-accent" href="${item.blockchain_link}" target="_blank">View on Blockchain</a>
-                                  </span>`;
-                         }
-
-                      if (item.network == 'faucethub' && item.type == 'btc' && item.status == 'confirmed') {
-                          return `
-                                  <span>
-                                            ${item.description} <br/>
-                                            <a class="link-accent" href="http://faucethub.io" target="_blank">View on FaucetHub</a>
-                                  </span>`;
-                      }
-
-                    }
-                  },
-                  {
-                    field: 'status', real_field: 'nice_status', name: 'Status', field_type: 'rendered', render: (item) => {
-
-                    let meta = item.meta != null ? `<br/><br/>${item.meta}` : '';
-                    if (item.status == 'pending' || item.status == 'pending-m') {
-                      return `
-                          <span class="label label-info padding-left-10 padding-right-10 padding-5 font-size-12">
-                                    Pending
-                          </span>`;
-                    }
-
-                    if (item.status == 'confirmed' || item.status == 'approved') {
-                      return `
-                          <span class="label label-success padding-left-10 padding-right-10 padding-5 font-size-12 ">
-                                    Payment Sent
-                          </span>`;
-                    }
-
-                    return `
-                          <span class="label label-danger padding-left-10 padding-right-10 padding-5 font-size-12 ">
-                                    ${item.nice_status}
-                          </span> ${meta}`;
-
-
-                  }
-                  },
-                  {
-                    field: 'value', real_field: 'value', name: 'Amount', field_type: 'rendered', render: (item) => {
-                    return `
-        	          <span class="label label-info padding-left-10 padding-right-10 padding-5 font-size-12">
-                                ${item.pending_value}
-                      </span>`;
-                  }
-                  },
-                  {
-                    field: 'coins', real_field: 'coins', name: 'Coins', field_type: 'rendered', render: (item) => {
-                    return `
-        	          <span class="label label-info padding-left-10 padding-right-10 padding-5 font-size-12">
-                                ${item.coins} ${window.shared.SETTINGS.COIN_NAME}
-                      </span>`;
-                  }
-                  },
-                  {field: 'type', real_field: 'nice_currency', name: 'Currency', field_type: 'info'},
-                  {
-                    field: 'address', real_field: 'address', name: 'Address', field_type: 'rendered', render: (item) => {
-                    return item.address.hash;
-                  }
-                  },
-                  {field: 'action', real_field: 'nice_action', name: 'Type', field_type: 'standard'},
-                  {field: 'created_at', real_field: 'timestamp', name: 'Date', field_type: 'timeago'},
-                ],
-                filters: [
-                    {id: 'pending', name: 'Pending Withdrawals'},
-                    {id: 'confirmed', name: 'Confirmed Withdrawals'},
-                    {id: 'errored', name: 'Errored Withdrawals'},
-                    {id: 'deposits', name: 'Deposits'},
-                ]
-              }
+              referrals: {},
+              payments: {}
             },
             state: {
         	  claimsLoading: false,
@@ -234,7 +123,7 @@
               userValue: 0,
               monthlyUsers: 0,
             },
-          searchOptions: {
+            searchOptions: {
             pager: {
               page: 1,
               size: 20
@@ -250,6 +139,7 @@
             SETTINGS: {
         	  COIN_NAME: 'Coins',
         	  SOLVEMEDIA_KEY: 'yV2-eDlG17xYgQSNc9RF31oDSJmLOwhY',
+        	  FRESHDESK_URL: '/support',
               CLAIM_TYPES: [
                 {name: 'Main Faucet', value: 'free-roll'},
                 {name: 'Game Activity', value: 'game'},
@@ -283,54 +173,7 @@
             <md-button class="md-accent md-dense" @click.native="$refs.snackbar.close()">Close</md-button>
         </md-snackbar>
 
-        <div v-if="shared.user &amp;&amp; shared.user.earning_mode == 'gems'" class="corner-ribbon bottom-right sticky accent shadow">
-            <a href="/mg?intent=gems" class="no-underline">
-                <img src="/img/cmg_gems/gem_blue_sm.png" height="36" width="36"> GEM MODE
-            </a>
-        </div>
-
-                <nav class="navbar navbar-static-top">
-            <div class="container">
-                <div class="navbar-header">
-
-                    <!-- Collapsed Hamburger -->
-                    <md-button class="navbar-toggle collapsed md-condensed-button-margin md-accent md-raised margin-top-15 margin-right-20" data-toggle="collapse" data-target="#app-navbar-collapse">
-                        <md-icon>menu</md-icon>
-                    </md-button>
-
-                    <!-- Branding Image -->
-                    <a class="navbar-brand link-primary" href="http://www.cointiply.com">
-                        <img src="/img/cointiply_sm.png" class="img-responsive">
-                    </a>
-                </div>
-
-                <div class="collapse navbar-collapse" id="app-navbar-collapse">
-                    <!-- Left Side Of Navbar -->
-                    <ul class="nav navbar-nav">
-                        &nbsp;
-                    </ul>
-
-                    <!-- Right Side Of Navbar -->
-                    <ul class="nav navbar-nav navbar-right">
-                        <!-- Authentication Links -->
-                                                    <li>
-                                <md-button class="md-accent" href="https://cointiply.freshdesk.com/support/solutions" target="_blank">FAQ</md-button>
-                            </li>
-                            <li>
-                                <md-button class="md-accent" rel="nofollow" href="https://cointiply.freshdesk.com">Contact</md-button>
-                            </li>
-                            <li>
-                                <md-button class="md-accent" href="http://www.cointiply.com/login">Login</md-button>
-                            </li>
-                            <li>
-                                <md-button class="md-accent" href="http://www.cointiply.com/register">Register</md-button>
-                            </li>
-
-                        
-                                            </ul>
-                </div>
-            </div>
-        </nav>
+        
         
             <div class="container">
 
@@ -513,77 +356,7 @@
 
     </div>
 
-    <bomb-modal title="Frequently Asked Questions" ref="faqModal" class="overflow-auto">
 
-    <h3>What is Cointiply?</h3>
-    <p>
-        Cointiply is a next-gen Bitcoin faucet. Users earn free Bitcoin by interacting and completing tasks. The only requirement is that you have a Bitcoin, FaucetHub or DOGE address to send payments to. We will also be adding new payout options in the near future!
-    </p>
-
-    <h3>What is a faucet?</h3>
-
-    <p>Bitcoin faucets—or any cryptocurrency faucet—pay users a few satoshis for loading webpages with ads on them.</p>
-
-    <h3>When do I get paid?</h3>
-
-    <p>You can withdraw as soon as you have at least 35,000 coins. </p>
-
-    <h3>What do I have to do to trigger a withdrawal?</h3>
-
-    <p>Go to the <a href="/withdraw">"Withdrawal"</a> page and create a new withdrawal, after your withdrawal has been submitted you can view the status of it on the <a href="/payments">"Payments"</a> page.</p>
-
-    <h3>How long does it take to get my payment?</h3>
-
-    <p>That will sometimes depend on the Bitcoin network, but most payouts are processed in 24-48 hours (or even sooner). We post the blockchain transaction ID for each payout in your account details. For instant withdrawals you can create a FaucetHub withdrawal.</p>
-
-    <h3>Do you charge transaction fees for withdrawals?</h3>
-
-    <p>No. For now, Cointiply covers transaction fees.</p>
-
-    <h3>What are offerwalls?</h3>
-
-    <p>Offerwalls are services that pay users for doing some kind of task. Those tasks include watching a video and the ads that come with them; visiting web pages; filling out surveys; installing apps; signing up for services, etc.</p>
-
-    <h3>How does Cointiply make money?</h3>
-
-    <p>We make money from the ads we show, and we get a cut from the offerwalls and games we host.</p>
-
-    <h3>What are "Coins?"</h3>
-
-    <p>Coins are what we call the credits you earn when using our faucets, games, and offerwalls. The value of a Coin is tied to the dollar and gets converted to satoshis (or the crypto currency of your choice) when you cash out.</p>
-
-    <h3>Why do you pay out in Coins?</h3>
-
-    <p>Bitcoins markets are very volatile, and many of the ad networks and offerwalls pay in fiat currency (i.e. dollars). We pay out in Coins pegged to the dollar to keep our costs constant. This protects both us and our users, because everyone involved knows how much they are earning on a dollar basis.</p>
-
-    <h3>Why does the value of my Coins change?</h3>
-
-    <p>The price of Bitcoin is very volatile, and the value of your Coins changes with the price of Bitcoin. As Bitcoin goes up, Coins are worth fewer satoshis. As Bitcoin goes down, Coins are worth more satoshis, but it's always worth the same amount in dollars.</p>
-
-    <h3>Do you have a referral program?</h3>
-
-                                                                                                                                                                                  <p>Yes! We pay 25% for life for faucet earnings, and 10% for life for offerwalls and game earnings. You can view all of the details on <a href="/referrals">your referrals</a> page.</p>
-
-    <h3>Where do I find my referral code?</h3>
-
-    You can find your referral code on your <a href="/home">account</a> page and on <a href="/referrals">your referrals</a> page.
-
-    <h3>I have lost/wish to reset my password.</h3>
-
-    <p>Go to the login page and click on the link that says <a href="/password/reset">Forgot Password</a> in the login box.</p>
-
-    <h3>Can you reverse a payments that have already been sent?</h3>
-
-    <p>Bitcoin payments are irreversible. Once we send a payment to the Bitcoin address you supplied, there is no way to recall it. You are responsible for making sure the Bitcoin address you supply is one you control. You can check your Bitcoin address on your Profile page.</p>
-
-</bomb-modal>
-    <!--
-<bomb-side-menu title="Stats" modal="statsModal" class="hidden-xs"></bomb-side-menu>
--->
-
-<bomb-modal title="Cointiply Stats" ref="statsModal">
-    <div id="chartdiv" style="height: 400px; width: 100%;"></div>
-</bomb-modal>
         <div class="margin-top-40">&nbsp;</div>
 
         <footer id="cointiply-footer">
@@ -597,7 +370,7 @@
                 <ul>
                     <li><a href="/offers">Offer Walls</a></li>
                     <li><a href="/videos">Videos</a></li>
-                    <li><a href="/mg">Mining Game</a></li>
+                    <li><a href="/pg">Multiplier</a></li>
                 </ul>
             </div>
             <div class="col-sm-2">
@@ -611,7 +384,7 @@
             <div class="col-sm-2">
                 <h5>Support</h5>
                 <ul>
-                                        <li><a href="https://cointiply.freshdesk.com" target="_blank">FAQ &amp; Help Desk</a></li>
+                                        <li><a href="/support" target="_blank">FAQ &amp; Help Desk</a></li>
                                         <li><a href="https://status.cointiply.com" rel="nofollow" target="_blank">System Status</a></li>
                     <li><a href="https://bitcointalk.org/index.php?topic=2889264" rel="nofollow" target="_blank">Bitcointalk</a></li>
                 </ul>
@@ -620,23 +393,47 @@
                 <div class="social-networks">
                     <a href="https://twitter.com/cointiplyfaucet" class="twitter" target="_blank"><img src="/img/twitter-white.png"></a>
                 </div>
-                                    <a href="https://cointiply.freshdesk.com" target="_blank" class="btn btn-default">Contact Us</a>
+                                    <a href="/support" target="_blank" class="btn btn-default">Contact Us</a>
                             </div>
         </div>
     </div>
     <div class="footer-copyright">
-        <p>© Copyright  2018 3DAH -  cGx5d2ViMw==</p>
+        <p>© Copyright  2019 3DAH <br> Server Time: 2019-06-29 01:42:35</p>
     </div>
 </footer>
         <div class="adsbox side-ad">&nbsp;</div>
+
+        <bomb-modal title="Deposit Bitcoin to Your Account" ref="depositsModal" class="overflow-auto">
+
+    <div class="col-lg-7 text-left">
+        <deposit tag="general" title="Deposit Bitcoin for Coins"></deposit>
+    </div>
+    <div class="col-lg-5 text-left">
+        <h4 class="margin-bottom-5 margin-top-10">How does this work?</h4>
+        <hr class="news-seperator no-margin-top">
+        <p>Generate a deposit address and send your Bitcoin to the deposit address. There is no minimum.</p>
+        <p>After 2 confirmations your deposit will be confirmed and the Coin equivalent will be added to your account balance. You can then use your Coins anywhere on Cointiply.</p>
+        <p>If you have more than 35,000 Coins in your account you can earn 5% annual interest on your Coin balance.</p>
+    </div>
+
+
+</bomb-modal>
+        <wagering-contest ref="wageringContestModal"></wagering-contest>
+
+        
     </div>
 
         <!-- Feedback widget -->
 
     
 
-    <script src="/js/bootstrap.js?v=11620182"></script>
-        <script src="/js/app.js?v=11620182"></script>
+    <script type="text/javascript">
+        window.APP_ENV = "production";
+    </script>
+    <script src="/js/bootstrap.js?v=190429"></script>
+            <script src="/js/app.js?v=190627"></script>
+
+
 
     
     
