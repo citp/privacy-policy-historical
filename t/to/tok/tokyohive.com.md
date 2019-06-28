@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the tokyohive.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121180847id_/http%3A//tokyohive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyohive.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628172916id_/https%3A//www.tokyohive.com/privacy) for the most accurate reproduction.*
 
 # 
 
-This statement covers the site tokyohive.com (tokyohive). Please read this statement carefully before proceeding to access tokyohive. Your use of tokyohive indicates your agreement to abide by the Terms in effect. The Website is owned and operated by 6Theory Media LLC (6Theory for short). You can view our Terms of Service (TOS) [here](http://www.tokyohive.com/tos). If you have any questions or suggestions regarding our privacy policy, please contact us.
+This statement covers the site tokyohive.com (tokyohive). Please read this statement carefully before proceeding to access tokyohive. Your use of tokyohive indicates your agreement to abide by the Terms in effect. The Website is owned and operated by 6Theory Media LLC (6Theory for short). You can view our Terms of Service (TOS) [here](https://www.tokyohive.com/tos). If you have any questions or suggestions regarding our privacy policy, please contact us.
 
- **UPDATE**
+**UPDATE**
 
 Effective date: May 21, 2018
 
-6Theory Media ("us", "we", or "our") operates the [www.tokyohive.com](http://www.tokyohive.com/) website (the "Service").
+6Theory Media ("us", "we", or "our") operates the [www.tokyohive.com](https://www.tokyohive.com/) website (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [www.tokyohive.com](http://www.tokyohive.com/)
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [www.tokyohive.com](https://www.tokyohive.com/)
 
 #### Website Visitors
 
@@ -20,14 +20,11 @@ Like most website operators, tokyohive.com collects non-personally-identifying i
 
 tokyohive also collects potentially personally-identifying information like Internet Protocol (IP) addresses. tokyohive does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-  
-
-
 ## Definitions
 
-  *  **Service**
+  * **Service**
 
-Service is the [www.tokyohive.com](http://www.tokyohive.com/) website operated by 6Theory Media
+Service is the [www.tokyohive.com](https://www.tokyohive.com/) website operated by 6Theory Media
 
   *  **Personal Data**
 
@@ -68,10 +65,7 @@ We collect several different types of information for various purposes to provid
 
 Certain visitors to 6Theory Media websites choose to interact with tokyohive in ways that require tokyohive to gather personally-identifying information. The amount and type of information that tokyohive gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at tokyohive.com to provide a username, email address and profile information. In each case, tokyohive collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with tokyohive. tokyohive does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
-
-  
-
+We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/).
 
 ### Types of Data Collected
 
@@ -100,7 +94,7 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-  *  **Session Cookies.**  We use Session Cookies to operate our Service.
+  * **Session Cookies.**  We use Session Cookies to operate our Service.
   *  **Preference Cookies.**  We use Preference Cookies to remember your preferences and various settings.
   *  **Security Cookies.**  We use Security Cookies for security purposes.
   *  **Advertising Cookies.**  Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
@@ -187,9 +181,6 @@ The security of your data is important to us, but remember that no method of tra
 
 tokyohive discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on tokyohive’s behalf or to provide services available at 6Theory’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using 6Theory’s websites, you consent to the transfer of such information to them. tokyohive will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, tokyohive discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when tokyohive believes in good faith that disclosure is reasonably necessary to protect the property or rights of tokyohive, third parties or the public at large. If you are a registered user of a 6Theory website and have supplied your email address, tokyohive may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with 6Theory / tokyohive and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. tokyohive takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-  
-
-
 ## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
 
 If you are a resident of the European Economic Area (EEA), you have certain data protection rights. 6Theory Media aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
@@ -198,7 +189,7 @@ If you wish to be informed what Personal Data we hold about you and if you want 
 
 In certain circumstances, you have the following data protection rights:
 
-  *  **The right to access, update or to delete the information we have on you.**  Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  * **The right to access, update or to delete the information we have on you.**  Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
 
   *  **The right of rectification.**  You have the right to have your information rectified if that information is inaccurate or incomplete.
 
@@ -227,13 +218,13 @@ These third parties have access to your Personal Data only to perform these task
 
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
-  *  **Google Analytics**
+  * **Google Analytics**
 
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
 
 You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
 
   * #### Aggregated Statistics
 
@@ -248,11 +239,11 @@ tokyohive may collect statistics about the behavior of visitors to its websites.
 
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
 
-  *  **Google AdSense & DoubleClick Cookie**
+  * **Google AdSense & DoubleClick Cookie**
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 
 
@@ -277,5 +268,4 @@ If you have any questions about this Privacy Policy, please contact us:
 
   * By email: info@6theory.com
 
-  
 
