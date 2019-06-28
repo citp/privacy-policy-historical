@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therapeuticresearch.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108085509id_/http%3A//info.therapeuticresearch.com/data-usage-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therapeuticresearch.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628170612id_/http%3A//info.therapeuticresearch.com/data-usage-policy) for the most accurate reproduction.*
 
 # Data Usage Policy
 
@@ -22,4 +22,4 @@ Cookies are unique identifiers that can be digitally transferred to your device 
 
  **Data Storage Duration**
 
-When TRC receives your information under lawful basis, we will keep your information securely for a minimum of 25 years. You can request that we delete any part of your data by emailing [privacyofficer@trchealthcare.com](mailto:privacyofficer@trchealthcare.com).
+When TRC receives your information under lawful basis, we will keep your information securely for a minimum of 25 years. You can request that we delete any part of your data by contacting us at [http://info.therapeuticresearch.com/privacyofficer](https://web.archive.org/privacyofficer). 
