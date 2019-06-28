@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastspring.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024523id_/https%3A//fastspring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastspring.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628223032id_/https%3A//fastspring.com/privacy) for the most accurate reproduction.*
 
-# FastSpring Privacy Policy | FastSpring
+# FastSpring Privacy Policy - FastSpring
 
 A cookie is a commonly used automated data collection tool. Cookies are small text files that are placed on your computer or device by websites that you visit or HTML-formatted emails you open, in order to make websites work, or to work more efficiently. 
 
