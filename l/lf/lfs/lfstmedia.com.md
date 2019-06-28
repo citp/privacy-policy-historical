@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lfstmedia.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180249id_/https%3A//www.lifestreet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfstmedia.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628115715id_/https%3A//www.lifestreet.com/privacy) for the most accurate reproduction.*
 
 # LifeStreet — Privacy Policy
 
@@ -126,7 +126,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 #### DATA PRIVACY
 
-LifeStreet complies with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. LifeStreet has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+LifeStreet complies with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States, respectively. LifeStreet has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 In compliance with the EU-US and Swiss-US Privacy Shield Principles, LifeStreet commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact LifeStreet at [all.dataprotection@lifestreet.com](mailto:all.dataprotection@lifestreet.com) [lifestreet.com/privacy](https://web.archive.org/privacy).
 
