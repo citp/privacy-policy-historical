@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the gearbest.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230162020id_/https%3A//www.gearbest.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearbest.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628163958id_/https%3A//www.gearbest.com/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | GearBest.com
-
-#### Privacy Policy
-
-This Privacy Statement explains how GEARBEST (HONG KONG) LIMITED (“GearBest” “we,” “us,” or “our”) collects, uses, and discloses your personal information in connection with its operation of the GearBest ecommerce platform.
+# Privacy Policy | Gearbest.com
 
 #### What information do we collect? 
 
@@ -51,7 +47,7 @@ You may send us an e-mail to support@gearbest.com to exercise your rights. We wi
 
 #### How do we protect your information? 
 
-You are responsible for your own username and password safety and security on GearBest. We recommend choosing a strong password and changing it frequently. Please do not use the same login details (email and password) across multiple websites.
+You are responsible for your own username and password safety and security on Gearbest. We recommend choosing a strong password and changing it frequently. Please do not use the same login details (email and password) across multiple websites.
 
 That said, we do implement a variety of security measures including offering the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
