@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226041455id_/https%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629014133id_/https%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # This Site's Privacy Policy | Gizmo's Freeware
-
-Oops, it looks like you are using an ad blocker.  
-We work hard to provide you our software news and we keep our ads non-intrusive.  
-Please support us keeping our content free by disabling your ad blocker.
 
 toggle-button
 
