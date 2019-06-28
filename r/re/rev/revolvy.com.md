@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the revolvy.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123131350id_/https%3A//www.revolvy.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvy.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628210155id_/https%3A//www.revolvy.com/main/privacy.php) for the most accurate reproduction.*
 
 # Revolvy Privacy Policy
 
-**May 15, 2018**
+**March 7, 2019**
 
 Thank you for using Revolvy ([https://www.revolvy.com](https://www.revolvy.com/))!
 
@@ -14,7 +14,11 @@ By visiting and using Revolvy, you accept the privacy practices described in thi
 
 ## I. The Information We Collect And How We Collect It
 
-1\. Information You Provide To Us. We collect personal information required to administer your Revolvy account. This includes a user name you create, your primary email address, and a password so you can gain access to your account. We encrypt this password and we do not have access to an unencrypted version of it. We also create a Revolvy user ID number and other non-public information that is associated with your account. Other personal information you provide Revolvy is voluntary and may include your full name, profile image, your country, your language, your location, an alternative email address, your birthday, and information you choose to publicly share with others on the site. If you choose, you can link your social media accounts (Facebook, Twitter, Tumblr, Pinterest, Instagram, Google+) and your website URL.
+1\. Information You Provide To Us. We collect personal information required to administer your Revolvy account. This includes a user name you create, your primary email address, and a password so you can gain access to your account. We encrypt this password and we do not have access to an unencrypted version of it.
+
+We also create a Revolvy user ID number and other non-public information that is associated with your account. Other personal information you provide Revolvy is voluntary and may include your full name, profile image, your country, your language, your location, an alternative email address, your birthday, and information you choose to publicly share with others on the site. If you choose, you can link your social media accounts (Facebook, Twitter, Tumblr, Pinterest, Instagram, Google+) and your website URL.
+
+We also store comments you make and topics you create. These voluntary posts you make to our site are stored in our database.
 
 If you send us an e-mail or fill out forms located on Revolvy, we may collect your e-mail address and the full content of your e-mail, including attached files, and other information you provide.
 
@@ -30,7 +34,7 @@ Our third-party providers may also use cookies, web beacons and navigational dat
 
 ## II. How Collected Information Is Used
 
-1\. Operations and Improvements. Personal Information you submit to us is used to provide you access to Revolvy, to improve Revolvy, to better tailor the features and performance of Revolvy, and to offer you additional information, opportunities, promotions and functionality from us, our partners or our advertisers. Additionally, information that you have voluntarily provided to us (such as topics you create, comments you make, media you attach to topics, folders in which you save topics) are used (with other users' information) as part of the community-sharing environment of the site, and is publicly viewable by all Revolvy users.
+1\. Operations, Improvements and Interaction. Personal Information you submit to us is used to provide you access to Revolvy, to improve Revolvy, to better tailor the features and performance of Revolvy, and to offer you additional information, opportunities, promotions and functionality from us, our partners or our advertisers. Additionally, information that you have voluntarily provided to us (such as topics you create, comments you make, media you attach to topics, folders in which you save topics) are used (with other users' information) as part of the community-sharing environment of the site, and is publicly viewable by all Revolvy users.
 
 2\. Communications. At times, we may contact a user via email or phone, if that's available, for administrative purposes. This may include customer service, to address intellectual property infringement, right of privacy violations or defamation issues related to the data posted on Revolvy or with updates relating to products and services offered by us and by third parties we work with. We may also use and display your full name and email address when you send an email notification to a friend through Revolvy or the social network from which you have connected to Revolvy. Additionally, we may use your email address to contact you on behalf of your friends or notifications from a social network or other website with whom you have registered to receive such notifications. You have the ability to opt-out of receiving these communications by adjusting your profile settings.
 
@@ -38,11 +42,20 @@ Our third-party providers may also use cookies, web beacons and navigational dat
 
 4\. Advertisements. Advertisers and ad servers who use cookies and other technologies to track user activity on Revolvy and other sites may use the information they collect to personalize the promotion of products and/or services by placing advertisements on Revolvy. These advertisers and ad servers may also use cookies in order to monitor information related to the served advertisements. Clicking on such advertisements will direct you to the website of a third-party and the advertiser. This Policy does not cover the privacy practices of any advertisers or ad servers.
 
+To opt-out of being tracked by third party advertisers, click the links below:
+
+> NAI: [optout.networkadvertising.org](https://optout.networkadvertising.org/)  
+>  DAA: [optout.aboutads.info](https://optout.aboutads.info/)
+
+Google is one of the primary advertisers on Revolvy. As a third party vendor, Google uses cookies to serve ads on the site. Google's uses cookes to serve ads to our users based on their visit to Revolvy and other sites on the Internet. For more detailed information on how Google uses cookies in advertising and how you can manage these cookies in your web browser, please visit <https://policies.google.com/technologies/cookies>
+
 5\. Third-Party Service Providers. We may provide your personal information to third-party service providers who work on behalf of or with us to provide some of the services and features of Revolvy and to help us communicate with you. Examples of such services include MailChimp, a company that facilitates communication with our users via email. We do not maintain responsibility for the manner in which third parties use or further disclose personal information collected from you in accordance with this Policy, after we have disclosed such information to those third parties
 
 ## III. Information Sharing
 
 1\. Revolvy is a site that enables you to save topics into folders you personalize. You may also create your own topics. Additionally, you may personalize topics by "attaching" links, images, videos, comments and the such. We save this information for you and associate it to your account so you can access it when you want. This information is available for the public to see. Please do not post any information that you do not want others to see.
+
+Additionally, on Revolvy you may 1) post comments to topics, 2) reply to other users' comments, and/or 3) indicate reactions to comments and replies. Please be aware than any posting (comment, reply, reaction et. al.) is publicly visible to anyone who can see it and Revolvy has no control over how it may be shared or used by others including search engines and marketers. 
 
 2\. Service Providers. We may share collected information to service providers that we have engaged to perform business-related services on our behalf. This may include providers that: (a) conduct research and analytics; (b) create content; (c) provide customer, technical or operational support; (d) conduct or support marketing (such as email or advertising platforms); (e) host our servers; (f) administer games and contests; and (g) otherwise support our business activities.
 
