@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217175636id_/https%3A//www.samhsa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628170654id_/https%3A//www.samhsa.gov/privacy) for the most accurate reproduction.*
 
 # Privacy | SAMHSA - Substance Abuse and Mental Health Services Administration
 
@@ -83,7 +83,7 @@ SAMHSA conducts and publishes a Privacy Impact Assessment (PIA) for each use of 
 
 SAMHSA will take all reasonable steps necessary to protect the privacy and safety of any child from whom information is collected, as required by the [Children’s Online Privacy Protection Act (COPPA)](http://www.coppa.org/coppa.htm). A child’s parent or guardian is required to provide consent before SAMHSA collects, uses, or shares personal information from a child under age 13.
 
-Information and instructions will be provided by the specific webpage and/or app that collects information about a child. The webpage and/or app will specify exactly what the information will be used for, who will see it, and how long it will be kept. 
+Information and instructions will be provided by the specific webpage and/or app that collects information about a child. The webpage and/or app will specify exactly what the information will be used for, who will see it, and how long it will be kept.
 
 * * *
 
@@ -119,8 +119,8 @@ For each system of records, a specified Agency employee, known as a system manag
 
   * [System of Records Notices (SORNs)](https://www.hhs.gov/foia/privacy/sorns/index.html)
   * [Privacy Impact Assessment (PIA)](https://www.samhsa.gov/privacy/pia "PIA")
-  * [U.S. Federal Government related policies, including Privacy Act of 1974](http://www.hhs.gov/ocio/securityprivacy/pglandreports/polguidlegrep.html)
-  * [HHS Privacy Contacts (HHS Intranet)](http://intranet.hhs.gov/it/cybersecurity/privacy/index.html)
+  * [U.S. Federal Government related policies, including Privacy Act of 1974](https://www.hhs.gov/foia/privacy/index.html)
+  * [HHS Privacy Contacts (HHS Intranet)](https://www.hhs.gov/foia/contacts/index.html)
   * [Personally Identifiable Information (PII) Breach Response Team (BRT) Policy](http://www.hhs.gov/ocio/policy/20080001.003.html)
   * [Privacy of Individually Identifiable Health Information (Privacy Rule)](http://www.hhs.gov/ocr/privacy/)
 
