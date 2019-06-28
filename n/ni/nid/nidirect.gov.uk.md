@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nidirect.gov.uk privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119112517id_/https%3A//www.nidirect.gov.uk/articles/nidirect-web-service-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nidirect.gov.uk privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628144803id_/https%3A//www.nidirect.gov.uk/articles/nidirect-web-service-privacy-notice) for the most accurate reproduction.*
 
 # Privacy | nidirect
 
