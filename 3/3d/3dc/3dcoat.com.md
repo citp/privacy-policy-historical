@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dcoat.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227223254id_/https%3A//3dcoat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dcoat.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628171702id_/https%3A//3dcoat.com/privacy) for the most accurate reproduction.*
 
 # Privacy – 3DCoat
 
@@ -15,6 +15,8 @@ We collect the data you provide to us directly, such as when you create a 3DCoat
   * \- Registration data (e-mail address and passwords, password hints, and similar security information used for authentication and account access) is used to provide you with the best experience using our Service and shall include collecting, storing and processing of this data by us and/or our partners (the list of which is contained in this Privacy Policy);
   * \- Other data you provide to our customer support (for example, first and last name, email address, postal address, phone number, and other similar contact data) is used by us to solve any issues you may experience when using our Services, for which we collect, store and process such data and, if necessary, transfer it for the same to our partners (the list of which is contained in this Privacy Policy);
   * \- Anonymous data which we get by recording how you interact with our Service or usage data from Service (this includes data about your device and the network you use to connect to our Service, including IP address). This data is collected for statistical purposes, which helps us to track errors and improve our Service. We collect, store and process such data and, if necessary, transfer it for the same purposes to third parties.
+  * - We use Google Analytics service so we know how our marketing strategy and sales channels work. To find out more about it please read [here](https://support.google.com/analytics/answer/3123662?hl=en "Opens external link in new window")
+  * - We use Facebook Pixel technology as well to make sure we reward our clients who found out about us from Facebook advertisement (more about it [here](https://www.facebook.com/business/learn/facebook-ads-pixel "Opens external link in new window")).
 
 
 
