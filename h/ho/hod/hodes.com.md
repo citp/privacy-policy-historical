@@ -1,23 +1,25 @@
-> *The following text is extracted and transformed from the hodes.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231161235id_/http%3A//www.symphonytalent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hodes.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628230928id_/http%3A//www.symphonytalent.com/privacy) for the most accurate reproduction.*
 
-# Symphony Talent | Privacy Policy - Symphony Talent
+# Privacy Policy | Symphony Talent
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=4b0cc642-aafe-4e68-a6c9-7f0221c5c07a)
 
 ### **Effective as of  
-**June 1, 2018
+**January 15, 2019
 
 At Symphony Talent, LLC (“Symphony Talent”, “we”, “us”, or “our”), we recognize that privacy is important, and we are committed to provide a safe, secure experience to you, the user (“you,” “your” or “user”).
 
-This Privacy Policy describes the privacy practices for the Symphony Talent websites: [symphonytalent.com](http://www.symphonytalent.com/), [hrapply.com](http://hrapply.com/), [thehive.com](http://thehive.com/), [skillcheck.com](http://skillcheck.com/), [swarm.findly.com](http://swarm.findly.com/), [go8.smartpost.com](http://go8.smartpost.com/), [waggle.findly.com](http://waggle.findly.com/) _,_ [x-cloud.io](http://x-loud.io/) **,** and [m-cloud.io](http://m-cloud.io/) (hereinafter collectively “Symphony Talent Sites” or “Sites”), as well as related products, offerings and services we may offer to you (collectively referred to as the “Services”). This Privacy Policy also covers how personal and other inf **o** rmation that we receive or collect about you is treated. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Please read the information below to learn more regarding your privacy and your use of the Symphony Talent Sites and Services.
+This Privacy Policy describes the privacy practices for the Symphony Talent websites: _[symphonytalent.com](https://www.symphonytalent.com/)_ , _[hrapply.com](http://hrapply.com/)_ , _[thehive.com](http://thehive.com/)_ , _[skillcheck.com](http://skillcheck.com/)_ , _[swarm.findly.com](http://swarm.findly.com/?__hstc=48145400.97a3ec33c82a1dc4c091406408a9c77e.1545277014508.1545277014508.1545329400609.2&__hssc=48145400.1.1545329400609&__hsfp=213677027)_ , _[go8.smartpost.com](http://go8.smartpost.com/)_ , _[waggle.findly.com](http://waggle.findly.com/?__hstc=48145400.97a3ec33c82a1dc4c091406408a9c77e.1545277014508.1545277014508.1545329400609.2&__hssc=48145400.1.1545329400609&__hsfp=213677027)_ _,_ _[x-cloud.io](http://x-loud.io/)_ **,** and _[m-cloud.io](http://m-cloud.io/)_ (hereinafter collectively “Symphony Talent Sites” or “Sites”), as well as related products, offerings and services we may offer to you (collectively referred to as the “Services”). This Privacy Policy also covers how personal and other inf **o** rmation that we receive or collect about you is treated. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Please read the information below to learn more regarding your privacy and your use of the Symphony Talent Sites and Services.
 
-You acknowledge that this Privacy Policy is designed to be read in connection with the Sites’ Terms of Use, which are available at <http://www.symphonytalent.com/terms-of-use/> and that by accessing or using our Sites, whether as a Job Seeker or Recruiter, you explicitly accept the collection, use and transfer of your information as described in this Privacy Policy, and you agree to be bound by the Sites’ Terms of Use.
+You acknowledge that this Privacy Policy is designed to be read in connection with the Sites’ Terms of Use, which are available at _<https://www.symphonytalent.com/terms-of-use/>_ and that by accessing or using our Sites, whether as a Job Seeker or Recruiter, you explicitly accept the collection, use and transfer of your information as described in this Privacy Policy, and you agree to be bound by the Sites’ Terms of Use.
 
-If you do not want your information to be collected, used, and transferred as described by this Privacy Policy, you may revoke your consent to our Privacy Policy by emailing us at [privacy@symphonytalent.com](mailto:privacy@symphonytalent.com) or by exiting the Site and not accessing the Services.
+If you do not want your information to be collected, used, and transferred as described by this Privacy Policy, you may revoke your consent to our Privacy Policy by emailing us at privacy@symphonytalent.com or by exiting the Site and not accessing the Services.
 
 We reserve the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat your personal information by either placing a prominent notice on our Sites, and/or sending a notice to the primary email address you provided to us prior to the change becoming effective. We will also update our privacy information on this page. It is your responsibility to review any updates to our Privacy Policy. Your continued use of Symphony Talent Sites and/or Services after any such modification to our Privacy Policy will constitute your acknowledgment of the modified Privacy Policy and your agreement to abide and be bound by the new Privacy Policy.
 
 Symphony Talent Sites offer you a range of Services that require different types of information and information use, in order for you to use those Services. You should note as you read this Privacy Policy, that it is a single Privacy Policy for all different types of users and the Services we offer. As such, some of the information discussed herein may not appear to be relevant to the specific Services you wish to use. As an example, if you are a job seeker who is registering for job alert emails, the sections in this Privacy Policy relating to information such as a “Social Security Number” are not relevant to you. We only collect, store and use information that is needed to provide the Services you choose to use.
 
-If you have any questions about this Privacy Policy, please feel free to contact us by emailing us at [privacy@symphonytalent.com](mailto:privacy@symphonytalent.com)
+If you have any questions about this Privacy Policy, please feel free to contact us by emailing us at privacy@symphonytalent.com
 
 IMPORTANT: BY USING SYMPHONY TALENT SITES AND/OR SERVICES AVAILABLE ON THE SITES, YOU GIVE YOUR CONSENT THAT ALL PERSONAL INFORMATION THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED BELOW. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, DO NOT USE THE SITES OR ACCESS THE SERVICES.
 
@@ -25,7 +27,7 @@ IMPORTANT: BY USING SYMPHONY TALENT SITES AND/OR SERVICES AVAILABLE ON THE SITES
 
 This Policy applies to information we collect on sites owned or controlled by Symphony Talent or its affiliated companies (hereinafter “Symphony Talent”). Affiliated companies are entities that control, are controlled by or are under common control with Symphony Talent.
 
-If you are using our Sites to look or offer yourself for work, apply for a job, sign up for alerts or other services, participate in a job survey, take a skills assessment, complete a background check, or perform other career-related activities (a “Job Seeker”), we share your information with potential employers, headhunters, recruiters, hiring managers and other human resource professionals (collectively “Recruiter” or “Recruiters”). We are unable to control their use of your data. We also do not control the data practices of those who access your information on or through our Sites, or other third parties with whom we work with to provide Services that you may choose to use.  You may wish to review the privacy policies of those sites so you can understand how they collect, use and share your information.
+If you are using our Sites to look or offer yourself for work, apply for a job, sign up for alerts or other services, participate in a job survey, take a skills assessment, complete a background check, or perform other career-related activities (a “Job Seeker”), we share your information with potential employers, headhunters, recruiters, hiring managers and other human resource professionals (collectively “Recruiter” or “Recruiters”). We are unable to control their use of your data. We also do not control the data practices of those who access your information on or through our Sites, or other third parties with whom we work with to provide Services that you may choose to use.  You may wish to review the privacy policies of those sites so you can understand how they collect, use and share your information.
 
 If you are using our Sites as a Recruiter, we do not control the data practices of third parties with whom we work with to provide Services that you may choose to use, nor parties that you may request we work with to integrate other services and systems you may use.
 
@@ -35,7 +37,7 @@ Some of our pages utilize framing techniques to serve content to/from our partne
 
 We collect three types of information when you use our Sites: Personal Information (“PI”), Company Information, and Passively-collected Information.  You acknowledge that any and all materials you upload to the Symphony Talent Sites (“Submissions”), are subject to this Privacy Policy.
 
-_**Personal Information:  **_This refers to information that lets us know the specifics of who you are. When you engage in certain activities on this Site, such as registering, purchasing a product or service, or sending us feedback, we may ask you to provide certain information about yourself.
+**Personal Information:** This refers to information that lets us know the specifics of who you are. When you engage in certain activities on this Site, such as registering, purchasing a product or service, or sending us feedback, we may ask you to provide certain information about yourself.
 
 When you use our Sites as a Job Seeker or as a Recruiter, you create a profile, which contains a core set of PI, which acts as a login authentication to identify you (a “Profile”). We store this Profile in the United States.
 
@@ -51,13 +53,13 @@ For example, your Profile will always contain:
 
 Then, depending on the Services you use, we may collect and store in your Profile:
 
-  4. contact information such as address, telephone number;
-  5. information about your education and occupation background, skills and experience, awards, memberships and affiliations, activities and interests;
-  6. information imported by you and/or your connections from third party sites;
-  7. information about third parties, such as references or contacts which you provide to us with the third parties’ express written consent to do so;
-  8. your resume, cover letters, patents, work examples and other documents (“Supporting Documents”);
-  9. your preferences and favorites; and/or
-  10. your age, gender, race or ethnicity, if permitted by local law and you choose to provide it.
+  1. contact information such as address, telephone number;
+  2. information about your education and occupation background, skills and experience, awards, memberships and affiliations, activities and interests;
+  3. information imported by you and/or your connections from third party sites;
+  4. information about third parties, such as references or contacts which you provide to us with the third parties’ express written consent to do so;
+  5. your resume, cover letters, patents, work examples and other documents (“Supporting Documents”);
+  6. your preferences and favorites; and/or
+  7. your age, gender, race or ethnicity, if permitted by local law and you choose to provide it.
 
 
 
@@ -73,19 +75,19 @@ Some Services allow you to set your Profile, parts of your Profile, your Support
 
 You may delete your Profile (which deletes your Supporting Documents and Public Submissions), from our Sites at any time. Some Countries and States require that we, and/or Recruiters that use our Services, retain a copy of the information you provided. Deleting your Profile from our Sites does not guarantee that copies of your information are also being deleted.
 
-If you provide us with details of a reference, it is your responsibility to ensure that the person is aware that you have forwarded his or her contact information and has consented in writing for you to do so. By providing the details of a reference, you warrant and represent that you have obtained that individual’s consent. We will only use the reference’s information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information as reference and you would like to request that it be removed from our database, please contact us at [privacy@symphonytalent.com](mailto:privacy@symphonytalent.com).
+If you provide us with details of a reference, it is your responsibility to ensure that the person is aware that you have forwarded his or her contact information and has consented in writing for you to do so. By providing the details of a reference, you warrant and represent that you have obtained that individual’s consent. We will only use the reference’s information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information as reference and you would like to request that it be removed from our database, please contact us at privacy@symphonytalent.com.
 
 All Submissions, including but not limited to Profiles, Supporting Documents, or other information you give to us, must not contain information relating to your (i) racial or ethnic origin, unless you choose to, and it is legal for you to do so (ii) political beliefs (iii) philosophical or religious beliefs (iv) membership of a trade union or political party (v) physical or mental health or biometric details or genetic makeup (vi) addictions, sexual life (vii) the commission of criminal offenses or proceedings and associated penalties or fines, or (viii) the commission of any unlawful or objectionable conduct and associated penalties. If the information you provide does contain any of the above, then you agree that it is at your own risk. We cannot control third parties’ access to such information as they use our Services.
 
-_**Company Information:  **_Your Profile only contains information about you. If you are using our Sites as a Recruiter, you will undertake activities on behalf of your company, (such as posting jobs, writing job descriptions, adding notes, documents, comments, and sending email to Job Seekers, etc.), and these activities create and store information for your company (“Company Information”), that is separate to your Profile.
+**Company Information:** Your Profile only contains information about you. If you are using our Sites as a Recruiter, you will undertake activities on behalf of your company, (such as posting jobs, writing job descriptions, adding notes, documents, comments, and sending email to Job Seekers, etc.), and these activities create and store information for your company (“Company Information”), that is separate to your Profile.
 
 All Company Information you give to us must not contain information relating to your (i) racial or ethnic origin, unless you choose to, and it is legal for you to do so (ii) political beliefs (iii) philosophical or religious beliefs (iv) membership of a trade union or political party (v) physical or mental health or biometric details or genetic makeup (vi) addictions, sexual life (vii) the commission of criminal offenses or proceedings and associated penalties or fines, or (viii) the commission of any unlawful or objectionable conduct and associated penalties. If the information you provide does contain any of the above, then you agree that it is at your own risk. We cannot control third parties’ access to such information as they use our Services.
 
 If you delete your Profile, Company Information that you may have added as a Recruiter will be deleted according to the company’s agreement with Symphony Talent, and the various legal laws pertaining to data storage.
 
-_**Passively-collected Information:  **_This refers to information that we collect automatically about you based upon where you visit on our Sites and what other sites may have directed you to us. We automatically collect information about how you use our Sites, the areas of our Sites that you visit, as well as information about your computer including your IP address, device ID, physical location, browser and operating system type, screen size and referring URLs. This information is necessary for providing personalized and location-based content as well as for analyzing the use of resources, troubleshooting problems, preventing fraud, and improving our Services. We may combine this information with information in your Profile to help prevent fraud, or to improve the value and relevant outcome of the services you use.
+**Passively-collected Information:** This refers to information that we collect automatically about you based upon where you visit on our Sites and what other sites may have directed you to us. We automatically collect information about how you use our Sites, the areas of our Sites that you visit, as well as information about your computer including your IP address, device ID, physical location, browser and operating system type, screen size and referring URLs. This information is necessary for providing personalized and location-based content as well as for analyzing the use of resources, troubleshooting problems, preventing fraud, and improving our Services. We may combine this information with information in your Profile to help prevent fraud, or to improve the value and relevant outcome of the services you use.
 
-If you choose to login, add, or otherwise connect with LinkedIn, Facebook or other such similar social network sites (“Social Information”), you authorize us to import and/or show the Social Information that you choose to share with us as part of your Profile, and use that information in the aggregate.
+If you choose to login, add, or otherwise connect with LinkedIn, Facebook or other such similar social network sites (“Social Information”), you authorize us to import and/or show the Social Information that you choose to share with us as part of your Profile, and use that information in the aggregate.
 
 Our Sites also let you share your Profile publicly; such that your Profile may be accessed by everyone on the Internet, including users without accounts, and your Profile may also appear in public search engine results. You may control the visibility of your information by managing your privacy settings. You may also restrict the information available to others by turning off and/or deleting information you do not want visible, or by not providing the information at all.
 
@@ -93,10 +95,10 @@ Our Sites also let you share your Profile publicly; such that your Profile may b
 
 **Where we collect Personal Information, we’ll only process it:**
 
-  * **to perform a contract with you, or**
-  * **where we have legitimate interests to process the personal data and they’re not overridden by your rights, or**
-  * **in accordance with a legal obligation, or**
-  * **where we have your consent.**
+  * to perform a contract with you, or
+  * where we have legitimate interests to process the personal data and they’re not overridden by your rights, or
+  * in accordance with a legal obligation, or
+  * where we have your consent.
 
 
 
@@ -134,7 +136,7 @@ Information you provide in your Profile may be accessed, used, and stored by oth
 
 We use information we have about you to determine whether you might be interested in the job and/or career opportunities of a particular third party. We may show you targeted ads on our Sites or other sites with which we have a business relationship. These ads are targeted based on information we collect about you and information about you we acquire from third parties.
 
-You can opt-in for a service that connects you to a live help desk agent who will help you find a job. If you choose to opt into this service, you are agreeing to be called or messaged about employment opportunities, job search assistance, career advancement and educational opportunities, to the phone number that you provide. This service is provided following the guidelines as defined under the US Telephone Consumer Protection Act (TCPA), found at [http://www.fcc.gov/document/telephone-consumerprotection-act-1991.](http://www.fcc.gov/document/telephone-consumer-protection-act-1991)
+You can opt-in for a service that connects you to a live help desk agent who will help you find a job. If you choose to opt into this service, you are agreeing to be called or messaged about employment opportunities, job search assistance, career advancement and educational opportunities, to the phone number that you provide. This service is provided following the guidelines as defined under the US Telephone Consumer Protection Act (TCPA), found at [http://www.fcc.gov/document/telephone-consumerprotection-act-1991.](http://www.fcc.gov/document/telephone-consumer-protection-act-1991)
 
 **How We Share Information**
 
@@ -148,7 +150,7 @@ We may disclose information to third parties if you consent. Your consent and su
   2. by completing a background check, assessment, or reference check as part of a hiring process at the request of an employer, you consent to the disclosure of your information to the third-party who may provide such Services, and you also consent to the results of such Services being shared with that one employer and their Recruiters;
   3. by participating in our Employee Referral Service, you consent to the disclosure of your information to that employer and their Recruiters;
   4. by using any of our Services as a Recruiter or employee, you consent to the disclosure of your information to the employer, agency or entity that is paying for your access or otherwise providing the Services to you;
-  5. by joining directly at TheHive.com you consent to the disclosure of your Profile to any employers and their Recruiters using our Services;
+  5. by joining directly at TheHive.com you consent to the disclosure of your Profile to any employers and their Recruiters using our Services;
   6. by opting in to add credentials to your Profile, you consent to the disclosure of your information to the third-party who may provide such credentialing Services, and if you pass (obtain) the credential, you also consent to the credential ‘badge’ being displayed on your Profile, and such badge being visible/available to any current and future party that you have disclosed your Profile to;
   7. if you opt in to receive information about the employment opportunities, products, or services of third parties, we supply your contact information to those third parties so they may contact you; and/or
   8. if you previously chose to receive newsletters, commercial emails or other communications from Symphony Talent or third parties, but subsequently change your mind, you may opt out in those emails by following the unsubscribe instructions included in those emails or by editing your account profile and opting out.
@@ -161,19 +163,39 @@ At times we may be required by law enforcement or judicial authorities to provid
 
 We may disclose and transfer information to a third party who acquires any or all of Symphony Talent’s business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. You will be notified via email and/or a prominent notice on our Sites of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-_**Advertising Opt Out:  **_Symphony Talent uses several third parties to help provide analytics services and to serve advertisements to you.  These third parties include Google, Bing, MediaMath, Flurry, and others. These third parties may employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our Sites. We may tie the information gathered to your Profile to help us better serve you, however we never provide that information back to those third parties. You can opt out of third party cookies by setting your browser to decline cookies. Symphony Talent does not respond to web browser “do not track” signals. You can opt out of targeted advertising from networks Symphony Talent works with by visiting [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/), or if you reside in the European Union, you may visit <http://www.youronlinechoices.eu/>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads by others.
+**Advertising Opt Out:** Symphony Talent uses several third parties to help provide analytics services and to serve advertisements to you.  These third parties include Google, Bing, MediaMath, Flurry, and others. These third parties may employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our Sites. We may tie the information gathered to your Profile to help us better serve you, however we never provide that information back to those third parties. You can opt out of third party cookies by setting your browser to decline cookies. Symphony Talent does not respond to web browser “do not track” signals. You can opt out of targeted advertising from networks Symphony Talent works with by visiting _[http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/)_ , or if you reside in the European Union, you may visit _<http://www.youronlinechoices.eu/>_. Please note this does not opt you out of being served advertising. You will continue to receive generic ads by others.
+
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set, visit _[www.aboutcookies.org](http://www.aboutcookies.org/)_ or _[www.allaboutcookies.org](http://www.allaboutcookies.org/)_.
+
+Find out how to manage cookies on popular browsers:  
+_[Google Chrome](https://support.google.com/accounts/answer/61416)_  
+_[Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)_  
+_[Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)_  
+_[Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)_  
+_[Opera](https://www.opera.com/help/tutorials/security/privacy/)_  
+_[Apple Safari](https://support.apple.com/en-gb/safari)_
+
+To find information relating to other browsers, visit the browser developer’s website.
+
+To opt out of being tracked by Google Analytics across all websites, visit _<http://tools.google.com/dlpage/gaoptout>_.
+
+Some mobile targeting is conducted based on anonymized advertising IDs.  Find out how to manage and delete advertising IDs from your device based on the mobile OS instructions below:
+
+_[iOS](https://support.apple.com/en-us/HT202074)_
+
+_[Android](https://support.google.com/ads/answer/2662922?hl=en)_
 
 **How You Update and/or Delete your Information**
 
-Depending on what Services you use, you may be able to access, update or delete your information in different ways.  For instance, some services such as Background Checks delivered by third parties may be legally required to keep your information for a period of time.
+Depending on what Services you use, you may be able to access, update or delete your information in different ways.  For instance, some services such as Background Checks delivered by third parties may be legally required to keep your information for a period of time.
 
-1) If you had taken an Assessment as part of applying for a job with a specific company via the SkillCheck.com website, you need to contact us at privacy@symphonytalent.com in order to have your assessment results deleted from that system.
+1) If you had taken an Assessment as part of applying for a job with a specific company via the SkillCheck.com website, you need to contact us at privacy@symphonytalent.com in order to have your assessment results deleted from that system.
 
 2) If you had applied to a job for a specific employer via the HRApply.com system, you need to visit that employer’s career website to log in and delete your profile.
 
-3) If you have joined an employer’s Talent Community, signed up for job alerts, joined TheHive.com, were referred to a job by a friend, participate as an employee in the Employee Referral program, attended a recruiting event, or are a user of any of the Symphony Talent Sites, you may access, review, correct, update, change or delete your Profile or any Supporting Documents at any time. To make any modification, you may log into your account at [https://www.TheHive.com](https://www.thehive.com/) and make the desired changes. You may need to set/reset your password in order to gain access to update/delete your information.
+3) If you have joined an employer’s Talent Community, signed up for job alerts, joined TheHive.com, were referred to a job by a friend, participate as an employee in the Employee Referral program, attended a recruiting event, or are a user of any of the Symphony Talent Sites, you may access, review, correct, update, change or delete your Profile or any Supporting Documents at any time. To make any modification, you may log into your account at _[https://www.TheHive.com](https://www.thehive.com/)_ and make the desired changes. You may need to set/reset your password in order to gain access to update/delete your information.
 
-Access to or correction, update, or deletion of your Profile may be denied or limited by Symphony Talent if it would violate another person’s rights and/or as otherwise permitted by applicable law. If you wish to delete or close your account and remove your Profile altogether, you can do so at any time by visiting [https://www.TheHive.com](https://www.thehive.com/). If you delete your Profile we will retain an archival copy of your Profile that is not accessible by you or third parties. Archival copies are retained only for as long as needed for audit and record purposes, and/or by law (“Archival Period”). We will also keep logs and information that may relate to your activity on our Site.
+Access to or correction, update, or deletion of your Profile may be denied or limited by Symphony Talent if it would violate another person’s rights and/or as otherwise permitted by applicable law. If you wish to delete or close your account and remove your Profile altogether, you can do so at any time by visiting _[https://www.TheHive.com](https://www.thehive.com/)_. If you delete your Profile we will retain an archival copy of your Profile that is not accessible by you or third parties. Archival copies are retained only for as long as needed for audit and record purposes, and/or by law (“Archival Period”). We will also keep logs and information that may relate to your activity on our Site.
 
 If you wish to re-establish your Profile during the Archival Period, you may re-join our Sites, and providing you use and authenticate with the same email address as you originally used to create your Profile, your full Profile and history will be restored, minus your Name, Address, Phone number, and any Permitted Hidden Information you may have previously added. You may re-add this information.
 
@@ -187,7 +209,7 @@ If you change your Profile, those changes will be provided to any party that acc
 
 While you are able to change and delete your Profile from our Sites, anyone who previously had your consent or otherwise viewed your Profile and/or used our Sites may have kept a copy of it. Some Countries and States require that we, and/or Recruiters that use our Services, retain a copy of the information you provided as you used the Services. Deleting and/or changing your Profile from/on our Sites does not guarantee that these copies are also being deleted/changed.
 
-Upon request we will provide you with information about whether we hold any of your personal information. If you have additional requests regarding your information, please contact us at privacy@symphonytalent.com. Symphony Talent will respond to information access requests within thirty (30) days of receipt. If we require additional time to respond, we will acknowledge receipt of your request within a reasonable timeframe and supplement our response within the time period required by applicable law.
+Upon request we will provide you with information about whether we hold any of your personal information. If you have additional requests regarding your information, please contact us at privacy@symphonytalent.com. Symphony Talent will respond to information access requests within thirty (30) days of receipt. If we require additional time to respond, we will acknowledge receipt of your request within a reasonable timeframe and supplement our response within the time period required by applicable law.
 
 If you have not logged onto our Site for an extended period, we may deactivate your Profile. You can reactivate your Profile simply by logging back in to any of our Sites within the Archival Period. Deactivated Profiles may be deleted. Our policy is to delete accounts and Profiles if a user does not log in within eighteen (18) months. We may extend or reduce this period at our discretion. If we change the period, we will update this notice. We will notify you at the email address you provided before we delete your account in this manner.
 
@@ -223,52 +245,66 @@ Symphony Talent is not intended for, nor do we knowingly collect information fro
 
 **Your Rights in Relation to your Personal Information**
 
-**You have rights relating to your Personal Information that we process. When it comes to marketing communications, you can ask us not to send you these at any time – just follow the unsubscribe instructions contained in the message, or send your request to**[privacy@symphonytalent.com](mailto:privacy@symphonytalent.com) **.**
+**You have rights relating to your Personal Information that we process. When it comes to marketing communications, you can ask us not to send you these at any time – just follow the unsubscribe instructions contained in the message, or send your request to** privacy@symphonytalent.com **.**
 
 **You also have rights to:**
 
-  * **know what Personal Information we hold about you,**
-  * **make sure it’s correct and up to date**
-  * **request a copy of your Personal Information (including in machine readable form)**
-  * **ask us to restrict processing your Personal Information or delete it**
-  * **object to our continued processing of your Personal Information**
+  * know what Personal Information we hold about you,
+  * make sure it’s correct and up to date
+  * request a copy of your Personal Information (including in machine readable form)
+  * ask us to restrict processing your Personal Information or delete it
+  * object to our continued processing of your Personal Information
 
 
 
 **You can exercise these rights at any time by sending an email to privacy@symphonytalent.com.**
 
-**If you’re not happy with how we are processing your personal data, please let us know by sending an email to privacy@symphonytalent.com. We will review and investigate your complaint, and get back to you within a reasonable time frame. You can also complain to your local data protection authority, and if required they can advise you how to submit a complaint to them.** ** **
+**If you’re not happy with how we are processing your personal data, please let us know by sending an email to privacy@symphonytalent.com. We will review and investigate your complaint, and get back to you within a reasonable time frame. You can also complain to your local data protection authority, and if required they can advise you how to submit a complaint to them.**
 
 **Your California Privacy Rights**
 
-Upon your request, California Civil Code Section 1798.83, known as the “Shine the Light” law, requires us to provide to you (a) a list of your personal information, if any, which we have disclosed to third parties for direct marketing purposes in the preceding calendar year, and (b) the names and addresses of those third parties. You may make such a request once per calendar year, and we will provide the information to you free of charge. Please send any requests made pursuant to this section by emailing us at [privacy@symphonytalent](mailto:privacy@symphonytalent). However, as defined under Section 1798.83, we do not currently share any personal information with third parties for their direct marketing purposes.
+Upon your request, California Civil Code Section 1798.83, known as the “Shine the Light” law, requires us to provide to you (a) a list of your personal information, if any, which we have disclosed to third parties for direct marketing purposes in the preceding calendar year, and (b) the names and addresses of those third parties. You may make such a request once per calendar year, and we will provide the information to you free of charge. Please send any requests made pursuant to this section by emailing us at privacy@symphonytalent. However, as defined under Section 1798.83, we do not currently share any personal information with third parties for their direct marketing purposes.
 
 **Privacy Shield and International Transfers**
 
-Symphony Talent participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  Symphony Talent is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+Symphony Talent participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  Symphony Talent is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List at _<https://www.privacyshield.gov/list>_.
 
-Symphony Talent is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Symphony Talent complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+Symphony Talent is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Symphony Talent complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Symphony Talent is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Symphony Talent may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Symphony Talent is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Symphony Talent may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at _<https://feedback-form.truste.com/watchdog/request>_.
 
-Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield website at _<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>_ , you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **Contact Information**
 
-Your data is submitted to Symphony Talent, a Delaware limited liability company, whose principal place of business is at 19 West 34th Street, Suite 1000, New York, NY 10001, USA, and your data is hosted and stored in databases and on servers situated throughout the United States.
+Your data is submitted to Symphony Talent, a Delaware limited liability company, whose principal place of business is at 19 West 34th Street, Suite 1000, New York, NY 10001, USA, and your data is hosted and stored in databases and on servers situated throughout the United States.
 
-If, at any time, you have questions or concerns about this Privacy Policy, please contact us at [privacy@symphonytalent.com](mailto:privacy@symphonytalent.com) or at:
+If, at any time, you have questions or concerns about this Privacy Policy, please contact us at privacy@symphonytalent.com or at:
 
-Symphony Talent, LLC  
-Data Protection Officer  
-19 West 34th Street, Suite 1000  
-New York, NY 10001  
-[dpo@symphonytalent.com](mailto:dpo@symphonytalent.com)
+Symphony Talent, LLC
 
-Our European representative is:  
-Symphony Talent (UK) Limited  
-11 St. Chad’s Street  
-London, WC1H 8BG  
+Data Protection Officer
+
+19 West 34th Street, Suite 1000
+
+New York, NY 10001
+
+dpo@symphonytalent.com
+
+space
+
+Our European representative is:
+
+Symphony Talent (UK) Limited
+
+Bacta House
+
+9 Regents Wharf
+
+All Saints Street
+
+London N1 9RL
+
 United Kingdom
