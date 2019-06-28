@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-japan-news.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228021119id_/http%3A//the-japan-news.com/web-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-japan-news.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628125625id_/http%3A//the-japan-news.com/web-policies/privacy) for the most accurate reproduction.*
 
 # Infomation - The Japan News
 
