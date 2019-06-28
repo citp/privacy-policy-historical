@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the artrage.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826112559id_/https%3A//www.artrage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artrage.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628105703id_/https%3A//www.artrage.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ArtRage
 
 ### Our ethics, policies & principles
 
-## Privacy Policy for ArtRage
+## Ambient Design Privacy Policy
 
  _We consider the privacy of our visitors to be extremely important._
 
-## Who we are?
+## Who we are
 
 Ambient Design is a New Zealand based software development company specializing in creative tools for artists. Our flagship product is ArtRage, a simple and stylish digital painting product that presents a high technology paint simulation in an easy to use interface that lets anyone play with paint, available across a range of platforms. To learn more about us: [Ambient Design](https://web.archive.org/about-us/)
 
@@ -18,13 +18,19 @@ Ambient Design is a New Zealand based software development company specializing 
 
 ### ArtRage Desktop Editions
 
-The Desktop editions of ArtRage (ArtRage Lite, ArtRage Studio, ArtRage Studio Pro, and all versions of ArtRage) do **not** use DRM (Digital Rights Management), or run any kind of background services. The only additional software installed with these products is a Thumbnail Viewer on Windows that allows the operating system to preview ArtRage files. This viewer does not collect or transmit any data. There is no other software installed, and there are no ads in the product. Once you have successfully installed ArtRage, you do not need an internet connection at all, except for an optional update check that will alert you to updates if you choose. This update check does not run without prompting you for permission each time it is scheduled.
+Versions of ArtRage that come with a Serial Number do not use DRM (Digital Rights Management), or run any kind of background services. Once you have installed one of these products, you do not need an internet connection at all, except for an optional update check that will alert you to updates if you choose. This update check does not run without prompting you for permission each time it is scheduled.
+
+Versions of ArtRage bought from an external store that do not come with a Serial Number may use licensing services provided by the store from which the product was purchased. In these cases, Ambient Design does not gather any data and you can refer to the Privacy Policy of the store for further information.
+
+The only additional software that may be installed with these products is a Thumbnail Viewer on Windows that allows the operating system to preview ArtRage files. This viewer does not collect or transmit any data. These versions of ArtRage do not include ads.
 
 ### ArtRage Mobile Editions
 
-The ArtRage mobile editions (ArtRage Touch, ArtRage for iOS and ArtRage for Android) do not include adware or other background services. We do not collect any personal data or require an active internet connection to use the product. Licensing and updates are handled by the App store service used to install the app.
+The Mobile editions of ArtRage (including ArtRage for iOS, ArtRage for Android, and some older products purchased from external stores) do not include adware or any other background services. Ambient Design does not collect any personal data or require an active internet connection to use these products. Licensing and updates are handled by the store from which the product was purchased and you can refer to the Privacy Policy for that store for further information.
 
-## What personal data we collect and why do we collect it?
+## ArtRage.com, Member Area & Web Services
+
+### What personal data we collect and why do we collect it?
 
 The following privacy statement discloses the information gathering, what we use, and privacy protection practices of this site, [ArtRage.com](https://www.artrage.com/ "ArtRage").
 
@@ -62,13 +68,13 @@ The artrage.com website links out into various social networks for the art commu
 
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. Ambient Design does not knowingly collect any personally identifiable information from children under the age of 13. We advise all children to first get their parents or guardians permission before creating an account for the ArtRage Member Area and Forums.
 
-## How we protect your data?
+## How we protect your data
 
 To ensure your data is kept safe, this website is secured and encrypted privacy communications with Digicert SSL. DigiCert is the world’s premier provider of high-assurance digital certificates.
 
 We do not sell/market data or use advertising in any of our products and on this website.
 
-## What rights you have over your data?
+## What rights you have over your data
 
 If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
