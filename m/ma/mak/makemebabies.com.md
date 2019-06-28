@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the makemebabies.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230124401id_/http%3A//makemebabies.com/%23privacy-policy-modal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemebabies.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628204519id_/http%3A//www.makemebabies.com/%23privacy-policy-modal) for the most accurate reproduction.*
 
-# MakeMeBabies
+# MakeMeBabies - Baby Generator
 
-MakeMeBabies is using advanced face detection technology to predict what your baby will look like. Upload your photo, your partner's photo and make a baby in seconds! You can also make babies with our listed celebrities or send baby invites to your friends.
+MakeMeBabies is a baby generator using face recognition to predict what your baby will look like. Upload your photo, your partner's photo and make a baby in seconds! You can also make babies with our listed celebrities or send baby invites to your friends.
 
 ### Oh, yeah - and it's FREE!
 
