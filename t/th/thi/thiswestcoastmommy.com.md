@@ -1,31 +1,110 @@
-> *The following text is extracted and transformed from the thiswestcoastmommy.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121195053id_/http%3A//thiswestcoastmommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thiswestcoastmommy.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628120350id_/https%3A//thiswestcoastmommy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - This West Coast Mommy
+# Privacy Policy | This West Coast Mommy
 
-[](http://thiswestcoastmommy.com/ "This West Coast Mommy") Blogging about family life on the West Coast
+[](https://thiswestcoastmommy.com/ "This West Coast Mommy") Blogging about family life on the West Coast
 
-This West Coast Mommy believes in keeping your personal information confidential. The following policy describes what information we collect and how it is used and shared.
+This West Coast Mommy, found at https://thiswestcoastmommy.com (“Website”), is governed by the following privacy policy (“Privacy Policy”).
 
-#### Information Collection
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
-This West Coast Mommy collects as little information as possible from users who post comments. We typically collect your name (either real or alias), email address, and personal website (optional).
+### What Information Do We Collect and How Is It Used?
 
-#### Cookies / IP Address Tracking
+ **Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name, email address, or IP address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
 
-This West Coast Mommy uses cookies to uniquely identify users for the purpose of log files, posting comments, and optimizing your reading experience. No personal information is stored in these cookies; they are simply a way to identify your computer. You can turn off the use of cookies at any time by changing your specific browser settings.
+ **Communications:** When you communicate with us (via email, on the Website, or otherwise), we may maintain a record of your communication and email address.
 
-#### Information Sharing
+ **Automatically Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-None of your information is ever shared with third parties. This West Coast Mommy may use your e-mail address in the future to contact you regarding the site, however, an opt out will always be provided. Your name and website may be displayed on the site if you post a comment, but your e-mail address and privacy will always be kept secure.
+ **Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-#### Opting Out
+### How Your Information May Be Used
 
-If you sign up for newsletter updates, you will receive a copy of our newsletter. At the bottom of every newsletter will be an easy way to opt-out. We hate spam as much as you do and have no intention of filling up your e-mail inbox with unwanted messages.
+We may use the information collected in the following ways:
 
-#### Third Party Advertising
+  * To operate and maintain the Website;
+  * To identify you as a user of the Website and customize the Website for your account;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use aggregated information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. These companies typically use a cookie or third party web beacon to collect this information. If you would like more information about this advertising practice or to opt out of this type of advertising, visit the [Network Advertising Initiative](https://www.networkadvertising.org/).
 
-This privacy policy is subject to change without notice and was last updated on October 25, 2017.
 
-[](http://www.lollypopkids.ca/?rfsn=711921.a23f8)
+### Third Party Use of Personal Information
+
+We may share your information with third parties when you explicitly authorize us to share your information.
+
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
+
+The Website currently uses the following third-party service providers:
+
+ **Google Analytics** : This service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
+
+ **Mad Mimi** : This service is used for delivery of email updates and newsletters. Your name and email address is stored for the purpose of delivering such communications. Please refer to Mad Mimi’s privacy policy for further information.
+
+ **Giveaway Tools** : This service is used for collecting giveaway entries and randomly selecting winners of our giveaways. Giveaway Tools stores your name, email address, and IP address to track your entries and prevent duplicates. If you voluntarily submit further information like your Facebook, Twitter, Pinterest, Instagram, email address, or URLs of posts you make on Facebook, Twitter, Pinterest, or Instagram, we will receive that information for the purpose of verifying your giveaway entries. Please refer to Giveaway Tools’ privacy policy for further information.
+
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time at the Website’s sole discretion.
+
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent. However, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
+
+### Anonymous Data
+
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
+
+### Publicly Visible Information
+
+If you leave a comment, certain information like your name (real or alias), avatar, and website may be publicly visible. Your email address will never be available publicly.
+
+### Cookies
+
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+### Advertising
+
+ **Display Ads** : We allow third-party advertising companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use aggregated information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. These companies typically use a cookie or third party web beacon to collect this information. If you would like more information about this advertising practice or to opt out of this type of advertising, visit the [Network Advertising Initiative](https://www.networkadvertising.org/).
+
+ **Retargeting Ads** : From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+ **Affiliate Program Participation** : The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+This West Coast Mommy is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+### Newsletters
+
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behaviour will not be passed on to third parties. You may opt out of this tracking by adjusting your settings via the “Preferences” link at the bottom of every newsletter.
+
+### Rights Related to Your Personal Information
+
+ **Opt out** : You may opt out of future email communications by following the unsubscribe links in our emails. You may also notify us at info@thiswestcoastmommy.com to be removed from our mailing list.
+
+ **Access** : You may access the personal information we have about you by submitting a request to info@thiswestcoastmommy.com.
+
+ **Amend** : You may contact us at info@thiswestcoastmommy.com to amend or update your personal information.
+
+ **Forget** : In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to info@thiswestcoastmommy.com.
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+### Sensitive Personal Information
+
+At no time should you submit sensitive personal information to the Website. This includes your social insurance/security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+### Children’s Information
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at info@thiswestcoastmommy.com and we will use our best efforts to promptly remove such information from our records.
+
+###  **Links to Other Websites**
+
+This West Coast Mommy may contain links to third party sites or online services. We are not responsible for the practices of such third parties, whose information practices are subject to their own policies and procedures, not to this Privacy Policy.
+
+### Contact Information
+
+Contact us at info@thiswestcoastmommy.com for questions related to this Privacy Policy.
+
+This privacy policy is subject to change without notice and was last updated on May 21, 2018.
