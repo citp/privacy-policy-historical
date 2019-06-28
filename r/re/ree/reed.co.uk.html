@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reed.co.uk privacy policy that was archived on 2018-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181103053743id_/https%3A//www.reed.co.uk/policies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reed.co.uk privacy policy that was archived on 2019-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190628172205id_/https%3A//www.reed.co.uk/policies) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="svg   js "><head prefix="og: http://ogp.me/ns#">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -44,9 +44,17 @@
     <link href="/resources/cms/css/cms-page-styles-core.css" rel="stylesheet">
 <link href="/resources/cms/css/cms-page-cookies-styles.css" rel="stylesheet">
 
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-228P"></script><script>
-        (function (H) { H.className = H.className.replace(/(^|\s)no-js(\s|$)/, '') + ' js ' })(document.documentElement)
-    </script>
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-228P"></script><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script>
+            (function(H) { H.className = H.className.replace(/(^|\s)no-js(\s|$)/, '') + ' js ' })(document.documentElement);
+        
+        (function (b, r, a, n, c, h, _, s, d, k) { if (!b[n] || !b[n]._q) { for (; s < _.length;)c(h, _[s++]); d = r.createElement(a); d.async = 1; d.src = "https://cdn.branch.io/branch-latest.min.js"; k = r.getElementsByTagName(a)[0]; k.parentNode.insertBefore(d, k); b[n] = h } })(window, document, "script", "branch", function (b, r) { b[r] = function () { b._q.push([r, arguments]) } }, { _q: [], _v: 1 }, "addListener applyCode autoAppIndex banner closeBanner closeJourney creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode trackCommerceEvent logEvent disableTracking".split(" "), 0);
+        
+        branch.init('key_live_igBOsSxIhNf3mgM0KUi3EpactAhKq9H1');;
+
+            
+            branch.logout();
+            
+        </script>
 
     <script>
         var dataLayer = dataLayer || [];
@@ -68,7 +76,7 @@
     
     <meta name="apple-reed-app" content="app-id=1040443949">
 
-<link href="/resources/responsive/css/common/core.css?v=UMVbZ5bXWHjwe9eKtDx13RS7vqLo_PxJWs2wtbLjBhY1" rel="stylesheet">
+<link href="/resources/responsive/css/common/core.css?v=oIUrSqUoi-pJ0DKuBePcWRrbAn8IKXkqfBM_js7s43c1" rel="stylesheet">
 
     
 
@@ -98,15 +106,15 @@
     <a href="#" title="Close menu" class="close-non-js-menu">Close menu</a>
     <ul class="site-menu">
         <li class="jobs tld"><a href="/" title="Jobs" class="gtmNavMenu"><strong>Jobs</strong></a></li>
-        <li class="courses tld"><a href="/courses/" title="Courses" class="gtmNavMenu">Courses</a></li>
+        <li class="courses tld"><a href="/courses/" title="Courses" class="gtmNavMenu" data-bind="html: coursesPromotion">Courses</a></li>
         <li class="career-advice tld"><a href="/career-advice" title="Career advice" class="gtmNavMenu">Career advice</a></li>
-            <li class="recruiter tld"><a href="https://www.reed.co.uk/recruiter" title="Recruiting? Post a job" class="gtmNavMenu">Recruiting? <b>Post a job</b></a></li>
+            <li class="recruiter tld"><a href="https://www.reed.co.uk/recruiter?directjob=recruiter" title="Recruiting? Post a job" class="gtmNavMenu">Recruiting? <b>Post a job</b></a></li>
     </ul>
 </nav>
 
     <div id="global">
         <div id="container">
-            <header id="site-header" role="banner" class="signed-out">
+            <header id="site-header" role="banner" class="signed-out ">
                 <div class="header-background"></div>
                 <div class="header-inner">
 
@@ -121,14 +129,14 @@
             <a href="/" title="Jobs" class="gtmHeaderNav header-block-link">Jobs</a>
         </li>
         <li class="courses tld">
-            <a href="/courses/" title="Courses" class="gtmHeaderNav header-block-link">Courses</a>
+            <a href="/courses/" title="Courses" class="gtmHeaderNav header-block-link" data-bind="html: coursesPromotion">Courses</a>
         </li>
         <li class="career-advice tld">
             <a href="/career-advice" title="Career advice" class="gtmHeaderNav header-block-link">Career advice</a>
         </li>
   
         <li class="recruiter ltd">
-            <a href="/recruiter" title="Recruiter" class="gtmHeaderNav header-block-link recruiter-link">Recruiting? <b>Post a job</b></a>
+            <a href="/recruiter?directjob=recruiter" title="Recruiter" class="gtmHeaderNav header-block-link recruiter-link">Recruiting? <b>Post a job</b></a>
         </li>
 
        </ul>
@@ -184,99 +192,47 @@
                 </div>
             </header>
 
-
 <form id="main-search" role="search" class="signed-out gtmSearchFormHome" action="/jobs" method="GET">
+    <div class="search-container row-eq-height" role="group" aria-labelled-by="find-job">
+        <div class="col-md-4 col-sm-5 inline-form">
+            <label for="keywords">What</label>
+            <input tabindex="1" class="form-control" type="text" id="keywords" name="keywords" maxlength="255" placeholder="e.g. &quot;marketing manager&quot;" aria-label="e.g. &quot;finance manager&quot;" title="e.g. &quot;office manager&quot;" data-typeahead-remote="/api/search/getjobtitlesautocomplete" data-minlength="1" data-typeahead-header="Job title" data-typeahead-header-class="job-title" data-recent-searches="true" data-bind="valueFromElement: keywords, valueUpdate: 'afterkeydown', typeahead: keywords">
+            <div tabindex="2" data-bind="click: function() { clearValue('#keywords'); }, event: { keypress: function(data, event) { if (event.keyCode === 32 || event.keyCode === 13) { clearValue('#keywords'); } } }, attr: {'class': ('clean icon icon-clean-input' + ((keywords() == '' || keywords() == undefined) ? ' is-hidden' : ''))}"></div>
+        </div>
+        <div class="col-md-4 col-sm-5 inline-form">
+            <label for="location">Where</label>
+            <input tabindex="3" class="form-control" type="text" id="location" name="location" maxlength="255" placeholder="town or postcode" aria-label="town or postcode" title="town or postcode" data-typeahead-remote="/api/location/getlocationsautocomplete?p=js" data-minlength="2" data-bind=" attr: { name: changeLocationName } , hasFocus:isFocus, valueFromElement: location, valueUpdate: 'afterkeydown', typeahead: location">
+            <a tabindex="4" href="#" class="icon icon-target-location" title="Get current location" data-bind="click: getLocation">Get current location</a>
+        </div>
+        <div class="col-md-2 col-sm-2">
+            <button tabindex="5" type="submit" class="btn btn-tertiary" data-qa="searchJobsBtn">
+                Search jobs
+            </button>
+        </div>
+        <div class="col-md-2 hidden-sm hidden-xs text-right">
+            <a tabindex="6" href="/popularjobs" class="browse-jobs">Browse jobs <i class="icon icon-arrow-blue-right"></i></a>
+        </div>
+    </div>
+    <div id="similarSearchesContainer" class="similar-search-container" data-bind="visible: 0" style="display: none">
+        <p id="similarSearchTitle">
+            <span class="similar-searches">
+                Similar searches:
+                <i class="icon icon-alert-new-info-yellow" data-popover-container-id="content" data-toggle="popover" data-html="true" data-content="<p>Our suggested searches are based on what other jobseekers like you also searched for.</p>"></i>
+            </span>
 
-    <div class="is-hidden alert alert-success alert--modified">
-        <p><i class="icon icon-alert-success"></i> Your job alert has been activated</p>
+        </p>
     </div>
 
-    <div class="search-section">
 
-        <div class="hidden-lg hidden-md hidden-sm">
-            <span class="icon icon-close-new-22x22 close-search" data-bind="click: closeSearchForm" data-gtm-value="close" data-gtm="search_bar_mobile">Close</span>
-        </div>
-
-        <div class="hidden-lg hidden-md hidden-sm row">
-            <div class="form-title col-xs-12 col-sm-12 col-md-2" data-bind="text: searchHeading()">Find a job</div>
-        </div>
-
-        <div class="hidden-lg hidden-md hidden-sm row" data-bind="visible: shouldShowSearchesLink()">
-            <a class="alerts-link col-xs-12 col-sm-12 col-md-2" data-bind="click: toggleSearches">
-                <i class="icon icon-arrow-blue-right icon-arrow-blue-right--left" data-bind="visible: searchesVisible()"></i><i class="icon icon-bell-blue" data-bind="visible: !searchesVisible()"></i> <span data-bind="text: searchLink()">Your searches and alerts</span> <i class="icon icon-arrow-blue-right" data-bind="visible: !searchesVisible()"></i>
-            </a>
-        </div>
-
-        <div class="hidden-lg hidden-md hidden-sm row" data-bind="visible: shouldShowCreateAlert() &amp;&amp; searchesTotal() == 0">
-            <a data-qa="createAlertMobileLnk" class="alerts-link col-xs-12 col-sm-12 col-md-2" data-bind="click: showCreateAlertModal">
-                <span class="vertical-align"><i class="icon icon-bell-blue"></i></span>
-                <span class="vertical-align">Create an alert for <span class="normal" data-bind="text: getJobAlertName()">Office Assistant jobs in London</span></span>
-            </a>
-        </div>
-
-        <div role="group" aria-labelled-by="find-job" data-bind="visible: hideSearch()">
-
-            <div class="top-section horizontal-form row" data-bind="attr: {class: 'top-section horizontal-form row' + (twoStepsSearchEnabled() ? ' twoStepsSearchEnabled' : '')}">
-                <div class="form-title col-xs-12 col-sm-12 col-md-2 hidden-xs" data-bind="text: searchHeading()">Find a job</div>
-                <div class="form-group keywords-container col-xs-12 col-sm-5 col-md-4">
-                    <label for="keywords">What</label>
-                    <input class="form-control" type="text" id="keywords" name="keywords" maxlength="255" placeholder="e.g. &quot;office assistant&quot;" aria-label="e.g. &quot;project manager&quot;" title="e.g. &quot;accounts assistant&quot;" data-typeahead-remote="/api/search/getjobtitlesautocomplete" data-minlength="1" data-typeahead-header="Job title" data-typeahead-header-class="job-title" data-recent-searches="true" data-bind="valueFromElement: keywords, valueUpdate: 'afterkeydown', typeahead: keywords" tabindex="1">
-                    <div data-bind="click: function() { clearValue('#keywords'); }, attr: {'class': ('clean icon icon-close-tag' + ((keywords() == '' || keywords() == undefined) ? ' hidden' : ''))}"></div>
-                </div>
-                <div class="form-group location-container col-xs-12 col-sm-4 col-md-4">
-                    <label for="location">Where</label>
-                    <span class="location-input">
-                        <input class="form-control" type="text" id="location" name="location" maxlength="255" placeholder="town or postcode" aria-label="town or postcode" title="town or postcode" data-typeahead-remote="/api/location/getlocationsautocomplete" data-minlength="2" data-bind="valueFromElement: location, valueUpdate: 'afterkeydown', typeahead: location" tabindex="2">
-                        <a href="#" class="location-link location-link--results icon icon-target-location" title="Get current location" data-bind="click: getLocation" tabindex="3">Get current location</a>
-                    </span>
-                </div>
-                <div class="form-group distance-container col-xs-12 col-sm-4 col-md-4" data-bind="visible: twoStepsSearchEnabled" style="display: none">
-                    <select class="form-control" id="proximity" name="proximity" data-bind="value: proxymity">
-                        <option value="0">0 miles</option>
-                        <option value="1">1 mile</option>
-                        <option value="3">3 miles</option>
-                        <option value="5">5 miles</option>
-                        <option value="10">10 miles</option>
-                        <option value="15">15 miles</option>
-                        <option value="20">20 miles</option>
-                        <option value="30">30 miles</option>
-                        <option value="50">50 miles</option>
-                    </select>
-                </div>
-                <div class="form-submit col-xs-12 col-sm-3 col-md-2">
-                    <button type="submit" class="main search-button  btn btn-primary" tabindex="4">
-                        Search jobs
-                    </button>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-offset-2 col-md-5 col-sm-12 no-padding  hidden-xs ">
-                    <div class="is-hidden more-options hidden-xs" data-bind="style: { display: shouldShowSearchesLink() ? 'block' : 'none' }">
-                        <a class="alerts-link" data-bind="click: toggleSearches, , event: { keypress: function(data, event) { if (event.keyCode === 32 || event.keyCode === 13) { toggleSearches() } } }" data-gtm="search_bar" data-gtm-value="your_searches_and_alerts" tabindex="5">
-                            <i class="icon icon-bell-blue"></i> <span data-bind="text: searchLink()">Your searches and alerts</span> <i class="icon icon-arrow-blue-right" data-bind="css: arrowRotation"></i>
-                        </a>
-                    </div>
-                    <div class="is-hidden more-options hidden-xs" data-bind="style: { display: shouldShowCreateAlert() &amp;&amp; searchesTotal() == 0 ? 'block' : 'none' }">
-                        <a data-qa="createAlertLnk" class="alerts-link" data-bind="click: showCreateAlertModal, event: { keypress: function(data, event) { if (event.keyCode === 32 || event.keyCode === 13) { showCreateAlertModal() } } }" tabindex="5">
-                            <i class="icon icon-bell-blue"></i> Create an alert for <span class="normal" data-bind="text: getJobAlertName()">Office Assistant jobs in London</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-3 col-md-5 browse-jobs-container text-right">
-                    <a href="/popularjobs" tabindex="7">Browse jobs <i class="icon icon-next-arrow icon-next-arrow"></i></a>
-                </div>
-            </div>
-        </div>
-
-
-    </div>
 </form>
-
 
 <div class="search-overlay"></div>
 
-<input name="__RequestVerificationToken" type="hidden" value="LfGeEW8QY2REGPibvf9jaLPZBU8V7WFCi5g8AUU9CPwD9J1Tkrj-Q0d1Xduf6ze0JpiXGhF7tla2wmaT4VNNTLYa7a01">            <a id="start-content"></a>
+<input name="__RequestVerificationToken" type="hidden" value="BJx18FciGZIApy52bxVuVQXa8r8E3sGkdqANlan1Jq9UIpj3VNJgCBi4xieXyEI8C_pPRH3V2XLa50PJPsvz8mc3s4k1">
+
+
+
+            <a id="start-content"></a>
             <div id="content" role="main">
                 
                 
@@ -354,7 +310,7 @@
 	<p>Some of the goods or services offered through the Website may not be lawful or may otherwise not be permitted in certain countries outside the United Kingdom. If you attempt to order, receive, purchase or otherwise benefit from any such goods or services, we do not accept any liability for any losses suffered by you in using the Website which you would not have suffered had you been accessing the Website as a United Kingdom resident (including as a result of us being prevented from dealing with any application or enquiry by any law, regulation or other ruling applicable in any country).</p>
 	
 	<h3>Modern Slavery Act statement</h3>
-	<p>We are committed to ensuring that there is no modern slavery or human trafficking in our supply chains or in any part of our business. For our full Modern Slavery Act statement, please <a href="https://www.reed.co.uk/resources/cms/downloads/Modern%20Slavery%20Act%20-%20Statement%20for%20ROL%20-%202017.pdf" target="_blank">click here</a>.</p>
+	<p>We are committed to ensuring that there is no modern slavery or human trafficking in our supply chains or in any part of our business. For our full Modern Slavery Act statement, please <a href="https://www.reed.co.uk/resources/cms/downloads/REED%20Slavery%20%26%20Human%20Trafficking%20Statement%2027.02.19.pdf" target="_blank">click here</a>.</p>
 	
 	<h3>Changes to Terms and Conditions and Invalidity</h3>
 	<p>These terms and conditions may be changed by us at any time. You will be deemed to accept the terms and conditions (as amended) when you next use the Website following any amendment.</p>
@@ -726,8 +682,11 @@
 			<td class="right-col">Doubleclick 'Spotlight Tags' report on the success of marketing campaigns for reed.co.uk <strong>To reject or delete these cookies:</strong> <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx" target="_blank" title="link opens a new window">http://www.doubleclick.com/privacy/dart_adserving.aspx</a></td>
 		</tr>
 		<tr>
-			<td class="left-col">Ad serving (re-targeting) – Criteo</td>
-			<td class="right-col">The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email click here (https://emailprivacy.criteo.com/us/privacy-policy.html) </td>
+			<td class="left-col">Criteo</td>
+			<td class="right-col">Criteo is a partner that we use to help us advertise by placing banners on various websites. Criteo places Cookies to help us measure the effectiveness of an advertising campaign.<br><br>Criteo may also use Cookies to display relevant offers (such as recommendations of products that you might be interested in) when you visit other websites. Please <a href="https://www.criteo.com/privacy/" target="_blank" title="link opens a new window">click here</a> to visit the Criteo privacy policy.
+
+
+</td>
 		</tr>
 		<tr>
 			<td class="left-col">Ad serving</td>
@@ -736,6 +695,14 @@
 		<tr>
 			<td class="left-col">Kenshoo</td>
 			<td class="right-col">Kenshoo tags report on the success of marketing campaigns for reed.co.uk. <strong>To reject these cookies:</strong> <a href="http://kenshoo.com/privacy-policy/" target="_blank" title="link opens a new window">http://kenshoo.com/privacy-policy/</a></td>
+		</tr>	
+		<tr>
+			<td class="left-col">RTB house</td>
+			<td class="right-col">RTB house uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of RTB House <a href="https://www.rtbhouse.com/optout-page/" target="_blank">click here</a></td>
+		</tr>	
+<tr>
+			<td class="left-col">Bannerflow</td>
+			<td class="right-col">Information is used in order for Reed.co.uk and its partners to be more relevant in its marketing, for example allowing personalised, more appropriate banners to be displayed, based on a user's behaviour on the site. This collects information on the user's browsing, for example pages viewed or products seen. <strong>For more information on Bannerflow cookies and to opt-out see:</strong> <a href="https://www.bannerflow.com/cookies" target="_blank">https://www.bannerflow.com/cookies</a></td>
 		</tr>		
 	</tbody></table>
 	
@@ -786,13 +753,16 @@
                             <a href="/popularjobs" class="gtmFooterNav">Browse jobs</a>
                         </li>
                         <li>
-                            <a href="/popularsearches" class="gtmFooterNav">Popular searches</a>
-                        </li>
-                        <li>
                             <a href="/location" class="gtmFooterNav">Browse locations</a>
                         </li>
                         <li>
+                            <a href="/popularsearches" class="gtmFooterNav">Popular searches</a>
+                        </li>
+                        <li>
                             <a href="/career-advice" class="gtmFooterNav">Career advice</a>
+                        </li>
+                        <li>
+                            <a href="/average-salary" class="gtmFooterNav">Average salary checker</a>
                         </li>
                         <li>
                             <a href="/help" class="gtmFooterNav">Help</a>
@@ -808,16 +778,16 @@
                     <h4 class="title" data-toggle="recruiterNavigation">Recruiter <i class="icon footer-drop-down hidden-lg hidden-md"></i></h4>
                     <ul class="footer-list" id="recruiterNavigation">
                         <li>
-                            <a href="/recruiter" class="gtmFooterNav">Recruiter site</a>
+                            <a href="/recruiter?directjob=recruiter" class="gtmFooterNav">Recruiter site</a>
                         </li>
                         <li>
-                            <a href="/recruiter/advertise-a-job" class="gtmFooterNav">Advertise a job</a>
+                            <a href="/recruiter/advertise-a-job?directjob=recruiter" class="gtmFooterNav">Post a job</a>
                         </li>
                         <li>
-                            <a href="/recruiter/cv-search" class="gtmFooterNav">CV Search</a>
+                            <a href="/recruiter/cv-search?directjob=recruiter" class="gtmFooterNav">CV Search</a>
                         </li>
                         <li>
-                            <a href="/recruiter/recruitment-agencies" class="gtmFooterNav">Services for agencies</a>
+                            <a href="/recruiter/recruitment-agencies?directjob=recruiter" class="gtmFooterNav">Recruitment agencies</a>
                         </li>
                         <li>
                             <a href="/recruiter-advice" class="gtmFooterNav">Recruiter Advice</a>
@@ -868,9 +838,6 @@
                             <a href="/work-with-us" class="gtmFooterNav">Work with us</a>
                         </li>
                         <li>
-                            <a href="/lovemondays" class="gtmFooterNav">Love Mondays</a>
-                        </li>
-                        <li>
                             <a href="/developers" class="gtmFooterNav">For developers</a>
                         </li>
                         <li>
@@ -916,15 +883,15 @@
     <h3 class="sr-only">Secondary footer</h3>
     <div class="footer-content row">
         <div class="col-md-6">
-                <div class="why-you">
-                    <a href="https://www.amazon.co.uk/Why-You-Interview-Questions-Youll/dp/0241297133/ref=dp_ob_title_bk" title="Buy James Reed's new book" rel="nofollow" target="_blank" class="image gtmFooterNav">
-                        <img src="/resources/cms/images/footer/why-you.png" alt="Buy James Reed's new book" title="Buy James Reed's new book" width="80" height="143">
+                <div class="seven-seconds">
+                    <a href="https://www.amazon.co.uk/Second-CV-How-Land-Interview/dp/0753553074/ref%3Dtmm_pap_swatch_0?_encoding%3DUTF8%26amp%26qid%3D1544005885%26amp%26sr%3D8-1%26_encoding%3DUTF8%26tag%3Dreedcouk0c-21%26linkCode%3Dur2%26linkId%3D13aee4057aa36aa5b4615cf3b7e6d04d%26camp%3D1634%26creative%3D6738&amp;sa=D&amp;source=hangouts&amp;ust=1544183270793000&amp;usg=AFQjCNF2SEZmbDXESjT_vBVrwh81F6f8pQ" title="Buy James Reed's latest book - The 7 second CV" rel="nofollow" target="_blank" class="image gtmFooterNav">
+                        <img src="/resources/images/layout/seven-second-cv.png" alt="Buy James Reed's latest book - The 7 second CV" title="Buy James Reed's latest book - The 7 second CV">
                     </a>
-                    <p class="copy">
-                        <span class="title">Interview coming up?</span><br>
-                        Get the answers to the questions interviewers are really asking.<br>
-                        <a href="https://www.amazon.co.uk/Why-You-Interview-Questions-Youll/dp/0241297133/ref=dp_ob_title_bk" title="Buy James Reed's new book" rel="nofollow" target="_blank">Buy James Reed's #1 bestselling book »</a>
-                    </p>
+                    <div class="content">
+                        <h5>Write a killer CV <span>New</span></h5>
+                        <p>Find out what future employers are looking for and land your dream job.</p>
+                        <a href="https://www.amazon.co.uk/Second-CV-How-Land-Interview/dp/0753553074/ref%3Dtmm_pap_swatch_0?_encoding%3DUTF8%26amp%26qid%3D1544005885%26amp%26sr%3D8-1%26_encoding%3DUTF8%26tag%3Dreedcouk0c-21%26linkCode%3Dur2%26linkId%3D13aee4057aa36aa5b4615cf3b7e6d04d%26camp%3D1634%26creative%3D6738&amp;sa=D&amp;source=hangouts&amp;ust=1544183270793000&amp;usg=AFQjCNF2SEZmbDXESjT_vBVrwh81F6f8pQ" title="Buy James Reed's latest book - The 7 second CV" rel="nofollow" target="_blank">Buy James Reed's latest book »</a>
+                    </div>
                 </div>
         </div>
         <div class="col-md-6">
@@ -947,9 +914,6 @@
                         <li>
                             <a href="https://twitter.com/#!/reedcouk" class="icon icon--hover icon-twitter-footer-logo gtmSocialNav" target="_blank">On Twitter</a>
                         </li>
-                        <li>
-                            <a href="https://plus.google.com/u/0/+reedcouk" class="icon icon--hover icon-googleplus-footer-logo gtmSocialNav" target="_blank">On Google+</a>
-                        </li>
                     </ul>
                 </div>
             </div>
@@ -959,7 +923,7 @@
                         <a href="/policies" class="gtmFooterNav">SECURITY, PRIVACY, COOKIES, TERMS &amp; CONDITIONS</a>
                     </li>
                 </ul>
-                <p>COPYRIGHT © reed.co.uk 2018</p>
+                <p>COPYRIGHT © reed.co.uk 2019</p>
             </div>
         </div>
     </div>
@@ -977,7 +941,7 @@
         var _p_rcid = '';
         // Check if candidate id exists, is a string, and is sequence of 6 or more digits
         if (_p_rcid && typeof _p_rcid === "string" && /\d{6,}/.test(_p_rcid)) {
-            permutive.identify("candidate-" + _p_rcid);
+            permutive.identify([{ id: _p_rcid, tag: "candidate" }]);
         }
     } catch (e) {
         // Do nothing
@@ -985,7 +949,7 @@
 
     permutive.addon("web", {});
 </script>
-<script async="" src="https://cdn.permutive.com/c464151c-0c18-4df1-8fe9-c9b875eb161c-async.js"></script>    <script src="/bundles/responsive/scripts/common-with-jquery.js?v=pS8-RHMlEiHJqx9qPEdpg1RIPvBjaejY90eBLr8SMJw1"></script>
+<script async="" src="https://cdn.permutive.com/c464151c-0c18-4df1-8fe9-c9b875eb161c-async.js"></script>    <script src="/bundles/responsive/scripts/common-with-jquery.js?v=5wAaivdMTxdueHEi904Es7pa8M7SBn4yicbHmYsc4u41"></script>
 
     
 
