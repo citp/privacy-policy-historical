@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hub-nz.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226080403id_/http%3A//www.hub-nz.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hub-nz.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628212500id_/http%3A//www.hub-nz.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Hub-nz.com local news and video destination about New Zealand
 
