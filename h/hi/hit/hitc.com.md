@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitc.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921125635id_/http%3A//www.hitc.com/en-gb/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitc.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628212654id_/https%3A//www.hitc.com/en-gb/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of HITC.com
 
@@ -8,7 +8,7 @@ This Website collects some Personal Data from its Users.
 
 ## Owner and Data Controller
 
-Entrepreneur Limited
+GRV Media Ltd
 
 **Owner contact email:** privacy@hitc.com
 
