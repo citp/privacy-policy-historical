@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aurora.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170515id_/https%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurora.org privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628162754id_/https%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
 
-# Website privacy policy, Aurora Health Care | Aurora Health Care
+# Internet Privacy Policy | Aurora Health Care
 
 **Non-Personally Identifiable Information We Collect**
 
@@ -29,7 +29,7 @@ We may also ask that you participate in anonymous surveys, which allow us to col
 **Analytics**  
 We collect analytics internally from our Website content management system to track your IP address and the various pages of our Website that you visit and the information about your visit. 
 
-Like many websites, we also use Google Analytics to collect information about your use of our Website. Google sets cookies and may also read preexisting cookies to collect data from your web browser, such as the domain from which you access the Internet, the web address of the website from which you linked to our site, the time and date of your visit the web pages that you view and click through and your IP address.  This information is stored on Google´s servers. Google uses this information to provide us with reports about traffic to our website and your visit to our website.  You may find additional information on how Google Analytics collects and processes data by visiting “How Google uses data when you use our partners’ sites or apps”, which can be found at <http://www.google.com/policies/privacy/partners>. 
+Like many websites, we also use Google Analytics to collect information about your use of our Website. Google sets cookies and may also read preexisting cookies to collect data from your web browser, such as the domain from which you access the Internet, the web address of the website from which you linked to our site, the time and date of your visit the web pages that you view and click through and your IP address.  This information is stored on Google´s servers. Google uses this information to provide us with reports about traffic to our website and your visit to our website.  You may find additional information on how Google Analytics collects and processes data by visiting “How Google uses data when you use our partners’ sites or apps," which can be found at <http://www.google.com/policies/privacy/partners>. 
 
 Google may also use this data in accordance with their Privacy Policy, which can be found at <http://www.google.com/privacy.html>.  For more detailed information on how Google uses your data through our website, please visit [http://www.google.com/policies/privacy/partners/.](http://www.google.com/policies/privacy/partners/)
 
@@ -40,7 +40,7 @@ We will use this data to improve our website structure and content and we also u
 **How We Use the Non-Personally Identifiable Information We Collect**
 
  **  
-** In addition to those uses set forth above, we use non-personally identifiable information in the aggregate to determine how much traffic the Website receives, to statistically analyze Website usage, to improve our content, and to customize the Website's content, layout and services. In addition, we may use your IP address to help diagnose problems with our server, to manage the Website and to enhance the Website based on the usage pattern data we receive.
+** In addition to those uses set forth above, we use non-personally identifiable information in the aggregate to determine how much traffic the Website receives, to statistically analyze Website usage, to improve our content, and to customize the Website's content, layout and services. In addition, we may use your IP address to help diagnose problems with our server, to manage the Website and to enhance the Website based on the usage pattern data we receive. Please note that information you enter into general search bars is considered non-personally identifiable information and may be stored and used in the aggregate as provided above.
 
 **Retargeting and Remarketing**  
 We have also enabled additional Google Analytics Advertising Features:  Google Display Network Impression Reporting and Remarketing with Google Analytics.  The Google Display Network Impression Reporting uses the Google Analytics cookie to track our ad impressions and your interactions with those impressions, including the effectiveness of those ads, which generates reports for us to help us analyze our advertisements.  Remarketing with Google Analytics uses the Google Analytics and/or a third party cookie to serve advertisements to you across the Internet based on your visit to our Site.    
