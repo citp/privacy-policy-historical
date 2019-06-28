@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pesapal.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204231532id_/http%3A//www.pesapal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesapal.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628173919id_/http%3A//www.pesapal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kenya | Pesapal
 
@@ -54,4 +54,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/dashboard/home/contactus).
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contacts "Contacts").
