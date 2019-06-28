@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levygorvy.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212202800id_/https%3A//www.levygorvy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levygorvy.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628212651id_/https%3A//www.levygorvy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Lévy Gorvy
 
@@ -22,11 +22,11 @@ This policy explains the following:
 
 Our online services contain hyperlinks to websites owned and operated by third parties. These third-party websites may have their own privacy policies and we recommend you to review them. We do not accept any responsibility or liability for the privacy practices of such third parties and your use of them is at your own risk.
 
-**2\. WHAT INFORMATION WILL LÉVY GORVY COLLECT ABOUT ME?**
+ **2\. WHAT INFORMATION WILL LÉVY GORVY COLLECT ABOUT ME?**
 
 We collect and process the following information which may include your personal data.
 
-**Information provided by you when using our Services**
+ **Information provided by you when using our Services**
 
 You may give us information about you by filling in forms when using our Services, signing up to our newsletter or contacting us with enquiries. Such information can include:
 
@@ -36,7 +36,7 @@ You may give us information about you by filling in forms when using our Service
 
 3) Profile data: including interests, images, notes, relationships, referrals and other sales notes.
 
-**Payment Information**
+ **Payment Information**
 
 When you purchase an item from us, we use the following third party payment systems which transact all our payments. We have no access to your card payment information. See their websites to find out more about the way they collect and process this information:
 
@@ -63,11 +63,11 @@ You can always choose to enable or disable cookies in your internet browser. By 
 
 If you would like to opt-out of Google Analytics monitoring your behaviour on our Website please use this link: [tools.google.com/dlpage/gaoptout/](http://www.tools.google.com/dlpage/gaoptout/).
 
-**Information about you collected from Third Parties  **
+ **Information about you collected from Third Parties  **
 
 We may collect personal data about you from third party service providers if required to comply with our legal obligations. This may include information to check your identity and prevent fraud or other illegal activities.
 
-**3\. DATA SHARING  **
+ **3\. DATA SHARING  **
 
 We may share your personal data with our group of companies, affiliates and third parties who provide us with logistics and payment processing services (set out below), only in the ways that are described in this privacy policy.
 
@@ -75,7 +75,7 @@ We keep your information confidential, but may disclose it to our personnel, sup
 
 In addition, we may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention).
 
-**4\. HOW WE WILL USE INFORMATION WE COLLECT ABOUT YOU AND WHO WILL WE SHARE IT WITH  
+ **4\. HOW WE WILL USE INFORMATION WE COLLECT ABOUT YOU AND WHO WILL WE SHARE IT WITH  
 **  
 **Providing the Services to you as a prospective or existing client**
 
@@ -96,7 +96,7 @@ We may analyze certain types of information that you submit to us for the legiti
 
 We may use a third-party payment services provider to process payment for our Services as set out above in section 2, who will store, collect and process your payment details over SSAL (Secure Sockets Layer). When using these payment providers, our servers do not have access to your payment details.
 
-**Providing the Services and acting for you as an artist or prospective artist**
+ **Providing the Services and acting for you as an artist or prospective artist**
 
 We may use and retain your personal data where we need to perform the contract we are about to enter into or have entered into with you, such as:
 
@@ -105,11 +105,11 @@ We may use and retain your personal data where we need to perform the contract w
 • responding to your enquiries; and  
 • providing you with information and updates about our Services and upcoming exhibitions
 
-**Compliance and Prevention of Fraud and Illegal Activity  
+ **Compliance and Prevention of Fraud and Illegal Activity  
 **  
 We may process personal data for the legitimate interests of ensuring that use of our Services is lawful and non-fraudulent, does not disrupt the operation of our Services, does not harass our staff or other individuals, and to enforce our legal rights and comply with our legal obligations, including compliance with anti-money laundering regulations (if and where applicable). We process personal data for the legitimate interest of complying with HMRC requirements by retaining records of customer purchases and transactions. Where we reasonably believe that you are or may be in breach of any of the applicable laws, we may use your personal information to inform relevant third parties such as your email/internet provider or law enforcement agencies about the content.
 
-**Marketing  **
+ **Marketing  **
 
 We use various forms of marketing to provide you with promotional materials about our Services.
 
@@ -117,13 +117,13 @@ We may process your contact information that you provide to us (either via our w
 
 If you would like to be removed from this mailing list, please contact us at [policyinquiries@levygorvy.com](mailto:policyinquiries@levygorvy.com) or click on unsubscribe at the bottom of each marketing email.
 
-**To understand how our Services are used  **
+ **To understand how our Services are used  **
 
 We use Google Analytics to understand how visitors use our website and to compile reports on website activity.
 
 This processing is necessary for us to pursue our legitimate interest in improving our website and providing a more relevant service to our customers. This information is not used to develop a personal profile of you.
 
-**5\. YOUR RIGHTS IN RELATION TO PERSONAL DATA WHICH WE PROCESS RELATING TO YOU  
+ **5\. YOUR RIGHTS IN RELATION TO PERSONAL DATA WHICH WE PROCESS RELATING TO YOU  
 **  
 You have the following rights over the way we process personal data relating to you. We aim to comply without undue delay, and within one month at the latest.
 
@@ -148,20 +148,20 @@ We keep an archive, which documents artists, their practices, exhibitions and ev
 
 In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-**7\. CHILDREN**
+ **7\. CHILDREN**
 
 We do not knowingly solicit data from or market to children under the age of 18.  If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at [policyinquiries@levygorvy.com](mailto:policyinquiries@levygorvy.com). We will delete such information from our files within a reasonable time.
 
-**8\. SECURITY**
+ **8\. SECURITY**
 
 We will take all reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
 
 Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
 
-**9\. CHANGES**
+ **9\. CHANGES**
 
 We will notify you of any changes to this policy by email, notice on the website or account message.
 
-**10\. INTERNATIONAL DATA TRANSFERS**
+ **10\. INTERNATIONAL DATA TRANSFERS**
 
 Where we transfer your data outside of the EEA and/or Switzerland in respect of the transfer to the above affiliates, we have agreements in place with those parties which include standard data protection clauses adopted by a data protection regulator and approved by the European Commission and the Swiss Federal Data Protection and Information Commissioner, to ensure that appropriate safeguards are in place to protect your personal data. If you would like to find out more about these safeguards, please let us know by writing to [policyinquiries@levygorvy.com](mailto:policyinquiries@levygorvy.com).
