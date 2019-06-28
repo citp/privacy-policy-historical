@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the posteo.de privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124222225id_/https%3A//posteo.de/en/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posteo.de privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628175142id_/https%3A//posteo.de/en/site/privacy_policy) for the most accurate reproduction.*
 
 # Email green, secure, simple and ad-free - posteo.de - Privacy policy
 
@@ -71,6 +71,8 @@ You can contact our customer support with questions and problems related to your
 
 Data that you voluntarily send us in an inquiry via email, such as an alternative email address for contacting you or a general inquiry, are not saved as information to your email account with Posteo. We do not collect IP addresses if you use our contact form. For privacy reasons, our customer support also works entirely without a customer database and ticket system. There is no documentation of your contact made via email or about the questions you have asked our customer support. Your inquiry will only be answered via email by our team. We exclusively use open source email clients on encrypted computers for this purpose.  
 All email correspondence will automatically be completely deleted at Posteo 14 days after a case has been closed.
+
+When you enter text in our contact form, it remains locally on your device until it has been submitted. Posteo stands for genuine privacy by design. Suggestions for solutions that may appear are kept locally in your browser and displayed when you enter keywords. While you are typing, no data is transmitted through the internet to Posteo to compare the words you have entered with a keyword database located at Posteo.
 
 At no point in time do we voluntarily give personal data to third party companies or service contractors. All data is exclusively stored on our servers in Germany. Posteo is financed by our customers: There are no advertising partners or investors.
 
