@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210132625id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628071354id_/https%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
 
 # Bridge Base Online
 
@@ -122,7 +122,7 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 BBO welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us at via email at [support@bridgebase.com](mailto:support@bridgebase.com). You may also contact us through postal mail at the address provided below and we will use commercially reasonable efforts to promptly determine and remedy the problem. 
 
-Bridge Base Online, Ltd.   
-2805 High Sail Court   
+Bridge Base Online   
+9030 West Sahara Ave #710   
 Las Vegas, NV   
 USA 89117
