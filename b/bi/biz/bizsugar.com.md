@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizsugar.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113235816id_/https%3A//share.bizsugar.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizsugar.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628050404id_/https%3A//share.bizsugar.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BizSugar
+# Small business news; tips; networking | BizSugar | Privacy Policy
 
 **BIZSUGAR PRIVACY STATEMENT**
 
@@ -86,7 +86,7 @@ Children under the age of 18 are not permitted to register as a member on this s
 
 ### Choice/Opt-Out
 
-You have the opportunity to opt-in, opt-out or change your user preferences by: (i) emailing us at [[email protected]](https://share.bizsugar.com/cdn-cgi/l/email-protection#39585d545057795b50434a4c5e584b175a5654); (ii) editing the "Profile" area of your account; or (iii) clicking on a link in the footer of our electronic communications. Some communications (e.g., member communications about important account notifications) are necessary for all BizSugar members. You must close your BizSugar account to unsubscribe from these communications. To close your BizSugar account, put "close my account" in the subject line and email us at [[email protected]](https://share.bizsugar.com/cdn-cgi/l/email-protection#7716131a1e1937151e0d04021016055914181a). 
+You have the opportunity to opt-in, opt-out or change your user preferences by: (i) emailing us at [[email protected]](https://share.bizsugar.com/cdn-cgi/l/email-protection#2f4e4b4246416f4d46555c5a484e5d014c4042); (ii) editing the "Profile" area of your account; or (iii) clicking on a link in the footer of our electronic communications. Some communications (e.g., member communications about important account notifications) are necessary for all BizSugar members. You must close your BizSugar account to unsubscribe from these communications. To close your BizSugar account, put "close my account" in the subject line and email us at [[email protected]](https://share.bizsugar.com/cdn-cgi/l/email-protection#ff9e9b929691bf9d96858c8a989e8dd19c9092). 
 
 ### Closure of Inactive Accounts
 
@@ -114,7 +114,7 @@ This Privacy Statement may change from time to time and any changes will be publ
 
 ### Contact
 
-If you have any questions about this Privacy Statement, please email us at [[email protected]](https://share.bizsugar.com/cdn-cgi/l/email-protection#4021242d292e0022293a33352721326e232f2d) or write to us at: 
+If you have any questions about this Privacy Statement, please email us at [[email protected]](https://share.bizsugar.com/cdn-cgi/l/email-protection#96f7f2fbfff8d6f4ffece5e3f1f7e4b8f5f9fb) or write to us at: 
 
 BizSugar.com  
 ATTN: BizSugar Privacy Issues  
