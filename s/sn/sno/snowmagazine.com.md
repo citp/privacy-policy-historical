@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowmagazine.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621055654id_/http%3A//www.snowmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowmagazine.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628225726id_/https%3A//www.snowmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -25,4 +25,4 @@ You may request, at any time, a copy of the information we hold on you by writin
 Our website uses cookies. These are small text files which your web browser stores on your computer. Cookies are used to identify your computer to our server and store your website preferences. Cookies do not contain any personally identifying information.
 
  **Links**  
-This website may contain links to other external websites. Double A Media Ltd accepts no liability for the content of these websites. 
+This website may contain links to other external websites. Double A Media Ltd accepts no liability for the content of these websites.
