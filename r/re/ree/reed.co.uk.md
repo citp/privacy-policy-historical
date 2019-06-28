@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103053743id_/https%3A//www.reed.co.uk/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628172205id_/https%3A//www.reed.co.uk/policies) for the most accurate reproduction.*
 
 # Policies - reed.co.uk
 
@@ -68,7 +68,7 @@ Some of the goods or services offered through the Website may not be lawful or m
 
 ### Modern Slavery Act statement
 
-We are committed to ensuring that there is no modern slavery or human trafficking in our supply chains or in any part of our business. For our full Modern Slavery Act statement, please [click here](https://www.reed.co.uk/resources/cms/downloads/Modern%20Slavery%20Act%20-%20Statement%20for%20ROL%20-%202017.pdf).
+We are committed to ensuring that there is no modern slavery or human trafficking in our supply chains or in any part of our business. For our full Modern Slavery Act statement, please [click here](https://www.reed.co.uk/resources/cms/downloads/REED%20Slavery%20%26%20Human%20Trafficking%20Statement%2027.02.19.pdf).
 
 ### Changes to Terms and Conditions and Invalidity
 
@@ -403,11 +403,16 @@ Facebook | If you use a 'like' or 'send' link on reed.co.uk to share content on 
 Facebook Custom Audience  | This is a feature that enables Reed to capture anonymized data from individuals who are registered users of both reed.co.uk and Facebook. This data is transmitted and stored by Facebook's servers in the United States. This data captures information about your browsing history and patterns through the reed.co.uk website. When you browse the reed.co.uk website and then visit your Facebook account your browsing history on the reed.co.uk website shall be used to provide you with suitable targeted advertising on your Facebook page. This data is stored for 180 days; if you do not visit the reed.co.uk website for 180 days such data shall be removed unless you revisit the reed.co.uk website during this time.  
 Flash | Adobe flash player is used to display some advertising content on reed.co.uk, and may drop flash cookies in your browser to allow the adverts to display correctly **To reject or delete these cookies:** <http://www.adobe.com/products/flashplayer/security>  
 Doubleclick | Doubleclick 'Spotlight Tags' report on the success of marketing campaigns for reed.co.uk **To reject or delete these cookies:** <http://www.doubleclick.com/privacy/dart_adserving.aspx>  
-Ad serving (re-targeting) – Criteo | The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email click here (https://emailprivacy.criteo.com/us/privacy-policy.html)   
+Criteo | Criteo is a partner that we use to help us advertise by placing banners on various websites. Criteo places Cookies to help us measure the effectiveness of an advertising campaign.
+
+Criteo may also use Cookies to display relevant offers (such as recommendations of products that you might be interested in) when you visit other websites. Please [click here](https://www.criteo.com/privacy/ "link opens a new window") to visit the Criteo privacy policy.   
+  
 Ad serving | The advertisements on reed.co.uk are managed by a number of third party ad serving partners, including specific media, media mind, the exchange lab, and adnetik amongst others. These partners use cookies to monitor the impact of their clients advertising campaigns and to target adverts to you based on your browsing patterns and behaviour online. **To reject or delete these cookies:** <http://www.specificmedia.co.uk/privacy> <http://www.sizmek.com/en/privacy-policy/>   
 [http://www.theexchangelab.com/privacy-policy/](http://www.theexchangelab.com/privacy-policy "link opens a new window")   
 <http://adnetik.com/privacy-policy/>  
 Kenshoo | Kenshoo tags report on the success of marketing campaigns for reed.co.uk. **To reject these cookies:** <http://kenshoo.com/privacy-policy/>  
+RTB house | RTB house uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of RTB House [click here](https://www.rtbhouse.com/optout-page/)  
+Bannerflow | Information is used in order for Reed.co.uk and its partners to be more relevant in its marketing, for example allowing personalised, more appropriate banners to be displayed, based on a user's behaviour on the site. This collects information on the user's browsing, for example pages viewed or products seen. **For more information on Bannerflow cookies and to opt-out see:** <https://www.bannerflow.com/cookies>  
   
 ### Cookies on third party sites
 
