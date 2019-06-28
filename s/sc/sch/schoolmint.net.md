@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the schoolmint.net privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906011428id_/https%3A//www.schoolmint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolmint.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629010613id_/https%3A//www.schoolmint.com/privacy-policy) for the most accurate reproduction.*
 
-# SchoolMint: Privacy Policy
+# SchoolMint: Privacy Policy | SchoolMint
 
-## SchoolMint’s Pledge to Student Privacy
+## SchoolMint’s Pledge to Student Privacy
 
 SchoolMint is committed to maintaining student privacy and safeguarding students’ personal information. To demonstrate this commitment, we are proud to be a signatory to the [Student Privacy Pledge](https://studentprivacypledge.org/privacy-pledge/) as a K–12 service provider who has committed to “carry out responsible stewardship and appropriate use of student personal information.”
 
-[](https://studentprivacypledge.org/privacy-pledge/)
-
-[Read more](https://studentprivacypledge.org/privacy-pledge/) or [download a PDF](https://studentprivacypledge.org/wp-content/uploads/2016/04/Student-Privacy-Pledge.pdf) of the Student Privacy Pledge.
+[Read more](https://studentprivacypledge.org/privacy-pledge/) or [download a PDF](https://studentprivacypledge.org/wp-content/uploads/2016/04/Student-Privacy-Pledge.pdf) of the Student Privacy Pledge.
 
 ## SchoolMint’s Commitment to You
 
 SchoolMint, Inc. (the “Company,” “we,” “us,” “our”), knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Company’s website at [www.schoolmint.com](https://www.schoolmint.com/) or any of Company’s other websites, applications, domain names or other linked pages, (collectively the “Website”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. By using the Website, you are consenting to have your personal data transferred to and processed in the United States.
 
-You post any Content (as that term is defined in the [Company’s Terms of Service](https://www.schoolmint.com/terms-of-services/) (located at https://www.schoolmint.com/terms-of-services/) on the Website at your own risk. Although SchoolMint may allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you may choose to share your information. Therefore, we cannot and do not guarantee that Content you post on the Website will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached and archived pages or if other users have copied or stored your Content.
+You post any Content (as that term is defined in the [Company’s Terms of Service](https://www.schoolmint.com/terms-of-services/) (located at https://www.schoolmint.com/terms-of-services/) on the Website at your own risk. Although SchoolMint may allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you may choose to share your information. Therefore, we cannot and do not guarantee that Content you post on the Website will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached and archived pages or if other users have copied or stored your Content.
 
 Any improper collection or misuse of Content or other information accessible on the Website is a violation of the [Company’s Terms of Service](https://www.schoolmint.com/terms-of-services/) and should be reported to info@schoolmint.com.
 
@@ -33,10 +31,14 @@ Data collected by SchoolMint may include personally identifiable information fro
 
 You can also delete the data by requesting SchoolMint at support@schoolmint.com. You may also call or write to us at:
 
-Privacy Director  
-SchoolMint  
-564 Market St #500  
-San Francisco, CA 94104  
+Privacy Director 
+
+SchoolMint
+
+564 Market St #500
+
+San Francisco, CA 94104
+
 (844) 287-2466
 
 In the event of termination of a license to use our products, SchoolMint will destroy all student records contained in our systems within 180 days on a written request from the schools to Privacy Director.
@@ -45,8 +47,7 @@ Furthermore, SchoolMint shall ensure that it disposes of any and all data or inf
 
 ## Information Collected Automatically
 
-We receive and store certain types of information whenever you interact with the Website or our services. Company automatically receives and records information on our server logs from your browser including your IP address, Company cookie information, and the page you requested. We also record the details of your activity on the Website. This information is not Personal Information or Children’s Personal Information.
-
+We receive and store certain types of information whenever you interact with the Website or our services. Company automatically receives and records information on our server logs from your browser including your IP address, Company cookie information, and the page you requested. We also record the details of your activity on the Website. This information is not Personal Information or Children’s Personal Information.  
 Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. Company only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often users use parts of the Website or services so that we can make the Website appealing to as many users as possible, and improve those services. As part of this use of information, we m  
 ay provide aggregate information to our partners about how our users, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use our partners’ services and the Website to help provide you with an optimal online experience.
 
@@ -61,42 +62,31 @@ Most browsers have an option for turning off the cookie feature, which will prev
 
 ## Will SchoolMint Share Any of the Personal Information It Receives?
 
-Personal Information and Children’s Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information or Children’s Personal Information to anyone. However, we share your Personal Information and Children’s Personal Information in personally identifiable form as described below. Again, please note that references to “Personal Information” only apply to personal information of individuals who are not students.
-
-We will not share your Children’s Personal Information in connection with any commercial third party transaction or service. You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information or Children’s Personal Information with that affiliated business only to the extent that it is related to such transaction or service. Such services may include the ability for you to automatically transmit information you input on the Website to your profile or account on a third party website, or to automatically transmit information you input on a third party website to your Website profile. We have no control over the policies and practices of third party websites as to privacy or anything else, so if you choose to allow the automatic transmissions discussed above, please review all third party websites’ policies before disclosing any Personal Information or Children’s Personal Information or other content on the Website or on any third party website.
-
-Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing user services. Unless we tell you differently, Company’s agents do not have any right to use Personal Information or Children’s Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information and Children’s Personal Information for the above purposes.
-
-Communication about the website or in response to user requests: As part of the Website and our services, you may receive from Company (depending on your User Category) email or other types of communication relating to your use of the Website or your user profile. You acknowledge and agree that by posting information on the Website or otherwise using the Website, Company and its agents may send you email, contact you or engage in other communication that they determine in their sole discretion relate to your profile or use of the Website. If you disclose your email address to Company, depending on your User Category, we may use it to send updates, a newsletter or other news regarding the Website or Company services, or to simply send Notifications.
-
-Business transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Company may continue to use your Personal Information and Children’s Personal Information as set forth in this policy.
-
-Protection of company and others: We may release Personal Information or Children’s Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our Terms of Service and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection.
-
+Personal Information and Children’s Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information or Children’s Personal Information to anyone. However, we share your Personal Information and Children’s Personal Information in personally identifiable form as described below. Again, please note that references to “Personal Information” only apply to personal information of individuals who are not students.  
+We will not share your Children’s Personal Information in connection with any commercial third party transaction or service. You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information or Children’s Personal Information with that affiliated business only to the extent that it is related to such transaction or service. Such services may include the ability for you to automatically transmit information you input on the Website to your profile or account on a third party website, or to automatically transmit information you input on a third party website to your Website profile. We have no control over the policies and practices of third party websites as to privacy or anything else, so if you choose to allow the automatic transmissions discussed above, please review all third party websites’ policies before disclosing any Personal Information or Children’s Personal Information or other content on the Website or on any third party website.  
+Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing user services. Unless we tell you differently, Company’s agents do not have any right to use Personal Information or Children’s Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information and Children’s Personal Information for the above purposes.  
+Communication about the website or in response to user requests: As part of the Website and our services, you may receive from Company (depending on your User Category) email or other types of communication relating to your use of the Website or your user profile. You acknowledge and agree that by posting information on the Website or otherwise using the Website, Company and its agents may send you email, contact you or engage in other communication that they determine in their sole discretion relate to your profile or use of the Website. If you disclose your email address to Company, depending on your User Category, we may use it to send updates, a newsletter or other news regarding the Website or Company services, or to simply send Notifications.  
+Business transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Company may continue to use your Personal Information and Children’s Personal Information as set forth in this policy.  
+Protection of company and others: We may release Personal Information or Children’s Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our Terms of Service and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection.  
 With your consent: Except as set forth above, you will be notified when your Personal Information or Children’s Personal Information may be shared with third parties, and will be given the option to prevent the sharing of this information.
 
 ## Is the Information About Me Secure?
 
 SchoolMint is FERPA compliant. We don’t sell or distribute any student or parent information to third parties for purposes other than delivering the services to you. All the communication from web and mobile client to the server happens over a secure https channel. Also, all our servers are in private cloud and a secure database avoiding any direct access from outside. We encrypt any critical student information and we also implement a secure role based access control with solid authentication / authorization to avoid any data or information leaks.
 
-Your Company account Personal Information or Children’s Personal Information is protected by a password for your privacy and security. You may help protect against unauthorized access to your account and Personal Information or Children’s Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
-
-Company endeavors to protect user information to ensure that user account information is kept private, however, Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures Company uses in connection with the Website, please contact us at info@schoolmint.com.
-
+Your Company account Personal Information or Children’s Personal Information is protected by a password for your privacy and security. You may help protect against unauthorized access to your account and Personal Information or Children’s Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.  
+Company endeavors to protect user information to ensure that user account information is kept private, however, Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures Company uses in connection with the Website, please contact us at info@schoolmint.com.  
 The Website contains links to other sites. Company is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website.
 
 ## What Information Can I Access?
 
-Company allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list may change as the Website changes. You may currently access the following information, if your User Category allows you to input any of the following:
-
+Company allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list may change as the Website changes. You may currently access the following information, if your User Category allows you to input any of the following:  
 information in your user account, user contacts, user preferences, and content in your account.
 
 ## What Other Choices Do I Have?
 
-As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Company features. You are able to add or update certain information on pages, such as those listed in the “What Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records. Certain types of communication you send to other users cannot be removed, such as messages.
-
-You may request deletion of your Company account by emailing info@schoolmint.com. Please note that some information may remain in our records after deletion of your account. Further, information may remain viewable elsewhere to the extent that it was copied or stored by other users. We may use any aggregated data derived from or incorporating your Personal Information after you delete your information, but not in a manner that would identify you personally.
-
+As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Company features. You are able to add or update certain information on pages, such as those listed in the “What Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records. Certain types of communication you send to other users cannot be removed, such as messages.  
+You may request deletion of your Company account by emailing info@schoolmint.com. Please note that some information may remain in our records after deletion of your account. Further, information may remain viewable elsewhere to the extent that it was copied or stored by other users. We may use any aggregated data derived from or incorporating your Personal Information after you delete your information, but not in a manner that would identify you personally.  
 If you do not wish to receive email or other communications or notifications from us, please email us at info@schoolmint.com. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
 
 ## How can I contact SchoolMint with questions?
@@ -104,9 +94,12 @@ If you do not wish to receive email or other communications or notifications fro
 If you have any questions or concerns about this Privacy Policy or how we protect our community, please contact us at support@schoolmint.com. You may also call or write to us at:
 
 Privacy Director  
-SchoolMint  
-564 Market St #500  
-San Francisco, CA 94104  
+SchoolMint
+
+564 Market St #500
+
+San Francisco, CA 94104
+
 (844) 287-2466
 
 ## Changes to This Privacy Policy
