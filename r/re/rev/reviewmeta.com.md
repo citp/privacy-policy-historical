@@ -1,10 +1,20 @@
-> *The following text is extracted and transformed from the reviewmeta.com privacy policy that was archived on 2018-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180711151340id_/https%3A//reviewmeta.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewmeta.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628214845id_/https%3A//reviewmeta.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ReviewMeta Blog
 
 _April 28th, 2016_
 
-This Site is operated by ReviewMeta.com (“ReviewMeta.com”). This Privacy Policy explains how this Site treats “personal information” that we gather from visitors and how we use it. Please, also read our Terms of Use for better understanding of Privacy Policy.
+This Site is operated by:
+
+Review Honesty, Inc. A Nevada Corporation
+
+PO BOX 29502 #61891
+
+Las Vegas NV, 89126
+
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+This Privacy Policy explains how this Site treats “personal information” that we gather from visitors and how we use it. Please, also read our Terms of Use for better understanding of Privacy Policy.
 
 “Personal Information” is information that is personally identifiable like a name, e-mail address, or other information that we can reasonably link to such information.
 
@@ -15,6 +25,7 @@ This Site is operated by ReviewMeta.com (“ReviewMeta.com”). This Privacy Po
     * Our Web server automatically collects information from a visitor’s computer and browser, including their internet protocol (IP) address and cookies. A cookie is a small text file that is sent to your Web browser from a Web server and stored on your computer’s hard drive. When you visit this Site, a cookie may be sent to your computer. You can control whether or not you want to accept cookies by adjusting the settings of your browser.
     * Third party vendors may use cookies to serve ads based on prior visits to this website. No personal information is collected by these cookies. You can opt out of third party vendor’s cookies at any time by visiting this page: <http://www.networkadvertising.org/managing/opt_out.asp>
     * We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us. You provide certain Personally Identifiable Information to us when you: (a) register for our services and register your email address with us; (b) enter sweepstakes or contests sponsored by us or one of our partners; (c) sign up for special offers from selected third parties; (d) send email messages, submit forms or transmit other information by telephone or letter; or (e) submit your credit card or other payment information when ordering and purchasing products and services on our site. We may also collect information from you at other points on our site that state that such information is being collected.
+    * Our site uses Google Analytics to help us gather and analyze traffic to our site.  You can read more about the [Google Analytics data policies here](https://support.google.com/analytics/answer/6004245?hl=en).
 
 
   2. _How We Use the Information We Gather_
@@ -32,8 +43,8 @@ This Site is operated by ReviewMeta.com (“ReviewMeta.com”). This Privacy Po
   4. _Security Measures_. Our web hosting company uses industry-standard encryption technologies when transferring and receiving consumer information exchanged with our Site. Our web hosting company has security measures in place to protect against the loss, misuse or alteration of information that we have collected from you at our Site. Although we believe that our web hosting company provides appropriate security measures, we are not responsible for the practices, actions or inactions of that company.
   5. _Changes to this Policy_. We reserve the right to change this Privacy Policy at any time, and without advance warning, by updating this page. You are bound by all such revisions and should, therefore, review the Privacy Policy every time you visit this Site.
   6. _Terms of Use_. Nothing herein waives, limits or in any way modifies our Terms of Use. This Site is not directed to, nor does it knowingly collect any personal information from children under 18. If a child who we know to be under age 18 sends personal information to us online, we will only use that information to respond directly to that child, notify parents or seek parental consent.
-  7. _Opt Out Rights_. By using this website you agree to the terms of this Privacy Policy and collection and use of your personal information byReviewMeta.com as specified above. If at any time after visiting the Site, you change your mind about receiving information from the Site or sharing your personal information as described in this Privacy Policy, you may request an opt out, by contacting us at: ReviewMeta.com@Gmail.com.
+  7. _Opt Out Rights_. By using this website you agree to the terms of this Privacy Policy and collection and use of your personal information byReviewMeta.com as specified above. If at any time after visiting the Site, you change your mind about receiving information from the Site or sharing your personal information as described in this Privacy Policy, you may request an opt out, by contacting us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 
 
-Questions or Additional Information ~ If you have any questions about this Policy, or if you would like additional information, please contact us at ReviewMeta.com@Gmail.com.
+Questions or Additional Information ~ If you have any questions about this Policy, or if you would like additional information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
