@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adzerk.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202935id_/https%3A//dev.adzerk.com/docs/privacy-policy-customers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzerk.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628232240id_/https%3A//dev.adzerk.com/docs/privacy-policy-customers) for the most accurate reproduction.*
 
-# Adzerk | Build An Ad Server In Weeks
+# Privacy Policy
 
-If you would like information on our privacy policy concerning data collection and usage as part of the ad delivery platform it provides to its customers, please read [Privacy Policy (Ad Serving)](https://dev.adzerk.com/v1.0/docs/privacy-policy-ad-server). 
+If you would like information on our privacy policy concerning data collection and usage as part of the [ad server](https://adzerk.com/blog/ad-server/) platform it provides to its customers, please read [Privacy Policy (Ad Serving)](https://dev.adzerk.com/v1.0/docs/privacy-policy-ad-server). 
 
 Our core believes regarding user privacy and data protection are:
 
