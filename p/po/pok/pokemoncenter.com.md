@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pokemoncenter.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212192242id_/https%3A//www.pokemon.com/us/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemoncenter.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629001009id_/https%3A//www.pokemon.com/us/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Pokemon.com
 
-[](https://caru.bbb.org/caru.aspx?id=1596150491)Last updated April 16, 2018
+Last updated May 25, 2018
 
-Effective May 25, 2018
+Effective May 1, 2019
 
 Our Privacy Commitment
 
@@ -14,7 +14,7 @@ We also recognize the need to provide additional protections for kids who visit 
 
 Pokémon is a valid licensee, and participating member in good standing, of the Children's Advertising Review Unit's (“CARU”) COPPA Safe Harbor Program (“CARU Safe Harbor”). CARU conducts independent audits of our Services and uses other enforcement and accountability mechanisms in its certification process. Services bearing the CARU Safe Harbor icon meet established online information collection, use, and disclosure practices in compliance with applicable privacy laws and best practices.
 
-_DISCLAIMER: Although CARU does not monitor non-English Services or PokemonCenter.com, Pokémon takes steps to confirm that non-English Services and PokemonCenter.com follow the applicable data collection guidance and principles of CARU Safe Harbor, including adherence to regulations in the European Union (“EU”) and other territories outside of the United States (“US”)._
+_DISCLAIMER: Although CARU does not monitor non-U.S. based Services or PokemonCenter.com, Pokémon takes steps to confirm that non-U.S. based Services and PokemonCenter.com follow the applicable data collection guidance and principles of CARU Safe Harbor, including adherence to regulations in the European Union (“EU”) and other territories outside of the United States (“U.S.”)._
 
   1. What does this Privacy Notice cover?
 
@@ -32,7 +32,7 @@ _DISCLAIMER: Although CARU does not monitor non-English Services or PokemonCente
 
   8. Product-specific data processing details
 
-  9. Information for individuals in the EU and Switzerland
+  9. Information for individuals
 
   10. How to contact us about your personal information and this Privacy Notice
 
@@ -63,19 +63,11 @@ We automatically collect certain information when you use our Services. For exam
 
 **_Cookies and Tracking_**
 
-Our websites use a variety of technical methods for collecting and tracking device information and usage data, including web beacons, cookies, local storage, and device IDs.
-
-Cookies are small pieces of text that may be saved on your device when you view our website. We and other companies use unique identifiers in cookies to distinguish your device for a variety of purposes, including helping you navigate our website with ease, remembering your preferences and interests, and tracking your online activities over time and across different websites and online services.
-
-Web beacons are small pieces of data often embedded in images on the pages of our websites and emails. These beacons may request information from our servers or third-party servers to allow download of content and information. Beacons may also be used to set and read cookies. We also use beacons in HTML emails to determine if you open emails or click on links in emails.
-
-Device IDs are unique identifiers for your devices. We and others may collect and use device IDs for tracking activities and usage of our Services, such as how you use our mobile apps.
-
-We may collect and store information (including personal information) locally on your device using local storage mechanisms. Local storage allows data to be stored across web browser sessions. We collect this information for customer support purposes and to send you more relevant marketing.
+Our websites use a variety of technical methods for collecting and tracking device information and usage data, including web beacons, cookies, local storage, and device IDs. Please see our [COOKIE PAGE](https://web.archive.org/us/cookie-page/) for more information on how we use cookies and similar technical methods.
 
 **3\. How is your personal information used?**
 
-We use your personal information to the extent reasonably necessary to fulfill your requests in performing our contract with you, or based on consent where we have requested it, and for our legitimate business objectives, including to:
+We use your personal information to the extent reasonably necessary to fulfill your requests in performing our contract with you, or based on consent where we have requested it or where required by law, and for our legitimate business objectives, including to:
 
   * Provide you with and operate, maintain, optimize, and improve our products, services, operations, and the security of our Services
 
@@ -98,13 +90,7 @@ We use your personal information to the extent reasonably necessary to fulfill y
 
 For the purposes listed above, we may also link or combine information about you with other personal information we receive from third parties. We also use personal information in settings and for the purposes described below.
 
-We may store and process personal information in the United States and in other countries that may not have the same types of data protection laws as those in your country.
-
-**_Third-party cookies used for analytics and advertising_**
-
-Pokémon uses third parties that may also use their own cookies, web beacons, local storage, device IDs, and other tracking data to assist us with analytics and advertising. Some third parties, including advertisers and ad-related services, may also help us and others associate your activities across your browsers and mobile devices you use for retargeting, advertising, and ad measurement purposes. We and others may also use email tracking technologies to monitor the success of email marketing campaigns (for example, recording how many emails in a campaign were opened).
-
-Please consult the respective privacy policies and statements of these third parties for more information about how they use your data. For examples of privacy notices of third parties who use cookies for tracking, please refer to the chart below:
+We may store and process personal information in the United States, the United Kingdom, and other countries that may not have the same types of data protection laws as those in your country.
 
 **4\. How is your personal information shared?**
 
@@ -141,9 +127,9 @@ We provide you with various controls over your personal information, for example
 
   * You can opt out of our promotional emails by clicking “unsubscribe” in those emails.
 
-  * You can choose to block and/or remove all cookies and local storage. You can do this through your browser (such as Mozilla Firefox or Internet Explorer) settings. If you remove or block cookies and local storage, you won't have access to many features that make your experience smoother and more personalized, and some of our Services may not function properly. Since certain opt-out preferences are also stored in a cookie in your browser (such as opt-outs from advertising companies), please note that if you remove all cookies, you will need to renew your opt-out choices. Some internet browsers may transmit “Do Not Track” signals. Because uniform standards for “Do Not Track” signals have not been adopted, our websites may not be aware of or process “Do Not Track” signals.
+  * You can choose to block and/or remove all cookies and local storage. For information on how to do this, please visit our [COOKIE PAGE](https://web.archive.org/us/cookie-page/).
 
-  * You can also opt out of many of the third-party analytics and advertising cookies as described in the Privacy Notice in the **_Third-party cookies used for analytics and advertising_** section above by visiting <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>.
+  * You can also opt out of many of the third-party analytics and advertising cookies as described in the [COOKIE PAGE](https://web.archive.org/us/cookie-page/) by visiting <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>.
 
   * You can opt out of our advertising on mobile apps by using the advertising settings in your mobile device.
 
@@ -172,11 +158,11 @@ Pokémon will keep your personal information within a Pokémon app for as long a
 
 **_PokemonCenter.com_**
 
-If you provide information to create an account or as part of a transaction, payment, or other account action, Pokémon may deliver marketing communications to you about similar goods or services if you have not opted out of such marketing when given the chance to do so. We may also use third parties, such as Authorize.net and PayPal, to process payment transactions and facilitate fraud protection. PayPal and other third-party entities may use your information for their own purposes, including to service accounts you have with them. Please review their respective privacy notices to understand how they use your information.
+If you provide information to create an account or as part of a transaction, payment, or other account action, Pokémon may deliver marketing communications to you about similar goods or services if you have not opted out of such marketing when given the chance to do so. We may also use third parties, such as Authorize.net and PayPal, to process payment transactions and facilitate fraud protection. PayPal and other third-party entities may use your information for their own purposes, including to service accounts you have with them. Please review their respective privacy notices to understand how they use your information. PokemonCenter.com's services are intended for customers in the United States. For more information, please refer to the [PokemonCenter.com Terms of Use](https://www.pokemoncenter.com/terms-of-use). 
 
-**9\. Information for individuals in the EU and Switzerland**
+**9\. Information for individuals**
 
-If you are an individual subject to EU law, you have the following rights:
+You have the following rights:
 
   * A right to be informed of the ways in which we use your information
 
@@ -184,24 +170,30 @@ If you are an individual subject to EU law, you have the following rights:
 
   * A right to object to the processing of your personal information or obtain a restriction of such processing under certain circumstances
 
+  * A right to have your personal data transferred to another organization should it be technically feasible for Pokémon to do so. 
+
   * If the processing of personal data is based on your consent, a right to withdraw consent at any time (without affecting the lawfulness of processing before its withdrawal)
+
+  * There may be exceptions to these rights in certain circumstances, and where you cannot exercise a right due to an exception, we will provide that explanation.
+
+  * A right to bring your complaint to a regulator. If you are based in the European Economic Area (EEA) and believe that we have not complied with data protection laws, you can complain to our regulator, the UK Information Commissioner's Office, or your local supervisory authority; however, we would appreciate it if you would give Pokémon the chance to deal with your concerns directly by contacting us.
 
 
 
 
 To make such requests, contact us at [privacyquestions@pokemon.com](mailto:privacyquestions@pokemon.com).
 
-We transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do, we use a variety of legal mechanisms, including contracts, so that your rights and protections travel with your data.
+We transfer personal data from the EEA, the United Kingdom, and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do, we use a variety of legal mechanisms, including contracts and standard contractual clauses / model clauses, so that your rights and protections travel with your data. Pursuant to the Privacy Shield, Pokémon remains liable for the transfer of personal data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages.
 
-We also comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework with respect to the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. We have certified to the U.S. Department of Commerce that we adhere to the Privacy Shield Principles, and we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. If there is any conflict between the terms in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+We also comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework with respect to the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and/or Switzerland to the United States. We have certified to the U.S. Department of Commerce that we adhere to the Privacy Shield Principles, and we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. If there is any conflict between the terms in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [the Privacy Shield List for Pokémon](https://www.privacyshield.gov/participant?id=a2zt0000000TTCiAAO&status=Active). 
 
-In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Principles, Pokémon commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Notice should first contact us at [privacyquestions@pokemon.com](mailto:privacyquestions@pokemon.com), or by certified mail (return receipt requested) at The Pokémon Company International, Inc., Attention Privacy Notice Administrator, 10400 NE 4th Street, Suite 2800, Bellevue, WA 98004 USA.
+In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Principles, Pokémon commits to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this Privacy Notice should first contact us at [privacyquestions@pokemon.com](mailto:privacyquestions@pokemon.com), or by certified mail (return receipt requested) at The Pokémon Company International, Inc., Attention Privacy Notice Administrator, 10400 NE 4th Street, Suite 2800, Bellevue, WA 98004 USA.
 
 Pokémon has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus (“BBB”). If we do not appropriately address your complaint, visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint with the BBB. If your complaint is still not resolved, in limited situations, a binding arbitration option may be available before a Privacy Shield Panel.
 
 You also have a right to lodge a complaint with a supervisory authority, but we ask you to first contact us or the BBB with concerns.
 
-Pokémon may be liable for the onward transfer of EU and Swiss individual's personal data to third parties that process personal data in a manner inconsistent with the Privacy Shield principles unless Pokémon proves it is not responsible for the event giving rise to the damage. 
+Pokémon may be liable for the onward transfer of EU, UK, and Swiss individuals' personal data to third parties that process personal data in a manner inconsistent with the Privacy Shield principles unless Pokémon proves it is not responsible for the event giving rise to the damage.
 
 **10\. How to contact us about your personal information and this Privacy Notice**
 
@@ -240,9 +232,9 @@ back to top
 
 **Supplemental Kids' Privacy Notice**
 
-Last updated April 16, 2018
+Last updated May 25, 2018
 
-Effective May 25, 2018 
+Effective May 1, 2019
 
 **OUR ADDITIONAL PRIVACY COMMITMENT TO KIDS AND THEIR PARENTS**
 
@@ -271,7 +263,7 @@ Our guests can use some of our Services, view content, and enjoy many features w
 
 If a user has indicated that they are a kid when trying to create a Pokémon account, we will collect a parent's email address and obtain verifiable parental consent before allowing the kid to provide any additional personal information. See below to learn how we seek parental consent.
 
-Once we obtain parental consent, a kid can use our services much like any other user. And we may collect from the kid the same types of personal information, and use and share that information for the same purposes, as described in the general Privacy Notice.
+Once we obtain parental consent, a kid can use our services much like any other user. And we may collect from the kid the same types of personal information, and use and share that information for the same purposes, as described in the general Privacy Notice with the exception that Pokémon does not, nor does it allow third parties to, collect kids' personal data (including persistent identifiers) for behavioral advertising, amassing a profile, or any purpose other than to support its internal operations unless we have obtained explicit prior parental consent.
 
 We receive information from our guests directly and from third parties such as Play! Pokémon Tournament Organizers. We collect personal information from parents on behalf of their kids to create an account for Pokémon's Services.
 
@@ -279,7 +271,7 @@ Pokémon does not condition participation in any of its Services for kids on the
 
 **2\. How do we use and share the personal information that we collect from kids?**
 
-As noted above, once we obtain parental consent, a kid can use our Services much like any other user. And we may collect from the kid the same types of personal information, and use and share that information for the same purposes, as described in the general Privacy Notice. For example, once a parent has provided consent to create an account, a kid can:
+As noted above, once we obtain parental consent, a kid can use our Services much like any other user. And we may collect from the kid the same types of personal information, and use and share that information for the same purposes, as described in the general Privacy Notice, unless otherwise specified in this Supplemental Kids' Privacy Notice. For example, once a parent has provided consent to create an account, a kid can:
 
   * Link an account from one of Pokémon's Services with an account from another Service operated by Pokémon or an affiliate of Pokémon
 
@@ -296,7 +288,7 @@ As noted above, once we obtain parental consent, a kid can use our Services much
 
 
 
-Note that some Services may enable a kid to publicly disclose personal information and/or communicate with other users.
+Note that some Services may enable a kid to publicly disclose personal information and/or communicate with other users. We do not have control over third parties (e.g., other users) who may have copied or reposted publicly posted information.
 
 Until we receive verifiable parental consent, the parent's contact information gathered from a kid is used only to obtain the parent's consent for our information collection practices.
 
@@ -320,7 +312,7 @@ Parents can revoke consent at any time by contacting our customer service depart
 
 At any time, a parent can log into their Pokémon Trainer Club account to access their “Edit Profile” section or contact our customer service department to access or change the personal information in their kid's account.
 
-A parent may delete the personal information that we have collected from their kid by submitting a request on the [http://support.pokemon.com](http://support.pokemon.com/) website or emailing [privacyquestions@pokemon.com](mailto:privacyquestions@pokemon.com). The parent should include their kid's username and the parent's email address in the email so that we can better assist with the inquiry or request.
+A parent may delete the personal information that we have collected from their kid by submitting a request on the [http://support.pokemon.com](http://support.pokemon.com/) website or emailing [privacyquestions@pokemon.com](mailto:privacyquestions@pokemon.com). The parent should include their kid's username and the parent's email address in the email so that we can better assist with the inquiry or request. 
 
 **5\. How will we notify parents if our Kids' Privacy Notice changes?**
 
