@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psyshop.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112142205id_/https%3A//www.psyshop.com/shop/Info/en/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psyshop.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629011233id_/https%3A//www.psyshop.com/shop/Info/en/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Psyshop: Privacy Policy of Psyshop
 
