@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sentry.io privacy policy that was archived on 2018-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181119152341id_/https%3A//sentry.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sentry.io privacy policy that was archived on 2019-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190628130455id_/https%3A//sentry.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns#">
     <meta name="description" content="Sentry is committed to your privacy in how we collect and process personal information on our website, via our products and services, and when you contact us.">
@@ -27,7 +27,7 @@
 <meta property="twitter:image:height" content="630">
 
 <link rel="image_src" type="image/jpeg" href="https://sentry.io/_assets/og/default-ece813046f72308a5f52e8ed4f5ff498920320ef76bbad88df5d1de0469cb185.jpg">
-<link href="https://sentry.io/_assets/favicon-9d9dbcc614d52b0e88787b03b400b5bf6c6467d6837a19d394f9e8b8d98bee4b.ico" rel="icon" type="image/png">
+<link href="/_assets/favicon-9d9dbcc614d52b0e88787b03b400b5bf6c6467d6837a19d394f9e8b8d98bee4b.ico" rel="icon" type="image/png">
 <link rel="canonical" href="https://sentry.io/privacy/">
 
 
@@ -49,30 +49,90 @@
 
 
 
-<link rel="stylesheet" href="/_assets/screen-b2585ef0ae09717509bcdbb735ca8d50b9986152e0adee19a9b1102a3f2516ee.css" id="master-stylesheet">
+<link rel="stylesheet" href="/_assets/screen-834b3a54c11d216beb6dfd5f523636d0c5c933b5787d1c0bf7076aebba3a5467.css" id="master-stylesheet">
+
+<script src="https://cdn.optimizely.com/js/14597610036.js"></script>
 
 
 
 <script>
-  window.loadIfTrackersOk=[];
-  window.analyticsAssetURL = '/_assets/amplitude.min-43d85b6546a49827bfdecdd76b73c06479105d035691cb4c2742bb9cd7bbe69d.js';
+window.loadIfTrackersOk = [];
+window.analyticsAssetURL = '/_assets/amplitude.min-43d85b6546a49827bfdecdd76b73c06479105d035691cb4c2742bb9cd7bbe69d.js';
 
-  (function(e,t){var n=e.amplitude||{_q:[],_iq:{}}
-  ;function s(e,t){e.prototype[t]=function(){
-  this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
-  var o=function(){this._q=[];return this}
-  ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
-  ;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
-  ;return this}
-  ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
-  ;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
-  ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
-  ;function v(e){function t(t){e[t]=function(){
-  e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
-  for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
-  e=(!e||e.length===0?"$default_instance":e).toLowerCase()
-  ;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
-  ;e.amplitude=n})(window,document);
+(function(e, t) {
+  var n = e.amplitude || { _q: [], _iq: {} };
+  function s(e, t) {
+    e.prototype[t] = function() {
+      this._q.push([t].concat(Array.prototype.slice.call(arguments, 0)));
+      return this;
+    };
+  }
+  var o = function() {
+    this._q = [];
+    return this;
+  };
+  var a = ['add', 'append', 'clearAll', 'prepend', 'set', 'setOnce', 'unset'];
+  for (var u = 0; u < a.length; u++) {
+    s(o, a[u]);
+  }
+  n.Identify = o;
+  var c = function() {
+    this._q = [];
+    return this;
+  };
+  var l = [
+    'setProductId',
+    'setQuantity',
+    'setPrice',
+    'setRevenueType',
+    'setEventProperties'
+  ];
+  for (var p = 0; p < l.length; p++) {
+    s(c, l[p]);
+  }
+  n.Revenue = c;
+  var d = [
+    'init',
+    'logEvent',
+    'logRevenue',
+    'setUserId',
+    'setUserProperties',
+    'setOptOut',
+    'setVersionName',
+    'setDomain',
+    'setDeviceId',
+    'setGlobalUserProperties',
+    'identify',
+    'clearUserProperties',
+    'setGroup',
+    'logRevenueV2',
+    'regenerateDeviceId',
+    'logEventWithTimestamp',
+    'logEventWithGroups',
+    'setSessionId',
+    'resetSessionId'
+  ];
+  function v(e) {
+    function t(t) {
+      e[t] = function() {
+        e._q.push([t].concat(Array.prototype.slice.call(arguments, 0)));
+      };
+    }
+    for (var n = 0; n < d.length; n++) {
+      t(d[n]);
+    }
+  }
+  v(n);
+  n.getInstance = function(e) {
+    e = (!e || e.length === 0 ? '$default_instance' : e).toLowerCase();
+    if (!n._iq.hasOwnProperty(e)) {
+      n._iq[e] = { _q: [] };
+      v(n._iq[e]);
+    }
+    return n._iq[e];
+  };
+  e.amplitude = n;
+})(window, document);
 </script>
 
 <title>Sentry | Privacy Policy</title>
@@ -102,12 +162,17 @@
             </a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="features-dropdown-aria" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement">
               <a class="dropdown-item" href="/features/">Overview</a>
-              <a class="dropdown-item" href="/features/stacktrace/"><span class="pl-1">Stack Traces</span></a>
-              <a class="dropdown-item" href="/features/context/"><span class="pl-1">Context</span></a>
-              <a class="dropdown-item" href="/features/breadcrumbs/"><span class="pl-1">Breadcrumbs</span></a>
-              <a class="dropdown-item" href="/features/releases/"><span class="pl-1">Releases</span></a>
-              <a class="dropdown-item" href="/features/owners/"><span class="pl-1">Owners</span></a>
+              <a class="dropdown-item" href="/features/custom-queries/"><span class="pl-2">Custom Queries</span></a>
+              <a class="dropdown-item" href="/features/dashboards/"><span class="pl-2">Dashboards</span></a>
+              <a class="dropdown-item" href="/features/cross-project-issues/"><span class="pl-2">Cross-project Issues</span></a>
+              <a class="dropdown-item" href="/features/distributed-tracing/"><span class="pl-2">Distributed Tracing</span></a>
+              <a class="dropdown-item" href="/features/stacktrace/"><span class="pl-2">Stack Traces</span></a>
+              <a class="dropdown-item" href="/features/context/"><span class="pl-2">Context</span></a>
+              <a class="dropdown-item" href="/features/breadcrumbs/"><span class="pl-2">Breadcrumbs</span></a>
+              <a class="dropdown-item" href="/features/releases/"><span class="pl-2">Releases</span></a>
+              <a class="dropdown-item" href="/features/owners/"><span class="pl-2">Issue Owners</span></a>
               <a class="dropdown-item" href="/platforms/">Platforms</a>
+              <a class="dropdown-item" href="/security/">Security &amp; Compliance</a>
               <a class="dropdown-item" href="/integrations/">Integrations</a>
             </div>
           </li>
@@ -836,7 +901,7 @@ Francisco, CA 94107.</p>
 
     <div class="row">
 
-      <div class="col-6 col-lg-8 col-xl-6">
+      <div class="col-6 col-lg-8">
         <div class="row">
           <div class="col-lg-4 mb-3 mb-lg-0">
             <h6 class=" color-white">Product</h6>
@@ -893,7 +958,7 @@ Francisco, CA 94107.</p>
 
             <ul class="list-unstyled mb-0">
               <li>
-                <a href="/security/">Security</a>
+                <a href="/security/">Security &amp; Compliance</a>
               </li>
               <li>
                 <a href="/privacy/">Privacy</a>
@@ -918,56 +983,56 @@ Francisco, CA 94107.</p>
         </div>
       </div>
 
-      <div class="col-6 col-lg-4 col-xl-6">
+      <div class="col-6 col-lg-4">
         <h6 class=" color-white">Platforms</h6>
 
         <ul class="list-unstyled row">
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/javascript/" title="JavaScript Error Tracking">JavaScript</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/dot-net/" title=".NET Error Tracking">.NET</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/python/" title="Python Error Tracking">Python</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/android/" title="Android Error Tracking">Android</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/php/" title="PHP Error Tracking">PHP</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/django/" title="Django Error Tracking">Django</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/java/" title="Java Error Tracking">Java</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/flask/" title="Flask Error Tracking">Flask</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/ruby/" title="Ruby Error Tracking">Ruby</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/laravel/" title="Laravel Error Tracking">Laravel</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/cocoa/" title="iOS Error Tracking">iOS</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/rails/" title="Rails Error Tracking">Rails</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/node/" title="Node Error Tracking">Node</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/react/" title="React Error Tracking">React</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/for/go/" title="Go Error Tracking">Go</a>
           </li>
-          <li class="col-lg-6 col-xl-4">
+          <li class="col-lg-6">
             <a href="/platforms/" title="Platforms">All Platforms</a>
           </li>
         </ul>
@@ -1012,7 +1077,7 @@ Francisco, CA 94107.</p>
 
     <div class="row">
       <div class="col-9 copyright" role="contentinfo">
-        © 2018 • Sentry is a registered trademark of Functional Software, Inc.
+        © 2019 • Sentry is a registered trademark of Functional Software, Inc.
       </div>
     </div>
   </div>
@@ -1051,7 +1116,7 @@ Raven.config(dsn, ravenOptions).install();
 </script>
 
 
-    <script type="text/javascript" src="/_assets/script-3ceed6a69dd615b7ada6e0ac4f2ebd78e493a75043cb8219b557dae1a63c497f.js"></script>
+    <script type="text/javascript" src="/_assets/script-41c015ac8c0705e1fb56f64a2586a84e28cb9a04cd5b44467893eb46785df10f.js"></script>
 
     
 
@@ -1064,6 +1129,7 @@ Raven.config(dsn, ravenOptions).install();
   gtag('js', new Date());
 
   gtag('config', 'UA-30327640-1', { anonymize_ip: true });
+  gtag('config', 'UA-30327640-3', { anonymize_ip: true });
 </script>
 
     <span class="banner tracking-banner pt-3">
