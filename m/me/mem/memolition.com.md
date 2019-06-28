@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memolition.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227033949id_/http%3A//memolition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memolition.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628092120id_/http%3A//memolition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Memolition
 
