@@ -1,35 +1,63 @@
-> *The following text is extracted and transformed from the loadly.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924004031id_/http%3A//www.loadly.com/pages/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadly.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628062727id_/https%3A//brandpa.com/privacy-policy) for the most accurate reproduction.*
 
-# loadly.Com - Free File Hosting.File Storage.Online File Hosting.Online File Sharing.Free Hosting
+# Privacy Policy
 
-### **Privacy Policy**
+Privacy matters but it can be confusing. This page explains our approach to privacy on Brandpa's website and how it affects you. 
 
-This 6ybh-upload Privacy Policy, in conjunction with the AUP, Terms of Service and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the 6ybh-upload website and are collectively referred to as the "Agreement". 
+## Summary
 
-6ybh-upload may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement. 
+  * We collect anonymous statistics about your visit, like counting which pages you viewed. 
+  * We use [Facebook's advertising network](https://www.facebook.com/Business-Ads). Facebook measures when you use certain features of our website, to determine if an advert is working. 
+  * We never share any personally identifiable information with 3rd parties except to help us deliver our own services. 
 
-Any Content uploaded by you to 6ybh-upload becomes published Content and is not considered personally identifiable information subject to this Privacy Policy. 
 
-6ybh-upload uses IP addresses to measure usage and analyze trends, administer the website and collect information for its databases. 
 
-A cookie is a piece of data stored on your hard drive containing information about you. Cookies identify you for our database, but provide no information other than that which you have already provided 6ybh-upload. You may reject or delete the cookie, however, you may not be able to access your uploaded files if you have not already created a free account. Cookies also can enable 6ybh-upload to track and target your interests to enhance your experience on our website. 
+These are just the key points. If you need detail, keep reading. 
 
-You may review, update, correct or delete personal information or your account on your My Account page. 
+##  Visitors to this website 
 
-The email address you provide for order processing will only be used to send you information and updates pertaining to your order. 
+This website records anonymous statistics about what pages are viewed, what searches are made, and what features are used. We use this information to measure the popularity of individual domain names, and to prevent abuse (e.g. detect bots, spam, fake purchases etc). This information is stored anonymously, which means we don't record your name, IP address, or anything else which could identify you personally. 
 
-We will not rent, sell or share your information with third parties. However, we may disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to: conform to the edicts of the law or comply with a legal process served on us; protect and defend the rights or property of 6ybh-upload, or visitors of 6ybh-upload; identify persons who may be violating the law, the legal notice, or the rights of third parties; co-operate with the investigations of purported unlawful activities. 
+We also measure visitors to our website using [Google Analytics](https://analytics.google.com/). Google records what pages you view within our site, how you arrived at our site and some basic information about your computer. Again, all of that information is anonymous – so we don’t know _who_ you are; just that _somebody_ visited our site. 
 
-For your safety and protection, your credit card information is not stored on our servers. Our payment gateway providers, Plimus, Moneybookers and PayPal, keep this information encrypted and secure on your behalf. 
+We use [Facebook's advertising network](https://www.facebook.com/Business-Ads), which means Facebook can measure your use of specific features on the Brandpa website. They use this to determine whether an advert results in conversions. They also use this to determine whether a visitor to Brandpa could be shown relevant adverts later, e.g. for a domain name that they looked at. Brandpa does not have access to any personally identifiable information gathered during this process. 
 
-Third-party websites or services linked to 6ybh-upload are not covered by this Privacy Policy. These websites may collect personally identifiable information about you and place a cookie on your browser. 6ybh-upload is not responsible for the privacy practices of the third-party websites and companies. 
+We use [Stripe](https://stripe.com/) for processing credit cards. Stripe use cookies to help identify suspicious behaviour before a purchase is made, such as non-human purchases. This information is not visible to Brandpa. 
 
-You are solely responsible for safeguarding the secrecy of your password. 
+We use Google's [reCAPTCHA](https://www.google.com/recaptcha) to detect bots and spam, e.g. fake offers or purchases. reCAPTCHA uses cookies to track your behaviour on this site and determine if you are probably human. This information is not visible to Brandpa. 
 
-6ybh-upload is not responsible if you volunteer personal information online that is accessible to the public. You may receive unsolicited messages from other parties or it may be used in a manner that violates the law, your personal privacy or your safety. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed. 
+Our website is hosted by [Amazon Web Services](https://aws.amazon.com/). All data we store on AWS is protected via two-factor authentication and only available to authorised developers. 
 
-If you are not a resident of the United States, you understand and agree that 6ybh-upload stores and processes your information on computers located in the United States, any by providing any data to 6ybh-upload, you consent to the transfer of such information to the United States. 
+##  Making an offer, enquiry or purchase 
 
-In the event that 6ybh-upload is acquired or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from you as part of any change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, 6ybh-upload may not be able to control how your personal information is treated, transferred or used. 
+If you make an offer, enquiry or purchase a domain name, we will ask you for some personally identifiable information, which is required to perform that service. For example, your address is required to complete a purchase. 
 
-Although we strive to protect your personal information, 6ybh-upload cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
+We use [Stripe](https://stripe.com/) for handling all credit card transactions. Brandpa never have any access to your payment information, but we do have access to your name, address and email, which we require to fulfil your order. 
+
+We use [ZenDesk](https://zendesk.com/) and [GSuite](https://gsuite.google.com/) internally to provide support and communicate to you. 
+
+We delete all personally identifiable information (e.g. name, address, IP address) from all offers, enquiries or purchases within 12 months of them last being used. 
+
+##  Becoming a seller or designer 
+
+To become a seller or designer on Brandpa, you are asked to provide your email address, and to receive payments you may also provide a PayPal email address or bank transfer details. These are required for Brandpa to pay you. 
+
+As a seller or designer we may send you relevant and necessary service emails, such as notifying you that your domains have been listed, sold, or suspended. We will also notify you of new or altered features that impact you as a seller or designer on Brandpa. We do _not_ send you marketing emails. 
+
+We never provide your personal information or email address to any third parties except where they are specifically employed to help deliver our own services. 
+
+If you choose to close your account Brandpa will remove all of your personally identifiable information. We will still retain a record of the domains that you may have sold or designed, but in an anonymous manner. 
+
+## Security
+
+Brandpa take many precautions to prevent the loss, misuse or alteration of your personal information. All personal information you provide us with is encrypted via Secure Socket Layer (SSL) technology. Access to all data is tightly controlled and where possible protected via two-factor authentication. 
+
+## Cookies
+
+Our website uses cookies. A cookie is simply a technology for remembering something about you. We use cookies to improve your browsing experience as well as understand your preferences for future visits.
+
+You can turn cookies off but you'll need to know that by doing so some features on our site may be disabled. You can read more about cookies on [Cookies and You](http://cookies.insites.com/).
+
+## Questions
+
+If you have any questions about this privacy policy or your personal data, please write to us: [info@brandpa.com](mailto:info@brandpa.com).
