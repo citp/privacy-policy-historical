@@ -1,136 +1,132 @@
-> *The following text is extracted and transformed from the lonnymag.com privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818065525id_/http%3A//www.lonnymag.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonnymag.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629014737id_/https%3A//www.livinglymedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy — Livingly Media
 
-Privacy Policy  
+Last Updated: August 28, 2018
 
+ **We take the privacy of our users very seriously.**  Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [privacy@livingly.com](https://web.archive.org/web/20170606150152/mailto:privacy@livingly.com) or in writing at: Privacy Director, Livingly Media, Inc., 201 Redwood Shores Parkway, Suite 300, Redwood City, CA 94065.
 
-Last Updated: [        ], 2010  
+ **Online Privacy Standards.**  While there are no official standards governing privacy practices on the internet, we follow the principles supported by the Federal Trade Commission’s Fair Information Practices Principles, currently available at [https://www.ftc.gov/reports/privacy-online-fair-information-practices-electronic-marketplace-federal-trade-commission](https://web.archive.org/web/20170606150152/https://www.ftc.gov/reports/privacy-online-fair-information-practices-electronic-marketplace-federal-trade-commission).
 
+ **What This Policy Covers.**  This policy covers Livingly Media’s treatment of personally identifiable information that we obtain when you visit our website or use our services. We regard personally identifiable information as information that someone can use to identify or contact you in person, such as real name, telephone number, birth date, email address, or physical mailing address. Information that we use internally to identify you as a member in our system, such as your selected UserID, is not considered personally identifiable information.
 
-Lonny, LLC (“Lonny” or “we” or “us”) is committed to protecting your privacy.  We created this Privacy Policy (“Privacy Policy”) to give you confidence as you visit the [www.lonnymag.com](http://www.lonnymag.com/ "http://www.lonnymag.com") website located within the lonnymag.com domain (“Website”) and use the Lonny services (the “Services”) provided through the Website, and to demonstrate our commitment to fair information practices and the protection of privacy. Your use of the Website and the Services is governed by this Privacy Policy and the [Terms of Use](http://www.lonnymag.com/Old/Terms.html "http://www.lonnymag.com/Old/Terms.html").  
+ **What This Policy Does Not Cover.**  This policy does not cover the privacy practices of third parties that we do not own or control, such as our partners and advertisers. In addition, we may provide links to other services and on occasion to other sites that may interest you. All of these sites operate independently of Livingly and they have their own privacy or security practices. For your best on-line experience, we encourage you to review their policies before submitting any personal information to them.
 
+## HOW WE COLLECT INFORMATION
 
-1\. About This Privacy Policy and Our Services  
+INFORMATION YOU PROVIDE
 
+ **Registration Information.**  During the registration process, we collect your email address. We will send you an email to verify that you are the owner of this address. You will also choose a UserID that we will use to identify you in our system.In general, we make it easy for you to view the personally identifiable information we have collected from you in your member profile page, where you can add, edit, or delete it as you see fit.
 
-This Privacy Policy is only applicable to the Website and not to any other websites that you may be able to access from the Website (whether through an advertisement, service, or content link) or any website of Lonny’s partners each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.  
+## INFORMATION WE DO NOT COLLECT
 
+ **Children.**  As explained further in our Terms of Service, currently available at [http://www.livinglymedia.com/terms-of-service/](https://web.archive.org/web/20170606150152/http://www.livinglymedia.com/terms-of-service/), you must be 13 years of age or older to register to use our website. Therefore, we do not knowingly collect personally identifiable information about children. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at [privacy@livingly.com](https://web.archive.org/web/20170606150152/mailto:privacy@livingly.com) or write to our Privacy Director at the address noted above.
 
-While you may use some of the functionality of Lonny without providing an email address, certain Services on the Website require you to provide an email address.  If you use our Website without providing an email address (as well as any such future information as we may require to maintain access to the site) (collectively, “Personal Information”), the only information we collect will be Non-Personal Information through the use of Cookies or Web Beacons (please see Section 2).  You are responsible for ensuring the accuracy of the Personal Information you submit to Lonny. Inaccurate information will affect the information you receive when using our Website and our ability to contact you as described in this Privacy Policy.  
+ **Social Security Number.**  We do not ask for or require your social security number to use any of our services or to access any part of our site.
 
+## INFORMATION WE TRACK
 
-2\. Information We Automatically Collect About You  
+ **Log Files.**  Similar to many websites, we gather certain anonymous, non-personal information automatically and store it in web server log files. This information includes internet protocol addresses, browser type, internet service provider (ISP), site entry/exit pages, operating system, date/time stamp, and clickstream data. We use this information to improve our site, analyze trends, administer the site, track users’ movements around the site, and gather aggregate information about our user base as a whole. Aggregate information is data we collect about a group or category of services or members from which individual member identities have been removed, and therefore does not include your personally identifiable information.
 
+ **Cookies.**  A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. It can also help us understand how our site visitors click to our site, and what pages they view during their visit. Similar to many websites, we store an encrypted cookie on your computer so we can remember you when you come back to our website without requiring you to log-in every time. Cookies also allow us to track and understand the interests of our users to enhance the overall experience on our site.
 
-We collect information other than Personal Information (“Non-Personal Information”) about your use of our Website.  
+ **Our partners.**  Some of our business partners may also use cookies on our site. For example, some of our advertising partners may use cookies to collect non-personally identifiable information about your visit to our site in order to provide advertisements about goods and services that may be of interest to you. We have no access to or control over these cookies, and, as noted above, this privacy policy does not govern the use of cookies by our business partners or advertisers. To be excluded from these services, please visit some of our partners’ websites and follow the instructions provided.
 
+  *  **Google:**[ http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
 
-A. Cookies  
+  *  **Quantcast:**  [http://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery](https://web.archive.org/web/20170606150152/http://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery)
 
+  *  **Network Advertising Initiative:  **[http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20170606150152/http://www.networkadvertising.org/managing/opt_out.asp)
 
-We use “cookies” to customize your experience on the Website.  “Cookies” are small computer files that are transferred to your computer’s hard drive that contain information such as your user ID, user preferences, the pages you’ve visited and the activities you’ve performed while using the Website. We do not link the information stored in cookies to any of your Personal Information you submit while on the Website.  You may block cookies or delete cookies from your hard drive; however, by disabling cookies, you may not have access to all of the features of the Website.  Some of our business partners also use cookies to provide us with anonymous data and information regarding your use of the Website. We do not have access or control over these cookies and our privacy policy does not cover the use of third party cookies.  
 
 
-B. Web Beacons  
 
+ **You can set your web browser software to disable cookies**. To do so, please refer to the help section of your specific browser for more information on how to manage or disable cookies. If you disable cookies, you may still view our site, but some areas of our site will not work properly.
 
-We or our third party tracking utility company also use “web beacons” to collect anonymous information about your use of our Website and the websites of selected sponsors and advertisers, and your use of emails, special promotions or newsletters we send to you. Web beacons are tiny graphic image files embedded in a web page or email that provide a presence on the web page or email and send back to its home server information from the user’s browser. The information collected by web beacons allows us to statistically monitor how many people are using our Website and selected sponsors' and advertisers' sites and opening our emails, and for what purposes. Our web beacons are not used to track your activity outside of our Website. We do not link Non-Personal Information from web beacons to Personal Information without your permission.  
+## HOW WE USE INFORMATION
 
+ **In Company Communications**. We use emails and/or prominent notifications on our websites as our primary means to inform our members of important service and promotional announcements.
 
-C. Traffic Data  
+ **Service-related Announcements.**  We use your email address to deliver important service-related announcements. Example service-related announcements include: email verification during registration, requests for password reset, important security or server maintenance updates, software updates, upgrades, and new releases, or policy changes. These service-related announcements are considered a fundamental part of our web service, and members cannot opt-out of these email announcements.
 
+ **Promotional Announcements.**  In order to improve the experience for our users, we will offer you the ability to sign up for optional email communications, such as regular updates from our corporate website, or email alerts and newsletters for specific web guides. These communications are enhancements to our service and are entirely optional. We will ask for your consent before sending you promotional communications, and will make it easy for you to unsubscribe from these communications, either through the emails or though your member profile page.
 
-We automatically track and collect the following categories of information when you visit our Website: (1) IP addresses; (2) domain servers; (3) types of computers accessing the Website; (4) types of web browsers used to access the Website; (5) referring source which may have sent you to the Website; and (6) other information associated with the interaction of your browser and the Website (collectively “Traffic Data”). We do not link Non-Personal Information from Traffic Data to Personal Information without your permission.  
+ **Site Statistics.** As noted above, we use information collected from our web log files to calculate and publish anonymous, non-personal, aggregate statistics that we believe our members are interested in viewing. For example, we track and publish the total number of users who have viewed a particular web page. We publish this data in aggregate form only, and do not tie it to any personally identifiable information.
 
+ **For internal reporting and analysis.** As noted above, we use information gathered from log files and cookies to improve our site, analyze trends, administer the site, track users’ movements around the site, and to gather aggregate information about our user base as a whole. We do not tie this data to personally identifiable information.
 
-3\. Personal Information We Collect About You  
+## HOW WE SHARE AND DISCLOSE INFORMATION
 
+WITH THIRD-PARTIES
 
-A. Email to You  
+ **Sharing, Renting, and Selling Information We Collect.**  We will neither rent nor sell your personally identifiable information to anyone. Occasionally we share anonymous, non-personal, aggregate information about our user base with partners or advertisers, and we may publish these aggregate usage statistics on our website for the interest of our members. We do not tie this shared or published data to personally identifiable information.
 
+AS NECESSARY IN LEGAL CIRCUMSTANCES
 
-We use the Personal Information that you provide to respond to your questions, provide you the specific Services you select and send you emails about Website maintenance and updates.  You may choose not to provide us with any Personal Information. In such case, you can still access and use parts of the Website; however you will not be able to access and use those portions of the Website that require your Personal Information.  
+ **Legal Requirements.**  We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
 
+## HOW WE KEEP INFORMATION SECURE
 
-Subject to the Privacy Policy, if you contact Lonny, we may use any of the information you submit in connection with your inquiry, or any Personal Information and Non-Personal Information when responding to your inquiries.   
+ **Security of Account Information.**  Your account information is password-protected. We will not share your password with anyone. Please do not share your password with anyone, and remember to change your password from time to time, to keep your account information secure.
 
+ **Network Security.**  We have implemented a variety of commercially standard security technologies and procedures to protect information, including your personal information, stored in our computer systems from unauthorized access. Please be aware that no method of transmission over the internet, or method of electronic storage, is 100% secure, thus we strive to use commercially acceptable means to protect your personal information, but we cannot guarantee its absolute security.
 
-We may use your contact data to send you information to contact you when necessary, and in conjunction with your use of certain Services. In some cases, when you click on a link in an e-mail, your browser may be momentarily directed to the website of a third party which, acting on behalf of Lonny (see Section 5 below), notes or "counts" your response to the e-mail before re-directing your browser to your selected destination; this re-direction process may not be apparent to you.  
+ **Management Procedures.**  We also maintain standard physical and electronic procedural safeguards that limit access to your personally identifiable information to our employees (or people working on our behalf and under confidentiality agreements) who, through the course of standard business activities, need to access your personally identifiable information.
 
+## YOUR PERSONAL CHOICES
 
-B. Market Research  
+ **Receiving Communications.**  If you subscribe to any optional promotional communications, you will be able to unsubscribe from them through your member profile page or through the emails we send you.
 
+ **Editing / Deleting Member Account Information.**  You can view the personally identifiable information we have collected from you in your member profile page where you can add, edit, or delete it as you see fit. You may also request deletion of your member account through your member profile page.
 
-From time to time the Lonny market research department, or its operations contractors acting on its behalf, may conduct online research in order to gather feedback about our site and our sponsors through email invitations, pop-up surveys and online focus groups. When participating in a survey, we may ask you to submit Personal Information. This Personal Information is used for research purposes, and is not used for sales solicitations. When a survey is sponsored by a third party, aggregate information of the survey results is reported to the sponsor. Personal Information collected through market research will be used only by Lonny and its service providers and contractors and will not be given or sold to a third party without your consent or as otherwise permitted by this Privacy Policy. We will not knowingly accept survey responses from or conduct interviews with any person under the age of 18. In addition to collecting survey responses from our members, cookies may be used to authenticate respondents or to help you pick up where you left off in a survey. If you have cookies disabled you may not be able to participate in some studies. Cookies may be used to connect survey data with Lonny site usage characteristics. You will be notified when we would like to use cookies in this way and your consent will be requested for these cookies.  
+## FOR EU DATA SUBJECTS - LEGAL BASIS FOR COLLECTING AND USING YOUR DATA
 
+ **This section tells you the legal bases we use to collect and use your data:   **
 
-E. Children  
+Account creation and Profile    
+Basis: Contract 
 
+Advertising     
+Basis: Legitimate interest when serving advertising using non-personalized mode through our ad server; Consent when serving advertising using personalized mode through our ad server and with our header bidding partners
 
-We do not knowingly collect Personal Information from children under the age of 13.  
+Content Delivery Network (CDN)  
+Basis: Legitimate Interest 
 
+Contests and Surveys  
+Basis: Consent 
 
-4\. Lonny’s Use of Your Information  
+3rd Party Cookies, Pixels, and Measurement    
+Basis: Consent   
 
+Livingly Media Cookies and Measurement Using Internal Software    
+Basis: Legitimate Interest 
 
-We may use your contact data to send you information about Lonny or our products or Services, to contact you when necessary and in conjunction with your use of certain Services.  We may use your Traffic Data to customize and tailor your experience on the Website, in emails and in other communications, displaying content that we think you might be interested in and according to your preferences.  
+Newsletters    
+Basis: Consent 
 
+Information, system, network and cyber security    
+Basis: Legitimate Interest 
 
-5\. Information Collected by Third Parties Not Acting on Behalf of Lonny  
+## FOR EU DATA SUBJECTS - HOW LONG DO WE KEEP YOUR DATA? 
 
+We delete or anonymise your data held in our archives unless retained through Consent, Contract, or Legitimate Interest.  Occasionally personal data is kept for longer than our standard retention policy, if it is required for legal or safeguarding interests or in order to respond to any complaints or claims that you make. If this is the case, we will only keep the data for as long as we need in order to fulfill those purposes. 
 
-Certain content and Services offered to you through our Website may be served on websites hosted and operated by a company other than Lonny ("Third Party Contractor Websites"). Lonny does not disclose your Personal Information to these Third Party Contractor Websites without your consent, but you should be aware that any information you disclose once you access these other websites is not subject to this Privacy Policy. Lonny does not endorse and is not responsible for the privacy practices of these Third Party Contractor Websites. You should review the privacy policy posted on any other website to understand how that Third Party Contractor Website collects and uses your personally identifiable information.  
+You have the right of access, rectification, to be forgotten, portability, to withdraw and the right to object to us processing your personal data for the purposes set out above at any time. Unless we can show that we have a legitimate reason to continue processing your personal data, we will stop processing it.   
 
+You can delete your account at any time and/or choose to anonymise your posts by contacting us at [support@livingly.com](mailto:support@livingly.com), and you can unsubscribe to newsletters and surveys on your Profile or by unsubscribing using the link at the bottom of every email. 
 
-6\. Links to Other Websites  
+## FOR EU DATA SUBJECTS -  DATA PROTECTION OFFICER
 
+The Data Protection Team for Livingly Media can be contacted by emailing [dpo@livinglymedia.com](mailto:dpo@livinglymedia.com). 
 
-The Website contains links to third party websites with which Lonny has no affiliation. Lonny does not share your personal information with those websites and is not responsible for their privacy practices. Some websites may have the look and feel of our Website. Please be aware that you may be on a different site and that this Privacy Policy only covers our Website. Should you decide to visit one of these third party websites, we suggest that you read its privacy policy.  
+## FOR EU DATA SUBJECTS -  COMPLYING WITH THE LAW 
 
+We are complying with the Data Protection Act 1998 and Regulation (EU) 2016/679 of the European Parliament and of the Council of the 27th of April 2016, General Data Protection Regulation referred to as “GDPR”. 
 
-7\. Disclosure of Your Information  
+## FOR EU DATA SUBJECTS -  COMPLAINTS TO THE SUPERVISORY AUTHORITY 
 
+You have a right to complain to the Information Commissioner's Officer (ICO), which regulates data protection compliance in your country, if you are unhappy with how we have processed your personal data. You can do this by visiting the relevant [ICO's site](https://ico.org.uk/concerns/).  
 
-We share certain categories of information we collect from you in the ways described in this Privacy Policy. We share Personal Information and Traffic Data with our business partners who assist us by performing core services (such as website hosting, data storage and security) related to our operation of the Website and/or by making certain Services available to our users. Those business partners shall be bound to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your Contact Data and other Personal Information to carry out their specific business obligations to and to provide you with Website related services.  
+## UPDATES TO OUR PRIVACY POLICY
 
-
-Lastly, we may transfer information about you to another company in connection with a merger, sale or acquisition by or of Lonny.  In this event, we will use reasonable efforts to notify you before information about you is transferred and becomes subject to a different privacy policy. Lonny does not share, sell, rent or trade your Personal Information with any third parties for their promotional purposes.  
-
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website.  
-
-
-8.  Security  
-
-
-The Personal Information we collect about you is stored on a secure, password-protected server and only authorized personnel have access to your information. We use industry-standard encryption technologies with respect to the receipt and transfer of Personal Information you submit to us on the Site and only authorized personnel have access to your information. Nevertheless, despite our best efforts, no transmission over the Internet and no data storage method can be guaranteed to be safe 100% of the time.  
-
-
-9.  Choice/Opt-out  
-
-
-If you no longer wish to receive emails, you may opt-out of receiving them by following the instructions included in each email, or by emailing us at [editors@lonnymag.com](mailto:editors@lonnymag.com "mailto:editors@lonnymag.com").  
-
-
-Or send a request via postal mail to:  
-
-
-Lonny, LLC  
-140 West 30th St., Suite 4-E  
-New York, NY 10001  
-
-
-10\. Transfer and Storage of Data  
-
-
-The Website is hosted on servers in the United States. Accordingly, if you are located outside of the United States, the Personal Information you provide to us will be transferred to the United States. By submitting your Personal Information, you consent to its transfer and storage in the United States and its use in accordance with the purposes for which it was originally collected.  
-
-
-11\. Changes to This Privacy Policy  
-
-
-We reserve the right, at any time, to add to, change, update, or modify this Privacy Policy so please review it frequently. If we do, then we will notify you here, as well as by posting a notice on our Website and/or by e-mailing you. In all cases, use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.  
-
-
-Copyright © 2010 Lonny, LLC All rights reserved.
+ **From time to time, we will review and make changes to our privacy policy.**  When we do so, the most recent version of our privacy policy will become available from a link on our homepage and [here](https://web.archive.org/privacy-policy).
