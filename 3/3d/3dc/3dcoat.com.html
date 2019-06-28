@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 3dcoat.com privacy policy that was archived on 2018-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227223254id_/https%3A//3dcoat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 3dcoat.com privacy policy that was archived on 2019-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190628171702id_/https%3A//3dcoat.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -18,21 +18,23 @@
 
 <link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_f27336fca3.css?1529330099" media="all">
 <link rel="stylesheet" type="text/css" href="typo3conf/ext/videoloadmore/res/pi1.css?1505117631" media="all">
-<link rel="stylesheet" type="text/css" href="typo3conf/ext/slider/res/pi1.css?1513773670" media="all">
-<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/style.css?new=1&amp;1545394264" media="all">
-<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/media-queries.css?1533568720" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/slider/res/pi1.css?1547220816" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/style.css?new=1&amp;1553073888" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/media-queries.css?1553074179" media="all">
 
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W9X84SF"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
 <script src="//www.youtube.com/iframe_api" type="text/javascript"></script>
-<script src="typo3conf/ext/videoloadmore/res/pi1.js?1506538412" type="text/javascript"></script>
-<script src="typo3conf/ext/slider/res/pi1.js?1513601312" type="text/javascript"></script>
-<script src="typo3conf/ext/slider/res/jquery.cycle2.js?1513601311" type="text/javascript"></script>
+<script src="typo3conf/ext/videoloadmore/res/pi1.js?1551881499" type="text/javascript"></script>
+<script src="typo3conf/ext/slider/res/pi1.js?1547220816" type="text/javascript"></script>
+<script src="typo3conf/ext/slider/res/jquery.cycle2.js?1547220816" type="text/javascript"></script>
 <script src="fileadmin/templates/js/js.cookie.js?1528979590" type="text/javascript"></script>
 <script src="fileadmin/templates/js/cookies-message.js?1528979590" type="text/javascript"></script>
+<script src="typo3conf/ext/buynow/res/data-layer.js?1561112871" type="text/javascript"></script>
 
 
 <title>Privacy&nbsp;–&nbsp;3DCoat </title>    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <script> (function(w,d,s,l,i){w[l]=w[l]||[]; w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W9X84SF'); </script>
 <link rel="alternate" hreflang="en" href="http://3dcoat.com/privacy/"><link rel="alternate" hreflang="de" href="http://3dcoat.com/de/privacy/"><link rel="alternate" hreflang="ja" href="http://3dcoat.com/jp/privacy/"><link rel="alternate" hreflang="fr" href="http://3dcoat.com/fr/privacy/"><link rel="alternate" hreflang="es" href="http://3dcoat.com/es/privacy/"><link rel="alternate" hreflang="pl" href="http://3dcoat.com/pl/privacy/"><link rel="alternate" hreflang="ru" href="http://3dcoat.com/ru/privacy/"><link rel="alternate" hreflang="zh-hans" href="http://3dcoat.com/cn/privacy/"><link rel="stylesheet" href="typo3conf/ext/perfectlightbox/res/css/lightbox.css" type="text/css" media="screen,projection">  <link rel="stylesheet" type="text/css" href="typo3conf/ext/neo_fileshare/res/gallery.css">
 </head>
 <body>
@@ -43,8 +45,57 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'UA-71501082-1');
+    //gtag('config', 'UA-71501082-1');
+
+
+
+
+
+	var downloadUidStr = '';
+	var downloadUid = 0;
+	if(localStorage['downloadUid']){
+		downloadUid = localStorage['downloadUid'];
+
+	} else {
+		var uid = getSearchParameter('uid');
+		if(uid){
+			downloadUid = uid;
+			localStorage['downloadUid'] = uid;
+		}
+	}
+
+	if(downloadUid) {
+		downloadUidStr = downloadUid.toString();
+	}
+
+	//https://developers.google.com/analytics/devguides/collection/gtagjs/cookies-user-id
+	if(downloadUidStr) {
+		gtag('config', 'UA-71501082-1', {
+			'user_id': downloadUidStr,
+			'linker': {
+				'domains': ['www.bluesnap.com']
+			}
+		});
+	} else {
+		gtag('config', 'UA-71501082-1', {
+			'linker': {
+				'domains': ['www.bluesnap.com']
+			}
+		});
+	}
+
+
 </script>
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W9X84SF" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
 
 <div id="pagewrap">
 
@@ -52,7 +103,8 @@
 	<div class="cookies-message-container">
 		<div class="cookies-message-content">
 			<div class="message-text left">
-				Our website uses <a href="/privacy/#cookies">cookies</a>
+				Our website uses <a href="/privacy/#cookies">cookies</a>. <br>
+				Also we use Google Analytics service and Facebook Pixel technology to know how our marketing strategy and sales channels <a href="/privacy/#datawecollect">work</a>
 			</div>
 			<div class="button-container right">
 				<button id="cookie-ok-id" class="black_border">
@@ -89,7 +141,7 @@
                
                 <div class="social-header">
 					<ul class="social-icons"> 
-                    	<li><a href="https://www.youtube.com/channel/UCkj0Q5hTgsyROJU4dlNu0Mg"><img src="/fileadmin/templates/images/icons/youtube.png"></a></li><li><a href="https://twitter.com/AndrewShpagin"><img src="/fileadmin/templates/images/icons/twitter.png"></a></li> <li><a href="https://www.facebook.com/3DCoat"><img src="/fileadmin/templates/images/icons/facebook.png"></a></li><li><a href="https://plus.google.com/u/0/communities/106474664209983631500"><img src="/fileadmin/templates/images/icons/google-plus.png"></a></li>
+                    	<li><a href="https://www.youtube.com/channel/UCkj0Q5hTgsyROJU4dlNu0Mg"><img src="/fileadmin/templates/images/icons/youtube.png"></a></li><li><a href="https://twitter.com/3DCoatOfficial"><img src="/fileadmin/templates/images/icons/twitter.png"></a></li> <li><a href="https://www.facebook.com/3DCoat"><img src="/fileadmin/templates/images/icons/facebook.png"></a></li>
 					</ul>
                 </div>
 
@@ -142,14 +194,22 @@
 			</div>
 	<!--  CONTENT ELEMENT, uid:947/text [end] -->
 		
+	<!--  CONTENT ELEMENT, uid:1035/html [begin] -->
+		<div id="c1035" class="csc-default">
+		<!--  Raw HTML content: [begin] -->
+			<div id="datawecollect"> </div>
+		<!--  Raw HTML content: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1035/html [end] -->
+		
 	<!--  CONTENT ELEMENT, uid:948/text [begin] -->
 		<div id="c948" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n3"><h3>DATA WE COLLECT AND HOW WE USE IT</h3></div>
+			<div class="csc-header csc-header-n4"><h3>DATA WE COLLECT AND HOW WE USE IT</h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
-			<div><p class="bodytext">We collect the data you provide to us directly, such as when you create a 3DCoat.com account, use our Services or contact us for support. This data is used for the purposes it was given for:</p></div><div><ul><li>- Registration data (e-mail address and passwords, password hints, and similar security information used for authentication and account access) is used to provide you with the best experience using our Service and shall include collecting, storing and processing of this data by us and/or our partners (the list of which is contained in this Privacy Policy);</li><li>- Other data you provide to our customer support (for example, first and last name, email address, postal address, phone number, and other similar contact data) is used by us to solve any issues you may experience when using our Services, for which we collect, store and process such data and, if necessary, transfer it for the same to our partners (the list of which is contained in this Privacy Policy);</li><li>- Anonymous data which we get by recording how you interact with our Service or usage data from Service (this includes data about your device and the network you use to connect to our Service, including IP address). This data is collected for statistical purposes, which helps us to track errors and improve our Service. We collect, store and process such data and, if necessary, transfer it for the same purposes to third parties.</li></ul></div>
+			<div><p class="bodytext">We collect the data you provide to us directly, such as when you create a 3DCoat.com account, use our Services or contact us for support. This data is used for the purposes it was given for:</p></div><div><ul><li>- Registration data (e-mail address and passwords, password hints, and similar security information used for authentication and account access) is used to provide you with the best experience using our Service and shall include collecting, storing and processing of this data by us and/or our partners (the list of which is contained in this Privacy Policy);</li><li>- Other data you provide to our customer support (for example, first and last name, email address, postal address, phone number, and other similar contact data) is used by us to solve any issues you may experience when using our Services, for which we collect, store and process such data and, if necessary, transfer it for the same to our partners (the list of which is contained in this Privacy Policy);</li><li>- Anonymous data which we get by recording how you interact with our Service or usage data from Service (this includes data about your device and the network you use to connect to our Service, including IP address). This data is collected for statistical purposes, which helps us to track errors and improve our Service. We collect, store and process such data and, if necessary, transfer it for the same purposes to third parties.</li><li>-&nbsp;We use Google Analytics service so we know how our marketing strategy and sales channels work. To find out more about it please read <a href="https://support.google.com/analytics/answer/3123662?hl=en" title="Opens external link in new window" target="_blank" class="external-link-new-window">here</a></li><li>-&nbsp;We use Facebook Pixel technology as well to make sure we reward our clients who found out about us from Facebook advertisement (more about it <a href="https://www.facebook.com/business/learn/facebook-ads-pixel" title="Opens external link in new window" target="_blank" class="external-link-new-window">here</a>).</li></ul></div>
 		<!--  Text: [end] -->
 			</div>
 	<!--  CONTENT ELEMENT, uid:948/text [end] -->
@@ -157,7 +217,7 @@
 	<!--  CONTENT ELEMENT, uid:949/text [begin] -->
 		<div id="c949" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n4"><h3>PROFILING</h3></div>
+			<div class="csc-header csc-header-n5"><h3>PROFILING</h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
@@ -169,7 +229,7 @@
 	<!--  CONTENT ELEMENT, uid:950/text [begin] -->
 		<div id="c950" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n5"><h3>LEGAL BASIS FOR USING YOUR PERSONAL DATA</h3></div>
+			<div class="csc-header csc-header-n6"><h3>LEGAL BASIS FOR USING YOUR PERSONAL DATA</h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
@@ -181,7 +241,7 @@
 	<!--  CONTENT ELEMENT, uid:951/text [begin] -->
 		<div id="c951" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n6"><h3>HOW LONG WE USE PERSONAL DATA</h3></div>
+			<div class="csc-header csc-header-n7"><h3>HOW LONG WE USE PERSONAL DATA</h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
@@ -193,7 +253,7 @@
 	<!--  CONTENT ELEMENT, uid:952/text [begin] -->
 		<div id="c952" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n7"><h3>DATA PROTECTION</h3></div>
+			<div class="csc-header csc-header-n8"><h3>DATA PROTECTION</h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
@@ -207,7 +267,7 @@
 	<!--  CONTENT ELEMENT, uid:953/text [begin] -->
 		<div id="c953" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n8"><h3>ENFORCEMENT</h3></div>
+			<div class="csc-header csc-header-n9"><h3>ENFORCEMENT</h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
@@ -219,7 +279,7 @@
 	<!--  CONTENT ELEMENT, uid:954/text [begin] -->
 		<div id="c954" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n9"><h3>EU Members’ Rights</h3></div>
+			<div class="csc-header csc-header-n10"><h3>EU Members’ Rights</h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
@@ -231,7 +291,7 @@
 	<!--  CONTENT ELEMENT, uid:955/text [begin] -->
 		<div id="c955" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n10"><h3>CHANGES TO THIS PRIVACY POLICY </h3></div>
+			<div class="csc-header csc-header-n11"><h3>CHANGES TO THIS PRIVACY POLICY </h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
@@ -243,7 +303,7 @@
 	<!--  CONTENT ELEMENT, uid:956/text [begin] -->
 		<div id="c956" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n11"><h3>LINKS</h3></div>
+			<div class="csc-header csc-header-n12"><h3>LINKS</h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
@@ -263,7 +323,7 @@
 	<!--  CONTENT ELEMENT, uid:957/text [begin] -->
 		<div id="c957" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n13"><h3>COOKIES</h3></div>
+			<div class="csc-header csc-header-n14"><h3>COOKIES</h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
@@ -275,7 +335,7 @@
 	<!--  CONTENT ELEMENT, uid:958/text [begin] -->
 		<div id="c958" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n14"><h3> OPT-OUT</h3></div>
+			<div class="csc-header csc-header-n15"><h3> OPT-OUT</h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
@@ -287,7 +347,7 @@
 	<!--  CONTENT ELEMENT, uid:959/text [begin] -->
 		<div id="c959" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n15"><h3>LIST OF PARTNERS</h3></div>
+			<div class="csc-header csc-header-n16"><h3>LIST OF PARTNERS</h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
@@ -299,7 +359,7 @@
 	<!--  CONTENT ELEMENT, uid:960/text [begin] -->
 		<div id="c960" class="csc-default">
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n16"><h3>CONTACT US</h3></div>
+			<div class="csc-header csc-header-n17"><h3>CONTACT US</h3></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
@@ -329,7 +389,7 @@
 						<h4 class="upper">Follow us:</h4>
 						<div class="social-footer">
 							<ul class="social-icons">
-								<li><a href="https://www.youtube.com/channel/UCkj0Q5hTgsyROJU4dlNu0Mg"><img src="/fileadmin/templates/images/icons/youtube.png"></a></li><li><a href="https://twitter.com/AndrewShpagin"><img src="/fileadmin/templates/images/icons/twitter.png"></a></li> <li><a href="https://www.facebook.com/3DCoat"><img src="/fileadmin/templates/images/icons/facebook.png"></a></li><li><a href="https://plus.google.com/u/0/communities/106474664209983631500"><img src="/fileadmin/templates/images/icons/google-plus.png"></a></li>
+								<li><a href="https://www.youtube.com/channel/UCkj0Q5hTgsyROJU4dlNu0Mg"><img src="/fileadmin/templates/images/icons/youtube.png"></a></li><li><a href="https://twitter.com/3DCoatOfficial"><img src="/fileadmin/templates/images/icons/twitter.png"></a></li> <li><a href="https://www.facebook.com/3DCoat"><img src="/fileadmin/templates/images/icons/facebook.png"></a></li>
 							</ul>
 						</div>
 					</div>
