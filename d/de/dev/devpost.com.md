@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devpost.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231134934id_/https%3A//info.devpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devpost.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628025402id_/https%3A//info.devpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ For Google Analytics, please visit: [https://www.google.com/analytics](https://w
 
 For Mixpanel, please visit: [https://mixpanel.com/legal/privacy-policy/](https://mixpanel.com/legal/privacy-policy/)  
 
-For Intercom, please visit [https://www.intercom.com/terms-and-policies#privacy](https://www.intercom.com/terms-and-policies#privacy)
+For Zendesk, please visit [https://www.zendesk.com/company/customers-partners/privacy-policy/](https://www.zendesk.com/company/customers-partners/privacy-policy/)
 
 ##### **Information Collected by or Through Third-Party Advertisers/Remarketers**
 
