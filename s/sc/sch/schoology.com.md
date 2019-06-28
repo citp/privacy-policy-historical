@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schoology.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229031149id_/https%3A//www.schoology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoology.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628233459id_/https%3A//www.schoology.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Schoology
 
-Last Updated: 12/15/2017 | [Leer esta política en español](https://web.archive.org/privacy/es)
+Last Updated: 6/7/2019 | [Leer esta política en español](https://web.archive.org/privacy/es)
 
 Schoology.com is owned and operated by Schoology Inc. This privacy policy covers the services accessed using Schoology.com. Schoology is a cloud-based learning management system and configurable social network for educational purposes. The platform provides a full suite of learning management tools. Students, teachers and parents can access Schoology.com through a free account or through their school or school district’s Enterprise account.
 
@@ -12,10 +12,8 @@ This Privacy Policy does not apply to the [Schoology App Center](https://app.sch
 
 [](https://privo.com/privo-site-validation/?company=991)
 
-**PRIVO-Cert™ Safe Harbor Certification Program**
-
-**PRIVO-Cert™ Safe Harbor Certification Program**   
-Schoology.com is a Member of the PRIVO-Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, Schoology.com adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third-party organization committed to safeguarding children's personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that Schoology.com has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at 212-213-8333 or [privacy@schoology.com](mailto:privacy@schoology.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
+**Kids Privacy Assured by PRIVO: COPPA Safe Harbor Certification**   
+Schoology, Inc is a member of the PRIVO Kids Privacy Assured COPPA Safe Harbor Certification Program (“the Program”). The Program certification applies to the digital properties listed on the validation page that is viewable by clicking on the PRIVO Seal. PRIVO is an independent, third-party organization committed to safeguarding children’s personal information collected online. The PRIVO COPPA certification Seal posted on this page indicates Schoology, Inc has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at 212-213-8333 or [privacy@schoology.com](mailto:privacy@schoology.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
 
 ## Information We Collect
 
@@ -64,6 +62,8 @@ We work with a number of third party service providers to help improve the quali
     * **Marketo** \- Marketo is a marketing communications tool used to help analyze your use of our Main Domain and allow us to improve marketing communications directed at adults. Marketo is also used on other adult directed pages of the Main Domain to allow users to submit their contact information to Schoology in order to request more information about our services. Marketo does not share your information with any other third parties. 
     * **AddThis** \- AddThis is used to facilitate social media sharing on our adult directed blog.
     * **Disqus** \- Disqus is used to facilitate commenting on our adult directed blog.
+    * **New Relic** \- Application Performance Monitoring (APM) solution. It allows marketers to analyze their website performance over time, and zoom in on specific time periods to see what may be contributing to the website’s slow page load times. New Relic does not share your information with any other third parties.
+    * **Hotjar** \- A website analytics tool that allows marketers to interpret user behavior anonymously, without personally identifying individual users. Hotjar does not share your information with any other third parties.
 
 
 
