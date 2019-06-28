@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threepercenternation.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227151242id_/http%3A//threepercenternation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threepercenternation.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628043450id_/http%3A//threepercenternation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – 3%
 
@@ -13,6 +13,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 **Information Collection and Use**
 
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
+
+[](https://pro.hsionlineorders.net/m/1269702)
 
 **Log Data**
 
