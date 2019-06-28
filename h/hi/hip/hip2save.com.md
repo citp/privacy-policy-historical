@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hip2save.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227105816id_/https%3A//hip2save.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hip2save.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628220216id_/https%3A//hip2save.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hip2Save
 
