@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bandsintown.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231192720id_/https%3A//corp.bandsintown.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandsintown.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628232801id_/https%3A//corp.bandsintown.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Bandsintown, LLC.
+# Privacy Policy — Home
 
 ## Privacy Policy for Bandsintown Website and Applications
 
@@ -209,13 +209,12 @@ If you are a copyright owner or an agent thereof and believe that any content on
 
 
 
-Written notification of claimed infringement must be submitted to the following Designated Agent: Dan Nemo  
-Name and Address of Designated Agent:   
-Bandsintown, LLC
+Written notification of claimed infringement must be submitted to the following Designated Agent:
 
-Attention: Dan Nemo, DMCA Copyright Agent  
-1216 Broadway, 4th Floor  
-New York, NY 10001  
+Bandsintown, LLC  
+Attention: Legal Department, DMCA Copyright  
+8 W 36th Street, 9th floor  
+New York, NY 10018  
 Email Address of Designated Agent: legal@bandsintown.com 
 
 For clarity, only DMCA notices should be sent to the Designated Agent and any other feedback, comments, requests for technical support, and other communications should be directed to Bandsintown by sending an email to legal@bandsintown.com..  You acknowledge and agree that if you fail to comply with all of the requirements of this Section 14, your DMCA notice may not be valid.
@@ -229,5 +228,5 @@ Data Protection Officer Email: dpo.bandsintown@mazars.co.uk
 OR  
 Mail:   Bandsintown, LLC  
            Attention: Legal Department            
-           1216 Broadway, 4th Floor  
-           New York, NY 10001
+           8 W 36th Street, 9th floor  
+           New York, NY 10018
