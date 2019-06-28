@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the autozone.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227132811id_/https%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autozone.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628023305id_/https%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.*
 
 # AutoZone.com | Privacy Policy
 
-Last Modified: April 12, 2018 \- Effective Date: April 12, 2018 
+Last Modified: March 15, 2019 \- Effective Date: March 15, 2019 
 
 AutoZone knows that you care how information about you is used and shared. As part of its commitment to customer service, AutoZone strives to make you feel safe and comfortable doing business with AutoZone. Here are some guidelines AutoZone follows to keep your personal information private. AutoZone reserves the right to modify this Privacy Policy at any time in our sole discretion without notice. 
 
@@ -34,7 +34,7 @@ AutoZone participates in the Adobe Marketing Cloud Device Co-op to better unders
 
 #### Your Choices 
 
-While AutoZone encourages you to take advantage of the personalized services on the Web Sites, you can use most of AutoZone's online services without registering your information with AutoZone. You can change your information at any time by editing your profile. If you are registered on AutoZone.com, you can remove your information by deleting your profile in the Customer Service area. If you are an AutoZone Rewards member, you may opt out of receiving promotional member marketing communications from AutoZone at AutoZoneRewards.com, by calling 1-800-741-9179, or by mailing a letter to the address shown below: 
+While AutoZone encourages you to take advantage of the personalized services on the Web Sites, you can use most of AutoZone's online services without registering your information with AutoZone. You can change your information at any time by editing your profile. If you are an AutoZone Rewards member, you may opt out of receiving promotional member marketing communications from AutoZone at AutoZoneRewards.com, by calling 1-800-741-9179, or by mailing a letter to the address shown below: 
 
 AutoZone Rewards   
 P.O. Box 664   
