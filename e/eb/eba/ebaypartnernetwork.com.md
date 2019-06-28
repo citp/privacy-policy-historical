@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ebaypartnernetwork.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023132id_/https%3A//partnernetwork.ebay.com/legal%23privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaypartnernetwork.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628225400id_/https%3A//partnernetwork.ebay.com/legal%23privacy-notice) for the most accurate reproduction.*
 
 # Legal — eBay Partner Network
 
 This EPN Network Agreement (“ **Agreement** ”) is made by and between you (“ **you** ” or “ **Affiliate** ”) and eBay Partner Network, Inc. (“ **EPN** ”), a Delaware corporation with an address at 2145 Hamilton Ave., San Jose, CA 95125. This Agreement sets forth the terms and conditions applicable to your participation in EPN’s affiliate network (the “ **Network** ”) pursuant to which you may earn performance-based compensation through approved promotional methods that display or direct end users to participating websites and that result in Qualifying Transactions (as defined below).
 
-By accepting the terms of this Agreement and submitting an application to participate in the Network you agree to be bound by the terms and conditions of this Agreement, the EPN Privacy Notice, and the applicable Program Details, which are incorporated by reference into this Agreement.
+By accepting the terms of this Agreement and submitting an application to participate in the Network you agree to be bound by the terms and conditions of this Agreement, the EPN Privacy Notice, the eBay Data Protection Requirements Addendum (“DPRA”), and the applicable Program Details, which are incorporated by reference into this Agreement.
 
-This Agreement was published on the Network website on September 26, 2018. If you joined the Network on or after September 26, 2018, the terms set forth herein shall apply to you immediately. If you were already a member of the Network on September 25, 2018, these terms will take effect for you in accordance with the “Amendment” section of the version of the EPN Network Agreement that you accepted when you joined the Network.
+This Agreement was published on the Network website on May 2, 2019. If you joined the Network on or after May 2, 2019, the terms set forth herein shall apply to you immediately. If you were already a member of the Network on May 1, 2019, these terms will take effect for you in accordance with the “Amendment” section of the version of the EPN Network Agreement that you accepted when you joined the Network.
 
 Contents
 
@@ -38,245 +38,120 @@ Contents
 
   * Exhibit A: Code of Conduct
 
+  * Exhibit B: DPRA 
 
 
 
-  1.  **Definitions**  
 
-    1. **Advertiser** – eBay Inc. or an eBay Corporate Family Member that elects to participate in the Network, as specified in the applicable Program Details.
+**DPRA Requirements**.  By participating in the Network, you agree to comply with with the terms of the DPRA attached as Exhibit B and incorporated herein by reference, as the same may be updated from time to time.
 
-    2. **Affiliates** – A company or individual entity that participates in the Network to earn compensation for Qualifying Transactions.
+1.     **Purpose and Scope:**
 
-    3. **Agent** – A sub-affiliate, sub-publisher, distribution partner or other similar third-party relationship through which an Affiliate participates in a Program. Agents are subject to EPN’s prior written approval in accordance with Section III.C.
+This Data Protection Requirements Addendum (the “ **DPRA** ”) reflects your commitment to abide by Applicable Law concerning the Processing of the eBay Data (defined below). This DPRA prescribes the minimum data protection and information security standards that you, your agents and assigns must meet and maintain in order to protect eBay Data from unauthorized use, access, disclosure, theft, manipulation, reproduction, a Security Breach (defined below) or otherwise during the term of the EPN Network Agreement (“ **Terms** ”) and for any period thereafter during which you, your agents or assigns has possession of or access to any eBay Data. 
 
-    4. **Applicable Law** – All national, state, and local (1) laws, ordinances, regulations, and codes and (2) orders, requirements, directives, decrees, decisions, judgments, interpretive letters, guidance and other official releases of any regulatory authority that apply to you or the performance of your obligations hereunder.
-    5. **eBay** – eBay Inc. and eBay Corporate Family Members, collectively.
-    6. **eBay Corporate Family Member** – An entity that controls, is controlled by or is under common control with eBay Inc. “Control” means possessing, directly or indirectly, the power to direct or cause the direction of the management, policies and operations of such entity, whether through ownership of voting securities, by contract or otherwise.
-    7. **eBay’s Buy API Program** – an approved EPN program that permits Affiliates who have entered into an agreement with eBay, or an EPN approved third party, to display products or services that are listed on an Advertiser’s digital property on a digital property that is owned and operated by the Affiliate and allow end users to purchase such products or services through eBay’s API.
-    8. **Link** – A hyperlink embedded in a Promotional Method that allows an end user to click to Participating Sites and Content.
-    9. **Participating Sites and Content** – Any Advertiser website or content that is promoted by Affiliates, as described in the applicable Program Details.
-    10. **Program** – A performance-based marketing program to promote Participating Sites and Content as set forth in the applicable Program Details.
-    11. **Program Details** – The terms and conditions that govern an Affiliate’s participation in a particular Program (available at <https://partnernetwork.ebay.com/legal#program-details>).
-    12. **Promotional Content** – Buttons, banners, widgets, text, Software Applications and other creative content that are used by Affiliates to promote Participating Sites and Content.
-    13. **Promotional Method** – The methods by which Affiliates promote Participating Sites and Content, which may include Promotional Content.
-    14. **Promotional Tools** – Tools or API platforms that may be provided by EPN or a third party that Affiliates may use to create their own Promotional Content.
-    15. **Qualifying Transaction** – An activity by an end user that qualifies the Affiliate to receive compensation, as described in the Program Details.
-    16. **Software Application** – A software application developed by an Affiliate to be used in a Promotional Method.
-    17. **Tracking Code** – A tracking code provided by EPN that is embedded in Promotional Methods to track the Qualifying Transactions.
-  2. **Registration and Your Account.**  
+ Capitalized terms used but not defined herein shall have the meaning set forth in the Terms. 
 
-    1.  **Registration.** To participate in the Network, you must agree to the terms herein and register to use the Network (registration page available at <https://epn.ebay.com/>) to use the Network. EPN will notify you if EPN accepts or rejects your application. EPN may in its sole discretion reject your application and terminate the Agreement for any reason without any compensation to you. You may not apply without EPN’s prior written consent if EPN has previously terminated your account or if you are a vendor or agency of EPN. You may not register more than one account without prior written approval from EPN. EPN must accept your application before you may develop any Promotional Content or any Promotional Method.
-    2. **Accurate Information.** You must provide EPN with and maintain complete and accurate information about you (including your payment and tax information) and your Promotional Methods during your participation in the Network. EPN has the right to confirm or verify the truth and accuracy of your registration and account information at any time in its sole discretion.
-    3. **Account Security.** You are responsible for all activity on your Network account and for loss, theft or unauthorized disclosure of your password (other than as a result of EPN’s gross negligence or willful misconduct or omission). You must provide EPN with prompt written notification of any known or suspected unauthorized use of your account or breach of the security of your account.
-    4. **Your Relationship with EPN and the Advertisers.** Your participation in the Network and any Program do not constitute a direct contractual relationship between you and any Advertiser. However, Advertisers are explicitly designated as third-party beneficiaries to this Agreement in relation to rights they wish to rely upon or enforce against you. You may not misrepresent or embellish the relationship between EPN, the Advertiser and you.
-    5. **eBay and eBay’s Programs.** Your eBay account must be in good standing at all times in order for you to participate in the Network.
-  3. **Performance.**  
+2.     **Definitions:**
 
-    1.  **Program Details**. The Program Details define the Program, Qualifying Transaction and specific terms of compensation that are applicable to any Program that you participate in. In the event of any conflict between the terms of this Agreement and the Program Details, the Program Details will control.
-    2. **Code of Conduct**. Your use of any Links, Promotional Tools, Promotional Content, or Promotional Methods are subject to the Code of Conduct attached as Exhibit A and incorporated herein by reference.
-    3. **Agents.**
-      1. Use of any Agents requires EPN’s prior written approval, which may be revoked at any time.
-      2. You must ensure such Agent complies at all times with the terms set forth in the Agreement herein, the EPN Privacy Notice and any applicable Program Details. You must document in writing their receipt and acceptance of such terms.
-      3. You are limited to a single tier of Agent relationships.
-      4. You may not work with Agents that have previously been terminated by EPN.
-      5. You are responsible for your Agents’ activities in any Program. Any violation by your Agents of the Agreement shall constitute a violation by you, and EPN shall have full recourse against you with respect to such a violation, including without limitation, suspension, or termination from the Program, specific performance, injunctive relief, and attorneys’ fees.
-      6. Your contract with your Agents shall expressly exempt EPN from any liability.
-      7. Upon EPN’s request you must provide documentation of all Agents’: 
-        1. identifying information, which shall include: 
-          1. in the case of a natural person, the Agent’s first and last name, physical address, country, telephone number, and email address; and
-          2. in the case of corporations, partnerships, proprietorships, limited liability companies, organizations, associations, cooperatives, agencies, or other legal entities, entity details and the first and last name, physical address, country, telephone number, and email address for the natural person or persons who own, manage, or control the Agent;
-        2. unique tracking information; and
-        3. acceptance of the Agreement, EPN Privacy Notice and applicable Program Details.
-      8. You must establish and maintain a functioning e-mail address or other internet-based mechanism for consumers to report complaints regarding any Agent and make best efforts to associate each complaint with the Agent that is the subject of the complaint. You must identify by tracking information and identifying information any Agent associated with any suspected violation of this Agreement. You must promptly investigate any complaints received through this mechanism and immediately terminate any Agent that you reasonably determine has engaged, or is engaging, in violations of Applicable Law or this Agreement. You must also provide to EPN all reasonable assistance in case one of your Agents is infringing the Agreement.
-  4. **Tracking and Reporting.**  
+a.     “ **Applicable Law** ” means any applicable data protection, privacy, or information security laws, codes, and regulations or other binding restrictions governing Processing of eBay Data. 
 
-    1.  **Tracking.** For EPN to track Qualifying Transactions, you must include and maintain the Tracking Code provided to you by EPN within your Promotional Methods. You may not modify the Tracking Codes in any Promotional Methods.
-    2. **Access to Tracking and Reporting Tools.** EPN may provide you with access to tracking and reporting tools and other support services. Data from such tools and services are not available on a real-time basis and may have reporting delays.
-  5. **Compensation.**  
+b.      “ **Data Centers** ” means locations at which you provide data Processing or transmission functions in support of your Application. Data Centers can be owned by you or by a third party. 
 
-    1.  **Qualifying Transactions**. 
-      1. Subject to other provisions in this Agreement you will be compensated for each Qualifying Transaction in accordance with the applicable Program Details. There may be exceptions to the rate card shown in the applicable Program Details for certain Affiliates or certain circumstances. Compensation will be calculated based on EPN’s tracking data at the end of each month, which is definitive and shall control in the event of any tracking dispute.
-      2. If an end user has clicked on multiple Links from different Affiliates prior to a Qualifying Transaction (resulting in multiple cookies placed on the end user’s computer), EPN shall only compensate the Affiliate whose Link was the last clicked by the end user so long as the applicable Advertiser did not conduct any promotional activities (a) subsequent to such click and prior to the Qualifying Transaction and (b) that would have placed a cookie overwriting the cookie from the last Affiliate’s Link.
-      3. EPN has the right to change any existing Program Details with respect to Qualifying Transactions and compensation in its sole discretion with three (3) days’ notice to you.
-    2. **Payments.**
-      1. **Timing.** Subject to Section II.B (Accurate Information), each month, EPN will issue to you any positive balance in your account for transactions reported for the previous month, so long as your account balance exceeds the required minimum account balance of 10 USD, 10 CAD, 10 EUR or 10 GBP, as applicable. The number or amount of transactions, credits for payments and debits for chargebacks as calculated by EPN shall be final and binding on you.
-      2. **Form of Payment.** The currency of your account is determined by your country of residence. You can collect payments (a) with a verified PayPal account or (b) by direct deposit if available for your country of residence. The conversion rate will be determined in accordance with EPN’s operating standards using the rates prevailing on the date the Qualifying Transaction is completed.
-    3. **Taxes.** You are responsible for any taxes that may be due in connection with your participation in the Network or otherwise on the services provided by you. EPN does not pay additional compensation to you for taxes. If the withholding of any tax is required in respect of any payment to you, EPN will (1) withhold the applicable amount from such payment and (2) pay such amount to the relevant authorities in accordance with any Applicable Law in the relevant jurisdiction(s). Upon request from you, EPN will provide a copy of the tax receipt documenting payment of the tax to the relevant authorities. You agree to complete and provide to us or to the applicable taxing authority at least 10 days prior to the payment due date, such forms, certifications or other documents as may be reasonably requested by EPN, to reduce or exempt withholding taxes with respect to payments made to you when and where required by Applicable Law. If it is later determined that EPN should have withheld and/or paid additional tax but did not withhold or pay such tax, then you shall pay the applicable tax and hold EPN harmless from any penalties or interest thereon.
-    4. **Non-Payment, Withholding, Reversal and Chargebacks**
-      1. Notwithstanding anything to the contrary herein, EPN shall have no duty to pay you for Qualifying Transactions during any current or previous month when you were in breach of this Agreement or an agreement covering your participation in eBay’s Buy API Program (if applicable), or if EPN, in its sole discretion, has reason to believe that you or your Agent(s) have breached this Agreement or have engaged in potentially fraudulent activities.
-      2. EPN may debit your account in an amount equal to a payment previously made to you or a compensation that has been credited to your account, but has not been paid yet, if EPN determines in its sole discretion that there has been (a) duplicate entry or other clear error; (b) non-bona fide transactions or other fraudulent activity; (c) a breach of, or other failure to complete or reversal of the Qualifying Transaction; or (d) failure to comply with any terms of this Agreement. EPN may apply a chargeback to your account at any time, including previous payment cycles.
-      3. EPN will make all commercially reasonable efforts to pay any positive balance that is due to you. In certain circumstances, based on EPN’s records, it may not be possible for EPN to pay you because for a period of 24 months or more: (a) your account has been inactive, meaning that you have not logged into your account or you have not accepted funds, payments or other amounts that EPN has attempted to pay or deliver to you; (b) EPN has been unable to reach you, or has not received adequate payment instructions from you, after contacting you at the email address shown in EPN’s records; or (c) you have not generated the minimum amount of commissions to qualify for payment. In these circumstances, EPN may, without further notice to you, turn the unpaid or undelivered amounts over to the applicable regulatory authorities in accordance with Applicable Law.
-    5. Tracking and True-Up Payments 
-      1. Although EPN strives to track all Qualifying Transactions accurately, there may be instances where EPN fails to track all Qualifying Transactions. 
-      2. In cases where EPN discovers that EPN has failed to capture all Qualifying Transactions, EPN shall strive to determine the discrepancies between intended and actual Qualifying Transactions and conduct true-up payments. If EPN deems appropriate, EPN may design a methodology for calculating true-up payments in EPN’s sole discretion. 
-  6. **Privacy.**  
+c.     “ **Data Controller** ” means the party that determines the purposes of the Processing of Personal Data. 
 
-    1.  **User Information Received from EPN**. In connection with your participation in the Network and the Programs, EPN may make available certain information that relates to an EPN or eBay user, browser or device (“EPN User Data”). EPN User Data is EPN’s Confidential Information. You may not use EPN User Data other than for the purpose for which it was provided to you, and under no circumstances to create or augment audience profiles.
-    2. **EPN Access to Affiliate End User Data**. EPN may request access to information regarding your end users when necessary to enforce EPN’s rights under this Agreement or to verify your compliance with your obligations under this Agreement. You agree to provide EPN with access to such information.
-    3. **Affiliate’s Compliance with Relevant Privacy Regulations**. 
-      1. You must maintain and post a privacy notice in your websites or applications that complies with all Applicable Laws, including full and accurate disclosure of: 
-        1. your collection, use and disclosure of visitor information,
-        2. your use of third-party technology, including EPN’s tracking technology,
-        3. your use of cookies and options for discontinuing use of such cookies. 
-      2. You agree that you are responsible for all personally identifiable information that you collect from end users and that you must obtain valid consent from end users to collect, use or disclose this information as required by Applicable Law. You further agree that unless you have the valid consent of the end user, you may not enable the Tracking Code to collect any personally identifiable information from end users or otherwise profile end user activities. 
-  7. **Compliance, Audits and Remedies.**  
+d.     “ **Data Processor** ” means the party that Processes Personal Data on behalf of, and under the instruction of, the Data Controller. 
 
-    1.  **Supplier Code of Conduct**. In participating in the Network, you agree to abide by the eBay Supplier Code of Conduct available at <https://www.ebayinc.com/supplier-code-of-conduct/>, as the same may be updated from time to time.
-    2. **Right to Audit.** EPN and its service providers have the right to audit your or your Agent’s sites or activities in relation to your and your Agent’s participation in the Network and the Programs. You shall not block or otherwise interfere with such audit, and EPN and its service providers may use technical means to overcome any methods you may use to block or interfere with such audit. To the extent not prohibited by Applicable Law, audits may include requests for documents and server logs, and visits to your facilities and those of your Agents. Your failure to reasonably comply with EPN’s efforts to audit your or your Agents’ compliance with this Agreement shall constitute a material breach of this Agreement. If Applicable Law does not allow you to share server logs with EPN, you must provide EPN with other proper proof of traffic that you sent to Participating Sites and Content.
-    3. **Remedy for Breach.** If EPN in its sole discretion believes that you or your Agents have breached this Agreement or that you or your Agents have engaged in fraudulent activity, it may take any and all steps it deems appropriate including without limitation: 
-      1. Issue a warning;
-      2. Conduct an investigation;
-      3. Suspend your account from participating in a specific Program or from the Network as a whole;
-      4. Terminate your account from a specific Program or from the Network as a whole; or
-      5. Withhold or recover any compensation.  
-In addition to any other available remedies, EPN may seek specific performance, injunctive relief and/or attorneys’ fees in its sole discretion.
-    4. **Suspension.** – If EPN suspends your account from the Network or a Program, you will no longer get paid for any future activity. You are required to immediately remove all Promotional Methods. EPN in its sole discretion may reinstate your account in the event you have taken all necessary remedial actions to EPN’s satisfaction.
-  8. **Intellectual Property.**  
+e.     “ **Data Subject** ” means the identified or identifiable person who is the subject of Personal Data. 
 
-    1.  **Promotional Content.** When your application to the Network is accepted, EPN grants you a revocable, non-exclusive, non-transferable (unless EPN approved your use of Agents), worldwide, royalty-free license to display Promotional Content for the duration of your participation in a Program.
-    2. **Promotional Tools.** When your application to the Network is accepted, EPN grants you a revocable, non-exclusive, non-transferable (unless EPN approved your use of Agents), right to use the Promotional Tools that EPN makes available to you solely to facilitate your participation in the Program. EPN reserves all rights in the Promotional Tools, including all intellectual property rights. The use of a Promotional Tool may be subject to further terms and conditions that you must accept.
-    3. **Use of Your Marks.** You authorize EPN and the Advertisers for the Programs that you are participating in to use your trademarks, service marks, tradenames, company names and copyrighted material that you provide to promote your participation in the Program.
-    4. **Your Use of eBay Proprietary Rights.** You acknowledge that you obtain no proprietary rights in eBay’s or any eBay Corporate Family Member’s trademarks, service marks, trade names, URLs, copyrighted material, patents and patent applications or other intellectual property, and agree not to challenge eBay’s or any eBay Corporate Family Member’s proprietary rights in any way. You must use all EPN provided content and services in a way that does not, in EPN’s sole discretion, blur or dilute, tarnish or adversely affect eBay’s or any eBay Corporate Family Member’s proprietary rights. 
-      1. Your company name, keyword for paid search, trademark, trade name, brand, shop sign, domain name, or URL (specifically, any term before the third “/” of your URL) may not (a) incorporate in part or in full any of eBay’s trademarks (including without limitation eBay and Half), trade names, company names, brands, shop signs, domain names or URLs (including the translations and transliterations), or any variations thereof; or (b) consist of a generic or descriptive term followed by “Bay”. You may not display your company name, branding or trademark in an uneven, staggered, multi-color format that in EPN’s sole discretion invokes the distinctive multi-color eBay logo.
-      2. **Use of eBay Corporate Family Members’ Names and Logos**. You may use eBay’s name or logo in the name of a software tool or application only in accordance with the requirements below and subject to EPN’s prior written approval: 
-        1. You may use “eBay” only in a descriptive manner. For example, “eBay Fee Calculator” is not acceptable while “Fee Calculator for eBay” would be acceptable.
-        2. You must capitalize “eBay” as “eBay” or “EBAY” only.
-        3. You may not combine a generic or descriptive name with the “BAY” prefix or suffix (e.g., “CalculatorBay” or “eBaygle”).
-        4. You may not use eBay as a verb (e.g., “eBaying”).
-        5. You may not modify any eBay logo provided to you by EPN.
-        6. You may only use one color if you use block letters to display an eBay Corporate Family Member’s name; multiple colors invoking the eBay Inc. logo is prohibited.
-        7. You may not use an eBay logo within a sentence.
-    5. **Retention of Rights.** Any and all proprietary rights, goodwill and other benefits and rights resulting from the use hereunder of trademarks, trade names or company name inures to the benefit of the owner.
-    6. **Third-Party Disputes.** In the event of a third-party claim against EPN’s or the Advertiser’s intellectual property or right to offer any service or good or if such a claim is likely in EPN’s opinion, EPN shall have the right, in its sole discretion, to take any action to terminate the practices responsible for such third party claims and/or to secure, at its expense, the right to continue using the intellectual property or good or service, and/or to replace or modify the same to make it non-infringing or without misappropriation.
-  9. **Confidentiality.** In connection with your participation in the Network and the Programs you may be provided with data and information that is confidential and proprietary to EPN or the Advertiser(s), as is designated by the disclosing party or that is reasonably understood to be proprietary or confidential (“ **Confidential Information** ”). Confidential Information does not include information: (a) that is or becomes publicly available through no act or omission of the receiving party; (b) disclosed to the receiving party by a third party not bound by any confidentiality obligation with respect to such information; (c) developed by the receiving party independent of the disclosing party’s Confidential Information; or (d) that is in the possession of the receiving party and not subject to any duty of confidentiality as of the date you accept the terms of this Agreement. You agree to use the same degree of care, but no less than a reasonable degree of care, to maintain the confidentiality of and to protect any proprietary interests of EPN or the Advertiser. You may deliver a copy of such Confidential Information (i) pursuant to a subpoena issued by any court or administrative agency, (ii) to your accountants, attorneys or other agents (“ **Representatives** ”) solely on a need-to-know basis in connection with the performance of your obligations or rights under this Agreement and the applicable Program Details; provided that (x) you are responsible for the compliance of your Representatives hereunder and (y) such Representatives shall be subject to a written confidentiality agreement or otherwise subject to fiduciary obligations of confidentiality covering the confidential treatment of Confidential Information, with confidentiality restrictions no less protective than those provided in this Agreement and (iii) otherwise as required by Applicable Law, upon written notification to EPN. Upon termination of this Agreement or your participation in a Program, you must destroy or return any Confidential Information provided to you under this Agreement and, if requested by EPN, provide a certification of destruction.
-  10. **Term and Termination.**  
+f.      **“eBay Data”** means data or information (regardless of form, e.g., electronic, paper copy, etc.) transmitted through the eBay API(s), Promotional Tools or otherwise provided by or on behalf of eBay to you. For avoidance of doubt, you acknowledge that eBay Data includes, without limitation, EPN User Data. eBay Data may be classified as: ****
 
-    1.  **Term.** The term of this Agreement begins when you accept the terms of this Agreement at registration and shall continue until terminated in accordance with the terms of this Agreement. EPN’s rejection of your application automatically terminates the Agreement.
-    2. **Termination by Affiliate** You may terminate this Agreement upon three (3) days’ written notice.
-    3. **Termination by EPN or an Advertiser**
-      1. **Without Cause.** EPN may terminate (i) this Agreement, (ii) your account, (iii) any of your Agents, (iv) your use of a Promotional Method, or (v) your participation in a certain Program, at any time for convenience in its sole discretion upon three (3) days’ notice.
-      2. **With Cause.** EPN may terminate (i) this Agreement, (ii) your account, (iii) any of your Agents, (iv) your use of a Promotional Method, or (v) your participation in a certain Program, for cause with immediate effect. Incidents that may cause EPN to terminate this Agreement for cause include, but are not limited to: 
-        1. If EPN suspects that you or your Agent are responsible for the improper functioning of Links, Promotional Content or Promotional Tools or if you otherwise interfere with or fail to maintain the Tracking Code.
-        2. If a third party disputes your right to use any link, domain name, trademark, service mark, trade dress, or right to offer any service or good offered through any of your Promotional Methods.
-        3. If EPN determines you are diluting, tarnishing, blurring or adversely affecting an Advertiser’s proprietary rights.
-        4. If EPN suspects that you or your Agent are engaging in deceptive practices or false advertising.
-        5. If you engage an Agent who eBay has previously prohibited from participating in the Network.
-        6. If you and EPN are unable to mutually agree upon a written remediation plan for your failure to comply with the obligatory portions of the eBay Supplier Code of Conduct as described in Section VII.A.
-    4. **Termination of Programs.** Programs and Program Details may be discontinued at any time.
-    5. **Post-Termination.**
-      1. Upon termination EPN will deactivate all accounts that are linked to you as a participant in the Network. You shall no longer accrue payments in your account, including but not limited to subsequent Qualifying Transactions where the clicks on the Links occurred prior to termination. If EPN terminates this Agreement for cause, you may not register for the Network again or participate in the Network as an Agent for another Affiliate.
-      2. Subject to the payment terms in Section V(D), upon termination of this Agreement, EPN will pay any outstanding payments to you within ninety (90) days of the termination date, and you must pay us any outstanding debit balance within thirty (30) days of the termination date. Upon termination of this Agreement, you must immediately remove all Promotional Methods. Provisions of this Agreement that by their nature and context are intended to survive the termination of this Agreement (e.g. audit, confidentiality, indemnification, limitation of liability, misc., etc.), shall survive the termination of this Agreement to the extent that and as long as is necessary to preserve a party’s rights under this Agreement that accrued prior to termination.
-  11. **Representations, Warranties, and Disclaimer of Warranties.**  
+**i.         “Confidential Data”: **Information that is intended only for a limited audience within eBay or whose release would likely have an adverse financial or reputational effect on eBay, eBay customers, or eBay clients. Examples include, but are not limited to: customer or client customer individual names, email addresses, physical addresses and any other information that correlates to a person, software source code, customer personal contact information, customer email addresses, etc.; or **  **
 
-    1.  **Authority.** You represent and warrant that you are over 18 years of age and authorized to consent to this Agreement, the EPN Privacy Notice and applicable Program Details on behalf of your company, if applicable.
-    2. **Compliance with Law.** You represent and warrant that your participation in the Network and the Programs is and shall be in compliance at all times with (1) Applicable Law and (2) the best practices in any jurisdiction in which you target your Promotional Methods.
-    3. **Non-Infringement Warranties.** You represent and warrant that (1) you have all appropriate authority to operate and to provide content on your website(s); (2) you have all appropriate authority to use any Promotional Method you may choose to use; and (3) any Promotional Content you create, your website(s), any trade names or trademarks used in connection with the Network, and your Promotional Methods do not and shall not infringe any third party’s or eBay’s intellectual property or proprietary rights.
-    4. **Not Currently Under Investigation.** You warrant that you are not currently under order or investigation by any federal, state, local or international regulatory or law enforcement organization. You must inform EPN if you become under such order or investigation at any point during your participation in the Network.
-    5. **Disclaimer of Warranties.** EXCEPT AS SET FORTH IN THIS AGREEMENT, EPN MAKES NO OTHER REPRESENTATION OR WARRANTY, INCLUDING THE IMPLIED WARRANTY OF MERCHANTABILITY AND OF FITNESS FOR A PARTICULAR PURPOSE.
-  12. **Indemnification Obligations; Limitation of Liability.**  
+ **ii.        “Personal Data”: **data or information that makes a natural person identified or identifiable or is a numerical, physical, physiological, cultural, economic, mental or other factor of identity relating to an identified or identifiable person. ****
 
-    1.  **Indemnification Obligations.** You shall defend, indemnify and hold harmless EPN and the Advertisers and their respective officers, directors, employees, corporate affiliates, subsidiaries, agents, and subcontractors (collectively, the “Indemnified Party”) against all claims, liabilities and expenses claimed or incurred by an Indemnified Party as a result of any third party claim (collectively, “Claims”) directly or indirectly arising from or related to (1) any breach by you or your Agents of this Agreement or the Program Details, (2) violation by you or your Agents of Applicable Law, (3) distribution or use of Promotional Methods or Promotional Tools by you, your Agents, or anyone else that you are affiliated with, including, without limitation, any claims relating to advertisements or content; (4) acts or omissions by you or your Agents in using, displaying or distributing any Links, including but not limited to your use of Links in Promotional Methods; (5) any claim that the Indemnified Party is obligated to pay tax obligations in connection with payment made to you pursuant to this Agreement or any Program Details, (6) any violation or alleged violation of any rights of another, including breach of a person’s or entity’s intellectual property rights, (7) your and your Agents participation in the Network or Program(s), and (8) claims arising in connection with any goods or services you or your Agents make available to any person. Should any Claim give rise to a duty of indemnification under this Section, the Indemnified Party shall promptly notify you and will cooperate with you at your expense in the defense of such Claim. The Indemnified Party will be entitled, at its own expense, to participate in the defense of such Claim. Should any Claim give rise to a duty of indemnification, you are obligated to participate in the defense of such claim if requested to do so by the Indemnified Party. Participation in the defense shall not waive or reduce any of your obligations to indemnify or hold the Indemnified Party harmless. You shall not settle any Claim without the Indemnified Party’s prior written consent, and you shall indemnify for any reasonable attorneys’ fees or other costs incurred by an Indemnified Party in investigating or enforcing this Section.
-    2. **Limitation of Liabilities.** ANY OBLIGATION OR LIABILITY OF EPN UNDER THIS AGREEMENT SHALL BE LIMITED TO THE TOTAL OF THE PAYMENTS EPN PAID TO YOU UNDER THIS AGREEMENT DURING THE TWELVE MONTHS IMMEDIATELY PRECEDING THE CLAIM. THE EXISTENCE OF ONE OR MORE CLAIMS WILL NOT ENLARGE THE LIMIT. NO ACTION, SUIT OR PROCEEDING SHALL BE BROUGHT AGAINST EPN PURSUANT, OR IN ANY WAY RELATED, TO THIS AGREEMENT MORE THAN ONE YEAR AFTER THE TERMINATION OF THIS AGREEMENT. YOU AGREE THAT NEITHER EPN NOR EBAY SHALL BE LIABLE TO YOU, OR ANY THIRD PARTY, FOR ANY CONSEQUENTIAL, EXEMPLARY, SPECIAL, INCIDENTAL OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, INCLUDING, BUT NOT LIMITED TO LOSS OF GOODWILL, LOST PROFITS, BUSINESS INTERRUPTION, LOSS OF PROGRAMS OR OTHER DATA, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR CLAIM.
-    3. **Remedies.** No remedy or election shall be deemed exclusive but shall, wherever possible, be cumulative with all other remedies at law or in equity.
-    4. **Benefit of the Bargain.** The provisions of this Section are an essential element of the benefit of the bargain reflected in this Agreement.
-  13. **Miscellaneous.**  
+eBay Data specifically **excludes** data classified by eBay as “ **Restricted Data** ,” which includes highly sensitive or regulated information that is intended only for a limited audience within eBay or whose release would likely have a material adverse financial or reputational effect on eBay or any Data Subject. Examples include but are not limited to: (i) Government issued identification numbers for specific countries (e.g., USA Social Security number; Germany Shufa ID, Canada Social Insurance number, driver’s license number; state identification number); (ii) Bank account numbers and related bank wire transfer financial information; and (iii) customer date of birth. 
 
-    1.  **Choice of Law/Attorneys’ Fees.** This Agreement and the Program Details are governed by the laws of the State of California (USA), except for its conflict of law provisions. The exclusive forum for any actions related to this Agreement and the Program Details shall be in the state courts and, to the extent that federal courts have exclusive jurisdiction, in San Jose, California. The parties consent to such venue and jurisdiction and waive any right to a trial by jury. The application of the United Nations Convention on the International Sale of Goods is expressly excluded. Your access or use of the Network where illegal is prohibited. You expressly waive and withdraw your rights under any law or statute conferring jurisdiction on the basis of nationality to courts other than the ones expressly designated above.
-    2. **English** You accept that the English versions of this Agreement, the [EPN Privacy Notice](https://partnernetwork.ebay.com/legal#privacy-notice), and the applicable Program Details found on the registration page located [here](https://epn.ebay.com/) shall be controlling in all respects. Translations of these documents that may be provided are for your convenience only.
-    3. **Amendment.** EPN may amend this Agreement by notifying you by email to the address on your account. Except as stated otherwise in this Agreement or elsewhere, all amended terms shall become effective three (3) days after they are initially published on the Network website. EPN may establish from time to time rules and regulations for the Network as published on the Network website or in the Network and incorporated herein.
-    4. **Assignment.** Neither party may assign this Agreement without the prior written approval of the other party. Notwithstanding the foregoing, your consent shall not be required for EPN’s assignment or transfer (1) due to operation of law, or (2) to an entity that acquires substantially all of EPN’s stock, assets or business, or (3) to a related entity (e.g., parent or subsidiary of parent).
-    5. **Intended beneficiaries.** Although Advertisers are explicitly designated as third-party beneficiaries to this Agreement in relation to rights they wish to rely upon or enforce against the Affiliates, in no circumstance may Affiliates or their Agents rely upon or enforce any terms of this Agreement against Advertiser. Agents shall not be deemed third-party beneficiaries pursuant to this agreement and may not rely upon or enforce any terms of this Agreement against EPN. 
-    6. **No Partnership or Joint Venture.** Nothing in this Agreement shall be construed as creating a partnership, joint venture or agency relationship of any kind between the parties. Neither party shall have the authority or power to bind the other or to contract in the name of or create a liability against the other in any way or for any purpose.
-    7. **Notices.** All notices must be in writing. Notices will be deemed given: (1) if delivered in person, upon receipt; (2) if delivered by registered mail, return receipt requested, or by an internationally recognized express mail carrier, upon delivery; or (3) if delivered by email, upon delivery. Notice may only be sent to EPN in person or by registered mail at: eBay Partner Network, Inc., Attn: Legal Dept., 2145 Hamilton Avenue, San Jose, CA 95125. Notices may be sent to you via any of the methods described above according to the information provided by you in your account. 
-    8. **Severability/No Waiver.** If any provision of this Agreement is held by any court of competent jurisdiction to be illegal, null or void or against public policy, the remaining provisions of this Agreement shall remain in full force and effect. The Parties shall in good faith attempt to modify any invalidated provision to carry out the stated intentions in this Agreement. The waiver of any breach of any provision under this Agreement by any Party shall not be deemed to be a waiver of any preceding or subsequent breach, nor shall any waiver constitute a continuing waiver.
-    9. **Entire Agreement.** This Agreement, including the EPN Privacy Notice (available at <https://partnernetwork.ebay.com/legal#privacy-notice>) and applicable Program Details, in each case incorporated herein by reference, is the entire agreement between the parties pertaining to its subject matter and supersedes all prior written or oral agreements (including prior versions of this Agreement and any conflicting confidentiality agreements), representations, warranties or covenants between the parties with respect to such subject matter.
+**You agree that you will not attempt to access, receive, transmit, Process or store any “Restricted Data”**
 
+g.     “ **Processing” or “Processes** ” means any operation or set of operations which is performed upon eBay Personal Data, whether by automatic means or not, including but not limited to collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction. 
 
+h.     **“Security Breach** ” means a compromise of the systems in which eBay Data has been accessed or acquired by one or more unauthorized parties, or you or eBay reasonably suspects that such a breach of security may have occurred, or any act that violates any Applicable Law. For the avoidance of doubt, “a compromise of the systems” includes, but is not limited to: misuse, loss, destruction, unauthorized access, collection, retention, storage, or transfer. 
 
-  1. _Guidelines and Accepted Promotional Methods._ Subject to the licenses granted in Section VIII of the Agreement: 
-    1. **Links.** EPN may provide you with Links to promote Participating Sites and Content. You may not modify a Link unless it is specifically designed to be modified, and then only within the parameters provided by EPN. If the Links you use are not dynamically updated, you must update the Links upon notification from EPN. 
-    2. **Promotional Content.** EPN may provide you with pre-approved Promotional Content. You may not modify any of this Promotional Content without obtaining EPN’s prior written approval. If you wish to create your own Promotional Content, you must first obtain EPN’s prior written approval. If EPN requests, you must stop using any Promotional Content. All Promotional Content that you create must comply with the Agreement, this Code of Conduct, and any additional restrictions or guidance provided to you by EPN. 
-    3. **Promotional Tools.** EPN may provide you with Promotional Tools for creating your own Promotional Content; for example, an API platform. You agree to: 
-      1. Obtain EPN’s prior written approval if you create new tools and applications using the Promotional Tools. 
-      2. Use any Promotional Tools only in a lawful manner and only in accordance with the terms of this Agreement and any additional terms applicable to the Promotional Tool; 
-      3. Use any Promotional Tool only for the Participating Sites and Content for which it is intended. You may not use any Promotional Tools to drive transactions for any other sites or content; 
-      4. Not corrupt, modify or disable the Promotional Tools; and 
-      5. Not sell, redistribute, sublicense or transfer the Promotional Tools. 
-    4. **Prior Consent.** Unless expressly permitted under this Code of Conduct, all Promotional Methods are subject to EPN’s prior written approval, which may be revoked in EPN’s sole discretion at any time. You agree that you will immediately terminate any Promotional Method at any time at EPN’s request. EPN’s approval of any Promotional Method shall be limited to the Program for which it was approved. 
-    5. **Clear and Not Deceptive.** All Promotional Methods you use must be clearly recognizable as an advertisement for the relevant Participating Sites and Content and not deceptive. You must also secure permission before using any materials protected by third parties’ intellectual or proprietary rights (including without limitation copyrights, trademark rights, patent rights and rights of publicity). 
-    6. **Social Media.** You may use Links on social media sites that allow posting of affiliate marketing links. It is permitted to use URL shortening services offered by Bitly (Bit.ly), Google (Goo.gl and FDL), Hootsuite (Ow.ly), and Buffer (Buff.ly) to promote through your social media accounts. 
-    7. **Disclosure about Relationship with EPN.** Note that the Federal Trade Commission requires disclosure of any material connection or relationship when you endorse or promote a product or service to your readers. Affiliate links are considered such a material connection. Please insert a statement such as the below on your website. “When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to, the eBay Partner Network.” Additionally, any posts on your social media channels (including, but not limited to Facebook, Twitter, and Instagram) must include #ad, #advertisement, #sponsored, or something similar at the beginning of the post to clearly and conspicuously disclose the posts are an advertisement. 
-    8. **Personal Network.** You may promote to your family members, relatives, and friends in accordance with the policies in this Code of Conduct. However, the products purchased must be used for their personal use, and not for resale. 
-    9. **Search Engine Optimization Guidelines.** Your domain name, title and description of your website and the metatags you use must be relevant to the Promotional Content and your website must only appear in a search engine’s result when the content of your website relates to the applicable search query. Your search engine optimization methods must comply with guidelines or best practices published by the applicable search engine. 
-    10. **Paid Traffic Sources.**
-      1. If you buy paid traffic, linking from paid placements or paid search placements to a non-Advertiser domain is allowed as long as you do not immediately or automatically redirect end users to Advertiser sites and services. Also, if you buy traffic to your sites through sponsored links, you must ensure that all campaigns add [these domains](https://partnernetwork.ebay.com/excluded-sites) to their list of excluded sites, and add “eBay” as a negative keyword. 
-      2. Linking from social media advertising methods (e.g. Facebook boosted Posts) directly to the Advertiser’s domain is permitted. 
+i.      “ **Sub-Processor** ” means any of your Affiliates, agents or assigns that Processes eBay Personal Data subject to the Terms, and any unaffiliated Data Processor engaged by you or by your Affiliates. ****
 
+**3.   REASONABLE SECURITY**: 
 
-  2. _Restricted Promotional Methods._ You may not engage in the following Promotional Methods without the prior written approval of EPN. The application to get an approval can be made from [here.](https://partnernetwork.ebay.com/sbm)
-    1. **Incentive Programs.** Your Promotional Methods may not directly or indirectly offer any reward or incentive for any Qualifying Transaction without EPN’s prior written approval. Any subsequent change to an approved incentive program also requires EPN’s prior written approval. 
-    2. **Electronic Communications.** You may not promote Participating Sites and Content using email or other forms of electronic communication (for example, SMS, instant messaging, or IRC) without EPN’s prior written approval. If you are permitted to use such electronic communications: 
-      1. They must comply with the requirements of Applicable Law, such as the CAN-SPAM Act of 2003 as in effect at any given time. 
-      2. EPN’s or Advertiser’s name may not appear in the “from” line of the message. 
-    3. **Paid Traffic Sources**. Without EPN’s prior approval, you may not direct traffic from Promotional Content or Links served by ad networks or their agents directly to Advertiser sites and services. 
-    4. **Software Applications.** You will not promote Participating Sites and Content using Software Applications without EPN’s prior written approval. Such Software Applications must comply with the additional terms in this Section. EPN reserves the right to immediately terminate any Software Applications at any time, with or without notice or cause. 
-      1. **Installation Requirements.**
-        1. Your Software Application may be provided only to end users who affirmatively consent to install it. Your Software Application may not trick end users into installing it. 
-          1. Before your Software Application is installed, you must clearly and conspicuously disclose the principal and significant functions. 
-          2. If your Software Application collects or transmits personal information about end users, you must clearly and conspicuously disclose this information in general terms and offer a full privacy policy. After you have made these disclosures, you must request an end user’s consent to proceed with installation. 
-        2. EPN prohibits Software Applications installed in any type of bundle with other software of any kind without EPN’s prior written approval. EPN shall determine in its sole discretion what functions constitute bundling, which may include installation bundling. For example, a function in a web browser software that affixes your company’s site as the browser’s start page would constitute a bundling arrangement between your company and the browser software. 
-        3. Your Software Application must be easy for end users to remove, using standard practices appropriate for the supported operating system(s) or other platform(s). 
-      2. **Operation Requirements.** Your Software Application may send a user to a Participating Sites and Content via a Tracking Code only in an immediate response to a user’s deliberate and voluntary click (or, for a touch-capable device, tap) on a clearly-labeled Link. Except for any perpetual search box, toolbar button, or similar mechanism that is on screen at all times, your Software Application may not present ads for any other sites, services, Advertisers, or offers when a user visits Participating Sites and Content or when Participating Sites and Content is open on a user’s computer or mobile device. Your Software Application is prohibited if in EPN’s sole discretion it is likely to confuse the end user or trick the end user into thinking the Software Application is part of the Participating Sites and Content. Regardless, if your Software Application presents an ad for Advertiser when the end user is already on Participating Sites and Content, the Software Application must not send the end user to Participating Sites and Content via a Tracking Code on user’s computer or mobile device and you shall not earn compensation for any transaction resulting from such activity. 
-      3. **Advance Review and Approval by EPN.** Before distributing any Software Application or participating in any Program, you must provide EPN with a complete statement of the characteristics of your Software Application. Before EPN provides its approval, you must integrate your Software Application with EPN so EPN may evaluate the integration and its effect on Advertisers’ brand and Advertisers’ customer experience. EPN will withhold all compensation for traffic directed through Software Applications not approved by EPN. If a new version of your Software Application makes material changes to your participation in the Network, you must provide EPN with a complete statement of such changes for written approval. For purposes of this Section, “material changes” include any change to the methods of installation of your Software Application, the partners who distribute your Software Application, or the circumstances in which your Software Application sends end users to Participating Sites and Content. 
-      4. **Software Application Prohibited Behaviors.**
-        1. You may not promote the Network through any Software Application that provides, or purports to provide, sniping functionality; that automatically places bids on behalf of end users; or that automatically makes purchases on behalf of end users. 
-        2. You may not operate or distribute Software Applications or participate in any Programs through any Agents or other intermediaries. 
-        3. Subject to EPN’s prior written approval, you may not use pop-ups, pop-unders, sliders, or sidebars to promote any Participating Sites and Content, nor may you modify the presentation or appearance of another web site as seen in a user’s web browser. EPN may approve such practices if all such modifications are consistent with the user experience disclosed at the time of installation, if all modifications include clear and conspicuous labels disclosing the modification and provide a mechanism for end users to obtain details, if modifications are not likely to confuse end users, and if your offering in EPN’s sole discretion genuinely delivers real and significant value to end users. 
-        4. Your Software Application may not attempt to evade testing, and may not attempt to conceal its practices. The practices of your Software Application should be consistent when run in a virtual environment, from varying IP addresses, and at varying times of day and days of the week. 
-        5. Worms, viruses, and trojan horses are strictly prohibited. 
-      5. **Using Software Applications Provided by Others.** If you contract, directly or indirectly, to use a Software Application provided by another person or entity, you are responsible for complying with the requirements of this Section exactly as if the Software Application were your own. 
-    5. **Additional Restricted Promotional Methods**. Any Promotional Method that is not expressly permitted or prohibited under this Code of Conduct is a Restricted Promotional Method and cannot be used without EPN’s prior written approval. Examples of these include: 
-      1. distribution of Promotional Content via Agents, distribution partners, or via ad networks; 
-      2. promotional Content created by a developer’s program tool or API; or holding in-person trainings and classes. 
+Service Provider represents, warrants, and agrees to use Security Measures (as defined below) (i) to ensure the protection of the rights and freedoms of the Data Subjects in accordance with Applicable Laws and Regulations, in particular with Art. 32 of the Regulation 2016/679/EU, (ii) to ensure the security of eBay Data from any unauthorized access, (iii) to protect the availability, confidentiality, and integrity of any eBay Data collected, accessed, used, or transmitted by Service Provider in connection with this Agreement (including but not limited to appropriate data protection and disaster recovery) and (iv) to protect and secure any and all hosts, networks, applications, and physical premises used in any way to perform Service Provider’s responsibilities under this Agreement. Service Provider agrees that “Security Measures” shall mean commercially reasonable security-related policies, standards, and practices commensurate with the size and complexity of Service Provider’s business, the level of sensitivity of the data collected, handled and stored, and the nature of Service Provider’s business activities, provided that all such policies, standards, and practices shall, at a minimum, comply with any Applicable Laws and Regulations and shall give due consideration to information security management systems, physical security, physical access control, access control to systems, access control to data, disclosure control, input control, security and privacy enhancing technologies, awareness, training and security checks in relation to Service Provider Personnel (job control), availability control, segregation control, incident response management/business continuity and audit controls/due diligence. Service Provider further represents, warrants and agrees to (v) implement industry standard security controls to detect malware on any ads served by Service Provider or its partners to a person and take appropriate actions to remove identified malware in a timely manner. Service Provider shall provide a detailed description of the Security Measures in Appendix 2. 
 
+**4.     Logical Security: **
 
-  3. _Prohibited Promotional Methods._ You may not engage in the following Promotional Methods 
-    1. **Cookie Stuffing.** You may not stuff cookies or other tracking tags on an end user’s computer without any affirmative action by the end user. End users that are only viewing your website, Promotional Content or advertisements or while your applications are merely active or open have not taken any affirmative actions. 
-    2. **Non-Bona Fide Qualifying Transactions.** You may not cause Qualifying Transactions to be made in bad faith, including but not limited to using invisible methods to generate impressions, clicks or transactions that are not initiated by the affirmative and genuine action of an end user, or using any cookie, device, program, robot, iframe or hidden frame, pop-up window or any other operation or process that interferes with EPN’s ability to properly identify and track transactions. Any method that artificially generates clicks, impressions, or activity is prohibited. This includes, but is not limited to, clicks or impressions generated when you or your Agents click on your own Promotional Content containing Tracking Code, automated clicking tools or traffic sources, robots, or other deceptive software. To be considered valid, clicks and conversions must result from genuine user interest. EPN will use its sole discretion to determine instances of invalid click activity, which may come in different forms and may include activity not due to any deliberate action on your part. EPN is not obliged to disclose details about the functioning of EPN’s fraud detection systems. Because EPN needs to protect its proprietary detection system, EPN may be unable to provide you with all information about your account activity, including any web pages, end users, or third-party services that may have been involved in fraudulent activities. 
-    3. **Improper Influence.** You may not make your own advertising claims. You may not interfere with or seek to improperly influence the referral of an end user to Participating Sites and Content. You may not mislead or trick an end user in any way into clicking on a Link. It must be clear for end users where they are being directed at all times. 
-    4. **Middle Servers and URL Cloaking Services.** You may not redirect any traffic to middle servers for the purpose of masking your referring source of traffic. This includes any URL shortening services other than the ones noted in Section I.F. 
-    5. **Unacceptable Placements.**
-      1. Your Promotional Methods may not incorporate any topics that EPN in its sole discretion considers to fall in any of the following categories: 
-        1. sexually explicit materials 
-        2. violence 
-        3. firearms or weapons 
-        4. illegal goods, services or activities 
-        5. gambling or betting 
-        6. discrimination based on race, sex, religion, nationality, disability, sexual orientation, or age 
-        7. libel or defamation 
-        8. content aimed at children 
-        9. content that is otherwise misleading, obscene or hate-oriented 
-        10. sniping functionality (meaning the act of including Links in software or a service that automatically places bids or makes purchases via Buy It Now on behalf of eBay members) 
-        11. malicious functionalities, such as malware or spyware 
-      2. Your Promotional Methods may not engage in misleading activities with respect to title and page description, search engine manipulation, the unlawful use of meta-tags, or otherwise in any manner that EPN in its sole discretion would consider to fall within any of the following categories: 
-        1. typo-squatting 
-        2. domain-parking 
-        3. banner-farming 
-        4. comment-spamming 
-      3. Your Promotional Methods may not: 
-        1. serve a pop-up or pop-under for any Participating Sites and Content in connection with other pop-ups or pop-unders. 
-        2. contain dialers or any software that is automatically downloaded without express consent from the end user. 
-    6. **Paid Traffic Sources.** You may not purchase any keywords or search terms that (a) incorporate in part or in full any of eBay’s trademarks (including without limitation eBay and Half), trade names, company names, brands, shop signs, domain names or URLs (including the translations and transliterations), or any variations thereof. 
-    7. **Misdirection, Redirection and Framing.**
-      1. You may not make any express or implied representations, or otherwise create an appearance that a visitor to your website and/or Promotional Content is visiting Participating Sites and Content, for example, by framing or wrapping a site in any manner. You may not design your Promotional Methods in a way that, in EPN’s sole discretion, creates a likelihood of confusion with the website or emails belonging to the Advertiser. 
-      2. The URLs to which the Links direct end users must appear in the address line of the browser. 
-      3. The back button of the browser must be activated. 
-      4. You may not attempt to intercept or redirect traffic from or on, or divert compensation from, Participating Sites and Content or any other Affiliate. 
-    8. Promotional Content placed on an Advertiser website itself (for example, in your listings, your “About Me” page, and your store or eBay message boards). 
-    9. Promotional Content that promotes listings or behavior that violate the Advertiser’s policies 
-    10. Redirecting end users from Advertiser sites and services to an Affiliate’s website where the end user could click a Link back to the Advertiser site or service 
+a.    Access Controls.  You certify that you employ access control mechanisms that: 
 
+i.  prevent unauthorized access to eBay Data; ii.  limit access to your personnel with a business need to know; 
 
+ii. follow the principle of least privilege allowing access to only the information and resources that are necessary under  the Terms; and 
+
+b.    Regular Review of Access Controls. You will maintain a process to review access controls on a minimum annual basis for all of your systems that contain eBay Data, including any system that, via any form of communication interface, can connect to the system on which eBay Data is stored. You will maintain the same processes of review and validation for any third party hosted systems you use that contain eBay Data.  
+
+c.    Malicious Code Protection.  All workstations and servers will run the current version of industry standard anti-virus software with the most recent updates available on each workstation or server. Virus definitions must be updated within twenty-four (24) hours of release by the anti-virus software vendor. 
+
+**5.     Security Vulnerability Management: **
+
+a.    Vulnerability Management and Application Security Assessments. Service Provider must run internal and external network vulnerability scans at least annually and after any material change in the network configuration (e.g., new system component installations, changes in network topology, firewall rule modifications, or product upgrades). Vulnerabilities identified and rated as high risk by the Service Provider will be remediated within ninety (90) days of discovery.
+
+b.    For all Internet-facing applications that collect, transmit or display eBay Data, Service Provider agrees to conduct an application security assessment review to identify common security vulnerabilities as identified by industry-recognized organizations (e.g., OWASP Top 10 Vulnerabilities; CWE/SANS Top 25 vulnerabilities) annually or for all major releases, whichever occurs first.  At a minimum, it will cover the OWASP Top 10 vulnerabilities ([https://www.owasp.org](https://www.owasp.org/)).
+
+c.    Patch Management. You will patch all workstations and servers with all current operating system, database and application patches deployed in your computing environment according to a schedule predicated on the criticality of the patch. You must perform appropriate steps to help ensure patches do not compromise the security of the information resources being patched. All emergency or critical rated patches must be applied as soon as possible but at no time will exceed thirty (30) days from the date of release. 
+
+**6.     eBay Security Assessments and Audits:**
+
+Service Provider shall, upon reasonable notice, allow its data processing procedures and documentation to be inspected by eBay (or its designee) in order to ascertain compliance with this DPRA or any agreements between eBay and Service Provider. Service Provider shall fully cooperate with audit requests by providing access to relevant knowledgeable Personnel and documentation.
+
+ **7.     Security Breach: **
+
+Service Provider will maintain an industry standard incident response function capable of identifying, mitigating the effects of, and preventing the recurrence of Incidents. Upon discovering or otherwise becoming aware of an Incident that may put eBay Data at risk (“Breach”), Service Provider shall take commercially reasonable measures to mitigate the harmful effects of the Incident. Service Provider shall also notify eBay of the Breach as soon as practicable, but in no event later than 24 hours after the Breach and in any case before notifying any relevant authority. Notice to eBay shall be written to [CSIRT@eBay.com](mailto:CSIRT@eBay.com). Service Provider must ensure that affected third parties are notified of the Breach, at eBay’s sole discretion, either by notifying such third parties after eBay has reviewed and approved the language and method of notice, or by enabling eBay to notify such third parties itself. Service Provider agrees to cover the costs of any such notification, including reimbursing eBay for any reasonable costs such as to provide credit monitoring to affected Data Subjects. For the avoidance of doubt, eBay controls the means and timing of any such notification.
+
+ **8.     DATA RETENTION AND DELETION:**
+
+To the extent permitted by law, Service Provider will only retain eBay  Data for as long as services are provided to eBay in accordance with its Processing Instructions. Service Provider agrees to dispose of eBay Data using a method that prevents any recovery of the data in accordance with industry best practices when it is no longer required for the purpose of the Agreement, upon termination of the Agreement or at any time upon written request from eBay, whichever occurs earlier. Service Provider agrees to provide eBay with a written confirmation regarding the deletion of data upon request.
+
+ **9.     DATA OWNERSHIP: **
+
+eBay retains all ownership rights in eBay Data. eBay does not in any way assign, transfer, or convey title of eBay Data to Service Provider. For the avoidance of doubt, Service Provider acknowledges and agrees that it has no ownership of, or right to use, sell, rent, lease, copy, access, combine, reproduce, display, perform, modify, transfer, or disclose eBay Data, or any derivative works thereof, except as expressly provided in eBay’s Processing Instructions. eBay grants to Service Provider a non-exclusive, non-transferable, non-sublicensable right and license to access, use, copy, display, combine, reproduce, perform, modify, transfer and disclose eBay Data and content during the duration of the Agreement for the limited purposes of providing the Services to eBay pursuant to its Processing Instructions; provided that, Service Provider may delegate its duties and obligations, and the license granted in this sentence, to its Sub-processors in compliance with this Addendum for the limited purposes of providing the Services to eBay pursuant to its Processing Instructions. eBay represents and warrants that it has the necessary rights and licenses to share the Personal Data with Service Provider so that Service Provider and its Sub-Processors may lawfully use, process and transfer the Personal Data in accordance with this DPRA and the Agreement. Further, eBay acknowledges and agrees that normal operation and use of the Services will permit eBay’s Authorized Personnel to access, use, copy, display, combine, reproduce, perform, modify, transfer and disclose eBay Data and content.
+
+ **10\. Survival:   **
+
+Your obligations and eBay’s rights under this DPRA shall become effective on the Effective Date of the Terms and will continue in effect so long as you possess eBay Data. 
+
+**11.   Conflict:  **
+
+If and to the extent language in this DPRA conflicts with the Terms, this DPRA shall control. 
+
+**12.   Processing of Personal Data:   **
+
+The following additional terms shall apply to the Processing of Personal Data by you: 
+
+a.     Processing Instructions: You shall Process Personal Data only to deliver services in accordance with the Terms and/or eBay’s written instructions. For the avoidance of doubt, eBay’s written instructions for the Processing of Personal Data shall comply with Applicable Law. In the event you reasonably believe there is a conflict amongst Applicable Law or that eBay’s instructions conflict with any Applicable Law, you will inform eBay immediately and shall cooperate in good faith to resolve the conflict and achieve the goals of such instruction. 
+
+b.     Use of Sub-Processors: 
+
+  i. Contractual Privity. Your obligations under this DPRA shall apply to Sub-Processors. You are authorized to use Sub-Processors, provided that you represent and warrant that any approved SubProcessor is contractually bound to meet all data protection obligations required by the Terms, eBay’s Processing instructions, and by Applicable Law. Proof of these contractual obligations, in which commercially sensitive terms may be redacted, shall be provided to eBay promptly upon request. In the event that eBay reasonably believes a Sub-Processor Processes eBay Personal Data without having entered into a contractual agreement with you containing data protection obligations required by the Terms, eBay’s Processing instructions or by Applicable Law, eBay will promptly inform you and you shall cooperate in good faith to resolve the conflict and achieve the goals of such instruction. 
+
+  ii. List Maintenance. You shall maintain a list of all Sub-Processors you have engaged to Process eBay Personal Data. Where required by law, you shall (i) inform eBay of any intended changes concerning the addition or replacement of Sub-Processors with access to eBay Personal Data and give eBay the opportunity to object to such changes, and (ii) obtain the prior written consent of eBay before entering into any such agreement (unless expressly waived in a written agreement). 
+
+  iii. Organizational, Technical, and Physical Safeguards. You must restrict through organizational, technical, and physical safeguards the Sub-Processor’s access to eBay Personal Data to that which is only strictly necessary to perform its subcontracted Processing services to you (which shall be consistent with the Processing Instructions issued to you by eBay). Additionally, you will prohibit through organizational, technical and physical safeguards the Sub-Processor from Processing eBay Personal Data for any other purpose. Sub-Processors must similarly implement appropriate organizational, technical and physical measures to ensure that the Processing of eBay Data occurs in strict accordance with the Terms, eBay’s Processing instructions and Applicable Law and Regulations. 
+
+  iv. Sub-Processor Liability. You shall remain liable for any act or omission of a Sub-Processor that does not comply with the Terms, any Processing instructions or the requirements of Applicable Law. 
+
+14.3        Transfer of Personal Data: You shall not cause or permit any Personal Data to be transferred across borders in breach of Applicable Law. Cross-border transfers of Personal Data subject to legal restrictions by Applicable Law shall require eBay’s prior written consent. For the avoidance of doubt, this transfer restriction does not pertain to eBay personnel access to Personal Data. 
+
+14.4        Limitation on Disclosure of Personal Data: To the extent legally permitted, you shall immediately notify eBay in writing upon receipt of an order, demand, or document purporting to request, demand or compel the production of Personal Data to any third party. You shall not disclose Personal Data to the third party without providing eBay at least forty-eight (48) hours’ notice, so that eBay may, at its own expense, exercise such rights as it may have under Applicable Law to prevent or limit such disclosure. Notwithstanding the foregoing, you will exercise commercially reasonable efforts to prevent and limit any such disclosure and to otherwise preserve the confidentiality of Personal Data; additionally, you will cooperate with eBay with respect to any action taken pursuant to such order, demand, or other document request, including to obtain an appropriate protective order or other reliable assurance that confidential treatment will be accorded to Personal Data. 
+
+14.5        Compliance with Applicable Law: You shall Process Personal Data in accordance with Applicable Law. You represent and warrant that you will maintain privacy policies sufficient to protect the Personal Data and compliant with the Applicable Law. 
+
+14.6        Liability and Indemnification: You shall be liable for any of your acts and/or omissions relating to the obligations in this DPRA that result in a Security Breach of eBay’s Personal Data. You shall indemnify, defend and hold eBay harmless from and against all liabilities, costs, damages, claims and expenses relating to Security Breaches that arise from or in connection with your breach of your obligations stated in this DPRA. 
+
+14\. 7   Personal Data transmitted to eBay: Prior to sharing any Personal Data with eBay, you shall ensure that Data Subjects are appropriately notified of and have consented to eBay’s privacy practices. You warrant that you have a legitimate basis and adequate title to collect and share Personal Data with eBay. 
 
 ### **Scope and Consent**
 
@@ -286,7 +161,7 @@ You are contracting with eBay Partner Network, Inc. The company you are contract
 
 We may change this notice from time to time, and we will post the amended terms at <https://partnernetwork.ebay.com/legal> and notify you by email of major changes. Amended terms will take effect immediately for new users, and 5 days after they are posted for existing users.
 
-**What is Personal Information?**
+ **What is Personal Information?**
 
 Personal Information is information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier, or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
@@ -673,81 +548,3 @@ If you have a question or a complaint about this privacy notice, our global priv
 You can find more information on how to contact us and our data protection officers at our [eBay Privacy Center](https://www.ebayinc.com/our-company/privacy-center/privacy-notice/user-privacy-notice/)
 
 Your right to file complaints with a data protection supervisory authority remains unaffected.
-
-### Rate Card
-
-**Payment Structure for Qualifying Transactions:** A Qualifying Transaction occurs when (1) an end user makes a purchase on a participating Affiliate website within 24 hours after clicking your Promotional Content for a “Buy It Now” item, (2) an end user places a bid on an auction within 24 hours after clicking your Promotional Content and wins such auction within 10 days for an “Auction” item, or (3) an end user makes a purchase through eBay’s API on a digital property that is owned and operated by you and that complies with all other terms and conditions of your agreement for participation in eBay’s Buy API Program. For any Qualifying Transactions, you receive a percentage of the revenue eBay Inc. earns from that purchase, based on the category-level commission rates shown below. Note that there are certain items and categories for which eBay Inc. earns low or no revenue; in such cases, you will therefore earn low or no revenue share. These items and categories may include, but are not limited to gift cards, items sold by charities, and special promotional deals. You will only be paid once for each Qualifying Transaction; no duplicate payments will be made under eBay’s Buy API Program.
-
-**PROGRAM REVENUE SHARE BY CATEGORY (EFFECTIVE MARCH 1, 2017)**  
-  
----  
-  
-PARTS & ACCESSORIES
-
-| 
-
-70%  
-  
-FASHION
-
-| 
-
-70%  
-  
-HOME & GARDEN
-
-| 
-
-60%  
-  
-LIFESTYLE
-
-| 
-
-60%  
-  
-COLLECTIBLES
-
-| 
-
-50%  
-  
-ELECTRONICS
-
-| 
-
-50%  
-  
-BUSINESS & INDUSTRIAL
-
-| 
-
-50%  
-  
-MEDIA
-
-| 
-
-50%  
-  
-VEHICLES
-
-| 
-
-50%  
-  
-ALL OTHER
-
-| 
-
-50%  
-  
-NEW OR REACTIVATED BUYER BONUS (as % of Baseline Earnings)
-
-| 
-
-+100%  
-  
-Please note there may be exceptions to the rate card above for certain partners based on business model or other special circumstances.
-
-_New or Reactivated Buyer Bonus_. As indicated in the table above, you will receive an additional bonus equal to 100% (1x) of your base earnings when Qualifying Transactions described above are made by new buyers or buyers who have not purchased from eBay in the prior 12 months. 
