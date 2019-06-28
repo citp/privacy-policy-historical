@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025554id_/https%3A//teespring.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629002255id_/https%3A//teespring.com/policies/privacy) for the most accurate reproduction.*
 
 # About Teespring / Privacy Policy | Teespring
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=162d38e5-1361-4608-a20f-a728a8bfc563 "TRUSTe Privacy Certification")
 
 Welcome to Teespring! Teespring is a global company offering an internet-based service (the **“Teespring Service”** ) that allows campaign creators ( **“sellers”** ) to design certain products and promote the sale of those products to consumers ( **“buyers”** ) around the world through individual campaigns. This Privacy Policy applies to the Teespring Service, operated by Teespring, Inc. and its subsidiaries (collectively, **“Teespring”** ), and located at teespring.com (and other regional URLs).
 
 This Privacy Policy describes how Teespring collects and uses the information we obtain when you use the Teespring Service. It also describes the choices available to you regarding our use of your Personal Information and how you can access and manage that information. This Privacy Policy is part of and is governed by our [Terms of Service](https://web.archive.org/policies/terms), which you accept in order to transact with us. Your acceptance of this Privacy Policy includes your consent to our use of cookies and other similar technologies as described in this document.
 
 To note, our site may include links to other web sites whose privacy practices may differ from those of Teespring. Because the use of your information is governed by their privacy policies, we encourage you to read each policy carefully. We are not responsible for the policies or practices of any third party website or service.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
  **Information You Provide to Us. “Personal Information”** means information that alone or in combination with other information may be used to readily identify, contact, or locate you. The Personal Information we collect will be different depending on your activities on the Teespring Service. For example, to register as a seller on our service, we will collect your name and email address. If you register using a sign-in service or a social media platform such as Facebook, we will collect the information needed to authenticate your account and any other information the platform provides in that process. If you launch a successful campaign, we may collect additional Personal Information as needed to send you and the applicable tax authorities an income tax reporting statement. If you make a purchase through the Teespring Service, we will collect your name, email address, shipping address and payment information such as credit card number and billing address.
 
