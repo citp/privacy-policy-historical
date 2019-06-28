@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iaf.tv privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230115233id_/https%3A//nypost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iaf.tv privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628094102id_/https%3A//nypost.com/privacy) for the most accurate reproduction.*
 
 # Privacy | New York Post
 
@@ -70,7 +70,7 @@ In addition, we and our third-party service providers may use information collec
 
 We may use third-party analytics services on our Services, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web beacons, web server logs and similar technologies to help us analyze your use of the Services. The information collected through these means may be disclosed to these analytics providers and other relevant third parties who use the information, for example, to evaluate use of the Services. To learn more about how to opt out of Google Analytics services, please visit the link below:
 
-  * Google Analytics: <https://tools.google.com/dlpage/gaoptout>
+  * Google Analytics: <https://tools.google.com/dlpage/gaoptout>
 
 
 
@@ -87,7 +87,7 @@ On our sites, apps and/or emails we and our third-party service providers may ob
 We engage third-party advertising networks to help us target our messaging to visitors through interest-based and contextual means. Through these ad networks, we can track your online activities over time and across third-party websites and apps by obtaining information through automated means, as described above. The ad networks use this information to show you advertisements on our Services or other third-party websites and apps that may be tailored to your individual interests. The information ad networks may obtain on our behalf includes data about your visits to websites and use of apps that serve our advertisements, such as the pages or ads you view and the actions you take on those websites or apps. This data collection takes place both on our sites, apps and emails and on third-party websites and apps that participate in these ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of this ad network interest-based advertising,
 
   * click [here](http://www.aboutads.info/choices/) or [here](http://www.networkadvertising.org/choices/) in the US.
-  * click [here](http://youradchoices.ca/choices)here in Canada.
+  * click [here](http://youradchoices.ca/choices) in Canada.
 
 
 
@@ -117,8 +117,8 @@ You also can unsubscribe from our marketing mailing lists by following the “Un
 
 To learn more about how to opt out of ad network interest-based advertising, please visit the customer opt-out pages at:
 
-  * In the US: <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>.
-  * In Canada: <http://youradchoices.ca/choices>.
+  * In the US: <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>.
+  * In Canada: <http://youradchoices.ca/choices>.
 
 
 
