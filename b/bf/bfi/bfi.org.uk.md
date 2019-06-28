@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bfi.org.uk privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221050405id_/https%3A//www.bfi.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfi.org.uk privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628183622id_/https%3A//www.bfi.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # BFI Privacy Policy | BFI
 
@@ -60,7 +60,7 @@ We use your personal data for the following purposes:
   * Fulfil ticket, product, donation and membership requests
   * Contacting you
   * Providing you with information about things we think may interest you
-  * To prevent, detect and investigate illegal activity such as fraud
+  * To prevent, detect and investigate illegal activity such as fraud. The personal information we have collected from you will be shared with fraud prevention agencies who will use it to prevent fraud and money-laundering and to verify your identity. If fraud is detected, you could be refused certain services, finance, or employment. For further details of how your information will be used by us and these fraud prevention agencies, and your data protection rights, see [Fair Processing Notices for Cifas’s Databases](https://www.cifas.org.uk/fpn)
   * Analyse and understand our members, audiences and customers and improve our services
   * To protect and keep your personal information accurate
   * Using CCTV recording equipment in and around our premises for security purposes
@@ -190,4 +190,4 @@ You can opt out of cookies or set specific preferences about which types are set
 
 Visit the [Your Online Choices](http://www.youronlinechoices.com/uk/) website to find out more about behavioural advertising and how to control browser privacy settings.
 
-**Updated May 2018**
+**Updated April 2019**
