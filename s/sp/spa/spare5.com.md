@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spare5.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902202436id_/https%3A//mty.ai/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spare5.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628042045id_/https%3A//mty.ai/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mighty AI
 
 **Last updated:** May 21, 2018
 
-We at Mighty AI, Inc. (formerly known as Spare5, Inc.) have created this Privacy Policy to inform you about the kinds of identifiable personal information (“Personal Information”) we may collect, how we intend to use and share that information, and how you can correct or change such information when you access or use our Services.
+We at Mighty AI, Inc. – Spare5, LLC. (formerly known as Spare5, Inc.) have created this Privacy Policy to inform you about the kinds of identifiable personal information (“Personal Information”) we may collect, how we intend to use and share that information, and how you can correct or change such information when you access or use our Services.
 
 You should read this Privacy Policy in its entirety before submitting any Personal Information so you know how we collect and share your Personal Information.
 
