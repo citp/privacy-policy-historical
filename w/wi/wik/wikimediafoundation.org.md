@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119113242id_/https%3A//wikimediafoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628112249id_/https%3A//wikimediafoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Wikimedia Foundation Non-wiki Privacy Policy – Wikimedia Foundation
 
@@ -104,6 +104,6 @@ Depending on your jurisdiction, you also may have the right to lodge a complaint
 
 Thank you for reading our Non-wiki Privacy Policy. We hope you enjoy using the Wikimedia sites, and appreciate your participation in creating, maintaining, and constantly working to improve the largest repository of free knowledge in the world.
 
-**Tis policy was approved by  Eileen Hershenov on July 24, 2018, pursuant to the [Delegation of policy-making authority](https://foundation.wikimedia.org/wiki/Resolution:Delegation_of_policy-making_authority) by the Board, and went into effect on July 30, 2018.**
+**This policy was approved by  Eileen Hershenov on July 24, 2018, pursuant to the [Delegation of policy-making authority](https://foundation.wikimedia.org/wiki/Resolution:Delegation_of_policy-making_authority) by the Board, and went into effect on July 30, 2018.**
 
 **Please note that in the event of any differences in meaning or interpretation between the original English version of this Privacy Policy and a translation, the original English version takes precedence.**
