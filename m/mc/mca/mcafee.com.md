@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcafee.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231114408id_/https%3A//www.mcafee.com/enterprise/en-us/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafee.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629182958id_/https%3A//www.mcafee.com/enterprise/en-us/about/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | McAfee
 
@@ -23,7 +23,7 @@ This Notice provides information about data we collect, use, and share, and our 
 
 We at McAfee, LLC, including our affiliates (“McAfee”, “we”, “us”), care deeply about privacy, security, and online safety, all of which are a significant part of our essential mission: to protect users of our products and services (“you” and “your”) from the risks of theft, disruption, and unauthorized access to their online information and activities. This Privacy Notice (“Notice”) is designed to inform you about how we collect, use, and share your personal data through our website (our “Site”), products, services, and web-based and mobile applications (collectively, the “Services”) or when you interact with us. 
 
-McAfee sells products and services directly to consumers (you can find more information about those products here, “[Consumer Products](https://www.mcafee.com/consumer/en-us/store/m0/catalog.html)”), as well as to corporations and business customers (you can find more information about those products here, “[Corporate Products](https://web.archive.org/enterprise/en-us/products.html)”).  This Privacy Notice applies both to the information we collect from you or your device when you download one of our Services and to the information we collect when one of our distribution partners or business customers installs our Services on your device.
+McAfee sells products and services directly to consumers (you can find more information about those products here, “[Consumer Products](https://www.mcafee.com/consumer/en-us/store/m0/catalog.html)”), as well as to corporations and business customers (you can find more information about those products here, “[Enterprise Products](https://web.archive.org/enterprise/en-us/products.html)”).  This Privacy Notice applies both to the information we collect from you or your device when you download one of our Services and to the information we collect when one of our distribution partners or business customers installs our Services on your device.
 
 When you access or use our Services, you acknowledge that you have read this Notice and understand its contents. Your use of our Services and the Site and any dispute over privacy is subject to this Notice, any applicable Terms of Service (including any applicable limitations on damages and the resolution of disputes) and any applicable End User License Agreement.
 
@@ -144,7 +144,7 @@ We use administrative, organizational, technical, and physical safeguards to pro
 If you register a McAfee Consumer Product, you can access and correct the Personal Data in your profile at any time by visiting [My Account](https://www.mcafee.com/consumer/en-us/site-configurations/external-link/my-account/my-account.html) or contacting us as described below.  If you have not registered a McAfee product but one of our products is installed on your device, you may stop McAfee’s collection of data from your device by uninstalling that product. To close your account and for other support questions, please visit the McAfee  [Contact Us](https://www.mcafee.com/enterprise/en-us/home/contact-us.html) page and click on Support. 
 
 **Marketing Communications**  
-To stop receiving marketing communications, click on the unsubscribe link in the email, or click [here](https://www.mcafee.com/enterprise/en-us/forms/preferences/communication.html) for Corporate marketing or [here](https://home.mcafee.com/supportpages/unsub.aspx) for Consumer marketing. 
+To stop receiving marketing communications, click on the unsubscribe link in the email, or click [here](https://www.mcafee.com/enterprise/en-us/forms/preferences/communication.html) for Enterprise marketing or [here](https://home.mcafee.com/supportpages/unsub.aspx) for Consumer marketing. 
 
 If you choose to no longer receive marketing information, McAfee may still communicate with you regarding transactional or administrative topics, such as security updates, product functionality, and service requests.  
 
@@ -167,10 +167,10 @@ You may request access, changes to, or removal of your Personal Data in accordan
 
 Although McAfee makes good faith efforts to provide customers with access to their Personal Data, there may be circumstances in which we are unable to provide access, including but not limited to: where the information contains legal privilege, where the information would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question, or where it is commercially proprietary. If McAfee determines that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, we will take commercially reasonable steps to verify your identity before granting access to or making any changes to your Personal Data. 
 
-**For Corporate/Business Customers Only**  
+**For Enterprise/Business Customers Only**  
 McAfee is a data processor and only processes Personal Data in line with instructions received from its customers.
 
-McAfee will act on written instructions received from Corporate Customers to access, delete, release, correct, or block access to Personal Data held in McAfee’s products and systems. Any requests relating to access, erasure, or rectification should be made by an authorized individual using the Individual Data Request Form available at <https://www.mcafee.com/enterprise/en-us/about/legal/gdpr-data-request.html>. We will assist our Customers with requests from their employees in accordance with the applicable data protection laws. 
+McAfee will act on written instructions received from Enterprise Customers to access, delete, release, correct, or block access to Personal Data held in McAfee’s products and systems. Any requests relating to access, erasure, or rectification should be made by an authorized individual using the Individual Data Request Form available at <https://www.mcafee.com/enterprise/en-us/about/legal/gdpr-data-request.html>. We will assist our Customers with requests from their employees in accordance with the applicable data protection laws. 
 
 If you require further information about the Personal Data processed by the McAfee product you have purchased, please contact your account manager. 
 
