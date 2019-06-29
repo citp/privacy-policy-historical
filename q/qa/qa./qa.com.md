@@ -1,412 +1,95 @@
-> *The following text is extracted and transformed from the qa.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108160429id_/http%3A//www.qa.com/notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qa.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629154848id_/https%3A//www.qa.com/legal/privacy-notice) for the most accurate reproduction.*
 
-# Privacy policy - Website legal notices - QA
+# Privacy Notice | QA
 
-## QA takes the issue of security and data protection very seriously and strictly adheres to guidelines published in the United Kingdom Data Protection Act of 1998.
+The QA group of companies ("QA", "we", "our" or "us") are committed to ensuring that your privacy is protected. This Privacy Notice describes how we use the personal information that we collect from you, or that you provide, when you:
 
-QA is an ISO27001:2013 accredited company, and takes the management of data and asset protection very seriously.
-
-QA Group and its  companies  ("QA", "we", "our" or "us") are committed to ensuring that your privacy is protected. This Privacy Policy describes how we use the personal information that we collect from you, or that you provide, when you:
-
-  * visit any of our websites or portals (the "Website");
-  * use the educational courses, testing, certification and products, and consultancy services (together the "Services") that we provide;
-  * or otherwise contact us.
+  * visit any of our websites, portals or online learning environments (the "Website");
+  * use the educational services, testing, certification, products, and consultancy services (together the "Services") that we provide; or
+  * communicate with us.
 
 
 
 **Information We Collect**
 
-We collect personal information from you through the use of forms, which may be on paper or on our Websites, such as when you login to access our Services, signup to receive our newsletters, register for information, or make a purchase or commence a course of study.
+Information that you provide directly
 
-When you create an account on our Websites you have the opportunity to provide us with information about any special requirements, such as dietary requirements, that you may have.
+We collect personal information from you:
 
-If you are progressing your career through a QA Apprenticeship or further/higher education, we may need to collect addition personal information to secure funding or satisfy statutory legal or Government scheme requirements.
+  * through the use of forms, which may be on paper or on our Websites, such as when you login to access our Services, signup to receive our newsletters, register for information, or make a purchase or commence a course of study;
+  * when you create an account on our Websites and provide us with information about any special requirements, such as dietary requirements, that you may have; and 
+  * if you choose to provide us with information when you use our Website or access our Services;
+  * when you communicate with us for any reason, including by email, postal mail or telephone, and when you use our Services.
 
-We also collect personal information from you when you communicate with us for any reason, including by email, postal mail or telephone, and when you use our Services.
 
-In addition, we collect certain information automatically about visitors to our Websites as described in section 3 below.
 
-We may record and store the telephone conversations you have to any of our offices for the purposes of quality control, staff training, and/or to prevent or detect crime.
+Some of the personal information that you provide may include sensitive personal information, such as health-related information or information about your race or ethnicity, which we need for statutory registration/reporting purposes and to ensure that we can provide the necessary duty of care.
 
-If you choose to provide us with information you explicitly grant your consent to us using that information as is necessary to provide Services to you.
+Information that we collect automatically
 
-##### Special information for apprentices
+When you visit our Website, we may collect certain information automatically from your device.
 
-If you are progressing your career through a QA Apprenticeship or further/higher education, we may need to collect addition personal information to secure funding or satisfy statutory legal or Government scheme requirements.
+Specifically, the information we collect automatically may include information like your IP address, device type, unique device identification numbers, browser-type, broad geographic location (e.g. country or city-level location) and other technical information. We may also collect information about how your device has interacted with our Website, including the pages accessed and links clicked.
 
-Some of the information you supply will be used by the Skills Funding Agency to fulfil its statutory functions, issue/verify your Unique Learner Number (ULN) and update/check your Personal Learning Record. The Skills Funding Agency may share your ULN and Personal Learning Record with other education related organisations, such as your careers service, school, college, university, Government Departments and public bodies responsible for funding your education. 
+Collecting this information enables us to better understand the visitors who come to our Website, where they come from, and what content on our Website is of interest to them. We use this information for our internal analytics purposes and to improve the quality and relevance of our Website to our visitors.
 
-Further details of how your information is processed and shared can be found at:
+Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading 'Cookies', below.
 
-<https://www.gov.uk/government/publications/lrs-privacy-notices>
+Information that we obtain from third party sources
 
-**Use of Cookies**
+We may receive personal information about you from third party sources (such as your employer if they enroll you on a course, or agencies if you apply for study or employment, but only where we believe that these third parties either have your consent or are otherwise legally permitted or required to disclose your personal information to us. We collect only the minimum amount of information required from these third parties to enable us to provide the requested service or process any application you send to us (for example, your educational or employment history). We only use the information we receive from these third parties as set out in this Privacy Notice.
 
-QA websites uses cookies to provide easier navigation around the sites and gather anonymous analytics information. In some cases, cookies are used to provide functionality within sessions, such as within the myQA portal.
-
-We use Google analytics within our websites to monitor how visitors move around the website and how they reached it. This is done so that we can see total (not individual) statistics on which types of content users access most frequently. The Google cookies also tell us if you have visited the site before and allow us to track how many individual users the websites have. The Google cookies cannot be used to identify individuals - they are only used for statistical purposes only. You can opt out of Google cookies here <https://tools.google.com/dlpage/gaoptout> 
-
-From time to time we may have links to other services such as Social media or video services on our sites. These services may drop cookies on your computer when you use them, especially if you are already logged into their service. Due to the nature of how cookies work, QA cannot access these cookies nor control their use. Likewise, these 3rd party services cannot access QA's session or analytics cookies. 
-
-You have the right to choose whether or not to accept cookies and to set your own cookie preferences on your computer.
-
-These preferences can be to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at all. However, by opting not to receive cookies at any time, certain features of the Website cannot be provided and you may not be able to enjoy the Website to its fullest. All web browsers are different and to learn how to change your cookie preferences, check the "Help" menu of your browser.
-
-Users can block most cookies (except for Flash cookies) by activating the setting on their browser that allows users to refuse the setting of all or some cookies. However, if the browser settings to block all cookies (including essential cookies) users may not be able to access all or parts of the website, or users may experience reduced functionality or unexpected operations when accessing certain services.
-
-Unless the user's browser has been configured so that it will refuse cookies, our websites notify the user that the site makes use of cookies and allows the user to customise their browser to configure their preferences.
-
-Most internet browsers accept cookies automatically, but you can change the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. These settings will typically be found in the 'options' or 'preferences' menu of your browser. The links below explain how you can control cookies via your browser - remember that if you turn off cookies in your browser then these settings apply to all websites not just this one.
-
-  * Internet Explorer http://support.microsoft.com/kb/278835 (this page links to further information for different versions of IE - the mobile version is at: [ http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx)).
-  * Chrome: http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647
-  * Safari: http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html (or http://support.apple.com/kb/HT1677 for mobile versions)
-  * Firefox: http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies
-  * Blackberries; [ http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)
-  * Android: http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022
-  * Opera: http://www.opera.com/browser/tutorials/security/privacy/
-
-
-
-For further information about cookies and how to control their use, please visit the following third party educational resources:  http://www.allaboutcookies.org and http://www.youronlinechoices.eu 
-
-##### Cookies notification and control        
-
-Within all of our Company websites, we have provided a cookie control that is visible in the lower left hand side of the page. This control provides information on our use of cookies and seeks the users agreement before proceeding to use the site.
-
-##### Cookies within QA.com and my QA Portal
-
-The QA.com website use a session based tracking cookie to add website functionality, provide portal and basket functionality and to ease user navigation around the website.
-
-Tracking cookies observe how visitors move around the website when browsing it and record which content users view and are interested in. This helps improve the service by helping make sure users are finding the information they are looking for, and by tracking the success of QA's advertising campaigns.
-
-Name of Cookie
-
-| 
-
-What does it do?  
-  
----|---  
-  
-ASP.NET_sessionid
-
-| 
-
-This cookie is used to determine when a user is actively using the website. It enables the website to temporarily store information so that it can be accessed by other pages on the website to help the site function correctly.  
-  
-The website also uses analytical cookies which are operated by the organisation(s) listed below:
-
-Organisation setting the cookie
-
-| 
-
-Name of cookie
-
-| 
-
-What does it do?
-
-| 
-
-How to reject/delete these cookies?  
-  
----|---|---|---  
-  
-Google Analytics
-
-| 
-
-_utma
-
-| 
-
-This cookie helps determine the number of unique visitors to the website.
-
-| 
-
-You may reject or delete these cookies by downloading and installing the Google Analytics Opt-out Browser Add-on available here  
-  
-| 
-
-_utmz
-
-| 
-
-This cookie helps determine the referral method of people visiting the website. This helps to analyse the traffic arriving at the website and to determine which are the most popular routes (e.g. direct, search engine search, email link).
-
-|   
-| 
-
-_utmb
-
-| 
-
-This Google Analytics cookie helps record the length of individual sessions from users on the website. Each time a user moves to a new page on the website within 30 minutes of arriving, the cookie updates so that we know that the user is still actively using the website within a single session.
-
-|   
-| 
-
-_utmc
-
-| 
-
-Similar to _utmb, this Google Analytics cookie helps record the length of individual sessions on the website.
-
-|   
-  
-Google Adwords
-
-| 
-
-Doubleclick
-
-| 
-
-Doubleclick (part of Google) uses cookies and IP address analysis to identify unique users of the website (through the collection of non-personally identifiable information) and to track the conversion rates for particular advertising campaigns. It also helps serve advertisements which are of particular relevance to the user, and to control the frequency with which particular advertisements are displayed.
-
-| 
-
-For more information about how Google use data please view [Google's Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
-
-To opt-out please visit [Google](http://www.google.com/policies/privacy/ads/)  
-  
-##### QA Business School websites 
-
-The QA Business School websites use a session based tracking cookie to add functionality and ease user navigation around the website.
-
-Tracking cookies observe how visitors move around the website when browsing it and record which content users view and are interested in. This helps improve the service by helping make sure users are finding the information they are looking for, and by tracking the success of QA's advertising campaigns.
-
-Name of Cookie
-
-| 
-
-What does it do?  
-  
----|---  
-  
-ASP.NET_sessionid
-
-| 
-
-This cookie is used to determine when a user is actively using the website. It enables the website to temporarily store information so that it can be accessed by other pages on the website to help the site function correctly.  
-  
-The website also uses analytical cookies which are operated by the organisation(s) listed below:
-
-Organisation setting the cookie
-
-| 
-
-Name of cookie
-
-| 
-
-What does it do?
-
-| 
-
-How to reject/delete these cookies?  
-  
----|---|---|---  
-  
-Google Analytics
-
-| 
-
-_utma
-
-| 
-
-This cookie helps determine the number of unique visitors to the website.
-
-| 
-
-You may reject or delete these cookies by downloading and installing the Google Analytics Opt-out Browser Add-on available here  
-  
-| 
-
-_utmz
-
-| 
-
-This cookie helps determine the referral method of people visiting the website. This helps to analyse the traffic arriving at the website and to determine which are the most popular routes (e.g. direct, search engine search, email link).
-
-|   
-| 
-
-_utmb
-
-| 
-
-This Google Analytics cookie helps record the length of individual sessions from users on the website. Each time a user moves to a new page on the website within 30 minutes of arriving, the cookie updates so that we know that the user is still actively using the website within a single session.
-
-|   
-| 
-
-_utmc
-
-| 
-
-Similar to _utmb, this Google Analytics cookie helps record the length of individual sessions on the website.
-
-|   
-  
-Google Adwords
-
-| 
-
-Doubleclick
-
-| 
-
-Doubleclick (part of Google) uses cookies and IP address analysis to identify unique users of the website (through the collection of non-personally identifiable information) and to track the conversion rates for particular advertising campaigns. It also helps serve advertisements which are of particular relevance to the user, and to control the frequency with which particular advertisements are displayed.
-
-| 
-
-For more information about how Google use data please view [Google's Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
-
-To opt-out please visit [Google](http://www.google.com/policies/privacy/ads/)  
-  
-##### QA Apprenticeships
-
-The QA Apprenticeships website use a session based tracking cookie to add functionality and ease user navigation around the website.
-
-Tracking cookies observe how visitors move around the website when browsing it and record which content users view and are interested in. This helps improve the service by helping make sure users are finding the information they are looking for, and by tracking the success of QA's advertising campaigns.
-
-Name of Cookie
-
-| 
-
-What does it do?  
-  
----|---  
-  
-ASP.NET_sessionid
-
-| 
-
-This cookie is used to determine when a user is actively using the website. It enables the website to temporarily store information so that it can be accessed by other pages on the website to help the site function correctly.  
-  
-The website also uses analytical cookies which are operated by the organisation(s) listed below:
-
-Organisation setting the cookie
-
-| 
-
-Name of cookie
-
-| 
-
-What does it do?
-
-| 
-
-How to reject/delete these cookies?  
-  
----|---|---|---  
-  
-Google Analytics
-
-| 
-
-_utma
-
-| 
-
-This cookie helps determine the number of unique visitors to the website.
-
-| 
-
-You may reject or delete these cookies by downloading and installing the Google Analytics Opt-out Browser Add-on available here  
-  
-| 
-
-_utmz
-
-| 
-
-This cookie helps determine the referral method of people visiting the website. This helps to analyse the traffic arriving at the website and to determine which are the most popular routes (e.g. direct, search engine search, email link).
-
-|   
-| 
-
-_utmb
-
-| 
-
-This Google Analytics cookie helps record the length of individual sessions from users on the website. Each time a user moves to a new page on the website within 30 minutes of arriving, the cookie updates so that we know that the user is still actively using the website within a single session.
-
-|   
-| 
-
-_utmc
-
-| 
-
-Similar to _utmb, this Google Analytics cookie helps record the length of individual sessions on the website.
-
-|   
-  
-Google Adwords
-
-| 
-
-Doubleclick
-
-| 
-
-Doubleclick (part of Google) uses cookies and IP address analysis to identify unique users of the website (through the collection of non-personally identifiable information) and to track the conversion rates for particular advertising campaigns. It also helps serve advertisements which are of particular relevance to the user, and to control the frequency with which particular advertisements are displayed.
-
-| 
-
-For more information about how Google use data please view [Google's Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
-
-To opt-out please visit [Google](http://www.google.com/policies/privacy/ads/)  
-  
 **Use of Your Information**
 
 The information that we collect and store relating to you is primarily used to enable us to provide our Services to you. In addition, we may use the information for the following purposes:
 
-  * To provide you with information you request from us.
-  * To administer the account you create or use on our Websites;
-  * To respond to your correspondence, so that we can reply to your enquiries and requests in an efficient and effective manner;
-  * To provide information on other QA products and Services which we feel may be of interest to you, in accordance with your communications preferences;
-  * To meet our contractual commitments to you;
-  * To act on your behalf where third party funding is available and appropriate;
-  * To notify you about any changes to the Websites or our Services, such as improvements or changes that may affect either;
-  * Where your telephone conversations with us have been recorded, these recordings will be retained for a maximum of 30 days and will only be used for training and quality purposes and/or to prevent or detect crime; and
-  * As necessary to prevent or detect crime.
+  * to provide you with information or Services you request from us;
+  * to provide information on other QA products and Services which we feel may be of interest to you, in accordance with your communications and consent preferences;
+  * to meet our contractual commitments to you;
+  * to act on your behalf where third party involvement is available and appropriate – for example through a third party specialist training provider or certification/awarding body;
+  * to obtain additional personal information to secure funding or satisfy statutory legal or Government scheme requirements – for example through an Apprenticeship scheme;
+  * to monitor and analyze trends, usage and activities in connection with our Websites/Services; andas necessary to prevent or detect crime.
 
 
 
-If you do not want us to use your data for any marketing purposes you will have the opportunity to withhold your consent to this when you provide your details to us.
+We may also monitor or record telephone calls for training, customer service and quality assurance purposes, and to detect or prevent crime, [and will inform you that we do so when you call us]. These recordings will be retained for a maximum of 30 days.
 
-Consent can be varied online if you have a myQA account (within your profile) or via the website at <http://subscription.qa.com/>  
+In general, we will use any of the information we collect from you only for the purposes described in this Privacy Notice or for purposes that we explain to you at the time we collect such information. However, we may also use your personal information for other purposes that are not incompatible with the purposes we have disclosed to you (such as statistical purposes) if and where this is permitted by applicable data protection laws.
 
-**Storing Your Personal Data**
+If you do not want us to use your data for any marketing purposes, you will have the opportunity to withhold your consent to this when you provide your details to us.
 
-The personal information you provided to us is stored within secure servers.
+Consent can be varied online via the Website or cp.qa.com.
 
-Please note that the transmission of information via the internet (including email) is not completely secure and therefore, although we endeavour to protect the personal information you provide to us, we cannot guarantee the security of data sent to us electronically and the transmission of such data is therefore entirely at your own risk.
+**Storing and Retaining Your Personal Data**
+
+The personal information you provided to us is stored within secure servers. We use appropriate technical and organisational measures to protect the personal information that we collect and process about you. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information.
 
 All QA email addresses support TLS email encryption, so it is advised that if you are concerned about the contents of any email to use this encryption.
 
 Where we have given you (or where you have chosen) a password so that you can access certain parts of our sites and portals, you are responsible for keeping these passwords confidential.
 
+Please note that the transmission of information via the internet (including email) is not completely secure and therefore, although we endeavor to protect the personal information you provide to us, we cannot guarantee the security of data sent to us electronically and the transmission of such data is therefore entirely at your own risk.We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).
+
+When we have no ongoing legitimate business or statutory need to process your personal information, we will either delete or anonymise it.
+
 **Disclosing Your Information**
 
-We may disclose your personal information to any company within our corporate group. This includes, where applicable, our subsidiaries, our holding company and its subsidiaries.
+We may disclose your personal information, with your consent, to any company within our corporate group. This includes, where applicable, our subsidiaries, our holding company and its subsidiaries.
 
-We may also disclose your personal information to:
+We may also disclose your personal information with:
 
-  * Any third party we contract to act on our behalf;
-  * Where third party funding is required within Apprenticeships or further/higher education.
-  * Your employer, where required within an Apprenticeship program.
-  * Government agencies, where required by the scheme or education path you elect to follow.
-  * Partners with whom we work to provide Services;
-  * Any third party that purchases all or substantially all of our assets and business; and to
-  * Any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights or the rights of any third party.  
+  * third party service providers and partners who provide data processing services to us (for example, to support the delivery of Services), or who otherwise process personal information for purposes that are described in this Privacy Notice;
+  * third party funders, where required within Apprenticeships or further/higher education;
+  * your employer, where required within an Apprenticeship program/Higher Education program or other
+  * government agencies, where required by the scheme or education path you elect to follow; 
+  * partners with whom we work to provide Services (such as course vendors, examination bodies and trainers); 
+  * any third party in connection with, or during negotiations of, any merger, sales of company assets, financing or acquisition of all or a portion of our business by another company; 
+  * any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights or the rights of any third party; and to 
+  * any other person with your consent to the disclosure. 
 
 
+
+Where you are a customer or prospective customer, we may disclose your data to third parties for our marketing purposes so that we can identify products and services we think you will be interested in. Personal data used in this way may include contact details such as name, address, phone number, and email address. When sharing with third party marketing organisations, your data may be processed in countries inside or outside of the EU.
 
 **Third Party Links**
 
@@ -422,32 +105,79 @@ The Website may offer you the opportunity to share or follow information about u
 
 We offer this functionality in order to generate interest in us, the Website and our Services among the members of your social networks, and to permit you to share and follow opinions, news and recommendations about us with your friends. However, you should be aware that sharing personal or non-personal information with a social network may result in that information being collected by the social network provider or result in that information being made publicly-available, including through Internet search engines.
 
-Please note that we do not exercise any endorse or control the policies or practices of any third party social network whose functionality you may access through the Website.
+Please note that we do not exercise, endorse or control the policies or practices of any third party social network whose functionality you may access through the Website.
 
-You should always read the privacy policy of any social network through which you share information carefully in order to understand their specific privacy and information usage practices. 
+You should always read the Privacy Notice of any social network through which you share information carefully in order to understand their specific privacy and information usage practices.
 
-**Internet-based Transfers**
+**International Data Transfers**
 
-Given that the Internet is a global environment, using the Internet to collect and process personal information may involve the transmission of personal information on an international basis.  Therefore, by browsing our Websites and communicating electronically with us, you acknowledge our processing of personal information in this way.  However, we will endeavour to protect all personal information collected through the Websites in accordance with strict data protection standards. 
+For some of our Services, your personal information may be transferred to, and processed in, countries outside of the EEA. However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Notice. These measures include transferring your personal data to third parties who are located in a country which the European Commission has determined has data protection laws that are at least as protective as those in Europe, and transferring your personal data to third parties who have entered into standard contractual clauses with us. For more information about these safeguards please contact us using the contact details provided below.
 
-**Access To Information**
+**Cookies**
 
-Should you wish to access or update the personal information that we hold about you, please contact us using the contact details below. If you have an account on the Website you may also access and update your personal information by logging onto your account.
+We use cookies and similar tracking technology (collectively, "Cookies") to collect and use personal information about you. For further information about the types of Cookies we use, why we use them and how you can control Cookies please see our Cookie Notice at: [www.qa.com/legal/cookie-notice](https://web.archive.org/legal/cookie-notice)
+
+**Legal Basis (EEA visitors only).**
+
+Our legal basis for collecting and using personal information will depend on the personal information being collected and the specific context in which we collect it.
+
+However, we will normally collect personal information from you only:
+
+  * where we need the personal information to perform a contract with you (for example, to enroll you into a course or provide you with learning materials);
+  * where the processing is in our legitimate interests and is not overridden by your rights; or
+  * where we have your consent to do so;
+
+
+
+In some cases, we may also have a legal obligation to collect personal information from you.
+
+If we ask you to provide personal information to comply with a legal requirement or to perform a contact with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
+
+If we collect and use your personal information in reliance on our legitimate interests (or those of any third party), this interest will normally be to operate our platform and communicating with you as necessary to provide our services to you and for our legitimate commercial interest, for instance, when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities. We may have other legitimate interests and if appropriate we will make clear to you at the relevant time what those legitimate interests are.
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided below.
+
+**Data protection rights**
+
+You have the following data protection rights:
+
+  * If you wish to **access, correct, update or request deletion** of your personal information, you can do so at any time by contacting us using the contact details provided below.
+  * In addition, you can **object to processing** of your personal information, ask us to **restrict processing** of your personal information or **request portability** of your personal information. Again, you can exercise these rights by contacting us using the contact details provided below.
+  * You have the right to **opt-out of marketing and telemarketing communications** we send you at any time. You can exercise this right by clicking on the "Manage your Marketing Preferences" link in the marketing e-mails we send you and within our Websites. 
+  * Similarly, if we have collected and process your personal information with your consent, then you can **withdraw your consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the **right to complain to a data protection authority** about our collection and use of your personal information. For more information, please contact your local data protection authority.
+
+
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
 **Contacting Us**
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us using the Contact us form available at [/contact/](https://web.archive.org/contact/) or email us at [info@qa.com](mailto:info@qa.com) 
+The data controller of your personal information will be the QA group entity that you are dealing with, and as such will be one of the following:
 
-**Your Consent**
+  * QA Limited
+  * QA Consulting Services Limited
+  * QAHE Limited 
+  * QAHE (UR) Limited 
+  * QAHE (Ulst) Limited 
+  * QAHE (NU) Limited 
+  * QAHX (Mdx) Limited 
+  * QAHE (Services) Limited 
+  * QAHE (Solent) Limited 
+  * Branch Campus (London and Birmingham) Limited NI 
+  * Northumbrian London Campus Limited 
+  * Roehampton Pathway Campus Limited 
+  * Solent Pathway Campus Limited 
+  * Focus Project Management Europe Limited
 
-By using our Websites or agreeing to do business with us, you consent to the collection and use of information as outlined in within this document.
 
-**Changes to the Privacy Policy**
 
-We may change this Privacy Policy from time to time by updating this document. The online version is available at: [/notices/privacy-policy](https://web.archive.org/notices/privacy-policy) 
+We welcome any queries, comments or requests you may have regarding this Privacy Notice. Please do not hesitate to contact us, or our DPO, via email at: [privacy@qa.com](mailto:privacy@qa.com)
+
+**Changes to the Privacy Notice**
+
+We may change this Privacy Notice from time to time by updating this document. The online version is available at: [www.qa.com/legal/privacy-notice](https://web.archive.org/legal/privacy-notice)
 
 You should check this page from time to time to ensure that you are happy with any changes.
 
-If you do not agree to the changes we make, please do not continue to use our Websites or our Services. If material changes are made to this Privacy Policy, we will notify you by placing a prominent notice on the Website. 
-
-**Last updated: October 2014**
+If material changes are made to this Privacy Notice, we will notify you by placing a prominent notice on the Website or by contacting you to let you know via the contact details you have provided us with.
