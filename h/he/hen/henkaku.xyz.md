@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henkaku.xyz privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222063029id_/http%3A//henkaku.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henkaku.xyz privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630005725id_/http%3A//henkaku.xyz/privacy) for the most accurate reproduction.*
 
 # HENkaku
 
