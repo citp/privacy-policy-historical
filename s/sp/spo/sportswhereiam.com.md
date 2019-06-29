@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportswhereiam.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021005632id_/http%3A//sportswhereiam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportswhereiam.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629204445id_/https%3A//sportswhereiam.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Sports Where I Am
 
