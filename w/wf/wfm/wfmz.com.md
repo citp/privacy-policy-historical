@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212164217id_/http%3A//www.wfmz.com/station/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629032503id_/https%3A//www.wfmz.com/station/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WFMZ-TV 69News - WFMZ
 
-Updated: October 15, 2018
+Updated: April 2, 2019
 
  **PRIVACY STATEMENT FOR wfmz.com, awchannel.com** as required by the CHILDREN'S ONLINE PRIVACY PROTECTION ACT WFMZ Online - Maranatha Broadcasting Company, Inc.
 
@@ -18,19 +18,19 @@ Updated: October 15, 2018
 
  **If you register for any of our online services:** This site offers several services for which registration is required. These include (but are not limited to) school closings, news alerts, and other newsletters. The information gathered is necessary for the functionality of these services.
 
- **Access and Use of Personally Identifiable Information (PII):** If you choose to establish a Personalized User Profile and participate in the sharing of Personally Identifiable Information, Internet Broadcasting (a division of Nextar Broadcasting, Inc.) may collect this PII in connection with performing services related to the operation of this site and our other digital properties. This information may be stored, retained, and/or shared with third parties for the purpose of creating and maintaining Personalized User Profiles on your behalf.
+ **Access and Use of Personally Identifiable Information (PII):** If you choose to establish a Personalized User Profile and participate in the sharing of Personally Identifiable Information, Lakana (a division of Nexstar Broadcasting, Inc.) may collect this PII in connection with performing services related to the operation of this site and our other digital properties. This information may be stored, retained, and/or shared with third parties for the purpose of creating and maintaining Personalized User Profiles on your behalf.
 
 Examples of PII that we may collect include (but are not limited to) your name, location, and mobile phone number. These pieces of information are collected when you create a Personal User Profile, contribute an image or video file, or register for newsletter, text, or push notification alerts. The PII that is collected may be shared with our technology partners (including Lakana, TextCaster, WSI, and others) in order to facilitate the proper operation of these services.
 
  **Hotjar Analytics:   **We use Hotjar Analytics to help us analyze usage and traffic patterns on the site, and to help make it better for our users.  You may read about the data that they collect from this site by reviewing their _[Terms of Service here.](https://www.hotjar.com/legal/policies/terms-of-service)_
-
- **CrazyEgg Analytics:   **We use CrazyEgg Analytics to help us analyze usage and traffic patterns on the site, and to help make it better for our users.  You may read about the data that they collect from this site by reviewing their _[Privacy Policy here.](https://www.crazyegg.com/privacy)_
 
  **SurveyGizmo:   **We use SurveyGizmo to help us provide survey and contest entry forms on the site, and to help make it better for our users.  You may read about the data that they collect from this site by reviewing their _[Privacy Policy here](https://www.surveygizmo.com/privacy/)_ or their [_Terms of Service here_](https://www.surveygizmo.com/terms/).
 
  **ScoreStream:   **We use ScoreStream to help provide our users with sports scores.  You may read about the data that they collect from this site by reviewing their _[Privacy Policy here.](https://scorestream.com/misc/privacyPolicy)_
 
  **Revcontent:   **We use Revcontent to help provide our users with other interesting information from around the web.  You may read about the data that they collect from this site by reviewing their[ _Privacy Policy here._](https://faq.revcontent.com/customer/en/portal/articles/2703838-revcontent-s-privacy-policy?b_id=17042)
+
+ **Quantcast:** :  We use Quantcast to help us understand how often users visit our site, and how many pages they view.   You may read more about the data they collect from this site by reviewing their [Privacy Policy here](https://www.quantcast.com/privacy/).
 
  **Google Analytics:** We use "Google Analytics" to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the **[Google Analytics Terms of Use](https://www.google.com/analytics/tos.html)** (as **[amended for government websites](https://howto.gov/sites/default/files/google-analytics-tos-amendment.pdf)** ) and the **[Google Privacy Policy](https://www.google.com/privacypolicy.html)**. You can prevent Google Analytics from recognizing you on return visits to this site by **[disabling cookies](https://www.usa.gov/optout_instructions.shtml)** on your browser.
 
