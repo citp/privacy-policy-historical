@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triathlon.org privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201020653id_/https%3A//www.triathlon.org/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triathlon.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629142503id_/https%3A//www.triathlon.org/privacy_notice) for the most accurate reproduction.*
 
 # Privacy Notice | Triathlon.org
 
@@ -26,10 +26,6 @@ Tel: + 41 21 614 60 30
 #### What information do we collect from you?
 
 When someone visits triathlon.org we use a third-party service, Google Analytics, to collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. This information is only processed in a way which does not identify anyone. We do not make and do not allow Google to make, any attempt to find out the identities of those visiting our website. 
-
-#### Cookies
-
-Please read more on our cookies page.
 
 #### Search engine
 
@@ -109,35 +105,8 @@ Except as expressly stated in this Privacy Notice, we will not sell, share, trad
 
 * * *
 
-#### What information do we collect from you?
-
-We need your name, email address, credit card information and billing address.
-
-#### Why do we collect this information?
-
-We need this to create your account and process your subscription to the service.
-
-#### Payment provider
-
-We use a 3rd party Stripe as our payment provider. Your credit card details are held by Stripe and none are stored in our databases. As a marketing leading service, they are certified as a PCI Level 1 (the highest) payment provider.
-
-#### Who might we share your information with?
-
-Stripe to collect payments.  
-InFront our joint venture partners.
-
-#### What do we do with your information?
-
-We add your contact details to our mail list to keep you up to date on our services and billing.
-
-#### How long do we keep hold of your information?
-
-As long as you are a registered member.
-
-#### How can I access the information you hold on me?
-
-If you have a registered account you have access to all information ITU has on you.  
-A private download link will be made available shortly on profile pages.
+TriathlonLive [Privacy Policy](https://www.triathlonlive.tv/privacy)  
+TriathlonLive [Cookies Policy](https://www.triathlonlive.tv/cookies)
 
 ## MEDIA CENTRE REGISTERED USERS
 
