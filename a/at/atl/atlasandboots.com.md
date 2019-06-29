@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlasandboots.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031105214id_/https%3A//www.atlasandboots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlasandboots.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629041945id_/https%3A//www.atlasandboots.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Atlas & Boots
 
@@ -7,6 +7,8 @@
 We want visitors to our website to be able to take part fully in the activities and offers we provide. We also want to make sure that when we collect information from you, we do so in a way that does not infringe your right to privacy. This Privacy Policy is designed to give you useful information about the way we collect and use personal information and how we use cookies.
 
 By using our website you accept the terms of this Privacy Policy.
+
+[This should redirect to the UK store](https://amzn.to/2I5jYsz)
 
 ## Personal information
 
