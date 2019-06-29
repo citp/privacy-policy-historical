@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the faveable.com privacy policy that was archived on 2018-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227155549id_/https%3A//faveable.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the faveable.com privacy policy that was archived on 2019-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190629073658id_/https%3A//faveable.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head>
 <meta http-equiv="Accept-CH" content="DPR">
@@ -10,6 +10,7 @@
 <link rel="profile" href="https://gmpg.org/xfn/11">
 <link rel="alternate" type="application/rss+xml" href="https://faveable.com/rss/faveable.rss" title="Faveable RSS Feed">
 <title>Faveable | Privacy</title>
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&amp;display=swap" rel="stylesheet">
 <meta name="description" content="A list of the best products for men, women, children &amp; pets. Deeply researched product reviews cover fashion, grooming, beauty, homegoods, toys, pet &amp; tech. | Privacy">
 
 <meta property="og:title" content="Faveable | Privacy">
@@ -26,9 +27,133 @@
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="http://faveable.com/v3/img/logo.png">
 
-<link rel="icon" href="/v3/favicon/favicon-32x32.png" type="image/png"><link type="text/css" rel="stylesheet" href="/v3/minified/style.v673.min.css"> <script async="" src="//www.google-analytics.com/analytics.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-43443866-1', 'faveable.com');ga('send', 'pageview');</script></head>
+<meta class="swiftype" name="image" data-type="enum" content="http://faveable.com/v3/img/logo.png">
+<meta class="swiftype" name="title" data-type="string" content="Faveable | Privacy">
+<meta class="swiftype" name="body" data-type="text" content="">
+<meta class="swiftype" name="category" data-type="string" content="">
+
+<link rel="icon" href="/v3/favicon/favicon-32x32.png" type="image/png"><link rel="canonical" hreflang="en-CA" href="https://faveable.com/en-CA/"><link rel="canonical" hreflang="en-GB" href="https://faveable.com/en-GB/"><link rel="alternate" href="https://faveable.com/" hreflang="x-default"><link rel="preload" href="/v3/minified/style-min.min.css?v=v13441" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/v3/minified/style-min.min.css"></noscript>
+<script async="" src="//s.swiftypecdn.com/install/v2/st.js"></script><script>
+/*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+/* This file is meant as a standalone workflow for
+- testing support for link[rel=preload]
+- enabling async CSS loading in browsers that do not support rel=preload
+- applying rel preload css once loaded, whether supported or not.
+*/
+(function( w ){
+	"use strict";
+	// rel=preload support test
+	if( !w.loadCSS ){
+		w.loadCSS = function(){};
+	}
+	// define on the loadCSS obj
+	var rp = loadCSS.relpreload = {};
+	// rel=preload feature support test
+	// runs once and returns a function for compat purposes
+	rp.support = (function(){
+		var ret;
+		try {
+			ret = w.document.createElement( "link" ).relList.supports( "preload" );
+		} catch (e) {
+			ret = false;
+		}
+		return function(){
+			return ret;
+		};
+	})();
+
+	// if preload isn't supported, get an asynchronous load by using a non-matching media attribute
+	// then change that media back to its intended value on load
+	rp.bindMediaToggle = function( link ){
+		// remember existing media attr for ultimate state, or default to 'all'
+		var finalMedia = link.media || "all";
+
+		function enableStylesheet(){
+			// unbind listeners
+			if( link.addEventListener ){
+				link.removeEventListener( "load", enableStylesheet );
+			} else if( link.attachEvent ){
+				link.detachEvent( "onload", enableStylesheet );
+			}
+			link.setAttribute( "onload", null );
+			link.media = finalMedia;
+		}
+
+		// bind load handlers to enable media
+		if( link.addEventListener ){
+			link.addEventListener( "load", enableStylesheet );
+		} else if( link.attachEvent ){
+			link.attachEvent( "onload", enableStylesheet );
+		}
+
+		// Set rel and non-applicable media type to start an async request
+		// note: timeout allows this to happen async to let rendering continue in IE
+		setTimeout(function(){
+			link.rel = "stylesheet";
+			link.media = "only x";
+		});
+		// also enable media after 3 seconds,
+		// which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
+		setTimeout( enableStylesheet, 3000 );
+	};
+
+	// loop through link elements in DOM
+	rp.poly = function(){
+		// double check this to prevent external calls from running
+		if( rp.support() ){
+			return;
+		}
+		var links = w.document.getElementsByTagName( "link" );
+		for( var i = 0; i < links.length; i++ ){
+			var link = links[ i ];
+			// qualify links to those with rel=preload and as=style attrs
+			if( link.rel === "preload" && link.getAttribute( "as" ) === "style" && !link.getAttribute( "data-loadcss" ) ){
+				// prevent rerunning on link
+				link.setAttribute( "data-loadcss", true );
+				// bind listeners to toggle media back
+				rp.bindMediaToggle( link );
+			}
+		}
+	};
+
+	// if unsupported, run the polyfill
+	if( !rp.support() ){
+		// run once at least
+		rp.poly();
+
+		// rerun poly on an interval until onload
+		var run = w.setInterval( rp.poly, 500 );
+		if( w.addEventListener ){
+			w.addEventListener( "load", function(){
+				rp.poly();
+				w.clearInterval( run );
+			} );
+		} else if( w.attachEvent ){
+			w.attachEvent( "onload", function(){
+				rp.poly();
+				w.clearInterval( run );
+			} );
+		}
+	}
+
+
+	// commonjs
+	if( typeof exports !== "undefined" ){
+		exports.loadCSS = loadCSS;
+	}
+	else {
+		w.loadCSS = loadCSS;
+	}
+}( typeof global !== "undefined" ? global : this ) );
+</script><script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-43443866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+<style>.as-seen-on img:not(.loading){opacity:.8}.as-seen-on span{display:block;font-size:10px;font-weight:400;letter-spacing:1px;padding:0;text-transform:uppercase}.banner{max-height:35vh;overflow:hidden;position:relative}.banner-content{border-style:solid;border-width:0 0 10px;bottom:0;left:0;position:absolute;width:100%;z-index:1}.banner-inner-bottom{margin-bottom:3.5rem;padding-right:3.5em;position:relative}.banner-inner-top a.hero{color:#fff;font-size:50px;font-weight:700;line-height:1.1;text-transform:uppercase}.banner-inner-top h4{height:3em;line-height:1.5em;overflow:hidden}.banner:before{content:'';display:block;height:35vh;position:relative;width:100%}.banner.reverse a{color:#fff}.bg-tint{background:rgba(0,0,0,.025)}.bg-tint-solid{background:#f8f8f8}.color-bar{height:2px;left:0;overflow:hidden;position:fixed;top:0;width:100%;z-index:100}.color-bar span{background-color:rgb(221,221,221);display:block;float:left;height:100%;width:14.285714286%}.color-bar span:nth-child(1){background-color:rgb(50,146,208)}.color-bar span:nth-child(2){background-color:rgb(220,60,180)}.color-bar span:nth-child(3){background-color:rgb(176,187,101)}.color-bar span:nth-child(4){background-color:rgb(255,153,0)}.color-bar span:nth-child(5){background-color:rgb(138,159,173)}.color-bar span:nth-child(6){background-color:rgb(115,175,171)}.color-bar span:nth-child(7){background-color:rgb(254,100,86)}.color-bar::after{background-color:rgb(255,255,255);bottom:0;content:'';display:block;left:0;position:absolute;right:0;top:0}.comment-new input{margin:0 0 10px}.container{margin-right:auto;margin-left:auto;max-width:60rem;padding-right:.9375rem;padding-left:.9375rem}.container::after{clear:both}.container::after,.container::before{display:table;content:' '}.cover{height:100%;object-fit:cover;width:100%}.document-ready .article-description li:before{opacity:1}.document-ready .article-tabs-nav .n:after{opacity:1}.document-ready .article-tabs-nav .n:before{opacity:1}.document-ready .blue-check li:before{opacity:1}.document-ready .category-filter span:after{opacity:1}.document-ready .check-circle ul li:before{opacity:1}.document-ready .color-bar:after{left:100%}.document-ready .faveable-this{opacity:1}.document-ready .feed-home{opacity:1}.document-ready .mega-nav li:before{opacity:1}.document-ready .people-tags__more{opacity:1}.document-ready .product li:before{opacity:1}.document-ready .readers-graph .graph .bar{max-height:4.4em}.document-ready [class*=" icon-"]:before{opacity:1}.document-ready [class^="icon-"]:before{opacity:1}.feed-categories .block-category{padding:15px 0}.feed-categories .copy{padding:0 15px}.feed-categories .image img{border-radius:2px}.feed-categories .item{margin:0 0 15px;padding:0}.feed-categories .item.small{margin:0 0 15px;padding:0}.feed-categories .item.small h3{line-height:1;margin:0}.feed-categories .item.small h3 a{font-size:18px;font-weight:600}.feed-categories .show-all{padding:10px 15px;text-align:right}.feed-categories .show-all a{font-size:20px;font-weight:600;padding:0}.feed-categories .show-all a em{font-style:normal;font-weight:700;text-transform:uppercase}.feed-categories .top{margin:0 0 15px}.feed-categories h2{font-size:30px;font-weight:900;line-height:1em;margin:0;padding:0 15px;letter-spacing:0;text-transform:uppercase}.feed-categories h3 a{font-size:25px;font-weight:600;margin:5px 0}.feed-home{opacity:0;padding:20px 0 45px}.fixed{position:fixed;top:2px;left:0;width:100%;opacity:.95}.flex{align-items:center;display:flex;justify-content:center}.flex-1{flex:1}.flex-2{flex:2}.flex-3{flex:3}.flex-4{flex:4}.flex-5{flex:5}.flex-6{flex:6}.flex-auto{flex:1 1 auto;overflow-y:auto}.flex-center{width:100%}.flex-end{align-self:flex-end}.flex-logo{flex:1}.flex-start{align-self:flex-start}.giveaway-banner .subscribe-form-message p{color:rgb(255,255,255);font-size:24px;line-height:2em;text-align:center;text-transform:uppercase}.giveaway-banner a{color:rgb(255,255,255);font-weight:600;text-decoration:underline}.giveaway-banner input{border:0;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0}.giveaway-banner p{margin:0;padding:0}.header .fancy-main .trigger{margin:0}.header .fancy-main{color:rgb(255,255,255);font-size:12.5px;font-weight:500}.header{padding:20px 0}.headlines .container{margin:0 auto}.headlines{-webkit-transform:translateY(-50%);left:0;padding:0 .9375rem;position:absolute;top:45%;transform:translateY(-50%);width:100%;z-index:1}.headlines h1{font-size:50px;font-weight:900;margin:0;text-transform:none}.headlines h1 a{color:#fff;display:block;margin:0 auto;text-align:center;text-shadow:1px 1px rgba(0,0,0,.25);width:80%;z-index:22}.headlines label{display:inline-block;font-size:20px;font-weight:900;letter-spacing:2px;text-shadow:1px 1px 0 rgba(0,0,0,.5);text-transform:uppercase}.headlines.home h1 a{padding:60px 0 20px;text-align:left;width:100%}.hero-details .big{font-size:15px;line-height:1;font-weight:900;letter-spacing:1px;text-transform:uppercase}.hero-details .l{font-size:35px;line-height:35px;font-weight:900;height:85px;padding:0 10px 0 0}.hero-details .r{height:77.5px}.hero-details .small{font-size:11px;line-height:1;font-weight:200;letter-spacing:1px}.hero-details{margin:-55px 0 0;background:transparent;height:100px;color:#fff;position:relative;z-index:2;text-align:left!important}.hero-full h1{color:#fff;height:100%;position:absolute;text-align:center;width:100%;z-index:2;top:calc(50% - 30px);margin:0}.hero-full{border-bottom-style:solid;border-bottom-width:5px;height:35vh;position:relative;width:100%}.hero-full img{position:absolute;top:0}.icon-caret-down::before{content:'\42'}.icon-facebook::before{color:rgb(59,89,152);content:'\73'}.icon-mail::before{content:'\33'}.icon-pinterest::before{color:rgb(189,8,28);content:'\46'}.icon-search::before{content:'\72'}.icon-twitter::before{content:'\45'}.no-js .site{opacity:1}.no-js [class^="icon-"]::before{opacity:1}.no-padding{padding-left:0px!important;padding-right:0px!important}.page-category{padding:15px 0 25px}.post-item .category-tile-detail .author-image{margin:0 5px 0 0;border-radius:50%;border:2px solid rgba(255,255,255,.5)}.post-item .category-tile-detail .icon-read-time:before{font-size:10px;line-height:12.5px;width:15px}.post-item .category-tile-detail .icon-whatshot:before{font-size:12.5px;line-height:12.5px;width:15px}.post-item .category-tile-detail .item{margin:0 0 0 10px;line-height:35px}.post-item .category-tile-detail{color:#fff;text-transform:uppercase;font-size:10px;letter-spacing:1px;font-weight:700;line-height:25px;opacity:.85;padding:5px 10px}.post-item .post-thumbnail .cover{position:absolute;top:0}.post-item .post-thumbnail{height:0;overflow:hidden;padding-top:50%;position:relative;z-index:1}.post-item .post-thumbnail img{opacity:.85}.post-item{margin:20px 0 15px}.post-item header{height:75px;padding:0}.post-item header a{color:#fff;display:block;font-size:17.5px;font-weight:700;height:75px;line-height:25px;padding:10px 15px}.post-item:hover .post-thumbnail img{opacity:1}.post-result .btn{margin:0;position:absolute;right:0;top:2.5em}.post-result .entry-date{color:#8f939c;display:block;font-size:.75em}.post-result{border-top:solid 1px #ddd;margin:1.5em 0;padding:1.5em 7em 0 5em;position:relative}.post-result figure{border-radius:2px;display:block;height:auto;left:0;margin:0;overflow:hidden;position:absolute;top:1.2em;width:4em}.post-result figure img{display:block;height:100%;left:0;position:absolute;top:0;width:100%}.post-result figure:before{content:'';display:block;padding-top:100%}.post-result h3{font-size:.875em;line-height:2;margin:0 0 .5em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.post-result:first-child{border-top:0;margin-top:0}.post-results{border-top:solid 1px #ddd;padding:1.5em 0 2em}.post-subjects .row{margin-left:-3px;margin-right:-3px}.post-subjects [class^="col-"]{padding-left:3px;padding-right:3px}.post-subjects{margin:3.5em 0 1.125em}.readers-count{height:30px;margin:0 5px 0 0}.readers-details .block{display:inline-block;margin:5px 0 0}.readers-details .block-image{float:left}.readers-details .item-supports{padding:0 15px;font-size:10px;font-weight:400}.readers-details .small{font-size:11px;padding:0 15px}.readers-details .small img{padding:0 15px 0 0}.readers-details .small p{line-height:18px;margin:0;text-align:justify}.readers-details{padding:10px 0}.readers-graph .graph .bar{-webkit-transition:max-height .6s;background-color:#000;bottom:0;display:block;height:100%;left:0;max-height:0;position:absolute;transition:max-height .6s;width:100%}.readers-graph .graph .name{-webkit-transform:translateX(-50%);bottom:0;display:none;left:50%;position:absolute;transform:translateX(-50%)}.readers-graph .graph{display:block;float:left;height:100%;margin-right:4px;position:relative;width:3px}.readers-graph .graph:nth-child(1) .bar{-webkit-transition-delay:.4s;background-color:#3292d0;transition-delay:.4s}.readers-graph .graph:nth-child(2) .bar{-webkit-transition-delay:.45s;background-color:#85c075;transition-delay:.45s}.readers-graph .graph:nth-child(3) .bar{-webkit-transition-delay:.5s;background-color:#dc3cb4;transition-delay:.5s}.readers-graph .graph:nth-child(4) .bar{-webkit-transition-delay:.55s;background-color:#f5c53d;transition-delay:.55s}.readers-graph .graph:nth-child(5) .bar{-webkit-transition-delay:.6s;background-color:#fe6456;transition-delay:.6s}.readers-graph .graph:nth-child(6) .bar{-webkit-transition-delay:.65s;background-color:#8a9fad;transition-delay:.65s}.readers-graph .graph:nth-child(7) .bar{-webkit-transition-delay:.7s;background-color:#73afab;transition-delay:.7s}.readers-graph{height:100%}.readers-info{padding:5px 0 15px}.readers-title .text{font-size:17.5px;font-weight:900;line-height:1;margin:0;text-transform:uppercase;color:#FE6456}.readers-title{text-align:left}.readers-title h2{font-size:1.375em;letter-spacing:.02em;margin:.35em 0 0;overflow:hidden;text-overflow:ellipsis;text-transform:uppercase;white-space:nowrap}.readers-title p{color:#8f939c;font-size:12px;font-weight:500;line-height:1;margin:0}.readers-title.margin-top{margin-top:20px}.share_fixed ul{padding:0}.share_fixed.fixed{display:none;left:0;position:fixed;top:80px;z-index:999999}.share_fixed.fixed ul li{display:block}.share_fixed.fixed ul.share-links li{background-color:rgba(0,0,0,.0470588);height:2em;line-height:2em;margin:0 0 3px;text-align:center;width:2em;background-position:initial initial;background-repeat:initial initial}.share-giveaway .text{font-size:14px;font-weight:600;height:36px;line-height:36px}.share-giveaway ul.share-links li{background-color:rgba(255,255,255,.74902);background-position:initial initial;background-repeat:initial initial}.share-inline{margin:0 0 0;text-align:center}.share-inline ul li{display:inline-block}.share-inline ul li::before{display:none}.share-inline ul.share-links li{background-color:rgba(0,0,0,.0470588);border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-right-radius:2px;border-bottom-left-radius:2px;height:3em;line-height:3em;margin:0 3px;text-align:center;width:3em;background-position:initial initial;background-repeat:initial initial}.share-links .icon-facebook{color:rgb(72,103,170)}.share-links .icon-mail{color:rgb(199,22,16)}.share-links .icon-pinterest{color:rgb(186,28,42)}.share-links .icon-twitter{color:rgb(0,172,237)}.site{opacity:0}.site-background-faveable{background-color:rgb(30,112,185);background-position:initial initial;background-repeat:initial initial}.site-footer .subscribe-form input{border:0}.site-search .icon-search::before{color:rgb(255,255,255);font-size:18px;line-height:34px}.site-search .s{background-color:transparent;border:0;font-size:18px;font-weight:600;height:40px;line-height:40px;margin:0;padding:0 0 0 25px;position:absolute;text-align:left;width:100%;z-index:1;background-position:initial initial;background-repeat:initial initial}.site-search{background-color:rgb(255,255,255);border:0;border-top-left-radius:40px;border-top-right-radius:40px;border-bottom-right-radius:40px;border-bottom-left-radius:40px;height:40px;margin:0;position:relative;width:100%;background-position:initial initial;background-repeat:initial initial}.site-search button{background-color:rgb(48,146,208);border:1px solid rgb(255,255,255);border-top-left-radius:38px;border-top-right-radius:38px;border-bottom-right-radius:38px;border-bottom-left-radius:38px;height:38px;line-height:38px;margin:1px 0 0;position:absolute;right:1px;width:38px;z-index:30;background-position:initial initial;background-repeat:initial initial}.site-title-logo{padding:0}.site-title-logo img{height:40px;max-width:120px}.subscribe-form-message p{color:rgb(231,76,60)}.subtle-shadow{-webkit-box-shadow:rgb(34,34,34) 0 4px 6px -6px;box-shadow:rgb(34,34,34) 0 4px 6px -6px}.text-center{text-align:center}.toggle,[id^="drop"]{display:none}.user-menu .icon-caret-down{color:#8f939c;display:none;position:absolute;right:0;top:0}.user-menu .icon-caret-down:before{font-size:15px;vertical-align:middle}.user-menu .icon-drop-down{color:#8f939c;display:none;position:absolute;right:0;top:0}.user-menu .icon-drop-down:before{font-size:15px;vertical-align:middle}.user-menu .user.name{display:inline-block}.user-menu{position:relative}.user-menu li{display:block;font-size:15px;line-height:1em;margin:0;padding:0}.user-menu li a{font-weight:500;display:block;letter-spacing:.07em;margin:0;padding:12px 20px;text-transform:uppercase}.user-menu li a:hover{background:rgba(0,0,0,.25);color:#fff}.user-menu ul{background:rgba(255,255,255,.95);display:none;list-style:none;margin:0;padding:0;position:absolute;top:53px;white-space:nowrap;width:100%;z-index:1002}.user-menu ul:before{top:56px}[class^="icon-"]::before{display:inline-block;font-size:1rem;line-height:1;vertical-align:text-bottom;-webkit-font-smoothing:antialiased;opacity:0;font-family:faveable!important;font-style:normal!important;font-weight:normal!important;font-variant:normal!important;text-transform:none!important}@font-face{font-family:faveable;src:url(/v3/font/faveable.eot?#iefix?v=15) format('embedded-opentype'),url(/v3/font/faveable.woff?v=15) format('woff'),url(/v3/font/faveable.ttf?v=15) format('truetype'),url(/v3/font/faveable.svg#faveable?v=15) format('svg');font-weight:400;font-style:normal}*,::after,::before{box-sizing:inherit}#giveaway form input{padding-right:30px}a{color:rgb(30,112,185);text-decoration:none}a.fancy-a{display:inline-block;position:relative}a.fancy-a::after{-webkit-transform:scaleX(0);border-bottom-style:solid;border-bottom-width:1px;content:'';display:block;height:0;width:100%}a.fancy-a.active::after{-webkit-transform:scaleX(0);border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:rgb(255,255,255);content:'';display:block;height:0;width:100%}article,main,nav{display:block}body{-webkit-font-smoothing:antialiased;background-color:transparent;color:rgb(0,0,0);height:100%;line-height:1.5384615385;margin:0;overflow-x:hidden;padding:0;background-position:initial initial;background-repeat:initial initial}button{text-transform:none,overflow:visible,-webkit-appearance:button,-webkit-font-smoothing:antialiased;background-color:transparent;color:rgb(0,0,0);line-height:1.5384615385;margin:0;padding:0}button,input{margin:0;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;color:inherit}h1{-webkit-font-variant-ligatures:common-ligatures;clear:both;font-size:3.125rem;font-variant-ligatures:common-ligatures;font-weight:600;line-height:1.25em;margin:1em 0 .5em;padding:0;text-rendering:optimizeLegibility}h2{-webkit-font-variant-ligatures:common-ligatures;clear:both;font-variant-ligatures:common-ligatures;font-weight:600;line-height:1.25em;margin:1em 0 .5em;padding:0;text-rendering:optimizeLegibility}h3{-webkit-font-variant-ligatures:common-ligatures;clear:both;font-variant-ligatures:common-ligatures;font-weight:600;line-height:1.25em;margin:1em 0 .5em;padding:0;text-rendering:optimizeLegibility}h4{-webkit-font-variant-ligatures:common-ligatures;clear:both;font-size:1.5rem;font-variant-ligatures:common-ligatures;font-weight:600;line-height:1.25em;margin:1em 0 .5em;padding:0;text-rendering:optimizeLegibility}h4.title{color:#3292d0;font-size:14px;font-weight:700;letter-spacing:.07em;margin:0;text-transform:uppercase}h5{-webkit-font-variant-ligatures:common-ligatures;clear:both;font-variant-ligatures:common-ligatures;font-weight:600;line-height:1.25em;margin:1em 0 .5em;padding:0;text-rendering:optimizeLegibility}h6{-webkit-font-variant-ligatures:common-ligatures;clear:both;font-variant-ligatures:common-ligatures;font-weight:600;line-height:1.25em;margin:1em 0 .5em;padding:0;text-rendering:optimizeLegibility}html{background-color:rgb(255,255,255);height:100%;box-sizing:border-box}html,input{font-family:'Roboto',sans-serif;font-size:17.5px;font-weight:400}img{border:0;height:auto;max-width:100%;vertical-align:middle}input{-webkit-font-smoothing:antialiased;background-color:transparent;line-height:normal;margin:0;padding:0}input[type="checkbox"]{box-sizing:border-box;padding:0}input[type="text"]{-webkit-appearance:none;background-color:rgb(255,255,255);background-image:none;border:1px solid rgb(204,204,204);border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-right-radius:5px;border-bottom-left-radius:5px;color:rgb(117,117,117);display:block;font-size:.8125rem;line-height:2.98;margin:2px 0;padding:0 .77em;width:100%;box-shadow:none!important}label{display:inline-block;margin-bottom:.5rem}nav.main{background-color:rgb(255,255,255,.95);background-position:initial initial;background-repeat:initial initial;margin:0;padding:0;text-align:center;white-space:nowrap;z-index:1000}nav.main a.fancy-nav{border-top-style:solid;border-top-width:3px;border-top-color:transparent!important;border-bottom-color:transparent;border-bottom-style:solid;border-bottom-width:3px;color:rgb(0,0,0,.5);font-size:12.5px;font-weight:700;padding:0 25px;text-transform:uppercase;display:block;line-height:2}nav.main a.fancy-nav.active{border-bottom-style:solid;border-bottom-width:3px;font-weight:700}nav.main li{display:block;position:relative;transition-duration:.5s}nav.main li:focus-within a{outline:none}nav.main li:hover a,nav.main li:focus-within a{color:#fff}nav.main li:hover,nav.main li:focus-within{background:rgba(0,0,0,.25);cursor:pointer}nav.main ul{list-style:none;margin:0;padding:0}nav.main ul li ul{display:block;left:0;opacity:0;position:absolute;transition:all .5s ease;visibility:hidden;width:250px;z-index:1001}nav.main ul li ul li{clear:both;text-align:left;width:100%;line-height:initial}nav.main ul li ul li a{color:#fff;display:block;font-size:12.5px;font-weight:500;overflow:hidden;padding:10px;text-overflow:ellipsis;white-space:nowrap}nav.main ul li ul li a:hover{background:#ddd!important;color:#111}nav.main ul li ul li a.dropdown-see-all{font-weight:500;font-size:12.5px;background:#fff;border-bottom-width:5px;border-left-width:5px;border-right-width:5px;border-style:solid;text-align:center;text-transform:uppercase}nav.main ul li ul.open-right{right:0;left:initial}nav.main ul li:hover>ul{display:inherit}nav.main ul li:hover>ul,nav.main ul li:focus-within>ul,nav.main ul li ul:hover,nav.main ul li ul:focus{display:block;opacity:1;visibility:visible}nav.main::after{clear:both;content:'';display:table}p{line-height:1.5;margin:0 0 15px}ul{list-style:disc;margin:0 0 1.75em 1.25em;padding:0}ul.share-links{list-style:none;margin:0}ul.share-links a{display:block}ul.share-links a.facebook-messenger img{width:15px}@media screen and (max-width:48em){.block-category-list h2 a{text-align:center}.block-category-list ul{height:167px}.block-category-list ul li a{text-align:center;font-size:17.5px;font-weight:400}.feed-categories h2{text-align:center}.feed-home{padding:0 0 15px}.flex-logo{flex:initial}.header{padding:0;height:70px;line-height:70px}.headlines h1{font-size:35px}.hero-details .l{padding:0 10px;font-size:30px}.hero-details{height:70px}.hero-full h1{font-size:30px}.hidden-md-down{display:none}.menu{display:none}.readers-details .as-seen-on{display:block;margin:0}.readers-details .block{margin:15px 0;text-align:left}.readers-details .flex-outer{display:block}.readers-details .item-supports{padding:15px 0;margin:15px 0;border-top:1px solid rgba(0,0,0,.075);border-bottom:1px solid rgba(0,0,0,.075);font-size:12.5px;text-align:center}.readers-details .small{padding:15px}.readers-details{padding:15px 0}.readers-title .text{line-height:25px}.share_fixed.fixed{visibility:hidden}.share-links .icon-facebook{display:block}.share-links .icon-mail{display:block}.share-links .icon-pinterest{display:block}.share-links .icon-twitter{display:block}.site-search .s{font-size:16px}.site-search{float:right;text-align:center}.site-title-logo img{max-width:100px;padding-right:10px}.toggle .icon-caret-down:before{font-size:15px;margin:0 2.5px;line-height:initial}.toggle{display:block;font-size:15px;font-weight:900;margin:0;padding:5px 0;text-transform:uppercase;letter-spacing:1px}.toggle + a,.menu{display:none}.toggle:hover{background-color:#efefef}#page{background-color:rgb(255,255,255);background-position:initial initial;background-repeat:initial initial}nav.main ul li{display:block;padding:0;width:100%}nav.main ul li a.fancy-nav{border:0;font-size:17.5px;font-weight:500;text-transform:none}nav.main ul li a.fancy-nav.active{border:0}nav.main ul li:hover>ul,nav.main ul li:focus-within>ul,nav.main ul li ul:hover,nav.main ul li ul:focus{display:none;opacity:0;visibility:hidden}nav.main ul.menu{padding:5px 0 10px}ul.share-links{margin:0;text-align:center;width:100%}ul.share-links li{background-color:rgb(238,238,238);display:inline-block;height:2em;line-height:2em;margin:0;text-align:center;width:19%;background-position:initial initial;background-repeat:initial initial}ul.share-links li a{display:block}}.background-baby{background-color:#73AFAB!important}.background-beauty{background-color:#D68FFF!important}.background-bedding{background-color:#89CFF0!important}.background-credit-cards{background-color:#85BB65!important}.background-dating{background-color:#BB6585!important}.background-entertainment{background-color:#FF9169!important}.background-fitness{background-color:#3EABFF!important}.background-food-and-drink{background-color:#65A6BB!important}.background-grooming{background-color:#FFBA92!important}.background-home{background-color:#FF9900!important}.background-laughter-motivation{background-color:#F5C53D!important}.background-mens{background-color:#3292D0!important}.background-outdoors{background-color:#6ED69A!important}.background-pets{background-color:#99867A!important}.background-special-occasions{background-color:#D42426!important}.background-style{background-color:#8A9FAD!important}.background-tech{background-color:#65A6BB!important}.background-womens{background-color:#DC3CB4!important}.border-baby{border-color:#73AFAB!important}.border-beauty{border-color:#D68FFF!important}.border-bedding{border-color:#89CFF0!important}.border-credit-cards{border-color:#85BB65!important}.border-dating{border-color:#BB6585!important}.border-entertainment{border-color:#FF9169!important}.border-fitness{border-color:#3EABFF!important}.border-food-and-drink{border-color:#65A6BB!important}.border-grooming{border-color:#FFBA92!important}.border-home{border-color:#FF9900!important}.border-laughter-motivation{border-color:#F5C53D!important}.border-mens{border-color:#3292D0!important}.border-outdoors{border-color:#6ED69A!important}.border-pets{border-color:#99867A!important}.border-special-occasions{border-color:#D42426!important}.border-style{border-color:#8A9FAD!important}.border-tech{border-color:#65A6BB!important}.border-womens{border-color:#DC3CB4!important}.fill-baby{fill:#73AFAB!important}.fill-beauty{fill:#D68FFF!important}.fill-bedding{fill:#89CFF0!important}.fill-credit-cards{fill:#85BB65!important}.fill-dating{fill:#BB6585!important}.fill-entertainment{fill:#FF9169!important}.fill-fitness{fill:#3EABFF!important}.fill-food-and-drink{fill:#65A6BB!important}.fill-grooming{fill:#FFBA92!important}.fill-home{fill:#FF9900!important}.fill-laughter-motivation{fill:#F5C53D!important}.fill-mens{fill:#3292D0!important}.fill-outdoors{fill:#6ED69A!important}.fill-pets{fill:#99867A!important}.fill-special-occasions{fill:#D42426!important}.fill-style{fill:#8A9FAD!important}.fill-tech{fill:#65A6BB!important}.fill-womens{fill:#DC3CB4!important}.circular-chart.fill-baby .circle{stroke:#73AFAB!important}.circular-chart.fill-beauty .circle{stroke:#D68FFF!important}.circular-chart.fill-bedding .circle{stroke:#89CFF0!important}.circular-chart.fill-credit-cards .circle{stroke:#85BB65!important}.circular-chart.fill-dating .circle{stroke:#BB6585!important}.circular-chart.fill-entertainment .circle{stroke:#FF9169!important}.circular-chart.fill-fitness .circle{stroke:#3EABFF!important}.circular-chart.fill-food-and-drink .circle{stroke:#65A6BB!important}.circular-chart.fill-grooming .circle{stroke:#FFBA92!important}.circular-chart.fill-home .circle{stroke:#FF9900!important}.circular-chart.fill-laughter-motivation .circle{stroke:#F5C53D!important}.circular-chart.fill-mens .circle{stroke:#3292D0!important}.circular-chart.fill-outdoors .circle{stroke:#6ED69A!important}.circular-chart.fill-pets .circle{stroke:#99867A!important}.circular-chart.fill-special-occasions .circle{stroke:#D42426!important}.circular-chart.fill-style .circle{stroke:#8A9FAD!important}.circular-chart.fill-tech .circle{stroke:#65A6BB!important}.circular-chart.fill-womens .circle{stroke:#DC3CB4!important}.category-baby .catico path{fill:#73AFAB!important}.category-beauty .catico path{fill:#D68FFF!important}.category-bedding .catico path{fill:#89CFF0!important}.category-credit-cards .catico path{fill:#85BB65!important}.category-dating .catico path{fill:#BB6585!important}.category-entertainment .catico path{fill:#FF9169!important}.category-fitness .catico path{fill:#3EABFF!important}.category-food-and-drink .catico path{fill:#65A6BB!important}.category-grooming .catico path{fill:#FFBA92!important}.category-home .catico path{fill:#FF9900!important}.category-laughter-motivation .catico path{fill:#F5C53D!important}.category-mens .catico path{fill:#3292D0!important}.category-outdoors .catico path{fill:#6ED69A!important}.category-pets .catico path{fill:#99867A!important}.category-special-occasions .catico path{fill:#D42426!important}.category-style .catico path{fill:#8A9FAD!important}.category-tech .catico path{fill:#65A6BB!important}.category-womens .catico path{fill:#DC3CB4!important}.site-faveable .catico path{fill:#3292D0!important}.site-money .catico path{fill:#85BB65!important}.site-pets .catico path{fill:#dddd00!important}.site-sleep .catico path{fill:#89CFF0!important}.color-baby{color:#73AFAB!important}.color-beauty{color:#D68FFF!important}.color-bedding{color:#89CFF0!important}.color-credit-cards{color:#85BB65!important}.color-dating{color:#BB6585!important}.color-entertainment{color:#FF9169!important}.color-fitness{color:#3EABFF!important}.color-food-and-drink{color:#65A6BB!important}.color-grooming{color:#FFBA92!important}.color-home{color:#FF9900!important}.color-laughter-motivation{color:#F5C53D!important}.color-mens{color:#3292D0!important}.color-outdoors{color:#6ED69A!important}.color-pets{color:#99867A!important}.color-special-occasions{color:#D42426!important}.color-style{color:#8A9FAD!important}.color-tech{color:#65A6BB!important}.color-womens{color:#DC3CB4!important}</style></head>
 <body class="">
-<div id="page" class="hfeed site">
 <div class="color-bar">
 <span></span>
 <span></span>
@@ -38,51 +163,94 @@
 <span></span>
 <span></span>
 </div>
-<header id="masthead" class="" role="banner">
-<div class="subtle-shadow site-header background-">
+<div class="">
+<div class="header site-background-faveable">
 <div class="container">
-<div class="vertical-align row">
-<div class="col-md-4 col-xs-5 site-branding">
-<label class="nav-trigger trigger" for="onnav">
-<svg version="1.1" id="trigger" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 20 18" enable-background="new 0 0 20 18" xml:space="preserve">
-<rect y="0" width="20" height="2"></rect>
-<rect y="4" width="20" height="2"></rect>
-<rect y="8" width="20" height="2"></rect>
-<rect y="12" width="20" height="2"></rect>
-<rect y="16" width="20" height="2"></rect>
-<rect y="8" width="20" height="2"></rect>
-<rect y="8" width="20" height="2"></rect>
-</svg>
-</label>
-<div class="site-title">
+<div class="flex text-center">
+<div class="flex-1 s-hide hidden-md-down">
+<div class="flex">
+<div class="flex-1"><a class="fancy-a fancy-main" href="/about" target="_blank">About</a></div>
+<div class="flex-1"> <a class="fancy-a fancy-main" href="/signup">Signup</a>
+</div>
+</div>
+</div>
+<div class="flex-logo s-hide">
+<div class="site-title-logo flex-auto">
 <a href="/" rel="home">
 <img src="/v3/img/logo.svg" alt="Faveable">
 </a>
-</div>
-</div>
-<div class="col-md-8 col-xs-7 override">
-<div class="site-search ">
-<form id="search" action="/search">
-<input class="s" type="text" name="s" placeholder="Search for the best…">
-<button class="background-"><i class="icon-search"></i></button>
-</form>
-</div>
-<div class="hidden-md-down">
-<div class="site-about cat-count">
-<a href="/about" target="_blank">About Faveable</a>
-<a href="/signup">Signup</a>
 </div> </div>
+<div class="flex-1">
+<div class="site-search">
+<input class="s st-default-search-input s-dev" type="text" name="s" placeholder="Search for the best…">
+<button><i class="icon-search"></i></button>
 </div>
 </div>
 </div>
 </div>
-</header>
-<div class="hidden-md-up sublinks breadcrumb-container">
-<ul>
-<li><a href="/about" target="_blank">About Faveable</a></li>
-<li><a href="/signup">Signup</a></li>
+</div> <nav class="main nav-sticky subtle-shadow" role="navigation">
+<div class="container no-padding">
+<label for="drop" class="toggle color-">Categories<i class="icon-caret-down"></i></label>
+<input type="checkbox" id="drop">
+<ul class="menu flex">
+<li aria-haspopup="true">
+<a class="fancy-nav " href="/category/mens">
+Men </a>
+<ul class=" dropdown" aria-label="submenu">
+<li><a class="background-mens" href="/best-underwear-brands-for-men">Best Mens Underwear</a></li><li><a class="background-mens" href="/best-mens-underwear-for-running">Best Athletic Underwear</a></li><li><a class="background-mens" href="/best-messenger-bags-for-men">10 Best Messenger Bags for Men</a></li><li><a class="background-mens" href="/best-hairstyles-for-men">Best Hairstyles for Men</a></li><li><a class="background-mens" href="/best-anti-aging-cream-for-men">Best Anti Aging Cream for Men</a></li><li><a class="background-mens" href="/best-hair-clay">Best Hair Clays</a></li><li><a class="background-mens" href="/best-hair-removal-cream-for-men">Best Hair Removal Creams for Men</a></li><li><a class="background-mens" href="/best-conditioner-for-men">7 Best Conditioners for Men </a></li><li><a class="background-mens" href="/best-hair-brush-for-men">9 Best Hair Brushes for Men</a></li><li><a class="background-mens" href="/best-underwear-brands-for-men">Best Mens Underwear</a></li><li><a class="dropdown-see-all color-mens" href="/category/mens">See all in Men »</a></li> </ul>
+</li>
+<li aria-haspopup="true">
+<a class="fancy-nav " href="/category/womens">
+Women </a>
+<ul class=" dropdown" aria-label="submenu">
+<li><a class="background-womens" href="/best-perfume-for-women">Best Perfumes</a></li><li><a class="background-womens" href="/best-purple-shampoo">5 Best Purple Shampoos</a></li><li><a class="background-womens" href="/best-push-up-bra">Best Push Up Bras</a></li><li><a class="background-womens" href="/best-underwear-for-women">Best Women's Underwear</a></li><li><a class="background-womens" href="/best-strapless-bra">Best Strapless Bras</a></li><li><a class="background-womens" href="/best-body-wash-for-women">Best Body Wash for Women</a></li><li><a class="background-womens" href="/best-bra-inserts">Best Bra Inserts</a></li><li><a class="background-womens" href="/best-bras">Best Bras</a></li><li><a class="background-womens" href="/best-perfume-for-women">Best Perfumes</a></li><li><a class="background-womens" href="/best-active-underwear-for-women">10 Best Active Underwear for Women</a></li><li><a class="dropdown-see-all color-womens" href="/category/womens">See all in Women »</a></li> </ul>
+</li>
+<li aria-haspopup="true">
+<a class="fancy-nav " href="/category/style">
+Style </a>
+<ul class=" dropdown" aria-label="submenu">
+<li><a class="background-style" href="/sexiest-smelling-colognes-according-to-women">Best Mens Cologne</a></li><li><a class="background-style" href="/best-hair-creams-for-men">Best Hair Creams</a></li><li><a class="background-style" href="/best-pomade-for-men">Best Pomades</a></li><li><a class="background-style" href="/best-mens-hair-gels">Best Hair Gels for Men</a></li><li><a class="background-style" href="/best-mens-moisturizers">Best Men's Face Moisturizers</a></li><li><a class="background-style" href="/best-hair-waxes-for-men">Best Hair Wax for Men</a></li><li><a class="background-style" href="/best-electric-shavers-for-men">9 Best Electric Razors For Men</a></li><li><a class="background-style" href="/best-mens-aftershave-balm">8 Best Men's Aftershave Balms &amp; Lotions</a></li><li><a class="background-style" href="/best-lingerie-to-buy-girlfriend-gift">12 Sexy Lingerie Pieces Your Girlfriend or Wife Will Want</a></li><li><a class="background-style" href="/best-shapewear">Best Shapewear</a></li><li><a class="dropdown-see-all color-style" href="/category/style">See all in Style »</a></li> </ul>
+</li>
+<li aria-haspopup="true">
+<a class="fancy-nav " href="/category/home">
+Home </a>
+<ul class=" dropdown" aria-label="submenu">
+<li><a class="background-home" href="/best-smart-lock">Best WiFi Smart Door Locks</a></li><li><a class="background-home" href="/best-electric-toothbrushes">7 Best Electric Toothbrushes </a></li><li><a class="background-home" href="/best-indoor-grill">Best Indoor Grills</a></li><li><a class="background-home" href="/cool-modern-wine-glasses-for-men">9 Coolest Wine Glasses You Have Ever Seen</a></li><li><a class="background-home" href="/10-best-alarm-clocks-for-men">9 Best &amp; Most Cool &amp; Unique Alarm Clock Styles</a></li><li><a class="background-home" href="/best-trash-cans">8 Best Kitchen Trash Cans</a></li><li><a class="background-home" href="/best-dishwashers">7 Best Dishwashers</a></li><li><a class="background-home" href="/best-smart-wifi-garage-door-opener">Best Smart Wifi Garage Door Openers</a></li><li><a class="background-home" href="/best-ergonomic-office-chairs">6 Best Ergonomic Office Chairs </a></li><li><a class="background-home" href="/herman-miller-sale">Last day! Herman Miller Sale: 15% off Desks, Chairs &amp; Eames</a></li><li><a class="dropdown-see-all color-home" href="/category/home">See all in Home »</a></li> </ul>
+</li>
+<li aria-haspopup="true">
+<a class="fancy-nav " href="/category/baby">
+Kids </a>
+<ul class=" dropdown" aria-label="submenu">
+<li><a class="background-baby" href="/best-nerf-gun">7 Best Nerf Guns for Epic Battles</a></li><li><a class="background-baby" href="/best-magnetic-toys">10 Best Magnetic Toys for Kids </a></li><li><a class="background-baby" href="/best-baby-bottle-sterilizers-and-warmers">8 Best Baby Bottle Sterilizers and Warmers</a></li><li><a class="background-baby" href="/best-baby-carrier">10 Best Baby Carriers</a></li><li><a class="background-baby" href="/best-baby-halloween-costumes">13 Best Baby Halloween Costumes</a></li><li><a class="background-baby" href="/best-baby-monitor">Best Baby Monitors</a></li><li><a class="background-baby" href="/best-baby-shampoo">7 Best Baby Shampoos</a></li><li><a class="background-baby" href="/best-organic-baby-food">Best Organic Baby Food</a></li><li><a class="background-baby" href="/best-baby-swing">7 Best Baby Swings </a></li><li><a class="background-baby" href="/best-hot-wheels-track">8 Best Hot Wheels Tracks</a></li><li><a class="dropdown-see-all color-baby" href="/category/baby">See all in Kids »</a></li> </ul>
+</li>
+<li aria-haspopup="true">
+<a class="fancy-nav " href="/category/beauty">
+Beauty </a>
+<ul class="open-right dropdown" aria-label="submenu">
+<li><a class="background-beauty" href="/best-scar-removal-cream">6 Best Scar Removal Creams</a></li><li><a class="background-beauty" href="/best-shampoo-for-dandruff">6 Best Shampoos for Dandruff</a></li><li><a class="background-beauty" href="/best-vitamin-c-serum">4 Best Vitamin C Serums</a></li><li><a class="background-beauty" href="/best-microdermabrasion-at-home-machine">5 Best Microdermabrasion at Home Machines</a></li><li><a class="background-beauty" href="/best-eye-cream">7 Best Eye Creams </a></li><li><a class="background-beauty" href="/best-stretch-mark-cream">7 Best Stretch Mark Cream</a></li><li><a class="background-beauty" href="/best-dry-shampoos">5 Best Waterless Dry Shampoos </a></li><li><a class="background-beauty" href="/best-moisturizer">Best Face Moisturizers</a></li><li><a class="background-beauty" href="/best-night-cream">8 Best Night Creams</a></li><li><a class="background-beauty" href="/best-acne-treatment-products">5 Best Acne Treatment Products</a></li><li><a class="dropdown-see-all color-beauty" href="/category/beauty">See all in Beauty »</a></li> </ul>
+</li>
+<li aria-haspopup="true">
+<a class="fancy-nav " href="/category/fitness">
+Fitness </a>
+<ul class="open-right dropdown" aria-label="submenu">
+<li><a class="background-fitness" href="/best-running-shoes-for-men-under-100">6 Best Running Shoes for Men Under $100</a></li><li><a class="background-fitness" href="/ultimate-hiking-gear-guide">20 Best Hiking Gear Checklist</a></li><li><a class="background-fitness" href="/best-elliptical-machine">8 Best Elliptical Machines</a></li><li><a class="background-fitness" href="/best-athletic-pants-for-men">7 Best Athletic Pants for Men</a></li><li><a class="background-fitness" href="/best-compression-shorts">Best Compression Shorts for Men</a></li><li><a class="background-fitness" href="/best-workout-shirts-for-men">Best Workout Shirts for Men</a></li><li><a class="background-fitness" href="/best-water-bottle">Best Water Bottles</a></li><li><a class="background-fitness" href="/best-hydro-flask-for-every-drink-type">5 Best Hydro Flasks for Everything You Drink</a></li><li><a class="background-fitness" href="/best-mens-compression-pants">Best Compression Pants</a></li><li><a class="background-fitness" href="/best-cross-training-shoes-for-women">6 Best Cross Training Shoes for Women</a></li><li><a class="dropdown-see-all color-fitness" href="/category/fitness">See all in Fitness »</a></li> </ul>
+</li>
+<li aria-haspopup="true">
+<a class="fancy-nav " href="/category/grooming">
+Grooming </a>
+<ul class="open-right dropdown" aria-label="submenu">
+<li><a class="background-grooming" href="/best-ways-to-whiten-teeth-at-home">12 Best Ways to Whiten Teeth at Home </a></li><li><a class="background-grooming" href="/best-mouthwash">7 Best Mouthwash Brands</a></li><li><a class="background-grooming" href="/best-body-wash-for-men">Best Mens Body Wash</a></li><li><a class="background-grooming" href="/best-foot-cream">7 Best Foot Creams</a></li><li><a class="background-grooming" href="/best-lip-balm">8 Best Lip Balms </a></li><li><a class="background-grooming" href="/best-eczema-products">7 Best Eczema Products</a></li><li><a class="background-grooming" href="/best-hair-dryer">7 Best Hair Dryers</a></li><li><a class="background-grooming" href="/best-shaving-brush">Best Shaving Brushes</a></li><li><a class="dropdown-see-all color-grooming" href="/category/grooming">See all in Grooming »</a></li> </ul>
+</li>
+<li aria-haspopup="true">
+<a class="fancy-nav " href="/category/outdoors">
+Outdoors </a>
+<ul class="open-right dropdown" aria-label="submenu">
+<li><a class="background-outdoors" href="/camp-in-style-top-20-camping-gear-and-gadgets">Best Camping Gear &amp; Gadgets</a></li><li><a class="background-outdoors" href="/best-watershoes-for-men">Best Water Shoes</a></li><li><a class="background-outdoors" href="/best-ski-and-snowboarding-gadgets">15 Gadgets Snowboarders and Skiers Will Love</a></li><li><a class="background-outdoors" href="/the-best-watercraft-waverunner-and-jet-ski">6 Best Waverunners &amp; Jet Skis this Year</a></li><li><a class="background-outdoors" href="/best-tanning-lotion">6 Best Tanning Lotions</a></li><li><a class="background-outdoors" href="/best-umbrella-rain">7 Best Umbrellas for Rain</a></li><li><a class="background-outdoors" href="/best-portable-camping-shower">7 Best Portable Camping Showers</a></li><li><a class="background-outdoors" href="/best-sunscreen">7 Best Sunscreens </a></li><li><a class="background-outdoors" href="/best-water-shoes-for-women">7 Best Water Shoes for Women</a></li><li><a class="background-outdoors" href="/best-heated-socks">5 Best Heated Socks</a></li><li><a class="dropdown-see-all color-outdoors" href="/category/outdoors">See all in Outdoors »</a></li> </ul>
+</li>
 </ul>
-</div> <div class="site-inner"><div id="content" class="site-content">
+</div>
+</nav>
+</div><div id="content" class="site-content">
 <div id="primary" class="content-area">
 <main id="main" class="site-main" role="main">
 <div class="container">
@@ -125,7 +293,7 @@ These days, whenever you use a website, mobile application, or other Internet se
 <p>We also use the information we collect to offer you customized content, including:</p>
 <ul>
 <li>Suggesting Faves or Collections you might like. For example, if you’ve indicated that you’re interested in cooking or visited recipe websites that has <strong>fave</strong>able features, we may suggest food-related Faves, Collections, or people that we think you might like;</li>
- <li>Showing you ads you might be interested in.</li>
+<li>Showing you ads you might be interested in.</li>
 </ul>
 <p>We also use the information we collect to:</p>
 <ul>
@@ -179,13 +347,12 @@ These days, whenever you use a website, mobile application, or other Internet se
 <div class="call-txt">
 <h6>It's what you didn't know you were missing</h6>
 <p>We spend thousands of hours researching and testing products to create the most authoritative product
-ranking on the web. Over 15 million users and counting have trusted our rankings and product reviews.</p>
+ranking on the web. Over 20 million users and counting have trusted our rankings and product reviews.</p>
 </div>
 <div class="call-btn">
 <div class="review">
-<label>
-<span>
-8,322 Reviews</span>
+ <label>
+<span>9,544 Reviews</span>
 <small>… and counting</small>
 </label>
 </div>
@@ -195,17 +362,24 @@ ranking on the web. Over 15 million users and counting have trusted our rankings
 </div>
 <div class="container site-links">
 <div class="row">
-<div class="col-md-5 col-md-push-7 block1">
+<div class="col-md-8 col-md-push-4">
 <div class="row">
-<div class="col-md-4 col-xs-4 xs-footer">
+<div class="col-md-3 xs-footer">
+<aside>
+<h6>Sites</h6>
+<ul class="ul-footer">
+<li><a href="https://faveable.com">Faveable</a></li><li><a href="https://faveablemoney.com">Money</a></li><li><a href="https://faveablesleep.com">Sleep</a></li><li><a href="https://faveablepets.com">Pets</a></li> </ul>
+</aside>
+</div>
+<div class="col-md-3 xs-footer">
 <aside>
 <h6>Category</h6>
 <ul class="ul-footer">
-<li class=""><a href="/category/mens">Men</a></li><li class=""><a href="/category/credit-cards">Credit Cards</a></li><li class=""><a href="/category/womens">Women</a></li><li class=""><a href="/category/style">Style</a></li><li class="hide"><a href="/category/home">Home &amp; Office</a></li><li class="hide"><a href="/category/baby">Baby</a></li><li class="hide"><a href="/category/health">Health</a></li><li class="hide"><a href="/category/outdoors">Outdoors</a></li><li class="hide"><a href="/category/pets">Pets</a></li><li class="hide"><a href="/category/food-and-drink">Eat</a></li><li class="hide"><a href="/category/dating">Dating &amp; Sex</a></li><li class="hide"><a href="/category/laughter-motivation">Motivation</a></li><li class="hide"><a href="/category/entertainment">Entertainment</a></li><li class="hide"><a href="/category/tech">Tech </a></li><li class="hide"><a href="/category/special-occasions">Special Occasions</a></li> <li><a href="javascript:void(0);" id="more-footer">More...</a></li>
+<li class=""><a href="/category/mens">Men</a></li><li class=""><a href="/category/womens">Women</a></li><li class=""><a href="/category/style">Style</a></li><li class=""><a href="/category/home">Home</a></li><li class="hide"><a href="/category/baby">Kids</a></li><li class="hide"><a href="/category/beauty">Beauty</a></li><li class="hide"><a href="/category/food-and-drink">Eat</a></li><li class="hide"><a href="/category/dating">Dating &amp; Sex</a></li><li class="hide"><a href="/category/fitness">Fitness</a></li><li class="hide"><a href="/category/grooming">Grooming</a></li><li class="hide"><a href="/category/outdoors">Outdoors</a></li><li class="hide"><a href="/category/tech">Tech </a></li><li class="hide"><a href="/category/special-occasions">Special Occasions</a></li><li class="hide"><a href="/category/laughter-motivation">Motivation</a></li><li class="hide"><a href="/category/entertainment">Entertainment</a></li> <li><a href="javascript:void(0);" id="more-footer">More...</a></li>
 </ul>
 </aside>
 </div>
-<div class="col-md-4 col-xs-4 xs-footer">
+<div class="col-md-3 xs-footer">
 <aside>
 <h6>About</h6>
 <ul class="ul-footer">
@@ -221,25 +395,19 @@ ranking on the web. Over 15 million users and counting have trusted our rankings
 </ul>
 </aside>
 </div>
-<div class="col-md-4 col-xs-4 xs-footer">
+<div class="col-md-3 xs-footer">
 <aside>
 <h6>Social</h6>
 <ul class="ul-footer">
 <li><a href="https://www.facebook.com/Faveable" target="_blank">Facebook</a></li>
 <li><a href="https://twitter.com/faveable" target="_blank">Twitter</a></li>
 <li><a href="https://www.instagram.com/thefaveable/" target="_blank">Instagram</a></li>
-
 </ul>
 </aside>
 </div>
 </div>
 </div>
-<div class="col-md-6 col-md-pull-5">
-<aside>
-<h6>Popular Articles</h6>
-<ul class="ul-footer">
-<li><a href="/sexiest-smelling-colognes-according-to-women">15 Sexiest Best Smelling Colognes for Men (Accordi…</a></li><li><a href="/best-perfume-for-women">19 Best Sexiest Perfumes for Women</a></li><li><a href="/best-underwear-for-women">10 Best Women's Underwear &amp; Panties</a></li><li><a href="/best-hair-clay">8 Best Hair Clays for Men</a></li><li><a href="/best-airline-credit-card">5 Best Airline Credit Cards </a></li><li><a href="/best-hairstyles-for-men">33 Best Hairstyles for Men (According to Women)</a></li> </ul>
-</aside>
+<div class="col-md-4 col-md-pull-8">
 <aside>
 <form class="subscribe-form" method="post" action="/v3/f/subscribe.php" onsubmit="ga('send', 'event', 'Email signup', 'Footer', 'Signup');">
 <div class="in">
@@ -258,9 +426,17 @@ ranking on the web. Over 15 million users and counting have trusted our rankings
 <li><a href="/signup">Become a Member</a></li>
 </ul>
 </nav>
-</aside> </div>
+</aside> <div class="flex">
+<div class="flex-1">
+<div class="bbb">
+<a href="https://www.bbb.org/us/ca/santa-ana/profile/market-research/intuitive-media-inc-1126-1000056928/#sealclick" target="_blank" rel="nofollow"><img data-src="https://seal-orangecounty.bbb.org/seals/blue-seal-250-52-bbb-1000056928.png" style="border: 0;" alt="Intuitive Media Inc BBB Business Review"></a>
 </div>
- </div>
+</div><div class="flex-1 text-center">
+<a href="//www.dmca.com/Protection/Status.aspx?ID=c0707e59-a404-476b-bcba-110e80ae40eb" title="DMCA.com Protection Status" class="dmca-badge"> <img data-src="https://images.dmca.com/Badges/_dmca_premi_badge_2.png?ID=c0707e59-a404-476b-bcba-110e80ae40eb" alt="DMCA.com Protection Status"></a> <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+</div> </div>
+</div>
+</div>
+</div>
 <div class="container site-info">
 <div class="row">
 <div class="col-md-12">
@@ -272,233 +448,13 @@ ranking on the web. Over 15 million users and counting have trusted our rankings
 <li><a href="/terms">Terms of Service</a></li>
 <li><a href="/privacy">Privacy Policy</a></li>
 <li><a href="/contact">Contact</a></li>
-<li>©
-2018 Faveable Inc.</li>
+<li>© 2019 Faveable Inc.</li>
 </ul>
 </nav>
 </div>
 </div>
 </div>
-</footer>
-<div class="mobile-nav">
-<div class="container">
-<div class="row">
-<div class="col-lg-4 inner">
-<nav class="sidebar-nav medium sidebar-nav-inline">
-<ul>
-<li class="">
-<a class="color-mens" href="/category/mens">
-<i class="category-mens">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Men </a>
-</li>
-<li class="">
-<a class="color-credit-cards" href="/category/credit-cards">
-<i class="category-credit-cards">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Credit Cards </a>
-</li>
-<li class="">
-<a class="color-womens" href="/category/womens">
-<i class="category-womens">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Women </a>
-</li>
-<li class="">
-<a class="color-style" href="/category/style">
-<i class="category-style">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Style </a>
-</li>
-<li class="">
-<a class="color-home" href="/category/home">
-<i class="category-home">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Home &amp; Office </a>
-</li>
-<li class="">
-<a class="color-baby" href="/category/baby">
-<i class="category-baby">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Baby </a>
-</li>
-<li class="">
-<a class="color-health" href="/category/health">
-<i class="category-health">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Health </a>
-</li>
-<li class="">
-<a class="color-outdoors" href="/category/outdoors">
-<i class="category-outdoors">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Outdoors </a>
-</li>
-<li class="">
-<a class="color-pets" href="/category/pets">
-<i class="category-pets">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Pets </a>
-</li>
-<li class=" hide">
-<a class="color-food-and-drink" href="/category/food-and-drink">
-<i class="category-food-and-drink">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Eat </a>
-</li>
-<li class=" hide">
-<a class="color-dating" href="/category/dating">
-<i class="category-dating">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Dating &amp; Sex </a>
-</li>
-<li class=" hide">
-<a class="color-laughter-motivation" href="/category/laughter-motivation">
-<i class="category-laughter-motivation">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Motivation </a>
-</li>
-<li class=" hide">
-<a class="color-entertainment" href="/category/entertainment">
-<i class="category-entertainment">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Entertainment </a>
-</li>
-<li class=" hide">
-<a class="color-tech" href="/category/tech">
-<i class="category-tech">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Tech </a>
-</li>
-<li class=" hide">
-<a class="color-special-occasions" href="/category/special-occasions">
-<i class="category-special-occasions">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>
-Special Occasions </a>
-</li>
-<li>
-<a href="/hamburger/more" class="more-hamburger" name="preventDefault"><i class="category-more">
-<span class="catico">
-<svg version="1.1" class="hexagonal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8V9.3c0-0.7,0.4-1.4,1-1.8l13.1-6.9 c0.5-0.3,1.1-0.3,1.7,0L30,7.6c0.6,0.3,1,1,1,1.8v13.3C31,23.4,30.6,24.1,30,24.4z"></path>
-<path d="M30,24.4l-13.1,6.9c-0.5,0.3-1.1,0.3-1.7,0L2,24.4c-0.6-0.3-1-1-1-1.8L30,7.6c0.6,0.3,1,1,1,1.8v13.3 C31,23.4,30.6,24.1,30,24.4z"></path>
-</svg>
-<i class="icon icon-cat"></i>
-</span>
-</i>More...</a>
-</li>
-</ul>
-</nav>
-</div>
-</div>
-</div>
-</div>
-<div id="giveaway-popup">
+</footer><div id="giveaway-popup" class="hidden-md-down">
 <div id="giveaway-close"><i class="icon-plus"></i></div>
 <div id="giveaway">
 <div class="inner">
@@ -518,11 +474,21 @@ Special Occasions </a>
 for access to exclusive free content -- it's easy!
 </div>
 </div>
-<img class="fill" src="https://res.cloudinary.com/faveable/image/upload/f_auto,q_auto/v1521605657/slider-small_qdt8ns.png" alt="Newsletter signup">
+<img class="fill" data-src="https://res.cloudinary.com/faveable/image/upload/w_800,f_auto,q_auto/v1521605657/slider-small_qdt8ns.png" alt="Newsletter signup">
 </div>
-</div> </div>
-</div>
-<input value="/privacy" id="currentPath" type="hidden">
-<script type="text/javascript" src="/v3/minified/app.v673.min.js"></script>
-
+</div> <input value="/privacy" id="currentPath" type="hidden">
+<script type="text/javascript" src="/v3/minified/app.min.js?v=v13441"></script><script type="text/javascript">
+      (function(w, d, t, u, n, s, e) {
+        w['SwiftypeObject'] = n;
+        w[n] = w[n] || function() {
+          (w[n].q = w[n].q || []).push(arguments);
+        };
+        s = d.createElement(t);
+        e = d.getElementsByTagName(t)[0];
+        s.async = 1;
+        s.src = u;
+        e.parentNode.insertBefore(s, e);
+      })(window, document, 'script', '//s.swiftypecdn.com/install/v2/st.js', '_st');
+      _st('install', 'ZgRVUWHcnq78iHrgfEN8', '2.0.0');
+    </script> 
 </body></html>
