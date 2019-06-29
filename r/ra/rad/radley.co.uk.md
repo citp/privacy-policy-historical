@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730235539id_/https%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629133011id_/https%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
@@ -60,7 +60,7 @@ FAO: Data Privacy Manager
 
 Email:     dataprivacy@radleyandco.com
 
-You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
 **CHANGES TO THE PRIVACY NOTICE AND YOUR DUTY TO INFORM US OF CHANGES   **
 
@@ -112,7 +112,7 @@ We use different methods to collect data from and about you including through:
   7. take part in a Radley + Co event;
   8. submit a product review;
   9. speak to customer services.
-  10. **Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our IP Addresses and Cookies policy for more details. 
+  10. **Automated technologies or interactions.** As you interact with our website and the emails we send to you, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our IP Addresses and Cookies policy for more details. 
 
 
 
@@ -443,13 +443,13 @@ We will use information held about you to carry out our obligations arising from
 
 We may use your data to provide you, via email, post, telephone or SMS with information, products or services that you request from us or which we feel may be of interest to you, or share your details with selected third parties which we believe may be of interest to you, where you have consented to be contacted for such purposes.We may use the data in accordance with the preferences expressed in your acceptance of the Radley cookie policy and terms and conditions of use of the Radley website.
 
-Our [website/app] uses cookies/advertising IDs for the purpose of advertising. This enables us to show our advertisements to visitors who are interested in our products on partner websites and apps. Re-targeting technologies use your cookies or advertising IDs and display advertisements based on your past browsing behaviour. To read more and/or oppose to their services, please refer to their privacy policy [here](https://web.archive.org/web/20180730235539id_/https%3A//www.radley.co.uk/help/%E2%80%9Dhttp://www.criteo.com/privacy/%E2%80%9D).
+Our [website/app] uses cookies/advertising IDs for the purpose of advertising. This enables us to show our advertisements to visitors who are interested in our products on partner websites and apps. Re-targeting technologies use your cookies or advertising IDs and display advertisements based on your past browsing behaviour. To read more and/or oppose to their services, please refer to their privacy policy [here](https://web.archive.org/web/20190629133011id_/https://www.radley.co.uk/help/privacy-cookie-policy/%E2%80%9Dhttps://www.criteo.com/privacy/%E2%80%9D).
 
 ## Security
 
 We realise how important it is to securely store any information that you provide us. The Radley transactional web site currently uses high-level Secure Socket Layer (SSL) encryption technology, the most advanced security software currently available for online transactions. You can therefore rest assured that we take the security of your payment and personal details very seriously. We may vary this in the future if we feel you will benefit from greater security whilst using our Website.
 
-You can tell whether a webpage is secure as 'https' will replace the 'http' at the front of the [www.radley.co.uk](http://www.radley.co.uk/) in your browser address window, also a small locked padlock will appear in your browser window. 
+You can tell whether a webpage is secure as 'https' will replace the 'http' at the front of the [www.radley.co.uk](https://www.radley.co.uk/) in your browser address window, also a small locked padlock will appear in your browser window. 
 
 ## Phishing
 
@@ -459,5 +459,5 @@ Radley will never ask you to send any personal details via email. If we require 
 
 ## Complaints
 
-**If you feel that Radley is not abiding by its posted privacy policy, you should first contact the**[Online Customer Service Department](http://www.radley.co.uk/contacts/) **or telephone +44 (0) 207 741 1055. You can also write to us at:-**  
+**If you feel that Radley is not abiding by its posted privacy policy, you should first contact the**[Online Customer Service Department](https://www.radley.co.uk/contacts/) **or telephone +44 (0) 207 741 1055. You can also write to us at:-**  
 **Radley & Co, McBeath House, 310 Goswell Road, London, EC1V 7LW**
