@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldandnews.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004235350id_/https%3A//www.heraldandnews.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldandnews.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629120041id_/https%3A//www.heraldandnews.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | heraldandnews.com
 
@@ -57,3 +57,14 @@ If you have any questions or comments about our policies, we may be reached c/o 
 ## Prohibited Uses
 
 This Site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this Site. If you have accessed this Site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at gdpr@apwest.com.
+
+[](http://deals.heraldandnews.dailydealbuilder.com/klamath-falls/4895909-the-waffle-hut-eatery)
+
+Sign up today, or manage your subscriptions, to one of our great newsletters: 
+
+  * Aggie Sports
+  * Breaking News
+  * Daily Headlines
+  * and much more!
+
+
