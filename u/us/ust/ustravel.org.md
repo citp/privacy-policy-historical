@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ustravel.org privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823135426id_/https%3A//www.ustravel.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustravel.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629235146id_/https%3A//www.ustravel.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Travel Association
 
-**Privacy Policy - Last Updated: May 25, 2018**
+**Privacy Policy - Last Updated: April 24, 2019**
 
 This statement outlines the policies and practices of U.S. Travel Association (“U.S. Travel”, “We” or “Us”) regarding the collection and use of Your personal information from Your visit at [ustravel.org](http://www.ustravel.org/) or any other websites owned or operated by U.S. Travel, such as ipw.com, travelcoalition.org, esto.ustravel.org, dailygetaways.com; and projecttimeoff.com (collectively, the “Site” or “Sites”), on Our social media pages, in email, text, and other electronic messages between you and the Sites. It includes our policies for U.S. Travel Members and non-members.
 
@@ -118,7 +118,7 @@ By registering for or attending certain events, such as IPW, ESTO and other conf
 
 Our Sites use “Cookie” technology. “Cookies” are encrypted strings of text that a website stores on a user's computer. Our Sites require the use of a “Session” Cookie when accessing the online traveler community. “Session” Cookies are temporary and are automatically deleted once You close your internet browser. Session Cookies allow You to log-in and then view and update your content throughout the Sites during the same session or visit. Our Sites use a “Persistent” Cookie to direct You to the correct country/language version of our Sites for subsequent visits. Persistent Cookies remain on your computer until You delete them or are otherwise removed upon expiration. We do not use Cookies to ascertain any personally identifiable information about You apart from what You voluntarily provide us. Cookies do not corrupt or damage your computer, programs, or computer files. Most browsers have an option to reject or disable cookies, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing You to decide on acceptance of each new cookie in a variety of ways. Although You can block cookies and similar technology, your experience of the Sites and Services could be affected by doing so.
 
-Pixel tags are not visible to the user of the Sites and consist of a few lines of computer code. Pixel tags are not used to collect any personally identifiable information about you. Our Sites use pixel tags to track the aggregate number of page views made on our Sites by all Sites visitors. Our email service provider uses pixel tags to determine your ability to receive HTML-based email messages. This capability helps our service provider send email in a format You can read. The sensor does not collect or use any other information. Pixel tags also allow Us to know how many users open an email and allow our service provider to compile aggregated statistics about an email campaign for us.
+Pixel tags are not visible to the user of the Sites and consist of a few lines of computer code. Pixel tags are not used to collect any personally identifiable information about you. Our Sites use pixel tags to track the aggregate number of page views made on our Sites by all Sites visitors. We also use social media pixels in compliance with the policies of the various social media sites, such as Facebook, Twitter and LinkedIn, to track cookies. These pixels allow social media sites to track visitors to outside websites in order to tailor the advertising messages that users see while visiting that social media website. Our email service provider uses pixel tags to determine your ability to receive HTML-based email messages. This capability helps our service provider send email in a format You can read. The sensor does not collect or use any other information. Pixel tags also allow Us to know how many users open an email and allow our service provider to compile aggregated statistics about an email campaign for us.
 
 **Promotions**
 
@@ -146,7 +146,7 @@ The Sites are not intended for children under 16 years of age. No one under age 
 
 **Changes to U.S. Travel’s Privacy Policy**
 
-In the future, We may need to change this Privacy Policy. All changes will be made here so that You will always know what information We gather, how We might use that information and whether We will disclose it to anyone. This policy was last updated effective May 25, 2018.
+In the future, We may need to change this Privacy Policy. All changes will be made here so that You will always know what information We gather, how We might use that information and whether We will disclose it to anyone. This policy was last updated effective April 25, 2019.
 
 **Your California Privacy Rights**
 
