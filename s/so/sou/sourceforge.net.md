@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226052441id_/https%3A//slashdotmedia.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629171841id_/http%3A//slashdotmedia.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Slashdot Media
 
