@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admiralty.co.uk privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109210736id_/https%3A//www.admiralty.co.uk/Cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admiralty.co.uk privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629105637id_/https%3A//www.admiralty.co.uk/Cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies | ADMIRALTY Maritime Data Solutions | ADMIRALTY
 
@@ -175,8 +175,6 @@ UK Hydrographic Office 
 
 Admiralty Way 
 
-Parsonage Lane 
-
 Taunton 
 
 Somerset 
@@ -205,17 +203,17 @@ Tel: 0303 123 1113  
 
 __
 
-  * We're holding two ADMIRALTY 'A Future with ECDIS' seminars at @SeatradeME next week from 29-30 October, giving you… <https://t.co/WbAtHNRYth>
+  * ADMIRALTY Vector Chart Service (AVCS) is now available online to support shore-based decision making. Find out more… <https://t.co/z2ched0ga4>
 
-About 17 days ago
+About 9 days ago
 
-  * The global #BlueEconomy is predicted to be worth $3trn by 2030 – find out how accurate marine geospatial data can h… <https://t.co/DCbbQlWS2g>
+  * Read our latest blog post to discover how marine geospatial data is key to unlocking the full potential of our ocea… <https://t.co/Bj8cONfPp2>
 
-About 23 days ago
+About 78 days ago
 
-  * In ADMIRALTY Information Overlay V2, we’ve changed the way in which temporary information is shown on ENCs for simp… <https://t.co/613ouYckjP>
+  * Further flag States approve ADP products as SOLAS compliant. An increasing number of vessels join most of the world… <https://t.co/vxQYuW6lcc>
 
-About 46 days ago
+About 134 days ago
 
 
 
