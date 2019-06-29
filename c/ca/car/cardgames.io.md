@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardgames.io privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127004925id_/https%3A//cardgames.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardgames.io privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629121430id_/http%3A//cardgames.io/privacy) for the most accurate reproduction.*
 
 # CardGames.io - PRIVACY POLICY
 
@@ -56,4 +56,4 @@ If you would like more information about any of the above, please do not hesitat
 
 [Click here to go back to the frontpage](https://web.archive.org/). 
 
-This is version 1808 of CardGames.io.
+This is version 2115 of CardGames.io.
