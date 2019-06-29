@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tedprize.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228225256id_/https%3A//www.ted.com/about/our-organization/our-policies-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedprize.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629225851id_/https%3A//www.ted.com/about/our-organization/our-policies-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Our policies + terms | Our Organization | About | TED
 
 About  ›  [Our Organization](https://web.archive.org/about/our-organization)  ›  [Our policies + terms](https://web.archive.org/about/our-organization/our-policies-terms)  ›  
 
-Updated: May 15, 2018
+Updated: February 5, 2019
 
 **Introduction**  
 TED is a global community, welcoming people from every discipline and culture who seek a deeper understanding of the world. While gathering information about the people who use TED.com, our apps, platforms and related sites (collectively referred to as “TED Sites”), we take your privacy very seriously and make every effort to safeguard your personal data. This privacy policy is intended to inform you of what information we collect, how this information is used and what steps we take to protect this information, as well as providing you a process to update, change or delete your personal data.
@@ -89,9 +89,10 @@ We may collect non-personal information about the computer, mobile device or oth
 
 ##### Tracking usage
 
-We use various technologies, including Google Analytics cookies, to manage TED.com and track use of the content we provide, including:
+We use various technologies, such as Google Analytics cookies, to manage TED.com and track use of the content we provide, as well as Facebook to help us better target advertising on platforms that market TED to their users, including:
 
   * standard web analytics information,
+  * behavioral advertising which allows third parties to collect cookies to help TED advertise offerings more efficiently,
   * aggregated data about email click-through rates and video viewing,
   * data collected through HTML cookies, flash cookies, web beacons and similar technologies, and
   * demographics and other details to help us customize our sites based on your preferences.
@@ -135,6 +136,10 @@ We may use the data to prevent illegal activities, to enforce the TED.com Terms 
 ##### Personalization
 
 TED connects Google Analytics client ID data with TED user ID data so that we can create a more personalized experience for users, even when not logged in.
+
+##### Behavioral advertising
+
+In order to help TED better market on third party platforms, TED works with third parties to collect information about your use of our website so that TED can provide advertising about TED’s offerings (such as products and services) tailored to your interests, including free educational resources and content recommendations. That advertising may appear either on our website, on our apps, or on other websites.
 
 ##### Program specific uses
 
@@ -286,8 +291,13 @@ We do not knowingly collect personal information from children under 13 without 
 
 ##### Changes to this privacy policy
 
-This privacy policy may be updated from time to time, and when the policy is updated, the version date will appear at the top of this privacy policy. If we make material changes, you will be notified here for a period of 30 - 60 days based on our last update. As of July 2016, we added information to our privacy policy to define cookies and outline how we use this data to optimize our website based on your preferences, and made a change to our policy update section. As of May 2018, we added information to our privacy policy based on new requirements from GDPR, including more details pertaining to: what type of personal information TED collects, how TED uses this information and a process in which users can update their information.
+This privacy policy may be updated from time to time, and when the policy is updated, the version date will appear at the top of this privacy policy. If we make material changes, you will be notified here for a period of 30 - 60 days based on our last update. As of July 2016, we added information to our privacy policy to define cookies and outline how we use this data to optimize our website based on your preferences, and made a change to our policy update section. As of May 2018, we added information to our privacy policy based on new requirements from GDPR, including more details pertaining to: what type of personal information TED collects, how TED uses this information and a process in which users can update their information. As of February, 2019, we added details on how TED uses cookies to help TED with targeted marketing on third party platforms, such as Facebook, as well as information on how to deactivate cookies when browsing the TED website based on industry tools and sites that help you personalize your settings with respect to cookies and advertising. 
 
 ##### Deactivating your account and managing privacy settings
 
 You can request that your account be deactivated at any time by contacting us. When your account is deactivated, your user profile and all public activities (such as comments) will be hidden. You can also manage who can view your TED.com profile activity in the Privacy tab of your profile's account settings. To unsubscribe from our newsletters, click on the link at the bottom of a newsletter you have received, or you can manage your subscriptions from your TED.com profile. For any other changes regarding your personal data, please contact [privacy@ted.com](mailto:privacy@ted.com) with your request and we will respond to you promptly. 
+
+##### Deactivating target advertising
+
+If you wish to opt out of advertising based on your browsing activities, interests and geographic location, you can opt to only receive generic advertising; for more information, please visit <http://preferences-mgr.truste.com/>.  
+To learn more about targeted advertising, please refer to the Digital Advertising Alliance on how you may opt out: <http://www.aboutads.info/PMC>; and/or Facebook to learn more about cookies when you are on their site: <https://www.facebook.com/policy/cookies/>.
