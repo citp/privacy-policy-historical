@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stitcher.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228032017id_/https%3A//www.stitcher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitcher.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630014532id_/https%3A//www.stitcher.com/privacy) for the most accurate reproduction.*
 
-# Stitcher Radio | Privacy Statement
+# Stitcher for Podcasts | Privacy Statement
 
 Last Revision: 11/26/2012
 
@@ -77,4 +77,4 @@ This Privacy Policy and the privacy practices of Stitcher will be subject exclus
 
 ## How To Contact Us
 
-Should you have any questions relating to this Privacy Policy, please contact us at [support@stitcher.com](mailto:support@stitcher.com). You may also contact us by mail: Stitcher, Inc., 527 Howard St. 4th Floor San Francisco CA 94105. 
+Should you have any questions relating to this Privacy Policy, please contact us at [support@stitcher.com](mailto:support@stitcher.com). You may also contact us by mail: Stitcher, Inc., 250 Montgomery St, 15th Floor, San Francisco, CA 94105 
