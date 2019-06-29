@@ -1,1132 +1,206 @@
-<!--The following is the downloaded HTML source of the aparchive.com privacy policy that was archived on 2018-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180523004826id_/http%3A//www.aparchive.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aparchive.com privacy policy that was archived on 2019-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190629232054id_/https%3A//www.ap.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-    <title>Privacy Policy | AP Archive</title>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="Stylesheet" href="/css/ap-v2.0.0.36151.css" type="text/css">
-    <link rel="Stylesheet" href="/css/alert.css?rev=13.2" type="text/css">
-    <link rel="Stylesheet" href="/css/ap_org_styles.css?rev=13.2" type="text/css">
-    <link rel="Stylesheet" href="/css/grid_framework.css?rev=13.2" type="text/css">
-    <link rel="Stylesheet" href="/css/typography.css?rev=13.2" type="text/css">
-    <link rel="Stylesheet" href="/css/jquery.ui.selectmenu.css?rev=13.2" type="text/css">
-    <link rel="Stylesheet" href="/css/jquery.multiselect.css?rev=13.2" type="text/css">
-    <link rel="Stylesheet" href="/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css">
-
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
-    <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/mvc/3.0/jquery.validate.unobtrusive.min.js"></script>
-        <script type="text/javascript" src="/js/ap-v2.0.0.36151.js"></script>   
-
-    <script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
-    <script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.js"></script>
-    <script type="text/javascript" src="/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
-    <script type="text/javascript" src="/js/jlib_ap.org.js"></script>
-    <script type="text/javascript" src="/js/jwPlayer/jwplayer.js"></script>
-    <script type="text/javascript">
-        jwplayer.key = "IVNn2IuHyR3YRsCHors1X3BP7BSYGIWCLEWgF5iUUOk=";
-        window.IsMindecUser = false;
-    </script>
-
-    <script type="text/javascript">
-        var addProjectDialog;
-        var renameProjectDialog;
-        var addFolderDialog;
-        var applyForLicenceDialog;
-        var deactivateProjecteDialog;
-        var confirmDialog;
-        var shareDialog;
-        var messageBox;
-        var downloadDialog;        
-
-        $(document).ready(function () {
-            AP.config.WEBROOT = '/';
-
-            //Sorting Feature
-            $(".ap-sortable").sortable({
-                serialize: { attribute: "data-id" },
-                cancel: '.ap-sortable .workspaceItem span,' +
-                        '.ap-sortable .workspaceItem a,' +
-                        '.ap-sortable .workspaceItem .comment,' +
-                        '.ap-sortable .folderItem .details,' +
-                        '.ap-sortable .folderItem .commentList' +
-                        'ul.ui-sortable li',
-                update: function (event, ui) {
-                    var ids = $(this).sortable("toArray", { attribute: "data-id" }).join();
-                    var type = $(ui.item).data("type");
-
-                    $.ajax({
-                        url: "/Workspace/Sequence",
-                        data: { ItemIds: ids, ItemType: type },
-                        type: "POST",
-                        success: function (json) {
-                            var success = json.IsSuccess;
-                        }
-                    });
-                }
-            });
-            //End of Sorting
-            //dialogs
-            addFolderDialog = $('#addFolderDialog').apUiModal();
-            $('*[ap-action="add-folder"]').apWorkspaceAddFolder(addFolderDialog);
-            $('*[ap-action="request-licence"]').apWorkspaceApplyForLicence();
-            deactivateProjecteDialog = $("#deactivateProjectDialog").apUiModal();
-            $('*[ap-action="deactivate-project"]').apWorkspaceDeactivateProject(deactivateProjecteDialog);
-            confirmDialog = $('#confirmDialog').apUiModal();
-            $('*[ap-action="confirm-registration"]').apWorkspaceConfirmRegistration(confirmDialog);
-            shareDialog = $('#shareDialog').apUiModal();
-            $('*[ap-action="share"]').apWorkspaceShare(shareDialog);
-            messageBoxDialog = $('#messageBoxDialog').apUiModal();
-            $('*[ap-action="messagebox"]').apWorkspaceShare(messageBoxDialog);
-            downloadDialog = $('#downloadDialog').apUiModal();
-            $('*[ap-action="download"]').apWorkspaceDownload(downloadDialog);
-            addProjectDialog = $('#addProjectDialog').apUiModal();
-            $('*[ap-action="add-project"]').apWorkspaceAddProject(addProjectDialog);
-
-            //browser           
-            if ($.cookie("AP.browser") !== "1") {
-                $.cookie("AP.browser", 1);
-
-                //http://javascriptly.com/2008/09/javascript-to-detect-google-chrome/
-                var ua = navigator.userAgent.toLowerCase();
-                var browser = {
-                    version: (ua.match(/.+(?:rv|it|ra|ie|me)[\/: ]([\d.]+)/) || [])[1],
-                    chrome: /chrome/.test(ua),
-                    safari: /webkit/.test(ua) && !/chrome/.test(ua),
-                    opera: /opera/.test(ua),
-                    msie: /msie/.test(ua) && !/opera/.test(ua),
-                    mozilla: /mozilla/.test(ua) && !/(compatible|webkit)/.test(ua)
-                };
-
-                var version = parseFloat(browser.version);
-                var ok = (browser.mozilla && version > 9) || (browser.chrome && version > 11) || (browser.msie && version > 7) || (browser.safari && version > 5);
-                if (!ok) { window.location = AP.config.WEBROOT + "browser"; }
-            }
-        });
-    </script>
-    <script type="text/javascript" src="/js/jquery.unobtrusive-ajax.min.js?rev=13.2"></script>
-    <script type="text/javascript" src="/js/jquery.form.js?rev=13.2"></script>
-    <script type="text/javascript" src="/js/jquery.watermark.js?rev=13.2"></script>
-    <script type="text/javascript" src="/js/jquery-ui.min.js?rev=13.2"></script>
-    <script type="text/javascript" src="/js/jquery.BlockUI.js?rev=13.2"></script>
-    <script type="text/javascript" src="/js/slimScroll.js?rev=13.2"></script>
-    <script type="text/javascript" src="/js/slimScroll.min.js?rev=13.2"></script>
-    <script type="text/javascript" src="/js/json2.js?rev=13.2"></script>
-    <script type="text/javascript" src="/js/jquery.cookie.js?rev=13.2"></script>
-    <script type="text/javascript" src="/js/jquery.json.js?rev=13.2"></script>
-    <script type="text/javascript" src="/js/jquery.ui.selectmenu.js?rev=13.2"></script>
-    <script type="text/javascript" src="/js/jquery.highlight.js?rev=13.2"></script>
-    <script type="text/javascript" src="/js/jquery.multiselect.js?rev=13.2"></script>
-    
-    
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19104461-9']);
-
-  _gaq.push(['_setCustomVar', 1, 'OrgId', '0', 3]);
-
-  _gaq.push(['_setCustomVar', 2, 'OrgName', '', 3]);
-
-  _gaq.push(['_setCustomVar', 3, 'UserId', '0', 3]);
-
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-</head>
-<body vlink="#b503b0">
-    
-<script type="text/javascript">
-    $(document).ready(function () {
-
-        $('input[name="query"]').apFormToggleField();
-
-        $('#searchButton').click(function () {
-            $(this).css({ // this is just for style
-                "background-color": "#146994"
-            });
-        });
-
-        $("#userinfodialog").dialog({
-            autoOpen: false,
-            modal: true,
-            height: 500,
-            width: 1000,
-            resizable: true
-
-
-        });
-
-        $("a#getuserinfo").click(function () {
-            $("#userinfodialog").dialog("open");
-        });
-
-        // Initialize search box watermark.
-        updateSearchBox($('#query'));
-
-        // Hide or show the magnifying glass in the search box, depending if text is entered.
-        $('#query').blur(function () {
-            updateSearchBox(this);
-        });
-
-        // set advanced pop up position
-        GetAbsolutePosition();
-
-        // set advanced pop up position when resize window
-        $(window).resize(function () {
-            GetAbsolutePosition();
-        });
-
-        $("a.advsearchbutton").click(function () {
-            var mysearch = '';
-            var allfilter = SearchHandler.getAllFiltersState();
-            var startdate = $("#searchStartDate").val();
-            var enddate = $("#searchEndDate").val();
-            var surl = "/search/GetAdvancedSearch?query=" + mysearch + "&allFilters=" + allfilter + "&startd=" + startdate + "&endd=" + enddate + "&callback=?";
-            if (document.location.protocol.toLowerCase() == "https:") {
-                surl = document.location.protocol + "//" + location.host + surl;
-            }
-            $.ajax({
-                type: 'POST',
-                url: surl,
-                async: false,
-                dataType: "jsonp",
-                contentType: "application/json; charset=utf-8",
-                data: "{ }",
-                success: function (result) {
-                    JsonCallbackFuntion(result);
-                },
-                error: function (xhr, settings, exception) {
-                    alert(settings);
-                }
-            });
-        });
-
-    });
-
-    function JsonCallbackFuntion(result) {
-        $("#advancesearchPopup").html(result.Content);
-        
-        if (!$('.advancedSearch').is(":visible")) {         
-            $("a.advsearchbutton").css({ "border-left": "10px solid #727272" });
-            $("a.advsearchbutton").css({ "border-right": "10px solid #727272" });
-            $("a.advsearchbutton").css({ "border-left": "10px solid rgba(0,0,0,.55)" });
-            $("a.advsearchbutton").css({ "border-right": "10px solid rgba(0,0,0,.55)" });
-            $("a.advsearchbutton").css({ "background-color": "#ffffff" });
-            $("a.advsearchbutton").css({ "height": "42px" });    
-            var overlayheight = $(document).height() - 170;     
-            $('#oe_overlay').css({ "height": overlayheight});
-            document.getElementById('oe_overlay').style.display = 'block';
-           
-        }
-        $('.advancedSearch').slideToggle('fast', function () {
-            if (!$(this).is(":visible")) {                
-                $("a.advsearchbutton").css({ "border-left": "none" });
-                $("a.advsearchbutton").css({ "border-right": "none" });
-                $("a.advsearchbutton").css({ "background-color": "#EFEFEF" });
-                $("a.advsearchbutton").css({ "height": "40px" });
-                document.getElementById('oe_overlay').style.display = 'none';              
-            }
-          
-        });
-
-    }
-
-    function GetAbsolutePosition() {
-        var absoluteLeft = $("a.advsearchbutton").offset().left;
-        var absoluteRight = absoluteLeft - 627;
-        $("ul.advancedSearch").css({ "left": absoluteRight });
-    }
-</script>
-
-
-<style type="text/css">
-#SSO {
-    background-color: #000000;
-    border-bottom: 0px solid #333333;
-    color: #5A5959;
-    float: left;
-    font-family: "GoodWeb-Book",Arial Narrow,Trebuchet,Arial,sans-serif;
-    font-size: 13px;
-    margin: 0;
-    padding: 0;
-    width: 100%;
-}
-
-#SSO ul {
-    display: block;
-    margin: 0 0 0 10px;
-} 
-
-#SSO ul li {
-    float: left;
-    height: 10px;
-    line-height: 0;
-    list-style: none outside none;
-    padding: 12px 0 4px 20px;
-} 
-
-#SSO a {
-    color: #b6b6ab;
-    text-decoration:none;
-}
-
-#SSO a:hover {
-    color: #eee;
-}
-
-#SSO a.active {
-    color: #fff;
-}
-.advanceddropdown ul.advancedSearch {
-   top: 171px;
-}
-
-</style>
-
-<script>
-    function redirectWithDelay(link) {
-        var l = link;
-        setTimeout(function () { location = l.href }, 250);
-        return false;
-    }
-</script>
-
-<div id="SSO">
-	<ul>
-		<li>
-			<a href="http://www.ap.org/" onclick="_gaq.push(['_trackEvent', 'AP', 'Click']); return redirectWithDelay(this);">AP</a>
-                 </li>
+<!DOCTYPE html><html lang="en" class="no-js"><head>
+	<!-- Project 2.0.0 (ES)  -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-itunes-app" content="app-id=364677107, affiliate-data=, app-argument=">    <link rel="preload" as="font" href="/assets/fonts/goodot-book-webfont.eot">
+    <link rel="preload" as="font" href="/assets/fonts/goodot-book-webfont.woff">
+    <link rel="preload" as="font" href="/assets/fonts/goodot-bold-webfont.eot">
+    <link rel="preload" as="font" href="/assets/fonts/goodot-bold-webfont.woff">
+    <link rel="preload" as="font" href="/assets/fonts/freigtexprobook-webfont.eot">
+    <link rel="preload" as="font" href="/assets/fonts/freigtexprobook-webfont.woff">    
+    <link rel="preload" as="font" href="/assets/fonts/goodweb-condbook.eot">
+    <link rel="preload" as="font" href="/assets/fonts/goodweb-condbook.woff">    
+    <link rel="preload" as="font" href="/assets/fonts/goodweb-condbold.eot">
+    <link rel="preload" as="font" href="/assets/fonts/goodweb-condbold.woff">    
+    <link rel="stylesheet" href="/assets/styles/site.css" media="all">
 		
-<li>|</li>	    
+    <meta name="format-detection" content="telephone=no">
+    <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/assets/scripts/vendor/modernizr.js"></script>
+	  <script src="/assets/scripts/vendor/jquery.js"></script>
+    <script src="//searchg2-assets.crownpeak.net/crownpeak.searchg2-1.0.2.min.js"></script>
 		
-		<li>
-			<a href="http://www.apimages.com" onclick="_gaq.push(['_trackEvent', 'IMAGES', 'Click']); return redirectWithDelay(this);">AP Images</a>
-                </li>
-	</ul>
-</div>
-<div style="clear: both"></div>
-
-<div id="topnavContainer" class="container">
-    <div class="grid_8a" id="topnav">
-        <div id="TopLogoContainer">
-            <a href="/">
-                <img src="/i/logo-apMark.png" alt="AP" class="mark"></a>
-        </div>
-        <div>
-            <a href="/">
-                <img src="/i/logo-archive.png" alt="AP Archive" class="logo-aparchive"></a>
-        </div>
-    </div>
-    <div class="grid_8" id="topright">
-
-<link rel="shortcut icon" href="/images/icons/favicon.ico" type="image/vnd.microsoft.icon">
-<link href="/css/navigation.css" rel="stylesheet">
-<link href="/css/navigation2.css" rel="stylesheet">
-<script type="text/javascript" src="/js/jquery.hoverIntent.js"></script>
-<script type="text/javascript" src="/js/bootstrap-dropdown.js"></script>
-<script type="text/javascript">
-	var length = 0;
-	$(document).ready(function () {
-	    //$('.dropdown-toggle-topnav').dropdown();
-	    $(".hover-menu").hoverIntent({
-	        sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)
-	        interval: 0,   // number = milliseconds for onMouseOver polling interval
-	        over: function () { $(this).children(".actions").slideDown("fast"); closedAdavncedSearch(); },     // function = onMouseOver callback (required)
-	        timeout: 100,  // number = milliseconds delay before onMouseOut
-	        out: function () { $(this).children(".actions").hide(); }       // function = onMouseOut callback (required)
-	    });
-
-	    var changeTimeZone = $('#timeZoneFormatDialog').apUiModal();
-	    $('#changeTimeZone').apRequestsChangePreferences(changeTimeZone);
-
-	    var changePasswordDialog = $('#changePasswordDialog').apUiModal();
-	    $('#changePassword').apRequestsChangePassword(changePasswordDialog);
-
-	    $('#PackageDialog').hide();
-	    $('.dropdown-toggle-topnav').click(function () {
-	        length = 0;
-	        hidepopup();
-	    });
-	    $("body").click(function (event) {
-	        if (length == 0) {
-	            hidepopup();
-	        }
-	    });
-	    $('#PackageDialog').live("mouseenter mouseleave", function (event) {
-	        if (event.type == 'mouseleave') {
-	            length = 0;
-	        }
-	        else
-	        { length = 1; }
-	    });
-
-	    // highlights selected menus
-	    LoadMenuHighLights();
-
-	    $(".lowerheader a:not(a:first), .topHeader a").click(function () {
-	        //$(this).css({ "color": "#ecb200" });
-	    });
-	    SetNotificationBarPosition();
-	    $(window).resize(function () {
-	        SetNotificationBarPosition();
-	    });
-
-	    // Add class to notification bar on mouse hover
-	    $('#myNotification').live("mouseenter mouseleave", function (event) {
-	        if (event.type == 'mouseleave') {
-	            $("#myNotification").css({ "background-color": "transparent" });
-	            $("#myNotification a.togglenav").removeClass("topNavStyles");
-	        }
-	        else {
-	            $("#myNotification").css({ "background-color": "rgba(0,0,0,.55)" });
-	            $("#myNotification a.togglenav").addClass("topNavStyles");
-	        }
-	    });
-
-	});
-
-	function runEffect() {
-		// get effect type from 
-		var $choices = $('div#PackageDialog');
-		if ($choices.css("display") == "none") {
-			length = 1;
-			// $choices.show();      
-			$(".gbmac").css({ // this is just for style
-				"visibility": "hidden"
-			});
-		}
-		else {
-			length = 0;
-			//$choices.hide();    
-			$(".gbmac").css({ // this is just for style
-				"visibility": "hidden"
-			});
-		}
-	}
-	function hidepopup() {
-		$(".gbmac").css({ // this is just for style
-			"visibility": "hidden"
-		});
-
-		$("#PackageDialog").hide();
-		$(".lowerheader a:not(a:first), .topHeader a").css({ "color": "" });   //remove dynamically added style
-	}
-	function newPopup(url) {
-		popupWindow = window.open(url, 'popUpWindow', 'height=700,width=800,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
-     }
-	function routeUrl() {
-	        document.location.href = "/partners";
-     }
-
-     function SetNotificationBarPosition() {
-         if ($("#myNotification").length > 0) {
-             var curr_width = $("#myNotification").outerWidth();
-             var leftposition = $("#myNotification").position().left;
-             $("ul.notificationNav").css({ "left": (leftposition - 386) + curr_width });
-             var elementwidth = $("#myNotification a.notificationTag").outerWidth();
-             $(".notificationtopdiv").width(elementwidth);
-         }
-     }
-</script>
-
-    <div style="float: right;" class="topHeader">
-        <div style="padding: 3px 20px 0 0; color: #fff; font: normal 12px GoodWeb-Book, Verdana, Arial, Helvetica, sans-serif;">
-            <span>Welcome &nbsp;Guest</span></div>
-        <div style="padding: 3px 0px 0 0; color: #fff; font: normal 12px GoodWeb-Book, Verdana, Arial, Helvetica, sans-serif;">
-            <span><a id="signInOrRegister" href="/login">Sign in or Register</a></span></div>
-    </div>
-    <div style="float: right; margin-top: 12px; width: auto;" class="inactivenav lowerheader">
-        <div id="homeMenu" style="padding: 10px 20px 0 0;" onclick="HighLightsMenuItem('home')">
-            <a href="/">Home</a></div>
-        <div id="compilationsMenu" class="compilationpop hover-menu" onclick="LoadMenuHighLights()" style="padding: 10px 20px 0 7px; position: relative;" ap-action="package">
-            <a href="/Compilation">AP Compilations<b class="caret-topnav" style="margin: 6px 0 0 4px;"></b><span class="gbmac"></span></a>
-            <ul class="actions dropdown-menu-topnav" style="top: 29px; left: -300px; padding: 12px 0 0 0;
-                margin: 0px; width: 644px; font: normal 12px GoodWeb-Book; text-transform: none;">
-
-<script type="text/javascript">
-    $(document).ready(function () {
-        $('.category-widget a').click(function () {
-            $(this).css({ // this is just for style
-                "color": "#ecb200"
-            });        
-        });
-    });
-</script>
-<div class="categories">
-    <div class="category-group">
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19602/Accidents_Disasters" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Accidents &amp; Disasters', 'Accidents &amp; Disasters']);">Accidents &amp; Disasters</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19604/AP Annual Reviews" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'AP Annual Reviews', 'AP Annual Reviews']);">AP Annual Reviews</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19603/AP Annual Entertainment Reviews" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'AP Annual Entertainment Reviews', 'AP Annual Entertainment Reviews']);">AP Annual Entertainment Reviews</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19606/Conflicts_Terrorism" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Conflicts &amp; Terrorism', 'Conflicts &amp; Terrorism']);">Conflicts &amp; Terrorism</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19607/Crime" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Crime', 'Crime']);">Crime</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19608/Economy" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Economy', 'Economy']);">Economy</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19609/Fashion_Lifestyle" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Fashion &amp; Lifestyle', 'Fashion &amp; Lifestyle']);">Fashion &amp; Lifestyle</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19611/Iraq" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Iraq', 'Iraq']);">Iraq</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19612/Location Stockshots" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Location Stockshots', 'Location Stockshots']);">Location Stockshots</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19613/Movements_Political Events" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Movements &amp; Political Events', 'Movements &amp; Political Events']);">Movements &amp; Political Events</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19614/Natural World_Environment" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Natural World &amp; Environment', 'Natural World &amp; Environment']);">Natural World &amp; Environment</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19615/North Korea" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'North Korea', 'North Korea']);">North Korea</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19616/Olympics" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Olympics', 'Olympics']);">Olympics</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19617/People" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'People', 'People']);">People</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19618/Space Exploration" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Space Exploration', 'Space Exploration']);">Space Exploration</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19619/Sports" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Sports', 'Sports']);">Sports</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19620/Universal Annual Reviews" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Universal Annual Reviews', 'Universal Annual Reviews']);">Universal Annual Reviews</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19621/Universal Newsreels" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Universal Newsreels', 'Universal Newsreels']);">Universal Newsreels</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19622/US Presidential Elections 2008" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'US Presidential Elections 2008', 'US Presidential Elections 2008']);">US Presidential Elections 2008</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19623/Vietnam War" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Vietnam War', 'Vietnam War']);">Vietnam War</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/19624/Wackies" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Wackies', 'Wackies']);">Wackies</a>
-                </div>
-            </div> 
-    </div>
-</div>
-
-            </ul>
-        </div>
-        <div id="partnersMenu" class="hover-menu" onclick="routeUrl();" style="padding: 10px 0px 0 3px;">
-            <a class="dropdown-toggle-topnav" data-toggle="dropdown" href="#partnerFilter" onclick="LoadMenuHighLights()" style="display: inline; padding-top: 0px;">Partners<b class="caret-topnav" style="margin: 6px 0 0 4px;"></b>
-            </a>
-            <ul class="actions dropdown-menu-topnav" style="top: 67px; left: 460px; padding: 2px 0 0 0;
-                margin: 0px; text-transform: none; font-size: 12px; font-family: GoodWeb-Book;">
-                <li><a href="/partners">All Partners</a></li>
-                    <li><a href="/partner/ABC%20News" onclick="_gaq.push(['_trackEvent', 'Partner Link', 'ABC News', 'ABCNewsUser']);">ABC News</a></li>                                
-                    <li><a href="/partner/British%20Movietone" onclick="_gaq.push(['_trackEvent', 'Partner Link', 'British Movietone', 'movietoneuser']);">British Movietone</a></li>                                
-                    <li><a href="/partner/CCTV%20Plus" onclick="_gaq.push(['_trackEvent', 'Partner Link', 'CCTV Plus', 'CCTV News Content']);">CCTV Plus</a></li>                                
-                    <li><a href="/partner/Celebrity%20Footage" onclick="_gaq.push(['_trackEvent', 'Partner Link', 'Celebrity Footage', 'celebfootageuser']);">Celebrity Footage</a></li>                                
-                    <li><a href="/partner/TV%20Globo" onclick="_gaq.push(['_trackEvent', 'Partner Link', 'TV Globo', 'TV Globo']);">TV Globo</a></li>                                
-                    <li><a href="/partner/SNTV%20Archive" onclick="_gaq.push(['_trackEvent', 'Partner Link', 'SNTV Archive', 'celebfootageuser']);">SNTV Archive</a></li>                                
-                    <li><a href="/partner/TV-am" onclick="_gaq.push(['_trackEvent', 'Partner Link', 'TV-am', 'tvamuser']);">TV-am</a></li>                                
-            </ul>
-        </div>
-    </div>        
+	  <title>Privacy policy</title>
 
 
-    </div>
-    <div class="clearfix">
-    </div>
-</div>
-<div id="topbanner" class="container">   
-    <table style="float: right;">
-        <tbody><tr>
-            <td>
-                <div class="searchBar">
-                    <form id="search" name="input" action="/search">
-                    <input type="hidden" id="searchStartDate" name="startd">
-                    <input type="hidden" id="searchEndDate" name="endd">
-                    <input type="hidden" id="searchAllFilters" name="allFilters">   
-                                   
-                    <ul style="width: 683px;">
-                        <li>
-                            <input type="text" name="query" id="query" class="searchTextBox" title="Explore our exclusive footage" style=" height:40px;"></li>
-                        <li class="advanceddropdown" style="width: 113px;"><a class="advsearchbutton dropdown-toggle-topnav" data-toggle="dropdown" href="#advsearchbutton" style="border-radius: 0px; height: 40px;
-                            line-height: 40px; display: block; padding: 0; text-align: center;">Advanced<b class="caret-topnav" style="margin: 18px 0 0 4px; color:Black;"></b></a>
-                            <ul class="advancedSearch dropdown-menu-topnav" style="filter: none;">
-                                <li style="width: 720px;">
-<link rel="Stylesheet" href="../../css/jquery.ui.selectmenu.css" type="text/css">
-<script type="text/javascript" src="../../js/jquery.ui.selectmenu.js"></script>
-<script type="text/javascript">
-    $(document).ready(function () {
+<meta name="title" content="Privacy policy">
+<meta name="description" content="">
+<meta name="keywords" content="Associated Press, AP">
+<meta name="robots" content="">
 
-        var selectedsubval = $.cookie('selectedsubscription');
-        if (selectedsubval != "" && selectedsubval != null && selectedsubval != undefined) {
-            $("#subscitionddl").val(selectedsubval);
-        }
+<meta name="page_id" content="18897">
+<link rel="canonical" href="https://www.ap.org/privacy-policy">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.ap.org/privacy-policy">
 
-        $("#advancedsearch").click(function () {
-            if (ValidateAdvancedFilters()) {
-                SearchHandler.setErrorMessage("", "errormessage");
-                AddDateFilter();
-                return search();
-            }
-            else {
-                return false;
-            }
-        });
-
-        $("#decadeddl").multiselect({
-            selectedText: "# of # selected",
-            noneSelectedText: 'Select an Option',
-            minWidth: '160',
-            checkAll: function () { ValidateAdvancedFilters(); SearchHandler.clickAdvDecadeFilter("Decade"); },
-            uncheckAll: function () { ValidateAdvancedFilters(); SearchHandler.clickAdvDecadeFilter("Decade"); $.removeCookie('selecteddecade'); }
-        });
-
-        var decadefilter = $.cookie('selecteddecade');
-        if (decadefilter != "" && decadefilter != null && decadefilter != undefined) {
-            $('#decadeddl').val(decadefilter.split(','));
-            $('#decadeddl').multiselect('refresh');
-        }
-
-        $('.ui-multiselect-menu').css({ 'width': '160' });
-        $("#decadeddl").bind("multiselectclick", function (event, ui) {
-            ValidateAdvancedFilters();
-            SearchHandler.clickAdvDecadeFilter("Decade");
-        });
-        $('.advsearchDateFilter .date').apDateInputInit('/i');
-
-        $('#subscitionddl').selectmenu({
-            style: 'dropdown',
-            direction: "down",
-            speed: 1000,
-            menuWidth: 200,
-            maxHeight: 200,
-            format: TextFormatting,
-            change: function () {
-                var selectedvalue = $(this).val();
-                if (selectedvalue != "" && selectedvalue != null && selectedvalue != undefined) {
-                    SearchHandler.ClickAdvsubscriptionFiler("Products", selectedvalue);
-                }
-                else {
-                    SearchHandler.ClickAdvsubscriptionFiler("Products", selectedvalue);
-                    //SearchHandler.filters.removeByCategory("Products");
-                    //$.cookie.set('selectedsubscription', "");
-                }
-            }
-        });
-
-        SetCheckboxstyles();
-
-    });
-
-    //a custom format option callback
-    var TextFormatting = function (text) {
-        var newText = text;
-        //array of find replaces
-        var findreps = [
-		  { find: /^([^\;]+) \; /g, rep: '<span class="ui-selectmenu-item-header">$1</span>' },
-		  { find: /([^\|><]+) \| /g, rep: '<span class="ui-selectmenu-item-content">$1</span>' },
-		  { find: /([^\|><\(\)]+) (\()/g, rep: '<span class="ui-selectmenu-item-content">$1</span>$2' },
-		  { find: /([^\|><\(\)]+)$/g, rep: '<span class="ui-selectmenu-item-content">$1</span>' },
-		  { find: /(\([^\|><]+\))$/g, rep: '<span class="ui-selectmenu-item-footer">$1</span>'}];
-        for (var i in findreps) {
-            newText = newText.replace(findreps[i].find, findreps[i].rep);
-        }
-        return newText;
-    }
-
-    function closedAdavncedSearch() {
-        $("a.advsearchbutton").css({ "border-left": "none" });
-        $("a.advsearchbutton").css({ "border-right": "none" });
-        $("a.advsearchbutton").css({ "background-color": "#EFEFEF" });
-        $("a.advsearchbutton").css({ "height": "40px" });
-       // $('#main').css('opacity', 1);       
-        $('.advancedSearch').slideUp();
-        document.getElementById('oe_overlay').style.display = 'none';     
-    }
-
-    function search() {
-        // Track GA event for search filter.
-        _gaq.push(['_trackEvent', 'Filters (Advanced)', SearchHandler.getAllFiltersState()]);
-
-        // Disable the submit button to avoid multiple clicks.
-        $("#advancedsearch").attr('disabled', true);
-        $("#advancedsearch").addClass('disabled');
-
-        // After 1 second, submit the form.
-        setTimeout(function () {
-            document.getElementById('search').submit();
-        }, 600);
-
-        return false;
-    }
-
-    function AddDateFilter() {
-              //First remove date filter, then apply new if dates are not null
-        var category = "Date";
-        SearchHandler.filters.removeByCategory(category);
-        var startDate = $("#advsearchStartDateFilter").getDateValue();
-        var endDate = $("#advsearchEndDateFilter").getDateValue();
-        if (startDate != null && startDate != "" && endDate != null && endDate != "") {
-            SearchHandler.filters.add(category, $("#advsearchStartDateFilter").val() + "-" + $("#advsearchEndDateFilter").val());
-        }
-        $("#searchStartDate").val(isNaN(startDate) ? "" : $.datepicker.formatDate('mm/dd/yy', startDate));
-        $("#searchEndDate").val(isNaN(endDate) ? "" : $.datepicker.formatDate('mm/dd/yy', endDate));
-        SearchHandler.setAllFiltersState(SearchHandler.filters.toString());     
-        if (SearchHandler.removeAdvancedFilters == true) {
-//            SearchHandler.filters.removeByCategory("AspectRatio");
-//            SearchHandler.filters.removeByCategory("IsHd");
-//            SearchHandler.filters.removeByCategory("IsColor");
-//            SearchHandler.filters.removeByCategory("IsDigitized");
-//            SearchHandler.filters.removeByCategory("Partner");
-//            SearchHandler.filters.removeByCategory("Decade");
-//            SearchHandler.filters.removeByCategory("Products");
-            SearchHandler.filters.removeAllFilters();
-            $.removeCookie('setallfilters');
-            $.removeCookie('selecteddecade');
-            $.removeCookie('selectedsubscription');
-            $("#producttypeid").val("IncludedProducts");
-            TabIndex = 0;           
-            SearchHandler.setAllFiltersState("");
-        }
-        else {
-            $.each(SearchHandler.AdvfiltersArray, function (i, value) {
-                var filter = value.split(":");
-                if (filter[1] == "Products" && filter[0] != "" && filter[0] != null) {
-                    var prevval = $.cookie('selectedsubscription');
-                    if (prevval != null && prevval != undefined) {
-                        SearchHandler.filters.removeByCategory("Products");
-                    }
-                    $.cookie('selectedsubscription', filter[0]);
-                }
-                if (filter[1] == "Products" && filter[0] == "") {
-                    $.cookie('selectedsubscription', "");
-                }
-                if (filter[1] == "Decade" && filter[0] != "" && filter[0] != null) {
-                    var prevdecade = $.cookie('advdecade');
-                    $.cookie('selecteddecade', prevdecade);
-                }
-                if (filter[1] == "Decade" && filter[0] == "") {
-                    $.cookie('selecteddecade', "");
-                }            
-                SearchHandler.clickAdvancedSearchAllFilter(filter[1], filter[0]);
-            });
-        }
-
-        if ($('.partnerproductid').val() != null && $('.partnerproductid').val() != "" && $('.partnerproductid').val() != undefined) {
-            SearchHandler.clickAdvancedSearchAllFilter("Partner", $('.partnerproductid').val());
-        }        
-    
-    }
-
-    function resetfilters() {  
-        SearchHandler.removeAdvancedFilter();
-        return false;
-    }
-
-    function ValidateAdvancedFilters() {
-        var isValid = true;
-        var startDate = $("#advsearchStartDateFilter").getDateValue();
-        var endDate = $("#advsearchEndDateFilter").getDateValue();
-
-        var decadefilter = $("#decadeddl").multiselect("getChecked").map(function () { return this.value; }).get();
-        var mysearchquery = $('#query').val();
-       // var getallfilters = SearchHandler.getAllFiltersState();
-        if (mysearchquery == null || mysearchquery == '' || mysearchquery == watermarkSearch) {
-            SearchHandler.setErrorMessage("Enter keywords in the search box above and click “Search”.", "nonefilter");
-            isValid = false;
-        }
-        if (startDate != null && endDate != null && startDate != "" && endDate != "" && decadefilter != null && decadefilter != "") {
-            SearchHandler.setErrorMessage("Only one filter criteria should be selected.", "errormessage");
-            isValid = false;
-        }
-
-        return isValid;
-    }
-
-    $(function () {
-        $('ul.ui-multiselect-checkboxes').slimScroll({ color: '#666666', railVisible: true, alwaysVisible: true, railColor: '#e8e8e8', height: '175px', width: '160px', railOpacity: 0.3, distance: '0px', size: "10px" });
-    });
-</script>
-    <div id="advancesearchPopup" class="advancesearch">
-        <div class="borderdiv">&nbsp;</div>
-      <div class="filtersection">
-            <table>
-                <tbody><tr>
-                    <td valign="top" style="width: 35%">
-                        <div class="column">
-                          <div class="header"><span style=" padding-left:10px;">Date</span> </div> 
-                            <div class="filter">
-                                <label>
-                                    Range</label>
-                                <div class="advsearchDateFilter">
-                                    <label>
-                                        From</label>
-                                    <input class="date" id="advsearchStartDateFilter" name="advsearchStartDateFilter" type="text" value="">
-                                    <span id="searchStartDateError" class="error"></span>
-                                    <br>
-                                    <label>
-                                        To</label>
-                                    <input class="date" id="advsearchEndDateFilter" name="advsearchEndDateFilter" type="text" value="">
-                                    <span id="searchEndDateError" class="error"></span>
-                                </div>
-                            </div>
-                            <div class="orfilter">
-                                <label>
-                                    OR</label>
-                                <span id="errormessage" style="color: Red;"></span>
-                            </div>
-                            <div class="filter">
-                            <div style="float:left;">Decade:</div>                          
-                                <div id="DecadeFilter" class="decade" style="float:left;">                                
-                                    <select id="decadeddl" name="decadeddl" multiple="multiple" style=" width:160px;">
-                                            <option value="1890">1890s</option>         
-                                            <option value="1900">1900s</option>         
-                                            <option value="1910">1910s</option>         
-                                            <option value="1920">1920s</option>         
-                                            <option value="1930">1930s</option>         
-                                            <option value="1940">1940s</option>         
-                                            <option value="1950">1950s</option>         
-                                            <option value="1960">1960s</option>         
-                                            <option value="1970">1970s</option>         
-                                            <option value="1980">1980s</option>         
-                                            <option value="1990">1990s</option>         
-                                            <option value="2000">2000s</option>         
-                                            <option value="2010">2010s</option>         
-                                    </select>
-                                </div>
-                            </div>
-                        </div>
-                    </td>
-                    <td valign="top" style="width: 30%;">
-                        <div class="column">
-                           <div class="header"><span style=" padding-left:10px;">Format</span></div>
-                            <div class="filter">
-                                <ul style="margin-bottom: 5px;">
-                                    <li>
-
-                                        <span style="vertical-align: middle;">
-                                            <input checked="" id="searchFilterHdSdFormatboth1" name="searchFilterHdSDFormat" type="radio" value="All" onclick="SearchHandler.clickHDSDAddvancedfilters('IsHd',null);"><label for="searchFilterHdSdFormatboth1"></label></span>
-                                        <span><b>All Resolutions</b></span> </li>
-                                    <li><span style="vertical-align: middle;">
-                                        <input id="searchFilterHdFormat1" name="searchFilterHdSDFormat" value="HD" type="radio" onclick="SearchHandler.clickHDSDAddvancedfilters('IsHd','HD');"><label for="searchFilterHdFormat1"></label></span> <span>HD</span></li>
-                                    <li><span style="vertical-align: middle;">
-                                        <input id="searchFilterSdFormat1" name="searchFilterHdSDFormat" value="SD" type="radio" onclick="SearchHandler.clickHDSDAddvancedfilters('IsHd','SD');"><label for="searchFilterSdFormat1"></label></span> <span>SD</span>
-                                    </li>
-                                </ul>
-                                <ul style="margin-bottom: 5px;">
-                                    <li>
-
-                                        <span style="vertical-align: middle;">
-                                            <input checked="" id="searchFilterDigitizedboth1" name="searchFilterDigitized" type="radio" value="All" onclick="SearchHandler.clickdigitizedAddvancedfilters('IsDigitized',null);"><label for="searchFilterDigitizedboth1"></label></span> <span><b>All Statuses</b></span>
-                                    </li>
-                                    <li><span style="vertical-align: middle;">
-                                        <input id="searchFilterNotDigitized1" name="searchFilterDigitized" type="radio" value="False" onclick="SearchHandler.clickdigitizedAddvancedfilters('IsDigitized','False');"><label for="searchFilterNotDigitized1"></label></span> <span>Not Digitized</span></li>
-                                    <li><span style="vertical-align: middle;">
-                                        <input id="searchFilterDigitized1" name="searchFilterDigitized" type="radio" value="True" onclick="SearchHandler.clickdigitizedAddvancedfilters('IsDigitized','True');"><label for="searchFilterDigitized1"></label></span> <span>Digitized</span></li>
-                                </ul>
-                                <ul style="margin-bottom: 5px;">
-                                    <li>
-
-                                        <span style="vertical-align: middle;">
-                                            <input checked="" id="searchFiltercolorFormatBoth1" name="searchFiltercolorFormat" type="radio" value="All" onclick="SearchHandler.clickcolorAddvancedfilters('IsColor',null);"><label for="searchFiltercolorFormatBoth1"></label></span> <span><b>All Colors</b></span>
-                                    </li>
-                                    <li><span style="vertical-align: middle;">
-                                        <input id="searchFiltercolorFormat1" name="searchFiltercolorFormat" type="radio" value="Color|True" onclick="SearchHandler.clickcolorAddvancedfilters('IsColor','Color|True');"><label for="searchFiltercolorFormat1"></label></span> <span>Color</span></li>
-                                    <li><span style="vertical-align: middle;">
-                                        <input id="searchFilterBWFormat1" name="searchFiltercolorFormat" type="radio" value="Black &amp; White|False" onclick="SearchHandler.clickcolorAddvancedfilters('IsColor','Black &amp; White|False');"><label for="searchFilterBWFormat1"></label></span> <span>Black &amp; White</span> </li>
-                                </ul>
-                                <ul>
-                                    <li>
-
-                                        <span style="vertical-align: middle;">
-                                            <input checked="" id="searchFilterAllaspectratioFormat1" name="searchFilteraspectratioFormat" type="radio" value="All" onclick="SearchHandler.clickAspectrationAddvancedfilters('AspectRatio',null);"><label for="searchFilterAllaspectratioFormat1"></label></span> <span><b>All Aspect Ratios</b></span>
-                                    </li>
-                                    <li><span style="vertical-align: middle;">
-                                        <input id="searchFilterA169aspectratioFormat1" name="searchFilteraspectratioFormat" type="radio" value="A169" onclick="SearchHandler.clickAspectrationAddvancedfilters('AspectRatio','A169');"><label for="searchFilterA169aspectratioFormat1"></label></span> <span>16:9</span></li>
-                                    <li><span style="vertical-align: middle;">
-                                        <input id="searchFilterA43aspectratioFormat1" name="searchFilteraspectratioFormat" type="radio" value="A43" onclick="SearchHandler.clickAspectrationAddvancedfilters('AspectRatio','A43');"><label for="searchFilterA43aspectratioFormat1"></label></span> <span>4:3</span></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </td>
-                    <td valign="top" style="width: 35%; ">
-                        <div class="column">
-                           <div class="header"><span style=" padding-left:10px;">Partners</span><span style="float:right; "><a onclick="closedAdavncedSearch()" style="vertical-align:bottom; ">×</a></span></div>
-                            <div class="filter">
-                                <ul>
-                                        <li>
-
-                                            <span style="vertical-align: middle;">
-                                                <input id="searchPartners-ABC News" name="searchPartner" type="checkbox" value="ABC News|100487" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
-                                                <label for="searchPartners-ABC News" style="cursor: pointer;">
-                                                </label>
-                                            </span><span style="">ABC News</span> </li>            
-                                        <li>
-
-                                            <span style="vertical-align: middle;">
-                                                <input id="searchPartners-AP" name="searchPartner" type="checkbox" value="AP|8976" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
-                                                <label for="searchPartners-AP" style="cursor: pointer;">
-                                                </label>
-                                            </span><span style="">AP</span> </li>            
-                                        <li>
-
-                                            <span style="vertical-align: middle;">
-                                                <input id="searchPartners-AP and Partners" name="searchPartner" type="checkbox" value="AP and Partners|8976;8978;40204;43894;42371;42904;42905;43223;8985;8986;44292;44046;8983;8988;8989;8981;8984;8987;45283;44765;45225;44828;44840;44891" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
-                                                <label for="searchPartners-AP and Partners" style="cursor: pointer;">
-                                                </label>
-                                            </span><span style="">AP and Partners</span> </li>            
-                                        <li>
-
-                                            <span style="vertical-align: middle;">
-                                                <input id="searchPartners-British Movietone" name="searchPartner" type="checkbox" value="British Movietone|43894" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
-                                                <label for="searchPartners-British Movietone" style="cursor: pointer;">
-                                                </label>
-                                            </span><span style="">British Movietone</span> </li>            
-                                        <li>
-
-                                            <span style="vertical-align: middle;">
-                                                <input id="searchPartners-CCTV Plus" name="searchPartner" type="checkbox" value="CCTV Plus|45225" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
-                                                <label for="searchPartners-CCTV Plus" style="cursor: pointer;">
-                                                </label>
-                                            </span><span style="">CCTV Plus</span> </li>            
-                                        <li>
-
-                                            <span style="vertical-align: middle;">
-                                                <input id="searchPartners-Celebrity Footage" name="searchPartner" type="checkbox" value="Celebrity Footage|42371" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
-                                                <label for="searchPartners-Celebrity Footage" style="cursor: pointer;">
-                                                </label>
-                                            </span><span style="">Celebrity Footage</span> </li>            
-                                        <li>
-
-                                            <span style="vertical-align: middle;">
-                                                <input id="searchPartners-SNTV Archive" name="searchPartner" type="checkbox" value="SNTV Archive|44828" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
-                                                <label for="searchPartners-SNTV Archive" style="cursor: pointer;">
-                                                </label>
-                                            </span><span style="">SNTV Archive</span> </li>            
-                                        <li>
-
-                                            <span style="vertical-align: middle;">
-                                                <input id="searchPartners-TV Globo" name="searchPartner" type="checkbox" value="TV Globo|44765" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
-                                                <label for="searchPartners-TV Globo" style="cursor: pointer;">
-                                                </label>
-                                            </span><span style="">TV Globo</span> </li>            
-                                        <li>
-
-                                            <span style="vertical-align: middle;">
-                                                <input id="searchPartners-TV-am" name="searchPartner" type="checkbox" value="TV-am|42905" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
-                                                <label for="searchPartners-TV-am" style="cursor: pointer;">
-                                                </label>
-                                            </span><span style="">TV-am</span> </li>            
-
-                                </ul>
-                            </div>
-                        </div>
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="3">
-                        <div class="advancesearchbtn">
-                            <input type="submit" value="Search" title="Submit" class="button" id="advancedsearch">
-                            <div style="float: right; margin: 10px 10px 0 5px;">
-                                <a href="#" class="clear-advlink" onclick="resetfilters();">Clear All Filters</a></div>
-                            <div style="float: right; margin: 10px 10px 0 5px; color: Red;" id="nonefilter">
-                            </div>
-                        </div>
-                    </td>
-                </tr>
-            </tbody></table>
-        </div>
-    </div>
+<meta name="twitter:card" content="summary_large_image">    <meta name="description" content="">
+    <meta property="og:image" content="http://ap.org/logo.png">
+    <meta property="og:site_name" content="Associated Press">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/framework/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/assets/images/framework/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/assets/images/framework/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/assets/images/framework/safari-pinned-tab.svg" color="#ff2c28">
+    <meta name="apple-mobile-web-app-title" content="AP">
+    <meta name="application-name" content="AP">
+    <meta name="theme-color" content="#ff2c28">
+      </head>
+  <body>
 
 
-                                </li>
-                            </ul>
-                        </li>
-                        <li>
-                            <input type="submit" value="Search" title="Submit" class="button" id="searchButton" style="line-height: 40px; height: 40px;"></li>
-                    </ul>
-                    </form>
-                </div>
-            </td>
-        </tr>
-    </tbody></table>
-    <div class="clearfix">
-    </div>  
-   <div id="oe_overlay" class="oe_overlay" disabled="true"></div>
-</div>
-
-    
-
-
-<link media="screen, print" type="text/css" rel="stylesheet" href="/css/article.css">
-
-<div class="container" id="main">
-    <div class="artWrp">
-        <div class="article container">
-            <div class="row">
-                <div class="tencol last">
-                    <div class="cntFrm">
-                        <div id="printdetail1" class="articleCmpNoPadding">
-
-                        </div>
-                        <div id="printdetail" class="articleCmp">
-                            
-                            <span><!-- Start SiteEdit Component Presentation: {"ID" : "cp_1", "ComponentID" : "tcm:40-7087", "ComponentTemplateID" : "tcm:40-6088-32", "ComponentVersion" : 2, "IsQueryBased" : false  } --><h1 class="firstHeading" id="firstHeading">Privacy Policy</h1>
-
-<!-- <span class="headline">Privacy Policy</span> -->
-<div style="text-align: center;"><strong><span style="text-decoration: underline;">THE ASSOCIATED PRESS PRIVACY POLICY</span></strong></div><div><br></div><div style="text-align: center;"><strong><span style="text-decoration: underline;">Updated: 2 April 2012</span></strong></div><div><br></div><div><br></div><div>The Associated Press and its affiliates (collectively, “AP”, “us”, “our”, “we”) recognize the importance of protecting the privacy of personal information that may be provided to us by individual users or readers of AP content online. Accordingly, we have adopted a privacy policy to govern how we treat such information. This policy does not apply to information you may provide to us offline. AP may change this privacy policy from time to time, in its sole discretion, and any such changes will become effective when the AP posts the revised privacy policy online. Your continued use of this Website indicates your consent to AP’s privacy policy and the most current version then in effect.</div><div><br></div><div><strong><span style="text-decoration: underline;">WHAT INFORMATION DOES AP COLLECT?&nbsp;</span></strong></div><div>AP may collect personally identifiable information when you specifically and knowingly provide it to us, such as when you provide your personal information such as your e-mail address, name, phone number or address.&nbsp;</div><div><br></div><div>AP may also collect non-personally identifiable information via the use of cookies. Cookies are pieces of information that are transferred to an individual's hard drive for record-keeping purposes. Cookies are used to assist you in using site information and content by saving your user preferences. Cookies are also used to collect aggregate information about Website users on an anonymous basis.&nbsp;</div><div><br></div><div><strong><span style="text-decoration: underline;">WHAT DOES AP DO WITH THE INFORMATION WE COLLECT?&nbsp;</span></strong></div><div>AP will use the personally identifiable information directly submitted by you solely for the purpose for which you have provided it. We may also use the information you provide to us to contact you for reasons related to your original communication to us. Additionally, we may periodically send you promotional e-mail about existing or prospective products and services offered by AP, as well as to obtain information to better understand our users. We may disclose all of the information we collect about you to our affiliates who offer related goods and services, and to nonaffiliated third parties that perform services on our behalf, including marketing services.</div><div><br></div><div>With regard to non-personally identifiable information, AP is currently using and has contracted with third party vendors to track and analyze usage and volume statistical information from our users to administer our content in order to improve our services. We may also perform statistical analysis of user behavior in order to measure interest in our online products and services for product development purposes and to inform advertisers as to how many consumers have seen or clicked their advertisement. We also use demographic and preference information to allow advertisements on our sites to be targeted to the users for whom they are most pertinent, so users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive. &nbsp;&nbsp;</div><div><br></div><div>This information may also be used as part of our demographic research. In this event, the research is compiled and analyzed on an aggregated basis. The AP reserves the right and may grant to third parties such right to publish non-personally identifiable, aggregate information regarding our users for promotional purposes and as a representative audience for advertisers.</div><div><br></div><div>AP will not disclose any personally identifiable information about our current or former users to anyone, except as permitted or required by law, or as described herein. AP will endeavor to maintain physical, electronic, and procedural safeguards to protect the confidentiality of the information that we collect online.&nbsp;</div><div>&nbsp;</div><div><br></div><div><strong><span style="text-decoration: underline;">WITH WHOM DOES AP SHARE THE INFORMATION IT COLLECTS?&nbsp;</span></strong></div><div>As a general rule, AP will not disclose any of your personally identifiable information except under one of the following circumstances:&nbsp;</div><div><br></div><div>• we have your permission;&nbsp;</div><div>• we determine in good faith that information is legally required to be revealed by any relevant statute, regulation, ordinance, rule, administrative or court order, decree, or subpoena;&nbsp;</div><div>• information revealed during the course of AP’s enforcement of the policies and procedures of the Website;&nbsp;</div><div>• information that we determine must be disclosed to correct what we believe to be false or misleading information or to address activities that we believe to be manipulative, deceptive or otherwise a violation of law;&nbsp;</div><div>• where you are otherwise notified at the time we collect the data;&nbsp;</div><div>• where we need to share your information to provide the product or service you have requested;</div><div>• when disclosed to an affiliate of AP or when such disclosure is made subject to confidentiality restrictions in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the Website. AP may share the non-personally identifiable information that AP gathers, in aggregate form only, with advertisers and other partners.&nbsp;</div><div>AP may use services provided by third parties, including, without limitation, Google Analytics (“Google”) to collect non-personally identifiable information on pages that contain AP's news content. Please refer to Google’s privacy policy at http://www.[insert URL].com for further information concerning Google’s use of non-personally identifiable information. AP is not responsible for any actions or policies of any third-party service providers, including, without limitation, Google. This information collected by third-party service providers is used by AP and is disclosed to AP's advertising partners so that they can determine the efficacy of their campaigns. None of the information collected or reported to our advertising partners identifies you.</div><div><br></div><div><strong><span style="text-decoration: underline;">THIRD PARTY SITES</span></strong></div><div>This Privacy Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including, without limitation, any third party operating any site to which the any AP website contains a link. The inclusion of a link in any AP website does not imply endorsement of the linked site by us.</div><div><br></div><div><strong><span style="text-decoration: underline;">INTERNATIONAL USAGE&nbsp;</span></strong></div><div>If you are located outside of the United States of America, please note that the information you provide to us will be transferred to the United States of America. By using this Website, you consent to this transfer.&nbsp;</div><div><br></div><div><strong><span style="text-decoration: underline;">NOTE REGARDING USE OF SITES BY CHILDREN&nbsp;</span></strong></div><div>None of our AP websites is directed to individuals under the age of thirteen (13) years.</div><div><br></div><div><strong><span style="text-decoration: underline;">HOW DOES A USER CHANGE OR UPDATE THEIR INFORMATION?&nbsp;</span></strong></div><div>If you have any questions or concerns about the AP privacy policy or would like the personally identifiable information that you have provided to The Associated Press removed from our files, please contact AP at:&nbsp;</div><div>apdigitalsupport@ap.org &nbsp;or please write to the following address: &nbsp;</div><div><br></div><div>Privacy Policy Questions</div><div>The Associated Press</div><div>450 West 33rd Street</div><div>New York, NY 10001&nbsp;</div><br class="Apple-interchange-newline"></span><br>
-                            
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- SiteEdit Settings: { "PageID" : "tcm:40-7195-64", "PageVersion" : 1, "TargetTypeID" : "", "ComponentPresentationLocation" : 1} -->
-    <div id="footer">
-        <div class="container">
-            <div id="apLinks" class="grid_16" style="margin-left: 0px; margin-right: 0px;">
-                <table border="0" style="width:100%; margin-top:30px; margin-left:25px;  margin-bottom:40px;">
-  <tbody><tr>
-    <td class="footerheaderLink" style="font-size: 14px; font-weight: bold; color: #FFFFFF; Padding: 0 0 25px 0; margin-right:5%;">AP ARCHIVE</td>
-    <td class="footerheaderLink" style="font-size: 14px; font-weight: bold; color: #FFFFFF; Padding: 0 0 25px 0; margin-right:5%; ">ASSOCIATED PRESS</td>
-    <td class="footerheaderLink" style="font-size: 14px; font-weight: bold; color: #FFFFFF; Padding: 0 0 25px 0; margin-right:5%;">PRODUCTS AND SERVICES</td>
-    <td class="footerheaderLink" style="font-size: 14px; font-weight: bold; color: #FFFFFF; Padding: 0 0 25px 0; margin-right:5%;"><a href="/partners">CONTENT PARTNERS</a></td>
+<script src="https://cdn.cookielaw.org/langswitch/ead3872f-33b9-4b16-a7f2-4ea8137893d3.js" type="text/javascript" charset="UTF-8"></script><script type="text/javascript">function OptanonWrapper() {;}</script><div class="o-row c-banner">  <div class="o-row__gutter c-banner__inner">    <div class="u-flex"><a href="/en-us/" title="Return to The Associated Press home page"><img class="c-brand" src="/assets/images/ap.svg" alt="Associated Press logo"><span class="u-sr">Associated Press</span></a><a class="c-btn u-bg-blue u-hide u-show-sm u-hide-lg" href="/contact-us/">Contact us</a>      <div class="u-ml-auto">        <div class="u-flex u-items-center u-justify-end">          <nav class="c-nav-tertiary u-hide u-show-lg" data-ref="superfish">  <h3 class="u-hide">Language navigation</h3>  <ul class="c-nav-tertiary__list">    <li class="c-nav-tertiary__item"><a class="c-nav-tertiary__link" href="#">English (US)      <svg class="c-icon c-icon--chevron-down" role="img">        <use xlink:href="/assets/images/icons/icons.svg#i-chevron-down"></use>      </svg></a>      <ul class="c-nav-tertiary__1">                  <li class="c-nav-tertiary__1__item"><a class="c-nav-tertiary__1__link" href="/en-us/">English (U.S.)</a></li>          <li class="c-nav-tertiary__1__item"><a class="c-nav-tertiary__1__link" href="/en-gb/">English (U.K.)</a></li>          <li class="c-nav-tertiary__1__item"><a class="c-nav-tertiary__1__link" href="/es/">Español</a></li>      </ul>    </li>  </ul></nav><a class="c-h5 u-caps u-white u-hover-gray u-hide u-show-sm" href="/en-us/">Associated Press</a>          <div class="u-flex u-hide-lg u-hide-print"><a class="u-block u-p2 collapsed" data-parent="#collapse-group" data-toggle="collapse" href="#search">              <svg class="c-icon c-icon--search u-block" role="img">                <use xlink:href="/assets/images/icons/icons.svg#i-search"></use>              </svg></a><a class="u-block u-p2 collapsed" data-parent="#collapse-group" data-toggle="collapse" href="#nav">              <svg class="c-icon c-icon--menu u-block" role="img">                <use xlink:href="/assets/images/icons/icons.svg#i-menu"></use>              </svg></a></div>        </div>        <nav class="c-nav-secondary u-hide u-show-lg" data-ref="superfish">          <h3 class="u-hide">Secondary navigation</h3>          <ul class="c-nav-secondary__list">            <li class="c-nav-secondary__item"><a class="c-nav-secondary__link" href="#">About  <svg class="c-icon c-icon--chevron-down" role="img">    <use xlink:href="/assets/images/icons/icons.svg#i-chevron-down"></use>  </svg></a>  <ul class="c-nav-secondary__1">    <li class="c-nav-secondary__1__item"><a class="c-nav-secondary__1__link" href="/about/">Overview</a></li><li class="c-nav-secondary__1__item"><a class="c-nav-secondary__1__link" href="/about/our-story/">Our story</a></li><li class="c-nav-secondary__1__item"><a class="c-nav-secondary__1__link" href="/about/news-values-and-principles/">News values and principles</a></li><li class="c-nav-secondary__1__item"><a class="c-nav-secondary__1__link" href="/about/awards-and-recognition/">Awards and recognition</a></li><li class="c-nav-secondary__1__item"><a class="c-nav-secondary__1__link" href="/about/corporate-archives/">Corporate Archives</a></li>  </ul></li><li class="c-nav-secondary__item">  <a class="c-nav-secondary__link" href="/media-center/">Media Center</a></li><li class="c-nav-secondary__item">  <a class="c-nav-secondary__link" href="/careers/">Careers</a></li><li class="c-nav-secondary__item">  <a class="c-nav-secondary__link" href="http://aphelp.ap.org/">Customer Support</a></li>          </ul>        </nav>      </div>    </div>  </div></div>    <div class="o-row c-toolbar" id="toolbar">      <div class="u-clearfix c-toolbar__inner" id="toolbar-inner">        <div class="panel u-left-lg">          <div id="nav" class="collapse collapse-none-lg">            <div class="o-row__gutter u-mt3 u-center u-hide-sm"><a href="/contact-us/" class="c-btn u-bg-blue">Contact us</a>            </div>            <nav id="nav-primary" class="c-nav-primary">              <ul id="nav-primary-list" class="c-nav-primary__list u-list-reset u-clearfix">                <li class="c-nav-primary__item panel c-nav-primary__item--has-nav"><a data-parent="#nav-primary-list" data-toggle="collapse" href="#nav-primary-0" class="c-nav-primary__link collapsed u-clearfix">Formats                    <svg role="img" class="c-icon c-icon--chevron-up">                      <use xlink:href="/assets/images/icons/icons.svg#i-chevron-up"></use>                    </svg></a>                  <nav id="nav-primary-0" class="c-nav-primary__2 collapse">                    <ul class="c-nav-primary__2__list u-list-reset">                      <li class="c-nav-primary__2__item"><a href="/en-us/formats/multimedia" class="c-nav-primary__2__link">Multimedia</a></li><li class="c-nav-primary__2__item"><a href="/en-us/formats/video/" class="c-nav-primary__2__link">Video</a></li><li class="c-nav-primary__2__item"><a href="/en-us/formats/text" class="c-nav-primary__2__link">Text</a></li><li class="c-nav-primary__2__item"><a href="/en-us/formats/photos" class="c-nav-primary__2__link">Photos</a></li><li class="c-nav-primary__2__item"><a href="/en-us/formats/data" class="c-nav-primary__2__link">Data</a></li><li class="c-nav-primary__2__item"><a href="/en-us/formats/audio" class="c-nav-primary__2__link">Audio</a></li><li class="c-nav-primary__2__item"><a href="/en-us/formats/archive" class="c-nav-primary__2__link">Archive</a></li>                    </ul>                  </nav>                </li><li class="c-nav-primary__item panel c-nav-primary__item--has-nav"><a data-parent="#nav-primary-list" data-toggle="collapse" href="#nav-primary-1" class="c-nav-primary__link collapsed u-clearfix">Topics                    <svg role="img" class="c-icon c-icon--chevron-up">                      <use xlink:href="/assets/images/icons/icons.svg#i-chevron-up"></use>                    </svg></a>                  <nav id="nav-primary-1" class="c-nav-primary__2 collapse">                    <ul class="c-nav-primary__2__list u-list-reset">                      <li class="c-nav-primary__2__item"><a href="/en-us/topics/" class="c-nav-primary__2__link">Topic overview</a></li><li class="c-nav-primary__2__item"><a href="/en-us/topics/breaking-news" class="c-nav-primary__2__link">Breaking news</a></li><li class="c-nav-primary__2__item"><a href="/en-us/topics/sports" class="c-nav-primary__2__link">Sports</a></li><li class="c-nav-primary__2__item"><a href="/en-us/topics/business-and-finance" class="c-nav-primary__2__link">Business and Finance</a></li><li class="c-nav-primary__2__item"><a href="/en-us/topics/entertainment" class="c-nav-primary__2__link">Entertainment</a></li><li class="c-nav-primary__2__item"><a href="/en-us/topics/lifestyle/" class="c-nav-primary__2__link">Lifestyle</a></li><li class="c-nav-primary__2__item"><a href="/en-us/topics/politics/" class="c-nav-primary__2__link">Politics</a></li>                    </ul>                  </nav>                </li><li class="c-nav-primary__item panel c-nav-primary__item--has-nav"><a data-parent="#nav-primary-list" data-toggle="collapse" href="#nav-primary-2" class="c-nav-primary__link collapsed u-clearfix">Services                    <svg role="img" class="c-icon c-icon--chevron-up">                      <use xlink:href="/assets/images/icons/icons.svg#i-chevron-up"></use>                    </svg></a>                  <nav id="nav-primary-2" class="c-nav-primary__2 collapse">                    <ul class="c-nav-primary__2__list u-list-reset">                      <li class="c-nav-primary__2__item"><a href="/live-and-location-services/" class="c-nav-primary__2__link">Live and location services</a></li><li class="c-nav-primary__2__item"><a href="/en-us/services/ap-content-services" class="c-nav-primary__2__link">AP Content Services</a></li><li class="c-nav-primary__2__item"><a href="/en-us/services/planning-and-media-tools/" class="c-nav-primary__2__link">Planning services and media tools</a></li><li class="c-nav-primary__2__item"><a href="/enps/" class="c-nav-primary__2__link">News production services</a></li><li class="c-nav-primary__2__item"><a href="/en-us/services/advertise-with-us" class="c-nav-primary__2__link">Advertise with us</a></li><li class="c-nav-primary__2__item"><a href="/en-us/services/partner-with-us" class="c-nav-primary__2__link">Partner with us</a></li>                    </ul>                  </nav>                </li>                <li class="c-nav-primary__item panel"><a href="/en-us/insights" class="c-nav-primary__link false">Insights</a>                </li>              </ul>            </nav>            <nav id="nav-secondary" class="c-nav-secondary">              <ul id="nav-secondary-list" class="c-nav-secondary__list u-list-reset u-clearfix">                <li class="c-nav-secondary__item panel"><a href="/about/" class="c-nav-secondary__link false">About</a>                </li><li class="c-nav-secondary__item panel"><a href="/media-center/" class="c-nav-secondary__link false">Media Center</a>                </li><li class="c-nav-secondary__item panel"><a href="/careers/" class="c-nav-secondary__link false">Careers</a>                </li><li class="c-nav-secondary__item panel"><a href="http://aphelp.ap.org/" class="c-nav-secondary__link false">Support</a>                </li>              </ul>            </nav>          </div>        </div>        <div class="panel u-left-lg">          <div id="search" class="collapse collapse-none-lg">            <div class="o-row__gutter">              <div class="c-search-site">                <form action="/en-us/search" method="get">                  <fieldset>                    <svg role="img" class="c-icon c-icon--search u-fill-black">                      <use xlink:href="/assets/images/icons/icons.svg#i-search"></use>                    </svg>                    <input id="search-input" name="q" type="text" class="c-form-control" placeholder="Search ap.org">                    <button type="submit" class="c-btn u-hide">Submit</button>                  </fieldset>                </form>              </div>            </div>          </div>        </div><a href="/contact-us/" class="c-btn u-bg-blue u-hide u-show-lg">Contact us</a>      </div>    </div>
+  <!-- (trunk) -->  
+  <div id="main" class="u-sr"></div>
+  <main>
+	
+	<!-- Project Branch Test --><div class="o-row c-page-header u-bg-white">	<div class="o-row__gutter">		<div class="u-mx-auto u-max-width-10"><article itemscope="" itemtype="http://schema.org/Article" class="u-max-width-8">	              <header>                <h1 itemprop="headline" class="c-h1x">AP PRIVACY POLICY</h1>                <p class="c-label"></p>                <h2 itemprop="description" class="u-gray"></h2>                <meta itemprop="datePublished" content="2019-06-07T14:59:38.7642911Z">                <meta itemprop="dateModified" content="2018-05-18T16:11:38.7700000Z">              </header>	<div itemprop="mainEntityOfPage">		<p align="center" style="text-align: left;">This Privacy Policy applies to information that The Associated Press and its affiliates (referred to collectively in this Privacy Policy as “AP”, “we,” “us,” “our” and other similar pronouns) collect through those AP websites and mobile applications which make this Privacy Policy available (each such website and mobile application, a “Service”).</p>
+<p>This Privacy Policy explains the types of information we may collect, how we may use and disclose the information once it is collected, and, where applicable, how you can stop us from collecting, using, disclosing or continuing to hold your information. We want to ensure that in using any of the Services, you understand the terms of this Privacy Policy, including any subsequent changes made to the Privacy Policy as described in Part 11 below, and are aware of the privacy choices available to you. Please note that this Privacy Policy <u>does not</u> apply to information that you may provide to us, or that we may obtain, where a separate privacy policy is made available to you or which do not make this Privacy Policy available.&nbsp;</p>
+<h3><span>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>What <g class="gr_ gr_340 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="340" data-gr-id="340">information may</g> be collected?</h3>
+<h4><b><i>User-Provided Information</i></b></h4>
+<p>During your use of a Service (whether as a registered or unregistered user), you may provide us with personal information, such as your name and e-mail address, or other information that could be used to identify you as an individual or allow someone to contact you, as well as any information associated with such information (collectively, “Personal Information”). Personal Information includes both things that specifically identify you (like your real name) and things that don’t specifically identify <g class="gr_ gr_326 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" id="326" data-gr-id="326">you,</g> but might be connected back to you (like the IP address of your computer or the device identifier of your smartphone).</p>
+<h4><b><i>Location Data</i></b></h4>
+<p>When using our Services from a mobile device (a “Mobile Service”), you may share the geographic location of your device with us. Your device location may be transmitted to us whenever a Mobile Service is running (even if you are not actively using the Mobile Service or it is running in the background on your device). Your device may continue to transmit its location to us until you change your device settings.</p>
+<p>If you set your device not to transmit location information to us, certain features of our Services may not be available or their functions may be limited. For example, you will have to manually enter a location when conducting a search. You should also know that turning off location sharing only prevents your device from sharing its precise location. Your network service provider may still provide general location information (based on access points you’ve connected to, for example). The information provided varies by network service provider. You should check with your network service provider to find out what information is provided and if there are ways for you to limit it.</p>
+<h4><b><i>Service Usage Information</i></b></h4>
+<p>As is typical of many <g class="gr_ gr_300 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del" id="300" data-gr-id="300">web sites</g> and mobile applications, when you use our Services, we may collect information about your device and your usage of our Services including:</p>
+<ul>
+<li>Your IP address (which we may associate with your domain name or that of your Internet access provider or wireless carrier, and your location);</li>
+<li>Unique ID number associated with your device;</li>
+<li>Other unique identifiers such as advertising identifiers (e.g., "ad-ID" or "IDFA");</li>
+<li>Web browser and operating system information;</li>
+<li><g class="gr_ gr_313 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="313" data-gr-id="313">Language</g> of your device;</li>
+<li>Wireless connections you are using;</li>
+<li>Referring page that linked you to us;</li>
+<li>Your activities, including browsing and transaction history;</li>
+<li>Pages, content, and <g class="gr_ gr_301 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del" id="301" data-gr-id="301">ads</g> you view or click on during your use of our Services, and when and for how long you do so;</li>
+<li>The next web site you visit after leaving our <g class="gr_ gr_303 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del" id="303" data-gr-id="303">web site</g>; and</li>
+<li>Search terms you enter on our Services or a referral site.</li>
+</ul>
+<p>In addition, we may deploy tracking technologies through our Services to collect additional information about your use of the Services, as set out in the “Cookies and other tracking technologies” section of this Privacy Policy.</p>
+<h3><span>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>How is your information used?</h3>
+<p>We or our service providers may use the information we collect from or about you to perform the following functions:</p>
+<ul>
+<li>administer our Services and your account with us;</li>
+<li>enable you to use our Services and their features;</li>
+<li>customize our Services to your interests and history with us;</li>
+<li>localize the content and articles that are displayed to you based on your geographical location;</li>
+<li>conduct market research;</li>
+<li>improve or develop new features and offerings in our Services;</li>
+<li>tailor ads displayed to you in our Services and elsewhere;</li>
+<li>send you marketing and other communications, including information about products, services, or events that we think might be of interest to you;</li>
+<li>assess your level of interest in and use of our Services, e-mails, and other messaging campaigns, both on an individual basis and in aggregate;</li>
+<li>generate analytics reports on the usage of our Services; and</li>
+<li>respond to your requests, questions, and concerns protecting our rights and property.</li>
+</ul>
+<p>We may also use Personal Information to meet our internal and external audit requirements and for information security purposes. Where permissible under applicable law, your Personal Information may be used for other purposes, which will be disclosed to you at the time when your information is collected. There may be instances, however, when we will use your Personal Information for purposes that were not disclosed at the time of the data collection; for example, when doing so is necessary to comply with a legal obligation or requirement. We may use Personal Information to (a) respond to requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities, which may include such authorities outside your country of residence; (b) enforce our terms and conditions; and (c) protect our rights, privacy, safety, or property, or those of other persons.</p>
+<p>Some of the uses specified above are necessary for the performance of a contract between us, or for the provision of a service requested by you. In other cases, the uses are based on our legitimate interests such as marketing our services to people who have expressed an interest in them or similar services.&nbsp;</p>
+<h3><span>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>How do we share the information we collect?</h3>
+<p>We may share your information:</p>
+<ul>
+<li>with our lawyers, auditors, and other professional advisors, <g class="gr_ gr_289 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="289" data-gr-id="289">third party</g> advertising companies (including exchanges and brokers) and <g class="gr_ gr_291 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="291" data-gr-id="291">third party</g> providers of services such as cloud storage, customer relationship management systems, travel and expense management, analytics databases, who need your information to provide services to us (or on our behalf);</li>
+<li>when we believe in good faith that disclosure is necessary to protect our rights or property, protect your safety or the safety of others, investigate fraud, or respond to a government agency, law enforcement, judicial or public authority, or <g class="gr_ gr_296 gr-alert gr_gramm gr_hide gr_inline_cards gr_run_anim Grammar multiReplace replaceWithoutSep" id="296" data-gr-id="296">other legal request</g>, or to comply with the law;</li>
+<li>in connection with a proposed corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, <g class="gr_ gr_298 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins doubleReplace replaceWithoutSep" id="298" data-gr-id="298">sale</g> of assets or wind down of business.</li>
+</ul>
+<p>We may share non-personally identifiable information about <g class="gr_ gr_268 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="268" data-gr-id="268">usage</g> of the Services (including aggregate data) with others, for their own use, in a de-identified form.</p>
+<p>In addition, what you voluntarily post to public areas of our Service may be available to other Service users.</p>
+<h4><b><i>Transfers outside the European Economic Area (“EEA”) </i></b></h4>
+<p>The information described in this section of the Privacy Policy, with respect to the transfer of data outside the EEA, applies to those individuals located in the EEA. To process information of individuals located in the EEA for the purposes set out in this Privacy Policy, it is sometimes necessary for us to share your personal data outside the EEA, for example:</p>
+<ul>
+<li>with our offices outside the EEA;</li>
+<li>with service providers located outside the EEA;</li>
+<li>if you are based outside the EEA;</li>
+<li>where we consider that the transfer is necessary for exercising, establishing or defending legal rights including, as appropriate, providing information to respond to a government, law enforcement, judicial or <g class="gr_ gr_309 gr-alert gr_gramm gr_hide gr_inline_cards gr_run_anim Grammar multiReplace replaceWithoutSep replaceWithoutSep" id="309" data-gr-id="309">other legal request</g>, or otherwise to comply with applicable law.</li>
+</ul>
+<p>Non-EEA countries might not have the same legal framework for data protection as the EEA countries. In particular, the United States, which is the most common destination of our transfers of Personal Information outside the EEA, is not considered to provide a level of personal data protection equivalent to that of the EEA. We will, however, ensure the transfers comply with EU data protection law. Our standard practice is to use standard data protection contract clauses approved by the European Commission as the basis for such data transfers. &nbsp;You may read more about this on the European Commission Justice website at (http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm).</p>
+<p>If you would like further information, please see “Contact us” section below.</p>
+<h3><span>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>How do we secure your Personal Information?</h3>
+<p>We use reasonable technical, administrative and physical security measures to protect Personal Information collected via our Services. We cannot guarantee that any information, during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from unauthorized access or use (e.g., by hackers). You use the Services, and send us information, at your own risk.</p>
+<p>If you correspond with us by e-mail, text message, or using a “Contact us” feature on our Service, a third party could view the information you send in transit by such means. We have no liability relating to disclosure of your information due to errors, omissions or unauthorized acts or failures to act by third parties during or after transmission.</p>
+<p>If you create an account on our Services, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any activity, including disclosure of your Personal Information, that occurs using your account credentials, whether or not you authorized such activity. Please notify us of any unauthorized use of your password or account or any other breach of security.</p>
+<p>We have procedures in place to deal with any suspected data security breach. If we believe that the security of your Personal Information in our care may have been compromised, we will endeavor to notify you of that development promptly taking into consideration the circumstances. If we have your e-mail address, we may notify you by e-mail. Where legally required to do so, we also will notify any applicable regulator.</p>
+<h3><span>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Cookies and other tracking technologies</h3>
+<p>We, and/or our service providers or partners on our behalf, may use tracking technologies which may run on your device when you use the Services. The circumstances in which we may deploy tracking technologies include:</p>
+<ul>
+<li>We may use cookies or local shared objects, such as “Flash cookies.” Cookies are small data/text files that store information, such as your preferences and account settings, on your computer. Similar to many other websites, if you have enabled cookies in your browser, we, independently and through enabled third-party tools and programs, collect certain technical information using cookies, such as originating IP address, browser type, browser language, how a user got to the Service (i.e., the URL of the last website you visited), the next website the user visits, what pages are visited, the length of each site visit, and the date and time of the user’s visit. This information helps us track trends and improve user experiences when using the Services<a name="_Hlk513530213"></a></li>
+<li>HTML5 may be used to store information on your computer or device about your Service usage activities. This information can be retrieved by us to determine how our Services are being used by our visitors, how our Services may be improved, and to customize our Services for our users.</li>
+<li>We may send instructions to your computer or device using JavaScript or other computer languages to gather the sorts of information described above and other details about your interactions with the <a name="_cp_text_1_59"></a>Service.</li>
+</ul>
+<p>These tracking technologies may be deployed by us and/or our service providers or partners on our behalf. These technologies enable us to assign a unique number to your computer or <g class="gr_ gr_242 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" id="242" data-gr-id="242">device,</g> and relate information about your use of the Services to other information about you, including your Personal Information. These technologies also enable us to recognize you when you access our Services using different web browsers or devices.</p>
+<p>You can manage website cookies in your browser settings. You always have the choice to have your device warn you each time a cookie is being sent or change these settings by accepting, rejecting, or deleting cookies. If you choose to change your settings, you may find that certain functions and features will not work as intended on the Services. All browser settings are slightly different, so to manage cookies, you should refer to the relevant settings within your browser.&nbsp; If you would like to obtain more detailed information about types of cookies, how they are used, and how you can manage <g class="gr_ gr_264 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="264" data-gr-id="264">your cookie</g> preferences you may want to visit: www.aboutcookies.org or www.allaboutcookies.org.&nbsp; Please click below for detailed information on how to disable and delete cookies in some commonly used browsers:</p>
+<ul>
+<li>Mozilla Firefox®: https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored</li>
+<li>Microsoft® Internet Explorer: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11</li>
+<li>Google Chrome™: https://support.google.com/accounts/answer/61416?hl=en</li>
+<li>Safari®: https://support.apple.com/kb/PH21411?viewlocale=en_US&amp;locale=en_US</li>
+</ul>
+<h3><span>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Links and connections to Third Party Services</h3>
+<p>We maintain a presence on social media and other external platforms, such as Facebook and Twitter. We may occasionally incorporate third party social networking features into our Services. This Privacy Policy applies to our use of information you submit to us there, but it does not apply to what those third-party platforms do with your information.</p>
+<p>Our Services may allow you to share information with us that you have already provided to a third party social networking platform. For example, you may be able to create an account on our Service or log in to our Service using your Facebook account or other third-party credentials. If you do so, Personal Information or other data that you have provided to the third party may be made available to us by that third party subject to its own privacy policy, terms, and conditions. Privacy policies of social networks and other external platforms explain how those third parties use, protect, and share your information, including any information you share on those platforms from our Services, and we encourage you to read them. The information we receive from these platforms may depend on your privacy settings. Any such information that we obtain will remain subject to that third party’s privacy policy and we will use any such information in accordance with this Privacy Policy.</p>
+<p>We may also include tools in our Services that allow you to share or publicly post content from our Services to your profile on a third party social network. You may choose to share information about your activities on the Service with such third party platforms and its users, including publishing your information about what content you may have viewed on our Services. If you visit a Service while logged into certain social media platforms, the social media platform may be able to identify your browser and associate the technical information provided by your web browser with other information that they have already collected about you, which may result in their ability to identify you. In addition, when you choose to share information about your activities on the Service with certain social media platforms, AP may send technical information about you to that platform as well as information about what content you are viewing.</p>
+<p>Our Service may contain links, banners, widgets, or advertisements that lead to third-party <g class="gr_ gr_231 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del" id="231" data-gr-id="231">web sites</g>. We are not responsible for these other <g class="gr_ gr_232 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del" id="232" data-gr-id="232">web sites</g>, and so their posted privacy policies (not this Privacy Policy) will govern the collection and use of your information on them. We encourage you to read the privacy statements of <g class="gr_ gr_233 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del" id="233" data-gr-id="233">web site</g> visited after leaving our Services to learn about how your information is treated by others.</p>
+<p>Our Services may contain certain co-sponsored content and you may be requested to provide additional Personal Information to the co-sponsor of such content. We will disclose to you when you are submitting Personal Information to co-sponsors. The information practices of any third party co-sponsors are governed by their own privacy policies and are not covered by this Privacy Policy.</p>
+<h4><b><i>Third-Party Ad Servers and Networks</i></b></h4>
+<p>We use third-party advertising companies to serve ads when you visit our Services.</p>
+<p>When you view an advertisement, whether or not you click on it, the advertiser, advertising technology companies, web analytics companies <g class="gr_ gr_276 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-ins replaceWithoutSep" id="276" data-gr-id="276">and</g> service providers that perform advertising-related services for us and our business partners may collect some information from or about you. These companies may use information about your visits to the Services, the geographic location where your IP address indicates you are located, as well as other information about (which such companies may obtain via your use of our Services or elsewhere) you in order to provide advertisements about goods and services of interest to you. These advertisements may appear in our Services and on other online properties or mobile applications. These companies may employ cookies, clear GIFs and other tracking technologies to cause relevant ads to be displayed to you. We do not control any such technologies that may appear in our Services or other online properties or mobile applications. &nbsp;The information practices of these third parties are governed by their own privacy policies and are not covered by this Privacy Policy. We encourage you to read these businesses’ privacy policies to learn about how they treat your information.</p>
+<p><b>For more information about third-party advertisers and how to prevent them from using your information, visit the Digital Advertising Alliance’s site at <u>http://www.aboutads.info/choices/</u> or the Network Advertising Initiative’s site at <u>http://www.networkadvertising.org/choices/</u>. However, if you opt-out we may still suggest offerings (including content sponsored by third-parties) to you on our Service based on your history or your account preferences. </b></p>
+<h3><span>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Do Not Track Disclosures</h3>
+<p>Some web browsers may transmit “do-not-track” (“DNT”) signals to mobile applications with which the user communicates. We currently do not change our tracking practices (which are explained in more detail under “Service Usage Information” above) in response to DNT settings in your web browser.</p>
+<p>Our <g class="gr_ gr_235 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="235" data-gr-id="235">third party</g> partners, such as web analytics companies and <g class="gr_ gr_238 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="238" data-gr-id="238">third party</g> ad networks, may collect information about you and your online activities over time and across our Services and other online properties. These third parties may not change their tracking practices in response to DNT settings in your web browser and we do not obligate these parties to honor DNT settings. We utilize Google Analytics for our web analytics and you can opt out of your usage data being included in our Google Analytics reports by visiting https://tools.google.com/dlpage/gaoptout.</p>
+<h3><span>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Your rights relating to your Personal Information</h3>
+<p>You may review, update or correct certain of the Personal Information that is stored in your user account in our Services (if you have one) by using the “Contact Us” information below. We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to delete information is subject to our records retention policies.&nbsp;</p>
+<p>You can opt out of our promotional e-mails by clicking the opt-out/unsubscribe link within the e-mail you receive. Please understand that it may take us a few days to process any <g class="gr_ gr_222 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="222" data-gr-id="222">opt out</g> request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions, and communications with us.</p>
+<p>In some jurisdictions, including in the countries of the European Economic Area, you have the right, in certain circumstances, to (i) require us delete your Personal Information, (ii) require us to restrict processing of your Personal Information (for example, if you contest the accuracy of that information), (iii) receive a copy of the Personal Information you provided to us in a structured, commonly used, and machine-readable format and/or instruct us to transmit that data to a third party; and (iv) object to our continued processing of your Personal Information, for direct marketing (including profiling) or other purposes. You can exercise these rights free of charge by contacting us using the details in the “Contact us” section below.&nbsp;</p>
+<h3><span>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Data Retention</h3>
+<p>Your Personal Information will be held for the purposes and uses set out in this Privacy Policy and for as long as there is a legal, taxation, accounting, risk management or business requirement to do so. Different retention periods apply to different types of records and data which are dependent on the nature of your interaction with AP.</p>
+<h3><span>10.&nbsp;&nbsp; </span>Changes to this Privacy Policy&nbsp;</h3>
+<p>We may change this Privacy Policy from time to time. When we do, we will let you know by posting the changed Privacy Policy on this page with a new “Last Updated” date. In some cases, we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you.</p>
+<h3><span>11.&nbsp;&nbsp; </span>Children’s privacy</h3>
+<p>The Services are not aimed at children. If, however, we collect and use information about children, we will comply with industry guidelines and applicable laws.</p>
+<h3><span>12.&nbsp;&nbsp; </span>Contact us/complaints</h3>
+<p>If you have any questions or comments regarding our privacy practices, you may contact us at:</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="295" valign="top">
+<p>The Associated Press<br>200 Liberty Street<br>New York, NY 10281</p>
+</td>
+<td width="295" valign="top">
+<p>The Associated Press Television News Limited<br>The Interchange, Oval Road, Camden Lock<br>London, NW1 7DZ</p>
+</td>
 </tr>
 <tr>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8; margin:5"><a href="/AboutUs">About Us</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a target="_New" href="http://www.ap.org/company/about-us">About AP</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a href="/compilation">AP Compilations</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a href="/partner/ABC News">ABC News</a></td>
+<td width="295" valign="top">
+<p>+1 212-621-1500</p>
+</td>
+<td width="295" valign="top">
+<p>(44-20) 7482-7400</p>
+</td>
 </tr>
-<tr>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8; margin:5;"><a href="/ourcontent">Our Content</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a target="_New" href="http://www.ap.org/Company/AP-Leadership">AP Leadership</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a href="/InstantLibrary">Instant Library</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a href="/partner/British Movietone">British Movietone</a></td>
-</tr>
-<tr>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #b6b6ab; margin:5;"><a href="/HowWeWork">How We Work</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a target="_New" href="http://www.ap.org/company/history/ap-history">History</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a href="/RightsClearances">Rights Clearance</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a href="/partner/Celebrity Footage">CelebrityFootage</a></td>
-</tr>
-<tr>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8; margin:5;"><a href="/News">News</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a target="_New" href="http://www.ap.org/company/Industry-Leadership">Industry Leadership</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a href="/ContentRepresentation">Content Representation</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a href="/partner/TV-am">TV-am</a></td>
-</tr>
-<tr>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8; margin:5;"><a href="/ContactUs">Contact Us</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a target="_New" href="http://www.ap.org/company/Intellectual-Property">Intellectual Property</a></td>
-     <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a href="/photos">Photos</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"></td>
-</tr>
-<tr>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8; margin:5;"><a href="http://customersupport.ap.org/aparchive/Help/index.htm">Help</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a target="_New" href="http://www.ap.org/company/Brand">Branding</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"></td>
-</tr>
-<tr>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"><a href="/privacypolicy">Privacy Policy</a></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"></td>
-    <td style="font-family: Verdana;font-size: 11px; font-weight: normal; color: #E7e2d8;Padding: 0 0 5px 0;"></td>
-</tr>
-</tbody></table>
- <div style="border-bottom:1px solid #E7E2D8; width:1136px;"></div>
-<div style=" margin-left:25px; padding:20px 0 30px 12px;">All contents © Copyright 2018 <a href="http://www.ap.org/">The Associated Press</a>. All rights reserved.</div>
-               <div class="clear"></div>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
+</tbody>
+</table>
+<p>privacy@ap.org</p>
+<p>We hope that can resolve any query or concern you may raise about our use of your information.</p>
+<p>Individuals located in the EEA have the right to lodge a complaint with a supervisory authority of the EEA state where you work or live or where any alleged infringement of data protection laws occurred. A list of the supervisory authorities can be found here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm</p>
+<p><b>Effective Date: 25 May 2018</b></p>	</div>	<footer>		<meta itemprop="url" content="">				<div itemscope="itemscope" itemtype="http://schema.org/Organization" itemprop="publisher">			<meta itemprop="name" content="Associated Press">			<div itemprop="logo" itemscope="itemscope" itemtype="http://schema.org/ImageObject">				<meta itemprop="url" content="">				<meta itemprop="width" content="75">				<meta itemprop="height" content="88">			</div>		</div>	</footer></article></div>	</div></div>
 
-    <!-- modal dialogs -->
-    <div id="addToFolderDialogContainer"></div>
-<div id="messageBoxDialog" class="modelContent genericDialog">
-    <div class="top">&nbsp;</div>
-    <div class="content">
-        <h5><span id="title">Message Box</span></h5>
-        <p><span id="body"></span></p>
-        <div class="buttons">
-            <div class="cancel" ap-key="close">OK</div>
-            <div id="messageBox-no" class="cancel">No</div>
-            <div id="messageBox-yes" class="cancel">Yes</div>
-        </div>
-        <div class="clearfix"></div>
-    </div>
-</div>
-
-
-    <script type="text/javascript">
-    $(document).ready(function () {
-       restoreOrderHistoryProgress();
-    });
-    </script>
-
-
+	  </main>    <div class="o-row c-panel u-bg-ap-gray-cool-deep u-hide-print">      <div class="o-row__gutter">        <div class="u-center u-mb4 u-hide-md">          <h4 class="c-h5 u-caps"><a href="/en-us/" class="u-white u-hover-gray">Associated Press</a></h4>          <nav>            <ul class="c-caption u-list-reset umb0">              <li><a href="/contact-us/" class="u-block u-p1 u-gray u-hover-white">Contact</a></li><li><a href="http://aphelp.ap.org/" class="u-block u-p1 u-gray u-hover-white">Customer support</a></li><li><a href="/terms-and-conditions/" class="u-block u-p1 u-gray u-hover-white">Terms &amp; conditions</a></li><li><a href="/privacy-policy" class="u-block u-p1 u-gray u-hover-white">Privacy</a></li>            </ul>          </nav>        </div>        <div class="u-clearfix">          <div class="u-clearfix o-col-1-2-md o-col-2-5-lg">            <div class="u-hide u-show-md o-col-1-2-md">              <h4 class="c-h5 u-caps u-white">Media</h4>              <nav>                <ul class="c-caption u-list-reset u-mb0">                  <li><a href="/en-us/formats/multimedia" class="u-gray u-hover-white">Multimedia</a></li><li><a href="/en-us/formats/video/" class="u-gray u-hover-white">Video</a></li><li><a href="/en-us/formats/text" class="u-gray u-hover-white">Text</a></li><li><a href="/en-us/formats/photos" class="u-gray u-hover-white">Photos</a></li><li><a href="/en-us/formats/data" class="u-gray u-hover-white">Data</a></li><li><a href="/en-us/formats/audio" class="u-gray u-hover-white">Audio</a></li>                </ul>              </nav>            </div><div class="u-hide u-show-md o-col-1-2-md">              <h4 class="c-h5 u-caps u-white">Services</h4>              <nav>                <ul class="c-caption u-list-reset u-mb0">                  <li><a href="/live-and-location-services/" class="u-gray u-hover-white">Live and location services</a></li><li><a href="/en-us/services/ap-content-services" class="u-gray u-hover-white">AP Content Services</a></li><li><a href="/en-us/services/planning-and-media-tools/" class="u-gray u-hover-white">Planning services and media tools</a></li><li><a href="/enps/" class="u-gray u-hover-white">News production services</a></li><li><a href="/en-us/services/advertise-with-us" class="u-gray u-hover-white">Advertise with us</a></li><li><a href="/en-us/services/partner-with-us" class="u-gray u-hover-white">Partnership Opportunities</a></li>                </ul>              </nav>            </div>          </div>          <div class="u-clearfix o-col-1-2-md o-col-2-5-lg u-right-lg">            <div class="u-hide u-show-md o-col-1-2-md">              <h4 class="c-h5 u-caps u-white">More from AP</h4>              <nav>                <ul class="c-caption u-list-reset u-mb0">                  <li><a href="https://insights.ap.org/" target="_blank" class="u-gray u-hover-white">AP Insights</a></li><li><a href="https://blog.ap.org/" target="_blank" class="u-gray u-hover-white">AP Definitive Source</a></li><li><a href="https://apimagesblog.com/" target="_blank" class="u-gray u-hover-white">AP Images Spotlight</a></li><li><a href="/ap-academy/" target="_blank" class="u-gray u-hover-white">AP Academy</a></li><li><a href="/explore/index.html" target="_blank" class="u-gray u-hover-white">AP Explore</a></li><li><a href="/books/index.html" target="_blank" class="u-gray u-hover-white">AP Books</a></li><li><a href="https://itunes.apple.com/us/app/ap-news/id364677107?mt=8" target="_blank" class="u-gray u-hover-white">AP News app</a></li>                </ul>              </nav>            </div>            <div class="u-center u-left-align-md o-col-1-2-md">              <h4 class="c-h5 u-caps u-white">Follow AP</h4>              <nav>                <ul class="c-caption u-list-reset u-mb0 u-mln2-md">                  <li class="u-inline-block"><a href="https://twitter.com/AP" target="_blank" title="Follow Associated Press on Twitter" class="u-block u-p2 u-white u-hover-gray">                      <svg role="img" class="c-icon c-icon--twitter u-block">                        <use xlink:href="/assets/images/icons/icons.svg#i-twitter"></use>                      </svg></a></li><li class="u-inline-block"><a href="https://www.facebook.com/APNews" target="_blank" title="Follow Associated Press on Facebook" class="u-block u-p2 u-white u-hover-gray">                      <svg role="img" class="c-icon c-icon--facebook u-block">                        <use xlink:href="/assets/images/icons/icons.svg#i-facebook"></use>                      </svg></a></li><li class="u-inline-block"><a href="https://www.youtube.com/ap" target="_blank" title="Follow Associated Press on YouTube" class="u-block u-p2 u-white u-hover-gray">                      <svg role="img" class="c-icon c-icon--youtube u-block">                        <use xlink:href="/assets/images/icons/icons.svg#i-youtube"></use>                      </svg></a></li><li class="u-inline-block"><a href="https://www.linkedin.com/company/associated-press" target="_blank" title="Follow Associated Press on LinkedIn" class="u-block u-p2 u-white u-hover-gray">                      <svg role="img" class="c-icon c-icon--linkedin u-block">                        <use xlink:href="/assets/images/icons/icons.svg#i-linkedin"></use>                      </svg></a></li>                </ul>              </nav>            </div>          </div>        </div>      </div>    </div>    <div class="o-row u-bg-ap-gray-cool-deep u-py3 u-border-top u-border-tundora u-hide-print">      <div class="o-row__gutter">        <div class="u-clearfix u-flex-lg u-items-center">          <div class="o-col-1-2-md u-hide u-show-md">            <nav class="u-flex-lg u-items-center u-clearfix">              <ul class="u-list-reset c-caption u-clearfix u-mb0 u-left-lg">                <li class="u-left u-mr1"><a href="/about/" class="u-gray u-hover-white">About</a></li><li class="u-left u-mr1"><a href="/media-center/" class="u-gray u-hover-white">Media Center</a></li><li class="u-left u-mr1"><a href="/careers/" class="u-gray u-hover-white">Careers</a></li><li class="u-left u-mr1"><a href="http://aphelp.ap.org/" class="u-gray u-hover-white">Support</a></li><li class="u-left u-mr1"><a href="/contact-us/" class="u-gray u-hover-white">Contact</a></li><li class="u-left u-mr1"><a href="/terms-and-conditions/" class="u-gray u-hover-white">Terms &amp; Conditions</a></li><li class="u-left u-mr1"><a href="/modern-slavery-statement" class="u-gray u-hover-white">Modern Slavery Statement</a></li><li class="u-left u-mr1"><a href="/privacy-policy" class="u-gray u-hover-white">Privacy</a></li>                <li class="u-left u-mr1"><a class="optanon-toggle-display" style="cursor:pointer;color:#777;">Cookie Settings</a></li>              </ul>            </nav>          </div>          <div class="o-col-1-2-md u-right-align-md u-center">            <p class="c-caption u-gray u-mb0">              All contents © copyright 2019               <a href="http://ap.org/" class="u-gray u-hover-white">Associated Press</a>.  <br class="u-hide-md">All rights reserved.            </p>          </div>        </div>      </div>    </div>
+		<script src="/assets/scripts/vendor/svg4everybody.js"></script>
+		<script src="/assets/scripts/vendor/smooth-scroll.js"></script>
+		<script src="/assets/scripts/vendor/jquery.waypoints.js"></script>
+		<script src="/assets/scripts/vendor/tab.js"></script>
+		<script src="/assets/scripts/vendor/carousel.js"></script>
+		<script src="/assets/scripts/vendor/collapse.js"></script>
+		<script src="/assets/scripts/vendor/modal.js"></script>
+		<script src="/assets/scripts/vendor/transition.js"></script>
+		<script src="/assets/scripts/vendor/jquery.matchheight.js"></script>
+		<script src="/assets/scripts/vendor/jquery.marquee.js"></script>
+		<script src="/assets/scripts/vendor/jquery.validate.js"></script>
+		<script src="/assets/scripts/vendor/slick.js"></script>
+    <script src="/assets/scripts/vendor/superfish.js"></script>
+		<script src="/assets/scripts/site.js"></script>
+		
+		<script type="text/javascript">	piAId = '63432';	piCId = '58479';	(function() {		function async_load(){			var s = document.createElement('script'); s.type = 'text/javascript';			s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';			var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);		}		if(window.attachEvent) { window.attachEvent('onload', async_load); }		else { window.addEventListener('load', async_load, false); }	})();</script>		<script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');   ga('create', 'UA-19104461-1', 'auto');  ga('send', 'pageview');</script>		
+  
 </body></html>
