@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendodsi.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230140427id_/https%3A//www.nintendo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendodsi.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629145412id_/https%3A//www.nintendo.com/privacy-policy) for the most accurate reproduction.*
 
 # Nintendo Privacy Policy - Official Site
 
@@ -46,7 +46,7 @@ We may use cookies, or other similar technologies, on some of the features of ou
 
 Analytics providers are third-party companies that collect information when you use some of our services. These companies use cookies, web beacons, software development kits (SDKs), and similar technologies to collect and analyze crash reports, keep track of what content or ads you view, how long you spend on different pages, how you arrived on a particular page and how you respond to the ads we show you. Analytics providers may combine the information they collect from our services with other information they collect from other sites and services.  The practices of these third-party analytics providers are governed by their own privacy policies. The analytics providers with whom we work include, but are not limited to, the companies listed below. Some of these companies, including those listed on the page linked below, may give users choices about how they collect and use your information.
 
-<https://www.nintendo.com/analytics-providers>
+[https://www.nintendo.com/analytics-providers](https://web.archive.org/analytics-providers)
 
 We also may permit our third-party partners to set cookies and use web beacons, SDKs, and similar technologies within our services to help us perform various internal functions necessary to operate our business and to collect information about your use of our and others’ services across your devices. These third parties may use that information to provide you advertisements, across the Internet and mobile applications and devices, about goods and services that may be of interest to you. Some of these third parties may offer you a way to opt-out of this type of targeted advertising through industry choice mechanisms. To learn more about third parties that participate in these choice offerings and to exercise choices that may be available to you, you can visit [www.networkadvertising.org](https://www.networkadvertising.org/) and [www.aboutads.info](https://www.aboutads.info/). You may be able to opt out from targeted advertising through the advertising settings for your mobile device.
 
