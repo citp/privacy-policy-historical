@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the delmarvanow.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626203430id_/http%3A//static.delmarvanow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delmarvanow.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629105643id_/https%3A//cm.delmarvanow.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | The Daily Times
+# static.delmarvanow.com
 
 Last Updated: May 14, 2018
 
