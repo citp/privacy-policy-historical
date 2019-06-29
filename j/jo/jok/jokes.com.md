@@ -1,128 +1,65 @@
-> *The following text is extracted and transformed from the jokes.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228144141id_/http%3A//www.comedycentral.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokes.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629131203id_/http%3A//www.cc.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CCUK
+# Privacy Policy | Comedy Central
 
-Updated: 25th May 2018
+When we use the term " _Personal Information_ " we mean information that you provide us that identifies you or would allow someone to contact you, such as your full name, postal address, email address or telephone number. When we use the term “ _Other Information_ ”, we mean any information other than Personal Information that may be collected about you, including, but not limited to, Device and advertising identifiers and information collected through cookies or other Tracking Technologies or Identifiers (as those terms are defined below). Any Personal Information that is modified to remove your contact information and other information that identifies you or that is replaced with information that no longer identifies you or allows someone to contact you (for example, hashed email addresses or usernames) shall not be treated as Personal Information but shall be treated as Other Information after such modification. (Personal Information and Other Information shall be referred to, together, as “ _Information_ ”.)
 
-At The Paramount UK Partnership (the corporate name for the business which runs Comedy Central in the UK), we take your privacy seriously and are committed to ensuring that we protect the information you entrust to us. We created this Privacy Policy to tell you what personal information The Paramount UK Partnership collects about you, how we use, store and share it, and your rights and choices concerning that information. This Privacy Policy applies to all information about you that we collect, whether you are visiting our websites, using one of our mobile apps or other products or services, or otherwise interacting with us, such as by attending a live event, or contacting customer service. This policy collectively refers to these touchpoints as the “Services.” While some of the information we describe here is technical, our goal is to make this policy straightforward, so please contact us if you have any questions.
-
-We will change this Privacy Policy from time to time. When we make changes, we will revise the date at the top of the policy and, in some cases, will notify you through the Services, such as via our homepage, email, or other communication.
-
-**Personal Information We Collect**
-
-In this section, we explain what personal information we collect about you and how we collect it.
-
-_Information You Provide_
-
-You can use most of our Services without actively submitting any information about yourself, but you may choose to provide us with personal information through the Services. In particular:
-
-  * If you choose to register an account with us, we will collect your name and email address
-  * If you choose to purchase a product, we will collect payment information
-  * If you choose to receive text or WhatsApp messages from us, we will collect your mobile phone number
-  * If you choose to participate in any contests, promotions, or market research surveys we sponsor, we will collect information such as your postal address, phone number, or information about your interests
-  * If you choose to post content or communicate with us or with others on a public platform or through user support, we will collect the information you provide in those postings
+  
 
 
+### 3.1 Information We Collect that You Provide Us.
 
-_Automatically Collected Information_
+### 3.1.1 User Registration; Third Party Social Media Network Sign-On; Single VII Sign-On.
 
-When you access our Services online, for example by visiting our websites or using our mobile apps, we automatically collect information about your use of the Services, such as the time of your visit and the pages or content you viewed. We also receive and collect technical information about your device and software, including the type of device, operating system and version, mobile network information, IP address (a unique number used to identify a device on the internet), mobile device advertising identifier (a resettable identifier that is assigned to your mobile device by your operating system provider, such as Apple or Google) or other device identifier, the page you visited before visiting our website, and crash data.
+If we offer user registration on the Site, to register as a member of the Site, there may be a few options for you to register: Site Registration (asdescribed below), Third Party Social Media Network Sign-On (as described below) and, if you have previously registered on another VII website, applicationor other interactive service using one of those methods, Single VII Sign-On (as defined and described below) if offered by this Site. In each case, you arerequired to either use a pre-existing user name and password (together, your “ _User ID_ ”) or select a new User ID.
 
-_Cookies_
+### 3.1.1.1 Site Registration
 
-We and our advertising and analytics service providers use cookies, which are small text files that help store user preferences and activity, and similar technologies such as web beacons, pixels, and ad tags to recognise you when you visit our Services, and to collect information such as the number of visits, which features or pages are popular, measurements about the advertising campaign’s success, and other information about your browsing activities. This allows us to ensure our Services are functioning properly, to improve the Services, and to provide and measure advertisements. For more information about cookies and the choices you have regarding the use of them through our Services, please visit our [Cookie Policy](http://www.comedycentral.co.uk/legal/cookie-policy).
+For Site registration, you are required to select a User ID and may be required to also provide other Information, such as your email address and date of birth. Additional Information may be requested and/or required during the registration process. After you have registered for the Site under Site Registration, we may recognize you when you visit certain other VII websites, applications or other interactive services across Devices (such as when you login) and permit you to use Single VII Sign-On (as described below) to register for and login on such other websites, applications or other interactive services, but please note that other VII websites, applications or other interactive services may set additional or different requirements for membership, such as minimum age.
 
-_Information from Third Parties_
+### 3.1.1.2 Third Party Social Media Network Sign-On
 
-We may offer you the ability to log into the Services with your credentials from another site or service, such as Facebook or Google. If you chose to login or register in this manner, the third-party service will provide us with access to information about you, such as your name, basic profile information, and friends list, in accordance with your privacy settings on that service.
+We may provide you with the ability to sign on to the Site by using third party social media network credentials (“ _SMN_ ”). If you choose to sign-in through an SMN, you may be required to provide us with all or some of the Information required in the Site’s registration form and your use of the Site shall be governed by the applicable SMN’s privacy policy and user agreements as well as this Privacy Policy and the Site’s Terms of Use Agreement (located at the Terms of Use tab for this Site) (“ _Terms of Use Agreement_ ”). Please note that the SMN may set additional or different requirements for membership than those set for the Site, such as minimum age. We, and VII, are not responsible for the use of any such SMN, or for the accuracy, use or misuse of any information that you may disclose to or receive from an SMN or other third party in connection with such use. If you use an SMN to sign-in, we may receive certain information from such SMN and our use of your Information we receive from any SMN is governed by the relevant policies of any such SMN and any permissions you give us regarding your Information, including, but not limited to, those set forth in this Privacy Policy. If you have questions about whether a particular feature, function or service of the Site is powered by a third party, you may contact us with your question as provided in _Section 12.2_ (“Questions”) below.
 
-_Social Sharing_
+After you have registered for the Site through SMN, we may recognize you when you visit certain other VII websites, applications or other interactive services and permit you to use Single VII Sign-On (as described below) to register for and login on such other websites, applications or other interactive services.
 
-The Services may give you the option to share with others on social media platforms, such as Facebook or Twitter. When you share in this manner, the privacy practices of the social media platform control who has access to your information and how it is treated by the social media platform. Please consult the privacy policies of any social media platform to which you share information in this manner to learn about the social media platform’s data practices.
+### 3.1.1.3 Single VII Sign-On
 
-Please note that information that cannot be linked back to you (such as aggregated data) is not considered personal information under this Policy.
+If you are not already registered for the Site, but are registered on other VII websites, applications or other interactive services through any of the above methods, we may permit you to use your User ID from such other VII websites, applications or other interactive services to register for and log into this Site (“ _Single VII Sign-On_ ”), but please note that this Site may set additional or different requirements for membership, such as minimum age, than those requirements set by other VII websites, applications or other interactive services.
 
-**Use of Information**
+Also note that, for your online privacy and security, if other people have access to your Device, we recommend you log out of your account after visiting any of the websites, applications or other interactive services that are associated with your account.
 
-We use the personal information for the following purposes:
+### 3.1.2 In Connection with Certain Features and Functions.
 
-  * Manage your account
-  * Enable you to participate in public platforms or other interactive features of the Services
-  * Fulfill orders you have placed
-  * Respond to customer service requests
-  * Send promotional messages and newsletters you request
-  * Target advertisements to you both on and off of our Services
-  * Analyze traffic and user activities on our Services, identifying popular areas or features, and optimizing and personalizing the Services
-  * Provide, maintain, and improve our Services, as well as to develop new content and features
-  * Protect the rights and property of The Paramount UK Partnership and others, including to detect, investigate, and prevent fraud and other illegal activities and to enforce our agreements
+We may also provide you with access to certain features or functions that we may offer on the Site, such as the option to participate in commenting, shopping and member profile pages. To sign up for or participate in these features or functions, you may be required to provide us with certain Information about you in order for us to personalize and/or allow you to use such features and functions. For example, if we offer e-Commerce services on this Site, if you order any of our goods or services through such services, in addition to your name and contact information, we (or our operational service providers that we use to provide the e-Commerce service) may also collect and/or maintain your billing address, shipping address, selections, credit card or other payment instrument information, order number and information about your computer's internet address and website which may have referred or directed you to the Site (e.g., the referring URL).
 
+ **The Site may also provide features, functions and/or services powered by an SMN or other third party. For example, Information may be disclosed to an SMN through plug-ins offered by such SMN (such as Likes, Shares or commenting). Please take care when using any SMN or other third party service and familiarize yourself with the SMN’s or other third party’s policies and agreements, if any, that govern such use.**
 
+### 3.1.3 In Connection with Promotions such as Contests and Sweepstakes.
 
-**Data Storage**
+There may be a separate registration process to enter Promotions (as defined in the **[Terms of Use Agreement](http://www.paramountnetwork.com/legal/yyfnqm)** ) such as contests and sweepstakes which may require the submission of all or some of the following: your first and last name, street address, city, state and zip code, email address, telephone number and date of birth. Additional Information may be requested depending on the specific Promotion. The Promotion’s entry page and/or Rules shall provide the specific requirements. You may also have the opportunity to opt-in to receive special Promotions or offers from our third party advertisers, sponsors or promotional partners (“ _Advertisers_ ”) as a result of your use of the Site in connection with these Promotions.
 
-We store the personal information we collect for as long as is necessary for the purpose(s) for which we originally collected it. For example, if you register for an account with us, we will generally maintain your account information as long as needed to service your account. We may also retain personal information as required by law.
+### 3.2 Information Collected Through Use of Cookies and Other Tracking Technologies.
 
-**Disclosure of Your Personal Information**
+The Site and/or third parties may use “cookies”, “web beacons”, Flash local shared objects and other similar tracking technologies (collectively, “ _Tracking Technologies_ ”) to collect Other Information automatically as you browse the Site and the web. " _Cookies_ " are typically html or browser-based text or other files (and often referred to as browser cookies) that help store information, user preferences and/or user activity. “ _Web beacons_ ” (also known as image tags, gif, tracking pixels or web bugs) are small pieces of code used to collect data, such as counting page views, promotion views or advertising responses. Flash local shared objects (“ _LSOs_ ”) (sometimes known as Flash cookies and used if Adobe Flash is used) are text or other files that help store user preferences and/or activity.
 
-We will not disclose your personal information to any unrelated third parties unless we have your consent to do so, with the exceptions we mention here:
+These Tracking Technologies collect “click stream” data and additional Other Information regarding your visits to the Site (such as your visits to the Site’s webpages, type of browser use, type of operating system used, date and time of viewing, use of our features and purchasing history or preferences) or other websites, applications or interactive services. Through these Tracking Technologies, we may collect such Other Information across multiple sessions on this Site and other websites, applications or other interactive services and may also collect or access your IP address (which is automatically assigned to any Device(s) and/or Device and Internet browser combination you use to access the Site) and/or set or access some other identifier unique to the Device(s), Device platform and/or Device-Internet browser combination you use to access the Site (“ _Identifier_ ”). For example, we may set a unique alphanumeric Identifier unique to your home computer on Firefox, or access an Identifier provided by a mobile platform, such as the application or advertising Identifiers offered by Apple. Your Personal Information is not collected as part of this process but we may combine any or all of the Other Information we collect using Tracking Technologies and associate it and/or Identifiers with your Personal Information (such as your Single VII Sign-On ID) and/or with other non-personally identifiable unique identifiers assigned by VII or third parties.
 
-With service providers who provide services to us under a contract and are required to keep the personal information confidential  
-If reasonably necessary to comply with a law, regulation, or compulsory process (for example, to respond to a subpoena)
-
-  * If we conclude your actions violate our user agreements or policies, or to protect the rights, property or safety of The Paramount UK Partnership or others
-  * In connection with a merger, sale of company assets, financing or acquisition of all or a portion of our business, provided that the receiving party agrees to protect personal information in accordance with the commitments of this policy and applicable law
-  * With companies within the Viacom corporate family
-  * We share personal information that does not directly identify you but that identifies your device through third-party cookies and similar technologies on our website and in our apps, to enable those third parties to provide us with analytics and advertising services. Those companies collect information from our website or apps such as cookie identifiers, device identifiers, IP address, as well as information about your web viewing or app usage activity off of the Services. To learn more about how this information can be used for serving interest-based advertising, how The Paramount UK Partnership uses these services, and for links to these third parties’ privacy policies, please visit our [Cookie Policy](http://www.comedycentral.co.uk/legal/cookie-policy).
+  
 
 
+### 3.2.1 The Site’s Use of Tracking Technologies to Collect Information
 
-**Data Transfers**
+By visiting the Site, whether as a registered user or otherwise, you acknowledge and understand that you are giving us your consent to track your activities and your use of the Site and other websites, applications or interactive services through these Tracking Technologies and that we may use Tracking Technologies in the emails we send to you. See _Section 5_ below (“ _Your Choices_ ”) for more information on how you can withdraw your consent for certain purposes.
 
-We and our service providers transfer your personal information to, or store or access it in, other countries where the laws may not provide levels of protection for your personal information equivalent the protection provided by the laws of the European Union. When we do this, we take steps to ensure that your personal information receives an appropriate level of protection through contractual requirements imposed on the recipient of the information (you can obtain a copy of these clauses by contacting us or, when we transfer data to the United States, through the EU-U.S. or Swiss-U.S. Privacy Shield Frameworks (“Privacy Shield”) regarding the collection, use, and retention of personal information transferred from the European Economic Area (EEA) or Switzerland to the United States. The Viacom family of companies in the United States (including Viacom, Inc. and Viacom International Inc.) adheres to the Privacy Shield Principles, as described in Viacom’s Privacy Shield certification, which you can find at [ https://www.privacyshield.gov](https://www.privacyshield.gov/).
+We use Tracking Technologies to enable us to collect and then use Information as described in _Section 4.2_ (“ _Other Information Collected by Us_ ”) under “ _How Is Collected Information Used_ ” below. For example, we use Tracking Technologies to enable Single VII Sign-On, to prevent you from seeing the same advertisements too many times or seeing advertisements too frequently, to tailor your experience on the Site by delivering relevant personalized advertising, email marketing and other content and to record if you have opted out of receiving personalized advertising from us.
 
-For any questions or complaints regarding our compliance with either the EU-U.S. Privacy Shield Framework or the Swiss-U.S. Privacy Shield Framework, please contact us at [privacyshield@viacom.com](mailto:privacyshield@viacom.com). If we do not resolve your complaint, you may submit your complaint free of charge to JAMS, Viacom’s designated independent dispute resolution provider based in the United States. For information about the JAMS dispute resolution process or to submit a complaint, please [click here](https://www.jamsadr.com/eu-us-privacy-shield) to go to JAMS’ website. Under certain conditions specified by the principles of the Privacy Shield you may also be able to invoke binding arbitration to resolve your complaint. Viacom is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. If Viacom shares personal information collected in the EEA with a third-party service provider in the United States that processes the information on Viacom’s behalf, Viacom will be liable for that third party's processing of personal information in violation of the Privacy Shield, unless Viacom can prove that it is not responsible for the unauthorised processing.
+### 3.2.2 Third Parties’ Use of Tracking Technologies to Collect Information
 
-**Legal Basis for Processing**
+This Site may additionally use a variety of third party advertising networks, data exchanges, data management platforms, supply side platforms, ad exchanges, traffic or audience measurement service providers, marketing analytics service providers and other third parties (collectively, “ _Third Party Service Providers_ ”) to, for example, facilitate personalized advertisements (“ _Customized Advertising_ ”) and/or other content, serve advertisements on the Site and/or measure and analyze advertising or content effectiveness and/or traffic on the Site. Customized Advertising enable us to, among other things, help deliver advertisements to you for products and services that you might be interested in based on your visits to the Site and other websites, applications or other interactive services you have visited.
 
-We will only collect, store, or otherwise process your personal information in the following situations:
+Third Party Service Providers, as well as Advertisers and other third parties, may themselves set and access their own Tracking Technologies on your Device subject to your choices about those Tracking Technologies (see Section 5.2.1 below (“Tracking Technologies set by Third Party Service Providers and Advertisers”) and “More Information on Managing Tracking Technologies” in _Section 5.2.1_ below) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site.
 
-  * When we have your consent to do so. For example, if you opt in to receive promotional emails. You can withdraw your consent at any time as described below or directly through the Services.
-  * We need to use your personal information to perform our responsibilities under our contract with you (e.g., providing the products or services you have requested).
-  * We have a legitimate interest in processing your personal information. For example, we may process your personal information to communicate with you about our Services; and to provide, secure, and improve our Services.
-  * We are required by law to process the information.
+We may also enlist the assistance of Third Party Service Providers so that the Site may set Tracking Technologies. For example, to the extent necessary to provide basic advertising serving services such as controlling how often you see advertisements or ensuring you do not see the same advertisement repeatedly, we may enlist the assistance of such Third Party Service Providers to create, customize or modify Tracking Technologies set by the Site. See also Section 5.2.1 below for more information on this Site’s use of Nielsen’s proprietary measurement software to collect and use video viewing metrics and other information.
 
-
-
-**Your Rights and Choices**
-
-You have the right to access the personal information we hold about you and to ask us to correct, erase, or, in some situations, transfer it to another provider. You may also have the right to withdraw your consent to processing, object to, or request that we limit or restrict certain processing of your personal information as described below.
-
-_Access and Deletion Requests_
-
-You can also update, correct, or delete information we have about you or close your account by contacting us at [DataPrivacyRights@viacom.com](mailto:DataPrivacyRights@viacom.com?subject=Privacy%20Rights) with the subject line “Privacy Rights”. When necessary to identify you, we will request that you give proof of your identity or require more information from you that is necessary to handle your request.
-
-_Emails, Text Messages, and WhatsApp Messages_
-
-You can opt out of receiving promotional emails, text messages, or WhatsApp messages by following the instructions in those messages. If you opt out of receiving promotional emails from us, we may still send you non-promotional emails.
-
-_Mobile push notifications_
-
-When you consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
-
-_Cookies and similar technologies_
-
-For information about the choices you have regarding our use of cookies, including how to block cookies or withdraw consent to certain types of cookies and other similar technologies, please visit our [Cookie Policy](http://www.comedycentral.co.uk/legal/cookie-policy).
-
-_Questions or complaints_
-
-If you have a question about our Privacy Policy, data practices or the choices available to you, please contact us using the information below. If we are not able to address your concern and you are a resident of the EEA, you have the right to lodge a complaint with the Data Protection Authority where you live, work, or where the issue took place. For contact details of your local Data Protection Authority, please see <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
-
-**Contact Us**
-
-We are happy to answer your questions about our Privacy Policy and data practices. You may also contact us to exercise your rights as discussed in this Privacy Policy.
-
-The Paramount UK Partnership  
-Data Protection Officer  
-[DataPrivacyRights@viacom.com](mailto:DataPrivacyRights@viacom.com)  
-17-29 Hawley Crescent  
-London NW1 8TT
+Except to the extent necessary to provide services to the Site, Third Party Service Providers do not have access to Tracking Technologies set by the Site, but we may provide to Third Party Service Providers certain Other Information collected by Tracking Technologies set by the Site in order for the Site to provide Customized Advertising or in order for the Third Party Service Providers to provide other services to the Site, such as measuring or analyzing advertising or content effectiveness or traffic on the Site. For example, in order to analyze traffic on the Site, we may provide to our Third Party Service Providers certain information we collect about your interaction with the Site along with an Identifier so that the Third Party Service Provider may provide analytics services to the Site. 
