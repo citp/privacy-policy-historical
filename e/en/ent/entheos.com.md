@@ -1,56 +1,37 @@
-> *The following text is extracted and transformed from the entheos.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825065913id_/https%3A//www.entheos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entheos.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629082737id_/https%3A//www.optimize.me/privacy) for the most accurate reproduction.*
 
-# The Academy for Optimal Living | en*theos
+# Privacy Policy | Optimize
 
-## Your information is safe with us!
+Your privacy is very important to us. We want to make your experience with us as enjoyable and rewarding as possible, and we want you to use our vast array of information, tools, and opportunities with complete confidence.
 
-We want you to be able to enjoy all of the goodness that en*theos has to offer with the peace of mind that your information is secure and confidential with us.
+## What information does Optimize Enterprises Public Benefit Corporation collect from our users and how do we collect it?
 
-## What do we keep?
+Optimize Enterprises Public Benefit Corporation only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. Optimize Enterprises Public Benefit Corporation collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.
 
-When you sign up for any en*theos products or Academy courses, we only keep the basics. Your name (Dale Carnegie would be proud), email address, and telephone number (optional and only if provided on sign up).
+## How do we use this information?
 
-Any financial information (credit card information, PayPal username) is not stored and not available to us once the transaction is complete, and is only used for billing purposes.
+This information is used for internal marketing purposes only. Optimize Enterprises Public Benefit Corporation does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company outside of billing and shipping purposes.
 
-## What do we share?
+## What are cookies and how do we use them?
 
-We love and respect all of our amazing peeps and want to remind you that we do not sell your personal information. We like to keep it just between us. :)
+Cookies: Like many other commercial sites, our Site utilizes standard technologies called “cookies” and clear GIFs to collect information about how our Site is used. A cookie is a small data text file, which a website stores on your computer’s hard drive (if your web browser permits) that can later be retrieved to identify you to us. Cookies were designed to help a website recognize a user’s browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot be read by a website other than the one that set the cookie. A cookie cannot pass on a computer virus or capture any of the Personally Identifiable Information that resides on your computer.
 
-Basic information is shared with the Professors we partner with to teach Academy courses for the purpose of supporting you through the courses and beyond.
+Clear GIFs: At times, we work with third-party service partners that employ clear GIFs (also known as pixel tags, single pixel GIFs, web beacons or action tags) for our benefit to help us measure advertising effectiveness. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of our users. The main difference between the two is that clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear GIFs are not tied to your Personally Identifiable Information and only track the visitor traffic and behavior to and on our Site.
 
-When you sign up for one of our Symposiums, your name and email address are shared with the Host-only of that conference, and not the guest experts.
+Clear GIFs can “work with” existing cookies on a computer if they are both from the same website or advertising company. That means, for example, that if a person visited “www.companyX.com”, which uses an advertising company’s clear GIF, the website would match the clear GIFs identifier and the advertising company’s cookie ID number, to show the past online behavior for that computer. This collected information can be shared with the advertising company. We do, at times, provide such information to our third-party advertising service partners, but that information can only be used by our partner for our benefit and never includes personally identifiable information.
 
-We don’t share your information with any third party outside of our organization, except for the fulfillment of an order (applies to shipping the hardcover of A Philosopher’s Notes through our fulfillment partners at [Bang Printing]()).
+## How do we store your information?
 
-While you are on our site we use cookies (the delicious, vegan kind that Alexandra whips up :)) to keep track of what you put in your shopping cart, and how you arrived at our site. If you were referred by one of our amazing affiliates, we keep track of what you purchase so we can give them a virtual hug/high five! No personal information is shared with our affiliates. (Learn more about our affiliate program here!)
+Your information is stored at the list server that delivers Optimize Enterprises Public Benefit Corporation newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive Optimize Enterprises Public Benefit Corporation’s newsletters.
 
-**Please note** , your profile and posts on the site may be indexed and findable on Google and other search engines. (We are working on giving you better control over the privacy of content you post on the site and will release it soon!)
+All of the newsletters that are sent to you by Optimize Enterprises Public Benefit Corporation include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact our [help desk](https://www.optimize.me/support/) to change your information at any time.
 
-## You have total control of what we retain.
+## Disclaimer
 
-If you’d like to know what information we have (hint: it’s your name and email address :)), please don’t hesitate to email us at [support@entheos.com](mailto:support@entheos.com) or call (866) 921-8566 to speak directly to one of our team members, and we’ll be happy to let you know + make any adjustments you feel are necessary for the security of your information.
+This policy may be changed at any time at Optimize Enterprises Public Benefit Corporation’s discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised March 24, 2016.
 
-At your request we will gladly: 
+If you have any questions or concerns regarding our privacy policy please direct them to our [help desk](https://www.optimize.me/support/). You may also send a letter to:
 
-  * Provide what personal info we have
-  * Correct any of your personal data
-  * Delete any personal data
-  * Listen to your feedback about how we can better protect your privacy and security
-
-
-
-We always want to share all the cool stuff we think will optimize your life, but if you aren’t diggin’ us, you absolutely can remove yourself by unsubscribing from our mailing list at <http://www.entheos.com/newsletters/unsubscribe>.
-
-## How we keep your information on lock down.
-
-We are very precautious with your personal data and very aware of financial information security in today’s digital marketplace.
-
-Whenever you submit sensitive information, that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
-
-We also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information.
-
-If you feel that we are not abiding by this privacy policy or have suggestions on how we can improve it, please let us know by calling us at (866) 921-8566 or by emailing us at [support@entheos.com](mailto:support@entheos.com).
-
-Thank You! :)
-
-\- en*theos Team
+Optimize Enterprises, Public Benefit Corporation  
+340 S. Lemon Ave. #5609  
+Walnut, CA 91789
