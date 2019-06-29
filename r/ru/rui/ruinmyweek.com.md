@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruinmyweek.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105055008id_/http%3A//ruinmyweek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruinmyweek.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629191516id_/https%3A//ruinmyweek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ruin My Week
 
