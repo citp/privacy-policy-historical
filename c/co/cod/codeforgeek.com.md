@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeforgeek.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229100013id_/https%3A//codeforgeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeforgeek.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629235909id_/https%3A//codeforgeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Codeforgeek
 
@@ -64,6 +64,6 @@ If you have any questions about our Privacy Practices or this Policy, please con
 
 Phone : 9768820285
 
-Email : [shahid@codeforgeek.com](mailto:shahid@codeforgeek.com)
+Email : [[email protected]](https://codeforgeek.com/cdn-cgi/l/email-protection#a1d2c9c0c9c8c5e1c2cec5c4c7ced3c6c4c4ca8fc2cecc)
 
 This document was last updated on November 04, 2014
