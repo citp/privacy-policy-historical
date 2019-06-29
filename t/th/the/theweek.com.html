@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theweek.com privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231170155id_/https%3A//theweek.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theweek.com privacy policy that was archived on 2019-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190629232527id_/https%3A//theweek.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<!-- Chartbeat 1 of 2 -->
@@ -13,14 +13,15 @@
 
 	
 		<!-- Start Typekit -->
-	<script type="text/javascript" src="//use.typekit.net/xia0rvc.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" href="https://use.typekit.net/xia0rvc.css">
+
 <script>
 !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function()
 {q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore( A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
 apstag.init({ pubID: '3198',
 adServer: 'googletag' });
 </script>
+
 				<meta property="fb:pages" content="10716057521">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta content="Official site of The Week Magazine, offering commentary and analysis of the day's breaking news and current events as well as arts, entertainment, people and gossip, and political cartoons." name="description">
@@ -78,21 +79,21 @@ adServer: 'googletag' });
 		</style>
     <![endif]-->
     
-    		<script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
-	    <script src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
-		<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-		<script>
 
-						var skipPrebid = false;
-					</script>
-				<script type="text/javascript" src="/js/5040ba6.js"></script>
-
-		    
     		
 	
 </head>
 
 <body class="append-mat">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<script src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+	<script>
+
+                var skipPrebid = false;
+        	</script>
+    	<script type="text/javascript" src="/js/5040ba6.js"></script>
+
+    
 	<!-- begin consent tag -->
 	<!--
     your client engineer will help you construct this config file
@@ -132,7 +133,8 @@ adServer: 'googletag' });
 	<script src="https://secure-cdn.mplxtms.com/gdpr/cmp/gdpr-cmp-bootstrap.js"></script>
 	<!-- end consent tag -->
 <div id="cssjsconfig"></div>
-			<script>
+			<script src="//scripts.webcontentassessor.com/scripts/e2a1697839742e7b46f0a2d6d247805ed5bc8ddccd9ee1001bd011f5b25b8c67"></script>
+		<script>
 																/**
 			 * AdManager allows for global targeting parameters
 			 * that will be applied to all Ads written
@@ -175,25 +177,27 @@ adServer: 'googletag' });
         if( isMobile ) {
             googletag.pubads().addEventListener('slotRenderEnded', function(event) {
                 k = event.slot.getSlotElementId();
-                var adSize = event.size[0] + 'x' + event.size[1];
+                if(event.size != null) {
+                    var adSize = event.size[0] + 'x' + event.size[1];
 
-                if (k.indexOf('div-gpt-ad-14229977701') != -1){
-                    if (adSize == '300x50' || adSize == '320x50' || adSize == '300x150') {
-                        var timeOut = adSize == '300x150' ? 22000 : 20000;
+                    if (k.indexOf('div-gpt-ad-14229977701') != -1) {
+                        if (adSize == '300x50' || adSize == '320x50' || adSize == '300x150') {
+                            var timeOut = adSize == '300x150' ? 22000 : 20000;
 
-                        oopAdMobile.addClass('slide-up');
+                            oopAdMobile.addClass('slide-up');
 
-                        setTimeout(function() {
-                            if (oopAdMobile.hasClass('slide-up')) {
-                                oopAdMobile.addClass('slide-down').removeClass('slide-up');
-                            }
-                        }, timeOut);
+                            setTimeout(function () {
+                                if (oopAdMobile.hasClass('slide-up')) {
+                                    oopAdMobile.addClass('slide-down').removeClass('slide-up');
+                                }
+                            }, timeOut);
 
-                        closeBtn.click(function() {
-                            if (oopAdMobile.hasClass('slide-up')) {
-                                oopAdMobile.addClass('slide-down').removeClass('slide-up');
-                            }
-                        });
+                            closeBtn.click(function () {
+                                if (oopAdMobile.hasClass('slide-up')) {
+                                    oopAdMobile.addClass('slide-down').removeClass('slide-up');
+                                }
+                            });
+                        }
                     }
                 }
             });
@@ -221,12 +225,11 @@ adServer: 'googletag' });
 	<!-- End Google Tag Manager -->
 
 
-
 <div id="head-wrap" class="clearfix">
-<div class="container">
-	<div class="section-content">
-	<div class="section">
-	    
+    <div class="container">
+        <div class="section-content">
+            <div class="section">
+                    
 
 
 <div class="header-wrapper">
@@ -263,6 +266,8 @@ adServer: 'googletag' });
             </div>
             <div class="special-reports-inside-header">Special reports:
                 <span class="additional-link theideafactory"><a href="/section/theideafactory">THE IDEA FACTORY</a></span>
+                <span class="additional-link lifeafterwork"><a href="/section/lifeafterwork">LIFE AFTER WORK</a></span>
+
             </div>
         </div>
     </div>
@@ -275,16 +280,18 @@ adServer: 'googletag' });
             <div class="subscribe-block-header blue-buttons header-btns">
                 <div id="subscribe-links-desktop" class="subscribe-links-desktop show-for-medium">
                     <ul class="links-list">
-                        <li class="link-wrap"><a class="link-header subscribe-link-header" href="https://subscribe.theweek.com/servlet/OrdersGateway?cds_mag_code=TWE&amp;cds_page_id=234162&amp;cds_response_key=I8LRPKSW1" target="_blank">Subscribe &amp; save</a></li>
-                        <li class="link-wrap"><a class="link-header give-gift-link-header" href="https://subscribe.theweek.com/servlet/ConvertibleGateway?cds_mag_code=TWE&amp;cds_page_id=233087&amp;cds_response_key=I8LRPKGW2" target="_blank">Give a gift</a></li>
+                        <li class="link-wrap"><a id="subscribe-link-header-desktop-tablet" class="link-header subscribe-link-header" href="https://subscribe.theweek.com/servlet/OrdersGateway?cds_mag_code=TWE&amp;cds_page_id=239076&amp;cds_response_key=I9WRPKSW1" target="_blank">Subscribe &amp; save</a></li>
+                        <li class="link-wrap"><a class="link-header give-gift-link-header" href="https://subscribe.theweek.com/servlet/ConvertibleGateway?cds_mag_code=TWE&amp;cds_page_id=239084&amp;cds_response_key=I9WRPKGW2" target="_blank">Give a gift</a></li>
                         <li class="link-wrap"><a class="link-header digital-subscribe-link-header" href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&amp;WESACTIVESESSION=TRUE&amp;PAGE_ID=19303DIR01&amp;MAGCODE=WK&amp;MSCCMPLX=801WKSAC2" target="_blank">Digital subscription</a></li>
                     </ul>
 
-                                                                            <div class="cover show-for-large-only"><img style="width:70px;" src="//cdn-assets.ziniopro.com/var/site_720/storage/images/media2/images/ipad-cover-904-905/1484572-1-eng-US/ipad-cover-904-905.jpg?t=ipad_portrait_cover&amp;w=300&amp;h=300"></div>
+                                                                            <div class="cover show-for-large-only">
+                                                                                    <img style="width:70px;" src="https://images.theweek.com/sites/default/files/ipad_cover_931-932.jpg">
+                                                                        </div>
                 </div>
 
                 <div class="subscribe-links-mobile show-for-small-only">
-                    <div class="link-wrap"><a id="subscribe-link-header-mobile" class="link-header subscribe-link-header" href="https://subscribe.theweek.com/servlet/OrdersGateway?cds_mag_code=TWE&amp;cds_page_id=234162&amp;cds_response_key=I8LRPMSW1" target="_blank">SUBSCRIBE</a></div>
+                    <div class="link-wrap"><a id="subscribe-link-header-mobile" class="link-header subscribe-link-header" href="https://subscribe.theweek.com/servlet/OrdersGateway?cds_mag_code=TWE&amp;cds_page_id=239076&amp;cds_response_key=I9WRPMSW1" target="_blank">SUBSCRIBE</a></div>
                 </div>
             </div>
         </div>
@@ -292,6 +299,37 @@ adServer: 'googletag' });
     <div class="border-header row column" id="advetorial-blue-bar"></div>
 </div>
     <script>
+        // A/B TEST
+        
+        // function abSubscribeTest() {
+        //     var subscribeRandom =  Math.floor((Math.random() * 1000000) + 1);
+        //     var subscribeLink = TheWeek.isMobile ? jQuery('#subscribe-link-header-mobile') : jQuery('#subscribe-link-header-desktop-tablet');
+
+        //     var controlUrl = 'https://subscribe.theweek.com/servlet/OrdersGateway?cds_mag_code=TWE&cds_page_id=234162&cds_response_key=I9DRPKSW8';
+        //     var variableUrl = 'https://subscribe.theweek.com/servlet/OrdersGateway?cds_mag_code=TWE&cds_page_id=238678&cds_response_key=I9DRPKSW6';
+        //     var linkHref = subscribeRandom <= 500000 ? controlUrl : variableUrl;
+        //     var eventName = 'Test the offer Desktop/Tablet - 50/100 issues vs 25/50 issues';
+
+        //     if (TheWeek.isMobile) {
+        //         controlUrl = 'https://subscribe.theweek.com/servlet/OrdersGateway?cds_mag_code=TWE&cds_page_id=234162&cds_response_key=I9DRPMSW9';
+        //         variableUrl = 'https://subscribe.theweek.com/servlet/OrdersGateway?cds_mag_code=TWE&cds_page_id=238678&cds_response_key=I9DRPMSW7';
+        //         linkHref = subscribeRandom <= 500000 ? controlUrl : variableUrl;
+        //         eventName = 'Test the offer Mobile - 50/100 issues vs 25/50 issues';
+        //     }
+
+        //     subscribeLink.attr({
+        //         'href': linkHref,
+        //         'onclick': 'TheWeek.pushUAEvent("Testing", "' + eventName + '", "Control - Clicked");'
+        //     });
+
+        //     TheWeek.pushUAEvent('Testing', eventName, 'Control - Seen', 0, {nonInteraction: true});
+        // }
+
+        // jQuery(document).ready(function() {
+        //     abSubscribeTest();
+        // });
+        // End A/B test
+
         // Search submit
         function searchSubmit() {
             var term = document.getElementById("search_input").value;
@@ -316,16 +354,13 @@ adServer: 'googletag' });
     
 
 
-	
+                
+                                                            <script type="text/javascript" src="/js/eb08862.js"></script>
+                                    
 
-
-	    	    <script> var colorHeader ='white';</script>
-	    	    <script type="text/javascript" src="/js/eb08862.js"></script>
-	    	
-
-        <div class="page-content" id="content">
-			<div class="content-inside">
-			
+                <div class="page-content-section" id="content">
+                    <div class="content-inside">
+                        
     <div id="mainbulk" class="privacy-ipad-container">
         <div class="bottom_med dot"><h2>The Week Privacy Policy</h2></div>
 
@@ -470,17 +505,13 @@ adServer: 'googletag' });
 
         <p><a href="javascript:window.cmpConfig.methods.summon();">Review Consent Preferences</a></p>
     </div>
-			</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-		</div>
-
-				
-
-	</div>
-	</div>
-</div>
-
-	<!-- Body Bottom -->
+            <!-- Body Bottom -->
 
 
 
@@ -490,18 +521,18 @@ adServer: 'googletag' });
 
 	<script type="text/javascript" src="/js/ddc9e4e.js"></script>
 
-	
-</div>
+            </div>
 
     
 
 <div class="page-footer" id="page-footer">
     <div class="footer-content-wrap">
     <div class="row column">
-        <a class="logo-footer" href="/"><img src="/bundles/twsite/images/global/logo-tw-white.png"></a>
-        <div class="follow-buttons-footer">
+        <a class="logo-footer" href="/">
+                            <img src="/bundles/twsite/images/global/logo-tw-white.png">
+                    </a><div class="follow-buttons-footer"><a class="logo-footer" href="/">
             <div class="fb-like follow-btn" data-href="http://facebook.com/theweek" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
-            <div class="twitter-follow follow-btn"><a class="twitter-follow-button" href="https://twitter.com/theweek" data-show-screen-name="false" data-show-count="false" data-dnt="true"></a></div>
+            </a><div class="twitter-follow follow-btn"><a class="logo-footer" href="/"></a><a class="twitter-follow-button" href="https://twitter.com/theweek" data-show-screen-name="false" data-show-count="false" data-dnt="true"></a></div>
         </div>
     </div>
         <div class="row form-menu-section">
@@ -511,16 +542,16 @@ adServer: 'googletag' });
                 <div class="small-12 medium-6 column">
                     <ul class="footer-links-set">
                         <li class="footer-link more-about show-for-small-only">More about The Week</li>
-                                                                                    <li class="footer-link show-for-medium"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Subscribe');" href="https://subscribe.theweek.com/servlet/OrdersGateway?cds_mag_code=TWE&amp;cds_page_id=234162&amp;cds_response_key=I8LRPKSW3" target="_blank">Subscribe</a></li>
+                                                                                    <li class="footer-link show-for-medium"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Subscribe');" href="https://subscribe.theweek.com/servlet/OrdersGateway?cds_mag_code=TWE&amp;cds_page_id=239076&amp;cds_response_key=I9WRPKSW3" target="_blank">Subscribe</a></li>
                                                                                                                 <li class="footer-link show-for-medium"><a id="login-footer" onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Subscriber login');" href="/login">Subscriber login</a></li>
-                                                                                                                <li class="footer-link show-for-medium"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Give a gift');" href="https://subscribe.theweek.com/servlet/ConvertibleGateway?cds_mag_code=TWE&amp;cds_page_id=233087&amp;cds_response_key=I8LRPKGW4" target="_blank">Give a gift</a></li>
+                                                                                                                <li class="footer-link show-for-medium"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Give a gift');" href="https://subscribe.theweek.com/servlet/ConvertibleGateway?cds_mag_code=TWE&amp;cds_page_id=239084&amp;cds_response_key=I9WRPKGW4" target="_blank">Give a gift</a></li>
                                                                                                                 <li class="footer-link show-for-medium"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Classroom subscriptions');" href="https://subscribe.theweek.com/servlet/ConvertibleGateway?cds_mag_code=TWE&amp;cds_page_id=233362&amp;cds_response_key=I8LEBKEW6" target="_blank">Classroom subscriptions</a></li>
                                                                                                                 <li class="footer-link show-for-medium"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Newsletters');" href="/newsletters">Newsletters</a></li>
                                                                                                                 <li class="footer-link show-for-medium"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'RSS');" href="/rss.xml">RSS</a></li>
                                                                                                                 <li class="footer-link show-for-medium"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Privacy policy');" href="/privacy">Privacy policy</a></li>
-                                                                                                                                                                                                                                                                                                                                                                                                            <li class="footer-link show-for-small-only"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Subscribe');" href="https://subscribe.theweek.com/servlet/OrdersGateway?cds_mag_code=TWE&amp;cds_page_id=234162&amp;cds_response_key=I8LRPMSW3" target="_blank">Subscribe</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                            <li class="footer-link show-for-small-only"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Subscribe');" href="https://subscribe.theweek.com/servlet/OrdersGateway?cds_mag_code=TWE&amp;cds_page_id=239076&amp;cds_response_key=I9WRPMSW3" target="_blank">Subscribe</a></li>
                                                                                                                 <li class="footer-link show-for-small-only"><a id="login-footer" onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Subscriber login');" href="/login">Subscriber login</a></li>
-                                                                                                                <li class="footer-link show-for-small-only"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Give a gift');" href="https://subscribe.theweek.com/servlet/ConvertibleGateway?cds_mag_code=TWE&amp;cds_page_id=233087&amp;cds_response_key=I8LRPMGW4" target="_blank">Give a gift</a></li>
+                                                                                                                <li class="footer-link show-for-small-only"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Give a gift');" href="https://subscribe.theweek.com/servlet/ConvertibleGateway?cds_mag_code=TWE&amp;cds_page_id=239084&amp;cds_response_key=I9WRPMGW4" target="_blank">Give a gift</a></li>
                                                                                                                 <li class="footer-link show-for-small-only"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Classroom subscriptions');" href="https://subscribe.theweek.com/servlet/ConvertibleGateway?cds_mag_code=TWE&amp;cds_page_id=233362&amp;cds_response_key=I8LEBKEW6" target="_blank">Classroom subscriptions</a></li>
                                                                                                                 <li class="footer-link show-for-small-only"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Newsletters');" href="/newsletters">Newsletters</a></li>
                                                                                                                 <li class="footer-link show-for-small-only"><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'RSS');" href="/rss.xml">RSS</a></li>
@@ -547,11 +578,14 @@ adServer: 'googletag' });
         <div class="small-12 medium-6 medium-pull-6 large-7 large-pull-5 column">
             <div class="row medium-collapse form-cover-section">
                 <div class="small-12 medium-4 large-6 column">
-                                                                                    <div class="magazine-img"><img src="//cdn-assets.ziniopro.com/var/site_720/storage/images/media2/images/ipad-cover-904-905/1484572-1-eng-US/ipad-cover-904-905.jpg?t=ipad_portrait_cover&amp;w=300&amp;h=300"></div>                                    </div>
+                                                                                                            <div class="magazine-img">
+                                                     <img src="https://images.theweek.com/sites/default/files/ipad_cover_931-932.jpg">
+                                                </div>
+                                                        </div>
                            </div>
         </div>
     </div>
-    <div class="row column footer-copyright"><span>®</span> 2018 The Week Publications Inc., All rights reserved.</div>
+    <div class="row column footer-copyright"><span>®</span> 2019 The Week Publications Inc., All rights reserved.</div>
     </div>
 </div>
 
@@ -582,27 +616,25 @@ adServer: 'googletag' });
     });
 </script>
 
+
 <!-- Facebook Pixel Code -->
 <script>
-    !function(f,b,e,v,n,t,s)
-    {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-    n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];
-    s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '617607501642362');
-    fbq('track', 'PageView');
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '465576534193662');
+fbq('track', 'PageView');
 </script>
 <noscript>
-    <img height="1" width="1" src="https://www.facebook.com/tr?id=617607501642362&ev=PageView&noscript=1"/>
+    <img height="1" width="1" src="https://www.facebook.com/tr?id=465576534193662&ev=PageView &noscript=1"/>
 </noscript>
 <!-- End Facebook Pixel Code -->
 
 
 
 
-	<!-- Skimlinks-->
-<script type="text/javascript" src="https://s.skimresources.com/js/121709X1582106.skimlinks.js"></script>
 
 
 
