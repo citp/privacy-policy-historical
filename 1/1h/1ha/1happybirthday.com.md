@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the 1happybirthday.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219124929id_/http%3A//www.1happybirthday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1happybirthday.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629042232id_/http%3A//www.1happybirthday.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This site is owned and operated by 1HappyBirthday. Your privacy on the Internet is of the utmost importance to us. At 1HappyBirthday, we want to make your experience online satisfying and safe.
+
+YouTube Terms of Service : [youtube.com/static?gl=GB&template=terms](https://www.youtube.com/static?gl=GB&template=terms) Notification: Our API Client uses YouTube API Services. Google privacy policy: <https://policies.google.com/privacy> Google security settings page about revoking user access: <https://myaccount.google.com/security?pli=1>
 
 While using 1HappyBirthday, you may see links or other references to third-party websites that may have different privacy policies. We strongly encourage you to read the privacy policies of all websites you access or otherwise share your information with. Although 1HappyBirthday does enable online transactions through PayPal, 1HappyBirthday does not have access to the credit card information and therefore cannot retain or transmit or transfer your credit card information. Please visit [www.paypal.com](http://www.paypal.com/) to review Paypal's privacy policy. 1HappyBirthday expressly accepts no liability or responsibility for information collected and used by any third party.
 
@@ -23,7 +25,7 @@ We offer the following services, which require some type of voluntary submission
 
 
   1. Song download or registration  
-We offer songs to users. 1HappyBirthday gathers the email addresses and contact information of users who voluntarily subscribe. We hope to soon be able to offer users a way to remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page.
+We offer songs to users. 1HappyBirthday gathers the email addresses and contact information of users who voluntarily subscribe. We believe that we offer users a way to remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page.
   2. "E-mail song in the future" policy  
 Our site users may choose to electronically forward a link, page, or documents to someone else. The user must provide their email address, as well as that of the recipient.
   3. Polling  
