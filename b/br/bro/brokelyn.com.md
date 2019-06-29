@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokelyn.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213025750id_/https%3A//brokelyn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokelyn.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629083624id_/https%3A//brokelyn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Brokelyn
 
@@ -44,7 +44,7 @@ Pursuant to California Civil Code §1798.83, a California resident who has provi
 
 We reserve the right to change the terms, conditions, and notices in this Privacy Policy at any time for any reason.
 
-If you have questions about this Privacy Policy, please contact us at [julia at brokelyn dot com](https://web.archive.org/cdn-cgi/l/email-protection#2f0f455a43464e6f4d5d40444a435641014c4042).
+If you have questions about this Privacy Policy, please contact us at [julia at brokelyn dot com](https://web.archive.org/cdn-cgi/l/email-protection#05256f70696c644567776a6e60697c6b2b666a68).
 
 _Last updated as of January 4, 2012._
 
