@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendining.net privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025214058id_/https%3A//www1.opendining.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendining.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629084056id_/https%3A//www1.opendining.net/privacy) for the most accurate reproduction.*
 
 # Open Dining | Privacy Policy
 
@@ -65,7 +65,7 @@ As part of providing the Services, Personal Data may be transferred to other reg
 
 
 
-In the course of providing the Services, you acknowledge and agree that we may use Subprocessors to Process the Personal Data. Our use of any specific Subprocessor to process the Personal Data must be in compliance with Data Protection Legislation and must be governed by a contract between Open Dining and the Subprocessor.
+In the course of providing the Services, you acknowledge and agree that we may use Subprocessors to Process the Personal Data. For merchants located in the EEA, our use of any specific Subprocessor to process the Personal Data must be in compliance with Data Protection Legislation and must utilize a Subprocessor registered with the EU-US Privacy Shield, or be governed by a contract between Open Dining and the Subprocessor.
 
 ## Governance and Severance
 
