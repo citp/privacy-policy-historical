@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmall24.com privacy policy that was archived on 2018-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180207094318id_/https%3A//www.kmall24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmall24.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629233516id_/https%3A//www.kmall24.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - KMALL24
 
@@ -6,7 +6,7 @@ This privacy policy sets out how Kmall24 uses and protects any information that 
 
 ## WHAT WE COLLECT
 
-We may obtain personal information about you from various sources, including this and other Kmall24 websites, mobile applications, when you email us or communicate with us through social media, or when you participate in events or other promotions. 
+We may obtain personal information about you from various sources, including this and other Kmall24 websites, mobile applications, when you email us or communicate with us through social media, or when you participate in events or other promotions.
 
   * Contact information (including name and email address)
   * Shipping information (including the shipping address and phone number)
@@ -30,7 +30,7 @@ We require this information to understand your needs and provide you with a bett
 
 
 We may share your information within KITA and third parties with whom we have a relationship for better customer services  
-(ex. Logistics, Payment, etc.) 
+(ex. Logistics, Payment, etc.)
 
 ## SECURITY
 
@@ -49,7 +49,7 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at privacy@kmall24.com
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at **help@kmall24.com**
 
 
 
