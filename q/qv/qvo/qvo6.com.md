@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvo6.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217154316id_/http%3A//www.qvo6.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvo6.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629193649id_/http%3A//www.qvo6.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Qvo6.com
 
