@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisoldhouse.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231131034id_/https%3A//www.thisoldhouse.com/old-house-ventures-llc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisoldhouse.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629140404id_/https%3A//www.thisoldhouse.com/old-house-ventures-llc-privacy-policy) for the most accurate reproduction.*
 
 # THIS OLD HOUSE VENTURES, LLC PRIVACY POLICY | This Old House
 
@@ -87,3 +87,5 @@ Stamford, CT 06902
 ## Modifications to This Privacy Policy
 
 TOHV reserves the right to change this Privacy Policy at any time by posting revisions on this Web page. Such changes will be effective upon posting.
+
+**To out-out from targeted advertising and sending user ID through Prebid system, pleaseclick here**
