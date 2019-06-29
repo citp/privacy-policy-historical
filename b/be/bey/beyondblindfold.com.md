@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beyondblindfold.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804000849id_/https%3A//beyondblindfold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondblindfold.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629211104id_/https%3A//beyondblindfold.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy – Blindfold
 
 **Privacy**
 
@@ -25,7 +25,7 @@ Our site provides RSS feeds and Email subscriptions options that allows users to
 **Google Adsense and the DoubleClick DART Cookie**
 
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.  
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.  
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.  
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, My Blog has no access or control over these cookies that may be used by third party advertisers.
 
 **Advertisements**
@@ -33,4 +33,4 @@ Other Third Party ad servers or ad networks may also use cookies to track users 
 Our site uses third party advertisements to support our site. Some of these advertisers may use technology such as cookies, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This information is used to target your location and deliver advertisements that are relative to your interests or to show ads based on specific sites visited.  
 You are welcome to disable or selectively turn off our cookies or third-party cookies in your browser settings, however, this could affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-For more information, you can reach us at our contact page or visit the [Google Privacy Center](http://www.google.com/policies/privacy/).
+For more information, you can reach us at our contact page or visit the  _Google Privacy Center_.
