@@ -1,331 +1,286 @@
-<!--The following is the downloaded HTML source of the alistapart.com privacy policy that was archived on 2018-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180920094915id_/https%3A//alistapart.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alistapart.com privacy policy that was archived on 2019-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190629094636id_/https%3A//alistapart.com/about/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js no-touch svg" lang="en" style=""><!--<![endif]--><head>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5PLQL99"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-11757054-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
+<!DOCTYPE html><html lang="en-US"><head>
+	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
 
-	  gtag('config', 'UA-11757054-1');
-	</script>
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-5PLQL99');</script>
-<!-- End Google Tag Manager -->
-	<meta charset="utf-8">
+	<title>Privacy Policy – A List Apart</title>
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//secure.gravatar.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="A List Apart » Feed" href="https://alistapart.com/main/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/alistapart.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://alistapart.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.2" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="all-css-0" href="http://alistapart.com/_static/??-eJyNjtEKgzAMRX9oNYhzb2PfUttMo2ktTYv496vWt8HYS7hwz7kEtqDIG84WBYwIWJIEA69mUUxD1HEHSTtj48g3BbhBMczqE/oEaUJXPM36gn4As0CIJK7eL9JlFTiP5AVmTEGbBdxqMxd7IztiEhDU0UznlzWq2qh3PEfsP6OHfeUDf7ln2z/atuu77v4BafNjxQ==" type="text/css" media="all">
+<script type="text/javascript" src="http://alistapart.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZdVrKOPT4FubmZ6UWJJql5uZh5QsX2uraGpmaGhsamxsVkWACVYIKg="></script>
+<link rel="https://api.w.org/" href="https://alistapart.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://alistapart.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://alistapart.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.2.2">
+<link rel="canonical" href="https://alistapart.com/about/privacy-policy/">
+<link rel="shortlink" href="https://wp.me/PaHlEW-4U8">
+<link rel="alternate" type="application/json+oembed" href="https://alistapart.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falistapart.com%2Fabout%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://alistapart.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falistapart.com%2Fabout%2Fprivacy-policy%2F&amp;format=xml">
 
-	<link rel="alternate" type="application/rss+xml" title="A List Apart: The Full Feed" href="/main/feed">
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<style type="text/css">img#wpstats{display:none}</style>		<style type="text/css">
+						.site-title,
+			.site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
 
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+						</style>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="https://alistapart.com/about/privacy-policy/">
+<meta property="og:description" content="This Privacy Policy describes how your personal information is collected, used, and shared when you visit or leave a comment at A List Apart (the “Site”). Personal Information We Collect We collect…">
+<meta property="article:published_time" content="2018-05-24T11:52:00+00:00">
+<meta property="article:modified_time" content="2019-03-25T13:37:46+00:00">
+<meta property="og:site_name" content="A List Apart">
+<meta property="og:image" content="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:site" content="@alistapart">
+<meta name="twitter:text:title" content="Privacy Policy">
+<meta name="twitter:image" content="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?w=240">
+<meta name="twitter:card" content="summary">
 
-	<link rel="shortcut icon" href="/components/assets/img/favicons/favicon.ico" type="image/x-icon">
-	<link rel="apple-touch-icon" href="/components/assets/img/favicons/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="57x57" href="/components/assets/img/favicons/apple-touch-icon-57x57.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/components/assets/img/favicons/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="/components/assets/img/favicons/apple-touch-icon-76x76.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/components/assets/img/favicons/apple-touch-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="/components/assets/img/favicons/apple-touch-icon-120x120.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="/components/assets/img/favicons/apple-touch-icon-144x144.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="/components/assets/img/favicons/apple-touch-icon-152x152.png">
-
-	<meta name="application-name" content="A List Apart">
-	<meta name="msapplication-TileColor" content="#222222">
-	<meta name="msapplication-TileImage" content="/components/assets/img/favicons/windows-8-tile.png">
-
-	<link href="https://plus.google.com/+alistapart/" rel="publisher">
-
-	<link rel="preload" href="/components/assets/img/logo_a-list-apart.svg" as="image" type="image/svg+xml">
-
-	<link rel="stylesheet" href="https://alistapart.com/d/_cache/4e425287d3bc7c393d0959bef082e87bd85a4a2e.1524830670.css">
-
-	<script src="/components/assets/js/libs/modernizr-custom.js"></script>
-	<script src="/components/assets/js/libs/jquery-3.0.0.min.js"></script>
-	<script src="/components/assets/js/libs/jquery-migrate-1.4.1.min.js"></script>
-
-
-	<title>A List Apart: Privacy Policy</title>
-
-	<link rel="canonical" href="https://alistapart.com/about/privacy-policy">
-
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?w=32" sizes="32x32">
+<link rel="icon" href="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?w=192" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?w=180">
+<meta name="msapplication-TileImage" content="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?w=270">
 </head>
 
-<body itemscope="" itemtype="http://schema.org/WebPage">
+<body class="privacy-policy page-template-default page page-id-18856 page-child parent-pageid-14971 wp-custom-logo page-privacy-policy" itemscope="" itemtype="http://schema.org/WebPage">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5PLQL99"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-	<header class="logo-holder">
+	<header id="masthead" class="site-header">
+		<div class="site-branding">
+			<a href="https://alistapart.com/" class="custom-logo-link" rel="home"><img width="960" height="98" src="https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png" class="custom-logo" alt="A List Apart" srcset="https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png 960w, https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big-300x31.png 300w, https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big-768x78.png 768w" sizes="(max-width: 960px) 100vw, 960px"></a>				<p class="site-title"><a href="https://alistapart.com/" rel="home" itemscope="" itemtype="http://schema.org/ImageObject">A List Apart</a></p>
+								<p class="site-description">For people who make websites</p>
+					</div><!-- .site-branding -->
 
-		<h1 id="top" class="killer-logo" itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization"><a href="https://alistapart.com" title="A List Apart home page" tabindex="-1" itemprop="url"><span itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject"><img itemprop="url" src="https://alistapart.com/components/assets/img/ala-logo-big.png" alt="A List Apart"></span></a><span class="screen-reader" itemprop="name">A List Apart</span></h1>
+		<nav id="site-navigation" class="main-navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><span class="screen-reader-text">Primary Menu</span></button>
+			<div class="menu-site-header-container"><ul id="primary-menu" class="menu"><li id="menu-item-6000493" class="ala-home-url menu-item menu-item-type-custom menu-item-object-custom menu-item-6000493"><a href="https://alistapart.com" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li id="menu-item-6000494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000494"><a href="https://alistapart.com/articles/" itemprop="url"><span itemprop="name">Articles</span></a></li>
+<li id="menu-item-6000495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000495"><a href="https://alistapart.com/events/" itemprop="url"><span itemprop="name">Events</span></a></li>
+<li id="menu-item-6000496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000496"><a href="https://alistapart.com/topics/" itemprop="url"><span itemprop="name">Topics</span></a></li>
+<li id="menu-item-6000497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000497"><a href="https://alistapart.com/about/contribute/" itemprop="url"><span itemprop="name">Write for Us</span></a></li>
+</ul></div>
+			<form role="search" method="get" class="search-form" action="https://alistapart.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search …" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Search">
+			</form>		</nav><!-- #site-navigation -->
 
-	</header>
+	</header><!-- #masthead -->
 
+	<div id="content" class="site-content">
 
+	<div class="two-column-layout">
+		<div id="primary" class="content-area column-content">
+			<main id="main" class="site-main">
 
-	<a class="go-to-nav" href="#main-nav" title="skip to nav">Menu</a>
-
-	<nav class="global-nav" id="main-nav" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-
-		<ul class="inline-items">
-			<li><a href="/" title="Home" itemprop="url"><span itemprop="name">Home</span></a></li>
-			
-			<li><a href="/articles" itemprop="url"><span itemprop="name">Articles</span></a></li>
-			<li><a href="/events" itemprop="url"><span itemprop="name">Events</span></a></li>
-			<li><a href="/topics" itemprop="url"><span itemprop="name">Topics</span></a></li>
-			<li><a href="/about/contribute" itemprop="url"><span itemprop="name">Write for us</span></a></li>
-			<li class="back-to-top"><a href="#top">Back to top</a></li>
-			<li class="head-east-young-man">
-				<form id="main-search" class="main-search" data-action="/search" action="https://www.google.com/search" method="GET">
-					<input type="hidden" name="sitesearch" value="alistapart.com">
-					<label for="search-keywords"><input id="search-keywords" type="search" data-name="keywards" name="q" placeholder="Search" aria-label="Search" value="" required="required"></label>
-					<input id="submit-search" name="submit" type="image" src="/components/assets/img/icon_magnify_v.svg" data-fallback="/components/assets/img/icon_magnify_v.png" alt="Submit">
-				</form>
-			</li>
-		</ul>
-
-	</nav>
-
-
+				
+<article id="post-18856" class="post-18856 page type-page status-publish hentry">
 	
+	<header class="entry-header">
+		<h1 class="entry-title">Privacy Policy</h1>			</header><!-- .entry-header -->
 
-
-	<div role="main" class="main-wrapper two-column-display">
-
-		<div class="col-holder">
-
-			<article class="main-content" itemscope="" itemtype="http://schema.org/AboutPage">
-
-				<h1 class="basic-title" itemprop="name">Privacy Policy</h1>
-
-				<p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit or leave a comment at A List Apart (the “Site”).</p>
-
+	<div class="entry-content">
+		<p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit or leave a comment at A List Apart (the “Site”).</p>
 <h2>Personal Information We Collect</h2>
-
 <p>We collect three basic types of information from you in conjunction with your use of the Site: (1) personal information, which is any information that individually identifies you (e.g., your name, email address, telephone number, postal address, credit card information), (2) non-personal information, which is information that does not personally identify you but may include information about your interests, demographics (e.g., age, gender, occupation) and use of the Sites, and (3) device information, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. We collect this information in the following ways:</p>
-
 <h3>Information You Provide Directly To Us:</h3>
-
 <p>We may ask you to provide your personal information, demographic information or information about your preferences or interests when you:</p>
-
-<ul><li>Register to comment on the Site</li>
+<ul>
+<li>Register to comment on the Site</li>
 <li>Sign up to receive email newsletters from us</li>
 <li>Participate in surveys or special promotions</li>
 <li>Participate on social media accounts involving our authors, articles, or brand</li>
-<li>Knowingly volunteer information on any other part of the Site (e.g., request for customer service, submit a job application)</li></ul>
-
+<li>Knowingly volunteer information on any other part of the Site (e.g., request for customer service, submit a job application)</li>
+</ul>
 <h3>Information Collected Using Technology:</h3>
-
 <p>When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”</p>
-
 <p>We collect Device Information using the following technologies:</p>
-
 <p>“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit&nbsp;<a href="http://www.allaboutcookies.org/">allaboutcookies.org</a>.</p>
-
 <p>“Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.</p>
-
 <p>“Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Site.</p>
-
 <p>When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.</p>
-
 <h2>How Do We Use Your Personal Information?</h2>
-
 <p>We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).</p>
-
 <h2>Your Personal Information</h2>
-
 <p>We use Google Analytics to help us understand how our customers use the Site—you can read more about how Google uses your Personal Information here:&nbsp;<a href="https://policies.google.com/privacy?hl=en">google.com/intl/en/policies/privacy/</a>. You can also opt-out of Google Analytics here:&nbsp;<a href="https://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a></p>
-
 <p>We may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.</p>
-
 <p>Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at:&nbsp;<a href="http://optout.aboutads.info/">optout.aboutads.info</a>.</p>
-
 <h2>Do Not Track</h2>
-
 <p>Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.</p>
-
 <h2>Your Rights</h2>
-
 <p>If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.</p>
-
 <p>Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.</p>
-
 <h2>Data Retention</h2>
-
 <p>When you leave a comment on the Site, or sign up to receive our email newsletter, we will maintain your Personal Information for our records unless and until you ask us to delete this information.</p>
-
 <h2>Changes</h2>
-
 <p>We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.</p>
-
 <h2>Contact us</h2>
-
 <p>If you have questions about this privacy policy, please <a href="https://alistapart.com/contact">contact us</a>. </p>
+	</div><!-- .entry-content -->
+</article><!-- #post-18856 -->
 
-<p>&nbsp;</p>
+			</main><!-- #main -->
+		</div><!-- #primary -->
 
-			</article><!--
-
-			--><div class="secondary-column">
-
-				
-				<ul class="secondary-nav">
-					<li><a href="/about">About</a></li>
-					<li><a href="/authors">Authors</a></li>
-					<li><a href="/about/masthead">Masthead</a></li>
-					<li><a href="/about/contribute">Write for Us</a></li>
-					<li><a href="/about/style-guide">Style Guide</a></li>
-					<li><a href="/contact">Contact</a></li>
-					<li><a href="/about/copyright">Permissions &amp; Copyright</a></li>
-					<li><a href="/about/sponsor">Sponsorships</a></li>
-				</ul>
-
-				 <div class="banner banner-wide pantheon">
-  <a href="http://sps.northwestern.edu/ala">
-    <img class="banner-logo" src="/components/assets/img/northwesten-logo_250x90.gif" alt="Northwestern Logo">
-    <p>Prepare for leadership roles at the intersection of design and technology in Northwestern’s online MS in Information Design
-      &amp; Strategy program.</p>
-  </a>
-</div> 
-<div class="banner a-book-apart"> 
-  <a href="https://abookapart.com">
-    <img class="banner-logo" src="https://alistapart.com/components/assets/img/logo_a-book-apart-color.png" alt="">
-    <p>A Book Apart:<br> Brief books for people who make websites.</p>
-  </a>
-</div>
-<div class="banner">  
-  <a href="https://aneventapart.com/">
-    <img class="banner-logo" src="https://alistapart.com/components/assets/img/AEA_2017_80x80.png" alt="">
-    <p>An Event Apart:<br> 3 days of design, code, and content for web &amp; UX designers &amp; devs.</p>
-  </a>
+		<aside id="secondary" class="widget-area column-sidebar">
+	<ul id="sidebar-pages-menu" class="sidebar-menu"><li id="menu-item-6000531" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-6000531"><a href="https://alistapart.com/about/" itemprop="url">About</a></li>
+<li id="menu-item-6000532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000532"><a href="https://alistapart.com/authors/" itemprop="url">Authors</a></li>
+<li id="menu-item-6000533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000533"><a href="https://alistapart.com/about/masthead/" itemprop="url">Masthead</a></li>
+<li id="menu-item-6000534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000534"><a href="https://alistapart.com/about/contribute/" itemprop="url">Write for Us</a></li>
+<li id="menu-item-6000535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000535"><a href="https://alistapart.com/about/style-guide/" itemprop="url">Style Guide</a></li>
+<li id="menu-item-6000536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000536"><a href="https://alistapart.com/contact/" itemprop="url">Contact Us</a></li>
+<li id="menu-item-6000537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000537"><a href="https://alistapart.com/about/copyright/" itemprop="url">Permissions &amp; Copyright</a></li>
+<li id="menu-item-6000538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000538"><a href="https://alistapart.com/about/sponsor/" itemprop="url">Sponsorships</a></li>
+</ul><section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="banner">
+	<a href="http://cloudinary.rocks/ala">		
+		<img src="https://alistapart.com/wp-content/uploads/2019/06/cloudinary_vertical_logo_for_white_bg.jpg" alt="Cloudinary Logo" class="banner-logo">
+		<p>Want the best way to store and serve images and videos? Try Cloudinary. Get your own free account.</p>		
+	</a>
 </div>
 
-			</div>
+<div class="banner ala-banner">
+	<a href="https://abookapart.com/">				<img src="https://alistapart.com/wp-content/uploads/2019/03/logo_a-book-apart-color.png" alt="A Book Apart Logo" class="banner-logo">
+		<p>A Book Apart:<br> Brief books for people who make websites.</p>		
+		</a>
+</div>
 
-		</div>
-
-				<footer class="global-footer" aria-label="Footer" itemscope="" itemtype="https://schema.org/WebPage">
-			<meta itemprop="headline" content="A List Apart">
-			<p class="deadly-subtitle" itemprop="alternativeHeadline">For people who make websites.</p>
-
-			<ul class="inline-items" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-				<li><a href="/about" itemprop="url">About</a></li>
-				<li><a href="/authors" itemprop="url">Authors</a></li>
-				<li><a href="/about/masthead" itemprop="url">Masthead</a></li>
-				<li><a href="/about/style-guide" itemprop="url">Style Guide</a></li>
-				<li><a href="/contact" itemprop="url">Contact</a></li>
-				<li><a href="/about/sponsor" itemprop="url">Sponsorships</a></li>
-				<li class="head-east-young-man">
-
-					Follow us:
-					<a href="/about/rss">RSS</a> ·
-					<a href="/email-signup/">Email</a> ·
-					<span itemscope="" itemtype="http://schema.org/Organization">
-					<a href="http://www.facebook.com/alistapart" itemprop="sameAs">Facebook</a> ·
-					<a href="https://plus.google.com/107749003388305496076" rel="publisher" itemprop="sameAs">Google+</a> ·
-					<a href="http://www.twitter.com/alistapart" itemprop="sameAs">Twitter</a>
-					</span>
-
-				</li>
-			</ul>
-
-			<aside class="promo-holder" aria-label="A List Apart partners">
-
-				<ul class="partner-promos">
-					<li>
-						<a href="https://abookapart.com">
-							<img src="/components/assets/img/promo_aba.jpg" alt="A Book Apart. Brief books for people who design, write, and code.">
-							<p class="promo-title">A Book Apart</p>
-							<p>Brief books for people who design, write, and code.</p>
-							<p>Bundle books and save!</p>
-							<p class="arrow">Shop now</p>
-						</a>
-					</li><!--
-
-					--><li>
-						<a href="https://aneventapart.com">
-							<img src="/components/assets/img/promo_aea_v1.png" alt="An Event Apart. Three days of design, code, and content for people who make websites.">
-							<p class="promo-title">An Event Apart</p>
-							<p>Three days of design, code, and content for people who make websites.</p>
-							<p class="arrow">See  this year’s schedule</p>
-						</a>
-					</li>
-				</ul>
-
-			</aside>
-
-			<ul class="inline-items copyright">
-
-				<li>
-					<small>ISSN 1534-0295 · Copyright © <span itemprop="copyrightYear">1998–2018</span> <span itemprop="copyrightHolder">A List Apart &amp; Our Authors</span></small>
-					<small><a href="/about/copyright">Permissions &amp; Copyright</a> ·	<a href="/about/privacy-policy">Privacy Policy</a> · <a href="http://webtype.com">Fonts by Webtype</a><span class="logged-in"> · </span><span class="logged-out"><a href="/tools/log-in">Log In</a> · <a href="/tools/register">Register</a></span></small></li>
-
-				<li class="affiliates head-east-young-man">
-					
-					<a class="ala" href="http://alistapart.com" title="A List Apart" itemprop="sameAs">A List Apart</a>
-					<a class="aea" href="http://aneventapart.com" title="An Event Apart" itemprop="relatedLink">An Event Apart</a>
-					<a class="aba" href="http://abookapart.com" title="A Book Apart" itemprop="relatedLink">A Book Apart</a>
-					<a class="arcus" href="https://arcustech.com" title="Hosting provided by Arcustech" itemprop="provider">Arcustech</a>
-
-				</li>
-
-			</ul>
-
-		</footer>
-
+<div class="banner">
+	<a href="https://aneventapart.com/">				<img src="https://alistapart.com/wp-content/uploads/2019/04/AEA_2017_80x80_2.png" alt="An Event Apart Logo" class="banner-logo">
+		<p>An Event Apart:<br> 3 days of design, code, and content for web &amp; UX designers &amp; devs.</p>		
+		</a>
+</div></div></section></aside><!-- #secondary -->
 	</div>
 
+</div><!-- #content -->
 
+	<div class="widget-area header-widget">
+		<section id="custom_html-5" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="banner">
+	<a href="http://cloudinary.rocks/ala">		
+		<img src="https://alistapart.com/wp-content/uploads/2019/06/cloudinary_vertical_logo_for_white_bg.jpg" alt="Cloudinary Logo" class="banner-logo">
+		<p>Want the best way to store and serve images and videos? Try Cloudinary. Get your own free account.</p>		
+	</a>
+</div>
+</div></section>	</div><!-- .header-widget -->
+	
+<footer id="colophon" class="site-footer" itemscope="" itemtype="https://schema.org/WebPage">
+	<nav class="footer-navigation footer navigation-top" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+		<div class="menu-footer-pages-container"><ul id="footer-top-left-menu" class="footer-top-left-menu"><li id="menu-item-6000544" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-6000544"><a href="https://alistapart.com/about/" itemprop="url">About</a></li>
+<li id="menu-item-6000545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000545"><a href="https://alistapart.com/authors/" itemprop="url">Authors</a></li>
+<li id="menu-item-6000546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000546"><a href="https://alistapart.com/about/masthead/" itemprop="url">Masthead</a></li>
+<li id="menu-item-6000547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000547"><a href="https://alistapart.com/about/style-guide/" itemprop="url">Style Guide</a></li>
+<li id="menu-item-6000548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000548"><a href="https://alistapart.com/contact/" itemprop="url">Contact</a></li>
+<li id="menu-item-6000549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000549"><a href="https://alistapart.com/about/sponsor/" itemprop="url">Sponsorships</a></li>
+</ul></div><div class="menu-footer-social-container"><ul id="footer-top-right-menu" class="footer-top-right-menu"><li id="menu-item-6000550" class="footer-menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-6000550"><a itemprop="url">Follow us:</a></li>
+<li id="menu-item-7171602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7171602"><a href="https://alistapart.com/about/rss-feed/" itemprop="url">RSS</a></li>
+<li id="menu-item-6000552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000552"><a href="https://alistapart.com/email-signup/" itemprop="url">Email</a></li>
+<li id="menu-item-6000553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6000553"><a href="https://www.facebook.com/alistapart" itemprop="url">Facebook</a></li>
+<li id="menu-item-6000554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6000554"><a href="https://www.twitter.com/alistapart" itemprop="url">Twitter</a></li>
+</ul></div>	</nav>
+			<div class="widget-area footer-widget-area-wrap">
+			<div class="widget-area footer-widget-area">
+				<section id="custom_html-7" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="footer-promo">
+	<a href="https://abookapart.com">
+							<img src="https://alistapart.com/wp-content/uploads/2019/04/promo_aba_2.jpg" alt="A Book Apart. Brief books for people who design, write, and code.">
+		<div class="footer-promo-copy">
+				<p class="promo-title">A Book Apart</p>
+				<p>Brief books for people who design, write, and code.</p>
+				<p>Bundle books and save!</p>
+				<p class="arrow">Shop now</p>
+						</div>
+			</a>
+</div>
 
-	<!-- facebook login: remove the fragment #_=_ that facebook adds to the redirect_uri | remove this after social login module update -->
-	<script>
-		if (window.location.hash && window.location.hash == '#_=_') {
-		    if (window.history && history.pushState) {
-		        window.history.pushState("", document.title, window.location.pathname);
-		        
-		    } else {
-		        // Prevent scrolling by storing the page's current scroll offset
-		        var scroll = {
-		            top: document.body.scrollTop,
-		            left: document.body.scrollLeft
-		        };
-		        window.location.hash = '';
-		        // Restore the scroll offset, should be flicker free
-		        document.body.scrollTop = scroll.top;
-		        document.body.scrollLeft = scroll.left;
-		    }
-		}
-	</script>
+</div></section><section id="custom_html-8" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="footer-promo">
+		<a href="https://aneventapart.com">
+			<img src="https://alistapart.com/wp-content/uploads/2019/04/promo_aea_v1_2.png" alt="An Event Apart. Three days of design, code, and content for people who make websites.">
+			<div class="footer-promo-copy">
+					<p class="promo-title">An Event Apart</p>
+						<p>Three days of design, code, and content for people who make websites.</p>
+							<p class="arrow">See  this year’s schedule</p>
+			</div>
+						</a>
+</div></div></section>			</div>
+		</div>
 
-	<script src="https://alistapart.com/d/_cache/e8952a1f4e9e5593cdc3ceff2271ef14a9300c64.1482327043.js"></script>
+		
+	<div class="site-info-wrap">
+		<div class="site-info">
+			ISSN 1534-0295 · Copyright © <span itemprop="copyrightYear"> 1998–2019</span> <span itemprop="copyrightHolder"> A List Apart &amp; Our Authors</span>			<span class="sep"> | </span>
+			<a href="https://wordpress.com/">
+				Proudly powered by WordPress			</a>
+		</div><!-- .site-info -->
+	</div><!-- .site-info-wrap -->
 
+	<nav class="footer-navigation footer navigation-bottom">
+		<ul id="footer-bottom-left-menu" class="footer-bottom-left-menu"><li id="menu-item-6000555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000555"><a href="https://alistapart.com/about/copyright/" itemprop="url">Permissions &amp; Copyright</a></li>
+<li id="menu-item-6000556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy current-menu-item page_item page-item-18856 current_page_item menu-item-6000556"><a href="https://alistapart.com/about/privacy-policy/" aria-current="page" itemprop="url">Privacy Policy</a></li>
+<li id="menu-item-6000558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6000558"><a href="https://webtype.com/" itemprop="url">Fonts by Webtype</a></li>
+</ul><ul id="footer-bottom-right-menu" class="footer-bottom-right-menu"><li id="menu-item-6000559" class="aea menu-item menu-item-type-custom menu-item-object-custom menu-item-6000559"><a href="http://aneventapart.com/" itemprop="url"><span class="screen-reader-text">An Event Apart</span></a></li>
+<li id="menu-item-6000560" class="aba menu-item menu-item-type-custom menu-item-object-custom menu-item-6000560"><a href="http://abookapart.com/" itemprop="url"><span class="screen-reader-text">A Book Apart</span></a></li>
+</ul>	</nav>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+	<div style="display:none">
+	</div>
 	<!-- Google Analytics -->
-	<script>
+<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');  
 
-	ga('create', 'UA-11757054-1', 'auto');
-	ga('send', 'pageview');
-
-	</script>
-	<!-- End Google Analytics -->
-
-	<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
-	typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
-	b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
-	mixpanel.init("204b563994d022408e4b540a66fe6136");</script><!-- end Mixpanel -->
-
-<!--Adblock Check-->
-<script type="text/javascript" src="/components/assets/js/adchecka.js"></script><div id="adsense" class="hide">ad block checker. just countin'.</div> <script type="text/javascript"> jQuery(document).ready(checkAds()); function checkAds(){ if (document.getElementById('adsense')!=undefined){document.write("<script>_gaq.push(['_trackEvent', 'Adblock', 'Unblocked', 'false',,true]);</sc" + "ript>");}else{document.write("<script>_gaq.push(['_trackEvent', 'Adblock', 'Blocked', 'true',,true]);</sc" + "ript>");}} </script><script>_gaq.push(['_trackEvent', 'Adblock', 'Unblocked', 'false',,true]);</script>
-<!--End Adblock Check-->
-
-
+	ga('create', 'UA-11757054-1', 'auto'); 
+	ga('send', 'pageview');  
+</script>
+<!-- End Google Analytics -->
+	<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201926"></script>
+<script type="text/javascript" src="https://secure.gravatar.com/js/gprofiles.js?ver=2019Junaa"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://alistapart.com/_static/??-eJx9kEsKwzAMRC9UR4SQdlV6FtVWYvlPbDc9fvOh0E29EQPzRgwDaxIyhkKhgK8iuTpzyGCoJJQWfFTVUYY1zUvUsTP5Aj+JoslvLjoEkyHgi2csHEObSwtnf942mC0n4ThYMUVZs5j43Q6gkpqkxTblIqp/ZGsDVjOVrRXhIvXR71DiNL6fOEhX1cabfTZB/kmq87xv8vD3frz2/TAOw818AFvQi7I="></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201926.js" async="async" defer="defer"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.4',blog:'158094726',post:'18856',tz:'-4',srv:'alistapart.com'} ]);
+	_stq.push([ 'clickTrackerInit', '158094726', '18856' ]);
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"949ceaf672","applicationID":"156780203","transactionName":"MQZWYhAFXhdYAUBfWwhMdVUWDV8KFhJVUVE=","queueTime":0,"applicationTime":80,"atts":"HUFBFFgfTUgbAxYMTxse","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
