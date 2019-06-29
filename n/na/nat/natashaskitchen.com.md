@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natashaskitchen.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117013921id_/https%3A//natashaskitchen.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natashaskitchen.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629154057id_/https%3A//natashaskitchen.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NatashasKitchen.com
 
@@ -27,11 +27,11 @@ Any of the information we collect from you may be used in one of the following w
 
 ## SIGNING UP TO RECEIVE EMAIL NEWSLETTERS:
 
-Emails are sent 2 to 3 times per week with new recipes and posts, roundups and news from NatashasKitchen.com. If you subscribe to our email newsletters through our subscription box, you are consent to store and process your data in order to receive our newsletters. The email you provide is used only for email subscription communication purposes and never shared or distributed to third parties. Your email is stored with our subscription service provider who has certain levels of security to protect your personal data.
+Emails are sent 2 to 4 times per week with new recipes and posts, roundups and news from NatashasKitchen.com. If you subscribe to our email newsletters through our subscription box, you are consent to store and process your data in order to receive our newsletters. The email you provide is used only for email subscription communication purposes and never shared or distributed to third parties. Your email is stored with our subscription service provider who has certain levels of security to protect your personal data.
 
 To change your subscription preferences, click the “preferences” button that is included with the email you receive from us then follow the steps in the email that you receive once you click the “preferences” button. We track how readers engage, interact and click through our newsletters.If you wish to disable view and click tracking, you may do so by clicking the “preferences” button as well.
 
-If you no longer wish to receive newsletters, please click the “unsubscribe” button at the bottom of the newsletters you receive in your inbox or email: natasha AT natashaskitchen DOT com and let me know that you would like to be removed. You may also request to have your data entirely erased  from our subscription service.
+If you no longer wish to receive newsletters, please click the “unsubscribe” button at the bottom of the newsletters you receive in your inbox or email: natasha AT natashaskitchen DOT com and let me know that you would like to be removed. You may also request to have your data entirely erased from our subscription service.
 
 ## PUSH NOTIFICATIONS:
 
