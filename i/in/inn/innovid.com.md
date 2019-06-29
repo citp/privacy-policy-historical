@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innovid.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230181432id_/https%3A//www.innovid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovid.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629222540id_/https%3A//www.innovid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Innovid
 
@@ -54,11 +54,12 @@ For customer management purposes, we provide a limited amount of information abo
 
 #### Cookies
 
-Innovid may collect the data, including personal data, using cookies, which are small text files stored on the visitor’s computer. Visitors can set their browser to reject cookies altogether, to reject Innovid’s cookies in particular, or to delete cookies. An End User of the Services may opt-out of interest-based advertising from Innovid; please refer to the Section entitled “Opt-Out of Interest-Based Advertising” below. For our EU based website visitors, we may also put in place a Cookie Control Tool on our site.
+Innovid may collect the data, including personal data, using cookies, which are small text files stored on the visitor’s computer. Visitors can set their browser to reject cookies altogether, to reject Innovid’s cookies in particular, or to delete cookies. An End User of the Services may opt-out of interest-based advertising from Innovid; please refer to the Section entitled “Opt-Out of Interest-Based Advertising” below. For our EU based website visitors, we may also put in place a Cookie Control Tool on our site.  
+
 
 #### Innovid’s Services
 
-Innovid partners with numerous companies to provide online advertisements to visitors of third party websites and other online media (such visitors are referred to as **“End Users”** ).
+Innovid partners with numerous companies to provide online advertisements to visitors of third party websites, mobile websites, mobile applications and other online media. Third party media also includes televisions via third party connected applications and/or digital media streaming devices (visitors to third party media are referred to as **“End Users”** ).
 
 As an End User browses the Internet, he or she may visit Web pages, mobile applications or other online media that make use of the Services. When this happens, an End User’s browser or device may request advertisements from Innovid’s system, and Innovid may collect data about this interaction, as well as about any further interaction by such End User with the advertisements provided by the Services and the pages or media on which such Services are utilized, such as impressions, clicks, mouse movements, viewing duration, IP address, date and time of interaction, information about the general geographical location from which an End User is viewing an advertisement, device type, and other Non-PII made available by the browser or device. In addition, in the event that the data being collected is from a mobile device, Innovid may also collect the mobile advertising ID of the device (e.g. IDFA and Google AdID). On occasion, Innovid may also receive from third parties personal data that enables advertisement optimization, independent of or in combination with the data collected by Innovid, such as audience interest segments and product categories.
 
@@ -70,67 +71,90 @@ Innovid works with Nielsen to better understand the reach of ad campaigns. To le
 
 Innovid collects personal data based on several bases, depending on the exact circumstances. Registration Data and Account Data is processed on the basis of a contract between Innovid and the customer; we are not able to provide services and meet the terms of our customer agreements without such processing. Personal data may also be processed on the basis of the legitimate interest Innovid has in serving and measuring advertising, and analyzing, improving, optimizing and personalizing its users’ experience.
 
-To opt-out of any of the processing described in this policy, you may contact Innovid and its Data Protection Officer at privacy@innovid.com. Data subjects have the right to lodge a complaint with a supervisory authority (the UK ICO).
+To opt-out of any of the processing described in this policy, you may contact Innovid and its Data Protection Officer at privacy@innovid.com. Data subjects have the right to lodge a complaint with a supervisory authority (the UK ICO).  
+
 
 #### Cross-Device Tracking
 
-Innovid may, or may use the services of third party companies to, establish connections between a user’s devices and to provide interest-based advertising across devices. Cross-device connections allow Innovid to understand that a single user is accessing advertisements served or measured by Innovid from multiple devices and to synchronize or target advertising messages and/or measure the performance of advertisements across those devices. If you would like more information about this practice and to know your choices with respect to it, please: (1) visit the NAI Mobile Choices page located [here](https://www.networkadvertising.org/mobile-choice) or the Ghostery opt-out program (currently available at <https://www.ghostery.com/support/global-opt-out/> to learn how to opt out of having your information collected in browsers for ad serving purposes; and (2) download the AppChoices application, available for iOS and Android (see <http://www.aboutads.info/appchoices>), to learn how to opt out of having your information collected in mobile apps.
+Innovid may, or may use the services of third party companies to, establish connections between a user’s devices and to provide interest-based advertising across devices. Cross-device connections allow Innovid to understand that a single user is accessing advertisements served or measured by Innovid from multiple devices and to synchronize or target advertising messages and/or measure the performance of advertisements across those devices. If you would like more information about this practice and to know your choices with respect to it, please: (1) visit the NAI Choices page located at <http://www.networkadvertising.org/choices/> to learn how to opt out of having your information collected in browsers for ad serving purposes; and (2) download the AppChoices application, available for iOS and Android (see <http://www.aboutads.info/appchoices>), or visit the NAI’s Mobile Choices page located at <http://www.networkadvertising.org/mobile-choice>, to learn how to opt out of having your information collected in mobile apps. Because web browsers and mobile apps have different identifiers, you will need to opt-out of each environment separately.  
+
 
 #### Industry Self-Regulation 
 
-Innovid is a member of the _[Network Advertising Initiative](http://www.networkadvertising.org/)_ (NAI) and adheres to the NAI Codes of Conduct.
+Innovid is a member of the _[Network Advertising Initiative](http://www.networkadvertising.org/)_ (NAI) and adheres to the NAI Code of Conduct.  
+
 
 #### Opt-Out of Interest-Based Advertising
 
-End Users can opt out of interest-based advertising served by Innovid. to opt-out, or opt-out through the NAI page located _[here.](http://www.networkadvertising.org/choices/)_ In order to comply with an opt-out request, Innovid may set a non-unique cookie for the sole purpose of complying with such request. If an End User deletes its cookies or changes computers or devices after opting out, he or she will need to opt out again by clicking the link in this paragraph. Please note that where an End User blocks cookies on his or her browser, Innovid will be unable to set an opt-out cookie, and therefore unable to abide by such End User opt-out request. In addition, to opt out on a mobile device, you may visit the NAI Mobile Choices opt-out page located [here](https://www.networkadvertising.org/mobile-choice). Following an opt-out, Innovid’s system will still provide advertisements to the End User. Please note, however, that these advertisements may be less relevant to such End User’s interests.
+End Users can opt out of interest-based advertising served by Innovid.  to opt-out, or opt-out through the NAI page located [here.](http://www.networkadvertising.org/choices/) In order to comply with an opt-out request, Innovid may set a non-unique cookie for the sole purpose of complying with such request. If an End User deletes its cookies or changes computers or devices after opting out, he or she will need to opt out again by clicking the link in this paragraph. Please note that where an End User blocks cookies on his or her browser, Innovid will be unable to set an opt-out cookie, and therefore unable to abide by such End User opt-out request.
+
+To opt-out of interest-based advertising for the mobile applications on your current device, the method of opting out depends on the type of device you have. Please also note that, in some cases (i.e., if you have an older device), it may be necessary for you to provide your device ID in order to opt out.
+
+Opting out on Apple iOS devices: On iOS 6.0 you can select a setting that enables you to limit ad tracking. You can do this by clicking on Settings -> General -> About -> Advertising, and setting the Limit Ad Tracking function to ‘ON’. Alternatively, you can go to Settings -> Privacy -> Advertising and set the “Limit Ad Tracking” function to ‘ON’. On iOS 7.0, you can go to Settings -> Privacy -> Advertising and set the “Limit Ad Tracking” function to ‘ON’.
+
+Opting out on Android devices: In Android devices with Google Play Services 4.0 and higher, You can opt out of interest-based advertising services by opening the Google Settings App, then clicking on Ads (under “Services”) and turning on the “Opt of interest-based ads” function.
+
+Please also visit the NAI’s Mobile Choices Page located at https://www.networkadvertising.org/mobile-choices# for additional detailed instructions on how to use the advertising choice mechanisms for various devices.
+
+Following an opt-out, Innovid’s system will still provide advertisements to the End User. Please note, however, that these advertisements may be less relevant to such End User’s interests.  
+
 
 #### Data Retention
 
-Personal data, whether from desktop or mobile devices, may be retained for up to 12 months. Personal data may be anonymized and used for reporting and analysis, and may be stored as long as necessary to fulfill a legitimate business need or as required by law.
+Personal data, whether from desktop or mobile devices, may be retained for up to 12 months. Personal data may be anonymized and used for reporting and analysis, and may be stored as long as necessary to fulfill a legitimate business need or as required by law.  
+
 
 #### Legal and Regulatory Compliance
 
-Innovid reserves the right to disclose information if it believes, in good faith, that such disclosure is required to comply with legal or regulatory requirements, or to protect others’ rights or prevent harm, including in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+Innovid reserves the right to disclose information if it believes, in good faith, that such disclosure is required to comply with legal or regulatory requirements, or to protect others’ rights or prevent harm, including in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.  
+
 
 #### Third Party Service Providers
 
-Innovid may retain certain third party service providers to perform functions and services on its behalf. Innovid may share information with these third party service providers, but only to the extent necessary to perform such functions and services, and only pursuant to obligations on such third party service providers that are consistent with this Policy.
+Innovid may retain certain third party service providers to perform functions and services on its behalf, such as cloud services for storing and processing information (e.g., Amazon Web Services and Akamai), customer relationship management services (e.g., Salesforce) and enterprise resource planning services (e.g., Priority). Innovid may share information with these third party service providers, but only to the extent necessary to perform such functions and services, and only pursuant to obligations on such third party service providers that are consistent with this Policy.
 
-In all cases in which Innovid transfers any personal data to a third party, it will do so pursuant to a data protection agreement governing such transfers.
+In all cases in which Innovid transfers any personal data to a third party, it will do so pursuant to a data protection agreement governing such transfers. Where personal data is transferred outside of the EU, appropriate safeguards are used such as E.U.- U.S. Privacy shield, see below.
 
 #### Business Transfers
 
-We may disclose personal data we have collected to third parties if we sell or buy any business or assets, in which case we may disclose your information to the prospective seller or buyer of such business or assets or if Innovid or substantially all of its assets are acquired by a third party, in which case information held by Innovid will be one of the transferred assets.
+We may disclose personal data we have collected to third parties if we sell or buy any business or assets, in which case we may disclose your information to the prospective seller or buyer of such business or assets or if Innovid or substantially all of its assets are acquired by a third party, in which case information held by Innovid will be one of the transferred assets.  
+
 
 #### Newsletter Subscriptions
 
-You can change your subscription status with regards to Innovid’s email newsletters at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, or by emailing _[support@innovid.com](mailto:support@innovid.com)_ and writing “Cancel Newsletter Subscription” in the subject line.
+You can change your subscription status with regards to Innovid’s email newsletters at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, or by emailing _[support@innovid.com](mailto:support@innovid.com)_ and writing “Cancel Newsletter Subscription” in the subject line.  
+
 
 #### Aggregate Information
 
-Innovid may share aggregate and anonymous usage statistics regarding the Services with the public or businesses with whom Innovid works. Innovid may also use such aggregated information to help Innovid improve the design and delivery of its Services and increase its effectiveness for all users.
+Innovid may share aggregate and anonymous usage statistics regarding the Services with the public or businesses with whom Innovid works. Innovid may also use such aggregated information to help Innovid improve the design and delivery of its Services and increase its effectiveness for all users.  
+
 
 #### Communication
 
-Innovid may send to registered users, advertisers, agencies and publishers Services and/or account activity-related announcements from time to time.
+Innovid may send to registered users, advertisers, agencies and publishers Services and/or account activity-related announcements from time to time.  
+
 
 #### Data and Information Security
 
-Innovid is committed to protect the security of the information it collects, and takes such measures as are in line with industry practice to safeguard the data in its possession from unauthorized alteration, destruction, access or misuse. We maintain tight controls over all the data we collect, retaining it in firewalled and secured databases with strictly limited and controlled access rights, to ensure it is secure. Access to personal data is protected and controlled by password and restricted permissions. Please note that where we have given you (or where you have chosen) a password that enables you to access the Innovid Website or Services, you are responsible for keeping this password confidential. Please be aware however that no method of Internet transmission or electronic storage is 100% secure. Innovid cannot ensure or warrant the absolute security of information you transmit to us, and you transmit such information at your own risk. For additional information regarding security, please contact: _[support@innovid.com](mailto:support@innovid.com)_
+Innovid is committed to protect the security of the information it collects, and takes such measures as are in line with industry practice to safeguard the data in its possession from unauthorized alteration, destruction, access or misuse. We maintain tight controls over all the data we collect, retaining it in firewalled and secured databases with strictly limited and controlled access rights, to ensure it is secure. Access to personal data is protected and controlled by password and restricted permissions. Please note that where we have given you (or where you have chosen) a password that enables you to access the Innovid Website or Services, you are responsible for keeping this password confidential. Please be aware however that no method of Internet transmission or electronic storage is 100% secure. Innovid cannot ensure or warrant the absolute security of information you transmit to us, and you transmit such information at your own risk. For additional information regarding security, please contact: _[support@innovid.com](mailto:support@innovid.com)_  
+
 
 #### Children’s Privacy
 
-The Innovid Website and the Services are not intended for children under the age of 16, and children under the age of 16 are ineligible to register for an account on the Innovid Website. Innovid will never knowingly accept or solicit personal data from a visitor or End User under the age of 16, and will delete accounts that it believes to be in violation of this restriction. If you become aware that a child under the age of 16 has registered to use the Innovid Website or has provided Personally Identifiable Information to Innovid, please contact Innovid at _[privacy@innovid.com,](mailto:privacy@innovid.com)_ so that Innovid can confirm and take appropriate steps to remove such account and delete the information.
+The Innovid Website and the Services are not intended for children under the age of 16, and children under the age of 16 are ineligible to register for an account on the Innovid Website. Innovid will never knowingly accept or solicit personal data from a visitor or End User under the age of 16, and will delete accounts that it believes to be in violation of this restriction. If you become aware that a child under the age of 16 has registered to use the Innovid Website or has provided Personally Identifiable Information to Innovid, please contact Innovid at _[privacy@innovid.com,](mailto:privacy@innovid.com)_ so that Innovid can confirm and take appropriate steps to remove such account and delete the information.  
+
 
 #### International Data Transfers
 
 The information that we collect from you and about you may be transferred to and stored in a country other than your country of residence, such as the USA, which may not offer the same level of protection of personal information as your country of residence. However, we will take contractual and/or other measures to ensure your personal data is protected. It may also be transferred to Israel, which has been recognized by the EU as having adequate data protection.
 
-In addition to the above, Innovid Inc.adheres to the principles of the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield.
+In addition to the above, Innovid Inc.adheres to the principles of the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield.  
+
 
 #### EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
-Innovid Inc., a U.S. corporation, complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield.
+Innovid Inc., a U.S. corporation, complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries, and the United Kingdom and Switzerland transferred to the United States pursuant to Privacy Shield.
 
 Innovid, Inc. has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
@@ -156,11 +180,14 @@ If your Privacy Shield complaint cannot be resolved through the above channels, 
 
 Innovid, Inc. has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
 
+Pursuant to the Privacy Shield, Innovid, Inc. remains liable for the transfer of personal data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages.
+
 #### Enforcement Complaints
 
 Innovid has implemented processes to ensure compliance with this Policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible, and in conformity with the NAI Code of Conduct. We encourage interested persons to raise any concerns by emailing privacy@Innovid.com and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of information.
 
-To address any issues regarding our compliance with the NAI Code of Conduct, Innovid, along with the NAI and other NAI members have created a compliance program that incorporates attestation reviews, a consumer complaint process, sanctions, and annual reporting to help ensure that member companies keep their promises to you and abide by the NAI Code of Conduct. Please refer to the NAI site for more information.
+To address any issues regarding our compliance with the NAI Code of Conduct, Innovid, along with the NAI and other NAI members have created a compliance program that incorporates attestation reviews, a consumer complaint process, sanctions, and annual reporting to help ensure that member companies keep their promises to you and abide by the NAI Code of Conduct. Please refer to the NAI site for more information.  
+
 
 ### Contact Us
 
@@ -182,4 +209,4 @@ Attn.: Privacy
 30 Irving Place, 12th Floor  
 New York, NY 10003
 
-Last updated: **August 8th, 2018**
+Last updated: **June, 2019**
