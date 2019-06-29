@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020000840id_/https%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629123109id_/https%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
 
 # Worldatlas.com and Graphic Maps Privacy Policy
 
@@ -77,53 +77,5 @@ Whenever we change our privacy policy, we will post those changes to this Privac
 If users have any questions or suggestions regarding our privacy policy, please contact us at data@worldatlas.com. 
 
 ## Trending on WorldAtlas
-
-  * [ ](https://web.archive.org/articles/most-dangerous-cities-in-the-world.html) [
-
-The Most Dangerous Cities in the World
-
-](https://web.archive.org/articles/most-dangerous-cities-in-the-world.html)
-  * [ ](https://web.archive.org/articles/the-largest-countries-in-the-world-the-biggest-nations-as-determined-by-total-land-area.html) [
-
-The Largest Countries in the World
-
-](https://web.archive.org/articles/the-largest-countries-in-the-world-the-biggest-nations-as-determined-by-total-land-area.html)
-  * [ ](https://web.archive.org/articles/the-10-largest-cities-in-the-world.html) [
-
-The 10 Largest Cities in the World
-
-](https://web.archive.org/articles/the-10-largest-cities-in-the-world.html)
-  * [ ](https://web.archive.org/articles/the-10-smallest-countries-in-the-world.html) [
-
-The 10 Smallest Countries In The World
-
-](https://web.archive.org/articles/the-10-smallest-countries-in-the-world.html)
-  * [ ](https://web.archive.org/articles/what-are-the-most-popular-sports-in-the-world.html) [
-
-The Most Popular Sports in the World
-
-](https://web.archive.org/articles/what-are-the-most-popular-sports-in-the-world.html)
-  * [ ](https://web.archive.org/articles/is-the-moon-a-planet-or-a-star.html) [
-
-Is the Moon a Planet or a Star?
-
-](https://web.archive.org/articles/is-the-moon-a-planet-or-a-star.html)
-  * [ ](https://web.archive.org/articles/why-does-ice-float.html) [
-
-Why Does Ice Float?
-
-](https://web.archive.org/articles/why-does-ice-float.html)
-  * [ ](https://web.archive.org/articles/which-country-has-the-most-lakes.html) [
-
-Which Country Has the Most Lakes?
-
-](https://web.archive.org/articles/which-country-has-the-most-lakes.html)
-  * [ ](https://web.archive.org/articles/29-largest-armies-in-the-world.html) [
-
-29 Largest Armies In The World
-
-](https://web.archive.org/articles/29-largest-armies-in-the-world.html)
-
-
 
 This page was last updated on **May 15, 2018**.
