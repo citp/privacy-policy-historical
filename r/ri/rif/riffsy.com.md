@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riffsy.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226125601id_/https%3A//tenor.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riffsy.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629161028id_/https%3A//tenor.com/legal-privacy) for the most accurate reproduction.*
 
 # Tenor Privacy Policy
 
@@ -9,7 +9,7 @@
 
 Tenor (“Tenor”, “we,” “us,” or “our”) is committed to respecting the privacy of your personal information as a user of our mobile and desktop applications and extensions (the “Apps”) or a visitor to our website (the “Site”) and the associated services, including the our services provided by us through third party offerings, such as social networks or messaging applications (our Apps, the Site and the associated services are collectively called the “Services”).
 
-This Privacy Policy explains what information Tenor collects from users of its Services and how we may use that information and addresses related questions. By registering for an online account with us, or using any of our Services, you agree and consent to this Privacy Policy. The Tenor Terms of Service at  [http://tenor.com/legal-terms](https://web.archive.org/legal-terms) contain additional terms and conditions governing your use of the Services.
+This Privacy Policy explains what information Tenor collects from users of its Services and how we may use that information and addresses related questions. By registering for an online account with us, or using any of our Services, you agree and consent to this Privacy Policy. The Tenor Terms of Service at  [https://tenor.com/legal-terms](https://web.archive.org/legal-terms) contain additional terms and conditions governing your use of the Services.
 
 ### Overview of the Tenor Services
 
