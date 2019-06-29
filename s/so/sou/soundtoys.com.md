@@ -1,36 +1,75 @@
-> *The following text is extracted and transformed from the soundtoys.com privacy policy that was archived on 2018-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180415171828id_/http%3A//www.soundtoys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundtoys.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629174121id_/https%3A//www.soundtoys.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Soundtoys
+# Soundtoys, Inc. Privacy Policy - Soundtoys
 
-PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY. WHEN YOU USE OUR WEBSITE YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THIS PRIVACY POLICY.  
-  
-**SOUNDTOYS, INC. PRIVACY POLICY**  
-  
-This Privacy Policy will apply to the website that you are visiting, www.soundtoys.com (the “Website”) which is owned by Soundtoys, Inc. (the “Company”). This Privacy Policy also applies to the computer software (plug-ins and applications) available on the Website (the “Software”) by the Company.
+Revision 2.4 | August 2, 2018
 
-  
-Company and its subsidiary companies respect the privacy rights of our online visitors and recognize the importance of protecting the information collected from you. We have adopted a corporate-wide Privacy Policy that guides how we collect, store and use the information you provide online. Please note that this policy applies only to sites maintained by Company and its subsidiaries, and not to websites maintained by other companies or organizations to which we link.  
-  
-If you have questions or concerns regarding this statement, you should first contact Company at the email address or postal address specified on the Website.  
-  
-**INFORMATION COLLECTION AND USE**  
-  
-Our primary goal in collecting personally identifiable information is to provide you with the products and services made available through the Website and the Software, including, but not limited to our services, to communicate with you, and to manage your registered user account, if you have one.  
-  
-**Information Collected Upon Registration:** If you desire to have access to certain restricted sections of the Website, you will be required to become a registered user, and to submit certain personally identifiable information to Company. This happens in a number of instances, such as when you sign up for our services, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your full name, username, password, email address, address, telephone number, and other information that you decide to provide us with, or that you decide to include in your public profile.  
-  
-**Use of Contact Information:** In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our services. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications.  
-  
-**Log Data (WebSite ):** When you visit the Website, our servers automatically record information that your browser sends whenever you visit a website as Log Data. This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the websites you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Website and of our Service, and for the Website’s technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service.  
-  
-**Usage Data(Software):** Our servers automatically record information collected and sent by the Software, communicated over the internet as Usage Data. This Usage Data may include information such as your IP address, computer type and operating system, host DAW (for plug-ins) and statistics regarding the usage of our software products. For most users accessing the Internet from an Internet service provider, the IP address changes periodically, and does not uniquely identify a single user, and is not considered personal information. We use Usage Data to help us improve the quality of our software and to provide relevant information to you in the form of software updates and other notifications. We do not associate your IP address with any other personally identifiable information, except in case of a violation of the Terms of Service and our software License Agreement.
+We respect your right to privacy and the importance of protecting the information that we collect from you.
 
-**Your Account:** If you use this site, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. Company reserves the right to refuse service, terminate accounts, remove or edit content, or cancel orders in their sole discretion.  
-  
-**Cookies:** We use cookies and other technologies to passively collect demographic information, personalize your experience on our site and monitor advertisements and other activities. Cookies are small files downloaded to your computer to track movements within web sites. We may link cookie information to personal information. Cookies link to information regarding what items you have selected for purchase at our store or pages you have viewed. This information is used to keep track of your shopping cart and make sure you don’t see the same ad repeatedly. Also, we use cookies to deliver content specific to your interest and to monitor Website usage. Some of our sites use an outside ad company to display ads. These ads may contain cookies. Our ad companies collect cookies received with banner ads, and Company does not have access to this information. Most browsers are automatically set to accept cookies whenever you visit a website. You can disable cookies or set your browser to alert you when cookies are being sent. However some areas of our sites will not function properly if you do so. Please note that this privacy policy covers the use of cookies by Company only and does not cover the use of cookies by any advertisers.  
-  
-**Other Technologies:** Other technologies used include clear GIFs. Clear GIFs also known as web bugs, beacons or tags, are small graphic images placed on a web page, web-based document, or in an e-mail message. Clear GIFs are invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the web page, document or e-mail message. We do not use clear GIFs to collect personal information about you. However, we may use clear GIFs to capture statistical usage information for our web pages, features or other elements on a web page. We may correlate this information to a user to personalize user experience and for statistical analysis of user experiences on our web pages.  
-  
-**Law Enforcement:** We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Company or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.  
-  
-**Business Transfers:** We may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity’s planned processing of your information differs materially from that set forth in this Privacy Policy.
+This Privacy Policy explains how and why we collect, store and process your personal data and what your rights are regarding the data that we collect. This Privacy Policy applies to our website [www.soundtoys.com](http://www.soundtoys.com/) and to the software plug-ins that we sell on this website and through our resellers.
+
+**Your Rights**
+
+You have many rights regarding your data. If you live in Europe you have the legal right to access the personal information that we keep about you, and you can ask us to correct, update or delete your information. You also have the right to control how we use your data, and you must opt-in for any use of your data that isn’t considered a “legitimate interest”. This means that we will not use your data for marketing purposes unless you have specifically opted-in for marketing communications. We also extend this courtesy to our non-European users. 
+
+Most information we hold about you can be seen and updated by logging into your Soundtoys [account](https://www.soundtoys.com/acct/) and visiting the Profile section. Please contact us at [support@soundtoys.com](mailto:support@soundtoys.com) if you want a more detailed audit of information about you, or if you want us to delete all of your data entirely. 
+
+**How We Collect Data**
+
+We collect data from you when you visit our website, sign up for a free trial, sign up for our newsletter, create a user account, purchase or use our products.
+
+Some of the data we collect is necessary for our web store to function and for us to communicate, deliver and support the software that you are licensing from us. The legal basis for this collection and processing of data is called “Legitimate Interest” and there is no need for you to opt-in for this type of data collection.
+
+We also collect and process other personal data that may be used for marketing and similar purposes. For this type of data we rely on you to “Opt-In” to allow us to use your data in this way.
+
+**Data Transfer**
+
+Soundtoys is based in the USA, so if you are in another country, information about you will be transferred to our servers here in the USA. 
+
+**Sharing Your Personal Information**
+
+We NEVER share your information with third parties except when doing so is necessary to provide our products and services to you or if we have a legal obligation to do so.  For example, we use Authorize.net to process your payment information, and MailChimp and Mandrill to send you email. 
+
+**Data Retention**
+
+When you create an account or place an order through the Website, we will keep the information you provide to us indefinitely unless you ask us to delete this information. 
+
+**What Data is Collected**
+
+When you purchase our products, sign up for a free trial, sign up for our newsletter, or create a Soundtoys account we collect and store your email address, name, mailing address, telephone number, iLok account ID, IP address, and purchase history. 
+
+For purchases or account creation you are also required to submit a password so that you may access your account. For your protection this password is encrypted before it is stored on our servers.
+
+When using our software we collect usage data that may include information such as your IP address, computer type and operating system, host DAW (for plug-ins) and statistics regarding the usage of our software products. 
+
+When browsing our website we make use of a variety of technologies including “Cookies”, “Marketing Pixels”, and “Log Data” to gather data about your computer, web browser, which web pages were visited during your session, and how you arrived at our website (search engine, search terms, online ads, etc.). 
+
+We do not associate your IP address with any personally identifying information.
+
+**How We Use Your Data**
+
+We collect your personal data so that you can have the best possible experience with our website and our products. This data helps us:
+
+  * Communicate with you for customer service and product support.
+  * Keep a record of your purchase history so that we can offer product upgrades.
+  * Comply with any location specific regulations or tax requirements.
+  * Prevent and/or respond to fraudulent transactions.
+  * Improve our products and services.
+  * Let you know about new products and other information related to our products like tutorials, usage tips, additional content, and sales promotions.
+  * Customize our online advertising so that it is more relevant to you.
+
+
+
+For a comprehensive description of the data that we store and how we use it, visit our [Data Collection and Processing Details](http://www.soundtoys.com/data-collection-and-processing-details/) page.
+
+**Business Transfers**
+
+We have no intention of selling Soundtoys. In the unlikely event of a sale of some or part of our assets, you will have the opportunity to opt-out of any such transfer if the new entity’s planned processing of your information differs materially from that set forth in this Privacy Policy.
+
+**Changes**
+
+We may update this Privacy Policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+**Contact Us**
+
+For more information about our Privacy Policy, please contact us by e-mail at support@soundtoys.com.
