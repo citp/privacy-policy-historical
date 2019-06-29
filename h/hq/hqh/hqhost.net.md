@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hqhost.net privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226190255id_/http%3A//hqhost.net/en/documentation.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqhost.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629174921id_/http%3A//hqhost.net/en/documentation.html%23privacy) for the most accurate reproduction.*
 
 # HQhost - Legal
 
@@ -120,7 +120,7 @@ Reproduction or redistribution of any content that violates state laws , federal
 
   * 3.2.
 
-Placement of materials in some way related to the sale of pharmaceutical products and related services to distribute them without providing adequate package permits and licenses required in accordance with the Law on consumer protection in the field of online sales of drugs (2008).[More...](https://web.archive.org/web/20181226190255id_/http%3A//hqhost.net/en/documentation.html#pharma)
+Placement of materials in some way related to the sale of pharmaceutical products and related services to distribute them without providing adequate package permits and licenses required in accordance with the Law on consumer protection in the field of online sales of drugs (2008).[More...](https://web.archive.org/web/20190629174921id_/http%3A//hqhost.net/en/documentation.html#pharma)
 
   * 3.3.
 
@@ -396,11 +396,11 @@ Apart from technical limitations established in section 5.4 of this Treaty, the 
 
   * 6.1.
 
-Terms of Use of the services of the Contractor are posted at [http:/www.hqhost.net/documentation.html#aup](https://web.archive.org/web/20181226190255id_/http%3A//hqhost.net/en/documentation.html#aup). Compliance with these rules is a necessary condition for the use of the Contractor's services and a guarantee of the quality of the services provided to other HQHOST.NET clients, as well as protecting the company, its reputation, technical resources and personnel of Customers' violation. All decisions made by the system administrators of the Contractor in respect of complaints against the clients are accepted solely on the basis of the Terms of Use.
+Terms of Use of the services of the Contractor are posted at [http:/www.hqhost.net/documentation.html#aup](https://web.archive.org/web/20190629174921id_/http%3A//hqhost.net/en/documentation.html#aup). Compliance with these rules is a necessary condition for the use of the Contractor's services and a guarantee of the quality of the services provided to other HQHOST.NET clients, as well as protecting the company, its reputation, technical resources and personnel of Customers' violation. All decisions made by the system administrators of the Contractor in respect of complaints against the clients are accepted solely on the basis of the Terms of Use.
 
   * 6.2.
 
-The Contractor reserves the right to change the Terms of Use of services. All changes will take effect within 72 hours after the relevant information will be posted at [http:/www.hqhost.net/documentation.html#aup](https://web.archive.org/web/20181226190255id_/http%3A//hqhost.net/en/documentation.html#aup).
+The Contractor reserves the right to change the Terms of Use of services. All changes will take effect within 72 hours after the relevant information will be posted at [http:/www.hqhost.net/documentation.html#aup](https://web.archive.org/web/20190629174921id_/http%3A//hqhost.net/en/documentation.html#aup).
 
 
 
