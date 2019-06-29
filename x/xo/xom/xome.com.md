@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xome.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623131158id_/https%3A//www.xome.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xome.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629141027id_/https%3A//www.xome.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Real Estate & Homes For Sale
 
@@ -16,7 +16,7 @@ Information You Provide By Using Our Services: In addition to the information th
 
 If you use any social networking functionality provided by us, we may access and use your social network profile information that you have made available to be shared. 
 
-**2\. How We Collect Information**
+* How We Collect Information 
 
 We may send cookies to your computer primarily to enhance your online experience. Cookies are small files that can identify you as a unique user and store your personal preferences or technical information (including click through and click stream data). Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, various features of our Services may not properly function without cookies. 
 
@@ -86,7 +86,7 @@ If you prefer that we not share such information about you with non-affiliates o
 
 We may also use technologies to collect information about your online activities over time and across third party websites or other online services (behavioral tracking). We believe that this online behavioral tracking helps to provide you with more relevant advertising based upon on the websites you visit. Third parties may also use similar technologies to collect information about your online activities over time and across different third party sites, including your use of our Website. 
 
-You can visit the [NAI Opt-Out web site](http://www.networkadvertising.org/choices/) for information on how you can opt out of behavioral tracking on our Website. Using the choice mechanisms these programs make available may help you see advertising that is relevant to you or help you avoid seeing interest-based advertising generally. Please note that the Website does not respond to or honor "Do Not Track" requests. We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Xome advertising during your visits to other websites. To opt-out of our data collection for targeted advertising on other sites, click here: [Opt Out Now](mailto:privacy@xome.com?subject=I%20want%20to%20opt%20out%20of%20data%20collection%20for%20targeted%20advertising%20on%20other%20sites). 
+You can visit the [NAI Opt-Out web site](http://www.networkadvertising.org/choices/) for information on how you can opt out of behavioral tracking on our Website. Using the choice mechanisms these programs make available may help you see advertising that is relevant to you or help you avoid seeing interest-based advertising generally. Please note that the Website does not respond to or honor "Do Not Track" requests. We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Xome advertising during your visits to other websites. 
 
 * How We Protect Your Information 
 
