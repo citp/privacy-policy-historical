@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsco.co privacy policy that was archived on 2018-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180724181914id_/https%3A//vsco.co/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsco.co privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629211127id_/https%3A//vsco.co/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | VSCO
 
@@ -28,7 +28,7 @@ We collect the following types of information about you:
 
 > **Information we may receive from third parties —** We may receive information about you from third parties. For example, if you access our websites or Service through a third-party connection or log-in, for example, through Facebook Connect, by “following,” “liking,” adding the VSCO application, linking your account to the VSCO Service, etc., that third party may pass certain information about your use of its service to VSCO. This information could include, but is not limited to any information that you have permitted the third party to share with us, and any information you have made public in connection with that service. We may use this information to find your contacts on the Service, to let you know what your contacts are doing on the Service, and to let your contacts know what you are doing on the Service. We may also use it to suggest additional users or friends you may want to follow or connect with. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to VSCO’s websites or Service. You may also unlink your third party account from the Service by adjusting your settings on the third party service. 
 
-> **Inviting a third party to use our Service —** If you choose to use our invitation service to invite a third party to the Service, we will ask you for that person’s email address or phone number, or with your permission we may access and store your contact list available on your mobile device, and we will automatically send an email invitation to the invitee. After sending the invitation, we may also send reminder emails to your invitees on your behalf. We store this information to send this email, to register the invitee if your invitation is accepted, to track the success of our invitation service, and to let you know when your contacts join the Service. Unless the invitee becomes a registered User of the Service, we do not use the invitee’s email address for marketing purposes, and we do not share the invitee’s email address with third parties other than VSCO’s service providers. The invitee may contact us at any time to request that we remove his or her information from our database at [support@vsco.co](mailto:support@vsco.co). 
+> **Inviting a third party to use our Service —** If you choose to use our invitation service to invite a third party to the Service, we will ask you for that person’s email address or phone number, or with your permission we may access and store your contact list available on your mobile device, and we will automatically send an email invitation to the invitee. After sending the invitation, we may also send reminder emails to your invitees on your behalf. We store this information to send this email, to register the invitee if your invitation is accepted, to track the success of our invitation service, and to let you know when your contacts join the Service. Unless the invitee becomes a registered User of the Service, we do not use the invitee’s email address for marketing purposes, and we do not share the invitee’s email address with third parties other than VSCO’s service providers. The invitee may contact us at any time to request that we remove his or her information from our database in this [form](https://support.vsco.co/hc/en-us/requests/new). 
 
 > **Metadata —** We may collect metadata associated with User Content. Metadata typically consists of how, when, where and by whom a piece of User Content was collected and how that content has been formatted. Users can add or may have added metadata added to their User Content including keywords posted with a photo or video, including names, geographical or location information, comments or other data. This makes your data more searchable and more interactive. However, the metadata may be accessible to others if you share the User Content with others or on third party social media sites. 
 > 
@@ -70,9 +70,9 @@ We collect the following types of information about you:
 
 > **Storage and Processing —** Your information collected through the Service may be stored and processed in the United States or any other country in which VSCO or its subsidiaries, affiliates or service providers maintain facilities. VSCO may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which VSCO or its subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. 
 
-> **Data Retention -** We will retain your information for as long as your account is active or as needed to provide you services. You may deactivate your account in your profile settings. Please contact us at [support@vsco.co](mailto:support@vsco.co) if you wish to delete your account permanently from our systems. Please be aware that we will not be able to delete any content you have shared with others or with social media sites. 
+> **Data Retention -** We will retain your information for as long as your account is active or as needed to provide you services. You may deactivate your account in your profile settings. Please [contact us](https://support.vsco.co/hc/en-us/requests/new) if you wish to delete your account permanently from our systems. Please be aware that we will not be able to delete any content you have shared with others or with social media sites. 
 
-> **Deleting or Anonymizing Your Content -** If you are under 18 years of age, you may request that the content that you posted to the Service be deleted or anonymized such that your personal information will not be identifiable publicly on our Service by contacting us at [support@vsco.co](mailto:support@vsco.co). While we will use all commercially reasonable efforts to delete or anonymize your user content upon request, please be aware that due to the social nature of our Service, you may not be able to completely remove all of your personally identifiable user content if, for example, that content has been stored, republished, or reposted by another user or a third party. We may also maintain your information in identifiable form for our internal use, even if your personal data is no longer visible to the public on our Service. 
+> **Deleting or Anonymizing Your Content -** If you are under 18 years of age, you may request that the content that you posted to the Service be deleted or anonymized such that your personal information will not be identifiable publicly on our Service by [contacting us](https://support.vsco.co/hc/en-us/requests/new). While we will use all commercially reasonable efforts to delete or anonymize your user content upon request, please be aware that due to the social nature of our Service, you may not be able to completely remove all of your personally identifiable user content if, for example, that content has been stored, republished, or reposted by another user or a third party. We may also maintain your information in identifiable form for our internal use, even if your personal data is no longer visible to the public on our Service. 
 
 > **Keeping your information safe —** VSCO cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. However, VSCO cannot ensure or warrant the security of any information you transmit to VSCO or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of VSCO’s distributors, such as social networks. VSCO is not responsible for the functionality or security measures of any third party. 
 
@@ -80,13 +80,13 @@ We collect the following types of information about you:
 
 #### 4\. YOUR CHOICES ABOUT YOUR INFORMATION
 
-> **You control your account information and settings —** You may update your account information, profile information and email-communication preferences at any time by logging in to your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at [support@vsco.co](mailto:support@vsco.co). 
+> **You control your account information and settings —** You may update your account information, profile information and email-communication preferences at any time by logging in to your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can [contact us](https://support.vsco.co/hc/en-us/requests/new). 
 
 > Your choices regarding the collection of your information for Online Advertising: As discussed above, we permit third party advertising networks or similar third party partners to collect information about your browsing activities over time and across websites when you use our site or Service. Typically, this information is collected through cookies or similar technologies, which recognize the device you are using and are used to display ads through our Service or to our visitors on other websites. If you would like to disable cookies, limit advertising that utilizes cookies or similar technologies, find out more about cookies and how to manage their use in connection with advertising, please read our [Cookie Policy](https://web.archive.org/about/cookie_policy). 
 
 #### 5\. CHILDREN’S PRIVACY
 
-> VSCO does not knowingly collect or solicit personal information from anyone under the age of 13. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@vsco.co](mailto:support@vsco.co). 
+> VSCO does not knowingly collect or solicit personal information from anyone under the age of 13. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please [contact us](https://support.vsco.co/hc/en-us/requests/new). 
 
 #### 6\. LINKS TO OTHER WEBSITES AND SERVICES
 
@@ -94,7 +94,7 @@ We collect the following types of information about you:
 
 #### 7\. HOW TO CONTACT US
 
-> If you have any questions about this Privacy Policy or the Service, please contact us at [support@vsco.co](mailto:support@vsco.co).
+> If you have any questions about this Privacy Policy or the Service, please [contact us](https://support.vsco.co/hc/en-us/requests/new).
 
 > 
 >         1500 Broadway, Suite #300
@@ -103,7 +103,7 @@ We collect the following types of information about you:
 >         1 (510) 545-3844
 >         
 
-> Please note that we do not offer phone support, but if you have questions regarding our products or your order, please visit our [Support page](http://support.vsco.co/), or you may contact our Support team at [support@vsco.co](mailto:support@vsco.co).
+> Please note that we do not offer phone support, but if you have questions regarding our products or your order, please visit our [Support page](http://support.vsco.co/), or you may contact our Support team [here](https://support.vsco.co/hc/en-us/requests/new).
 
 #### 8\. CHANGES TO OUR PRIVACY POLICY
 
@@ -111,7 +111,7 @@ We collect the following types of information about you:
 
 #### 9\. EU Addendum
 
-> **Controller.** Visual Supply Company is the controller of the personal data that we have about you and can be reached at: 1500 Broadway, Suite 300, Oakland, CA 94612 or [support@vsco.co](mailto:support@vsco.co). 
+> **Controller.** Visual Supply Company is the controller of the personal data that we have about you and can be reached at: 1500 Broadway, Suite 300, Oakland, CA 94612 or [through email](https://support.vsco.co/hc/en-us/requests/new). 
 
 > **Your rights.** You may ask us to take the following actions: 
 > 
@@ -124,7 +124,7 @@ We collect the following types of information about you:
 > 
 
 > 
-> To request one of these actions, contact us at [support@vsco.co](mailto:support@vsco.co). We may request information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions.
+> To request one of these actions, [contact us](https://support.vsco.co/hc/en-us/requests/new). We may request information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions.
 
 > **Marketing emails.** You can always opt out of our marketing emails by following the unsubscribe prompt in the message. You may still receive administrative or other non-marketing messages. 
 
@@ -139,6 +139,6 @@ We collect the following types of information about you:
 
 > **Updates.** Privacy laws are undergoing significant changes in Europe and we may need to further update our Privacy Policy as laws take effect and regulators provide additional guidance. While we will always notify you of any material updates, we encourage you to revisit our Privacy Policy from time to keep current with any changes. 
 
-> **Questions, concerns, complaints.** If you have any questions or concerns, please email us at [support@vsco.co](mailto:support@vsco.co). In addition, you can always submit a complaint to your data protection regulator. You can find your data protection regulator [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). 
+> **Questions, concerns, complaints.** If you have any questions or concerns, please [contact us](https://support.vsco.co/hc/en-us/requests/new). In addition, you can always submit a complaint to your data protection regulator. You can find your data protection regulator [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). 
 
 _This Privacy Policy was last modified on May 25, 2018._
