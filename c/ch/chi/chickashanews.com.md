@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chickashanews.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826103210id_/http%3A//www.chickashanews.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickashanews.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629125137id_/https%3A//www.chickashanews.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | chickashanews.com
 
@@ -77,3 +77,7 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
  **Contacting Us**
 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
+
+Graveside service will be 10:30 a.m., Friday, June 28, 2019 at Fairlawn Cemetery under the direction of Sevier Funeral Home. Rebecca Ann Drewry, of Chickasha, OK, passed away on Wednesday, June 26, 2019 in Oklahoma City, Oklahoma at the age of 91. She was born October 18, 1927 in Grady Count…
+
+Ruth E. McConnell of Lindsay, Oklahoma was born to Herbert P. and Grace E. (Owen) Miller on June 16, 1934 in Tulsa, Oklahoma and passed from this life on June 22, 2019 in McAlester, Oklahoma at the age of 85 years. Ruth grew up and attended school in Tulsa and college at OBU. Ruth and Alvin …
