@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herothemes.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130111538id_/https%3A//herothemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herothemes.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629032634id_/https%3A//herothemes.com/privacy-policy) for the most accurate reproduction.*
 
 # HeroThemes Privacy Policy
 
@@ -32,7 +32,7 @@ You can contact us from our[ Contact Form](https://herothemes.com/contact/)
 
 Postal address: The Glades, Festival Way, Stoke-On-Trent, England, ST1 5SQ
 
-You have the right to make a complaint at any time to the [Information Commissioner’s Office (ICO)](https://www.ico.org.uk/), the UK supervisory authority for data protection issues. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+You have the right to make a complaint at any time to the [Information Commissioner’s Office (ICO)](https://ico.org.uk/), the UK supervisory authority for data protection issues. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
 Changes to the privacy policy and your duty to inform us of changes
 
