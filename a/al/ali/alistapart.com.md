@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alistapart.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920094915id_/https%3A//alistapart.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alistapart.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629094636id_/https%3A//alistapart.com/about/privacy-policy) for the most accurate reproduction.*
 
-# A List Apart: Privacy Policy
+# Privacy Policy – A List Apart
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or leave a comment at A List Apart (the “Site”).
 
