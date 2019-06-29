@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telekom.jobs privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824213848id_/https%3A//telekom.jobs/search%3Fac%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telekom.jobs privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629222123id_/https%3A//telekom.jobs/search%3Fac%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Statement │ Job Search
 
