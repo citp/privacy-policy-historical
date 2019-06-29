@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponbank.in privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901230055id_/http%3A//www.couponbank.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponbank.in privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629143837id_/http%3A//couponbank.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : CouponBank.in
 
