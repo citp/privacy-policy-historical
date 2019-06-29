@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendolife.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231105448id_/http%3A//www.nintendolife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendolife.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629155954id_/http%3A//www.nintendolife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nintendo Life
 
@@ -82,13 +82,13 @@ You may choose to restrict the collection or use of your personal information in
 
   * Don't enter information you do not wish to share with us
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * If you have previously agreed to us using your personal information for newsletter purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](http://www.nintendolife.com/cdn-cgi/l/email-protection#ea8e8b9e8baa8486838c8fc4898587) or by updating your account preferences.
+  * If you have previously agreed to us using your personal information for newsletter purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](http://www.nintendolife.com/cdn-cgi/l/email-protection#6206031603220c0e0b04074c010d0f) or by updating your account preferences.
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your explicit permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998 / General Data Protection Regulation (GDPR) (EU) 2016/679. If you would like a copy of the information held on you please write to Nlife Ltd, Unit 18-19, Loughborough Technology Centre, LE11 3GE, United Kingdom or emails us [[email protected]](http://www.nintendolife.com/cdn-cgi/l/email-protection#fb9f9a8f9abb9597929d9ed5989496).
+You may request details of personal information which we hold about you under the Data Protection Act 1998 / General Data Protection Regulation (GDPR) (EU) 2016/679. If you would like a copy of the information held on you please write to Nlife Ltd, Unit 18-19, Loughborough Technology Centre, LE11 3GE, United Kingdom or emails us [[email protected]](http://www.nintendolife.com/cdn-cgi/l/email-protection#afcbcedbceefc1c3c6c9ca81ccc0c2).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
