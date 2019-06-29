@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3dworldmag.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223053005id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dworldmag.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629202408id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Future
 
-(Updated May 2018)
+(Updated April 2019)
 
 **Introduction**
 
@@ -24,6 +24,7 @@ Storage and retention of data
 Security  
 Protecting children’s privacy  
 Your rights  
+Website notifications (pop-ups) and opt out instructions  
 Policy changes  
 Further information
 
@@ -184,6 +185,18 @@ You will not usually have to pay a fee to access your personal data (or to exerc
 
 Information Commissioner’s Office  
 If you feel you need to, you also have the right to make a complaint at any time to the ICO, the UK data protection supervisory authority (www.ico.org.uk).
+
+**Website notifications (pop ups)**.
+
+We provide news and updates about our sites via push notification messages or ‘pop-ups’. This is a free service. The notifications are only sent to you if you have clicked on a button to allow it (you may have accidentally selected to receive notifications). 
+
+We have no control over your subscription to notifications as it is controlled by your browser and device.  We do not store any recognisable data about you or your device in connection with the push notification service. 
+
+If you wish to unsubscribe from receiving notifications please follow the instructions here:
+
+[https://documentation.onesignal.com/docs/unsubscribe-from-notifications](https://documentation.onesignal.com/docs/unsubscribe-from-notifications)
+
+If you need additional assistance in relation to push notifications, please contact the team at [push.notifications@futurenet.com](mailto:push.notifications@futurenet.com).
 
 **Policy changes**
 
