@@ -1,118 +1,169 @@
-> *The following text is extracted and transformed from the rcsworks.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026163847id_/http%3A//www.rcsworks.com/en/company/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcsworks.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629020250id_/https%3A//www.rcsworks.com/company/privacy-policy) for the most accurate reproduction.*
 
-# RCS Privacy and Cookie Notice | RCS Sound Software
+# RCS Privacy and Cookie Notice - RCS Sound Software
 
-**UPDATED AS OF:** June 17, 2013 
+_Last updated: 24 May, 2018_
 
-This privacy and cookie notice ("Privacy Notice") applies solely to information collected through the website located at www.rcsworks.com, and related web pages, interactive features, applications, widgets, blogs and their respective contents, in addition to Twitter, Facebook or other social networking sites, and their respective contents, whether accessed via computer mobile device or other technology platforms (collectively, the "Platforms"). The Platforms are offered by iHeartMedia, Inc. d/b/a RCS and its platform developers and other promotional partners (collectively, "RCS", or "we", "us", "our"). 
+ **1) INTRODUCTION**
 
-##### QUICK GUIDE TO CONTENTS
+This Policy sets out how RCS uses and protects any information that you give RCS when you use our online services.  
+RCS is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using our services, you can be assured that it will only be used in accordance with this Policy.  
+This Policy is in compliance with the requirements of the European Union’s General Data Protection Regulation (GDPR) which came into force on May 25, 2018. This policy does not diminish any additional rights you may have under the laws of your country.
 
-  1. "INFORMATION WE COLLECT ON OUR PLATFORMS  
-[Cookie Removal](http://services.rcsworks.com/services/nocookies.asp)
-  2. HOW WE USE THE INFORMATION WE COLLECT
-  3. SHARING OF INFORMATION
-  4. INFORMATION WE RECEIVE FROM THIRD PARTIES
-  5. YOUR CHOICE AND ACCESS
-  6. ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT-OUT
-  7. CHILDREN
-  8. SECURITY OF YOUR INFORMATION
-  9. OTHER SITES
-  10. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION
-  11. CHANGES
-  12. CONTACT US
+ **WHO WE ARE**
+
+Within this policy, “RCS” refers to any entity within the RCS (Radio Computing Services) group of companies which include, in the United States of America, iHeartMedia Management Services Inc. (iHeartMedia) and, in the European Union, Radio Computing Services (UK) Ltd, RCS Europe sarl and associated branch offices, RCS Europe SARL, Niederlassung Deutschland, RCS Europe SA, France, Filial Sverige and RCS Europe sarl (SP. Z O.O.) Oddzial W Polsce. This policy applies to all RCS companies in the European Union and to iHeartMedia in the event that it processes personal data of individual persons located in the European Union. Where we use the acronym RCS, we refer to any or all of the foregoing entities, as the case may be, or depending on the country you are in.  
+All other RCS offices outside Europe have agreed to operate under this Policy. A full list of those non-European offices, together with relevantg contact details, can be found here: https://www.rcsworks.com/worldwide/
+
+ **2) LEGITIMATE INTERESTS**
+
+As a technology company serving broadcasting companies worldwide, RCS leverages robust, state-of-the-art methods to optimize communication between ourselves and our customers and their employees. At present, the most immediate and universally supported communication method is email. It is in the legitimate interests of RCS to use email, cellphones and landlines to apprise customers and prospects regarding the status of their software and hardware purchases; to provide timely updates regarding the progress of support issues; to send advisories regarding account security or planned service outages; and to determine customer preferences and priorities in the marketplace.
+
+Many RCS products support real-time, mission critical processes at customer sites – usually radio and television studios – and timeliness of communication is essential. RCS stores the minimum amount of personal data (as defined in the GDPR) necessary to accomplish this, and because many other companies employ these techniques, users are accustomed to and would expect to hear from RCS by email, cellphones and landlines with respect to these matters, throughout the lifetime of their relationship with us.
+
+ **3) PERSONAL DATA WE COLLECT**
+
+We may collect and store the following information about you:  
+a) Your name  
+b) An email address that you provide or that is provided to us by your manager.  
+c) A phone number that you provide or that is provided to us by your manager.  
+d) A User ID that can be based on your name, can be the same as your email address, or something unique of your own choosing within certain parameters.  
+e) A password of your own choosing within certain parameters. This password is protected by technology that does not facilitate recovery of the original password from the information stored in our database so it is not personal data that we process.  
+f) Which RCS client businesses you are affiliated with and your title at each.  
+g) The date you last interacted with RCS by:
+
+i. Opening a support issue with the support department  
+ii. Requested a product quote for a hardware or software system  
+iii. Logged into the RCS website at rcsworks.com or rcssupport.com  
+iv. Sent a database using RCS Data Exchange  
+v. Sent an email to a support issue address relating to one of your support issues  
+vi. Subscribed or unsubscribed to new product release email notifications
+
+h) The date you last obtained a software license, including over the phone, if our record identifies you personally.
+
+ **4) HOW WE USE THE INFORMATION WE GATHER**
+
+RCS will use your name, User ID and email address to authenticate you and to provide online services to the customer you represent for downloading files, participating in support issues and updating your software licenses. We use it to identify which notification options or subscriptions you select on our websites. When you activate these subscriptions, you allow RCS to contact you by email to advise you of the status of your support incidents or notify you about new versions of the software products you use.
+
+RCS may also contact you to advise you of planned unavailability of the services you use, to ask you about the RCS products or other software products you use, or ask you about your experiences dealing with our support, training and installation departments.
+
+Data collected by RCS is primarily used to interact with customers to provide service and support, and to ensure the security of the customer’s account. At times RCS will send marketing and survey materials to you.
+
+ **5) SHARING YOUR INFORMATION**
+
+No RCS entity shares any personal data with any other entity whether outside or within RCS. Personal data cannot be accessed through the iHeartMedia-owned data center held in the United States.
+
+ **6) SECURITY OF YOUR INFORMATION**
+
+We are committed to ensuring that your information is secure by using commercially-reasonable technical, administrative and physical security measures designed to protect your information.  
+For example:  
+RCS web and database servers are configured to use only the latest security protocols. Database access is secured through non-default, complex passwords. The data integrity methods (firewall, etc.) have been provided by the parent company, iHeartMedia, and meet current industry standards for security. All security updates are applied in a timely manner to the systems employed.
+
+RCS parent company, iHeartMedia, routinely performs penetration testing on network nodes to ensure the security technology and protocols are adequately protecting the network and stored information.
+
+If a breach of security and the breach is likely to pose risk to the persons whose data is impacted, RCS will report the breach to impacted individuals.
+
+The RCS IT department is instructed to identify and report any issues of data breach to the designated company officer who will ensure compliance with the above requirement.  
+****
+
+**7) INFORMATION WE STORE**
+
+RCS may store information in the following ways:
+
+ **a. When you log into our websites**
+
+When you log into our websites, including rcsworks.com, rcscommunity.com and rcssupport.com, RCS will store:  
+i. The date you last logged into one of the RCS websites  
+ii. The names of any software files you downloaded from the Download area of the site  
+iii. The dates and contents of any chat sessions you participate in with RCS.
+
+ **b. Cookies**
+
+The rcsworks.com site is powered by WordPress. WordPress uses cookies, or tiny piece of information stored on your computer, to verify who you are.
+
+It stores  
+i) Your user name  
+ii) A double-hashed copy of your password.  
+The cookies are set to expire two weeks from the time they are set.
+
+On rcssupport.com, if you enable the “Remember Me” option during login, RCS stores your User ID and a hash of your password in a cookie which expires after 1 year.
+
+ **c. When you use RCS Internet Licensing**
+
+When you use RCS Internet Licensing, RCS will store:
+
+i. The IP address used to contact the licensing server, which may reveal your approximate location  
+ii. The call letters, database name and tag number of the database(s) or products you license  
+iii. The product, expiration date and other information about the metrics of the license granted, if any.
+
+ **d. When you use RCS Data Exchange**
+
+When you use RCS Data Exchange to send a database, RCS will store:
+
+i. The IP address used to send the data, which may reveal your approximate location  
+ii. The contents of the text message you provide in the transmission  
+iii. The name, call letters and contents of the product database you send. The database contents can optionally be encrypted when sending if you make use of the Private Password function.  
+iv. The email address(es) of the recipient(s) of your transmission
+
+Your password is known only to you and is not accessible by RCS.
+
+RCS will maintain your messages and recipients’ information for up to one year. It is not shared with third parties. RCS may anonymously gather statistics about the frequency at which people use RCS Data Exchange or other statistics about the health and resources of the web servers used to run the service.
+
+RCS does not allow its employees to access the contents of the messages or databases you send via RCS Data Exchange, unless the transmission is sent to at least one member of the RCS staff using their current RCS employee email address. In these cases, the database contents are not further shared outside of RCS. If your Data Exchange transmission is related to an ongoing support issue you report to RCS, we may keep your data for up to six months from the date your issue is marked as being resolved.
+
+ **e. When you use RCS Software Products**
+
+When you use certain RCS software products, the products may collect usage data. This data indicates which features of the program you use, when and for how long. This data will be anonymous and will not contain your personal information or any information about your station’s database or settings. The usage information will be sent to RCS at periodic intervals.
+
+ **Because of the mission-critical nature of broadcast software, and the reasonable performance expectations of our legally contracted customers,** RCS may collect code exceptions within its products. Exceptions are reports of instances where the program did not run in the expected manner. The exception reports contain the name of your computer, your User ID, your database name, licensee name and details of the exception. They may contain information about the operating system and software version running on your computer.
+
+If you do not wish to have this information collected, you may modify the behavior by disabling Anonymous Usage Tracking and/or Send Exceptions to RCS in the Settings page of the software program. Changing these settings will not affect the behavior of the product in any other way.
+
+ **8) CONTROLLING YOUR PERSONAL INFORMATION**
+
+You may choose to restrict the collection or use of your personal information from your profile page when you login to rcssupport.com.
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
+
+You may request details of personal information which we hold about you. If applicable, we will promptly correct any information found to be incorrect. Contact your local RCS office for assistance.
+
+ **9) REMOVAL OF YOUR PERSONAL INFORMATION**
+
+RCS will erase your personal information from our systems **after two years of inactivity from the last date of interaction.**
+
+You may revoke your personal information from our systems at any time by invoking the “Remove My Information” button on your Profile page, which appears after you log in at the rcssupport.com website.  
+Upon activating the mechanism to remove all your personal information, your name, email address and phone number will be permanently removed from the databases used at RCS to manage services. The history of your interaction with the company with respect to downloads, software licenses, support issues or other online preferences will be anonymized with no traceability to your identity.
+
+ **10) MANAGING PERSONAL INFORMATION**
+
+You have the right as an individual to manage the personal data we hold about you and make amendments to it if this is necessary and to withdraw any consent in relation to the use of your personal data that you may have given us. If you exercise any of your rights, RCS may ask for information from you to confirm your identity and, where applicable, to help RCS find your personal data. We will respond within 30 days after we receive a valid request backed up by suitable evidence of your identity.  
+The specific rights you have are as follows:
+
+  * to request a summary of the personal data we have about you
+  * to correct and update your personal data
+  * to withdraw your consent (where we have requested and you have given it to enable RCS to send you any general information that is not strictly necessary under any contract nor is within our legitimate interests to send to you)
+  * to object to certain kinds of processing of your personal data such as automated processing and profiling
+  * to erase your personal data or restrict its use
+  * to complain to the RCS-nominated supervisory authority in the European Union which is the Datainspektionen in Sweden. The Datainspektionen may be contacted at PostaddressBox 8114, 104 20 Stockholm, Sweden (https://www.datainspektionen.se/in-english/contact-us/)
 
 
 
-### 1\. INFORMATION WE COLLECT ON OUR SITES.
+ **11) CHANGES TO THIS POLICY**
 
-#### Information You Provide To Us
+We reserve the right to update this Policy to reflect changes to our information practices by prominently posting notice of the update on our Sites, and as required, obtaining your consent. Any updates will become effective immediately after posting the updates to this Policy and apply to all information collected about you, or where required, upon your consent. You agree that you will review this Policy periodically.
 
-We may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), or payment information (such as account or credit card number). The types of Personal Information we collect may vary depending on your use of the features of the Platforms. For example, we will collect your credit card number and other payment related information in connection with your purchase of products and/or services through the Platforms. We post customer testimonials/video testimonials on our Platforms which may contain personally identifiable information. If we want to post a customer’s name along with their testimonial, we obtain the customer's consent via email prior to posting the testimonial. 
+If we make any changes to this Policy, we will change the “Last Updated” date above.
 
-#### Information We Collect Automatically
+If we make any major changes to this Policy – including, but not limited to, changes that materially impact previously collected information about you – we will contact you by email to obtain your prior express consent.
 
-_Usage Information._ Whenever you visit or interact with the Platforms, we, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Platforms are accessed and used (“Usage Information”). Usage Information may include browser type, device type, operating system, application version, the page served, the time, the preceding page views, and your use of features or applications on the Platforms, such as song history, interaction with friends and group activities. This information helps us keep our Platforms fresh and interesting to our visitors and allows us to tailor content to a visitor’s interests. 
+ **12) CONTACT US**
 
-_Device Identifier._ We automatically collect your IP address or other unique identifier (“Device Identifier”) for the Device (computer, mobile phone, tablet or other device) you use to access the Platforms. A Device Identifier is a number that is assigned to your Device when you access a website or its servers, and our computers identify your Device by its Device Identifier. We may use a Device Identifier to, among other things, administer the Platforms, help diagnose problems with our servers, analyze trends, track users’ web page movements, help identify you and your shopping cart, and gather broad demographic information for aggregate use. 
+If you have any questions about this Policy, or concerning information we may have collected about you, please contact us by email at [privacy@rcsworks.com](mailto:privacy@rcsworks.com), or by postal mail to:
 
-_Cookies; Pixel Tags._ The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic information). A pixel tag may tell your browser to get content from another server. 
+Data Privacy Manager  
+RCS Europe  
+Ostergatan 39  
+216 19 Malmö  
+Sweden
 
-To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, please refer to your browser’s help menu or other instructions related to your browser. If you do disable or opt out of receiving cookies, please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your iHeartMedia account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. 
-
-You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser. 
-
-or more information on advertising using cookies and how to opt out of advertising cookies specifically, please see Advertising; How To Opt-Out below. 
-
-### 2\. HOW WE USE THE INFORMATION WE COLLECT
-
-We use the information we collect about and from you for a variety of business purposes such as to respond to your questions and requests; provide you with access to certain areas and features of the Platforms such as your favorite stations, your musical preferences, songs you have listened to, shared playlists and your interaction with other users; verify your identity; communicate with you about your account and activities on the Platforms and, in our discretion, changes to any iHeartMedia policy; tailor content, advertisements, and offers we serve you; improve the Platforms; comply with license obligations; and for purposes disclosed at the time you provide your Personal Information or otherwise with your consent. We may collect location based information about you to provide you with radio stations in your area and to tailor advertisements and offers we serve to you. 
-
-### 3\. SHARING OF INFORMATION
-
-Except as described here, we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate data and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Notice and in the following circumstances: 
-
-#### Third Parties Providing Services On Our Behalf.
-
-We may share your Personal Information with third parties that perform functions on our behalf (or on behalf of our partners) such as service providers that host or operate our Platforms, analyze data, process transactions and payments, fulfill orders or provide customer service; advertisers; sponsors or other third parties that participate in or administer our promotions, contests, sweepstakes, surveys or provide marketing or promotional assistance and “powered by” partners or partners in co-branded sites. Your Personal Information may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties to provide you with product information and promotional and other offers. 
-
-#### Your Agreement To Have Your Personal Information Shared
-
-While on our Platforms, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party, including social networking sites such as Facebook or Twitter. If you agree to have your Personal Information shared, your Personal Information will be disclosed to the third party and the Personal Information you disclose will be subject to the privacy policy and business practices of that third party. 
-
-#### Business Transfers
-
-We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. In the event that iHeartMedia is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. 
-
-#### Legal Disclosure
-
-We may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law or a governmental authority requires it; to verify or enforce our Terms of Use or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect our rights or property or security of third parties, visitors to our Platforms or the public. 
-
-### 4\. INFORMATION WE RECEIVE FROM THIRD PARTIES
-
-We may receive information about you from third parties. For example, if you are on another website and you opt-in to receive information from iHeartMedia, that website will submit to us your email address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect (or the third party to share) information about you, including Usage Information and Personal Information such as lists of your friends, “likes”, comments you have shared, groups and location. Services like Facebook Connect give you the option to post information about your activities on our Platform to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections” or information about you is otherwise accessible through your “connections’” web page, profile page, or similar page on a social networking or other third party website or interactive service. We may supplement the information we collect about you through the Platforms with such information from third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you. 
-
-### 5\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS
-
-You may always direct us not to share your Personal Information with third parties (other than our service providers), not to use your Personal Information to provide you with information or offers, or not to send you newsletters, emails or other communications by: (i) modifying your registered user information on the Platforms; (ii) sending us an email at [privacy@rcsworks.com](mailto:privacy@rcsworks.com); (iii) contacting us by mail at iHeartMedia Customer Service, 200 E. Basse Road, San Antonio, TX 78209; or (iv) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it. 
-
-If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platforms, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@rcsworks.com](mailto:privacy@rcsworks.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site. 
-
-### 6\. ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT-OUT
-
-We may use third party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. We do not share Personal Information with these providers (unless, of course, you give us permission). Such providers may place and access cookies, pixel tags, or similar technologies on your Device to serve you ads or other content personalized to your interests which they infer from your browsing on the Platforms and other sites you have visited. In doing so, the provider collects or has access to non-Personal Information such as your Usage Information. The use of cookies, pixel tags, or similar technologies by these providers is subject to their own privacy policies, not ours. 
-
-If you do not want to receive the benefits of targeted advertising, you may opt out of some network advertising programs that use your information the NAI Opt-Out Page at <http://www.networkadvertising.org/managing/opt_out.asp>. Please note that even if you choose to remove your information (opt out), you will still see advertisements while you’re browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies. 
-
-### 7\. CHILDREN
-
-We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian’s consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. 
-
-### 8\. SECURITY OF YOUR INFORMATION
-
-We take information security seriously; however, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk. 
-
-### 9\. OTHER SITES
-
-The Platforms may contain links to other sites that we do not own or operate. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page). 
-
-The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Notice. 
-
-### 10\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION
-
-The Platforms are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. iHeartMedia makes no representation that the Platforms are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Platforms, or providing us with any information, you (a) acknowledge that the Platforms are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws. 
-
-### 11\. CHANGES
-
-We may update this Privacy Notice to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Platforms prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
-
-### 12\. CONTACT US
-
-If you have any questions or concerns about this Privacy Notice, the practices of the Platforms, or your experiences with the Platforms, please contact us at: 
-
-> **Attn: Privacy Questions**  
->  iHeartMedia Digital  
->  200 E. Basse Road  
->  San Antonio, TX 78209  
->  Re: iHeartMedia Privacy Notice  
->  E-Mail: [privacy@rcsworks.com](mailto:privacy@rcsworks.com)
+Or you may also contact your local office (listed at: <https://www.rcsworks.com/worldwide/>).
