@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anthropologie.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616145854id_/https%3A//www.anthropologie.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthropologie.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629111244id_/https%3A//www.anthropologie.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anthropologie
 
@@ -22,7 +22,7 @@ Anthropologie.com may disclose specific personal information about you if requir
 
 ## Our Email List
 
-We offer those who sign-up for our email list advanced notice of sales, new merchandise, store openings and other anthropologie news. Email addresses collected at Anthropologie.com are used internally and by our business partners. If you would like to unsubscribe from our email list or would prefer that your email address not be shared with our business partners, [click here](http://ebm.cheetahmail.com/r/regf2?aid=1134998097&n=200&a=0) or [contact us](https://web.archive.org/help/contact-us). We will remove your name from our email list within a reasonable period of time. Please recognize that you may receive another email before we are able to remove you.
+We offer those who sign-up for our email list advanced notice of sales, new merchandise, store openings and other anthropologie news. Email addresses collected at Anthropologie.com are used internally and by our business partners. If you would like to unsubscribe from our email list or would prefer that your email address not be shared with our business partners, [click here](http://fm.e.anthropologie.com/ats/show.aspx?cr=100269&fm=151) or [contact us](https://web.archive.org/help/contact-us). We will remove your name from our email list within a reasonable period of time. Please recognize that you may receive another email before we are able to remove you.
 
 ## Our Catalog Mailing List
 
@@ -30,7 +30,7 @@ If you no longer wish to receive Anthropologie catalogs, please [contact us](htt
 
 ## Business Partners
 
-Anthropologie contracts with outside service providers to help us better understand your use of anthropologie.com. Our service providers place cookies on your computer or use other technologies to collect various kinds of information for us related to your use of anthropologie.com, so that we and our business partners may continue to refine and improve the site and other sites for our customers, and provide advertising tailored to your interests. We do not allow our service providers to collect any credit card, user name or password information. As a visitor to anthropologie.com, you may opt out of being included in this collection of data by [contacting us](https://web.archive.org/help/contact-us) or calling [800.309.2500](tel:800.309.2500). To opt-out of third party advertising tailored to your interests, [click here](http://www.networkadvertising.org/choices). We may also use our own cookies to deliver enhanced online display advertising tailored to your interests. To opt out of this advertising provided directly by Anthropologie, [click here](http://dtmc.anthropologie.com/adinfo/adchoices_fpc.html?cid=2466&cname=Anthropologie&cmagic=7b41bf&clogo=anthropologie.png&purl=www.anthropologie.com%2Fanthro%2Fhelp%2Fprivacy_security.jsp%27,%27_blank%27,%27status=0,toolbar=0,location=0,menubar=0,directories=0,scrollbars=1,width=921,height=758).
+Anthropologie contracts with outside service providers to help us better understand your use of anthropologie.com. Our service providers place cookies on your computer or use other technologies to collect various kinds of information for us related to your use of anthropologie.com, so that we and our business partners may continue to refine and improve the site and other sites for our customers, and provide advertising tailored to your interests. We do not allow our service providers to collect any credit card, user name or password information. As a visitor to anthropologie.com, you may opt out of being included in this collection of data by [contacting us](https://web.archive.org/help/contact-us) or calling [800.309.2500](tel:800.309.2500). To opt-out of third party advertising tailored to your interests, [click here](http://www.networkadvertising.org/choices). We may also use our own cookies to deliver enhanced online display advertising tailored to your interests. To opt out of this advertising provided directly by Anthropologie, [click here](http://dtmc.anthropologie.com/adinfo/choice/prod/?type=fpc&cid=2466&cname=Anthropologie&cmagic=7b41bf&clogo=2466.png&loc=us&lang=en-us).
 
 “Cookies” are bits of information that are automatically stored on your computer. If you do not want to have cookies on your system, you can set your browser to disable them.
 
@@ -46,13 +46,13 @@ Unfortunately, no data transmission over the Internet or any wireless network ca
 
 If you still have concerns about ordering electronically, feel free to call [800.309.2500](tel:800.309.2500) and place your order over the phone. Have the 8-digit style number, size, and color ready for each item you wish to order. You can also print your shopping basket page and mail it to:
 
-**ANTHROPOLOGIE**
+**Anthropologie**
 
-4010 ROSE LANE
+Attn: Customer Service
 
-AUGUSTA, GA
+4010 Rose Lane
 
-ATTNA: CUSTOMER SERVICE
+Augusta, GA 30907
 
 Please note that email is not encrypted and is not considered a secure means of transmitting credit card numbers. We will never ask for sensitive information via email.
 
@@ -78,13 +78,13 @@ Feel free to contact us with any questions about our Privacy & Security Policy.
 
 ### Mail
 
-**ANTHROPOLOGIE**
+**Anthropologie**
 
-4010 ROSE LANE
+Attn: Customer Service
 
-AUGUSTA, GA
+4010 Rose Lane
 
-ATTNA: CUSTOMER SERVICE
+Augusta, GA 30907
 
 ## Canada Privacy & Security
 
@@ -200,13 +200,13 @@ To provide you with an increased level of security, online access to certain per
 
 If you do not wish to shop through our website, feel free to call [800-309-2500](tel:800-309-2500) and place your order over the phone. Have the 6- or 8-character style number (ex. 923451 or 12755555), size and color ready for each item you wish to order. You can also print your shopping basket page and fax your order to [800-474-8858](tel:800-474-8858) or mail it to:
 
-**ANTHROPOLOGIE**
+**Anthropologie**
 
-30 INDUSTRIAL PARK BLVD.
+Attn: Customer Service
 
-TRENTON, SC 29847
+4010 Rose Lane
 
-ATTN: ORDER PROCESSING
+Augusta, GA 30907
 
 Please note that email is not encrypted and is not considered a secure means of transmitting credit card numbers. We will never ask for sensitive information via email.
 
@@ -234,10 +234,10 @@ If you wish to access or update the personal information we have about you, or t
 
 ### Mail
 
-**ANTHROPOLOGIE**
+**Anthropologie**
 
-4010 ROSE LANE
+Attn: Customer Service
 
-AUGUSTA, GA
+4010 Rose Lane
 
-ATTNA: CUSTOMER SERVICE
+Augusta, GA 30907
