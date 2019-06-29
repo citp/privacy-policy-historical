@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabong.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231213036id_/https%3A//www.jabong.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabong.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629231522id_/https%3A//www.jabong.com/privacy_policy) for the most accurate reproduction.*
 
 # Wear your style: Jabong.com
 
@@ -40,7 +40,7 @@ contact
 
 1.12. We need this information in order to allow you to go ahead with placing your order for a product. We may use that data to process payment for the product and deliver the product to you. We also use that data to inform you when the product is about to be delivered.
 
-1.13. We may share the information collected from You with our affiliates, employees, agents, service provider, sellers, suppliers, banks, payment gateway operators and such other individuals and institutions like judicial, quasi-judicial law enforcement agencies.
+1.13. We may share the information collected from You with our affiliates, employees, agents, service provider, sellers, suppliers, banks, payment gateway operators and such other individuals and institutions like judicial, quasi-judicial law enforcement agencies. Our affiliates may market to you as a result of such sharing unless you explicitly opt-out.
 
 1.14. We may pass your name and address on to a third party in order to make delivery of the product to you (for example to our courier or supplier).
 
