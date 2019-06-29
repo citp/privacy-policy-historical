@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recycler.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206123921id_/http%3A//recycler.com/Policy/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recycler.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629140248id_/http%3A//recycler.com/Policy/Privacy) for the most accurate reproduction.*
 
 # recycler.com - Privacy Policy
 
