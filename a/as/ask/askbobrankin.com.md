@@ -1,135 +1,95 @@
-> *The following text is extracted and transformed from the askbobrankin.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911144910id_/https%3A//askbobrankin.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askbobrankin.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629034242id_/https%3A//askbobrankin.com/privacy-policy.html) for the most accurate reproduction.*
 
-# askbobrankin.com | Privacy Policy
+# Subscribe to AskBobRankin Updates
 
-**What information do we collect?**
+The policy: This privacy policy notice is for this website, AskBobRankin.com, and served by AskBobRankin, 1 Old Millpond Lane, Warwick NY 10990, governs the privacy of those who use it. The purpose of this policy is to explain to you how we control, process, handle and protect your personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you should cease viewing / using this website. 
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+Policy key definitions: 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
-
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
-
- **DoubleClick DART Cookie**
-
-.:: Google, as a third party vendor, uses cookies to serve ads on askbobrankin.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to askbobrankin.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction   
-Widget Bucks   
-Adbrite   
-Clickbank   
-Epic / Azoogle   
-Chitika   
-Linkshare   
-Amazon   
-Kontera   
-Advertising.com   
-CPAStorm   
-Burst   
-Valueclick   
-InfoLinks   
-Vibrant Media   
-24/7 Real Media   
-Tribal Fusion   
-Casale   
-Tremor Media   
-Adify   
+  * "I", "our", "us", or "we" refer to the business, AskBobRankin.com.
+  * "you", "the user" refer to the person(s) using this website.
+  * GDPR means General Data Protection Regulation Act.
+  * PECR means Privacy & Electronic Communications Regulation.
+  * ICO means Information Commissioner's Office.
+  * Cookies mean small files stored on a users computer or device.
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on askbobrankin.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+## PROCESSING OF YOUR PERSONAL DATA
 
-askbobrankin.com has no access to or control over these cookies that are used by third-party advertisers. 
+Under the GDPR (General Data Protection Regulation) we control and / or process any personal information about you electronically using the following lawful bases. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. askbobrankin.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+We are exempt from registration in the ICO Data Protection Register because you grant us Consent based on this document detailing your privacy rights and our use of your data. Please note that we do not retain your visit information but we do retain any comments left on the site in perpetuity. If, as determined by us, the lawful basis upon which we process your personal information changes, we will endeavor to notify you about the change and any new lawful basis to be used if required. We shall stop processing your personal information if the lawful basis used is no longer relevant. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+## YOUR INDIVIDUAL RIGHTS
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+Under the GDPR your rights are as follows. You can read more about your rights in details here; 
 
-**What do we use your information for?**
+  * the right to be informed;
+  * the right of access;
+  * the right to rectification;
+  * the right to erasure;
+  * the right to restrict processing;
+  * the right to data portability;
+  * the right to object; and
+  * the right not to be subject to automated decision-making including profiling.
+  * You also have the right to complain to the ICO if you feel there is a problem with the way we are handling your data.
 
-Any of the information we collect from you may be used in one of the following ways: 
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We handle subject access requests in accordance with the GDPR. 
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+## INTERNET COOKIES
 
-\- To process transactions
+We use cookies on this website to provide you with a better user experience. We do this by placing a small text file on your device / computer hard drive to track how you use the website, to record or log whether you have seen particular messages that we display, to keep you logged into the website where applicable, to display relevant adverts or content, referred you to a third party website. 
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Some cookies are required to enjoy and use the full functionality of this website. 
 
-\- To administer a contest, promotion, survey or other site feature
+We use a cookie control system which allows you to accept the use of cookies, and control which cookies are saved to your device / computer. Some cookies will be saved for specific time periods, where others may last indefinitely. Your web browser should provide you with the controls to manage and delete cookies from your device, please see your web browser options. 
 
-\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to users based on their visit to this and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html) page. 
 
-\- To send periodic emails
+In addition, other advertisers that we work with also use cookies in a similar manner: If you would prefer to opt out then you may disable cookies within your Web browser. 
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+## DATA SECURITY AND PROTECTION
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We ensure the security of any personal information we hold by using secure data storage technologies and precise procedures in how we store, access and manage that information. Our methods meet the GDPR compliance requirement. 
 
- **How do we protect your information?**
+## TRANSPARENT PRIVACY EXPLANATIONS
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+We have provided some further explanations about user privacy and the way we use this website to help promote a transparent and honest user privacy methodology. 
 
-**Do we use cookies?**
+## SPONSORED LINKS, AFFILIATE TRACKING & COMMISSIONS
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Our website also contains adverts, sponsored and affiliate links on some pages. These may be served through our advertising partners; Google Adsense, Ezoic, Amazon Affiliates, or similar. We only use trusted advertising partners who each have high standards of quality, privacy and security. 
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Clicking on any adverts, sponsored or affiliate links may track your actions by using a cookie saved to your device. You can read more about cookies on this website above. Your actions are usually recorded as a referral from our website by this cookie. We may earn a small commission from the advertiser or advertising partner, at no cost to you, whether you make a purchase on their website or not. 
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+We use advertising partners in these ways to help generate an income from the website, which allows us to continue our work and provide you with the best overall experience and valued information. 
 
- **Do we disclose any information to outside parties?**
+If you have any concerns about this we suggest you do not click on any adverts, sponsored or affiliate links found throughout the website. 
 
-Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+## EMAIL MARKETING MESSAGES & SUBSCRIPTION
 
-**Third party links**
+Under the GDPR we use the consent lawful basis for anyone subscribing to our newsletter or marketing mailing list. We only collect certain data about you, as detailed in the "Processing of your personal date" above. Any email marketing messages we send are done so through an EMS, email marketing service provider. An EMS is a third party service provider of software / applications that allows marketers to send out email marketing campaigns to a list of users. Email marketing messages that we send may contain tracking beacons / tracked clickable links or similar server technologies in order to track subscriber activity within email marketing messages. Where used, such marketing messages may record a range of data such as; times, dates, I.P addresses, opens, clicks, forwards, geographic and demographic data. Such data, within its limitations will show the activity each subscriber made for that email campaign. Any email marketing messages we send are in accordance with the GDPR and the PECR. We provide you with an easy method to withdraw your consent (unsubscribe) or manage your preferences / the information we hold about you at any time. See any marketing messages for instructions on how to unsubscribe or manage your preferences. Our EMS provider is [Aweber.com](https://www.aweber.com/). We hold the following information about you within our EMS system; 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  * Email address
+  * I.P. address
+  * Subscription time & date
+  * Open status of individual newsletter issues
+  * Deliverability status of each issue sent to you
+  * More information about Aweber can be found here: [Aweber Permission Pledge](https://www.aweber.com/permission.htm).
 
- **California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
- **Childrens Online Privacy Protection Act Compliance**
+## RESOURCES & FURTHER INFORMATION
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+  * [Overview of the GDPR - General Data Protection Regulation](https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/)
+  * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
+  * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
+  * [The Guide to the PECR 2003](https://ico.org.uk/for-organisations/guide-to-pecr/)
+  * [Google Privacy Policy](http://www.google.com/privacy.html)
+  * [Ezoic Privacy Policy](https://askbobrankin.com/privacy.html)
+  * [Small business GDPR policy template](http://www.jamieking.co.uk/blog/cyber-security/policies/free-sample-privacy-policy.php)
 
- **Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
-
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
-
-askbobrankin.com 
-
-Email:  
-contact@askbobrankin.com  
 
