@@ -1,111 +1,118 @@
-> *The following text is extracted and transformed from the mccapes.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626045823id_/http%3A//www.curse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccapes.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630004856id_/https%3A//www.namecheap.com/legal/general/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy - Curse
+# Namecheap.com - Privacy Policy
 
-**CURSE, INC. & CURSE, LTD. PRIVACY POLICY**
+## Namecheap Privacy Policy
 
-_Last updated October 2, 2012_
+Namecheap is a leader in online privacy rights. We have created this privacy statement in order to demonstrate our commitment to you, our customer, through transparent, easy-to-understand information regarding our data practices. You will understand what we collect, why we collect it and what we do with it. This policy applies to all Namecheap brands, websites, apps, products, services or technologies (we will collectively refer to these as “Services”). Additional privacy practices for certain Services can be found in Details for Specific Products and Services.
 
-**_Our Privacy Commitment_**
+## Information Collection: Account Level
 
-Welcome to Curse!  Curse, Inc. & Curse, Ltd. (“ ** _Curse,_** ” “ ** _we,_** ” “ ** _us_** ” or “ ** _our_** ”) is committed to respecting the privacy rights and concerns of all users of the Curse www.curse.com websites where this Privacy Policy is posted (the “ ** _Site(s)_** ”) (we refer to the Site(s), the services and software made available through the Site(s), collectively, as the “ ** _Curse Features_** ”).  As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the Curse Features how we use and protect the information we collect through the Site(s).  By visiting the Site(s) or using any of the Curse Features, you consent to Curse’ collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy.  This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and not to any other website that you may be able to access from the Site(s) which may have its own data collection and use practices and policies.
+**At an Account Level, we collect and use information necessary to enable you to purchase and manage Services, provide you with support for those Services and to curate your experience with us. Some information is collected and used based on contractual consent and other is based on informed consent, which may be changed at any time.**
 
-This policy answers the following questions:
+  * **Basic Account Information.**
 
-  * What information do we collect about you and how do we use it?
-  * Will we share your personal information with third parties?
-  * What choices do you have about the collection and use of your personal information?
-  * What security measures do we take to safeguard your personal information?
+Information Collected. Our site uses forms in which you give us contact information (such as your name, address, phone number, fax number, billing information, IP address and email address) so you can create an account, place orders, register domains, request information, and request support help. As you use your account, we may also collect support requests and other related types of information that is specific to the management of your account and Services with us.
 
+Legal Requirement. This type of information is legally and/or contractually required to be able to purchase and use Services. For example, we are required to be able to verify this type of information upon request by our payment processor. It is also required to be able to serve legal notices to you and is mandated by certain Services we offer. In addition, some Services, such as domains, require this information for you to purchase them. If you are purchasing a domain from us, we are required by law to collect and retain this information. We are further required to verify that the information provided is accurate and serve legally required notices regarding your domain(s). Consent for the collection, use and retention of this information for these purposes is considered to be contractually given for the duration of your use of such Service and any legally required retention period.
 
+  * **How We Use This Information.**
 
-**What information do we collect about you and how do we use it?** ****
+Sending Emails. Legally Required. As noted above, we use emails to communicate with you, to confirm your placed orders, to send information that you have requested and to serve legally or contractually required communications. Legally required emails cover ICANN mandated verification emails, renewal notices and any other policy or procedure created by ICANN which governs the purchase of domains. Additionally, we may be required by law to serve notices to you such as DMCA Takedown Notices, UDRP notices, etc. Or, we may deem a change to one of our policies to be material and, therefore, determine a duty (though not a legal requirement) to inform you of this change. These types of communications do not fall under any of our opt-out procedures.
 
-**Types of Information We Collect**
+Sending Emails: Service Communications & Promotional Communications. We also may use this information when it is important for us to contact you regarding functionality changes to Services you have purchased and/or our website and provide customer service (“Service Communications”.) By creating an account with us and/or purchasing our Services, you agree to receive these types of communication and acknowledge that they are not optional. We also use this information to share details about new services and special offers we think you'll find valuable (“Promotional Communications”.) You are able to opt-out of receiving Promotional Communications (or opt-into, depending on your country of residence) through preferences in your account panel or the unsubscribe instructions contained in the email communication. 
 
-Personal information means information that can be used to identify and contact you. You do not need to submit personal information to access certain areas of the Site(s), but if you do not want to disclose certain personal information to us, you will not be able to access certain aspects of the Curse Features.  
+Legally Required Disclosure. We will never share your information without your permission or in ways other than as outlined in this policy. The only exceptions to this are when we are required by law, in the good faith belief that such action is necessary in order to comply with the law, or when we must comply with a legal process. Examples of these types of exceptions are court orders, subpoenas, and UDRP/URS processes. In each of these situations, we will carefully review the documentation provided and only comply if such documentation meets requisite legal standards.
 
-We collect personal information when you create an account through the Curse Features; subscribe to our newsletter; participate in chat rooms, forums, polls, surveys, and questionnaires; participate in contests, sweepstakes, other promotions, or opt into third party offers and/or newsletters; purchase a product through the Curse Features; register a product that you have purchased; or receive customer or technical support.
+Changes in Our Practices. If we change our information-handling practices or other privacy aspects, we will post those changes on this privacy statement. If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective, and we may also try to notify you through email of the privacy changes, if necessary.
 
-To create an account for the Curse Features, we require you to provide your name, email address and country in which you reside.  You will also need to create a screen name.  When you are purchasing premium services or products through the Curse Features you may have to submit personal information to our billing partner, PayPal, including your email address, billing address and additional billing information depending on your preferred method of payment through PayPal, such as your credit card number. When you enter a contest or sweepstakes with Curse, in addition to your screen name, name and email address, we will ask for your mailing address in case we have to mail you a prize, and may ask you to opt into receiving a third party’s offers and/or newsletter.
+  * **Retention & Deletion of Account Information.**
 
-Additionally, we may also collect other types of information (known as demographic information) such as your gender, hobbies, occupation, platform preferences, and other game ownership information. This demographic information may be associated with your personal information.
-
-**How We Use Your Personal Information**
-
-The personal information you provide to us will allow us to fulfill your product or service order; alert you of new products or services, features, or enhancements; handle/route your customer service questions or issues; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. We also use your e-mail address to send you messages about the Curse Features and other general announcements.  We keep track of your interactions with us, including but not limited to your activity within the Curse Features. We may use personal information that you provide to us to send messages to you in response to your request to perform an activity in connection with your use of any of the Curse Features. We may also use your personal information to contact you when necessary. 
-
-**Cookies**
-
-“Cookies” are small bits of electronic information that a website sends to a visitor’s browser and are stored on the visitor’s hard drive. Like many websites, we employ cookies in certain areas of the Site(s) to allow us to provide information which is targeted to your interests and to make your online experience more convenient. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are.  Should you disable cookies in your browser, you will have to provide your screen name and password each time you log in.  Additionally, advertisements that are managed by third parties which may appear on the Site(s) use cookies. Advertisers use cookies to collect non-personal information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. Advertisers use this information to monitor the performance of their advertisements. In some cases, we may have access to information from cookies used by these advertisers on the Site(s) and this information may permit us to identify other sites that you have visited that are also associated such advertisers.  **_ _**
-
-**Log Information**  
-
-Our servers automatically record information that your browser sends whenever you visit the Site(s).  Additionally, some of the Curse Features may collect information regarding your computer system.  This information includes your Internet Protocol address, your browser type and version, the search engine you used to find the Curse Features, if any, the operating system your computer uses, the type of computer hardware you have (such as the amount of RAM, the type of GPU or type of CPU in your computer) which Curse Features you use and when and how long you use them.  We use this information to monitor and analyze how users use the Curse Features, to provide customer service and to maintain and improve the Curse Features.
-
-**Children’s Privacy**
-
-We do not knowingly collect personal information from children under 13. We take children’s privacy seriously, and encourage parents to play an active role in their children’s online experience at all times.
-
-**_Will we share your personal information with third parties?_**
-
-**Sharing of Information**
-
-We may use your personal information to provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, affiliation, position, interests and other non-personal information about customers. 
-
-In addition, we will share the personal information we collect from you under the following circumstances:
-
-  * _Protection of rights._   We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the Terms of Service for the Curse Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Curse Features, or (iv) such action is appropriate to protect the rights, property or safety of Curse, its employees, users of the Curse Features or others.
-  * _Asset transfers.   _If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Curse’s assets, user information, including personal information collected from you through your use of the Curse Features, could be included in the transferred assets.  Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Site(s).
-  * _Service Providers.   _We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf.  For example, have partnered with other companies to host and manage contests, fulfill product orders and prizes, and process payments.  Additionally, we may partner with other companies to process consumer surveys, or to process, analyze, and/or store data.  While providing services for us, these companies may access your personal information.  To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
-  * _Third Party Offers._   We may also share your personal information with third party partners when you have opted into receiving third party offers and/or newsletters on our Site(s).  We will not disclose your personal information to third parties for marketing purposes when you have not opted into receiving or have opted out of receiving such third party offers and/or newsletters through the Site(s).  You may request that we stop sharing your information with a third party or third parties for direct marketing purposes after you have opted into such disclosure through the Site(s) by emailing us at [support@curse.com](mailto:support@curse.com) and informing us of your desire for us to stop providing your information to a specific third party or a list of specific third parties.  Curse’s disclosure to third party partners may be made for cross promotional purposes, but Curse will not receive compensation as the primary consideration for such disclosure.
+Personal Information Following Termination of Account. When your Namecheap account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status within our corresponding databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information, if necessary, in order to resolve disputes, enforce our agreements and/or as required by laws or regulations. Thus, it may not be immediately deleted upon request and is an approved exception to GDPR deletion rights. By creating an account with us, using our support services and/or purchasing Services, you acknowledge and agree to these terms of retention. Information on how to close your account can be found [here](https://web.archive.org/support/knowledgebase/article.aspx/303/44/how-do-i-cancel-or-close-my-account-with-you).
 
 
 
-**Additional Information You Should Know About Third Parties**
 
-This Privacy Policy does not cover the information practices of third party websites linked to the Site(s) or third party offer and/or newsletter opt-ins provided through the Site(s). Although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personal information.  You should refer to the privacy policies and statements of other websites or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies. 
+## Information Collection: Site Usage 
 
-When you have clicked on an advertisement or third party logo displayed on our Site(s) which links you to a different website, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.
+  * **Device Information.** We collect information from your devices (computers, mobile phones, tablets, etc.), such as IP address, cookie information, so that we may recognize your devices to provide you with legal notices (if required by your country of residence), support services (when you contact our support staff) and personalized experiences on our site and emails. Certain types of collection and use may be optional and controlled via our cookie tools.
 
-The Curse Features may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with one another.  When you post to a message board, forum or chat area, please be aware that the information you post is made publicly available on-line and you do so at your own risk.
+  * **Information from Others.** We are dedicated to continually improving your experience on our website. Like many companies, we use third-parties to help us track browsing, identify technical issues and provide ways to enhance your overall experience. Several of the tools that we use and what they do are:
 
-**_What choices do you have about the collection and use of your personal information?_**
+    * **Log Files:** We use information gathered about you from our site statistics via log files provided by third-party tracking partners (for example, your IP address) to help diagnose problems with our server and to administer our website. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experiences more enjoyable. This is not linked to any personally identifiable information.
 
-**Control of Your Information**
+    * **Cookies:** Our site uses cookies to keep track of your session information. We do link the information we store in cookies to personally identifiable information you submit while on our site.
 
-We may use third-party advertising companies, such as Yahoo!, Google, OpenX, Lijit to serve ads when you visit our website.  These companies may use information about your interests in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Digital Advertising Alliance’s](http://www.aboutads.info/choices/) or [Network Advertising Initiative’s](http://www.networkadvertising.org/managing/opt_out.asp) website.
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your internet browser’s “help” file.
 
-You may update or delete your personal information or modify your account preferences for the Curse Features by accessing the “My Account” area of the Curse Features or sending us an email to [support@curse.com](mailto:support@curse.com) requesting us to update or delete your personal information.  Please note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities.
+We also use cookies to store your username if you request to have your username remembered during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies.
 
-**Opting Out of Receiving Communications from Us**
+The use of cookies by our partners, affiliates, tracking utility company and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our tracking utility company uses session ID cookies to help us improve our site and make your browsing and purchasing experiences more enjoyable.
 
-If you no longer want to receive our newsletter, e-mails or other announcements, you may unsubscribe by selecting “unsubscribe” in your account, writing to us at contact@curse.com or replying to the unsubscribe link at the bottom of our e-mails.  Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions.  If you wish to unsubscribe from any newsletters, offers, e-mails or other announcements from our third party advertising partners that you have opted into through the Site(s), you will need to contact such third party advertising partner directly through their independent website(s).
+For those customers in countries subject to GDPR, please see your cookie preference panel for additional instructions on how to opt-in and opt-out of cookies. The cookie preference panel is accessible once you have acted upon the cookie policy pop-up.
 
-**Mediation**
+Find more information regarding the categories of cookies we use and our specific [cookie policy here](https://web.archive.org/legal/general/privacy-cookies.aspx). By continuing to use and navigate our sites, services, applications, tools or messaging, you are agreeing to our use of cookies of described in this Privacy Policy.
 
-If you are a resident of a country outside of the European Union, you also agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy that you and Curse will attempt in good faith to negotiate a written resolution of the matter directly between the parties.  You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in San Francisco, California with a mutually agreed mediator in an attempt to resolve the dispute.  Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorney’s fees, even if you would otherwise be entitled to them.
+    * **Gifs:** Our third-party tracking utility company employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with unique identifiers, similar in function to cookies; they are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. Our tracking utility company does not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-**Dispute Resolution for Residents of the European Union**
+  * **Contests:** From time to time we request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary, and the user, therefore, has a choice whether or not to respond and disclose this information. Information requested may include contact information (such as name, email and shipping address) and demographic information (such as zip code and age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site and/or any other purpose that we explicitly disclose in the contest rules.
 
-If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you may report your claim to the European Union Data Protection Authorities located in your jurisdiction. 
+  * **Testimonials:** We post customer testimonials on our website which may contain personally identifiable information. We do obtain the customer's consent via email, prior to posting the testimonial, to post their name along with their testimonial. If you would like to request the removal of your testimonial from the site contact us at support@namecheap.com.
 
-**_What security measures do we take to safeguard your personal information?_**
+  * **Public Blog:** Our website offers a publicly accessible blog. You should be aware that any information you provide in this area may be read, collected and used by others who access it. To request removal of your personal information from our blog, contact us at support@namecheap.com. In some cases, we may not be able to remove your personal information. If this occurs, we will let you know if we are unable to do so and why.
 
-The personal information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information.  In addition, we restrict access to personal information to Curse employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Curse Features.  All Curse personnel who have access to this information are trained in the maintenance and security of such information.  However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through the use of any of the Curse Features and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk.  Once we receive a transmission from you, we will endeavor to maintain its security on our systems.
+  * **Third-Party Product Offerings & Websites:** Our site also contains links to other third-party websites, especially where we offer their products or services. Namecheap (www.namecheap.com) is not responsible for the privacy practices or the content of such websites. We encourage you to carefully read the privacy statement of any website you visit.
 
-**_European Union and Switzerland Directive on Data Protection - Safe Harbor_**
 
-Curse complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Curse has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Curse’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-**_Notification of Changes_**
 
-This Privacy Policy may change from time to time and we will post all changes on this page.
+## How We Share This Information
 
-**_Questions?   Contact Us_**
+**Namecheap shares information within its affiliated brands and companies. We also share information we have about you for the purposes described in this Privacy Policy, including to provide Services that you have requested. We do not share information that individually identifies our customers with companies, organizations or individuals outside of Namecheap, unless one of the following circumstances applies:**
 
-If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at contact@curse.com.
+  * **With Your Consent.** We will share information with companies, organizations or individuals outside of Namecheap when we have your consent. This includes third party providers who offer products or services through our marketplace. These providers will each have their own privacy policies and will be identified in our Details for Specific Products and Services section.
 
-**_Terms of Service_**
+**Within Namecheap.** Information may also be shared within Namecheap to provide support and delivery of Services you purchase. 
 
-Please read the [Terms of Service](https://web.archive.org/web/content/termsofservice.aspx) and [Premium Subscription Additional Terms of Service](https://web.archive.org/web/content/premiumtos.aspx) **** governing the use of the Site(s) and the Curse Features.
+  * **With Partners.** We may share your information with nonaffiliated companies who are:
+
+    * **Advertising, Analytics and Business Partners (Limited to Non-Personally Identifiable Information).**  We may share aggregated or pseudonymous information (including demographic information) with partners, such as measurement analytics, apps, or other companies.  We do not, however, share information that personally identifies you (personally identifiable information is information such as name or email address.)  When you use third-party apps, websites or other products integrated with our Services, they may collect information about your activities subject to their own terms and privacy policies. 
+
+    * **For Legal and Other Purposes.** We may access, preserve and disclose information to investigate, prevent, or take action in connection with: (i) legal process and legal requests; (ii) enforcement of our [Universal Terms of Service](https://web.archive.org/legal/universal/universal-tos.aspx); (iii) claims that any content violates the rights of third-parties; (iv) requests for customer service; (v) technical issues; (vi) protecting the rights, property or personal safety of Namecheap, its users or the public; (vii) establishing or exercising our legal rights or defending against legal claims; or (viii) as otherwise required by law. This may include responding to lawful governmental requests.  Learn more about how we evaluate and respond to these requests here. 
+
+  * **New Ownership.**  If the ownership or control of all or part of Namecheap or a specific Service changes as a result of a merger, acquisition or sale of assets, we may transfer your information to the new owner.
+
+
+
+
+## Details for Specific Products and Services
+
+Additional privacy practices for certain Namecheap Services are included [here.](https://web.archive.org/legal/general/details-for-specific-products-services.aspx)
+
+## Residents of GDPR Governed Countries
+
+If you are a resident of a GDPR governed country, more information regarding your GDPR rights may be found [here](https://web.archive.org/support/knowledgebase/article.aspx/10033/5/rights-under-the-gdpr).
+
+## Site Security
+
+Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use 128-bit SSL security to encrypt any transmissions when you provide credit card information, personal data, etc. No method of electronic storage or transmission over the internet is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+## Protecting Children’s Privacy
+
+Our Services are for a general audience.  We do not knowingly collect, use, or share information that could reasonably be used to identify children under age 18 without prior parental consent or consistent with applicable law.
+
+## Data Processing and Transfers
+
+When you use or interact with any of our Services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy and the [Data Processing Addendum](https://web.archive.org/legal/universal/data-processing-addendum.aspx). Regardless of the country where you reside, you acknowledge that you are directly transferring your data to us in our United States based servers and agree to processing within the United States, where Namecheap processes its data. In addition, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services. Some of these countries may not have the same data protection safeguards as the country where you reside. By using our Services, you consent to us transferring information about you to these countries.
+
+## Other Important Information
+
+**This Privacy Policy Applies Only to Namecheap.**  This Privacy Policy does not apply to the practices of companies that Namecheap does not own or control, or to people that Namecheap does not employ or manage.  In addition, some third-party products may have different privacy policies and practices that are not subject to this Privacy Policy. These products will be identified in the Details for Specific Products and Services section.
+
+## Changes
+
+We may update this Privacy Policy from time to time, so you should check it periodically. If we make changes that are material, we will provide you with appropriate notice before such changes take effect. 
+
+## Questions & Suggestions
+
+If you have questions, suggestions or wish to make a complaint, please complete a feedback form or you can contact us at [Namecheap Support](https://web.archive.org/support/) or 4600 E Washington St suite 305, Phoenix, AZ 85034
