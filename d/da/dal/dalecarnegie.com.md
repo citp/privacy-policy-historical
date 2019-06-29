@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dalecarnegie.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904190534id_/https%3A//www.dalecarnegie.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dalecarnegie.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629152824id_/https%3A//www.dalecarnegie.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dale Carnegie Training
 
@@ -69,7 +69,7 @@ We rely on your consent and/or our contract to perform services for your employe
 We would, however, like to use your name and email address to inform you of future offers and similar products and services. This information is not shared with third parties and you can unsubscribe at any time via phone, email or on our website. Please indicate below if this is something you would like to sign up to:  
 [ Please send me details about future offers from Dale Carnegie](https://www.dalecarnegie.com/en/about/contact). 
 
- **4\. Keeping Your Personal Information Secure**
+**4\. Keeping Your Personal Information Secure**
 
 We have appropriate security measures in place to prevent personal information from being accidentally lost, or used or accessed in an unauthorized way. We limit access to your personal information to those who have a genuine business need to know it. Those processing your information will do so only in an authorized manner and are subject to a duty of confidentiality.
 
@@ -83,7 +83,12 @@ We may change this privacy notice from time to time, when we do we will inform y
 
 **6\. How to Contact Us**
 
-If you wish to contact our Data Protection Officer, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or write to Dale Carnegie & Associates, Inc., 290 Motor Pkwy, Hauppauge, NY 11788, Attn: Privacy.
+If you wish to contact our Data Protection Officer, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or write to Dale Carnegie & Associates, Inc.:
+
+Christopher Addeo  
+Information Technology Department | Dale Carnegie Training  
+58 South Service Road – Suite 301  Melville, NY  11747  
+631.415.9310 | [www.carnegieconnect.com](http://www.carnegieconnect.com/) /[www.carnegieconnect.com](http://www.carnegieconnect.com/)
 
 **7\. Do You Need Extra Help?**
 
