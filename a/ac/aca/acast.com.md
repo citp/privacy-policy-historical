@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the acast.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823210539id_/https%3A//www.acast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acast.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629100326id_/https%3A//www.acast.com/privacy) for the most accurate reproduction.*
 
-# acast - Makes good stories great!
-
-## Privacy Policy
+# Privacy Policy - acast
 
   1. ## Introduction
 
@@ -63,7 +61,7 @@ We process the following categories of personal data in order to manage your use
 
       * Name
       * Contact details (e.g. email address)
-      * User name and password 
+      * User name and password
       * Settings
       * Payment history
 
@@ -72,8 +70,8 @@ We process the following categories of personal data in order to manage your use
 Your personal data is processed in order to:
 
       * Give you log in access to your account
-      * Change log in method or password 
-      * Ensure your identity and age 
+      * Change log in method or password
+      * Ensure your identity and age
       * so that you will be able to update your profile
 
 #### Legal basis
@@ -123,8 +121,8 @@ We process the following categories of personal data in order to give you a cust
       * User Agent
       * Advertising ID
       * Gender
-      * Age 
-      * Record of listening 
+      * Age
+      * Record of listening
       * The podcasts shows you subscribe to
       * The podcast categories you have marked as being of your interest
 
@@ -135,9 +133,9 @@ Your personal data is processed in order to give you:
       * Targeted marketing based on geographic and demographics profiling
       * Customized frequency of exposure to marketing messages
       * Customized language for marketing messages in relation to your geographic location
-      * An overview of your record of listening 
+      * An overview of your record of listening
       * A possibility to manage your choice of interests for podcasts
-      * A possibility to save podcast subscriptions 
+      * A possibility to save podcast subscriptions
       * Suggestions on podcasts you may like
 
 #### Our use of profiling
@@ -340,7 +338,7 @@ You can submit an access request regarding your personal data in our mobile app 
 
 We have a responsibility to ensure that your personal data is accurate. However, you may provide us with additional data if our data is incomplete or require rectification if you have identified that your personal data is incorrect. When your data is being corrected we will inform any recipients we have disclosed the data to, about the rectification, unless this proves impossible or involves disproportionate effort. We will also, at your request, inform you about which recipients have been informed of the rectification.
 
-### Right to erasure 
+### Right to erasure
 
 You have the right to have your personal data erased if:
 
