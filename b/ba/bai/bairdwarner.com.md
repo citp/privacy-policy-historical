@@ -1,26 +1,25 @@
-> *The following text is extracted and transformed from the bairdwarner.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003073116id_/https%3A//www.bairdwarner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bairdwarner.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629123927id_/https%3A//www.bairdwarner.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - bairdwarner.com
 
 **BAIRD & WARNER HOLDING COMPANY**  
-Effective date: December 3, 2012  
- 
+Effective date: December 3, 2012
 
 ## 1\. Overview and Legal Compliance
 
 1.1 Baird & Warner Holding Company and its subsidiaries and affiliates (“Baird & Warner,” “B&W,” “We,” “Us” or “Our”) created this Privacy Policy to demonstrate Our commitment to protecting the privacy of visitors (“Users,” “User” or “You”) to Our home page located at www.bairdwarner.com (the “Web Site”). This Policy applies to information collected via the Web Site. information collected via each Baird & Warner agent’s website located at [AGENT’S NAME].bairdwarner.com (collectively called the “Web Sites”), and information collected through the Baird & Warner mobile application (“App”). We will collect information only from people over the age of 18.
 
-1.2 For purposes of this Privacy Policy, “Personally Identifiable Information” means information that on its own, or in combination, identifies You as an individual, and includes, but is not limited to, your name, email address, phone number(s), mailing address, and age.  “Non-Personally Identifiable Information,” referred to in this Privacy Policy as “Non-PII,” is anonymous data that includes Your Internet Protocol (IP) address, browser type, domain type, and web pages visited. 
+1.2 For purposes of this Privacy Policy, “Personally Identifiable Information” means information that on its own, or in combination, identifies You as an individual, and includes, but is not limited to, your name, email address, phone number(s), mailing address, and age.  “Non-Personally Identifiable Information,” referred to in this Privacy Policy as “Non-PII,” is anonymous data that includes Your Internet Protocol (IP) address, browser type, domain type, and web pages visited.
 
 1.3  You may be required to provide Us with certain information when using portions of the Web Site. You agree that the information You provide will be true and accurate. You consent to Our verifying any information that You provide.
 
-## 2\. Information You Provide -- How We Collect and Use It
+## 2\. Information You Provide — How We Collect and Use It
 
 2.1 Information You Provide During Registration:
 
 Some of Our Web Sites include registration forms that require You to give Us the following Personally Identifiable Information in order to register: contact information (like Your name), unique identifiers (like Your email address), and demographic information (like Your Zip code or age). We use contact information from registration forms to send You information related to Our products and services if You consent to receiving such mailings. Your contact information may also be used to contact You when necessary for administrative purposes related to Your account. We use Your email as a unique identifier in our record system, to verify communications from You, and to send You newsletters and promotion offerings that You ask to receive or to tell You about changes to the Web Site.
 
-2.2 Sharing with Affiliates and Business Partners.  To provide You the best products and services, We team with business partners. When You indicate that You want to receive a product or service, or contact a person or organization, We share the data needed for You to receive that product or service or make that contact. Occasionally, We hire consultants who may need access to Our member database to perform their services for Us. We may contract with outside companies to administer our mailing lists or provide retail services. Your Personally Identifiable Information may be shared with an outside company for the sole purpose of administering the products, services and programs You have selected. 
+2.2 Sharing with Affiliates and Business Partners.  To provide You the best products and services, We team with business partners. When You indicate that You want to receive a product or service, or contact a person or organization, We share the data needed for You to receive that product or service or make that contact. Occasionally, We hire consultants who may need access to Our member database to perform their services for Us. We may contract with outside companies to administer our mailing lists or provide retail services. Your Personally Identifiable Information may be shared with an outside company for the sole purpose of administering the products, services and programs You have selected.
 
 2.3  We may disclose Your Personally Identifiable Information to comply with the law, government orders, court orders, or legal process served on Us or to protect and defend Our property, rights or Users. Further, in the unlikely event that B&W merges with or is acquired by another business entity or some or all of its assets are acquired, your personal information will necessarily be a business asset that is acquired in the transaction.
 
@@ -34,7 +33,7 @@ If You take advantage of any email notification features on Our Web Sites, You w
 
 3.2  Cookies.  Our Web Sites use a technology called “cookies,” small files stored by Your browser to help keep track of Your user profile. Our cookies do not collect Personally Identifiable Information. We use cookies to remember Your personal profile for Your convenience, to deliver content specific to Your needs and interests, and to ensure You do not see the same ad repeatedly. We also use cookies to track User trends and improve areas of Our Web Sites that Our Users find valuable.
 
-Our trusted affiliates and partners may use cookies or related technologies to obtain Non-PII from You for purposes of delivering relevant advertising content to You after You leave our Web Site.   
+Our trusted affiliates and partners may use cookies or related technologies to obtain Non-PII from You for purposes of delivering relevant advertising content to You after You leave our Web Site.
 
 Opting Out of Cookies.  The use of cookies is an industry standard found at most major web sites.  You do have control over cookies.  You can manually delete cookies and/or change Your browser settings to not allow cookies to be placed.  Please be aware that some portions of the Web Sites may not function properly, or Your online experience may be disrupted, if You disable or delete cookies.
 
@@ -44,7 +43,7 @@ Opting Out of Cookies.  The use of cookies is an industry standard found at mos
 
 ## 5\. B&W Mobile Application
 
-5.1  Collection of location data. When You download and use the B&W App, the App requests access to Your mobile device’s global positioning system (“GPS”) location.  The App uses the GPS location of your mobile device to deliver information about open houses and homes for sale near that location.  This location information is stored on Your mobile device.  We do not have access to that stored information, and do not interact with it in any way.  If You decline to give the App access to Your GPS location, You will not receive this precise information.  If You allow the App to access Your GPS location, You can later change the settings if You so desire. 
+5.1  Collection of location data. When You download and use the B&W App, the App requests access to Your mobile device’s global positioning system (“GPS”) location.  The App uses the GPS location of your mobile device to deliver information about open houses and homes for sale near that location.  This location information is stored on Your mobile device.  We do not have access to that stored information, and do not interact with it in any way.  If You decline to give the App access to Your GPS location, You will not receive this precise information.  If You allow the App to access Your GPS location, You can later change the settings if You so desire.
 
 ## 6\. Security
 
@@ -74,7 +73,7 @@ Opting Out of Cookies.  The use of cookies is an industry standard found at mos
 
 ## 12\. Disclaimer
 
-12.1 THE WEB SITE IS PROVIDED “AS IS,” “AS AVAILABLE,” AND WITHOUT ANY WARRANTIES OF ANY KIND, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY REGARDING THE QUALITY, PERFORMANCE, OR FUNCTIONALITY OF THE WEB SITE OR REGARDING THE QUALITY OR ACCURACY OF ANY INFORMATION OBTAINED FROM OR AVAILABLE THROUGH USE OF THE WEB SITE OR THAT THE WEB SITE WILL BE UNINTERRUPTED OR ERROR-FREE. BAIRD & WARNER MAKES NO WARRANTY THAT ANY DEFECTS, WHETHER KNOWN OR UNKNOWN, WILL BE CORRECTED, OR THAT THE WEB SITE WILL BE VIRUS-FREE. BAIRD & WARNER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. SOME STATES DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES SO THESE LIMITATIONS MAY NOT APPLY TO YOU. IN THESE STATES, BAIRD & WARNER'S LIABILITY IS LIMITED TO THE FULLEST EXTENT PERMITTED BY LAW.
+12.1 THE WEB SITE IS PROVIDED “AS IS,” “AS AVAILABLE,” AND WITHOUT ANY WARRANTIES OF ANY KIND, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY REGARDING THE QUALITY, PERFORMANCE, OR FUNCTIONALITY OF THE WEB SITE OR REGARDING THE QUALITY OR ACCURACY OF ANY INFORMATION OBTAINED FROM OR AVAILABLE THROUGH USE OF THE WEB SITE OR THAT THE WEB SITE WILL BE UNINTERRUPTED OR ERROR-FREE. BAIRD & WARNER MAKES NO WARRANTY THAT ANY DEFECTS, WHETHER KNOWN OR UNKNOWN, WILL BE CORRECTED, OR THAT THE WEB SITE WILL BE VIRUS-FREE. BAIRD & WARNER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. SOME STATES DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES SO THESE LIMITATIONS MAY NOT APPLY TO YOU. IN THESE STATES, BAIRD & WARNER’S LIABILITY IS LIMITED TO THE FULLEST EXTENT PERMITTED BY LAW.
 
 ## 13\. Notices
 
