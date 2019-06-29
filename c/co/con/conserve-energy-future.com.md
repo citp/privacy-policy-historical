@@ -1,45 +1,68 @@
-> *The following text is extracted and transformed from the conserve-energy-future.com privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828143758id_/https%3A//www.conserve-energy-future.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conserve-energy-future.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629150951id_/https%3A//www.conserve-energy-future.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Conserve Energy Future
 
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use www.conserve-energy-future.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+**Our cookie policy**
 
-We strive to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers’, consumers’ and online visitors’ privacy on our website.
+In compliance with the European Union legislation, we inform you that our website will store some information about your preferences on your own computer inside a tiny file called a ‘cookie’.
 
-**Personal Information**
+A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to “remember” your actions or preferences over time.
 
-We collect personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
+You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
-This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
+Most browsers support cookies, but users can set their browsers to decline them and can delete them whenever they like. A third-party website called [aboutcookies.org](https://www.aboutcookies.org/) has been setup to help you with instructions how you can do that on various browsers.
 
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
+**We use cookies to:**
 
-**Use of Cookies and Web Beacons**
+1) Identify you as a returning user and to count your visits in our traffic statistics analysis;  
+2) remember your custom display preferences;  
+3) Suggest any recent searches you’ve made on our site  
+4) Other usability features including tracking whether you’ve already given your consent to cookies
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site’s services, a cookie enables www.conserve-energy-future.com to recall your specific information on subsequent visits.
+Enabling cookies from our website is not strictly necessary for the website to work but it will provide you with a better browsing experience.
 
-You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
+The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.
 
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
+There may also be other types of cookies created after you’ve visited our website. We use Google Analytics, a popular web analytics service provided by Google, Inc. Google Analytics uses cookies to help us to analyse how users use the site. The information generated by the cookie about your use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google undertakes not to associate your IP address with any other data held by Google.
 
-We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you’ve seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
+**Third Party Advertising**
 
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn’t cause a problem with our site, should you so choose.
+We may have third-party advertising companies serving ads to you when you visit our website. These companies may store information about your visits to our website and to other websites in order to provide you with relevant advertisements about goods and services.
 
-**Non-Personal Information**
+These companies may employ cookies and other identifiers to gather information which measures advertising effectiveness. The information is generally not personally identifiable unless, for example, you provide personally identifiable information to them through an ad or an e-mail message.
 
-In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
+**Information Gathered by Third Party Advertisers**
 
-**Release of Information**
+Cookies enable advertisers to learn about what ads you see, what ads you click, and other actions you take on our site and other sites. This allows advertisers to provide you with more useful and relevant ads. For example, if they know what ads you are shown while visiting our site, they can be careful not to show you the same ones repeatedly. They do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads.
 
-If www.conserve-energy-future.com is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
+We do not provide any personal information to advertisers or to third party sites. Advertisers and other third-parties (including the ad networks, ad-serving companies, and other service providers they may use) may assume that users who interact with or click on a personalized ad or content are part of the group that the ad or content is directed towards (for example, readers in the Pacific Northwest who read certain types of articles). Also, some third-party cookies may provide them with information about you (such as the sites where you have been shown ads or demographic information) from offline and online sources that they may use to provide you more relevant and useful advertising.
 
-**Updates and Effective Date**
+If you would like to learn more about what options you have about limiting the gathering of information by third-party ad networks, you can consult the website of the [Network Advertising Initiative](http://optout.networkadvertising.org/).
 
-www.conserve-energy-future.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+You can opt out of participating in interest-based advertising networks but opting out does not mean you will no longer receive online advertising. It does mean that the companies from which you opted out will no longer customize ads based on your interests and web usage patterns using cookie-based technology.
 
-**Agreeing to Terms**
+**Type and Purpose of Collection**
 
-If you do not agree to www.conserve-energy-future.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
+We collect information at various points in the Website to facilitate its use by our customers. Non-Personal Information: Upon accessing the Website, certain non-personal information will be automatically collected without your knowledge or consent, such as your IP address, location data (which is anonymous) and the referring website (”Non-Personal Information”). We use Non-Personal Information to examine our traffic and to view how our customers use the Website. This type of information will not allow you to be personally identified. For example, we use ”cookies”, which contains only certain statistical information. You can instruct your computer to inform you whenever a cookie is being sent, or you can disallow cookies through your web browser. If you do choose to disallow cookies, your experience on the Website may be diminished, or your ability to choose some of the options on the Website may be limited.
 
-Your use of this site indicates acceptance of this privacy policy.
+**Sharing Information**
+
+We will not sell, rent or disclose to outside parties the information we collect, save and except that we may share the collected information with other parties as follows:
+
+(a) Affiliated Service Providers: We have agreements with various affiliated service providers to facilitate the functioning of the Website, with whom we may share the information we have collected. For example, we may share your credit card information with the credit card service provider to process your purchase. All administrative service providers that we use are required to have the same level of privacy protection as we have, and therefore we expect that your information will be handled with the same level of care that we employ. Additionally, for example, we may use analytic or marketing services such as Google Analytics, Google Adsense, Taboola, or RevContent, to which collection you hereby unconditionally consent.
+
+(b) Where required by law: We may share the collected information where required by law, specifically in response to a demand from government authorities where such demand meets the legal requirements.
+
+(c) Statistical Analysis: We may share Non-Personal Information and aggregated information with third parties, including but not limited to for advertising or marketing purposes. No Personal Information will be shared in this manner.
+
+(d) Transactions: In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where Personal Information may be disclosed or transferred as one of our business assets.
+
+**Choices and How To Opt Out Of Interest-Based Advertising**
+
+(a) Opting Out of Interest-Based Advertising Services
+
+This website is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI) and adheres to the NAI Codes of Conduct as described on the NAI website. This website also adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles. For a description of the DAA Program, please visit the [DAA website](http://digitaladvertisingalliance.org/). As described above, this website may use or transfer Device Data that it directly collects or that it receives from this website’s Customers, who may use cookies or non-cookie technologies, to enable advertising that is more tailored to Consumers’ inferred interests, preferences, and locations. This practice is known as interest-based advertising.
+
+(b) Opting Out of Interest-Based Advertising by Third Parties
+
+This website may permit third parties to collect information on its Site and combine that information with other information collected on non-affiliated websites or applications over time. These third parties may use technologies, including cookies and web beacons, to collect information about Consumers’ or Customers’ use of the Site in order to analyze, report on, or customize content or advertising on the this website or on other sites, or to help us operate and improve the Site. To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAIís opt-out page](http://optout.networkadvertising.org/) or [DAAís Consumer Choice Page](http://optout.aboutads.info/).
