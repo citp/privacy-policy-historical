@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the solidangle.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615090652id_/https%3A//www.solidangle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidangle.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629104805id_/https%3A//www.autodesk.com/company/legal-notices-trademarks/privacy-statement) for the most accurate reproduction.*
 
-# Autodesk - Legal Notices & Trademarks - Autodesk Privacy Statement
+# Privacy Statement English
 
-**What information does Autodesk collect about you?**
+### What information does Autodesk collect about you?
 
 **Information you provide us:**
 
@@ -37,7 +37,7 @@ We collect information about the applications that you use and how you use them.
 
 This information includes:
 
-  * System Information and Usage Data
+  * System Information and Usage Data 
 
 We collect device-specific information, like unique device identifiers, operating system, and the type of device you use.
 
@@ -45,7 +45,7 @@ We collect information about how you use our applications. This includes your pr
 
 
 
-  * Social Networking Data
+  * Social Networking Data 
 
 We have pages on social networking platforms, such as Facebook, LinkedIn, or Twitter, where you can visit and communicate with us.
 
@@ -59,19 +59,19 @@ When you connect to a social networking service on a device that is also used by
 
 
 
-  * Error data
+  * Error data 
 
 We collect and track data on technical errors that may occur when you use our applications, if you choose to send the relevant report to us in each case. Before the report is sent to us, you will be told what information will be collected and how it will be sent to us.
 
 
 
-  * Automatic updates
+  * Automatic updates 
 
 We collect information that may identify you to your system administrator in connection with the automatic update process, to help your administrator determine what updates you need. This information includes your user login name, and your computer’s name or description.
 
 
 
-  * Cookies and similar technologies
+  * Cookies and similar technologies 
 
 Autodesk uses cookies (small text files stored by your web browser when you use websites) and related technologies, such as pixels and beacons (“Cookies”) to collect and store information when you visit our websites and use our applications.
 
@@ -92,7 +92,7 @@ To help keep our databases current, and to provide you with more relevant conten
 
 These sources can tell us about the company size and industry of our business customers and also help us maintain the accuracy of our databases.
 
-**How does Autodesk use the information it collects about you?**
+### How does Autodesk use the information it collects about you?
 
 We use your personal data mindfully, and in useful ways, including:
 
@@ -112,7 +112,7 @@ We use your personal data mindfully, and in useful ways, including:
 
 Unless otherwise indicated, there is no statutory or contractual requirement for you to provide this data. If you do not provide this data, we might not be able to provide our services to you.
 
-**How does Autodesk disclose your personal data?**
+### How does Autodesk disclose your personal data?
 
 To provide you the best services we can, we work with other service providers. These companies are located all over the world, and we require them to protect your privacy. They are not authorized by us to use your personal data for their own purposes. Our service providers include companies we use for:
 
@@ -141,13 +141,13 @@ We may disclose your data in the following circumstances:
 
 
 
-**How does Autodesk protect your data?**
+### How does Autodesk protect your data?
 
 We use a combination of reasonable physical, administrative, and technological controls to protect your data from unauthorized access or malicious actions. For more information about our security practices, please visit the [Trust Center](https://www.autodesk.com/trust/overview).
 
 We limit the access employees, contractors, and agents of Autodesk have to your personal data to those who need to know this data to perform their assigned functions and develop or improve our products and services.
 
-**How do you access, update, download, and delete your personal data?**
+### How do you access, update, download, and delete your personal data?
 
 We have processes in place to maintain accurate, complete and up to date data. You have the right to access, update, delete, receive a copy of, or restrict our use of your personal data. When we process personal data based on your consent, you have the right to withdraw consent any time.
 
@@ -155,13 +155,13 @@ To perform these actions, log-in to your account to manage your personal data an
 
 To request a copy of the personal data in your account, please [submit this form](https://accounts.autodesk.com/profile/download?returnurl=https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement/confirmation-en). When you contact us to assist you, we will ask you to validate your identity before fulfilling your request. If you have any questions, please [contact us](mailto:privacy.questions@autodesk.com).
 
-**What are Autodesk’s storage and data retention practices?**
+### What are Autodesk’s storage and data retention practices?
 
 We store your personal data and content on our servers, and the servers of our service providers. Because we and our service providers maintain servers in global locations, your personal data may be transferred across national borders and stored outside of the United States.
 
 We will retain your personal data for as long as necessary to provide you with the applications you are using, and as needed to comply with our legal obligations.
 
-**Does Autodesk transfer your personal data across national borders?**
+### Does Autodesk transfer your personal data across national borders?
 
 Because we are a global company, we transfer your personal data across national borders to other countries, in compliance with the laws that apply to that data.
 
@@ -169,7 +169,7 @@ When your data is transferred from one of our entities in the European Economic 
 
 To learn more about Autodesk’s Privacy Shield Certification, please read our [Privacy Shield Notice](https://damassets.autodesk.net/content/dam/autodesk/www/Company/docs/pdf/legal-notices-&-trademarks/privacy-shield-statement-nov-2017-updated-1.pdf).
 
-**What are Autodesk’s marketing and advertising practices?**
+### What are Autodesk’s marketing and advertising practices?
 
 **Ad Partners**
 
@@ -187,7 +187,7 @@ You can also change your marketing preferences for our websites here.
 
 Some web browsers may transmit "do-not-track" signals to websites with which the browser communicates. Autodesk currently does not take action in response to these signals.
 
-**How does Autodesk protect children and student data?**
+### How does Autodesk protect children and student data?
 
 At Autodesk, we care deeply about children’s privacy and protecting their data.
 
@@ -197,7 +197,7 @@ Other applications and features are appropriate for use by children, and our [Ch
 
 For more information, please refer to our [Children’s Privacy Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/childrens-privacy-policy-english).
 
-**Is the personal data you give us ever displayed publically?**
+### Is the personal data you give us ever displayed publically?
 
 As always, we urge you to be mindful when deciding to disclose personal data, including on our applications and websites. There are various places within our applications and services that allow you to post content, including comments and “likes.”
 
@@ -205,11 +205,11 @@ In some cases, you can limit who can view or access the information and content 
 
 If you are posting information you do not want to be disclosed publicly, make sure you are using a website or application that allows you to control who sees information you have posted.
 
-**Will this Privacy Statement change?**
+### Will this Privacy Statement change?
 
 If and when the way we treat your personal data changes, we will make sure to let you know by updating this Privacy Statement. When we change it, we will make it clear at the top of our Privacy Statement, and we will tell you when we last updated it. If we have your email address, we will also send you a notice by email regarding the update.
 
-**How to contact us?**
+### How to contact us?
 
 If you want to contact us, please use the following contact information. When you do so, please tell us the name of the website or application about which you are contacting us:
 
@@ -219,18 +219,12 @@ privacy.questions@autodesk.com
 
 By postal mail to:
 
-> Privacy Questions  
->  Autodesk, Inc.  
->  The Landmark @ One Market  
->  Suite 500  
->  San Francisco, CA 94105  
->  U.S.A.  
-> 
+> Privacy Questions Autodesk, Inc. The Landmark @ One Market Suite 500 San Francisco, CA 94105 U.S.A. 
 
 **Data protection officer**
 
 To contact our data protection officer, please use the following contact information: [DPO@autodesk.com](mailto:DPO@autodesk.com).
 
-**Who can I contact with questions or concerns?**
+### Who can I contact with questions or concerns?
 
 We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have a right to lodge a complaint with the [data protection authority of the United States of America](https://www.ftc.gov/faq/consumer-protection/submit-consumer-complaint-ftc) and/or with a competent European supervisory authority.
