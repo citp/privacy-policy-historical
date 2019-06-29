@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizhub.com.sg privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621180302id_/http%3A//www.bizhub.com.sg/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizhub.com.sg privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629115054id_/http%3A//www.bizhub.com.sg/privacypolicy) for the most accurate reproduction.*
 
 # Bizhub Asia Pte Ltd » Privacy Policy » Bizhub Asia Pte Ltd
 
