@@ -1,33 +1,6 @@
-> *The following text is extracted and transformed from the uniblue.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030221934id_/http%3A//www.uniblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniblue.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629144749id_/http%3A//www.uniblue.com/privacy.html) for the most accurate reproduction.*
 
-# Uniblue Privacy and Cookies Policy
-
-Your browser's JavaScript is disabled! Please enable JavaScript to be able to navigate through Uniblue's website properly.
-
-[ ](https://web.archive.org/)
-
-  * [
-
-Products
-
-](https://web.archive.org/product/)
-  * [
-
-Downloads
-
-](https://web.archive.org/downloads/)
-  * [
-
-Purchase
-
-](https://web.archive.org/purchase/)
-  * [
-
-Support
-
-](https://web.archive.org/support/)
-
-
+# Uniblue - Privacy Policy
 
 Last Updated on 24th May 2018 | Version 24.05.2018
 
@@ -37,9 +10,9 @@ This Master Privacy Policy (“ **Privacy Policy** ”) relates to the website [
 
 **You may be reading this Privacy Policy as a User or visitor of the Site or You may have been directed here by one (or more) of Our condensed privacy policies, agreements or Our other notices (digital or otherwise).**
 
-Although this Privacy Policy provides detailed, layered information on how and why We _generally_ process Personal Data (via the Site, any of Our Apps, or otherwise) as well as detailed information about Your various rights, the specific and tailor-made content of such condensed policies or other notices will, in most cases, provide You with more focused and detailed information on _specific_ processing operations (for example, the specific legal basis for processing certain categories of Personal Data and the specific purpose for doing so depending on the matter at hand).
+Although this Privacy Policy provides detailed, layered inforhttp://www.uniblue.com/privacy/mation on hhttp://www.uniblue.com/privacy/ow and why We _generally_ process Personal Data (via the Site, any of Our Apps, or otherwise) as well as detailed information about Your various rights, the specific and tailor-made content of such condensed policies or other notices will, in most cases, provide You with more focused and detailed information on _specific_ processing operations (for example, the specific legal basis for processing certain categories of Personal Data and the specific purpose for doing so depending on the matter at hand).
 
-Although Our goal is to always be as clear and transparent as possible, We appreciate that legal documents can sometimes be difficult to read. However, We strongly encourage You to read this Privacy Policy (which is layered for Your convenience) with care. **Please do not hold back from contacting Us for any clarification You may need.** For example, if You need clarification on a specific legal basis We are relying on to process Your Personal Data for a specific processing operation, We would be happy to provide You with any such information You may need.
+Although Our goal is to always be as clear and transparent as possible, We appreciate that legal documents can sometimes be difficult to read. However, We strongly encourage You to read this Privacy Policy (which is layered for Your convenience) with care. **Please do not hold back from contacting Us for any clarification You may need.** For example, if You need clarification on a specific legal basis We are relying on to process Your Personal Data for a specific processing operation, We would be happy to provide You with any such information You may need.http://www.uniblue.com/privacy/
 
 ## APPLICABLE LAWS
 
@@ -66,36 +39,11 @@ There are various **categories of Personal Data** that We collect about You, nam
 
   * ### CONTACT DETAILS
 
-    * Name
-    * Surname
-    * Telephone or mobile number
-    * Email address
-    * Country of residence
-    * City
-    * Zip-code
   * ### MARKETING DATA
 
-    * Name
-    * Email address
-    * Mailing address
-    * Interests
-    * Proof of opt-in consent (where needed)
-    * Objections to marketing
-    * Website data
-    * Online identifiers (including IP addresses and information generated via Your browser)
-    * Language
   * ### TRACKING DATA
 
-    * IP address
-    * Location Data
-    * GPS Data
   * ### ADDITIONAL INFORMATION
-
-Many of the categories of Personal Data above are collected directly from You (for example, Your Contact Details). However, **WE MAY ALSO COLLECT PERSONAL DATA FROM OTHER SOURCES** , including data companies, publicly accessible databases, joint marketing partners, social media platforms and other third parties. We may also receive Personal Data about You from third parties when We need to confirm Your Contact Details. Should this be the case, We will take all measures as required by law to further inform You about the source of such Personal Data as well as the categories of Personal Data We collect and process. There are certain instances at law where We are specifically forbidden from disclosing to You such activity (for example, when carrying out due diligence for anti-money laundering purposes).
-
-**For a detailed description of the reasons why We process the categories of Personal Data above** (and any other specific Personal Data We process) as well as the corresponding legal ground(s) for doing so please see the ‘What We Use Your Personal Data For (Purpose of Processing)’ section below.
-
-For information/ **Personal Data that We may collect automatically** via the Site, please see the Cookies section below.
 
 
 
@@ -269,7 +217,7 @@ To be able to provide You with marketing material that You may have requested fr
 | 
 
   * Your consent (where we need this);  
- **OR**
+**OR**
   * Our legitimate interests (where we don’t need Your consent.)
 
   
@@ -307,7 +255,7 @@ All reasonable efforts are made to keep any Personal Data We may hold about You 
 
 ## DIRECT MARKETING
 
-**We only send mail, messages, emails and other communications relating to marketing where We are authorised to do so at law**. In most cases We rely on Your consent to do so (especially where We use electronic communications). If, at any time, You no longer wish to receive direct marketing communications from Us please let Us know by contacting Us at the details below or update Your preferences on any of Our Site(s) or Apps (where applicable). 
+**We only send mail, messages, emails and other communications relating to marketing where We are authorised to do so at law**. In most cases We rely on Your consent to do so (especially where We use electronic communications). If, at any time, You no longer wish to receive direct marketing communications from Us please let Us know by contacting Us at the details below or update Your preferences on any of Our Site(s) or Apps (where applicable).
 
 In the case of direct marketing sent by electronic communications (where We are legally authorised to do so) You will be given an easy way of opting out (or unsubscribing) from any such communications.
 
@@ -354,14 +302,14 @@ The third parties who We may disclose to and/or share Your Personal Data with ar
 CATEGORY OF RECIPIENT | PURPOSE OF PROCESSING  
 ---|---  
 Cloud Service Providers | Hosting of data under state-of-the-art security protocols and our exclusive control.  
-IT Service Providers | Maintenance and support of our IT systems/Website(s) - with restricted access and under our strict controls.  
+IT Service Providers | Maintenance and support of our IT systems/Website(s) – with restricted access and under our strict controls.  
 Customer Support Software Provider | Provision of a customer support software in order to provide our users with a high level customer support with restricted access and our strict control.  
 Marketing and Customer Retention Management Tools | Provision of marketing email communications send outs under our strict control and management.  
 Public Authorities | Compliance with legal obligations and only after verifications are made into necessity of disclosure.  
   
 ## SECURITY MEASURES
 
-The personal information which We may hold (and/or transfer to any affiliates/partners/subcontractors as the case may be) will be held securely in accordance with Our internal security policy and the law. 
+The personal information which We may hold (and/or transfer to any affiliates/partners/subcontractors as the case may be) will be held securely in accordance with Our internal security policy and the law.
 
 We use reasonable efforts to safeguard the confidentiality of any and/or all Personal Data that We may process relating to You and regularly review and enhance Our technical, physical and managerial procedures so as to ensure that Your Personal Data is protected from:
 
@@ -384,7 +332,7 @@ As stated above, the said service providers (Our data processors) are also bound
 
 **We will retain Your Personal Data only for as long as is necessary** (taking into consideration the purpose for which it was originally obtained). The criteria We use to determine what is ‘necessary’ depends on the particular Personal Data in question and the specific relationship We have with You (including its duration).
 
-Our normal practice is to determine whether there is/are any specific EU and/or Maltese law(s) (for example tax or corporate laws) **permitting** or even **_obliging_** Us to keep certain Personal Data for a certain period of time (in which case We will keep the Personal Data for the maximum period indicated by any such law). For example, any data that can be deemed to be ‘accounting records’ must be kept for ten (10) years. 
+Our normal practice is to determine whether there is/are any specific EU and/or Maltese law(s) (for example tax or corporate laws) **permitting** or even **_obliging_** Us to keep certain Personal Data for a certain period of time (in which case We will keep the Personal Data for the maximum period indicated by any such law). For example, any data that can be deemed to be ‘accounting records’ must be kept for ten (10) years.
 
 We would also have to determine whether there are any laws and/or contractual provisions that may be invoked against Us by You and/or third parties and if so, what the prescriptive periods for such actions are (this is usually five (5) years). In the latter case, We will keep any relevant Personal Data that We may need to defend Ourselves against any claim(s), challenge(s) or other such action(s) by You and/or third parties for such time as is necessary.
 
@@ -392,7 +340,7 @@ We would also have to determine whether there are any laws and/or contractual pr
 
 ## PROCESSING FOR RESEARCH AND STATISTICAL REASONS
 
-Research and statistics using User or client information is only carried out so that We may understand Our Users' and/or clients’ needs, to develop and improve Our services/activities and/or for philanthropic goals representative of Uniblue Systems Limited’s purpose. In any case, We will always ensure to obtain any consent We may legally require from You beforehand. As in all other cases, We will also ensure to implement all appropriate safeguards as may be necessary.
+Research and statistics using User or client information is only carried out so that We may understand Our Users’ and/or clients’ needs, to develop and improve Our services/activities and/or for philanthropic goals representative of Uniblue Systems Limited’s purpose. In any case, We will always ensure to obtain any consent We may legally require from You beforehand. As in all other cases, We will also ensure to implement all appropriate safeguards as may be necessary.
 
 ## LINKS TO THIRD-PARTY SOURCES
 
@@ -400,7 +348,7 @@ Links that We may provide to third-party websites are clearly marked and We are 
 
 ## COOKIES
 
-When You visit Our Site, We collect certain categories of Personal Data automatically through the use of cookies and similar technologies. 
+When You visit Our Site, We collect certain categories of Personal Data automatically through the use of cookies and similar technologies.
 
 For more detailed information including what cookies are and how and why We process such data in this manner (including the difference between essential and non-essential cookies) please read Our detailed but easy-to-read Cookie Policy.
 
@@ -408,7 +356,7 @@ For more detailed information including what cookies are and how and why We proc
 
 The Site and Our services are not intended to be used by any persons under the age of eighteen (18) and therefore We will never intentionally collect any Personal Data from such persons. If You are under the age of consent, please consult and get Your parent’s or legal guardian’s permission to use the Site and to use Our services.
 
-We shall consider that any Personal Data of persons under the age of eighteen (18) received by Us, shall be sent with the proper authority and that the sender can demonstrate such authority at any time, upon Our request.
+We shall consider that any Personal Data of persohttp://www.uniblue.com/privacy/ns under the age of eighteen (18) received by Us, shall be sent with the proper authority and that the sender can demonstrate such authority at any time, upon Our request.
 
 ## YOUR RIGHTS UNDER THE DATA PROTECTION LAWS
 
@@ -422,82 +370,19 @@ Your various rights at law include:
 
   * ### Your Right of Access
 
-You may, at any time request Us to confirm whether or not We are processing Personal Data that concerns You and, if We are, You shall have the right to access that Personal Data and to the following information:
-
-    * What Personal Data We have,
-    * Why We process them,
-    * Who We disclose them to,
-    * How long We intend on keeping them for (where possible),
-    * Whether We transfer them abroad and the safeguards We take to protect them,
-    * What Your rights are,
-    * How You can make a complaint,
-    * Where We got Your Personal Data from, and
-    * Whether We have carried out any automated decision-making (including profiling) as well as related information.
-
-Upon request, We shall (without adversely affecting the rights and freedoms of others including Our own) provide You with a copy of the Personal Data undergoing processing within one month of receipt of the request, which period may be extended by two months where necessary, taking into account the complexity and number of the requests. We shall inform You of any such extension within one month of receipt of the request, together with the reasons for the delay.
-
   * ### Your Right to Rectification
-
-You have the right to ask Us to rectify inaccurate Personal Data and to complete incomplete Personal Data concerning You. We may seek to verify the accuracy of the data before rectifying it.
 
   * ### Your Right to Erasure (The Right to be Forgotten)
 
-You have the right to ask Us to delete Your Personal Data and We shall comply without undue delay but only where:
-
-    * The Personal Data are no longer necessary for the purposes for which they were collected; or
-    * You have withdrawn Your consent (in those instances where We process on the basis of Your consent) and We have no other legal ground to process Your Personal Data; or
-    * You shall have successfully exercised Your **right to object** (as explained below); or
-    * Your Personal Data shall have been processed unlawfully; or
-    * There exists a legal obligation to which We are subject; or
-    * Special circumstances exist in connection with certain children’s rights.
-
-In any case, We shall not be legally bound to comply with Your erasure request if the processing of Your Personal Data is necessary:
-
-    * for compliance with a legal obligation to which We are subject (including but not limited to Our data retention obligations); or
-    * for the establishment, exercise or defence of legal claims.
-
-There are other legal grounds entitling Us to refuse erasure requests although the two instances above are the most likely grounds that may be invoked by Us to deny such requests.
-
   * ### Your Right to Data Restriction
-
-You have the right to ask Us to restrict (that is, store but not further process) Your Personal Data but only where:
-
-    * The accuracy of Your Personal Data is contested (see the **right to data rectification** above), for a period enabling Us to verify the accuracy of the Personal Data; or
-    * The processing is unlawful and You oppose the erasure of Your Personal Data; or
-    * We no longer need the Personal Data for the purposes for which they were collected but You need the Personal Data for the establishment, exercise or defence of legal claims; or
-    * You exercised Your right to object and verification of Our legitimate grounds to override Your objection is pending.
-
-Following Your request for restriction, except for storing Your Personal Data, We may only process Your Personal Data:
-
-    * Where We have Your consent; or
-    * For the establishment, exercise or defence of legal claims; or
-    * For the protection of the rights of another natural or legal person; or
-    * For reasons of important public interest.
 
   * ### Your Right to Data Portability
 
-You have the right to ask Us to provide Your Personal Data (that You shall have provided to Us) to You in a structured, commonly used, machine-readable format, or (where technically feasible) to have it 'ported' directly to another data controller, provided this does not adversely affect the rights and freedoms of others. This right shall only apply where:
-
-    * The processing is based on Your consent or on the performance of a contract with You; and
-    * The processing is carried out by automated means.
-
   * ### Your Right to Withdraw Consent (when We rely on consent)
-
-See Our Special Note on Consent above for detailed information on this right **(which You may exercise at any time.)**
 
   * ### Your Right to Object to Certain Processing
 
-In those cases where We only process Your Personal Data when this is 1.) necessary for the performance of a task carried out in the public interest or 2.) when processing is necessary for the purposes of the legitimate interests pursued by Us or by a third party, You shall have the right to object to processing of Your Personal Data by Us. Where an objection is entered, the processing of data shall cease, unless We as data controller provide compelling and legitimate grounds requiring the continuation of the data processing which outweigh the objections You may have raised.
-
-When Your data is processed for direct marketing purposes, You have the right to object **at any time** to the processing of Your Personal Data, which includes profiling to the extent that it is related to such direct marketing.
-
-For the avoidance of all doubt, when We process Your Personal Data when this is necessary for the performance of a contract, when necessary for compliance with a legal obligation to which We are subject or when processing is necessary to protect Your vital interests or those of another natural person, this general right to object shall **not** subsist.
-
   * ### Your Right to Lodge a Complaint
-
-You also have the right to lodge complaints with the appropriate Data Protection Supervisory Authority. The competent authority in Malta is the [Office of the Information and Data Protection Commissioner (OIDPC)](https://idpc.org.mt/en/Pages/Home.aspx).
-
-We kindly ask that You please attempt to resolve any issues You may have with Us first (even though, as stated above, You have a right to contact the competent authority at any time).
 
 
 
@@ -510,15 +395,15 @@ As one of the security measures We implement, before being in the position to he
 
 We try to reply to all legitimate requests within one month from receiving them. In some particular cases (for example, if the matter is particularly complex or if You send Us multiple requests), it may take Us longer than a month. In such cases, we will notify You accordingly and keep You updated.
 
-## UNIBLUE SYSTEMS LIMITED - COMPANY DETAILS
+## UNIBLUE SYSTEMS LIMITED – COMPANY DETAILS
 
 **Uniblue Systems Limited** , a company registered in **Malta** with company registration number **C 32567** and whose registered office address is at PROGETTA HOUSE, GROUND FLOOR, 62-64, TOWER ROAD, SWATAR, BIRKIRKARA, BKR4012, MALTA is the data controller responsible for processing Your Personal Data that takes place via the Site or in the manner explained above (or in the condensed privacy policy or notice that directed You here).
 
-If You have any questions/comments about privacy or should You wish to exercise any of Your individual rights, please contact Us at [info@uniblue.com](mailto:info@uniblue.com), or by writing to UNIBLUE SYSTEMS LIMITED, PROGETTA HOUSE, GROUND FLOOR, 62-64, TOWER ROAD, SWATAR, BIRKIRKARA, BKR4012, MALTA or by phoning Us using telephone number (+356) 23275000 (during normal office hours.) 
+If You have any questions/comments about privacy or should You wish to exercise any of Your individual rights, please contact Us at [info@uniblue.com](mailto:info@uniblue.com), or by writing to UNIBLUE SYSTEMS LIMITED, PROGETTA HOUSE, GROUND FLOOR, 62-64, TOWER ROAD, SWATAR, BIRKIRKARA, BKR4012, MALTA or by phoning Us using telephone number (+356) 23275000 (during normal office hours.)
 
 ## UPDATES
 
-We reserve the right, at Our complete discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. If You are an existing client with whom We have a contractual relationship You shall be informed by Us of any changes made to this Privacy Policy (as well as other terms and conditions relevant to the Site). We shall also archive and store previous versions of the Privacy Policy for Your review. 
+We reserve the right, at Our complete discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. If You are an existing client with whom We have a contractual relationship You shall be informed by Us of any changes made to this Privacy Policy (as well as other terms and conditions relevant to the Site). We shall also archive and store previous versions of the Privacy Policy for Your review.
 
 As a User of the Site with which We have no contractual relationship or even a lawful way of tracing, it is in Your interest to regularly check for any updates to this Privacy Policy (which are usually deemed to be effective on the date they are published on the Site), in the event that Our attempts to notify You of such updates do not reach You.
 
@@ -526,17 +411,17 @@ Last Updated on 24th May 2018 | Version 24.05.2018
 
 ## INTRODUCTION
 
-This cookie policy (“ **Cookie Policy** ”) relates to the website [http://www.uniblue.com](http://www.uniblue.com/) and/or any sub-website and/or associated domains (and/or sub-domains) of [http://www.uniblue.com](http://www.uniblue.com/) (hereinafter referred to as the “ **Site** ”) owned by **Uniblue Systems Limited**. In this Cookie Policy, “ **We** ”, “ **Us** ”, “ **Our** ”, “ **Ourselves** ” and/or “ **Uniblue** ” shall refer to **Uniblue Systems Limited** ( **C 32567** ) and “ **You** ” and “ **Your** ” and “ **User** ” refer to an identified or identifiable natural person being the user of this Site and/or client of any of Uniblue’s services. Our full details, including contact details, can be read below. For more information about how We process Your Personal Data, please read Our Master Privacy Policy. 
+This cookie policy (“ **Cookie Policy** ”) relates to the website [http://www.uniblue.com](http://www.uniblue.com/) and/or any sub-website and/or associated domains (and/or sub-domains) of [http://www.uniblue.com](http://www.uniblue.com/) (hereinafter referred to as the “ **Site** ”) owned by **Uniblue Systems Limited**. In this Cookie Policy, “ **We** ”, “ **Us** ”, “ **Our** ”, “ **Ourselves** ” and/or “ **Uniblue** ” shall refer to **Uniblue Systems Limited** ( **C 32567** ) and “ **You** ” and “ **Your** ” and “ **User** ” refer to an identified or identifiable natural person being the user of this Site and/or client of any of Uniblue’s services. Our full details, including contact details, can be read below. For more information about how We process Your Personal Data, please read Our Master Privacy Policy.
 
 ## WHAT ARE COOKIES?
 
-Our Site uses a technology called “cookies”. A cookie is an element of data (usually a very small file) that a website can send to Your browser, which may then store it on Your computer or mobile device.  These cookies allow Us to correctly operate the Site and/or to provide You with web pages or content that are tailored to You. For example, some cookies remember Your custom preferences. This information can, in some cases, be carried from one visit of our Site (or related site) to the next (for example, to help You avoid having to re-enter certain information when You visit the same page later. Some of these cookies require Your consent (as explained below.)
+Our Site uses a technology called “cookies”. A cookie is an element of data (usually a very small file) that a website can send to Your browser, which may then store it on Your computer or mobile device. These cookies allow Us to correctly operate the Site and/or to provide You with web pages or content that are tailored to You. For example, some cookies remember Your custom preferences. This information can, in some cases, be carried from one visit of our Site (or related site) to the next (for example, to help You avoid having to re-enter certain information when You visit the same page later. Some of these cookies require Your consent (as explained below.)
 
 Some cookies are created for each session when You visit Our Site, while others are persistent and may remain for a number of months or years to facilitate Your access to Our Site.
 
 ## WHY WE USE COOKIES
 
-**We absolutely respect Your right to privacy.** We use cookies to ensure the functionality of our Site and to make Your website experience better. You can remove any cookies already stored on Your computer or mobile device (as explained below) but this may prevent You from using parts of this Site or may cause You to see this message, or part thereof, again.
+**We absolutely respect Your right to privacy.** We use cookies to ensure the functionality of our Site and to make Your website experience better. You can remove any cookies already stored on Your computer or mobile device (as explained below) but this may prevent You from using parts of this Site or may cause You to see this message, or part thereof, again.
 
 Apart from the cookies We make use of Ourselves, various third-party cookies may also be stored on Your computer or mobile device, including [Google Analytics](https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignUp/) and [New Relic](https://newrelic.com/). We strongly suggest that You read the cookie policy of any such third-party cookies.
 
@@ -548,9 +433,9 @@ We divide cookies into two main categories, namely:
 
 These are strictly necessary to ensure that the Site functions in Your everyday use of it or for Us to provide You with the service(s) You expect from Us. Cookies used for the sole purpose of carrying out or facilitating the transmission of a communication will also be considered as essential cookies. **We do not require Your consent to use such essential cookies but You may still block or delete them (see below.)**
 
-Some examples of **essential cookies** as found in the European Commission’s EU Internet Handbook (see <http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm>) are as follows:
+Some examples of **essential cookies** as found in the European Commission’s EU Internet Handbook (see<http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm>) are as follows:
 
-    * **USER-INPUT** cookies (session-id) such as first‑party cookies to keep track of the User's input when filling online forms, shopping carts, etc., for the duration of a session or persistent cookies limited to a few hours in some cases;
+    * **USER-INPUT** cookies (session-id) such as first‑party cookies to keep track of the User’s input when filling online forms, shopping carts, etc., for the duration of a session or persistent cookies limited to a few hours in some cases;
     * **AUTHENTICATION** cookies, to identify the User once he has logged in, for the duration of a session;
     * **USER-CENTRIC SECURITY** cookies, used to detect authentication abuses, for a limited persistent duration;
     * **MULTIMEDIA CONTENT PLAYER** cookies, used to store technical data to play back video or audio content, for the duration of a session;
@@ -598,17 +483,17 @@ If Your browser is NOT configured, by default, to block all or certain cookies, 
 
 Usually, the information on how to change Your options regarding cookies can be obtained by referring to Your operating system’s manual or to the ‘Help’ section of Your web browser, or by contacting Your Internet Service Provider.
 
-You may also find all the necessary information on how to make the necessary configuration settings by visiting the following helpful site: <http://www.allaboutcookies.org/manage-cookies/>
+You may also find all the necessary information on how to make the necessary configuration settings by visiting the following helpful site:<http://www.allaboutcookies.org/manage-cookies/>
 
 Please read Our Master Privacy Policy which, among other things, explains all Your rights as a data subject.
 
 For more information please feel free to contact us as indicated below.
 
-## COMPANY DETAILS
+## http://www.uniblue.com/privacy/COMPANY DETAILS
 
 Uniblue is the data controller responsible for processing of Your personal data that takes place via the Site or in the manner explained above.
 
-If You have any questions/comments about privacy, You should contact Us at [info@uniblue.com](mailto:info@uniblue.com), or by writing to **UNIBLUE SYSTEMS LIMITED** , PROGETTA HOUSE, GROUND FLOOR, 62-64, TOWER ROAD, SWATAR, BIRKIRKARA, BKR4012, MALTA, or by phoning Us using telephone number (+356) 23275000 (during normal office hours.) 
+If You have any questions/comments about privacy, You should contact Us at [info@uniblue.com](mailto:info@uniblue.com), or by writing to **UNIBLUE SYSTEMS LIMITED** , PROGETTA HOUSE, GROUND FLOOR, 62-64, TOWER ROAD, SWATAR, BIRKIRKARA, BKR4012, MALTA, or by phoning Us using telephone number (+356) 23275000 (during normal office hours.)
 
 ## UPDATES
 
