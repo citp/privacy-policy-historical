@@ -1,179 +1,173 @@
-> *The following text is extracted and transformed from the passportalmsp.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415075406id_/https%3A//www.passportalmsp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passportalmsp.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629213715id_/https%3A//www.solarwindsmsp.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Notice | SolarWinds MSP
 
-* * *
+SolarWinds is committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate or other events, and business partners. The following privacy notices explain our privacy practices related to these activities and how SolarWinds may collect, use, and/or share personal data.
 
-**Your Privacy**
+[**GDPR Statement** :](https://web.archive.org/resources/gdpr) The EU General Data Protection Regulation (GDPR), enforceable as of May 25, 2018, imposes additional requirements upon companies to strengthen the security around and enhance the protection of personal data of EU residents. We discuss SolarWinds' efforts and commitment to GDPR in the [SolarWinds GDPR Resource Center](https://web.archive.org/resources/gdpr)
 
-We try to know as little as possible about you.
+[**Privacy Notice** :](https://web.archive.org/legal/privacy) SolarWinds is committed to protecting the privacy of those involved in its business. This Privacy Notice is meant to help you understand, among other things, what personal data we collect, why we collect it, and what we do with it.
 
-It's okay to use an anonymous email.
+[**Cookie Policy** :](https://web.archive.org/legal/cookie-policy) This Cookie Policy addresses how we use cookies when you visit SolarWinds. We want to be clear about how we collect and use data related to you via cookies.
 
-Your info is not sold, traded or disseminated.
+### **PRIVACY NOTICE**
 
-Your email is used for emergencies, notifications and support only.
+_Last updated: May 16, 2018_
 
-**Your Rights**
+SolarWinds Worldwide, LLC and its affiliated companies and subsidiaries (“SolarWinds,” “we” or “us”) are committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate events, and business partners (“Customers”). This Privacy Notice (“Privacy Notice” or “Notice”) describes our privacy practices in relation to the use of SolarWinds websites (including any customer portal or interactive customer website), its software, services, solutions, tools, and related applications, services, and programs, including attendance of corporate events and research and marketing activities, offered by SolarWinds (the “Services”) as well as your choices regarding use, access and correction of personal data.
 
-Change the email associated with your account.
+This Privacy Notice describes how we collect, use, disclose and otherwise process personal data collected related to our Services and otherwise in the course of our business activities, including the information practices of the websites that link to this Privacy Notice (“Sites”).
 
-Delete your account whenever you'd like.
+This Privacy Notice does not apply to information collected about SolarWinds employees, applicants, or other personnel.
 
-Ask us what information we have on file for you.
+The SolarWinds Sites may contain links to other websites; and information practices and/or the content of such other websites shall be governed by the privacy statements of such other websites.
 
-Request that we delete all traces of you in our systems, including support emails.
+### **About Us**
 
-**Welcome!**
+SolarWinds provides its Services—which include IT management and monitoring solutions such as network, systems and database management, security solutions, applications and infrastructure monitoring, and IT helpdesk tools—to business customers, directly, and through distributors, resellers, and managed service providers (MSPs).
 
-This web site, Passportal, is administered by Passportal Inc. We appreciate you visiting our site and considering our service. Passportal recognizes the importance of information by which you can be identified, such as your name, address, or e-mail address.
+SolarWinds Parent Inc. and SolarWinds Worldwide, LLC (and their US subsidiaries listed on the SolarWinds certification page) have complied with the EU-US and Swiss-US Privacy Shield Framework; as part of this, we have certified to the US Department of Commerce that we adhere to the Privacy Shield principles of: Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability (the “ **Principles** ”), with respect to personal data that we process on behalf of our Customers established in the European Union and Switzerland. For more information about our Privacy Shield commitment, refer to the Privacy Shield section below.
 
-When you visit this web site, Passportal may collect Personally Identifiable Information about you, either directly (where you are asked to provide the data, for example during registration for the service) or indirectly, as explained later in this policy. Passportal will, however, only use this Personally Identifiable Information in accordance with the purposes set forth in this Privacy Policy and is _committed_ to protecting the personal information collected.
+You can learn more about Privacy Shield at  **[www.privacyshield.gov](https://www.privacyshield.gov/) **and see our Privacy Shield self-certification at [**www.privacyshield.gov/list**](https://www.privacyshield.gov/list). SolarWinds' self-certification to the Privacy Shield is subject to the investigatory and enforcement authority of the Federal Trade Commission.
 
-This Privacy Policy sets out the purposes of Passportal's data handling in respect to this web site, the use of cookies and how to exercise your rights for your Personally Identifiable Information.
+### **Customer Owned Data**
 
-By using the Passportal service and this website, you consent to the information practices described in this policy. Keep in mind that your use of the Passportal service is also subject to, and controlled by, the Passportal Terms and Conditions and the Passportal User Agreement.
+As a provider of Services, we may receive, process or store certain information, including personal data, on behalf of our Customers. All such information (“ **Customer Data** ”) is owned and controlled by our Customers, who are the data controllers for such information with respect to EU data protection law. Customer Data may include information from the end points and other systems, tools or devices that Customers manage or monitor using our Services, and end user data related to individuals activities on Customer’s network and systems. It may also include event logs, end user information (such as IP address, email address and computer name), and other data where relevant to a support or service request. SolarWinds is a data processor for Customer Data. This means that SolarWinds processes Customer Data on the basis of instructions from our Customers. If SolarWinds receives a data subject request, it may point you in the direction of its Customer, as the Customer is the controller of the Customer Data. 
 
-**Data Handler**
+**Data Relating to Our Customers and Users of Our Sites**
 
-The Data Handler and Contact Person for Data Protection is Passportal. Should you have any questions, recommendations, or complaints about this Privacy Policy or our data handling activities, please contact us.
+SolarWinds collects information as part of its normal business operations and in the administration of its relationship with Customers, which may include personal data.
 
-_via e-mail at:_[ _info@passportalmsp.com_](mailto:info@passportalmsp.com)
+_Business Contact and Customer Relationship Management.  _We collect and maintain information about our Customers, which may include company name, business contact name and title, phone number, email and other contact details. We may also collect billing address, financial account, credit card information, order details, subscription and license information, and usage details. In addition, we collect user credential and profile data (name, contact, authorized users) of Customer’s authorized users and account administrators.
 
-**Data Handling**
+_Data Submitted on Sites._ In order to access or use certain portions of the Sites, to enjoy the full functionality of the Sites, or to conduct or seek to conduct business with us, you may be prompted to provide certain personal data to us, including in the following ways:
 
-Data handling associated with customer support for the Passportal website and service is located at the Data Handler’s address and is subject to Canadian Laws. The data centers where Passportal's servers are housed are located in Canada and the United States of America, and are subject to respective Federal Laws.
+  * by filling in forms (for example, a “Contact Us” form) on our Sites or at a trade show or anywhere else we conduct business;
+  * by downloading or accessing the SolarWinds Services;
+  * by downloading documentation from our Sites;
+  * by subscribing to newsletters or other communications; or
+  * by corresponding with us by phone, e-mail or otherwise using our contact details.
 
-**Rights of the Data Subject**
 
-You can request a summary of the information that we have for you by contacting us at [info@passportalmsp.com](mailto:info@passportalmsp.com).  If you find any errors, we will correct them in a timely manner.
 
-These are your rights as set out by paragraph 12 of the Canadian Privacy Act:
+Typically, the personal data you give us may include name, business affiliation, business address, telephone number, and email address, and any personal details required to resolve any enquiries or complaints.
 
-_"_ ** _12._** _(1) Subject to this Act, every individual who is a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the_[Immigration and Refugee Protection Act](http://laws-lois.justice.gc.ca/eng/acts/I-2.5) _has a right to and shall, on request, be given access to_
+_Third Parties._  We may also obtain personal data about Customers from third parties, such as LinkedIn and other publicly accessible sources.
 
-_(_ a _) any personal information about the individual contained in a personal information bank; and_
+_Customer Support and Service._ When Customers contact us for support or other customer service requests, we maintain support tickets and other records related to the requests, including any information provided by Customers related to such support or service requests. We may also collect call recordings related to support and customer service-related calls.
 
-_(_ b _) any other personal information about the individual under the control of a government institution with respect to which the individual is able to provide sufficiently specific information on the location of the information as to render it reasonably retrievable by the government institution._
+_Usage Details._  We collect information about Customers’ usage of our Services, including IP address, Customer ID, email address, and other usage statistics. We do not collect usage details about Customer end users, except as necessary for support or to provide the Services requested by Customers (in which case we are a data processor of such data).
 
-_Other rights relating to personal information_
+When you visit our Sites, our server automatically collects certain browser or device generated information, which may in some cases constitute personal data, including but not limited to:
 
-_(2) Every individual who is given access under paragraph (1)(_ a _) to personal information that has been used, is being used or is available for use for an administrative purpose is entitled to_
+  * your domain;
+  * your IP address;
+  * your date, time and duration of your visit;
+  * your browser type;
+  * your operating system;
+  * your page visits;
+  * information from third parties;
+  * other information about your computer or device; or
+  * Internet traffic.
 
-_(_ a _) request correction of the personal information where the individual believes there is an error or omission therein;_
 
-_(_ b _) require that a notation be attached to the information reflecting any correction requested but not made; and_
 
-_(_ c _) require that any person or body to whom that information has been disclosed for use for an administrative purpose within two years prior to the time a correction is requested or a notation is required under this subsection in respect of that information_
+_De-identified Data._  We may de-identify and aggregate certain data we collect such that the data no longer identifies or can be linked to a particular customer or an individual data subject (“De-identified Data”), subject to the terms of any applicable customer agreements. We may use this data to improve our Services, analyze trends, publish market research, and for other marketing, research or statistical purposes, and may disclose such data to third parties for these specific purposes.
 
-_(i) be notified of the correction or notation, and_
+_Other Data_. SolarWinds collects, uses and maintains certain data related to its business and the Services it provides to Customers, which is not personal data; this privacy notice does not restrict our use and processing of such data.
 
-_(ii) where the disclosure is to a government institution, the institution make the correction or notation on any copy of the information under its control._
+### **Cookies**
 
-_Extension of right of access by order_
+Our Sites use cookies. More information about our use of cookies can be found in our Cookie Policy at [ **www.solarwindsmsp.com/legal/cookie-policy**](https://web.archive.org/legal/cookie-policy).
 
-_(3) The Governor in Council may, by order, extend the right to be given access to personal information under subsection (1) to include individuals not referred to in that subsection and may set such conditions as the Governor in Council deems appropriate. "_
+### **Use of Personal Data**
 
-This means that if we have incorrect information about you, you have the right to correct it.  If you feel that we have wrongly used your data, or if you feel there is no reason we should have it (for example, if you delete your account), you can request that we remove every reference to you in our systems. 
+The following is an overview of our purposes for using personal data that we process as a data controller. Additional details on how we process your personal data may be provided to you in a separate notice or contract.
 
-**Changing or Removing Information**
+For individuals in the European Union, our processing (i.e. use) of your personal data is justified on the following legal bases:
 
-In an effort to facilitate your ability to exercise your rights, and ensure that you have appropriate control over your Personally Identifiable Information, the Passportal service provides an interface where you can change your Registration or Customer Information.
+  * **Performance of Contract:** the processing is necessary to perform a contract with you or take steps to enter into a contract at your request;
+  * **Compliance with Law:** the processing is necessary for us to comply with a relevant legal obligation (for example, laws which require us to collect tax information from customers, carry out checks on customers, or which compel us to disclose information to public authorities or regulators);
+  * **Our Legitimate Interests:** the processing is in our legitimate interests, subject to your interests and fundamental rights, and notably our legitimate interest in using applicable data to conduct and develop our business activities, such as developing and maintaining relationships with our customers (the majority of the processing covered by this notice is legitimate interest based);* 
+  * **Defend Our Rights:** where the processing is necessary to the establishment, exercise or defence of legal claims; or
+  * **With Your Consent:** you have consented to the processing (for example, where we are required by local law to rely upon your prior consent for the purposes of direct marketing).
 
-If at any time you would like to delete your Personally Identifiable Information from other systems outside of the Passportal service (for example, customer service emails) you can send an e-mail request to [info@passportalmsp.com](mailto:info@passportalmsp.com).  After receipt of your request, such information will be deleted assuming (i) you are current with all payment obligations; (ii) Passportal does not believe it is reasonably necessary to keep such information for any pending legal action; and (iii) we are under no other legal obligation to retain such information.  If such information is deleted, however, any unfulfilled subscriptions will be cancelled without refund and you will have to re-register with Passportal in order to use the Passportal service.  Because of the irreversible nature of account deletions, we will attempt to verify your identity as the proper account holder, or ask you to confirm your intent before proceeding.
 
-Since Anonymous Information is by its very nature non-personally identifying, we have no way to locate Anonymous Information obtained by your use of the service. In addition, Anonymous Information is often aggregated. Therefore, we cannot remove Anonymous Information obtained from you or as a result of your usage of the website or service.
 
-**Collection of Personally Identifiable Information**
+* In all cases where legitimate interests is relied upon as a lawful basis, we take steps to ensure that our legitimate interests are not outweighed by any prejudice to your rights and freedoms. This is achieved in a number of ways, including through the application of principles of data minimization and security, and by taking steps to ensure that personal data is only collected or otherwise obtained where it is relevant to the lawful business activities, and where using personal data is reasonably necessary for those activities. 
 
-Personally Identifiable Information is information that can be used to locate you, contact you, or determine your specific identity. When other information is linked to Personally Identifiable Information, it also becomes Personally Identifiable Information.
+### **Disclosure of Personal Data**
 
-In general, you can visit the Passportal website without providing Personally Identifiable Information. It is Passportal's goal to collect as little Personally Identifiable Information as possible, however there may be some occasions where it may be collected. For example:
+SolarWinds is a global group of companies, and we may share personal data with our affiliated businesses as part of our business operations and administration of the Services. We may also appoint third party service providers (who will operate under our instructions) to assist us in providing information, products or services to you, in conducting and managing our business, or in managing and improving our Services or the Sites. SolarWinds may share your personal data with these affiliates and third parties to perform services that the third parties have been engaged by SolarWinds to perform on SolarWinds's behalf, subject to appropriate contractual restrictions and security measures, or if we believe it is reasonably necessary to prevent harm or loss, or it believes that the disclosure will further an investigation of suspected or actual illegal activities.
 
-When you register for the Passportal service, you are required to provide a User ID, or an equivalent third party authentication service. You may also optionally provide an Email address ("Registration Information"). An activation code will be sent to the email address provided to confirm its validity and to ensure that it was not accidentally mistyped. The Passportal application provides an interface where you can correct this information, request a new activation code to be sent, or even change the email associated with your account in the future. Should a valid email account not be provided and confirmed, Passportal will not be able to provide you with any customer support requests.
+SolarWinds reserves the right to share any information that is not deemed personal data or is not otherwise subject to contractual restrictions.
 
-When you place an order or subscribe to a paid version of the Passportal service, we may collect the appropriate billing information, including your credit card number, expiration date, and billing address ("Billing Information"). This information may be associated to your Registration Information in a database and kept for future purchases.
+If personal data is transferred outside the EU to other SolarWinds group companies or to third party service providers, we will take steps to ensure that your personal data receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements, using the European Commission approved Standard Contractual Clauses, or by relying on certification schemes such as the EU - US Privacy Shield. For transfers to other SolarWinds group companies in the United States (a country that has not received a decision from the European Commission determining that the United States provides adequate protection to personal data), we have put in place European Commission approved Standard Contractual Clauses, which protect personal data transferred between SolarWinds entities. You have a right to obtain details of the mechanism under which your personal data is transferred outside of the EU by contacting [privacy@solarwinds.com](mailto:privacy@solarwinds.com).
 
-When you submit a request for more information, support or assistance, Passportal will keep a record of the request and the manner in which it was processed ("Customer Service Information").
+We contractually require agents, service providers, and affiliates who may process personal data related to the Services to provide the same level of protections for personal data as required under the Principles. SolarWinds currently does not transfer personal data to a third party for the third party’s own use, but only for SolarWinds’ purposes as outlined above. SolarWinds will remain liable under the Principles if one of its third party processors processes personal data in a manner inconsistent with the Principles, if we are responsible for the event giving rise to the damage.
 
-We may ask you for voluntary personal information at other times, including but not limited to when you provide opinions, enter a contest or promotion, or report a problem with the Passportal service ("Optional Information").
+### **Other Disclosures**
 
-Should you decide to comment on the Passportal blog, forum, or community board you may need to provide an email address - this _will not_ be made visible to others. You may also optionally choose to provide your name and a URL - these _will_ be made visible to others.
+_Law Enforcement or National Security_. In accordance with our legal obligations, we may also transfer Customer Data, subject to a lawful request, to public authorities for law enforcement or national security purposes.
 
-Your response to the above requests for information is completely voluntary: if you do not provide the information we request, you can still visit the informative sections of our website but you may be unable to register or maintain an account with the Passportal service.
+_Additional Disclosures_. We may also disclose Customer Data (including any personal data), where otherwise required by law.
 
-By submitting your information you consent to the use of that information as set out in this Privacy Policy.
+_Business Transfers._ We may share personal data with third parties in connection with potential or actual sale of our company or any of our assets, or those of any affiliated company, in which case personal data held by us about our users may be one of the transferred assets.
 
-**Collection of Non-Personally Identifiable (Anonymous) Information**
+_Just-in-Time Disclosures._ Additional disclosures or information about processing of personal data related to specific websites, mobile applications, products, services, or programs may be provided to you. These may supplement and/or clarify SolarWinds privacy practices in specific circumstances and provide you with additional choices as to how SolarWinds may process your personal data.
 
-Whenever you visit the Passportal site, we may also automatically receive and record information from your browser, including your IP address, your computer's name, the type and version of your web browser, referrer addresses, and other generally-accepted log information. We may also record page views (hit counts) and other general statistical and tracking information.
+### **Children**
 
-This information is collected automatically by the system and the software procedures dedicated to the operating of this website which requires no action on your part. With the exception of your IP address which is used to support various security related features, this information is not associated with your Personally Identifiable Information.
+The Sites, Services and Portal are not for use by children under the age of 16 years and SolarWinds does not knowingly collect, store, share or use the personal data of children under 16 years. If you are under the age of 16 years, please do not provide any personal data, even if prompted by the Sites to do so. If you are under the age of 16 years and you have provided personal data, please ask your parent(s) or guardian(s) to notify SolarWinds and SolarWinds will delete all such personal data.
 
-This data enables us to become more familiar with which parts of the world visitors to our site come from, how often they visit, and what parts of the site they visit most often. We analyze this data for trends and statistics, we use them exclusively to help us better understand how our site is being used, to improve the value and user-friendliness of our web site as well as detect any technical problems as early as possible. To help us record and understand our website traffic we may also use a third party service, such as Google Analytics or website page counters - in which case absolutely _no_ Personally Identifiable Information is recorded by the third party service, nor associated with the aggregate anonymous website data.
+### **Marketing**
 
-**Sensitive Data**
+Where lawful to do so, and subject to your consent where required, we may communicate with Customers (and related business contacts) about our Services. If you wish to unsubscribe from receiving marketing communications, please visit the [Email Preference Center](https://pages.solarwindsmsp.com/UnsubscribePage.html) on our Site or use the Email Preference Center link in our promotional emails to request that we will stop sending you communications.
 
-Passportal does not specifically seek to collect sensitive Personally Identifiable Information (such as data revealing political opinions, religious beliefs or data concerning health or sex life) through this site. If Passportal does seek to collect such data, your prior consent hereto will be asked.
+### **Security**
 
-The very nature, however, of the Passportal service is to provide a place for you to store and protect sensitive data such as, but not limited to, passwords. The data you choose to store and manage via the Passportal application is not considered "collected" data in that it is encrypted and cannot be decrypted or read by Passportal or any other third party. Only those with access to your private decryption key can decrypt and read the data you store at Passportal.
+SolarWinds aims to safeguard and protect your personal data from unauthorized access, improper use or disclosure, unauthorized modification or unlawful destruction or accidental loss, and SolarWinds utilizes and maintains certain reasonable processes, systems, and technologies to do so. However, you acknowledge that no environment is completely secure or error-free, and that these processes, systems, and technologies utilized and maintained by SolarWinds are subject to compromise. Accordingly, we cannot be held responsible for unauthorized or unintended access that is beyond our control.
 
-**Data Processing**
+### **Retention of Your Personal Data**
 
-Your Personally Identifiable Information will be processed manually and/or by automated systems that guarantee security and confidentiality, in strict accordance with, and complete respect of, the purposes described in this Privacy Policy.
+We apply a general rule of keeping personal data only for as long as required to fulfil the purposes for which it was collected. However, in some circumstances, we may retain personal data for other periods of time, for instance where we are required to do so in accordance with legal, tax and accounting requirements, or if required to do so by a legal process, legal authority, or other governmental entity having authority to make the request, for so long as required.
 
-**Cookies**
+In specific circumstances, we may also retain your personal data for longer periods of time corresponding to a statute of limitation, so that we have an accurate record of your dealings with us in the event of any complaints or challenges.
 
-Some pages on this site use "cookies," which are small files that the site places on your hard drive for identification purposes. Cookies are alphanumeric identifiers that we transfer to your computer's hard disk which help our servers recognize your computer when you visit again, so that it is easier for you to navigate our website and make the best use of your visit. You should note that cookies cannot read data off of your hard drive. Your web browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not.
+### **External Links**
 
-By not accepting cookies, you may not be able to access certain functionalities on this site. In particular, Passportal application requires the use of cookies and may have limited functionality if you do not allow cookies.
+The Sites may contain links to third party sites. Since SolarWinds does not control nor is responsible for the privacy practices of those websites, we encourage you to review the privacy policies of these third party sites. This Policy applies solely to personal data collected by our Sites or in the course of our business activities.
 
-**Disclosure of Personally Identifiable Information**
+**Access and Data Subject Rights** Individuals have the right to access the personal data processed about them, subject to applicable law; individuals may request to access their personal data processed by us by emailing us at <http://www.solarwinds.com/legal/personal-data-request>. 
 
-Your Personally Identifiable Information will not be matter of dissemination. The data will be disclosed to the employees or third parties expressly appointed by the Data Handler as Data processor and the individuals in charge for the data handling.
+Subject to applicable law, you may also have some or all of the following rights available to you in respect of your personal data
 
-We will not provide, sell, barter or trade any information about you to/with any third parties, without your express permission and, above all, we will not sell this data to commercial users or make them available in any other form.
+  * to obtain a copy of your personal data together with information about how and on what basis that personal data is processed;
+  * to rectify inaccurate personal data (including the right to have incomplete personal data completed);
+  * to erase your personal data (in limited circumstances, such as where it is no longer necessary in relation to the purposes for which it was collected or processed);
+  * to restrict processing of your personal data under certain circumstances
+  * to port your data in machine-readable format to a third party (or to you) when we justify our processing on the basis of your consent or the performance of a contract with you;
+  * to withdraw your consent to our processing of your personal data (where that processing is based on your consent); and
+  * to obtain, or see a copy of the appropriate safeguards under which your personal data is transferred to a third country or international organization.
 
-In general, we will not disclose your Personally Identifiable Information to unaffiliated third parties without your express consent. If we seek your consent to disclose your Personally Identifiable Information to a third party, we will do so unambiguously, explaining precisely what information we seek to disclose, the entity to whom we wish to disclose it, and the purpose for the disclosure.
 
-There are, however, some limited circumstances in which we may need to disclose Personally Identifiable Information about a user, and we want you to know about them:
 
-We may employ other companies to perform functions on our behalf, such as fulfilling orders, providing customer service, handling credit card payments, or other functions necessary to our business. We may therefore need to share your Personally Identifiable Information to banks or financial institutions, service companies, consultants, contractors and to the relevant Authorities imposed by law. The data you submit may be transmitted abroad, only to our affiliated companies, in compliance with the requirements set forth by the privacy laws in force. However, we will provide them with only that information necessary to perform their functions, and will not allow them to use that information for any other purpose.
+In addition to the above rights, under EU data protection law, applicable individuals have the right to object, on grounds relating to your particular situation, at any time to any processing of your personal data for which we have justified on the basis of a legitimate interest, including profiling (as opposed to your consent) or to perform a contract with you. You also have the right to object at any time to any processing of your personal data for direct marketing purposes, including profiling for marketing purposes.
 
-Responses to requests for information necessary to provide you with the products you purchase or subscribe to through the Passportal service may contain Personally Identifiable Information. Passportal will provide the authors of such products the information you supply in response to those requests. The information practices of those publishers are not covered by this Privacy Policy. Your name, address, phone number, and email address, will not be shared with the Authors.
+You also have the right to lodge a complaint with your local supervisory authority for data protection.
 
-We may reveal a user's identity (or whatever information we know about that individual) if we believe that user is harming or interfering with other Passportal users, anyone else, or violating (either intentionally or unintentionally) our Terms and Conditions or infringing any of Passportal's legal rights.
+In relation to all of these rights, please contact us at <http://www.solarwinds.com/legal/personal-data-request> ** _.  _**Please note that we may request proof of identity, and we reserve the right to charge a fee where permitted by law, especially if your request is manifestly unfounded or excessive. We will endeavor to respond to your request within all applicable timeframes.
 
-Passportal will reveal information, including Personally Identifiable Information, to the extent it reasonably believes it is required to do so by law. If we receive legal process calling for the disclosure of any of your personally identifiable information we will, if permitted by law, attempt to notify you via your e-mail address, if, and only if, we have one on record, within a reasonable amount of time before we respond to the request.
+If you contact us regarding Customer Data for which we are a data processor, we will attempt to refer your request to the relevant Customer, and data controller for your personal data.
 
-Passportal may transfer information it collects, including any Personally Identifiable Information, in connection with a sale of all or most of the assets of the company. Should your Personally Identifiable Information be transferred as the result of such sale, you will be notified in your Account.
+### **Privacy Shield Dispute Resolution**
 
-**Use and disclosure of Anonymous Information**
+We encourage EU and Swiss individuals who have questions or complaints about how we process their personal data under Privacy Shield to contact us at [privacy@solarwinds.com](mailto:privacy@solarwinds.com). We are committed to working with you to resolve your issue as quickly as possible, but in any event, within 45 days of receipt.
 
-Anonymous Information is any information collected from you or by the Passportal service, other than Personally Identifiable Information, including aggregate information derived from Personally Identifiable Information.
+We commit to refer unresolved Privacy Shield complaints, please contact, free of charge, our dispute resolution provider, JAMS, at [www.jamsadr.com](https://www.jamsadr.com/). 
 
-Passportal may use Anonymous Information to improve the Passportal website and service, to monitor traffic and general usage patterns, and for other general business purposes.
+If you are an EU or Swiss individual and unable to resolve any complaints through any of the above methods, you may be able to invoke binding arbitration through a Privacy Shield panel, in accordance with the Privacy Shield Framework at [www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint).
 
-Passportal may disclose Anonymous Information to third parties for a variety of business reasons, including to publishers to inform them as to what content is appealing to their readers, to advertisers to inform them of the usage habits or characteristics of the interested audience, and to potential investors so that they may better understand Passportal's user base, etc.
+### **Contact Information**
 
-Anonymous Information will not include any Personally Identifiable Information and Passportal will not disclose any Personally Identifiable Information except as expressly stated elsewhere in this policy.
-
-**Security**
-
-We employ reasonable and current security methods to prevent unauthorized access, maintain data accuracy, and ensure correct use of information. Your personal data will be stored within a database that is located behind a firewall. The server housing the database is physically protected at a secure data center.
-
-Any transmission to the Passportal web site or service of Personally Identifiable Information or credit card information uses SSL encryption.
-
-**Other Web Sites**
-
-Please note that the informative note is given only for the Passportal website and application: this Privacy Policy does not extend to third party sites linked to this web site.
-
-**Children**
-
-The Passportal service is not directed to children (persons under the age of 18), and we do not knowingly collect, either online or offline, personally identifiable information from children. 
-
-**Amendments**
-
-From time to time, Passportal may change this Privacy Policy. If we make any changes regarding disclosure of Personally Identifiable Information to third parties, then we'll notify you by email prior to the date the modified policy takes effect. We will also post noticeable advisement of the new policy on our home page. Any new policy will have prospective effect only, meaning it will not apply to information previously gathered without your express consent. 
-
-Please check this Privacy Policy from time to time for any changes.
+If you have any questions in relation to this Notice, please contact us at [privacy@solarwinds.com](mailto:privacy@solarwinds.com).
