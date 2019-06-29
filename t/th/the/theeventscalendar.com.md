@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeventscalendar.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003051000id_/https%3A//theeventscalendar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeventscalendar.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629172753id_/https%3A//theeventscalendar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Events Calendar
 
@@ -20,7 +20,7 @@ In addition, we may use third party services such as Google Analytics that colle
 
 ### Cookies
 
-Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our Websites for you.You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie. If you do not accept cookies, you may not be able to use some features of our Websites and we recommend that you leave them turned on.
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our Websites for you. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie. If you do not accept cookies, you may not be able to use some features of our Websites and we recommend that you leave them turned on.
 
 ### Behavioral Remarketing
 
@@ -70,7 +70,7 @@ Our Event Aggregator data processing service collects and processes event inform
 
 ## Service Providers
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform related services and/or to assist us in analyzing how our Service is used. These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform related services and/or to assist us in analyzing how our Service is used. For example, we share cookies with trusted third parties, in order to supply our Help Desk Support. These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
 
 ## Communications
 
