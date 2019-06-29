@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spectorshockey.net privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215125524id_/https%3A//www.spectorshockey.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectorshockey.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629080218id_/https%3A//www.spectorshockey.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Spectors Hockey
 
 **PRIVACY POLICY**
 
-This Privacy Policy governs the manner in which [https://spectorshockey.net](https://spectorshockey.net/) collects, uses, maintains and discloses information collected from users (each, a “User”) of the _[https://spectorshockey.net](https://spectorshockey.net/)_  website (“Site”). This privacy policy applies to the Site and all products and services offered by [https://spectorshockey.net](https://spectorshockey.net/). 
+This Privacy Policy governs the manner in which https://spectorshockey.net collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://spectorshockey.net website (“Site”). This privacy policy applies to the Site and all products and services offered by https://spectorshockey.net.
 
 **Personal identification information**
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-[https://spectorshockey.net](https://spectorshockey.net/) may collect and use Users personal information for the following purposes:
+https://spectorshockey.net may collect and use Users personal information for the following purposes:
 
   * _To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -54,15 +54,15 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [_http://www.google.com/privacy_ads.html_](http://www.google.com/privacy_ads.html)
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
 **Changes to this privacy policy**
 
-ENTER URL has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+https://spectorshockey.net has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [ _terms of service_](http://www.ewrestlingnews.com/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
