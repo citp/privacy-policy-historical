@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204125801id_/https%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629110241id_/https%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
 
 # Marine Insight Privacy Policy
 
@@ -147,8 +147,8 @@ By using the Application, you are consenting to our processing of your informati
 
 This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the MarineInsight(www.marineinsight.com) website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
-You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
-[opt out of interest-based advertising](http://www.google.com/settings/ads/onweb/) entirely by cookie settings or permanently using a browser plugin.
+You can set preferences for how Google advertises to you using the Google Ad Preferences page, and if you want to you can  
+opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
 
 ##  **Contact us**
 
