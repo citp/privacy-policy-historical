@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junglee.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230042339id_/https%3A//www.amazon.in/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junglee.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629112235id_/https%3A//www.amazon.in/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D200534380%26ref_%3Dfooter_privacy) for the most accurate reproduction.*
 
 # Amazon.in Help: Amazon.in Privacy Notice
 
