@@ -1,90 +1,441 @@
-> *The following text is extracted and transformed from the undandy.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307103705id_/http%3A//www.undandy.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undandy.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629074851id_/https%3A//www.undandy.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | UNDANDY › Bespoke Men's Shoes
+# Undandy - Privacy Policy
 
-1\. Data protection
+**DATE: 16 MAY 2018  **
 
-i. We regard data protection as a highly important issue. Therefore, in collecting, processing and using your personal data we adhere strictly to the legal provisions. We collect, store and process your data for the entirety of your purchasing transaction, including the possibility of subsequent warranties, for our service departments, our technical administration and for Undandy marketing purposes. Your personal data shall be passed on or otherwise communicated to third parties, only where this is required for the purpose of fulfilling the contract or for accounting purposes or where you have given your prior consent. As part of processing your order we communicate the data required to complete the order to the service providers appointed by us (such as carriers, logistics experts, banks). The data passed on by us in this way shall be used by our service providers solely for the purpose of fulfilling the order. All other use of the information is prohibited and all our trusted service providers can be relied on to refrain from using the data for any other purpose.
+**PRIVACY POLICY - EU/EEA COUNTRIES**
 
-ii. Undandy respects the privacy of the users of its Internet presence on [www.undandy.com](http://www.undandy.com/); the protection of their personal data is of particular importance to us. This means: Undandy undertakes to treat information supplied to us by users at any time with the greatest care and with a sense of the importance of the responsibility. This also applies in particular to our collaboration with partners and third parties. However, Undandy accepts no liability for third parties, unless this has been separately stated.
+Welcome to the UNDANDY website.
 
-iii. If you wish to object to the whole process of collection, processing or use of your data by Undandy in accordance with these data protection provisions as a whole, or to individual measures within the process, you may send your objection by e-mail or letter to the following contact address: Rua Jorge Castilho Lote 1613 11o. A  
-1900 272 Lisboa Portugal or by email to  service@Undandy.com
+At UNDANDY we are committed to protecting and respecting your privacy. This notice sets out key information regarding UNDANDY and how any personal data you provide to us will be processed. For more detailed information on how we use your data and your rights regarding your data, please read our full [Privacy Policy](https://www.mrporter.com/Help/PrivacyPolicy/#start) and [Cookie Policy](https://www.mrporter.com/Help/CookiePolicy/#start). For all other information regarding our services, please refer to our [Terms & Conditions](https://www.mrporter.com/Help/TermsAndConditions/#start).
 
-2\. Collection, processing and use of personal data
+If you would like more information about how we collect, use and store your personal data, you can contact us at any time by emailing [customercare@undandy.com](mailto:customercare@undandy.com), calling +351 210 497 840,
 
-i. Personal data are data concerning factual or personal relationships of an identified or identifiable natural person. Examples of this type of data are your name, telephone number and address, as well as all the user data, which you communicate to us in registering and setting up your customer account. Statistical data, which we collect for example when you visit our web shop and which cannot be linked to you personally, are not included in this definition. Statistical data, for example, are the statistics concerning which pages of our web site are particularly popular or how many users visit given Undandy shop sites.
+ or Undandy, S.A., Av. Eng. Duarte Pacheco, Amoreiras Torre 2, 10º Andar - Sala 4, 1070-102 Lisboa, Portugal
 
-ii. Customer account We set up for each customer, who registers accordingly, a password-protected direct access to his user data (Customer account) which we have stored. Here you can review data concerning your completed, current and recently dispatched orders and administer your address details and the newsletter. You undertake to treat personal access data as confidential and to refrain from making it available to any unauthorised third party. We can accept no liability for improper use of passwords, unless we have been responsible for the misuse.
+**About us**
 
-iii. In order to process your order correctly we need correct name, address and payment details. We need your e-mail address, so that we can confirm receipt of your order and can communicate with you. We also use your e-mail address for your customer log-in identification. In addition, we will send your order and despatch confirmation to your e-mail address.
+The UNDANDY website is owned and run by UNDANDY S.A. 
 
-iv. Your personal details shall be deleted, unless this is barred by any statutory duty to preserve records and where you have made a claim to have your data deleted, where the data are no longer required for the purpose for which they were stored or where their storage is not permissible for other legal reasons.
+UNDANDY (referred to here as "we", "our", "us") is part of UNDANDY S.A. If we use the term "our Group", this means us and our subsidiaries, our ultimate holding company and its subsidiaries (or any of them). The term "our online services" refers to UNDANDY, our mobile and tablet applications, our pages on third party social media platforms such as Instagram, Facebook, Twitter, Pinterest and Google+ and any other websites or apps we own or run from time to time. The term "our services" refers to our online services and any of our other products and services, offered from time to time. If you use any of our services, we will refer to you using the terms "user", "visitor", "you", "your", "yours" in this policy.
 
-3\. Use of your data for promotional purposes
+For the purpose of the General Data Protection Regulation 2016 (the Law), the data controllers for any personal information we hold about you are Undandy S.A., Rua Da Boavista 355, 4050-107 Porto, Portugal. Our VAT number is PT513403965.
 
-i. As well as using your data to process your purchase with Undandy, we also use your data to communicate with you concerning your order, specific products or marketing campaigns and to recommend products, which may be of interest to you.
+**What personal data do we collect and why?**
 
-ii. You may at any time object to the use of your personal data for promotional purposes as a whole or for individual measures, without incurring any costs other than transmission costs at the basic rates. Communication in textual form (e.g. e-mail, fax, letter) to the contact details given shall be sufficient.
+We collect your personal data when you place an order, call our Customer Care team, sign up for our marketing communications, browse our website or use the other services offered by our website (www.undandy.com). The data we collect includes details you provide to us, such as your given name and surname and your shipping and billing addresses. We also collect data regarding your shopping habits and the pages and products you have viewed from your use of the website. We use this data to:
 
-4\. Newsletter
+  * Take your orders, process your payments and deliver the items you have purchased;
+  * Provide any additional services you have requested, such as our marketing communications;
+  * Give you access to services reserved for registered users, such as Wish Lists and product alerts;
+  * Provide you with help and assistance via our Customer Care team;
+  * Personalise your visit to the website and ensure that content from our site is presented in the most effective manner for you and for your computer.
 
-i. We use what is known as the double opt-in process for the despatch of our Newsletter, i.e. we shall not send you a Newsletter by e-mail until you have sent us your express prior confirmation that we should activate the Newsletter service. We shall then notify you by e-mail and request you to confirm by clicking a link contained in the e-mail, that you wish to receive our Newsletter.
 
-ii. Unsubscribe, if you should subsequently decide that you no longer wish to receive our Newsletter, you can notify us of this at any time, without incurring any costs other than transmission costs at the basic rates. Notification in textual form (e.g. e-mail, fax, letter) to the contact details given shall be sufficient for this purpose. Of course, you will also find an unsubscribe link in each Newsletter.
 
-5\. Competitions, In competitions we use your data for the purposes of notification of winning and of promotion of our offers. Where appropriate, you can find detailed information in our conditions of participation for the competition in question.
+Under the Law, we must have a valid legal basis to process your data. In most instances, we will process your data because we have a contract with you e.g. to deliver your purchases or to provide you with other services you have requested. We will also use your personal data to send you sales and marketing communications that we believe may be of interest to you if we have your explicit consent for this activity, or if you are an existing customer where we have a legitimate interest in communicating with you. You can opt out of sales and marketing communications from us at any time.
 
-6\. How we use Cookies
+**Who will process your data?**
 
-i. You may choose to block the access to your computer by cookies, although you would be losing the benefits gained by using them.
+Your personal data will be processed by UNDANDY S.A. as the data controllers, and may also be processed by other Group companies acting under our instructions. 
 
-ii. By rejecting cookies, your ability to perform certain transactions on our site may be affected, as well as our web site’s ability to recognise your browser next time you visit.
+We may also retain the services of external suppliers to help meet our business needs and may share your data with these suppliers. These suppliers have been selected after a rigorous evaluation process and chosen for their security, reliability and competence. They will process your data only under our instructions. Some of these suppliers and some Group companies may be based in non-EU countries. Where this is the case, the transfer of your personal data to these countries is carried out in compliance with the guarantees provided by law.
 
-iii. Your Internet browser may be configured in order to prompt you every time you may want to block a specific website from sending a cookie to your computer, or to completely prevent cookies from being accepted at all.
+**How long do we keep your data?**
 
-iv. Undandy also works with vendors and partners who help deliver advertising and personalised content we think you might find of interest, by using cookies to collect information about your online activity on our own and on third party sites. For instance, by knowing you’ve visited a certain page within our web site, we may choose to show you an advertisement for a particular property, while you are browsing on a third party site. We may also choose to work with one of these partners in order to advertise our services to consumers whose online behaviour shows they might be interested in the Undandy offering.
+We will not retain your personal data for longer than is necessary to fulfil the purposes for which you provided that personal data, unless the law permits or requires that we retain it for longer. The retention period varies depending on the purpose of the processing. For example, the data collected during your purchase of goods on www.undandy.com are retained in accordance with local tax law (ten years in the Portugal), while those data used to send you our marketing communications are retained until you ask to be unsubscribed.
 
-v. You can opt out of any of these uses of cookies by our vendors, by visiting [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and[http://www.aboutads.info/choices](http://www.aboutads.info/choices).
+**What are your rights regarding your personal data?**
 
-vi. In order to make a visit to our site more attractive and to make it possible to use certain functions, we use what are known as cookies on various pages. These are small text files, which are stored in your terminal. Some of the cookies used by us are deleted at the end of a browser session, in other words once your browser has been switched off; these are known as session cookies. Other types of cookies remain on your terminal and allow us or our partner firms to recognise your browser the next time you visit our site (persistent cookies). You can configure your browser so that you will be informed of the placement of cookies and can decide on a case by case basis, whether to accept them or set your browser to refuse cookies generally or in certain cases. If a cookie is not accepted, the functionality of our web site may be restricted.
+Under the Law, you have the right to:
 
-vii. Deactivation of cookies, guidance for the most commonly used browsers is set out below. You can find further guidance in your instruction manual or on the website of the browser manufacturer. If wish cookies to be activated only for certain websites - in this case for the UNDANDY online shop - please proceed as follows (e.g. using Internet Explorer):
+  * Know what personal data of yours we are processing, where that data came from and how we are using that data;
+  * Ask us to update, correct or supplement the data we hold about you;
+  * Withdraw consent for processing for a specified purpose;
+  * Ask us to delete or erase your data from our systems;
+  * Limit or oppose our processing of your data;
+  * Ask us to supply the personal data we hold about you in an easy readable electronic format, or transfer that data direct to a third party nominated by you.
 
-7.ii.1. Select the "Extras" function in the upper menu bar;
 
-7.ii.2. In the submenu click on "Internet options" and then on "Data Protection";
 
-7.ii.3. In the lower section now select "Sites";
+You can exercise these rights at any time by emailing customercare@undandy.com, calling +351 210 497 840 or by writing to the Privacy Team at Undandy, S.A, Av. Eng. Duarte Pacheco, Amoreiras Torre 2, 10º Andar - Sala 4, 1070-102 Lisboa, Portugal.
 
-7.ii.4. Next enter [www.undandy.com](http://www.undandy.com/) and click on "Allow";
+If you believe that the processing of your personal data has been carried out unlawfully, you can file a complaint with the supervisory authority responsible for compliance with the rules on personal data protection in your jurisdiction. 
 
-7.ii.5. Finally simply confirm with “OK ".
+This Privacy Policy may undergo changes and additions from time to time. Where possible we will inform you of any changes, but please check the contents periodically. The date of issue and version number are shown at the beginning of the notice.
 
-7.Right of revocation
+**PRIVACY POLICY: UNDANDY**
 
-i. We send you by e-mail regular carefully selected offers for similar products from our range. You e-mail address will not be given to other companies; you can register your objection to the use of your e-mail address for promotional purposes at any time by sending an informal e-mail, without incurring any costs other than transmission costs at the basic rates.
+Welcome to the UNDANDY website.
 
-8\. Right to information and amendments
+At UNDANDY we are committed to protecting and respecting your privacy. This notice describes what personal data we collect, how we will use that data and how we keep your data safe. For additional information on how we use cookies please refer to our [Cookie Policy](https://www.mrporter.com/Help/CookiePolicy/#start). For all other information regarding our services, please refer to our [Terms & Conditions](https://www.mrporter.com/Help/TermsAndConditions/#start).
 
-i. At any time you are entitled, free of charge, to information and to have your stored data rectified, blocked and deleted. Please contact us on undandy[@Undandy.com](mailto:service@Undandy.com) or by post. If you have queries regarding the collection, processing or use of your personal data, and for information, rectification, blocking or deletion of data please contact: Undandy LDA Rua Jorge Castilho Lote 1613 11o. A 1900 272 Lisboa Portugal
+If you have a question that is not answered here, or if you would like more information about how we collect, use and store your personal data, you can contact us at any time by emailing customercare@undandy.com, calling +351 210 497 840 or writing to the Privacy Team at Undandy, S.A, Av. Eng. Duarte Pacheco, Amoreiras Torre 2, 10º Andar - Sala 4, 1070-102 Lisboa, Portugal.
 
-9\. Google Analytics
+In this Privacy Policy we will cover:
 
-i. This web site uses Google Analytics, a web analysis service of Google Inc. ("Google"). Google Analytics uses what are known as "cookies", text files, which are stored on your computer and make it possible to analyse the use of the web site. The data produced by the cookie concerning your use of this web site is usually transmitted to a Google server in the USA and stored there. In the event that IP anonymisation is activated on this web site however, your IP address will be abbreviated by Google within the Member States of the European Union or in other states which are contractual parties to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and abbreviated there. Google will use this information on behalf of the operator of this web site, in order to evaluate your use of the web site, in order to compile reports on web activities and in order to provide further services linked to use of the web site and of the Internet as regards the web site operator. The IP address of your browser, which is transmitted by Google Analytics, shall not be merged with other Google data. You can prevent the storage of cookies by configuring your browser software; however, we should like to point out that in this case it is possible that some of the functions on this web site may not operate to their full extent. In addition, you can prevent the data (including your IP address) produced by the cookie and related to your use of the web site being logged by Google and also prevent Google from processing this data by downloading and installing the browser plug-in available on the following link: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de\]).
+  1. [Who is the data controller? ](https://www.mrporter.com/Help/PrivacyPolicy/#a1)
+  2. [What personal data do we collect?](https://www.mrporter.com/Help/PrivacyPolicy/#a2)
+  3. [How do we use this personal data?](https://www.mrporter.com/Help/PrivacyPolicy/#a3)
+  4. [What is our legal basis for processing your personal data?](https://www.mrporter.com/Help/PrivacyPolicy/#a4)
+  5. [Who will process your data?](https://www.mrporter.com/Help/PrivacyPolicy/#a5)
+  6. [Do we transfer your personal data outside of the EU?](https://www.mrporter.com/Help/PrivacyPolicy/#a6)
+  7. [How long do we keep your personal data?](https://www.mrporter.com/Help/PrivacyPolicy/#a7)
+  8. [Your rights](https://www.mrporter.com/Help/PrivacyPolicy/#a8)
+  9. [Security measures](https://www.mrporter.com/Help/PrivacyPolicy/#a9)
+  10. [Complaints](https://www.mrporter.com/Help/PrivacyPolicy/#a10)
+  11. [Changes to this notice](https://www.mrporter.com/Help/PrivacyPolicy/#a11)
+  12. [Legislative reference and useful links](https://www.mrporter.com/Help/PrivacyPolicy/#a12)
 
-10\. New Relic
 
-i. On this website, a web analytics service provider called New Relic, collects and stores data, from which user profiles are created using pseudonyms. These user profiles are used to analyse visitor behaviour and to further improve and customise our online offering. Cookies may be used for this purpose. These are not text files that are stored locally on the user’s computer to enable user recognition when you visit our website. Without the express consent of the person concerned the pseudonymous user profiles are not aggregated with any personal data. You can opt out of the collection of data and its storage for the purpose of advertising at any time with immediate effect by contacting us at undandy@undandy.com
 
-11\. Use of Facebook Social Plug-ins
+**1\. WHO IS THE DATA CONTROLLER?**
 
-i. Our Internet presence uses social plug-ins from the [facebook.com](https://web.archive.org/web/20160307103705id_/http%3A//www.undandy.com/en/facebook.com) ("Facebook") social network. Facebook is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. Detailed guidance on the functions of the individual plug-ins and their appearance can be found on the following web site: <http://developers.facebook.com/docs/plugins/>
+Under the data protection law, the data controller is responsible for ensuring that your data is held securely, that you are given accurate information about how your data is used, and that your rights regarding your data are respected.
 
-ii. Those web sites of our Internet presence, which contain Facebook social plug-ins, connect your browser directly to the Facebook servers, if you have opened them. In this way the information that you have called up the social plug-in page of our Internet offer is transmitted to Facebook.
+The UNDANDY website is owned and run by UNDANDY S.A. The data controllers for any personal data we hold about you are Undandy, S.A, Av. Eng. Duarte Pacheco, Amoreiras Torre 2, 10º Andar - Sala 4, 1070-102 Lisboa, Portugal.
 
-iii. If you are logged on to Facebook at that time, your visit to our site and all your interactions regarding the social plug-in (e.g. clicking the "Like" button, creating a commentary etc.) can be added to your Facebook profile and stored by Facebook. Even if you do not have a Facebook profile, it cannot be excluded that Facebook will store your IP address.
+UNDANDY (referred to here as "we", "our", "us") is part of UNDANDY S.A. If we use the term "our Group", this means us and our subsidiaries, our ultimate holding company and its subsidiaries (or any of them). The term "our online services" refers to UNDANDY, our mobile and tablet applications, our pages on third party social media platforms such as Instagram, Facebook, Twitter, Pinterest and Google+ and any other websites or apps we own or run from time to time. The term "our services" refers to our online services and any of our other products and services offered from time to time. If you use any of our services, we will refer to you using the terms "user", "visitor", "you", "your", "yours" in this policy.
 
-iv. As regards the purpose and scope of the collection of data and the processing and use of the data by Facebook, we direct you to the Facebook data protection guidelines: <http://www.facebook.com/policy.php>. There you will find a summary of the setting options in your personal Facebook profile to protect your privacy and your related rights.
+Should you have any queries about our use of your personal data, please email customercare@undandy.com, calling +351 210 497 840 or write to the Privacy Team at Undandy, S.A, Av. Eng. Duarte Pacheco, Amoreiras Torre 2, 10º Andar - Sala 4, 1070-102 Lisboa, Portugal.
 
-v. In order to prevent Facebook from being able to collect the data specified above by means of your visit to our Internet offer and adding them to your Facebook account, log off from Facebook, before you visit our site. In order to prevent Facebook from gaining access to your data on our and other websites, you can exclude Facebook social plug-ins by means of an add-on for your browser (e.g. "Facebook Blocker", <http://webgraph.com/resources/facebookblocker>).
+**2\. WHAT PERSONAL DATA DO WE COLLECT?**
+
+We collect and process only the data that is required to allow us to provide our services to you. We collect the following data when you browse or shop at [www.undandy.com](http://www.undandy.com/):
+
+  * We process the personal data required to complete and despatch your purchase, including your name, billing address, delivery address, payment details, mobile number, telephone number and email address. We collect your email address in order to send you confirmation of your order; we collect your telephone number so that we can contact you if there are any issues with the order.
+  * We collect your email address when you sign up to receive our Newsletter.
+  * If you register for a UNDANDY account, we collect your name, email address, password, country and additional data regarding your designs and your marketing preferences.
+  * When you contact our Customer Care team, we may collect additional data to help us resolve any queries relating to your order, delivery, payments, marketing, the website or any other queries.
+  * We collect and process data about your browsing on [www.undandy.com](http://www.undandy.com/), including the pages you visit and how you interact with these pages. If you have registered for an account, we collect browsing data about your access to the dedicated areas of the website.
+  * If you are a customer of [www.undandy.com](http://www.undandy.com/), or if you have given us your consent, we collect and process your personal data for direct marketing activities.
+  * If you provide us with someone else's data - for example, if you purchase a product to be delivered to a friend or as a gift - we will collect and process the personal data required to complete the transaction such as the name, delivery address and other contact details for your friend.  
+If you are receiving an item as a gift, we will process your data only to fulfil the gift request and our contractual obligations.
+
+
+
+**3\. HOW DO WE USE THE PERSONAL DATA WE COLLECT?**
+
+We collect and process your personal data for the following purposes:
+
+  * When you purchase a product from [www.undandy.com](http://www.undandy.com/) we ask you for the personal data necessary to allow us to fulfil our contract with you including taking payment, any related anti-fraud checks if you choose to pay by credit/debit card, billing, shipping and delivery of the product and possible handling of the return.
+  * When you visit [www.undandy.com](http://www.undandy.com/), we will collect the minimum personal data necessary to allow us to provide you with the services of the website, such as placing and holding items in your shopping bag.
+  * When you visit [www.undandy.com](http://www.undandy.com/), we will use some data about your use of the website to help us improve the website and our promotion of the website. This will include data about how you came to the website; the date and time of your visit; products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction data (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+  * We also collect data about your use of [www.undandy.com](http://www.undandy.com/) by using cookies. More information about how we use cookies and how you can, if you wish, turn off cookies is included in our [Cookie Policy](https://www.mrporter.com/Help/CookiePolicy/#start).
+  * When you register on [www.undandy.com](http://www.undandy.com/), we will collect the data necessary to ensure that we can recognise you on return visits and provide you with the services registration offers, such as creating a Wish List or subscribing to emails about your favourite shoes. If you would prefer not to continue receiving these emails, you can unsubscribe at any time using the link on the bottom of the email, or by contacting our Customer Care team.
+  * When you sign up for our marketing communications, we will ask you for your email address. If you would prefer not to receive these emails, you can unsubscribe at any time using the link on the bottom of the email, or by contacting our Customer Care team.
+  * If you have purchased from [www.undandy.com](http://www.undandy.com/), we will use the personal data we hold about you, including your purchase history, to contact you regarding products and services that may be of interest to you. This contact will normally be via email, but in certain circumstances we may contact you via other methods e.g. we may call you if an item we know you have been eager to purchase comes back into stock. If you would prefer not to be contacted in this way, you can unsubscribe from emails at any time using the link on the bottom of the email, or update your contact preferences on [www.undandy.com](http://www.undandy.com/) or by contacting our Customer Care team.
+  * We analyse contact data, purchase history, web browsing data and lifestyle data to tailor our marketing communications, web site presentation and internet advertising to meet your preferences. For example, if you have been browsing or have previously purchased a particular shoe designer, we may send you an email to tell you that these are now on sale or display similar products to you as part of our internet advertising. 
+  * When you contact our Customer Care team, we will use the personal data you provide and that we have collected to respond to your requests for help or information.
+
+
+
+**4) WHAT IS OUR LEGAL BASIS FOR PROCESSING YOUR PERSONAL DATA?**
+
+Under the Law we must have a valid reason for using your personal data and we may not collect, store or use data about you that is not compatible with that reason. There are four valid reasons for our use of your personal data:
+
+  1. Most of the data we collect from you is necessary to allow us to fulfil our contract with you or to enter into a contract with you e.g. you provide a billing address and email address when your purchase an item from [www.undandy.com](http://www.undandy.com/) so that we can process your payment and send you your order confirmation. 
+  2. In certain circumstances we will ask for your permission or consent to use your personal data e.g. if we would like to send you marketing information about items we believe may be of interest to you via email. If you have given your consent to our use of your personal data, you are entitled to withdraw this consent at any time.
+  3. We may also have a legitimate interest in using your personal data e.g. to ensure that the content of our website is presented to you and your device as effectively as possible, or to ensure that our marketing communications are relevant to your interests. If this is our reason for using your data, we must make sure that our interests do not override yours and you are entitled to object to this use of your data.
+  4. Lastly, we may be required to use your data to meet a legal obligation or to protect your interests e.g. we may exchange data with other specialist organisations for the purposes of fraud detection and credit risk reduction and we will retain financial data long term to meet our statutory obligations.
+  5. 
+
+
+The legal basis for each of the ways in which we use your personal data is as follows:
+
+**Our use of your data**
+
+| 
+
+**Our legal basis for processing**  
+  
+---|---  
+  
+a) When you purchase a product from [www.undandy.com](http://www.undandy.com/) we ask you for the personal data necessary to allow us to fulfil our contract with you including taking payment, completing any related anti-fraud checks if you choose to pay by credit/debit card, billing, shipping and delivery of the product and possible handling of the return.
+
+| 
+
+The provision of your personal data for these activities is a contractual obligation. You are free to communicate your data or not, but in the absence of the requested data it will not be possible to finalise or execute the contract and your requests. This means that while you will continue to be able to browse [www.undandy.com](http://www.undandy.com/), you will not be able to purchase products and you will not be able to use the services of our website such as the Wish List.  
+  
+a) When you purchase a product from [www.undandy.com](http://www.undandy.com/), we ask you for the personal data necessary to allow us to fulfil our contract with you including taking payment, any related anti-fraud checks if you choose to pay by credit/debit card, billing, shipping and delivery of the product and possible handling of the return.
+
+| 
+
+When you make a purchase at [www.undandy.com](http://www.undandy.com/), we are required to process your personal data to meet our legal obligations in accordance with the tax provisions and other statutory rules which apply.  
+You are free to decide whether or not to purchase from us, but if you do make a purchase this use of your data will be necessary to meet our legal obligations.  
+  
+a) When you purchase a product from [www.undandy.com](http://www.undandy.com/), we ask you for the personal data necessary to allow us to fulfil our contract with you including taking payment, any related anti-fraud checks if you choose to pay by credit/debit card, billing, shipping and delivery of the product and possible handling of the return.
+
+| 
+
+When you make a purchase at [www.undandy.com](http://www.undandy.com/), we will use some of your personal data to carry out anti-fraud activities: we have a legitimate interest in carrying out this activity to prevent and prosecute any fraudulent activity.  
+  
+b) When you visit [www.undandy.com](http://www.undandy.com/), we will collect the personal data necessary to allow us to provide you with the services of the website, such as placing and holding items in your shopping bag. 
+
+| 
+
+Our use of your data is necessary for our legitimate interest in ensuring that the service we provide to you is managed correctly.  
+  
+c) When you visit [www.undandy.com](http://www.undandy.com/), we will use some data about your use of the website to help us improve the website and our promotion of the website. This will include data about how you came to the website; the date and time of your visit; products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction data (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+
+| 
+
+Our use of your data is necessary for our legitimate interest in ensuring that the service we provide to you is managed correctly.  
+  
+d) We also collect data about your use of [www.undandy.com](http://www.undandy.com/) by using cookies. More information about how we use cookies and how you can, if you wish, turn off cookies is included in our Cookie Policy.
+
+| 
+
+You have given your consent to our use of cookies via the cookie banner that appears on the website. You can choose which cookies to accept via our Cookie Policy. Some cookies are necessary for our legitimate interest in ensuring that the service we provide to you is administered correctly e.g. retaining items in your shopping basket.  
+  
+e) When you register on [www.undandy.com](http://www.undandy.com/), we will collect the data necessary to ensure that we can recognise you on return visits and provide you with the services registration offers, such as creating a Wish List or subscribing to emails about your favourite designers. If you would prefer not to continue receiving these emails, you can unsubscribe at any time using the link on the bottom of the email, or by contacting our Customer Care team.
+
+| 
+
+The provision of your personal data for these activities is a contractual obligation. You are free to communicate your data or not, but in the absence of the requested data it will not be possible to finalise or execute the contract and your requests. This means that while you will continue to be able to browse [www.undandy.com](http://www.undandy.com/), you will not be able to use the services of our website such as the wish list or alerts about deliveries from your favourite designers.  
+  
+f) When you sign up for our marketing communications, we will ask you for your email address to enable delivery of our marketing communications. If you would prefer not to receive these emails, you can unsubscribe at any time using the link on the bottom of the email, or by contacting our Customer Care team.
+
+| 
+
+You have given your consent and asked us to send you our marketing communications.  
+  
+g) If you have purchased from [www.undandy.com](http://www.undandy.com/), we will use the personal data we hold about you, including your purchase history, to contact you regarding products and services that may be of interest to you. This contact will normally be via email, but in certain circumstances we may contact you via other methods e.g. we may call you if an item you have been eager to purchase comes back into stock. If you would prefer not to be contacted in this way, you can unsubscribe from emails at any time using the link on the bottom of the email or update your preferences via [www.undandy.com](http://www.undandy.com/) or by contacting our Customer Care team.
+
+| 
+
+Our use of your data is necessary for our legitimate interest in ensuring that you receive information about goods and services that may be of interest to you.  
+  
+h) We analyse contact data, purchase histories, web browsing data and lifestyle data to tailor our marketing communications, web site presentation and internet advertising to meet your preferences. For example, if you have been browsing or have previously purchased a particular product, we may send you an email to tell you that these are now on sale or display similar products to you as part of our internet advertising.
+
+| 
+
+Our use of your data is necessary for our legitimate interest in ensuring that you receive information about goods and services that may be of interest to you.  
+  
+i) When you contact our Customer Care team, we will use the personal data you provide and that we have collected to respond to your requests for help or information.
+
+| 
+
+The provision of your personal data for these activities is a contractual obligation. You are free to communicate your data or not, but in the absence of the requested data it will not be possible to finalise or execute the contract and your requests.  
+  
+**5) WHO WILL PROCESS YOUR DATA?**
+
+Your personal data will be processed by the internal staff of UNDANDY S.A. who have been specifically trained and authorised for this processing. In carrying out the processing, the data may also be transmitted to companies belonging UNDANDY S.A.
+
+Your personal data will also be transmitted to third parties that we use to provide our services; these parties have been rigorously assessed and offer a guarantee of compliance with the legislation on the processing of personal data. These parties have been designated as data processors and carry out their activities according to the instructions given by UNDANDY S.A.
+
+The third parties in question belong to the following categories: banking operators, internet providers, companies specialising in IT and telematics services; couriers; companies that carry out marketing activities; companies specialising in market research and data processing; companies offering contact centre services; companies providing publishing and distribution services.
+
+Under some circumstances we may be required to disclose or share your data without your consent, for example if we are required by the police, the courts or for other legal reasons. Your data may be transmitted to the police, judicial and administrative authorities, in accordance with the law, for the investigation and prosecution of crimes, the prevention of and protection from threats to public security, to allow UNDANDY to ascertain, exercise or defend a right in court, as well as for other reasons related to the protection of the rights and freedoms of others.
+
+We may also transfer your personal data to a buyer or potential buyer in the event that our assets are acquired by another organisation. The purchaser will be required by law to use your personal data only as described in this Privacy Policy
+
+**6) DATA TRANSFER OUTSIDE THE EUROPEAN UNION**
+
+Some of the third parties listed in the previous paragraph 'Who will process your data?' may be located in countries outside the European Union that nevertheless offer an adequate level of data protection, as established by specific decisions of the European Commission ([https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en))
+
+The transfer of your personal data to countries that do not belong to the European Union and that have not been assessed as offering adequate levels of protection will be performed only: 
+
+  1. after the completion between UNDANDY S.A. and said parties of specific agreements containing safeguard clauses and appropriate guarantees for the protection of your personal data (known as "standard contractual clauses" and approved by the European Commission), or
+  2. if the transfer is necessary for the completion and execution of a contract between you and UNDANDY S.A. (for the purchase of goods offered on our website, for registration on the website or use of services on the website), or
+  3. for the management of your requests.
+
+
+
+7) HOW LONG DO WE KEEP YOUR DATA?
+
+We keep your personal data for a limited period of time in line with our data retention policy. The specific retention period will vary according to the reason for processing your personal data. After this period, your data will be permanently erased or otherwise irreversibly rendered anonymous.
+
+Your personal data are retained in accordance with the following criteria: When you have purchased goods from [www.undandy.com](http://www.undandy.com/), we will retain the billing data until the end of the relevant accounting period, normally ten years from the billing date;
+
+When you make a payment, we will retain your payment details up to the certification of the payment and the completion of the relevant administrative-accounting formalities regarding your right of withdrawal and the terms applied for the disputing of the payment;
+
+When you provide us with personal data in order to use the services of [www.undandy.com](http://www.undandy.com/), such as marketing communications, we will keep your data for this purpose until the termination of the service or until you cancel your subscription to the service;
+
+When you give us your consent to send you marketing communications, you can withdraw your consent at any time. We will consider your consent to be current for five years from your last interaction with any email that we send you from [www.undandy.com](http://www.undandy.com/).
+
+When we use your personal data and browsing history to analyse your behaviour in order to customise the website and to show you personalised sales offers, we will keep the data for analytical purposes until you ask us to delete it;
+
+When we use personal data for market research and satisfaction surveys, we will keep the data until you ask us to stop.
+
+**8) YOUR RIGHTS**
+
+You have the right to request a copy of the data that we hold about you (and we will provide this to you free of charge once we have confirmed your identity).
+
+If you would like a copy of some or all of your personal data, please email or write to us using the contact details in this policy.
+
+If we do hold data about you we will: 
+
+  * give you a description of it 
+  * tell you why we are holding it 
+  * tell you who it could be shared with 
+  * tell you how long we will keep the data
+  * if the data was not provided by you, we will give you any available information such as the source of the data 
+  * tell you if the data has been used for automated decision making
+  * tell you if the data is stored outside of the European Economic Area, and if so what safeguards are in place to protect your personal data
+  * let you have a concise and clear copy of the data 
+
+
+
+You have the right to ask us to correct any inaccuracies in the personal data we hold about you and to stop us using your data until it has been corrected. We want to make sure that your personal data is accurate and up to date and we will be happy to correct or remove data you think is inaccurate. 
+
+If you have given us your consent to use your personal data for marketing, you have the right to withdraw your consent at any time by calling our Customer Care team, clicking "unsubscribe" on a marketing email. You may receive a small number of further communications immediately after unsubscribing but we will implement your request as quickly as possible.
+
+You have the right at any time to oppose our processing of your personal data on the basis of our legitimate interest. You will need to explain the reasons behind your request and allow us to consider your request and respond.
+
+You have the right to request the deletion of your personal data. After receiving and reviewing your request, if legitimate it will be our responsibility to promptly cease processing and to delete your personal data.
+
+You have the right to receive a copy of your data that we process based on your consent or on the basis of a contract with you in a standard format. If you wish, where technically possible, we can transfer your data directly to a third party indicated by you.
+
+To exercise any of these rights,  contact our Customer Care team at [customercare@undandy.com](mailto:customercare@undandy.com), call +351 210 497 840, or write to Undandy, S.A., Av. Eng. Duarte Pacheco, Amoreiras Torre 2, 10º Andar - Sala 4, 1070-102 Lisboa, Portugal.
+
+To ensure that the data of our users are not subject to breaches or illegitimate use by third parties, we will ask you to confirm your identity before carrying out your request.
+
+**9) SECURITY**
+
+We protect your personal data with specific technical and organisational security measures aimed at preventing your personal data from being used illegitimately or fraudulently.
+
+In particular, we use security measures that guarantee: pseudonymisation or encryption of your data; the confidentiality, integrity, and availability of your data as well as the resilience of the systems and services that process them; 
+
+Furthermore, UNDANDY undertakes to test, verify and regularly evaluate the effectiveness of technical and organizational measures in order to guarantee continuous improvement in the safety of processing.
+
+**10) COMPLAINTS**
+
+If you believe that UNDANDY S.A. is processing your personal data in contravention of the Law, you can file a complaint with the supervisory authority responsible for compliance with the rules on personal data protection. 
+
+**11) CHANGES TO THIS NOTICE**
+
+We keep our Privacy Policy under regular review in order to reflect changes in our services and in privacy regulation. This Privacy Policy was last updated on 16 May 2018
+
+**12) LEGISLATIVE REFERENCES AND USEFUL LINKS.**
+
+The processing of your personal data is carried out by UNDANDY S.A. in compliance with the Regulation (EU) 2016/679 general regulation on data protection.
+
+**PRIVACY POLICY - OTHER REGIONS**
+
+This website is owned and run by UNDANDY S.A. If we use the term "our Group", this means us and our subsidiaries, our ultimate holding company and its subsidiaries (or any of them). The term "our online services" refers to UNDANDY S.A, our mobile and tablet applications, our pages on third party social media platforms such as Instagram, Facebook, Twitter, Pinterest and Google+ and any other websites or apps we own or run from time to time. The term "our services" refers to our online services and any of our other products and services, offered from time to time. If you use any of our services, we will refer to you using the terms "user", "visitor", "you", "your", "yours" in this policy.
+
+We respect the privacy rights of our visitors and recognise the importance of protecting the information collected about them. This privacy policy is about how we collect, store, and use the personal information that you provide to us. 
+
+This privacy policy explains:
+
+  * [What personal information do we collect from you and how?](https://www.mrporter.com/Help/PrivacyPolicy/#1)
+  * [What about cookies? What are cookies?](https://www.mrporter.com/Help/PrivacyPolicy/#2)
+  * [How this information may be used](https://www.mrporter.com/Help/PrivacyPolicy/#3)
+  * [Who we will share your personal information with](https://www.mrporter.com/Help/PrivacyPolicy/#4)
+  * [Where we process your personal information](https://www.mrporter.com/Help/PrivacyPolicy/#5)
+  * [Marketing opt-in and opt-out provisions](https://www.mrporter.com/Help/PrivacyPolicy/#6)
+  * [How you can access your personal information and keep it up to date](https://www.mrporter.com/Help/PrivacyPolicy/#7)
+  * [Safeguarding your personal information](https://www.mrporter.com/Help/PrivacyPolicy/#8)
+  * [Why we link to other websites](https://www.mrporter.com/Help/PrivacyPolicy/#9)
+  * [How we can make changes to this policy](https://www.mrporter.com/Help/PrivacyPolicy/#10)
+  * [Where and how to ask questions or contact us about this policy](https://www.mrporter.com/Help/PrivacyPolicy/#11)
+
+
+
+If you are under 16, you must inform a parent or guardian about our privacy policy to obtain their agreement to the privacy policy before registering, subscribing or placing an order with us.
+
+**WHAT PERSONAL INFORMATION DO WE COLLECT FROM YOU AND HOW?**
+
+We collect personal information about you when you register or subscribe for one of our services, place an order, buy a gift voucher, use our online services, interact with us in any other way, such as via social media, click on an advert that we put on our or someone else's website, ask for information or assistance, give us a testimonial or other feedback, comment on any blogs or articles featured in our services, attend an event that we run or sponsor, enter competitions or special promotions, sign up for our special offers or other updates, participate in research panels or fill in surveys. By registering, subscribing or using our services, you consent to the use of your personal data in line with this policy. We may also receive information about you from our Group and from third parties, with whom we have a business relationship.
+
+The information we collect and hold about you may include your name, email address, phone and mobile phone numbers, home address, shipping and payment card billing address, payment card details, IP address, search criteria, shopping history, shopping preferences, sizings, responses to research panels and surveys, the type of browser you use (a browser is the program you use to look at websites, such as Internet Explorer, Firefox or Safari), the times when you access the site and for how long, your referring URL (the site you come from to reach our website), cell IDs (these are the unique identifiers of the telecommunications towers being used by your mobile phone when you use our locations-based services on your mobile phone or tablet) and other location information (for example, GPS measurements), photographs and other content you share with us when you use our services, date of birth, password details, answers to security questions and any other information you may give us.
+
+We may record or monitor calls that you receive from us or make to us. We do this for security and training purposes, and to improve the services we provide to you.
+
+**HOW WE USE COOKIES**
+
+We and our business partners collect information about your use of our online services using cookies. Cookies are very small files that are sent by us to your computer or other device which we can access when you visit our site in future. Cookies help us remember who you are and other information about your visits. They can help display the information on a website in a way that matches your interests. Most major websites use cookies. For more information about how we use cookies, please read our [cookie policy](https://www.mrporter.com/Help/CookiePolicy).
+
+**HOW THIS INFORMATION MAY BE USED**
+
+Whenever you give us your personal information we will use it in accordance with applicable privacy laws and for the purposes set out in this policy, on the data entry forms you complete, in any relevant terms and conditions and on pages or emails which link to the data entry forms.
+
+**When you use our services:**
+
+If you use any of our services, register for or attend one of our events, set up, look at or change your account details or contact your personal shopper or a member of our Customer Care team, we will record your personal details. Your information will be used in the first place to provide the products, services or information you have asked for and to provide you with a personalized shopping experience. We keep the information you provide and may use it for several purposes, including: (i) accounting, billing, reporting and audit; (ii) credit checking or screening; (iii) authentication and identity checks; (iv) credit, debit or other payment card verification and screening; (v) debt collection; (vi) safety, security, health, training, administrative and legal purposes; (vii) data matching and dedupe, statistical and market analysis, and marketing information; (viii) advertising and marketing for us, our Group and third parties; (ix) developing, testing and maintaining systems; (x) studies, research and development; (xi) customer surveys; (xii) customer care and to help us in any future dealings with you, for example by identifying your requirements and preferences; (xiii) where required by law or in connection with legal proceeding or disputes; and (iv) any other uses set out in the terms and conditions for use of our services. For these purposes we may disclose your information to one or more of the other organisations listed in the section called "who we will share your personal information with".
+
+Saved payment card details will only be shared with our payment partner and not with any other third parties and will only be used to process your order, using our payment partner's systems.
+
+We may also use your personal information to send you marketing updates, as detailed in the next section.
+
+**Tracking how our online services are used:  **
+
+We collect, and use third parties to collect and share with us, information from lots of visitors to our online services and analyse it to build up a picture of how people use our websites. This helps us improve the services we offer. We may also give anonymous statistics about visitors to other, reputable organisations, but the information we provide will not include details that would allow these organisations to identify you. For more information on our use of cookies, please read our [cookie policy](https://www.mrporter.com/Help/CookiePolicy). 
+
+**Customization of our online services and advert targeting:**
+
+We may use the information you give us about yourself and the information we collect via cookies when you use our online services to build up a picture of your interests. We may then use this information to try to make sure that when we send you marketing communications and when you visit our websites or use our online services, you don't miss offers and information that might interest you. This information may also be used by our third party advertising agencies and networks, to advertise our own or third party products and services to you when you visit third party websites and online services. This is called advert targeting or interest-based advertising. For more information on how to reject targeted advertising or interest-based advertising cookies please read our [cookie policy](https://www.mrporter.com/Help/CookiePolicy). 
+
+**Testimonials:**
+
+If you give us feedback, we may use it to improve our services and we may publish it online or offline to promote our business and our services. We will ask for your permission before we publish it.
+
+**Comments and reviews submitted to our online services:**
+
+If you wish to submit a comment or feedback on a blog or article featured on our services, we may (but are not obliged to) publish your comment online or offline to promote our business and our services. We will collect your name or username which will be displayed next to your comment and e-mail address, which will not be published, but which we may use to contact you in relation to your comment.
+
+**Social networks:**
+
+If you follow us or interact with us on any of our pages on third party social media platforms, such as Instagram, Facebook, Twitter, Pinterest and Google+, information you provide will be subject to the third party's privacy policy, as well as this privacy policy.
+
+**Direct marketing:  **
+
+For information on how we may market to you, please read the section called "marketing opt-in and opt-out provisions".
+
+**Customer surveys:  **
+
+Every now and again, we may ask you for your opinion on our services and the products you have purchased through our services. When we do research or surveys, we may use cookies and may combine the information collected by those cookies with your answers. 
+
+**WHO WE WILL SHARE YOUR PERSONAL INFORMATION WITH**
+
+We will share your information with other companies in UNDANDY, who may use it for their own business purposes, as set out in their privacy policy. These purposes may include financial reporting and analysis, strategic planning, the development of customer segmentation and metrics to provide a consistent view of our customer base, research and analytics, to help us source the right products in future and make better product recommendations, more effective targeting of our marketing campaigns, the creation of inspiring content and editorial features, the development of new products and collaboration opportunities with designer brands. It will also be used to provide more tailored marketing by phone, post, email, SMS or any other means (electronic or otherwise) and you expressly agree to such use.
+
+From time to time, we may engage third party business partners to provide information about you or to collect personal information on our behalf. We may also share or match your data with third party business partners to provide you with the products, services or information you ask for or for interest-based advertising. We may pass your information onto one or more of the following organisations: (i) data processing companies, mailing houses and other third party suppliers working on our Group's behalf; (ii) ad-serving agencies and other advertising intermediaries; (iii) credit reference or fraud prevention agencies, which may keep a record of that information; (iv) research students, universities and other research and development organisations; (v) regulatory bodies, government and enforcement agencies, such as the police.
+
+Every now and again, we receive requests for information from government departments, the police and other enforcement agencies. If this happens, and there is a proper legal basis for providing your personal information, we will provide it to the organisation asking for it.
+
+We collate information about site traffic, sales, wish lists, and other commercial information which we may pass onto third parties, but this information does not include any details which can identify you personally.
+
+**WHERE WE PROCESS YOUR PERSONAL INFORMATION**
+
+When we use your information as described in this policy, this may involve sending your information outside the European Economic Area (EEA). When we do this, we make sure that appropriate steps are taken to protect your personal information and your rights. By providing us with your personal information, you agree that we may transfer, store and process your information outside the EEA. Governments in certain countries such as the USA have broad powers to access data for security, crime prevention and detection and law enforcement purposes.
+
+**MARKETING OPT-IN AND OPT-OUT PROVISION**
+
+We offer you the chance to receive news and fashion updates which, depending on your preferences, we will discuss with you by phone or live chat or send to you via email, SMS and/or direct mail. These include alerts for new products, features, enhancements, special offers, upgrade opportunities, contests, events of interest, and one-off marketing promotions. You can opt-out of receiving these updates, if you wish.
+
+We, or our third party business partners, may also ask you if you want to receive marketing if you enter a promotion or attend an event thrown or sponsored by us. Other companies in our Group may also pass your personal information to us for marketing use. 
+
+Marketing communications you subscribe to will only be sent by Undandy.
+
+You have the right to ask us not to use your personal information for marketing. At all times, we will offer you the opportunity to unsubscribe from any service or update to which you have subscribed, if you change your mind. Whenever you receive direct marketing from us, we will tell you how to unsubscribe. Alternatively you can change your marketing preferences by logging into My Account. To opt out of direct mail, please contact our Customer Care team:  [customercare@undandy.com](mailto:customercare@undandy.com), calling +351 210 497 840, or  write to Undandy, S.A., Av. Eng. Duarte Pacheco, Amoreiras Torre 2, 10º Andar - Sala 4, 1070-102 Lisboa, Portugal
+
+**HOW YOU CAN ACCESS YOUR PERSONAL INFORMATION AND KEEP IT UP TO DATE**
+
+You have the right to see information we hold about you, with some exceptions which are described in the privacy laws. If you would like a copy of your personal information, please contact our privacy officer at customercare@undandy.com. You will need to pay a processing fee.
+
+You have the right to review and update your personal details. If for any reason you are concerned that the personal information we hold is not correct, you may contact us by email at [customercare@undandy.com](mailto:customercare@undandy.com) and we will amend your personal details.
+
+Our Live Chat provider stores all chat conversations for 12 months. To receive a copy of your chat conversation simply request this when exiting Live Chat or contact our Customer Care team by emailing customercare@undandy.com.
+
+**SAFEGUARDING YOUR PERSONAL INFORMATION**
+
+We will take reasonable care to maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided to us. We have put in place technology and security policies which are designed to protect the personal information we hold about you. We also follow the security procedures that applicable privacy laws require. These cover storing, using and releasing any information you have provided and, as well as measures designed to prevent unauthorised access or use. When you place an order or access your account information, we use a Secure Socket Layer (SSL) encryption which encrypts your information before it is sent to us to protect it from unauthorised use.
+
+**WHY WE LINK TO OTHER WEBSITES**
+
+Our online services contain hyperlinks to websites that are owned and operated by other organisations. These websites have their own privacy and cookie policies, and we urge you to read them. They control how your personal information is used when you give it to these other organisations or they collect it with cookies. We do not approve any other websites and we are not responsible for any information, material, products or services that are on or accessible through those websites or for the privacy practices of websites run by other organisations. If you use these other websites you do so at your own risk.
+
+**HOW WE CAN MAKE CHANGES TO THIS POLICY**
+
+We may update this privacy policy from time to time so you may want to check it each time you give us personal information or use our websites.
+
+**WHERE AND HOW TO ASK QUESTIONS OR CONTACT US ABOUT THIS POLICY**
+
+If you require further information about our privacy policy, please go to the help section of our websites where frequently asked questions (FAQ's) are answered. We welcome your questions, comments and requests about this privacy policy. If you require more information, please contact our privacy officer at [customercare@undandy.com](mailto:customercare@undandy.com). 
+
+If you wish to talk to a Customer Care representative, please call: +351 210 497 840 or write to Undandy, S.A., Av. Eng. Duarte Pacheco, Amoreiras Torre 2, 10º Andar - Sala 4, 1070-102 Lisboa, Portugal.
+
+Last updated 16 May 2018.
