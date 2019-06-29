@@ -1,34 +1,25 @@
-> *The following text is extracted and transformed from the kswiss.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323044317id_/http%3A//www.kswiss.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kswiss.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629130520id_/https%3A//kswiss.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# K-Swiss
+# Privacy Policy - K-Swiss
 
-## What Personal Information We Collect
+* K-Swiss uses cookies only to allow you to use the kswiss.com website in the most efficient manner. Cookies allow us to enhance and personalize your online browsing and shopping experience. By way of example, our use of cookies enable us to “remember” the items in your shopping cart, recognize you when you return to the site, and collect other non-personal identifiable information to analyze visitor behavior such as IP address, browser type and other unique device identifiers.
 
-K-Swiss, Inc. and its affiliates (collectively, “K-Swiss” or “We”) may collect your personal information for various purposes when you visit the K-Swiss.com website (the “Site”). For example:
+If you wish, you may have your computer warn you each time a cookie is being sent, or you may choose to turn off all cookies. You do this through your browser settings. Please note, however, that by deleting our cookies or disabling future cookies, you may not be able to access certain areas or features of our website.
 
-## Membership
+We also work with other companies who use tracking technologies, including web beacons, to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visit to our website and about your interaction with our communications, including advertising and e-mails. If you object to web beacons, you may follow the instructions for deleting existing cookies and disabling future cookies. We will still know how many of our e-mails are opened and we will automatically receive your IP address, a unique identifier for your computer or other access devices, but we will not identify you as an individual.
 
-If you want to register an account on the site, you will need to provide us with certain contact details and other information about yourself. We want you to know how we limit collection and use of this information and how we restrict the collection of it. These same rules and restrictions apply to all information that you give to us when you place an order on this website.
+* Except as described in this Privacy Policy, K-Swiss does not sell, rent or trade any personal information you provide to us online or at our stores, nor do we share such information with third parties. We may disclose personal information about you to third parties who provide services to us and who agree to maintain the confidentiality of such information in accordance with this Privacy Policy.
 
-## Preferred Customers
+Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfilment and shipping, marketing and promotional material distribution, website evaluation, data analysis and, where applicable, data cleansing. We may need to share personal information with these third parties so that they can perform these services; however, we limit the personal information that we give to them and authorize them to use this information only for the purpose of performing those services.
 
-In order to become a Preferred Customer, you must first complete the registration form. During registration you are required to give personal contact information (such as name and email address). This information is used to reward loyal customers for their business. By becoming a Preferred Customer, you are able to take advantage of special offers we make available to Preferred Customers about new promotions, fashion trends, etc. It is also more convenient for a Preferred Customer to make purchases online.
+In proceeding with your online order, you agree that both your name and address and those of the delivery name and address (if different) will be checked using third parties such as credit agencies. If you are providing a delivery name and address that is not your own, you must have that person’s permission to give us their personal information and for us to use it for the purposes specified. By providing their name and address, you are telling us that you have their permission.
 
-## Orders
+We share aggregated demographic information about our user base with certain business agents and vendors, so that they can provide marketing analysis and advise us on advertising strategies. This information does not identify individual users. From time to time, we also may share non-personal information (such as the number of users who visited the website during a specific time period or who purchased a specific product through the website) with our marketing partners, advertisers and others. This information is usually shared in an aggregated form.
 
-We request information from you on our order form. Here you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customers’ orders. If we have trouble processing an order, this contact information is used to get in touch with you.
+We may release personal information if we believe in good faith that: the law or legal process requires it; if we have been advised by counsel; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of K-Swiss or any of our respective affiliates, business partners, customers or others.
 
-## If You Are Under 13 Years Old
+As with any business, it is possible that as our business develops, we might go through a business transition, such as a merger, acquisition by another company, sale of all or a portion of our assets or the purchase of online stores or other assets. In such cases, information about customers will likely be transferred. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the privacy policy in effect.
 
-If you are under 13 years old, please get the consent of your parent or legal guardian before you give us any personal information about yourself by way e-mail or any other Internet means. Your parents or guardian can send us their consent by e-mail, although we may follow up by phone or other means in some circumstances. They will need to give us their name, e-mail address, street address, telephone number, and any other identifying information that we may request. We need this information in order to verify that they have provided the necessary consent. Your parent or guardian should contact us by using the e-mail address: KSCS@K-SWISS.COM. 
+Personal information submitted to or collected through this website may be stored and/or processed in the United States for the purposes described in this privacy policy. By using K-Swiss products and services (including our website), you consent to any such transfer of information outside of your country.
 
-IF YOU ARE UNDER 13 YEARS OLD, DO NOT CONTACT US UNTIL AFTER YOUR PARENT OR GUARDIAN HAS SENT US AN E-MAIL CONSENTING TO YOUR CONTACT. 
-
-## Google
-
-**K-Swiss Policy on Customer Information**  
-We do not sell personal information to any third party, nor do we have any plans to do so. However, we may share your personal information with our agents, representatives, service providers and contractors for limited purposes, including but not limited to, fulfilling customer orders; offering certain products and services in connection with this Site; communicating to customers; providing customer service; enhancing and improving customers’ shopping experience; administering or facilitating surveys, contests or sweepstakes; offering targeted marketing communications to users; providing a personalized shopping experience; preventing fraud; and completing payment processing. 
-
-Our database of personal information is a valuable asset. Therefore, if we sell or transfer an affiliate, business or line of business, we may transfer personal information used or held by that affiliate or business or used in connection with that line of business to the buyer, so long as the buyer agrees that the personal information we transfer will remain subject to this privacy policy.
-
-Of course, we may disclose your personal information if you give us permission or under special circumstances, such as when we believe in good faith that the disclosure is required to prevent harm or injury (such as product recalls, fraud, claims or other liability), or to comply with legal processes (subpoenas, warrants) or as otherwise required by law.
+If you would like to opt-out of receiving ads tailored by 3rd party tracking technologies associated with our website, please click here. If you opt-out from these third party tracking technologies, you may still see our ads at other websites, but the ads will not be tailored using third party tracking technologies associated with our website.
