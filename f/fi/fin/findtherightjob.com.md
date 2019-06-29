@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findtherightjob.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228020619id_/http%3A//www.findtherightjob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtherightjob.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629055533id_/http%3A//findtherightjob.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
