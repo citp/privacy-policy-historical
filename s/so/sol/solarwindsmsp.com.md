@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the solarwindsmsp.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004190810id_/https%3A//www.solarwindsmsp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarwindsmsp.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629213715id_/https%3A//www.solarwindsmsp.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | SolarWinds MSP
 
 SolarWinds is committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate or other events, and business partners. The following privacy notices explain our privacy practices related to these activities and how SolarWinds may collect, use, and/or share personal data.
 
-[**GDPR Statement** :](https://www.solarwindsmsp.com/resources/gdpr) The EU General Data Protection Regulation (GDPR), enforceable as of May 25, 2018, imposes additional requirements upon companies to strengthen the security around and enhance the protection of personal data of EU residents. We discuss SolarWinds' efforts and commitment to GDPR in the [SolarWinds GDPR Resource Center](https://www.solarwindsmsp.com/resources/gdpr)
+[**GDPR Statement** :](https://web.archive.org/resources/gdpr) The EU General Data Protection Regulation (GDPR), enforceable as of May 25, 2018, imposes additional requirements upon companies to strengthen the security around and enhance the protection of personal data of EU residents. We discuss SolarWinds' efforts and commitment to GDPR in the [SolarWinds GDPR Resource Center](https://web.archive.org/resources/gdpr)
 
-[**Privacy Notice** :](https://www.solarwindsmsp.com/legal/privacy) SolarWinds is committed to protecting the privacy of those involved in its business. This Privacy Notice is meant to help you understand, among other things, what personal data we collect, why we collect it, and what we do with it.
+[**Privacy Notice** :](https://web.archive.org/legal/privacy) SolarWinds is committed to protecting the privacy of those involved in its business. This Privacy Notice is meant to help you understand, among other things, what personal data we collect, why we collect it, and what we do with it.
 
-[**Cookie Policy** :](https://www.solarwindsmsp.com/legal/cookie-policy) This Cookie Policy addresses how we use cookies when you visit SolarWinds. We want to be clear about how we collect and use data related to you via cookies.
+[**Cookie Policy** :](https://web.archive.org/legal/cookie-policy) This Cookie Policy addresses how we use cookies when you visit SolarWinds. We want to be clear about how we collect and use data related to you via cookies.
 
 ### **PRIVACY NOTICE**
 
@@ -78,7 +78,7 @@ _Other Data_. SolarWinds collects, uses and maintains certain data related to it
 
 ### **Cookies**
 
-Our Sites use cookies. More information about our use of cookies can be found in our Cookie Policy at [ **www.solarwindsmsp.com/legal/cookie-policy**](https://www.solarwindsmsp.com/legal/cookie-policy).
+Our Sites use cookies. More information about our use of cookies can be found in our Cookie Policy at [ **www.solarwindsmsp.com/legal/cookie-policy**](https://web.archive.org/legal/cookie-policy).
 
 ### **Use of Personal Data**
 
