@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regus.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009160332id_/https%3A//www.regus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regus.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629204710id_/https%3A//www.regus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Regus US
 
