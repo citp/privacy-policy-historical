@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get4x.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113160241id_/https%3A//get4x.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get4x.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629200257id_/https%3A//get4x.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Get4x
 
@@ -39,7 +39,7 @@ The information is not provided to these companies for marketing purposes.
 **Commitment to Data Security.** Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this Site and Mobile Applications allow you to opt out of further mailings.
 
 **Privacy Contact Information.** If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below.  
-Email: [contact@get4x.com](mailto:contact@get4x.com)  
+Email: [feedback@get4x.com](mailto:feedback@get4x.com)  
 Address: 4xLabs Pte Ltd , 37A HongKong Street, Singapore 059676
 
 **Legal Jurisdiction.** All matters related to the site and mobile applications will be governed by the laws of Singapore, without regard to conflicts of laws provisions. You therefore agree to submit to the exclusive jurisdiction of Singapore Courts.
