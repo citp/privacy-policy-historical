@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijadailies.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627110631id_/http%3A//www.naijadailies.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijadailies.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629054315id_/https%3A//www.naijadailies.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Naija Dailies: Privacy Policy
 
@@ -50,7 +50,7 @@ Fax numbers of NaijaDailies.com subscribers are used by NaijaDailies.com to coll
 
 E-mail addresses of NaijaDailies.com subscribers are used for re-qualification purposes. These e-mail addresses may also be used to collect feedback by members of our editorial or research team, to promote NaijaDailies.com and Zeemfa products and services, and they may be rented to other firms and/or licensed for promotional purposes. When you provide your email address to us, you agree to receive email from NaijaDailies.com and its sister Zeemfa companies. We allow users to "opt-out" of receiving e-mail from outside firms, however, when e-mail information is collected and with each e-mail use of the user's address you can individually “opt-out” of receiving further e-mail from outside firms, NaijaDailies.com and its sister Zeemfa companies. If a user does not choose to “opt-out” at the time the e-mail address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully. 
 
-Users who later decide they want to change their preferences may do so at http://www.naijadailies.com. 
+Users who later decide they want to change their preferences may do so at https://www.naijadailies.com/. 
 
 Personal identifying information submitted on portions of our site developed with outside third parties may be shared with those third parties, and the information will be governed by those parties' privacy policies as well as NaijaDailies.com's. NaijaDailies.com, nor any of its parent companies or any of its subsidiaries or affiliates do not bear any responsibility for any actions or policies of such third parties. 
 
