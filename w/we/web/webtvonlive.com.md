@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webtvonlive.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223152040id_/http%3A//webtvonlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtvonlive.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629023300id_/http%3A//webtvonlive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy WebTV On Live streaming
+# Privacy Policy – WebTV On Live
 
 This page is used to inform ‘http://webtvonlive.com’ website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, Web TV On Live.
 
@@ -69,4 +69,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contact Us**  
 If you have any questions or suggestions about our Privacy Policy, you can send us an email directly:  
-[Contact](http://webtvonlive.com/contact/).
+[webtvonlive@gmail.com](mailto:webtvonlive@gmail.com).
