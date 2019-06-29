@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnywithfiber.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228130008id_/http%3A//dietbly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnywithfiber.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629231713id_/http%3A//dietbly.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - DIETBLY
 
@@ -20,7 +20,7 @@ By using this site or/and our services, you consent to the Processing of your Pe
 
 
 
-**Personal Data**  – any information relating to an identified or identifiable natural person.  
+ **Personal Data**  – any information relating to an identified or identifiable natural person.  
 **Processing**  – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.  
 **Data subject**  – a natural person whose Personal Data is being Processed.  
 **Child**  – a natural person under 16 years of age.  
@@ -53,10 +53,10 @@ The Data Subject has the following rights:
 
 
 
-**Information you have provided us with**  
+ **Information you have provided us with**  
 This might be your e-mail address, name, billing address, home address etc – mainly information that is necessary for delivering you a product/service or to enhance your customer experience with us. We save the information you provide us with in order for you to comment or perform other activities on the website. This information includes, for example, your name and e-mail address.
 
-**Information automatically collected about you**  
+ **Information automatically collected about you**  
 This includes information that is automatically stored by cookies and other session tools such as your IP address. This information is used to improve your customer experience. When you use our services or look at the contents of our website, your activities may be logged.
 
 We use your Personal Data in order to:
@@ -79,15 +79,15 @@ We Process your Personal Data in order to fulfil obligation rising from law and/
 
 We do not share your Personal Data with strangers. Personal Data about you is in some cases provided to our trusted partners in order to either make providing the service to you possible or to enhance your customer experience. We share your data with:
 
-**Our processing partners:**
+ **Our processing partners:**
 
-  * **Clicky, Google Analytics, AddThis**
+  *  **Clicky, Google Analytics, AddThis**
 
 
 
-**Connected third parties:**
+ **Connected third parties:**
 
-  * **MoreNiche, SkimLinks, OffersIsland,  **
+  *  **MoreNiche, SkimLinks, OffersIsland,  **
 
 
 
@@ -111,7 +111,7 @@ We use cookies and/or similar technologies to analyse customer behaviour, admini
 
 A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions.
 
-**We use  [cookies](http://dietbly.com/cookies) for the following purposes:**
+ **We use  [cookies](http://dietbly.com/cookies) for the following purposes:**
 
   * Necessary cookies – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
   * Functionality cookies – these cookies provide functionality that makes using our service more convenient and makes providing more personalised features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
@@ -128,7 +128,7 @@ We use [Clicky](http://clicky.com/) to log and analyze the traffic to our webs
 
 contact@skinnywithfiber.org
 
-**Office for Personal Data Protection of the Slovak Republic**
+ **Office for Personal Data Protection of the Slovak Republic**
 
 Hraničná 12  
 820 07 Bratislava 27
