@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creampiethais.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818055323id_/https%3A//support.teamoneymedia.com/support/privacy.php%3Fcode%3Dct) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creampiethais.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629092534id_/http%3A//support.teamoneymedia.com/support/privacy.php%3Fcode%3Dct) for the most accurate reproduction.*
 
 # Tea Money Media / Ghost Pro Inc. Customer Support
 
@@ -23,3 +23,5 @@ We identify the numerical IP address assigned to your computer by your Internet 
 E-mail Correspondence. Tea Money Media / Ghost Pro Inc. often requests a confirmation when you receive and open an e-mail communication delivered by Tea Money Media / Ghost Pro Inc.. We archive all e-mail sent in and out of our network, and we identify the origination IP address of all mail sent into our network. We require that you refrain from "forging headers" or sending "SPAM".
 
 Please be aware that, as part of the Services, Tea Money Media / Ghost Pro Inc.. provides links to Web sites operated by third parties, and is not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. 
+
+[GENERAL DATA PROTECTION POLICY](https://support.teamoneymedia.com/support/privacygdpr.php?code=ct "Data Protection Policy")
