@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cincinnati.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610174013id_/http%3A//static.cincinnati.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cincinnati.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629201505id_/https%3A//cm.cincinnati.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | Cincinnati.com
+# static.cincinnati.com
 
 Last Updated: May 14, 2018
 
