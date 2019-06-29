@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesslstore.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011151133id_/https%3A//www.thesslstore.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesslstore.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629230444id_/https%3A//www.thesslstore.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: TheSSL Store.com Read our Privacy Policy
 
@@ -91,9 +91,9 @@ Under certain conditions, more fully described on the [Privacy Shield website](h
 
 Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-### Children's Online Privacy Protection Act Compliance
+### California Consumer Privacy Act Compliance
 
-We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Because we value your privacy, we have taken the necessary precautions to comply with the California Consumer Privacy Act. In the interest of transparency, we provide notice anytime information is being collected, in addition to disclosing what it will be used for. We do not share any customer information with third parties unless otherwise specified. Rapid Web Services, LLC complies with all lawful requests from law enforcement and relevant authorities.
 
 ### Changes to our Privacy Policy
 
