@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songsforteaching.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910162853id_/http%3A//songsforteaching.com/_privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songsforteaching.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629120637id_/https%3A//www.songsforteaching.com/_privacypolicy.htm) for the most accurate reproduction.*
 
 # Song Lyrics and Sound Clip
 
