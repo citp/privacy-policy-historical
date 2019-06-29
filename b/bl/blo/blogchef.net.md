@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogchef.net privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729022843id_/https%3A//blogchef.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogchef.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630014842id_/https%3A//blogchef.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BlogChef.net
+# Privacy Policy - BlogChef
 
 Your Privacy  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.  
@@ -24,7 +24,7 @@ Advertising
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
 Opt Out  
-For information about opting out of ad serving partners please visit http://www.networkadvertising.org/choices/  
+For information about opting out of ad serving partners please visit https://www.networkadvertising.org/choices/  
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us. 
 
 Changes to this Privacy Statement  
