@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userbenchmark.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226055512id_/http%3A//www.userbenchmark.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userbenchmark.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629053837id_/https%3A//www.userbenchmark.com/page/privacy) for the most accurate reproduction.*
 
 # UserBenchmark Privacy Policy - UserBenchmark
 
