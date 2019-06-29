@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keybase.io privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126025145id_/https%3A//keybase.io/docs/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keybase.io privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629084758id_/https%3A//keybase.io/docs/privacypolicy) for the most accurate reproduction.*
 
-# Keybase
+# Privacypolicy | Keybase Docs
 
 **Keybase – Privacy Policy**
 
