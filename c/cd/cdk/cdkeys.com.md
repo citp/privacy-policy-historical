@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cdkeys.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231201932id_/https%3A//www.cdkeys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdkeys.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629200817id_/https%3A//www.cdkeys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CDkeys.com
+
+The brand name “CDKeys.com” is wholly owned by “Omnyex E Commerce DMCC”, a private company incorporated under the laws of DMCC Free Zone, having its principle place of business at Unit 2603, JBC4, JLT, Dubai, UAE, license number JLT-69058, hereafter referred to as “CDKeys.com”. Omnyex E Commerce DMCC wholly owns Sensible Digital B.V., incorporated under the laws of the Netherlands having its place of business at Stationsplein 45, Rotterdam, 3013 AK, Netherlands which processes payments on behalf Omnyex E Commerce DMCC, depending on the method of payment selected. Payments for USA based customers may be processed by Sensible Digital LLC, a Nevada LLC incorporated under the laws of the State of Nevada, having its principle place of business at Suite 02-189, Two Summerlin, 10845 Griffith Peak Drive, Las Vegas, NV 89135, USA.
 
 This privacy policy sets out how [CDKeys.com](https://www.cdkeys.com/) uses and protects any information that you give us when you use this website. [CDKeys.com](https://www.cdkeys.com/) is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement. [CDKeys.com](https://www.cdkeys.com/) may change this policy from time to time by updating this page. You should therefore check this page regularly to ensure that you are happy with any changes we make.
 
@@ -49,7 +51,7 @@ Our website may contain links to other websites of interest. However, once you�
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * Whenever you are asked to fill in a form on the website, keep an eye out for the box that you can click to indicate whether or not you want your information to be used by anybody for direct marketing purposes 
+  * Whenever you are asked to fill in a form on the website, keep an eye out for the box that you can click to indicate whether or not you want your information to be used by anybody for direct marketing purposes
   * If you have previously given us permission to use your personal information for direct marketing purposes, you may change your mind at any time by writing to us at [mail@cdkeys.com](mailto:mail@cdkeys.com)
 
 
@@ -62,9 +64,9 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 ### List of cookies we collect
 
-Want to know what cookies we collect? The table below lists the cookies we collect and what information they store. 
+Want to know what cookies we collect? The table below lists the cookies we collect and what information they store.
 
-COOKIE name | COOKIE Description  
+COOKIE name| COOKIE Description  
 ---|---  
 CART | The association with your shopping cart.  
 CATEGORY_INFO | The category info on the page, that allows pages to display more quickly.  
