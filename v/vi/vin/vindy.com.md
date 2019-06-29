@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626232025id_/http%3A//www.vindy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629231756id_/http%3A//www.vindy.com/privacy) for the most accurate reproduction.*
 
 # The Vindicator Web Site Privacy Policy | vindy.com
 
