@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812150631id_/https%3A//shawfloors.com/why-shaw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629214101id_/https%3A//shawfloors.com/why-shaw/privacy-policy) for the most accurate reproduction.*
 
 # Why Shaw? | Privacy Policy | Shaw Floors
 
