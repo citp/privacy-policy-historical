@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the phpmagazine.net privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113235022id_/http%3A//phpmagazine.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpmagazine.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630001934id_/http%3A//phpmagazine.net/privacy) for the most accurate reproduction.*
 
-# Privacy policy | PHP Magazine Network
+# Privacy policy - PHP Magazine Network
 
-This privacy policy sets out how [bw_company] uses and protects any information that you give [bw_company] when you use this website.
+This privacy policy sets out how phpmagazine.net uses and protects any information that you give phpmagazine.net when you use this website.
 
-[bw_company] is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+phpmagazine.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-[bw_company] may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: December 2014
+phpmagazine.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: December 2014
 
 ### What we collect
 
@@ -32,11 +32,11 @@ We require this information to understand your needs and provide you with a bett
 
 ### Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 ### What is a cookie?
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. 
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user’s device.
 
 You can find more information about cookies at:
 
@@ -46,7 +46,7 @@ You can find more information about cookies at:
 
 
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide. 
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorized based on the categories found in the ICC UK Cookie guide.
 
 ### Category 1: strictly necessary cookies
 
@@ -60,7 +60,7 @@ By using our website, you agree that we can place these type of cookies on your 
 
 ### Category 3: functionality cookies
 
-These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
 
 By using our website, you agree that we can place these type of cookies on your device.
 
@@ -89,6 +89,6 @@ You may request details of personal information which we hold about you under th
 
 A small fee will be payable.
 
-If you would like a copy of the information held on you please write to: [bw_address]
+If you would like a copy of the information held on you please write to: info@phpmagazine.net
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
