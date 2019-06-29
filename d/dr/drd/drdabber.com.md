@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drdabber.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129221231id_/https%3A//www.drdabber.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drdabber.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629101114id_/https%3A//www.drdabber.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dr. Dabber
+# Privacy Policy | Dr. Dabber
 
 **Types of Data collected**
 
