@@ -1,114 +1,168 @@
-> *The following text is extracted and transformed from the trunkclub.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127034208id_/https%3A//www.trunkclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trunkclub.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629031928id_/https%3A//www.trunkclub.com/privacy) for the most accurate reproduction.*
 
-# Your Privacy Rights - Trunk Club
+# Your Privacy Rights | Trunk Club
 
-Welcome to the web site (the “Site”) of Trunk Club, Inc. (collectively with its affiliates, “Trunk Club”, “we”, “us” and/or “our”). This Site is operated by Trunk Club and has been created to provide information about our company and its services (together with the Site, the “Service(s)”) to our Service visitors (“you”, “your”). This notice describes our policy with respect personally identifiable and other information that is collected from visitors to the Site and Services. By visiting the Site or interacting with the Services, you are accepting the practices described in this Privacy Notice. Trunk Club does not share customer information (including e-mail addresses) outside the Trunk Club family of companies unless it is necessary to provide you with products or services available from Trunk Club. We may also disclose information when you tell us to do so, to identify or contact you, to protect your rights or the rights of Trunk Club or as required or permitted by law.
+At Trunk Club, we appreciate the trust you place in us when you choose to visit our Clubhouses or website and we take that responsibility seriously. This Trunk Club Privacy Policy (the “Policy”) describes how we collect and use personal information about you when you visit our website, use our mobile application, call us on the phone, or visit our Clubhouses.
 
-### What information does Trunk Club collect?
+By “personal information”, we mean information that directly identifies you, such as your name, address, or email address. In this Policy, “we” and “our” mean Trunk Club, Inc., and “you” means any person who visits our website, uses our mobile application, call us on the phone, or visits our Clubhouses.
 
-When you interact with us through the Services, we may collect personally identifiable information and other information from you, as further described below:
+Click on the following links to go directly to the corresponding sections of this Policy:
 
-#### Information You Give Us:
-
-We receive and store any personally identifiable and other information you enter on the Site or give us any other way (including by making it publicly accessible) when communicating or interacting with you online or in our showrooms. Some examples include:
-
-  * registering for a Trunk Club account
-  * when you request that merchandise be sent to you or others, make purchases or returns with us, place an order with us online, via phone, mail, e-mail or fax, or request an e-receipt
-  * fulfilling orders you place and delivering Trunks or other packages
-  * requesting a catalog or other content and communications from us or when offering recommendations to you
-  * subscribing to Trunk Club E-mail Updates (our e-mail newsletter) or other communications from us or managing your preferences with us
-  * your Financial Account numbers when transacting with us
-  * interacting with our websites or mobile sites, mobile applications and services
-  * when you participate in any of our programs such as contests, sweepstakes, surveys, loyalty programs, wedding programs etc.
-  * when you apply for employment which may include your social security number or social insurance number
-  * working with our stylists who assist you with your fashion needs and purchases
-  * through communications with you contacting us with a comment, question or complaint 
+  * What Information We Collect
+  * How We Collect Information
+  * How We Use Information
+  * How We Share Information
+  * Online Advertising and Third Parties We Work With
+  * Your Choices and Access Requests
+  * Security and Fraud
+  * Notices and Disclosures
+  * International Customers
+  * Additional Information and Contacting Us
+  * Updates to This Policy
+  * Effective Date
 
 
 
-#### Automatically Collected Information:
+### What Information We Collect
 
-We receive and store certain types of information whenever you interact with us, which is collected passively using various technologies. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses trunkclub.com. Such information cannot presently be used identify you personally. If associated with other information such you can be identified personally, such information would be treated as personally identifiable information hereunder.
+We collect a variety of types of information. Examples include:
 
-We may disclose this non-personally identifiable information in order to describe the Services to current and prospective business partners and to other third parties for other lawful purposes.
+  * **Contact information** , such as your name, address, phone number, or email address;
+  * **Purchase information** , such as the items your purchase, items you have altered or custom made (including measurements), payment method and payment information (such as debit or credit card number and information), billing and shipping address, and contact information (such as for receipts or order updates);
+  * **Preference information** , such as your contact and marketing preferences, and brand and merchandise interests;
+  * **Profile and account information** , which may include Contact, Purchase, and Preference information as well as your account password, information about wish list items, items in your online shopping cart or saved for future purchase, registry information, product review information, gift card information, and other information about your profile or account;
+  * **Demographic information** , which may include age or birthdate, gender, ZIP code, and other information about you;
+  * **Video recordings and photographic information** , of you when you visit one of our Clubhouses;
+  * **Call recordings** , including information about your call and that you share when you call us on the phone;
+  * **Location information** , of your device that you use with our mobile application, if your device settings allow us to collect location information; and
+  * **Device and browsing information** , including information about your phone, tablet, computer, or device, and online browsing activity (collectively, “automatically collected information”). Automatically collected information may include IP addresses, unique device identifiers, cookie identifiers, device and browser settings and information, and Internet service provider information. Automatically collected information also may include information about when and how you access and use our website or mobile application, such as the date and time of your visit or use, the websites you visit before coming and after leaving our website, how you navigate and what you search for using our website and mobile application, the website pages and items you view using our website and mobile application, and the items you purchase.
 
-We may also collect personal information about you from other third parties, such as demographic firms, to make our future service and marketing efforts more efficient and personalized for you. We may combine all information we collect and we may disclose this information within our corporate family of companies or our service providers. When you visit our websites we may also gather certain information automatically and store it in log files. This information may include Internet Protocol (IP) addresses or other device identifiers, browser information, Internet Service Provider (ISP), operating system, location, date/time stamp and clickstream data.
 
-#### Email Communications:
 
-We may receive confirmation when you open email from Trunk Club if your computer supports such capabilities. If you do not want to receive email or other mail from us, please contact us at service@trunkclub.com and we will promptly remove you from our mailing lists.
+### How We Collect Information
 
-### How does Trunk Club use personally identifiable and other information?
+We collect information on our website, through our mobile application, during calls with you, and in our Clubhouses. We also obtain information from you and from third parties. For example, we collect and obtain information:
 
-We use the personal information that we and our service providers collect to conduct our business and to provide you with the best possible products, services and experience. We may collect and use your information to provide you products and services, notify you of product recalls or safety issues, process and respond to your application for current or future career opportunities, process membership requests when you apply or otherwise administer your participation in our programs, to respond to your comments, questions or complaints, determine your satisfaction with our programs and service, to personalize your experiences, if you ask us to, send you marketing communications and other information you have chosen to receive regarding our products, services, marketing or special events. We also use your personal information for our everyday business purposes such as security, payment processing, analytics, operations, fraud detection and prevention, reporting, making back-ups and legal compliance.
+  * **You provide** , such as when you make a purchase, interact with a salesperson, visit or contact us, register for a Rewards or online account, participate in a contest or sweepstakes, respond to a survey, engage in a promotional activity, register to attend an event or appointment, apply for employment, or sign up for emails or marketing;
+  * **Clubhouse visits** , such as: the types of information noted above that you provide, and video recordings and photographs that we collect for security, fraud, loss prevention, incident reporting, and operational purposes;
+  * **From wi-fi and mobile devices** , such information about your device when you use our Clubhouse wi-fi services; and information about your device and location if you have installed our mobile application on your device and your device is near Trunk Club, Nordstrom or Nordstrom Rack stores/Clubhouses or store/Clubhouse systems (such as systems that offer personalized content), even if you are not currently using the mobile application, though you can disable location sharing using your device or application settings;
+  * **From the Nordstrom family of brands and companies** , such as from Nordstrom Rack, HauteLook, Trunk Club, and our other affiliates, parents, and subsidiaries that you have interacted with;
+  * **From third parties** , such as service providers that we use, analytics companies, advertising networks and cooperatives, demographic companies, third parties that provide us with information about you and the different devices you use online, and other third parties that we choose to collaborate or work with;
+  * **From social media platforms and networks** that you use in connection with our website or mobile application, or that share or allow you to share information with us, such as Facebook, Twitter, Pinterest, and Instagram. For example, if you use functionalities, plugins, widgets, or tools from social media platforms or networks in connection with our website or mobile application (e.g., to log into an account, or to share inspiration, finds, purchases, and other content with your friends and followers on social media), we will collect the information that you share with us, or that those social media platforms or networks share with us. For more information about social media platform and network privacy practices, please review the privacy policies and settings of the social media platforms and networks that you use;
+  * **Using cookies and automatic collection methods**. For example, we and third parties we work with may collect information from the computer, tablet, phone, or other device: that you install our mobile application on; that you use to access our website; or that you use to open an email or click on an advertisement from us. This collection includes automatically collected information, and generally does not include personal information unless you provide it through our mobile application or website or you choose to share it with us.
 
-In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated above. 
 
-### Does Trunk Club share personally identifiable information?
 
-To best serve you, we may share your personal information with other members of the Trunk Club family of companies and with service providers that provide support services to us or that help us market our products and services, administer our programs, operations, fulfill your requests, surveys, contests, sweepstakes and product reviews, or provide you with membership information. Service providers, third parties who perform services on our behalf, are contractually restricted from using your information in any manner other than in helping us to provide you with the products and services available from Trunk Club. We may also, in certain instances, disclose your personal information when we have reason to believe that it is necessary to identify you, contact you, to advise you of a product recall, detect and protect you or us from fraud, manage information security or bring legal action to protect your rights or the rights of Nordstrom or others. We may also disclose your personal information when you ask us to do so or when we believe it is required or permitted by law.
+Automatic collection methods we use include:
 
-#### Browser Do Not Track Signals
+  * cookies (which may be session-based or persistent, and are typically small data files that are stored on your hard drive or in connection with your Internet browser);
+  * web beacons or tags (small images embedded into websites or emails that send information about your computer, tablet, phone, or other device when you visit our website, use or mobile application, or open an email we send to you);
+  * website and mobile application log files (which we tend to create automatically in connection with access to and use of our website and mobile application);
+  * Flash cookies or Local Stored Objects (which may be placed using Adobe Flash software—Learn more about privacy and storage settings for Flash cookies [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html)); and
+  * other technologies (which may be similar to or different than the methods noted above).
 
-Although our websites currently do not have a mechanism to recognize the various web browser Do Not Track signals, we do offer our customers choices to manage their preferences that are provided in the previous sections above. To learn more about browser tracking signals and Do Not Track please visit [this link](http://www.allaboutdnt.org/).
 
-### How secure is information about me?
 
-We work to protect the security of your information during order transmission by using Secure Sockets Layer (SSL) software, which encrypts order information you transmit. We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+### How We Use Information
 
-### What about links to other Web sites?
+We use the information that we collect to conduct our business and to provide you with the best possible products, services, and experiences. We also may combine any or all of the information that we collect or obtain. Examples of how we use information include:
 
-Our Site might include links to third-party Web sites. The policies and procedures we described here do not apply to the third-party sites. The links from the Services do not imply that Trunk Club endorses or has reviewed the third-party sites. We suggest contacting those sites directly for information on their privacy policies.
+  * **To provide you with products and services** , such as to: fulfill your orders and process your payments; process, maintain and service your account(s) and memberships; and to provide you with products and services that we think you will like;
+  * **To respond to you** , such as when you: place an order; call us; make a request or inquiry; enter a contest or sweepstakes; complete a survey; or share a comment or concern;
+  * **For personalization** of your experiences with us, including to: remember your interests and preferences; customize the products and services we share with you; facilitate your interactions with our stylists and salespeople; track and categorize your activity and interests on our website and mobile application, including by identifying the different devices you use; and to enrich your experience in our Clubhouses, on our website, and through our mobile application;
+  * **For marketing and advertising** , such as to: send you marketing and advertising communications; check creditworthiness and make pre-screen offers for Nordstrom-branded credit cards; and to customize the marketing and advertising that we show you (we offer choices about marketing and advertising as noted in the Your Choices section below);
+  * **For analytics** , such as to: understand how you use our website and mobile application; understand how you shop with us; determine the methods and devices used to access our website and mobile application; and improve our website and mobile application;
+  * **For our business purposes** , such as: to operate and improve upon our business and lawful business activities; to maintain our programs, accounts, and records; for research; to determine your satisfaction with our products and services; to detect and prevent fraud or misuse of our services; and for any other business purpose that is permitted by law;
+  * **For legal and safety purposes** , such as to: defend or protect us, our customers, you, or third parties, from harm or in legal proceedings; protect our rights; protect our security and the security of our customers, employees, and property; respond to court orders, lawsuits, subpoenas, and government requests; address legal and regulatory compliance; and notify you of product recalls or safety issues.
 
-### Which information can I access?
 
-Trunkclub.com gives you access to information about your account and your interactions with Trunkclub.com for the limited purpose of viewing and, in certain cases, updating that information.
 
-### What choices do I have?
+In general, we do not share personal information about you with third parties for third party marketing or advertising purposes. We do share personal information with third parties for other purposes. For example, we share personal information with:
 
-You can always choose not to provide information, even though it might be needed to make a purchase. If you do not want to receive e-mail or other mail from us, please contact us at service@trunkclub.com or call us at (312) 801-7200 between 9 and 6 PM Central time to be promptly removed from our lists.
+  * **The Nordstrom family of brands and companies** , such as Nordstrom, Nordstrom Rack, and HauteLook, and our other affiliates, parents, and subsidiaries;
+  * **Third parties and service providers** that provide products or services to us, that help us market or advertise to you (including co-branded marketing and advertising), or that provide products or services to you. We may use third parties or service providers to perform any of the actions or activities allowed under this Policy;
+  * **Social media platforms and networks** such as Facebook, Twitter, Pinterest, and Instagram that offer functionalities, plugins, widgets, or tools in connection with our website or mobile application (e.g., to log into an account, or to share inspiration, finds, purchases, and other content with your friends and followers on social media). If you choose to use these functionalities, plugins, widgets, or tools, certain information may be shared with or collected by those social media companies—for more information about what information is shared or collected, and how it is used, see the applicable social media company’s privacy policy;
+  * **Parties to business transactions** such as those we deal with in mergers, acquisitions, joint ventures, sales of assets, reorganizations, divestitures, dissolutions, bankruptcies, liquidations, or other types of business transactions. In these types of transactions, personal information may be shared, sold, or transferred, and it may be used subsequently by a third party; and
+  * **Additional third parties** such as law enforcement, government entities, courts, or other third parties as required or allowed by applicable law, such as for the legal and safety purposes described under the “How We Use Information” Section above, or otherwise to help prevent harm or fraud to us, you, our customers, or other third parties. We also may share personal information with third parties upon your request or with your approval, though we may not be able to accommodate all requests.
 
-### What are Cookies?
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing add-on settings or visiting the Web site of its manufacturer.
 
-### Third-Party Advertising Partners
+### Online Advertising and Third Parties We Work With
 
-We use third-party service providers to serve advertisements (banners or links) on our behalf across the Internet. These advertising service providers may collect non-identifiable information about your visits to our website, and your interactions with our products and services. Such non-identifiable information does not include your name, address, e-mail address or other personal information. The information is collected through the use of cookies and pixel tags (also known as action tags), which is industry-standard technology used by most major websites.
+We work with third party companies for advertising purposes, including to: serve advertisements across the Internet; track and categorize your activity and interests over time on our website and mobile application, and on third party websites and mobile applications; and to identify the different device(s) you use to access websites and mobile applications. We share information with these companies, and these companies may collect information—including automatically collected information when you use our website or mobile application—through the methods described in the “How We Collect Information” Section above (see “using cookies and automatic collection methods”). These third party companies also may possess or obtain information about you from your interactions: directly with the third party companies; with other websites, mobile applications, or companies that the third party companies work with; or from your interactions with advertisements the third party companies help to display to you. The information that these companies collect or that we share may be used to customize or personalize the advertisements that are displayed to you.
 
-In addition to the information about your visits to our website, our service providers may also use the information about your visits to other websites to target advertisements for products and services available from Trunk Club.
+We may share personal information with the third party companies we work with for our purposes, though in general we do not share personal information about you with third parties for third party marketing or advertising purposes. We may also share other information in our discretion, including automatically collected information, which may be used by third parties for third party marketing, advertising, and other purposes. For information about the choices you have about the online advertising practices described in this section, please see the “Your Choices and Access Requests” Section below.
 
-In the future we may partner with companies to provide interest-based advertising, both on and off Trunkclub.com. If this occurs, Trunk Club provides you with an opportunity to opt out when these advertisements are served. You may manage your third-party advertising preferences by clicking here.
+### Your Choices and Access Requests
 
-If you would like more information about this practice and to know your choices for not having this information used by third-party service providers, please visit [here](http://www.networkadvertising.org/managing/opt_out.asp).
+We strive to offer you with choices about how personal information is used and shared. Your choices include:
 
-### California Privacy Rights
+  * **Online Advertising**. You can manage third party advertising preferences for some of the third parties we work with to serve advertising across the Internet by utilizing the choices available at <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices>. We do not guarantee that all of the third parties we work with will honor the elections you make using those options, but we strive to work with third parties that do.
+  * **Social Media Platforms and Networks**. We encourage you to review your privacy options and settings with the social media platforms and networks you use to understand what choices you have about sharing information from those platforms and networks with us. 
+  * **Email Choices**. You can opt-out of marketing or advertising emails by utilizing the “unsubscribe” link or mechanism noted in marketing or advertising emails you receive from us. You may also request to opt-out of marketing or advertising emails by contacting us through one of the methods specified in the “Additional Information and Contacting Us” Section below, and sharing the email address at which you are receiving marketing or advertising emails. To unsubscribe from marketing or advertising emails you receive from Nordstrom, Nordstrom Rack, or HauteLook, please utilize the “unsubscribe” link or mechanism noted in the marketing or advertising emails you receive from those brands, or visit the privacy policy associated with the brand that you are receiving emails from and use the choices provided therein.
+  * **Telephone Choices (calls and texts)**. You may opt-out of receiving marketing or advertising calls or text messages by contacting us through one of the methods specified in the “Additional Information and Contacting Us” section below, and sharing the phone number that you would like to opt-out. For text messages, you also may be able to text “STOP” in response to a text message that you receive.
+  * **Mobile Location Choices**. You may choose not to provide your location to us in connection with your use of our mobile application by declining any prompt requesting location information, and by customizing your mobile device settings to prevent sharing of location information. We may also collect location data when you have our mobile application installed on your device and your device is near Trunk Club, Nordstrom or Nordstrom Rack stores/Clubhouses or store/Clubhouse systems (such as systems that offer personalized content), even if you are not currently using the mobile application. You may prevent this by customizing your mobile device settings to prevent sharing of location information or by disabling Bluetooth on your device.
+  * **Access Requests**. If you have registered for an online account, we allow you to access and update certain personal information that you have provided to us by logging into your online account and using the features and functionalities available there. You may also make a request for access to personal information by sending an email or writing to us at the address specified in the “Additional Information and Contacting Us” section below. We are not able to grant all access requests, and we may request additional information from you in order to verify your identity before accommodating an access request.
 
-California law entitles residents to ask us for a notice describing what categories of personal information we share with third parties or with corporate affiliates (for those entities direct marketing purposes. Trunk Club does not provide any personal information to third parties for their own direct marketing purposes. If you want to request a notice or have any questions about Trunk Club privacy practices, please contact us atservice@trunkclub.com.
 
-### Are children allowed to use Trunk Club and Trunkclub.com?
 
-Trunk Club does not sell products for purchase by children. If you are under 18 you may use Trunk Club and Trunkclub.com only with the involvement of a parent or guardian. If you are under 18 years old please do not provide your information on our website.
+### Security and Fraud
 
-If we become aware that an individual is under the age of 18 and has submitted any information to Trunk Club for any purpose without prior verifiable parental consent, we will delete his or her information from our files. 
+We take steps to help protect the confidentiality and security of personal information you share with us through our website and mobile application. In general, information transmitted through the Internet may not be perfectly secure, and we are unable to guarantee the security of your personal information.
 
-### Data Processing and Storage
+We encourage you to take steps to help protect the confidentiality and security of your account and personal information, including by doing the following:
 
-Trunk Club and its third party service providers may process or store your personal information outside of the United States or Canada and other countries. In accordance with the laws of those countries, in certain circumstances your personal information may be accessible by foreign law enforcement, regulatory bodies or other authorities. For more information of our use of foreign service providers please contact us as described below.
+  * Reviewing your Trunk Club account periodically and immediately reporting any unexpected activity or unrecognized information;
+  * Installing the latest security updates and anti-virus software on your computer to help prevent malware and viruses;
+  * Using complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive characters);
+  * Not using the same password on more than one website;
+  * Not sharing your password with others;
+  * Password protecting your computer and mobile device; and
+  * Sign out/log off of website sessions so that your session is closed, especially when using a public computer.
 
-### Integrating Social Networking Services
 
-One of the special features of the Service is that it may allow you to enable or log in to the Service via various social networking services like Facebook (“Social Networking Service(s)”). By directly integrating these Social Networking Services, we make your online experiences richer and more personalized. To take advantage of this feature, we would ask you to log into the relevant Social Networking Service. If you add a Social Networking Services account to the Service or log into the Service using your Social Networking Services account, we would collect relevant information necessary to enable the Service to access that Social Networking Service and your data contained within that Social Networking Service. As part of such integration, the Social Networking Service would provide us with access to certain information that you have provided to the Social Networking Service, and we would use, store and disclose such information in accordance with this Privacy Policy. However, please remember that the manner in which Social Networking Services use, store and disclose your information is governed by the policies of such third parties, and Company shall have no liability or responsibility for the privacy practices or other actions of any Social Networking Services that may be enabled within the Service.
 
-You may also have the option of posting your Trunk Club activities to Social Networking Services; you acknowledge that if you choose to use this feature, your friends, followers and subscribers on any Social Networking Services you have enabled will be able to view such activity. 
+You may come in contact with websites, emails or texts that try to lure you into providing personal information with an offer such as a Gift Card. Trunk Club does not sponsor or endorse these offers. If you become aware of any potentially fraudulent activity on a website or in an email or text, please forward the information to [onlinefraud@nordstrom.com](mailto:onlinefraud@nordstrom.com) or call us at 1.888.282.6060 so that we can follow up. You can also visit our [Fraud Alerts](https://shop.nordstrom.com/content/fraud-alerts) page for additional information.
 
-### Conditions of Use, Notices, and Revisions
+### Notices and Disclosures
 
-If you choose to visit Trunk Club, your visit and any dispute over privacy is subject to this Notice including limitations on damages, disputes, and choice of law. If you have any concern about privacy at Trunk Club, please email service@trunkclub.com and we will work to address it.
+  * **Links to Other Websites and Services**. Our website or mobile application may provide links to other Internet sites, content or videos (embedded or direct links) maintained by third parties. We are not responsible for the sites, content, or videos accessed via the links, and we have not reviewed the privacy practices of those third parties. We encourage you to review the privacy practices of those third parties.
+  * **Browser Do Not Track Signals**. While we strive to offer you choices when you use our website and mobile application, we do not promise that we will be able to receive or honor web browser Do Not Track signals.
+  * **California Privacy Rights**. California law entitles residents to ask us for a notice describing what categories of personal information we share with third parties for third parties’ direct marketing purposes. Unless you request us to or consent to us doing so, Trunk Club does not sell any personal information to third parties for their own direct marketing purposes. If you have questions about these practices, please contact us at [privacy@nordstrom.com](mailto:privacy@nordstrom.com).
+  * **Children's Privacy**. Trunk Club does not knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent. If you believe that your child under the age of 13 has submitted personal information to Trunk Club in connection with our website or mobile application, and without prior verifiable parental consent, please contact us at [privacy@nordstrom.com](mailto:privacy@nordstrom.com) so that we can take steps to delete the personal information that she or he provided.
 
-Our business changes constantly, and our Privacy Notice will change also. You should check our Site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
-Thanks for reading this far.
 
-  
-Last updated: August 12, 2014
+### International Customers
+
+If you provide personal information through our website or mobile application separate from a purchase, you agree that the personal information will be transferred to and processed in the United States of America and any other country or jurisdiction at our sole discretion. The laws that apply to the use and protection of personal information in the United States or other countries or jurisdictions in which we transfer or process personal information may be different than the laws and protections in your country.
+
+### Additional Information and Contacting Us
+
+To update us with your marketing preferences, in addition to the options in the Your Choices and Access Requests section above, you may contact us at [service@trunkclub.com](mailto:service@trunkclub.com) or call us at (312) 801-7200 between 9 and 6 PM Central time.
+
+For additional information on privacy practices for the Nordstrom family of brands and companies, please use the following links:
+
+  * [Nordstrom Privacy Policy](https://shop.nordstrom.com/c/nordstrom-com-privacy-policy)
+  * [Nordstrom Rack Privacy Policy](https://www.nordstromrack.com/privacy)
+  * [HauteLook Privacy Policy](https://www.hautelook.com/privacy)
+
+
+
+If you have questions about this Policy or our privacy practices, please contact us at:
+
+**Nordstrom Privacy**   
+PO Box 21986   
+Seattle, WA 98111-3986   
+1.866.554.6591   
+[privacy@nordstrom.com](mailto:privacy@nordstrom.com)
+
+If you're not comfortable shopping online (and would prefer to make your purchase via telephone), just give us a call at (800) 385-0100. Our Customer Service representatives will be happy to assist you. 
+
+### Updates to This Policy
+
+We may make changes to this Policy, and may apply any changes to information previously collected, as permitted by law. When we make material changes to this Policy, we will notify you by posting the updated Policy on our website, and we will update the effective date at the end of this Policy.
+
+### Effective Date
+
+This Policy is effective September 13, 2017.
