@@ -1,39 +1,137 @@
-> *The following text is extracted and transformed from the messenger-inquirer.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604125834id_/http%3A//www.messenger-inquirer.com/index/information/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messenger-inquirer.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629102313id_/http%3A//www.messenger-inquirer.com/site/privacy.html) for the most accurate reproduction.*
 
-# Messenger-Inquirer: Information
+# Privacy Policy | Site | messenger-inquirer.com
 
-* * *
+**PRIVACY POLICY**
 
-This Privacy Policy discloses the general privacy practices for www.messenger-inquirer.com 
+Last updated: March 8, 2019
 
-The Messenger-Inquirer is committed to respecting the privacy rights of visitors to any of our web sites. While visiting Messenger-Inquirer Web sites (collectively, the "Site"), we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with the Site. To further the protection of your Personal Information, Belo Interactive has adopted a set of information management guidelines (outlined below) which serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. Please see the Effective Date stated at the conclusion of this Policy. 
+Paxton Media Group LLC (“Paxton Media,” “we,” or “us”) operates the Messenger-Inquirer website and any other services and pages that display or link to this notice (collectively, the “Site”).
 
-**Information Collected** **What are Cookies?  
-**There is a technology called "cookies" which can be used to provide you with tailored information from a web site. A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The Site can only access the information from a cookie sent by the Site. We cannot access other cookies sent by other web sites or the information contained therein. Additionally, we cannot learn your email address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically submit that information to us, for example, through our registration system, by entering a sweepstakes or promotion, etc. 
+This page informs you of our policies regarding the collection, use and disclosure of personal information when you use our Site. This Privacy Policy is part of and subject to our **[Terms of Use and Subscription Agreement** **]** , which together govern Paxton Media’s relationship with you in relation to the Site. If you do not agree with any portion of this Privacy Policy, you should not use the Site.
 
-**Why do our sites use cookies?**  
-Belo Interactive uses cookies to track usage of the site and further customize your experience when you are visiting the site. By tracking usage, we can best determine what features of the site best serve the users. We never give out information to others about individual usage. However, we do provide our advertisers with aggregate information about our users, such as "2,000 people viewed your ad today." 
+This Privacy Policy has been created in order to demonstrate and inform you of our firm commitment to privacy and to outline how we deal with any personal data you provide while visiting or using Sites or otherwise interacting with us via the Sites. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**May I decline to accept a cookie?**  
-On those pages of the Site that do not require registration, you may decline to accept cookies sent by the site by selecting an option on your browser to reject cookies. However, some portions of the site may require registration in order to access those areas. In such case, we ask that you register and provide us with basic information on our registration page. Cookies enable our server to know that you are a registered user; therefore, our registration system requires that you accept the cookies from the sites. Other sites linked to our site may also send cookies; however we do not control such activities. 
+Please read this Privacy Policy carefully. By using the Site, you agree to the collection and use of information in accordance with this policy. This Privacy Policy applies only to information collected through the Site and not to information collected offline. This Privacy Policy does not apply to the practices of companies that Paxton Media does not own or control, or to individuals whom Paxton Media does not employ or manage, including any of the third parties to which Paxton Media may disclose user information to the extent set forth in this Privacy Policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Use and Subscription Agreement.
 
-**What benefits do I receive from cookies?**  
-Overall, the use of cookies helps to give you a customized experience at the site. Through the use of cookies, we'll know what's working and what's not. That information is then used to keep our site fresh and relevant to you the user. Cookies also allow you to avoid retyping your user id each time you access the site, as well as personalize any online services we provide to you. 
+ **IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, YOU MUST NOT USE THE SITE OR DISCLOSE ANY INFORMATION THROUGH THE SITE.**
 
-**What happens with the information collected in a cookie?**  
-We use an advertising server developed by a third party to display ads on our site. Some of these ads may contain cookies that are set by third parties (i.e. advertising agencies or advertising clients). We do not have access to these cookies or any information that they may contain; please contact the advertiser for more information on these cookies. 
+ **I. INFORMATION COLLECTION AND USE**
 
-IP Addresses: The Messenger-Inquirer does log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. 
+  1.  **A.                 ** **Personal information**
 
-**Use of Personal Information**  
-Belo Interactive may match aggregated user information with third party data. Also, Belo Interactive discloses aggregated user statistics in order to describe our services to potential advertisers, partners and other third parties, and for other lawful purposes. Additionally, Belo Interactive will use reasonable efforts to ensure that only our employees with a "need to know" will have access to your information. We do not release personal information about you as an individual to third parties.  
-It should be noted, however, that this Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, personal ads, or the like, or through other web sites throughout the Internet, different policies may apply. Since Belo Interactive does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of that third party, and Messenger-Inquirer shall not be responsible for the use or dissemination of your private information by that third party. Therefore, we encourage you to ask questions before you disclose your personal information to others. 
 
-**Links to Other Materials**  
-If any link is offered connecting you to a third party web site, it is as an accommodation to the respective third party site owner and without charge. Third party sites linked to and from our site are not necessarily under the control of Messenger-Inquirer. Messenger-Inquirer shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. Messenger-Inquirer does not necessarily endorse companies (or related products or services) to or from which the Site is linked. If you decide to access any of the third party sites linked to our site, you do so entirely at your own risk. Messenger-Inquirer hereby disclaims any rights to trademarks, service marks, trade names, logos, copyrights, patents, domain names or other intellectual property interests of third parties. 
 
-**Children's Privacy**  
-Messenger-Inquirer cares about the safety of children and their use of the Internet. Therefore, in accordance with the Children's Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical. 
+ _Collection_
 
-**Effective Date and Changes**  
-This Privacy Policy is effective as of April 11, 2000. Messenger-Inquirer reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Information”). Personal Information may include, but is not limited to, your email address, name, phone number, postal address, credit card information, and other personal information. Sometimes this Personal Information is needed and collected when you register for participation in certain features of the Site, subscribe to our email communications, comment on blogs, or when you contact us. 
+
+ _Use of Personal Information_
+
+We collect this information for the purpose of providing and administering the Site, subscription and account registration and maintenance, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services. In addition, we may from time to time contract with third parties to assist us in collecting, maintaining and managing our customer information, taking and fulfilling orders, processing credit card information, conducting promotions, communicating effectively with our customers, and providing analytics regarding your interactions with our Site and other third-party websites so that we may improve the products and services we offer you. This Privacy Policy does not apply to the practices of companies that Paxton Media does not own or control, or to individuals whom Paxton Media does not employ or manage, including any of the third parties to which Paxton Media may disclose user information to the extent set forth in this Privacy Policy.
+
+ _Social Media Platforms_
+
+You may also choose to provide Personal Information through social media platforms such as Facebook, Twitter, or Instagram (“Social Media Platforms”), when you communicate with us or other participants on the Social Media Platforms, post suggestions or comments for us, or enter a sweepstakes or contest through the Social Media Platforms. Please note that this Privacy Policy does not cover the privacy and security practices of the Social Media Platforms on which Paxton Media has pages, including without limitation Facebook, Twitter, and LinkedIn. Please carefully review the privacy policies and terms of service on such Social Media Platforms before using, visiting, or interacting with others on such Social Media Platforms. Please remember that any information you share on our pages or in general on Social Media Platforms becomes public information, and you should exercise caution when deciding whether to disclose your personal information in such a manner. In addition, when you interact with the Site through Social Media Platforms or third-party social media applications, sharing products or content through Social Media Platforms by sharing or liking such products or content, our third-party providers may combine information concerning such activities with other information about you such as your user name, gender, referring website, geographic location, and other information obtained through other third-party websites you visit as well as your public profile(s) on such Social Media Platforms. Such information will also become part of your profile or account as maintained by Paxton Media.
+
+  1.  **B.                 ** **Anonymous Data**
+
+
+
+ _Collection_
+
+We may also collect information that your browser sends whenever you visit our Site or when you access the Site by or through a mobile device and that data that does not contain information that identifies an individual (“Anonymous Data”).
+
+This Anonymous Data may can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. Anonymous Data may include information such as your computer's Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics. If you choose to access, visit, and/or use any of our pages on Social Media Platforms, we may receive aggregate information and analysis about visitors’ usage of our pages on such Social Media Platforms.
+
+When you access the Site by or through a mobile device, this Anonymous Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use and other statistics.
+
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Site's functionality. These third party service providers have their own privacy policies addressing how they use such information.
+
+Please see the sections regarding Location Information and Cookies below regarding the use of your location information and your options. 
+
+ _Location Information_
+
+We may use and store information about your location depending on the permissions you have set on your device. We use this information to provide features of our Site, to improve and customize our Site. You can enable or disable location services when you use our Site at any time, through your mobile device settings.
+
+ _Cookies_
+
+As is the case with many websites and web-based applications, the Site uses a technology called “cookies,” which are files with a small amount of data and may include an anonymous unique identifier. The use of cookies is standard on the Internet, and allows us to tailor your visits to the Site to your individual preferences. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The “Help” feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+
+If you do not accept cookies, you may not be able to use some features of our Site.
+
+ _Do Not Track_
+
+Some browsers have a “do not track” feature that lets you indicate that you do not wish to have your online activities tracked. These features are not yet uniform, so we do not currently respond to such features or signals. Therefore, if you select or turn on a “do not track” feature in your web browser or block or delete tracking cookies, Paxton Media and its third-party providers may continue collecting information about your online activities as described in this Privacy Policy.
+
+ _Use of Anonymous Data_
+
+Anonymous Data is used internally for administration of the Site, troubleshooting, and to help improve the quality of Site and their design. We also use non-personally identifiable information to help analyze trends and statistics, protect the security and integrity of the Site, evaluate our online marketing campaigns, tailor our promotions or other offers to you, and provide location-based services. We may share such aggregated, non-personally identifiable information, such as demographics, with existing and prospective business partners and advertisers. We also may use cookies to collect product and purchase information over time from the pages you access or visit. This information may be combined with Personal Information from our records and other sources. Such information about your use of the Site will become part of your profile as maintained by Paxton Media.
+
+  1.  **C.                 ** **Behavioral Remarketing**
+
+
+
+Paxton Media uses remarketing services to advertise on our Site and third party web sites to you after you visited our Site. We, and our third party vendors, use cookies and other Anonymous Data to inform, optimize and serve ads based on your past visits to our Site in order to provide advertisements about goods and services of interest to you. These targeted advertisements to you may appear on our Site or on other websites that you visit. Please click here to learn more about your choices regarding targeted and behavioral advertising: <http://www.networkadvertising.org/> or <http://www.aboutads.info/>. To opt out, please click here http://www.networkadvertising.org/managing/opt_out.asp or <http://www.aboutads.info/choices/>. In all cases, however, we will only use your information as permitted by law.
+
+Without limiting the foregoing, we use Facebook for remarketing services.
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page:
+
+<https://www.facebook.com/help/164968693837950>
+
+To opt-out from Facebook's interest-based ads follow these instructions from Facebook:
+
+<https://www.facebook.com/about/ads/#568137493302217>
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/,> the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/,> or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
+
+**II. SERVICE PROVIDERS**
+
+We may employ third party companies and individuals to facilitate our Site, to provide the Site on our behalf, to perform Site-related services and/or to assist us in analyzing how our Site is used.  These third parties may access your Personal Information only to perform specific tasks on our behalf and subject to obligations that prohibit the disclosure or use of your information for any other purpose.
+
+ **III. COMMUNICATIONS**
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us at any time by following the unsubscribe link or instructions provided in any email we send, or contacting us at the email address provided below, indicating that you no longer want to receive information relating to Site.
+
+ **IV. SECURITY**
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure. However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you. Please do not use email or Social Media Platforms to communicate information to us that you consider confidential.
+
+ **V. SPECIAL NOTE TO INTERNATIONAL USERS.**
+
+Your information, including Personal Information, may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
+
+If you are a user accessing the Site from a jurisdiction with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Site, which is governed by Tennessee law, this Privacy Policy, and our Terms of Use and Subscription Agreement, you expressly consent to be governed by Tennessee law in order to use the Site and for the purposes outlined above.
+
+ **VI. SPECIAL NOTICE TO CALIFORNIA RESIDENTS**
+
+Under the California Civil Code, residents of the State of California that have provided any Personal Information to Paxton Media have the right to request a list of all third parties to which Paxton Media has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if Paxton Media has a privacy policy that gives either an opt-out or opt-in choice for use of Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, Paxton Media may instead provide you with information on how to exercise your disclosure choice options free of charge. Paxton Media qualifies for the alternative option and has adopted a policy of not disclosing the personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option that prevents that information from being disclosed to third parties for those purposes. It has established this Privacy Policy that provides you with details on how you may either opt-out of the use of your Personal Information by third parties for direct marketing purposes. If you are a California resident and would like to request information about how to exercise your third party disclosure choices, please send a request to **csr@messenger-inquirer.com** with a preference on how our response to your request should be sent.
+
+ **VII. LINKS TO OTHER SITES**
+
+Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. Such websites are not investigated, monitored or checked for quality, accuracy or completeness by us. Inclusion of any linked website on the Site does not imply or express an approval or endorsement of the linked website by us, or of any of the content, opinions, products or services provided on these websites. We strongly advise you to review the privacy policy of every site you visit. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+ **VIII. CHILDREN'S PRIVACY**
+
+Protecting the privacy of children is very important to us. The Children’s Online Privacy and Protection Act of 1998 (“COPPA”) defines a “Child” as anyone under the age of 13. Paxton Media strictly adheres to COPPA. For that reason, we do not collect or maintain information obtained through the Site from those we actually know are under 13, and no part of the Site is structured to attract anyone under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+ **IX. CHANGES TO THIS PRIVACY POLICY**
+
+This Privacy Policy is effective as of **March 8, 2019** and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Site after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+ **IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, OR ANY SUBSEQUENT MODIFICATIONS TO THIS PRIVACY POLICY, YOU MUST NOT ACCESS OR USE THe SIE OR DISCLOSE ANY PERSONAL INFORMATION THROUGH THe Site**.
+
+ **X. CONTACT US**
+
+We welcome your questions, comments and all feedback pertaining to your privacy or any other issue with regard to Site. You may contact us at **csr@messenger-inquirer.com**
