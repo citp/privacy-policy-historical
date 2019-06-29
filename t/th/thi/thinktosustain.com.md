@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinktosustain.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716160920id_/http%3A//www.thinktosustain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinktosustain.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629073129id_/https%3A//thinktosustain.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ThinktoSustain.com
 
@@ -46,7 +46,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at[ http://thinktosustain.com/Terms](http://thinktosustain.com/Terms)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at[ https://thinktosustain.com/Terms](https://thinktosustain.com/Terms)
 
 **Your Consent**
 
