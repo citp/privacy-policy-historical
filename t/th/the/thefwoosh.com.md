@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefwoosh.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218091546id_/http%3A//thefwoosh.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefwoosh.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629081326id_/http%3A//thefwoosh.com/about) for the most accurate reproduction.*
 
-# About | The Fwoosh
+# About |
 
 ### [](https://i0.wp.com/thefwoosh.com/wp-content/uploads/2009/05/fwoosh_watermark.png)
 
