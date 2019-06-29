@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the postguam.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222104131id_/https%3A//www.postguam.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postguam.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629123939id_/https%3A//www.postguam.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | postguam.com
 
 The Guam Daily Post LLC recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with important information about our privacy practices. This Privacy Policy applies when you use a website, mobile or tablet application, or other online service (collectively, the “Services”) that links or refers to it. It does not govern or apply to information collected or used by The Guam Daily Post through other means.
-
-This Privacy Policy covers the following:
 
 ### Information We Collect
 
@@ -26,13 +24,13 @@ We also collect information that you provide us when you comment on articles, pa
 
  **Other Information We Collect.** We also may collect other information about you, your device, or your use of the services in ways that we describe to you at the point of collection or otherwise with your consent. You may choose not to provide us with certain types of information, but doing so may affect your ability to use some of the Services.
 
- ** _How We Use Information_**
+### How We Use Information
 
  **To Provide and Manage the Services You Request.** This includes, for example, processing your subscription, sending you electronic newsletters, or enabling you to participate in the features provided by the Services. It also includes providing personalized content and recommendations to you, including through Personal Post. Through such features, we are able to bring you information and content tailored to your individual interests and needs.
 
  **To Contact You.** We may periodically contact you with offers and information about the Services and our affiliates, including in connection with your accounts, online surveys, legal notices, news stories, and other important information. You may opt out of receiving commercial email messages from us by following the instructions contained in those email messages.
 
- **To Deliver Targeted Advertising.** We may use your information to facilitate the delivery of targeted ads, promotions, and offers to you, on behalf of ourselves and advertisers, on and off the Services. Please see Online Tracking and Advertising for further information about our and third parties’ use of cookies, web beacons, mobile ad identifiers, and other tracking technologies to provide you relevant ads, as well as information about how to disable cookies and make other choices related to targeted advertising.
+ **To Deliver Targeted Advertising.** We may use your information to facilitate the delivery of targeted ads, promotions, and offers to you, on behalf of ourselves and advertisers, on and off the Services. Please see Online Tracking and Advertising below for further information about our and third parties’ use of cookies, web beacons, mobile ad identifiers, and other tracking technologies to provide you relevant ads, as well as information about how to disable cookies and make other choices related to targeted advertising.
 
  **To Better Understand Our Readers and Users.** The Services conduct research on our users’ demographics, interests and behavior based on the information we collect. We do this to better understand and serve our users, and to improve our products and services.
 
@@ -40,7 +38,7 @@ We also collect information that you provide us when you comment on articles, pa
 
  **Consent.** We may otherwise use your information with your consent or at your direction.
 
- _ **Sharing of Information**_
+### Sharing of Information
 
 The following provides information about entities with which we may share information. Our practices vary depending on the type of information.
 
@@ -104,11 +102,11 @@ Most browsers accept cookies automatically, but can be configured not to do so o
 
  **Local Storage & Other Tracking Technologies.** We, along with third parties, may use other kinds of technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with our Services. We also may use unique identifiers associated with your device, such as mobile ad identifiers. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For HTML5 local storage, the method for disabling HTML5 will vary depending on your browser.
 
- _ **Additional Choices With Respect To Targeted Advertising**_
+ _ **Interest-Based Advertising**_
 
-As described above, we and third parties may use cookies and other tracking technologies to facilitate serving relevant ads to you. For example, these technologies help us determine whether you have seen a particular advertisement before, tailor ads to you if you have visited our site before, and avoid sending you duplicate advertisements. In addition to disabling cookies and other tracking technologies as described above, you may opt-out of receiving targeted advertising from participating ad networks, audience segment providers, ad serving vendors, and other service providers by emailing [webmaster@postguam.com](mailto:webmaster@postguam.com).
+ **Opt out.** As described above, we, advertisers and third parties may collect information about your activity on our website and applications, on devices associated with you, and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used for interest-based advertising, but does not identify you personally. For example, advertisers and third parties may collect information such as types of pages viewed and categories of interest, to provide advertisements that may be more relevant to you. You may opt out of interest-based advertising by using Network Advertising Initiative-approved mechanisms such as [optout.networkadvertising.org](http://optout.networkadvertising.org/?c=1#!%2F) or [optout.aboutads.info](http://optout.aboutads.info/?c=2&lang=EN#!%2F). Alternatively, you may email [webmaster@postguam.com](mailto:webmaster@postguam.com).
 
-Due to differences between using apps and websites on mobile devices, you may need to take additional steps to disable tracking technologies in mobile apps. Many mobile devices allow you to opt-out of targeted advertising for mobile apps using the settings within the mobile app or your mobile device. For more information, please check your mobile settings.
+Due to differences between using apps and websites on mobile devices, you may need to take additional steps to disable tracking technologies in mobile apps. Many mobile devices allow you to opt out of targeted advertising for mobile apps using the settings within the mobile app or your mobile device. For more information, please check your mobile settings.
 
 ### Sensitive Personal Data
 
