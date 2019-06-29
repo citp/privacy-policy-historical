@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidelity-media.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180250id_/https%3A//fidelity-media.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidelity-media.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629053835id_/https%3A//fidelity-media.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fidelity Media
 
@@ -188,5 +188,3 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 
 It is the express wish of the parties that the Privacy Policy and all related documents have been drawn up in the English language.
-
-### Cookie Declaration
