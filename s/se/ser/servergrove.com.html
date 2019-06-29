@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the servergrove.com privacy policy that was archived on 2016-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160425143407id_/http%3A//www.servergrove.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the servergrove.com privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630014001id_/https%3A//www.servergrove.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
         <meta charset="UTF-8">
@@ -11,20 +11,20 @@
         <title>ServerGrove Privacy</title>
 
         <meta property="og:type" content="website">
-                <meta property="og:url" content="http://servergrove.com/privacy">
+                <meta property="og:url" content="http://www.servergrove.com/privacy">
                 <meta property="og:image" content="http://servergrove.com/open_graph.png?v2.5">
         <meta property="og:image:type" content="image/png">
         <meta property="og:site_name" content="ServerGrove">
         <meta property="og:locale" content="en">
 
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+        <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
         <link rel="shortcut icon" href="/favicon.ico">
-        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
-        <link href="http://fonts.googleapis.com/css?family=Lato:100,400" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Lato:100,400" rel="stylesheet" type="text/css">
 
                                 <link href="/css/e1a4687.css?v2.5" rel="stylesheet" media="screen">
                                     <script src="/js/libs/modernizr-1.7.min.js?v2.5"></script>
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
     </head>
     <body>
 
@@ -71,7 +71,7 @@
                 </form>
             </li>
             <li>
-                <form id="login-cpanel" method="post" class="ajaxLogin" action="/login/cpanel">
+                <form id="login-cpanel" method="post" class="ajaxLogin" action="//www.servergrove.com/login/cpanel">
                     <h3>Control Panel</h3>
                     <label for="Cpanel_username" class="required">Username</label>
                     
@@ -83,7 +83,7 @@
                     <br>
                     <input type="password" id="Cpanel_passwd" name="Cpanel[passwd]" required="required" class="input_login">
                     <br><br>
-                    <input type="hidden" id="Cpanel__token" name="Cpanel[_token]" value="17f5f04f6ac5ff17d93c5157f9ff7da429177c41">
+                    <input type="hidden" id="Cpanel__token" name="Cpanel[_token]" value="e00fa8bf67b2a3d3a040c7faba18971aa9eb74b6">
                     <input type="button" value="Login">
                 </form>
 
@@ -124,7 +124,7 @@
 
             jQuery.ajax({
                 type: form.attr("method"),
-                url: "/login/get-domain",
+                url: "//www.servergrove.com/login/get-domain",
                 data: form.serialize(),
                 dataType: "json",
                 success: function(json){
@@ -148,6 +148,7 @@
 </script>
 
 <!-- /Login Panel -->
+
         <div id="head">
     <div id="headContainer" class="container">
 
@@ -464,7 +465,7 @@ ServerGrove complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss S
                 <li>
                     <!--<script type="text/javascript" src="http://livechatdemo.servergrove.com/js/sglivechat-tracker/status.js"></script>-->
                     <!--live support-->
-                    <script type="text/javascript" src="https://livechat.servergrove.com/sglivechat/f.php/status.js"></script>
+                    <!-- <script type="text/javascript" src="https://livechat.servergrove.com/sglivechat/f.php/status.js"></script> -->
 
                     <br><a href="/contact">Open a Ticket</a>
 
@@ -478,10 +479,10 @@ ServerGrove complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss S
 
                                 <script type="text/javascript" src="/js/3a19395.js?v2.5"></script>
             
-            <script src="https://livechat.servergrove.com/sglivechat/tracker_jq.js" type="text/javascript"></script>
+            <!-- <script src="https://livechat.servergrove.com/sglivechat/tracker_jq.js" type="text/javascript"></script> -->
             <script type="text/javascript">
             $("#homeclick").click(function(event){
-                window.location = 'http://servergrove.com/';
+                window.location = 'http://www.servergrove.com/';
             });
 
             $(document).ready(function() {
@@ -503,7 +504,7 @@ ServerGrove complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss S
                 statuses['down'] = 2;
                 statuses['warning'] = 1;
 
-                $.getJSON('http://status.servergrove.com/api/v1/services', function (data) {
+                $.getJSON('https://servergrove-status.appspot.com/api/v1/services', function (data) {
                     servicesNb = data.services.length;
 
                     for (i=0;i<servicesNb;i++) {
@@ -541,15 +542,15 @@ ServerGrove complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss S
             });
             </script>
 
-            <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
- 
-  ga('create', 'UA-237654-3', 'servergrove.com');
-  ga('send', 'pageview');
- 
+            
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121405905-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-121405905-5');
 </script>
 
             
