@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeelatest.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610060448id_/http%3A//www.coffeelatest.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeelatest.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630004415id_/http%3A//www.coffeelatest.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - coffeetest
 
