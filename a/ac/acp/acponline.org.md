@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228172021id_/https%3A//www.acponline.org/acp-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629181910id_/https%3A//www.acponline.org/acp-privacy-policy) for the most accurate reproduction.*
 
 # ACP Privacy Policy | ACP
 
-**IMPORTANT UPDATE:** We updated our ACP Privacy Policy to reflect changes we've made to further strengthen our ongoing commitment to be transparent about how we use your data and keep it safe. We specifically included changes to address the new standards introduced by the European General Data Protection Regulation (GDPR). For more specifics about this, please read about our [message about GDPR](https://www.acponline.org/acp-privacy-policy/gdpr).
+We updated our ACP Privacy Policy to reflect changes we've made to further strengthen our ongoing commitment to be transparent about how we use your data and keep it safe. We specifically included changes to address the standards recently introduced by the European General Data Protection Regulation (GDPR). For more specifics about this, please read our [message about GDPR](https://www.acponline.org/acp-privacy-policy/gdpr). In addition, we are committed to proactively ensuring compliance with emerging U.S. state legislation regarding protection of consumer privacy including, but not limited to, the California Consumer Privacy Act (CCPA) and the Washington Privacy Act (WPA).
 
 #### Policy
 
@@ -50,21 +50,25 @@ If you have logged into password-protected areas of our web sites, we also recor
 
 ACP web sites send all visitors a cookie (small computer file) that contains a unique serial number. Each time our web server receives a request for a page, it checks to see if the cookie is present, which enables us to determine the traffic patterns of visitors as well as to identify repeat visitor traffic.
 
-_Advertising_
+**Advertising**
 
 We and our third party providers use the information collected by cookies and other technologies as described above, to understand how to make our website and services more available and user-friendly to our customers and members as well as to provide you with advertising that may be of interest to you. We use Google adwords to display an advertisement on the Google search results page, another site in the Google Display Network, or other third-party sites. Other Third-party vendors use cookies to serve ads based on users' past visits to ACP Online, Annals.org and other ACP sites. Learn how you can opt out of such advertising. **We do not serve interest-based advertising to users we identify as using our websites from EU internet protocol (IP) addresses. If you are from an EU IP address you will be served with generic advertisements.**
 
-_Functional Cookies_
+**Functional Cookies**
 
 ACP web servers send cookies to facilitate interaction between your web browser and the ACP’s web servers. For example, the Internal Medicine Meeting Day Planner uses cookies to keep track of which courses you have added to your schedule. The Shopping Cart uses cookies to keep track of items to be included in your order. Our single sign-on (SSO) system uses cookies to enable the convenience of allowing you to log into one ACP site and then automatically be logged into another ACP site. We or our third party providers also use cookies and other technologies to display messages and links to previous visitors who haven't completed a task on our site, for example using the contact form to make an inquiry. Learn how to opt out of cookies.
 
-_Google Analytics_
+**Google Analytics**
 
 Google Analytics may set cookies on your browser or mobile device, or read cookies that are already there. Google Analytics may also receive information about you from apps you have downloaded, that partner with Google. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to the Services to another application which partners with Google, is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. Please review those and see [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/) for information about how Google uses the information provided to Google Analytics and how you can control the information provided to Google. To prevent your data from being used by Google Analytics, you can download the Google Analytics opt-out browser add-on for Google Analytics which can be found at <https://tools.google.com/dlpage/gaoptout/>.
 
-_Inspectlet_
+**DMD Healthcare Communications Network SM Privacy Statement**
 
-We have engaged Inspectlet to analyze the activities of visitors to this website, and Inspectlet's authorized use of cookies and other tracking technologies enable it to have access to Personal Information of visitors to this website. Such access to and use of Personal Information by Inspectlet is governed by Inspectlet's Privacy Policy (see [www.inspectlet.com/legal](https://www.inspectlet.com/legal)).
+ACP and its related digital services participate in the DMD Healthcare Communication NetworkSM (the "Network"), and as such has implemented various technologies for universal registration/login among all Network member websites. These technologies are managed by DMD Marketing Corp. ("DMD"), and may involve the collection, receipt, and sharing of information with DMD, its clients and other Network members. If you would like to understand how this digital service's participation in the Network affects your privacy, please click here:
+
+<http://usersupport.dmdconnects.com/PrivacyPolicy.htm>
+
+Please note that the Network registration/login system may be different from the registration/login used by this digital service for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Network technologies, the conflict will be resolved in favor of the policy applicable to the Network technologies.
 
 #### How We Use Your Information
 
@@ -122,15 +126,17 @@ All of our websites are delivered via standard secured HTTPS protocols, ensuring
 
 Our secure server enables you to transmit a credit card number to us with confidence. We do not store your credit card number after your transaction has been processed and we strictly adhere to current Payment Card Industry Data Security Standards (PCI DSS) and routinely engage auditors to verify this compliance.
 
-#### Your Rights Under EU Data Protection Laws
+#### Your Rights Under EU and U.S. State(s) Data Protection Laws
 
-If EU data protection laws apply to our processing of your information, you are entitled by law to access, correct, amend, or delete personal information about you that we hold. A list of these rights is below and additional information is available in our [message about GDPR](https://www.acponline.org/acp-privacy-policy/gdpr).
+If EU data protection laws or U.S. state legislation in your state apply to our processing of your information, you may be entitled by law to access, correct, amend, or delete personal information about you that we hold. A list of the rights under the EU GDPR law is below and additional information is available in our [message about GDPR](https://www.acponline.org/acp-privacy-policy/gdpr).
 
-You can control the information we have about you and how we use it in several ways. If you are a registered user, you can review, revise, and correct the personal data that you have provided to ACP directly via MyACP ([www.acponline.org/myacp](https://www.acponline.org/myacp)), or by contacting us directly at: [www.acponline.org/contact](https://www.acponline.org/contact). You can request that data be deleted or make another request in connection with the rights below by contacting us via this same link.
+Rights under U.S. state laws vary by state, so in order to facilitate proactive compliance, we invite your questions at [www.acponline.org/contact](https://www.acponline.org/contact) or you may specifically make data removal requests via [this form](https://www.acponline.org/opt-in-consent-and-personal-information-request).
+
+You can control the information we have about you and how we use it in several ways. If you are a registered user, you can review, revise, and correct the personal data that you have provided to ACP directly via MyACP ([www.acponline.org/myacp](https://www.acponline.org/myacp)), or by contacting us directly at: [www.acponline.org/contact](https://www.acponline.org/contact). You can request that data be deleted or make another request in connection with the rights below by contacting us via this same link.
 
 In the event that we refuse a request under rights of access, we will provide the individual with a reason as to why. Individuals in the EU have the right to complain as outlined in the "Complaints" section.
 
-A list of your rights is below:
+A list of your rights as defined by the GDPR is below:
 
   * _Right of access_ – the right to request a copy of the information that we hold about the you.
   * _Right of rectification_ – the right to correct data that we hold about you that is inaccurate or incomplete.
