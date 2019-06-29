@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gogoanime.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165000id_/https%3A//ww1.gogoanime.io/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogoanime.io privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629185221id_/https%3A//www2.gogoanime.io/privacy.html) for the most accurate reproduction.*
 
-# Watch anime online, English anime online - Gogoanime
+# Gogoanime | Watch anime online, English anime online HD
 
 **Cookies & 3rd Party Advertisements**
 
