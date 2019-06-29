@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phrasemix.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101171206id_/http%3A//www.phrasemix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phrasemix.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629205451id_/https%3A//www.phrasemix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PhraseMix.com
 
