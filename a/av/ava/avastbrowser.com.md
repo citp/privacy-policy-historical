@@ -1,62 +1,8 @@
-> *The following text is extracted and transformed from the avastbrowser.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120211029id_/https%3A//www.avast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avastbrowser.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629132348id_/https%3A//www.avast.com/privacy-policy) for the most accurate reproduction.*
 
 # Avast privacy policy
 
-**Attention AT &T Secure Family™ customers.** Please click the following link to read: [AT&T Privacy Policy](https://about.att.com/sites/privacy_policy)
-
-As the world’s most trusted antivirus software company, we aim to defend you against threats in cyberspace. To do so, we may have to collect your personal data to provide you with the best weapons and the most up-to-date security. We do not take your trust for granted. As a multinational company with its headquarters in the Czech Republic, we conform our data use to the European Union’s (“EU”) General Data Protection Regulation (“GDPR”), with effect from 25 May 2018. Therefore, in our Privacy Policy, we explain what we do, how we do it, your choices, and how we may need your cooperation to help you stay safe. You want to visit **What Happens to Your Personal Data** and its sections:
-
-A. How we use Personal Data
-
-B. Choice and Portal
-
-C. Billing Data
-
-D. Support
-
-E. Marketing
-
-F. Online Identifiers
-
-G. In-Product Messaging
-
-H. Service Data
-
-I. Account Data
-
-J. Live Events and Competitions
-
-You want to review each of these sections on this page:
-
-1.         Our Policy’s Aims
-
-2.         Know Your Rights
-
-3.         When Our Privacy Policy Applies
-
-4.         When Our Privacy Policy Does Not Apply
-
-5.         Disclosing Your Personal Data to Third Parties
-
-6.         International Transfers of Your Personal Data
-
-7.         Sharing of Information among Avast Entities
-
-8.         Storage, Retention, and Deletion of Your Personal Data
-
-9.       Data Security
-
-10.       Other Jurisdictions
-
-11.       Policy Changes
-
-12.       Contacting Us
-
-13.       Data Protection Officer
-
-If you use HideMyAss Virtual Private Network (“VPN”), please see our HMA! VPN Privacy Policy. For users of Avast/AVG VPN, please see our Avast/AVG VPN Privacy Policy. Please note that Avast Mobile Security now offers VPN as one of its features.
-
-**1.          Our Policy’s Aims**
+As the world’s most trusted antivirus software company, we aim to defend you against threats in cyberspace. To do so, we may have to collect your personal data to provide you with the best weapons and the most up-to-date security. We do not take your trust for granted. As a multinational company with its headquarters in the Czech Republic, we conform our data use to the European Union’s (“EU”) General Data Protection Regulation (“GDPR”), with effect from 25 May 2018. Therefore, in our Privacy Policy, we explain what we do, how we do it, your choices, and how we may need your cooperation to help you stay safe. You want to visit What Happens to Your Personal Data and its sections:
 
 1.1     The Avast Privacy Policy applies to Avast Software s.r.o. ("Avast") and unless specified, its subsidiaries, including AVG, Piriform (“CCleaner”), Privax Ltd (“HideMyAss!”), AVG Technologies Norway AS, TuneUp Software GmbH, and Jumpshot, Inc., and any contractors, representatives, agents, and resellers while they are working on our behalf (collectively “we,” “us” or “our”).
 
@@ -70,7 +16,7 @@ If you use HideMyAss Virtual Private Network (“VPN”), please see our HMA! VP
 
 1.6     Where we collect and process your personal data, we will limit the collection and retention to what is adequate, relevant and necessary for our purposes and it will be kept in a form which allows for your identification no longer than necessary for the purpose for which we process your personal data. We refer to this as data minimisation.
 
-1.7     Where we store your personal data for longer periods for statistical purposes, as permitted, we will use appropriate safeguards.  Applicable law defines ‘statistical purpose’ as any collection of personal data, where the result of processing is for aggregate data, so the personal data we collect from you is anonymized or pseudonymized. For example, the processing of your personal data may be for the business-related process of counting users, products, sales and various metrics.  We also share statistical data that has been anonymized and aggregated geographically and so, cannot be used to identify individuals, with third parties for trend analytics.
+1.7     Where we store your personal data for longer periods for statistical purposes, as permitted, we will use appropriate safeguards. Applicable law defines ‘statistical purpose’ as any collection of personal data, where the result of processing is for aggregate data, so the personal data we collect from you is anonymized or pseudonymized. For example, the processing of your personal data may be for the business-related process of counting users, products, sales and various metrics. We also share statistical data that has been anonymized and aggregated geographically and so, cannot be used to identify individuals, with third parties for trend analytics.
 
 1.8     Our policy provides you with the legal bases for the collection of your personal data, lets you know how long personal data is stored and the reasons why, and how in some circumstances, they are necessary to retain. The length of this retention and how you may choose to request that we delete some or all your personal data and the consequences of the deletion are explained in this policy.
 
@@ -80,9 +26,9 @@ If you use HideMyAss Virtual Private Network (“VPN”), please see our HMA! VP
 
 1.11   We strive to keep the policy easy to understand and transparent, and so we refrain from technical information overload. If you wish to have further details on how we process your personal data, please contact us.
 
-**2.        Talk to Us about Your Data**
+2\. Talk to Us about Your Data
 
-2.1     We try to ensure that the users of our products and services always have an open line of communication with us. You can contact us at any time if you any questions, queries or requests about your personal data and, if European law applies to the processing of your data, about your right to request access to, modify, remove or export your data, or object to our processing of your data. We appreciate if you reach out to us first before you approach any supervisory authorities or courts.   
+2.1     We try to ensure that the users of our products and services always have an open line of communication with us. You can contact us at any time if you any questions, queries or requests about your personal data and, if European law applies to the processing of your data, about your right to request access to, modify, remove or export your data, or object to our processing of your data. We appreciate if you reach out to us first before you approach any supervisory authorities or courts.
 
 2.2     In order to make it easier for you to reach out to us and obtain the necessary information and action changes, corrections or deletions of your personal data, we have decided to provide you with a privacy preference portal.
 
@@ -90,31 +36,31 @@ If you use HideMyAss Virtual Private Network (“VPN”), please see our HMA! VP
 
 2.4     There could be instances where you are using our products or services, but we do not have your personal data, even though you have purchased our products or services. These include situations where you purchase our products from our service provider, a reseller, or an app store. Because your relationship in these cases is with that service provider, reseller or an app store, we do not actually have your personal data and will not be able to perform your request to access or delete your information. In such circumstances, please contact your service provider, reseller, or app store where you purchased the products or services, as this person is the primary controller of your personal data.
 
-**3.          When Our Privacy Policy Applies**
+3\. When Our Privacy Policy Applies
 
-            You should know that our Privacy Policy applies to the following situations and    activities:
+You should know that our Privacy Policy applies to the following situations and activities:
 
-3.1       Online activities
+3.1 Online activities
 
-Any personal data collected from you when you visit our websites or use our products or services           
+Any personal data collected from you when you visit our websites or use our products or services 
 
-3.2       Phone contacts
+3.2 Phone contacts
 
 Any personal data collected from you when you call us for sales, service, or customer support.
 
-3.3       Offline contacts
+3.3 Offline contacts
 
 Any personal data collected from you at a "live" or in-person event such as a trade show or promotion.
 
-3.4       Reseller information
+3.4 Reseller information
 
 Any personal data, including contact information such as telephone number and email address, collected from Avast resellers or sub-resellers.
 
-3.5       Other circumstances
+3.5 Other circumstances
 
 Any personal data collected from you when you contact us by email or by clicking the "report a virus" link on our website or by requesting online service or support, or opening a support ticket, or through our media contact or news subscription services, or other occasions.
 
-**4.**          **When Our Privacy Policy Does Not Apply**
+4\. When Our Privacy Policy Does Not Apply
 
 4.1 Third Party Sites
 
@@ -134,7 +80,7 @@ Third parties may also provide links to other websites and mobile applications (
 
 We are not responsible for the privacy practices of third parties. Your use of a third-party site will be governed by the terms and conditions, privacy policy, and data security policy of the third-party site.
 
-**5.        Disclosing Your Personal Data to Third Parties**
+5\. Disclosing Your Personal Data to Third Parties
 
 5.1     Disclosure to third parties
 
@@ -156,13 +102,13 @@ We are required to disclose your personal data to unrelated third parties in lim
 
 5.3     When you contact us or a third-party service provider working on our behalf, our service provider may suggest upgrades to our products or services. Our service provider may also suggest products or service that the service provider offers which are not Avast products or services. In this case, you will be clearly advised that the product or service is offered by the third party and not by Avast, and you will be subject to the terms and conditions, end user license agreement (EULA), and privacy policy of the third-party service provider.
 
-5.4     We offer third party browsers to new users of certain products, such as our antivirus products.  Whether you install the third party browser is in your discretion.
+5.4     We offer third party browsers to new users of certain products, such as our antivirus products. Whether you install the third party browser is in your discretion.
 
-5.5     For certain mobile products, we offer third party ads.  While we do not share your personal data with the ad network, data from your device including its IP Address, is used by the ad network to enable the delivery of the ads.  If you do not want to view third party ads, you have the choice to change to a paid version of the product.  If you are served a third party ad and you click on the ad, your data will be governed by the relevant third party whose ad you clicked on.
+5.5     For certain mobile products, we offer third party ads. While we do not share your personal data with the ad network, data from your device including its IP Address, is used by the ad network to enable the delivery of the ads. If you do not want to view third party ads, you have the choice to change to a paid version of the product. If you are served a third party ad and you click on the ad, your data will be governed by the relevant third party whose ad you clicked on.
 
 5.6     We reserve the right to store and use the information collected by our software. We may publish or share that information with third parties that are not part of the Avast Group, but we will only ever do so after anonymizing the data.
 
-**6.        International Transfers of Your Personal Data**
+6\. International Transfers of Your Personal Data
 
 6.1     We are a global business that provides its products and services all around the world. In order to reach all of our users and provide all of them with our software, we operate on an infrastructure that spans the globe. The servers that are part of this infrastructure may therefore be located in a country different than the one where you live. In some instances, these may be countries outside of the European Economic Area (“EEA”), where the level of protection provided by the laws of these countries may be different than the high standard enshrined in the GDPR. Regardless, we provides the same GDPR-level of protection to all personal data it processes.
 
@@ -170,7 +116,7 @@ At the same time, when we transfer personal data outside of the EEA, we always m
 
 Situations where we transfer personal data outside of the EEA include provision of our products and services, processing of transactions and your payment details, and the provision of support services.
 
-**7.        Sharing of Information among Avast Entities**
+7\. Sharing of Information among Avast Entities
 
 7.1     Our data collection and management practices do not vary by location. We follow the same “data minimisation” procedure with respect to all personal data in our possession, regardless of the jurisdiction from which it was collected, and regardless of whether the data is transferred from one member of the Avast Group to another.
 
@@ -178,31 +124,31 @@ Situations where we transfer personal data outside of the EEA include provision 
 
 7.3     Any reference in this policy to “Avast Group” means Avast, its, direct and indirect, parent companies and any company that is, directly or indirectly, controlled by or under common control with Avast or its parent companies.
 
-**8.        Storage, Retention, and Deletion of Your Personal Data**
+8\. Storage, Retention, and Deletion of Your Personal Data
 
-8.1     Storage of Information
+8.1 Storage of Information
 
-          We store information that we collect on our servers or on the servers of our subsidiaries, affiliates, contractors, representatives, contractors, agents, or resellers who are working on our behalf.
+We store information that we collect on our servers or on the servers of our subsidiaries, affiliates, contractors, representatives, contractors, agents, or resellers who are working on our behalf.
 
-          The data on our servers can only be accessed from our physical premises, or via an encrypted virtual private network (“VPN”). Access is limited to authorised personnel only, and company networks are password protected, and subject to additional policies and procedures for security.
+The data on our servers can only be accessed from our physical premises, or via an encrypted virtual private network (“VPN”). Access is limited to authorised personnel only, and company networks are password protected, and subject to additional policies and procedures for security.
 
-8.2     Access by our contractors
+8.2 Access by our contractors
 
-          We or our contractors, subsidiaries, affiliates, representatives, agents, or resellers who are working on our behalf undertake regular maintenance of your personal data. All third parties must agree to observe the privacy of our users, and to protect the confidentiality of their personal information. This means your personal data cannot be shared with others, and there must be no direct marketing by the third parties.
+We or our contractors, subsidiaries, affiliates, representatives, agents, or resellers who are working on our behalf undertake regular maintenance of your personal data. All third parties must agree to observe the privacy of our users, and to protect the confidentiality of their personal information. This means your personal data cannot be shared with others, and there must be no direct marketing by the third parties.
 
 Avast
 
-8.3     Retention and Deletion of Your Personal Data
+8.3  Retention and Deletion of Your Personal Data
 
-          We retain data for limited periods when it needs to be kept for legitimate business or legal purposes. We collect data when you purchase and as you use our services. What we collect, why we collect it, and how you can manage your information are described in our [Privacy Policy](https://www.avast.com/privacy-policy). If you purchased a service or registered an account with us, you may see a copy of the personal data collected from you at the [privacy portal](https://www.avast.com/gdpr).  Also, you can manage in the product settings how certain data is used. 
+We retain data for limited periods when it needs to be kept for legitimate business or legal purposes. We collect data when you purchase and as you use our services. What we collect, why we collect it, and how you can manage your information are described in our [Privacy Policy](https://www.avast.com/privacy-policy). If you purchased a service or registered an account with us, you may see a copy of the personal data collected from you at the [privacy portal](https://www.avast.com/gdpr).  Also, you can manage in the product settings how certain data is used. 
 
-For each type of data, we set retention timeframes based on the reason for its collection and processing.  Some data you can delete whenever you like, and some data is deleted automatically as soon as we do not need it for our legitimate business or legal purposes. We do not delete data that we need for our legitimate or legal purposes, even upon request, until the purposes expire. We also take steps to anonymize certain data within set time periods. For example, we strive to anonymize IP Addresses by substituting city and country after thirty days.  We may also amend the personal data we keep in such a way that you cannot be identified, for example, by hashing. We may retain a “key” to the hashing, but we will securely store it separately from the hashed data.
+For each type of data, we set retention timeframes based on the reason for its collection and processing. Some data you can delete whenever you like, and some data is deleted automatically as soon as we do not need it for our legitimate business or legal purposes. We do not delete data that we need for our legitimate or legal purposes, even upon request, until the purposes expire. We also take steps to anonymize certain data within set time periods. For example, we strive to anonymize IP Addresses by substituting city and country after thirty days. We may also amend the personal data we keep in such a way that you cannot be identified, for example, by hashing. We may retain a “key” to the hashing, but we will securely store it separately from the hashed data.
 
 When the data is deleted, we remove it from our servers or retain it only in anonymized form.
 
 The following describes why we hold onto different types of data for different periods of time.
 
-- We keep your data for the life of your subscription or account, if it’s necessary for the service (such as for activation, billing, support, communication) or if it helps us understand how users interact with our features and how we can improve our services.  
+- We keep your data for the life of your subscription or account, if it’s necessary for the service (such as for activation, billing, support, communication) or if it helps us understand how users interact with our features and how we can improve our services.
 
 - If you registered an account with us, we will keep data in your account until you choose to delete the account.
 
@@ -219,8 +165,6 @@ We have business and legal requirements that require we retain certain personal 
 · Ensuring the continuity of our services
 
 · Direct communication with you and our authorized partners, such as for service activation, billing, support, and marketing. 
-
-**9.      Data Security**
 
 9.1   Safeguards for protection of personal information
 
@@ -250,8 +194,6 @@ We may tailor the method of notice depending on the circumstances. Where the onl
 
 We reserve the right to delay notification if we are asked to do so by law enforcement or other authorities, or if we believe that giving notice immediately will increase the risk of harm to our user body overall.
 
-**10.      Other Jurisdictions**
-
 **Residents of the Russian Federations**
 
 We collect and process personal data on the territory of the Russian Federation in strict compliance with the applicable laws of the Russian Federation.
@@ -276,57 +218,641 @@ If any provisions of this Policy contradict the provisions of this section, the 
 
 Under California Civil Code § 1798.83, we are required to disclose to consumers the following information upon written request: (1) the categories of personal information that we have disclosed to third parties within the prior year, if that information was subsequently used for marketing purposes; and (2) the names and addresses of all such third parties to whom such the personal information was disclosed. We hereby disclose that we have not disclosed any such personal information regarding any California resident during the one-year period prior to the effective date of this Privacy Policy. California residents seeking additional information on this requirement or our privacy practices in general may write to us at customerservice@avast.com with the headline “PRIVACY REQUEST” in the message line. They may also send paper mail to Avast Software s.r.o., Pikrtova 1737/1a, 140 00, Prague 4, Czech Republic. Please write "Attention: PRIVACY" in the address.
 
-**11.     Policy Changes**
-
 11.1   Updates to our Privacy Policy will occur from time to time and we will publish these changes on our website.
 
 11.2   We suggest that you check our Privacy Policy every so often to keep yourself informed.
 
 11.3   Where the changes are major, we will notify you by email if you have an Avast account or through posts on our website.
 
-**12.      Contacting Us**
-
-12.1   We are registered as Avast Software s.r.o. and our registered address is Pikrtova 1737/1a, 140 00 Prague 4, Nusle, Postal Code 140 00, Czech Republic.
-
-12.2   Dispute resolution
-
-We make every effort to conduct our business in a fair and responsible manner. In the unlikely event of a disagreement or complaint about the way that your personal data is handled, please contact us.
-
-12.3     Contact Details
-
-· You can always reach us by email at [https://support.avast.com/en-usm](mailto:customerservice@avast.com). Please type “PRIVACY REQUEST” in the message line of your email so we can have the appropriate member of the Avast team respond.
-
-· If you prefer, you can send paper mail to AVAST Software s.r.o., Pikrtova 1737/1a, 140 00 Prague 4, Czech Republic. Be sure to write "Attention: PRIVACY" in the address so we know where to direct your correspondence.
-
-**13.      Data Protection Officer**
+13\. Data Protection Officer
 
 13.1   As required under the GDPR, we have a data protection officer (DPO) to monitor our compliance with the GDPR, provide advice where requested and cooperate with supervisory authorities. You can contact our data protection officer via dpo@avast.com.
 
-**What Happens to Your Data**
+14\. Data Avast collects by product
 
-Let us take you into the intricacies of what happens to your data. You may like to navigate directly to the sections as follows:
+**PC Products**
 
-**A.** **How we use Personal Data**
+Specific products for your PC collecting your Service Data Avast and AVG AntiVirus & Internet security products & services Our AntiVirus and Internet security products require the collection of usage data to be fully functional. Some of the usage data we collect include:
 
-**B.** **Choice and Portal**
+· potential malware threats to your device and the target of those threats, including copies of files or emails marked as potential malware, file names, cryptographic hash, vendor, size, date stamps, associated registry keys, etc.;
 
-**C.** **Billing Data**
+· information about how you use our products and their features, including data about your particular device, installation and uninstallation rates, language, technical parameters and manufacturer of a device, device security information (password attributes, encryption level), etc.;
 
-**D.** **Support**
+· information about where our products and services are used, including approximate location, zip code, area code, time zone, the URL and information related to the URL of sites you visit online; and
 
-**E.** **Marketing**
+· we collectively call this information “Clickstream Data”
 
-**F.** **Online Identifiers**
+We use this Clickstream Data to provide you malware detection and protection. We also use the Clickstream Data for security research into threats. We pseudonymize and anonymize the Clickstream Data and re-use it for cross-product direct marketing, cross-product development and third party trend analytics.
 
-**G.** **In-Product Messaging**
+**Avast CommunityIQ**
 
-**H.** **Service Data**
+Avast CommunityIQ is a threat monitoring service. Information about a threat detected in your device is sent to our server, so we can observe how the threat spreads and block it. This is vital for the functioning of our service and our ability to keep your device secure.
 
-**I.** **Account Data**
+When you download our products and services, you will automatically be opted into our CommunityIQ, and your device is able to provide security-related information when needed. You may choose to opt out via product settings. By remaining in our CommunityIQ, you actively help yourself and others in the Avast community to experience a higher standard of security.
 
-**J.** **Live Events and Competitions**
+Our security experts process the data acquired by our CommunityIQ to update our databases of viruses and infected websites, and for historical and statistical purposes to understand where the threat is coming from, the levels of threat per country, how many persons visited the malicious website and the number of people we protected. We process this data for the purposes of antivirus functionality and to protect your device.
 
-**A.** **How We Use Personal Data We Collect**
+The data is collected from your entire submission process online. For both desktop and mobile users, this includes URLs of visited websites, IP Addresses, approximate geolocation of user or Internet Service Provider (ISP), device IDs together with the information on the nature of the detected threat. We collect this information to ascertain the source of the infection.
+
+Geolocation gives the approximate location, for example, the latitude and longitude of the IP Address. However, if you access a malicious website while using Wi-Fi, then your IP Address can be location data. Depending on your ISP, your IP Address may indicate an exact location or the location of the ISP office or your location at a country level.
+
+We may provide a method for manual submission of suspected malware, or a way to add more information about the source of an infection. Files and information submitted through this process will be retained as long as is necessary for security research and providing you protection.
+
+**Avast File Reputation Service**
+
+FileRep is a database of executable files sourced from users who participate in the service. The files (or their hashes, that is, de-identified versions of the files) are stored and evaluated for the purpose of determining which are infectious and updating virus databases.
+
+Your participation is voluntary, and the data is stored in a way that limits its potential to be associated with individual users, for example, by hashing so the data is anonymous. This means it can be personally identifiable data if reversed by a “key”. However, the risks are lowered. In participating, you actively help yourself and others to experience a higher standard of security.
+
+If you do not want to participate, you can opt-out by unticking the box ‘Enable reputation services’ in the general settings menu.
+
+**CyberCapture**
+
+CyberCapture is a feature in our AntiVirus that detects and analyses rare, suspicious files. If you attempt to run such a file, CyberCapture locks the file from your PC and sends it to the our Threat Lab where it is analysed in a safe, virtual environment. You are notified when the analysis is complete.
+
+Currently, CyberCapture triggers when you run or download suspicious files from the Internet that CyberCapture has not previously encountered. We plan to expand this condition in the future to cover more sources.
+
+CyberCapture is able to handle large files, but it may take longer to deliver such files to the Threat Lab. All files are uploaded over an encrypted connection, which means your data is inaccessible to hackers.
+
+When CyberCapture is enabled, we collect information about you, your device IDs, your operating system, for example, whether you are using Windows 10 or XP, and we know your approximate location, usually at the country level.
+
+CyberCapture is enabled by default in the latest version of our AntiVirus. We strongly recommend that you keep CyberCapture enabled. If you would like to disable CyberCapture, open the [product user interface](https://support.avast.com/en-us/article/15) and go to Settings.
+
+**Avast CleanUp**
+
+CleanUp is offered as a Windows program. It removes unneeded files, registry entries, broken shortcuts and other similar items. It also provides system tuning features like program deactivator. For it to function, we process and store the following:
+
+· originating IP Address; scanned systems history including data about operating system, patch level;
+
+· system health, hardware information (including CPU), graphics card information, hard drive information;
+
+· system data information, which is a list of computer software installed, directory listing of software, registry name and entries, registry hives and executables; and
+
+· other operational data, for example, errors and error messages.
+
+We use this data for operational purposes, and to provide you with a fully functional service.
+
+**Avast Secure Browser**
+
+In the default setting, our Secure Browser will process:  
+· your IP Address;
+
+· the GUID number assigned to your installation of the Browser;
+
+· cookies usage data; and
+
+· browser extensions.
+
+We use the data we collect to provide the Browser’s functionality, to monitor performance and to improve our services. You can access and manage key privacy features from the Secure Browser’s settings:
+
+**Browser Security & Privacy Center**
+
+The built in Security & Privacy Center is a curated collection of some key security and privacy features, tools and settings, organized into one management console making it easier for you to control and manage your online privacy and security.
+
+**Anti-Phishing**
+
+This blocks malicious websites and downloads to help prevent your personal computer (PC) from becoming infected with viruses, spyware, and ransomware.
+
+**Privacy Cleaner**
+
+This cleans your browser history, cached images, cookies including both first-party and third-party cookies, and other junk with just one click, to keep your activity private and free up disk space.
+
+**Stealth Mode**
+
+This prevents your browsing history from being stored and removes any tracking cookies (both first-party cookies and third-party cookies) or web cache you pick up during that browsing session.
+
+Avast Secure Browser will also process the following data locally on your PC:
+
+· your browsing history;
+
+· personal information and passwords;
+
+· a list of permissions;
+
+· thumbnail-sized screenshots of websites that you visit;
+
+· cookies or data from websites you visit;
+
+· data saved by browser extensions and add-ons;
+
+· data on what you downloaded from websites;
+
+· data imported from other browsers; and
+
+· bookmarks.
+
+You can manage the data stored locally on your machine in the Browser settings. Data stored locally on your machine is not collected by our servers.  
+You can manage this information in several ways:
+
+· you can delete your browsing history, cookies and site data by visiting the Security & Privacy Center and using the ‘Privacy Cleaner’ tool;
+
+· you can stop our Secure Browser from accepting cookies from publisher websites by ensuring that ‘Anti-Tracking’ is turned on from within the Security & Privacy Center;
+
+· you can modify the cookie setting policy under the us Secure Browser Settings by going to Settings/Advanced settings/Security & Personal Privacy/Content settings;
+
+· you can review stored passwords using the Secure Browser default password manager in the Secure Browser Settings. Go to Settings/Advanced settings/Passwords and forms/Manage passwords; and
+
+· you can view and manage your stored Autofill information in the Secure Browser Settings. Go to Settings/Advanced settings/Passwords and forms/Autofill settings.
+
+**Avast Passwords**
+
+Avast Passwords is a feature that stores user passwords and notes under a single master password or fingerprint and permits the user to log on to multiple sites using a unitary sign-on credential.
+
+On Windows, our Passwords forms an integral part of the AntiVirus, which can be activated by the user by either performing a smart scan or by opening the feature in the product menu. On other platforms (Android, iOS and Mac) Passwords is a standalone program.
+
+When activated, Passwords will check whether you have stored any passwords via your browser and will suggest you move these passwords to Passwords, so they can be stored securely.
+
+When you choose to do so, Passwords will upload these passwords and remove them from your browser. Please note that the browser check happens locally on your device and none of your passwords are sent to our servers.
+
+Your passwords and other personal data are stored locally on your devices and encrypted by the Passwords app.
+
+However, when you choose to activate the optional feature "Synchronisation & Backup" to synchronise and backup your passwords across all your devices, you are required to create an account. Your personal data, that is, your passwords and notes, which may include credit card details, will be backed up on our remote server in a securely encrypted form, readable only via a “master key” on your device.  
+Thus, it cannot be decrypted by us.
+
+The data collected by our Passwords is necessary to provide the product functionality.
+
+**Identity Guard/Passwords/HackCheck**
+
+This functionality works in a number of ways. It allows you to check whether the passwords to your online accounts have been compromised. We are able to do this by searching through the database of leaks which we know about. You can do this through a number of our products which have this functionality.
+
+· Hack Check – Hack Check is our website where you can check your leaks simply by entering your email. You will then be sent the results of the check to your email. Our service will then also send you periodical emails as to whether we have learned that your credentials have leaked. You can unsubscribe from receiving these messages by clicking the unsubscribe link in the footer of these emails.
+
+· Identity Guard – Identity Guard is a function within Avast Mobile Security where you can enter an email address and get back feedback on whether or not your credentials have leaked. The functionality also stores e-mail addresses with respect to which no leak was detected, and will notify you if we learn that your credentials leaked at a later date.
+
+· Password Guardian – Password Guardian is a function within the Passwords product. When you store your credentials in the Passwords product, in an encrypted vault, we will notify you if we learn that your credentials have leaked elsewhere.
+
+**Antispam**
+
+Antispam is a product functionality that is designed to protect you against unwanted emails (spam). The software may collect information contained in emails reported by you as spam or identified as spam by a third-party tool (Mailshell). When you report an email as spam, the email is sent to the third party. Your consent is required for each of these submissions if you use the default setting.
+
+We do not collect, use or store your personal data. We do not share your software or device ID or any of our generated IDs with the third party. In general, Mailshell does not have information about individual users or devices and is not able to connect any information to you. If you wish to know in detail what data Mailshell collects from you, please go to their website.
+
+**Avast SafePrice**
+
+When you use SafePrice, information related to certain shops or products, URLs, the installation GUID, a timestamp of the offer, purchase, product name and number, merchant’s name, product links, prices and the categories of your purchased items, location at country level will be collected or transferred to us.
+
+This information is used to retrieve available offers, for example, coupons or cheaper prices from third parties partnering with us. We request offers anonymously from those third parties and will not transfer or disclose your personal data to them.
+
+At this stage, you do not communicate with the third party, only with us, and we do not forward any information to the third party except your country level geolocation and language. We do not give them your personal identifiers, so no emails and no names.
+
+The third parties may use cookies in relation to the services they provide on or via SafePrice. For example, when you click on an offer presented within the product, a cookie may be placed on your computer. Third party/third party's partner/service provider sites, offers and/or cookies are not controlled by us and are not subject to this privacy policy.
+
+In the end, you buy directly from the seller. We do not have access to your credit card details as you deal directly with the third-party companies.
+
+**Avast BackUp**
+
+The Avast BackUp service is provided by a third party under contract with us, and the privacy policy, terms of service, and EULA of the third party apply to any information that users provide in connection with the Avast BackUp service.
+
+Avast BackUp provides backup and storage capabilities for personal data that otherwise would reside only on your computer's hard drive. For the BackUp to work, data on your hard drive must be transferred to a centrally hosted site so that it can be "backed up."
+
+If your hard drive contains personal information, that information will be transferred to the host site for storage and subsequent retrieval. Techniques used to protect this information during storage and transmission are described below.
+
+**CCleaner & Other Products**
+
+Service Data specific to CCleaner Desktop Apps and Other Products All Piriform desktop apps receive usage data via log files. We collect usage data such as your device ID, your browser type and version, your operating system, your IP Address and information on software you have installed as necessary for the functioning of your Piriform desktop apps and to check if you qualify for any installer or in-app promotions we may market. The collecting and processing of your usage data is automatic once you install the app.
+
+**Desktop apps**
+
+**CCleaner Mac**
+
+CCleaner for Apple Mac cleans and de-clutters your hard drive, makes your operating system run faster and helps make your browsing on the internet more private and secure.
+
+**Recuva**
+
+Recuva is a windows app that allows you to search your hard drives and USB drives and recover any deleted files (if deleted with standard windows deletion).
+
+**Speccy**
+
+Speccy is a windows tool that allows you to receive an audit of your computer hardware and software. You may publish this information to an online page if you wish to share. The audit does not include IP Addresses (http://speccy.piriform.com/results/HSP0RYoxXz3SniCDtOLxcJN).
+
+**Defraggler**
+
+Defraggler allows you to optimise your older hard drives so they run faster.
+
+Software as a Service (SaaS) Product
+
+SaaS products allow you to connect to and use cloud-based apps via the Internet.
+
+**CCleaner Cloud**
+
+CCleaner Cloud is offered as both a free and paid version. The platform allows users and businesses to remotely manage their computers centrally from the platform.
+
+For free users, we collect personal data including your name, email address, IP Address and computer events, for example when you install software. This data is necessary to provide and improve our services by connecting this data with the usage logs. For Professional and Business users, we collect the same personal data as for the free user and additionally, we may collect your company name, billing information and mobile number. The data is necessary to complete the contract when you subscribe to our services.
+
+**Business-only Product**
+
+**CCleaner Network**
+
+CCleaner Network is a business-only product that is installed locally on your server and allows you to manage and clean your company’s computers. We do not receive any data as this is a local-only closed network product.
+
+**Mobile Products**
+
+Service Data Specific to Your Mobile **Avast and AVG Products & Services**
+
+In the sections below, we look at what data is collected when you use AMS, AVG AntiVirus and AVG Protection for Xperia, in addition to variations of these apps developed specifically for tablets or alternative app stores.
+
+When you first run these apps following installation, you have the option to subscribe to use the paid version. If you stay on the free version, we will serve third party ads; if you do not want to view third party ads, you may choose the paid version. Whatever your choice, your service data is not connected to your Billing Data, because there is no Billing Data for free users and for paid customers, as described above, your Billing Data is collected only by the app store where you purchased the product.
+
+If you use the free version of our apps, the services are supported by third party ads. Choosing to install the free version means data such as your IP Address will be provided to the third party ad server.
+
+In some instances, Avast Mobile Security (AMS) or AVG AntiVirus may come preinstalled on your mobile device upon purchasing it from the store and you can deactivate them within the product Settings – Personal Privacy.
+
+**Web Shields**
+
+Web Shield Lite is on by default and is only effective on some browsers and Android operating system versions. When enabled in a supported configuration, the app reads URLs from the browser in realtime and sends them to our server via the URL information service.
+
+We check the URL against our database of known threats and then display an alert if the URL is a known threat.
+
+Web Shield with Accessibility is off by default. You need to grant Accessibility permission to activate this feature. While it is the same service as Web Shield Lite, it is capable of checking URLs in more browsers and operating systems. The list of supported browsers and operating systems sometimes changes due to the development of or changes to third party services.
+
+We may use anonymous browsing data for third party trend analytics. All users may turn off data sharing in product Settings – Personal Privacy.
+
+**Avast AntiTheft for Android**
+
+AntiTheft is a function within AMS. It is off by default. When you choose to turn it on, you can request location on demand from my.avast.com or through SMS commands from another phone. AntiTheft is designed to protect data residing on your mobile phone in the event of theft.
+
+For AntiTheft to function, we must collect and store information about your phone and its approved users. The types of data we collect include the following:
+
+· a list of approved SIM cards;
+
+· a phone number to notify you in the event of unauthorized SIM card replacement;
+
+· a number where calls and messages can be forwarded in the event of theft;
+
+· your mobile’s unique identifier or International Mobile Equipment Identity (IMEI) when you activate AntiTheft.
+
+We use this data to locate and identify your lost device, and to help you report the lost device to police and cell phone carriers. If the phone was stolen, it may block the thief from using the device. The collected data is used to provide you the functionality.
+
+Last Known Location is a feature within AntiTheft, also off by default. When you activate the feature, we send more frequent location updates to the server to help you track your device's last known location.
+
+**Avast Call Blocker**
+
+The Call Blocker feature is only available on Android versions below 9.0. This paragraph does not apply to Android 9.0 and above. Call Blocker is a feature of AMS which allows you to block unwanted callers. It is off by default. When on, we build a database of SPAM callers by analysing patterns of high volume callers across our user base.
+
+When you (an AMS user) call a third party, or a third party calls you, we will have the following record in our database: the third-party phone number, the time of the call, and an anonymous key code number assigned to this particular record. This allows us to count the number of calls made to a specific recipient in order to evaluate whether the call is a spam or not. Your GUID is disconnected from this data.
+
+We do not collect the phone numbers of our users. Therefore, the data we collect from you is anonymized and we are not able or intending to trace the call record to you.
+
+However, we are able to see the phone numbers of third parties who called our AMS users in general or which phone numbers were called by our AMS users.
+
+The purpose of this data collection is to identify high volume callers; therefore, we look at aggregations, not at individuals. You may shut off this feature in your discretion via the product Settings.
+
+**Avast Wi-Fi Finder**
+
+Avast Wi-Fi Finder for Android provides information about free hotspots. It is based on crowdsourced data, meaning that every user has to willingly contribute to the database.
+
+We use the data collected for sharing with other Wi-Fi Finder users. You may turn off data collection by not using the WIFI sharing feature. We collect this data:
+
+· the location of the device when you use “submit a hotspot”;
+
+· names of hotspots you submit to the database;
+
+· some technical information about the network (speed, signal strength, security assessment, and frequency
+
+· mac address and IP Address of the device;
+
+· the install GUID and hardware identifier; and
+
+· hotspot passwords.
+
+In some Android versions, we need your location permission to scan Wi-Fi networks for security threats. Any time we’re given the location permission, we may use it to refine our databases of Wi-Fi networks, including the locations of Wi-Fi hotspots and dangerous networks.
+
+**Avast Battery Saver**
+
+The Battery Saver is an app that helps you monitor what apps are running in the background, speed up your mobile device, and save the battery. We collect AppInfo for the purpose of delivering this feature.
+
+Battery Saver has a functionality, Smart Profile that can switch your device setting automatically to preserve the battery upon an event you set up, for example, when you come home. In doing this, you have to reveal your location Wi-Fi or give us permission to use your Android mobile operating system’s location so that the event can be triggered. This data is stored locally on your device and is not transmitted to us.
+
+We track the usage of this feature via Google Analytics, so we would know the demographic and geographic statistics of our users who have enabled Smart Profile. We do not have information on the individual user. As Google is a third party, the third-party privacy policy applies.
+
+Smart Profile is enabled by default, but you may disable this via product settings.
+
+**AppInfo**
+
+AppInfo is an Avast library used in our product features such as App Insights, for the purposes of displaying how much time is spent on the device, broken down by app, by total data, and by day; enhancing our cloud based threat detection; improving other Avast products; for Avast marketing; for third party ads; and for analytics. To this end, it analyzes device information such as: language; make and model; operating system version; telecom provider; and city and country. Additionally, we observe the list of currently installed apps; the time when an app is installed or removed; the source of an installed app; Wi-Fi and carrier data consumption per app; time that an app is in the foreground; battery and CPU consumption per app; and which permissions are granted to each app. The specific scope of information collected is dependent on permissions granted to the app. We may share statistical data that has been anonymized and aggregated geographically and so, cannot be used to identify individuals, with third parties for trend analytics. You can always turn off the specific features which use data from the AppInfo library in your settings, or change your preferences for the processing of this data in the privacy settings.
+
+**Avast ApkRep**
+
+We use the ApkRep to build a database of Android apps sourced by users of AMS. We collect and store hashes of app files together with the installation GUID, as well as metadata about the apps (e.g. application package name, application signing certificate information, source market identifier and file size). We process this on the legal basis of our legitimate interests in analysing your data to find infectious apps and to update our virus databases, which is necessary to continuously improve AMS to keep you secure.
+
+Avast Android CleanUp, AVG Cleaner, AVG Cleaner for Xperia, and CCleaner for Android (Piriform)
+
+Avast Android CleanUp, AVG Cleaner, AVG Cleaner for Xperia, and CCleaner for Android (Piriform) access your device storage to delete data that is not in use. You will be asked to allow your Android operating system to access your device storage. The feature sees what’s in your device, for example the apps and files you have downloaded, ranging from your music playlist to photos. However, everything takes place locally on your device and nothing is transmitted to our servers.
+
+Since we do not collect or store any personal data, any data collected is anonymous.
+
+We also offer you a Cloud service connection for you to back up your files so nothing important gets deleted. You may sign-in to Google Drive, Dropbox or Microsoft OneDrive directly from CleanUp. This feature is optional. If you use this feature, you will be storing your files with a third party and thus this is subject to the third party’s terms of service and privacy policy.
+
+**Avast Family Shield**
+
+Family Shield is a location-based mobile phone application service. The master user installs the application on his/her device and then also on the device of a connected user, for example a child. The application collects users’ telephone numbers, location of mobile device, location-based information, website domains, and app usage history, to provide the requested service. One of its features is for the master user to know where a connected user is (for example, using the application, a mother or father can connect their device with the device of a child or parent and then see where their child or parent is located). Another feature allows the master to set parameters that will block or permit specific websites, and/or applications from running on or from being collected from the connected user's device.  
+This application also provides the master user with the battery level of the connected user's device. Login is managed using Facebook login, but we use the Facebook login information only for authentication. We do not collect any information regarding your Facebook account beyond this authentication. We use the data we collect in order to deliver the Family Shield functionality (perform the contract we have with you).
+
+**Avast Mobile Campaign and News Feed**
+
+From time to time, we will run mobile campaigns. The goal of our campaigns is to show messages to you to promote various features of our apps and offer discounts on paid features. We use three kinds of messaging formats:
+
+· Notifications
+
+· Overlays
+
+· Purchase screen
+
+Here are some examples of general events which we use to trigger messaging:
+
+· First launch
+
+· App installation
+
+· Subscription changes
+
+· Features changed
+
+· Trial changed
+
+· Seasonal events (such as national holidays)
+
+Each app can also define its own events, for example:
+
+· EULA accepted
+
+· AV scan threats found
+
+· App update
+
+· Safe clean
+
+· Low battery
+
+Apart from campaigns, when you use our apps on your Android, you will receive news feed from us, for example, once you complete a virus scan or CleanUp process, you are directed to a result screen that offers a Facebook-news-feed-like experience.
+
+Each feed has multiple cards. You can scroll the feed vertically. Each card has its own function. We may offer information or tips, promote our apps or guide you to a screen, application, Google Play or web page when you tap on the card. We also display third party advertisement cards to free users.
+
+We use our servers to download relevant content for you, so we will transmit some of your data in the request, for example, your hardware ID, the install GUID, and device information like language, vendor, model, and android version. Your data is used to deliver content, which is relevant to you.
+
+**AVG Alarm Clock, Open Weather and Taboola**
+
+**AVG Alarm Clock**
+
+When you install Alarm Clock, which is an app that you can set to wake you up, you will also receive by default, weather (via Open Weather), news (via Taboola), and third party ads via regular ad SDKs. You may opt out of receiving news and weather reports via Settings – My Day Dashboard.
+
+Through Alarm Clock, we collect and process anonymous statistical data in our own analytics system and we share pseudonymized or anonymised data with third-party analytics and crash reporting. We collect only the personal data necessary for us to enable our third-party providers to send you relevant information. You may opt out of third party analytics through Settings – Personal Privacy.
+
+**Open Weather**
+
+You receive weather information from Open Weather, our third-party service provider. This service is on by default and we share your approximate location data, so you will receive relevant weather forecasts, for example, East Coast, USA. However, if you wish to have the weather forecast for a specific location, for example, Brooklyn, New York, you have to turn on this setting. Apart from Alarm Clock, you can receive Open Weather on your charge screen when you install AntiVirus, Cleaner and Battery Saver.
+
+**Taboola**
+
+Alarm Clock will also show you news articles from Taboola, our third-party news aggregator. We share some of your data with Taboola, such as your IP Address, your device, browser and operating system, your hardware ID, news websites you visited and your preferred language, for you to receive locale specific news.
+
+**AVG Gallery, Gallery Doctor and Photo Cleaner for iOS**
+
+**AVG Gallery**
+
+Gallery is a smart app that you can install in your Android to help you organise your photos and videos into significant moments. Through Gallery, we collect analytics data in our internal analytics system, and through third party analytics like Google Analytics and third party crash reporting (Crashlytics).
+
+**AVG Gallery Doctor**
+
+Gallery Doctor is a free app that helps you free up storage space in your mobile by identifying bad & similar photos in your Android gallery. It does not collect any personal data.
+
+**VPN Products**
+
+VPN Privacy Policy
+
+Using a virtual private network (“VPN”) is like going undercover while you are on the Internet. We provide VPN services that allow you to be on the Internet anonymously and securely from anywhere in the world. While we respect your privacy and take strenuous measures to protect it, it does not mean that you are totally anonymous to us.
+
+In this section of the Privacy Policy, we would like you to know what kind of personal data we collect from you or that you provide to us when you use our VPN services.
+
+We treat this data differently than we do for other applications as it can be of such a sensitive nature, so we want you to understand clearly how we process it, on what legal bases, whether we transfer or disclose it, and how long we retain it, in accordance with relevant laws.
+
+**1.** **Personal Data Collection and Use**
+
+Personal data is understood as any information that relates to an identified or identifiable natural person, and includes the information you provide to us while using our VPN services. 
+
+More specifically, we may collect and process data about you in the following situations:
+
+1.1 Account Creation and Management 
+
+If you create an account with us (note: this is necessary in order for you to use some of our applications or some of their functions), we will need some information about you. This is the data that is created and stored for the management of your account: 
+
+**Account data**
+
+| 
+
+**What we use it for**  
+  
+---|---  
+  
+Email address
+
+| 
+
+To send you purchase receipts, communications, and occasional product news  
+  
+Username
+
+| 
+
+To manage your account and facilitate your login into the service   
+  
+License Key
+
+| 
+
+To activate your subscription  
+  
+Subscription renewal date
+
+| 
+
+To tell us until when the account is valid  
+  
+Trial User
+
+| 
+
+To add a trial period before the account is charged  
+  
+All of the above data is stored for as long as you use our service, as it is necessary for us to provide it. You can see all of this data by logging into our [Privacy Preference portal.](https://www.avast.com/gdpr)
+
+1.2 Service Data from our VPN Servers
+
+If you use our VPN service, we strictly collect the minimum amount of information needed to provide and operate our VPN service, as well as keep it running safely and efficiently. This is the data we collect to make sure our VPN infrastructure works (“Service Data”):
+
+**Service data**
+
+| 
+
+**What we use it for**  
+  
+---|---  
+  
+Timestamps of your connections
+
+| 
+
+To manage the number of concurrent active connections, and handle abuse.
+
+Example: We use them to stop brute force password cracking attempts on user accounts.  
+  
+The subnet of your originating IP address.
+
+E.g. We anonymize the last octet to protect your privacy: 92.143.234.000 We don’t collect exact IP addresses that could ID you.
+
+| 
+
+To plan for increased network demand and capacity.
+
+Example: Help us decide to add servers in a region if we see a rise in demand there, or help troubleshoot issues with a specific ISP.  
+  
+IP address of the VPN server you’re using.
+
+| 
+
+To troubleshoot our service and plan for new network capacity.
+
+Example: Identify when an IP address suddenly doesn’t work for accessing certain services, and act to resolve the issue.  
+  
+Amount of data transmitted
+
+E.G. 5GB up or down 
+
+| 
+
+To plan for new network capacity and server improvements.
+
+Example: We may deploy more capacity to meet demand and make sure speeds stay up for all users.  
+  
+**We store this data on servers for 30 days** , after which time it is deleted on a rolling basis — so data created on Jan 3rd gets deleted on February 2nd, for example.
+
+1.3 Data we don’t collect on our VPN service. Period
+
+We do not collect, store or log any of the following data:
+
+· Any complete originating IP address that could identify you.
+
+· Any DNS queries while connected. We rely on our own secure DNS servers, so your queries are also protected from exposure to 3rd parties.
+
+· Any activity logs: the applications you use, the services you use, the websites you connect to — basically anything you do online.
+
+1.4 Service Data from our VPN Clients
+
+In order to make sure our VPN clients do their job properly, we have to know how people, as a whole, interact with them. This means we collect anonymized and aggregated data on interactions taken in the app.
+
+None of this data can be used to specifically identify you or what you’re using the VPN service for.
+
+**Client Data**
+
+| 
+
+**What we use it for**  
+  
+---|---  
+  
+OS Version
+
+E.g. Windows 10
+
+| 
+
+For user support, troubleshooting, and product development planning
+
+Example: Which platforms do our users most like to use?  
+  
+Avast SecureLine VPN version
+
+E.G. SecureLine for Android version 4.1
+
+| 
+
+For user support, troubleshooting, and product development planning
+
+Example: Is our latest update deploying well?  
+  
+Application Events
+
+E.g. Turned on auto-connection, Uninstalled, etc. You can opt out of this in the settings.
+
+| 
+
+To plan product development
+
+Example: Is a new client-side feature we introduced popular? Are people uninstalling after our latest release?  
+  
+Even though it’s anonymized, we still delete this data on a rolling 2-year basis (i.e. data created on Jan 2, 2019, will get deleted on Jan 2, 2021).
+
+1.5 Third-party Analytics In Our VPN Products
+
+To analyze the application events mentioned section 1.4, and understand how our services function, or how stable or successful they are, we rely on our own analytics tools as much as possible. But sometimes, we need to rely on third-party tools that address specific issues in ways we don’t have the ability to replicate. Whenever possible, we anonymize, masque, or in other ways try to limit your exposure.
+
+Here are the third-party tools we use, how we use them, and their privacy policies. You will find that these tools are also listed under the broader section [H. Service Data](https://www.avast.com/privacy-policy#service) of this privacy policy which covers all Avast products, however in the interest of full transparency, we cover here in detail how the relevant ones are used for our VPN products: 
+
+**Google Firebase Analytics on iOS and Android**
+
+Firebase helps us to understand how people interact with certain aspects of our applications. While Firebase normally relies on Android Advertising ID or iOS Identifier for Advertisers, we’ve opted to use our own anonymizing identifiers instead. Therefore it doesn’t contain any information that could personally identify you. Still, you can opt out of providing us with this anonymized application performance data in our application settings.
+
+Still, you can opt out of providing us with this anonymized application performance data in our application settings.
+
+**Google Fabric Crashlytics on iOS and Android**
+
+This Google service helps us to improve the application stability, pinpoint things that don’t work, and improve your experience. Its implementation doesn’t contain any information that can personally identify you.
+
+Both Firebase Analytics and Crashlytics are subject to [Google’s privacy policies](https://policies.google.com/privacy).
+
+**AppsFlyer Analytics on iOS and Android**
+
+AppsFlyer helps us understand how effective our marketing campaigns are by letting us know which ones directed you to us. The data collected here is subject to AppsFlyer’s privacy policy.
+
+You can opt out of AppsFlyer Analytics in the settings of our applications, or by opting out by following the [instructions in their privacy policy](https://www.appsflyer.com/privacy-policy/).
+
+**Deprecated Analytics**
+
+If you’re still on older versions of our applications, the following analytics are embedded in them. We highly recommend that you upgrade to later versions as they no longer use these:
+
+· Facebook Analytics on older versions of our Android apps: we used to use this to know how many people opened an app, how much time they spent in it, and other information about how they interacted with them. You can find [Facebook’s privacy policy here](https://www.facebook.com/about/privacy).
+
+· HockeyApp on older versions of our macOS and iOS apps: This was used to do beta distribution, crash reporting, user metrics, feedback, and more. This tool belongs to [Microsoft and you can find their privacy policy here](https://privacy.microsoft.com/en-us/PrivacyStatement).
+
+**2.** **Where and how long we store your personal data**
+
+2.1 Where we store your data
+
+When you use our service, you may be using servers located in a variety of different countries. However, there is a difference between use and storage. What little information that gets generated by your use of our infrastructure does not get stored outside of the Czech Republic. 
+
+There may be some instances where, as a matter of necessity, we need to transfer data outside of these two jurisdictions. When we process the data within our group, regardless of where we are, we always implement the same level of data protection afforded by the European General Data Protection Regulation to all personal data we process. Where we cooperate with third parties which are involved in data processing, we legally bind any party we deal with to adhere to those high levels of protection with standardized contracts approved by the European Commission, and to ensure your rights are protected in accordance with this privacy policy. 
+
+In all cases, we follow generally accepted standards and security measures to protect the personal data submitted to us, both during transmission and once we receive it. We always strive to protect your data to the maximum extent we can.
+
+By using the service, you acknowledge this transfer, storing or processing
+
+2.2 How long we store your data
+
+Concerning storage or retention periods, the specific terms applicable to the various types of data used for various purposes are noted in their respective sections. After these periods elapse, we will delete this data and no longer use it for that specific purpose.
+
+These retention periods may be longer where it is necessary for us to comply with our legal obligations or legal orders, resolve disputes, and enforce our agreements, including in the court of law.
+
+3.Disclosure of your VPN information
+
+As a rule, we do not disclose any information to other commercial parties, with the following exceptions:
+
+3.1 Provision of services
+
+It may be necessary to share some data with select parties to deliver the product or service you require — such as with a payment card provider who we use to process your credit card transaction, or to do perform website analytics. The information that is collected and shared with those parties is outlined above.
+
+3.2 Legal requirements
+
+In the event we are served with valid subpoenas, warrants, or other legal documents (for example, documents concerning the sale of all or part of our business or a merger), or where applicable law compels us to comply, or when we are required to defend the rights or property of the Avast Group, including the security of our products and services, and the personal safety, property, or other rights of our customers and employees — we may share your personal data as collected above.
+
+3.3 Whatever the circumstance
+
+**“Avast does NOT store the originating IP addresses of our users when connected to our VPN service, and thus cannot identify users when provided the IP address of one of our servers.
+
+We are also completely unable to disclose any information about the applications people use, the services they employ, or the websites they visit while using our VPN. We simply do NOT store this information.” 
+
+**
+
+A. How We Use Personal Data We Collect
 
 The personal data we collect may come directly from you or we may obtain it from other sources, such as our service providers and resellers.
 
@@ -339,8 +865,6 @@ When our use of your personal data is based on our legitimate interests and is c
 Avast is a global business and we have operations and personnel around the world who process personal data. We have standard contractual clauses in place among its affiliates which govern the transfer and use of personal data.
 
 In the following sections, we explain the personal data we collect. Please be mindful that some of the categories may collect the same personal data.
-
-**B.** **Choice and Portal**
 
 You can make certain choices about how your data is used by us. For example, if you have purchased a product or service from us, you will be able to choose how data collected from you is used. This choice is made in the relevant product settings. Please note, if you purchased a product from us and in your product settings you do not see one or more of these choices, it means your collected data is not being used in that particular category. The choices are: 
 
@@ -359,8 +883,6 @@ Likewise, if you purchased our products from a reseller or a distributor (e.g. b
 If you have purchased a product directly from us, through one of its third party service providers, or you have requested support from one of our technical support providers, or you have registered an Account with us, you will need to use the same email address you previously provided us to login to the portal. If you have never purchased a product or provided us with your email address (e.g. you are a free user, a mobile user, or a mobile paid customer), you will not be able to access the portal, because we do not have any Billing Data or email address collected from you. 
 
 The portal is for your convenience only. It is generally read only. This means, you are able to see your choices but not able to edit your choices in the portal. To edit your choices, you need to do so in the applicable product settings. 
-
-**C.** **Billing Data**
 
 **Paid Products and Services for your personal computer**
 
@@ -404,16 +926,12 @@ In some instances, we change resellers or distributors as we carry out our busin
 
 You are not required to disclose Billing Data to download our free products and services for your PC and mobile device, which includes free AntiVirus, free mobile security, and free CCLeaner for desktop. However, our free CCLeaner cloud product does require you provide your name and email address to register for the product.
 
-**D.** **Support**
-
 We directly or through our third party technical support service provider(s) collect your name, email address, phone number(s), home or work address, or other information by which we may identify you while providing technical support. We need this data for verification and to communicate with you about your support request.
 
 In cases where you request individual support or assistance we may ask you to provide information about your device or computer, your means of accessing the Internet, or information about your internet service provider. To provide the technical support we also collect data that may include your email address, IP Address, information about your hardware and software, the URLs of sites you have visited, files stored on your computer (including potentially dangerous or infected files), email messages (whether stored on your computer or elsewhere), information regarding senders and receivers of email messages, and the like. If you request support, we may offer you the option of accepting a remote session in which we take control of your device or computer in order to help you resolve the issue.
 
 Information collected while providing the support will not be used for secondary purposes, other than, we may use your email address to send you information about our other products or services. If you contact us for support, we may suggest that you upgrade or update products or services. Information and data connected to provision of support will be retained by us to have a history of support requests and for support research purposes.
 
-**E. Marketing  
-**  
 When we collect your email address, we may market our other products and services to you. You may choose to unsubscribe from future email marketing by following the instructions in the email.
 
 Generally, we do not serve third party ads in its products for the personal computer. We may serve third party ads in our products for mobile devices.
@@ -653,8 +1171,6 @@ Taboola
 [https://www.taboola.com/privacy-policy](https://www.taboola.com/privacy-policy)  
   
 If you do not want to view third party ads, you may uninstall the free mobile product and/or choose an available paid version of mobile products, which does not serve third party ads.
-
-**F.** **Online Identifiers**
 
 **GUID**
 
@@ -1184,8 +1700,6 @@ We may partner with a third party either to display advertising on our site or t
 
 We collect your IP Address to provision your product or service. We also use the IP Address with mobile products to serve ads. We strive to replace your IP Address within sixty days of collecting it with your city and country or we hash your IP Address. 
 
-**G.** **In-Product Messaging**
-
 We sometimes communicate with you using a technique known as "in-product messaging." In-product messaging may be used in the following scenarios:
 
 · when your license is about to expire;
@@ -1205,8 +1719,6 @@ We also use in-product messaging to notify you of different products or upgrades
 Billing Data is however not used for in-product messaging. In-product messaging also permits your computer or device to transmit information to our servers including technical data, virus definitions, security, and technical information about your hardware.
 
 The data may be used to offer you a discount on a new product based on your past purchases. Data is also used for analytical and statistical purposes, product updates, quality control, and in-product and feature design. Premium or paid customers can manage In-product messaging for marketing purposes in the applicable product settings. 
-
-**H.** **Service Data**
 
 Service Data is collected from your use of our websites, products, and services. 
 
@@ -1940,7 +2452,7 @@ Last Known Location is a feature within AntiTheft, also off by default. When you
 
 **Avast Call Blocker**
 
-Call Blocker is a feature of AMS which allows you to block unwanted callers. It is off by default. When on, we build a database of SPAM callers by analysing patterns of high volume callers across our user base.
+The Call Blocker feature is only available on Android versions below 9.0. This paragraph does not apply to Android 9.0 and above. Call Blocker is a feature of AMS which allows you to block unwanted callers. It is off by default. When on, we build a database of SPAM callers by analysing patterns of high volume callers across our user base.
 
 When you (an AMS user) call a third party, or a third party calls you, we will have the following record in our database: the third-party phone number, the time of the call, and an anonymous key code number assigned to this particular record. This allows us to count the number of calls made to a specific recipient in order to evaluate whether the call is a spam or not. Your GUID is disconnected from this data.
 
@@ -2069,8 +2581,6 @@ Gallery is a smart app that you can install in your Android to help you organise
 
 Gallery Doctor is a free app that helps you free up storage space in your mobile by identifying bad & similar photos in your Android gallery. It does not collect any personal data.
 
-**I.** **Accounts**
-
 There are a variety of accounts you can create with us.
 
 Account data is the data you give when you open an account or request a service from us and may including your name, address, email address, phone number, photo, date of birth, gender, and interests (collectively, “Account Data”). Account Data may include the same data as in your Billing Data (such as name and email), but Account Data is not connected to your credit card number and, except in a few instances described below, is not connected to your Service Data. We process this data in order to provide you with the relevant account.
@@ -2169,7 +2679,7 @@ Sometimes the friend referral takes place when you install a product. When the f
 
 This concludes the description of personal data collected by us when you purchase products and services or when you register for an account or request services. The next section covers the data collected by us from the installation and during the running of our products and services. We call this Service Data.
 
-**J.** **Live Events and Competitions**
+J. Live Events and Competitions
 
 Aside from interacting with you by way of your use or purchase of our products and services, we may collect your personal data from you directly, when we attend trade shows or when you participate in our promotional events or competitions.
 
@@ -2180,210 +2690,3 @@ Live events and competitions held and organized by us generally require that you
 Provision of live event(s) and competition(s) data is voluntary. However, if you do not provide us with the information marked in the form as “Required”, you will not be able to participate. We will also sometimes process information about your social media accounts (links to your Twitter, Facebook or other social media accounts), should you choose to provide them. Avast will process the “Required” as well as other voluntary information in order to assess your application, register you for the event and to communicate with you about it. We may use your image in photos or videos on our website or as part of our general promotion and marketing efforts. We will also use your email address to communicate with you about our new events and about other products and services from us.
 
 Some of our competitions are carried out through social media or networks. In that case, the privacy policy of that particular social network will apply.
-
-Using a virtual private network (“VPN”) is like going undercover while you are on the Internet. We provide a VPN service that allows you to be on the Internet anonymously and securely from anywhere in the world. This, however, does not mean that you are totally anonymous to us. We respect your privacy. As a multinational company with primary offices in the UK and Czech Republic, we conform our data use to the European Union’s (“EU”) General Data Protection Regulation (“GDPR”), with effect from 25 May 2018.  Therefore, in this Privacy Policy, we would like you to know what kind of personal data we collect from you or that you provide to us, how we process it, on what legal bases, whether we transfer or disclose it, and how long we retain it, in accordance with relevant laws.
-
-Please take a moment to read this Privacy Policy carefully before you install our applications or use our services.  By using our services, you indicate that you accept the Privacy Policy and that you agree to abide by it.
-
-**Contacting Us**
-
-If you have any questions regarding these terms, you can contact us at <https://support.avast.com/en-us>.
-
-Please click on the links below to move to the sections below:
-
-**1\. Personal Data We Collect, Process and Retain**
-
-**2\. Cookies**
-
-**3\. Where We Store Your Personal Data**
-
-**4\. Disclosure of your information**
-
-**5\. Your Rights with Respect to your Data; Emails**
-
-**6\. Links to 3rd Party Sites; new unified Avast Privacy Policy**
-
-**7\. Your California Privacy Rights**
-
-**8\. Changes to this policy**
-
-**1.** **Personal Data We Collect, Process and Retain**
-
-We collect your personal data when you register for our VPN services.  We process your personal data in order to provide you our products and services, to send you direct marketing, to optimize and improve our products and services, and to comply with our legal obligations.  The legal bases we rely on are contractual and service necessity, legitimate interests, and compliance with legal obligations.
-
-We may collect and process the following data about you:
-
-**On registration:**
-
-· What data we collect
-
-When you register we may collect your name, username, email address, password (encrypted) and IP address.
-
-· Why we need this data and how we use it
-
-We may collect your name to personalize the services we offer to you, and collect your username and password in order to provide you with access to the web based control panel and to our downloadable VPN software. We collect your email address in case you forget your password or wish to receive email newsletters. Your IP address is logged by us so that we can prevent any spam, fraud or abuse of our services. In general, we use the data we collect to provide our services to you, prevention of fraud and abuse. From time to time we may email you news, updates and sales offers which you can easily opt out of receiving by clicking the "unsubscribe" in the relevant email.
-
-· How long do we store this data
-
-If you continue to use one of our services, we will store this data for as long as you are using one of our services or have an active account, and for up to one year after that for contract administration. We may keep this data for an extended period as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-**On request for payment details:**
-
-If you opt to pay for use of our services, we will use a third party payment processor to take payment from you. These third parties are properly regulated and authorized to handle your payment information and are prohibited from using your personal data for promotional purposes or for any other purposes other than providing these services to us.
-
-· What data we collect
-
-We collect payment information, which will vary depending on the payment method chosen by you, but may include your name, address and credit card information. We also collect geolocation data determined on the basis of your IP address to identify your country of origin. We never handle or store complete credit card numbers, as this is done on our behalf by our payment processors. If you are a business user, you may choose to provide additional details, such as your company name, address and EU VAT number (if applicable).
-
-· Why we need this data and how we use it
-
-We store this information as we require a record of your payment for accounting, taxation and invoicing purposes and to manage your account. We may also use your payment information to detect and prevent fraud.
-
-· How long do we store this data
-
-If you continue to use one of our services, we will store your payment data for as long as you are using one of our services or have an active account, and for up to two years after that. We may keep your payment data for an extended period as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-We are not responsible for any third party payment provider handling your transaction and you should refer to the third party payment provider's privacy policy to see how they use your data.
-
-**If you contact us:**
-
-· Through website
-
-If you contact us through our website for any reason we will generally store these communications and your IP address for up to 6 months, unless we are required, for legal reasons or under exceptional circumstances, to retain this information for an extended period.
-
-· Outside website
-
-When you contact us outside of our website (e.g. using individual corporate email addresses or by phone, including our help desk), we may store your communication for as long as necessary to provide you services or to comply with our legal obligations, resolve disputes, and enforce our agreements. If we speak with you by phone, we may, record the phone calls, for quality control purposes and to provide you the services. 
-
-**If you use our VPN service:**
-
-· What data we collect
-
-We will store a time stamp and IP address when you connect and disconnect to our VPN service, the amount of data transmitted (up- and download) during your session together with the IP address of the individual VPN server used by you. We do not store details of, or monitor, the websites you connect to when using our VPN service. We collect aggregated statistical (non-personal) data about the usage of the VPN mobile apps and software.
-
-· Why we need this data and how we use it
-
-We need this data to monitor the performance and usage of our VPN Service, for example it enables us to sort server nodes by the number of users connected, to limit your account to one concurrent IP address per VPN connection (to prevent shared accounts), resource analytics (to carry out usage analysis for administrative purposes) and to prevent abuse and fraud.
-
-· How long do we store this data
-
-This data is stored on our system for up to thirty days unless we are required, for legal reasons or under exceptional circumstances (including our own investigations of fraud or abuse), to retain this data for an extended period. For more information about logging on our VPN Service, please see our separate VPN Logging Policy.
-
-**If you use our IP:PORT premium service:**
-
-· What data we collect
-
-We store the date and time of order for the IP:PORT Proxy List premium service, and the email address provided to us for receipt of the proxy list emails and your payment information.
-
-· Why we need this data and how we use it
-
-We need this data so that we can send you emails containing the proxy lists and so we have a record of the transaction for accounting purposes.
-
-· How long do we store this data
-
-You can delete your account at any time but your email address will be stored by us for no more than 2 years after you have deleted your account.
-
-We will not share any of your personal data with anyone except in the circumstances referred to in section 4 (Disclosure of Your Information). We do not knowingly collect personal data from persons under the age of 18. Any potential or current user who is under age must immediately cease using the services.
-
-**If you use our products and services in general:**
-
-· What data we collect
-
-We store information about events (installation, status of the license, change of license) as well as dates and locations (on country level) of these events, technical data (type of connection, speed, settings, interaction with our product), and information about your license (for instance, information about the type of your license - is it a free, trial or paid license - what is its validity and expiration date, whether renewal is applicable).
-
-· Why we need this data and how we use it
-
-We use this data in order to conduct our own internal analyses about how our services function and behave, how our users interact with them, and to optimize and improve our products and services, such as fixing bugs and crashes. To this end, we utilize only our own internal tools and do not use or involve any other third service or party (as a general rule, HMA! uses third-party analytics providers only to a limited degree, as described in Third Party Tracking and Analytics Policy here).
-
-· How long we store this data
-
-We will retain this data as long as you have the product installed and, after you uninstall the product, for an additional 90 days. After that, we will delete the data.
-
-**2.** **Cookies**
-
-How we use cookies and third party tracking and analytics is in a separate document (see our VPN Cookie and Third Party Tracking and Analytics Policy here).
-
-**3.** **Where we store your personal data**
-
-We are a global business that provides its products and services all around the world. In order to reach all of our users and provide all of them with our software, we operate on an infrastructure that spans the globe. The servers that are part of this infrastructure may therefore be located in a country different than the one where you live. In some instances, these may be countries outside of the European Economic Area (the EEA), where the level of protection provided by the laws of these countries may be different than the high standard enshrined in the GDPR. Regardless, we provide the same GDPR-level of protection to all personal data we process.
-
-At the same time, when we transfer personal data outside of the EEA, we always make sure to put in place appropriate and suitable safeguards, such as standardized contracts approved by the European Commission, which legally bind the receiving party to adhere to a high level of protection, and to ensure that your data remains safe and secure at all times and that your rights are protected in accordance with this privacy policy.
-
-By using the service, you acknowledge this transfer, storing or processing.
-
-When you enter payment information (such as credit card numbers) on our order forms, the transmission of that information is encrypted using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once we receive it. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to us; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
-
-**4.** **Disclosure of your information**
-
-We will share your personal data with third parties only in the ways that are described in this privacy policy. We do not sell or rent your personal data to third parties. As described in the introduction to this Privacy Policy, Privax is part of the Avast Group, and we may disclose your data subject to the terms of this Privacy Policy to any member of the Avast Group for the purposes of the performance of the contract, the provision of the service, service research, statistics, internal analytics, aggregated reporting, product development, cross-product in-product messaging, and direct marketing. The Avast Group has a new unified Privacy Policy and to the extent its Privacy Policy differs, we will ensure that any personal data collected pursuant to the VPN Privacy Policy and shared with another member of the Avast Group is treated according to terms at least as strict as this Privacy Policy.
-
-Please note that the Avast Group is comprised of companies and offices around the world. In order to do business around the globe, we may share your personal data across our offices and companies which may be in countries with different laws regarding the collection and use of personal data than the country we collected it from.
-
-Lastly, we may share your personal data:
-
-· when necessary to deliver the product or service you require such as with a payment card provider who we use to process your credit card transaction;
-
-· when authorized by law or necessary to comply with a valid legal process;
-
-· when required to protect and defend the rights or property of the Avast Group, including the security of our products and services;
-
-· when necessary to protect the personal safety, property or other rights of the public, the Avast Group or its customers or employees; or
-
-· in connection with a sale of all or part of our business.
-
-If we receive a report from any person or organization (including law enforcement) that leads us to suspect that your account has been used in connection with any wrong-doing, we may at our discretion suspend your account, but we will not disclose any personal information that may identify you unless we are legally compelled to do so. If we are involved in a merger, acquisition or asset sale, we will abide by this Privacy Policy with respect to any data collected by Privax, and any affected users will be informed if we transfer any personal data to a third party or if personal data becomes subject to a different privacy policy as a result.
-
-**5.** **Your Rights with Respect to your Data; Opt-out**
-
-Under the GDPR and applicable UK law, you, as a data subject, have certain rights. Rights such as the right to access information held about you. Your right of access can be exercised. You have the right to ask us about the personal data we process about you, the purpose and nature of the processing, and to provide information on who we share it with. You have the right to request that we update, correct, delete (assuming that this does not impact the services we are providing to you) or export (port) your data, as well as the right to object to processing and lodge a complaint with the supervisory authority. You exercise these rights on the Privacy Preference portal or at <https://support.avast.com/>. Please note that we may reject or refuse to fulfill to the fullest extent requests which risk the privacy of others or are unreasonable or repetitive, or would require disproportionate effort. Please note that we may generally keep your personal data for one year after you stop being a customer (but we typically keep your personal data no longer than is reasonably necessary given the purposes for which the data was collected). Some of the data may be retained longer, for instance, if we have a legal obligation to retain it (e.g., for the purposes of tax), or, as the case may be, until the applicable statute of limitations expires.
-
-You have the right to opt-out of receiving certain emails (e.g., marketing communications) at any time by following the relevant unsubscribe process outlined in the applicable email. Please be aware that our emails may include important or useful information about our services. We may also contact you via email in the context of our contract (transaction) to give you information about the transaction or the term of your license. Given the transactional nature of these emails, these are necessary in order for us to manage our relationship with you and may not be able to unsubscribe from these transactional emails.
-
-**6.** **Links to 3rd Party Sites; new unified Avast Privacy Policy**
-
-Periodically, our Site or products may contain links to and from websites or other external destinations managed by third parties. If you follow a link to any of these destinations (like offers on mobile app stores etc.), please note that those sites have their own privacy policy. When you are on those sites you are subject to those policies, and should therefore read and understand them before you submit any personal data to those sites.
-
-The Avast Group has a Privacy Policy that governs information collected using the websites or applications of all its companies. Please read and accept the Avast privacy policy before deciding to use these sites and products.
-
-**7.** **Your California Privacy Rights**
-
-Under California Civil Code sections 1798.83, California residents may request a notice describing what categories of personal customer information Privax shares with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. To the extent applicable to Privax, such notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Privax Ltd., Attn: Privacy Policy – 110 High Holborn, London, WC1V 6JS, UK. Please specify that you are requesting the California Privacy Rights Notice for Privax and allow at least 30 days for a response.
-
-**8.** **Changes to this policy**
-
-We reserve the right to change this Privacy Policy at any time, and will indicate the date the Privacy Policy was most recently updated. If there have been significant changes, we will highlight any such changes, and will attempt to directly alert you when possible. We will also keep prior versions of this Privacy Policy in an archive for your review. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-**Logging Policy And Use**
-
-Our VPN is designed to help you to use the internet privately and securely. We have a [Privacy Policy](https://web.archive.org/privacy-policy) which sets out how we collect and use data from our VPN services, including how we handle all your personal data, including your general account information (such as registration and payment details). For some customers, the most important aspect of this is how we handle the data created when you use our VPN, which is set out here.
-
-When you use our VPN service the only logging data we collect from you (“VPN Data”) is as follows:
-
-  * username
-  * a time stamp when you connect and disconnect to our VPN service;
-  * the amount data transmitted (upload and download) during your session;
-  * the IP address used by you to connect to our VPN; and
-  * the IP address of the individual VPN server used by you.
-
-
-
-We  **DO NOT**  store details of, or monitor, the resources (including websites) you connect to or any of the data sent or received over our network, when using our VPN service.
-
-We collect and use VPN Data for the operation of our business to:
-
-  * monitor the use of our network for technical purposes and to manage and improve our service;
-  * prevent and detect fraud against our service (e.g. credit card fraud);
-  * prevent and detect abuse of our network, such as spamming, file sharing or other illicit activity.
-
-
-
-Except in the limited circumstances described below, VPN Data is stored for **30 days**  on our secure servers, after which time it is deleted, except in certain very limited circumstances (see below). We delete VPN Data on a monthly basis, so data is stored until the end of the 2nd month after the month during which it is created. For example, all data created in January will be deleted on 31 March.
-
-The exceptions to our retention policies are:
-
-  * If we are notified or determine that your VPN account has been used in breach of our [End User Agreement](https://web.archive.org/eula) (including our [Acceptable Use Policy](https://web.archive.org/acceptable-use-policy), e.g. for spamming, file sharing or other illicit activity, then we may store your VPN Data for an extended period of time beyond the normal 3 month maximum.
-  * Where a user has, or has attempted to, defraud us (e.g. by using a stolen credit card to purchase our service), then that user is not covered by the protections in our terms of service and we reserve the right to use any data held on that user in any way we see fit to prevent further fraud against our service or third parties.
-
-
-
-If your account is identified by us following a notification that it has been used in breach of our terms of service, we reserve the right to suspend your account to prevent further abuse, however, in such circumstances we will never voluntarily hand over your personal data to a third party unless we are legally compelled to do so in accordance with English law.
