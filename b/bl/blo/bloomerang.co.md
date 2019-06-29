@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bloomerang.co privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129115600id_/https%3A//bloomerang.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomerang.co privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629070238id_/https%3A//bloomerang.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bloomerang
+
+Privacy Policy2018-05-25T08:10:02-04:00
 
 This privacy policy explains how Bloomerang uses and protects any information that you may give us when you use this website. We are committed to ensuring that your privacy is protected. We love privacy! Should you submit any information to us via forms found on this website, you can be assured that it will only be used in accordance with what is stated on this page. We are nice people and we only wish the best for you.
 
@@ -24,12 +26,13 @@ We ask for your information in order to understand your needs and to deliver con
 
   * We may use the information to improve our products.
   * We may periodically send promotional emails about new product features, special offers or other information which we think you may find interesting using the email address which you have provided.
-    * We send two email newsletters per month.
+    * We send our Nonprofit Wrap-Up newsletter every month.
     * We send invitations to attend one of our weekly educational webinars.
+    * We send notifications of new content, like eBooks or templates, that are available to download.
     * We may let you know about a cool event coming up in your area.
   * From time to time, we may also use your information to contact you for market research purposes. This usually comes in the form of surveys via email. We don’t like to send snail mail and don’t make phone calls very often.
   * We may use the information to customize the website according to your interests.
-  * We may provide your information to our third party partners for marketing or promotional purposes – but only if they agree to only send helpful content in a respectful manner. We like to surround ourselves with people who think like us.
+  * We may provide your information to our third party partners for marketing or promotional purposes – but only if you’ve accessed content that they collaborated with us on, and they have agreed to only send helpful content in a respectful manner. We like to surround ourselves with people who think like us.
   * We will never sell or lease your information. That would just be silly.
 
 
