@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the happilyunmarried.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529100237id_/http%3A//www.happilyunmarried.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happilyunmarried.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629184843id_/https%3A//www.happilyunmarried.com/content/cms/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Happily Unmarried
+# Privacy Policy
 
-**Whatever happens in Hu stays in Hu**
+## Whatever happens in Hu stays in Hu
 
-Happily Unmarried Values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our website or any information that you may give us, such as your name, address, email address or telephone number, to any outside sources.
+Happily Unmarried Values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our website, Android app or iOS app, or any information that you may give us, such as your name, address, email address or telephone number, to any outside sources.
+
+Any personal data collected will be used by Happily Unmarried Marketing Pvt. Ltd. to contact you via phone, SMS or email for marketing and to deliver certain updates for services or information you have requested. 
+
+## Connect with us if you have any query about us, give us your feedback
