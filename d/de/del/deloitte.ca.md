@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the deloitte.ca privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910221325id_/https%3A//www2.deloitte.com/ca/en/footerlinks1/privacy.html%3Ficid%3Dbottom_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deloitte.ca privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629131603id_/https%3A//www2.deloitte.com/ca/en/footerlinks1/privacy.html%3Ficid%3Dbottom_privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ### Who this privacy statement applies to and what it covers
 
-This privacy statement applies to Deloitte LLP with registered office address at #200 – 8 Adelaide St. West, Toronto, Ontario, Canada. M5H 0A9, and our affiliates and related entities (“Deloitte”, “we”, “us” or “our”).  
+This privacy statement applies to Deloitte LLP with registered office address at #200 – 8 Adelaide St. West, Toronto, Ontario, Canada. M5H 0A9, and our affiliates and related entities (“Deloitte”, “we”, “us” or “our”).
+
 We are committed to protecting your privacy and handling your information in an open and transparent manner.
 
 This privacy statement sets out how we will collect, handle, store and protect information about you when:
 
-providing services to you or our clients  
-you use “our Website” or  
-performing any other activities that form part of the operation of our business.
+  * providing services to you or our clients
+  * you use “our Website” or
+  * performing any other activities that form part of the operation of our business.
+
+
 
 When we refer to “our Website” or “this Website” in this policy we mean the specific webpages of deloitte.com designated as Canada in the upper right hand corner, and to specific webpages with a URL commencing ‘www2.deloitte.com/ca/’.
 
@@ -28,7 +31,8 @@ Please note that the other country and regional websites contained within deloit
 
 ### What information we collect?
 
-In the course of providing services to you or our client and performing due diligence checks in connection with our services (or discussing possible services we might provide), we will collect or obtain personal data about you. We may also collect personal data from you when you use this Website.
+In the course of providing services to you, or our client and performing due diligence checks in connection with our services (or discussing possible services we might provide), we will collect or obtain personal data about you. We may also collect personal data from you when you use this Website or through digital interactions with you.  
+
 
 We may collect or obtain such data because you give it to us (for example in a form on our Website), because other people give that data to us (for example your employer or adviser, or third party service providers that we use to help operate our business) or because it is publicly available.
 
@@ -47,7 +51,7 @@ We understand the importance of protecting children's privacy. Our Website and s
 ### How we use information about you? 
 
 **Use of personal information to provide services to our clients**  
-We will use your personal data to provide you or our client with services. As part of this, we may use your personal data in the course of correspondence relating to the services. Such correspondence may be with you, our client, other members of the Deloitte Network, our service providers or competent authorities. We may also use your personal data to conduct due diligence checks relating to the services. 
+We will use your personal data to provide you or our client with services. As part of this, we may use your personal data in the course of correspondence relating to the services. Such correspondence may be with you, our client, other members of the Deloitte Network, our service providers or competent authorities. We may also use your personal data to conduct due diligence checks relating to the services.
 
 Because we provide a wide range of services to our clients, the way we use personal data in relation to our services also varies. For example, we might use personal data:
 
@@ -70,7 +74,9 @@ Because we provide a wide range of services to our clients, the way we use perso
   * client relationship purposes, which may involve: (i) sending you thought leadership or details of our products and services that we think might be of interest to you; (ii) contacting you to receive feedback on services; (iii) contacting you for other market or research purposes; or (iv) managing our own customer relationship management processes;
   * recruitment and business development purposes (for example testimonials from a client’s employees may be used as part of our recruitment and business development materials with that employee’s permission)
   * services we receive from our professional advisors, such as lawyers, accountants and consultants
-  * protecting our rights and those of our clients. 
+  * data analytics to better understand your digital interactions with us  
+
+  * protecting our rights and those of our clients.
 
 
 
