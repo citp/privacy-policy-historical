@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solar-aid.org privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910182247id_/https%3A//solar-aid.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solar-aid.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629062629id_/https%3A//solar-aid.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SolarAid
 
@@ -59,7 +59,7 @@ Updates to our privacy policy will be made on this web page. This privacy policy
 Please contact us if you have any questions about our privacy policy or information we hold about you.
 
   * Email [info@solar-aid.org](mailto:info@solar-aid.org)
-  * Write to us at The Information Officer, SolarAid, CAN Mezzanine, [49-51 East Road, London N1 6AH](https://maps.google.com/?q=49-51+East+Road,+London+N1+6AH&entry=gmail&source=g)
+  * Write to us at The Information Officer, SolarAid, [30-36 Pritchard’s Rd, London E2 9AP, UK](https://www.google.co.uk/maps/dir//solaraid/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x48761b4307170413:0x6199d5e125943c76?sa=X&ved=2ahUKEwiGiPa1qvfdAhVQTcAKHaxkDuYQ9RcwJHoECAQQFQ)
   * Call us on +44 (0)207 278 0400
 
 
