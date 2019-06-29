@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pickyourown.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224120039id_/http%3A//www.pickyourown.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickyourown.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629101224id_/http%3A//www.pickyourown.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # PickYourOwn.org's Privacy Policy
 
-Looking for PickYourOwn.org's Privacy Policy in 2018?  Scroll down this page and  follow the links. And if you bring home some fruit or vegetables and want to can, freeze, make jam, salsa or pickles, [see this page for simple, reliable, illustrated canning, freezing or preserving directions](https://web.archive.org/web/20181224120039id_/http%3A//allaboutcanning.htm). There are plenty of other related resources, click on the resources dropdown above. 
+Looking for PickYourOwn.org's Privacy Policy in 2019?  Scroll down this page and  follow the links. And if you bring home some fruit or vegetables and want to can, freeze, make jam, salsa or pickles, [see this page for simple, reliable, illustrated canning, freezing or preserving directions](https://web.archive.org/web/20190629101224id_/http%3A//allaboutcanning.htm). There are plenty of other related resources, click on the resources dropdown above. 
 
 The privacy of our visitors to PickYourOwn.org  is important to us. At PickYourOwn.org, we recognize that privacy of your personal information is important to you, too!  Here is information on what types of personal information we receive and collect when you use and visit PickYourOwn.org, and how we safeguard your information.  We never sell or release your personal information to third parties.
 
@@ -20,6 +20,13 @@ Google, as a third party vendor, uses their technology (the [ DoubleClick DART c
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
+### How you can control the information collected by cookies on our website.
+
+Here are some of the ways you can control the information that is shared by your device when you visit  our website:
+
+We use Google Analytics to understand how visitors engage with their sites or apps. If you don’t want Analytics to be used in your browser, you can[ install the Google Analytics browser add-on](https://tools.google.com/dlpage/gaoptout). Learn more about [ Google Analytics and privacy](https://support.google.com/analytics/answer/6004245).   
+Many browsers, including Chrome, allow you to block third-party cookies. You can also clear any existing cookies from within your browser. [ Learn more about managing cookies in Chrome](https://support.google.com/chrome/answer/95647).  Google's [ Ad Settings](https://adssettings.google.com/authenticated) helps you control ads you see on Google services (such as Google Search or YouTube), or on non-Google websites (such as ours) and apps that use Google ad services. You can also learn how ads are personalized, opt out of ad personalization, and block specific advertisers.
+
 ### Our Commitment To Data Security 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
@@ -32,8 +39,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 This only applies if you are a farm owner/operator or other user who creates a listing or chooses to create a login for email alerts, commenting, etc.  If you don't create a login on a form, then we don't collect any information about you ,other than the log files that all servers maintain! 
 
-You can access all your personally identifiable information that we collect online and maintain by using the update forms. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request (Update or corrections form) that credibly shows the error. 
-
+You can access all your personally identifiable information that we collect online and maintain by using the update forms. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request (Update or corrections form) that credibly shows the error.   
 To protect your privacy and security and accuracy of the information presented, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 ### **How To Contact Us**
