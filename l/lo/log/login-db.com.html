@@ -1,0 +1,211 @@
+<!--The following is the downloaded HTML source of the login-db.com privacy policy that was archived on 2019-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190629061513id_/http%3A//login-db.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Privacy Policy | Login-DB.com</title>
+      <meta name="description" content="Check out our privacy policy regarding permission and consents pertaining to Login-DB.">
+      <meta name="theme-color" content="#292c2f">
+      <meta name="msapplication-navbutton-color" content="#292c2f">
+      <meta name="apple-mobile-web-app-status-bar-style" content="#292c2f">
+      <link href="http://login-db.com/css/bootstrap.css" rel="stylesheet">
+      <script src="http://login-db.com/js/jquery/jquery.js"></script>
+      <link href="http://login-db.com/style.css" rel="stylesheet">
+      <link rel="apple-touch-icon" sizes="57x57" href="http://login-db.com/icon/apple-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="http://login-db.com/icon/apple-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="http://login-db.com/icon/apple-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="http://login-db.com/icon/apple-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="http://login-db.com/icon/apple-icon-114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="http://login-db.com/icon/apple-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="http://login-db.com/icon/apple-icon-144x144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="http://login-db.com/icon/apple-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="http://login-db.com/icon/apple-icon-180x180.png">
+      <link rel="icon" type="image/png" sizes="192x192" href="http://login-db.com/icon/android-icon-192x192.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="http://login-db.com/icon/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="96x96" href="http://login-db.com/icon/favicon-96x96.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="http://login-db.com/icon/favicon-16x16.png">
+   </head>
+   <body>
+      <div class="site-holder">
+         <nav class="navbar btn-custom" style="border-radius:0px !important;margin-bottom:0px;width:100%;">
+	             <div class="navbar-header" style="float:left;">
+               <a class="navbar-logo" href="http://login-db.com/">
+               <img class="img-responsive" style="margin-top:9px !important;width:140px;" src="http://login-db.com/images/login-db.png"></a>
+            </div>
+
+			<div class="hidden-xs hidden-sm" style="float:left;padding:9px 10px 0px 100px;">
+                           <form role="search" class="search-form searchbar">
+                              <div class="form-group">
+                                 <input id="searcha" type="text" style="height:28px !important;" class="form-control  nav-input-search" placeholder="Search Millions of Login Pages at Single Click">
+                                 <i class="fa fa-search" style="color:#6f97da;padding-left:3px;margin-top:-23px;" aria-hidden="true"></i>
+                              </div>
+                              <div id="search_resultsa" class="myresults" style="background-color:#fff; padding-left:5px;"></div>
+                           </form>
+			</div>
+
+
+
+   <div>
+ <ul class="soc hidden-xs hidden-sm" style="padding-top:14px !important;">
+    <a href="http://login-db.com/contact-us">Contact Us</a>
+    <a href="http://login-db.com/remove-site">Remove Your Site</a>
+ </ul>
+   </div>
+
+
+                   <div class="hidden-md hidden-lg" style="float:right;">
+                     <button style="margin-top:9px;margin-right:14px;padding:3px 9px;min-width:0;background-color:white;border:none;color:#1e1e1e;" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#snsearch">
+                    <i class="fa fa-search" style="color:##292c2f;font-size:20px;" aria-hidden="true"></i>
+                    </button>
+                   </div>
+<div style="clear:both;"></div>
+			<div id="snsearch" class="collapse" style="width:100% !important;float:left;padding:0px 10px 10px 10px;">
+                           <form role="search" class="search-form searchbar">
+                              <div class="form-group">
+                                 <input id="searchb" type="text" style="width:100% !important;height:31px !important;" class="form-control  nav-input-search" placeholder="Search Millions of Login Pages at Single Click">
+                                 <i class="fa fa-search" style="color:#6f97da;padding-left:3px;margin-top:-25px;" aria-hidden="true"></i>
+                              </div>
+                              <div id="search_resultsb" class="myresults" style="background-color:#fff; padding-left:5px;"></div>
+                           </form>
+			</div>
+
+
+<script type="text/javascript">
+        $(document).ready(function () {
+            //$("#search").keyup(function (e){
+$("#searcha").on('keyup touchend', function(e){
+
+                var inp = String.fromCharCode(e.keyCode);
+                if (/[a-zA-Z0-9-_ ]/.test(inp)) {
+                    $.ajax({
+                        url: 'http://login-db.com/search.php',
+                        type: 'POST',
+                        data: "keyword=" + $(this).val(),
+                        success: function (data) {
+                            data = $.parseJSON(data);
+                            if (data['response'] == true) {
+                                $("#search_resultsa").html(data['html']).show();
+                            } else {
+                                alert("Please try again.");
+                            }
+                        }
+                    });
+                }
+            });
+
+            function hide_search_results(e) {
+                var container = $("#search_resultsa");
+                if (!container.is(e.target) && container.has(e.target).length === 0) {
+                    window.displayBoxIndex = -1;
+                    container.hide();
+                }
+            }
+
+            $(document).mouseup(function (e) {
+                hide_search_results(e);
+            });
+        });
+
+
+        $(document).ready(function () {
+            //$("#search").keyup(function (e){
+$("#searchb").on("touchend keyup", function(e){
+
+                var inp = String.fromCharCode(e.keyCode);
+                if (/[a-zA-Z0-9-_ ]/.test(inp)) {
+                    $.ajax({
+                        url: 'http://login-db.com/search.php',
+                        type: 'POST',
+                        data: "keyword=" + $(this).val(),
+                        success: function (data) {
+                            data = $.parseJSON(data);
+                            if (data['response'] == true) {
+                                $("#search_resultsb").html(data['html']).show();
+                            } else {
+                                alert("Please try again.");
+                            }
+                        }
+                    });
+                }
+            });
+
+            function hide_search_results(e) {
+                var container = $("#search_resultsb");
+                if (!container.is(e.target) && container.has(e.target).length === 0) {
+                    window.displayBoxIndex = -1;
+                    container.hide();
+                }
+            }
+
+            $(document).mouseup(function (e) {
+                hide_search_results(e);
+            });
+        });
+</script>
+         </nav>
+
+          <div class="col-md-12 col-sm-12 zero-right-padding ">
+            <div class="row">
+               <div class="col-md-11">
+<h1> Privacy Policy for Login DB</h1>
+<p> If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at <script type="text/javascript">
+var CodedArray=[114,101,97,108,46,102,97,114,104,97,110,64,103,109,97,105,108,46,99,111,109,]
+var encryptedEmail='' 
+for (var i=0; i<CodedArray.length; i++)
+ encryptedEmail+=String.fromCharCode(CodedArray[i])
+document.write('<a href="mailto:')
+document.write(encryptedEmail)
+document.write('">&#119;&#119;&#119;&#46;&#108;&#111;&#103;&#105;&#110;&#45;&#100;&#98;&#46;&#99;&#111;&#109;/&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#117;&#115;</a>')
+</script><a href="mailto:real.farhan@gmail.com">www.login-db.com/contactus</a></p>
+<p>At login-db.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.login-db.com and how we use it. </p><p> <b>Log Files</b><br> Like many other Web sites, www.login-db.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. </p>
+<p> <b>Cookies and Web Beacons</b><br>www.login-db.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser. </p> 
+<p><b>DoubleClick DART Cookie</b><br> 
+ 
+→ Google, as a third party vendor, uses cookies to serve ads on www.login-db.com.<br> 
+→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.login-db.com and other sites on the Internet. <br> 
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <a href="http://www.google.com/privacy_ads.html" title="Opt out of the Dart Cookie">http://www.google.com/privacy_ads.html</a> </p> 
+<p><b>Our Advertising Partners</b><br> 
+ Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... <br>
+</p><ul><li>Google</li>
+</ul>
+<p><em>You may consult this listing to find the privacy policy for each of the advertising partners of www.login-db.com.</em></p>
+<p> These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.login-db.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. </p> 
+<p> www.login-db.com has no access to or control over these cookies that are used by third-party advertisers. </p> 
+<p> </p><p><b>Third Party Privacy Policies</b><br> 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.login-db.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p> 
+<p> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.</p>
+
+<p><strong>Children's Information</strong><br>We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.
+www.login-db.com does not knowingly collect any personally identifiable information from children under the age of 13.  If a parent or guardian believes that www.login-db.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+</p><p>
+<b>Online Privacy Policy Only</b><br>
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.
+This policy does not apply to any information collected offline or via channels other than this website.</p>
+<p><b>Consent</b><br>
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+</p><br><br>
+
+               </div>
+            </div>
+          </div>
+      </div>
+	 <section class="footer-section site-holder">
+  <div class="col-md-12">
+    <div class="col-md-6 left-footer">
+        © Login-DB LTD 2019 All Rights Reserved.
+    </div>
+    <div class="col-md-6 right-footer">
+      <ul>
+        <li><a href="http://login-db.com/privacy-policy">Privacy Policy</a> </li>
+        <li><a href="http://login-db.com/about-us">About Us</a> </li>
+        <li><a href="http://login-db.com/contact-us">Contact Us</a> </li>
+      </ul>
+    </div>
+  </div>
+</section>
+         <script src="http://login-db.com/js/bootstrap.min.js"></script>
+   
+
+</body></html>
