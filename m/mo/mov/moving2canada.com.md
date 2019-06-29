@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moving2canada.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203212319id_/https%3A//moving2canada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moving2canada.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629083651id_/https%3A//moving2canada.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Moving2Canada
 
