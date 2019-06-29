@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the shmoop.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205002659id_/https%3A//www.shmoop.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shmoop.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629043314id_/https%3A//www.shmoop.com/public/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ### Shmoop University, Inc. Privacy Policy
+
+As of April 1, 2016
 
 Shmoop's privacy policy is designed to help you understand what information we collect from you and how that information is used by Shmoop and its directly related domains (collectively, "Shmoop", "we", "us" or the "Site").
 
@@ -192,7 +194,7 @@ As required by law or to comply with a judicial proceeding, court order, or lega
 
 Some advertisements appearing on our Site are delivered by Google Inc. ("Google"), our advertising partner. Google uses cookies and clear GIF images on this site, which allow it to recognize a user's cookie when a user visits this Site. The information that Google collects and shares through this technology is not personally identifiable. For more information about our third party advertisers, or to learn more about the choices available to you regarding this anonymous information please visit [Google's Privacy Policy](http://www.google.com/privacypolicy.html).
 
-We use third-party advertising companies such as Google DFP to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. While this information will not identify you personally, in some instances these third parties may be able to combine this information with other data they have about you, or that they receive from third parties, in a manner that allows them to associate this aggregated data with your personal data. However, Shmoop only does business with reputable advertising providers like Google who take personal privacy issues very seriously. Please refer to Google’s documentation for more information on their policies: <https://www.google.com/policies/technologies/ads/>. Or, if you would like more information about this general advertising practice and to learn what you can do to avoid having this information used by advertising companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies such as Google DFP to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. While this information will not identify you personally, in some instances these third parties may be able to combine this information with other data they have about you, or that they receive from third parties, in a manner that allows them to associate this aggregated data with your personal data. However, Shmoop only does business with reputable advertising providers like Google who take personal privacy issues very seriously. Please refer to Google’s documentation for more information on their policies: <https://www.google.com/policies/technologies/ads/>. Or, to learn more about interest-based advertising in general and to opt out, please visit <http://www.aboutads.info/choices> and <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Your information may also be disclosed to third parties in unforeseeable situations or situations that are not preventable even when commercially reasonably protections are employed, such as in the case that Shmoop or the Site is subject to a hacking or other attack.
 
@@ -229,13 +231,13 @@ We retain information for active Shmoop accounts as long as it is necessary and 
 Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, information related to the personal information disclosed by Shmoop to third parties for direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at [support@shmoop.com](mailto:support@shmoop.com) or sending a letter to:
 
 Shmoop University Inc.,  
-P.O. Box 0935  
-Los Altos, CA 94023-0935
+P.O. Box 44005  
+Phoenix AZ, 85064
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our Privacy Policy, please use our online form to [contact us](https://www.shmoop.com/public/feedback/). You may also email [support@shmoop.com](mailto:support@shmoop.com) or send postal mail to: 
+If you have any questions or suggestions regarding our Privacy Policy, please use our online form to [contact us](https://www.shmoop.com/public/feedback/). You may also email [support@shmoop.com](mailto:support@shmoop.com) or send postal mail to:
 
 Shmoop University Inc.,  
-P.O. Box 0935   
-Los Altos, CA 94023-0935 
+P.O. Box 44005   
+Phoenix, AZ 85064
