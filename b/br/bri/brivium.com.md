@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brivium.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607061124id_/http%3A//brivium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brivium.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629103441id_/http%3A//brivium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brivium - Premium XenForo Addon / Style Club
 
@@ -49,7 +49,7 @@ All products updated after 13 Sep 2014 will contain online license validation te
 **4\. SECURITY OF YOUR INFORMATION**  
 Brivium will endeavor to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. In addition, our employees and data processors are obliged to respect the confidentiality of any personal information held by us. However, Brivium will not be held responsible for events arising from unauthorized access to your personal information. We encourage you to play an important role in keeping your personal information secure, by maintaining the confidentiality of any passwords and account details used on the Website.
 
-If you have any questions about the security at our Website, please send an email to [support@brivium.com](mailto:tosupport@brivium.com).
+If you have any questions about the security at our Website, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7a0e15090f0a0a15080e3a1808130c130f1754191517).
 
 **5\. CORRECTING/UPDATING PERSONAL INFORMATION**  
 You are free to update your information at any time directly through our Site. At your request, Brivium will change your information; we may request evidence of your identity before doing so. Inasmuch as your information will never be used without your explicit consent, we are not able to update the email address to which you subscribe to Brivium communications on your behalf. Should you wish to update the email address at which you receive communications from us, please see the next section ("Account Overview/Privacy") below.
@@ -58,4 +58,4 @@ To change your information, or request that your information be changed, please 
 
 Log in at [http://www.brivium.com](http://www.brivium.com/) and click on "Your Details" link
 
-Send email to us at [privacy@brivium.com](mailto:privacy@brivium.com). Please note that this email address will reject messages with attachments of any kind. 
+Send email to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90e0e2f9e6f1f3e9d0f2e2f9e6f9e5fdbef3fffd). Please note that this email address will reject messages with attachments of any kind. 
