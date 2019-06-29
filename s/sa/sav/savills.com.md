@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the savills.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019224528id_/http%3A//www.savills.com/footer/privacy-and-cookies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savills.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629214047id_/http%3A//www.savills.com/footer/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Savills | Privacy & Cookies
+# Savills | Privacy Policy
 
-## 1\. Introduction
+Savills is committed to ensuring that your privacy is protected and our use of your personal information is governed by this Privacy Notice. On this site, “Savills”, “our” and “we” each mean all the UK companies in the Savills plc group (including but not limited to Savills plc, Savills (UK) Limited, Savills Management Resources Limited, Prime Purchase Limited, Savills Advisory Services Limited, Savills Capital Advisors Limited and Savills Investment Management LLP and their respective subsidiaries) which collect and use your information in the manner set out in this Privacy Notice. Any reference to “you” or “your” refers to anyone whose personal information we process.
+
+**1\. Introduction**
 
 Our use of your personal data will be governed by this Privacy Notice.
 
@@ -26,7 +28,7 @@ This Privacy Notice explains;
 
 If there are any changes to the way in which your personal information is used, this Privacy Notice will be updated.
 
-## 2\. What is personal information
+**2\. What is personal information**
 
 Personal information is any information that tells us something about you. This could include information such as name, contact details, date of birth, bank account details or any information about your needs or circumstances which would allow us to identify you.
 
@@ -34,7 +36,7 @@ Some personal information is classified as "special" data under data protection 
 
 Any references to personal information in this privacy notice will include personal data, and where relevant, special categories of personal data.
 
-## 3\. What personal information do we collect?
+**3\. What personal information do we collect?**
 
 We will collect your full name and contact details (such as phone number, email address and postal address) from you whenever you engage with us.
 
@@ -76,7 +78,7 @@ Where you engage with Savills Investment Management LLP or one of its subsidiari
 
 If you subscribe to receive research, news or other market updates from us, then in addition to the above we will collect details about the sector in which you work and the type of content that you would like to receive.
 
-## 4\. How we use your personal information
+**4\. How we use your personal information**
 
 What is the legal basis of our data processing?
 
@@ -164,7 +166,7 @@ We also need some information so that we can comply with our legal obligations. 
 
 If you do not provide the information required for these purposes, we will not be able to perform our contract with you and may not be able to provide services to you or continue to provide certain services to you. We will explain when this is the case at the point where we collect information from you.
 
-## **5\. How we keep your information secure**
+**5\. How we keep your information secure**
 
 The security of information is very important to us and we have measures in place which are designed to prevent unauthorised access to your personal information including but not limited to:
 
@@ -177,11 +179,11 @@ All data is hosted in datacentres which have systems and protections in place to
 
 We ensure access to personal information is restricted to Savills employees and workers or other persons working within the Savills Group on a need to know basis. Training is provided to any of those Savills employees and workers who need access to personal information.
 
-## 6\. For how long do we keep your personal information
+**6\. For how long do we keep your personal information**
 
 The period for which we will keep your personal information will depend on the type of service you have requested from us. The retention period may be longer than the period for which we are providing services to you where we have statutory or regulatory obligations to retain personal information for a longer period, or where we may need to retain the information in case of a legal claim.
 
-## 7\. Overseas transfers of your personal information
+**7\. Overseas transfers of your personal information**
 
 We may transfer, store, or process your personal information in locations outside the UK and the European Economic Area (EEA). Where the countries to which your personal information is transferred do not offer an equivalent level of protection for personal information to the laws of the UK, we will ensure that appropriate safeguards are put in place.
 
@@ -193,7 +195,7 @@ We’ll use one of these safeguards:
 
 
 
-## 8\. Your rights in relation to your personal information
+**8\. Your rights in relation to your personal information**
 
   * You have a number of rights in relation to your personal information, these include the right to:
   * Be informed about how we use your personal information
@@ -218,7 +220,7 @@ We’ll use one of these safeguards:
 
 If you would like to exercise any of your rights please contact [data@savills.com](mailto:data@savills.com).
 
-## 9\. Complaints and Contact Details
+**9\. Complaints and Contact Details**
 
 Complaints
 
@@ -228,7 +230,7 @@ Contact details
 
 If you have any questions, comments or requests regarding any aspect of this Privacy Policy, please do not hesitate to contact us by sending an email to data@savills.com or writing to the Database Management Team, Savills plc, 33 Margaret Street, London W1G 0JD.
 
-## 10\. The use of cookies by Savills
+**10\. The use of cookies by Savills**
 
 What is a cookie?
 
@@ -237,3 +239,11 @@ A cookie is a small text file that is downloaded onto your computer when you vis
 What cookies do Savills use?
 
 The table below lists the cookies used by this website and provides a description of how each cookie works, clicking the '+' symbol will expand the box to give further explanation on each cookie. Where further information about a cookie exists on an external website a link has been provided under 'More information'.
+
+**How do I restrict or delete cookies?**
+
+13 of the cookies we use are essential for parts of the website to operate and have already been set. You may delete and block all cookies from this website, but please be aware that restricting or deleting cookies may impact on the functionality of the website.
+
+Your web browser may allow you to restrict or delete cookies set by this website. The Help function within your browser should tell you how. Alternatively, you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which provides general information about cookies and how you can manage cookies on your computer.
+
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
