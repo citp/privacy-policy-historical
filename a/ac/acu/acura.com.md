@@ -1,28 +1,36 @@
-> *The following text is extracted and transformed from the acura.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022063552id_/https%3A//www.acura.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acura.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629134410id_/https%3A//www.acura.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**INFORMATION COLLECTION**
+**Statement of Privacy** (Last Updated 5/23/2017)
+
+American Honda Motor Co., Inc. (“American Honda”) recognizes that your privacy is important. This Privacy Policy is designed to explain how we collect, use and disclose information about you on: (1) [www.honda.com](https://www.honda.com/), [www.acura.com](https://www.acura.com/) and other American Honda websites on which this privacy policy is linked; and (2) the social media accounts and/or pages that we control. American Honda websites and social media accounts are collectively referred to in this Policy as “Sites”. By using these Sites, you agree to this Privacy Policy and any future amendments and additions.
+
+This Policy supplements other American Honda privacy policies including its [Vehicle Technology Data Privacy Practices](https://www.honda.com/-/media/Honda-Homepage/PDF/American_Honda_Motor_Vehicle_Technology_Data_Privacy.pdf) and the privacy policies that govern American Honda’s software applications. A supplemental Privacy Policy is provided below for American Honda Finance Corporation and certain affiliated entities.
+
+This Policy does not apply to: (1) a limited number of American Honda websites that are governed by separate privacy policies; (2) our offline information practices; (3) the collection and use of your personal information by any Honda or Acura dealer; or (4) the collection and use of your information by the companies that operate social media platforms through which American Honda maintains an account or page.
+
+ **INFORMATION COLLECTION**
 
 **Personally Identifiable Information You Give Us**
 
 We receive and may store any personal information entered on our Sites. Depending upon the Site and context, this information may include the following (along with any other information you provide):
 
-•    _Contact Information._ Name, address, city, state, zip code, email address and telephone number.
+•   Contact Information. Name, address, city, state, zip code, email address and telephone number.
 
-•    _Demographic Information._ Date of birth, gender, occupation, employer and country of origin.
+•   Demographic Information. Date of birth, gender, occupation, employer and country of origin.
 
-•    _Owner Testimonials and Multimedia Submissions._ On certain Sites, such as Owners.Honda.com, you may choose to provide testimonials, upload pictures or videos or otherwise provide personal information.
+•   Owner Testimonials and Multimedia Submissions. On certain Sites, such as Owners.Honda.com, you may choose to provide testimonials, upload pictures or videos or otherwise provide personal information.
 
-•    _Vehicle Information._ VIN, make, model, year, trim level, color, selling dealer and year purchased.
+•   Vehicle Information. VIN, make, model, year, trim level, color, selling dealer and year purchased.
 
-•    _Payment Information._ On certain Sites, such as Honda and Acura eStore and financial services Sites, credit card and other payment information (account numbers, account type, routing numbers and bank name) may be collected. This information is used solely to process your transaction(s).
+•   Payment Information. On certain Sites, such as Honda and Acura eStore and financial services Sites, credit card and other payment information (account numbers, account type, routing numbers and bank name) may be collected. This information is used solely to process your transaction(s).
 
-•    _American Honda Account Information._ If you create an account on any Site, we collect information related to that account such as username, password and answers to your security questions.
+•   American Honda Account Information. If you create an account on any Site, we collect information related to that account such as username, password and answers to your security questions.
 
-•    _Instant Messaging Information._ Certain Sites may offer instant messaging features. If you sign up for such features, you are choosing to allow other instant messaging users to see that you are online. At your discretion, you may choose to share additional information with other users.
+•   Instant Messaging Information. Certain Sites may offer instant messaging features. If you sign up for such features, you are choosing to allow other instant messaging users to see that you are online. At your discretion, you may choose to share additional information with other users.
 
-•    _Information on Credit Applications._ Information provided on credit applications may include some of the information covered above as well as additional information such as your social security number and income. Information provided on a credit application is used solely in accordance with the American Honda Finance Corporation Financial Privacy Policy provided below.
+•   Information on Credit Applications. Information provided on credit applications may include some of the information covered above as well as additional information such as your social security number and income. Information provided on a credit application is used solely in accordance with the American Honda Finance Corporation Financial Privacy Policy provided below.
 
 Certain Sites allow you to send e-cards to third parties. This requires you to provide the email address of each third party to whom you wish to send a card. Third party emails are used solely for this purpose.
 
@@ -30,7 +38,7 @@ You can visit our Sites without sharing personal information; however, certain f
 
 **Information Provided in Connection with Employment Applications**
 
-We receive and may store personal information provided to American Honda when you apply for employment with American Honda or any of its affiliated companies on [www.honda.com/careers](http://www.honda.com/careers) or other Sites. This information may include name, educational and employment background, contact information, job qualifications, and jobs for which you may wish to be considered. You may choose to provide additional information, such as your resume or CV, employment references, and salary requirements. You may also choose to provide this information by extracting it from another online location, such as Google, Yahoo, or Talent Exchange Universal Profile. Your provision of this information in connection with seeking employment at American Honda is voluntary and you determine the extent of the information you provide. Your decision not to provide such information may affect our ability to consider you for employment. This information is collected and maintained through Oracle’s Taleo service and is not shared except between the Taleo service and American Honda (and its affiliated companies), or between American Honda and its affiliated companies, as necessary for employment decisions. For more information about Oracle’s privacy policies, please consult Oracle’s disclosures on its website ([www.oracle.com](http://www.oracle.com/)).
+We receive and may store personal information provided to American Honda when you apply for employment with American Honda or any of its affiliated companies on [www.honda.com/careers](https://www.honda.com/careers) or other Sites. This information may include name, educational and employment background, contact information, job qualifications, and jobs for which you may wish to be considered. You may choose to provide additional information, such as your resume or CV, employment references, and salary requirements. You may also choose to provide this information by extracting it from another online location, such as Google, Yahoo, or Talent Exchange Universal Profile. Your provision of this information in connection with seeking employment at American Honda is voluntary and you determine the extent of the information you provide. Your decision not to provide such information may affect our ability to consider you for employment. This information is collected and maintained through Oracle’s Taleo service and is not shared except between the Taleo service and American Honda (and its affiliated companies), or between American Honda and its affiliated companies, as necessary for employment decisions. For more information about Oracle’s privacy policies, please consult Oracle’s disclosures on its website ([www.oracle.com](http://www.oracle.com/)).
 
 **Information We Collect Automatically**
 
@@ -49,8 +57,6 @@ We may receive and store certain information about your browsing preferences or 
 _Social Media Widgets_
 
 Our sites and mobile applications include social media features connected with social media platform such as Facebook, Twitter, Instagram, Snapchat, Google Plus, Pinterest, YouTube and others. These features may collect information about your IP address and which page you’re visiting on our site, and they may set a cookie or employ other tracking technologies. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
-
-BACK TO TOP
 
 **USE OF INFORMATION BY AMERICAN HONDA**
 
@@ -71,8 +77,6 @@ Except as otherwise limited in the Policy, we may use personal and anonymous inf
 •  For internal business operations, including the improvement of our products/services, data analytics, to personalize your experience and other normal business activities.
 
 Information obtained through our Sites may be merged with other information American Honda already knows, such as whether you are an owner of a Honda or Acura product.
-
-BACK TO TOP
 
 **SHARING OF INFORMATION WITH THIRD PARTIES**
 
@@ -110,21 +114,17 @@ In the event that American Honda is involved in a bankruptcy, merger, acquisitio
 
 We will not knowingly share your personal information with any other nonaffiliated third party, for such party’s own marketing purposes, without your consent. One example of such sharing is when you request to be added to the fan mailing list of one of the participating Civic Tour bands and/or a Civic Tour promotional partner.
 
-BACK TO TOP
-
 **ONLINE TRACKING AND INTEREST-BASED ADVERTISEMENTS**
 
 AHM and third parties, which may include Google, Adobe, Facebook and others advertising networks, use cookies, web beacons and similar technologies to gather information about you over time and across different websites or applications in order to help predict your preferences and show you interest-based advertisements.
 
 **How You Can Opt-Out**
 
-If you do not wish to receive interest-based advertising, please visit the [Digital Advertising Alliance (DAA) Consumer Choice Page](http://http//www.aboutads.info/choices/). The DAA website allows you to opt-out of one or more interest-based advertising networks. Opt-outs are device and browser specific; therefore, you will need to set your opt-out preferences for each device and browser. Deleting browser cookies can remove your opt-out preferences; however, the DAA offers [browser extensions](http://www.aboutads.info/PMC) that help preserve the opt-out preferences you set on the DAA's Consumer Choice Page. Please note that opt-outs only apply to interest-based advertising. You may still receive other types of online advertising.
+If you do not wish to receive interest-based advertising, please visit the [Digital Advertising Alliance (DAA) Consumer Choice Page](http://www.aboutads.info/choices/). The DAA website allows you to opt-out of one or more interest-based advertising networks. Opt-outs are device and browser specific; therefore, you will need to set your opt-out preferences for each device and browser. Deleting browser cookies can remove your opt-out preferences; however, the DAA offers [browser extensions](http://www.aboutads.info/PMC) that help preserve the opt-out preferences you set on the DAA's Consumer Choice Page. Please note that opt-outs only apply to interest-based advertising. You may still receive other types of online advertising.
 
 **Browser Do Not Track Signals**
 
 Some browsers have a “do not track” setting that allows you to tell sites that you do not want to be tracked. At this time, our Sites do not treat browsers that send a “do not track” signal differently from browsers that do not send one. You may, however, opt-out of interest-based advertising as outlined above.
-
-BACK TO TOP
 
 **POLICY ON COLLECTION OF INFORMATION FROM CHILDREN**
 
@@ -138,27 +138,19 @@ Powersports Customer Service: 866-784-1870
 
 Power Equipment/Marine/Engines Customer Relations: 770-497-6400
 
-BACK TO TOP
-
 **SECURITY**
 
 We use, and require our service providers to use, a variety of procedural, technical, and physical controls to help protect your information. Unfortunately, even though we take measures to protect your information, no security measure can be 100% secure, and we cannot guarantee the security of your information.
 
 We will never request your credit card number, social security number or other sensitive information through email. This practice, called “phishing”, is a scam designed to steal your information. If you receive an email that looks like it is from us asking you for this information, do not respond. You might also consider updating your email filter settings to block emails from the domain from which the email was sent.
 
-BACK TO TOP
-
 **LINKS**
 
-The Sites may contain links to third party websites including social media platforms, [acura.merchandisecollection.com](http://acura.merchandisecollection.com/) (operated by Staples Promotional Products, Inc.) and websites related to American Honda credit cards (operated by third party financial institutions), among others. Please be aware that if you access these links, you will be leaving our site. We encourage users to read the privacy policies of those sites, as we are not responsible for their content, links, or privacy procedures.
-
-BACK TO TOP
+The Sites may contain links to third party websites including social media platforms, [acura.merchandisecollection.com](https://acura.merchandisecollection.com/) (operated by Staples Promotional Products, Inc.) and websites related to American Honda credit cards (operated by third party financial institutions), among others. Please be aware that if you access these links, you will be leaving our site. We encourage users to read the privacy policies of those sites, as we are not responsible for their content, links, or privacy procedures.
 
 **INTERNATIONAL USERS**
 
 American Honda Sites covered by this website are intended for United States residents only. If you are a resident of another country, please use the corresponding Honda or Acura Sites. In the event that you provide any personal information on American Honda Sites, you consent to the transfer of such information across country borders, and to the use, processing, and disclosure of such information in global locations, including those that may have different levels of privacy protection than in your own country.
-
-BACK TO TOP
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
@@ -172,8 +164,6 @@ Powersports Customer Service: 866-784-1870
 
 Power Equipment/Marine/Engines Customer Relations: 770-497-6400
 
-BACK TO TOP
-
 **CONTACT INFORMATION**
 
 If you have any questions about this Privacy Policy or our online privacy practices, please contact us at:
@@ -186,13 +176,9 @@ Powersports Customer Service: 866-784-1870
 
 Power Equipment/Marine/Engines Customer Relations: 770-497-6400
 
-BACK TO TOP
-
 **POLICY UPDATES**
 
 If we decide to change our privacy policies or procedures, we will post those changes to this Privacy Policy so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We suggest periodically visiting this page to review our policies and procedures.
-
-BACK TO TOP
 
 **AMERICAN HONDA FINANCE CORPORATION FINANCIAL PRIVACY POLICY**
 
@@ -218,7 +204,7 @@ Honda Titling A-D LLCs
 
 Honda Titling A-D LPs
 
-AHFC websites include [www.hondafinancialservices.com](http://www.hondafinancialservices.com/) and [www.acurafinancialservices.com](http://www.acurafinancialservices.com/) among others.
+AHFC websites include [www.hondafinancialservices.com](https://www.hondafinancialservices.com/) and [www.acurafinancialservices.com](https://www.acurafinancialservices.com/) among others.
 
 **Privacy Policy Overview**
 
@@ -236,7 +222,7 @@ We maintain physical and electronic safeguards and have policies and procedures 
 
 3\. The AHFC family of companies on transactions with us that you have conducted (for example, products that you have purchased, financed or leased, your retail or lease account balance and payment history).
 
-  **Sharing of information**
+**Sharing of information**
 
  We may disclose information that we collect about your direct transactions (for example, account balance and payment history, as a present or former customer) among the AHFC family of companies and our parent company, American Honda Motor Co., Inc.
 
@@ -259,5 +245,3 @@ We may also disclose:
 _Policy Updates_
 
 If we modify our privacy policy on how we handle your personal information, we will post the revised information here, with a revised "effective date" at the top of this privacy policy. If there are material changes to this privacy policy or in how we will use your personal information, we may notify you by other means, such as sending an email to you or by posting a notice of such changes on our website. We encourage you to periodically review this statement to be informed of how we are protecting your information.
-
-BACK TO TOP
