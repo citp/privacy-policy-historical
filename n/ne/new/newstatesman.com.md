@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227105804id_/https%3A//www.newstatesman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629214437id_/https%3A//www.newstatesman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ Sensitive and private data exchange between the Website and its Users happens ov
 
 Unless we are given explicit permission to do so; we do not sell, trade, or rent Users personal information. We may without consent share generic aggregated information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Website or administer activities on our behalf, such as sending out newsletters or surveys.
 
-### List of websites
+###  List of websites
 
 [https://www.newstatesman.c](https://www.newstatesman.com/)om
 
@@ -86,10 +86,10 @@ Data Protection Officer
 
 New Statesman Limited
 
-John Carpenter House
+Standard House
 
-John Carpenter Street
+12-13 Essex Street
 
-London EC4Y 0AN
+London WC2R 3AA
 
 United Kingdom
