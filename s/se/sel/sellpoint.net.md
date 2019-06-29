@@ -1,67 +1,124 @@
-> *The following text is extracted and transformed from the sellpoint.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209012743id_/http%3A//sellpoints.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellpoint.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629081644id_/https%3A//www.sellpoints.com/website-privacy-policy) for the most accurate reproduction.*
 
-# SellPoint Privacy Policy
+# Website Privacy Policy - Sellpoints, Inc.
 
-#### Scope of Privacy Policy 
+Last updated May 11, 2018  
+[View Archived Privacy Policy](https://www.sellpoints.com/legal/)
 
-#### This Privacy Policy applies to sellpoints' online method of collection and use of anonymous, non-personally identifiable information (“Non-PII”) gathered by us for sellpoints' website, www.Sellpoints.net, as well as content hosted and served by sellpoints on third-party websites and on sellpoints' website. (“sellpoints Content”). 
+We have prepared this Privacy Notice to explain how, why, and when we collect data from you on our website.
 
-#### Who is sellpoints and how does sellpoints interact with consumers on the web? 
+Please note that this Privacy Notice only applies to data that we collect when you visit the SellPoints website at [www.SellPoints.com](http://www.sellpoints.com/) or our Retargeter website at [www.ReTargeter.com](http://www.retargeter.com/) (the “ **Sites** ”). To learn what data we collect when you visit the websites of our advertiser clients, please visit the [SellPoints Service Privacy Notice](https://www.sellpoints.com/service-privacy-policy/).
 
-#### Sellpoints (“sellpoints”, “we”, or “us”) is in the business of presenting enhanced product content on the pages of online shopping websites; generally in the form of product tours featuring “rich media; videos, 360° views, and other product collateral. 
+### **1\. About SellPoints’ Services**
 
-#### We do this by utilizing sellpoints proprietary technology (the “Technology”) to create, host, and integrate content provided to us by manufacturers into the product pages of online retailers of consumer products. In order to provision this service, our Technology collects certain anonymous, Non-PII information. Non-PII does not include information that can be used to identify an individual person. The Non-PII we collect may include the date and time of a visit to an online retail website, the pages or product information viewed during that visit, and the sellpoints content that were clicked for view. Sellpoints does not collect or maintain any personally identifiable information (“PII”). This means that we do not accept or use your name, address, email address, or any sensitive information such as your credit card numbers, Social Security numbers, or medical records to provide our online merchandising service. 
+SellPoints provides targeted advertising services for our advertiser clients (“Advertisers”). When you visit a website operated by an Advertiser or a third party site where we could serve an ad to you, we may collect some or all of the data described in our  _[Service Privacy Notice](https://www.sellpoints.com/service-privacy-policy/)_. Our platform uses that data as well as other data described below to help Advertisers provide ads to you that are more relevant to you.
 
-#### How does sellpoints collect this information? 
+For example, if you visit an Advertiser’s website and shop for football helmets, our Platform (or another platform we work with) may later serve you with targeted ads for the Advertiser’s brand of football helmets as you browse the internet or through other channels, such as emails.
 
-#### When a consumer visits our website or a website where our Technology is enabled, a sellpoints "cookie" may be placed on the consumer' machine. Information collected from cookies is not linked to PII and no PII is transferred in the sellpoints cookie. Sellpoints knows that consumer only by an anonymous ID, so that we can ensure that shoppers have the option to view product information that is the most relevant to the consumer' presumed interests. Again, we don't know who the consumer is, we just know the consumer' preferences through that ID. 
+### **2\. What data we collect and how we use it**
 
-#### What is a "Cookie"? 
+We may collect the following categories of information on our website and use them for the purposes explained below.
 
-#### A cookie is an industry-standard small data file placed on a consumer' computer through your browser by visiting various websites. Cookies allow marketers to "remember you" when you return to their website. Cookies are used by sellpoints to link this anonymous data to non-identified unique users. Again, no PII is transferred in the sellpoints cookie and sellpoints cookies do not track the consumer outside this site or the websites containing sellpoints content or sellpoints technology. Only Non-PII is transferred in the sellpoints cookies. 
+  * Website activity: Data about your browsing activity on our website.
+  * Device and browser information: Technical information about the device or browser you use to access our website. For example, your device’s IP address, and (in the case of mobile devices) your device type and mobile device’s unique identifier such as the Apple IDFA or Android Advertising ID.
+  * Contact Information: If you choose to provide your name, email address or phone number.
+  * Account Information: If you open an account, we will collect your username and a password and other information to necessary to open and access your account.
+  * Customer Service Information: Information you may provide to customer service including survey responses.
+  * Financial Information: Credit card number or other payment account information. This information is collected directly by our payments processor and not stored at SellPoints.
+  * Third party information: We may collect additional information about you from third-party sources where we have the rights to do so.
 
-#### How is the information used, and who is it shared with? 
 
-#### We use the anonymous information we collect for purposes of analyzing the volume and activity of unique viewers of sellpoints content in order to better understand such factors as the portion of consumers who choose to view sellpoints-hosted content, the components of content receiving the most views, and other aggregate behavioral information. The aggregate information we collect is provided to our manufacturers and retailers. 
 
-#### Safeguarding Information We Collect and Use 
+We use this data to:
 
-#### The security of your information is important to us. We have implemented appropriate security measures to protect the information in our care, both during transmission and once we receive it. We take physical and technical security measures to protect our data from unauthorized access, as well as unauthorized disclosure or destruction of data. 
+  * To respond to your inquiries and fulfill your requests, such as to send you requested materials and newsletters, as well as information and materials regarding our products and services.
+  * To send administrative information to you, for example, information regarding our websites, services, and changes to our terms, conditions, and policies.
+  * To communicate with you and provide you with related customer service.
+  * To send you marketing communications, including via email and SMS in compliance with applicable laws, that we believe may be of interest to you.
+  * To personalize your experience on the Sites by presenting products and offers tailored to you.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Sites and services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our Affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our Affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+  * prevent potential fraud and enforce our Terms of Service.
 
-#### Privacy of Children 
 
-#### We are committed to protecting the privacy of children. Neither sellpoints' website nor sellpoints' online activities with its Marketing Partners are intended or designed to attract children under the age of 13. As stated above we do not collect Personal Information from any person and therefore we do not collect Personal Information from a person we actually know is a child under the age of 13. 
 
-#### Opting Out of the Services 
+### **3\. Data Sharing**
 
-#### We provide multiple ways for you to opt out of non PII data gathering by sellpoints: 
+We may disclose information about you:
 
-#### We make available a sellpoints "opt-out" cookie that you may download to your browser. This cookie, when installed on your browser, will prevent sellpoints from collecting Non-PII on that browser. You can download our opt-out cookie by clicking [here](http://www.sellpoint.net/home/optout.php). 
+  * With our service providers: Companies we contract with who help with parts of our business operations. We require that our service providers only use your information in connection with the services they perform for us.
+  * With your service providers: Companies under contract with, or acting on your behalf, who handle data (such as a customer lists) on your behalf.
+  * With our related companies
+  * In connection with legal proceedings: When we are under a legal obligation to do so, for example, to comply with a binding order of a court, or where disclosure is necessary to exercise, establish or defend the legal rights of SellPoints, our Advertisers or any other third party.
+  * In connection with a sale of our business: If a third party acquires some or all of our business or assets, we may disclose your information in connection with the sale.
+  * We also share technical data that we collect about your browsing habits and your device (such as data relating to our cookies, tracking pixels and similar technologies) with other advertising companies in the digital advertising ecosystem. This enables them and us to better target ads to you.
 
-#### Additionally, you may prevent us from collecting Non-PII on a browser by blocking all third-party cookies in that browser. If you block all third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality of certain websites. 
 
-####   
-Our opt-out tools are cookie-based. Both opt-out tools only prevent us from collecting Non-PII pertaining to you on the browser on which they are installed, and will only function if your browser is set to accept third-party cookies. Consumers have the capability of deleting cookies on their machine; however, if they enjoy the convenience of a website remembering them, consumers are advised not to delete their cookies. If you delete an opt-out cookie from a browser' cookie files, we will collect Non-PII from that browser until an opt-out cookie is reset on that browser. However, we shall not collect any PII as set forth above. 
 
-#### Disclosure Polices 
+Finally, we may disclose aggregated, anonymized information to third parties.
 
-#### Sellpoints reserves the right and may disclose any information in our possession if such disclosure is necessary to (i) prevent or detect fraud, security and technical issues, (ii) satisfy any applicable law, regulation, legal process or governmental or law enforcement request, (iii) protect an individual from imminent harm or an individual' safety, and (iv) enforce these Privacy Policies and sellpoints' Terms of Use. 
+### **4\. Cookies and related technologies**
 
-#### Links to and Information from Third Party Websites 
+The Sites website uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites.
 
-#### Sellpoints may provide links to or reference material from third party websites or you may visit third party websites in the viewing of sellpoints Content or the use of the sellpoints Technology. Such links or reference material is provided to you for your convenience and information. Sellpoints does not control those sites and if you access these links or materials, please refer to the third party website for their privacy policies. Those third party websites likely use their own cookies, pixels and other information gathering technology to collect data or solicit information from you. Sellpoints is not responsible for and specifically disclaims any responsibility for their privacy practices, policies, collection of data or information or the content of such third parties. We also do not endorse nor make any representations about third party websites. 
+To get more information about the individual cookies dropped by our website, please see the Adjust Ad Preferences link on the footer of our website.
 
-#### Changes to This Privacy Policy 
+### **5\. Your choices and opting-out**
 
-#### We may change this Privacy Policy from time to time. When we do, we will post the change(s) on our website, along the date of the most recent Privacy Policy revision. 
+We recognize how important your online privacy is to you, so we offer the following options for controlling the targeted ads you receive and how we use your data:
 
-#### Contacting Us 
+  * You can opt out of receiving personalized ads served by us or on our behalf by following the instructions provided or by clicking  _[here](https://www.usa.gov/optout-instructions)_.   Please note that, if you delete your cookies or upgrade your browser after having opted out, you will need to opt out again.
+  * In some cases we may link multiple browsers or devices to you. If you opt out on a browser or device and we have more linked to you, we will extend your opt out decision to the other linked browsers and devices. Since we only link users across browsers on devices in some conditions, there could be cases where you are still being tracked in a different browser or device we have not linked, and where we are treating you as a different user.
+  * We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAA website [here](http://www.aboutads.info/choices/).
+  * We also comply with the Canadian Self-regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance of Canada (DAAC). You may opt out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAAC website [here](http://youradchoices.ca/choices/).
+  * We also adhere to the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt out via their [Your Online Choices](http://www.youronlinechoices.com/)
+  * Please note that when using the ad industry opt-out tools described above:
 
-#### We encourage you to contact us if you have any questions, comments, or concerns about this policy. You may contact us by e-mail at [privacy@sellpoints.com](mailto:privacy@sellpoints.com) or by postal mail at:
 
-sellpoints, Inc.  
-6550 Vallejo St. Suite 200  
-Emeryville, CA 94608  
-Attention: Data Privacy 
+  *     * If you opt-out we may still collect some data about your online activity for operational purposes (such as fraud prevention) but it won’t be used by us for the purpose of targeting ads to you.
+    * If you use multiple browsers or devices you may need to execute this opt out on each browser or device.
+    * Other ad companies’ opt-outs may function differently than our opt-out.
 
-### © 2014 Sellpoints Inc.
+
+  * You can request that we stop email marketing to you. You can use the unsubscribe link in our marketing emails or contact [privacy@sellpoints.com](mailto:privacy@sellpoints.com) or [privacy@retargeter.com](mailto:privacy@retargeter.com).
+
+
+
+In addition, if you are located in the European Economic Area you may also have the right to access, correct or update some of the information we hold about you. You can also request that we delete your information. If you wish to exercise any of these rights, please contact us at [privacy@sellpoints.com](mailto:privacy@sellpoints.com) or [privacy@retargeter.com](mailto:privacy@retargeter.com).
+
+### **6\. Data retention**
+
+Identifiable information about you is held no longer than necessary for our business purposes or to meet legal requirements.
+
+### **7\. Security**
+
+We apply technical, administrative and organizational security measures to protect the data we collect against accidental or unlawful destruction and loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against other unlawful forms of processing.
+
+### **8\. International transfers**
+
+We may transfer the information we collect about you to countries other than the country where we originally collected it for the purposes of storage and processing of data and operating our services. Those countries may not have the same data protection laws as your country. However, when we transfer your information to other countries, we will protect that information as described in this Privacy Notice and take steps, where necessary, to ensure that international transfers comply with applicable laws. For example, if we transfer your information from the European Economic Area to a country outside it, such as the United States, we will seek to take additional steps such as entering into EU compliant data transfer agreements with the data importer where necessary.
+
+### **9.   Can Children Use Our Sites? **
+
+The Sites are not intended for minors under the age of 18. We do not knowingly or specifically collect information about minors under the age of 18 and believe that children of any age should get their parents’ or legal guardians’ consent before providing any Personal Information. If you believe that we have mistakenly or unintentionally collected such information, please notify us at [info@sellpoints.com](mailto:privacy@bluedrone.com), so that we may delete the information from our servers.
+
+### **10\. Third Party Sites?  **
+
+The Sites may permit you to link to other websites on the Internet through direct links or through applications such as “share” or “Like” buttons, and other websites likewise may contain links to the Sites. The information practices or content of such other websites is governed by the privacy statements of those websites and not by this Privacy Policy. We encourage you to review the privacy policies found on such other websites, services, and applications to understand how your information may be collected and used.
+
+Similarly, please note that we are not responsible for the collection, use and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM, or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or the Social Media Pages.
+
+### **11.    Sensitive Information**
+
+We ask that you not send us or disclose any sensitive Personal Information ( _e.g._ , social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background, or trade union membership) on or through the Sites or via other means.
+
+### **12\. Changes to this Privacy Notice**
+
+Changes to this Privacy Notice will be posted on this page. If we make a material change to our privacy practices, we will provide notice on the site or by other means as appropriate.
+
+### **13\. Contact us with questions or concerns**
+
+Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information, please contact us by email at [info@sellpoints.com](mailto:privacy@bluedrone.com), or by mail at 1198 65th Street, Suite 250 Emeryville, CA.  94608 ATTN: Privacy Officer, Legal. Because email communications are not always secure, please do not include credit card information or other sensitive information in your emails to us.
+
+We will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
