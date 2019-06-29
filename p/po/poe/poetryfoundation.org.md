@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poetryfoundation.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224042318id_/https%3A//www.poetryfoundation.org/foundation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetryfoundation.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629045612id_/https%3A//www.poetryfoundation.org/foundation/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Poetry Foundation
 
-**Last Updated: June 8, 2018**
+**Last Updated: January 21, 2019**
 
 The Poetry Foundation (“TPF”, “us”, “our” or “we”) cares about your privacy and the security of your information. We want you to be familiar with how we collect, use and disclose information, including personal information. This Privacy Policy describes our practices regarding our use and disclosure of user information collected on the TPF website ([www.poetryfoundation.org](http://www.poetryfoundation.org/) and all sub-domains), mobile websites, applications and any other TPF products, services or tools that link to this Privacy Policy (the “Services”). The Services may contain links to other websites for your convenience and information. TPF is not responsible for the privacy practices or the content of those sites. 
 
@@ -23,7 +23,7 @@ A. Information you provide to us directly.
 
 
 
-B. Information collected from your use of the Services. 
+B. Information collected from your use of the Services.
 
   * Cookies and Other Technologies – Information collected automatically may include usage details (e.g., pages viewed on our website or time spent on a page), IP addresses, and information collected through browser cookies. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of the Services. By using the Services with your browser setting adjusted to accept cookies, you consent to our use of cookies on the Services. The cookies we use include:   
 
@@ -39,6 +39,7 @@ B. Information collected from your use of the Services.
   * Local Storage Objects and Advertising – We may use Local Storage Objects (“LSOs”), such as HTML5, to store content information and preferences. Service Providers with which we engage to provide certain features on our website and Services or to display advertising based upon your web browsing activity use LSOs such as HTML5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. 
   * Behavioral Targeting/Re-Targeting – We may use a third-party ad network to either display advertising on our Services or to manage our advertising on other sites. Examples of these services include Facebook Pixel and Google Tag Manager. Our ad network and magazine subscription Service Providers may use cookies and Web beacons to collect non-personal information about your activities on our Services and other websites to provide you targeted advertising based upon your interests. 
   * Social Media Widgets – We may include social media features, such as the Facebook “Like” button and widgets, the “Share” this button or interactive mini-programs that run on our Services. These features may collect information, such as your IP address and other data, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third-party or hosted directly on our Services. Your interactions with these features are governed by the privacy policy of the company providing it.
+  * Facebook Custom Audiences: We may participate in Facebook.com's Custom Audience program, which enables us to display personalized ads to persons on our email lists when they visit Facebook.com. We provide personal information such as your email address and phone number to Facebook to enable Facebook to determine if you are a registered account holder with Facebook. You may opt-out of participation in our Facebook Custom Audience by sending an email, from the email address you are opting out of, to the email address provided in our contact information below.
 
 
 
