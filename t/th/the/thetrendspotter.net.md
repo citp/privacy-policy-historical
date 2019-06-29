@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetrendspotter.net privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822042812id_/https%3A//www.thetrendspotter.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrendspotter.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629201850id_/https%3A//www.thetrendspotter.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - The Trend Spotter
 
@@ -6,7 +6,7 @@ Please read this Privacy & Cookie Policy carefully before using or proceeding to
 
  **INFORMATION GATHERED**
 
- The Trend Spotter (“Company” or “we”) collects certain anonymous data regarding the usage of the website. This information does not personally identify users, by itself or in combination with other information, and is gathered to improve the performance of the website. By way of example, we may use services such as Google Analytics and Chartbeat to collect aggregate information on unique visits, pageviews, browsers used, IP addresses, and similar information. In addition, the website uses cookies to store information about visitor preferences, record user-specific information on which pages the user accesses or visits, and customize content based on the visitor’s browser type or other information that the visitor sends via their browser.
+The Trend Spotter (“Company” or “we”) collects certain anonymous data regarding the usage of the website. This information does not personally identify users, by itself or in combination with other information, and is gathered to improve the performance of the website. By way of example, we may use services such as Google Analytics and Chartbeat to collect aggregate information on unique visits, pageviews, browsers used, IP addresses, and similar information. In addition, the website uses cookies to store information about visitor preferences, record user-specific information on which pages the user accesses or visits, and customize content based on the visitor’s browser type or other information that the visitor sends via their browser.
 
 Additionally, visitors who submit information via our Contact, or who subscribe to our mailing list, will have their email addresses, IP addresses recorded; these are collected so that we may reply to the submitter if they have a question or comment, to reduce spam, and to send the requested emails to the mailing list subscriber. In all such cases you have the option of providing us with personally identifiable information. Users who choose to sign up for a mailing list will receive regular emails and we may, from time to time, track user email usage in a continued effort to improve our services.
 
@@ -50,7 +50,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
  **DOUBLECLICK DART COOKIE**
 
-Google, as a third party vendor, uses cookies to serve ads on the website. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to this website and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>
+Google, as a third party vendor, uses cookies to serve ads on the website. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to this website and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
  **MOBILE DEVICE ADVERTISING**
 
@@ -74,4 +74,4 @@ We reserve the right to modify its privacy policy at any time and will notify yo
 
  **CORRECTIONS AND UPDATES**
 
-If you have any questions or suggestions regarding our Privacy Policy, please contact the editor of the website in question or send an email to info@thetrendspotter.net
+If you have any questions or suggestions regarding our Privacy Policy, please use our [contact form](https://www.thetrendspotter.net/contact-us/).
