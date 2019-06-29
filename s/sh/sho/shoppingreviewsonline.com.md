@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppingreviewsonline.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226201958id_/http%3A//shoppingreviewsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingreviewsonline.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630014150id_/http%3A//shoppingreviewsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Shopping Reviews Online
 
