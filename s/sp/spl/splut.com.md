@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splut.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028054838id_/http%3A//www.splut.com/privacy2.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splut.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629173553id_/http%3A//www.splut.com/privacy2.htm) for the most accurate reproduction.*
 
 # Splut Privacy Policy
 
