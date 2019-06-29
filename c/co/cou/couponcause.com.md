@@ -1,53 +1,214 @@
-> *The following text is extracted and transformed from the couponcause.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624104407id_/http%3A//couponcause.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcause.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629171817id_/https%3A//couponcause.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CouponCause.com
 
-Privacy Policy Statement for CouponCause.com 
+**Privacy Policy**
 
-We respect our user’s privacy and make every effort to protect the privacy of the visitors to this website.
+Effective Date: May 22, 2018 
 
- **1\. Site Information & Contact**
+This is the Privacy Policy of FutureClick Media, LLC ("CouponCause" or "us" or "we"). This Privacy Policy and our [Terms and Conditions](https://couponcause.com/terms-and-conditions-for-use-of-couponcause-com/) apply to all users of, and govern your use of, the CouponCause.com website and all other websites, features, applications (including mobile device applications), browser extensions, widgets or online services that are owned and provided by FutureClick Media, LLC and that post a link to or reference this Privacy Policy (collectively, the "Services"). This Privacy Policy describes our information collection practices, such as the types of information CouponCause collects when you interact with the Services, and how we may use and share that information. 
 
-This website is owned and operated by FutureClick Media, LLC. The administrator for this site can be reached via email at [contact@couponcause.com](mailto:contact@couponcause.com) All efforts will be made to respond to any e-mail inquires within 48 hours.
+Please review this Privacy Policy carefully. This Privacy Policy supersedes any version published prior to the Effective Date. Each time that you access or interact with the Services you signify that you agree to our practices as set forth in this Privacy Policy. If you do not agree to this Privacy Policy, please do not access, create an account, subscribe or otherwise use the Services. Please note that certain features or services referred to in this Privacy Policy may not be offered as part of the Services at all times. 
 
- **2\. Information that is collected**
+Click on one of the links below to jump directly to the listed section: 
 
-Information such as domain name, browser type and statistics for pages and deals that are being viewed are collected by this website. CouponCause only uses this information internally to improve the content and navigation of this site. Information that is volunteered by visitors such as e-mail addresses, contact information, comments etc. is also collected.
+  1. [What Information Do We Collect?](https://www.couponcause.com/privacy-policy/#what_information_do_we_collect)
+  2. [How Do We Use the Information Collected?](https://www.couponcause.com/privacy-policy/#how_do_we_use_the_information_collected)
+  3. [Cookies and Other Tracking Technology](https://www.couponcause.com/privacy-policy/#cookies_other_technology)
+  4. [Third Party Analytics Providers and Ad Servers](https://www.couponcause.com/privacy-policy/#third_party_analytics_providers_and_ad_servers)
+  5. [Sharing Information with Third Parties](https://www.couponcause.com/privacy-policy/#sharing_information_with_third_parties)
+  6. [Changing Your Information and Preferences](https://www.couponcause.com/privacy-policy/#changing_your_information_and_preferences)
+  7. [Protection of your Personally Identifiable Information](https://www.couponcause.com/privacy-policy/#protection_of_your_personally_identifiable_information)
+  8. [Public Information](https://www.couponcause.com/privacy-policy/#public_information)
+  9. [Links to Other Websites](https://www.couponcause.com/privacy-policy/#links_to_other_websites)
+  10. [Changes to the Privacy Policy](https://www.couponcause.com/privacy-policy/#change_to_privacy_policy)
+  11. [Children’s Privacy](https://www.couponcause.com/privacy-policy/#childrens_privacy)
+  12. [Contact Us](https://www.couponcause.com/privacy-policy/#contact_us)
+  13. [California Privacy Rights](https://www.couponcause.com/privacy-policy/#california_residents)
 
- **3\. No use by persons under the age of 13**
 
-No children under 13 should disclose personal information such as e-mail addresses on this site.
 
- **4\. Links to other websites**
+**1\. WHAT INFORMATION DO WE COLLECT?**
 
-CouponCause links to several external sites such as merchants, advertisers, partners and sponsors. When leaving CouponCause and browsing external sites, you are encouraged to review the privacy policy of those sites as it may or will differ from this privacy policy. CouponCause is not responsible for the privacy practices or policies of any third party web sites and this privacy policy statement does not apply to those Web sites. CouponCause makes no representation to the accuracy or existence of other websites’ privacy policies.
+You may provide Personal Information when you use the Services. “Personal Information” is information that identifies you as a specific individual, such as your name, email address, street address, and other contact information. You may also provide other information, such as demographic information (such as age or gender or income or other similar information) and information about your interests and preferences. If we combine these other types of information about you with Personal Information, we will treat the combined information as Personal Information under this Privacy Policy. 
 
- **5\. E-mail addresses**
+  * **Information You Choose to Provide.**
 
-CouponCause only collects and stores names and e-mail addresses that are submitted voluntarily to us by our visitors. The e-mail addresses are used to send out newsletters and other related information and are **never** shared with outside parties except as detailed in section 9. Providing your e-mail address to CouponCause is voluntary and is not required to browse or use this site. If you have previously submitted your e-mail address to CouponCause but no longer wish to receive e-mails from us, please send an e-mail to contact@couponcause.com and we will promptly remove your e-mail information.
 
- **6\. Financial Information**
 
-We do NOT collect any kind of financial information from our visitors. Any financial transaction you may enter into is strictly between yourself and the merchant you are purchasing goods or services from. CouponCause.com will not be responsible or otherwise liable for any use or disclosure of your financial information by such third parties. Please review the privacy policies of the merchants you are purchasing from for more information.
+You may provide Personal Information when you register or create an account, subscribe to our emails, contact us through our contact form or email, or otherwise use or interact with the Services. 
 
- **7\. Cookies**
+  * **Information Automatically Collected Through Technology.**
 
-CouponCause, like most websites, uses cookies to enhance your experience while using our site. Cookies are small data files that your web browser handles and stores on your computer. Cookies are not tied to your personal information. Other merchants and organizations that are linked to on this website may also set cookies when visiting their sites.
 
- **8\. Data Security**
 
-CouponCause takes reasonable precautions to keep all personal information secure. There are managerial and physical procedures in place to prevent unauthorized access to data. Please note that due to the open nature of the public Internet, you should consider any communication between yourself and definitivedeals.com as non-confidential as we cannot guarantee that all communication between you and our servers will be completely free from unauthorized access. The only personally identifiable data we store is though limited to names and email-addresses. No other personal data is stored.
+When you use or interact with the Services, we collect certain information by automated means, using various tracking technologies, about how the Services are used. Information gathered may include your Internet service provider, browser type, operating system, the date and time of visits, pages viewed and time spent on our sites. In addition, information collection may include Internet Protocol (IP) addresses or other device (computer, mobile device, tablet or other device) identifiers in connection with your interaction with the Services. To the extent we combine this information with Personal Information, the combined information shall be treated as Personal Information. For more information on the technologies used to automatically collect information, please see [Cookies and Other Technologies](https://www.couponcause.com/privacy/#cookies_other_technology) below. 
 
- **9\. Sharing of Personally Identifiable Data**
+  * **Social Media Services.**
 
-We do not divulge any information collected by us, or volunteered by our users, to any third parties unless; **(i)** We are required to do so by law, court order or subpoena; **(ii)** If required to enforce our Terms and Conditions; or **(iii)** If required to protect our website, trademarks and property.
 
- **10\. Changes to the Privacy Policy**
 
-CouponCause reserves the right to change and/or amend this privacy policy at any time with and without notice. Any updates will be posted on this page and are effective immediately.
+When you choose to register an account with CouponCause through a third party social media or social networking service or platform (including, but not limited to, Facebook and collectively, “Social Media Service”), we will use the information you have provided to the Social Media Service (such as your name, email address, gender and other information you make publicly available via the Social Media Service) to create your account. The information accessible to us through your Social Media Service is managed by you using the privacy settings of the Social Media Service. Other than what we may share with the Social Media Service as described below, the Personal Information a Social Media Service has about you is obtained by the Social Media Service independent of the Services, and CouponCause has no responsibility for it. By registering an account with CouponCause through a Social Media Service, you grant us permission to access all of the elements of your social media profile information that you have made available to be shared and to use it in accordance with the terms of use of the Social Media Service and this Privacy Policy. 
 
- **11\. Your Acceptance**
+We may also permit additional interactions between the Services and a third party website, service or other content provider, such as enabling you to “like” or share content to a third party Social Media Service. If you choose to “like” or share content, or to otherwise share information from or via the Services with a third party website or service, that information may be publicly displayed, and the third party may have access to information about you and your use of the Services (and we may have access to information about you from that third party). If you post information on a Social Media Service that refers to the Services (such as by using a Twitter hashtag associated with the Services), we may publish your post in accordance with the privacy policy of the Social Media Service. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections” or information about you is otherwise accessible through your “connections” web page, profile page or similar page on a Social Media Service platform or other third party website or interactive service. 
 
-Your continued use of this site means that you understand this Privacy Policy and agree to its terms. Your continued use of this site also means that you understand and accept our Terms and Conditions. 
+Please note that your relationship with any Social Media Service is governed solely by your agreements with such Social Media Service. The information we collect in connection with Social Media Services is subject to this Privacy Policy. The information collected and stored by the third party remains subject to the third party’s privacy practices, including whether the third party continues to share information with us, the types of information shared and your choices with regard to what is visible to others on that third party website or service. If your Social Media Service account terminates, then functions enabled through the link between your CouponCause account and your Social Networking Service account may also terminate. 
 
-This Privacy Policy was last updated on September 20th, 2013 
+  * **Third Party Information.**
+
+
+
+From time to time, we may receive information about you from third parties. For example, we may supplement the information we collect with outside records from third parties for various purposes, such as to provide you with information or services or to enhance our ability to serve you or tailor our content to you. We may combine the information we receive from those other sources with information we collect through the Services. To the extent we combine such third party sourced information with Personal Information we have collected about you on the Services, we will apply this Privacy Policy to the combined information. Third parties may also provide information about you in connection with Social Media Services, as described above. We are not responsible for the accuracy of any information provided by third parties or third party policies or practices. 
+
+**2\. HOW DO WE USE THE INFORMATION COLLECTED?**
+
+CouponCause may use information collected through the Services, including your Personal Information, as follows. 
+
+  * To manage and improve the Services and for other internal business purposes;
+  * To enable you to use the Services, to process your registration and subscriptions, and to provide related user support;
+  * To prevent and address fraud, breach of policies or terms, and threats or harm;
+  * To help determine the types of content or services that may be of most interest to users;
+  * To provide you with coupon and offer content and services that you have requested or that we believe will interest you;
+  * To help track use of the Services and perform other analytics;
+  * To respond to your questions, complaints or comments;
+  * To improve the Services or other FutureClick Media, LLC websites, applications, marketing efforts, products, and services;
+  * To contact you with regard to your use of the Services and with administrative messages, including, in our discretion, changes to policies governing the Services;
+  * To communicate with you and provide additional information that may be of interest to you regarding CouponCause and our merchant partners, including special offers, coupons and marketing materials (for information on how to manage communications, please see “Changing Your Information and Preferences” below);
+  * To tailor content, recommendations, and offers we display to you, based on factors such as your preferred merchants (for information on how to manage tailored content, please see “Opting out of Tracking Technologies” below);
+  * For purposes as disclosed at the time you provide your information, with your consent, and as further described in this Privacy Policy.
+
+
+
+**3\. COOKIES AND OTHER TRACKING TECHNOLOGY**
+
+The technology used to collect information from CouponCause visitors by automated means may include the following: 
+
+  * **Cookies (or browser cookies):**
+
+
+
+Like many websites, we use “cookies” to collect information. A cookie is a small data file placed on your computer or mobile device for record-keeping purposes. We may use both persistent cookies, which remain on your computer, and session ID cookies, which expire at the end of your browser session. Persistent cookies may be used to remember your device for future logins to the Services. Session cookies may be used to enable certain features of the Services, to better understand how users interact with the Services and to monitor web traffic routing from and aggregate usage of the Services. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you disable or do not accept cookies, however, please note that some or all parts of the Services may not function properly and that you may not be able to use all functionality of the Services. 
+
+  * **Flash Cookies:**
+
+
+
+Certain features of our websites and the Services may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's [website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). If you disable or do not accept cookies, however, please note that some or all parts of the Services may not function properly and that you may not be able to use all functionality of the Services. 
+
+  * **Log Data:**
+
+
+
+When you interact with the Services our web servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your device’s Internet Protocol (IP) address, browser type, browser software version, the web page you were visiting before you came to our Services, pages from our websites and Services that you visit, the time spent on those pages, clicks, information you search for when using our Services, access times and dates, redemption information and other statistics. 
+
+  * **Web Beacons:**
+
+
+
+We also may employ software technology known as “web beacons” or “tracking tags” to help us keep track of what content from the Services is effective and to serve relevant advertising to you. Web beacons are small graphics with a unique identifier that may be invisible to you and that are used to track the online activity of Internet users. Web beacons may be embedded in the web pages you view or email messages you receive. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors or users of our Services, to monitor how users navigate or interact with the Services, to count how many emails were sent and opened, or to count how many specific items or links were viewed. 
+
+**4\. THIRD PARTY ANALYTICS PROVIDERS AND AD SERVERS**
+
+We work with vendors (including network advertisers, advertising companies and analytics companies) to provide us with information regarding traffic on the Services, to serve advertisements, including our advertisements elsewhere online, and to provide us with information regarding the use of the Services and the effectiveness of our advertisements. 
+
+In connection with providing analytics and advertisement services, third parties may collect certain information about your interactions with the Services or other websites and online content. These third parties may set and access their own technologies (including cookies and web beacons) and may otherwise collect or have access to information about you. These technologies may be used to, among other things, target advertisements, prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. 
+
+You may exercise choices regarding the use of cookies from Google Analytics by going to <https://tools.google.com/dlpage/gaoptout> or downloading the Google Analytics Opt-out Browser Add-on. 
+
+  * **Opting Out of Tracking Technologies:**
+
+
+
+Some browsers may allow you to automatically transmit a “Do Not Track” signal to online services you visit, but because these signals are not yet uniform, our Services are not currently set up to recognize those signals. Accordingly, we do not monitor or take action with respect to “Do Not Track” signals or other mechanisms. For more information on “Do Not Track,” visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/). 
+
+However, you may manage how your browser handles cookies and related technologies by adjusting the browser’s privacy and security settings. Each browser is different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. Also, you may be able to exercise specific privacy choices, such as enabling or disabling notifications, by adjusting the permissions in your mobile device. 
+
+You may exercise choices regarding the use of cookies from Google Analytics by going to <https://tools.google.com/dlpage/gaoptout> or downloading the Google Analytics Opt-out Browser Add-on. 
+
+While we may use a variety of service providers to perform advertising and analytics services, most of these companies are members of the Network Advertising Initiative ("NAI") or the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising. You may visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) to learn more about targeted advertising and the “opt-out” procedures of third party advertising networks and companies that are NAI members. You may also visit the [Digital Advertising Alliance Consumer Choice Page](http://www.aboutads.info/choices/) for information regarding targeted advertising and an “opt-out” by participating advertising networks and companies in the DAA Self-Regulatory Program. Please note that these opt-out mechanisms are not provided by us and are not opt-outs from all online advertising, just certain targeted advertising from such third party advertising networks and companies. Even if you opt out, you will continue to receive generic ads while visiting the Services and elsewhere online. 
+
+**5\. SHARING INFORMATION WITH THIRD PARTIES**
+
+We may share non-Personal Information, such as aggregated user statistics, that does not identify you or has been de-identified, with third parties or affiliates for any purpose in our discretion. We do not share your Personal Information with any third parties or affiliates for those third parties' or affiliates’ own direct marketing purposes unless we first provide you with the opportunity to opt-in to such sharing. We also may share the information (including Personal Information) we have collected about you with your consent and as disclosed at the time you provide your information, as described in or consistent with this Privacy Policy, and in the following circumstances. 
+
+  * **Service Providers.**
+
+
+
+We may employ third party companies and individuals to perform certain services on behalf of or relating to the business or administration of the Services, such as website hosting, providing website usage analytics, sending email or other communications, providing marketing assistance and data analysis, providing consumer affairs services or performing other business or administrative services. These third parties may have access to your Personal Information solely as necessary to carry out the services they are performing for you or for us. 
+
+  * **Administrative and Legal Purposes.**
+
+
+
+CouponCause cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), at the request of governmental authorities conducting an investigation, to protect the property and rights of CouponCause or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity. 
+
+  * **With Other Third Parties at Your Request.**
+
+
+
+You may be presented with opportunities to receive information or marketing offers from one or more third parties about their own products or services. If you agree at that time to have your Personal Information shared (by opting-in), your Personal Information will be disclosed to that third party for its own direct marketing purposes and will be subject to the privacy policy and practices of that third party. For more information, see “California Residents - Your Privacy Rights” below. 
+
+You also may request, such as through your use of a Social Media Service, that we share information about you with others, and we will typically do so under those circumstances. We are not responsible for the privacy policies and practices of third parties, and, if you later decide that you no longer want to receive communications from a third party, you will need to contact that third party directly. 
+
+  * **Business Transfers.**
+
+
+
+CouponCause may transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets (including as part of the due-diligence process with any potential acquiring entity) or in the event of bankruptcy, subject to this Privacy Policy. 
+
+  * **Sweepstakes, Contests and Promotions.**
+
+
+
+We may offer sweepstakes, contests and other promotions (each a "Promotion") that may require registration. By participating in a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor or sponsors of the Promotion to use your name, voice, likeness or other indicia of persona in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, in accordance with the official rules that govern that Promotion, your Personal Information may be disclosed to third parties or the public in connection with the administration of the Promotion, including, without limitation, in connection with winner selection, prize fulfillment or as required by law or permitted by the Promotion's official rules, such as on a winner’s list. 
+
+**6\. CHANGING YOUR INFORMATION AND PREFERENCES**
+
+If at any time you do not wish to receive marketing email messages from us please click the unsubscribe link provided within the email message or send us an email at [contact@CouponCause.com](mailto:contact@couponcause.com). Please note that certain communications relating to your account or use of the Services (for example, administrative and service announcements) may be unaffected if you opt-out of receiving marketing messages from the Services. 
+
+You can access, update and delete your contact information by emailing [contact@couponcause.com](mailto:contact@couponcause.com) and requesting this. If you have other requests or questions, would like to access or request a correction to any other of your personal information, please contact us at the addresses set out in “Contact Us” below. 
+
+**7\. PROTECTION OF YOUR PERSONAL INFORMATION**
+
+CouponCause uses reasonable efforts and generally accepted industry standards to help secure the information we collect from and about you from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. However, no method of information communication or storage is one hundred percent secure. Thus, CouponCause cannot ensure and does not warrant the security of any information shared with us. You use the Services and provide us with your information at your own risk. 
+
+**8\. PUBLIC INFORMATION**
+
+Certain areas of the Services, such as store or user reviews, are designed to help you share information with the world. If you make information public through our Services, other users will have access to it and it will not be treated as Personal Information under this Privacy Policy. Please think carefully before making information public. You are solely responsible for information you make public. 
+
+**9\. LINKS TO OTHER WEBSITES AND SERVICES**
+
+External or third party websites and services that are accessible through links from our Services are not controlled by us and may have different privacy practices from ours. We are not responsible for the content or privacy practices of those websites and services, and our Privacy Policy does not apply to information collected by those websites and services. We recommend that you check the privacy policies provided by these other websites or services or their proprietors prior to using their services or providing them with information. 
+
+**10\. CHANGES TO THE PRIVACY POLICY**
+
+We may update the Privacy Policy from time to time. We will notify you of any material changes by posting the new Privacy Policy and we may, in our discretion, contact you through the Services or via any contact information on file. You are advised to consult this policy regularly for any changes. However, we will not make material changes to how we use your previously collected Personal Information without providing you email notice and an opportunity to express choice. 
+
+**11\. CHILDREN’S PRIVACY**
+
+The Services are intended for users eighteen (18) years of age or older and is designed for use by adults. By using the Services, you acknowledge that you are at least eighteen (18) years old. Note that the Services are not directed at or intended for use by children under thirteen (13) and that CouponCause does not knowingly collect information from children. If we discover that we have inadvertently collected information from anyone younger than the age of thirteen (13), we will delete that information as required by the U.S. Children’s Privacy Protection Act (“COPPA”). 
+
+**12\. CONTACT US**
+
+If you have questions or concerns about our privacy practices or this Privacy Policy, please contact us at [privacy@couponcause.com](mailto:privacy@couponcause.com) or by postal mail at the following address: 
+
+Privacy - California  
+FutureClick Media, LLC  
+312 Arizona Ave. 
+
+Santa Monica, CA 90401 
+
+**13\. CALIFORNIA RESIDENTS – YOUR PRIVACY RIGHTS**
+
+California law permits customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties and affiliates for their direct marketing purposes. Alternatively, the law provides that a company may comply, as CouponCause does, by disclosing in its privacy policy that it provides consumers choice (to opt-out) regarding sharing Personal Information with third parties and affiliates for those third parties’ and affiliates’ own direct marketing purposes, and information on how to exercise that choice. As stated above in this Privacy Policy, CouponCause provides you choice prior to sharing your Personal Information with third parties or affiliates for their own direct marketing purposes. If you do not opt-in at the time CouponCause offers that choice, CouponCause does not share your Personal Information with that identified third party or affiliate for its own direct marketing purposes. 
+
+If you are a California resident and you have questions about our practices with respect to sharing information with third parties and affiliates for their own direct marketing purposes and your ability to exercise choice, please send your request in writing by email to [privacy@couponcause.com](mailto:privacy@couponcause.com) or by postal mail to: 
+
+Privacy - California  
+FutureClick Media, LLC  
+312 Arizona Ave. 
+
+Santa Monica, CA 90401 
+
+You must put the statement "Your California Privacy Rights" in the subject field of your email or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state and ZIP code. We are not responsible for notices that are not labeled or sent properly or that do not contain complete information. Please allow 30 days for a response, and note that we are required to respond only to one request per person each year. 
