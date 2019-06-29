@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jihadwatch.org privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216180831id_/https%3A//www.jihadwatch.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jihadwatch.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630010836id_/https%3A//www.jihadwatch.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-May 21st 2018
+Jan 11th 2019
 
 At jihadwatch.org (www.jihadwatch.org), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
@@ -38,6 +38,12 @@ In certain circumstances We may be legally required to share certain data held b
 4\. Other
 
 Users might be asked to subscribe to our newsletter by providing name and email address to receive communications from jihadwatch.org. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
+
+If you subscribe to follow up comments, or have email notifications of all post (10+ emails a day) WordPress’s commercial arm automattic.com have access to your name and email address for that purpose.
+
+If you subscribe to the daily digest (a single daily email) mailchimp.com manage that so would have access to your name and email address.
+
+Both automattic.com and mailchimp.com have proven to be apolitical, and not known to be cavalier with users data, both having their reputations intact. Both have their own privacy notices publicly available.
 
 We do at times enforce Javascript to view the site, this script poses no risk to the browser, and is purely used to mitigate DDoS attacks.
 
