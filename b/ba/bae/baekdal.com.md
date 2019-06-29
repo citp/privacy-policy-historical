@@ -1,75 +1,92 @@
-> *The following text is extracted and transformed from the baekdal.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030715id_/http%3A//baekdal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baekdal.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629114923id_/https%3A//www.baekdal.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Baekdal.com
+# Privacy Policy - Baekdal Plus
 
-\- by Thomas Baekdal - May. 8, 2004
+Hi there,
 
-We are currently testing Google Analytics on this site. This means that you IP-address, screen resolution, type browser and operating systems are sent to Google (all the normal statistics stuff). See Google's [Privacy Policy](http://www.google.com/intl/en/privacy.html)
+On this page you will be able to find complete details about how Baekdal.com uses data and what is collected about you. You will also be able to delete your data if you so choose.
 
-Baekdal.com fully respects your privacy. That is why we have created this privacy policy to explain what information we collect, why we do it, and how we use it. 
+Baekdal.com works on the principle that **you are the only one who can decide what you want to share**. As such, Baekdal.com only collects and uses data that you have chosen to provide.
 
-Before we begin we would like to assure you that we will not sell, license or disclose your personal information to any third party, ever! Nor will we use the information for marketing or promotional campaigns without your explicit consent.
+So what data is collected and used by Baekdal.com? 
 
-## Personal information we collect
+_Please note: Because you have not logged in, you are currently identified as a ‘free user’. If you have an account and want more detailed data, **please log in first**. _
 
-When you visit this site the following information is collected automatically:
+* * *
 
-### IP-Number (e.g. 209.194.2.184)
+## Your data explained: First-time / free users:
 
-It is used in our statistics reports to create summaries of visitors, hits, page views, and where our readers come from (geographically). We also collect IP-numbers in case of misuse - so that we can either report this to the authorities or prevent future access.
+As a first-time/free user, Baekdal.com collects **zero personally identifiable data about you**. This includes our analytics, where we only store non-personal data.
 
-### Browser and Operating System
+For instance, we do track what articles you look at, and even if you read them. But, in the database, there is no field that stores any form of user ID that could be used to track you specifically.
 
-It is used for statistics, to provide summaries of how many use each browser and how many use a particular operating system. It is also used as a way to tailor the pages. Today there is a slight difference in how the site is displayed if you use a newsreader vs. a browser. In the future we might create special versions of this site for visual impaired or for people using mobile devices. We can do this automatically by collecting this kind of information - hopefully giving you a better experience.
+In simple terms, there is no way for baekdal.com to know that you are the one reading a specific article. We only know that someone did.
 
-### What site you came from
+So, as a free user, **baekdal.com stores zero data about you**.
 
-This is solely used to learn what external sites that links to us, thus provide visitors to this site. With this we can learn how many visitors Google provides, how many Yahoo provides or how many one of the many other sites provides.
+### List of your data
 
-## We also collect information in these situations
+Because you are not logged in, we are identifying you as a ‘free user’. As such we have **no personally identifying data** stored about you.
 
-### Commenting
+As in **none!**
 
-When you write a comment to an article or project you name and website is stored in the comment database. Neither needs to be supplied in order to make a comment, but if you do it will be displayed with your comment in public.
+* * *
 
-### When you write to us
+## 3rd party data and exceptions
 
-If you write to us, or call us, it will be logged in our correspondence system. The information we collect is, your name, time of contact and a short description of what we talked about. If you contact us by email, the entire email and your email address will be included. We will not store the actual telephone call.
+There are five different exceptions to the above:
 
-### Newsletters
+### Newsletter
 
-If you signup to receive newsletters, your name, email address and what newsletter have subscribed to will be collected. This information will only be used for sending the specific newsletter and will be deleted if you unsubscribe.
+The Baekdal Plus newsletter is free for anyone and is managed separately from Baekdal Plus subscriptions.
+
+You can always unsubscribe from it using the link at the bottom of each email, and, as soon as you do this, your email is permanently deleted from the mailing list. 
+
+You can also contact [plus@baekdal.com](mailto:plus@baekdal.com) and tell us to delete it for you. In any case, the email address used to sign-up for the Baekdal Plus newsletter is only stored as long as you are an active subscriber.
+
+### Embedded videos
+
+In several of the articles here on Baekdal.com, there is a link to an embedded video from, for instance, YouTube. By default, these videos are not loaded automatically, so unless you specifically click on them, **nothing is sent to YouTube’s servers**. 
+
+In other words, it is entirely up to you if you want YouTube to play the video, because you are specifically asked if you want to do this each time. Keep in mind that, if you play a video, YouTube might collect data about you, and they might show you an ad on top of the video. 
+
+### Google analytics
+
+Baekdal.com also uses Google Analytics, but not in the way you are used to. First of all, we are **not sending any personally identifiable data to Google** , neither a user ID or even your IP address. The only data we send is non-personally identifiable data.
+
+We are not even loading Google Analytics into your browser, so there is no way that Google can track you because of what you do here on baekdal.com.
 
 ### Cookies
 
-A global cookie is set when you visit this site. This is used in relation to our statistic system and enables us to distinguish between a visit and a hit (hits are the number of times a page is viewed). 
+Baekdal.com does use a cookie, but in a very limited way. Only **a single cookie is set** , and the value of it depends on what type of user you are. If you are a free user, the cookie is set with a "baekdal=free" value, which **does not include any personally identifying information**. 
 
-## Your Rights
+This cookie is only used as a way to manage the site. It does not track you, or identify you in any way.
 
-### Right to know what we know about you
+However, if you create an account (free trial or Baekdal Plus), the cookie will be set with an ID. This is used to automatically log you in, so that you don’t have to do this every time you want to look at an article (which would be annoying).
 
-At any time, you can ask us to provide a full and detailed list of the personal information we have on your person. Please use the contact information below - or visit our [contact page](https://web.archive.org/about/contact/).
+Baekdal.com is also using [Cloudflare](https://www.cloudflare.com/) to protect the server from attacks, and, as part of this, Cloudflare is also setting a cookie called "__cfduid". This cookie exist solely for technical reasons. It does not correspond to any user ID, and **does not store any personally identifiable information**.
 
-### Right to tell us to delete your personal information
+### Log files
 
-At any time you can request that we delete your personal information - except correspondence. We will delete any comment you have made, any statistical information we have collected, and we will mark any correspondence as "deleted" so that it will not be used in the future (except in case of legal disputes). 
+Finally, Baekdal.com does keep a log file with all the raw requests being sent to this site. This file includes:
 
-Please use the contact information below - or visit our [contact page](https://web.archive.org/about/contact/).
+  * The pages people requested
+  * People’s IP addresses
+  * What browser you use (the ‘USER-AGENT’ as it is called technically).
 
-### Right to tell us not to collect anything in the future
 
-At any time you can tell us to stop collecting more information about your person.
 
-Notice: This will cause certain parts of this site to become unavailable to you - such as commenting, tailored pages and other parts of this site that rely on personal information in order to work. You will also not be able to enter the password protected areas. 
+This file is **automatically deleted after four weeks** , and it’s used **solely to protect against security threats**. For instance, if someone tried to hack the server, this file is what is used to figure out what is going on.
 
-## Policy Changes
+Similarly, Baekdal.com is managing the network through a company called Cloudflare, and here the same thing applies. While your IP address is sent through them, it’s not collected or used to track you in any way. Cloudflare automatically deletes this data after 3 days. 
 
-Baekdal.com is constantly in a state of change thus this privacy policy may also change. Any changes will be posted in advance on the front page of this site. If you do not feel comfortable with the changes you are always free to have your personal information deleted.
+_Legal note: Under GDPR, security related data is an exception in accordance to Article 6, Paragraph 1, Point F: Processing shall be lawful only if and to the extent that at least one of the following applies: […] (f) processing is necessary for the purposes of the legitimate interests pursued by the controller - Recital 49: The processing of personal data to the extent strictly necessary and proportionate for the purposes of ensuring network and information security [...]._
+
+* * *
 
 ## Contact Baekdal.com - Privacy Information
 
-  * By email: [privacy@baekdal.com](mailto:privacy@baekdal.com?subject=\(tbvalid\))  
- _Please include "(tbvalid)" in the subject line to bypass the spam filter_
+  * By email: [plus@baekdal.com](mailto:plus@baekdal.com)
   * By mail: Baekdal.com, Odinsgade 51, 7100 Vejle, Denmark
 
 
