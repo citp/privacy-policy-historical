@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxjournal.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227034549id_/https%3A//www.linuxjournal.com/content/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxjournal.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630003117id_/https%3A//www.linuxjournal.com/content/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Linux Journal
 
@@ -28,7 +28,7 @@ This Privacy Policy outlines the privacy practices for Linux Journal, LLC (“We
 
 **From all Users**
 
-  * We retain apache web server logs for improvement of delivery of services
+  * We retain web server logs for improvement of delivery of services
   * We use one or more cookies for improvement of delivery of services
 
 
