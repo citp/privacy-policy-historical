@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the usersnap.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229122825id_/https%3A//usersnap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usersnap.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630011414id_/https%3A//usersnap.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Usersnap
 
-**What this policy covers?**  
 Usersnap has created this privacy statement in order to demonstrate our company commitment to privacy. The following discloses the practice of information gathering and dissemination of this site.
 
 \- Your Consent  
@@ -25,7 +24,7 @@ We collect information about you when you provide it to us, when you use our pro
 
  **Website visitors:** If you are one of our website visitors, we may collect non-personally-identifying information such as the browser type you are using, the referring site and date and time of each visit. We collect information when you register on our site, place an order, subscribe to our newsletter or fill out a form.
 
- **Information we collect automatically when you use our Services** : We track certain information about you when you visit and interact with any of our services. This includes information about the product features you use, the number of screenshots you create, the links you click. We also collect information about the people you work with and how yo uwith with them. 
+ **Information we collect automatically when you use our Services** : We track certain information about you when you visit and interact with any of our services. This includes information about the product features you use, the number of screenshots you create, the links you click. 
 
 **Cookies** : Usersnap and our third-party partners, such as our advertising and analytics partners, use cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices.
 
@@ -114,4 +113,4 @@ Usersnap GmbH
 Industriezeile 35  
 4020 Linz  
 Austria  
-contact@usersnap.com
+[contact@usersnap.com](mailto:contact@usersnap.com?subject=Privacy%20Policy)
