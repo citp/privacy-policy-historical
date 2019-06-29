@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purplecarrot.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020103457id_/https%3A//www.purplecarrot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purplecarrot.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629153151id_/https%3A//www.purplecarrot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Purple Carrot
 
@@ -147,7 +147,7 @@ Our Site is directed to individuals who are the age of majority or older in thei
 
 ## Accessing Your Information
 
-You may access, review or change your PII by logging into your account. You can delete your payment information by cancelling your account. For information on cancelling your account, please see our Terms of Use at [www.purplecarrot.com/terms](https://www.purplecarrot.com/terms).
+You may access, review or change your PII by logging into your account. For information on cancelling your account, please see our Terms of Use at [www.purplecarrot.com/terms](https://www.purplecarrot.com/terms).
 
   
 
