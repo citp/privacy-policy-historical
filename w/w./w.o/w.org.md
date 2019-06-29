@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231143535id_/https%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629224512id_/https%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WordPress.org
 
@@ -50,17 +50,27 @@ We rely on one or more of the following processing conditions:
 
 ### Access to data
 
-You have the right to request a copy of the information we hold about you. If you would like a copy of some or all your personal information, please follow the instructions at the end of this policy.
+You have the right to request a copy of the information we hold about you. If you would like a copy of some or all your personal information, please follow the instructions at the end of this section.
 
 All WordCamp attendee-provided data can be viewed and changed by the attendee via the Access Token URL that is emailed to confirm a successful ticket purchase.
 
 WordPress.org user accounts can be edited by following these steps:
 
-  1. Visit [https://login.wordpress.org](https://login.wordpress.org/), and enter your username and password. 
+  1. Visit <https://login.wordpress.org/>, and enter your username and password. 
   2. You will be redirected to https://profiles.wordpress.org/your_username.
   3. Click the “Edit” link next to your username.
 
 
+
+If you would like to request access to your account data, please follow these steps:
+
+  1. Visit <https://wordpress.org/about/privacy/data-export-request/>. 
+  2. Enter your email address.
+  3. Click “Accept Declaration and Request Export”.
+
+
+
+Note: If you have a WP.org account, it’s recommended you log in before submitting to associate your account with the request.
 
 ### Retention of personal information
 
@@ -73,6 +83,16 @@ WordPress.org shall maintain WordCamp attendee data for 3 years to better track 
 On WordCamp.org sites, banking/financial data collected as part of a reimbursement request is deleted from WordCamp.org 7 days after the request is marked paid. The reason for the 7-day retention period is to prevent organizers having to re-enter their banking details if a wire fails or if a payment was marked “Paid” in error. Invoices and receipts related to WordCamp expenses are retained for 7 years after the close of the calendar year’s audit, by instruction of our financial consultants (auditors & bookkeepers).
 
 When deletion is requested or otherwise required, we will anonymise the data of data subjects and/or remove their information from publicly accessible sites if the deletion of data would break essential systems or damage the logs or records necessary to the operation, development, or archival records of the WordPress open source project.
+
+If you would like to request deletion of your account and associated data, please follow these steps:
+
+  1. Visit <https://wordpress.org/about/privacy/data-erasure-request/>. 
+  2. Enter your email address.
+  3. Click “Accept Declaration and Request Permanent Account Deletion”.
+
+
+
+Note: If you have a WP.org account, it’s recommended you log in before submitting to associate your account with the request.
 
 ### Rights in relation to your information
 
@@ -110,4 +130,4 @@ Although most changes are likely to be minor, WordPress.org may change its Priva
 
 Please contact us if you have any questions about our privacy policy or information we hold about you by emailing dpo@wordcamp.org.
 
-[](https://creativecommons.org/licenses/by-sa/2.5/)
+[](https://creativecommons.org/licenses/by-sa/4.0/)
