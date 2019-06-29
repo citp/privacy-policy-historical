@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the oculus.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626020438id_/https%3A//www.oculus.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oculus.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629203254id_/https%3A//www.oculus.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Oculus
 
 ## Oculus Privacy Policy
 
- _Last Updated: May 20, 2018_
+ _Last Updated: September 4, 2018_
 
-Oculus is brought to you by Oculus VR, LLC ("Oculus," "we," "us") and is one of the [ Facebook Companies (https://www.facebook.com/help/111814505650678)](https://www.facebook.com/help/111814505650678). We make virtual, mixed, and augmented reality (collectively, "XR") products and operate a platform where users can download, interact with, and submit content and obtain services related to our products. Collectively, we describe our products and services—including our websites, mobile apps, platform, content, hardware and the services described further in our [ Terms of Service (https://www.oculus.com/legal/terms-of-service)](https://www.oculus.com/legal/terms-of-service)—as our "Services." This Privacy Policy explains how we treat information from or about our users, including how we collect, use, and share information in connection with our Services.
+Oculus is brought to you by Facebook Technologies, LLC (formerly known as Oculus VR, LLC) ("Oculus," "we," "us") and is one of the [ Facebook Companies (https://www.facebook.com/help/111814505650678)](https://www.facebook.com/help/111814505650678). We make virtual, mixed, and augmented reality (collectively, "XR") products and operate a platform where users can download, interact with, and submit content and obtain services related to our products. Collectively, we describe our products and services—including our websites, mobile apps, platform, content, hardware and the services described further in our [ Terms of Service (https://www.oculus.com/legal/terms-of-service)](https://www.oculus.com/legal/terms-of-service)—as our "Services." This Privacy Policy explains how we treat information from or about our users, including how we collect, use, and share information in connection with our Services.
 
  **1\. What kind of information do we collect?**
 
