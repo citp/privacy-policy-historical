@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natureworldreport.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203202725id_/https%3A//natureworldreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natureworldreport.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629094744id_/https%3A//natureworldreport.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
