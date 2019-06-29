@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the maxfocus.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004190810id_/https%3A//www.solarwindsmsp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxfocus.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629213715id_/https%3A//www.solarwindsmsp.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | SolarWinds MSP
 
 SolarWinds is committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate or other events, and business partners. The following privacy notices explain our privacy practices related to these activities and how SolarWinds may collect, use, and/or share personal data.
 
-[**GDPR Statement** :](https://www.solarwindsmsp.com/resources/gdpr) The EU General Data Protection Regulation (GDPR), enforceable as of May 25, 2018, imposes additional requirements upon companies to strengthen the security around and enhance the protection of personal data of EU residents. We discuss SolarWinds' efforts and commitment to GDPR in the [SolarWinds GDPR Resource Center](https://www.solarwindsmsp.com/resources/gdpr)
+[**GDPR Statement** :](https://web.archive.org/resources/gdpr) The EU General Data Protection Regulation (GDPR), enforceable as of May 25, 2018, imposes additional requirements upon companies to strengthen the security around and enhance the protection of personal data of EU residents. We discuss SolarWinds' efforts and commitment to GDPR in the [SolarWinds GDPR Resource Center](https://web.archive.org/resources/gdpr)
 
-[**Privacy Notice** :](https://www.solarwindsmsp.com/legal/privacy) SolarWinds is committed to protecting the privacy of those involved in its business. This Privacy Notice is meant to help you understand, among other things, what personal data we collect, why we collect it, and what we do with it.
+[**Privacy Notice** :](https://web.archive.org/legal/privacy) SolarWinds is committed to protecting the privacy of those involved in its business. This Privacy Notice is meant to help you understand, among other things, what personal data we collect, why we collect it, and what we do with it.
 
-[**Cookie Policy** :](https://www.solarwindsmsp.com/legal/cookie-policy) This Cookie Policy addresses how we use cookies when you visit SolarWinds. We want to be clear about how we collect and use data related to you via cookies.
+[**Cookie Policy** :](https://web.archive.org/legal/cookie-policy) This Cookie Policy addresses how we use cookies when you visit SolarWinds. We want to be clear about how we collect and use data related to you via cookies.
 
 ### **PRIVACY NOTICE**
 
@@ -78,7 +78,7 @@ _Other Data_. SolarWinds collects, uses and maintains certain data related to it
 
 ### **Cookies**
 
-Our Sites use cookies. More information about our use of cookies can be found in our Cookie Policy at [ **www.solarwindsmsp.com/legal/cookie-policy**](https://www.solarwindsmsp.com/legal/cookie-policy).
+Our Sites use cookies. More information about our use of cookies can be found in our Cookie Policy at [ **www.solarwindsmsp.com/legal/cookie-policy**](https://web.archive.org/legal/cookie-policy).
 
 ### **Use of Personal Data**
 
@@ -102,7 +102,7 @@ SolarWinds is a global group of companies, and we may share personal data with o
 
 SolarWinds reserves the right to share any information that is not deemed personal data or is not otherwise subject to contractual restrictions.
 
-If personal data is transferred outside the EU to other SolarWinds group companies or to third party service providers, we will take steps to ensure that your personal data receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements, using the European Commission approved Standard Contractual Clauses, or by relying on certification schemes such as the EU - US Privacy Shield. For transfers to other SolarWinds group companies in the United States (a country that has not received a decision from the European Commission determining that the United States provides adequate protection to personal data), we have put in place European Commission approved Standard Contractual Clauses, which protect personal data transferred between SolarWinds entities. You have a right to obtain details of the mechanism under which your personal data is transferred outside of the EU by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9bebe9f2edfaf8e2dbe8f4f7fae9ecf2f5ffe8b5f8f4f6).
+If personal data is transferred outside the EU to other SolarWinds group companies or to third party service providers, we will take steps to ensure that your personal data receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements, using the European Commission approved Standard Contractual Clauses, or by relying on certification schemes such as the EU - US Privacy Shield. For transfers to other SolarWinds group companies in the United States (a country that has not received a decision from the European Commission determining that the United States provides adequate protection to personal data), we have put in place European Commission approved Standard Contractual Clauses, which protect personal data transferred between SolarWinds entities. You have a right to obtain details of the mechanism under which your personal data is transferred outside of the EU by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#97e7e5fee1f6f4eed7e4f8fbf6e5e0fef9f3e4b9f4f8fa).
 
 We contractually require agents, service providers, and affiliates who may process personal data related to the Services to provide the same level of protections for personal data as required under the Principles. SolarWinds currently does not transfer personal data to a third party for the third party’s own use, but only for SolarWinds’ purposes as outlined above. SolarWinds will remain liable under the Principles if one of its third party processors processes personal data in a manner inconsistent with the Principles, if we are responsible for the event giving rise to the damage.
 
@@ -162,7 +162,7 @@ If you contact us regarding Customer Data for which we are a data processor, we 
 
 ### **Privacy Shield Dispute Resolution**
 
-We encourage EU and Swiss individuals who have questions or complaints about how we process their personal data under Privacy Shield to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ff8f8d96899e9c86bf8c90939e8d8896919b8cd19c9092). We are committed to working with you to resolve your issue as quickly as possible, but in any event, within 45 days of receipt.
+We encourage EU and Swiss individuals who have questions or complaints about how we process their personal data under Privacy Shield to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#49393b203f282a30093a2625283b3e20272d3a672a2624). We are committed to working with you to resolve your issue as quickly as possible, but in any event, within 45 days of receipt.
 
 We commit to refer unresolved Privacy Shield complaints, please contact, free of charge, our dispute resolution provider, JAMS, at [www.jamsadr.com](https://www.jamsadr.com/). 
 
@@ -170,4 +170,4 @@ If you are an EU or Swiss individual and unable to resolve any complaints throug
 
 ### **Contact Information**
 
-If you have any questions in relation to this Notice, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5c2c2e352a3d3f251c2f33303d2e2b3532382f723f3331).
+If you have any questions in relation to this Notice, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bececcd7c8dfddc7fecdd1d2dfccc9d7d0dacd90ddd1d3).
