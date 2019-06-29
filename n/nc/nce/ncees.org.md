@@ -1,55 +1,94 @@
-> *The following text is extracted and transformed from the ncees.org privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817145433id_/https%3A//ncees.org/supplemental/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncees.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629200547id_/https%3A//ncees.org/supplemental/privacy) for the most accurate reproduction.*
 
 # NCEES privacy statement
 
 Menu
 
-By using the NCEES website, you signify your assent to the National Council of Examiners for Engineering and Surveying terms-of-use agreement and privacy policy. If you do not agree with this privacy policy and/or our terms of use without limitation or qualification, or if use of this site is not permitted in your state or country, you may not use this website. Your continued use of the NCEES® website following any changes made to this privacy policy and/or our terms of use will mean that you also accept the changes.
+### Introduction
 
-The National Council of Examiners for Engineering and Surveying (NCEES) is committed to not disclosing your personal information to third parties without your consent, subject to the limited circumstances described below.
+The National Council of Examiners for Engineering and Surveying (“NCEES” or “we” or “us”) respects your privacy. We are committed to protecting the privacy of individuals who use NCEES products and services.
 
-Please read the following privacy policy to understand how we collect, use, and protect your personal information (information that personally identifies you as more fully defined in the terms of use agreement and supplemented herein).
+The purpose of this privacy policy is to assist end users in understanding NCEES’ use of personally identifiable information (PII) collected through ncees.org. It explains the types of information we collect, how and why we use it, the choices you have regarding the use of your information, and under what circumstances we may disclose it.
 
-## User choice regarding collection, use, and distribution of personal information
+This policy covers ncees.org and all other NCEES-affiliated sites that link to this policy.
 
-You may choose not to provide us with any personal information and must do so if any applicable law of your state or country so requires. In such event, although you will be able to observe the NCEES website, you will not be able to use and access those portions of the site that require your personal information.
+Please read this privacy policy carefully to understand our policies and practices related to your personal information. By using the NCEES website, you agree to the NCEES Terms of Use [hyperlink] agreement and this privacy policy. If you do not agree with this privacy policy and/or our terms of use, you should not visit the NCEES website.
 
-## What information we know about you and how we use it
+### Information we collect
 
-If you register an account at the NCEES website, you will be asked to provide certain personal information, like your name, postal address, e-mail address, or phone number. In addition, depending upon the type of account you set up or service you request from NCEES, you may be asked certain additional personal information like your Social Security number, gender, birthplace, date of birth, country of citizenship, educational history, and certain financial information. Other personal information may be generated automatically as you use the NCEES website—for example, a history of postings, messages, and pages visited.
+We collect and use your personally identifiable information (PII) to facilitate the licensure process with our member boards, which are the engineering and surveying licensing boards in all 50 states, the District of Columbia, Guam, Northern Mariana Islands, Puerto Rico, and the U.S. Virgin Islands.
 
-## Disclosure of information to third parties
+### Personal Information
 
-We will not disclose any of this personal information unless you authorize us to do so, except in connection with the services provided via the NCEES website or as otherwise provided in this privacy policy. NCEES does not rent or sell personal information to third parties. The information is provided to lawful authorities, such as licensing boards, for lawful compliance purposes, and it may be retained indefinitely or for so long as NCEES in its discretion or applicable law or regulation may require.
+On our website, you may have the opportunity to register for an online account to access exam-related materials and information, register for and schedule an exam, and/or complete information required for an NCEES Record, Credentials Evaluation, or continuing professional competency (CPC) tracking. Many of these activities and services require you to provide personal information such as education, work experience, employers, supervisors, and work performance. We may also ask you to provide additional information such as name, postal address, telephone numbers, email address, date of birth, and country of citizenship.
 
-## Financial information
+### Technical information gathered automatically
 
-We process credit card transactions via industry standard encryption through third-party processors, which processors only use your financial information for that purpose. Financial information is considered extremely private information and will not be shared by us with third parties except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third party processor.
+While browsing our website or accessing any of our products and services, we may also collect certain information by automated means, such as cookies and web beacons. A “cookie” is a text file that websites send to a visitor’s computer or other internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also referred to as clear gifs, pixel tags, and single-pixel gifs, may be used to count users who have visited those pages, to count users who have opened an email, and to compile other related website statistics. We may also use third-party analytics tools (such as Google Analytics) that collect information about use of services and user traffic. The information we collect by automated means may include, without limitation, information about the devices you use to access NCEES websites, products, and services (such as the IP address, browser type, operating system, and type of device); dates, times, and duration of use (including whether you are a repeat or first-time visitor); and information on actions taken (such as page views and website navigation patterns).
 
-## When we may be forced to disclose
+Our sites may also contain links whose related cookies may collect data and track your movement and behavior on other sites. We are not responsible for these links, as they are not controlled by NCEES.
 
-We may disclose personal information of site visitors when necessary to comply with a court order or legal process, or where required by law, or to enforce the terms of use agreement or this privacy policy. This may occur, for example, when we believe in good faith that such disclosure is necessary to identify, contact, or bring legal action against someone who may be causing (either intentionally or unintentionally) injury to or interference with our rights or property, or the rights or property of our site visitors or others. We also may disclose personal information when we believe in good faith that the law, legal process, or a lawful investigation requires it.
+### Use of information
 
-## Security
+NCEES collects and uses personal information to enable us to provide reliable and convenient delivery of products and services and to improve our products and services. We use information that we collect about you or that you provide us, including any personal information, to
 
-The importance of security is a top priority for us. We exercise great care in providing secure transmission of your information from your Internet connection to our servers. We work to protect the security of your personal information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We also take great care to protect personal information off-line. All of your data is handled only by authorized personnel, and our database servers have a backup system to prevent loss of data.
+  * Present our website and improve its content;
+  * Administer our relationship with you, our business, and third-party providers (e.g., to process payments, ship products, and schedule exam appointments);
+  * Provide you with information, products, and services that you request from us;
+  * Set up and administer your account; provide training, education, information about professional licensing and regulation and laws and related requirements, test preparation assistance, licensing application assistance, professional record maintenance, and communication with licensing regulators and agencies; and fulfill and enforce our agreement with you;
+  * Administer your account and provide technical and customer support to verify your identity and maintain your sign-in as you use our website;
+  * Personalize your experience with our services;
+  * Communicate with you about our products and services;
+  * Analyze trends and statistics, protect the security of our sites, and evaluate our products and services;
+  * Enforce our Terms of Use; and
+  * Comply with applicable legal requirements and industry standards.
 
-No data transmission over the Internet can be guaranteed to be 100 percent secure. Therefore, we will not be liable should a third-party illegally obtain your personal information. While we have made a great effort to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.
 
-## Data from children
 
-This site is neither directed toward nor intended for children. We do not knowingly collect data from children.
+### Your choices
 
-## Other limits to your privacy
+NCEES may use the personal information we collect to provide requested information and materials or to offer you products and services that may be of interest to you. You may opt out of receiving commercial emails from us by clicking on the unsubscribe link included in every commercial email we send.
 
-NCEES is not responsible for links to other websites or for the activities or content of other websites, or the agencies or entities specifically identified on the site to which or whom your personal information may be transmitted or sent as a result of your actions in using this site.
+Commonly used web browsers will allow you to block, disable, or delete cookies from your computer. Review your browser’s privacy and security features to learn more about these user options. Please note that without cookies you will not be able to take full advantage of all NCEES products and services.
 
-## Periodic changes to this policy
+### Disclosure of information
 
-We may update, change or modify this privacy policy at any time and without notice. If we make substantial changes to this privacy policy, we will post the updated policy on this page and we will post notice that this privacy policy has changed on the NCEES homepage. Once any changes that we make to this privacy policy become effective, your continued use of this website after such time will signify your acceptance of the new terms. We therefore recommend that you refer to our privacy policy regularly. Changes will be effective upon posting on this website.
+NCEES may disclose aggregated and statistical data without restriction when publishing reports about NCEES products and services.
 
-## Contact information
+We may disclose personal information collected about you to
 
-If you have any questions regarding this privacy statement, the practices of this site, or your dealings with this site, please [contact NCEES](https://web.archive.org/contact/).
+  * Share with third parties that we use to support our operations and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them;
+  * Comply with any court order, law, or legal process, including to respond to any government or regulatory request; and
+  * Enforce or apply our Terms of Use and other agreements.
+
+
+
+### Data security
+
+NCEES uses reasonable precautions to protect your personal information. Safeguards are in place to protect the integrity, security, and privacy of personal information collected through our sites. However, it is important to note that electronic transmission via the internet is not 100 percent secure. Also, access to personally identifiable information is restricted to those who need the information to perform a specific job related to the licensure process.
+
+### Accessing and changing your information
+
+You have the right to access your personal information and correct or delete anything that is incorrect by logging in to your online account or by contacting NCEES Client Services through one of the methods listed [here](https://web.archive.org/contact/).
+
+### California privacy rights
+
+California Civil Code Section 1798.83 permits users of our services who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write us at
+
+NCEES  
+280 Seneca Creek Road  
+Seneca, SC 29678
+
+### Children under the age of 13
+
+NCEES does not knowingly collect or solicit personal information from children under the age of 13.
+
+### Changes to our privacy policy
+
+We reserve the right to change or update this privacy policy at any time. You are responsible for reviewing this privacy policy periodically, and your continued use of our sites following changes to this privacy policy will be considered acceptance of any changes. Any changes or updates will be effective immediately upon posting to the site. The date this privacy policy was last revised is at the top of this page.
+
+### Governing law
+
+NCEES is based in the state of South Carolina in the United States. Our sites are controlled, operated, and administered entirely within the United States. Any information you provide will be transferred to the United States. By visiting and using our website and services, you consent to the transfer to and processing and storage of your information in the United States, which may have different data protection laws than those in the country where you reside.
 
 Top
