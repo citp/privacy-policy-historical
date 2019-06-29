@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesleepdoctor.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002213931id_/https%3A//www.thesleepdoctor.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesleepdoctor.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629020841id_/https%3A//thesleepdoctor.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Your Guide to Better Sleep
 
@@ -75,7 +75,7 @@ We may process your personal data without your knowledge or consent where this i
 
 
 
-We may collect data about you by you providing the data directly to us (for example by filling in forms on our site or by sending us emails). We may automatically collect certain data from you as you use our website by using cookies and similar technologies. Please see our cookie policy for more details about this: [Cookie Policy](https://www.thesleepdoctor.com/cookie-policy)
+We may collect data about you by you providing the data directly to us (for example by filling in forms on our site or by sending us emails). We may automatically collect certain data from you as you use our website by using cookies and similar technologies. Please see our cookie policy for more details about this: [Cookie Policy](http://thesleepdoctor.com/cookie-policy)
 
 We may receive data from third parties such as analytics providers such as Google based outside the EU, advertising networks such as Facebook based outside the EU, such as search information providers such as Google based outside the EU, providers of technical, payment and delivery services, such as data brokers or aggregators.
 
@@ -180,4 +180,4 @@ This website may include links to third-party websites, plug-ins and application
 
 
 
-You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our **[ Cookie Policy](https://www.thesleepdoctor.com/cookie-policy)**.
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our **[ Cookie Policy](http://thesleepdoctor.com/cookie-policy)**.
