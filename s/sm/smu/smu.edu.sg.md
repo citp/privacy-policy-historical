@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smu.edu.sg privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023124941id_/https%3A//www.smu.edu.sg/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smu.edu.sg privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629120314id_/https%3A//www.smu.edu.sg/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Singapore Management University (SMU)
 
@@ -42,9 +42,9 @@ While we will not be going into the details of these Obligations in this Persona
 
 ### 1\. Purpose for the Collection, Use & Disclosure of Personal Data
 
-In general, subject to applicable exceptions permitted in the Act, before we collect any personal data from you, we will notify you of the purposes for which your personal data may be collected, used and/or disclosed, as well as obtain consent for the collection, use and/or disclosure of your personal data for the intended purpose.
+In general, subject to applicable exceptions permitted in the Act, before we collect any personal data from you, we will notify you of the purposes for which your personal data may be collected, used and/or disclosed, as well as obtain consent for the collection, use and/or disclosure of your personal data for the intended purposes.
 
-Depending on your relationship with us, the personal data which we collect from you may be used and/or disclosed for the following purpose:
+Depending on your relationship with us, the personal data which we collect from you may be used and/or disclosed for the following purposes:
 
 **For Students Generally**
 
@@ -63,7 +63,7 @@ Most of you will have consented to SMU using your personal data in the manner se
   11. Processing, administering and conferring awards of prizes, medals, scholarships, classes of honours and other marks of distinction, and student or graduation status, and publication or releasing of information on the same;
   12. Engaging alumni including but not limited to notification on SMU and alumni-related initiatives and activities, invitation to SMU and alumni-related events, updating of alumni information, invitation to participate in alumni surveys and sending of communication collaterals;
   13. Processing applications and enrolment activities related to health, life and travel insurance and service provision as well as university-related concession cards, and campus accommodation and administering matters related to use of these services;
-  14. Processing applications for and administering local and overseas career related activities, events, programmes, internships, employment opportunities, and career coaching, and sharing information with companies (whether local or overseas) for purposes of recruitment, internship , industrial attachment, job placement and research support;
+  14. Processing applications for and administering local and overseas career related activities, events, programmes, internships, employment opportunities, and career coaching, and sharing information with companies (whether local or overseas) for purposes of recruitment, internships, industrial attachment, job placement and research support;
   15. Facilitating participation in student life and alumni development opportunities which may include social, cultural, athletic, and educational activities, events, volunteering and training programmes, student membership and leadership positions in clubs, societies, halls and residences, and orientation/reception activities;
   16. Taking of photographs and/or videos (whether by SMU staff or third party photographers and/or videographers) during events or seminars organised by SMU or its affiliates for publicity purposes;
   17. If consented to in the registration form and/or other methods of consent notification, providing marketing, advertising and promotional information via postal mail, electronic mail, SMS or MMS, fax and/or voice calls;
@@ -89,7 +89,7 @@ In order to comply with its contractual, statutory, and management obligations a
 
 **For The Public and Other Third Parties Generally**
 
-SMU is committed to engaging and embracing its surrounding community, ecosystem as well as society at large. As a result, we often organise a lot of activities in which external stakeholders or the general public are invited to participate. While it is impossible to list all the events in which we hope the public will participate, some events that you as a member of the public can look forward to include community outreach programmes, talks, exhibitions, movie screenings, concerts and many others (Events). Naturally, in encouraging a vibrant interaction with the public, there will be opportunity, and often a need, to collect, use and/or disclose personal data from members of the public. Some of the reasons/ purposes are as follows:
+SMU is committed to engaging and embracing its surrounding community, ecosystem as well as society at large. As a result, we often organise a lot of activities in which external stakeholders or the general public are invited to participate. While it is impossible to list all the events in which we hope the public will participate, some events that you as a member of the public can look forward to include community outreach programmes, talks, exhibitions, movie screenings, concerts and many others ("Events"). Naturally, in encouraging a vibrant interaction with the public, there will be opportunity, and often a need, to collect, use and/or disclose personal data from members of the public. Some of the reasons/ purposes are as follows:
 
   1. For security/ verification purposes for certain Events
   2. For logistical/ administrative purposes for certain Events (eg. Food catering)
@@ -109,11 +109,17 @@ We will not disclose your personal data to any third parties without first obtai
 
 Subject to certain exceptions in the Act, you may request to access and/or correct the personal data currently in our possession or withdraw your consent for the collection, use and disclosure of your personal data in our possession at any time by [clicking here](http://www.smu.edu.sg/form/contact-dpo).
 
-For a request to access personal data, we will provide you with the relevant personal data within a reasonable time from such request being made.
+For a request to access personal data, we will provide you with the relevant personal data within a reasonable time from such request being made. You may be charged a reasonable fee for the handling and processing of your requests to access your personal data, but you will be notified in advance of such fees.
 
-For a request to correct personal data, we will process your request, including undertaking necessary verification activities, as soon as practicable after the request has been made. We will send the corrected personal data to every other organisation to which the personal data was disclosed by SMU within a year before the date the correction was made, unless that other organisation does not need the corrected personal data for any legal or business purpose, or if you so consent, only to specific organisations to which the personal data was disclosed by us within a year before the date the correction was made. You may be charged a reasonable fee for the handling and processing of your requests to access and/or correct your personal data, but you will be notified in advance of such costs.
+For a request to correct personal data, we will process your request, including undertaking necessary verification activities, as soon as practicable after the request has been made. We will send the corrected personal data to every other organisation to which the personal data was disclosed by SMU within a year before the date the correction was made, unless that other organisation does not need the corrected personal data for any legal or business purpose, or if you so consent, only to specific organisations to which the personal data was disclosed by us within a year before the date the correction was made. 
 
-For a request to withdraw consent, we will process your request within a reasonable time from such a request for withdrawal of consent being made. In some cases, requests for withdrawal of consent may adversely impact your relationship with SMU as it may hinder SMU’s ability to continue to interact with you. We will notify you in advance of such impact, if any.
+For a request to withdraw consent, we will process your request within a reasonable time from such a request being made, upon informing you of the consequences of your request for withdrawal of consent. 
+
+_For Students_ : If, for any reason whatsoever and at any time during your period of study with SMU, you are uncomfortable with the manner or extent of collection, use and/or disclosure of your personal data, you are advised to inform your Dean or the Dean of Students so that a reasonable and mutually acceptable solution to your concerns can be found. 
+
+_For Employees/Staff_ : If, for any reason whatsoever and at any time during your period of employment at SMU, you are uncomfortable with the manner or extent of collection, use and/or disclosure of your personal data, you are advised to inform your immediate supervisor, Head of Department or Dean so that a reasonable and mutually acceptable solution to your concerns can be found. 
+
+_For the public and other third parties_ : In some cases, requests for withdrawal may adversely impact your relationship with SMU as it may hinder SMU's ability to continue to interact with you. We will notify you in advance of such impact, if any. 
 
 ### 4\. Administration and Management of Personal Data
 
