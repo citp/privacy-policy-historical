@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120005831id_/https%3A//www.scholarshippoints.com/terms-privacy-disclaimer/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629172023id_/https%3A//www.scholarshippoints.com/terms-privacy-disclaimer/%23privacy) for the most accurate reproduction.*
 
-# Terms of Use & Privacy Policy | ScholarshipPoints.com
+# Terms of Use, Privacy Policy and Disclaimer
 
 ## Terms of Use
 
@@ -8,34 +8,34 @@ Last Modified: December 10, 2017
 
 ### Contents
 
-  1. [Accepting Edvisors' Terms of Use](https://www.scholarshippoints.com/terms-privacy-disclaimer/#accepting-terms)
-  2. [Privacy Policy](https://www.scholarshippoints.com/terms-privacy-disclaimer/#terms)
-  3. [Changes to Edvisors' Terms of Use and Our Services](https://www.scholarshippoints.com/terms-privacy-disclaimer/#changes)
-  4. [Third-Party Links and Content](https://www.scholarshippoints.com/terms-privacy-disclaimer/#third-party)
-  5. [User Submissions](https://www.scholarshippoints.com/terms-privacy-disclaimer/#user-submissions)
-  6. [Digital Millennium Copyright Act](https://www.scholarshippoints.com/terms-privacy-disclaimer/#digital-millennium-copyright)
-  7. [Children's Online Privacy Protection Notice](https://www.scholarshippoints.com/terms-privacy-disclaimer/#childrens-online-privacy)
-  8. [Proprietary Rights to Content](https://www.scholarshippoints.com/terms-privacy-disclaimer/#proprietary-rights)
-  9. [Eligibility for Registered Services](https://www.scholarshippoints.com/terms-privacy-disclaimer/#eligibility-registered-services)
-  10. [Registration and Site Visitation Obligations](https://www.scholarshippoints.com/terms-privacy-disclaimer/#registration-site-visitation)
-  11. [Registered Services Password and Account Access](https://www.scholarshippoints.com/terms-privacy-disclaimer/#password-account-access)
-  12. [Registered-User and Website Visitor Conduct](https://www.scholarshippoints.com/terms-privacy-disclaimer/#visitor-conduct)
-  13. [Liability for Technical Disruptions to Our Website(s)](https://www.scholarshippoints.com/terms-privacy-disclaimer/#liability-for-technical-disruptions-to-our-websites)
-  14. [Disclaimer of Warranties](https://www.scholarshippoints.com/terms-privacy-disclaimer/#disclaimer-of-warranties)
-  15. [Limitation of Liability](https://www.scholarshippoints.com/terms-privacy-disclaimer/#limitation-of-liability)
-  16. [Indemnification](https://www.scholarshippoints.com/terms-privacy-disclaimer/#indemnification)
-  17. [Use and Storage](https://www.scholarshippoints.com/terms-privacy-disclaimer/#use-storage)
-  18. [Trademark Information](https://www.scholarshippoints.com/terms-privacy-disclaimer/#trademark-information)
-  19. [Arbitration](https://www.scholarshippoints.com/terms-privacy-disclaimer/#arbitration)
-  20. [Compliance with FTC Guidelines](https://www.scholarshippoints.com/terms-privacy-disclaimer/#compliance-with-ftc-guidelines-on-endorsements-testimonials)
-  21. [Jurisdiction](https://www.scholarshippoints.com/terms-privacy-disclaimer/#jurisdiction)
-  22. [Entire Agreement](https://www.scholarshippoints.com/terms-privacy-disclaimer/#entire-agreement)
-  23. [Assignment](https://www.scholarshippoints.com/terms-privacy-disclaimer/#assignment)
-  24. [Invalidity; Waiver](https://www.scholarshippoints.com/terms-privacy-disclaimer/#invalidity-waiver)
-  25. [Termination](https://www.scholarshippoints.com/terms-privacy-disclaimer/#termination)
-  26. [Definitions](https://www.scholarshippoints.com/terms-privacy-disclaimer/#definitions)
-  27. [User Suggestions](https://www.scholarshippoints.com/terms-privacy-disclaimer/#user-suggestions)
-  28. [Questions / Comments](https://www.scholarshippoints.com/terms-privacy-disclaimer/#questions-comments)
+  1. [Accepting Edvisors' Terms of Use](https://web.archive.org/terms-privacy-disclaimer/#accepting-terms)
+  2. [Privacy Policy](https://web.archive.org/terms-privacy-disclaimer/#terms)
+  3. [Changes to Edvisors' Terms of Use and Our Services](https://web.archive.org/terms-privacy-disclaimer/#changes)
+  4. [Third-Party Links and Content](https://web.archive.org/terms-privacy-disclaimer/#third-party)
+  5. [User Submissions](https://web.archive.org/terms-privacy-disclaimer/#user-submissions)
+  6. [Digital Millennium Copyright Act](https://web.archive.org/terms-privacy-disclaimer/#digital-millennium-copyright)
+  7. [Children's Online Privacy Protection Notice](https://web.archive.org/terms-privacy-disclaimer/#childrens-online-privacy)
+  8. [Proprietary Rights to Content](https://web.archive.org/terms-privacy-disclaimer/#proprietary-rights)
+  9. [Eligibility for Registered Services](https://web.archive.org/terms-privacy-disclaimer/#eligibility-registered-services)
+  10. [Registration and Site Visitation Obligations](https://web.archive.org/terms-privacy-disclaimer/#registration-site-visitation)
+  11. [Registered Services Password and Account Access](https://web.archive.org/terms-privacy-disclaimer/#password-account-access)
+  12. [Registered-User and Website Visitor Conduct](https://web.archive.org/terms-privacy-disclaimer/#visitor-conduct)
+  13. [Liability for Technical Disruptions to Our Website(s)](https://web.archive.org/terms-privacy-disclaimer/#liability-for-technical-disruptions-to-our-websites)
+  14. [Disclaimer of Warranties](https://web.archive.org/terms-privacy-disclaimer/#disclaimer-of-warranties)
+  15. [Limitation of Liability](https://web.archive.org/terms-privacy-disclaimer/#limitation-of-liability)
+  16. [Indemnification](https://web.archive.org/terms-privacy-disclaimer/#indemnification)
+  17. [Use and Storage](https://web.archive.org/terms-privacy-disclaimer/#use-storage)
+  18. [Trademark Information](https://web.archive.org/terms-privacy-disclaimer/#trademark-information)
+  19. [Arbitration](https://web.archive.org/terms-privacy-disclaimer/#arbitration)
+  20. [Compliance with FTC Guidelines](https://web.archive.org/terms-privacy-disclaimer/#compliance-with-ftc-guidelines-on-endorsements-testimonials)
+  21. [Jurisdiction](https://web.archive.org/terms-privacy-disclaimer/#jurisdiction)
+  22. [Entire Agreement](https://web.archive.org/terms-privacy-disclaimer/#entire-agreement)
+  23. [Assignment](https://web.archive.org/terms-privacy-disclaimer/#assignment)
+  24. [Invalidity; Waiver](https://web.archive.org/terms-privacy-disclaimer/#invalidity-waiver)
+  25. [Termination](https://web.archive.org/terms-privacy-disclaimer/#termination)
+  26. [Definitions](https://web.archive.org/terms-privacy-disclaimer/#definitions)
+  27. [User Suggestions](https://web.archive.org/terms-privacy-disclaimer/#user-suggestions)
+  28. [Questions / Comments](https://web.archive.org/terms-privacy-disclaimer/#questions-comments)
 
 
 
@@ -142,7 +142,7 @@ A. Notification If you are a copyright owner or an agent thereof and believe tha
 
 Edvisors’ designated Copyright Agent for notice of claims of infringement is:
 
-Russ Theriault, College Loan Corporation, 10000 W. Charleston Blvd., Suite 200 Las Vegas, NV 89135
+Compliance Department, College Loan Corporation, 10000 W. Charleston Blvd., Suite 200 Las Vegas, NV 89135
 
 Email: [DMCA@Edvisors.com](http://mailto:DMCA@edvisors.com/)
 
@@ -232,7 +232,7 @@ F. Notwithstanding any provision in these Terms of Use to the contrary, we agree
 
 ### 20. Compliance with FTC Guidelines on Endorsements/Testimonials
 
-If you choose to promote our services to the public, including your own personal social networks, you agree that you will comply with the FTC's Guidelines Concerning the Use of Testimonials and Endorsements in Advertising (available at <http://www.ftc.gov/sites/default/files/attachments/pressreleases/ftcpublishesfinalguidesgoverningendorsementstestimonials/091005revisedendorsementguides.pdf>) ("Guidelines").
+If you choose to promote our services to the public, including your own personal social networks, you agree that you will comply with the FTC's Guidelines Concerning the Use of Testimonials and Endorsements in Advertising (available at [here](http://www.ftc.gov/sites/default/files/attachments/pressreleases/ftcpublishesfinalguidesgoverningendorsementstestimonials/091005revisedendorsementguides.pdf)) ("Guidelines").
 
 ### 21\. Jurisdiction
 
@@ -275,8 +275,6 @@ Upon termination by either you or Edvisors: (i) Edvisors may immediately deactiv
 
 You acknowledge and agree that any questions, comments, suggestions, ideas, feedback or other information provided by you to Edvisors are not commercial and you grant us a worldwide, royalty-free license to distribute, publish, modify, edit or otherwise use your submissions. Edvisors shall be entitled to the unrestricted use and dissemination of these submissions for any purpose, commercial or otherwise without any acknowledgement of or compensation to you.
 
-### 28\. Questions/Comments
-
 If you have any questions or comments about the Services or become aware of misuse of the Services by any person, please contact us at [info@edvisors.com](http://mailto:info@edvisors.com/) or at the following address: Edvisors Network, Inc., 10000 W. Charleston Blvd., Suite 200, Las Vegas, NV 89135
 
 ## Privacy Policy
@@ -313,19 +311,19 @@ We provide this policy to explain our privacy practices, for all our websites. T
 
 ### Table of Contents
 
-  1. [Information We Collect](https://www.scholarshippoints.com/terms-privacy-disclaimer/#information-we-collect)
-  2. [Children’s Privacy Policy](https://www.scholarshippoints.com/terms-privacy-disclaimer/#childrens-privacy-policy)
-  3. [How We Protect Your Information](https://www.scholarshippoints.com/terms-privacy-disclaimer/#how-we-protect-your-information)
-  4. [How We Use Your Information](https://www.scholarshippoints.com/terms-privacy-disclaimer/#how-we-use-your-information)
-  5. [How We Share Your Information](https://www.scholarshippoints.com/terms-privacy-disclaimer/#how-we-share-your-information)
-  6. [Links To Other Sites](https://www.scholarshippoints.com/terms-privacy-disclaimer/#links-to-other-sites)
-  7. [How To Update Your Information](https://www.scholarshippoints.com/terms-privacy-disclaimer/#how-to-update-your-information)
-  8. [Friend Referrals](https://www.scholarshippoints.com/terms-privacy-disclaimer/#friend-referrals)
-  9. [Your Opt Out Rights](https://www.scholarshippoints.com/terms-privacy-disclaimer/#your-opt-out-rights)
-  10. [Changing Our Privacy Policy](https://www.scholarshippoints.com/terms-privacy-disclaimer/#changing-our-privacy-policy)
-  11. [Retention](https://www.scholarshippoints.com/terms-privacy-disclaimer/#retention)
-  12. [Disputes: No Rights of Third Parties](https://www.scholarshippoints.com/terms-privacy-disclaimer/#disputes-no-rights-of-third-parties)
-  13. [Effective Date of This Policy](https://www.scholarshippoints.com/terms-privacy-disclaimer/#effective-date-of-this-policy)
+  1. [Information We Collect](https://web.archive.org/terms-privacy-disclaimer/#information-we-collect)
+  2. [Children’s Privacy Policy](https://web.archive.org/terms-privacy-disclaimer/#childrens-privacy-policy)
+  3. [How We Protect Your Information](https://web.archive.org/terms-privacy-disclaimer/#how-we-protect-your-information)
+  4. [How We Use Your Information](https://web.archive.org/terms-privacy-disclaimer/#how-we-use-your-information)
+  5. [How We Share Your Information](https://web.archive.org/terms-privacy-disclaimer/#how-we-share-your-information)
+  6. [Links To Other Sites](https://web.archive.org/terms-privacy-disclaimer/#links-to-other-sites)
+  7. [How To Update Your Information](https://web.archive.org/terms-privacy-disclaimer/#how-to-update-your-information)
+  8. [Friend Referrals](https://web.archive.org/terms-privacy-disclaimer/#friend-referrals)
+  9. [Your Opt Out Rights](https://web.archive.org/terms-privacy-disclaimer/#your-opt-out-rights)
+  10. [Changing Our Privacy Policy](https://web.archive.org/terms-privacy-disclaimer/#changing-our-privacy-policy)
+  11. [Retention](https://web.archive.org/terms-privacy-disclaimer/#retention)
+  12. [Disputes: No Rights of Third Parties](https://web.archive.org/terms-privacy-disclaimer/#disputes-no-rights-of-third-parties)
+  13. [Effective Date of This Policy](https://web.archive.org/terms-privacy-disclaimer/#effective-date-of-this-policy)
 
 
 
