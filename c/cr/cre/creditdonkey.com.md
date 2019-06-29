@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208215418id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629212542id_/https%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CreditDonkey
 
 This is the web site of CreditDonkey.
 
-CreditDonkey is a website owned and operated by LUNCHSPARK. We can be reached via e-mail at feedback@creditdonkey.com. We can also be reached via postal mail at 3579 E. Foothill Blvd #712, Pasadena, CA 91107.
+CreditDonkey is a website owned and operated by CREDITDONKEY INC. We can be reached via e-mail at feedback@creditdonkey.com. We can also be reached via postal mail at 3579 E. Foothill Blvd #712, Pasadena, CA 91107.
 
 We value your privacy. This page outlines what we do with the information you provide to us through this site. Please keep in mind that through our site, you may be interacting with third parties that operate under their own privacy and security policies. This policy only addresses our website. Other sites accessible through our site have their own privacy policies and disclosures. Please consult each site's privacy policy. We are not responsible for the policies of third parties.
 
