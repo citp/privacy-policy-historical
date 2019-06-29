@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irex.org privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019155307id_/https%3A//www.irex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irex.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629033618id_/https%3A//www.irex.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IREX
 
@@ -14,9 +14,11 @@ Forms on our “Contact Us,” subscription, donation, and career pages may ask 
 
 IREX may track visitors’ computer IP addresses, while each user’s personal information remains completely anonymous. This can help us diagnose server problems, administer our website, and analyze user interest, which is information that we may use to enhance visitors’ experience.
 
-## Use of “cookies”
+## Cookies
 
-Our website may use cookies, pieces of information transferred to computers when browsing websites. This is standard practice, and your browser is probably set to accept cookies. If you would prefer not to receive cookies, you can change your browser's settings to refuse them.
+Our website uses cookies, pieces of information transferred to computers when browsing websites. This is standard practice, and your browser is probably set to accept cookies.
+
+If you would prefer not to receive cookies, you can opt out by changing your browser's settings. Here are instructions for [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en), [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies), and [Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac).
 
 ## Security
 
