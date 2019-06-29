@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abriluno.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109051905id_/http%3A//abriluno.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abriluno.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630012525id_/http%3A//abriluno.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Abril Uno
 
