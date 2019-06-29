@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ordertiger.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129182401id_/http%3A//www.ordertiger.com/systems-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordertiger.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629134450id_/https%3A//www.ordertiger.com/systems-privacy-policy) for the most accurate reproduction.*
 
 # Systems Privacy Policy - Order Tiger
 
@@ -102,3 +102,5 @@ Data security is of great importance to Order Tiger and to protect you’re Data
 ## 10\. CHANGES TO THIS POLICY
 
 Order Tiger reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
+
+[Privacy Policy](https://www.iubenda.com/privacy-policy/28362985 "Privacy Policy")
