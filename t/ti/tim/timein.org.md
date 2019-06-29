@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timein.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229173330id_/http%3A//timein.org/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timein.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630005622id_/http%3A//timein.org/terms%23privacy) for the most accurate reproduction.*
 
 # Terms of use :: timein.org
 
