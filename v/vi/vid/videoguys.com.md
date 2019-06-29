@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videoguys.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820160715id_/https%3A//www.videoguys.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoguys.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629202147id_/https%3A//www.videoguys.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - VideoGuys.com
+# Privacy Policy - Videoguys.com
 
 For more than 30 years, Videoguys.com / The Electronic Mailbox has worked hard to build relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
 
@@ -59,7 +59,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at orders@videoguys.com
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at custserv@videoguys.com
 
 
 
