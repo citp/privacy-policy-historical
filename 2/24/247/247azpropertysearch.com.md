@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 247azpropertysearch.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209085158id_/http%3A//www.247azpropertysearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247azpropertysearch.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629211733id_/https%3A//www.247azpropertysearch.com/privacy) for the most accurate reproduction.*
 
-# West USA Realty Revelation
+# Revelation Real Estate
 
 **We are committed to respecting your right to privacy and protecting your information when you visit 247AZPropertySearch.com or use our services.**
 
