@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chaturbate.cc privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918203905id_/https%3A//www.chaturbate.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaturbate.cc privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630000819id_/https%3A//chaturbate.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - chaturbate
+# Privacy Policy - Chaturbate
 
 This Privacy & Cookies Policy (the "Policy") dated May 22, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
 
