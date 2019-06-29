@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeksquiz.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229050227id_/http%3A//www.geeksforgeeks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksquiz.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629170543id_/http%3A//www.geeksforgeeks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GeeksforGeeks
 
@@ -19,9 +19,6 @@ GeeksforGeeks uses cookies and browser’s local storage to store information ab
 → Google, as a third party vendor, uses cookies to serve ads on GeeksforGeeks.  
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to GeeksforGeeks and other sites on the Internet.   
 → Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
-
-  
-
 
 **Our Advertising Partners**
 
@@ -70,9 +67,6 @@ The Application may permit you to link to other applications or websites. Such t
   
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
 Our site and the services available through GeeksforGeeks are not intended for children under the age of 13. GeeksforGeeks does not knowingly or specifically collect information about children under the age of 13 and believes that children of any age should get their parents’ consent before giving out any personal information. We encourage you to participate in your child’s web experience.
-
-  
-
 
 ## What Personal Information can I Access?
 
