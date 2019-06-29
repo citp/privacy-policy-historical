@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cardgames.io privacy policy that was archived on 2018-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181127004925id_/https%3A//cardgames.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cardgames.io privacy policy that was archived on 2019-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190629121430id_/http%3A//cardgames.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="privacy normal gdpr-accepted non-gdpr-country"><head>
     <title>CardGames.io - PRIVACY POLICY</title>
@@ -12,7 +12,7 @@
 
     
 
-    <link rel="preload" href="/shared/images/fonts/Slackey-Regular.woff" as="font">
+    <link rel="preload" href="/shared/images/fonts/Slackey-Regular.woff" as="font" crossorigin="anonymous">
 
      
     <link rel="icon" href="/frontpage/images/frontpage-touch-icon-192.png" sizes="192x192">
@@ -20,9 +20,9 @@
 
     <script>
         var adFreeCode = (document.cookie.match(/adfreecode=(\w+)/)||[])[1];
-        var category = 'PRIVACY POLICY';
+        var category = "PRIVACY POLICY";
         var slug = 'privacy';
-        var siteVersion = '1808';
+        var siteVersion = '2115';
         var showAds = 'none';
         var afgChannelId = '';
         var players = {"bottom":{"name":"You","face":"/shared/images/svg/face-0.svg","faceSad":"/shared/images/svg/face-0-sad.svg","code":"0","defaultName":"You"},"left":{"name":"Mike","face":"/shared/images/svg/face-mike.svg","faceSad":"/shared/images/svg/face-mike-sad.svg","code":"mlpge","defaultName":"Mike"},"top":{"name":"Bill","face":"/shared/images/svg/face-2.svg","faceSad":"/shared/images/svg/face-2-sad.svg","code":"2","defaultName":"Bill"},"right":{"name":"Lisa","face":"/shared/images/svg/face-3.svg","faceSad":"/shared/images/svg/face-3-sad.svg","code":"3","defaultName":"Lisa"}};
@@ -32,7 +32,7 @@
     
         var defaultSettings = {};
     
-        var defaultSiteSettings = {"players":{},"playerName":"","alwaysUseInterstitialAds":false,"confetti":true,"opponentsCustom":false,"gameLinks":"","spreadCards":false,"svgCards":false,"forceDesktopLook":false,"acceptCookiesId":0,"showPersonalizedAds":true,"showDesktopInterstitials":true,"useDarkTheme":false};
+        var defaultSiteSettings = {"players":{},"playerName":"","alwaysUseInterstitialAds":false,"confetti":true,"opponentsCustom":false,"gameLinks":"","spreadCards":false,"svgCards":false,"forceDesktopLook":false,"acceptCookiesId":0,"showPersonalizedAds":true,"showDesktopInterstitials":true,"hideAdblockAd":false,"useDarkTheme":false};
 
         function getSiteSettingBool(name, defaultVal) {
             try {
@@ -79,7 +79,7 @@
 
         }
     </script>
-    <link rel="stylesheet" href="/privacy/1808/privacy.min.css">
+    <link rel="stylesheet" href="/privacy/2115/privacy.min.css">
 
     <style id="player-faces-style">
         .face-bottom-player {
@@ -110,6 +110,7 @@
     </style>
 
     <script>
+        
         function loadPlayerFaces() {
             var KEY = 'site.players';
             if (!localStorage[KEY]) {
@@ -148,6 +149,7 @@
             var pdata;
             var css = '';
 
+
             var hideNames = false;
             for (var id in customPlayers) {
                 pdata = customPlayers[id];
@@ -179,6 +181,7 @@
                 document.getElementsByTagName('head')[0].appendChild(tmpStyle);
             }
         }
+        
         try {
             loadPlayerFaces();
         } catch(ex) { /*Nevermind*/}
@@ -246,7 +249,7 @@
 
     var themes = {
         current : '',
-        names : {halloween:'Halloween', xmas:'Christmas', easter:'Easter', thanksgiving:'Thanksgiving'},
+        names : {halloween:'Halloween', xmas:'Christmas', easter:'Easter', thanksgiving:'Thanksgiving', valentines: 'Valentines day'},
         init : function() {
             var date = new Date();
             var MOBILE_BREAKPOINT = 730;
@@ -259,6 +262,8 @@
                 this.current = 'xmas';
             } else if (this.isThanksgiving(date)) {
                 this.current = 'thanksgiving';
+            } else if (this.isValentinesDay(date)) {
+                this.current = 'valentines';
             }
 
             if (document.location.search.match(/\btheme=(\w+)/)) {
@@ -272,8 +277,8 @@
                 themes.afterLoadInit();
             });
             
-            document.write("<link href='" + HTML_OWN_DOMAIN + "/themes/1808/" + this.current + ".min.css' rel='stylesheet' type='text/css'>");
             if (!this.isTurnedOff()) {
+                document.write("<link href='" + HTML_OWN_DOMAIN + "/themes/2115/" + this.current + ".min.css' id='theme-css' rel='stylesheet' type='text/css'>");
                 var html = document.getElementsByTagName('html');
                 if (html && html[0]) {
                     html[0].className += ' ' + this.current;
@@ -316,6 +321,9 @@
         isHalloween : function(date) {
             return date.getDate() == 31 && date.getMonth() == 9;
         },
+        isValentinesDay : function(date) {
+            return date.getDate() === 14 && date.getMonth() === 1;
+        },
         isXmas : function(date) {
             return date.getMonth() == 11 && date.getDate() >= 10 && date.getDate() <= 26;
         },
@@ -345,13 +353,30 @@
             }
             return document.cookie.indexOf(this.current +'=0') != -1;
         },
+        
+        usesDarkTheme : function() {
+            try {
+                return localStorage['site.useDarkTheme'] === 'true';
+            } catch(ex) {
+                return false; //IF cookies are disabled, or private mode in Safari, then just accessing localStorage can throw.
+            }
+        },
+
         turnOn : function(e) {
             e.preventDefault();
-            deleteCake(this.current);
+
+            document.cookie = this.current + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/;';
             $('html').addClass(this.current);
             $('#theme-opt-in').hide();
             $('#theme-opt-out').show();
-            if (siteSettings.useDarkTheme) {
+
+            $('<link/>').attr({
+                href : HTML_OWN_DOMAIN + '/themes/2115/' + this.current + '.min.css',
+                rel : 'stylesheet',
+                id : 'theme-css'
+            }).appendTo('head');
+
+            if (this.usesDarkTheme()) {
                 $('html').removeClass('dark-theme');
             }
         },
@@ -359,9 +384,10 @@
             e.preventDefault();
             $('html').removeClass(this.current);
             document.cookie = this.current + '=0; path=/';
+            $('#theme-css').remove();
             $('#theme-opt-in').show();
             $('#theme-opt-out').hide();
-            if (siteSettings.useDarkTheme) {
+            if (this.usesDarkTheme()) {
                 $('html').addClass('dark-theme');
             }
         }
@@ -440,8 +466,9 @@
                 <label>OTHER GAMES</label>
                 <a href="/backgammon/">Backgammon</a>
                 <a href="/checkers/">Checkers</a>
-                <a href="/mahjong/" class="new-game non-removable">Mahjong</a>
+                <a href="/mahjong/">Mahjong</a>
                 <a href="/minesweeper/">Minesweeper</a>
+                <a href="/reversi/" class="non-removable">Reversi</a>
                 <a href="/sudoku/">Sudoku</a>
                 <a href="/triangles/">Triangles</a>
                 <a href="/yahtzee/">Yahtzee</a>
@@ -452,11 +479,13 @@
     </div>
 
     <div id="wrapper">
+        
         <button id="mobile-menu">
             <span class="menu-row-1"></span>
             <span class="menu-row-2"></span>
             <span class="menu-row-3"></span>
         </button>
+        
     
 
         <!-- row 1, the promo links/menu -->
@@ -470,6 +499,7 @@
                 
             </div>
             <div id="board-and-header">
+                
                 <div id="promo-mini" class="hide-mobile">
                     <span id="customizable-links">
                         <a href="/hearts/" class="default-game-link">Hearts</a>
@@ -497,19 +527,22 @@
                             }
                         </script>
                     </span>
-                    <a href="/mahjong/">Mahjong</a>
+                    <a href="/reversi/" class="newest-game">Reversi</a>
                     <a href="#more-games" id="more-games-link">More games...</a>
                 </div>
+                
                 <div id="header">
                     <div id="title">
                          <h1>PRIVACY POLICY</h1>
                     </div>
 
+                    
                     <div id="menucontainer" class="hide-mobile">
                         <ul id="menu">
                             
                         </ul>
                     </div>
+                    
                 </div>
 
                 
@@ -689,7 +722,7 @@
  
 
 
-            <p id="version-info" class="appmode-hide">This is version 1808 of CardGames.io.</p>
+            <p id="version-info" class="appmode-hide">This is version 2115 of CardGames.io.</p>
             
 
         </div>
@@ -706,7 +739,9 @@
             }
         </script>
 
-        <script src="/privacy/1808/privacy.min.js"></script>
+        
+        <script src="/privacy/2115/privacy.min.js"></script>
+        
     </div>
 
 </body></html>
