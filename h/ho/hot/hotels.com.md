@@ -1,143 +1,240 @@
-> *The following text is extracted and transformed from the hotels.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224649id_/https%3A//www.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630011351id_/https%3A//www.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
 
-# Hotels.com - Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations
+# Privacy Policy
 
-Below you will find the updated Privacy Policy for Hotels.com, which applies to any information provided or collected through this Hotels.com website and/or any Hotels.com application, including the Hotels.com mobile and tablet applications or any application on a social media or other website (each an “App”), each of which are provided by Hotels.com, L.P. 5400 LBJ Freeway, Suite 500, Dallas, Texas 75240, USA (“Hotels.com”, “we”, or “us”).
+Introduction
 
-We understand that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read this policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein. If you do not agree with the practices described in this policy please do not use this website or submit your personal information to us.
+Hotels.com, L.P., a Texas limited partnership and/or our subsidiaries and corporate affiliates (“we,” “us,” “our,” and “Hotels.com”), respect your right to privacy and take your privacy seriously. This Privacy Policy explains how we collect, use and share personal information about you via our online services including our website, App and online booking APIs (i.e., online-booking tools used by our partners) ("Online Services") or give us in any other way (together, the “Services”). If any parts of our Online Services connect you with third party online services, those services do not operate under this Privacy Policy. Please review the privacy policies posted on those other online areas to understand their procedures for collecting, using, and disclosing personal information.
 
-•    [What information we collect from you](https://www.hotels.com/customer_care/privacy.html#Whatinformationwecollectfromyou "#Whatinformationwecollectfromyou")  
-•    [How we use your information](http://alfresco.hotels.com/share/page/hresource/99.0.864/apps-rel/privacypolicy/ "#howweuse")  
-•    [With whom we share your information](http://alfresco.hotels.com/share/page/hresource/99.0.864/apps-rel/privacypolicy/ "#Withwhom")  
-•    [How you can access your information](http://alfresco.hotels.com/share/page/hresource/99.0.864/apps-rel/privacypolicy/ "#Howyoucanaccess")  
-•    [Your choices with respect to the collection and use of your information](http://alfresco.hotels.com/share/page/hresource/99.0.864/apps-rel/privacypolicy/ "#Yourchoices")  
-•    [Cookies and other technologies](http://alfresco.hotels.com/share/page/hresource/99.0.864/apps-rel/privacypolicy/ "#cookies")  
-•    [Using the Hotels.com mobile phone and tablet Apps](http://alfresco.hotels.com/share/page/hresource/99.0.864/apps-rel/privacypolicy/ "#Usingtheapp")  
-•    [How we protect your information](http://alfresco.hotels.com/share/page/hresource/99.0.864/apps-rel/privacypolicy/ "#Howweprotect")  
-•    [Children’s privacy](http://alfresco.hotels.com/share/page/hresource/99.0.864/apps-rel/privacypolicy/ "#children")  
-•    [External links](http://alfresco.hotels.com/share/page/hresource/99.0.864/apps-rel/privacypolicy/ "#external")  
-•    [Visiting our website from outside the United States](http://alfresco.hotels.com/share/page/hresource/99.0.864/apps-rel/privacypolicy/ "#visitingourwebsitefromoutside")  
-•    [Changes to this Privacy Policy](https://www.hotels.com/customer_care/privacy.html#Changestothisprivacypolicy "#Changestothisprivacypolicy")  
-•    [How you can contact us](http://alfresco.hotels.com/share/page/hresource/99.0.864/apps-rel/privacypolicy/ "#Howyoucancontactus")
+Key things you should know about how we use your information:
 
- **What information we collect from you**
+  * We may use your information (and the information of those travelling with you) for purpose of completing travel bookings.
+  * This includes sharing your booking information with other parties to fulfil your booking.
+  * We also may engage other third-party vendors who provide services or functions on our behalf.
+  * Where you choose to receive marketing information, we will let you know about any special offers that may be of interest to you, including our loyalty programs. You are able to opt-out at any time.
+  * You can contact us about updating or accessing your information through our contact information within the Contact Us section at the bottom of this Privacy Policy.
+  * We may use information like cookies for purposes including, but not limited to: improving your experience on Online Services; improving our services generally; and to display ads and offers that are more relevant to you.
+  * From time to time and usually following an interaction with us, we may ask you for your feedback to provide you and others with better service. 
+  * If you are using our Services outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. Please rest assured that we take appropriate steps to protect your privacy and security.
 
-In General. We receive and store any information you enter on our website or give us in any other way, including via any App. This includes information that can identify you (“personal information”), including your first and last name, telephone number, postal and email addresses and billing information (such as credit card number, cardholder name, and expiration date). We may also request information about your hotel room preferences, and frequent flyer and car rental program information. You can choose not to provide information to us, but in general most of the information we request from you is required in order for you reserve a hotel, register as a member; book travel; complete a traveller profile; participate in a survey, contest, or sweepstakes; ask us a question; or initiate other transactions on our website or through any App.
 
-Travel Companion Information. When you make a reservation for someone else through this website or any App, we will request personal information and travel preferences about that individual. You should obtain the consent of other individuals prior to providing us with their personal information and travel preferences, as any access to view or change their information will be available only through your account.
 
-Information from Other Sources. We also may periodically lawfully obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include: updated delivery and address information, purchase history, and demographic information. Automatic Information. We automatically collect some information about your computer when you visit this website. For example, we will collect your IP address, Web browser software (such as Firefox, Safari, or Internet Explorer), and referring website. We also may collect information about your online activity, such as trips viewed and bookings made. Our goals in collecting this automatic information are helping customize your user experience and inhibiting fraud. For more information, please see “Cookies and other technologies”.
+We recommend that you read this Privacy Policy in full to ensure you are completely informed. If you have any questions or concerns about our use of your personal information, then please contact us through information found in the “Contact Us” section at the bottom of this policy.
 
-Social Media. If you make use of any Hotels.com social media features, either on our website, an App or otherwise through a social media provider, we may access information about you via that social media provider in accordance with their policies. For example, we offer the option to register with our website via the “Facebook Connect” feature, allowing you to register with our website using your Facebook account data without entering the required data manually on our webpage. When using a social media feature and if you have chosen to include it in your social media account, we may access information such as your name, profile picture, gender, birthday, email address, town or district and any other information you have chosen to make available. Depending on the privacy settings of you and your friends, we may access information that you provide to a social media provider regarding your respective locations (“Location Data”) to provide you with relevant content. Please note that your Location Data may also be shared with your friends on a social media provider in accordance with your privacy settings for that social media provider. We may also access information from social media providers about your use of an App that we run on their website.
+What personal information do we collect and why?
 
- **How we use your information**
+The personal information that we may collect about you broadly falls into the following categories:
 
-We use sensitive billing information (such as cardholder name, credit card number, and expiration date) for the purpose of completing the hotel reservations you make on our website or through an App. We use other information about you for the following general purposes so long as you have given your consent: to provide you with the products and services you request; to provide you with your hotel booking confirmation and updates; to manage your account, including processing bills and providing travel notifications; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, website and our Apps; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with this website or our Apps; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection.
+ _Information that you provide directly to us_
 
-Email Communications. We want to make it easy for you to take advantage of travel-related opportunities on our website and through our Apps. One way we do this is by sending you email messages that contain information about your hotel related interests if you consented to receiving email marketing communications. Where legally required, we will abide by existing publicly available opt-out lists when sending you marketing communications. For example, if you search for a hotel in New York on our website but choose not to book a hotel, we may send you an email message telling you about our special deals for hotels in New York. We believe these email messages will provide you with useful information about travel-related special offers available through our website and our Apps. Please note that you will have the opportunity to choose not to receive these email messages in any such email we send.  
-Please review “Your choices with respect to the collection and use of your information” below.
+We may ask you to provide personal information directly to us. For example, we may ask you to provide your contact details such as full name, street address, telephone number, email address, and date of birth as necessary, in order to, for example:
 
- **With whom we share your information**
+  * enable your travel booking;
+  * create or register an account with us;
+  * provide the services and information you request such as details about your booking;
+  * have an emergency contact number for you;
+  * update frequent flyer or loyalty program information;
+  * subscribe you to our marketing communications; and/or
+  * submit enquiries to us.
 
-We may share your information with the following entities:
 
-•    Suppliers such as hotel, airline, car rental, and activity providers, who fulfil your travel reservations. All services provided by a third party are described as such. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through this website or any App. Please note that these suppliers also may contact you as necessary to obtain additional information about you, facilitate your travel reservation, or respond to a review you may submit. While we may share anonymous reviews with our hotel suppliers, we will not share reviewer names or contact information unless you have explicitly told us that we may. We are not responsible for the hotel deducing your identity from the content of your review and contacting you directly.
 
-•    Third-party vendors who provide services or functions on our behalf, including credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or our Apps or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose. They are also required to follow the same data security practices that we ourselves adhere to. Please note that these third party service providers may be established in countries that might not offer a level of protection for your personal information that is equivalent to the one offered in your country of residence. However, we will endeavor to protect all personal information we collect from you in accordance with strict data protection standards.
+You will also need to provide your billing information (such as credit card number, cardholder name and expiration date) to make a payment.
 
-•    Business partners with whom we may jointly offer products or services, or whose products or services may be offered on our website or through our Apps. You can tell when a third party is involved in a product or service you have requested because their name will appear, either alone or with ours. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners.
+You may also be required to provide information about any other travelers on your booking, your marketing preferences, and additional information if you participate in a survey or competition. When creating an account, you will provide a login name/member ID as well as a password.
 
-•    Referring websites if you were referred to this website from another site (for example, through a link you clicked on another site that directed you to this one), we may share some information about you with that referring website. We encourage you to review the privacy policies of any website that referred you here.
+Your personal information may also be linked to Cookies to enable the proper operation of our Online Services, store your travel searches on our Online Services, and collect information on how you used our Online Services. For more information, please see the “Cookies and similar tracking technology” section below.
 
-•    Companies within our corporate family. We may share your personal information with our affiliated companies within the Expedia, Inc. family, listed at expediainc.com. This sharing enables us to provide you, if you have consented to it, with information about products and services, both travel-related and other, which we believe might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.
+If you’re an employee of a corporate account, a vendor or other type of business partner such as a property owner, property manager, travel agent, other information collected can include employer, employee identification number, or other relevant details.
 
-•    Social media providers. When you access certain Hotels.com social media features through our website or Apps, you are sharing information with the social media provider (such as Facebook) and the information you share will be governed by their privacy policies (including that we may access such information via the social media provider). You may be able to modify your privacy settings for these social media providers. Please consult the privacy policy of the relevant social media provider for further information. If you connect your Hotels.com account to a social media provider, such as through “Facebook Connect”, we may make available on that social media provider information related to your use of Hotels.com, such as Hotels.com™ Rewards loyalty credits you receive and reviews posted by you on Hotels.com. Such information may be published on that social media provider’s websites or services. Information made available on the social media provider will be attributed to the social media provider account to which your Hotels.com account is connected. You may choose to disable automatic publishing by the social media provider of such information by editing your privacy settings for that social media provider. We will not provide any other social media provider with access to your Hotels.com account number or information. If you connect your Hotels.com account to a social media provider, we may also share your user name and your profile picture from that social media provider to other Hotels.com members. You may choose to disable such sharing of information by editing your privacy settings on that social media provider.
+We may also use your personal information for other purposes described in the “How we use your information” section below.
 
-We also may share your information:  
-•    In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
+ _Special Categories of Personal Information_
 
-•    When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of our company, this website or our Apps, our customers, or others; and in connection with our Terms of Service and other agreements.
+Certain types of personal information, such as some government-issued identification numbers, religion, health or sexuality, are considered sensitive and require additional protection under applicable laws. We take appropriate steps to limit the circumstances under which we may collect sensitive personal information; examples of this information include the following:
 
-•    Where we believe that it is necessary to prevent or lessen a serious and imminent threat to somebody’s life or health.
+  * Health-related information may be needed to provide appropriate travel accommodation and accessibility or facility requirements.
+  * Government-issued identification numbers like passport or driver’s license number may be required for flights, vehicle rental or other travel reservation.
+  * Other information that you can specify at your option and which may imply or suggest information like religion, health or other information, such as dietary needs.
 
-•    In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
-Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information. 
 
-We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our website receives or the most popular hotels and vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest.
+ _Information Voluntarily Provided About Your Travel Companion(s)_
 
- **How you can access your information**
+When you make a reservation for someone else through our Online Services, we will request personal information and travel preferences about that individual. You should obtain the consent of any other individual(s) prior to providing us with their personal information and travel preferences. Your travel companion's information will only be available to view and amend through your account. Should your travel companion want to amend or delete their information themselves they can contact us directly at the information in the “Contact Us” section at the bottom of this policy.
 
-You can access and update your contact information by visiting this website’s Account section. You can close your account by contacting us at the email address listed below. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time.
+ _Information that we collect automatically_
 
-By providing your personal information to us through this website or any App, you accept that we may retain your information. We may continue to process account-related information in order to fulfil our legitimate business objectives, to comply with our legal and regulatory obligations, and for historical record and analytical purposes. We employ robust technical measures to prevent unauthorized access to account information.
+When you visit us on our Online Services, we may collect certain information automatically from your device. In some countries, including countries in the European Economic Area, this information may be considered personal information under applicable data protection laws.
 
-If you do not hold an account with us or wish to contact us in relation to any personal information that is not displayed in your account, you may ask us to access, delete or modify the information that we hold about you by emailing us at the email address listed below. You can also contact us to request an explanation as to how we process your information, and you may revoke the consent to the processing of your information provided when accepting this Privacy Policy by sending an email to the address listed below.
+Specifically, the information we collect automatically may include, but is not limited to, information like your IP address, device type, unique device identification numbers, browser-type (such as Firefox, Safari, or Internet Explorer), your Internet Service Provider (ISP), your operating system and carrier. For website users, details of any referring website or exit pages as well as broad geographic location (e.g., country or city-level location) may also be collected.
 
- **Your choices with respect to the collection and use of your information**
+We may also collect other technical information such as how your device has interacted with our Online Services, including the pages accessed and links clicked, for example, trips viewed and the time and date of these.
 
-•    As discussed above, you can choose not to provide us with any information, although it may be needed to book your hotel or to take advantage of certain features offered on this website or our Apps.
+Collecting this information enables us to better understand the visitors who come to our Online Services, where they come from, and what content on our Online Services is of interest to them. We use this information for our internal analytics purposes and to improve the quality and relevance of our Online Services for our visitors, for example, to customize your user experience, tailor your searches and show you advertisements that may be of interest. We may also use this automatic information to prevent and detect fraud.
 
-•    You also can add or update information and close your account as described above.
+ _Information we collect when you use Apps_
 
-•    When you register as a member, you will be given a choice as to whether you want to receive email messages from us about special offers as well as email messages about products and services of selected third parties. As a registered member, you can modify your choice at any time on the Communication Preferences page. Whether registered as a member or not, you will also be given the opportunity to unsubscribe from commercial messages in any such email we send. Please note that we reserve the right to send you other communications, including service announcements and administrative messages, relating either to your account or to your transactions, without offering you the opportunity to opt out of receiving them.
+When you use one of your smart phone app, tablet app, or applications for other platforms (collectively “App” or “Apps” as applicable), we may also collect, for example:
 
-•    You may have the opportunity on our website to provide a mobile number in order to receive your hotel confirmation details.
+  * Information about the functionality of the Apps you access and use. This allows us to identify those areas of the Apps that are of interest to our customers so that we can refine and continuously improve the Apps.
+  * Your device’s unique device identifier (“UID”). Each App sends us the device's UID, a sequence of numbers or characters that are unique to your device. We use this on the first opening of the App so that we can confirm to our advertising networks the number of downloads resulting from clicks on their respective ad banners and other marketing tools. When an email address is provided, we associate this with your current UID/cookie ID for the purposes of providing a seamless experience across your devices.
+  * Information about your current location. When you use an App’s ‘find hotels near your current location’ or similar features that suggest relevant content based on location, or otherwise provide location-based services, we use information about your current location – provided by your device using GPS or similar technologies – to show relevant content or other localized information. We do not collect location data unless you expressly use a location-based feature, and you can switch off location data collection at any time through your phone settings menu.
+  * Error reporting information. This enables us to investigate the error and to improve the stability of the App for future releases. As part of these error reports, the App sends us information about the mobile device type and version, the UID, the time the error occurred, the feature being used and the state of the application when the error occurred. We may use this information to investigate and remediate the error and to assist you in completing an impacted booking.
 
- **Cookies and other technologies**
 
-Cookies are small text files that are placed on your computer or mobile device when you visit almost all websites. Cookies do not recognize you personally and are not harmful to your computer or mobile device. They are used by websites you visit in order to improve your experience on the website, to provide us with analytics information that will help us improve our website generally, and to collect information about travel destinations of interest to you so that you may see travel ads more relevant to you.
 
-For instance, we use cookies on our site to allow you to login without having to type your login name each time. Other cookies help us to understand what did and didn’t interest you about our website so we can provide you with features that are more relevant and useful to you next time you visit. We and some of our partners also use cookies on our site to measure the effectiveness of advertising on our site and how visitors use our site. For more detailed information about the cookies that we and our partners serve through our website, please visit our cookie policy. 
+You have the ability to control what information an App sends to us. You can exercise this control either by changing the settings of the App under its setting menu or changing the settings of your mobile device. Alternatively, you can remove the App from your device entirely and access our services through our website.
 
-Alternatively, if have any other questions about our use of cookies or other technologies, please email us using our customer service and feedback form and we’ll do our best to help.
+ _Information that we obtain from third party sources_
 
- **Using the Hotels.com mobile phone and tablet Apps (the “Mobile Apps”)**
+Periodically, we lawfully obtain personal information about you from affiliated entities, business partners and other independent third-party sources and add it to our account information. Examples of information we may receive includes updated contact information like email, purchase history, and demographic information.
 
-When you use a Hotels.com Mobile App, we collect and use information about you in the same way and for the same purposes as we do when you use our website.
+ _Information we collect when you communicate with us via the following methods_
 
-In addition to this, we also use some other information that we collect automatically when you use our Mobile Apps. Specifically:
+ **Social Media:** If you make use of any of our social media features on our Online Services or otherwise through a social media provider, we may access information about you via that social media provider in accordance with their privacy policy. For example, we offer the option to register with our website via the “Facebook Connect” feature, enabling you to register with our website using your Facebook account data without entering the required data manually on our webpage.
 
-•    We collect information about Mobile App functionality that you access and use. This allows us to identify those areas of the Mobile App that are of interest to our customers so that we can refine and continuously improve the Mobile App. The information we collect for this purpose does not enable us to directly identify you.
+When using a social media feature, if you have chosen to include personal information in your social media account, we may access information such as your name, profile picture, gender, birthday, email address, town or district and any other information you have chosen to make available. Subject to your privacy settings, we access information that you provide to a social media provider regarding your respective locations (“Location Data”) to provide you with relevant content. We do not store or use any data related to the friends you are connected with on a social media site.
 
-•    Each Mobile App also sends us the device's unique device identifier (or "UID"), a sequence of numbers or characters that are unique to your mobile device. We use this only on the first opening of the Mobile App so that we can confirm to our advertising networks the number of downloads resulting from clicks on their respective ad banners and other marketing tools.
+We may also access information from social media providers about your use of an App that we run on their website. Therefore, we encourage you to review the privacy policy of any social media provider you use.
 
-•    When you use a Mobile App's ’find hotels near your current location’ feature, we use information about your current location – provided by your mobile device using GPS or similar technologies – to show hotels nearby. We do not collect location data unless you expressly click on the ’find hotels near your current location’ feature, and you can switch off location data collection at any time through your phone settings menu.
+ **Call Monitoring and Recording:** Calls to and from our customer service teams may be recorded or monitored for quality control purposes, analytics, to protect us in the event of a legal dispute and for staff training. Call recordings will be maintained consistent with this Privacy Policy. Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy.
 
-•    Each Mobile App will also send us error-reporting information in the event that it crashes or hangs. This enables us to investigate the error and to improve the stability of the Mobile App for future releases. As part of these error reports, the Mobile App sends us information about the mobile device type and version, the UID, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
+ **Other Online Communications:** Any interactions you have with us through our Online Services, such as chat, will be recorded and monitored for quality control purposes, to protect us in the event of a legal dispute and for staff training. This information will be processed and maintained consistent with this Privacy Policy.
 
-You always have the ability to control what information a Mobile App sends to us. You can exercise this control either by changing the settings of the Mobile App under its setting menu or changing the settings of your mobile device. Alternatively, you can remove the Mobile App from your mobile device entirely and access our services through our website.
+ _Cookies and similar tracking technology_
 
- **How we protect your information**
+Cookies are small data text files and can be stored on your computer's hard drive (if your Web browser permits). This website may use cookies for the following general purposes, including but not limited to:
 
-We want you to feel confident about using this website and our Apps to make travel arrangements, and we are committed to protecting the information we collect. While no website or App can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they may only do so for permitted business functions. In addition, we use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
+  * To help us recognize you as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site.
+  * To help us customize the content and advertisements provided to you on this website and on other sites across the Internet. For example, when you access a page on our website, a cookie is automatically set by us, our service providers, or our partners to recognize you as you navigate on the Internet and to present you with information and advertising based on your apparent interests. See “Display of Tailored Advertising” section below for more information about our online advertising practices and your choices.
+  * To help measure and research the effectiveness of website features and offerings, advertisements, and email communications (by determining which emails you open and act upon).
 
- **Children’s privacy**
 
-This is a general audience website and neither the website nor any App offer services directed to children. If we gain actual knowledge that a child under the age of 13 has provided any personal information to us without the parent’s or guardian’s consent, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information. information.
 
- **External links**
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to request to disable cookies. Please note that if you refuse to accept cookies, you may not be able to access many of the travel tools offered on our sites.
 
-If any part of this website or any App links you to other sites, those sites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information.
+In addition to the above cookies, we may use Local Shared Objects, also referred to as "flash cookies," on our web site. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our website. Local Shared Objects are similar to browser cookies but can store data more complex than simple text. To find out more about flash cookies or how to disable them, please visit: [Flash Player Help site.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html)
 
- **Visiting our website from outside the United States**
+This site may also use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our sites to another, to deliver or read cookies, to understand whether you have come to our site from an online advertisement displayed on a third-party website, and to improve site performance. We also may allow our service providers to use Web beacons to, for example, help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our site. This helps us measure the effectiveness of our content and other offerings.
 
-If you are visiting our website or using our Apps from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. By providing us with your personal information or using our services or our website, you understand that your information may be transferred to our facilities and to those third parties with whom we share it, as described in this Privacy Policy. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take all reasonable steps to ensure that your privacy is protected.
+We may combine the information you give us with information related to your transactions and information we receive about you from third parties who carry out services on our behalf. The information received via Cookies and similar technologies may allow us to track your activities across devices and users' clickstream data associated with the Cookies.
 
- **Changes to this Privacy Policy**
+In general, we will use the personal information we collect from you only for the purposes described in this Privacy Policy or for purposes that we explain to you at the time we collect your personal information.
 
-We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our website and/or through our Apps. 
+Who do we share your personal information with?
 
-**How you can contact us**
+We may disclose your personal information to the following categories of recipients:
 
-If you have questions about either this Privacy Policy (or your travel planning or purchases), or would like to raise a complaint, please email us or write to us at:
+ **Our group companies** at times may share your personal information with our affiliated companies within the Expedia Group family, listed at the [expediagroup.com](https://www.expediagroup.com/) website. This sharing enables us, for example, to enhance the products and services we offer, as well as potentially provide you with information about products and services, both travel-related and other, which we believe might interest you. Also, if you inquire about booking a vacation rental stay through another Expedia Group brand, such as HomeAway, we may on occasion share, for example, the number of your prior trips and any status level you have with an Expedia Group brand with the vacation rental owner so they may have additional reassurance in approving your stay. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They will also take appropriate steps to comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any promotional email they send to choose not to receive such email messages in the future.
 
-Email: [Customer Care](https://ssl.hotels.com/customer_care/email_us.html)  
-Hotels.com, L.P.  
-Attn: Privacy Office  
-5400 LBJ Freeway  
-Suite 500  
-Dallas, Texas 75240  
-USA
+ **Third party services providers** who provide data processing services to us (for example, to support the delivery of; provide functionality on; or help to enhance the security of our Online Services), or who otherwise process personal information for purposes such as credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. Where third-party service providers have access to data they will only collect information as needed to perform their functions. They are not permitted to share or use the information for any other purpose.
 
-This Privacy Statement is effective as of October 4, 2015
+ **Business partners** with whom we may jointly offer products or services, or whose products or services may be offered on our Online Services. You can tell when a third-party business partner is involved in a product or service you have requested because their name will appear, either alone or with ours. If you choose to access these optional services, we will on occasions share information about you, including your personal information, with those partners. An example of a business partner would be a third-party loyalty program that you will earn points for, through a booking.
+
+ **Travel suppliers** such as hotel, airline, car rental, insurance, Property Owners, and, where available, activity providers, rail and cruise lines, who fulfil your travel reservations. Services provided by a third-party supplier are generally described as such. Please note that these suppliers also may contact you as necessary to obtain additional information about you, facilitate your travel reservation, or respond to a review you may submit in accordance with their own independent Privacy Policy. From time to time we may share anonymous reviews with our hotel suppliers. On such occasions we do not share reviewer names or contact information unless you have explicitly told us that we may. We are not responsible for the hotel deducing your identity from the content of your review and contacting you directly.
+
+ **Social media providers** when you access certain social media features through our Online Services, you will share information with the social media provider (such as Facebook). The information you share will be governed by the social media provider's privacy policy (including any data we may access via the social media provider). Social media providers should inform you about how you can modify your privacy settings on their site.
+
+If you connect your Hotels.com account to a social media provider, such as through “Facebook Connect,” we may make available to that social media provider the information related to your use of our Services, such as our rewards and loyalty program or the reviews you post on our Online Services.
+
+Social media providers may provide settings that allow you to request that the social media provider disable such sharing of information and other privacy choices.
+
+Any **competent law enforcement body, regulatory, government agency, court or other third party** where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your interests or those of any other person;
+
+When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of our company or this website, our customers, or others; and in connection with our Terms of Service and other agreements;
+
+In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. In the case of any acquisition, we will inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Policy; or
+
+ **Any others with your consent** to the disclosure.
+
+On occasion, we may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our website receives or the most popular hotels and vacation destinations.
+
+How do we use your information?
+
+We use the information we collect for a variety of purposes supporting you and our business uses, including to:
+
+  * fulfill the transactions that you make, such as booking a hotel;
+  * provide you with travel confirmations and important travel updates for your upcoming trip (via channels such as email, SMS, and/or push messages);
+  * verify your identity for fraud prevention purposes;
+  * manage your account, including processing payments;
+  * communicate with you in general, particularly if there is a change to your booking;
+  * provide customer services related to your booking or to respond to any inquiry you make;
+  * measure interest in and improve our products, services, and website functionality;
+  * notify you about special offers, coupons, sweepstakes and travel-related products and services that may be of interest to you. You may receive these through various channels, including by email, SMS, push messages, post mail, or telephone, or via advertisements on third-party sites, including through social media;
+  * otherwise customize your experience with this website or App;
+  * reward you as part of any reward and recognition program you choose to join (whether this is our program or that of a third party);
+  * obtain information from you, including through feedback you give or surveys you complete;
+  * carry out statistical analysis about the use of our website and Apps and the services we offer to improve each aspect of what we do;
+  * protect our rights as a company, including as to our intellectual property, for example;
+  * resolve disputes, collect fees, or troubleshoot problems;
+  * prevent potentially prohibited or illegal activities;
+  * enforce our Terms of Use and other agreements; and
+  * as otherwise described to you at the point of collection.
+
+
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us at the information provided at the bottom of this Privacy Policy.
+
+How do we protect your personal information?
+
+We want you to feel confident about using our Online Services to make travel arrangements, and we are committed to taking appropriate steps designed to protect the information we collect. While no Online Services can guarantee absolute security, we have implemented appropriate technical and organizational measures to protect the personal information that we collect and process about you.
+
+International data transfers
+
+The personal information we collect, or is collected on our behalf, may be transferred to, and processed in, countries other than the country in which you reside. These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective). While such information is outside of your country of residence, it is subject to laws of such other countries, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other country, pursuant to the laws of such country.
+
+Specifically, the servers of our Online Services are located in the US, and our group companies and third party service providers operate around the world. This means that when we collect your personal information, we may process it in any of these countries.
+
+ _EU-US and Swiss-US Privacy Shields_
+
+We have self-certified compliance with the EU-US and Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union and Switzerland. We have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. To learn more about the Privacy Shield Principles and to view our certification, please visit [here.](https://www.privacyshield.gov/welcome)
+
+We will only process personal information in ways that are compatible with the purposes outlined above in this Privacy Policy (or those you later authorize). Before using your personal information for materially different purposes or disclosing it to independent third parties, we will provide you with the opportunity to opt out. Further choices and means you have for limiting the use and disclosure of your personal information are set out in the “Your information choices” section below.
+
+As explained in this Privacy Policy, we may provide your personal information to third parties who perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party agent or service provider and they process your personal information in a manner inconsistent with the Privacy Shield Principles, we will remain liable under the Privacy Shield unless we can prove we are not responsible for the event giving rise to the damage.
+
+Under certain circumstances, we may be required to disclose your personal information in response to valid requests by public authorities, including to meet national security or law enforcement requirements. You may have the right to access personal information that we hold about you and request that we correct, amend or delete it if it is inaccurate or processed in violation of the Privacy Shields.
+
+If you have any inquiries or complaints about our handling of your personal information under the Privacy Shields, you should first contact us at privacy@expedia.com and we will respond to your inquiry promptly. If we are unable to satisfactorily resolve your complaint, or we fail to acknowledge your complaint in a timely fashion, we have further committed to cooperate and comply with the panel of European data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner in the resolution of any Privacy Shield complaints. Individuals may also have the opportunity under certain conditions to invoke binding arbitration for complaints regarding the Privacy Shield not resolved by the above mechanisms. See [here](https://www.privacyshield.gov/article?id=ANNEX-I-introduction) for additional information about binding arbitration.
+
+For purposes of enforcing compliance with the Privacy Shield frameworks, we are subject to the investigatory and enforcement powers of the US Federal Trade Commission.
+
+Your information choices
+
+You can access or update certain contact information in the Account section of our Online Services. You can request to de-activate your account at any time by contacting us through the contact information listed at the bottom of this policy. After you de-activate an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time.
+
+If you have other questions about your information, please contact us at the information listed at the bottom of this Privacy Policy.
+
+Display of Tailored Advertising
+
+ _Data collected by us on this website to serve you with relevant advertising._
+
+We are committed to providing you with relevant content and information. To do this, we may, through cookies and other technologies used on this website, collect information about you, such as your travel related searches and whether you are looking for flights or hotels. We may use this information, together with other information we have collected about you from other sources, to serve you with more relevant ads on our website, across the internet, and on other devices that you may use. So, for example, if you search for a property in London on this site, you may see an ad for a London travel package on this site or on another website you visit.
+
+You can choose not to receive tailored online advertising from us on other websites, based on your activities on this website and learn more about many of the ways you can opt out of having your information used for tailored advertising purposes by accessing one of the following resources:
+
+  * http://www.youronlinechoices.eu/
+  * http://youradchoices.ca/choices/
+  * http://www.aboutads.info/choices/
+  * http://optout.networkadvertising.org/
+
+
+
+Note that if you choose not to receive tailored ads, you will still see online advertisements, but they will be more general and less relevant to you.
+
+ _Data collected by business partners and ad networks to serve you with relevant advertising._
+
+We may allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on our sites; and (2) advertising networks, which collect information about your interests when you view or interact with one of the advertisements or tracking mechanisms they place on many different websites on the Internet. The information gathered by these third parties is used for example to make predictions about your characteristics, interests or preferences and to display advertisements on our sites and across the Internet tailored to your apparent interests.
+
+Please note that we do not have access to or control over cookies or other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click [here](http://www.aboutads.info/choices/) and [here](http://optout.networkadvertising.org/).
+
+ _Do-Not-Track Signals and Similar Mechanisms._
+
+Some web browsers may transmit "do-not-track" signals to websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Participants in the leading Internet standards-setting organization that is addressing this issue are in the process of determining what, if anything, websites should do when they receive such signals. We currently do not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+
+Changes to This Notice and How to Contact Us
+
+Updates to this Privacy Policy
+
+Changes to this Privacy Policy will be made when required in response to changing legal, technical or business developments. When we update our Privacy Policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make, and in accordance with applicable law. You can see when this Privacy Policy was last updated by checking the “last updated” date displayed at the top of this Privacy Policy.
