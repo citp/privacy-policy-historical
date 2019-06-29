@@ -1,90 +1,75 @@
-> *The following text is extracted and transformed from the realmindpowersecrets.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120155717id_/http%3A//www.realmindpowersecrets.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmindpowersecrets.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629111557id_/http%3A//inspire3.com/privacy) for the most accurate reproduction.*
 
-# Mind power research reveals 'world first' discoveries for free - Privacy Policy
+# Inspire3 Ltd - Privacy Policy
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter.
+Your privacy is important to us. That's why we've created this simplified privacy policy, to help you easily understand what we do with your information.
 
-Any data we request that is not required will be specified as voluntary or optional.
+(For our terms of sale, [click here](https://inspire3.com/terms). For our disclaimer & precautions, [click here](https://inspire3.com/disclaimer).)
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
+### About Us
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+  * We are Inspire3 Ltd, with our homepage at [www.inspire3.com](http://www.inspire3.com/).
+  * Our address is 20-22 Wenlock Road, London, N1 7GU, United Kingdom.
+  * You can reach our support team at [ awesome@inspire3.com](mailto:awesome@inspire3.com), or call us in the UK on (+44) 207 183 2674.
+  * We are registered as a limited company in the UK. Our company number is 06609964.
+  * "We", "us" and "our" on this page refer to Inspire3 Ltd.
 
-**What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways:
 
-• To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
+### Our Policy in a Nutshell
 
-• To send periodic emails
+  * We will NEVER sell your details to anyone else, and we'll NEVER spam you!
+  * You can ALWAYS opt-out of our communications, just by telling us.
+  * Every non-transactional email we send includes an unsubscribe link in the footer.
+  * We promise never to do anything "weird" with your information.
+  * We will only share your information with key partners where necessary.
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**How do we protect your information?**
+### The Information We Collect
 
-We implement a variety of security measures to maintain the safety of your personal information when you submit a request or place an order.
+  * We collect all the information you'd expect for our sites to operate correctly.
+  * For email subscriptions, we collect the name and email address provided, as well as the signup & confirmation IP addresses.
+  * For purchases, we collect the name, email address, postal address, and payment details provided, as well as your IP address.
+  * For support questions, we use the return email address to reply to the query, and possibly offer a newsletter subscription.
+  * We may also collect other aggregate information to improve our systems, such as server logs and email click counts.
 
-These security measures include: password protected directories and databases to safeguard your information or SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+### Secure Purchases
 
-**Do we use cookies?**
+  * Your payment information is handled in the most secure manner possible.
+  * All payment data is secured during the ordering process using 256-bit military grade encryption.
+  * We NEVER permanently store your credit card details. Payment data is typically handled by our PayPal merchant account.
+  * We may use PayPal Reference Transactions to bill the original payment method if you authorize additional purchases.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-**Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### What We Do With Your Information
 
-**Third party links**
+  * We will use the information you provide to help complete the service you have asked of us.
+  * For email subscriptions, we will use this data to send you the information you requested, and subscribe you to our training and/or regular newsletter.
+  * For purchases, we will use this data to complete the order, such as sending out download links, or physically mailing out a product.
+  * If you have provided your telephone number to us, we (or a close industry partner) may call you to check on your progress, and offer additional coaching.
+  * If you have provided your mailing address, we may send you extra material that we deem relevant.
+  * If you subscribe or purchase through an affiliate link, we may share your name, email, and details of the products you purchased with the affiliate.
+  * We aim for all of our communications to be relevant. You can opt-out of any communication at any time simply by letting us know, or by clicking to unsubscribe.
+  * We never sell your data, but we may share it if required. For example: We may share your name and email address with our email provider in order to send our newsletter.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+### Our Commitment to Data Security
 
-**Childrens Online Privacy Protection Act Compliance**
+  * We don't take security lightly. We know your information is important.
+  * We are fully compliant with all UK privacy and data protection laws.
+  * We have taken measures to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information.
+  * We have appropriate physical, electronic and managerial procedures to safeguard and secure the information you provide.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**CAN-SPAM Compliance**
 
-We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+### Other Things You Should Know
 
-**Your Consent**
+  * If you have questions about the information we hold about you, you can contact us for more information.
+  * We never collect or maintain information from those we know are under 18\. Our sites and products are aimed at responsible adults, aged 18 or over.
 
-By using our site, you consent to our privacy policy.
 
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
-
-This policy was last modified on **29th September 2010**
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-www.realmindpowersecrets.com  
-205 Royal Parkway W  
-Williamsville, NY 14221  
-US  
-cyndi@evolutionezine.com  
-716 632 1602
-
-**Privacy Policy Customer Pledge**
-
-We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
-Federal Trade Commision Fair  
-California Online Privacy Protection Act  
-Childrens Online Privacy Protection Act  
-Privacy Alliance  
-Controlling the Assault of Non-Solicited Pornography and Marketing Act
-
-If at anytime you have a cause that needs to be disputed please fill out the
