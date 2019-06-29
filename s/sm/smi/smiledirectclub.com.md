@@ -1,89 +1,211 @@
-> *The following text is extracted and transformed from the smiledirectclub.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611045416id_/https%3A//smiledirectclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smiledirectclub.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629133523id_/https%3A//smiledirectclub.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - SmileDirectClub
+# Privacy | SmileDirectClub
 
-### The Security of Your Personal Information Is Very Important to Us
+### Introduction
 
-This Privacy Policy governs your use of SmileDirectClub.com (the "Site"). SmileDirectClub values our customers and guests and respects your concerns about online security and privacy. We believe in providing you with a safe and secure online experience. Our Privacy Policy is intended to provide you with information about how SmileDirectClub collects and handles information about you, including your personal information on the Site. By using our Site, you consent to the collection and use of your personal information as set forth herein. This Privacy Policy is incorporated into the[ Terms of Use](https://web.archive.org/terms) by this reference. In addition to reviewing our Privacy Policy, you should also read our Terms of Use. Your use of the Site constitutes your agreement to the terms and conditions in this Privacy Policy and the Terms of Use. 
+This Privacy Policy describes how SmileDirectClub, LLC collects and uses Personal Data about you through the use of our Website, mobile applications, and through email, text, and other electronic communications between you and SmileDirectClub.
 
-### Our Privacy Policy Will Change Over Time
+SmileDirectClub, LLC ( **“SmileDirectClub”** or **“we”** or **“our”** ) respects your privacy and is committed to protecting it through our compliance with this policy.
 
-Because we continue to develop the Site and take advantage of technologies to improve the services we provide, our policies will change over time. We encourage you to refer to this Privacy Policy from time to time to stay abreast of our most current privacy policy practices. Your continued access and use of the Site will constitute your acceptance of any changes or revisions to our Privacy Policy. 
+This Privacy Policy ( **“Privacy Policy”** ) describes the types of information we may collect from you or that you may provide when you visit the website www.smiledirectclub.com (our **“Website”** ) or use our SmileDirectClub mobile application (our **“Application”** ) and our practices for collecting, using, maintaining, storing, protecting, and disclosing that information.
 
-### Summary of Our Privacy Policy
+This policy applies to information we collect:
 
-This Privacy Policy explains how we collect, use and protect your personal information as you interact with us online. This Privacy Policy explains: 
-
-  * What information SmileDirectClub gathers from users of the Site.
-  * How SmileDirectClub uses the personal information that you share with us and that we learn about you because of our relationship. 
-  * How SmileDirectClub uses non-personal information.
-  * What personal information, if any, SmileDirectClub may share about you with others and the conditions that protect your information if it must be shared. 
-  * What kind of security measures SmileDirectClub takes to protect your information from loss or disclosure. 
-  * The circumstances under which you can access personal information you have shared with SmileDirectClub and have that information corrected, restrict SmileDirectClub's use of that information, and even have it removed from our active servers. Other things you should know about privacy and SmileDirectClub. 
-  * Other things you should know about privacy and SmileDirectClub.
+  * from you or your legal guardian on or through our Website or Application;
+  * from or on behalf of your licensed dentist, orthodontist or other medical provider or her/his staff;
+  * in email, text, and other electronic messages between you and our Website or Application;
+  * through printed documents, records, and materials; and
+  * when you interact with our advertising, marketing, and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
 
 
-### The Type of Information the Site Collects About You
+It does not apply to information we collect:
 
-SmileDirectClub collects information that you provide to us or that we learn about you from your use of the Site. For example, you may provide information to the Site when you register, search, add items to your shopping cart, participate in a survey, rate or review our products or services, or communicate with SmileDirectClub's Patient Care department online. As a result of those actions, you might supply us with such information as your name, address, phone number, email address, and personal shopping and product preferences. We also automatically receive and store certain types of non-personal information, such as demographic or statistical information, whenever you visit the Site. 
+  * offline or through any other means, including on any other website operated by SmileDirectClub or any third-party; or
+  * through any third party website or application, including through any application or content (including advertising or marketing) that may link to or be accessible from or on the Website or in the Application.
 
-### HIPPA
 
-Our privacy practices are intended to comply with the Health Insurance Portability and Accountability Act ("HIPAA"). We will maintain the privacy of your Health Information as required by HIPAA and the regulations promulgated under that Act. 
 
-### Third Party Services
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, you are not permitted to use our Website or Application. By accessing or using our Website or Application, you agree to the terms and conditions of this Privacy Policy. This Privacy Policy may change from time to time. Your continued use of our Website or Application after we make changes shall constitute your acceptance of those changes, so please check this Privacy Policy periodically for updates.
 
-Our customers are active in many different communities, both offline and online, such as Facebook, Pinterest, Twitter, Instagram, Tumblr, YouTube or Google+ accounts ("Third Party Accounts"). If you link to Third Party Accounts from our Services, we may collect some information about your use of the Third Party Account. We will only be able to collect the information if you've authorized the Third Party Service to provide us with that information or if you've made the information public. 
+### Children Under the Age of 18
 
-Additionally, if you mention us through your Third Party Account, we may collect information and content related to your comment that is publicly available. If you wish to limit the information available to us, you should be sure to manage the privacy settings of your Third Party Accounts. One thing we won't ever store is your Third Party Account password. 
+Our Application and Website are not intended for children under the age of 18 and children under the age of 18 are not permitted to use our Website. We will remove any information provided by a child under the age of 18 if we become aware of it. Parents and legal guardians are welcome to provide information on behalf of children under 18.
 
-If you link your account on the Services with a Third Party Account, we may also collect and store publicly available information about your contacts and friends from the linked Third Party Account. This information may include their photo, name, email address, birthday, interests or other content you can see when you access such profiles on those Third Party Services. We may also collect and store information if you invite other users to the Services by providing us with their Personal Information. 
+We may provide our goods and services to children 12 years of age or older, and parents or guardians of children 12 or older are welcome to use our Website and Application to order and use our goods and services on their children’s behalf, including by entering their children’s information on our Website or in our Application. However, our Website and Application are not intended to be directly used by children under 18 years of age. No one under age 18 may provide any information to or on the Website or in the Application. We do not knowingly collect Personal Data (as defined below) directly from children under 18. If you are under 18, please ask your parent or guardian to access and use the Website or Application for you, and please do not use, or provide any information on our Website, Application, or on or through any of their features, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received Personal Data directly from a child under 18 without verification of parental or guardian consent, we will delete that information. If you believe we might have received any information from a child under 18, please contact us at [support@SmileDirectClub.com](mailto:%20support@SmileDirectClub.com).
 
-### How SmileDirectClub Uses and Shares Information About You
+### Information We Collect About You and How We Collect It
 
-We try to provide you with the information you need to make informed, reasonable choices with respect to how the Site uses or shares your information. SmileDirectClub uses and shares personal information from you in several ways: 
+We collect different types of information about you, including information that may directly identify you or be used to identify you, information that is about you but individually does not personally identify you, and information that we combine with our other users. This includes information that we collect directly from you or through automated collection technologies.
 
-We use information we have collected about you to provide you with the very best products and services, shopping experience and to operate our business. We do not sell your personal information to third parties for any reason. We do not disclose your personal information to unaffiliated third parties who may want to offer you their own products and services unless you have requested or authorized us to do so. 
+### Generally
 
-We may share your personal information with third parties or affiliates of SmileDirectClub where it is necessary for us to complete a transaction or do something you have asked us to do. Likewise, we may share your personal information with third parties or affiliates of SmileDirectClub with whom we have contracted to perform services on our behalf. Companies that act on our behalf are required to keep the personal information we provide to them confidential and to use the personal information we share only to provide the services we ask them to perform. 
+We collect several types of information from and about users of our Application and Website, specifically information:
 
-We may disclose your personal information as permitted or required by law, such as in connection with a subpoena or similar legal process, or in connection with a merger, acquisition, or bankruptcy, as discussed further below. 
+  * by which you may be personally identified, such as name; home, shipping, and postal address; e-mail address; home and mobile telephone number; credit card, debit card, or other payment information (solely for payment purposes); date of birth; social security number; your medical history and name(s) of your medical and dental providers; and other information about your past, present or future physical or mental health condition or the provision of health or dental care (“Personal Data”);
+  * that is about you but individually does not identify you, such as statistical and other communication data and the resources that you access and use on the Website and in the Applications; and/or
+  * about your internet connection and the equipment you use to access our Website and Application and usage details.
 
-### Website Usage
 
-SmileDirectClub or its authorized service providers may observe activities, preferences and transactional data (such as your IP address, browser type and operating system) relating to your use of the Site. This information is generally collected in non-personally identifiable format. We may use this collected or logged information in order to provide better service, to facilitate our customers' use of the Site, to track usage of the Site, to address security hazards, and for other administrative or operational purposes. SmileDirectClub, or its authorized service providers, may use this information to track aggregate traffic patterns throughout the Site. We may use aggregated, statistical information to describe our customer audience, products, and services, and to develop partnerships with third parties to offer products and services in which we believe our customers will be interested. 
 
-### Our Security Practices
+We collect this information:
 
-Except as otherwise set forth in this Privacy Policy, our internal data security policies restrict access to customers' personal information to authorized employees for SmileDirectClub business purposes only. Our employees are bound by SmileDirectClub policies that require them to maintain the confidentiality of our customers' personal information. Employees who violate these requirements are subject to disciplinary action, up to and including termination. We maintain physical, electronic, and procedural safeguards that are designed to guard our customers' personal information. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, SmileDirectClub cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk. 
+  * directly from you when you provide it to us;
+  * automatically as you navigate through the Website or use the Application. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies; and
+  * From third parties, for example, your health and dental providers and our business partners.
 
-### What Are Cookies and How Does This Site Use Them
 
-We may use cookies to collect or log certain information. A cookie is a small piece of information that a Site stores on a personal computer and which it can later retrieve. We may use cookies for some administrative purposes, for example, to store our customers' preferences for certain kinds of products or to store a password so that you do not have to input it every time you visit our Site. The cookies will not contain personal information that will enable anyone to contact our customers via telephone, email, or other means. This information will not be sold or shared with any third party not contracted with SmileDirectClub. If our customers are uncomfortable with the use of cookie technology, they can set their browsers to refuse cookies. Certain services, however, could be dependent on cookies and our customers may disable those services by refusing cookies. 
 
-### Links to Third-Party Sites
+### Information You Provide to Us
 
-The Site may contain links to third-party sites. Please be aware, however, that SmileDirectClub is not responsible for and cannot control the privacy policies of these other sites or their practices. We encourage you to read the privacy policies for these other sites, as they may differ from ours. This Site may also contain links to sites that display SmileDirectClub branding and/or SmileDirectClub's logo but which are maintained by third parties. Such websites are identified as third party sites by the website address or URL because they do not display a SmileDirectClub.com URL. Please read the privacy policy on these sites for applicable privacy practices relating to personal information collected via the sites because they may differ from the Site's privacy practices. This Privacy Policy applies solely to information collected by SmileDirectClub via the Site. 
+The information and data we collect on or through our Website and Application are:
 
-### Contact Preferences and Accessing Your Personal Information
+  * information that you provide by filling in forms on our Website and Application. This includes information provided at the time of registering to use our Website or Application, subscribing to our service, posting material, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, or during a study you consent to participate in, and when you report a problem with our Website or Application;
+  * records and copies of your correspondence (including email addresses), if you contact us;
+  * your responses to surveys that we might ask you to complete for research purposes; an
+  * details of transactions you carry out through our Application and Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website or our Application.
 
-You have choices when it comes to how SmileDirectClub uses your personal information. When you register online with or purchase items from the Site or otherwise provide your email address to us, you are automatically signed up to receive information about merchandise, services and special promotional offers from us by email and/or direct mail. If you do not wish to receive such product marketing information, please contact us by email or direct mail to unsubscribe at support@SmileDirectClub.com or SmileDirectClub, 414 Union Street, Suite 800, Nashville, TN 37219. If you elect not to receive such product marketing information, SmileDirectClub may continue to contact you as necessary to service your account and process your transactions and requests. 
 
-### This Privacy and Security Policy Applies to U.S. Customers
 
-The Site is hosted in the United States and is intended for U.S. visitors. This Privacy Policy applies to residents of the United States. Parts of this Privacy Policy may not apply to visitors outside the United States. If you are a non-U.S. visitor to our Site, by visiting our Site and providing us with data, you acknowledge, agree and provide your consent that your personal information may be processed in the United States for the purposes identified in this Privacy Policy. In addition, such data may be stored on servers located outside your resident jurisdiction, which may have less stringent privacy practices than your own and that email communications directly between you and SmileDirectClub may not be secure. By using this Site and providing us with your data, you consent to the transfer of such data. 
+The Personal Data we collect from you is collected with your consent and required for us to provide you with our products and services and to facilitate communication between you and your licensed dental provider. You may withdraw your consent at any time by terminating your membership with us; however, we may no longer be able to provide you with our goods and services if you do.
 
-### Mergers, Acquisitions and Bankruptcy
+You also may provide information to be published or displayed (hereinafter, **“posted”** ) on public areas of the Website and Application or transmitted to other users of the Website or third parties (collectively, **“User Contributions”** ). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website or Application with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-If SmileDirectClub should ever file for bankruptcy or merge with another company, or if SmileDirectClub should decide to buy another business, or sell or reorganize part or all of SmileDirectClub's business, SmileDirectClub may be required to disclose your personal information to prospective or actual purchasers and other parties. It is SmileDirectClub's practice to obtain appropriate confidentiality protections for information disclosed in these types of transactions. 
+### Information We Collect Through Automatic Data Collection Technologies
 
-### SmileDirectClub.com is Not For Use by Children
+As you navigate through and interact with our Application and Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, such as:
 
-The Site is not intended for use by minor children (under the age of 18). Parents and guardians should monitor the use of the Site by minor children. Children under age 13 should not use the Site at all. If a child under age 13 submits information through any part of the Site, and SmileDirectClub becomes aware that the person submitting the information is under age 13, we will attempt to delete the information as soon as possible. 
+  * details of your visits to our Website or use of our Application, such as traffic data, location data, logs, referring/exit pages, date and time of your visit to our Website or use of our Application, error information, clickstream data, and other communication data and the resources that you access and use on the Website or in the Application; and
+  * information about your computer and internet connection, such as your IP address, operating system, and browser type.
 
-### Questions or Comments
 
-SmileDirectClub is committed to a quality customer experience. If you have questions or comments about this Privacy Policy, you can contact us by sending us an email or contacting our Customer Care department at support@SmileDirectClub.com or writing to us at: Attn: SmileDirectClub, 414 Union Street, Suite 800, Nashville, TN 37219. 
 
-##### Last Revised: December 2016
+The information we collect automatically may include Personal Data or we may maintain it or associate it with Personal Data we collect in other ways or receive from third parties. It helps us to improve our Website and Application and to deliver a better and more personalized service by enabling us to:
+
+  * estimate our audience size and usage patterns;
+  * store information about your preferences, allowing us to customize our Website and Application according to your individual interests;
+  * speed up your searches; and
+  * recognize you when you return to our Website or Application.
+
+
+
+Details about the automated data collection technologies and the specific cookies that we use can be found in our Cookie Policy.
+
+### Health Information
+
+We may process some Personal Data considered sensitive when necessary to carry out our obligations to you.
+
+Some Personal Data processed by SmileDirectClub may be considered sensitive, including Personal Data concerning your health. SmileDirectClub processes this information only to the extent necessary to carry out its obligations to your licensed dental care provider and you, and to provide your licensed dental provider and you with our goods and services.
+
+### How We Use Your Information
+
+We use your Personal Data for various purposes described below, including to:
+
+  * provide our Application and Website to you;
+  * provide you with information you request from us;
+  * enforce our rights arising from contracts;
+  * notify you about changes; and
+  * provide you with notices about your account.
+
+
+
+We use information that we collect or receive about you or that you provide to us, including any Personal Data:
+
+  * to present our Website and Application and their contents to you;
+  * to provide your licensed dental provider and you with information, products, or services that your provider or you request from us;
+  * to fulfill any other lawful purpose for which you provide it;
+  * to provide you with notices about your membership, including expiration and renewal notices;
+  * to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
+  * to notify you about changes to our Website or Application or any products or services we offer or provide though them;
+  * to allow you to participate in interactive features on our Website and Application;
+  * in any other way we may describe when you provide the information; and
+  * for any other purpose with your consent.
+
+
+
+We may also use your information to contact you through about and/or to promote and market our own goods and services that may be of interest to you. With your consent, we may also use your information to contact you through text and voice messages about and/or to promote and market these goods and services. If you wish to opt-out of such emails, you may do so by clicking the unsubscribe link in emails that we send you. You may also unsubscribe or change your choice regarding email, voice, and text communications by sending a written request to Customer Care C/O SmileDirectClub, LLC, 414 Union Street, 8th Floor, Nashville, TN 37219, or emailing us [_atsupport@smiledirectclub.com_](mailto:%20atsupport@smiledirectclub.com), or calling us at (800) 848-7566.The treatment you receive from your licensed dental provider is not conditioned on your consent to receive promotional and/or marketing communications.
+
+### Disclosure of Your Information
+
+We do not share, sell, or otherwise disclose your Personal Data for purposes other than those outlined in this Privacy Policy. We disclose your Personal Data to a few third parties, including:
+
+  * Your licensed dental provider;
+  * our subsidiaries and affiliates;
+  * our third-party service providers, subcontractors, and business associates we use to support our business;
+  * to any company we might merge with or acquire, or that buys us, or in the event of change in structure of our company of any form;
+  * to comply with our legal obligations;
+  * to enforce our rights; and
+  * with your consent.
+
+
+
+We do not share, sell, or otherwise disclose your Personal Data for purposes other than those outlined in this Privacy Policy. However, we may disclose without restriction aggregated information about our users and information that does not identify any individual.
+
+We may disclose Personal Data that we collect or that you provide as described in this privacy policy:
+
+  * to your dental care provider;
+  * to our subsidiaries and affiliates;
+  * to contractors, service providers, subcontractors, and business associates, and other third parties we use to support our business;
+  * to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of SmileDirectClub, LLC’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by SmileDirectClub, LLC about our Website’s and Application’s users is among the assets transferred;
+  * to fulfill the purpose for which you provide it;
+  * for any other purpose disclosed by us when you provide the information; or
+  * with your consent.
+
+
+
+We may also disclose your Personal Data:
+
+  * to comply with any court order, law, or legal process, including to respond to any government or regulatory request;
+  * to enforce or apply our [Terms of Use](https://smiledirectclub.com/terms/), our Application’s End User License Agreement, and other agreements, including for billing and collection purposes; and
+  * if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of you, your licensed provider and/or her/his staff, SmileDirectClub, LLC, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+### Choices About How We Use and Disclose Your Information
+
+We offer you choices on how you can opt out of our use of tracking technology, disclosure of your Personal Data for third-parties to market or advertise to you, our marketing or advertising to you, and other targeted marketing and advertising.
+
+We do not control the collection and use of your information collected by third parties. When possible, these organizations are under contractual obligations (including through the use of Business Associate Agreements) to maintain appropriate safeguards and protections, to use this data only for providing the services to us, and to maintain this information strictly confidential. These third parties may, however, aggregate the information they collect with information from their other customers for their own purposes.
+
+In addition, we strive to provide you with choices regarding the Personal Data you provide to us. We will only use your contact information to promote or market our own products and services through voice and text messages with your express consent. If you wish to consent to such use, you can check the relevant box located on the form on which we collect your Personal Data or otherwise seek such consent. If you wish to change your choice, you may do so at any time by logging into the Website or Application and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending a written request to Customer Care C/O SmileDirectClub, LLC, 414 Union Street, 8th Floor, Nashville, TN 37219, or emailing us at [_support@smiledirectclub.com_](mailto:%20support@smiledirectclub.com), or calling us at (800) 848-7566. We may also use your contact information to promote or market our products and services through email. If we have sent you a marketing or promotional email, you may click the unsubscribe link to be omitted from future email distributions. This opt out does not apply to information provided to SmileDirectClub as a result of a product purchase, your membership, product service experience or other transactions. Your aligner therapy treatment is not conditioned on your consent to receive marketing or promotional communications.
+
+### Accessing and Updating Your Personal Data
+
+You may access and update your Personal Data at any time.
+
+You can review and change your Personal Data by logging into the Website or Application and visiting your account profile page. You may also notify us through the Contact Information (located in section 13 of this Privacy Policy) of any changes or errors in any Personal Data we have about you to ensure that it is complete, accurate, and as current as possible. We may not be able to accommodate your request if we believe it would violate any law or legal requirement or cause the information to be incorrect.
+
+### Your California Privacy Rights
+
+If you use our Website or Application when you are under the age of 18, you may request that we remove your User Contributions under certain circumstances. We do not advertise or market any goods and services that are identified as being inappropriate for children under the age of 18.
+
+California law permits minors under the age of 18 to request the removal of her/his User Contributions, subject to certain exceptions. If you are under the age of 18 and living in California, you may contact us by sending a written request to Customer Care C/O SmileDirectClub, LLC, 414 Union Street, 8th Floor, Nashville, TN 37219, or emailing us at support@smiledirectclub.com, or calling us at (800) 848-7566 (if you contact us in writing, via email, please use the subject “California Eraser Law Request”). We may not remove your User Contributions that we are required to retain under any federal or state law, or that have been provided to a third party. While we will do our best to remove a minor’s information upon a valid request, we cannot ensure the complete or comprehensive removal of your User Contributions from our Website or Application, or any information that has been republished, copied, downloaded, or reposted by any third party, and we cannot guarantee that any such information may not be accessible to users of the Internet in the future. We do not advertise or market any of the products or services identified in California Business and Professionals Code Section 22580(i) to users who we have actual knowledge are under 18 years of age.
+
+### Do Not Track Signals
+
+We may use automated data collection technologies to track you across websites. We currently do not honor do-not-track signals that may be sent by some browsers.
+
+We also may use automated data collection technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). Some web browsers permit you to broadcast a signal to websites and online services indicating a preference that they “do not track” your online activities. At this time, we do not honor such signals and we do not modify what information we collect or how we use that information based upon whether such a signal is broadcast or received by us.
+
+### Data Security
+
+Information transmitted over the Internet is not completely secure, but we do our best to protect your Personal Data. You can help protect your Personal Data and other information by keeping your password to our Application and Website confidential.
+
+We have implemented measures designed to secure your Personal Data from accidental loss and from unauthorized access, use, alteration, and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions and health information will be encrypted when being communicated between us and you.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website or the Application, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information on the Website or in Application like message boards and other areas where you may post photographs, videos or other content. The information you share in public areas may be viewed by any user of the Website or Application.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your Personal Data, we cannot guarantee the security of your Personal Data transmitted to or from our Application or Website. Any transmission of Personal Data is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website, the Application, or the operating system of your computer or mobile device.
+
+### Changes to Our Privacy Policy
+
+We will post any changes to our Privacy Policy on our Website or in the Application. If we make material changes to our Privacy Policy, we may notify you of such changes through your contact information and invite you to review (and accept, if necessary) the changes.
+
+We may change this Privacy Policy at any time. It is our policy to post any changes we make to our Privacy Policy on this page with a notice that the Privacy Policy has been updated on the Website’s or Application’s home page/screen. If we make material changes to how we treat our users’ Personal Data, we will provide notification through a notice on the Website’s or Application’s home page/screen. The date this Privacy Policy was last revised is identified at the top of the page. You are responsible for periodically visiting our Website or the Application and this Privacy Policy to check for any changes.
+
+### Contact Information
+
+You may contact us through the contact information below. If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy, have any requests related to your Personal Data, or otherwise need to contact us, you may do so at: SmileDirectClub414 Union Street 8th Floor Nashville, TN 37219 [_support@smiledirectclub.com_](mailto:%20support@smiledirectclub.com) (800) 848-7566.
+
+#####  Last Revised: June 2019
