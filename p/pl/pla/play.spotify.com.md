@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.spotify.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229043847id_/https%3A//www.spotify.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.spotify.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630000906id_/https%3A//www.spotify.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -41,7 +41,7 @@ The aim of this Policy is to:
 > 
 
 
-We hope this helps you to understand our privacy commitments to you. For further clarification of the terms used in this Policy please visit our [Privacy Center](https://www.spotify.com/privacy/) on spotify.com. For information on how to contact us if you ever have any questions or concerns, please see the ‘How to Contact Us’ Section 14 below. Alternatively, if you do not agree with the content of this Policy, then please remember it is your choice whether you want to use the Spotify Service.
+We hope this helps you to understand our privacy commitments to you. For further clarification of the terms used in this Policy please visit our [Privacy Center](https://www.spotify.com/privacy/plain) on spotify.com. For information on how to contact us if you ever have any questions or concerns, please see the ‘How to Contact Us’ Section 14 below. Alternatively, if you do not agree with the content of this Policy, then please remember it is your choice whether you want to use the Spotify Service.
 
 ## 3\. Your rights and your preferences: Giving you choice and control
 
@@ -61,7 +61,7 @@ You may be aware that a new European Union law, called the General Data Protecti
 
 In order to enable you to exercise these rights with ease and to record your preferences in relation to how Spotify uses your personal data, we provide you with access to the following settings via your Account Settings page:
 
-  * **_Privacy Settings_** \- allows you to control some of the categories of personal data we process about you, enables you to access your personal data via a ‘Download my Data’ button, and includes a link to the [Privacy Center](https://www.spotify.com/privacy/) on spotify.com where you can find out more information about how Spotify uses your personal data and what your rights are; and,
+  * **_Privacy Settings_** \- allows you to control some of the categories of personal data we process about you, enables you to access your personal data via a ‘Download my Data’ button, and includes a link to the [Privacy Center](https://www.spotify.com/privacy/plain) on spotify.com where you can find out more information about how Spotify uses your personal data and what your rights are; and,
   * **_Notification Settings_** \- allows you to choose which communications you receive from Spotify, manage your publicly available personal data, and set your sharing preferences.
 
 
@@ -150,7 +150,7 @@ If you choose to pay by invoice, we will provide your personal data to our payme
 
 
   
-You can find out more about the personal data collected and the controls you have in relation to the marketing communications you receive via the [Privacy Center](https://www.spotify.com/privacy/)  
+You can find out more about the personal data collected and the controls you have in relation to the marketing communications you receive via the [Privacy Center](https://www.spotify.com/privacy/plain)  
   
 ##  6\. What do we use your personal data for?
 
@@ -284,7 +284,7 @@ For example, when you make playlists, you might want those playlists to be visib
   
 **Artists and Record Labels** |  You can ask us to share personal data (like your email address) with artists or record labels, or other partners who may want to directly send you news or promotional offers, but you can also revoke that consent at any time.   
   
-Learn more about how to manage notifications, your publicly available information, and what you share with others in the ‘Your rights and your preferences: Giving you choice and control’ Section 3 of this Policy and on the [Privacy Center](https://www.spotify.com/privacy/).
+Learn more about how to manage notifications, your publicly available information, and what you share with others in the ‘Your rights and your preferences: Giving you choice and control’ Section 3 of this Policy and on the [Privacy Center](https://www.spotify.com/privacy/plain).
 
 **_Information we may share_**
 
@@ -341,7 +341,7 @@ The Spotify Service is not directed to children under the age of 13 years. Howev
 
 We do not knowingly collect personal data from children under 13 years or under the applicable age limit (the “Age Limit”). If you are under the Age Limit, please do not use the Spotify Service, and do not provide any personal data to us.
 
-If you are a parent of a child under the Age Limit and become aware that your child has provided personal data to Spotify, please contact us using the ‘Contact Us’ form on the [Privacy Center](https://www.spotify.com/privacy/), and you may request exercise of your applicable rights detailed in the ‘Your rights and your preferences: Giving you choice and control’ Section 3 of this Policy.
+If you are a parent of a child under the Age Limit and become aware that your child has provided personal data to Spotify, please contact us using the ‘Contact Us’ form on the [Privacy Center](https://www.spotify.com/privacy/plain), and you may request exercise of your applicable rights detailed in the ‘Your rights and your preferences: Giving you choice and control’ Section 3 of this Policy.
 
 If we learn that we have collected the personal data of a child under the age of 13 years, we will take reasonable steps to delete the personal data. This may require us to delete the Spotify account for that child.
 
@@ -353,11 +353,11 @@ When we make material changes to this Policy, we’ll provide you with prominent
 
 Please, therefore, make sure you read any such notice carefully.
 
-If you want to find out more about this Policy and how Spotify uses your personal data, please visit the [Privacy Center](https://www.spotify.com/privacy/) on spotify.com to find out more.
+If you want to find out more about this Policy and how Spotify uses your personal data, please visit the [Privacy Center](https://www.spotify.com/privacy/plain) on spotify.com to find out more.
 
 ## 14\. How to contact us
 
-Thank you for reading our Privacy Policy. If you have any questions about this Policy, please contact our Data Protection Officer by using the ‘Contact Us’ form on the [Privacy Center](https://www.spotify.com/privacy/) or by writing to us at the following address:
+Thank you for reading our Privacy Policy. If you have any questions about this Policy, please contact our Data Protection Officer by using the ‘Contact Us’ form on the [Privacy Center](https://www.spotify.com/privacy/plain) or by writing to us at the following address:
 
 Spotify USA Inc.  
 45 W 18th Street, Floor 7  
