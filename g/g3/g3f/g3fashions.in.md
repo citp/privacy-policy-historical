@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g3fashions.in privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026075915id_/http%3A//g3fashion.com/en-in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g3fashions.in privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629181605id_/https%3A//g3fashion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | G3 Fashion is the Best Place to Shop Online Indian Ethnic Wear for All
 
