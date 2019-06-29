@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the makeuseof.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220173859id_/https%3A//www.makeuseof.com/legal/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeuseof.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629211312id_/https%3A//www.makeuseof.com/legal/%23privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Affiliate Disclaimer
 
 ## Privacy Policy
 
+If you’d like to withdraw consent and adjust your privacy options, click here to open the consent management window again.
+
 Thank you for reading _makeuseof.com_.
 
 Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-On our website, we run several third-party services and use cookies to optimise your browsing experience. 
+On our website, we run several third-party services and use cookies to optimise your browsing experience.
 
 **Cookies**  
 Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
@@ -17,7 +19,7 @@ We use cookies to understand and save user’s preferences for future visits.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-If you turn cookies off, some of the features that make your site experience more efficient may not function properly. 
+If you turn cookies off, some of the features that make your site experience more efficient may not function properly.
 
 **Google Analytics**  
 We use Google Analytics to track and analyze our web traffic. **We do not have access to the information collected by Google** apart from what is displayed in our Google Analytics portal.
@@ -30,7 +32,7 @@ We have implemented the following data collection features in Google Analytics:
 
 2\. Advertising Reporting Features
 
-> Enables Advertising Reporting features like Audience Demographics and Interests Reporting, DoubleClick Campaign Manager reporting, DoubleClick Bid Manager reporting, and Google Display Network Impression Reporting that help you better understand your users. 
+> Enables Advertising Reporting features like Audience Demographics and Interests Reporting, DoubleClick Campaign Manager reporting, DoubleClick Bid Manager reporting, and Google Display Network Impression Reporting that help you better understand your users.
 
 The information collected by Google may be linked to your Google account if you’re signed in. Google may also collect information relating to your:
 
@@ -50,7 +52,7 @@ We display advertisement powered by Google Adsense. Google Adsense uses the info
 You may choose to opt out of personalised advertisements by disabling cookies.
 
 **Parse.ly**  
-We use Parse.ly to keep track of our web traffic statistics. All data collected by Parse.ly are anonymized. 
+We use Parse.ly to keep track of our web traffic statistics. All data collected by Parse.ly are anonymized.
 
 > All the data that we do collect is de-identified. For example, our repeat visitor analytics is based on anonymous, randomized universally unique identifiers (aka UUIDs) that are stored on a per-site basis, and are not linked with any personally identifiable information. Further, the automatic collection of some web browser data, such as IP Addresses and Third-Party Cookies, can be explicitly disabled by customers
 
@@ -70,9 +72,9 @@ If you choose to comment on our site, you will be asked to provide a name and em
 
 ### Email/newsletter
 
-When subscribing to our email newsletter, you may be asked to enter your name and/or email address or other details to help you with your experience. 
+When subscribing to our email newsletter, you may be asked to enter your name and/or email address or other details to help you with your experience.
 
-As a newsletter subscriber, we keep a record of your IP address, the emails you open, and the links you click within those emails, so that we can more accurately recommend content, occasional third party offers and products that you might find valuable. 
+As a newsletter subscriber, we keep a record of your IP address, the emails you open, and the links you click within those emails, so that we can more accurately recommend content, occasional third party offers and products that you might find valuable.
 
 Any personal information you provide to us, including and similar to your name and e-mail address will not be released, sold, or rented to any entities or individuals outside of _makeuseof.com_. However, if you participate in a competition, your email address might be provided to the relevant vendor for registration/activation and ongoing support purposes.
 
@@ -81,9 +83,9 @@ We will **never** ask for credit card details and request that you do not enter 
 **To remove your data from our email server, simply unsubscribe through any one of our emails.**
 
 **Advertising in emails**  
-We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. 
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services.
 
-No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. 
+No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form.
 
 To opt-out of these cookies or learn more please go to <http://www.networkadvertising.org/managing/opt_out.asp>.
 
@@ -96,7 +98,7 @@ None of the data provided to us in obliviate will be shared with third parties.
 
 obliviate will request permission to access your contact list in order to identify other obliviate users and allow you to establish connections with them. We will not use your contact list information for any other purpose.
 
-obliviate will record your public IP address for logging purposes. We store the last two IP addresses used. 
+obliviate will record your public IP address for logging purposes. We store the last two IP addresses used.
 
 obliviate will request permission to access your personal media, including but not limited to the photo gallery, camera, and microphone. This is required for the purposes of attaching media to messages within the app. We do not store your personal media on our servers and will not use them for any other purpose.
 
@@ -107,7 +109,7 @@ None of the data provided to us in NeedHave will be shared with third parties.
 
 NeedHave will request permission to access your contact list in order to identify other NeedHave users and allow you to establish connections with them. We will not use your contact list information for any other purpose.
 
-NeedHave will record your public IP address for logging purposes. We store the last two IP addresses used. 
+NeedHave will record your public IP address for logging purposes. We store the last two IP addresses used.
 
 NeedHave will request permission to access your personal media, including but not limited to the photo gallery, camera, and microphone. This is required for the purposes of attaching media to listings within the app. We will not use them for any other purpose.
 
@@ -211,7 +213,7 @@ Some of our Best Of lists also contain affiliate links. Notable ones include our
 
 And now, some legal stuff:
 
-Disclosure of Material Connection: Some of the links on MakeUseOf.com are “affiliate links.” This means if you click on the link and purchase the item, we will receive an affiliate commission. Regardless, we only recommend products or services we believe will add value to our readers. We also receive compensation for sponsored posts and emails.We are disclosing this in accordance with the Federal Trade Commission’s [16 CFR, Part 255](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html): “Guides Concerning the Use of Endorsements and Testimonials in Advertising.”
+Disclosure of Material Connection: Some of the links on MakeUseOf.com are “affiliate links.” This means if you click on the link and purchase the item, we will receive an affiliate commission. Regardless, we only recommend products or services we believe will add value to our readers. We also receive compensation for sponsored posts and emails.We are disclosing this in accordance with the Federal Trade Commission’s [16 CFR, Part 255](https://www.ftc.gov/policy/federal-register-notices/guides-concerning-use-testimonials-advertising-16-cfr-part-255): “Guides Concerning the Use of Endorsements and Testimonials in Advertising.”
 
 ### A quick word regarding sponsored articles, manuals and giveaways
 
