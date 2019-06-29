@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tvfcu.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805153359id_/http%3A//tvfcu.com/r/documents/TVFCU_Privacy_Policy_12-31-2014.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvfcu.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629043826id_/https%3A//www.tvfcu.com/custom/fi/tennesseevalleyfcu/fb/disclosure/privacy-policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                     Rev. 12/31/2014
+                                                                                                     Rev. 12/31/2018
                             WHAT DOES TENNESSEE VALLEY FEDERAL CREDIT UNION
 FACTS                       DO WITH YOUR PERSONAL INFORMATION?
 Why?                        Financial companies choose how they share your personal information. Federal law
@@ -46,7 +46,7 @@ our sharing                 Please Note:
 Questions?                  Call (423) 634-3600 or toll free (800) 634-3600.
 
 
-                                                                                                 Rev. 12/31/2014
+                                                                                                 Rev. 12/31/2018
 Page 2
 Who we are
 Who is providing this notice?      Tennessee Valley Federal Credit Union (TVFCU)
