@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230052634id_/https%3A//www.medicalnewstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629192208id_/https%3A//www.medicalnewstoday.com/privacy-policy) for the most accurate reproduction.*
 
 # MNT - ONLINE Privacy Policy
 
-Effective Date: 07/31/2018
+Effective Date: 06/27/2019
 
 Healthline is committed to being your most trusted ally in your pursuit of health and well-being. Whether you’re here to learn more about a health condition, research a medication, tap into one of our communities, or get tips for a healthier lifestyle, you’re in the right place. Behind all our content is a compassionate team of professionals who genuinely care about the health of you and your loved ones.
 
@@ -24,7 +24,7 @@ Table of Contents
     * U.S. Website Users
       * Opt-Out of Marketing Communications
       * Your California Privacy Rights
-      * [CA Eraser law](https://web.archive.org/web/20181230052634id_/https%3A//www.medicalnewstoday.com/ca-eraser-law)
+      * [CA Eraser law](https://web.archive.org/web/20190629192208id_/https%3A//www.medicalnewstoday.com/ca-eraser-law)
     * Non-U.S. Website Users
       * Rights Requests
     * Your Choice
@@ -168,7 +168,7 @@ The security of your personal information is important to us. We follow generall
 We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **Children’s Privacy**  
-We do not knowingly collect, maintain, or use Personal Information from our Website about children under the age of 13. We request that persons under the age of 13 not use our Website. We will never request Personal Information from a child under the age of 13. If we become aware that a child under the age of 13 has sent Personal Information to us, we will remove his or her Personal Information from our files.
+We do not knowingly collect, maintain, or use Personal Information from our Website about children under the age of 18. We request that persons under the age of 18 not use our Website. We will never request Personal Information from a child under the age of 18. If we become aware that a child under the age of 18 has sent Personal Information to us, we will remove his or her Personal Information from our files.
 
 ## WEBSITE LOCATION, US TRANSFER & PROCESSING
 
