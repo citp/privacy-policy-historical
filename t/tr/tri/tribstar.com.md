@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribstar.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821172141id_/http%3A//www.tribstar.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribstar.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629114928id_/https%3A//www.tribstar.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | tribstar.com
 
@@ -78,15 +78,14 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
 
-[ ](http://tribstar.com/bingo)
+[ ](http://tribstar.com/cutestkids)
 
-  * [ GIRTON, James Mar 30, 1941 - Aug 20, 2018](http://obituaries.tribstar.com/obituary/james-girton-1941-2018-1067641907)
-  * [ GINDELE, Albert Dec 18, 1924 - Aug 16, 2018](http://obituaries.tribstar.com/obituary/albert-gindele-1924-2018-1067641035)
-  * [ SEWARD JR., Alphus Jan 27, 1946 - Aug 14, 2018](http://obituaries.tribstar.com/obituary/alphus-seward-jr-1946-2018-1067640913)
-  * [ SHAW, Lewis Jan 5, 1925 - Aug 18, 2018](http://obituaries.tribstar.com/obituary/lewis-shaw-1925-2018-1067617405)
-  * [ DAVIS JR., Woodrow Dec 12, 1946 - Aug 17, 2018](http://obituaries.tribstar.com/obituary/woodrow-davis-jr-1946-2018-1067605215)
-  * [ GRISSEN, Kenneth Dec 10, 1947 - Aug 14, 2018](http://obituaries.tribstar.com/obituary/kenneth-grissen-1947-2018-1067605165)
-  * [ PAGE, Arnold Oct 10, 1924 - Aug 17, 2018](http://obituaries.tribstar.com/obituary/arnold-page-1924-2018-1067605106)
-  * [ TAYLOR, Wilbur Aug 8, 1936 - Aug 16, 2018](http://obituaries.tribstar.com/obituary/wilbur-taylor-1936-2018-1067590963)
+[ ](http://www.tribstar.com/isu40thanniversary)
 
+[ ](http://www.tribstar.com/promo)
 
+TERRE HAUTE [mdash] Margaret June Woodsmall, 91, of Terre Haute, died Thursday, June 27, 2019, surrounded by her family. June was born on May 17, 1928, to the late Robert and Lavina Easton. She was a graduate of Honey Creek High School. June was a spitfire, an independent woman who was never…
+
+MARSHALL, Ill. [mdash] Eldeana M. Lashbrook, 95, of Marshall, IL, passed away Tuesday, June 25, 2019, in the Burnsides Community Care Center at Marshall. Eldeana was born Sept. 8, 1923, at French Lick, IN, the daughter of Wallace and Pearl Nicholson Hayes. She was married to Walter Kell Lash…
+
+TERRE HAUTE [mdash] James Nolan Porter passed away in his home. He was a veteran of the U.S. Army, serving during Vietnam. He is survived by his wife, Lynn M. Shumate Porter. Memorial services scheduled for a later date. 
