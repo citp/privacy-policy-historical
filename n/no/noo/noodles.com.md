@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012230126id_/https%3A//www.noodles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629075350id_/https%3A//www.noodles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Noodles World Kitchen
 
