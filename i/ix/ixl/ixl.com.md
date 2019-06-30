@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixl.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227213713id_/https%3A//www.ixl.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixl.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212849id_/https%3A//www.ixl.com/privacypolicy) for the most accurate reproduction.*
 
 # IXL - Privacy Policy
 
@@ -7,10 +7,6 @@ IXL Privacy Policy
 **Effective date:** May 25, 2018
 
 The following policies can be viewed on this page:
-
-[ ](https://studentprivacypledge.org/?page_id=45)
-
-IXL Learning, Inc. supports the Student Privacy Pledge to safeguard student privacy.
 
 IXL Learning, Inc. (hereafter called "IXL" "us" or "we") knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy describes our collection and use of personal information collected from you through the online and/or mobile services, websites, and software provided on or in connection with www.ixl.com (collectively, the "Service"), which are offered through (i) www.ixl.com, (ii) mobile applications associated with www.ixl.com, and (iii) any other IXL website, app or online service which links to this Privacy Policy. "You" or "your" means a visitor or a user (whether signed in or not) of our Service. Your use of the Service is conditioned on your acceptance of this policy.
 
