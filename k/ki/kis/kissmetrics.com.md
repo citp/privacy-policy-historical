@@ -1,172 +1,258 @@
-> *The following text is extracted and transformed from the kissmetrics.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629100210id_/https%3A//www.kissmetrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissmetrics.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233433id_/https%3A//neilpatel.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Kissmetrics
+# Privacy Policy
 
-  
+I’m Kind of a Big Deal, LLC is committed to safeguarding your privacy. Contact us at [neil@neilpatel.com](mailto:neil@neilpatel.com)[](mailto:) if you have any questions or problems regarding the use of your Personal Data and we will gladly assist you.
+
+By using this site or/and our services, you consent to the Processing of your Personal Data as described in this Privacy Policy.
+
+## Table of Contents
+
+  1. Definitions used in this Policy
+  2. Data protection principles we follow
+  3. What rights do you have regarding your Personal Data
+  4. What Personal Data we gather about you
+  5. How we use your Personal Data
+  6. Who else has access to your Personal Data
+  7. How we secure your data
+  8. Information about cookies
+  9. Contact information
 
 
-#### Effective Date: September 26, 2016
 
-As used in this “Privacy Policy”, “Kissmetrics” refers to all websites (including [https://www.kissmetrics.com](https://www.kissmetrics.com/) and [http://blog.kissmetrics.com](http://blog.kissmetrics.com/ "Blog")), properties, and services owned or operated by Space Pencil, Inc., aka Kissmetrics. 
+**Personal Data**  – any information relating to an identified or identifiable natural person.  
+**Processing**  – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.  
+**Data subject**  – a natural person whose Personal Data is being Processed.  
+**Child** – a natural person under 16 years of age.  
+**We/us** (either capitalized or not) – I’m Kind of a Big Deal, LLC
 
-This Privacy Policy is part of [Kissmetrics’ Terms of Use](https://web.archive.org/terms) and describes the privacy practices of Kissmetrics. It explains when and how Kissmetrics collects end user and client information, including Personally Identifiable Information (defined below), how we use such information, and the circumstances under which we may disclose such information to others. This Privacy Policy includes the policies that Kissmetrics observes for compliance with laws in the United States as well as other applicable laws, including those followed regarding the transfer of Personally Identifiable Information from the European Economic Area (“EEA”) and/or Switzerland to the United States under the U.S. – EU Privacy Shield and U.S. – Swiss Safe Harbor, respectively (collectively, the “Safe Harbor and Privacy Shield”). 
+We promise to follow the following data protection principles:
 
-By visiting the Kissmetrics website, visiting a Kissmetrics client website that provides notice of its use of Kissmetrics and/or this policy, or registering for our service, you acknowledge that you accept and consent to the practices outlined in this Privacy Policy. 
+  * Processing is lawful, fair, transparent. Our Processing activities have lawful grounds. We always consider your rights before Processing Personal Data. We will provide you information regarding Processing upon request.
+  * Processing is limited to the purpose. Our Processing activities fit the purpose for which Personal Data was gathered.
+  * Processing is done with minimal data. We only gather and Process the minimal amount of Personal Data required for any purpose.
+  * Processing is limited with a time period. We will not store your personal data for longer than needed.
+  * We will do our best to ensure the accuracy of data.
+  * We will do our best to ensure the integrity and confidentiality of data.
 
-### What Types of User Information Does Kissmetrics Obtain?
 
-_Visitors to the Kissmetrics Website._ If you are a visitor to the Kissmetrics website or a Kissmetrics client (“Client”) who registers or signs into the Kissmetrics website (including for purposes of obtaining a free trial of Kissmetrics’ services), we may obtain the following types of information from you or concerning your computer or device (“Kissmetrics Client Information”), which may include information that can itself be used to identify and/or contact you (“Personally Identifiable Information”): 
+
+The Data Subject has the following rights:
+
+  1. Right to information – meaning you have to right to know whether your Personal Data is being processed; what data is gathered, from where it is obtained and why and by whom it is processed.
+  2. Right to access – meaning you have the right to access the data collected from/about you. This includes your right to request and obtain a copy of your Personal Data gathered.
+  3. Right to rectification – meaning you have the right to request rectification or erasure of your Personal Data that is inaccurate or incomplete.
+  4. Right to erasure – meaning in certain circumstances you can request for your Personal Data to be erased from our records.
+  5. Right to restrict processing – meaning where certain conditions apply, you have the right to restrict the Processing of your Personal Data.
+  6. Right to object to processing – meaning in certain cases you have the right to object to Processing of your Personal Data, for example in the case of direct marketing.
+  7. Right to object to automated Processing – meaning you have the right to object to automated Processing, including profiling; and not to be subject to a decision based solely on automated Processing. This right you can exercise whenever there is an outcome of the profiling that produces legal effects concerning or significantly affecting you.
+  8. Right to data portability – you have the right to obtain your Personal Data in a machine-readable format or if it is feasible, as a direct transfer from one Processor to another.
+  9. Right to lodge a complaint – in the event that we refuse your request under the Rights of Access, we will provide you with a reason as to why. If you are not satisfied with the way your request has been handled please contact us.
+  10. Right for the help of supervisory authority – meaning you have the right for the help of a supervisory authority and the right for other legal remedies such as claiming damages.
+  11. Right to withdraw consent – you have the right withdraw any given consent for Processing of your Personal Data.
+
+
+
+**Information you have provided us with**
+
+I’m Kind of a Big Deal may obtain the following types of information from you or concerning your computer or device (“Information”), which may include information that can be used to identify you as specified below (“Personally Identifiable Information”):
 
   * Name
-  * Email address
-  * Phone number
-  * Website name and URL
-  * Credit card number
-  * Billing address
-  * Visitor site preferences
+  * Email Address
+  * Mailing Address
+  * Telephone Number(s)
+  * Credit Card Information
+  * Blog or Website URL
+  * Social Networking Handle or Username
+  * Photo
+  * Demographic Information (e.g., age, gender, interests, and preferences)
+  * Professional Title
+  * Company
+  * Industry
+  * Activities or Content Viewed on I’m Kind of a Big Deal
+  * Information Collected Automatically ( [detailed below](https://neilpatel.com/privacy/#information-collected-automatically) )
+  * Information Received from Third Parties ( [detailed below](https://neilpatel.com/privacy/#information-received-from-third-parities) )
 
 
 
-Kissmetrics may also receive certain information that may be provided by your browser or mobile device, including: 
+In certain cases, we may request that you provide some of the Information identified above in order to obtain specific products or services (such as registering for the Advanced Marketing Program or logging in to download NeilPatel.com reports). If you choose not to provide the Information we request, you may still use NeilPatel.com, but you may be unable to access certain features or services.
 
-  * Browser information
-  * Operating system information
-  * Mobile device information (e.g., device identifier, mobile operating system, etc.)
-  * IP address
-  * Pages accessed
-  * Time of visit
-  * Time of last visit
-  * Referring site, application, or service, including the relevant search queries that led you to Kissmetrics’ website 
+When you register to receive any products or services from I’m Kind of a Big Deal or provide information to I’m Kind of a Big Deal in any other manner, you agree to provide only true, accurate, current and complete information.
+
+**Information automatically collected about you**
+
+I’m Kind of a Big Deal may automatically receive and log certain types of information when you visit or interact with our websites, services, mobile applications or other products, including:
+
+  * Browser Information
+  * Operating System Information
+  * Mobile Device Information (e.g., device identifier, mobile operating system, etc.)
+  * IP Address
+  * Internet Service Provider
+  * Content Viewed
+  * Geographic Location
+  * Connection Speed
+  * Time of Visit
+  * Referring Site, Application, or Service
+  * Registration Time
 
 
 
-_Visitors to the Kissmetrics Blog._ If you wish to access certain functions within the [Kissmetrics Blog](http://blog.kissmetrics.com/ "Blog"), such as posting comments or registering for webinars, we may ask you to provide information, including: 
+**Information from our partners**
+
+If you choose to use any third party website or service that is integrated with I’m Kind of a Big Deal, including a third party social networking or blogging site, such as LinkedIn, Facebook, Twitter or WordPress (“Third Party Websites”) – or if you use any I’m Kind of a Big Deal application provided through any Third Party Website – we may receive Information, including Personally Identifying Information, from such Third Party Websites, including, but not limited to:
 
   * Name
-  * Email address
-  * Your website
+  * Nickname or Username
+  * Photo or Graphic Avatar
+  * Unique Third Party Website Identifier (e.g., Facebook User ID)
+  * Biographical or Demographic Information (e.g. professional title, gender, college attended, etc.)
+  * Likes and Interests
+  * Contacts/Friends/Associations
+  * Any Information That Is Publicly Available on Third Party Websites
 
 
 
-_Visitors to Kissmetrics’ Clients’ Websites._ Our Clients may use customized and proprietary Kissmetrics’ code, software and/or services (“Service(s)”) to obtain information regarding the activities that users engage in while visiting their web pages (“Client User Data”). When a user visits a website that uses Kissmetrics’ Service, Kissmetrics code contained on the website contacts Kissmetrics’ servers and enables Kissmetrics to collect Client User Data. Some Clients may also use their own code to obtain Client User Data and then send such information to Kissmetrics’ servers. Client User Data may include Personally Identifiable Information, including, but not limited to, the types of information listed for Kissmetrics Client Information above. 
+For example, I’m Kind of a Big Deal may offer the ability to use certain Third Party Websites to facilitate your registration on I’m Kind of a Big Deal. We may also use information about your profile and connections on Third Party Websites to allow you to share or connect with your friends and contacts on I’m Kind of a Big Deal or to personalize your experience. In addition, I’m Kind of a Big Deal offers “plugins” and “widgets” from various Third Party Websites that allow you to share I’m Kind of a Big Deal content off of our service, as discussed in [“Disclosure of Information to Third Parties”](https://neilpatel.com/privacy/#disclosure-of-information-to-third-parties).
 
-Client User Data is stored on Kissmetrics’ web servers and databases (including those hosted on third party servers on behalf of Kissmetrics) for use in performing analysis and producing reports for the applicable Kissmetrics Client. In addition, Kissmetrics itself uses the Kissmetrics Service in order to obtain insights into visitors’ activities on its own websites, which include, as of the Effective Date, [http://www.kissmetrics.com](https://web.archive.org/) and [http://blog.kissmetrics.com](http://blog.kissmetrics.com/ "Blog"). 
+Your decision to use, or share with, a Third Party Website when accessing or using I’m Kind of a Big Deal products and services is completely voluntary. I’m Kind of a Big Deal is not responsible for compliance with the policies or practices of any Third Party Website. You should ensure that you are comfortable with the information such Third Party Websites may make available to I’m Kind of a Big Deal by reviewing those Websites’ privacy policies and service terms, and by modifying your privacy settings and preferences on those Services.
 
-Kissmetrics’ collection and analysis of Client User Data helps our Clients to evaluate and understand how their users are interacting with their websites, and potentially, to modify their websites in order to make them more valuable or useful for their users. Kissmetrics’ Clients determine the types of Client User Data that are sent to Kissmetrics’ servers for analysis. This data may include or be linked to Personally Identifiable Information depending on how the Client uses Kissmetrics’ Services on its website(s). Kissmetrics’ Clients are contractually prohibited from sending personally sensitive Client User Data (e.g. personal health information, political opinions, religious or philosophical beliefs) to Kissmetrics and Kissmetrics does not knowingly receive such data. 
+Any information we receive from Third Party Websites will be governed by this Privacy Policy.
 
-In addition, Kissmetrics may collect certain information about a Client’s visitor’s computer that may be provided by the visitor’s browser. This includes browser information, operating system information, mobile device information, IP address, time of visit, and the referring site, application, or service. Such information may be collected and shared with the Kissmetrics Client even though not specifically requested by the Client. 
+**Publicly available information**  
+We might gather information about you that is publicly available.
 
-### How Do We Use This Information?
+We use your Personal Data in order to:
 
-_Visitors to the Kissmetrics Website._ We use the Kissmetrics Client Information, including Personally Identifiable Information, to register your account, fulfill your requests, understand how you are engaging with Kissmetrics, communicate with you, determine if you are satisfied with the Service, process billing for Kissmetrics Services, and personalize your experience on the Kissmetrics website and with the Kissmetrics Service. 
-
-We may also use Kissmetrics User Information to facilitate the delivery of content or advertisements that we believe may be of interest to you, or to communicate with you about new or existing products and services or special offers. For more information on opting out of these communications, please see the section on “User Privacy Controls” below. 
-
-_Visitors to the Kissmetrics Blog._ We may use information you voluntarily provide when visiting the Kissmetrics blog to send you e-mail communications, such as information on upcoming webinars, and to understand how you are engaging with and perceive Kissmetrics’ Services. 
-
-_Visitors to Kissmetrics’ Clients’ Websites._ Except as described in the “Disclosure of Information to Third Parties” section below, Kissmetrics never sells or shares any Client User Data with individuals or companies other than the specific Client whose website transmitted the Client User Data to Kissmetrics. 
-
-Kissmetrics does not collect or aggregate information about end user behavior across multiple, different websites that are operated by different Clients, nor does it use any Client User Data for purposes of behavioral advertising. However, Kissmetrics may analyze Client User Data in the aggregate for purposes of internal research and/or to determine overall trends or metrics concerning how users are engaging with websites, and may report such general trends publicly, without disclosing any Client User Data. 
-
-_Our Client’s Use of Kissmetrics._ Kissmetrics contractually requires its Clients to abide by all applicable laws, rules and regulations, including the Safe Harbor and Privacy Shield where it applies, as well as other applicable laws relating to privacy and data collection (“Applicable Laws”). Kissmetrics also contractually requires its Clients to obtain any necessary consents from visitors to its website(s) for the Client’s use of Kissmetrics’ services, comply with all Applicable Laws (including, as an example, the Safe Harbor and Privacy Shield where it applies) with respect to the transfer of Personally Identifiable Information of EU or Swiss subjects through the Service, and to post an online privacy policy that provides each visitor with clear notice of its practices regarding data collection, use, and disclosure (including the Client’s use of Kissmetrics), along with a link to the Kissmetrics Privacy Policy and to the Kissmetrics Service Opt-Out (discussed below). 
-
-Kissmetrics cannot be held responsible for any Client’s failure to make these disclosures on its website or for any Client’s use or collection of Client User Data that is not permitted under this Privacy Policy or otherwise. For more details on the terms that apply to our Clients’ use of the Kissmetrics Service, please see Section 4 (“Privacy”) in the [Kissmetrics Terms of Use](https://web.archive.org/terms). 
-
-### Kissmetrics’ Use of Cookies and Web Beacons
-
-_Cookies._ Kissmetrics uses cookies (small text files that Kissmetrics stores locally on your computer) on our Client’s websites for one or more of the following purposes: to help identify unique visitors and/or devices; assess usage patterns and perform traffic analysis; identify visitor preferences; conduct A/B testing; diagnose problems with our servers, and otherwise administer the Kissmetrics Service. Kissmetrics does not use methods such as browser cache, Flash cookies, or eTags, for acquiring or storing information about end users web browsing activity on Client websites or otherwise. 
-
-Depending on how our Clients use Kissmetrics’ Services, information contained in Kissmetrics cookies placed on the computers of end users may be linked to Personally Identifiable Information in Kissmetrics’ database. This allows our Clients to use the Kissmetrics Service to better analyze and measure their users’ interactions with their website and to organize activities by the same user on their website across time. 
-
-If you do not wish to have Kissmetrics place and use cookies on your computer, you should set your browser preferences to refuse all cookies before accessing Kissmetrics or other websites that may use Kissmetrics. Kissmetrics is not responsible for any failure by you or your browser to accurately implement or communicate your browser preferences or settings. In addition, please be aware that even if you configure your browser settings to reject all cookies, your activity on Kissmetrics client websites will still be recorded by our Service, unless you opt out of our Service as set forth below. However, your rejection of all cookies will prevent Kissmetrics from determining whether or not someone using your computer has previously visited the website, i.e., whether or not the visitor is a “unique” visitor, and from retrieving any information about your prior activities on a Client’s website through information contained in a cookie. 
-
-Please note that if you set your browser to reject cookies, some features of the websites you visit may be unavailable. For more information on how to reject cookies, see your browser's instructions on changing your cookie settings. Additionally, please note that rejecting cookies may also prevent you from opting out of our Service because that involves placing an opt-out cookie in your browser. 
-
-If you do not elect to set your browser preferences to refuse cookies, you consent to have cookies, including cookies used by Kissmetrics, placed on your computer when you visit our Client’s websites. 
-
-_Web Beacons._ Kissmetrics may also collect certain information using Web Beacons. “Web Beacons” are electronic images that may be used on Kissmetrics’ Website, in Kissmetrics’ Service, or in our email communications. They are used, for example, to count website visits or to tell if an email has been opened and acted upon. 
-
-### Disclosure and Transfer of Information to Third Parties
-
-_Service Providers._ Information, including Kissmetrics Client Information, Client User Data, and any Personally Identifiable Information contained therein, may be shared with certain third-party companies and individuals that help facilitate technical and administrative aspects of the Kissmetrics Service (e.g., credit card processing), or perform functions related to the administration of Kissmetrics (e.g. hosting services). These third parties perform tasks on our behalf and are contractually obligated not to disclose or use Kissmetrics User Information or Client User Data for any other purpose, and to employ adequate security measures to prevent unauthorized access to such data. However, Kissmetrics is not responsible in the event that Personally Identifiable Information is disclosed as a result of a breach or security lapse by any such third party. 
-
-_Kissmetrics Clients._ Kissmetrics Clients may share Client User Data with service providers (e.g. customer relationship management platforms) that perform tasks on behalf of Kissmetrics Clients. Kissmetrics contractually requires the Clients to disclose such practices to its users. 
-
-_Kissmetrics Partners._ If you are a Kissmetrics Client that signed up through our Partners Program, your Kissmetrics Client Information may be shared with the Partner Program member that signed you up for Kissmetrics’ Service, provided that, prior to any such sharing, Kissmetrics will obtain contractual obligations from the Partner Program Member that it will comply with all Applicable Laws with respect to such Kissmetrics Client Information. These Partner Program members may use that information to help you setup, adjust, manage, and cancel your account with Kissmetrics. 
-
-_Law Enforcement and Legal Process._ Kissmetrics also reserves the right to disclose any Kissmetrics Client Information or Client User Information (including Personally Identifiable Information) to: (i) comply with any law, regulation, or legal request; (ii) enforce, apply, or investigate breaches of the Terms of Use or other agreements; (iii) respond to client requests; or (iv) protect the rights, property, or safety of Kissmetrics, our employees, our users, or others. 
-
-_Change of Control._ If Kissmetrics, or substantially all of its assets, is acquired by another company or successor entity, Kissmetrics Client Information and/or Client User Data will be one of the assets transferred or acquired by the purchaser or successor. You acknowledge that such transfers may occur, and that any purchaser of or successor to Kissmetrics or its assets may continue to collect, use and disclose your information acquired prior to such transfer or acquisition as set forth in this policy. 
-
-### User Privacy Controls and Do Not Track Signals
-
-Clients and Visitors to the Kissmetrics Website. Kissmetrics offers several ways for you to review and update account information that is obtained and stored by Kissmetrics, or to change your Kissmetrics communication preferences: 
-
-  * If you have a Kissmetrics account, you can review or update your account information by contacting us at [support@kissmetrics.com](mailto:support@kissmetrics.com). 
-  * You may unsubscribe to any of our e-mail or direct message communications regarding updates or products by following the unsubscribe instructions in the body of any message. 
-  * You may contact us at [privacy@kissmetrics.com](mailto:privacy@kissmetrics.com "Privacy"), attn: Kissmetrics Privacy Office. 
+  * Provide I’m Kind of a Big Deal products and services
+  * Fulfill your requests
+  * Improve our products and services
+  * Personalize and tailor your experience on I’m Kind of a Big Deal
+  * Operate our business
+  * Understand how users are engaging with I’m Kind of a Big Deal
 
 
 
-_Do Not Track Signals._ Kissmetrics Clients decide whether their use of Kissmetrics’ Service is responsive to Do Not Track signals from browsers, and whether Kissmetrics will be notified of a Do Not Track signal received from a user’s browser. If a Kissmetrics Client enables the forwarding of a Do Not Track signal to Kissmetrics, Kissmetrics will attempt to read the signal and will not collect any Client User Data from a user visiting that Kissmetrics Client’s website during that session, following receipt of the Do Not Track signal. The Do Not Track signal is browser-specific, and will not work for mobile devices. If a Kissmetrics Client does not forward Do Not Track signals to Kissmetrics, then Kissmetrics will not have any access to such signals from the Client’s users, and such signal will have no effect on Kissmetrics’ collection or use of data received from that user during the applicable session(s). 
+We use your Personal Data on legitimate grounds and/or with your Consent.
 
-_Visitors to Kissmetrics’ Clients’ Websites._ If you wish to opt out of Kissmetrics’ collecting Client User Data when you visit Kissmetrics’ Client Websites, please see the [Kissmetrics' Tracking Opt-Out Instructions](https://web.archive.org/user-privacy) or opt-out directly below. 
+On the grounds of entering into a contract or fulfilling contractual obligations, we Process your Personal Data for the following purposes:
 
-### Opt-in/Opt-out of Kissmetrics Tracking
+  * To identify you for communication purposes
+  * To provide you a service or to send/offer you a product
+  * To communicate either for sales or invoicing
 
-* * *
 
-Unlike the Do Not Track signal described above, which applies only to Kissmetrics Clients who have activated the functionality, this opt-out mechanism applies to all Kissmetrics Client websites, meaning that no user data will be collected about you on any such websites. Please note that if you use a different device or Internet browser than you used when opting out of Kissmetrics’ Service, or if you clear your cookies, Kissmetrics will not be able to view the opt-out and will collect Client User Data when you visit Kissmetrics Client websites. In these circumstances, you will need to revisit the link above from the new browser or device in order to reiterate your opt-out decision for that device or browser. 
 
-### Email Communications
+On the ground of legitimate interest, we Process your Personal Data for the following purposes:
 
-We may contact you by e-mail or other equivalent electronic communications if you access Kissmetrics products or services. By registering or using Kissmetrics Services, you specifically consent to the receipt of these e-mail or text message communications. If you do not want to receive emails or other communications from us, please follow the unsubscribe instructions in the body of such communications or notify us by email at [privacy@kissmetrics.com](mailto:privacy@kissmetrics.com "Privacy"). 
+  * To send you personalized offers (from us and/or our carefully selected partners);
+  * To administer and analyze our client base (purchasing behavior and history) in order to improve the quality, variety, and availability of products/ services offered/provided;
+  * To conduct questionnaires concerning client satisfaction;
 
-### How We Protect Your Personal Information
 
-Kissmetrics has implemented reasonable security mechanisms to protect Kissmetrics Client Information and Client User Data that is maintained on Kissmetrics’ servers from loss, misuse and unauthorized access, disclosure, alteration and destruction. Examples of these security mechanisms include limited and password-protected access, high security public/private keys, encryption on processed data, and SSL encryption to protect transmission of data. 
 
-However, please keep in mind that no security system is impenetrable. It may be possible for third parties to intercept or access Kissmetrics Client Information and Client User Data in spite of these measures. Kissmetrics cannot guarantee the security of your information and cannot be held responsible for unauthorized access to Kissmetrics client accounts. 
+As long as you have not informed us otherwise, we consider offering you products/services that are similar or same to your purchasing history/browsing behavior to be our legitimate interest.
 
-### Our Policy Toward Children
+With your consent we Process your Personal Data for the following purposes:
 
-Our Site and Service is not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13 or from websites that are targeted to children under 13. If you are under 13, please do not attempt to register or send any information about yourself to us, including your name, address, telephone number, or email address. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us as provided below. If we become aware that a child under 13 has provided us with personally identifiable information, we will delete such information from our servers. 
+  * To send you newsletters and campaign offers (from us and/or our carefully selected partners);
+  * For other purposes we have asked your consent for;
 
-### Changes to this Privacy Policy
 
-Kissmetrics retains the discretion to amend or modify this Privacy Policy from time to time. If we make material changes to the way we collect, use or disclose Personally Identifiable Information, we will notify you by posting a clear and prominent announcement on Kissmetrics or through a direct communication to your Kissmetrics account. For new users, the change or update will become effective upon posting. For existing users, the change or update will become effective 14 days after posting. 
 
-Use and disclosure of information we obtain is subject to the later of: (1) the Privacy Policy in effect at the time such information is collected or (2) any subsequent Privacy Policy of which you have constructive notice. 
+We Process your Personal Data in order to fulfill obligation rising from law and/or use your Personal Data for options provided by law. We reserve the right to anonymize Personal Data gathered and to use any such data. We will use data outside the scope of this Policy only when it is anonymized. We save your billing information and other information gathered about you for as long as needed for accounting purposes or other obligations deriving from law.
 
-### How to Contact Us
+We might process your Personal Data for additional purposes that are not mentioned here, but are compatible with the original purpose for which the data was gathered. To do this, we will ensure that:
 
-Kissmetrics welcomes any questions or comments about this Privacy Policy or our privacy practices. Any such comments or questions should be submitted via e-mail to: [privacy@kissmetrics.com](mailto:privacy@kissmetrics.com "Privacy"), or by first class mail, air mail, or overnight courier to: 
+  * The link between purposes, context and nature of Personal Data is suitable for further Processing;
+  * The further Processing would not harm your interests and
+  * There would be appropriate safeguard for Processing.
 
-Kissmetrics Privacy Office
 
-847 Sansome Street,   
-San Francisco, CA 94111
 
-We will use reasonable efforts to respond promptly, within 10-20 business days, to requests, questions or concerns you may have regarding access to Personally Identifiable Information about you that we have collected. We may contact you for follow up information. 
+We will inform you of any further Processing and purposes.
 
-### Safe Harbor and Privacy Shield Rights and Dispute Resolution
+We do not share your Personal Data with strangers. Personal Data about you is in some cases provided to our trusted partners in order to either make providing the service to you possible or to enhance your customer experience. We share your data with:
 
-Kissmetrics complies with the U.S. - E.U. Privacy Shield framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Kissmetrics has certified that it adheres to the Safe Harbor and Privacy Shield Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor and Privacy Shield programs, and to view Kissmetrics’ certification, please visit [ http://www.export.gov/safeharbor/ ](http://www.export.gov/safeharbor/ "Safe Harbor") and [ https://www.privacyshield.gov/ ](https://www.privacyshield.gov/ "Privacy Shield"). 
+**Our processing partners:**
 
-With respect to personal information received or transferred pursuant to the Privacy Shield Framework, Kissmetrics is subject to the investigatory and regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Kissmetrics may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+  * [Amazon Web Services](https://aws.amazon.com/)
+  * [WPengine](https://www.wpengine.com/)
 
-Under Safe Harbor and Privacy Shield individuals have the right to access information held about them and amend or delete it if it is inaccurate. Any such requests or inquiries should be directed to the Kissmetrics Privacy Office; contact information is provided above under “How to Contact Us” 
 
-Under Safe Harbor and Privacy Shield individuals must have the choice to opt out of the collection and forward transfer of the data to third parties. Kissmetrics' options for doing so are explained under “User Privacy Controls” Kissmetrics further certifies that it complies with Safe Harbor and Privacy Shield policies regarding the onward transfer of data to third parties. Information about onward transfer and disclosure is available under “Disclosure and Transfer of Information to Third Parties” 
 
-Any questions or concerns regarding the use or disclosure of Personally Identifiable Information should be directed to the Kissmetrics Privacy Office at the address given above. Kissmetrics will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personally Identifiable Information by reference to the principles contained in this Privacy Policy. For complaints that cannot be resolved between Kissmetrics and the complainant, disputes will be resolved pursuant to Sections 13.4 through 13.6 of the Terms of Use. For the avoidance of doubt, the dispute resolution procedures will be conducted in English. 
+**Our business partners:**
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at: 
+  * [Neil Patel Digital](https://www.neilpateldigital.com/)
 
-[ https://feedback-form.truste.com/watchdog/request/ ](https://feedback-form.truste.com/watchdog/request/ "TRUSTe Dispute Resolution"). 
 
-Under certain conditions individuals may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. In addition, the United States Federal Trade Commission is the statutory body that has jurisdiction to hear any claims against Kissmetrics regarding possible unfair or deceptive practices and violations of laws or regulations governing privacy. 
 
-### Effective Date of this Privacy Policy
+**Connected third parties:**
 
-This Privacy Policy is effective as of the Effective Date set forth at the top of this document. 
+  * [CrazyEgg](https://www.crazyegg.com/)
+  * [Google Analytics](https://analytics.google.com/)
+  * [Google Optimizer](https://optimize.google.com/)
+  * [Qualaroo](https://www.qualaroo.com/)
+  * [Facebook](https://www.facebook.com/)
+  * [Twitter](https://www.twitter.com/)
+  * [LinkedIn](https://www.linkedin.com/)
+  * [WordPress](https://www.wordpress.com/)
+  * [Go to Webinar](https://www.gotowebinar.com/)
+  * [WebinarJam](https://www.webinarjam.com/)
+  * [Ever Webinar](https://www.everwebinar.com/)
+  * [Convert Kit](https://www.convertkit.com/)
+  * [Subscribers](https://www.subscribers.com/)
+  * [Feedburner](https://feedburner.google.com/)
+
+
+
+We only work with Processing partners who are able to ensure adequate level of protection to your Personal Data. We disclose your Personal Data to third parties or public officials when we are legally obliged to do so. We might disclose your Personal Data to third parties if you have consented to it or if there are other legal grounds for it.
+
+We do our best to keep your Personal Data safe.  We use safe protocols for communication and transferring data (such as HTTPS). We use anonymizing and pseudonymizing where suitable. We monitor our systems for possible vulnerabilities and attacks. **   **Stored data is encrypted when possible.
+
+Even though we try our best we can not guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.
+
+If you have an account with us, note that you have to keep your username and password secret.
+
+## Children
+
+We do not intend to collect or knowingly collect information from children. We do not target children with our services.
+
+We use cookies and/or similar technologies to analyze customer behavior, administer the website, track users’ movements, and to collect information about users. This is done in order to personalize and enhance your experience with us.
+
+A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions.
+
+**We use cookies for the following purposes:**
+
+  * Necessary cookies – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
+  * Functionality cookies – these cookies provide functionality that makes using our service more convenient and makes providing more personalized features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
+  * Analytics cookies – these cookies are used to track the use and performance of our website and services
+  * Advertising cookies – these cookies are used to deliver advertisements that are relevant to you and to your interests. In addition, they are used to limit the number of times you see an advertisement. They are usually placed to the website by advertising networks with the website operator’s permission. These cookies remember that you have visited a website and this information is shared with other organizations such as advertisers. Often targeting or advertising cookies will be linked to site functionality provided by the other organization.
+
+
+
+**Here are the cookies we use:**
+
+  * **Cookie policy** – persistent cookie – 1-year duration – we set this cookie to limit showing the cookie policy on every page view/visits.
+  * **[Google Analytics](https://google.com/analytics/)** – persistent cookie – 2-year duration – we use Google Analytics to improve the user experience on the website ([you can opt out here](https://tools.google.com/dlpage/gaoptout))
+  * **[Crazy Egg](https://crazyegg.com/)** – third party cookie – 6-month duration – we use Crazy Egg to improve the user experience on the website
+  * **Redirection cookie** – persistent cookie – 1-year duration – we redirect you to the language that is best suited from the country you are visiting from
+  * **Popup cookie** – persistent cookie – 1-year duration – we offer you the chance to be notified of new content and marketing materials
+  * **[Subscribers.com](https://subscribers.com/)** – persistent cookie – 10 year duration – you have to optin through your browser to receive anything through subscribers and you can opt out through your browser settings.
+  * **[YouTube](https://youtube.com/)** – persistent cookie – 30-day duration – we embed YouTube videos onto our site to provide you with additional educational material.
+  * **[Hubspot](https://hubspot.com/)** – persistent cookie – 2-year duration – we use HubSpot as our CRM to follow up with sales leads
+  * **[ScheduleOnce](https://scheduleonce.com/)** – persistent cookie – 2-year duration – this allows you to schedule calls with our team
+  * **[Wistia](https://wistia.com/)** – persistent cookie – 1-year duration – we use Wistia to stream educational content.
+
+
+
+You can remove cookies stored in your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](http://optout.aboutads.info/#!/) or [youronlinechoices.com](http://www.youronlinechoices.com/). For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+
+We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+
+[neil@neilpatel.com](mailto:neil@neilpatel.com)
+
+9710 River Trader St.  
+Las Vegas, NV 89178
+
+We reserve the right to make change to this Privacy Policy.  
+Last modification was made 2018-May-22.
