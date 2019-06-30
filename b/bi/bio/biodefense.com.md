@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biodefense.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231212114id_/http%3A//www.naturalnews.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biodefense.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630062009id_/http%3A//www.naturalnews.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - NaturalNews.com
 
@@ -37,7 +37,7 @@ _Information that you provide us_
   1. _Account signup_ : When you sign up for an account to access one or more of our services, we ask for information such as your name and email address to complete the account signup process. You may also be required to choose a unique username and a password for accessing the created account. 
   2. _Summit_ _registrations and other form submissions:_ We record information that you submit when you (i) register for any event such as webinars or seminars, (ii) subscribe to our newsletter or any other mailing list, (iii) submit a form in order to download ebooks, whitepaper, or other materials, (iv) participate in contests or respond to surveys, or (v) submit a form to request customer support or to contact NaturalNews for any other purpose. 
   3. _Payment processing_ : When you buy something from us, we ask you to provide your name, contact information, and credit card information or other payment account information. When you submit your card information, we store the name and address of the cardholder, the expiry date and the last four digits of the credit card number. We do not store the actual credit card number. For quick processing of future payments, if you have given us your approval, we may store your credit card information or other payment information in an encrypted format in the secured servers of our Payment Gateway Service Providers. 
-  4. _Testimonials_ : When you authorize us to post testimonials about our products and services on websites, we may include your name and other personal information in the testimonial. You will be given an opportunity to review and approve the testimonial before we post it. If you wish to update or delete your testimonial, you can contact us at [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#4f3f3d26392e2c360f212e3b3a3d2e23212a383c612c2022)
+  4. _Testimonials_ : When you authorize us to post testimonials about our products and services on websites, we may include your name and other personal information in the testimonial. You will be given an opportunity to review and approve the testimonial before we post it. If you wish to update or delete your testimonial, you can contact us at [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#5727253e2136342e173936232225363b393220247934383a)
   5. _Interactions with NaturalNews_ : We may record, analyze and use your interactions with us, including email, telephone, and chat conversations with our sales and customer support professionals, for improving our interactions with you and other customers. 
 
 
@@ -123,11 +123,11 @@ We retain your personal information for as long as it is required for the purpos
 
 ### Children's personal information
 
-Our products and services are not directed to individuals under 13. NaturalNews does not knowingly collect personal information from children who are under 13 years of age. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information. If you believe that a child under 13 years has provided personal information to us, please write to [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#9dedeff4ebfcfee4ddf3fce9e8effcf1f3f8eaeeb3fef2f0)with the details, and we will take the necessary steps to delete the information we hold about that child.
+Our products and services are not directed to individuals under 13. NaturalNews does not knowingly collect personal information from children who are under 13 years of age. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information. If you believe that a child under 13 years has provided personal information to us, please write to [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#5020223926313329103e31242522313c3e3527237e333f3d)with the details, and we will take the necessary steps to delete the information we hold about that child.
 
 ### How secure is your information
 
-At NaturalNews, we take data security very seriously. We have taken steps to implement appropriate administrative, technical & physical safeguards to prevent unauthorized access, use, modification, disclosure or destruction of the information you entrust to us. If you have any concerns regarding the security of your data, we encourage you to write to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#067463766a7f466867727374676a686371752865696b) with any questions.
+At NaturalNews, we take data security very seriously. We have taken steps to implement appropriate administrative, technical & physical safeguards to prevent unauthorized access, use, modification, disclosure or destruction of the information you entrust to us. If you have any concerns regarding the security of your data, we encourage you to write to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#34465144584d745a5540414655585a5143471a575b59) with any questions.
 
 ### Locations and international transfers
 
@@ -139,7 +139,7 @@ Some pages of our websites may contain links to websites that are not linked to 
 
 ### Blogs and forums
 
-We offer publicly accessible blogs and forums on our websites. Please be aware that any information you provide on these blogs and forums may be used to contact you with unsolicited messages. We urge you to be cautious in disclosing personal information in our blogs and forums. NaturalNews is not responsible for the personal information you elect to disclose publicly. Your posts and certain profile information may remain even after you terminate your account with NaturalNews. To request the removal of your information from our blogs and forums, you can contact us at [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#4535372c3324263c052b2431303724292b2032366b262a28)
+We offer publicly accessible blogs and forums on our websites. Please be aware that any information you provide on these blogs and forums may be used to contact you with unsolicited messages. We urge you to be cautious in disclosing personal information in our blogs and forums. NaturalNews is not responsible for the personal information you elect to disclose publicly. Your posts and certain profile information may remain even after you terminate your account with NaturalNews. To request the removal of your information from our blogs and forums, you can contact us at [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#f9898b908f989a80b997988d8c8b9895979c8e8ad79a9694)
 
 ### Social media widgets
 
@@ -155,7 +155,7 @@ We may disclose personal information and service data to a third party if we bel
 
 ### Compliance with this Privacy Policy
 
-We make every effort, including periodic reviews, to ensure that personal information you provide is used in conformity with this Privacy Policy. If you have any concerns about our adherence to this Privacy Policy or the manner in which your personal information is used, kindly write to us [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#c5b5b7acb3a4a6bc85aba4b1b0b7a4a9aba0b2b6eba6aaa8)We'll contact you, and if required, coordinate with the appropriate regulatory authorities to effectively address your concerns.
+We make every effort, including periodic reviews, to ensure that personal information you provide is used in conformity with this Privacy Policy. If you have any concerns about our adherence to this Privacy Policy or the manner in which your personal information is used, kindly write to us [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#cdbdbfa4bbacaeb48da3acb9b8bfaca1a3a8babee3aea2a0)We'll contact you, and if required, coordinate with the appropriate regulatory authorities to effectively address your concerns.
 
 ### Your consent
 
@@ -163,7 +163,7 @@ By using our Web Site, you consent to the collection and use of information by u
 
 ###  Contact Information
 
-If you have any questions regarding our privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0c7c7e657a6d6f754c626d78797e6d6062697b7f226f6361).
+If you have any questions regarding our privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c9b9bba0bfa8aab089a7a8bdbcbba8a5a7acbebae7aaa6a4).
 
 You may also contact us at:
 
