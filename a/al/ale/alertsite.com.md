@@ -1,41 +1,20 @@
-> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127124345id_/https%3A//smartbear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630134404id_/https%3A//smartbear.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartBear Software
 
-LAST UPDATED: August 21, 2018
+LAST UPDATED: March 31, 2019
 
 SmartBear Software, Inc. and its affiliates (collectively, “ **SmartBear** ”, “ **we** ”, “ **us** ”) is a global organization offering software tools used by developers, testers and operations team members to deliver high quality software and applications. We offer products for code review, API and UI development, testing, and operations and end user experience monitoring across desktop, web, mobile, Internet of things devices, and cloud platforms.
 
 This Privacy Policy (“ **Privacy Policy** ”) describes our practices regarding information collected through our websites and our products and services, including:
 
-[AlertSite](https://smartbear.com/product/alertsite/overview/)  
-[AQtime Pro](https://smartbear.com/product/aqtime-pro/overview/)  
-[Collaborator](https://smartbear.com/product/collaborator/overview/)  
-[Collaborator Community](https://smartbear.com/product/collaborator/overview/)  
-[CrossBrowserTesting](https://crossbrowsertesting.com/?utm_campaign=sbhp)  
-[LoadComplete](https://smartbear.com/product/loadcomplete/overview/)  
-[LoadNinja](https://loadninja.com/)  
-[LoadUI Pro](https://smartbear.com/product/ready-api/loadui/overview/)  
-[QAComplete](https://qacomplete.com/)  
-[ServiceV Pro](https://smartbear.com/product/ready-api/servicev/overview/)  
-[SoapUI](https://www.soapui.org/#_ga=2.87665307.206369932.1522717281-1568550177.1522717281)  
-[SoapUI Pro](https://smartbear.com/product/ready-api/soapui/overview/)  
-[Swagger](https://swagger.io/)  
-[SwaggerHub](https://swaggerhub.com/?utm_source=smartbear&utm_medium=homepage-product-grouping&utm_campaign=swaggerhub)  
-[Swagger Inspector](https://swagger.io/swagger-inspector/)  
-[TestComplete](https://smartbear.com/product/testcomplete/overview/)  
-[TestExecute](https://smartbear.com/product/testexecute/overview/#_ga=2.70913296.1647295707.1523281760-361517615.1495726615&_gac=1.119195259.1520349907.CjwKCAiAlfnUBRBQEiwAWpPA6f567dm1g4ApIg6MFY8788zLZpuTcu6JFDHzNTzcAcVcfElbNqV5URoCVwwQAvD_BwE)  
-[TestLeft](https://smartbear.com/product/testleft/overview/)  
-[TestServer](https://smartbear.com/product/ready-api/testserver/overview/)  
-[HipTest](https://hiptest.com/)
+and any other SmartBear products and services (collectively, the “ **SmartBear Services** ” or “ **Services** ”).
 
-and any other SmartBear products and services (collectively, the “ **SmartBear** **Services** ” or “ **Services** ”).
-
-**When you interact with the SmartBear Services, you consent to such collection, use and sharing of information as described in this Privacy Policy and our Terms of Use (whether**[ **Hosted**](https://smartbear.com/terms-of-use-hosted/) **or**[ **On Premise**](https://smartbear.com/terms-of-use-on-prem/) **or some combination thereof). If you do not consent to the terms of this Privacy Policy and our Terms of Use, do not continue to interact with or use the SmartBear Services.   **
+**When you interact with the SmartBear Services, you consent to such collection, use and sharing of information as described in this Privacy Policy and our Terms of Use (whether[Hosted](https://smartbear.com/terms-of-use-hosted/) or [On Premise](https://smartbear.com/terms-of-use-on-prem/) or some combination thereof). If you do not consent to the terms of this Privacy Policy and our Terms of Use, do not continue to interact with or use the SmartBear Services.  **
 
 **European Residents** :  Please see our European Privacy Policy for residents of the European Union, the European Economic Area or Switzerland.
 
-**QUICK LINKS** :
+**Quick Links** :
 
   * Information We May Collect
   * Use of Information
@@ -50,8 +29,10 @@ and any other SmartBear products and services (collectively, the “ **SmartBear
   * Children
   * International Data Transfers
   * California Privacy Rights
+  * SmartBear Services Obtained Through the Atlassian Marketplace
   * Questions, Complaints and Disputes
   * Privacy Policy Updates
+  * European Privacy Policy
 
 
 
@@ -61,7 +42,7 @@ Due to the global nature of the SmartBear Services, our privacy practices may va
 
 **European Residents** :  If you are a resident of the European Union, the European Economic Area or Switzerland, please see our European Privacy Policy.
 
-#### **1\. INFORMATION WE MAY COLLECT**
+**1\. Information We May Collect**
 
 The SmartBear Services gather certain information automatically, some of which may be considered personal information under applicable law.
 
@@ -100,7 +81,7 @@ We may also collect information, including personal information, in the followin
 
 
 
-#### **2\. USE OF INFORMATION**
+**2\. Use of Information**
 
 SmartBear Solutions may use the information, including personal information, collected in connection with the SmartBear Services for the purpose of providing the Services to our customers, as well as for supporting our business functions, such as fraud prevention, marketing, analytics and legal functions and other legitimate purposes. 
 
@@ -124,7 +105,7 @@ To the extent permitted by applicable law and, for customer data, as permitted b
 
 **Automated Decisions**. To the extent permitted by applicable law, we may collect data in an automated manner and make automated decisions, including using machine learning algorithms, about individual users of the SmartBear Services in order to provide or optimize the SmartBear Services offered and/or delivered, for security or analytics purposes, and for any other lawful purpose. To the extent permitted by applicable law, we may use automated decisions, for example, to display advertisements and offers based on the individual’s preferences.
 
-#### **3\. SHARING OF INFORMATION**
+**3\. Sharing of Information**
 
 To the extent permitted by applicable law, SmartBear may share and disclose information, including personal information, as set forth below:
 
@@ -140,7 +121,7 @@ To the extent permitted by applicable law, SmartBear may share and disclose info
 
 SmartBear may also disclose personal information for other purposes or to other third parties when an individual has consented to or requested such disclosure, or where a customer has obtained permission from such individual, or where such disclosure is otherwise legally permitted for legitimate business purposes, and, for customer data, with such customer’s authorization or otherwise in accordance with SmartBear’s agreement with such customer.
 
-#### **4\. COOKIES AND SIMILAR TECHNOLOGIES** ** **
+**4\. Cookies and Similar Technologies**
 
 We may use cookies and similar technologies to operate and improve the SmartBear Services, as well as to simplify our interaction with you. A "cookie" is a unique numeric code that we transfer to your computer so that we can keep track of your interests and/or preferences and recognize you as a return visitor to the websites. We may use cookies, log files, pixel tags, web bugs, web beacons, clear GIFs, Local Storage Objects (LSOs) such as HTML5 and Flash or other similar technologies to collect information about the ways you interact with and use the SmartBear Services, to support and enhance features and functionality, to monitor performance, to personalize content and experiences, for marketing and analytics, and for other lawful purposes. We may also engage third party service providers to provide advertisements and promotions on our behalf, or authorize third parties to advertise and market products and services via the SmartBear Services.
 
@@ -161,31 +142,29 @@ We may use third party analytics such as Google Analytics or similar analytics s
 
 We may use third-party advertisers to serve or track advertisements on or relating to the SmartBear Services. These third parties may use cookies and other tracking and analytical technologies to, among other things, record which ads your browser has loaded and which pages you were viewing when ads were delivered or accessed. Information so collected is subject to the privacy policies of those third parties, which you should carefully review. We have limited or no control over third party use of cookies.
 
-#### **5\. DATA RETENTION**
+**5\. Data Retention**
 
 To the extent permitted by applicable law, we may retain information for as long as the account of the customer for whom we collected the information is active, for at least twenty-four (24) months thereafter, or as long as is reasonably necessary to provide the SmartBear Services or as needed for other lawful purposes. We may retain cached or archived copies of information. We may retain anonymized or pseudonymized, aggregated data indefinitely, to the extent permitted under applicable law. We may be required to retain some data for a longer period of time because of various laws and regulations or because of contractual obligations. We also will retain information as long as reasonably necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-#### **6\. CHOICES AND OPT-OUT**
+**6\. Choices and Opt-Out**
 
 To the extent required by applicable law, or in our discretion otherwise, we will allow customers and individuals to limit use of personal information. If at any time after providing us with your personal information such information changes or you change your mind about receiving information from us, you may request access to your data or that your data be changed.
 
 If you no longer wish to receive our communications, you may opt-out of receiving them at any time by following the instructions included in each communication, by going to our [Unsubscribe Page](http://www2.smartbear.com/SubscriptionCenter.html?_ga=2.120436878.787359776.1522859301-1568550177.1522717281), or by mail at 450 Artisan Way, Somerville, MA, 02145 USA; Attn: General Counsel, Legal Dept.
 
-If you no longer wish to receive HipTest communications, you may opt-out of receiving them at any time by following the instructions included at the bottom of the HipTest email communications, by emailing Privacy@SmartBear.com and requesting to be unsubscribed, or by mail at 450 Artisan Way, Somerville, MA 02145 USA; Attn: General Counsel, Legal Dept.
-
-#### **7\. CROSS-DEVICE TRACKING**
+**7\. Cross-Device Tracking**
 
 When you use your mobile device to interact with us or use the SmartBear Services, we may receive information about your mobile device, including a unique identifier for your device. We and our service providers and third parties we collaborate with, including ad networks, may use cross-device/cross-context tracking. For example, you might use multiple browsers on a single device, or use various devices (such as desktops, smartphones, and tablets), which can result in your having multiple accounts or profiles across these various contexts and devices. Cross-device/cross-context technology may be used to connect these various accounts or profiles and the corresponding data from the different contexts and devices.
 
-#### **8\. EMPLOYMENT OPPORTUNITIES**
+**8\. Employment Opportunities**
 
 We provide you with a means for submitting your resume or other personal information through our website or Services for consideration for employment opportunities at SmartBear. Personal information received through resume submissions will be kept confidential. We may contact you for additional information to supplement your resume, and we may use your personal information within SmartBear, or keep it on file for future use, as we make our hiring decisions.
 
-#### **9\. THIRD PARTY SITES**
+**9\. Third Party Sites**
 
 The SmartBear Services may provide links to other websites or resources over which SmartBear does not have control (“External Web Sites”). Such links do not constitute an endorsement by SmartBear of those External Web Sites. You acknowledge that SmartBear is providing these links to you only as a convenience, and further agree that SmartBear is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the External Web Sites.
 
-#### **10\. SECURITY**
+**10\. Security**
 
 To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of data, we employ procedural and technological measures that are reasonably designed to help safeguard the information we collect. SmartBear may use encryption, secure socket layer, firewall, password protection and other physical security measures to help prevent unauthorized access to such. SmartBear may also place internal restrictions on who in the company may access data to help prevent unauthorized access to such information.
 
@@ -193,21 +172,25 @@ Unfortunately, no data transmission over the Internet or data storage system can
 
 Where required under applicable law or by contract, we will notify the appropriate parties or individuals of any loss, misuse or alteration of personal information so that such parties or individuals can take the appropriate actions for the due protection of their rights.  If such personal information is information of a SmartBear customer, we will notify such customer and coordinate with them regarding any required notices to particular individuals.
 
-#### **11\. CHILDREN**
+**11\. Children**
 
 We recognize the importance of protecting the privacy and safety of children. The SmartBear Services are not intended for children under 16 years of age. We do not knowingly collect personal information from children under 16. Anyone under 16 should not use the SmartBear Services. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us as set forth below.
 
-#### **12\. INTERNATIONAL DATA TRANSFERS**
+**12\. International Data Transfers**
 
 The SmartBear Services may be provided using resources and servers located in various countries around the world, including the United States and other countries. Therefore, personal information about individuals or customers may be transferred, processed and stored outside the country where the SmartBear Services are used, including to countries outside the European Union (“EU”), European Economic Area (“EEA”) or Switzerland, where the level of data protection may not be deemed adequate by the European Commission.
 
 **Canadian residents may have additional rights under Canadian law.   Please see the information provided by the **[**Office of the Privacy Commissioner of Canada**](https://www.priv.gc.ca/en/about-the-opc/publications/guide_ind/) **for additional details.  **You, and we, confirm that it is our wish that this document and all other related documents be drawn up in English. _Vous reconnaissent avoir exigé la rédaction en anglais du présent document ainsi que tous les documents qui s'y rattachent._
 
-#### **13\. CALIFORNIA PRIVACY RIGHTS** ** **
+**13\. California Privacy Rights**
 
 Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use may be entitled to request and obtain from us, once per calendar year, information about customer information we have shared, if any, with other businesses for such other businesses’ own direct marketing uses. If applicable, this information would include the categories of resident information and the names and addresses of those businesses with which we shared such resident information for the immediately prior calendar year. To obtain this information, please contact us as indicated below. Please include sufficient personal identification information so that we can process the request, including that you are a California resident.
 
-#### **14\. QUESTIONS, COMPLAINTS AND DISPUTES**
+**14\. SmartBear Services Obtained Through the Atlassian Marketplace**
+
+For all authorized SmartBear Services which are obtained through the Atlassian Marketplace, meaning [http://marketplace.atlassian.com](http://marketplace.atlassian.com/) or any other webpage, application, interface, service or in-product experience at which Atlassian Pty Ltd (“Atlassian”) makes available cloud and downloadable applications, plug-ins or extensions that are designed to interoperate with Atlassian’s own software and cloud offerings (“Atlassian Marketplace”), Atlassian is not responsible for the privacy, security or integrity of Your data collected or processed by SmartBear or by the SmartBear Services through the Atlassian Marketplace.
+
+**15\. Questions, Complaints and Disputes**
 
 If you have any questions about this Privacy Policy, or our collection, use, sharing or storage of information about you, you can contact us by email at [privacy@smartbear.com](mailto:privacy@smartbear.com), or write to the following address:
 
@@ -221,11 +204,11 @@ Phone: +1 (617) 684-2600
 
 **DISPUTE RESOLUTION**. Except as otherwise expressly provided above, or in our European privacy policy or otherwise required by applicable law, you agree that the exclusive jurisdiction of any actions arising out of, relating to, or in any way connected with, this privacy policy, shall be in the state or federal courts, as applicable, located in the City of Boston or Suffolk County, Massachusetts. Any dispute, controversy, or claim arising out of or relating to this privacy policy or the collection, use, storage or transfer of any of your information or data, including, but not limited to, the arbitrability of the matter or the formation, interpretation, scope, applicability, termination, or breach of this privacy policy, shall be referred to and finally determined by arbitration in accordance with the JAMS Streamlined Arbitration Rules and Procedures, or JAMS International Arbitration Rules, if the matter is deemed "international" within the meaning of that term as defined in the JAMS International Arbitration Rules. The arbitration shall be administered by JAMS, shall take place before a sole arbitrator, and shall be conducted in Boston, Massachusetts. If the JAMS International Arbitration Rules apply, the language to be used in the arbitral proceedings will be English. Judgment upon the arbitral award may be entered by any court having jurisdiction. This section shall apply to and require arbitration of all disputes, controversies, and claims, regardless of whether such disputes, controversies, or claims concern a single individual, entity, or other person, multiple individuals, entities, or other people, or classes of individuals, entities, or other people. You hereby consent to receive service of process by electronic means or social media to the extent allowed by the applicable court. This constitutes express agreement of the parties regarding your consent pursuant to United States Federal Rule of Civil Procedure 5(b)(2)(E) and any applicable state (or other jurisdiction) equivalent.
 
-#### **15\. PRIVACY POLICY UPDATES**
+**16\. Privacy Policy Updates**
 
 SmartBear may update this Privacy Policy from time to time in our sole discretion to reflect changes to our information and privacy practices. SmartBear will post any updated Privacy Policy on this page at <https://smartbear.com/privacy/> or in the SmartBear Services, or with any notice to individual users if required by applicable law. Continued use of the SmartBear Services after any such modifications constitutes acceptance to any such modified Privacy Policy. SmartBear encourages you to review this Privacy Policy regularly for any changes. The date of last revision is shown at the “ _Last Updated_ ” legend at the top of this page.
 
-#### **16\. EUROPEAN PRIVACY POLICY**
+**17\. European Privacy Policy**
 
 **The followingEuropean Privacy Policy applies to residents of the European Union, the European Economic Area and Switzerland.**
 
