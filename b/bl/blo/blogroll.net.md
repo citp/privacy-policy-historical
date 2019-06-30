@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogroll.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227233530id_/http%3A//www.blogroll.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogroll.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630034419id_/http%3A//www.blogroll.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy policy | www.blogroll.net
 
