@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremetracking.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023613id_/https%3A//extremetracking.com/%3Fpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremetracking.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232233id_/https%3A//extremetracking.com/%3Fpolicy) for the most accurate reproduction.*
 
 # eXTReMe Tracking - Privacy Policy
 
@@ -35,4 +35,4 @@ If you have determined that you qualify as a data controller under the GDPR, and
 
 eXTReMe digital,  Herengracht 155,  1015 BH Amsterdam,  The Netherlands 
 
-Copyright © 1998-2018 eXTReMe digital. All Rights Reserved. 
+Copyright © 1998-2019 eXTReMe digital. All Rights Reserved. 
