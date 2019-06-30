@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splitsider.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231171500id_/https%3A//nymag.com/newyork/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splitsider.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223200id_/http%3A//nymag.com/newyork/privacy.html) for the most accurate reproduction.*
 
 # New York Media Privacy Notice
 
@@ -323,7 +323,7 @@ We have developed our Sites to appeal to visitors over the age of 18 and are not
 Please do not hesitate to contact us if you have any questions about this Privacy Policy.
 
 _Contact us at:  _  
-Attn: Chief Operating Officer  
+Attn: Legal Department  
 75 Varick Street, 4th Floor, New York, New York  
 10013  
  _Phone:_  (212) 508-0700  
