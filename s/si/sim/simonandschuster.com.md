@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simonandschuster.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126015631id_/https%3A//www.simonandschuster.com/c/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simonandschuster.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630101506id_/https%3A//www.simonandschuster.com/about/privacy_policy) for the most accurate reproduction.*
 
-# New Book Releases, Bestsellers, Author Info and more at Simon & Schuster
+# SIMON & SCHUSTER PRIVACY POLICY | Simon & Schuster
 
 Effective Date: This policy was updated and became immediately effective on **May 25, 2018**.
 
