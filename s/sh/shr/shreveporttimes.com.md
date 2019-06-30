@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shreveporttimes.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604131843id_/http%3A//static.shreveporttimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shreveporttimes.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630105102id_/https%3A//cm.shreveporttimes.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | Shreveport Times
+# static.shreveporttimes.com
 
 Last Updated: May 14, 2018
 
