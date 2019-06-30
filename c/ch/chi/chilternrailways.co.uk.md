@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chilternrailways.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229214901id_/https%3A//www.chilternrailways.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilternrailways.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630165349id_/https%3A//www.chilternrailways.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Chiltern Railways
 
@@ -192,13 +192,13 @@ We respond to all requests we receive from individuals wishing to exercise their
 
 ### **10.   Questions about this Privacy Notice**
 
-If you have any question, concerns or complaints about this Privacy notice or our handling of your personal data, you can contact us by email on [data.protection@chilternrailways.co.uk](mailto:%20data.protection@chilternrailways.co.uk) or by post to the following address:
+If you have any question, concerns or complaints about this Privacy notice or our handling of your personal data, you can contact us by email on [[email protected]](https://www.chilternrailways.co.uk/cdn-cgi/l/email-protection#2e0e4a4f5a4f005e5c415a4b4d5a4741406e4d4647425a4b5c405c4f4742594f575d004d41005b45) or by post to the following address:
 
   * Data Protection Officer, The Chiltern Railway Company Limited, Great Central House, Marylebone Station, Melcombe Place, London, NW1 6JJ
 
 
 
-If you are unsatisfied with the response, you can contact Arriva plc's Data Protection Officer at [data.protection@chilternrailways.co.uk ](mailto:%20data.protection@chilternrailways.co.uk)
+If you are unsatisfied with the response, you can contact Arriva plc's Data Protection Officer at [[email protected] ](https://www.chilternrailways.co.uk/cdn-cgi/l/email-protection#f8d89c998c99d6888a978c9d9b8c919796b89b9091948c9d8a968a9991948f99818bd69b97d68d93)
 
 You have the right to complain to a data protection authority about our collection and use of your personal information.  If you are based in the European Economic Area, please contact your local data protection authority. (Contact details for data protection authorities in the European Economic Area, Switzerland and certain non-European countries are available on the EU Commission's website via the following link): <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>)
 
