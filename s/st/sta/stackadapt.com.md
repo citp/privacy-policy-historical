@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackadapt.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224910id_/https%3A//www.stackadapt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackadapt.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235605id_/https%3A//www.stackadapt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | StackAdapt
 
@@ -50,7 +50,7 @@ We use the data we collect in order to display advertisements that we believe ma
 
 We employ all reasonable industry standard measures to protect against the unauthorized access, disclosure, modification or destruction of the information we collect and our levels of safeguards correspond to the level of sensitivity of the information. While we are committed to ensuring the security of the information, no protection measure can provide a 100% guarantee of security. Consequently, we do not warrant or guarantee the security of the information.
 
-Your personal data is stored and / or processed or otherwise used by or on behalf of StackAdapt in [Canada]. We retain your information for as long as necessary or relevant for the listed purposes in this Privacy Policy, or as required by any applicable legal and retention obligations.
+Your personal data is stored and / or processed or otherwise used by or on behalf of StackAdapt. We retain your information for as long as necessary or relevant for the listed purposes in this Privacy Policy, or as required by any applicable legal and retention obligations.
 
 ##### Sharing Data
 
