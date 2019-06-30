@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s2ki.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228184919id_/https%3A//www.internetbrands.com/privacy/privacy-main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s2ki.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231949id_/https%3A//www.internetbrands.com/privacy/privacy-main.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ This privacy policy applies to all users of our sites and services and covers wh
 
 For the purposes of the General Data Protection Regulation 2016/679 (the “GDPR”), the Data Controller is MH Sub I, LLC registered in the State of Delaware, United States of America with a registered address at 909 N. Pacific Coast Highway, 11th Floor., El Segundo CA 90245.
 
-You can contact our Data Protection Officer by sending an email to [privacy@internetbrands.com](mailto:privacy@internetbrands.com) or by writing to:
+You can contact our Data Protection Officer by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2a5a58435c4b49536a43445e4f58444f5e48584b444e5904494547) or by writing to:
 
 MH Sub I, LLC  
 Attn: Legal Department  
@@ -174,8 +174,8 @@ When you submit a request using our services to send your information to a third
   1. To the extent permitted by law, you may receive all disclosures and notices regarding your loan transaction in electronic form, including, but not limited to, any notices (such as adverse action notices and privacy policy notices) required by the Equal Credit Opportunity Act, Gramm-Leach, Bliley Act, other federal law, and any implementing regulations. Your consent applies to any loan request submitted to a lender or dealer through the Site or Services and to any other dealings or transactions you may have with that lender or dealer.
   2. Hardware and Software. Before you decide to do business electronically with a third party lender or dealer, you should consider whether you have the required hardware and software described below. By submitting your information, you acknowledge that you have the required hardware and software designated below to access the documents.
     1. The documents may be provided to you either on the third party’s website, in an email message, or as an attachment to an email message sent to the email address you provide as part of your request through the Site or Services and/or application or registration with the lender or dealer. To access the documents, you will need an email account and may need Adobe Acrobat Reader version 7 or higher, and a personal computer or other access device which is capable of accessing the Internet. To retain the documents, your access device must have the ability to either download the documents to your computer's hard drive or have must have a printer to print the documents. You should send any questions regarding the hardware and software requirements directly to the third party lender or dealer.
-  3. Right to Paper Copies. You have the right to have any documents provided to you in paper form rather than electronic form. You can request the paper copies for your loan transaction or other communications from the third party lender or dealer that you are contacting for a loan. For convenience, if you wish to obtain documents in paper form from CarFinance Capital, LLC you may contact ElectronicRecords@CarFinance.com and from Santander by calling (855) 563-5635.
-  4. Right to Withdraw Consent; Update Contact Information. You may withdraw your consent to use and receive electronic signatures, records and disclosures in connection with your loan transaction or other communications or update your contact information at any time by contacting the third party lender or dealer that you are contacting for a loan. For convenience, you may withdraw consent from, or update your contact information with, CarFinance Capital, LLC by emailing ElectronicRecords@CarFinance.com and Santander by calling (855) 563-5635.
+  3. Right to Paper Copies. You have the right to have any documents provided to you in paper form rather than electronic form. You can request the paper copies for your loan transaction or other communications from the third party lender or dealer that you are contacting for a loan. For convenience, if you wish to obtain documents in paper form from CarFinance Capital, LLC you may contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and from Santander by calling (855) 563-5635.
+  4. Right to Withdraw Consent; Update Contact Information. You may withdraw your consent to use and receive electronic signatures, records and disclosures in connection with your loan transaction or other communications or update your contact information at any time by contacting the third party lender or dealer that you are contacting for a loan. For convenience, you may withdraw consent from, or update your contact information with, CarFinance Capital, LLC by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and Santander by calling (855) 563-5635.
 
 
 
@@ -325,7 +325,7 @@ FOR RESIDENTS OF THE EUROPEAN UNION ONLY. Under European data protection law, in
 
 In addition, you have the right to ask us not to process your personal information for marketing purposes. We will usually inform you (before collecting your personal information) if we intend to use your personal information for such purposes or if we intend to disclose your information to any third party for such purposes. 
 
-You can exercise any of these rights by filling out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php) or sending an email to [privacy@internetbrands.com](mailto:privacy@internetbrands.com) with “EU Privacy Rights” in the subject line. If you believe that we have not complied with its obligations under this Privacy Policy or European law, you have the right to make a complaint to an EU Data Protection Authority.
+You can exercise any of these rights by filling out our [Privacy Contact Form](https://www.internetbrands.com/privacy/privacy-contact-form.php) or sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#106062796671736950797e6475627e75647262717e74633e737f7d) with “EU Privacy Rights” in the subject line. If you believe that we have not complied with its obligations under this Privacy Policy or European law, you have the right to make a complaint to an EU Data Protection Authority.
 
 *  
 
