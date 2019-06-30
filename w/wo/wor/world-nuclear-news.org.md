@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the world-nuclear-news.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230155757id_/http%3A//www.world-nuclear-news.org/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-nuclear-news.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212716id_/http%3A//world-nuclear-news.org/Privacy-Notice) for the most accurate reproduction.*
 
 # Privacy Notice - World Nuclear News
 
