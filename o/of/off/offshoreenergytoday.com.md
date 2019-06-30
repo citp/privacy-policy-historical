@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offshoreenergytoday.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231175235id_/https%3A//www.navingo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offshoreenergytoday.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630130134id_/https%3A//www.navingo.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Navingo
 
@@ -24,6 +24,13 @@ Ticketing - Events
 For the ticketing of our events we gather personal data as well as additional information about your background and industry. Depending on which event you attend, your name, job title, educational level/information and company name may be gathered and/or printed on your visitor badge that is in fact your entry ticket to the events. Your email address will be used to send you your e-ticket.
 
 Your background information such as: role, business activity, decision making authority, sector, etc. will be used will be processed anonymously and will be used for:
+
+Photo/Video recording  
+Navingo will be recording their events by taking pictures and recording videos. This footage (pictures and videos) is also subject to being shared on our (social) media channels for promotional purposes. These recordings are going to take place on the day you are in attendance of the event. By agreeing on the terms of our Privacy Policy, Navingo is granted in using this footage with possible recordings of yourself in our photos and/or videos. Explicit consent is not sought from individuals. In case of any given interview, you will be informed (verbally) prior to the recording taking place of the purpose of the recording and where it will be made available.
+
+  
+Exhibitor Services - Events  
+Exhibitors of our events will be granted access to an exhibitor portal. Services in this portal may include but are not limited to:
 
 \- Entry form for data to be published in catalogue, app, website  
 \- Ordering furniture  
@@ -95,7 +102,7 @@ Reaction by Navingo
 Requests may be sent to info@navingo.com. Navingo will grant your request as soon as possible, with a maximum of one (1) month after Navingo received such a request. In case Navingo rejects your request, we will inform you why the request was rejected.
 
 **6\. Recipients of data**  
-The information may be passed on to parties Navingo works with to process data, including – but not limited to - : E-mark Mail, E-concepts, Webstecks, HVMP, Salesforce, Exonet, Piwik, SmartAdServer,, Twinfield, Otys, Instant Magazine, Winsys, Microsoft, Axoft, KPN, SMPT, Drukkerij Crezee, Amsterdam RAI, Adexpo, Arti 7, Survey Monkey, Uptrends, Add This.
+The information may be passed on to parties Navingo works with to process data, including – but not limited to - : E-mark Mail, Copernica, E-concepts, Webstecks, HVMP, Salesforce, Exonet, Piwik, SmartAdServer, Twinfield, Otys, Instant Magazine, Winsys, Microsoft, Axoft, KPN, SMPT, Drukkerij Crezee, Amsterdam RAI, Adexpo, Arti 70, CEVA, Survey Monkey, Uptrends, Add This, CloudFare, DigitalOcean, LevelLevel, Online Department, Leedfeeder, TriplePro.
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include the trusted third parties listed above who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
 
@@ -127,4 +134,4 @@ Navingo has implemented appropriate technical and organisational measurements in
 **12\. Amendments to Privacy Statement**  
 Navingo has the right to make amendments to this Privacy Statement. Each amendment will be announced on this page. Navingo advises those involved to check this page regularly to see if any adjustments were made.
 
-The current privacy statement has been updated on 16 May 2018
+The current privacy statement has been updated on 07 February 2019.
