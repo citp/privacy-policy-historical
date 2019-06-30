@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pastemagazine.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226031422id_/https%3A//www.pastemagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastemagazine.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223155id_/https%3A//www.pastemagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security :: Paste
 
-Privacy and Security
-
-(Last Updated on November 19, 2018) 
+**Privacy and Security**
 
 Paste Magazine helps our readers to discover what's happening in Pop Culture, Politics and more. We are committed to protecting your personal security and privacy, and we appreciate your trust that we will uphold this commitment. 
 
@@ -12,7 +10,7 @@ This Privacy Policy applies to all websites and web applications ("Sites") which
 
 If you have any questions about how we use your personal information, please contact us at [privacy@paste.com](mailto:privacy@paste.com). 
 
-_Information we collect_
+**Information we collect**
 
 1) Across our Sites you will be presented with the opportunity to sign up for our **Newsletters**. For this we collect your email address. 
 
@@ -24,7 +22,7 @@ If you wish to manage your cookies, please follow the instructions in the “How
 
 Would you like to opt-out of first-party tracking?
 
-_How we use your personal information_
+**How we use your personal information**
 
 We collect personal information for the following reasons: 
 
@@ -38,7 +36,7 @@ More information about this practice and your choices about not having this info
 
 **To improve our Sites** \- we use cookies to understand how our customers use our Sites and interact with our communications and journalism. For example, we use technology on our Sites, which records user movements, which pages are most popular, and how navigation options are used. This helps us to identify usability issues and improve the assistance we can provide to users and is also used for aggregated and statistical reporting purposes. We also use cookies to understand what type of device you are using to show you the best version of the site. 
 
-_Who we share your personal information with_
+**Who we share your personal information with**
 
 We disclose personal information to our advertising partners, through cookies to collect personal information and serve you with advertisements that we believe are relevant to you and your interests. 
 
@@ -46,17 +44,15 @@ We disclose your email address to a service provider we engage to manage our new
 
 We have contracts in place with all advertising partners and service providers. They can only use your personal information under our instruction. 
 
-_How to manage cookies_
+**How to manage cookies**
 
 If you wish to manage your cookies, then please follow the instructions below. Please remember that if you choose to disable cookies, certain sections of our Sites may not work properly. 
 
 We use Google Analytics as our primary analytics tool. If you wish to opt out of having cookies placed on your device for Google Analytics you can do so by using [Google's opt-out browser add-on](https://tools.google.com/dlpage/gaoptout), which helps make opting out easy and convenient. 
 
-On some of our Sites, we work with the Google ad platform. You can opt out of behaviourally targeted advertising through Google at [www.google.com/settings/ads](http://www.google.com/settings/ads)
+On some of our Sites, we work with the Google ad platform. You can opt out of behaviourally targeted advertising through Google at [www.google.com/settings/ads](http://www.google.com/settings/ads)[]()
 
-We also allow other third parties to target you based on data you have provided to them, to the extent that you have consented to this. For more information, please visit 
-
-[www.allaboutcookies.org](http://www.allaboutcookies.org/)
+We also allow other third parties to target you based on data you have provided to them, to the extent that you have consented to this. For more information, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 To opt out of these cookies, please visit: 
 
@@ -66,11 +62,11 @@ By opting out of these types of cookies on each browser and device you use, you 
 
 You can also manage your cookies via your browser settings. For more information, please visit your browser’s help page. 
 
-_How long we retain your personal information_
+**How long we retain your personal information**
 
 We keep your information for no longer than necessary for the purposes for which it is processed. The length of time for which we retain information depends on the purposes for which we collected and use it and/or as required to comply with applicable laws. 
 
-_Lawful basis for processing_
+**Lawful basis for processing**
 
 We only process personal information where we have a lawful basis for doing so, such as the following: 
 
@@ -78,10 +74,10 @@ We only process personal information where we have a lawful basis for doing so, 
 
 **Legitimate interest** \- This is where we have a legitimate interest, as a business, to process personal information. For example, where we are aware of copyright infringements on our Site, it is in our legitimate interests as a business to identify those responsible. We take due care to balance our interests against your right to privacy. 
 
-_How we protect your data_
+**How we protect your data**
 
 All communications with our Sites, including submission of your email address for Newsletter subscription, is encrypted using SSL (secure sockets layer). 
 
-_Contact Us regarding your privacy_
+**Contact Us regarding your privacy**
 
 If you have any questions or concerns about any aspect of this Privacy Policy, please [email us at privacy@paste.com](mailto:privacy@paste.com).
