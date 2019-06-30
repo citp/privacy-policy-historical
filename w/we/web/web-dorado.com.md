@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-dorado.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230070553id_/https%3A//web-dorado.com/web-dorado-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-dorado.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630082956id_/https%3A//web-dorado.com/web-dorado-privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy | Web-Dorado
 
@@ -253,7 +253,7 @@ To this end:
 
 
 
-You can reach us at [support@web-dorado.com](mailto:support@web-dorado.com) for requests related to our above commitments. We may ask to confirm your requests by sending an email to your email account registered with Us.
+You can reach us at [[email protected]](https://web-dorado.com/cdn-cgi/l/email-protection#cebdbbbebea1bcba8eb9abace3aaa1bcafaaa1e0ada1a3) for requests related to our above commitments. We may ask to confirm your requests by sending an email to your email account registered with Us.
 
 ### What Data Breach Procedures We Have In Place
 
@@ -295,7 +295,7 @@ We reserve the right to update or change our Privacy Policy at any time and it i
 
 ### CONTACT US
 
-If you have any questions about this Privacy Policy, please [contact us.](mailto:support@web-dorado.com)
+If you have any questions about this Privacy Policy, please [contact us.](https://web-dorado.com/cdn-cgi/l/email-protection#73000603031c0107330416115e171c0112171c5d101c1e)
 
   
 
