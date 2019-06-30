@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beachfront.io privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231225039id_/http%3A//beachfront.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachfront.io privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235605id_/http%3A//beachfront.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **PRIVACY POLICY**
 
-THIS PRIVACY POLICY WAS LAST UPDATED ON **May 23 rd 2018­ **
+THIS PRIVACY POLICY WAS LAST UPDATED ON **Jan 7th  2019­ **
 
 **It’s worth knowing what we will and won’t do with your information.**
 
@@ -72,9 +72,9 @@ Also, the Web publisher or advertiser with whom we partner may use cookies, acti
 
 **OPT-OUT PROCEDURE AND COOKIE CONTROL**
 
-Should you wish to opt-out of us placing a cookie on your browser, you can [click here](http://www.networkadvertising.org/managing/opt_out.asp) to deploy an “opt-out” cookie on your browser. This cookie, when installed on your browser, will prevent us from placing a new cookie on that browser and from collecting data on that browser. The NAI’s opt-out tool also allows you to opt-out of the data collection and targeted ad programs of other NAI members. You may access the NAI opt-out [tool here](http://www.networkadvertising.org/managing/opt_out.asp).
+Should you wish to opt-out of us placing a cookie on your browser, you can [click here](http://optout.bfmio.com/analytics/optout) to deploy an “opt-out” cookie on your browser. This cookie, when installed on your browser, will prevent us from placing a new cookie on that browser and from collecting data on that browser.
 
-Our opt-out tool and the NAI opt-out tool, are cookie-based. Both opt-out tools only prevent us from collecting data pertaining to you on the browser on which they are installed, and will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser’s cookie files, we may collect data and place a new cookie unless an opt-out cookie is reset on that browser. If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality, and you may see the same content and advertisements repeatedly on some websites.
+Our opt-out tool is cookie-based. Opt-out tools only prevent us from collecting data pertaining to you on the browser on which they are installed, and will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser’s cookie files, we may collect data and place a new cookie unless an opt-out cookie is reset on that browser. If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality, and you may see the same content and advertisements repeatedly on some websites.
 
 **OPT-OUT PROCEDURE FOR MOBILE INTERNET-BASED OR MOBILE DEVICE ADVERTISING**
 
@@ -112,7 +112,7 @@ We do not sell, license or share information that individually identifies our cu
 
 **Service Providers**
 
-We may employ third-party companies and individuals to facilitate the Services, to provide the Services on our behalf, to perform website-related services (e.g., without limitation, maintenance services, database management, Web analytics, and improvement of the Site’s features) or to assist us in analyzing how our Site and Services are used. These third parties have access to your personal information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+We may employ third-party companies and individuals to facilitate the Services, to provide the Services on our behalf, to perform website-related services (e.g., without limitation, maintenance services, database management, Web analytics, security and quality of advertising, and improvement of the Site’s features) or to assist us in analyzing how our Site and Services are used. These third parties have access to your personal information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
 **Compliance with Laws and Law Enforcement**
 
@@ -200,4 +200,34 @@ California Civil Code Section 1798.83 permits End Users who are California resid
 
 **CHANGES TO PRIVACY POLICY**
 
-BFM is committed to continually examining and reviewing its privacy practices, and may make changes to its Privacy Policy. In the event that any changes that we believe are material are made to the company´s privacy practices, we will post a dated revised Privacy Policy on this website.
+BFM is committed to continually examining and reviewing its privacy practices, and may make changes to its Privacy Policy. In the event that any changes that we believe are material are made to the company’s privacy practices, we will post a dated revised Privacy Policy on this website.
+
+**BEACHFRONT ADVERTISING POLICY**
+
+This policy applies to buyers (“ **Buyer** ”) of advertising inventory (“ **Ad Inventory** ”) through the Beachfront platform, services and systems (the “ **Beachfront Platform** ”) and to all advertising material or content in any format and however delivered, together with related code and other material used for placement and display of such material or content on the Ad Inventory (“ **Advertisements** ”).
+
+Buyer will comply with all laws and regulations applicable to it in connection with its purchase of Ad Inventory through the Beachfront Platform and will ensure that all Advertisements for which Buyer uses the Beachfront Platform comply with all applicable laws and regulations, and will not contain content that:
+
+  * is misleading, deceptive or unethical
+  * is libelous or defamatory
+  * is obscene, sexual or pornographic in nature
+  * encourages or promotes terrorism or violence
+  * is firearms or weapons related
+  * is hateful or discriminates against individuals based on race, gender, religion ethnicity, nationality or sexual orientation
+  * is illegal or promotes illegal activity
+  * infringes on any third party’s intellectual property or other rights
+
+
+
+Buyer will not and will not allow any of its advertiser and advertising network clients to:
+
+  * introduce viruses or other malware to the Beachfront Platform
+  * create either “forced visit” traffic or spyware/adware loading pages (including, in either case, popups or popunders) which load Advertisements
+  * create invisible or nested invisible IFRAMEs loading pages which load Advertisements
+  * use spyware/adware, load Advertisements invisible, stacks Advertisements or other mechanisms that create fraudulent impressions
+  * reload/refresh any code causing multiple impressions to be registered in short succession
+  * use the Beachfront Platform in a manner that damages the Beachfront Platform
+
+
+
+Beachfront reserves the right to refuse or take down any Advertisements that do not comply with the foregoing requirements.
