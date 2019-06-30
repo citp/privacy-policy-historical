@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneywise.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329030436id_/http%3A//moneywise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneywise.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630090306id_/https%3A//moneywise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,13 @@
 
 This policy takes effect on 1 June 2017.
 
+**Last Updated Date**
+
+This policy was last updated on 29 April 2018.
+
 ## 1\. Introduction
 
-Welcome to the digital properties of 2576250 Ontario Inc., which include the Internet sites and software applications that you access or download to view Content of 2576250 Ontario Inc. (collectively "Sites" or each a "Site"). Unless a 2576250 Ontario Inc. Site has its own Privacy Policy, the collection, use and disclosure of your Personal Information will be governed under the terms of this privacy policy ("Privacy Policy"). By using our Sites, you consent to the collection, use and disclosure of your Personal Information under the terms of this Privacy Policy.
+Welcome to the digital properties of Wise Publishing, Inc., which include the Internet sites and software applications that you access or download to view Content of Wise Publishing, Inc. (collectively "Sites" or each a "Site"). Unless a Wise Publishing, Inc. Site has its own Privacy Policy, the collection, use and disclosure of your Personal Information will be governed under the terms of this privacy policy ("Privacy Policy"). By using our Sites, you consent to the collection, use and disclosure of your Personal Information under the terms of this Privacy Policy.
 
 We take the security and privacy of you and your Personal Information very seriously and we are committed to safeguarding your privacy. Please be aware that communications over the Internet, such as emails, are not secure unless they are encrypted. We do not accept any responsibility for any unauthorized access, theft or loss of Personal Information beyond our reasonable control. We may change this policy without notice from time to time to reflect changes in legal or regulatory obligations; however, if we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on our Sites prior to the change becoming effective. You may wish to check this section from time to time, because by visiting our Sites, you agree to accept any such changes.
 
@@ -32,9 +36,13 @@ The _Ontario Freedom of Information and Protection of Privacy Act, R.S.O. 1990_ 
 
 _Personal Information Protection and Electronic Documents Act, SC 2000_ , c. 5 (Canada), as amended from time to time;
 
+" **GDPR** "
+
+_General Data Protection Regulation_ , (EU) 2016/679, as amended from time to time;
+
 " **we** ", " **us** " or " **our** "
 
-2576250 Ontario Inc., a company duly incorporated under the laws of the province of Ontario;
+Wise Publishing, Inc., a company duly incorporated under the laws of the province of Ontario;
 
 " **you** ", " **your** "
 
@@ -94,7 +102,7 @@ We reserve the right to disclose Personal Information to a third party if a law,
 
 _In the event of a proposed or actual acquisition._
 
-We reserve the right to disclose and/or transfer Personal Information to a third party in the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of 2576250 Ontario Inc. or of any of the business or assets or shares of 2576250 Ontario Inc. or a division thereof in order for you to continue to receive the same products and services from the third party. In any of these events, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
+We reserve the right to disclose and/or transfer Personal Information to a third party in the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Wise Publishing, Inc. or of any of the business or assets or shares of Wise Publishing, Inc. or a division thereof in order for you to continue to receive the same products and services from the third party. In any of these events, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 
 ## 6\. Security, Retention and Storage of Personal Information
 
@@ -102,19 +110,24 @@ We are committed to ensuring that your Personal Information is secure. In order 
 
 We retain your Personal Information for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purposes(s) remains valid after termination of our relationship with you.
 
-For the purposes set out in this policy, we or one of our affiliates or an unaffiliated service provider may process and store your Personal Information outside of the jurisdiction in which you reside, and under the laws of those other foreign jurisdictions, in certain circumstances courts, law enforcement agencies, regulatory agencies or security authorities in those other foreign jurisdictions may be entitled to access your Personal Information. By providing us with your Personal Information, you are allowing your Personal Information to be transferred outside of Canada. For more information about our policies and practices related to the use of foreign service providers, please contact our Privacy Officer using a method described in Section 10, Contact Us.
+For the purposes set out in this policy, we or one of our affiliates or an unaffiliated service provider may process and store your Personal Information outside of the jurisdiction in which you reside, and under the laws of those other foreign jurisdictions, in certain circumstances courts, law enforcement agencies, regulatory agencies or security authorities in those other foreign jurisdictions may be entitled to access your Personal Information. By providing us with your Personal Information, you are allowing your Personal Information to be transferred outside of Canada. For more information about our policies and practices related to the use of foreign service providers, please contact our Privacy Officer using a method described in Section 11, Contact Us.
 
-## 7\. Cookies and/or Localstorage
+For the purposes of the GDPR, if you are accessing our Sites from within the European Economic Area (" **EEA** ") and/or you are a citizen of the European Union (" **EU** "), please be aware that Wise Publishing, Inc. is a Canadian company, with its offices in Toronto, Ontario. Please also be aware that data centres hosting our cloud-based computing infrastructure may be located in the United States.
 
-Our Sites use Cookies and Localstorage, as almost all websites do, with the intention of providing you with the best experience we can.
+The European Commission has made an "adequacy decision" with respect to the data protection laws of both Canada and the United States.
 
-Our use of Cookies and Localstorage help us:
+## 7\. Cookies and/or Local Storage
+
+Our Sites use Cookies and Local Storage (" **Cookies** "), as almost all websites do, with the intention of providing you with the best experience we can.
+
+Our use of Cookies help us:
 
   * make our Sites work as you would expect;
   * save you having to login every time you visit our Sites;
   * remember your settings during and between visits;
-  * offer you free services/content (thanks to advertising); and,
-  * personalize our Sites to you to help you get what you need faster.
+  * offer you free services/content (thanks to advertising);
+  * personalize our Sites to you to help you get what you need faster; and,
+  * store your preferences in relation to the use of Cookies more generally.
 
 
 
@@ -126,46 +139,77 @@ We do not use Cookies to:
 
 
 
-There is no way to prevent analytical or performance Cookies being set other than to not use 2576250 Ontario Inc. Sites. If you have disabled Cookies or Localstorage in your browser, you will be denied access to the portions of our Sites that legitimately require Cookies or Localstorage for functionality.
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of Cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: <https://www.google.com/policies/privacy/>.
+
+We use New Relic to analyze the performance of our website. New Relic gathers information about website performance by means of Cookies. The information gathered is used to create reports and optimize the performance of our website. New Relic's privacy policy is available at: <http://www.newrelic.com/privacy>.
+
+We use Connatix to deliver video advertising. The Connatix privacy policy is available at: <https://connatix.com/privacy-policy>.
+
+At this time, there is no way to prevent Google Analytics or New Relic Cookies being set other than to disable Cookies in your browser, or not use our Sites. If you have disabled Cookies in your browser, you will be denied access to the portions of our Sites that legitimately require Cookies for functionality.
+
+For the purposes of the GDPR, if we determine you are accessing our Sites from within the EEA and/or you are a citizen of the EU, we will ask you to consent to our use of Cookies when you first visit our Sites. If you choose not to consent, we will need to set a single Cookie to block interest-based advertisements and all portions of our Sites that legitimately require Cookies for functionality. Please note, if you clear Cookies from your browser, your opt-out will not be maintained.
+
+## 8\. Advertising Cookies
 
 A special note on advertising Cookies:
 
 Cookies are widely used in online advertising. We only work with advertising partners who work to accepted privacy standards such as those set by the Digital Advertising Alliance of Canada (DAAC), which can be found at http://www.youradchoices.ca.
 
-Please note that third parties (including, for example advertising networks or external services like web traffic analysis services) will use Cookies over which we have no control. Information on how to block Cookies can normally be found within the help features of your browser. If you use your browser settings to block all Cookies, you may not be able to access all or parts of our Sites. Please visit your browser's help and support website for more information.
+Please note that third parties (including, for example advertising networks or external services like web traffic analysis services) will use Cookies over which we have no control. Information on how to block and delete Cookies can normally be found within the help features of your browser or via these links:
+
+You can opt-out of advertising Cookies with a browser plug-in or browser settings or through services provided by the National Advertising Initiative or the Digital Advertising Alliance.
+
+  * [Browser Plugin](https://support.google.com/ads/answer/7395996)
+
+  * [National Advertising Initiative](http://optout.networkadvertising.org/)
+
+  * [Digital Advertising Alliance](http://optout.aboutads.info/)
+
+  * <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
+
+  * <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);
+
+  * <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
+
+  * <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
+
+  * <https://support.apple.com/kb/PH21411> (Safari); and
+
+  * <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
+
+
+
+
+If you use your browser settings to block all Cookies, you may not be able to access all or parts of our Sites. Please visit your browser's help and support website for more information.
 
 Our third party advertising partners may employ clear gifs, images, and scripts that help them better manage content on our Sites. We do not tie the information gathered to your Personal Information.
 
-## 8\. Links to Other Websites
+## 9\. Links to Other Websites
 
 Our Sites may contain links to other websites of interest; however, once you have used these links to leave our Sites, you should note that we do not have any control over that other website and the privacy practices of other websites. We cannot be responsible for the protection and privacy of any information which you provide while visiting such websites and such websites are not governed by this Privacy Policy. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-## 9\. Controlling Your Personal Information
+## 10\. Controlling Your Personal Information
 
 You may choose to restrict the collection, use or disclosure of your Personal Information in the following ways:
 
-When you submit posts or leave comments on our Sites, you should be aware that any information you provide may be read, collected, and used by others who access them. You can remove any of your previously submitted information, by availing yourself to the delete option or by contacting us using a method described in Section 10, Contact Us. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+When you leave comments on our Sites, you should be aware that any information you provide may be read, collected, and used by others who access them. You can remove any of your previously submitted information, by availing yourself to the delete option or by contacting us using a method described in Section 11, Contact Us. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
 
-If you have previously agreed to us using your Personal Information, you may change your mind at any time by contacting us using a method described in Section 10, Contact Us.
+If you have previously agreed to us using your Personal Information, you may change your mind at any time by contacting us using a method described in Section 11, Contact Us.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in those emails or by contacting us using a method described in Section 10, Contact Us.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in those emails or by contacting us using a method described in Section 11, Contact Us.
 
 You have the right to request from us information as to what Personal Information which we are processing about you under PIPEDA and other applicable privacy laws. Unless prohibited by law, a small fee of $10.00 CAD will be payable as such requests will only be answered by registered post to ensure the privacy of the recipient. If you would like a copy of the relevant information please write to the Privacy Officer, which should be accompanied by the $10.00 fee (if applicable). We will provide you with the relevant information within thirty (30) days of receipt of the fee or otherwise as required by law.
 
-## 10\. Contact Us
+## 11\. Contact Us
 
 If you have any queries about our processing or use of your Personal Information, or wish to modify or correct or delete your Personal Information, you should write, in the first instance to our Privacy Officer.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+privacy@wisepublishing.com
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+hello@wisepublishing.com
 
-1300-350 Bay Street, Toronto, ON M5H 2S6
+40 Eglinton Avenue East, Suite 203, Toronto, Ontario, M4P 3A2
 
-## 11\. Privacy Commissioner of Canada
+## 12\. Privacy Commissioner of Canada
 
 If you want to learn more about your rights regarding your Personal Information, you should contact the Office of the Privacy Commissioner of Canada at 1-800-282-1376 or visit their website at <http://www.priv.gc.ca/index_e.asp>.
-
-**Last Updated Date**
-
-This policy was last updated on 1 June 2017.
