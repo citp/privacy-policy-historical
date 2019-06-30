@@ -1,1246 +1,1325 @@
-<!--The following is the downloaded HTML source of the crazeal.com privacy policy that was archived on 2016-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231120534id_/http%3A//www.whitepages.com/data-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crazeal.com privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630212122id_/https%3A//www.groupon.com/legal/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js"><head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<script src="https://js-agent.newrelic.com/nr-spa-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MBQDLW"></script><script type="text/javascript" async="" src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-2.5.0-min.gz.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"8853ceac01","applicationID":"16096319","transactionName":"IQsKQUNdCV5cEBpEQQMQDVZuQgRVXBEaU1QWBTtFXl4MUUA=","queueTime":0,"applicationTime":93,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw8FVFVWGwIGVFhUBAAO"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(19),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{h?h-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(20),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(p){"stack"in p&&(t(12),t(11),"addEventListener"in window&&t(6),s.xhrWrappable&&t(13),u=!0)}c.on("fn-start",function(t,e,n){u&&(h+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){j++,S=y.hash,this[u]=Date.now()}function o(){j--,y.hash!==S&&i(0,!0);var t=Date.now();this[l]=~~this[l]+t-this[u],this[h]=t}function i(t,e){x.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=Date.now()})}var c="-start",s="-end",f="-body",u="fn"+c,h="fn"+s,p="cb"+c,d="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location;if(w[v]){var g=t(9),b=t(10),x=t(8),E=t(6),T=t(12),O=t(7),R=t(13),P=t("ee"),D=P.get("tracer");t(14),t("loader").features.spa=!0;var S,N=w[v],j=0;P.on(u,r),P.on(p,r),P.on(h,o),P.on(d,o),P.buffer([u,h,"xhr-done","xhr-resolved"]),E.buffer([u]),T.buffer(["setTimeout"+s,"clearTimeout"+c,u]),R.buffer([u,"new-xhr","send-xhr"+c]),O.buffer([m+c,m+"-done",m+f+c,m+f+s]),x.buffer(["newURL"]),g.buffer([u]),b.buffer(["propagate",p,d,"executor-err","resolve"+c]),D.buffer([u,"no-"+u]),a(R,"send-xhr"+c),a(P,"xhr-resolved"),a(P,"xhr-done"),a(O,m+c),a(O,m+"-done"),x.on("pushState-end",i),x.on("replaceState-end",i),N("hashchange",i,!0),N("load",i,!0),N("popstate",function(){i(0,j>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(12),c=t(11),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",h="bstResource",p="resource",d="-start",l="-end",m="fn"+d,v="fn"+l,w="bstTimer",y="pushState";t("loader").features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+d,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(h,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(h,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,h],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(21)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",h="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(h+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(19);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,h=a.Response,p=a.fetch,d="prototype";u&&h&&p&&(i(f,function(t,e){r(u[d],e,s),r(h[d],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(21)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){var r=t("ee").get("mutation"),o=t(21)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],10:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(21),a=t("ee").get("promise"),c=i(a),s=t(19),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],11:[function(t,e,n){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],12:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(21)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",h="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+h),a.inPlace(window,[s],s+h),a.inPlace(window,[f,"clearImmediate"],f+h),i.on(s+u,r),i.on(c+u,o)},{}],13:[function(t,e,n){function r(t,e){h.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),h.inPlace(t,v,"fn-",c)}function i(t){w.push(t),l&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),h=t(21)(u),p=NREUM.o,d=p.XHR,l=p.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new d(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(d,y),y.prototype=d.prototype,h.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var g=1,b=document.createTextNode(g);new l(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],14:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<h;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(15),f=t("ee"),u=["load","error","abort","timeout"],h=u.length,p=t("id"),d=t(18),l=t(17),m=window.XMLHttpRequest;a.features.xhr=!0,t(13),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,d&&(d>34||d<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<h;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],15:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],16:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(19),c=t(20),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],h="api-",p=h+"ixn-";a(u,function(t,e){f[e]=o(h+e,!0,"api")}),f.addPageAction=o(h+"addPageAction",!0),f.setCurrentRouteName=o(h+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],17:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],18:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],19:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],20:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],21:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(20),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(h){throw u(e+"err",[r,a,h],c),h}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,h(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){p([a,n,r,o])}s=i}}function h(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!p.aborted){t&&t(n,r,o);for(var i=e(o),a=l(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function d(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return h[t]=h[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},g={on:d,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(19),u={},h={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=h.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(w,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=h.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===h.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(19),f=t("ee"),u=window,h=u.document,p="addEventListener",d="attachEvent",l=u.XMLHttpRequest,m=l&&l.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:l,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(16);var v=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-998.min.js"},y=l&&m&&m[p]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:v,features:{},xhrWrappable:y};h[p]?(h[p]("DOMContentLoaded",i,!1),u[p]("load",r,!1)):(h[d]("onreadystatechange",o),u[d]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,14,5,3,4]);</script>
-    <title>Privacy Policy | Whitepages</title>
-<meta name="description" content="Whitepages current privacy policy">
-<meta name="keywords" content="white pages, free people search, phone directory number">
+<!DOCTYPE html><html lang="en"><head data-app="content-pages" data-country="US" data-lang="en" data-locale="en_US" data-header="default" data-brand="groupon" data-domain=".groupon.com">
+  <meta charset="utf-8">
+  <style id="desktop-critical">
+  *{box-sizing:border-box}header,nav{display:block}:focus{outline:0}html{-webkit-text-size-adjust:100%;font-size:10px}body,html{min-height:100%}body{background:0;margin:0;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#707174;font-family:Open Sans,OpenSans,system,-apple-system,BlinkMacSystemFont,Roboto,Arial,FreeSans,sans-serif;font-size:1.4rem;font-weight:400;line-height:1.5;min-width:1080px}button,input{font-family:inherit;font-size:100%;margin:0;line-height:normal}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}button{text-transform:none;-webkit-appearance:button;height:auto}input[type=search]{-webkit-appearance:textfield;box-sizing:content-box}input::-webkit-search-cancel-button,input::-webkit-search-decoration{-webkit-appearance:none}label{font-weight:600;display:block;color:#333;margin:12px 0}a{color:#0076d6;text-decoration:none}ul{margin:0 0 20px;padding-left:20px}.page-container{margin:0 auto;max-width:1080px;width:100%}form{margin:0 0 10px}input{-webkit-appearance:none;background-color:#fff;border:1px solid #d5d8db;box-sizing:border-box;border-radius:2px;color:#333;display:block;font-weight:400;font-size:1.4rem;line-height:1.6rem;height:5.6rem;margin:10px 0 24px;outline:0;padding:6px 12px;width:100%;min-width:0}::-webkit-input-placeholder{color:#a5a8ab;position:relative;top:1px}::placeholder{color:#a5a8ab;position:relative;top:1px}:disabled::-webkit-input-placeholder{color:#d5d8db}:disabled::placeholder{color:#d5d8db}.ls-hide{display:none}.ax-hidden{position:absolute;height:1px;width:1px;clip:rect(1px,1px,1px,1px);border:0;overflow:hidden}.ls-inbox{height:30px;text-align:right;align-self:center;margin-left:auto;position:relative;display:inline-block}.ls-h-bell{position:relative;font-size:23px;font-weight:600}.ls-h-bell:after,.ls-h-bell:before{content:"";display:none;width:250%;height:24px;background:0 0;top:50%;position:absolute;left:-25px}.ls-h-bell:after{top:75%;width:400%;left:-45px}.header{background:var(--color-brnd);color:#fff;z-index:200;position:relative;margin-bottom:20px;padding-top:32px}.header a{text-decoration:none}.ls-header-top,.ls-header-top-row{position:relative;z-index:20}.ls-header-top-row{margin:0 auto;padding:0 7px 22px;display:flex;justify-content:space-between;align-items:center}.ls-search-wrapper{flex-grow:1}.ls-groupon-logo{min-width:126px;position:relative;outline:0;margin:0 24px 0 0;height:23px;line-height:23px}.ls-groupon-logo svg{fill:#fff}.user-wrapper{position:absolute;top:-32px;right:0;left:0;padding:8px 7px 0;width:100%;display:flex;justify-content:flex-end;z-index:11}.ls-channel-nav{background:#fff;border-bottom:1px solid #d5d8db;padding:0;margin:0;z-index:10;min-height:46px;position:relative}.ls-nav-row{z-index:8}.primary-nav{margin:0;padding:0 10px;list-style:none;font-weight:300;display:flex;align-items:center;justify-content:space-between}.primary-nav a{line-height:45px;margin:0;padding:0;display:inline-block;position:relative;z-index:110;text-align:center;white-space:nowrap;font-size:14px;font-weight:400;color:#707174}.primary-nav.smaller-nav-links a{font-size:13px}.primary-nav-tab{text-align:center;padding:0}.primary-nav-tab:first-child{text-align:left}.primary-nav-tab:last-child{text-align:right}.search-bar-v2{position:relative;margin:0 24px 0 0;display:flex;flex:1 0;max-width:700px}.search-bar-icon:before{color:#a5a8ab;position:absolute;font-size:18px;top:50%;left:9px;width:18px;height:18px;margin:-9px 0 0;text-align:center}.location-search:before{left:7px}.search-box{display:inline-block;vertical-align:middle;position:relative;z-index:0;background:#fff;height:35px;border:0;padding:0 0 0 30px;margin:0 7px 0 0;font-weight:400;border-radius:2px}.deal-search{width:658px;flex:1 0;width:100%;padding-left:35px}.deal-search input{width:623px}.location-search{width:195px}.location-search input{width:160px}.search-bar-v2 input{font-weight:400;font-size:14px;z-index:2;margin:0;padding:0 10px 0 0;background:0 0;border:0;height:35px;width:100%;box-sizing:border-box;position:relative}.ls-header-search-button{height:35px;width:35px;min-width:35px;text-align:center;padding:0;font-size:16px;vertical-align:middle;font-weight:600;background:0;border:1px solid #fff;border-radius:2px;position:relative}.ls-header-search-button:before{display:inline-block;height:20px;color:#fff;width:20px;line-height:20px;padding-top:2px;-webkit-font-smoothing:initial;-moz-osx-font-smoothing:auto}.user-menu{margin:0;position:relative;z-index:2}.user-menu-item{line-height:15px;display:inline-block;vertical-align:top;font-size:12px;color:#fff;border:0;text-decoration:none;margin:0 6px 0 14px;position:relative;text-transform:capitalize;padding:0 0 7px;white-space:nowrap;letter-spacing:.013rem}.fix-spacing .user-menu-item{margin-left:10.25px}.show4C,.show4user{display:none}.signup-container{display:inline-flex;justify-content:flex-end;margin:8px 0 0;position:relative}.signup-container .user-menu-action{font-weight:600;font-size:14px;vertical-align:text-top}.cart-widget{position:relative}.cart-widget:after{content:"";position:absolute;left:0;right:0;top:100%;height:23px;display:none}.cart-link{color:#fff}.cart-link:before{padding:0 2px;margin:-2px 3px 0 0;display:inline-block;vertical-align:middle;-webkit-font-smoothing:initial;-moz-osx-font-smoothing:auto}    :root{--color-brnd:#53a318;--color-prim-600:#3e8f00;--color-prim-400:#53a318;--color-prim-200:#a9d18c;--color-blue-600:#0081e3;--color-blue-050:#e8f8ff;--color-price:#53a318;--color-purple-600:#6650d7;--color-red-600:#fc0048;--color-red-050:#fff1f4;--color-yellow-200:#ffc120;--color-yellow-050:#fff5db;--color-teal-400:#02e2ee;--color-urgent:#e35205;--color-black:#333;--color-gray-600:#727578;--color-gray-400:#a5a8ab;--color-gray-200:#d5d8db;--color-gray-100:#e6e7e8;--color-gray-050:#f6f7f8;--color-white:#fff;--color-youtube:#f00;--color-facebook:#3b5998;--color-linkedin:#0077b5;--color-twitter:#55acee;--color-pinterest:#bd081c;--color-google-plus:#db4a39;--color-white-50pct:rgba(255,255,255,0.5);--color-black-50pct:rgba(0,0,0,0.5);--color-purple-90pct:rgba(102,80,215,0.9);--color-prim-dk:#3e8f00;--color-prim:#53a318;--color-prim-lt:#a9d18c;--color-ntc:#0081e3;--color-ntc-lt:#e8f8ff;--color-accent:#6650d7;--color-err:#fc0048;--color-err-lt:#fff1f4;--color-alert:#ffc120;--color-alert-lt:#fff5db;--color-gray-dk:#727578;--color-gray-md:#a5a8ab;--color-gray-lt:#d5d8db;--color-gray-clr:#e6e7e8;--color-gray-bg:#f6f7f8}
+</style>
 
-
-
-<link rel="canonical" href="http://www.whitepages.com/data-policy">
-
-    <meta content="app-id=287734809" name="apple-itunes-app-sb">
-<meta content="app-id=com.google.android.whitepages" name="google-play-app">
-<link href="https://cdnwp.global.ssl.fastly.net/assets/apple-touch-icon-iphone4-96ffc24c0fc78c53dcdc42e5d2ce6abe.png" rel="apple-touch-icon" type="image/x-icon">
-
-    <meta http-equiv="cleartype" content="on">
-    <meta content="True" name="HandheldFriendly">
-    <meta name="msapplication-config" content="none">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <link href="//fonts.googleapis.com/css?family=Roboto:500,400,100,300|Oxygen:300,700" rel="stylesheet" type="text/css">
-    <link href="https://cdnwp.global.ssl.fastly.net/assets/favicon-bd8453ae199f40747592e8506f1f37dc.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-
-    <link href="https://cdnwp.global.ssl.fastly.net/assets/application-ed8324b7939fb02f2f1690c9b9dce580.css" media="screen" rel="stylesheet">
-    <!--[if gt IE 9]-->
-      <style> #footer iframe { width: 302px; } </style>
-    <!--[endif]-->
-    <link href="https://cdnwp.global.ssl.fastly.net/assets/print-4e2558208b41b9a487f8466575c15665.css" media="print" rel="stylesheet">
-
-    <link href="/3rdr/assets/stylesheets/endemics.css?19941726497" media="screen" rel="stylesheet" type="text/css">
-    <!--[if lt IE 9]>
-      <link href="/3rdr/assets/stylesheets/endemics-ie.css?55113159883" media="screen" rel="stylesheet" type="text/css">
-    <![endif]-->
-    <link href="/assets/stylesheets/legal.css" media="screen" rel="stylesheet">
-<link href="http://fonts.googleapis.com/css?family=Roboto:900,400,300,100" rel="stylesheet" type="text/css">
+  <meta http-equiv="x-dns-prefetch-control" content="on">
+  <link rel="preconnect" href="https://www2.grouponcdn.com">
+  <link rel="preconnect" href="https://www1.grouponcdn.com">
+  <link rel="preconnect" href="https://img.grouponcdn.com">
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/Groupon-c6113a08ae.woff2" crossorigin="" type="font/woff2" as="font">
+  <link rel="preload" as="font" crossorigin="" type="font/woff2" href="https://www2.grouponcdn.com/layout/assets/OpenSansRegular-4511fb0ce0.woff2">
+<link rel="preload" as="font" crossorigin="" type="font/woff2" href="https://www2.grouponcdn.com/layout/assets/OpenSansSemiBold-ae379b1027.woff2">
+<link rel="preload" as="font" crossorigin="" type="font/woff2" href="https://www2.grouponcdn.com/layout/assets/OpenSansLight-2fd0ffaf77.woff2">
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/desktop-grpn-v7.0-3c9ecc49f4.css" as="style">
+      <link href="https://www2.grouponcdn.com/layout/assets/desktop-grpn-v7.0-3c9ecc49f4.css" rel="stylesheet">
+    <link rel="preload" href="https://www1.grouponcdn.com/content-pages/assets/content_pages-5d723231b0.css" as="style">
+  <link rel="stylesheet" href="https://www1.grouponcdn.com/content-pages/assets/content_pages-5d723231b0.css">
 
 
-    <script>
-  window.WP = typeof WP !== 'undefined' ? WP : {};
-  WP.cip = function() {
-    return "d88ae32b437dde22251a0cfeb08e2d85"
-  };
-
-</script>
-    
-    <script type="text/javascript">
-  (function(t,e){var n=t.amplitude||{};var r=e.createElement("script");r.type="text/javascript";
-  r.async=true;r.src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-2.5.0-min.gz.js";
-  r.onload=function(){t.amplitude.runQueuedFunctions()};var s=e.getElementsByTagName("script")[0];
-  s.parentNode.insertBefore(r,s);var i=function(){this._q=[];return this};function o(t){
-  i.prototype[t]=function(){this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));
-  return this}}var a=["add","set","setOnce","unset"];for(var u=0;u<a.length;u++){o(a[u]);
-  }n.Identify=i;n._q=[];function c(t){n[t]=function(){n._q.push([t].concat(Array.prototype.slice.call(arguments,0)));
-  }}var l=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify"];
-  for(var p=0;p<l.length;p++){c(l[p])}t.amplitude=n})(window,document);
-
-  amplitude.init("9ba3d135aadf17d929edf11f07069972");
+  <script id="preload-fallback">
+  (function(){"use strict";var isSupported=function(){var supported=!1;try{supported=document.createElement("link").relList.supports("preload")}
+  catch(e){}
+    return supported};if(isSupported()){return}
+    var styles=document.head.querySelectorAll('link[rel="preload"][as="style"]');Array.prototype.forEach.call(styles,function(style){style.rel='stylesheet';style.onload=''})}())
 </script>
 
-    <script src="https://cdnwp.global.ssl.fastly.net/assets/lib/respond-5ea2151b8486bfc988fcf867621239e8.js"></script>
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/head.load-6a78111f2c.js" as="script">
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/optimize-suite-v2-74763af682.js" as="script">
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/desktop-core-v7.0-71d6fcbf63.js" as="script">
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/perflibloader-d87cb8d56f.js" as="script">
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/desktop-preact-d5d3b60114.js" as="script">
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/desktop-preact-search-and-nav-f48e02e48f.js" as="script">
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/desktop-misc-v7-cc0c769f28.js" as="script">
 
-<!-- Respond.js proxy on external server -->
-<link href="https://cdnwp.global.ssl.fastly.net/respond-proxy.html" id="respond-proxy" rel="respond-proxy">
-<link href="/respond.proxy.gif" id="respond-redirect" rel="respond-redirect">
-<script src="/respond.proxy.js"></script>
-    <script src="https://cdnwp.global.ssl.fastly.net/assets/lib/modernizr-df8fc5854ada4fdd8c38ebae5b2272cf.js"></script>
-    <script src="https://cdnwp.global.ssl.fastly.net/assets/lib/svg4everybody-32cc8d48056d9c61e9a7c5d552f67a79.js"></script>
-    <script src="https://cdnwp.global.ssl.fastly.net/assets/head_scripts-e73c7c2e97f8e91fd8025c48f6e6e34c.js"></script>
-    <script id="flexads-dfp-config">
-  //Create a set of ads that can be pulled for setup depending on browser and device
-  var dfp_ad_set = Flexads.TargetableAdSet();
-  dfp_ad_set.page_config = {};
-  var dfp_ad_set_slots = [];
-  var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-
-    WP.baracade.provide('amzn_ads', function(resolve) {
-      function reject(reason) { WP.baracade.set('amzn_ads.rejected', reason); }
-      window.amznads = window.amznads || {};
-
-  var timeout = 1000;
-amznads.asyncParams = {
-  'id': '3120',
-  'callbackFn': function() {
-    try {
-      amznads.setTargetingForGPTAsync('amzn');
-    } catch (e) { /* NOOP */ }
-
-    resolve();
-  },
-  'timeout': timeout+1
-};
-
-  async_inject("//c.amazon-adsystem.com/aax2/amzn_ads.js", {
-    timeout: timeout, timeoutFn: function() {
-      resolve("timedout");
-    }
-  });
-
-    });
-      WP.baracade.need('amzn_ads');
-
-  async_inject("//www.googletagservices.com/tag/js/gpt.js");
-
+  <link rel="preload" href="https://www2.grouponcdn.com/content-pages/assets/main-a3ba406396.js" as="script">
   
 
-  DfpIframeCoordinator.setRoundCounts([1, 0, 0, 1, 1]);
-  DfpIframeCoordinator.setCurrentRound(0);
-
-  var dfpSetTargetingParams = {};
-    dfpSetTargetingParams["qn"] = WPCookies.qn_ad_data();
-    dfpSetTargetingParams["XP"] = (monster.get('wp_endemic_provider') || '');
-    dfpSetTargetingParams["PID"] = (monster.get('wp_pid') || '');
-    dfpSetTargetingParams["vtw"] = WP.storage().getItem('visitsThisWeek');
-    dfpSetTargetingParams["vlw"] = WP.storage().getItem('visitsLastWeek');
-    dfpSetTargetingParams["stw"] = WP.storage().getItem('searchesThisWeek');
-    dfpSetTargetingParams["slw"] = WP.storage().getItem('searchesLastWeek');
-    dfpSetTargetingParams["phstw"] = WP.storage().getItem('phoneSearchesThisWeek');
-    dfpSetTargetingParams["phslw"] = WP.storage().getItem('phoneSearchesLastWeek');
-    dfpSetTargetingParams["cip"] = WP.cip();
-    dfpSetTargetingParams["eb"] = (monster.get('eb') || '');
-    dfpSetTargetingParams["tgp"] = WP.personDetailsSeoTestCallback();
-    dfpSetTargetingParams["uc"] = WP.UpsellMetaData.name();
-    dfpSetTargetingParams["icw"] = WP.UpsellMetaData.infectedCoworkers();
-    dfpSetTargetingParams["ind"] = WP.UpsellMetaData.industry();
-    dfpSetTargetingParams["uex"] = WP.UpsellMetaData.exclude();
-    dfpSetTargetingParams["ad-stg"] = WP.storage().getItem('ad-stg') || '';
-
-  var dfpCorrelator = Math.floor(Math.random() * 1E10);
-
-  
+  <script id="css-var-fallback">
+    (function(){
+      "use strict";
+      var isEdge, supported;
+      isEdge = !!navigator.appVersion.match(/edge\/1[2-5]/i);
+      supported = window.CSS && window.CSS.supports && window.CSS.supports('(--foo: red)') && !isEdge;
+      if (!supported) {
+        var s = document.createElement('script');
+        s.src = 'https://www2.grouponcdn.com/layout/assets/grpn-css-var-polyfill-2672987974.js';
+        document.head.appendChild(s);
+      }
+    })()
   </script>
 
+  <meta name="theme-color" content="#53A318">
+  <meta name="description" content="Discover and save on 1000s of great deals at nearby restaurants, spas, things to do, shopping, travel and more. Groupon: Own the Experience.">
 
-    <meta content="authenticity_token" name="csrf-param">
-<meta content="YAlMJFbV/v0fngdCIX/kk5br7eJqTSN37MwUBUOkmbk=" name="csrf-token">
-  </head>
-  <body class=" " data-city="" data-region="" data-lat="" data-long="">
-      <!-- Google Tag Manager -->
-  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MBQDLW"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-MBQDLW');</script>
-  <!-- End Google Tag Manager -->
 
-    <div class="header-wrapper primary-nav">
-      <div class="no-search-field material-skin" id="header">
-  <div class="primary-nav-wrapper">
-    <div class="brand-wrapper">
-      <a class="brand" href="/">
-          <span class="logo-lg-icon"></span>
-</a>    </div>
+      <link rel="canonical" href="https://www.groupon.com/legal/privacypolicy">
 
-    
 
-    <div class="hidden-mobile-home">
-      
 
-    <ul class="primary-tabs unstyled tabs">
-          <li class="tab">
-            <a class="person current no-text-decoration active" data-gaaction="person" data-gaevent="navbar" data-galabel="click" data-search="person_railcar" href="/person" title="Find People">
-              <span class="">Person</span>
-</a>          </li>
-          <li class="tab">
-            <a class="phone  no-text-decoration " data-gaaction="phone" data-gaevent="navbar" data-galabel="click" data-search="phone_railcar" href="/reverse_phone" title="Reverse Phone">
-              <span class="visible-large-tablet">Reverse Phone</span>
-                <span class="hidden-large-tablet">Phone</span>
-</a>          </li>
-          <li class="tab">
-            <a class="address  no-text-decoration " data-gaaction="address" data-gaevent="navbar" data-galabel="click" data-search="address_railcar" href="/reverse_address" title="Address Search">
-              <span class="visible-large-tablet">Reverse Address</span>
-                <span class="hidden-large-tablet">Address</span>
-</a>          </li>
-          <li class="tab">
-            <a class="business  no-text-decoration " data-gaaction="business" data-gaevent="navbar" data-galabel="click" data-search="business_railcar" href="/business" title="Find a Business">
-              <span class="">Business</span>
-</a>          </li>
-    </ul>
-  <div class="forms-wrapper">
-      <div class="form-joined-wrapper no-overflow fade in person_railcar">
-        <form accept-charset="UTF-8" action="/search/FindPerson" class="people_search form-joined subheader mobile-home" method="get" role="search"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-     <div class="input-wrapper ffl-wrapper">
-      <input autocomplete="off" autocorrect="off" data-gaaction="people_name" data-gaevent="search_box" data-galabel="focus" data-required="Last Name (Required)" id="who" name="who" spellcheck="false" type="text">
-      <label class="ffl-label" for="who">First and Last Name</label>
-      <a class="x-person-name close-x dismiss"></a>
-    </div>
-    <div class="input-wrapper ffl-wrapper">
-      <input autocomplete="off" autocorrect="off" class="city-typeahead location-field has-expandable-btn" data-gaaction="people_location" data-gaevent="search_box" data-galabel="focus" data-location-display="city-state" id="where" maxlength="100" name="where" spellcheck="false" type="text">
-      <label class="ffl-label" for="where">City, State or ZIP</label>
-      <a class="x-person-where close-x dismiss"></a>
-    </div>
-    <button class="btn pull-right" data-gaaction="search" data-gaevent="person" data-galabel="click" type="submit">Search</button>
-    <a class="cancel pull-right med-grey">Cancel</a>
-</form>
-  <form accept-charset="UTF-8" action="/search/FindPerson" class="people_search form-joined subheader non-mobile" method="get" role="search"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-    <ul class="unstyled no-margin no-overflow">
-      <li class="half-width first">
-        <label class="hide" for="who">e.g. Jon Snow</label>
-        <input autocomplete="off" autocorrect="off" data-gaaction="people_name" data-gaevent="search_box" data-galabel="focus" data-required="Last Name (Required)" id="who" name="who" placeholder="e.g. Jon Snow" spellcheck="false" type="text">
-      </li>
-      <li class="half-width last locatable has-button has-helper-label">
-        <div>
-          <label class="hide" for="where">City, State or ZIP</label>
-          <input autocomplete="off" autocorrect="off" class="city-typeahead location-field has-expandable-btn" data-gaaction="people_location" data-gaevent="search_box" data-galabel="focus" data-location-display="city-state" id="where" maxlength="100" name="where" placeholder="City, State or ZIP" spellcheck="false" type="text">
-        </div>
-      </li>
-      <button class="submit new-search" data-gaaction="search" data-gaevent="person" data-galabel="click" type="submit"></button>
-    </ul>
-</form>
-  </div>
-  <div class="form-joined-wrapper no-overflow fade  phone_railcar">
-      <form accept-charset="UTF-8" action="/search/ReversePhone" class="form-joined subheader phone_search mobile-home" method="get" role="search"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-  <input id="country_code" name="country_code" type="hidden" value="1">
-  <input id="iso_code" name="iso_code" type="hidden" value="us">
-  <div class="input-wrapper ffl-wrapper">
-    <input autocomplete="off" autocorrect="off" data-gaaction="phone" data-gaevent="search_box" data-galabel="focus" data-required="Phone number (Required)" id="full_phone" name="full_phone" spellcheck="false" type="tel">
-    <label class="ffl-label" for="full_phone">Phone</label>
-    <a class="x-phone-full-phone close-x dismiss"></a>
-  </div>
-  <button class="btn pull-right" data-gaaction="search" data-gaevent="phone" data-galabel="click" type="submit">Search</button>
-  <a class="cancel pull-right med-grey">Cancel</a>
 
-</form>
-<form accept-charset="UTF-8" action="/search/ReversePhone" class="form-joined subheader phone_search non-mobile" method="get" role="search"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-  <input id="country_code" name="country_code" type="hidden" value="1">
-  <input id="iso_code" name="iso_code" type="hidden" value="us">
-  <ul class="unstyled no-margin no-overflow ">
-    <li class="full-width has-button">
-      <label class="hide" for="full_phone">e.g. 206-867-5309</label>
-      <input autocomplete="off" autocorrect="off" class="has-expandable-btn" data-gaaction="phone" data-gaevent="search_box" data-galabel="focus" data-required="Phone number (Required)" id="full_phone" name="full_phone" placeholder="e.g. 206-867-5309" spellcheck="false" type="tel">
-    </li>
-    <button class="new-search" data-gaaction="search" data-gaevent="phone" data-galabel="click" type="submit"></button>
-  </ul>
-</form>
-  </div>
-  <div class="form-joined-wrapper no-overflow fade  address_railcar">
-      
-<form accept-charset="UTF-8" action="/search/FindNearby" class="form-joined subheader mobile-home" method="get" role="search"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-  <div class="input-wrapper ffl-wrapper">
-    <input autocomplete="off" autocorrect="off" data-gaaction="address" data-gaevent="search_box" data-galabel="focus" data-required="Address (Required)" id="street" name="street" spellcheck="false" type="text">
-    <label class="ffl-label" for="street">Address</label>
-    <a id="x-address-street" class="close-x dismiss"></a>
-  </div>
-  <div class="input-wrapper ffl-wrapper">
-    <input autocomplete="off" autocorrect="off" class="city-typeahead location-field" data-gaaction="address_location" data-gaevent="search_box" data-galabel="focus" data-location-display="city-state" data-required="City, State or ZIP (Required)" id="where" maxlength="100" name="where" spellcheck="false" type="text">
-    <label class="ffl-label" for="where">Where</label>
-    <a id="x-address-where" class="close-x dismiss"></a>
-  </div>
-  <button class="btn pull-right" data-gaaction="search" data-gaevent="address" data-galabel="click" type="submit">Search</button>
-  <a class="cancel pull-right med-grey">Cancel</a>
-</form>
 
-  <form accept-charset="UTF-8" action="/search/FindNearby" class="form-joined subheader non-mobile" method="get" role="search"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-    <ul class="unstyled no-margin no-overflow">
-      <li class="half-width first">
-        <label class="hide" for="street">e.g. 1600 Pennsylvania Ave NW</label>
-        <input autocomplete="off" autocorrect="off" data-gaaction="address" data-gaevent="search_box" data-galabel="focus" data-required="Address (Required)" id="street" name="street" placeholder="e.g. 1600 Pennsylvania Ave NW" spellcheck="false" type="text">
-      </li>
-      <li class="half-width last has-button has-helper-label">
-        <span class="locator-icon locater"></span>
-        <label class="hide" for="where">City, State or ZIP</label>
-        <input autocomplete="off" autocorrect="off" class="city-typeahead location-field has-expandable-btn" data-gaaction="address_location" data-gaevent="search_box" data-galabel="focus" data-location-display="city-state" data-required="City, State or ZIP (Required)" id="where" maxlength="100" name="where" placeholder="City, State or ZIP" spellcheck="false" type="text">
-      </li>
-      <button class="new-search" data-gaaction="search" data-gaevent="address" data-galabel="click" type="submit"></button>
-    </ul>
-</form>
 
-  </div>
-  <div class="form-joined-wrapper no-overflow fade  business_railcar">
-        <form accept-charset="UTF-8" action="/business" class="form-joined subheader business mobile-home" method="get" role="search"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-    
-    <div class="input-wrapper ffl-wrapper">
-      <input autocomplete="off" autocorrect="off" class="business-typeahead" data-gaaction="business_category_or_name" data-gaevent="search_box" data-galabel="focus" data-required="Category or name (Required)" data-submit="typeahead-no-submit" id="key" name="key" spellcheck="false" type="text">
-      <label class="ffl-label" for="key">Business</label>
-      <a class="x-business-key close-x dismiss"></a>
-    </div>
-    <div class="input-wrapper ffl-wrapper">
-      <input autocomplete="off" autocorrect="off" class="city-typeahead location-field has-expandable-btn" data-gaaction="business_location" data-gaevent="search_box" data-galabel="focus" data-location-display="city-state" id="where" maxlength="100" name="where" spellcheck="false" type="text">
-      <label class="ffl-label" for="where">Where</label>
-      <a class="x-business-where close-x dismiss"></a>
-    </div>
-    <button class="btn pull-right" data-gaaction="search" data-gaevent="business" data-galabel="click" type="submit">Search</button>
-    <a class="cancel pull-right med-grey">Cancel</a>
 
-</form>
-  <form accept-charset="UTF-8" action="/business" class="form-joined subheader business non-mobile" method="get" role="search"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-    
-    <ul class="unstyled no-overflow no-margin">
-      <li class="half-width first">
-        <label class="hide" for="key">e.g. TGI Fridays</label>
-        <input autocomplete="off" autocorrect="off" class="business-typeahead" data-gaaction="business_category_or_name" data-gaevent="search_box" data-galabel="focus" data-required="Category or name (Required)" data-submit="typeahead-no-submit" id="key" name="key" placeholder="e.g. TGI Fridays" spellcheck="false" type="text">
-      </li>
-      <li class="half-width last locatable has-button has-helper-label">
-        <label class="hide" for="where">City, State or ZIP</label>
-        <input autocomplete="off" autocorrect="off" class="city-typeahead location-field has-expandable-btn" data-gaaction="business_location" data-gaevent="search_box" data-galabel="focus" data-location-display="city-state" id="where" maxlength="100" name="where" placeholder="City, State or ZIP" spellcheck="false" type="text">
-        </li>
-      <button class="new-search" data-gaaction="search" data-gaevent="business" data-galabel="click" type="submit"></button>
-    </ul>
-</form>
-  </div>
 
-  </div>
 
-    </div>
 
-      <a class="btn btn-outline pill grey premium-login" data-gaaction="premium-login" data-gaevent="header" data-galabel="click" href="https://premium.whitepages.com/home/">
-        <span class="wp-icon small-grey-key-icon"></span>LOG IN
-</a>    <button class="mobile-search-button mobile-menu-text" data-galabel="click" data-gaevent="person" data-gaaction="search">
-      <span class="new-search"></span>
-      <p></p>
-    </button>
-  </div>
-</div>
+      <meta name="csrf-token" content="76j1I5ju-ANL0YBGKpwsaVQee1S9-3FmKWG4">
 
-    </div>
-    <div class="landing-wrapper">
-      
+  
 
-      <div id="wrap">
-        <div class="modal-backdrop mobile fade"></div>
-        <div id="pop-ads" style="display: none;">
-          
-        </div>
-        <div id="homepage-skin">
-            <div id="div-gpt-ad-8808572076943-0" class="dfp-ad ">
-    <script>
-      dfp_ad_set.push({
-  baseUri: "/6794/" + WP.adUnit(),
-  sizes: [[970, 1]],
-  divId: "div-gpt-ad-8808572076943-0",
-  outOfPage: false,
-  isRefreshable: true,
-  targetParams: {
-    
-  },
-  restrictions: {
-    can_be_mobile: true
+
+
+
+<link rel="manifest" href="/layout/manifest.json">
+
+
+  <meta name="request-id" content="77f7f342-eb9a-4b14-9c6c-d4f8904f53bc">
+
+
+
+  <script id="dyn-config">
+  (function () {
+  window.remoteUrl = 'https://www2.grouponcdn.com/layout/assets';
+if (remoteUrl.substr(-1) !== '/') remoteUrl += '/';
+window.BOOMR = { t_lstart: +new Date() };
+(function(event) {
+  window.addEventListener(event, function() { window.BOOMR.t_lonload = +new Date(); }, false);
+})('onpagehide' in window ? 'pageshow' : 'load');
+window.applicationConfig = {};
+window.Groupon || (window.Groupon = {});
+  window.Groupon.Performance = {
+    boomerangUrl: "https://www2.grouponcdn.com/layout/assets/boomerang-sls-6f611136d1.js",
+    pageReady: function(allow) {
+      var locked = true;
+      if (!locked || allow) {
+        if (typeof BOOMR.page_ready === 'function') {
+          BOOMR.page_ready();
+        } else if (BOOMR && !BOOMR.t_done) {
+          BOOMR.t_done = new Date().getTime();
+        }
+      }
+    }
+  };
+  window.googletag || (window.googletag = {});
+  
+window.Optimize = {
+  appConfig: {"cookieDomain":".groupon.com","seed":"7d28981c-2f52-4a0b-a898-1c2f52ca0b8e","page":{"id":"7d28981c-2f52-4a0b-a898-1c2f52ca0b8e-1561929682783-TH0","app":"content-pages","channel":"content_pages","country":"US","lang":"en","locale":"en_US","brand":"groupon","division":"wichita","parentEventId":null,"parentPageId":null,"url":"https%3A%2F%2Fcontent-pages.production.service%2Flegal%2Fprivacypolicy","requestId":"77f7f342-eb9a-4b14-9c6c-d4f8904f53bc","bindingsVersion":"4.0.2","type":"content_page"},"user":{"browserId":"4d3b56b0-3bdc-f3bf-544b-87226823c9f4","consumerId":null,"consumerIdSource":null,"lat":"37.751","lng":"-97.822","loggedIn":false,"scid":null,"visit":null,"platform":"desktop","updatedParser":true,"userAgent":"Mozilla\/5.0 (compatible; heritrix\/3.3.0-SNAPSHOT-20140702-2247 +http:\/\/archive.org\/details\/archive.org_bot)","os":"other","browser":"other","browserVersion":"other","device":"other","deviceType":"spider"},"session":{"id":"7d28981c-2f52-4a0b-a898-1c2f52ca0b8e"},"event_name":"finch-experiment","advancedAnalytics":{"enabled":false,"serverDimensions":{}}},
+  appName: "content-pages",
+  channel: "",
+  cookieDomain: ".groupon.com",
+  pageType: "",
+  
+  
+  
+  layoutConfig: {"suiteData":{"config":{"googleAnalyticsTrackingId":"UA-62974313-1","unthrottleGoogleAnalytics":false},"division":"wichita","country":"US","channel":"main","cookieDomain":".groupon.com","appName":"content-pages"}},
+  delayBloodhound: true
+};
+Optimize.finchConfig = (function () {
+  var layoutConfig = {}, appConfig = {};
+  appConfig = {"sms-download-link-experiment":{"experiments":{"sms-download-link-experiment":{"name":"sms-download-link-experiment","tracking":true,"variants":["control","sms_download_link"],"variant_settings":{"control":null,"sms_download_link":null},"control":"control","bucket_min":0,"bucket_max":249,"buckets":"0..249"}},"bucketing_salt":"sms-download-link-experiment","diversion_type":"CookieDiversion"},"LS-Display-Android-Native-App-Install-Banner":{"experiments":{"LS-Display-Android-Native-App-Install-Banner":{"name":"LS-Display-Android-Native-App-Install-Banner","tracking":true,"variants":["EnableNativeAppInstallBanner"],"variant_settings":{"Control":null,"EnableNativeAppInstallBanner":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-Display-Android-Native-App-Install-Banner","diversion_type":"CookieDiversion"},"LS-4927-Preact-Search-Desktop":{"experiments":{"LS-4927-Preact-Search-Desktop":{"name":"LS-4927-Preact-Search-Desktop","tracking":true,"variants":["Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-4927-Preact-Search-Desktop","diversion_type":"CookieDiversion"},"19_01_Web_uCart_US":{"experiments":{"19_01_Web_uCart_US":{"name":"19_01_Web_uCart_US","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"19_01_Web_uCart_US","diversion_type":"CookieDiversion"}};
+  layoutConfig ={"api-mobile-iphone-rtrGoods1408ZA":{"experiments":{"rtrGoods1408ZA":{"name":"rtrGoods1408ZA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"api-mobile-iphone-rtrGoods1408ZA","diversion_type":"CookieDiversion"},"sms-download-link-experiment":{"experiments":{"sms-download-link-experiment":{"name":"sms-download-link-experiment","tracking":true,"variants":["control","sms_download_link"],"variant_settings":{"control":null,"sms_download_link":null},"control":"control","bucket_min":0,"bucket_max":249,"buckets":"0..249"}},"bucketing_salt":"sms-download-link-experiment","diversion_type":"CookieDiversion"},"LS-Display-Android-Native-App-Install-Banner":{"experiments":{"LS-Display-Android-Native-App-Install-Banner":{"name":"LS-Display-Android-Native-App-Install-Banner","tracking":true,"variants":["EnableNativeAppInstallBanner"],"variant_settings":{"Control":null,"EnableNativeAppInstallBanner":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-Display-Android-Native-App-Install-Banner","diversion_type":"CookieDiversion"},"OptimizeSuiteGALoadLater":{"experiments":{"OptimizeSuiteGALoadLater":{"name":"OptimizeSuiteGALoadLater","tracking":false,"variants":["injectOnPageload"],"variant_settings":{"Control":null,"injectOnPageload":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"OptimizeSuiteGALoadLater","diversion_type":"CookieDiversion"},"LS-2925-StickySearchBar":{"experiments":{"LS-2925-StickySearchBar":{"name":"LS-2925-StickySearchBar","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-2925-StickySearchBar","diversion_type":"CookieDiversion"},"LS-3928-AutocompleteLatLong":{"experiments":{"LS-3928-AutocompleteLatLong":{"name":"LS-3928-AutocompleteLatLong","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"e537f697-f624-431c-a319-270d7d58201a","diversion_type":"CookieDiversion"},"LS-4226-NewSearchAutocompleteAPI":{"experiments":{"LS-4226-NewSearchAutocompleteAPI":{"name":"LS-4226-NewSearchAutocompleteAPI","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"33e2a83c-bfd5-4119-bf48-b9ae41511795","diversion_type":"CookieDiversion"},"LS-4100-intentmedia-gtm":{"experiments":{"LS-4100-intentmedia-gtm":{"name":"LS-4100-intentmedia-gtm","tracking":true,"variants":["Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-4100-intentmedia-gtm","diversion_type":"CookieDiversion"},"LS-3902-Lazyloader-V2":{"experiments":{"LS-3902-Lazyloader-V2":{"name":"LS-3902-Lazyloader-V2","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-3902-Lazyloader-V2","diversion_type":"CookieDiversion"},"LS-4489-NewRecentSearches":{"experiments":{"LS-4489-NewRecentSearches":{"name":"LS-4489-NewRecentSearches","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-4489-NewRecentSearches","diversion_type":"CookieDiversion"},"LS-4007-InCategoryAutocomplete":{"experiments":{"LS-4007-InCategoryAutocomplete":{"name":"LS-4007-InCategoryAutocomplete","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-4007-InCategoryAutocomplete","diversion_type":"CookieDiversion"},"LS-4584-RVDLandingPageDesktop":{"experiments":{"LS-4584-RVDLandingPageDesktop":{"name":"LS-4584-RVDLandingPageDesktop","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-4584-RVDLandingPageDesktop","diversion_type":"CookieDiversion"},"LS-4007-InCategoryAutocompleteTouch":{"experiments":{"LS-4007-InCategoryAutocompleteTouch":{"name":"LS-4007-InCategoryAutocompleteTouch","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-4007-InCategoryAutocompleteTouch","diversion_type":"CookieDiversion"},"LS-4584-RVDLandingPageTouch":{"experiments":{"LS-4584-RVDLandingPageTouch":{"name":"LS-4584-RVDLandingPageTouch","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"8a706ea6-30aa-42e3-bb41-1da4e1da7dff","diversion_type":"CookieDiversion"},"LS-4828-DualSearch":{"experiments":{"LS-4828-DualSearch":{"name":"LS-4828-DualSearch","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-4828-DualSearch","diversion_type":"CookieDiversion"},"LS-4935-Recommended-Search-CCookie-Touch":{"experiments":{"LS-4935-Recommended-Search-CCookie-Touch":{"name":"LS-4935-Recommended-Search-CCookie-Touch","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-4935-Recommended-Search-CCookie-Touch","diversion_type":"CookieDiversion"},"LS-4935-Recommended-Search-BCookie-Touch":{"experiments":{"LS-4935-Recommended-Search-BCookie-Touch":{"name":"LS-4935-Recommended-Search-BCookie-Touch","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-4935-Recommended-Search-BCookie-Touch","diversion_type":"CookieDiversion"},"LS-4927-Preact-Search-Desktop":{"experiments":{"LS-4927-Preact-Search-Desktop":{"name":"LS-4927-Preact-Search-Desktop","tracking":true,"variants":["Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-4927-Preact-Search-Desktop","diversion_type":"CookieDiversion"},"LS-4989-Search-Icon-Touch":{"experiments":{"LS-4989-Search-Icon-Touch":{"name":"LS-4989-Search-Icon-Touch","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-4989-Search-Icon-Touch","diversion_type":"CookieDiversion"},"LS-4999-Search-Icon-Desktop":{"experiments":{"LS-4999-Search-Icon-Desktop":{"name":"LS-4999-Search-Icon-Desktop","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-4999-Search-Icon-Desktop","diversion_type":"CookieDiversion"},"GoodsTouchRemoveCartSummary_US":{"experiments":{"GoodsTouchRemoveCartSummary_US":{"name":"GoodsTouchRemoveCartSummary_US","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"GoodsTouchRemoveCartSummary_US","diversion_type":"CookieDiversion"},"LS-5252_More_Prominent_IAM_discount_code":{"experiments":{"LS-5252_More_Prominent_IAM_discount_code":{"name":"LS-5252_More_Prominent_IAM_discount_code","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-5252_More_Prominent_IAM_discount_code","diversion_type":"CookieDiversion"},"LS-5320-Groupon-Select-Flyout-Signup":{"experiments":{"LS-5320-Groupon-Select-Flyout-Signup":{"name":"LS-5320-Groupon-Select-Flyout-Signup","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-5320-Groupon-Select-Flyout-Signup","diversion_type":"CookieDiversion"},"19_01_Web_uCart_US":{"experiments":{"19_01_Web_uCart_US":{"name":"19_01_Web_uCart_US","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"19_01_Web_uCart_US","diversion_type":"CookieDiversion"},"LS-5826-CurrentLocationLink-USCA":{"experiments":{"LS-5826-CurrentLocationLink-USCA":{"name":"LS-5826-CurrentLocationLink-USCA","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"9e9795b0-fd31-42c5-822d-c833025b35ac","diversion_type":"CookieDiversion"},"LS-5944-SelectHamburgerBanner-US":{"experiments":{"LS-5944-SelectHamburgerBanner-US":{"name":"LS-5944-SelectHamburgerBanner-US","tracking":false,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-5944-SelectHamburgerBanner-US","diversion_type":"CookieDiversion"},"LS-5953_ImproveBrowseLocation_USCA":{"experiments":{"LS-5953_ImproveBrowseLocation_USCA":{"name":"LS-5953_ImproveBrowseLocation_USCA","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-5953_ImproveBrowseLocation_USCA","diversion_type":"CookieDiversion"},"LS-6055_GrouponLogoRedirect_USCA":{"experiments":{"LS-6055_GrouponLogoRedirect_USCA":{"name":"LS-6055_GrouponLogoRedirect_USCA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-6055_GrouponLogoRedirect_USCA","diversion_type":"CookieDiversion"},"LS-5898_GetawaysImproveLocation_Touch_USCA":{"experiments":{"LS-5898_GetawaysImproveLocation_Touch_USCA":{"name":"LS-5898_GetawaysImproveLocation_Touch_USCA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-5898_GetawaysImproveLocation_Touch_USCA","diversion_type":"CookieDiversion"},"LS-5898_GetawaysImproveLocation_Desktop_USCA":{"experiments":{"LS-5898_GetawaysImproveLocation_Desktop_USCA":{"name":"LS-5898_GetawaysImproveLocation_Desktop_USCA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-5898_GetawaysImproveLocation_Desktop_USCA","diversion_type":"CookieDiversion"},"LS-6113_GoodsImproveLocation_Touch_USCA":{"experiments":{"LS-6113_GoodsImproveLocation_Touch_USCA":{"name":"LS-6113_GoodsImproveLocation_Touch_USCA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-6113_GoodsImproveLocation_Touch_USCA","diversion_type":"CookieDiversion"},"LS-6113_GoodsImproveLocation_Desktop_USCA":{"experiments":{"LS-6113_GoodsImproveLocation_Desktop_USCA":{"name":"LS-6113_GoodsImproveLocation_Desktop_USCA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-6113_GoodsImproveLocation_Desktop_USCA","diversion_type":"CookieDiversion"}};
+  for (var key in layoutConfig) {
+    if(layoutConfig.hasOwnProperty(key)) {
+      appConfig[key] = layoutConfig[key];
+    }
   }
-});
+  return appConfig;
+})();
+window.googletag || (window.googletag = {});
+window.googletag.cmd || (googletag.cmd = []);
 
-      
-    </script>
-  </div>
+})();
+  </script>
+    
 
-        </div>
+  
+  <link type="application/opensearchdescription+xml" rel="search" title="Groupon" href="/layout/opensearch.xml?brand=groupon&amp;country=US&amp;locale=en_US">
+    <title>GROUPON, INC. PRIVACY STATEMENT</title>
 
-
+  <link rel="apple-touch-icon" sizes="76x76" href="https://www2.grouponcdn.com/layout/assets/grpn-favicon-76x76-13990cf550.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://www2.grouponcdn.com/layout/assets/grpn-favicon-152x152-ed288e134e.png">
+  <meta name="msapplication-config" content="/groupon/browserconfig.xml">
+  <link rel="icon" type="image/png" href="https://www2.grouponcdn.com/layout/assets/grpn-favicon-96x96-65e46e4853.png" sizes="96x96">
+  <link rel="shortcut icon" href="https://www2.grouponcdn.com/layout/assets/grpn-favicon-966d694a73.ico">
+  <link rel="mask-icon" href="https://www2.grouponcdn.com/layout/assets/grpn-favicon-5c024752b1.svg" color="#53a318">
+  
+  <script id="preact-config">
+    "function"!=typeof Object.assign&&Object.defineProperty(Object,"assign",{value:function(e,t){"use strict";if(null==e)throw new TypeError("Cannot convert undefined or null to object");for(var n=Object(e),r=1;r<arguments.length;r++){var o=arguments[r];if(null!=o)for(var c in o)Object.prototype.hasOwnProperty.call(o,c)&&(n[c]=o[c])}return n},writable:!0,configurable:!0});
+    function initReduxState(window) {
+      var state = {"app":{"appName":"content-pages","brand":{"isGroupon":true,"title":"Groupon"},"country":"US","lang":"en","mobile":false,"googleClientId":"169314272487.apps.googleusercontent.com","facebookAppId":"7829106395"},"flags":{"showNotificationsOnDesktop":true,"disableSearchDesktop":false,"enablePrivacyCenter":false,"showMyLinkedDealsLink":true,"showMyProfile":true,"showGiftCards":true,"showReferAFriend":true,"showMerchantCenterLink":true,"showWishlist":true,"showCart":true,"cartWidgetUrl":"\u002Fcart","showGDPRSigninFlyout":false,"noFollowSubNavLinks":false,"showTtdAndBeautyNav":true,"enableSignUpAndSave":false},"translation":{"common":{"close":"close","remove":"Remove","cancel":"Cancel","hide":"Hide","details":"Details"},"form":{"clear":"clear input"},"searchbar":{"dealPlaceholder":"Search Groupon","locationPlaceholder":"Zip Code, Neighborhood, City","nearMe":"Near Me","action":"Search"},"header":{"cart":"Cart","notifications":"Notifications Inbox"},"search":{"recentSearches":"Recent Searches","recentLocations":"Recent Locations","currentLocation":"Current Location","helperMsg":"Search for deals around an address or attraction","clearAll":"Clear All"},"notifications":{"back":"Back","headline":"Notifications","emptyHeader":"No New Notifications","emptyMessage":"Sign in to get personalized notifications about your deals, cash back, special offers, and more.","noAccountYet":"No account yet?","signIn":"Sign In","signUp":"Sign Up"},"error":{"locationGeneric":"There was an error","badLocation":"We couldn't understand that location. Try another ZIP\u002FPostal Code, neighborhood or address.","locationAvailability":"We are experiencing difficulty finding your location. [Please check your browser location settings]."},"links":{"headerMerchantLink":"\u002Fmerchant\u002Fget-started?utm_medium=referral&utm_campaign=groupon-header1&utm_source=groupon","myMerchantCenterLink":"https:\u002F\u002Fmerchants.groupon.com\u002F","helpLink":"\u002Fcustomer_support"},"signinFlyout":{"linkText":"Sign In | My Stuff","myStuff":"Sign in to access your Groupons","email":"Email","password":"Password","rememberMe":"Remember Me","forgotPassword":"Forgot Password?","signIn":"Sign In","signInWith":"Or sign in with","gdprSignInFlyout":"By clicking an option below, I agree to the %link_terms_open%Terms of Use%link_terms_close% and the %link_privacy_open%Privacy Statement%link_privacy_close%","required":"REQUIRED","requiredEmail":"Enter Email","requiredPassword":"Enter Password","invalidEmail":"Invalid Email Address","invalidEmailOrPassword":"Incorrect email or password. Try again","unknownError":"There was an unexpected error. Please reload the page and try again.","fbReauthTitle":"Groupon didn't get your email from Facebook, but we need it to sign you up.","fbReauthDesc":"If you'd like to share it with us so you can take advantage of Facebook Login, you can update your Facebook permissions to give us access to your email. If not, you can always sign up for a Groupon account without using Facebook.","fbReauthButton":"Update Facebook Permissions","fbReauthClose":"No, thanks"},"userNav":{"userHeadline":"My Stuff","myGroupons":"My Groupons","myGrouponPlusDeals":"My Groupon+ Deals","myWishlist":"My Wishlist","myAccount":"Account","myEmailSubs":"Subscriptions","privacyCenter":"Privacy Center","privacyCenterLink":"\u002Flegal\u002Fprivacy-center","grouponSelect":"Groupon Select","grouponSelectLink":"\u002Fprograms\u002Fselect\u002Faccount","voucherArchive":"Vouchers bought before May 2017","myReservations":"My Reservations","myCardLinkedDeals":"My Groupon+ Deals","howGrouponWorks":"How Groupon Works","myProfile":"Profile","mySubscriptions":"Subscriptions","myGiftcard":"Redeem Gift Card","referAFriendMessage":"Refer Friends, Get $10*","myMerchantCenter":"My Merchant Center","signIn":"Sign In","signOut":"Sign Out","signUp":"Sign Up","signInFlyoutSignUp":"Not a Member? Sign Up","recentlyViewedDeals":"Recently Viewed","headerMerchant":"Sell","help":"Help"},"cart":{"error":"Sorry, we ran into an error getting your cart. Please try again in a few minutes.","desc":"Your Cart","empty":"Your Shopping Cart is Empty!","emptyText":"Time to fill this bad boy with great products like gadgets, electronics, housewares, gifts and other great offerings from","goods":"Groupon Goods","loading":"Loading your cart...","price":"Price","proceed":"Proceed to Checkout","quantity":"Qty","subtotal":"Subtotal","view":"View Cart"}},"location":{"address":"Wichita","division":"wichita","lat":37.692,"lng":-97.338},"navbar":{"primary":[{"key":"home","url":"\u002F","bhw":"NavHome","label":"Featured"},{"key":"things-to-do","url":"\u002Fbrowse\u002Fwichita?category=things-to-do","bhw":"NavThingsToDo","label":"Things To Do"},{"key":"beauty-and-spas","url":"\u002Fbrowse\u002Fwichita?category=beauty-and-spas","bhw":"NavBeautyAndSpas","label":"Beauty & Spas"},{"key":"local","url":"\u002Fbrowse\u002Fwichita?context=local","bhw":"NavLocal","label":"Local"},{"key":"goods","url":"\u002Fgoods","bhw":"NavGoods","label":"Goods"},{"key":"getaways","url":"\u002Fgetaways","bhw":"NavTravel","label":"Travel"},{"key":"goods-deal-of-day","url":"\u002Foccasion\u002Fdeals-of-the-day","bhw":"NavGoodsLightningFlash","label":"Deals of the Day"},{"key":"coupons","url":"\u002Fcoupons","bhw":"NavCoupons","label":"Coupons"},{"key":"occasion","url":"\u002Foccasion\u002Fbuy-more-save-more","bhw":"NavOccasions","label":"Buy More, Save More"}]}};
+      window.__LS_INITIAL_STATE__ = state;
+      state.flags = Object.assign(state.flags, {
         
+      });
 
+      state.app = Object.assign(state.app, { assets: {
+        selectFlyout: "https://www2.grouponcdn.com/layout/assets/select_flyout_ij-0932e2ba44.png",
+        selectFlyoutLoggedIn: "https://www2.grouponcdn.com/layout/assets/select_flyout_logged_in-84247aa548.png"
+      }});
 
-        <div id="main" class="row-fluid">
-          
+    }
+    initReduxState(window);
+  </script>
 
-<div class="legal-content">
+  <script id="ls-groupon-config">
+    window.Groupon || (window.Groupon = {});
+      Groupon.division = {"name":"Wichita","id":"wichita","lat":37.692,"lng":-97.338};
+      Groupon.boldChat = {"accountId":"888454639756334259","websiteId":"3958328191494078484","pushData":[["setAccountID","888454639756334259"],["setParameter","WebsiteID","3958328191494078484"]]};
+    Groupon.endpoints = {
+          cart: "/cart/widget",
+          cartSize: "/cart/size",
+        cards: "/layout/calls/cards", 
+    };
+    Groupon.LS = {
+      data: {
+        appName: 'content-pages',
+          googleClientId: '169314272487.apps.googleusercontent.com',
+      },
+      experiments: {
+        
+      },
+      translations: {
+        general: {
+          newbadge: "NEW",
+        },
+      },
+    };
+  </script>
+  <script>
+  window.Groupon.ads = { url: "https://www2.grouponcdn.com/layout/assets/adframe-bf7c8293e5.js" }
+  </script>
 
-  <h1>Privacy Policy</h1>
-  <a class="btn btn-primary" href="http://www.whitepagescustomers.com/">Give Feedback</a>
-  <p>
-    <strong>Last updated on September 26, 2016.</strong>
-  </p>
-
-  <p>
-    This privacy policy is designed to provide you with information regarding data collection and use in connection with our products and services. This policy explains how Whitepages uses the data collected by its Web sites, products, and services, but
-    does not apply to databases or third parties that we do not control.
-  </p>
-
-  <h2>A. INFORMATION WE COLLECT</h2>
-
-  <h3>1. Why do we collect data?</h3>
-
-  <p>
-    We collect data in order to effectively provide useful products and services to you and others. We also use this data to improve the quality of those products and services.
-  </p>
-
-  <h3>2. What kind of data to you collect?</h3>
-  <p>
-    We collect information such as:
-  </p>
-  <p>
-    (a) Contact and demographic data. We may collect your first and last name, email address, postal address, phone number, and other similar contact data. We also may collect data about you such as your age, country, and preferred language.
-  </p>
-  <p>
-    (b) Account credentials. We collect passwords and similar security information used for authentication and account access.
-  </p>
-  <p>
-    (c) Usage data. We collect data about how you use our products and services. This includes data such as the search terms you enter and the items you purchase. We also collect data about your device such as IP address, device identifiers, and data
-    about the network, operating system, or software you use to connect to our products and services.
-  </p>
-  <p>
-    (d) Location data. When you enable location-based features of our products, we may collect location data, such as GPS coordinates. We may also collect location data derived from your IP address.
-  </p>
-  <p>
-    (e) Payment data. If you make a purchase, we collect data necessary to process your payment, such as your name, credit card number, and security code.
-  </p>
-  <p>
-    When you are asked to provide personal data, you may decline. But if you choose not to provide data that is necessary to provide a service, you may not be able to use some features or services.
-  </p>
-
-  <h3>3. How do you collect data?</h3>
-  <p>The data we collect depends on the services and features of our products that you use. You provide some data directly, such as when you create an account, submit a search query, or contact us for support. Our servers collect information known as
-    “log data” that includes your IP address, when your computer or device visited the site, the URL of the Web site you arrived from, and the type of device or browser you used to access the site. We also get information by recording how you use our
-    services and whether you navigate between our services. For example, we use cookies (small text files placed on your device) and may receive usage data from software running on your device.
-  </p>
-
-  <h3>4. Do you get data anywhere else?</h3>
-  <p>We obtain information about users (and non-users) from third party sources, including surveys or questionnaires, data licensors, public records, affiliated entities, marketing companies, and other consumers who use our products. We use this
-    information to validate and enrich information in our databases so that we can provide and improve services to users of our products. The terms of this privacy policy do not apply to data used in our databases that we have obtained from third party
-    sources.
-  </p>
-
-  <h3>5. How do you use the information you collect?</h3>
-  <p>
-    We use data to provide useful products and services, and customer support, to our users. We also use data to verify information we have received from public and third-party sources, to help us analyze the usage and effectiveness of our products and
-    services, and to improve our products and services. We may use data to resolve disputes and enforce our agreements, and to protect our users against fraud and abuse. We may also use data to send you communications, including promotional
-    communications, or to serve advertising to you.
-  </p>
-
-  <h3>6. Do you share the data you collect? Why?</h3>
-  <p>
-    We share your data as necessary to complete any transaction or provide any service you have requested or authorized. For example, when you provide payment data to make a purchase, we will share payment data with entities that process payment
-    transactions, and for fraud prevention and credit risk reduction. Besides the consumer users of Whitepages’s products and services, we may also provide data to our business users (e.g., corporate fraud departments) so that they may identify and
-    verify their customers or potential customers, or conduct other legitimate business interests.
-  </p>
-  <p>
-    We may share data with companies working on our behalf, such as vendors we may have hired to provide customer service. We may disclose and sell data as part of a corporate transaction such as a bankruptcy, merger, acquisition, or sale of assets. We
-    also share data when we have a good faith belief that doing so is necessary to comply with applicable law, to respond to a legal process, such as a subpoena, or to help prevent the loss of life or serious injury of anyone. Finally, we may provide
-    access to non-personally-identifiable information to our third party advertisers so that they can deliver relevant online and mobile advertising to you.
-  </p>
-
-  <h3>7. How do you protect my information?</h3>
-  <p>
-    We have implemented commercially reasonable precautions to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security
-    measures can guarantee 100% security.
-  </p>
-  <p>
-    You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer/phone, choosing a robust password that nobody else knows or can easily guess, and
-    keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
-  </p>
-
-  <h3>How do I access and control my personal information?</h3>
-  <p>
-    You may use your account to access, correct, or change any personal information you have provided to us or that is associated with your account. You may also email our customer support team support@whitepages.com. We will respond to your request
-    within 30 days.
-  </p>
-  <p>
-    If you would like to stop receiving marketing materials messages from Whitepages, please provide us with the email address you would like to unsubscribe by mailing support@whitepages.com. Please note that you may still receive account and billing
-    notices from us, if applicable.
-  </p>
-
-  <h2>B. INFORMATION COLLECTED BY THIRD PARTIES</h2>
-
-  <h3>1. What information is collected by third parties?</h3>
-  <p>
-    Third parties may collect information during your visits to our Web sites and use of our mobile products and services. Such information includes searches you perform (e.g., category of business, location) and general information about you (e.g.,
-    browser type, mobile device type, unique user ID, mobile carrier, IP address, date and time of your visits, locality, pages viewed). Certain products and services may collect specific information such as your name, phone number, IP address, etc., but
-    unless you provide specific details about yourself, information collected by such third parties will generally be limited to non-personally-identifiable information.
-  </p>
-
-  <h3>2. How is information collected by third parties?</h3>
-  <p>
-    Third parties may collect information by using cookies, web beacons, performance-measuring phone numbers, or GPS information. A cookie is a small file that contains a unique ID tag and stores information (e.g., pages visited, information voluntarily
-    provided). A web beacon is a small graphic file used to identify if a page has been viewed. A performance measuring phone number involves collection of call-related information such as originating phone number and call duration. GPS information may
-    include city, state and other information when you use our products or services on a GPS-enabled mobile device.
-  </p>
-
-  <h3>3. Why do these third parties collect information?</h3>
-  <p>
-    Third parties may collect information in order to (i) deliver relevant online and mobile advertising to you both on and off our sites; (ii) help us provide or analyze usage and effectiveness of our products and services; and (iii) for their own
-    business purposes (e.g., such as to report aggregate, non-personally identifiable information about the use of their services and technologies).
-  </p>
-
-  <h3>4. How will they use the information they collect? Will they share it?</h3>
-  <p>
-    Collection and use of data is subject to the privacy policies of the third party companies with whom we work, such as the privacy policy of
-    <a href="http://operamediaworks.com/site-privacy-policy">AdMarvel</a>
-    or
-    <a href="http://www.google.com/intl/en/policies/privacy/">Google</a>. Accordingly, please review those policies for specific information. If you prefer not to have your data collected and analyzed by Google, you may install the
-    <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics Opt-out Browser Add-on</a>.
-  </p>
-
-  <h3>5. How do I stop the collection and use of my information by third parties?</h3>
-  <p>To stop collection of information in connection with the use of our products and services, you will need to stop using them. To opt-out of Whitepages mobile app marketing program tracking,
-    <a href="https://www.optoutmobile.com/">click here</a>. To stop collection of browsing information via supporting web browsers,
-    <a href="http://donottrack.us/">click here</a>. To stop information collection for purposes of relevant online advertising,
-    <a href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>. At this time, there is no industry solution to opt-out of receiving relevant mobile advertising, but to opt-out of tracking from Whitepages’s own mobile app marketing programs, go to our third party provider’s Web site by
-    <a href="https://www.optoutmobile.com/">clicking here</a>.
-  </p>
-
-  <h3>6. What about interest-based advertising?</h3>
-  <p>
-    We follow the Self-Regulatory Principles for Online Behavioral Advertising (about the collection and use of data for interest-based advertising) and expect third parties to comply with the disclosure and notification program specified by principles.
-    This means that third parties collecting and using this data are asked to provide a standard icon/link in or near their advertisements that will provide you with additional data about their privacy and advertising practices, as well as with the
-    opportunity to directly opt-out of having your information collected. To stop receiving interest-based advertising,
-    <a href="http://www.aboutads.info/choices/">click here</a>.
-  </p>
-
-  <h2>C. MISCELLANEOUS</h2>
-
-  <h3>1. Children's privacy</h3>
-  <p>
-    Our services are not intended for children under the age of 18. We do not knowingly publish information for anyone under the age of 18. If you know of anyone under the age of 18 whose information is published through our services, or have other
-    concerns about children's privacy, please write to Whitepages Privacy Manager, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101 or contact Customer Service at
-    <a href="mailto:support@whitepages.com">support@whitepages.com</a>
-  </p>
-
-  <h3>2. Changes to the Privacy Policy</h3>
-  <p>
-    Please see the date at the top of this page for information about when it was last updated. We encourage you to periodically review this page for the latest information on our privacy practices.
-  </p>
-
-  <h3>3. How do I contact you?</h3>
-  <p>
-    If you have any questions about this policy, please write to Whitepages Privacy Manager, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101 or contact Customer Service at
-    <a href="mailto:support@whitepages.com">support@Whitepages.com</a>.
-  </p>
-</div>
-
-        </div>
-      </div><!-- end #wrap -->
-
-            <div class="mobile-text-ad last hidden-large-tablet fade in" id="mobile-footer-ad">
-          <div id="div-gpt-ad-7328603859921-0" class="dfp-ad ">
-    <script>
-      dfp_ad_set.push({
-  baseUri: "/6794/" + WP.adUnit(),
-  sizes: [[320, 51], [300, 251]],
-  divId: "div-gpt-ad-7328603859921-0",
-  outOfPage: false,
-  isRefreshable: true,
-  targetParams: {
-    round: 0,
-pos: "bottom"
-  },
-  restrictions: {
-    can_be_mobile: true,
-width: "\u003c 768"
-  }
-});
-
-      
-    </script>
-  </div>
-
-      </div>
-
-    </div>
+  
+  <script id="js-perflib" async="" src="https://www2.grouponcdn.com/layout/assets/perflibloader-d87cb8d56f.js"></script>
+<script defer="" src="https://www2.grouponcdn.com/layout/assets/head.load-6a78111f2c.js"></script></head>
+<body dir="ltr" id="ls-body" class="
+  brand-groupon
+  
+  
+  no-js 
     
+    is-web ltr
+    en_US en_XX
+  ">
 
-    
-<div class="footer-wrapper clear-all" id="interior-footer">
-  <div id="footer" class="no-overflow">
+      <div class="header-v2">
+        <header data-bhw="Header" class="header big-searchbar " id="ls-header">
+          <div class="ls-header-top">
+            <div id="ls-header-top-row" class="ls-header-top-row page-container">
+                <a href="/" id="ls-groupon-logo" class="ls-groupon-logo" data-bhw="Logo" title="Groupon">
+          <span class="ax-hidden">Groupon</span>
+          <svg width="125" height="21" viewBox="0 0 125 21" xmlns="http://www.w3.org/2000/svg"><path d="M64.324 20.14c-4.428 0-7.099-2.72-7.099-7.604V.32h4.815v12.024c0 2.195.689 3.32 2.309 3.32 1.68 0 2.477-1.097 2.477-3.32V.32h4.785v12.216c0 4.776-2.913 7.605-7.287 7.605zm13.345-6.599v6.28H72.89V.32h6.481c2.064 0 3.63.138 4.947 1.07 1.732 1.207 2.639 3.043 2.639 5.485 0 2.525-1.154 4.61-3.104 5.786-1.237.745-2.775.88-4.809.88h-1.375zm.016-8.746h1.288c2.156 0 3.188.679 3.188 2.356 0 1.816-1.171 2.44-3.576 2.44h-.9V4.795zm35.803 4.165v10.861h-4.792V.32h4.318l7.198 10.836V.32H125V19.82h-4.212l-7.3-10.86zm-67.6 11.5c-2.892 0-5.372-1.058-7.299-3.113-1.848-1.97-2.783-4.41-2.783-7.325 0-2.722 1.046-5.219 2.974-7.137C40.71.972 43.133 0 45.917 0c2.617 0 5.098 1.027 6.997 2.917 1.986 1.97 3.032 4.495 3.032 7.19 0 2.83-.995 5.354-2.839 7.27a9.9 9.9 0 0 1-7.219 3.083zM45.8 4.795c2.75 0 5.032 2.275 5.032 5.122 0 3.182-2.281 5.428-5.087 5.428-2.694 0-5.143-2.356-5.143-5.428 0-2.847 2.284-5.122 5.198-5.122zM97.683 20.46c-2.894 0-5.372-1.058-7.3-3.113-1.848-1.97-2.787-4.41-2.787-7.325 0-2.722 1.046-5.219 2.978-7.137C92.506.972 94.927 0 97.71 0c2.62 0 5.094 1.027 6.999 2.917 1.981 1.97 3.028 4.495 3.028 7.19 0 2.83-.99 5.354-2.837 7.27a9.894 9.894 0 0 1-7.217 3.083zm-.098-15.665c2.754 0 5.036 2.275 5.036 5.122 0 3.182-2.282 5.428-5.086 5.428-2.697 0-5.144-2.356-5.144-5.428 0-2.847 2.283-5.122 5.194-5.122zM2.745 17.33C.925 15.365 0 12.93 0 10.024a9.95 9.95 0 0 1 2.937-7.118C4.838.998 7.233 0 9.977 0c4.135 0 7.749 2.575 9.3 6.786H13.89c-1.194-1.276-2.447-1.913-3.968-1.913-2.826 0-5.055 2.352-5.055 5.178 0 3.129 2.391 5.536 5.055 5.536 1.796 0 3.4-.94 4.35-2.657H8.758V9h11.011c.025.439.053.886.053 1.298 0 2.216-.544 4.098-1.66 5.761a9.965 9.965 0 0 1-8.237 4.401c-2.855 0-5.274-1.082-7.179-3.13zm23.122-3.788v6.28H21.1V.32h6.468c2.053 0 3.612.138 4.931 1.07 1.726 1.207 2.63 3.043 2.63 5.459 0 3.153-1.644 5.514-4.41 6.281l4.767 6.691h-5.892l-3.727-6.28zm.028-8.746h1.328c2.124 0 3.148.679 3.148 2.356 0 1.816-1.162 2.44-3.536 2.44h-.94V4.795z" fill="#FFF" fill-rule="evenodd"></path></svg>
+        </a>
+              <div id="ls-search-wrapper" class="ls-search-wrapper">
+          <form class="search-bar-v2" id="ls-search-form" data-bhw="SearchBar" role="search" action="" aria-label="Search Groupon">
+            <div class="icon-magnifying-glass search-box deal-search search-bar-icon">
+              <label class="ax-hidden" for="ls-search">Search Groupon</label>
+              <input type="search" id="ls-search" placeholder="Search Groupon">
+            </div>
+            <div class="search-box location-search search-bar-icon icon-marker ">
+              <label class="ax-hidden" for="ls-location">Zip Code, Neighborhood, City</label>
+              <input type="search" id="ls-location" value="Wichita" placeholder="Zip Code, Neighborhood, City">
+            </div>
+            <button id="ls-header-search-button" class="ls-header-search-button icon-magnifying-glass" type="submit">
+              <span class="ax-hidden">Search</span>
+            </button>
+          </form>
+        </div>
+        <script>
+  (function() {
+    var loc = document.cookie.match(/search_loc=%25.*?%257D;/g);
+    if (!loc) {
+      return;
+    }
+    try {
+      var location = JSON.parse(decodeURIComponent(decodeURIComponent(loc[0].replace('search_loc=','').replace(/;$/, ''))));
+      if (location && location.friendlyName) {
+        document.getElementById('ls-location').value = location.friendlyName;
+      }
+    } catch (e) {}
+  }())
+</script>
 
-    <div class="primary-content no-overflow">
-
-      <div class="apps-social-wrapper">
-        <div class="mobile-apps">
-          <a class="no-text-decoration" data-gaaction="android-app" data-gaevent="footer" data-galabel="click" href="http://hastrk3.com/serve?action=click&amp;publisher_id=23904&amp;site_id=25828&amp;offer_id=288430" target="blank" title="Android App">                      <img alt="Get it on Google Play" src="https://cdnwp.global.ssl.fastly.net/assets/landing_pages/button_googlePlay-d480cdd04dfbc7669bfc426561c312ed.png"></a>
-          <a class="no-text-decoration" data-gaaction="ios-app" data-gaevent="footer" data-galabel="click" href="http://hastrk3.com/serve?action=click&amp;publisher_id=23904&amp;site_id=28076&amp;offer_id=288432" target="blank" title="iOS App">                      <img alt="Get it at the App Store" src="https://cdnwp.global.ssl.fastly.net/assets/landing_pages/button_appStore-93ed4b77dc8864b1dc4e64982362bca4.png"></a>        </div>
-        <div class="social-btns">
-  <ul class="unstyled">
-      <li>
-        <a data-gaaction="twitter" data-gaevent="footer" data-galabel="click" href="https://twitter.com/WhitePages" target="_blank" title="Twitter">
-                      <span class="hide-text block wp-icon twitter-icon">
-                        Twitter
+        <div id="ls-header-inbox-flyout-container" class="ls-inbox">
+          <span id="bell" class="ls-h-bell"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#FFF" d="M10.956 2.049a1.073 1.073 0 0 1-.095-.443C10.861.995 11.371.5 12 .5s1.139.495 1.139 1.106c0 .157-.034.307-.096.443 2.544.358 4.315 2.051 5.37 4.667.804 1.99 1.134 4.342 1.134 6.504 0 1.12.631 2.493 1.633 3.87.813 1.121-.02 2.656-1.408 2.656h-3.909C15.837 21.825 14.117 23.5 12 23.5s-3.838-1.675-3.864-3.754H4.228c-1.388 0-2.221-1.535-1.408-2.657 1.001-1.376 1.633-2.748 1.633-3.87 0-2.16.33-4.513 1.133-6.503 1.056-2.616 2.827-4.31 5.37-4.667zm-.985 17.697c.026 1.078.923 1.944 2.029 1.944 1.105 0 2.003-.866 2.028-1.944H9.971zm7.741-6.526c0-5.252-1.687-9.432-5.712-9.432-4.025 0-5.713 4.18-5.713 9.432 0 1.526-.708 3.128-1.827 4.716h15.08c-1.12-1.59-1.828-3.19-1.828-4.716z"></path></svg>
+          </span>
+        </div>
+        
+        <div id="ls-header-signin-flyout-container" class="signup-container">
+          <a class="user-menu-item user-menu-action" rel="nofollow" href="/login">Sign In | My Stuff</a>
+        </div>
+              <div class="user-wrapper">
+                <div id="ls-user-nav">
+                  <nav class="user-menu signed-out fix-spacing" id="ls-user-nav-menu">
+                    <a href="/occasion/recently-viewed-deals" id="ls-rvd-link" class="icon-view user-menu-item show4C" data-bhw="RecentlyViewedDeals" rel="nofollow">Recently Viewed</a>
+                    <a href="/wishlist" class="icon-heart-filled user-menu-item show4user" rel="nofollow" data-bhw="Wishlist">My Wishlist</a>
+                    <span id="ls-header-cart-link" class="user-menu-item cart-widget" data-bhw="CartWidget">
+                        <a href="/cart" id="ls-cart-link" class="cart-link icon-goods" rel="nofollow">Cart</a>
                       </span>
-</a>      </li>
-      <li>
-        <a data-gaaction="facebook" data-gaevent="footer" data-galabel="click" href="https://www.facebook.com/Whitepagesinc" target="_blank" title="Facebook">
-                      <span class="hide-text block wp-icon facebook-icon">
-                        Facebook
-                      </span>
-</a>      </li>
-      <li>
-        <a data-gaaction="google+" data-gaevent="footer" data-galabel="click" href="https://plus.google.com/+Whitepages" target="_blank" title="Google+">
-                      <span class="hide-text block wp-icon google-icon">
-                        Google+
-                      </span>
-</a>      </li>
-      <li>
-        <a data-gaaction="linkedin" data-gaevent="footer" data-galabel="click" href="https://www.linkedin.com/company/10784?trk=tyah&amp;trkInfo=tarId%3A1404663353163%2Ctas%3Awhitepages%2Cidx%3A2-1-4" target="_blank" title="LinkedIn">
-                      <span class="hide-text block wp-icon linkedin-icon">
-                        LinkedIn
-                      </span>
-</a>      </li>
-  </ul>
-</div>
-
-      </div>
-    </div>
-    <div class="clearfix"></div>
-
-      <div id="div-gpt-ad-7881599140805-0" class="dfp-ad padded-top visible-desktop pull-left footer-ad">
-    <script>
-      dfp_ad_set.push({
-  baseUri: "/6794/" + WP.adUnit(),
-  sizes: [[300, 251]],
-  divId: "div-gpt-ad-7881599140805-0",
-  outOfPage: false,
-  isRefreshable: true,
-  targetParams: {
-    html_class: "padded-top visible-desktop pull-left footer-ad",
-pos: "bottom",
-round: 3
-  },
-  restrictions: {
-    width: "\u003e 768",
-can_be_mobile: false
-  }
-});
-
-      
-    </script>
-  </div>
-
-
-    <div class="footer-link-container">
-      <div class="list-wrapper no-overflow">
-      <div class="list">
-  <strong class="title block">Company</strong>
-  <ul class="unstyled" role="navigation">
-    <li>
-        <a data-gaaction="home" data-gaevent="footer" data-galabel="click" href="/">
-          Home
-</a>      </li>
-    <li>
-        <a data-gaaction="about_us" data-gaevent="footer" data-galabel="click" href="http://whitepagesinc.com/about/">
-          About Us
-</a>      </li>
-    <li>
-        <a data-gaaction="careers" data-gaevent="footer" data-galabel="click" href="http://whitepagesinc.com/about/careers.html">
-          Careers
-</a>      </li>
-    <li>
-        <a data-gaaction="blog" data-gaevent="footer" data-galabel="click" href="http://blog.whitepages.com/">
-          Blog
-</a>      </li>
-  </ul>
-</div>
-
-
-        <div class="list">
-          <strong class="title block">Find</strong>
-          <ul class="unstyled">
-
-                <li>
-                  <a data-gaaction="person" data-gaevent="footer" data-galabel="click" href="/person">
-                    People Search
-</a>                </li>
-                <li>
-                  <a data-gaaction="phone" data-gaevent="footer" data-galabel="click" href="/reverse_phone">
-                    Phone Search
-</a>                </li>
-                <li>
-                  <a data-gaaction="address" data-gaevent="footer" data-galabel="click" href="/reverse_address">
-                    Address Search
-</a>                </li>
-                <li>
-                  <a data-gaaction="business" data-gaevent="footer" data-galabel="click" href="/business">
-                    Business Search
-</a>                </li>
-          </ul>
-        </div>
-      </div>
-      <div class="list-wrapper">
-        <div class="list no-border visible-small-tablet">
-          <strong class="title block">Your Whitepages</strong>
-          <ul class="unstyled">
-              <li>
-                <a data-gaaction="help" data-gaevent="footer" data-galabel="click" href="https://support.whitepages.com/">
-                  Help
-</a>              </li>
-              <li>
-                <a data-gaaction="suppress" data-gaevent="footer" data-galabel="click" href="/me/suppressions">
-                  Remove From Directory
-</a>              </li>
-              <li>
-                <a data-gaaction="privacy" data-gaevent="footer" data-galabel="click" href="/data-policy">
-                  Privacy Policy
-</a>              </li>
-              <li>
-                <a data-gaaction="terms_of_use" data-gaevent="footer" data-galabel="click" href="/terms-of-service">
-                  Terms of Use
-</a>              </li>
-          </ul>
-        </div>
-
-        <div class="list visible-small-tablet">
-  <strong class="title block">More</strong>
-  <ul class="unstyled">
-    <li>
-      <a data-gaaction="pro" data-gaevent="footer" data-galabel="click" href="http://pro.whitepages.com/?utm_source=whitepages.com&amp;utm_medium=links&amp;utm_content=pro-for-business-hp&amp;utm_campaign=footer" target="blank">
-        Whitepages Pro for Business
-</a>    </li>
-    <li>
-      <a data-gaaction="mobile_apps" data-gaevent="footer" data-galabel="click" href="http://www.whitepages.com/search-apps" target="blank">
-        Whitepages Apps
-</a>    </li>
-    <li>
-      <a data-gaaction="phone_scam" data-gaevent="Footer_link" href="/phone-scams-spam" target="blank">
-        Phone Scams
-</a>    </li>
-    <li>
-      <a data-gaaction="developers" data-gaevent="footer" data-galabel="click" href="http://pro.whitepages.com/developer/?utm_source=whitepages.com&amp;utm_medium=links&amp;utm_content=developers&amp;utm_campaign=footer" target="blank">
-        Developers
-</a>    </li>
-      <li class="dropdown">
-        <a class="dropdown-toggle" data-gaaction="yp" data-gaevent="footer" data-galabel="click" data-target="#" data-toggle="dropdown" href="">
-          Yellow Pages
-</a>
-        <div class="dropdown-menu footer-dropdown">
-          <span class="pull-right">
-            <a href="/yellow-pages">
-              Search by State
-</a>          </span>
-
-          <h2 class="h4 green">
-            City Yellow Pages
-          </h2>
-
-            <ul class="cities unstyled">
-                <li>
-                  <a href="/yellow-pages/Atlanta-GA">
-                    Atlanta
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Boston-MA">
-                    Boston
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Chicago-IL">
-                    Chicago
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Cleveland-OH">
-                    Cleveland
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Dallas-TX">
-                    Dallas
-</a>                </li>
-            </ul>
-
-            <ul class="cities unstyled">
-                <li>
-                  <a href="/yellow-pages/Denver-CO">
-                    Denver
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Detroit-MI">
-                    Detroit
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Houston-TX">
-                    Houston
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Las%20Vegas-NV">
-                    Las Vegas
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Los%20Angeles-CA">
-                    Los Angeles
-</a>                </li>
-            </ul>
-
-            <ul class="cities unstyled">
-                <li>
-                  <a href="/yellow-pages/Miami-FL">
-                    Miami
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Minneapolis-MN">
-                    Minneapolis
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/New%20York-NY">
-                    New York
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Philadelphia-PA">
-                    Philadelphia
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Phoenix-AZ">
-                    Phoenix
-</a>                </li>
-            </ul>
-
-            <ul class="cities unstyled">
-                <li>
-                  <a href="/yellow-pages/San%20Diego-CA">
-                    San Diego
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/San%20Francisco-CA">
-                    San Francisco
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Seattle-WA">
-                    Seattle
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Tampa-FL">
-                    Tampa
-</a>                </li>
-                <li>
-                  <a href="/yellow-pages/Washington-DC">
-                    Washington, DC
-</a>                </li>
-            </ul>
-
-        </div>
-      </li>
-      <li class="dropdown">
-        <a class="dropdown-toggle" data-gaaction="wp" data-gaevent="footer" data-galabel="click" data-target="#" data-toggle="dropdown" href="">
-          White Pages
-</a>
-        <div class="dropdown-menu footer-dropdown">
-          <span class="pull-right">
-            <a href="/white-pages">
-              Search by State
-</a>          </span>
-
-          <h2 class="h4 green">
-            City White Pages
-          </h2>
-
-            <ul class="cities unstyled">
-                <li>
-                  <a href="/white-pages/Atlanta-GA">
-                    Atlanta
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Boston-MA">
-                    Boston
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Chicago-IL">
-                    Chicago
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Cleveland-OH">
-                    Cleveland
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Dallas-TX">
-                    Dallas
-</a>                </li>
-            </ul>
-
-            <ul class="cities unstyled">
-                <li>
-                  <a href="/white-pages/Denver-CO">
-                    Denver
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Detroit-MI">
-                    Detroit
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Houston-TX">
-                    Houston
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Las%20Vegas-NV">
-                    Las Vegas
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Los%20Angeles-CA">
-                    Los Angeles
-</a>                </li>
-            </ul>
-
-            <ul class="cities unstyled">
-                <li>
-                  <a href="/white-pages/Miami-FL">
-                    Miami
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Minneapolis-MN">
-                    Minneapolis
-</a>                </li>
-                <li>
-                  <a href="/white-pages/New%20York-NY">
-                    New York
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Philadelphia-PA">
-                    Philadelphia
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Phoenix-AZ">
-                    Phoenix
-</a>                </li>
-            </ul>
-
-            <ul class="cities unstyled">
-                <li>
-                  <a href="/white-pages/San%20Diego-CA">
-                    San Diego
-</a>                </li>
-                <li>
-                  <a href="/white-pages/San%20Francisco-CA">
-                    San Francisco
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Seattle-WA">
-                    Seattle
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Tampa-FL">
-                    Tampa
-</a>                </li>
-                <li>
-                  <a href="/white-pages/Washington-DC">
-                    Washington, DC
-</a>                </li>
-            </ul>
-
-        </div>
-      </li>
-      <li>
-        <a data-gaaction="mx" data-gaevent="footer" data-galabel="click" href="http://mx.whitepages.com/">Whitepages Mexico</a>
-      </li>
-      <li>
-        <a data-gaaction="names" data-gaevent="footer" data-galabel="click" href="http://names.whitepages.com">
-          Names
-</a>      </li>
-      <li>
-        <a data-gaaction="411.com" data-gaevent="footer" data-galabel="click" href="http://www.411.com/">
-          411.com
-</a>      </li>
-    </ul>
-  </div>
-
-        </div>
-      </div>
-
-      <div class="alpha-list visible-fullsize">
-        <ul class="horizontal-list horizontal-list-pipes">
-          <li>
-            <a data-gaaction="zip_codes" data-gaevent="footer" data-galabel="click" href="/zip-codes">
-              ZIP Codes
-</a>          </li>
-          <li>
-            <a data-gaaction="area_codes" data-gaevent="footer" data-galabel="click" href="/area-codes">
-              Area Codes
-</a>          </li>
-          <li>
-            <a data-gaaction="phone_numbers" data-gaevent="footer" data-galabel="click" href="http://www.whitepages.com/phone/US">
-              Phone Numbers
-</a>          </li>
-          <li class="people-letters">
-            <span>People:</span>
-            <ul class="horizontal-list">
-                <li><a href="/ind/a">
-                    A
-</a>                </li>
-                <li><a href="/ind/b">
-                    B
-</a>                </li>
-                <li><a href="/ind/c">
-                    C
-</a>                </li>
-                <li><a href="/ind/d">
-                    D
-</a>                </li>
-                <li><a href="/ind/e">
-                    E
-</a>                </li>
-                <li><a href="/ind/f">
-                    F
-</a>                </li>
-                <li><a href="/ind/g">
-                    G
-</a>                </li>
-                <li><a href="/ind/h">
-                    H
-</a>                </li>
-                <li><a href="/ind/i">
-                    I
-</a>                </li>
-                <li><a href="/ind/j">
-                    J
-</a>                </li>
-                <li><a href="/ind/k">
-                    K
-</a>                </li>
-                <li><a href="/ind/l">
-                    L
-</a>                </li>
-                <li><a href="/ind/m">
-                    M
-</a>                </li>
-                <li><a href="/ind/n">
-                    N
-</a>                </li>
-                <li><a href="/ind/o">
-                    O
-</a>                </li>
-                <li><a href="/ind/p">
-                    P
-</a>                </li>
-                <li><a href="/ind/q">
-                    Q
-</a>                </li>
-                <li><a href="/ind/r">
-                    R
-</a>                </li>
-                <li><a href="/ind/s">
-                    S
-</a>                </li>
-                <li><a href="/ind/t">
-                    T
-</a>                </li>
-                <li><a href="/ind/u">
-                    U
-</a>                </li>
-                <li><a href="/ind/v">
-                    V
-</a>                </li>
-                <li><a href="/ind/w">
-                    W
-</a>                </li>
-                <li><a href="/ind/x">
-                    X
-</a>                </li>
-                <li><a href="/ind/y">
-                    Y
-</a>                </li>
-                <li><a href="/ind/z">
-                    Z
-</a>                </li>
-            </ul>
-          </li>
+                    <a id="user-merchant" class="user-menu-item user-merchant" data-bhw="user-merchant-link" rel="nofollow" href="/merchant/get-started?utm_medium=referral&amp;utm_campaign=groupon-header1&amp;utm_source=groupon">Sell</a>
+                    <a id="user-help" class="user-menu-item user-help" href="/customer_support" data-bhw="user-help-link">Help</a>
+                    <a class="user-menu-item" id="ls-user-signup" data-bhw="UserSignUp" rel="nofollow" href="/signup">Sign Up</a>
+                  </nav>
+                </div>
+                <script>
+          (function() {
+            try {
+              var nav = document.getElementById('ls-header-top-row');
+              var fn = function(s) {
+                Array.prototype.forEach.call(nav.getElementsByClassName(s), function(i) {
+                  i.classList.remove(s)
+                })
+              };
+              if (nav && document.cookie.match(/(^c=|\sc=)/g)) fn('show4C');
+              var data = sessionStorage['verifiedUser'];
+              if (nav && data) {
+                fn('show4user');
+                var user = nav.querySelector('.user-menu-action');
+                user.classList.add('user-name');
+                user.innerHTML = '<span class="icon-arrow-down-large">' + JSON.parse(data).nameTruncated + '</span>';
+                document.getElementById('ls-user-signup').classList.add('ls-hide');
+              }
+            } catch (e) {}
+          }());
+        </script>
+              </div>
+            </div>
+          </div>
+            <nav id="ls-channel-nav" class="ls-channel-nav">
+      <div id="ls-primary-nav-row" class="ls-nav-row page-container">
+        <ul id="primary-nav" class="primary-nav smaller-nav-links">
+              <li id="home-tab" class="primary-nav-tab" data-bhw="NavHome">
+                <a href="/">
+                  Featured
+                </a>
+              </li>
+              <li id="things-to-do-tab" class="primary-nav-tab" data-bhw="NavThingsToDo">
+                <a href="/browse/wichita?category=things-to-do">
+                  Things To Do
+                </a>
+              </li>
+              <li id="beauty-and-spas-tab" class="primary-nav-tab" data-bhw="NavBeautyAndSpas">
+                <a href="/browse/wichita?category=beauty-and-spas">
+                  Beauty &amp; Spas
+                </a>
+              </li>
+              <li id="local-tab" class="primary-nav-tab" data-bhw="NavLocal">
+                <a href="/browse/wichita?context=local">
+                  Local
+                </a>
+              </li>
+              <li id="goods-tab" class="primary-nav-tab" data-bhw="NavGoods">
+                <a href="/goods">
+                  Goods
+                </a>
+              </li>
+              <li id="getaways-tab" class="primary-nav-tab" data-bhw="NavTravel">
+                <a href="/getaways">
+                  Travel
+                </a>
+              </li>
+              <li id="goods-deal-of-day-tab" class="primary-nav-tab" data-bhw="NavGoodsLightningFlash">
+                <a href="/occasion/deals-of-the-day">
+                  Deals of the Day
+                </a>
+              </li>
+              <li id="coupons-tab" class="primary-nav-tab" data-bhw="NavCoupons">
+                <a href="/coupons">
+                  Coupons
+                </a>
+              </li>
+              <li id="occasion-tab" class="primary-nav-tab" data-bhw="NavOccasions">
+                <a href="/occasion/buy-more-save-more">
+                  Buy More, Save More
+                </a>
+              </li>
         </ul>
       </div>
+      <nav id="subnav"></nav>
+    </nav>
+</header>
+        <script>
+    BOOMR.t_header = +new Date()
+</script>
+      </div>
+
+    
+    
+
+
+            <div class="main page-container">
+  <main class="twelve columns" role="main">
+    <div class="module">
+      <div class="module-body">
+          <div role="heading" class="section-title sub-section-title" aria-level="3">GROUPON, INC. PRIVACY STATEMENT</div>
+        <div role="heading" class="sub-section-title"><div>PRIVACY STATEMENT
+</div></div>
+<div role="heading" class="sub-section-title"><div>Effective Date: August 10, 2017
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">This Privacy Statement (“
+    <span style="font-weight: 700;">Privacy Statement
+    </span>”) explains how Groupon, Inc. (“
+    <span style="font-weight: 700;">Groupon
+    </span>,” “
+    <span style="font-weight: 700;">us
+    </span>,” “
+    <span style="font-weight: 700;">our
+    </span>,” and “
+    <span style="font-weight: 700;">we
+    </span>”) uses your information and applies to all who use our Web site – www.groupon.com, mobile applications, touch technologies, electronic services, social networking sites, interactive features, online services – or any of our described online activities we own or control, including any online activities owned, controlled, or operated by Groupon Affiliates, (collectively, the “
+    <span style="font-weight: 700;">Site
+    </span>”). In addition, please review the Site’s&nbsp;
+    <span style="font-weight: 700;">
+      <a href="http://www.groupon.com/legal/termsofservice">Terms of Use
+      </a>
+    </span>&nbsp;which governs your use of the Service, and includes, among other things, grants of rights from you, limits on our liability and your remedies, mandatory arbitration, and waiver of jury trial and class actions.&nbsp;
+    <span style="font-weight: 700;">By using our Site, you agree to our Terms of Service and consent to our collection, use and sharing of your information and data, and other activities, as described below.
+    </span>
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">By using the Site, you agree to the terms of this Privacy Statement. If you do not agree with the practices described in this Privacy Statement, please do not provide us with your personal information or interact with the Site.
+    </span>
+  </p>
+  <p style="font-size:14px;font-weight:400;">We may modify this Privacy Statement at any time. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of notice on the Site prior to the change becoming effective. You can determine when this Privacy Statement was last revised by referring to the "Effective Date” above. You can review the last version of this Privacy Statement&nbsp;
+    <a href="https://www.groupon.com/pages/privacy1312017">here
+    </a>.
+  </p>
+  <p style="font-size:14px;font-weight:400;">This Privacy Statement is organized as follows:
+  </p>
+  <ol style="padding-left:30px;font-size:14px;font-weight:400;">
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item1">Types of Information We Collect
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item2">Your Choices
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item3">How Groupon Uses Information
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item4">When and Why Groupon Discloses Personal Information
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item5">How Groupon Collects Information
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item6">Security of Personal Information
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item7">Accessing and Correcting Personal Information
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item8">Social Networks
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item9">Privacy Practices of Third Parties
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#item10">Business Transfers and Corporate Changes
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item11">Notice to Residents of Countries outside the United States of America
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item12">Children’s Privacy
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item13">Contact Us; California Privacy Rights and Other Countries
+        </a>
+      </span>
+      <br>
+    </li>
+    <li>
+      <span style="font-weight: 700;">
+        <a href="https://www.groupon.com/legal/privacypolicy#Item14">Glossary of Terms
+        </a>
+      </span>
+      <br>
+    </li>
+  </ol>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item1">1. Types of Information We Collect
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">We will collect information, including&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;and&nbsp;
+    <a href="https://www.groupon.com/privacy#Information">Non-Identifying Information
+    </a>, when you interact with us and the Site, for example when you:
+  </p>
+  <ul style="font-size:14px;font-weight:400;">
+    <li>access or use the Site;
+    </li>
+    <li>register, subscribe, or create an account with Groupon;
+    </li>
+    <li>open or respond to our e-mails;
+    </li>
+    <li>refer friends, family, or others to Groupon;
+    </li>
+    <li>contact customer service or use other customer support tools;
+    </li>
+    <li>provide information to enroll or participate in&nbsp;
+      <a href="https://www.groupon.com/privacy#Programs">Other Programs
+      </a>&nbsp;provided on behalf of, or together with,&nbsp;
+      <a href="https://www.groupon.com/privacy#Business">Business Partners
+      </a>;
+    </li>
+    <li>visit any page online that displays our ads or content;
+    </li>
+    <li>purchase products or services on or through the Site;
+    </li>
+    <li>connect or link to any Site via social networking sites;
+    </li>
+    <li>post comments to&nbsp;
+      <a href="https://www.groupon.com/privacy#Communities">Online Communities
+      </a>; and
+    </li>
+    <li>provide information to our&nbsp;
+      <a href="https://www.groupon.com/privacy#Vendors">Vendors
+      </a>.
+      <p>This Privacy Statement does not apply to the collection of information in any way other than as listed above.
+      </p>
+    </li>
+  </ul>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item2">2. Your Choices
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">We think that you benefit from a more personalized experience when we know more about you and what you like. However, you can limit the information you provide to Groupon, and you can limit the communications that Groupon sends to you.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">(a) Commercial E-mails
+    </span>
+  </p>
+  <p style="font-size:14px;font-weight:400;">You may choose not to receive commercial e-mails from us by following the instructions contained in any of the commercial e-mails we send or by logging into your account and adjusting your e-mail preferences. Please note that even if you unsubscribe from commercial email messages, we may still e-mail you non-commercial e-mails related to your account and your transactions on the Site. You may update your subscription preferences at any time.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">(b) Cookies and Other Technologies
+    </span>
+  </p>
+  <p style="font-size:14px;font-weight:400;">You may manage how your browser handles&nbsp;
+    <a href="https://www.groupon.com/privacy#Cookie">Cookies
+    </a>&nbsp;by adjusting its privacy and security settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. You can opt-out of being targeted by certain&nbsp;
+    <a href="https://www.groupon.com/privacy#ThirdParty">Third-Party Ad-Servers
+    </a>&nbsp;and Groupon-served ads online using the&nbsp;
+    <span style="font-weight: 700;">
+      <a href="http://www.networkadvertising.org/managing/opt_out.asp">National Advertising Initiative’s Opt-Out Tool
+      </a>
+    </span>&nbsp;or the&nbsp;
+    <span style="font-weight: 700;">
+      <a href="http://www.aboutads.info/choices/">Digital Advertising Alliance’s (DAA) About Ads Opt-Out Tool
+      </a>
+    </span>. For more information review our&nbsp;
+    <a href="http://www.groupon.com/legal/cookiepolicy">Cookies Policy
+    </a>.
+  </p>
+  <p style="font-size:14px;font-weight:400;">Currently, we do not alter our data collection and use practices in response to Do Not Track signals.
+  </p>
+  <p style="font-size:14px;font-weight:400;">We use&nbsp;
+    <a href="https://www.groupon.com/privacy#Information">Non-Identifiable Information
+    </a>&nbsp;and&nbsp;
+    <a href="https://www.groupon.com/privacy#Device">Device Data
+    </a>&nbsp;to directly serve you interest-based ads on third party websites and mobile applications. Interest-based ads served directly by Groupon on third party sites will display the AdChoices icon. If you prefer not to receive interest-based ads from Groupon on third party sites, you can click on the AdChoices icon in the ad, which will direct you to the&nbsp;
+    <a href="https://www.groupon.com/advertising_preference">Your Groupon AdChoices
+    </a>&nbsp;page where you can opt-out of receiving interest-based ads served by Groupon.
+  </p>
+  <p style="font-size:14px;font-weight:400;">Groupon, Inc. is a member of the Digital Advertising Alliance, which is a media marketing and trade association that has issued self-regulatory guidelines for online advertising. Visit the DAA’s AdChoices page to learn more about interest-based advertising and to opt-out of having cookies placed by ad-serving companies.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">(c) Device Data
+    </span>
+  </p>
+  <p style="font-size:14px;font-weight:400;">You may manage how your mobile device and mobile browser share certain&nbsp;
+    <a href="https://www.groupon.com/privacy#Device">Device Data
+    </a>&nbsp;with Groupon, as well as how your mobile browser handles&nbsp;
+    <a href="https://www.groupon.com/privacy#Cookie">Cookies
+    </a>&nbsp;by adjusting the privacy and security settings on your mobile device. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your settings.
+  </p>
+  <p style="font-size:14px;font-weight:400;">When you first visit or use the Site we may request permission to collect and use your device’s precise geolocation. You can opt not to permit the collection of this information, or permit it only when using the mobile app, but it may limit certain functions or features of the Site. You can control how and whether we collect your precise geolocation information through your device’s settings.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">(d) E-mails from Business Partners
+    </span>
+  </p>
+  <p style="font-size:14px;font-weight:400;">If you wish to opt out of receiving offers directly from our&nbsp;
+    <a href="https://www.groupon.com/privacy#Business">Business Partners
+    </a>, you can follow the opt-out instructions in the emails that they send you.
+  </p>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item3">3. How Groupon Uses Information
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">We (or our&nbsp;
+    <a href="https://www.groupon.com/privacy#Vendors">Vendors
+    </a>&nbsp;on our behalf), use information collected as described in this Privacy Statement to:
+  </p>
+  <ul style="font-size:14px;font-weight:400;">
+    <li>Operate, maintain and improve the Site and our services, and&nbsp;
+      <a href="https://www.groupon.com/privacy#Programs">Other Programs
+      </a>;
+    </li>
+    <li>Provide you with interest-based ads, push notifications, communications, and offers for products and services from us and participating&nbsp;
+      <a href="https://www.groupon.com/privacy#Business">Business Partners
+      </a>, including based on your precise geolocation;
+    </li>
+    <li>Facilitate and fulfill orders placed on the Site and&nbsp;
+      <a href="https://www.groupon.com/privacy#Programs">Other Programs
+      </a>&nbsp;– for example, for Groupon vouchers and other goods and services, including tracking redemption;
+    </li>
+    <li>Evaluate your eligibility for certain types of offers, products or services that may be of interest to you, and analyze advertising effectiveness;
+    </li>
+    <li>Answer your questions and respond to your requests;
+    </li>
+    <li>Perform analytics and conduct customer research;
+    </li>
+    <li>Communicate and provide additional information that may be of interest to you about Groupon and our&nbsp;
+      <a href="https://www.groupon.com/privacy#Business">Business Partners
+      </a>, sometimes by combining your information with information from&nbsp;
+      <a href="https://www.groupon.com/privacy#Other">Other Sources
+      </a>;
+    </li>
+    <li>Send you reminders, technical notices, updates, security alerts, support and administrative messages, service bulletins, marketing messages, and requested information, including on behalf of&nbsp;
+      <a href="https://www.groupon.com/privacy#Business">Business Partners
+      </a>;
+    </li>
+    <li>Administer rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored by us or our&nbsp;
+      <a href="https://www.groupon.com/privacy#Business">Business Partners
+      </a>;
+    </li>
+    <li>Manage our everyday business needs, such as administration of the Site, forum management, fulfillment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and&nbsp;
+      <a href="http://www.groupon.com/legal/termsofservice">Terms of Use
+      </a>, or to comply with the law;
+    </li>
+    <li>Allow you to apply for a job, post a video or sign up for special offers from merchants,&nbsp;
+      <a href="https://www.groupon.com/privacy#Business">Business Partners
+      </a>, or third parties through the Site and&nbsp;
+      <a href="https://www.groupon.com/privacy#Programs">Other Programs
+      </a>;
+    </li>
+    <li>Enhance other information we have about you directly or from&nbsp;
+      <a href="https://www.groupon.com/privacy#Other">Other Sources
+      </a>&nbsp;to help us better understand you and determine your interests, and to
+    </li>
+    <li>Use your data as described in our&nbsp;
+      <a href="https://www.groupon.com/pages/special-programs#card-linked-deals">Card Linked Deals
+      </a>&nbsp;program, if you consented to participate in such program.
+      <br>
+      <br>
+    </li>
+  </ul>
+  <p style="font-size:14px;font-weight:400;">We also may use information collected as described in this Privacy Statement with your consent or as otherwise required or permitted by law.
+  </p>
+  <p style="font-size:14px;font-weight:400;">Groupon uses your geolocation, including your precise geolocation, consistent with this Privacy Statement as described in&nbsp;
+    <a href="https://www.groupon.com/privacy#item5">Section 5
+    </a>&nbsp;below to deliver location-based offers, products or services that may be of interest to you.
+  </p>
+  <p style="font-size:14px;font-weight:400;">If you use any features on the Site to send information about a product or service to another person (e.g., a friend, a colleague, a professional associate, etc.), we will also collect the&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;of that other person to the extent disclosed by you and may contact them using the information you provided us.
+  </p>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item4">4. When and Why Groupon Discloses Information
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">We (or our&nbsp;
+    <a href="https://www.groupon.com/privacy#Vendors">Vendors
+    </a>&nbsp;on our behalf) may share your&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;as required or permitted by law:
+  </p>
+  <ul style="font-size:14px;font-weight:400;">
+    <li>with any Groupon&nbsp;
+      <a href="https://www.groupon.com/privacy#Affiliates">Affiliate
+      </a>&nbsp;who may only use the&nbsp;
+      <a href="https://www.groupon.com/privacy#Personal">Personal Information
+      </a>&nbsp;for the purposes described in this Privacy Statement;
+    </li>
+    <li>with our&nbsp;
+      <a href="https://www.groupon.com/privacy#Vendors">Vendors
+      </a>&nbsp;to provide services for us and who are required to protect the&nbsp;
+      <a href="https://www.groupon.com/privacy#Personal">Personal Information
+      </a>;
+    </li>
+    <li>to report or collect on debts owed to us or our&nbsp;
+      <a href="https://www.groupon.com/privacy#Business">Business Partners
+      </a>;
+    </li>
+    <li>with relevant&nbsp;
+      <a href="https://www.groupon.com/privacy#Business">Business Partners
+      </a>:
+      <ul>
+        <li>with whom we jointly offer products and services;
+        </li>
+        <li>with whom we have entered into an agreement that provides for the disclosure, sale, lease, or license of your Information;
+        </li>
+        <li>to facilitate a direct relationship with you, including in connection with any program we administer on behalf of the&nbsp;
+          <a href="https://www.groupon.com/privacy#Business">Business Partner
+          </a>;
+        </li>
+        <li>to enable electronic communications with you as part of purchase, a sponsored reward, offer, contest, program, or other activity in which you have elected to participate;
+        </li>
+        <li>to the extent you have purchased or redeemed a Groupon voucher, goods or services offered by a&nbsp;
+          <a href="https://www.groupon.com/privacy#Business">Business Partner
+          </a>&nbsp;or participated in an offer, rewards, contest or other activity or&nbsp;
+          <a href="https://www.groupon.com/privacy#Programs">Other Programs
+          </a>&nbsp;sponsored or offered through Groupon on behalf of that&nbsp;
+          <a href="https://www.groupon.com/privacy#Business">Business Partner
+          </a>;
+        </li>
+      </ul>
+    </li>
+    <li>with a purchaser or prospective purchaser of Groupon or any of the Groupon&nbsp;
+      <a href="https://www.groupon.com/privacy#Affiliates">Affiliates
+      </a>&nbsp;(or all or a portion of their assets), as described below in&nbsp;
+      <a href="https://www.groupon.com/privacy#item10">Section 10
+      </a>;
+    </li>
+    <li>to comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions;
+    </li>
+    <li>to combat fraud or criminal activity, and to protect our rights or those of our&nbsp;
+      <a href="https://www.groupon.com/privacy#Affiliates">Affiliates
+      </a>, users, and&nbsp;
+      <a href="https://www.groupon.com/privacy#Business">Business Partners
+      </a>, or as part of legal proceedings affecting Groupon;
+    </li>
+    <li>in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts in the United States and other countries where we operate; or
+    </li>
+    <li>with your consent.
+      <br>
+      <br>
+    </li>
+  </ul>
+  <p style="font-size:14px;font-weight:400;">We encourage&nbsp;
+    <a href="https://www.groupon.com/privacy#Business">Business Partners
+    </a>&nbsp;to adopt and post privacy policies. However, their use of&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;obtained through Groupon is governed by their privacy policies and is not subject to our control.
+  </p>
+  <p style="font-size:14px;font-weight:400;">We may also disclose&nbsp;
+    <a href="https://www.groupon.com/privacy#Information">Non-Identifiable Information
+    </a>:
+  </p>
+  <ul style="font-size:14px;font-weight:400;">
+    <li>for the same reasons we might share&nbsp;
+      <a href="https://www.groupon.com/privacy#Personal">Personal Information
+      </a>;
+    </li>
+    <li>with&nbsp;
+      <a href="https://www.groupon.com/privacy#Business">Business Partners
+      </a>&nbsp;for their own analysis and research;
+    </li>
+    <li>to facilitate targeted content and ads; or
+    </li>
+    <li>with&nbsp;
+      <a href="https://www.groupon.com/privacy#ThirdParty">Third-Party Ad-Servers
+      </a>&nbsp;to place our ads and/or ads of our merchants or&nbsp;
+      <a href="https://www.groupon.com/privacy#Business">Business Partners
+      </a>&nbsp;on the Site and on third-party sites, and to analyze the effectiveness of those ads.
+      <br>
+      <br>
+    </li>
+  </ul>
+  <p style="font-size:14px;font-weight:400;">We do not share&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;with&nbsp;
+    <a href="https://www.groupon.com/privacy#ThirdParty">Third-Party Ad-Servers
+    </a>; however,&nbsp;
+    <a href="https://www.groupon.com/privacy#ThirdParty">Third-Party Ad-Servers
+    </a>&nbsp;may automatically collect&nbsp;
+    <a href="https://www.groupon.com/privacy#Information">Non-Identifying Information
+    </a>&nbsp;about your visit to the Site and other websites, your device address, your Internet Service Provider and the browser you use to visit the Site. They do this by using&nbsp;
+    <a href="https://www.groupon.com/privacy#Cookie">Cookies
+    </a>, clear gifs and other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visits to the Site and the other websites tracked by these third parties. This Privacy Statement does not cover the collection methods or use of the information collected by&nbsp;
+    <a href="https://www.groupon.com/privacy#ThirdParty">Third-Party Ad-Servers
+    </a>, and Groupon is not responsible for&nbsp;
+    <a href="https://www.groupon.com/privacy#Cookie">Cookies
+    </a>&nbsp;or clear gifs in third party ads. We encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use of&nbsp;
+    <a href="https://www.groupon.com/privacy#Cookie">Cookies
+    </a>&nbsp;and other technologies. If you would like more information about these practices and to know your choices about not having this information used by third party advertisers, please visit&nbsp;
+    <a href="http://www.networkadvertising.org/">http://www.networkadvertising.org
+    </a>&nbsp;and&nbsp;
+    <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/
+    </a>.
+  </p>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item5">5. How Groupon Collects Information
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">You provide us with your&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;when you register, subscribe, create an account, make a purchase, or otherwise when you provide us with your&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;during your interaction with the Site and&nbsp;
+    <a href="https://www.groupon.com/privacy#Programs">Other Programs
+    </a>. We also collect&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;when you contact us online for customer service and other support using self-help tools, such as email, text, or by posting to an&nbsp;
+    <a href="https://www.groupon.com/privacy#Communities">Online Community
+    </a>.
+  </p>
+  <p style="font-size:14px;font-weight:400;">We also receive&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;and other online and offline information from&nbsp;
+    <a href="https://www.groupon.com/privacy#Other">Other Sources
+    </a>. Groupon will use such information in accordance with applicable laws. Such information, when combined with Personal Information collected as provided in this Privacy Statement, will also be handled in accordance with this Privacy Statement. We also use cookies, tags, web beacons, local shared objects, files, tools and programs to keep records, store your preferences, improve our advertising, and collect&nbsp;
+    <a href="https://www.groupon.com/privacy#Information">Non-Identifying Information
+    </a>, including&nbsp;
+    <a href="https://www.groupon.com/privacy#Device">Device Data
+    </a>&nbsp;and information about your interaction with the Site and our&nbsp;
+    <a href="https://www.groupon.com/privacy#Business">Business Partners'
+    </a>&nbsp;web sites.
+  </p>
+  <p style="font-size:14px;font-weight:400;">We use&nbsp;
+    <a href="https://www.groupon.com/privacy#Cookie">Cookies
+    </a>&nbsp;and&nbsp;
+    <a href="https://www.groupon.com/privacy#Device">Device Data
+    </a>&nbsp;that allow us to connect your Site activity with other information we store about you in your profile or as related to your interactions with the Site. For more information on how Groupon uses&nbsp;
+    <a href="https://www.groupon.com/privacy#Cookie">Cookies
+    </a>, including instructions on how to opt out of interest-based advertising, please review our&nbsp;
+    <a href="http://www.groupon.com/cookie-policy">Cookies Policy
+    </a>.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <a href="https://www.groupon.com/privacy#Device">Device Data
+    </a>&nbsp;may be collected automatically, and as soon as your device interacts with the Site and Groupon, even if you are not logged into the Site using your device. If you have questions about the security and privacy settings of your mobile device, please refer to instructions from your mobile service provider or the manufacturer of your device to learn how to adjust your settings.
+  </p>
+  <p style="font-size:14px;font-weight:400;">We collect your location information, including precise real-time geolocation, such as through look up based on IP address, GPS, Bluetooth, or WiFi signals, consistent with your choice of mobile device settings. We may also collect the precise location of your device when the app is running in the foreground, background, or even if you are not directly using the application depending on your device and its settings. Your device, as well as the Groupon mobile app, provides you with options to control how and when we collect your geolocation. You may be able to disallow our use of certain location data through your device or browser settings, for example, by disabling “Location” services for the Groupon application in iOS privacy settings.
+  </p>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item6">6. Security of Personal Information
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">Groupon has implemented an information security program that contains administrative, technical and physical controls that are designed to reasonably safeguard&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>. For example, we use industry-standard encryption technology to secure&nbsp;
+    <a href="https://www.groupon.com/privacy#Financial">Financial Account Information
+    </a>. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@groupon.com.
+  </p>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item7">7. Accessing and Correcting Personal Information
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">You can access, update and delete your&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;you provided to us, as described below, by managing this information through your online account or sending us an email at&nbsp;
+    <a href="mailto:privacy@groupon.com">privacy@groupon.com
+    </a>. You can update or remove&nbsp;
+    <a href="https://www.groupon.com/privacy#Financial">Financial Account Information
+    </a>&nbsp;as well. Keeping your&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;current helps ensure that we, our&nbsp;
+    <a href="https://www.groupon.com/privacy#Affiliates">Affiliates
+    </a>&nbsp;and&nbsp;
+    <a href="https://www.groupon.com/privacy#Business">Business Partners
+    </a>&nbsp;offer you the offers that are most relevant to you.
+  </p>
+  <p style="font-size:14px;font-weight:400;">If you want to deactivate your Groupon account or have other questions or requests, please contact us. While we are ready to assist you in managing your subscriptions, deactivating your account, and removing your active profile, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases on the Site for financial reporting and compliance reasons.
+  </p>
+  <p style="font-size:14px;font-weight:400;">We will retain your&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes. If you wish to deactivate your account or request that we no longer use your&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;to provide you services contact us at&nbsp;
+    <a href="mailto:support@groupon.com">support@groupon.com
+    </a>. We will retain and use your&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+  </p>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item8">8. Social Networks
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">Social Community Areas
+    </span>
+  </p>
+  <p style="font-size:14px;font-weight:400;">The Site may be accessible through or contain connections to areas where you may be able to publicly post information, communicate with others such as discussion boards or blogs, review products and merchants, and submit media content. Prior to posting in these areas, please read our&nbsp;
+    <a href="http://www.groupon.com/legal/termsofservice">Terms of Use
+    </a>&nbsp;carefully. All the information you post may be accessible to anyone with Internet access, and any&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;you include in your posting may be read, collected, and used by others. We recommend that you do not post any&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;in the social community areas.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">Social Networks
+    </span>
+  </p>
+  <p style="font-size:14px;font-weight:400;">You may log in to the Site using certain social network credentials. To manage the sharing of certain&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;with us when you connect with us through social networking platforms or applications, refer to the privacy policy and settings of the social networking website or application.
+  </p>
+  <p style="font-size:14px;font-weight:400;">You also have the option to link social networks, such as Facebook, to your Groupon account. Once you register with Groupon and connect with the social network, you will be able to automatically post recent Groupon activity back to your social network.
+  </p>
+  <p style="font-size:14px;font-weight:400;">By proceeding through any of the above steps, you grant Groupon permission to access all of the elements of your social network profile information that you have made available to be shared and to use it in accordance with the social network’s terms of use and this Privacy Statement.
+  </p>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item9">9. Privacy Practices of Third Parties
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">This Privacy Statement only addresses the use and disclosure of information by Groupon through your interaction with the Site. Other websites that may be accessible through links from the Site and&nbsp;
+    <a href="https://www.groupon.com/privacy#Programs">Other Programs
+    </a>&nbsp;may have their own privacy statements and personal information collection, use, and disclosure practices. Our&nbsp;
+    <a href="https://www.groupon.com/privacy#Business">Business Partners
+    </a>&nbsp;may also have their own privacy statements. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information or taking advantage of a sponsored offer or promotion.
+  </p>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item10">10. Business Transfers and Corporate Changes
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">Groupon and our&nbsp;
+    <a href="https://www.groupon.com/privacy#Affiliates">Affiliates
+    </a>&nbsp;reserve the right to disclose, transfer, or license any and all information related to the Site, including&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>:
+  </p>
+  <ul style="font-size:14px;font-weight:400;">
+    <li>to a subsequent owner, co-owner or operator of one or more of the Sites or any portion or operation related to part of one or more of the Sites; or
+    </li>
+    <li>in connection with a corporate merger, consolidation, or restructuring, the sale of substantially all of our stock and/or assets, or other corporate change, including, without limitation, during the course of any due diligence process.
+    </li>
+  </ul>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item11">11. Notice to Residents of Countries outside the United States of America
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">If you live outside the United States (including in the European Economic Area (“
+    <span style="font-weight: 700;">EE
+    </span>”) and Switzerland (“
+    <span style="font-weight: 700;">CH
+    </span>”) collectively the “
+    <span style="font-weight: 700;">EEA/CH
+    </span>”), and you use the Site or provide us with&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;directly via the Site, your information will be handled in accordance with this Privacy Statement. By using the Site or giving us your&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>, you are directly transferring your&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;and&nbsp;
+    <a href="https://www.groupon.com/privacy#Information">Non-Identifiable Information
+    </a>&nbsp;to us in the United States. You agree and consent to our collection, transfer, and processing of your&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>&nbsp;and&nbsp;
+    <a href="https://www.groupon.com/privacy#Information">Non-Identifiable Information
+    </a>&nbsp;in accordance with this Privacy Statement. You are solely responsible for compliance with any data protection or privacy obligations in your jurisdiction when you use the Site or provide us with&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>. Regardless of where we transfer your information, we still protect your information in the manner described in this Privacy Statement.
+  </p>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item12">12. Children’s Privacy
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">The Site is a general audience site not directed at children under the age of 13.
+  </p>
+  <p style="font-size:14px;font-weight:400;">By using Groupon, you represent that you are at least eighteen years old and understand that you must be at least eighteen years old in order to create an account and purchase the goods or services advertised through the Site. We will promptly delete information associated with any account we obtain actual knowledge is associated with a registered user who is not at least eighteen years old.
+  </p>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item13">13. Contact Us; California Privacy Rights and Other Countries
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">Please contact us if you have any questions or comments about our privacy practices or this Privacy Statement. You can reach us online at privacy@groupon.com. You can reach us via postal mail at the following address:
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">Groupon Inc.
+      <br>Attention: Privacy Office
+      <br>600 West Chicago Avenue
+      <br>Chicago, Illinois 60654 USA
+    </span>
+  </p>
+  <p style="font-size:14px;font-weight:400;">If you reside in Canada, you may have the right to be provided with access to Personal Information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information to Vendors outside Canada. E-mail us at privacy@groupon.com with questions.
+  </p>
+  <p style="font-size:14px;font-weight:400;">Groupon utilizes various valid data transfer mechanisms for Personal Information at its sole discretion in accordance with applicable data protection and privacy laws. We will continue to monitor and assess the appropriateness of other valid data transfer mechanisms as they become available.
+  </p>
+  <p style="font-size:14px;font-weight:400;">Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for those third parties’ direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Groupon pursuant to Section 1798.83 of the California Civil Code, please contact us via the email or address stated above. Please allow 30 days for a response.
+  </p>
+  <p style="font-size:14px;font-weight:400;">If you are a California resident under the age of 18, and a registered user of any site where this policy is posted, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please send an email with a detailed description of the specific content or information to privacy@groupon.com. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
+  </p>
+</div></div>
+<div role="heading" class="article-title sub-section-title"><div style="color:rgb(51, 51, 51);font-size:1.8rem;font-weight:400;line-height:1.2;margin-top:10px;margin-bottom:5px;">
+  <a name="Item14">14. Glossary of Terms
+  </a>
+</div></div>
+<div role="heading" class="sub-section-title"><div>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">
+      <a name="Affiliates">Affiliate
+      </a>
+    </span>&nbsp;means an entity owned, directly or indirectly, by Groupon, Inc. or that is controlled by or under common control with Groupon, Inc., and also includes joint ventures entered into by Groupon, Inc. and/or its Affiliates. References in this Privacy Statement to “Groupon,” “we,” or “us” also apply to Affiliates.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">
+      <a name="Business">Business Partners
+      </a>
+    </span>&nbsp;means, collectively, third parties with whom we conduct business, such as merchants, co-marketers, distributors, resellers, and other companies or organizations with whom Groupon enters into agreements to support its business and operations.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">
+      <a name="Cookie">Cookie
+      </a>
+    </span>&nbsp;means a unique identifier, usually made up of small bits of text or code. For more information, please read our&nbsp;
+    <a href="http://www.groupon.com/cookie-policy">Cookies Policy
+    </a>.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">
+      <a name="Device">Device Data
+      </a>
+    </span>&nbsp;means information concerning a device you use to access, use, or interact with the Site, such as operating system type or mobile device model, browser type, domain, and other system settings, the language your system uses and the country and time zone of your device, geolocation, including precise geolocation, unique device identifier or other device identifier, advertising identifier, mobile phone carrier identification, and device software platform and firmware information.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">
+      <a name="Information">Non-Identifiable Information
+      </a>
+    </span>&nbsp;means information that alone cannot identify you, including data from&nbsp;
+    <a href="https://www.groupon.com/privacy#Cookie">Cookies
+    </a>,&nbsp;
+    <a href="https://www.groupon.com/privacy#Pixel">Pixel Tags and Web Beacons
+    </a>, and&nbsp;
+    <a href="https://www.groupon.com/privacy#Device">Device Data
+    </a>. Non-Identifiable Information may be derived from&nbsp;
+    <a href="https://www.groupon.com/privacy#Personal">Personal Information
+    </a>.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">
+      <a name="Communities">Online Communities
+      </a>
+    </span>&nbsp;means, collectively, our social networking pages or accounts, forums, bulletin boards, discussion groups, chat rooms or other methods of communication that may be offered on or linked through the Site.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">
+      <a name="Programs">Other Programs
+      </a>
+    </span>&nbsp;means special programs, features and functionality on our Site or other co-branded websites with&nbsp;
+    <a href="https://www.groupon.com/privacy#Business">Business Partners
+    </a>&nbsp;that we reasonably control and that have special use terms applicable to such special programs, features and functionality.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">
+      <a name="Other">Other Sources
+      </a>
+    </span>&nbsp;means sources of information that legally provide Groupon with your information, and which are outside the scope of this Privacy Statement at the time of collection.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">
+      <a name="Personal">Personal Information
+      </a>
+    </span>&nbsp;means information about you that specifically identifies you or, when combined with other information we have, can be used to identify you. This includes the following types of information:
+  </p>
+  <ul style="font-size:14px;font-weight:400;">
+    <li>
+      <p>
+        <span style="font-weight: 700;">
+          <a name="Contact">Contact Information
+          </a>
+        </span>: your name, postal addresses, email addresses, social networking website user account names, telephone numbers, or other addresses at which you are able to receive communications.
+      </p>
+      <br>
+      <br>
+    </li>
+    <li>
+      <p>
+        <span style="font-weight: 700;">
+          <a name="Relationship">Relationship Information
+          </a>
+        </span>: information you provide that enables us to determine lifestyle, interests, and activities, including location information related to your state/province, city, or neighborhood; areas of interest, the types of deals that interest you, information collected through your interactions with social networks, demographic information (e.g., birth date, age, gender); information about persons for whom you have purchased Groupon vouchers as gifts or who have bought Groupon vouchers as gifts for you; and information about friends who refer you or whom you have referred;
+      </p>
+      <br>
+      <br>
+    </li>
+    <li>
+      <p>
+        <span style="font-weight: 700;">
+          <a name="Transaction">Transaction Information
+          </a>
+        </span>: information you provide when you interact with us and the Site, such as the Groupon vouchers you are interested in, purchase and redeem; email and other communications; and how you interact with&nbsp;
+        <a href="https://www.groupon.com/privacy#Business">Business Partners
+        </a>&nbsp;and our&nbsp;
+        <a href="https://www.groupon.com/privacy#Vendors">Vendors
+        </a>; and
+      </p>
+      <br>
+      <br>
+    </li>
+    <li>
+      <p>
+        <span style="font-weight: 700;">
+          <a name="Financial">Financial Information
+          </a>
+        </span>: information collected from you as needed to process payments for Groupon vouchers or other products or services that you buy, or as provided by you to administer your participation in optional services and programs, such as your payment card number, expiration date, and card verification number.
+      </p>
+      <br>
+      <br>
+    </li>
+  </ul>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">
+      <a name="Pixel">Pixel Tags and Web Beacons
+      </a>
+    </span>&nbsp;mean tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed specific actions.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">
+      <a name="ThirdParty">Third-Party Ad-Servers
+      </a>
+    </span>&nbsp;means&nbsp;
+    <a href="https://www.groupon.com/privacy#Vendors">Vendors
+    </a>&nbsp;and other third parties that provide the technology to place ads on websites and track ad performance.
+  </p>
+  <p style="font-size:14px;font-weight:400;">
+    <span style="font-weight: 700;">
+      <a name="Vendors">Vendors
+      </a>
+    </span>&nbsp;means, collectively, third parties that perform business operations on behalf of Groupon, such as transaction processing, billing, mailing, communications services (e-mail, direct mail, etc.), marketing, data processing and analytics, servicing, collections, ad management, or information technology services.
+  </p>
+</div></div>
+      </div>
     </div>
-  </div>
-
-<div class="footer-additional">
-
-      <div class="bottom-ad visible-desktop">
-        <div id="div-gpt-ad-50423720688-0" class="dfp-ad ">
-    <script>
-      dfp_ad_set.push({
-  baseUri: "/6794/" + WP.adUnit(),
-  sizes: [[728, 91]],
-  divId: "div-gpt-ad-50423720688-0",
-  outOfPage: false,
-  isRefreshable: true,
-  targetParams: {
-    pos: "bottom",
-round: 4
-  },
-  restrictions: {
-    width: "\u003e 768",
-can_be_mobile: false
-  }
-});
-
-      
-    </script>
-  </div>
-
-    </div>
-
-
-  <div class="footer-legal centered no-margin" role="contentinfo">
-    <ul class="horizontal-list horizontal-list-pipes">
-      <li>
-        <span class="copyright">© 2016 Whitepages Inc.</span>
-      </li>
-      <li class="site-map-link">
-        <a data-gaaction="site map" data-gaevent="footer" data-galabel="click" href="/site_map" rel="nofollow" target="help">
-           Sitemap
-</a>      </li>
-    </ul>
-  </div>
+  </main>
 </div>
 
-    <script src="https://cdnwp.global.ssl.fastly.net/assets/application-421b5b0afb9dea6d3fdc733605d63953.js"></script>
-    <script src="//cdn.optimizely.com/js/3470930347.js"></script>
 
-    <script>
-(function(){
-  var config = {"site":{"domain":{"default_value":"whitepages.com","filters":[["whitepages.ca","whitepages.ca"]]},"UA":{"default_value":"UA-74657706-1"}},"page":{"section":"legal","subsection":"data_policy","type":"","serp_page_number":"-","exact_match_count":"","total_exact_match_count":"","total_fuzzy_match_count":"","total_result_count":"","spam_score":null,"query_terms":null,"phone_owner":null,"ab_test":"default","name":"legal.data_policy"},"ver":"5f6e24cccc7a7891d2c45c1dfbffa77afc39dec4","box":"7"};
-  config.session = { logged_in: false };
-  WP.analytics.google = new WP.analytics.GoogleAnalytics(config);
-
-  var globalForQuantCast = {
-    section: config.page.section,
-    subsection: config.page.subsection
-  };
-  window.WhitePagesMeta = globalForQuantCast;
-})();
-</script>
-
-      <script type="text/javascript">
-    var _qevents = _qevents || [];
-    (function(cfg) {
-      _qevents.push({labels: WP.quantcastLabel() + cfg.section + ",Page Name." + cfg.subsection, qacct: "p-13CZptiqAcX_w"});
-      async_inject('https://secure.quantserve.com/quant.js', {id: 'wp-quantcast'});
-    })((WP.analytics && WP.analytics.google && WP.analytics.google.config.page) || {});
-  </script>
-  <noscript>
-    <img src="//pixel.quantserve.com/pixel/p-13CZptiqAcX_w.gif" border="0" height="1" width="1" alt="Quantcast"/>
-  </noscript>
+          <a href="/local/grouber.html" class="ls-hide" aria-hidden="true">
+  Grouber
+</a>
 
 
-    <script src="https://cdnwp.global.ssl.fastly.net/assets/lib/adblock-e67163400cdc6621a5774fd085395a04.js"></script>
 
-    <script>
-//<![CDATA[
+      <footer class="ls-footer" id="ls-footer">
+        <div class="footer-wrapper page-container">
+          <div class="footer-payload">
+            <div id="ls-footer-sitemap" class="footer-sitemap" data-bhw="FooterSitemap">
+        <div class="ls-footer-sitemap-col footer-links">
+          <div role="heading" aria-level="3" class="footer-link-headline">Company</div>
+          <a id="ls-footer-about" href="/press/about-groupon" data-bhw="FooterLinkAbout">About Groupon</a><a id="ls-footer-jobs" href="//jobs.groupon.com/" data-bhw="FooterLinkJobs">Jobs</a><a id="ls-footer-blog" href="/blog" data-bhw="FooterLinkBlog">Blog</a><a id="ls-footer-press" href="/press" data-bhw="FooterLinkPress">Press</a><a id="ls-footer-investor_relations" href="http://investor.groupon.com/" data-bhw="FooterLinkInvestorRelations">Investor Relations</a><a id="ls-footer-management_team" href="/press/our-leaders" data-bhw="FooterLinkManagementTeam">Management Team</a><a id="ls-footer-social_innovation" href="https://community.groupon.com/" data-bhw="FooterLinkSocialInnovation">In Your Community</a>
+        </div>
+        <div class="ls-footer-sitemap-col footer-links">
+          <div role="heading" aria-level="3" class="footer-link-headline">Work with Groupon</div>
+          <a id="ls-footer-join" href="/merchant/get-started?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" data-bhw="FooterLinkJoin">Join the Groupon Marketplace</a><a id="ls-footer-deal" href="/merchant/get-started?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" data-bhw="FooterLinkDeal">Run a Groupon Deal</a><a id="ls-footer-merchants" href="/merchant?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" data-bhw="FooterLinkMerchants">Learn About Groupon Merchant</a><a id="ls-footer-affiliates" href="http://www.grouponaffiliate.com/" data-bhw="FooterLinkAffiliates">Affiliate Program</a><a id="ls-footer-vendor_code_of_conduct" href="/legal/vendor-code-of-conduct" data-bhw="FooterLinkVendorCodeOfConduct">Vendor Code of Conduct</a>
+        </div>
+        <div class="ls-footer-sitemap-col footer-links">
+          <div role="heading" aria-level="3" class="footer-link-headline">More</div>
+          <a id="ls-footer-customer_support" href="/customer_support" data-bhw="FooterLinkCustomerSupport">Customer Support</a><a id="ls-footer-promise" href="/groupon-promise" data-bhw="FooterLinkPromise">Refund Policies</a><a id="ls-footer-faq" href="/faq" data-bhw="FooterLinkFaq">FAQ</a><a id="ls-footer-coupons" href="/coupons" data-bhw="FooterLinkCoupons">Coupon Codes</a><a id="ls-footer-giftcards" href="/giftcards" data-bhw="FooterLinkGiftcards">Gift Cards</a><a id="ls-footer-giftshop" href="/occasion/gift-shop" data-bhw="FooterLinkGiftshop">Gift Shop</a><a id="ls-footer-groupon_select" href="/programs/select" data-bhw="FooterLinkGrouponSelect">Groupon Select</a><a id="ls-footer-students" href="/programs/student" data-bhw="FooterLinkStudents">Students</a><a id="ls-footer-loyalty" href="/programs/loyalty" data-bhw="FooterLinkLoyalty">Miles &amp; Points</a>
+        </div>
+        <div class="ls-footer-sitemap-col footer-links">
+          <div class="footer-country-list">
+            <label for="footer-country-selector" role="heading" aria-level="4" class="footer-link-headline">Groupon Sites</label>
+            <select id="footer-country-selector" class="footer-link-select" title="Groupon Sites" data-bhw="FooterLinkCountry" onchange="document.getElementById(this.value).click();">
+              <option value="ls-footer-us" selected="">USA</option><option value="ls-footer-gb">United Kingdom</option><option value="ls-footer-fr">France</option><option value="ls-footer-de">Deutschland</option><option value="ls-footer-it">Italia</option><option value="ls-footer-es">España</option><option value="ls-footer-pl">Polska</option><option value="ls-footer-nl">Nederland</option><option value="ls-footer-ie">Ireland</option><option value="ls-footer-ae">UAE</option><option value="ls-footer-be">België</option><option value="ls-footer-au">Australia</option><option value="ls-footer-nz">New Zealand</option><option value="ls-footer-jp">日本</option>
+            </select>
+            <div class="ax-hidden" aria-hidden="true">
+              <a href="https://www.groupon.com" id="ls-footer-us" data-bhw="FooterCountryUS">USA</a><a href="https://www.groupon.co.uk" id="ls-footer-gb" data-bhw="FooterCountryGB">United Kingdom</a><a href="https://www.groupon.fr" id="ls-footer-fr" data-bhw="FooterCountryFR">France</a><a href="https://www.groupon.de" id="ls-footer-de" data-bhw="FooterCountryDE">Deutschland</a><a href="https://www.groupon.it" id="ls-footer-it" data-bhw="FooterCountryIT">Italia</a><a href="https://www.groupon.es" id="ls-footer-es" data-bhw="FooterCountryES">España</a><a href="https://www.groupon.pl" id="ls-footer-pl" data-bhw="FooterCountryPL">Polska</a><a href="https://www.groupon.nl" id="ls-footer-nl" data-bhw="FooterCountryNL">Nederland</a><a href="https://www.groupon.ie" id="ls-footer-ie" data-bhw="FooterCountryIE">Ireland</a><a href="https://www.groupon.ae" id="ls-footer-ae" data-bhw="FooterCountryAE">UAE</a><a href="https://www.groupon.be" id="ls-footer-be" data-bhw="FooterCountryBE">België</a><a href="https://www.groupon.com.au" id="ls-footer-au" data-bhw="FooterCountryAU">Australia</a><a href="https://www.grouponnz.co.nz" id="ls-footer-nz" data-bhw="FooterCountryNZ">New Zealand</a><a href="https://www.groupon.jp" id="ls-footer-jp" data-bhw="FooterCountryJP">日本</a>
+            </div>
+          </div>
+          <div role="heading" aria-level="3" class="footer-link-headline">Follow Us</div>
+          <a id="ls-footer-facebook" target="_blank" rel="noopener" aria-label="Facebook" class="follow-us-link icon-facebook" href="https://www.facebook.com/Groupon.US" data-bhw="FooterSocialFacebook"><span class="ax-hidden">Facebook</span></a><a id="ls-footer-twitter" target="_blank" rel="noopener" aria-label="Twitter" class="follow-us-link icon-twitter" href="https://twitter.com/groupon" data-bhw="FooterSocialTwitter"><span class="ax-hidden">Twitter</span></a>
+        </div>
+      
+      </div>
+      
+            
+            <div id="ls-footer-gsm" class="footer-gsm" data-bhw="FooterGSM">
+        <div role="heading" aria-level="4">Incredible Deals on Local Experiences</div>
+        <p><a id="ls-footer-activities-link" data-bhw="FooterGSMUSLinkActivities" href="/local/things-to-do">Things to Do</a> | <a id="ls-footer-kids-link" data-bhw="FooterGSMUSLinkKids" href="/local/kids-activities">Kids Activities</a> | <a id="ls-footer-nightlife-link" data-bhw="FooterGSMUSLinkNightlife" href="/local/nightlife">Nightlife</a> |
+<a id="ls-footer-restaurants-link" data-bhw="FooterGSMUSLinkRestaurants" href="/local/restaurants">Restaurants</a> | <a id="ls-footer-spas-link" data-bhw="FooterGSMUSLinkSpas" href="/local/spa">Spas</a> | <a id="ls-footer-massages-link" data-bhw="FooterGSMUSLinkMassages" href="/local/massage">Massages</a> |
+<a id="ls-footer-hair-link" data-bhw="FooterGSMUSLinkHair" href="/local/hair-salons">Hair Salons</a> | <a id="ls-footer-trip-link" data-bhw="FooterGSMUSLinkTrip" href="/getaways">Travel</a></p>
+      </div>
+      
+            <div class="ls-grpn-guide">
+          <a class="ls-grpn-guide-logo" href="/local/city-guide/food-and-drink">
+            <svg alt="" xmlns="http://www.w3.org/2000/svg" width="125" height="20" viewBox="0 0 125 20.3" enable-background="new 0 0 125 20.3" xml:space="preserve" aria-labelledby="guide-title">
+              <title id="guide-title">Groupon</title>
+              <path d="M20 10.2c0 2.2-0.5 4.1-1.7 5.7c-1.9 2.7-5 4.4-8.3 4.4c-2.9 0-5.3-1.1-7.2-3.1C0.9 15.2 0 12.8 0 9.9 c0-2.7 1-5.1 3-7C4.9 1 7.3 0 10.1 0c4.2 0 7.8 2.6 9.4 6.7h-5.4c-1.2-1.3-2.5-1.9-4-1.9C7.2 4.8 5 7.1 5 9.9c0 3.1 2.4 5.5 5.1 5.5 c1.8 0 3.4-0.9 4.4-2.6H8.9V8.9H20C19.9 9.3 20 9.8 20 10.2L20 10.2L20 10.2z M21.2 19.9V0.3h6.5c2 0 3.7 0.1 4.9 1.1 c1.8 1.2 2.6 3 2.6 5.5c0 3.2-1.6 5.5-4.4 6.3l4.8 6.7h-5.9L26 13.6v6.3H21.2z M26.9 9.4c2.4 0 3.5-0.6 3.5-2.4c0-1.6-1-2.3-3.1-2.3 H26v4.7H26.9L26.9 9.4z M38.9 2.9C40.8 1 43.3 0.1 46 0.1c2.6 0 5.1 1 7 2.9c2 1.9 3 4.4 3 7c0 2.8-1 5.3-2.8 7.2 c-1.9 2-4.5 3-7.2 3c-2.9 0-5.3-1-7.3-3c-1.8-2-2.8-4.4-2.8-7.2C36 7.2 37 4.8 38.9 2.9L38.9 2.9L38.9 2.9z M46 15.4 c2.8 0 5.1-2.2 5.1-5.4c0-2.8-2.3-5.1-5-5.1c-2.9 0-5.2 2.3-5.2 5.1C40.9 13 43.3 15.4 46 15.4L46 15.4z M62.1 0.4v12 c0 2.2 0.7 3.3 2.3 3.3c1.7 0 2.5-1.1 2.5-3.3v-12h4.8v12.2c0 4.8-2.9 7.6-7.3 7.6c-4.4 0-7.1-2.7-7.1-7.6V0.3L62.1 0.4L62.1 0.4z M73 19.9V0.3h6.5c2 0 3.7 0.1 4.9 1.1c1.8 1.2 2.6 3 2.6 5.5c0 2.5-1.1 4.6-3.1 5.8c-1.2 0.7-2.8 0.9-4.8 0.9h-1.4v6.3H73L73 19.9z M78.8 9.4c2.4 0 3.5-0.6 3.5-2.4c0-1.6-1-2.3-3.2-2.3h-1.3v4.7H78.8L78.8 9.4z M90.7 2.9C92.5 1 95 0.1 97.8 0.1c2.6 0 5.1 1 7 2.9 c2 1.9 3 4.4 3 7c0 2.8-1 5.3-2.8 7.2c-1.9 2-4.5 3.1-7.2 3.1c-2.9 0-5.3-1-7.3-3c-1.8-2-2.8-4.4-2.8-7.3 C87.7 7.2 88.8 4.8 90.7 2.9L90.7 2.9L90.7 2.9z M97.8 15.4c2.8 0 5.1-2.2 5.1-5.4c0-2.8-2.3-5.1-5-5.1c-2.9 0-5.2 2.3-5.2 5.1 C92.6 13 95.1 15.4 97.8 15.4L97.8 15.4z M108.7 19.9V0.3h4.3l7.2 10.8V0.3h4.8v19.5h-4.2l-7.3-10.8v10.9L108.7 19.9L108.7 19.9z"></path>
+            </svg>
+            Guide
+          </a>
+        <span class="ls-grpn-guide-txt">for <a id="ls-footer-food-link" data-bhw="FooterGrouponGuideLinkFood" href="/local/city-guide/food-and-drink">Food &amp; Drink</a>, <a id="ls-footer-arts-link" data-bhw="FooterGrouponGuideLinkArts" href="/local/city-guide/arts-and-leisure">Arts &amp; Leisure</a>, and <a id="ls-footer-style-link" data-bhw="FooterGrouponGuideLinkStyle" href="/local/city-guide/style-and-beauty">Style &amp; Beauty</a></span>
+      </div>
+      
+            <div id="ls-footer-copyright" class="footer-copyright" data-bhw="FooterLegalDocs">
+        © 2019 Groupon, Inc. All Rights Reserved.
+        <span class="footer-copyright-links">
+            <a id="ls-footer-terms_of_use" href="/legal/termsofservice" data-bhw="TermsOfUse">Terms of Use</a>
+            <a id="ls-footer-privacy_policy" href="/legal/privacypolicy" data-bhw="PrivacyPolicy">Privacy Statement</a>
+            <a id="ls-footer-licenses" href="/legal/licenses" data-bhw="Licenses">Licenses</a>
+            <a id="ls-footer-accessibility" href="/legal/accessibility" data-bhw="Accessibility">Accessibility</a>
+        </span>
+      </div>
+      
+                </div>
 
-(function($) {
-  $(function() {
-    $("img").unveil();
-  });
-})(jQuery);
+          <div class="ls-col footer-widgets" data-bhw="FooterWidgets">
+          <a href="/mobile?utm_source=gp&amp;utm_medium=footer&amp;utm_campaign=mlusers" id="ls-footer-mobile_ad" class="footer-widget footer-widget-mobile" title="Groupon for mobile devices" data-bhw="FooterWidgetMobileAd">
+              <span class="footer-widget-image">
+                <img height="64" width="47" class="svg-groupon-mobile no-bg lazy-wl" data-original="https://www2.grouponcdn.com/layout/assets/footer-i18n-mobile-app-ae38c8e9ce.svg" alt="" role="presentation"> 
+              </span>
+            <span class="footer-widget-headline">Get the Groupon Mobile App <span class="icon-arrow-right-large"></span></span>
+          </a>
+          <a href="/merchant/get-started?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" id="ls-footer-groupon_works" class="footer-widget footer-widget-works" title="Groupon Merchant" data-bhw="FooterWidgetGrouponWorks">
+              <span class="footer-widget-image">
+                <img height="16" width="147" class="svg-groupon-merchant no-bg lazy-wl" data-original="https://www2.grouponcdn.com/layout/assets/footer-widget-merchant-works-white-f99cf9336f.svg" alt="Groupon Merchant" role="presentation"> 
+              </span>
+            <span class="footer-widget-headline">Grow Your Business by Working with Groupon <span class="icon-arrow-right-large"></span></span>
+          </a>
+    </div>
 
-//]]>
-</script>
-    <script type="text/javascript">
-window.WP = WP || {};
-WP.UserSession = new UserSession({
-  url: 'https://secure.whitepages.com/session'
-});
-</script>
+        </div>
+      </footer>
 
-      <script type="text/javascript">
-    $(function() {
-      var citiesPath = '/autocomplete/cities';
-      var businessPath = '/autocomplete/business';
-      var updatePrepend = function(text, removeClass, addClass) {
-        cityAutocomplete.setPrependList(text ? [text] : []);
-        if (removeClass) cityAutocomplete.removePrependClass(removeClass);
-        if (addClass) cityAutocomplete.addPrependClass(addClass);
-      }
 
-      var cityAutocomplete = new WP.Autocomplete({
-        url: citiesPath + '?query=',
-        $el: $('.city-typeahead'),
-        label: 'cities',
-      });
+  
+  
+  
+  
+      <script id="fb-config">
+        if (typeof window.fbAsyncInit === 'undefined') {
+          window.fbAsyncInit = function() {
+            FB.init({
+              appId            : '7829106395',
+              autoLogAppEvents : true,
+              xfbml            : true,
+              version          : 'v2.9'
+            });
+            if (FB && FB.AppEvents) FB.AppEvents.logPageView();
+          };
+        }
+      </script>
+  
+  <script>
+    (function () {
+      "use strict";
+      var cond_IE11 = !(
+        window.Promise &&
+        window.fetch &&
+        window.URL &&
+        typeof Object.values === 'function'
+      ) , rIC = window.requestIdleCallback
+        , promiseFinally = window.Promise && window.Promise.prototype.finally
+        , cond_safari = !(window.fetch && promiseFinally && typeof Object.entries === 'function')
+        , cond_edge = !(window.AbortController && promiseFinally)
+        , cond_ric = !(rIC && window.IntersectionObserver)
+        , cond_dom4 = !(document.head.closest && Element.prototype.replaceWith && Element.prototype.before && Element.prototype.after);
+      var fn = function() {
+        var files = [];
+        if (cond_IE11) { files.push('https://www2.grouponcdn.com/layout/assets/poly-ie11andr-8ba40bcd91.js');}
+        else {
+          if (cond_dom4) { files.push('https://www2.grouponcdn.com/layout/assets/poly-dom4-c32452e734.js');}
+          if (cond_ric) { files.push('https://www2.grouponcdn.com/layout/assets/poly-io-ric-084b1ee0be.js');}
+          if (cond_safari) {
+            files.push('https://www2.grouponcdn.com/layout/assets/poly-safari-adfcf14ad5.js');
+          } else if (cond_edge) { files.push('https://www2.grouponcdn.com/layout/assets/poly-edge-41917498ea.js');}
+        }
 
-      var businessAutocomplete = new WP.Autocomplete({
-        url: businessPath + '?query=',
-        $el: $('.business-typeahead'),
-        label: 'categories'
-      });
-    });
-  </script>
-  <script type="text/javascript">
-    $(function() {
-      function adBlockDetected() {
-        WP.analytics.google.trackEvent({
-          category: "Adblock",
-          action: "Enabled",
-          noBounce: true
-        });
-      }
-      if(typeof fuckAdBlock === 'undefined') {
-        adBlockDetected();
-      } else {
-        fuckAdBlock.onDetected(adBlockDetected);
-      }
-    });
-  </script>
-
-    <!--[if lte IE 9]>
-      <script src="https://cdnwp.global.ssl.fastly.net/assets/polyfills-c20c6baa12022b123a3d52574a031884.js"></script>
-    <![endif]-->
-    <div id="fb-root"></div>
-    
-    <script id="flexads-dfp-trigger">
-  var dfp_ad_set_ads = dfp_ad_set.getAds();
-for (var i = 0; i < dfp_ad_set_ads.length; i++) {
-  (function(ad){
-    var adslot = function(){
-      var tag = googletag.defineSlot(ad.baseUri, ad.sizes, ad.divId).addService(googletag.pubads());
-      if(ad.outOfPage){
-        var out_of_page_tag = googletag.defineOutOfPageSlot(ad.baseUri, ad.divId + '-oop').addService(googletag.pubads());
-        dfp_ad_set_slots.push(tag);
-      }
-      for (var attr in ad.targetParams) {
-        var val = ad.targetParams[attr];
-        tag.setTargeting(attr, val);
+        files.push('https://www2.grouponcdn.com/layout/assets/desktop-core-v7.0-71d6fcbf63.js');
+        files.push('https://www2.grouponcdn.com/layout/assets/optimize-suite-v2-74763af682.js');
+        files.push('https://www2.grouponcdn.com/layout/assets/desktop-preact-d5d3b60114.js');
+        
+          var gig_js = {"a11y":"https://www2.grouponcdn.com/layout/assets/gig-js-a11y-d5f83e9d6d.js","forms":"https://www2.grouponcdn.com/layout/assets/gig-js-forms-280fc9b4ff.js","helper":"https://www2.grouponcdn.com/layout/assets/gig-js-helper-0e83b2e9f8.js","modals":"https://www2.grouponcdn.com/layout/assets/gig-js-modals-87df258e3e.js","tabs":"https://www2.grouponcdn.com/layout/assets/gig-js-tabs-ca37ab56c0.js","tooltips":"https://www2.grouponcdn.com/layout/assets/gig-js-tooltips-ae578f8b3b.js","truncation":"https://www2.grouponcdn.com/layout/assets/gig-js-truncation-3e2d4bdf4f.js"};
+          "forms".split(',').forEach(function(i){
+            if (gig_js[i]) { files.push(gig_js[i]) }
+          });
+        files.push('https://www2.grouponcdn.com/content-pages/assets/main-a3ba406396.js');
+        head.js(files);
       };
-      dfp_ad_set_slots.push(tag);
-      if (ad.isRefreshable) {
-        DfpIframeCoordinator.pushRefreshableSlot(tag);
-      }
-    };
-    googletag.cmd.push(adslot);
-  })(dfp_ad_set_ads[i]);
-};
+      var s = document.createElement('script');
+      s.defer = true;
+      s.src = "https://www2.grouponcdn.com/layout/assets/head.load-6a78111f2c.js";
+      s.addEventListener('load', fn, false);
+      document.getElementsByTagName('head')[0].appendChild(s);
+    }());
+  </script>
 
-  googletag.cmd.push(function(){
-  googletag.pubads().setTargeting("qn", WPCookies.qn_ad_data());
-  googletag.pubads().setTargeting("XP", (monster.get('wp_endemic_provider') || ''));
-  googletag.pubads().setTargeting("PID", (monster.get('wp_pid') || ''));
-  googletag.pubads().setTargeting("vtw", WP.storage().getItem('visitsThisWeek'));
-  googletag.pubads().setTargeting("vlw", WP.storage().getItem('visitsLastWeek'));
-  googletag.pubads().setTargeting("stw", WP.storage().getItem('searchesThisWeek'));
-  googletag.pubads().setTargeting("slw", WP.storage().getItem('searchesLastWeek'));
-  googletag.pubads().setTargeting("phstw", WP.storage().getItem('phoneSearchesThisWeek'));
-  googletag.pubads().setTargeting("phslw", WP.storage().getItem('phoneSearchesLastWeek'));
-  googletag.pubads().setTargeting("cip", WP.cip());
-  googletag.pubads().setTargeting("eb", (monster.get('eb') || ''));
-  googletag.pubads().setTargeting("tgp", WP.personDetailsSeoTestCallback());
-  googletag.pubads().setTargeting("uc", WP.UpsellMetaData.name());
-  googletag.pubads().setTargeting("icw", WP.UpsellMetaData.infectedCoworkers());
-  googletag.pubads().setTargeting("ind", WP.UpsellMetaData.industry());
-  googletag.pubads().setTargeting("uex", WP.UpsellMetaData.exclude());
-  googletag.pubads().setTargeting("ad-stg", WP.storage().getItem('ad-stg') || '');
-});
+    <noscript>
+      <a href="http://www.boldchat.com" title="Visitor Monitoring" target="_blank"><img alt="Visitor Monitoring" src="https://vms.boldchat.com/aid//bc.vmi?wdid=" border="0" width="1" height="1" /></a>
+    </noscript>
 
-    WP.baracade.need(["amzn_ads"], function() {
-      googletag.cmd.push(function() {
-  googletag.pubads().enableSingleRequest();
-  googletag.pubads().enableAsyncRendering();
-  googletag.pubads().collapseEmptyDivs();
-  googletag.enableServices();
-});
-      for (var i = 0; i < dfp_ad_set_ads.length; i++) {
-  (function(ad){
-    var render = function() { googletag.display(ad.divId); };
-    googletag.cmd.push(render);
-    if(ad.outOfPage){
-      googletag.cmd.push(function(){ googletag.display(ad.divId + '-oop' ) });
-    }
-  })(dfp_ad_set_ads[i])
-};
-    });
-</script>
 
+  
+  <div id="subsUI">
+    
+    
+  </div>
   
 
 </body></html>
