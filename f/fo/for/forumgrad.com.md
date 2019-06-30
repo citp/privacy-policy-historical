@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forumgrad.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227200412id_/http%3A//www.forumgrad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumgrad.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215940id_/http%3A//www.forumgrad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lean more about Business News, Technology trends, Fashion Tips and all trending Topics
 
