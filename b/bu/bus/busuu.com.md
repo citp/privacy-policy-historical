@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the busuu.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219024413id_/https%3A//www.busuu.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busuu.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230218id_/https%3A//www.busuu.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - busuu
+# Privacy Policy - Busuu
 
-busuu takes your privacy very seriously. busuu is committed to safeguarding your privacy, and this privacy policy explains our data collection, use, and disclosure practices. 
+Busuu takes your privacy very seriously. Busuu is committed to safeguarding your privacy, and this privacy policy explains our data collection, use, and disclosure practices. 
 
 This policy covers:
 
@@ -10,7 +10,7 @@ This policy covers:
   * the personal data we collect
   * how and why we collect and use your personal data
   * why we process your personal data
-  * when and why we will disclose your personal data to the busuu Group or other organisations
+  * when and why we will disclose your personal data to the Busuu Group or other organisations
   * international transfers
   * the rights and choices you have when it comes to your personal data
   * why we use cookies
@@ -22,17 +22,17 @@ This policy covers:
 
 **1\. IMPORTANT INFORMATION AND WHO WE ARE**
 
-busuu provides its service (the "Service") to you subject to the Terms of Service, and the following Privacy Policy. We may update this Privacy Policy from time to time. All changes will be posted on our website (the “Site”). You can review the most current version of the Privacy Policy at any time here [www.busuu.com/privacy](https://www.busuu.com/privacy). Your continued use of the Service or the Site after any such changes have been made constitutes your acceptance of the new Privacy Policy. This website is not intended for children and we do not knowingly collect data relating to children. Words beginning with capital letters in this Privacy Policy which are not defined in this Privacy Policy are defined in the Terms of Service.
+Busuu provides its service (the "Service") to you subject to the Terms of Service, and the following Privacy Policy. We may update this Privacy Policy from time to time. All changes will be posted on our website (the “Site”). You can review the most current version of the Privacy Policy at any time here [www.busuu.com/privacy](https://www.busuu.com/privacy). Your continued use of the Service or the Site after any such changes have been made constitutes your acceptance of the new Privacy Policy. This website is not intended for children and we do not knowingly collect data relating to children. Words beginning with capital letters in this Privacy Policy which are not defined in this Privacy Policy are defined in the Terms of Service.
 
-Busuu Limited is the controller and responsible for your personal data (collectively referred to as "busuu", "we", "us" or "our" in this Privacy Policy). You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the [UK supervisory authority](https://www.ico.org.uk/) for data protection issues. We would, however, appreciate the chance to deal with your concerns before you approach the ICO, so please contact us in the first instance.
+Busuu Limited is the controller and responsible for your personal data (collectively referred to as "Busuu", "we", "us" or "our" in this Privacy Policy). You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the [UK supervisory authority](https://www.ico.org.uk/) for data protection issues. We would, however, appreciate the chance to deal with your concerns before you approach the ICO, so please contact us in the first instance.
 
 This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit. 
 
 **2\. INFORMATION WE COLLECT AND RECEIVE**
 
-When you register for a busuu account, busuu collects personal data that you submit such as your username, email address, spoken and studied languages and any other personal or preference information that you optionally enter into the Service, as well as your profile picture. 
+When you register for a Busuu account, Busuu collects personal data that you submit such as your username, email address, spoken and studied languages and any other personal or preference information that you optionally enter into the Service, as well as your profile picture. 
 
-busuu also collects and generates a number of other areas of usage information automatically which includes; services metadata, log data, device information, IP addresses, third-party data and cookie information.
+Busuu also collects and generates a number of other areas of usage information automatically which includes; services metadata, log data, device information, IP addresses, third-party data and cookie information.
 
 We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice. We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
 
@@ -42,7 +42,7 @@ There is no statutory or contractual obligation to provide this data, however, w
 
 **3\. INFORMATION USE**
 
-busuu will use your personal data in furtherance of our legitimate interests for the following general purposes: 
+Busuu will use your personal data in furtherance of our legitimate interests for the following general purposes: 
 
 (i) to provide, update, maintain and protect our services, websites, apps and business  
 (ii) as required by applicable law, legal process or regulation  
@@ -54,11 +54,11 @@ busuu will use your personal data in furtherance of our legitimate interests for
 (viii) other purposes as described to you at the point of collection  
 
 
-busuu uses such information to customise the marketing and Content you see, fulfil your requests for products and services, improve our Service to you, contact you, conduct research, and provide anonymised reporting for internal purposes and for external clients such as advertisers. If you choose to use our invitation service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend an email inviting them to visit the site. busuu may attempt to send invitations more than once. busuu stores this information to send such emails, to register a friend connection if your invitation is accepted, and to track the success of our referral programme. Your friend may unsubscribe from any communication with us within that email or contact us at [privacy@busuu.com](mailto:privacy@busuu.com) to request that we remove this information from our database.
+Busuu uses such information to customise the marketing and Content you see, fulfil your requests for products and services, improve our Service to you, contact you, conduct research, and provide anonymised reporting for internal purposes and for external clients such as advertisers. If you choose to use our invitation service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend an email inviting them to visit the site. Busuu may attempt to send invitations more than once. Busuu stores this information to send such emails, to register a friend connection if your invitation is accepted, and to track the success of our referral programme. Your friend may unsubscribe from any communication with us within that email or contact us at [privacy@busuu.com](mailto:privacy@busuu.com) to request that we remove this information from our database.
 
-Please note that if you enter payment details into the Service when purchasing a Paid Service (including any Premium membership), busuu itself does not receive or store such payment information, and as such information is received, it is stored and used by our payment service providers for the purpose of completing the purchase. 
+Please note that if you enter payment details into the Service when purchasing a Paid Service (including any Premium membership), Busuu itself does not receive or store such payment information, and as such information is received, it is stored and used by our payment service providers for the purpose of completing the purchase. 
 
-You can opt out of email communication initiated by busuu including newsletters, marketing, and progress reports when registering for the Service, after this you will need to unsubscribe from communications within the email itself. 
+You can opt out of email communication initiated by Busuu including newsletters, marketing, and progress reports when registering for the Service, after this you will need to unsubscribe from communications within the email itself. 
 
 For users registered through an organisation using an organisation email address, your email data would have been provided to us by that data controller. In this case you will have received a communication showing how to sign up. You can unsubscribe from these communications at any time. 
 
@@ -74,24 +74,24 @@ We store your personal information only on secure servers that are held in secur
 
 **5\. RETENTION**
 
-busuu will retain your personal data for as long as we need to in order to fulfil legitimate business interests, conduct audits, comply with (and demonstrate compliance with) legal obligations, resolve disputes and enforce our agreements. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. You have the right to delete your personal data by sending an email requesting so to [privacy@busuu.com](mailto:privacy@busuu.com). Please note in this case any financial information will be kept in accordance with local laws. 
+Busuu will retain your personal data for as long as we need to in order to fulfil legitimate business interests, conduct audits, comply with (and demonstrate compliance with) legal obligations, resolve disputes and enforce our agreements. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. You have the right to delete your personal data by sending an email requesting so to [privacy@busuu.com](mailto:privacy@busuu.com). Please note in this case any financial information will be kept in accordance with local laws. 
 
 **6\. COOKIES**
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive. You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. If you want to delete any cookies that are already on your computer, please refer to the instructions for your browser to locate the file or directory that stores cookies. If you reject all cookies, you may not be able to use some features of the Service.
 
-You can find out more about how we use cookies on busuu here: [www.busuu.com/cookies](https://www.busuu.com/cookies)
+You can find out more about how we use cookies on Busuu here: [www.busuu.com/cookies](https://www.busuu.com/cookies)
 
-busuu lets other entities that show advertisements or provide services on some of our web pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, and not this policy. Advertisers or other entities do not have access to busuu's cookies. 
+Busuu lets other entities that show advertisements or provide services on some of our web pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, and not this policy. Advertisers or other entities do not have access to Busuu's cookies. 
 
 **7\. DISCLOSURE OF PERSONAL INFORMATION**
 
-We display your Profile information (except for your email address and password) to people browsing for friends, and to support other Site functions. busuu does not rent, sell, or share personal information about you with third parties except to provide products or services you've requested, when we have your permission, or in the following circumstances:
+We display your Profile information (except for your email address and password) to people browsing for friends, and to support other Site functions. Busuu does not rent, sell, or share personal information about you with third parties except to provide products or services you've requested, when we have your permission, or in the following circumstances:
 
-  * where busuu is responding to a subpoena, court order, or legal process, or to establish or exercise our legal rights or to defend ourselves against legal claims;
-  * where busuu believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of busuu's Terms of Service, or as otherwise required by law;
+  * where Busuu is responding to a subpoena, court order, or legal process, or to establish or exercise our legal rights or to defend ourselves against legal claims;
+  * where Busuu believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Busuu's Terms of Service, or as otherwise required by law;
   * where you are using a Paid Service (including a Premium membership) in your capacity as a student or an employee or other third party using the Paid Service, we may in such circumstances share your personal information with your educational establishment, your employer or any third party paying for the Service on your behalf (as the case may be) to allow them to monitor your use of the Paid Service;
-  * where busuu transfers information about you if busuu is acquired by or merged with another company. If this happens, busuu will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * where Busuu transfers information about you if Busuu is acquired by or merged with another company. If this happens, Busuu will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 
 
@@ -105,7 +105,7 @@ We may also disclose your personal information to companies within our group Bus
 
 **8\. THIRD-PARTY ADVERTISING**
 
-busuu sometimes displays targeted advertisements based on personal information. Advertisers may assume that people who interact with, view, or click targeted ads meet the relevant targeting criteria (for example, men ages 18-24 from a particular geographic area). busuu does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+Busuu sometimes displays targeted advertisements based on personal information. Advertisers may assume that people who interact with, view, or click targeted ads meet the relevant targeting criteria (for example, men ages 18-24 from a particular geographic area). Busuu does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
 
 **9\. CONFIDENTIALITY AND SECURITY**
 
@@ -113,13 +113,13 @@ We shall take measures to protect personal data using reasonable and industry st
 
 Your personal data is password protected and, other as set out in this Privacy Policy, can only be seen by you and us. You agree to keep your password(s) confidential and not to disclose them to anyone else, or allow them to be disclosed.
 
-busuu limits access to personal information about you to employees who busuu reasonably believes need to come into contact with that information, to provide products or the Service to you, or in order to do their jobs.
+Busuu limits access to personal information about you to employees who Busuu reasonably believes need to come into contact with that information, to provide products or the Service to you, or in order to do their jobs.
 
-busuu has physical, electronic, and procedural safeguards that comply with regulations to protect personal information about you. However, data transmissions over the internet cannot be guaranteed to be 100% secure. Consequently, busuu cannot ensure or warrant the security of information you transmit to busuu. In particular, by accessing and using the Service, you do so at your sole risk and you are responsible for restricting access to your computer and ensuring that your computer is free from all types of malicious code, spyware, viruses, Trojans, etc. that may track any data you enter into the Service, including email address and payment related information. We are not responsible for any loss or damage arising from the user’s failure to comply with this paragraph.
+Busuu has physical, electronic, and procedural safeguards that comply with regulations to protect personal information about you. However, data transmissions over the internet cannot be guaranteed to be 100% secure. Consequently, Busuu cannot ensure or warrant the security of information you transmit to Busuu. In particular, by accessing and using the Service, you do so at your sole risk and you are responsible for restricting access to your computer and ensuring that your computer is free from all types of malicious code, spyware, viruses, Trojans, etc. that may track any data you enter into the Service, including email address and payment related information. We are not responsible for any loss or damage arising from the user’s failure to comply with this paragraph.
 
-However, when you pay for a Paid Service, busuu uses secure payment service providers to make sure that your payments are secure.
+However, when you pay for a Paid Service, Busuu uses secure payment service providers to make sure that your payments are secure.
 
-Where the Site, or any other part of the Service, links to other websites, such other websites do not operate under this Privacy Policy. busuu recommends that you examine the privacy statements posted on such other websites to understand their procedures for collecting, using, and disclosing personal data. 
+Where the Site, or any other part of the Service, links to other websites, such other websites do not operate under this Privacy Policy. Busuu recommends that you examine the privacy statements posted on such other websites to understand their procedures for collecting, using, and disclosing personal data. 
 
 **11\. YOUR LEGAL RIGHTS**
 
@@ -138,8 +138,8 @@ If you wish to exercise any of the rights set out above, please contact us as de
 
 **12\. CONTACTING BUSUU**
 
-busuu is the trading name of Busuu Limited with registered address at 50 Finsbury Square, London, EC2A 1HD.
+Busuu is the trading name of Busuu Limited with registered address at 50 Finsbury Square, London, EC2A 1HD.
 
-You may obtain a copy of the personal data held about you that you provide through the Site or otherwise request that busuu updates, makes changes or deletes personal information by sending an email to [privacy@busuu.com](mailto:privacy@busuu.com). If you have any questions or suggestions regarding our Privacy Policy, you can contact busuu by email at [privacy@busuu.com](mailto:privacy@busuu.com). 
+You may obtain a copy of the personal data held about you that you provide through the Site or otherwise request that Busuu updates, makes changes or deletes personal information by sending an email to [privacy@busuu.com](mailto:privacy@busuu.com). If you have any questions or suggestions regarding our Privacy Policy, you can contact Busuu by email at [privacy@busuu.com](mailto:privacy@busuu.com). 
 
 Last updated: October 2018
