@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oup.com privacy policy that was archived on 2018-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180512041745id_/http%3A//global.oup.com/privacy%3Fcc%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oup.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630214539id_/http%3A//global.oup.com/privacy%3Fcc%3Dus) for the most accurate reproduction.*
 
 # Oxford University Press - Privacy Policy
 
