@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goal.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231222847id_/http%3A//www.goal.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goal.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630205312id_/https%3A//www.goal.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Perform Media - Privacy Notice | Goal.com
 
@@ -43,21 +43,23 @@ We use the User Information for three main purposes: (i) to operate and improve 
 
 More specifically, we will use the User Information to do one or more of the following things:
 
-(a) administer our platforms;  
-(b) provide the Service requested by the user;  
-(c) improving the browsing experience by personalizing the Service to the user;  
-(d) recommend goods, services or promotions which may be of interest to the user or contact users in order to conduct market research (with the consent of the user, where necessary). For these purposes, we will create a profile about your interests and preferences which will enable us to increase our advertising and communication relevance;  
-(e) prevent, detect and investigate potentially prohibited or illegal activities, including fraud, cheating, and money laundering  and enforce our terms;  
-(f) to notify users about changes to our Service;  
-(g) send out email alerts, text messages notifications or device notifications in relation to our Service;  
-(h) send users prizes won via the platforms, and supply services purchased via our platforms;  
-(i) send notices and invoices to users, and collect payments from them;  
-(j) provide third parties such as our third-party digital publishers who deploy ePlayer with statistical and other information about our users as required to operate the platforms or Services;  
-(k) deal with enquiries and complaints;  
-(l) provide our commercial partners with information about users’ use of co-branded services, including historical use data;  
-(m) comply with any legal or regulatory requirements and otherwise to any respond to any relevant regulator or competent authority as required by law;  
-(n) understand user trends and patterns; and  
-(o) develop aggregate analysis in respect of our users and business intelligence that enable us to operate, protect, make informed decisions and report on the performance of our business.
+  1. administer our platforms;
+  2. provide the Service requested by the user;
+  3. improving the browsing experience by personalizing the Service to the user;
+  4. recommend goods, services or promotions which may be of interest to the user or contact users in order to conduct market research (with the consent of the user, where necessary). For these purposes, we will create a profile about your interests and preferences which will enable us to increase our advertising and communication relevance;
+  5. prevent, detect and investigate potentially prohibited or illegal activities, including fraud, cheating, and money laundering  and enforce our terms;
+  6. to notify users about changes to our Service;
+  7. send out email alerts, text messages notifications or device notifications in relation to our Service;
+  8. send users prizes won via the platforms, and supply services purchased via our platforms;
+  9. send notices and invoices to users, and collect payments from them;
+  10. provide third parties such as our third-party digital publishers who deploy ePlayer with statistical and other information about our users as required to operate the platforms or Services;
+  11. deal with enquiries and complaints;
+  12. provide our commercial partners with information about users’ use of co-branded services, including historical use data;
+  13. comply with any legal or regulatory requirements and otherwise to any respond to any relevant regulator or competent authority as required by law;
+  14. understand user trends and patterns; and
+  15. develop aggregate analysis in respect of our users and business intelligence that enable us to operate, protect, make informed decisions and report on the performance of our business.
+
+
 
 The digital sports media platforms we operate are designed to attract as many users as possible.  In our case, our users are typically sports fans or interested in sports news and other sports-related content.  The creation of this content, and the work that goes into ensuring that the platforms continue to be class-leading digital sports destinations, are funded by advertising revenues which we receive as a result of showing users advertising or other sponsored or branded content on the platforms.  We have a legitimate interest in ensuring that we deliver this advertising in a responsible way, and in allowing us to deliver it to the users most likely to be interested in it, and in doing so we employ User Information, such as the user's location, how the user engages with the platforms and the content that the user views.
 
@@ -80,6 +82,8 @@ On this platform, we use the following types of cookies:
   * **Strictly necessary cookies** \- These cookies are essential to enable the user to navigate around the platform securely and to provide the user with Services they have specifically requested.
   * **Functionality cookies** \- These cookies enhance the functionality of the platforms by storing user preferences. For instance, they can remember your name and location, if you provide this information and the types of content you are interested in.
   * **Performance cookies** \- These cookies improve the performance of the platforms. For instance, they help pages load quicker.
+
+
   * **Analytics cookies** \- We may use third party analytics services such as Google Analytics and others. Your IP address and other information will be collected by automated means to evaluate your use of the website, compile reports on website activity, identify user patterns and provide related services. For more information about how Google Analytics uses your information please click [here](https://support.google.com/analytics/answer/6004245?hl=en&ref_topic=2919631). In addition, authentication and tracking logs will be used to compile user statistics.
   * **Targeting/advertising** – These cookies help us serving of relevant advertisements and implement frequency capping procedures.
 
@@ -114,8 +118,6 @@ If you would like us to stop sending you marketing communications you may use th
 
 If you, or another user of your device, wish to withdraw your cookies consent at any time, you have the ability to accept or decline cookies by modifying your browser setting. You may also go to www.allaboutcookies.org or www.youronlinechoices.eu if you are in Europe, or to www.aboutads.info/choices if you are anywhere else for instructions on how to disable cookies. You may opt-out from Google Analytics [here](https://tools.google.com/dlpage/gaoptout/). In some instances, when you opt-out, a new cookie (Opt-Out-Cookie) is placed in your web browser. This tells the third party provider to cease data collection from your browser and prevents advertisements from being delivered to you.
 
-Users in the EU can adjust their third-party cookie consent settings here.
-
 **7\. Security**
 
 We understand that the security of your User Information is important to you.  When handling User Information, security is paramount and we seek to ensure that User Information is protected through appropriate technical and organisational measures.  
@@ -140,11 +142,11 @@ Questions, comments and requests regarding this Privacy Notice are welcomed and 
 
 **11\. Changes**
 
-We reserve the right to change the practices described in this Privacy Notice at any time by posting an updated Privacy Notice.  Please check here periodically.  If we amend this notice, your continued use of our platforms will amount to your acknowledgement of the amended notice.
+We reserve the right to change the practices described in this Privacy Notice at any time by posting an updated Privacy Notice.  Please check here periodically.  If we amend this notice, we will notify you of such amendments by means of an announcement posted on our websites and/or send a copy of the updated Privacy Notice to the e-mail address that you have provided to us. Your continued use of our platforms will amount to your acknowledgement of the amended notice.
 
-**ANNEX TO PRIVACY NOTICE - INFORMATION FOR EEA, SWISS AND UK INDIVIDUALS**
+**ANNEX TO PRIVACY NOTICE - INFORMATION FOR EEA, SWISS, UK AND PHILIPPINE INDIVIDUALS**
 
-In order to comply with data privacy regulations in the EEA, Switzerland and the UK, Perform Media provides additional information to its EEA, Switzerland and UK based users.
+In order to comply with data privacy regulations in the EEA, Switzerland the UK, and the Philippines, Perform Media provides additional information to its EEA, Switzerland, UK and Philippine based users.
 
 **What is personal data?**
 
@@ -179,10 +181,10 @@ Perform Media keeps your data for only as long as required to provide you with t
 
 **Your rights**
 
-Data subjects may ask us for a copy of their information, to correct it, erase it or to transfer it to other organisations at their request. Data subjects also have rights to object to some processing including profiling and, where we have asked for their consent to process the data subject’s data, to withdraw this consent. In particular, data subjects have the right to object to direct marketing at any time. Where a data subject withdraws their consent, this will not affect the legitimacy of the processing conducted prior to your request.  Where we process data because we have a legitimate interest in doing so (as explained above), the data subject has a right to object to this. Where we make a decision based solely on automated processing which significantly affects the data subject, he or she may have the right to contest the decision, express his or her point of view and obtain human intervention.
+Data subjects may ask us for a copy of their information, to correct it, erase it or to transfer it to other organisations at their request. Data subjects also have rights to object to some processing including profiling and, where we have asked for their consent to process the data subject’s data, to withdraw this consent. In particular, data subjects have the right to object to direct marketing at any time. Where a data subject withdraws their consent, this will not affect the legitimacy of the processing conducted prior to your request.  Where we process data because we have a legitimate interest in doing so (as explained above), the data subject has a right to object to this. Where we make a decision based solely on automated processing which significantly affects the data subject, he or she may have the right to contest the decision, express his or her point of view and obtain human intervention. Data subjects also have the right to lodge a complaint with the applicable data protection regulator.
 
 These rights may be limited in some situations – for example, where we can demonstrate that we have a legal requirement to process your data.
 
 Please use the contact information set out in our Contact section above. We will aim to acknowledge your enquiries within 72 hours and respond within one month, unless otherwise required by law.
 
-We hope that we can satisfy queries you may have about the way we process your data. However, if you have unresolved concerns you also have the right to complain to your local data protection authority. 
+We hope that we can satisfy queries you may have about the way we process your data. However, if you have unresolved concerns you also have the right to complain to your local data protection authority. 
