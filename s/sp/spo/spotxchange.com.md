@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotxchange.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230095001id_/https%3A//www.spotx.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotxchange.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630021128id_/https%3A//www.spotx.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SpotX
 
@@ -296,16 +296,19 @@ The IP Address is cross checked with databases to determine Geographic Location 
 
   1. In order to prevent over exposure of a particular campaign to the Data Subject, SpotX and the respective DSP perform frequency capping. The cookie_id is technically required for this purpose.
   2. Allows for matching of the cookie_id to enable the Sub-processors’ purposes of processing, including and not limited to Frequency capping.
+  3. To enable audience-based targeting, including activation of Publisher and Advertiser first-party data and DMP third-party data “reselling.” Advertiser first-party data is owned by the advertiser and may be executed under advertiser instructions (with permission of Publisher)
 
 | The purpose of the Device ID is: 
 
-In order to prevent over exposure of a particular campaign to the Data Subject, SpotX and the respective DSP perform frequency capping. The device id is technically required for this purpose, in case of cookieless environment.
+  1. In order to prevent over exposure of a particular campaign to the Data Subject, SpotX and the respective DSP perform frequency capping. The device id is technically required for this purpose, in case of cookieless environment.
+  2. To enable audience-based targeting, including activation of Publisher and Advertiser first-party data and DMP third-party data “reselling.” Advertiser first-party data is owned by the advertiser and may be executed under advertiser instructions (with permission of Publisher)
 
 | The purpose of the IP Address is: 
 
   1. In order to delivery a campaign coming from the relevant country and in the relevant language to the Data Subject, SpotX uses the IP Address to determine the Data Subjects Geographic location.
   2. In order to protect the advertisers for campaign delivery on ‘non human’ traffic, SpotX uses the IP Address to perform fraud detection and prevention.
   3. SpotX uses the IP Address periodically to conduct technical troubleshooting
+  4. To enable audience-based targeting, including activation of Publisher and Advertiser first-party data and DMP third-party data “reselling.” Advertiser first-party data is owned by the advertiser and may be executed under advertiser instructions (with permission of Publisher)
 
   
 **Legal Basis – Art 6 of GDPR** | The cookie_id can be legitimately processed by:  
@@ -365,6 +368,7 @@ iotec
 LoopMe  
 MaxPoint  
 Mobpro  
+OpenX  
 Project Summer  
 PulsePoint  
 Simpli.fi
@@ -421,7 +425,6 @@ Adform
 ActiveAgent  
 Conversant DSP  
 The Trade Desk  
-OpenX  
 DBM  
 Amobee (f.k.a. Turn)  
 RhythmOne/Blinkx  
