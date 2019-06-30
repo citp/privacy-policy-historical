@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ziprecruiter.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226081129id_/https%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprecruiter.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215126id_/https%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ZipRecruiter
 
-_**Effective Date: May 25, 2018**_
+_**Effective Date: June 21, 2019**_
 
 Your privacy is important to us and maintaining your trust is our priority.
 
@@ -10,7 +10,7 @@ ZipRecruiter, Inc. (" _ZipRecruiter_ ," " _we_ ," or " _us_ "), respects your pr
 
 This Privacy Policy describes the types of information we may collect from you or that you may provide when you visit one of the websites listed below, and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-The websites covered by this Privacy Policy are: [www.ziprecruiter.co.uk](https://www.ziprecruiter.co.uk/), [www.ziprecruiter.com](https://www.ziprecruiter.com/), [www.zipalerts.com](https://www.zipalerts.com/) and our Mobile Applications (collectively, the " _Website_ ").
+The websites covered by this Privacy Policy are: [www.ziprecruiter.co.uk](https://www.ziprecruiter.co.uk/), [www.ziprecruiter.com](https://www.ziprecruiter.com/), [www.ziprecruiter.de](https://www.ziprecruiter.de/), [www.zipalerts.com](https://www.zipalerts.com/) and our Mobile Applications (collectively, the " _Website_ ").
 
 This Privacy Policy applies to data we collect:
 
@@ -25,6 +25,8 @@ You may have different privacy rights under applicable laws depending on the cou
 
 EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
+We are committed to upholding the Privacy Shield Principles
+
 ZipRecruiter participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. ZipRecruiter is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce's Privacy Shield List. <https://www.privacyshield.gov/list>.
 
 ZipRecruiter is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. ZipRecruiter complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
@@ -37,7 +39,7 @@ Under certain conditions, more fully described on the [Privacy Shield website](
 
 Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms of Use](https://web.archive.org/terms) or in any other contractual document between you and us.
 
-This Privacy Policy is provided in a layered format so you can click through to the specific areas set out below. Alternatively, you can download a pdf version of the policy [here](https://static.ziprecruiter.com/pdf/ziprecruiter_privacy_policy_20180525_2.pdf).
+This Privacy Policy is provided in a layered format so you can click through to the specific areas set out below. Alternatively, you can download a pdf version of the policy [here](https://static.ziprecruiter.com/pdf/ziprecruiter_privacy_policy_20190621.pdf).
 
 ### Click on the links below to jump to each section:
 
@@ -56,17 +58,31 @@ This Privacy Policy is provided in a layered format so you can click through to 
   13. **California Privacy Rights**
   14. **PUBLIC FORUMS**
   15. **INVITATION SERVICE**
-  16. **How to Complain & Enquiries**
+  16. **Questions or Complaints**
   17. **Marketing**
   18. **Changes to This Privacy Policy**
   19. **Minors & Children**
-  20. **How to Contact Us**
+  20. **Mobile App Users in the United Kingdom**
+  21. **How to Contact Us**
 
 
 
 ### 1) WHO WE ARE top
 
-The Website is owned and operated by ZipRecruiter, Inc., a Delaware corporation (“ _ZipRecruiter_ ”), which provides an online job board that connects employers to job seekers. 
+The Website is owned and operated by ZipRecruiter, Inc. (“ _ZipRecruiter_ ”), which provides an online job board that connects employers to job seekers. 
+
+ZipRecruiter Inc.  
+604 Arizona Avenue, Santa Monica, California 90401, USA  
+Delaware corporation (File Number 4829724) 
+
+Pursuant to Article 27 of Europe’s General Data Protection Regulation (GDPR), we have appointed a representative in the UK to act as our GDPR representative in the EU where required (“GDPR Representative”). You can contact our GDPR Representative by sending an email to [art27rep@ziprecruiter.com](mailto:art27rep@ziprecruiter.com), or by writing to our GDPR Representative at:
+
+ZipRecruiter UK Ltd.  
+c/or Fieldfisher LLP  
+Registered Office: Riverbank House, 2 Swan Lane, London, EC4R 3TT, UK  
+ATTN: Privacy Department 
+
+For more information on the transfer of personal data outside the European Economic Area (EEA), please see Section 7 below.
 
 ### 2) KEY TERMS top
 
@@ -87,7 +103,7 @@ As permitted by applicable law in the country from which you access our Website 
 
   * **“ _Identity Data_ ”** such as first name, maiden name, last name, resume/CV, Social Media profile, username or similar identifier.
   * **“ _Contact Data_ ”** such as billing addresses, email addresses and telephone numbers.
-  * **“ _Financial Data_ ”** such as payment card details. However, please note that payment methods (e.g., credit card number and/or Paypal and/or bank account details) are not collected by us directly, but by secure payment service providers.
+  * **“ _Financial Data_ ”** such as payment card details. However, please note that payment methods (e.g., credit card number and/or PayPal and/or bank account details) are not collected by us directly, but by secure payment service providers.
   * **“ _Transaction Data_ ”** such as details about payments to and from you, and details regarding the services that you have subscribed to in relation to this Website.
   * **“ _Technical Data_ ”** such as Device IDs, your login data, access dates and times, browser type and version, device information, cookie data, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Website.
   * **“ _Profile Data_ ”** such as your username and password, orders made by you, preferences, user-generated content, job searches, candidate searches, job applications, feedback and survey responses.
@@ -102,7 +118,7 @@ We also collect, use and share **Aggregated Data** such as statistical or demogr
 
 ##### _If You Fail to Provide Personal Data Where Required to Provide Services to You_
 
-Where we need to collect Personal Data by law, or under the terms of a contract we have with you, or a prospective contract, and you fail to provide that Personal Data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with our services). In this case, we may have to cancel the service you have with us (or requested from us), and you accept that as a condition of service.
+Where we need to collect Personal Data by law, or under the terms of a contract we have with you, or a prospective contract, and you fail to provide that Personal Data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with our services). If so, we may have to cancel the service you have with us (or have requested from us), and you accept that as a condition of service.
 
 ##### _Data That You Should Not Provide to Us_
 
@@ -110,9 +126,9 @@ We do not require any **Special Categories of Personal Data** about you. Accordi
 
 ##### _ZipRecruiter as a Data Processor_
 
-ZipRecruiter acknowledges that you have the right to access your personal information. With respect to Personal Information provided by a client of ZipRecruiter to ZipRecruiter, we collect such information under the direction of that client and have no direct relationship with the individuals whose Personal Information we process. If you are a customer of such a ZipRecruiter client and would no longer like to be contacted by such client, please contact the client directly. If you seek access or want to correct, amend, or delete inaccurate data, you must direct to request to that ZipRecruiter client (the data controller). If requested to remove data, we will respond within a reasonable timeframe. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by our service agreements with our Clients. 
+ZipRecruiter acknowledges that you have the right to access your personal information. With respect to Personal Information provided by a client of ZipRecruiter to ZipRecruiter, we collect such information under the direction of that client and have no direct relationship with the individuals whose Personal Information we process. If you are a customer of such a ZipRecruiter client and would no longer like to be serviced by such client, please contact the client directly. If you seek access or want to correct, amend, or delete inaccurate data, you must direct such request to that client (the data controller). If requested to remove data, we will respond within a reasonable timeframe. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by our service agreements with our clients.
 
-We will retain Personal Information that we process on behalf of our clients for as long as needed to provide services to our client. ZipRecruiter will retain this personal information as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and in accordance with our internal record keeping policies.
+We will retain Personal Data that we process on behalf of our clients for as long as needed to provide services to our client. ZipRecruiter will retain this Personal Data as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and in accordance with our internal record keeping policies.
 
 ### 4) HOW DATA IS COLLECTED top
 
@@ -129,7 +145,7 @@ You may give us your identity, contact, billing and other information by filling
   * submit your CV/resume to our resume database
   * give us some feedback
   * apply to a job posted on our Website
-  * authorize ZipRecruiter to connect your account to the account of a "Connected Site" (e.g., LinkedIn, Monster, Facebook or Twitter), we may be able to access information you have provided to the Connected Site, such as content information, timeline feeds, contact and follow lists, network statistics and updates regarding your Connected Site account
+  * authorize ZipRecruiter to connect your account to the account of a **"Connected Site"** (e.g., LinkedIn, Monster, Facebook or Twitter), we may be able to access information you have provided to the Connected Site, such as content information, timeline feeds, contact and follow lists, network statistics and updates regarding your Connected Site account
 
 
 
@@ -145,16 +161,23 @@ Where permitted by applicable law, we may use your Non-Personal Data for any pur
 
 ##### _Personal Data_
 
-We will only use your Personal Data where permitted by law.
+We will only use your Personal Data where permitted by law. Most commonly, we will use your personal data in the following circumstances:
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interest
+  * Where we need to comply with a legal obligation
+  * Where you have given us your consent
+
+
 
 ##### _Purposes for Which We Use Your Personal Data_
 
 In the table below, we have described (i) in what context your personal data was collected, i.e., what activity you were involved in when we collected or used your personal data; (ii) the types of personal data that we hold about you; (iii) how and why we use your personal data; and (iv) what our legal basis is for using your personal data. We will amend the table as required. We have also identified what our legitimate interests are where appropriate. We have also provided you with an explanation of some of the terms we use in this table:
 
-  1. **‘Legitimate Interest’** means our interest in conducting and managing our business, providing you with our Services, improving our Website, products and services, better engaging with you, and detecting and preventing fraud. 
+  1. **‘Legitimate Interest’** means our interest in conducting and managing our business, to enable us to give you the best experience when using the Website, products, and services. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
   2. **‘Performance of Contract’** means processing your Personal Data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
   3. **‘Comply with a legal or regulatory obligation’** means processing your Personal Data where it is necessary for compliance with a legal or regulatory obligation to which we are subject.
-  4. **‘Consent’** means that you consent to our use of your personal data for one or more specific purposes
+  4. **‘Consent’** means that you consent to our use of your personal data for one or more specific purposes. Where we rely on your consent to use your personal data, you have the right to withdraw that consent at any time. You can do this by contacting us at [dsars@ziprecruiter.com](mailto:dsars@ziprecruiter.com). However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
 CONTEXT IN WHICH YOUR PERSONAL DATA IS COLLECTED | WHAT PERSONAL DATA WE MAY HOLD ABOUT YOU | HOW WE MAY USE YOUR PERSONAL DATA | OUR LEGAL BASIS FOR PROCESSING YOUR PERSONAL DATA  
 ---|---|---|---  
@@ -178,7 +201,7 @@ CONTEXT IN WHICH YOUR PERSONAL DATA IS COLLECTED | WHAT PERSONAL DATA WE MAY HOL
   * To respond to your questions
   * To send you email job alerts if you registered to receive job alerts
   * To send you marketing communications (where you have asked us to) which may be tailored to your “profile” (i.e. based on the personal data we know about you and your preferences)
-  * To manage payments, fees and charges. Please note that payment methods (e.g., credit card number and/or Paypal and/or bank account details) are not collected by us directly, but by secure payment service providers
+  * To manage payments, fees and charges. Please note that payment methods (e.g., credit card number and/or PayPal and/or bank account details) are not collected by us directly, but by secure payment service providers
   * To collect monies owed to us
   * To run analytics or collect statistics
   * To manage any surveys, promotions or competitions you entered
@@ -226,11 +249,11 @@ CONTEXT IN WHICH YOUR PERSONAL DATA IS COLLECTED | WHAT PERSONAL DATA WE MAY HOL
 | 
 
   * To process your order for a subscription or other products and services
-  * To manage payment. Please note that your payment information (credit card number/Paypal/bank account details) are not collected by us directly, but by secure payment service providers
+  * To manage payment. Please note that your payment information (credit card number/PayPal/bank account details) are not collected by us directly, but by secure payment service providers
   * To communicate with you regarding your subscription 
   * To secure your transaction against fraud. We may use a third-party provider’s solution to detect fraud and make sure that payment is completed
-  * T update your transaction history in your account profile
-  * To perform invoicing, collections, or manage payment disputes or issues with the services
+  * To update your transaction history in your account profile
+  * To perform invoicing, debt, collections, or manage payment disputes or issues with the services
   * To run analytics or collect statistics.
 
 | 
@@ -381,6 +404,8 @@ Where your personal data is collected when you ask questions relating to our ser
   
 ### 6) WHO WE SHARE YOUR DATA WITH top
 
+We require all third-parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your Personal Data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
 **_Personal Data_**
 
 We may share Personal Data with the following parties:
@@ -394,17 +419,16 @@ We may share Personal Data with the following parties:
 **_External Third-Parties_**
 
   * Service providers that we use to support our business and help provide our services to you, including, but not limited to, third-parties that host our Website, assist us to verify your identity, perform website and platform maintenance, risk assessments, and security, perform data and web analytics, provide databases, IT services, customer service, payment platforms and credit card processing, communication services, and email services
-  * We require all third-parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your Personal Data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions
   * Professional advisers such as lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance, financial, auditing, and accounting services to us so we can operate our business
   * Taxing authorities, such as the Internal Revenue Service and other authorities acting as processors based in the United States, the United Kingdom and other applicable countries, who require reporting of processing activities in certain circumstances
-  * Fraud prevention and identity verification services where we believe that disclosure is necessary or appropriate to protect the rights, property, or safety of ZipRecruiter, our customers or others. This includes exchanging information with third-parties for the purposes of fraud detection and prevention, and credit risk reduction
+  * Fraud prevention and identity verification services where we believe that disclosure is necessary or appropriate to protect the rights, property, or safety of ZipRecruiter, our customers or others. This includes exchanging information with third-parties for the purposes of fraud detection and prevention and credit risk reduction
   * In connection with or during negotiations of any proposed or actual financing, merger, purchase, sale, sale or transfer of some or all of our assets or stock, joint venture, or any other type of financing, acquisition or business combination of our company(ies), or all or any portion of our assets, or transfer of all or a portion of our business to another company, including without limitation in the event of a  divestiture, restructuring, reorganization, dissolution or other event, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding.  In the event of a merger, divestiture, restructuring, reorganization, or other sale or transfer of some or all of our assets or stock, Personal Data that we hold about our clients and users of our services will be one of the assets that will be transferred.  If a change happens to our business, the new owners may use your personal data in the same way as set out in this Privacy Policy
   * Third-parties where you have expressly consented to the disclosure of your Personal Data
   * Law enforcement agencies, courts, supervisory authorities, regulatory bodies and certain other third-parties, to the extent that we are permitted or required to do so by law, or in order to comply with our legal and regulatory obligations, or in the interests of national security, or to respond to verified requests relating to a criminal investigation or alleged or suspected illegal activity
-  * To enforce our [Terms of Use](https://www.ziprecruiter.com/terms) and other agreements with you, to respond to, and defend ourselves against, claims asserted against us, to protect the rights, property, or safety of ZipRecruiter, our services, customers or others, or to investigate, prevent, or take action regarding suspected or actual illegal activities
-  * With prospective employers if you respond to a job advertisement or have opted-in to our Resume Database.  _Note:_  to the extent that you have an account with ZipRecruiter, please ensure that the resume associated with your account is up-to-date so when you apply for a job on a ZipRecruiter website, the employer receives your most recent resume. You will have an account with ZipRecruiter if you opened an account yourself, signed up for job alerts, submitted your resume to the resume database, and/or applied for a job on the ZipRecruiter website. You can delete and upload new resumes by going to the ‘Profile’ settings in your account
+  * To enforce our [Terms of Use](https://www.ziprecruiter.com/terms) and other agreements with you, to respond to, and defend ourselves against, claims asserted against us, to protect the rights, property, or safety of ZipRecruiter, our services, customers or others, or to investigate, prevent, or take action regarding suspected or actual illegal activities or for debt collection
+  * If you are a job seeker, we will share your personal data with prospective employers if you respond to a job advertisement or have opted-in to our Resume Database.  _Note:_  to the extent that you have an account with ZipRecruiter, please ensure that the resume associated with your account is up-to-date so when you apply for a job on a ZipRecruiter website, the employer receives your most recent resume. You will have an account with ZipRecruiter if you opened an account yourself, signed up for job alerts, submitted your resume to the resume database, and/or applied for a job on the ZipRecruiter website. You can delete and upload new resumes by going to the ‘Profile’ settings in your account.
+  * You can opt-out of your information being available in our Resume Database at any time by updating this preference on the My Profile tab of your Job Seeker account
   * Upon your authorization, the Services may also post information directly to the timeline of your Connected Site Account
-  * With prospective employers or recruiters if you add your resume to the Resume Database. Users of the Services may also be able to view a free preview of information in the Resume Database that contains certain job/education history and other information. You can opt-out of your information being available in our Resume Database at any time by updating this preference on the My Profile tab of your Job Seeker account.
   * With prospective employers and recruiters (and/or with their external Applicant Tracking System or similar external system used by such companies to manage responses to their job postings), if you respond to a job posting
   * From time to time, we may run contests, special offers, or other events or activities (" _Events_ ") on our Services together with a third-party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events
   * For any other purpose disclosed by us when you provide the information or with your consent
@@ -417,7 +441,7 @@ Where permitted by applicable law, we may share your Non-Personal Data for any p
 
 ### 7) WHERE YOUR DATA IS TRANSFERRED top
 
-We transfer Non-Personal Data in accordance with applicable laws. We share your Personal Data within the ZipRecruiter Group as permitted by applicable law. This means that the Personal Data that we collect from you may be transferred to, accessed in, and stored at, a destination outside the European Economic Area. In such event, we ensure your Personal Data is protected by requiring companies within the ZipRecruiter Group to follow the same rules when processing your Personal Data. These rules are called "binding corporate rules". Many of our external third-parties are based outside the EEA so their processing of your personal data will involve a transfer of data outside the EEA.
+ZipRecruiter Inc. is headquartered in the United States of America (USA). The information that you provide or that we collect as a result of your interaction with the Website and/or your use of our services on the Website is transferred to the USA and/or to another country where we have a subsidiary or where we have engaged service providers. Some countries that are not located within the EU may be recognized by the European Commission as providing an adequate level of data protection. For transfers from the EU to countries not considered as adequate by the European Commission, we have put in place measures, including by ensuring that the recipient is bound by EU Standard Contractual Clauses, to protect your Personal Data. When we transfer Personal Data from the EU or Switzerland to the USA, we also rely on the EU-U.S. or Swiss-U.S. Privacy Shield Frameworks (“Privacy Shield”), and in making such transfers, we adhere to the Privacy Shield Principles, as described in our Privacy Shield certification, which you can find at [https://www.privacyshield.gov/participant?id=a2zt0000000TNnuAAG&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TNnuAAG&status=Active)
 
 ### 8) HOW LONG YOUR DATA WILL BE KEPT top
 
@@ -439,9 +463,11 @@ Right to **object to processing** | You have the right to object to the processi
 Right to **withdraw consent at any time** | You have the right to withdraw your consent at any time where we are relying on consent to process your Personal Data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.  
 Right **not to be subject to a decision based solely on automated decision-making** | The right not to be subject to a decision based solely on automated processing (including profiling) that produces legal effects concerning you or similarly significantly affects you. However, your right does not apply if: (i) you gave us your explicit consent to use your personal data to make our decision; (ii) we are allowed by law to make our decision; or (iii) our automated decision was necessary to enable us to enter into a contract with you.  
   
+California residents may have additional personal information rights and choices. Please see California Privacy Rights for more information.
+
 **_Method for Requesting Information Pursuant to Your Rights_**
 
-Upon request, ZipRecruiter will provide you with information about whether we hold any of your personal information. If you would like to exercise any of the data subject access rights in the table above (each, an “ _Access Request_ ”) please send an email to [dsars@ziprecruiter.com](https://web.archive.org/web/20181226081129id_/https%3A//www.ziprecruiter.com/dsars@ziprecruiter.com), and we will send you a Data Subject Access Request Form. We will respond to your request within a reasonable timeframe.
+Upon request, ZipRecruiter will provide you with information about whether we hold any of your personal information. If you would like to exercise any of the data subject access rights in the table above (each, an “ _Access Request_ ”) please send an email to [dsars@ziprecruiter.com](https://web.archive.org/web/20190630215126id_/https%3A//www.ziprecruiter.com/dsars@ziprecruiter.com), and we will send you a Data Subject Access Request Form. We will respond to your request within a reasonable timeframe.
 
 **_No Fee Usually Required_**
 
@@ -449,7 +475,11 @@ You will not usually be required to pay a fee to access your Personal Data (or t
 
 **_What We May Need from You_**
 
-Once we receive your Access Request, we may need to request specific information from you to help us confirm your identity and ensure your right to access your Personal Data (or to exercise any of your other rights).  This is a security measure to ensure that Personal Data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+Once we receive your Access Request, we may need to request specific information from you to help us confirm your identity and ensure your right to access your Personal Data (or to exercise any of your other rights). This is a security measure to ensure that Personal Data is not disclosed to any person who has no right to receive it.
+
+If we are not clear as to what you are requesting, we may also need to contact you for clarification so we can more fully respond to your request.
+
+If we cannot locate any records about you, we may also ask you for additional information to assist us in locating records, if they exist.
 
 **_Time Limit to Respond_**
 
@@ -461,11 +491,11 @@ ZipRecruiter and third parties may use cookies or similar tracking technologies 
 
 If you are accessing the Website from other than the EEA, you understand that we apply U.S. law and the U.S. advertising industry self-regulatory program to Tracking Technologies associated with the Website. 
 
-We partner with a third party to either display advertising on our websites or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](https://preferences-mgr.truste.com/) or if located in the European Union click [here](https://www.youronlinechoices.eu/). Please note that you will continue to receive generic ads.
+We partner with a third party to either display advertising on our websites or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of any interest-based advertising click [here](https://preferences-mgr.truste.com/) or if located in the European Union click [here](https://www.youronlinechoices.eu/). Please note that you will continue to receive generic ads.
 
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data and where the application was downloaded form.
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data and where the application was downloaded from.
 
-We may send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
+To the extent permitted by applicable law, we may send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
 
 ### 11) DATA SECURITY top
 
@@ -501,62 +531,92 @@ If you choose to use our invitation service to invite a friend to our Services, 
 
 If you wish to invite a friend to view our blog posts, we will ask you for that person's email address and automatically send an email invitation. ZipRecruiter stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at [privacy@ziprecruiter.com](mailto:privacy@ziprecruiter.com).
 
-### 16) HOW TO COMPLAIN & ENQUIRIES top
+### 16) QUESTIONS OR COMPLAINTS top
 
-**_All Data Subjects_**
+**_Data Subjects Located Outside the European Economic Area and Switzerland_**
 
-If you have any complaint about the treatment of your Personal Data, or inquiries regarding our data practices, please contact us as set forth in Section 20 so we may resolve any query or concern you have.  
+If you have a complaint, or if you have questions or requests regarding your Personal Data, please email us at [dsars@ziprecruiter.com](mailto:dsars@ziprecruiter.com), and specify the country in which you are located.
 
-**_Data Subjects Based in the European Economic Area_**
+**_Data Subjects Located within the European Economic Area & Switzerland_**
 
-The General Data Protection Regulation also gives you the right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) country where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner who may be contacted at [https://ico.org.uk/concerns](https://ico.org.uk/concerns/) or telephone: 0303 123 1113. 
+If you have a complaint, or if you have questions or requests regarding your Personal Data, please email us at [dsars@ziprecruiter.com](mailto:dsars@ziprecruiter.com), and specify the country in which you are located. If we are not able to address your concern and you are a resident of the EU, you have the right to lodge a complaint with the Data Protection Authority where you are located or where the issue took place. For contact details of your local Data Protection Authority, please see [www.ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm](https://web.archive.org/web/20190630215126id_/https%3A//www.ziprecruiter.com/www.ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm). Contact information for the Information Commissioner’s Office (ICO), which is the supervisory authority in the UK can be found at <https://ico.org.uk/make-a-complaint>.
 
 ### 17) MARKETING top
 
-We may use your Personal Data to send you information about the services provided by the ZipRecruiter Group; provided, however that we will obtain consent to do so from EEA data subjects. You may unsubscribe from our marketing e-mails by clicking "Unsubscribe" in any promotional e-mail communications we send you. As permitted by applicable law, you cannot opt-out of non-marketing, services-related notices.
+We may use your Personal Data to send you information about the services provided by the ZipRecruiter Group; provided, however that we will obtain consent to do so where required by applicable law. You may unsubscribe from our marketing e-mails by clicking "Unsubscribe" in any promotional e-mail communications we send you. As permitted by applicable law, you cannot opt-out of non-marketing, services-related notices.
 
 ### 18) CHANGES TO THIS PRIVACY POLICY top
 
-We reserve the right to change this Privacy Policy at any time. Such changes, modifications, additions or deletions shall be effective immediately upon notice thereof and shall apply to business terms only, which may be given by means including, but not limited to, issuing an email to the email address listed by registered users and/or by posting a notice and the revised Privacy Policy on the Website. You acknowledge that it is your responsibility to maintain a valid email address as a registered user, and to review the Website and this Privacy Policy periodically in order to be aware of any modifications. If you object to any changes to the revised Privacy Policy, you can stop using our services and close your account with us. However, if you continue to use our services (including the Website) after we publish a new or updated Privacy Policy, you acknowledge that such continued use means that the treatment of your Personal Data will be subject to the new or updated Privacy Policy.
+We reserve the right to change this Privacy Policy at any time. If we propose to make any material changes, we will notify you by posting notice on the Website or by issuing an email to the email address listed by registered users prior to the changes becoming effective. You acknowledge that it is your responsibility to maintain a valid email address as a registered user, and to review the Website and this Privacy Policy periodically in order to be aware of any modifications. If you object to any changes to the revised Privacy Policy, you can stop using our services and close your account with us. However, if you continue to use our services (including the Website) after we publish a new or updated Privacy Policy, you acknowledge that such continued use means that the treatment of your Personal Data will be subject to the new or updated Privacy Policy.
 
 ### 19) MINORS & CHILDREN top
 
 Our Services and the Website are not intended for use by persons under the age of 18 years.  ZipRecruiter does not knowingly collect or solicit Personal Data from anyone under the age of 13 or knowingly allow such persons to register to use our Website.  In the event that we learn that we have collected Personal Data of a child under the age of 13, we will delete that data to the extent required by applicable law as quickly as possible. If you believe that we might have any Personal Data from or about a child under 13, please contact us at [privacy@ziprecruiter.com](mailto:privacy@ziprecruiter.com). 
 
-### 20) HOW TO CONTACT US top
+### 20) MOBILE APP USERS IN THE UNITED KINGDOM top
 
-If you have any questions about our Privacy Policy, cookies and other tracking technologies. and/or our services in general, please contact us by using the communication means described below.
+If you use our mobile application (“App”), the CV/resume you upload in the App will be the default CV/resume used when you apply to jobs in the App. You can update your name and email, or replace your CV/resume, by going to the “Account” icon available on the App’s home page. Your personal data and CV/resume may be deleted at any time by deleting the App from your device.
 
-Type of Enquiry | Contact | Email Address | Mailing Address | Telephone | Live Chat  
+You may opt out of providing your location information by using your device settings. On your Android device, go to 'Settings' > 'Apps' > 'ZipRecruiter' > 'Permissions,' and de-select 'Location'.
+
+If you sign up to receive job alert emails in the App, you can unsubscribe at any time by clicking the "Unsubscribe" link in any job alert email you receive.
+
+### 21) HOW TO CONTACT US top
+
+**Data Privacy Questions.** If you have any questions regarding our personal data practices, please contact us by using the communication means described below.
+
+LOCATION OF DATA SUBJECT | TYPE OF ENQUIRY | EMAIL ADDRESS | MAILING ADDRESS | TELEPHONE | LIVE CHAT  
 ---|---|---|---|---|---  
-Data Subject Access Rights | Data Privacy Representative | [dsars@ziprecruiter.com](mailto:dsars@ziprecruiter.com) | See Below | Send Request by Mail or Email | Send Request by Mail or Email  
-General Privacy-Related Questions | Data Privacy Representative  | [privacy@ziprecruiter.com](mailto:privacy@ziprecruiter.com) | See Below | Send Request by Mail or Email | Send Request by Mail or Email  
-Technical Support | Customer Service |  [support@ziprecruiter.com](mailto:support@ziprecruiter.com)  
+EEA and Switzerland | Data Subject Information/Access Requests | [dsars@ziprecruiter.com](mailto:dsars@ziprecruiter.com) | See Below | Send Request by Mail or Email | Send Request by Mail or Email  
+Outside the EEA and Switzerland | Privacy-Related Questions | [privacy@ziprecruiter.com](mailto:privacy@ziprecruiter.com) | See Below | Send Request by Mail or Email | Send Request by Mail or Email  
+  
+**Technical or Customer Service Questions.** Wherever you are located, if you have any questions as regards the use of our services, questions about your account, and/or technical or other customer support questions regarding your use of our services, please contact us by using the communication means described below.
+
+TYPE OF ENQUIRY | CONTACT | EMAIL ADDRESS | MAILING ADDRESS | TELEPHONE | LIVE CHAT  
+---|---|---|---|---|---  
+Technical Support | Customer Service | [support@ziprecruiter.com](mailto:support@ziprecruiter.com)  
 or  
 [support@ziprecruiter.co.uk](mailto:support@ziprecruiter.co.uk) | See Below |  **US**  
 1-877-252-1062  
 (6am - 6pm PST)  
-\--  
+
+
+* * *
+
 **UK**  
 0808-281-9407  
 (8am - 4:30pm GMT)  | Via Website  
-General Customer Service Enquiries | Customer Service |  [cs@ziprecruiter.com](mailto:cs@ziprecruiter.com)  
+General Customer Service Enquiries | Customer Service | [cs@ziprecruiter.com](mailto:cs@ziprecruiter.com)  
 or  
-[cs@ziprecruiter.co.uk](mailto:cs@ziprecruiter.co.uk) | See Below |  **US**  
+[cs@ziprecruiter.co.uk](mailto:cs@ziprecruiter.co.uk) | See Below | **US**  
 1-877-252-1062  
 (6am - 6pm PST)  
-\--  
-**UK**  
-0808-281-9407  
-(8am - 4:30pm GMT)  | Via Website  
-U.S. Mailing Address | U.K. Mailing Address |    
----|---|---  
+| Via Website  
+  
+**Mailing Addresses**
+
+U.S. Mailing Address | U.K. Mailing Address  
+---|---  
 ZipRecruiter, Inc.  
 Attn: Business Affairs  
 604 Arizona Avenue  
-Santa Monica, CA 90401, USA  |  ZipRecruiter UK Ltd.  
+Santa Monica, California 90401, USA  
+Delaware Corporation  
+File Number: 4829724  
+ICO Registration Number: ZA454860  |  ZipRecruiter UK Ltd.  
 C/o Fieldfisher LLP  
-Riverbank House  
-2 Swan Lane,  
-London, EC4R, England, UK  |  ZipRecruiter UK Ltd.  
-Company No. 9988220 
+Riverbank House, 2 Swan Lane, London, EC4R,  
+England, UK  
+Company No. 9988220  
+ICO Registration Number: ZA197224  
+
+
+* * *
+
+Article 27 Representative  
+ZipRecruiter UK Ltd.  
+C/o Fieldfisher LLP  
+Attn: Privacy  
+Riverbank House, 2 Swan Lane, London, EC4R,   
+England, UK  
+Email: [art27rep@ziprecruiter.com](https://web.archive.org/web/20190630215126id_/https%3A//www.ziprecruiter.com/art27rep@ziprecruiter.com)
