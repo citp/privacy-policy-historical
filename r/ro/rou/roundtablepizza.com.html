@@ -1,0 +1,520 @@
+<!--The following is the downloaded HTML source of the roundtablepizza.com privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630182544id_/https%3A//www.roundtablepizza.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+				<!-- Google Tag Manager -->
+			<script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MT434PS"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-MT434PS');</script>
+			<!-- End Google Tag Manager -->
+		
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Privacy Policy | Pizza Delivery, Pickup , &amp; Online Ordering - Round Table Pizza</title>
+
+	<style>
+		.wpcf7-submit{
+			display:none;
+		}
+		.recaptcha-btn{
+			display:block;
+		}
+		.grecaptcha-badge { margin: 10px 0; }
+	</style>
+	<script type="text/javascript">
+		var contactform = [];
+		var checkIfCalled = true;
+		var renderGoogleInvisibleRecaptchaFront = function() {
+			// prevent form submit from enter key
+			jQuery("input[name=_wpcf7]").attr("class","formid");
+				jQuery('.wpcf7-form').on('keyup keypress', "input", function(e) {
+				  var keyCode = e.keyCode || e.which;
+				  if (keyCode === 13) {
+					e.preventDefault();
+					return false;
+				  }
+				});
+
+			jQuery('.wpcf7-submit').each(function(index){
+
+				var checkexclude = 0;
+				var form = jQuery(this).closest('.wpcf7-form');
+				var value = jQuery(form).find(".formid").val();
+				// check form exclude from invisible recaptcha
+								if(checkexclude == 0){
+					// Hide the form orig submit button
+					form.find('.wpcf7-submit').hide();
+
+					// Fetch class and value of orig submit button
+					btnClasses = form.find('.wpcf7-submit').attr('class');
+					btnValue = form.find('.wpcf7-submit').attr('value');
+
+					// Add custom button and recaptcha holder
+
+					form.find('.wpcf7-submit').after('<input type="button" id="wpcf-custom-btn-'+index+'" class="'+btnClasses+'  recaptcha-btn recaptcha-btn-type-css" value="'+btnValue+'" title="'+btnValue+'" >');
+					form.append('<div class="recaptcha-holder" id="recaptcha-holder-'+index+'"></div>');
+					// Recaptcha rendenr from here
+					var holderId = grecaptcha.render('recaptcha-holder-'+index,{
+								'sitekey':'6LdqgJIUAAAAABZ28VuKObkjlUsMbjtNs7Kx-rbg',
+								'size': 'invisible',
+								'badge' : 'bottomright', // possible values: bottomright, bottomleft, inline
+								'callback' : function (recaptchaToken) {
+									//console.log(recaptchaToken);
+									var response=jQuery('#recaptcha-holder-'+index).find('.g-recaptcha-response').val();
+									//console.log(response);
+									//Remove old response and store new respone
+									jQuery('#recaptcha-holder-'+index).parent().find(".respose_post").remove();
+									jQuery('#recaptcha-holder-'+index).after('<input type="hidden" name="g-recaptcha-response"  value="'+response+'" class="respose_post">')
+									grecaptcha.reset(holderId);
+
+									if(typeof customCF7Validator !== 'undefined'){
+										if(!customCF7Validator(form)){
+											return;
+										}
+									}
+									// Call default Validator function
+									else if(contactFormDefaultValidator(form)){
+										return;
+									}
+									else{
+										// hide the custom button and show orig submit button again and submit the form
+										jQuery('#wpcf-custom-btn-'+index).hide();
+										form.find('input[type=submit]').show();
+										form.find("input[type=submit]").click();
+										form.find('input[type=submit]').hide();
+										jQuery('#wpcf-custom-btn-'+index).attr('style','');
+									}
+								}
+						},false);
+
+					// action call when click on custom button
+					jQuery('#wpcf-custom-btn-'+index).click(function(event){
+						event.preventDefault();
+						// Call custom validator function
+						if(typeof customCF7Validator == 'function'){
+							if(!customCF7Validator(form)){
+								return false;
+							}
+						}
+						// Call default Validator function
+						else if(contactFormDefaultValidator(form)){
+							return false;
+						}
+						else if(grecaptcha.getResponse(holderId) != ''){
+							grecaptcha.reset(holderId);
+						}
+						else{
+							// execute the recaptcha challenge
+							grecaptcha.execute(holderId);
+						}
+					});
+				}
+			});
+		}
+	</script><script src="https://www.google.com/recaptcha/api.js?onload=renderGoogleInvisibleRecaptchaFront&amp;render=explicit" async="" defer=""></script>
+<!-- This site is optimized with the Yoast SEO plugin v9.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="View the privacy policy regarding the use of RoundTablePizza.com.">
+<link rel="canonical" href="https://www.roundtablepizza.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | Pizza Delivery, Pickup , &amp; Online Ordering - Round Table Pizza">
+<meta property="og:description" content="View the privacy policy regarding the use of RoundTablePizza.com.">
+<meta property="og:url" content="https://www.roundtablepizza.com/privacy-policy/">
+<meta property="og:site_name" content="Pizza Delivery, Pickup , &amp; Online Ordering - Round Table Pizza">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="View the privacy policy regarding the use of RoundTablePizza.com.">
+<meta name="twitter:title" content="Privacy Policy | Pizza Delivery, Pickup , &amp; Online Ordering - Round Table Pizza">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.roundtablepizza.com/","sameAs":[],"@id":"https://www.roundtablepizza.com/#organization","name":"Round Table Pizza","logo":"https://www.roundtablepizza.com/wp-content/uploads/2019/01/RTP_Favicon-02.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Pizza Delivery, Pickup , &amp; Online Ordering - Round Table Pizza » Feed" href="https://www.roundtablepizza.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Pizza Delivery, Pickup , &amp; Online Ordering - Round Table Pizza » Comments Feed" href="https://www.roundtablepizza.com/comments/feed/">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.roundtablepizza.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-theme-css" href="https://www.roundtablepizza.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.roundtablepizza.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="twentynineteen-style-css" href="https://www.roundtablepizza.com/wp-content/themes/rtp/style.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="twentynineteen-print-style-css" href="https://www.roundtablepizza.com/wp-content/themes/twentynineteen/print.css?ver=1.0.0" type="text/css" media="print">
+<link rel="stylesheet" id="perfect-scrollbar-css" href="https://www.roundtablepizza.com/wp-content/themes/rtp/source/scripts/libraries/perfect-scrollbar/perfect-scrollbar.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="bundle-main-css-css" href="https://www.roundtablepizza.com/wp-content/themes/rtp/assets/styles/main.bundle.css?ver=5.2.2" type="text/css" media="all">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js?ver=3.3.1"></script>
+<script type="text/javascript" src="https://www.roundtablepizza.com/wp-content/plugins/cf7-invisible-recaptcha/js/cf7_invisible_recaptcha.js?ver=1.2.3"></script>
+<script type="text/javascript" src="https://www.roundtablepizza.com/wp-content/themes/rtp/source/scripts/libraries/lightcase/src/js/lightcase.js?ver=0.1.0"></script>
+<script type="text/javascript" src="https://www.roundtablepizza.com/wp-content/themes/rtp/source/scripts/libraries/slick/slick.min.js?ver=0.1.0"></script>
+<script type="text/javascript" src="https://www.roundtablepizza.com/wp-content/themes/rtp/source/scripts/libraries/jquery.waypoints.min.js?ver=0.1.0"></script>
+<link rel="https://api.w.org/" href="https://www.roundtablepizza.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.roundtablepizza.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.roundtablepizza.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.2.2">
+<link rel="shortlink" href="https://www.roundtablepizza.com/?p=2440">
+<link rel="alternate" type="application/json+oembed" href="https://www.roundtablepizza.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.roundtablepizza.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.roundtablepizza.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.roundtablepizza.com%2Fprivacy-policy%2F&amp;format=xml">
+<script type="text/javascript">var stateCityLocation = {"CA":{"Alameda":{"3671":"2651 H Blanding Avenue"},"Alamo":{"3760":"150-A Alamo Plaza"},"Albany":{"3631":"962 San Pablo Avenue"},"American Canyon":{"3909":"5055 Main Street # 106"},"Anderson":{"3645":"2808 McMurry Drive"},"Angels Camp":{"3929":"27 N. Main Street, Suite B"},"Antelope":{"3824":"7909 Walerga Road, #107"},"Antioch":{"3849":"4504 Lone Tree Way"},"Apple Valley":{"3922":"14898 Dale Evans Pkwy., Ste. 200"},"Arcata":{"3649":"5000 Valley West Blvd., "},"Arnold":{"3827":"2182 Highway 4, Ste. 300 D"},"Atascadero":{"3927":"6915 El Camino Real"},"Atwater":{"3966":"1831 Bellevue Road"},"Auburn":{"3663":"370 Elm Avenue","3977":"10894 Combie Road, No. 128"},"Bakersfield":{"3988":"4200 Gosford Road, Suite 101"},"Bellflower":{"3767":"15730 Bellflower Blvd."},"Benicia":{"3775":"878 Southampton Road"},"Brea":{"3723":"732 North Brea Boulevard"},"Brentwood":{"3878":"2540 Sand Creek Road"},"Burbank":{"3779":"2408 West Victory Blvd."},"Cameron Park":{"3768":"3370 Coach Lane"},"Campbell":{"3606":"1400 West Campbell Avenue"},"Canyon Country":{"3644":"16534 Soledad Canyon Rd"},"Carmichael":{"3707":"4005 Manzanita Avenue","3721":"4949-C Marconi Avenue"},"Castro Valley":{"3865":"20920 Redwood Road"},"Castroville":{"3666":"11250 Merritt Street"},"Cathedral City":{"3861":"31775 Date Palm Drive"},"CERES":{"3887":"1515 MITCHELL ROAD"},"Chatsworth":{"3999":"20519 Devonshire Street"},"Chico":{"3627":"964 Mangrove Avenue","3673":"2201 Pillsbury Road","3872":"2027 Forest Avenue, #20"},"Chino":{"3677":"12881 Mountain Avenue"},"Citrus Heights":{"3629":"7943 Greenback Lane","3746":"7700 Sunrise Blvd., Ste. 1100","3975":"7873 Lichen Drive"},"Claremont":{"3660":"598 E. Baseline Road","3697":"408 West  Auto Center Drive"},"Colma":{"3670":"4935 Junipero Serra Blvd."},"Colusa":{"3793":"1031 Bridge Street"},"Concord":{"3597":"1743 Willow Pass Road","3621":"5434 Ygnacio Valley Rd, #10","3699":"2960 Treat Blvd.","3725":"3375 Port Chicago Hwy Ste #57"},"Corning":{"3681":"680 Edith Avenue"},"Corona":{"3941":"1180 El Camino Drive, Suite 116"},"Costa Mesa":{"3786":"1175 Baker Street, Suite A"},"Culver City":{"3987":"6000 Sepulveda Boulevard"},"Cypress":{"3756":"10101 Valley View Street"},"Daly City":{"3772":"6222 Mission Street","3863":"1901 Junipero Serra Blvd, SteC"},"Dana Point":{"3855":"32525 B Golden Lantern"},"Danville":{"3967":"629 San Ramon Valley Boulevard","4008":"629 San Ramon Valley Boulevard"},"Davis":{"3973":"1411 W. Covell Boulevard, Suite 111"},"Delano":{"3958":"620 Woollomes Ave., Suite 101"},"Diamond Bar":{"3724":"1139 Grand Avenue"},"Discovery Bay":{"3942":"14870 H Highway 4"},"Dixon":{"3700":"825 N. Adams Street"},"Downey":{"4010":"8248 Firestone Boulevard"},"Dublin":{"3611":"7841 Amador Valley Blvd."},"El Cajon":{"3799":"2650 Jamacha Rd, #143"},"El Dorado Hills":{"3877":"4510 Post Street, Suite 300"},"Elk Grove":{"3641":"8795 Elk Grove Blvd.","3807":"5110 Laguna Blvd., #119","3893":"10054 Bruceville Road"},"Encinitas":{"3626":"1321 Encinitas Blvd."},"Escondido":{"3654":"1161 E. Washington Avenue","3856":"555 W. Country Club Lane,  # J"},"Eureka":{"3764":"2810 \"E\" Street, "},"Fair Oaks":{"3766":"4400 San Juan Avenue","3978":"8822 Madison Avenue","3615":"CLOSED"},"Fairfield":{"3769":"3336-M N. Texas Street","3828":"2401 Waterman Blvd.","3879":"5085 Business Center Dr. #102"},"Felton":{"3623":"6267 Graham Hill Road"},"Folsom":{"3974":"1151 Riley Street","3976":"9500-1 Greenback Lane","3983":"2793 East Bidwell Street #100"},"Fontana":{"3818":"11617 Cherry Avenue, Suite 2","3897":"15002 Summit Avenue"},"Foothill Ranch":{"3925":"27472 Portola Parkway, Suite 201"},"Fort Bragg":{"3705":"740 South Main Street"},"Fortuna":{"3665":"759 S. Fortuna Blvd., "},"Foster City":{"3993":"1084 Foster City Blvd."},"Fountain Valley":{"3744":"11095 Warner Avenue"},"Fremont":{"3614":"40831 Fremont Blvd.","3901":"46600 Mission Boulevard"},"Fresno":{"3630":"5040 N. West Avenue","3749":"3262 E. Tulare","3801":"3710 West Shields","3990":"5702 N. First Street #101"},"Fullerton":{"3698":"2506 East Chapman Avenue"},"Galt":{"3821":"1067 C Street, Suite 144"},"Garden Grove":{"3773":"12829 Harbor Blvd."},"Gilroy":{"3624":"815 First Street"},"Glendora":{"3680":"407 W Foothill Blvd"},"Grass Valley":{"3619":"686 Sutton Way"},"Gridley":{"3884":"1516 HWY 99"},"Grover Beach":{"3788":"1600 West Grand Avenue"},"Half Moon Bay":{"3634":"50 Cabrillo Highway North"},"Hanford":{"3943":"208 North 12th Avenue, Suites 112 and 113"},"Hayward":{"3603":"22457 Foothill Blvd.","3612":"24703 Amador Street, Suite 6"},"Healdsburg":{"3684":"1351 Healdsburg Avenue"},"Hercules":{"3738":"1511-D Sycamore Avenue"},"Hermosa Beach":{"3831":"2701 Pacific Coast Highway"},"Highland":{"3962":"27961 Highland Avenue"},"Hollister":{"3638":"496 Tres Pinos"},"Huntington Beach":{"3696":"19750 Beach Blvd.","3986":"16122-101 Goldenwest Street"},"Indio":{"3737":"81637 Highway 111"},"Jackson":{"3708":"12280 Industry Blvd., Ste. 81"},"Kerman":{"3662":"15200 W. Whitesbridge Road"},"La Canada":{"3734":"502 Foothill Blvd"},"La Habra":{"3954":"1202 S. Idaho Street Suites E&F"},"La Mesa":{"3646":"8032 La Mesa Blvd.","3771":"5999 Severin Drive"},"Lafayette":{"3727":"3637 Mt Diablo Blvd."},"Laguna Niguel":{"3944":"27932 La Paz Road, #J"},"Lake Forest":{"3871":"22722 Lambert St., Ste. #1705"},"Lakeport":{"3688":"821 11th Street"},"Lakewood":{"3741":"5250 Faculty"},"Lancaster":{"3672":"44204 N. 10th Street West"},"Lincoln":{"3719":"375 S. Highway 65"},"Livermore":{"3691":"4098 East Avenue","3867":"1024 E. Stanley Blvd."},"Lodi":{"3900":"2715 W Kettleman Lane #204"},"Lompoc":{"3889":"721 W. Central Avenue"},"Long Beach":{"3860":"4007 E Ocean Boulevard"},"Loomis":{"3846":"6111 Horseshoe Bar Road"},"Los Altos":{"3582":"399 First Street"},"Los Banos":{"4139":"1462 S. Mercey Springs"},"Los Gatos":{"3588":"57 North Santa Cruz Avenue","3600":"1472 Pollard Road"},"Madera":{"3829":"1930 Howard Road, #101"},"Manteca":{"3903":"253 Spreckels Avenue","3919":"2120 Daniels Street"},"Marina":{"3640":"3120 Del Monte Blvd."},"Martinez":{"3783":"504 Center Avenue"},"MARYSVILLE":{"3883":"202 9TH STREET"},"McKinleyville":{"3742":"2023 Central Avenue, "},"Menlo Park":{"3581":"1225 El Camino Real"},"Merced":{"3886":"1728 West Olive Avenue"},"Millbrae":{"3592":"414 Broadway"},"Milpitas":{"3891":"1271 E. Calaveras Blvd."},"Mission Viejo":{"3712":"25290 Marguerite Parkway, #D"},"Modesto":{"3658":"2401 E. Orangeburg Ave.","3804":"3848 McHenry Avenue, #145","3969":"1801 H Street, Suite B-8","3970":"3601 Pelandale Avenue, Suite 101"},"Monrovia":{"3745":"626 W. Huntington Drive"},"Monterey":{"3622":"375 Alvarado Street"},"Moorpark":{"3794":"239 W Los Angeles Ave"},"Moraga":{"3617":"361 Rheem Blvd."},"Moreno Valley":{"3920":"27140-A Eucalyptus Ave."},"Morgan Hill":{"3652":"16740 Monterey Street"},"Morro Bay":{"3843":"610 Quintana Road"},"Mountain View":{"3589":"570 North Shoreline Blvd."},"Napa":{"3647":"3331 Solano Avenue","3947":"701 Lincoln Avenue"},"Newark":{"3636":"5544 Thornton Avenue"},"Newhall":{"3931":"23254 Lyons Avenue"},"Newport Beach":{"3859":"4551 Jamboree Road, Ste. B"},"Novato":{"3604":"1565 S. Novato Blvd."},"Oakdale":{"3616":"Closed For Remodel - Be Back Soon!"},"Oakhurst":{"3841":"40034 Highway 49 Suite A-2"},"Oakland":{"3816":"7000 Coliseum Way","3890":"2854 Mountain Blvd.","3905":"398 Grand Avenue","3928":"5095 Telegraph Avenue"},"Oakley":{"3743":"2190 Main Street, Suite C"},"Oceanside":{"3994":"3440 Marron Road"},"Ontario":{"3716":"1020 N. Mountain Avenue"},"Orange":{"4006":"1737 E. Katella Avenue"},"Orland":{"3918":"302 East Walker"},"Oroville":{"3661":"1124 Oro Dam Blvd East"},"Pacifica":{"3949":"1285 Linda Mar Shopping Center"},"Palmdale":{"3930":"39202 10th Street West"},"Palo Alto":{"3583":"702 Colorado Avenue","3590":"263 University Avenue"},"Petaluma":{"3956":"227 S. McDowell Blvd."},"Pinole":{"3785":"1409 Fitzgerald Drive"},"Pittsburg":{"3656":"Closed For Remodel - Be Back Soon! ","3806":"408 Bailey Road"},"Placerville":{"3610":"512 Main Street","3906":"3975 Missouri Flat Road #240"},"Pleasant Hill":{"3683":"716 Contra Costa Boulevard","3995":"1938 Oak Park Blvd."},"Pleasanton":{"3800":"4855 Hopyard Road, Suite C-1","3950":"6654 Koll Center Parkway"},"Pomona":{"3851":"3801 West Temple Ave., Bldg 55"},"Porterville":{"3996":"1138 West Henderson Ave"},"Poway":{"3682":"13510 Poway Road"},"Prunedale":{"3585":"8035 San Miguel Canyon Road"},"Quincy":{"3939":"60 East Main Street"},"Rancho Cordova":{"3689":"2234 Sunrise Blvd.","3770":"10375 Folsom Blvd."},"Rancho Cucamonga":{"3763":"7201 Archibald Avenue, Suite 9"},"Rancho Santa Margarita":{"3924":"22205 El Paseo, Shops S5"},"Red Bluff":{"3690":"116 W Belle Mill Road"},"Redding":{"3620":"121 Hartnell Avenue","3675":"900 Dana Drive, Suite A15","3687":"6548 Westside Road","3789":"70 Lake Boulevard","3808":"3633 Eureka Way"},"Redondo Beach":{"4190":"1876 South Pacific Coast Hwy"},"Redwood City":{"3586":"128 Woodside Plaza"},"Richmond":{"3881":"15501 San Pablo Avenue, Ste I"},"Ripon":{"3908":"150 N Wilma Avenue, Suite 5"},"Riverbank":{"3902":"2441 Claribel Road, Suite J"},"Riverside":{"3732":"7732 Limonite Avenue","3937":"2585 Canyon Springs Parkway #A"},"Rocklin":{"3853":"2345 Sunset Boulevard","3868":"4885 Granite Drive"},"Rohnert Park":{"3953":"40 Raleys Towne Centre"},"Roseville":{"3979":"8755-A Sierra College Blvd.","3980":"4010 Foothills Blvd, Suite 108","3984":"9055 Woodcreek Oaks Blvd. #190","3991":"1020 Pleasant Grove Blvd. #170"},"Sacramento":{"3637":"3005 Freeport Boulevard","3674":"1566 Howe Avenue","3692":"9138 Kiefer Blvd.","3706":"5101 Folsom Blvd.","3722":"Closed For Remodel - Be Back Soon!","3834":"2915 K Street","3835":"1307 Florin Road","3836":"127 K Street","3838":"4215 Norwood Avenue, Suite 2","3857":"8345 Elk Grove Florin Road","3869":"6000 J Street, Room 1106","3875":"4680 Natomas Blvd., Suite 170","3904":"3290 Arena Blvd","3951":"3327 Watt Avenue","3781":"3291 Truxel Road, Suite 24","3797":"4341 Arden Way"},"Salinas":{"3826":"1457 N. Main Street","3832":"1160 S. Main Street"},"San Carlos":{"3992":"1324 El Camino Real"},"San Clemente":{"3752":"612 Camino de los Mares"},"San Diego":{"3628":"16761 Bernardo Center Drive","3678":"3250 Governor Drive","3758":"13293 Black Mountain Road","3874":"10415 Tierrasanta Blvd.","3955":"6110 Friars Road, Suite 111","3968":"3145 Sports Arena Boulevard","4329":"3146 Mission Blvd"},"San Francisco":{"3710":"4523 Mission Street","3750":"2660 San Bruno Avenue","3755":"801 Van Ness Avenue","3777":"3567 Geary Blvd","3823":"737 Portola Drive","4007":"1503 N. Point Street"},"San Jose":{"3591":"1175 Lincoln Avenue","3595":"3253 Stevens Creek Blvd.","3598":"1118 Branham Lane","3605":"2351 McKee Road","3608":"6217 Santa Teresa Blvd.  & Cottle Rd","3633":"2550 Berryessa Road","3639":"1159 Redmond Ave & Almaden Expressway","3657":"1015 E. Capitol Expressway","3668":"4400 Stevens Creek Blvd.","3669":"2129 Morrill Avenue","3694":"5440-A Thornwood Drive","3757":"3212 S. White Road","3762":"1125 S. Bascom Avenue","3792":"14940 Camden Avenue","3870":"5385 Camden Avenue","3895":"3730 North First Street","3945":"5885 Santa Teresa Blvd. & Snell Ave."},"San Leandro":{"3618":"15255 E. 14th Street","3715":"1359 Washington Avenue","3778":"13700 Doolittle Drive #104"},"San Lorenzo":{"3873":"15960 Hesperian Blvd."},"San Luis Obispo":{"3932":"3971 South Higuera Street, Ste. 120"},"San Mateo":{"3601":"1304 W. Hillsdale Blvd.","3837":"430 South Norfolk Street","3847":"61 West 43rd Avenue,Suite 1001","3848":"1852 South Norfolk Street","3938":"844 North Delaware Street"},"San Pablo":{"3718":"13100 San Pablo Avenue"},"San Rafael":{"3946":"2200 4th Street"},"San Ramon":{"3880":"450 Market Place"},"Santa Ana":{"3726":"1212 East 17th Street","3747":"2860 S. Bristol Street, C-2"},"Santa Clara":{"3596":"2615 The Alameda"},"Santa Maria":{"3862":"2508 S Broadway"},"Santa Rosa":{"3607":"2424 Magowan Drive","3651":"550 Montecito Center","3713":"2065 Occidental Road","3787":"1791 Marlow Road","3940":"1003 Guerneville Road"},"Santee":{"3659":"9824 Magnolia Avenue"},"Saratoga":{"3593":"18482 Prospect Road"},"Scotts Valley":{"3711":"245 Mount Hermon Road, Suite A"},"Seaside":{"3602":"1717 Fremont Blvd."},"Sebastopol":{"3957":"775 Gravenstein Hwy S"},"Soledad":{"3885":"2135 H De La Rosa Sr. Street"},"Sonoma":{"3685":"201 W. Napa Street"},"Sonora":{"3594":"154 W. Stockton Street","3730":"13761 Mono Way, Suite D"},"Soquel":{"3613":"2690 41st Avenue"},"South Lake Tahoe":{"3982":"1062 Emerald Bay Road"},"South Pasadena":{"3780":"1127 Fair Oaks Avenue"},"South San Francisco":{"3735":"2227 Gellert Blvd","3790":"20 Chestnut Avenue"},"Spring Valley":{"3733":"9676 Campo Road"},"Stockton":{"3717":"2405 Pacific Avenue","3898":"8010 Holman Road","3899":"10952-A Trinity Parkway","3915":"2819 W. March Lane, Suite A-5"},"Suisun City":{"3802":"288 Sunset Avenue, Suite J"},"Sunnyvale":{"3584":"1663 Hollenbeck","3599":"860 Old San Francisco Road","3811":"415 N Mary Avenue","3813":"665 S. Bernardo Ave."},"Susanville":{"3642":"2655 Main Street"},"Tarzana":{"3709":"18365 Ventura Blvd."},"Temecula":{"3830":"27644 Ynez Road"},"Terra Linda":{"3822":"186 Northgate One"},"Thousand Oaks":{"3695":"2060-C Avenida De Los Arboles"},"Torrance":{"3753":"4330 Redondo Beach Blvd."},"Tracy":{"3882":"2511 Naglee Road","3933":"2630 South Tracy Boulevard"},"Truckee":{"3981":"11200-7 Donner Pass Rd."},"Tulare":{"3796":"150 East Cross Avenue"},"Turlock":{"3693":"2650 Geer Road"},"Tustin":{"3952":"13771 Newport Avenue #17"},"Ukiah":{"3609":"292 S. State Street"},"Union City":{"3625":"1744 Decoto Road"},"Upland":{"3825":"830 E. Foothill Blvd., #5"},"Vacaville":{"3643":"888 Alamo Drive","3759":"3045 Alamo Drive","3819":"140 Browns Valley Parkway"},"Vallejo":{"3635":"2633 Springs Road","3964":"750 Admiral Callaghan Lane"},"Valley Springs":{"3820":"87 Highway 26, Suite 2"},"Visalia":{"3815":"1691 E. Noble Ave.","3907":"4035 S. Mooney Blvd., Ste F-5"},"Walnut Creek":{"4000":"1776 N. Broadway"},"Watsonville":{"3795":"1975 Main Street"},"Weaverville":{"3805":"120 Nugget Lane"},"West Covina":{"3997":"2270 S Azusa Ave #D"},"West Sacramento":{"3888":"2105 Town Center Plaza #F-180"},"Willows":{"3774":"1237 W Wood Street"},"Windsor":{"3814":"8499 Old Redwood Hwy"},"Winters":{"3839":"196 East Grant Avenue"},"Woodland":{"3866":"421 Pioneer Avenue, Suite F"},"Yorba Linda":{"3740":"18518 Yorba Linda Blvd"},"Yreka":{"3714":"735 S. Broadway"},"Yuba City":{"3686":"828 Gray Avenue","3833":"1278 Stabler Lane"}},"AK":{"Anchorage":{"3776":"800 E. Dimond Blvd.  Ste 3-125"}},"WA":{"Auburn":{"3842":"4002 \"A\" Street S.E."},"Bellingham":{"3810":"1145 E. Sunset Drive #135"},"Bonney Lake":{"3972":"21117 State Route 410"},"Burien":{"3896":"15730 First Avenue South"},"Camas":{"3959":"3136 NE 3rd Avenue"},"Federal Way":{"3916":"34410 16th Ave. South #101"},"Gig Harbor":{"4005":"5500 Olympic Drive, #H101"},"Kennewick":{"3840":"3300 W Clearwater Ave"},"Lynnwood":{"3948":"16108 Ash Way, Suite 115"},"Mount Vernon":{"3729":"115 E. College Way"},"Pasco":{"3728":"3201 West Court Street"},"Puyallup":{"3858":"16016 Meridian East"},"Renton":{"3748":"302 SW 43rd Street","3892":"14020 SE Petrovitsky"},"Richland":{"3864":"1435 George Washington Way","3910":"1769 Leslie Road"},"Silverdale":{"4004":"3276 N.W. Plaza Rd, Suite 101"},"Spokane":{"4001":"4510 South Regal Street","4002":"1908 West Francis Ave."},"Spokane Valley":{"4003":"15402 East Sprague Ave."},"Tacoma":{"3782":"2629 N. Pearl","3791":"7921 South Hosmer, Suite A-1"},"University Place":{"3852":"7011 27th Street West"},"Vancouver":{"3667":"13009 NE Highway 99","3739":"616 N.E. 81st. St., Ste. A","3761":"13503 SE Mill Plain Blvd, Ste1","3765":"5016 N.E. Thurston Way"},"Yakima":{"3854":"1300 N. 40th Avenue"}},"OR":{"Beaverton":{"3701":"10150 SW Beaverton Hillsdale"},"Bend":{"3845":"2940 North Highway 97"},"Happy Valley":{"3720":"10389 S.E. 82nd Ave."},"Hillsboro":{"3809":"2065 NW 185th Avenue","3971":"7525 SE Tualatin Valley Highway"},"Keizer":{"3923":"6055 Ulali Drive, NE"},"Lake Oswego":{"3751":"16444 Boones Ferry Road"},"Medford":{"3817":"2354 Poplar Drive"},"Milwaukie":{"3702":"16550 SE McLoughlin Blvd"},"Newberg":{"3960":"2512 Portland Road"},"Portland":{"3655":"750 N.E. 181st Avenue","3703":"6250 South East Foster Road","3704":"10070 SW Barbur Blvd","3812":"4141 NE 122nd Avenue"},"Redmond":{"3965":"810 SW 11th Street"},"Roseburg":{"3676":"2040 NW Stewart Parkway"},"Springfield":{"3679":"5547 Main Street"},"West Linn":{"3664":"19121 Willamette Drive"}},"NV":{"Carson City":{"3912":"961 Topsy Lane, Suite 440","3914":"3325 Retail Drive, Suite 110"},"Elko":{"3934":"2503 Mountain City Highway"},"Fernley":{"3926":"130 Shadow Lane #1"},"Gardnerville":{"3985":"1327 US Highway 395 N"},"Las Vegas":{"3935":"7141 South Eastern Avenue, Suite 4A-C","3936":"7460 West Lake Mead Boulevard, Suite E-8"},"Reno":{"3632":"4007 S. Virginia","3648":"Temporarily Closed - Please Order from Our  5150 Mae Ann Location! ","3754":"1075 N. Hills Blvd. #110","3803":"5150 Mae Ann","3876":"185 Damonte Ranch Parkway","3998":"2500 E. 2nd Street, Suite 120"},"Sparks":{"3784":"1201 Baring Blvd","3913":"4751 Galleria Pkwy, Suite 101"},"Winnemucca":{"4009":"1043 West 4th Street"},"Yerington":{"3850":"174 West Goldfield Ave, Ste B"}},"AL":{"Clovis":{"3911":"775 West Herndon Ave #300"}},"TX":{"Frisco":{"4200":"7777 Warren Parkway"}},"HI":{"Honolulu":{"3844":"2005 Kalia Road","3921":"227 Lewers Street, Suite 118"},"Kailua":{"3653":"1020-J Keolu Drive"},"Kihei":{"3894":"207 Piikea Avenue, Suite 61"},"Lahaina":{"3917":"2580 Kekaa Drive"},"Waipahu":{"3989":"94-050 Farrington Hwy, Ste. D-3"}},"AZ":{"Yuma":{"3798":"2544 West 16th Street"}}};</script><script type="text/javascript">
+           var ajaxurl = "https://www.roundtablepizza.com/wp-admin/admin-ajax.php";
+         </script>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://www.roundtablepizza.com/wp-content/uploads/2019/01/cropped-RTP_Favicon-02-32x32.png" sizes="32x32">
+<link rel="icon" href="https://www.roundtablepizza.com/wp-content/uploads/2019/01/cropped-RTP_Favicon-02-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://www.roundtablepizza.com/wp-content/uploads/2019/01/cropped-RTP_Favicon-02-180x180.png">
+<meta name="msapplication-TileImage" content="https://www.roundtablepizza.com/wp-content/uploads/2019/01/cropped-RTP_Favicon-02-270x270.png">
+</head>
+
+<body class="page-template-default page page-id-2440 wp-embed-responsive singular image-filters-enabled">
+				<!-- Google Tag Manager (noscript) -->
+			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MT434PS"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<!-- End Google Tag Manager (noscript) -->
+		    	<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<div id="page" class="site">
+	<div id="content" class="site-content">
+        <div style="position: absolute; width: 0; height: 0; overflow: hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol fill="currentColor" viewBox="0 0 24.6 95.8" preserveAspectRatio="none" id="icon-banner-point"><path d="M24.6 95.8H0V0z"></path></symbol><symbol fill="currentColor" viewBox="0 0 50 50" id="icon-facebook"><path d="M35 17.4h-6.8V13c0-1.7 1.1-2.1 1.9-2.1h4.8V3.5h-6.6c-7.3 0-9 5.5-9 9v4.9H15V25h4.2v21.5h8.9V25h6l.9-7.6z"></path></symbol><symbol fill="currentColor" viewBox="0 0 50 50" id="icon-instagram"><path d="M25 13.6c-6.2 0-11.3 5.1-11.3 11.3S18.8 36.2 25 36.2s11.3-5.1 11.3-11.3S31.2 13.6 25 13.6zm0 18.5c-4 0-7.3-3.3-7.3-7.3s3.3-7.3 7.3-7.3 7.3 3.3 7.3 7.3-3.3 7.3-7.3 7.3z"></path><ellipse transform="rotate(-25.24 36.749 13.28)" cx="36.7" cy="13.3" rx="2.6" ry="2.6"></ellipse><path d="M43.5 6.6C41.1 4.2 37.9 3 34.1 3H15.9C8.2 3 3 8.2 3 15.9V34c0 3.8 1.3 7.1 3.7 9.5C9.1 45.8 12.3 47 16 47h18c3.8 0 7-1.2 9.3-3.5 2.4-2.3 3.6-5.6 3.6-9.4V15.9c.1-3.8-1.1-7-3.4-9.3zm-.6 27.5c0 2.7-.8 4.9-2.4 6.5-1.6 1.5-3.8 2.3-6.5 2.3H16c-2.6 0-4.9-.8-6.4-2.3C7.9 39 7.1 36.8 7.1 34V15.9c0-2.7.8-4.9 2.4-6.5 1.5-1.5 3.8-2.3 6.4-2.3h18.3c2.7 0 4.9.8 6.4 2.4 1.6 1.6 2.4 3.8 2.4 6.4v18.2z"></path></symbol><symbol fill="currentColor" viewBox="0 0 50 50" id="icon-marker"><path d="M25 4c-8.2 0-14.9 6.8-14.9 15.1C10.1 29.9 25 46 25 46s14.9-16.1 14.9-26.9C39.9 10.8 33.2 4 25 4zm.2 21.8c-4.5 0-8.2-3.5-8.2-7.8s3.7-7.8 8.2-7.8 8.2 3.5 8.2 7.8-3.7 7.8-8.2 7.8z"></path></symbol><symbol fill="currentColor" viewBox="0 0 49 50" id="icon-play"><style></style><path d="M24.5 3C12.1 3 2 12.8 2 25s10.1 22 22.5 22S47 37.2 47 25 36.9 3 24.5 3zm-9 34.7V12.3l22 12.7-22 12.7z"></path></symbol><symbol fill="currentColor" viewBox="0 0 15 45" id="icon-sword"><path d="M7.3 11.4l.1 27.3.1 1.1.1-1.1.1-27.3c-.1 0-.2.1-.2.1s-.1 0-.2-.1z" fill="none"></path><path d="M13.9 9.6c-.4 0-.6.2-.7.4-.6 0-1.8-.1-2.8-.2C9 9.7 7.5 9 7.5 9s-1.5.7-2.9.9c-1 .1-2.2.3-2.8.2-.1-.3-.3-.5-.7-.5-.4 0-.7.3-.7.7s.4.7.7.7c.4 0 .6-.2.7-.6.6 0 1.6 0 2.7.1s1.3.3 1.9.5l-.1.3.4 28.7s.1 2.1.8 4.3c.7-2.2.8-4.3.8-4.3l.4-28.6-.1-.3c.7-.2.9-.4 1.9-.5 1.1-.1 2.1-.1 2.7-.1.1.3.3.6.7.6.4 0 .7-.3.7-.7s-.3-.8-.7-.8zM7.6 38.7l-.1 1.1-.1-1.1-.1-27.3c.1 0 .2.1.2.1s.1 0 .2-.1l-.1 27.3zM7 8.8c.2-.1.4-.1.5-.2.1.1.3.2.5.2.1-.6.2-2.5.1-4s-.2-2.7-.2-2.9c0-.1.1-.3.1-.5 0-.3.1-.4.1-.4S8 .8 7.8.8C7.6.7 7.5.7 7.5.7s-.2 0-.3.1c-.2 0-.4.2-.4.2s.1.1.2.3c0 .2.1.4.1.5 0 .3-.2 1.4-.2 3-.1 1.6 0 3.4.1 4z"></path></symbol><symbol viewBox="0 0 15.9 45.9" id="icon-test"><path class="st0" d="M8.5 9.1c.1-.6.2-2.5.1-4-.1-1.6-.2-2.7-.2-3 0-.1.1-.3.1-.5s.1-.4.1-.4-.1-.1-.3-.2h-.4-.3c-.2.1-.3.2-.3.2s.1.2.1.4.1.4.1.5c0 .3-.2 1.4-.2 3-.1 1.6.1 3.4.1 4 .3-.1.4-.2.6-.3.1.1.3.2.5.3m-.8 2.6L7.8 39l.2 1 .1-1.1.1-27.3c-.1 0-.2.1-.2.1h-.3zm1.3-.3l.1.3-.3 28.6s-.1 2.1-.8 4.3c-.7-2.2-.8-4.3-.8-4.3l-.4-28.6.1-.3c-.7-.2-.8-.4-1.9-.5-1.1-.1-2.1-.1-2.7-.1-.1.3-.3.6-.7.6-.4 0-.7-.3-.7-.7 0-.4.4-.7.7-.7.4 0 .6.2.7.4.6 0 1.8-.1 2.8-.2C6.4 10 8 9.3 8 9.3s1.5.7 2.9.8c1 .1 2.2.3 2.8.2.1-.3.3-.4.7-.4.4 0 .7.3.7.7 0 .4-.4.7-.7.7s-.6-.2-.7-.6c-.6 0-1.6 0-2.7.1-1.1.2-1.3.4-2 .6z"></path></symbol><symbol fill="currentColor" viewBox="0 0 50 50" id="icon-twitter"><path d="M48.5 10.4c-1.7.8-3.6 1.3-5.5 1.5 2-1.2 3.5-3.1 4.2-5.3-1.9 1.1-3.9 1.9-6.1 2.3-1.8-1.9-4.3-3-7-3-5.3 0-9.6 4.3-9.6 9.6 0 .8.1 1.5.2 2.2-8-.4-15.1-4.2-19.9-10.1C4 9 3.5 10.7 3.5 12.4c0 3.3 1.7 6.3 4.3 8-1.6-.1-3.1-.5-4.4-1.2v.1c0 4.7 3.3 8.6 7.7 9.5-.8.2-1.7.3-2.5.3-.6 0-1.2-.1-1.8-.2 1.2 3.8 4.8 6.6 9 6.7-3.3 2.6-7.5 4.1-12 4.1-.8 0-1.5 0-2.3-.1 4.3 2.7 9.3 4.3 14.8 4.3 17.7 0 27.4-14.7 27.4-27.4v-1.2c1.9-1.2 3.5-2.9 4.8-4.9z"></path></symbol></defs></svg></div>        
+<header class="header  header-fixed  js-fixed-header">
+	<div class="header__wrap  clear-inner-divs">
+					<a href="/" class="header__logo">
+				<img src="https://www.roundtablepizza.com/wp-content/uploads/2019/02/Round_Table_Logo-1.svg" alt="Round Table Pizza - 877-639-2361"> 
+			</a>
+		
+		<div class="header__nav  js-main-nav">
+            
+<nav class="nav">
+    <ul class="nav__list">
+                    <li class="nav__item  ">
+                <a class="nav__link" href="https://www.roundtablepizza.com/menu/">
+                    Menu
+                                        	<span>Our Pizza Rules</span>
+                                    </a>
+            </li>
+                    <li class="nav__item  ">
+                <a class="nav__link" href="https://www.roundtablepizza.com/locations/">
+                    Locations
+                                        	<span>Start Your Quest</span>
+                                    </a>
+            </li>
+                    <li class="nav__item  ">
+                <a class="nav__link" href="https://www.roundtablepizza.com/about/">
+                    About
+                                        	<span>The Legendary Tale</span>
+                                    </a>
+            </li>
+            </ul>
+</nav>
+
+		    <div class="header__social  social-list  d-block  d-lg-none  text-center">
+					
+	<ul class="social-list  is-inline">
+					<li class="social-list__item">
+				<a class="social-list__link" target="_blank" href="https://twitter.com/RoundTablePizza?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+					Twitter					<svg class="icon">
+				    	<use xlink:href="#icon-twitter"></use>
+					</svg>  					
+				</a>
+			</li>
+					<li class="social-list__item">
+				<a class="social-list__link" target="_blank" href="https://www.facebook.com/RoundTablePizza/">
+					Facebook					<svg class="icon">
+				    	<use xlink:href="#icon-facebook"></use>
+					</svg>  					
+				</a>
+			</li>
+					<li class="social-list__item">
+				<a class="social-list__link" target="_blank" href="https://www.instagram.com/roundtablepizza/?hl=en">
+					Instagram					<svg class="icon">
+				    	<use xlink:href="#icon-instagram"></use>
+					</svg>  					
+				</a>
+			</li>
+			</ul>
+		    </div>
+		</div>
+
+		<a href="/locations" class="header__banner banner  is-down  is-red  js-order-link">
+			Start<br>Your<br>Order
+
+			<span class="banner__point  is-first"></span>
+			<span class="banner__point  is-last"></span>
+		</a>
+
+		<div class="header__marker  d-lg-none">
+			<a href="/locations">
+				Locations
+				<svg class="icon">
+			    	<use xlink:href="#icon-marker"></use>
+				</svg>
+			</a>  					
+		</div>
+
+	    <div class="header__hamburger  js-hamburger">                       
+	        	            <span class="header__hamburger--line  line-1"></span>
+	        	            <span class="header__hamburger--line  line-2"></span>
+	        	            <span class="header__hamburger--line  line-3"></span>
+	        	            <span class="header__hamburger--line  line-4"></span>
+	        	            <span class="header__hamburger--line  line-5"></span>
+	        	    </div> 
+
+	    <div class="header__social  social-list  d-none  d-lg-block">
+				
+	<ul class="social-list  ">
+					<li class="social-list__item">
+				<a class="social-list__link" target="_blank" href="https://twitter.com/RoundTablePizza?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+					Twitter					<svg class="icon">
+				    	<use xlink:href="#icon-twitter"></use>
+					</svg>  					
+				</a>
+			</li>
+					<li class="social-list__item">
+				<a class="social-list__link" target="_blank" href="https://www.facebook.com/RoundTablePizza/">
+					Facebook					<svg class="icon">
+				    	<use xlink:href="#icon-facebook"></use>
+					</svg>  					
+				</a>
+			</li>
+					<li class="social-list__item">
+				<a class="social-list__link" target="_blank" href="https://www.instagram.com/roundtablepizza/?hl=en">
+					Instagram					<svg class="icon">
+				    	<use xlink:href="#icon-instagram"></use>
+					</svg>  					
+				</a>
+			</li>
+			</ul>
+	    </div>
+	</div>
+</header>
+		<main>
+			
+			
+
+
+
+    <section class="section  has-padding  wysiwyg  bg-white">
+        <div class="section__wrap">
+            <div class="wysiwyg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col  col-12">
+                                                    </div>
+                    </div>
+
+                	<div class="row">
+                		<div class="col  col-12">
+                            		    	            <p class="maintext">Global Franchise Group, LLC and its subsidiaries (collectively, “GFG” or “we”) have developed this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our brand websites for Round Table Pizza® Great American Cookies®, Pretzelmaker®, Marble Slab Creamery®, MaggieMoo’s Ice Cream &amp; Treatery®, and Hot Dog on a Stick, found at <a href="http://www.roundtablepizza.com">www.roundtablepizza.com</a>, <a href="http://www.greatamericancookies.com/" target="_blank" rel="noopener noreferrer">www.greatamericancookies.com</a>, <a href="http://www.pretzelmaker.com/" target="_blank" rel="noopener noreferrer">www.pretzelmaker.com</a>, <a href="http://www.marbleslab.com/" target="_blank" rel="noopener noreferrer">www.marbleslab.com</a>, <a href="http://www.maggiemoos.com/" target="_blank" rel="noopener noreferrer">www.maggiemoos.com</a>, <a href="http://www.hotdogonastick.com/" target="_blank" rel="noopener noreferrer">www.hotdogonastick.com</a> and <a href="http://www.globalfranchise.com/" target="_blank" rel="noopener noreferrer">www.globalfranchise.com</a> (the “Sites”). This Privacy Policy is applicable both to information collected from our customers and other visitors to the Sites and to those desiring information about or submitting applications to become GFG franchisees. Specific information regarding our collection and use of franchisee applicant information is found at the end of this Privacy Policy under “GFG Franchisee Information.” This Privacy Policy is incorporated into and subject to the Terms of Use. Each time that you use the Sites, you signify that you agree to be bound by the Terms of Service and this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you must discontinue using the Sites and accessing the services (“Services”) through the Sites. This Privacy Policy is applicable only to our collection of information on the Sites and does not describe our offline data practices.</p>
+<table class="maintext" border="1" cellspacing="2" cellpadding="2" align="center">
+<tbody>
+<tr>
+<td>
+<p align="center"><strong>Summary Description of this Privacy Policy</strong></p>
+<ul>
+<li>We do not sell or rent your information to third parties (other than in the unlikely event of a corporate transaction involving a sale or disposition of our company). If you purchase a product on the Site, your information will be shared with the third party franchisee of the store that you select to fulfill your order.</li>
+<li>If you provide us with your email address on the Sites, you will receive offers and promotions from GFG, but you may opt out of these communications at any time.</li>
+<li>We strive to provide visitors to the Sites with control over use of their personal information, including ability to update their account information and control their communications preferences, as well as control over any sharing over social networking media.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="maintext"><strong>I. INFORMATION WE COLLECT</strong></p>
+<p><strong>User Provided Information.</strong> We collect personal information from you when you submit information to or register for an account on any of the Sites. You may subscribe to receive offers and other information from any particular Site by submitting your name, email address and birth month and day to that Site. In order to purchase products on a Site, you may register for an account by providing your name, address, phone number and email address, and selecting a password. From time to time we may ask you to respond to surveys or other requests for information and, we collect the information you provide. We may collect information from you when you submit queries to customer service, order products online, or participate in sweepstakes, games or other promotions offered on our Sites. We may also collect information about you through other methods, including research surveys or information we obtain from third parties, including verification services, data services, as well as public sources. We use this information to continually offer you the most value as a visitor to our Sites.</p>
+<p><strong>Web Logs.</strong> Like most standard website servers, we log IP addresses (a unique number assigned to every computer on the Internet) in order to improve security, analyze trends and administer the Sites. We may track your movement within the Sites, the pages from which you were referred, access times and browser types. This information may include the browser you are using, the internet address from which you linked to our Sites, the operating system of your computer, the unique IP address of the computer you used to access our Sites, and usage and browsing habits. We use this information in the aggregate to gauge the effectiveness of our Sites, track information for statistical purposes, help diagnose and troubleshoot server malfunctions, analyze trends, track user movement in the aggregate, and gather broad demographic information. We may also use individual information we collect through web logs to send you targeted offers and other communications.</p>
+<p><strong>Cookies.</strong> To help make sure you receive information that is relevant to you, our Sites use data “cookies.” We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. We use persistent cookies to differentiate visitors to our Sites from registered users, to customize the content of certain sections of the Sites and to enable us to track and cater to the interests of users, in order to enhance their experience on the Sites. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. Cookies help us learn which areas of our Sites are useful and which areas need improvement. We will not use cookies or other data capture mechanisms to collect any personally identifiable information about you. You may configure your browser to prevent cookies from being set on your computer. If you reject cookies, you may still use the Sites, but your ability to use some areas of the Sites may be limited, and you may not be able to use certain features of the Sites.</p>
+<p><strong>Web Beacons.</strong> Our web pages and emails contain “web beacons.” Web beacons allow us to count users that have visited a web page or opened an email that contains a web beacon and collect other types of aggregate information. Using this information, we are able to measure the effectiveness of our advertising and how visitors use our Sites. This allows us to learn what pages are most attractive to our visitors, which parts of our Sites are the most interesting and what kind of offers our registered users like to see. Some of the web beacons that are in place on our Sites are used only by us, and other web beacons are from our service providers who use this data to assist us in analyzing how our Sites are used.</p>
+<p><strong>II. HOW WE USE YOUR INFORMATION</strong></p>
+<p><strong>Store Locators and Product Orders.</strong> Users may submit their zip codes in order to use our Sites’ Store Locator function. This information is used to direct the user to our nearest physical location. Information you submit in order to purchase products on the Sites is used to communicate with you and carry out the actions you request on the Site. This information may be shared with the third party franchisee operating the store that you select to complete your order, in order to communicate with you and otherwise facilitate your order. Payment information, such as credit card information, is used to make payment on your order and is not stored on a permanent basis.</p>
+<p><strong>Service Providers.</strong> We may use third party service providers to help us operate our business and the Sites or administer activities on our behalf, such as sending emails, processing orders, order fulfillment and sweepstake administration. We may share your information with these third parties for those limited purposes. These third parties are required to maintain the confidentiality of information they receive from us and are restricted from using the information for any purposes other than those authorized by us.</p>
+<p><strong>Other Uses:</strong> We collect and use personal information in the specific ways listed above, and generally to improve our Sites and services to you, as well as to meet our legal obligations. We also use personal information you provide to verify your identity, to collect upon unpaid accounts, to handle and settle inquiries or disputes. We may use your personal information to contact you about the services on our Sites for which you have expressed an interest, for example, if you have contacted customer service or made an inquiry. We may contact you to determine your satisfaction with ordering products through our web site via e-mail or phone.</p>
+<p><strong>Communications.</strong> We may send you service-related announcements and emails from time to time. We may also use your information to send you updates and communications about our products and services. To opt-out of our email programs, you can click “unsubscribe” on the bottom of any of our e-mails. To opt-out of emails you may receive on one of our Facebook applications, you may (i) Update your Facebook Application Settings by visiting <a href="http://www.facebook.com/editapps.php" target="_blank" rel="noopener noreferrer">www.facebook.com/editapps.php</a>, finding the application name, clicking “Edit Settings” and then unchecking “Receive updates to my Facebook contact email address” or (ii) Click the opt-out link in the body of the email.</p>
+<p><strong>Sweepstakes and Contests.</strong> On occasion, we offer sweepstakes, contests and other promotions. By participating in a promotion, you submit to that promotion’s terms and conditions including providing us with permission, if required, to share your personally identifiable information with any state’s filing requirements for winners of prize promotions.</p>
+<p><strong>Legal Matters; Safety.</strong> We may, without your consent, access and disclose your information, any communications sent or received by you, and any other information that we may have about you or your account as may be permitted or required by law (including, but not limited to, court order or subpoena), or to prevent or investigate suspected fraud, violations of our Terms of Service, or activity that appears to us to be illegal or may expose us to legal liability. Additionally, we may disclose your information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property if we believe that your information in any way relates to that threat.</p>
+<p><strong>Sale or Transfer of Business or Assets.</strong> In the event that we, or any of our subsidiaries or businesses, are sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, personally identifiable information of our visitors may be one of the assets sold or merged in connection with that transaction. Information about our visitors may also need to be disclosed in connection with a commercial transaction where we or any one of our businesses are seeking financing, investment, support or funding. In such transactions, personal information will be subject to the promises made in any pre-existing Privacy Policy in effect when the information was obtained.</p>
+<p><strong>III. CHOICE AND OPT OUT</strong></p>
+<p>You can choose not to receive promotional messages in the future by either following the “unsubscribe” instructions located near the bottom of each email, or by emailing us at<a class="textlinks" href="mailto:privacy@gfgmanagement.com">privacy@gfgmanagement.com</a> or sending postal mail to the following address:</p>
+<p>Global Franchise Group, LLC<br>
+5555 Glenridge Connector Suite 850<br>
+Atlanta, GA 30342</p>
+<p>Please note, changes may not be effective immediately. In each event, you must clearly indicate the information that you wish to have changed or clearly indicate that you wish to have your personally identifiable information removed from our database. We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for record keeping purposes and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. Finally, we are not responsible for informing third parties (including without limitation our third party service providers or strategic partners) with whom we have already shared your personally identifiable information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.</p>
+<p><strong>IV. ACCESS TO YOUR INFORMATION</strong></p>
+<p>If you are a registered user on any of our Sites, you can update your information at any time. To do this, just log in under “My Account” on the relevant Site and update your personal information as needed. You may also contact us to correct or modify the information you provide through the Sites. If for any reason you are concerned that the personal information you provided to us is not correct and you cannot change it by accessing your account, or should you wish to have your email address removed from our mailing list or contact information changed, please contact us at privacy@gfgmanagement.com. We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our Terms of Use, and due to technical and legal requirements and constraints related to the security, integrity and operation of our Sites.</p>
+<p><strong>V. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION</strong></p>
+<p><strong>Links to other sites.</strong> The Sites may contain links to other sites that are not operated by GFG. GFG IS NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OR THE CONTENT OF SUCH OTHER WEBSITES, INCLUDING WEBSITES OPERATED BY INDEPENDENT OR AFFILIATED FRANCHISEES. We provide such links only as a convenience and the inclusion of a link on the Sites does not imply endorsement of the linked site by GFG. If you provide any personally identifiable information through any such third party website, your transaction will occur on such third party’s website and the personally identifiable information you provide will be collected by and controlled by the privacy policy of that third party and is not subject to this Privacy Policy. We recommend that you check the privacy policies of these sites to determine how your personal information will be utilized by the proprietors of those third party sites.</p>
+<p><strong>Security.</strong> The Sites have reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. When you submit sensitive information via our Sites, such as credit card or other financial information, that information is subject to secure sockets layer (SSL) encryption technology. However, no data transmission over the Internet can be guaranteed as 100% secure. As a result, while we strive to protect your personal information during transmission, we cannot ensure or warrant the security of any information you transmit to us or receive from us. We urge you to take steps to keep your personal information safe (including your account password), log out of your account after use, and close your web browser.</p>
+<p><strong>A Note to International Users.</strong> By consenting to this Privacy Policy, you confirm that your command and knowledge of English is sufficient to understand the terms and conditions set forth herein. You agree that by using the Sites, your personal data will be transferred to our servers located in the United States in connection with the purposes stated in this Privacy Policy. You understand that the laws with respect to the protection of personal data in the United States may not be as stringent as those in your home jurisdiction and the Sites may not comply with foreign law, so if you do not agree with this, please do not use the Sites.</p>
+<p><strong>California Privacy Rights.</strong> If you are a California resident, you may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the address above in “Contacting Us”.</p>
+<p><strong>Children’s Privacy.</strong> The Sites are not directed or intended for children under 13 years of age. We do not knowingly collect personal information from individuals under 13 years of age. If you are under 13 years of age, you should not register or provide personal information on the Sites. If we later obtain actual knowledge that a user is under 13 years of age, we will take steps to remove that user’s personal information from our systems. If you are the parent or guardian of a child whom you believe has disclosed personal information to us, please contact us at privacy@gfgmanagement.com so that we may delete and remove such child’s information from our systems.</p>
+<p><strong>Changes to the Privacy Policy.</strong> We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Sites, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, you will know because the Effective Date of the Privacy Policy will change. If we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Sites or our services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the privacy policy in effect when the information was obtained from you.</p>
+<p><strong>Disputes.</strong> If you choose to visit the Sites your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use including limitations on damages, arbitration of disputes, and application of the laws of the State of Georgia.</p>
+<p><strong>Contacting Us.</strong> If you have any questions about this Privacy Policy, or the practices of the Sites, please visit our Contact Page or write to us at:</p>
+<p>Global Franchise Group, LLC<br>
+5555 Glenridge Connector Suite 850<br>
+Atlanta, GA 30342<br>
+Phone: (770) 514-4500</p>
+<p><strong>VI. GFG FRANCHISEE INFORMATION</strong></p>
+<p>Visitors to the Sites who may be interested in receiving information on becoming a franchisee of any of our brands may visit the “Franchise Info” portion of our Sites, which directs the visitor to the<a href="http://www.globalfranchise.com/" target="_blank" rel="noopener noreferrer">www.globalfranchise.com </a> (“Franchisee Site”).</p>
+<p><strong>Information We Collect.</strong> Visitors to the Franchisee Site may request franchise information in addition that available on the Franchisee Site by completing the Express Request Form found under “Request Franchise Information” for each brand. The Express Request Form requires the name, address, email address, and phone number of interested parties, along with information relevant to franchise opportunities such as net worth, available investment amount and preferred location.</p>
+<p>Site visitors desiring to apply for a GFG franchise may complete the Franchise Application located on the Franchisee Site. This application by necessity requires the submission of a considerable amount of personal information, including personal financial information, including without limitation: name, address, email, birthdate, Social Security Number, spouse’s name, birthdate and Social Security Number, financial asset descriptions and amounts, information regarding citizenship or resident alien status, employment history, criminal record, and information relative to credit history such as past or current bankruptcy or litigation.</p>
+<p><strong>How We Use Your Information.</strong> The information you submit on the Franchise Application is provided under Secure Socket Layer (SSL) encryption. We may also collect information about you from third party public and private sources, including those that you consent to as part of the Franchise Application (namely, reference checks, credit reports, criminal and other investigative reports). As enhanced by these sources, the personal information you provide is used internally by GFG to assess your fitness to obtain a GFG franchise and to communicate with you throughout the process. In the process of acting upon an application, we may disclose to an employment or other reference provided by you or described in your employment history that you have made an application for a franchise. The information provided as part of the Franchise Application will not be sold or shared with third parties, and will be held and protected as stated generally in this Privacy Policy for all personally identifiable information collected by us.</p>
+<p>Should you desire to withdraw an application for a GFG franchise, amend your prior application, or have your personal information deleted from our systems, please contact us as noted above under “Contact Us,” and we will act upon your request as appropriate. Please note, however, that in certain circumstance we may still retain your information in our files in order to resolve disputes, enforce our Terms of Use, or due to technical and legal requirements involving our information systems and operations.</p>
+<p><strong>Communications.</strong> We may send you service-related announcements and emails from time to time. We may also use your information to send you updates and communications about our products and services. To review the terms of use for the Slab Happy Rewards Application administered by Passmarket visit <a href="https://www.passmarket.com/terms" target="_blank" rel="noopener noreferrer">https://www.passmarket.com/<wbr>terms</a>. To opt-out of our email programs, you can click ?unsubscribe? on the bottom of any of our e-mails. To opt-out of emails you may receive on one of our Facebook applications, you may (i) Update your Facebook Application Settings by visiting<a class=" adaNewWindowInfo" href="http://www.facebook.com/editapps.php" target="_blank" rel="noopener noreferrer">www.facebook.com/editapps.php</a>, finding the application name, clicking ?Edit Settings? and then unchecking ?Receive updates to my Facebook contact email address? or (ii) Click the opt-out link in the body of the email.</p>
+<p>(c) 2015 Global Franchise Group, LLC</p>
+    					</div>
+    				</div>
+    			</div>
+            </div>
+        </div>
+    </section>
+
+		</main>
+
+		<footer class="footer">
+			<div class="footer__wrap">
+				<div class="container">
+					<div class="row  d-flex  align-items-center">
+						<div class="col  col-6  col-md-4  col-lg-7">
+							<div class="row  d-flex  align-items-center">
+								<div class="col  col-12  col-lg-6  order-2  order-lg-1">
+									<p class="h6  text-white-alt">Follow the Legend
+
+										
+	</p><ul class="social-list  is-large  is-inline">
+					<li class="social-list__item">
+				<a class="social-list__link" target="_blank" href="https://twitter.com/RoundTablePizza?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+					Twitter					<svg class="icon">
+				    	<use xlink:href="#icon-twitter"></use>
+					</svg>  					
+				</a>
+			</li>
+					<li class="social-list__item">
+				<a class="social-list__link" target="_blank" href="https://www.facebook.com/RoundTablePizza/">
+					Facebook					<svg class="icon">
+				    	<use xlink:href="#icon-facebook"></use>
+					</svg>  					
+				</a>
+			</li>
+					<li class="social-list__item">
+				<a class="social-list__link" target="_blank" href="https://www.instagram.com/roundtablepizza/?hl=en">
+					Instagram					<svg class="icon">
+				    	<use xlink:href="#icon-instagram"></use>
+					</svg>  					
+				</a>
+			</li>
+			</ul>
+				        
+								</div>
+
+								<div class="col  col-12  col-lg-6  order-1  order-lg-2  mb-4  mb-lg-0">
+									<div class="footer__logo">
+								    	
+									    	<a href="/"><img src="https://www.roundtablepizza.com/wp-content/uploads/2019/04/RTP_Seal_Revised-1-1.svg" alt="Round Table Pizza - 877-639-2361"></a>
+								    		
+								    </div>
+								</div>
+							</div>
+					    </div>
+
+					    <div class="col  col-6  col-md-8  col-lg-5">
+					    	
+<nav class="nav">
+    <ul class="nav__list  is-footer">
+                    <li class="nav__item  ">
+                <a class="nav__link" href="/birthday-parties-events" target="">
+                    Birthday Parties &amp; Events
+                                    </a>
+            </li>
+                    <li class="nav__item  ">
+                <a class="nav__link" href="/gift-cards" target="">
+                    Gift Cards
+                                    </a>
+            </li>
+                    <li class="nav__item  ">
+                <a class="nav__link" href="/wp-content/uploads/2019/06/RTP-Nutritional-Info-Updated.pdf" target="_blank">
+                    Nutrition Info
+                                    </a>
+            </li>
+                    <li class="nav__item  ">
+                <a class="nav__link" href="/faqs" target="">
+                    FAQ
+                                    </a>
+            </li>
+                    <li class="nav__item  ">
+                <a class="nav__link" href="/wp-content/uploads/2019/06/RTP-Allergen-Information.pdf" target="_blank">
+                    Allergen Info
+                                    </a>
+            </li>
+                    <li class="nav__item  ">
+                <a class="nav__link" href="/careers" target="">
+                    Careers
+                                    </a>
+            </li>
+                    <li class="nav__item  ">
+                <a class="nav__link" href="https://roundtablepizzafranchise.com/" target="_blank">
+                    Franchising
+                                    </a>
+            </li>
+                    <li class="nav__item  ">
+                <a class="nav__link" href="/catering" target="">
+                    Catering
+                                    </a>
+            </li>
+                    <li class="nav__item  ">
+                <a class="nav__link" href="/press" target="">
+                    Press
+                                    </a>
+            </li>
+                    <li class="nav__item  ">
+                <a class="nav__link" href="/contact-us" target="">
+                    Contact Us
+                                    </a>
+            </li>
+            </ul>
+</nav>
+					    </div>
+					</div>
+
+					<div class="row  secondary-row">
+						<div class="col  col-12  col-md-6  col-lg-4  footer__copyright">
+															<div class="widget_text widget-copyright"><div class="textwidget custom-html-widget">©<script>document.write(new Date().getFullYear())</script>2020 Round Table Pizza
+a Global Franchise Group® LLC Company 
+
+<script type="text/javascript">
+	$(window).on('load', function(){
+		if( $('.page-template-page-menu').is('*') ){
+			$('.js-menu-sections').css('height', 'auto');
+		}
+	});
+</script></div></div>													</div>
+						<div class="col  col-12  col-md-6  offset-lg-3   col-lg-4 footer__secondary-links">
+															<div class="widget_text widget-footer-link"><div class="textwidget custom-html-widget"><a href="/privacy-policy">Privacy Policy</a><span>|</span><a href="/terms-conditions">Terms &amp; Conditions</a>
+<br>
+<a href="http://www.globalfranchise.com/accessibility-statement/" target="_blank" rel="noopener noreferrer">Accessiblity Statement</a>
+</div></div>													</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+	</div><!-- #content -->
+</div><!-- #page -->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.roundtablepizza.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.roundtablepizza.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.roundtablepizza.com/wp-content/themes/rtp/source/scripts/libraries/perfect-scrollbar/perfect-scrollbar.min.js?ver=5.2.2"></script>
+<script type="text/javascript" src="https://www.roundtablepizza.com/wp-content/themes/rtp/assets/scripts/main.bundle.js?ver=5.2.2"></script>
+<script type="text/javascript" src="https://www.roundtablepizza.com/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9d0768913d","applicationID":"288734948","transactionName":"MVVUN0UHD0FZUURdWAgfdwBDDw5cF0JRU1I=","queueTime":0,"applicationTime":97,"atts":"HRJXQQ0dHE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.roundtablepizza.com @ 2019-06-30 11:25:45 by W3 Total Cache
+--></body></html>
