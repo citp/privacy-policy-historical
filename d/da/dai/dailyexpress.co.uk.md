@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailyexpress.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231040824id_/https%3A//www.express.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyexpress.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223016id_/https%3A//www.express.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Express.co.uk
 
-Express Newspapers, TM Publishing 1 Plc and TM Magazines Limited (together we/us) publish a number of publications including the Daily Express, Daily Star, Daily Star Sunday, Sunday Express, OK! and new!. This is the Privacy Policy for these online publications and for certain services provided through our websites and mobile applications (“our sites”).
+Express Newspapers, Reach Magazines Publishing Plc and Reach Magazines Limited (together we/us) publish a number of publications including the Daily Express, Daily Star, Daily Star Sunday, Sunday Express, OK! and new!. This is the Privacy Policy for these online publications and for certain services provided through our websites and mobile applications (“our sites”).
 
 This policy explains how we make use of personal data we collect. We are committed to your right to privacy and will only use your data as set out in this Privacy Policy. Please read this information carefully. By using our sites and submitting information, you consent to the collection and use of your personal data by us as described in this Privacy Policy.
 
@@ -139,7 +139,7 @@ This Privacy Policy should be read together with our [Cookie Policy](https://www
 
  **Legal information and how to contact us**
 
-Under the EU General Data Protection Regulation (GDPR) we have to say who the 'controller' is for services provided through our sites. The controller is the department responsible for protecting information and, in our case, is the Data Protection Team, Express Newspapers, The Northern & Shell Building, 10 Lower Thames Street, London, EC3R 6EN or emailing us at [data.protection@express.co.uk](mailto:data.protection@express.co.uk) 
+Under the EU General Data Protection Regulation (GDPR) we have to say who the 'controller' is for services provided through our sites. The controller is the department responsible for protecting information and, in our case, is the Data Protection Team, Express Newspapers, The Northern & Shell Building, 10 Lower Thames Street, London, EC3R 6EN or emailing us at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com)
 
 If you would like to exercise your data subject rights or have any questions about this Privacy Policy, please address your request to the ‘Data Protection Team’ at the address shown or email above.  
 
@@ -147,16 +147,18 @@ If you would like to exercise your data subject rights or have any questions abo
 
 For all general enquiries regarding the Daily Express, Daily Star, Daily Star Sunday, Sunday Express, OK! and new! websites please contact us using the details below.
 
- **Email:  **[ **web.help@express.co.uk**](mailto:web.help@express.co.uk)
+ **Email:   [Expresswebnews@reachplc.com](mailto:Expresswebnews@reachplc.com) **
 
- **Phone General Enquiries:** 020 8612 7000
+**Phone General Enquiries:** 020 7293 3000
 
- **Address:** Electronic Customer Relationship Management Department
+ **Address:**  Express Online Electronic Customer Relationship Management Department
 
-Express Newspapers and TM Publishing 1 Plc
+Reach PLC,
 
-The Northern & Shell Building,   
-10 Lower Thames Street,   
-London,
+One Canada Square,
 
-EC3R 6EN
+Canary Wharf,
+
+London
+
+E14 5AP
