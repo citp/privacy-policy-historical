@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017224726id_/http%3A//www.theweathernetwork.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630084711id_/https%3A//www.theweathernetwork.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Weather Network
 
@@ -241,7 +241,7 @@ The cookies outlined below are not strictly necessary cookies.
   
 **Targeting cookies.** | 
 
-  * These cookies record your visit to the websites and/or your use of the services, the pages you have visited and the links you have followed. We will use this information to make the websites and the services and the advertising displayed on them more relevant to your interests. We may also share this information with third parties for this purpose. These cookies are not stored on mobile devices.
+  * These cookies record your visit to this website and/or your use of the services, the pages you have visited and the links you have followed. Through its participation in the advertising programmatic auctioning eco-system ("a technology ecosystem to automatically buy and sell targeted online advertising in real-time") run by Google, Twitter and other major players and associated ad-technologies, Pelmorex as well as other advertising vendors can track your visits to other advertising powered websites around the internet. We will use this information to make the websites and the services and the advertising displayed on them more relevant to your interests. We also segment the data with other users and utilize it for content/advertising and share the segment data with third parties in order to provide more relevant advertising. These cookies are not stored on mobile devices.
 
   
 **Demographic information.** | 
