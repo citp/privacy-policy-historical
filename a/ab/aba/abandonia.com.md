@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abandonia.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208054312id_/http%3A//www.abandonia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abandonia.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233857id_/http%3A//www.abandonia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Abandonia
 
