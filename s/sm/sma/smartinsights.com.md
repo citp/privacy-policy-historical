@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartinsights.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226173209id_/https%3A//www.smartinsights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartinsights.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630222457id_/https%3A//www.smartinsights.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smart Insights
 
@@ -8,11 +8,11 @@ At Smart Insights, we aim to be open about the way our site works to collect use
 
 The data controller responsible in respect of the information processed on this website is Smart Insights (Marketing Intelligence) Limited.
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to support@smartinsights.com or by post to Smart Insights (Marketing Intelligence) Limited, Suite 5, West Wing, Jason House, Kerry Hill, Horsforth, Leeds, LS18 4JR, United Kingdom.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to support@smartinsights.com or by post to Smart Insights (Marketing Intelligence) Limited, Suite 6 & 7, West Wing, Jason House, Kerry Hill, Horsforth, Leeds, LS18 4JR, United Kingdom.
 
 ### 1.1.2     Your rights
 
-It is important for you to understand and be able to exercise your ‘data rights’; in particular, your right to not to have personal data used for direct marketing purposes. Under the General Data Protection Regulations (GDPR), you have the right to access, modify, and delete your data. 
+It is important for you to understand and be able to exercise your ‘data rights’; in particular, your right to not to have personal data used for direct marketing purposes. Under the General Data Protection Regulations (GDPR), you have the right to access, modify, and delete your data.
 
 #### 1.1.2.1   Withdrawal of consent including marketing opt-out
 
