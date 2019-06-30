@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleverify.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230095136id_/https%3A//www.doubleverify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleverify.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630195127id_/https%3A//www.doubleverify.com/privacy) for the most accurate reproduction.*
 
 # Privacy | DoubleVerify
 
@@ -79,8 +79,6 @@ Additionally, we process your personal data when necessary to do so for fraud an
 
 If there is no other lawful basis for data processing, we will ask for your consent to process your personal data. You have the right to withdraw your consent to processing of personal data at any time.
 
-If you wish to exercise the right to withdraw consent, contact us using the information found in the “Contact” section below.
-
 **Transfers of Personal Data**
 
 Please be aware that the personal data we collect may be transferred to and maintained on servers or databases located outside your state, province, country, or other jurisdiction, where the privacy laws may not be as protective as those in your location. If you are located outside of the United States, please be advised that we process and store personal data in the United States.
@@ -97,7 +95,7 @@ You have a right to the following:
 
 
 
-To exercise these rights, contact us using the “Contact” section below. Please be aware that DoubleVerify may be unable to afford these rights to you under certain circumstances, such as if we are legally prevented from doing so.
+To exercise these rights, contact us using the [**Opt-out Form**](https://www.doubleverify.com/optout/). Please be aware that DoubleVerify may be unable to afford these rights to you under certain circumstances, such as if we are legally prevented from doing so.
 
 Additionally, you have the right to lodge a complaint against us. To do so, contact the supervisory authority in your country of residence.
 
