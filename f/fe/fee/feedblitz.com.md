@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the feedblitz.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228182907id_/https%3A//www.feedblitz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedblitz.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223948id_/https%3A//www.feedblitz.com/privacy) for the most accurate reproduction.*
 
 # FeedBlitz Privacy Policy | FeedBlitz
+
+Whether you’re using FeedBlitz to send emails to your list(s), or you’re a subscriber getting (or signing up for) updates that we send, or simply visiting a FeedBlitz owned web site, this policy applies to you.
 
 In more or less plain English, this is what our privacy policy says:
 
