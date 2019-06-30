@@ -1,138 +1,118 @@
-> *The following text is extracted and transformed from the whichcar.com.au privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610065128id_/http%3A//www.carpoint.com.au/carpoint-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whichcar.com.au privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630023810id_/https%3A//www.bauer-media.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - carpoint.com.au
+# Privacy - Bauer Media
 
-**About this Policy**  
-This policy sets out how carsales.com Limited (carsales) collects, uses and discloses your personal information.
+## BAUER MEDIA PTY LTD: PRIVACY POLICY
 
-If you disclose personal information to third parties this policy will not apply and you will be subject to the privacy policy of that third party.
+PRIVACY POLICY  
+In this policy “we”, “us’ and “our” means Bauer Media Pty Limited, its subsidiaries and affiliated companies. Please read this policy carefully as it describes the way in which we collect and handle your personal information. We may update or revise this policy from time to time. If we elect to update or revise this policy, we will post the date on which that revision takes effect at the end of this policy. Please be aware that you have no obligation to provide any personal information requested by us. However, if you choose to withhold your personal information, we may not be able to provide you with the services or products that depend on the collection and use of that information.
 
-By accessing or using carsales services, including the carsales Network you agree to the collection, use and disclosure of your personal information in the manner described in this policy.
+1 OUR PRIVACY COMMITMENT  
+We recognise the importance of, and are committed to, managing any personal information that we collect in compliance with the Privacy Act 1988 (Cth), which includes the Australian Privacy Principles, and other Australian privacy laws (together, “Privacy Laws”). As a member of the Australian Press Council (“APC”), we also ensure any personal information we collect in the course of our journalistic activities is managed in accordance with the APC Statement of Privacy Principles.
 
-Words defined in the carsales Terms and Conditions of Use have the same meaning in this Privacy Policy.
+2 HOW DO WE COLLECT PERSONAL INFORMATION?  
+Where possible, we collect your personal information directly from you. This collection includes through your:  
+· registration when you purchase a product, magazine or digital subscription;  
+· entry into promotions or competitions;  
+· answers to surveys;  
+· signing up to newsletters and other notifications from our magazines and other brands;  
+· signing up to join our online communities;  
+· registration to attend events;  
+· provision of express permission when accessing applications sitting on Bauer brand social media accounts;  
+· application for an internship or employment with us;  
+· communications with us such as letters, telephone calls, text messaging and emails regarding services and products;  
+· registration for our loyalty clubs; and  
+· download and use of our digital publications and mobile applications (“apps”).  
+In some circumstances, however, we may also collect your personal information from third parties or public agencies where it is unreasonable or impracticable for us to collect the personal information directly from you. For example, if you subscribe to one of our magazines through a third party that is authorised to take subscriptions for us, we will collect your personal information from that third party. If we have difficulty in delivering a magazine to you, we may make enquiries in an effort to locate your address or correct any error in our recorded address details for you.  
+In some circumstances, we may provide you access to our online communities through the option of a third party platform sign on (including but not limited to, social sign ons). In this instance we will be accessing and collecting the personal information which you have authorised the third party platform to pass on to us. Where we collect personal information from third parties, we will ensure that the collection is conducted in a fair and lawful manner and the information is reasonably necessary for our functions or activities.
 
-**Carsales and privacy**  
-carsales.com.au is bound by the Privacy Act (1988).
+3 WHAT PERSONAL INFORMATION DO WE COLLECT?  
+The personal information we collect varies depending upon the purpose of the collection and the product or service we are providing you. Generally, we collect and hold the following types of personal information:  
+· your name and address;  
+· your telephone number;  
+· your e-mail contact details;  
+· your date of birth;  
+· your gender;  
+· other information you may make publically available online (including but not limited to on social media platforms);  
+· transaction details, if you make a purchase with us or choose to store details in your online profile;  
+· bank account/credit card numbers and associated details as reasonably required in relation to processing payments at your request; and  
+· any other personal information which may be required in order to facilitate and where possible improve your dealings with us.  
+However, for certain purposes, such as where you apply for employment with us, we will collect additional personal information such as your employment history, educational history and employment references.  
+We generally do not collect sensitive information that is associated with an identifiable individual.  
+We may from time to time collect information that would be sensitive personal information about you with your consent where the collection is related to provision of a service or other benefit to you. For example, we collect information from expectant mothers in relation to them and their families with their consent, in order to provide them with baby products and associated maternity benefits.  
+We may collect information from you about particular health concerns, gender orientation or other sensitive information with your consent, in order to provide you with offers or promotions related to your concerns or status.  
+In the event that we are required to collect sensitive personal information, we will notify you of this at the point of collection and obtain your consent to collect and hold this sensitive personal information.  
+If you provide us with sensitive information on an unsolicited basis, we assess whether such information is reasonably necessary for one or more of our functions or activities. The unsolicited sensitive information you disclose to us may be used and disclosed for the purpose for which you provided such information or, where you would reasonably expect us to, we may use the information for a directly related secondary purpose. We may also disclose or use the information for other purposes with your consent or if required to by law.
 
-**What personal information is collected?**  
-carsales collects personal information to assist it and its related bodies corporate to conduct their activities and provide the range of services they offer.
+4 WHY DO WE COLLECT AND USE YOUR PERSONAL INFORMATION?  
+We will collect your personal information if it is reasonably necessary for the performance of our business activities and functions, which includes providing a range of products and services to you, some of which are listed below.  
+4.1 Registration for magazine subscriptions  
+We collect personal information from individuals who purchase products or subscribe to magazines that we publish and magazines that we represent through Magshop in order to process their payments, fulfil their order and to confirm whether they would like to receive promotional materials in the future.  
+We will also seek your consent to send to you Magshop promotional material and special offers. Where you have a subscription for a magazine published by us or purchased from us through Magshop, then we will also send you renewal notices and that magazine’s regular newsletter as well as promotional material. Occasionally (where notice has been given) you may also be sent special offers from third parties associated with that magazine.  
+4.2 Sales Promotions, Competitions, Surveys and registration to attend our events  
+We collect personal information when you respond to one of our promotions, competitions or surveys or when you register to attend an event in order to inform you if you have won a prize, to place you on a guest-list to the event and to help us better understand what products and services you would like to receive information about in the future.  
+4.3 Our mobile apps  
+We, or a service provider, may collect information through our apps to assist us in understanding how you use our apps, how the apps are performing across different handsets and to assist us in the selection of advertisements for groups of individuals. Our access to this information, is as you have agreed to with the respective app store from which you download our app.  
+4.4 Registration for our newsletters, online communities and/or loyalty clubs  
+We collect personal information when you sign up to register for our newsletters or join one of our online communities or loyalty clubs. By providing this personal information we are able to keep you updated on special offers and events that you may be interested in and to reward your commitment to the brands.  
+4.5 Our online communities  
+We collect personal information from you when you participate in any activity on our online communities. By providing personal information to us during such activity, we can assist in identifying ways in which we can provide you with a better service, or enhance your online experience.  
+4.6 Employment or internship  
+We collect personal information from applicants who are seeking employment or an internship with us as part of the recruitment process. In circumstances where you do not provide the mandatory personal information, we will be unable to consider you for a position with us.  
+4.7 Bounty Rewards  
+We collect your personal information when you register with Bounty Rewards in order to keep you informed of upcoming offers, new products and services and periodically you may be sent newsletters, communications or special offers directly from third party clients.  
+We also use your personal information to help us verify your identity, display content and advertising that are customised to your interests, preferences and experiences and for business research and product development.  
+From time to time there may be other purposes for which we collect, hold, use and disclose your personal information. We will tell you about these at the point of collection.  
+4.8 Direct Marketing and Research  
+As set out above, we may use personal information about you for marketing and research purposes. However, you can manage your communication preferences with us in a number of ways, eg if you are an online customer, you will be provided options to manage your own online profile; you may also contact our Privacy Officer. In addition, the marketing communications that we send to you will also contain information on how to unsubscribe from those communications.  
+You can also tell us at any time if you do not want us to disclose your details to other organisations such as our related companies or third parties for marketing purposes. To do this, you just need to contact our Privacy Officer.  
+Sometimes we extract information from our collected records to produce aggregated data. This aggregated data does not identify individuals. We use the aggregated data for research purposes, product development and may share the data with third parties.
 
-Personal information collected by carsales may include:
+5 WHO DO WE DISCLOSE YOUR PERSONAL INFORMATION TO?  
+We provide your personal information to third parties where you have consented to such disclosure. We also provide your personal information to third parties in order to carry out our business activities and functions. This may include:  
+· organisations who are sponsoring or otherwise involved with or participating in a promotion, offer, competition or survey;  
+· other companies or individuals we engage to perform functions on our behalf, such as mailing a subscription, processing credit card information, mailing information or prizes, data analysis, telemarketing, research and advertising, IT support services; and  
+· with your specific and prior consent, to other companies or individuals for the purposes you have consented to.  
+We disclose your personal information offshore to our owners, joint venture partners, service providers and agents. It is not practicable to specify all countries to which we may disclose your personal information as, among other things, we are part of a global organisation. The countries and regions your personal information will be disclosed to include New Zealand, the USA, Philippines and Europe.  
+We ensure that any organisation which we disclose your personal information to is subject to appropriate contractual obligations to safeguard and protect your personal information and comply with all Privacy Laws.  
+In certain circumstances, we may disclose your personal information where required or authorised to do so by law, including in emergency situations and to assist law enforcement agencies. We will always ensure that those to whom we disclose your personal information have the legal right to receive it.
 
-  * identification details, which may include name, birth date, gender, security questions and answers;
-  * bank account and credit account details;
-  * user ID's and passwords;
-  * services provided to you, including saved items and searches
-  * business information, such as ABN and licence number;
-  * information submitted in placing an advertisement, for example vehicle details and pricing;
-  * information submitted in applying for a finance or insurance related product; 
-  * information about the devices on which you visit the carsales Network, and your activities on those sites;
-  * third party account details (for example where you sign in through a social network);
-  * social profile information;
-  * records and content of communications with carsales or any other person including records and content using Communications Services (as that term is defined in carsales’ Terms and Conditions of Use).  Please note that such records and content may be stored and scanned by carsales. 
+6 HOW IS YOUR PERSONAL INFORMATION SECURED?  
+We understand that the security of your personal information is important. As such, we take reasonable steps to protect your personal information from misuse, interference, loss, unauthorised access, modification or disclosure. We store information both at an onsite secure server and at trusted third party storage providers. We undertake regular training of relevant staff to ensure that they are aware of our privacy commitments and our obligations in the collection, use and disclosure of personal information. Our staff is also required to sign in and use a password when accessing our secure systems.
 
+7 ACCESS TO AND CORRECTION OF PERSONAL INFORMATION  
+In certain circumstances where you have a sign in to your customer details and/or you can access your own personal information via your membership you will be required to follow prompts to access, correct or update your personal information. If this option is available to you directly, we will clearly mark it for ease of access.  
+You can access or correct your personal information by contacting us using the ‘Contact Details’ set out below. Please provide us with as much detail as you can about the particular information you wish to access or correct, in order to help us retrieve it. We may charge you an access fee to cover our costs of providing that information to you. We will inform you of applicable fees before they are incurred.  
+In certain circumstances, we may refuse your request to access, or correct, your personal information. If that is the case, we will provide you with reasons for that decision unless it is unreasonable for us to do so.  
+We take reasonable steps to make sure that the personal information we collect is accurate, complete and up-to-date including updating personal information when we are advised by you that your personal information has changed.  
+If you wish to delete the personal information we hold about you, please let us know by contacting us using the ‘Contact Details’ set out below and we will take reasonable steps to delete the information, unless we are required to retain it for legal reasons.
 
+8 THE USE OF COOKIES AND WEB BEACONS THROUGH OUR WEBSITES AND APPS  
+Information may be collected when you access our websites or apps, such as the time and specific page or app you visited. This information is collected through “cookies”. A “cookie” is a small piece of information, or file, that a website or app sends to your computer’s hard drive while you are viewing that website or app for record keeping purposes. Most web browsers are automatically set to accept cookies. If you do not wish to receive any cookies you may set your browser to refuse cookies. However, this will mean you will not be able to take full advantage of our websites or apps.  
+We, and our service providers, use the information collected from cookies for a number of reasons:  
+· for statistical purposes in order to track how many users we have and how often they visit our website or apps;  
+· to provide statistical data, ratings and other information for industry and other public reporting;  
+· to provide you with a more personalised, convenient and interactive experience on our websites or apps;  
+· to track who has viewed an advertisement or clicked-through an advertisement; and  
+· to provide you with a more targeted advertising experience both on and off our websites or apps, allowing us to impose restrictions where appropriate and monitor how effective an advertising campaign has been.  
+We sometimes use services, including Google Adsense, DoubleClick, Adobe, Nielsen and Facebook, in activities such as analytics and online behavioural advertising, to provide you with more relevant messages. You can find more information on these services and choose to opt-out from services of your choice by using this website http://optout.networkadvertising.org. You will still see advertising after opting out, however it won’t be tailored to your likely interests. Opt-outs only apply to online behavioural advertising and do not apply to other technologies such as email and social advertising.
 
-**How is personal information collected?**  
-carsales collects personal information in a number of ways, including:
+9 THIRD PARTY WEBSITES  
+When you click on advertisements or links on any of our websites or through our apps, you may be redirected to a third party website. The linked websites are not under our control and we are not responsible for the conduct of companies linked to our websites or apps. By placing a link to a particular product, we are in no way endorsing that product. We recommend that, before disclosing your personal information to a website to which you were redirected from an advertisement, you read that website’s privacy policy and terms of use/service.
 
-  * directly from you when you provide information directly to carsales in person, by phone or in writing (whether electronic or otherwise) for example when you create an advertisement on one of our websites; when you enquire about an item on one of our websites; or in a contract with your business to provide you with our services;
-  * directly from you when you communicate with carsales or any other person using carsales Communications Services;
-  * from third parties such as:
-    * carsales related companies; resellers of carsales services and service providers to carsales;
-    * operators of linked or served web sites, applications and advertising on the carsales network;
-    * social networks where you choose to share that information when creating an account;
-  * from 3rd party data providers who have been directed by you to send us information on your behalf;
-  * through use of carsales proprietary software in which personal information is stored;
-  * from organisations identified or described under the heading "How is personal information disclosed"
+10 ANONYMITY AND USE OF A PSEUDONYM  
+You may request at any time that you remain anonymous, or choose a pseudonym, when dealing with us. To the extent that it is lawful and practicable for us to enable you to do so, we will grant such a request.
 
+11 HOW TO MAKE A COMPLAINT  
+If you wish to make a complaint about the way in which we handle your personal information, please contact our Privacy Officer using the contact details set out below.  
+We undertake to acknowledge and investigate any complaint promptly and will respond to written complaints within a reasonable time from the date of receipt.  
+If you are dissatisfied with our response, you may refer the matter to the Australian Information (Privacy) Commissioner (see www.oaic.gov.au). If you are dissatisfied with our response in relation to the way in which we handle your personal information in the course of our journalistic activities, you may refer the matter to the Australian Press Council (see www.presscouncil.org.au).
 
-
-**How is personal information used?**  
-Your personal Information may be used for the following purposes:
-
-  * to maintain appropriate business records; 
-  * to research, develop, improve and use within carsales products and services;
-  * to pre-populate / customise / provide shortcuts on our websites;
-  * to conduct surveys to determine use and satisfaction with carsales services;
-  * to generate statistics in relation to the carsales Network;
-  * for the purposes of feedback, reviews and ratings;
-  * to promote and market special offers and other services to you (if you do not want to receive these, please let us know by clicking [here](http://helpcentre.carsales.com.au/help/contact-us/));
-  * for purposes connected with the operation of the carsales Network;
-  * for staff training and quality assurance;
-  * to personalise the site experience and / or the advertising you see when you visit sites within the carsales Network.
-
-
-
-**How is personal information disclosed?**  
-carsales may disclose personal information to individuals and organisations other than carsales. The organisations to which we may disclose personal information include:
-
-  * carsales staff and related carsales bodies corporate
-  * the public if you advertise with carsales or use publicly available Communications Services
-  * individuals and organisations that advertise with carsales if you submit an enquiry or seek certain services through carsales - depending on your enquiry these may include:
-    * private advertisers;
-    * licensed car dealers;
-    * car brokers;
-    * operators of Linked Sites;
-    * financial service providers;
-    * insurance service providers;
-    * vehicle inspection service providers.
-    * If you do not want carsales to disclose your personal information to these individuals and organisations, you should not submit an enquiry.
-  * outsourced service providers who assist carsales to provide its services including:
-    * information technology providers;
-    * marketing and market research advisers; and
-    * professional advisers.
-  * entities to whom you request we send your information;
-  * resellers of carsales services;
-  * organisations involved in a sale/transfer of carsales assets, business or shares;
-  * to assist government or regulatory authorities or police;
-  * as we are required by law, for example pursuant to a subpoena.
-
-
-
-Where carsales provides information to a third party at your request (for example where you submit an enquiry), you acknowledge that your information will be handled by that third party in accordance with its privacy policy and not in accordance with the carsales privacy policy. 
-
-**Maintaining personal information quality**  
-carsales strives to maintain accurate and up-to-date records. To facilitate this, please let us know if any of your details change. You may update certain personal information through your membership account (if you have one) or click [here](http://helpcentre.carsales.com.au/help/contact-us/) to contact us by email.
-
-**How to access your personal information**  
-You generally have a right to access your personal information, subject to a few exceptions provided by law. If you wish to access your personal information please [Click here](http://helpcentre.carsales.com.au/help/contact-us/) or on the "contact us" link at the bottom of this page. Please remember to provide as much detail as you can as this will help us to find the information. There is no charge for this service, however you may be required to verify your identity before any information is released to you.
-
-**About security and personal Information**  
-carsales takes reasonable steps to protect personal information collected from misuse, loss, unauthorised access, modifications or disclosure. Your personal information may be stored in hard copy documents, but is generally stored electronically on carsales’ systems. 
-
-**Transfer of personal information outside of Australia**  
-Some of carsales’ service providers are located outside of Australia, including in the United States of America. It may be necessary to disclose your personal information to those service providers for some of the purposes listed above. By providing carsales with your personal information, you consent to the disclosure / transfer of your personal information outside of Australia as set out in this privacy policy. 
-
-**What if you don't provide personal information?**  
-If you choose not to provide personal information when requested, carsales may not be able to provide you with the full range of carsales services.
-
-**carsales Network, Linked Sites and personal information**  
-When you visit a website or use an application on the carsales Network, carsales records anonymous information such as IP address, time, date, referring url, and other referral information, device information and location, carrier, site interactions such as your access to website features, pages accessed, content, searching activities, lead submission, and files accessed and downloaded, type of browser and operating system.
-
-Such information collected by carsales may be linked to other information carsales holds about a user, compiling a complete profile about carsales users’ browsing activities on the carsales Network. 
-
-Carsales uses “cookies” and other methods to collect and store the information set out above. A cookie is a small file that stays on your computer until, depending on whether it is a sessional or persistent cookie, you turn your computer off or it expires (this may be as little as 30 days or up 2 years, or longer in some cases). Cookies may be used by carsales or by service providers engaged by carsales to provide you with the full range of services it offers, remember your preferences, remember the sites you visit on the carsales Network, measure and analyse usage of the carsales Network and for security. Persistent cookies may be used to identify the sites you visit on the carsales Network and to personalise the advertising that you see when you make future visits to that site or other sites. You may adjust your Internet browser settings to disable cookies. If cookies are disabled carsales may not be able to provide you with the full range of carsales services.
-
-The carsales Network may include links to third party web sites, co-branded web sites and applications and advertising served to the carsales Network by third parties (Linked Sites). The operators of Linked Sites may collect personal information through the use of cookies and otherwise. Carsales is not responsible for Linked Sites and recommends you read the privacy policy of Linked Sites before disclosing your personal information. 
-
-This site uses Crazy Egg web analytics service. Crazy Egg may record visitor’s activities on the carsales Network, which may include mouse clicks, mouse movement, and scrolling activity performed on the carsales Network, user screen size, browser versions and other user experience based metrics. Crazy Egg does not collect any personally identifiable information, including credit card information, that you enter in this website. For more information see [Privacy Policy](http://www.crazyegg.com/privacy) for Information Collected by the Crazy Egg Web Analytics Service. We are using the information collected by Crazy Egg service for analysing usability of the carsales Network and associated purposes. To opt out of this analytics service, please email [contact@crazyegg.com](mailto:contact@crazyegg.com).
-
-Carsales uses Nielsen/NetRatings web analytics tools to measure and analyse internet usage across our the carsales Network of websites. This service helps us measure and respond to our online consumers. The data collected does not identify a user personally. 
-
-**What if I have a problem?**  
-If you have a problem, complaint, want to change your personal information or just wish to enquire about privacy please contact us.
-
-Location: | Level 4, 449 Punt Road, Richmond VIC 3121   
----|---  
-Postal Address: | Locked Bag 9001, Richmond VIC 3121   
-Phone: | +61 (03) 9093 8600 (Business Hours EST)  
-Contact: | Nicole Birman  
-Email: | [Click here](http://helpcentre.carsales.com.au/help/contact-us/) to contact us by email  
-  
-carsales treats complaints relating to privacy extremely seriously. If you submit a concern or complaint, we will endeavour to deal with it comprehensively and reach an outcome with which all parties are satisfied. If you would like further information about privacy in Australia, please review the [Office of the Australian Information Commissioner’s website](http://www.oaic.gov.au/). 
-
-**How this policy changes**  
-This policy may change over time. All changes will be published on this website.
-
-_Version 5 (March 2014)_
+12 CONTACT DETAILS  
+If you have any questions or comments on our privacy policy, if you wish to update the personal information we hold on you or make a complaint, please write to:  
+The Privacy Officer  
+Bauer Media Pty Limited  
+54-58 Park Street  
+Sydney NSW 2000  
+Alternatively, you can send an email to our Privacy Officer at privacyofficer@bauer-media.com.au.  
+Privacy policy last updated on 3 October 2018.
