@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the att.jobs privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229172437id_/https%3A//about.att.com/sites/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the att.jobs privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233648id_/https%3A//about.att.com/sites/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AT&T
 
@@ -21,7 +21,7 @@ Whenever you do something like buy one of our products, watch a show or download
 
 
   
-**Revised July 21, 2018**
+**Revised February 15, 2019**
 
 ## A Quick Summary of Our Privacy Policy
 
@@ -99,7 +99,7 @@ Back to Top
   * What is Personal Information? Information that identifies or reasonably can be used to identify you.
   * What is Anonymous Information? This is information that doesn’t identify you and can't reasonably be used to identify you specifically.
   * What is Aggregate Information? We take a whole bunch of people’s data and combine it into anonymous groups or categories.
-  * How do we use this information? We use and share this information in many ways including research, analysis, retail marketing, and Relevant Advertising. This data is also included in External Marketing & Analytics Reports.
+  * How do we use this information? We use and share this information in many ways including research, analysis, retail marketing, and advertising. This data is also included in External Marketing & Analytics Reports.
   * Want to learn more? Go [here](https://web.archive.org/sites/privacy_policy/terms#aggregate "Go here to learn more").
 
 
@@ -118,7 +118,7 @@ Back to Top
 
   * For information about children’s safety and parental controls, view our [AT&T Smart Controls and DIRECTV Parental Controls](https://www.att.com/shop/wireless/smartcontrols.html "View our AT&T Smart Controls and DIRECTV Parental Controls").
   * You have choices about certain types of advertising you get from us;
-  * You can control whether your anonymous information is used in our External Marketing & Analytics Reports;
+  * You can control whether your Anonymous Information is used in our External Marketing & Analytics Reports;
   * You can choose whether to receive marketing calls, e-mails or text messages or certain other communications from us;
   * You have a choice about how we use your Customer Proprietary Network Information.
 
