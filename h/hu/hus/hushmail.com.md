@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023529id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630225744id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated May 25, 2018 
+Last Updated February 13, 2019 
 
 ### Who we are
 
@@ -46,8 +46,11 @@ We take steps where possible to limit the personal information we collect. The f
   6. When you are signed into your account, Hush displays your recent sign-in activity including the time, date, approximate geographic location, and the IP address of the ISP you used to access the Internet. We do this to assist you in identifying any unauthorized access to your account by a third party. The information we use to display this is gathered from our records; we **do not track your actual location**.
   7. We use third-party services for some parts of our website such as our help system. When you use these services your account name and your name will become part of your user account on that service.
   8. We store sales, marketing, and customer care information with third-parties that support these business processes, which means that information such as your name, email address, phone number, and company name, as well as the history of communications related specifically to the sales or customer care process, may be stored there. If you include other sensitive information in your communications to sales, marketing, and customer care, this information will be stored with these services. As a result, we do not accept any responsibility for any loss or damages suffered by any person as a result of such other sensitive information being sent to sales, marketing, or customer support.
+  9. We may temporarily share information that is not personally identifiable with third-party services for the limited purpose of supporting our advertising, sales and marketing activities. Those third parties are not permitted to use the information for any other purpose.
 
 
+
+If you have any questions about how we use your personal information please use [this form](https://www.hushmail.com/contact/hushmail/) to contact our customer care team.
 
 ### How long do we retain your personal information?
 
@@ -104,7 +107,7 @@ Most web browsers give you the ability to accept or decline the use of cookies t
 
 ### Communications from us
 
-We may send emails to you both with respect to the creation and maintenance of your Hushmail account and with information that may be useful in your usage of the account. We will include instructions on how to unsubscribe from receiving the informational emails if you decide you do not want to receive any such future emails from us.
+We may send emails to you with respect to: the creation and maintenance of your Hushmail account, information that may be useful in your usage of the account, and the provision of notification in the event of a breach of safeguards involving personal information under our control. We will include instructions on how to unsubscribe from receiving the informational emails if you decide you do not want to receive any such future emails from us. 
 
 ### Advertising
 
