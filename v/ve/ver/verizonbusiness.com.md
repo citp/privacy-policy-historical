@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verizonbusiness.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180824id_/http%3A//www.verizon.com/about/privacy/privacy-policy-summary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verizonbusiness.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212159id_/https%3A//www.verizon.com/about/privacy/privacy-policy-summary) for the most accurate reproduction.*
 
 # Privacy Policies | Verizon
 
