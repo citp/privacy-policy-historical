@@ -1,87 +1,145 @@
-> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130233721id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630155417id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NCBE
+# NCBE Privacy Policy - NCBE
 
-Date Updated: August 16, 2016
+Date Updated: April 16, 2019
 
-The National Conference of Bar Examiners (NCBE) is committed to protecting your privacy. This Privacy Policy (“Policy”) describes our practices and procedures as they relate to information we collect through our website (the “Site”) located at [www.ncbex.org](http://www.ncbex.org/ "NCBE web site Home page"). NCBE owns the information collected. By providing personal information online, you consent to allow NCBE to use that information in accordance with this Policy.
+The National Conference of Bar Examiners (“NCBE”) is committed to protecting your privacy. This Privacy Policy (“Policy”) describes our practices and procedures as they relate to information we collect through our website [www.ncbex.org](http://www.ncbex.org/ "NCBE web site Home page") (the “Site”), however accessed, and information collected when, for example, you provide information to NCBE over the phone or via email, or you participate in NCBE’s examinations (MPRE, MBE, MEE, MPT, or UBE) or other services.
 
-##### Information We Collect and How We Use It
+Note that NCBE’s other websites are subject to their own privacy policies at [thebarexaminer.org](https://thebarexaminer.org/privacy-policy/) and [testingtaskforce.org](https://www.testingtaskforce.org/privacy-policy/). And, information you supply when requesting accommodations for the MPRE is subject to the [NCBE Privacy Policy for Applicants Requesting ADA Accommodations for the MPRE](http://www.ncbex.org/exams/mpre/ada-accommodations/).
 
-###### Personal Information
+## Information We Collect
 
-You are not required to provide any personal information to browse or access the public area of the Site. However, to access or use certain services at the Site, you are required to provide personal information. “Personal information” is information that is unique to you, and includes, but is not limited to, your email address, telephone number, name (and any formerly used names), date of birth, Social Security or national identification number, and information regarding your legal education, background, credentials, and related matters. Information you supply when requesting ADA accommodations for the MPRE is subject to an [additional privacy policy](http://www.ncbex.org/exams/mpre/ada-accommodations/).
+The information we collect varies, depending on the way you use our Site, products, or services. We collect and/or receive information in the ways described below.
 
-Personal information is collected on the Site when you create an NCBE Account, register online for the MPRE, complete the NCBE Character and Fitness Application, request score services, send a message using the Contact Us form, purchase products through the NCBE Study Aids Store, or complete an optional survey related to the purchase of an Online Practice Exam. NCBE also collects information about changes made to your NCBE Account profile.
+### Personal Information
 
-NCBE uses your personal information for the purposes described where it is collected. Generally, NCBE uses your personal information for identification purposes; to provide services and products requested by you; and to provide services, such as score transfers and character and fitness services, to bar admission agencies or attorney regulatory authorities in jurisdictions to which you are applying for admission, have previously applied for admission, or are admitted. Additionally, NCBE uses personal information to protect you and NCBE from fraudulent transactions, and to investigate inappropriate or unauthorized use of NCBE services, accounts, or intellectual property or other assets. NCBE may use aggregated personal information for research and statistical purposes related to bar admissions and bar examinations. NCBE does not use personal information for marketing or promotional purposes.
+You are not required to provide any personal information to browse or access the public area of the Site. However, to access or use certain NCBE services, including through the Site and when you register for and take an NCBE examination, you may be required to provide personal information. “Personal information” is information that is unique to you, and we may collect the following types of personal information from you:
 
-###### Cookies and Tracking Technologies
+  * name, including any formerly used names
+  * email address
+  * telephone number
+  * date of birth
+  * Social Security or national identification number
+  * credit card or debit card number
+  * information regarding your legal education, background, credentials, and related matters
 
-Cookies are used by NCBE to keep track of your login information while you are logged in to the Site. Information transferred through cookies does not contain any personally identifying information, nor is it shared with any other parties. We use persistent and non-persistent cookies to make it easier for you to navigate the Site. If you reject cookies, you may still use the Site but your ability to use some areas of the Site will be limited.
 
-NCBE's web server monitors traffic by automatically recording every visitor's host, domain name, pages visited, length of user sessions, browser type, and/or IP address. We use Google Analytics to track interaction with specific features of our website. We do not (and do not allow any third party to) use this service to track, collect, or upload any data that personally identifies an individual, or other data which can be reasonably linked to such information by Google. For information on how Google Analytics collects and processes data, please review “How Google uses data when you use our partners' sites or apps” located at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/).
 
-###### Credit Card Information
+Personal information does not include anonymized, aggregate, or statistical information.
 
-All credit card transactions are processed through Authorize.Net via TLS. (View [Authorize.Net's privacy policy](http://www.authorize.net/company/privacy/).) Your credit card information is used to bill you for services. NCBE does not use credit card information for any other purpose. NCBE does not store or disclose credit card information.
+### How to Access or Correct Your Personal Information
 
-##### Security
+Access to some of your personal information is available through your [NCBE Account](http://accounts.ncbex.org/php/ncbe_number/). You may log in to your account to edit your account profile or to change your password or email address. Please note that we may require additional information to authenticate your identity. For additional guidance on NCBE Accounts, please review the NCBE Account and NCBE Number section in the [Website Terms of Use](http://www.ncbex.org/website-terms-and-conditions-of-use/).
 
-NCBE has physical, technical, and administrative safeguards in place to protect your personal information. We use industry-standard Transport Layer Security technology (TLS) to encrypt data transmissions. To learn more about TLS, view [http://www.webopedia.com/TERM/T/TLS.html](http://www.webopedia.com/TERM/T/TLS.html). Despite our security measures, no data transmission over the Internet or electronic storage is 100% secure. As a result, we cannot and do not warrant the security of your personal information.
+Note that Certain NCBE services may have specific processes for correcting or updating personal information, such as information submitted in a character and fitness application or associated with a test registration or a score service. Refer to the specific instructions for those services. For additional guidance you can use the [Contact Us](http://www.ncbex.org/contact/) form.
 
-Messages that you send to us by email, including by use of the [Contact Us form](http://www.ncbex.org/contact/) on the Site, may not be secure, and use of email is not recommended for sending confidential or sensitive information to us.
+### Automatically Collected Information
 
-##### Disclosure of Personal Information to Third Parties
+Our Site automatically collects certain information about your use of our Site that does not personally identify you. This information includes the following:
 
-NCBE may disclose your personal information to bar admission agencies, or to other third parties with whom we have a direct or indirect business or contractual relationship, in order to deliver and support the products and services that NCBE provides. For example, we may disclose your personal information, such as name, date of birth, Social Security number, and NCBE Number, to third parties that use and/or administer our examinations for purposes of accurately reporting your exam scores and ensuring exam integrity and security.
+  * **Information about your Site activity.  **When you browse our Site, we collect IP address (static or dynamic), browser type and language, operating system, domain server, referring and exit pages and URLs, date and time of visit, length of session, the pages you visited while on the Site, and similar data.
+  * **Information about your device.**  When you interact with our Site, we collect information about your device including type of computer or device, operating system and version (e.g., iOS, Android, Windows), carrier and country location, and similar data. Additional information collected from your device may include any of the following: Universally Unique ID (UUID), Advertising Identifier (IDFA), MAC address, hardware and processor information (e.g., storage, chip speed), and network type (e.g., WiFi, 3G, 4G, LTE).
 
-NCBE may disclose your personal information to bar admission agencies for purposes of character and fitness investigations, including, but not limited to, disclosure of the jurisdictions to which you have previously applied and the dates of any such applications. When conducting a character and fitness investigation, NCBE may disclose your personal information to third parties we contact during the investigation, including but not limited to your name (and any formerly used names) and date of birth. 
 
-NCBE reserves the right to use or disclose your personal information when NCBE reasonably believes it is needed to (i) respond to information requests by law enforcement or other governmental authorities; (ii) comply with any law, regulation, subpoena or other legal process, or court order; (iii) investigate and help prevent security threats, fraud, malicious activity, or inappropriate, unauthorized, or illegal activity involving our examinations, services, or networks; or (iv) enforce or protect our rights and property, including intellectual property. In these four circumstances, NCBE may disclose your personal information without notice to such third parties as we deem reasonably necessary.
 
-##### How to Access or Correct Your Personal Information
+### How We Use Cookies and Tracking Technologies
 
-Access to your personal information is available through your [NCBE Account](http://accounts.ncbex.org/php/ncbe_number/). Log in to your account to edit your account profile or to change your password or email address. We keep a record of changes (including deletions) and may disclose or use the record for lawful purposes, including investigation of fraudulent, inappropriate, unauthorized, or illegal activity or for security purposes.
+NCBE and our service partners may use cookies, web beacons, and other technologies to receive and store certain information whenever you interact with the Site. Cookies are small data files that are stored or accessed on one's browser each time one visits a website. Cookies may store unique identifiers, user preferences, and other information. Cookies are used by NCBE to keep track of your login information while you are logged in to the Site. We use persistent and non-persistent cookies to make it easier for you to navigate the Site. If you reject cookies, you may still use the Site, but your ability to use some areas of the Site may be limited.
 
-Certain NCBE services may have specific processes for correcting or updating personal information, such as information submitted in a character and fitness application or associated with a test registration. Refer to the specific instructions for those services or contact NCBE for instructions.
+### Use of Google Analytics
 
-If you request to close your NCBE Account, we will mark your account as “Closed” but will keep your account information in our database in order to deter fraud and to prevent transfer or sharing of accounts.
+We use Google Analytics to track interaction with specific features of the Site. You can opt out of Google Analytics by installing the Google Analytics Opt-out Browser Add-on, available at <https://tools.google.com/dlpage/gaoptout>.
 
-##### Data Retention
+### Information We Receive from Third Parties
 
-Except as set forth in this section regarding your NCBE Character and Fitness Application, NCBE will retain your personal information for as long as we deem appropriate and necessary.
+NCBE may receive information about you from other sources. For example, we regularly receive information from bar admission authorities, third parties contacted as part of a character and fitness investigation, and organizations under contractual agreements to perform services with or on behalf of NCBE, such as testing-administration agencies.
 
-We follow these policies in determining when an NCBE Character and Fitness Application may be deleted from our website server:  
-• An unused application may be deleted after 90 days.  
-• An application that is never received by NCBE may be deleted after one year of disuse.  
-• An application that is processed by NCBE will remain on our server for 5 years from the date we receive the application. As long as your application remains online, you can transfer its data into a new application for a supplemental report to the same jurisdiction or new report to another jurisdiction (with certain exceptions).  
-• An application to North Carolina or to Michigan by Exam will remain on our server for one year from the date the application is received by the respective admissions office.
+## How We Use the Information We Collect
 
-If you wish to delete your NCBE Character and Fitness Application, please contact us and we will remove it from our website server.
+We use your information to provide, analyze, administer, enhance, and personalize our Site and the products, and services we provide to you. We also use your information to communicate with you and to conduct our business. Generally, NCBE uses your information to carry out its mission to serve the bar admissions community, and more specifically, uses it to
 
-##### Links
+  * provide services and products requested by you, such as testing services, score services, and character and fitness services;
+  * provide testing, character and fitness, and other services to bar admission agencies and attorney regulatory authorities;
+  * register you for a test, product, or service;
+  * complete the NCBE Character and Fitness Application;
+  * ensure that our examinations are fair;
+  * maintain a permanent record of examinee performance;
+  * maintain statistical data and conduct research related to bar admissions, bar examinations, and the legal industry;
+  * create or modify an NCBE Account;
+  * respond to an inquiry or message you send us through the [Contact Us](http://www.ncbex.org/contact/) form;
+  * provide you with updates, reminders, or other information about products and services that you have ordered or that may interest you;
+  * analyze and improve our Site or products and/or services;
+  * personalize your Site experience;
+  * protect you and NCBE from fraudulent transactions, and investigate inappropriate or unauthorized use of NCBE services, products, accounts, or intellectual property or other assets;
+  * comply with applicable laws, regulations, or contractual requirements, or respond to subpoenas or government requests; and
+  * fulfill any other purpose you request or consent to.
 
-For your convenience, we may provide links to other websites and web pages that we do not control. NCBE does not endorse and is not responsible for the privacy practices or the content of any such linked websites. If you submit information to any of those sites, your information is governed by their privacy policies. With the exception of the MPRE registration website hosted by LSAC, use of any linked websites is at the user’s own risk.
 
-##### Children’s Privacy
 
-This website is not designed to attract children. Accordingly, we do not knowingly collect personal information from anyone under 13 years of age.
+## How We Share and Disclose Your Information
 
-##### Changes to This Privacy Policy
+NCBE shares and discloses your information for various purposes in order to provide you the Site, products, and/or services and to conduct our business, including as follows:
 
-If we change our policies, the changes will be posted to this privacy policy on the Site. At our discretion, we may also provide notice in the NCBE Accounts and on other pages of the Site as we deem appropriate. NCBE reserves the right to change this Privacy Policy at any time, so please review it periodically or before you provide us with additional personal information.
+  * to service providers (including testing-administration agencies, consultants, payment processors, data hosting and storage providers, and data analytics service providers);
+  * to bar admissions authorities that use and/or administer our examinations;
+  * for purposes of character and fitness investigations, to bar admission and attorney regulatory authorities and third parties we contact during the investigation;
+  * when NCBE reasonably believes it is needed to (i) respond to information requests by law enforcement or other governmental authorities; (ii) comply with any law, regulation, subpoena or other legal process, or court order; (iii) investigate and help prevent security threats, fraud, malicious activity, or inappropriate, unauthorized, or illegal activity involving our examinations, services, or networks; or (iv) enforce or protect our rights and property, including intellectual property;
+  * in the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, as part of the transferred assets; or
+  * in accordance with any consent to use or share your information that you provide us.
 
-##### Contact Us
 
-Questions regarding this Privacy Policy should be directed to
+
+We may also share anonymized and aggregate data that does not identify you personally, such as for research and analytics purposes.
+
+## Data Retention
+
+Except as set forth in this section regarding your online NCBE Character and Fitness Application, NCBE will retain your personal information for as long as we deem appropriate and necessary in accordance with our legitimate interests and to comply with any applicable laws, regulations, and/or contractual requirements.
+
+We follow the following policies in determining when an online NCBE Character and Fitness Application may be deleted from our website server (and no longer available for you to view or transfer):
+
+  * An unused application may be deleted after 90 days.
+  * An application that is never received by NCBE may be deleted after one year of nonuse.
+  * An application that is processed by NCBE will remain on our website server for five years from the date we receive the application. As long as your application remains online, you can transfer the data in the application to a new application for a supplemental report to the same jurisdiction or a new report to another jurisdiction (with certain exceptions).
+  * An application to North Carolina by Exam will remain on our server for one year from the date the application is received by their admissions office.
+
+
+
+If you wish to delete your online NCBE Character and Fitness Application from our website server, please [Contact Us](http://www.ncbex.org/contact/) to determine whether you are eligible to have it removed.
+
+## Security
+
+NCBE has physical, technical, and administrative safeguards in place to protect your personal information. Despite our security measures, no data transmission over the Internet or electronic storage is 100% secure. As a result, we cannot and do not warrant the security of your personal information.
+
+Messages that you send to us by email, including by use of the [Contact Us form](http://www.ncbex.org/contact/) on the Site, may not be secure, and use of email is not recommended for sending us confidential or sensitive information.
+
+## Links to Third-Party Websites
+
+For your convenience, we may provide links to other websites and web pages that we do not control. NCBE does not endorse and is not responsible for the privacy practices or the content of any such linked websites. If you submit information to any of those sites, your information is governed by their privacy policies. For information about how other organizations, including testing-administration agencies, may collect and use your personal information, you should review their respective privacy policies when applicable to you.
+
+## Children’s Privacy
+
+This Site is not directed to children under 13 years old. Accordingly, we do not knowingly collect personal information from anyone under 13 years of age, and persons under 13 years of age should not submit any personal information to NCBE.
+
+## United States Privacy Laws
+
+NCBE is located in the United States. By providing your information, you consent to the processing of your information in the United States.
+
+## Changes to This Privacy Policy
+
+NCBE reserves the right to change this Privacy Policy at any time, so you should review it periodically. If we change our policy, the changes will be posted to this Privacy Policy on the Site and the date of the update will be reflected in the Date Updated above. At our discretion, we may also provide notice in NCBE Accounts and on other pages of the Site as we deem appropriate.
+
+## Contact Us
+
+You can submit questions regarding this Privacy Policy by using the [Contact Us form](https://thebarexaminer.org/contact-us/) on the Site.
+
+NCBE can also be contacted at
 
 National Conference of Bar Examiners  
+ATTN: NCBE Privacy Policy  
 302 South Bedford Street  
 Madison, WI 53703-3622
 
 Phone: 608-280-8550  
 Fax: 608-280-8552  
 TDD: 608-661-1275
-
-E-mail: [contact@ncbex.org](mailto:contact@ncbex.org)
