@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrippsnetworks.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227231944id_/https%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrippsnetworks.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630203027id_/https%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
 
 # DISCOVERY COMMUNICATIONS PRIVACY POLICY – Discovery, Inc.
 
