@@ -1,5 +1,233 @@
-> *The following text is extracted and transformed from the paperdollheaven.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210235526id_/http%3A//www.paperdollheaven.com/en/terms.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperdollheaven.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232328id_/https%3A//www.stardoll.com/en/help/gdprPrivacyPolicy.php) for the most accurate reproduction.*
 
-# Paperdoll Heaven
+# Privacy Policy - Stardoll | English
 
-TERMS OF USE MEMBERSHIP TERMS 1\. Read this first! These conditions represent an agreement between you*/your child and Paperdoll Heaven. By accepting the agreement you are promising and agreeing also to follow and accept the other rules which Paperdoll Heaven publishes on its website. If you don't accept this agreement, you should not register or let your child register as a member on Paperdoll Heaven. It is very important that you go through the conditions in this agreement so that you know what you can and cannot do on the Paperdoll Heaven website. If you are a child under the age of 13 years, ask your parents for help with explaining the conditions and registering. When you register, activate your account and accept this agreement, you become a member. This means that you accept the conditions below and that you confirm that – if you are a child under the age of 13 years - your parents have also read and accepted the conditions. The user of an Ad-Free Account will not be shown the advertisement otherwise published on the website. The Ad-Free Account also enables the user to save favorite games, play games in full size as well as print, save and share images of creations, for example via Facebook and Twitter. Paperdoll Heaven reserves the right to make changes to these membership terms if Paperdoll Heaven deems it necessary or if it is required by law. In the case of material change, Paperdoll Heaven will notify you of the change in advance of the change becoming effective. If you do not want to accept the change, you may terminate your membership with immediate effect at any time before the change becomes effective. You can easily terminate your membership here. By using the services available on Paperdoll Heaven’s website, such as saving images in games and sharing these images you accept the membership terms and agree to comply with them. Paperdoll Heaven solely decides on the content of the Paperdoll Heaven website, such as for example new games, including the rules of such games. Paperdoll Heaven further reserves its right to develop, delete, amend and otherwise make changes to the website without any prior notice to you or other members. Your membership and saved content are part of a service provided to you on Paperdoll Heaven’s website and you only receive a right to use them according to these conditions and the terms on the website from time to time. * from now on meaning a parent/legal carer to a registered member under the age of 13 or a registered member over the age of 13 years 2\. Special information for PARENTS Contact us at the e-mail address parentalrights@paperdollheaven.com if you have not accepted this agreement and if your child has become a member of Paperdoll Heaven. We urge all parents to be actively involved in following their children's activity on the Internet. Paperdoll Heaven is dedicated to protecting the privacy of its members and handling any personal information we obtain from our members with care and respect. The information and the terms in this agreement that we conclude with our members fulfil the high standard of protection provided for in the European Union and in the United States. For citizens in the US the COPPA rules apply to children under the age of 13. From the terms on Personal Data and Privacy Policy below you can see what information we collect from our members, what we do with it and the limited involvement of third parties. An overall principle is that we do not collect more information than is reasonably necessary for children to participate in activities on Paperdoll Heaven. If your child is of age that access to the Paperdoll Heaven website requires parental consent, the account will automatically be flagged as a pending and we will inform your child that parental consent is required to activate an account. Subject to applicable regulation, your consent is needed as stated in the “Notice to Parents” e-mail. A more detailed description of what registering on Paperdoll Heaven means can be found in the e-mail that you receive from us. Until the appropriate level of verifiable parental consent is obtained your child will not have access to the registered account on Paperdoll Heaven. If you would like to see what information Paperdoll Heaven has about your child, you can contact Paperdoll Heaven at the same e-mail address indicated above: parentalrights@paperdollheaven.com or send us a letter to: STARDOLL AB Hudiksvallsgatan 8 S 113 30 Stockholm SWEDEN or fax at one of the following numbers: Fax number: USA (+1 - 212 - 208 4566) Fax number: Great Britain (+44 - 20 - 7990 9907) Fax number: Argentina (+54 - 11 - 40321600) For the security of our members Paperdoll Heaven retains the right to require the identification of parents. With parents we also mean other carers who are eligible to represent a member in case such member is a minor. We are not entitled to disclose other children's/members' personal data to you as a parent. Paperdoll Heaven can only disclose personal data belonging to children other than your own if a legal and/or police obligation exists to do so. The following terms apply to each member that accepts the terms or, in the case of a minor, to its parents. Please observe therefore that the definition of “you” as a member in these terms also include parents of minors, in which case “you” will mean either you as a parent or your child. 3\. Personal data and Privacy Policy (including Kid’s Privacy Policy) In order to register for a free account on Paperdoll Heaven, we might ask you to provide us with the following personal data: \- Your first and last name (only if you are over the age of 13 years), \- your e-mail (if you specify that you are over the age of 13 years) \- your parent e-mail address (if you specify that you are under the age of 13 years) \- your user name \- your age, \- your gender, \- the country where you live \- your home and mobile telephone number (only if you are over the age of 13 years) By providing Paperdoll Heaven with your personal data as defined above, to the extent permitted by law, you give Paperdoll Heaven permission to use the above personal data so that Paperdoll Heaven can send out news, contests, offers and advertising to your e-mail address and/or mobile phone via sms, mms or similar messaging system, and you allow Paperdoll Heaven to adjust the content and potential advertising (only for non-registered users) on its website to your or others' age group and gender. Examples of communication are, for instance, that Paperdoll Heaven wants to notify you about new or improved services on Paperdoll Heaven, that Paperdoll Heaven is carrying out membership surveys in order to improve our services or that Paperdoll Heaven is creating targeted content and offers for you based on information about how you act on the Web site, what your age is and where you are located geographically. Paperdoll Heaven agrees not to sell or transfer your personal data to a third party. Nor will Paperdoll Heaven address or send any offers/deals/ads to users under the age of 13 years. An exception is if all or essentially all resources of the Paperdoll Heaven company, that is to say, the entire website, are acquired by another company (a so-called acquisition of assets and liabilities). In that case the personal data required in order to continue to operate Paperdoll Heaven are acquired by the buyer. It can happen that Paperdoll Heaven comes to rely on other companies in order to carry out various tasks such as, for example, help with marketing, the performing of technical services for our websites, etc. These companies can in certain cases gain access to personal data, which they need in order to complete an assignment for Paperdoll Heaven. Paperdoll Heaven treats all personal data with the greatest care and signs agreements with other companies, which mean that they can only use your data in order to complete the assignment for Paperdoll Heaven. The same applies in those cases where Paperdoll Heaven co-operates with another company to provide you with interesting offers. Such companies do not have access to your personal data other than for assisting Paperdoll Heaven with its mailings, banner marketing and the like which you have given Paperdoll Heaven permission to by this agreement. Such companies will not have the right to retain and use the data for any other purposes than the assignment Paperdoll Heaven. Paperdoll Heaven stores personal data gathered from members for such period as is prescribed by applicable law. During this period personal data are only used to the extent permitted by these terms and by applicable law as well as for the security of members, that is, in order to prevent, investigate, uncover and prosecute potential crimes against one of our members. Paperdoll Heaven reserves the right to disclose your personal data as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our site. If you are over the age of 13 and have an account on a community service like Facebook, Paperdoll Heaven allows you to log in by using for example Facebook Connect (whether on Facebook or on other community sites jointly referred to as "Connect Service" below). Once you allow Paperdoll Heaven to connect with Connect Service, you will be able to use your Connect Service login information to log into Paperdoll Heaven as a member, and you will be able to publish your activity on Paperdoll Heaven to your Connect Service profile. Additionally, by using Connect Service, you permit Paperdoll Heaven to access information related to you (including your profile information, friends, and privacy settings) so you can use your information on Paperdoll Heaven, and so that we can help improve your use of Paperdoll Heaven and allow you to interact with and share content to your Connect Service friends via Paperdoll Heaven. All such Connect Service personal data will be handled in accordance with Paperdoll Heaven’s general privacy policy as described in this agreement and you permit Paperdoll Heaven to use the data in accordance with other personal data as described above in this section of the Agreement. In order to make the Connect Service possible, you agree to allow the Connect Service Provider, such as Facebook, to check your Facebook cookies when you is visiting Paperdoll Heaven, and allow Facebook to receive information concerning the actions you take on Paperdoll Heaven (which we will only send with your permission). The information shared with the Connect Service provider will be transmitted to and stored by the Connect Service provider on servers that can be placed outside your country of residence. In the event you no longer want Paperdoll Heaven to publish stories about you, or want to otherwise limit the ways in which Paperdoll Heaven interacts with your account with a Connect Service provider, you can always disable this feature by changing your application settings in this third party Connect Service. This Privacy Policy applies to information collected by Paperdoll Heaven through your Connect Service login, however, your activities on the Connect Service provider’s site, such as Facebook, are covered by their privacy policy and other terms of use (in Facebook’s case www.facebook.com/terms.php; www.facebook.com/policy.php). Paperdoll Heaven reserves the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here at this URL, by means of a notice on our home page or as required by law. If any changes are unacceptable to you, you shall stop using this site. Your continuing use of the Paperdoll Heaven website, can, to the extent permitted by law, be deemed as an acceptance of these terms, including changes. 4\. Questions concerning personal data and revoking approval If you want to know what information Paperdoll Heaven has about you or have other questions about your personal data, you can contact us here. You can cancel your approval for handling and saving your personal data. In that case click here and fill in the form. Please note that this means that your membership in Paperdoll Heaven is canceled as a result (see more under clause 10 below). In order to be able to offer the best possible user experience on Paperdoll Heaven, we need to be able to store personal information about you (so-called personal data) and to be able to communicate with you as a member. Therefore, if you do not allow us to process personal data about you, we cannot handle your membership. For this reason we ask you to cancel your membership if you do not wish to allow us to process your personal data. 5\. Cookies Paperdoll Heaven can place a text file in the web browser on your computer, which is called a “cookie.” Like most other websites, Paperdoll Heaven uses both session cookies and persistent cookies to improve and customize your experience of the website. With persistent cookies we keep track of, for example, how many visitors we have to the website and of which parts of the website are most popular. This type of information can be sent out by Paperdoll Heaven in a revised (that is to say, aggregated and non-personal) version as statistics to members, collaborative partners, sponsors and others. A session cookie is used to make it easier for you to navigate on the Paperdoll Heaven website. The session cookie expires when you has closed your browser. 6\. Rights to user-generated material You owns the rights to the material which you has created yourself on Paperdoll Heaven's websites, but in this agreement you give Paperdoll Heaven the right, without special compensation, to publish the material for an unlimited time throughout the world and irrespective of the medium used, that is, whether on the Internet, on TV or through mobile distribution, etc. This means that you give Paperdoll Heaven the right to use, copy, present, reproduce, display, edit, integrate, license as well as distribute that material which you have created. These rights of Paperdoll Heaven apply to both commercial and noncommercial use. 7\. Rights to Paperdoll Heaven's material You may not use Paperdoll Heaven’s dolls, clothes, games, information, data, names, pictures, logotypes or icons from Paperdoll Heaven's website (we call these “Paperdoll Heaven's Material”) if it is not clear from the website that this is permitted. This means that you can not copy, distribute, disseminate, sell, publish, send or otherwise circulate Paperdoll Heaven's Material to another person without the written consent of Paperdoll Heaven. Nor may you change, revise or replace any of the Material found on the website, either in its entirety or parts thereof. 8\. Suspension and cancellation of membership Paperdoll Heaven has the right to cancel your membership and close your account if you violate this agreement or the regulations on Paperdoll Heaven 's website or if you have not used your/his/her account for four months or more. Paperdoll Heaven has the right to save the personal data of a suspended member even after the account has been closed; see item 3 above. 9\. Choice-of-law and jurisdiction Subject to local mandatory law, this agreement is regulated and interpreted according to the laws in Sweden and the courts in Stockholm will have exclusive jurisdiction, unless you live in UK, US or Germany in which case the local laws will apply and the jurisdiction shall be as follows; in US the state and federal courts located in the state of California, in Germany the regional courts of Dusseldorf and in UK the courts of England and Wales. If any part of this agreement should be considered invalid, this will not affect the validity of the remaining sections of the agreement. 10\. LIMITATION OF LIABILITY and DISCLAIMER OF WARRANTY Paperdoll Heaven decides solely on the content of the Paperdoll Heaven website and reserves its right to develop, delete, amend and otherwise make changes to the website without any prior notice to you or other members. Potential errors on Paperdoll Heaven's websites are taken care of as soon as possible, but Paperdoll Heaven does not guarantee that Paperdoll Heaven's websites always work. Material published on Paperdoll Heaven's websites can refer to products, programs or services no longer available in certain countries. You use the Paperdoll Heaven l websites at your own risk. Paperdoll Heaven does not warrant the accuracy or timeliness of the websites. All content on the Paperdoll Heaven websites, including without limitation third party content, submissions and any information or material contained on the websites, are provided to you on an “as is” basis with no warranties of any kind. Paperdoll Heaven, neither by itself or its licensors, agencies or other representatives, makes no express, implied or statutory representations, warranties or guarantees in connection with the Paperdoll Heaven websites, including without limitation the Paperdoll Heaven content and third party content. Paperdoll Heaven does not provide any warranties against viruses, spyware or malware that may be installed on your computer. 11\. Links to third party websites Paperdoll Heaven 's website may contain links or references to other websites. When you uses these links, you/he/she is leaving our website. Paperdoll Heaven has no control over information published on other third party websites and assumes no responsibility for information and other content on such other third party websites. You assume the risk yourself when using other websites linked to this website. We encourage you to review the privacy policy of other websites you visit. 12\. General Paperdollheaven.com is operated by Stardoll AB from its office in Stockholm, Sweden. Stardoll AB Hudiksvallsgatan 8 S-113 30 Stockholm Sweden E-mail: info@stardoll.com Fax number: USA (+1 - 212 - 208 4566) Fax number: Great Britain (+44 - 20 - 7990 9907) Fax number: Argentina (+54 - 11 - 40321600) DO NOT USE THIS WEBSITE IF YOU DO NOT AGREE TO THE ABOVE CONDITIONS! 
+## Privacy Policy
+
+Glorious Games Group Privacy Policy
+
+Welcome to Glorious Games Group! 
+
+We are a company that develops and maintains video games on the web and on mobile devices, based in Stockholm, Sweden. 
+
+For the purposes of this privacy policy “we,” “the company” and “us” means Glorious Games Group AB. Services, servers or website(s) refers to one or more of our products. “You” or “user” refers to you using our services. 
+
+This privacy policy explains:
+
+-What kind of data we collect
+
+-How we collect it 
+
+-Why we are collecting it 
+
+-How we will use it
+
+-How we share information with third parties 
+
+-Your control over your own data
+
+If you do not understand any parts of the privacy policy you are free to [contact us](http://www.stardoll.com/en/help/contact.php) with any questions. This policy does not apply to third parties.
+
+We collect two types of information: personal identifiable information (PII) and non-personal identifiable information (NPII). PII is information that can be linked to an individual (such as IP-addresses or email addresses), while NPII is information that can’t be linked to an individual (such as aggregated statistics). We collect the following information:
+
+**Authentication:** We collect usernames, passwords and IP-addresses to give you secure access to Glorious Games Group’s servers.
+
+**Payment Info:** We collect the following info when you make a payment: transaction ID, last 4 credit card digits, ip-address, transaction reference, price of the transaction and transaction date. 
+
+**Demographic Info:** We collect the following demographic info: gender, date of birth, country, city, continent and language. Some of this data, such as gender, country, city and continent is aggregated and not personal.
+
+**Usage Info:** We collect data on how you interact and use our services such as: If users are new or returning, how long users interact with a service, how many pages a user visits, how long users interact with the product, how many pages users look at, source (how users found the site, such as Google), what type of interests users have and so forth. All of this is aggregated and not personal. 
+
+**Device data:** We collect data about our users device such as: device type, device version, browser type, screen resolution, service provider and operating system. This is aggregated and not personal
+
+**Error and Performance data:** We collect data such as how our services are performing, error messages and so forth.
+
+## Data you provide
+
+Some data that we collect is provided to us by you in different ways, and while we never force you to give out your data, it will limit how you can access our services in different ways.
+
+For example, in order to fully enjoy some of the Glorious Games Group’s services, you will need an account, which will require you to sign up using an online form. 
+
+In the case of some mobile applications, an account is automatically created for you when you start the application. This system is using your mobile device’s unique identifier and can’t be traced to a person.
+
+We also ask you for payment information whenever you make purchases, which might vary depending on the payment method, but this might include your phone number and transaction ID.
+
+You also provide us with information when you respond to surveys, send information to our support team, participate in contests or request certain services from us.
+
+## Data we collect automatically
+
+We and our partners also automatically gather some data about how you use our services, utilizing technology such as cookies.
+
+This information is used to improve our products and secure our services against malicious intent as well as helping us in our advertising efforts and improving our services. For information about what data we collect, please see the “what data we collect” section. 
+
+**Logs**
+
+We automatically collect certain information in log files which involves how you use our services. This is usually information that helps us secure our services or improve them. Please see “what data we collect” section for specific information.
+
+**Cookies and other tracking**
+
+We use cookies and other tracking methods for different reasons. Please see our Cookie Policy for specific information
+
+We use and share data with your consent or as needed to provide our part of a contract (such as purchasing via our services) or as a part of our legitimate interests.
+
+We are using the personal data you provide to us for several different reasons, such as: 
+
+-To respond to user requests
+
+-To provide support
+
+-To process transactions
+
+-To protect and monitor our services
+
+-To gather and analyze user data to improve our services (such as aggregated data)
+
+-To comply with the law
+
+-To use in campaigns and promotions
+
+-To communicate with you (such as newsletters and password reset mails)
+
+-To display personal advertisements based on your browsing habits
+
+
+
+  * To improve your browsing experience
+  * To analyze how effective our different campaigns are
+  * To store your preferences (such as language) and your session (so that you do not have to login every time)
+
+
+
+The data that we collect can be shared by Glorious Games Group AB in an aggregated (non-personal) format with members, partners, sponsors or others. This means that we or our third-party service providers and/or our partners, may use cookies to manage and measure the performance of advertisements displayed with our service(s). 
+
+This also helps us, our service providers and partners to provide more relevant advertising. If we ever cease to exist or are purchased by another company, we could share our information with our successor.
+
+## What are cookies?
+
+Cookies are small files which are stored on the users device and are designed to store a modest amount of data related to a website and can be accessed by a server or the client’s device. For more information about cookies, please visit [AboutCookies.org](https://www.aboutcookies.org/). We can also use other similar tracking technologies, such as web beacons, clear gifs or similar technologies. For this privacy policy, they are all grouped together under the term “Cookies”.
+
+## Which types of cookies do we use?
+
+The cookies that we use can be divided into two different categories.
+
+**Essential cookies**
+
+Essential cookies are necessary to navigate around our service(s) and to use related features. Without these cookies, nothing would work. These cookies do not gather any information unless required to secure our service(s), and users cannot turn them off if they want to use our service(s).
+
+Examples of cookies that we use that are essential in serving these functions:
+
+  * Signing in
+  * Staying signed in
+  * Registering a user
+  * Protecting our service(s)
+
+
+
+**Analytic cookies**
+
+Analytic cookies collect anonymous data about you when you use our services and are used to improve them. That data is aggregated and doesn’t contain any personal information.
+
+Examples of these cookies that we use are for:
+
+  * Gathering data about purchases, number of visitors, where visitors come from, pages they visit etc.
+  * Used in Marketing and Remarketing
+  * Information about how you interact with the page
+  * Figuring out which parts of the service is most popular
+  * Figuring out how many visitors the service has
+  * Serve relevant Advertisements
+
+
+
+## Control cookies and third-party tracking
+
+Users can change their privacy preferences regarding the use of cookies and similar technologies through their browser. Users may set their browser to accept all cookies, block certain cookies, require consent before a cookie is placed on their device, or block all cookies. Blocking all cookies will affect the users online experience and may prevent he/she from enjoying the full features offered with our service.
+
+Third parties, such as ad companies and analytic tools, might place their own tracking technologies (such as third-party cookies) on users device when using our services, often relying on their legitimate interests (please refer to their respective privacy policies). If a user don’t want third-party tracking, he/she can control it via most modern web-browsers. 
+
+Please see the [Firefox](https://support.mozilla.org/en-US/kb/disable-third-party-cookies), [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en), [Safari](https://support.apple.com/guide/safari/privacy-preferences-sfri35610/mac), [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy) documentation to see how, or if your browser isn’t listed here, please refer to that specific browser’s documentation. Note that blocking third-party cookies won’t make you see less ads, only less-relevant ones. 
+
+## Right to access and data portability
+
+Users have the right to access which data we hold about them by contacting us **.** We will also request you to verify your identity to make sure that we give the information to the correct person. If we consider that a request is manifestly unfounded or excessive, we reserve the right to request small fee as allowed under GDPR. Upon verification you will get a file about the personal data we hold about you sent to you in a portable format.
+
+## Right to be forgotten/erasure
+
+You have the right to delete your personal information from our systems. Some data will be retained for a while even after you have deleted your personal information for security and legal reasons. An example of this would be to comply with a law investigation where we have to provide certain data.
+
+If we cannot comply with your request to delete your data, we will tell you why. Please note that your account will be terminated as an effect. Users can delete their data under settings.
+
+## Right to correct
+
+If a user believes/knows that some personal data that we hold about him/her is incorrect, that user has the right to correct that data by contacting us. You will have to prove your identity so that we can make sure that you are the right person requesting the change. We will always answer within 30 days.
+
+If we cannot comply with your request to correct your data, we will tell you why. 
+
+## Right to object
+
+Users have the right to object to the processing of their data in certain circumstances, such as if the data is used for direct marketing or if we are basing the collection of data on legitimate interest.
+
+If a user wants to object to the processing of data he/she has to give specific reasons why they are objecting to the processing of their data. These reasons should be based upon their particular situation.
+
+In these circumstances this is not an absolute right, and we reserve the right to continue processing if we can demonstrate compelling legitimate grounds for the processing, which override the interests, rights and freedoms of the individual; or the processing is for the establishment, exercise or defence of legal claims.
+
+Please contact us for issues relating to the right to object 
+
+## Cookies
+
+Most browsers allow you to manage the way it stores cookies. Please visit the cookie Policy section for more info and documentation about how to manage Cookies.
+
+## Third-party tracking control
+
+Most browsers allow you to control third-party tracking. Please visit the control cookies section to see how. 
+
+## Rejecting consent
+
+You have the right to reject consent when creating an account on our services. Rejecting consent means that we will stop tracking most things about you, such as chat logs. This means that you will be unable to use certain services, such as most social functions, since that data has to be stored for security purposes. You can give or revoke consent in the Settings menu whenever you want and as many times you want, should you ever change your mind.
+
+Some things will still be logged though, such as your IP-addresses, as it is based on our legitimate interests and legal reasons.
+
+We work with various third parties to improve our service, but our privacy policy doesn’t apply to them; please refer to their privacy policies when interacting with their services. There are several different ways that you can share information with third parties, such as: 
+
+**Links to other sites**
+
+If you click on a link to another site while using one of our services, their privacy policy applies to that site.
+
+**Social media**
+
+Some of our services have integrations with other services, such as sharing posts on Facebook. How those services collect, store and use your information is described in their respective privacy policies and is not enveloped into our privacy policy.
+
+**Payment**
+
+When using some of our payment options, those services might collect information about you. For example when using PayPal as an option, you will need to share your payment information with them, and as such, their handling of your information will be under their privacy policy.
+
+We pledge to protect your personal data as best as we possibly can, however as with everything on the internet, nothing is 100% safe.
+
+We use a reasonable mix of technical solutions, physical barriers and organizational processes to protect your personal data from breaches. Examples of this are: encryption when signing in and while making any transaction, using hashing on some personal data and keeping all computers with access to administrative functions behind a secure firewall.
+
+By using our services, you accept this risk (as with everything else on the internet). If a breach occurs, we promise to inform you about it within 72 hours about what personal information was stolen, who is impacted and what we will do to counteract this.
+
+This Service is operated by Glorious Games AB from its office in Stockholm, Sweden.
+
+For Stardoll.com, Stardoll Stylista or other products that are operated by Glorious Games Group AB, please [contact us here](http://www.stardoll.com/en/help/contact.php) **.**
+
+Glorious Games Group AB
+
+Rosenlundsgatan. 29 C (5th Floor), 
+
+118 63 Stockholm, Sweden
+
+E-mail: info@stardoll.com
+
+VAT number: SE556691151601 
+
+Trade registry number: 556691-1516
+
+Fax number: USA (+1 - 212 - 208 4566) 
+
+Fax number: Great Britain (+44 - 20 - 7990 9907)
+
+Fax number: Argentina (+54 - 11 - 40321600)
+
+Fax number: Argentina (+54 - 11 - 40321600)
+
+DO NOT USE THIS SERVICE IF YOU DO NOT AGREE TO THE ABOVE CONDITIONS!
