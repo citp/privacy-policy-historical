@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverfault.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231215304id_/https%3A//stackoverflow.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverfault.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231748id_/https%3A//stackoverflow.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stack Overflow
 
@@ -34,7 +34,7 @@ Location Information
 
 When you use the Stack Overflow Network, and certain of our Products and Services, we collect location information about you including your IP address, your location, browser information, and how you came to the Stack Overflow Network. This is the case for individuals who have registered for an account, and non-members who engage with the Stack Overflow Network by visiting our website(s) but who have not completed an account registration. This information is collected for various purposes, including advertising, analytics and to serve content as it relates to certain Products or Services (e.g., Talent), as well as to provide you with localized content, recommendations, and marketing. You may revoke our permission to collect some of this data, including your location and browser information through your Account Settings, but this may limit functionality in some cases. Certain location information we collect is required for security and site functionality. We share this information with certain third-parties (e.g., talent recruiters, payment processors, and advertising providers) in order to provide you with our Products and Services. 
 
-Information from Third Parties 
+Information Shared with Third Parties 
 
 We may share personal information with third parties who provide services to Stack Overflow, such as payment processors, email delivery services, and advertising providers. Additionally, to improve user experience, we offer single sign-on solutions for account login and these third parties (including Facebook and Google) may receive information from these services when you elect to use them. When Stack Overflow shares your personal information and other collected information with third party service providers, we require that they use your information only for the purpose of providing services to us and that their terms are consistent with this privacy policy. 
 
