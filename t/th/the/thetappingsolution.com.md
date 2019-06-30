@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetappingsolution.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229124710id_/https%3A//www.thetappingsolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetappingsolution.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630122742id_/https%3A//www.thetappingsolution.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Tapping Solution
 
 The following Privacy Policy governs the online information collection practices of The Tapping Solution, LLC. (“TTS” “we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using TheTappingSolution.com (the “Site”) or any of our other websites, and the ways in which we use this information.
 
