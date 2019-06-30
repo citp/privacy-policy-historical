@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starbucks-stars.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129043246id_/https%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks-stars.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630122532id_/https%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starbucks Coffee Company
 
-Last Revised: November 15, 2017
+Last Revised: November 29, 2018
 
 This Privacy Statement ("Statement") applies to the website located at starbucks.com, store.starbucks.com, Starbucks mobile applications, and any other websites or applications associated with Starbucks brands or products that direct the viewer or user to this Statement. In this Statement, the terms "Starbucks," "we," and "us" refers to Starbucks Corporation and its respective subsidiaries and affiliated companies. The term “your device" refers to any computer, tablet, smart phone or other device you are using to access our websites or to operate the Starbucks mobile applications. Websites that are owned and operated by Starbucks may contain links to websites that are owned and operated by other companies. This Statement does not apply to websites and services that are owned and operated by third parties. 
 
@@ -20,7 +20,7 @@ California Residents
 Privacy Shield  
 Contact Us
 
-**_Information We Collect_**
+**Information We Collect**
 
 As you use our websites and mobile applications or visit one of our stores, we collect information about you and the services you use. The information we collect falls into three different categories: (1) information you give us; (2) information we collect from you automatically; and (3) information we collect from other sources. Some examples of when we collect this information include when you browse or make a purchase on one of our websites; create a Starbucks account; use our website or mobile application to purchase, reload or redeem a Starbucks Card; use the remote order and pay functionality in our mobile applications; buy or send a gift card or e-gift; or participate in a survey or promotion. 
 
@@ -42,7 +42,7 @@ Some information is collected by us automatically, including when you access our
 
 Some information we collect is publicly available. For example, we may collect information you submit to a blog, a chat room, or a social network like Facebook, Twitter or Google+. We may also collect information about you from other companies and organizations. By gathering additional information about you, we can correct inaccurate information, enhance the security of your transactions, and give you product recommendations and special offers that are more likely to interest you. 
 
-**_How We Use Your Information_**
+**How We Use Your Information**
 
 We may use the information we collect about you in a variety of ways, including to: 
 
@@ -61,7 +61,7 @@ We may use the information we collect about you in a variety of ways, including 
 
 
 
-**_How We Share Your Information_**
+**How We Share Your Information**
 
 We may share your information in the following circumstances: 
 
@@ -81,7 +81,7 @@ We may share your information in the following circumstances:
 
 **When You Post on Our Websites** – If you post information on a blog or another part of our websites, the information that you post may be seen by other visitors to our websites, including your user name. 
 
-**_How We May Allow Others to Collect Your Information_**
+**How We May Allow Others to Collect Your Information**
 
 When you use our websites or mobile applications, we may allow third parties to collect device and usage information and location information across your different devices through mobile software development kits, cookies, web beacons and other similar technologies. These third parties collect this information for the following purposes and for other purposes consistent with their own privacy policies: 
 
@@ -93,7 +93,7 @@ When you use our websites or mobile applications, we may allow third parties to 
 
 **To Link Your Activity on Our Websites to Your Social Networks** – We have added certain features to our websites and mobile applications that allow social networks (such as Facebook, Twitter, and Google+) to track the activities of their members or collect certain information when they use our website or mobile applications. These features may include technologies called "plug-ins" and "widgets." Plug-ins create a direct link between two websites, and widgets are interactive mini-programs that provide other companies’ services on our websites. If you are concerned about the way a social network is tracking your activity, please contact the social network or review its privacy policy. For example, you can review Facebook’s data-use policy at <https://www.facebook.com/about/privacy/>. 
 
-**_Cookies, Web Beacons and Similar Technologies_**
+**Cookies, Web Beacons and Similar Technologies**
 
 We and others may use a variety of technologies to collect information about your device and use of our websites and mobile applications. These technologies include cookies, web beacons, java scripts, entity tags, and HTML local storage. Most web browsers can be programmed to accept or reject the use of some or all of these technologies, although you must take additional steps to disable or control other technologies. For more information, please see the section of this Statement titled "Your Choices"
 
@@ -117,7 +117,7 @@ These and similar technologies are used for the following purposes:
 
 **Marketing** – Some of these technologies are used to tailor your experience on our website, within our mobile applications, or across your applications or devices by controlling the promotions, advertisements and other marketing messages that may appear when you access or use these or other digital properties. These technologies also help us learn which services and functionality you are using and how you are accessing information about us. We may use this information to personalize your visit to a website or use of a mobile application or to send you relevant promotions and advertisements. 
 
-**_Your Choices_**
+**Your Choices**
 
 **Promotional Communication Choices**
 
@@ -137,7 +137,7 @@ Please note that if you opt out of receiving promotional communications from us,
 
 **"Do Not Track" Technology** – Some newer web browsers have a "Do Not Track" preference that transmits a "Do Not Track" header to the websites you visit with information indicating that you do not want your activity to be tracked. We currently do not respond to browser "Do Not Track" signals. 
 
-**_How to Manage Your Account Information_**
+**How to Manage Your Account Information**
 
 Upon request we will provide you with information about whether we hold any of your personal information. You may access, correct, or remove your personal information by visiting [www.Starbucks.com/Account](http://www.starbucks.com/Account). As required by law for taxes and other record keeping purposes, we are unable to completely delete an account. 
 
@@ -145,15 +145,15 @@ Upon request we will provide you with information about whether we hold any of y
 
 Starbucks protects your information using technical, physical, and administrative security measures to reduce the risk of loss, misuse, unauthorized access, disclosure or modification of your information. When you transmit highly sensitive information (such as a credit card number) through our website or in one of our mobile applications, we encrypt the transmission of that information using the Secure Sockets Layer (SSL) protocol. While we have employed security technologies and procedures to assist safeguarding your personal information, no system or network can be guaranteed to be 100% secure. 
 
-**_Use by Children_**
+**Use by Children**
 
 We do not intend for our websites or online services to be used by anyone under the age of 13. If you are a parent or guardian and believe we may have collected information about your child, please contact us as described in the "Contact Us" section of this Statement. 
 
-**_California Residents_**
+**California Residents**
 
 If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to: Starbucks Customer Service, P.O. Box 93490 Albuquerque, NM 87199. We will make every effort to promptly respond to your request.
 
-**_Privacy Shield_**
+**Privacy Shield**
 
 Starbucks Corporation participates in and has certified its compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. Starbucks is committed to subjecting all personal data received from European Union (EU) member countries, and Switzerland, in reliance on the Privacy Shield Frameworks, to the applicable Principles. To learn more about Privacy Shield, visit the U.S. Department of Commerce’s Privacy Shield List here: <https://www.privacyshield.gov/list>.
 
@@ -165,8 +165,10 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, more fully described on the Privacy Shield website here: <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8 "TRUSTe")
 
-**_Contact Us_**
+**Contact Us**
 
 We welcome your questions, comments and concerns about privacy. You can contact Starbucks Customer Service online at [http://customerservice.starbucks.com](http://customerservice.starbucks.com/) (by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, P.O. Box 93490 Albuquerque, NM 87199. You can also contact our privacy team us by submitting this [form](https://app.smartsheet.com/b/form?EQBCT=95280ab14628466a84fd49da2d7865f5). 
+
+View the Privacy Policies for our mobile applications: [iOS](https://www.starbucks.com/about-us/company-information/online-policies/ios-privacy-policy) and [Android](https://www.starbucks.com/about-us/company-information/online-policies/android-privacy-policy).
