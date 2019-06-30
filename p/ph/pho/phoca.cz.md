@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoca.cz privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226174701id_/https%3A//www.phoca.cz/cookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoca.cz privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630050057id_/https%3A//www.phoca.cz/cookiepolicy) for the most accurate reproduction.*
 
 # Cookie Policy
 
@@ -29,5 +29,3 @@ External links
 When you click on a link on this web site that takes you to a web site operated by another company, you will be subjected to that company's web site privacy policies.
 
 See [Privacy Policy (GDPR)](https://www.phoca.cz/forum/app.php/privacypolicy/policy)
-
-### Phoca Forum - Latest Topics
