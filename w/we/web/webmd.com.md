@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231122334id_/https%3A//www.webmd.com/about-webmd-policies/about-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630153318id_/https%3A//www.webmd.com/about-webmd-policies/about-privacy-policy) for the most accurate reproduction.*
 
 # WebMD Privacy Policy
 
@@ -48,13 +48,13 @@ If you believe that one of your contacts has provided us with your personal info
 
 From time to time, WebMD may conduct online research surveys on behalf of itself and third parties through email invitations, pop-up surveys and online focus groups. When participating in a survey, we may require you to provide your location, age and if there’s a sweepstakes associated with the market research survey, your name and contact information for purposes of sweepstakes administration. The information you submit in a survey may be used by WebMD for research and measurement purposes, as described below, including to measure the effectiveness of content, advertising or programs. The personal information you provide in connection with a sweepstakes entry will be used for the sole purpose of administering the sweepstakes and as required by applicable law. We will not knowingly invite individuals who are under the age of 13 to participate in market research surveys. Market research surveys conducted by or on behalf of WebMD will contain a link to this Privacy Policy.
 
-##### WebMD Message Boards and Other Public Forums
+##### User Reviews, WebMD Message Boards, and Other Public Forums
 
-WebMD features several message board areas and other public forums where users with similar interests including with respect to certain medical conditions can share information and support one another or where users can post questions for experts to answer. We also offer online discussions moderated by healthcare experts. Our message boards are open to the public and should not be considered private.
+In connection with the use of our Physician Directory, users are able to submit provider reviews. WebMD also features several message board areas and other public forums where users can post reviews, share information and support one another or where users can post questions for experts to answer. We also offer online discussions moderated by healthcare experts. Our reviews feature in the Physician Directory and our message boards are open to the public and should not be considered private.
 
-**Any information (including personal information) you share in any online message board or other forum is by design open to the public and is not private. You should think carefully before posting any personal information in any public forum. What you post can be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, the information you post may also show up in third-party search engines.**
+Any information (including personal information) you share in any review, online message board, or other forum is by design open to the public and is not private. You should think carefully before posting any personal information in any public forum. What you post can be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, the information you post may also show up in third-party search engines.
 
-**If you mistakenly post personal information in our message board areas and would like it removed, you can send us an email to request that we remove it by using the[ _Contact Us_](https://customercare.webmd.com/ics/support/default.asp?deptID=18003) link on every page of the WebMD Sites. In some cases, we may not be able to remove your personal information. **
+If you mistakenly post personal information in our message board areas and would like it removed, you can send us an email to request that we remove it by using the [_Contact Us_](https://customercare.webmd.com/hc/en-us) link on every page of the WebMD Sites. In some cases, we may not be able to remove your personal information.
 
 ##### Emails You Send to WebMD
 
@@ -97,8 +97,6 @@ Information about your use of the Services may be used for the following purpose
 In addition, WebMD may use personal information about you for other purposes that are disclosed to you at the time we collect the information and/or with your consent.
 
 WebMD may combine your personal information and other information collected about your use of the Services, and also supplement with information from external sources for the purposes described in this Privacy Policy. For example, information that WebMD collects about you may be combined by WebMD with other information available to WebMD through third parties for research and measurement purposes, including measuring the effectiveness of content, advertising or programs. This information from other sources may include age, gender, demographic, geographic, personal interests, product purchase activity or other information. We may report aggregate information, which is not able to be identified back to an individual user of the WebMD Sites, to our current or prospective advertisers and other business partners.
-
-WebMD will not sell your personal information to third parties for their use without your consent.
 
 ### Sharing Your Information
 
@@ -187,7 +185,7 @@ We will retain your personal information for as long as necessary to provide the
 
 ### Contacting WebMD About Your Personal Information or Privacy
 
-Please send us an email by using the Contact Us link at the bottom of every page of the WebMD Sites if you have any questions about this Privacy Policy or the personal information we maintain about you.
+Please send us an email by using the Contact Us link at the bottom of every page of the WebMD Sites if you have any questions about this Privacy Policy or the personal information we maintain about you. We will respond to your request within a reasonable timeframe.
 
 You can also contact WebMD’s Privacy Office at:
 
