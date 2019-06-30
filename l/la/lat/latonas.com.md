@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latonas.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920042110id_/https%3A//latonas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latonas.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630070402id_/https%3A//latonas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,6 +69,16 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 Our site includes Social Media Features, such as the Facebook Like button, links to our various social media pages and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
+## Limited Joint Representation
+
+Latona’s assists and facilitates Transactions (which include, but not limited to, mergers, acquisitions, business sales, and business combinations) between sellers and buyers of privately-held companies or businesses. 
+
+The Transaction’s terms and conditions are negotiated between Seller and Buyer. Each party is responsible for carrying out a complete and thorough due diligence and evaluation of the Transaction and must base their decision to enter into any Transaction on their own investigation, on the representations and warranties of the other party and/or on the advice of their professional legal, business, tax or other advisors. 
+
+In the course of dealings leading up to a Transaction, it is possible that Latona’s may be placed in a situation of limited joint representation for the following reasons: (i) In the case of a Seller, because an interested buyer may also be assisted by Latona’s; and (ii) In the case of a Buyer, because Latona’s may also be assisting the Seller of a Business that Buyer is interested in. 
+
+I acknowledge that, in these circumstances Latona’s may act as a representative for more than one party and I consent to Latona’s acting as a limited joint representative. Further, I agree that, should limited joint representation arise, Latona’s shall be required to deal with each party fairly and impartially. Latona’s shall also make every reasonable effort to encourage and effect communication and negotiations between Buyer and Seller.
+
 ## Changes in Policy
 
 Company may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. You acknowledge that this Privacy Policy is part of the Terms of Use and you unconditionally agree that using this Website signifies your assent to Company Policy. Your visit and any dispute over privacy is subject to this policy and our Terms of Use, including limitations on damages. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email at least 15 or 30 days prior to the change taking effect, respectively depending on the method of notice. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
@@ -78,7 +88,7 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to [info@latonas.com](mailto:info@latonas.com) and we will make every effort to resolve your concerns. You may also write to us at:
 
 Latona's LLC  
-1357 Ashford Ave. Suite 244  
-San Juan, PR 00911  
+El Caribe Office Building  
+53 Calle Palmeras, Ste. 401 San Juan, PR 00901-2408  
 Effective Date: July 22, 2013  
 
