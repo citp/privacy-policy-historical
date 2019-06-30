@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamworkpm.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231132938id_/https%3A//www.teamwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamworkpm.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212000id_/https%3A//www.teamwork.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Teamwork.com
+# Privacy policy
 
 ## Business Privacy Policy
 
@@ -42,7 +42,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-For more information on our use of cookies, please read our [Cookie Policy](https://web.archive.org/cookie-policy).
+For more information on our use of cookies, please read our [_Cookie Policy_](https://web.archive.org/legal/cookie-policy).
 
 ## Links to other websites
 
