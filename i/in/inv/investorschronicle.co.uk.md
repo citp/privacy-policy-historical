@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorschronicle.co.uk privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225114201id_/http%3A//help.ft.com/help/legal-privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorschronicle.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630200130id_/http%3A//help.ft.com/help/legal-privacy/privacy) for the most accurate reproduction.*
 
 # Help | FT Help | FT.com Privacy Policy
 
@@ -68,7 +68,7 @@ We only process personal information where we have a lawful basis for doing so, 
 
 ## How we use your personal information
 
-We collect personal information for eight main reasons:
+We collect personal information for the following main reasons:
 
   1. **To provide our service –  **We require some of your basic personal information so our services work as you would expect, for example, delivering the newspaper to your correct address, providing access to our digital content, notifying you of changes to our services and dealing with customer services queries. We record customer calls for monitoring and training purposes.
   2. **To improve and maintain performance – In order to provide you with the best possible user experience and value, we need to make sure that our products and services work as they should. Using personal information helps us understand how our readers experience  our Sites and services, so we can make improvements. This includes contacting customers with market research surveys or for telephone interviews, hosting subscriber focus groups and analysing onsite data to test new and existing events, products and developments for the FT group. **
@@ -100,7 +100,7 @@ Users are provided with the option to create a personal Executive Profile and to
     * To encourage users to get the most out of their subscription.
   * **Other users –  **Our Sites are publicly accessible and anyone around the world who accesses our Sites will be able to see anything you post, such as comments about an article. We encourage you to use a pseudonym when commenting on our Sites if you do not wish to be identifiable to other readers.
   * **FT group –  **We share your information within the FT group to provide our services and to better understand the relationship between our products. More information about FT group is on our “[About us](https://aboutus.ft.com/en-gb/ft-group/)” website. For example, FT Live may send exclusive invitations to FT.com subscribers if an event may be of particular interest to that individual.
-  * **Legal processes and successors in title –  **We may also disclose your information to comply with applicable laws, court orders or other valid legal processes, and to enforce or apply our terms of use, any subscription agreement, or any of our other rights.We may transfer or disclose your personal information to any entity which takes over or acquires the relevant FT business.We also share aggregated, non-identifiable information with third parties. Before sharing this information, we ensure that it cannot identify you as an individual. For example, we regularly release information about the size and growth of our audiences.
+  * **Legal processes and successors in title –  **We, and our suppliers, may also disclose your information to comply with applicable laws, court orders or other valid legal processes, and to enforce or apply our terms of use, any subscription agreement, or any of our other rights.We may transfer or disclose your personal information to any entity which takes over or acquires the relevant FT business.We also share aggregated, non-identifiable information with third parties. Before sharing this information, we ensure that it cannot identify you as an individual. For example, we regularly release information about the size and growth of our audiences.
 
 
 
@@ -165,12 +165,12 @@ Our Sites contain links to third party websites which are not subject to this pr
 
 If you have a query in regards to the processing of your personal information, please contact our Data Protection Officer directly at [Privacy.Officer@ft.com](mailto:Privacy.Officer@ft.com).
 
-The Financial Times Ltd  
-Registered Office: Number One Southwark Bridge, London SE1 9HL, UK  
-Registered Number: 227590
+The Financial Times Limited  
+Registered Office: Bracken House, 1 Friday Street, London, EC4M 9BT, United Kingdom  
+Registered Number: 00227590
 
 ## Changes to this Privacy Policy
 
-This policy is effective from 14/05/2018.
+This policy is effective from 14 May 2018.
 
 Any changes we may make to this privacy policy will be posted on this page. If changes are significant, we may choose to notify you by email or to clearly indicate on our home page that the policy has been updated.
