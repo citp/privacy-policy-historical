@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usawatchdog.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204042055id_/https%3A//usawatchdog.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usawatchdog.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630101923id_/http%3A//usawatchdog.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Greg Hunter's USAWatchdog
 
 General Privacy Policies  
 We respect your interest in your privacy and as a result we have created this informational disclosure. 
