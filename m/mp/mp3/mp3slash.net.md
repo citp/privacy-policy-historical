@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mp3slash.net privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235804id_/https%3A//songs.pk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3slash.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232902id_/https%3A//songspk.mobi/page/privacy) for the most accurate reproduction.*
 
-# Privacy Page - Songs.pk
+# Songs.PK - Privacy Download Mp3 Songs Desinode.com
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit this site, and how we safeguard your information. We never sell your personal information to third parties. As with most other websites, we collect and use the data contained in log files.
 
