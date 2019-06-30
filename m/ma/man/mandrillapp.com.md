@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandrillapp.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230223243id_/http%3A//mailchimp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandrillapp.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223136id_/http%3A//mailchimp.com/legal/privacy) for the most accurate reproduction.*
 
 # Mailchimp’s Legal Policies
 
@@ -186,7 +186,7 @@ We process Personal Information about you as a data controller as described in t
 
 You may have the following data protection rights:
 
-  * To **access, correct, update or request deletion** of your Personal Information. Mailchimp takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You may contact us directly at any time about accessing, correcting, updating or deleting your Personal Information, or altering your data, by emailing us at [personaldatarequests@mailchimp.com](mailto:personaldatarequests@mailchimp.com). We will consider your request in accordance with applicable laws.
+  * To **access, correct, update or request deletion** of your Personal Information. Mailchimp takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You may contact us directly at any time about accessing, correcting, updating or deleting your Personal Information, or altering your data, by submitting a request to us [here](https://web.archive.org/dsar-requests/). We will consider your request in accordance with applicable laws.
   * In addition, if you are a resident of the EEA, you can **object to processing** of your Personal Information, ask us to **restrict processing** of your Personal Information or **request portability** of your Personal Information. Again, you can exercise these rights by emailing us at [personaldatarequests@mailchimp.com](mailto:personaldatarequests@mailchimp.com).
   * You have the **right to complain to a data protection authority** about our collection and use of your Personal Information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the EEA are available [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
@@ -323,7 +323,7 @@ With respect to Personal Information received or transferred pursuant to the Pri
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge to you) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, more fully described on the Privacy Shield website, [here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-Members located in Switzerland and the EU should also request our data processing agreement [here](https://web.archive.org/legal/forms/data-processing-agreement/), where you will be directed to log in to your account to sign the agreement online, in addition to relying on Mailchimp’s Privacy Shield certification.
+Members located in Switzerland and the EU are subject to our [Data Processing Addendum](https://web.archive.org/legal/data-processing-addendum), as described in our [Terms of Use](https://web.archive.org/legal/terms/).
 
 (iii) **Members located in Australia**
 
