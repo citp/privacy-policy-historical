@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918040958id_/https%3A//www.ielts.org/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630042512id_/https%3A//www.ielts.org/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,7 +6,7 @@
 
 ## Privacy Statement
 
-Last updated on 1 August 2018
+_Last updated on 1 August 2018_
 
 **Who we are - IELTS Owners**
 
@@ -135,7 +135,7 @@ We may also retain certain records for other legitimate reasons (including after
 
 **Your rights in relation to your personal data**
 
-If you want a copy of the personal data contained in your IELTS registration form please contact [ielts@cambridgeenglish.org](mailto:ielts@cambridgeenglish.org)
+If you want a copy of the personal data contained in your IELTS registration form please contact [data.protection@cambridgeassessment.org.uk](mailto:data.protection@cambridgeassessment.org.uk)
 
 If you want a copy of your finger scan, it can only be provided as a Binary Large Object (BLOB) and the request must be made to either [ielts@idp.com](mailto:ielts@idp.com) or [ielts@britishcouncil.org](mailto:ielts@britishcouncil.org) or [ielts@ieltsusa.org](mailto:ielts@ieltsusa.org). 
 
@@ -215,7 +215,6 @@ You can block cookies by activating the setting on your browser that allows you 
   * [Internet Explorer](http://support.microsoft.com/kb/196955)
   * [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
   * [Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
-  * [Safari](http://support.apple.com/kb/PH5000)
   * [Opera](http://www.opera.com/help/tutorials/security/privacy/)
   * [Blackberry](http://help.blackberry.com/en/blackberry-classic/10.3.1/help/mwa1334238823957.html)
   * [Android](https://support.google.com/chrome/answer/95647?hl=en)
