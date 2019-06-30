@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eurocircuits.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904031313id_/http%3A//www.eurocircuits.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocircuits.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630202317id_/http%3A//www.eurocircuits.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Statement – Eurocircuits
+# Privacy Statement - Eurocircuits
 
 ## Collection of your personal information
 
-We will always tell you before we collect any Personal Information and inform you of the purpose of the collection. “Personal Information” is any information that can be used to identify an individual, and may include, but is not limited to, name, email address, postal or other physical address, credit or debit card number, title, occupation, and other information required to provide a service, deliver a product, or carry out a transaction you have requested. Some of the reasons we collect your Personal Information include:  
+“Personal Information” is any information that can be used to identify an individual, and may include, but is not limited to, name, email address, postal or other physical address, credit or debit card number, title, occupation, and other information required to provide a service, deliver a product, or carry out a transaction you have requested. We collect your Personal Information like: username, IP address, timestamp, geographical data, operating system, web browser, pages visited, etc… while your perform one of these actions:  
 
 
   * __registration of an account
@@ -15,13 +15,16 @@ We will always tell you before we collect any Personal Information and inform yo
   * __participation in an online survey
   * __participation in discussion groups or forum
   * __collaboration efforts
+  * __engage in an online chat with us
+  * __send us an e-mail
+  * __visit our website
   * __registration to membership programs or newsletter subscriptions
 
 
 
 ## Uses of your personal information
 
-We will only use your Personal Information in the way we specified when it was collected. We will not subsequently change the way your Personal Information is used without your consent. Some of the ways we may use your Personal Information include:  
+We will use your Personal Information to improve your customer convenience while using your personal Eurocircuits customer account. We will also use this information to inform you about improving your customer convenience and to inform you about our services. This information will also be part of bulk tracking of customer activities to improve our website tools and convenience in general. Some of the ways we may use your Personal Information include:  
 
 
   * __To process your orders and deliver the products and services that you have ordered.
@@ -34,6 +37,7 @@ We will only use your Personal Information in the way we specified when it was c
   * __To conduct questionnaires and surveys in order to provide better products and services to our customers.  Your completion of any questionnaires is voluntary
   * __To understand more about you, so we can personalize newsletters and websites to your preferences. For example,  allow you the opportunity to request specific information on products and services that may be of interest.
   * __To allow you to forward information to another individual such as a friend or co-worker. Eurocircuits does not  store the personal information of the third party. We collect the information for the sole purpose of sending a one-time email. If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address.
+  * __To perform statistical analyses to improve our web tools.
   * __To meet contract obligations.
 
 
@@ -42,12 +46,15 @@ We will only use your Personal Information in the way we specified when it was c
 
 We need your help in keeping the Personal Information you have shared with us accurate and up to date. Please notify us  
 of any changes to your Personal Information.  
+Every 6 months we may invite you by e-mail to update your personal information should that be required.  
 If you are a registered user, you may make these updates yourself online via the Eurocircuits Profile Management Tool.  
 You may also make these updates or request deactivation of your Eurocircuits account by sending an email to
 
 [privacy@eurocircuits.com.](mailto:privacy@eurocircuits.com)
 
-Each email newsletter includes instructions on how you can unsubscribe from that particular mailing.  
+Each e-mail newsletter includes instructions on how you can unsubscribe from that particular mailing.  
+If you have a Eurocircuits customer account, you can also tailer our communication to your personal taste.
+
 You may also unsubscribe from Eurocircuits’ various newsletters by sending a letter, including your name, email address  
 and the title of the marketing material you wish to unsubscribe from to:
 
