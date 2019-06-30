@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicines.org.uk privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012064242id_/https%3A//www.medicines.org.uk/emc/privacy-policy-and-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicines.org.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630202614id_/https%3A//www.medicines.org.uk/emc/privacy-policy-and-legal) for the most accurate reproduction.*
 
 # Privacy Policy and Legal - electronic Medicines Compendium (eMC)
 
@@ -40,7 +40,7 @@ The copyright protected material may be reproduced by anyone free of charge in a
 In addition and subject to any restrictions on use and the disclaimers published on this website from time to time
 
   * healthcare professionals may use and download any content available on the site for professional use either by themselves or other healthcare professionals and may copy from the site (a) for distribution with related products or (b) for supply to members of the general public or other healthcare professionals for information purposes provided that in either case the relevant content is reproduced and supplied in their entirety and not in part.
-  * Pharmaceutical companies who are members of the eMC may reproduce the content for any purpose.
+  * Pharmaceutical companies who are subscribers to eMC Publishing may reproduce the content for any purpose.
 
 
 
@@ -158,7 +158,7 @@ We reserve the right to withdraw a link or refuse to link to any website without
 
 ## Links to this website
 
-We encourage organisations and individuals to create hypertext links to our website for non-commercial use. However, unless you are a member of the eMC, we require such organisations and individuals to request permission to do so via [servicedesk@medicines.org.uk](mailto:servicedesk@medicines.org.uk?subject=This%20is%20a%20link%20request...).
+We encourage organisations and individuals to create hypertext links to our website for non-commercial use. However, unless you are a subscriber to eMC Publishing, we require such organisations and individuals to request permission to do so via [servicedesk@medicines.org.uk](mailto:servicedesk@medicines.org.uk?subject=This%20is%20a%20link%20request...).
 
 We do request that those linking to our website respect the following conditions:
 
@@ -170,6 +170,6 @@ We do request that those linking to our website respect the following conditions
 
 
 
-_Datapharm Communications Limited is a company limited by guarantee, registered in England and Wales._  
+_Datapharm Communications Ltd is a company registered in England and Wales._  
  _Registered number: 1317421_  
  _Registered office address: Pascal Place, Randalls Way, Leatherhead, Surrey, KT22 7TW_
