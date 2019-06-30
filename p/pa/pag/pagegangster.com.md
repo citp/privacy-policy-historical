@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagegangster.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102072957id_/https%3A//en.calameo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagegangster.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630084228id_/https%3A//en.calameo.com/privacy) for the most accurate reproduction.*
 
 # Calaméo - Privacy
 
@@ -237,7 +237,7 @@ Pursuant to the French Data Protection (FDP) act no. 78-17 of 6 January 1978 and
 
 You may view, modify and delete the personal information available in your Calaméo account at any time by logging into the website and updating the “Account info” and “Profile info” sections under the “Settings” tab. 
 
-You may choose to receive our newsletter and commercial offers by email when you register for a Calaméo account or any time thereafter. You may also unsubscribe by clicking on the “Unsubscribe” link in any of our newsletters, or by logging into your account and updating your preferences in the “Notifications” setting under the “Settings” tab. 
+You may choose to receive our newsletter and commercial offers by email when you register for a Calaméo account or any time thereafter. You may also unsubscribe by clicking on the “Unsubscribe” link in any of our newsletters, or by logging into your account and updating your preferences in the “[Notifications](https://web.archive.org/account/notification)” setting under the “Settings” tab. 
 
 You may also exercise your right to access, rectify, erase, object to or restrict your personal information, where there is a legitimate basis and where it does not conflict with the processing purposes, by sending a request by post to the following address: Calaméo – 25 rue de Ponthieu 75008 Paris – France, or by email to [privacy@calameo.com](mailto:privacy@calameo.com). We will respond to your request in a timely manner. 
 
@@ -253,4 +253,4 @@ In the event that a request is refused, the user may lodge a complaint with the 
 
 For any other questions concerning our Privacy Policy and the processing of your personal data, you can contact us at [privacy@calameo.com](mailto:privacy@calameo.com). 
 
-For questions regarding the removal of personal information from a publication that has been published by a user on Calaméo, please consult our procedure here. 
+For questions regarding the removal of personal information from a publication that has been published by a user on Calaméo, please consult our procedure [here](https://support.calameo.com/hc/articles/205481168). 
