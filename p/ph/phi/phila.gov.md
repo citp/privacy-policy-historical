@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212011107id_/https%3A//www.phila.gov/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630102352id_/https%3A//www.phila.gov/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | City of Philadelphia
 
@@ -40,7 +40,7 @@ The City of Philadelphia has designated itself as a Hybrid Entity and the follo
 
 Links to Covered Units’ Notice of Privacy Practices
 
-  * [Ambulatory Health Services (PDF)](http://www.phila.gov/health/pdfs/AHSNPPFinalFinal091713.pdf)
+  * [Ambulatory Health Services (PDF)](https://www.phila.gov/media/20190529113010/AHS-NPP.pdf)
   * [Philadelphia Public Health Laboratory (PDF)](http://www.phila.gov/privacy/pdfs/LaboratoryNPP.pdf)
   * [STD Control Program (PDF)](http://www.phila.gov/privacy/pdfs/STDCP%20NPP.pdf)
   * [Philadelphia Nursing Home (PDF)](http://fltcpnh.org/about/privacy-policy/)
