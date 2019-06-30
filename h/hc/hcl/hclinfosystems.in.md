@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hclinfosystems.in privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613185137id_/https%3A//www.hclinfosystems.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hclinfosystems.in privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630040136id_/https%3A//www.hclinfosystems.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HCL Infosystems
 
@@ -15,7 +15,7 @@ This website has security measures in place to protect the loss, misuse, and/or 
 We will not sell, share, or otherwise distribute your Personal Data to third parties nor will we send you unsolicited email. Personal Data collected from you may also be transferred to a third party in the event that the business of this site or a part of it and the customer data connected with it is sold, assigned or transferred, in which case we would require the buyer, assignee or transferee to treat Personal Data in accordance with this Privacy Policy. Also, Personal Data may be disclosed to a third party if we are required to do so because of an applicable law, court order or governmental regulation, or if such disclosure is otherwise necessary in support of any criminal or other legal investigation or proceeding here or abroad.
 
 **Cookies**  
-A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer as a tag that identifies your computer. While cookies are often only used to measure website usage and effectiveness and to allow for ease of navigation or use and as such, are not associated with any personal information, they are also used at times to personalise a known visitor’s experience to a website by being associated with profile information or user preferences. To know more about cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) , www.youronlinechoices.eu,en.wikipedia.org/wiki/HTTP_cookie
+A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer as a tag that identifies your computer. While cookies are often only used to measure website usage and effectiveness and to allow for ease of navigation or use and as such, are not associated with any personal information, they are also used at times to personalise a known visitor’s experience to a website by being associated with profile information or user preferences. To know more about cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/), [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) and [en.wikipedia.org/wiki/HTTP_cookie](https://en.wikipedia.org/wiki/HTTP_cookie/)
 
 Type of cookies used in HCL Infosystems.com
 
