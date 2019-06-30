@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babymed.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011203233id_/https%3A//www.babymed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babymed.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630133525id_/https%3A//www.babymed.com/privacy) for the most accurate reproduction.*
 
-# BabyMed - Privacy Policy | BabyMed.com
+# BabyMed - Privacy Policy | babyMed.com
 
 ### Privacy Policy – Your Privacy Rights  
  
