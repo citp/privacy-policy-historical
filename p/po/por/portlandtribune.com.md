@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616011729id_/http%3A//pamplinmedia.com/component/content/article/113-internal-information/contact-us/111170-pamplin-media-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630184320id_/http%3A//pamplinmedia.com/component/content/article/113-internal-information/contact-us/111170-pamplin-media-group-privacy-policy) for the most accurate reproduction.*
 
 # Pamplin Media Group - Pamplin Media Group
 
-###### Effective Date: August 10, 2006
+This Privacy Policy ('Policy') applies to all of the products, services and web sites offered by the Pamplin Media Group newspapers. 
 
 * * *
-
-* * *
-
-This Privacy Policy (“Policy”) applies to all of the products, services and web sites offered by the Pamplin Media Group newspapers. 
 
 **_Information we collect and how we use it:_**
 
@@ -81,5 +77,21 @@ The Pamplin Media Group regularly reviews its compliance with this Policy. Pleas
 **_Changes to this policy_**
 
 Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your explicit written consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Policy in an archive for your review. 
+
+**_Comment Policy_**
+
+Comments are welcomed and encouraged on this site, but there are some instances where comments will be edited or deleted as follows: 
+
+\- Comments deemed to be spam or solely promotional in nature will be deleted. Links to external content is permitted, but comments should be relevant to the post topic and would have to be moderated. 
+
+\- Comments including profanity will be deleted. 
+
+\- Comments containing language or concepts that could be deemed offensive will be deleted. Note this may include abusive, threatening, pornographic, offensive, misleading or libelous language. 
+
+\- Comments that attack an individual directly will be deleted. 
+
+\- Comments that harass other posters will be deleted. Please be respectful toward other contributors. 
+
+The owner of this news site reserves the right to edit or delete any comments submitted to the blog without notice. This comment policy is subject to change at any time. 
 
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Pamplin Media Group Attn: Webmaster, 6605 SE Lake Road, Portland, OR 97222, USA. 
