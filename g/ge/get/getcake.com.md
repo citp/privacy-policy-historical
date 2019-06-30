@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the getcake.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180238id_/https%3A//getcake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcake.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212503id_/https%3A//getcake.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – CAKE
+# Privacy Policy | CAKE
 
-## This Privacy Policy was last updated on June 20, 2018
+## This Privacy Policy was last updated on January 25, 2019
 
 ## Protecting Your Privacy
 
 We, CAKE ( **we** , **us** , **our** ), are committed to protecting the privacy of our users. To this end, we believe that you have the right to know what information we collect about you, how the information is used, and how you can access or change any of this information.
 
-This privacy policy ( **Privacy Policy** ) explains how we use your information and explains what you can expect from CAKE when it comes to the protection of your personal data (your personal information).  This Privacy Policyis provided in a layered format so you can click through to the specific areas set out below. Alternatively, you can download a pdf version of the policy [here](https://getcake.com/wp-content/uploads/2018/05/CAKEPrivacyPolicy.pdf).
+This privacy policy ( **Privacy Policy** ) explains how we use your information and explains what you can expect from CAKE when it comes to the protection of your personal data (your personal information). This Privacy Policy is provided in a layered format so you can click through to the specific areas set out below. Alternatively, you can download a pdf version of the policy [here](http://getcake.com/wp-content/uploads/2019/01/pGDllm-CAKE_Privacy_Policy_12519.pdf).
 
 Please note that we also process personal data on behalf of our clients who use our CAKE platform(s). In those situations, it is the client who determines the purposes and means of the processing of personal data. Whilst there is a written contract in place between us and our client which sets out our data protection obligations, we neither control what personal data our clients collect nor how they use it. We are not responsible for their privacy statements. This Privacy Policy neither applies to such clients’ use of personal data, nor to our processing of such personal data for such clients. Please consult the terms and conditions and privacy policy of the relevant client to find out how they use your information and to establish whether and for what purpose they collect it.
 
@@ -48,9 +48,13 @@ Changes and Updates
 
 Mediation
 
-Dispute Resolution for Residents of the European Union
+Dispute Resolution for Residents of the European Union and Switzerland
+
+Resolution of Privacy Shield Complaints
 
 Special Note to Users Outside of the United States
+
+Privacy Shield
 
 Further Questions or Comments  
 
@@ -67,7 +71,7 @@ We have appointed a data protection officer ( **DPO** ) who is responsible for o
 
 You can contact us as follows:
 
-FAO:              Ron Torres, DPO
+FAO:              Kevin King, DPO
 
 Address:       20411 SW Birch St. Suite 250 Newport Beach, CA 92660, USA
 
@@ -91,22 +95,22 @@ If you prefer, you can of course always contact us using our US contact details 
 
 **Information that you provide to us**
 
-We collect personal data from voluntary user registrations, requests for information, surveys, mailing listssubscriptions, job applications, contact forms and emails. We may also collect personal data that you provide to us when you purchase a product or service from us, or contact or otherwise correspond with us.
+We collect personal data from voluntary user registrations, requests for information, surveys, mailing lists subscriptions, job applications, contact forms and emails. We may also collect personal data that you provide to us when you purchase a product or service from us, or contact or otherwise correspond with us.
 
-The information you provide to us might include your **identity and contact data** (name, address, email address, and phone number). If you are creating an account you may also provide a **password**. If you are purchasing a service from us you will also need to provide your **payment details**. If you are submitting a job application you may also provide your **CV** , additional information about your **academic and work history** , **references** , and any other such similar or related information as may be supplied.
+The information you provide to us might include your  **identity and contact data  **(name, address, email address, and phone number). If you are creating an account you may also provide a **password**. If you are purchasing a service from us you will also need to provide your **payment details**. If you are submitting a job application you may also provide your **CV** , additional information about your **academic and work history** , **references** , and any other such similar or related information as may be supplied.
 
 **Information that we collect about you  **
 
-We may collect any **information contained in any correspondence** between us. For example, if you contact us using a form on our site or by email, telephone, Skype, or otherwise, we may keep a record of that correspondence.
+We may collect any **information contained in any correspondence  **between us. For example, if you contact us using a form on our site or by email, telephone, Skype, or otherwise, we may keep a record of that correspondence.
 
-We may also collect certain **technical and usage information** when you visit one of our websites ([getcake.com](https://protect-eu.mimecast.com/s/lLJWCGZvOTj2zPF0Z1ay?domain=getcake.com), [accelerize.com](https://protect-eu.mimecast.com/s/ZcMDCJZygT0gj2fpGny7?domain=accelerize.com), and [marketingintelligence.com](https://protect-eu.mimecast.com/s/fCT1CKO1jt3ZRYcndRTh?domain=marketingintelligence.com)) about which pages you visit, how long you visit certain pages, and how you arrived at our website among other things. This might include your IP address, geographical location, device information (such as your hardware model, mobile network information, unique device identifiers),browser type, referral source, length of visit to the website, number of page views, the search queries you make on the website, and similar information.This information may be collected by a third-party website analytics service provider on our behalf and/or may be collected using cookies. For more information on exactly what information is obtained, please read section titled “What Are Cookies?” belowor contact us at [privacy@getCAKE.com](mailto:privacy@getCAKE.com).
+We may also collect certain  **technical and usage information  **when you visit one of our websites ([getcake.com](https://protect-eu.mimecast.com/s/lLJWCGZvOTj2zPF0Z1ay?domain=getcake.com), [accelerize.com](https://protect-eu.mimecast.com/s/ZcMDCJZygT0gj2fpGny7?domain=accelerize.com), and [marketingintelligence.com](https://protect-eu.mimecast.com/s/fCT1CKO1jt3ZRYcndRTh?domain=marketingintelligence.com)) about which pages you visit, how long you visit certain pages, and how you arrived at our website among other things. This might include your IP address, geographical location, device information (such as your hardware model, mobile network information, unique device identifiers), browser type, referral source, length of visit to the website, number of page views, the search queries you make on the website, and similar information.This information may be collected by a third-party website analytics service provider on our behalf and/or may be collected using cookies. For more information on exactly what information is obtained, please read the section titled “What Are Cookies?” below or contact us at [privacy@getCAKE.com](mailto:privacy@getCAKE.com).
 
 **Information that we receive from third parties**
 
 In certain circumstances, we will receive information about you from third parties. For example:
 
   1. if you are a job applicant we may contact your current and former employers and/or referees to provide information about you;
-  2. we may use third-party providers to obtain or verify your contact information. For example, we may use third-party databases or websites (such as LinkedIn, io) and other publicly available sourcesto confirm your contact details; and
+  2. we may use third-party providers to obtain or verify your contact information. For example, we may use third-party databases or websites (such as LinkedIn, io) and other publicly available sources to confirm your contact details; and
   3. we might also receive information about you from third parties if you have indicated to such third party that you would like to hear from us.
 
 
@@ -124,17 +128,17 @@ We collect and use your information for the purposes listed below either on the 
 
 We may use your information for the following purposes:
 
-  1. **access to our website** : to improve your user experience through the customization of content and layouts of various pages,(including sharing your information with our website hosts and developers, our digital consultant, designer and website manager) (on the basis of our legitimate interest to ensure our website is presented in an effective and optimal manner);
+  1. **access to our website** : to improve your user experience through the customization of content and layouts of various pages, (including sharing your information with our website hosts and developers, our digital consultant, designer and website manager) (on the basis of our legitimate interest to ensure our website is presented in an effective and optimal manner);
   2. **registration of your account** : when you sign up to use our services, we will use the details provided on your account registration form (on the basis of performing our contract with you);
-  3. **relationship management and marketing** :to respond to your requests for information and keep you informed about new features and services that we offer along with any content that we provide through our newsletters, provided that we have the requisite permission to do so (either on the basis of your consent where we have requested it, or, alternatively, our legitimate interests to provide you with marketing communications where we may lawfully do so)and provided that you have not asked us to not contact you;
+  3. **relationship management and marketing** : to respond to your requests for information and keep you informed about new features and services that we offer along with any content that we provide through our newsletters, provided that we have the requisite permission to do so (either on the basis of your consent where we have requested it, or, alternatively, our legitimate interests to provide you with marketing communications where we may lawfully do so) and provided that you have not asked us to not contact you;
   4. **processing and facilitation of transactions** : we will use your information to process transactions and payments, and to collect and recover money owed to us (on the basis of performing our contract with you and on the basis of our legitimate interest to recover debts due);
-  5. **suggestions and recommendations** :shareyour informationwith reputable organizations who may contact you with special offers of possible interest (where we have your consent to do soor, alternatively, on the basis of our legitimate interests to operate a business)and provided that you have not asked us to not to share your data in this way;
+  5. **suggestions and recommendations** : share your information with reputable organizations who may contact you with special offers of possible interest (where we have your consent to do so or, alternatively, on the basis of our legitimate interests to operate a business) and provided that you have not asked us to not to share your data in this way;
   6. **user and customer support** : to provide customer service and support (on the basis of our contract with you), deal with enquiries or complaints about the website and share your information with our third-party service providers as necessary to provide customer support (on the basis of our legitimate interest in providing the correct products and services to our website users);
   7. **recruitment** : to process any job applications you submit to us (on the basis of your consent where we have requested it, or, alternatively, our legitimate interests to consider job applications, or where we otherwise have a legal obligation to process certain information about our job applicants);
   8. **prize draws, competitions and surveys** : to enable you to take part in prize draws, competitions and surveys (on the basis of performing our contract with you and our legitimate interest in studying how our website and services are used, to develop them and grow our business);
   9. **fraud and unlawful activity detection** : to protect, investigate, and deter against fraudulent, unauthorised, or illegal activity, including identity fraud (on the basis of our legitimate interests to operate a safe and lawful business or where we otherwise have a legal obligation to do so);
   10. **compliance with policies, procedures and laws** : to enable us to comply with our policies and procedures and enforce our legal rights, or to protect the rights, property or safety of our employees, and share your information with our technical and legal advisors (on the basis of our legitimate interests to operate a safe and lawful business or where we otherwise have a legal obligation to do so); and
-  11. **research and analytics** : to carry out aggregated and anonymised research about general engagement with our website and the use of our services and products (on the basis of our legitimate interest in providing the right kinds of products and services to our website users, and improving our website, products and services). Please readsection titled “Analytical Data” below for more information.
+  11. **research and analytics** : to carry out aggregated and anonymised research about general engagement with our website and the use of our services and products (on the basis of our legitimate interest in providing the right kinds of products and services to our website users, and improving our website, products and services). Please read section titled “Analytical Data” below for more information.
 
 
 
@@ -163,17 +167,17 @@ Please note that, pursuant to section 7.4. of our [Terms of Use](https://getcake
 
 ### Who Do You Share My Information With?
 
-In connection with the purposes and on the lawful grounds described above and in addition to the recipients of your informationas described above, we may disclose your personal information to:
+In connection with the purposes and on the lawful grounds described above and in addition to the recipients of your information as described above, we may disclose your personal information to:
 
   1. **companies of the CAKE group** based in the US and in the UK;
-  2. **third-party service providers** we work withto prepare or send any communications to you, or to assist us in connection with any of our administrative or business functions, or in the provision of any of our products or our services to you (including for example, hosting or operating the website and our databases and site analytics);
-  3. **any prospective seller or buyer** of our business or assets, only in the event that we decide to sell or buy any of our business or assets;
-  4. any **other third parties** (including **legal or other advisors** , **regulatory authorities** , **courts** and **government agencies** ) where necessary to enable us to enforce our legal rights, or to protect the rights, property or safety of our employees or where such disclosure may be permitted or required by law (for example, we may need to disclose certain information to comply with laws, regulations, court orders, subpoenas, search warrants, or other legal reasons in the course of a legal proceeding or in response to a law enforcement agency request); and
-  5. other **reputable businesses** whose products or services may be of value to you (in the circumstances set out above).
+  2. **third-party service providers  **we work with to prepare or send any communications to you, or to assist us in connection with any of our administrative or business functions, or in the provision of any of our products or our services to you (including for example, hosting or operating the website and our databases and site analytics); provided that, where required by European data protection laws and/or the Privacy Shields (as defined below), we enter into written agreements with those third-party agents and service providers requiring them to provide the same level of protection that European data protection laws and/or the Privacy Shield require and limiting their use of the data to the specified services provided on our behalf;
+  3. **any prospective seller or buyer  **of our business or assets, only in the event that we decide to sell or buy any of our business or assets;
+  4. any **other third parties  **(including **legal or other advisors** , **regulatory authorities** , **courts  **and **government agencies** ) where necessary to enable us to enforce our legal rights, or to protect the rights, property or safety of our employees or where such disclosure may be permitted or required by law (for example, we may need to disclose certain information to comply with laws, regulations, court orders, subpoenas, search warrants, or other legal reasons in the course of a legal proceeding or in response to a law enforcement agency request); and
+  5. other **reputable businesses  **whose products or services may be of value to you (in the circumstances set out above); provided that, if required by European data protection laws and/or the Privacy Shield (as defined below), we will (i) enter into written contracts with any unaffiliated third-party data controllers requiring them to provide the same level of protection for your personal information that European data protection laws and/or the Privacy Shield requires; and (ii) limit their use of your personal information so that it is consistent with any consent you have provided and with the notices you have received.
 
 
 
-Where we do share your information with third parties, we will require such third parties to comply with this Privacy Policy and maintain appropriate security to protect your information from unauthorised access or processing, unless we have no ability to do so (for example, where we are sharing information with regulatory authorities or courts). In addition, we take reasonable and appropriate steps to ensure that third parties process your personal information in accordance with European data protection laws, where applicable, and to stop and remediate any unauthorized processing of your personal information.
+Where we do share your information with third parties, we will require such third parties to comply with this Privacy Policy and maintain appropriate security to protect your information from unauthorised access or processing, unless we have no ability to do so (for example, where we are sharing information with regulatory authorities or courts). In addition, we take reasonable and appropriate steps to ensure that third parties process your personal information in accordance with our European data protection laws and/or Privacy Shield obligations, where applicable, and to stop and remediate any unauthorized processing of your personal information. Under certain circumstances, we may remain liable for the acts of our third-party agents or service providers who perform services on our behalf with respect to their handling of personal data that we transfer to them pursuant to European data protection laws and/or the Privacy Shield.   
 
 ### What Are Cookies?
 
@@ -334,9 +338,9 @@ Please contact us using the information provided in the ‘About us’ section a
 You have certain rights in respect of the information that we hold about you, including:
 
   1. the right to ask us **not to process your personal data for marketing purposes** ;
-  2. the right to **request access** to the information that we hold about you;
+  2. the right to **request access  **to the information that we hold about you;
   3. in certain circumstances, the right to **object to processing** , i.e. to ask us to stop processing information about you; and
-  4. the **right to lodge a complaint** about us to the UK Information Commissioner’s Office (https://ico.org.uk/).
+  4. the **right to lodge a complaint  **about us to the UK Information Commissioner’s Office (https://ico.org.uk/).
 
 
 
@@ -350,18 +354,18 @@ Please note that we may need to retain certain information for our own record-ke
 
 From 25 May 2018, in accordance with new data protection laws which will be in force from that date, you will have certain additional rights in respect of the information that we hold about you, including:
 
-  1. the **right to lodge a complaint** about us to the UK Information Commissioner’s Office (<https://ico.org.uk/>) or the relevant authority in your country of work or residence;
-  2. the **right to withdraw your consent** for our use of your information in reliance of your consent (refer to section titled “Why Do You Collect Information?” above to see when we are relying on your consent), which you can do by contacting us using the details set out at the top of this Privacy Policy;
-  3. the **right to object** to our using your information on the basis of our legitimate interests (refer to section titled “Why Do You Collect Information?” above to see when we are relying on our legitimate interests); and
-  4. the **right to receive a copy** of any information we hold about you in connection with the performance of our contract with you or on the basis of your consent (or request that we transfer this to another service provider) in a structured, commonly-used, machine readable format; and
-  5. the right to ask us to **limit or cease processing** or **erase information** we hold about you in certain circumstances.
+  1. the **right to lodge a complaint  **about us to the UK Information Commissioner’s Office (<https://ico.org.uk/>) or the relevant authority in your country of work or residence;
+  2. the **right to withdraw your consent  **for our use of your information in reliance of your consent (refer to section titled “Why Do You Collect Information?” above to see when we are relying on your consent), which you can do by contacting us using the details set out at the top of this Privacy Policy;
+  3. the **right to object  **to our using your information on the basis of our legitimate interests (refer to section titled “Why Do You Collect Information?” above to see when we are relying on our legitimate interests); and
+  4. the **right to receive a copy  **of any information we hold about you in connection with the performance of our contract with you or on the basis of your consent (or request that we transfer this to another service provider) in a structured, commonly-used, machine readable format; and
+  5. the right to ask us to **limit or cease processing  **or **erase information  **we hold about you in certain circumstances.
 
 
 
   
 **How can I exercise my rights?**
 
-You may exercise your rights above by contacting us using the details set out at the top of this Privacy Policy in the ‘About us’ section, or in the case of preventing processing for marketing activities also by checking certain boxes on forms that we use to collect your data to tell us that you don’t want to be involved in marketing, by using the unsubscribe option available on email communication your receive from us, or by updating your marketing preferences via your account with us.
+You may exercise your rights above by contacting us using the details set out at the top of this Privacy Policy in the ‘About us’ section, or in the case of preventing processing for marketing activities also by checking certain boxes on forms that we use to collect your data to tell us that you don’t want to be involved in marketing, by using the unsubscribe option available on email communication you receive from us, or by updating your marketing preferences via your account with us.
 
 We will comply with your requests unless we have a lawful reason not to do so.
 
@@ -373,28 +377,38 @@ It is important that the personal data we hold about you is accurate and current
 
 ### Mediation
 
-If you are a resident of a country outside of the European Union, you also agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy that you and CAKE will attempt in good faith to negotiate a written resolution of the matter directly between the parties. You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in Orange County, California with a mutually agreed mediator in an attempt to resolve the dispute. Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorneys’ fees, even if you would otherwise be entitled to them.
+If you are a resident of a country outside of the European Union other than Switzerland, you also agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy, excepting those concerning Privacy Shield, that you and CAKE will attempt in good faith to negotiate a written resolution of the matter directly between the parties. You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in Orange County, California with a mutually agreed mediator in an attempt to resolve the dispute. Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorneys’ fees, even if you would otherwise be entitled to them.
 
-### Dispute Resolution for Residents of the European Union
+### Dispute Resolution for Residents of the European Union and Switzerland
 
 If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you may lodge a complaint about us to the UK Information Commissioner’s Office (<https://ico.org.uk/>) or the relevant authority in your country of work or residence.
+
+### Resolution of Privacy Shield Complaints
+
+We will investigate and attempt to resolve any complaints or disputes regarding the use or disclosure of your personal information pursuant to the Privacy Shield (a “Privacy Shield Complaint”) within forty-five (45) days of receiving your complaint. Not withstanding anything to the contrary contained in this Privacy Policy, we have agreed to cooperate with JAMS with respect to any unresolved Privacy Shield Complaints. If you are unsatisfied with the resolution of your complaint, you may contact JAMS at [www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield) for further information and assistance. You may have the option to select binding arbitration for the resolution of your Privacy Shield Complaint under certain circumstances, provided you have taken the following steps: (a) raised your Privacy Shield Complaint directly with us and provided us the opportunity to resolve the issue; (b) made use of the independent dispute resolution mechanism provided through JAMS as identified above; and (c) raised your Privacy Shield Complaint through the relevant data protection authority and allowed the US Department of Commerce an opportunity to resolve the complaint at no cost to you. For more information on binding arbitration, see [US Department of Commerce’s Privacy Shield Framework: Annex I (Binding Arbitration)](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
 ### Special Note to Users Outside of the United States
 
 Our site is hosted in the United States. If you are a user accessing our site from the European Union or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that your personal data will be processed outside of the European Economic Area (the “EEA”). We will take all steps necessary to ensure that your information is adequately protected and processed in accordance with this Privacy Policy, including but not limited to:
 
-  1. only transferring your personal data to [countries that have been deemed to provide an adequate level of protection for personal data](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)by the European Commission;
+  1. only transferring your personal data to [countries that have been deemed to provide an adequate level of protection for personal data](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) by the European Commission;
   2. where we use certain service providers, by using specific contracts approved by the European Commission which give personal data the same protection it has in Europe (the so-called [European Commission’s Standard Contractual Clauses](http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm));or
-  3. where we use providers based in the US, we may transfer data to them pursuant to mechanisms which require such recipients to provide similar protection to personal data shared between Europe and the US.
+  3. where we use providers based in the US, we may transfer data to them under the [EU-US Privacy Shield Framework](https://www.privacyshield.gov/welcome) or the [Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/welcome), in each case as administered by the US Department of Commerce (the “Privacy Shield”), which requires such recipients to provide similar protection to personal data shared between Europe and the US. For more information on the Privacy Shield and our obligations thereunder, please refer to the section titled “Privacy Shield” below.
 
 
 
 You consent to such cross-border transfers of your information. Please contact us using the contact details set out in the ‘About us’ section if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
 
+### Privacy Shield
+
+We recognize that the EEA and Switzerland (collectively, the “Privacy Shield Jurisdictions”) have established strict protections regarding the handling of certain personal information that we receive in the US from the Privacy Shield Jurisdictions (“Privacy Shield Data”), including requirements to provide adequate protection for Privacy Shield Data transferred outside of the Privacy Shield Jurisdictions. To provide adequate protection for certain Privacy Shield Data about consumers and suppliers received in the US, we have elected to self-certify to the [EU-US Privacy Shield Framework](https://www.privacyshield.gov/welcome) and the [Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/welcome). We adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability.
+
+For purposes of enforcing compliance with the Privacy Shield, we are subject to the investigatory and enforcement authority of the US Federal Trade Commission. For more information about the Privacy Shield, see the US Department of Commerce’s Privacy Shield website located at [www.privacyshield.gov](https://www.privacyshield.gov/). To review our representation on the Privacy Shield list, see the US Department of Commerce’s Privacy Shield self-certification list located at [www.privacyshield.gov/list](https://www.privacyshield.gov/list).
+
 ### Further Questions or Comments
 
-If you have any questions about this Privacy Policy or feel that his website has not followed its stated privacy policy, feel free to contact us by email at _[privacy@getCAKE.com](mailto:privacy@getCAKE.com)_ , by phone at (00 1) 949-515-2126, or by mail at Ron Torres (DPO), CAKE, 20411 SW Birch St. Suite 250 Newport Beach, CA 92660, USA.
+If you have any questions about this Privacy Policy or feel that his website has not followed its stated privacy policy, feel free to contact us by email at _[privacy@getCAKE.com](mailto:privacy@getCAKE.com)_ , by phone at (00 1) 949-515-2126, or by mail at Kevin King (DPO), CAKE, 20411 SW Birch St. Suite 250 Newport Beach, CA 92660, USA.
 
 Note: This Privacy Policy applies to all of CAKE’s owned and operated websites and to CAKE’s other information gathering activities.
 
-This Privacy Policy was last updated on 20 June 2018.
+This Privacy Policy was last updated on 25 January 2019.
