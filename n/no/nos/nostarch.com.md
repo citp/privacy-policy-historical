@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nostarch.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624230032id_/https%3A//nostarch.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nostarch.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630075028id_/https%3A//nostarch.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | No Starch Press
 
@@ -13,7 +13,7 @@ No Starch Press
 San Francisco, CA 94103 USA  
 +1 415.863.9900  
 fax: +1 415.863.9950  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#127067617b7c776161527c7d61667360717a3c717d7f)
+[business@nostarch.com](mailto:business@nostarch.com)
 
 If you have any questions about our privacy policy please direct them to our Business Manager at the address listed above.
 
@@ -57,7 +57,7 @@ Our site uses Drupal and Ubercart which uses cookies to keep track of your sessi
 
 ### Use of Your Personal Information
 
-When you subscribe to updates from us, your email address is stored in a database hosted on our hosting company’s server that can only be accessed by No Starch Press staff and contractors. When you subscribe to one of our email lists and give us permission to do so your name and email address may also be sent to and stored in another service such as Mailchimp or similar in order to send you news and advise you of special promotions. We send these out infrequently and you can unsubscribe at any time. (If you don’t see an Unsubscribe link in an email please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8b1b6beb798b6b7abacb9aabbb0f6bbb7b5) and we will remove you promptly from our marketing lists.)
+When you subscribe to updates from us, your email address is stored in a database hosted on our hosting company’s server that can only be accessed by No Starch Press staff and contractors. When you subscribe to one of our email lists and give us permission to do so your name and email address may also be sent to and stored in another service such as Mailchimp or similar in order to send you news and advise you of special promotions. We send these out infrequently and you can unsubscribe at any time. (If you don’t see an Unsubscribe link in an email please email us at [info@nostarch.com](mailto:info@nostarch.com) and we will remove you promptly from our marketing lists.)
 
 We use your personal information to establish and maintain your account, to provide you with certain features, and to email you regarding changes to this policy or other applicable policies. If you sign up to receive updates from us when you create your account, we may use your personal information to send you news and promotional campaigns. 
 
@@ -91,7 +91,7 @@ We do not retain your non-personal browsing information in server logs once we h
 
 ### Account Termination
 
-Upon your request we will terminate your account at [https://nostarch.com](https://nostarch.com/) and remove all personal information. In order to terminate your account please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7e171018113e10110d0a1f0c1d16501d1113) and we will let you know what we will require in order to terminate your account.
+Upon your request we will terminate your account at [https://nostarch.com](https://nostarch.com/) and remove all personal information. In order to terminate your account please email [info@nostarch.com](mailto:info@nostarch.com) and we will let you know what we will require in order to terminate your account.
 
 ### Notice
 
