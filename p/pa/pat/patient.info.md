@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patient.info privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020043249id_/https%3A//patient.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patient.info privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212046id_/https%3A//patient.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Patient
 
