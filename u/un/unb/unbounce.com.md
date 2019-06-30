@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the unbounce.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231085437id_/https%3A//unbounce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unbounce.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224358id_/https%3A//unbounce.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Last Updated: May 23, 2018
 
 Thank you for using the Site and/or Services of Unbounce Marketing Solutions Inc. (“Unbounce”, “we”, “us”, or “our”). We take your privacy very seriously, and this Privacy Policy explains the ways in which we collect, use, disclose, and protect information relating to our Site and Services. By visiting the Site or by using the Services, you accept the terms and conditions of this Privacy Policy.
 
@@ -10,7 +8,7 @@ This Privacy Policy may be amended at any time, with or without notice or notifi
 
 Capitalized terms not defined in this Privacy Policy have the meaning assigned them in our Terms of Service, “General Terms” section, found at <http://unbounce.com/terms-of-service/>.
 
-## Information We Collect Directly from You
+#### Information We Collect Directly from You
 
 We collect different types of information from or through the Site and/or Services. Where appropriate, the legal basis for our processing of Personal Data is either consent, where we ask for it, or that the processing is necessary for providing the Site and/or Services and is carried out in our legitimate interests, which are further explained in the “How We May Use Information We Collect from You” section.
 
@@ -18,7 +16,7 @@ We collect different types of information from or through the Site and/or Servic
 
 **Billing Information** : When your Account includes a Subscription, we collect, but do not store, your credit card number. When you enter your credit card number, it is sent directly into Recurly, our Third Party payment provider, and bypasses our databases entirely. From there, Recurly transfers Billing Information to Stripe for payment processing. You agree that our Third Party payment providers and processors may collect and store your billing address and credit card information on our behalf, and that we may change our payment provider and processor at any time for any reason.
 
-Unbounce will collect and store your billing address. Full credit card numbers are never visible to Unbounce employees or contractors, and we will not modify your credit card number or billing address under any circumstances. We adhere to all controls required for handling cardholder data in accordance with Payment Card Industry (PCI) compliance standards. You agree that our Third Party payment processors may collect and store your billing address and credit card information on our behalf. We only use Third Parties providing sufficient guarantees to implement appropriate technical and organisational measures. 
+Unbounce will collect and store your billing address. Full credit card numbers are never visible to Unbounce employees or contractors, and we will not modify your credit card number or billing address under any circumstances. We adhere to all controls required for handling cardholder data in accordance with Payment Card Industry (PCI) compliance standards. You agree that our Third Party payment processors may collect and store your billing address and credit card information on our behalf. We only use Third Parties providing sufficient guarantees to implement appropriate technical and organisational measures.
 
 **Log Data** : When you use the Services, our servers may automatically collect and store information, including information that your browser sends whenever you visit a website. This log data may include, but is not limited to, your Internet Protocol (IP) address, the address of the web page you visited before using the Services, the operating system you are using, the date and time of your accessing the Services, geolocation information, type of device, cookie data, and browser signatures.
 
@@ -43,7 +41,7 @@ We are collecting this information in order to better support the Plugin and the
 
 You hereby consent to the collection and storage of this information in your use, installation and updating of the Plugin. If you do not consent to the collection and storage of this information, you may not use the Plugin.
 
-## How We May Use Information We Collect from You
+#### How We May Use Information We Collect from You
 
 We take steps designed to ensure that only those employees who need access to your Personal Data to fulfill their employment duties will have access to it.
 
@@ -55,29 +53,29 @@ If you have received a commercial electronic message from us (regarding our prod
 
 We work hard to keep the Services secure and to prevent abuse and fraud. We may use your Personal Data as necessary to respond to security incidents, claims of any violation of our rights or those of any Third Parties, to protect the rights, property, or personal safety of you, us, our Customers, and the public, and as required or authorized by law.
 
-## How We May Disclose Information We Collect from You
+#### How We May Disclose Information We Collect from You
 
 Unbounce will only share your information with Third Parties in accordance with your instructions or as necessary to provide you with a specific service (for example, our Third Party payment processors, and our email service provider for the “Email Me New Leads” integration) or otherwise in accordance with applicable privacy legislation. As a general rule, unless permitted in this Privacy Policy, we do not and will not sell, rent, share, or disclose your Personal Data without first receiving your permission. When we disclose your Personal Data to Third Party service providers, we take reasonable measures to ensure that the rules set forth in this Policy are complied with.
 
 This policy is not intended to place any limits on what we may do with data that is aggregated and/or anonymized so it is no longer associated with an identifiable Customer or user of the Services (“Aggregated Data”). We may use your Personal Data to generate Aggregated Data for internal use and for sharing with Third Parties on a selective basis.
 
-Lead Data is hosted in our Frankfurt (Germany) database, with a failover database in Dublin (Ireland). However, please note that your Personal Data may be stored and processed in any country where we have facilities or in which we engage Third Party service providers. By using the Site and/or Services, you consent to the transfer of information to countries outside your country of residence, including the United States, which may have different data protection rules than in your country. While such information is outside of the EU/EEA, it is subject to the laws of the country in which it is held, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other country, pursuant to the laws of such country. Our practices regarding your Personal Data will at all times continue to be governed by this Policy and we will comply with GDPR requirements providing adequate protection for the transfer of Personal Data from the EU/EEA to a third country. 
+Lead Data is hosted in our Frankfurt (Germany) database, with a failover database in Dublin (Ireland). However, please note that your Personal Data may be stored and processed in any country where we have facilities or in which we engage Third Party service providers. By using the Site and/or Services, you consent to the transfer of information to countries outside your country of residence, including the United States, which may have different data protection rules than in your country. While such information is outside of the EU/EEA, it is subject to the laws of the country in which it is held, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other country, pursuant to the laws of such country. Our practices regarding your Personal Data will at all times continue to be governed by this Policy and we will comply with GDPR requirements providing adequate protection for the transfer of Personal Data from the EU/EEA to a third country.
 
-## Your Rights
+#### Your Rights
 
 You have the right to access and edit your Account and Profile Information (including User ID and billing details) by logging into the Services and choosing to edit your Profile. You are able to upgrade, downgrade, and cancel your Subscription, enable and disable Third Party integrations, view your Lead Data, download a CSV file of your Lead Data for any date range, invite additional Users to your Account (depending on your Account level), and decide which permission level to grant each additional User.
 
-Under the GDPR, you may be entitled to additional rights, including: (i) the right to withdraw consent to processing where consent is the basis of processing; (ii) the right to access your Personal Data and certain other supplementary information, under certain conditions; (iii) the right to object to unlawful data processing, under certain conditions; (iv) the right to erasure of Personal Data about you, under certain conditions; (v) the right to demand that we restrict processing of your Personal Data, under certain conditions, if you believe we have exceeded the legitimate basis for processing, processing is no longer necessary, are processing, or believe your Personal Data is inaccurate; (vi) the right to data portability of Personal Data concerning you that you provided us in a structured, commonly used, and machine-readable format, under certain conditions; (vii) the right object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you, under certain conditions; (viii) the right to lodge a complaint with data protection authorities. You may contact our Data Protection Officer by emailing [support@unbounce.com](mailto:support@unbounce.com) with your request. If you want to learn more about your rights under the GDPR, you can visit the European Commission’s page on Data Protection at: <http://ec.europa.eu/justice/data-protection/index_en.htm>. We will maintain your Personal Data for as long as they are needed, or as required by applicable laws, regulations, or government orders. Unless you request otherwise, your Account, including Lead Data, will be deleted from our databases within twelve (12) months of Account cancellation. We reserve the right to charge a fee for data retention past our prescribed deletion period, and to update or amend our data retention policy. 
+Under the GDPR, you may be entitled to additional rights, including: (i) the right to withdraw consent to processing where consent is the basis of processing; (ii) the right to access your Personal Data and certain other supplementary information, under certain conditions; (iii) the right to object to unlawful data processing, under certain conditions; (iv) the right to erasure of Personal Data about you, under certain conditions; (v) the right to demand that we restrict processing of your Personal Data, under certain conditions, if you believe we have exceeded the legitimate basis for processing, processing is no longer necessary, are processing, or believe your Personal Data is inaccurate; (vi) the right to data portability of Personal Data concerning you that you provided us in a structured, commonly used, and machine-readable format, under certain conditions; (vii) the right object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you, under certain conditions; (viii) the right to lodge a complaint with data protection authorities. You may contact our Data Protection Officer by emailing [support@unbounce.com](mailto:support@unbounce.com) with your request. If you want to learn more about your rights under the GDPR, you can visit the European Commission’s page on Data Protection at: <http://ec.europa.eu/justice/data-protection/index_en.htm>. We will maintain your Personal Data for as long as they are needed, or as required by applicable laws, regulations, or government orders. Unless you request otherwise, your Account, including Lead Data, will be deleted from our databases within twelve (12) months of Account cancellation. We reserve the right to charge a fee for data retention past our prescribed deletion period, and to update or amend our data retention policy.
 
-## Links
+#### Links
 
 The Site and/or Services may contain links to other websites. We are not responsible for the privacy practices or the content of such websites. We encourage you to read the privacy policy and terms of use of any linked websites, as their policies and practices may differ from our own.
 
-## Change of Ownership or Business Transition
+#### Change of Ownership or Business Transition
 
 In the event of a change of ownership, sale, merger, liquidation, reorganization or acquisition of the corporation, in whole or in part, Personal Data (including Lead Data) may be transferred as part of the transaction, as long as the party acquiring such Personal Data agrees to be bound by the terms of this Privacy Policy.
 
-## Security
+#### Security
 
 We will strive to prevent unauthorized access to your Personal Data, however, no data transmission over the Internet, by wireless device or over the air is guaranteed to be 100% secure. We will continue to enhance security procedures as new technologies and procedures become available.
 
@@ -85,10 +83,10 @@ We strongly recommend that you choose a strong, unguessable password, and that y
 
 Please remember that you control what Personal Data you provide while using the Site and Services. Ultimately, you are responsible for maintaining the secrecy of your identification, passwords and/or any Personal Data in your possession for the use of the Site and/or Services. Always be careful and responsible regarding your Personal Data. We are not responsible for, and cannot control, the use by others of any information which you provide to them and you should use caution in selecting the Personal Data you provide to others through the Site or Services. Similarly, we cannot assume any responsibility for the content of any Personal Data or other information which you receive from other users through the Site or Services, and you release us from any and all liability in connection with the contents of any Personal Data or other information which you may receive using the Site or Services. We cannot guarantee, or assume any responsibility for verifying, the accuracy of the Personal Data or other information provided by any Third Party. You release us from any and all liability in connection with the use of such Personal Data or other information of others.
 
-## Children’s Privacy
+#### Children’s Privacy
 
 The Site and/or Services are not directed to children under the age of 16, and we do not knowingly collect Personal Data from children under the age of 16 without obtaining parental consent. If you are under 16 years of age, then please do not use or access the Site and/or Services at any time or in any manner. If we learn that Personal Data has been collected on the Site and/or Services from persons under 16 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 16 years of age has provided Personal Data, then you may alert us as set forth in the “Contact Us” section and request that we delete that child’s Personal Data from our systems.
 
-## Contact Us
+#### Contact Us
 
 If you have any questions about this Privacy Policy or your Personal Data, to make an access or correction request, to exercise any applicable rights, to make a complaint, or to obtain information about our policies and practices with respect to any service providers outside the EU/EEA, our Data Protection Officer can be reached by mail or email using the following contact information: [support@unbounce.com](mailto:support@unbounce.com).
