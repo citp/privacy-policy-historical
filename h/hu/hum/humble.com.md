@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the humble.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231120708id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humble.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630074326id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c) [ ](https://privacy.truste.com/privacy-seal/validation?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)
 
-Updated September 27, 2018
+Updated February 15, 2019
 
 If you have any questions about our Privacy Policy, you can contact us at [Privacy@humblebundle.com](mailto:Privacy@humblebundle.com) **and include ‘Privacy Policy’ in the subject line.** If you have any questions related to Data Subject Access Rights under GDPR, you can contact us through our [DSAR Portal](https://dsar.humblebundle.com/). 
 
@@ -26,6 +26,7 @@ If you have any questions about our Privacy Policy, you can contact us at [Priv
   16. Terms and Conditions
   17. Contact Details
   18. How this Privacy Policy May Change
+  19. reCAPTCHA V3
 
 
 
@@ -312,3 +313,7 @@ If we are unable to resolve your complaint directly, you may submit your complai
 We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them. If we believe there is a significant change to this Privacy Policy or our data collection and use practices, we will indicate on our websites that our Privacy Policy has changed prior to the change becoming effective. The then-posted version of the Privacy Policy supersedes all prior versions. Your continued access to or use of any of the Services shall be deemed your acceptance of the Privacy Policy.
 
 **We urge you to come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.**
+
+## 19\. reCAPTCHA V3
+
+This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply. 
