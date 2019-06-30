@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the mindsparktechnologies.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222112951id_/http%3A//www.mindsparktechnologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindsparktechnologies.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630030558id_/https%3A//www.mindsparktechnologies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mind Spark Technologies | Web and mobile Apps
-
-## Privacy Policy
+# Privacy Policy - Mind Spark Technologies
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+
+**Information Collection and Use**
+
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to SMS Send and Receive, Read Contact. The information that we request will be retained on your device and is not collected by us in any way.  
+Some apps does use third party services that may collect information used to identify you.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
 
@@ -62,3 +65,7 @@ The Fair Information Practices Principles form the backbone of privacy law in th
 
 We will notify the users via email _Within 7 business days_  
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+## **WANT TO DEVELOP YOUR APPLICATION?**
+
+We will help you develop your applications and promote your business.
