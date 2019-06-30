@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nairametrics.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019120027id_/https%3A//nairametrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairametrics.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630075734id_/https%3A//nairametrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nairametrics
 
