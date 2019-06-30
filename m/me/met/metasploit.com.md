@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the metasploit.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205040856id_/https%3A//www.rapid7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metasploit.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630171826id_/https%3A//www.rapid7.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rapid7
 
 [ ](https://web.archive.org/)
-
-Rapid7 Privacy Policy 
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=ae273fd8-8196-4071-8b10-5c8750149ea8 "TRUSTe Privacy")
 
 Last Updated: May 25, 2018
 
