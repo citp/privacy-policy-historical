@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630160114id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630205148id_/https%3A//www.itv.com/privacy) for the most accurate reproduction.*
 
 # Privacy notice for ITV services – ITV
 
@@ -10,13 +10,13 @@ Your data is important. It’s important to us, and we understand that it’s im
 
 This privacy notice covers the collection and use of your personal information by us and parties that we authorise, such as our suppliers and subcontractors.
 
-It applies to our services (the “Services”) including the provision of social media and interactive applications, audio visual content, text, photographs, forums, advertising and other services that we offer at [www.itv.com](http://www.itv.c/). They also include any of our other websites, software applications and/or media platforms that enable you to interact with our programming and/or view our content over a mobile or wi-fi network. 
+It applies to our services (the “Services”) including the provision of social media and interactive applications, audio visual content, text, photographs, forums, advertising and other services that we offer at [www.itv.com](http://www.itv.com/). They also include any of our other websites, software applications and/or media platforms that enable you to interact with our programming and/or view our content over a mobile or wi-fi network. 
 
-By accessing and using our services, you are agreeing to the terms of this privacy notice and to our Cookie Policy at [www.itv.com/cookies](http://www.itv.com/cookies) **.** We may update this privacy notice and our cookie policy from time to time and we’ll post any changes on our website at [www.itv.com](http://www.itv.com/)
+By accessing and using our services, you acknowledge the terms of this privacy notice and our Cookie Policy at [www.itv.com/cookies](http://www.itv.com/cookies). We may update this privacy notice and our cookie policy from time to time and we’ll post any changes on our website at [www.itv.com](http://www.itv.com/)
 
 In this notice, “We”, “Us” and “Our” means ITV Consumer Limited.
 
-This privacy notice was last updated on 16 May 2018.
+This privacy notice was last updated on 18 July 2018.
 
 ##  Notices for specific Services 
 
@@ -31,12 +31,18 @@ To read these specific notices, use the links below:
 [ITV Racing App](http://www.itv.com/privacy-itvracingapp)  
 [Love Island App Privacy Notice](https://www.itv.com/privacy-notice-for-love-island-app)
 
+##  What information do we collect?
+
 The information we collect about you depends on which of our Services you’re using, but we’ll only collect your personal information where necessary. Information we may collect includes:
 
-● your name, address, postcode, email address, date of birth, telephone number, payment details and details of the Service(s) you are using  
-● information about your use of our Services, including details of your internet protocol (IP) address, device type and identifier, operating system, browser version, cookie data, the content you viewed and details of your navigation around the Services  
-● location data from your IP address or by accessing global positioning functionality on your device (e.g. GPS)  
-● other data from time to time, to help us provide you with improved products and services - for example when we ask you to fill in a survey or questionnaire;  
+● your name, address, postcode, email address, date of birth, telephone number, payment details and details of the Service(s) you are using
+
+● information about your use of our Services, including details of your internet protocol (IP) address, device type and identifier, operating system, browser version, cookie data, the content you viewed and details of your navigation around the Services
+
+● location data from your IP address or by accessing global positioning functionality on your device (e.g. GPS)
+
+● other data from time to time, to help us provide you with improved products and services - for example when we ask you to fill in a survey or questionnaire;
+
 ● other data to review compliance with the our terms and conditions and/or otherwise as required by law
 
 ##  When and how do we collect information? 
@@ -71,7 +77,7 @@ We keep your personal information for only as long as necessary, which is longer
 
 ● we may need to keep some personal information about you so we can deal with any complaints you might make about the Services we provide to you  
 ● if you ask us to stop processing your personal information for direct marketing, we need to retain enough information about you to enable us to ensure we stop including you in those direct marketing activities  
-● we may need to keep personal information so we can defend possible future legal claims. Unless there’s some other reason for keeping it, personal information will deleted when such a claim could no longer arise (most claims can only be made within 6 years of the event that gave rise to the claim, except for personal injury claims, which must be made within 3 years)  
+● we may need to keep personal information so we can defend possible future legal claims. Unless there’s some other reason for keeping it, personal information will be deleted when such a claim could no longer arise or it is no longer required in order to defend legal claims that have arisen  
 ● we may have a legal or regulatory duty to retain particular personal information for a certain minimum period (for example under Ofcom rules, or under HMRC tax rules)
 
 ##  How will you use my information? 
@@ -92,7 +98,7 @@ We and our authorised third parties may use your information in a variety of way
 We’ll only process your personal information where we have legal grounds to do so. Generally, we’ll only process it on the following grounds:
 
 ● you have given consent for the processing. When we rely on consent to process your personal information, you always have the right to withdraw this consent (please see the privacy notice for the applicable Service for details of how to withdraw your consent)  
-● the processing is necessary for the performance of a contract to which you are a party (including the terms & conditions of the relevant Service)  
+the processing is necessary for the performance of a contract to which you are a party (including the terms & conditions of the relevant Service)  
 ● the processing is necessary in order to take steps at your request prior to entering into a contract  
 ● the processing is necessary for compliance with a legal obligation placed on ITV  
 ● the processing is necessary for the purposes of the legitimate interests pursued by ITV or by a third party. For example, we have a legitimate interest in understanding how people are using our Services, both to improve them and to sell adverts more effectively. Therefore, we may use your personal information to understand and analyse use of our Services. In certain limited circumstances you may have the right to object to processing based on such legitimate interests. Where that right to object applies, details of how to exercise it will be set out in the privacy notice for the applicable Service.
