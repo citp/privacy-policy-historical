@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancer.com.au privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009174206id_/https%3A//www.freelancer.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancer.com.au privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630110337id_/https%3A//www.freelancer.com.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Freelancer
 
