@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stwnewspress.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825195926id_/http%3A//www.stwnewspress.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwnewspress.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630054234id_/https%3A//www.stwnewspress.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | stwnewspress.com
 
@@ -77,3 +77,7 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
  **Contacting Us**
 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
+
+[](http://www.stwnewspress.com/readerschoice)
+
+Wayne passed away Friday, June 14, 2019 at his residence. Graveside services will be 10:30AM Friday, June 28, 2019 at Sunset Memorial Gardens, Stillwater. Services have been entrusted to the care of Dighton-Marler Funeral Home, Stillwater. 
