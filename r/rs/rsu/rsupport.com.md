@@ -1,15 +1,127 @@
-> *The following text is extracted and transformed from the rsupport.com privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206140957id_/http%3A//www.rsupport.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsupport.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630103617id_/https%3A//www.rsupport.com/en-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Remote Support Solutions for PC, Mac, and Mobile - RSUPPORT
+# Privacy Policy | RSUPPORT
 
-**INFORMATION COLLECTION**  
-Rsupport takes the issue of privacy extremely seriously. Not only is privacy and trust a central issues to theInternet, but it is also the base of our business. We have implemented a series of measures to ensure that the identity of visitors to our site is kept anonymous. Rsupport is always looking for ways to improve our website experience and maintain the integrity of the site. To this end, IP addresses are logged and analyzed. This is standard practice among organizations of good principals. We log where you went on the site and for how long. We also log what type of operating system you are using. Absolutely none of this information is personally identifiable. Like financial institutions, Rsupport uses the industry standard technology ? “cookies”. They are utilized to collect data about how users use our site. Cookies are a small string of computer text code, often subject to a number of misconceptions, mostly based on the erroneous notion that they are computer programs. In fact, cookies are simple pieces of data unable to perform any operation by themselves. In particular, they are neither spyware nor viruses, despite the detection of cookies from certain sites by some anti-spyware products. All browsers have option for the user to decide whether or not to restrict or allow cookies from any site. Rsupport uses cookies to enhance the visitor’s experience. They can be used to securely store a user’s ID, password, personalized home page, and tell designers which part of the site is the most popular.
+**Privacy Policy**  
+This Privacy Policy sets forth how RSUPPORT gains access to and uses your personal information in the context of RSUPPORT’s corporate homepage. Please read it carefully before using RSUPPORT’s corporate homepage.
 
-**HOW WE USE INFORMATION COLLECTED**  
-There are sections in the Rsupport website that may request voluntary information about you, such as your e-mail address. This is often for the purposes of future correspondence, trial software, contest opportunities, new product registration or online surveys. The personal information that you supply to Rsupport will be used for the future development of better products and services or to inform you about new products, service and offers of interest. At no point will your information be sold or distributed without your knowledge.
+**1\. Introduction**  
+RSUPPORT Co., Ltd. (“RSUPPORT”, “we”, or “our”) is committed to protecting the information of those individuals and organizations who use RSUPPORT’s corporate homepage contained herein.  
+This Privacy Policy sets forth how we collect, use, and share information we obtain as a result of your use of RSUPPORT’s corporate homepage and, in particular, sets forth:  
+■ What information we obtain from RSUPPORT’s corporate homepage;  
+■ How we use the information that we obtain;  
+■ When we share information with others; and  
+■ How you control our use and sharing of your information
 
-**COOKIES AND OTHER TRACKING TECHNOLOGIES**  
-A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. Other technologies are used for similar purposes as a cookie on other platforms where cookies are not available or applicable, such as the Advertising ID available on Android mobile devices. Learn more about how Google uses cookies and how Google uses data, including cookies, when you use our partners’ sites or apps. We use various technologies to collect and store information when you visit a [RSUPPROT] service, and this may include using cookies or similar technologies to identify your browser or device.
+Your RSUPPORT’s corporate homepage may provide access to software application and links to other services owned and operated by third parties including operating system providers and other contents and application providers. These third party services are outside the scope of this Privacy Policy and have their own policies that apply to the collection, use and sharing of information in connection with their services. We encourage you to read those policies. RSUPPORT is not responsible or liable for the privacy practices of such third parties.
 
-**DISCONTINUING E-MAIL CORRESPONDENCE**  
-Most Rsupport website visitors come with the intent of learning more about our company and products. After users provide their e-mail addresses, most are pleased to receive e-mail offers and newsletters about our company. On the other hand, Rsupport recognizes the need for choice and privacy. At any point after receiving an e-mail, you can scroll to the bottom of the screen to request that we discontinue sending you offers and newsletters. Please allow for 5 business days to process your request. Although children under 18 can view our website, Rsupport in no way requests or processes information from minors. No information should be posted or submitted by anyone under 18 without the consent of their parent or guardian. Rsupport’s privacy statement is subject to change at any time and without notice.
+**2\. Information Obtained by RSUPPORT’s corporate homepage**  
+The information we may collect when you use the RSUPPORT’s corporate homepage is as follows:  
+■ When submit a request: Name, Email Address  
+■ Contact us for partnership : Sales territory, Company Name, Street Address, City/State/Zip Code, Country, Phone Number, Email Address, Website(Optional)  
+■ When accessing a website: IP Address, Cookie, Device Information
+
+The above information is collected for the purposes of providing or improving RSUPPORT’s corporate homepage.
+
+**3\. Why RSUPPORT Uses Cookies and Other Similar Technologies and How to Reject**  
+■ What is Cookie?  
+– A cookie is a small text-only file sent to your browser by a server used in operating a website which you visit and saved in your computer’s hard drive. When you visit the website again, the server of that site will read the cookie saved in your hard drive and uses it to maintain your preferences and provide customized services. The cookie does not automatically/actively collect personally identifiable information, and you may refuse to save or delete such cookie.
+
+■ Purpose of Using Cookies and Information Obtained  
+– We use the cookies for target marketing and provide you with personally customized services by analyzing frequency, number and time of your visit and understanding your preferences, field of interest, and level of your participation in various events.  
+– We only collect anonymous information generated by the cookies (such as demographic data) through the cookies and other similar technologies, and do not collect personally identifiable information. We do not combine such anonymous information with any personally identifiable information obtained through other ways.
+
+■ Use of Other Similar Technologies  
+– We use the web analytics service named Google Analytics provided by Google, Inc. (“Google”) to analyze and evaluate how our you use our services and to understand our users’ demand in order to provide better and more efficient services to our users by improving and personalizing our services and products. Google’s Privacy Policy(https://policies.google.com/privacy) and Google Analytics Terms of Service(https://www.google.com/analytics/terms) apply to the handling of all information collected by Google Analytics.
+
+■ How to Reject the Collection of Cookies  
+– You have the right to election in respect of the installation of cookies. You may reject (opt-out) the automated collection of cookies by using one of the following methods; however, please note that if you elect to reject the collection of cookies, you may experience difficulties in using the services.  
+[How to Reject the Collection of Cookies in the Internet Explorer Browser]  
+① Select [Internet Options] from the [Tools] menu.  
+② On the [Privacy] tab, select [Advanced].  
+③ In [How to process cookies], click [Block].  
+[How to Reject the Collection of Cookies in the Chrome Browser]  
+① Select [Settings] from the More menu in the upper right corner.  
+② Select [Advanced] at the bottom.  
+③ In [Privacy & Security], select [Content Settings].  
+④ Select [Cookies] and turn [Allow sites to save and read cookie data] off.  
+[How to Block Google Analytics]  
+Install Browser Add-on: https://tools.google.com/dlpage/gaoptout
+
+**4\. How RSUPPORT Uses the Personal Information It Obtains**  
+We use information obtained from your use of RSUPPORT’s corporate homepage for various purposes, including:  
+■ To provide RSUPPORT’s corporate homepage you requested;  
+■ To analyze, review and improve RSUPPORT’s corporate homepage we offer;  
+■ To protect and defend our rights and property, including by way of legal proceedings;  
+■ To comply with regulatory requirements; and  
+■ For internal record keeping.
+
+The legal basis on which we will rely on to process your personal information will typically be one of the following:
+
+■ Contract: where it is necessary to perform a contract with you  
+■ Legitimate interests: where it is necessary to pursue our or a third party’s legitimate interests (this includes where it is necessary for our business with public interest purposes or to exercise public authority granted to us, and where it is necessary to protect our or a third party’s material interests)  
+■ Consent: where you have consented to provide it. You have the right to withdraw your consent at any time  
+■ Legal obligation: where the processing is necessary for compliance with our legal obligations
+
+**5\. Sharing of Personal Information**  
+While we generally do not share personal information with third parties, please note that in the following circumstances, we may share personal information with the third parties:  
+■ Third parties when required by law: As required by court order or other government or law enforcement authorities in order to comply with legal process or law;  
+■ Third parties in connection with corporate transactions: In connection with a corporate event, such as a merger or sale of all or part of our business (including that of a division or subsidiary), where we may need to disclose information to a potential buyer and its professional advisors.  
+■ Third parties when it is necessary to protect our services: In order to protect and defend our rights and assets, including by way of legal action  
+■ Third parties when it is to protect any of our users’ personal safety or assets: In order to protect the safety or assets of our users or the public  
+■ We store all data collected during the use of RSUPPORT’s corporate homepage in the system provided by Amazon Web Services, Inc. (“AWS”). AWS may have access to your data, and AWS’s data privacy policy (https://aws.amazon.com/compliance/data-privacy-faq/?nc1=f_ls) applies to the handling of all data stored in AWS’s system.
+
+**6\. Transfer of Personal Information**  
+We may use information (including your personal information) in countries other than where your device is located in connection with providing you with our RSUPPORT’s corporate homepage and any other purposes outlined in this Privacy Policy. The data protection laws in many of these countries may not offer the same level of protection as those in the country where you are located. However, before transferring your personal information, we will take all technical measures under our guidelines that such information is managed in accordance with EU General Data Protection Regulation and consistently maintained in a secure manner to ensure that such information will be afforded the same level of protection. For further information on how we handle and protect your personally identifiable information, please contact us at sec_tech@rsupport.com.
+
+**7\. Period of Retention of Users’ Personal Information**  
+We will take reasonable measures to ensure that we only keep your personal information for as long as is necessary for us to provide you with RSUPPORT’s corporate homepage or for the purpose for which it was collected or as required by applicable law. We apply criteria to determine the appropriate retention period for different categories of personal information you provide us with. For instance, we will keep information necessary to protect us in a legal claim, such as information relating to a contract, for the term of the contract and up to one year thereafter. After the expiration of such period, the relevant information will be deleted or anonymized. Where we have collected the personal information based on your consent and we have no other legal basis to continue with that processing, if you subsequently withdraw your consent, then we will delete your personal information.  
+If you request for deletion of your personal information because it is no longer needed, or based on an objection to the processing or a claim that the processing is illegal, you have the right to request a restriction on the processing while we verify your request for deletion.
+
+**8\. Security**  
+We are using the following efforts to protect the secrecy and maintain the security of your personal information.
+
+■ Operation of Security Management System  
+– We take security measures in accordance with the date protection regulations.  
+– We have established and are implementing our internal management system designed to prevent data loss, ensure data integrity and regulate access to data.  
+– When our employee accesses any personal data he/she must use his/her ID and password to authenticate such access, and we have established and are in compliance with the regulations on password setting requirements (such as combination of characters and numbers and length of password), frequency of password change, and other management matters.
+
+■ Internal Regulations for Information Security  
+– We have enacted and are implementing the information security policies and detailed guidelines for the protection of data assets  
+– We are carrying out security campaigns together with our annual information security training in order to improve knowledge of our officers and employees on information security.  
+– We are operating a separate division for managing information security and personal information, and annually amend our information protection policies and guidelines and carry them out in accordance with the annual plan, and have enacted and are implementing internal rules regarding information security.
+
+■ Compliance with Security Standard Technology  
+– We have established and are implementing our internal management system based on the international/domestic information protection management system standards in order to protect our information assets.  
+– Sensitive personal information such as passwords are safely stored by using SHA-2 based SHA-256 cryptographic hash algorithm.  
+– We develop and review in compliance with safe development security guidelines, and have established and are applying countermeasures and precautionary measures with respect to relevant cyber security threats.
+
+■ Full Maintenance of Information Security Audit System  
+– Security settings through account management, access control, system security settings, service & log management, and patch management to prepare the system against any outside security breach is compulsory.  
+– We comply with the laws and regulations relating to information security, and our internal information security policies and guidelines, and carry out internal security audit and verification activity once a year in order to confirm that effective functions are maintained.  
+– We also periodically detect and promptly resolve any potential security vulnerability issues through utilizing simulation hacking service of a third party security agency.  
+– In response to the annually released top 10 list of web vulnerabilities (OWASP TOP10), we eliminate related vulnerabilities and pay full attention to inspections through various inspection tools.
+
+Notwithstanding the foregoing, we do not guarantee that no third party would interfere with the communication between you and RSUPPORT or that we would not be exposed to a security breach, due to the design methods of the Internet, continuous technological changes and any other factors that are beyond our control. We shall not be responsible for any leakage or exposure of personal information due to any transmission errors or unauthorized or unlawful action of a third party
+
+**9\. Protection of Children’s Personal Information**  
+Protecting the personal information of children is important to us. For that reason, none of our services are directed at or designed to attract anyone under the age of 16 or the age of majority in the relevant jurisdiction. We also do not knowingly collect or maintain personal information from users who are under the age of 16 or the age of majority in the relevant jurisdiction. Should we learn or be notified that we have collected information from users under the age of 16 or the age of majority in the relevant jurisdiction, we will promptly delete such personal information.
+
+**10\. Changes to RSUPPORT’s Privacy Policy**  
+This Privacy Policy may be amended or updated by us from time to time. If we make a material change to our Privacy Policy, we will inform you through our website or other means, and will publish it on our website for review by the users. Please refer to our last updated Privacy Policy. You may be required to agree to the amended/updated Privacy Policy in order to continue using the relevant service.
+
+**11.Accessing Your Information and Your Rights**  
+Under the laws of each jurisdiction, you may have the right to request access to, rectification or deletion of, the personal information we hold about you or the right to object to or restrict certain types of processing of your personal information (or to withdraw your consent to our personal information processing), or to receive a machine-readable copy of your personal information. If permitted by law, a small fee for providing you with such service may be charged. Please note that we may decline to process your requests to the extent permitted by law if they are unreasonable or malicious, jeopardize the privacy of others, or are extremely impractical. For further information or to exercise any of these rights, please contact us at sec_tech@rsupport.com.
+
+**12\. Contact Information**  
+RSUPPORT’s Data Protection Officer’s contact information is as follow:
+
+RSUPPORT Co., Ltd.  
+Data Protection Officer, DPO: Kim Taekjoong  
+Address: S-Tower, 10 Wiryeseong-daero, Songpa-gu, Seoul, Republic of Korea  
+Phone: +82-70-7011-3900  
+E-mail: sec_tech@rsupport.com
+
+If you have any questions or comments about this Privacy Policy or RSUPPORT’s processing of your personal information, please reach out to us at the address, phone number or email address written above. You also have the right to lodge a complaint with a data protection authority; however, we would encourage you to first contact us directly to resolve any concerns.
+
+Last updated Date: May 25, 2018
