@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motortrader.com.my privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228155719id_/http%3A//www.motortrader.com.my/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motortrader.com.my privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630175649id_/http%3A//www.motortrader.com.my/privacy/index.html) for the most accurate reproduction.*
 
 # Motor Trader - Privacy Policy
 
