@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herts.ac.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231124907id_/https%3A//www.herts.ac.uk/about-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herts.ac.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630130744id_/https%3A//www.herts.ac.uk/about-us/legal/privacy) for the most accurate reproduction.*
 
-# University of Hertfordshire | Privacy
+# Online privacy policy | About us | University of Hertfordshire
 
 At the University of Hertfordshire we believe strongly in protecting our users' privacy. We will not wilfully disclose information about our users to any third party without first receiving the relevant user's consent. This Privacy Policy sets out the privacy practices for the services offered on any University of Hertfordshire ('the University') owned and/or operated websites ('the Website'). Some parts of our on-line systems and services and our collaborative agreements are operated on our behalf by third-party organisations. By submitting your personal information you are consenting to the University holding it, in accordance with this policy, and where necessary carrying out these services by providing the relevant information to such organisations.
 
@@ -23,7 +23,7 @@ Information about how to configure your browser to block cookies can be found at
   * [Internet explorer](http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies "Cookie settings in Internet Explorer")
   * [Chrome](https://support.google.com/chrome/answer/95647?hl=en "Cookie settings in Chrome")
   * [Firefox](http://support.mozilla.com/en-US/kb/Cookies "Cookie settings in Firefox")
-  * [Safari](http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html "Cookie settings in Safari")
+  * [Safari](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac "Cookie settings in Safari")
 
 
 
