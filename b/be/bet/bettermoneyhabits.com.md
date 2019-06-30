@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettermoneyhabits.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227173508id_/https%3A//www.bankofamerica.com/privacy/overview.go) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettermoneyhabits.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233912id_/https%3A//www.bankofamerica.com/privacy/overview.go) for the most accurate reproduction.*
 
 # Bank of America Security Center
 
