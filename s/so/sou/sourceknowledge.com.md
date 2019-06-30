@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sourceknowledge.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202948id_/http%3A//www.sourceknowledge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceknowledge.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630174555id_/http%3A//www.sourceknowledge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SourceKnowledge
 
-_Last updated April 18th, 2018_
+_Last updated_ January 9th 2019
 
-_**Addendum**_
+**_Addendum_**
 
 **GDPR COMPLIANCE**
 
-The GDPR is a new legal framework from the EU that takes effect on May 25, 2018. It’s an updated version of the Data Protection Directive.
+The GDPR is a legal framework from the EU that took effect on May 25, 2018. It’s an updated version of the Data Protection Directive.
 
 SourceKnowledge does not itself or with third parties collect, share, use, store any personally identifiable information (PII) on EU users. Personal data encompases location data, cookie ID’s IP addresses, advertising ID’s or another other identifiable or pseudonymous information.
 
@@ -21,6 +21,42 @@ SourceKnowledge provides targeted advertising services for our advertiser client
 **WHAT DATA WE COLLECT AND HOW WE USE IT**
 
 We may collect the following categories of information for the purposes explained below. Advertiser website activity: This is data about your browsing activity on the Advertiser’s website. For example, which pages you visited and when, and what items you placed into your online shopping cart. Device and browser information: This is technical information about the device or browser you use to access the Advertiser’s website. For example, your device’s IP address, cookie string data and (in the case of mobile devices) your device type and mobile device’s unique identifier such as the Apple IDFA or Android Advertising ID. Ad data: This is data about the online ads we have served (or attempted to serve) to you. It includes things like how many times an ad has been served to you, what page the ad appeared on, and whether you clicked on or otherwise interacted with the ad. Data from Advertising Partners: This is data that we receive from other digital advertising companies that we work with (“Advertising Partners”) to help us deliver ads to you and recognize you across browsers and devices. This may include pseudonymous advertiser identifiers that some Advertisers or other third party ad platforms choose to share with us, such as your “Customer ID” with an Advertiser We may work with these Advertising Partners to synchronize their unique, anonymous identifiers to our own to enhance data points about a particular unique browser or device. We also use this data to operate, improve and enhance our services including enhancing the data points we or our Advertising Partners have about a particular user, browser, or device, or to target, optimize, cap, or synchronize advertising.
+
+**SOURCEKNOWLEDGE APP DATA**
+
+SourceKnowledge Shopping Ads “the App” provides access to in-market shoppers to drive new sales “the Service” to merchants who use Shopify to power their stores. This section of the Privacy Policy describes how personal information is collected, used, and shared when you install or use the App in connection with your Shopify-supported store.
+
+Personal Information the App Collects
+
+When you install the App, we are automatically able to access three types of information from your Shopify account:    
+
+  1. Read_products (for collecting your product catalog)
+  2. Read_script_tags (pixel placement)
+  3. Write_script_tags (pixel placement)
+
+
+
+Personal Information we collect upon download of our app: 
+
+Additionally, we collect the following types of personal information from you and/or your customers once you have installed the App: Information about you and others who may access the App on behalf of your store, such as your name, address, email address, phone number, and billing information; Information about individuals who visit your store, such as their IP address, web browser details, time zone, and information about the cookies installed on the particular device.  We also collect the following: what products the customer has viewed, what products the person has purchased, the order amounts and the order ID’s.
+
+We collect Personal Information directly from the relevant individual, through your Shopify account, or using the following technologies: “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org. “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps. “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site. Please refer to our COOKIES AND RELATED TECHNOLOGIES section below for more information.
+
+How Do We Use Your Personal Information?
+
+We use the Personal Information we collect from you and your customers in order to provide the Service and to operate the App. Additionally, we use this Personal Information to: Communicate with you; Optimize or improve the App; and Provide you with information or advertising relating to our products or services. We use cookie information collected on your site to target cart abandoners and for remarketing purposes.  Additionally, we share with you your customers shopping behaviour on your site. 
+
+Sharing Your Personal Information
+
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+Behavioural Advertising as described above, we use your Personal Information to provide you  with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
+
+Data Retention
+
+When you place an order through the Site, we will maintain your Order Information for our records for 90 days unless and until you ask us to delete this information.
 
 **DATA SHARING**
 
