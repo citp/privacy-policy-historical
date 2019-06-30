@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvtropes.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231014417id_/https%3A//tvtropes.org/pmwiki/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtropes.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630050009id_/https%3A//tvtropes.org/pmwiki/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TV Tropes
 
@@ -9,6 +9,11 @@ Note : the privacy practices set forth in this privacy policy are for this [wiki
 ### Cookie/Tracking Technology
 
 The wiki uses cookie and tracking technology. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the wiki, and understanding how visitors use the wiki. Cookies can also help customize the wiki for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. 
+
+  * [Google Cookie Policy](https://policies.google.com/technologies/partner-sites)
+  * Partner Cookie Policies
+
+
 
 ### What is the DoubleClick DART cookie?
 
