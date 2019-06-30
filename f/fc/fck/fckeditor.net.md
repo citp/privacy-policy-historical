@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fckeditor.net privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113232056id_/https%3A//ckeditor.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fckeditor.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630213110id_/https%3A//ckeditor.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # CKEditor Ecosystem privacy policy
 
