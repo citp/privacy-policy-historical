@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsunami.gov privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230234122id_/http%3A//weather.gov/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsunami.gov privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630222910id_/http%3A//weather.gov/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
