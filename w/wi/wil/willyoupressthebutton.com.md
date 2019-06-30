@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willyoupressthebutton.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103030552id_/http%3A//www.willyoupressthebutton.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willyoupressthebutton.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630100218id_/http%3A//www.willyoupressthebutton.com/privacypolicy) for the most accurate reproduction.*
 
 # Will You Press The Button? - Privacy policy
 
