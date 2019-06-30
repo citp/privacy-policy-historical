@@ -1,33 +1,43 @@
-> *The following text is extracted and transformed from the ingentaconnect.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074619id_/http%3A//www.ingentaconnect.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingentaconnect.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231246id_/https%3A//www.ingentaconnect.com/about/privacy) for the most accurate reproduction.*
 
-# IngentaConnect Help Pages: ingentaconnect
+# IngentaConnect Help Pages: Ingenta Connect
 
-## Privacy of Information
+## Privacy Policy
 
-In order to help you (individuals, institutions and companies) make use of subscriptions to publications that you have taken out, and to make use of certain other services and increase ease of use, we need to ask you to provide us with some information. Any information you give us will be treated as confidential.
+Ingenta Connect is powered by Ingenta (UK) Ltd.
 
-Your individual personal details will not be passed on to any third party without your consent. You may review and change the information we store about you on the ingentaconnect web site by signing in and going to Personal Details.
+In order to download any content, excluding open access or free content, from Ingenta Connect it will be necessary for you to register with us, and it will be necessary for Ingenta to maintain personal information data records in order to supply you with the services you have requested. Services include purchase of pay-per-view articles, accessing subscribed content, purchasing print-on-demand books (where available) or other content, and setting up RSS feeds, "favourites" and new content alerts.
 
-If you sign up to receive New Issue Alerts your email address will be shared with the publisher(s) of the journal(s) you have chosen. Your email address will not be shared with any other third parties without your consent.
+Any personal information you give us which are necessary to provide you with such services will be treated as confidential. When transferring such personal information to others within the EEA or other territorial area in order to provide such services, we ensure that appropriate and suitable safeguards and technical measures are in place to protect your personal data.
 
-We may share information about usage of our web site with reputable third-party companies for the purpose of targeting our advertisements on this site and other sites we host. For this purpose we, and our third-party companies, may note some of the pages you visit on our web site. The information collected by any third-party company is not personally identifiable.
+We will only keep records of your personal information for as long as is reasonably necessary for the purposes for which we have collected it, and to enable us to comply with any statutory or regulatory obligations in relation to retention of records. We respect requests to stop processing your personal data for marketing purposes.
 
-Email sent to us may not be secure. If you choose to send us an email message we may retain the content of the email, your email address and our response, and it becomes the property of ingentaconnect.
+## Your Legal Rights
+
+You have the right to request access to and rectification or erasure of personal information, the right to restrict processing of your personal information, and the right to object to processing of your personal information. You have the right to object to your personal information being processed on the grounds of Ingenta's legitimate interests. You have the right to object to us sending you direct marketing at any time, and we will only send you direct marketing material if you have specifically asked us to do so and where we feel such material may be of genuine interest. You can contact us by email at help@ingentaconnect.com in relation to any of the rights described in this paragraph, or if you have any questions regarding this privacy policy. You have the right to lodge a complaint regarding our processing of your personal information with a data protection supervisory authority in a country where you live, work, or where you believe a breach may have occurred.
+
+## Marketing and Advertising
+
+Certain selected companies advertise on the Ingenta Connect website or on the pages of certain publications that we host. If you click on such advertisements, companies and institutions advertising on Ingenta Connect may collect information, such as your IP address, while you are visiting their websites. You may be able to opt out of such advertising via settings in your browser. We are not responsible for any personal information you may give to such third-party sites.
+
+For marketing purposes, we record the click-through rate on such advertisements. This information is not personally identifiable.
+
+Email sent to us may not be secure. If you choose to send us an email message we may retain the content of the email, your email address and our response for the purposes of quality control. You may request that such information be deleted at any time by mailing help@ingentaconnect.com, referencing the email correspondence to be deleted.
+
+## Linked Sites
+
+Ingenta Connect provides links to a variety of other Internet resources. These sites are not governed by our privacy policy and users are encouraged to view the privacy policy of such other web sites before using or providing any information to the site.
+
+## Contacting us
+
+Ingenta is based at 8100 Alec Issigonis Way, Oxford OX4 2HU UK. You can contact us regarding this privacy statement by email at help@ingentaconnect.com
+
+For immediate questions regarding any aspect of the service, including access to articles you have purchased, please go to https://www.ingentaconnect.com/about/help/index
 
 ## Use of cookies
 
-Cookies are small files, created while using a site, that enable additional functionality. They perform various functions such as saving your password, listing potential purchases in a shopping cart and saving your preferences, and are a required feature to support such personalization features on ingentaconnect. Your browser is probably set to accept Cookies, but if you prefer not to receive Cookies you can alter the configuration of your browser to refuse them. You can use our site without Cookies enabled as long as you do not want to register, sign in, or use any of the personalization features.
+Cookies are small files, created while using a site, that enable additional functionality. They perform various functions such as saving your password, listing potential purchases in a shopping cart and saving your preferences, and are a required feature to support such personalization features on Ingenta Connect. Your browser is probably set to accept Cookies, but if you prefer not to receive Cookies you can alter the configuration of your browser to refuse them. You can use our site without Cookies enabled as long as you do not want to register, sign in, or use any of the personalization features.
 
-ingentaconnect uses cookies in several ways.
+## Date of Statement
 
-ingentaconnect uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above
-
-When you visit ingentaconnect, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like. You may be able to opt out of such advertising. To find out more about Google, its DoubleClick DART cookie, and to opt out of  its interest-based advertising, click this link: <http://www.google.com/privacy/ads/> Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising. Publishing Technology also uses this cookie to anonymously determine, what ads have been viewed, where they were located and to limit the number of times a user sees that ad.
-
-## Linked sites
-
-ingentaconnect provides links to a variety of other Internet resources. These sites are not governed by this privacy policy and users are encouraged to view the privacy policy of such other web sites before using or providing any information to the site.
-
-## Modifications
-
-ingentaconnect encourages users of ingentaconnect to review the ingentaconnect Privacy Policy Statement periodically for updates. ingentaconnect reserves the right to change its privacy policies at any time. Changes are effective when posted to this site.
+The date of this Privacy Statement is 18th May 2018. Ingenta encourages users of Ingenta Connect to review our Privacy Policy Statement periodically for updates. Ingenta Connect reserves the right to change its privacy policies at any time. Changes are effective when posted to this site.
