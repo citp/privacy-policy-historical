@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastendtaste.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826052359id_/http%3A//eastendtaste.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastendtaste.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630062949id_/https%3A//eastendtaste.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement- East End Taste Magazine LLC
 
