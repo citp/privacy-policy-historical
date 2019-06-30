@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the meendo.com privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226024543id_/http%3A//www.meendo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meendo.com privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630220658id_/http%3A//www.meendo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="description" content="We at MEENDO understand that your privacy is very important to you. That's why we've developed this policy to ensure that your privacy is protected while using MEENDO">
 
-    <link rel="stylesheet" type="text/css" href="/css/all.css?101" media="all">
+    <link rel="stylesheet" type="text/css" href="/css/all.css?133" media="all">
+    <link rel="stylesheet" type="text/css" href="/css/cookies.css?19" media="all">
             
     <!-- CSRF token -->
-    <meta name="csrf-token" content="ae69375664abac944b42a9fb559bfb4bf1493558">
+    <meta name="csrf-token" content="589b8f969bbae8b9efb35fcc40a01d68c2389854">
 
     
     <!--[if lt IE 8]>
@@ -44,25 +45,227 @@
             m.parentNode.insertBefore(a, m)
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-        ga('create', 'UA-4996837-2', 'auto');
-
+                    ga('create', 'UA-4996837-2', 'auto');
+            ga('require', 'displayfeatures');
+            ga('send', 'pageview');
         
-        ga('require', 'displayfeatures');
-        ga('send', 'pageview');
+        function checkIEBrowser(){
+            var rv = -1; // Return value assumes failure.
+
+            if (navigator.appName == 'Microsoft Internet Explorer'){
+
+                var ua = navigator.userAgent,
+                    re  = new RegExp("MSIE ([0-9]{1,}[\\.0-9]{0,})");
+
+                if (re.exec(ua) !== null){
+                    rv = parseFloat( RegExp.$1 );
+                }
+            }
+            else if(navigator.appName == "Netscape"){
+                /// in IE 11 the navigator.appVersion says 'trident'
+                /// in Edge the navigator.appVersion does not say trident
+                if(navigator.appVersion.indexOf('Trident') === -1) rv = 12;
+                else rv = 11;
+            }
+
+            return rv;
+        }
+
+        var browserIeVersion = checkIEBrowser();
+        if(browserIeVersion >= 9 && browserIeVersion <= 11) {
+            $('img').addClass('ie-opacity');
+        }
+
     </script>
 
-    <meta name="_ga" content="46f7a14b989ba760cd01d9a57b0ec9ab59b121c8">
+    <meta name="_ga" content="5ea796c698341709f1aa74577b7edeed2598c123">
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <style>
+        .cookies-panel {
+            position: fixed;
+            background: #fff;
+            color: #000;
+            width: 100%;
+            right: 0;
+            bottom: 0;
+            height: 38px;
+            margin: auto;
+            text-align: center;
+            padding: 46px 26px;
+            z-index: 100;
+            box-shadow: 0 0 10px rgba(0,0,0,.5);
+            display: none;
+        }
+
+        .cookies-panel p {
+            font-size: 16px !important;
+            text-transform: none;
+            margin: 0 0 10px;
+            line-height: 18px;
+        }
+
+        .cookies-panel a {
+            font-size: 16px;
+            color: #2f7ab3;
+            text-decoration: underline;
+            text-transform: none;
+            font-weight: 300;
+        }
+
+        .cookies-panel button {
+            font-weight: 600;
+            transition: .2s;
+            letter-spacing: .3px;
+            border: none;
+            background: #2f7ab3;
+            color: #fff;
+            line-height: 46px;
+            display: block;
+            width: 100%;
+            padding: 0;
+            margin: 20px auto 0;
+            max-width: 320px;
+        }
+
+        .cookies-panel .notification {
+            position: absolute;
+            left: 72px;
+            bottom: 10px;
+            width: 100px;
+            height: auto;
+            -webkit-filter: none!important;
+            -moz-filter: none!important;
+            -ms-filter: none!important;
+            -o-filter: none!important;
+            filter: none!important;
+        }
+
+        .is-visible {
+            display: block;
+        }
+        .cookies-panel {
+            height: 92px;
+            box-sizing: border-box;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .cookies-panel .notification {
+            position: unset;
+            float: none;
+            margin-right: 15px;
+            width: 42px;
+            margin-top: 0;
+        }
+
+        .cookies-panel-body {
+            display: flex;
+            align-items: center;
+        }
+
+        .cookies-panel-body > div {
+            text-align: left;
+        }
+
+        .cookies-panel {
+            height: 92px;
+            box-sizing: border-box;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #333;
+            color: #FFF;
+            /* font-size: 64px; */
+            opacity: 0.9;
+        }
+        .cookies-panel p {
+            font-size: 20px !important;
+            text-transform: none;
+            margin: 0 0 10px;
+            line-height: 18px;
+        }
+        .cookies-panel a {
+            font-size: 18px;
+            color: #6cbeff;
+            text-decoration: none;
+            text-transform: none;
+            font-weight: 300;
+        }
+
+        .cookies-panel.white {
+            color: black;
+            background: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 145px;
+            transform: unset!important;
+            padding-bottom: 0!important;
+        }
+        .cookies-panel span.request{
+            transform: scale(1.5);
+            margin-right: 16px;
+            margin-bottom: -4px;
+            width: 46px;
+            margin-bottom: 0;
+            height: 49px;
+            display: block;
+            background-color: white;
+            margin-right: 16px!important;
+            background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/PjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI3LjQ0MiAyNy40NDIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDI3LjQ0MiAyNy40NDI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48Zz48cGF0aCBkPSJNMTkuNDk0LDBINy45NDhDNi44NDMsMCw1Ljk1MSwwLjg5Niw1Ljk1MSwxLjk5OXYyMy40NDZjMCwxLjEwMiwwLjg5MiwxLjk5NywxLjk5NywxLjk5N2gxMS41NDZjMS4xMDMsMCwxLjk5Ny0wLjg5NSwxLjk5Ny0xLjk5N1YxLjk5OUMyMS40OTEsMC44OTYsMjAuNTk3LDAsMTkuNDk0LDB6IE0xMC44NzIsMS4yMTRoNS43YzAuMTQ0LDAsMC4yNjEsMC4yMTUsMC4yNjEsMC40ODFzLTAuMTE3LDAuNDgyLTAuMjYxLDAuNDgyaC01LjdjLTAuMTQ1LDAtMC4yNi0wLjIxNi0wLjI2LTAuNDgyQzEwLjYxMiwxLjQyOSwxMC43MjcsMS4yMTQsMTAuODcyLDEuMjE0eiBNMTMuNzIyLDI1LjQ2OWMtMC43MDMsMC0xLjI3NS0wLjU3Mi0xLjI3NS0xLjI3NnMwLjU3Mi0xLjI3NCwxLjI3NS0xLjI3NGMwLjcwMSwwLDEuMjczLDAuNTcsMS4yNzMsMS4yNzRTMTQuNDIzLDI1LjQ2OSwxMy43MjIsMjUuNDY5eiBNMTkuOTk1LDIxLjFINy40NDhWMy4zNzNoMTIuNTQ3VjIxLjF6Ii8+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjwvc3ZnPg==);
+            background-repeat: no-repeat;
+        }
+        .cookies-panel.white p {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 0;
+            font-size: 4em!important;
+        }
+        .cookies-panel.white #text-cookies a {
+            color: #fff;
+            background-color: #007bff;
+            border-color: #007bff;
+            cursor: pointer;
+            display: inline-block;
+            font-weight: 400;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            border: 1px solid transparent;
+            padding: .375rem .75rem;
+            font-size: 1em;
+            line-height: 1.5;
+            border-radius: .25rem;
+            margin-left: 10px;
+            transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+        }
+        @media (max-width: 1000px) {
+            .cookies-panel.white{
+                color: black;
+                background: white;
+                padding-bottom: 18px;
+                padding-bottom: 22px;
+            }
+        }
+    </style>
 </head>
 
-<body>
-
+<body class="guest_img_blur">
 
 <div class="table-wrapper">
     <div id="content">
         <div class="content-holder">
             <div class="content-frame">
-                <div class="background-banner" id="MeendoBrand"></div>                <div class="container">
-                    <div id="MeendoBrandCenter"></div>                    <div class="header">
+                                <div class="container">
+                                        <div class="header">
     <a href="/?logo" class="logo">Meendo</a>
 
     <div class="slogan">
@@ -78,7 +281,7 @@
 
     <div class="signin">
         <form id="LoginForm" name="LoginForm" method="post">
-<input type="hidden" value="46f7a14b989ba760cd01d9a57b0ec9ab59b121c8" name="_token">        <em><a href="/signup/">Create account</a> or log in</em>
+<input type="hidden" value="5ea796c698341709f1aa74577b7edeed2598c123" name="_token">        <em><a href="/signup/">Create account</a> or log in</em>
         <input type="text" class="text" name="userLogin">
         <input type="password" name="userPassword" class="text">
         <a href="#" class="h_button"><span>Login</span></a>
@@ -202,8 +405,9 @@
             <li><a href="/photos/">Photos</a></li>
             <li><a href="/videos/">Videos</a></li>
             <li><a href="/users/">Users</a></li>
-            <li><a href="/broadcasts/">Broadcasts</a></li>
-                                    <li><a href="#" onclick="window.open('http://www.sextoyfun.com/?a=meendo');">Sex Shop</a></li>
+                                                <li><a href="#" onclick="window.open('http://www.sextoyfun.com/?a=meendo');">Sex Shop</a></li>
+            <li><a style="color: #f7b801;" href="/?r=AdRedirect/MeendoVIP">VIPmeendo</a></li>
+
             <li class="faq-nav"><a href="/help/"><i>FAQ</i></a></li>
         </ul>
     </div>
@@ -212,17 +416,17 @@
                     <div class="lenta">
             <a href="/up/" class="lenta-button">
             <span>Put me</span> here!        </a>
-                        <a href="/profile/lyn247" class="lenta-item"><img src="http://cdn009.meendo.tv/photo/b/1/e/28d20a591cb976711190e1678f5a786c_thumb64.jpg" alt=""></a>
-                    <a href="/profile/elyai" class="lenta-item"><img src="http://cdn006.meendo.tv/photo/7/9/5/445b1834f2801bbb404b67df675c12af_thumb64.jpg" alt=""></a>
-                    <a href="/profile/xv9333" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/1/5/0/9c707dd8148cf05bf8d7e1ca9fbcbd9c_thumb64.jpg" alt=""></a>
-                    <a href="/profile/Andrejbujgin22287" class="lenta-item"><img src="http://cdn006.meendo.tv/photo/b/b/4/81451aced52040b9c18caec2790857c6_thumb64.jpg" alt=""></a>
-                    <a href="/profile/Silan1364" class="lenta-item"><img src="http://cdn006.meendo.tv/photo/7/c/1/999eb37ca4ec2df540aeb68dbeb04b09_thumb64.jpg" alt=""></a>
-                    <a href="/profile/veetoletmu1986" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/c/5/d/44f1e8299fcafc1d790f08a354aa1cd1_thumb64.jpg" alt=""></a>
-                    <a href="/profile/ff23ggff" class="lenta-item"><img src="http://cdn005.meendo.tv/photo/1/d/2/5714612ae4cdc91c6a48b69f44a0f26d_thumb64.jpg" alt=""></a>
-                    <a href="/profile/Sandersan" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/b/0/2/f0bc360a81d3047125059cf09414a397_thumb64.jpg" alt=""></a>
-                    <a href="/profile/Petunya438" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/9/1/e/edf4188f2216c70109a16f924b560f7d_thumb64.jpg" alt=""></a>
-                    <a href="/profile/Trusiki4ever" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/a/d/1/a5586d5fa7684272577cd8a332ccb6dc_thumb64.jpg" alt=""></a>
-                    <a href="/profile/KOOOTx" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/b/a/f/4109e22cec15fe99f4ce83fd67476fc8_thumb64.jpg" alt=""></a>
+                        <a href="/profile/elmuza" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/1/5/b/ce430508a7393846051c61f62f7e9c88_thumb64.jpg" alt=""></a>
+                    <a href="/profile/fireflys" class="lenta-item"><img src="http://cdn015.meendo.tv/photo/f/a/a/0994c3987f2da83578c9ea4df0bfc4e2_thumb64.jpg" alt=""></a>
+                    <a href="/profile/Kortic90" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/9/d/f/cdcd87056148f1a74d632dcb293912b3_thumb64.jpg" alt=""></a>
+                    <a href="/profile/Joono" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/c/e/b/365b1d0edd6cddd4519bb08e8bf0c4e6_thumb64.jpg" alt=""></a>
+                    <a href="/profile/Rmos" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/e/b/9/cde10707b3008afbb1e4218f39d3c5fe_thumb64.jpg" alt=""></a>
+                    <a href="/profile/SemaSmirnov1989" class="lenta-item"><img src="http://cdn006.meendo.tv/photo/f/8/d/f1ef16ff286d5a02dbbd5ab84a571986_thumb64.jpg" alt=""></a>
+                    <a href="/profile/illusoin" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/9/9/9/01e48714182c4f490fca04cc7da79848_thumb64.jpg" alt=""></a>
+                    <a href="/profile/pavlov3535" class="lenta-item"><img src="http://cdn006.meendo.tv/photo/6/8/5/a57dab7d27a256f31219858974b37c82_thumb64.jpg" alt=""></a>
+                    <a href="/profile/vokmaz" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/8/c/0/6efdc1a33c3bf1e244d0e883b33a6a88_thumb64.jpg" alt=""></a>
+                    <a href="/profile/Grov4222" class="lenta-item"><img src="http://cdn013.meendo.tv/photo/e/2/6/4c523e8e324e0923a1431e70daf9e4d0_thumb64.jpg" alt=""></a>
+                    <a href="/profile/KPASSOTKA" class="lenta-item"><img src="http://cdn005.meendo.tv/photo/9/d/1/fa3de8eedd99f1c6b4d6bf7669dc1de1_thumb64.jpg" alt=""></a>
     </div>
 
                     
@@ -462,12 +666,15 @@ Click <a href="/signup/">here</a> to join our <a href="/signup/">free</a>, safe,
                         <li><a href="/privacy/">Privacy Policy</a></li>
                         <li><a href="/dmca/">DMCA</a></li>
                                                 <li><a href="/feedback/">Contact Us</a></li>
+                        <li>
+                            <a href="/?r=AdRedirect/MeendoVIP">VIP</a>
+                        </li>
                     </ul>
                     <a href="/2257/">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</a>
 
                     <p>By viewing Meendo, you acknowledge that you have reached the legal viewing age of adult entertainment in your country.</p>
 
-                    <p>© 2009-2018 <a href="/">http://www.meendo.com</a>
+                    <p>© 2009-2019 <a href="/">http://www.meendo.com</a>
                         - Free sex videos</p>
                 </div>
             </div>
@@ -535,22 +742,21 @@ Click <a href="/signup/">here</a> to join our <a href="/signup/">free</a>, safe,
     </div>
 </div>
 <div class="modal-backdrop in"></div>
-<script type="text/javascript" src="/js/vague.js"></script>
-<script type="text/javascript">
-    $('img').each(function (i, elem) {
-        var vague = $(this).Vague({
-            intensity        : 4,
-            forceSVGUrl      : false,
-            animationOptions : {
-                duration: 1000,
-                easing: 'linear'
-            }
-        });
-        vague.blur();
-    });
-</script>
-<!-- End of "Show me boobs" --><!-- End of show me boobs widget -->
-<script src="/js/branding_ru.js"></script>
+<!-- End of "Show me boobs" -->
+<!-- Bluring content -->
+
+<div class="cookies-panel is-visible">
+    <div class="cookies-panel-body">
+        <img class="notification" src="/images/18.svg">
+        <div>
+            <p id="text-cookies">Full access to the website is available after registration.</p>
+            <a href="/signup/">Create account</a>
+        </div>
+    </div>
+</div>
+
+<!-- End of show me boobs widget -->
+
 
 
 </body></html>
