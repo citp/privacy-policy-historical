@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123194910id_/https%3A//www.siddhayoga.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630095541id_/https%3A//www.siddhayoga.org/privacy) for the most accurate reproduction.*
 
 # SYDA Foundation Privacy Policy
 
