@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ift.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229080646id_/https%3A//www.ift.org/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ift.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630151042id_/https%3A//www.ift.org/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - IFT.org
 
@@ -20,6 +20,8 @@ Before accessing, using, or interacting with the Services you should carefully r
 
 **Eligibility To Use The Services**  
 The Services are not directed to children under the age of 16. You may not use the Services if you are under the age of 16.
+
+_See the section further below called_ **Additional Restrictions on Collection and Use of Sensitive Data** _for information on additional steps IFT takes to manage the privacy of data that are considered “sensitive data” by GDPR and other privacy regulations._
 
 ### Information Collection And Use
 
@@ -55,6 +57,10 @@ Please note IFT works with Service Providers (as defined below) to handle paymen
 **Business Transactions:** IFT may purchase other businesses or their assets, sell our business assets, or be involved in a bankruptcy, merger, acquisition, reorganization or sale of assets (a “ **Business Transaction** ”). Your information, including Personal Data, may be among assets sold or transferred as part of a Business Transaction. 
 
 **Lawful Requests:** We may be required to disclose User information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We generally do not disclose User information unless we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. We may share your information when we believe it is necessary to comply with applicable laws, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Services or using the IFT name, or to protect the safety of any person. This may include sharing information with other companies, lawyers, agents, or government agencies. Nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information.
+
+### Additional Restrictions on Collection and Use of Sensitive Data
+
+IFT also collects sensitive categories of data, as defined by GDPR, including race, ethnicity, native language, gender identity, and sexual orientation. IFT obtains explicit consent to gather these categories of sensitive data before we accept them from any individual and store them in our database. IFT uses these categories of sensitive data to measure progress in developing a diverse and inclusive membership community at IFT, and to conduct activities that promote ongoing development of a diverse and inclusive membership community. IFT does not share sensitive data with service providers or other third parties except as may be required by law. IFT does not display sensitive data to the public. IFT limits access to sensitive data by IFT personnel to a small group that needs such access in order to measure and promote development of a diverse and inclusive membership community at IFT.
 
 ### Your Rights and Choices Regarding Your Information
 
