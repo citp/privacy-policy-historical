@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareblue.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231215136id_/https%3A//shareblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareblue.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630065139id_/https%3A//shareblue.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Shareblue Media
 
@@ -6,7 +6,7 @@
 
 Last Updated:  _September 7, 2016_
 
-This Privacy Policy explains how information about you is collected, used and disclosed by True Blue Media, LLC  (“True Blue Media”).  This Privacy Policy applies to information we collect when you use our website located atshareblue.com and our other Shareblue Media websites, mobile sites and mobile applications that link to this Privacy Policy (collectively, the “Sites”).
+This Privacy Policy explains how information about you is collected, used and disclosed by True Blue Media, LLC  ("True Blue Media").  This Privacy Policy applies to information we collect when you use our website located atshareblue.com and our other Shareblue Media websites, mobile sites and mobile applications that link to this Privacy Policy (collectively, the "Sites").
 
 We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification).  We encourage you to review the Privacy Policy whenever you access the Sites to stay informed about our information practices and the ways you can help protect your privacy.
 
@@ -23,7 +23,7 @@ When you access or use our Sites, we automatically collect information about you
 
 
   3. **Information Collected by Cookies and Other Tracking Technologies**  
-We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.  Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Sites and your experience, see which areas and features of our Sites are popular and count visits.  We may also collect information using web beacons (also known as “tracking pixels”).  Web beacons are electronic images that may be used in our Sites or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.  For more information about cookies, and how to disable them, please see “Your Choices” below.
+We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.  Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Sites and your experience, see which areas and features of our Sites are popular and count visits.  We may also collect information using web beacons (also known as "tracking pixels").  Web beacons are electronic images that may be used in our Sites or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.  For more information about cookies, and how to disable them, please see "Your Choices" below.
 
 
   4. **Information We Collect From Other Sources**  
@@ -62,7 +62,7 @@ We may also share aggregated or anonymized information that does not directly id
 
 
   7. **Social Sharing Features**  
-The Sites may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Sites with other media, and vice versa.  The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.  For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+The Sites may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Sites with other media, and vice versa.  The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.  For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
 
   8. **Online Petitions**  
@@ -71,7 +71,7 @@ If you sign an online petition, you understand that such petition is public info
 
   9. **Advertising and Analytics Services Provided by Others**  
 We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services.  These entities may use cookies, web beacons and other technologies to collect information about your use of the Sites and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by True Blue Media and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Sites and other websites and better understand your online activity.  
-For example, we may use various Google Analytics products, including Google Analytics for Display Advertising and Google Analytics Demographics and Interests Reporting, that may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) to provide advertising and analytics services and inform, optimize, and serve ads based on your activities.  This Policy does not apply to, and we are not responsible for, cookies or other technologies used by third parties. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). For information on how you can opt out of Google’s use of cookies for interest-based ads please see Google’s [Ads Settings](https://www.google.com/settings/ads) tool: <https://www.google.com/settings/ads>.
+For example, we may use various Google Analytics products, including Google Analytics for Display Advertising and Google Analytics Demographics and Interests Reporting, that may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) to provide advertising and analytics services and inform, optimize, and serve ads based on your activities.  This Policy does not apply to, and we are not responsible for, cookies or other technologies used by third parties. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). For information on how you can opt out of Google's use of cookies for interest-based ads please see Google's [Ads Settings](https://www.google.com/settings/ads) tool: <https://www.google.com/settings/ads>.
 
 
   10. **Security**  
