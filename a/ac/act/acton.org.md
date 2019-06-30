@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acton.org privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012200822id_/https%3A//acton.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acton.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210724id_/https%3A//acton.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | Acton Institute
 
@@ -8,7 +8,7 @@ When you interact with The Acton Institute for the Study of Religion and Liberty
 
 As part of the operation of The Acton Institute's main web site, acton.org, and other Acton sites, we gather certain types of information from users. Since your privacy is important to us, we would like to explain the types of information we gather, what we do with said information, and how to correct or change the information.
 
-The Acton Institute does not sell your information.
+**The Acton Institute does not sell or share your information whether collected online or offline.**
 
 **Information You Provide:** We collect two main types of information from users and donors: information voluntarily provided when you register for email updates, newsletters, and events, or make a donation. This may include but is not limited to personal data such as name, zip code, email address, mailing address, and demographic information. The second type of data collected is anonymized, aggregated data such as information about traffic patterns on acton.org (for example, how many users visit acton.org on a daily basis).
 
@@ -52,7 +52,7 @@ The Acton Institute does not sell your information. We consider this information
   * **Agents, Consultants and Related Third Parties:** Like many organizations, we sometimes hire other companies or individuals to perform certain mission-related functions. Examples of such functions include mailing information, maintaining databases, and processing payments.
   * **Legal Requirements:** We may disclose your information if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of the Acton or it’s affiliates, (iii) protect the personal safety of users of our websites or the public, or (iv) protect against legal liability.
   * **Aggregated or Non-identifiable Data:** We may also share aggregated or non-personally identifiable information with our partners or other third parties for business purposes.
-  * **Donors:** The Acton Institute does not sell or share any donor information without permission of the donor. Donors can opt-out of all lists and emails at any time by following the instructions indicated below.
+  * **Donors:** The Acton Institute does not sell or share any donor information without permission of the donor whether the information was collected online or offline. Donors can opt-out of all lists and emails at any time by following the instructions indicated below.
 
 
 
