@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230170643id_/https%3A//www.biomedcentral.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232707id_/https%3A//www.biomedcentral.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy statement
 
 This is the privacy policy ("policy") for biomedcentral.com which is run and provided by BioMed Central Limited (we, us and our). BioMed Central Limited is located at The Campus, 4 Crinan Street, London N1 9XW. We can also be contacted at info@biomedcentral.com.
 
@@ -157,10 +157,47 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 ## IX. Third party content and social media plug-ins
 
-### Links to third party websites
+### 1\. Social media plug-ins
 
-  
-This website may contain links to third party websites. We are not responsible for the content and the data collection on respective third party websites; please check the privacy policy of respective websites for information of respective websites' data processing activities.
+We use the following social media plug-ins: Facebook, Google+, Twitter. This allows you to communicate with such services and like or comment from our website. Social media plug-ins enable a direct communication between your device and the servers of the social media provider, allowing the social media provider to communicate with you and collect information about you browsing our website. This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve your website experience and to optimise our services.
+
+Transfer of personal data takes places whether you have an account with the provider or not.
+
+Please note that we neither have the control of the extent of personal data that is collected by the respective plug-in provider nor do we know the processing’s purpose or the period your personal data will be retained.
+
+Further information about the processing of your personal data in the provider’s course of operation is provided via their respective privacy policy. Moreover, you will be provided with further information with regard to your rights and setting concerning privacy.
+
+### a) Facebook Social Plugins
+
+We use so-called social plugins („plugins“) of the social networking site facebook.com provided by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). The plugins can be identified by one of Facebook’s logos (white “f” on blue tile or a “thumps-up”-sign) or by the additional text “Facebook Social Plugin”. The list of Facebook Social Plugins and their appearance can be accessed via: <http://developers.facebook.com/plugins>. 
+
+If a user visits one of the websites using such a plugin, the user’s browser directly connects to Facebook’s servers. The plugin and its content are made available directly on Facebook’s servers and included in the website by the user’s browser.
+
+Due to the integration of the plugin Facebook collects the information that a user is visiting the corresponding website. If the user is logged in on Facebook at the moment he or she visits the website, Facebook may be able to connect the visit on the website to the user’s Facebook account. If the user interacts with the plugin – for example if he or she presses the like button or comments on something – the user’s browser transmits this information to Facebook. Facebook stores this information. If a user is not a member of Facebook, Facebook may collect and store the user’s IP-address. Facebook states that it only collects anonymized IP-addresses in Germany.
+
+The reason for and scope of the data acquisition and information about the way in which the data is processed and used by Facebook, as well as the user’s rights in this respect and settings options for protecting the users privacy can be found under: <http://www.facebook.com/policy.php>.
+
+If the user is a member of Facebook and does not wish Facebook to collect personal data via this homepage and to link this with his data stored on Facebook, the user needs to log off from Facebook before going to this homepage.
+
+The user may also block Facebook’s plugins using add-ons for the user’s browser, for example the „Facebook Blocker“.
+
+### b) Google’s +1-button
+
+We use the “+1”-button of the social network Google Plus provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States (“Google”). The button is market using the sign “+1” on a white or colored background.
+
+If a user visits one of the websites using such a button, the user’s browser directly connects to Google’s servers. The “+1”-button and its content are loaded directly from Google’s servers and included in the website by the user’s browser. According to Google’s statements, personal data is only collected, if a user that is a Google Plus member and logged in on the network at the time of clicking on the “+1”-button.
+
+The reason for and scope of the data acquisition and information about the way in which the data is processed and used by Google, as well as the user’s rights in this respect and settings options for protecting the users privacy can be found in Google’s privacy statement relating to the “+1”-button: <http://www.google.com/intl/de/+/policy/+1button.html>. 
+
+### c) Twitter
+
+We use the twitter-button. The button is provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. (“Twitter”) The buttons are marked using the text “Twitter” or “Follow” and a stylized blue bird. The button enables the user to share an article or a website of this homepage on Twitter or to follow the provider on Twitter.
+
+If a user visits one of the websites using such a button, the user’s browser directly connects to Twitter’s servers. The Twitter-button and its content are loaded directly from Twitter’s servers and included in the website by the user’s browser. According to the provider’s knowledge, Twitter collects the user IP-address and the website’s URL when the button is loaded from Twitter’s servers. However, this data is only be used for loading and displaying the Twitter-button.
+
+Further information can be found in Twitter’s privacy statement under: <https://twitter.com/privacy>.
+
+Should you have any questions regarding our privacy policy, please contact us via the e-mail address [dataprotection@springer.com](mailto:dataprotection@springer.com).
 
 ## X. Information sharing
 
