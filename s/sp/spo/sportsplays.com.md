@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsplays.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228155223id_/http%3A//www.sportsplays.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsplays.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630101601id_/http%3A//www.sportsplays.com/privacy.html) for the most accurate reproduction.*
 
 # SportsPlays.com Privacy Policy
 
@@ -149,6 +149,6 @@ Sports Plays
 
 [Re: Privacy Compliance Officer]
 
-PO Box 6394 
+304 S. Jones Blvd #1578, 
 
-Denver, CO 80206
+Las Vegas, NV 89107
