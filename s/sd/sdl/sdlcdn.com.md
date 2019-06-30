@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sdlcdn.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231131744id_/https%3A//www.snapdeal.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdlcdn.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630021712id_/https%3A//www.snapdeal.com/page/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 THIS PRIVACY POLICY IS AN ELECTRONIC RECORD IN THE FORM OF AN ELECTRONIC CONTRACT FORMED UNDER THE INFORMATION TECHNOLOGY ACT, 2000 AND THE RULES MADE THEREUNDER AND THE AMENDED PROVISIONS PERTAINING TO ELECTRONIC DOCUMENTS / RECORDS IN VARIOUS STATUTES AS AMENDED BY THE INFORMATION TECHNOLOGY ACT, 2000. THIS PRIVACY POLICY DOES NOT REQUIRE ANY PHYSICAL, ELECTRONIC OR DIGITAL SIGNATURE.
 
@@ -12,7 +12,7 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING THE WEBSITE, YOU INDICATE TH
 
 By providing us your Information or by making use of the facilities provided by the Website, You hereby consent to the collection, storage, processing and transfer of any or all of Your Personal Information and Non-Personal Information by Snapdeal as specified under this Privacy Policy. You further agree that such collection, use, storage and transfer of Your Information shall not cause any loss or wrongful gain to you or any other person.
 
-Jasper Infotech Private Limited and its subsidiaries and affiliates and Associate Companies (individually and/ or collectively, "Snapdeal") is/are concerned about the privacy of the data and information of users (including sellers and buyers/customers whether registered or non-registered) accessing, offering, selling or purchasing products or services on Snapdeal's websites, mobile sites or mobile applications ("Website") on the Website and otherwise doing business with Snapdeal. "Associate Companies" here shall have the same meaning as ascribed in Companies Act, 2013.  
+Snapdeal Private Limited and its subsidiaries and affiliates and Associate Companies (individually and/ or collectively, "Snapdeal") is/are concerned about the privacy of the data and information of users (including sellers and buyers/customers whether registered or non-registered) accessing, offering, selling or purchasing products or services on Snapdeal's websites, mobile sites or mobile applications ("Website") on the Website and otherwise doing business with Snapdeal. "Associate Companies" here shall have the same meaning as ascribed in Companies Act, 2013.  
 The terms "We" / "Us" / "Our" individually and collectively refer to each entity being part of the definition of Snapdeal and the terms "You" /"Your" / "Yourself" refer to the users. This Privacy Policy is a contract between You and the respective Snapdeal entity whose Website You use or access or You otherwise deal with. This Privacy Policy shall be read together with the respective Terms Of Use or other terms and condition of the respective Snapdeal entity and its respective Website or nature of business of the Website. 
 
 ## Snapdeal has provided this Privacy Policy to familiarise You with:
@@ -33,7 +33,7 @@ Personal Information is Information collected that can be used to uniquely ident
     * Your date of birth,
     * Your gender,
     * Information regarding your transactions on the Website, (including sales or purchase history),
-    * Your financial information such as bank account information or credit card or debit card or other payment instrument details,
+    * Your financial information such as bank account information or credit card or debit card or other payment instrument details including OTP,
     * Internet Protocol address,
     * Any other items of ‘sensitive personal data or information' as such term is defined under the Information Technology (Reasonable Security Practices And Procedures And Sensitive Personal Data Of Information) Rules, 2011 enacted under the Information Technology Act, 2000;
     * Identification code of your communication device which You use to access the Website or otherwise deal with any Snapdeal entity,
@@ -73,6 +73,7 @@ Snapdeal may also collect information other than Personal Information from You t
     * to conduct internal reviews and data analysis for the Website (e.g., to determine the number of visitors to specific pages within the Website);
     * to improve the services, content and advertising on the Website;
     * to provide value added services such as Single Sign On. Single Sign On shall mean a session/user authentication process that permits a user to enter his/her name or mobile number or e-mail address or any combination thereof and password in order to access multiple websites and applications;
+    * to facilitate seamless purchase experience while making a transaction by pre-populating the OTP received through SMS by you
     * to facilitate various programmes and initiatives launched by Snapdeal or third party service providers and business associates
     * to analyze how our services are used, to measure the effectiveness of advertisements, to facilitating payments
     * to conducting academic research and surveys
@@ -94,6 +95,8 @@ Snapdeal may also collect information other than Personal Information from You t
 You hereby unconditionally agree and permit that Snapdeal may transfer, share, disclose or part with all or any of Your Information, within and outside of the Republic of India to various Snapdeal entities and to third party service providers / partners / banks and financial institutions for one or more of the Purposes or as may be required by applicable law. In such case we will contractually oblige the receiving parties of the Information to ensure the same level of data protection that is adhered to by Snapdeal under applicable law.
 
 You acknowledge and agree that, to the extent permissible under applicable laws, it is adequate that when Snapdeal transfers Your Information to any other entity within or outside Your country of residence, Snapdeal will place contractual obligations on the transferee which will oblige the transferee to adhere to the provisions of this Privacy Policy.
+
+You unconditionally agree and permit Snapdeal to access and read your SMS to autofill or prepopulate ‘OTP’ while making a transaction and to validate your mobile number.
 
 Snapdeal may share statistical data and other details (other than Your Personal Information) without your express or implied consent to facilitates various programmes or initiatives launched by Snapdeal, its affiliates, agents, third party service providers, partners or banks & financial institutions, from time to time. We may transfer/disclose/share Information (other than Your Personal Information) to those parties who support our business, such as providing technical infrastructure services, analyzing how our services are used, measuring the effectiveness of advertisements, providing customer / buyer services, facilitating payments, or conducting academic research and surveys. These affiliates and third party service providers shall adhere to confidentiality obligations consistent with this Privacy Policy. Notwithstanding the above, We use other third parties such as a credit/debit card processing company, payment gateway, pre-paid cards etc. to enable You to make payments for buying products or availing services on Snapdeal. When You sign up for these services, You may have the ability to save Your card details for future reference and faster future payments. In such case, We may share Your relevant Personal Information as necessary for the third parties to provide such services, including your name, residence and email address. The processing of payments or authorization is solely in accordance with these third parties policies, terms and conditions and we are not in any manner responsible or liable to You or any third party for any delay or failure at their end in processing the payments.
 
@@ -135,7 +138,7 @@ You can add or update Your Personal Information on regular basis. Kindly note th
 
 If you find any discrepancies or have any grievances in relation to the collection, storage, use, disclosure and transfer of Your Personal Information under this Privacy Policy or any terms of Snapdeal's Terms of Use, Term of Sale and other terms and conditions or polices of any Snapdeal entity, please contact the following:
 
-## For Jasper Infotecch Private Limited:
+## For Snapdeal Private Limited:
 
 Mr. Rakesh Yadav, the designated grievance officer under Information Technology Act, 2000  
 E-mail: [grievanceofficer@snapdeal.com.](mailto:grievanceofficer@snapdeal.com.).
