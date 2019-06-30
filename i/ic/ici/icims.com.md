@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226031553id_/https%3A//www.icims.com/legal/privacy-policy-website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233832id_/https%3A//www.icims.com/legal/privacy-policy-website) for the most accurate reproduction.*
 
 # iCIMS Talent Platform Privacy Policy - iCIMS
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=94c955a0-b685-4c0f-a302-910b2109963d "TRUSTe Privacy Certification")
 
-Last modified: May 24, 2018
+Last modified: April 12, 2019
 
 Please note, this Privacy Policy relates to the website [www.icims.com](https://www.icims.com/) and its related domains and subdomains, including without limitation, [www.icims.co.uk](https://www.icims.co.uk/) and [www.icims.ca](https://www.icims.ca/) (each the "Website" as applicable). Please refer to [https://www.icims.com/legal/privacy-policy](https://web.archive.org/legal/privacy-policy) for the Privacy Policy relating to the iCIMS Talent Platform.
 
@@ -23,8 +23,7 @@ This policy applies to information we collect:
 
 
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to  
-this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
 ###  General Data Protection Regulation (GDPR), EU-U.S. Privacy Shield, and Swiss-U.S. Privacy Shield
 
@@ -38,7 +37,7 @@ With respect to personal data received or transferred pursuant to GDPR iCIMS is 
 
 In compliance with GDPR and the Privacy Shield Principles, iCIMS commits to resolve complaints about our collection and use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our privacy practices should first contact iCIMS as provided below.
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: [accounts@icims.com](mailto:accounts@icims.com).
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: [privacy@icims.com](mailto:privacy@icims.com).
 
 iCIMS, Inc.  
 101 Crawfords Corner Road, Suite 3-100  
@@ -68,8 +67,7 @@ We collect this information:
   * Directly from you when you provide it to us, including without limitation information that you provide by (1) filling in forms on our Website including without limitation information provided at the time of registering to use our Website, to view a demo of our services, or applying for a position with the Company, (2) subscribing to our service, posting material or requesting further services, (3) entering a contest or promotion sponsored by us, (4) reporting a problem with our Website, (5) responding to surveys that we might ask you to complete for research purposes, (6) performing search queries on the Website, or (7) or otherwise corresponding with us (including e-mail addresses), if you contact us.
   * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies.
   * From third parties, for example, our business partners.
-  * You also may provide User Contributions (as defined in our [terms of use](https://web.archive.org/legal/terms-of-use)) to be published or displayed. Your User Contributions are posted on and transmitted to others at your own risk. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. To request removal of your personal information from our User  
-Contributions, contact us at [accounts@icims.com](mailto:accounts@icims.com). In some cases, we may not be able to remove your personal information, in which case, we will let you know if we are unable to do so and why.
+  * You also may provide User Contributions (as defined in our [terms of use](https://web.archive.org/legal/terms-of-use)) to be published or displayed. Your User Contributions are posted on and transmitted to others at your own risk. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. To request removal of your personal information from our User Contributions, review the Accessing and Correcting Your Information section below. In some cases, we may not be able to remove your personal information, in which case, we will let you know if we are unable to do so and why.
 
 
 
@@ -113,9 +111,10 @@ We use information that we collect about you or that you provide to us, includin
   * To notify you about changes to our Website or any products or services we offer or provide though it.
   * To allow you to participate in interactive features on our Website.
   * In any other way we may describe when you provide the information, including without limitation sharing it with third parties with products, services or positions that may be of interest to you.
-  * For any other purpose with your consent.
 
 
+
+We will process your personal information for the legitimate interests of iCIMS which do not override your data protection interests or fundamental rights and freedoms, or, when needed, with your consent.
 
 ###  Disclosure of Your Information
 
@@ -124,10 +123,10 @@ We may disclose aggregated information about our users, and information that doe
 We may disclose personal information that we collect or you provide as described in this privacy policy:
 
   * To our subsidiaries, affiliates, or their or our successors or assigns.
+  * To our private equity investor, Vista Equity Partners, and its affiliates, contractors, service providers, and other third parties, including Vista Consulting Group, which will process the personal information on the basis of its legitimate interests in overseeing the administration, research, and business operations of the iCIMS’ recruitment process.
   * To contractors, service providers, and other third parties we use to support our business (e.g., third-party hosting facilities) or third parties with products, services or positions that may be of interest to you, provided such parties provide at least the same level of privacy protection as is required of the Company. These companies are authorized to use your personal information only as necessary to provide these services to us.
   * To fulfill the purpose for which you provide it.
   * For any other purpose disclosed by us when you provide the information.
-  * With your consent.
 
 
 
@@ -150,15 +149,15 @@ We strive to provide you with choices regarding the personal information you pro
 
 ###  Accessing and Correcting Your Information
 
-Upon written request iCIMS will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [GDPR.Requests@icims.com](mailto:GDPR.Requests@icims.com).
+Upon written request iCIMS will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information, please contact us by visiting this [link](https://privacyportal-cdn.onetrust.com/dsarwebform/986729d6-f618-4569-b0e7-83edd12f0d4d/ef2a7584-e382-40e8-a7be-363ec716211e.html).
 
-You can review, delete, and change your personal information by logging into the Website and visiting your account profile page where applicable or otherwise by contacting us at [GDPR.Requests@icims.com](mailto:GDPR.Requests@icims.com). We will respond to your request within a reasonable timeframe.
+You can review, delete, and change your personal information by logging into the Website and visiting your account profile page where applicable or otherwise by using this [link](https://privacyportal-cdn.onetrust.com/dsarwebform/986729d6-f618-4569-b0e7-83edd12f0d4d/ef2a7584-e382-40e8-a7be-363ec716211e.html) to contact us. We will respond to your request within a reasonable timeframe.
 
 ###  Rights of the Data Subject
 
 If you are a European Union resident, under the General Data Protection Regulations (GDPR) you have certain rights when it comes to the personal data you submit for marketing purposes to iCIMS. These rights include: 1) The right to be informed; 2) the right to access your information; 3) the right to correct any information that is inaccurate; 4) the right to correct any information that is inaccurate; 5) the right to have your information erased; 6) the right to restrict or suppress information; 7) the right to obtain and reuse their personal information for their own purposes across different services; 8) the right to object to the processing of their personal information; and 9) the right to object to how your data is used in automated decision making.
 
-If you wish to enact your rights please contact us via email at [GDPR.Requests@icims.com](mailto:GDPR.Requests@icims.com). Within the subject of the email please indicate that you are enacting a data subject right. Additionally, within in the email please indicate the specific data subject right you wish to enact and if discernable how you provided the information to iCIMS. If you wish to lodge a complaint with the supervisory authority, please contact that authority directly.
+If you wish to enact your rights, please contact us by visiting this [link](https://privacyportal-cdn.onetrust.com/dsarwebform/986729d6-f618-4569-b0e7-83edd12f0d4d/ef2a7584-e382-40e8-a7be-363ec716211e.html). Within the subject of the email please indicate that you are enacting a data subject right. Additionally, within in the email please indicate the specific data subject right you wish to enact and if discernable how you provided the information to iCIMS. If you wish to lodge a complaint with the supervisory authority, please contact that authority directly.
 
 ###  Data Retention
 
@@ -174,7 +173,7 @@ By submitting your information to the Company, you acknowledge and agree that th
 
 iCIMS is committed to protecting the information you provide us. iCIMS implements and maintains administrative, physical, and technical safeguards reasonably designed to protect the information we collect from loss, misuse, and unauthorized access or  
 disclosure. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website you can contact us at  
-[accounts@icims.com](mailto:accounts@icims.com).
+[privacy@icims.com](mailto:privacy@icims.com).
 
 ###  Social Media Widgets
 
@@ -182,7 +181,7 @@ Our Website includes social media features, such as the Facebook Like button, an
 
 ###  Referrals
 
-If you choose to use our referral service to tell a friend about a job opening and/or about our products, we will ask you for your friend’s name, phone number, and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. iCIMS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at accounts@icims.com to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about a job opening and/or about our products, we will ask you for your friend’s name, phone number, and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. iCIMS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us by visiting this [link](https://privacyportal-cdn.onetrust.com/dsarwebform/986729d6-f618-4569-b0e7-83edd12f0d4d/ef2a7584-e382-40e8-a7be-363ec716211e.html) to request that we remove this information from our database.
 
 ###  Changes to Our Privacy Policy
 
@@ -190,10 +189,7 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 ###  Children Under the Age of 13
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide  
-any information on this Website or on or through any of its features/register on the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number,  
-e-mail address or any user name you may use. If we learn we have collected or received personal information from a child under 13 we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at  
-[accounts@icims.com](mailto:accounts@icims.com).
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any user name you may use. If we learn we have collected or received personal information from a child under 13 we will delete that information. If you believe we might have any information from or about a child under 13, please contact us by visiting this link [link](https://privacyportal-cdn.onetrust.com/dsarwebform/986729d6-f618-4569-b0e7-83edd12f0d4d/ef2a7584-e382-40e8-a7be-363ec716211e.html).
 
 ###  Service Platform Policy
 
