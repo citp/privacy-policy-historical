@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebalance.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226171930id_/https%3A//www.thebalance.com/legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebalance.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232343id_/https%3A//www.thebalance.com/legal%23privacy) for the most accurate reproduction.*
 
 # Terms of Use and Policies
 
@@ -60,6 +60,10 @@ Our agents, vendors, consultants, and other service providers may have access to
 
 
 
+#### Data Retention and Access
+
+We will retain your personal data only for as long as necessary for the purposes it was retained, such as to enable you to use the Website and your products or to provide services to you. In some instances, we may retain data for longer periods in order to comply with applicable laws (including those regarding document retention), resolve disputes with any parties, and otherwise as necessary to allow us to conduct our business. All personal data we retain will be subject to this Privacy Policy and our internal retention guidelines. We respect your control over your information and, upon request, we will seek to confirm your identity and whether we hold or are processing information that we have collected from you. You also have the right to amend or update inaccurate or incomplete personal information, request deletion of your personal information, or request that we no longer use it. Under certain circumstances we will not be able to fulfill your request, such as if it interferes with our regulatory obligations, affects legal matters, we cannot verify your identity, or it involves disproportionate cost or effort, but in any event we will respond to your request within a reasonable timeframe and provide you an explanation. In order to make such a request of us, please email us at [privacy@thebalance.com](mailto:privacy@thebalance.com). 
+
 #### Your Choices
 
 **Unsubscribe from emails.** To unsubscribe from a particular newsletter, click the "unsubscribe" link at the bottom of that email newsletter. If you would like to globally opt-out from ALL The Balance email campaigns please send an email to [optout@thebalance.com](mailto:optout@thebalance.com) with "Unsubscribe" in the subject line. When we send newsletters to subscribers we may allow advertisers or partners to include messages in those newsletters, or we may send dedicated newsletters on behalf of those advertisers or partners. We may disclose your opt-out choices to third parties so that they can honor your preferences in accordance with applicable laws. 
@@ -96,7 +100,7 @@ If you have questions or wish to obtain more information about the international
 
 #### How We’ll Inform You About Changes to This Privacy Policy
 
-We may update this online privacy policy periodically to reflect changes to our privacy practices, such as how we collect or use personal data. We will post a prominent notice on the TheBalance.com home page to notify you of significant changes to this policy, and we indicate at the top of the policy the date when it was most recently updated. 
+We may update this online privacy policy periodically to reflect changes to our privacy practices, such as how we collect or use personal data. If we propose to make any material changes, we will post a prominent notice on the TheBalance.com home page to notify you of significant changes to this policy, and we indicate at the top of the policy the date when it was most recently updated. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
 #### How to Contact Us
 
@@ -121,7 +125,7 @@ Subject to certain limits, under California law California residents may ask us 
 
   1. **Controller of your Personal Data**
 
-The controller of your personal data under this Privacy Policy is About, Inc., with an address of 1500 Broadway, 6th Floor, New York, NY 10036. Our local representative with respect to the GDPR can be contacted at [Privacy@ask.co.uk.](mailto:Privacy@ask.co.uk)
+The controller of your personal data under this Privacy Policy is About, Inc., with an address of 1500 Broadway, 6th Floor, New York, NY 10036. Our local representative with respect to the GDPR can be contacted at [privacy@thebalance.com](mailto:privacy@thebalance.com).
 
   2. **Legal Bases for Using Personal Data**
 
