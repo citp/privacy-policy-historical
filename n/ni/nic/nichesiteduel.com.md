@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichesiteduel.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229084839id_/https%3A//www.smartpassiveincome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichesiteduel.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630222839id_/https%3A//www.smartpassiveincome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ Websites must have a legal basis for collecting information from individuals loc
 
 (6.) Lessons:  We will ask for your consent first.
 
-“Legitimate interests” for processing your personal information exist where you submit the information with an expectation that it will be processed and there is no undue impact on you. If you disagree or have questions, please contact Jessica Lindgren at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3b484e4b4b54494f7b48565a494f4b5a4848524d5e52555854565e15585456) and we will cease the processing of your data under this legal basis.
+“Legitimate interests” for processing your personal information exist where you submit the information with an expectation that it will be processed and there is no undue impact on you. If you disagree or have questions, please contact Jessica Lindgren at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#51222421213e232511223c30232521302222382734383f323e3c347f323e3c) and we will cease the processing of your data under this legal basis.
 
 D. Who Has Access To The Data We Collect?
 
@@ -115,11 +115,11 @@ You have the right to control your personal data. Specifically, you have the fol
 
 
 
-To exercise any of these rights, please contact Jessica Lindgren at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#62111712120d101622110f031016120311110b14070b0c010d0f074c010d0f) with your request.
+To exercise any of these rights, please contact Jessica Lindgren at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#671412171708151327140a061513170614140e11020e0904080a024904080a) with your request.
 
 H. Your Right To Withdraw Consent
 
-Although this is mentioned above, we want to emphasize that wherever we’ve asked for your consent to collect or process your personal data, you have the right to withdraw that consent. If you receive email messages from us, you can use the “unsubscribe” link in each message to withdraw consent and stop the mailings. Alternatively, you can contact Jessica Lindgren at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e2919792928d9096a2918f839096928391918b94878b8c818d8f87cc818d8f) with your request. 
+Although this is mentioned above, we want to emphasize that wherever we’ve asked for your consent to collect or process your personal data, you have the right to withdraw that consent. If you receive email messages from us, you can use the “unsubscribe” link in each message to withdraw consent and stop the mailings. Alternatively, you can contact Jessica Lindgren at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#186b6d6868776a6c586b75796a6c68796b6b716e7d71767b77757d367b7775) with your request. 
 
 I. Do We Transfer Your Data To Third Countries?
 
@@ -127,7 +127,7 @@ No. We are located in the United States. Your data is collected and held here.
 
 J. Privacy Concerns, Contacting Us, Complaints.
 
-You can contact Jessica Lindgren at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b1c2c4c1c1dec3c5f1c2dcd0c3c5c1d0c2c2d8c7d4d8dfd2dedcd49fd2dedc) with your request with any questions or requests you have about these policies or your personal data. If, after contacting us, you feel a privacy issue has not be resolved, you have the right to file a complaint with a Supervisory Authority such as the [Data Protection Commissioner of Ireland](https://www.dataprotection.ie/docs/Home/4.htm).
+You can contact Jessica Lindgren at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#40333530302f323400332d21323430213333293625292e232f2d256e232f2d) with your request with any questions or requests you have about these policies or your personal data. If, after contacting us, you feel a privacy issue has not be resolved, you have the right to file a complaint with a Supervisory Authority such as the [Data Protection Commissioner of Ireland](https://www.dataprotection.ie/docs/Home/4.htm).
 
 Data Controller
 
@@ -149,7 +149,7 @@ Pursuant to the California Online Privacy Protection Act, we hereby disclose tha
 
 B. California Eraser Law.
 
-If you are an individual under 18 and have provided personal information or content to us in some manner, you have the right to request the deletion of that information pursuant to the “California Eraser Law.”  Contact us to make such a request at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4b383e3b3b24393f0b38262a393f3b2a3838223d2e22252824262e65282426).
+If you are an individual under 18 and have provided personal information or content to us in some manner, you have the right to request the deletion of that information pursuant to the “California Eraser Law.”  Contact us to make such a request at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fc8f898c8c938e88bc8f919d8e888c9d8f8f958a9995929f939199d29f9391).
 
 **III. For All Our Valued Friends Regardless of Location**
 
