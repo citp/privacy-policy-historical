@@ -1,114 +1,160 @@
-> *The following text is extracted and transformed from the ytddownloader.com privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308231550id_/https%3A//www.ytddownloader.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytddownloader.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630131932id_/https%3A//www.ytddownloader.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - YTD Video Converter
+# Privacy Policy - YTD Video Converter - Free video downloader
 
   
 
 
-## YTD™ Video Downloader Basic and YTD™ Video Downloader Pro (collectively, "YTD") Website and Software Privacy Policy
+## PRIVACY POLICY
 
-**GreenTree Applications, SRL may be referred to herein as "GTA", "YTD", "WE", OR "US", whether in uppercase, lowercase, or a combination.**
+**Last Updated: June 2019**
 
-By continuing to access and/or use any YTD Site or Software or Platform or service following any update to this Privacy Policy, you are indicating and deemed to have agreed that that you have read, understand, and agree to its updates and modifications and the entirety of the updated Privacy Policy. 
+PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY AND IN ITS ENTIRETY BEFORE USING OUR SERVICES. 
 
-Thank You for accessing or having accessed any of YTD's Sites or Software or services, by way of the internet web sites, mobile device, smart-phone, tablet, reader, application or app, software, social media (such as Facebook and Twitter), a video service (such as YouTube or Vimeo) (none of which GTA is affiliated with), or any other device or method now known or developed in the future (individually and collectively, "the," "any," or "a" "YTD Platform" or "YTD Site" or "YTD service" or "YTD Software") (all sometimes collectively referred to as, "Platform). This Privacy Policy details certain policies implemented throughout every YTD Site, Software, Platform and service governing the use of personally identifiable information about users of our various Platforms and users of services available on or through each YTD Platform (the "services"). 
+This Privacy Policy has been established by Spigot, Inc. (the "Company" "we" or "us"), an affiliate of GreenTree Applications SRL, to explain how we may collect, retain, process, share and transfer information collected from you when you use our Services, and to allow you to make an informed decision about how you will use our Services. Capitalized terms not defined herein have the meanings ascribed to them in our Terms of Service, available [here](https://www.ytddownloader.com/terms.html). 
 
-PRIVACY POLICY UPDATES 
+By accessing our Services, you are agreeing to this Privacy Policy. We encourage you to periodically review this Privacy Policy for updates and to ensure that you are familiar with its terms. If you do not agree to this Privacy Policy, please discontinue accessing or using the Services. This Privacy Policy is not applicable to third-party Content, properties, or websites, applications and services that contain other privacy policies. If you have any questions regarding this Privacy Policy, please contact us at legal@spigot.com. 
 
-YTD may make changes to the Privacy Policy, any YTD Platform, content, or services at any time. The latest Privacy Policy will be posted or be available through [https://www.ytddownloader.com/privacy.html](https://web.archive.org/privacy.html), and You agree that You should and will always review it prior to using any YTDSite or Software or services. 
+**Section 1. Summary Information**
 
-Because of the rapidly evolving nature of the internet, computers, mobile technologies, and other technologies, in our attempts to make our user experience better, and for other aesthetic and business reasons, YTD may change, update and modify the Privacy Policy from time to time. YTD will post its updated Privacy Policy at [https://www.ytddownloader.com/privacy.html](https://web.archive.org/privacy.html) so You may always be aware of what has changed. If any modification is unacceptable to You, You shall cease using the YTD Platform (i.e., Site, Software and service) right away and uninstall the Software right away. If You do not cease using the (each and every) YTD Platform (i.e., Site, Software and service) right away and uninstall the Software right away, You will be conclusively deemed to have accepted the change(s). Except as stated elsewhere, any amended Privacy Policy shall automatically be effective as soon as it is initially posted, except if YTD states that it is giving advance notice of any amended term to be effective on a date in the future. Please check the Privacy Policy and any guidelines periodically for changes. Except as posted by YTD to the [https://www.ytddownloader.com/privacy.html](https://web.archive.org/privacy.html) page, this Privacy Policy may not be otherwise amended, and no term may be waived by YTD, except in a writing, hand signed by pen on paper (or as set forth below) by You and an authorized representative of YTD. For purposes of this provision, a "writing" does not include an email message, text, chat, or the like, sent from any device existing now or later developed and a signature does not include an electronic signature. 
+This Privacy Policy explains and describes how we collect, retain, process, share and transfer information collected from you when you use our Services. We recommend you review the entirety of our Privacy Policy to get a complete understanding, but the core features of our privacy practices are as follows: 
 
-This YTD Privacy Policy ("Privacy Policy") is intended to inform you of YTD's policies and practices regarding the collection, use, and disclosure of your Personal Information through any (each and every) YTD Platform (i.e., Site, Software and service). We define Personal Information as information that allows someone to identify or contact you, including for example your name, address, telephone number, and email address. 
-
-By registering with us or accessing or using any YTD Platform (i.e., Site, Software and service), you expressly consent to the information handling practices in this Privacy Policy. If you reside outside the United States, you understand that your personal information may be processed in countries (including the United States) where laws regarding processing personal information may be less stringent than in your country. 
-
-This Privacy Policy is a part of our Software EULA [https://www.ytddownloader.com/eula.html](https://web.archive.org/eula.html) and Website Terms of Use [https://www.ytddownloader.com/terms.html](https://web.archive.org/terms.html). If any term of this Privacy Policy is inconsistent or conflicts with any term of the EULA or Terms of Use, this Privacy Policy will control. Capitalized terms used in this Privacy Policy but not defined in this Privacy Policy have the meanings given to them in the EULA and Terms of Use. 
-
-**Personal Information You Provide to us**
-
-When you register to use any YTD Platform (i.e., Site, Software and service), we may collect your name, e-mail address and e-mail preferences, and password for your account. We may also ask you to provide additional information on an optional basis in connection with setting up your account. You may also register by using your log-in credentials from social networking websites, including Facebook, Twitter, or LinkedIn. When you register in this way, we may collect Personal Information from the social networking websites that you have given us permission to collect or made publicly available. The information YTD obtains may depend on your privacy settings with the social networking website. When you purchase any materials, services, or Software from YTD, we may collect your name, phone number, e-mail address, mailing address, billing address, complete credit card information that enables us to receive your payment (however we do not retain your credit card number unless requested) and federal tax identification number or European Union VAT number as applicable. When you give us feedback, we may collect any information that is contained in your feedback. When you contact us by sending us an e-mail, fax, or letter, we collect your e-mail address, fax number, or mailing address, and any information contained in the e-mail, fax, or letter you send us. 
-
-**Personal Information Collected via Technology**
-
-As you use any YTD Platform (i.e., Site, Software and service), some information may also be collected passively, including your Internet protocol address, browser type, access time, mobile phone model, and telecom carrier. We may also store a small text file called a "Cookie" on your computer or phone to store certain information about your use of any YTD Platform. We may use both session Cookies (which expire once you close your browser) and persistent Cookies (which stay on your computer or phone until you delete them). We may collect and store information locally on your device using mechanisms such as browser web storage and application data caches. 
-
-We may collect details of how you used any YTD Platform. We may share certain information with Google Analytics, for example. (Google's privacy policy is available at http://www.google.com/policies/privacy). 
-
-**Use of Information**
-
-We use your Personal Information to provide the YTD Site, Software, and services to you, to respond to requests that you make, to personalize your experience on and using any YTD Platform, to improve any (each and every) YTD Platform, and to better tailor the features, performance, and support of each YTD Platform . 
-
-We may use your Personal Information to send you electronic newsletters or promotional e-mails, unless you have requested not to receive such promotional communications from us. We may also use your Personal Information to send you YTD services-related communications, and you may opt out of these communications if you terminate your account. 
-
-We may create Anonymous Information records from Personal Information. We reserve the right to use and disclose Anonymous Information at our discretion. "Anonymous Information" means information that is not associated with or linked to your Personal Information. 
-
-Any feedback you provide will be governed by the Terms of Use. 
-
-**(Additional)Information About Cookies, Web Beacons, Pixels**
-
-Like most sites, We, our analytics providers, and/or our content and ad providers may set or access cookies, web beacons & pixels on your computer (including "mobile" device). We may use such, including those for Google Analytics, to obtain information about your visits to &/or uses of our sites (sometimes referred to as a Platform, and including re-direct sites) and our offerings (including offer windows or pages that may open, including when you choose to start a download &/or installation process, and which may include interstitials or offers for Programs, services, &/or products not mentioned when you choose to learn more about or initiate a download of an offer, Program, product, or service), and other sites. We consider the interstitials/offer windows to be a page that is part of our site or Platform and covered by this Privacy Policy, unless indicated otherwise in connection with an interstitial/offer. Cookies, beacons & pixels help us, Google, partners, and ad networks understand how our visitors (you) engage with our or their properties, sites, pages, or Platforms, and other sites. They may collect information and report usage data without personally identifying you to Google, such as how often you visit this site (and other sites) and open or proceed with offers, what pages you visit when you do so, and what other sites you visited or used prior to and after coming to this and other sites (including offer windows/pages). We use the information we get from Google Analytics and our cookies, beacons & pixels to improve our sites, Platforms, offerings, and attempt to serve you more relevant ads. Although Google Analytics or we may place a cookie on your web browser or device to identify you as a unique user the next time you visit this site, or our other sites, or Platforms, the Google Analytics cookie cannot be used directly by anyone but Google, which allows us to access analytical information regarding our sites or Platforms. Google Analytics has its own [Privacy Policy](http://www.google.com/policies/privacy/) and [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/). You can stop cookies by disabling or removing them, however, this might log you out of websites or change website behavior. As is the case with most websites, simply visiting the website may be your consent to the automatic placing of cookies, pixels, and/or web beacons on your device, which you may clear by clearing your browser of cookies, history, etc. (Please consult the guide for your browser on how to do this.) You may read [here](http://www.google.com/policies/privacy/partners/) how Google uses data when you visit or use our or partners' sites (including offer windows or pages) and apps,. More information about what may be collected, used, and stored by Us or Google may be found elsewhere within this Privacy Policy (or Privacy Statement) as well as on Google's sites (including [here](https://www.google.com/intl/en/policies/technologies/types/) & [here](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage#gajs)). Google Analytics can also be used, together with some of the advertising cookies (which may be described elsewhere), to help show more relevant ads on Google properties (like Google Search) and across the web. 
-
-**Disclosure of Personal Information**
-
-Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share your Personal Information with third parties, unless you ask or authorize us to do so. 
-
-We may provide your Personal Information to specified third parties for sending you promotional e-mails relating to such third parties' products, unless you have requested us not to receive promotional communications from such third parties. 
-
-We may provide your Personal Information to third party service providers who work on behalf of or with us to provide any YTD Platform However, these service providers do not have any independent right to share this information (except pursuant to a legal requirement such as a subpoena or warrant). 
-
-We may provide your credit card and related billing and payment information to third party service providers engaged on YTD's behalf, including payment processors and/or credit agencies, for the purposes of checking credit, effecting payment, and servicing your accounts. 
-
-We may share some or all of your Personal Information with our Affiliates in which case we will require our Affiliates to honor this Privacy Policy. 
-
-We will not share any Personal Information with any of our app developer partners. 
-
-Information that we collect from you, including PII, is considered a business asset. Accordingly, if we go out of business or enter bankruptcy, or if we are acquired, e.g., as a result of a transaction such as a merger, acquisition, or asset sale, your PII may be disclosed or transferred to the third-party acquirer in connection with the transaction. 
-
-**Law Enforcement Compliance**
-
-We may be required by law, or by law enforcement officers acting under the color of law, to record some or all of your communications on or through any YTD Platform. We may, and you hereby authorize us to, disclose your Personal Information (including your account information) and your communications with us including through any (each and every) YTD Platform , if required by law or by law enforcement officers acting under the color of law, or if we believe in our sole and unfettered discretion that disclosure is necessary to: (1) satisfy or comply with relevant laws, regulation or legal process; (2) respond to lawful requests, or to respond to subpoenas or warrants or court orders served on us; or (3) to protect and defend ours, our Affiliates,' other users,' or your, rights, property or safety; and (4) to prevent or stop activity we consider to be illegal or unethical. 
-
-**Your Choices Regarding Your Personal Information**
-
-We offer you choices regarding the collection, use, and sharing of your Personal Information. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you may have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail you receive. 
-
-Despite your indicated e-mail preferences, we may send you administrative e-mails regarding any YTD Platform , including, for example, purchase confirmation, account creation confirmation, and notices of material changes to our EULA, Terms of Use or Privacy Policy. 
-
-You may change your email address and password for the service by editing it in your account page. You may request deletion of your Personal Information by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request, only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain in our archives. 
-
-**Regarding Children**
-
-We do not intentionally gather Personal Information about Users who are under the age of 13. YTD recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. No YTD Platform is intended for children **under the age of 13**. YTD does not target its services or Platforms to children under 13. YTD does not knowingly collect personally identifiable information from children under the age of 13. IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS ANY YTD PLATFORM AT ANY TIME OR IN ANY MANNER. IF YTD LEARNS THAT PERSONALLY-IDENTIFIABLE INFORMATION OF PERSONS LESS THAN 13 YEARS OF AGE HAS BEEN COLLECTED ON OR THROUGH A YTD PLATFORM, YTD WILL TAKE THE APPROPRIATE STEPS TO DELETE THIS INFORMATION. 
-
-IF YOU ARE THE PARENT OR LEGAL GUARDIAN OF A CHILD THE AGE OF 13 WHO HAS BECOME A YTD PLATFORM USER, THEN PLEASE CONTACT YTD AT privacy@greentreeapps.ro TO HAVE THAT CHILD'S ACCOUNT TERMINATED AND INFORMATION DELETED. 
-
-The following are some resources that may help parents and legal guardians in monitoring and limiting your children's access to certain types of material on the internet. While YTD does not endorse these sites, services, or products, and disclaims any responsibility in connection with them, we provide information about them as a public service. 
-
-  1. [OnGuard Online](http://www.onguardonline.gov/articles/0012-kids-and-socializing-online), maintained by the Federal Trade Commission.
-  2. [WiredSafety](https://www.wiredsafety.org/)
-  3. [Netsmartz.org](http://www.netsmartz.org/Parents)
-  4. [The Child Safety Network](http://www.csn.org/index.jsp)
-  5. [Control Kids](https://www.controlkids.com/)
-  6. [CyberSitter](http://www.solidoak.com/)
-  7. [NetNanny](http://www.netnanny.com/)
+  * To the extent that we collect information, including Non-Personal Information and Personal Information (both defined below) from you, this may be done in two ways: information that we collect in connection with your use of our Services and information that you give to us.
+  * Your Personal Information may be shared by us with third-parties in many ways, including to provide you with the Services, or for our or their own purposes. To learn more about our rights to share your information, please see the How Do We Share This Information? section below.
+  * In some circumstances we allow you to review and update your Personal Information by contacting us at legal@spigot.com.
+  * While we use commercially reasonable efforts to secure your information, we cannot guarantee and you should not expect, that your information will remain secure at all times and in all circumstances.
+  * Our Services are not directed to children under 13. Please see the Age Limitation section below for further information regarding our policy in this regard.
 
 
 
-**Third Party Sites, Third Party services, and Third Party Materials**
+**Section 2. What Information Do We Collect?**
 
-Please be aware that the terms of our Privacy Policy do not apply to Third Party Sites, Third Party services or Third Party Materials that have links or are provided through any YTD Platform. Third party providers of such Third Party Sites, Third Party services or Third Party Materials, may collect (via tracking technologies like Cookies or web beacons) and use Anonymous Information regarding your interaction with the Third Party Sites, Third Party services or Third Party Materials that they deliver and with which you interact. 
+We may collect information from you in two ways: information we gather from your use of our Service and information you give to us, as further outlined below. This information may include "Personal Information" and "Non-Personal Information." For purposes of this Privacy Policy, "Personal Information" means information that you provide to us that personally identifies you, such as your first and last name, email address, physical address, telephone number and billing information. For purposes of this Privacy Policy, "Non-Personal Information" means information that does not specifically identify you. 
 
-**NOTICE TO EUROPEAN USERS**
+The information we collection about you may include the following: 
 
-The information You enter on or through a YTD Platform or otherwise provide to YTD may be transferred outside of the European Union to the United States of America, which does not offer an equivalent level of protection to that required in the European Union. In particular, You are advised that the United States of America uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. Article 26 of the European Union's Data Protection Directive (Directive 95/46/EC, 1995 O.J. (L 281) 31) allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection. By agreeing to the Terms and this Privacy Policy, You consent to the transfer of all such information to the United States of America, which may not offer an equivalent level of protection to that required in the European Union and to the processing of that information by YTD on its servers located in the United States of America as described in this Privacy Policy. 
+  * **Information you provide us.** We collect the content, communications and other information you provide when you contact us, including your email address.
+  * **Information we obtain from your use of our Services.** We collect information about the Services that you use and how you use them. This information includes: 
+    * **Device Information**  
+We collect device-specific information (such as your hardware model and operating system version).
+    * **Log Information**  
+When you use our Services or view content provided by the Company, we automatically collect and store certain information in server logs. This includes:  
 
-**Security**
+      * Search activity when you use web search services (such as search queries) ("Search Data").
+      * Internet protocol address ("IP Address") 
+      * The type of browser you are using when using our Services, including your browser's "user agent" (e.g., Internet Explorer, Safari, and other browsers)
+      * Device event information such as crashes, system activity, hardware settings, browser language, and the date and time of your request and referral URL 
+      * Your geographic location 
+      * The Domain name of your Internet service provider 
+      * The source of traffic acquisition
+      * Date of traffic acquisition, and 
+      * Time and date of certain browser events such as: 
+        * Chrome extensions enabled
+        * Homepage/new tab rendered
+        * Search query performed
+        * Search performed on search engine results page ("SERP") 
+        * Search term on SERP
+        * Paid advertisements clicked on SERP 
+        * Organic advertisements clicked on SERP 
+        * Icons clicked on Home page/New Tab Page 
+        * Uninstalls of extension 
+        * Views on landing page
+        * Clicks on an action button on landing page 
+        * Cancellations of an extension installation 
+        * Acceptance of extension installation 
+        * Disablement of extension
 
-We make reasonable efforts to protect your Personal information, but no company, including us, can fully eliminate security risks connected to handling information on the internet. 
 
-**Privacy Policy Updates**
 
-This Privacy Policy may be amended at any time in accordance with the section titled "Updates" in the [Terms of Use](https://web.archive.org/terms.html). 
+**Section 3. How Do We Use This Information?**
 
-Revised May 11th, 2016, by including clarifying information about Google Analytics, cookies, web beacons, pixels. Effective immediately. 
+We are able to deliver, personalize, and improve our Services by combining and using the information that we have about you to understand how you use and interact with our Services. We also may use the information that we have about you for the following purposes: 
+
+  * To provide, maintain, improve, and develop relevant features, Content, and Services.
+  * To communicate with you by responding to your requests, comments, and questions, including through any contact information (email or mobile text number) you provide us.
+  * To help advertisers and publishers connect with you to offer relevant advertising in their apps and websites.
+  * To create analytics and reports for internal purposes. These analytics and reports may include aggregate or anonymous information.
+  * To detect and defend against fraudulent, abusive, or unlawful activity.
+
+
+
+In connection with the foregoing, we may combine your Personal Information that we have with other information that we obtain from service providers or other companies. We may also combine your Personal Information with Non-Personal Information. When Personal Information and Non-Personal Information is combined, it will be treated as Personal Information for the duration of such combination. 
+
+**Section 4. How Do We Share This Information?**
+
+We will not share the Personal Information we collect about you with any third party for their own marketing purposes without your consent. Except as set forth below, we do not sell, license or share information that individually identifies our users with companies, organizations or individuals outside of the Company and its affiliated entities. We will share your information in the following ways: 
+
+  * **Our vendors, subcontractors and business partners ("service providers"):** We may share your data with our services providers who process your Personal Information to provide their services to us or on our behalf, which services may constitute a part of our Services. We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else or using it for other purposes.
+  * **Companies within the Company's group of companies:** We may share your information with our parent company and our affiliates, which are entities under common ownership or control of our ultimate parent company.
+  * **Fraud prevention:** We may disclose the Personal Information we collect about our users, including you, when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
+  * **Law enforcement purposes and public safety:** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims. We also may be required to disclose a user's Personal Information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+  * **Sale or merger of our business:** We may transfer your Personal Information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+  * **Advertisers and advertising networks:** Advertisers and advertising networks place ads (including sponsored links in search results) on or through our Services. These companies may collect information, such as your computer's IP address, browser information, and search queries, as you use our Services. They also may use cookies and other technologies to collect this information when you visit our site as described below.
+
+
+
+Any transfer of your information will comply with applicable law in all cases. We disclaim and shall have no liability or obligation in connection with any third party actions or omissions concerning your information, even if those acts or omissions are a result of our sharing and disclosure your information, as allowed pursuant to this Privacy Policy. If you have any issues concerning a third party's use of your information, please contact such third party. For more information on third-party use of your information, please see Third-Party Practices herein. Any Non-Personal Information we collect may be shared by us publicly and with others. 
+
+**Section 5. How Do We Use Cookies and Tracking Technology?**
+
+A "cookie" is a small file containing your preferences that is sent to your browser and sent back by your browser each time your browser accesses our servers. When you visit our Services, we may send your computer or mobile device a cookie that uniquely identifies your browser. Cookies that we may use may only be read by the server that placed them there. Our use of cookies is primarily focused on improving the quality of our Services and your use of those Services. By way of example, we use cookies to deliver our Services in your language of choice, to filter results and fulfill other preferences you may have, and to analyze how our users, including you, interact with our Services, such as by tracking user trends and patterns of how people search. Many browsers are set up to accept cookies unless the user changes the settings for cookies. You have control over this and can set your preferences to indicate when a cookie is being sent or to refuse altogether. While you maintain control over your cookie setting, some portions of our Services may not function correctly without cookies. You can review more information about cookies and how to control and delete cookies in various browsers, such as Internet Explorer, Firefox, Safari, Opera and Chrome, please [click here](http://www.aboutads.info/consumers/). 
+
+We may currently or in the future use web analytics companies to assist us in measuring the effectiveness of our Services. This requires that we allow such web analytics companies to include their own Web beacons and cookies on the Services. These web analytics companies collect information from Web beacons and cookies such as click-throughs by users and other similar information. We use this information to help us learn things like overall user preferences, click-through rates, means to improve our Services, and what the types of offers that are of most interest to our users. We control how that data may be used, notwithstanding its collection by third party web analytics companies. 
+
+To "opt-out" of receiving cookies from certain of our ad serving partners, please [click here](http://optout.networkadvertising.org/?c=1). We use the term "cookies" in this Privacy Policy to refer to cookies and all such similar technologies that collect information automatically when you are using our Services. 
+
+**Section 6. How Long Do We Keep the Information?**
+
+We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request. We may also choose to anonymize certain information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time. 
+
+**Section 7. How Do We Protect Your Personal data?**
+
+We take the protection of your Personal Information very seriously. Only our employees, contractors, affiliates, service providers, and agents will have access to your Personal Information, except as otherwise provided for in this Privacy Policy. We maintain technical, physical, and administrative security measures designed to provide reasonable protection for your personal data against loss, misuse, unauthorized access, disclosure, and alteration. The security measures include firewalls, data encryption, physical access controls to our data centers, and information access authorization controls. While we are dedicated to securing our systems and Services, you are responsible for securing and maintaining the privacy of your password, if any, used in connection with your use of our Services. While we take precautions against possible breaches in our Services and databases, we cannot guarantee that it is completely secure. We are not able to assure you that unauthorized hacking, access, data loss, or other breaches will never occur. As such, your use of our Services is at your own risk. You are encouraged to protect your Personal Information when you are on the Internet, including making sure you use a secure Internet browser. 
+
+**Section 8. Third-Party Practices**
+
+Applicable law obligates our service providers to protect the privacy of certain types of data. We are not responsible for their actions or omissions in any way, including with respect to any information they receive directly or indirectly from us. If you believe that any party who claims association with us, including our service providers, is improperly collecting or using information about you, you should contact them directly. You may also notify us by emailing us at legal@spigot.com, though we maintain no responsibility to reply to such correspondence or to take any action in connection with such correspondence. 
+
+In order to provide or enable certain portions of our Services, our service providers may request or require you to provide information, including Personal Information, to them or to download certain software. We have no responsibility for the privacy practices of our service providers or the contents of any software downloaded from them. Our Services may also link to third party websites and offerings over which we exercise no control. Under no circumstances shall we be responsible for the privacy practices or the content of such third-party websites and offering, including their information collection, storage, usage and sharing practices. Please contact such third parties in connection with any issues you may have with respect to those third-party websites and offerings. 
+
+**Section 9. Age Limitations.**
+
+Our Services are not directed to children under the age of 13. We do not knowingly collect information, including Personal Information, from children or other individuals who are not legally able to use our Services. If we obtain actual knowledge that we have collected Personal Information from a child under the age of 13, we will promptly delete it, unless we are legally obligated to retain such data. Contact us if you believe that we have mistakenly or unintentionally collected information from a child under the age of 13. 
+
+**_COPPA_**
+
+We comply with the Children's Online Privacy Protection Act (COPPA). For more information about COPPA and children's privacy, please click [here](http://www.ftc.gov/privacy/coppafaqs.shtm). 
+
+**Section 10. Jurisdiction and International Data Transfers**
+
+We do not represent or warrant that our Services are appropriate or available for use in any particular jurisdiction. Those who choose to access the Services do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit access to our Services, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion. 
+
+The Company may transfer your Personal Information to countries other than the one in which you live. In particular, your Personal Information will be transferred to and processed in the United States where many of our central databases operate. By using our Services, you are consenting to such cross-border data transfers of your Personal Data, as set forth in this Privacy Policy. By using the Services, you acknowledge that the data protection and other laws of other countries, such as the United States, may provide a less comprehensive or protective standard of protection than those in your country, and consent to your Personal Information being collected, processed and transferred as set forth in this Privacy Policy and US law. The Company has entered into European Union Model Clauses, also known as Standard Contractual Clauses, to meet the adequacy and security requirements for our users that operate in the European Union. 
+
+**Section 11. Your Rights**
+
+Individuals located in certain countries, including the European Economic Area, have certain statutory rights in relation to their Personal Information. Subject to any exemptions provided by law, you may have the right to request access to your Personal Information that we retain, as well as to seek to update, delete or correct this Personal Information. If you wish to exercise any of these rights, please contact legal@spigot.com. While we may be able to provide you access to your Personal Information in some cases, there is no guarantee we will be able to provide access in all circumstances. In circumstances where we are unable to verify your identity or are required to retain such information in accordance with applicable laws, we may not be able to modify or remove your Personal Information. We will remove your Personal Information in accordance with applicable law. 
+
+To the extent that our processing of your Personal Information is subject to the General Data Protection Regulation, the Company relies on your consent. If we have collected and process your Personal Information with your consent, then you can withdraw your consent at any time by contacting us at legal@spigot.com. 
+
+**Section 12. Data Protection Authority**
+
+Subject to applicable law, you also have the right to (i) restrict the Company's use of your Personal Information and (ii) lodge a complaint with your local data protection authority. If you are a resident of the European Economic Area and believe we maintain your Personal Information within the scope of the General Data Protection Regulation (GDPR), you may direct questions or complaints to us at legal@spigot.com. 
+
+**Section 13. California Privacy Rights Under California Civil Code Section 1798.83**
+
+California Civil Code Section 1798.83, known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us a list of what Personal Information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year and the names and addresses of those third parties. Requests may be made only once a year and are free of charge. To make such a request, please contact us at support@eighpoint.ky. For all requests, you must put the statement "Your California Privacy Rights" in the body of your request, as well as your name, street address, city, state and zip code. In the body of your request, please provide enough information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, mail or by facsimile, and we are not responsible for notices that are not labeled or sent properly or that do not have complete information. 
+
+**Section 14. More Information.**
+
+For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org. In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices. If you have questions about this Privacy Policy, or if you would like access to Personal Information we may have about you in our files, to correct, update or to have us delete it, or if you would like to notify us of your choice to opt-out of any sharing of your Personal Information, please contact us at legal@spigot.com. 
+
+**Section 15. Changes to this Privacy Policy**
+
+We reserve the right to revise, from time to time, this Privacy Policy. Any changes to this Privacy Policy will be posted on our Services and, to the extent the changes are significant. Your continued use of our Services after such change has been made will signify your acceptance of such change. 
+
+**Section 16. Contact Us**
+
+If you have any questions about this Privacy Policy or the Company's practices, or if you are seeking to exercise any of your statutory rights, you may contact us at legal@spigot.com. 
+
+YTD Video Downloader is distributed independently of any video streaming sites. We are not responsible for third-party products, services, sites, content, etc. Our use of third-party trademarks does not signify or suggest the endorsement, affiliation, or sponsorship, of or by us of those trademark owners or their products or services, or they of us. We respect intellectual property rights and expect the users of YTD to do the same. Any use of YTD that violates an intellectual property right of a third party is prohibited by us. Prior to using YTD for any specific purpose, please confirm that you are not violating any third-party intellectual property right in connection with such use.OK
