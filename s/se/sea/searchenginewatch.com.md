@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchenginewatch.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105084147id_/https%3A//searchenginewatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginewatch.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235204id_/https%3A//searchenginewatch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Search Engine Watch
+# Privacy Policy - Search Engine Watch Search Engine Watch
 
 This Privacy Policy describes the information that we gather on or through our Services and how we use and process such information. For each processing purpose we will articulate the reason for requiring the data, what data we will process, the legal basis for processing the data and how long we will keep the data.
 
