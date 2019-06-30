@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pezcyclingnews.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901055338id_/http%3A//www.pezcyclingnews.com/advertisements/pezcyclingnews-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pezcyclingnews.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630053441id_/https%3A//www.pezcyclingnews.com/advertisements/pezcyclingnews-privacy-policy) for the most accurate reproduction.*
 
 # PEZCyclingNews Privacy Policy - PezCycling News
 
@@ -60,7 +60,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.pezcyclingnews.com
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at https://www.pezcyclingnews.com
 
 **Your Consent**  
 By using our site, you consent to our online privacy policy.
@@ -73,7 +73,7 @@ This policy was last modified on April 9, 2013
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.pezcyclingnews.com  
+https://www.pezcyclingnews.com  
 P.O. Box 54115 - 1562 Lonsdale Ave  
 North Vancouver, BC V7M 2J0  
 Canada  
