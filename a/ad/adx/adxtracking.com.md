@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adxtracking.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224611id_/http%3A//www.criteo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adxtracking.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235514id_/http%3A//www.criteo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Criteo
 
@@ -14,17 +14,18 @@ Please note that browser and mobile application environments are separate. If yo
 
 Please also note that if you are using a Safari browser, our opt-out feature will not work properly due to Apple Intelligent Tracking Prevention feature. If you are using a Safari version higher than 11.2, please refer to the last part of this section.
 
-### 1/ Criteo Dynamic Retargeting
+### 1/ Criteo Dynamic Retargeting & Sponsored Products
 
 **Online web environment**  
 If you do not want to receive ads displayed by Criteo, on your current browser and browsers we have linked to your technical identifier you can disable the display of Criteo ads here.
 
 If you only want to opt out from your current browser uncheck the box.
 
-### 2/ Criteo Sponsored Products
+### 2/ Criteo Commerce Display
 
-**Online web environment**  
-If you do not want to receive Criteo Sponsored Products ads on your current browser, you can click here.
+Criteo Commerce Display is a technology that provide you, as a shopper, with an improved and personalized experience when you browse one of our retail partner website, by showing you promoted products that match your purchasing habits. For instance, if you regularly purchase dog food, our tech has been built to anticipate that you would better enjoy your shopping experience if you see the latest pet food offer or brand-new dog product, rather than a random offer or new product that will not match your needs.
+
+If you want however to disable Criteo Commerce Display, please follow instructions [here.](https://www.criteo.com/commerce-display-opt-in-opt-out/)
 
 #### Criteo Dynamic Retargeting
 
@@ -110,16 +111,61 @@ When you opt out as instructed in this section, a cookie will be set on your bro
 
 #### 3/ Safari 11.2 and above
 
-If you do not want to receive ads displayed by Criteo on a Safari browser above 11.2, you can enable the “Limit Ad Tracking” **and** “Ask websites not to track me” options on your device settings to disable our services (for Safari versions 11.1 and below, you can opt-out of Criteo services as indicated above in this section).
+If you do not want to receive ads displayed by Criteo on a Safari browser above 11.2, please note that the settings of your Safari browser may limit our technical capacity to remember your choice.
 
-  * **To enable the “Limit Ad Tracking” option** , you can go to the Advertising section of the Privacy settings of your device and turn on the “Limit Ad Tracking” option.
-  * **To enable the “ask websites not to track me” option** , you can go to the Safari section of your device’s general settings and turn on the “ask websites not to track me” option.
+Criteo offers several alternatives to Safari users in order to provide them with the same control tools as those we provide to the users of other browsers.
+
+Opting out on other browsers only takes one click on the button above.
+
+  * **Change settings and disable Criteo**
+
+
+  1. Change browser settings
 
 
 
-Enabling these options will disable Criteo ads and data collection both in the web and in mobile application environments as long as these options remain enabled. Your choice will be effective as soon as we recognize your device on our partners network.
+For Criteo to be able to know and respect your choice on all websites.
 
-Please note that if you update the browser or operating system of your device, or if you deactivate the “Limit Ad Tracking” or “ask websites not to track me” options, we may no longer be able to know that you have opted out.
+  *     * Open Settings app
+    * Select Safari
+    * Switch Off “Prevent Cross-Site Tracking”
+
+
+
+Back on this page after changing your settings.
+
+2\. Disable Criteo
+
+Simply switch On the button above to activate Criteo opt-out.
+
+3\. Force Safari App to close
+
+If you need instructions on how to force an app to close, you can read more on: [Apple Support’s instructions](https://support.apple.com/en-us/HT201330)
+
+Please note that your choice will be stored in a cookie placed on your browser in order to prevent future data collection and ad serving on your browser.
+
+Therefore, if you wipe all your cookies or if you change back your settings, we will no longer know that you have opted out.
+
+Or if you prefer to experience Criteo’s personalized advertising you’ll have the ability to disable the service from the ads directly through the ad choices icon
+
+  * **Install a content-blocking app to block personalized advertising from Criteo and others**
+
+
+  1. Download disconnect.me
+
+
+  *     * [Download](https://itunes.apple.com/fr/app/disconnect-free-tracker-protection-for-safari/id1049073550?mt=8).
+
+
+
+2\. Change browser settings
+
+  *     * Open Settings app
+    * Select Safari
+    * Select “Content Blockers”
+    * Switch On “Privacy”
+
+
 
 * * *
 
@@ -208,7 +254,7 @@ We do not know who you are. We do not know your address, your place of work, you
 
 We do not collect hardware-based identifiers such as UDID or MAC Address.
 
-We do not collect sensitive information (such as religion, political opinion, health…).
+We do not collect sensitive information (such as religion, political opinion, health or sexual orientation) to create segments or target ads to users. For the sole purpose of serving ads on a publisher’s website that could possibly reveal sensitive information (eg. a medical website), we may collect the URL of that website.
 
 We do not create segments to specifically target children under 16 years old.
 
