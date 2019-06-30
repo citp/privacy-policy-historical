@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223171251id_/http%3A//www.beliefnet.com/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211634id_/https%3A//www.beliefnet.com/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Beliefnet
 
-Beliefnet, Inc. (“Beliefnet,” “we,” “us”) has adopted this privacy policy (the “Privacy Policy”), which describes how we collect, use and share personally identifiable information (such as your full name, email address or mobile number) (“PII”) we obtain online and offline from and about individuals located in the United States.
+Beliefnet, (“Beliefnet,” “we,” “us”) has adopted this privacy policy (the “Privacy Policy”), which describes how we collect, use and share personally identifiable information (such as your full name, email address or mobile number) (“PII”) we obtain online and offline from and about individuals located in the United States.
 
-The Beliefnet.com web site ([http://www.Beliefnet.com](http://www.beliefnet.com/)) (the “Site”) is a general audience web site, and we do not knowingly collect PII from children under 13 years of age.
+The Beliefnet.com web site ([https://www.Beliefnet.com](http://www.beliefnet.com/)) (the “Site”) is a general audience web site, and we do not knowingly collect PII from children under 13 years of age.
 
 Our Privacy Policy applies to "Visitors,” which means that you simply browse or use the Site, “Subscribers,” which means that you have subscribed to receive one or more Beliefnet newsletter, email alerts or partner emails, and "Members," which means that you have registered with Beliefnet. The term "User" refers to a Visitor, Subscriber or a Member. By using the Site, you signify your agreement with all the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site. Our Privacy Policy does not apply to those web sites that do not display or link to this Privacy Policy or that have their own privacy statements.
 
@@ -158,10 +158,10 @@ Whenever possible, Members and Subscribers may review the PII we maintain about 
 
 If for any reason you want Beliefnet to stop using your PII, Beliefnet will honor that request; however, Beliefnet will retain any record of your PII that is necessary to comply with applicable federal, state or local law. Even after removal of PII and User Content by you or Beliefnet, PII and User Content may still be viewable in cached and archived pages or if another User has stored your User Content.
 
-If you would like to communicate with us about this Privacy Policy or Beliefnet’s collection or use of your PII, or request Beliefnet to delete your PII, please contact Beliefnet c/o: BN Media Associates, LLC, 2037 Laskin Road, Virginia Beach, VA 23454, Attn: Jeremy McGee, Beliefnet Internet Privacy Officer. E-mail: [copyrightagent@beliefnetstaff.com.](mailto:copyrightagent@beliefnetstaff.com.)
+If you would like to communicate with us about this Privacy Policy or Beliefnet’s collection or use of your PII, or request Beliefnet to delete your PII, please contact Beliefnet c/o: BN Media, LLC, 2037 Laskin Road, Virginia Beach, VA 23454, Attn: Jeremy McGee, Beliefnet Internet Privacy Officer. E-mail: [copyrightagent@beliefnetstaff.com.](mailto:copyrightagent@beliefnetstaff.com.)
 
 **H. REMEDIES AND COMPLIANCE: HOW TO CONTACT BELIEFNET ABOUT PRIVACY CONCERNS**
 
-If you have questions or concerns regarding privacy, your use of the Beliefnet Site, or the collection and use of PII, you may contact Beliefnet c/o: BN Media Associates, LLC, 2037 Laskin Rd, Virginia Beach, VA, 23454 Attn: Jeremy McGee, Beliefnet Internet Privacy Officer. Telephone: (757) 200-9944. E-mail: 
+If you have questions or concerns regarding privacy, your use of the Beliefnet Site, or the collection and use of PII, you may contact Beliefnet c/o: BN Media, LLC, 2037 Laskin Rd, Virginia Beach, VA, 23454 Attn: Jeremy McGee, Beliefnet Internet Privacy Officer. Telephone: (757) 200-9944. E-mail: 
 
 [copyrightagent@beliefnetstaff.com](mailto:copyrightagent@beliefnetstaff.com).
