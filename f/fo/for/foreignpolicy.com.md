@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreignpolicy.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231010329id_/https%3A//foreignpolicy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreignpolicy.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215630id_/https%3A//foreignpolicy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Foreign Policy
 
@@ -12,7 +12,7 @@ Foreign Policy, (“FP”, “we” or “us,”) is committed to protecting the
 
 If you have any questions about this Privacy Policy, questions or complaints about the collection, use and processing of your personal information, please contact us by postal mail or email at:
 
-Foreign Policy, 11 Dupont Circle NW, Suite 600 Washington, DC 20036, USA
+Foreign Policy, 1750 Pennsylvania Ave. NW, Suite 200, Washington, DC, 20006
 
 [privacy@foreignpolicy.com](mailto:privacy@foreignpolicy.com)
 
