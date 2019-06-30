@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the boardgamegeek.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231002558id_/https%3A//www.boardgamegeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardgamegeek.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630205758id_/https%3A//www.boardgamegeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BoardGameGeek
-
-GeekGold Bonus for All Supporters at year's end: 1000! 
-
-15,326 Supporters
-
-$15 min for supporter badge & GeekGold bonus 
-
-2 Days Left 
-
-###  Support: 
-
-Annual  Monthly  One-Time  $15  $25  $40  $70  $100  $
 
 Before you start, we have a few questions for you:
 
