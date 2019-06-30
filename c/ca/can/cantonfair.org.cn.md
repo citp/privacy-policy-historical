@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cantonfair.org.cn privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128225332id_/http%3A//www.cantonfair.org.cn/en/common/privacy_policy.aspx%3Foid%3D47114) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cantonfair.org.cn privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630201618id_/http%3A//www.cantonfair.org.cn/en/common/privacy_policy.aspx%3Foid%3D47114) for the most accurate reproduction.*
 
 # Privacy Policy
 
