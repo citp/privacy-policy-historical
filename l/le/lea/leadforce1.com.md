@@ -1,57 +1,83 @@
-> *The following text is extracted and transformed from the leadforce1.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206150205id_/http%3A//www.leadformix.com/trust-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadforce1.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224701id_/https%3A//www.salesforce.com/company/privacy) for the most accurate reproduction.*
 
-# Trust : Privacy Policy
+# Privacy Policy - Salesforce.com
 
-LeadFormix is committed to protecting the privacy of your information. This Privacy Statement describes LeadFormix’s privacy practices.
+When you use and interact with our websites or services, communicate with or otherwise contact us or visit our offices or attend our events, we may collect, use, share and process information relating to you ("Personal Data"). These Privacy Statement Highlights summarize our Personal Data processing practices and your related rights. 
 
-#### 1\. Information Collected 
+Salesforce’s full Privacy Statement contains more information about Salesforce’s privacy practices.
 
-LeadFormix offers a variety of applications and services that are collectively referred to as the “Services”.  LeadFormix collects information from individuals who visit LeadFormix’s web sites (“LeadFormix  Visitors”) and any web site where LeadFormix’s product(s) are installed (“Customer Web Site Visitors”) and individuals who register to use the Services (“Customers”).
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
 
-When expressing an interest in obtaining additional information about the Services or registering to use the Services, LeadFormix requires you to provide LeadFormix with contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Services, LeadFormix may require you to provide LeadFormix with billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Services (“Billing Information”). LeadFormix may also ask you to provide additional information, such as company annual revenues, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information, and Optional Information are referred to collectively as “Data About LeadFormix Customers.”
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=c4e93b5b-f002-44f6-86ac-2cdb22d2beeb)
 
-As you navigate LeadFormix’s web site or a web site of LeadFormix’s Customers, LeadFormix may collect information through the use of commonly-used information-gathering tools, such as cookies (“Web Site Navigational Information”). Web Site Navigational Information includes, but is not limited to, standard information from your web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on LeadFormix’s web site or a web site of LeadFormix’s Customers (such as the Web pages viewed and the links clicked). 
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
 
-We do not knowingly collect personally identifying information from anyone under the age of 13. 
+Salesforce is the controller of your Personal Data and is responsible for its processing, unless expressly specified otherwise in our full Privacy Statement. For the avoidance of doubt, our Privacy Statement does not apply to the extent we process Personal Data in the role of a processor on behalf of our customers. A reference to “Salesforce,” “we,” “us” or the “Company” is a reference to salesforce.com, inc and the relevant affiliate involved in the processing activity. The office locations of where salesforce.com, inc. and its affiliates are located can be found 
 
-#### 2\. Use of Information Collected 
+_[here](https://www.salesforce.com/company/locations/)_
 
-  * LeadFormix uses Data About LeadFormix Customers to perform the services requested. For example, if you fill out a “Contact Us” web form, LeadFormix will use the information provided to contact you about your interest in the Services.
-  * LeadFormix may also use Data About LeadFormix Customers for marketing purposes. For example, LeadFormix may use information you provide to contact you to further discuss your interest in the Services and to send you information regarding LeadFormix and its partners, such as information about promotions or events.
-  * LeadFormix uses credit card information solely to check the financial qualifications of prospective Customers and to collect payment for the Services.
-  * LeadFormix uses Web Site Navigational Information, gathered from its own website, to operate and improve LeadFormix’s Web site. 
-  * LeadFormix will not own or use information collected from Customer Web Site Visitors, except to better the LeadFormix product(s) and/or to fix any bugs in a product(s).  The information collected from Customer Web Site Visitors will be solely owned and used by Customer.  Notwithstanding the foregoing, LeadFormix may use and analyze the information collected from Customer Web Site Visitors in order to improve its product(s) and/or to fix any bugs in a product(s).  
+. Please see the "Contacting us" section, below, for our contact information and the contact information of our data protection officer. 
+
+We collect and process Personal Data for a variety of purposes, including:
+
+  * The processing of your name and contact information to provide you with information about our products, manage your registration for and attendance at our events and webinars or for office visits, manage your registration for contests or promotions, provide you with customer support or otherwise communicate with you;
+
+  * The processing of device and usage data to develop, improve, manage and customize our websites and services, to assess and improve the related user experience, to identify customer opportunities and to guarantee our websites’ and services' security and continued proper functioning;
+
+  * The processing of your billing information to complete transactions with you when you purchase our products or services;
+
+  * To provide you with the necessary functionalities required during your use of our websites and services, and to review capacity requirements and compliance with the applicable usage terms;
+
+  * To display personalized advertisements to you and to send to you marketing communications about us, our products and our services; and
+
+  * To comply with our legal obligations under applicable laws and cooperate with public and government authorities.
 
 
 
-#### 3\. Web Site Navigational Information
 
-LeadFormix uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect Web Site Navigational Information. This section describes how Web Site Navigational Information is gathered.
+For the full list of purposes for which we Process your Personal Data, please see the full Privacy Statement
 
-**Cookies**
+We only collect and process your Personal Data to the extent it is necessary for fulfilling these purposes and where we can rely on a legal basis for such processing as set out in our full Privacy Statement. Where required, we will ask you for your prior consent to processing.
 
-LeadFormix uses cookies to make interactions with LeadFormix and Customers’ Web sites easy and meaningful. When you visit LeadFormix and/or Customers’ Web sites, LeadFormix’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. 
+Please review the "What Personal Data do we collect?" and "Purposes for which we process Personal Data and the legal bases on which we rely" sections in our full Privacy Statement for further details. Also, please review the "How long do we keep your Personal Data?" section to learn how long we store your Personal Data.
 
-LeadFormix uses cookies that are mostly session-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer.
+We may share Personal Data with various parties, including:
 
-**IP Addresses**
+  * Our contracted service providers that process Personal Data on our behalf for IT and system administration and hosting, credit card processing, research and analytics, marketing, customer support and data enrichment;
+  * Affiliates within our current or future corporate group that process Personal Data for customer support, marketing, event management, technical operations and account management;
+  * If you are using our services as an authorized user, with the Salesforce customer responsible for your access to the services for verifying your account, investigating suspicious activity and reviewing compliance our usage terms and policies;
+  * Sponsors of events, webinar or contests for which you register;
+  * Third-party social media and advertising networks, which usually act as separate controllers, so that we can advertise on their platforms;
+  * Specifically in relation to our AppExchange website, with our third-party partners who may contact you regarding their products or services;
+  * In individual instances, professional advisers who provide consultancy, banking, legal, insurance and accounting services, or if we are involved in a merger, reorganization, asset sale or business combination; and
+  * Public and government authorities, to the extent we are compelled to disclose Personal Data to comply with our legal obligations.
 
-When you visit LeadFormix’s and/or Customers’ Web sites, LeadFormix collects your Internet Protocol (“IP”) addresses to track and aggregate information. For example, LeadFormix uses IP addresses to monitor navigation of the Web site.
 
-#### 4\. Sharing of Information Collected
 
-LeadFormix will solely own, but not share Data About LeadFormix Customers. As stated in Section 2 of this Privacy Policy, 
+Please review the "Who do we share Personal Data with" section in our full Privacy Statement for more detailed information.
 
-LeadFormix reserves the right to use or disclose information gathered/provided on from LeadFormix Visitors and/or Customer Web Site Visitors  if required by law or if LeadFormix reasonably believes that use or disclosure is necessary to protect LeadFormix’s rights and/or to comply with a judicial proceeding, court order, or legal process.
+To facilitate our business practices, your Personal Data may be collected, transferred to and stored by us in the United States and by our affiliates in other countries where we operate, including countries outside the European Economic Area (EEA). As described in the "International transfer of Personal Data" section of our full Privacy Statement, we have implemented safeguards to ensure an adequate level of data protection where your Personal Data is transferred to countries outside the EEA, such as standard contractual clauses for the transfer of Personal Data as approved by the European Commission (Art. 46 GDPR). 
 
-#### 5\. Customer Data 
+You have certain rights relating to your Personal Data, subject to local data protection laws. These rights may include:
 
-LeadFormix uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. 
+  * To access your Personal Data held by us (right to access);
+  * To rectify inaccurate Personal Data and, taking into account the purpose of processing the Personal Data, ensure it is complete (right to rectification);
+  * To erase/delete your Personal Data, to the extent permitted by applicable data protection laws (right to erasure; right to be forgotten);
+  * To restrict our processing of your Personal Data to the extent permitted by law (right to restriction of processing);
+  * To transfer your Personal Data to another controller, to the extent possible (right to data portability);
+  * To object to any processing of your Personal Data carried out on the basis of our legitimate interests (right to object). Where we process your Personal Data for direct marketing purposes or share it with third parties for their own direct marketing purposes, you can exercise your right to object at any time to such processing without having to provide any specific reason for such objection;
+  * To not be subject to a decision based solely on automated processing, including profiling, which produces legal effects ("Automated Decision-Making"); Automated Decision-Making currently does not take place on our websites or in our services; and
+  * To the extent we base the collection, processing and sharing of your Personal Data on your consent, to withdraw your consent at any time, without affecting the lawfulness of the processing based on such consent before its withdrawal.
 
-#### 6\. Changes to this Privacy Statement
 
-LeadFormix reserves the right to change this Privacy Statement.  All amended terms automatically take effect immediately after they are initially posted on the Site. 
 
-#### 7\. Contacting Us
+  
+For more details on your rights and choices and how to exercise them, please review the "Your rights relating to your Personal Data" section in our full Privacy Statement.
 
-Questions regarding this Privacy Statement should be directed to LeadFormix Privacy by mailing LeadFormix Privacy, 2975 Bowers Avenue, Suite 323, Santa Clara, California 95051.  You can also reach LeadFormix by phone at (408) 988-8070.
+To exercise your rights relating to your Personal Data, or if you have questions regarding our privacy practices, please fill out _[this form](https://www.salesforce.com/form/contact/contact-privacy.jsp)_ or mail us at:
+
+Salesforce Data Protection Officer (Salesforce Privacy Team)  
+415 Mission St., 3rd Floor  
+San Francisco, CA 94105, USA
+
+If you believe that we have not been able to assist with your complaint or concern, and you are located in the EEA, you have the right to lodge a complaint with the competent supervisory authority.
