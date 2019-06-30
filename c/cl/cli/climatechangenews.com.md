@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climatechangenews.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228100508id_/http%3A//www.climatechangenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climatechangenews.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630022943id_/https%3A//www.climatechangenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -20,7 +20,7 @@ We use Google Analytics to track and analyse user behaviour, in order to improve
 
 **CHANGES TO YOUR DETAILS**
 
-We will always aim to ensure that all information about you is as accurate as possible and not held for longer than necessary. If you would like to review or change details you have supplied, please contact us by sending an email to our data protection officer, jr@climatehomenews.org. You can also unsubscribe from the newsletter at any time using the unsubscribe feature in the email.
+We will always aim to ensure that all information about you is as accurate as possible and not held for longer than necessary. If you would like to review or change details you have supplied, please contact us by sending an email to our data protection officer, jr@climatehomenews.com. You can also unsubscribe from the newsletter at any time using the unsubscribe feature in the email.
 
 **IP ADDRESSES AND COOKIES**
 
@@ -70,13 +70,13 @@ We may disclose your personal information to third parties:
 
 You have the right to ask us not to process your personal data for marketing purposes. We will ask you for permission (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right
 
-to prevent such processing by checking certain boxes on the forms we use to collect your data, or by not submitting your data when prompted. You can also exercise the right at any time by contacting us at jr@climatehomenews.org.
+to prevent such processing by checking certain boxes on the forms we use to collect your data, or by not submitting your data when prompted. You can also exercise the right at any time by contacting us at jr@climatehomenews.com.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 **ACCESS TO INFORMATION**
 
-You have the right to access information held about you. Please contact our data protection officer at jr@climatehomenews.org to request this information or ask that it be deleted. We will supply a copy of the information we hold about you within month upon proof of identity, and will only charge a fee if a request is unusually complex.
+You have the right to access information held about you. Please contact our data protection officer at jr@climatehomenews.com to request this information or ask that it be deleted. We will supply a copy of the information we hold about you within month upon proof of identity, and will only charge a fee if a request is unusually complex.
 
 **CHANGES TO OUR PRIVACY POLICY**
 
@@ -84,4 +84,4 @@ Any changes made to our privacy policy in the future will be posted on this page
 
 **CONTACT**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to contact jr@climatehomenews.org.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to contact jr@climatehomenews.com.
