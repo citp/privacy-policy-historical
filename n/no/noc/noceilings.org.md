@@ -1,107 +1,111 @@
-> *The following text is extracted and transformed from the noceilings.org privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826130655id_/https%3A//www.clintonfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noceilings.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630105916id_/https%3A//www.clintonfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clinton Foundation
 
-##### Effective: 04/29/16
+##### Effective: August 27, 2018
 
-The Bill, Hillary & Chelsea Clinton Foundation (the “Foundation”) Privacy Policy (“Policy”) was created to help you understand how the Foundation collects and uses information that is collected online through the Foundation’s websites: clintonfoundation.org, clintonglobalinitiative.org, clintonpresidentialcenter.org, noceilings.org, dineatfortytwo.com and clintonmuseumstore.com (each, a “Site”) or that you submit to the Foundation when making a donation. The Foundation is committed to protecting your privacy. By using this Site, you agree to be legally bound by this Policy and the [Terms of Use](https://www.clintonfoundation.org/terms-use), as they may be amended from time to time. If you do not agree to this Policy or cannot form a legally binding contract, you are not permitted to use this Site.
+The Bill, Hillary & Chelsea Clinton Foundation (the “Foundation”) is committed to the lawful and transparent collection and use of personal information. This Privacy Policy (the “Policy”) explains what information we collect and why we collect it, how we use that information, and your options for controlling and updating your information.
 
-This Policy may also cover information collected and used by the Foundation via third party social media platforms, including Facebook, Instagram, Twitter and YouTube.
+By using our websites[1] (the “Sites”), you agree to be legally bound by this Policy and the [Terms of Use](https://www.clintonfoundation.org/terms-use), as they may be amended from time to time. If you do not agree to this Policy or cannot form a legally binding contract, you may not use the Sites.
+
+If at any time you have questions about this Policy, please let us know by contacting us at [development@clintonfoundation.org](mailto:development@clintonfoundation.org).
 
 ##### Information Collected
 
-This Site collects two types of information from you: (1) General Information; and (2) Personal Information.  This information is used for the purposes for which it was collected (for example, responding to your requests, sending newsletters, administering surveys or processing donations), and the other limited purposes set forth below.
+We collect two types of information from you: (1) personally identifying information voluntarily provided by you (“Personally Identifying Information” or “PII”), and (2) non-identifying data about your use of our Sites (“General Information”).
+
+We collect information in the following ways:
+
+ **Personally Identifying Information (PII)**
+
+Personally Identifying Information may include, but is not limited to, your name, email address, phone number, credit or debit card information, bank information, job application information, resumes and cover letters. The Foundation collects PII when you make a donation, whether online or through another means, and when you voluntarily submit such information, such as by filling out a job application, signing up for an email distribution list, or purchasing merchandise on one of our Sites. 
+
+It is your choice to provide PII. You do not need to disclose more PII than is requested.
+
+You should not provide PII about others unless you are expressly authorized to do so.
+
+We may receive PII about you from other sources, including your company/organization, professional references, publicly-available sources, third-party analytics providers, and other third parties. For example, we may receive your PII if: someone at your company/organization designates you as a contact person for that company/organization or includes information about you in proposal documents; another visitor includes it in any feedback, comments, photos, videos, or other information submitted via online portals, electronic forms, surveys, or interactive portions of our sites; or one of our employees or service providers  or a third party acting on apparent authority provides it to us when registering you to access our facilities or our sites, apply for a job, or participate in one of our events.
 
  **General Information**
 
-The Foundation automatically collects some non-personal information (“General Information”) when you visit our Site via “cookies,” other tracking technology, registration forms, online surveys, etc., such as:
+The Foundation automatically collects General Information about which of our Sites you visit and how you navigate them. General Information may include, without limitation, your:
 
-  * Your domain name and host for Internet access
-  * The date and time of your entry
-  * Your IP address, browser type, device, or operating system
-  * The pages you visit and links that you use
-  * The domain name from which you linked to our Site
-  * Your city and state
-  * Other general demographic information
-
-
-
-We aggregate and analyze this usage information and use it for operational and administrative purposes, including to identify levels and area of interest in our website, and to improve and refine the Site. We may also share this aggregated, anonymous data with our business partners on an as-needed basis.
-
- **Personal Information**
-
-The Foundation also collects information that may identify you (“Personal Information”) that you provide when making a donation to the Foundation (whether online, by mail or other physical means) or participating in any activity on a Site that requires your voluntarily submitted information, including completing any of our Site’s forms, for example, donation forms, registration forms, contact forms, online surveys, merchandise transactions, and position applications, such as:
-
-  * Name
-  * Mailing address
-  * Telephone number
-  * Email address
-  * Credit card, payment card and bank information
-  * Job, fellowship, internship, and volunteer position application information
-  * Resumes and cover letters
+  * Session date and time
+  * Internet Protocol (IP) address
+  * Internet Service Provider (ISP)
+  * Location
+  * Language
+  * Browser, operating system and device types
+  * Source or referral sites; and
+  * Browsing behavior, including pages visited, hyperlinks clicked, session times and search requests.
 
 
 
-##### Use of Information We Collect
+General Information is collected using tracking technology, including cookies and web beacons. The information collected via cookies, web beacons, and other tracking technologies is anonymous and not personally identifiable. Please note that we use these technologies across our Sites and social media platforms.
 
-We use the Personal Information for the purposes for which it was collected (for example, responding to your requests, sending newsletters, administering surveys or processing donations) and the limited purposes set forth below. The Foundation will not sell the Personal Information of donors for a third party’s fundraising or marketing purposes unless the donor explicitly grants permission to do so.  The Foundation will not exchange the Personal Information of donors for a third party’s fundraising or marketing purposes if a donor opts out of allowing the Foundation to do so.  To opt out of exchanges of Personal Information for third party fundraising or marketing purposes, please send us an email at [development@clintonfoundation.org](mailto:development@clintonfoundation.org).  Further, we do not share, sell, transfer, exchange or disclose your Personal Information with third parties except in the following limited circumstances:
+Cookies allow the Foundation to measure activity on the Sites and to improve your user experience by, for example, remembering your passwords and viewing preferences and allowing you to visit any member-only parts of the Sites without re-registering.  If you do not want us to collect information using cookies, you can disable this function in your browser. If you block cookies from us, however, you may not be able to see personalized content and our website may not function optimally.
 
-  * To carry out the Foundation’s mission. Specifically, we may share your e-mail or mailing address with our subsidiaries and affiliated entities, and certain third parties with whom we work, for use for a specific, limited purpose related to the Foundation’s mission and goals, which may include responding to your requests, processing donations or merchandise orders, sending newsletters, surveys, notices or content, and administering, enhancing and troubleshooting the Site and the Foundation’s other online offerings
-  * With your permission to disclose the information
-  * To change website hosts or when our host transfers business assets (as further described below)
-  * To share it with third party vendors, agents or contractors who perform services for us on a “need to know” basis
-  * As required by law or court order (see “Legal Disclaimer” below) or to comply with the Foundation’s donor disclosure obligations (see “Donor Disclosure” below)
+The Foundation may use electronic images known as web beacons to monitor activity on our Sites, as well as across social media platforms and other websites. These web beacons allow the Foundation to provide personalized services and advertising content to our viewers.
+
+##### How We Use Your Information
+
+We aggregate and analyze General Information and use it for operational and administrative purposes, including to identify our Site visitors’ levels and areas of interest in our content, and to improve the Sites. We may also share with third parties aggregated or anonymized General Information that does not directly identify you.
+
+We use PII for the purposes for which it was collected, and for the limited purposes set forth below.
+
+We do not share, transfer, exchange or disclose PII with third parties, **except** :
+
+  * To support the Foundation’s mission. Specifically, we may share your information with our employees, agents, subsidiaries and affiliated entities, and certain third parties, such as contractors and service providers that need access to such information to carry out work on our behalf, including to:
+    * respond to your requests,
+    * process donations or merchandise orders,
+    * send newsletters, surveys, notices or content, and
+    * administer, enhance and troubleshoot the Sites;
+  * To change website hosts or when our host transfers business assets (as described below);
+  * As required by law, court order, subpoena or legal process; or
+  * To comply with the Foundation’s donor disclosure obligations
 
 
 
-##### Control of Your Personal Information
+The Foundation may also exchange, or authorize the exchange of, PII for a third party’s fundraising or marketing purposes, unless you opt out of such exchanges as provided for by this Policy.
 
-If you prefer to not share your Personal Information as described above, please email us at any time at [development@clintonfoundation.org](mailto:development@clintonfoundation.org).
+The Foundation does not sell PII for a third party’s fundraising or marketing purposes.
+
+##### Your Right to Control Your Personally Identifying Information
+
+If you prefer that the Foundation not share your PII with third parties as described above, please email us at [development@clintonfoundation.org](mailto:development@clintonfoundation.org).
+
+You may change or remove PII previously provided to us through the Sites by emailing [development@clintonfoundation.org](mailto:development@clintonfoundation.org). If you signed up for, but no longer wish to receive, Foundation emails, you may remove yourself from our distribution lists by sending us an email through our [Contact Page](https://www.clintonfoundation.org/about/contact-us), or by clicking the “unsubscribe” link that is at the bottom of every email from the Foundation.
 
 ##### Donor Disclosure
 
-Please note that the Foundation is obligated to disclose all donors, which it does by listing donors by range of donation amount on our website. View the contributors list [here](https://www.clintonfoundation.org/contributors).
-
-##### Corrections/Updates
-
-This Site gives users the opportunity to change Personal Information previously provided to us through this Site. To do so, please send us an email at [development@clintonfoundation.org](mailto:development@clintonfoundation.org). If you have registered to receive emails from the Foundation and later change your mind, you may contact us to have your name removed from our distribution lists by sending us an email through our [Contact Page](https://www.clintonfoundation.org/about/contact-us), or by clicking the “unsubscribe” link at the bottom of every email sent from the Foundation.
+Consistent with our commitment to transparency, we disclose our donors, listed by range of donation amount. View the donors list [here](https://www.clintonfoundation.org/contributors).
 
 ##### Transfer of Business Assets
 
-At any time, this Site’s host may be acquired, merge with another business, or acquire or buy other businesses or assets. In such transactions, both General and Personal Information will likely be among the transferred assets.
-
-##### Cookies, Tracking Tags, and Other Technology
-
-The Site may use cookies and other tracking mechanisms across our Site and social media platforms. Cookies allow the Foundation to measure activity on the Site and to improve your user experience by, for example, remembering your passwords and viewing preferences and allowing you to visit any member-only parts of the Site without re-registering.  Cookies cannot retrieve any other data from a hard drive or obtain an email address.  Although a user has the ability to modify most browsers to either accept all cookies, notify the user when a cookie is sent, or reject all cookies, it may not be possible to use certain services on this Site if cookies are not accepted.
-
-The Foundation may use electronic images known as web beacons to monitor activity on our website, as well as across social media platforms and other websites. These web beacons allow the Foundation to provide personalized services and advertising content. With both cookies and web beacon technology, the information that we collect and share is anonymous and not personally identifiable.
+At any time, this Sites’ web host may be acquired, merge with another organization or acquire or buy other businesses or assets. In such transactions, General and Personally Identifying Information may be among the transferred assets.
 
 ##### Our Commitment to Data Security
 
-Personal Information is stored on our server and the servers of our third party vendors who perform services for us and is not publicly accessible.  Further, Personally Information is only accessed by Foundation staff on a "need to know" basis.  To prevent unauthorized access and maintain data accuracy, we have put in place commercially reasonable physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  Additionally, sensitive data such as credit card numbers are encrypted using SSL and other industry standard measures, to provide an additional level of security.
+PII is stored on the servers of certain third-party service providers.  Such service providers are required to use best practices to maintain the confidentiality of your PII, consistent with this Policy. Additionally, service providers may only use your PII for the purpose of providing services to us.  Sensitive data such as credit card numbers are encrypted and tokenized using SSL and other industry standard measures to provide an additional level of security.
+
+The transmission of information via the Internet can never be completely secure. Therefore, we cannot guarantee the security of information transmitted to our sites and any such transmission is at your own risk.
+
+We take steps to protect the safety of your PII. The Sites have security measures in place to help protect loss, misuse, or alteration of such information under our control. However, we cannot guarantee the security of your General or Personally Identifying Information, and we do not assume any liability for third party use of your General or Personally Identifying Information, whether obtained legally or illegally from or through our Sites.
 
 ##### Links
 
-This Site contains links to other sites.  We are not responsible for the privacy practices of or the contents on any other websites.  We encourage you to review the privacy policy and any other online policies of other websites that you link to, visit, and/or use.
+Our Sites may contain links to third-party websites. This Policy does not apply to any third-party websites. The Foundation is not responsible for the content or privacy practices of any third-party websites.  We encourage you to review the privacy and other online policies of other websites that you link to, visit, and/or use.
 
 ##### Children
 
-The Site does not seek to collect any information from children under 13.  If a child provides us with information, the parent or guardian may notify us, and the information will be deleted from our records.
-
-##### Security
-
-While there is no such thing as “perfect” security on the Internet, we take reasonable steps to protect the safety of your personal information. This Site has security measures in place to protect loss, misuse, and/or alteration of such information under our control. However, we do not guarantee the security of your General or Personal Information. In addition, we do not assume any liability for third party use of your General or Personal Information, whether obtained legally or illegally from or through this Site.
+The Sites do not seek to collect any information from children under the age of 13, and we do not knowingly collect PII from children. If you become aware of any PII we have collected from a child, please contact us at [development@clintonfoundation.org](mailto:development@clintonfoundation.org). If we learn that we have collected PII from a child, we will take steps to delete the data without notice as soon as possible.
 
 ##### Changes to this Privacy Policy
 
-The Foundation may update this Policy at any time.  Any changes to the Policy will be reflected on this “Privacy Policy” page, and by using this Site subsequent to any changes, you agree to those changes.  We may also notify you about significant changes in the way we treat Personal Information through such means as sending a notice to the email address that you have provided us or placing a prominent notice on our Site.
-
-##### Legal Disclaimer
-
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on the Foundation. Although we use security that we believe to be appropriate to protect your Personal Information, we do not guarantee that our security precautions will protect against, and we expressly disclaim any liability for, any loss, misuse, or alteration of your Personal Information.
+The Foundation may update this Policy at any time.  Any changes to the Policy will be reflected on this “Privacy Policy” page, and by continuing to use the Sites, you agree to those changes.  We may also notify you about significant changes in the way we treat Personal Information via email or placing a prominent notice on our Sites.
 
 ##### Contacting Us
 
-If you have any questions about this Privacy Policy, please email us at [legal@clintonfoundation.org](mailto:legal@clintonfoundation.org) or send us a message through our Contact Page. You may also contact us via mail at: The Bill, Hillary & Chelsea Clinton Foundation,1200 President Clinton Avenue, Little Rock, Arkansas 72201
+If you have any questions about this Privacy Policy, please email [legal@clintonfoundation.org](mailto:legal@clintonfoundation.org) or send us a message through our Contact Page. You may also contact us via mail at: Clinton Foundation, 1200 President Clinton Avenue, Little Rock, Arkansas 72201.
 
-THE USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE, INCLUDING THIS PRIVACY POLICY.
+YOUR USE OF THE SITES SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE, INCLUDING THIS PRIVACY POLICY.
