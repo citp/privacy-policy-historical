@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the editphotosforfree.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219025145id_/http%3A//editphotosforfree.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editphotosforfree.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630153538id_/http%3A//editphotosforfree.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Edit Photos For Free
 
