@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stanforddaily.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230222832id_/https%3A//www.stanforddaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanforddaily.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630181819id_/https%3A//www.stanforddaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The Stanford Daily
+# Privacy Policy - The Stanford Daily
 
 The Stanford Daily, and its advertisers, take seriously your security as you turn to our site for news about the Stanford community.
 
