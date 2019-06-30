@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the information-britain.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229153754id_/http%3A//www.information-britain.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the information-britain.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630131614id_/http%3A//information-britain.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,3 +63,13 @@ If you have any questions about Our Site or this Privacy Policy or the cookies w
 We may change this Privacy Policy as we may deem necessary from time to time, or as may be required by law. Any changes will be immediately posted on Our Site and you will be deemed to have accepted the terms of the Privacy Policy on your first use of Our Site following the alterations. We recommend that you check this page regularly to keep up-to-date.
 
 Thanks for reading!
+
+**Brit Quote:**  
+The snowdrop and primrose our woodlands adorn, and violets bathe in the wet o' the morn. - [Robert Burns](https://web.archive.org/famousbrits.php?id=216)  
+[More Quotes](https://web.archive.org/famousquotes.php)  
+  
+---  
+  
+**On this day:**  
+Battle of Adwalton Moor - [1643](https://web.archive.org/famdates.php?id=284), The Great Stink at its Worst - [1858](https://web.archive.org/famdates.php?id=1395), Night of the Long Knives - [1934](https://web.archive.org/famdates.php?id=1272), German Troops invade Channel Islands - [1940](https://web.archive.org/famdates.php?id=241), First Harry Potter Book Published - [1997](https://web.archive.org/famdates.php?id=1159), Terror Attack on Glasgow Airport - [2007](https://web.archive.org/famdates.php?id=1010)  
+[More dates from British history](https://web.archive.org/famousdates.php)
