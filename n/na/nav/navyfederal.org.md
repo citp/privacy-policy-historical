@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the navyfederal.org privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124082020id_/https%3A//www.navyfederal.org/privacy/online.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navyfederal.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221849id_/https%3A//www.navyfederal.org/privacy/online.php) for the most accurate reproduction.*
 
 # Navy Federal Online Privacy Policy | Navy Federal Credit Union
 
-Last Updated: **06/15/2018**
+Last Updated: **02/14/2019**
 
 ## 1\. Introduction and Intention
 
@@ -32,7 +32,7 @@ We take your online privacy seriously and make the safeguarding of your Personal
 
 ## 3\. With Whom Do We Share the Information We Collect?
 
-We may share your Personal Information with affiliates in accordance with the practices set forth in our [Consumer Privacy Policy](https://www.navyfederal.org/pdf/publications/NFCU_198_PrivacyPolicy.pdf). We do not sell your Personal Information. We may use or share your non-Personal Information to enhance your experience on our Sites, to help deliver our ads on your web browser, and to measure advertising campaign effectiveness.
+We may share your Personal Information with affiliates in accordance with the practices set forth in our [Consumer Privacy Policy](https://www.navyfederal.org/pdf/publications/NFCU_198_PrivacyPolicy.pdf). We do not sell your Personal Information. We may use or share your non-Personal Information to enhance your experience on our sites, to help deliver our ads on your web browser, and to measure advertising campaign effectiveness. We may also share your Personal Information and non-Personal Information as required to meet legal and regulatory obligations.
 
 ## 4\. Keeping Your Information Accurate
 
@@ -54,7 +54,7 @@ You may, however, be able to opt out of certain advertisements. To learn more ab
 
 We do not knowingly collect Personal Information from individuals under the age of 13 who use our Sites without obtaining consent from a parent or legal guardian. 
 
-To learn more about the Children’s Online Privacy Protection Act (COPPA), please visit the National Credit Union Administration Regulatory Alert by clicking here or the Federal Trade Commission’s website by clicking here. 
+To learn more about the Children’s Online Privacy Protection Act (COPPA), please visit the National Credit Union Administration Regulatory Alert by clicking here or the Federal Trade Commission’s website by clicking here.
 
 ## 8\. Data Sharing
 
