@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the edmontonjournal.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230021532id_/https%3A//www.postmedia.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmontonjournal.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224033id_/https%3A//www.postmedia.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – Postmedia Pages
 
 ## Your Privacy is Important to Us
+
+ **Last Updated: 06-05-2019  **
+
+Click [here](https://pages.postmedia.com/privacy-statement/#technology) to jump down to Use of Technology and learn more about recent updates to our targeted advertising services, including how you can opt-out. 
 
 Postmedia Network Canada Corp. and its affiliated and subsidiary entities, including Postmedia Network Inc. (“Postmedia ”, “we” or “us”) are committed to protecting your privacy and safeguarding your Personal Information (as defined below) we always strive to be transparent about the data we collect about you, how it is used and with whom it is shared. The Postmedia Privacy Policy (available[ here](http://www.postmedia.com/wp-content/uploads/2014/09/Postmedia-Privacy-Policy-Final.pdf)) and this Privacy Statement (collectively, the “ **Privacy Policy** ”) describe how we may collect, use and disclose Personal Information of subscribers, customers, site visitors, etc. (collectively “ **you** ” or “ **Users** ”). The Privacy Policy applies to all Postmedia [websites](http://www.postmedia.com/brands/), applications, and services (each a “Property” or, collectively, “Properties”). These Properties may be subject to change from time to time in Postmedia’s sole discretion.
 
@@ -29,7 +33,7 @@ INFORMATION WE COLLECT
 
 
 
-#### When Do We Collect Personal Information
+#### When Do We Collect Personal Information?
 
 We collect Personal Information when you provide, post or upload it to us or one of our Properties, such as, without limitation, when you fill out a form, post a comment or subscribe to a newspaper. 
 
@@ -281,7 +285,7 @@ Information on what you read and how you interact with content on our Properties
 
 
 ####   
-Conference and Live Events 
+Conferences and Live Events 
 
 Information about attendees of our live events from sign-in and registration lists. 
 
@@ -344,13 +348,23 @@ USE OF TECHNOLOGY
 
 Postmedia’s Properties may place technologies (typically small data files) such as “cookies”, “web beacons”, “tags and scripts”, and local storage objects (“LSOs”) such as HTML5, that websites or applications commonly write to your computer or device and contain information that can help identify you each time you visit one of our Properties. Postmedia uses these technologies to measure website and application activity and traffic patterns, to log your activity, to develop analytics, and to store your reading and behaviour history. If and to the extent that we share any of this information with third-party vendors and advertising networks to deliver advertisements on our Properties, it is shared as Non-Personal Information. Third parties may also place and access these or similar technologies on your devices for the purpose of delivering Customized Experiences such as advertisements directed at your interests. Postmedia does not have access to, nor control over, the use of tracking technologies by such third parties. As such, the placement of these third-party technologies on your computer or devices is subject to the terms, conditions and policies of such third-party vendors and advertising networks. You may choose to set your computer or device to reject these technologies. However, some features available on our Properties may rely on these technologies, and any rejection of the same may impact your ability to use features on our Properties.
 
-#### How Do You Manage The Use of Advertising Technologies 
+#### How Do You Manage The Use of Advertising Technologies?
 
 Postmedia is a member of the Interactive Advertising Bureau of Canada (IAB Canada) and follows industry standards for online advertising. The majority of advertisements displayed on our Properties are served through one or more reputable third party advertisement-serving companies, including Google. You can control advertising technologies, such as cookies, via the [Google Ad and Content Network Privacy Policy](https://adssettings.google.com/authenticated?hl=en). If you are interested in obtaining more information about Customized Experiences in advertising and how you can control technologies that are being placed on your computer or device by other companies, you can visit Google’s “[How Google Ads Work](https://privacy.google.com/intl/en/how-ads-work.html?utm_source=google&utm_medium=ad-settings&utm_campaign=inbound-site-link)” page. Additionally, Postmedia ePaper products (digital versions of our printed newspapers), are maintained by PressReader and are therefore governed by [PressReader’s Privacy Policy](https://care.pressreader.com/hc/en-us/articles/205818089-Privacy-Policy).
 
 Postmedia’s Properties may contain links to other third party websites for your convenience and information. We are not responsible for the privacy practices or the content of any third party websites.
 
-Ad Blocking
+ **Political Advertising**
+
+Postmedia supports responsible political advertising on our Properties and will accept political ads by all registered Canadian political parties. New in 2019 is the requirement under Bill C-76 requiring digital platforms accepting regulated political advertising to maintain a digital ad registry. Postmedia’s ad registry can be found at [adregistry.postmedia.com](http://adregistry.postmedia.com/).
+
+Political party advertisers may run political, election and issue related ads, provided that the political party complies with applicable laws, including campaign and election regulations. Political ads may be static (displayed to all users) or targeted (displayed to some users). Static ads are placed on our Properties and do not change, regardless if the website is refreshed and regardless of who visits that site.
+
+Targeted advertising involves directing political ads towards a group or “segment”, made up of persons who share similar general identifiers or behaviours, but cannot be individually identified. See EXAMPLES OF TYPES OF INFORMATION COLLECTED, STORED AND USED above for the type of information we may collect and use for targeted advertising
+
+Effective on June 14, 2019, if you wish to no longer receive targeted political advertisements, you can opt-out at any time at [adregistry.postmedia.com](http://adregistry.postmedia.com/). Please note that if you opt-out, you may still receive non-targeted, static advertisements of a political nature. You may also need to opt-out of tailored advertising delivered by Postmedia from any other device or browser in which you access our Properties.
+
+ **Ad Blocking**
 
 Postmedia helps to fund journalism efforts through the use of advertising. As part of our Terms of Use, Postmedia reserves the right to refrain from providing any service, including access to Postmedia Properties, to Users using ad blocking or other means of circumventing advertisements.
 
@@ -416,14 +430,13 @@ Corporate: CorporatePrivacyOfficer@postmedia.com
 -OR-
 
 In Writing:  
-**Chief Privacy Officer**  
+ **Chief Privacy Officer**  
 Postmedia Network Inc.  
 Postmedia Place  
 365 Bloor Street East, 12th Floor  
 Toronto, Ontario Canada M4W 3L4
 
 **Data Privacy Officer**  
-Josh Merchant  
 Postmedia Network Inc.  
 Postmedia Place  
 365 Bloor Street East, 5th Floor  
