@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bakingbeauty.net privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414104759id_/http%3A//www.bakingbeauty.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakingbeauty.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630184705id_/https%3A//www.bakingbeauty.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Baking Beauty
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.bakingbeauty.net%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.bakingbeauty.net%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 This privacy policy sets out how <company name> uses and protects any information that you give while using www.<sitename>.com
 
@@ -77,6 +77,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.bakingbeauty.net  
+https://www.bakingbeauty.net  
 krystlekouture at yahoo dot com  
 
