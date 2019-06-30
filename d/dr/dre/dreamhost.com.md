@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120185537id_/https%3A//www.dreamhost.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630234432id_/https%3A//www.dreamhost.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – DreamHost
+
+[← Back to Legal Overview](https://web.archive.org/legal/)
 
 #### Last Updated:
 
@@ -189,7 +191,7 @@ For information on how to manage cookie settings click on the links below:
 
 [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
 
-[Cookie settings in Safari](https://support.apple.com/kb/PH21416?locale=en_US&viewlocale=en_US)
+[Cookie settings in Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 
 #### 10\. Security: how we keep your information secure?
 
