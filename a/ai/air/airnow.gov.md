@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airnow.gov privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622041242id_/http%3A//www.epa.gov/epafiles/usenotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airnow.gov privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231654id_/http%3A//www.epa.gov/epafiles/usenotice.htm) for the most accurate reproduction.*
 
 # Privacy and Security Notice | EPA's Implementation of the Privacy Act | US EPA
 
@@ -41,7 +41,7 @@ Top of Page
 
 ### Children’s Privacy
 
-Some EPA Web pages provide content to children. It is EPA policy, in compliance with the requirements of the [Children's Online Privacy Protection Act (COPPA)](http://www.ftc.gov/ogc/coppa1.htm), to collect no information online about or from children under the age of 13 except when it is needed to identify a submission or to answer a question. Any such instances where information is collected on Web pages for children will be clearly marked. Unless required by law or EPA obtains parental permission in writing, the information will not be used for other purposes or shared with third parties, nor will personally identifying information be published on the EPA website. When EPA offices identify the work product of a child under thirteen on the EPA public access website, only the first name, age, and home state of the child will be stated (e.g., Mike, age 7, Kentucky) unless the parent makes a hardcopy request to have additional information posted. [More information about EPA's Children's Privacy Policy](https://web.archive.org/irmpoli8/childrens-privacy-and-childrens-copyright-policy).
+Some EPA web pages provide content to children. It is EPA policy, in compliance with the requirements of the [Children's Online Privacy Protection Act (COPPA)](http://www.ftc.gov/ogc/coppa1.htm), to collect no information online about or from children under the age of 13 except when it is needed to identify a submission or to answer a question. Any such instances where information is collected on web pages for children will be clearly marked. Unless required by law or EPA obtains parental permission in writing, the information will not be used for other purposes or shared with third parties, nor will personally identifying information be published on the EPA website. When EPA offices identify the work product of a child under thirteen on the EPA public access website, only the first name, age, and home state of the child will be stated (e.g., Mike, age 7, Kentucky) unless the parent makes a hardcopy request to have additional information posted. [More information about EPA's Children's Privacy Policy](https://web.archive.org/irmpoli8/childrens-privacy-and-childrens-copyright-policy).
 
 Top of Page
 
@@ -49,7 +49,7 @@ Top of Page
 
 Please be assured that the privacy of our visitors is of utmost importance to us. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us.
 
-We want to inform you that, for each HTTP request (which is what your Web browser generates when you request a page or part of a page from a website) received; we collect and store only the following information, in what is called a log file:
+We want to inform you that, for each HTTP request (which is what your web browser generates when you request a page or part of a page from a website) received; we collect and store only the following information, in what is called a log file:
 
   * the date and time
   * the originating Internet Protocol (IP) address (this address can refer to a specific computer; more frequently, commercial Internet providers use a temporary IPA which does not link to a specific computer)
@@ -61,11 +61,11 @@ We want to inform you that, for each HTTP request (which is what your Web browse
 
 
 
-The information above is also collected by Google Analytics on behalf of EPA. Google Analytics uses first-party persistent cookies, which the government classifies as Tier 2 persistent cookies. Tier 2 persistent cookies do not collect any personally identifiable information, but only those metrics listed above. In addition, persistent cookies can identify return visitors to EPA's website by setting a small file in internet Web browsers. Unless you first opt-out (see below), the Google Analytics code used will automatically set a persistent cookie in the browser of the computer you are using to access EPA's website.
+The information above is also collected by Google Analytics on behalf of EPA. Google Analytics uses first-party persistent cookies, which the government classifies as Tier 2 persistent cookies. Tier 2 persistent cookies do not collect any personally identifiable information, but only those metrics listed above. In addition, persistent cookies can identify return visitors to EPA's website by setting a small file in internet web browsers. Unless you first opt-out (see below), the Google Analytics code used will automatically set a persistent cookie in the browser of the computer you are using to access EPA's website.
 
-Traffic statistics for EPA's website are only reported to us anonymously and in the aggregate, and no information provided by Google Analytics is traceable to any specific individual. We use the information that we automatically collect to measure the number of visitors to the different areas of our sites, and to help us make our pages more useful to visitors. This includes analyzing Web traffic to determine the types of devices and browsers that view EPA Web pages most often and the level of demand for specific pages and topics of interest.
+Traffic statistics for EPA's website are only reported to us anonymously and in the aggregate, and no information provided by Google Analytics is traceable to any specific individual. We use the information that we automatically collect to measure the number of visitors to the different areas of our sites, and to help us make our pages more useful to visitors. This includes analyzing web traffic to determine the types of devices and browsers that view EPA Web pages most often and the level of demand for specific pages and topics of interest.
 
-You can opt-out by changing the cookie settings in your browser. [See instructions on how to disable cookies in some of the most popular Web browsers](http://www.usa.gov/optout_instructions.shtml). [Google also provides an Opt-Out Browser Add-on for newer browsers](http://tools.google.com/dlpage/gaoptout). Opting-out will not prevent you from obtaining information from EPA websites.
+You can opt-out by changing the cookie settings in your browser. [See instructions on how to disable cookies in some of the most popular web browsers](http://www.usa.gov/optout_instructions.shtml). [Google also provides an Opt-Out Browser Add-on for newer browsers](http://tools.google.com/dlpage/gaoptout). Opting-out will not prevent you from obtaining information from EPA websites.
 
 For more information about the federal government's use of persistent cookies, please refer to the [Office of Management and Budget's (OMB) Memo Guidance for the Online Use of Web Measurement and Customization Technologies (PDF)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf).
 
@@ -79,16 +79,16 @@ Top of Page
 
 ### Cookies
 
-Cookies are small files that Web servers place on a user's hard drive. They can serve several functions, depending upon how they are designed:
+Cookies are small files that web servers place on a user's hard drive. They can serve several functions, depending upon how they are designed:
 
   * they allow the website to identify you as a previous visitor each time you access a site;
   * they track what information you view at a site (important to us for trying to determine your information needs);
-  * in the more advanced cases they track your movements through many websites but not the whole Web; and
+  * in the more advanced cases they track your movements through many websites but not the whole web; and
   * they can be used to help a website tailor screens for each customer's preference.
 
 
 
-EPA pages have "session cookies," to facilitate use of a particular page and to identify the number and type of pages viewed during visits to [www.epa.gov](https://web.archive.org/). Session cookies disappear when the Web user terminates a Web session and closes the browser. EPA also permits the use of persistent cookies for the collection of Web metrics; however, EPA does not collect any personally identifiable information about visitors to our Web pages (see "EPA and Privacy" above).
+EPA pages have "session cookies," to facilitate use of a particular page and to identify the number and type of pages viewed during visits to [www.epa.gov](https://web.archive.org/). Session cookies disappear when the web user terminates a Web session and closes the browser. EPA also permits the use of persistent cookies for the collection of Web metrics; however, EPA does not collect any personally identifiable information about visitors to our Web pages (see "EPA and Privacy" above).
 
 If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies.
 
@@ -96,7 +96,7 @@ Top of Page
 
 ### Other Information Collection and Personally Identifiable Information (PII)
 
-In addition to the information automatically collected by the server, EPA offices may collect other information from online visitors. Before collecting personally identifiable information through our Web pages, we will prominently disclose:
+In addition to the information automatically collected by the server, EPA offices may collect other information from online visitors. Before collecting personally identifiable information through our web pages, we will prominently disclose:
 
   * why EPA is collecting the information;
   * what information is to be collected;
@@ -136,6 +136,6 @@ Top of Page
 
 ## Security
 
-For site security purposes and to ensure that this service remains available to all users, EPA employs monitors and filters to identify and block unauthorized attempts to upload or change information, cause disruptions or interruptions of service, or otherwise cause damage to the information on our Web pages. "Bots" or traffic with malicious intent or harmful impact on the website will be blocked. Unauthorized attempts to upload or change information on this site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. Except for these authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits.
+For site security purposes and to ensure that this service remains available to all users, EPA employs monitors and filters to identify and block unauthorized attempts to upload or change information, cause disruptions or interruptions of service, or otherwise cause damage to the information on our web pages. "Bots" or traffic with malicious intent or harmful impact on the website will be blocked. Unauthorized attempts to upload or change information on this site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. Except for these authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits.
 
 Top of Page
