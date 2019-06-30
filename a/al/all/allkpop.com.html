@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allkpop.com privacy policy that was archived on 2018-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230024239id_/https%3A//www.allkpop.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allkpop.com privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630210716id_/https%3A//www.allkpop.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="UTF-8">
@@ -7,7 +7,7 @@
 <meta name="description" content="">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMDWFBWGwIGU1hWBwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(13),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(14),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(16)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(13),c=t(14),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(o="Safari",i=s[1])}e.exports={agent:o,version:i,match:r}},{}],13:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],14:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],15:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],16:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(14),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[g[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){w[t]=m(t).concat(e)}function h(t,e){var n=w[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return w[t]||[]}function v(t){return d[t]=d[t]||o(n)}function y(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var w={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:y,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(13),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+b.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-b.offset}var c=(new Date).getTime(),s=t("handle"),f=t(13),u=t("ee"),d=t(12),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,y=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var w=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},x=v&&y&&y[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:x,userAgent:d};t(9),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),s("mark",["firstbyte",c],null,"api");var E=0,O=t(15)},{}]},{},["loader",2,7]);</script>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <meta name="google-site-verification" content="j9-UrR1vZDnFuqEki8rQrHppAHzBCh00NF290OFt4sM">
 
 <meta property="og:type" content="">
@@ -35,21 +35,22 @@
 <title></title>
 <link rel="shortcut icon" href="//www.allkpop.com/favicon.ico">
 <link rel="canonical" href="https://www.allkpop.com/privacy">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css">
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Carter+One|Permanent+Marker" rel="stylesheet">
 <link href="https://www.allkpop.com/css/external/normalize.css?v=2" rel="stylesheet" type="text/css">
-<link href="https://www.allkpop.com/css/styles.min.css?v=31" rel="stylesheet" type="text/css">
-<link href="https://www.allkpop.com/css/responsive.min.css?v=8" rel="stylesheet" type="text/css">
+<link href="https://www.allkpop.com/css/styles.min.css?v=43" rel="stylesheet" type="text/css">
+<link href="https://www.allkpop.com/css/responsive.min.css?v=19" rel="stylesheet" type="text/css">
 <link href="https://www.allkpop.com/css/external/dropzone.css?v=1" rel="stylesheet" type="text/css">
-<link href="https://www.allkpop.com/css/external/redactor.css?v=5" rel="stylesheet" type="text/css">
+<link href="https://www.allkpop.com/plugin/redactor/redactor.css?v=9" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://www.allkpop.com/plugin/redactor/_plugins/clips/clips.css">
 <link href="https://www.allkpop.com/css/external/select2.css?v=6" rel="stylesheet" type="text/css">
 <link href="https://www.allkpop.com/css/gse.min.css?v=2" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
+<link href="https://www.allkpop.com/uploadifive/uploadifive.css" rel="stylesheet" type="text/css">
 <link rel="manifest" href="https://www.allkpop.com/manifest.json">
-<script class="b-lazy" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" defer="defer"></script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://pedropanther.com/v2/0/ygaggrA14KXkH4ns-GK4wcVHPaev8B9ZB9lKCvKH5i20eY8Y_nP_q0nY3ZCtNSv0c0C"></script><script class="b-lazy" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" defer="defer"></script>
 <script class="b-lazy" defer="defer">
     var onesignal_user_id='';
     var onesignal_gender='';
@@ -57,7 +58,6 @@
     var emailAuthHash='';
     var OneSignal = window.OneSignal || [];
     //OneSignal.push(function() {OneSignal.showHttpPrompt();});
-    
     OneSignal.push(["init", {
       appId: "0068da66-938f-4136-a24b-411a5a30d82b",
       autoRegister: true,
@@ -106,7 +106,7 @@
       },
       safari_web_id: 'web.onesignal.auto.5f80e2fb-b063-4ecb-90f7-0c7e45de9678'
     }]);
-   
+
     if(onesignal_user_id!=""){
         //OneSignal.push(["getTags", function(tags) {
             //console.log(tags);
@@ -117,11 +117,11 @@
         if(onesignal_email!=""){
             OneSignal.push(function() {
               OneSignal.setEmail(onesignal_email);
-            });    
+            });
         }
     }
   </script>
-</head>
+<script type="text/javascript">!(function(o,n,t){t=o.createElement(n),o=o.getElementsByTagName(n)[0],t.async=1,t.src="https://pedropanther.com/v2/0/ygaggrA14KXkH4ns-GK4wcVHPaev8B9ZB9lKCvKH5i20eY8Y_nP_q0nY3ZCtNSv0c0C",o.parentNode.insertBefore(t,o)})(document,"script"),(function(o,n){o[n]=o[n]||function(){(o[n].q=o[n].q||[]).push(arguments)}})(window,"admiral");!(function(n,e,r,t){function o(){if((function o(t){try{return(t=localStorage.getItem("v4ac1eiZr0"))&&0<t.split(",")[4]}catch(n){}return!1})()){var t=n[e].pubads();typeof t.setTargeting===r&&t.setTargeting("admiral-engaged","true")}}(t=n[e]=n[e]||{}).cmd=t.cmd||[],typeof t.pubads===r?o():typeof t.cmd.unshift===r?t.cmd.unshift(o):t.cmd.push(o)})(window,"googletag","function");;;;;</script></head>
 <body>
 <div id="fb-root"></div>
 <script async="">
@@ -133,7 +133,6 @@
     });
     FB.AppEvents.logPageView();
   };
-
   (function(d, s, id){
      var js, fjs = d.getElementsByTagName(s)[0];
      if (d.getElementById(id)) {return;}
@@ -151,22 +150,25 @@ ga('6theory_net.send', 'pageview');</script>
 
 <nav id="main" style="height: 55px;">
 <div class="wrapper">
+<div class="mobile-menu-btn"><i class="fas fa-bars fa-2x"></i></div>
 <div class="logo">
 <a href="/"><img class="logo-white" src="https://www.allkpop.com/imgs/placeholder/logo_b.png" width="225" height="56"></a>
 <a href="/"><img class="logo-black" src="https://www.allkpop.com/imgs/placeholder/logo_b.png" width="225" height="56"></a>
 </div>
-<div class="mobile-menu-btn"><i class="fas fa-bars fa-2x"></i></div>
 <ol class="main-nav">
-<li><a href="/?view=a&amp;feed=a&amp;sort=b">BEST</a></li>
-<li><a href="/?view=a&amp;feed=a&amp;sort=n">NEW</a></li>
-<li><a href="/?view=a&amp;feed=a&amp;sort=r">RISING</a></li>
-<li><a href="/?view=a&amp;feed=a&amp;sort=c">CONTROVERSIAL</a></li>
-<li style="color: #aaa!important;font-weight: 600;font-size: 20px;margin-top: -5px;"> | </li>
-<li><a href="https://www.allkpop.com/forum">Forums</a></li>
+<li class="tm_sort sort_best " data-sort="best">BEST</li>
+<li class="tm_sort sort_new " data-sort="new">NEW</li>
+<li class="tm_sort sort_rising " data-sort="rising">RISING</li>
+<li class="tm_sort sort_controversial " data-sort="controversial">CONTROVERSIAL</li>
+<li style="color: #aaa!important;font-weight: 600;font-size: 20px;margin:-5px 10px 0 -10px;"> | </li>
+<li><a href="/forum">Forums</a></li>
 <li><a href="https://shop.allkpop.com" target="_blank">The Shop</a></li>
+<li style="color: #aaa!important;font-weight: 600;font-size: 20px;margin:-5px 10px 0 -10px;"> | </li>
+<li class=""><a href="/tips">Tips</a></li>
 </ol>
 <ol class="user-nav">
-<li><i class="search_toggle fas fa-search-plus" style="font-size: 1.8em;margin-top: 4px;"></i></li>
+<li><a href="https://shop.allkpop.com" alt="ALLKPOP THE SHOP" title="ALLKPOP THE SHOP" target="_blank" style="color:#222;"><i class="fas fa-shopping-cart" style="font-size: 1.8em;margin-top: 4px;"></i></a></li>
+<li><i class="search_toggle fas fa-search-plus" alt="SEARCH" title="SEARCH" style="font-size: 1.8em;margin-top: 4px;"></i></li>
 
 <li><i class="fas fa-user fa-2x usr_setting" style="font-size: 1.6em;margin-top: 5px;"></i></li>
 </ol>
@@ -174,21 +176,21 @@ ga('6theory_net.send', 'pageview');</script>
 
 <div class="ind_menu menu_scr">
 <div class="menu_content">
-<div class="menu_list">
-<a href="/?view=a&amp;feed=a&amp;sort=b"><span class="menu_icon"><i class="far fa-thumbs-up"></i></span>BEST</a>
+<div class="menu_list tm_sort sort_best" data-sort="best">
+<span class="menu_icon"><i class="far fa-thumbs-up"></i></span>BEST
 </div>
-<div class="menu_list">
-<a href="/?view=a&amp;feed=a&amp;sort=n"><span class="menu_icon"><i class="far fa-plus-square"></i></span>NEW</a>
+<div class="menu_list tm_sort sort_new" data-sort="new">
+<span class="menu_icon"><i class="far fa-plus-square"></i></span>NEW
 </div>
-<div class="menu_list">
-<a href="/?view=a&amp;feed=a&amp;sort=r"><span class="menu_icon"><i class="fas fa-chart-line"></i></span>RISING</a>
+<div class="menu_list tm_sort sort_rising" data-sort="rising">
+<span class="menu_icon"><i class="fas fa-chart-line"></i></span>RISING
 </div>
-<div class="menu_list">
-<a href="/?view=a&amp;feed=a&amp;sort=c"><span class="menu_icon"><i class="fab fa-hotjar"></i></span>CONTROVERSIAL</a>
+<div class="menu_list tm_sort sort_controversial" data-sort="controversial">
+<span class="menu_icon"><i class="fab fa-hotjar"></i></span>CONTROVERSIAL
 </div>
 <div class="menu_list_line"></div>
 <div class="menu_list">
-<a href="https://www.allkpop.com/forum"><span class="menu_icon"><i class="fas fa-comment-alt"></i></span>FORUMS</a>
+<a href="/forum"><span class="menu_icon"><i class="fas fa-comment-alt"></i></span>FORUMS</a>
 </div>
 <div class="menu_list">
 <a href="https://shop.allkpop.com" target="_blank"><span class="menu_icon"><i class="fas fa-shopping-cart"></i></span>THE SHOP</a>
@@ -197,12 +199,18 @@ ga('6theory_net.send', 'pageview');</script>
 <div class="menu_list">
 <a href="/create"><span class="menu_icon"><i class="fas fa-pen-square"></i></span>CREATE POST</a>
 </div>
+<div class="menu_list">
+<a href="/tips"><span class="menu_icon"><i class="fas fa-paper-plane"></i></span>TIPS</a>
+</div>
 <div class="menu_list_line"></div>
 <div class="menu_list">
 <a href="/about"><span class="menu_icon"><i class="fas fa-angle-right"></i></span>ABOUT</a>
 </div>
 <div class="menu_list">
 <a href="/advertise"><span class="menu_icon"><i class="fas fa-angle-right"></i></span>ADVERTISE</a>
+</div>
+<div class="menu_list">
+<a href="/cookie_policy"><span class="menu_icon"><i class="fas fa-angle-right"></i></span>COOKIES</a>
 </div>
 <div class="menu_list">
 <a href="/privacy"><span class="menu_icon"><i class="fas fa-angle-right"></i></span>PRIVACY</a>
@@ -234,7 +242,7 @@ ga('6theory_net.send', 'pageview');</script>
 <nav id="search_input_scr">
 <input type="text" name="q" id="search_input" placeholder="Search">
 <i id="search-icon" class="fas fa-search"></i>
-</nav>
+</nav><style>article.post a{color: #bc0707!important;text-decoration:none;}</style>
 <div class="grey-bg" style="margin-top: 60px;float:left;">
 <section class="full-width top-spacing">
 <article class="container" style="background-color: #fff;padding:10px 30px;">
@@ -243,8 +251,111 @@ ga('6theory_net.send', 'pageview');</script>
 <div class="foot-page" style="margin-top: 15px;font-size:15px">
 <br>
 <h1 style="text-align: center;margin-bottom:30px;"><strong><span style="font-size: 50px;">PRIVACY POLICY</span></strong></h1>
-<p></p><p><br></p><p>This statement covers the site allkpop.com (allkpop). Please read this statement carefully before proceeding to access allkpop. Your use of allkpop indicates your agreement to abide by the Terms in effect. The Website is owned and operated by 6Theory Media LLC (6Theory for short). You can view our Terms of Service (TOS)&nbsp;<a href="https://www.allkpop.com/tos" style="color:red">here</a>. If you have any questions or suggestions regarding our privacy policy, please contact us.</p><p><br></p><p><b>UPDATE</b></p><p></p><p>Effective date: May 21, 2018</p><p>6Theory Media ("us", "we", or "our") operates the <a href="https://www.allkpop.com">www.allkpop.com</a> website (the "Service").</p><p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p><p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from <a href="https://www.allkpop.com">www.allkpop.com</a></p><p><br></p><p></p><h4>Website Visitors</h4><p>Like most website operators, allkpop.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.&nbsp;allkpop’s&nbsp;purpose in collecting non-personally identifying information is to better understand how&nbsp;allkpop’s&nbsp;visitors use its website. From time to time, allkpop may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p><p>allkpop also collects potentially personally-identifying information like Internet Protocol (IP) addresses. allkpop does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.</p><br><p></p><h2>Definitions</h2><ul><li><p><strong>Service</strong></p><p>Service is the <a href="https://www.allkpop.com">www.allkpop.com</a> website operated by 6Theory Media</p></li><li><p><strong>Personal Data</strong></p><p>Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).</p></li><li><p><strong>Usage Data</strong></p><p>Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).</p></li><li><p><strong>Cookies</strong></p><p>Cookies are small pieces of data stored on your device (computer or mobile device).</p></li><li><p><strong>Data Controller</strong></p><p>Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.</p><p>For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.</p></li><li><p><strong>Data Processors (or Service Providers)</strong></p><p>Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.</p><p>We may use the services of various Service Providers in order to process your data more effectively.</p></li><li><p><strong>Data Subject (or User)</strong></p><p>Data Subject is any living individual who is using our Service and is the subject of Personal Data.</p></li></ul><h2>Information Collection And Use</h2><p>We collect several different types of information for various purposes to provide and improve our Service to you.</p><p><br></p><p></p><h4>Gathering of Personally-Identifying Information</h4><p>Certain visitors to 6Theory Media websites choose to interact with allkpop in ways that require allkpop to gather personally-identifying information. The amount and type of information that allkpop gathers&nbsp;depends&nbsp;on the nature of the interaction. For example, we ask visitors who sign up for an account at allkpop.com to provide a username, email address&nbsp;and&nbsp;profile information. In each case, allkpop collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with allkpop. allkpop does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p><p>We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our&nbsp;Web site&nbsp;and to deliver more relevant advertising.&nbsp;If you would like more information about this practice and to know your choices about not having this information used by these companies,&nbsp;<a href="https://www.networkadvertising.org/">click here</a>.</p><br><p></p><h3>Types of Data Collected</h3><h4>Personal Data</h4><p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p><ul><li>Email address</li><li>Cookies and Usage Data</li></ul><p>We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.</p><h4>Usage Data</h4><p>We may also collect information&nbsp;on how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p><h4>Tracking &amp; Cookies Data</h4><p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p><p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p><p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p><p>Examples of Cookies we use:</p><ul><li><strong>Session Cookies.</strong>&nbsp;We use Session Cookies to operate our Service.</li><li><strong>Preference Cookies.</strong>&nbsp;We use Preference Cookies to remember your preferences and various settings.</li><li><strong>Security Cookies.</strong>&nbsp;We use Security Cookies for security purposes.</li><li><strong>Advertising Cookies.</strong>&nbsp;Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.</li><li><h4>Cookies</h4><p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. allkpop uses cookies to help allkpop identify and track visitors, their usage of allkpop website, and their website access preferences. allkpop visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using 6Theory’s websites, with the drawback that certain features of 6Theory’s websites may not function properly without the aid of cookies.</p><br></li></ul><h2>Use of Data</h2><p>6Theory Media uses the collected data for various purposes:</p><ul><li>To provide and maintain our Service</li><li>To notify you about changes to our Service</li><li>To allow you to participate in interactive features of our Service when you choose to do so</li><li>To provide customer support</li><li>To gather analysis or valuable information so that we can improve our Service</li><li>To monitor the usage of our Service</li><li>To detect, prevent and address technical issues</li><li>To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information</li></ul><h2>Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)</h2><p>If you are from the European Economic Area (EEA), 6Theory Media legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.</p><p>6Theory Media may process your Personal Data because:</p><ul><li>We need to perform a contract with you</li><li>You have given us permission to do so</li><li>The processing is in our legitimate interests and it's not overridden by your rights</li><li>To comply with the law</li></ul><h2>Retention of Data</h2><p>6Theory Media will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.</p><p>6Theory Media will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.</p><p><br></p><h2>Transfer Of Data</h2><p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p><p>If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.</p><p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p><p>6Theory Media will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p><h2>Disclosure Of Data</h2><h3>Business Transaction</h3><p>If 6Theory Media is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.</p><h3>Disclosure for Law Enforcement</h3><p>Under certain circumstances, 6Theory Media may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).</p><h3>Legal Requirements</h3><p>6Theory Media may disclose your Personal Data in the good faith belief that such action is necessary to:</p><ul><li>To comply with a legal obligation</li><li>To protect and defend the rights or property of 6Theory Media</li><li>To prevent or investigate possible wrongdoing in connection with the Service</li><li>To protect the personal safety of users of the Service or the public</li><li>To protect against legal liability</li></ul><h2>Security Of Data</h2><p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p><p><br></p><p></p><h4>Protection of Certain Personally-Identifying Information</h4><p>allkpop discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on&nbsp;allkpop’s&nbsp;behalf or to provide services available at 6Theory’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using 6Theory’s websites, you consent to the transfer of such information to them. allkpop will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors&nbsp;and&nbsp;affiliated organizations, as described above, allkpop discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when allkpop believes in good faith that disclosure is reasonably necessary to protect the property or rights of allkpop, third parties or the public at large. If you are a registered user of a 6Theory website and have supplied your email address, allkpop may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with 6Theory / allkpop and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. allkpop takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p><br><p></p><p><br></p><h2>Your Data Protection Rights Under General Data Protection Regulation (GDPR)</h2><p>If you are a resident of the European Economic Area (EEA), you have certain data protection rights. 6Theory Media aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.</p><p>If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.</p><p>In certain circumstances, you have the following data protection rights:</p><ul><li><p><strong>The right to access, update or to delete the information we have on you.</strong>&nbsp;Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.</p></li><li><p><strong>The right of rectification.</strong>&nbsp;You have the right to have your information rectified if that information is inaccurate or incomplete.</p></li><li><p><strong>The right to object.</strong>&nbsp;You have the right to object to our processing of your Personal Data.</p></li><li><p><strong>The right of restriction.</strong>&nbsp;You have the right to request that we restrict the processing of your personal information.</p></li><li><p><strong>The right to data portability.</strong>&nbsp;You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.</p></li><li><p><strong>The right to withdraw consent.</strong>&nbsp;You also have the right to withdraw your consent at any time where 6Theory Media relied on your consent to process your personal information.</p></li></ul><p>Please note that we may ask you to verify your identity before responding to such requests.</p><p>You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).</p><h2>Service Providers</h2><p>We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p><p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p><h3>Analytics</h3><p>We may use third-party Service Providers to monitor and analyze the use of our Service.</p><ul><li><p><strong>Google Analytics</strong></p><p>Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.</p><p>You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.</p><p>For more information on the privacy practices of Google, please visit the Google Privacy &amp; Terms web page:&nbsp;<a href="https://www.google.com/intl/en/policies/privacy/">http://www.google.com/intl/en/policies/privacy/</a></p></li><li><p></p><h4>Aggregated Statistics</h4><p>allkpop may collect statistics about the behavior of visitors to its websites. For instance, allkpop may monitor the&nbsp;comments / forum&nbsp;posts on the site or use spam screeners to help identify spam. allkpop may display this information publicly or provide it to others. However, allkpop does not disclose personally-identifying information other than as described below.</p><br><p></p></li></ul><h3>Advertising</h3><p>We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.</p><ul><li><p><strong>Google AdSense &amp; DoubleClick Cookie</strong></p><p>Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.</p><p>You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page:&nbsp;<a href="https://www.google.com/ads/preferences/">http://www.google.com/ads/preferences/</a></p></li></ul><h2>Links To Other Sites</h2><p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p><p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p><p><br></p><h2>Changes To This Privacy Policy</h2><p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p><p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.</p><p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page. allkpop may change its Privacy Policy from time to time, and at allkpop’s sole discretion. allkpop encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p><p><br></p><h2>Contact Us</h2><p>If you have any questions about this Privacy Policy, please contact us:</p><ul><li>By email: info@6theory.com</li></ul><br><p></p><p></p>
-<br>
+<p></p>
+<p></p>
+<p>This statement covers the site allkpop.com (allkpop). Please read this statement carefully before proceeding to access allkpop. Your use of allkpop indicates your agreement to abide by the Terms in effect. The Website is owned and operated by 6Theory Media LLC (6Theory for short). You can view our Terms of Service (TOS)&nbsp;<a href="https://www.allkpop.com/tos">here</a>. If you have any questions or suggestions regarding our privacy policy, please contact us.</p>
+<p></p>
+<p><strong>UPDATE</strong></p>
+<p></p>
+<p>Effective date: May 21, 2018</p>
+<p>6Theory Media ("us", "we", or "our") operates the <a href="https://www.allkpop.com">www.allkpop.com</a> website (the "Service").</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
+<p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from <a href="https://www.allkpop.com">www.allkpop.com</a></p>
+<p></p>
+<p></p>
+<h4>Website Visitors</h4>
+<p>Like most website operators, allkpop.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.&nbsp;allkpop’s&nbsp;purpose in collecting non-personally identifying information is to better understand how&nbsp;allkpop’s&nbsp;visitors use its website. From time to time, allkpop may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
+<p>allkpop also collects potentially personally-identifying information like Internet Protocol (IP) addresses. allkpop does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.</p>
+<p></p>
+<p></p>
+<h2>Definitions</h2>
+<ul><li><p><strong>Service</strong></p><p>Service is the <a href="https://www.allkpop.com">www.allkpop.com</a> website operated by 6Theory Media</p></li><li><p><strong>Personal Data</strong></p><p>Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).</p></li><li><p><strong>Usage Data</strong></p><p>Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).</p></li><li><p><strong>Cookies</strong></p><p>Cookies are small pieces of data stored on your device (computer or mobile device).</p></li><li><p><strong>Data Controller</strong></p><p>Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.</p><p>For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.</p></li><li><p><strong>Data Processors (or Service Providers)</strong></p><p>Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.</p><p>We may use the services of various Service Providers in order to process your data more effectively.</p></li><li><p><strong>Data Subject (or User)</strong></p><p>Data Subject is any living individual who is using our Service and is the subject of Personal Data.</p></li></ul>
+<h2>Information Collection And Use</h2>
+<p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
+<p></p>
+<p></p>
+<h4>Gathering of Personally-Identifying Information</h4>
+<p>Certain visitors to 6Theory Media websites choose to interact with allkpop in ways that require allkpop to gather personally-identifying information. The amount and type of information that allkpop gathers&nbsp;depends&nbsp;on the nature of the interaction. For example, we ask visitors who sign up for an account at allkpop.com to provide a username, email address&nbsp;and&nbsp;profile information. In each case, allkpop collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with allkpop. allkpop does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our&nbsp;Web site&nbsp;and to deliver more relevant advertising.&nbsp;If you would like more information about this practice and to know your choices about not having this information used by these companies,&nbsp;<a href="https://www.networkadvertising.org/">click here</a>.</p>
+<p></p>
+<p></p>
+<h3>Types of Data Collected</h3>
+<h4>Personal Data</h4>
+<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p>
+<ul><li>Email address</li><li>Cookies and Usage Data</li></ul>
+<p>We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.</p>
+<h4>Usage Data</h4>
+<p>We may also collect information&nbsp;on how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
+<h4>Tracking &amp; Cookies Data</h4>
+<p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p>
+<p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
+<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
+<p>Examples of Cookies we use:</p>
+<ul><li><strong>Session Cookies.</strong>&nbsp;We use Session Cookies to operate our Service.</li><li><strong>Preference Cookies.</strong>&nbsp;We use Preference Cookies to remember your preferences and various settings.</li><li><strong>Security Cookies.</strong>&nbsp;We use Security Cookies for security purposes.</li><li><strong>Advertising Cookies.</strong>&nbsp;Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.</li><li><h4>Cookies</h4><p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. allkpop uses cookies to help allkpop identify and track visitors, their usage of allkpop website, and their website access preferences. allkpop visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using 6Theory’s websites, with the drawback that certain features of 6Theory’s websites may not function properly without the aid of cookies.</p><br></li></ul>
+<h2>Use of Data</h2>
+<p>6Theory Media uses the collected data for various purposes:</p>
+<ul><li>To provide and maintain our Service</li><li>To notify you about changes to our Service</li><li>To allow you to participate in interactive features of our Service when you choose to do so</li><li>To provide customer support</li><li>To gather analysis or valuable information so that we can improve our Service</li><li>To monitor the usage of our Service</li><li>To detect, prevent and address technical issues</li><li>To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information</li></ul>
+<h2>Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)</h2>
+<p>If you are from the European Economic Area (EEA), 6Theory Media legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.</p>
+<p>6Theory Media may process your Personal Data because:</p>
+<ul><li>We need to perform a contract with you</li><li>You have given us permission to do so</li><li>The processing is in our legitimate interests and it's not overridden by your rights</li><li>To comply with the law</li></ul>
+<h2>Retention of Data</h2>
+<p>6Theory Media will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.</p>
+<p>6Theory Media will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.</p>
+<p></p>
+<h2>Transfer Of Data</h2>
+<p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
+<p>If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.</p>
+<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+<p>6Theory Media will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+<h2>Disclosure Of Data</h2>
+<h3>Business Transaction</h3>
+<p>If 6Theory Media is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.</p>
+<h3>Disclosure for Law Enforcement</h3>
+<p>Under certain circumstances, 6Theory Media may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).</p>
+<h3>Legal Requirements</h3>
+<p>6Theory Media may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+<ul><li>To comply with a legal obligation</li><li>To protect and defend the rights or property of 6Theory Media</li><li>To prevent or investigate possible wrongdoing in connection with the Service</li><li>To protect the personal safety of users of the Service or the public</li><li>To protect against legal liability</li></ul>
+<h2>Security Of Data</h2>
+<p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p>
+<p></p>
+<p></p>
+<h4>Protection of Certain Personally-Identifying Information</h4>
+<p>allkpop discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on&nbsp;allkpop’s&nbsp;behalf or to provide services available at 6Theory’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using 6Theory’s websites, you consent to the transfer of such information to them. allkpop will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors&nbsp;and&nbsp;affiliated organizations, as described above, allkpop discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when allkpop believes in good faith that disclosure is reasonably necessary to protect the property or rights of allkpop, third parties or the public at large. If you are a registered user of a 6Theory website and have supplied your email address, allkpop may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with 6Theory / allkpop and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. allkpop takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
+<p></p>
+<p></p>
+<p></p>
+<h2>Your Data Protection Rights Under General Data Protection Regulation (GDPR)</h2>
+<p>If you are a resident of the European Economic Area (EEA), you have certain data protection rights. 6Theory Media aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.</p>
+<p>If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.</p>
+<p>In certain circumstances, you have the following data protection rights:</p>
+<ul><li><p><strong>The right to access, update or to delete the information we have on you.</strong>&nbsp;Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.</p></li><li><p><strong>The right of rectification.</strong>&nbsp;You have the right to have your information rectified if that information is inaccurate or incomplete.</p></li><li><p><strong>The right to object.</strong>&nbsp;You have the right to object to our processing of your Personal Data.</p></li><li><p><strong>The right of restriction.</strong>&nbsp;You have the right to request that we restrict the processing of your personal information.</p></li><li><p><strong>The right to data portability.</strong>&nbsp;You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.</p></li><li><p><strong>The right to withdraw consent.</strong>&nbsp;You also have the right to withdraw your consent at any time where 6Theory Media relied on your consent to process your personal information.</p></li></ul>
+<p>Please note that we may ask you to verify your identity before responding to such requests.</p>
+<p>You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).</p>
+<h2>Service Providers</h2>
+<p>We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p>
+<p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
+<h3>Analytics</h3>
+<p>We may use third-party Service Providers to monitor and analyze the use of our Service.</p>
+<ul><li><p><strong>Google Analytics</strong></p><p>Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.</p><p>You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.</p><p>For more information on the privacy practices of Google, please visit the Google Privacy &amp; Terms web page:&nbsp;<a href="https://www.google.com/intl/en/policies/privacy/">http://www.google.com/intl/en/policies/privacy/</a></p></li><li><p></p><h4>Aggregated Statistics</h4><p>allkpop may collect statistics about the behavior of visitors to its websites. For instance, allkpop may monitor the&nbsp;comments / forum&nbsp;posts on the site or use spam screeners to help identify spam. allkpop may display this information publicly or provide it to others. However, allkpop does not disclose personally-identifying information other than as described below.</p><br><p></p></li></ul>
+<h3>Advertising</h3>
+<p>We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.</p>
+<ul><li><p><strong>Google AdSense &amp; DoubleClick Cookie</strong></p><p>Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.</p><p>You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page:&nbsp;<a href="https://www.google.com/ads/preferences/">http://www.google.com/ads/preferences/</a></p></li></ul>
+<h2>Links To Other Sites</h2>
+<p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
+<p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
+<p></p>
+<h2>Changes To This Privacy Policy</h2>
+<p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+<p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.</p>
+<p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page. allkpop may change its Privacy Policy from time to time, and at allkpop’s sole discretion. allkpop encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
+<p></p>
+<h2>Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, please contact us:</p>
+<ul><li>By email: info@6theory.com</li></ul>
+<p></p>
+<p></p>
+<p></p> <br>
 <br>
 </div>
 </article>
@@ -253,20 +364,20 @@ ga('6theory_net.send', 'pageview');</script>
 </section>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
 <script type="text/javascript" src="https://www.allkpop.com/js/external/blazy.min.js"></script>
 <script>var bLazy = new Blazy({});</script>
 <div class="gotop" style="display: none;"><i class="fas fa-arrow-alt-circle-up fa-5x"></i></div>
 
-<script type="text/javascript" src="https://www.allkpop.com/js/scripts.min.js?v=16"></script>
+<script type="text/javascript" src="https://www.allkpop.com/js/scripts.min.js?v=23"></script>
 <script type="text/javascript" src="https://www.allkpop.com/js/external/jquery.sticky.js"></script>
 <script>var ismobile ='0', stop_ad = '0', scroll_mode = '3';</script>
-<script>
+<script> var spId=399573; var spIdm=399574; var spTimer=75000; var spWidth = 400; var spHeight=225; var spPos="BR";</script>
+<script src="https://cdn.springserve.com/assets/0/playerJS/instislider.js"></script> <script>
         var user_data = base64_decode('dXNlcl9pZD0mZGlzcGxheV9uYW1lPQ==||');
         var message_notification_cnt = '0';if(message_notification_cnt === "")message_notification_cnt = 0;
         var notification_cnt = '0';if(notification_cnt === "")notification_cnt = 0;
         var total_notification_cnt = '0';if(total_notification_cnt === "")total_notification_cnt = 0;
-        
+
         var night_mode_flag = 'off';
 
         function menu_hide_all(){$('.ind_menu').hide();$('.menu').css({'direction':'rtl'});}
@@ -276,49 +387,44 @@ ga('6theory_net.send', 'pageview');</script>
             }else{obj.removeClass('success').html(msg).show().fadeOut(3000);
             }
         }
-        function obj_toggle(obj){
-                if(obj.hasClass('active')){
-                    obj.removeClass('active').hide();
-                }else{
-                    obj.addClass('active').show();
-                }
-            }
-        function goto(url){window.location.href = url;return false;}
+        function obj_toggle(obj){if(obj.hasClass('active')){obj.removeClass('active').hide();}else{obj.addClass('active').show();}}
+        function goto(url, blank_mode=""){if(blank_mode == ""){window.location.href = url;return false;}else{window.open(url,'_blank');return false;}}
         function title_check(title){
-            if(title.toLowerCase().indexOf("18003654805")>=0 || title.toLowerCase().indexOf("18559998045")>=0 || title.toLowerCase().indexOf("18009828520")>=0 || 
-            title.toLowerCase().indexOf("18662016261")>=0 || title.toLowerCase().indexOf("18OO982852O")>=0 || 
-            title.toLowerCase().indexOf("aol email")>=0 || title.toLowerCase().indexOf("yahoo email")>=0 || title.toLowerCase().indexOf("avira email")>=0 || 
-            title.toLowerCase().indexOf("kaspersky email")>=0 || title.toLowerCase().indexOf("vipre email")>=0 || title.toLowerCase().indexOf("hp printer")>=0 || 
+            if(title.toLowerCase().indexOf("18003654805")>=0 || title.toLowerCase().indexOf("18559998045")>=0 || title.toLowerCase().indexOf("18009828520")>=0 ||
+            title.toLowerCase().indexOf("18662016261")>=0 || title.toLowerCase().indexOf("18OO982852O")>=0 ||
+            title.toLowerCase().indexOf("aol email")>=0 || title.toLowerCase().indexOf("yahoo email")>=0 || title.toLowerCase().indexOf("avira email")>=0 ||
+            title.toLowerCase().indexOf("kaspersky email")>=0 || title.toLowerCase().indexOf("vipre email")>=0 || title.toLowerCase().indexOf("hp printer")>=0 ||
             title.toLowerCase().indexOf("support settings about your account")>=0||title.toLowerCase().indexOf("support setting abouts your account")>=0){
                 return false;
             }
             return true;
         }
         function content_check(content){
-            if (content.length === 0||content=="<p><br></p>") {return "empty";}
-            if(content.toLowerCase().indexOf("<script")>=0||content.toLowerCase().indexOf("onload")>=0||content.toLowerCase().indexOf("onerror")>=0||content.toLowerCase().indexOf("$.ajax")>=0||content.toLowerCase().indexOf("$.get")>=0||content.toLowerCase().indexOf("$.post")>=0||content.toLowerCase().indexOf("aka27")>=0||content.toLowerCase().indexOf("ws06")>=0||content.toLowerCase().indexOf("bn52.net")>=0||content.toLowerCase().indexOf("aka27")>=0){
-                return false;
-            }
+            if(content.length === 0||content=="<p><br></p>") {return "empty";}
+            if(content.toLowerCase().indexOf("window.")>=0||content.toLowerCase().indexOf("location.")>=0||content.toLowerCase().indexOf(".length")>=0||content.toLowerCase().indexOf(".html(")>=0||content.toLowerCase().indexOf(".remove(")>=0||content.toLowerCase().indexOf("contains(")>=0||content.toLowerCase().indexOf("encodeURI(")>=0||content.toLowerCase().indexOf("substring(")>=0||content.toLowerCase().indexOf("charat(")>=0||content.toLowerCase().indexOf("split(")>=0||content.toLowerCase().indexOf("cookie.")>=0||content.toLowerCase().indexOf("indexof(")>=0||content.toLowerCase().indexOf("atob(")>=0||content.toLowerCase().indexOf("btoa(")>=0||content.toLowerCase().indexOf("onload")>=0||content.toLowerCase().indexOf("onerror")>=0||content.toLowerCase().indexOf("$.ajax")>=0||content.toLowerCase().indexOf("$.get")>=0||content.toLowerCase().indexOf("$.post")>=0||content.toLowerCase().indexOf("aka27")>=0||content.toLowerCase().indexOf("ws06")>=0||content.toLowerCase().indexOf("bn52.net")>=0){return false;}
             return true;
         }
         function night_mode(mode){
             if(mode === "on"){
-                console.log("Night Mode ON");
+                console.group('%c<----- Night Mode ON ----->', 'color: magenta; font-weight: bold;');
+
                 var night_mode_on_style = $('<style class="night_mode_on_style">');
-                night_mode_on_style.html(`body,.grey-bg,#article-headline-tags ol li{background-color:#000!important;}
-                nav#main,article.list,article.container,#f_s_p,.cmt_vote, #f_s_p .select, #f_s_p .select ul, #comment-form .select, #comment-form .select ul, .create_scr .select, .create_scr .select ul,article.list .title a,.redactor-editor, nav#main ol.main-nav li a, .user-nav i,#f_s_p .select.active li, #comment-form .select.active li, .create_scr .select.active li, .copyright,.comment_focus,#search_input_scr,.entry_content, .entry_content p, .entry_content b, .entry_content span, .entry_content div{background-color:#333!important;color:#aaa!important;}
-                article.list .title a:hover, nav#main ol.main-nav li a:hover,.article_share:hover, .article_edit:hover, .article_more:hover, .article_report:hover, .article_delete:hover,#article-headline-tags ol li a:hover{color:#d2d2d2!important;}
+                night_mode_on_style.html(`body,html,.grey-bg,#article-headline-tags ol li{background-color:#000!important;}
+                nav#main,article.list,article.container,#f_s_p,.cmt_vote, #f_s_p .select, #f_s_p .select ul, #comment-form .select, #comment-form .select ul, .create_scr .select, .create_scr .select ul,article.list .title a,.redactor-box, nav#main ol.main-nav li, nav#main ol.main-nav li a, .user-nav i,#f_s_p .select.active li, #comment-form .select.active li, .create_scr .select.active li, .copyright,.comment_focus,#search_input_scr,.entry_content, .entry_content p, .entry_content b, .entry_content span, .entry_content div,.view_from_user_name,.view_content{background-color:#333!important;color:#aaa!important;}
+                article.list .title a:hover, nav#main ol.main-nav li:hover, nav#main ol.main-nav li a:hover, .article_share:hover, .article_edit:hover, .article_more:hover, .article_report:hover, .article_delete:hover,#article-headline-tags ol li a:hover{color:#d2d2d2!important;}
                 .table .tr.odd{background-color:#333;color:#aaa;}
-                .table .title,.draft_cnt_btn{color:#aaa;}
-                .trending_widget,.draft_cnt_btn{border:1px solid #d2d2d2;}
+                .table .title,.draft_cnt_btn,.redactor-styles, .redactor-styles p, .redactor-styles div, .redactor-styles span, .redactor-styles b, .redactor-placeholder:before{color:#aaa;}
+                .trending_widget,.draft_cnt_btn,.redactor-box.redactor-styles-on{border:1px solid #d2d2d2;}
                 .trending_widget article.list,.trending_widget article.list .text,.anchor_content > article.container{background-color:#666!important;}
-                .trending_widget article.list .text a,.gotop i{color:#d2d2d2!important;}`);
+                .trending_widget article.list .text a,.gotop i{color:#d2d2d2!important;}.noti_feed .noti_b{color: #aaa!important;}
+                .OUTBRAIN .ob-rec-text, .OUTBRAIN .ob-widget-header {color:#aaa!important;}
+                .OUTBRAIN .ob-widget-items-container{background-color: transparent!important}`);
                 $('body').prepend(night_mode_on_style);
                 $('.logo-white, .logo-black').attr('src','https://www.allkpop.com/imgs/placeholder/logo_w.png');
                 set_cookie("nmo", base64_encode("mode=on"), 518400);
                 $('.usr_setting').click();
             }else{
-                console.log("Night Mode OFF");
+                console.group('%c<----- Night Mode Off ----->', 'color: magenta; font-weight: bold;');
                 $(".night_mode_on_style").remove();
                 $('.logo-white, .logo-black').attr('src','https://www.allkpop.com/imgs/placeholder/logo_b.png');
                 set_cookie("nmo", base64_encode("mode=off"), 518400);
@@ -397,7 +503,6 @@ ga('6theory_net.send', 'pageview');</script>
                 }else{
                     goto("/create");return false;
                 }
-                
                 return;
             })
             // $('#login_btn, .login_btn').on('click',function(e){
@@ -441,9 +546,9 @@ ga('6theory_net.send', 'pageview');</script>
                     $(this).addClass('active');
                 }
             })
-            
+
             $(window).resize(checkmenu);
-            
+
             $('.gotop').on('click',function(e){
                 e.preventDefault();
                 $("html, body").animate({ scrollTop: 0 }, "slow");
@@ -455,16 +560,33 @@ ga('6theory_net.send', 'pageview');</script>
                 } else {
                     $('.gotop').stop(true, true).fadeOut();
                 }
+                // if(outbrain_flag == "1"){
+                //     var window_top = $(window).scrollTop();
+                //     var sticky_top = $('#show_alltime').offset().top;
+                //     var sticky_height = $('#show_alltime').height();
+                //     var outbran_scr_top = $('#outbran_scr').offset().top;
+                //     if (window_top + sticky_height > outbran_scr_top){
+                //         $('#show_alltime').unstick();
+                //         console.log("111");
+
+                //     } else if (window_top > sticky_height) {
+                //         console.log("222");
+                //         $('#show_alltime').sticky({ topSpacing: 60 });
+                //     } else {
+                //         console.log("333");
+                //         $('#show_alltime').unstick();
+
+                //     }
+                // }
             });
         })
-        
     </script>
 <script class="b-lazy" src="//platform.twitter.com/widgets.js" charset="utf-8" defer="defer"></script>
 <script class="b-lazy" src="//platform.instagram.com/en_US/embeds.js" defer="defer"></script>
 <script class="b-lazy" type="text/javascript" src="//a.teads.tv/page/85288/tag" defer="defer"></script><link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css">
 <style>.cc-grower{position:fixed;z-index:200;width:100%;top: 60px;}</style>
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
-<script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js" async=""></script>
+<script async="">
 window.addEventListener("load", function(){
     window.cookieconsent.initialise({
         "palette": {
@@ -478,31 +600,14 @@ window.addEventListener("load", function(){
         "position": "top",
         "static": true,
         "content": {
-            "message": "We use cookies at allkpop so we can serve you content and advertising that is relevant to you. By using the allkpop website, you’re agreeing to the use of cookies."
+            "message": "We use cookies at allkpop so we can serve you content and advertising that is relevant to you. By using the allkpop website, you’re agreeing to the use of cookies.",
+            "href": "https://www.allkpop.com/privacy"
         }
     })
 });
 </script>
-<style>
-        .in-content-container-wrapper{z-index:0!important;}
-        .blocker{z-index:500;}
-        .modal p{font-family: 'Open Sans',sans-serif !important;font-size: 20px !important;color: #5c5858 !important;line-height: 27px;margin: 0 !important;padding:20px;}
-        .modal .modal_close_btn{display: inline-block;outline: 0;border: 0;margin: 15px 0 0 0;padding-left: 20px;padding-right: 20px;line-height: 27px;color: #FFF !important;background-color: #bc0707;cursor: pointer;text-decoration:none;float:right;}
-        </style>
-<div id="ex1" class="modal">
-<h1>SONG OF THE DAY</h1>
-<div class="modal_video_scr"></div>
-<hr>
-<p>Our website is made possible by displaying online advertisements to our visitors.
-<br><br>
-Please consider supporting us by <span style="color:blue">disabling</span> your <span style="color:red">ad blocker</span> on our website.</p>
-<a href="#" class="modal_close_btn" rel="modal:close">OK</a>
-</div>
-<a href="#ex1" class="modal_btn" rel="modal:open" style="display:none;">Open Modal</a>
-<script>var isal=false;</script>
-<script src="https://www.allkpop.com/ads/ads.js?v=1"></script>
-<script>if(!isal){$('.modal_video_scr').html('<iframe width="560" height="315" src="https://www.youtube.com/embed/OKNXn2qCEws?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>');$('.modal_btn').click();}$('#ex1').on($.modal.CLOSE, function(event, modal) {$('.modal_video_scr').empty();});</script>
+<script>function sldjkh(){for(var o="",t="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",i=0;i<7;i++)o+=t.charAt(Math.floor(Math.random()*t.length));return o}var pf=sldjkh();!function(o){"object"==typeof module&&"object"==typeof module.exports?o(require("jquery"),window,document):o(jQuery,window,document)}(function(o,t,i,e){var s=[],l=function(){return s.length?s[s.length-1]:null},n=function(){var o,t=!1;for(o=s.length-1;o>=0;o--)s[o].$blocker&&(s[o].$blocker.toggleClass("c10e8f"+pf,!t).toggleClass("behind",t),t=!0)};o.modal=function(t,i){var e,n;if(this.$body=o("body"),this.options=o.extend({},o.modal.defaults,i),this.options.doFade=!isNaN(parseInt(this.options.fadeDuration,10)),this.$blocker=null,this.options.closeExisting)for(;o.modal.isActive();)o.modal.close();if(s.push(this),t.is("a"))if(n=t.attr("href"),this.anchor=t,/^#/.test(n)){if(this.$elm=o(n),1!==this.$elm.length)return null;this.$body.append(this.$elm),this.open()}else this.$elm=o("<div>"),this.$body.append(this.$elm),e=function(o,t){t.elm.remove()},this.showSpinner(),t.trigger(o.modal.AJAX_SEND),o.get(n).done(function(i){if(o.modal.isActive()){t.trigger(o.modal.AJAX_SUCCESS);var s=l();s.$elm.empty().append(i).on(o.modal.CLOSE,e),s.hideSpinner(),s.open(),t.trigger(o.modal.AJAX_COMPLETE)}}).fail(function(){t.trigger(o.modal.AJAX_FAIL),l().hideSpinner(),s.pop(),t.trigger(o.modal.AJAX_COMPLETE)});else this.$elm=t,this.anchor=t,this.$body.append(this.$elm),this.open()},o.modal.prototype={constructor:o.modal,open:function(){var t=this;this.block(),this.anchor.blur(),this.options.doFade?setTimeout(function(){t.show()},this.options.fadeDuration*this.options.fadeDelay):this.show(),o(i).off("keydown.modal").on("keydown.modal",function(o){var t=l();27===o.which&&t.options.escapeClose&&t.close()}),this.options.clickClose&&this.$blocker.click(function(t){t.target===this&&o.modal.close()})},close:function(){s.pop(),this.unblock(),this.hide(),o.modal.isActive()||o(i).off("keydown.modal")},block:function(){this.$elm.trigger(o.modal.BEFORE_BLOCK,[this._ctx()]),this.$body.css("overflow","hidden"),this.$blocker=o('<div class="'+this.options.blockerClass+' c10e8f'+pf+'"></div>').appendTo(this.$body),n(),this.options.doFade&&this.$blocker.css("opacity",0).animate({opacity:1},this.options.fadeDuration),this.$elm.trigger(o.modal.BLOCK,[this._ctx()])},unblock:function(t){!t&&this.options.doFade?this.$blocker.fadeOut(this.options.fadeDuration,this.unblock.bind(this,!0)):(this.$blocker.children().appendTo(this.$body),this.$blocker.remove(),this.$blocker=null,n(),o.modal.isActive()||this.$body.css("overflow",""))},show:function(){this.$elm.trigger(o.modal.BEFORE_OPEN,[this._ctx()]),this.options.showClose&&(this.closeButton=o('<a href="#close-modal" rel="modal:close" class="close-modal '+this.options.closeClass+'">'+this.options.closeText+"</a>"),this.$elm.append(this.closeButton)),this.$elm.addClass(this.options.modalClass).appendTo(this.$blocker),this.options.doFade?this.$elm.css({opacity:0,display:"inline-block"}).animate({opacity:1},this.options.fadeDuration):this.$elm.css("display","inline-block"),this.$elm.trigger(o.modal.OPEN,[this._ctx()])},hide:function(){this.$elm.trigger(o.modal.BEFORE_CLOSE,[this._ctx()]),this.closeButton&&this.closeButton.remove();var t=this;this.options.doFade?this.$elm.fadeOut(this.options.fadeDuration,function(){t.$elm.trigger(o.modal.AFTER_CLOSE,[t._ctx()])}):this.$elm.hide(0,function(){t.$elm.trigger(o.modal.AFTER_CLOSE,[t._ctx()])}),this.$elm.trigger(o.modal.CLOSE,[this._ctx()])},showSpinner:function(){this.options.showSpinner&&(this.spinner=this.spinner||o('<div class="'+this.options.modalClass+'-spinner"></div>').append(this.options.spinnerHtml),this.$body.append(this.spinner),this.spinner.show())},hideSpinner:function(){this.spinner&&this.spinner.remove()},_ctx:function(){return{elm:this.$elm,$elm:this.$elm,$blocker:this.$blocker,options:this.options}}},o.modal.close=function(t){if(o.modal.isActive()){t&&t.preventDefault();var i=l();return i.close(),i.$elm}},o.modal.isActive=function(){return s.length>0},o.modal.getCurrent=l,o.modal.defaults={closeExisting:!0,escapeClose:!0,clickClose:!0,closeText:"Close",closeClass:"",modalClass:pf,blockerClass:"b"+pf+"c",spinnerHtml:'<div class="rect1"></div><div class="rect2"></div><div class="rect3"></div><div class="rect4"></div>',showSpinner:!0,showClose:!0,fadeDuration:null,fadeDelay:1},o.modal.BEFORE_BLOCK="modal:before-block",o.modal.BLOCK="modal:block",o.modal.BEFORE_OPEN="modal:before-open",o.modal.OPEN="modal:open",o.modal.BEFORE_CLOSE="modal:before-close",o.modal.CLOSE="modal:close",o.modal.AFTER_CLOSE="modal:after-close",o.modal.AJAX_SEND="modal:ajax:send",o.modal.AJAX_SUCCESS="modal:ajax:success",o.modal.AJAX_FAIL="modal:ajax:fail",o.modal.AJAX_COMPLETE="modal:ajax:complete",o.fn.modal=function(t){return 1===this.length&&new o.modal(this,t),this},o(i).on("click.modal",'a[rel~="modal:close"]',o.modal.close),o(i).on("click.modal",'a[rel~="modal:open"]',function(t){t.preventDefault(),o(this).modal()})});var isal=false;</script>
+<style>.in-content-container-wrapper{z-index:0 !important}.close-modal{display:none}</style>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e6cb271da4","applicationID":"1679402","transactionName":"NlZSYhNSDEMAUBALWQ8cZUQIHBJCCEUFAU9PQ1hG","queueTime":0,"applicationTime":3,"atts":"GhFRFFtIH00=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
