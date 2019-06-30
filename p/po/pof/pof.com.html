@@ -1,17 +1,16 @@
-<!--The following is the downloaded HTML source of the pof.com privacy policy that was archived on 2018-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180623112422id_/https%3A//www.pof.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pof.com privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630210612id_/https%3A//www.pof.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js" xmlns="https://www.w3.org/1999/xhtml"><head>
 	<title>POF.com™ Free Online Dating Service for singles</title>
 	<meta http-equiv="Content-Language" content="EN">
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 	<meta name="description" content="100% Free online dating and matchmaking service for singles">
-	<meta name="KEYWORDS" content="free online dating,matchmaking,online dating,dating service,personals,matchmaker,personal ads,service">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
  
     
 
-<link rel="stylesheet" type="text/css" href="/css/versioned/main.min.css">
+<link rel="stylesheet" type="text/css" href="/css/versioned/main.min.css?v=1.0">
 <link href="//fonts.googleapis.com/css?family=Open+Sans:200,300,400,500,600,700" rel="stylesheet" type="text/css">
 
 
@@ -26,7 +25,19 @@
 	
 <!-- start global Javascript control -->
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NVCFK84"></script><script type="text/javascript" src="/Scripts/custom/ads.advert.js"></script>
+
+
+<link rel="alternate" href="https://www.pof.com/privacypolicy.aspx" hreflang="x-default">
+<link rel="alternate" href="https://es.pof.com/privacypolicy.aspx" hreflang="es-es">
+<link rel="alternate" href="https://fr.pof.com/privacypolicy.aspx" hreflang="fr-fr">
+<link rel="alternate" href="https://br.pof.com/privacypolicy.aspx" hreflang="pt-br">
+<link rel="alternate" href="https://de.pof.com/privacypolicy.aspx" hreflang="de-de">
+<link rel="alternate" href="https://it.pof.com/privacypolicy.aspx" hreflang="it-it">
+<link rel="alternate" href="https://nl.pof.com/privacypolicy.aspx" hreflang="nl-nl">
+<link rel="alternate" href="https://se.pof.com/privacypolicy.aspx" hreflang="sv-se">
+<link rel="alternate" href="https://mx.pof.com/privacypolicy.aspx" hreflang="es-mx">
+<link rel="alternate" href="https://ca.pof.com/privacypolicy.aspx" hreflang="en-ca">
+<link rel="alternate" href="https://dk.pof.com/privacypolicy.aspx" hreflang="da-dk"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WBSFCXJ"></script><script type="text/javascript" src="/Scripts/custom/ads.advert.js"></script>
 <script type="text/javascript">
     window.addEventListener('error', function (e) {
 
@@ -75,14 +86,166 @@
 </script>
 
 
+
+
 <!-- Google Tag Manager -->
 <script>
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NVCFK84');</script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WBSFCXJ');</script>
 <!-- End Google Tag Manager -->
+
+
+   
+
+
+<script type="text/javascript">
+	window.pof = window.pof || {}
+
+	window.pof.dataStorage = {
+		_storage: new WeakMap(),
+		put: function (element, key, obj) {
+			if (!this._storage.has(element)) {
+				this._storage.set(element, new Map());
+			}
+			this._storage.get(element).set(key, obj);
+		},
+		get: function (element, key) {
+			return this._storage.get(element).get(key);
+		},
+		has: function (element, key) {
+			return this._storage.has(element) && this._storage.get(element).has(key);
+		},
+		remove: function (element, key) {
+			var ret = this._storage.get(element).delete(key);
+			if (!this._storage.get(key).size === 0) {
+				this._storage.delete(element);
+			}
+			return ret;
+		}
+	}
+
+	window.pof.touchEvents = {
+		thresholds: {
+			distance: 5,
+			time: 200
+		},
+
+		fireP2WClickEvent: function(clickEventName, destinationPageName) {
+			jQuery.ajax({
+				url: "/lytics/Event",
+				method: "POST",
+				data: {
+					api: 1,
+					event: clickEventName,
+					time: Date.now(),
+					p: JSON.stringify({
+						linkName: window.location.href,
+						destinationPageName: destinationPageName,
+						sourcePageName: window.location.pathname
+					}),
+					__RequestVerificationToken: window.pof.__RequestVerificationToken
+				}
+			});
+		},
+
+		getEventCoords: function(e) {
+			return {
+				x: (e.pageX || (e.changedTouches && e.changedTouches[0] ? e.changedTouches[0].clientX : 0) || 0),
+				y: (e.pageY || (e.changedTouches && e.changedTouches[0] ? e.changedTouches[0].clientY : 0) || 0)
+			};
+		},
+
+		handleEventGenerator: function(destinationPageName) {
+			var listener = function handleTouchClickEvent(e) {
+				e.target.removeEventListener('click', handleTouchClickEvent);
+				e.target.removeEventListener('touchTap', handleTouchClickEvent);
+				window.pof.touchEvents.fireP2WClickEvent("P2WLinkClicked", destinationPageName);
+				return true;
+			}
+			return listener;
+		},
+
+		createTouchAndClickEventHandlers: function (element, destinationPageName) {
+			console.log("P2WLinkClicked Event on " + destinationPageName, element)
+			var handleEvent = window.pof.touchEvents.handleEventGenerator(destinationPageName);
+			element.addEventListener('click', handleEvent);
+			element.addEventListener('touchTap', handleEvent);
+
+			element.addEventListener('touchstart', function (e) {
+				var coords = window.pof.touchEvents.getEventCoords(e);
+				window.pof.dataStorage.put(element, "touchData", {
+					currX: coords.x,
+					currY: coords.y,
+					timestamp: +new Date(),
+				});
+				return true;
+			});
+
+			element.addEventListener('touchend', function (e) {
+				var coords = window.pof.touchEvents.getEventCoords(e);
+				var touchData = window.pof.dataStorage.get(element, "touchData");
+				var xDistance = Math.abs(touchData.currX - coords.x);
+				var yDistance = Math.abs(touchData.currY - coords.y);
+				var now = +new Date();
+				var touchDuration = now - touchData.timestamp;
+
+				if (xDistance < window.pof.touchEvents.thresholds.distance && yDistance < window.pof.touchEvents.thresholds.distance && touchDuration < window.pof.touchEvents.thresholds.time) {
+					element.dispatchEvent(new Event('touchTap'));
+				}
+				return true;
+			});
+		},
+
+		init: function () {
+			var allATags = document.getElementsByTagName('a');
+			var p2wLinks = ["whoviewedme.aspx","whoiviewed.aspx","friends.aspx","wholovesme.aspx","meetme.aspx","meetyou.aspx","meetmatches.aspx","advancedsearch.aspx","lastsignup.aspx","peopleonline.aspx","lastonlinemycity.aspx"];
+
+			var isVPLinkPage = false;
+			for (var i = 0; i < p2wLinks.length; i++) {
+				if (window.location.href.indexOf(p2wLinks[i]) !== -1) {
+					isVPLinkPage = true;
+					break;
+				}
+			}
+
+			for (var i = allATags.length - 1; i >= 0; --i) {
+				var currentAnchorElem = allATags[i];
+				if (currentAnchorElem.hasAttribute('href')) {
+					var linkTarget = currentAnchorElem.getAttribute('href');
+					for (var j = 0; j < p2wLinks.length; j++) {
+						var targetP2WPage = p2wLinks[j];
+						if (linkTarget.indexOf(targetP2WPage) !== -1) {
+							window.pof.touchEvents.createTouchAndClickEventHandlers(currentAnchorElem, targetP2WPage);
+						}
+					}
+
+					if (isVPLinkPage && linkTarget.indexOf("viewprofile.aspx") !== -1) {
+						window.pof.touchEvents.createTouchAndClickEventHandlers(currentAnchorElem, "viewprofile.aspx");
+					}
+				}
+			}
+		}
+	}
+
+	document.addEventListener("DOMContentLoaded", function () {
+		window.pof.touchEvents.init();
+    });
+</script>
+
+
+    <script type="text/javascript">
+        var sdkInstance="appInsightsSDK";window[sdkInstance]="appInsights";var aiName=window[sdkInstance],aisdk=window[aiName]||function(e){function n(e){t[e]=function(){var n=arguments;t.queue.push(function(){t[e].apply(t,n)})}}var t={config:e};t.initialize=!0;var i=document,a=window;setTimeout(function(){var n=i.createElement("script");n.src=e.url||"https://az416426.vo.msecnd.net/scripts/b/ai.2.min.js",i.getElementsByTagName("script")[0].parentNode.appendChild(n)});try{t.cookie=i.cookie}catch(e){}t.queue=[],t.version=2;for(var r=["Event","PageView","Exception","Trace","DependencyData","Metric","PageViewPerformance"];r.length;)n("track"+r.pop());n("startTrackPage"),n("stopTrackPage");var s="Track"+r[0];if(n("start"+s),n("stop"+s),n("setAuthenticatedUserContext"),n("clearAuthenticatedUserContext"),n("flush"),!(!0===e.disableExceptionTracking||e.extensionConfig&&e.extensionConfig.ApplicationInsightsAnalytics&&!0===e.extensionConfig.ApplicationInsightsAnalytics.disableExceptionTracking)){n("_"+(r="onerror"));var o=a[r];a[r]=function(e,n,i,a,s){var c=o&&o(e,n,i,a,s);return!0!==c&&t["_"+r]({message:e,url:n,lineNumber:i,columnNumber:a,error:s}),c},e.autoExceptionInstrumented=!0}return t}(
+        {
+          instrumentationKey:"8971c9e6-c3fc-4eec-a3c6-d0af22b3d46c"
+        }
+        );window[aiName]=aisdk,aisdk.queue&&0===aisdk.queue.length&&aisdk.trackPageView({});
+    </script>
 
         <script type="text/javascript" src="/javascript/versioned/stacktrace.js?1"></script>
 
@@ -93,25 +256,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		    <script type="text/javascript" src="/javascript/versioned/pofcommon.min.js?v=1.1"></script>
     
         <script type="text/javascript">
-            var anlayticToken ="BrUX1Gi95EWzUQukKaFpmpzbit772NVI"
+            var anlayticToken ="X8DzOQ3ioEKPdluspX7lEPBDocie/dZI"
         </script>
         <script type="text/javascript" src="/Scripts/custom/performancetimer.js"></script>
     
-        <!-- common google analytics include -->
-        <script>
-            (function (i, s, o, g, r, a, m) {
-                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                    (i[r].q = i[r].q || []).push(arguments)
-                }, i[r].l = 1 * new Date(); a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-            ga('create', 'UA-172947-1', 'auto');
-            ga('send', 'pageview');
-
-        </script>
-        <!-- /common google analytics include -->
-        
 <!-- / global Javascript control -->
 
 	<style type="text/css">
@@ -272,9 +421,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     
 
-</head>
+<script src="https://az416426.vo.msecnd.net/scripts/b/ai.2.min.js"></script></head>
 
-<body class="termsbody">
+<body class="termsbody"><div id="cookie-policy-banner"><div id="contents"><div id="text-area">By browsing this website, you agree to the use of cookies to measure usage statistics, to provide you with offers and advertising tailored to your interests, and to enable interactive social platform features such as share buttons.</div><img id="close-button" class="inline-block" src="/images/icons/dw-cookies-banner-close.png"></div></div>
 
 
 
@@ -299,7 +448,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li class="en_search main-divider">
 <a id="mainmenu_search" href="/basicsearch.aspx" class="aligncenter font18 white opensans">search</a></li>
 <li class="en_online main-divider">
-<a id="mainmenu_online" href="/" class="aligncenter font18 white opensans">online<span class="normal"> (513356)</span></a></li>
+<a id="mainmenu_online" href="/" class="aligncenter font18 white opensans">online<span class="normal"> (440310)</span></a></li>
 <li class="en_chemistry main-divider">
 <a id="mainmenu_chemistry" href="/poftest.aspx" class="aligncenter font18 white opensans">chemistry</a></li>
 <li class="en_upgrade main-nodivider upgrade-link">
@@ -380,11 +529,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		legal and technical jargon to a minimum.
 	</p>
 	<p>
-		This Privacy Policy applies beginning May 25, 2018. The previous version of this Privacy Policy,
-		available <a href="/privacypolicy.aspx?ppDate=2016_12_14">here</a>, will apply until then.
+		This Privacy Policy applies beginning Dec 13, 2018. The previous version of this Privacy Policy,
+		available <a href="/privacypolicy.aspx?ppDate=2018_05_25">here</a>, will apply until then.
 	</p>
 
-	<p><u>EFFECTIVE DATE:</u> May 25, 2018</p>
+	<p><u>EFFECTIVE DATE:</u> Dec 13, 2018</p>
 
 	<div class="toc">
 		<ol>
@@ -416,10 +565,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</p>
 	<p>
 		MTCH Technology Services Limited<br>
-		Pembroke House<br>
-		28 - 32 Pembroke Street Upper<br>
-		Dublin 2, Ireland<br>
-		D02 EK84
+		5 Harcourt Road<br>
+		Dublin 2, D02 FW64<br>
+		Ireland
 	</p>
 	<p>If you live outside the European Union, the company responsible for your information is:</p>
 	<p>
@@ -945,10 +1093,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		By post:<br>
 		Privacy Officer<br>
 		MTCH Technology Services Limited<br>
-		Pembroke House<br>
-		28 - 32 Pembroke Street Upper<br>
-		Dublin 2, Ireland<br>
-		D02 EK84
+		5 Harcourt Road<br>
+		Dublin 2, D02 FW64<br>
+		Ireland
 	</p>
 	<p>
 		<b>If you live outside the European Union:</b><br>
@@ -961,76 +1108,89 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</p>
 
 </div>
+        </div>
+		
 
 <div class="clearboth"></div>
 
-<div id="get-mobile-app-container">
-    <div>
-        <div id="mobile-app-container-left">
-            <div>
-                Get the POF Mobile Apps
-            </div>
-            <div class="margin15top">
-                <a href="https://itunes.apple.com/app/apple-store/id389638243?pt=419263&amp;ct=pofappstorelink2&amp;mt=8&amp;ct=pofappstorelinkeveryoneonline" target="_blank"><img src="/images/icons/web-lander-appstore.png" onload="this.width/=2;this.onload=null;" class="margin20right"></a>
-                <a href="https://play.google.com/store/apps/details?id=com.pof.android&amp;feature=search_result&amp;hl=en&amp;referrer=utm_source%3Dpofweb_link_1%26utm_medium%3DCampaignID=0" target="_blank"><img src="/images/icons/web-lander-googleplay.png" onload="this.width/=2;this.onload=null;" class="margin20right"></a>
-                <a href="https://www.microsoft.com/en-ca/store/p/pof-free-online-dating/9wzdncrfj0gd" target="_blank"><img src="/images/icons/web-lander-windowsstore.png" onload="this.width/=2;this.onload=null;"></a>
-            </div>
-        </div>
-        <img src="/images/icons/web-lander-apps.png" id="phone-pic" onload="this.width/=2;this.onload=null;">
-    </div>
-</div>
+	<div id="get-mobile-app-container">
+		<div>
+			<div id="mobile-app-container-left">
+				<div>
+					Get the POF Mobile Apps
+				</div>
+				<div class="margin15top">
+					<a href="https://itunes.apple.com/app/apple-store/id389638243?pt=419263&amp;ct=pofappstorelink2&amp;mt=8&amp;ct=pofappstorelinkeveryoneonline" target="_blank"><img src="/images/icons/web-lander-appstore.png" onload="this.width/=2;this.onload=null;" class="margin20right"></a>
+					<a href="https://play.google.com/store/apps/details?id=com.pof.android&amp;feature=search_result&amp;hl=en&amp;referrer=utm_source%3Dpofweb_link_1%26utm_medium%3DCampaignID=0" target="_blank"><img src="/images/icons/web-lander-googleplay.png" onload="this.width/=2;this.onload=null;" class="margin20right"></a>
+					<a href="https://www.microsoft.com/en-ca/store/p/pof-free-online-dating/9wzdncrfj0gd" target="_blank"><img src="/images/icons/web-lander-windowsstore.png" onload="this.width/=2;this.onload=null;"></a>
+				</div>
+			</div>
+			<img src="/images/icons/web-lander-apps.png" id="phone-pic" onload="this.width/=2;this.onload=null;">
+		</div>
+	</div>
+	
 <div id="footer" class="footer-global">
      <div id="footernav" class="gridcontainer">
+         <!-- COMMUNITY SECTION -->
 		<div class="g5a_1 first footernav-section">
 			<p class="alignleft">
 				<strong class="footernav-section-heading">COMMUNITY</strong><br>
                 
+                <a class="footernav-link" href="/communityguidelines.aspx">Guidelines</a><br>
 				<a class="footernav-link" href="/success_v2.aspx">Success Stories</a><br>
 			</p>
             <br>
-			
 		</div>
-		<div class="g5a_1 footernav-section">
-            
-                <p class="alignleft">
-				    <strong class="footernav-section-heading">COMPANY</strong><br>
-				    <a class="footernav-link" href="https://ads.pof.com">Advertising</a><br>
-				    <a class="footernav-link" href="/about.aspx">Press</a><br>
-			        
-                        <a class="footernav-link" href="/careers.aspx?api=1">Careers</a><br>
-			        	
-                    <a class="footernav-link" href="/terms.aspx">Terms of Service</a><br>
-                    <a class="footernav-link" href="/privacypolicy.aspx">Privacy Policy</a><br>
-					<a class="footernav-link" href="/cookiepolicy.aspx?api=1&amp;dt=1">Cookie Policy</a>
-			    </p>
-            
-		</div>
-		<div class="g5a_1 footernav-section footernav-section-mobileapps">
+         <!-- HELP SECTION -->
+         <div class="g5a_1 footernav-section footernav-section-mobileapps">
 			<p class="alignleft">
 				<strong class="footernav-section-heading">HELP</strong><br>
 				<a class="footernav-link" href="/HelpCenter/helpcenter_faq.aspx">Help Center</a><br>
-				<a class="footernav-link" href="http://forums.plentyoffish.com">Forums</a><br>
-                
-				    <a class="footernav-link" href="http://blog.pof.com/">PlentyOfFish Blog</a><br>
-                
+				
 				<a class="footernav-link" href="/safety.aspx">Safety</a><br>
 			</p>
 		</div>
+         <!-- COMPANY SECTION -->
+		<div class="g5a_1 footernav-section">
+            <div class="alignleft">
+				<strong class="footernav-section-heading">COMPANY</strong><br>
+                <div class="inline-block margin10right">
+                    <a class="footernav-link" href="https://ads.pof.com">Advertising</a><br>
+				    <a class="footernav-link" href="/about.aspx">Press</a><br>
+				    
+                        <a class="footernav-link" href="/careers.aspx?api=1">Careers</a><br>
+			        
+				        <a class="footernav-link" href="http://blog.pof.com/">PlentyOfFish Blog</a><br>
+                    	
+                </div>
+			</div>
+		</div>
+        <!-- LEGAL SECTION -->
+        <div class="g5a_1 footernav-section footernav-section-mobileapps">
+            <p class="alignleft">
+	            <strong class="footernav-section-heading">LEGAL</strong><br>
+	            <a class="footernav-link" href="/terms.aspx">Terms of Use</a><br>
+	            <a class="footernav-link" href="/privacypolicy.aspx">Privacy Policy</a><br>
+		        <a class="footernav-link" href="/cookiepolicy.aspx">Cookie Policy</a><br>
+            </p>
+        </div>
+		<!-- COUNTRIES SECTION -->
 		<div class="g5a_1 last footernav-section">
 			<div class="alignleft">
 				<strong class="footernav-section-heading">COUNTRIES</strong><br>
                 <div class="inline-block margin10right">
-                    <a class="footernav-link" href="//www.pof.com.br">POF Brasil</a><br>
-				    <a class="footernav-link" href="//www.pof.fr">POF France</a><br>
-				    <a class="footernav-link" href="//www.pof.es">POF Spain</a><br>
-				    <a class="footernav-link" href="//www.pof.de">POF Germany</a><br>
+                    <a class="footernav-link" href="//br.pof.com">POF Brasil</a><br>
+				    <a class="footernav-link" href="//fr.pof.com">POF France</a><br>
+				    <a class="footernav-link" href="//es.pof.com">POF Spain</a><br>
+				    <a class="footernav-link" href="//de.pof.com">POF Germany</a><br>
 				    <a class="footernav-link" href="//it.pof.com">POF Italy</a><br>
                 </div>
 				<div class="inline-block aligntop">
                     <a class="footernav-link" href="//dk.pof.com">POF Denmark</a><br>
 				    <a class="footernav-link" href="//nl.pof.com">POF Netherlands</a><br>
 				    <a class="footernav-link" href="//se.pof.com">POF Sweden</a><br>
-				    <a class="footernav-link" href="//mx.pof.com">POF Mexico</a>
+				    <a class="footernav-link" href="//mx.pof.com">POF Mexico</a><br>
+					<a class="footernav-link" href="//ca.pof.com">POF Canada</a>
 				</div>
 			</div>
         </div>
@@ -1039,66 +1199,77 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="clear"></div>
 	<div id="copyright">
 		<p class="copyright-message">
-			Copyright 2001-2018 Plentyoffish Media ULC
+			Copyright 2001-2019 Plentyoffish Media ULC
             POF, PLENTYOFFISH, PLENTY OF FISH and PLENTY OF are registered trademarks of Plentyoffish Media ULC
 		</p>
 	</div>
 </div>
 
+
+
+
 <style type="text/css">
-    #cookie-policy-banner {
-        width: 100%;
-        background-color: #323232;
-        position: fixed;
-        bottom: 0;
-        color: #ffffff;
-        z-index: 10001;
-    }
-    #cookie-policy-banner #contents{
-        width: 978px;
-        margin: 0 auto;
-        padding: 20px 0px;
-        text-align:left;
-    }
-    #cookie-policy-banner #text-area {
-        width: 913px;
-        font-size: 15px;
-        display: inline-block;
-        text-align: left;
-        padding-right:37px;
-    }
-    #cookie-policy-banner #text-area a{
-        color: #ffffff;
-        text-decoration: underline;
-    }
-    #cookie-policy-banner #contents img {
-        width: 28px;
-        height: 28px;
-        position: absolute;
-        top: 50%;
-        transform: translateY(-50%);
-        cursor: pointer;
+    .optanon-alert-box-wrapper {
+        position: relative;
     }
 </style>
 
-<div id="cookie-policy-banner">
-    <div id="contents">
-        <div id="text-area">
-            POF uses cookies to measure site performance and usage, provide you with advertising tailored to your interests, and enable social platform features such as share buttons. For more information and guidance on how to adjust your cookie settings, <a href="/cookiepolicy.aspx?api=1&amp;dt=1">click here</a>.
-        </div>
-        <img id="close-button" class="inline-block" src="/images/icons/dw-cookies-banner-close.png">
-    </div>
-</div>
 
-<script type="text/javascript">
-    var data = window.sessionStorage.getItem('cookieBannerClosed');
-    if (data != null && data == "true") document.getElementById("cookie-policy-banner").style.visibility = "hidden";
+    <style type="text/css">
+        #cookie-policy-banner {
+            display: none;
+            width: 100%;
+            background-color: #323232;
+            color: #ffffff;
+            z-index: 10001;
+        }
 
-    document.getElementById("close-button").onclick = function () {
-        document.getElementById("cookie-policy-banner").style.visibility = "hidden";
-        window.sessionStorage.setItem('cookieBannerClosed', 'true');
-    };
-</script><form id="anti-forgery-request-form"><input name="__RequestVerificationToken" type="hidden" value="Ri3c8iGa9nLvc7e1DidoHPkW5LMlA6_gqdcg7HRdkxiMAW9iQuTNX8aYBr1H8yQB8IjQCuy3ZUMhfXzYEq1EvByBJ1Z8LirzRAtNE8DynsKu-PF6X0r56omwDHg947WkYpYZdK0GtG_39X7HHo12x6XjXCUcZmvjNVJrzaRUGko1"></form>
+            #cookie-policy-banner #contents {
+                width: 978px;
+                margin: 0 auto;
+                padding: 20px 0px;
+                text-align: left;
+            }
+
+            #cookie-policy-banner #text-area {
+                width: 913px;
+                font-size: 15px;
+                display: inline-block;
+                text-align: left;
+                padding-right: 37px;
+            }
+
+                #cookie-policy-banner #text-area a {
+                    color: #ffffff;
+                    text-decoration: underline;
+                }
+
+            #cookie-policy-banner #contents img {
+                width: 21px;
+                height: 21px;
+                cursor: pointer;
+            }
+    </style>
+    <script type="text/javascript">
+        var cookieBannerHTML = '<div id="cookie-policy-banner"><div id="contents"><div id="text-area">By browsing this website, you agree to the use of cookies to measure usage statistics, to provide you with offers and advertising tailored to your interests, and to enable interactive social platform features such as share buttons.</div><img id="close-button" class="inline-block" src="/images/icons/dw-cookies-banner-close.png" /></div></div>';
+        document.body.insertAdjacentHTML('afterbegin', cookieBannerHTML);
+
+        var cookieBannerSeen = false;
+        if (document.cookie.split(';').filter(function (item) {
+            return item.indexOf('cookieBannerSeen=') >= 0
+        }).length) {
+            cookieBannerSeen = true;
+        } else {
+            document.cookie = "cookieBannerSeen=true; path=/; expires=Fri, 31 Dec 9999 23:59:59 GMT"
+        }
+
+        if (!cookieBannerSeen) document.getElementById("cookie-policy-banner").style.display = "block";
+
+        document.getElementById("close-button").onclick = function () {
+            document.getElementById("cookie-policy-banner").style.display = "none";
+        };
+    </script>
+<form id="anti-forgery-request-form"><input name="__RequestVerificationToken" type="hidden" value="h-JiN2H5vvsrttqUACotHrV_DCYbQmmLB0979fFNg-SncXurYA9rnYNuo5O6l1Gx9g0g-C7s2GE8NfMjvhqq5XEcO4fDqEz7P7f0VcT8UN1wIpEVEJlmn0TUTTvIYHe5nmVbsLdhGmuk7p7ZNZ0YVyYHMZY_DmlJSZx1ozs1up81"></form>
 
 <script type="text/javascript">
     window.pof = window.pof || {};
@@ -1107,4 +1278,4 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
     
-</div></div></body></html>
+</div></body></html>
