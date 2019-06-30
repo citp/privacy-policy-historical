@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briefnews.eu privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228230952id_/http%3A//briefnews.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briefnews.eu privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630035841id_/http%3A//briefnews.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brief News
 
