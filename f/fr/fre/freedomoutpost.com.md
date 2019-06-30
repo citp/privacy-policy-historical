@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the freedomoutpost.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230060914id_/https%3A//freedomoutpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomoutpost.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630054546id_/https%3A//freedomoutpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Freedom Outpost
+
+[ ](https://freedomoutpost.com/)
+
+* * *
 
 If you require additional information or have any questions about our privacy policy, please feel free to contact us [here](https://web.archive.org/contact/).
 
