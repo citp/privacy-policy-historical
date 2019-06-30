@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the epilepsy.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225224838id_/https%3A//www.epilepsy.com/connect/terms-use-disclaimer-warranties-and-liabilities) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epilepsy.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630120939id_/https%3A//www.epilepsy.com/connect/terms-use-disclaimer-warranties-and-liabilities) for the most accurate reproduction.*
 
 # Terms of Use, Disclaimer for Warranties and Liabilities | Epilepsy Foundation
 
 ## Epilepsy Foundation Legal Notices
 
-Copyright ©1996-2018 Epilepsy Foundation of America, Inc. Landover, MD. All rights reserved.
+Copyright ©1996-2019 Epilepsy Foundation of America, Inc. Landover, MD. All rights reserved.
 
 The information available on epilepsy.com is the property of the Epilepsy Foundation and is protected by copyright and other intellectual property laws. The names “Epilepsy Foundation”, “Epilepsy Foundation of America”, the “National Walk for Epilepsy”, and the Epilepsy Foundation’s logos are federally registered trademarks of the Epilepsy Foundation of America. No trademarks of the Epilepsy Foundation, including those that are federally registered and others, shall be used by anyone for any purpose without the express, written consent of the Epilepsy Foundation.
 
