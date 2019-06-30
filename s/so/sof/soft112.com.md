@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft112.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130644id_/https%3A//www.soft112.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft112.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215053id_/https%3A//www.soft112.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for soft112.com
 
@@ -6,7 +6,7 @@ PRIVACY POLICY
 
 Effective date: May 22, 2018
 
-Softland SRL ("us", "we", or "our") operates the http://www.Soft112.com/ website (the "Website").
+Softland SRL ("us", "we", or "our") operates the http://www.soft112.com/ website (the "Website").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Services and the choices you have associated with that data.
 
