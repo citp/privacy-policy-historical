@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230072209id_/https%3A//psychcentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220849id_/https%3A//psychcentral.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About Us - Psych Central
 
 ### The Short Version
 
-You can register for our website if you want to join one of our [online communities](https://forums.psychcentral.com/), save your [psychology quiz](https://psychcentral.com/quizzes/) results, or take the [Sanity Score](https://sanity.psychcentral.com/). If you do so, we obtain some additional information about you, like your email address. When you have an account with us, we also use cookies to help secure and personalize that account.
+You can register for our website if you want to join one of our [online communities](https://psychcentralforums.com/), save your [psychology quiz](https://psychcentral.com/quizzes/) results, or take the [Sanity Score](https://sanity.psychcentral.com/). If you do so, we obtain some additional information about you, like your email address. When you have an account with us, we also use cookies to help secure and personalize that account.
 
-We do not share any of the personally identifiable information you voluntarily provide to us with any third-party for any reason whatsoever. We would do so only if we were legally obligated to do so, and then we’d notify you if that was the case. (We’ve never had to do so yet.)
+We do not share any of the personally identifiable information you voluntarily provide to us with any third-party for any reason whatsoever. We would do so only if we were legally obligated to do so, and then we’d notify you if that was the case. (We’ve never had to do so yet.) We may use personally identifiable information in order to administer and provide administrative oversight to our website and online communities.
 
 Like every website online, we collect anonymous information about your browsing behaviors on our site (but not in a personally-identifiable way). Such information is aggregated for statistical analyses (e.g., what are our most popular pages) and used for research purposes.
 
@@ -45,6 +45,7 @@ In order to provide additional services, however, we may collect the following t
   *  **Advertising services** – Psych Central may use its own internal ad server or a reputable third party to present or serve website advertisements. These internal or third party ad services may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness.
   *  **Links** – Psych Central may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.
   *  **Other sites** – This Privacy Policy applies to websites and services that are owned and operated by Psych Central. We do not exercise control over the sites displayed as external links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+  *  **Under 13** – We will not knowingly collect, use, or distribute personal information from children under the age of 13 without prior verifiable consent from a parent or guardian.
 
 
 
@@ -52,6 +53,7 @@ Psych Central only processes personal information for the purposes described in 
 
   * Providing our products and services to users, including the display of customized content and advertising;
   * Auditing, research and analysis in order to maintain, protect and improve our services;
+  * Protection and monitoring of our community of users and upholding those protections as spelled out in our Community Guidelines;
   * Ensuring the technical functioning of our network; and
   * Developing new services.
 
@@ -73,7 +75,7 @@ Psych Central only shares personal information with other companies or individua
 
   * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
   * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Psych Central, its users or the public as required or permitted by law.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Psych Central, its users or the public as required or permitted by law.
 
 
 
