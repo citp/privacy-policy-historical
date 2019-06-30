@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fooducate.com privacy policy that was archived on 2018-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181224022709id_/http%3A//www.fooducate.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fooducate.com privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630171951id_/http%3A//www.fooducate.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" class=" async-hide"><head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
@@ -29,10 +29,10 @@
 
 <!-- styles -->
 <!--<link type="text/css" rel="stylesheet" href="/resources/lib/bootstrap/css/bootstrap.min.css?--><!--">-->
-<link type="text/css" rel="stylesheet" href="/resources/lib/bootstrap/css/bootstrap-fdct-2.css?2.90">
-<!--<link type="text/css" rel="stylesheet" href="/resources/css/jquery.guillotine.css?2.90">-->
+<link type="text/css" rel="stylesheet" href="/resources/lib/bootstrap/css/bootstrap-fdct-2.css?3.04">
+<!--<link type="text/css" rel="stylesheet" href="/resources/css/jquery.guillotine.css?3.04">-->
 
-    <link type="text/css" rel="stylesheet" href="/cache/css/2.90.css">
+    <link type="text/css" rel="stylesheet" href="/cache/css/3.04.css">
 
 <!--[if lte IE 8]>
 <link rel="stylesheet" type="text/css" href="/resources/css/all/all-ie8.css"/>
@@ -58,7 +58,7 @@
 <meta name="msapplication-config" content="/resources/images/app-icons/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 <link rel="icon" href="/resources/images/app-icons/favicon.svg" sizes="any" type="image/svg+xml">
-<link rel="manifest" href="/cache/etc/manifest.2.90.json">
+<link rel="manifest" href="/cache/etc/manifest.3.04.json">
 
     <!-- js library scripts -->
 
@@ -72,7 +72,7 @@
     // Setting js values that already calculated by the server and are used by client side
     var FDCT = {
         serverData: {
-            version: '2.90' /*For client requesting resources in ajax style (such as ui template files)*/,
+            version: '3.04' /*For client requesting resources in ajax style (such as ui template files)*/,
             email: 'support@fooducate.com',
             mediaCdn: 'https://media.fooducate.com/',
             isHomePage: false,
@@ -82,7 +82,7 @@
             externalSignInDetails: {
                 facebook: {
                     appId: '115868801782608',
-                    scope: 'email,publish_actions'
+                    scope: 'email'
                 },
                 googlePlus: {} // Google Plus sign in doesn't need login details at client side
             },
@@ -240,13 +240,13 @@ ga('require', 'GTM-P3P5TQC');
                                         <a class="nav-option browse" href="/browse">Browse</a>
                                     </li>
                                                             <li>
-                                        <a class="nav-option community" href="https://www.fooducate.com/app#!page=community">Community</a>
+                                        <a class="nav-option community" href="/community">Community</a>
                                     </li>
                                                             <li>
-                                        <a class="nav-option recipes" href="https://www.fooducate.com/app#!page=recipes">Recipes</a>
+                                        <a class="nav-option recipes" href="/recipes">Recipes</a>
                                     </li>
                                                             <li>
-                                        <a class="nav-option dailyTip" href="https://www.fooducate.com/app#!page=daily-tip">Diet Tips</a>
+                                        <a class="nav-option dailyTip" href="/daily-tip">Diet Tips</a>
                                     </li>
                         
                     </ul>
@@ -414,21 +414,24 @@ ga('require', 'GTM-P3P5TQC');
                                 <a href="/advisory">Advisory Board</a>
                             </li>
                                                 <li>
-                                <a href="https://www.fooducate.com/app#!page=daily-tip">Diet Tips</a>
+                                <a href="/daily-tip">Diet Tips</a>
                             </li>
                                                 <li>
                                 <a href="/faq">FAQ</a>
                             </li>
-                                                    </ul>
-                                <ul>
                                                 <li>
                                 <a href="/contact">Contact</a>
                             </li>
+                                                    </ul>
+                                <ul>
                                                 <li>
                                 <a href="/advertising">Advertising</a>
                             </li>
                                                 <li>
-                                <a href="/terms">Terms of Service</a>
+                                <a href="/terms">Terms</a>
+                            </li>
+                                                <li>
+                                <a href="/guidelines">Community Guidelines</a>
                             </li>
                                                 <li>
                                 <a href="/disclaimer">Disclaimer</a>
@@ -442,7 +445,7 @@ ga('require', 'GTM-P3P5TQC');
     </nav>
     <div class="container">
         <div class="rights">
-            © 2010-2018 Fooducate LTD. All rights reserved by Fooducate and its data providers.<br>All marks, brands and names belong to the respective companies and manufacturers and are used solely to identify the companies and products.
+            © 2010-2019 Fooducate LTD. All rights reserved by Fooducate and its data providers.<br>All marks, brands and names belong to the respective companies and manufacturers and are used solely to identify the companies and products.
         </div>
     </div>
 </footer>
@@ -1141,7 +1144,7 @@ qacct:"p-32ZpecpmHav_Y"
 			<div class="panel-heading">
 				<h1 class="panel-title">
 					{{if post}}
-						{{if isStaff}}Diet Tidbit{{else}}Community{{/if}}
+						{{if isStaff}}Diet Tip{{else}}Community{{/if}}
 					{{else}}
 						Discussion not found
 					{{/if}}
@@ -1165,7 +1168,7 @@ qacct:"p-32ZpecpmHav_Y"
 									{{/if}}
 									<div class="vcenter">
 										<div class="user-nick">${userNick}</div>
-										<div class="date">${FDCT.DateFormatter.formatRelative(time)}</div>
+										<div class="date">{{if isUpdated}}Updated: {{/if}}${FDCT.DateFormatter.formatRelative(time)}</div>
 									</div>
 								</div>
 								<div class="content clearfix">
@@ -1284,7 +1287,7 @@ qacct:"p-32ZpecpmHav_Y"
 	<div class="container">
 		<div class="panel panel-default">
 			<div class="panel-heading">
-				<h1 class="panel-title">Diet Tidbit</h1>
+				<h1 class="panel-title">Diet Tip</h1>
 			</div>
 			<div class="panel-body">
 			</div>
@@ -1532,7 +1535,7 @@ qacct:"p-32ZpecpmHav_Y"
                             <button type="submit"></button>
                         </form>                    
                         <span>or</span>
-                        <a href="/browse" id="browse-btn" class="browse-btn-welcome">Browse Food</a>
+                        <span><a href="/browse" id="browse-btn" class="browse-btn-welcome">Browse Food</a></span>
                     </div>
                     
                 </div>
@@ -1680,7 +1683,8 @@ qacct:"p-32ZpecpmHav_Y"
 							<h1 class="name">${name}</h1>
 							<div class="row">
 								<div class="grade-col col-sm-3 col-xs-5 vbottom">
-									{{html gradeIconHtml}}
+									<div>{{html gradeIconHtml}}</div>
+									<div class="grade-why"><a href="#">Why?</a></div>
 								</div>
 								<div class="calories-col col-sm-6 pull-right-xs vbottom">
 									{{html caloriesHtml}}
@@ -2629,7 +2633,7 @@ qacct:"p-32ZpecpmHav_Y"
 	</div>
 </div></script>
 	
-    <script src="/cache/js/2.90.js"></script>
+    <script src="/cache/js/3.04.js"></script>
 	
 	
 <script>
