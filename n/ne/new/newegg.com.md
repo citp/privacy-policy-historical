@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230230111id_/https%3A//kb.newegg.com/Article/Index/12/3%3Fid%3D1166) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630105342id_/https%3A//kb.newegg.com/Article/Index/12/3%3Fid%3D1166) for the most accurate reproduction.*
 
 # Privacy Policy – Newegg Knowledge Base
 
