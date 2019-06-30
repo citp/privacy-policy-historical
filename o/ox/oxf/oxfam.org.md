@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfam.org privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220103634id_/https%3A//www.oxfam.org/en/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfam.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630085155id_/https%3A//www.oxfam.org/en/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Oxfam International
 
@@ -70,19 +70,23 @@ Transfers of your data to other third parties outside the EEA, or to third parti
 
 ## Your data and social media
 
-When using our site, you have the ability to link through to certain social media sites such as Facebook, WhatsApp, Twitter or LinkedIn. Depending on your settings, and the privacy policies of these social media and messaging services, we may receive or match your personal data with these sites to show Oxfam content while these services are being used. To change your settings on these services, please refer to their privacy notices, which will tell you how to do this. 
+This section refers to the ability for you to like, re-tweet, share, etc. Oxfam International content on social media platforms, such as Facebook, Twitter, Instagram and YouTube. Additionally, when using our website, you can link through to such social media sites. When you do this, depending on your privacy settings, these networks will adjust their marketing to show you more Oxfam and/or Oxfam-type content.  To change your settings on these services, please refer to their privacy notices, which will tell you how to do this.
 
 ## Children’s data
 
 Our website is not intended for use by children and we do not knowingly collect data on children.
 
+## Oxfam and social media
+
+Many social media sites provide, or permit, tools that aggregate and highlight content that appears on their site. Oxfam International uses such tools to analyse and assess the success of Oxfam campaigns and communications, the level of interest in issues Oxfam cares about, and the level of social media activity resulting from media stories about Oxfam or Oxfam/NGO activities. We use the native reporting tools of the social media networks, but may also use third-party tools.  Oxfam uses such tools to respond directly to other users’ queries and comments related to Oxfam.
+
 ## How do we protect your data
 
-We ensure that there are appropriate technical controls in place to protect your personal details.  For example, our online forms are always encrypted and our network is protected and routinely monitored. 
+We ensure that there are appropriate technical controls in place to protect your personal details. For example, our online forms are always encrypted and our network is protected and routinely monitored.
 
 We undertake regular reviews of who has access to information that we hold to ensure that your information is only accessible by appropriately trained staff, volunteers and contractors.
 
-If we use external companies to collect or process personal data on our behalf, we put a contract in place that sets out our expectations and requirements in relation to security of the data they access or process.
+Where we use external companies to collect or process personal data on our behalf, we put a contract in place that sets out our expectations and requirements in relation to security of the data they access or process.  These organizations - referred to as "Data Processors" also have legal liability for the way in which your data is used, providing you with additional protection.
 
 ## How long do we keep your data
 
@@ -114,4 +118,4 @@ Email: [info@oxfaminternational.org](mailto:info@oxfaminternational.org)
 ICO Registration Number (UK): Z8133290  
  
 
- **This Privacy Policy was last updated on 24th May   2018.**
+ **This Privacy Policy was last updated on 5th June 2019.**
