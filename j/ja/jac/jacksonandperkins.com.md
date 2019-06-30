@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927023459id_/http%3A//www.jacksonandperkins.com/privacy-policy/a/534) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630055214id_/https%3A//www.jacksonandperkins.com/privacy-policy/a/534) for the most accurate reproduction.*
 
-# Privacy Policy | Jackson and Perkins
+# Privacy Policy
 
 This website ("jacksonandperkins.com") is owned by JPPA, Inc. It is our policy to protect your personal information and to use it in accordance with this Privacy Policy. Please take a few moments to review our Privacy Policy.
 
@@ -24,11 +24,15 @@ The jacksonandperkins.com optional on-line survey generally asks for demographic
 
 Jackson & Perkins may provide links on jacksonandperkins.com to other sites of interest. Jackson & Perkins does not review or endorse the content of these sites or guarantee that they will abide by this Privacy Policy. Your use of such linked sites is subject to the terms and conditions and privacy policies of the providers of those sites. We encourage our users to be aware when they leave our website and to read the privacy statements of each website that collects identifying information. 
 
-Please note that your use of the jacksonandperkins.com website and services is subject to jacksonandperkins.com's [Terms and Conditions.](http://www.jacksonandperkins.com/540/a/540)
+Please note that your use of the jacksonandperkins.com website and services is subject to jacksonandperkins.com's [Terms and Conditions.](https://www.jacksonandperkins.com/540/a/540)
 
 **Sharing Your Information**
 
-Jackson & Perkins recognizes that gardeners may want products other than the high-quality roses, plants, bulbs, and accessories that we offer. Therefore, from time to time, Jackson & Perkins may make customer information available to other reputable companies whose products or services we think you might find interesting. Please remember that, although Jackson & Perkins endeavors to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. If you do not want to share your information with such other companies, call us toll free at 1-800-292-4769 (or for local calls use 1-864-330-2029) to speak to a customer service representative, email us at [info@jacksonandperkins.com](mailto:info@jacksonandperkins.com), or send a postcard to: Mailing Address Don't Share, Jackson & Perkins Company, 2 Floral Avenue, Hodges, SC 29653. Be sure to include your own mailing address on your postcard or email. 
+Jackson & Perkins recognizes that gardeners may want products other than the high-quality roses, plants, bulbs, and accessories that we offer. Therefore, from time to time, Jackson & Perkins may make customer information available to other reputable companies whose products or services we think you might find interesting. Please remember that, although Jackson & Perkins endeavors to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. 
+
+Jackson & Perkins may also from time to time contract with third party vendors to provide ads to our customers via the Internet or to send direct mail or catalogs to customers whom we think may be interested in our products or services. In order to do so, such vendor may collect anonymous information about your visits to our website using a “cookie”. A cookie is a small piece of data that is sent to your browser or mobile device by websites, mobile apps, and advertisements that you access or use. This data is stored on your browser or mobile device and helps website and mobile apps to remember things about you to improve your experience with the website. Third-party vendors may then pool the anonymous information that they collect from this website with other sources of information, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail or a catalog. If you do not wish for cookies to be placed on your computer, most web browsers permit you to prevent that from taking place. However, please keep in mind that these technologies are an important part of how the website works; removing, rejecting or limiting the use of cookies or other similar technologies might affect the availability and functionality of the website. 
+
+If you do not want to share your information with such other companies, call us toll free at 1-800-292-4769 (or for local calls use 1-864-330-2029) to speak to a customer service representative, email us at [info@jacksonandperkins.com](mailto:info@jacksonandperkins.com), or send a postcard to: Mailing Address Don't Share, Jackson & Perkins Company, 2 Floral Avenue, Hodges, SC 29653. Be sure to include your own mailing address on your postcard or email. 
 
 **Other Uses of Information**
 
