@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernsurvivalblog.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224210350id_/https%3A//modernsurvivalblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernsurvivalblog.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630174555id_/https%3A//modernsurvivalblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,13 @@ Our website address is: https://modernsurvivalblog.com.
 
 ## What personal data we collect and why we collect it
 
+(referenced in the following sections)
+
 ### Comments
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+
+This site uses Akismet to reduce comment spam. The information Akismet collects depends on how the User sets up Akismet for the Site, but typically includes the commenter’s IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself).
 
 ### Contact forms
 
@@ -18,7 +22,7 @@ We use a contact form on this site to enable contact submission to our email add
 
 ### Cookies
 
-If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. This is for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
 ### Analytics
 
@@ -36,7 +40,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 ## How long we retain your data
 
-If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+If you leave a comment, the comment and its metadata may be retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
 ## What rights you have over your data
 
