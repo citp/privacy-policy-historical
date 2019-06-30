@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nbahooptroop.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231115446id_/http%3A//www.nba.com/news/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbahooptroop.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630161337id_/http%3A//www.nba.com/news/privacy_policy.html) for the most accurate reproduction.*
 
 # NBA Privacy Policy | NBA.com
 
-#### **NBA Privacy Policy**
+####   **NBA Privacy Policy**
 
  **Last Updated: May 2018 |[What's New?](http://www.nba.com/privacy-policy/new)**
 
@@ -13,14 +13,15 @@
   3. How We Use Data
   4. How We Share and Disclose Data
   5. What Choices You Have
-  6. [Cookies and Similar Technologies](http://www.nba.com/news/privacy_policy.html#Cookies)
+  6. Cookies and Similar Technologies
   7. Security of Data
   8. Third Party Sites and Sections
   9. Children and Parents
   10. Storing Data
   11. European Privacy Rights
-  12. Changes to This Privacy Policy
-  13. [How to Contact Us](http://www.nba.com/news/privacy_policy.html#Contact_Us)
+  12. NBA Text Marketing Terms & Conditions
+  13. Changes to This Privacy Policy
+  14. How to Contact Us
 
 
 
@@ -34,7 +35,7 @@ By using any of the Services, you consent to the terms of this Policy.
 
 [Return to Top](http://www.nba.com/news/privacy_policy.html#Top)
 
- **  2\. Data That We Collect and Receive**
+  **  2\. Data That We Collect and Receive**
 
 When you interact with us through the Services, we may collect data from you or from other sources.  This “data” may be information that you directly provide to us, such as personal information you provide when you visit the Services, or information that is passively or automatically collected from you, such as anonymous information collected from your browser or device.
 
@@ -193,16 +194,15 @@ It is important to remember that no system can be guaranteed to be 100% secure.�
 
 Return to Top
 
- **  8\. Third Party Sites and Sections**
+  **  8\. Third Party Sites and Sections**
 
 We work with a number of third parties to operate the Services.  When we engage third parties in connection with operating the Services, those third parties may only collect, use or access your data as needed for them to perform these functions.  These third parties include:
 
-  *  **NBA.com and other digital platforms.**   We have engaged Turner Digital Basketball Services, Inc. (“Turner”), including one or more of its affiliates, to operate the NBA.com website, mobile site and other digital platforms in the United States.  The list of Turner affiliates that may receive access to your data includes Bleacher Report Inc., Cable News International, Inc., Cable News Network, Inc., Cartoon Interactive Group, Inc., Cartoon Network Enterprises, Inc., CNE Tours, Inc, CNN Interactive Group, Inc., Court TV Digital LLC, Courtroom Television Network LLC, Great Big Story LLC, Retro, Inc., Superstation, Inc., TBS Interactive Group, Inc., TCM Interactive Group, Inc., The Cartoon Network, Inc., TNT Interactive Group, Inc., TNT Originals, Inc., Turner Broadcasting Sales, Inc., Turner Classic Movies, Inc., Turner Digital Basketball Services, Inc., Turner Digital Entertainment, LLC, Turner Entertainment Networks, Inc., Turner Festivals, Inc., Turner Media Ventures, Inc., Turner Network Sales, Inc., Turner Network Television, Inc., Turner Pages, Inc., Turner Sports Interactive, Inc., Turner Sports, Inc., Warner Bros. Entertainment, Inc., Home Box Office, Inc., and Time Warner, Inc.  Turner is a participant in the online self-regulatory program administered by the DAA and has agreed to adhere to the DAA’s principles applicable to interest-based advertisements.  For more information about the DAA and other choices you have with respect to interest-based advertisements, please visit the “[Cookies and Similar Technologies](http://www.nba.com/news/privacy_policy.html#Cookies)” section of this Policy.  
- 
+  *  **NBA.com and other digital platforms.**   We have engaged Turner Digital Basketball Services, Inc. (“Turner”), including one or more of its affiliates, to operate the NBA.com website, mobile site and other digital platforms in the United States.  A representative list of Turner affiliates that may receive access to your data is available at: <https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English>. This list may be updated from time-to-time, so please check back periodically to keep up-to-date.  Turner is a participant in the online self-regulatory program administered by the DAA and has agreed to adhere to the DAA’s principles applicable to interest-based advertisements.  For more information about the DAA and other choices you have with respect to interest-based advertisements, please visit the “[Cookies and Similar Technologies](http://www.nba.com/news/privacy_policy.html#Cookies)” section of this Policy.
   *  **NBA Local Destinations**.  We have engaged partners in certain regions to operate localized NBA-focused websites (“NBA Local Destinations”).  As of the date on which this Policy was last updated, our NBA Local Destination operators are:
 
 
-  * 24Media Ltd. in Greece and Cyprus, available at: [nba.sport24.gr](https://web.archive.org/web/20181231115446id_/http%3A//www.nba.com/news/nba.sport24.gr)  
+  * 24Media Ltd. in Greece and Cyprus, available at: [nba.sport24.gr](https://web.archive.org/web/20190630161337id_/http%3A//www.nba.com/news/nba.sport24.gr)  
  
   * ABS-CBN Corporation in the Philippines, available at: <https://sports.abs-cbn.com/nba>  
  
@@ -299,13 +299,23 @@ You may contact NBAP using any of the methods described in the “How to Contact
 
 Return to Top
 
-  **12\. Changes to This Privacy Policy**
+  **12\. NBA Text Message Marketing Terms & Conditions**
+
+If you have subscribed to NBA’s SMS text alerts by sending ALLSTAR to NBA365 via SMS text, you will receive up to eight automated SMS / MMS text alerts from NBA a month. Depending on the terms of your contract with your mobile telecommunications service provider, message and data rates may apply. By confirming with Y to receive these text messages you understand that these text messages will be sent using an automated dialing system. Your consent of receiving these text messages is not required for purchasing any goods or services from the NBA.
+
+  If at any time you want to stop receiving SMS text alerts from the NBA, please send STOP to NBA365  via SMS text or call the NBA’s customer service department at 1 (844) 622-8550.
+
+  For help with NBA SMS text alerts, please send HELP to NBA365 via SMS text, or contact the NBA’S customer service department at 1 (844) 622-8550.
+
+Return to Top
+
+  **13\. Changes to This Privacy Policy**
 
 We may change this Policy from time to time to reflect changes in our business, the Services, or our practices and procedures.  If we do make changes, we will post any changes on this page and indicate the date on which the Policy was last revised.  We encourage you to review this Policy periodically, especially before you provide personal data directly to us through the Services.  Your continued use of the Services after any changes to this Policy are in effect constitutes your acceptance of the revised Policy.
 
 Return to Top
 
- ** 13\. How to Contact Us**
+ ** 14\. How to Contact Us**
 
 Although we strive to make this Policy as comprehensive as possible, we know you may still have questions or concerns about how we collect, use and share data.  If you have a question, concern or complaint regarding our data privacy practices, you may contact us by any of the following methods:
 
