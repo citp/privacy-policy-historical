@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniclip.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231225354id_/https%3A//www.miniclip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniclip.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224545id_/https%3A//www.miniclip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Miniclip, Play Games
 
@@ -6,9 +6,7 @@
 
 ### (For War Wings players, please refer specifically to the War Wings Privacy Policy)
 
-### (For Snake Wars players, please refer specifically to the Snake Wars Privacy Policy)
-
-Last updated: 5 October 2018. Please check back regularly to keep informed of updates to this Privacy Policy.
+Last updated: 11 March 2019. Please check back regularly to keep informed of updates to this Privacy Policy.
 
 **KEY POINTS:**
 
@@ -62,7 +60,7 @@ This Privacy Policy governs the collection, storage and use of personal informat
 
 ### Third party sites
 
-Please note that the Services may contain links to websites or other services owned and operated by third parties. We do not endorse any such third-party services. We are not responsible or liable for anything that happens to you when you visit or use these services. Miniclip strongly recommends that you review the privacy policies and cookie usage of these third parties.
+Please note that the Services may contain or incorporate links to websites or other services owned and operated by third parties. We do not endorse any such third-party services. We are not responsible or liable for anything that happens to you when you visit or use these services. Miniclip strongly recommends that you review the privacy policies and cookie usage of these third parties.
 
 ### What data does Miniclip collect from you?
 
@@ -536,245 +534,6 @@ If you are not satisfied with the way your query or complaint is handled by Mini
 
 If you are still unhappy, you may refer your complaint to your local data protection regulator. For example, in the United Kingdom this is the Information Commissioner’s Office and in Switzerland it is the Federal Data Protection and Information Commissioner (FDPIC).
 
-## SNAKE WARS PRIVACY POLICY
-
-Last updated: Last updated: 18 July 2018.
-
-If we make any changes to this policy, we will post them here. Please check back regularly to keep informed of updates to this Privacy Policy.
-
-**KEY POINTS:**
-
-  * Miniclip SA and Sixjoy Hong Kong Limited are joint controllers of most data processed through your use of the game.
-  * The type and nature of the data includes username, social media registration information, data relating to your use of the services including game stats, posts, log in, traffic data, data relating to the device you use to access the services.
-  * We use your data to provide and personalise the services, respond to queries and monitor use of our services.
-  * Miniclip may send you marketing materials relating to the services that Miniclip thinks may be of interest to you which you can opt out of at any time. We don't sell your data to third parties for them to market to you.
-  * We may send you push notifications if you are using an app. You will be given an option to allow such notifications or not via your device or the website you are using. You can always use your device or browser settings to control these notifications.
-  * You have various rights in respect of our use of your personal information as set out in 'How do I erase or restrict or update my data?' and 'How do I get a copy of my data?'. Two of the key rights are that you may: 
-    * ask us to stop using your personal information for direct-marketing purposes. If you exercise this right, we will stop using your personal information for this purpose; and
-    * ask us to consider any valid objections which you have to our use of your personal information where we process your personal information on the basis of our, or another person's, legitimate interest.
-  * If you have any questions about this Privacy Policy or wish to request a copy of the data which we hold about you, please contact the Data Protection Officer of Miniclip SA, at [dataprotection@miniclip.com](mailto:dataprotection@miniclip.com) or alternatively you can send a letter to: Miniclip SA, Case Postale 2671, 2001 Neuchâtel, Switzerland or to Miniclip at Legal Department, Holborn Gate, 326-330 High Holborn, London WC1V 7PP. If you wish to contact Sixjoy, including to exercise any of the rights described in this Privacy Policy, please contact [snakewarsdpo@sixjoy.com](mailto:snakewarsdpo@sixjoy.com). 
-
-
-
-You can find information about us and how we collect, use and store your personal data in each section of this Privacy Policy:
-
-  * Who we are
-  * Third party sites
-  * What data do we collect from you?
-  * What do we do with this data and what is our legal basis for processing this data?
-  * Does Miniclip send marketing communications and how can I opt out?
-  * What do we do to protect data?
-  * How long do we keep hold of data?
-  * What data is shared with or accessed by third parties?
-  * Third party advertising companies
-  * Will data be transferred overseas?
-  * Children's privacy
-  * How do I erase or restrict or update my data?
-  * How do I get a copy of my data?
-  * How can I contact Miniclip?
-  * How can I contact Sixjoy?
-  * What can I do if I have a complaint?
-
-
-
-### Who we are
-
-Miniclip SA (a company registered in Switzerland (registration number CH-645-4103964-1), whose registered office is at Rue des Beaux-Arts 8, 2000, Neuchâtel, Switzerland)(“Miniclip”) and Sixjoy Hong Kong Limited (an affiliate of Miniclip SA), with its registered office address at Room 907, Wing Tuck Commercial Centre, 177-183 Wing Lok Street, Hong Kong (“Sixjoy”), are (except where otherwise stated in this policy) joint data controllers of the personal information that we collect from you in the mobile game promoted as “SNAKE WARS”.
-
-Miniclip, Sixjoy and their affiliated group companies are referred to in this Privacy Policy as "us", "we" or "our". A reference in this Privacy Policy to either “Miniclip” or “Sixjoy” is a reference to that specific entity.
-
-We are committed to providing fun and exciting digital entertainment. This Privacy Policy explains how and what personal data relating to you we may use in relation to the mobile game marketed as “SNAKE WARS” (the “Game”).
-
-This Privacy Policy governs the collection, storage and use of personal information by us via the Game. It provides you with details about the personal information we collect from you, how we use your personal information, and your rights regarding the personal information we hold about you. Please read this Privacy Policy carefully.
-
-If you have any questions about this Privacy Policy, wish to exercise any of the rights described in this Privacy Policy, with respect to the Game, please at first instance contact the Data Protection Officer of Miniclip SA, at [dataprotection@miniclip.com](mailto:dataprotection@miniclip.com) or alternatively you can send a letter to: Miniclip SA, Case Postale 2671, 2001 Neuchâtel, Switzerland or to Miniclip at Legal Department, Holborn Gate, 326-330 High Holborn, London WC1V 7PP.
-
-If you wish to contact Sixjoy, including to exercise any of the rights described in this Privacy Policy, please contact [snakewarsdpo@sixjoy.com](mailto:snakewarsdpo@sixjoy.com).
-
-### Third party sites
-
-Please note that the Game may contain links to websites or other services owned and operated by third parties. We do not endorse any such third-party services. We are not responsible or liable for anything that happens to you when you visit or use these services. Miniclip strongly recommends that you review the privacy policies and cookie usage notices of these third parties.
-
-### What data do we collect from you?
-
-In this Privacy Policy, "data" means any personal data about you which could identify you (by itself or in combination with other data) such as your name, address, email address or an online identifier.
-
-We collect data about you in a number of different ways. In this section, we explain the different ways we collect personal data about you and the ways in which that information will be used. For more detail on how we use your data, please see the section titled "What do we do with this data?".
-
-Please see our [Cookie Policy](https://www.miniclip.com/cookie-policy#sw_cookies) for more information on the use of cookies and other tracking technologies on our Game.
-
-We will usually collect and store the following data, to the extent possible, about you when you access and use the Game:
-
-**Data you give us directly:**
-
-  * Registration Data (Non-Social Account): if you set up an account, we process your Nickname, Generated Player ID, device ID;
-  * Transaction Data: when you complete any in-app or in-game purchases, such as buying in-game currency and other items, we will collect data relating to your purchase history; and
-  * Support Data: we will collect information you provide to us if you raise a complaint, ask for technical support or report a problem with the Game, including Device ID, Player ID, app version, battery, WiFi strength, free space on device, OS version, network, platform, carrier and country.
-  * Email Marketing Data: we will collect your email address for the purposes of sending you marketing information, promotions and other offers over email (with your permission).
-
-
-
-**Data we collect when you use the Game (whether or not you register with us):**
-
-  * Device Data: data about your location, device type and model, operating system and version and platform; data about your device's browser version, network, and IP address and log data such as session duration.
-  * Game Data: data relating to your game statistics and progress, including Player ID, IP Address, game statistics, progress and purchase history.
-  * Analytics Data: data relating to your use of the Game, including Advertising ID and log data (session time, load time, server pings, actions, crash data).
-  * Advertising Data: third parties will collect, process, and use your data for the purpose of serving advertisements to you in the Game, including Advertising ID, IP address, information on your interaction with advertising, browsing history and technical information of your device.
-  * Registration Data (Social Media): where you are accessing the Game through Facebook, we will collect certain information relating to your account including Name, Facebook ID, gender, profile picture, friends list (if user voluntary requests this).
-
-
-
-### What do we do with this data and what is our legal basis for processing this data?
-
-**Use of data which is necessary to perform a contract**
-
-We collect, store and use certain data as it is necessary in order for us to provide you with access to the Game under the relevant terms and conditions of those Game. This includes:
-
-  * providing you with a consistent and personalised Service across different devices and platforms and parts of the Game, for example, ensuring that your progress is saved across devices and displaying your image to your social media contacts (for example, Facebook friends that also use the Game);
-  * to ensure that you are complying with our terms of use when you use the Game and taking any necessary action if you are not complying with our terms of use;
-
-
-
-This applies to the following data:
-
-  * Registration Data (Guest Account, Social Media)
-  * Transaction Data
-  * Support Data
-  * Chat Data
-  * Game Data
-
-
-
-**Use of data which is necessary for our legitimate interests**
-
-Sometimes, our use of your data is for purposes which are ancillary to the provision of the Game, or which are desirable in order to make them operate more effectively. In those circumstances, we believe we have a legitimate interest in handling your data, and do not believe that this storage and use of your data will be of particular concern to you. This applies to the following data: Device Data and Analytics Data.
-
-We use such data for our legitimate interests in the following ways:
-
-  * to detect and prevent fraud, hacking and/or cheating;
-  * to keep the Game secure;
-  * to customise the Game which is available to you;
-  * to improve the Game, for analysis and reporting purposes (this also includes using data to log any crashes in our provision of the Game, so we may report such interruptions (in this regard, we may use a third party to assist us));
-  * to serve you with non-targeted advertising in the Game;
-  * to understand your preferences and personalise your experience of the Game; and
-  * to send you push notifications with service-related information for the Game (which you can choose not to accept or turn off by visiting the settings section of your device and selecting the appropriate setting).
-
-
-
-**Data we use with your consent**
-
-Miniclip collects, stores and uses certain data if you have provided your consent. This applies to Email Marketing Data.
-
-Miniclip also allows third parties to collect, store, and use certain data if you have provided your consent. This applies to Advertising Data.
-
-For Email Marketing Data, Miniclip uses this information in order to send to you promotional offers and provide marketing for Game that Miniclip believes may be of interest to you (see below for details of Miniclip’s marketing communications). You can withdraw your consent at any point, which means you will no longer receive these marketing messages. Miniclip also uses your data to offer you other services which Miniclip thinks may be of interest to you by push notifications where you have given your consent or chosen not to opt-out.
-
-For Advertising Data, the third party advertising companies that Miniclip works with collect, use and store data about you with your consent when you access and use the Game, for the purpose of serving targeted advertisements (i.e. advertisements that are tailored to your preferences and interests) to you in the Game. For more details on Miniclip’s relationship with third party advertising companies and how you can manage your consents please see the section below titled Third party advertising companies.
-
-### Does Miniclip send marketing communications and how can I opt out?
-
-If you select “More Games” in Settings, you will be shown other games available from Miniclip. This is not targeted to any particular user.
-
-Miniclip may send you marketing communications in relation to their other services that Miniclip thinks may be of interest to you via email or push notification. These messages will only ever be in relation to other similar services of Miniclip. Miniclip does not provide your data to third parties so that they can send you direct marketing communications via email or push notification without first obtaining your consent. The advertising is not targeted to any specific user or category of user.
-
-You can opt-out of receiving any direct marketing communications that Miniclip (or any third party to whom Miniclip has disclosed your personal information with your consent) may send you by using the unsubscribe mechanism in those marketing emails, or, in relation to push notifications, by choosing not to accept them or by turning them off by visiting the settings on your device and selecting the appropriate setting.
-
-### What do we do to protect data?
-
-We have implemented appropriate physical, electronic and managerial security procedures to safeguard the data we process from loss, misuse, and alteration and to help prevent unauthorised access, maintain data security and to ensure that we correctly use the data we hold in accordance with the purposes for which we collected that data.
-
-We use industry-standard practices such as encryption, physically secured rooms, firewalls and password protection systems to safeguard the confidentiality of any personal information that we might collect from you. We also strive to limit access to your data to employees performing a legitimate business function which requires them to access and use your data in order to supply you with our Game. We review our security procedures periodically to consider appropriate new technology and updated methods to ensure we continue to protect your data.
-
-Whilst we will do our best to protect your data, the transmission of information by you to us over the internet is not completely secure and we cannot guarantee the security of data during its transfer over the Internet to us. Any such transmission is at your own risk. Once we have received your data, we will use the procedures and security features outlined in this section to try to prevent any unauthorised access.
-
-### How long do we keep hold of data?
-
-We will keep data only for as long as it is relevant and useful for the purpose for which it was originally collected and otherwise where required by law. This means that we will only retain your data for the minimum reasonable time period to allow us to provide the Game to you.
-
-To the extent you have a legal right to request deletion of your personal information, then upon receipt of a lawful, valid request from you to delete your personal information, we will inform you of the action that we have taken in response to such request within thirty (30) days.
-
-If you decide to delete an account you have with us, certain data does stay on our system for analytics, administrative purposes and to defend or bring any legal action. Please email us at [dataprotection@miniclip.com](mailto:dataprotection@miniclip.com) or [snakewarsdpo@sixjoy.com](mailto:snakewarsdpo@sixjoy.com) for information regarding retention periods.
-
-### What data is shared with or accessed by third parties?
-
-We will share your data with various third parties (including our affiliate companies in other countries) as follows:
-
-  * We use third parties to help us manage your information and the Game, such as our customer service and technical support provider, game developer and analytics services provider. These are companies who are authorised to process data on our behalf only as necessary to provide the relevant services to us and cannot use it for their own independent purposes.
-  * You may create a profile for certain Game which may be visible to other users. Other users can choose to add you as a friend. You can change your settings through the 'edit profile' function in our Game at any time.
-  * We or our third-party partners may disclose your personal data where we are required or permitted to do so by law or to protect or enforce our rights or the rights of any third party. We may also share your data with third parties to prevent fraud, abusive or unlawful behaviour or to demonstrate our compliance with other terms or laws.
-  * Miniclip or Sixjoy (as applicable) may disclose your information to third parties in connection with a purchase, transfer or sale of Miniclip or Sixjoy (as applicable).
-  * If you choose to access the Game through a third party platform such as Facebook or Vkontakte, then that third party may collect other information about you (including about your use of the Game) in accordance with its terms and own privacy policy and sometimes they share some data with us. They have their own privacy settings which you can access on that third party platform in order to change your preferences.
-
-
-
-We require any third parties processing your data on our behalf to process it in accordance with this Privacy Policy, your rights and our instructions.
-
-### Third party advertising companies
-
-This section relates to advertising that will be provided by third party advertising companies in the game.
-
-Miniclip wants to make sure that any advertising and marketing is relevant and interesting to you and our other customers.
-
-To achieve this, Miniclip uses third-party advertising and technology companies to serve advertisements and/or provide aggregated data to assist in serving advertisements when you visit or use the Game. This includes third party technology companies which collect data about you in order to build a profile of your preferences based on your activities when you use the Game. Miniclip also uses these companies to automatically collect data from you when you use the Game in order to help Miniclip identify any advertisements that are served to you and what you do after seeing those advertisements. In addition, Miniclip shares data with providers of web analytics tools, such as Google Analytics, which Miniclip uses to analyse your use of the Game. A list of the third party advertising and technology companies that we use, and links to their privacy information, is available here: List of advertising partners used in Miniclip's games.
-
-These third party advertising companies collect, store and use data by integrating cookies, tracking software and other software in the Game. The relevant data collected by these third parties includes Advertising ID, IP address, geo-location details, and technical information relating to your device.
-
-In some cases these third parties will also use the data that they collect for their own purposes, for example they may aggregate your data with other data they hold and use this to inform advertising related services provided to other clients. These third party advertising companies will only collect and use your data in the ways described above to show targeted advertising with your consent. You can control and withdraw your consent at any time by visiting the Game settings page. If you withdraw your consent then you will either see no advertising at all or the advertising that you see when you visit or use our Game will no longer be tailored to your preferences.
-
-Please see our [Cookies Policy](https://www.miniclip.com/cookie-policy#sw_cookies) for more information on the third party advertising companies which collect, use and store data about you, and the use of cookies and other tracking technologies on our Game.
-
-Miniclip will also share your data with social media or other similar platforms, so that you can see relevant content on that platform. For example, Miniclip will use the Facebook Custom Audiences service and share your email address in a protected format with Facebook so that Miniclip can: include you in a custom audience that Miniclip will serve relevant advertising content to on Facebook; or create an audience of other Facebook users based on the information in your Facebook profile. You can opt-out from Facebook Custom Audiences in your Facebook privacy settings.
-
-### Will data be transferred overseas?
-
-The data that we collect from you will be transferred to, and stored at, a destination outside of the UK or the European Economic Area (" **EEA** "): the People’s Republic of China. This transfer is required to host the Game, provide you with technical and customer support services and perform backups of your data.
-
-Please be aware that countries which are outside the European Economic Area may not offer the same level of data protection as the United Kingdom, although our collection, storage and use of your personal data will continue to be governed by this privacy policy. Transfers of data to Switzerland, however, are guaranteed to be afforded the same level of data protection as in the United Kingdom on the basis that Switzerland benefits from an adequacy finding from the European Commission.
-
-We will always ensure that any other such transfers of data are conducted in accordance with relevant laws in order to ensure adequate protection. Where we transfer data outside the European Economic Area, other than to Switzerland, we have put in place the following measures to ensure it is afforded appropriate protection: the European Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses), pursuant to Decision 2004/915/EC (in the case of transfers to a controller) and Decision 2010/87/EU (in the case of transfers to a processor).
-
-### Children's privacy
-
-The Game is not specifically targeted at persons under the age of 13. Children under the age of 13 must not use the Game for any purpose. If you are under the age of 16 and use the Game, certain functionality may be limited (for example, rewarded video will be restricted). Targeted advertising will also be automatically disabled for children under the age of 16.
-
-### How do I erase or restrict or update my data?
-
-If you no longer wish for us to use your data, please get in touch. Please note that this may affect the provision of the Game to you, for example, you may not be able to enter any competitions or make any in game purchases.
-
-You have the right to ask us to amend or update any of your data which is out of date or incorrect, or change the way we may use your data.
-
-You also have the right to ask us to delete any personal information which we are holding about you. You can also object to our processing of data about you, and we will consider any valid objections which you raise. In certain circumstances we may not be able to stop using your personal data but, if that is the case, we'll let you know and tell you why.
-
-If you wish to opt out of receiving any promotional emails or newsletters you can do so by clicking on the "unsubscribe here" link at the bottom of each email. To change or delete push notifications, visit the settings section on your device and select the appropriate setting, or change the settings on your browser if you are accessing any of our websites.
-
-If you wish to exercise any of the above rights, please get in touch with us by emailing [dataprotection@miniclip.com](mailto:dataprotection@miniclip.com) or [snakewarsdpo@sixjoy.com](mailto:snakewarsdpo@sixjoy.com).
-
-### How do I get a copy of my data?
-
-You have the right to ask us to provide you with copies of personal data that we hold about you at any time.
-
-Please contact Miniclip by emailing [dataprotection@miniclip.com](mailto:dataprotection@miniclip.com) or Sixjoy at [snakewarsdpo@sixjoy.com](mailto:snakewarsdpo@sixjoy.com).
-
-### How can I contact Miniclip?
-
-If you have any questions about this Privacy Policy or wish to request a copy of the data which we hold about you, at first instance please contact Miniclip’s Data Protection Officer, at [dataprotection@miniclip.com](mailto:dataprotection@miniclip.com) or alternatively you can send a letter to: Miniclip SA, Case Postale 2671, 2001 Neuchâtel, Switzerland or to Miniclip at Legal Department, Holborn Gate, 326-330 High Holborn, London WC1V 7PP.
-
-Miniclip SA has designated Miniclip (UK) Limited as its representative in the European Union, who can be contacted at Miniclip at Legal Department, Miniclip (UK) Limited, Holborn Gate, 326-330 High Holborn, London WC1V 7PP.
-
-### How can I contact Sixjoy?
-
-If you wish to contact Sixjoy, including to exercise any of the rights described in this Privacy Policy, with respect to the Game, please contact
-
-[snakewarsdpo@sixjoy.com](mailto:snakewarsdpo@sixjoy.com). 
-
-The EU representative for Sixjoy is Tencent International Service Europe B.V. and who can be contacted via email at [eudataprotection@tencent.com](mailto:eudataprotection@tencent.com).
-
-### What can I do if I have a complaint?
-
-If you are not satisfied with the way your query or complaint is handled by Miniclip or Sixjoy, please let us know by emailing us at [dataprotection@miniclip.com](mailto:dataprotection@miniclip.com) or [eudataprotection@tencent.com](mailto:eudataprotection@tencent.com).
-
-If you are still unhappy, you may refer your complaint to your local data protection regulator. For example, in the United Kingdom this is the Information Commissioner’s Office and in Switzerland it is the Federal Data Protection and Information Commissioner (FDPIC).
-
 Advertisement
 
 [ Multiplayer ](https://web.archive.org/games/genre-2/multiplayer/en/#t-w-c "More Multiplayer Games")
@@ -784,18 +543,18 @@ Advertisement
 8 Ball Pool](https://web.archive.org/games/8-ball-pool-multiplayer/en/#t-w-c)
   * [
 
-Tanki Online](https://web.archive.org/games/tanki-online/en/#t-w-c)
-  * [
-
-Krunker.io](https://web.archive.org/games/krunkerio/en/#t-w-c)
+Lordz2.io](https://web.archive.org/games/lordz-conquest/en/#t-w-c)
   * [
 
 Lil Big Snake](https://web.archive.org/games/little-big-snake/en/#t-w-c)
   * [
 
-Donut Vs Donut](https://web.archive.org/games/donut-vs-donut/en/#t-w-c)
-  * [New!
+Tanki Online](https://web.archive.org/games/tanki-online/en/#t-w-c)
+  * [
 
-Squadd Royale](https://web.archive.org/games/squadd-royale/en/#t-w-c)
+Killstreak.tv](https://web.archive.org/games/killstreak-tv/en/#t-w-c)
+  * [
+
+Donut Vs Donut](https://web.archive.org/games/donut-vs-donut/en/#t-w-c)
 
 
