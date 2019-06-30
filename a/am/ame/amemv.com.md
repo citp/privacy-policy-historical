@@ -1,316 +1,157 @@
-> *The following text is extracted and transformed from the amemv.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231084426id_/https%3A//www.tiktok.com/i18n/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amemv.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630202746id_/https%3A//www.tiktok.com/en/privacy-policy) for the most accurate reproduction.*
 
-# TikTok - Privacy Policy
+# Privacy Policy | TikTok
 
-Last updated: August 2018
+_Last updated: February 2019_
 
-If you are an EU resident, instead of the below, this [Privacy Policy](https://web.archive.org/eu/privacy/) shall apply. If your usual residence is in Germany, this [Privacy Policy](https://web.archive.org/de/privacy/) shall apply. If your usual residence is in Russia, this [Privacy Policy](https://web.archive.org/ru/privacy/) shall apply.
+If you are an EU resident, instead of the below, this [Privacy Policy](http://tiktok.com/en-uk/privacy-policy) shall apply. If your usual residence is in Germany, this [Privacy Policy](http://tiktok.com/de/privacy-policy) shall apply. If your usual residence is in Russia, this [Privacy Policy](https://www.tiktok.com/ru/privacy-policy/) shall apply. If your residence is in India, this [Privacy Policy](https://www.tiktok.com/hi/privacy-policy) shall apply. If your residence is in another country, and not the US, this [Privacy Policy](https://www.tiktok.com/en/privacy-policy-row) shall apply.
 
-Welcome to TikTok (the “ **Platform** ”). The Platform is provided and controlled by Musical.ly, Inc or TikTok Pte. Ltd. ( **“Bytedance”, “we” or “us”** ). We are committed to protecting and respecting your privacy.
+  
+Welcome to TikTok (the “Platform”). The Platform is provided and controlled by musical.ly, Inc. (“musical.ly”, “we” or “us”). We are committed to protecting and respecting your privacy. This Privacy Policy covers the experience we provide for users age 13 and over on our Platform. For information about our under-13 experience (“Children’s Platform”) and our practices in the United States regarding children’s privacy, please refer to our [Privacy Policy for Younger Users](https://www.tiktok.com/en/privacy-policy-for-younger-users).
 
-By accessing or using our website, services, applications, products and content (that include but are not limited to the Platform) (collectively, the “ **Services** ”), you acknowledge that you have read this policy and that you understand your rights in relation to your information and how we will collect, use and process it. If you do not agree with this policy in general or any part of it, you should not use our Services. Capitalized terms that are not defined in this policy have the meaning given to them in the [Terms of Service](https://web.archive.org/i18n/terms/).
+Capitalized terms that are not defined in this policy have the meaning given to them in the [Terms of Service](https://www.tiktok.com/i18n/terms/).
 
-If you have any questions about how we use your information please contact [privacy@tiktok.com](https://web.archive.org/web/20181231084426id_/http://www.tiktok.com/i18n/privacy/mailto).
+##   
+What information do we collect?
 
-## SUMMARY
+We collect information when you create an account and use the Platform, such as your contact details, content you create, and your location. We also collect information you share with us from third-party social network providers, and technical and behavioral information about your use of the Platform. We also collect information contained in the messages you send through our Platform and information from your phone book, if you grant us access to your phone book on your mobile device.
 
-### What information do we collect about you?
+### Information you choose to provide
 
-We collect information when you create an account, and use the Platform, such as your contact details, content you create, your location, and credit card details. We also collect information you share with us from third party social network providers, and technical and behavioural information about your use of the Platform. We also collect information contained in the messages you send through our Platform and your contacts if you allow us access to your phone book on your mobile device. **More information.**
+For certain activities, such as when you register, upload content to the Platform, or contact us directly, you may provide some or all of the following information:
 
-### How will we use the information about you?
+  * Registration information, such as age, language, and email or phone number
+  * Profile information, such as name, social media account information, and profile image
+  * User-generated content, including comments, photographs, videos, and virtual item videos that you choose to upload or broadcast on the Platform (“User Content”)
+  * Payment information, such as PayPal or other third-party payment information (where required for the purpose of payment)
+  * Your phone and social network contacts, with your permission. If you choose to find other users through your phone contacts, we will access and collect the names and phone numbers and match that information against existing users of the Platform. If you choose to find other users through your social network contacts, we will collect your public profile information as well as names and profiles of your social contacts
+  * Your opt-in choices and communication preferences
+  * Information to verify an account such as a form of identification
+  * Information in correspondence you send to us
+  * Information you share through surveys or your participation in challenges, sweepstakes, or contests such as your gender, age, likeness, and preferences.
 
-We use your information to fulfil and enforce our service contract with you, to improve and administer the Platform and allow you to use its functionalities. We also use your information to, among other things, show you suggestions, promote the Platform, and serve you targeted advertising. **More information.**
 
-### Who do we share your information with?
 
-We share your data with our third party service providers we rely on to help you provide you with the Platform. These providers include cloud storage providers, and other IT service providers. We also share your information with our business partners, advertisers, analytics and search engine providers. We may also share your information with law enforcement agencies, public authorities or government bodies as required by law. **More information.**
+### Information we obtain from other sources
 
-### Your Rights
+We may receive information about you from other sources. For example, if you choose to link or sign up using your social network (such as Facebook, Twitter, Instagram, or Google), we may collect information from these third-party services, including your contact lists for these services and information relating to your use of the Platform in relation to these services.
 
-You may have rights in relation to your information. **More information.**
+We will also receive information about you (including age data and demographic information) from third parties (such as advertising networks and analytics providers) and from other sources, including business directories and other commercially or publicly available sources.
 
-### How long do we keep hold of your information?
+###   
+Information we collect automatically
 
-We retain your information for as long as it is necessary to fulfil (1) our contractual obligations and rights in relation to the information involved, (2) our legal obligation(s) under applicable law(s) and regulations to retain data for a certain period of time, taking into account statute of limitations under applicable law(s); (3) our legitimate business purposes;(4) and to conduct a defence in relation to disputes or potential disputes. **More information.**
+We automatically collect certain information from you when you use the Platform, including your IP address, location-related data (as described below), unique device identifiers, browsing history (including content you have viewed in the Platform), Cookies (as defined below), your mobile carrier, time zone setting, and mobile or device information including the model of your device, screen resolution, operating system, app and file names and types, and platform.
 
-### How will we notify you of any changes?
+### Usage Information
 
-We will generally notify all users of any material changes to this policy, through a notice on our Platform. However, you should look at this policy regularly to check for any changes. We will also update the “Last Updated” date at the top of this policy, which reflects the effective date of such policy. Your continued access to or use of the Services after the date of the updated policy constitutes your acceptance of the updated policy. If you do not agree to the updated policy, you must stop accessing or using the Services.
+We collect information regarding your use of the Platform and any other User Content that you generate through and broadcast on our Platform. We also link your subscriber information with your activity on our Platform across all your devices using your email, phone number, or similar information.
 
-  *  **The types of information we collect**
+### Location data
 
-We may collect and use the following information about you:
+We collect information about your location, including location information based on your SIM card and/or IP address. With your permission, we may also collect Global Positioning System (GPS) data.
 
-    *  **Information you give us.** You give us information about you when you register for and/or use the Platform, including your name, age, gender, address, email address, social media login details, telephone number and financial and credit card information and your photograph as well as your language selection. In addition, this category will include your customer profile, the comments you make on our Platform (including any Virtual Items you contribute to any user-generated content), account and billing details, including but not limited to, your Apple, Google or Windows account, PayPal or other third-party payment channel account where required for the purpose of paying or withdrawing cash. It also includes user-generated content, photographs and video content that you choose to broadcast on our Platform. You are also able to register using your user credentials to certain social media sites, such as Twitter, Facebook, Instagram or Google.
+### Messages
 
-    *  **Information you choose to share from your social networks.** If you choose to link your social network or public forum account (e.g. Facebook, Twitter, Instagram, Google or WeChat) to the Platform, you will provide us or allow your social network to provide us with information from your social network or public forum accounts, including your contact list. This data will include information relating to your use of the Platform on such public forums and/or social networks. For further information as to how and for what purpose the social network provider processes your data, please see the relevant privacy policies of these social network providers.
+We collect and process, which includes scanning and analyzing, information you provide in the context of composing, sending, or receiving messages through our Service's messaging functionality. That information includes the content of the message and information about when the message has been sent, received and/or read, as well as the participants of the communication. Please be aware that messages sent to other users of our Service will be accessible by those users and that we are not responsible for the manner in which those users use or disclose messages.
 
-    *  **Technical Information we collect about you.** We automatically collect certain information from you when you use the Platform, including your IP address, location-related data (as described below) or other unique device identifiers, your browsing history (including content you have viewed in the Platform), Cookies (as defined below), your mobile carrier, time zone setting, mobile or device information including the model of your device, your screen resolution, operating system and platform and information regarding your use of the Platform.
+### Metadata
 
-    *  **Behavioural information we collect about you:** We also collect information regarding your use of the Services, e.g. your comments on our Platform or any other user-generated content and video content that you generate through and broadcast on our Platform. In addition, we link your contact or subscriber information with your activity on our Platform across all your devices using your email or social media log-in details. We collect engagement scores (“likes”, comments, repeated views) and relate users based on your behaviour. Finally, we collect opt-ins and communication preferences.
+When you upload User Content, you automatically upload certain metadata that is connected to the User Content. Metadata describes other data and provides information about your User Content that will not always be evident to the viewer. In connection with your User Content the metadata can describe how, when, and by whom the piece of User Content was collected and how that content is formatted. It also includes information, such as your account name, that enables other users to trace back the video to your user account. Additionally, metadata will consist of data that you chose to provide with the video, e.g. any hashtags used to mark keywords to the video and captions.
 
-    *  **Location data.** When you use the Platform on a mobile device, we will collect information about your location, including location information based on your SIM card and/or IP address. If you allow us access to location data on your mobile device we will also collect Global Positioning System (GPS) data and mobile device location information. We will use this information to provide you with location-based services, such as recommending local videos and other personalised content.
+### Cookies
 
-    *  **Information from third parties.** We will receive information about you from third parties if you use any of the other websites we operate or other services we provide. We will also receive information from third parties (such as advertising networks and analytics providers) and from other sources, including business directories and other commercially or publicly available sources.
+We and our vendors and service providers use cookies and other similar technologies (e.g. web beacons, flash cookies, etc.) (“Cookies”) to automatically collect information, measure and analyze which web pages you click on and how you use the Platform, enhance your experience using the Platform, improve our services, and provide you with targeted advertising on the Platform and elsewhere across your different devices. Cookies are small files which, when placed on your device, enable the Platform to provide certain features and functionality. Web beacons are very small images or small pieces of data embedded in images, also known as “pixel tags” or “clear GIFs,” that can recognize Cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. By using the Platform, you consent to our use of Cookies.
 
-    *  **Your phone and Facebook contacts.** You can choose whether to find other users of the Platform either through (i) your phone contacts or (ii) Facebook contacts. If you chose to find other users through your phone contacts, we will access and collect your phone contacts, including the names, phone numbers, addresses and any other information that you have stored on your phone about your contacts in order to determine if they are using the Platform by matching them with existing users of the Platform. If you want to find other users through your Facebook contacts, we will collect your public Facebook information as well as names and profiles of your Facebook contacts.
+Additionally, we allow our business partners, advertising networks, and other advertising vendors and service providers (including analytics vendors and service providers) to collect information about your online activities through Cookies. We link your contact or subscriber information with your activity on our Platform across all your devices, using your email or other log-in or device information. These third parties may use this information to display advertisements on our Platform and elsewhere online tailored to your interests, preferences, and characteristics. We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Policy.
 
-    *  **Messages.** We collect and process (which includes scanning and analysing) information you provide, including any personal information, in the context of composing, sending, or receiving messages (that means the content as well as information about when the message has been sent, received and/or read and the participants of the communication) through our Service's messaging functionality. Please be aware that messages sent to other users of our Service will be accessible by those other users and that we are not responsible for the manner in which those users use or disclose messages.
+## How we use your information
 
-    *  **Metadata.** When you upload a video to the Platform (“ **User Content** ”), you automatically upload certain metadata that is connected to the User Content. In essence, metadata describes other data and provides information about your User Content that will not always be evident to the viewer. In connection with your video the metadata can describe how, when and by whom the piece of User Content was collected and how that content is formatted. It further includes information such as your account name that enables other users to trace back the video to your user account. Metadata will further consist of additional data that you chose to provide with the video, e.g. any hashtags used to mark keywords to the video or comments.
+We use your information to fulfill and enforce our [Terms of Service](https://www.tiktok.com/i18n/terms/), to improve and administer the Platform, and to allow you to use its functionalities. We may also use your information to, among other things, show you suggestions, promote the Platform, and customize your ad experience.
 
-    *  **Buy coins.** You might choose to buy coin packs via in-app purchases. You can use these coins to buy virtual gifts and send them to support other users during live broadcasts or in their channels. When you chose to buy coins you will be transferred to your app store on your mobile device to complete the purchase. In connection with this purchase, we will collect personal information from you. Furthermore, if you purchase any gift points in accordance with the Gift Point Policy using your Apple iTunes or Google Play account, we process the confirmation of the payment and credit your account.
+We generally use the information we collect:
 
-  *  **Cookies**
+  * to fulfill requests for products, services, Platform functionality, support and information for internal operations, including troubleshooting, data analysis, testing, research, statistical, and survey purposes and to solicit your feedback
+  * to customize the content you see when you use the Platform. For example, we may provide you with services based on the country settings you have chosen or show you content that is similar to content that you liked or interacted with
+  * to send promotional materials from us or on behalf of our affiliates and trusted third parties
+  * to improve and develop our Platform and conduct product development
+  * to measure and understand the effectiveness of the advertising we serve to you and others and to deliver targeted advertising
+  * to make suggestions and a customized ad experience
+  * to support the social functions of the Platform, including to permit you and other users to connect with each other through the Platform and for you and other users to share, download, and otherwise interact with User Content posted through the Platform
+  * to use User Content as part of our advertising and marketing campaigns to promote the Platform
+  * to help us detect abuse, fraud, and illegal activity on the Platform
+  * to ensure that you are old enough to use the Platform (as required by law)
+  * to communicate with you, including to notify you about changes in our services
+  * to announce you as a winner of our contest, sweepstakes, or promotions if permitted by the promotion rule, and to send you any applicable prizes
+  * to enforce our terms, conditions, and policies
+  * consistent with your permissions, to provide you with location-based services, such as advertising and other personalized content
+  * to inform our algorithms
+  * to combine all the information we collect or receive about you for any of the foregoing purposes
+  * for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-We use cookies and other similar technologies (e.g. web beacons, flash cookies, etc.) (“ **Cookies** ”) to enhance your experience using the Platform, improve our services, and provide you with targeted advertising . Cookies are small files which, when placed on your device, enable us to provide certain features and functionality.
 
-We use the following Cookies:
 
-    *  **Strictly necessary Cookies.** These are Cookies that are required for the operation of the Platform. They include, for example, Cookies that enable you to log into secure areas of the Platform.
+## How we share your information
 
-    *  **Functionality Cookies.** These Cookies are used to recognise you when you return to the Platform. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region). These Cookies support the log-in function in the Platform for a 90 day period
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect. We will share your information with the following selected third parties:
 
-    *  **Social media Cookies** These Cookies allow users to create an account on the Platform by using their existing log-in for other services (for example, for WeChat, Baidu, Facebook, and Google).
+  *  **Authorized third-party vendors and service providers.** We share your information with third-party vendors and service providers that help us perform our business operations, including research, payment processing and transaction fulfillment, database maintenance, contest administration, technology services, deliveries, email deployment, advertising, analytics, measurement, data storage and hosting, disaster recovery, search engine optimization, marketing, and data processing.
+  *  **Business partners.** We may share your information with our business partners so that we can make you special offers via the Platform.
+  *  **Corporate group.** We may share your information with a parent, subsidiary, or other affiliate of our corporate group.
+  *  **Business transfers.** We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+  *  **Legal purposes.** We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, safety, and security of musical.ly Inc, our affiliates, users, or the public.
+  *  **Advertisers.** We give advertisers reports about the types of people seeing their ads and how their ads are performing.
+  *  **With your consent.** We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent.
 
-    *  **Targeting Cookies.** These Cookies record your visit to the Platform, the pages you have visited and the links you have followed, including your interactions with other websites or applications. We will use this information to make the Platform and the advertising displayed on it more relevant to your interests. We will also share this information with third parties for this purpose. Our service providers may also use the information about your interactions with our Platform to serve you targeted advertisements on other websites and applications.
 
-    *  **Analytics Cookies.** Analytics Cookies are statistical audience measuring systems that we use for our Services to help us measure which web pages you click on and how you use the Platform (see below for more details).
 
-If for any reason you do not wish to take advantage of Cookies, you can disable Cookies by changing the settings on your browser. However, if you do so, this will affect your enjoyment of the Platform and we will no longer be able to offer to you personalised content. Unless you opt out of Cookies, we will assume you consent to the use of Cookies.
+If you access third-party services, such as Facebook, Google, or Twitter, to login to the Platform or to share information about your usage on the Platform with others, these third-party services may be able to collect information about you, including information about your activity on the Platform, and they may notify your connections on the third-party services about your use of the Platform, in accordance with their privacy policies.
 
-“Do-not-track” signals are preferences that users can set on their web browser to limit how their activity is tracked across third-party websites or online services. The Platform does not respond to "do-not-track" signals in your web browser.
+If you choose to engage in public activities on the Platform, you should be aware that any information you share may be read, collected, or used by other users. You should use caution in disclosing personal information while engaging. We are not responsible for the information you choose to submit.
 
-## Analytics information
+## Your Choices
 
-On our Platform, we use third-party analytics tools to help us measure traffic and usage trends for the Services. Traffic refers to the different data flows surrounding activities of the users on the Services. These tools, for example, collect information sent by your device or our Services, including the pages you visit, add-ons, and other information that assists us in improving the Service. The information will be used to report and evaluate your activities and patterns as a user of the Platform to provide services in accordance with these activities.
+  * You may be able to refuse or disable Cookies by adjusting your browser settings. Because each browser is different, please consult the instructions provided by your browser. Please note that you may need to take additional steps to refuse or disable certain types of Cookies. For example, due to differences in how browsers and mobile apps function, you may need to take different steps to opt out of Cookies used for targeted advertising in a browser and to opt out of targeted advertising for a mobile application, which you may control through your device settings or mobile app permissions. In addition, your opt-out selection is specific to the particular browser or device that you are using when you opt out, so you may need to opt-out separately for each of browser or device. If you choose to refuse, disable, or delete Cookies, some of the functionality of the Platform may no longer be available to you.
 
-Our third party analytics tool is Google Analytics provided by Google, Inc (1600 Amphitheatre Parkway Mountain View, CA 94043, USA). Google Analytics uses Cookies, small text files containing a string of alphanumeric characters and which are stored on your computer. Google will use this information including your truncated IP address to assemble statistics on the use of our Service or to provide other related services as described above. For further information on how Google Analytics collects and processes information about you and information on how to opt out from Google's collection of information from you, please click [here](https://tools.google.com/dlpage/gaoptout). You can also find further information in the [Google Analytics Terms of Service & Privacy](https://www.google.com/analytics/terms/us.html).
 
-We further use "Facebook Pixel" of Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA ("Facebook"). This tool is used for advertising purposes in order to reveal if you have seen our advertisement on Facebook. If you do not want Facebook to collect the described information about you, you can opt-out of Facebook's use of cookies and Facebook Pixels here.
+  * You can manage third-party advertising preferences for some of the third parties we work with to serve advertising across the Internet by clicking here and by utilizing the choices available at <http://www.networkadvertising.org/managing/opt_out.asp> and [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
-  *  **How we use your information**
 
-We will use the information we collect about you in the following ways:
+  * Your mobile device may include a feature that allows you to opt out of some types of targeted advertising ("Limit Ad Tracking" on iOS and "Opt out of Interest-Based Ads" on Android).
 
-    * to administer the Platform (i.e. to provide our Services to you) and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes (i.e. to guarantee the Platform’s stability and security) and to solicit your feedback;
 
-    * to allow you to participate in interactive features of the Platform, when you choose to do so;
+  * You can opt out of marketing or advertising emails by utilizing the “unsubscribe” link or mechanism noted in marketing or advertising emails.
+  * You can switch off GPS location information functionality on your mobile device if you do not wish to share GPS information.
+  * If you have registered for an account you may access, review, and update certain personal information that you have provided to us by logging into your account and using available features and functionalities.
+  * Some browsers transmit "do-not-track" signals to websites. Because of differences in how browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
 
-    * to personalise the content you receive and provide you with tailored content that will be of interest to you;
 
-    * to improve and develop our Platform and conduct product development;
 
-    * to measure and understand the effectiveness of the advertising we serve to you and others;
+## Security
 
-    * to provide you with services based on the country settings you have chosen, such as advertising and other content that is related to the country settings;
+We use reasonable measures to help protect information from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction. You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100 percent secure. Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.
 
-    * to make suggestions and recommendations to you and other users of the Platform about goods or services that will interest you or them;
+## Children
 
-    * to allow other users to identify you via the "Find other friends" function as a user of the Service, to allow you to find other users and to connect with them on the Platform, and to support the socializing function of the Services;
+The privacy of users under the age of 13 (“Younger Users”) is important to us. We provide a separate experience for Younger Users in the United States on the Children’s Platform, in which we collect only limited information. For more information on our United States data collection practices for Younger Users, please visit the [Privacy Policy for Younger Users](https://www.tiktok.com/en/privacy-policy-for-younger-users).
 
-    * to provide you with your profile information to send to anyone you choose and to enable you to participate on the Platform and interact with other users;
-
-    * to make your information available to other users in accordance with the privacy settings you chose for the respective information;
-
-    * to show you content that is similar to content you liked or interacted with (by commenting and/or watching the content), content from your region as well as content from users you follow;
-
-    * to show you advertisements that are relevant to you;
-
-    * to promote the Services and use information that you give to us, such as User Content and video content that you can choose to broadcast on our Platform, as part of our advertising and marketing campaigns to promote the Platform;
-
-    * to enable our messenger service to function (although this information is only processed if you choose to use this function) and you can choose to delete any information in this regard on your discretion via the clear cache function within the Platform’s settings; and
-
-    * to help us detect abuse, fraud, and illegal activity on the Platform;
-
-    * to ensure that you are old enough to use our Services (as required by law).
-
-    * to notify you about changes to our Services;
-
-    * to communicate with you.
-
-    * to provide you with user support;
-
-    * to enforce our terms, conditions and policies;
-
-    * to receive payments from you and/or make payments to you in accordance with the Diamond and Flame provisions set out in the[ **Supplemental Terms – Virtual Items Policy**](https://web.archive.org/i18n/terms/#supplemental-virtual) under the [**Terms of Service**](https://web.archive.org/i18n/terms/) or under a separate Premium Content Creator Agreement, if applicable.
-
-    *   * We will share your information with the following selected third parties:
-
-    * our business partners so that we can make you special offers via the Platform;
-
-    * advertisers and advertising networks that require the data to select and serve adverts to you and others.;
-
-    * cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we enter into with you;
-
-    * Analytics and search engine providers that assist us in the optimisation and improvement of the Platform; and
-
-    * IT service providers;
-
-    * Our data center and the servers of our host providers.
-
-We will also share your information with any member or affiliate of our group, in China, for the purposes set out above, to assist in the improvement and optimisation of the Platform, in order to prevent illegal uses, increase user numbers, development, engineering and analysis of information or for our internal business purposes ( **How we use your information** ).
-
-We will share your information with law enforcement agencies, public authorities or other organizations if legally required to do so, or if such use is reasonably necessary to:
-
-    * comply with legal obligation, process or request;
-
-    * enforce our [Terms of Service](https://web.archive.org/i18n/terms/) and other agreements, policies, and standards, including investigation of any potential violation thereof;
-
-    * detect, prevent or otherwise address security, fraud or technical issues; or
-
-    * protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).
-
-We will also disclose your information to third parties:
-
-    * in the event that we sell or buy any business or assets, in which case we will disclose your data to the prospective seller or buyer of such business or assets; or
-
-    * if we sell, buy, merge, are acquired by, or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information will be among the transferred assets.
-
-  *  **Your Rights**
-
-If you have registered for an account, you may access and update certain personal information that you have provided to us by logging into your online account and using the features and functionalities available there.
-
-You can manage third party advertising preferences for some of the third parties we work with to serve advertising across the Internet by clicking here and by utilizing the choices available at http://www.networkadvertising.org/managing/opt_out.asp and www.aboutads.info/choices.
-
-You can opt out of marketing or advertising emails by utilizing the “unsubscribe” link or mechanism noted in marketing or advertising emails you receive from us.
-
-You can switch off location information functionality on your mobile device if you do not wish to share your GPS or mobile device location information with us.
+The Platform otherwise is not directed at children under the age of 13. If we become aware that personal information has been collected on the Platform from a person under the age of 13 we will delete this information and terminate the person’s account. If you believe that we have collected information from a child under the age of 13 on the Platform, please contact us at [privacy@tiktok.com](mailto:privacy@tiktok.com).
 
 ## California Residents
 
-California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year. To request a notice, please submit your request to privacy@tiktok.com.
+Once a calendar year, you may be entitled to obtain information about personal information that we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information, as well as the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year. To request a notice, please submit your request to [privacy@tiktok.com](mailto:privacy@tiktok.com).
 
-  *  **The security of your information**
+Users of the Platform who are California residents and are under 18 years of age may request and obtain removal of User Content they posted by emailing us at [privacy@tiktok.com](mailto:privacy@tiktok.com). All requests must be labeled "California Removal Request" on the email subject line. All requests must provide a description of the User Content you want removed and information reasonably sufficient to permit us to locate that User Content. We do not accept California Removal Requests via postal mail, telephone, or facsimile. We are not responsible for notices that are not labeled or sent properly, and we may not be able to respond if you do not provide adequate information. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party.
 
-We take steps to ensure that your information is treated securely and in accordance with this policy. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your information, for example, by encryption, we cannot guarantee the security of your information transmitted through the Platform; any transmission is at your own risk.
+## Changes
 
-We have appropriate technical and organizational measures to ensure a level of security appropriate to the risk of varying likelihood and severity for the rights and freedoms of you and other users. We maintain these technical and organizational measures and will amend them from time to time to improve the overall security of our systems.
+We may update this Privacy Policy from time to time. When we update the Privacy Policy, we will notify you by updating the “Last Updated” date at the top of this policy and posting the new Privacy Policy and providing any other notice required by applicable law. We recommend that you review the Privacy Policy each time you visit the Platform to stay informed of our privacy practices.
 
-We will, from time to time, include links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any information to these websites.
-
-## Note that If you upload a video to the Platform for the first time, you will be notified that you are using the Platform on a public account, meaning that if you post a video it can be viewed by every user of the Platform regardless your connection to the user. You can limit the audience having access to the information included in the information that you post to the Platform in your privacy settings as specified in the information window. Changes to the privacy settings on the Platform will immediately apply and also affect Information that you have posted in the past. We will delete your information from your use of the Platform once you decided to delete the respective UGV or broadcast content or other information you provided in your profile.
-
-  *  **How long we keep your information**
-
-We use the following criteria to determine the period for which we will keep your information:
-
-    * our contractual obligations and rights in relation to the information involved;
-
-    * legal obligation(s) under applicable law(s) and regulations to retain data for a certain period of time;
-
-    * statute of limitations under applicable law(s);
-
-    * our legitimate business purposes; and
-
-    * disputes or potential disputes.
-
-After you have terminated your use of our Services, we can store your information in an aggregated and anonymised format. Notwithstanding the foregoing, we can also retain any personal information as reasonably necessary to comply with our legal obligations, allow us to resolve and litigate disputes, and to enforce our agreements.
-
-  *  **Information relating to children**
-
-The Platform is not directed at children under the age of 13. If we become aware that personal information has been collected from a person under the age of 13 we will delete this information and terminate the person’s account. If you believe that we have collected information from a child under the age of 13, please contact us at [privacy@tiktok.com](mailto:privacy@tiktok.com).
-
-  *  **Changes**
-
-We will generally notify all users of any material changes to this policy, through a notice on our Platform. However, you should look at this policy regularly to check for any changes. We will also update the “Last Updated” date at the top of this policy, which reflects the effective date of such policy. Your continued access to or use of the Services after the date of the updated policy constitutes your acceptance of the updated policy. If you do not agree to the updated policy, you must stop accessing or using the Services.
-
-  *  **Contact**
+## Contact
 
 Questions, comments and requests regarding this policy should be addressed to:
 
-    *  **TikTok Pte. Ltd.**
-
-    * Address: 10 Anson Road #10-08 International Plaza Singapore (079903)
-
-    * Email Address: [privacy@tiktok.com](https://web.archive.org/web/20181231084426id_/http://www.tiktok.com/i18n/privacy/privacy@tiktok.com)
-
-    * Attention: _Shirley_
-
-    * Telephone No.: 86106064378
-
-
-
-
-## Supplemental Terms – Jurisdiction-Specific
-
- **In the event of a conflict between the provisions of the Supplemental Terms – Jurisdiction-Specific that are relevant to your jurisdiction from which you access or use the Services, and the rest of policy, the relevant jurisdictions’ Supplemental Terms – Jurisdiction-Specific will supersede and control.**
-
- **India.** If you are using our Services in India, the following additional terms apply. In the event of any conflict between the following additional terms and the provisions of the main body of this policy, the following terms shall prevail.
-
-  *  **The security of your personal data.** The personal data shared by you for the purposes of the Services would be safeguarded in accordance with the policies and systems adopted by us.
-
-  *  **Data retention.** We will not retain sensitive personal data or information for longer than is required for the purposes for which such information may be lawfully used or is otherwise required under any law for the time being in force.
-
-  *  **Information relating to children.** The Platform is not directed at persons under the age of 18. Users under the age of 18 are not allowed to use the Platform or register an account on the Platform. If we become aware that personal data has been collected from a person under the age of 18, we will delete this information and terminate the person’s account. If you believe that we may have personal data about or collected from a person under the age of 18, please contact us at [privacy@tiktok.com](mailto:privacy@tiktok.com).
-
-  *  **Data rights.** You have the right to access and review personal data we hold about you, to rectify any personal data held about you that is inaccurate, to request the deletion of personal data held about you, and the right to request the suspension of the processing of your personal data. You can exercise your rights by contacting us at [privacy@tiktok.com](mailto:privacy@tiktok.com).
-
-
-
-
- **Indonesia.** If you are using our Services in Indonesia, the following additional terms apply. In the event of any conflict between the following additional terms and the provisions of the main body of this Privacy Policy, the following terms shall prevail.
-
-  *  **Parental and Guardian Consent.** If you are under the age of 21, you declare that you had the consent of your parent or legal guardian to use the Services or to register an account on the Services.
-
-  *  **Data Rights.** You have the right to access personal data in our Platform from time to time.
-
-  *  **Notification.** In the event of Bytedance fails to maintain the confidentiality of your personal data in our Platform, Bytedance will notify you immediately through the contact information provided by you.
-
-  *  **Language.** This policy is written in the English language and Indonesian language. In the event of any inconsistency or different interpretation between the English text and Indonesian text, the relevant Indonesian text shall be deemed to be automatically amended to conform with and to make the relevant Indonesian text consistent with the relevant English text. Each party acknowledges that it has read this policy and understands its content and that this policy has been entered into freely and without duress. The official text of this policy shall be in English. The parties agree that to comply with Law No. 24 of 2009 of the Republic of Indonesia (“Law No.24/2009”) on Flag, Language, State Emblem and National Anthem applies to this policy (as an agreement to which an Indonesian entity is a party), this policy is written in both English and Indonesian language. The parties agree that in the event of any dispute concerning the construction or interpretation of this policy, reference shall be made only to the version as written in English and not to the Indonesian language version or any translation into any other language. You acknowledge that you fully understand the language and the content of this policy and you agree that you will not use the provisions under Law No.24/2009 to invalidate this policy.
-
-  *  **Change to the terms.** The following terms shall apply with priority over “Changes” above: “we may amend this policy from time to time to the extent that is permitted by the applicable laws. In the event we amend this policy, we will notify you of the effective date of the changes through (i) a notice to be posted on the landing page of our website or the splash screen of our mobile app or (ii) the contact information you provided to us. If you fail to explicitly express your objection to the amended policy even though we notified you that your failure to do so within the above advance notification period will be considered as an acceptance of the changes, you will be considered to have agreed to the new policy.”
-
-
-
-
-##  **Japan.** If you are using our services in Japan, the following additional terms apply:
-
-  *  **Parental and Guardian Consent.** If you are over the age of 13 but under the age of 20, you declare that you had the consent of your parent or legal guardian to use the Platforms or to register an account on the Platforms.
-
-  *  **Messages.** Concerning the provisions set out above (regarding “Messages” of “The types of information we collect”), the following additional terms apply: No person reads your messages unless required by applicable laws and regulations. The purpose of this functionality is to detect abuse, fraud, and illegal activity on the Platform. You may turn this feature off at any time by going to [privacy@tiktok.com](mailto:privacy@tiktok.com).
-
-  *  **How We Share Your Personal Data.** Notwithstanding the information set out above ( **How we share your personal data** ), in Japan we share your personal data only with selected third parties expressly listed in that section. For customers in Japan, Bytedance continues to be primarily responsible for protection of your information.
-
-  *  **Your Rights**
-
-    *  **Marketing.** You have the right to ask us not to process your personal data for email or text marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [privacy@tiktok.com](mailto:privacy@tiktok.com).
-
-    *  **Data Rights.** You have the right to access personal data we hold about you, to rectify any personal data held about you that is inaccurate, to receive a copy of the personal data we hold about you in a paper format or a structured, commonly-used and machine readable format, and to request the deletion of personal data held about you. You can exercise your rights by contacting us at [privacy@tiktok.com](mailto:privacy@tiktok.com).
-
-
-
-
-##  **South Korea.** If you are using our services in South Korea, the following additional terms apply. In the event of any conflict between the following additional terms and the provisions of the main body of this policy, the following terms shall prevail.
-
-  *  **How we share your personal data.** In addition to the main text of this policy, in the event we use information such as user-generated content and video content that you may choose to broadcast on our Platform as part of our advertising and marketing campaigns to promote the Platform, your personal data contained in such information may be disclosed to the recipients of such advertising or marketing content.
-
-  *  **Data retention.** We destroy personal data whose purpose of collection as consented to by you have been achieved, or whose periods of retention and use to which you consented to or which were provided in this privacy policy have expired; provided, however, we will continue to store your personal data for the following statutorily-prescribed periods, where applicable, including, but not limited to:
-
-    * Act on Consumer Protection in Electronic Commerce:
-
-      * Records on your cancellation of an order, your payment on a purchased item, and our supply of a good/service: 5 years
-
-      * Records on the handling of consumer complaints or disputes: 3 years
-
-      * Records on advertisements and labels: 6 months
-
-    * Protection of Communications Secrets Act
-
-      * Records on your visits to our website: 3 months
-
-  *  **Destruction of Personal data.** We destroy your personal data in a manner that renders it unrestorable by the relevant department.
-
-  *  **Your Rights.**
-
-    *  **Marketing.** You have the right to ask us not to process your personal data for email or text marketing purposes. We will usually inform you (before collecting your data) and obtain your consent if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can withdraw your consent at any time by contacting us at [privacy@tiktok.com](mailto:privacy@tiktok.com).
-
-    *  **Data rights.** You have the right to access personal data we hold about you, to rectify any personal data held about you that is inaccurate, to request the deletion of personal data held about you, and the right to request the suspension of the processing of your personal data. You can exercise your rights by contacting us at [privacy@tiktok.com](mailto:privacy@tiktok.com).
-
-  *  **Data Security.** We work hard to protect Bytedance and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. To this end, we have in place technical, managerial and physical safeguards, including internal policy for data protection, limiting the access to personal data on a need-to-know basis and controlling access to the facilities where personal data is processed.
-
-  *  **Change to the Policy.** In the event we make any changes to this policy, we will notify you of such changes at least 7 days before the effective date of the updated policy (30 days if the changes will significantly affect your rights or obligations under this policy) via our website or service page.
-
+  * Musical.ly Inc. Address: Attn: TikTok Legal Department 10100 Venice Blvd, Suite 401, Culver City, CA 90232, USA
+  * Email Address: [privacy@tiktok.com](mailto:privacy@tiktok.com)
 
 
