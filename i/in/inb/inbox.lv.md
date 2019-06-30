@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inbox.lv privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127205831id_/https%3A//help.inbox.lv/%3Fkeyword%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbox.lv privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630035308id_/https%3A//help.inbox.lv/%3Fkeyword%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Inbox Help
 
