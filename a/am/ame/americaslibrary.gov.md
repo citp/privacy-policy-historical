@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americaslibrary.gov privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231215651id_/https%3A//www.loc.gov/legal%23privacy_publicity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americaslibrary.gov privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235051id_/https%3A//www.loc.gov/legal%23privacy_publicity) for the most accurate reproduction.*
 
 # Legal | Library of Congress
 
@@ -24,7 +24,7 @@ We do not charge permission fees for using any materials, and generally do not g
 
 Items created by Library of Congress employees in the scope of their employment are U.S. Government works not subject to copyright in the United States (17 U.S.C. §105). Unless otherwise indicated on this site, the Library of Congress has no objection to the international use and reuse of Library U.S. Government works on loc.gov. These works are also available for worldwide use and reuse under CC0 1.0 Universal.
 
-If you have more information about material on our websites, or if you are the copyright holder and believe our websites have not properly attributed your work or have used it without permission, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#93fcf4f0d3fffcf0bdf4fce5) with your contact information and a link to the relevant content.
+If you have more information about material on our websites, or if you are the copyright holder and believe our websites have not properly attributed your work or have used it without permission, please contact [ogc@loc.gov](mailto:ogc@loc.gov) with your contact information and a link to the relevant content.
 
 [View more information about copyright law from the U.S. Copyright Office](http://www.copyright.gov/)
 
