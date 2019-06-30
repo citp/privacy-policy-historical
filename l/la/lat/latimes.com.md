@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latimes.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231195850id_/http%3A//www.latimes.com/about/la-privacypolicy-20180703-story.html%23nt%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latimes.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220636id_/https%3A//www.latimes.com/about/la-privacypolicy-20180703-story.html%23nt%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy - Los Angeles Times
 
