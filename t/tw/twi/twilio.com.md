@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twilio.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227195910id_/https%3A//www.twilio.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilio.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215206id_/https%3A//www.twilio.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Twilio
 
@@ -7,6 +7,8 @@
 
 Twilio is a cloud communications platform that provides software developers with building blocks to add communications to web and mobile applications.
 
+> Interested in how your data is processed when you use SendGrid products and services? See the [SendGrid Privacy Policy](https://sendgrid.com/policies/privacy/services-privacy-policy/).
+> 
 > Interested in how Twilio processes your data as a user of the Authy Mobile or Desktop App? See the [Authy App Privacy Notice](https://web.archive.org/legal/privacy/authy).
 
 We understand that when you use Twilio’s platform you are placing your trust in us to handle your data appropriately, including the personal information of you and your end users. That is why we take a “No Shenanigans” approach to data protection.
