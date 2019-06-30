@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwitv.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927061420id_/https%3A//wwitv.com/page/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwitv.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215323id_/https%3A//wwitv.com/page/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,7 +14,7 @@ Cookies are data that a Web site transfers to an individual's hard-drive for rec
 
 [_Google ad and content network privacy policy_](https://www.google.com/policies/technologies/partner-sites/)
 
-. You can read our Cookie statement [here](https://wwitv.com/page/cookies.htm)
+. You can read our Cookie statement [here](https://web.archive.org/web/20190630215323id_/https%3A//wwitv.com/page/cookies.htm)
 
 wwiTV has established many links directly to sites operated by third parties. These sites are not operated or maintained by wwiTV. These sites may collect personal information from you. You should check the applicable privacy policy's of the third party site's in case you enter these sites. All links to external sites (not wwiTV's) are opened in a new window!
 
