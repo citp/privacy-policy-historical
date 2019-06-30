@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225040758id_/https%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630074600id_/https%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
 
 # The Daily Dot Privacy Policy | The Daily Dot
 
@@ -71,12 +71,10 @@ We review and update this policy as needed, and we will place any updates on thi
 
 ## **How to Contact Us**
 
-If you would like to turn off email tracking, please email us at [newsletters@thedailydot.com](mailto:newsletters@thedailydot.com) with “EMAIL TRACKING” in the subject line.
-
 If you have questions or concerns about this privacy policy, please email us at [support@thedailydot.com](mailto:support@thedailydot.com) with “PRIVACY POLICY” in the subject line, or mail us at the following address:
 
 The Daily Dot, LLC  
 3112 Windsor Road, Suite A391  
 Austin, TX 78703
 
-_Last updated: May 24, 2018_
+_Last updated: January 18, 2019_
