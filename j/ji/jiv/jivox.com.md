@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jivox.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224900id_/https%3A//www.jivox.com/privacy/%23optout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jivox.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235622id_/https%3A//www.jivox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jivox
 
@@ -61,7 +61,7 @@ Please note that except as noted above, Jivox will not sell or share your person
 Jivox allows users to request access to data collected about them and to opt-out of using date to customize advertisements.
 
   * **Access or Change your Information**. Upon request, Jivox will allow users to update or correct personal information previously submitted, but only to the extent such activities will not compromise privacy or security interests. Additionally, upon request, Jivox will delete personal information from the database where such information is stored; however, it may be impossible to entirely delete a User’s entry without some residual information being retained due to the manner in which data backups are maintained. Requests to delete personal information must be submitted to  _[support@jivox.com](mailto:support@jivox.com)_.
-  * **Opt-Out**. Jivox allows users to opt out of having personalized advertisements served to them. Please note that opting out does not block ads, rather it implies that Jivox will not use your data to personalize the ad viewing experience. Please **[click here to view or change your opt-out](http://www.jivox.com/privacypolicy.php#) **preferences.
+  * **Opt-Out**. Jivox allows users to opt out of having personalized advertisements served to them. Please note that opting out does not block ads, rather it implies that Jivox will not use your data to personalize the ad viewing experience. Please **[click here to view or change your opt-out](https://www.jivox.com/privacy/opt-out/) **preferences.
   * **Email Communications**. We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your Account or any Jivox Services requested or received from us.
 
 
