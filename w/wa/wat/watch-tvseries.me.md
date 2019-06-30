@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watch-tvseries.me privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529034310id_/http%3A//watch-tvseries.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch-tvseries.me privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701015244id_/http%3A//watch-tvseries.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
