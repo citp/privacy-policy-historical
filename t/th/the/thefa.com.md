@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefa.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909142737id_/http%3A//www.thefa.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefa.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630195522id_/http%3A//www.thefa.com/public/privacy) for the most accurate reproduction.*
 
-# The website for the English football association, the Emirates FA Cup and the England football team
+# The FA Group Privacy Policy | The Football Association
 
 **What does this policy cover?**
 
@@ -52,7 +52,7 @@ We process this personal data for the following purposes:
     * we process data you provide when you enter your team into an FA event or competition so that we can administer that competition, communicate with you and ensure eligibility. If this involves sensitive personal data, such as information about disability used to ensure eligibility for a disabled competition, we do this to ensure the integrity of our competition;
     * we use CCTV and other security measures to enforce our ticketing conditions, protect the safety of those at our venues, provide evidence in relation to incidents taking place within our venues and to prevent and detect unlawful activity. This latter purpose is our legal basis to the extent that any CCTV footage or other record kept by The FA Group involves holding information about you relating to actual or alleged criminal activity;
     * we use information you provide as well as information which we have collected about you to investigate any complaints received from you or from others, about our website and venues or our products or services;
-    * we will use data in connection with legal claims, compliance, regulatory and investigative purposes as necessary (including disclosure of such information in connection with legal process or litigation); and
+    * we will use data in connection with legal claims, compliance, regulatory and investigative purposes as necessary (including disclosure of such information in connection with legal process or litigation or to other relevant regulators, such as the Gambling Commission or other governing bodies, to law enforcement bodies or to employers where appropriate); and
     * we use data of some individuals to invite them to take part in market research.
   * Where you give us consent:
     * we will send you direct marketing in relation to our relevant products and services, or other products and services provided by us and carefully selected partners and sponsors;
@@ -81,7 +81,7 @@ By accessing an FA Group application from these devices you consent to cookies b
 
 We will share your personal data between The FA Group companies (as listed above) as necessary to provide the products and services you have requested, to maintain a single customer view across The FA Group and to fulfill any of the other purposes set out above.
 
-We will share your data with relevant third parties for the purposes set out above, in particular we will share details of fans or participants with other football stakeholders such as the Premier League and English Football League, other footballing governing bodies and the police where this is necessary to enforce stadium or travel bans. We will also share data with third parties holding events at our venues as necessary to ensure that your attendance is appropriately managed and we will share appropriate data with third party ticketing providers as necessary to manage our ticketing processes.
+We will share your data with relevant third parties for the purposes set out above, in particular we will share details of fans or participants with other football stakeholders such as the Premier League and English Football League, other footballing governing bodies and the police where this is necessary to enforce stadium or travel bans. We will also share information with relevant third parties, such as employers, law enforcement bodies, governing bodies or the Gambling Commission where this is the appropriate outcome of an investigation which we have carried out or following a request which we have received. We will also share data with third parties holding events at our venues as necessary to ensure that your attendance is appropriately managed and we will share appropriate data with third party ticketing providers as necessary to manage our ticketing processes.
 
 Personal data may be shared with government authorities and/or law enforcement officials if required for the purposes above, if mandated by law or if required for the legal protection of our legitimate interests in compliance with applicable laws.
 
@@ -123,7 +123,9 @@ It also includes processing in relation to the following sites:
 
 [https://events.wembleystadium.com](https://events.wembleystadium.com/)
 
-<https://tickets.wembleystadium.com/>  
+<https://tickets.wembleystadium.com/>
+
+<https://ticketing.thefa.com/>  
   
 ---|---  
   
@@ -319,7 +321,7 @@ England Online Store
 
 | 
 
-[click here](http://www.thefa.com/public/privacy/eng-online-store)  
+[click here](https://www.englandstore.com/stores/fa/en/help?helpSection=privacy)  
   
 17
 
@@ -331,4 +333,64 @@ Education
 
 [click here](http://www.thefa.com/public/privacy/education)  
   
-Effective Date: This Privacy Policy was updated on 14th May 2018 and is effective as of that date.
+18
+
+| 
+
+SSE Wildcats
+
+| 
+
+[click here](http://www.thefa.com/public/privacy/sse-wildcats)  
+  
+19
+
+| 
+
+Benevolent Fund
+
+| 
+
+[click here](http://www.thefa.com/public/privacy/benevolent-fund)  
+  
+20
+
+| 
+
+DWF Participation Programme 
+
+| 
+
+[click here](http://www.thefa.com/public/privacy/dwf-participation-programme)  
+  
+21
+
+| 
+
+Matchday 
+
+| 
+
+[click here](http://www.thefa.com/public/privacy/matchday)  
+  
+22
+
+| 
+
+Licensed Coaches' Club 
+
+| 
+
+[click here](http://www.thefa.com/public/privacy/licensed-coaches-club)  
+  
+23
+
+| 
+
+Bursary Application
+
+| 
+
+[click here](http://www.thefa.com/public/privacy/bursary-application)  
+  
+Effective Date: This Privacy Policy was updated on 12th March 2019 and is effective as of that date.
