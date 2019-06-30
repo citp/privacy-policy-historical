@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uline.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024102id_/https%3A//www.uline.com/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uline.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224739id_/https%3A//www.uline.com/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
 
 # Uline: Privacy Policy
 
@@ -19,4 +19,4 @@ Please [contact Uline](https://web.archive.org/CustomerService/ContactUs_Menu) i
 
 In the future, Uline may update this privacy policy to reflect unanticipated practices not outlined above. These changes will be posted to the website, and users are invited to occasionally review the Privacy Policy.
 
-12/25/2018 08:41:02 PM; USWEB6 -102175462-0/0-1
+06/30/2019 05:47:39 PM; USWEB8 -110023103-0/0-1
