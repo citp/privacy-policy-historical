@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govisitcostarica.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216124241id_/https%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govisitcostarica.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630183035id_/https%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Go Visit Costa Rica
 
@@ -52,6 +52,9 @@ You can opt out of targeted advertisements by visiting the [Opt Out From Online 
 **California Privacy Rights**  
 In addition to the rights as explained in this Privacy Policy, under California’s "Shine the Light" law, California residents who provide personal information (as defined in the statute) in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the personal information we shared, if any, with other businesses for marketing uses. If applicable, this information would include the categories of personal information and the names and addresses of those businesses with which we shared such personal information for the immediately prior calendar year (e.g. requests made in 2013 will receive information about 2012). To obtain this information please write to us at: Delfina Travel Group, Inc., 4151 Mission Blvd Suite 212, San Diego, CA 92109, USA, Attn: DELFINA Privacy Officer -- California Privacy Law. Please include your full name and address. 
 
+**Display Ads**  
+The Website uses Mediavine to manage all third-party advertising on the Website. Mediavine serves content and advertisements when you visit the Website, which may use cookies. Mediavine may collect IP addresses and location to serve personalized ads. If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit http://www.networkadvertising.org/managing/opt_out.asp. 
+
 **Children**  
 We do not knowingly solicit data online from or market online to children under the age of 18. 
 
@@ -70,4 +73,4 @@ If you are a registered user of the Sites, subscriber to DELFINA publications, o
 **No guarantee**  
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, and despite our efforts, DELFINA cannot guarantee or warrant the security of any information you transmit to us, or to or from our online products or services. If you have questions about this Privacy Policy, please [contact us](https://www.govisitcostarica.com/contactUs.asp). 
 
-Last updated: November 23, 2015 
+Last updated: January 30, 2019 
