@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivisa.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820015043id_/https%3A//www.ivisa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivisa.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630195733id_/https%3A//www.ivisa.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Terms in iVisa
 
@@ -47,6 +47,7 @@ When you interact with us through the Site, we may collect Personal Data and oth
 
 
 
+
 #### Our Use of Your Personal Data and Other Information:
 
 Company uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Company Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Company and its subsidiaries and affiliates (the “Company Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Company Services. Company and its affiliates may use this information to understand personal travel patterns and contact you in the future to tell you about services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
@@ -66,6 +67,7 @@ Company is not in the business of selling your information. We consider this inf
   * _Legal Requirements:_ Company may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Company, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability.
 
   * _Partner Companies:_ We may also share your Personal Data with Partner Companies for purposes consistent with this Privacy Policy.
+
 
 
 
@@ -101,7 +103,7 @@ Company takes reasonable steps to protect the Personal Data provided via the Sit
 
 #### Other Terms and Conditions:
 
-Your access to and use of this Site is subject to the [Terms of Use](https://web.archive.org/terms-and-conditions).
+Your access to and use of this Site is subject to the [Terms of Use](https://web.archive.org/terms-and-conditions/).
 
 #### Changes to Company’s Privacy Policy:
 
@@ -113,11 +115,11 @@ To keep your Personal Data accurate, current, and complete, please contact us as
 
 Please also feel free to contact us if you have any questions about Company’s Privacy Policy or the information practices of this Site.
 
-You may contact us sending an email to help@ivisa.com
+You may contact us sending an email to [help@ivisa.com](mailto:help@ivisa.com).
 
 #### Your California Privacy Rights:
 
-Applicable California privacy legislation permits visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request to access such information, please contact us as follows: sending an email to help@ivisa.com. Within thirty (30) days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
+Applicable California privacy legislation permits visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request to access such information, please contact us as follows: sending an email to [help@ivisa.com](mailto:help@ivisa.com). Within thirty (30) days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
 
 #### Information for Residents of the European Economic Area:
 
@@ -129,6 +131,7 @@ iVisa is a data controller for processing of information defined as personal dat
 
   * _EU DATA SUBJECT RIGHTS:_ The EU General Data Protection Regulation (GDPR) and other applicable data protection laws provide certain rights for individual data subjects (“EU Data Subject Rights”). You may decline to share certain Personal Data with us, in which case we may not be able to provide some of the features and functionality of our services. These rights include, in accordance with applicable law, the rights to access or rectify Personal Data, object to or restrict further processing, or request the erasure of Personal Data or, where feasible, to have it moved to a new service provider (“data portability”). Requests should be submitted by contacting us using the contact instructions below. You may access and change certain Personal Data by logging into our website and updating the account settings page and other features. Otherwise, we will make commercially reasonable efforts to provide you reasonable access to your Personal Data within 30 days of your access request to the contact address below. We provide this access so that you may review, make corrections, or request deletion of your Personal Data. If we cannot honor your request within 30 days, we will inform you when we will be able to provide such access. If for some reason access is denied, we will provide an explanation. When technically feasible, at your request, we will provide your Personal Data to you or transmit it directly to another controller. We retain your Personal Data while you have an account with us and while you are using our services or continuing to visit our website. We will retain your Personal Data for as long as it is reasonably necessary for the purposes set out in the Privacy Policy, considering the time period reasonably necessary to: provide the services to you, exercise the choices and rights you have requested, comply with our contractual obligations, enforce our terms for use of the services, and comply with legal and regulatory requirements. If you have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the relevant national data protection supervisory authority and lodge a complaint
 
-  * _CONTACT US:_ For all EU Data Subject Rights requests, you must put the statement "Your EU Data Subject Rights" in the subject field of your request and include in the request the name of the Services with respect to which you are requesting the information, as well as your contact information. If you have questions or wish to exercise EU Data Subject rights, please contact us at help@ivisa.com. Our EU representative is Sergio Merino, located in Calle Antonia Merce 8, 28009, Madrid, Spain. [
+  * _CONTACT US:_ For all EU Data Subject Rights requests, you must put the statement "Your EU Data Subject Rights" in the subject field of your request and include in the request the name of the Services with respect to which you are requesting the information, as well as your contact information. If you have questions or wish to exercise EU Data Subject rights, please contact us at [help@ivisa.com](mailto:help@ivisa.com). Our EU representative is Sergio Merino, located in Calle Antonia Merce 8, 28009, Madrid, Spain.
+
 
 
