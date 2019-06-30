@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ask.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134223id_/https%3A//www.ask.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630214250id_/https%3A//www.ask.com/privacy) for the most accurate reproduction.*
 
 # Ask.com - What's Your Question?
 
@@ -160,7 +160,7 @@ Further, if you are receiving the Services from the European Economic Area (the 
 
 In compliance with the EU-US and Swiss-US Privacy Shield Principles, IAC Publishing, LLC commits to resolve complaints about your privacy and IAC Publishing’s collection or use of your personal information.  **European Union or Swiss individuals**  with inquiries or complaints regarding this privacy policy should first contact us at the address set forth here.
 
-IAC Publishing, LLC has further committed to refer unresolved privacy complaints regarding the Site or mobile applications under the EU- US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU PRIVACY SHIELD web site at [www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://web.archive.org/web/20181227134223id_/https%3A//www.ask.com/www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+IAC Publishing, LLC has further committed to refer unresolved privacy complaints regarding the Site or mobile applications under the EU- US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU PRIVACY SHIELD web site at [www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://web.archive.org/web/20190630214250id_/https%3A//www.ask.com/www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
 Please note that if your complaint is not resolved through the channels listed in this Privacy Policy, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
