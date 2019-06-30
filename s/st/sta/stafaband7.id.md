@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stafaband7.id privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224035638id_/http%3A//stafaband7.id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stafaband7.id privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630033612id_/http%3A//stafaband7.id/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | STAFABAND
 
