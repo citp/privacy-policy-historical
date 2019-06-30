@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kasautiizindagiikay.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530114108id_/http%3A//kasautiizindagiikay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kasautiizindagiikay.com privacy policy that was archived on 2019-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190701015540id_/http%3A//kasautiizindagiikay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kasauti Zindagi Ki
 
