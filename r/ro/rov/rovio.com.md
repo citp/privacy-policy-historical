@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rovio.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230020943id_/http%3A//www.rovio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rovio.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630084011id_/http%3A//www.rovio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Rovio.com
 
