@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adman.gr privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224850id_/http%3A//adman.gr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adman.gr privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630175105id_/http%3A//www.adman.gr/privacy) for the most accurate reproduction.*
 
 # Privacy - ADMAN
 
@@ -34,6 +34,14 @@ An ADMAN cookie is also used to store users’ opt-out choices.
 #### Other Data
 
 ADMAN does not process or store any personal information, other than online identifiers stored in cookies. It may use the IP address of a viewer of an advertisement to determine her country, but the IP address is never stored anywhere. No other personal information, as defined by the GDPR, is processed. Pseudonymous online identifiers that we store, which identify unique web browsers, are anonymized or aggregated in their entirety within a week since they have been stored.
+
+Our partners also use additional identifiers to collect information. The collection, storage and responsibility of those data, is exclusively controlled by the respective partner.
+
+You can find our current partners listed below:
+
+  * **Nielsen:**[Privacy Policy and Opt-Out](https://www.nielsen.com/us/en/privacy-statement/website-privacy-statement.html)
+
+
 
 #### Uses of Personal Data
 
