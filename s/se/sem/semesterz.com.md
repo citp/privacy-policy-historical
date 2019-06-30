@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semesterz.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224182310id_/http%3A//www.semesterz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semesterz.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630050003id_/http%3A//semesterz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Semesterz
 
