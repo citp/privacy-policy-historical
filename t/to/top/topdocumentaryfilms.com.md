@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdocumentaryfilms.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229153801id_/https%3A//topdocumentaryfilms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdocumentaryfilms.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211302id_/https%3A//topdocumentaryfilms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Documentary Films
 
@@ -12,9 +12,9 @@ Additionally, when submitting your comment, you may opt-in to saving your name a
 
 2\. Ratings:
 
-Documentaries on this site can be rated. When you rate a documentary this site will record your IP address and if possible your Internet Service Provider (ISP). Also, this site will place a recognizable cookie on your computer so you're unable to rate the same documentary multiple times. This data is not tied to any personally identifiable information of yours. 
+Documentaries on this site can be rated. When you rate a documentary this site will record an anonymized string (also called a hash) created from your IP address and your Host/Internet Service Provider (ISP). Also, this site will place a recognizable cookie on your computer. We record this particular data so you're unable to rate the same documentary multiple times. This data is not tied to any personally identifiable information of yours.
 
-We purge these logs every two years, meaning their retention on this site could be up to maximum of two years, depending on when you've performed a rating relative to our purge date. The next rating data purge will be performed on 5/25/2020.
+We purge these logs every two years, meaning their retention on this site could be up to maximum of two years, depending on when you've performed a rating relative to our purge date. The next rating data purge will be performed on 12/30/2020.
 
 \----------------------------------
 
@@ -52,4 +52,4 @@ What they collect, retain and disseminate you can read at their respective pages
 
 We are a participant in the [Amazon Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites. This means that some of the links on this site are "Amazon affiliate links". When you click on one of those links, you will leave this site and land on an Amazon.com page. If you decide to purchase an item from Amazon.com, through our link, we will receive an affiliate commission. However, we only recommend products (documentaries) that we believe are worth purchasing and will add value to our visitors. If you want to know more about how Amazon.com uses your data visit [Amazon Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
 
-_Last updated: 11/15/2018_
+_Last updated: 12/30/2018_
