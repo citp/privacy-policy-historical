@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smugmug.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134750id_/https%3A//www.smugmug.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smugmug.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215509id_/https%3A//www.smugmug.com/about/privacy) for the most accurate reproduction.*
 
 # SmugMug's Privacy Policy
 
@@ -175,51 +175,3 @@ If you are a resident of the EEA and have a concern about our processing of pers
 #### Contact Us
 
 We welcome your feedback. If you have any comments or concerns about this Privacy Policy or would like to contact us for any reason, you may reach us via email at [help@SmugMug.com](mailto:help@smugmug.com). Attention: Ivan Makarov, 67 E Evelyn Ave, Ste 200, Mountain View, CA 94041, USA. 
-
-### What are cookies?
-
-Cookies are small strings of characters that can be placed on your computer or mobile device via standard browser techniques that uniquely identifies your browser or device. We may use technologies like cookies, pixels and local storage to deliver, secure, and understand products and services.
-
-### What are cookies used for?
-
-Cookies and other technologies allow a site or service to know if your computer or device has visited it before. These technologies can then be used to deliver products and services, help us understand how the site or service is being used, help you navigate between pages efficiently, help remember your preferences, and generally enable and improve your experience in using those services. Cookies can also help ensure marketing you see online is more relevant to you and your interests.
-
-### How long will cookies stay on my device?
-
-The length of time a cookie will stay on your computer or mobile device depends on whether it is a "persistent" or "session" cookie. Session cookies will only stay on your device until you stop browsing. Persistent cookies stay on your computer or mobile device until they expire or are deleted.
-
-### First and third party cookies
-
-First-party cookies are cookies that belong to SmugMug, third-party cookies are cookies that another party accesses or places on your device through our Service. Third-party cookies may be placed on your device by someone providing a service for SmugMug, for example to help us understand how our service is being used. Third-party cookies may also be placed on your device by our business partners so that they can use them to advertise products and services to you elsewhere on the Internet. These companies’ use of cookies and similar technologies is subject to their own privacy policies, not the SmugMug Privacy Policy.
-
-### Why does SmugMug use cookies and similar technologies?
-
-We use cookies, pixels, local storage, and similar technologies to show you relevant content, improve your experience, and help protect SmugMug and our users. We may use these technologies to deliver the service, provide you with a service that is easy to use, enable you to move around the Service and use its features, such as accessing secure areas, and storing information so that SmugMug can respond faster. We may use these technologies to collect information about how you use the Service, for example which pages you go to most often and if you get error messages from certain pages. We may use these technologies to allow us to remember choices you make (such as your user name, the currency you wish to view purchases in or content you have provided access credentials to) and tailor the Service to provide enhanced features and content for you. SmugMug or our advertising partners may use these technologies to deliver advertising that is relevant to your interests, for example if you are already a SmugMug customer, they could be used to not show you advertisements to join SmugMug. These technologies can remember that your device has visited a site or service, and may also be able to track your device's browsing activity on other sites or services other than SmugMug which also make use of the services of these third parties. This information may be shared with organizations outside SmugMug, such as advertisers and/or advertising networks to deliver the advertising, and to help measure the effectiveness of an advertising campaign. We may use these technologies to understand, improve, and research products and services.
-
-The cookies we use generally fall into one of the following categories.
-
-**Category  of Cookies** | **Why we use these cookies**  
----|---  
-**Technical/Required** | These cookies are essential for our services to function properly. Like the other cookies we use, technical cookies may be either first-party cookies or third-party cookies.  
-**Preferences** | We use these cookies to remember your settings and preferences.  
-For example, we may use these cookies to remember your language preferences.  
-**Performance** | We use these cookies to collect information about how you interact with our services and to help us improve them.  
-For example, we may use these cookies to determine if you have interacted with a certain page.  
-**Analytics** | We use these cookies to help us understand and improve our services.  
-For example, we can use these cookies to learn more about which features are the most popular with our users and where we may need to make improvements.  
-**Advertising** | We and our advertising partners use these cookies to deliver advertisements, to make them more relevant and meaningful to visitors to our website, and to track the efficiency of our advertising campaigns.  
-  
-### Where will SmugMug set cookies?
-
-The SmugMug service can be accessed via many different internet domain names. The majority of these are domain names owned by our customers which they have configured to present their SmugMug site content, known as “Custom Domains”. SmugMug, when serving content on these Custom Domains, will store cookies and use similar technologies both on that custom domain and on SmugMug owned and operated domain names, as required to fulfill service delivery.
-
-### How to control cookies or other collection mechanisms
-
-Follow the instructions provided by your browser or mobile device (usually located within the "Help", "Tools" or "Edit" facility) to modify your cookie settings. Please be advised that if you set your browser to disable cookies or other technologies, you may not be able to access certain parts of our Service and other parts of our Service will not work properly. In addition, you have other choices with respect to how cookies are used:
-
-  * To prevent your data from being used by Google Analytics, you can install [Google’s opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
-  * For information on how our advertising partners allow you to opt out of receiving ads based on your web browsing history, please visit [http://optout.aboutads.info](https://optout.aboutads.info/). European users may opt out of receiving targeted advertising through the [European Interactive Digital Advertising Alliance](https://www.youronlinechoices.eu/).
-  * To opt out of ads on Facebook, Pinterest, or Google that are targeted to your interests, use your [Facebook](https://www.facebook.com/ads/settings), [Pinterest](https://help.pinterest.com/en/articles/personalized-ads-pinterest), or [Google Ads](https://adssettings.google.com/) settings.
-  * Check your mobile device for settings that control ads based on your interactions with the applications on your device. For example, on your iOS device, enable the “Limit Ad Tracking” setting, and on your Android device, enable the “Opt out of Ads Personalization” setting.
-
-
