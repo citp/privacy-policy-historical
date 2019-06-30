@@ -1,150 +1,80 @@
-> *The following text is extracted and transformed from the wired2fish.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905072141id_/http%3A//www.scout.com/3/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wired2fish.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235716id_/https%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
 
-# Scout.com: Privacy Policy
+# CBS Privacy Policy Highlights :: CBS Interactive
 
-**PRIVACY POLICY**
+Welcome to the network of interactive services provided by CBS Corporation, its affiliates and its subsidiaries (collectively “ **CBS** ,” “ **us** ,” or “ **we** ”). CBS is committed to protecting your privacy. CBS is committed to protecting your privacy as further described in the full [CBS Privacy Policy](https://web.archive.org/legal/cbsi/privacy-policy). This summary sets out the key points about how CBS handles your personal information.
 
-Last updated on July 6, 2015.
+##### Privacy Policy Scope
 
-Scout ("Scout" or "we" or "us") operates a digital media network, offers public forums, and publishes exclusive content focused on sports enthusiasts as well as other enthusiast-based channels. The services Scout offers include any Scout-branded URL and Club sites, Premium Subscriptions, which allows users to view premium online content and participate in premium forums, public forums and any other features, content, or applications offered from time to time by Scout in connection with Scout’s business, including when accessed via the Internet, mobile or other device (collectively, the "Scout Services").
+CBS owns, operates, or provides access to, several interactive web sites, mobile and connected TV applications, and other interactive features that provide an authorized link to the [CBS Privacy Policy](https://web.archive.org/legal/cbsi/privacy-policy) (collectively “ **CBS Services** ”). When you use CBS Services, we may collect your personal information in accordance with the CBS Privacy Policy to carry out our activities. The CBS Privacy Policy describes in detail the types of information collected about you when you visit the CBS Services; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected.
 
-Scout provides this Privacy Policy to describe our data practices related to the Scout Services. Your use of the Scout Services constitutes your consent to the collection, use, and transfer of information from you as described in this Privacy Policy. 
+ 
 
-This Privacy Policy applies for all websites that contain a link to this Privacy Policy including without limitation the following sites: 
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Scope_of_Privacy_Policy)
 
-• [North American Hunter](http://hunting.scout.com/)  
-• [North American Fisherman](http://fishing.scout.com/)   
-• [Handyman Club of America](http://handy.scout.com/)   
-• [National Home [FRIENDLYDOMAIN]](http://gardening.scout.com/)   
-• [[FRIENDLYDOMAIN]](http://golf.scout.com/)   
-• [[FRIENDLYDOMAIN] of America](http://cooking.scout.com/)   
-• [Warrior](http://warrior.scout.com/)   
-• [SCOUT](http://www.scout.com/)
+##### Information Collected
 
-**UNITED STATES ONLY**
+We collect a variety of information about you, including:
 
-The Scout Services are hosted in the United States. All matters relating to the Scout Services are governed by the laws of the State of New York. If you are a user located outside the United States, you understand and consent to having any personal information you provide transferred to, stored and processed in the United States. United States data protection and other relevant laws and regulations may not be the same as those in your jurisdiction. As a result, please read this Privacy Policy with care.
-
-**THE TYPES OF INFORMATION THAT SCOUT COLLECTS ONLINE**
-
-**Information Provided By You** Scout receives personal information you voluntarily provide to us through the Scout Services. For instance, when you enroll in a club; enter a sweepstakes or contest; complete a survey; make a purchase; request information, services, or products; or register for any portion of our services, you may provide us information such as but not limited to your name, e-mail address, mailing address, or phone number. You may also elect to provide us with demographic type information such as your age or gender. 
-
-Users of forums and message/bulletin boards should be aware that when they voluntarily disclose personal information (e.g., name, e-mail address, etc.) and content on a forum, message/bulletin board, in a chat area, or other interactive area where information can be posted, the information can be collected and used by other parties. We make no representations and undertake no obligations as to the security of information you voluntarily post in forums, chat rooms, message/bulletin boards, and other interactive areas. Please refer to the Terms of Service for additional terms regarding use of these services. 
-
-**NON-PERSONAL INFORMATION COLLECTION AND USE**
-
-When you visit or use the Scout Services, Scout may collect non-personally identifiable information ("non-PII") about those visits. For example, in order to permit your connection to a Scout website, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Scout Services from a mobile or other device, we may collect a device identifier assigned to that device or other transactional information for that device in order to serve content to it. Other non-PII that may be collected includes click-stream information such as the address (or "URL") of the website that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you have entered on our site.
-
-We may use this information to improve you experience, operate our Scout Services, provide accurate statistics to gauge usage of the Scout Services, for marketing and advertising, and for other operational purposes.
-
-We may also collect demographic and other data that has been aggregated to share with other companies for advertising and marketing purposes. For example and without limitation, Scout may disclose aggregated data that includes your zip code, gender and/or age.
-
-**HOW SCOUT USES INFORMATION PROVIDED BY YOU**
-
-We may use the information you provide to us to:
-
-  * fulfill requests for products, services or information,
-  * administer your membership accounts,
-  * provide and manage Scout Services,
-  * contact you,
-  * administer contests or promotions,
-  * offer and market our products and services and those of our affiliates and other parties we believe may be of interest to you,
-  * measure and improve the effectiveness of our websites or our marketing endeavors,
-  * tailor our online offerings and advertising to your preferences, and
-  * perform other business purposes as well as for purpose disclosed at the time of collection.
+  * Information you provide directly to CBS Services.
+  * Information about your computer and browsing activities on the Services, including through [cookies, web beacons, and other similar technologies](https://web.archive.org/legal/cbsi/privacy-policy/cookies-and-beacons).
+  * Information about you from other third-party sources , including your personal information if you access a CBS Service through social networking services such as Facebook and Twitter.
+  * Information about you from other sources where permitted by law.
 
 
 
-We may combine personal information that you provide to us with other data to deliver and improve Scout Services as well as provide you with and to market to you products or provide services that we believe may be of interest to you.
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Information_Collected)
 
-**Information Sharing**
+##### Use of Information
 
-We many share personal information:
+The purpose for which we use the personal information we collect will depend on the particular interaction you have with CBS Services. We use the information we collect to:
 
-  * With our affiliates and across Scout Services and websites for purposes described in this policy.
-  * With our service providers who provide services on our behalf including but not limited to website hosting, order processing and fulfillment, credit card clearance, e-commerce affiliation, data analysis, emailing and other services of an administrative nature.
-  * With select companies that we think can offer you services and products of interest to you.
-  * Where we believe it is necessary to comply by law, regulation, legal process, or governmental requests; enforce our Terms of Service; or protect the rights, property, or safety of Scout, its users or the public.
-  * To assign, sell, license, or otherwise transfer to a third party, all information collected from or in relation to you in connection with an assignment, sale, joint venture, bankruptcy proceeding, or other transfer or disposition of a portion or all of the assets or stock of Scout or its affiliated entities.
+  * Provide the services you request.
+  * Tell you about offers we think you will value.
+  * Customize the content and advertising you see.
+  * Improve your experience on CBS Services.
+  * And, as otherwise described to you at the point of collection or with your consent.
 
+ 
 
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Use_of_Information)
 
-Except as provided herein and so long as you activate your membership, Scout will not sell to any third party your e-mail address unless you provide your informed consent. 
+##### Disclosure of Information
 
-**DIGITAL ADVERTISING & COOKIES**
+We may share your information:
 
-Scout may work with third parties that support Scout Services by serving advertisements or providing Scout Services, such as allowing users to share content, view premium content, or post to the forums or tracking aggregate website usage statistics, may also use these technologies to collect information. Scout does not control these technologies used by third parties. The privacy policies of these third parties govern their use of such technologies.
-
-Scout may also work with third-party companies to display ads on Scout Services and elsewhere on the Internet. These companies may use cookies (a small text file), pixels, or other technologies used to gather information about your visits to Scout Services as well as your visits elsewhere on the Internet. These companies use this information to provide you more relevant advertising known as interest-based advertising. Some of these companies may be participants in the Digital Advertising Alliance ("DAA"). The DAA offers a choice mechanism with respect to certain types of data collection and use. Visit www.aboutads.info to exercise choice with respect to participants of the DAA. If you change computers or browsers, use multiple computers or browsers, or delete your cookies, you may need to repeat this process for each computer and each browser.
-
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to certain block cookies altogether. Please consult the "Help" section of your browser for more information. Please note that by blocking any or all cookies you may not have access to certain features or personalization available through Scout Services.
-
-**SEND-TO-A-FRIEND TOOLS**
-
-Scout Services, from time to time, may include a send-to-a-friend application or social sharing tools that makes it easy for you to forward information or materials from the Scout Services to friends or family by e-mail or via a social network. In order to address your e-mail message, the application will ask you to input the recipient’s e-mail address and/or similar information (including your e-mail address) (collectively "Send-To-A-Friend Information"). Send-To-A-Friend information is only used by the application to address your message so that it can be properly sent. Scout does not retain any Send-To-A-Friend Information for any other purpose. Note that Scout does not control data shared via social networks. You should review the privacy policies of the social network to learn about their data practices.
-
-**THIRD PARTY RETAILERS AND OFFERS**
-
-Some of the Scout Services may from time to time work with a retailer or other third party to offer online shopping opportunities, games, services, subscriptions and other applications on a co-branded or cross-promotional basis. Those transactions may take place via a Scout Service, or the site of the third party. In any case, personal information you provide in connection with the transaction may be shared with the third party, as well as with any participating sponsors or advertisers of such opportunities and features.
-
-**Third Party Websites & Links**
-
-The Scout Services may contain links to other websites or services not operated by Scout. Scout is not responsible for the information practices or the content of such other websites or services. Scout encourages you to review the privacy statements of such other websites or services to understand their information practices.
-
-**SECURITY**
-
-Scout maintains reasonable practices and procedures designed to help secure personal information collection through the Scout Services. 
-
-**SCOUT’S OPT-OUT**
-
-You may request to have personal information about you suppressed in our records. Please note that we may need to retain certain information for record keeping purposes, and there may also be residual information that will remain within our databases and other records. We reserve the right, from time to time, to re-contact former users of the Websites.
-
-We give you the following options for removing your personal information from our records in order to stop receiving future communications from the Scout Services.
-
-1\. Follow directions on a marketing e-mail or direct mail communication from us regarding the removal of your personal information from our records. 
-
-2\. You can send your request via e-mail to the club-specific website:
-
-• [[FRIENDLYDOMAIN] of America](mailto:memberservices.cooking@scout.com)  
-• [Handyman Club of America](mailto:memberservices.handy@scout.com)  
-• [[FRIENDLYDOMAIN]](mailto:memberservices.fishing@scout.com)  
-• [National Home [FRIENDLYDOMAIN]](mailto:memberservices.gardening@scout.com)  
-• [[FRIENDLYDOMAIN]](mailto:memberservices.hunting@scout.com)  
-• [Warrior Club](mailto:memberservices.warrior@scout.com)  
-• [[FRIENDLYDOMAIN]](mailto:memberservices.golf@scout.com)  
+  * Where we have obtained your consent, including with video content and social networking services as described in our [Video Services Policy](https://web.archive.org/legal/cbsi/privacy-policy/video-services-and-social-networking).
+  * With our third party service providers.
+  * With business partners who sponsor a sweepstakes, contest, or promotion; or who jointly offer a service or feature with a CBS Service.
+  * Within the family of [CBS businesses](http://www.cbscorporation.com/our-portfolio).
+  * If a CBS Service is sold to another company.
+  * To protect or defend the rights of CBS or our users.
+  * When required by law or public authorities.
 
 
-3\. You can send your request via e-mail to [optout@scout.com](mailto:optout@scout.com). 
 
-4\. You can send your request via U.S. Postal Service to the following mailing address. As indicated, please provide the specific club name in the first line of the address: 
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Disclosure_of_Information)
 
-[insert club name]  
-SCOUT   
-1270 Avenue of the Americas, 9th Floor  
-New York, NY 10020
+##### How to Contact Us
 
-Please note: We are not responsible for removing information from third-party lists or entities with which we have shared your information pursuant to this policy.
+If you have questions regarding the CBS Privacy Policy, please [contact us](https://web.archive.org/legal/cbsi/contact-us/pp) and we will endeavor to respond to your request within a reasonable period of time. You may also submit questions or comments using the postal address listed below:
 
-**CHILDREN**
+CBS Interactive Inc. 235 Second Street San Francisco, CA 94105 USA Attn: Legal Department 
 
-The Scout Services are not directed at children under the age of 13 and are not intended for use by those under 18. If you are under 18, you may not provide any personal information to the Scout Services.
+We are committed to working with you to obtain a fair resolution of any privacy concern.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**
+##### California Privacy Rights
 
-Customers residing in California may submit a request for a list of (1) the categories of personal information that we may share with third parties, and (2) a list of the names and addresses of all third parties with whom we have shared such information for their marketing purposes during the preceding calendar year. To request this information, please submit a request to: [caprivacyrights@scout.com](mailto:caprivacyrights@scout.com).
+Residents of the State of California may request a list of all third parties to which a CBS Service has disclosed certain information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and want such a list, please [contact us](https://web.archive.org/legal/cbsi/privacy-policy/contact-info). For all requests, you must put the statement "Your California Privacy Rights" in the subject field of your request and include the name of the CBS Services with respect to which you are requesting the information, as well as your name, street address, city, state, and zip code. Please note that we will not accept these requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information. For additional information for residents of the State of California, [click here](https://web.archive.org/legal/cbsi/privacy-policy/california). 
 
-**UPDATING YOUR INFORMATION**
+##### EU Data Subject Rights
 
-Through the My Profile option, you can access and edit your registration information, Member Profile Information, Premium Subscription information and "My HotList" Preferences. We may retain backup information related to your My Profile account and Premium Subscription on our servers for some time after deactivation for fraud detection or to comply with applicable law or our internal security policies. To update your shipping information, click "My Subscriptions" and then click on "Edit Shipping Address".
+The EU General Data Protection Regulation (GDPR) provides certain rights for EU data subjects. For additional information for residents of the EU, [click here](https://web.archive.org/legal/cbsi/privacy-policy/eu).
 
-**CONTACTING US**
+##### Canada Privacy Rights
 
-If you have any questions about this Privacy Policy, please feel free to contact us at:
+The Canadian Personal Information Protection and Electronic Documents Act (PIPEDA) provides certain rights for Canadian residents. For additional information for residents of Canada, [click here](https://www.cbsinteractive.com/legal/cbsi/privacy-policy/canada)
 
-SCOUT   
-1270 Avenue of the Americas, 9th Floor  
-New York, NY 10020
+##### Australia Privacy Rights
 
-**REVISIONS TO OUR PRIVACY POLICY**
-
-Any of the policies or procedures in this Privacy Policy may be changed at any time without prior notice. You can determine if this Privacy Policy has been revised by referring to the "Last Updated" date at the top of this page. Use of the Websites constitutes your acceptance of the terms of our Privacy Policy then in effect. We encourage you periodically review this policy to ensure familiarity with the most current version of our Privacy Policy.
+The Australian Privacy Act provides certain rights to Australian residents. For additional information for residents of Australia, [click here](https://www.cbsinteractive.com/legal/cbsi/privacy-policy/australia)
