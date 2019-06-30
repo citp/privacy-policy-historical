@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the turntablelab.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711002654id_/http%3A//turntablelab.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turntablelab.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630202831id_/http%3A//turntablelab.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TurntableLab.com
 
 _TURNTABLE LAB respects each individual’s right to personal privacy. Therefore, we will only collect and use information through our web site www.turntablelab.com in the ways described in this policy._
 
-**I. Information Collection**
+**I. Information Collection**  
 
-TURNTABLE LAB collects personal information through our web site during purchase of products: your name, business name, email, address (street, city, state, zip, and country) and telephone number. TURNTABLE LAB uses Shopify.com as a third-party gateway, you can view their privacy policy at: [http://app.shopify.com/legal/privacy.html](http://app.shopify.com/legal/privacy.html).  TURNTABLE LAB uses First National for credit card clearing and Paypal.
+TURNTABLE LAB collects personal information through our web site during purchase of products: your name, business name, email, address (street, city, state, zip, and country) and telephone number. TURNTABLE LAB uses Shopify.com as a third-party gateway, you can view their privacy policy at: <https://www.shopify.com/legal/terms>.  TURNTABLE LAB uses Shopify for credit card clearing and Paypal.
 
   * At no time does TURNTABLE LAB have access to your credit card number.
 
@@ -58,7 +58,6 @@ The information collected by TURNTABLE LAB will be used in conjunction with the 
 **IV. Data Storage and Security  
 ** 
 
-  * While no information you may provide over the internet can ever be 100% safe, TURNTABLE LAB employs the use of sophisticated encryption and authentication tools that facilitate in ensuring the security of your personal information through our website. We will always do our best to protect your personal information.  
-
+  * While no information you may provide over the internet can ever be 100% safe, TURNTABLE LAB employs the use of sophisticated encryption and authentication tools that facilitate in ensuring the security of your personal information through our website. We will always do our best to protect your personal information.
 
 
