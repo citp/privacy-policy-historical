@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227143442id_/http%3A//www.care2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630173502id_/http%3A//www.care2.com/privacy-policy) for the most accurate reproduction.*
 
 # Care2 Privacy Policy
 
@@ -25,7 +25,7 @@ When visiting our website, you will be notified of what personally identifiable 
 
 Questions regarding this privacy statement should be submitted to Care2 Customer Support using the [Help Form](http://www.care2.com/help/support).
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://web.archive.org/web/20181227143442id_/http%3A//www.care2.com/feedback-form.truste.com/watchdog/reques).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://web.archive.org/web/20190630173502id_/http%3A//www.care2.com/feedback-form.truste.com/watchdog/reques).
 
 **Privacy Questions**
 
