@@ -1,183 +1,276 @@
-> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230134814id_/https%3A//www.allmusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235532id_/https%3A//www.rhythmone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AllMusic
+# Privacy Policy | RhythmOne
 
-Review RhythmOne, LLC's ("1R") legal and privacy notices for details on how we collect, use and protect your personal information on the website. 
+### **RhythmOne Privacy Notice**
 
-Your use of and access to any website or software application owned by 1R ('1R Property(ies)') either (i) made available to you directly or indirectly from this website; or (ii) with a direct link to this privacy policy is subject to this privacy policy. This privacy policy explains the data that we collect and how we use it. 
+**LAST UPDATED March 15, 2019**
 
-We respect your privacy. If you have any privacy concerns or questions about this privacy policy, you can contact us by email at: [ cevinpl@fvqrerry.pbz ](mailto:cevinpl@fvqrerry.pbz). 
+RhythmOne respects your right to privacy.  This Privacy Notice explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. This Notice applies to personal information that we collect through our websites at [https://www.rhythmone.com](https://www.rhythmone.com/), [https://www.yume.com](https://www.yume.com/), [https://perk.com](https://perk.com/), [http://www.360daily.com](http://www.360daily.com/), [https://viggle.tv](https://viggle.tv/), [https://www.allmusic.com](https://www.allmusic.com/), [https://www.allmovie.com](https://www.allmovie.com/), [https://www.celebified.com](https://www.celebified.com/), and [https://www.sidereel.com](https://www.sidereel.com/) (“ **Website** ”) and which we collect when you use or interact with our products / services.
 
-  * About us
-  * Your information
-  *     * Personal information
-    * Tracking and Cookies
-    * Consent for the use of cookies
-    * E-mail
-  * Which organizations collect the information
-  * Advertising
-  * Security
-  * Children
-  * Changing your preferences
-  * Other disclosures
-  * Overseas transfers
-  * Your consent
-  * Your rights
+If you have any questions or concerns about our use of your personal information, then please contact us using the contact details provided at the bottom of this Privacy Notice.
 
+**Quick Links**  
+We recommend that you read this Privacy Notice in full to ensure you are fully informed. However, if you only want to access a particular section of this Privacy Notice, then you can click on the relevant link below to jump to that section.
 
+  1. What Does the RhythmOne Group Do?
+  2. What is Targeted Advertising?
+  3. Codes of Conduct, Memberships and Certifications
+  4. What Personal Information Does the RhythmOne Group Collect and Why?
+  5. Cross-Application and Cross-Device Technology
+  6. Who Does the RhythmOne Group Share My Personal Information With?
+  7. Legal Basis for Processing Personal Information (EEA Visitors Only)
+  8. Cookies and Similar Tracking Technology
+  9. Opting-Out of Cookie Usage
+  10. How Does the RhythmOne Group Keep My Personal Information Secure?
+  11. International Data Transfers
+  12. Data Retention
+  13. Your Data Protection Rights
+  14. Do-Not-Track
+  15. Children
+  16. Updates to this Privacy Notice
+  17. How to Contact Us
 
-## About Us and This Policy
 
-All references to "we", "us" or "our" refer to RhythmOne, LLC and/or one or more of its affiliates. AllMusic is a member of the RhythmOne group and our office is located at 601 Montgomery Street #1600, San Francisco, CA 94111. 
 
-This policy gives you the details of who we are and the details of our privacy policies, including: what data we collect about you when you use 1R Property; what organization is collecting the information; how the information will be used or disclosed; what choices are available to you regarding collection and use of the data; what security measures are in place to protect your personal information; and how you can correct any inaccuracies in the information. 
+**1\. What Does the RhythmOne Group Do?**
 
-This policy may be amended from time to time without notice and it is your responsibility to read it carefully and review any changes that may have been made. Since changes will be posted on this page, we encourage you to check this page regularly. 
+The RhythmOne group provides advertising technology products and services. We are headquartered in the U.S. but have group companies all around the world. Our group consists of the following businesses: 
 
-For all users in locations other than in Europe, this policy, the processing of your online account data and any other data we collect shall be governed by the laws of the State of California and shall be subject to the exclusive jurisdiction of the courts in San Francisco, California. 
+  * _RhythmOne_ – we provide programmatic advertising and analytics services to publishers and advertisers including by way of in-game advertising.
+  * _YuMe by RhythmOne_ – we provide video advertising services in relation to websites, mobile applications and connected TVs.
+  * _Perk_ – we provide a platform through which users can earn redeemable gift points by watching advertising and video content.
 
-BACK TO TOP
 
-## Your Information: What We Collect, How We Collect It, and How It Is Used
 
-In common with most other websites and on-line services, we collect certain data about your visit to the 1R Properties. Any data we gather through your use of 1R Property falls into three categories: (1) personal information that you supply to us, such as information you provide when you register (including your e-mail address), create an account, create a user name, register your device, complete a survey, enter a contest, or purchase products or services; (2) information that is collected as you use 1R Property that becomes identified with your personal information; and (3) information that does not directly identify you and is collected as you use 1R Property, including your IP address, and information gathered with the use of a “cookie” (cookies are discussed further below), and information related to searches or recommendations on 1R Property. Such information collected includes, without limitation, which pages and content are browsed, interactions with advertising and content, and other data related to preferences and usage. We use this information to better provide products and services, including, without limitation, to better target advertising and content, (on our and our Partner's websites) and to generate statistics and reports. 
+Perk's services differ to those of RhythmOne and YuMe. As such, in order to assist with transparency and your understanding of this Notice, certain disclosures below are described as "Perk-specific".
 
-You may use certain 1R Property without registering or creating an account. We may nonetheless build a history of your interactions with the 1R Property even though we don't know who you are. 
+For more information regarding each business, please visit the website links set out above.
 
-In respect of certain 1R Properties which are products, 1R may also employ update management software to collect installation and registry information from your computer, including product, version, build, language and original equipment manufacturer. Where you use multiple 1R Properties, 1R may combine or link information collected from various 1R Properties and use it for the purposes outlined in this privacy policy. 
+  
+**2\. What is Targeted Advertising?**
 
-BACK TO TOP
+Certain of our products and services involve the provision of targeted advertising. This involves providing tailored advertising to online users based on their interests and behaviours. Crucially, our targeted advertising is conducted at an "audience" or a "segment" level (e.g. males in Chicago aged 25-34 who like cars) and so does not directly identify individuals.
 
-## Personal information
+We do not intentionally collect information that identifies you (such as your name, address, phone number, or email address) as part of our targeted advertising activities, and we prohibit our partners from sharing this information with us. We act on behalf of our customers in providing any targeted advertising products and services.
 
-As is common across websites, to use certain features of 1R Property we ask you to register, create an account, provide your full name and email address and create a password. Once you have created an account, you will have the option to fill out a form (all or portions of which may be included in your profile). When you create your profile, we collect personal information about you, such as name, address, location, e-mail address, favourite actors, music, etc. which will be stored in order to provide services to you and to conduct activities including, without limitation, using it to process your registration, maintain a profile about you, process your request to receive newsletters and email announcements, or to voluntarily participate in surveys or contests and/or to communicate with you about services and products we think may be of interest to you. 
+  
+**3\. Codes of Conduct, Memberships and Certifications**
 
-1R may allow you to set up profiles that may be viewed by other users of the 1R Properties. To enrich your profile you may chose to include some personal information in your public profile so that other users can identify you. You should only include information in your public profile that you do not mind making publicly available without restriction. 
+We are a member of the Digital Advertising Alliance (“DAA”), the Digital Advertising Alliance of Canada (“DAAC”), the European Interactive Digital Advertising Alliance (“EDAA”), the Internet Advertising Bureau (“IAB”), and Network Advertising Initiative (“NAI”) and adhere to each organization’s principles (the NAI Codes of Conduct, the DAA Self-Regulatory Program for Online Behavioral Advertising, the Canadian Self-Regulatory Principles for Online Behavioural Advertising, the EDAA Principles, and IAB Europe’s Self-Regulatory Principles for Online Behavioral Advertising respectively).
 
-To process your purchase orders we require your name, billing address, phone number, email address, shipping address, credit card information and credit card security codes. We use this information to process your order and, if any questions arise, to contact you about your order. We may also use it to contact you about other products and services we feel may be of interest to you. In general 1R will try to email you first but may phone or send an electronic message to you if you have provided these details and you consent to our so doing. 
+To learn more about interest-based or online behavioral advertising, and other advertising companies’ privacy policies and opt-out, please visit the DAA Website at [http://www.aboutads.info](http://www.aboutads.info/).
 
-Personal information is also used to provide personalised services to you, such as show tracking and recommendations. 
+  
+**4\. What Personal Information Does the RhythmOne Group Collect and Why?**
 
-BACK TO TOP
+The personal information that we may collect about you broadly falls into the following categories:
 
-## Tracking and Cookies
+  * __Information that you provide voluntarily__
 
-When you visit 1R websites and other 1R Properties, we and our advertising associates may store and access information from your device, including "cookies", clear GIFs (which are also sometimes called web bugs or web beacons) and browser details. We may collect information such as your browser type, the type of operating system you use, the domain name of your Internet service provider, IP address, pages visited on the site, services used and how you have used them. We and our advertising associates do this for a variety of purposes. In the case of our advertising associates, this may include the personalisation of advertisements based on your visits to sites in that party's network. 
 
-1R websites do not respond to “Do Not Track” requests. In addition, we are not responsible, and shall not be liable, for the acts of third parties, such as ad networks, with respect to such third parties’ tracking policies. 
 
-BACK TO TOP
+Certain parts of our Website or services may ask you to provide personal information voluntarily: for example, we may ask you to provide your contact details in order to register an account with us, to subscribe to marketing communications from us, and/or to submit inquiries to us. The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
-## Consent for use of cookies
+**Perk-Specific**  
+When registering an account with us, you may provide your account name, account photo, age, occupation, personal interests and third party social networking service user name.
 
-Some countries require you to consent to our and our advertising associates' use of some cookies, including in Europe. Where such requirements may be applicable, 1R highlights its use of cookies to you when visit 1R Properties for the first time. If you continue to use this 1R Property, we will imply from this that you consent to our use of cookies. 
+  * __Information that we collect automatically__
 
-Information about our use of cookies is contained in our ["Cookie Information"](https://web.archive.org/cookies). 
+**Our Website**  
+When you visit our Website, we may collect certain information automatically from your device. In some countries, including countries in the European Economic Area, this information may be considered personal information under applicable data protection laws.
 
-BACK TO TOP
+Specifically, the information we collect automatically may include information like your IP address, device type, unique device identification numbers, browser-type, broad geographic location (e.g. country or city-level location) and other technical information. We may also collect information about how your device has interacted with our Website, including the pages accessed and links clicked.
 
-## Email
+Collecting this information enables us to better understand the visitors who come to our Website, where they come from, and what content on our Website is of interest to them. We use this information for our internal analytics purposes and to improve the quality and relevance of our Website to our visitors.
 
-Email addresses are used for identification, inviting new friends to 1R Properties, searching for and finding friends, general communication, order processing and to send notifications to you. To facilitate searching for and finding friends on the 1R Properties, 1R allows users to search for other members using text searches, first and last name, email address, and by using other attributes. Users can invite friends to join certain 1R Properties by sending invitation emails via our automated invitation system. Where permitted by applicable law, 1R stores these email addresses so that the respondents may be added to the friend list of the member sending the invitations and to establish relationships between users. 
+**Our Products / Services**  
+We may collect browser-based information regarding how you interact with advertising placed via our products / services. This information may include the following: (i) technographic data related to the browser, operating system, and device, such as the name and version of your browser, (ii) connection data (such as the device’s current IP address), (iii) the current website visited, (iv) the website visited before the current website, (v) the title of the game for any in-game advertising, (vi) search terms, (vii) the date and time of the website visit, (viii) whether you have clicked on the advertising of our customer/our customer's website, visited the advertiser’s website, or undertaken a transaction with the advertiser, (ix) information like the aforementioned regarding the activity of users who share full length or shortened links via social media channels.
 
-BACK TO TOP
+We may also collect from our customers/partners certain non-identifying demographic information about users such as their gender, approximate regional location (e.g., country and town), and age, or generic categories about users and their interests (e.g., "female sports fan").
 
-## Which Organizations Are Collecting the Information?
+We may collect general health related information in association with customized advertising campaigns. General health-related information that is not based on a precise medical treatment or condition can include, but is not limited to the following examples: acne, allergies, dental, vision, heartburn, cold and flu, sinus, headache, back pain, first aid, sore throat and cholesterol management. In addition, interest in subjects such as diet, nutrition, exercise, beauty, hair removal, health and fitness may also be collected. Note that such information is only collected/processed at an aggregate level and solely in the U.S. and Canada. This information is not collected in relation to individuals located in the European Economic Area.
 
-When you provide information to 1R, that information is collected and maintained either by 1R or by an authorized agent or contractor of 1R such as web hosting companies, customer care service providers, and transaction processing service providers, unless specifically stated otherwise at the point of collection. 
+For certain of our properties like [https://www.sidereel.com](https://www.sidereel.com/), we may collect a user's entertainment likes and dislikes. This information includes ratings or reviews of films or TV shows and entertainment figures followed by the user. We may also collect user information like their email address, user name, preferences for receiving emails, ZIP code as well as technical information like the IP address and date of last sign-in on SideReel.
 
-BACK TO TOP
+Certain customers may choose to implement our Po.st technology, which facilitates the sharing of web content. When users use the Po.st services, we may receive information about which channel was used for sharing or receiving content (e.g. a social network or email). In addition, if a user uses Po.st to send an URL link to another user, and the user clicks on the sent URL link, we may also receive the above browser-based information related to this user.
 
-## Advertising
+If you are using our products/services via a mobile application, we may use the Apple IFA, Android Advertiser ID, or other device information that uniquely identifies a mobile device in order to match certain information that we collect via the mobile application.
 
-We may use your personal information and non-personal information to serve ads to you via 1R Property as well as to provide you with promotions, products and services. We may also use third-party advertising companies and other business partners to serve ads on 1R Property or Partner Sites and provide you with promotions, products and services. These third-party advertising companies and our business partners may be located throughout the world. 
+In certain territories, advertisers may also elect to run RhythmOne Surveys after their advertisements. "RhythmOne Surveys" are short surveys that users can voluntarily elect to participate in and where such survey responses may be used to create lookalike models that are not tied to a specific user. Such survey questions are a way for advertisers to obtain information directly from users about their interests. Users might be asked, for instance, "Which of the following comedy programs do you watch?" with a drop-down menu of TV shows, or "How frequently do you travel for business?" with a drop down menu of different options. We may place cookies, or collect mobile device identifiers, associated with this survey information or inferences or data segments we create from it. We may use the information we collect from RhythmOne Surveys in all of the ways we use the other information described in this Privacy Notice.
 
-These third-party advertising companies and business partners may receive and share with us information relating to the advertisements that they serve you including, without limitation, date and time of ad shown, the banner ad that was shown and your IP address and your interactions with such advertisements. These third-party advertising companies and business partners may use cookies, clear GIFs and anonymous information about your visits to 1R Property and other websites to measure and improve the effectiveness of their ads, promotions, products and services. This information may also be used for online preference and other targeted marketing purposes. The information received by these third-party advertising companies and business partners is subject to the privacy policies of these third-party advertising companies and business partners. We may be given access to this information by these third-party advertising companies and business partners which we may use for purposes including, without limitation, to better target advertising and content to you and to generate statistics and reports that help us develop our products and services. 
+**Perk-Specific**  
+We may collect information about how you interact with Perk websites and mobile applications including the following: (i) features you use and how often; and (ii) the running time of the websites / mobile apps including any crashes.
 
-With your consent (as indicated when you set up your account) we may make certain information about you (including personal information, where you consent) available to third-party advertising companies and other business partners under agreements between us and those third-party advertising companies and business partners. The third-party advertising companies and business partners will use that information to target advertising to you or provide and market promotions, products and services to you. You may withdraw your consent to our providing your personal information to advertising companies and business partners at any time by adjusting your preferences in the preference page of the relevant 1R Property. If you do so we will not provide your personal information from the relevant 1R Property to third party advertisers or business partners from the time you opt out. However where permitted by applicable law, we may still provide them with information that does not directly identify you from which they may send you targeted advertisements. 
+We might also use aggregated information for development or demographic profiling purposes, but any such use would not be personally identifiable. For instance, we might combine the information Facebook sends us about your age, gender and ZIP code with the data Perk sends us about your usage habits to find out more about which groups of people use specific Browser features. As an example, we might do this to get a sense of how many people aged 18-21 use the share feature, but not who those people actually are.
 
-Many of our advertising partners are part of the Network Advertising Initiative. You may opt-out of behavioural advertising for Network Advertising Initiative member companies by following the link below and opting-out of all or some of the advertising networks: <http://www.networkadvertising.org/managing/opt_out.asp>
+  * __Information that we obtain from third party sources__
 
-Opting out of Flash Cookies is described above in the tracking information section.
 
-BACK TO TOP
 
-## Security
+From time to time, we may receive personal information about you from third party sources (including BlueKai or LiveRamp), but only where we have checked that these third parties either have your consent or are otherwise legally permitted or required to disclose your personal information to us.
 
-We use commercially reasonable efforts to safeguard the confidentiality of your personal information. However, due to the design of the Internet, ever-changing technology and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. We will have no liability for disclosure of personal information due to errors in transmission or unauthorized or unlawful acts of third parties. 
+The types of information we collect from third parties include cookie and device IDs and we use the information we receive from these third parties to provide Targeted Advertising.
 
-You are responsible for the security of your user name, ID and password for any of the 1R Properties. Please take care when using and storing them. 
+**Perk-Specific**  
+We may receive personal information about you from the following third party sources: (i) third party social networking services; (ii) commercially available sources like BlueKai or LiveRamp; and (iii) our third party business partners.  
+ 
 
-BACK TO TOP
+**5\. Cross-Application and Cross-Device Technology**
 
-## Commitment To Childrens' Privacy
+We and/or our customers may use technology that establishes connections among related devices (such as mobile devices and desktop computers) both to deliver advertising that may be more relevant to you, as well as for analytics and reporting purposes. This means that information about your use of websites or applications on one of your devices may be combined with information from your other devices.
 
-Protecting the privacy of children is important to us. For that reason, none of our 1R Properties are directed at anyone under 13 and they are not structured specifically to attract anyone under 13. We also do not collect or maintain personal information from those users who we actually know are under 13. Should we learn or be notified that we have collected information from users under the age of 13, we will immediately delete such personal information. 
+We may also partner with third parties to provide such cross-device technology to our customers, and in doing so, we may share anonymous identifiers with those third parties in order to make connections among related devices. We may also use your device’s IP address to infer connections among related devices within the same household. To opt out of our use of such technologies, please follow the instructions set out in the Opting-out of Cookies Usage section below.
 
-BACK TO TOP
+We may disclose your personal information to the following categories of recipients:
 
-## Changing Your Personal Information & Preferences
+  * to our group companies, third party services providers and partners who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help to enhance the security of our Website), or who otherwise process personal information for purposes that are described in this Privacy Notice or notified to you when we collect your personal information. For example, partners like LiveRamp may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID. Our partners may link the personal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes.
+  * to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person;
+  * to an actual or potential buyer (and its agents and advisers) in connection with any actual or proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Notice; and
+  * to any other person with your consent to the disclosure.
 
-### Your Right to Choose
 
-When you register to access certain 1R Properties, you can let us know that you do not wish to receive announcements from us by opting out at the time you give us your personal information. You may also later opt out of providing us personal identifiable information by changing your preferences in the set up areas of the relevant 1R Properties or changing the necessary settings in your profile. For certain 1R Properties opting out may only be possible if you delete your account for that 1R Property. If you opt out or do not provide your personal information then some services and features (such as personal information services, recommendations and tracking of ratings and likes and dislikes) may not be available to you or may be deleted. All newsletters and email announcements from us will contain an unsubscribe link that also allows you to opt out at any time from these messages. 
 
-### Review and Correction
+  
+**7\. Legal Basis for Processing Personal Information (EEA Visitors Only)**
 
-You may review and update the personal information that you have provided us by visiting the relevant set up page of the 1R Property and updating your account profile. 
+If you are a visitor from the European Economic Area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
 
-BACK TO TOP
+However, we will normally collect personal information from you only (i) where we need the personal information to perform a contract with you, (ii) where the processing is in our legitimate interests and not overridden by your rights, or (iii) where we have your consent to do so. In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.
 
-## Other Disclosure of Personal Information
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
 
-We will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, (ii) as required by court order or other government or law enforcement authorities in order to comply with legal process or law, (iii) in the event of a merger where another company has acquired the relevant 1R Property, (iv) in order to protect against the misuse or unauthorized use of 1R Property, (v) in order to protect and defend our rights and property, or (vi) in order to protect the personal safety or property of our users or the public. 
+If we collect and use your personal information in reliance on our legitimate interests (or those of any third party), this interest will normally be to provide our services and communicating with customers / users as necessary to provide our services to you and for our legitimate commercial interest, for instance, when responding to queries, improving our services, undertaking marketing, or for the purposes of detecting or preventing illegal activities. We may have other legitimate interests and, if appropriate, we will make clear to you at the relevant time what those legitimate interests are.
 
-If 1R sells assets (or the assets of a division or subsidiary) to another entity, including, without limitation, in the event of bankruptcy, or if 1R (or a division or subsidiary) is acquired by, or merged with, another entity, 1R may provide to such entity user information (both anonymized and/or aggregate and personal information) that is related to that part of the business that was sold to or merged with the other entity. 
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the How to Contact Us heading below.
 
-### Links to Third Party Websites
+  
+**8\. Cookies and Similar Tracking Technology**
 
-1R Properties may display links to websites operated by third parties. If you click on a link, the relevant third party operator or others may collect data about you when you visit the linked website. They are responsible for the collection and further processing of such data and we have no control over it. We advise you to check the terms of use and privacy policies of any linked websites you visit to find out what data they are collecting and the purposes for which they process your personal data. 
+We use cookies and similar tracking technology (collectively, “ **Cookies** ”) to collect and use personal information about you, including to serve targeted advertising. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our [Cookie Notice](https://www.rhythmone.com/opt-out). Information on opting-out of cookies is also set out below.
 
-BACK TO TOP
+  
+**9\. Opting-Out of Cookie Usage**
 
-## Overseas Transfers and Processing of Your Information
+You can opt-out of receiving our Cookies. Persistent Cookies may be removed by following your Internet browser help file directions. If you choose to disable Cookies, some areas of our Website may not work properly. If you opt out, your web browser will be associated with a generic "opt-out" cookie, which will prevent us from associating any non-personally identifiable information with your browser. If you would like to opt out, please visit our [Opt-Out page](https://www.rhythmone.com/opt-out). For any Cookies placed via Perk properties, please opt out using your browser settings.
 
-Your personal information may be used by us and our affiliates, subsidiaries and our suppliers who may be located in countries outside the country where you are located or the purposes outlined in this policy to manage 1R's global business. The data protection laws in these countries may not offer the same level of protection as those in the country where you are located. By providing your personal information to us you understand and expressly consent to us and our suppliers processing your data in any jurisdiction, including without limitation the United States of America, in accordance with this privacy policy. 
+You can also opt-out of targeted advertising based on data collected via your browser by using (i) the NAI’s opt-out tool, which can be found [here](http://optout.networkadvertising.org/?c=1); (ii) the DAA’s opt-out tool, which can be found [here](http://optout.aboutads.info/?c=2&lang=EN); (iii) the DAAC’s opt-out tool, which can be found [here](http://youradchoices.ca/choices/); or (iv) the EDAA’s opt-out tool, which can be found [here](http://www.youronlinechoices.com/).
 
-BACK TO TOP
+When you opt out, we will stop (a) collecting information about your interests via your browser and (b) serving you targeted advertising based on the data collected via your browser.
 
-## Your Consent
+We will subsequently place a piece of data in your browser’s cookie that tells us that you have opted out - it does not contain any data about you except for the fact that you have opted out. We need this cookie in place so that we know not to collect information about your interests and serve you targeted advertising based on your interests in the future. Our "opt-out" cookie has a five-year expiration date.
 
-###  By Using Any 1R Properties, You Are Consenting To the Collection and Use of Your Information Described In This Privacy Policy and You Accept and Agree To This Privacy Policy. 
+Keep in mind that participating in our opt-out program does not prevent you from seeing advertising served by us, instead, the ads we serve to you will be generic and not be targeted to you based on your web browsing experiences.
 
-Your personal information may be used by us and our affiliates, subsidiaries and our suppliers who may be located in countries outside the country where you are located or the purposes outlined in this policy to manage 1R's global business. The data protection laws in these countries may not offer the same level of protection as those in the country where you are located. By providing your personal information to us you understand and expressly consent to us and our suppliers processing your data in any jurisdiction, including without limitation the United States of America, in accordance with this privacy policy.
+  
+**10\. How Does the RhythmOne Group Keep My Personal Information Secure?**
 
-BACK TO TOP
+We use appropriate technical and organizational measures to protect the personal information that we collect and process about you.
 
-## Your Rights
+  
+**11\. International Data Transfers**
 
-### GDPR Rights.
+Your personal information may be transferred to, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective).
 
-Users residing in certain countries, including the EU, are afforded certain rights regarding their personal information. Except where an exception or exemption applies, these rights include the ability to access and request deletion of your personal information. While these rights are not applicable globally, users from the EU can manage their personal information by following the links below.
+Specifically, our servers are located in the US and the Netherlands, and our group companies and third party service providers and partners operate around the world. This means that when we collect your personal information we may process it in any of these countries.
 
-[Delete/Opt-Out](https://web.archive.org/opt-out)
+However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Notice. These include implementing the European Commission’s Standard Contractual Clauses for transfers of personal information between our group companies, which require all group companies to protect personal information they process from the EEA in accordance with European Union data protection law. Our Standard Contractual Clauses can be provided on request.
 
-[Access/Retrieve Personal Information](https://web.archive.org/retrieval)
+  
+**12\. Data Retention**
 
-### Your European Privacy Rights.
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (e.g., to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements). When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-If you are located in Europe, some of the data that we process may be protected by data protection laws such as, in the United Kingdom, the Data Protection Act 1998 (the “Act”). Under the Act, you have certain rights to request information about, get access to or request the amendment of any such personal data. If you wish to exercise these rights, please contact us at [cevinpl@fvqrerry.pbz](mailto:cevinpl@fvqrerry.pbz). Please see the UK Information Commissioner's Office website at: [http://www.ico.gov.uk](http://www.ico.gov.uk/) for further details. 
+We use personal information used for targeted advertising purposes for no more than 13 months. We maintain ad server log data and stored data for a period of up to 18 months in order to comply with audits, court order or law enforcement inquiries. After 18 months, all of the stored data is destroyed. Summarized data is kept indefinitely. Summarized data is aggregated statistical data (impressions, clicks, and conversions) used for financial reporting purposes.
 
-### Your California Privacy Rights.
+Partners with whom we work, including platforms that we may integrate with to provide services, may set cookies or retain data for other, longer periods of time, which we do not control.
 
-If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Information for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
+  
+**13\. Your Data Protection Rights**
 
-If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [cevinpl@fvqrerry.pbz](mailto:cevinpl@fvqrerry.pbz) or by postal mail to RhythmOne, LLC, 601 Montgomery Street #1600, San Francisco, CA 94111, Attn:Your California Privacy Rights, c/o Privacy Administrator, Legal Department. All requests must be labelled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information. 
+If you are a resident of the European Economic Area, you have the following data protection rights:
 
-BACK TO TOP
+  * If you wish to **access, correct, update or request deletion** of your personal information, you can do so at any time by using one of the links below or by contacting us using the contact details provided under the How to Contact Us heading below.
+  * In addition, you can **object to processing** of your personal information, ask us to **restrict processing** of your personal information or **request portability** of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the How to Contact Us heading below.
+  * You have the right to **opt-out of marketing communications** we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you. To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided under the How to Contact Us heading below.
+  * Similarly, if we have collected and process your personal information with your consent, then you can **withdraw your consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the **right to complain to a data protection authority** about our collection and use of your personal information. For more information, please contact your local data protection authority.
 
-### Inquiries
 
-If you have any concern about privacy at 1R, please send us a thorough description of your concern to [cevinpl@fvqrerry.pbz](mailto:cevinpl@fvqrerry.pbz) or the address above, and we will try to resolve it. 
 
-This privacy policy was last updated on: June 14, 2016.
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+
+**RhythmOne**
+
+  * Delete/Access/Retrieve Personal information: <https://yourdata.rhythmone.com/dsrs/index.html#/manageuserdata>
+  * Opt-Out: <https://www.rhythmone.com/opt-out>
+
+
+
+**AllMusic   **
+
+  * Delete/Opt-Out <https://www.allmusic.com/opt-out>
+  * Access/Retrieve Personal Information <https://www.allmusic.com/retrieval>
+
+
+
+**AllMovie**
+
+  * Delete/Opt-Out <https://www.allmovie.com/opt-out>
+  * Access/Retrieve Personal Information <https://www.allmovie.com/retrieval>
+
+
+
+**SideReel  **
+
+  * Please email [privacy@sidereel.com](mailto:privacy@sidereel.com "Email Privacy") 
+
+
+
+**Celebified  **
+
+  * Delete/Opt-Out <https://www.celebified.com/info/opt-out>
+  * Access/Retrieve Personal Information <https://www.celebified.com/info/retrieval>
+
+
+
+**360Daily  **
+
+  * Delete/Opt-Out <http://www.360daily.com/opt-out>
+  * Access/Retrieve Personal Information <http://www.360daily.com/retrieval>
+
+
+
+**Perk.com**
+
+  * For instructions to delete your account, click [here](https://support.perk.com/hc/en-us/articles/360001634464-How-to-Delete-My-Account).
+
+
+
+  
+**14\. Do-Not-Track**
+
+Although certain of our technology honours “do not track” (DNT) signals and similar mechanisms transmitted by web browsers or mobile device operating systems, we are not responsible, and shall not be liable, for the acts of third parties, such as ad networks, with respect to such third parties’ tracking policies.
+
+  
+**15\. Children**
+
+Our websites, products, and services are neither developed for, nor directed at, children under the age of 13. With respect to the Children’s Online Privacy Protection Act (“ **COPPA** ”), we do not knowingly collect personal information from nor employ or offer targeting towards children under the age of 13.
+
+If you believe your child, who is under the age of 13, has provided us with personal information or registered at one of our websites, please contact us at [privacy@rhythmone.com](mailto:privacy@rhythmone.com), and we will use reasonable efforts to remove that information from our records.
+
+  
+**16\. Updates to this Privacy Notice**
+
+We may update this Privacy Notice from time to time in response to changing legal, technical or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws.
+
+You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this Privacy Notice.
+
+  
+**17\. How to Contact Us**
+
+If you have any questions, concerns or requests please contact us at [privacy@rhythmone.com](mailto:privacy@rhythmone.com).
+
+The data controller of your personal information is RhythmOne, LLC.
+
+Use of ad blockers may result in some of the images on our site being blocked. This site does not serve ads. We recommend you disable ad blockers for an optimal site viewing experience.
