@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yournewswire.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008125520id_/https%3A//yournewswire.com/website-terms-of-use/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yournewswire.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630084214id_/https%3A//newspunch.com/website-terms-of-use/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Your News Wire
+# Privacy Policy - News Punch
 
 [ **Please Note** : This privacy policy was last updated on May 23, 2018 and is subject to future change without notice.]
 
@@ -44,7 +44,7 @@ The People’s Voice may share or disclose personally identifiable information a
 
   * We have your consent to share the information;
   * We utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards), and require these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them;
-  * We need to protect our legal rights (for example, if we are trying to collect money you owe us or we are trying to enforce our [Terms of Use](https://yournewswire.com/website-terms-of-use/) or other agreement with you);
+  * We need to protect our legal rights (for example, if we are trying to collect money you owe us or we are trying to enforce our [Terms of Use](https://newspunch.com/website-terms-of-use/) or other agreement with you);
 
 
 
@@ -73,7 +73,7 @@ The People’s Voice does not knowingly collect personally identifiable informat
 
 **Opt-Out & Unsubscribe **  
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from The People’s Voice by contacting us here:  
-– Web page: <https://yournewswire.com/contact/>  
+– Web page: <https://newspunch.com/contact/>  
 – Email: [contact@yournewswire.com](mailto:contact@yournewswire.com)  
 – Phone: (424) 666-1274
 
