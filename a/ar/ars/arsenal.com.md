@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arsenal.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024056id_/https%3A//www.arsenal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arsenal.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220942id_/https%3A//www.arsenal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Club | News | Arsenal.com
 
@@ -85,7 +85,7 @@ We process your personal data when necessary to pursue our legitimate interests 
   * preventing, investigating and/or reporting fraud, terrorism, misrepresentation, security incidents or crime
   * to protect the security of our spectators, staff and other visitors to our sites; to enforce our ground regulations; and to help detect and prevent unlawful activity using, for example, incident reports and CCTV footage
   * managing legal claims, compliance, regulatory and investigative matters
-  * processing job applications received through [www.arsenaljobs.com](http://www.arsenaljobs.com/)
+  * processing job applications received through [www.arsenaljobs.com](https://www.arsenaljobs.com/)
   * administering programmes run by us or our partner agencies that you have chosen to participate in
 
 
@@ -115,7 +115,7 @@ We will share your personal data with the following recipients:
   * third party suppliers involved in: data insights; website hosting; online personalisation; advertising; systems maintenance; ticketing; database management; identity checking; payment processing; delivery logistics; facilities management; and credit and debt management   
   * government authorities or law enforcement officials, to assist with their official requests and comply with our legal obligations  
   * recruitment and vetting agents, to assist with our recruitment processes  
-  * other football clubs, if we think it’s appropriate to inform them of incidents at Emirates Stadium involving their supporters
+  * other football clubs, where this is necessary to ensure the safety and security of supporters or if we think it’s appropriate to inform them of incidents at Emirates Stadium involving their supporters
   * The Union of European Football Associations (‘UEFA’), when they ask for information about fans attending matches at Emirates Stadium 
   * our advisers, any prospective purchaser’s advisers, and any new owners of the business (in the event our business is sold or integrated with another business)
   * agencies who partner with Arsenal in the Community (if you have been referred to those agencies through us)
@@ -196,4 +196,4 @@ If you have unresolved concerns, you also have the right to complain to an EU da
 
 We suggest that you check back here for updates, as we will update this policy from time to time.
 
-Copyright 2018 The Arsenal Football Club plc. Permission to use quotations from this article is granted subject to appropriate credit being given to www.arsenal.com as the source.
+Copyright 2019 The Arsenal Football Club plc. Permission to use quotations from this article is granted subject to appropriate credit being given to www.arsenal.com as the source.
