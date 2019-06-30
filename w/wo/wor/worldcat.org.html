@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldcat.org privacy policy that was archived on 2018-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181204214752id_/https%3A//policies.oclc.org/en/privacy/privacy-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldcat.org privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630235340id_/https%3A//policies.oclc.org/en/privacy/privacy-statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" no-js" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="/etc/clientlibs/social/commons/cards.min.css" type="text/css">
 <link rel="stylesheet" href="/libs/social/tally/components/hbs/voting/clientlibs.min.css" type="text/css">
 <link rel="stylesheet" href="/etc/clientlibs/social/hbs/reviews.min.css" type="text/css">
-<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://script.crazyegg.com/pages/scripts/0020/6913.js?439589" async="" type="text/javascript"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://script.crazyegg.com/pages/scripts/0020/6913.js?439014" async="" type="text/javascript"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
@@ -47,10 +47,6 @@
 <script type="text/javascript" src="/etc/clientlibs/oclc/jquery/animation.min.js"></script>
 
 
-<link rel="stylesheet" href="/etc/clientlibs/granite/jquery-ui.min.css" type="text/css">
-<link rel="stylesheet" href="/etc/clientlibs/foundation/jquery-ui/themes/default.min.css" type="text/css">
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/social/thirdparty/ckeditor.min.js"></script>
 
 
@@ -73,7 +69,7 @@
 
 
 
-<meta name="oclcdate" content="10/29/2018 12:48:59.439">
+<meta name="oclcdate" content="05/10/2019 13:53:19.962">
 
 <meta name="description" content="">
 <!-- Dublin Core Metadata -->
@@ -84,12 +80,13 @@
 <meta name="DC.Publisher" content="OCLC">
 <meta name="DC.Creator" content="">
 <meta name="DC.Contributor" content="">
-<meta name="DCTERMS.Created" scheme="DCTERMS.W3CTDF" content="2018-10-29">
-<meta name="DCTERMS.Issued" scheme="DCTERMS.W3CTDF" content="2018-10-29">
-<meta name="DCTERMS.Modified" scheme="DCTERMS.W3CTDF" content="2018-10-29">
+<meta name="DCTERMS.Created" scheme="DCTERMS.W3CTDF" content="2019-5-10">
+<meta name="DCTERMS.Issued" scheme="DCTERMS.W3CTDF" content="2019-5-10">
+<meta name="DCTERMS.Modified" scheme="DCTERMS.W3CTDF" content="2019-5-10">
 <meta name="DC.Language" content="en">
-<meta name="DC.Modified" content="2018-10-29">
+<meta name="DC.Modified" content="2019-5-10">
 <meta name="DC.Rights" content="">
+<meta property="og:site_name" content="OCLC">
 <meta property="og:title" content="Privacy statement">
 
 
@@ -127,6 +124,11 @@
 
 
 
+
+
+
+
+
 <script type="text/javascript">
 if(typeof String.prototype.trim !== 'function') {
       String.prototype.trim = function() {
@@ -145,43 +147,18 @@ if(typeof String.prototype.trim !== 'function') {
 <script type="text/javascript" src="/etc/clientlibs/social/thirdparty/bootstrap3.min.js"></script>
 
 
+<!-- OneTrust Cookies Consent Notice start -->
+<script src="https://optanon.blob.core.windows.net/langswitch/718e19bc-431b-46e1-b8e7-e2e1c9d528d7.js" type="text/javascript" charset="UTF-8" data-document-language="true"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end -->
+
 <script type="text/javascript" src="/etc/clientlibs/oclc/jquery-ui.min.js"></script>
 <script type="text/javascript">
     (function ($) {
     $(function () {
-
-		// foresee survey code
     	var hostname = location.hostname;
-    	if ( hostname == "www.oclc.org"  ||
-    		 hostname == "www.webjunction.org" ||
-    		 hostname == "webjunction.org" ||
-    		 hostname == "localhost" ) {
-			if ( document.cookie.indexOf("OCLC_IP_ID") == -1 ) {
-				var urlString = '/apps/oclc/foresee';
-		    	var parms = "hostname=" + hostname;
-		         $.ajax( {
-		             type: "GET",
-		             url: urlString + "?" + parms,
-		             dataType: "json",
-		             cache: false,
-		             success : function displayMsg(data) {
-		            	document.cookie = "OCLC_IP_ID="+data.internalIP+"; expires=0; path=/";
-		             }
-		        });
-			}
-
-			var head = document.getElementsByTagName('head')[0];
-			var script = document.createElement('script');
-			script.type = 'text/javascript';
-			if ( hostname == "www.oclc.org" ||
-                 hostname == "www.webjunction.org" ||
-                 hostname == "webjunction.org" ) {
-				script.src = "/etc/oclc/js/foresee-prod.js";
-			} else {
-				script.src = "/etc/oclc/js/foresee-test.js"
-			}
-			head.appendChild(script);
-    	}
 
     	if ( hostname == "www.oclc.org" ||
              hostname == "www.webjunction.org" ||
@@ -537,10 +514,10 @@ if(typeof String.prototype.trim !== 'function') {
   
   
     <h1>OCLC, INC. PRIVACY STATEMENT</h1> 
-  <p>Last Updated: 24 October 2018</p> 
+  <p>Last Updated: 8 February 2019</p> 
   <p><strong>NOTE THIS PORTION OF THE STATEMENT APPLIES TO OCLC AND ITS WEB-BASED PRODUCTS AND SERVICES. PLEASE SEE BELOW OR <a href="#hosted-services">CLICK HERE FOR MORE INFORMATION REGARDING PRIVACY PRACTICES RELATING TO <em>HOSTED SERVICES</em></a> OFFERED THROUGH OCLC INSTITUTION CUSTOMERS.</strong></p> 
   <p>OCLC is a global library cooperative dedicated to making information more accessible and useful to people around the world, while reducing costs for our member institutions (OCLC's "Customers"). OCLC, Inc. and its worldwide affiliates, including OCLC BV, OCLC (UK) Ltd., OCLC GmbH, OCLC AG, HKA BV, and Ifnet S.r.l. (collectively, "OCLC" or "we") are committed to protecting your privacy and encourage you to read this Privacy Statement ("Statement") to understand our data handling practices.</p> 
-  <p>This Statement applies to information we obtain from and about individuals interacting directly with OCLC, including through our websites, products, programs, and services (collectively, the "Services") and otherwise. It does not apply to job applicants, OCLC employees, information we collect through research studies, or information collected by our institution customers through subscription-based or hosted products and services. <strong>For information regarding OCLC's hosted products and services, please see the <a href="#hosted-services">HOSTED SERVICES</a> section below.</strong></p> 
+  <p>This Statement applies to information we obtain from and about individuals interacting directly with OCLC, including through our websites, products, programs, and services (collectively, the "Services") and otherwise. It does not apply to OCLC employees, information we collect through research studies, or information collected by our institution customers through subscription-based or hosted products and services. <strong>For information regarding OCLC's hosted products and services, please see the <a href="#hosted-services">HOSTED SERVICES</a> section below.</strong></p> 
   <p>From time to time, we may update this Statement and will update this page and display the date of the last update at the top of the page. We will notify you about changes in the way we treat information by placing notice on our site. We encourage you to periodically check back and review this Statement so that you always know what information we collect, how we use it and with whom we share it.</p> 
   <p>We are here to help. If you have any questions, please contact us at <a href="mailto:privacy@oclc.org">privacy@oclc.org</a>.</p> 
   <h2>How Do We Collect Information?</h2> 
@@ -550,18 +527,20 @@ if(typeof String.prototype.trim !== 'function') {
    <li>From your other interactions with OCLC, including, but not limited to, information you provide when you interact with OCLC's Services or OCLC customer support, or when you attend an OCLC-sponsored training or event (whether in person or virtually);</li> 
    <li>From your computer, device, or web browser, including information collected by automated means or by using technologies such as cookies, web server logs, and web beacons, as is further discussed below;</li> 
    <li>From you and/or our member institutions when you interact with OCLC on behalf of an institution or in connection with OCLC membership, including if you represent one of our members as an OCLC Regional or Global Council representative or otherwise participate in OCLC membership opportunities or events;</li> 
+   <li>From you when you interact with our applicant tracking system or provide information to OCLC in order to receive information about new job postings, make inquiries about job openings, or apply for a position with OCLC (please note, this does not apply to current OCLC employees, who are governed by OCLC’s internal Employee Data Protection Notice);&nbsp;</li> 
    <li>From OCLC or third-party sites, including social media sites and sweepstakes microsites, surveys, social media platforms, and promotion entries;</li> 
    <li>From third parties that you have authorized to share such information with us;</li> 
    <li>If you register for and receive Services through an OCLC-provided user account, we also receive the information you elect to share.</li> 
   </ul> 
   <p>We may also receive information from third-party sources and combine it with information that we receive from the sources described in this Privacy Statement and use it for the purposes identified below.</p> 
   <h2>What Information Do We Collect?</h2> 
-  <p>OCLC collects the information described below. When we require certain information from users, it is because such information is relevant for a specified purpose; however, any information you provide to us, that is not identified as required, is voluntary. You are free to choose whether to provide us with the types of information described below, but we may not be able to serve you as effectively or offer you all of our Services when you choose not to share certain information with us.</p> 
+  <p>OCLC collects the information described below. When we require certain information from users, it is because such information is relevant for a specified purpose; however, any information you provide to us, that is not identified as required, is voluntary. You are free to choose whether to provide us with the types of information described below, but we may not be able to serve you as effectively, offer you all of our Services, or process your application when you choose not to share certain information with us.</p> 
   <p>We may collect the following information:</p> 
   <ul> 
    <li><strong>Contact Information</strong>, such as name, address, telephone numbers, and email;</li> 
    <li><strong>Account Information</strong>, such as username, password, account numbers, and preferences;</li> 
    <li><strong>Profile Information</strong>, such as photographs, interests and any other information you include;</li> 
+   <li><strong>Professional Information</strong>, such as education, work history, and references;</li> 
    <li><strong>Communication Information</strong>, such as information contained in communications (e.g., e-mail, telephone, written) we have with you;</li> 
    <li><strong>User-Generated Information</strong>, such as favorite libraries, saved searches, lists, tags, comments, reviews, and posts;</li> 
    <li><strong>Device and Browser Information</strong>, such as the IP address of your device and information about the type of device and browser you are using. <strong><em>Some of our services, including WorldCat.org, may also use your IP address to obtain a geolocation for the purpose of providing you the Services (e.g. to display items at nearby libraries)</em></strong>;</li> 
@@ -570,12 +549,16 @@ if(typeof String.prototype.trim !== 'function') {
   </ul> 
   <p>We may combine information about you with information from other sources, including third-party and public sources, such as information from member institution(s) with which you are affiliated, if any.</p> 
   <p>We may also collect additional information from or about you in relation to specific products and services. Please see the specific products and services listed below for additional information.</p> 
+  <p>If you provide us the personal contact information about another person, for example, for providing a reference for a job application, it is your responsibility to ensure that the person is aware and consents to you providing his/her contact information.</p> 
   <h2>How Do We Use Your Information?</h2> 
   <p>We may use your information in a number of ways, including:</p> 
   <ul> 
    <li>Providing you with Services</li> 
    <li>Evaluating, improving, supporting, and updating our Services</li> 
    <li>Communicating with you about our Services</li> 
+   <li>Processing your job application (e.g., match your skills, experience, and education with the specific roles offered by OCLC)</li> 
+   <li>Communicating with you about the recruiting and hiring process, to set up and conduct interviews and assessments</li> 
+   <li>Conducting background checks, as required or legally permitted by applicable local law</li> 
    <li>Facilitating surveys, promotions, contests, events, and activities</li> 
    <li>Facilitating an open forum or review</li> 
    <li>Marketing purposes</li> 
@@ -594,17 +577,19 @@ if(typeof String.prototype.trim !== 'function') {
   <h2>With Whom Do We Share Your Information?</h2> 
   <p>We may share your information with the following categories of recipients:</p> 
   <ul> 
-   <li>Third-party service providers. OCLC contracts with third-party service providers and individuals to perform functions on our behalf. Examples of such third-party service providers include, but are not limited to, event coordinators, vendors that facilitate surveys, webinars, and email marketing communications, payment processors, and analytics providers. Such parties have access to your information as necessary to complete their functions.</li> 
-   <li>Partner Organizations. If we are collaborating with an identified partner for a particular event, we will share registration information with that collaborating partner. We also share registration information with organizations that have contributed course or webinar content. These organizations are identified in the course catalog.</li> 
-   <li>Social media platforms. Some of the Services make use of integrated social media functionality that will allow you to easily share certain content on various social media platforms. When you are using a Service that provides integrated social media functionality, information may be shared with those social media platforms, regardless of whether or not you are a registered user of a social media platform. Please refer to the various social media platform privacy statements and terms of service for additional information.</li> 
-   <li>In connection with membership. We may disclose certain information about individuals affiliated with OCLC member institutions to other member institutions or to regional or global council members to fulfill our obligations with respect to OCLC membership and to allow our OCLC members to take full advantage of membership.</li> 
+   <li>Third-party service providers. OCLC contracts with third-party service providers and individuals to perform functions on our behalf. Examples of such third-party service providers include, but are not limited to, event coordinators, vendors that facilitate surveys, webinars, and email marketing communications, payment processors, and analytics providers. Such parties have access to your information as necessary to complete their functions;</li> 
+   <li>Partner Organizations. If we are collaborating with an identified partner for a particular event, we will share registration information with that collaborating partner. We also share registration information with organizations that have contributed course or webinar content. These organizations are identified in the course catalog;</li> 
+   <li>Social media platforms. Some of the Services make use of integrated social media functionality that will allow you to easily share certain content on various social media platforms. When you are using a Service that provides integrated social media functionality, information may be shared with those social media platforms, regardless of whether or not you are a registered user of a social media platform. Please refer to the various social media platform privacy statements and terms of service for additional information;</li> 
+   <li>In connection with membership. We may disclose certain information about individuals affiliated with OCLC member institutions to other member institutions or to regional or global council members to fulfill our obligations with respect to OCLC membership and to allow our OCLC members to take full advantage of membership;</li> 
+   <li>In connection with job applications. We may share your personal information with authorized OCLC corporate personnel and subsidiary human resources personnel as needed, as well as third parties who are acting on OCLC’s behalf, namely those who (i) perform recruiting services, such as employment reference checks, interview scheduling, application tracking, and employment screenings; and (ii) provide IT services, such as hosting and cloud providers;</li> 
    <li>Compliance with legal obligations. We may disclose your information, at our discretion and without prior notice, to law enforcement or other public authorities in order to comply with a law, regulation, investigation, valid legal process, or other similar requests;</li> 
    <li>Protection of OCLC and others. We may disclose your information for purposes of fraud detection and prevention, to enforce or apply our Terms of Use and other agreements, or to protect the rights, property and safety of OCLC, you, or others;</li> 
    <li>Business transactions. In the event of a merger, acquisition, bankruptcy, re-organization, consolidation, sale of assets, or other business transaction, OCLC may disclose or transfer your information;</li> 
-   <li>OCLC affiliate entities. We may share your information among OCLC affiliates for the purposes set forth herein; and,</li> 
-   <li>General public and other members. We allow you to post on public parts of our Services, such as through WorldCat.org and the OCLC Community Center. Please be aware that any information you post on a public forum, such as public content on WorldCat.org or Community Center, will be available to the public in real time. You may also choose to make certain portions of your profile information public or private through "My Profile" functionalities with certain Services. The portions of your profile you make public will be available to other uses of that Service (for example users of WorldCat.org or WebJunction).</li> 
+   <li>OCLC affiliate entities. We may share your information among OCLC affiliates for the purposes set forth herein;</li> 
+   <li>General public and other members. We allow you to post on public parts of our Services, such as through WorldCat.org and the OCLC Community Center. Please be aware that any information you post on a public forum, such as public content on WorldCat.org or Community Center, will be available to the public in real time. You may also choose to make certain portions of your profile information public or private through "My Profile" functionalities with certain Services. The portions of your profile you make public will be available to other uses of that Service (for example users of WorldCat.org or WebJunction); and</li> 
    <li>State library agencies. For certain OCLC Services (e.g. WebJunction), we share registration information with supporting state library agencies for continuing education purposes.</li> 
   </ul> 
+  <p>These third parties are not authorized to use or disclose the information except as necessary to perform services on our behalf pursuant to a contractual obligation or to comply with legal requirements. OCLC requires such third parties to comply with applicable data protection laws and regulations and to agree to implement and maintain appropriate technical and organizational security measures to safeguard your personal information.</p> 
   <h2>Cookies and Other Tracking Technologies</h2> 
   <p><a href="https://policies.oclc.org/en/privacy/cookie-statement.html">For information about how OCLC uses cookies and other tracking technologies and behavioral advertising click here</a>.</p> 
   <h2>External Links</h2> 
@@ -612,17 +597,17 @@ if(typeof String.prototype.trim !== 'function') {
   <h2>Third party social plugins</h2> 
   <p>Our Services may have integrated third party social plugins, and the use of such plugins results in collection of data by OCLC and could result in the relevant third party recording your interactions, too. For example, if you share our posts, a third-party plugin could result in the third party collecting information about your access of our Services.</p> 
   <h2>Security</h2> 
-  <p>We have taken reasonable steps to ensure the protection of your information, and to prevent the loss, misuse, or alteration of that information. However, no method of transmission or storing of electronic personal information is 100% secure; therefore, we cannot guarantee the security of your information.</p> 
+  <p>We have taken reasonable steps to ensure the protection of your information, and to prevent the loss, misuse, or alteration of that information.&nbsp;We use reasonable security procedures to protect against unauthorized or unlawful access, processing, disclosure, alteration, destruction or accidental loss of your personal data. We limit access to and use of your personal data to authorized persons and trusted third parties who have a reasonable need to know the information in order to perform our business operations and who are bound by confidentiality obligations.</p> 
   <p>You are also responsible for the security of your account. For example, your password is a component of our security system, and, as such, it is your responsibility to protect it. Do not share your password with any third parties. If your password is compromised, you should change it immediately and contact us.</p> 
   <h2>Retention of Data</h2> 
-  <p>We will keep your information as reasonably necessary to fulfill the purposes for which information is collected as stated herein; for as long as is necessary for the performance of the contract between you and us, if any; and to comply with legal and statutory obligations, such as in tax, trade and corporate laws.</p> 
+  <p>We will keep your information as reasonably necessary to fulfill the purposes for which information is collected as stated herein; for as long as is necessary for the performance of the contract between you and us, if any; and to comply with applicable legal, statutory, or regulatory obligations to maintain the data. For example, where required by law for tax, trade and corporate requirements, agreements, or disputes.</p> 
   <p>When we no longer need your information for our purposes or legal obligations, we will destroy, delete or erase that information or convert it into an anonymous form.</p> 
   <h2>Children</h2> 
   <p>We understand the importance of taking precautions to protect the privacy and safety of children using our Services. Our Services are not intended for children under the age of 13.</p> 
   <p>If we learn that we have collected the information of a child under 13, or equivalent minimum age depending on jurisdiction, we will take steps to delete the information from our records. Please notify us if you know we have collected information of a child under 13 so we can delete the information.</p> 
   <h2>Your Choices</h2> 
   <h3>How to Opt-Out of Marketing</h3> 
-  <p>To opt-out of receiving promotional email messages from us, please click on the "Unsubscribe" link contained at the bottom of each email or email us at <a href="mailto:privacy@oclc.org">privacy@oclc.org</a> with a description of your request.</p> 
+  <p>To opt-out of receiving promotional email messages from us, please email us at <a href="mailto:unsubscribe@oclc.org">unsubscribe@oclc.org</a> with your request.</p> 
   <h3>Access Rights to Information</h3> 
   <p>If you have questions about the information collected about you, would like to update or make changes to your information, or are concerned that your information is inaccurate or incomplete, please contact <a href="mailto:privacy@oclc.org">privacy@oclc.org</a>. We will respond to reasonable requests.</p> 
   <p>Please note, any information you have publicly posted, such as comments on the OCLC Community Center, may continue to be publicly available even after your account is terminated. In addition, public sites, such as Community Center, are indexed by search engines and may be published as search results. OCLC does not control the practices of third-party search engines.</p> 
@@ -738,7 +723,7 @@ if(typeof String.prototype.trim !== 'function') {
   
   
     <div class="copyright">
-   <p><a href="https://policies.oclc.org/en/copyright.html" title="Read the OCLC copyright policy">© 2018 OCLC</a></p> 
+   <p><a href="https://policies.oclc.org/en/copyright.html" title="Read the OCLC copyright policy">© 2019 OCLC</a></p> 
    <p><a href="https://policies.oclc.org/en/copyright/trademarks.html" title="View the OCLC and Affiliate Trademarks and Service Marks">Domestic and international trademarks and/or service marks of OCLC, Inc. and its affiliates</a></p> 
    <p>This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. <a href="https://policies.oclc.org/en/privacy/cookie-statement.html">Find out more about OCLC's cookie notice.</a></p> 
   </div>
@@ -847,98 +832,25 @@ gtag('config', 'UA-90451094-1');
 
 
 
+<script src="/etc/designs/oclc/syntaxhighlighter/shCore.js" type="text/javascript"></script>
+<script src="/etc/designs/oclc/syntaxhighlighter/shAutoloader.js" type="text/javascript"></script>
+<script>
+SyntaxHighlighter.autoloader('java /etc/designs/oclc/syntaxhighlighter/shBrushJava.js',
+        'js jscript javascript /etc/designs/oclc/syntaxhighlighter/shBrushJScript.js',
+        'plain text /etc/designs/oclc/syntaxhighlighter/shBrushPlain.js',
+            'bash /etc/designs/oclc/syntaxhighlighter/shBrushBash.js',
+        'csharp /etc/designs/oclc/syntaxhighlighter/shBrushCSharp.js',
+        'css /etc/designs/oclc/syntaxhighlighter/shBrushCss.js',
+        'groovy /etc/designs/oclc/syntaxhighlighter/shBrushGroovy.js',
+        'perl pl /etc/designs/oclc/syntaxhighlighter/shBrushPerl.js',
+        'php /etc/designs/oclc/syntaxhighlighter/shBrushPhp.js',
+        'python py /etc/designs/oclc/syntaxhighlighter/shBrushPython.js',
+        'ruby /etc/designs/oclc/syntaxhighlighter/shBrushRuby.js',
+        'sql /etc/designs/oclc/syntaxhighlighter/shBrushSql.js',
+        'xml /etc/designs/oclc/syntaxhighlighter/shBrushXml.js');
+SyntaxHighlighter.all();
+</script>
 
-    
-    
-
-
-
-
-        <!-- SiteCatalyst BEGIN -->
-        
-
-
-    
-
-    
-    
-          
-  
-
-<!-- Default -->
-<!-- SiteCatalyst code version: H.25.
-Copyright 1996-2012 Adobe, Inc. All Rights Reserved
-More info available at http://www.omniture.com -->
-<script type="text/javascript">
-var s_code_js = "/apps/oclc/docroot/js/default_s_code_v1.js";
-document.write(unescape("%3Cscript src='" + s_code_js + "' language='JavaScript' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="/apps/oclc/docroot/js/default_s_code_v1.js" language="JavaScript" type="text/javascript"></script>
-
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName = "Privacy statement (/content/legal/en_us/privacy/privacy-statement)"
-s.channel = "Untagged"
-s.pageType = ""// "ERROR PAGE"
-s.prop1  = ""
-s.prop2  = ""
-s.prop3  = ""
-s.prop4  = ""//blogs
-s.prop5  = ""
-s.prop6  = ""
-s.prop7  = ""
-s.prop8  = ""
-s.prop9  = "" //blogs namespace
-s.prop10 = ""
-s.prop11 = "2018 October 29"
-s.prop12 = ""
-s.prop13 = ""
-s.prop14 = ""
-s.prop15 = ""
-s.prop16 = ""
-
-/* Conversion Variables */
-s.campaign= ""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src="http://oclc.112.2o7.net/b/ss/oclcsupport-dev/1/H.25--NS/0?[AQB]&cdp=3&[AQE]" height="1" width="1" border="0" alt=""/></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.25. -->
-
-
-
-
-        <!-- SiteCatalyst END -->
-	<script src="/etc/designs/oclc/syntaxhighlighter/shCore.js" type="text/javascript"></script>
-	<script src="/etc/designs/oclc/syntaxhighlighter/shAutoloader.js" type="text/javascript"></script>
-	<script>
-	SyntaxHighlighter.autoloader('java /etc/designs/oclc/syntaxhighlighter/shBrushJava.js',
-	        'js jscript javascript /etc/designs/oclc/syntaxhighlighter/shBrushJScript.js',
-	        'plain text /etc/designs/oclc/syntaxhighlighter/shBrushPlain.js',
-                'bash /etc/designs/oclc/syntaxhighlighter/shBrushBash.js',
-	        'csharp /etc/designs/oclc/syntaxhighlighter/shBrushCSharp.js',
-	        'css /etc/designs/oclc/syntaxhighlighter/shBrushCss.js',
-	        'groovy /etc/designs/oclc/syntaxhighlighter/shBrushGroovy.js',
-	        'perl pl /etc/designs/oclc/syntaxhighlighter/shBrushPerl.js',
-	        'php /etc/designs/oclc/syntaxhighlighter/shBrushPhp.js',
-	        'python py /etc/designs/oclc/syntaxhighlighter/shBrushPython.js',
-	        'ruby /etc/designs/oclc/syntaxhighlighter/shBrushRuby.js',
-	        'sql /etc/designs/oclc/syntaxhighlighter/shBrushSql.js',
-	        'xml /etc/designs/oclc/syntaxhighlighter/shBrushXml.js');
-	SyntaxHighlighter.all();
-	</script>
-	
 
 
 
