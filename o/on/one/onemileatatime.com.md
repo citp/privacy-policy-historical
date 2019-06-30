@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onemileatatime.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401232046id_/http%3A//onemileatatime.boardingarea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemileatatime.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630040414id_/https%3A//onemileatatime.com/privacy-policy) for the most accurate reproduction.*
 
-# One Mile at a Time Privacy Policy - One Mile at a Time
+# One Mile at a Time Privacy Policy | One Mile at a Time
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
 
@@ -8,7 +8,7 @@ Please read our privacy policy carefully to get a clear understanding of how we 
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
-We do not collect information from visitors of our site or other details to help you with your experience.
+We do not collect information from visitors of our site by default, though some other details may be collected to help you with your experience.
 
 **When do we collect information?**
 
@@ -27,11 +27,11 @@ Our website is scanned on a regular basis for security holes and known vulnerabi
 
 We use regular Malware Scanning.
 
-We do not use an SSL certificate, as we only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
+Although we only provide articles and information, we do use . We never ask for personal or private information like names or email addresses (you can use anonymous versions of both to comment or enter contests), or credit card numbers.
 
 **Do we use ‘cookies’?**
 
-We do not use cookies for tracking purposes.
+We do not use cookies for tracking purposes, though some of our advertising partners may.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
@@ -99,3 +99,5 @@ We also agree to the Individual Redress Principle, which requires that individua
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information on our About page.
+
+Review Consent Preferences (EU user only) 
