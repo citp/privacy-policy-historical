@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visualizeus.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226194404id_/http%3A//vi.sualize.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualizeus.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630191727id_/https%3A//visualhunt.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - VisualizeUs
+# Privacy Policy - Visual Hunt
 
 **What information do we collect?**
 
@@ -60,7 +60,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent**
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
@@ -70,5 +70,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-https://vi.sualize.us  
-contact@vi.sualize.us 
+https://visualhunt.com  
+contact@visualhunt.com 
