@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intelliresponse.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202933id_/https%3A//www.247.ai/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelliresponse.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630184203id_/https%3A//www.247.ai/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | [24]7.ai
 
-(last revised on December 12, 2018)
+(last revised on May 06, 2019)
 
 [24]7.ai, Inc., on behalf of itself and its affiliated companies (collectively, "[24]7.ai" or the “Company”), has adopted the following Privacy Policy in furtherance of respecting online privacy and recognizing the need for appropriate protection and management of the personally-identifiable information we may receive from visitors to this United States-based website ("Personal Information"). Specifically, Personal Information means any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
@@ -101,12 +101,12 @@ Should this Privacy Policy change, we intend to take reasonable steps to ensure 
 For questions about this Privacy Policy, please write to [privacy@247.ai](mailto:privacy@247.ai) or to:  
 [24]7.ai, Inc  
 Attn: Legal Department  
-2001 All Programmable Drive, Suite 200  
+2001 Logic Drive, Suite 200  
 San Jose, CA 95124 USA
 
 ## Platform Privacy Policy
 
-(last revised on May 10, 2018)
+(last revised on May 06, 2019)
 
 [24]7.ai, Inc and its affiliates (collectively, “[24]7.ai”) provide software platforms, applications, and data analysis systems (collectively, the “[24]7.ai Platform”) which enable [24]7.ai’s clients (DEFINE as “Client”) to better service their current and prospective customers (each an “End User”) via the Internet and telephony networks. This [24]7.ai Platform Privacy Policy is applicable to those Clients and End Users who are either directly or indirectly using the [24]7.ai Platform.
 
@@ -192,7 +192,5 @@ For questions about this [24]7.ai policy, End Users are encouraged to contact ou
 
 [24]7.ai, Inc  
 Attn: Legal Department  
-2001 All Programmable Drive,  
+2001 Logic Drive, Suite 200  
 San Jose, CA 95124 USA
-
-Additional privacy information can be found at the [[24]7 Platform Central Portal](https://platformcentral.tellme.com/privacy_statement.html).
