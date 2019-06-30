@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailymuse.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222133447id_/https%3A//www.themuse.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailymuse.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220451id_/https%3A//www.themuse.com/user/privacy) for the most accurate reproduction.*
 
 # The Muse Privacy Policy
 
@@ -209,4 +209,4 @@ If you have any questions or comments regarding our privacy practices or this Pr
 Attn: Legal  
 The Daily Muse  
 1375 Broadway, 20th Floor  
-New York, NY 10011 
+New York, NY 10018 
