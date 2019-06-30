@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231173517id_/https%3A//www.trulia.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630132153id_/https%3A//www.trulia.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Trulia
+# Privacy Policy «
 
 At Zillow Group, we appreciate your use of and contributions to our websites, our mobile and desktop applications, our other properties and/or our related services (collectively known as the "Services," or, each individually, a "Service"). Zillow Group respects your privacy and is committed to protecting your personal information.
 
