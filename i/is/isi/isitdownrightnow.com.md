@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isitdownrightnow.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204151316id_/http%3A//www.isitdownrightnow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isitdownrightnow.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215600id_/https%3A//www.isitdownrightnow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Is It Down Right Now
 
@@ -18,28 +18,28 @@ A cookie is a piece of data stored on the users computer tied to information abo
 
 *** DoubleClick DART cookie :**
 
-The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html). 
 
 *** Links :**
 
 www.isitdownrightnow.com contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by www.isitdownrightnow.com. 
 
-Server is up. Last checked 10 days 1 hour ago.
+Server is up. Last checked 0 seconds ago.
 
-Server is down. Last checked 10 days 2 hours ago.
+Server is up. Last checked 0 seconds ago.
 
-Server is up. Last checked 10 days 2 hours ago.
+Server is up. Last checked 0 seconds ago.
 
-Server is up. Last checked 10 days 2 hours ago.
+Server is up. Last checked 0 seconds ago.
 
-Server is down. Last checked 10 days 2 hours ago.
+Server is up. Last checked 0 seconds ago.
 
-Server is down. Last checked 10 days 2 hours ago.
+Server is down. Last checked 0 seconds ago.
 
-Server is down. Last checked 10 days 2 hours ago.
+Server is down. Last checked 1 min ago.
 
-Server is down. Last checked 10 days 2 hours ago.
+Server is down. Last checked 3 mins ago.
 
-Server is down. Last checked 10 days 2 hours ago.
+Server is down. Last checked 4 mins ago.
 
-Server is down. Last checked 10 days 2 hours ago.
+Server is down. Last checked 4 mins ago.
