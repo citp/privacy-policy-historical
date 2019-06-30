@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228234142id_/https%3A//www.newgrounds.com/wiki/help-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233836id_/https%3A//www.newgrounds.com/wiki/help-information/privacy-policy) for the most accurate reproduction.*
 
 # Newgrounds Wiki - Privacy Policy
 
@@ -20,7 +20,7 @@ We allow you to sign up with and log in via your Facebook and Google accounts. W
 
 **Information Sharing**
 
-We do not share your personal information with any third parties, with the exception of any direct and credible requests from enforcement agencies in order to comply with any law, regulation or legal process. In rare cases, we may also volunteer your information to law enforcement agencies if we feel you or actions you make on Newgrounds pose a risk to us or to others.
+We do not share your personal information with any third parties, with the exception of any direct and credible requests from enforcement agencies in order to comply with any law, regulation or legal process. In rare cases, we may also volunteer your information to law enforcement agencies if we receive a subpoena or feel you or actions you make on Newgrounds pose a risk to us or to others.
 
 We may share information you have provided publicly in order to promote work you have done, or to publicize something you have participated in. For example, if you have uploaded a game, animation, piece of art or audio, we may promote that work. Similarly, if you have written an interesting blog article, we may choose to talk about that publicly in our own news posts.
 
@@ -37,6 +37,16 @@ Older flash based games may store flash cookies on your computer to save your ga
 Newer games may also store some of their resources on third party websites. You may be asked to create accounts outside of Newgrounds to enhance your experience when playing these games. You should familiarize yourself with the privacy policies of those websites if you choose to sign up to services of this type.
 
 None of the data collected through web beacons, cookies, Flash cookies or web log data provides us with any personal information about you. We use this data on an aggregated basis to analyze how our users are interacting with the site and to customize your experience. If you are logged in to the site, we could associate information about your site usage that is collected by cookies with your user account. However, we don't do this on an individual basis other than in cases of suspected abuse or illegal behavior.
+
+On the web, you can opt out of participating companies by visiting the following sites:
+
+<http://optout.networkadvertising.org/>  
+<http://optout.aboutads.info/>  
+<http://youronlinechoices.eu/>
+
+To opt out of CPMStar's tracking cookies please visit this address:
+
+<http://server.cpmstar.com/optout.aspx>
 
 **IP Addresses**
 
