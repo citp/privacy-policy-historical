@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiwire.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024843id_/http%3A//www.ninthdecimal.com/privacy-policy-terms-of-service) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiwire.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630184328id_/https%3A//www.ninthdecimal.com/privacy-policy-terms-of-service) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Service | NinthDecimal - The Marketing Platform Powered by Location Data
 
@@ -6,7 +6,7 @@ Advertising Privacy Policy
 
 ### NinthDecimal Advertising Privacy Policy
 
-#### Effective Date: 03/09/2017
+#### Effective Date: 05/20/2018
 
 ##### Introduction
 
@@ -32,7 +32,11 @@ When you visit our website, we do not link the information we store in cookies t
 
 NinthDecimal uses the collected information to target and display advertisements that may be of interest to you. We may also use the information to help measure the effectiveness of advertising campaign and similar market research programs. And where we are able to infer that one or more browsers or devices are from the same user or household, we will link those browsers and devices into a device graph.
 
+NinthDecimal does not knowingly use information on our platform that comes from what we consider to be sensitive health information. We may use health-related segments that are inferred from data we collect but are not derived from sensitive health data (e.g. we don’t use things like medical records).  [Click here](https://web.archive.org/wp-content/uploads/2017/06/NinthDecimal_Audience-Health-Segments.pdf) for a list of the standard health-related segments that may be used in NinthDecimals’s Platform.
+
 We may provide the collected information to our subsidiaries, third party partners and agents to improve advertisement targeting, make and create offers, provide reporting to advertisers and clients, and to improve our systems and products.
+
+We may onboard additional information from clients into our data set to help those clients obtain additional insights about their customers and prospective customers.
 
 ##### Opting Out
 
@@ -70,6 +74,10 @@ We may disclose your information to third parties when obligated to do so by law
 
 Finally, NinthDecimal may transfer information, including any personally identifiable information we have, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. If NinthDecimal is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
+##### European Economic Area
+
+NinthDecimal’s advertising solution is focused on the North American marketplaces and does not knowingly process the personal data of data subjects located in the EU. To the extent we are made aware that our advertising solution contains the personal data of an EU data subject, we will take reasonable steps to remove the data from our systems.
+
 ##### Updates to Privacy Policy
 
 We may change or update our privacy policy at our discretion. If we make changes to this Privacy Policy, we will notify you by posting a prominent announcement on our Site so that any changes are easy to find. We will obtain your consent before making any material changes to information we collect and the manner in which we use it. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
@@ -82,7 +90,7 @@ Website Privacy Policy
 
 ### NinthDecimal Website Privacy Policy
 
-#### Effective Date: 03/09/2017
+#### Effective Date: 05/20/2018
 
 ##### Introduction
 
@@ -242,7 +250,7 @@ NinthDecimal reserves the right to modify these Terms periodically, at its discr
 
 ##### 15\. Privacy Policy.
 
-Your privacy is important to NinthDecimal. Please review our Privacy Policy at <http://www.ninthdecimal.com/privacy>.
+Your privacy is important to NinthDecimal. Please review our Privacy Policy at <https://www.ninthdecimal.com/privacy>.
 
 ##### 16\. Contact and Violations.
 
