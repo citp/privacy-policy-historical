@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227184757id_/https%3A//www.savings.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211836id_/https%3A//www.savings.com/info/privacy) for the most accurate reproduction.*
 
 # Savings.com - Privacy Policy
 
