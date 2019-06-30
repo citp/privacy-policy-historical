@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231122147id_/http%3A//about.abc.net.au/abc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215042id_/https%3A//about.abc.net.au/abc-privacy-policy) for the most accurate reproduction.*
 
 # ABC Privacy Policy | About the ABC
 
@@ -8,29 +8,30 @@ The ABC (“we”, “us”, “our”) is committed to protecting your privacy 
 
 ## Purpose of this Policy
 
-This policy explains our personal information handling practices. It describes how we may collect, use, and disclose information about you or your use of our content, products, or services.  This policy is for the benefit of members of the Australian community who use our products, services or ABC Shop Online.
+This policy explains our personal information handling practices. It describes how we may collect, use, and disclose information about you or your use of our content, products, or services.
 
-ABC Program Material is not subject to the Privacy Act; it is governed by the [ **ABC Code of Practice**](https://about.abc.net.au/reports-publications/code-of-practice/) and [ **ABC Editorial Policies**](https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/editorial-policies/).
+ABC Program Material is not subject to the Privacy Act; it is governed by the  ** _[ABC Code of Practice](https://about.abc.net.au/reports-publications/code-of-practice/)_**  and  ** _[ABC Editorial Policies](https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/editorial-policies/)_**.
 
-If we make changes to this policy, we will post those changes on the [ **privacy page**](https://about.abc.net.au/abc-privacy-policy/) of the ABC’s website.  You can find the date of the most recent review at the end of this document.
+You can find the date of the most recent review of this policy at the end of this document.
 
-1\. Collection of Personal Information
+1\. Collection of Personal Information  
+
 
 ### 1.1 How we collect personal information
 
 The main circumstances in which the ABC collects personal information about you are:
 
-#### (a) when you provide it to us
+(a) when you provide it to us
 
-If you register as a user of ABC digital services, you will provide information to us as part of your registration.  You may also give us information when you buy from ABC Shop Online, enter competitions or otherwise participate in ABC functions or activities. For information about our collection and retention of payment information see below.
+If you register as a user of ABC digital services, you will provide information to us as part of your registration.  You may also give us information when you buy from an ABC online store, enter competitions or otherwise participate in ABC functions or activities. For information about our collection and retention of payment information see below.
 
 ### 
 
-Your credit card details are only stored and transmitted in encrypted form. Unencrypted credit card information is not stored on our servers. Online credit card payments are currently processed using a third-party payment gateway service provider run by [eWay](https://www.eway.com.au/). This provider delivers a PCI-DSS (plastic card industry data security scheme) compliant payment gateway service to ABC Shop Online that is used to securely process customer payments. For more information, you can read the eWay Privacy Policy [here](https://www.eway.com.au/legal#privacy).
+Your credit card details are only stored and transmitted in encrypted form. Unencrypted credit card information is not stored on our servers. Online credit card payments are currently processed using a third-party payment gateway service provider run by eWay. This provider delivers a PCI-DSS (plastic card industry data security scheme) compliant payment gateway service to ABC online stores that is used to securely process customer payments. For more information, you can read the eWay Privacy Policy [here](https://www.eway.com.au/legal#privacy).
 
 If you use PayPal or Afterpay to complete your transaction, your personal information (including credit card information) will be collected and used by PayPal and Afterpay. For more information, you can read the PayPal Privacy Policy [here](https://www.paypal.com/au/webapps/mpp/ua/privacy-full) and the Afterpay Privacy Policy [here](https://www.afterpay.com/en-AU/privacy-policy).
 
-If you use your credit card and the transaction is manual rather than electronic, the imprinted record will be stored by ABC Shop Online for the period that financial records are required to be retained.
+If you use your credit card and the transaction is manual rather than electronic, the imprinted record will be stored by us for the period that financial records are required to be retained.
 
 #### (b) when someone else provides it to us on your behalf
 
@@ -50,7 +51,7 @@ The ABC policy in relation to Cookies, Beacons, Local Storage and Other technolo
 
 #### (c) when we collect it in relation to your use of digital services
 
-We also collect information about your use of our digital services including our websites and apps. This is mainly to improve your experience and our digital services. The ABC uses technologies like cookies, web beacons and local storage as part of its digital services.  When you use our websites, mobile sites, mobile applications, or applications on any other devices such as Apple TV, Chromecast or PlayStation, these technologies may be used to make our digital services easier to use and more relevant including by customising your user experience. For further information about these technologies and our practices, see [here](https://www.abc.net.au/technology/techexplained/default.htm).
+We also collect information about your use of our digital services including our websites and apps. This is mainly to improve your experience and our digital services. The ABC uses technologies like cookies, web beacons and local storage as part of its digital services.  When you use our websites, mobile sites, mobile applications, or applications on any other devices such as Apple TV, Chromecast or PlayStation, these technologies may be used to make our digital services easier to use and more relevant including by customising your user experience. For further information about these technologies and our practices, see  ** _[here](https://www.abc.net.au/technology/techexplained/default.htm)_**.
 
 If you are a registered ABC online user, we may link the information collected about you to your account.   **   **
 
@@ -72,9 +73,9 @@ A “web beacon” is a small amount of code on a web page, application or in an
 
 The ABC uses these technologies in a variety of ways to deliver, measure and improve our services and products. These uses generally fall into one of the following categories:
 
-  * Site and application functionality: To enable interactive features such as forums, voting, some games, and online shopping at the ABC Shop Online website. For instance, cookies allow our servers to keep track of your customer details between visits to the ABC Shop Online website. Credit card information is never stored in a cookie. The information stored by the cookie includes data that is provided during online registration processes. They can allow us to remember your place in a video so you can pick up where you left off or remember your preferences and settings so you get your local weather or preferred radio station.
+  * Site and application functionality: To enable interactive features such as forums, voting, some games, and online shopping. For instance, cookies allow our servers to keep track of your customer details between visits to ABC online stores. Credit card information is never stored in a cookie. The information stored by the cookie includes data that is provided during online registration processes. They can allow us to remember your place in a video so you can pick up where you left off or remember your preferences and settings so you get your local weather or preferred radio station.
   * Promotional targeting: Placing cookies on your device also means we can serve you promotional information that you might be more interested in. The promotional information can appear on third party digital services as well as ABC digital services. It also allows us to control the number of times you see that promotional information and measure how effective the campaign has been.
-  * Audience analytics: The aggregate information gathered from these technologies helps us to improve our products and understand how people use our services. For more information see Section 3 below.
+  * Audience analytics: The aggregate information gathered from these technologies helps us to improve our products and understand how people use our services.
   * Personalised content and services: Information about what content is viewed allows us to customize our services with more relevant content like tailored trends or recommendations. For example, by knowing what articles you have already read, cookies can help us make smarter and more relevant suggestions about what new content you might enjoy or find useful.
 
 
@@ -87,7 +88,7 @@ The analytics systems used by the ABC are cookies, web beacons, local storage, a
 
 Generally, these services are provided to the ABC by third parties. For instance, ABC uses Facebook and Google Analytics. More information about how Google uses information from sites or apps can be found [here](https://policies.google.com/technologies/partner-sites).
 
-The ABC also engages independent measurement companies such as Nielsen as part of the industry body Interactive Advertising Body (IAB). Nielsen provides its privacy information [ **here**](http://www.nielsen.com/content/corporate/au/en/privacy-policy.html). Some of the ABC’s digital applications may include a tag owned by Nielsen which will enable Nielsen to collect non-personal information for market research or audience ratings services. Information about Nielsen’s measurement software and user options are available [here](https://www.nielsen.com/eu/en/solutions/measurement.html).
+The ABC also engages independent measurement companies such as Nielsen as part of the industry body Interactive Advertising Body (IAB). Nielsen provides its privacy information  ** _[here](http://www.nielsen.com/content/corporate/au/en/privacy-policy.html)_**. Some of the ABC’s digital applications may include a tag owned by Nielsen which will enable Nielsen to collect non-personal information for market research or audience ratings services. Information about Nielsen’s measurement software and user options are available [here](https://www.nielsen.com/eu/en/solutions/measurement.html).
 
 **Controlling and deleting cookies**
 
@@ -105,8 +106,8 @@ The ABC uses web beacons in combination with cookies to track activity. Turning 
 
 The ABC uses the following types of cookies:
 
-  * **_Session Computer Browser Cookies_** _–_ Session cookies let you move from page to page without the need to repeatedly sign in. For instance, these cookies are used by the ABC Shop Online website to keep track of things such as what you put in your shopping cart. A session browser cookie is stored in the browser and deleted when the browser shuts down.
-  * **_Persistent Cookies_** _–_ Persistent cookies are used to help us monitor the performance of our digital services by recording your browsing behaviour within the particular digital service. These browser cookies can only be read by the company that places the cookies on the computer. Persistent cookies are saved to the hard drive until they expire. Unlike session browser cookies, they are not deleted when the browser is shut down.
+  * **_Session Computer Browser Cookies  _** _–  _Session cookies let you move from page to page without the need to repeatedly sign in. For instance, these cookies are used by the ABC online stores to keep track of things such as what you put in your shopping cart. A session browser cookie is stored in the browser and deleted when the browser shuts down.
+  * **_Persistent Cookies  _** _–  _Persistent cookies are used to help us monitor the performance of our digital services by recording your browsing behaviour within the particular digital service. These browser cookies can only be read by the company that places the cookies on the computer. Persistent cookies are saved to your hard drive until they expire. Unlike session browser cookies, they are not deleted when the browser is shut down.
   * **_Flash Cookies_** – also known as Local Shared Objects, are used to track activity in applications that are running in Adobe Flash Player. Designed for usability, they allow user’s custom settings to remain in place between visits.
 
 
@@ -140,13 +141,13 @@ The purposes for which we collect, use and disclose personal information include
 
 (a) communicating with you about our products or services, including providing information about products or services which we consider may be of interest to you;
 
-(b) billing you for any products or services that we charge for such as ABC Shops;
+(b) billing you for any products or services that we charge for;
 
 (c) investigating any complaints made by or about you;
 
 (d) managing any request by you to return or exchange a product at a later date; and
 
-(e) to otherwise offer you assistance, including, by providing technical support;
+(e) otherwise offering you assistance, including, by providing technical support;
 
   * to conduct competitions or promotions on behalf of the ABC or industry third parties we have entered into agreements with;
   * for statistical and research purposes;
@@ -164,7 +165,7 @@ We will not send you unsolicited direct marketing emails, without your prior con
 We may disclose your personal information that we collect to our:
 
   * technology service providers, including, internet service providers, app service providers, cloud hosting service providers, software suppliers, and maintenance and support service providers and security services on a confidential basis so that they can provide services to us;
-  * ABC Shop Online fulfilment partners such as Australia Post, product distributors, third party suppliers, third party vendors, gift card suppliers and loyalty program suppliers;
+  * ABC online store fulfilment partners such as Australia Post and Unified Music Group (triple j online store), product distributors, third party suppliers, third party vendors, gift card suppliers and loyalty program suppliers;
   * marketing, promotions and ratings service providers;
   * analytics service providers including Facebook and Google Analytics (for more information, you can read the Google Analytics Terms of Service [here](https://policies.google.com/technologies/partner-sites)); and
   * subscription service providers and their mailing houses.
@@ -177,11 +178,11 @@ The ABC has a statutory obligation to take contractual measures to ensure that i
 
 The ABC will not sell or receive payment for licensing or disclosing your personal information.
 
-The ABC may include links to third party content on its website and in other electronic communications.  The ABC does not have any control over the privacy practices of those third parties.  Please check the website of each relevant third party for details of their privacy policies.  The ABC does not control who links to the ABC’s site.
+The ABC may include links to third party content on its website and in other electronic communications.  The ABC does not have any control over the privacy practices of those third parties. Please check the website of each relevant third party for details of their privacy policies.  The ABC does not control who links to the ABC’s site.
 
 ### 1.4 Options to enter into additional privacy terms
 
-We will sometimes give you an option to use products or services which are provided in conjunction with other entities such as social media networks.  If we do this, you will be given privacy information before being asked to consent to the terms and conditions of that service.  You should read the privacy policy and terms and conditions of each service very carefully before deciding whether to accept them.  You should also be careful to ensure that you only post information online if you are happy for it to be and to remain publicly available.
+We will sometimes give you an option to use products or services which are provided in conjunction with other entities such as social media networks.  If we do this, you will be given privacy information before being asked to consent to the terms and conditions of that service.  You should read the privacy policy and terms and conditions of each service very carefully before deciding whether to accept them. You should also be careful to ensure that you only post information online if you are happy for it to be and to remain publicly available.
 
 ## 2\. Seeking access to, and updating, information we hold about you
 
@@ -189,11 +190,9 @@ You have the right to request access to personal information that is held by the
 
 You also have the right to request the correction of any of your personal information that the ABC holds. The ABC will take reasonable steps to make appropriate corrections to personal information so that it is accurate, complete and up-to-date. To seek access to, or correction of, your personal information please contact the ABC Privacy Officer, whose details are below.
 
-Personal information that you have provided to ABC Shop Online (such as your name, invoice and delivery addresses, phone number, or email address) is accessible by you by registering with ABC Shop Online. If you register with ABC Shop Online you will need to retain a username and password. The ABC recommends that you update your personal information if your details change so that our records are accurate, complete and up-to-date.
-
 ## 3\. Making a complaint
 
-The ABC welcomes feedback about privacy issues and will attend to all questions and complaints promptly. Please contact our Privacy Officer using the details below if you would like to make a complaint.  If the ABC takes more than 30 days to respond to your privacy complaint, or if you are dissatisfied with the outcome, you can make a complaint to the Privacy Commissioner at the Office of the Australian Information Commissioner. The OAIC can be contacted on 1300 363 992 or at [www.oaic.gov.au](http://www.oaic.gov.au/)
+The ABC welcomes feedback about privacy issues and will attend to all questions and complaints promptly. Please contact our Privacy Officer using the details below if you would like to make a complaint.  If the ABC takes more than 30 days to respond to your privacy complaint, or if you are dissatisfied with the outcome, you can make a complaint to the Privacy Commissioner at the Office of the Australian Information Commissioner. The OAIC can be contacted on 1300 363 992 or at  ** _[www.oaic.gov.au](http://www.oaic.gov.au/)_**
 
 ## 4\. Privacy contact officer contact details
 
@@ -221,4 +220,4 @@ Questions?
 
 If you have any questions about this policy, please contact the ABC Privacy Officer, [**privacy.abc@abc.net.au**](mailto:privacy.abc@abc.net.au)
 
-_September 2018_
+_January 2019_
