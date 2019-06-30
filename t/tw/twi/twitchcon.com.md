@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitchcon.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228094302id_/https%3A//www.twitch.tv/p/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitchcon.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630135506id_/https%3A//www.twitch.tv/p/legal/privacy-policy) for the most accurate reproduction.*
 
 # Twitch.tv - Privacy Policy
 
@@ -86,7 +86,7 @@ For more information on how to exercise these rights, click [here](https://www.t
 
 #### **Account Closure & Deletion**
 
-If you would like to close your account and delete your profile information on [www.twitch.tv](http://www.twitch.tv/) go to [http://www.twitch.tv/user/delete_account.](http://www.twitch.tv/user/delete_account) For Twitch Services other than [twitch.tv](http://twitch.tv/), you may update or delete information tied to your account, or close an account, by accessing the “My Account” area of the service or by submitting a help ticket to that service. If you close your account, Twitch may retain certain information about you for the activities described in this Privacy Policy, or as permitted or required by applicable law.
+If you would like to close your account and delete your profile information on [www.twitch.tv](http://www.twitch.tv/) go to [https://www.twitch.tv/user/delete_account.](https://www.twitch.tv/user/delete_account) For Twitch Services other than [twitch.tv](http://twitch.tv/), you may update or delete information tied to your account, or close an account, by accessing the “My Account” area of the service or by submitting a help ticket to that service. If you close your account, Twitch may retain certain information about you for the activities described in this Privacy Policy, or as permitted or required by applicable law.
 
 #### **Third-Party Services and Websites**
 
