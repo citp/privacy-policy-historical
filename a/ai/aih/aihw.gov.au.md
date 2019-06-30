@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226191237id_/https%3A//www.aihw.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630094824id_/https%3A//www.aihw.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Australian Institute of Health and Welfare
 
@@ -74,7 +74,9 @@ We collect personal information for a range of reasons, including to:
   * conduct health and welfare surveys
   * maintain health and welfare data sets
   * maintain national registers such as the National Death Index, National Mortality Database and National Cancer Database
-  * undertake data linkage activities for medical and health research.
+  * facilitate health and welfare research projects
+  * undertake data linkage activities for health and welfare research.
+
 
 
 
@@ -87,6 +89,7 @@ We also collect personal information for other purposes. This includes:
   * contact details of: 
     * subscribers to our notification services
     * members of committees we are on or provide secretariat services for
+    * individuals associated with research projects considered by the AIHW Ethics Committee
     * people who have signed releases to take part in photographic, video or audio sessions about our work and publications
   * responses to queries and complaints
   * responses to requests under the _Freedom of Information Act 1982_ (Cwlth) _   _
@@ -204,7 +207,7 @@ Google has a [privacy policy](http://www.google.com.au/intl/en/policies/privacy/
 
 You can ask to access the personal information we hold about you. If that information is incorrect or outdated, you can ask us to correct it.  
 
-Contact our [Privacy Officer](https://web.archive.org/contact-us)[.](mailto:privacy@aihw.gov.au)
+Contact our [Privacy Officer](https://web.archive.org/contact-us)[.](https://web.archive.org/cdn-cgi/l/email-protection#2d5d5f445b4c4e546d4c44455a034a425b034c58)
 
 ## How to complain about a possible breach of privacy
 
@@ -218,7 +221,7 @@ If you are not happy with our response to your complaint about privacy, you can 
 
 ## How to contact us about privacy
 
-**Email   **[privacy@aihw.gov.au](mailto:privacy@aihw.gov.au)
+**Email   **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bcccced5cadddfc5fcddd5d4cb92dbd3ca92ddc9)
 
 **Post**
 
