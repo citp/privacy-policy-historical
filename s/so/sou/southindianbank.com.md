@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southindianbank.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614170706id_/https%3A//www.southindianbank.com/content/viewContentLvl1.aspx%3FlinkIdLvl2%3D289%26linkid%3D289) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southindianbank.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630172044id_/https%3A//www.southindianbank.com/content/privacy-policy/289) for the most accurate reproduction.*
 
-# South Indian Bank
+# Privacy Policy - South Indian Bank
 
 In the course of using this website or availing the products and services vide the online application forms and questionnaires, The South Indian Bank Ltd. and its Affiliates may become privy to the personal information of its customers, including information that is of a confidential nature.
 
