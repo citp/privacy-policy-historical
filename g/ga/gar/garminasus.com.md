@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garminasus.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209121955id_/https%3A//www.garmin.com/en-US/privacy/global) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garminasus.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630111540id_/https%3A//www.garmin.com/en-US/privacy/global) for the most accurate reproduction.*
 
 # Privacy Policy | Garmin
 
@@ -12,11 +12,7 @@ Learn More
 
 ### When You Make an Account
 
-Garmin stores information such as your name, email address and passwords so you can log in, and it helps us verify your account if you call customer support. 
-
-### When You Use Social Media
-
-If you sign in to your Garmin account using social media, we ask to access certain information to help create the account. We only store your email address for signing in later. 
+Garmin stores information such as your name, email address and passwords so you can sign in, and it helps us verify your account if you call customer support. 
 
 ### When You Buy Products
 
