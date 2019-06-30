@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231085216id_/https%3A//www.next.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224558id_/https%3A//www.next.co.uk/privacy) for the most accurate reproduction.*
 
 # Next Cookies & Privacy Policy | Next Official Site
 
@@ -110,8 +110,6 @@ We and fraud prevention agencies may also enable law enforcement agencies to acc
 
 We process your personal data on the basis that we have a legitimate interest in preventing fraud and money laundering, and to verify identity, in order to protect our business and to comply with laws that apply to us. Such processing is also a contractual requirement of the services or financing you have requested. 
 
-We process your personal data on the basis that it is necessary in the public interest or in exercising official authority for us to prevent fraud and money laundering, and to verify identity, in order to protect ourselves and to comply with laws that apply to us. 
-
 Fraud prevention agencies can hold your personal data for different periods of time, and if you are considered to pose a fraud or money laundering risk, your data can be held for up to six years.
 
 Automated Decisions   
@@ -144,7 +142,7 @@ Wherever these transfers take place Next will have an appropriate contract in pl
 
 We want to keep you up to date with information about new ranges, special offers and improvements to our website. When you set your account up, we will ask you if you want to receive this type of marketing information.
 
-Next will not share your information with companies outside of Next Retail Ltd for their marketing purposes. Next Retail Ltd includes Next Stores, Next Directory and Next.co.uk.
+Next will not share your information with companies outside of Next Retail Ltd for their marketing purposes. Next Retail Ltd includes Next Stores, Next Directory and [next.co.uk.](http://www.next.co.uk/)
 
 If you decide you do not want to receive this marketing information you can request that we stop by writing to the Data Protection Officer at the address provided above, emailing [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk), by calling the Contact Centre on 0333 777 8000, via My Account online or the unsubscribe link within the email. 
 
@@ -263,6 +261,7 @@ Facebook Custom Audiences
 Facebook Pixel *  
 Snapchat  
 Pinterest  
+Movable Ink  
   
 The Facebook Pixel uses both 1st party and 3rd party cookies and further details of our use of online advertising can be found in the Privacy Notice. 
 
