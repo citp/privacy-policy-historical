@@ -1,75 +1,45 @@
-> *The following text is extracted and transformed from the patriotupdate.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206175157id_/http%3A//patriotupdate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotupdate.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630085423id_/https%3A//www.westernjournal.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Terms & Conditions - Patriot Update
+# Privacy Policy - The Western Journal
 
-At PatriotUpdate.com, the privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a “User”) of the PatriotUpdate.com website (“Site”). This privacy policy applies to the Site and all products and services offered by PatriotUpdate.com.
+**Last Updated 12/04/2017  
+Version 1.4**
 
-Patriot Update prohibits unsolicited messages. If you want to receive Patriot Update emails you will need to optin in and confirm your email address.
+If you require additional information or have any questions about our privacy policy, please feel free to contact us by email at contactus@liftablemedia.com.
 
-**Personal identification information**
+At Liftable Media, Inc. (“LMI”), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by LMI and how it is used.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, comment on the site, place an order, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, and credit card information.
+**Log Files**  
+Like many other Web sites, LMI makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We will not disclose your individual identity or personal data to any party.
 
-**Non-personal identification information**
+When we do present information to outside companies it will be in an aggregate fashion, that will prevent the company from identifying you or contacting you.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We will retain your information for as long as your account is active or as long as needed to provide you services. If you wish to cancel your account or request that we no longer use your information, please contact us at contactus@liftablemedia.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**Web browser cookies**
+**Cookies and Web Beacons**  
+LMI does use cookies to store information about visitors’ preferences, record user-specific information on which pages the user accesses or visits, and customize Web page content based on visitors’ browser type or other information that the visitor sends via their browser.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on LMI.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
-We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to <http://aboutads.info/choices> or <http://www.networkadvertising.org/managing/opt_out.asp>.
+**Third Party Advertisers**  
+Some of our advertising partners may use cookies and web beacons on our site.
 
-Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.” 
+These third-party ad servers or ad networks use technology to display the advertisements and links that appear on LMI. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-**How we use collected information**
+LMI has no access to or control over these cookies that are used by third-party advertisers.
 
-PatriotUpdate.com collects and uses Users’ personal information for the following purposes:
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. LMI’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-  * To improve customer service  
-Your information helps us to more effectively respond to your customer service requests and support needs.
-  * To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * To improve our Site  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * To process transactions  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * To administer a content, promotion, survey or other Site feature
-  * To send Users information they agreed to receive about topics we think will be of interest to them.
-  * To send periodic emails
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
+Many of our advertising partners are part of the Network Advertising Initiative. You may opt-out of behavioral advertising for Network Advertising Initiative member companies by following the link below and opting-out of all or some of the advertising networks: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
+**Subscription to our Email List**  
+After signing up to receive regular updates from LMI by e-mail, depending on which website you subscribe to, users will begin to receive a brief synopsis of current news events, or other digital content, available on Western Journal ([http://www.westernjournal.com/](https://www.westernjournal.com/)), Liftable (<http://www.liftable.com/>), Conservative Tribune ([http://www.westernjournal.com/ct/](https://www.westernjournal.com/ct/)), The Wildcard (<http://www.thewildcard.com/>) delivered on a daily or weekly basis. Additionally, users may receive other announcements from LMI. We collect subscriber’s e-mail addresses in order to distribute our updates and announcements and do not otherwise share them with other companies or partners. LMI respects your right to privacy of the personal information you provide us on our site. Unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide will not be known to any other party except you and LMI. This policy is intended to explain how your personal information is collected and how it will be treated.
 
-The email address Users provide for order processing will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions.
-
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We do not rent, sell or barter your email address to third parties. Users may receive occasional emails from underwriters of this website; such sponsorships enable us to continue to bring you the latest news and information free of charge. If at any time the User would like to unsubscribe from receiving future emails, simply click the unsubscribe link at the bottom of each email or [contact us](http://libertyalliance.com/contact-us/) online.
-
-**How we protect your information**
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-**Third party websites**
-
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
-
-**Advertising**
-
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. 
-
-**Google AdSense**
-
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/policies/technologies/ads/>
-
-**Changes to this privacy policy**
-
-PatriotUpdate.com has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-**Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please feel free to [contact us](https://web.archive.org/contact/) by email.
+Users can choose to unsubscribe from any of LMI’s email lists at any time by following the unsubscribe procedures found at the bottom of each e-mail.
