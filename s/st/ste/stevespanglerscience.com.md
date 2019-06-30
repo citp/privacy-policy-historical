@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevespanglerscience.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909173242id_/https%3A//www.stevespanglerscience.com/privacy-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevespanglerscience.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211120id_/https%3A//www.stevespanglerscience.com/privacy-security-policy) for the most accurate reproduction.*
 
 # Privacy & Security Policy - Steve Spangler Science
 
