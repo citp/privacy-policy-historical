@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223073811id_/https%3A//www.lifesitenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630041321id_/https%3A//www.lifesitenews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | LifeSite
 
@@ -44,4 +44,4 @@ This site contains links to other sites. LifeSiteNews.com is not responsible for
 
 **Contact Us**
 
-If you have any additional questions or concerns about our privacy policy, please contact us at [ https://www.lifesitenews.com/contact](https://www.lifesitenews.com/contact)
+If you have any additional questions or concerns about our privacy policy, please contact us at [ https://www.lifesitenews.com/contact](https://www.lifesitenews.com/contact/)
