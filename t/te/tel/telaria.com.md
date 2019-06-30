@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the telaria.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628115836id_/https%3A//telaria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telaria.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235532id_/https%3A//telaria.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Telaria
 
 ###### Last updated: May 25, 2018
 
-#### **This privacy policy describes how Telaria, Inc. and its affiliates (Telaria, we, us, or our) collects, uses, and shares information through both its video advertising services, including our video management platform, as well as the Telaria website, Telaria.com, and other Telaria digital properties and products that link to this privacy policy (Telaria Site or Site).**
+#### **This privacy policy describes how Telaria, Inc. and its affiliates (Telaria, we, us, or our) collects, uses, and shares information through both its video advertising services, including our video management platform, as well as the Telaria website, Telaria.com, and other Telaria digital properties and products that link to this privacy policy (Telaria Site or Site).  For information regarding Outstream Services, please visit [here](https://outstream.telaria.com/privacy-policy).**
 
   1. ### **Telaria** **Video management platform**
 
@@ -101,7 +101,7 @@ As your primary touchpoint, publishers (i.e., the website or application on whic
 
 
 
-[www.telaria.com](http://www.telaria.com/), and other digital Telaria properties that link to this privacy policy, are the corporate websites of Telaria. The websites (the Telaria Site or Site) provide current and prospective customers, partners, job seekers, and other visitors with information about our products and services, and give users the opportunity to contact us for further information. In addition, if you are a representative of a Telaria client, we may collect information about you in relation to or in the context of your use of our digital properties and products, including when you operate our video management platform. This section of the privacy policy describes the types of information that Telaria collects on the Site and how that information is used. Telaria reserves the right to revise this privacy policy from time to time by posting the changes on the Site. Your continued use of the Site constitutes your acceptance of the current posted privacy policy.
+[www.telaria.com](https://telaria.com/), and other digital Telaria properties that link to this privacy policy, are the corporate websites of Telaria. The websites (the Telaria Site or Site) provide current and prospective customers, partners, job seekers, and other visitors with information about our products and services, and give users the opportunity to contact us for further information. In addition, if you are a representative of a Telaria client, we may collect information about you in relation to or in the context of your use of our digital properties and products, including when you operate our video management platform. This section of the privacy policy describes the types of information that Telaria collects on the Site and how that information is used. Telaria reserves the right to revise this privacy policy from time to time by posting the changes on the Site. Your continued use of the Site constitutes your acceptance of the current posted privacy policy.
 
 ##### **What information does the Telaria Site collect?**
 
@@ -212,7 +212,7 @@ The Telaria Site is directed to, and intended for use by, adults only. We do not
 
 ##### **Your Choices**
 
-You may opt out from receiving electronic communications from us: If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt out of marketing- related emails [here](http://go.telaria.com/unsubscribe).  We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt out.
+You may opt out from receiving electronic communications from us: If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt out of marketing- related emails [here](http://go.telaria.com//unsubscribe).  We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt out.
 
   3. ### **Miscellaneous**
 
