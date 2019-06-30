@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tribune.com.ng privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018045017id_/https%3A//www.tribuneonlineng.com/privacy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribune.com.ng privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630120451id_/https%3A//www.tribuneonlineng.com/privacy-2) for the most accurate reproduction.*
 
-# Privacy
+# Privacy » Tribune Online
 
 **Privacy policy**
 
