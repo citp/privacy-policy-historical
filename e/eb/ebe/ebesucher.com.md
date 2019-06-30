@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebesucher.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226024359id_/https%3A//www.ebesucher.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebesucher.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221026id_/https%3A//www.ebesucher.com/privacy-statement.html) for the most accurate reproduction.*
 
 # eBesucher: Earn money with our Traffic Exchange, Emails & Clicks
 
@@ -58,7 +58,7 @@ According to Art. 15 to 20 GDPR you have the right to free information about you
 
 ## Responsible Party and Contact for Privacy
 
-As the operator of the website eBesucher, the TurboAd GmbH, Naumannstr. 10, D-10829 Berlin is the responsible authority for the personal data of its users. For questions regarding the collection, processing or use of your personal data, in case of inquiries, correction, blocking or deletion of data and revocation of consents granted, please contact:   
+As the operator of the website eBesucher, the TurboAd GmbH, Fritz-Reuter-Strasse 3, D-10827 Berlin is the responsible authority for the personal data of its users. For questions regarding the collection, processing or use of your personal data, in case of inquiries, correction, blocking or deletion of data and revocation of consents granted, please contact:   
 
 
 ## Changes to this Privacy Statement
