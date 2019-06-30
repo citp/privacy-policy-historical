@@ -1,52 +1,103 @@
-<!--The following is the downloaded HTML source of the theandroidphone.com privacy policy that was archived on 2017-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171227234956id_/http%3A//www.androidauthority.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theandroidphone.com privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630074143id_/https%3A//www.androidauthority.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8FVl5VGwEFV1RWAQM="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<script type="text/javascript">
-		window.twoOhSixCmd = window.twoOhSixCmd || [];
-		window.twoOhSixCmd.push(function() {
-			twoOhSix.setTargeting('PostID', ['12282']);
-twoOhSix.setTargeting('Page-Type', ['archive']);
-twoOhSix.setTargeting('Post-Type', ['page']);
-		});
-	</script>
-<script>window.twoOhSixId = 'androidauthority.com';</script>
-<script src="//s.206ads.com/core.js"></script>
-<title>Privacy Policy - Android Authority</title>
-<link media="screen, projection, print" rel="stylesheet" href="https://cdn57.androidauthority.net/wp-content/themes/aa/style.css" type="text/css">
-<link rel="shortcut icon" href="https://cdn57.androidauthority.net/wp-content/uploads/2016/11/favicon1.ico">
-<link rel="pingback" href="https://www.androidauthority.com/xmlrpc.php">
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">  <script type="text/javascript" async="" src="//tag.getdrip.com/3690100.js"></script><script async="" src="https://www.stack-sonar.com/ping.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KMGHQ3J"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> <link type="text/css" media="all" href="https://cdn57.androidauthority.net/wp-content/cache/autoptimize/css/autoptimize_4cc8e314a3660617bce5b30b8e949cf2.css" rel="stylesheet"><style type="text/css" media="screen,  projection,  print">@charset "UTF-8";</style><title>Privacy Policy - Android Authority</title><link rel="shortcut icon" href="https://cdn57.androidauthority.net/wp-content/uploads/2016/11/favicon1.ico"><link rel="pingback" href="https://www.androidauthority.com/xmlrpc.php"><meta name="fo-verify" content="7effcb09-b789-42fb-acea-5f5f096acccc">  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KMGHQ3J');</script>  <script src="//s.206ads.com/configs/androidauthority_m.com.js"></script> <script async="async" src="//www.googletagservices.com/tag/js/gpt.js"></script> <script>var bannerAd_A;
+      var bannerAd_B;
 
-<script>
-		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-		document,'script','https://connect.facebook.net/en_US/fbevents.js');
+      var boxAd_A;
+      var boxAd_B;
+      var boxAd_C;
+      var boxAd_D;
 
-		fbq('init', '539715236194816');
-		fbq('track', "PageView");</script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=539715236194816&ev=PageView&noscript=1"/></noscript>
 
-<script type="text/javascript">
-		var axel = Math.random() + '';
-		var a = axel * 10000000000000;
-		document.write('<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/134702932/DFPAudiencePixel;ord=' + a + ';dc_seg=446187414?" width=1 height=1 border=0/>');
-	</script><script src="https://www.androidauthority.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.1" type="text/javascript" defer=""></script></head><body data-rsssl="1" class="page-template-default page page-id-12282 it-background woocommerce bp-page colorbox-enabled colorbox-slideshow-off"><img src="https://pubads.g.doubleclick.net/activity;dc_iu=/134702932/DFPAudiencePixel;ord=6832775317120.194;dc_seg=446187414?" width="1" height="1" border="0/">
-<noscript><img src="https://pubads.g.doubleclick.net/activity;dc_iu=/134702932/DFPAudiencePixel;ord=1;dc_seg=446187414?" width=1 height=1 border=0/></noscript>
+      var bannerAd_Am;
+      var bannerAd_Bm;
 
-<meta name="news_keywords" content="android, tech, phones, smartphones, google">
-<meta name="original-source" content="https://www.androidauthority.com/privacy-policy/">
-<meta name="robots" content="noindex,nofollow">
-<link rel="canonical" href="https://www.androidauthority.com/privacy-policy/">
-<link rel="publisher" href="https://plus.google.com/+AndroidAuthority/posts">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - Android Authority">
-<meta property="og:description" content="This policy was last updated February 2, 2017.
+      var boxAd_Am;
+      var boxAd_Bm;
+      var boxAd_Cm;
+      var boxAd_Dm;
+
+      var nativeAd_A;
+      var nativeAd_B;
+      var nativeAd_C;
+      var nativeAd_D;
+
+      var oopAd_A;
+      var oopAd_B;
+
+      var skyAd_B;
+
+      var TPD_Mobile;
+
+      googletag.cmd.push(function () {
+
+        if (TPD_Mobile == false) {
+          bannerAd_A = googletag.defineSlot(TPD_AdUnit , prebidLeaderboard, 'tpd-banner-ad-a').addService(googletag.pubads()).setTargeting("position", pos_bannerAdA).setTargeting("refreshcount", TPD_BannerA_refresh).setTargeting("refresh", 'false');
+
+          bannerAd_B = googletag.defineSlot(TPD_AdUnit, prebidLeaderboard_B, 'tpd-banner-ad-b').addService(googletag.pubads()).setTargeting("position", pos_bannerAdB).setTargeting("refreshcount", TPD_BannerB_refresh).setTargeting("refresh", 'false');
+
+          boxAd_A = googletag.defineSlot(TPD_AdUnit, prebidBoxAd_A, 'tpd-box-ad-a').addService(googletag.pubads()).setTargeting("position", pos_boxAdA).setTargeting("refreshcount", TPD_BoxA_refresh).setTargeting("refresh", 'false');
+
+          boxAd_B = googletag.defineSlot(TPD_AdUnit, prebidBoxAd_B, 'tpd-box-ad-b').addService(googletag.pubads()).setTargeting("position", pos_boxAdB).setTargeting("refreshcount", TPD_BoxB_refresh).setTargeting("refresh", 'false');
+
+          boxAd_C = googletag.defineSlot(TPD_AdUnit, prebidBoxAd_C, 'tpd-box-ad-c').addService(googletag.pubads()).setTargeting("position", pos_boxAdC).setTargeting("refreshcount", TPD_BoxC_refresh).setTargeting("refresh", 'false');
+
+          boxAd_D = googletag.defineSlot(TPD_AdUnit, prebidBoxAd_D, 'tpd-box-ad-d').addService(googletag.pubads()).setTargeting("position", pos_boxAdD).setTargeting("refreshcount", TPD_BoxD_refresh).setTargeting("refresh", 'false');
+
+          nativeAd_A = googletag.defineSlot(TPD_AdUnit_Native_A, prebidNativeAd_A, 'tpd-native-ad-a').addService(googletag.pubads()).setTargeting("position", pos_nativeAdA).setTargeting("refresh", 'false').setCollapseEmptyDiv(true);
+
+          nativeAd_B = googletag.defineSlot(TPD_AdUnit_Native_B, prebidNativeAd_B, 'tpd-native-ad-b').addService(googletag.pubads()).setTargeting("position", pos_nativeAdB).setTargeting("refresh", 'false').setCollapseEmptyDiv(true);
+
+          nativeAd_D = googletag.defineSlot(TPD_AdUnit_Native_D, prebidNativeAd_D, 'tpd-native-ad-d').addService(googletag.pubads()).setTargeting("position", pos_nativeAdD).setTargeting("refresh", 'false').setCollapseEmptyDiv(true);
+
+          oopAd_A = googletag.defineSlot(TPD_AdUnit_OOP, prebidOOPAd_A, 'tpd-oop-ad-a').addService(googletag.pubads()).setTargeting("position", pos_oopAdA).setCollapseEmptyDiv(true);
+
+          skyAd_B = googletag.defineSlot(TPD_AdUnit, prebidSkyAd_B, 'tpd-sky-ad-b').addService(googletag.pubads()).setTargeting("position", pos_skyAdB);
+
+          } else if (TPD_Mobile == true) {
+
+          bannerAd_Am = googletag.defineSlot(TPD_AdUnit , prebidLeaderboard, 'tpd-banner-ad-am').addService(googletag.pubads()).setTargeting("position", pos_bannerAdA).setTargeting("refreshcount", TPD_BannerAm_refresh).setTargeting("refresh", 'false');
+
+          bannerAd_Bm = googletag.defineSlot(TPD_AdUnit, prebidLeaderboard_B, 'tpd-banner-ad-bm').addService(googletag.pubads()).setTargeting("position", pos_bannerAdB).setTargeting("refreshcount", TPD_BannerBm_refresh).setTargeting("refresh", 'false');
+
+          boxAd_Am = googletag.defineSlot(TPD_AdUnit, prebidBoxAd_A, 'tpd-box-ad-am').addService(googletag.pubads()).setTargeting("position", pos_boxAdA).setTargeting("refreshcount", TPD_BoxAm_refresh).setTargeting("refresh", 'false');
+
+          boxAd_Bm = googletag.defineSlot(TPD_AdUnit, prebidBoxAd_B, 'tpd-box-ad-bm').addService(googletag.pubads()).setTargeting("position", pos_boxAdB).setTargeting("refreshcount", TPD_BoxBm_refresh).setTargeting("refresh", 'false');
+
+          boxAd_Cm = googletag.defineSlot(TPD_AdUnit, prebidBoxAd_C, 'tpd-box-ad-cm').addService(googletag.pubads()).setTargeting("position", pos_boxAdC).setTargeting("refreshcount", TPD_BoxCm_refresh).setTargeting("refresh", 'false');
+
+          boxAd_Dm = googletag.defineSlot(TPD_AdUnit, prebidBoxAd_D, 'tpd-box-ad-dm').addService(googletag.pubads()).setTargeting("position", pos_boxAdD).setTargeting("refreshcount", TPD_BoxDm_refresh).setTargeting("refresh", 'false');
+
+          nativeAd_A = googletag.defineSlot(TPD_AdUnit_Native_A, prebidNativeAd_A, 'tpd-native-ad-a').addService(googletag.pubads()).setTargeting("position", pos_nativeAdA).setTargeting("refresh", 'false').setCollapseEmptyDiv(true);
+
+          nativeAd_B = googletag.defineSlot(TPD_AdUnit_Native_B, prebidNativeAd_B, 'tpd-native-ad-b').addService(googletag.pubads()).setTargeting("position", pos_nativeAdB).setTargeting("refresh", 'false').setCollapseEmptyDiv(true);
+
+          nativeAd_D = googletag.defineSlot(TPD_AdUnit_Native_D, prebidNativeAd_D, 'tpd-native-ad-d').addService(googletag.pubads()).setTargeting("position", pos_nativeAdD).setTargeting("refresh", 'false').setCollapseEmptyDiv(true);
+
+          oopAd_A = googletag.defineSlot(TPD_AdUnit_OOP, prebidOOPAd_A, 'tpd-oop-ad-a').addService(googletag.pubads()).setTargeting("position", pos_oopAdA).setCollapseEmptyDiv(true);
+        }
+
+        googletag.pubads().setTargeting("Domain", TPD_Domain);
+        googletag.pubads().setTargeting("Path", TPD_Path);
+        googletag.pubads().setTargeting("URL", TPD_URL);
+        googletag.pubads().setTargeting("Testmode", TPD_Testmode);
+        googletag.pubads().setTargeting("kw", TPD_TitleKW);
+        
+
+        //TO BE POPULATED BY THE ANDROID AUTHORITY DEV TEAM
+
+        googletag.pubads().setTargeting('PostID', ['12282']);
+googletag.pubads().setTargeting('Page-Type', ['archive']);
+googletag.pubads().setTargeting('Post-Type', ['page']);
+
+        googletag.enableServices();
+
+      });</script> <script type="text/javascript" src="https://js.gleam.io/oi-CaG9yla.js" async="async"></script> <noscript><img style="display: none;" src="https://pubads.g.doubleclick.net/activity;dc_iu=/134702932/DFPAudiencePixel;ord=1;dc_seg=446187414?" width=1 height=1 border=0 /></noscript> <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="487b58b4-5133-4023-8555-1b642b0b084b" type="text/javascript" async=""></script> <meta name="robots" content="noindex,nofollow"><meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content="Privacy Policy - Android Authority"><meta property="og:description" content="This policy was last updated May 24, 2018.
 At Android Authority, we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy. Our privacy policy is applicable to Android Authority, and Android Authority’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”).
 The privacy policy describes the kinds of information we may gather during your visit to these Sites, how we use your information, when we might disclose your personally identifiable information, and how you can manage your information.
 This privacy policy does not apply to Sites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third party websites.
@@ -55,691 +106,48 @@ We reserve the right to modify or amend the terms of our privacy policy from tim
 What Information Is Collected?
 We collect two basic types of information from you in conjunction with your use of the Sites: non-personally identifiable information and personally identifiable information. Non-personally identifiable information does not individually identify you, but it may include tracking and usage information about your general location, demographics, use of the Sites and the Internet. Personally identifiable information is any information that can individually identify you and includes, your name, address, phone number, and email address, or non-personally identifiable information that has been linked to such personally identifiable information. &nbsp;
 Personally Identifiable Information
-As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; place an order; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at Android Authority.
+As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at Android Authority.
 Non-Personally Identifiable Information
 When you interact with the Sites, we may collect certain information that does not identify you individually (“non-personally identifiable information” or “non-PII”), such as demographic data; information about your computer, mobile device, or other device that you use to access the Sites, including IP address, general location information, unique device identifiers, browser type, browser language, and other transactional information. 
-We may also collect information about your use of the Sites, including [...]">
-<meta property="og:url" content="https://www.androidauthority.com/privacy-policy/">
-<meta property="og:site_name" content="Android Authority">
-<meta property="article:publisher" content="https://www.facebook.com/androidauthority/">
-<meta property="fb:app_id" content="598473026880919">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="
+We may also collect information about your use of the Sites, including your search terms [...]"><meta property="og:url" content="https://www.androidauthority.com/privacy-policy/"><meta property="og:site_name" content="Android Authority"><meta property="article:publisher" content="https://www.facebook.com/androidauthority/"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:description" content="This policy was last updated May 24, 2018. At Android Authority, we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy. Our privacy policy is applicable to Android Authority, and Android Authority’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”). The privacy policy describes the kinds of information we may gather during your visit to these Sites, how we use your information, when we might disclose your personally identifiable information, and how you can manage your information. This privacy policy does not apply to Sites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third party websites. By visiting our Sites, you are accepting the practices described in our privacy policy, including our use of cookies and similar online tools. If you do not agree to the terms of this privacy policy, please do not use the Sites. We reserve the right to modify or amend the terms of our privacy policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this privacy policy retroactively or to personally identifiable information already in our possession, we will provide you with notice of the modifications or amendments and seek your consent for such use. What Information Is Collected? We collect two basic types of information from you in conjunction with your use of the Sites: non-personally identifiable information and personally identifiable information. Non-personally identifiable information does not individually identify you, but it may include tracking and usage information about your general location, demographics, use of the Sites and the Internet. Personally identifiable information is any information that can individually identify you and includes, your name, address, phone number, and email address, or non-personally identifiable information that has been linked to such personally identifiable information. &nbsp; Personally Identifiable Information As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at Android Authority. Non-Personally Identifiable Information When you interact with the Sites, we may collect certain information that does not identify you individually (“non-personally identifiable information” or “non-PII”), such as demographic data; information about your computer, mobile device, or other device that you use to access the Sites, including IP address, general location information, unique device identifiers, browser type, browser language, and other transactional information. We may also collect information about your use of the Sites, including your search terms [...]"><meta name="twitter:title" content="Privacy Policy - Android Authority"><meta name="twitter:site" content="@androidauth"><meta name="twitter:creator" content="@androidauth"> <script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.androidauthority.com/#organization","name":"","url":"https://www.androidauthority.com/","sameAs":["https://www.facebook.com/androidauthority/","https://twitter.com/androidauth"]},{"@type":"WebSite","@id":"https://www.androidauthority.com/#website","url":"https://www.androidauthority.com/","name":"Android Authority","publisher":{"@id":"https://www.androidauthority.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.androidauthority.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.androidauthority.com/privacy-policy/#webpage","url":"https://www.androidauthority.com/privacy-policy/","inLanguage":"en-US","name":"Privacy Policy - Android Authority","isPartOf":{"@id":"https://www.androidauthority.com/#website"},"datePublished":"2011-04-10T07:06:54+00:00","dateModified":"2018-05-24T22:59:12+00:00"}]}</script>  <!--[if !IE]><!--> <!--<![endif]--> <script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script> <script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script> <script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/plugins/forget-about-shortcode-buttons-modified/public/js/forget-about-shortcode-buttons-public.js?ver=2.1.1"></script> <link rel="https://api.w.org/" href="https://www.androidauthority.com/wp-json/"><link rel="shortlink" href="https://www.androidauthority.com/?p=12282"><link rel="alternate" type="application/json+oembed" href="https://www.androidauthority.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.androidauthority.com%2Fprivacy-policy%2F"><link rel="alternate" type="text/xml+oembed" href="https://www.androidauthority.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.androidauthority.com%2Fprivacy-policy%2F&amp;format=xml"> 
 
-This policy was last updated February 2, 2017.
-At Android Authority, we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy. Our privacy policy is applicable to Android Authority, and Android Authority’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”).
-The privacy policy describes the kinds of information we may gather during your visit to these Sites, how we use your information, when we might disclose your personally identifiable information, and how you can manage your information.
-This privacy policy does not apply to Sites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third party websites.
-By visiting our Sites, you are accepting the practices described in our privacy policy, including our use of cookies and similar online tools. If you do not agree to the terms of this privacy policy, please do not use the Sites.
-We reserve the right to modify or amend the terms of our privacy policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this privacy policy retroactively or to personally identifiable information already in our possession, we will provide you with notice of the modifications or amendments and seek your consent for such use.
-What Information Is Collected?
-We collect two basic types of information from you in conjunction with your use of the Sites: non-personally identifiable information and personally identifiable information. Non-personally identifiable information does not individually identify you, but it may include tracking and usage information about your general location, demographics, use of the Sites and the Internet. Personally identifiable information is any information that can individually identify you and includes, your name, address, phone number, and email address, or non-personally identifiable information that has been linked to such personally identifiable information. &nbsp;
-Personally Identifiable Information
-As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; place an order; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at Android Authority.
-Non-Personally Identifiable Information
-When you interact with the Sites, we may collect certain information that does not identify you individually (“non-personally identifiable information” or “non-PII”), such as demographic data; information about your computer, mobile device, or other device that you use to access the Sites, including IP address, general location information, unique device identifiers, browser type, browser language, and other transactional information. 
-We may also collect information about your use of the Sites, including [...]">
-<meta name="twitter:title" content="Privacy Policy - Android Authority">
-<meta name="twitter:site" content="@androidauth">
-<meta name="twitter:creator" content="@androidauth">
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.androidauthority.com\/","name":"Android Authority","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.androidauthority.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="ir-site-verification-token" value="1225403125"><meta name="theme-color" content="#FFFFFF"><meta name="msapplication-navbutton-color" content="#FFFFFF"><meta name="apple-mobile-web-app-status-bar-style" content="#FFFFFF"><link rel="icon" type="image/png" href="/wp-content/themes/aa/images/aa-mascot-192x192.png?v=1.0.1" sizes="192x192"><style type="text/css">body #CybotCookiebotDialog{background:transparent;box-shadow:none;margin-top:-20px}body #CybotCookiebotDialog:after{content:"";position:absolute;top:0;left:20px;right:20px;bottom:0;width:auto;background-color:#f8f8fb;height:auto;z-index:-1}body #CybotCookiebotDialog #CybotCookiebotDialogDetail{background-color:transparent;text-align:center}body #CybotCookiebotDialog #CybotCookiebotDialogDetailBody{max-width:1000px;margin-left:40px;margin-right:40px;padding-left:0;padding-right:0;width:auto;position:relative;overflow:hidden;display:inline-block}body #CybotCookiebotDialog #CybotCookiebotDialogPoweredbyLink{display:none}body #CybotCookiebotDialog #CybotCookiebotDialogBody #CybotCookiebotDialogBodyButtons,body #CybotCookiebotDialog #CybotCookiebotDialogBodyButtons,body #CybotCookiebotDialog #CybotCookiebotDialogBodyContent{padding-left:0}body #CybotCookiebotDialog #CybotCookiebotDialogBodyContentTitle{font-size:20px;line-height:24px;font-weight:400;color:#000}body #CybotCookiebotDialog #CybotCookiebotDialogBodyContent{width:60%}body #CybotCookiebotDialog #CybotCookiebotDialogBodyButtons{width:40%;display:-ms-flexbox;display:flex;-ms-flex-direction:column-reverse;flex-direction:column-reverse;-ms-flex-align:end;align-items:flex-end;padding-top:10px;margin-left:0}body #CybotCookiebotDialog #CybotCookiebotDialogBodyButtons a.CybotCookiebotDialogBodyButton{border-radius:50px;font-family:Proximanova Bold,sans-serif;font-size:15px;line-height:38px;padding:0 10px;min-width:240px;max-width:240px;display:block;box-sizing:border-box;border:1px solid rgba(0,0,0,.05);background-color:#edeef4;color:#b5b6c3;margin-left:0}body #CybotCookiebotDialog #CybotCookiebotDialogBodyButtons a.CybotCookiebotDialogBodyButton#CybotCookiebotDialogBodyButtonAccept{background-color:#00d49f;margin-bottom:4px;color:#fff}body #CybotCookiebotDialog #CybotCookiebotDialogBody #CybotCookiebotDialogBodyButtons .CybotCookiebotDialogBodyLink,body #CybotCookiebotDialog #CybotCookiebotDialogBody #CybotCookiebotDialogBodyLevelDetailsButton{position:absolute;left:40px;top:calc(100% - 20px);padding:0;font-size:10px!important;margin:0;color:#00d49f}body #CybotCookiebotDialog #CybotCookiebotDialogBodyButtons .CybotCookiebotDialogBodyLink,body #CybotCookiebotDialog #CybotCookiebotDialogBodyLevelDetailsButton{background-image:none!important}body #CybotCookiebotDialog div#CybotCookiebotDialogBody{max-width:1080px;width:100%;display:-ms-flexbox;display:flex;position:relative;margin-bottom:0;padding-bottom:20px;padding-left:40px;padding-right:40px}body #CybotCookiebotDialog #CybotCookiebotDialogBodyContentText{color:#b5b6c3;font-size:10px;line-height:12px}#CybotCookiebotDialogBodyButtonAccept,#CybotCookiebotDialogBodyButtonDecline{position:relative;top:0}body #CybotCookiebotDialog #CybotCookiebotDialogBodyButtons{padding-top:30px}@media (max-width:767px){body #CybotCookiebotDialog #CybotCookiebotDialogBodyButtons{padding-top:0}#CybotCookiebotDialogBodyButtonAccept,#CybotCookiebotDialogBodyButtonDecline{position:relative;top:0}body #CybotCookiebotDialog div#CybotCookiebotDialogBody{display:block;padding-bottom:17px}body #CybotCookiebotDialog div#CybotCookiebotDialogBodyContent{width:100%;padding-top:20px}body #CybotCookiebotDialog div#CybotCookiebotDialogBodyButtons{width:100%;display:-ms-flexbox;display:flex;-ms-flex-align:start;align-items:flex-start;position:relative}body #CybotCookiebotDialog #CybotCookiebotDialogBody #CybotCookiebotDialogBodyButtons .CybotCookiebotDialogBodyLink,body #CybotCookiebotDialog #CybotCookiebotDialogBody #CybotCookiebotDialogBodyLevelDetailsButton{min-width:100%;max-width:100%;display:block;text-align:center;font-size:16px!important;color:#b5b6c3;top:100%;left:0;right:0}body #CybotCookiebotDialog #CybotCookiebotDialogDetailBody{max-width:calc(100% - 80px)}body #CybotCookiebotDialog{margin-top:-15px}body #CybotCookiebotDialog:after{left:15px;right:15px;border-radius:8px}body #CybotCookiebotDialog #CybotCookiebotDialogBodyButtons a.CybotCookiebotDialogBodyButton#CybotCookiebotDialogBodyButtonAccept{margin-bottom:10px}body #CybotCookiebotDialog #CybotCookiebotDialogBodyButtons a.CybotCookiebotDialogBodyButton{width:100%;min-width:100%;max-width:100%}}
+/*# sourceMappingURL=cookiebot.css.map */</style> <script type="text/javascript">var algolia = {"debug":true,"application_id":"02CE74HOAP","search_api_key":"e15eeeb2063dd88a370edd6dcd1656b3","powered_by_enabled":true,"query":"","autocomplete":{"sources":[],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":[]};</script>  <script>(function (s,o,n,a,r,i,z,e) {s['StackSonarObject']=r;s[r]=s[r]||function(){
+  (s[r].q=s[r].q||[]).push(arguments)},s[r].l=1*new Date();i=o.createElement(n),
+  z=o.getElementsByTagName(n)[0];i.async=1;i.src=a;z.parentNode.insertBefore(i,z)
+  })(window,document,'script','https://www.stack-sonar.com/ping.js','stackSonar');
 
-<link rel="alternate" type="text/xml" title="Android Authority » Feed" href="https://www.androidauthority.com/feed/">
-<link rel="alternate" type="text/xml" title="Android Authority » Comments Feed" href="https://www.androidauthority.com/comments/feed/">
-<link rel="alternate" type="text/xml" title="Android Authority » Privacy Policy Comments Feed" href="https://www.androidauthority.com/privacy-policy/feed/">
-<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.androidauthority.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="aa_child-style-css" href="https://cdn57.androidauthority.net/wp-content/themes/aa/style.css?ver=4.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="bws_css-css" href="https://cdn57.androidauthority.net/wp-content/themes/aa/css/bws.min.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="aa_single_css-css" href="https://cdn57.androidauthority.net/wp-content/themes/aa/css/single.min.css?ver=3.2.0" type="text/css" media="all">
-<link rel="stylesheet" id="forget-about-shortcode-buttons-css" href="https://cdn57.androidauthority.net/wp-content/plugins/forget-about-shortcode-buttons-modified/public/css/button-styles.css?ver=2.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="chartjs-css" href="https://cdn57.androidauthority.net/wp-content/plugins/AAProducts/css/chartjs.css?ver=1.0" type="text/css" media="all">
-<!--[if !IE]><!-->
-<!--<![endif]-->
-<script>
-      if (document.location.protocol != "https:") {
-          document.location = document.URL.replace(/^http:/i, "https:");
-      }
-      </script>
-<script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<link rel="https://api.w.org/" href="https://www.androidauthority.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.androidauthority.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.androidauthority.com/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 4.9.1">
-<link rel="shortlink" href="https://www.androidauthority.com/?p=12282">
-<link rel="alternate" type="application/json+oembed" href="https://www.androidauthority.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.androidauthority.com%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="https://www.androidauthority.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.androidauthority.com%2Fprivacy-policy%2F&amp;format=xml">
-
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@AndroidAuth">
-<meta name="twitter:url" content="https://www.androidauthority.com/privacy-policy/">
-<meta name="twitter:title" content="Privacy Policy">
-<meta name="twitter:description" content="This policy was last updated February 2, 2017. At Android Authority, we want you to …">
-<meta name="theme-color" content="#FFFFFF"><meta name="msapplication-navbutton-color" content="#FFFFFF"><meta name="apple-mobile-web-app-status-bar-style" content="#FFFFFF"><link rel="icon" type="image/png" href="/wp-content/themes/aa/images/aa-mascot-192x192.png" sizes="192x192"><script type="text/javascript">var algolia = {"debug":false,"application_id":"02CE74HOAP","search_api_key":"e15eeeb2063dd88a370edd6dcd1656b3","powered_by_enabled":true,"query":"","autocomplete":{"sources":[],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":[]};</script>
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-20765087-1', 'auto');
-  ga('send', 'pageview');
-</script>
-
-
-
-
-<div id="ajax-error"></div>
-<div id="fb-root"></div>
-<a id="back-to-top" class="ripple" href="#top"><span class="theme-icon-up-open"></span></a>
-<div class="container-fluid no-padding">
-<div id="header-bar">
-<div class="row">
-<div class="col-md-12">
-<div id="header-inner" class="container-inner">
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="container-fluid no-padding">
-<div id="sticky-bar" class="">
-<div id="sticky-inner">
-<div class="row">
-<div class="sticky-color">
-<a href="https://www.androidauthority.com" id="aa_main_logo" title="Android Authority"></a>
-</div>
-<div id="section-menu" class="standard-menu"><ul id="menu-aa-section-menu" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-611609"><a href="https://www.androidauthority.com/news/">News</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-696579"><a href="https://www.androidauthority.com/deals/">Deals</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-703252"><a href="https://www.androidauthority.com/apps/">Apps &amp; Games</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-611612"><a href="https://www.androidauthority.com/reviews/">Reviews</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-737517"><a href="http://cellphoneplans.androidauthority.com/">Cell Phone Plans</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-696580"><a href="https://www.androidauthority.com/best/">The Best</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-701850"><a href="/community/">Forums</a></li>
-<li class="menu-item"><a href="#" class="aa_more_section_items aa_sticky_dropdown_button">more</a><nav id="section-menu-more" class="menu-aa-section-menu-more-container"><ul id="menu-aa-section-menu-more" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-727525"><a href="/giveaways">Giveaways</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-727148"><a href="https://www.androidauthority.com/features/">Features</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-737518"><a href="https://www.androidauthority.com/how-to/">How To</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-727149"><a href="https://www.androidauthority.com/android-development/">Android Development</a></li>
-</ul></nav></li></ul></div><div class="aa-search-popup"></div><div id="search-toggle" class="add-active"><span></span></div><div class="aa-sticky-search-wrapper"><div id="sticky-search"><form autocomplete="off" method="get" class="searchform" action="https://www.androidauthority.com/">
-<input type="text" value="" name="q" placeholder="Start typing something">
-<label for="sticky-search-submit">
-<input id="sticky-search-submit" type="submit" name="q-submit">
-</label>
-</form><button class="close-button" id="close-search-button"></button><div class="loading load-infinite"><span class="theme-icon-spin2"></span></div></div></div> <div id="aa_sticky_soc_wrapper">
-<ul class="aa_soc_sidebar">
-<li>
-<a class="aa_soc theme-icon-facebook" href="https://www.facebook.com/androidauthority" rel="me"></a>
-<a class="aa_soc theme-icon-twitter" href="https://twitter.com/androidauth" rel="me"></a>
-<a class="aa_soc theme-icon-youtube" href="https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw?sub_confirmation=1" rel="me"></a>
-<a class="aa_soc theme-icon-googleplay" href="https://play.google.com/store/apps/details?id=com.androidauthority.app" rel="me"></a>
-<a class="aa_soc theme-icon-rss" href="/feed" rel="me"></a>
-<a href="#" class="aa_sticky_soc_more_link aa_soc theme-icon-morelink aa_sticky_dropdown_button"></a>
-<ul class="aa_sticky_soc_more_wrap aa_sticky_dropdown">
-<div class="menu-aa-new-footer-menu-container"><ul id="menu-aa-new-footer-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-727152"><a href="/about">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727155"><a href="https://www.androidauthority.com/contact/">Contact</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-750721"><a href="/jobs/">Jobs</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727153"><a href="https://www.androidauthority.com/advertise/">Advertise</a></li>
-<li class="privacy-policy-icon menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-747189"><a href="https://www.androidauthority.com/privacy-policy/">Privacy Policy</a></li>
-</ul></div> </ul>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div id="tt_hot_products_menu" class="standard-menu"><div class="clearfix"><div class="tt_hot_products_title">Trending</div><nav id="hot-products-menu" class="menu-trending-now-container"><ul id="menu-trending-now" class="menu"><li class="menu-item menu-item-huawei menu-item-type-sponsored menu-item-object-sponsored"><a class="overlay-link" href="http://andauth.co/Huawei"></a></li><li class="menu-item menu-item-zte menu-item-type-sponsored menu-item-object-sponsored menu-item-722874"><a class="overlay-link" href="http://andauth.co/zte"></a></li><li class="menu-item menu-item-oneplus menu-item-type-sponsored menu-item-object-sponsored"><a class="overlay-link" href="http://andauth.co/OnePlus"></a></li><li class="menu-item menu-item-honor menu-item-type-sponsored menu-item-object-sponsored menu-item-722874"><a class="overlay-link" href="http://andauth.co/honor"></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-759109"><a href="https://www.androidauthority.com/android-8-0-review-758783/">Android Oreo</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-804870"><a href="https://www.androidauthority.com/google-pixel-2-xl-review-805069/">Pixel 2</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-795526"><a href="https://www.androidauthority.com/samsung-galaxy-note-8-review-795053/">Note 8</a></li>
-</ul></nav></div></div> </div>
-<div class="aa-newsletter-wrap aa_popup_wrap">
-<div class="aa_popup_overlay"></div>
-<div id="aa-newsletter-modal" class="aa_popup">
-<div class="aa-newsletter-close close-button aa_mobile aa_close_popup"></div>
-<div class="aa-newsletter-title">
-<h4>Android Authority newsletter</h4>
-<p class="aa_desktop-tablet">The best way to stay connected to the Android pulse. Our main newsletter is the Android Weekly which is sent every Sunday and contains all the top Android news, reviews and features from the past week.</p>
-<p class="aa_mobile">The best way to stay connected to the Android pulse.</p>
-</div>
-<div class="mc-embed-signup-wrap">
-
-<div id="mc_embed_signup">
-<form id="mc-embedded-subscribe-form" class="validate" action="//androidauthority.us6.list-manage.com/subscribe/post?u=f4f19d3e8a05a1dbd396bc8bb&amp;id=611ff01bd4" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
-<div id="mc_embed_signup_scroll">
-<div class="mc-field-group">
-<input placeholder="Email address" id="mce-EMAIL" class="required email aa-mc-input" name="EMAIL" type="email" value="">
-</div>
-<div class="mc-field-group">
-<input placeholder="Name" id="mce-FNAME" class="aa-mc-input" name="FNAME" type="text" value="">
-</div>
-<div class="input-group">
-<ul>
-<li><input id="mce-group[10957]-10957-0" checked="checked" name="group[10957][16]" type="checkbox" value="16"><label for="mce-group[10957]-10957-0">Android Weekly</label></li>
-<li><input id="mce-group[10957]-10957-1" name="group[10957][1]" type="checkbox" value="1"><label for="mce-group[10957]-10957-1">Breaking News Alerts</label></li>
-<li><input id="mce-group[10957]-10957-2" name="group[10957][2]" type="checkbox" value="2"><label for="mce-group[10957]-10957-2">Trending Articles</label></li>
-<li><input id="mce-group[10957]-10957-3" name="group[10957][4]" type="checkbox" value="4"><label for="mce-group[10957]-10957-3">Review Alerts</label></li>
-<li><input id="mce-group[10957]-10957-4" name="group[10957][8]" type="checkbox" value="8"><label for="mce-group[10957]-10957-4">Deals Alerts</label></li>
-</ul>
-</div>
-<div class="mc-subscribe-wrap">
-<input id="mc-embedded-subscribe" class="aa_button ripple" name="subscribe" type="submit" value="Subscribe">
-<a title="View previous campaigns" href="http://us6.campaign-archive1.com/home/?u=f4f19d3e8a05a1dbd396bc8bb&amp;id=611ff01bd4">View previous campaigns</a>
-<div class="clear"></div>
-</div>
-<div id="mce-responses" class="clear">
-<div class="response" id="mce-error-response" style="display:none"></div>
-<div class="response" id="mce-success-response" style="display:none"></div>
-</div>
-
-<div style="position: absolute; left: -5000px;">
-<input tabindex="-1" name="b_f4f19d3e8a05a1dbd396bc8bb_611ff01bd4" type="text" value="">
-</div>
-</div>
-</form>
-</div>
-
-</div>
-<div class="mc-other-news">
-<span class="aa-newsletter-secure">100% Privacy, No Spam Policy: We value privacy and your email address will be 100% secure. We hate spam just like you do and will never send you too much email, nor will we ever share your information with anyone.</span>
-</div>
-</div>
-</div>
-<div id="aa_authormail_modal_wrapper" class="aa_popup_wrap">
-<div class="aa_popup_overlay"></div>
-<div class="aa_authormail_modal aa_popup">
-<div class="aa_authormail_content_wrapper">
-<table>
-<tbody>
-<tr>
-<th>
-<label for="aa_msg_user_name">Name:</label>
-</th>
-<td>
-<input id="aa_msg_user_name" type="text" name="aa_msg_user_name" value="">
-</td>
-</tr>
-<tr>
-<th>
-<label for="aa_msg_subject">Subject:</label>
-</th>
-<td>
-<input type="text" id="aa_msg_subject" name="aa_msg_subject" value="Contact: AndroidAuthority" disabled="disabled">
-</td>
-</tr>
-<tr>
-<th>
-<label for="aa_msg_message">Message:</label>
-</th>
-<td>
-<textarea rows="6" id="aa_msg_message" name="aa_msg_message"></textarea>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="submit">
-<input type="submit" name="submit" id="meil-submit" class="aa_button button ripple aa-full-width-button" value="Contact">
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="after-header" id="page">
-<div class="container-fluid no-padding single-wrapper classic-post post-12282 page type-page status-publish" data-layout="classic" data-location="single-page" itemscope="" itemtype="https://schema.org/Article" data-postid="12282" data-time="1514396469" data-cats="1">
-<meta itemprop="datePublished" content="April 10, 2011"><meta itemprop="dateModified" content="2017-10-07 06:49:18"><span style="display: none;" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><meta itemprop="name" content="John Dye"></span><span style="display: none;" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content=""><meta itemprop="width" content="1340"><meta itemprop="height" content="754"></span><span style="display: none;" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization"><meta itemprop="name" content="AndroidAuthority"><span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://cdn57.androidauthority.net/wp-content/themes/aa/images/aa_feed_logo.png"><meta itemprop="width" content="200"><meta itemprop="height" content="43"></span></span>
-<div class="row">
-<div class="col-md-12">
-<div class="container-inner">
-<div class="aa_loop_top_intcont "><div id="text-135" class="widget widget_text" role="banner"> <div class="textwidget"><div class="aa_desktop">
-<div class="center">
-<div class="tpd-box" data-tpd-id="dsk-banner-ad-a">
-</div>
-</div>
-</div>
-</div>
-</div></div><h1 class="main-title single-title entry-title" itemprop="headline">Privacy Policy</h1><div class="post-info-block top-info-block"><div class="span-container"><span class="aa_item_author"><a class="aa_postauthor_link" href="https://www.androidauthority.com/author/johndye/">by John Dye</a></span><span class="aa_item_time">April 10, 2011</span></div> <div class="single_share_block">
-<div class="aa_socs_total">
-6 </div>
-<div class="aa_socials single_socs clearfix">
-<a class="soc reddit window" title="Share on Reddit" href="//www.reddit.com/submit?url=https://www.androidauthority.com/privacy-policy/"></a>
-<a class="soc g window" title="Share on Google +" rel="me" href="https://plus.google.com/share?url=https://www.androidauthority.com/privacy-policy/"></a>
-<a class="soc fb window" title="Share on Facebook" rel="me" href="https://www.facebook.com/sharer.php?app_id=598473026880919&amp;u=https://www.androidauthority.com/privacy-policy/&amp;t=Privacy+Policy"></a>
-<a class="soc tw window" title="Share on Twitter" rel="me" href="https://twitter.com/intent/tweet?url=https://www.androidauthority.com/privacy-policy/&amp;text=Privacy+Policy"></a>
-</div>
-</div>
-<div class="clear"></div></div>
-<div class="row">
-<div class="col-md-8 single-post-selector">
-<div class="single-page   hidden-contents-menu classic-post">
-<div id="post-12282" class="post-content post-selector " data-postid="12282" data-href="https://www.androidauthority.com/privacy-policy/">
-<div class="post-right content-panel wide content-panel">
-<div class="the-content padded-panel"><div id="content-anchor"></div><div id="content-anchor-inner" class="clearfix"><div id="ppBody">
-<div class="innerText">
-<p><em>This policy was last updated February 2, 2017.</em></p>
-<p><span style="font-weight: 400;">At Android Authority, we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy. Our privacy policy is applicable to Android Authority, and Android Authority’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”).</span></p>
-<p><span style="font-weight: 400;">The privacy policy describes the kinds of information we may gather during your visit to these Sites, how we use your information, when we might disclose your personally identifiable information, and how you can manage your information.</span></p>
-<p><span style="font-weight: 400;">This privacy policy does not apply to Sites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third party websites.</span></p>
-<p><b>By visiting our Sites, you are accepting the practices described in our privacy policy, including our use of cookies and similar online tools. If you do not agree to the terms of this privacy policy, please do not use the Sites.</b></p>
-<p><span style="font-weight: 400;">We reserve the right to modify or amend the terms of our privacy policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this privacy policy retroactively or to personally identifiable information already in our possession, we will provide you with notice of the modifications or amendments and seek your consent for such use.</span></p>
-<h2><span style="font-weight: 400;">What Information Is Collected?</span></h2>
-<p><span style="font-weight: 400;">We collect two basic types of information from you in conjunction with your use of the Sites: non-personally identifiable information and personally identifiable information. Non-personally identifiable information does not individually identify you, but it may include tracking and usage information about your general location, demographics, use of the Sites and the Internet. Personally identifiable information is any information that can individually identify you and includes, your name, address, phone number, and email address, or non-personally identifiable information that has been linked to such personally identifiable information. &nbsp;</span></p>
-<p><strong>Personally Identifiable Information</strong></p>
-<p><span style="font-weight: 400;">As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; place an order; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at Android Authority.</span></p>
-<p><strong>Non-Personally Identifiable Information</strong></p>
-<p><span style="font-weight: 400;">When you interact with the Sites, we may collect certain information that does not identify you individually (“non-personally identifiable information” or “non-PII”), such as demographic data; information about your computer, mobile device, or other device that you use to access the Sites, including IP address, general location information, unique device identifiers, browser type, browser language, and other transactional information. </span></p>
-<p><span style="font-weight: 400;">We may also collect information about your use of the Sites, including your search terms and search results, and additional “traffic data” such as time of access, date of access, software crash reports, session identification number, access times, and referring website addresses. Our servers may automatically keep an activity log of your use of our Sites. In addition to non-identifiable individual information, we may collect aggregate data regarding the use of the Sites.</span></p>
-<p><strong>Collection of Personally Identifiable Information From or Through Social Media Sites</strong></p>
-<p><span style="font-weight: 400;">In addition, when you interact with any Android Authority property page or account on a social media platform, such as Facebook, Twitter, Tumblr, or LinkedIn, we may collect the personally identifiable information that you make available to us on that page or account including your social media account ID. However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personally identifiable information that we are permitted to collect by those social media platforms. If you choose to link or login to your Android Authority account with or through a social networking service, Android Authority and that service may share certain information about you and your activities. With your consent, we also may share information about your activities, including what you view on the Sites, with that social network’s users.</span></p>
-<p><strong>Collection of Your Source IP Address/Location Information</strong></p>
-<p><span style="font-weight: 400;">We collect and store your device’s source IP address which may disclose the general location of your device at the time you access the Sites. Advertisements and certain content may be directed to you as a result of this data.</span></p>
-<p><b>Information From Other Sources:</b> <i><span style="font-weight: 400;">We may supplement the information we collect with information from third parties or collected offline and add it to your account information. This information may include, but is not limited to, demographic information, additional contact information, group affiliations, occupational information, and educational background.</span></i></p>
-<p><strong>How Do We Use Your Information?</strong></p>
-<p><span style="font-weight: 400;">We use the information we learn from you to help us personalize and continually improve your experience on the Sites, including to:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Provide you with the content, products and services you request</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Post your user generated content to our Sites as you request</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Communicate with you about your account or transactions with us and send you information about features and enhancements on or to our Sites</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Communicate with you about changes to our policies</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Communicate with you about your comment to a story or topic</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Personalize content and experiences on our Sites, including providing you recommendations based on your preferences</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Send you newsletters, offers and promotions for our products and services, third party products and services, or special events by e-mail, text, or other another medium</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Provide you with advertising including advertising based on your activity on our Sites or activity on third party sites and applications</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Administer our loyalty programs</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Administer contests, giveaways, promotions, and polls</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Optimize or improve our products, services and operations</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Detect, investigate, and prevent activities that may violate our policies or be illegal</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Perform statistical, demographic, and marketing analyses of users of the Sites and their purchasing patterns</span></li>
-</ul>
-<p><span style="font-weight: 400;">We may use the information from one portion of the Sites on other portions of Sites in our network of Sites, all of which are owned and operated by Android Authority, and we may combine information gathered from multiple portions of the Sites into a single user record. We also may use or combine information that we collect offline or we collect or receive from third-party sources for many reasons, including to enhance, expand, and check the accuracy of our records. Additionally, data collected from a particular browser or device may be used with another computer or device that is linked to the browser or device on which such data was collected.</span></p>
-<h2><span style="font-weight: 400;">Who Can See Your Information?</span></h2>
-<p><span style="font-weight: 400;">We will not disclose your personally identifiable information collected from the Sites to any organizations not part of Android Authority or its subsidiaries or related entities, except as described in this privacy policy.</span></p>
-<p><strong>Third-Party Agents</strong></p>
-<p><span style="font-weight: 400;">We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, including, but not limited to, hosting, content syndication, content management tools, social media integration, marketing, analytics, billing and customer service. These entities may have access to personally identifiable information if needed to perform their functions. If such access is required, the third parties will be obligated to maintain the confidentiality and security of that personally identifiable information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites. Below is a list of Third-party scripts or SDKS that may be used on Android Authority:</span></p>
-<p><em><strong>Google Analytics (Google Inc.)</strong></em><br>
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.<br>
-Google may use the Data collected to contextualize and personalize the ads of its own advertising network.<br>
-Personal Data collected: Cookies and Usage Data.<br>
-Place of processing: US – <a href="https://www.google.com/intl/en/policies/privacy/">Privacy Policy</a></p>
-<p><em><strong>Spot.IM Commenting<br>
-</strong></em>SpotIM is commenting software. <a href="https://www.spot.im/privacy/">Privacy Policy</a></p>
-<p><em><strong>Facebook Analytics for Apps (Facebook, Inc.)</strong></em><br>
-Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.<br>
-Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service.<br>
-Place of processing: US – <a href="https://www.facebook.com/about/privacy/">Privacy Policy</a></p>
-<p><em><strong>Facebook Like button and social widgets (Facebook, Inc.)</strong></em><br>
-The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.<br>
-Personal Data collected: Cookies and Usage Data.<br>
-Place of processing: US – <a href="https://www.facebook.com/privacy/explanation">Privacy Policy</a></p>
-<p><em><strong>Twitter Tweet button and social widgets (Twitter, Inc.)</strong></em><br>
-The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.<br>
-Personal Data collected: Cookies and Usage Data.<br>
-Place of processing: US – <a href="https://twitter.com/privacy">Privacy Policy</a></p>
-<p><em><strong>Facebook Analytics for Apps (Facebook, Inc.)</strong></em><br>
-Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.<br>
-Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service.<br>
-Place of processing: US – <a href="https://www.facebook.com/about/privacy/">Privacy Policy</a></p>
-<p><em><strong>YouTube video widget (Google Inc.)</strong></em><br>
-YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.<br>
-Personal Data collected: Cookies and Usage Data.<br>
-Place of processing: US – <a href="https://www.google.com/intl/en/policies/privacy/">Privacy Policy</a></p>
-<p><em><strong>Google Analytics for Firebase (Google Inc.)</strong></em><br>
-Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google Inc. In order to understand Google’s use of Data, consult Google’s partner policy.<br>
-Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the Owner.<br>
-This Application uses identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS, respectively) and technologies similar to cookies to run the Firebase Analytics service.<br>
-Users may opt-out of certain Firebase features through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other Firebase related sections of this privacy policy, if available.<br>
-Personal Data collected: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.<br>
-Place of processing: USA – <a href="https://www.google.com/policies/privacy/">Privacy Policy</a></p>
-<p><strong>Business Partners and Other Third Parties</strong></p>
-<p>Through our Digital Properties, you are able to exercise choice with respect to certain data practices of companies participating in the choice tools we provide. When you exercise your choice, we may share some information collected from you, your computer, or your mobile device with these companies so that they may honor your requests concerning their data collection practices. Additionally, we may share information with service providers who may assist us in responding to your inquiries or requests, or otherwise perform some business or operational function for us. We may also disclose personal information about you if required to do so by law, including without limitation, by search warrant, subpoena or court order; to protect our and third party rights; and for purposes disclosed at time of collection.</p>
-<p><strong>Links to Third Party Sites</strong></p>
-<p>Our Digital Properties may contain links to other websites operated by third parties we do not control and this Privacy Policy applies solely to information collected through our Digital Properties. We encourage you to read the privacy statements of these other websites.</p>
-<p><strong>Assignment</strong></p>
-<p><span style="font-weight: 400;">In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, Android Authority may transfer your personally identifiable information to the new party in control or the party acquiring assets. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this privacy policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this privacy policy.</span></p>
-<p><strong>Law Enforcement, Legal Process, and Emergency Situations</strong></p>
-<p><span style="font-weight: 400;">In some cases, we may use or disclose your personally identifiable information to a third party if we are required to do so by law or if we in good faith believe that such action is necessary to comply with the law or legal process; to protect and defend our rights or to prevent misuse of our Sites; or to protect the personal safety of our employees, agents, partners, the users of the Sites, or the public.</span></p>
-<p><strong>Use of Non-Personally Identifiable Information</strong></p>
-<p><span style="font-weight: 400;">We may disclose or share individual, non-personally identifiable information and aggregate information in any manner other than that described herein that we deem appropriate or necessary. Among other things, we will disclose non-personally identifiable information to third parties to help us determine how people use parts of the Sites and who our users are so we can improve our Sites. We will also disclose non-personally identifiable information to our partners and other third parties about how our users collectively use the Sites.</span></p>
-<h2><span style="font-weight: 400;">How Do the Sites Use Cookies and Other Tracking Technologies?</span></h2>
-<p><span style="font-weight: 400;">Like many websites, we use cookies, web beacons and similar technologies to record your preferences, track the use of our Websites and your exposure to our online advertisements. We may also use these technologies to monitor traffic, improve the Sites and make it easier and/or relevant for your use. </span></p>
-<p><span style="font-weight: 400;">Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to disable or reject cookies. If you delete your cookies or if you set your web browser to decline cookies, some features of the Sites may not work or may not work as designed.</span></p>
-<p><span style="font-weight: 400;">We also use Google Analytics, a web analytics service provided by Google, Inc. (“Google”), on our Websites. Google Analytics uses cookies or other tracking technologies to help us analyze how users interact with and use the Websites, compile reports on the Websites’ activity, and provide other services related to Websites activity and usage. </span></p>
-<p><span style="font-weight: 400;">The technologies used by Google may collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website. The Websites do not use Google Analytics to gather information that personally identifies you. </span></p>
-<p><span style="font-weight: 400;">The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s privacy policies.</span></p>
-<p><span style="font-weight: 400;">We may partner with third party advertising companies to better provide advertisements about goods and services that may be of interest to you. These third party advertisers may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Sites. They may collect information about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based advertising or other targeted content. </span></p>
-<p>These online advertising partners do not have access to or use your name, address, e-mail address, telephone number or other personally identifiable information from us, without your consent. They may, however, use persistent identifiers to anonymously track your Internet usage across other websites in their networks beyond these Sites. While we restrict their further use of such information, such third parties may, with sufficient data from other sources, be able to personally identify you, unknown to us.</p>
-<p><span style="font-weight: 400;">Third-party ad serving companies and other unaffiliated advertisers also display advertisements on our site. As part of their service, they may place a separate cookie on your computer or utilize other data collection and tracking technologies, to collect information such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server, and whether you responded to a particular advertisement. We do not control these third parties’ tracking technologies, how they may be used, or the information they may collect and we are not responsible for the privacy policies or the content of those third parties. Please visit the sites of those businesses at the links above to review their privacy policies. We may add or change the list of third party ad servers from time to time and we encourage you to check this section for changes. </span><b>You can learn more about about online advertising at </b><a href="http://www.aboutads.info/consumers"><b>www.aboutads.info/consumers</b></a><b>.</b></p>
-<p><span style="font-weight: 400;">Many of the third party advertisers that place tracking tools on our Websites are members of programs that offer you additional choices regarding the collection and use of your information. You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the Network Advertising Initiative and the Digital Advertising Alliance, as well as the webpages for Facebook’s ad preferences tool and privacy policy.</span></p>
-<p><span style="font-weight: 400;">Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings. For more information about how to change these settings for Apple, Android or Windows devices, see:</span></p>
-<p><b>Apple:</b><a href="http://support.apple.com/kb/HT4228"><span style="font-weight: 400;"> http://support.apple.com/kb/HT4228</span></a></p>
-<p><b>Android:</b> <a href="http://www.google.com/policies/technologies/ads/"><span style="font-weight: 400;">http://www.google.com/policies/technologies/ads/</span></a></p>
-<p><b>Windows:</b><a href="http://choice.microsoft.com/en-US/opt-out"><span style="font-weight: 400;"> http://choice.microsoft.com/en-US/opt-out</span></a></p>
-<p><span style="font-weight: 400;">Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Websites or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms.</span></p>
-<p><span style="font-weight: 400;">Your browser or device may include “Do Not Track” functionality. Because a “Do Not Track” compliance protocol has not yet been finalized, Android Authority’s information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this privacy policy, whether or not a Do Not Track signal is received.</span></p>
-<p><strong>What Are Your Choices?</strong></p>
-<p><span style="font-weight: 400;">We believe you should have choices about the collection, use and sharing of your information. Although you cannot opt-out of all data collection when you visit our sites, you can limit the collection, use and sharing of your personally identifiable information. For information regarding your choices related to interest-based advertising, please see the “How Do the Sites Use Cookies and Other Tracking Technologies?” section above.</span></p>
-<p><strong>Collection of personally identifiable information</strong></p>
-<p><span style="font-weight: 400;">All personally identifiable information is provided on a voluntary basis. If you do not want Android Authority to collect such information, you should not submit it to the Sites. However, doing so will restrict your ability to access some content and use some of the functionality of the sites.</span></p>
-<p><strong>Emails and Newsletters</strong></p>
-<p><span style="font-weight: 400;">You may always opt-out of receiving future e-mail marketing messages and newsletters from Android Authority by following the instructions contained within the emails and newsletters, or by e-mailing, calling or writing us at the addresses below.</span></p>
-<p><strong>Governing Law &amp; Notice to Non-U.S. Users</strong></p>
-<p><span style="font-weight: 400;">These Sites are published in the United States. We attempt to protect the personally identifiable information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to Android Authority’s services, but our family of Sites are located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personally identifiable information to Android Authority.</span></p>
-<p><span style="font-weight: 400;">If you are located outside the United States of America, you should be aware that information about you will be transferred to the United States of America. If you are located in a country outside the United States of America and voluntarily submit personally identifiable information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, the United States of America.</span></p>
-<h2><span style="font-weight: 400;">Other Important Information </span></h2>
-<p><strong>How Your Information Is Secured</strong></p>
-<p><span style="font-weight: 400;">We take reasonable security measures to protect your information, including the use of physical, technical and administrative controls. Please understand, however, that while we try our best to safeguard your personally identifiable information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. You need to help protect the privacy of your own information. You must take precautions to protect the security of any personally identifiable information that you may transmit over any home networks, wireless routers, wireless (WiFi) networks or similar devices by using encryption and other techniques to prevent unauthorized persons from intercepting or receiving any of your personally identifiable information. You are responsible for the security of your information when using unencrypted, open access or otherwise unsecured networks. &nbsp;</span></p>
-<p><span style="font-weight: 400;">The time period for which we keep information varies according to the purpose for which it is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed.</span></p>
-<p><strong>Contests, Giveaways or Games</strong></p>
-<p><span style="font-weight: 400;">When we run a contest or giveaway or game relating to our Sites, it will be accompanied by a set of rules. The rules for each contest, giveaway or game will specify how the information gathered from you for entry will be used and disclosed if it is different than as described in this privacy policy. In conjunction with your entry in such contest or giveaway, personally identifiable information will be collected only if you voluntarily submit it.</span></p>
-<p><strong>Children’s Information</strong></p>
-<p><span style="font-weight: 400;">The Sites are not intended for children under 13 years of age. Android Authority does not knowingly collect personal information from children under 13 years of age. If you are under 13 years of age, do not provide personal information to Android Authority without providing us with consent from your parents. If Android Authority discovers that a child under the age of 13 has provided Android Authority with personal information and we do not have parental consent, Android Authority will immediately delete that child’s information from the Sites. </span></p>
-<p><span style="font-weight: 400;">If you believe that company has been provided with the personal information of a child under the age of 13 without parental consent, please notify us immediately at admin(at)androidauthority(dot)com.</span></p>
-<p><strong>Your California Privacy Rights</strong></p>
-<p><span style="font-weight: 400;">Android Authority does not disclose your personal information to third parties for the third parties’ direct marketing purposes unless you affirmatively agree to such disclosures.</span></p>
-<p><strong>Questions About this Policy or Access to Your Information</strong></p>
-<p><span style="font-weight: 400;">If you have an account with Android Authority, you may review and change your information by logging into your account and editing your account profile. If you have questions about our privacy policy, you may contact us at:</span></p>
-<p><b>Email: </b><span style="font-weight: 400;">admin(at)androidauthority(dot)com</span></p>
-<p><span style="font-weight: 400;">You may also use the contact information provided to request access or changes to your personally identifiable information; however, you will not be permitted to examine the personally identifiable information of any other person or entity and may be required to provide us with personally identifiable information to verify your identity prior to accessing any records containing information about you. We may not accommodate a request to change or delete personally identifiable information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect.</span></p>
-</div>
-</div>
-</div></div> </div> </div> </div>
-</div>
-<div class="col-md-4 single-sidebar-selector clearfix">
-<div class="content-panel fixed-object single-sidebar">
-<div class="widgets-wrapper"><div class="widgets clearfix "><div id="text-49" class="widget clearfix"> <div class="textwidget"><div class="center aa_intcont_300x250">
-<div class="tpd-box" data-tpd-id="dsk-box-ad-a"></div>
-</div></div>
-</div><div id="aa_it_latest_articles-33" class="widget clearfix"><div class="post-container widget-panel compact-header widget_a"><div class="bar-header clearfix"><div class="bar-label"><div class="label-text">The Best</div></div></div><div class="content-inner clearfix"><div class="loop widget-loop"><div class="compact-panel widget_a add-active clearfix"><a class="overlay-link" href="https://www.androidauthority.com/best-android-phones-568001/">&nbsp;</a><div class="article-image-wrapper"><div class="article-image" style="background: url(https://cdn57.androidauthority.net/wp-content/uploads/2017/08/Galaxy-Note-Review-2-dual-camera-300x200.jpg)"></div></div><div class="article-info"><div class="article-title">Best Android phones</div><div class="aa_item_info_block"><span class="aa_nn_domain_name aa_nn_domain_color_androidauthority">androidauthority</span></div></div></div><div class="compact-panel widget_a add-active clearfix"><a class="overlay-link" href="http://www.dronerush.com/best-drones-1977/">&nbsp;</a><div class="article-image-wrapper"><div class="article-image" style="background: url(https://cdn57.androidauthority.net/wp-content/uploads/2017/02/best-drones-2017.jpg)"></div></div><div class="article-info"><div class="article-title">Best Drones</div><div class="aa_item_info_block"><span class="aa_nn_domain_name aa_nn_domain_color_dronerush">dronerush</span></div></div></div><div class="compact-panel widget_a add-active clearfix"><a class="overlay-link" href="https://www.soundguys.com/best-bluetooth-earbuds-2014-2638/">&nbsp;</a><div class="article-image-wrapper"><div class="article-image" style="background: url(https://www.soundguys.com/wp-content/uploads/2016/10/Jaybird-X34-150x150.jpg)"></div></div><div class="article-info"><div class="article-title">Best Wireless Bluetooth Earbuds</div><div class="aa_item_info_block"><span class="aa_nn_domain_name aa_nn_domain_color_soundguys">soundguys</span></div></div></div><div class="compact-panel widget_a add-active clearfix"><a class="overlay-link" href="https://www.soundguys.com/best-headphones-2559/">&nbsp;</a><div class="article-image-wrapper"><div class="article-image" style="background: url(https://www.soundguys.com/wp-content/uploads/2014/06/audio-technica-ath-m40x-sg-3-150x150.jpg)"></div></div><div class="article-info"><div class="article-title">Best Headphones of 2017</div><div class="aa_item_info_block"><span class="aa_nn_domain_name aa_nn_domain_color_soundguys">soundguys</span></div></div></div></div></div></div></div> <div id="aa_it_latest_articles-24" class="widget clearfix"><div class="post-container widget-panel compact-header widget_d"><div class="bar-header clearfix"><div class="bar-label"><div class="label-text"><a href="https://www.androidauthority.com/tag/sunday-giveaway/">Sunday Giveaway</a></div></div></div><div class="content-inner clearfix"><div class="loop widget-loop"><div class="overlay-panel add-active clearfix"><a class="overlay-link" href="https://www.androidauthority.com/readers-choice-samsung-galaxy-note-8-international-giveaway-824150/">&nbsp;</a><div class="article-image-wrapper b-lazy" data-src="https://cdn57.androidauthority.net/wp-content/uploads/2017/09/5-Reasons-Why-LG-V30-is-better-Than-Note-8-3-300x200.jpg" data-mobile-src="https://cdn57.androidauthority.net/wp-content/uploads/2017/09/5-Reasons-Why-LG-V30-is-better-Than-Note-8-3-150x150.jpg" style="background: url(data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=)"></div><div class="article-title-wrapper "><h4>Readers’ choice: Samsung Galaxy Note...</h4><div class="aa_item_info_block"><span class="aa_item_time">3 days ago</span></div></div></div></div></div></div></div> <div id="text-71" class="widget clearfix"> <div class="textwidget"><div id="aa-subscribe-widget-wrap">
-<form id="aa-subscribe-widget" class="validate" action="/" method="post" name="aa-subscribe-widget" novalidate="">
-<div class="menu-form-group">
-<h4>Subscribe to Our <span>Weekly
-Newsletter</span></h4>
-<input placeholder="Email address" id="aa-subscribe-email" class="required email subscribe-form-email" name="aa-subscribe-email" type="email" value="">
-<button type="submit" id="aa-subscribe-submit" class="aa-subscribe-button" form="aa-subscribe-widget" value="Submit">SUBSCRIBE</button>
-<div class="required-empty-message required-message" style="display: none">The field is required</div>
-<div class="required-valid-message required-message" style="display: none">Please enter a valid email address</div>
-</div>
-</form>
-</div></div>
-</div><div id="text-137" class="widget clearfix"> <div class="textwidget"><div class="center aa_intcont_300x250">
-<div class="tpd-box" data-tpd-id="dsk-box-ad-b"></div>
-</div>
-</div>
-</div><div id="text-140" class="widget clearfix"> <div class="textwidget"><div class="aa_app_widget">
-<a class="loop-link" href="https://play.google.com/store/apps/details?id=com.androidauthority.app" alt="AndroidAuthority App" target="_blank"></a>
-<img src="/wp-content/themes/aa/images/app_bitmap_mobile.png">
-<div class="aa_app_widget_title">
-<span>Android Authority APP</span>
-<span>Get it on</span>
-<span><img src="/wp-content/themes/aa/images//google_play_logo.png"></span>
-</div>
-</div></div>
-</div></div></div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="comment-container" data-postid="12282">
-<div class="row">
-<div class="col-md-12">
-<div class="comment-header">
-<div class="comment-title">Comments</div>
-</div>
-<div class="container-inner">
-<div class="row">
-<div class="col-md-8">
-<div data-spotim-module="recirculation" data-spot-id="sp_tt1rRxhU"></div>
-<script async="" src="https://recirculation.spot.im/spot/sp_tt1rRxhU"></script>
-<script async="" src="https://launcher.spot.im/spot/sp_tt1rRxhU" data-spotim-module="spotim-launcher" data-post-url="https://www.androidauthority.com/privacy-policy/" data-post-id="12282"></script>
-</div>
-<div class="col-md-4"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-<div id="footer" class="container-fluid no-padding builder-section builder-widgets">
-<div class="row">
-<div class="col-md-12">
-<div class="container-inner aa-footer-container">
-<div class="widgets-inner">
-<div class="row">
-<div class="widget-panel aa_footer_logo_container left col-md-3">
-<a href="/"><span id="aa_footer_logo"></span></a>
-</div>
-<div class="widget-panel right aa-footer-menu-inline col-md-9"><div class="widgets-wrapper"><div class="widgets clearfix widgets"><div id="nav_menu-2" class="widget clearfix"><div class="menu-aa-new-footer-menu-container"><ul id="menu-aa-new-footer-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-727152"><a href="/about">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727155"><a href="https://www.androidauthority.com/contact/">Contact</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-750721"><a href="/jobs/">Jobs</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727153"><a href="https://www.androidauthority.com/advertise/">Advertise</a></li>
-<li class="privacy-policy-icon menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-747189"><a href="https://www.androidauthority.com/privacy-policy/">Privacy Policy</a></li>
-</ul></div></div></div></div></div>
-</div>
-<div class="row">
-<br class="clearer hidden-lg hidden-md">
-<div class="widget-panel aa-footer-description left col-md-3">
-<div class="widgets-wrapper"><div class="widgets clearfix widgets"><div id="text-133" class="widget clearfix"> <div class="textwidget"><p>Your source for all things Android!</p></div>
-</div></div></div> </div>
-<div class="widget-panel right col-md-9 aa-soc-container">
-<ul class="aa_soc_sidebar">
-<li class="clearfix">
-<a class="aa_soc theme-icon-facebook" href="https://www.facebook.com/androidauthority" rel="me"></a>
-<a class="aa_soc theme-icon-twitter" href="https://twitter.com/androidauth" rel="me"></a>
-<a class="aa_soc theme-icon-youtube" href="https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw?sub_confirmation=1" rel="me"></a>
-<a class="aa_soc theme-icon-instagram" href="https://www.instagram.com/androidauthority" rel="me"></a>
-<a class="aa_soc theme-icon-snapchat" href="https://www.snapchat.com/add/androidauth" rel="me"></a>
-<a class="aa_soc theme-icon-googleplay" href="https://play.google.com/store/apps/details?id=com.androidauthority.app" rel="me"></a>
-<a class="aa_soc theme-icon-rss" href="/feed" rel="me"></a>
-<a class="aa_soc theme-icon-email" href="/newsletter" rel="me"></a>
-</li>
-</ul>
-</div>
-<div class="col-sm-12 footer_mobile_menu"><div class="widgets-wrapper"><div class="widgets clearfix widgets"><div id="nav_menu-2" class="widget clearfix"><div class="menu-aa-new-footer-menu-container"><ul id="menu-aa-new-footer-menu-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-727152"><a href="/about">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727155"><a href="https://www.androidauthority.com/contact/">Contact</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-750721"><a href="/jobs/">Jobs</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727153"><a href="https://www.androidauthority.com/advertise/">Advertise</a></li>
-<li class="privacy-policy-icon menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-747189"><a href="https://www.androidauthority.com/privacy-policy/">Privacy Policy</a></li>
-</ul></div></div></div></div></div>
-</div>
-</div>
-</div> 
-<div class="subfooter shadowed">
-<div class="row">
-<div class="col-sm-12 copyright">
-<p>
-<span>© 2017 Android Authority | All Rights Reserved.</span> </p>
-</div>
-</div>
-</div>
-</div> 
-</div> 
-<div class="OUTBRAIN" data-src="https://www.androidauthority.com/privacy-policy" data-widget-id="TR_1" data-ob-template="AndroidAuthority_1"></div>
-<script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
-</div> 
-</div> 
-<style type="text/css">
-
-		.trending-color {
-				background:#96d157;
-		}
-		.highlighted-label {
-				color:#96d157;
-		}
-		.sort-buttons span.page-numbers {
-			color:#0a0a0a;
-		}	.widget-topics .trending-bar,
-	.builder-html .html-inner,
-	.compact-panel.active {
-		background:#ffffff	}
-
-	.panel,
-	.progress,
-	.single-page .wp-caption {
-		background:rgba(0,0,0,.1);
-	}
-
-		.builder-widgets .widgets .header,
-		.form-404,
-		.reactions-wrapper,
-		.big-like,
-		.reactions-label,
-		.reaction,
-		.bp-page .widget div.item-options,
-		div.scrollingHotSpotLeft,
-		div.scrollingHotSpotRight,
-		div.scrollingHotSpotLeft,
-		.widgets .header,
-		.widgets .it-widget-tabs ul.sort-buttons,
-		.signoff,
-		.pagination,
-		.panel {
-			border-color:E;
-		}
-
-		.widget-section .border,
-		.center-panel .border {
-			background:E;
-		}
-		.pagination a:hover {
-			color:3;
-		}
-		.pagination a,
-		.pagination>span.page-number,
-		.pagination>span.page-numbers,
-		.widget-section a.more-link {
-			color:B;
-		}
-.center-panel.active,
-.widget-section a.more-link:hover,
-.topic-panel.active .topic-name,
-.widgets .it-widget-tabs .sort-buttons a:hover,
-.reaction.clickable.active,
-.reaction.selected,
-.reaction.selected .theme-icon-check,
-.widgets .it-widget-tabs .ui-tabs-active a,
-.widgets #wp-calendar a:hover,
-.compare-block {
-	color:#96d157;
-}
-
-.center-panel.active .topten-number,
-.postnav-layer {
-	background:rgba(150,209,87,1);
-	filter:none;
-}
-
-.compare-block {
-	border-color:#96d157;
-}	
-
-.details-box-wrapper {
-	border-bottom-color:#96d157;
-}
-</style><script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/comment-reply.min.js?ver=4.9.1"></script>
-<script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/plugins/social-polls-by-opinionstage/public/js/shortcodes.js?ver=19.2.4"></script>
-<script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/themes/aa/js/scripts_bundle.min.js?ver=4.9.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
+  stackSonar('stack-connect-wp', "67cd4295-482b-4114-970c-37aa51a223b6");</script> </head><body data-rsssl="1" class="page-template-default page page-id-12282  colorbox-enabled colorbox-slideshow-off" data-is-deal="false" data-domain="www.androidauthority.com">  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMGHQ3J"
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  <div id="tpd-oop-ad-a"> <script type="text/javascript">googletag.cmd.push( function() {
+          googletag.display( 'tpd-oop-ad-a' );
+          } );</script> <script type="text/javascript">var axel = Math.random() + '';
+        var a = axel * 10000000000000;
+        document.write('<img style="display: none;" src="https://pubads.g.doubleclick.net/activity;dc_iu=/134702932/DFPAudiencePixel;ord=' + a + ';dc_seg=446187414?" width=1 height=1 border=0/>');</script><img style="display: none;" src="https://pubads.g.doubleclick.net/activity;dc_iu=/134702932/DFPAudiencePixel;ord=9064446426503.27;dc_seg=446187414?" width="1" height="1" border="0/"> </div><div id="ajax-error"></div><div id="fb-root"></div><div class="container-fluid no-padding"><div id="header-bar"><div class="row"><div class="col-md-12"><div id="header-inner" class="container-inner"></div></div></div></div></div><header class="aa-new-sticky-header aa-sticky-has-deal"> <div class="hidden-xs hidden-sm aa-desktop-header-container"><div class="aa-top-header-section"><div class="aa-logo-container"> <a href="https://www.androidauthority.com/" style="background-image: url('https://cdn57.androidauthority.net/wp-content/themes/aa/moove/dist/images/aa-green-logo.svg')"> </a></div> <div class="aa-popular-list"> <span class="aa-polular-title">Popular</span><ul class="owl-carousel menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-983962"><a href="https://www.androidauthority.com/google-pixel-4-xl-990519/">Pixel 4</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-981393"><a href="https://www.androidauthority.com/huawei-google-android-ban-988382/">Huawei ban</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-981391"><a href="https://www.androidauthority.com/oneplus-7-pro-review-981004/">OnePlus 7 Pro</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-965482"><a href="https://www.androidauthority.com/android-10-review-983689/">Android Q</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-863634"><a href="https://www.androidauthority.com/samsung-galaxy-fold-956659/">Galaxy Fold</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-943142"><a href="https://www.androidauthority.com/xiaomi-redmi-k20-989779/">Redmi K20 Pro</a></li></ul></div> <div class="aa-cta-group"> <a href="https://www.androidauthority.com/deals/" class="aa-header-btn-with-icon">Best Daily Deals <i class="mai-basket"></i></a><div class="aa-header-search-form"><form role="search" method="get" id="searchform_d" class="searchform" action="https://www.androidauthority.com/"><div class="input-group"> <input type="text" class="form-control" value="" name="q" id="s_d" placeholder="Search.." maxlength="150" required=""> <span class="input-group-btn"> <button class="btn btn-secondary" type="submit"><i class="mai-search-icon"></i></button> </span></div></form></div> <div class="aa-menu-collapse"> <button type="button" class="aa-menu-collapse-button collapsed"> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button><div id="aa-side-menu-container"><div class="aa-side-menu-content"><ul class="aa-n-top-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334214"><a href="https://www.androidauthority.com/reviews/">Reviews</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-530618"><a href="https://www.androidauthority.com/best/">The Best</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-993928"><a href="https://www.androidauthority.com/awards/">Awards</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334206"><a href="https://www.androidauthority.com/apps/">Apps &amp; Games</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334202"><a href="https://www.androidauthority.com/news/">News</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-995995"><a href="https://www.androidauthority.com/podcast/">Podcast</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405360"><a href="https://www.androidauthority.com/features/">Features</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-671968"><a href="https://www.androidauthority.com/how-to/">How To</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-671967"><a href="https://www.androidauthority.com/android-development/">Android Development</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-671966"><a href="https://www.androidauthority.com/deals/">Deals</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-993728"><a href="https://www.androidauthority.com/opinions/">Opinions</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-993729"><a href="https://www.androidauthority.com/versus/">Versus</a></li></ul><div class="aa-n-footer-section"><ul class="aa-footer-secondary-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-727152"><a href="/about">About</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727155"><a href="https://www.androidauthority.com/contact/">Contact</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-750721"><a href="/jobs/">Jobs</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727153"><a href="https://www.androidauthority.com/advertise/">Advertise</a></li><li class="privacy-policy-icon menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-747189"><a href="https://www.androidauthority.com/privacy-policy/" aria-current="page">Privacy Policy</a></li></ul><ul class="aa-footer-social-share"><li> <a href="https://twitter.com/androidauth" target="_blank" rel="me"><i class="mai-twitter4"></i></a></li><li> <a href="https://www.facebook.com/androidauthority" target="_blank" rel="me"><i class="mai-facebook2"></i></a></li><li> <a href="https://www.snapchat.com/add/androidauth" target="_blank" rel="me"><i class="mai-snapchat"></i></a></li><li> <a href="/feed" target="_blank" rel="me"><i class="mai-rss"></i></a></li><li> <a href="mailto:contact@androidauthority.com" rel="nofollow" data-author-name="AndroidAuthority"><i class="mai-mail_4"></i></a></li><li> <a href="https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw?sub_confirmation=1" target="_blank" rel="me"><i class="mai-youtube5"></i></a></li><li> <a href="https://play.google.com/store/apps/details?id=com.androidauthority.app" target="_blank" rel="me"><i class="mai-googlestore"></i></a></li><li> <a href="https://www.instagram.com/androidauthority" target="_blank" rel="me"><i class="mai-instagram"></i></a></li></ul> </div> </div> </div> </div> </div> </div> </div>  <div class="hidden-md hidden-lg aa-mobile-header-container"><div class="aa-top-header-section"><div class="aa-mobile-top-section"><div class="aa-mobile-search-toggler-cnt"> <a href="#" class="aa-toggle-mobile-search"> <i class="mai-search-icon"></i> </a></div> <div class="aa-logo-container"> <a href="https://www.androidauthority.com/" style="background-image: url('https://cdn57.androidauthority.net/wp-content/themes/aa/moove/dist/images/aa-mobile-logo.svg')"> </a></div> <div class="aa-cta-group"><div class="aa-menu-collapse"> <button type="button" class="aa-menu-collapse-button collapsed"> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button><div id="aa-mobile-search-results"><form role="search" method="get" data-ajaxurl="https://www.androidauthority.com/wp-admin/admin-ajax.php" id="searchform_m" class="searchform" action="https://www.androidauthority.com/"><div class="input-group"> <span class="input-group-btn"> <button class="btn btn-secondary" type="submit"><i class="mai-search-icon"></i></button> </span> <input type="text" class="form-control" value="" name="q" id="s_m" placeholder="Start typing..." maxlength="150" required=""></div></form><div class="aa-auto-suggest-content"><ul></ul></div> </div> <div id="aa-side-menu-container-mobile"><div class="aa-side-menu-content"><ul class="aa-n-top-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334214"><a href="https://www.androidauthority.com/reviews/">Reviews</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-530618"><a href="https://www.androidauthority.com/best/">The Best</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-993928"><a href="https://www.androidauthority.com/awards/">Awards</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334206"><a href="https://www.androidauthority.com/apps/">Apps &amp; Games</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334202"><a href="https://www.androidauthority.com/news/">News</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-995995"><a href="https://www.androidauthority.com/podcast/">Podcast</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405360"><a href="https://www.androidauthority.com/features/">Features</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-671968"><a href="https://www.androidauthority.com/how-to/">How To</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-671967"><a href="https://www.androidauthority.com/android-development/">Android Development</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-671966"><a href="https://www.androidauthority.com/deals/">Deals</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-993728"><a href="https://www.androidauthority.com/opinions/">Opinions</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-993729"><a href="https://www.androidauthority.com/versus/">Versus</a></li></ul><div class="aa-n-footer-section"><ul class="aa-footer-secondary-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-727152"><a href="/about">About</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727155"><a href="https://www.androidauthority.com/contact/">Contact</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-750721"><a href="/jobs/">Jobs</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727153"><a href="https://www.androidauthority.com/advertise/">Advertise</a></li><li class="privacy-policy-icon menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-747189"><a href="https://www.androidauthority.com/privacy-policy/" aria-current="page">Privacy Policy</a></li></ul><ul class="aa-footer-social-share"><li> <a href="https://twitter.com/androidauth" target="_blank" rel="me"><i class="mai-twitter4"></i></a></li><li> <a href="https://www.facebook.com/androidauthority" target="_blank" rel="me"><i class="mai-facebook2"></i></a></li><li> <a href="https://www.snapchat.com/add/androidauth" target="_blank" rel="me"><i class="mai-snapchat"></i></a></li><li> <a href="/feed" target="_blank" rel="me"><i class="mai-rss"></i></a></li><li> <a href="mailto:contact@androidauthority.com" rel="nofollow" data-author-name="AndroidAuthority"><i class="mai-mail_4"></i></a></li><li> <a href="https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw?sub_confirmation=1" target="_blank" rel="me"><i class="mai-youtube5"></i></a></li><li> <a href="https://play.google.com/store/apps/details?id=com.androidauthority.app" target="_blank" rel="me"><i class="mai-googlestore"></i></a></li><li> <a href="https://www.instagram.com/androidauthority" target="_blank" rel="me"><i class="mai-instagram"></i></a></li></ul></div> </div> </div> </div> </div> </div> <div class="aa-mobile-bottom-section"> <a href="https://www.androidauthority.com/deals/" class="aa-header-btn-with-icon">Best Daily Deals <i class="mai-basket"></i></a><div class="aa-popular-list"> <span class="aa-polular-title">Popular</span><ul class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-983962"><a href="https://www.androidauthority.com/google-pixel-4-xl-990519/">Pixel 4</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-981393"><a href="https://www.androidauthority.com/huawei-google-android-ban-988382/">Huawei ban</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-981391"><a href="https://www.androidauthority.com/oneplus-7-pro-review-981004/">OnePlus 7 Pro</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-965482"><a href="https://www.androidauthority.com/android-10-review-983689/">Android Q</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-863634"><a href="https://www.androidauthority.com/samsung-galaxy-fold-956659/">Galaxy Fold</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-943142"><a href="https://www.androidauthority.com/xiaomi-redmi-k20-989779/">Redmi K20 Pro</a></li></ul></div> </div> </div> </div> <div class="aa-bottom-header-section"> <a href="https://www.androidauthority.com/oneplus-7-pro-camera-review-999016/">OnePlus 7 Pro camera review <i class="mai-arrow-forward"></i></a></div> <div id="tt_hot_products_menu"></div>  <span class="aa-side-menu-overlay"></span></header> <div class="after-header" id="page"><div class="container-fluid no-padding single-wrapper classic-post full-layout post-12282 page type-page status-publish" data-layout="classic" data-location="single-page" itemscope="" itemtype="https://schema.org/Article" data-postid="12282" data-time="1561864406" data-cats="1" data-infscrollurl="https://www.androidauthority.com/privacy-policy/" data-next-post="https://www.androidauthority.com/podcast/"><meta itemprop="datePublished" content="April 10, 2011"><meta itemprop="dateModified" content="2018-05-24 18:59:12"><span style="display: none;" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><meta itemprop="name" content="John Dye"></span><span style="display: none;" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content=""><meta itemprop="width" content="1340"><meta itemprop="height" content="754"></span><span style="display: none;" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization"><meta itemprop="name" content="AndroidAuthority"><span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://cdn57.androidauthority.net/wp-content/themes/aa/images/aa_feed_logo.png"><meta itemprop="width" content="200"><meta itemprop="height" content="43"></span></span><div class="row"><div class="col-md-12 content-no-sidebar"><div class="container-inner"><div class="row"><div class="billboard-content-wrap"><div class="col-md-12"><div class="single-page   hidden-contents-menu classic-post full-layout"><div id="post-12282" class="post-content active post-selector " data-postid="12282" data-href="https://www.androidauthority.com/privacy-policy/"><div class="post-right content-panel wide content-panel"><div class="the-content padded-panel"><div id="content-anchor"></div><div id="content-anchor-inner" class="clearfix"><div id="ppBody"><div class="innerText"><p><em>This policy was last updated May 24, 2018.</em></p><p><span style="font-weight: 400;">At Android Authority, we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy. Our privacy policy is applicable to Android Authority, and Android Authority’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”).</span></p><p><span style="font-weight: 400;">The privacy policy describes the kinds of information we may gather during your visit to these Sites, how we use your information, when we might disclose your personally identifiable information, and how you can manage your information.</span></p><p><span style="font-weight: 400;">This privacy policy does not apply to Sites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third party websites.</span></p><p><b>By visiting our Sites, you are accepting the practices described in our privacy policy, including our use of cookies and similar online tools. If you do not agree to the terms of this privacy policy, please do not use the Sites.</b></p><p><span style="font-weight: 400;">We reserve the right to modify or amend the terms of our privacy policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this privacy policy retroactively or to personally identifiable information already in our possession, we will provide you with notice of the modifications or amendments and seek your consent for such use.</span></p><h2><span style="font-weight: 400;">What Information Is Collected?</span></h2><p><span style="font-weight: 400;">We collect two basic types of information from you in conjunction with your use of the Sites: non-personally identifiable information and personally identifiable information. Non-personally identifiable information does not individually identify you, but it may include tracking and usage information about your general location, demographics, use of the Sites and the Internet. Personally identifiable information is any information that can individually identify you and includes, your name, address, phone number, and email address, or non-personally identifiable information that has been linked to such personally identifiable information. &nbsp;</span></p><p><strong>Personally Identifiable Information</strong></p><p><span style="font-weight: 400;">As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at Android Authority.</span></p><p><strong>Non-Personally Identifiable Information</strong></p><p><span style="font-weight: 400;">When you interact with the Sites, we may collect certain information that does not identify you individually (“non-personally identifiable information” or “non-PII”), such as demographic data; information about your computer, mobile device, or other device that you use to access the Sites, including IP address, general location information, unique device identifiers, browser type, browser language, and other transactional information. </span></p><p><span style="font-weight: 400;">We may also collect information about your use of the Sites, including your search terms and search results, and additional “traffic data” such as time of access, date of access, software crash reports, session identification number, access times, and referring website addresses. Our servers may automatically keep an activity log of your use of our Sites. In addition to non-identifiable individual information, we may collect aggregate data regarding the use of the Sites.</span></p><p><strong>Collection of Personally Identifiable Information From or Through Social Media Sites</strong></p><p><span style="font-weight: 400;">In addition, when you interact with any Android Authority property page or account on a social media platform, such as Facebook, Twitter, Tumblr, or LinkedIn, we may collect the personally identifiable information that you make available to us on that page or account including your social media account ID. However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personally identifiable information that we are permitted to collect by those social media platforms. If you choose to link or login to your Android Authority account with or through a social networking service, Android Authority and that service may share certain information about you and your activities. With your consent, we also may share information about your activities, including what you view on the Sites, with that social network’s users.</span></p><p><strong>Collection of Your Source IP Address/Location Information</strong></p><p><span style="font-weight: 400;">We collect and store your device’s source IP address which may disclose the general location of your device at the time you access the Sites. Advertisements and certain content may be directed to you as a result of this data.</span></p><p><b>Information From Other Sources:</b> <i><span style="font-weight: 400;">We may supplement the information we collect with information from third parties or collected offline and add it to your account information. This information may include, but is not limited to, demographic information, additional contact information, group affiliations, occupational information, and educational background.</span></i></p><p><strong>How Do We Use Your Information?</strong></p><p><span style="font-weight: 400;">We use the information we learn from you to help us personalize and continually improve your experience on the Sites, including to:</span></p><ul><li style="font-weight: 400;"><span style="font-weight: 400;">Provide you with the content, products and services you request</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Post your user generated content to our Sites as you request</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Communicate with you about your account or transactions with us and send you information about features and enhancements on or to our Sites</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Communicate with you about changes to our policies</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Communicate with you about your comment to a story or topic</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Personalize content and experiences on our Sites, including providing you recommendations based on your preferences</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Send you newsletters, offers and promotions for our products and services, third party products and services, or special events by e-mail, text, or other another medium</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Provide you with advertising including advertising based on your activity on our Sites or activity on third party sites and applications</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Administer our loyalty programs</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Administer contests, giveaways, promotions, and polls</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Optimize or improve our products, services and operations</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Detect, investigate, and prevent activities that may violate our policies or be illegal</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Perform statistical, demographic, and marketing analyses of users of the Sites and their purchasing patterns</span></li></ul><p><span style="font-weight: 400;">We may use the information from one portion of the Sites on other portions of Sites in our network of Sites, all of which are owned and operated by Android Authority, and we may combine information gathered from multiple portions of the Sites into a single user record. We also may use or combine information that we collect offline or we collect or receive from third-party sources for many reasons, including to enhance, expand, and check the accuracy of our records. Additionally, data collected from a particular browser or device may be used with another computer or device that is linked to the browser or device on which such data was collected.</span></p><h2><span style="font-weight: 400;">Who Can See Your Information?</span></h2><p><span style="font-weight: 400;">We will not disclose your personally identifiable information collected from the Sites to any organizations not part of Android Authority or its subsidiaries or related entities, except as described in this privacy policy.</span></p><p><strong>Third-Party Agents</strong></p><p><span style="font-weight: 400;">We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, including, but not limited to, hosting, content syndication, content management tools, social media integration, marketing, analytics, billing and customer service. These entities may have access to personally identifiable information if needed to perform their functions. If such access is required, the third parties will be obligated to maintain the confidentiality and security of that personally identifiable information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites. Below is a list of Third-party scripts or SDKS that may be used on Android Authority:</span></p><p><em><strong>Google Analytics (Google Inc.)</strong></em><br> Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.<br> Google may use the Data collected to contextualize and personalize the ads of its own advertising network.<br> Personal Data collected: Cookies and Usage Data.<br> Place of processing: US – <a href="https://www.google.com/intl/en/policies/privacy/">Privacy Policy</a></p><p><em><strong>Disqus Commenting<br> </strong></em>Disqus is commenting software. <a href="https://help.disqus.com/customer/portal/articles/466259-privacy-policy">Privacy Policy</a></p><p><em><strong>Facebook Analytics for Apps (Facebook, Inc.)</strong></em><br> Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.<br> Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service.<br> Place of processing: US – <a href="https://www.facebook.com/about/privacy/">Privacy Policy</a></p><p><em><strong>Facebook Like button and social widgets (Facebook, Inc.)</strong></em><br> The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.<br> Personal Data collected: Cookies and Usage Data.<br> Place of processing: US – <a href="https://www.facebook.com/privacy/explanation">Privacy Policy</a></p><p><em><strong>Twitter Tweet button and social widgets (Twitter, Inc.)</strong></em><br> The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.<br> Personal Data collected: Cookies and Usage Data.<br> Place of processing: US – <a href="https://twitter.com/privacy">Privacy Policy</a></p><p><em><strong>Facebook Analytics for Apps (Facebook, Inc.)</strong></em><br> Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.<br> Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service.<br> Place of processing: US – <a href="https://www.facebook.com/about/privacy/">Privacy Policy</a></p><p><em><strong>YouTube video widget (Google Inc.)</strong></em><br> YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.<br> Personal Data collected: Cookies and Usage Data.<br> Place of processing: US – <a href="https://www.google.com/intl/en/policies/privacy/">Privacy Policy</a></p><p><strong>Drip newsletter marketing.</strong><br> Drip is a newsletter marketing platform.<br> Place of processing: US – <a href="https://www.drip.com/privacy">Privacy Policy</a></p><p><em><strong>Google Analytics for Firebase (Google Inc.)</strong></em><br> Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google Inc. In order to understand Google’s use of Data, consult Google’s partner policy.<br> Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the Owner.<br> This Application uses identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS, respectively) and technologies similar to cookies to run the Firebase Analytics service.<br> Users may opt-out of certain Firebase features through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other Firebase related sections of this privacy policy, if available.<br> Personal Data collected: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.<br> Place of processing: USA – <a href="https://www.google.com/policies/privacy/">Privacy Policy</a></p><p><strong>Business Partners and Other Third Parties</strong></p><p>Through our Digital Properties, you are able to exercise choice with respect to certain data practices of companies participating in the choice tools we provide. When you exercise your choice, we may share some information collected from you, your computer, or your mobile device with these companies so that they may honor your requests concerning their data collection practices. Additionally, we may share information with service providers who may assist us in responding to your inquiries or requests, or otherwise perform some business or operational function for us. We may also disclose personal information about you if required to do so by law, including without limitation, by search warrant, subpoena or court order; to protect our and third party rights; and for purposes disclosed at time of collection.</p><p><strong>Links to Third Party Sites</strong></p><p>Our Digital Properties may contain links to other websites operated by third parties we do not control and this Privacy Policy applies solely to information collected through our Digital Properties. We encourage you to read the privacy statements of these other websites.</p><p><strong>Assignment</strong></p><p><span style="font-weight: 400;">In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, Android Authority may transfer your personally identifiable information to the new party in control or the party acquiring assets. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this privacy policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this privacy policy.</span></p><p><strong>Law Enforcement, Legal Process, and Emergency Situations</strong></p><p><span style="font-weight: 400;">In some cases, we may use or disclose your personally identifiable information to a third party if we are required to do so by law or if we in good faith believe that such action is necessary to comply with the law or legal process; to protect and defend our rights or to prevent misuse of our Sites; or to protect the personal safety of our employees, agents, partners, the users of the Sites, or the public.</span></p><p><strong>Use of Non-Personally Identifiable Information</strong></p><p><span style="font-weight: 400;">We may disclose or share individual, non-personally identifiable information and aggregate information in any manner other than that described herein that we deem appropriate or necessary. Among other things, we will disclose non-personally identifiable information to third parties to help us determine how people use parts of the Sites and who our users are so we can improve our Sites. We will also disclose non-personally identifiable information to our partners and other third parties about how our users collectively use the Sites.</span></p><h2><span style="font-weight: 400;">How Do the Sites Use Cookies and Other Tracking Technologies?</span></h2><p><span style="font-weight: 400;">Like many websites, we use cookies, web beacons and similar technologies to record your preferences, track the use of our Websites and your exposure to our online advertisements. We may also use these technologies to monitor traffic, improve the Sites and make it easier and/or relevant for your use. </span></p><p><span style="font-weight: 400;">Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to disable or reject cookies. If you delete your cookies or if you set your web browser to decline cookies, some features of the Sites may not work or may not work as designed.</span></p><p><span style="font-weight: 400;">We also use Google Analytics, a web analytics service provided by Google, Inc. (“Google”), on our Websites. Google Analytics uses cookies or other tracking technologies to help us analyze how users interact with and use the Websites, compile reports on the Websites’ activity, and provide other services related to Websites activity and usage. </span></p><p><span style="font-weight: 400;">The technologies used by Google may collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website. The Websites do not use Google Analytics to gather information that personally identifies you. </span></p><p><span style="font-weight: 400;">The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s privacy policies.</span></p><p><span style="font-weight: 400;">We may partner with third party advertising companies to better provide advertisements about goods and services that may be of interest to you. These third party advertisers may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Sites. They may collect information about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based advertising or other targeted content. </span></p><p>These online advertising partners do not have access to or use your name, address, e-mail address, telephone number or other personally identifiable information from us, without your consent. They may, however, use persistent identifiers to anonymously track your Internet usage across other websites in their networks beyond these Sites. While we restrict their further use of such information, such third parties may, with sufficient data from other sources, be able to personally identify you, unknown to us.</p><p><span style="font-weight: 400;">Third-party ad serving companies and other unaffiliated advertisers also display advertisements on our site. As part of their service, they may place a separate cookie on your computer or utilize other data collection and tracking technologies, to collect information such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server, and whether you responded to a particular advertisement. We do not control these third parties’ tracking technologies, how they may be used, or the information they may collect and we are not responsible for the privacy policies or the content of those third parties. Please visit the sites of those businesses at the links above to review their privacy policies. We may add or change the list of third party ad servers from time to time and we encourage you to check this section for changes. </span><b>You can learn more about about online advertising at </b><a href="http://www.aboutads.info/consumers"><b>www.aboutads.info/consumers</b></a><b>.</b></p><p><span style="font-weight: 400;">Many of the third party advertisers that place tracking tools on our Websites are members of programs that offer you additional choices regarding the collection and use of your information. You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the Network Advertising Initiative and the Digital Advertising Alliance, as well as the webpages for Facebook’s ad preferences tool and privacy policy.</span></p><p><span style="font-weight: 400;">Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings. For more information about how to change these settings for Apple, Android or Windows devices, see:</span></p><p><b>Apple:</b><a href="http://support.apple.com/kb/HT4228"><span style="font-weight: 400;"> http://support.apple.com/kb/HT4228</span></a></p><p><b>Android:</b> <a href="http://www.google.com/policies/technologies/ads/"><span style="font-weight: 400;">http://www.google.com/policies/technologies/ads/</span></a></p><p><b>Windows:</b><a href="http://choice.microsoft.com/en-US/opt-out"><span style="font-weight: 400;"> http://choice.microsoft.com/en-US/opt-out</span></a></p><p><span style="font-weight: 400;">Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Websites or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms.</span></p><p><span style="font-weight: 400;">Your browser or device may include “Do Not Track” functionality. Because a “Do Not Track” compliance protocol has not yet been finalized, Android Authority’s information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this privacy policy, whether or not a Do Not Track signal is received.</span></p><p><strong>What Are Your Choices?</strong></p><p><span style="font-weight: 400;">We believe you should have choices about the collection, use and sharing of your information. Although you cannot opt-out of all data collection when you visit our sites, you can limit the collection, use and sharing of your personally identifiable information. For information regarding your choices related to interest-based advertising, please see the “How Do the Sites Use Cookies and Other Tracking Technologies?” section above.</span></p><p><strong>Collection of personally identifiable information</strong></p><p><span style="font-weight: 400;">All personally identifiable information is provided on a voluntary basis. If you do not want Android Authority to collect such information, you should not submit it to the Sites. However, doing so will restrict your ability to access some content and use some of the functionality of the sites.</span></p><p><strong>Emails and Newsletters</strong></p><p><span style="font-weight: 400;">You may always opt-out of receiving future e-mail marketing messages and newsletters from Android Authority by following the instructions contained within the emails and newsletters, or by e-mailing, calling or writing us at the addresses below.</span></p><p><strong>Governing Law</strong></p><p><span style="font-weight: 400;">We attempt to protect the personally identifiable information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to Android Authority’s services. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personally identifiable information to Android Authority.</span></p><p><span style="font-weight: 400;">If you are located outside Canada, you should be aware that information about you will be transferred to Canada. If you are located in a country outside of Canada and voluntarily submit personally identifiable information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, Canada.</span></p><h2>GDPR Compliance for European Territories</h2><p>In compliance with European privacy laws, in particular the European General Data Protection Regulation (GDPR), Android Authority provides specific additional rights for citizens of the European Territories such as the right to access, rectification, right to object, to complaint, erasure outband blockage. More specifically:</p><ul><li>The right to request information about whether and which personal data is processed by us, and the right to demand that personal data is rectified or amended.</li><li>Under certain circumstances, the right to request that personal data should be deleted.</li><li>Under certain circumstances, the right to demand that the processing of personal data should be restricted.</li><li>Withdraw your consent to the processing and use of your data completely or partially at any time with future application.</li><li>Have the right to obtain your personal data in a common, structured and mechanically readable format.</li><li>Contact our data protection officer if there are any questions, comments, complaints or requests in connection with our statement on data protection and the processing of your personal data.</li><li>The right to complain to the responsible supervisory authority if believed that the processing of your personal data is in violation of the legislation.</li></ul><p>In addition to the above, we reference certain rights for European Territory citizens throughout this Privacy Policy. Pursuant to the GDPR, citizens from “European Territories” mean the European Economic Area (EEA) and Switzerland. For the purpose of this Privacy Policy, the term “European Territories” shall continue to include the United Kingdom, even after the United Kingdom leaves the European Economic Area following Brexit.</p><p>Please email admin[at]androidauthority[dot]com with the subject line “GDPR Request” for any questions about exercising any of the above rights.</p><h2><span style="font-weight: 400;">Other Important Information </span></h2><p><strong>How Your Information Is Secured</strong></p><p><span style="font-weight: 400;">We take reasonable security measures to protect your information, including the use of physical, technical and administrative controls. Please understand, however, that while we try our best to safeguard your personally identifiable information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. You need to help protect the privacy of your own information. You must take precautions to protect the security of any personally identifiable information that you may transmit over any home networks, wireless routers, wireless (WiFi) networks or similar devices by using encryption and other techniques to prevent unauthorized persons from intercepting or receiving any of your personally identifiable information. You are responsible for the security of your information when using unencrypted, open access or otherwise unsecured networks. &nbsp;</span></p><p><span style="font-weight: 400;">The time period for which we keep information varies according to the purpose for which it is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed.</span></p><p><strong>Contests, Giveaways or Games</strong></p><p><span style="font-weight: 400;">When we run a contest or giveaway or game relating to our Sites, it will be accompanied by a set of rules. The rules for each contest, giveaway or game will specify how the information gathered from you for entry will be used and disclosed if it is different than as described in this privacy policy. In conjunction with your entry in such contest or giveaway, personally identifiable information will be collected only if you voluntarily submit it.</span></p><p><strong>Children’s Information</strong></p><p><span style="font-weight: 400;">The Sites are not intended for children under 16 years of age. Android Authority does not knowingly collect personal information from children under 16 years of age. If you are under 16 years of age, do not provide personal information to Android Authority without providing us with consent from your parents. If Android Authority discovers that a child under the age of 16 has provided Android Authority with personal information and we do not have parental consent, Android Authority will immediately delete that child’s information from the Sites. </span></p><p><span style="font-weight: 400;">If you believe that company has been provided with the personal information of a child under the age of 16 without parental consent, please notify us immediately at admin(at)androidauthority(dot)com.</span></p><p><strong>Your California Privacy Rights</strong></p><p><span style="font-weight: 400;">Android Authority does not disclose your personal information to third parties for the third parties’ direct marketing purposes unless you affirmatively agree to such disclosures.</span></p><p><strong>Questions About this Policy or Access to Your Information</strong></p><p><span style="font-weight: 400;">If you have an account with Android Authority, you may review and change your information by logging into your account and editing your account profile. If you have questions about our privacy policy, you may contact us at:</span></p><p><b>Email: </b><span style="font-weight: 400;">admin(at)androidauthority(dot)com</span></p><p><span style="font-weight: 400;">You may also use the contact information provided to request access or changes to your personally identifiable information; however, you will not be permitted to examine the personally identifiable information of any other person or entity and may be required to provide us with personally identifiable information to verify your identity prior to accessing any records containing information about you. We may not accommodate a request to change or delete personally identifiable information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect.</span></p></div></div></div></div><div class="post-info-block bottom-info-block clearfix"><div class="post-tags-container"></div></div></div></div></div></div></div></div></div></div><div class="aa-current-post-scroller" data-infscrollurl="https://www.androidauthority.com/privacy-policy/" data-next-post="https://www.androidauthority.com/podcast/"></div> </div><div class="clear"></div></div> <br><div id="aa-m-load-more-container" style="display: none;"></div> <div class="aa-infinite-load-more"> <br><div class="loading load-infinite"><span class="theme-icon-spin2"></span></div></div> <br><div id="footer"><div class="row"><div class="col-md-12"><div class="container-inner"><div class="row"><div class="col-xs-12 col-md-6"> <a href="/" id="aa_footer_logo">&nbsp;</a><div class="aa-footer-description">Your source for all things Android!</div></div><div class="col-xs-12 col-md-6"><ul class="aa_soc_sidebar tablet-mobile-visible"><li> <a class="aa_soc theme-icon-facebook" href="https://www.facebook.com/androidauthority" rel="me"></a> <a class="aa_soc theme-icon-twitter" href="https://twitter.com/androidauth" rel="me"></a> <a class="aa_soc theme-icon-youtube" href="https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw?sub_confirmation=1" rel="me"></a> <a class="aa_soc theme-icon-instagram" href="https://www.instagram.com/androidauthority" rel="me"></a> <a class="aa_soc theme-icon-snapchat" href="https://www.snapchat.com/add/androidauth" rel="me"></a> <a class="aa_soc theme-icon-googleplay" href="https://play.google.com/store/apps/details?id=com.androidauthority.app" rel="me"></a> <a class="aa_soc theme-icon-rss" href="/feed" rel="me"></a> <a class="aa_soc theme-icon-email" href="/newsletter" rel="me"></a></li></ul><nav id="footer-main-menu" class="menu-aa-new-footer-menu-container"><ul id="menu-aa-new-footer-menu-2" class="footer-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-727152"><a href="/about">About</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727155"><a href="https://www.androidauthority.com/contact/">Contact</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-750721"><a href="/jobs/">Jobs</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727153"><a href="https://www.androidauthority.com/advertise/">Advertise</a></li><li class="privacy-policy-icon menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-747189"><a href="https://www.androidauthority.com/privacy-policy/" aria-current="page">Privacy Policy</a></li></ul></nav><ul class="aa_soc_sidebar desktop-visible"><li> <a class="aa_soc theme-icon-facebook" href="https://www.facebook.com/androidauthority" rel="me"></a> <a class="aa_soc theme-icon-twitter" href="https://twitter.com/androidauth" rel="me"></a> <a class="aa_soc theme-icon-youtube" href="https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw?sub_confirmation=1" rel="me"></a> <a class="aa_soc theme-icon-instagram" href="https://www.instagram.com/androidauthority" rel="me"></a> <a class="aa_soc theme-icon-snapchat" href="https://www.snapchat.com/add/androidauth" rel="me"></a> <a class="aa_soc theme-icon-googleplay" href="https://play.google.com/store/apps/details?id=com.androidauthority.app" rel="me"></a> <a class="aa_soc theme-icon-rss" href="/feed" rel="me"></a> <a class="aa_soc theme-icon-email" href="/newsletter" rel="me"></a></li></ul></div></div></div> <div class="copyright center">©2019 Android Authority | All Rights Reserved.</div></div> </div> <div id="text-177" class="widget clearfix"><div class="textwidget"><div class="center" style="padding-bottom: 10px;"><div id="tpd-banner-ad-a"><script type="text/javascript">if (TPD_Mobile == false) {
+googletag.cmd.push( function() {
+googletag.display( 'tpd-banner-ad-a' );
+} );
+}</script></div><div id="tpd-banner-ad-am"><script type="text/javascript">if (TPD_Mobile == true) {
+googletag.cmd.push( function() {
+googletag.display( 'tpd-banner-ad-am' );
+} );
+}</script></div></div></div></div><div id="amzn-assoc-ad-f89f91ca-8cd4-4f9e-af62-acf5f5781410"></div><script async="" src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=f89f91ca-8cd4-4f9e-af62-acf5f5781410"></script> </div> </div>  <script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/comment-reply.min.js?ver=5.1.1"></script> <script type="text/javascript">/* <![CDATA[ */
+var countVars = {"disqusShortname":"androidauthority"};
+/* ]]> */</script> <script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17"></script> <script type="text/javascript">/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.17"},"disqusIdentifier":"12282 https:\/\/www.androidauthority.com\/privacy-policy\/","disqusShortname":"androidauthority","disqusTitle":"Privacy Policy","disqusUrl":"https:\/\/www.androidauthority.com\/privacy-policy\/","postId":"12282"};
+/* ]]> */</script> <script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.17"></script> <script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/plugins/social-polls-by-opinionstage/public/js/shortcodes.js?ver=19.6.20"></script> <script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/themes/aa/js/scripts_bundle.min.js?ver=3.4.9"></script> <script type="text/javascript">/* <![CDATA[ */
 var cats = {"news":"1"};
 var itAjax = {"ajaxurl":"https:\/\/www.androidauthority.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/themes/aa/js/bws.min.js?ver=3.2.7"></script>
-<script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2"></script>
-<script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1"></script>
-<script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/themes/engine/js/plugins.min.js?ver=4.9.1"></script>
-<script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/wp-embed.min.js?ver=4.9.1"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js?ver=2.5.0"></script>
-<script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/plugins/AAProducts/js/function-patterns.js?ver=1.0"></script>
-<script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/plugins/AAProducts/js/chartjs-plugin-watermark.js?ver=1.0"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var AA_reviews_config = {"color_review":"#dd3333","color_attribute":"#dd3333","border_width":"6","watermark":"787732","width_watermark":"250","height_watermark":"50","watermark_url":"https:\/\/www.androidauthority.com\/wp-content\/uploads\/2017\/07\/imgpsh_fullsize-1.png"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/plugins/AAProducts/js/chart.js?ver=1.0"></script>
-<script type="text/javascript" async="">
-	setTimeout( function(){
-			}, 500 );
-</script>
-<noscript>
-	</noscript>
-<script type="text/javascript">
-	var section			= document.getElementsByClassName("category-list")[0],
-		author			= document.getElementsByClassName("aa_item_author")[0],
-		section_name	= '',
-		author_name		= '';
-	if ( section !== undefined ) {
-		section_name	= section.getElementsByTagName("a")[0].innerHTML; //get category name
-	}
-	if ( author !== undefined ) {
-		author_name		= author.innerHTML; //get author name
-	}
-	var _sf_async_config={};
-	/** CONFIGURATION START **/
-	_sf_async_config.uid			= 46366;
-	_sf_async_config.domain			= 'androidauthority.com';
-	_sf_async_config.useCanonical	= true;
-	_sf_async_config.sections		= section_name;
-	_sf_async_config.authors		= author_name;
-	/** CONFIGURATION END **/
-	(function(){
-		function loadChartbeat() {
-			window._sf_endpt=(new Date()).getTime();
-			var e = document.createElement('script');
-			e.setAttribute('language', 'javascript');
-			e.setAttribute('type', 'text/javascript');
-			e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
-			document.body.appendChild(e);
-		}
-		var oldonload = window.onload;
-		window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
-	})();
-</script>
+/* ]]> */</script> <script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/themes/aa/js/bws.js?ver=3.4.9"></script> <script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/themes/aa/moove/dist/scripts/main.js?ver=3.4.9"></script> <script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script> <script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script> <script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script> <script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script> <script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4"></script> <script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script> <script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4"></script> <script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2"></script> <script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1"></script> <script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/themes/engine/js/plugins.min.js?ver=5.1.1"></script> <script type="text/javascript" src="https://www.androidauthority.com/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script> <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js?ver=2.5.0"></script> <script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/plugins/AAProducts/js/function-patterns.js?ver=1.0"></script> <script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/plugins/AAProducts/js/chartjs-plugin-watermark.js?ver=1.0"></script> <script type="text/javascript">/* <![CDATA[ */
+var AA_reviews_config = {"color_review":"#dd3333","color_attribute":"#dd3333","border_width":"6","watermark":"904217","width_watermark":"560","height_watermark":"202","watermark_url":"https:\/\/cdn57.androidauthority.net\/wp-content\/uploads\/2018\/09\/AAWatermarkV2.png"};
+/* ]]> */</script> <script type="text/javascript" src="https://cdn57.androidauthority.net/wp-content/plugins/AAProducts/js/chart.js?ver=1.0.7"></script> <script type="text/javascript" async="">setTimeout( function(){
+			}, 500 );</script> <noscript> </noscript>  <script type="text/javascript">var _dcq = _dcq || [];
+  var _dcs = _dcs || {};
+  _dcs.account = '3690100';
 
-<script type="text/javascript">
-	var _qevents = _qevents || [];
-
-	(function() {
-		var elem = document.createElement('script');
-		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-		elem.async = true;
-		elem.type = "text/javascript";
-		var scpt = document.getElementsByTagName('script')[0];
-		scpt.parentNode.insertBefore(elem, scpt);
-	})();
-
-	_qevents.push({
-		qacct:"p-0PqnaTnN6yQPY"
-	});
-</script>
-<noscript>
-	<div style="display:none;">
-		<img src="//pixel.quantserve.com/pixel/p-0PqnaTnN6yQPY.gif" border="0" height="1" width="1" alt="Quantcast"/>
-	</div>
-</noscript>
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2409065d10","applicationID":"2535462","transactionName":"NlRbNxMFXEpTVEMKDg8eeAAVDV1XHUdWBAQ=","queueTime":0,"applicationTime":689,"atts":"GhNYQVsfT0Q=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
-<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true;
+    dc.src = '//tag.getdrip.com/3690100.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();</script> </body></html>
