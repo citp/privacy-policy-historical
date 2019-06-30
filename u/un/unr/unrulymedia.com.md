@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the unrulymedia.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224758id_/https%3A//unruly.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrulymedia.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235552id_/https%3A//unruly.co/privacy) for the most accurate reproduction.*
 
 # Unruly Privacy Policy
 
-### Privacy Policy
-
- **About us**
+**About us**
 
 Unruly Group Limited, and its affiliates including Unruly Media Inc, Unruly Holdings Limited, Unruly Media Limited, Unruly Media AB, Unruly Media AS, Unruly Media GmbH, Unruly Media Inc, Unruly Media KK, Unruly Media Pte Ltd, Unruly Media Pty Ltd and Unmedia Video Distribution Sdn Bhd  (referred to herein, both individually and collectively, as “Unruly,” “we,” “us,” and “our”), will collect, use, share and disclose or otherwise process your personal information in line with this Privacy Policy.
 
@@ -20,7 +18,7 @@ By using any Unruly Site, you acknowledge the transfer of your personal data to 
 
 By using any Unruly Site, you are consenting to the placing of cookies and other technologies on your devices which allow Unruly to collect certain information. We provide more detail on this below.
 
-If you have any queries about how we collect or use your personal data, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8aeeebfeebfaf8e5feefe9fee3e5e4cae4effdf9a4e9e5a4ffe1)
+If you have any queries about how we collect or use your personal data, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#debabfaabfaeacb1aabbbdaab7b1b09eb0bba9adf0bdb1f0abb5)
 
 This Privacy Policy will describe the kinds of information Unruly may collect from or use or disclose about you or your computer or device when you visit an Unruly Site or when you encounter Distributed Content served by Unruly at a Participant Site. All Participant Sites are operated or controlled by third parties, and the collection, use and disclosure of information collected by a Participant Site or other parties working with such site are governed its or their privacy policies. This Privacy Policy does not apply to Participant Sites or such other parties.
 
@@ -34,7 +32,7 @@ Unruly reserves the right to use one or more varieties of technologies to collec
 
 **Clients**. Some advertisers or other clients (and their third-party service or technology providers) may use pixels, cookies, flash cookies, web beacons and/or similar technologies which are activated when their Distributed Content is viewed by users across our network of Participant Sites or at Unruly Sites. We may request and receive aggregate, non-personal information from our clients from time to time but we do not actively seek from our clients (or their service providers) any information about any individual users.
 
-**Third party suppliers or services**. Unruly works with third party technology or service providers, such as Amazon Web Services, who provides us with hosting, serving, general campaign or site analytics, ad serving data, or demographic and other audience data about the use and viewership of our clients’ Distributed Content, the Participant Sites we work with or our Unruly Sites. Such third party providers may utilize pixels, cookies, flash cookies, web beacons and/or similar technologies that may be activated when our clients’ Distributed Content is encountered on a Participant Site or a user arrives at an Unruly Site. Further, Unruly may work with or permit certain contracted third parties to use our video player to serve cookies, web beacons or similar technologies to collect information about you in order to serve you with targeted ads at other sites you may visit on the Internet or elsewhere, such as to re-target you (or, your browser) with display advertising that is directly relevant to a video advertisement Unruly displayed which you may have viewed. In such instances, our video player will provide links to information regarding such third parties, their privacy policies and how to “opt-out” of such third party data collection efforts.  (See below section entitled " **Interaction with Video Player and Other Usage Information"**  and [Unruly RTB Privacy Policy](https://video.unrulymedia.com/rtbprivacypolicy/index.html)). To be clear, in all instances where the use, collection and disclosure of information is by one of these third party providers, their privacy policies shall govern and this Privacy Policy does not apply. We do not actively seek or knowingly receive information from these third party providers about individual users.
+**Third party suppliers or services**. Unruly works with third party technology or service providers, such as Amazon Web Services, who provides us with hosting, serving, general campaign or site analytics, ad serving data, or demographic and other audience data about the use and viewership of our clients’ Distributed Content, the Participant Sites we work with or our Unruly Sites. Such third party providers may utilize pixels, cookies, flash cookies, web beacons and/or similar technologies that may be activated when our clients’ Distributed Content is encountered on a Participant Site or a user arrives at an Unruly Site. Further, Unruly may work with or permit certain contracted third parties to use our video player to serve cookies, web beacons or similar technologies to collect information about you in order to serve you with targeted ads at other sites you may visit on the Internet or elsewhere, such as to re-target you (or, your browser) with display advertising that is directly relevant to a video advertisement Unruly displayed which you may have viewed. In such instances, our video player will provide links to information regarding such third parties, their privacy policies and how to “opt-out” of such third party data collection efforts.  (See below section entitled “ **Interaction with Video Player and Other Usage Information”**  and [Unruly RTB Privacy Policy](https://video.unrulymedia.com/rtbprivacypolicy/index.html)). To be clear, in all instances where the use, collection and disclosure of information is by one of these third party providers, their privacy policies shall govern and this Privacy Policy does not apply. We do not actively seek or knowingly receive information from these third party providers about individual users.
 
 **Opt-Out**.  Unruly is a member of the Digital Advertising Alliance (DAA), a cooperative of companies committed to building responsible advertising policies across the Internet, and adheres to the DAA’s Self-Regulatory Principles for Online Behavioral Advertising. Our opt-out tool can be found [here](https://video.unrulymedia.com/rtbprivacypolicy/index.html). To learn more about interest based or online behavioral advertising, and other advertising companies’ privacy practices and opt-out from each or any of them (including Unruly), you may also go directly to the DAA website at [http://optout.aboutads.info/](http://optout.aboutads.info/).
 
@@ -50,7 +48,7 @@ When you visit a participant site in our advertising network and view distribute
 
 **Interaction with Video Player and Other Usage Information**. Unruly uses a proprietary video player to serve our clients’ Distributed Content. This video player can be hosted on a web page, be featured as part of an application or widget, or be embedded within an advertising unit. Unruly collects data about a user’s interactions with the player, such as what Distributed Content has been featured, played or clicked, whether playback is paused or stopped, and information collected in relation to the serving and display of Distributed Content. Additionally, we may also collect information about the pages you visited at a Participant Site if our video player or Distributed Content are present on the pages, including what site or page you came from, how long you spent on the page, your click activity on the page. The usage and interaction data helps us understand and report to our clients about whether and how often an item of Distributed Content is watched, whether partially or fully, and in what context, by users across our network of Participant Sites. It may also be used to target or re-target relevant advertising or other content to you through involvement of contracted third parties and/or on other sites you visit. Unruly may also use this information to determine what Distributed Content to show in the video player by matching usage with historical data that Unruly may have collected and stored using cookie or other technology. (See above section entitled “ **Third party suppliers or services** ”).
 
-**Sharing and Social Media Features**. Unruly works with social media tools, services and networks, such as Facebook and Twitter. We provide users with both proprietary and branded tools to enable them to share an item of Distributed Content, solicit or refer other users to view Distributed Content, or express or broadcast their opinion about an item of Distributed Content. In some cases, the use of these tools will require a user to provide personally-identifiable information. For example, a user may send a link for certain content to one or more recipients by email with a personal message. Unruly does not use the email addresses, except as necessary to deliver the communication as requested, and does not store the email addresses. If you use a tag, button or sharing feature that is provided by a branded third-party social media service or network, such as the Facebook’s “Like” button, you may be required to log-in to your account or otherwise take steps to access such third party services. Such collection, use and disclosure of any information by or in relation to such third party service is subject to its privacy policy, and this Privacy Policy does not apply.
+**Sharing and Social Media Features**. Unruly works with social media tools, services and networks, such as Facebook and Twitter. We provide users with both proprietary and branded tools to enable them to share an item of Distributed Content, solicit or refer other users to view Distributed Content, or express or broadcast their opinion about an item of Distributed Content. In some cases, the use of these tools will require a user to provide personally-identifiable information. If you use a tag, button or sharing feature that is provided by a branded third-party social media service or network, such as the Facebook’s “Like” button, you may be required to log-in to your account or otherwise take steps to access such third party services. Such collection, use and disclosure of any information by or in relation to such third party service is subject to its privacy policy, and this Privacy Policy does not apply.
 
 **Our legal bases for using personal information**
 
@@ -69,13 +67,14 @@ We only rely on legitimate interests if the reason for using your information is
 Our legitimate interests in processing personal data include:
 
   * to develop, deliver and maintain relevant and engaging products, services and advertising;
-  * understanding when audiences engage with our clients' ads;
-  * to build a clearer understanding of who our clients' audiences are in order to better serve more relevant advertising to those audiences, for the benefit of both individuals and our clients;
+  * understanding when audiences engage with our clients’ ads;
+  * to build a clearer understanding of who our clients’ audiences are in order to better serve more relevant advertising to those audiences, for the benefit of both individuals and our clients;
   * to maximise advertising revenues for publishers and therefore help to maintain a diverse ecosystem of online independent publishers of content for users to enjoy and educate themselves;
   * to support individual and societal rights to receive information;
   * to improve user website experience by delivering brand safe, high quality advertising to all of the publishers of online content with which we work;
-  * to carry on the business of a commercial organisation; and
-  * to demonstrate that we provide services and products to agreed industry standards.
+  * to carry on the business of a commercial organisation;
+  * to demonstrate that we provide services and products to agreed industry standards;
+  * sharing information with News Corp group companies for analysis, audience insights, business efficiencies, content personalisation and to deliver relevant advertising.
 
 
 
@@ -85,9 +84,22 @@ There may be situations where we need to use your information to comply with leg
 
 **How Unruly uses your information**
 
-Unruly uses the information it collects to operate and improve the functionality, presentation, distribution and appeal of the Distributed Content we place for our clients on Unruly’s network of Participant Sites. On occasion, this involves sharing raw logs with a client if we ascertain that the information being shared is the same information that such advertising or publisher client was in a position to have collected themselves. 
+Unruly uses the information it collects to operate and improve the functionality, presentation, distribution and appeal of the Distributed Content we place for our clients on Unruly’s network of Participant Sites. On occasion, this involves sharing log level data with a client if we ascertain that the information being shared is the same information that such advertising or publisher client was in a position to have collected themselves. We may also share aggregated audience data (built from information collected about you and other users visiting a Participant Site) with certain key clients, who will use such information in accordance with their own privacy policy and applicable laws. 
 
-The information may also be used to improve the relevance of the Distributed Content served to you and other users visiting a Participant Site. We also use and share aggregated technical and usage data with our publishers and advertisers in order to provide measurement and analytics on the effectiveness of their ad campaigns and content distribution programs, and to conduct research and analysis, including to test different ways, to improve the experience of users who encounter our clients’ Distributed Content on our network of Participant Sites.
+The information may also be used to improve the relevance of the Distributed Content served to you and other users visiting a Participant Site. We also use and share aggregated technical and usage data with our publishers and advertisers in order to provide measurement and analytics on the effectiveness of their ad campaigns and content distribution programs, and to conduct research and analysis, including to test different ways, to improve the experience of users who encounter our clients’ Distributed Content on our network of Participant Sites. We may use the information collected from a particular browser or device, or transfer such information to a third party, for the purposes of cross-device mapping or matching. Cross-device mapping or matching means the practice of linking two or more devices or browsers used or likely used (based on analysis) by the same user for online behavioural advertising purposes.
+
+Unruly is part of the News Corporation (“News Corp”) group of companies, and as such, we may rely on our legitimate interests as an organisation that facilitates more relevant advertising for the benefit of our advertiser clients and publisher partners, to share your information with News Corp and its affiliates to: 
+
+  * perform analytics and analysis of how you interact with the News Corp group’s products and services, to facilitate business efficiencies and develop products and services that would be relevant to you; and 
+  * deliver more relevant advertising from across our News Corp network. 
+
+
+
+If you would like to opt out of this sharing or exercise your data protection rights, you can email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) but please bear in mind that opting out will relate to any future sharing and not to information already shared. For more information about how to exercise your rights, please see the section on Access and control of your personal information. Opting out may also mean you do not receive the best experience across News Corp products, services and websites.
+
+Where your information is used for advertising purposes, you will be provided with information about how it is used and be able to control what information is used and how, as well as with which affiliates it is shared.  
+These affiliates may be located inside or outside of the EEA, including the United States of America. We have appropriate agreements in place to ensure they protect your information in accordance with our legal obligations.  
+We also participate in an advertising platform offered by our affiliate, NC Audience Exchange LLC, called News IQ. To learn more about News Corp Connect please visit <http://ncaudienceexchange.com/about/>.
 
 Unruly may disclose one or more clients’ and/or individual users’ information if required to do so by law (or in a good faith belief that such action is necessary or advisable in order to comply with any laws of any country or region which may assert jurisdiction) or in order to respond to a judicial or other governmental action, order, subpoena, request, demand or warrant. We may make such disclosures without providing notice to you.
 
@@ -99,7 +111,7 @@ If Unruly sells all, or parts of the company or its affiliates, your information
 
 ### Personal data collection on Unruly Sites
 
-Personal Data is collected on the Unruly Sites in various instances including, without limitation:
+Personal data is collected on the Unruly Sites in various instances including, without limitation:
 
 **Registration and Use of Unruly’s Services**. If you register to participate in the Unruly network as a publisher or an advertiser, we will require you to provide, and we will store, information that identifies you personally such as your name, contact information, and payment method. We use this information for business purposes such as account maintenance, billing, and to operate and provide the Unruly services.
 
@@ -113,7 +125,7 @@ Personal Data is collected on the Unruly Sites in various instances including, w
 
 You may, of course, decline to share any or certain items of personally-identifiable information with Unruly, in which case we may be unable to provide you with the services or pay you any monies that might otherwise be payable to you. Unruly archives any and all information, including personally identifiable information, that may be input in any registration process even if the user refuses or is declined or fails to use or abandons the services provided by Unruly.
 
-**Note about Children’s Privacy** : Unruly is very sensitive to the issue of children’s privacy. Our websites, products, and services are neither developed for, nor directed at, children, and we do not knowingly collect personal information about children under 13. If you believe your child has provided Unruly with personally identifiable data by registering or using any offerings at any of our Unruly Sites (i.e., sites owned and operated by Unruly, as opposed to a Participant Site over which we have no control), and you would like to have us look into removing the data from our servers, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5b1b4a1b4a5a7baa1b0b6a1bcbabb95bbb0a2a6fbb6bafba0be)
+**Note about Children’s Privacy** : Unruly is very sensitive to the issue of children’s privacy. Our websites, products, and services are neither developed for, nor directed at, children, and we do not knowingly collect personal information about children under 13. If you believe your child has provided Unruly with personally identifiable data by registering or using any offerings at any of our Unruly Sites (i.e., sites owned and operated by Unruly, as opposed to a Participant Site over which we have no control), and you would like to have us look into removing the data from our servers, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#731712071203011c071610071a1c1d331d1604005d101c5d0618)
 
 ### Where Unruly stores Personal Data
 
@@ -132,9 +144,9 @@ Unruly uses the personal data you provide to respond to your enquiries and reque
 
 ### Access and control of your information
 
-Where we rely on your consent to process personal information, you have the right to withdraw that consent at any time. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#412520352031332e35242235282e2f012f2436326f222e6f342a) with details of your request. In some instances we may still have an alternative legal basis to continue to process that personal information and we will inform you of that. If you do withdraw consent we may not be able to provide the product or service you have requested. 
+Where we rely on your consent to process personal information, you have the right to withdraw that consent at any time. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#325653465342405d465751465b5d5c725c5745411c515d1c4759) with details of your request. In some instances we may still have an alternative legal basis to continue to process that personal information and we will inform you of that. If you do withdraw consent we may not be able to provide the product or service you have requested. 
 
-If you have a comment, concern or suggestion, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#036762776273716c776660776a6c6d436d6674702d606c2d7668). If you have a complaint and we cannot resolve the matter, you have the right to comply to the [Information Commissioner’s Office](https://ico.org.uk/) or the data protection regulator responsible for your country or region. 
+If you have a comment, concern or suggestion, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a4c0c5d0c5d4d6cbd0c1c7d0cdcbcae4cac1d3d78ac7cb8ad1cf). If you have a complaint and we cannot resolve the matter, you have the right to comply to the [Information Commissioner’s Office](https://ico.org.uk/) or the data protection regulator responsible for your country or region. 
 
 ### Retention of personal data
 
@@ -148,8 +160,8 @@ Unruly may update this Privacy Policy from time to time. This may be in relation
 
 In addition to any general data protection enquiries you may have, you can use the below details to contact our Group Data Protection Officer:
 
-By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec888d988d9c9e8398898f98858382ac82899b9fc28f83c29987)
+By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#583c392c39282a372c3d3b2c31373618363d2f2b763b37762d33)
 
 By mail: Unruly Group Limited, The White Chapel Building, 15 Whitechapel High Street, London, E1 8QS
 
-Last updated: May 2018
+Last updated: June 2018
