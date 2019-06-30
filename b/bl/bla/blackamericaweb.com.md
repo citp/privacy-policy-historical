@@ -1,58 +1,354 @@
-> *The following text is extracted and transformed from the blackamericaweb.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126230444id_/https%3A//blackamericaweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackamericaweb.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630020223id_/https%3A//ioneblackamericaweb.files.wordpress.com/2017/05/reach-privacy-policy-final.pdf) for the most accurate reproduction.*
 
-# Privacy Policy | Black America Web
+# 
 
-BlackAmericaWeb.com Privacy Policy
+                                    PRIVACY POLICY
+                               Effective Date: May 5, 2017
+Reach Media, Inc. and its family of websites (together, “Reach Digital,” also referred to
+as “we,” “our,” or “us”) offers sites, digital and social networking platforms,
+applications, content, and other services (collectively, the “Reach Digital Services”). This
+Privacy Policy (“Policy”) applies to the Reach Digital Services that link to this Policy,
+wherever you access those Reach Digital Services, regardless of platform or device
+used. If you do not agree with this Privacy Policy, please do not use the Reach Digital
+Services to which this Privacy Policy is linked. Please read this Privacy Policy carefully.
+By accessing and using the Reach Digital Services, you agree to accept the terms of
+this Privacy Policy. This Privacy Policy applies to the Reach Digital Services that link to
+this Privacy Policy
+This Privacy Policy explains:
+       What information we or third parties may collect when you visit the Reach
+        Digital Services
+       How we may use and share that information.
+       The choices we offer, including how to access and update information.
+Table of Contents
+ 1.   Types of Information We Collect
+            a. Our Use of Cookies and Other Technology
+            b. Information Third Parties Provide About You
+ 2. How We Use the Information Collected
+ 3. Who We Share Information With
+ 4. Rights of Minors
+ 5. Your Rights and Opt-Out Choices
+ 6. Consent to Processing and Transfer of Information
+ 7. How We Protect Your Information
+ 8. Third Party Links
+ 9. Updates to this Privacy Policy
+ 10. How to Contact Us
+_____________________________________
+1.      Types of Information We Collect
+We collect information from and about you to provide you with a personalized
+experience on the Reach Digital Services.
+We collect information in the following ways:
 
-BlackAmericaWeb.com is dedicated to protecting users’ privacy and protecting your personal information from misuse. We strongly support a policy of openness about personal data collection and use. We have created and implemented a policy that protects the use of any personally identifiable information (your name, e-mail address, snail mail address, telephone number). Like many websites, we collect information from users to constantly improve the site and provide more individualized content and advertising to them, but we only do so based on the guidelines stated in this policy. To make this privacy policy easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Please take note that other web sites that may be accessed through our site may collect personally identifiable information about you. This privacy statement does not cover the information practices of those web sites linked to BlackAmericaWeb.com. We encourage you to review the statements of those sites.
+Information you give us. When you visit or use the Reach Digital Services, you may be
+asked to provide us with personal information, like your name, email address, social
+media handles, home address, zip code, telephone number, and photos or videos
+containing your image, or if you make a purchase or book a reservation for an event
+via the Reach Digital Services, you may also provide us with credit card or other
+financial account information (collectively, “Personal Information”).     You may also
+provide us with demographic information, such as your age, date of birth, and gender
+(collectively, “Demographic Information”). If we combine Demographic Information with
+the Personal Information we collect, we will treat it as Personal Information under this
+Policy.
+Information we get from your use of the Reach Digital Services. We collect information
+about the Reach Digital Services that you use and how you use them, like when you
+watch a video, open one of our newsletters, or view and interact with our ads and
+content (collectively, “Usage Information”). Usage Information includes:
+       Device information.     We collect device-specific information (such as your
+        hardware model, operating system version, unique device identifiers, and mobile
+        network information, including phone number).
+       Browsing information. This includes the URL that referred you to the Reach
+        Digital Services, the areas within the Reach Digital Services that you visit, how
+        long you spend on the Reach Digital Services, and the time of day of your visit.
+       IP Address. An IP address is a string of numbers associated with the device you
+        use to access the Internet.
+       Location Information. When you use the Reach Digital Services, we may collect
+        and process information about your exact location. We use various technologies
+        to determine location, including IP address, GPS, and other sensors that may,
+        for example, provide us with information on nearby devices, Wi-Fi access points
+        and cell towers.
+Whenever we associate Usage Information with your Personal Information, we will treat
+it as Personal Information.
+        a.      Our Use of Cookies and Other Technology
+We and our partners use various technologies to collect and store information when
+you visit the Reach Digital Services, and this may include using cookies or similar
+technologies to identify your browser or device:
+       Cookies. A cookie is a small file containing a string of characters that is sent
+        to your computer when you visit a website. When you visit the website again,
+        the cookie allows that site to recognize your browser. Cookies may store user
 
-What information does BlackAmericaWeb.com collect?
 
-BlackAmericaWeb.com’s registration, online surveys, and contest entry forms may call for users to provide their contact information (like their name and e-mail address), financial information (like their bank account or credit card numbers), and demographic information (like their zip code, age, or income level).
+       preferences and other information. You can reset your browser to refuse all
+       cookies or to indicate when a cookie is being sent. However, some website
+       features or services may not function properly without cookies.
+      Mobile identifiers. We may use software development kits (“SDKs”) or mobile
+       advertising identifiers (i.e., IDFA on Apple mobile devices or Advertising ID on
+       Android mobile devices), which function similarly to cookies on mobile devices.
+       You may reset your IDFA or Advertising ID in the settings on your mobile device.
+      Web Beacons. Small graphic images or other web programming code called web
+       beacons (also known as “1×1 GIFs,” “one pixel GIFs,” or “clear GIFs”) may be
+       included in our web pages and e-mail messages. Web beacons may be invisible
+       to you, but any electronic image or other web programming code inserted into
+       a web page or e-mail can act as a web beacon. Web beacons or similar
+       technologies may be used for a number of purposes, including, without
+       limitation, to count visitors to the Reach Digital Services, to monitor how users
+       navigate the Reach Digital Services, to make cookies more effective, to count
+       how many e-mails that were sent were actually opened or to count how many
+       particular articles or links were actually viewed.
+       b.   Information Third Parties Provide About You.
+We may, from time to time, supplement the information we collect about you online
+with outside records from third parties in order to enhance our ability to serve you, to
+tailor our content to you and to offer you opportunities to purchase products or
+services that we believe may be of interest to you. These third party sources include:
+      Social networks and publicly available data. If you logon to the Reach Digital
+       Services using a third party social media account (e.g., Facebook or Google), or
+       if you interact with us through a social media function such as a plug-in (e.g., a
+       Facebook “like” button) then you may be permitting us to have ongoing access
+       to some information from your social network profile (such as your name, email
+       address, your friend list, photo, age, gender, location, birthday, social networking
+       ID, current city, and the people/sites you follow).
+      Information that is collected from consumer data resellers. We may collect
+       information about you from consumer data resellers, including but not limited
+       to, demographic and other generally available information.
+      Information other users provide about you. Other users may provide us with
+       your email address or other information in order to invite you to use the Reach
+       Digital Services or share an article or other content from the Reach Digital
 
-BlackAmericaWeb.com uses the standard “cookie” feature of major browser applications that allows us to store data about your visit. Cookies help us learn which areas of our site are useful and which areas need improvement. We also may use cookies to track visits on BlackAmericaWeb.com and the number of entries in some of our promotions, sweepstakes, and contests. Advertising networks that serve ads onto BlackAmericaWeb.com may also use their own cookies. The cookie stores your user name and password, sparing you from having to re-enter that information each time you visit and granting you certain access privileges. You can set your browser to reject cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password. We will not be able to customize the site’s features.
 
-BlackAmericaWeb.com may also gather anonymous information, which may be used by us or shared with third parties. This is information that does not personally identify you, but which may be helpful. For example, we might tell our advertisers how many users visited a particular advertisement, and for how long, so they can measure whether the ad worked. This information is also used to generate advertising rates. Generally, this information is collected through “traffic data” and may entail the use of numeric codes used to identify a computer.
+       Services with you.     In this case, we will only use the information for the
+       purposes for which it was provided.
+      Events. We may collect information about you from third parties that hold events
+       on our behalf which you may register for, attend or participate in. Such
+       information may include, but is not limited to, your name, email address, photo,
+       age, gender, location, birthday, and demographic information.
+2.     How We Use the Information Collected
+We (and our service providers) may use your information for the purposes disclosed at
+the time you provide your information and to provide the Reach Digital Services
+generally, and for a variety of business purposes, including to:
+      Enter you into sweepstakes, contests or promotions, where requested;
+      Create an account on the Reach Digital Services;
+      Personalize the Reach Digital Services, including providing personalized
+       advertising based on your interests, preferences and activities on the Reach
+       Digital Services and on third party websites;
+      Link your activities across the various browsers and devices (e.g., mobile, laptop,
+       tablet etc.) that you use to access the Reach Digital Services and to personalize
+       your experience and advertising across all of your devices;
+      Respond to your inquiries, requests, and comments;
+      Allow you to participate in the interactive features of the Reach Digital Services,
+       where you choose to do so;
+      Prevent fraud or potentially illegal activities (including, without limitation,
+       copyright infringement) on the Reach Digital Services and enforce our Terms of
+       Service;
+      Understand how the Reach Digital Services are used so that we can
+       continuously improve them, and the services we provide to you;
+      Send you newsletters and information about products, services and promotions
+       relating to us and/or our business partners or other organizations that we work
+       with, in accordance with your communication preferences;
 
-What does BlackAmericaWeb.com do with collected information?
 
-BlackAmericaWeb.com’s primary goal in collecting personal information is to provide you, the user, with a customized experience on our site. This includes personalization services, interactive communications, online shopping, and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements. By knowing a little about you, BlackAmericaWeb.com is able to deliver more relevant advertisements and content to you. This, in turn, helps us create a better website.
+        Create anonymous and, where legally permissible, personally identifiable user
+         and consumer profiles, and audience segments that can be used for targeted
+         advertising and marketing, and subject to legal restrictions (including consent
+         where necessary), we may also use technology (such as Facebook Custom
+         Audiences) to deliver advertising to you based on the email address or other
+         Personal Information you provide to us or through the use of information we
+         receive from third parties, including consumer data resellers; or
+        As otherwise set forth in this Policy.
+Note that we may combine all the information we collect or receive about you for any
+of the foregoing purposes.
+3.       Who We Share Information With
+Information sharing within Reach Digital and amongst Reach Digital brands and
+affiliated companies. Your information may be shared across the Reach Digital family
+of brands and affiliated companies, including Urban One, Inc., TV One, Inc., R1 Digital,
+Radio One, Inc., Interactive One, LLC, and BossipMadameNoire LLC (collectively,
+“Affiliated Companies”), to help us better tailor our services, products and advertising
+to you. If you visit the Reach Digital Services, you may receive advertising and other
+communications from one of our Affiliated Companies or any of their brands, or
+platforms.
+Information sharing with third parties.
+    Service Providers. We may share your information with our service providers that
+     perform certain business-related functions on our behalf. We require third party
+     service providers to take appropriate steps to protect your Personal Information.
+     These companies may use aggregated data collected from the Reach Digital
+     Services to improve their services.
+    Social Networks: You may interact with certain features of the Reach Digital
+     Services that cause information to be published to your social networks.           To
+     control this sharing of information, please review the privacy policy of the relevant
+     social network and/or log out of the applicable service before you use our online
+     services.
+    Co-branding Partners.        Certain areas of the Reach Digital Services may be
+     provided to you in association with third parties (“Co-Branded Areas”) and may
+     require you to disclose Personal Information in order to register for and access
+     products and/or services. Co-Branded Areas will identify the applicable third party
+     associates. If you elect to register for products and/or services at Co-Branded
+     Areas, you may be providing your information to both Reach Digital and the third
+     party associates.
 
-By delivering targeted advertisements, BlackAmericaWeb.com allows advertisers to reach a targeted audience. From time to time, advertisers on BlackAmericaWeb.com will seek to reach specific segments of our audience (e.g. females 35 and older). We will take the advertisement and display it to users meeting those criteria. This kind of advertisement targeting is done with banner ads as well as promotional email.
 
-We use customer contact information from our online registration, surveys, promotions, giveaways, contests, and order forms for tracking purposes, our own internal evaluation, and to send you information from our company. Information collected as part of a contest, survey, promotion, or giveaway will be maintained for a minimum of 120 days beyond the end date of the event. After 120 days, the information may be destroyed or kept at the company’s discretion. From time to time, our business partners or other companies may send you promotional material. If you supply contact information, it may also be used to contact you about products and services in which you have indicated an interest, and may be shared with our advertisers, business partners, or other companies who may want to contact you. (Users may opt out of receiving future mailings — see the choice/opt-out section below.)
+  Advertisers, Advertising Networks and Consumer Data Resellers. Some of the Reach
+   Digital Services may be supported with advertising and collect data to help us serve
+   ads. We work with advertisers, third-party advertising networks and consumer data
+   resellers that buy and/or sell information to other companies for multiple purposes,
+   including the offering of products and services that may interest you. These third
+   parties may receive information about how you interact with content and advertising
+   provided in the Reach Digital Services. These third parties may view, edit or set
+   their own tracking technologies/cookies, which will allow them to collect information
+   about you. These third parties may also link the data collected from you across
+   the various browsers and devices you may use to access the Reach Digital Services
+   in order to serve you personalized advertising based on your interests and activities
+   on the Reach Digital Services.
+  Business Transfers. If Reach Digital or any of our brands or Affiliated Companies
+   are acquired by another company, your Personal Information, and any other
+   information that we have collected about the users of the Reach Digital Services,
+   may be disclosed to that company as part of the due diligence process, and will
+   be transferred to that company as one of the transferred assets. If any bankruptcy
+   or reorganization proceeding is brought by or against us, all such information may
+   be considered an asset of ours and as such may be sold or transferred to third
+   parties.
+  Sweepstakes, Contests, and Promotions. Reach Digital Services may offer
+   sweepstakes, contests, and other promotions (a “Promotion”) that may require
+   registration. By participating in a Promotion, you are agreeing to the terms,
+   conditions or official rules that govern that Promotion, which may contain specific
+   requirements of you, including, except where prohibited by law, allowing the
+   sponsor(s) of the Promotion to use your name, voice and/or likeness in advertising
+   or marketing associated with the Promotion. If you choose to enter a Promotion,
+   Personal Information may be disclosed to third parties or the public in connection
+   with the administration of such Promotion, including, without limitation, in
+   connection with winner selection, prize fulfillment, and as required by law or
+   permitted by the Promotion’s official rules, such as on a winners list
+  Law Enforcement Compliance. We may be required by law, or by law enforcement
+   officers acting under the color of law, to disclose your Personal Information and
+   other information collected through the Reach Digital Services. We may also
+   disclose such information if we believe in good faith that such disclosure is
+   necessary to protect or defend the rights, property, or safety of Reach Digital, you,
+   other users, or third parties.
+4.     Rights of Minors
 
-We may use cookies to deliver to you content specific to your interests, to save your password so you don’t have to re-enter it each time you visit our site, and for other purposes. Advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by advertisers on our site.
 
-BlackAmericaWeb.com may use your IP address (the number assigned to your computer while it is on the Internet) to help diagnose problems with our server, and to administer our site. At a point in time, when BlackAmericaWeb.com offers shopping, your IP address may be used to help identify your computer and your online “shopping cart” (if any) and to gather broad demographic information. In addition, your IP address is transmitted with each message sent from your account.
+Except where otherwise indicated, we do not knowingly collect or store any Personal
+Information from children under the age of 13. If a parent or guardian becomes
+aware that his or her child under the age of 13 has provided us with information
+without     his   or     her     consent,   he  or    she   should    contact    us    at
+BUSINESSAFFAIRS@REACHMEDIAINC.COM. As required by law, we will delete such
+information from our files within a reasonable time.
+California minors under 18 years old may request the removal of any information that
+they post to the Reach Digital Services by contacting
+BUSINESSAFFAIRS@REACHMEDIAINC.COM. Upon such request, Reach Digital will
+anonymize, or remove from public view, any content posted by a minor to one of its
+websites, unless required by law to retain such content or information.
+5.      Your Rights and Opt-Out Choices
+We offer you choices regarding the collection, use, and sharing of your Personal
+Information.
+Email communications. When you receive promotional communications from us, you
+may indicate a preference to stop receiving further promotional communications from
+us and you will have the opportunity to "opt-out" by following the unsubscribe
+instructions provided in the promotional email you receive or by contacting us directly
+at BUSINESSAFFAIRS@REACHMEDIAINC.COM. Regardless of your indicated email
+preferences, we may send you administrative emails regarding the Reach Digital
+Services, including, for example, notices of updates to our Terms or this Privacy Policy.
+Update or delete your Account information. If you wish to verify, correct, update or
+delete any of the Personal Information provided to us in connection with your Account
+on the Reach Digital Services, you may do so by editing it on your associated Account
+page. Please note that we may be required (by applicable law or otherwise) to keep
+the outdated information and not delete it (or to keep the outdated information for a
+certain time, in which case we will comply with your deletion request only after we
+have fulfilled such requirements). You should be aware that it is not always possible to
+completely remove or delete all of your information from our databases without some
+residual data remaining in our archives because of backups and other reasons.
+Opt-out of targeted advertising. If you prefer to not receive targeted advertising, you
+can opt-out of some network advertising programs that use your information. Below
+are the steps you can take to opt-out of targeted advertising:
+         Visit   the     Digital   Advertising Alliance   (DAA)   Opt-Out      Page      (
+          http://www.aboutads.info/choices). The DAA Opt-Out Page provides a tool
+          that identifies its member companies that have Cookies on your browser and
+          provides links to those companies.
 
-Demographic and profile data from online forms or cookies may be used to tailor your experience at our site, showing you content that we think you might be interested in, and displaying the content preferences you have previously shared with us. This information may be shared with our advertisers, business partners, or other companies only on an aggregate basis, unless you specifically agree that personally identifiable information about you may be disclosed.
 
-If you submit financial information it may be used to verify the accuracy of your contact information and to authorize BlackAmericaWeb.com to bill you for products and services you have agreed to purchase. You may choose to submit unique identifiers (such as social security numbers) in order to allow us to verify your identity and for use as account numbers in our record system.
+         If you are using one of our mobile applications, you can download App
+          Choices (http://youradchoices.com/appchoices), which will allow you to opt-
+          out of in-app tracking. You can also adjust the privacy settings on your
+          mobile device by visiting the settings tab. If you wish to opt-out of cross-
+          device tracking, you will need to opt-out of in app tracking on all of your
+          devices.
+         Update the privacy settings in the help section of your browser, or in the
+          settings tab on your mobile device.
+         You may also click on the ad choices icon in the advertisement.
+         You may opt out of additional third party advertising networks by going to
+          the         Network        Advertising       Initiative’s      Website       (
+          http://www.networkadvertising.org/managing/opt_out.asp) and following the
+          directions provided.
+Additionally, many network advertising programs allow you to view and manage the
+interest categories they have compiled from your online browsing activities. These
+interest categories help determine the types of targeted advertisements you may
+receive.
+Please note that even if you choose to remove your information or “opt-out,” you will
+still see advertisements while you are browsing online; however, those advertisements
+will no longer be tailored to your interests. Additionally, information regarding your
+usage of the online services may still be collected for research, analytics or internal
+operations purposes. We are not responsible for the effectiveness of any such opt-out
+options.
+Do Not Track Signals. Reach Digital does not currently take actions to respond to “Do
+Not Track signals” because a uniform technological standard has not yet been
+developed. We continue to review new technologies and may adopt a standard once
+one is created.
+Cookies. The “Help” feature of the menu bar on most browsers will tell you how to
+stop accepting new cookies, how to receive notification of new cookies, and how to
+disable existing cookies. For more information about HTTP cookies and how to disable
+them, or restrict the categories of cookies you wish to accept, you can consult the
+information at www.allaboutcookies.org/manage-cookies/.
+Please note that rejecting cookies does not mean that you will no longer see ads
+when you visit the Reach Digital Services. Please note, however, that without cookies,
+you may not be able to take full advantage of all the Reach Digital Services and some
+parts of the Reach Digital Services may not function properly.
 
-BlackAmericaWeb.com may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on BlackAmericaWeb.com or its parent company, subsidiaries or affiliates; (b) protect and defend the rights or property of BlackAmericaWeb.com or the users of BlackAmericaWeb.com, and (c) act under exigent circumstances to protect the personal safety of users of BlackAmericaWeb.com or the public.
 
-Security
+6.      Consent to Processing and Transfer of Information
+Reach Digital is a United States company and the Reach Digital Services are provided
+from the United States. If you are a user who resides outside the United States,
+please be aware that information we collect will be transferred to and processed in the
+United States.      By using the Reach Digital Services, or providing us with any
+information, you consent to the collection, processing, maintenance and transfer of
+such information in and to the United States and other applicable countries in which
+the privacy laws may not be as comprehensive as or equivalent to, those in the
+country where you reside and/or are a citizen.
+7.      How We Protect Your Information
+We maintain procedural, technical, and physical safeguards to help protect against
+loss, misuse or unauthorized access, disclosure, alteration, or destruction of the
+Personal Information you provide via the Reach Digital Services. Unfortunately, no
+transmission of data is guaranteed to be completely secure. It may be possible for
+third parties not under our control to intercept or access transmissions or private
+communications unlawfully. Therefore, any transmission of Personal Information to us
+is made at your own risk. If you believe that your interaction with us is no longer
+secure, please notify us using the contact details in Section 10 below.
+8.      Third Party Links
+The Reach Digital Services may contain links to third party websites/services for your
+convenience and/or information (for example, sites linking via banner ads). If you
+access other sites using the links provided, you may leave the Reach Digital Services.
+When you access these other sites, even ones that may contain the logo of Reach
+Digital or an Reach Digital brand or A company, please understand that the operators
+of these websites may collect information from you which will be used by them in
+accordance with their privacy policies and terms of use, which may differ from ours.
+We do not endorse or control the policies or practices of third party websites that we
+do not control or operate.
+You should always carefully read the privacy policy of any site you access in order to
+understand their specific privacy and information usage practices.
+9.      Updates to this Privacy Policy
+From time to time, we may revise this Policy to reflect changes in the law or
+technology, or changes in our practices regarding information collection and use. If
+we make material revisions to the way we collect or use your Personal Information so
+that we are using it for purposes or sharing data with third parties that you have not
+consented to, we will provide you with notice of those changes and may do so by
 
-BlackAmericaWeb.com has security measures in place to protect the loss, misuse and alteration of any information we have collected from you. Any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use industry-standard, SSL (secure socket layer) encryption. As you may realize, unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, BlackAmericaWeb.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. To further protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-Children
-
-BlackAmericaWeb.com is a general audience site. Protecting the privacy of the very young is especially important. We do not direct any of our content specifically at children less than thirteen (13) years of age. Further, we do not collect or maintain information at our website from those we actually know are under thirteen (13) years of age.
-
-Choice/Opt-Out
-
-BlackAmericaWeb.com gives you the following options for removing your information from our database in order to stop receiving future communications from BlackAmericaWeb.com. (Please note: BlackAmericaWeb.com is not responsible for removing information from third-party lists or entities with which you have previously authorized us to share your information.)
-
-Contacting BlackAmericaWeb.com
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with BlackAmericaWeb.com, please feel free to contact us:
-
-You can send e-mail to: contactus@blackamericaweb.com You can send mail to the following postal address:  
-BlackAmericaWeb.com, Inc.  
-13760 Noel Road, Ste. 750  
-Dallas, Texas 75240
-
-Please recognize that any of the policies or procedures above may be changed at any time without prior notice. Although this Privacy Policy is not a contract and does not create any legal rights, it does serve as an expression of BlackAmericaWeb.com’s commitment to protecting private personal information.
+announcing the change through the Reach Digital Services. You agree that we may
+notify you about material changes in the way we treat Personal Information by placing
+a notice on the Reach Digital Services. You should check our online services frequently
+for updates.
+Any changes to this Policy will become effective as of the Effective Date on the top of
+this page. By continuing to use the Reach Digital Services after the most current
+Effective Date, you will be deemed to have agreed to such changes. If you do not
+agree with the terms of this Policy, as it may be amended from time to time, in whole
+or in part, please do not continue to use the Reach Digital Services.
+10.     How to Contact Us
+You may contact us by email at BUSINESSAFFAIRS@REACHMEDIAINC.COM and reference
+“Privacy Request” or by mail at Privacy Request, c/o Reach Media, Inc., BUSINESS
+AFFAIRS, 13760 NOEL ROAD, DALLAS, TEXAS 75254 USA
