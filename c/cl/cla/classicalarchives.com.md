@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicalarchives.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929132311id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicalarchives.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630180229id_/https%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.*
 
 # Classical Archives: Privacy Policy
 
@@ -44,11 +44,11 @@ Should you have other questions or concerns about these privacy policies, send u
 
 
 
-|  |  [](https://secure.classicalarchives.com/membership/signup.html?show_subs_only=true&bid=irs)
+|  |  [](https://web.archive.org/secure/membership/signup.html?show_subs_only=true&bid=irs)
 
 [](https://twitter.com/Classical_Joe) [](https://www.facebook.com/Classicalarchives)   
   
   
 ---|---|---  
   
-© 1994-2017 Classical Archives LLC — The Ultimate Classical Music Destination ™
+© 1994-2019 Classical Archives LLC — The Ultimate Classical Music Destination ™
