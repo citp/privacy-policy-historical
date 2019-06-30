@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessinsider.co.id privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017145926id_/http%3A//sph.com.sg/legal/pdpa.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsider.co.id privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630212228id_/http%3A//sph.com.sg/legal/pdpa.html) for the most accurate reproduction.*
 
 # Personal Data Protection Statement - Singapore Press Holdings
 
