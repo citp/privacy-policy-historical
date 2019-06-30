@@ -1,7 +1,43 @@
-> *The following text is extracted and transformed from the linknaija.com privacy policy that was archived on 2016-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160218062414id_/http%3A//linknaija.com/index.php%3Fpage%3Dpage%26id%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linknaija.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630114746id_/https%3A//www.linknaija.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Linknaija: Free classified Nigeria
+# Privacy Policy - LinkNaija | Nigeria's popular news platform
 
-In order for the website to provide a safe and useful service, it is important forLinknaija.com to collect, use, and share personal information. Collection Information posted on LinkNaija.com is publicly available. If you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers. We collect and store the following personal information: Email address, contact information, and (depending on the service used) sometimes financial information Computer sign-on data, statistics on page views, traffic to and from Linknaija.com and response to advertisements Other information, including users' IP address and standard web log information. Use We use users' personal information to: Provide our services Resolve disputes, collect fees, and troubleshoot problems Encourage safe trading and enforce our policies Customize users experience, measure interest in our services Improve our services and inform users about services and updates Communicate marketing and promotional offers to you according to your preferences Do other things for users as described when we collect the information
+**What information do we collect?**  
+LinkNaija.com collect information from you when you register on our site, subscribe to our newsletter or respond to a survey.  
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
 
-**LinkNaija.com** is a free Nigeria classifieds website to, post ads to buy and sell products and services online and to meet people. Post free classifieds for sale.
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways:  
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)  
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)  
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)  
+; To send periodic emails  
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.  
+**  
+****How do we protect your information?**
+
+Benueforum.com implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.  
+Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information  
+We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.  
+Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.  
+**  
+****Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.  
+Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.  
+Your Consent  
+_  
+__By using our site, you consent to our online privacy policy._  
+_Changes to our Privacy Policy_
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
