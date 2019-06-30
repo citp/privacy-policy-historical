@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastvalleytribune.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229173830id_/http%3A//www.eastvalleytribune.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastvalleytribune.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630032720id_/http%3A//www.eastvalleytribune.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | eastvalleytribune.com
 
@@ -78,4 +78,7 @@ Policy Changes
 
 If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.
 
-Effective Date: 3/20/2013
+Effective Date: 3/20/2013  
+  
+---  
+[](https://www.jandatri.com/)
