@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adyoulike.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180235id_/https%3A//www.adyoulike.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adyoulike.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235516id_/https%3A//www.adyoulike.com/privacy_policy.php) for the most accurate reproduction.*
 
 # ADYOULIKE I Deep Native Advertising
 
@@ -17,7 +17,7 @@ By visiting this page you will be informed about how we treat your personal data
 
 This information is collected in order to be able to answer your requests, and to be used within the framework of commercial prospections, to present you new products which could according to your profile (publisher, advertiser, visitor) you are interested. This information is intended solely for the internal service of ADYOULIKE.
 
-The Data Protection Officer (DPO) is: Rudy LELLOUCHE, who can be contacted at [rgpd@adyoulike.com](mailto:rgpd@adyoulike.com)
+The Data Protection Officer (DPO) is: Nicolas NIOCHE, who can be contacted at [rgpd@adyoulike.com](mailto:rgpd@adyoulike.com)
 
 #### // DURATION OF STORAGE OF COLLECTED DATA
 
