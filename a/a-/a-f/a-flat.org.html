@@ -1,389 +1,568 @@
-<!--The following is the downloaded HTML source of the a-flat.org privacy policy that was archived on 2013-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130819081111id_/http%3A//a-flat.org/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the a-flat.org privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630142805id_/https%3A//www.cloudns.net/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>A-Flat Web Directory&nbsp;- Privacy Policy  </title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" type="text/css" href="/templates/biz22_blue/style/main.css">
-<meta name="keywords" content="privacy policy">
-<meta name="description" content="privacy policy for A-Flat Web Directory">
-<meta name="author" content="A-Flat Web Directory">
-<meta name="copyright" content="Copyright (c) 2012 by A-Flat Web Directory. All rights reserved!">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-        var valid_obj = new Object();
-    </script>
-</head>
-<body><script type="text/javascript">
-
-
-function increase_height() {
-   height = parseInt(document.getElementById('slide').style.marginTop);
-   if (height<110) {
-      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
-      setTimeout("increase_height()",0.0001);
-   } else {
-      document.getElementById('panel').style.zIndex = 200;
-   }
-}
-
-function decrease_height() {
-   height = parseInt(document.getElementById('slide').style.marginTop);
-   document.getElementById('panel').style.zIndex = -1;
-   if (height>0) {
-      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
-      setTimeout("decrease_height()",0.0001);
-   }
-}
-
-function show_panel() {
-  
-   height = parseInt(document.getElementById('slide').style.marginTop);
-   if (height>0) {
-      decrease_height();
-   } else {
-      increase_height();
-   }
-   return false;
-}
-
-function ajaxFunction()
-{
-
-var xmlHttp;
-
-try
-  {
-  // Firefox, Opera 8.0+, Safari
-  xmlHttp=new XMLHttpRequest();
-  }
-catch (e)
-  {
-  // Internet Explorer
-  try
-    {
-    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
-    }
-  catch (e)
-    {
-    try
-      {
-      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
-      }
-    catch (e)
-      {
-      alert("Your browser does not support AJAX!");
-      return false;
-      }
-    }
-  }
-  xmlHttp.onreadystatechange=function()
-    {
-    if(xmlHttp.readyState==4)
-      {
-      }
-    }
-   var url = "http://www.a-flat.org/update_session.php";
-
-   xmlHttp.open("POST", url, false);
-   xmlHttp.setRequestHeader( 
-    'Content-Type', 
-    'application/x-www-form-urlencoded; charset=UTF-8' 
-); 
-   xmlHttp.send('url='+window.location);
-  }
-</script>
-
-<script type="text/javascript">
-jQuery(function($) {
-	$(document).ready(function(){
+<!DOCTYPE html><html lang="en"><head>
+				<title>Privacy Policy | ClouDNS</title>
 		
-									jQuery.validator.messages.required = "This field is required.";
-												jQuery.validator.messages.remote = "Please fix this field.";
-												jQuery.validator.messages.email = "Invalid email address format.";
-												jQuery.validator.messages.url = "Invalid URL.";
-												jQuery.validator.messages.date = "Invalid date format.";
-												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
-												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
-												jQuery.validator.messages.number = "Required numeric field.";
-												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
-												jQuery.validator.messages.digits = "Required integer field.";
-												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
-												jQuery.validator.messages.equalTo = "Please enter the same value again.";
-												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
-												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
-												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
-												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
-												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
-												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
-												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
-								
-
-		function fireEvent(obj, evt) {
-			var fireOnThis = obj;
-			if (document.createEvent) {
-				var evObj = document.createEvent('MouseEvents');
-				evObj.initEvent(evt, true, false);
-				fireOnThis.dispatchEvent(evObj);
-			} else if (document.createEventObject) {
-				fireOnThis.fireEvent('on'+evt);
-			}
-		}
-
-                //valid obj isntantiated in header.tpl
-                valid_obj.login_form = {
-				debug: false,
-				onKeyUp: true,
-				onfocusout: false,
-				errorElement: "span",
-				errorClass: "errForm",
-				submitHandler: function(form) {
-					// do other stuff for a valid form
-					if ($("#login_form").valid()) {
-						form.submit();
-					}
-				},
-
-				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
-		};
-
-		$("#login_form").validate(valid_obj.login_form);
-
-                var selects = $("#login_form").find("select");
-                var crt;
-                $.each(selects, function() {
-                    crt = this.id;
-                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
-                        $("#"+crt).change(function() {
-                          $(this).valid();
-                        });
-                    }
-                });
-	});
-});
-</script>
-<script type="text/javascript">
-jQuery(function($) {
-	$(document).ready(function(){
+				<meta name="description" content="Learn more about our privacy policy on credit cards, cookies, and more.">
 		
-									jQuery.validator.messages.required = "This field is required.";
-												jQuery.validator.messages.remote = "Please fix this field.";
-												jQuery.validator.messages.email = "Invalid email address format.";
-												jQuery.validator.messages.url = "Invalid URL.";
-												jQuery.validator.messages.date = "Invalid date format.";
-												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
-												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
-												jQuery.validator.messages.number = "Required numeric field.";
-												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
-												jQuery.validator.messages.digits = "Required integer field.";
-												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
-												jQuery.validator.messages.equalTo = "Please enter the same value again.";
-												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
-												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
-												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
-												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
-												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
-												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
-												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
-								
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-		function fireEvent(obj, evt) {
-			var fireOnThis = obj;
-			if (document.createEvent) {
-				var evObj = document.createEvent('MouseEvents');
-				evObj.initEvent(evt, true, false);
-				fireOnThis.dispatchEvent(evObj);
-			} else if (document.createEventObject) {
-				fireOnThis.fireEvent('on'+evt);
-			}
+				
+		
+		<meta name="distribution" content="Global">
+		<meta name="rating" content="General">
+		<meta name="google-site-verification" content="V8FW4BSR7VgKb8hrBu28Xyr4Vm2LqyCM6DxN7uOfzHQ">
+		<meta name="robots" content="index, follow">
+		<meta name="language" content="en">
+		
+				<meta name="viewport" content="width=device-width, initial-scale=1">
+				
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/" hreflang="en">
+						<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/bg/" hreflang="bg">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/ru/" hreflang="ru">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/ua/" hreflang="uk">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/tr/" hreflang="tr">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/fr/" hreflang="fr">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/ro/" hreflang="ro">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/es/" hreflang="es">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/de/" hreflang="de">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/jp/" hreflang="ja">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/id/" hreflang="id">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/pt/" hreflang="pt">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/hi/" hreflang="hi">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/it/" hreflang="it">
+				<link rel="alternate" href="https://www.cloudns.net/privacy-policy/lang/pl/" hreflang="pl">
+						<link rel="alternate" href="https://www.cloudns.net/privacy-policy/" hreflang="x-default"> 
+				<link rel="icon" type="image/png" href="/images/web/favicon.gif">
+		<link rel="apple-touch-icon" href="i/apple-touch-icon.png">
+		
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery.min.js" type="text/javascript"></script>
+		<script src="/js/cloud.js?ver=2019-06-30-17" type="text/javascript" defer=""></script>
+		<script src="/js/jquery.additional.min.js" type="text/javascript" defer=""></script>
+				
+		<link href="/css/style.css?ver=2019-06-30-17" rel="stylesheet" type="text/css" defer="">
+		<link href="/css/additional.min.css" rel="stylesheet" type="text/css" defer="">
+		<link href="/css/desktop.css" rel="stylesheet" type="text/css" defer="">
+		<link href="/css/languages.css" rel="stylesheet" type="text/css" defer="">
+		
+					<link href="/css/fonts.css" rel="stylesheet" type="text/css" defer="">
+				<link href="/css/new-style.css" rel="stylesheet" type="text/css" defer="">
+		<link href="/css/icons.css" rel="stylesheet" type="text/css" defer="">
+		
+				
+				<link href="/css/responsive.css" rel="stylesheet" type="text/css" defer=""> 
+				<link href="/css/popup.css" rel="stylesheet" type="text/css" defer="">
+		<link href="/css/header-responsive.css" rel="stylesheet" type="text/css" defer="">
+		
+		<!-- Facebook -->
+		<meta property="og:title" content="Privacy Policy | ClouDNS">
+				<meta property="og:description" content="Learn more about our privacy policy on credit cards, cookies, and more.">
+						<meta property="og:image" content="https://www.cloudns.net/images/logo/social.png">
+		
+		<!-- Twitter -->
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Privacy Policy | ClouDNS">
+				<meta name="twitter:description" content="Learn more about our privacy policy on credit cards, cookies, and more.">
+		
+				
+		<script type="text/javascript">
+			$(function() {
+								addTranslation('cart_menu', 'Cart (%s)');
+									
+				$("#cartHeaderProductsTitle").tooltip({
+					track: true,
+					delay: 0,
+					showURL: false,
+					showBody: "<body>",
+					fade: 250 
+				});
+				checkDirection('ltr');
+			});
+		</script>
+	</head>
+	<body class="lang-en">
+		
+		<!-- Header -->
+		<header>
+			<div class="wraper">
+				<a href="/" class="logo"></a>
+				<nav>
+					<ul>
+						<li>
+							<a href="javascript: void(0);" class="drop-down cursor-default">Managed DNS</a>
+							<ul class="drop-down-menu">
+								<li><a href="/premium/">Premium DNS</a></li>
+								<li><a href="/ddos-protected-plans/">DDoS Protected DNS</a></li>
+								<li><a href="/geodns/">GeoDNS</a></li>
+								<li><a href="/dns-failover/">DNS Failover</a></li>
+								<li><a href="/private-dns-servers/">Private DNS servers</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="javascript: void(0);" class="drop-down cursor-default">Services</a>
+							<ul class="drop-down-menu">
+								<li><a href="/secondary-dns/">Secondary DNS</a></li>
+								<li><a href="/reverse-dns/">Reverse DNS</a></li>
+								<li><a href="/managed-dns/">Managed DNS</a></li>
+								<li><a href="/anycast-dns/">Anycast DNS</a></li>
+								<li><a href="/enterprise-dns/">Enterprise DNS</a></li>
+								<li><a href="/dynamic-dns/">Dynamic DNS</a></li>
+								<li><a href="/domain-pricing-list/">Domain names</a></li>
+								<li><a href="/ssl-certificates/">SSL Certificates</a></li>
+								<li><a href="https://www.cloudprima.com/?utm_source=footer&amp;utm_campaign=ClouDNS+Web" target="_blank">DDoS Protected VPS</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="javascript: void(0);" class="drop-down cursor-default">Company</a>
+							<ul class="drop-down-menu">
+								<li><a href="/about-us/">About Us</a></li>
+								<li><a href="/news/">News</a></li>
+								<li><a href="/contact/">Contacts</a></li>
+								<li><a href="/data-centers/">Data centers</a></li>
+								<li><a href="/feedback/">Feedback</a></li>
+								<li><a href="/careers/">Careers</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="javascript: void(0);" class="drop-down cursor-default">Partnership</a>
+							<ul class="drop-down-menu">
+								<li><a href="/affiliate/">Affiliate Program</a></li>
+								<li><a href="/resellers-api/">Resellers API</a></li>
+							</ul>
+						</li>
+						<li class="extra-menu">
+							<a href="javascript: void(0);" class="drop-down cursor-default">KnowledgeBase</a>
+							<ul class="drop-down-menu">
+								<li><a href="/blog/" target="_blank">Blog</a></li>
+								<li><a href="/wiki/">Wiki</a></li>
+								<li><a href="/features/">Features</a></li>
+								<li><a href="/faq/">FAQ</a></li>
+								<li><a href="/api-help/">HTTP API</a></li>
+								<li><a href="/whmcs-module/">WHMCS module</a></li>
+								<li><a href="/payment-methods/">Payment methods</a></li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
+				<aside>
+					<div>
+						<a href="/order/step/1/" class="icon icon-cart icon-white header-tooltip hidden" aria-label="Cart (0)" id="cartHeaderProductsTitle">
+							<span id="cartHeaderProducts" class="counter">0</span>
+						</a>
+
+						<button type="button" id="sign-in" class="sign-in round-btn dark-btn s-btn " onclick="show2FALoginForm();">Sign In</button>
+
+
+																		<div class="lang-bar">
+							<a href="javascript:void(0);" onclick="showLanguages(event); return false;" class="drop-down">
+								<span class="lang lang-en"></span>
+								<span>English</span>
+							</a>
+							<ul class="drop-down-menu">
+																																												<li>
+											<a href="/privacy-policy/lang/ru/">
+												<span class="lang lang-ru"></span>
+												<span>Русский</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="/privacy-policy/lang/de/">
+												<span class="lang lang-de"></span>
+												<span>Deutsch</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="/privacy-policy/lang/fr/">
+												<span class="lang lang-fr"></span>
+												<span>Français</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="/privacy-policy/lang/ro/">
+												<span class="lang lang-ro"></span>
+												<span>Română</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="/privacy-policy/lang/bg/">
+												<span class="lang lang-bg"></span>
+												<span>Български</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="/privacy-policy/lang/es/">
+												<span class="lang lang-es"></span>
+												<span>Español</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="/privacy-policy/lang/pt/">
+												<span class="lang lang-pt"></span>
+												<span>Português</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="/privacy-policy/lang/it/">
+												<span class="lang lang-it"></span>
+												<span>Italiano</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="/privacy-policy/lang/pl/">
+												<span class="lang lang-pl"></span>
+												<span>Polski</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="/privacy-policy/lang/ua/">
+												<span class="lang lang-ua"></span>
+												<span>Українська</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="/privacy-policy/lang/tr/">
+												<span class="lang lang-tr"></span>
+												<span>Türkçe</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="/privacy-policy/lang/jp/">
+												<span class="lang lang-jp"></span>
+												<span>日本語</span>
+											</a>
+										</li>
+																																				<li>
+											<a href="/privacy-policy/lang/hi/">
+												<span class="lang lang-hi"></span>
+												<span>हिंदी</span>
+											</a>
+										</li>
+																																				<li class="font-smaller">
+											<a href="/privacy-policy/lang/id/">
+												<span class="lang lang-id"></span>
+												<span>Bahasa Indonesia</span>
+											</a>
+										</li>
+																																			<li>
+											<a href="https://asia.cloudns.net/privacy-policy/lang/chs/">
+												<span class="lang lang-chs"></span>
+												<span>简体中文</span>
+											</a>
+										</li>
+																		<li>
+											<a href="https://asia.cloudns.net/privacy-policy/lang/cht/">
+												<span class="lang lang-cht"></span>
+												<span>中國傳統的</span>
+											</a>
+										</li>
+																		<li>
+											<a href="https://asia.cloudns.net/privacy-policy/lang/vn/">
+												<span class="lang lang-vn"></span>
+												<span>Tiếng Việt</span>
+											</a>
+										</li>
+																		<li>
+											<a href="https://asia.cloudns.net/privacy-policy/lang/ir/">
+												<span class="lang lang-ir"></span>
+												<span>فارسی</span>
+											</a>
+										</li>
+															</ul>
+						</div>
+											</div>
+				</aside>
+				<button class="mobile-nav-btn" onclick="openMobileMenu(this);"><span></span></button>
+				<div class="mobile-nav a-c">
+					<ul>
+						<li onclick="expandMobileMenu(this);">
+							<a href="javascript: void(0);" class="drop-down cursor-default">Managed DNS</a>
+							<ul class="drop-down-menu">
+								<li><a href="/premium/">Premium DNS</a></li>
+								<li><a href="/ddos-protected-plans/">DDoS Protected DNS</a></li>
+								<li><a href="/geodns/">GeoDNS</a></li>
+								<li><a href="/dns-failover/">DNS Failover</a></li>
+								<li><a href="/private-dns-servers/">Private DNS servers</a></li>
+							</ul>
+						</li>
+						<li onclick="expandMobileMenu(this);">
+							<a href="javascript: void(0);" class="drop-down cursor-default">Services</a>
+							<ul class="drop-down-menu">
+								<li><a href="/secondary-dns/">Secondary DNS</a></li>
+								<li><a href="/reverse-dns/">Reverse DNS</a></li>
+								<li><a href="/managed-dns/">Managed DNS</a></li>
+								<li><a href="/anycast-dns/">Anycast DNS</a></li>
+								<li><a href="/enterprise-dns/">Enterprise DNS</a></li>
+								<li><a href="/dynamic-dns/">Dynamic DNS</a></li>
+								<li><a href="/domain-pricing-list/">Domain names</a></li>
+								<li><a href="/ssl-certificates/">SSL Certificates</a></li>
+								<li><a href="https://www.cloudprima.com/?utm_source=footer&amp;utm_campaign=ClouDNS+Web" target="_blank">DDoS Protected VPS</a></li>
+							</ul>
+						</li>
+						
+						<li onclick="expandMobileMenu(this);">
+							<a href="javascript: void(0);" class="drop-down cursor-default">Company</a>
+							<ul class="drop-down-menu">
+								<li><a href="/about-us/">About Us</a></li>
+								<li><a href="/news/">News</a></li>
+								<li><a href="/contact/">Contacts</a></li>
+								<li><a href="/data-centers/">Data centers</a></li>
+								<li><a href="/feedback/">Feedback</a></li>
+								<li><a href="/careers/">Careers</a></li>
+							</ul>
+						</li>
+						<li onclick="expandMobileMenu(this);">
+							<a href="javascript: void(0);" class="drop-down cursor-default">Partnership</a>
+							<ul class="drop-down-menu">
+								<li><a href="/affiliate/">Affiliate Program</a></li>
+								<li><a href="/resellers-api/">Resellers API</a></li>
+							</ul>
+						</li>
+						<li onclick="expandMobileMenu(this);">
+							<a href="javascript: void(0);" class="drop-down cursor-default">KnowledgeBase</a>
+							<ul class="drop-down-menu">
+								<li><a href="/blog/" target="_blank">Blog</a></li>
+								<li><a href="/wiki/">Wiki</a></li>
+								<li><a href="/features/">Features</a></li>
+								<li><a href="/faq/">FAQ</a></li>
+								<li><a href="/api-help/">HTTP API</a></li>
+								<li><a href="/whmcs-module/">WHMCS module</a></li>
+								<li><a href="/payment-methods/">Payment methods</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</header>
+
+		<div id="cloudOverlay"></div>
+		<div id="cloudPage">
+			<div id="cloudPageClose"></div>
+			<div id="cloudPageContent"></div>
+		</div>
+		<div id="cloudSecondOverlay"></div>
+		<div id="cloudMessage" style="">
+			<div id="cloudMessageClose"></div>
+			<div id="cloudMessageContent"></div>
+		</div>
+		
+		
+		<div class="popup" id="popup">
+			<div id="popupOverlay" class="overlay"></div>
+		    <div class="popup-wraper">
+			<button type="button" class="close-btn close-popup">
+				<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 40 40"><path class="close-x" d="M 10,10 L 30,30 M 30,10 L 10,30"></path></svg>
+			</button>
+			<div class="popup-content">
+
+			</div>
+		    </div>
+		</div>
+		
+		<div class="popup popup-message" id="popup-message">
+		<div id="popupSecondOverlay" class="overlay"></div>
+		    <div class="popup-wraper">
+			<button type="button" class="close-btn close-popup">
+				<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 40 40"><path class="close-x" d="M 10,10 L 30,30 M 30,10 L 10,30"></path></svg>
+			</button>
+			<div class="popup-content">
+				
+			</div>
+		    </div>
+		</div>
+		
+				
+		
+
+<section class="w-b section-heading">
+	<div class="wraper">
+	<h1 class="h1-bottom-side-decor">Privacy policy</h1>
+<ol>
+	<li>
+		<span class="bold">IP addresses and Browser details</span><br>
+		Our servers detect the IP address of your browser from the TCP protocol. This IP address is used by ClouDNS servers only for our internal use - security and rate limiting.<br>
+		We store browser details and IP addresses of each account for security reasons - mainly for but not limited to investigate hacked accounts or fraudulent activities. Login history is stored for three years on our servers and these history logs are available within the Profile section of your control panel. 
+	</li>
+	<li>
+		<span class="bold">Customer details</span><br>
+		We store customer details - e-mail and contact information only for account, billing purposes, and notifications. Under no circumstances ClouDNS will lease, sell, or provide your personal information to any third parties without your permission, a court order or legit legal request by legal authorities.<br>
+		All customer details listed above are stored on servers within the European Union (currently in Amsterdam , Netherlands).
+	</li>
+	<li>
+		<span class="bold">Domain WHOIS information</span><br>
+		For each domain registration or transfer, we request whois details which we are providing to the Domain Registry, authority from where we are buying the domain name. Every TLD has a specific Domain Registry we are using. The Domain Registry manages a WHOIS database which is a register of all domain names within that Domain Registry and their owners. Information in the WHOIS contains the contact details of the owner and proof of ownership of the customers at the Domain Registry. How the WHOIS database is shared with other parties is managed by the Domain Registry and ClouDNS does not have the ability to prevent visibility of the contact details to public.<br>
+		The Privacy Protection option provided by ClouDNS for particular domain extensions allows the customer details to be hidden to the domain registry. When the Privacy Protection is activated, Cloud DNS Ltd is listed as the owner of the domain name in the WHOIS database, but not the Customer. Note that some TLDs do not support the Privacy Protection option and you will not be able to activate it in order to hide your contact details from the Domain Registry and the Domain Registry WHOIS database. Even with enabled Privacy Protection, the Customer is still listed as the owner in the records in ClouDNS’s database and the contact details can be exposed if the domain name is used for illegal activities or from a legal request by the authorities or a court order. 
+	</li>
+	<li>
+		<span class="bold">Cookies</span><br>
+		ClouDNS uses cookies to save user settings, count user visits, and site analytics. None of these cookies are used to track the customers outside of our website.<br>
+		Some of the cookies are set and managed by Google Analytics, a tool from Aphabet Inc (parent company of Google Inc) to analyze website visits. We are not sharing any customer details or identifiers collected and defined in point 2. 
+	</li>
+	<li>
+		<span class="bold">Credit cards information.</span><br>
+		All purchases on the websites managed by ClouDNS are handled by a third party - PayPal.com, BitPay.com, SafeCharge.com, Skrill.com or other Banks, in which the transferred information thereof is encrypted. ClouDNS does not arrange, save or transport any credit card numbers.
+	</li>
+	<li>
+		<span class="bold">DNS query details</span><br>
+		ClouDNS does not store or share any query details or track end-user activities. To provide stable service, we are counting the requests sent from single IP address for each DNS zone for analytical purposes and to be able to prevent DDoS attacks against our infrastructure or services of customers. Statistics for each zone are available and accessible within the control panel of each Customer and are deleted as soon as the DNS zone is removed by the customer or the storage limits defined in terms of Service are reached. 
+	</li>
+	<li>
+		<span class="bold">Erase of data</span><br>
+		ClouDNS gives the ability to its customers to erase and/or modify all the data within their control panel. If you need your account ( including your data) with ClouDNS to be deleted, please contact us from the Support menu ( top of your control panel ) and our Technical Support will erase all the information we have in our database for your account. 
+	</li>
+	<li>
+		<span class="bold">E-mail subscriptions</span><br>
+		All our Customers can manage what e-mail notifications they want to receive from us. If you wish to unsubscribe from any of our e-mails, please click on the "Unsubscribe" link at the end of the e-mail or change your Subscription settings from your control panel.
+	</li>
+</ol>
+	</div>
+</section>
+
+<section class="section-wraper">
+	<h3 class="h2-small h2-bottom-side-decor">Data Protection Officer</h3>
+	<a href="http://ec.europa.eu/justice/smedataprotect/index_en.htm" target="_blank">According to GDPR regulations, Cloud DNS Ltd is below the required limit for having a Data Protection Officer.</a> In case of any issues which require a contact with the person responsible for our customer data at Cloud DNS Ltd. please contact admin@cloudns.net and address your message to the Company Manager (CEO): Boyan Peychev 
+</section>				
+			<div class="clear"></div>
+			
+				<footer>
+			<section class="section-wraper flex-3-col">
+				<div class="col">
+					<ul>
+						<li>Company</li>
+						<li><a href="/about-us/">About Us</a></li>
+						<li><a href="/news/">News</a></li>
+						<li><a href="/contact/">Contacts</a></li>
+						<li><a href="/data-centers/">Data centers</a></li>
+						<li><a href="/feedback/">Feedback</a></li>
+						<li><a href="/careers/">Careers</a></li>
+					</ul>
+				</div>
+				<div class="col">
+					<ul class="a-l">
+						<li>DNS Services</li>
+						<li><a href="/premium/">Premium DNS</a></li>
+						<li><a href="/ddos-protected-plans/">DDoS Protected DNS</a></li>
+						<li><a href="/geodns/">GeoDNS</a></li>
+						<li><a href="/dns-failover/">DNS Failover</a></li>
+						<li><a href="/reverse-dns/">Reverse DNS</a></li>
+						<li><a href="/secondary-dns/">Secondary DNS</a></li>
+						<li><a href="/dynamic-dns/">Dynamic DNS</a></li>
+						<li><a href="/dnssec/">DNSSEC</a></li>
+						<li><a href="/enum-dns-zones/">ENUM DNS zones</a></li>
+					</ul>
+				</div>
+				<div class="col a-r">
+					<ul class="a-l">
+						<li>Services</li>
+						<li><a href="/managed-dns/">Managed DNS</a></li>
+						<li><a href="/anycast-dns/">Anycast DNS</a></li>
+						<li><a href="/enterprise-dns/">Enterprise DNS</a></li>
+						<li><a href="/private-dns-servers/">Private DNS servers</a></li>
+						<li><a href="/domain-pricing-list/">Domain names</a></li>
+						<li><a href="/ssl-certificates/">SSL Certificates</a></li>
+						<li><a href="https://www.cloudprima.com/?utm_source=footer&amp;utm_campaign=ClouDNS+Web" target="_blank">DDoS Protected VPS</a></li>
+					</ul>
+				</div>
+			</section>
+
+			<section class="section-wraper flex-3-col">
+				<div class="col">
+					<ul>
+						<li>KnowledgeBase</li>
+						<li><a href="https://www.cloudns.net/blog/">Blog</a></li>
+						<li><a href="/wiki/">Wiki</a></li>
+						<li><a href="/features/">Features</a></li>
+						<li><a href="/faq/">FAQ</a></li>
+						<li><a href="/api-help/">HTTP API</a></li>
+						<li><a href="/whmcs-module/">WHMCS module</a></li>
+						<li><a href="/hostbill-module/">Hostbill module</a></li>
+						<li><a href="/domain-parking/">Domain parking</a></li>
+						<li><a href="/payment-methods/">Payment methods</a></li>
+					</ul>
+				</div>
+				<div class="col">
+					<ul class="a-l">
+						<li>Partnership</li>
+						<li><a href="/affiliate/">Affiliate Program</a></li>
+						<li><a href="/resellers-api/">Resellers API</a></li>
+					</ul>
+					<br>
+					<ul class="a-l">
+						<li></li>
+						<li><a href="http://www.icann.org/en/resources/registrars/registrant-rights/educational" target="_blank">Registrant Educational Materials</a></li>
+						<li><a href="http://www.icann.org/en/resources/registrars/registrant-rights/benefits" target="_blank">Registrant Benefits and Responsibilities</a></li>
+						<li><a href="http://www.internic.net/whois.html" target="_blank">Whois</a></li>
+					</ul>
+				</div>
+								<div class="col a-r social-links">
+					<ul>
+						<li>Social connection</li>
+						<li>
+							<a href="http://www.facebook.com/cloudns" target="_blank" class="sl-fb"></a>
+							<a href="http://www.twitter.com/ClouDNS" target="_blank" class="sl-twitter"></a>
+							<a href="https://github.com/ClouDNS" target="_blank" class="sl-git-hub"></a>
+							<a href="https://www.linkedin.com/company/cloud-dns-ltd" target="_blank" class="sl-li"></a>
+							<a href="https://vk.com/cloudns" target="_blank" class="sl-v-kontakt"></a>
+							<a href="https://www.youtube.com/c/CloudnsNet" target="_blank" class="sl-youtube"></a>
+						</li>
+					</ul>
+				</div>
+							</section>
+
+			<section class="wraper flex-2-col">
+				<div class="col">
+					<a href="/tos/">Terms of service</a>&nbsp; | &nbsp;
+					<a href="/privacy-policy/">Privacy Policy</a><br><br>
+					<p>©2019  ClouDNS</p>
+				</div>
+				<div class="col a-r">
+					<a href="https://www.cloudns.net/" class="footer-logo"></a><br>
+				</div>
+			</section>
+			<section class="wraper">
+				<p class="a-c">
+					All prices are final and include all required taxes. No other hidden charges!				</p>
+			</section>
+		</footer>
+		
+		<a href="/livechat/">
+			<div class="livechat-footer">
+				<img src="/images/web/live-chat.png" style="width:9px">
+				Online - Live Chat
+			</div>
+		</a>
+		
+				<div id="cookiesAlert" class="acenter" style="background-color: #d5d5d5; opacity:0.8; padding:10px; position:fixed; bottom:0; left:0; width:100%;">
+			Cookies help us deliver our services. By using our services, you agree to our use of cookies. <a href="/privacy-policy/">Learn more</a> <button class="round-btn s-btn dark-btn" onclick="hideCookiesAlert();">Okay</button>
+		</div>
+		
+				<script type="text/javascript">
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-1653088-9', 'cloudns.net');
+		ga('require', 'displayfeatures');
+		ga('require', 'linkid', 'linkid.js');
+				ga('send', 'pageview');
+		</script>
+				
+		<script type="application/ld+json">
+		{ "@context" : "http://schema.org",
+			"@type" : "Organization",
+			"name" : "ClouDNS",
+			"url" : "https://www.cloudns.net/",
+			"logo": "https://www.cloudns.net/images/logo/logo-white-net-155x68.png",
+			"sameAs" : [
+				"http://www.facebook.com/cloudns",
+				"http://www.twitter.com/ClouDNS",
+				"https://github.com/ClouDNS",
+				"https://vk.com/cloudns",
+				"https://www.linkedin.com/company/cloud-dns-ltd",
+				"https://www.youtube.com/c/CloudnsNet"
+			]
 		}
+		</script>
+	
 
-                //valid obj isntantiated in header.tpl
-                valid_obj.search_form = {
-				debug: false,
-				onKeyUp: true,
-				onfocusout: false,
-				errorElement: "span",
-				errorClass: "errForm",
-				submitHandler: function(form) {
-					// do other stuff for a valid form
-					if ($("#search_form").valid()) {
-						form.submit();
-					}
-				},
-
-				"rules": {search: {"required":true}}, "messages": {}
-		};
-
-		$("#search_form").validate(valid_obj.search_form);
-
-                var selects = $("#search_form").find("select");
-                var crt;
-                $.each(selects, function() {
-                    crt = this.id;
-                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
-                        $("#"+crt).change(function() {
-                          $(this).valid();
-                        });
-                    }
-                });
-	});
-});
-</script>
-<div class="header">
-<div class="center">
-<div class="headerLogo">
-<a href="/"><img src="/templates/biz22_blue/images/logo.png" border="0" alt="logo"></a>
-</div>
-</div>
-</div>
-<div class="hMenuContainer">	<div class="center">		<div class="hMenu">		<img src="/templates/biz22_blue/images/hMenuSeparator.gif" alt="">		<a href="/index.php">Home</a>			<img src="/templates/biz22_blue/images/hMenuSeparator.gif" alt="">			<a href="/submit.php" title="Submit your link to the directory">Submit Link</a>			<img src="/templates/biz22_blue/images/hMenuSeparator.gif" alt="">						<a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a>			<img src="/templates/biz22_blue/images/hMenuSeparator.gif" alt="">						<a href="/index.php?list=top" title="Browse most popular links">Top Hits</a>			<img src="/templates/biz22_blue/images/hMenuSeparator.gif" alt="">			<a href="/contact.php" title="Contact directory owner">Contact</a>						<img src="/templates/biz22_blue/images/hMenuSeparator.gif" alt="">			<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced Search</a>			       			<img src="/templates/biz22_blue/images/hMenuSeparator.gif" alt="">						 		</div>	</div></div><div class="path">			   	   	   	      <a href="/" style="font-weight: bold;">A-Flat Web Directory</a>	   		   	    <img src="/templates/biz22_blue/images/pathArrow.gif" alt=" - "> 	   	      Privacy Policy	   	</div><div class="center1">	<div class="leftContainer" style="width: 215px; ">
-<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
-<li id="8">
-<div class="box">
-<div class="boxtopom">Top Categories</div>
-<div class="boxMiddle">		<ul class="boxPopCats">
-<li>
-<a href="/arts_/" title="Arts">Arts</a>
-</li>
-<li>
-<a href="/blogs/" title="Blogs">Blogs</a>
-</li>
-<li>
-<a href="/business_and_economy/" title="Business &amp; Economy">Business &amp; Economy</a>
-</li>
-<li>
-<a href="/computers_and_internet/" title="Computers &amp; Internet">Computers &amp; Internet</a>
-</li>
-<li>
-<a href="/education/" title="Education">Education</a>
-</li>
-<li>
-<a href="/entertainment/" title="Entertainment">Entertainment</a>
-</li>
-<li>
-<a href="/health/" title="Health">Health</a>
-</li>
-<li>
-<a href="/news_and_media/" title="News &amp; Media">News &amp; Media</a>
-</li>
-<li>
-<a href="/recreation/" title="Recreation">Recreation</a>
-</li>
-<li>
-<a href="/reference/" title="Reference">Reference</a>
-</li>
-<li>
-<a href="/science_and_technology/" title="Science and Technology">Science and Technology</a>
-</li>
-<li>
-<a href="/shopping/" title="Shopping">Shopping</a>
-</li>
-<li>
-<a href="/society/" title="Society">Society</a>
-</li>
-<li>
-<a href="/sports_/" title="Sports">Sports</a>
-</li>
-</ul>
-</div>
-<div class="boxBottom"></div>
-</div>		</li>
-<li id="11">
-<div class="box">
-<div class="boxtopom">Latest featured links</div>
-<div class="boxMiddle">			 <ul class="boxPopCats">
-<li>
-<a href="                                                /detail/blu-realty-group-nyc-151630.htm" title="Read more about: BLU Realty Group NYC">BLU Realty Group NYC</a>
-</li>
-<li>
-<a href="                                                /detail/riverside-personal-injury-attorney-151148.htm" title="Read more about: Riverside Personal Injury Attorney">Riverside Personal Injury A...</a>
-</li>
-<li>
-<a href="                                                /detail/computer-careers-150850.htm" title="Read more about: Computer Careers">Computer Careers</a>
-</li>
-<li>
-<a href="                                                /detail/reston-coach-bus-company-147199.htm" title="Read more about: Reston Coach Bus Company">Reston Coach Bus Company </a>
-</li>
-<li>
-<a href="                                                /detail/reston-coach-transportation-147198.htm" title="Read more about: Reston Coach Transportation">Reston Coach Transportation</a>
-</li>
-<li>
-<a href="                                                /detail/buy-a-cat-house-from-cozycatfurniture-com-146469.htm" title="Read more about: Buy a Cat House from Cozycatfurniture.com">Buy a Cat House from Cozyca...</a>
-</li>
-<li>
-<a href="                                                /detail/definingelegance-com-luxury-bedding-and-duvets-and-decorative-pillows-and-area-rugs-145661.htm" title="Read more about: DefiningElegance.com Luxury Bedding &amp; Duvets &amp; Decorative Pillows &amp; Area Rugs">DefiningElegance.com Luxury...</a>
-</li>
-<li>
-<a href="                                                /detail/education-degrees-143397.htm" title="Read more about: Education Degrees">Education Degrees</a>
-</li>
-<li>
-<a href="                                                /detail/cowhide-rugs-by-city-cows-134931.htm" title="Read more about: Cowhide Rugs by City Cows">Cowhide Rugs by City Cows</a>
-</li>
-<li>
-<a href="                                                /detail/find-vocational-schools-133194.htm" title="Read more about: Find Vocational Schools">Find Vocational Schools</a>
-</li>
-</ul>
-</div>
-<div class="boxBottom"></div>
-</div>		</li>
-<li id="14">
-<div class="box">
-<div class="boxtopom">Partner Directories</div>
-<div class="boxMiddle">		<center>
-<ul class="boxPopCats" style="text-align: left;">
-<li><a href="http://www.fastdirectorylist.com">Free Directory List</a></li>
-<li><a href="http://www.directorycritic.com">Listings of Directories</a> - Choose from a large selection of online web directories. Every directory list on the site is managed by an independent team of reviewers, ensuring the list quality is maintained.</li>
-<li><a href="http://www.gateway-worldwide.com/">PR5 Gateway-Worldwide Premium Website Directory</a></li>
-<li><a href="http://viesearch.com/">Viesearch - Life powered search</a></li>
-<li><a href="http://www.firectory.com">Firectory Directory</a></li>
-<li><a href="http://www.a-flat.org/business_and_economy/finance_and_investment/debt_advice/">Debt Advice and Counselling</a></li>
-</ul>
-</center>
-</div>
-<div class="boxBottom"></div>
-</div>		</li>
-<br>
-</ul>
-</div>		<div class="centerContainer">		<div class="searchBox"><form class="searchk" action="/index.php" method="get" id="search_form">			<table>			<tbody><tr>				<td>										<input class="searchInput" type="text" name="search" maxlength="300" value="">				</td>				<td>																	<button class="searchBtn" type="submit"></button>														</td>			</tr>			</tbody></table>		</form></div>		<div class="centerContainerT"></div>			<div class="centerContainerM"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li>						</li></ul><table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><strong>Privacy Policy</strong><br><br>The following describes the Privacy Policy for our website.<br><br><strong>Your Privacy</strong><br>Your  privacy is important to us.&nbsp; To  better protect your privacy we provide this notice explaining our online  information practices and the choices you can make about the way your  information is collected and used.&nbsp; You agree to agree to these policies  by virtue of using our website in a way that leads to you providing us  with personal information.<br><br><strong>State Law &amp; Accompanying Rights:</strong><br>Please  understand that you may have additional rights originating from State  laws based on where you live.&nbsp; These State-based rights may augment,  strengthen, or otherwise somehow compliment any privacy rights you have  inherently or under Federal law.&nbsp; Our policy is to comply fully with the  privacy policies of every jurisdiction in which we operate.&nbsp;  Accordingly, you are free to <a rel="nofollow" href="/contact.php">contact us</a> at any time to assert any State rights.<br><br><strong>Our Commitment To Children's Privacy:</strong><br>Protecting  the privacy of the very young is especially important. For that reason,  our website will never collect or maintain information at our website  from those we actually know are under 18, and no part of our website is  structured to attract anyone under 18.<br><br>Under our Terms of Service  and Conditions of Use, children under 18 are not allowed to use our  website and access our services.&nbsp; It is not our intention to offer  products or services to minors.<br><br><strong>Collection of Personal Information:</strong><br>When  visiting our website, the IP address used to access our website may be  logged along with the dates and times of access. This information is  purely used to analyze trends, administer our website, track users  movement, and gather broad demographic information for internal use such  as statistical assessments and website improvement. Most importantly,  any recorded IP addresses are not linked to personally identifiable  information.<br><br>Other information may be collected as well, which is rather typical of most websites.&nbsp;  For instance, the source that referred you to our website is generally  known.&nbsp; Likewise, your duration on our website, and your destination  when you leave our website can also be tracked.&nbsp; Other common data  collected includes the type of operating system the computer you are  using to access our website has.&nbsp; Similarly, the type of web browser is  often noted.&nbsp; Again, this is common data collection, and helps  ultimately produce a better end-user experience.<br><br>Cookies are  another common internet practice.&nbsp; Cookies are a key means of improving  user experience by allows us to customize your use of our website.&nbsp;  Simple information is transferred to your computer to allow the content  and experience to reflect your actions,  preferences, and so on.&nbsp; You should simply make the assumption our  website uses cookies, and note that you are free to make adjustments in  your web browser to disable these or otherwise receive notification of  cookies so you can take whatever desired action you so choose.&nbsp; Please  understand that refusing cookies may cripple some of our website  features and render some aspects useless to you.<br><br>At times, you  will be fully aware of information received, as you are the direct  source providing it.&nbsp; For instance, you may comment on a blog post,  reply to an email (whether broadcast message or autoresponder), provide  an email address, complete a survey, requests SMS, or otherwise.&nbsp;  Likewise, purchases necessarily involvecollecting certain information,  such as credit card information, Paypal addresses, your physical address  for billing and/or shipping, phone number, and so on.&nbsp; Refusing to  provide some of this information may lead to us being unable to provide  you with the products or services you’ve requested.<br><br>A prime  example of limited access to our website is where some content may be protected by a username and  password.&nbsp; Whether a username and password is generated by our website,  or created by you, these will almost always be connected with some other  information related to or connected with you.&nbsp; This is true since much  content that is protected on the internet is subscription based, often  paid for.&nbsp; Thus, the username and password must necessarily be tied to  your other account data.&nbsp; Usernames and passwords, by their very nature,  should be kept private.&nbsp; <br><br><strong>Handling of Personal Information:</strong><br>Note  that any personal information you provide to others apart from us or  our vendors is wholly optional.&nbsp; As an example, you might disclose  something in a blog post comment.&nbsp; That “private” information is now  “public,” and we have no control over that.&nbsp; In like fashion, you  sharing information with any other third party not functioning as a  service provider to us puts that information beyond our control and  becomes subject to the policy that party has in place.<br><br>Our primary intention for collecting personal and private information from you is simply to conduct our business.&nbsp; &nbsp;<br>We  can use this internally to better serve you.&nbsp; Accordingly, we see no  reason to share your personal information to other parties and outside  interests unless you have authorized us to do so.&nbsp; Of course, there are  instances where your information is stored with third party service  providers, such as email service providers, as they provide services  that are industry-leading in quality and security and are far more  beneficial to our end user than attempting such services “in-house.”&nbsp;  However, you are never required to deal with any such third party  directly, they are limited in how they use your information, and they  cannot sell or transfer it to others in any way.<br><br>However, of  course, your information does comprise part of an overall whole.&nbsp; This  aggregate of information, by contrast, may be used to understand our  overall user base.&nbsp; Further, we may share this information about our  website visitors as a whole, not individually, with third parties for  various purposes, in our sole discretion.<br><br>While we are staunch  privacy advocates, there are times  when even we may be forced to abandon these ideals.&nbsp; Just as major  search engines face ongoing compulsion to provide data against their  will, so too may the same occur with our  website.&nbsp; Illegal activity or other serious acts or allegations could  create legal liability for our website.&nbsp; In those cases, we reserve the  right to share your information, or else may simply be compelled to do  so by law.&nbsp; On the other hand, there may be times when we would need to  share your private information in order to protect our own interests.&nbsp;  For instance, in cases of suspected or alleged copyright infringement or  other intellectual property violations, it may be necessary to share  personal information.<br><br><strong>Google Adsense and the DoubleClick DART Cookie:</strong><br>Google,  as a third party advertisement vendor, may use cookies to serve ads on  this website.&nbsp; The use of DART cookies by Google  enables them to serve adverts to visitors that are based on their visits  to this website, including past visits, as well as other websites on  the internet.<br><br>To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url:&nbsp; <a rel="nofollow" href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a>. Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.<br><br>Other  Third Party ad servers or ad networks may also use cookies to track  users activities on this website to measure advertisement effectiveness  and other reasons that will be provided in their own privacy policies,  our website has no access or control over these cookies that may be used  by third party advertisers.&nbsp; However, you can opt out of some, though  likely not all, of these cookies in one easy location at <a rel="nofollow" href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a><br><br><strong>Links to Third Party Websites:</strong><br>We  have included links on this website for your use and reference. We are  not responsible for the privacy policies on these websites. You should  be aware that the privacy policies of these websites may differ from our  own. <br><br><strong>CHANGE NOTICE:</strong> As with any of our administrative  and legal notice pages, the contents of this page can and will change  over time.&nbsp; Accordingly, this page could read differently as of your  very next visit.&nbsp; These changes are necessitated, and carried out by us, in order to protect you and our website.&nbsp; If this page is important to you, you  should check back frequently as no other notice of changed content will  be provided either before or after the change takes effect.<br><br><strong>COPYRIGHT WARNING: </strong>The  legal notices and administrative pages on this website, including this  one, have been diligently drafted by an attorney.&nbsp; We have paid to license the use of these legal  notices and administrative pages on this website for your  protection and ours.&nbsp; This material may not be used in any way for any  reason and unauthorized use is policed via Copyscape to detect  violators.<br><strong><br>QUESTIONS/COMMENTS/CONCERNS:</strong> If you have any  questions about the contents of this page, or simply wish to reach us  for any other reason, please do not hesitate to <a rel="nofollow" href="/contact.php">contact us</a>.</p></td></tr><tr><td></td></tr></tbody></table>
-<div style="clear: both"></div>													<li id="30">																<center>
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-9142106534754916";
-/* Aflat Adzone 1 468 */
-google_ad_slot = "4350382646";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</center>																</li>														</div>		<div class="centerContainerB"></div>	</div>				<div class="rightContainer">
-<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
-<li id="20">
-<div class="box">
-<div class="boxtopom">Advertisement</div>
-<div class="boxMiddle">		<center>
-</center>
-</div>
-<div class="boxBottom"></div>
-</div>		</li>
-<li id="26">
-Partner Directories
-<br>
-<center>
-<p><a href="http://www.vmoptions.com/"><img src="http://a-flat.org/images/vmo100.png"></a></p>
-</center>
-</li>
-</ul>
-</div>			<div style="clear: both; height: 30px;"></div></div><div id="footer">		<p>Copyright © 2013 <a href="/">A-Flat Web Directory</a>; <a href="/privacy_policy.html" rel="no follow" title="Privacy Policy">Privacy Policy</a>; <a href="/terms_of_service.html" rel="no follow" title="Terms of Service">Terms of Service</a><br>	Designed by <a href="http://www.mitredesign.co.uk" title="phpld templates">Mitre Design</a> 	<strong> |</strong>	 c aceitltd  <strong>| </strong>  Powered by  <a href="http://www.phplinkdirectory.com/" title="PHP Link Directory">PHPLD </a><br>	<br>		</p></div><script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-38078267-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script></body></html>
+<div id="tooltip" style="display: none;"><h3></h3><div class="body"></div><div class="url"></div></div></body></html>
