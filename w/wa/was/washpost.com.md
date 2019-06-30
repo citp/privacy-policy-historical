@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washpost.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231150914id_/https%3A//www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washpost.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221748id_/https%3A//www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Washington Post
 
