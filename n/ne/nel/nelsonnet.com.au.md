@@ -1,86 +1,85 @@
-> *The following text is extracted and transformed from the nelsonnet.com.au privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406120927id_/https%3A//cengage.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nelsonnet.com.au privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630085253id_/https%3A//cengage.com.au/privacycentre) for the most accurate reproduction.*
 
-# Privacy | Cengage Learning Australia
+# PrivacyCentre | Cengage Australia
 
-### PRIVACY STATEMENT FROM CENGAGE LEARNING AUSTRALIA
+#### **About this Privacy Policy**
 
-Cengage Learning Australia (CLA) is committed to the responsible and transparent use of private information. We recognise the importance of privacy to the community and to individuals who trust us with their personal and sensitive information. We commit to collecting, using, storing and disclosing this information in a lawful and responsible manner.
+We understand and appreciate that privacy is a major concern for individuals who trust us with their personal and sensitive information, as it is for us. 
 
-Cengage Learning Australia will act in accordance with The Commonwealth Privacy Act 1988 and the Australian Privacy Principles, which came into effect on 12th March 2014. The Australian Privacy Principles stipulate how private sector organisations should manage the collection, use and disclosure of personal information.
+This policy details our commitment to the responsible and transparent use of private information. We commit to collecting, using, storing and disclosing this information in a lawful and responsible way. 
 
-##### What kind of information does Cengage Learning Australia collect?
+Please read this policy carefully to understand how we will treat your personal information.  It describes what you can do if you have any concerns or complaints about the way we collect or process personal information. 
 
-The personal information that Cengage Learning Australia may collect about you includes (but is not limited to) your name, email address, phone number, address, gender, age, date of birth, and occupation.
+We will act in accordance with the Commonwealth Privacy Act 1988, the New Zealand Privacy Act 1993 and, to the extent it is relevant, the General Data Protection Regulation (GDPR) 2016/679 that stipulate how organisations should manage the collection, use and disclosure of personal information.   
 
-You understand and agree that Cengage Learning Australia may hold personal information about you, for the purposes of administering the terms of your contractual arrangement (verifying your identity, processing royalties or payments), and financial information (such as your credit card details) for the purposes of conducting business transactions with you.
 
-##### A special note about children
+GDPR applies to Cengage Australia as Cengage have offices in the European Union. When processing your personal information, our lawful basis is:
 
-Cengage Learning Australia does collect information about children in order to deliver a product or service but it is only for that purpose and we do not use the information to market to children. 
-
-##### How does Cengage Learning Australia collect and hold your personal information?
-
-In most instances, we will collect information from you directly through forms you may complete, phone calls, emails and other correspondence, application forms, subscriptions, promotional materials, surveys, questionnaires and business cards.
-
-We may collect information about you when you purchase a product or service from us or engage with us on social media (e.g. blogs and forums).
-
-Sometimes, we collect information from third parties, including sales representatives, schools and educational bodies.
-
-We may also collect information when you use our websites. Like most commercial websites, we use standard ‘cookie’ technology and web server logs to collect information about how our websites are used. Cookies are small files that are stored on your computer. Cookies help our websites to recognise computers that have accessed our websites and use this information to improve the websites as well as your experience when using them. For example, cookies allow you to move more easily from page to page on our websites by remembering information gathered while you have been using the website.
-
-Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our website and the websites visited just before and just after our website. This information is collected on an aggregate basis, and also may be associated with your personal information.
-
-In order to access or buy some of our products and services you understand and agree that you may be asked to provide Personal Identifying Information as part of a registration process and at other points, and that we will store information that you provide. In the course of our business we will use that information in aggregated form to provide statistical user data to assist our understanding of the usage of our products and services. 
-
-At various points in using our websites you may also need to provide additional Personal Identifying Information so that we can perform tasks you request, such as fulfilling orders. We will not disclose to third parties any specific Personal Identifying Information about you without your permission.
-
-You understand and agree that we may use your Internet Protocol (IP) address to identify your geographical location and that this may be used, for example, to diagnose and resolve problems accessing our products and services or in aggregate to understand where our products and services are being used. Your IP address may also be used when you are buying our products to ensure that you only buy products that we are entitled to sell in your location.
-
-##### What is the purpose for collecting, holding, using and disclosing your personal information?
-
-The primary reasons for us to collect your personal information are to communicate with you about our products and services and to conduct business transactions with you.
-
-You understand and agree that if you decide not to provide the information requested, we may not be able to provide you with the products and services that require that information. For example, if you decide not to provide your email address, we will be unable to provide marketing offers that are email based.
-
-The following are some ways that we use your personal information:
-
-  * to determine if you are eligible to receive certain products (such as teachers’ guides) or services.
-  * to conduct business with you 
-  * to comply with the law
-  * to verify your identity
-  * to ensure that you are complying with our terms and conditions
-  * to provide you with information about new and existing products and services
-  * to customise offers specifically for your needs
-  * to communicate with you (usually via email, phone or mail)
-  * to conduct competitions and promotions
-  * to learn about your experiences with our products and services by conducting surveys and questionnaires
+  * Legitimate interest to fulfil any contractual agreements between you and us if you are an existing or prospective customer
+  * Consent obtained prior to promoting our services to you
 
 
 
-##### Do we disclose personal information to overseas recipients?
+#### **What kinds of information do we collect?**
 
-For certain products and applications your personal information may be stored on systems that are hosted or administered by our parent company, Cengage Learning, which is based in the United States.
+The Personal Information we collect is for the purposes of administering the terms of your service/s and conducting business transactions with you. This information includes (but is not limited to)
 
-##### Opting Out
+**Personal information** | **Use**  
+---|---  
+Name  | To create an account and, subsequently, verify your identity   
+Email address  | To identify you on login to our applications and contact you (including for surveys, competitions or promotions)   
+Address  | To send materials to you or communicate with you   
+Phone number  | To call or send SMS messages   
+Dare of birth/age  | To determine appropriate data retention rules to apply to your account   
+Occupation  | To customise offers   
+School affiliation  | To target materials accurately to your needs   
+Area of study  | To provide you with information about new or existing products and services   
+Grades  | To support your teacher's tuition   
+Expected graduation date  | To ensure that you are complying with our terms and conditions   
+Purchase history  | To support product queries   
+Content use  | To determine time spent on materials and in-product assessments   
+Credit card information  | To transfer to our third-party payment provider (this information is never stored by us)   
+Banking information  | To process royalty payments   
+  
+#### **A special note about children**
 
-You may elect not to receive future communications by sending an e-mail stating your wishes to anz.customerservice@cengage.com
+We collect information about children in order to deliver a product or service. We do not market to children. Parents must consent to the collection and use of personal information for any child under the age of 18.
 
-##### How can you access personal information held by CLA, and correct that information if needed?
+#### **How do we protect personal information?**
 
-You may contact us to update your personal information, or request access to the personal information that Cengage Learning Australia holds about you. In the first instance, please contact our Customer Service department via email on anz.customerservice@cengage.com. You may also contact us via the Contact Us link on our website, www.cengage.com.au, our telephone number, 1300 790 853, or by writing to us at the address listed below.
+We are committed to protecting the security of your personal information and we take all reasonable precautions to protect it from unauthorised access, modification or disclosure. We will also take all reasonable steps to ensure vendors comply with secure handling of your personal information.
 
-##### How can you raise a concern or complaint about how CLA has collected, used or disclosed your personal information?
+We employ website encryption on pages that contain personal information and encrypt personal data at rest.
 
-If you have concerns or would like to make a complaint about the way that Cengage Leaning Australia has collected, used, stored or disclosed or otherwise handled your personal information, please contact the Cengage Privacy Officer at:
+We encourage the use of complex passwords (incorporating upper and lower case letters, at least eight characters, at least one special character and at least one number) to secure user accounts. 
 
-Sandra Hamilton  
-Privacy Officer  
-Cengage Learning   
-Level 7, 80 Dorcas Street  
-South Melbourne Vic 3205
+#### **Notification of data breach**
 
-Tel: 03 9094 9140  
-Fax: 1300 790 852  
-Email: [sandra.hamilton@cengage.com](mailto:sandra.hamilton@cengage.com)
+In accordance with obligations under relevant data protection laws, we will inform the competent regulatory authority and affected individuals without undue delay in the event of a personal information data breach.  We will provide all relevant information relating to the data breach as part of our notification. We will use reasonable endeavours to assist you in mitigating the adverse effects of any data breach.
 
-### Unsubscribe From Marketing Material
+#### **How do we disclose personal information?**
+
+We may disclose personal information to provide services to you (for example, we outsource mailing to a courier and will provide your personal information accordingly when you purchase material from us to send that material to you) and to advise you about our new or existing services.
+
+We engage with third party applications including, but not limited to, ServiceNow, Google Analytics, Dynatrace and Splunk to provide customer support, website usage information, application performance and security monitoring functions. Some of these applications may contain personal information.
+
+We may also disclose personal information when required by law.
+
+#### **Do we transfer personal information to overseas recipients?**
+
+We may transfer personal information to the United States, as necessary to provide services. In this instance we have standard contractual data protection clauses in place to protect your data.
+
+#### **Rights of individuals**
+
+**Right** | **Details**  
+---|---  
+Quality of information  | We will take reasonable steps to ensure the personal information we hold about you is accurate, up-to-date and complete.   
+Access to personal information  | You can access the personal information we hold about you. Your personal information will usually be available within 14 business days of your request (subject to allowable exemptions). We will let you know if additional time is required.   
+Rectifying personal information  | You have a right to ask us to correct any inaccurate personal information we hold about you. We will take reasonable steps to correct your personal information to ensure it is accurate, up-to-date, complete, relevant and not misleading.   
+Erasing personal information  | Where one of the grounds specified in Article 17 of the GDPR applies, you have a right to ask us to erase any personal information we hold about you.  We will do that without undue delay.   
+Right to withdraw consent  | Where applicable under GDPR, if we have collected and processed any personal information on the basis of your consent, then you can withdraw your consent at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.   
+Right to object and data portability  | Where applicable under GDPR, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information to another provider.   
+Right to object to automated profiling  | Where applicable under GDPR, you can object to decisions being taken based solely on automated means, including profiling, which produce legal effects concerning you or similarly significantly affect you.   
+Exercising rights  | You can exercise any of these rights by contacting us using the contact details provided below.  We may require evidence of your identity when processing your request to access, rectify, erase, port or cease profiling your personal information. We will process your request as soon as reasonably practicable, provided we are not otherwise prevented from doing so on legal grounds. If we are unable to meet your request, we will let you know why.   
+  
+* * *
