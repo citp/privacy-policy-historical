@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foursixty.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223111456id_/https%3A//foursixty.com/460/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foursixty.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211759id_/https%3A//foursixty.com/460/privacy) for the most accurate reproduction.*
 
 # Foursixty
 
@@ -64,6 +64,12 @@ Please note that even if you opt-out interest-based advertising by a third party
 
 We offer individuals the opportunity to engage with us on or through third-party social networking websites, plug-ins and applications. When individuals engage with our content on or through third-party social networking websites, plug-ins and applications, they may allow us to have access to certain information associated with their social media account (e.g., name, username, email address, profile picture, gender) to deliver the content or as part of the operation of the website, plug-in or application. 
 
+**Google Drive**
+
+Available upon request (contact **[ help@foursixty.com ](mailto:help@foursixty.com) ** for pricing information), Foursixty can import content from Google Drive. After you grant the Foursixty app read-only access to your Google Drive account, you will be able to manage a list of folders visible to that account: Foursixty will monitor these folders for image and video files, and will transfer any such files to our Content Delivery Network for display in your Foursixty galleries. 
+
+By connecting your Google Drive account to Foursixty, you grant us permission to transfer and store your media files for the purpose of displaying your Foursixty galleries. To revoke this permission you may delete the associated Foursixty posts and/or networks, after which your content will be removed from our Content Delivery Network in a timely manner. 
+
 **Transfers and Disclosures of Personal Information**
 
 Foursixty does not disclose, trade, rent, sell or otherwise transfer personal information, except as set out in this Privacy Policy.
@@ -92,4 +98,4 @@ This Privacy Policy may be updated periodically to reflect changes to our person
 
 Please contact Foursixty at [help@foursixty.com](mailto:help@foursixty.com) with any questions or concerns that you may have about this Privacy Policy or the manner in which personal information is collected, used, disclosed and otherwise managed by Foursixty or our service providers.
 
-Last updated: July 4th, 2018
+Last updated: April 27th, 2019
