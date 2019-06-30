@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonobi.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223224915id_/http%3A//sonobi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonobi.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235530id_/https%3A//sonobi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sonobi
 
@@ -124,7 +124,7 @@ We also automatically create and record the following information when you visit
 
 Where cookies are used, you may block these at any time. To do so, you can activate the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies), you may not be able to access all or parts of our clients’ websites or to use all the functionality provided through their websites.
 
-For detailed information on the cookies we use and the purposes for which we use them, please refer to our cookies policy here [LINK TO COOKIES POLICY].
+For detailed information on the cookies we use and the purposes for which we use them, please refer to our cookies policy here [Cookies Policy](https://sonobi.com/wp-content/uploads/2019/02/Sonobi-Cookie-Policy.pdf).
 
 _How we use your personal information_. We will collect, use and store the personal information listed above for the following reasons:
 
@@ -210,14 +210,14 @@ To comply with our legal obligations. Our use of your personal information is ne
 
 For our legitimate interests. Where neither (a) nor (b) apply, use of your personal information is necessary for our legitimate interests or the legitimate interests of others. Our legitimate interests are to:
 
-  * run, grow and develop our business;
-  * provide our services to clients, make and receive payment and provide client services;
-  * target you with advertising content that is relevant to you;
-  * obtain and share data in order to get a better sense of your interests, to help inform advertising that we serve to you;
-  * operate our website;
-  * select appropriately skilled and qualified suppliers;
-  * marketing, market research and business development; and
-  * for internal administrative purposes.
+  * Run, grow and develop our business;
+  * Provide our services to clients, make and receive payment and provide client services;
+  * Target you with advertising content that is relevant to you;
+  * Obtain and share data in order to get a better sense of your interests, to help inform advertising that we serve to you;
+  * Operate our website;
+  * Select appropriately skilled and qualified suppliers;
+  * Marketing, market research and business development; and
+  * For internal administrative purposes.
 
 
 
@@ -231,7 +231,7 @@ We may process your personal information in some cases for marketing purposes on
 
 ### **Withdrawing your consent**
 
-If we rely on your consent for us to use your personal information in a particular way, but you later change your mind, you may withdraw your consent by contacting us at [ _insert relevant email address_ ] and we will stop collecting and using your personal information.
+If we rely on your consent for us to use your personal information in a particular way, but you later change your mind, you may withdraw your consent by contacting us at privacy@sonobi.com and we will stop collecting and using your personal information.
 
 ## **4.** **How and why we share your personal information with others**
 
@@ -243,13 +243,13 @@ We may share your personal information with our group companies where it is in o
 
 We will share your personal information with the following third parties or categories of third parties:
 
-  * media brands/publishers to which we provide our services, or prospective media brands/publishers;
-  * advertisers/agencies to which we provide our services, or advertisers/agencies;
-  * our affiliates, agents and business partners (in aggregated form);
-  * our other service providers and subcontractors, including but not limited to data hosting providers, data storage providers, payment processors, suppliers of technical and support services and insurers;
-  * companies that assist us in our marketing, advertising, and promotional activities;
-  * analytics and search engine providers that assist us in the improvement and optimization of our website; and
-  * our parent company, subsidiaries, joint ventures or other companies under common control (for aggregation, analysis, and benchmarking purposes).
+  * Media brands/publishers to which we provide our services, or prospective media brands/publishers;
+  * Advertisers/agencies to which we provide our services, or advertisers/agencies;
+  * Our affiliates, agents and business partners (in aggregated form);
+  * Our other service providers and subcontractors, including but not limited to data hosting providers, data storage providers, payment processors, suppliers of technical and support services and insurers;
+  * Companies that assist us in our marketing, advertising, and promotional activities;
+  * Analytics and search engine providers that assist us in the improvement and optimization of our website; and
+  * Our parent company, subsidiaries, joint ventures or other companies under common control (for aggregation, analysis, and benchmarking purposes).
 
 
 
@@ -259,10 +259,10 @@ We will always ensure that any third parties with whom we share your personal in
 
 We will also disclose your personal information to third parties:
 
-  * where it is in our legitimate interests to do so to run, grow and develop our business. More specifically: if we sell or buy any business or assets, we may disclose your personal information to the prospective seller or buyer of such business or assets; or if substantially all of Sonobi’s or any of its affiliates’ assets are acquired by a third party, in which case personal information held by Sonobi will be one of the transferred assets;
-  * if we are under a duty to disclose or share your personal information in order to comply with any legal obligation, any lawful request from government or law enforcement officials and as may be required to meet national security or law enforcement requirements or prevent illegal activity;
-  * in order to enforce or apply our terms and conditions or any other agreement, or to respond to any claims, to protect our rights or the rights of a third party, to protect the safety of any person or to prevent any illegal activity; or
-  * to protect the rights, property, or safety of Sonobi, our staff, our clients or other persons. This may include exchanging personal information with other organizations for the purposes of fraud protection and credit risk reduction.
+  * Where it is in our legitimate interests to do so to run, grow and develop our business. More specifically: if we sell or buy any business or assets, we may disclose your personal information to the prospective seller or buyer of such business or assets; or if substantially all of Sonobi’s or any of its affiliates’ assets are acquired by a third party, in which case personal information held by Sonobi will be one of the transferred assets;
+  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, any lawful request from government or law enforcement officials and as may be required to meet national security or law enforcement requirements or prevent illegal activity;
+  * In order to enforce or apply our terms and conditions or any other agreement, or to respond to any claims, to protect our rights or the rights of a third party, to protect the safety of any person or to prevent any illegal activity; or
+  * To protect the rights, property, or safety of Sonobi, our staff, our clients or other persons. This may include exchanging personal information with other organizations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -329,8 +329,8 @@ Your personal information will be used, stored and/or accessed from our servers 
 
 Where any personal information about you is transferred to a non-EEA members supplier, client or partner, we will take appropriate measures to ensure that the recipient protects your personal information adequately in accordance with this privacy policy.  These measures may include the following cases permitted in Articles 45 and 46 of the General Data Protection Regulation:
 
-  * in the case of US based entities, entering into European Commission approved standard contractual arrangements with them, or ensuring they have signed up to the EU-US Privacy Shield (see further[ https://www.privacyshield.gov/welcome](https://www.privacyshield.gov/welcome)); or
-  * in the case of entities based in other countries outside the EEA, entering into European Commission approved standard contractual arrangements with them.
+  * In the case of US based entities, entering into European Commission approved standard contractual arrangements with them, or ensuring they have signed up to the EU-US Privacy Shield (see further[ https://www.privacyshield.gov/welcome](https://www.privacyshield.gov/welcome)); or
+  * In the case of entities based in other countries outside the EEA, entering into European Commission approved standard contractual arrangements with them.
 
 
 
@@ -340,7 +340,7 @@ Sonobi complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Pri
 
 Sonobi is subject to the investigatory and enforcement powers of the Federal Trade Commission. In compliance with the EU-U.S. and the Swiss-U.S. Privacy Shield Principles, Sonobi commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact Sonobi at [privacy@sonobi.com](mailto:privacy@sonobi.com).
 
-Sonobi is further committed to refer unresolved privacy complaints under the EU-U.S. and the Swiss-U.S. Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Sonobi, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. If these processes do not result in a resolution, you may also contact your local data protection authority, the U.S. Department of Commerce, and/or the Federal Trade Commission for assistance. If your complaint still remains unresolved, then you have the right to invoke binding arbitration by the Privacy Shield Panel upon written notice to Sonobi at [privacy@sonobi.com](mailto:privacy@sonobi.com).
+Sonobi is further committed to refer unresolved privacy complaints under the EU-U.S. and the Swiss-U.S. Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Sonobi, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. If these processes do not result in a resolution, you may also contact your local data protection authority, the U.S. Department of Commerce, and/or the Federal Trade Commission for assistance. If your complaint still remains unresolved, then you have the right to invoke binding arbitration by the Privacy Shield Panel upon written notice to Sonobi at [privacy@sonobi.com](mailto:privacy@sonobi.com). Pursuant to the Privacy Shield, Sonobi Inc remains liable for the transfer of personal data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages.
 
 ### **Further details**
 
