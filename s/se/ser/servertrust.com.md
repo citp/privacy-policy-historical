@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servertrust.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231085711id_/https%3A//www.volusion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servertrust.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224834id_/https%3A//www.volusion.com/privacy-policy) for the most accurate reproduction.*
 
 # Volusion Privacy Policy
 
@@ -184,17 +184,3 @@ Prior Versions
 If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us at [privacy@volusion.com](mailto:privacy@volusion.com). If elements of our Privacy Policy change, We will post the updated Privacy Policy on this website. If You are concerned about how your Personal Information is used, please visit Our site often for this and other important announcements about Volusion.
 
 We believe in providing a safe and secure shopping experience for all of our clients. We provide stringent and effective security measures on our website. It is our policy to never send private information, such as your credit card number, via e-mail, IM, chat or other unsecured means. In fact, this is a practice We recommend you adopt in all of Your Internet activities.
-
-Try it Free for 14 Days
-
-Get it all: a store builder, ecommerce software   
-and a marketing hub, all in one.
-
-Try it free for 14 days. No credit card required. Cancel anytime.
-
-Try it Free for 14 Days
-
-Get it all: a store builder, ecommerce software   
-and a marketing hub, all in one.
-
-Try it free for 14 days. No credit card required. Cancel anytime.
