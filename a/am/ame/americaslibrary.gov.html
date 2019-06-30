@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the americaslibrary.gov privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231215651id_/https%3A//www.loc.gov/legal%23privacy_publicity) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americaslibrary.gov privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630235051id_/https%3A//www.loc.gov/legal%23privacy_publicity) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" prefix="lc: http://loc.gov/#"><head>
 
@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="version" content="$Revision: 77985 $">
+<meta name="version" content="$Revision: 81937 $">
 <meta name="msvalidate.01" content="5C89FB9D99590AB2F55BD95C3A59BD81">
 <link title="schema(DC)" rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
 <meta name="dc.language" content="eng">
@@ -19,13 +19,11 @@
 
 <meta property="fb:admins" content="libraryofcongress">
 <meta property="og:site_name" content="The Library of Congress">
-<meta property="twitter:site" content="librarycongress">
 <meta property="og:type" content="article">
 
 
  
 
-    <meta property="twitter:card" content="summary">
 
     <title>
     
@@ -36,16 +34,12 @@
     </title>
     <meta name="dc.title" content="Legal &nbsp;|&nbsp;Library of Congress ">
     <meta property="og:title" content="Legal &nbsp;|&nbsp;Library of Congress ">
-    <meta property="twitter:title" content="Legal &nbsp;|&nbsp;Library of Congress ">
 
     
         <meta name="description" content="
 
 The Library of Congress's mission is to engage, inspire, and inform Congress and the American people with a universal and enduring source of knowledge and creativity. Our vision is that all Americans are connected to the Library of Congress. Our websites offer public access to a wide range of information, including historical materials that are products of their particular times, and may contain offensive language or negative stereotypes.">
         <meta property="og:description" content="
-
-The Library of Congress's mission is to engage, inspire, and inform Congress and the American people with a universal and enduring source of knowledge and creativity. Our vision is that all Americans are connected to the Library of Congress. Our websites offer public access to a wide range of information, including historical materials that are products of their particular times, and may contain offensive language or negative stereotypes.">
-        <meta property="twitter:description" content="
 
 The Library of Congress's mission is to engage, inspire, and inform Congress and the American people with a universal and enduring source of knowledge and creativity. Our vision is that all Americans are connected to the Library of Congress. Our websites offer public access to a wide range of information, including historical materials that are products of their particular times, and may contain offensive language or negative stereotypes.">
     
@@ -80,12 +74,10 @@ The Library of Congress's mission is to engage, inspire, and inform Congress and
 
 
 <!-- final fallback for pages with no media -->
-<meta property="og:image" href="http://www.loc.gov/static/images/apple-touch-icon.png?77985.79268">
-<meta property="og:image:secure_url" content="https://www.loc.gov/static/images/apple-touch-icon.png?77985.79268">
-<meta property="og:image:type" content="image/png">
-<meta property="og:image:width" content="194">
-<meta property="og:image:height" content="187">
-<meta property="twitter:image" href="https://www.loc.gov/static/images/apple-touch-icon.png?77985.79268">
+<meta property="og:image" content="http://www.loc.gov/static/images/favicons/open-graph-logo.png?81937.86251">
+<meta property="og:image:secure_url" content="https://www.loc.gov/static/images/favicons/open-graph-logo.png?81937.86251">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 
 
 
@@ -95,7 +87,7 @@ The Library of Congress's mission is to engage, inspire, and inform Congress and
 
 
 
-<link href="/static/stylesheets/base.css?77985.79268" type="text/css" rel="stylesheet">
+<link href="/static/stylesheets/base.css?81937.86251" type="text/css" rel="stylesheet">
 
 
 
@@ -259,22 +251,107 @@ jQuery(function($){
     UX.interaction = UX.trackUserInteractionEvent;
     UX.interface = UX.trackUserInterfaceAction;
 
+    function getMediaPosition(player) {
+        /*
+         * To support the two media players (JW Player and mediaElement) a facade function 
+         * wwas created in order to get the current position in a video.
+         *
+         * getMediaPosition() returns the current position in the video.
+         * @param {playerObject} player
+         * @return {currentPosition} number
+         */
+        switch(player.type) {
+            case 'jwPlayer': {
+                return player.getPosition();
+            }
+            case 'mediaElement': {
+                return player.getCurrentTime();
+            }
+        }
+        return null;
+    }
+
+
+    function getMediaDuration(player) {
+        /*
+         * To support the two media players (JW Player and mediaElement) a facade function 
+         * wwas created in order to get the length of a video.
+         *
+         * getMediaPosition() returns the length of the video.
+         * @param {playerObject} player
+         * @return {currentPosition} number
+         */
+        switch(player.type) {
+            case 'jwPlayer': {
+                return player.getDuration();
+            }
+            case 'mediaElement': {
+                return player.duration;
+            }
+        }
+        return null;
+    }
+
+    /*
+    function mediaPlayerInterface(player, playerType) {
+        // given the media player type, this function will modify the objects such that the methods
+        // called in track_player are the same for both jwPlayer and mediaElement
+        switch(playerType) {
+            case 'jwPlayer': {
+                // Want to mimic the jwPlayers functions so if jwPlayer do nothing
+                break;
+            }
+            case 'mediaElement': {
+                player.getPosition = function() {
+                    return player.getCurrentTime();
+                }
+
+                player.getDuration = function() {
+                    return player.duration;
+                }
+                break;
+            }
+        }
+        return player;
+    }
+    */
+
     // Register calls to Adobe for metrics tracking
-    $.omniture = UX.track_player = function(player, shortName, is_video) {
+    $.omniture = UX.track_player = function(player, playerType, shortName, isVideo) {
+        
+        player.type = playerType; 
         var eventData = {
             player: player,
             shortName: shortName
         };
+        eventData.mediaType = isVideo ? 'video' : 'audio';
 
-        eventData.mediaType = is_video ? 'video' : 'audio';
 
-        player.on('pause', function(event) {handleMediaEvent(event, eventData)}, this);
-        player.on('buffer', function(event) {handleMediaEvent(event, eventData)}, this);
-        player.on('idle', function(event) {handleMediaEvent(event, eventData)}, this);
-        player.on('complete', function(event) {handleMediaEvent(event, eventData)}, this);
-        player.on('play', function(event) {handleMediaEvent(event, eventData)}, this);
-        player.on('seeked', function(event) {handleMediaEvent(event, eventData)}, this);
-        player.on('seeking', function(event) {handleMediaEvent(event, eventData)}, this);
+        switch(playerType) {
+            case 'jwPlayer': {
+                player.on('pause', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.on('buffer', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.on('idle', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.on('complete', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.on('play', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.on('seeked', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.on('seeking', function(event) {handleMediaEvent(event, eventData)}, this);
+                break;
+            }
+            case 'mediaElement': {
+                player.addEventListener('pause', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.addEventListener('buffer', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.addEventListener('idle', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.addEventListener('complete', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.addEventListener('play', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.addEventListener('seeked', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.addEventListener('seeking', function(event) {handleMediaEvent(event, eventData)}, this);
+                break;
+            }
+            default:
+                break;
+        }
+
     };
 
     //Handle various media events and send data to Adobe. This also sends data to the legacy locjukebox reporting suite
@@ -290,18 +367,18 @@ jQuery(function($){
             legacyTracking.trackingServer = s.trackingServer;
             legacyTracking.prop4 = mediaName;
 
-            if (player.getPosition() > 0) {
-                mediaOffset = Math.floor(player.getPosition());
+            if (getMediaPosition(player) > 0) {
+                mediaOffset = Math.floor(getMediaPosition(player));
             }
-
             switch (event.type) {
                 case 'play':
                     if (mediaOffset == 0) {
                         setTimeout(function() {
-                            s.Media.open(mediaName, player.getDuration(), mediaPlayerName);
+                            s.Media.open(mediaName, getMediaDuration(player), mediaPlayerName);
                             s.Media.play(mediaName, mediaOffset);
                             legacyTracking.prop8 = "[Button Click] - Start " + mediaType;
                             legacyTracking.tl();
+                            console.log('play event fired off');
                         }, 500);
                     }
                     else {
@@ -316,14 +393,19 @@ jQuery(function($){
                     s.Media.play(mediaName, mediaOffset);
                     legacyTracking.prop8 = "[Scrub] - Specific Point in " + mediaType + " Clip";
                     legacyTracking.tl();
+                    console.log('seek event fired off');
                     break;
 
                 case 'pause':
                     s.Media.stop(mediaName, mediaOffset);
                     legacyTracking.prop8 = "[Button Click] - Pause " + mediaType;
                     legacyTracking.tl();
+                    console.log('pause event fired off');
+                    break;
                 case 'seeking':
                     s.Media.stop(mediaName, mediaOffset);
+                    console.log('seeking event fired off');
+                    break;
                 case 'buffer':
                 case 'idle':
                     break;
@@ -344,7 +426,7 @@ jQuery(function($){
 // and execute this function if it finds it.
 var doPageMetricsPlugin = function(s){
 
-    window.UX = window.loc_ux_tracking;
+    // window.UX = window.loc_ux_tracking;  // This resets the UX object removing track_player causing a bug for the video player
     UX.download = UX.trackFileDownloadEvent;
     UX.interaction = UX.trackUserInteractionEvent;
     UX.interface = UX.trackUserInterfaceAction;
@@ -396,7 +478,7 @@ var doPageMetricsPlugin = function(s){
     s.prop12 = 'Legal';
     
 
-    s.prop22 = 0.0114569664001;//backend duration
+    s.prop22 = 0.0076858997345;//backend duration
 
 
     // Assigning specific search options for selected search facets
@@ -439,7 +521,7 @@ var doPageMetricsPlugin = function(s){
     s.prop55 = "";// download
     s.prop56 = ""; // partof_collection
     s.prop57 = ""; // number_page
-    s.prop60 = 77985;//release_id
+    s.prop60 = 81937;//release_id
     s.prop69 = ""; // location_state
     s.prop70 = ""; //location_county
     s.prop71 = ""; //language
@@ -488,10 +570,9 @@ var doPageMetricsPlugin = function(s){
 
 
     
-<link rel="shortcut icon" href="https://www.loc.gov/static/images/fav.ico?77985.79268">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="ms-icon-144x144.png?81937.86251">
 
-<link rel="apple-touch-icon" href="https://www.loc.gov/static/images/apple-touch-icon.png?77985.79268">
-     
 
 <link rel="alternate" type="text/html" href="https://www.loc.gov/legal/">
 
@@ -499,7 +580,7 @@ var doPageMetricsPlugin = function(s){
 
 <link rel="alternate" type="application/json" href="https://www.loc.gov/legal/?fo=json">
 
-	  
+
 <link title="Library of Congress Search" href="https://www.loc.gov/search/opensearch.xml" rel="search" type="application/opensearchdescription+xml">
 
 
@@ -512,17 +593,7 @@ var doPageMetricsPlugin = function(s){
 
 
 
-<style>.skip-nav {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  border: 0;
-}
-.header-overlay {
+<style>.header-overlay {
   display: none;
   position: fixed;
   top: 0;
@@ -538,14 +609,8 @@ var doPageMetricsPlugin = function(s){
   background-color: #fff;
   border-top: 4px solid #FC4C02;
   border-bottom: 1px solid #bfbfbf;
-  padding: 26px 0 25px;
   position: relative;
   z-index: 999;
-}
-@media (max-width: 992px) {
-  .header {
-    padding: 14px 0 13px;
-  }
 }
 .header-container {
   max-width: 85.71428571rem;
@@ -566,183 +631,44 @@ var doPageMetricsPlugin = function(s){
   }
 }
 .header-row {
-  display: -webkit-box;
-  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-  display: -ms-flexbox;
-  /* TWEENER - IE 10 */
-  display: -webkit-flex;
-  /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  display: -moz-box;
   display: flex;
-  /* NEW, Spec - Firefox, Chrome, Opera */
-  -webkit-flex-flow: row wrap;
-  flex-flow: row wrap;
-  -webkit-flex-align: flex-end;
-  -webkit-align-items: flex-end;
-  -ms-flex-align: flex-end;
-  align-items: flex-end;
-  margin: 0 -1rem;
-}
-.header-row .header-menu {
-  -webkit-box-flex: 0 0 auto;
-  /* OLD - iOS 6-, Safari 3.1-6 */
-  -webkit-flex: 0 0 auto;
-  /* Safari 6.1+. iOS 7.1+, BB10 */
-  -ms-flex: 0 0 auto;
-  /* IE 10 */
-  -moz-box-flex: 0 0 auto;
-  flex: 0 0 auto;
-  /* NEW, Spec - Firefox, Chrome, Opera */
-  min-width: 0;
-  /* firefox fix */
-  margin: 0 1rem;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  -o-box-sizing: border-box;
-  box-sizing: border-box;
-  margin: 0 0 -13px;
-  padding: 0 1rem 13px;
-  position: relative;
-}
-.header-row .header-menu.header-menu-active {
-  background: #efefef;
-}
-.header-row .header-menu.header-menu-active::before {
-  content: '';
-  width: 100%;
-  height: 10px;
-  position: absolute;
-  top: -10px;
-  left: 0;
-  background: #efefef;
+  align-items: center;
+  min-height: 70px;
 }
 @media (min-width: 993px) {
-  .header-row .header-menu {
-    margin: 0 0 -25px;
-    padding: 0 1rem 25px;
+  .header-row {
+    align-items: flex-end;
   }
 }
-@media (max-width: 480px) {
-  .header-row .header-menu {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    margin-bottom: 0;
-  }
-}
-.header-row .header-menu .header-menu-button {
-  color: #000;
-  border: 0;
-  background: none;
-  font-size: 36px;
-  width: 31px;
-  height: 34px;
-  line-height: 1;
-  padding: 0;
-}
-.header-row .header-menu .header-menu-button .icon-times {
-  color: #FC4C02;
-}
-.header-row .header-menu .header-menu-button > span {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  border: 0;
-}
-.header-row .header-menu .header-menu-container {
-  display: none;
-  background: #efefef;
-  position: absolute;
-  top: 47px;
-  right: 0;
-  z-index: 999;
+</style>
+
+
+<header class="header" role="banner">
+    <div class="header-container">
+        <div class="header-row">
+            
+            
+
+
+<style>.header-logo {
+  width: 161px;
 }
 @media (min-width: 993px) {
-  .header-row .header-menu .header-menu-container {
-    top: 59px;
+  .header-logo {
+    width: 363px;
+    padding: 25px 0;
   }
 }
-.header-row .header-menu .header-menu-container.header-menu-container-active {
-  display: block;
-  height: auto;
-  overflow: auto;
-  opacity: 1;
-}
-.header-row .header-menu .header-menu-container > ul {
-  padding-left: 0;
-  list-style: none;
-  margin: 0;
-  padding: 0 53px 0 2rem;
-}
-@media (min-width: 481px) {
-  .header-row .header-menu .header-menu-container > ul {
-    padding: 0 153px 0 2rem;
-  }
-}
-.header-row .header-menu .header-menu-container > ul a {
-  color: #333;
-}
-.header-row .header-menu .header-menu-container > ul > li {
-  padding: 0.5rem 50px 0.5rem 0;
-  white-space: nowrap;
-}
-.header-row .header-menu .header-menu-container > ul > li:first-child {
-  padding-top: 1rem;
-}
-.header-row .header-menu .header-menu-container > ul > li:last-child {
-  padding-bottom: 1rem;
-}
-.header-row .header-menu .header-menu-container > ul.header-menu-tertiary > li:first-child,
-.header-row .header-menu .header-menu-container > ul.header-menu-external > li:first-child {
-  border-top: 1px solid #999;
-}
-@media print {
-  .header-row .header-menu {
-    display: none;
-  }
-}
-.header-row .header-logo {
-  -webkit-box-flex: 0 0 auto;
-  /* OLD - iOS 6-, Safari 3.1-6 */
-  -webkit-flex: 0 0 auto;
-  /* Safari 6.1+. iOS 7.1+, BB10 */
-  -ms-flex: 0 0 auto;
-  /* IE 10 */
-  -moz-box-flex: 0 0 auto;
-  flex: 0 0 auto;
-  /* NEW, Spec - Firefox, Chrome, Opera */
-  min-width: 0;
-  /* firefox fix */
-  margin: 0 1rem;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  -o-box-sizing: border-box;
-  box-sizing: border-box;
-  padding: 0 2rem;
-  width: 363px;
-  padding: 0;
-}
-@media (max-width: 992px) {
-  .header-row .header-logo {
-    width: 161px;
-  }
-}
-.header-row .header-logo > a {
+.header-logo > a {
   display: block;
   width: 363px;
   height: 90px;
 }
-.header-row .header-logo > a > img {
+.header-logo > a > img {
   width: 100%;
   height: auto;
 }
-.header-row .header-logo > a > span {
+.header-logo > a > span {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -753,76 +679,69 @@ var doPageMetricsPlugin = function(s){
   border: 0;
 }
 @media (max-width: 992px) {
-  .header-row .header-logo > a {
+  .header-logo > a {
     width: 161px;
     height: 40px;
   }
 }
 @media print {
-  .header-row .header-logo > a {
+  .header-logo > a {
     display: none;
   }
 }
 @media (max-width: 992px) {
-  .header-row .header-logo {
+  .header-logo {
     padding: 0;
   }
 }
 @media print {
-  .header-row .header-logo {
+  .header-logo {
     padding: 1rem 0;
     height: 68px;
     display: block;
   }
-  .header-row .header-logo:after {
-    content: url("/static/images/logo-loc-new-branding.svg?72026");
+  .header-logo:after {
+    content: url("/static/images/logo-loc-new-branding.svg?74629");
     display: block;
     width: 100%;
     height: 100%;
   }
 }
-.header-row .header-search {
-  -webkit-box-flex: 1;
-  /* OLD - iOS 6-, Safari 3.1-6 */
-  -webkit-flex: 1;
-  /* Safari 6.1+. iOS 7.1+, BB10 */
-  -ms-flex: 1;
-  /* IE 10 */
-  -moz-box-flex: 1;
-  flex: 1;
-  /* NEW, Spec - Firefox, Chrome, Opera */
-  min-width: 0;
-  /* firefox fix */
-  margin: 0 1rem;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  -o-box-sizing: border-box;
-  box-sizing: border-box;
+</style>
+<script>jQuery(function($) {
+    // UX Interaction Tracking - Logo, Menu, Search, Breadcrumbs
+    $('.header-logo a').live('click', function() {
+        UX.interaction($(this), 'LC Logo', 'Click', '');
+    });
+
+});
+</script>
+
+
+<div class="header-logo">
+    <a href="/">
+        <img src="/static/images/logo-loc-new-branding.svg" alt="">
+        <span>Library of Congress</span>
+    </a>
+</div>
+
+            
+            
+            
+
+
+<style>.header-search {
+  flex: 1 1 0%;
+  padding-left: 30px;
 }
-@media (min-width: 1201px) {
-  .header-row .header-search {
-    padding-left: 210px;
+@media (min-width: 993px) {
+  .header-search {
+    padding: 25px 0 25px 210px;
   }
 }
-.header-row .header-search > form {
-  display: -webkit-box;
-  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-  display: -ms-flexbox;
-  /* TWEENER - IE 10 */
-  display: -webkit-flex;
-  /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  display: -moz-box;
+.header-search > form {
   display: flex;
-  /* NEW, Spec - Firefox, Chrome, Opera */
-  -webkit-flex-flow: row wrap;
-  flex-flow: row wrap;
-  -webkit-flex-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  margin: 0 0;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   border: 1px solid #000;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -830,41 +749,24 @@ var doPageMetricsPlugin = function(s){
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
-.header-row .header-search > form .header-search-formats {
-  position: relative;
-  color: #000;
-}
-@media (max-width: 992px) {
-  .header-row .header-search > form .header-search-formats {
-    -webkit-box-flex: 1;
-    /* OLD - iOS 6-, Safari 3.1-6 */
-    -webkit-flex: 1;
-    /* Safari 6.1+. iOS 7.1+, BB10 */
-    -ms-flex: 1;
-    /* IE 10 */
-    -moz-box-flex: 1;
-    flex: 1;
-    /* NEW, Spec - Firefox, Chrome, Opera */
-    min-width: 0;
-    /* firefox fix */
-    margin: 0 0;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    -o-box-sizing: border-box;
-    box-sizing: border-box;
-    -webkit-box-flex: 0 0 calc(33.33333333% - 2rem) !important;
-    -webkit-flex: 0 0 calc(33.33333333% - 2rem) !important;
-    flex: 0 0 calc(33.33333333% - 2rem) !important;
-    -ms-flex: 0 1 auto;
-    /* ie fix */
-    width: calc(33.33333333% - 2rem);
-    /* ie fix */
-    max-width: calc(33.33333333% - 2rem);
-    /* moz fix */
+@media (max-width: 768px) {
+  .header-search > form {
+    flex: 1 0 100%;
   }
 }
-.header-row .header-search > form .header-search-formats:after {
+.header-search > form .header-search-formats {
+  position: relative;
+  color: #000;
+  border-bottom: 1px solid #000;
+  flex: 0 0 100%;
+}
+@media (min-width: 481px) {
+  .header-search > form .header-search-formats {
+    flex: none;
+    border: none;
+  }
+}
+.header-search > form .header-search-formats:after {
   content: "\f107";
   font-family: FontAwesome;
   position: absolute;
@@ -876,7 +778,7 @@ var doPageMetricsPlugin = function(s){
   padding: 0 6px;
   font-size: 12px;
 }
-.header-row .header-search > form .header-search-formats .header-search-format-select {
+.header-search > form .header-search-formats .header-search-format-select {
   border: none;
   height: 30px;
   width: 100%;
@@ -894,38 +796,22 @@ var doPageMetricsPlugin = function(s){
   appearance: none;
 }
 @media (max-width: 480px) {
-  .header-row .header-search > form .header-search-formats .header-search-format-select {
+  .header-search > form .header-search-formats .header-search-format-select {
     font-size: 16px;
   }
 }
-.header-row .header-search > form .header-search-formats .header-search-format-select::-ms-expand {
+.header-search > form .header-search-formats .header-search-format-select::-ms-expand {
   display: none;
 }
-.header-row .header-search > form .header-search-formats .header-search-format-select:hover,
-.header-row .header-search > form .header-search-formats .header-search-format-select:focus {
+.header-search > form .header-search-formats .header-search-format-select:hover,
+.header-search > form .header-search-formats .header-search-format-select:focus {
   box-shadow: inset 0 0 3px #000 !important;
 }
-.header-row .header-search > form .header-search-input-wrapper {
-  -webkit-box-flex: 1;
-  /* OLD - iOS 6-, Safari 3.1-6 */
-  -webkit-flex: 1;
-  /* Safari 6.1+. iOS 7.1+, BB10 */
-  -ms-flex: 1;
-  /* IE 10 */
-  -moz-box-flex: 1;
-  flex: 1;
-  /* NEW, Spec - Firefox, Chrome, Opera */
-  min-width: 0;
-  /* firefox fix */
-  margin: 0 0;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  -o-box-sizing: border-box;
-  box-sizing: border-box;
+.header-search > form .header-search-input-wrapper {
+  flex: 1 1 1%;
   position: relative;
 }
-.header-row .header-search > form .header-search-input-wrapper .header-search-input {
+.header-search > form .header-search-input-wrapper .header-search-input {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
@@ -938,21 +824,22 @@ var doPageMetricsPlugin = function(s){
   line-height: 30px;
 }
 @media (max-width: 480px) {
-  .header-row .header-search > form .header-search-input-wrapper .header-search-input {
+  .header-search > form .header-search-input-wrapper .header-search-input {
     font-size: 16px;
+    border: none;
   }
 }
-.header-row .header-search > form .header-search-input-wrapper .header-search-input:focus {
+.header-search > form .header-search-input-wrapper .header-search-input:focus {
   box-shadow: inset 0 0 3px #999 !important;
 }
-.header-row .header-search > form .header-search-button {
+.header-search > form .header-search-button {
   height: 30px;
   font-size: 18px;
   padding: 0 10px;
   background-color: #000;
   border-color: #000;
 }
-.header-row .header-search > form .header-search-button > span {
+.header-search > form .header-search-button > span {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -962,18 +849,18 @@ var doPageMetricsPlugin = function(s){
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
-.header-row .header-search > form .header-search-button .icon {
+.header-search > form .header-search-button .icon {
   line-height: inherit;
 }
-@media (max-width: 480px) {
-  .header-row .header-search > form {
+@media (max-width: 768px) {
+  .header-search > form {
     display: none;
   }
-  .header-row .header-search > form.header-search-form-active {
+  .header-search > form.header-search-form-active {
     display: flex;
   }
 }
-.header-row .header-search .header-search-toggle {
+.header-search .header-search-toggle {
   display: none;
   height: 32px;
   font-size: 1.25rem;
@@ -981,7 +868,7 @@ var doPageMetricsPlugin = function(s){
   background-color: #000;
   border-color: #000;
 }
-.header-row .header-search .header-search-toggle span {
+.header-search .header-search-toggle span {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -991,57 +878,53 @@ var doPageMetricsPlugin = function(s){
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
-@media (max-width: 480px) {
-  .header-row .header-search .header-search-toggle {
+@media (max-width: 768px) {
+  .header-search .header-search-toggle {
     display: inline-block;
-    position: absolute;
-    right: 60px;
-    bottom: 0;
+    float: right;
   }
-  .header-row .header-search .header-search-toggle.header-search-toggle-close {
+  .header-search .header-search-toggle.header-search-toggle-close {
     background-color: transparent;
     border-color: transparent;
     color: #00618e;
-    padding-right: 0;
-    right: 1rem;
     font-size: 36px;
     color: #FC4C02;
-    line-height: 1;
-    bottom: auto;
-    top: -4px;
+    height: auto;
+    flex: none;
   }
-  .header-row .header-search .header-search-toggle.header-search-toggle-close:hover,
-  .header-row .header-search .header-search-toggle.header-search-toggle-close:focus {
+  .header-search .header-search-toggle.header-search-toggle-close:hover,
+  .header-search .header-search-toggle.header-search-toggle-close:focus {
     background-color: transparent;
     border-color: transparent;
     color: #002347;
   }
 }
-@media (max-width: 480px) {
-  .header-row .header-search {
-    position: absolute;
-    right: 0;
-    bottom: 13px;
-    width: 100%;
+@media (max-width: 768px) {
+  .header-search {
     min-height: 32px;
-    display: block;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -o-box-sizing: border-box;
     box-sizing: border-box;
     margin: 0 !important;
-    padding: 0 55px 0 1rem !important;
   }
-  .header-row .header-search.header-search-close {
-    outline: 8px solid #fff;
+  .header-search.header-search-close {
+    padding: 0 55px 0 1rem !important;
     z-index: 2;
     background: #fff;
     overflow: hidden;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
   }
 }
 @media print {
-  .header-row .header-search {
+  .header-search {
     display: none;
   }
 }
@@ -1092,6 +975,216 @@ var doPageMetricsPlugin = function(s){
   position: absolute;
   top: -9999px;
   left: -9999px;
+}
+</style>
+<script>jQuery(function($) {
+    // UX Interaction Tracking - Logo, Menu, Search, Breadcrumbs
+    $('.header-search-format-select').change(function() {
+        var label;
+        $('.header-search-format-select option:selected').each(function() {
+            label = $(this).text().trim();
+        });
+        UX.interaction($(this), 'Search', 'Select Format', label);
+    });
+    // search toggle
+    function searchActive() {
+        $('.header-search > form').addClass('header-search-form-active');
+        $('.header-search .header-search-input').focus();
+        $('.header-search-toggle i').switchClass('icon-search', 'icon-times', 50);
+        $('.header-search-toggle').addClass('header-search-toggle-close');
+        $('.header-search').addClass('header-search-close');
+    };
+    function searchInactive() {
+        $('.header-search > form').removeClass('header-search-form-active');
+        $('.header-search-toggle i').switchClass('icon-times', 'icon-search', 50);
+        $('.header-search-toggle').removeClass('header-search-toggle-close');
+        $('.header-search').removeClass('header-search-close');
+    };
+
+    $('.header-search-toggle').live('click', function() {
+        if ($('.header-search > form').hasClass('header-search-form-active')) {
+            searchInactive();
+            //UX Interaction Tracking
+            UX.interaction($(this), 'Search', 'Hide', '');
+        } else {
+            searchActive();
+            //UX Interaction Tracking
+            UX.interaction($(this), 'Search', 'Show', '');
+        }
+    });
+
+    $(window).on("load resize",function(e){
+        $('.autocomplete-w1').parent().css('width', '100%');
+    });
+
+});
+</script>
+
+
+<div class="header-search">
+    <label for="search" class="test screen-readers-only">Search</label>
+    
+    
+<form role="search" method="get" action="/search/">
+    <div class="header-search-formats">
+        <select name="in" id="searchFormat" aria-label="search" class="header-search-format-select">
+            <option value="">Everything</option>
+
+            
+            <option value="original-format:sound recording">Audio Recordings</option>
+            
+            <option value="original-format:book">Books/Printed Material</option>
+            
+            <option value="original-format:film, video">Films, Videos</option>
+            
+            <option value="original-format:legislation">Legislation</option>
+            
+            <option value="original-format:manuscript/mixed material">Manuscripts/Mixed Material</option>
+            
+            <option value="original-format:map">Maps</option>
+            
+            <option value="original-format:notated music">Notated Music</option>
+            
+            <option value="original-format:newspaper">Newspapers</option>
+            
+            <option value="original-format:periodical">Periodicals</option>
+            
+            <option value="original-format:personal narrative">Personal Narratives</option>
+            
+            <option value="original-format:photo, print, drawing">Photos, Prints, Drawings</option>
+            
+            <option value="original-format:software, e-resource">Software, E-Resources</option>
+            
+            <option value="original-format:archived web site">Archived Web Sites</option>
+            
+            <option value="original-format:web page">Web Pages</option>
+            
+            <option value="original-format:3d object">3D Objects</option>
+            
+
+            
+        </select>
+    </div>
+    <div class="header-search-input-wrapper">
+        <input type="search" title="Search the Library of Congress" placeholder="Search Loc.gov" name="q" id="search" class="locsuggest header-search-input" maxlength="250" value="" onfocus="this.select();" accesskey="/">
+        <div class="searchtarget">
+            <input id="search_within_default" type="hidden" name="new" value="true">
+        </div>
+    </div>
+    <button class="header-search-button" type="submit" value="submit"><span>Search</span><i class="icon icon-search"></i></button>
+
+    
+    <input type="hidden" name="st" value="">
+    
+    
+</form>
+
+    
+    <button class="header-search-toggle"><span>Search toggle</span><i class="icon icon-search"></i></button>
+</div>
+
+            
+            
+            
+
+
+<style>.header-menu {
+  position: relative;
+}
+@media (min-width: 769px) {
+  .header-menu {
+    padding-left: 15px;
+  }
+}
+.header-menu .header-menu-button {
+  color: #000;
+  border: 0;
+  background: none;
+  font-size: 36px;
+  width: 31px;
+  height: 70px;
+  line-height: 1;
+  padding: 0 15px;
+  margin-right: -15px;
+  box-sizing: content-box;
+}
+.header-menu .header-menu-button .icon-times {
+  color: #FC4C02;
+}
+.header-menu .header-menu-button > span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+@media (min-width: 993px) {
+  .header-menu .header-menu-button {
+    height: auto;
+    line-height: normal;
+    padding: 9px 15px 18px;
+  }
+}
+.header-menu.header-menu-active .header-menu-button {
+  background: #efefef;
+}
+.header-menu .header-menu-container {
+  display: none;
+  background: #efefef;
+  position: absolute;
+  top: auto;
+  right: -15px;
+  z-index: 999;
+}
+@media (min-width: 993px) {
+  .header-menu .header-menu-container {
+    top: auto;
+  }
+}
+.header-menu .header-menu-container.header-menu-container-active {
+  display: block;
+  height: auto;
+  overflow: auto;
+  opacity: 1;
+}
+.header-menu .header-menu-container > ul {
+  padding-left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0 53px 0 2rem;
+}
+ul .header-menu .header-menu-container > ul {
+  padding-left: 40px;
+}
+@media (min-width: 481px) {
+  .header-menu .header-menu-container > ul {
+    padding: 0 153px 0 2rem;
+  }
+}
+.header-menu .header-menu-container > ul a {
+  color: #333;
+}
+.header-menu .header-menu-container > ul > li {
+  padding: 0.5rem 50px 0.5rem 0;
+  white-space: nowrap;
+}
+.header-menu .header-menu-container > ul > li:first-child {
+  padding-top: 1rem;
+}
+.header-menu .header-menu-container > ul > li:last-child {
+  padding-bottom: 1rem;
+}
+.header-menu .header-menu-container > ul.header-menu-tertiary > li:first-child,
+.header-menu .header-menu-container > ul.header-menu-external > li:first-child {
+  border-top: 1px solid #999;
+}
+@media print {
+  .header-menu {
+    display: none;
+  }
 }
 </style>
 <script>jQuery(function($) {
@@ -1147,14 +1240,14 @@ var doPageMetricsPlugin = function(s){
         $('.header-menu').removeClass('header-menu-active');
         $('.header-menu-button').attr('aria-expanded', 'false');
         $('.header-menu-button i').switchClass('icon-times', 'icon-bars', 50);
-        $('.header-overlay').hide();
+        //$('.header-overlay').hide();
     };
     function headerMenuInactive() {
         $('.header-menu-container').addClass('header-menu-container-active').attr('aria-hidden', 'false');
         $('.header-menu').addClass('header-menu-active');
         $('.header-menu-button').attr('aria-expanded', 'true');
         $('.header-menu-button i').switchClass('icon-bars', 'icon-times', 50);
-        $('.header-overlay').show();
+        //$('.header-overlay').show();
     };
     $('.header-menu-button').live('click', function() {
         if ($('.header-menu-container').hasClass('header-menu-container-active')) {
@@ -1188,19 +1281,117 @@ var doPageMetricsPlugin = function(s){
         var label = $(this).text().trim();
         UX.interaction($(this), 'Hamburger Menu', 'Click', label);
     });
+});
+</script>
 
-    $('.header-logo a').live('click', function() {
-        UX.interaction($(this), 'LC Logo', 'Click', '');
-    });
 
-    $('.header-search-format-select').change(function() {
-        var label;
-        $('.header-search-format-select option:selected').each(function() {
-            label = $(this).text().trim();
-        });
-        UX.interaction($(this), 'Search', 'Select Format', label);
-    });
+<div class="header-menu">
+    <button class="header-menu-button" id="header-menu-button" aria-controls="header-menu-container"><span>menu </span><i class="icon icon-bars"></i></button>
+    <nav class="header-menu-container" id="header-menu-container" aria-labelledby="header-menu-button">
+        <ul class="">
+            <li class=""><a href="/discover/">Discover</a></li>
+            <li class=""><a href="/services-and-programs/">Services</a></li>
+            <li class=""><a href="/visit/">Visit</a></li>
+            <li class=""><a href="/education/">Education</a></li>
+            <li class=""><a href="/connect/">Connect</a></li>
+            <li class=""><a href="/about/">About</a></li>
+        </ul>
+        <ul class="header-menu-tertiary">
+            <li class=""><a href="http://www.loc.gov/rr/askalib/">Ask a Librarian</a></li>
+            <li class=""><a href="/help/">Help</a></li>
+            <li class=""><a href="/contact/">Contact</a></li>
+        </ul>
+        <ul class="header-menu-external">
+            <li class=""><a href="https://catalog.loc.gov/">Search Online Catalog</a></li>
+            <li class=""><a href="http://copyright.gov/">Copyright.gov</a></li>
+            <li class=""><a href="https://www.congress.gov/">Congress.gov</a></li>
+        </ul>
+    </nav>
+</div>
 
+            
+        </div>
+    </div>
+</header>
+
+
+
+
+<style>.breadcrumbs-wrapper {
+  background-color: #fff;
+  position: relative;
+  z-index: 2;
+}
+.breadcrumbs-container {
+  max-width: 85.71428571rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 2rem;
+  background-color: transparent;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  font-size: 12px;
+}
+@media (max-width: 768px) {
+  .breadcrumbs-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+@media (max-width: 768px) {
+  .breadcrumbs-container {
+    display: none;
+  }
+}
+.breadcrumbs-row {
+  display: -webkit-box;
+  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+  display: -ms-flexbox;
+  /* TWEENER - IE 10 */
+  display: -webkit-flex;
+  /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: -moz-box;
+  display: flex;
+  /* NEW, Spec - Firefox, Chrome, Opera */
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-flex-align: flex-start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  margin: 0 0;
+  -webkit-justify-content: flex-end;
+  -moz-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.header-breadcrumbs {
+  -webkit-box-flex: 1;
+  /* OLD - iOS 6-, Safari 3.1-6 */
+  -webkit-flex: 1;
+  /* Safari 6.1+. iOS 7.1+, BB10 */
+  -ms-flex: 1;
+  /* IE 10 */
+  -moz-box-flex: 1;
+  flex: 1;
+  /* NEW, Spec - Firefox, Chrome, Opera */
+  min-width: 0;
+  /* firefox fix */
+  margin: 0 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  margin-right: 2rem;
+}
+</style>
+<script>jQuery(function($) {
+    // UX Interaction Tracking - Logo, Menu, Search, Breadcrumbs
     $('.header-breadcrumbs a').live('click', function(event){
         var label = $(this).attr('name');
         if ( !label ){
@@ -1209,136 +1400,10 @@ var doPageMetricsPlugin = function(s){
         UX.interaction($(this), 'Breadcrumbs', 'click', label);
     });
 
-    // search toggle
-    function searchActive() {
-        $('.header-search > form').addClass('header-search-form-active');
-        $('.header-search .header-search-input').focus();
-        $('.header-search-toggle i').switchClass('icon-search', 'icon-times', 50);
-        $('.header-search-toggle').addClass('header-search-toggle-close');
-        $('.header-search').addClass('header-search-close');
-    };
-    function searchInactive() {
-        $('.header-search > form').removeClass('header-search-form-active');
-        $('.header-search-toggle i').switchClass('icon-times', 'icon-search', 50);
-        $('.header-search-toggle').removeClass('header-search-toggle-close');
-        $('.header-search').removeClass('header-search-close');
-    };
-
-    $('.header-search-toggle').live('click', function() {
-        if ($('.header-search > form').hasClass('header-search-form-active')) {
-            searchInactive();
-            //UX Interaction Tracking
-            UX.interaction($(this), 'Search', 'Hide', '');
-        } else {
-            searchActive();
-            //UX Interaction Tracking
-            UX.interaction($(this), 'Search', 'Show', '');
-        }
-    });
-
-    $(window).on("load resize",function(e){
-        $('.autocomplete-w1').parent().css('width', '100%');
-    });
 });
 </script>
 
 
-<header class="header" role="banner">
-<div class="header-container">
-<div class="header-row">
-    <div class="header-logo">
-        <a href="/">
-            <img src="/static/images/logo-loc-new-branding.svg" alt="">
-            <span>Library of Congress</span>
-        </a>
-    </div>
-    
-    <div class="header-search">
-        <label for="search" class="test screen-readers-only">Search</label>
-        
-<form role="search" method="get" action="/search/">
-    <div class="header-search-formats">
-        <select name="in" id="searchFormat" aria-label="search" class="header-search-format-select">
-            <option value="">Everything</option>
-
-            
-            <option value="original-format:sound recording">Audio Recordings</option>
-            
-            <option value="original-format:book">Books/Printed Material</option>
-            
-            <option value="original-format:film, video">Films, Videos</option>
-            
-            <option value="original-format:legislation">Legislation</option>
-            
-            <option value="original-format:manuscript/mixed material">Manuscripts/Mixed Material</option>
-            
-            <option value="original-format:map">Maps</option>
-            
-            <option value="original-format:notated music">Notated Music</option>
-            
-            <option value="original-format:newspaper">Newspapers</option>
-            
-            <option value="original-format:periodical">Periodicals</option>
-            
-            <option value="original-format:personal narrative">Personal Narratives</option>
-            
-            <option value="original-format:photo, print, drawing">Photos, Prints, Drawings</option>
-            
-            <option value="original-format:software, e-resource">Software, E-Resources</option>
-            
-            <option value="original-format:archived web site">Archived Web Sites</option>
-            
-            <option value="original-format:web page">Web Pages</option>
-            
-            <option value="original-format:3d object">3D Objects</option>
-            
-
-            
-        </select>
-    </div>
-    <div class="header-search-input-wrapper">
-        <input type="search" title="Search the Library of Congress" placeholder="Search Loc.gov" name="q" id="search" class="locsuggest header-search-input" maxlength="250" value="" onfocus="this.select();" accesskey="/">
-        <div class="searchtarget">
-            <input id="search_within_default" type="hidden" name="new" value="true">
-        </div>
-    </div>
-    <button class="header-search-button" type="submit" value="submit"><span>Search</span><i class="icon icon-search"></i></button>
-
-    
-    <input type="hidden" name="st" value="">
-    
-    
-</form>
-
-        <button class="header-search-toggle"><span>Search toggle</span><i class="icon icon-search"></i></button>
-    </div>
-    
-    <div class="header-menu">
-        <button class="header-menu-button" id="header-menu-button" aria-controls="header-menu-container"><span>menu </span><i class="icon icon-bars"></i></button>
-        <nav class="header-menu-container" id="header-menu-container" aria-labelledby="header-menu-button">
-            <ul class="">
-                <li class=""><a href="/discover/">Discover</a></li>
-                <li class=""><a href="/services-and-programs/">Services</a></li>
-                <li class=""><a href="/visit/">Visit</a></li>
-                <li class=""><a href="/education/">Education</a></li>
-                <li class=""><a href="/connect/">Connect</a></li>
-                <li class=""><a href="/about/">About</a></li>
-            </ul>
-            <ul class="header-menu-tertiary">
-                <li class=""><a href="http://www.loc.gov/rr/askalib/">Ask a Librarian</a></li>
-                <li class=""><a href="/help/">Help</a></li>
-                <li class=""><a href="/contact/">Contact</a></li>
-            </ul>
-            <ul class="header-menu-external">
-                <li class=""><a href="https://catalog.loc.gov/">Search Online Catalog</a></li>
-                <li class=""><a href="http://copyright.gov/">Copyright.gov</a></li>
-                <li class=""><a href="https://www.congress.gov/">Congress.gov</a></li>
-            </ul>
-        </nav>
-    </div>
-</div>
-</div>
-</header>
 
 
 
@@ -1376,7 +1441,8 @@ var doPageMetricsPlugin = function(s){
 
 
 
-<div class="header-overlay"><!-- --></div>
+
+
 
 
 
@@ -1391,7 +1457,11 @@ var doPageMetricsPlugin = function(s){
     
 
 
+
+
     
+
+
 
 
 
@@ -1410,6 +1480,7 @@ var doPageMetricsPlugin = function(s){
 
 
     
+
 
 
 <div class="managed-content-content">
@@ -1431,6 +1502,8 @@ var doPageMetricsPlugin = function(s){
         
         
 
+        
+            
         
 
         
@@ -1455,7 +1528,7 @@ var doPageMetricsPlugin = function(s){
 <p>We do not charge permission fees for using any materials, and generally do not grant or deny permission to publish or otherwise distribute them. We do request that anyone linking to our websites present the link in a manner that does not imply that we are making an express or implied endorsement of any good or service provided, and that the link clearly indicates that the user is leaving one site and going to another.</p>
 <p>Items created by Library of Congress employees in the scope of their employment are U.S. Government works not subject to copyright in the United States (17 U.S.C. §105). Unless otherwise indicated on this site, the Library of Congress has no objection to the international use and reuse of Library U.S. Government works on loc.gov. These works are also available for worldwide use and reuse under CC0 1.0 Universal.</p>
 
-<p>If you have more information about material on our websites, or if you are the copyright holder and believe our websites have not properly attributed your work or have used it without permission, please contact <a href="/cdn-cgi/l/email-protection#93fcf4f0d3fffcf0bdf4fce5"><span class="__cf_email__" data-cfemail="751a121635191a165b121a03">[email&nbsp;protected]</span></a> with your contact information and a link to the relevant content.</p>
+<p>If you have more information about material on our websites, or if you are the copyright holder and believe our websites have not properly attributed your work or have used it without permission, please contact <a href="mailto:ogc@loc.gov">ogc@loc.gov</a> with your contact information and a link to the relevant content.</p>
 <p><a class="ar-more" href="http://www.copyright.gov/">View more information about copyright law from the U.S. Copyright Office</a></p>
 
 <h2><a name="privacy_publicity" id="privacy_publicity"></a>Privacy and Publicity Rights</h2>
@@ -1872,7 +1945,7 @@ var doPageMetricsPlugin = function(s){
   }
 }
 </style>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>//UX Interaction Tracking
+<script>//UX Interaction Tracking
 jQuery(function($){
     $('.footer-social-links li a').click(function(e){
         var label = $(this).text().trim();
@@ -1985,15 +2058,18 @@ LOCSuggest = {
 MEDIA_URL = 'https://media.loc.gov';
 </script>
 
-<script defer="defer" type="text/javascript" src="https://www.loc.gov/static/javascript/base.js?77985.79268"></script>
+<script defer="defer" type="text/javascript" src="https://www.loc.gov/static/javascript/base.js?81937.86251"></script>
 
-<script defer="defer" type="text/javascript" src="https://www.loc.gov/static/javascript/share.js?77985.79268"></script>
+<script defer="defer" type="text/javascript" src="https://www.loc.gov/static/javascript/share.js?81937.86251"></script>
 
 <!--[if lt IE 9]>
-    <script src='https://www.loc.gov/static/js/lib/html5shiv.js?77985.79268'></script>
-    <script src='https://www.loc.gov/static/js/lib/selectivizr.js?77985.79268'></script>
+    <script src='https://www.loc.gov/static/js/lib/html5shiv.js?81937.86251'></script>
+    <script src='https://www.loc.gov/static/js/lib/selectivizr.js?81937.86251'></script>
 <![endif]-->
 
+<script defer="defer">
+PORTAL_FORM_KEY = '14c9f0741ff70de2a3106609ffb72b2c';
+</script>
 
 
 
