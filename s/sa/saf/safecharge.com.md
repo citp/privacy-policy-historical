@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the safecharge.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920185448id_/https%3A//www.safecharge.com/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecharge.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630094858id_/https%3A//www.safecharge.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - SafeCharge
+
+### Privacy and Cookies Policy
 
 This Privacy and Cookies Policy is intended for those browsing/using Safecharge.com and other Safecharge group informative websites (jointly: “Site”) owned and operated by the Safecharge International Group Limited and its affiliates and subsidiaries (“we” or “us”) and describes and explains how we treat information that is received and/or collected, when received or collected, through your use of the Site.
 
@@ -102,3 +104,5 @@ Where we hold personal information about you, you may request details of persona
 Should you have other questions or concerns about this Privacy and Cookies Policy please see the ‘Contact Us’ tab on our Site.
 
 Date of last update to this document: June 2017
+
+Scroll to top
