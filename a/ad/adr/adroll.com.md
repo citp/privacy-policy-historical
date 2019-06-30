@@ -1,110 +1,204 @@
-> *The following text is extracted and transformed from the adroll.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226004314id_/https%3A//www.adroll.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adroll.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630195121id_/https%3A//www.adrollgroup.com/privacy) for the most accurate reproduction.*
 
-# AdRoll - Privacy Policy
+# AdRoll Group - Privacy Notice
 
-Last updated June 19, 2017  
-[View archived Privacy Policy](https://web.archive.org/about/privacy-archived)
+Effective as of June 4, 2019  
+View [archived Privacy Notice](https://web.archive.org/privacy-archived)
 
-We have prepared this Privacy Notice to explain how, why, and when we collect data from you to provide targeted advertising services for our clients.
+We have prepared this Privacy Notice to explain how, why, and when we collect data from you to provide targeted advertising services for our clients, and your rights in respect of this data. If you have additional questions, you can also review our [Trust Center](https://www.adrollgroup.com/trust-center) or contact us (see the **“Contact Us”** section below).
 
-Please note that this Privacy Notice does not apply to data that we collect when you visit the AdRoll website at [www.adroll.com](http://www.adroll.com/). To learn what data we collect when you visit our website, please visit the AdRoll Website Privacy Notice.
+Please note that this Privacy Notice does not apply to data we collect when you visit an AdRoll Group website, including <https://www.adrollgroup.com/>, [www.adroll.com](https://www.adroll.com/) and <https://www.rollworks.com/>.
 
-### 1\. About AdRoll's Services
+To learn what data we collect when you visit our websites, please visit the AdRoll Group Website Privacy Notice.
 
-AdRoll provides targeted advertising services for our advertiser clients ("Advertisers"). When you visit a website operated by an Advertiser or a third party site where we could serve an ad to you, we may collect some or all of the data described in the AdRoll Service Privacy Notice. Our platform uses that data as well as other data described below to help Advertisers provide ads to you that are more relevant to you.
+* * *
 
-For example, if you visit an Advertiser's website and shop for running shoes, our Platform (or another platform we work with) may later serve you with targeted ads for the Advertiser’s brand of running shoes as you browse the internet or through other channels, such as emails.
+##### Service Privacy Notice Contents
 
-### 2\. What data we collect and how we use it
+  * About AdRoll Group's Services
+  * What Data we Collect
+  * How We Use the Data We Collect
+  * Data Sharing
+  * Cookies and Related Technologies
+  * Your Choices and Opting-Out of Targeted Ads
+  * Data Retention
+  * Security
+  * International Transfers
+  * Information for European Territory Residents: Our Legal Basis and Your Rights
+  * Changes to this Privacy Notice
+  * Contact Us About Questions or Concerns
 
-We may collect the following categories of information for the purposes explained below.
-
-  * Advertiser website activity: This is data about your browsing activity on the Advertiser's website. For example, which pages you visited and when, and what items you placed into your online shopping cart.
-  * Device and browser information: This is technical information about the device or browser you use to access the Advertiser's website. For example, your device's IP address, cookie string data and (in the case of mobile devices) your device type and mobile device's unique identifier such as the Apple IDFA or Android Advertising ID.
-  * Ad data: This is data about the online ads we have served (or attempted to serve) to you. It includes things like how many times an ad has been served to you, what page the ad appeared on, and whether you clicked on or otherwise interacted with the ad.
-  * Data from Advertising Partners: This is data that we receive from other digital advertising companies that we work with (“Advertising Partners”) to help us deliver ads to you and recognize you across browsers and devices. This may include pseudonymous advertiser identifiers that some Advertisers or other third party ad platforms choose to share with us, such as your "Customer ID" with an Advertiser or an identifier associated with a hashed (not readable) version of your email address. We may work with these Advertising Partners to synchronize their unique, anonymous identifiers to our own to enhance data points about a particular unique browser or device.
-  * Email and Postal Addresses from Advertisers: Some Advertisers choose to share actual email addresses and postal addresses about their customers with us, so that (with the help of Advertising Partners) we can help the Advertiser serve targeted ads to customers. Also, we may assist an Advertiser with sending emails to customers (for instance, if the Advertiser is using our SendRoll service). We use the Advertiser's supplied e-mail and postal addresses for the purpose of assisting that particular Advertiser.
-  * Hashed email addresses: If an Advertiser allows, we may collect hashed versions of the emails that are entered on that Advertiser’s site. These hashed emails are used as an additional identifier to help us better target ads for Advertisers, including across multiple devices or browsers.
-  * We use this data to help our Advertisers identify and serve ads to you that are more relevant to you. We also use this data to operate, improve and enhance our services including enhancing the data points we or our Advertising Partners have about a particular user, browser, or device, or to target, optimize, cap, or synchronize advertising.
 
 
+* * *
 
-### 3\. Data Sharing
+AdRoll Group provides targeted advertising and marketing services for our clients ( **“Clients”** or **“Advertisers”** ).
+
+Our products help show our clients’ ads and emails to the people that are most likely to find them interesting. We aim to make advertising and marketing more useful and relevant to consumers by showing ads that are relevant to their specific interests, whether related to consumer or business interests. Often, we show these ads on websites which rely on advertising revenue to support the content we all consume each day.
+
+To do this, when you visit a website or a mobile application operated by an Advertiser (collectively **“Digital Properties”** ), open an email from an Advertiser, or we serve you an ad on behalf of an Advertiser on a third party site, we may collect data as described in this Privacy Notice. Our platform uses that data, as well as other data described below, to help Advertisers provide ads and send emails to you that are more relevant to you.
+
+For example, let’s say you just joined a local soccer club and are in the market for a new soccer ball. If you visit ACME Soccer Ball Co.’s website in search of the perfect soccer ball, but don’t purchase one just yet because you are still looking, we may later show you ACME Soccer Ball Co. ads to encourage you to come back and purchase one of their soccer balls, perhaps even with a discount offer or notice of an upcoming sale. We may also show you ads from ACME Soccer Ball Co. or other companies with additional product recommendations you may be interested in, such as for soccer cleats, or tickets to an upcoming soccer match, as you browse the internet. If you gave ACME Soccer Ball Co. your email address for marketing purposes, we may also serve ACME Soccer Ball Co. ads to you through other channels, such as by email.
+
+We also provide various analytics to help advertisers measure whether their campaigns were successful or not -- for instance, by measuring whether particular campaigns led to consumers taking a particular action, like buying a product or visiting a website (sometimes called a “conversion”).
+
+We also monitor what IP address ranges visitors to our customers’ websites are from, match those IP address ranges to companies, and use that information to provide aggregated reports to companies regarding their website traffic.
+
+We collect the following categories of information for the purposes explained below.
+
+  * _Activity on Advertisers’ Digital Properties:_ This is data about your browsing activity on the Advertiser's website or application. For example, which pages you visited and when, what items were clicked on a page, how much time was spent on a page, whether you downloaded a white paper on a business to business (“B2B”) website, what items you placed into your online shopping cart, what products were purchased and the price of the products purchased.
+  * _Device and browser information:_ This is technical information about the device or browser you use to access the Advertiser's Digital Property. For example, your device's IP address, cookie string data, operating system, and (in the case of mobile devices) your device type, and mobile device's identifier (such as the Apple IDFA or Android Advertising ID, and any other unique identifier that may be assigned to the mobile device).
+  * _Ad data:_ This is data about the online ads we have served (or attempted to serve) to you. For example, how many times an ad has been served to you, what page the ad appeared on, and whether you clicked on or otherwise interacted with the ad. This data includes information about how well our clients’ ads and campaigns have performed, whether on our platform or on other platforms.
+  * _Data from Advertising Partners:_ This is data that we lawfully receive from other digital advertising companies that we work with ( **“Advertising Partners”** ) to help us deliver ads to you and recognize you across browsers and devices. This may include pseudonymous advertiser identifiers (meaning identifiers that help identify your browser or device, but do not directly identify you as a person) which some Advertisers or other third party Advertising Platforms choose to share with us – for example, your "Customer ID" with an Advertiser, a pseudonymous identifier (such as a cookie) associated with a hashed version of your email address, or demographic data such as age range. We may work with our Advertisers and Advertising Partners to synchronize their unique, pseudonymous identifiers to our own to enable us to more accurately recognise a particular unique browser or device and the advertising interests associated with it.
+  * _Email and CRM data from Advertisers:_ Some Advertisers choose to share clear email addresses (as opposed to hashed email addresses, described below) or other contact information belonging to their customers with us, so that (with the help of Advertising Partners) we can help the Advertiser serve, measure and analyze targeted ads to customers. For example, if you have given ACME Soccer Ball Co. your email address, through our service, ACME Soccer Ball Co. may send you a promotional email for a soccer ball you looked at but did not purchase. Similarly if you provided your email to a software website when you downloaded a white paper, through our services the software company may send you a follow up email providing you with more information about the software company’s products or services. We use our Advertiser’s CRM Data (e.g., their customer lists or other information they provide to us about their customers) that consists of clear email addresses only for the purpose of assisting that particular Advertiser with their own advertising efforts and, in some cases, so we can report performance data back to the Advertiser’s CRM / reporting system. We do not share clear email addresses with other third parties for their advertising purposes. 
+  * _Email Communications:_ Clients may provide us with access to their email communications from their prospective customers when they have engaged us to provide email marketing services. When access to such information involves access to Gmail data **“Gmail Data”** , such access will be subject to these additional restrictions:
+    * We will only use access to read, write, modify or control Gmail message bodies (including attachments), metadata, headers, and settings to provide a web email client that allows users to compose, send, read, and process emails and will not transfer this Gmail Data to others unless doing so is necessary to provide and improve these features, comply with applicable law, or as part of a merger, acquisition, or sale of assets;
+    * We will not use this Gmail Data for serving advertisements; and
+    * We will not allow humans to read this data unless agreed to by the Client, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for the provision of AdRoll Group’s services.
+  * _Hashed email addresses:_ If an Advertiser permits us, we collect hashed versions of the emails that consumers have entered on that Advertiser’s site. Hashing is a “one-way function” that effectively pseudonymizes email addresses. For instance, when joe_the_cat@adroll.com is run through a typical hashing function, it becomes the following string of digits: 0F0B7B1A1A7E8BDBBC6AA545F8CCD6F83671B32479271BFCB6CC8498912058D5.
+
+We take this step to de-identify data and protect email addresses, while being able to use an identifier to better connect devices and browsers. We then employ these hashed emails (along with other information) for cross-device targeting, in order to try to recognize users across devices and browsers – for instance, to find the same user across multiple devices such as computers, tablets, and mobile devices. We describe how this helps us better provide our services in “How We Use the Data We Collect” below.
+
+  * _Contact Information._ We obtain and collect contact information from various third party sources, including from public sources and through licenses with data providers. We may also infer contact information based on email addresses and email naming conventions. This contact information is B2B information – in other words, it is usually the contact information of someone at a business email address, business street address, or sometimes, a business telephone number. We will not collect contact information this way for individuals who are located in European Territories.
+  * _Shopping Information._ Some Advertisers provide us with information about their customers’ shopping habits, including transactional information, product codes, and check-out activity (along with browsing information that we collect). This information may come from their websites or other transactional information they (or their service providers) maintain. We generally use this information to help us better target, personalize, and measure the effectiveness of advertising campaigns.
+  * _Information We Receive in Our Corporate Capacity._ We also collect information from our own customers and those who visit our website(s). To learn more about how we collect and use that information, please see our Website Privacy Notice.
+
+
+
+We use this data to help our Advertisers identify and serve ads to you that are more relevant to you. We also use this data to operate, improve and enhance our services including enhancing the data points we or our Advertising Partners have about a particular user, browser, or device to serve the most relevant ads to you and, in turn, improve performance of an Advertiser’s ad campaigns. Specifically, we use this data for:
+
+  * _Targeting:_ Selecting ads that are more likely to be relevant to you based on the interests previously associated with your device and the time of day you may be most interested in viewing these specific ads. For example, we may show you ads for your favorite shopping site (or similar sites we think you may like) during lunch or commute hours.
+  * _Frequency capping:_ Making sure that you don't see the same ad too many times.
+  * _Sequencing:_ If you are being served a sequence of ads, making sure we show you the right ad next in the sequence.
+  * _Cross-device matching:_ Identifying different devices that are likely to be associated with you so that ads can be targeted, capped and sequenced across those devices, and so that campaign effectiveness can be measured and analyzed. For example, cross-device matching helps us NOT show you ads for the shoes you were looking at on your phone but already purchased on your tablet. Instead we’ll try to show you ads for an upcoming triathlon where you can put those shoes to work. It also helps us match devices so we can honor your opt-out choices across all devices we know are connected to the opted-out cookie. You may opt-out of being targeted in the above “cross-device” and “cross-channel” ways by employing the respective opt-out techniques we describe in the “Your Choices and Opting-Out of Targeted Ads” section below.
+  * _Attribution:_ Monitoring when, where, and at what price we served certain ads on behalf of an Advertiser so that we can measure our influence on the marketing results of the Advertiser’s campaigns and overall marketing strategy. For example, being able to measure if a certain ad campaign (the ads shown and to whom they were shown) actually sold more soccer balls for ACME Soccer Ball Co.
+  * _Reporting:_ Providing Advertisers insights into how their ads are performing and gain insights into their customers. Reporting may include ad metrics such as impressions, clicks, and conversions (however the Advertiser may define a “conversion” such as, for example, a sale or a white paper download, or a correlation to an actual or inferred sale, site visit or store visit). This data allows an Advertiser to determine if an ad is not performing well (customers are not clicking on it), so that the Advertiser will be able to see that data and update the ad (perhaps with a better deal!). With respect to specific cookie data, we limit reporting to cookie activity on the specific Advertiser’s website and which ads were shown, whether there was engagement with those ads.
+  * _Licensing Data:_ We may license any of the information we receive, create or collect to our Clients or other third parties. For instance, as mentioned in the “What Data We Collect” section, when we receive an email address from a third party or derive an email address, we may license that to our Clients. 
+  * _Conducting Our Corporate Operations._ As to information we collect in our corporate capacity – our own B2B lists of customers and prospective customers – we use that information to conduct our business operations and communications. Please see our Website Privacy Notice to learn more about how we use that information.
+
+
 
 We may disclose information about you:
 
-  * With an Advertiser whose site you have visited: We may share information about how you have interacted with that Advertiser’s site or its Ads.
-  * With our service providers: We contract with companies who help with parts of our business operations. We require that our service providers only use your information in connection with the services they perform for us.
-  * With service providers to our Advertisers: Our Advertisers may contract with companies who handle data (such as Advertisers’ customer lists) for them.
-  * With our subsidiaries and related companies
-  * In connection with legal proceedings: When we are under a legal obligation to do so, for example to comply with a binding order of a court, or where disclosure is necessary to exercise, establish or defend the legal rights of AdRoll, our Advertisers or any other third party.
-  * In connection with a sale of our business: If a third party acquires some or all of our business or assets, we may disclose your information in connection with the sale.
+  * _With an Advertiser whose Digital Properties you have visited:_ We may share information about how you have interacted with that Advertiser’s Digital Properties, email campaigns or its Ads.
+  * _With a Client:_ We may share your business contact information collected from third party sources or inferred (as mentioned in the “What Data We Collect” section) with a Client if we think that your business or employer would be interested in that Client’s products.
+  * _With our service providers:_ We contract with companies who help with parts of our business operations (e.g., for example, website and data hosting, fraud prevention, viewability reporting, data hygiene, marketing, and email delivery), as well as billing, collections, tech, customer and operational support.
+  * _With our subsidiaries and related companies:_ Our subsidiaries and corporate affiliates will only process your data for the purposes already explained in this Privacy Notice. Our subsidiaries are AdRoll Advertising Limited (Ireland), AdRoll Holdings Limited (Ireland), AdRoll Limited (UK), and AdRoll Pty Limited (Australia).
+  * _In connection with legal proceedings:_ When we are under a legal obligation to do so, for example to comply with a binding order of a court, or where disclosure is necessary to exercise, establish or defend the legal rights of AdRoll Group, our Advertisers or any other third party.
+  * _To comply with legal process:_ To satisfy in good faith any applicable law, legal process, or proper governmental request, such as to respond to a subpoena (whether civil or criminal) or similar process.
+  * _To investigate wrongdoing and protect ourselves or third parties:_ To enforce our Terms of Service or other policies or investigate any potential violation of our Terms of Service and policies, any potential violation of the law, or to protect ourselves, our customers, or any third party from any potential harm (whether tangible or intangible).
+  * _In connection with a sale of our business:_ If a third party acquires some or all of our business or assets, we may disclose your information in connection with the sale (including during due diligence in preparation for the sale).
+  * _With our Advertising Partners:_ We also share hashed email addresses (or other pseudonymous identifiers associated with those hashes), technical data that we collect about your browsing habits and your device (such as data relating to our cookies, tracking pixels and similar technologies) with other companies in the digital advertising ecosystem. This enables them and us to better personalize ads to you.
 
 
 
-We also share hashed email addresses (or other identifiers associated with those hashes), technical data that we collect about your browsing habits and your device (such as data relating to our cookies, tracking pixels and similar technologies) with other advertising companies in the digital advertising ecosystem. This enables them and us to better target ads to you.
+AdRoll Group uses cookies, tracking pixels and related technologies to provide our services for Advertisers. Cookies are small data files that are served by our platform and stored on your device.
 
-Finally, we may disclose aggregated, anonymized information with other third parties.
+**Tracking cookies** enable us to identify your device when you move between different Digital Properties, so that we can serve targeted advertising to you.
 
-### 4\. Cookies and related technologies
-
-The AdRoll platform uses cookies, tracking pixels and related technologies to provide our services for Advertisers. Cookies are small data files that are served by our platform and stored on your device. They enable us to identify your device when you move between different websites and applications, so that we can serve targeted advertising to you.
-
-Specifically, the AdRoll cookie we serve through the AdRoll platform for this purpose is named “__adroll”. We may also drop an additional AdRoll opt-out cookie if you opt-out as described below. We may also drop cookies from our Advertising Partners for the purposes described above. The Advertising Partner cookies dropped vary by Advertiser implementation.
-
-### 5\. Your choices and opting-out
-
-We recognize how important your online privacy is to you, so we offer the following options for controlling the targeted ads you receive and how we use your data:
-
-  * You can opt out of receiving targeted ads served by us or on our behalf by clicking on the blue icon that typically appears in the corner of the ads we serve or by clicking [here](https://app.adroll.com/optout/safari). Please note that, if you delete your cookies or upgrade your browser after having opted out, you will need to opt out again. Further, if you use multiple browsers or devices you will need to execute this opt out on each browser or device. If you opt-out we may collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you.
-  * AdRoll is also a member of the Network Advertising Initiative (NAI) and adheres to the NAI Codes of Conduct. You may use the NAI opt out tool [here](http://www.networkadvertising.org/choices/), which will allow you to opt out of seeing targeted ads from us and from other NAI approved member companies.
-
-  * We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out of receiving targeted ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAA website [here](http://www.aboutads.info/choices/).
-
-  * We also comply with the Canadian Self-regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance of Canada (DAAC). You may opt out of receiving targeted ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAAC website [here](http://youradchoices.ca/choices/).
-
-  * We also adhere to the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt out via their [Your Online Choices](http://www.youronlinechoices.com/) website.
-
-  * Please note that when using the ad industry opt-out tools described above:
-
-    * If you opt-out we may still collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you.
-    * If you use multiple browsers or devices you may need to execute this opt out on each browser or device.
-    * Other ad companies’ opt-outs may function differently than our opt-out.
-  * To opt out of receiving targeted ads that are based on your behavior across different mobile applications follow the below instructions, for iOS and Android devices: 
-    * _iOS 7 or Higher:_ Go to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting
-    * _For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher:_ Open your Google Settings app > Ads > Enable “Opt out of interest-based advertising”
+  * Specifically, the AdRoll cookie we serve through the AdRoll platform for this purpose is named “__adroll” and “__adroll_fpc”.
+  * Our Advertising Partners may also drop cookies for the purposes described above. Generally, the type of cookies dropped will vary depending on the Advertising Partner. We provide a list of our Advertising Pixel Partners [here](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners).
 
 
 
-Opting out will not prevent you from seeing ads, but those ads will likely be less relevant because they won’t be tailored to your interests. The ads might, for instance, be randomly generated or based on the web page you are visiting.
+Additionally, we use **non-tracking cookies** (not unique) to store user decisions in terms of your ad consent and opt-out choices:
 
-Some internet browsers allow users to send a "Do Not Track" signal to websites they visit. We do not respond to this signal.
+  * We may drop a __adroll cookie with value opt-out if you opt-out as described below.
+  * We may drop a __consent cookie that stores the consent choices you have made regarding data processing and advertising by AdRoll Group.
 
-In addition, if you are located in the European Economic Area you may also have the right to access, correct or update some of the information we hold about you. You can also request that we delete your information. If you wish to exercise any of these rights, please contact us at [delight@adroll.com](mailto:delight@adroll.com). Please note that in many cases, we hold identifiable information only on behalf of our Advertiser clients, and we may instead direct you to contact them.
 
-### 6\. Data retention
 
-We retain the identifiable data we collect directly for targeting purposes for 13 months, after which time we employ measures to de-identify the data by removing unique identifiers and truncating associated IP addresses.
+A full list of AdRoll Group cookies is set out below:
 
-Identifiable data collected for other purposes is held no longer than necessary for our business purposes or to meet legal requirements.
+**Tracking cookies** | **Non-tracking cookies**  
+---|---  
+__adroll  
+__adroll_v4  
+__adroll_fpc  |  __adroll_consent_paramas  
+__adroll_post_consent_html  
+__adroll_post_connsent_css   
+  
+### 6\. Your Choices and Opting-Out of Targeted Ads
 
-### 7\. Security
+| 
 
-We apply technical, administrative and organizational security measures to protect the data we collect against accidental or unlawful destruction and loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against other unlawful forms of processing.
+Back to top  
+  
+---|---  
+  
+We recognize how important your online privacy is to you, so we offer the following options for controlling the targeted ads (sometimes called “interest-based ads”) you receive and how we use your data.
 
-### 8\. International transfers
+Opting-out of this type of advertising through the below methods will not prevent you from seeing ads, but those ads will likely be less relevant because they will not be tailored to your interests. The ads might, for instance, be randomly generated or based on the web page you are visiting.
 
-We may transfer the information we collect about you to countries other than the country where we originally collected it for the purposes of storage and processing of data and operating our services. Those countries may not have the same data protection laws as your country. However, when we transfer your information to other countries, we will protect that information as described in this Privacy Notice and take steps, where necessary, to ensure that international transfers comply with applicable laws. For example, if we transfer your information from the European Economic Area to a country outside it, such as the United States, we will seek to take additional steps such as entering into EU compliant data transfer agreements with the data importer where necessary.
+  * _Web browser:_ You can opt-out of receiving personalized ads (including retargeted ads) served by us or on our behalf by clicking on the blue icon that typically appears in the corner of the ads we serve and following the instructions provided or by clicking [here](https://app.adroll.com/optout/safari). Please note that this “opt-out” function is browser-specific and relies on an “opt-out cookie”, thus, if you delete your cookies or upgrade your browser after having opted out, you will need to opt-out again. If you use a Safari browser, please also see directions regarding our cookie-less technology opt-out, below.
+  * _Cross Device Opt- Out:_ In some cases we may link multiple browsers or devices to you. If you opt-out on a browser or device and we have additional devices or browsers linked to you, we will extend your opt-out decision to any other linked browsers and devices. Since we only link users across browsers and devices in some conditions, there could be cases where you are still being tracked in a different browser or device we have not linked, and where we are treating you as a different user.
+  * _Mobile Device Opt-Out:_ To opt-out of receiving targeted ads that are based on your behavior across different mobile applications follow the below instructions, for iOS and Android devices:
+    * iOS 7 or Higher: Go to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting; and
+    * For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher: Open your Google Settings app > Select Ads > Enable “Opt out of interest-based advertising”.
+  * _Industry Opt-Out Tools and Self-Regulation:_
+    * AdRoll Group is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Code of Conduct. You may use the NAI opt-out tool [here](http://www.networkadvertising.org/choices/), which will allow you to opt-out of seeing personalized ads from us and from other NAI approved member companies.
+    * We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt-out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAA website [here](http://www.aboutads.info/choices/).
+    * We also comply with the Canadian Self-regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance of Canada (DAAC). You may opt-out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAAC website [here](http://youradchoices.ca/choices/).
+    * Finally, we also adhere to the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt-out via their ”Your Online Choices” website [here](http://www.youronlinechoices.com/).
+  * **Note to Safari Users.** When you opt-out on a browser, we, other advertising platforms, and other third parties, generally place a cookie on your browser instructing us not to use your other online behaviors to customize the ads you see. However, if you are using a Safari browser, opt-out cookies that are set for purposes of restricting this type of advertising may be deleted prior to their intended expiration date; we have no control over these browser controls or cookie deletions.
+  * **Do Not Track Disclosure:** Some internet browsers allow users to send a "Do Not Track" signal to websites they visit. We do not respond to this signal at the present time.
+  * **Reminder to Users Residing in a European Territory:** If you are located in a European Territory you will also have additional data protection rights. These are described under the "Information for European Territory Residents: Our Legal Basis and Your Rights” section below.
 
-### 9\. Changes to this Privacy Notice
+
+
+**CRM Data:** We are processors of CRM data that we hold on behalf of an Advertiser, such as email address lists. We retain this CRM Data until the Advertiser asks us to delete this data.
+
+**Mobile Identifiers and Cookie Identifiers:** Cookie identifiers we collect expire (and are then deleted) 13 months from the last time your device accessed a Digital Property using our technology. If you visit another Digital Property that uses our technology inside that 13-month expiry period, then the expiry period will be reset and measured from that date instead. The expiration period for mobile identifiers is controlled by the end-user on their own device.
+
+**Personal Data Associated with Mobile and Cookie Identifiers Related to Browsing History:** We delete personal data associated with mobile and cookie identifiers after 12 months. For example, data such as an Advertiser’s website you visited or ads that you may have clicked.
+
+**Personal Data Associated with Real Time Bids:** Data logged for a particular submitted bid or a received real time bid request (including cookie identifiers, mobile identifiers, the advertisable bid on, and the advertisable won or displayed to the end-user) are deleted after 30 days.
+
+**Personal Data Associated with the Display of an Advertisable:** Data logged for the display of an advertisable (including cookie identifiers, the advertisable won or displayed to the end user as well as data indicated whether an end user clicked on the particular advertisable displayed) are deleted after 12 months.
+
+We apply technical, administrative and organizational security measures to protect the personal data we collect against accidental or unlawful destruction,loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against other unlawful forms of processing.
+
+We may transfer the information we collect about you to countries (including the United States of America) other than the country where we originally collected it for the purposes of storage and processing of data and operating our services. In general, these countries will be the countries in which we, our Advertisers, or our or their service providers operate.
+
+Those countries may not have the same data protection laws as your country. However, when we transfer your information to other countries, we will protect that information as described in this Privacy Notice and take steps, where necessary, to ensure that international transfers comply with applicable laws.
+
+For example, when we transfer your information from a European Territory to our parent company in the United States, we do so under the European Commission's Standard Contractual Clauses. These Standard Contractual Clauses are incorporated in the AdRoll Data Protection Addendum [here](https://www.adrollgroup.com/terms/data-protection).
+
+### 10\. Information for European Territory Residents: Our Legal Basis and Your Rights
+
+| 
+
+Back to top  
+  
+---|---  
+  
+**Our Legal Basis:** If you interact with our services from the European Territories, our legal basis for collecting and using the personal data described above will depend on the personal information concerned and the specific context in which we collect it. **"European Territories"** means the European Economic Area and Switzerland. For the purpose of this Privacy Notice, the term "European Territories" shall continue to include the United Kingdom, even after the United Kingdom leaves the European Economic Area following Brexit.
+
+  * We will normally collect personal data from you where the processing is in our legitimate business interests to do so. For example, to administer our platforms and services and fulfil our contractual obligations as a service provider.
+  * In some cases we may collect and process personal data based on consent.
+
+
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, including if you would like to better understand how our legitimate interests to process your data are balanced against your data protection rights and freedoms, then please contact us using the contact details provided under the “Contact Us” heading below.
+
+**Your Enhanced Privacy Rights:** In addition, if you are a resident of a European Territory, you have the following enhanced rights under EU data protection law:
+
+  * If you wish to **access, correct, update or request deletion** of your personal information, you can contact us using the contact details provided in the “Contact Us About Questions or Concerns” section below.
+  * You can **object to processing** of your personal information, and/or ask us to **restrict processing** of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the “Contact us about questions or concerns” heading below.
+  * Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent. Specifically, you can withdraw consent for us or our partners to drop cookies by clicking [here](https://app.adroll.com/optout/safari) or by refusing consent for AdRoll Group when you see a “consent banner” on a publisher or advertiser site which lists AdRoll as a vendor.
+  * You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. (Contact details for data protection authorities in the European Territories are available [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).) However, if you have any questions about our collection and use of your personal information, we encourage you to contact us first at [support@adroll.com](mailto:support@adroll.com). If you are unable to obtain the information or resolution that you seek, you may also contact our Data Protection Officer at [dpo@adrollgroup.com](mailto:dpo@adrollgroup.com).
+
+
+
+Please note that we have no direct relationship with the individuals whose personal data we process on behalf of our clients and partners. Where we act as a processor for our clients and partners (for example, when we handle our clients’ CRM data solely to provide them services), you should direct any requests to access, correct, update, or delete your personal data to the respective client or partner. We will respond to any requests by a client or partner to provide assistance with such requests within 30 days.
 
 Changes to this Privacy Notice will be posted on this page. If we make a material change to our privacy practices, we will provide notice on the site or by other means as appropriate.
 
-### 10\. Contact us about questions or concerns
+If we are required by applicable data protection laws to obtain your consent to any material changes before they come into effect, then we will do so in accordance with law.
 
-If you have any questions about this Privacy Notice or our privacy practices, you can contact [delight@adroll.com](mailto:delight@adroll.com).
+If you have any questions about this Privacy Notice or our privacy practices, you can contact [support@adroll.com](mailto:support@adroll.com).
 
-If you are located in the European Economic Area and we are processing your data as a data controller, AdRoll Advertising Limited is the data controller of your information. To contact AdRoll Advertising please e-mail [delight@adroll.com](mailto:delight@adroll.com) or write to us at the following address:
+If you are located in a European Territory and we are processing your data as a data controller, AdRoll Advertising Limited is the data controller of your information. To contact AdRoll Advertising Limited please email [support@adroll.com](mailto:support@adroll.com) or write to us at the following address:
 
 AdRoll Advertising Limited  
 Attn: Privacy  
@@ -113,112 +207,210 @@ Level 6
 Burlington Road  
 Dublin 4, Ireland
 
-Last updated June 19, 2017  
-[View archived Privacy Policy](https://web.archive.org/about/privacy-archived)
+If you wish to escalate your inquiry after contacting the support team, you are welcome to contact [privacy@adroll.com](mailto:privacy@adroll.com) or our Data Protection Officer: Lucid Privacy Group
+
+Address:  
+Attention: Lucid Privacy Group, AdRoll Group Data Protection Officer.  
+1050 Page Street  
+San Francisco, CA 94117  
+USA  
+Email: [dpo@adrollgroup.com](mailto:dpo@adrollgroup.com)
+
+Last updated June 4, 2018  
+[View archived Privacy Policy](https://web.archive.org/privacy-archived#website)
 
 We have prepared this Privacy Notice to explain how, why, and when we collect data from you on our website.
 
-Please note that this Privacy Notice only applies to data that we collect when you visit the AdRoll website at www.adroll.com. To learn what data we collect when you visit the websites of our advertiser clients, please visit the AdRoll Service Privacy Notice.
+Please note that this Privacy Notice only applies to data that we collect when you visit an AdRoll Group website, including [connect.adroll.com](https://connect.adroll.com/), [app.adroll.com](https://app.adroll.com/), [www.adrollgroup.com](https://www.adrollgroup.com/), [www.adroll.com](https://www.adroll.com/), [pages.adroll.com](https://pages.adroll.com/), [www.rollworks.com](https://www.rollworks.com/), [pages.rollworks.com](https://pages.rollworks.com/), [https://blog.adrollgroup.com](https://https//blog.adrollgroup.com), [help.adroll.com](https://help.adroll.com/), [tech.adroll.com](https://tech.adroll.com/), or [developers.adroll.com](https://developers.adroll.com/). To learn what data we collect when you visit the websites of our advertiser clients, please visit the AdRoll Group Service Privacy Notice.
 
-### 1\. About AdRoll's Services
+* * *
 
-AdRoll provides targeted advertising services for our advertiser clients ("Advertisers"). When you visit a website operated by an Advertiser or a third party site where we could serve an ad to you, we may collect some or all of the data described in the AdRoll Service Privacy Notice. Our platform uses that data as well as other data described below to help Advertisers provide ads to you that are more relevant to you.
+##### Website Privacy Notice Contents
 
-For example, if you visit an Advertiser's website and shop for running shoes, our Platform (or another platform we work with) may later serve you with targeted ads for the Advertiser’s brand of running shoes as you browse the internet or through other channels, such as emails.
+  * About AdRoll Group's Services
+  * What data we collect and how we use it
+  * How we use the data we collect
+  * Our legal basis for processing personal data (European Territory Visitors only)
+  * Data Sharing
+  * Cookies and related technologies
+  * Your choices and opting-out
+  * Data retention
+  * Security
+  * International transfers
+  * Additional data protection rights for European Territory residents
+  * Changes to this Privacy Notice
+  * Contact us about questions or concerns
 
-### 2\. What data we collect and how we use it
+
+
+* * *
+
+AdRoll Group provides targeted advertising and marketing services for our clients ( **“Clients”** or **“Advertisers”** ). The AdRoll Group website(s) are a collection of sites that we use to describe our services to potential advertiser clients, to provide our advertising services to these Clients, and to support Clients and partners as they seek to deploy and manage their campaigns with us over time.
+
+Our products help show our Clients’ ads and emails to the people that are most likely to find them interesting. We aim to make advertising more useful and relevant to consumers by showing ads that are best tied to their specific interests. And we show these ads on websites which rely on advertising revenue to support the content we all consume each day.
+
+To do this, when you visit a website or a mobile application operated by AdRoll Group or an Advertiser (collectively, **“Digital Properties”** ), open an email from AdRoll Group or an Advertiser, or we serve you an ad on behalf of an Advertiser on a third party site, we may collect some or all of the data described in our Services Privacy Notice. Our platform uses that data, as well as other data described below, to help Advertisers provide ads to you that are more relevant to you.
+
+For example, let’s say you just joined a local soccer club and are in the market for a new soccer ball. If you visit ACME Soccer Ball Co.’s website in search of the perfect soccer ball, but don’t purchase one just yet because you are still looking, we may later show you ACME Soccer Ball Co. ads to encourage you to come back and purchase one of their soccer balls, perhaps even with a discount offer or notice of an upcoming sale. We may also show you ads from ACME Soccer Ball Co. or other companies with additional product recommendations you may be interested in, such as for soccer cleats, or tickets to an upcoming soccer match, as you browse the internet. If you gave ACME Soccer Ball Co. your email address for marketing purposes, we may also serve ACME Soccer Ball Co. ads to you through other channels, such as by email.
 
 We may collect the following categories of information on our website and use them for the purposes explained below.
 
-  * Website activity: Data about your browsing activity on our website
-  * Device and browser information: Technical information about the device or browser you use to access our website. For example, your device's IP address, and (in the case of mobile devices) your device type and mobile device's unique identifier such as the Apple IDFA or Android Advertising ID.
-  * Contact Information: If you choose to provide your name, email address or phone number
-  * Account Information: If you open a account, we will collect your username and a password and other information to necessary to open and access your account
-  * Customer Service Information: Information you may provide to customer service including survey responses
-  * Financial Information: Credit card number or other payment account information. This information is collected directly by our payments processor and not stored at AdRoll.
-  * Third party information: We may collect additional information about you from third party sources where we have the rights to do so.
+  * _Contact Information:_ You may provide us with your name, address, phone number and email when you set up an account with us and you may provide your name, title, company, email, address and/or phone number when you sign up for an event with us online or download content from our site.
+  * _Account Information:_ If you open an account, we will collect your username and password and other information necessary to open and access your account.
+  * _Customer Service Information:_ Information you may provide to customer service including your email address for purposes of responding to your inquiries and survey responses.
+  * _Financial Information:_ Credit card number or other payment account information. This information is collected directly by our payments processor and not stored at AdRoll.
+  * _Activity on Our Digital Properties:_ This is data about your browsing activity on our websites, or when you interact with our other tools or dashboards. For example, which pages you visited and when, what items were clicked on a page, how much time was spent on a page, whether you downloaded a white paper.
+  * _Device and browser information:_ This is technical information about the device or browser you use to access our Digital Property. For example, your device's IP address, cookie string data, operating system, and (in the case of mobile devices) your device type, and mobile device's identifier (such as the Apple IDFA or Android Advertising ID, and any other unique identifier that may be assigned to the mobile device).
+  * _Ad data:_ This is data about the online ads we have served (or attempted to serve) to you. It includes things like how many times an ad has been served to you, what page the ad appeared on, and whether you clicked on or otherwise interacted with the ad.
+  * _Data from Advertising Partners:_ This is data that we lawfully receive from other digital advertising companies that we work with ( **“Advertising Partners”** ) to help us deliver ads to you and recognize you across browsers and devices. This may include pseudonymous advertiser identifiers (meaning identifiers that help identify your browser or device, but do not directly identify you as a person) which some third party Advertising Platforms choose to share with us – for example, an identifier (such as a cookie) associated with a hashed version of your email address, or demographic data such as age range. We may work with our Advertising Partners to synchronize their unique, pseudonymous identifiers to our own to enable us to more accurately recognise a particular unique browser or device and the advertising interests associated with it.
+  * _Hashed email addresses:_ We collect hashed versions of the emails you enter on our site. Hashing is a “one-way function” that effectively pseudonymizes email addresses. For instance, when joe_the_cat@adroll.com is run through a typical hashing function, it becomes the following string of digits: 0F0B7B1A1A7E8BDBBC6AA545F8CCD6F83671B32479271BFCB6CC8498912058D5. We take this step to de-identify data and protect email addresses, while being able to use an identifier to better connect devices and browsers. We describe how this helps us better provide our services in “How we use the data we collect” below.
+  * _Contact Information._ We obtain and collect contact information from various third party sources, including from public sources and through licenses with data providers. We may also infer contact information based on email addresses and email naming conventions. This contact information is B2B information – in other words, it is usually the contact information of someone at a business email address, business street address, or sometimes, a business telephone number. We will not collect contact information this way for individuals who are located in European Territories.
+  * _Third party information:_ We may collect additional information about you from other third party sources where they have the rights to share such information and we have the rights to use it, for example, demographic data or title and employer data. We use this data to better understand our customers and to better market our services to you.
 
 
 
-We use this data to:
+We use this data to operate our business and provide services to you as well to personalize AdRoll Group advertising and marketing materials we may serve to you:
 
-  * provide AdRoll services and customer support
-  * collect fees and troubleshoot problems
-  * prevent potential fraud and enforce our Terms of Service
-  * customize, measure, and improve our website and services
-  * deliver targeted marketing to you
-  * contact you by email or phone about your account or our services including to market our services to you
+  * _Providing our AdRoll Services and Customer Support:_ For example, to monitor usage of features, manage campaigns, and log data for audit purposes. We may contact you when you ask us for support or when it appears to us that you might need support, and to maintain records of our communications with you for future reference.
+  * _Invoice you and collect fees for services we have provided._
+  * _Troubleshoot Problems:_ To monitor and fix our website performance, for example if the site is slow, not loading properly, or to investigate aberrations in performance of our services.
+  * _Prevent potential fraud and enforce our Terms of Service._ To prevent fraud on our site or through the use of our services; to enforce our Terms of Service or other policies or investigate any potential violation of those Terms and policies, any potential violation of the law; or to protect ourselves, our customers, or any third party from any potential harm (whether tangible or intangible).
+  * _Customize, measure and improve our website and services:_ To provide customized content and to measure which content is most helpful (or unhelpful) to our customers, which helps improve our website and our services. For example, if we notice higher visits to certain Help Center articles or receive higher Customer Support tickets for specific issues, we can improve our support materials or identify areas where we can make our product better for our customers.
+  * _Contact you about your account or our services, including to market our services to you or provide updates:_ We may use your contact information to contact you about your account, for example, in relation to performance of your campaigns, to follow up on billing issues, or to tell you about new services we are offering. We may send you product updates, performance information, surveys, or communicate with you in other ways about our services. When we can legally do so, we may augment the information you give us in order to contact you by phone or even snail mail. You can opt-out of receiving emails by unsubscribing through the link at the bottom of our emails or by updating your email preferences [here](http://pages.adroll.com/Email-Preference-Center.html). You can let us know if you don’t want to receive phone calls or other marketing materials from us by contacting [support@adroll.com](mailto:support@adroll.com).
+  * _Deliver Targeted Marketing:_ We use our own AdRoll Group services to generate and route marketing leads for our business and to deliver targeted marketing to you. For more information about how our services work, please see our Services Privacy Notice.
+  * _Targeting:_ Selecting ads that are more likely to be relevant to you on other sites around the net based on the interests previously associated with your device and the time of day you may be most interested in viewing these specific ads. For example, we may show you ads for an AdRoll Group product on another site related to a whitepaper you downloaded from one of our websites (or similar sites we think you may like) during lunch or commute hours.
+  * _Frequency capping:_ Making sure that you don't see the same ad too many times.
+  * _Sequencing:_ If you are being served a sequence of ads, making sure we show you the right ad next in the sequence.
+  * _Cross-device matching:_ Identifying all devices that are likely to be associated with you so that ads can be targeted, capped and sequenced across those devices. For example, cross-device matching helps us NOT show you ads for the AdRoll Group services you were looking at on your phone but that you already signed up for on your laptop. Instead we’ll try to show you ads for our newly launched feature or product that can help your business dare to grow even more. It also helps us match devices so we can honor your opt-out choices across all devices we know are connected to the opted-out cookie.
+  * _Attribution:_ Monitoring when, where, and at what price we served certain ads so that we can measure our influence on the marketing result of the Advertiser’s campaigns and overall marketing strategy. For example, being able to measure if a certain ad campaign (the ads shown and to whom they were shown) actually led to a potential customer becoming a paying customer.
+  * _Reporting:_ Analyze how our ads are performing and gain insights into our customers. Reporting may include ad metrics such as impressions, clicks, and conversions (for example, if you create an AdRoll Group account or download a white paper from our site). This helps us identify ads that are useful to our customers and demonstrate AdRoll Group’s value, and relatedly, helps us identify an ad that is not performing well (customers aren’t clicking on it), we will be able to see that data and update our ad or ad campaign strategy.
 
 
 
-### 3\. Data Sharing
+### 4\. Our Legal Basis for Processing Personal Data (European Territory Visitors only)
+
+| 
+
+Back to top  
+  
+---|---  
+  
+We provide the representations and information in this Section 4 in compliance with European privacy laws, in particular the European General Data Protection Regulation (GDPR). If you are a visitor from the European Territories, our legal basis for collecting and using the personal data described above will depend on the personal information concerned and the specific context in which we collect it. "European Territories" mean the European Economic Area and Switzerland. For the purpose of this Privacy Notice, the term "European Territories" shall continue to include the United Kingdom, even after the United Kingdom leaves the European Economic Area following Brexit.
+
+We will normally collect personal data from you where the processing is in our legitimate interests. For example, to administer our platforms and services and fulfil our contractual obligations as a service provider. In some cases we may collect and process personal data based on consent.
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, including if you would like to better understand how our legitimate interests to process your data are balanced against your data protection rights and freedoms, then please contact us using the contact details provided under the “Contact Us” heading below.
 
 We may disclose information about you:
 
-  * With our service providers: Companies we contract with who help with parts of our business operations. We require that our service providers only use your information in connection with the services they perform for us.
-  * With your service providers: Companies under contract with, or acting on your behalf, who handle data (such as a customer lists) on your behalf.
-  * With our subsidiaries and related companies
-  * In connection with legal proceedings: When we are under a legal obligation to do so, for example to comply with a binding order of a court, or where disclosure is necessary to exercise, establish or defend the legal rights of AdRoll, our Advertisers or any other third party.
-  * In connection with a sale of our business: If a third party acquires some or all of our business or assets, we may disclose your information in connection with the sale.
-  * We also share technical data that we collect about your browsing habits and your device (such as data relating to our cookies, tracking pixels and similar technologies) with other advertising companies in the digital advertising ecosystem. This enables them and us to better target ads to you.
+  * _With our service providers:_ We contract with companies who help with parts of our business operations (e.g., for example, website and data hosting, fraud prevention, viewability reporting, data hygiene, marketing, and email delivery), as well as billing, collections, tech, customer and operational support.
+  * _With our subsidiaries and related companies:_ But they will only process your data for the purposes already explained in this Privacy Notice. Our subsidiaries are AdRoll Advertising Limited (Ireland), AdRoll Holdings Limited (Ireland), AdRoll Limited (UK), and AdRoll Pty Limited (Australia).
+  * _With other advertising companies in the digital advertising ecosystem._ We share hashed email addresses (or other pseudonymous identifiers associated with those hashes), technical data that we collect about your browsing habits and your device (such as data relating to our cookies, tracking pixels and similar technologies) with other advertising companies in the digital advertising ecosystem. This enables them and us to better target ads to you.
+  * _In connection with legal proceedings:_ When we are under a legal obligation to do so, for example to comply with a binding order of a court, or where disclosure is necessary to exercise, establish or defend the legal rights of AdRoll Group, our Advertisers or any other third party.
+  * _To comply with legal process:_ To satisfy in good faith any applicable law, legal process, or proper governmental request, such as to respond to a subpoena (whether civil or criminal) or similar process.
+  * _To investigate wrongdoing and protect ourselves or third parties:_ To enforce our Terms of Service or other policies or investigate any potential violation of those Terms and policies, any potential violation of the law, or to protect ourselves, our customers, or any third party from any potential harm (whether tangible or intangible).
+  * _In connection with a sale of our business:_ If a third party acquires some or all of our business or assets, we may disclose your information in connection with the sale (including during due diligence in preparation for the sale).
+  * Finally, we may disclose aggregated, anonymized information to third parties, for example, when we conduct industry wide surveys to publish benchmark reporks, or to include statistics when collaborating with researchers or other companies on industry white papers.
 
 
 
-Finally, we may disclose aggregated, anonymized information to third parties.
+Our websites use cookies, tracking pixels and related technologies to operate and personalize our site, for example to provide personalized content on our site, enable customer service chat functionality, for analytics purposes, and to target ads to you about our products and services on other websites.
 
-### 4\. Cookies and related technologies
+AdRoll Group uses cookies, tracking pixels and related technologies to provide our services for Advertisers. Cookies are small data files that are served by our platform and stored on your device.
 
-The AdRoll website uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites.
+**Tracking cookies** enable us to identify your device when you move between different Digital Properties, so that we can serve targeted advertising to you.
 
-To get more information about the individual cookies dropped by our website, please see the Adjust Ad Preferences link on the footer of our website.
-
-### 5\. Your choices and opting-out
-
-We recognize how important your online privacy is to you, so we offer the following options for controlling the targeted ads you receive and how we use your data:
-
-  * You can opt-out of receiving targeted ads served by us: You can opt out of receiving targeted ads served by us or on our behalf by clicking on the blue icon in the corner of the ads we serve or by clicking [here](https://app.adroll.com/optout/safari). Please note that, if you delete your cookies or upgrade your browser after having opted out, you will need to opt out again. Further, if you use multiple browsers or devices you will need to execute this opt out on each browser or device. If you opt-out we may collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you.
-  * You can opt-out of receiving targeted ads served by us or other advertising companies: AdRoll is also a member of the Network Advertising Initiative (NAI) and adheres to the NAI Codes of Conduct. You may use the NAI opt out tool [here](http://www.networkadvertising.org/choices/), which will allow you to opt out of seeing targeted ads from us and from other NAI approved member companies.
-
-  * We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out of receiving targeted ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAA website [here](http://www.aboutads.info/choices/).
-
-  * We also comply with the Canadian Self-regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance of Canada (DAAC). You may opt out of receiving targeted ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAAC website [here](http://youradchoices.ca/choices/).
-
-  * We also adhere to the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt out via their [Your Online Choices](http://www.youronlinechoices.com/) website.
-
-  * Please note that when using the ad industry opt-out tools described above:
-
-    * If you opt-out we may still collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you.
-    * If you use multiple browsers or devices you may need to execute this opt out on each browser or device.
-    * Other ad companies’ opt-outs may function differently than our opt-out.
-  * You can request that we stop email marketing to you. You can use the unsubscribe link in our marketing emails or contact [delight@adroll.com](mailto:delight@AdRoll.com).
+  * Specifically, the AdRoll cookie we serve through the AdRoll platform for this purpose is named “__adroll” and “__adroll_fpc”.
 
 
 
-Some internet browsers allow users to send a "Do Not Track" signal to websites they visit. We do not respond to this signal.
+Our Advertising Partners may also drop cookies for the purposes described above. For example, cookies are dropped for the exchanges through which we buy ads, such as AppNexus and Rubicon and for analytics tools such as Pixalate which helps us measure viewability (meaning whether the ad was actually served and seen) and prevent fraud.
 
-In addition, if you are located in the European Economic Area you may also have the right to access, correct or update some of the information we hold about you. You can also request that we delete your information. If you wish to exercise any of these rights, please contact us at [delight@adroll.com](mailto:delight@adroll.com).
+Generally, the type of cookies dropped will vary depending on the Advertising Partner. We provide a list of our Advertising Pixel Partners [here](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners).
 
-### 6\. Data retention
+Additionally, we use **non-tracking cookies** (not unique) to store user decisions in terms of your ad consent and opt-out choices:
 
-Identifiable information about you is held no longer than necessary for our business purposes or to meet legal requirements.
+  * We may drop an __adroll cookie with value opt-out if you opt-out as described below and an AdRoll consent cookie to track your consent choices.
+  * We may drop a __consent cookie that stores the consent choices you have made regarding data processing and advertising by AdRoll.
 
-### 7\. Security
+
+
+A full list of AdRoll Group cookies is set out below:
+
+**Tracking cookies** | **Non-tracking cookies**  
+---|---  
+__adroll  
+__adroll_v4  
+__adroll_fpc  |  __adroll_consent_paramas  
+__adroll_post_consent_html  
+__adroll_post_connsent_css   
+  
+To get more information about the individual cookies dropped by our website, please or the “Adjust Ad Preferences” link on the footer of our website or in our cookie consent banner.
+
+We recognize how important your online privacy is to you, so we offer the following options for controlling the targeted ads (sometimes called “interest-based ads”) you receive and how we use your data.
+
+Opting-out of this type of advertising through the below methods will not prevent you from seeing ads, but those ads will likely be less relevant because they will not be tailored to your interests. The ads might, for instance, be randomly generated or based on the web page you are visiting.
+
+  * _Web browser:_ You can opt-out of receiving personalized ads (including retargeted ads) served by us or on our behalf by clicking on the blue icon that typically appears in the corner of the ads we serve and following the instructions provided or by clicking [here](https://app.adroll.com/optout/safari). Please note that this “opt-out” function is browser-specific and relies on an “opt-out cookie”, thus, if you delete your cookies or upgrade your browser after having opted out, you will need to opt-out again. If you use a Safari browser, please also see directions regarding our cookie-less technology opt-out, below.
+  * _Cross Device Opt-Out:_ In some cases we may link multiple browsers or devices to you. If you opt-out on a browser or device and we have more linked to you, we will extend your opt-out decision to the other linked browsers and devices. Since we only link users across browsers and devices in some conditions, there could be cases where you are still being tracked in a different browser or device we have not linked, and where we are treating you as a different user.
+  * _Mobile Device Opt-Out:_ To opt-out of receiving targeted ads that are based on your behavior across different mobile applications follow the below instructions, for iOS and Android devices: 
+    * _iOS 7 or Higher:_ Go to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting; and
+    * _For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher:_ Open your Google Settings app > Select Ads > Enable “Opt out of interest-based advertising”.
+  * _Industry Opt-Out Tools and Self-Regulation:_
+    * AdRoll Group is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Code of Conduct. You may use the NAI opt-out tool [here](http://www.networkadvertising.org/choices/), which will allow you to opt-out of seeing personalized ads from us and from other NAI approved member companies.
+    * We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt-out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAA website [here](http://www.aboutads.info/choices/).
+    * We also comply with the Canadian Self-regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance of Canada (DAAC). You may opt-out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAAC website [here](http://youradchoices.ca/choices/).
+    * Finally, we also adhere to the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt-out via their ”Your Online Choices” website [here](http://www.youronlinechoices.com/).
+
+
+
+You can also request that we stop email marketing to you. You can use the unsubscribe link in our marketing emails or contact [support@adroll.com](mailto:support@adroll.com).
+
+We retain data for as long as necessary to provide our services and for the purposes described in this Privacy Notice. For example, we may retain billing information as necessary to meet audit requirements. We may retain login information to confirm when Terms of Service were accepted. We may also retain information as long as necessary to meet legal requirements, resolve disputes or enforce agreements.
+
+We retain cookie data such as device and browser information, ad data, and data collected on our Digital Properties as follows:
+
+**Mobile Identifiers and Cookie Identifiers:** Cookie identifiers we collect expire (and are then deleted) 13 months from the last time your device accessed a Digital Property using our technology. If you visit another Digital Property that uses our technology inside that 13-month expiry period, then the expiry period will be reset and measured from that date instead. The expiration period for mobile identifiers is controlled by the end-user on their own device.
+
+**Personal Data Associated with Mobile and Cookie Identifiers Related to Browsing History:** We delete personal data associated with mobile and cookie identifiers after 12 months. For example, data such as an Advertiser’s website you visited or ads that you may have clicked.
+
+**Personal Data Associated with Real Time Bids:** Data logged for a particular submitted bid or a received real time bid request (including cookie identifiers, mobile identifiers, the advertisable bid on, and the advertisable won or displayed to the end-user) are deleted after 30 days.
+
+**Personal Data Associated with the Display of an Advertisable:** Data logged for the display of an advertisable (including cookie identifiers, the advertisable won or displayed to the end user as well as data indicated whether an end user clicked on the particular advertisable displayed) are deleted after 12 months.
 
 We apply technical, administrative and organizational security measures to protect the data we collect against accidental or unlawful destruction and loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against other unlawful forms of processing.
 
-### 8\. International transfers
+We may transfer the information we collect about you to countries (including the United States of America) other than the country where we originally collected it for the purposes of storage and processing of data and operating our services. In general, these countries will be the countries in which we, our Advertisers, or our or their service providers operate.
 
-We may transfer the information we collect about you to countries other than the country where we originally collected it for the purposes of storage and processing of data and operating our services. Those countries may not have the same data protection laws as your country. However, when we transfer your information to other countries, we will protect that information as described in this Privacy Notice and take steps, where necessary, to ensure that international transfers comply with applicable laws. For example, if we transfer your information from the European Economic Area to a country outside it, such as the United States, we will seek to take additional steps such as entering into EU compliant data transfer agreements with the data importer where necessary.
+Those countries may not have the same data protection laws as your country. However, when we transfer your information to other countries, we will protect that information as described in this Privacy Notice and take steps, where necessary, to ensure that international transfers comply with applicable laws.
 
-### 9\. Changes to this Privacy Notice
+For example, when we transfer your information from a European Territory to our parent company in the United States, we do so under the European Commission's Standard Contractual Clauses.
+
+### 11\. Additional data protection rights for European Territory residents
+
+| 
+
+Back to top  
+  
+---|---  
+  
+If you are a resident of a European Territory, you have the following enhanced rights under EU data protection law:
+
+  * If you wish to **access, correct, update or request deletion** of your personal information, you can contact us using the contact details provided under the “Contact Us About Questions or Concerns” section below.
+  * You can **object to processing** of your personal information, ask us to restrict processing of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the “Contact Us About Questions or Concerns” section below.
+  * Similarly, if we have collected and processed your personal information with your consent, then you can **withdraw your consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * Specifically, you can **withdraw consent** for us or our partners to drop our __adroll cookie and our partners’ cookies by clicking [here](https://app.adroll.com/optout/safari) or by withdrawing consent for AdRoll when you see a “consent banner” on a publisher or advertiser site which lists AdRoll or AdRoll Group as a vendor.
+  * You have the **right to complain** to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. (Contact details for data protection authorities in the European Territories are available [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).) However, if you have any questions about our collection and use of your personal information, please contact us first at [support@adroll.com](mailto:support@adroll.com). If you are unable to obtain the information or resolution that you seek, you may also contact our Data Protection Officer at [dpo@adrollgroup.com](mailto:dpo@adrollgroup.com).
+
+
 
 Changes to this Privacy Notice will be posted on this page. If we make a material change to our privacy practices, we will provide notice on the site or by other means as appropriate.
 
-### 10\. Contact us about questions or concerns
+If we are required by applicable data protection laws to obtain your consent to any material changes before they come into effect, then we will do so in accordance with law.
 
-If you have any questions about this Privacy Notice, our privacy practices, or with AdRoll generally, you can contact [delight@adroll.com](mailto:delight@adroll.com).
+If you have any questions about this Privacy Notice, our privacy practices, or with AdRoll Group generally, you can contact [support@adroll.com](mailto:support@adroll.com).
 
-If you are located in the European Economic Area and we are processing your data as a data controller, AdRoll Advertising Limited is the data controller of your PII. To contact AdRoll Advertising Limited please e-mail [delight@adroll.com](mailto:delight@adroll.com) or write to us at the following address:
+If you are located in the European Territory and we are processing your data as a data controller, AdRoll Advertising Limited is the data controller of your information. To contact AdRoll Advertising Limited please e-mail [support@adroll.com](mailto:support@adroll.com) or write to us at the following address:
 
 AdRoll Advertising Limited  
 Attn: Privacy  
@@ -226,3 +418,12 @@ Level 6
 1, Burlington Plaza  
 Burlington Road  
 Dublin 4, Ireland
+
+If you wish to escalate your inquiry after contacting the support team, you are welcome to contact our Data Protection Officer at [dpo@adrollgroup.com](mailto:dpo@adrollgroup.com) or by writing to the following address:
+
+Address:  
+Lucid Privacy Group  
+Attention: AdRoll Group Data Protection Officer  
+1050 Page Street  
+San Francisco, CA 94117  
+USA
