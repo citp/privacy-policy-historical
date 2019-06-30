@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamned.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223224634id_/https%3A//www.gamned.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamned.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235515id_/https%3A//www.gamned.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy – Gamned
+# Privacy policy - Gamned
 
 This specific section is devoted to **Gamned!** policy on the protection of personal data and privacy. Protection of personal data and respect for privacy are priorities for **Gamned!** The company participates and supports initiatives in favor of **transparency** towards users, on collection and processing of personal data and concerning the use of cookies on Internet
 
