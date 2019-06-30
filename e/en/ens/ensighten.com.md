@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220835id_/https%3A//www.ensighten.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230058id_/https%3A//www.ensighten.com/privacy-policy) for the most accurate reproduction.*
 
 # Ensighten Privacy Policy
 
-Last Updated May 23, 2018
+Last Updated February 26th, 2019
 
 ### **PART I. GENERAL INFORMATION**
 
@@ -164,9 +164,65 @@ Our customers can request for access or removal of data from our systems. Reques
 Transparency  
 A list of domains where data is collected by Pulse on behalf of our customers and partners is available [here](https://web.archive.org/data-collection-domains). In addition to this list, some of our customers may choose to disclose their data collection domains through their own privacy policy.
 
-**Privacy Shield Statement**
+**PRIVACY SHIELD FRAMEWORK NOTICE**
 
-Ensighten, Inc. and its subsidiaries are currently undergoing certification for the Privacy Shield Framework. To learn more about the Privacy Shield program please visit <https://www.privacyshield.gov/>.
+**Privacy Shield Principles.**
+
+Ensighten participates in the Privacy Shield Framework, a set of Principles promulgated by the U.S. Department of Commerce in consultation with the European Commission to protect personal data transferred to the United States.  A list of participants in Privacy Shield can be found at <https://www.privacyshield.gov/list>.  Ensighten is committed to adhering to the Privacy Shield Principles, stated at <https://www.privacyshield.gov/article?id=OVERVIEW> (the “Principles”), with respect to all personal data received from the European Union in reliance upon the Privacy Shield  The Principles include, among other things, respect for the choices of data subjects concerning the disclosure of their personal data, maintenance of appropriate security measures to safeguard such data, and commitment to comply with obligatory dispute resolution mechanisms.
+
+Tagman, Ltd., a wholly-owned subsidiary of Ensighten based in the United Kingdom, also adheres to the Privacy Shield Principles
+
+**Personal Data.**
+
+_Visitors to Ensighten’s Website_.  Ensighten collects information related to the device used to visit its web pages, including the device’s IP address, referring website, what pages were visited, and the time that the device visited Ensighten’s website.  This information is used to administer Ensighten web pages; for operations such as troubleshooting, data analysis, testing, research, statistical and survey purposes; to improve them to ensure that content is presented in the most effective manner; and as part of efforts to keep the websites safe and secure.  Visitors to Ensighten’s website also may choose to provide additional information, such as in the course of requesting additional information from Ensighten, or to submit a resume for consideration for employment.  In such cases, the purposes for which the information is sought are stated clearly at the time it is requested.  Ensighten also may use such information submitted voluntarily for marketing purposes, and furnish it to its marketing partners for that purpose, subject to the visitor’s stated marketing preferences and right to opt out of such marketing.
+
+_Human Resources_.  Ensighten collects and retains personal data of its own employees and contractors as reasonably necessary for purposes of managing its human resources, including functions of onboarding, payroll, tax withholding, pension entitlement calculations, health insurance eligibility, and vacation benefits.
+
+_Customer Contract Interface_.  Ensighten also collects and retains contact information of identified personnel of its customers, for purposes of managing its delivery of services to, and contractual relationships with, those customers.
+
+_Customer Services_.  Ensighten provides cloud-delivered tools via subscription, to enable its Customers to manage deployment of marketing technologies via their online properties or web pages.  Ensighten Customers may gather personal data of visitors to their websites in the course of using Ensighten tools, and they control the processing of all such data.  In most cases, Ensighten only processes, in encrypted form, the internet protocol address, approximate geographic location, and internet browser type of the device used to access our customer’s web page.  Some Customers may use specialized Ensighten technologies to gather, for marketing purposes, more detailed data about visitors’ interaction with their online properties.  Ensighten offers proprietary technology solutions, such as its _Privacy Module_ , to facilitate its Customers to obtain the conscious consent of visitors to the transmission of all personal data, and encourages its Customers to do so.
+
+_Additional Information_.  For additional information concerning the collection of data, see Ensighten’s Privacy Policy at <https://www.ensighten.com/privacy-policy/>.
+
+**Data Protection Rights.**
+
+You have the right to access, review, modify, and delete any personal information which has previously been provided about you that Ensighten holds, or which has been processed in violation of the Principles, except where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, or where the rights of other persons would be violated.
+
+To contact Ensighten with any inquiries or complaints regarding the collection or use of personal data, email [privacy@ensighten.com](mailto:privacy@ensighten.com), or telephone 888-553-6744 (toll free for US residents), nor address correspondence to Ensighten, Inc., Attention:  Privacy & Security Department, 226 Airport Parkway, Suite 390, San Jose, California 95110.  In the United Kingdom Ensighten can be contacted via Tagman Ltd., Attention:  Privacy & Security Department, Henry Wood House, 7th Floor, 2 Riding House Street, London W1W 7FA.
+
+For security purposes, Ensighten only fulfills requests for the personal data associated with the particular email address used to transmit the request.  Ensighten may need to verify the identity of the person submitting the request.
+
+Each Ensighten Customer sets its own policies concerning whether and what personal information it collects, stores or uses through the use of Ensighten services.  All questions about how an Ensighten Customer collects, stores or uses personal data, and requests to review, modify, and delete personal data that was collected by an Ensighten Customer, should be addressed directly to that Customer.
+
+**Limiting the Use and Disclosure of Personal Information.**
+
+Portions of Ensighten’s websites do not require password access, so that visitors may navigate and view content without having to provide any directly identifying personal contact details, such as name, address, e-mail address or telephone number.
+
+Visitors to Ensighten’s websites can elect to refuse cookies, using Ensighten’s Consent Management Tool at <https://www.ensighten.com/privacy-policy/>.  They also may click on the relevant opt-out link to refuse analytics and customization cookies at <https://tools.google.com/dlpage/gaoptout> or <http://measure.ensigten.com/pc/user?optOut=true>; to refuse advertising cookies at <https://www.google.com/settings/u/0/ads/authenticated>; and to refuse social networking cookies at <https://facebook.com/help/568137493302217> or <https://www.google.com/policies/privacy/#infochoices> or <https://www.linkedin.com/legal/cookie_policy> or <https://support.twitter.com/articles/20170405>, as applicable.
+
+You also can set or amend your web browser controls to accept or refuse cookies.  If you choose to reject cookies, you may still use Ensighten’s website though your access to some functionality and areas of our website may be restricted.  Consult the browser’s help menu for more information, because the means to refuse cookies through web browser controls vary from browser-to-browser.
+
+If you decline your consent to share such personal information with some third parties, Ensighten will only share your personal information with parties for whom you have consented.  If you have provided additional information, such as to request information from Ensighten, or to submit a resume, you may request to be removed from any mailing list on which you previously asked us to include you by sending an email to [unsubscribe@ensighten.com](mailto:unsubscribe@ensighten.com), by calling us on 888-553-6744 (toll free for US residents), or by clicking “Unsubscribe” in any e-mail communications from Ensighten.
+
+**Disputes and Recourse.**
+
+Ensighten is committed to cooperate with the European data protection authorities (“DPAs”), listed at <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>, to provide recourse for individuals to whom the data relate; follow up procedures for verifying that the attestations and assertions Ensighten has made about its privacy practices are true; and remedies for problems arising out of its failure to comply with the Principles.  Ensighten will (i) cooperate with the DPAs in the investigation and resolution of complaints brought under the Privacy Shield; (ii) comply with any advice given by the DPAs, where the DPAs take the view that Ensighten needs to take specific action to comply with the Privacy Shield Principles, including remedial or compensatory measures for the benefit of individuals affected by any non-compliance with the Principles; and (iii) provide the DPAs with written confirmation that such action has been taken.
+
+Ensighten also will comply with the authority of the Swiss Data Protection and Information Commissioner (see <https://www.edoeb.admin.ch/edoeb/en/home.html>), who can be contacted at [info@edoeb.admin.ch](mailto:info@edoeb.admin.ch) or telephone +41 (0)58 462 43 95, Monday to Friday from 10am to 12pm (local time).
+
+Individuals to whom the data relate also may invoke binding arbitration before the Privacy Shield Panel, to resolve claims not resolved through the above mechanisms, that Ensighten has violated the Privacy Shield Principles.  A list of authorized arbitrators, chosen on the basis of independence, integrity, and expertise, is developed by the U.S. Department of Commerce and the European Commission.
+
+Ensighten is also subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+
+**Legally Required Disclosure.**
+
+Ensighten may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+**Transfer of Data to Third Parties.**
+
+_Transfers to Data Controllers_.  Ensighten’s Customers act as the controllers of any personal data that they gather using Ensighten’s subscription tools.  As a precondition of transferring any personal data to a Customer in the role of the Customer’s data processor, Ensighten must enter into a contract with the Customer, providing that the Customer (i) may process such data only for limited and specified purposes consistent with the consent provided by the individual; (ii) will provide the same level of protection as the Principles; and (iii) if the Customer makes a determination that it can no longer meet this obligation, it will notify Ensighten and cease processing the data, or take other reasonable and appropriate steps to remediate.
+
+_Data Sub-Processors_.  Ensighten’s services are cloud-delivered via major infrastructure providers such as Amazon Web Services.  Any transfer by Ensighten of personal data to such an infrastructure provider or “agent” must be only for limited and specified purposes, as described above (including, in the course of providing its services, as instructed by a Customer, in the role of data controller).  As a precondition of transferring any personal data to a cloud infrastructure provider as a sub-processor or agent, Ensighten must (i) ascertain that the agent is obligated to provide at least the same level of privacy protection as the Principles require; (ii) take reasonable and appropriate steps to ensure that the agent effectively processes such personal information in a manner consistent with Ensighten’s obligations under the Principles; (iii) require the agent to notify Ensighten, if it makes a determination that it no longer can meet its obligation to provide the same level of protection as the Principles require; (iv) upon such notice, take reasonable and appropriate steps to stop and remediate unauthorized processing; and (v) upon request of the Department of Commerce, provide a summary or a representative copy of the relevant privacy provisions of its contract with the agent.
 
 **Other websites**
 
