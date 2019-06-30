@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zeromq.org privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201132244id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeromq.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232535id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
 
-# Wikidot - Free and Pro Wiki Hosting: Privacy Policy
+# Privacy Policy - Wikidot - Free and Pro Wiki Hosting
 
 At Wikidot we care about the privacy of our users. If you use any of the Sites hosted by Wikidot you must accept the way we handle personal information that is described below.
 
@@ -27,7 +27,11 @@ Email addresses are not shared with any third party, rent or sold.
 On some Sites anonymous users are allowed to post content and/or participate in forum discussions. In such a case, since no user name can be associated with such a user, the IP address number of a user is used as an identifier.  
 **When posting content or messages to the Sites anonymously, part of your IP address will be revealed to the public.**
 
-Wikidot.com Services use Cookies to uniquely identify and record session information. This is required for proper Service operation. Users with cookies disabled in their browsers will not be able to fully interact with the Services.
+Users purchasing upgrades are required to fill in their Billing Address. This address is treated as personal data and is kept secure in our databases. The data is used solely for accounting purposes and is never shared with 3rd party services without User agreement.
+
+Users can access and modify their data through Wikidot services, especially Account Dashboard. Users can require removal of their parsonal data by contacting moc.todikiw|ycavirp#moc.todikiw|ycavirp.
+
+Wikidot.com Services use Cookies to uniquely identify and record session information. This is required for proper Service operation. Users with cookies disabled in their browsers will not be able to fully interact with the Services. Wikidot also uses 3rd party services to measure traffic and gather analytics. These 3rd party services can use cookies to track individual users.
 
 Any Wiki Sites can contain links to other web sites or include information from other sites via RSS feed import or embedding selected HTML code portions from other social sites. Wikidot.com is not responsible for the privacy policies or rules on these sites. This privacy only relates to the Wikidot Services.
 
