@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the getfreeebooks.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308172308id_/https%3A//www.getfreeebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfreeebooks.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630182252id_/https%3A//www.getfreeebooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download Free Ebooks, Legally
+
+## Who we are
+
+Our website address is: https://www.getfreeebooks.com.
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -10,6 +14,9 @@ When contacting us using our contact form, subscribing to our RSS Feed through e
 **When do we collect information?**  
 We collect information from you when you subscribe to our RSS Feeds through email, fill out a form or submitting or recommending free ebooks.
 
+**Comments**  
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+
 **How do we use your information?**  
 We may use the information we collect from you when you sign up for our RSS Feeds through email, fill out a form, or use certain other site features in the following ways:-
 
@@ -18,16 +25,25 @@ We may use the information we collect from you when you sign up for our RSS Feed
 
 
 
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
 **How do we protect visitor information?**  
 Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
 **We use regular Malware Scanning.**
 
-**We do not use an SSL certificate**  
-• We only provide articles and information. We never ask for personal or private information like credit card numbers.
-
 **Do we use ‘cookies’?  
 **Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
 **We use cookies to:-**  
 Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
@@ -36,11 +52,19 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 If you disable cookies, some features will be disabled. It won’t affect the user’s overall experience.
 
+**Media**  
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
 **Third-party disclosure  
 **We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
 **Third-party links**  
 Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Embedded content from other websites**  
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
 **Google  
 **Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
@@ -116,4 +140,4 @@ If at any time you would like to unsubscribe from receiving future emails, follo
 
 If there are any questions regarding this privacy policy you may use the [contact us form](https://www.getfreeebooks.com/contact/).
 
-_Last Edited on 2016-03-08_
+_Last Edited on 2018-05-25_
