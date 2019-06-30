@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammarly.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214231629id_/https%3A//www.grammarly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarly.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210946id_/https%3A//www.grammarly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grammarly
 
@@ -32,6 +32,10 @@ When you sign up for or use our Services, you voluntarily give us certain Perso
 We collect this Information as you use the Site, Software, and/or Services:
 
   * User Content. This consists of all text, documents, or other content or information uploaded, entered, or otherwise transmitted by you in connection with your use of the Services and/or Software.
+
+
+
+  * Names of User Contacts (if you are using the Grammarly Keyboard). The Grammarly Keyboard may request or obtain access to the names of your contacts on your device. This access helps the Grammarly Keyboard recognize when you are typing names so it can make appropriate suggestions (for example, if you misspell a name).
 
 
 
@@ -161,19 +165,19 @@ If Grammarly closes your account due to your violation of the Terms of Servi
 
 Grammarly complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Grammarly has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/).
 
-In compliance with the Privacy Shield Principles, Grammarly commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Grammarly at the contact address below. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, dispute resolution is available through a third party arbitrator by contacting our designated Privacy Shield independent recourse mechanism, [JAMS](https://www.jamsadr.com/about/submit-a-case). In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in [Annex I](https://www.privacyshield.gov/article?id=ANNEX-I-introduction) to the Privacy Shield Principles.
+In compliance with the Privacy Shield Principles, Grammarly commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Grammarly at the contact address below. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, dispute resolution is available through a third party arbitrator by contacting our designated Privacy Shield independent recourse mechanism, [JAMS](https://www.jamsadr.com/eu-us-privacy-shield). In certain circumstances, the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework provide the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in [Annex I](https://www.privacyshield.gov/article?id=ANNEX-I-introduction) to the Privacy Shield Principles.
 
-The Privacy Shield Principles describe Grammarly’s accountability for personal data that it subsequently transfers to a third-party agent. Under the Principles, Grammarly shall remain liable if third-party agents process the personal information in a manner inconsistent with the Principles, unless Grammarly proves it is not responsible for the event giving rise to the damage.
+The Privacy Shield Principles describe Grammarly’s accountability for personal data that it subsequently transfers to a third-party agent. Under the Principles, Grammarly shall remain liable if third-party agents process the personal information in a manner inconsistent with the Principle, unless Grammarly proves it is not responsible for the event giving rise to the damage.
 
 The Federal Trade Commission has jurisdiction over Grammarly’s compliance with the Privacy Shield.
 
-## For EEA users
+## For EEA and Swiss users
 
 Grammarly uses, processes, and stores Personal Data, including those listed in the “[What Information does Grammarly collect about me?](https://web.archive.org/privacy-policy/#what-information-does-grammarly-collect-about-me)” section, as necessary to perform our contract with you, and based on our legitimate interests in order to provide the Services. We rely on your consent to process Personal Data to send promotional emails and to place cookies on your devices. In some cases, Grammarly may process Personal Data pursuant to legal obligation or to protect your vital interests or those of another person.
 
 ### What rights do I have, and how can I exercise them?
 
-Individuals located in the European Economic Area (EEA) have certain rights in respect to their personal information, including the right to access, correct, or delete Personal Data we process through your use of the Site, Software, and/or Services. If you’re a user based in the EEA, you can:
+Individuals located in the European Economic Area (EEA) and Switzerland have certain rights in respect to their personal information, including the right to access, correct, or delete Personal Data we process through your use of the Site, Software, and/or Services. If you’re a user based in the EEA or Switzerland, you can:
 
   * Request a Personal Data report by submitting a support ticket through [this link](https://support.grammarly.com/hc/en-us/requests/new?personaldatareport). This report will include the Personal Data we have about you, provided to you in a structured, commonly used, and portable format. You must be signed into your Grammarly account to submit this request. Please note that Grammarly may request additional information from you to verify your identity before we disclose any information.
 
@@ -199,6 +203,10 @@ North Point Business Park
 New Mallow Road  
 Cork T23AT2P  
 Ireland
+
+## For EDU users
+
+If you are a member of a Grammarly for Education (also known as Grammarly@edu) team,  your parents and your school administrator may have the legal right to access your account and may delete it.
 
 ## Will this Privacy Policy ever change?
 
