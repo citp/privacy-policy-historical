@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the senecacollege.ca privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128074044id_/http%3A//www.senecacollege.ca/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senecacollege.ca privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230111id_/http%3A//www.senecacollege.ca/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice - Seneca - Toronto, Canada
+# Privacy Notice - Seneca, Toronto, Canada
 
 Personal information collected by Seneca College on this website, email or through other means is done in accordance with sections 21, 39 and 49 of the _Freedom of Information and Protection of Privacy Act_ and under the legal authority of the _Ministry of Training, Colleges and Universities Act_ , R.S.O. 1990, and the _Ontario Colleges of Applied Arts and Technology Act_ , 2002, Regulation 34/03, and may be used and/or disclosed for administrative, statistical and/or research purposes of the College and/or the ministries or agencies of the Government of Ontario and the Government of Canada.
 
-Further detail on the information shared with:  
-
+Further detail on the information shared with:
 
 ##  Ontario Ministry of Training, Colleges and Universities 
 
