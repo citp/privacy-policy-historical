@@ -1,114 +1,184 @@
-> *The following text is extracted and transformed from the creativecommons.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231173604id_/https%3A//creativecommons.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativecommons.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220345id_/https%3A//creativecommons.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Creative Commons
+# Creative Commons Privacy Policy - Creative Commons
 
-### 1\. Preamble
+**Last Updated: May 2, 2019**  
+This Privacy Policy (“Policy”) explains the information collection, use, and sharing practices of Creative Commons Corporation (“CC”, “Creative Commons,” “we,” “us,” and “our”).
 
-This Privacy Policy explains the collection, use, processing, transferring and disclosure of personal information by Creative Commons Corporation (“CC” or “Creative Commons”), a Massachusetts charitable organization. 
+This Policy is incorporated into and part of Creative Commons Master Terms of Use (“Master Terms”) located at [https://creativecommons.org/terms](https://creativecommons.org/terms).
 
-This Privacy Policy is incorporated into and made part of Creative Commons Master Terms of Use (“Master Terms”) located at [https://creativecommons.org/terms](https://creativecommons.org/terms).
+Unless otherwise noted on a particular website or service hosted by Creative Commons, this Policy describes and governs the information collection, use, and sharing practices of Creative Commons with respect to your use of our websites that link to this Privacy Policy, including:[ https://creativecommons.org](https://creativecommons.org/), [https://wiki.creativecommons.org](https://wiki.creativecommons.org/), [https://network.creativecommons.org](https://network.creativecommons.org/), [https://search.creativecommons.org](https://search.creativecommons.org/),[ https://labs.creativecommons.org](https://labs.creativecommons.org/),[ http://openpolicynetwork.org](http://openpolicynetwork.org/),[ http://open4us.org](http://open4us.org/),[ https://rightsback.org](https://rightsback.org/),[ http://teamopen.cc](http://teamopen.cc/), and[ http://thepowerofopen.org](http://thepowerofopen.org/) (collectively, the “Websites”), and the services we provide through our Websites and/or host on our servers, including without limitation the license chooser, legal tools, search engine, the CC Login Services (defined below), and the CC Global Network community website (collectively, the Websites, and the services available through them are referred to as the “Services”).
 
-Unless otherwise noted on a particular website or service hosted by Creative Commons, this Privacy Policy applies to your use of all websites that Creative Commons operates. These include [https://creativecommons.org](https://creativecommons.org/), [https://wiki.creativecommons.org](https://wiki.creativecommons.org/), [https://network.creativecommons.org](https://network.creativecommons.org/), [https://search.creativecommons.org](https://search.creativecommons.org/), [https://labs.creativecommons.org](https://labs.creativecommons.org/), [http://openpolicynetwork.org](http://openpolicynetwork.org/), [http://open4us.org](http://open4us.org/), [https://rightsback.org](https://rightsback.org/), [http://teamopen.cc](http://teamopen.cc/), and [http://thepowerofopen.org](http://thepowerofopen.org/), together with all other subdomains thereof, (collectively, the “Websites”). This Privacy Policy also applies to all products, information, and services provided through the Websites, including without limitation the license chooser, legal tools, the CC Login Services (defined below), and the CC Global Network community website (together with the Websites, the “Services”). 
-
-Please note that Creative Commons does **not** operate the website at [http://ccmixter.org](http://ccmixter.org/). 
+Please note that Creative Commons does **not** operate the website at [http://ccmixter.org](http://ccmixter.org/).
 
 In addition, supplemental Privacy Policy terms (“Supplemental Privacy Policy Terms”) may apply to a particular Service, such as rightsback.org ([https://rightsback.org/privacy-policy/](https://rightsback.org/privacy-policy/)). All such Supplemental Privacy Policy Terms will be accessible for you to read either within, or through your use of, that particular Service.
 
-By accessing or using any of the Services, you are accepting and agreeing to the practices described in this Privacy Policy.
+Before you use or submit any information through or in connection with the Services, please carefully review this Privacy Policy. By using any part of the Services, you understand that your information will be collected, used, and disclosed as outlined in this Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES.
 
-### 2\. Our Principles
+### 1\.     Our Principles
 
 Creative Commons has designed this policy to be consistent with the following principles:
 
-  * Privacy policies should be human readable and easy to find.
-  * Data collection, storage, and processing should be simplified as much as possible to enhance security, ensure consistency, and make the practices easy for users to understand. 
-  * Data practices should always meet the reasonable expectations of users. 
+  *    Privacy policies should be human readable and easy to find.
+  *    Data collection, storage, and processing should be simplified as much as possible to enhance security, ensure consistency, and make the practices easy for users to understand. 
+  *   Data practices should meet the reasonable expectations of users.
 
 
 
-### 3\. Personal Information CC Collects and How it is Used
+### 2\.     Information We Collect
 
-As used in this policy, “personal information” means information that would allow someone to identify you, including your name, email address, IP address, or other information from which someone could deduce your identity.
+We collect information in multiple ways, including when you provide information directly to us; when we passively collect information from you, such as from your browser or device; and from third parties.
 
-CC collects and uses personal information in the following ways: 
+**Information You Provide Directly to Us**
 
-**Website and Fundraising Analytics:** When you visit our Websites and use our Services, CC collects some information about your activities through tools such as Google Analytics. The type of information that we collect focuses on general information such as country or city where you are located, pages visited, time spent on pages, heat-map of visitors’ activity on the site, information about the browser you are using, etc. CC collects and uses this information pursuant to our legitimate interest in enhancing the security and utility of our Services. The information we gather and process is used in the aggregate to spot trends without deliberately identifying individuals, except in cases where you engage in a transaction with Creative Commons by donating money, purchasing merchandise, or buying a ticket for an event or program. In those cases, CC retains certain information about your visit to the Services, including information about the referral site that led you to our Services, pursuant to its legitimate interest in understanding its community of supporters for fundraising purposes, and this information is stored in connection with other personal information you provide to CC. 
+We will collect any information you provide to us. We may collect information from you in a variety of ways, such as when you: (a) create an online account, (b) apply for membership to the Creative Commons Global Network (“CCGN”), (c) vouch for someone’s application to the CCGN, (d) make a donation or purchase, (e) select a CC license or tool, (f) register for an event, (g) apply for a scholarship, grant, or fellowship, (h) contact us or provide feedback, (i) sign a petition distributed by Creative Commons, (j) upload your creative work or images, (k) subscribe to our newsletter, or (l) apply for a job at Creative Commons. This information may include but is not limited to your name, email address, phone number, mailing address, payment information, photo, geographic location, and your social media handles.  We may also collect additional demographic and other information about you in connection with our conferences and events (e.g., dietary and other preferences), and the provision of this information to us by you is optional.
 
-Note that you can learn about Google’s practices in connection with its analytics services and how to opt out of it by downloading the Google Analytics opt-out browser add-on, available at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). If you would like to opt out of CC’s fundraising analytics, please contact [legal@creativecommons.org](mailto:legal@creativecommons.org) with your request. 
+**Information that Is Automatically Collected**
 
-**Information from Cookies:** We and our service providers (for example, Google Analytics as described above) may collect information using cookies or similar technologies for the purposes described above and below. Cookies are pieces of information that are stored by your browser on the hard drive or memory of your computer or other Internet access device.  Cookies may enable us to personalize your experience on the Services, maintain a persistent session, passively collect demographic information about your computer, and monitor advertisements and other activities. The Websites may use different kinds of cookies and other types of local storage (such as browser-based or plugin-based local storage).
+_Device/Usage Information_
 
-**Log-In Services:** When you register to obtain a user account on any of the Services (any such person, a “Registered User”), including but not limited to the CCID service available at https://login.creativecommons.org/login, you will be asked to provide personal information to create your account and establish a password and profile. CC collects and uses this personal information pursuant to its legitimate interest in establishing and maintaining your account providing you with the features we provide Registered Users. We may use your email address to contact you regarding changes to this policy or other applicable policies. The name or nickname you provide in connection with your account may be used to attribute you in connection with any content you submit to any Service. In addition, whenever you use a CC Login Service to log into a Website or use the Services, our servers keep a plain text log of the Websites you visit and when you visit them. 
+We may automatically collect certain information about the computer or devices (including mobile devices or tablets) you use to access the Services. As described further below, we may collect and analyze (a) device information such as IP addresses, location information (by country and city), unique device identifiers, IMEI and TCP/IP address, browser types, browser language, operating system, mobile device carrier information, and (b) information related to the ways in which you interact with the Services, such as referring and exit web pages and URLs, platform type, the number of clicks, domain names, landing pages, pages and content viewed and the order of those pages, statistical information about the use of the Services, the amount of time spent on particular pages, the date and time you used the Services, the frequency of your use of the Services, error logs, and other similar information. As described further below, we may use third-party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information.
 
-**Events** : When you sign up for an event hosted or supported by Creative Commons, you will be asked to provide some personal information, including your name, email address, and other information as needed. CC collects and uses this personal information pursuant to its legitimate interest in organizing and running the relevant event. We may share your personal information with vendors, third party contractors, partner organizations, and volunteers for the purpose of organizing and running the event and related activities.
+_Cookies and Other Tracking Technologies_
 
-**Emails and Newsletters:** When you sign up to receive updates from Creative Commons or otherwise subscribe to one of our mailing lists, you will be asked to provide some personal information. CC collects and uses this personal information pursuant to its legitimate interest in providing news and updates to, and collaborating with, its supporters and volunteers. You may unsubscribe from our mailing list at any time by clicking on the “unsubscribe” link at the bottom of each newsletter.
+We also collect data about your use of the Services through the use of Internet server logs and online tracking technologies, like cookies and/or tracking pixels. A web server log is a file where website activity is stored. A cookie is a small text file that is placed on your computer when you visit a website, that enables us to: (a) recognize your computer; (b) store your preferences and settings; (c) understand the web pages of the Services you have visited and the referral sites that have led you to our Services; (d) enhance your user experience by delivering content  specific to your inferred interests; (e) perform searches and analytics; and (f) assist with security administrative functions. Tracking pixels (sometimes referred to as web beacons or clear GIFs) are tiny electronic tags with a unique identifier embedded in websites, online ads and/or email, and that are designed to provide usage information like ad impressions or clicks, measure popularity of the Services and associated advertising, and to access user cookies. We may also use tracking technologies in our license buttons and/or icons that you can embed on other sites/services to track the website addresses where they are embedded, gauge user interaction with them, and determine the number of unique viewers of them. If you receive email from us (such as the CC newsletter, campaign updates, or other ongoing email communications from CC), we may use certain analytics tools, such as clear GIFs, to capture data such as whether you open our message, click on any links or banners our email contains, or otherwise interact with what we send. This data allows us to gauge the effectiveness of our communications and marketing campaigns.  As we adopt additional technologies, we may also gather additional information through other methods.
 
-**Email Analytics:** When you receive communications from CC after signing up for the CC newsletter, campaign updates, or other ongoing email communications from CC, we use analytics to track whether you open the mail, click on the links, and otherwise interact with what we send. You may opt out of this tracking by choosing to get plain-text emails from CC. CC collects and uses this personal information pursuant to its legitimate interest in understanding the interests of its community of supporters and volunteers in order to provide more relevant news and updates. 
+Please note that you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information (e.g.,[ Internet Explorer](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies);[ Google Chrome](https://support.google.com/chrome/answer/95647?hl=en);[ Mozilla Firefox](http://kb.mozillazine.org/Cookies#Firefox); or[ Apple Safari](https://support.apple.com/kb/PH5042)). Please note that by blocking any or all cookies, you may not have access to certain features or offerings of the Services.
 
-**Donations:** When you donate money to Creative Commons, purchase merchandise at [https://store.creativecommons.org/](https://store.creativecommons.org/), or pay for attendance at an event or participation in the CC Certificate program, you will be asked to provide personal information, including payment information. CC collects and uses this personal information pursuant to its legitimate interest in raising funds to ensure the sustainability of our nonprofit organization and, where applicable, to provide you with the merchandise, event, or program you purchased. 
+For more information about how we use cookies, please see our [Cookies Notice](https://creativecommons.org/creative-commons-cookies-notice/).
 
-**Creative Commons Global Network (“CCGN”) Membership:** In connection with your application for CCGN membership, you will be required to provide certain personal information. CC collects and uses that personal information pursuant to its legitimate interest in evaluating applications for CCGN membership and for helping to manage the CCGN once you are admitted. 
+**  Information from Third Parties**
 
-In connection with your application you will be required to have two CCGN members provide information about you in order to vouch for you as a potential member of the CCGN. The personal information you provide with your application will be shared with the individuals you select to vouch for you, and with those reviewing your application, including the Membership Council whose members include people not employed by Creative Commons and who are located in various countries around the world.
+We may also collect information about you or others through third parties. For example, if you apply for CCGN membership, we may collect information from the references or vouchers you identified in your membership application.  To the extent permitted by law, we may also collect information from third parties, including public sources, social media platforms, and marketing and market research firms. Depending on the source, this information collected from third parties could include name, contact information, demographic information, information about an individual’s employer, information to verify identity or trustworthiness, and information for other fraud or safety protection purposes.
 
-If you vouch for someone’s application to the CCGN, your personal information will be shared with those reviewing the application, including the Membership Council, and if you provide a positive vouching statement, that statement will be shared with the applicant if and when they are admitted for membership. 
+### 3\.     How We Use Your Information
 
-If you are admitted to membership in the CCGN, you will be given a public profile page, editable by you, which will be pre-populated with certain information you provide with your application. Your name, areas of interest, images and other content you upload will be publicly displayed to anyone who visits the site while logged in with their CCID. All other personal information that you submit to your profile page, including your biographical information, email address, languages spoken, country of residence, social media account information or URL details will be displayed only to CC and CCGN members. Further, if you are admitted, your information will be transferred to and from the various fora that further the CC mission and enable the CCGN, including country chapters, platforms, working groups, and the Membership Council, for purposes of governance participation, activity interaction, and other purposes related to the mission, vision, and activities of CC.
+We may use the information we collect from and about you to:
 
-If your CCGN membership application is rejected, the personal information that was collected from you and from the voucher will be deleted 21 days after CC sends out the decision, with the exception of the voucher’s vote or abstention (e.g., vouch for applicant / does not vouch for applicant). 
-
-**Funding and Participation Opportunities:** When you apply for a scholarship, grant, or fellowship from Creative Commons, or when you apply to be selected to participate in one of our other programs, CC will collect certain personal information from you in order to evaluate your application and process your funding as necessary. CC collects and uses this personal information pursuant to its legitimate interest in providing funding and participation opportunities to its supporters and volunteers and in order to comply with its legal obligations under applicable law. We will share that information with the people who are designated to select participants in, and help manage, those programs, which may include people not employed by Creative Commons.
-
-**Other Voluntarily Provided Information:** When you provide feedback to Creative Commons, sign a petition distributed by CC, or otherwise submit personal information to Creative Commons, CC collects and uses this personal information pursuant to its legitimate interest in better understanding our community of supporters and volunteers and in furtherance of the particular program or activity to which you provided feedback or other input. 
-
-**License/Tool Selection** . We use the personal information you provide to us as part of your selection of one of our licenses/tools to provide you the RDF, html, and the uniform resource locator that correspond to the license/tool you selected. Some older versions of the license chooser enable Creative Commons to send you this information via email. In those cases, your email address is expunged after this email has been sent. We may use all of this information to maintain usage data about our licenses/tools.
-
-### 4\. Retention of Personal Information
-
-The majority of the personal information collected and used as explained in Section 3 above is aggregated and stored in a central database provided by a third party service provider. CC aggregates this data pursuant to its legitimate interest in having information stored in a single location to minimize complexity, increase consistency in internal practices, better understand its community of supporters and volunteers, and enhance the security of the data.  
-
-CC erases the web browser logs described above on a regular, rolling basis. We generally retain other personal information for the purposes for which it was collected. This may mean that we retain your personal information indefinitely in some cases.
-
-### 5\. Access to Your Personal Information
-
-You are generally entitled to access and transfer to a third party any personal information that Creative Commons holds and to have inaccurate data corrected or removed to the extent CC still maintains it. In certain circumstances, you also may have the right to object or restrict for legitimate reasons to the processing or transfer of personal information. If you wish to exercise any of these rights, please write to [legal@creativecommons.org](mailto:legal@creativecommons.org) explaining your request. You also have the right to go directly to the relevant supervisory or legal authority, but we encourage you to contact us so that we may resolve your concerns directly as best we can.
-
-### 6\. Disclosure of Your Personal Information
-
-CC does not disclose personal information to third parties except as specified elsewhere in this policy and in the following instances:
-
-  1. Creative Commons may share personal information with our contractors and service providers in order to undertake the activities described in Section 3.  
-  2. We may disclose your personal information to third parties in a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Master Terms and this Privacy Policy; (c) enforce our [Charter](https://network.creativecommons.org/charter/), including the Code of Conduct and policies contained and incorporated therein, or (d) comply with legal process, such as a search warrant, subpoena, statute, or court order.
+  *       Fulfill the purposes for which you provided it;
+  *       Evaluate your application for a scholarship, grant, fellowship, or CCGN membership;
+  *       Distribute funds to scholarship and grant recipients;
+  *       Provide and improve the Services, including to develop new features or services, promote CC community collaboration, take steps to secure the Services, and for technical and customer support;
+  *       Fundraise, accept donations, or process purchases of CC merchandise;
+  *       Host events and programs such as the annual CC Summit or the CC Certificate course;
+  *       Send you information about your relationship or transactions with us, account alerts, or other communications, such as newsletters to which you have subscribed;
+  *       Process and respond to your inquiries or to request your feedback;
+  *       Conduct analytics, research, and reporting, including to synthesize and derive insights from your use of our Services;
+  *       Evaluate job candidates during our hiring process;
+  *       Comply with the law and protect the safety, rights, property, or security of Creative Commons, the Services, our users, and the general public; and
+  *       Enforce our[ Master Terms](https://creativecommons.org/terms), including to investigate potential violations thereof.
 
 
 
-### 7\. Security of Your Personal Information
+Please note that we may combine information that we collect from you and about you (including automatically collected information) with information we obtain about you from our affiliates and/or non-affiliated third parties, and use such combined information in accordance with this Privacy Policy.
 
-Creative Commons has implemented reasonable physical, technical, and organizational security measures for personal information that Creative Commons processes against accidental or unlawful destruction, or accidental loss, alteration, unauthorized disclosure or access, in compliance with applicable law. However, no website can fully eliminate security risks. Third parties may circumvent our security measures to unlawfully intercept or access transmissions or private communications. If any data breach occurs, we will post a reasonably prominent notice to the Websites and comply with all other applicable data privacy requirements including, when required, personal notice to you if you have provided and we have maintained an email address for you.
+We may aggregate and/or de-identify information collected through the Services. We may use de-identified and/or aggregated data for any purpose, including without limitation for research and marketing purposes.
 
-The CC Login Services account systems have security risks in addition to those described above. Among other things, they are vulnerable to DNS attacks, and using any CC Login Service may increase the risk of phishing. 
+### 4\.     When We Disclose Your Information
 
-### 8\. Children
+We may disclose and/or share your information under the following circumstances:
 
-The Services are not directed at children under the age of 13. Consistent with the U.S. federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personal information from anyone under the age of 13 without requiring parental consent. Our Master Terms specifically prohibit anyone using our Services from submitting any personally identifiable information about persons under 13 years of age. Any person who provides their personal information to CC through the Services represents that they are 13 years of age or older.
+  * **Service Providers.** We may disclose your information with third parties who perform services on our behalf, including without limitation, event management, candidate selection, marketing, customer support, data storage, data analysis and processing, and legal services.
 
-### 9\. Third Party Service Providers
 
-Creative Commons uses many third party service providers in connection with the Services, including website hosting services, database management, credit card processing, and many more. Some of these service providers may place session cookies on your computer, and they may collect and store your personal information on our behalf in accordance with the data practices and purposes explained above in Section 3. 
 
-### 10\. Third Party Sites
+For example, when you apply for a scholarship, grant, fellowship, or to be selected to participate in one of our other programs, CC may share that information with the individuals designated to select participants in, and help manage, those programs, which may include people not employed by Creative Commons.
 
-The Services may provide links to a wide variety of third party websites. You should consult the respective privacy policies of these third-party websites. This Privacy Policy does not apply to, and we cannot control the activities of, such other websites.
+Or, when you register for an event, we may share your information with vendors, third party contractors, partner organizations, and volunteers for the purpose of organizing and running the event and related activities.
 
-### 11\. **Location of Services**
+  * **  Legal Compliance and Protection of Creative Commons and Others.** We may disclose your information if required to do so by law or on a good faith belief that such disclosure is permitted by this Privacy Policy or reasonably necessary or appropriate for any of the following reasons: (a) to comply with legal process; (b) to enforce or apply our Master Terms and this Privacy Policy, or other contracts with you, including investigation of potential violations thereof; (c) enforce our Charter including the Code of Conduct and policies contained and incorporated therein, (d) to respond to your requests for customer service; and/or (e) to protect the rights, property, or personal safety of Creative Commons, our agents and affiliates, our users, and the public. This includes exchanging information with other companies and organizations for fraud protection, and spam/malware prevention, and similar purposes.
 
-If you are accessing or using the Services in regions with laws governing data collection, processing, transfer and use, please note that when we use and share your data as specified in this policy, we may transfer your information to recipients in countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. 
 
-The Services are currently hosted in the United States and the United Kingdom, which means your personal information may be located on servers in the United States and/or the United Kingdom.  This may change from time to time.  The majority of contractors that Creative Commons is using as of the effective date of this Privacy Policy are located in the United States and in Canada, but this may change from time to time. 
+  * **Business Transfers.** As we continue to develop our business, we may engage in certain business transactions, such as the transfer or sale of our assets. In such transactions, (including in contemplation of such transactions, e.g., due diligence) your information may be disclosed. If any of Creative Commons’ assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.
 
-### 12\. Changes to this Privacy Policy
 
-We may occasionally update this Privacy Policy. When we do, we will provide you with notice of such update through (at a minimum) a reasonably prominent notice on the Websites and Services, and will revise the Effective Date below. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting, using, processing and transferring the personal information we collect.
+  * **Affiliated Companies.** We may disclose your information with current or future affiliated companies.
 
-Effective Date: 13 September 2018.
+
+  * **Consent.** We may disclose your information to any third parties based on your consent to do so.
+
+
+  * **Aggregate/De-identified Information.** We may disclose de-identified and/or aggregated data for any purpose to third parties, including advertisers, promotional partners, and/or others.
+
+
+  * **CCGN Membership.**
+
+
+
+o   In connection with you CCGN membership application, we may provide your information to the individuals you’ve selected to vouch for you, and with those reviewing your application, including the Membership Council whose members include people not employed by Creative Commons and who are located in various countries around the world.
+
+o   If you vouch for someone’s application to the CCGN, your information will be shared with those reviewing the application, including the Membership Council, and if you provide a positive vouching statement, that statement will be shared with the applicant if and when they are admitted for membership.
+
+o   Once you are a CCGN member, we may provide you with a public profile page, editable by you, and pre-populated with certain information you provided in your application such as your name, areas of interest, images or other content you upload, which will be publicly displayed to anyone who visits the site while logged in with their CCID. Other information contained in your profile such as your biographical information, email address, languages spoken, country of residence, social media account information, or URL details will be displayed only to CC and CCGN members.
+
+### 5\.     Legal Basis for Processing Personal Data
+
+The laws in some jurisdictions require companies to tell you about the legal ground they rely on to use or disclose information that can be directly linked to or used to identify you. To the extent those laws apply, our legal grounds for processing such information are as follows:
+
+  * To Honor Our Contractual Commitments to You. Much of our processing of information is to meet our contractual obligations to provide services to our users.
+
+
+  * Legitimate Interests. In many cases, we handle information on the ground that it furthers our legitimate interests in ways that are not overridden by the interests or fundamental rights and freedoms of the affected individuals, these include:
+    * Customer service
+    * Marketing, advertising, and fundraising
+    * Protecting our users, personnel, and property
+    * Managing user accounts
+    * Organizing and running events and programs
+    * Analyzing and improving our business
+    * Managing legal issues
+
+
+
+We may also process information for the same legitimate interests of our users and business partners.
+
+  * Legal Compliance. We may need to use and disclose information in certain ways to comply with our legal obligations.
+
+
+  * Consent. Where required by law, and in some other cases where legally permissible, we handle information on the basis of consent. Where we handle your information on the basis of consent, you have the right to withdraw your consent; in accordance with applicable law.
+
+
+
+### 6\.     Online Analytics
+
+We may use third-party web analytics services (such as Google Analytics) on our Services to collect and analyze the information discussed above, and to engage in auditing, research, or reporting. The information (including your IP address) collected by various analytics technologies described in the “Cookies and Other Tracking Technologies” section above will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services, including by noting the third-party website from which you arrive to our Site, analyzing usage trends, assisting with fraud prevention, and providing certain features to you. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking[ here](https://tools.google.com/dlpage/gaoptout).
+
+### 7\.     Your Choices and Data Subject Rights
+
+You have various rights with respect to the collection and use of your information through the Services.  Those choices are as follows:
+
+  * Email Unsubscribe – You may unsubscribe from our marketing emails at any time by clicking on the “unsubscribe” link at the bottom of each newsletter or by emailing legal@creativecommons.org with your request.
+  * Fundraising Analytics – You may opt out of CC’s fundraising analytics activities by contacting legal@creativecommons.org with your request.
+  * Account Preferences – If you have registered for an account with us through our Services, you can update your account information or adjust your email communications preferences by logging into your account and updating your settings.
+  * EU Data Subject Rights – Individuals in the European Economic Area (“EEA”) and other jurisdictions have certain legal rights (subject to applicable exceptions and limitations) to obtain confirmation of whether we hold certain information about them, to access such information, and to obtain its correction or deletion in appropriate circumstances. You may have the right to object to our handling of your information, restrict our processing of your information, and to withdraw any consent you have provided. To exercise these rights, please email us at legal@creativecommons.org with the nature of your request. You also have the right to go directly to the relevant supervisory or legal authority, but we encourage you to contact us so that we may resolve your concerns directly as best and as promptly as we can.
+
+
+
+### 8\.     International Transfers
+
+Our computer systems are currently based in the United States and the United Kingdom and the majority of our contractors are based in the United States or Canada. As described above in the “When We Disclose Your Information” section, we may share your information with trusted service providers or business partners in countries other than your country of residence, including the United States, in accordance with applicable law. This means that some of your information may be processed in the United States, which may not offer the same level of protection as the privacy laws of your jurisdiction. By providing us with your information, you acknowledge any such transfer, storage or use.
+
+If we provide any information about you to any third parties information processors located outside of the EEA, we will take appropriate measures to ensure such companies protect your information adequately in accordance with this Privacy Policy and other data protection laws to govern the transfers of such data.
+
+### 9\.     Security Measures
+
+We have implemented technical, physical, and organizational security measures to protect against the loss, misuse, and/or alteration of your information. These safeguards vary based on the sensitivity of the information that we collect and store. However, we cannot and do not guarantee that these measures will prevent every unauthorized attempt to access, use, or disclose your information since despite our efforts, no Internet and/or other electronic transmissions can be completely secure.
+
+### 10\.  Children
+
+The Services are intended for users over the age of 18 and are not directed at children under the age of 13. If we become aware that we have collected personal information (as defined by the Children’s Online Privacy Protection Act) from children under the age of 13, or personal data (as defined by the EU GDPR) from children under the age of 16, we will take reasonable steps to delete it as soon as practicable.
+
+### 11\.  Data Retention
+
+We retain the information we collect for as long as necessary to fulfill the purposes set forth in this Privacy Policy or as long as we are legally required or permitted to do so. Information may persist in copies made for backup and business continuity purposes for additional time.
+
+### 12\.  Third-Party Links and Services
+
+The Services may contain links to third-party websites (e.g., social media sites like Facebook and Twitter), third-party plug-ins (e.g., the Facebook “like” button and Twitter “follow” button), and other services. If you choose to use these sites or features, you may disclose your information not just to those third-parties, but also to their users and the public more generally depending on how their services function. Creative Commons is not responsible for the content or privacy practices of such third party websites or services. The collection, use and disclosure of your information will be subject to the privacy policies of the third party websites or services, and not this Privacy Policy. We encourage you to read the privacy statements of each and every site you visit.
+
+### 13\.  Changes to this Privacy Policy
+
+We will continue to evaluate this Privacy Policy as we update and expand our Services, and we may make changes to the Privacy Policy accordingly. We will post any changes here and revise the date last updated above. We encourage you to check this page periodically for updates to stay informed on how we collect, use and share your information. If we make material changes to this Privacy Policy, we will provide you with notice as required by law.
+
+### 14\.  Questions About this Privacy Policy
+
+If you have any questions about this Privacy Policy or our privacy practices, you can contact us at: legal@creativecommons.org.
