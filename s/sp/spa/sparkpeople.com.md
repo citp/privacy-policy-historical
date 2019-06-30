@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231090020id_/http%3A//www.sparkpeople.com/resource/motivation_articles.asp%3Fid%3D922) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630225802id_/http%3A//www.sparkpeople.com/resource/motivation_articles.asp%3Fid%3D922) for the most accurate reproduction.*
 
 # SparkPeople Privacy Policy | SparkPeople
 
