@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the channelstv.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224011817id_/https%3A//www.channelstv.com/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelstv.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630142623id_/https%3A//www.channelstv.com/aboutus/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy • Channels Television
+# privacy-policy – Channels Television
 
 Channels TV is sensitive to privacy issues on the Internet. We believe it is important you know how we treat the information about you we receive on the Internet. This Privacy Policy covers our use of information which is collected through or in connection with this site.
 
@@ -8,7 +8,7 @@ Your use of this Web Site indicates to us that you have read and accept our priv
 
  **Who is responsible for the personal information collected on this site?**
 
-Channels Incorporated Limited (“Channels TV “), a company registered under Nigerian laws with head Office at 44/48, Channels TV Avenue, Isheri north Lagos state, Nigeria, hosts and operates the Channels TV site located at [http://www.channelstv.com](http://www.channelstv.com/)
+Channels Incorporated Limited (“Channels TV “), a company registered under Nigerian laws with head Office at 44/48, Channels TV Avenue, Isheri north Lagos state, Nigeria, hosts and operates the Channels TV site located at [http://www.channelstv.com](https://www.channelstv.com/)
 
  **Information collection and use**
 
