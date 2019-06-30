@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payumoney.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030222905id_/https%3A//www.payumoney.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payumoney.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630225547id_/https%3A//www.payumoney.com/privacypolicy.html) for the most accurate reproduction.*
 
-# PayUmoney payment gateway support
+# PayUmoney Privacy Policy
 
 ### General
 
