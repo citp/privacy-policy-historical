@@ -1,71 +1,232 @@
-> *The following text is extracted and transformed from the adhigh.net privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223182650id_/https%3A//getintent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhigh.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235611id_/https%3A//getintent.com/privacy) for the most accurate reproduction.*
 
-# Getintent privacy policy | You are on the safe side of programmatic advertising
+# Getintent Privacy Policy
 
-## Getintent Privacy Policy
+**Effective from  May 25, 2018**
 
-### Introduction
+GetIntent is not an ad network or a data broker. GetIntent is a digital advertising technology platform ( **Platform** ) where advertising agencies, corporate businesses and other technology providers ( **Clients** ) can manage their advertising campaigns in the most efficient way possible and buy advertising spaces on third-party websites and other digital media properties and intermediaries that have integrated our technology or that use the technology that integrates with our Platform ( **Sites** ). GetIntent provides the Clients the services to remotely access and use our Platform ( **Services** ). Our Clients and Sites own their own data, and GetIntent has only limited rights to process their data on their behalves for the purpose of providing the Services.
 
-This policy explains how our ad serving technology powers our business. In particular, this policy explains the data collected both within our advertising ad server and collected on the websites of our clients. This policy also explains what choices you have regarding the use and sharing of your information.
+We may process your data when you (an Internet user) visit a Site.
 
-### Details
+### What is this document
 
-Getintent runs an online advertising solution that enables us to buy ad space on websites for online advertising. Our clients are businesses engaged in Internet advertising – advertisers, agencies and other technology providers. Our ad serving technology powers this business. When ad space on a website is sold, to an advertiser or agency, the technology fulfills the transaction by delivering the ad to that publisher’s site. Generally, an Internet user’s computer comes into contact with Getintent when a user visits a website whose publisher has a patrnership with Getintent. The ads sent by the Getintent technology are sent from the domains adhigh.net, digitmate.bid, cpagen.win.
+We take privacy seriously, and we would like to be transparent about the data processed on the Platform.
 
-### Platform
+This notice describes our Platform and Services and explains how we may process your data.
 
-Getintent is a technology provider for our clients. As a technology provider, we prohibit our clients from sending personally identifiable information to the Getintent technology.
+We will also explain how you can manage your privacy choices and exercise your rights to your data.
 
-Before the Getintent technology delivers an ad, the technology uses information collected from several sources to decide the best ad to display. The information used helps the technology infer the context in which the ad will appear; resulting in a more relevant ad. This section describes the technologies used on our client’s websites to help deliver the most relevant ad to you:
+To ensure privacy, GetIntent complies with the EU General Data Protection Regulation (GDPR), e-Privacy Directive and supports initiative for self-regulation including the Internet Advertising Bureau (IAB) GDPR Transparency & Consent Framework.
 
-  *     * Cookies are small text files that are stored within a browser. They are accessed and recorded by the web site visited and by the companies that show ads on that site to enable them to recognize the same browser or user. They are used as part of the ad serving process and also help us collect information about a user’s online interactions. The Getintent cookie helps us maintain a list of ads previously delivered by our technology. The cookie also stores the number of times the same ad was delivered, the number of times you have clicked on an ad served by our technology, and the number of times you have possibly engaged in a business transaction on the advertisers website.
-    * When an ad is served on one of websites, Getintent’s technology collects non-personally identifiable information such as the date and time of your visit to our clients website, your IP address, the type of browser you are using, and the web page address that you are visiting. This information helps our technology infer the context in which the ad will appear. This information is saved in a log file and kept by Getintent for auditing and fraud detection purposes.
-    * Our technology uses web beacons (also known as clear GIFs or 1×1 pixel). A web beacon serves a tiny graphic placed on a web site that is not visible to the user. We allow our clients to use web beacons to measure campaign effectiveness and to optimize campaign performance. The advertiser can then utilize this information to measure the effectiveness of their campaign and provide more relevant advertising. Our technology also uses pixels to allow our clients to create and identify consumer segments and select the appropriate ad based on the segment
-    * Our technology collects and stores aggregated ad delivery reporting data. This data is used to provide our clients with campaign reporting and used for billing purposes. A typical report includes information about the ads delivered, including the date and time of ad delivery, the websites on which the ads were shown, and statistics on user response. A report also includes statistics about browser types, date and time of ad delivery, and inferred geography
+If you have any questions or comments regarding this notice, please see the “contact us” section at the end of this notice.
+
+### Your choice
+
+You can opt out of receiving the tailored advertisements shown by our Clients from the Platform in your current browser. To opt-out or opt-in please visit the following pages: adhigh.net, digitmate.bid, cpagen.win
+
+Please note that Cookies and other device IDs are different on different browsers and devices, this ‘opt-out’ only applies to this browser and this device.
+
+### What we do
+
+GetIntent is an advertising technology company.
+
+Our Clients include advertising agencies and corporate businesses that use our Platform to manage their advertising campaigns. GetIntent does not provide services directly to any consumers.
+
+We own and operate the Platform, and we offer our Clients the Services to remotely access and buy advertising spaces on the Sites.
+
+The Platform provides a tool to the Client to buy the most relevant advertising spaces corresponding to the parameters of the Client’s advertising campaign submitted by the Client to the Platform. We also provide a technology that enables the delivery of the advertisement to the Site.
+
+This is how it works. The Sites send to the Platform notices (bid requests) when an advertising space becomes available. Each bid request contains the description of the interests of the audience that is likely to see the advertisement. The Platform compares the description of the audience under the bid request with the parameters of the Client’s advertising campaign. If they match, the Platform provides a tool to the Client to automatically make a transaction to buy such advertising space and deliver the advertisement to the Site.
+
+As a result, the Client will show the advertisements to the users who are likely to have an interest in the Client’s advertisements. The Platform helps to make online advertising more relevant and not generic and consequently helps to keep Internet meaningful and free. The advertisers are likely to pay more when their ads are tailored to the audience’s interests, which may allow the publishers to provide their content to the users for free.
+
+The Platform also includes other tools to measure the effectiveness of the Client’s advertising campaign and to prevent fraudulent activities and malware. The Services provided and operated by GetIntent USA Inc
+
+### Do we collect personal data
+
+We do not collect personal data that identifies you (an Internet user) in the ‘real world’. When you visit a Site, we do not know your name or email address or any information that directly identifies you. We take care to ensure that we do not collect any information that tells us who you are.
+
+When the Sites send to the Platform bid requests (as explained in section What we do above), these bid requests may include some information about you including IP address, unique device identifiers, and the latitude and longitude of your device when you view a Site or use an App.
+
+This information (including IP addresses and certain unique device identifiers) may identify a particular computer or device, and this type of information is considered ‘personal data’ in the European Union.
+
+When we receive such personal data from the Sites we act as independent controller (and never as a joint controller with the Site).
+
+### What data is processed
+
+We may also process certain data for and on behalf of our Clients relating to the interaction of the users with the Sites:
+
+  * The type of browser used by a user, and its settings;
+  * Information about the device operating system;
+  * Information about Cookie IDs and other device IDs;
+  * IP addresses from which a device interacts with the Site; IP addresses may be encrypted as required by applicable laws;
+  * Information about the user’s activity on a Site, including time of activity and URL;
+  * Information about the approximate geographic location (city, region, post code) of the device when it accesses a Site derived from the IP address information or GPS data.
 
 
 
-Getintent uses retargeting (tracking) pixels and conversion pixels that drop cookies. Getintent drops cookies through every ad it serves.
+The Platform may receive the data from third parties for the use by its Clients in their advertising campaigns on the Platform; in doing so we will always act strictly in accordance with the permissions and restrictions imposed by the third party providing the data.
 
-### Tracking cookies are being used for several purposes:
+When our Clients use the Platform, they may also use their data received from other sources (not from GetIntent) and other data that identifies the Client that is collected as a result of or generated by the Client’s use of the Platform (Client Data). When GetIntent receives the Client Data, in legal terms GetIntent processes the Client Data on behalf of the Client (GetIntent acts as a data processor, and GetIntent is bound by the instructions of the Client when GetIntent processes such Client Data. The Client gives instructions to GetIntent through the Client’s interface of the Platform, and the Client’s instructions are recorded in the Platform’s logs. It is the Client’s obligation to ensure that all Client Data used on the Platform is collected and used by the Clients in the lawful way. While this notice may also explain how the Clients may use the Client Data when using the Platform, this notice does not apply to the use of the Client Data outside of the Platform.
 
-  *     * To determine a user’s interest based on previous site visits by this user. Example: Getintent runs an advertising campaign for Brand X. Brand X implements a Getintent tracking pixel on their homepage. The users that visit the Brand X homepage can be re-targeted when recognized afterwards within the Getintent network with a Brand X ad.
-    * To determine, count and attribute conversions. Cookies are being used to track if and when a user makes a purchase on an advertiser’s site. Example: a user clicks on an ad served by Getintent. Once on the page the ad links to, the user makes a purchase. This purchase is counted and Getintent receives a fee on every counted purchase.
+For the purpose of providing the Service, GetIntent collects and processes the data used by the Platform for bidding and delivery (bid requests), the data derived from or generated by the use of the Platform and the data relating to any error, issue or enhancement to the operation or use of the Platform.
 
+In order to provide the Services, we may process the following data:
 
-
-### When Getintent drops a tracking cookie, it stores the following data points:
-
-  *     * Unique User ID
-    * Pixel ID
-    * Behavioral segment ID (if any)
+  * Cookie ID / Pixel ID
 
 
 
-This info in anonymous and can in no way be linked to the user’s identity.
+The Platform generates a unique device ID for every new device that interacts with a Site. The unique device ID is included in a Cookie stored in the user’s browser. By default, the Cookie expires [30 days] after the last interaction. [The device ID is usually generated as a random number or sometimes combined with an ID generated by the browser and device configuration.]
 
-Next to the data that are been gathered by Getintent through dropping our own cookies, third party data can also be used to optimize our campaigns. These third party data come from third party data providers that live up to current law and industry standards.
+  * Mobile Advertising ID
 
-Getintent cookies will be stored for 1 year after being dropped on a device.
 
-### Opt-out
 
-Our technology does not collect any personally identifiable information about you during the ad delivery process. Accordingly, Getintent is unable to provide access or the ability to change information stored by our technology.
+Mobile Advertising ID is a technical ID on a smartphone operating system (for example Android and Apple IOS), that is under the control of the user and owner of that device, and the user can reset this ID at any time.
 
-Our technology uses cookies for ad selection in order to enhance ad effectiveness. Getintent believes that cookies enhance your web experience by limiting the repetitiveness of advertising and increasing the level of relevant ads. Because some users may not want information to be collected by using cookies, we will only drop a cookie on your computer if you have opted-in for this. Currently the market is working on the best way to ask user permission for the dropping of cookies.
+  * Cross-Device IDs
 
-To opt-out or opt-in please visit the following pages: [adhigh.net](https://px.adhigh.net/opt-out "Follow link"), [digitmate.bid](https://px.digitmate.bid/opt-out "Follow link"), [cpagen.win](https://px.cpagen.win/opt-out "Follow link").
 
-### Information sharing policy
 
-All Getintent cookie data are for internal use only, to optimize advertiser campaigns. No user data is being transferred to other parties than Getintent, including the advertisers and agencies we work with.
+Cross-Device user ID is generated by the Platform by using its algorithms in order to try to link devices and identifiers belonging to the same user.
 
-However, Getintent may provide copies of log files to advertisers, clients and certain partners relating to the specific transactions they are a party to. These files contain information that allows clients to analyze the effectiveness and performance of their advertising campaign. Our clients also have the ability to use any or all of the information collected in connection with our services for their own purposes. The information provided to our clients does not contain personally identifiable information about you. In cases where Getintent provides information to our clients, our clients are obligated to use the information they receive in compliance with applicable laws and regulations.
+  * Partner IDs
 
-Getintent may share the information it collects with selected partners, vendors, agents or others who work on our behalf, in order to provide products or services you have requested, or when we have your permission. Getintent may share information about you if Getintent is acquired by or merged with another company.
 
-Getintent may also share information in the event that we are asked to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims, or as otherwise permitted by law.
+
+Our Platform may automatically exchange pseudonymous IDs with our business partners. These IDs are strictly pseudonymous on both sides.
+
+### How data is processed
+
+Our Platform uses the following technologies to process the data about web-browsers and devices across the Sites and over time:
+
+  * Cookies. A Cookie is a small text file that is stored in a web-browser by a Site or a Client through the Platform. By saving information in a Cookie, the Sites and Clients can remember preferences or recognize web-browsers from one visit to another or from one website to another. The Clients may also use alternative methods with the functions similar to Cookies in order to identify unique browsers or devices. For example, Apple iOS and Google Play Services for Android provide unique IDs for advertising.
+  * Beacons, pixels, tags, mobile SDKs. Beacons (including clear GIFs or 1×1 pixels) and tags are items included in a webpage that enable the Clients to collect data, serve advertisements, and measure ad effectiveness or prevent fake ad traffic. They do this by allowing communication between a web-browser and a server. A beacon is a small transparent graphic that is placed on a webpage. A tag is a small element of the website code that is run by the web browser. An SDK is an element of the computer code included by the developers in the mobile applications.
+
+
+
+We may also receive the data from our Clients or Sites via server-to-server connection, or via secure file transfer.
+
+### Use of Cookies
+
+We may use Cookies for different purposes. When we refer to a term ‘Cookie’, we mean various device identifiers not limited to Cookies.
+
+Cookies enable our Clients to serve targeted advertisements to the users, to evaluate how efficient are their advertisements, and to see the users’ opt-out choices.
+
+The use of Cookies helps our Clients to recognise the web-browsers, and to store data for advertising purposes.
+
+The use of Cookies allows us to store data about the delivery of ads for reporting purposes (for example which advertisement was shown, the frequency of an advertisement, and the last time an advertisement has been delivered to a particular browser).
+
+### How data is used
+
+We use the data processed by the Platform for the purposes of providing the Services to the Clients, in particular
+
+  * to analyse and report on advertising performance: the data processed is attributed to each certain advertising campaign of the Client, so the Client can monitor the performance of its advertising campaign;
+  * to improve online advertising experience and efficiency: our Platform helps the Clients to decide which advertisement to show or whether to show it and to display the Client’s particular products in response to users’ interest;
+  * to limit advertising exposure for consumers and facilitate more relevant advertising: for this purpose, we use Cross-Device IDs;
+  * to satisfy end users opt-out requests based on the user’s choices stored in Cookies and other IDs;
+  * to detect not ‘real’ traffic, and to prevent fraudulent activities including the use of robots, malware and other suspicious activities.
+
+
+
+### How data is shared
+
+#### With the Clients
+
+The Clients have access to the data they collect, upload or use on the Platform, and may have access to the data generated through their use of the Platform.
+
+#### With Third Parties
+
+We may share information with our affiliates and third-party services providers (if any) who process the data for purposes that are described in this Privacy Policy.
+
+If instructed by our Clients, we may also share the data that is controlled by our Clients and which we process on behalf of our Clients with third parties.
+
+We may also disclose the data as follows:
+
+  * To a potential buyer (and its agents and advisers) in connection with any proposed acquisition of any part of our business, provided that we inform the buyer it must not use your personal data for the purposes other than disclosed in this Privacy Policy.
+  * To any applicable law enforcement body, regulatory, government agency, court or other third party where in our opinion the disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person;
+  * To any other person with your consent to the disclosure.
+
+
+
+### Legal Basis for Processing
+
+If you are an Internet user from the European Economic Association (EEA), we collect and process your personal data (if any) only where we have your consent or a legitimate interest to do so depending in each case on what data is processed and the context of the processing activities.
+
+For example, we may rely on our legitimate interests when we process Cookie IDs for advertising-related purposes (as explained in How data is used above). Where we process the data on behalf of our Clients when providing Services, we may process your data on the basis of consent obtained by our Clients, or if our Clients have a legitimate interest to use your data on the Platform.
+
+### Data Retention
+
+The Cookies sets by the Platform expire 30 days after the last interaction.
+
+Mobile Advertising IDs may be reset by mobile users, and the Platform does not have control of any Mobile Advertising ID. We will see the same Mobile Advertising ID until it is not changed by the mobile user
+
+Advertising ID information (as explained in what data is processed) may be stored up to 13 months (for EEA users), and longer for users from other regions.
+
+### International Data Transfers
+
+Users’ data may be transferred to and processed in countries outside of the European Union where data protection laws may be different from the laws of the European Union.
+
+If we transfer your data to third parties outside the European Union, your data will be processed outside the European Union. We are committed to take appropriate safeguards to ensure an adequate level of data protection in accordance with this Privacy Policy by the recipients outside the European Union.
+
+### Security and integrity of your data
+
+#### Data Security
+
+GetIntent has implemented reasonable security measures to protect your data collected, used and processed by the Platform on behalf of our Client.
+
+We use encryption and pseudonymisation.
+
+We store data and our technologies only in Tier 3 or Tier 4 data centres, classified according to official data centre classification.
+
+Please note however that no method of electronic storage or Internet transmission, is entirely secure. We take commercially reasonable efforts to protect your data, but we cannot guarantee its absolute security.
+
+Also the Sites where our Clients serve their advertisements may have data protection and privacy practices practices that differ from ours. We do not control and cannot be held responsible for the content of the Sites and data collection on the Sites by any third party. You are advised to consult the respective privacy policy of the every website you are visiting.
+
+#### Data Integrity
+
+GetIntent processes your data in a way that is compatible with and relevant to, the purposes for which it is processed. To the extent necessary for those purposes, GetIntent is committed to take reasonable steps to ensure that your data is accurate, complete and reliable for its intended use.
+
+### Your privacy rights
+
+You have the following privacy rights:
+
+  * You can opt out from having a Cookie identifier stored on your device when ads are shown by our Clients from the Platform. Please refer to the next section Your privacy choices.
+  * You can request deletion of your personal information at any time by sending an email to gdpr@getintent.com
+  * You can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information (for EEA Internet users only) at any time by sending an email to gdpr@getintent.com
+  * You can withdraw your consent to use our Platform that you have given to any Site at any time on such Site according to the procedure set out in the Site’s privacy policy. For the avoidance of doubts, the lawfulness of any processing conducted by the Platform prior to your withdrawal and any processing conducted in reliance on a lawful processing basis other than consent shall not be affected by your withdrawing of consent.
+  * You can complain to a local data protection authority for any allegations that your personal data has been used in a way that is not consistent with this notice or applicable legislation.
+
+
+
+If you receive our newsletters you have the right to opt-out these at any time by clicking on the ‘unsubscribe’ or ‘opt-out’ link in the e-mails.
+
+### Your privacy choices
+
+You can opt-out of receiving the tailored advertisements shown by our Clients from the Platform in your current browser. To opt-out or opt-in please visit the following pages: adhigh.net, digitmate.bid, cpagen.win.
+
+The opt-out mechanism works as follows. The Cookie previously set your browser is deleted and replaced with the Platform ‘Opt-out Cookie’ indicating your ‘opt-out’ only.
+
+Please note:
+
+  * Your ‘opt-out’ will only opt you out of tailored advertising delivered by our Clients through the Platform in this browser and not other browsers you use.
+  * If you opt out, you will still see advertisements, they just may not be relevant to your interests. We may also continue to process your data information for purposes other than delivering tailored advertisements as explained in this privacy policy.
+  * If you delete Cookies in your browser, this may delete the Platform opt-out Cookie, then you may need to update your opt-out choice for that browser.
+
+
+
+To opt out of receiving the tailored advertisements on mobile devices, you are suggested to consult your device settings and instructions provided by the device manufacturer.  
+ 
+
+### Interactive Advertising Bureau Europe
+
+GetIntent adheres to the principles of the IAB Europe EU GDPR Transparency & Consent Framework.
+
+### Changes to this notice
+
+We may update this notice from time to time and so you should review this page periodically. Changes to this privacy policy are effective when they are posted on this page.
 
 ### Contact
 
-If you have any questions about our Privacy Policy, please contact us: privacy@getintent.com
+If you have any privacy related issues or queries, please contact our Data Protection Officer by e-mail at: [privacy@getintent.com](mailto:privacy@getintent.com).
