@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the iobit.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231085214id_/https%3A//www.iobit.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iobit.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224300id_/https%3A//www.iobit.com/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy - IObit
 
-Last Updated: May 16, 2018
+Last Updated: February 18, 2019
 
 IObit is committed to protecting your privacy all the time. The purpose of this Privacy Policy is to inform you of what information we collect, use and share when you visit our websites and/or use our products and services.
 
 This Privacy Policy applies to information collected by IObit through the majority of its websites and services, as well as its offline product support services. This policy does not apply to those IObit sites, services and products that do not display or link to this policy, or that have their own privacy statements.
 
-This policy applies to the following products: Advanced SystemCare, Advanced SystemCare Ultimate, IObit Malware Fighter, Driver Booster, Smart Defrag, IObit Uninstaller, MacBooster, Start Menu 8, Protected Folder, Random Password Generator, IObit Unlocker, WinMetro, iFreeUp, IObit Undelete, AMC Security, AMC Cleaner, and IObit Applock.
+This policy applies to the following products: Advanced SystemCare, Advanced SystemCare Ultimate, IObit Malware Fighter, Driver Booster, Smart Defrag, IObit Uninstaller, IObit Software Updater, MacBooster, Start Menu 8, Protected Folder, Random Password Generator, IObit Unlocker, WinMetro, iFreeUp, IObit Undelete, AMC Security, AMC Cleaner, and IObit Applock. 
 
 Please read this Privacy Policy so that you know and understand what information we collect and how we use, protect, and share the information.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20181231085214id_/https%3A//www.iobit.com/en/contact.php).
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20190630224300id_/https%3A//www.iobit.com/en/contact.php).
 
 ### What Information We Collect and How We Collect
 
@@ -50,7 +50,7 @@ If you decide to register IObit Forum, you will be asked to select a username, p
 
 **Customer Testimonials**
 
-We display name, testimonials and pictures of satisfied customers on our websites with their consent. If you wish to update or delete your testimonial, please [contact us](https://web.archive.org/web/20181231085214id_/https%3A//www.iobit.com/en/contact.php) with your request. We will respond to your request within a reasonable timeframe.
+We display name, testimonials and pictures of satisfied customers on our websites with their consent. If you wish to update or delete your testimonial, please [contact us](https://web.archive.org/web/20190630224300id_/https%3A//www.iobit.com/en/contact.php) with your request. We will respond to your request within a reasonable timeframe.
 
 **Contact Us and Technical Support Service**
 
@@ -115,7 +115,7 @@ We may access and/or disclose your personal information if we believe such actio
 
 ### How to Change or Delete Your Personal Information
 
-If you want us to correct, amend, or delete your personal information, your forum account, newsletter subscriptions, or your support tickets, please [contact us](https://web.archive.org/web/20181231085214id_/https%3A//www.iobit.com/en/contact.php) with your request. We will respond to your request within a reasonable timeframe. However, some information may remain in archived/backup copies to comply with our legal obligations, resolve disputes and enforce our agreements.
+If you want us to correct, amend, or delete your personal information, your forum account, newsletter subscriptions, or your support tickets, please [contact us](https://web.archive.org/web/20190630224300id_/https%3A//www.iobit.com/en/contact.php) with your request. We will respond to your request within a reasonable timeframe. However, some information may remain in archived/backup copies to comply with our legal obligations, resolve disputes and enforce our agreements.
 
 For the information processed by the third party partners, you have the right to access your personal information. If you want to access, correct, amend, or delete inaccurate data on our third party partner's platform, you should contact them directly as they are the data controllers and IObit has no control of those information.
 
@@ -125,4 +125,4 @@ We will occasionally update this Privacy Policy to reflect changes in our servic
 
 ### Contact Information
 
-IObit regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or IObit's treatment of personal information by contacting us through this website. If you have questions about this Privacy Policy or believe that IObit has not adhered to this Privacy Policy, please [contact us](https://web.archive.org/web/20181231085214id_/https%3A//www.iobit.com/en/contact.php) and we will make efforts to promptly determine and remedy the problem.
+IObit regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or IObit's treatment of personal information by contacting us through this website. If you have questions about this Privacy Policy or believe that IObit has not adhered to this Privacy Policy, please [contact us](https://web.archive.org/web/20190630224300id_/https%3A//www.iobit.com/en/contact.php) and we will make efforts to promptly determine and remedy the problem.
