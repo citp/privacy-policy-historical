@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the national-lottery.co.uk privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106234407id_/https%3A//www.national-lottery.co.uk/privacy-policy%3Ficid%3Dbsp%3Ana%3Atx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national-lottery.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630234721id_/https%3A//www.national-lottery.co.uk/privacy-policy%3Ficid%3Dbsp%3Ana%3Atx) for the most accurate reproduction.*
 
 # Privacy Policy | The National Lottery
 
@@ -43,6 +43,14 @@ Necessary for the performance of a contract with you.
 Managing your account | 
 
 We use your personal and contact information, financial information, and transaction details about your National Lottery purchases, to manage your National Lottery account, to contact you if you’ve won a prize, and to pay those prizes.
+
+| 
+
+Necessary for the performance of a contract with you.  
+  
+Paying prizes | 
+
+We use your personal and contact information to contact you if you’ve won a prize, and to pay (or facilitate payment of) those prizes.
 
 | 
 
@@ -99,15 +107,19 @@ Necessary for our legitimate interests (for running The National Lottery, the pr
 
 Necessary to comply with a legal obligation.  
   
-Experience | 
+Experience and marketing | 
 
-We use information about your use of our app or website, together with technical information about your device and (in some circumstances) your personal and contact information, and other relevant information that we receive from you or third parties (including aggregated information that we combine with your personal data), to deliver relevant website content, prize draws, competitions and other direct marketing to you, and to manage the delivery of that content.
+We use information about your use of our app or website, together with technical information about your device and (in some circumstances) your personal and contact information, and other relevant information that we receive from you or third parties (including aggregated information that we combine with your personal data), to deliver relevant website content, prize draws, competitions and other direct marketing to you on various channels, including on social media platforms, and to manage the delivery of that content.
 
   * For example, we may automatically display relevant advertisements to you based on your use of our website.
 
 | 
 
-Necessary for our legitimate interests (to ensure that you are shown relevant content based on your use of our app or website and the National Lottery games you have played).  
+Necessary for our legitimate interests (to ensure that you are shown or sent relevant content based on your use of our app or website and the National Lottery games you have played).
+
+Your consent.
+
+See further information below.  
   
 Advertising effectiveness | 
 
@@ -135,11 +147,21 @@ Necessary for our legitimate interests (to develop our games and to manage our w
   
 Publicity | 
 
-We may use your personal and limited contact information in any publicity materials provided that you have given your consent.
+We may use your personal and limited contact information in any publicity materials or events, provided that you have given your consent.
 
 | 
 
 Your consent.  
+  
+Contribution to media content | 
+
+We may use your personal data provided as part of your contribution (for example, being interviewed or giving us the right to use a photograph) for our marketing content, across all media.
+
+| 
+
+Necessary for our legitimate interests (to consider and/or to publish your contribution).
+
+Necessary for the performance of our contract and relationship with you (for rights management, making payments, and contacting you about your contribution).   
   
 Regulatory compliance | 
 
@@ -159,12 +181,12 @@ Necessary to comply with a legal obligation.
 
 Necessary for our legitimate interests (to ensure that transactions and interactions with us are not fraudulent).  
   
-Queries | 
+Queries and investigations | 
 
-We may use your personal and contact information, financial information, information about any transaction between you and us, copies of your communications with us (including voice recordings), information about your use of the app or website, or technical information for the purpose of dealing with any request, complaint or query from you.
+We may use your personal and contact information, financial information, information about any transaction between you and us, copies of your communications with us (including voice recordings), information about your use of the app or website, or technical information for the purpose of dealing with any investigation of a prize claim, or any request, complaint or query from you.
 
 | 
 
 Necessary to comply with a legal obligation.
 
-Necessary for our legitimate interests (to respond to you and to deal with any request you may have).
+Necessary for our legitimate interests (to respond to you and to deal with any request or claim you may make).
