@@ -1,104 +1,83 @@
-> *The following text is extracted and transformed from the heywire.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110112544id_/http%3A//www.heywire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heywire.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224701id_/https%3A//www.salesforce.com/company/privacy) for the most accurate reproduction.*
 
-# HeyWire - Privacy Policy
+# Privacy Policy - Salesforce.com
 
-**This Privacy Policy was last updated on  ** **February 19, 2016**
+When you use and interact with our websites or services, communicate with or otherwise contact us or visit our offices or attend our events, we may collect, use, share and process information relating to you ("Personal Data"). These Privacy Statement Highlights summarize our Personal Data processing practices and your related rights. 
 
-### 1\. DEFINITIONS & OVERVIEW
+Salesforce’s full Privacy Statement contains more information about Salesforce’s privacy practices.
 
-When you interact with the Services, we may collect both personal information and non-personal information from you.
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
 
-**“Personal Information”**  means information that specifically identifies an individual, such as name, address, telephone number or e-mail address.
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=c4e93b5b-f002-44f6-86ac-2cdb22d2beeb)
 
-**“Non-personal Information”**  means information about the characteristics and activities of an individual from which any Personal Information has been removed, such as IP address, type of browser or mobile device used, mobile device identifier(s), aggregate interests of individuals (e.g. visits to sports sites), etc. Nothing in this policy limits our use of non-personal information.
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
 
-In addition to adhering to federal and state privacy laws, we also adhere to the Mobile Marketing Association’s Global Code of Conduct, guidelines established by the Internet Marketing Association and other industry guidelines in order to protect you and your identity.
+Salesforce is the controller of your Personal Data and is responsible for its processing, unless expressly specified otherwise in our full Privacy Statement. For the avoidance of doubt, our Privacy Statement does not apply to the extent we process Personal Data in the role of a processor on behalf of our customers. A reference to “Salesforce,” “we,” “us” or the “Company” is a reference to salesforce.com, inc and the relevant affiliate involved in the processing activity. The office locations of where salesforce.com, inc. and its affiliates are located can be found 
 
-We will  **never sell or give**  your Personal Information to any third party, except as provided herein, without your consent. We collect certain information either directly from you, or indirectly through logs and other technologies. This information is used to improve and provide the services to you.
+_[here](https://www.salesforce.com/company/locations/)_
 
-### 2\. INFORMATION THE COMPANY COLLECTS FROM YOU
+. Please see the "Contacting us" section, below, for our contact information and the contact information of our data protection officer. 
 
-**Direct Information Collection**
+We collect and process Personal Data for a variety of purposes, including:
 
-When you register for Services, we collect a variety of Personal Information, including your name, phone and e-mail address. When you use the Services, we will not collect any Personal Information about you unless you provide it to us voluntarily. We may also collect additional information, including without limitation: organization name, city, state and zip code.
+  * The processing of your name and contact information to provide you with information about our products, manage your registration for and attendance at our events and webinars or for office visits, manage your registration for contests or promotions, provide you with customer support or otherwise communicate with you;
 
-We have the right, but not the obligation, to store any messages that pass through our Services as well as other message information.
+  * The processing of device and usage data to develop, improve, manage and customize our websites and services, to assess and improve the related user experience, to identify customer opportunities and to guarantee our websites’ and services' security and continued proper functioning;
 
-We may also receive information about you from other sources. This information may be combined with information we collect. We do not share this information with anyone except authorized third parties in aggregate (non-personal) form in connection with providing the Services.
+  * The processing of your billing information to complete transactions with you when you purchase our products or services;
 
-**Automatic Information Collection**
+  * To provide you with the necessary functionalities required during your use of our websites and services, and to review capacity requirements and compliance with the applicable usage terms;
 
-Using various technologies, such as cookies, pixel tags and web beacons, our systems may automatically gather information about the areas you visit through the Services and collect operational information about the technology you use, such as your browser, type of computer or mobile device, geographic location, operating systems, system and application software, peripherals, Internet service providers and the domain name of the website from which you linked to the Services.
+  * To display personalized advertisements to you and to send to you marketing communications about us, our products and our services; and
 
-In addition, we may store some information on your computer when using HeyWire for the web. This information will be in the form of a cookie or similar file and will help us tailor the Services. You can use your browser settings to control your use of cookies.
-
-To improve the navigation experience on the HeyWire site, HeyWire also automatically receives and records information on our server logs from your browser, including the pages you request (“Site Information”).
-
-In addition to the collection of Site Information, in connection with your use of the Services, HeyWire may collect information that is created or provided by you for such purposes (collectively, “Service Information”). For example, if you enable users to send SMS messages through the Services, HeyWire will collect and maintain the call data (recipient phone number, size and time of message and other transactional data). Service Information may include Personal Information.
-
-### 3\. HOW THE COMPANY MAY USE AND DISCLOSE YOUR INFORMATION
-
-If you are not a customer of HeyWire (i.e., if you have not signed up to receive the Services), HeyWire will contact you through the Personal Information provided by you only for the purpose for which such information was provided. For example, if you have signed up to receive product information from HeyWire, we will use your Personal Information only to send you that information. You may always opt-out of the receipt of any of those communications.
-
-We will use your Personal Information to provide you with access to the Services you have ordered, as well as support services, technical updates or updates on changes in HeyWire’s policies. HeyWire may also use your Personal Information to send you company updates and marketing offers and information as long as you have expressly consented to receiving these or in case we have received your Personal Information in the course of a purchase of our Products and Services and we limit such marketing communication to similar HeyWire products and services.
-
-You may opt-out at any time from receiving marketing information from HeyWire. You may not opt out from non-marketing communications, including service notifications and other operational updates.
-
-HeyWire uses and stores Service Information only for the purpose of conducting business with you. HeyWire’s use of the Service Information is also governed by the agreement you enter into with HeyWire in connection with the Services (the “Services Agreement”). Please refer to the Services Agreement for specific provisions concerning confidentiality and data protection. In the event of any conflict between this Privacy Policy and the Services Agreement, the Services Agreement will control.
-
-We use Non-personal Information collected (both directly and automatically) to:
-
-  * help us develop, improve, deliver and operate the Services;
-  * customize the Services to your preferences;
-  * keep you posted on product and services announcements, important notices regarding terms, policies, and conditions;
-  * detect and block security breaches and to provide you with a safe online environment;
-  * support internal functions such as auditing, data analysis, research, and quality management; and
-  * to develop and deliver new products and services and to improve our Services.
+  * To comply with our legal obligations under applicable laws and cooperate with public and government authorities.
 
 
 
-The Company may also provide Non-personal Information in the form of aggregate statistics about our customers, sales, online traffic patterns, and related information to improve our Services.
 
-We may disclose Personal Information you provide via the Services to third parties only as follows:
+For the full list of purposes for which we Process your Personal Data, please see the full Privacy Statement
 
-  * to contractors we use to support our business, in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes;
-  * in the event of a sale, merger, liquidation, dissolution, reorganization, assignment or other transfer of the Company or the business of the Services to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes;
-  * to respond to law enforcement requests or where required by applicable laws, court orders, or government regulations; and in situations involving harassment (“cyber bullying”) or threats to the physical safety of any person.
+We only collect and process your Personal Data to the extent it is necessary for fulfilling these purposes and where we can rely on a legal basis for such processing as set out in our full Privacy Statement. Where required, we will ask you for your prior consent to processing.
 
+Please review the "What Personal Data do we collect?" and "Purposes for which we process Personal Data and the legal bases on which we rely" sections in our full Privacy Statement for further details. Also, please review the "How long do we keep your Personal Data?" section to learn how long we store your Personal Data.
 
+We may share Personal Data with various parties, including:
 
-If you seek the identity of or account information about a HeyWire subscriber in connection with a civil (as opposed to criminal) legal matter, you must serve HeyWire with a valid subpoena at the address below.
-
-### 4\. INFORMATION YOU SEND
-
-When you send a message or other content through the Services, information about you, such as your phone number, may be visible to other users. Any information you disclose to a third party through messaging is not covered by this policy.
-
-### 5\. ACCESS TO THE INFORMATION COLLECTED BY THE COMPANY
-
-We have created mechanisms to provide you with the following control over your information:
-
-  * You may view and modify the Personal Information you have provided to us by logging in to the Services and clicking on “Settings” on your device.
-  * You may also send us an e-mail message at [privacy@heywire.com](mailto:privacy@heywire.com), to request access to, correct or delete any Personal Information that you have provided to us. Should you elect to have your information deleted, we will also delete your user account. However, copies of your information may remain in back up storage for some time after your deletion. We may also retain certain information to protect against identity theft or misconduct.
-  * If you do not wish us to collect cookies, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of the Services may not function properly.
+  * Our contracted service providers that process Personal Data on our behalf for IT and system administration and hosting, credit card processing, research and analytics, marketing, customer support and data enrichment;
+  * Affiliates within our current or future corporate group that process Personal Data for customer support, marketing, event management, technical operations and account management;
+  * If you are using our services as an authorized user, with the Salesforce customer responsible for your access to the services for verifying your account, investigating suspicious activity and reviewing compliance our usage terms and policies;
+  * Sponsors of events, webinar or contests for which you register;
+  * Third-party social media and advertising networks, which usually act as separate controllers, so that we can advertise on their platforms;
+  * Specifically in relation to our AppExchange website, with our third-party partners who may contact you regarding their products or services;
+  * In individual instances, professional advisers who provide consultancy, banking, legal, insurance and accounting services, or if we are involved in a merger, reorganization, asset sale or business combination; and
+  * Public and government authorities, to the extent we are compelled to disclose Personal Data to comply with our legal obligations.
 
 
 
-### 6\. INTERNATIONAL
+Please review the "Who do we share Personal Data with" section in our full Privacy Statement for more detailed information.
 
-The Services are hosted on servers in the United States and are subject to U.S. law.
+To facilitate our business practices, your Personal Data may be collected, transferred to and stored by us in the United States and by our affiliates in other countries where we operate, including countries outside the European Economic Area (EEA). As described in the "International transfer of Personal Data" section of our full Privacy Statement, we have implemented safeguards to ensure an adequate level of data protection where your Personal Data is transferred to countries outside the EEA, such as standard contractual clauses for the transfer of Personal Data as approved by the European Commission (Art. 46 GDPR). 
 
-### 7\. CHANGES TO THIS PRIVACY POLICY
+You have certain rights relating to your Personal Data, subject to local data protection laws. These rights may include:
 
-HeyWire reserves the right to change this Privacy Policy. If we make changes to the Privacy Policy, we will revise the policy’s effective date, included at the beginning of this policy. We encourage you to periodically review this policy to be informed of how HeyWire is protecting your Personal Information.
+  * To access your Personal Data held by us (right to access);
+  * To rectify inaccurate Personal Data and, taking into account the purpose of processing the Personal Data, ensure it is complete (right to rectification);
+  * To erase/delete your Personal Data, to the extent permitted by applicable data protection laws (right to erasure; right to be forgotten);
+  * To restrict our processing of your Personal Data to the extent permitted by law (right to restriction of processing);
+  * To transfer your Personal Data to another controller, to the extent possible (right to data portability);
+  * To object to any processing of your Personal Data carried out on the basis of our legitimate interests (right to object). Where we process your Personal Data for direct marketing purposes or share it with third parties for their own direct marketing purposes, you can exercise your right to object at any time to such processing without having to provide any specific reason for such objection;
+  * To not be subject to a decision based solely on automated processing, including profiling, which produces legal effects ("Automated Decision-Making"); Automated Decision-Making currently does not take place on our websites or in our services; and
+  * To the extent we base the collection, processing and sharing of your Personal Data on your consent, to withdraw your consent at any time, without affecting the lawfulness of the processing based on such consent before its withdrawal.
 
-### 8\. CONTACTING UP
 
-If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
 
-HeyWire, Inc.  
-1 Canal Park  
-Cambridge, MA 02141
+  
+For more details on your rights and choices and how to exercise them, please review the "Your rights relating to your Personal Data" section in our full Privacy Statement.
 
-Attn:
+To exercise your rights relating to your Personal Data, or if you have questions regarding our privacy practices, please fill out _[this form](https://www.salesforce.com/form/contact/contact-privacy.jsp)_ or mail us at:
 
-You may also email us at [privacy@heywire.com](mailto:privacy@heywire.com)
+Salesforce Data Protection Officer (Salesforce Privacy Team)  
+415 Mission St., 3rd Floor  
+San Francisco, CA 94105, USA
+
+If you believe that we have not been able to assist with your complaint or concern, and you are located in the EEA, you have the right to lodge a complaint with the competent supervisory authority.
