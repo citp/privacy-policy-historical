@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hee.nhs.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228065826id_/https%3A//www.hee.nhs.uk/about/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hee.nhs.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630141850id_/https%3A//www.hee.nhs.uk/about/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | Health Education England
 
@@ -141,9 +141,9 @@ You can access a copy of the information HEE holds about you by writing to [HEE'
 
 The GDPR sets out the right for a data subject to have their personal data ported from one controller to another on request in certain circumstances. You should discuss any request for this with your local office.
 
-If you want to complain about how we have used your personal data or to know more about how your information will be used, please contact your relevant Local Office. Alternatively, HEE’s Data Protection Officer is [Mr Christopher Brady](mailto:christopher.brady@hee.nhs.uk).
+If you want to complain about how we have used your personal data or to know more about how your information will be used, please contact your relevant Local Office. Alternatively, HEE’s Data Protection Officer can be contacted via the following email address [gdpr@hee.nhs.uk](mailto:gdpr@hee.nhs.uk)
 
-Alternatively, you can also contact the Information Commissioner if you have a complaint about our processing of your personal data:
+You can also contact the Information Commissioner if you have a complaint about our processing of your personal data:
 
 The Office of the Information Commissioner  
 Wycliffe House  
