@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketmath.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202216id_/https%3A//www.pocketmath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketmath.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630104214id_/https%3A//www.pocketmath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -165,5 +165,5 @@ If you live outside the United States, the data controller is Pocketmath Pte Ltd
 
 Pocketmath Pte Ltd  
 Attn: Privacy Policy Inquiry  
-883 North Bridge Road #15-05  
-Singapore 198785 
+8 Shenton Way #19-01  
+Singapore 068811 
