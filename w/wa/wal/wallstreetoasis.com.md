@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallstreetoasis.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926011050id_/https%3A//www.wallstreetoasis.com/privacy-policy-wall-street-oasis) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetoasis.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630044526id_/https%3A//www.wallstreetoasis.com/privacy-policy-wall-street-oasis) for the most accurate reproduction.*
 
 # Privacy Policy - Wall Street Oasis | Wall Street Oasis
 
@@ -95,16 +95,20 @@ Some Internet browsers may be configured to send "Do Not Track" signals to the o
 
 If you have an account with us or use our Site, we use your personal information to:
 
-*operate, maintain, administer and improve our Site;  
-*manage and communicate with you regarding your account, if you have one, including by sending you service announcements, technical notices, updates, security alerts, and support and administrative messages;  
-*process and manage requests you make through our Site, including to track and administer Services you have requested;  
-*better understand your needs and interests, and personalize your experience with the Site; and  
-*provide support and maintenance for the Site and our Services.
+  * operate, maintain, administer and improve our Site;
+  * manage and communicate with you regarding your account, if you have one, including by sending you service announcements, technical notices, updates, security alerts, and support and administrative messages;
+  * process and manage requests you make through our Site, including to track and administer Services you have requested;
+  * better understand your needs and interests, and personalize your experience with the Site; and
+  * provide support and maintenance for the Site and our Services.
+
+
 
 #### To communicate with you
 
-*If you request information from us, register on our Site, or participate in our surveys, promotions or events, we may send you updates, newsletters, surveys, offers, and other promotional materials that may be targeted based on your personal information as permitted by law.  
-*We also may, from time to time, contact you about a particular offering that may be of interest to you based on publicly available information or information obtained through WSO. You will have the ability to opt out of such communications.
+  * If you request information from us, register on our Site, or participate in our surveys, promotions or events, we may send you updates, newsletters, surveys, offers, and other promotional materials that may be targeted based on your personal information as permitted by law.
+  * We also may, from time to time, contact you about a particular offering that may be of interest to you based on publicly available information or information obtained through WSO. You will have the ability to opt out of such communications.
+
+
 
 #### To comply with law
 
@@ -182,17 +186,14 @@ We only use your personal information as permitted by law. We are required to in
 
 ### Processing purpose
 
-*Legal basis
+  * Legal basis
+  * To provide our Services
+  * Processing is necessary to perform the contract governing our provision of the Services or to take steps that you request prior to signing up for the Services.
+  * To communicate with you
+  * To create aggregated or de-identified information
+  * For compliance, fraud prevention and safety
 
-*To provide our Services
 
-*Processing is necessary to perform the contract governing our provision of the Services or to take steps that you request prior to signing up for the Services.
-
-*To communicate with you
-
-*To create aggregated or de-identified information
-
-*For compliance, fraud prevention and safety
 
 These processing activities constitute our legitimate interests. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal information for our legitimate interests. We do not use your personal information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
 
@@ -212,13 +213,15 @@ We may use your personal information for reasons not described in this Privacy P
 
 European data protection laws give you certain rights regarding your personal information. You may ask us to take the following actions in relation to your personal information that we hold:
 
-*Opt-out. Stop sending you direct marketing communications. You may continue to receive service-related and other non-marketing emails.  
-*Access. Provide you with information about our processing of your personal information and give you access to your personal information.  
-*Correct. Update or correct inaccuracies in your personal information.  
-*Delete. Delete your personal information.  
-*Transfer. Transfer a machine-readable copy of your personal information to you or a third party of your choice.  
-*Restrict. Restrict the processing of your personal information.  
-*Object. Object to our reliance on our legitimate interests as the basis of our processing of your personal information that impacts your rights.
+  * Opt-out. Stop sending you direct marketing communications. You may continue to receive service-related and other non-marketing emails.
+  * Access. Provide you with information about our processing of your personal information and give you access to your personal information.
+  * Correct. Update or correct inaccuracies in your personal information.
+  * Delete. Delete your personal information.
+  * Transfer. Transfer a machine-readable copy of your personal information to you or a third party of your choice.
+  * Restrict. Restrict the processing of your personal information.
+  * Object. Object to our reliance on our legitimate interests as the basis of our processing of your personal information that impacts your rights.
+
+
 
 You can submit these requests by email to at [support@wallstreetoasis.com](mailto:support@wallstreetoasis.com). We may request specific information from you to help us confirm your identity and process your request.
 
