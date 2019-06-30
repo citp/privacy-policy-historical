@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelonline.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224012447id_/https%3A//www.cbsinteractive.com/legal/cbsi/privacy-policy/highlights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelonline.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235716id_/https%3A//www.cbsinteractive.com/legal/cbsi/privacy-policy/highlights) for the most accurate reproduction.*
 
 # CBS Privacy Policy Highlights :: CBS Interactive
 
