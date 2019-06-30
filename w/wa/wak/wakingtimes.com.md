@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakingtimes.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129193428id_/https%3A//www.wakingtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakingtimes.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630071507id_/https%3A//www.wakingtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Waking Times
 
@@ -29,23 +29,23 @@ WakingTimes.com is a participant in the Amazon Services LLC Associates Program, 
 
 #### Newsletter:
 
-Visitors on this site may optionally sign up for our daily newsletter by providing their email address in one of the various signup forms available on wakingtimes.com. The email addresses are stored with mailchimp.com, and the user data is never shared nor sold to any outside parties. The Mailchimp privacy policy an be seen here <https://mailchimp.com/legal/privacy/>. We use the subscribers email address to send out a daily newsletter with the most recent articles, and to communicate with regarding changes or updates on the site. In addition we also send out occasional promotional emails to our subscribers, for products that we think would be of interest. Users emails are kept safe by Mailchimp, for as long as the user remains a subscriber. Users can unsubscribe from our email list at any time by clicking on the unsubscribe link at the base of the email. 
+Visitors on this site may optionally sign up for our daily newsletter by providing their email address in one of the various signup forms available on wakingtimes.com. The email addresses are stored with mailchimp.com, and the user data is never shared nor sold to any outside parties. The Mailchimp privacy policy an be seen here <https://mailchimp.com/legal/privacy/>. We use the subscribers email address to send out a daily newsletter with the most recent articles, and to communicate with regarding changes or updates on the site. In addition we also send out occasional promotional emails to our subscribers, for products that we think would be of interest. Users emails are kept safe by Mailchimp, for as long as the user remains a subscriber. Users can unsubscribe from our email list at any time by clicking on the unsubscribe link at the base of the email.
 
 #### California Online Privacy Protection Act
 
 CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-**According to CalOPPA, we agree to the following:**  
+ **According to CalOPPA, we agree to the following:**  
 Users can visit our site anonymously.  
 Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.  
 Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.  
 You will be notified of any Privacy Policy changes on our Privacy Policy Page.  
 Can change your personal information by emailing us or via an online form.
 
-**How does our site handle Do Not Track signals?**  
+ **How does our site handle Do Not Track signals?**  
 We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-**Does our site allow third-party behavioral tracking?**  
+ **Does our site allow third-party behavioral tracking?**  
 It’s also important to note that we allow third-party behavioral tracking
 
 #### COPPA (Children Online Privacy Protection Act)
@@ -68,10 +68,10 @@ We also agree to the Individual Redress Principle which requires that individual
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**We collect your email address in order to:**  
+ **We collect your email address in order to:**  
 • Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
 
-**To be in accordance with CANSPAM, we agree to the following:**  
+ **To be in accordance with CANSPAM, we agree to the following:**  
 • Not use false or misleading subjects or email addresses.  
 • Identify the message as an advertisement in some reasonable way.  
 • Include the physical address of our business or site headquarters.  
