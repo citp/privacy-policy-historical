@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sponsorpay.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204075854id_/https%3A//www.fyber.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sponsorpay.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235518id_/https%3A//www.fyber.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fyber
 
@@ -94,7 +94,7 @@ We also allow third parties, such as Google analytics and social media websites 
 
 **At any time, you may opt out from our mailing list and change your cookies preferences.**
 
-At any time, you can unsubscribe from Fyber’s newsletters list, by sending Fyber an opt-out request to: _[marketing@fyber.com](mailto:marketing@fyber.com)_ or clicking the “unsubscribe” link available thereto.
+At any time, you can unsubscribe from Fyber’s newsletters list, by sending Fyber an opt-out request to: _marketing [at] fyber [dot] com_ or clicking the “unsubscribe” link available thereto.
 
 You can manage your cookies preferences through the setting of your browser.
 
@@ -102,17 +102,17 @@ You can manage your cookies preferences through the setting of your browser.
 
 If you are a California resident, California Civil Code Section 1798.83 permits you to request in writing a list of the categories of Personal Information relating to third parties to which Fyber has disclosed Personal Information during the preceding year for the third parties’ direct marketing purposes.
 
-**To make such a request, please contact Fyber at: _[privacy@fyber.com](mailto:privacy@fyber.com)_**
+**To make such a request, please contact Fyber at: _privacy [at] fyber [dot] com_**
 
 **10\. Accessing Personal Information Related to you**
 
 **You can request access to Personal Information related to you.**
 
-At any time, you can contact Fyber at: _[privacy@fyber.com](mailto:privacy@fyber.com)_ and request to access the Personal Information that Fyber keeps on you. Fyber will need to ask you to provide credentials to make sure that you are who you claim to be. If you find that the details on your account are not accurate, complete or updated, then please provide Fyber the necessary information to correct it.
+At any time, you can contact Fyber at: _GDPR [at] fyber [dot] com_ and request to access the Personal Information that Fyber keeps on you. Fyber will need to ask you to provide credentials to make sure that you are who you claim to be. If you find that the details on your account are not accurate, complete or updated, then please provide Fyber the necessary information to correct it.
 
-At any time, you can contact Fyber at: _[privacy@fyber.com](mailto:privacy@fyber.com)_ to receive a copy of the Personal Information that Fyber keeps about you, and to verify the accuracy of the data.
+At any time, you can contact Fyber at: _GDPR [at] fyber [dot] com_ to receive a copy of the Personal Information that Fyber keeps about you, and to verify the accuracy of the data.
 
-If you’d like Fyber to delete data that you provided through the Site, please contact Fyber at  _[Marketing@fyber.com](mailto:marketing@fyber.com)_ and Fyber will respond in a reasonable time.
+If you’d like Fyber to delete data that you provided through the Site, please contact Fyber at  _Marketing [at] fyber [dot] com_ and Fyber will respond in a reasonable time.
 
 Fyber  retains and uses Personal Information related to you as necessary to comply with its legal obligations, resolve disputes and enforce Fyber’s agreements.
 
@@ -163,7 +163,7 @@ A summary and further details about your rights under EU data protection laws, i
 
 Fyber does periodical assessments of its data processing and privacy practices, to make sure that Fyber complies with this policy, to update the policy when needed, and to verify that the policy is displayed properly and accessible.
 
-If you have any concerns about the way Fyber processes Personal Information related to you, you are welcome to contact Fyber’s data protection officer at: [privacy@fyber.com](mailto:privacy@fyber.com), or write to Fyber to: Fyber GmbH, Johannisstraße 20, 10117 Berlin, Germany.
+If you have any concerns about the way Fyber processes Personal Information related to you, you are welcome to contact Fyber’s data protection officer at: _GDPR [at] fyber [dot] com_ , or write to Fyber to: Fyber GmbH, Wallstraße 9-13, 10179 Berlin, Germany.
 
 Fyber will look into your enquiry and make good-faith efforts to resolve any existing or potential dispute with you. If you remain unhappy with the response you received, you can also refer the matter to the [data protection authorities in Germany](https://www.ldi.nrw.de/LDI_EnglishCorner/mainmenu_DataProtection/Inhalt2/authorities/authorities.php).
 
@@ -215,7 +215,7 @@ Note that if Fyber needs to adapt the policy to legal requirements, the new poli
 
 **16\. Contact Fyber**
 
-Please contact Fyber’s Data Protection Officer at: _[privacy@fyber.com](mailto:privacy@fyber.com)_ for further information.
+Please contact Fyber’s Data Protection Officer at: _GDPR [at] fyber [dot] com_ for further information.
 
 **Last Updated: June 11, 2018**
 
@@ -387,19 +387,19 @@ Web browsers offer a “Do Not Track” (“DNT”) signal. A DNT signal is a HT
 
 If you are a California resident, California Civil Code Section 1798.83 permits you to request in writing a list of the categories of Personal Information relating third parties to which Fyber has disclosed Personal Information during the preceding year for the third parties’ direct marketing purposes.
 
-To make such a request, please contact us at: [privacy@fyber.com](mailto:privacy@fyber.com).
+To make such a request, please contact us at: _privacy [at] fyber [dot] com_.
 
 **9\. Accessing Personal Information Related to you**
 
 **You can request access to Personal Information** **related to you** **.**
 
-At any time, you can contact us at: [privacy@fyber.com](mailto:privacy@fyber.com) and request to access the Personal Information that Fyber keeps about you. Fyber will need to ask you to provide it with credentials to make sure that you are who you claim you are.
+At any time, you can contact us at: _GDPR [at] fyber [dot] com_ and request to access the Personal Information that Fyber keeps about you. Fyber will need to ask you to provide it with credentials to make sure that you are who you claim you are.
 
 If you find that the details on your account are not accurate, complete or updated, then please provide us the necessary information to correct it.
 
-At any time, you can contact Fyber at: [privacy@fyber.com](mailto:privacy@fyber.com) and request to access the Personal Information that Fyber keeps about you, and to verify the accuracy of the data.
+At any time, you can contact Fyber at: _GDPR [at] fyber [dot] com_ and request to access the Personal Information that Fyber keeps about you, and to verify the accuracy of the data.
 
-If you’d like us to delete data that you have provided through the Property, please contact Fyber at: [privacy@fyber.com](mailto:privacy@fyber.com) and Fyber will respond within a reasonable time after receiving your email.
+If you’d like us to delete data that you have provided through the Property, please contact Fyber at:  _GDPR [at] fyber [dot] com_ and Fyber will respond within a reasonable time after receiving your email.
 
 Fyber will retain and use Personal Information related to you as necessary to comply with its legal obligations, resolve disputes and enforce Fyber’s agreements.
 
@@ -471,6 +471,6 @@ Note that if Fyber needs to adapt the policy to legal requirements, the new poli
 
 **15\. Contact Us**
 
-Please contact Fyber’s Data Protection Officer at: [privacy@fyber.com](mailto:privacy@fyber.com) for further information.
+Please contact Fyber’s Data Protection Officer at: GDPR [at] fyber [dot] com for further information.
 
-Last updated: **June 11, 2018**
+Last updated: **June 24, 2019**
