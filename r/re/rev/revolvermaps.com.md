@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110091413id_/http%3A//www.revolvermaps.com%3Ftarget%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211104id_/https%3A//www.revolvermaps.com%3Ftarget%3Dprivacy) for the most accurate reproduction.*
 
 # Legal | RevolverMaps - Free 3D Visitor Maps
 
@@ -21,7 +21,7 @@ Responsible for data processing on this website is Karma Implementor, c/o: Danie
 
 ### 3\. Servers
 
-The RevolverMaps servers are located in Cologne (Köln), Germany. Independent certifications (ISO 27001 and PCI DSS) guarantee the security of the data center. 
+The RevolverMaps servers are located in Frankfurt, Germany. 
 
 A basic principle at revolvermaps.com is to keep the server configuration secure while running the minimum of required software and services. 
 
@@ -225,4 +225,4 @@ As a user of the widget service you may want to implement an opt-out button on y
 
 Place your widget code _INSIDE_ the single quotes ( _var code=' <script>...</script>'_ )! The variable _alternative_ can be a message to be displayed if the user has opted out the service. Additionally it could link to your opt-out button: 
 
-_This privacy policy was updated on May 25, 2018_
+_This privacy policy was updated on May 28, 2019_
