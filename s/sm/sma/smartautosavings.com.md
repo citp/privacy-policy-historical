@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartautosavings.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112045632id_/http%3A//www.smartautosavings.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartautosavings.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630173918id_/http%3A//www.smartautosavings.com/footer/privacy) for the most accurate reproduction.*
 
 # SmartAutoSavings - Compare dealer quotes and get the best price before you buy!
 
