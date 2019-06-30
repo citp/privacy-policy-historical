@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the granicus.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221112356id_/https%3A//granicus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the granicus.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630192734id_/https%3A//granicus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Granicus
+
+## We Are Committed to Maintaining Your Trust
+
+Granicus, LLC (“Granicus”, “Company”, or “We”) is committed to maintaining your trust by protecting your personal data. The Granicus privacy policy was last updated on May 31, 2019. 
 
 This statement explains how we collect, use, share, and protect your personal data. Personal data is any information relating to an identified or identifiable person. Your name, address, phone number, email address, and IP address are examples of personal data. Unless otherwise specified, this statement applies to Granicus’ marketing efforts.
 
@@ -8,7 +12,7 @@ Granicus will process your personal data in a transparent and lawful way. Any pe
 
 We may change this statement from time to time to reflect privacy or security updates. If we make material changes, we will notify you via the email address listed in your account, or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-This privacy statement is provided in a layered format so you can click through to the specific sections set out below. Alternatively, you can download a pdf version of the statement [here](https://granicus.com/pdfs/Marketing-Privacy-Notice-Final_US_May-15.pdf).
+This privacy statement is provided in a layered format so you can click through to the specific sections set out below. Alternatively, you can download a pdf version of the statement [here](https://granicus.com/wp-content/uploads/application/pdf/Marketing-Privacy-Notice_US_V1.1_2019_May31-PDF.pdf).
 
 ### Contact Us
 
@@ -68,7 +72,14 @@ We will not use your personal data for decisions based solely on automated proce
 
 Except as described here or in any of our other applicable privacy policies, we will not sell, distribute, lease, or provide any of your personal data to any third parties unless we have your permission to do so or are required by law. We share your personal data with the following categories of recipient:
 
-  * **Agents and subcontractors**. We may disclose your personal data with our agents or subcontractors for the purposes identified above. In these cases, the agent or subcontractor will be obligated to use that personal data in accordance with the terms of this privacy statement.
+  * **Agents and subcontractors**. We may disclose your personal data with our agents or subcontractors for the purposes identified above. In these cases, the agent or subcontractor will be obligated to use that personal data in accordance with the terms of this privacy statement. _Your data may be shared with these types of agents and subcontractors:_
+    *       * Data deduplication and rerouting service provider
+      * Customer Relationship Management (CRM) service provider
+      * Marketing automation and analytics provider
+      * Sales development tools provider
+      * Conversion optimization and lead generation services provider
+      * Webinar marketing service provider
+      * Sales engagement solution provider
   * **Third parties as permitted or required by law.**  This may include disclosing your personal data to regulators, or law enforcement authorities. We may transfer and disclose the data we collect about you to comply with a legal obligation, including responding to a court order, to prevent fraud, to comply with an inquiry by a government agency or other regulator, to address security or technical issues, to respond to an emergency, or as necessary for other legal purposes.
   * **As part of a business transaction.**  In relation to an ongoing or proposed business transaction such as a transfer of the ownership or operation of Granicus, LLC or any companies in its group to another organization, if we merge with or are acquired by another organization, or if we liquidate our assets, your personal data may be transferred to a successor organization. If such a transfer occurs, the successor organization’s use of your data will still be subject to this statement and the privacy preferences you have expressed to us.
 
