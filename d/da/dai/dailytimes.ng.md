@@ -1,116 +1,41 @@
-> *The following text is extracted and transformed from the dailytimes.ng privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202034619id_/https%3A//dailytimes.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytimes.ng privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221725id_/https%3A//dailytimes.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Daily Times Nigeria
 
-## Privacy Policy  
-Daily Times of Nigeria Plc 
+Daily Times  Nigeria may collect information from our users at several different points on the site. Daily Times  Nigeria is the sole owner of the information collected on Dailytimes.ng
 
-### Privacy Policy for use of www.dailytimes.ng Site
+**Comments and Posts**
 
-Daily Times of Nigeria Plc is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures we have in place to safeguard your privacy.
+_Daily Times  Nigeria _users can choose to write comments or posts on the site. To leave a comment, users must submit information including a valid email address.  _Daily Times  Nigeria_ uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.
 
-In this Privacy Policy references to we, us and our, are to Daily Times of Nigeria Plc . References to the Site are to www.dailytimes.ng and any of the ‘DAILYTIMES’ branded sites or microsites, such as www.DAILYTIMES.ng etc.
+**Newsletters**
 
-Certain expressions used in this Privacy Policy (such as User Content) have definitions which are set out in the Terms and Conditions for use of this Site.
+_Daily Times  Nigeria_ offers email newsletters. To sign up to receive regular emails, users must submit information including a valid email address. This information will be used in aggregate form to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails, including new articles added to the site.
 
-### 1\. What Information we Collect
+**Log Files**
 
-The information we collect via the Site may include:
+Like most standard Web site servers we use log files. These include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks.  We use this information to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use.  IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
 
-1.1 Personal details you give us through completion of forms on the Website, including name, address, telephone number, email address etc.
+**Legal Disclaimer**
 
-1.2 Debit or credit card information which we need to pass to a bank or card processing agency for verification.
+Though we make every effort to preserve user privacy,  _Daily Times  Nigeria_ may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
 
-1.3 Your IP address, your preferences and use of email updates.
+**Business Transitions**
 
-1.4 Data recorded by the Site which allows us to recognise you and your preferred settings. Such data is recorded locally on your computer through the use of cookies. Your browser can be programmed to reject cookies or warn you before downloading them. However some features of the Site may not function properly if you programme your browser to reject cookies.
+In the event  _Daily Times  Nigeria_ goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
-1.5 When you use the Site our servers automatically record certain information that your web browser sends whenever you visit any website. This may include your web request, internet protocol address, browser type, browser language, URL’s, URL’s domain names, pages viewed and other matters together with cookies which may identify your browser.
+**Links**
 
-###  2\. What we do with your Information
+Daily Times  Nigeria _ _ contains links to other sites. Please be aware that _  Daily Times  Nigeria_ is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by  _Daily Times  Nigeria_.
 
-Any personal information we collect from the Site we use for some or all of the following purposes:
+**Third Party Advertising**
 
-2.1 To process your registration and provide you the features and functionality of the Site.
+The ads appearing on this Web site are delivered to users by Google, among other services. Information about users’ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
 
-2.2 Personal information or text, photo or video content that you post as part of your User Content becomes publicly available and can be viewed and used by others. Your account name (but not your email address) is displayed to other users when you use the Site or send messages through the Site and other users can contact you by sending messages through the Site. Any text, photos or videos that you submit to the Site may be redistributed through the internet and other media and may be viewed by the public.
+**Notification of Changes**
 
-2.3 In some cases we may use your email address to send you information on other products and services. You will be offered the option to opt out of such service.
+Whenever  _Daily Times  Nigeria_ changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
 
-2.4 We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities such as processing and sorting data, monitoring use of the Site etc. Such third parties will not be allowed to use your personal information for their own purposes.
+**Contact Information**
 
-2.5 We may use aggregated information for the purpose of monitoring use of the Site. Such aggregated information may be provided to third parties. These statistics will not include information which can be used to identify any individual.
-
-2.6 We may provide personal data to carefully selected third parties for commercial or marketing use where we believe such third parties provide goods or services which may be of interest to you. You may opt out of such service. We can supply a complete list of third parties to whom personal data is supplied upon request.
-
-### 3\. Links
-
-3.1 As a User you may have access to a specific part of the Site where your User Content may be posted. We will agree with you which personnel may access certain areas of the Site.
-
-3.2 The Site may contain links to other sites. Please note that we are not responsible for the Privacy Policies or practices of other sites. We encourage users to be aware when they leave the Site and to read the Privacy Policies of other sites. This Privacy Policy applies solely to information collected on the Site.
-
-### 4\. Protection of Information
-
-4.1 The internet is not a secure medium. However, we have put in place recommended up to date security measures and will review these and keep them updated regularly.
-
-4.2 Subject to the terms of this Privacy Policy, we keep your information confidential. To ensure that we are able to maintain confidentiality you must comply with the Terms and Conditions of Use of the Site.
-
-4.3 You agree not to collect any personal information on other living individuals by your access to User Content posted by others upon the Site.
-
-### 5\. Updating/Modification
-
-5.1 If any of the details you have provided the Site changes, please give us correct details by email to: admin@dailytimes.ng
-
-5.2 We reserve the right to change this Privacy Policy without notice. The new Privacy Policy will be posted upon the Site and your continued use of the Site will be considered acceptance of it. You are advised to check this Privacy Policy regularly.
-
-### 6\. Your Consent
-
-6.1 By submitting your information on the Site, you consent to the use of that information as set out in this Privacy Policy. If we change the Privacy Policy we will post the changes on this page and we may place notices on other pages of the Site so that you may be aware of such change. Your continued use of the Site will then signify that you agree to such changes.
-
-6.2 Owing to the global nature of the internet, the information you provide may be transferred to companies outside the European Economic Area (EEA) that do not have similar protections in place to those which apply in the EEA regarding your data and its use as set out in this Policy. However, we have taken steps outlined in this Policy to protect the security of your information and will keep any transfers outside the EEA to a necessary minimum. By submitting your information you consent to these transfers.
-
-### 7\. Data Subject Requests
-
-7.1 We are the Data Controller in respect of personal data submitted to you in respect of the Site for the purposes of the Data Protection Act 1998, England.
-
-7.2 If you wish to update the personal information or make a subject access request please email the admin@dailytimes.ng
-
-7.3 This Privacy Policy is subject to the Terms and Conditions for use of this Site which are situated elsewhere on the Site.
-
-## Copyright Complaints
-
-Daily Times of Nigeria Plc  
-www.dailytimes.ng  Site, and any of the ‘DAILYTIMES’ branded sites or microsites, such as www.DAILYTIMES.ng.
-
-### Copyright Infringement Notification
-
-If you see material on the Site which you consider is an infringement of any copyright to which you claim to be entitled in accordance with the Copyrights, Patents and Designs Act 1988, England (as amended) please contact us at the address stated below to notify us of the alleged infringement and in doing so complying with the following requirements.  Please supply:
-
-  1. A physical or electronic signature of a person authorised to act on behalf of the copyright owner.
-  2. Identification of the copyright work that you claim has been infringed.
-  3. Definitive identification of the copyright material that you claim has been infringed and which you wish to have removed from the Site.  Providing a complete URL in the body of an email is the best way to help us locate such material quickly.
-  4. Full information regarding the complainant including: 
-    1. Name (and company number and place of incorporation if appropriate).
-    2. Address.
-    3. Telephone and email contact.
-    4. A statement that the complainant owns the copyright material or is duly authorised to make this complaint on behalf of an identified copyright owner.
-  5. A statement that the information in the notification is accurate to the best of the providers knowledge and belief and that the complainant is authorised to act on behalf of the owner of the claimed copyright material.
-
-
-
-Your written notice should be sent by email to: admin@dailytimes.ng
-
-Or in writing to:
-
-HEAD OFFICE:  
-3, Imam Augusto Close,  
-Off Olosa Street,  
-Victoria Island,  
-Lagos
-
-OPERATIONAL OFFICE:  
-5, Lateef Jakande Road,  
-Agidingbi – Ikeja,  
-Lagos
-
-We will take reasonable steps to remove copyright material from the Site where complete and accurate information is submitted in respect of the alleged copyright infringement.  You are not entitled to submit a copyright infringement notification where you do not own or are not authorised to act on behalf of the owner of the copyright material.  Such an action may render you liable to legal action by the true owner of the copyright material.
+If you have any questions or suggestions regarding our privacy policy, please send an email to info@dailytimes.ng
