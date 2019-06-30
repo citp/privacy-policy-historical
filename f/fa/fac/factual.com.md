@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227003953id_/https%3A//www.factual.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224414id_/https%3A//www.factual.com/privacy) for the most accurate reproduction.*
 
 # Factual | Privacy Policy
 
-Effective Date: September 12th, 2018
+Effective Date: June 24th, 2019
 
 _Summary of Recent Updates_
 
-_  
-**Notice for website visitors from outside the U.S.:** This Privacy Policy describes your data protection rights, including a right to object to some of the processing which Factual carries out. Please note that in order to use Factual’s website, you authorize Factual to transfer your personal information across national borders and to other countries where Factual and its affiliates operate, including the United States. The privacy protections and rights of authorities to access your information in these countries may not be equivalent to those in your country. We will take steps intended to ensure that your personal information continues to receive appropriate protections. More information about your rights, and how to exercise them, is set out in the section **International Visitors** below. _
+_**Notice for website visitors from outside the U.S.:** This Privacy Policy describes your data protection rights, including a right to object to some of the processing which Factual carries out. Please note that in order to use Factual’s website, you authorize Factual to transfer your personal information across national borders and to other countries where Factual and its affiliates operate, including the United States. The privacy protections and rights of authorities to access your information in these countries may not be equivalent to those in your country. We will take steps intended to ensure that your personal information continues to receive appropriate protections. More information about your rights, and how to exercise them, is set out in the section **International Visitors** below. _
 
-_Please note that Factual has elected to pause its Audience business in EU until further notice. Factual’s Audience business is built on information about Consumers, as that term is described in the sectionWho are you? below.  
-_
+_Please note that Factual has elected to pause its Audience business in EU until further notice. Factual’s Audience business is built on information about Consumers, as that term is described in the sectionWho are you? below. _
 
 ###### **Sections:**
 
@@ -18,7 +16,7 @@ _
   2. **Who are we?**
   3. **Who are you?**
   4. **What does this Privacy Policy cover?**
-  5. **What Consumer information does Factual receive?**
+  5. **What Consumer information does Factual collect or receive?**
   6. **How does Factual use Device Data for its Services?**
   7. **How long does Factual retain Device Data?**
   8. **Does Factual share Consumer information?**
@@ -40,7 +38,7 @@ _
   14. **Data security.**
   15. **Children’s privacy.**
   16. **International visitors.**
-    1. **EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.**
+    1. **Privacy Shield.**
     2. **What is the legal basis on which Factual relies to process User Information?**
     3. **Who is responsible for User information?**
     4. **Cookies.**
@@ -52,13 +50,13 @@ _
 
 ## **1\. Introduction. ******
 
-At Factual, we value your privacy. Please read this privacy policy (“ **Privacy Policy** ”) carefully so you can make informed decisions about your relationship with us. This Privacy Policy may be revised periodically; please revisit this page regularly to remain up to date on any changes. Material changes, if any, will be summarized at the top. 
+At Factual, we value your privacy. Please read this privacy policy (“ **Privacy Policy** ”) carefully so you can make informed decisions about your relationship with us. This Privacy Policy may be revised periodically; please revisit this page regularly to remain up to date on any changes. Material changes, if any, will be summarized at the top.
 
 If you reside outside of the U.S., please note the section on International Visitors.
 
 ## **2\. Who are we?**
 
-Factual is a location data services company powering innovation in product development, mobile marketing, and real-world analytics. We help our Customers in many ways, from driving greater personalization and enhanced features within digital consumer products and mobile apps to providing retail analytics and other insights, to name a few. 
+Factual is a location data services company powering innovation in product development, mobile marketing, and real-world analytics. We help our Customers in many ways, from driving greater personalization and enhanced features within digital consumer products and mobile apps to providing retail analytics and other insights, to name a few.
 
 Our business is based on providing services to our Customers related to two major categories of data: (a) points of interest data; and, (b) device data. Point-of-interest data means detailed data related to businesses and other points of interest: e.g., restaurants, stores, hotels, doctors’ offices, airports, monuments, and includes information such as location coordinates (such as showing the location coordinates of a local grocery store). Device data, which is further described below, provides observations received from or associated with specific Consumer or User devices and their precise location coordinates over time from which Factual derives inferences (“ **Device Data** ”).
 
@@ -77,19 +75,21 @@ Depending on your relationship with Factual, you may fall into more than one of 
 
 ## **4\. What does this Privacy Policy cover**
 
-This Privacy Policy relates to: (a) Factual’s services that involve the use of Device Data and Derived Data (“ **Services** ”); and, (b) Factual’s collection and use of information obtained through our Site(s) (including Factual User Accounts) and Factual’s apps (“ **User Information** ”). Device Data is described in the section What Consumer information does Factual receive? below. 
+This Privacy Policy relates to: (a) Factual’s services that involve the use of Device Data and Derived Data (“ **Services** ”); and, (b) Factual’s collection and use of information obtained through our Site(s) (including Factual User Accounts) and Factual’s apps (“ **User Information** ”). Device Data is described in the section What Consumer information does Factual receive? below.
 
-This Privacy Policy does not apply to companies that Factual does not own or control, including Factual’s Customers. For example, as part of our Services, Factual may provide Device Data and information derived from Device Data (“ **Derived Data** ”) to Customers (or other third parties at the direction of a Customer). Factual may also provide the Device Data to third-party platforms for resale. Device Data and Derived Data are, collectively, “ **Observation Data** ”. 
+This Privacy Policy does not apply to companies that Factual does not own or control, including Factual’s Customers. For example, as part of our Services, Factual may provide Device Data and information derived from Device Data (“ **Derived Data** ”) to Customers (or other third parties at the direction of a Customer). Factual may also provide the Device Data to third-party platforms for resale. Device Data and Derived Data are, collectively, “ **Observation Data** ”.
 
-The use of Device Data by Factual’s Customers and other third parties is not covered by this Privacy Policy. Some of these Customers and other third parties may use cookies or similar technologies such as web beacons (collectively, “ **Cookies** ”) in order to send targeted ads to Consumers, engage with Consumers, or otherwise locate Consumers. Customers may associate the Device Data with additional information they have from other sources. To learn more about how Factual’s Customers collect, use, and disclose information about Consumers, please review the relevant Customer’s privacy policy; a Customer’s data handling practices are governed by its own privacy policy, not Factual’s Privacy Policy.
+The use of Device Data by Factual’s Customers and other third parties is not covered by this Privacy Policy. Some of these Customers and other third parties may use cookies or similar non-cookie technologies such as pixels or web beacons (collectively, “ **Cookies** ”) in order to send targeted ads to Consumers, engage with Consumers, or otherwise locate Consumers. Customers may associate the Device Data with additional information they have from other sources. To learn more about how Factual’s Customers collect, use, and disclose information about Consumers, please review the relevant Customer’s privacy policy; a Customer’s data handling practices are governed by its own privacy policy, not Factual’s Privacy Policy.
 
-## **5\. What Consumer information does Factual receive?**
+## **5\. What Consumer information does Factual collect or receive?**
 
-Factual works closely with Partners who provide data to power our Services. Factual’s Partners may publish (or provide services to app developers who publish) apps for use by Consumers. Some of those Partners use Factual’s SDK within apps to collect that data for sharing with Factual. Partners may also display ads for viewing by Consumers and record whether or not the ad was displayed for an individual Consumer. 
+Factual works closely with Partners who provide data to power our Services. Factual’s Partners may publish (or provide services to app developers who publish) apps for use by Consumers. Some of those Partners use Factual’s SDK within apps to collect data for sharing with Factual or to enable Factual to collect data directly from the app. Partners may also display ads for viewing by Consumers and record whether or not the ad was displayed for an individual Consumer.
 
-Factual may receive Device Data that varies depending on the information and consent(s) provided by a Consumer to a Partner. Additionally, some Customers may provide Factual with other information (such as street addresses and related personal information) for use in the curation of Device Data. That Device Data in combination with Derived Data make up the Observation Data that powers Factual’s Services. 
+Factual may receive Device Data that varies depending on the information and consent(s) provided by a Consumer to a Partner. Additionally, some Customers may provide Factual with other information (such as street addresses and related personal information) for use in the curation of Device Data. That Device Data in combination with Derived Data make up the Observation Data that powers Factual’s Services.
 
-Factual requires its Partners to provide transparent disclosures and collect consent from the Consumer as necessary to enable the uses described in the section How does Factual use Device Data for its Services? below.
+Factual requires its Partners to provide transparent disclosures and collect consent from the Consumer as necessary to enable the uses described in the section How does Factual use Device Data for its Services? below. 
+
+In addition to receiving Device Data from Partners, Factual uses Cookies to collect Device Data for selected Factual Services (described below) such as to measure the performance of Customers’ content, services, and advertising.  Factual does not use or transfer the Device Data that it collects through its own Cookies for interest-based advertising.
 
 ## **6\. How does Factual use Device Data for its Services?**
 
@@ -102,25 +102,25 @@ Device Information. | This data is used to power our Services, in particular, to
 Attribution Information. | This data helps our Customers measure the effectiveness of advertising and marketing campaigns.  
 Other Information. | If Factual receives any data that it deems of low integrity or is not related to the disclosed purpose of processing, then Factual will filter out that data and delete it. We receive this data because we cannot validate the integrity of the data until we have received it.  
   
-“ **Demographic and Interest-based Information** ” means information which may (but does not necessarily) include: imputed or actual data about a Consumer such as age, gender, or birth year; inferred or actual characteristics or interests such as ‘coffee drinker’ or ‘frequent shopper’ which can be based on a device’s location over time; and, any other information that the Consumer provides to the relevant Partner;
+ “ **Demographic and Interest-based Information** ” means information which may (but does not necessarily) include: imputed or actual data about a Consumer such as age, gender, or birth year; inferred or actual characteristics or interests such as ‘coffee drinker’ or ‘frequent shopper’ which can be based on a device’s location over time; and, any other information that the Consumer provides to the relevant Partner;
 
 **“Device Information** ” means information about the device which may (but does not necessarily) include: Device Geolocation Data, mobile advertising identifier, device type (e.g., tablet, smartphone, television), operating system (e.g., iOS, Android), app name or identifier, IP address, network provider, mobile carrier, mobile browser type (e.g., Firefox, Chrome), timestamp, time zone, information about the speed, bearing, orientation, and altitude of a device, or other device-identifying information, including cross-device information. For more information on cross-device linking, please see What is interest-based advertising and cross-device linking?
 
 “ **Device Geolocation Data** ” means precise geolocation data from or about a Consumer’s device, which may be expressed by latitude-longitude coordinates obtained through GPS tools, WiFi data, cell tower triangulation or other techniques, and linked to a mobile advertising ID. “
 
-“ **Attribution Information** ” means information about Consumer activities that help Factual determine how a Consumer has responded to advertising or content, such as determining whether a Consumer who viewed a particular advertisement ultimately visited the advertiser’s retail store. 
+“ **Attribution Information** ” means information about Consumer activities that help Factual determine how a Consumer has responded to advertising or content, such as determining whether a Consumer who viewed a particular advertisement ultimately visited the advertiser’s retail store.
 
-The Device Data that Factual receives from its Partners may be combined with additional information Factual collects or receives from third-party sources. For example, Factual may have information about consumer products, events held at specific locations, street addresses, information about the possible relationships among different devices, and categories of geographic locations, or points of interest. When such information is associated with a specific device, we treat it as Device Data. 
+The Device Data that Factual receives from its Partners may be combined with additional information Factual collects or receives from third-party sources. For example, Factual may have information about consumer products, events held at specific locations, street addresses, information about the possible relationships among different devices, and categories of geographic locations, or points of interest. When such information is associated with a specific device, we treat it as Device Data.
 
-Factual generally uses the Device Data it collects or receives for the following purposes: (a) to operate, maintain, enhance, and provide the Services described below; (b) to improve and market the Services; and, (c) to create new features and functionality. 
+Factual generally uses the Device Data it collects or receives for the following purposes: (a) to operate, maintain, enhance, and provide the Services described below; (b) to improve and market the Services; and, (c) to create new features and functionality.
 
-Factual’s Services help our Customers learn more about Consumers based on Device Data, including Device Geolocation Data. For example, the Services help our Customers: (v) provide more relevant content or advertising to Consumers over time and across multiple devices; (w) identify other Consumers that may be interested in their offerings; (x) measure the performance of Customers’ content, services, and advertising (for instance, what effect certain ads have in comparison to others), or trends and preferences among Consumers (for instance, what types of Consumers generally tend to shop at certain stores); (y) learn how Customers’ apps may perform better; or, (z) generally improve their services. 
+Factual’s Services help our Customers learn more about Consumers based on Device Data, including Device Geolocation Data. For example, the Services help our Customers: (v) provide more relevant content or advertising to Consumers over time and across multiple devices; (w) identify other Consumers that may be interested in their offerings; (x) measure the performance of Customers’ content, services, and advertising (for instance, what effect certain ads have in comparison to others), or trends and preferences among Consumers (for instance, what types of Consumers generally tend to shop at certain stores); (y) learn how Customers’ apps may perform better; or, (z) generally improve their services.
 
 Factual provides Customers with non-EU standard interest segments based on health- and wellness-related interests or information, to deliver interest-based advertisements and for other purposes; these segments are based on data that is not considered sensitive under the Network Advertising Initiative Code of Conduct. For a complete list of such non-sensitive health segments, please [click here](https://web.archive.org/privacy/health-segments/). From time to time, Factual may assist Customers in creating custom interest segments based on health- and wellness-related interests or information with a local focus, such as selecting specific chain stores or restricting to a particular city.
 
 ## **7\. How long does Factual retain Device Data**
 
-Factual may retain the Device Data: (a) as needed for interest-based advertising, ad delivery, and reporting purposes for up to 24 months after Factual’s last observation of the mobile advertising identifier; and, (b) for other business purposes (including technical developments, legal, accounting, auditing, or bug-detection and prevention) for such period as Factual considers reasonably necessary. 
+Factual may retain the Device Data: (a) as needed for interest-based advertising, ad delivery, and reporting purposes for up to 24 months after Factual’s last observation of the mobile advertising identifier; and, (b) for other business purposes (including technical developments, legal, accounting, auditing, or bug-detection and prevention) for such period as Factual considers reasonably necessary.
 
 Factual may retain Device Data beyond these time periods if required by law.
 
@@ -141,17 +141,19 @@ Other | Factual will disclose Device Data if it believes it will help to protect
 
 #### **a. What are interest-based advertising and cross-device linking?**
 
-Factual is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Code of Conduct as described on the [NAI website](http://www.networkadvertising.org/). Factual also adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles. For a description of the DAA Program, please visit the [DAA website](http://www.aboutads.info/). Factual may use or transfer Device Data that it directly collects or that it receives from Factual’s Customers, who may use Cookies, to enable advertising that is tailored to Consumers’ inferred interests, preferences, and locations. This practice is known as interest-based advertising. 
+Factual is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Code of Conduct as described on the [NAI website](http://www.networkadvertising.org/). Factual also adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles. For a description of the DAA Program, please visit the [DAA website](http://www.aboutads.info/). Factual may use or transfer Device Data that it directly collects (including through Cookies) or that it receives from Factual’s Customers, who may use Cookies, to enable advertising that is tailored to Consumers’ inferred interests, preferences, and locations. This practice is known as interest-based advertising.
 
-To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAI’s opt-out page](http://optout.networkadvertising.org/?c=1) or [DAA’s Consumer Choice Page](http://optout.aboutads.info/?c=2). EEA and Swiss residents, please refer to [www.youronlinechoices.com](http://www.youronlinechoices.com/). 
+To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAI’s opt-out page](http://optout.networkadvertising.org/?c=1) or [DAA’s Consumer Choice Page](http://optout.aboutads.info/?c=2). EEA and Swiss residents, please refer to [www.youronlinechoices.com](http://www.youronlinechoices.com/).
 
 Factual may also receive, use, or transfer Device Data collected from one device on other devices that may be linked to or inferentially associated (e.g., through common IP-address) with the same user of the device where data was collected. This is known as cross-device linking.
 
 #### **b. Opting out of interest-based advertising Services by Factual.**
 
-Factual, and some of Factual’s Customers, provide the ability for Consumers to opt out of the collection and use of mobile app data (such as Device Data) across apps over time on a device for interest-based advertising purposes (including cross-device linking for such purposes), through the DAA’s AppChoices tool. 
+Factual, and some of Factual’s Customers, provide the ability for Consumers to opt out of the collection and use of mobile app data (such as Device Data) across apps over time on a device for interest-based advertising purposes (including cross-device linking for such purposes), through the DAA’s AppChoices tool.
 
-To opt out of Factual’s collection, use, and transfer of Device Data for interest-based advertising purposes, Consumers can download the AppChoices app onto the relevant mobile device and exercise choice through the app. When such choice is exercised on a device, Factual will also stop using and transferring Device Data from that device for interest-based advertising on other linked devices, and will stop using Device Data from other linked devices for interest-based advertising on the device from which choice was exercised. When such choice is exercised on a device, Factual will also stop using and transferring Device Data from that device for interest-based advertising on other linked devices and will stop using Device Data from other linked devices for interest-based advertising on the device from which choice was exercised. AppChoices is available at the links below:
+To opt out of Factual’s collection, use, and transfer of Device Data for interest-based advertising purposes, Consumers can download the AppChoices app onto the relevant mobile device and exercise choice through the app. When such choice is exercised on a device, Factual will also stop using and transferring Device Data from that device for interest-based advertising on other linked devices, and will stop using Device Data from other linked devices for interest-based advertising on the device from which choice was exercised.
+
+AppChoices is available at the links below:
 
 [DAA AppChoices iOS](https://itunes.apple.com/us/app/appchoices/id894822870?mt=8)
 
@@ -159,7 +161,7 @@ To opt out of Factual’s collection, use, and transfer of Device Data for inter
 
 [DAA AppChoices Amazon](http://www.amazon.com/Digital-Advertising-Alliance-AppChoices/dp/B00SVQ4FMO)
 
-Please note that Consumers who use more than one mobile device should renew their opt-out choices on each device. 
+Please note that Consumers who use more than one mobile device should renew their opt-out choices on each device.
 
 Consumers who opt out from use of their Device Data as part of Factual’s Services may continue to receive interest-based advertising from other companies. Additionally, Factual may continue to collect, use, and transfer Device Data for purposes other than interest-based advertising.
 
@@ -181,11 +183,9 @@ Factual collects User information when Users visit our Site(s) or use Factual’
 
 #### **a. Factual’s Site(s).**
 
-Factual may place one or more Cookies on a User’s computer if a User visits our Site. Factual’s Cookies may collect information to facilitate access to our Site and to personalize a User’s online experience. For individuals of the EEA and Switzerland, Factual will ask for the User’s consent before placing any Cookies that are not necessary for the operation of the Site; please see Factual’s[ EEA Cookie Policy](https://factualinc.staging.wpengine.com/privacy/eea-cookies/) for more details. 
+Factual may place one or more Cookies on a User’s computer if a User visits our Site. Factual’s Cookies may collect information to facilitate access to our Site and to personalize a User’s online experience. For individuals of the EEA and Switzerland, Factual will ask for the User’s consent before placing any Cookies that are not necessary for the operation of the Site; please see Factual’s[ EEA Cookie Policy](https://www.factual.com/privacy/eea-cookies/) for more details.
 
-In order to use some features of this Site or to create and use a Factual account (“Factual User Account”), Factual may collect some information from Users. Factual User Accounts provide registered Users with self-service access to some of our Services. 
-
-User information collected from the Site(s) or Factual User Accounts may (but does not necessarily) include the following:
+In order to use some features of this Site or to create and use a Factual account (“Factual User Account”), Factual may collect some information from Users. Factual User Accounts provide registered Users with self-service access to some of our Services. User information collected from the Site(s) or Factual User Accounts may (but does not necessarily) include the following:
 
 **Categories of User Information** | **How User Information is Used**  
 ---|---  
@@ -200,12 +200,11 @@ Billing information* | If a User utilizes our Services via a Factual User Accoun
 Analytics information. | 
 
   * Factual’s server logs also automatically collect User information such as Users’ IP addresses, pages on the Site accessed by Users, browser type and language, and the date and time of visits, which helps Factual track use of the Site and understand trends.
-  * Factual also works with third-party service providers, such as Google Analytics, which collect information about which site the User came from and Users’ use of the Site and our Services. Data collected via Google Analytics may be connected to other data that Factual has about its Users. These third-party service providers may use tools such as Cookies to provide their services. These technologies may be used to assist Factual in offering the Site, such as managing the content on the Site and understanding how Users interact with the Site. To learn more about how Google Analytics collects and processes data and the choices Users may have to control these activities, please visit  
-[ **http://www.google.com/intl/en/policies/privacy/partners**](http://www.google.com/intl/en/policies/privacy/partners). 
+  * Factual also works with third-party service providers, such as Google Analytics, which collect information about which site the User came from and Users’ use of the Site and our Services. Data collected via Google Analytics may be connected to other data that Factual has about its Users. These third-party service providers may use tools such as Cookies to provide their services. These technologies may be used to assist Factual in offering the Site, such as managing the content on the Site and understanding how Users interact with the Site. To learn more about how Google Analytics collects and processes data and the choices Users may have to control these activities, please visit [ **http://www.google.com/intl/en/policies/privacy/partners**](http://www.google.com/intl/en/policies/privacy/partners). 
 
   
   
-*To review or update your contact or billing information maintained by Factual, you can contact us via our [contact form.](https://factualinc.staging.wpengine.com/contactus/)
+  *To review or update your contact or billing information maintained by Factual, you can contact us via our [contact form.](https://www.factual.com/contactus/)
 
 #### **b. Factual’s apps.**
 
@@ -218,15 +217,15 @@ User information collected from Factual’s apps may (but does not necessarily) 
 Contact information* | If a User opts to provides contact information, Factual stores the information to identify the user of the Factual App.  
 Device Information | Device Geolocation Data is used to validate and improve our Services. Other Device Information helps us understand more about which devices Users have and how they use them.  
   
-*To review or update your contact information maintained by Factual, you can contact us via our [contact form](https://factualinc.staging.wpengine.com/contactus/).
+*To review or update your contact information maintained by Factual, you can contact us via our [contact form](https://www.factual.com/contactus/).
 
 ## **11\. How long does Factual retain User information?**
 
 Factual may retain the User information as follows:
 
-Contact and billing information for: (a) non-marketing business relationship management related purposes for up to 18 months after the User’s last contact with us; (b) marketing purposes for as long as the User is opted-in to marketing messages; or, (c) for other business purposes (such as legal, accounting, or auditing) for such period as Factual considers reasonably necessary. 
+Contact and billing information for: (a) non-marketing business relationship management related purposes for up to 18 months after the User’s last contact with us; (b) marketing purposes for as long as the User is opted-in to marketing messages; or, (c) for other business purposes (such as legal, accounting, or auditing) for such period as Factual considers reasonably necessary.
 
-Analytics information: up to 26 months after User’s visit is logged for analytic purposes as described in the section What User information does Factual collect? – Factual’s Site(s) above. 
+Analytics information: up to 26 months after User’s visit is logged for analytic purposes as described in the section What User information does Factual collect? – Factual’s Site(s) above.
 
 After this, Factual will delete the User information. However, Factual may retain User information beyond these time periods if required by law.
 
@@ -252,9 +251,9 @@ Users who have downloaded Factual’s applications, but who no longer wish to pr
 
 Users are not required to provide User information to Factual; however, Users may not be able to use all features available on the Site(s) without providing some User information. For example, in order to create a Factual User Account, we require Users to register.
 
-Analytics information (as described in What User information does Factual collect?) is collected by Cookies. Most web browsers are set up to accept Cookies. Users may be able to set their browsers to warn them before accepting certain Cookies or to refuse certain Cookies. However, if a User disables the use of Cookies, some features of the Site or the Services may be difficult to use or inoperable. Factual works with Google Analytics for analytics information about our Site; to learn more about how Google Analytics collects and processes data and the choices Users may have to control these activities, please visit [ **http://www.google.com/intl/en/policies/privacy/partners**](http://www.google.com/intl/en/policies/privacy/partners).
+Analytics information (as described in What User information does Factual collect?) is collected by Cookies. Most web browsers are set up to accept Cookies. Users may be able to set their browsers to warn them before accepting certain Cookies or to refuse certain Cookies. However, these browser settings will not affect non-cookie technologies if a User disables the use of Cookies, some features of the Site or the Services may be difficult to use or inoperable. Factual works with Google Analytics for analytics information about our Site; to learn more about how Google Analytics collects and processes data and the choices Users may have to control these activities, please visit [ **http://www.google.com/intl/en/policies/privacy/partners**](http://www.google.com/intl/en/policies/privacy/partners).
 
-For individuals of the EEA and Switzerland, please see Factual’s [EEA Cookie Policy](https://factualinc.staging.wpengine.com/privacy/eea-cookies/) for more information on Cookies.
+For individuals of the EEA and Switzerland, please see Factual’s [EEA Cookie Policy](https://www.factual.com/privacy/eea-cookies/) for more information on Cookies.
 
 #### **c. Opting out of interest-based advertising by third parties on the Site.**
 
@@ -266,7 +265,7 @@ Factual uses reasonable physical, managerial, and technical safeguards to preser
 
 ## **15\. Children’s privacy.**
 
-Factual does not knowingly collect personal information from children under 13 years old or from websites or online services directed to children under 13 years old. Users should not create Factual accounts unless they are legally old enough to form a binding contract and in any case are 13 years of age or older. In the unlikely event that you are the parent or legal guardian of a child under 13 who has registered with the Site or Services, please [contact Factual](https://factualinc.staging.wpengine.com/contactus/) to have your child’s personal information deleted.
+Factual does not knowingly collect personal information from children under 13 years old or from websites or online services directed to children under 13 years old. Users should not create Factual accounts unless they are legally old enough to form a binding contract and in any case are 13 years of age or older. In the unlikely event that you are the parent or legal guardian of a child under 13 who has registered with the Site or Services, please [contact Factual](https://www.factual.com/contactus/) to have your child’s personal information deleted.
 
 ## **16\. International visitors.**
 
@@ -276,25 +275,23 @@ By providing and/or using any data on the Site or through Factual’s Services, 
 
 If you are an international User from the European Economic Area (“EEA”) or Switzerland, please read the remainder of this section on International visitors for more information. Please note that Factual has elected to pause its Audience business in EU until further notice; therefore, Factual will not knowingly receive or collect personal data of Consumers who are residents of the EEA and Switzerland. However, if you a resident of the EEA or Switzerland and visit our Site(s) as a User, your information may be collected and processed as described in sections 10-12 (What User information does Factual collect?, How long does Factual retain User information?, Does Factual share User information?) and this section on International visitors.
 
-#### **a. E.U.-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.**
+#### **a. Privacy Shield.**
 
-Factual complies with the E.U.-U.S. and Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from EEA member countries and Switzerland. Factual has certified that it adheres to the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement and Liability. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+Factual complies with the E.U.-U.S. and Swiss-U.S. Privacy Shield frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from EEA member countries, the United Kingdom, and Switzerland. Factual has certified that it adheres to the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement and Liability. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
-If you are a resident of the EEA or Switzerland, you have the right to access the personal data that Factual maintains about you, and you may be able to correct or amend that information if it is inaccurate or has been processed in violation of the Privacy Shield Principles, to the extent allowed by law. To exercise this right, please contact us at the email or address provided at Factual contact information. For information on opting out of interest-based advertising enabled by Factual, please see How can Users opt out?.
+If you are a resident of the EEA, the United Kingdom, or Switzerland, you have the right to access the personal data that Factual maintains about you, and you may be able to correct or amend that information if it is inaccurate or has been processed in violation of the Privacy Shield Principles, to the extent allowed by law. To exercise this right, please contact us at the email or address provided at Factual contact information. For information on opting out of interest-based advertising enabled by Factual, please see How can Users opt out?.
 
-Factual is accountable for information that it receives under the Privacy Shield and subsequently transfers to a third party. In particular, Factual is responsible under the Privacy Shield Principles if third-party controllers to whom it transfers information or third-party processors it engages to process this information on its behalf do so in a manner inconsistent with the Principles.
+Factual is accountable for information that it receives under the Privacy Shield and subsequently transfers to a third party. In particular, Factual is responsible under the Privacy Shield Principles if third-party controllers to whom it transfers information or third-party processors it engages to process this information on its behalf do so in a manner inconsistent with the Principles. Factual commits to resolve complaints about our collection or use of your personal data. Residents of the EEA, the United Kingdom, or Switzerland with inquiries or complaints regarding this Privacy Policy should first contact Factual at the email or address provided at Factual contact information.
 
-Factual commits to resolve complaints about our collection or use of your personal data. Residents of the EEA or Switzerland with inquiries or complaints regarding this Privacy Policy should first contact Factual at the email or address provided at Factual contact information.
+Factual has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to JAMS. If you do not receive timely acknowledgment from Factual of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information and to file a complaint. A binding arbitration option may also be made available to you in order to address complaints not resolved by any other means.
 
-Factual has further committed to refer unresolved privacy complaints under the E.U.-U.S. Privacy Shield Principles or the Swiss-U.S. Privacy Shield Principles to JAMS. If you do not receive timely acknowledgment from Factual of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information and to file a complaint. A binding arbitration option may also be made available to you in order to address complaints not resolved by any other means.
-
-Factual is subject to the investigatory and enforcement powers of the United States Federal Trade Commission,
+Factual is subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
 
 #### **b. What is the legal basis on which Factual relies to process User information?**
 
 On most occasions, Factual may process User information with the individual’s consent (e.g., when a User agrees that Factual may place Cookies or process information that the User submits on our Site(s) for specified purposes).
 
-On other occasions, Factual may process User information when Factual needs to do this to fulfil a contract (for example, for billing purposes) or where Factual is required to do this by law.
+On other occasions, Factual may process User information when Factual needs to do this to fulfill a contract (for example, for billing purposes) or where Factual is required to do this by law.
 
 If necessary, Factual may also process a User’s information when it is in Factual’s legitimate interests to do this and when these interests are not overridden by the individual’s data protection rights.
 
@@ -306,7 +303,7 @@ If you have any questions or comments please contact Factual at the contact deta
 
 #### **d. Cookies.**
 
-For individuals of the EEA and Switzerland, please see Factual’s[ EEA Cookie Policy](https://factualinc.staging.wpengine.com/privacy/eea-cookies/).
+For individuals of the EEA and Switzerland, please see Factual’s[ EEA Cookie Policy](https://www.factual.com/privacy/eea-cookies/).
 
 #### **e. Your rights.**
 
@@ -328,19 +325,20 @@ Factual’s Site may include social media features, which may be hosted either b
 
 Please contact Factual, Inc. with any questions or comments about this Privacy Policy or the company’s practices at:
 
-**Email:[Privacy AT factual.com](mailto:privacy@factual.com).  
-**  
+**Email:[privacy@factual.com](mailto:privacy@factual.com). **
+
 **Address: Factual Inc., P.O. Box 49348, Los Angeles, CA 90049, USA**
+
+Factual has appointed a Data Protection Officer. Please contact our DPO with any questions or comments about this Privacy Policy or the company’s practices at:
+
+**Email:[dpo@factual.com](mailto:dpo@factual.com).**
 
 ## **Summary of Recent Updates**
 
-_This summary is provided for convenience purposes and is not intended to be a substitute for reading the updated Privacy Policy.  
-Recent updates to this Privacy Policy include:_
+__This summary is provided for convenience purposes and is not intended to be a substitute for reading the updated Privacy Policy. Recent updates to this Privacy Policy include:__
 
- _
+  * Inclusion of pixels as a non-cookie technology Factual is utilizing,
+  * Inclusion of the United Kingdom in the Privacy Shield section per Department of Commerce guidance on the UK’s anticipated exit from the European Union,
+  * Inclusion of contact information for Factual’s Data Protection Officer.
 
-  * More information about cross-device linking and opt-outs from such linking;
-  * Increased clarity on Device Data retention periods for interest-based advertising purposes;
-  * Additional details about how Factual works with its Partners and Customers.
 
-_
