@@ -1,66 +1,70 @@
-> *The following text is extracted and transformed from the adsmarket.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005644id_/http%3A//www.matomymarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsmarket.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223545id_/https%3A//adsmarket.com/cc/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MatomyMarket
+# Privacy Policy - ADSMARKET.COM
 
-Matomy Market (the  **“Company”**  or  **“We”** ) is committed to protect the privacy of users who access its Website (the “Site”). This Privacy Policy Statement (the  **“Privacy Policy”** ) explains the types of information We gather and what We do with it. By using the Site, you agree to the terms and policies described in this Privacy Policy.
+## Privacy Policy
 
-**1\. Collecting Personally Identifiable Information**  
-**“Personally Identifiable Information”**  means any information obtained through your use of the Site which might reasonably be used to specifically identify you and may include, among other, your name, title, company, address, email. To the extent Personally Identifiable Information has been collected from you, you acknowledge such collection is done on a voluntary basis to enable the Company to provide you efficient access to features, functions, promotions, products and services.  You expressly agree that We may send you or continue sending you promotional offers, updates, and other marketing materials. We will only send you materials using the e-mail address and text number you provided us. You may withdraw your consent at anytime by contacting us using the contact form on the contact page or by visiting the ‘My Account’ section of your account.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Contact Us](https://web.archive.org/cc/contact/).
 
-In addition, We collect information from you for the purpose of opening an account, billing payment and payment instruments from you for products and services you order or purchase from the Company.
+At https://adsmarket.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by https://adsmarket.com and how we use it. 
 
-**2\. Non-Personal Information**  
-We automatically collect non-personal information such as IP addresses during your access and use of the Site to help diagnose problems with our server, and to identify ways of making our Site better. This information is not linked to anything personal.
+### Log Files
 
-**3\. Use of Digital Identifiers**  
-A digital identifier is information that a Site puts on your hard disk so that it can remember something about you at a later time (More technically, it is information for future use that is stored by the server on the client side of a client/server communication, such as “cookies”.) We automatically use ‘digital identifiers’ for tracking transactions, identification, security and the user characteristics as set forth herein. No Personally Identifiable Information is collected by use of digital identifier and We use the information collected through such digital identifier to analyze trends, administer the Site, track movements on the Site and gather aggregate demographic information about visitors so we can continually improve the Site.
+Like many other Web sites, https://adsmarket.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-If you do not wish to accept that your computer receives and stores cookies or similar digital identifiers (collectively “Cookies”), you may chose to not receive or block Cookies by adjusting your browser settings. However, note that you will lose some features and functionality if you choose to disable Cookies as certain features and functionality made available through the site may only be used fully if your browser allows Cookies.
+### Cookies and Web Beacons
 
-For more information about setting selected leading browsers to disable Cookies please visit the following link: <http://www.aboutcookies.org/>
+https://adsmarket.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
 
-Please follow [this link](http://docs.matomy.com/1/Matomy-Market-Cookie-Usage.pdf "Matomy Market Cookie Usage ") to learn about how Matomy Market uses cookies.
+### DoubleClick DART Cookie
 
-**4\. Security**  
-We employ industry standard security measures to ensure the security of all data. Any data that is stored on our servers is treated as proprietary and confidential and is not available to the public. We maintain an internal security policy with respect to the confidentiality of your data, allowing access only to those employees or third parties who have a need to know such information.
+-> Google, as a third party vendor, uses cookies to serve ads on https://adsmarket.com.
 
-While Company has taken measures to protect your information, please know that (i) no computer system is immune from intrusion; and (ii) information transmitted to the Site may need to pass through many systems in order to process such information. Therefore, We cannot guarantee the absolute security or confidentiality of information transmitted to the Site and you hereby acknowledge and assume the risks relating to any such communication.
+-> Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to https://adsmarket.com and other sites on the Internet.
 
-**5\. Information Sharing**  
-We may use the collected Personally Identifiable Information and non-personal information for any legally permissible purpose in our sole discretion, including but not limited to those detailed below:
+-> Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](https://policies.google.com/technologies/ads)
 
-    * We may share information We collect with affiliated companies, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. This Privacy Policy does not apply to affiliated companies and their collection, use and sharing of information.
+### Our Advertising Partners
 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ...
 
-    * We may share your information with various third party vendors that are not part of the Company.
-
-
-    * When you participate in an in our Programs, we will transfer the information you submitted on the form to the applicable advertisers with whom we cooperate.
-
-
-    * We may use third party ad networks or ad serving companies to serve advertisements on our websites. We pass information about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you.
-
-
-    * We may use third party service providers to enhance our database with additional elements of our services.
+  * Google
+  * Other
 
 
 
-**6\. Third Party Links**  
-The Site may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site.
+While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: [Privacy Policies](http://www.privacypolicyonline.com/privacy-policies/).
 
-**7\. Permitted Disclosures**  
-Other than as described in this Privacy Policy or as otherwise specifically communicated to you by Company, Company does not provide information supplied by users to any third parties, except where law, court order, or governmental authority requires or based upon the good faith belief that disclosure is necessary including, without limitation, to protect the rights of Company when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or causing harm to third parties.
+You may consult this listing to find the privacy policy for each of the advertising partners of https://adsmarket.com.
 
-**8\. Revision**  
-Company may alter, update or otherwise change this Privacy Policy at any time to reflect material changes in the way Company uses your information. Any such changes will be posted on this page. You should periodically check this Privacy Policy to review the current terms and guidelines applicable to your use. Your continued use of the Site following the posting of such changes will indicate your full acceptance of those changes.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on https://adsmarket.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-**9\. Updating Your Personal Information**  
-At any time, you can access and correct your personal information and privacy preferences on “my account” in your dash board in the Company’s system or by sending an e-mail to[advertiserservices@matomymarket.com](mailto:advertiserservices@matomymarket.com) or [publisherservices@matomymarket.com.](mailto:publisherservices@matomymarket.com)  
-To the extent permissible under the applicable law, you hereby acknowledge and consent to the Company occasionally sending you various e-mail messages and updates. If you would prefer not to receive such messages you may opt out by following the instructions within the e-mail message or by contacting us.
+https://adsmarket.com has no access to or control over these cookies that are used by third-party advertisers.
 
-Notwithstanding the foregoing, you acknowledge that for as a long as you a party to any Performance Base Program of the Company (the “Program”) you will continue to receive by email certain automatic reports from the Company’s system relating to each applicable Program. Such reports shall be governed by the applicable Matomy Market Publisher Service Agreement to which you are a party and shall not be deemed as email messages and updates as detailed above.
+### Third Party Privacy Policies
 
-**10\. Contact Us**  
-If you have questions about this Privacy Policy, please send an e-mail to[info@matomymarket.com.](mailto:info@matomymarket.com) If you believe that we have not complied with this Privacy Policy with respect to your personal information or you have other related inquiries or concerns, you may write to Company at the following address:
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. https://adsmarket.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policies/).
 
-YOU ACKNOWLEDGE AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE GENERAL TERMS AND CONDITIONS BETWEEN YOU AND THE COMPANY AND THIS SITE (INCLUDING LIMITATIONS ON DAMAGES).
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies/)
+
+### Children's Information
+
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.
+
+https://adsmarket.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that https://adsmarket.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+### Online Privacy Policy Only
+
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.
+
+This policy does not apply to any information collected offline or via channels other than this website.
+
+### Consent
+
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+### Update
+
+This Privacy Policy was last updated on: Thursday, November 1st, 2018.
+
+Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
