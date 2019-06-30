@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radware.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224022126id_/https%3A//www.radware.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radware.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630161507id_/https%3A//www.radware.com/privacypolicy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -40,8 +40,8 @@ Radware supports your "Right to be forgotten". You may request to remove your Pe
 
 **COPYRIGHT © 2018, Radware Ltd. All Rights Reserved.**
 
-#### Contact Radware
+#### Contact Radware Sales
 
-Contact Radware’s specialists to understand which products you need and the advantages they offer.
+Assess your needs and understand which products are best
 
-Phone
+[Contact Us Now](https://web.archive.org/contactus/?utm_source=getstartedpage&utm_campaign=getstarted&utm_content=contactus)
