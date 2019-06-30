@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aohostels.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927064532id_/https%3A//www.aohostels.com/en/website-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aohostels.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630182931id_/https%3A//www.aohostels.com/en/website-privacy-statement/%23cookiestorage) for the most accurate reproduction.*
 
 # a&o: Data protection
 
@@ -153,6 +153,7 @@ We, in particular, make use of the following services:
 
   * **Google Analytics** of Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”) to analyze and improve our website based on your user behavior. However, your IP address is shortened before the usage statistics are evaluated so that no conclusions can be made about your identity. For this purpose, Google Analytics has been enhanced on our website with the code “anonymizeIP” to secure the anonymous collection of IP addresses. You can prevent Google from processing these data by installing a [browser add-on](https://tools.google.com/dlpage/gaoptout?hl=de) provided by Google. As an alternative to a browser add-on or if you access our website from a mobile device, please use this opt-out link. You will find further information on data processing through this service in the [Privacy Policy](https://support.google.com/analytics/answer/6004245?hl=de) of Google Analytics.
   * **Pingdom** of Solarwinds Inc., 7171 Southwest Parkway, Bldg 400, Austin, Texas 78735. You can prevent data processing by pressing the following button: OPT-OUT. Further information on data processing through this service can be found in the [Privacy Policy](https://www.solarwinds.com/legal/privacy) of Solarwinds.
+  * For a user-centred design and optimization of our web content, our website uses the software **“Iridion Optimization Suite” provided by Web Arts AG based in Bad Homburg, Germany.** This software is used to carry out statistical analyses of user behaviour, based on which the content and presentation of the website is modified. By using this website, you consent to the processing of data collected about you in the manner and for the purpose set out above. You can object to the collection and storage of your data at any time with future effect by clicking the opt-out link <https://www.aohostels.com/de/?iridion=notrack>. The opt-out is stored in your current browser in the form of a cookie. If you delete the cookie or change browser or device, the opt-out link must be reactivated.
 
 
 
@@ -233,7 +234,15 @@ The data collected by us will only be passed on if:
 
 Part of the data processing can be carried out by our service providers. In addition to the service providers mentioned in this privacy policy, these may include data centers that store our website and our databases, IT service providers that maintain our systems as well as consulting firms. If we pass on data to our service providers, they may use the data exclusively for the fulfillment of their tasks. The service providers have been carefully selected and commissioned by us. The providers are contractually bound by our instructions, they have appropriate technical and organizational measures in effect in order to protect the rights of the persons concerned and are regularly monitored by us. We also pass on the booking data collected to the local a&o HOTEL and HOSTEL operating companies (depending on where you book). A complete list of the operating companies can be found in our general terms and conditions. In addition, the data may be passed on in connection with official inquires, court orders and legal proceedings if they are necessary for legal prosecution or enforcement.
 
-**7\. Storage duration**
+**7\. Urban Airship**
+
+In order to send you push notifications on your device or browser (see above), we use the technology offered by Urban Airship Inc, 1417 NW Everett St, Suite 300, Portland OR 97209, USA. Further details can be found in Urban Airship’s privacy policy at <http://urbanairship.com/legal/privacy-policy>. You can object to the use of Urban Airship by adjusting the notification settings for the app on your device or browser.
+
+**8\. Data processing by app stores**
+
+Before you can install our a&o app, you may need to conclude a user agreement with an app store operator (e.g. Google, Apple) to be able to access their portal (e.g. Google Play, App Store). The app store operator is the data controller which collects and processes data related to the use of the app store, including your user name, email address, and individual device identification number. We are not a party to the user agreement with the app store operator and have no influence on their data processing. To this extent, the privacy policy of the respective app store operator applies. 
+
+**9\. Storage duration**
 
 Principally, we only store personal information for as long as it is necessary to fulfill the contractual or statutory obligations for which we have collected the data. Thereafter, we immediately delete the information, unless we need the data for purposes of proof for civil law claims or due to statutory retention obligations.
 
@@ -241,7 +250,7 @@ For evidence purposes, we must keep contractual data for another three years sta
 
 Even after this period, we still need to store some of your data for accounting purposes. We are required to do so by legal requirements on documentation that may arise from the German Commercial Code, the Fiscal Code, the Banking Act, the Money Laundering Act and the Securities Trading Act. The time periods specified there for retention of documents are two to ten years.
 
-**8\. Your rights**
+**10\. Your rights**
 
 You have the right to request information about the processing of your personal data by us at any time. We will explain the data processing and provide you with an overview of the data stored about you as part of the provision of information.
 
@@ -255,7 +264,7 @@ To exercise your rights as described here, you can contact us at any time using 
 
 In addition, you have the right to object to data processing based on Art. 6 para. 1 lit. e or f of the GDPR. Finally, you have the right to file a complaint with the data protection authority responsible for our supervision. You may exercise this right before a supervisory authority in the member state in which you are staying, working or in the place of the alleged violation. In Berlin, the responsible supervisory authority is: Berliner Beauftragte für Datenschutz und Informationsfreiheit, Friedrichstr. 219, 10969 Berlin (Berlin Data Protection and Freedom of Information Commissioner).
 
-**9\. Right of revocation and objection**
+**11\. Right of revocation and objection**
 
 **In accordance with Article 7 para. 2 of the GDPR, you have the right to revoke a consent once given to us at any time. As a result, we will not continue to process data based on this consent in the future. The revocation of consent does not affect the legality of the processing carried out on the basis of the consent prior to the revocation.**
 
@@ -263,12 +272,12 @@ In addition, you have the right to object to data processing based on Art. 6 par
 
 **If you would like to exercise your right of revocation or objection, it is sufficient to send us an informal message using the aforementioned contact details.**
 
-**10\. Data security**
+**12\. Data security**
 
 We maintain updated technical measures to guarantee data security and, in particular, to protect your personal data from dangers during data transfers as well as from the acquisition of data by third parties. These measures are adjusted and updated to the newest technological standards for each of them. In order to secure the personal information you provide via our website, we use Transport Layer Security (TLS), which encrypts the information you enter.
 
-**11\. Changes to the privacy policy**
+**13\. Changes to the privacy policy**
 
 From time to time, we may update this privacy policy, for example, when we make changes to our website or if the legal or regulatory requirements change.
 
-Version: 1.0 / Updated: May 2018
+Version: 1.1 / Updated: February 2019
