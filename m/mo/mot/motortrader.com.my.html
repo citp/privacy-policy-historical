@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the motortrader.com.my privacy policy that was archived on 2018-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228155719id_/http%3A//www.motortrader.com.my/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motortrader.com.my privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630175649id_/http%3A//www.motortrader.com.my/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js boxed-layout" lang=""><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,7 +12,7 @@
 <link rel="stylesheet" type="text/css" href="http://www.motortrader.com.my/assets/protoslider/protoSlider.css">
 <link rel="stylesheet" type="text/css" href="http://www.motortrader.com.my/assets/typeahead/typeahead.css">
 <link rel="stylesheet" type="text/css" href="http://www.motortrader.com.my/css/main.css">
-<link rel="stylesheet" type="text/css" href="http://www.motortrader.com.my/css/style.css?20180208a">
+<link rel="stylesheet" type="text/css" href="http://www.motortrader.com.my/css/style.css?20190627">
 <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.motortrader.com.my/assets/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://www.motortrader.com.my/assets/tether.min.js"></script>
@@ -38,6 +38,7 @@
 	var DEFINE_AJAX_REMOVE_BOOKMARK_URL = "http://www.motortrader.com.my/bookmark/removebookmark";
 	var DEFINE_AJAX_REPORT_ADVERT_URL = "http://www.motortrader.com.my/ajax/reportadv";
 	var DEFINE_AJAX_REMOVE_ADVERT_URL = "http://www.motortrader.com.my/ajax/removeadv";
+	var DEFINE_CALCULATIOR_CALCULATE_ADVERT_URL = "http://www.motortrader.com.my/calculator/calculate";
 </script> <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -103,9 +104,11 @@ Bookmarks </span>
 </button>
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
 <ul class="navbar-nav mr-auto">
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle dropbtn" href="javascript:void(0)" id="navbarDropdownBuyLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Buy</a>
-<div class="dropdown-menu multi-column columns-3" aria-labelledby="navbarDropdownBuyLink">
+<li class="nav-item dropdown" id="buy-dropdown">
+<a class="nav-link dropbtn" href="javascript:void(0)" id="navbarDropdownBuyLink">
+Buy <i id="icon-change" class="fas fa-plus" aria-hidden="true"></i>
+</a>
+<div class="dropdown-menu multi-column columns-3" id="navbarDropdownBuyMenu" aria-labelledby="navbarDropdownBuyLink">
 <div class="arrow-up-buy hidden-md-down"></div>
 <div class="row">
 <div class="col-md-4 left">
@@ -128,47 +131,38 @@ Bookmarks </span>
 </div>
 </div>
 </li>
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdownPromotionLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sell</a>
-<div class="dropdown-menu multi-column columns-2" aria-labelledby="navbarDropdownPromotionLink">
+<li class="nav-item dropdown" id="sell-dropdown">
+<a class="nav-link" href="javascript:void(0)" id="navbarDropdownSellLink">
+Sell <i id="icon-change" class="fas fa-plus" aria-hidden="true"></i>
+</a>
+<div class="dropdown-menu multi-column columns-2" id="navbarDropdownSellMenu" aria-labelledby="navbarDropdownSellLink">
 <div class="arrow-up-product hidden-md-down"></div>
 <a class="dropdown-item navbar-adv-tradein" href="http://www.motortrader.com.my/login">Advertise</a>
 <a class="dropdown-item navbar-adv-tradein" href="http://www.motortrader.com.my/tradein/index">Trade-In</a>
 </div>
 </li>
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdownPromotionLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
-<div class="dropdown-menu multi-column columns-2" aria-labelledby="navbarDropdownPromotionLink">
+<li class="nav-item dropdown" id="products-dropdown">
+<a class="nav-link" href="javascript:void(0)" id="navbarDropdownPromotionLink">
+Products <i id="icon-change" class="fas fa-plus" aria-hidden="true"></i>
+</a>
+<div class="dropdown-menu multi-column columns-2" id="navbarDropdownPromotionMenu" aria-labelledby="navbarDropdownPromotionLink">
 <div class="arrow-up-product hidden-md-down"></div>
 <a class="dropdown-header">Products</a>
 <a class="dropdown-item" href="http://www.motortrader.com.my/warranty/index">Motor Trader Warranty</a>
 </div>
 </li>
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle dropbtn" href="javascript:void(0)" id="navbarDropdownNewsLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">News &amp; Tips</a>
-<div class="dropdown-menu multi-column columns-news" aria-labelledby="navbarDropdownNewsLink">
+<li class="nav-item dropdown" id="nsats-dropdown">
+<a class="nav-link dropbtn" href="javascript:void(0)" id="navbarDropdownNewsLink">
+Carlife News <i id="icon-change" class="fas fa-plus" aria-hidden="true"></i>
+</a>
+<div class="dropdown-menu multi-column columns-news" id="navbarDropdownNewsMenu" aria-labelledby="navbarDropdownNewsLink">
 <div class="arrow-up-news hidden-md-down"></div>
-<div class="row">
-<div class="col-md-6 news-left">
-<a class="dropdown-header" href="https://www.motortrader.com.my/news/">All News</a>
-<a class="dropdown-item" href="https://www.motortrader.com.my/news/category/newcars/">New Cars</a>
-<a class="dropdown-item" href="https://www.motortrader.com.my/news/category/test-drive/">Test Drive</a>
-<a class="dropdown-item" href="https://www.motortrader.com.my/news/category/local-news/">Local News</a>
-<a class="dropdown-item" href="https://www.motortrader.com.my/news/category/product-news">Products News</a>
-<a class="dropdown-item" href="https://www.motortrader.com.my/news/category/bikes/">Bikes</a>
+<a class="dropdown-item" href="http://carlife.my/category/car-life/">Car Life</a>
+<a class="dropdown-item" href="http://carlife.my/category/latest-news/">Latest News</a>
+<a class="dropdown-item" href="http://carlife.my/category/behind-the-wheel/">Behind The Wheel</a>
+<a class="dropdown-item" href="http://carlife.my/category/market-report/">Market Report</a>
+<a class="dropdown-item" href="http://carlife.my/category/car-education/">Educartion</a>
 </div>
-<div class="col-md-6">
-<br class="hidden-md-down">
-<a class="dropdown-header">Tips</a>
-<a class="dropdown-item" href="http://www.motortrader.com.my/loan/index.html">Loans</a>
-<a class="dropdown-item" href="http://www.motortrader.com.my/insurance/index.html">Insurance</a>
-<a class="dropdown-item" href="https://www.motortrader.com.my/news/category/how-to-guides/">Car Guide</a>
-</div>
-</div>
-</div>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="http://www.motortrader.com.my/jobs" id="navbarDropdownNewsLink">Jobs</a>
 </li>
 </ul>
 </div>
@@ -177,7 +171,7 @@ Bookmarks </span>
 </header>
 <div id="sub-header">
 <div class="container">
- <div id="page-breadcrumb" class="hidden-sm-down">
+<div id="page-breadcrumb" class="hidden-sm-down">
 <a href="http://www.motortrader.com.my">Home</a>
 &gt; <a href="javascript:void(0)">Privacy</a>
 </div>
@@ -236,6 +230,203 @@ jQuery(document).ready(function() {
 			// alert("it's checked"); 
 		}
 	});
+	
+	jQuery('#navbarDropdownBuyLink').click(function() {
+		if (!jQuery('#navbarDropdownBuyLink').hasClass("red-color-word")) {
+			jQuery('#buy-dropdown').addClass("show");
+			jQuery('#navbarDropdownBuyLink').addClass("red-color-word");
+			jQuery( "#navbarDropdownBuyLink" ).html('Buy <i id="icon-change" class="fas fa-minus" aria-hidden="true">');
+		} else {
+			jQuery('#buy-dropdown').removeClass("show");
+			jQuery( "#navbarDropdownBuyLink" ).css('color', '#000');
+			jQuery('#navbarDropdownBuyLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownBuyLink" ).html('Buy <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+		}
+			jQuery('#sell-dropdown').removeClass("show");
+			jQuery('#products-dropdown').removeClass("show");
+			jQuery('#nsats-dropdown').removeClass("show");
+			
+			jQuery( "#navbarDropdownSellLink" ).css('color', '#000');
+			jQuery('#navbarDropdownSellLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownSellLink" ).html('Sell <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+			
+			jQuery( "#navbarDropdownPromotionLink" ).css('color', '#000');
+			jQuery('#navbarDropdownPromotionLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownPromotionLink" ).html('Products <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+			
+			jQuery( "#navbarDropdownNewsLink" ).css('color', '#000');
+			jQuery('#navbarDropdownNewsLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownNewsLink" ).html('Carlife News <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+	});
+	
+	jQuery('#navbarDropdownSellLink').click(function() {
+		if (!jQuery('#sell-dropdown').hasClass("show")) {
+			jQuery('#sell-dropdown').addClass("show");
+			jQuery('#navbarDropdownSellLink').addClass("red-color-word");
+			jQuery( "#navbarDropdownSellLink" ).html('Sell <i id="icon-change" class="fas fa-minus" aria-hidden="true">');
+		} else {
+			jQuery('#sell-dropdown').removeClass("show");
+			jQuery( "#navbarDropdownSellLink" ).css('color', '#000');
+			jQuery('#navbarDropdownSellLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownSellLink" ).html('Sell <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+		}
+			jQuery('#buy-dropdown').removeClass("show");
+			jQuery('#products-dropdown').removeClass("show");
+			jQuery('#nsats-dropdown').removeClass("show");
+			
+			jQuery( "#navbarDropdownBuyLink" ).css('color', '#000');
+			jQuery('#navbarDropdownBuyLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownBuyLink" ).html('Buy <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+			
+			jQuery( "#navbarDropdownPromotionLink" ).css('color', '#000');
+			jQuery('#navbarDropdownPromotionLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownPromotionLink" ).html('Products <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+			
+			jQuery( "#navbarDropdownNewsLink" ).css('color', '#000');
+			jQuery('#navbarDropdownNewsLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownNewsLink" ).html('Carlife News <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+	});
+	
+	jQuery('#navbarDropdownPromotionLink').click(function() {
+		if (!jQuery('#products-dropdown').hasClass("show")) {
+			jQuery('#products-dropdown').addClass("show");
+			jQuery('#navbarDropdownPromotionLink').addClass("red-color-word");
+			jQuery( "#navbarDropdownPromotionLink" ).html('Products <i id="icon-change" class="fas fa-minus" aria-hidden="true">');
+		} else {
+			jQuery('#products-dropdown').removeClass("show");
+			jQuery( "#navbarDropdownPromotionLink" ).css('color', '#000');
+			jQuery('#navbarDropdownPromotionLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownPromotionLink" ).html('Products <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+		}
+			jQuery('#sell-dropdown').removeClass("show");
+			jQuery('#buy-dropdown').removeClass("show");
+			jQuery('#nsats-dropdown').removeClass("show");
+			
+			jQuery( "#navbarDropdownSellLink" ).css('color', '#000');
+			jQuery('#navbarDropdownSellLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownSellLink" ).html('Sell <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+			
+			jQuery( "#navbarDropdownBuyLink" ).css('color', '#000');
+			jQuery('#navbarDropdownBuyLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownBuyLink" ).html('Buy <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+			
+			jQuery( "#navbarDropdownNewsLink" ).css('color', '#000');
+			jQuery('#navbarDropdownNewsLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownNewsLink" ).html('Carlife News <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+	});
+	
+	jQuery('#navbarDropdownNewsLink').click(function() {
+		if (!jQuery('#nsats-dropdown').hasClass("show")) {
+			jQuery('#nsats-dropdown').addClass("show");
+			jQuery('#navbarDropdownNewsLink').addClass("red-color-word");
+			jQuery( "#navbarDropdownNewsLink" ).html('Carlife News <i id="icon-change" class="fas fa-minus" aria-hidden="true">');
+		} else {
+			jQuery('#nsats-dropdown').removeClass("show");
+			jQuery( "#navbarDropdownNewsLink" ).css('color', '#000');
+			jQuery('#navbarDropdownNewsLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownNewsLink" ).html('Carlife News <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+		}
+			jQuery('#sell-dropdown').removeClass("show");
+			jQuery('#products-dropdown').removeClass("show");
+			jQuery('#buy-dropdown').removeClass("show");
+			
+			jQuery( "#navbarDropdownSellLink" ).css('color', '#000');
+			jQuery('#navbarDropdownSellLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownSellLink" ).html('Sell <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+			
+			jQuery( "#navbarDropdownPromotionLink" ).css('color', '#000');
+			jQuery('#navbarDropdownPromotionLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownPromotionLink" ).html('Products <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+			
+			jQuery( "#navbarDropdownBuyLink" ).css('color', '#000');
+			jQuery('#navbarDropdownBuyLink').removeClass("red-color-word");
+			jQuery( "#navbarDropdownBuyLink" ).html('Buy <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+	});
+	
+	jQuery("#navbarDropdownBuyLink").mouseover(function(){	
+		jQuery('#navbarDropdownBuyLink').css('color', 'red');
+		jQuery( "#navbarDropdownBuyLink" ).html('Buy <i id="icon-change" class="fas fa-minus" aria-hidden="true">');
+	});
+	jQuery("#navbarDropdownBuyLink").mouseout(function(){
+		if (!jQuery('#navbarDropdownBuyLink').hasClass("red-color-word")) {
+			jQuery('#navbarDropdownBuyLink').css('color', '#000');
+			jQuery( "#navbarDropdownBuyLink" ).html('Buy <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+		}
+	});
+	jQuery("#navbarDropdownBuyMenu").mouseover(function(){	
+		jQuery('#navbarDropdownBuyLink').css('color', 'red');
+		jQuery( "#navbarDropdownBuyLink" ).html('Buy <i id="icon-change" class="fas fa-minus" aria-hidden="true">');
+	});
+	jQuery("#navbarDropdownBuyMenu").mouseout(function(){
+		if (!jQuery('#navbarDropdownBuyLink').hasClass("red-color-word")) {
+			jQuery('#navbarDropdownBuyLink').css('color', '#000');
+			jQuery( "#navbarDropdownBuyLink" ).html('Buy <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+		}
+	});
+	
+	jQuery("#navbarDropdownSellLink").mouseover(function(){	
+		jQuery('#navbarDropdownSellLink').css('color', 'red');
+		jQuery( "#navbarDropdownSellLink" ).html('Sell <i id="icon-change" class="fas fa-minus" aria-hidden="true">');
+	});
+	jQuery("#navbarDropdownSellLink").mouseout(function(){
+		if (!jQuery('#navbarDropdownSellLink').hasClass("red-color-word")) {
+			jQuery('#navbarDropdownSellLink').css('color', '#000');
+			jQuery( "#navbarDropdownSellLink" ).html('Sell <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+		}
+	});
+	jQuery("#navbarDropdownSellMenu").mouseover(function(){	
+		jQuery('#navbarDropdownSellLink').css('color', 'red');
+		jQuery( "#navbarDropdownSellLink" ).html('Sell <i id="icon-change" class="fas fa-minus" aria-hidden="true">');
+	});
+	jQuery("#navbarDropdownSellMenu").mouseout(function(){
+		if (!jQuery('#navbarDropdownSellLink').hasClass("red-color-word")) {
+			jQuery('#navbarDropdownSellLink').css('color', '#000');
+			jQuery( "#navbarDropdownSellLink" ).html('Sell <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+		}
+	});
+	
+	jQuery("#navbarDropdownPromotionLink").mouseover(function(){	
+		jQuery('#navbarDropdownPromotionLink').css('color', 'red');
+		jQuery( "#navbarDropdownPromotionLink" ).html('Products <i id="icon-change" class="fas fa-minus" aria-hidden="true">');
+	});
+	jQuery("#navbarDropdownPromotionLink").mouseout(function(){
+		if (!jQuery('#navbarDropdownPromotionLink').hasClass("red-color-word")) {
+			jQuery('#navbarDropdownPromotionLink').css('color', '#000');
+			jQuery( "#navbarDropdownPromotionLink" ).html('Products <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+		}
+	});
+	jQuery("#navbarDropdownPromotionMenu").mouseover(function(){	
+		jQuery('#navbarDropdownPromotionLink').css('color', 'red');
+		jQuery( "#navbarDropdownPromotionLink" ).html('Products <i id="icon-change" class="fas fa-minus" aria-hidden="true">');
+	});
+	jQuery("#navbarDropdownPromotionMenu").mouseout(function(){
+		if (!jQuery('#navbarDropdownPromotionLink').hasClass("red-color-word")) {
+			jQuery('#navbarDropdownPromotionLink').css('color', '#000');
+			jQuery( "#navbarDropdownPromotionLink" ).html('Products <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+		}
+	});
+	
+	jQuery("#navbarDropdownNewsLink").mouseover(function(){	
+		jQuery('#navbarDropdownNewsLink').css('color', 'red');
+		jQuery( "#navbarDropdownNewsLink" ).html('Carlife News <i id="icon-change" class="fas fa-minus" aria-hidden="true">');
+	});
+	jQuery("#navbarDropdownNewsLink").mouseout(function(){
+		if (!jQuery('#navbarDropdownNewsLink').hasClass("red-color-word")) {
+			jQuery('#navbarDropdownNewsLink').css('color', '#000');
+			jQuery( "#navbarDropdownNewsLink" ).html('Carlife News <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+		}
+	});
+	jQuery("#navbarDropdownNewsMenu").mouseover(function(){	
+		jQuery('#navbarDropdownNewsLink').css('color', 'red');
+		jQuery( "#navbarDropdownNewsLink" ).html('Carlife News <i id="icon-change" class="fas fa-minus" aria-hidden="true">');
+	});
+	jQuery("#navbarDropdownNewsMenu").mouseout(function(){
+		if (!jQuery('#navbarDropdownNewsLink').hasClass("red-color-word")) {
+			jQuery('#navbarDropdownNewsLink').css('color', '#000');
+			jQuery( "#navbarDropdownNewsLink" ).html('Carlife News <i id="icon-change" class="fas fa-plus" aria-hidden="true">');
+		}
+	});
+	
 });
 
 /*
@@ -248,6 +439,18 @@ function headerUpdateCarType(_type, _value) {
 	} else {
 		var _index = jQuery("input[data-name=header-car-type]:checked").attr("data-index");
 		jQuery("#home-popup-car-type").prop('selectedIndex', (_index - 1));
+		//.attr('selected', true);
+	}
+
+}
+
+function headerUpdateAutopartsType(_type, _value) {
+	if (_type == 'sel') {
+		var _index = jQuery("#home-popup-autoparts-type option:selected").attr("data-index");
+		jQuery("input[data-name=header-autoparts-type][data-index=" + _index + "]").click();
+	} else {
+		var _index = jQuery("input[data-name=header-autoparts-type]:checked").attr("data-index");
+		jQuery("#home-popup-autoparts-type").prop('selectedIndex', (_index - 1));
 		//.attr('selected', true);
 	}
 
@@ -309,7 +512,7 @@ Notwithstanding the User contact details provided to us will generally be kept c
 <li>our business partners and affiliates that provide related products or services in connection with our business;</li>
 <li>our lawyers, consultants, debt collection agencies, credit-reporting agencies, accountants, auditors or other financial or professional advisers and service providers;</li>
 <li>our third-party product or service providers or sub-contractors as we may deem necessary;</li>
- <li>statutory authorities, industry regulators and government agencies; and</li>
+<li>statutory authorities, industry regulators and government agencies; and</li>
 <li>any party to whom we are required to do so under law or in response to any competent or government agency.</li>
 </ul>
 Kindly be informed that if required for any of the foregoing Purposes, your Personal Data may be transferred and/or disclosed to any party within or outside Malaysia including but not limited to companies within the Proto Malaysia group including the respective licensees, agents, business partners and/or service providers and under confidentiality and security conditions.
@@ -324,7 +527,7 @@ We advise you to only select the "Remember me" option if the computer you use is
 <br><br>
 <h4>PUBLIC FORUMS</h4>
 This site makes chat rooms, forums, and/or message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your Personal Data. We respect freedom of speech and request that users respect one another in exercising said freedom.
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you may email us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3f565159507f4f4d504b501258115246">[email&nbsp;protected]</a>
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you may email us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="224b4c444d6252504d564d0f450c4f5b">[email&nbsp;protected]</a>
 </div>
 </div> <div id="footer-section">
 <div class="container">
@@ -547,7 +750,7 @@ More <i id="icon-change" class="fa fa-caret-down" aria-hidden="true"></i></butto
 </div>
 <div class="hidden-md-down bottom-section">
 <ul>
-<li><a href="tel:1300881655">1300 88 1655</a></li>
+<li><a href="tel:0327250122">03-2725 0122</a></li>
 <li><a href="http://www.motortrader.com.my/aboutus/index.html">About Us</a></li>
 <li><a href="http://www.motortrader.com.my/term_and_condition/index.html">Terms &amp; Conditions</a>
 </li><li><a href="http://www.motortrader.com.my/contactus/index.html">Contact</a></li>
@@ -611,7 +814,7 @@ jQuery(document).ready(function() {
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="alert-primary-label">Motor Trader</h5>
+ <h5 class="modal-title" id="alert-primary-label">Motor Trader</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">×</span>
 </button>
@@ -676,12 +879,11 @@ jQuery(document).ready(function() {
     });
   });
   </script>
-<script> gtag('event', 'page_view', { 'send_to': 'AW-846673252', 'user_id': '5c264773a4458-1546012531' }); </script>
+<script> gtag('event', 'page_view', { 'send_to': 'AW-846673252', 'user_id': '5d18f7e1866a9-1561917409' }); </script>
 <script type="text/javascript" src="http://www.motortrader.com.my/assets/bootbox.min.js"></script>
 <script type="text/javascript" src="http://www.motortrader.com.my/assets/protoslider/protoSlider.js"></script>
 <script type="text/javascript" src="http://www.motortrader.com.my/assets/general.js"></script>
 <script type="text/javascript" src="http://www.motortrader.com.my/assets/typeahead/bloodhound.js"></script>
 <script type="text/javascript" src="http://www.motortrader.com.my/assets/typeahead/typeahead.bundle.js"></script>
-
 
 </body></html>
