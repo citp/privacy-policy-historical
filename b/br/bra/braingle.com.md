@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the braingle.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721134630id_/https%3A//www.braingle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braingle.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630034742id_/https%3A//www.braingle.com/privacy.php) for the most accurate reproduction.*
 
-# Braingle: Privacy Policy
+# Braingle » Privacy Policy
 
 [](http://www.icra.org/) [](http://www.safesurf.com/)
 
 ### Information Collection and Use
 
-This site logs the IP addresses and types of browser used by its guests. This information is used to monitor and make improvements to the site. This site does not secretly collect any personally identifiable information. User's may choose to become a registered user, in which case they may choose to reveal information about themselves such as their email address. This information will never be shared or sold. Users may remove themselves and their information from the web site's database by [contacting us](https://web.archive.org/contact.php). This website and the advertisers on this website conform to the [Children's Online Privacy Protection Act](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm)
+This site logs the IP addresses and types of browser used by its guests. This information is used to monitor and make improvements to the site. This site does not secretly collect any personally identifiable information. User's may choose to become a registered user, in which case they may choose to reveal information about themselves such as their email address. This information will never be shared or sold. Users may remove themselves and their information from the web site's database by [contacting us](https://web.archive.org/contact.php). This website and the advertisers on this website conform to the [Children's Online Privacy Protection Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule)
 
   
 
@@ -15,7 +15,11 @@ This site logs the IP addresses and types of browser used by its guests. This in
 
 A cookie is a piece of data stored on the user's hard drive. This site uses cookies to maintain state between pages on this site. The user may remove these cookies at any time by logging out of the web site.
 
-Advertisers on this site may use cookies. However, we have no access to or control over these cookies. The ads on this website are provided by [Burstmedia](http://www.burstmedia.com/release/privacy.asp), Fastclick, Casale, Google and others.
+A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies. Declining cookies will prevent you from taking full advantage of the website.
+
+Advertisers on this site may use cookies. However, we have no access to or control over these cookies. The ads on this website are provided by Google.
 
   
 
@@ -23,6 +27,13 @@ Advertisers on this site may use cookies. However, we have no access to or contr
 ### Third Party Advertising
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+  
+
+
+### Analytics
+
+Braingle uses [Google Analytics](https://www.google.com/analytics) to monitor the website and make improvements. Google collections information such as your IP number and browser. Google also infers information such as gender and age and aggregates this information in a way that enables us to improve our service. You may opt-out of Google's tracking [here](https://www.google.com/settings/ads) and [here](https://tools.google.com/dlpage/gaoptout/). Braingle does not facilitate the merging of personally identifiable information with non-personally identifiable information collected by Google.
 
   
 
