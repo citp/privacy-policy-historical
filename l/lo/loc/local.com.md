@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local.com privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726011403id_/http%3A//www.local.com/local_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233241id_/https%3A//www.local.com/local_privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
