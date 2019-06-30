@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the harker.org privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219214451id_/http%3A//www.harker.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harker.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630223424id_/https%3A//www.harker.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Other Policies | The Harker School
 
 ## Privacy Policy
 
-This Privacy Policy was last modified on May 29, 2015. 
+This Privacy Policy was last modified on February 22, 2018. 
 
 The Harker School ("us," "we," or "our") operates [http://www.harker.org](http://www.harker.org/) (the "site"). This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of the site. 
 
@@ -16,7 +16,7 @@ While using our site, we may ask you to provide us with certain personally ident
 
 ### Log Data 
 
-Like many site operators, we collect information that your browser sends whenever you visit our site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics. 
+Like many site operators, we collect information that your browser or email client sends whenever you visit our site or open an email ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, email client, browser version, device type, the pages of our site that you visit, the time and date of your visit, the time spent on those pages, how you've interacted with our emails and other statistics. 
 
 ### Cookies 
 
