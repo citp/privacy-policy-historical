@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theme-junkie.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922235817id_/https%3A//www.theme-junkie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theme-junkie.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630222705id_/https%3A//www.theme-junkie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Theme Junkie
 
@@ -92,9 +92,11 @@ As we are obligated to send these communications to current customers, if you do
 
 We also use your email address to send you other types of communications that you can control, including information about new themes, customer surveys and special promotions. These communications are to:
 
-* Provide you with information about services we offer that are similar to those that you have already enquired about or purchased
-* Provide news about the WordPress industry, marketing and advertising messages, updates on the services we offer, and promotional offers based on your activities
-* Tell you about new products and features we are developing that you may find useful
+  * Provide you with information about services we offer that are similar to those that you have already enquired about or purchased
+  * Provide news about the WordPress industry, marketing and advertising messages, updates on the services we offer, and promotional offers based on your activities
+  * Tell you about new products and features we are developing that you may find useful
+
+
 
 You can choose whether to receive these communications when you make a purchase, or create an account (or at any time thereafter) by logging in to your account on the Theme Junkie website, visiting your profile page and accessing the preference center.
 
@@ -135,7 +137,7 @@ When you place an order with Theme Junkie, we will provide your information to t
 
 ### Blog Comments
 
-We have public blogs on our websites. Any information you include in a comment on our blog may be read, collected, and used by anyone. If your personal information appears on our blogs and you want it removed, [contact us here](https://web.archive.org/cdn-cgi/l/email-protection#96e5e3e6e6f9e4e2d6e2fef3fbf3bbfce3f8fdfff3b8f5f9fb). If we are unable to remove your information, we will tell you why.
+We have public blogs on our websites. Any information you include in a comment on our blog may be read, collected, and used by anyone. If your personal information appears on our blogs and you want it removed, [contact us here](https://web.archive.org/cdn-cgi/l/email-protection#72010702021d000632061a171f175f18071c191b175c111d1f). If we are unable to remove your information, we will tell you why.
 
 ### Social Media Platforms and WidgetsLinks to Third-Party Websites
 
@@ -221,7 +223,7 @@ The Data Controller is Compact Creative Limited, Registered office address C/O P
 
 ### Contacting Us With Questions or Requests
 
-If you want to exercise your right to access your information or have any questions about this Privacy Policy, Theme Junkie’s information practices, or your dealings with Theme Junkie, you can [contact us by email](https://web.archive.org/cdn-cgi/l/email-protection#54272124243b262014203c313931793e213a3f3d317a373b39).
+If you want to exercise your right to access your information or have any questions about this Privacy Policy, Theme Junkie’s information practices, or your dealings with Theme Junkie, you can [contact us by email](https://web.archive.org/cdn-cgi/l/email-protection#6e1d1b1e1e011c1a2e1a060b030b43041b0005070b400d0103).
 
 ## 12\. Changes to This Privacy Policy
 
