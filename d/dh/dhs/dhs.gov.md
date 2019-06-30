@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231045125id_/https%3A//www.dhs.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630233957id_/https%3A//www.dhs.gov/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Homeland Security
 
