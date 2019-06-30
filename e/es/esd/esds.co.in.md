@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esds.co.in privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408113116id_/https%3A//www.esds.co.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esds.co.in privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630045004id_/https%3A//www.esds.co.in/privacy-policy) for the most accurate reproduction.*
 
-# ESDS Software Solution Data Privacy Policy
+# Privacy Policy
 
 ## ESDS Data Privacy Policy
 
@@ -14,10 +14,10 @@ For purposes of this policy, the term "visitor" includes visitors to our website
 
 The personal information we collect may include: Visitors name, contact information, financial information and payment card details, IP addresses, Live chat messages, Telephone conversations, product and service selections and orders or other things that may be used for visitor identification. Generally, we may collect personal information in the following manner:
 
-  * __The Visitor may provide his/her personal information to us via live chat, email or other written correspondence, telephone calls, web based forms, or any other similar means
-  * __We use automated technical means to collect personal information about our website visitors for example – by use of cookies
-  * __Purchases of services on our website; and
-  * __Via third party providers.
+  1. __The Visitor may provide his/her personal information to us via live chat, email or other written correspondence, telephone calls, web based forms, or any other similar means
+  2. __We use automated technical means to collect personal information about our website visitors for example – by use of cookies
+  3. __Purchases of services on our website; and
+  4. __Via third party providers.
 
 
 
@@ -25,9 +25,9 @@ The personal information we collect may include: Visitors name, contact informat
 
 You may visit our Website in any of the following ways:
 
-  * __By using your browser to navigate to www.esds.co.in; or
-  * __By viewing an advertisement displayed on a third party website that has content served by our web server.
-  * __By viewing an email that is served content by our web server;
+  1. __By using your browser to navigate to www.esds.co.in; or
+  2. __By viewing an advertisement displayed on a third party website that has content served by our web server.
+  3. __By viewing an email that is served content by our web server;
 
 
 
@@ -69,11 +69,11 @@ We use the visitors' IP address to help diagnose problems with our servers, and 
 
 We use cookies to help us recognize visitors as unique visitors (just a number) when they return to our websites For example, if there are 1,000 visits to our website on a certain day, we can use cookies to discover how many of those visits were made via the same browser (same visitor). We may also use the cookie to discover whether a certain visitor has visited our site more than once, and the source for each visit. We also use cookies to:
 
-  * __allow us to tailor content or advertisements to match visitors preferred interest;
-  * __avoid showing visitors the same advertisements repeatedly;
-  * __compile anonymous, aggregated statistics that allow us to understand how users use our site;
-  * __to help us improve the structure of our website (we cannot identify visitors personally in this way);
-  * __count the number of anonymous users of our sites.
+  1. __allow us to tailor content or advertisements to match visitors preferred interest;
+  2. __avoid showing visitors the same advertisements repeatedly;
+  3. __compile anonymous, aggregated statistics that allow us to understand how users use our site;
+  4. __to help us improve the structure of our website (we cannot identify visitors personally in this way);
+  5. __count the number of anonymous users of our sites.
 
 
 
@@ -95,7 +95,7 @@ Any disclosure of personal information will be strictly be controlled and made f
 
 **4\. OPTING OUT OF COMMUNICATION**
 
-The visitor may withdraw his/her consent to our use of their personal information for future marketing mailings, at any time by emailing us at an abuse@esds.co.in. For other ways to contact us please see our "Contact Us" page. We will use all reasonable endeavors to remove the visitor's personal information from our marketing mailing list within 5 business days of receipt of withdrawal of consent.
+The visitor may withdraw his/her consent to our use of their personal information for future marketing mailings, at any time by emailing us at an [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) For other ways to contact us please see our "Contact Us" page. We will use all reasonable endeavors to remove the visitor's personal information from our marketing mailing list within 5 business days of receipt of withdrawal of consent.
 
 **5\. HOW SECURE IS THE INFORMATION WE COLLECT?**
 
@@ -103,7 +103,7 @@ ESDS is committed to industry best practices approaches concerning security meas
 
 **6\. RIGHT TO ACCESS YOUR PERSONAL INFORMATION**
 
-A Customer has the rights to access his/her individual information held by us. The visiting customer can obtain access to his/her personal information held by us through a written request in the form of an email to our billing team. If you have any questions about ESDS's Data Protection Policy please write to billing@esds.co.in
+A Customer has the rights to access his/her individual information held by us. The visiting customer can obtain access to his/her personal information held by us through a written request in the form of an email to our billing team. If you have any questions about ESDS's Data Protection Policy please write to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 We always endeavor to make sure that the information we hold about the visitor is accurate and up to date, if the visitor is under the belief that any information we are holding about him/her is incorrect or incomplete, please write to us or e-mail us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
@@ -112,5 +112,3 @@ We always endeavor to make sure that the information we hold about the visitor i
 Our business changes constantly and ISO 9001:2008 clauses may also change from time to time. The visitor should check our website frequently to see recent changes; however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without the visitor's prior consent. Unless stated otherwise, our current Data Privacy Policy applies to all information that we have about the visitors.
 
 This Data Privacy Policy was last updated on 7th November 2012.
-
-**eNlight Cloud -** 99.99% Uptime // Free upgrade assistance // 24x7 Support // Plans from __499/month // [Explore Now! __](https://www.esds.co.in/enlight-cloud-hosting.php)
