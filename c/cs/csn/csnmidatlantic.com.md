@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the csnmidatlantic.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231223726id_/https%3A//www.nbcuniversal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csnmidatlantic.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232847id_/https%3A//www.nbcuniversal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NBCUniversal
 
 ## Privacy Policy
 
-Last Updated: 25 May 2018
+Last Updated: 6 June 2019
 
 This Privacy Policy explains how NBCUniversal and its affiliates collect, use, and share information from or about you when you use our websites, downloadable applications such as games, interactive TV mobile applications, and voice-activated assistants, and other services that link to this policy, as well as connected devices such as theme park devices (“NBCUniversal Services”).
 
@@ -23,7 +23,8 @@ If you are using the NBCUniversal Services while in the European Economic Area, 
   7. HOW WE PROTECT YOUR INFORMATION
   8. IMPORTANT INFORMATION FOR CALIFORNIAN RESIDENTS
   9. UPDATES TO OUR PRIVACY POLICY
-  10. CONTACT US 
+  10. NOTICE TO CUSTOMERS OF UNIVERSAL STUDIOS JAPAN
+  11. CONTACT US 
 
 
 
@@ -204,6 +205,20 @@ If we make material changes to the way we collect or use your information, we wi
 
 The date at the top of the Privacy Policy tells you when it was last updated. Any changes to this Privacy Policy will become effective when the revised Privacy Policy is posted. If you use this online service after the changes are posted, you have agreed the changes. If you do not agree with this Privacy Policy or any changes we make, please do not continue to use the NBCUniversal Services.
 
-**10\. CONTACT US**
+**10\. NOTICE TO CUSTOMERS OF UNIVERSAL STUDIOS JAPAN**  
 
-For any questions or complaints about this Privacy Policy or our privacy practices, please contact us at  [privacy@nbcuni.com](mailto:privacy@nbcuni.com) or Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US.
+For customers of Universal Studios Japan, NBCU and Universal Studios Japan may use your personal information jointly as follows:
+
+  * The information set forth in Section 1 of this Privacy Policy, TYPES OF INFORMATION WE COLLECT;
+  * The purposes for the joint use are set forth in Section 2 of this Privacy Policy, HOW WE SHARE INFORMATION
+  * The scope of entities who will use the personal information are set forth in Section 3 of this Privacy Policy, HOW WE SHARE YOUR INFORMATION;
+
+
+
+For questions, requests, or complaints related to the jointly used personal information, you may contact USJ, LLC, who is              responsible for the management of the jointly used personal information, at [privacy@usj.co.jp](mailto:privacy@usj.co.jp).
+
+For customers of Universal Studios Japan who have questions or complaints related to Universal Studios Japan’s privacy practices, you may contact Universal Studios Japan directly by emailing [privacy@usj.co.jp](mailto:privacy@usj.co.jp),or calling 0570-20-0606, or writing to 2-1-33 Sakurajima, Konohana-ku, Osaka 554-0031 Japan, USJ LLC. For issues related to Club Universal please visit [Club Universal inquiry page.](https://www.usj.co.jp/faq/search.html?r=1:club-universal)
+
+**11\. CONTACT US**  
+
+For any questions or complaints about this Privacy Policy or our privacy practices, please contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com) or Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US.
