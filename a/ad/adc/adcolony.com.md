@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adcolony.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231225053id_/https%3A//www.adcolony.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcolony.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235638id_/https%3A//www.adcolony.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AdColony
 
-#### Last Updated: December 10, 2018.
+#### Last Updated: May 24, 2019
 
 AdColony, Inc. and its associated business units (“AdColony” or “we”, “us”, “our”) is a technology company that creates and delivers advertisements to mobile devices. This privacy statement (“Policy”) explains what kinds of information we collect and how AdColony strives to collect, use and disclose information in a manner consistent with the laws of the countries in which we do business. This Policy applies to our advertising platform (“Platform”) our advertising mediation service (“Service”) as well as our website located at <http://www.adcolony.com/> and [http://clients.adcolony.com](http://clients.adcolony.com/) (“Websites”).
 
@@ -16,7 +16,7 @@ AdColony collects personal data in the course of our business. The definitions o
 
 ##### **PERSONALLY IDENTIFIABLE INFORMATION (PII)**
 
-AdColony collects personally identifiable information (“PII”) when you choose to provide it to us. PII is any information that specifically identifies or locates a particular person or entity. We receive and store any PII you provide to us. The types of PII collected includes your name, postal address, telephone number, email address and other PII that you choose to provide on a particular data collection form. For example, you may choose to send PII about yourself in an email, by completing an online form on the Websites, or by signing up for our service or e-newsletter. You may also provide us with PII in order to set up an account with us. AdColony uses this information for our reasonable business purposes, including to contact you to respond to your inquiry, to provide the service requested or to maintain your account with us. We may share your PII with partners such as advertising supply-side platforms as necessary to facilitate the Service. Once obtained, AdColony will store your PII for as long as needed to provide services and for a reasonable time thereafter for record keeping purposes.
+AdColony collects personally identifiable information (“PII”) when you choose to provide it to us. PII is any information that specifically identifies or locates a particular person or entity. We receive and store any PII you provide to us. The types of PII collected includes your name, postal address, telephone number, email address and other PII that you choose to provide on a particular data collection form. For example, you may choose to send PII about yourself in an email, by completing an online form on the Websites, by inquiring about employment or applying for a job at AdColony or by signing up for our service or e-newsletter. You may also provide us with PII in order to set up an account with us. AdColony uses this information for our reasonable business purposes, including to contact you to respond to your inquiry, to provide the service requested or to maintain your account with us. We may share your PII with partners such as advertising supply-side platforms as necessary to facilitate the Service. Once obtained, AdColony will store your PII for as long as needed to provide services and for a reasonable time thereafter for record keeping purposes.
 
 ##### **PSEUDONYMOUS IDENTIFIERS**
 
@@ -72,7 +72,7 @@ AdColony complies with the Digital Advertising Alliance (DAA) Self-Regulatory Co
 
 ### **Choices Regarding Ad Targeting And Data Use**
 
-AdColony offers multiple-choice mechanisms that enable Users to opt-out of AdColony’s use of information for interest-based advertising as well as certain uses of precise location. We do not currently respond to browser-based Do Not Track signals. Please note that you will continue to receive advertising after you opt-out, but it may not be tailored to your interests. Please also note that our opt-out mechanism is browser or device specific. Therefore, if you use multiple browsers / devices you will need to perform the opt-out operation for each browser or device. Certain devices and device configurations may prevent our opt-out from operating correctly. Persons located in the European Union have the right to object to our processing of their personal data as described below.
+AdColony offers multiple-choice mechanisms that enable Users to opt-out of AdColony’s use of information for interest-based advertising as well as certain uses of precise location. We do not currently respond to browser-based Do Not Track signals. Please note that you will continue to receive advertising after you opt-out, but it may not be tailored to your interests. Please also note that our opt-out mechanism is browser or device specific. Therefore, if you use multiple browsers / devices you will need to perform the opt-out operation for each browser or device. Certain devices and device configurations may prevent our opt-out from operating correctly. Persons located in the European Union have the right to object to our processing of their personal data and/or revoke their consent as described below.
 
 ##### **OPT-OUT FROM OR OBJECT TO OUR INTEREST-BASED ADVERTISING**
 
@@ -127,7 +127,19 @@ We store Pseudonymous Identifiers such as device identifiers, IP addresses, as w
 
 **Special Data Protections for EU Data Subjects**
 
-As of 25 May 2018, the General Data Privacy Regulation (“GDPR”) affords additional rights to EU data subjects. Those rights include the right to complain to EU Supervisory Authorities and the right to access, receive a copy of, correct, delete, block, and limit or object to the processing of your personal data processed by AdColony by completing our EU data subject access request form (below). Moreover, with respect to EU data subjects, personal data includes Pseudonymous Identifiers such as an IP address, a mobile advertising ID or a cookie ID.
+As of 25 May 2018, the General Data Privacy Regulation (“GDPR”) affords additional rights to EU data subjects. As an EU data subject, you have the right – partly under certain conditions:
+
+  * to  **request information**  about the processing of your data free of charge, as well as the receipt of a copy of your personal data. You can request information on the purposes of the processing, the categories of personal data being processed, the recipients of the data (if they are passed on), the duration of the storage or the criteria for determining the duration;
+  * to  **correct**  your data. Should your personal data be incomplete, you have the right to complete the data, taking into account the processing purposes;
+  * to  **delete**  or  **block**  your data. Reasons for the existence of a cancellation/blocking right can be, among others, the revocation of the consent on which the processing is based, the data subject objects to the processing, the personal data were processed unlawfully;
+  * to  **restrict**  the  **processing** ;
+  * to  **object  **the **  processing** of your data;
+  * to  **revoke your consent**  to the processing of your data in the future, and;
+  * to  **complain**  to the competent supervisory authority about inadmissible data processing.
+
+
+
+As an EU data subject, you may invoke the above rights regarding the personal data processed by AdColony by completing our EU data subject access request form (below). Moreover, with respect to EU data subjects, personal data includes Pseudonymous Identifiers such as an IP address, a mobile advertising ID or a cookie ID.
 
 Where AdColony is a controller of data (e.g., via most of our advertising Services), the legal basis will be both legitimate interest (Art. 6 (1) f) GDPR) and consent (Art. 6 (1) a) GDPR) depending on the type of information subject to processing and the information we receive from upstream partners. We may also process data for the performance of a contract with you (Art. 6 (1) b) GDPR).
 
