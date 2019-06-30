@@ -1,158 +1,293 @@
-> *The following text is extracted and transformed from the evow.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225220458id_/https%3A//www.pof.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evow.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210612id_/https%3A//www.pof.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # POF.com™ Free Online Dating Service for singles
 
-We respect and uphold individual rights to privacy and the protection of personal information. As a user of our Service, we know how important it is to you (“You”) to protect Your personal information and we want to make every user experience safe and secure. In keeping with these goals, we have developed this privacy policy (“Policy”) to explain our collection, use, and disclosure of Your information. 
+###  OUR COMMITMENT TO YOU 
 
-This Policy applies to all online practices of Plentyoffish Media ULC, (collectively “we,” “us,” “our”). All references to “Service” in this Policy refer to our websites located at www.plentyoffish.com and www.pof.com, as well as any mobile application or other online service.  This Policy forms an integral part of our Terms of Use Agreement, which is incorporated by reference. Any capitalized term used but not defined in this Policy will have the meaning defined in the Terms of Use Agreement. By using our Service, you are accepting the practices described in this Privacy Policy. 
+At Plentyoffish, your privacy is a top priority. Your privacy is at the core of the way we design and build the services and products you know and love, so that you can fully trust them and focus on building meaningful connections. 
 
-If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
+We appreciate that you put your trust in us when you provide us with your information and we do not take this lightly. 
 
-_What Information Do We Collect?_  
-_How Do We Use Information?_  
-_With Whom Do We Share Information?_  
-_Do Not Track Browser Signals and Advertising Choices_  
-_Third-Party Websites_  
-_How Do You Access or Correct Your Information?_  
-_How Long Do We Keep Your Data?_  
-_How Do You Choose What Information We Collect and Use?_  
-_How Do We Protect Your Personal Information?_  
-_Children’s Privacy_  
-_How Do We Make Changes to This Policy?_  
-_How to Contact Us?_
+**We do not compromise with your privacy**. We design all of our products and services with your privacy in mind. We involve experts from various fields, including legal, security, engineering, product design and others to make sure that no decision is taken without respect for your privacy. 
 
-**_What Information Do We Collect?_**
+**We strive to be transparent in the way we process your data**. Because we use many of the same online services you do, we know that insufficient information and overly complicated language are common issues in privacy policies. We take the exact opposite approach: we have written our Privacy Policy and related documents in plain language. We actually want you to read our policies and understand our privacy practices! 
 
-_In General_.  
-We may collect Personal Information, including Sensitive Data, and other information from your usage of our Service. The types of information we collect depend on the nature of Your interaction with us. 
+**We work hard to keep your information secure**. We have teams dedicated to keeping your data safe and secure. We constantly update our security practices and invest in our security efforts to enhance the safety of your information. 
 
-_Personal Information_ :  For the purposes of this Policy, “Personal Information” means individually identifiable information that would allow us to determine the actual identity of, and contact, a specific living person. 
+###  PRIVACY POLICY 
 
-Sensitive Data:  Sensitive Data includes information, comments or content (e.g. photographs, video, profile, lifestyle) that you optionally provide that may reveal your ethnic origin, nationality, religion and/or sexual orientation. We will seek your consent to the collection, use and disclosure of Sensitive Data as required by applicable privacy laws.  We may also collect your geolocation information with your consent.
+Welcome to Plentyoffish's Privacy Policy. Thank you for taking the time to read it.
 
-_Information You Provide_
+We appreciate that you trust us with your information and we intend to always keep that trust. This starts with making sure you understand the information we collect, why we collect it, how it is used and your choices regarding your information. This Policy describes our privacy practices in plain language, keeping legal and technical jargon to a minimum. 
 
-  * **Service Forms & Preferences.**  Our Service can be browsed anonymously. However, to engage in certain special features or functions of our Service, You may be asked to provide certain Personal Information, such as Your name, email address and demographic information. You may provide preferences such as preferred language and marketing consent.  You may also create a user account or profile and provide profile information, for example, photographs You upload, as well as Your interests, marital status, height, weight and occupation.
+This Privacy Policy applies beginning Dec 13, 2018. The previous version of this Privacy Policy, available [here](https://web.archive.org/privacypolicy.aspx?ppDate=2018_05_25), will apply until then. 
 
+_EFFECTIVE DATE:_ Dec 13, 2018
 
-  * **Payment Information.**   We may collect Your financial information for Paid Memberships or Paid Features, such as your payment method (valid credit card number, type, expiration date or other financial information).
+###  1\. WHO WE ARE 
 
+If you live in the European Union, the company that is responsible for your information under this Privacy Policy (the "data controller") is: 
 
-  * **Customer Support Center**.  We or a Service Provider operate an electronic customer support center to accept and address Your questions, concerns, or complaints. When You contact our customer support center, we may ask for Information to help us respond to Your inquiry or to verify Your identity. We may also monitor or record Your online or telephone discussions with our customer support representatives for training purposes and to ensure service quality. 
+MTCH Technology Services Limited  
+5 Harcourt Road  
+Dublin 2, D02 FW64  
+Ireland 
 
+If you live outside the European Union, the company responsible for your information is:
 
+Plentyoffish Media ULC  
+142-757 West Hastings. PMB 670,  
+Vancouver, V6C 1A1  
 
-_Information Collected Automatically_  
 
-  * **Cookies**.  The Service uses “cookies,” a technology that installs a small amount of information on a Service user’s computer to permit the Service to recognize future visits using that computer. Cookies enhance the convenience and use of the Service. For example, the information provided through cookies is used to recognize You as a previous user of the Service, to offer personalized Web page content and information for Your use, and to otherwise facilitate Your Service experience. You may choose to decline cookies if Your browser permits, but doing so may affect Your use of the Service and Your ability to access certain features of the Service or engage in transactions through the Service. To opt-out of cookies that may be set by third party data or advertising partners, please go to <http://www.aboutads.info/choices/>. 
+### 2\. WHERE THIS PRIVACY POLICY APPLIES
 
+This Privacy Policy applies to websites, apps, events and other services operated by Plentyoffish. For simplicity, we refer to all of these as our "services" in this Privacy Policy. To make it extra clear, we've added links to this Privacy Policy on all applicable services. 
 
-  * **Service Tracking Information**.  Our Service may track Your usage of our Service, including Your IP address, device ID and related mobile device information, date and time of access, Your operating system and Internet browser, the portions of the Service you visit or download and the Internet address of the web site from which You linked directly to our Service.
+Some services may require their own unique privacy policy. If a particular service has its own privacy policy, then that policy -- not this Privacy Policy -- applies. 
 
+### 3\. INFORMATION WE COLLECT
 
+It goes without saying, we can't help you develop meaningful connections without some information about you, such as basic profile details and the types of people you'd like to meet. We also collect information generated as you use our services, for example access logs, as well as information from third parties, like when you access our services through a social media account. If you want additional info, we go into more detail below. 
 
-We may use web beacons, pixel tags, local storage or other technologies that facilitate personalization to track Service user demographics, Service traffic patterns, and Service purchases. We may also utilize Google Analytics in the collection, compilation and analysis of tracking information across multiple devices. More information on Google Analytics may be found at <http://www.google.com/analytics>, as amended by Google from time to time.
+**_Information you give us_**
 
-_Mobile Applications and Location Data_     
-If You use any mobile device to access our site or download any of our applications, we may also collect device information (such as Your mobile device ID, model and manufacturer). 
+You choose to give us certain information when using our services. This includes:
 
-When you use our Services (including our website or application), You may be asked to allow us to collect your location information from your device. By sharing Your geolocation information with us, You agree to be bound by Google’s Terms of Use (<http://www.google.com/intl/en_ALL/help/terms_maps.html>). We use the Maps API(s) in our mobile applications, and incorporated by reference to this Policy is the Google privacy policy (currently <http://www.google.com/privacy.html>), as amended by Google from time to time.
+  * When you create an account, you provide us with at least your login credentials, as well as some basic details necessary for the service to work, such as your gender and date of birth. 
+  * When you complete your profile, you can share with us additional information, such as details on your personality, lifestyle, interests and other details about you, as well as content such as photos and videos. To add certain content, like pictures or videos, you may allow us to access your camera or photo album. Some of the information you choose to provide us may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation and religious beliefs. By choosing to provide this information, you consent to our processing of that information. 
+  * When you subscribe to a paid service or make a purchase directly from us (rather than through a platform such as iOS or Android), you provide us or our payment service provider with information, such as your debit or credit card number or other financial information. 
+  * When you participate in surveys or focus groups, you give us your insights into our products and services, responses to our questions and testimonials. 
+  * When you choose to participate in our promotions, events or contests, we collect the information that you use to register or enter. 
+  * If you contact our customer care team, we collect the information you give us during the interaction. Sometimes, we monitor or record these interactions for training purposes and to ensure a high quality of service. 
+  * If you ask us to communicate with or otherwise process information of other people (for example, if you ask us to send an email on your behalf to one of your friends), we collect the information about others that you give us in order to complete your request. 
+  * Of course, we also process your chats with other users as well as the content you publish, as part of the operation of the services. 
 
-If You use the POF Android application, You are asked to give the App permission to obtain information regarding which applications are stored on Your device, their activity on Your device, and which apps are running, in order to learn more about You and Your preferences, as part of POF’s algorithm for finding matches and providing you more relevant advertisements. By accepting the requested permissions before installation, You acknowledge and understand that the program performs these functions and agree to this, and You understand that You can withdraw Your consent at any time by uninstalling the POF Android application.
 
-_Information From Other Sources_  
-From time to time we may supplement information You give us with information from other sources, such as information validating Your address or other available information You have provided us. This is to help us maintain the accuracy of the information we collect and to help us provide better services and user experience. 
 
-**_How Do We Use Information?_**
+**_Information we receive from others_**
 
-_In General_.  We may use Your information for a number of different business purposes, for example to: 
+In addition to the information you provide us directly, we receive information about you from others, including: 
 
-  1. create and display Your online dating profile to other users of the Service;
-  2. show other users when You have viewed their profiles;
-  3. compare Your profile and preferences with that of other users to provide both You and other users with potential matches;
-  4. provide customer support to assist You with Your questions or complaints;
-  5. conduct surveys in order to improve our services;
-  6. advise You of changes to our services, or new services that we may implement from time to time;
-  7. measure and improve the effectiveness of our Service or our marketing endeavors;
-  8. detect and protect against fraud and error;
-  9. track and analyze Your preferences to better understand Your service needs and eligibility;
-  10. perform research and analysis about your use of, or interest in, our or others’ products, services, or content; 
-  11. communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties; 
-  12. develop, display, and track content and advertising tailored to your interests on our Service and other sites, including providing our advertisements to you when you visit other sites; 
-  13. Service analytics; and
-  14. for other purposes as described in this Policy.
+  * **Other Users**  
+Other users may provide information about you as they use our services. For instance, we may collect information about you from other users if they contact us about you. 
+  * **Social Media**  
+You may be able to use your social media login (such as Facebook Login) to create and log into your Plentyoffish account. This saves you from having to remember yet another user name and password and allows you to share some information from your social media account with us. 
+  * **Other Partners**  
+We may receive info about you from our partners, for instance when Plentyoffish accounts can be created through a partner's websites (in which case they pass along registration information to us) or where Plentyoffish ads are published on a partner's websites and platforms (in which case they may pass along details on a campaign's success). 
 
 
 
-_Matching_.  From time to time we will use some elements of Your Personal Information (such as Your personal preferences or Your profile information) to generate and send You a list of possible matches from among our other users. 
+**_Information collected when you use our services_**
 
-_Job applicants_. If your Personal Information is submitted when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your Personal Information, but only for the purpose of considering your application for current or future available positions. This information, which may include your name and contact information, prior education and experience, and other information you provide to us, may be shared with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings.
+When you use our services, we collect information about which features you've used, how you've used them and the devices you use to access our services. See below for more details: 
 
-In all circumstances, we may perform these functions directly or use a third party vendor to perform these functions on our behalf who will be obligated to use your personal information only to perform services for us. Also, if you access our Service from a third party social platform, such as Facebook, we may share non-personal information with that platform to the extent permitted by your agreement with it and its privacy settings.
+  * **Usage Information**  
+We collect information about your activity on our services, for instance how you use them (e.g., date and time you logged in, features you've been using, searches, clicks and pages which have been shown to you, referring webpage address, advertising that you click on) and how you interact with other users (e.g., users you connect and interact with, time and date of your exchanges, number of messages you send and receive). 
+  * **Device information**  
+We collect information from and about the device(s) you use to access our services, including: 
+    * hardware and software information such as IP address, device ID and type, device-specific and apps settings and characteristics, app crashes, advertising IDs (such as Google's AAID and Apple's IDFA, both of which are randomly generated numbers that you can reset by going into your device' settings), browser type, version and language, operating system, time zones, identifiers associated with cookies or other technologies that may uniquely identify your device or browser (e.g., IMEI/UDID and MAC address); 
+    * information on your wireless and mobile network connection, like your service provider and signal strength; 
+    * information on device sensors such as accelerometers, gyroscopes and compasses.
+  * **Other information with your consent**  
+If you give us permission, we can collect your precise geolocation (latitude and longitude) through various means, depending on the service and device you're using, including GPS, Bluetooth or WiFi connections. The collection of your geolocation may occur in the background even when you aren't using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your geolocation, we will not collect it.
 
-**_With Whom Do We Share Information?_**
+Similarly, if you consent, we may collect your photos and videos (for instance, if you want to publish a photo, video or streaming on the services). 
 
-_Personal Information_.  In the normal course of business we act as the data controller and processer, but we may share some of Your Personal Information with our affiliates and with third parties acting on our behalf or as permitted or required by applicable privacy laws. 
 
-_Aggregated Information_.  We may share aggregated, Non-Personal Information, or Personal Information in hashed, non-human readable form, including IP address and information about You, Your computer or device, browser or operating system, with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis, advertising, marketing, or other business purposes. For example, we may engage a data provider who may collect web log data from You (including IP address and information about Your browser or operating system), or place or recognize a unique cookie on Your browser to enable You to receive customized ads or content, on Our Services, on the websites or online services of other Match Group Businesses, or on third party websites or online services. The cookies may reflect de-identified demographic or other data linked to data You voluntarily submitted to us (such as Your email address), that we may share with a data provider solely in hashed, non-human readable form. To opt-out of cookies that may be set by third party data or advertising partners, please visit <http://www.aboutads.info/choices/>.
 
-_Onward Transfer and Consent to International Processing_.  We are a growing corporation with users and operations in multiple countries, including the European Union. We have developed data practices designed to assure information is appropriately protected but we cannot always know where Personal Information may be accessed or processed. While our primary data centers are in Canada and the United States, we may transfer Personal Information or other information to Plenty of Fish offices outside of Canada and the United States. In addition, we may employ other companies and individuals to perform functions on our behalf. If we disclose Personal Information to a third party or to Plenty of Fish employees outside of Canada and the United States, we will seek assurances that any information we may provide to them is safeguarded adequately and in accordance with this Privacy Policy and the requirements of applicable privacy laws.
 
-**_If you are visiting from the European Union or other regions with laws governing data collection and use_ , please note that you are agreeing to the transfer of your personal data, including sensitive data, by us from your region to countries which do not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area, including the United States. By providing your personal information, you consent to any transfer and processing in accordance with this Policy.**
+### 4\. COOKIES AND OTHER SIMILAR DATA COLLECTION TECHNOLOGIES
 
-**_Do Not Track Browser Signals and Advertising Choices_**
+We use and may allow others to use cookies and similar technologies (e.g., web beacons, pixels) to recognize you and/or your device(s). You may read our [Cookie Policy](https://web.archive.org/cookiepolicy.aspx?api=1&dt=1) for more information on why we use them (such as authenticating you, remembering your preferences and settings, analyzing site traffic and trends, delivering and measuring the effectiveness of advertising campaigns, allowing you to use social features) and how you can better control their use, through your browser settings and other tools. 
 
-_Advertising Opt-Out_.  Some third-party advertising companies with whom we partner may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies and provides information about this behavioral advertising practice (www.networkadvertising.org).
+Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) have a "Do Not Track" ("DNT") feature that tells a website that a user does not want to have his or her online activity tracked. If a website that responds to a DNT signal receives a DNT signal, the browser can block that website from collecting certain information about the browser's user. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many businesses, including Plentyoffish, do not currently respond to DNT signals. 
 
-_Do Not Track_.  At this time, our Service does not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions. However, you may be able to change your privacy preferences regarding the use of cookies and similar technologies through your browser, as described above.
+### 5\. HOW WE USE INFORMATION
 
-**_Third-Party Websites_**
+The main reason we use your information is to deliver and improve our services. Additionally, we use your info to help keep you safe and to provide you with advertising that may be of interest to you. Read on for a more detailed explanation of the various reasons we use your information, together with practical examples. 
 
-Our Service may contain links to other websites or Internet resources which are provided solely for Your convenience and information. When You click on one of those links You are contacting another website or Internet resource. We have no responsibility or liability for, or control over, those other websites or Internet resources or their collection, use and disclosure of Your Personal Information. We encourage You to read the privacy policies of those other websites to learn how they collect and use Your Personal Information. 
+**To administer your account and provide our services to you**
 
-**_How Do I Access or Correct my Personal Information?_**
+  * Create and manage your account
+  * Provide you with customer support and respond to your requests
+  * Complete your transactions
+  * Communicate with you about our services, including order management and billing
 
-Applicable privacy laws may allow any individual the right to access and/or request the correction of errors or omissions in his or her Personal Information that is in our custody or under our control. Our Privacy Officer will assist the individual with the access request. This includes: 
 
-  * identification of Personal Information under our custody or control; and
-  * information about how Personal Information under our control may be or has been used by us.
 
+**To help you connect with other users**
 
+  * Analyze your profile and that of other users to recommend meaningful connections
+  * Show users' profiles to one another
 
-We will respond to requests within the time allowed by applicable privacy laws and will make every effort to respond as accurately and completely as possible. Any corrections made to Personal Information will be promptly sent to any organization it was disclosed to. 
 
-In certain exceptional circumstances, we may not be able to provide access to certain Personal Information it holds about an individual. For security purposes, not all Personal Information is accessible and amendable by the Privacy Officer. If access or corrections cannot be provided, we will notify the individual making the request within 30 days, in writing, of the reasons for the refusal. 
 
-**_How Long Do We Keep Your Data?_**
+**To ensure a consistent experience across your devices**
 
-We keep Your information only as long as we need it for legitimate business purposes and as permitted by applicable legal requirements. In Canada, Personal Information used to make a decision that directly affects an individual will be kept for at least one year after such a decision. We have retention standards that meet these parameters. 
+  * Link the various devices you use so that you can enjoy a consistent experience of our services on all of them. We do this by linking devices and browser data, such as when you log into your account on different devices or by using partial or full IP address, browser version and similar data about your devices to help identify and link them. 
 
-**_How Do You Choose What Information We Collect and Use?_**
 
- _Your Consent_
 
-.  When You choose to provide us with Your Personal Information You consent to the use of Your Personal Information as identified in this Policy and as may be further identified at the time of collection. 
+**To serve you relevant offers and ads**
 
-_Withdrawing Your Consent_.  You may notify us at any time that You wish to withdraw or change Your consent to our use and disclosure of Your information. We will accommodate Your request subject to legal and contractual restrictions. 
+  * Administer sweepstakes, contests, discounts or other offers
+  * Develop, display and track content and advertising tailored to your interests on our services and other sites 
+  * Communicate with you by email, phone, social media or mobile device about products or services that we think may interest you 
 
-_Turning Off Notifications_.  Should You no longer wish to receive notifications from the Service when You receive a message from another Service user or when another user adds You as a favorite, You may turn these notifications off through Mail Settings (http://www.pof.com/mailsettings.aspx). The Service will not send You notifications after Your account is deleted.
 
-**_How Do We Protect Your Personal Information?_**
 
-The Service limits access to your personal information. We have physical, electronic, and administrative procedures in place to protect and help prevent unauthorized access and use of personal information.
+**To improve our services and develop new ones**
 
-No data transmissions through the Internet or via mobile devices, or even the physical transfer of information, can be guaranteed to be completely secure. We cannot fully eliminate all security risks associated with personal information. We do not ensure or warrant the security of any data or information you transmit to us, and you do so at your own risk.
+  * Administer focus groups and surveys
+  * Conduct research and analysis of users' behavior to improve our services and content (for instance, we may decide to change the look and feel or even substantially modify a given feature based on users' behavior) 
+  * Develop new features and services (for example, we may decide to build a new interests-based feature further to requests received from users). 
 
-You agree that we may communicate with you electronically regarding security, privacy, and administrative issues, such as security breaches. We may post a notice on our Service if a security breach occurs. We may also send an email to you at the email address you have provided to us. 
 
-**_Children’s Privacy_**
 
-Although our Service is a general audience website, we restrict the use of our service to individuals age 18 and above. We do not knowingly collect Personal Information from children under the age of 13.
+**To prevent, detect and fight fraud or other illegal or unauthorized activities**
 
-**_How We Make Changes to This Privacy Policy?_** ****
+  * Address ongoing or alleged misbehavior on and off-platform
+  * Perform data analysis to better understand and design countermeasures against these activities
+  * Retain data related to fraudulent activities to prevent against recurrences
 
-We will occasionally update this Privacy Policy. When we post changes to this Privacy Policy, we will revise the “effective” date at the top of this Privacy Policy. We recommend that you check our Service from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
 
-**_How to Contact Us?_**
 
-Questions or concerns regarding this Policy may be directed to the Privacy Officer, Kate Manolis, at legal@plentyoffish.com. 
+**To ensure legal compliance**
+
+  * Comply with legal requirements
+  * Assist law enforcement
+  * Enforce or exercise our rights, for example our Terms
+
+
+
+To process your information as described above, we rely on the following legal bases:
+
+  * _Provide our service to you:_ Most of the time, the reason we process your information is to perform the contract that you have with us. For instance, as you go about using our service to build meaningful connections, we use your information to maintain your account and your profile, to make it viewable to other users and recommend other users to you. 
+  * _Legitimate interests:_ We may use your information where we have legitimate interests to do so. For instance, we analyze users' behavior on our services to continuously improve our offerings, we suggest offers we think might interest you, and we process information for administrative, fraud detection and other legal purposes. 
+  * _Consent:_ From time to time, we may ask for your consent to use your information for certain specific reasons. You may withdraw your consent at any time by contacting us at the address provided at the end of this Privacy Policy. 
+
+
+
+### 6\. HOW WE SHARE INFORMATION
+
+Since our goal is to help you make meaningful connections, the main sharing of users' information is, of course, with other users. We also share some users' information with service providers and partners who assist us in operating the services, with other Match Group companies and, in some cases, legal authorities. Read on for more details about how your information is shared with others. 
+
+  * **With other users**  
+You share information with other users when you voluntarily disclose information on the service (including your public profile). Please be careful with your information and make sure that the content you share is stuff that you're comfortable being publically viewable since neither you nor we can control what others do with your information once you share it.
+
+If you choose to limit the audience for all or part of your profile or for certain content or information about you, then it will be visible according to your settings. 
+
+  * **With our service providers and partners**  
+We use third parties to help us operate and improve our services. These third parties assist us with various tasks, including data hosting and maintenance, analytics, customer care, marketing, advertising, payment processing and security operations.
+
+We may also share information with partners who distribute and assist us in advertising our services. For instance, we may share limited information on you in hashed, non-human readable form to advertising partners.
+
+We follow a strict vetting process prior to engaging any service provider or working with any partner. All of our service providers and partners must agree to strict confidentiality obligations. 
+
+  * **With other Match Group businesses**  
+Plentyoffish is part of the Match Group family of businesses which, as of the date of this Privacy Policy, includes websites and apps such as Tinder, OkCupid, Plenty of Fish, Match, Meetic, BlackPeopleMeet, LoveScout24, OurTime, Pairs, ParPerfeito, and Twoo (for more details, click [here](http://mtch.com/)).
+
+We share your information with other Match Group companies to benefit you in two respects: 
+
+    * for other Match Group companies to assist us in processing your information, as service providers, upon our instructions and on our behalf. Assistance provided by other Match Group companies may include technical processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, finance and accounting assistance, better understanding how our service is used and users' behavior to improve our service, securing our data and systems and fighting against spam, abuse, fraud, infringement and other wrongdoings. 
+    * In order to improve your chances at building significant connections with others, we may make you visible on other Match Group services or allow you to benefit from cross-platform functionalities. We will of course comply with applicable law and, where relevant, notify you of any such opportunity and allow you to agree or to refuse. Examples of such opportunities may include the creation of a new service within Match Group, addressing a specific demographic that we feel would be interesting to you based on your search criteria. 
+We may also share information with other Match Group companies for legitimate business purposes such as corporate audit, analysis and consolidated reporting as well as compliance with applicable laws. We may also share user information with other Match Group companies to remove users who violate our terms of service, or have been reported for criminal activity and/or bad behavior. In some instances, we may remove that user from all platforms. 
+  * **For corporate transactions**  
+We may transfer your information if we are involved, whether in whole or in part, in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control. 
+  * **When required by law**  
+We may disclose your information if reasonably necessary: (i) to comply with a legal process, such as a court order, subpoena or search warrant, government / law enforcement investigation or other legal requirements; (ii) to assist in the prevention or detection of crime (subject in each case to applicable law); or (iii) to protect the safety of any person. 
+  * **To enforce legal rights**  
+We may also share information: (i) if disclosure would mitigate our liability in an actual or threatened lawsuit; (ii) as necessary to protect our legal rights and legal rights of our users, business partners or other interested parties; (iii) to enforce our agreements with you; and (iv) to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing. 
+  * **With your consent or at your request**  
+We may ask for your consent to share your information with third parties. In any such case, we will make it clear why we want to share the information. 
+
+
+
+We may use and share non-personal information (meaning information that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in deidentified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other Match Group companies and third parties (notably advertisers) to develop and deliver targeted advertising on our services and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine this information with additional non-personal information or personal information in hashed, non-human readable form collected from other sources. More information on our use of cookies and similar technologies can be found in our [Cookie Policy](https://web.archive.org/cookiepolicy.aspx?api=1&dt=1). 
+
+### 7\. CROSS-BORDER DATA TRANSFERS
+
+Sharing of information laid out in Section 6 sometimes involves cross-border data transfers, for instance to the United States of America and other jurisdictions. As an example, where the service allows for users to be located in the European Economic Area ("EEA"), their personal information is transferred to countries outside of the EEA. We use standard contract clauses approved by the European Commission or other suitable safeguard to permit data transfers from the EEA to other countries. Standard contractual clauses are commitments between companies transferring personal data, binding them to protect the privacy and security of your data. 
+
+### 8\. YOUR RIGHTS
+
+We want you to be in control of your information, so we have provided you with the following tools:
+
+  * _Access / Update tools in the service._ Tools and account settings that help you to access, rectify or delete information that you provided to us and that's associated with your account directly within the service. If you have any question on those tools and settings, please contact our customer care team for help [here](mailto:csr@pof.com). 
+  * _Device permissions._ Mobile platforms have permission systems for specific types of device data and notifications, such as phone book and location services as well as push notifications. You can change your settings on your device to either consent or oppose the collection of the corresponding information or the display of the corresponding notifications. Of course, if you do that, certain services may lose full functionality. 
+  * _Deletion._ You can delete your account by using the corresponding functionality directly on the service. 
+
+
+
+We want you to be aware of your privacy rights. Here are a few key points to remember:
+
+  * _Reviewing your information._ Applicable privacy laws may give you the right to review the personal information we keep about you (depending on the jurisdiction, this may be called right of access, right of portability or variations of those terms). You can request a copy of your personal information by putting in such a request [here](mailto:csr@pof.com). 
+  * _Updating your information._ If you believe that the information we hold about you is inaccurate or that we are no longer entitled to use it and want to request its rectification, deletion or object to its processing, please contact us [here](mailto:csr@pof.com). 
+
+
+
+For your protection and the protection of all of our users, we may ask you to provide proof of identity before we can answer the above requests. 
+
+Keep in mind, we may reject requests for certain reasons, including if the request is unlawful or if it may infringe on trade secrets or intellectual property or the privacy of another user. If you wish to receive information relating to another user, such as a copy of any messages you received from him or her through our service, the other user will have to contact our Privacy Officer to provide their written consent before the information is released. 
+
+Also, we may not be able to accommodate certain requests to object to the processing of personal information, notably where such requests would not allow us to provide our service to you anymore. For instance, we cannot provide our service if we do not have your date of birth. 
+
+  * _Uninstall._ You can stop all information collection by an app by uninstalling it using the standard uninstall process for your device. If you uninstall the app from your mobile device, the unique identifier associated with your device will continue to be stored. If you re-install the application on the same mobile device, we will be able to re-associate this identifier to your previous transactions and activities. 
+  * _Accountability._ In certain countries, including in the European Union, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal information. The data protection authority you can lodge a complaint with notably may be that of your habitual residence, where you work or where we are established. 
+
+
+
+### 9\. RESIDENTS OF CALIFORNIA
+
+If you are a California resident, you can request a notice disclosing the categories of personal information about you that we have shared with third parties for their direct marketing purposes during the preceding calendar year. To request this notice, please submit your request [here](mailto:csr@pof.com). Please allow 30 days for a response. For your protection and the protection of all of our users, we may ask you to provide proof of identity before we can answer such a request. 
+
+### 10\. HOW WE PROTECT YOUR INFORMATION
+
+We work hard to protect you from unauthorized access to or alteration, disclosure or destruction of your personal information. As with all technology companies, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information will always remain secure. We regularly monitor our systems for possible vulnerabilities and attacks and regularly review our information collection, storage and processing practices to update our physical, technical and organizational security measures. 
+
+We may suspend your use of all or part of the services without notice if we suspect or detect any breach of security. If you believe that your account or information is no longer secure, please notify us immediately [here](mailto:csr@pof.com). 
+
+### 11\. HOW LONG WE RETAIN YOUR INFORMATION
+
+We keep your personal information only as long as we need it for legitimate business purposes (as laid out in Section 5 and as permitted by applicable law). 
+
+In practice, we delete or anonymize your information upon deletion of your account or after two years of continuous inactivity, unless: 
+
+  1. we must keep it to comply with applicable law; 
+  2. we must keep it to evidence our compliance with applicable law; 
+  3. there is an outstanding issue, claim or dispute requiring us to keep the relevant information until it is resolved; or 
+  4. the information must be kept for our legitimate business interests, such as fraud prevention and enhancing users' safety and security. For example, information may need to be kept to prevent a user who was banned for unsafe behavior or security incidents from opening a new account. 
+
+
+
+Keep in mind that even though our systems are designed to carry out data deletion processes according to the above guidelines, we cannot promise that all data will be deleted within a specific timeframe due to technical constraints 
+
+### 12\. CHILDREN'S PRIVACY
+
+Our services are restricted to users who are 18 years of age or older. We do not permit users under the age of 18 on our platform and we do not knowingly collect personal information from anyone under the age of 18. If you suspect that a user is under the age of 18, please use the reporting mechanism available through the service. 
+
+### 13\. PRIVACY POLICY CHANGES
+
+Because we're always looking for new and innovative ways to help you build meaningful connections, this policy may change over time. We will notify you before any material changes take effect so that you have time to review the changes. 
+
+### 14\. HOW TO CONTACT US
+
+If you have questions about this Privacy Policy, here's how you can reach us:
+
+**If you live in the European Union:**  
+Online: [here](mailto:csr@pof.com)  
+By post:  
+Privacy Officer  
+MTCH Technology Services Limited  
+5 Harcourt Road  
+Dublin 2, D02 FW64  
+Ireland 
+
+**If you live outside the European Union:**  
+Online: [here](mailto:csr@pof.com)  
+By post:  
+Privacy Officer  
+Plentyoffish Media ULC  
+142-757 West Hastings. PMB 670,  
+Vancouver, V6C 1A1 
