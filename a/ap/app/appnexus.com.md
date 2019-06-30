@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appnexus.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231154244id_/https%3A//www.appnexus.com/corporate-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appnexus.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630171806id_/https%3A//www.appnexus.com/corporate-privacy-policy) for the most accurate reproduction.*
 
 # Corporate Privacy Policy | AppNexus
 
