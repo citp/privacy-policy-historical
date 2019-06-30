@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veinteractive.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202953id_/https%3A//www.ve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veinteractive.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630083718id_/https%3A//www.ve.com/privacy-policy) for the most accurate reproduction.*
 
 # Ve | Privacy Policy
 
@@ -55,7 +55,7 @@ We collect the following categories of personal information from you:
   * data relating to your browsing activity through the use of cookies, web beacons and pixel tags and similar technologies deployed on Client Sites or via emails sent by Ve on behalf of Clients (“ **Behavioural Data** ”), including: 
     * IP (internet protocol) address; referring site URL (website address) where your session started, and details about your device, including type (e.g. mobile or tablet), brand, model, operating system name and version, browser name, version, language and protocol, and other unique numbers assigned to a device (e.g. IDFA on iPhone, Google adID on Android);
     * details about the pages of Client Sites visited and activities on Client Sites (e.g. products viewed or purchased, including details of purchases made and the time and duration of visits to pages of the Client’s Site), page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page;
-    * using your IP address, your approximate geolocation (e.g. postcode); and
+    * using your IP address, your geolocation (e.g. postcode); and
     * events relating to ads served on you, such as the number of ads displayed to you and whether you clicked on an ad; and
   * mailing address, age and/or date of birth, gender, marital status, number of children, nationality and/or country or city of residency, telephone number and first name, in each case if input into a Client Site by you (“ **Profile Data** ”).
 
@@ -63,9 +63,9 @@ We collect the following categories of personal information from you:
 
 For more information about the technology that we use to collect Behavioural Data, please see our [Cookie Policy](https://www.ve.com/cookies-policy).
 
-We also receive Behavioural Data from, and may share it with, third party partners (through “cookie synching” or similar matching technologies). We do not share Contact Details or Profile Data relating to you with third parties outside of the Ve group for commercial purposes.
+We also receive Behavioural Data and Profile Data from, and may share it with, third party partners (through “cookie synching” or similar matching technologies).
 
-We may receive personal information about you (including Behavioural Data and Profile Data) from other companies within the Ve group of companies to enable us to provide and improve our Services. A list of our group companies is available [here](https://www.ve.com/ve-subsidiary-list).
+We share personal information about you (including Behavioural Data and Profile Data) within the Ve group of companies to enable us to provide and improve our Services. A list of our group companies is available [here](https://www.ve.com/ve-subsidiary-list).
 
 We do not collect sensitive information from you (such as data relating to health or religious beliefs). Although it may be possible for us to infer certain information, such as your religious beliefs, from certain Behavioural Data that we may collect, we do not create or use segments that rely on the use of sensitive personal information for the purposes of online behavioural advertising.
 
@@ -81,6 +81,8 @@ Ve combines information that it collects from you across all Client Sites and us
   * if Ve collects personal information when you visit Client Site A, and you subsequently visit Client Site B and provide Client B with permission to send you marketing, Ve may use the information collected on Client Site A to personalise the content of Client B’s marketing communications that are then sent to you.
 
 
+
+To serve you our personalised advertisements on Clients websites and provide you with a seamless online experience, we may link your identifiers on the different browsers and environments you are using (“ID Syncing”). Thanks to its ID-syncing technology, Ve is able to serve you the most relevant ads on whichever device or browser you are currently using. For this purpose, Ve uses exact linking methods by leveraging the technical data collected through out technology such as our advertising partners’ identifiers or email hash that they may pass to us. We may also receive ID-syncing information from trusted partners using diverse linking methods for the same purpose and with the same level of guarantees in terms of Privacy and Data Protection.
 
 The purposes for which we use your personal information are described further below:
 
@@ -127,8 +129,8 @@ We may collect the following categories of personal information from you:
   * name, address, e-mail address, telephone numbers, payment and credit card information, passwords, and any other personal information voluntarily submitted by you when you subscribe, register, complete forms or purchase products on Our Site, or correspond with us (via Our Site or otherwise) (“ **Voluntary Data** ”); and
   * data relating to your browsing activity through the use of cookies, web beacons and pixel tags and similar technologies (“ **Tags** ”) deployed on Our Site or emails sent by us to you, (“ **Behavioural Data** ”), including: 
     * IP (internet protocol) address; referring site URL (website address) where your session started, and details about your device, including type (e.g. mobile or tablet), brand, model, operating system name and version, browser name, version, language and protocol, and other unique numbers assigned to a device (e.g. IDFA on iPhone, Google adID on Android);
-    * details about the pages of Client Sites visited and activities on Client Sites (e.g. products viewed or purchased, including details of purchases made and the time and duration of visits to pages of the Client’s Site), page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page;
-    * using your IP address, your approximate geolocation (e.g. postcode); and
+    * details about the pages of Our Site visited and activities on Our Site (e.g. products viewed or purchased, including details of purchases made and the time and duration of visits to pages of Our Site), page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page;
+    * using your IP address, your geolocation (e.g. postcode); and
 
 
 
@@ -139,6 +141,8 @@ For more information about the technology that we use to collect Behavioural Dat
 #### How do we use the information we collect from Clients (and other people who visit Our Site)?
 
 The primary purpose for which we collect the personal information from you is to: (i) verify your identity; (ii) help us improve our Services and develop and market new products and services; (iii) carry out requests made by you on Our Sites; (iv) investigate or deal with enquiries or disputes; (v) comply with applicable laws or the requirements of a court or regulator; (vi) enforce our agreements with Clients and vendors; (vii) protect the rights, property or safety of us or third parties, including our Clients and those who visit Our Site; (viii) provide support for the provision of our Services; and (ix) use as otherwise permitted by law.
+
+To serve you our personalised advertisements on Clients websites and provide you with a seamless online experience, we may link your identifiers on the different browsers and environments you are using (“ID Syncing”). Thanks to its ID-syncing technology, Ve is able to serve you the most relevant ads on whichever device or browser you are currently using. For this purpose, Ve uses exact linking methods by leveraging the technical data collected through out technology such as our advertising partners’ identifiers or email hash that they may pass to us. We may also receive ID-syncing information from trusted partners using diverse linking methods for the same purpose and with the same level of guarantees in terms of Privacy and Data Protection.
 
 In particular, we may use your personal information for the following purposes:
 
@@ -189,7 +193,7 @@ Note that some of these mechanisms are subject to various limitations and condit
 
 Where you opt-out using the below mechanisms, we will restrict our use of your personal information according to the opt-out that you have chosen, but we may retain your personal data as described in this Privacy Policy (for further information please see How long do we keep your personal information for?):
 
-**Using the toggle buttons in this Privacy Policy.**  
+**Contact Us**  
 
 
 * * *
