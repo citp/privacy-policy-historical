@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sammobile.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230151750id_/https%3A//www.sammobile.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammobile.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232605id_/https%3A//www.sammobile.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - SamMobile
 
@@ -91,8 +91,8 @@ For users that register on our website (if any), we also store the personal data
 
 If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-For data removal (deletions), use our [self-service removal page](https://web.archive.org/remove-account/). In case of errors, contact: deletions@sammobile.freshdesk.com  
-For data takeout (exports), use our [self-service export page](https://web.archive.org/data-takeout/). In case of errors, contact: exports@sammobile.freshdesk.com
+For data removal (deletions), use our [self-service removal page](https://web.archive.org/remove-account/). In case of errors, contact: support@sammobile.com  
+For data takeout (exports), use our [self-service export page](https://web.archive.org/data-takeout/). In case of errors, contact: support@sammobile.com
 
 For all other contact details, you can use one of our preferred [contact](https://web.archive.org/contact/) methods.
 
