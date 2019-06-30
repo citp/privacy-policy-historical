@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopify.co.uk privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214143741id_/https%3A//www.shopify.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopify.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630225952id_/https%3A//www.shopify.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Shopify Privacy Policy
 
@@ -181,11 +181,11 @@ What is a cookie? A cookie is a small amount of data, which may include a unique
 
   * We use cookies to recognize your device and provide you with a personalized experience on our websites, or otherwise through the Services. We also use cookies as part of the Services, for example to operate the shopping cart for our merchants’ stores. Read more about how we use cookies on our sites and our merchants’ sites in our [Cookie Policy](https://www.shopify.ca/legal/cookies).
 
-  * We also use cookies to serve targeted ads from [Google](https://policies.google.com/privacy), [Facebook](https://www.facebook.com/about/privacy/update?ref=old_policy), [Bing](https://privacy.microsoft.com/en-us/privacystatement), [SourceKnowledge](http://www.sourceknowledge.com/privacy), and other third-party vendors.
+  * We use cookies to serve targeted ads from [Google](https://policies.google.com/privacy), [Facebook](https://www.facebook.com/about/privacy/update?ref=old_policy), [Bing](https://privacy.microsoft.com/en-us/privacystatement), [SourceKnowledge](http://www.sourceknowledge.com/privacy), and other third-party vendors. We also use cookies, and other information from your browser and/or device to provide you with personalized advertising, ad delivery, and reporting across multiple sessions and devices.
 
   * Our third-party advertising partners use cookies to track your prior visits to our websites and elsewhere on the Internet in order to serve you targeted ads. For more information about targeted or behavioral advertising, please visit <https://www.networkadvertising.org/understanding-online-advertising>.
 
-  * Opting out: You can opt out of targeted ads served via specific third party vendors by visiting the Digital Advertising Alliance’s [Opt-Out page](http://optout.aboutads.info/#!/).
+  * Opting out: You can opt out of targeted ads served via specific third party vendors by visiting the Digital Advertising Alliance’s [Opt-Out page](http://optout.aboutads.info/#!/) or the Network Advertising Initiative’s [Opt-Out page](http://optout.networkadvertising.org/?c=1).
 
   * We may also use web beacons, software development kits, and other automated tracking methods on our websites, in communications with you, and in our products and services, to measure performance and engagement.
 
@@ -223,7 +223,7 @@ Through first-party and third-party cookies, third parties may collect informati
 
 ## 9\. What we don’t do with your personal information
 
-  * We do not and will never share, disclose, sell, rent, or otherwise provide personal information to other companies (other than to specific Shopify merchants you are interacting with, or to third party apps or service providers being used by the merchants you are interacting with) for the marketing of their own products or services.
+  * We do not and will never share, disclose, sell, rent, or otherwise provide personal information to other companies (other than to specific Shopify merchants you are interacting with, or to third party apps or service providers being used by those merchants if you are a consumer, or Partners that you hire if you are a merchant) for the marketing of their own products or services.
 
   * If you are a merchant using Shopify’s Services, we do not use the personal information we collect from you or your customers to independently contact or market to your customers. However, Shopify may contact or market to your customers if we obtain their information from another source, such as from the customers themselves (for example, if they use Shopify consumer-facing services like [Arrive](https://tryarrive.com/) or [Shopify Pay](https://pay.shopify.com/)).
 
@@ -340,6 +340,6 @@ Dublin 4, D04 XN32
 Ireland  
 
 
-Last updated: September 10, 2018  
-© 2018 Shopify Inc.  
+Last updated: March 15, 2019  
+© 2019 Shopify Inc.  
 
