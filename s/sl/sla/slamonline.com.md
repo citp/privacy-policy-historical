@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slamonline.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330191031id_/http%3A//www.slamonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slamonline.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630193703id_/https%3A//www.slamonline.com/privacy-policy) for the most accurate reproduction.*
 
-# SLAM Media Inc. Privacy Policy | SLAMonline
+# SLAM Media Inc. Privacy Policy | SLAM
 
 SLAM Media Inc. (“SMI” or “We” or “we”) is strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. This Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us. This Privacy Policy applies to SMI and all of its parent companies, subsidiaries, and affiliates. We urge you to read the complete Privacy Policy set forth below, as well as our Terms and Conditions of Use, and contact us if you have any questions.
 
