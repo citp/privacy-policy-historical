@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227010103id_/https%3A//www.education.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630080855id_/https%3A//www.education.com/privacy/%3Fcid%3D11.2192) for the most accurate reproduction.*
 
 # Privacy Policy | Education.com
 
@@ -8,7 +8,7 @@ Effective Date: February 7, 2017
 
 This is our policy regarding how we collect, use, and disclose the information we, Education.com, Inc. ( **“Education.com”** , **“we”** , **“us”** , or **“our”** ), collect on our website services at www.education.com (the **“Website”** ); through our mobile applications Bookbuilder, FunFinder, and Education.com Math and Reading Lessons (collectively, the **“Apps”** ); through browser and other web extension applications, such as the Education.com and Education.com Kids Google Web Store App, and through the services available through our ;Website, Apps, and other applications (such services, along with the Website, Apps, and applications are, collectively, the **“Services”** ). 
 
-This Privacy Policy applies to all of our users, including children under the age of 13, but for more specific information about our children’s privacy practices, please see our Children’s Online Privacy Protection Act (“COPPA”) Privacy Policy (“COPPA Policy”) <https://www.education.com/privacy/child-privacy/>.
+This Privacy Policy applies to all of our users, including children under the age of 13, but for more specific information about our children’s privacy practices, please see our Children’s Online Privacy Protection Act (“COPPA”) Privacy Policy (“COPPA Policy”) [https://www.education.com/privacy/child-privacy/](https://web.archive.org/privacy/child-privacy/).
 
 By visiting our Website or using any of our Apps or Services, you agree that any information that we collect from or about you through our Services will be handled as described in this Privacy Policy. Your use of our Services, and any dispute over privacy, is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms-of-use/), including its applicable limitations on damages and the resolution of disputes. The Education.com, Inc. [Terms of Use](https://web.archive.org/terms-of-use/) are incorporated by reference into this Privacy Policy.
 
@@ -62,7 +62,7 @@ You can create an account with us, by logging in through certain third-party acc
 
 ### Information We Collect Automatically
 
-We may also automatically collect information about users of our Services through cookies, web beacons, and other technologies. The collected information may include, but is not limited to, IP address, domain name; browser type and operating system; web pages viewed while logged in; links clicked; the length of time spent on our Services; and the referring URL, or the webpage that led a user to our Services. In addition, we will collect information about user activities within our Services, such as which games a user plays, the number of correct and incorrect answers, and download history.
+We use various technologies to collect and store information, including cookies, pixel tags, local storage, such as browser web storage or application data caches, databases, and server logs. This information may include, but is not limited to, account information; IP address; domain name; browser type and operating system; web pages viewed while logged in; links clicked; the length of time spent on our Services; and the referring URL, or the webpage that led a user to our Services. In addition, we will collect information about user activities within our Services, such as which games a user plays, the number of correct and incorrect answers, and download history.
 
 ## Cookies and Other Tracking Mechanisms
 
@@ -84,12 +84,12 @@ Our advertisers include a wide variety of companies, such as financial services 
 
 In addition to cookies placed by us or our agents, as described above, advertisers and advertising vendors that serve ads onto our Services or other services may use their own cookies or other tracking technologies. We are not responsible for the privacy policies or practices of any such advertisers and vendors.
 
-We use independent advertising networks to deliver advertising content to the pages that you view on our Services – such as Google AdX, Brealtime, Yieldbot, AOL, Appnexus, Sovrn among others. If you would like to know more about these companies’ privacy practices, please review their policies on their respective sites. If you wish to opt out of any of these company’s information collection and analysis, follow the opt out instructions described in their privacy policy.
+We use independent advertising networks to deliver advertising content to the pages that you view on our Services – such as Google AdX, Brealtime, Yieldbot, AOL, Appnexus, Sovrn among others. If you would like to know more about these companies’ privacy practices, please review their policies on their respective sites. If you wish to opt out of any of these company’s information collection and analysis, follow the opt out instructions described in their privacy policy.
 
   * [Google AdX](https://www.google.com/policies/technologies/ads/)
   * [Brealtime](http://www.brealtime.com/privacy-policy/)
   * [Yieldbot](https://www.yieldbot.com/privacy-policy/)
-  * [AOL](http://http//privacy.aol.com/)
+  * [AOL](http://privacy.aol.com/)
   * [Appnexus](https://www.appnexus.com/en/company/platform-privacy-policy)
   * [Sovrn](https://www.sovrn.com/privacy-policy/)
 
@@ -111,11 +111,11 @@ We use your information to provide and maintain our Services, including tailorin
 
 #### **Free Newsletters**
 
-Email preferences page. 
+If you’re a registered member, we use your email address to send you free email newsletters containing selected editorial, educational content, advertisements, and links to our Website, Apps, and social media accounts. You can select which free newsletters you would like to receive or remove yourself from our free newsletter delivery list at any time by visiting your [Email preferences page](https://web.archive.org/my/email-preferences/).
 
 #### **Special Offers and Advertisements**
 
-We may from time to time send registered members of Education.com special offers and advertisements for products or services offered by us or third parties. We will not disclose any of your personal information to such third parties when we do this. If you do not wish to receive third party offers and advertisements, please change your settings on your [Email preferences page](https://web.archive.org/my/email-preferences/).
+We may from time to time send registered members of Education.com special offers and advertisements for products or services offered by us or third parties. We will not disclose any of your personal information to such third parties when we do this. If you do not wish to receive third party offers and advertisements, please change your settings on your [Email preferences page](https://web.archive.org/my/email-preferences/).
 
 #### **Communications**
 
@@ -141,7 +141,7 @@ We use your information to comply with applicable legal or regulatory obligation
 
 #### **Opting Out of Marketing Communications**
 
-Members may opt out of receiving updates, notifications, and/or newsletters by de-selecting the corresponding boxes in the [](https://web.archive.org/my/email-preferences)Email preferences page. Updates, newsletters, and email notifications will also include instructions for opting out of those communications. 
+Members may opt out of receiving updates, notifications, and/or newsletters by de-selecting the corresponding boxes in the [Email preferences page](https://web.archive.org/my/email-preferences/). Updates, newsletters, and email notifications will also include instructions for opting out of those communications. 
 
 You may access, modify, or delete the personal information that you have provided to us by logging into your member profile page or emailing us at [support@education.com](mailto:support@education.com). If you request restrictions on our uses or disclosures of your personal information, we may comply with your request by terminating your membership and deleting your account information. Please note that we can only honor requests to out opt of disclosures on a going forward basis and opt-out requests do not affect information that we have previously disclosed. We may also retain certain information about you as required by law or as permitted by law for legitimate business purposes. For example, if you request that we delete your information but we believe that you have violated our [Terms of Use](https://web.archive.org/terms-of-use/), we may retain information about you in order to attempt to resolve the issue before deleting it.
 
@@ -182,4 +182,4 @@ Our Services may contain links to third-party websites and applications. Please 
 
 In addition, some of our advertising partners will on occasion take polls of our visitors, in which case you would provide your information directly to the advertising partner. Such polls are for use by the advertising partner, and participation is voluntary. We do not assure privacy of information voluntarily provided in response to a survey or poll.
 
-Education.com, Inc. operates the Services. Questions or comments regarding this policy should be directed to [privacy@education.com](mailto:privacy.education.com), or by writing to 333 South B Street, Unit 101, San Mateo, CA 94401.
+Education.com, Inc. operates the Services. Questions or comments regarding this policy should be directed to [privacy@education.com](mailto:privacy.education.com), or by writing to 333 South B Street, Unit 101, San Mateo, CA 94401.
