@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229213519id_/https%3A//dailycaller.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630225750id_/https%3A//dailycaller.com/footer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Daily Caller
+# The Daily Caller | The Daily Caller
 
 THE DAILY CALLER PRIVACY POLICY
 
@@ -15,19 +15,19 @@ We are operated entirely within the United States. If you are located outside of
 This Policy is incorporated by reference into our [Terms of Use Agreement.](https://web.archive.org/footer/terms-of-use/)
 
 [**WHAT TYPES OF INFORMATION DO WE COLLECT**](https://web.archive.org/footer/privacy-policy/#types)  
-[**PERSONALLY IDENTIFIABLE INFORMATION WE COLLECT FROM AND ABOUT YOU**](https://web.archive.org/footer/privacy-policy/#information)  
-[**INFORMATION COLLECTED AUTOMATICALLY WHEN USING OUR SERVICES**](https://web.archive.org/footer/privacy-policy/#automatic)  
-[**HOW DO WE USE YOUR INFORMATION?**](https://web.archive.org/footer/privacy-policy/#use)  
-[**WITH WHOM DO WE SHARE THE INFORMATION WE COLLECT?**](https://web.archive.org/footer/privacy-policy/#share)  
-[**HOW CAN YOU MAKE CHOICES ABOUT THE INFORMATION THAT WE COLLECT ABOUT YOU?**](https://web.archive.org/footer/privacy-policy/#choices)  
-[**ADVERTISING**](https://web.archive.org/footer/privacy-policy/#advertising)  
-[**LINKS TO OTHER (THIRD PARTY) WEBSITES**](https://web.archive.org/footer/privacy-policy/#links)  
-[**HOW DO WE SECURE YOUR PERSONALLY IDENTIFIABLE INFORMATION?**](https://web.archive.org/footer/privacy-policy/#secure)  
-[**CHILDREN**](https://web.archive.org/footer/privacy-policy/#children)  
-[**CHANGES TO THIS PRIVACY POLICY**](https://web.archive.org/footer/privacy-policy/#changes)  
-[**SPECIAL NOTICE TO CALIFORNIA CONSUMERS**](https://web.archive.org/footer/privacy-policy/#california)  
-[**SPECIAL NOTICE TO EUROPEAN TERRITORY CITIZENS**](https://web.archive.org/footer/privacy-policy/#gdpr)  
-[**HOW TO CONTACT US**](https://web.archive.org/footer/privacy-policy/#contact)
+[ **PERSONALLY IDENTIFIABLE INFORMATION WE COLLECT FROM AND ABOUT YOU**](https://web.archive.org/footer/privacy-policy/#information)  
+[ **INFORMATION COLLECTED AUTOMATICALLY WHEN USING OUR SERVICES**](https://web.archive.org/footer/privacy-policy/#automatic)  
+[ **HOW DO WE USE YOUR INFORMATION?**](https://web.archive.org/footer/privacy-policy/#use)  
+[ **WITH WHOM DO WE SHARE THE INFORMATION WE COLLECT?**](https://web.archive.org/footer/privacy-policy/#share)  
+[ **HOW CAN YOU MAKE CHOICES ABOUT THE INFORMATION THAT WE COLLECT ABOUT YOU?**](https://web.archive.org/footer/privacy-policy/#choices)  
+[ **ADVERTISING**](https://web.archive.org/footer/privacy-policy/#advertising)  
+[ **LINKS TO OTHER (THIRD PARTY) WEBSITES**](https://web.archive.org/footer/privacy-policy/#links)  
+[ **HOW DO WE SECURE YOUR PERSONALLY IDENTIFIABLE INFORMATION?**](https://web.archive.org/footer/privacy-policy/#secure)  
+[ **CHILDREN**](https://web.archive.org/footer/privacy-policy/#children)  
+[ **CHANGES TO THIS PRIVACY POLICY**](https://web.archive.org/footer/privacy-policy/#changes)  
+[ **SPECIAL NOTICE TO CALIFORNIA CONSUMERS**](https://web.archive.org/footer/privacy-policy/#california)  
+[ **SPECIAL NOTICE TO EUROPEAN TERRITORY CITIZENS**](https://web.archive.org/footer/privacy-policy/#gdpr)  
+[ **HOW TO CONTACT US**](https://web.archive.org/footer/privacy-policy/#contact)
 
   
 **I. WHAT TYPES OF INFORMATION DO WE COLLECT?**
@@ -98,7 +98,7 @@ Once users have opted out, they can choose to opt back into Nielsen Measurement 
 
    
   
-**II. HOW DO WE USE YOUR INFORMATION?**
+ **II. HOW DO WE USE YOUR INFORMATION?**
 
 We use your information, including the personally identifiable information that we collect about you (collectively, “information”), for various reasons, including:
 
