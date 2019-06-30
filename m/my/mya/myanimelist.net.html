@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myanimelist.net privacy policy that was archived on 2018-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181206034338id_/https%3A//myanimelist.net/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myanimelist.net privacy policy that was archived on 2019-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630045010id_/https%3A//myanimelist.net/about/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>    
 
@@ -15,10 +15,16 @@
 
 <meta name="referrer" content="default"><link rel="manifest" href="/manifest.json">
 
-<meta name="csrf_token" content="54e3b31a3cf7441458f8c375fa5537cca3de63db"><link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-abc038a5d1.css">
+<meta name="csrf_token" content="9442176f9077ac2eea0e7e871f9572daebeebe8f"><meta name="viewport" content="initial-scale=1"><link rel="stylesheet" type="text/css" href="https://cdn.myanimelist.net/static/assets/css/pc/style-d916144d35.css">
 
-<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-e505baf444.js"></script>
-<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-fe12377da4.js" id="alljs" data-params="{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;,&quot;is_request_bot_filter_log&quot;:true}" defer=""></script>
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//tags-cdn.deployads.com/a/myanimelist.net.js" async=""></script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/header-53b5ae1709.js"></script>
+<script type="text/javascript" src="https://cdn.myanimelist.net/static/assets/js/pc/all-51c5341d80.js" id="alljs" data-params="{&quot;origin_url&quot;:&quot;https:\/\/myanimelist.net&quot;,&quot;is_request_bot_filter_log&quot;:true}" defer=""></script>
 
 
 
@@ -51,7 +57,41 @@
     var node = document.getElementsByTagName('script')[0];
     node.parentNode.insertBefore(gads, node);
   })();</script>
-<script src="https://apis.google.com/js/platform.js" async="" defer="">{lang: 'en-GB'}</script>
+<script>
+window.onscroll = function(e){
+    const scrollThreshold = 50;
+    if (window.pageYOffset >= scrollThreshold) {
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            let t_height = ad.offsetHeight;
+            let offsetY = ad.getBoundingClientRect().top;
+            let screenHeight = window.outerHeight;
+            let t_position = offsetY - screenHeight;
+            if(-screenHeight<=(t_position　+　t_height) && t_position<0) {
+                ad.className = 'ad-tag';
+                (deployads = window.deployads || []).push({});
+            }
+        });
+    }
+}
+var timer = 0;
+window.onresize = function(e){
+    if (timer > 0) {
+        clearTimeout(timer);
+    }
+
+    timer = setTimeout(function () {
+        console.log('window resized');
+        [].forEach.call(document.querySelectorAll('.ad-tag'), function(ad) {
+            ad.className = 'no-ad';
+            (deployads = window.deployads || []).push({});
+        });
+        [].forEach.call(document.querySelectorAll('.no-ad'), function(ad) {
+            ad.className = 'ad-tag';
+            (deployads = window.deployads || []).push({});
+        });
+    }, 200);
+}
+</script><script src="https://apis.google.com/js/platform.js" async="" defer="">{lang: 'en-GB'}</script>
 <script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
 
       </head>
@@ -61,18 +101,18 @@
       <div id="myanimelist">
       
         <div class="_unit " style="width:1px;display: block !important;" data-height="1">
-      <div id="skin_detail" class="" style="width:1px;">
+      <div id="" class="" style="width:1px;">
         <script type="text/javascript">
           googletag.cmd.push(function() {
-                      var slot = googletag.defineOutOfPageSlot("/84947469/skin_detail", "skin_detail").addService(googletag.pubads())
+                      var slot = googletag.defineSlot("/84947469/", [[1,1]], "").addService(googletag.pubads())
       .setTargeting("adult", "white").setCollapseEmptyDiv(true,true);googletag.enableServices();
 
-      googletag.display("skin_detail");
+      googletag.display("");
               });</script>
       </div>
     </div>
     <script type="text/javascript">
-    window.MAL.SkinAd.prepareForSkin('skin_detail');
+    window.MAL.SkinAd.prepareForSkin('');
   </script>
 
     <div id="ad-skin-bg-left" class="ad-skin-side-outer ad-skin-side-bg bg-left">
@@ -82,10 +122,18 @@
       </div>
     </div>
   </div><div class="wrapper ">
-                <div id="headerSmall" class="">
+                <div id="headerSmall" class=""><!-- country_code = 'US' -->
 
-<a href="https://myanimelist.net/store" class="banner-header-anime-straming" target="_blank">
-    <img src="https://cdn.myanimelist.net/images/manga_store/banner/banner-manga-store.png?v=1" width="250" height="36" srcset="https://cdn.myanimelist.net/images/manga_store/banner/banner-manga-store.png?v=1 1x, https://cdn.myanimelist.net/images/manga_store/banner/banner-manga-store@2x.png?v=1 2x" alt="Manga Store - MyAnimeList" title="Manga Store - MyAnimeList">
+
+<script>
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){return true;}
+        });
+    }
+</script><a href="https://myanimelist.net/store?nmaltop" class="banner-header-anime-straming" target="_self" onclick="trackOutboundLink('https://myanimelist.net/store?nmaltop')" style="right:480px;">
+    <img src="https://cdn.myanimelist.net/images/manga_store/banner/banner-manga-store-sale-50.png?v=2" width="250" height="36" srcset="https://cdn.myanimelist.net/images/manga_store/banner/banner-manga-store-sale-50.png?v=2 1x, https://cdn.myanimelist.net/images/manga_store/banner/banner-manga-store-sale-50@2x.png?v=2 2x" alt="Manga Store - MyAnimeList" title="Manga Store - MyAnimeList">
   </a>
 <div id="header-menu"><div class="header-menu-login"><a class="btn-mal-service" href="https://myanimelist.net/membership?_location=mal_h_u">Hide Ads</a><a class="btn-login" href="https://myanimelist.net/login.php" id="malLogin">Login</a><a class="btn-signup" href="https://myanimelist.net/register.php">Sign Up</a></div></div><a href="/" class="link-mal-logo">MyAnimeList.net</a>
         </div>
@@ -105,7 +153,7 @@
                         <li><a href="https://myanimelist.net/watch/episode?_location=mal_h_m_a">Videos</a></li>
             <li><a href="https://myanimelist.net/reviews.php?t=anime&amp;_location=mal_h_m">Reviews</a></li>
             <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=anime&amp;_location=mal_h_m">Recommendations</a></li>
-            <li><a href="https://myanimelist.net/forum?topicid=1696289&amp;_location=mal_h_m">2018 Challenge</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1759336&amp;_location=mal_h_m">2019 Challenge</a></li>
           </ul>
         </li>
         <li class="small"><a href="#" class="non-link">Manga</a>
@@ -115,7 +163,7 @@
             <li><a href="https://myanimelist.net/store?_location=mal_h_m">Manga Store</a></li>
             <li><a href="https://myanimelist.net/reviews.php?t=manga&amp;_location=mal_h_m">Reviews</a></li>
             <li><a href="https://myanimelist.net/recommendations.php?s=recentrecs&amp;t=manga&amp;_location=mal_h_m">Recommendations</a></li>
-            <li><a href="https://myanimelist.net/forum?topicid=1696290&amp;_location=mal_h_m">2018 Challenge</a></li>
+            <li><a href="https://myanimelist.net/forum?topicid=1759337&amp;_location=mal_h_m">2019 Challenge</a></li>
           </ul>
         </li>
         <li><a href="#" class="non-link">Community</a>
@@ -368,10 +416,10 @@
   <h3 class="fw-b term-header3">Cookies and other tracking technologies</h3>
   <p class="term-text">As discussed below, some information is collected about you automatically through cookies and other tracking technologies.</p>
   <ul class="ul-list">
-    <li class="list-style">Cookies. You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. To opt out of having information collected by third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices</a> if you are located in the United States, <a href="http://www.youronlinechoices.com/">www.youronlinechoices.com</a> if you are located in Europe, <a href="http://youradchoices.ca/choices">youradchoices.ca/choices</a> if you are located in Canada, or <a href="http://www.youronlinechoices.com.au/">www.youronlinechoices.com.au</a> if you are located in Australia.</li>
-    <li class="list-style">Flash Cookies. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">here</a>. Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether.</li>
-    <p class="term-text">If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please visit the <a href="http://www.networkadvertising.org/choices/">NAI's website</a>.</p>
+    <li class="list-style">Cookies. You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. To opt out of having information collected by third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices</a> if you are located in the United States, <a href="http://www.youronlinechoices.com/">www.youronlinechoices.com</a> or <a href="https://adssettings.google.com/authenticated?hl=en">Google Ad personalization</a> if you are located in Europe, <a href="http://youradchoices.ca/choices">youradchoices.ca/choices</a> if you are located in Canada, or <a href="http://www.youronlinechoices.com.au/">www.youronlinechoices.com.au</a> if you are located in Australia.</li>
+    <li class="list-style">Flash Cookies. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">here</a>. Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies’ storage capacity, and disallow Flash cookies altogether.</li>
   </ul>
+  <p class="term-text">If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please visit the <a href="http://www.networkadvertising.org/choices/">NAI’s website</a>.</p>
 
   <h3 class="fw-b term-header3">Cookies</h3>
   <p class="term-text">Cookies are small amounts of information stored in files within your computer's browser. Websites can access only the cookies that they have stored on your computer.</p>
@@ -438,7 +486,7 @@
 
 <h2 class="term-header2" id="c11">11. Contacting Us</h2>
 <div>
-  <p class="term-text">If you have any questions, inquires, requests, or complaints concerning this Privacy Policy or our information collection practices, please contact us at <a href="mailto:legal@mail.myanimelist.net" target="_blank">legal@mail.myanimelist.net</a> or by regular mail Attn: Privacy Officer, 665 3rd Street, Suite 150, San Francisco, CA 94107 USA.</p>
+  <p class="term-text">If you have any questions, inquires, requests, or complaints concerning this Privacy Policy or our information collection practices, please contact us at <a href="mailto:legal@mail.myanimelist.net" target="_blank">legal@mail.myanimelist.net</a> or by regular mail Attn: Privacy Officer, 8445 Camino Santa Fe Suite 210, San Diego, CA 92121USA.</p>
 </div>
 
     </div>
@@ -846,12 +894,12 @@
 <div>
   <h3 class="fw-b term-header3">Your Rights</h3>
   <p class="term-text">
-    For the exercise of any of your rights mentioned below, please contact us at <a href="mailto:legal@mail.myanimelist.net">legal@mail.myanimelist.net</a> or by regular mail Attn: Privacy Officer, 665 3rd Street, Suite 150, San Francisco, CA 94107 USA.
+    For the exercise of any of your rights mentioned below, please contact us at <a href="mailto:legal@mail.myanimelist.net">legal@mail.myanimelist.net</a> or by regular mail Attn: Privacy Officer, 8445 Camino Santa Fe Suite 210, San Diego, CA 92121USA.
   </p>
 
   <h3 class="fw-b term-header3">Withdrawal of Consent</h3>
   <p class="term-text">
-    You can withdraw your consent for the collection, usage and storage of your information and data free of charge and at any time by giving us reasonable notice. Your withdrawal can be sent via mail to <a href="mailto:legal@mail.myanimelist.net">legal@mail.myanimelist.net</a> or by regular mail Attn: Privacy Officer, 665 3rd Street, Suite 150, San Francisco, CA 94107 USA.<br>
+    You can withdraw your consent for the collection, usage and storage of your information and data free of charge and at any time by giving us reasonable notice. Your withdrawal can be sent via mail to <a href="mailto:legal@mail.myanimelist.net">legal@mail.myanimelist.net</a> or by regular mail Attn: Privacy Officer, 8445 Camino Santa Fe Suite 210, San Diego, CA 92121USA.<br>
     Upon receiving your request, we will inform you of the likely consequences of the withdrawal of your consent, and will cease to process your information therefrom, unless otherwise permitted or required by applicable laws and regulations. Please note that if you withdraw your consent to any or all usage of your data, depending on the nature of your request, we may not be able to provide to you our Services anymore.
   </p>
 
@@ -932,10 +980,10 @@
 <h2 class="term-header2">Contacting Us</h2>
 <div>
   <p class="term-text">
-    If you have any questions, inquires, requests, or complaints concerning this Privacy Policy or our information collection practices, please contact us at <a href="mailto:legal@mail.myanimelist.net" target="_blank">legal@mail.myanimelist.net</a> or by regular mail Attn: Privacy Officer, 665 3rd Street, Suite 150, San Francisco, CA 94107 USA.
+    If you have any questions, inquires, requests, or complaints concerning this Privacy Policy or our information collection practices, please contact us at <a href="mailto:legal@mail.myanimelist.net" target="_blank">legal@mail.myanimelist.net</a> or by regular mail Attn: Privacy Officer, 8445 Camino Santa Fe Suite 210, San Diego, CA 92121 USA.
   </p>
   <p class="term-text">
-    To communicate with our Data Protection Officer, please email to <a href="mailto:dpo@dena.com">dpo@dena.com</a>
+    To communicate with our Data Protection Officer, please email to <a href="mailto:legal@mail.myanimelist.net">legal@mail.myanimelist.net</a>
   </p>
 </div>
 
@@ -969,19 +1017,19 @@
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/32281/Kimi_no_Na_wa">Kimi no Na wa.</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
+              <a href="https://myanimelist.net/anime/32281/Kimi_no_Na_wa">Kimi no Na wa.</a>
             </li>
                       <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
+              <a href="https://myanimelist.net/anime/9253/Steins_Gate">Steins;Gate</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu">Ginga Eiyuu Densetsu</a>
+              <a href="https://myanimelist.net/anime/28977/Gintama°">Gintama°</a>
             </li>
                   </ol>
       </div>
@@ -991,49 +1039,23 @@
         <ol>
                       <li>
               <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken__Ougon_no_Kaze">JoJo no Kimyou na Bouken: Ougon no Kaze</a>
+              <a href="https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2">Shingeki no Kyojin Season 3 Part 2</a>
             </li>
                       <li>
               <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai">Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</a>
+              <a href="https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze">JoJo no Kimyou na Bouken Part 5: Ougon no Kaze</a>
             </li>
                       <li>
               <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/38262/Pingu_in_the_City_2018">Pingu in the City (2018)</a>
-            </li>
-                      <li>
-              <span class="rank">4</span>
               <a href="https://myanimelist.net/anime/21/One_Piece">One Piece</a>
             </li>
                       <li>
-              <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken">Tensei shitara Slime Datta Ken</a>
-            </li>
-                  </ol>
-      </div>
-          <div class="ranking-unit">
-        <h3 class="title">Top Page Views
-        </h3>
-        <ol>
-                      <li>
-              <span class="rank">1</span>
-              <a href="https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken">Tensei shitara Slime Datta Ken</a>
-            </li>
-                      <li>
-              <span class="rank">2</span>
-              <a href="https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai">Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</a>
-            </li>
-                      <li>
-              <span class="rank">3</span>
-              <a href="https://myanimelist.net/anime/38628/Hero_Mask">Hero Mask</a>
-            </li>
-                      <li>
               <span class="rank">4</span>
-              <a href="https://myanimelist.net/anime/37349/Goblin_Slayer">Goblin Slayer</a>
+              <a href="https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba">Kimetsu no Yaiba</a>
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/anime/38414/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Hyouketsu_no_Kizuna">Re:Zero kara Hajimeru Isekai Seikatsu: Hyouketsu no Kizuna</a>
+              <a href="https://myanimelist.net/anime/235/Detective_Conan">Detective Conan</a>
             </li>
                   </ol>
       </div>
@@ -1059,7 +1081,7 @@
             </li>
                       <li>
               <span class="rank">5</span>
-              <a href="https://myanimelist.net/character/35252/Rintarou_Okabe">Okabe, Rintarou</a>
+              <a href="https://myanimelist.net/character/80/Light_Yagami">Yagami, Light</a>
             </li>
                   </ol>
       </div>
@@ -1102,8 +1124,9 @@
 
         <iframe class="fb-page" src="" width="450" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
+        
     <div id="copyright">
-      MyAnimeList.net is a property of MyAnimeList, LLC. ©2015 All Rights Reserved.
+      MyAnimeList.net is a property of MyAnimeList, LLC. ©2019 All Rights Reserved.
     </div>
   </div>
 </footer>
