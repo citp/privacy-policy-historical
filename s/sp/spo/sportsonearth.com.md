@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsonearth.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229174041id_/https%3A//www.mlb.com/official-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsonearth.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630214343id_/https%3A//www.mlb.com/official-information/privacy-policy) for the most accurate reproduction.*
 
 # MLB.com Privacy Policy | MLB.com
 
@@ -91,7 +91,7 @@ You may ask us to make any necessary changes to your personal information to ens
 
 In addition, subject to limitations as provided for by applicable data protection legislation you have the right to request the erasure of your personal data or the restriction of its processing, or the transfer of your personal data to another data controller. Please contact us as specified below if you wish to do so.
 
-Your personal information will be held for the purposes and uses set out in this Privacy Policy and for as long as there is a legal, taxation, accounting, risk management or business requirement to do so. Different retension periods apply to different types of records and data, however the longest your personal data will typically be held is 6 years from the date of your last transaction. This period may be extended where circumstances so require or until a particular query, investigation or dispute is fully resolved.
+Your personal information will be held for the purposes and uses set out in this Privacy Policy and for as long as there is a legal, taxation, accounting, risk management or business requirement to do so. Different retention periods apply to different types of records and data, however the longest your personal data will typically be held is 6 years from the date of your last transaction. This period may be extended where circumstances so require or until a particular query, investigation or dispute is fully resolved.
 
 #### 7\. Other Information; Contact Us
 
@@ -110,7 +110,7 @@ Privacy Administrator
 New York, NY 10011  
  **Phone** : (646) 495-4091  
  **Fax** : (212) 485-8111  
- **Email** : [privacy@website.mlb.com](https://web.archive.org/web/20181229174041id_/https%3A//www.mlb.com/official-information/privacy@website.mlb.com)
+ **Email** : [privacy@website.mlb.com](https://web.archive.org/web/20190630214343id_/https%3A//www.mlb.com/official-information/privacy@website.mlb.com)
 
   * Notification of Changes. If we make an important change to this Privacy Policy, we will post a notification and link within the MLBAM Properties so that you may review the updated policy.
 
