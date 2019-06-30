@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boagworld.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217090658id_/https%3A//boagworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boagworld.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630113751id_/https%3A//boagworld.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy on Boagworld, Explained in Plain English
 
@@ -6,7 +6,7 @@ I haven’t created this page to conform to some piece of legislation or cover m
 
 ### What I Know About the Average Visitor
 
-The truth is I don’t know much about the average visitor to my site. I run [Google Analytics](https://analytics.google.com/analytics/web/) that provides me with some minimal information about:
+The truth is I don’t know much about the average visitor to my site. I run [Momently](https://momently.com/gdpr) that provides me with some minimal information about:
 
   * How many people visit the website.
   * Which website led them to boagworld.com.
@@ -19,7 +19,7 @@ The truth is I don’t know much about the average visitor to my site. I run [Go
 
 But all of that information is anonymous and I cannot (to my knowledge) access details on individual visitors.
 
-Like the vast majority of websites, I run Google Analytics.
+My analytics package does not give me access to any personal information.
 
 I also very occasionally use a session recorder such as [FullStory](https://fullstory.com/boag/) on specific pages when I am stuck on a particular usability problem. That lets me watch anonymous videos of users interacting with my site allowing me to see where things are going wrong. That said, I know these feel kind of creepy, so I remove them as soon as I have fixed any problem.
 
