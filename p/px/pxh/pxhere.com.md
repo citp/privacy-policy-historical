@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pxhere.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226095430id_/https%3A//pxhere.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pxhere.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630111321id_/https%3A//pxhere.com/en/privacy) for the most accurate reproduction.*
 
 # Service - Free Images & Free stock photos - PxHere
 
 We use cookies and other technologies on this website to enhance your user experience. Read more [Privacy Policy](https://web.archive.org/en/privacy).I Agree
 
-[Contribute Photos](https://web.archive.org/my/upload)
+[Contribute Photos](https://web.archive.org/en/my/upload)
 
   * [Sign up](https://web.archive.org/en/signup)
   * [Log in](https://web.archive.org/en/login?redirect=%2Fen%2Fprivacy)
