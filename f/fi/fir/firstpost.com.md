@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the firstpost.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220141825id_/https%3A//www.firstpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstpost.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630093855id_/https%3A//www.firstpost.com/privacy) for the most accurate reproduction.*
 
 # About Firstpost - Firstpost
 
 **Our Commitment**
 
-Network18 Media and Investments Ltd. (“we”, “us” , “the website”) is strongly committed to the data subject’s (“you”, “your”, “subscriber”, “user”) right to privacy and to keeping your personal and financial information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information. This statement applies solely to the information collected on News18.com.
+Network18 Media and Investments Ltd. (“we”, “us” , “the website”) is strongly committed to the data subject’s (“you”, “your”, “subscriber”, “user”) right to privacy and to keeping your personal and financial information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information. This statement applies solely to the information collected on [Firstpost.com.](https://www.firstpost.com/)
 
 This privacy policy describes the usage of information provided or collected on the sites and applications where this privacy policy is posted. We follow this privacy policy in accordance with applicable law in the regions where we operate. In some cases, we may provide additional data privacy notices specific to certain services or regions. Those terms are to be read in combination with this policy
 
@@ -92,7 +92,7 @@ We collect information about you and your use of our service, your interactions 
 
 • Information collected via the use of cookies and other technologies* ;
 
-*Note: To improve the responsiveness of the **"Application"** for our users, we may use **"cookies",** or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification **("User ID")** to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we would not know who you are, even if we assign a cookie to your computer. The only personal information which a cookie can hold is the information you supply. A cookie cannot read data from your hard drive. Our advertisers may also assign their own cookies to your browser(s) (if you click on their ads), a process that we do not control. We receive and store certain types of information whenever you interact with us via website(s), Application(s) or Services through your computer/laptop/notebook/ mobile/tablet/pad/handheld device or any other electronic device capable of connecting to internet. For more details you can refer to our<Cookie Policy>
+*Note: To improve the responsiveness of the **"Application"** for our users, we may use **"cookies",** or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification **("User ID")** to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we would not know who you are, even if we assign a cookie to your computer. The only personal information which a cookie can hold is the information you supply. A cookie cannot read data from your hard drive. Our advertisers may also assign their own cookies to your browser(s) (if you click on their ads), a process that we do not control. We receive and store certain types of information whenever you interact with us via website(s), Application(s) or Services through your computer/laptop/notebook/ mobile/tablet/pad/handheld device or any other electronic device capable of connecting to internet. For more details you can refer to our Cookie Policy
 
 **IV. Inferred Information through usage and log data**
 
@@ -106,7 +106,7 @@ We may also collect Your Information to track user behaviour and preferences for
 
 **a. Interactive features**
 
-The website has many features that provide for users/members to disclose their identities and communicate with other users/members. Your use of such features and disclosure of any personal details (e.g. e-mail address, name, social media information) by you through these features are at your sole risk and the website accepts no responsibility for the same. However, if your privacy has been intruded as a result of participating in such features, you could notify us by e-mail at <<privacy email ID>>.
+The website has many features that provide for users/members to disclose their identities and communicate with other users/members. Your use of such features and disclosure of any personal details (e.g. e-mail address, name, social media information) by you through these features are at your sole risk and the website accepts no responsibility for the same. However, if your privacy has been intruded as a result of participating in such features, you could notify us by e-mail at [GDPR@nw18.com](mailto:GDPR@nw18.com).
 
 If you choose to post messages on social media accounts, message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law. We may also retain such information on an aggregated basis to formulate market trends and market sentiments. We do not, however, associate any of your personal information with these comments or posts while performing such analysis.
 
@@ -174,7 +174,7 @@ We provide personalisation by using data you submit to us in terms of cookies, I
 
 You can click on [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/) to modify your choices with respect to capturing of cookies from your website.
 
-You can also raise a request to alter your consent choices at <<Email ID>>.
+You can also raise a request to alter your consent choices at [GDPR@NW18.com](mailto:GDPR@NW18.com)
 
 **Information used by the company**
 
@@ -252,7 +252,7 @@ When you use the Services from Network18 (websites or any of its sub sites), we 
 
 We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
-To exercise rights applicable to you as a data subject, you must write to us at <Insert email Id>and raise a request for the specified right. Kindly ensure you use appropriate subjects to mention the right (e.g. Data Access Request, Data Portability Request, Data Deletion Request) while raising all such requests, this would help us process your requests in a faster and more efficient manner. 
+To exercise rights applicable to you as a data subject, you must write to us at Insert email Id and raise a request for the specified right. Kindly ensure you use appropriate subjects to mention the right (e.g. Data Access Request, Data Portability Request, Data Deletion Request) while raising all such requests, this would help us process your requests in a faster and more efficient manner. 
 
 We may take 30 days from the date of receipt of request to complete your requests. However, if the nature of the requests are excessive in nature or would require significant effort then may ask for an extension of 60 days by giving a prior notice to you with the reason for the extension.
 
@@ -318,19 +318,27 @@ This Privacy Policy is subject to change from time to time. We reserve the right
 
 a. Support
 
-If you require any information or clarification regarding the use of your personal information or this privacy policy or grievances with respect to use of your personal information, please email us at GDPR@NW18.com
+If you require any information or clarification regarding the use of your personal information or this privacy policy or grievances with respect to use of your personal information, please email us at [GDPR@NW18.com](mailto:GDPR@NW18.com)
 
 **b. Data Controller Officer**
 
-The data controller for the website is Network18 Media and Investments Ltd with the business address of: <XXX>
+The data controller for the website is Network18 Media and Investments Ltd with the business address of:
 
-The data protection officer (DPO) appointed by Network18 Media and Investments Ltd. Is <DPO name>is who can be contacted at <DPO email ID>
+First Floor, Empire Complex,
+
+414 Senapati Bapat Marg,
+
+Lower Parel, Mumbai-400013
+
+Maharashtra, India
+
+Ph: +91 22 4001 9000
+
+The data protection officer (DPO) appointed by Network18 Media and Investments Ltd. Is DPO **Mr. Nitesh Srivastava** is who can be contacted at [DPO@nw18.com](mailto:DPO@nw18.com)
 
 **c. Complaints**
 
 You can write to our data protection officer in case of any grievance or compliant. You have the right to complaint about the data processing activities carried out by the website before the competent data protection authorities. 
-
-If you have any queries, complaints regarding the collecting, processing, transfer of personal data/information or regarding this policy please do contact our Data Protection Officer.
 
 **Cookies**
 
@@ -362,7 +370,7 @@ Cookies may also be saved by social media tools if you use these functionalities
 
 First-party cookies
 
-These are the cookies that belong to us and that we place on your device or are those set by a website that is being visited by you at the time. We use these cookies as they are absolutely necessary to provide you moneycontol’s services. If you choose to opt out of these cookies, then we may not be able to provide you services. The table below would help you to understand what these necessary cookies do.
+These are the cookies that belong to us and that we place on your device or are those set by a website that is being visited by you at the time. We use these cookies as they are absolutely necessary to provide you firstpost’s services. If you choose to opt out of these cookies, then we may not be able to provide you services. The table below would help you to understand what these necessary cookies do.
 
 **Third-party cookies**
 
@@ -414,32 +422,4 @@ For more information on the development of user-profiles and the use of targetin
 
 More detail on how businesses use cookies is available at www.allaboutcookies.org.
 
-If you have any queries regarding this Cookie Policy please contact our Data Protection Officer at 
-
-<DPO Name>
-
-<DPO email details>
-
-**Notification of Changes**
-
-firstpost may amend this Privacy Policy from time to time and we will post the latest version on this Website. If we ever wish to use your personal information in a way which is incompatible with the information in this Privacy Policy, we will only do so with your consent.
-
-**Acceptance of Privacy Policy**
-
-Your right to access this Website is conditional upon your full acceptance of this Privacy Policy and by accessing the Website you signify your consent that we store and process your personal data in accordance with this Privacy Policy.
-
-**Notify Us**
-
-If at any time you believe that firstpost.com or its users/members have not adhered to these principles, please notify firstpost.com by e-mail at privacy@firstpost.com and we will use all commercially reasonable efforts to promptly determine and correct the problem.
-
-**XI. Contact information**
-
-**a. Support** If you require any information or clarification regarding the use of your personal information or this privacy policy or grievances with respect to use of your personal information, please email us at GDPR@NW18.com
-
-**b. Data Controller Officer** The data controller for the moneycontrol.com is Network18 Media & Investments Ltd with the business address of: 
-
-First Floor, Empire Complex, 414 Senapati Bapat Marg, Lower Parel, Mumbai-400013 Maharashtra, India Ph: +91 22 4001 9000 
-
-The data protection officer (DPO) appointed by Network18 Media & Investments Ltd. is Mr. Nitesh Srivastava, who can be contacted at DPO@nw18.com 
-
-**c. Complaints** You can write to our data protection officer in case of any grievance or compliant. You have the right to complaint about the data processing activities carried out by moneycontrol.com before the competent data protection authorities. If you have any queries, complaints regarding the collecting, processing, transfer of personal data/information or regarding this policy please do contact our Data Protection Officer. 
+If you have any queries regarding this Cookie Policy please contact our Data Protection Officer **Mr. Nitesh Srivastava** at [DPO@nw18.com](mailto:DPO@nw18.com)
