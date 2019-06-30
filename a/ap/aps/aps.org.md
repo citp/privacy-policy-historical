@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aps.org privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215025229id_/https%3A//www.aps.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aps.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630204826id_/https%3A//www.aps.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
